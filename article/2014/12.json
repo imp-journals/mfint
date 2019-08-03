@@ -1,0 +1,187 @@
+{
+	"year":   2014,
+	"volume": 36,
+	"issue":  12,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [1571,1596],
+			"title": {
+				"ua": "Аналіз просторових структур, що виникають за евтектичної кристалізації та коміркового розпаду пересичених твердих розчинів",
+				"en": "Analysis of Spatial Structures Arising During Eutectic Crystallization and Cellular Decomposition of Solid Solutions",
+				"ru": "Анализ пространственных структур, возникающих при эвтектической кристаллизации и ячеистом распаде пересыщенных твёрдых растворов"
+			},
+			"autors": {
+				"ua": "М. О. Іванов, А. Ю. Наумук",
+				"en": "M. O. Ivanov and A. Yu. Naumuk",
+				"ru": "М. А. Иванов, А. Ю. Наумук"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [1597,1608],
+			"title": {
+				"ua": "Структурна характеризація та преципітація в стопі AlMg$_{5}$Si$_{2}$Mn",
+				"en": "Structural Characterization and Precipitation in AlMg$_{5}$Si$_{2}$Mn Alloy",
+				"ru": "Структурная характеризация и преципитация в сплаве AlMg$_{5}$Si$_{2}$Mn"
+			},
+			"autors": {
+				"ua": "В. В. Бойко, Т. Лінк, К. В. Михаленков",
+				"en": "V. V. Boyko, T. Link, and K. V. Mykhalenkov",
+				"ru": "В. В. Бойко, Т. Линк, К. В. Михаленков"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [1609,1620],
+			"title": {
+				"ua": "Низькотемпературна взаємна дифузія та утворення упорядкованих фаз в нанокристалічних тонких плівках Au/Cu в різних атмосферах",
+				"en": "Low-Temperature Interdiffusion and Ordered Phase Formation in Au/Cu Nanocrystalline Thin Films at the Different Atmospheres",
+				"ru": "Низкотемпературная взаимная диффузия и образование упорядоченных фаз в нанокристаллических тонких плёнках Au/Cu в разных атмосферах"
+			},
+			"autors": {
+				"ua": "А. А. Тінькова, С. І. Сидоренко, І. Є. Котенко, В. Л. Свєчніков, С. М. Волошко",
+				"en": "A. A. Tynkova, S. I. Sidorenko, I. E. Kotenko, V. L. Svetchnikov, and S. M. Voloshko",
+				"ru": "А. А. Тинькова, С. И. Сидоренко, И. Е. Котенко, В. Л. Свечников, С. М. Волошко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [1621,1634],
+			"title": {
+				"ua": "Термостабільність нанорозмірних плівок Co—Sb",
+				"en": "Thermal Stability of Nanoscale Co—Sb Films",
+				"ru": "Термостабильность наноразмерных плёнок Co—Sb"
+			},
+			"autors": {
+				"ua": "Ю. М. Макогон, О. П. Павлова, С. І. Сидоренко, Д. Беке, А. Чік, Р. А. Шкарбань",
+				"en": "Yu. N. Makogon, E. P. Pavlova, S. I. Sidorenko, D. Bеkе, А. Csik, and R. А. Shkarban",
+				"ru": "Ю. Н. Макогон, Е. П. Павлова, С. И. Сидоренко, Д. Беке, А. Чик, Р. А. Шкарбань"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [1635,1640],
+			"title": {
+				"ua": "Щодо частот колективних електронних осциляцій у провідних нановолокнах",
+				"en": "On the Frequencies of Collective Electron Oscillations in Conductive Nanofibers",
+				"ru": "О частотах коллективных электронных осцилляций в проводящих нановолокнах"
+			},
+			"autors": {
+				"ua": "Ю. Корнюшин",
+				"en": "Yu. Kornyushin",
+				"ru": "Ю. Корнюшин"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [1641,1650],
+			"title": {
+				"ua": "Вплив неоднорідного магнетного поля на фізичні властивості металовміщувальних полімерних композитів",
+				"en": "Effect of Inhomogeneous Magnetic Field on the Physical Properties of Metal—Polymer Composites",
+				"ru": "Влияние неоднородного магнитного поля на физические свойства металлосодержащих полимерных композитов"
+			},
+			"autors": {
+				"ua": "В. Н. Білик, Г. В. Кірік, О. Г. Медведовська, А. Д. Стаднік, Г. К. Чепурних, С. В. Соколов",
+				"en": "V. N. Bilyk, G. V. Kirik, O. G. Medvedovskaya, A. D. Stadnik, G. K. Chepurnykh, and S. V. Sokolov",
+				"ru": "В. Н. Билык, Г. В. Кирик, О. Г. Медведовская, А. Д. Стадник, Г. К. Чепурных, С. В. Соколов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [1651,1660],
+			"title": {
+				"ua": "Стопи на основі Zr—Nb – перспективні функціональні матеріали",
+				"en": "Zr—Nb-Based Alloys – Promising Functional Materials",
+				"ru": "Сплавы на основе Zr—Nb – перспективные функциональные материалы"
+			},
+			"autors": {
+				"ua": "C. Н. Кедровський, Ю. М. Коваль, В. М. Сліпченко",
+				"en": "S. N. Kedrovsky, Yu. N. Koval’, and V. N. Slepchenko",
+				"ru": "C. Н. Кедровский, Ю. Н. Коваль, В. Н. Слепченко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [1661,1670],
+			"title": {
+				"ua": "Особливості гістерезису мартенситного перетворення в стопах Cu—Al—Mn",
+				"en": "Features of Hysteresis of Martensitic Transformations in Cu—Al—Mn Alloys",
+				"ru": "Особенности гистерезиса мартенситного превращения в сплавах Cu—Al—Mn"
+			},
+			"autors": {
+				"ua": "І. Р. Бублей, Ю. М. Коваль, П. В. Тітов",
+				"en": "I. R. Bubley, Yu. N. Koval’, and P. V. Titov",
+				"ru": "И. Р. Бублей, Ю. Н. Коваль, П. В. Титов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [1671,1678],
+			"title": {
+				"ua": "Вплив повторних мартенситних перетворень на властивості стопу з пам’яттю форми Cu—Al—Mn",
+				"en": "Influence of Repeated Martensitic Transformations on Properties of Shape-Memory Cu—Al—Mn Alloy",
+				"ru": "Влияние повторных мартенситных превращений на свойства сплава с памятью формы Cu—Al—Mn"
+			},
+			"autors": {
+				"ua": "Л. Є. Козлова, А. О. Перекос, В. П. Залуцький, С. М. Коноплюк, В. В. Кокорін, Д. М. Трояновський",
+				"en": "L. E. Kozlova, A. O. Perekos, V. P. Zalutskiy, S. M. Konoplyuk, V. V. Kokorin, and D. M. Troyanovskiy",
+				"ru": "Л. Е. Козлова, А. Е. Перекос, В. П. Залуцкий, С. М. Коноплюк, В. В. Кокорин, Д. М. Трояновский"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [1679,1694],
+			"title": {
+				"ua": "Вплив електроіскрового дисперґування на магнетні та електротранспортні властивості Гойслерового стопу Cu—Mn—Al",
+				"en": "Effect of Electric-Spark Dispergation on Magnetic and Electrical-Transport Properties of Heusler Cu—Mn—Al Alloy",
+				"ru": "Влияние электроискрового диспергирования на магнитные и электротранспортные свойства сплава Гейслера Cu—Mn—Al"
+			},
+			"autors": {
+				"ua": "В. М. Надутов, А. О. Перекос, В. В. Кокорін, С. М. Коноплюк, Т. В. Єфімова, В. П. Залуцький",
+				"en": "V. M. Nadutov, A. O. Perekos, V. V. Kokorin, S. M. Konoplyuk, T. V. Yefimova, and V. P. Zalutskiy",
+				"ru": "В. М. Надутов, А. Е. Перекос, В. В. Кокорин, С. М. Коноплюк, Т. В. Ефимова, В. П. Залуцкий"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1695,1700],
+			"title": {
+				"ua": "Особливості зміни мікромеханічних характеристик кремнію при комбінованій дії магнетного поля та малих доз Рентґенового випромінення",
+				"en": "Features of Change of Micromechanical Characteristics of Silicon Stimulated by the Combined Action of both Magnetic Field and Low Doses of X-Rays",
+				"ru": "Особенности изменения микромеханических характеристик кремния при комбинированном действии магнитного поля и малых доз рентгеновского излучения"
+			},
+			"autors": {
+				"ua": "Л. П. Стебленко, А. М. Курилюк, С. М. Науменко, Ю. Л. Кобзар, О. М. Кріт, Д. В. Калініченко, П. О. Теселько, П. П. Когутюк",
+				"en": "L. P. Steblenko, А. M. Kuryliuk, S. M. Naumenko, Yu. L. Kobzar, O. M. Krit, D. V. Kalinichenko, P. О. Teselko, and P. P. Kogutyuk",
+				"ru": "Л. П. Стебленко, А. Н. Курилюк, С. Н. Науменко, Ю. Л. Кобзарь, А. Н. Крит, Д. В. Калиниченко, П. А. Теселько, П. П. Когутюк"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1701,1710],
+			"title": {
+				"ua": "Воднева крихкість та воднева пластичність сталі",
+				"en": "Hydrogen Brittleness and Hydrogen Plasticity of Steel",
+				"ru": "Водородная хрупкость и водородная пластичность стали"
+			},
+			"autors": {
+				"ua": "В. О. Сошко, І. П. Сімінченко, В. С. Ляшков",
+				"en": "V. O. Soshko, I. P. Siminchenko, and V. S. Lyashkov",
+				"ru": "В. А. Сошко, И. П. Симинченко, В. С. Ляшков"
+			}
+		}
+	]
+}

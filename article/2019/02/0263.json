@@ -1,0 +1,140 @@
+{
+	"_id":    "MFiNT.41.02.0263",
+	"year":   2019,
+	"volume": 41,
+	"issue":  2,
+	"pages":  [263,278],
+	"rubric": 18,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["10.12.2018"],
+	"PACS":   "07.05.Mh, 07.60.-j, 78.30.Er, 78.40.Kc, 81.70.Jb, 82.80.-d",
+	"title":   {
+		"ua": "Інтелектуальна прецизійна гоніометрична система аналізи інтенсивностей спектрального розподілу для визначення хемічного складу металовмісних речовин",
+		"en": "Intelligent Precise Goniometric System of Analysis of Spectral Distribution Intensities for Definition of Chemical Composition of Metal-Containing Substances",
+		"ru": "Интеллектуальная прецизионная гониометрическая система анализа интенсивности спектрального распределения для определения химического состава металлосодержащих веществ"
+	},
+	"abstract": {
+		"ua": "Статтю присвячено актуальній проблемі — визначенню хемічного складу металовмісних речовин. На основі аналізи методи спектроскопії, нейромережевих технологій і фізичних принципів роботи фотоелементів запропоновано нову прецизійну інтелектуальну гоніометричну систему на основі лазерного гоніометра, CMOS-матриці та штучної нейронної мережі. Система уможливлює проводити аналізу інтенсивностей спектрального розподілу. Вона поєднує такі переваги як безпечність для здоров’я людей і навколишнього середовища, високу продуктивність, простоту використання, універсальність, можливість автоматизованого оброблення вимірювальної інформації.",
+		"en": "The article dedicated to urgent task—definition of chemical composition of metal-containing substances. The new precise intelligent goniometric system, which contains laser goniometer, CMOS image sensor, and artificial neural network, is proposed. This system combines the advantages such as safety for humans and environment, high productivity, usage simplicity, universality, automated processing of the measuring data.",
+		"ru": "Статья посвящена актуальной проблеме — определению химического состава металлосодержащих веществ. На основе анализа метода спектроскопии, нейросетевых технологий и физических принципов работы фотоэлементов предложена новая прецизионная интеллектуальная гониометрическая система на основе лазерного гониометра, CMOS-матрицы и искусственной нейронной сети (ИНС). Система позволяет проводить анализ интенсивностей спектрального распределения. Она объединяет такие преимущества как безопасность для здоровья людей и окружающей среды, высокую производительность, простоту использования, универсальность, возможность автоматизированной обработки измерительной информации. Высокая производительность работы системы достигается за счёт возможности ИНС осуществлять одновременную обработку множества цифровых данных методами параллельной обработки. Безопасность системы обеспечивается за счёт применения принципов лазерной спектроскопии и исключения вредного рентгеновского излучения. Высокая точность системы достигается за счёт использования CCD- и CMOS-матриц с большой разрешающей способностью в качестве чувствительных элементов."
+	},
+	"keywords": {
+		"ua": "лазерний гоніометер, хемічний склад, спектральний розподіл, штучна нейронна мережа, струм наситу, довжина світлової хвилі, чутливість фотоелементів",
+		"en": "laser goniometer, chemical composition, spectral distribution, artificial neural network, saturation current, wavelength of light, photocell sensitivity",
+		"ru": "лазерный гониометр, химический состав, спектральное распределение, искусственная нейронная сеть, ток насыщения, длина световой волны, чувствительность фотоэлементов"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. Ю. Черепанська", "en": "I. Cherepanska", "ru": "И. Ю. Черепанская"},
+			"OID": [270]
+		},
+		{
+			"AID": {"ua": "О. М. Безвесільна", "en": "O. Bezvesilna", "ru": "Е. Н. Безвесильная"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "Ю. М. Коваль", "en": "Yu. Koval", "ru": "Ю. Н. Коваль"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. Ю. Сазонов", "en": "A. Sazonov", "ru": "А. Ю. Сазонов"},
+			"OID": [270]
+		}
+	],
+	"references": {
+		"count": 18,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "V. A. Purtskhvanidze, Gistokhimicheskie i Morfologicheskie Osobennosti Khrustalika Gidrobiontov pri Deystvii Lazernogo i Rentgenovskogo Oblucheniya (Disser. … for the Degree of Cand. Biolog. Sci.) (Moscow: Moscow State Technol. Academia: 2003) (in Russian).",
+				"tr":  "V. A. Purtskhvanidze, Gistokhimicheskie i Morfologicheskie Osobennosti Khrustalika Gidrobiontov pri Deystvii Lazernogo i Rentgenovskogo Oblucheniya (Disser. … for the Degree of Cand. Biolog. Sci.) (Moscow: Moscow State Technol. Academia: 2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "R. I. Filyaevskikh and M. A. Gan, Videotsifrovaya Sistema Opticheskogo Refraktometra (in Russian), http://docplayer.ru/32750438-Videocifrovaya-sistema-opticheskogo-refraktometra.html",
+				"tr":  "R. I. Filyaevskikh and M. A. Gan, Videotsifrovaya Sistema Opticheskogo Refraktometra (in Russian), http://docplayer.ru/32750438-Videocifrovaya-sistema-opticheskogo-refraktometra.html"
+			},
+			{
+				"doi": "10.1155/2017/1614654",
+				"or":  "K. Rehan, I. Rehan, S. Sultana, M. Zubair Khan, Z. Farooq, A. Mateen, and M. Humayun, Int. J. Spectrosc., 2017: 1614654 (2017).",
+				"tr":  "K. Rehan, I. Rehan, S. Sultana, M. Zubair Khan, Z. Farooq, A. Mateen, and M. Humayun, Int. J. Spectrosc., 2017: 1614654 (2017)."
+			},
+			{
+				"doi": "10.1016/S0016-7061(01)00115-X",
+				"or":  "F. Capitelli, F. Colao, M. R. Provenzano, R. Fantoni, G. Brunetti, and N. Senesi, Geoderma, 106, Iss. 1–2: 45 (2002).",
+				"tr":  "F. Capitelli, F. Colao, M. R. Provenzano, R. Fantoni, G. Brunetti, and N. Senesi, Geoderma, 106, Iss. 1–2: 45 (2002)."
+			},
+			{
+				"doi": "10.1080/02786826.2011.625059",
+				"or":  "P. Diwakar, P. Kulkarni, and M. E. Birch, Aerosol Sci. Technol., 46, Iss. 3: 316 (2012).",
+				"tr":  "P. Diwakar, P. Kulkarni, and M. E. Birch, Aerosol Sci. Technol., 46, Iss. 3: 316 (2012)."
+			},
+			{
+				"doi": "10.1134/S1063780X15090019",
+				"or":  "M. Achouri, T. Baba-Hamed, S. A. Beldjilali, and A. Belasri, Plasma Phys. Rep., 41, Iss. 9: 758 (2015).",
+				"tr":  "M. Achouri, T. Baba-Hamed, S. A. Beldjilali, and A. Belasri, Plasma Phys. Rep., 41, Iss. 9: 758 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "Programmnoe Obespechenie dlya Spektrometrov (in Russian), www.directindustry.com.ru/proizvoditel-promyshlennyj/programmnoe-obespecenie-spektrometrov-109161.html",
+				"tr":  "Programmnoe Obespechenie dlya Spektrometrov (in Russian), www.directindustry.com.ru/proizvoditel-promyshlennyj/programmnoe-obespecenie-spektrometrov-109161.html"
+			},
+			{
+				"doi": "",
+				"or":  "Programmnoe Obespechenie SATO (in Russian), www.sp-an.com/software.htm",
+				"tr":  "Programmnoe Obespechenie SATO (in Russian), www.sp-an.com/software.htm"
+			},
+			{
+				"doi": "",
+				"or":  "Optiko-Emissionnyy Spektrometr ARL 4460 (in Russian), https://thermotechno.ru/catalog/143/396/",
+				"tr":  "Optiko-Emissionnyy Spektrometr ARL 4460 (in Russian), https://thermotechno.ru/catalog/143/396/."
+			},
+			{
+				"doi": "",
+				"or":  "Atomnye Optiko-Emissionnye Spektrometry (in Russian), www.iskroline.ru/spectrometers/",
+				"tr":  "Atomnye Optiko-Emissionnye Spektrometry (in Russian), www.iskroline.ru/spectrometers/"
+			},
+			{
+				"doi": "",
+				"or":  "Spektrofotometr ULAB 102 (325–1000 nm, Programmiruemyy) (in Russian), https://prom.ua/p99301350-spektrofotometr-ulab-102.html",
+				"tr":  "Spektrofotometr ULAB 102 (325–1000 nm, Programmiruemyy) (in Russian), https://prom.ua/p99301350-spektrofotometr-ulab-102.html"
+			},
+			{
+				"doi": "",
+				"or":  "I. Yu. Cherepanska, O. M. Bezvesilna, and A. Yu. Sazonov, Shtuchni Neyronni Merezhi pry Vyrishenni Zadach Tehnologichnoyi Pidgotovky Gnuchkogo Vyrobnytstva [Artificial Neural Networks in Solving Problems of Technological Preparation of Flexible Manufacturing] (Kyiv: NTUU ‘Igor Sikorsky KPI’: 2018) (in Ukrainian).",
+				"tr":  "I. Yu. Cherepanska, O. M. Bezvesilna, and A. Yu. Sazonov, Shtuchni Neyronni Merezhi pry Vyrishenni Zadach Tehnologichnoyi Pidgotovky Gnuchkogo Vyrobnytstva [Artificial Neural Networks in Solving Problems of Technological Preparation of Flexible Manufacturing] (Kyiv: NTUU 'Igor Sikorsky KPI': 2018) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "I. Cherepanska, E. Bezvesilna, and A. Sazonov, Proc. of the Int. Conf. ‘Advances in Systems, Control and Information Technology’ (May 20–21, 2016, Warsaw, Poland) (Warsaw: Springer Int. Publ.: 2017), p. 43.",
+				"tr":  "I. Cherepanska, E. Bezvesilna, and A. Sazonov, Proc. of the Int. Conf. 'Advances in Systems, Control and Information Technology' (May 20–21, 2016, Warsaw, Poland) (Warsaw: Springer Int. Publ.: 2017), p. 43."
+			},
+			{
+				"doi": "10.1109/sbec.2013.64",
+				"or":  "C. L. Bennett, C. Odom, and M. Ben-Asher, 29th Southern Biomedical Eng. Conf. ‘Knee Angle Estimation Based on IMU Data and Artificial Neural Networks’ (May 3–5, 2013, Miami, FL, USA) (Miami: IEEE: 2013).",
+				"tr":  "C. L. Bennett, C. Odom, and M. Ben-Asher, 29th Southern Biomedical Eng. Conf. 'Knee Angle Estimation Based on IMU Data and Artificial Neural Networks' (May 3–5, 2013, Miami, FL, USA) (Miami: IEEE: 2013)."
+			},
+			{
+				"doi": "10.1186/1475-925X-8-2",
+				"or":  "N. A. Shrirao, N. P. Reddy, and D. R. Kosuri, BioMedical Engineering OnLine, 8: 2 (2009).",
+				"tr":  "N. A. Shrirao, N. P. Reddy, and D. R. Kosuri, BioMedical Engineering OnLine, 8: 2 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "A. D. Angel, M. Glavic, and L. Wehenkel, Using Artificial Neural Networks to Estimate Rotor Angles and Speeds from Phasor Measurements, http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.151.7413&rep=rep1&type=pdf",
+				"tr":  "A. D. Angel, M. Glavic, and L. Wehenkel, Using Artificial Neural Networks to Estimate Rotor Angles and Speeds from Phasor Measurements, http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.151.7413&rep=rep1&type=pdf"
+			},
+			{
+				"doi": "10.1155/2017/9083916",
+				"or":  "J. Zhang, H. Li, L. Lv, and Y. Zhang, Int. J. Biomedical Imaging, 2017, Article ID 9083916 (2017).",
+				"tr":  "J. Zhang, H. Li, L. Lv, and Y. Zhang, Int. J. Biomedical Imaging, 2017, Article ID 9083916 (2017)."
+			},
+			{
+				"doi": "",
+				"or":  "M. N. Libenson, E. B. Yakovlev, and G. D. Shandybina, Vzaimodeystvie Lazernogo Izlucheniya s Veshchestvom (Silovaya Optika) [Interaction of Laser Radiation with a Substance (Power Optics)] (Saint Petersburg: NIU ITMO: 2008) (in Russian).",
+				"tr":  "M. N. Libenson, E. B. Yakovlev, and G. D. Shandybina, Vzaimodeystvie Lazernogo Izlucheniya s Veshchestvom (Silovaya Optika) [Interaction of Laser Radiation with a Substance (Power Optics)] (Saint Petersburg: NIU ITMO: 2008) (in Russian)."
+			}
+		]
+	}
+}

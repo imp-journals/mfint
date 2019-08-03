@@ -1,0 +1,115 @@
+{
+	"_id":    "MFiNT.41.02.0213",
+	"year":   2019,
+	"volume": 41,
+	"issue":  2,
+	"pages":  [213,226],
+	"rubric": 15,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["06.09.2018"],
+	"PACS":   "61.43.Gt, 61.66.Dk, 61.72.Ff, 62.20.-x, 81.05.Bx, 81.05.Rm, 81.20.Ev",
+	"title":   {
+		"ua": "Твердофазна синтеза стопів системи Zr–Ti–Nb з багатокомпонентних порошкових сумішей",
+		"en": "Solid-Phase Synthesis of Alloys of Zr–Ti–Nb System from Multicomponent Powder Blends",
+		"ru": "Твердофазный синтез сплавов системы Zr–Ti–Nb из многокомпонентных порошковых смесей"
+	},
+	"abstract": {
+		"ua": "Стопи 59Zr–19Ti–22Nb та 35Zr–40Ti–25Nb (% мас.) біомедичного призначення з ОЦК-структурою одержано методою холодного пресування та вакуумного спікання багатокомпонентних порошкових сумішей. Досліджено особливості об’ємних ефектів при спіканні різних сумішей, у котрі потрібна кількість елементів вводилася у вигляді порошкових гідриду цирконію, гідриду титану, ніобію та наводненого ніобію, а також наводнених ліґатур Zr–Nb і Ti–Nb. Визначено вплив типу сумішей на мікроструктуру з метою пониження залишкової пористости синтезованих стопів. Об’ємні ефекти при нагріванні порошкових сумішей і вміст пор у синтезованих стопах визначаються, в першу чергу, типом використаних порошків і, меншою мірою, загальним хемічним складом сумішей. Введення ніобію у вигляді окремого порошку сприяє збереженню при спіканні 6–9% пор внаслідок розвитку Френкелевого ефекту при дифузійній гомогенізації системи частинок, в той час як використання ліґатур Zr–Nb і Ti–Nb забезпечує пониження кінцевої пористости обох стопів приблизно до 2%.",
+		"en": "Biomedical 59Zr–19Ti–22Nb and 35Zr–40Ti–25Nb (% mass.) alloys having b.c.c. structure are fabricated with cold compaction and vacuum sintering of multicomponent powder blends. Volume effects upon sintering of various powder blends, which contain zirconium hydride, titanium hydride, niobium and hydrogenated niobium as well as Zr–Nb and Ti–Nb master alloy powders, are investigated. The influence of used powders on microstructure of synthesized alloys is determined for the goal of residual porosity reducing. Volume effects upon powder blend heating as well as porosity of alloy fabricated are dependent, first of all, on type of powder used, and on total composition of powder blends. If niobium is introduced as separate powder, diffusion homogenization of such powder blends results in 6–9% porosity due to development of Frenkel effect in sintered alloys. Contrary, application of Zr–Nb and Ti–Nb master alloy powders provides porosity reduction to 2% for both synthesized compositions.",
+		"ru": "Сплавы 59Zr–19Ti–22Nb и 35Zr–40Ti–25Nb (% масс.) биомедицинского назначения с ОЦК-структурой получены методом холодного прессования и вакуумного спекания многокомпонентных порошковых смесей. Исследованы особенности объёмных эффектов при спекании разных смесей, в которые необходимое количество элементов вводилось в виде порошковых гидрида циркония, гидрида титана, ниобия и наводороженного ниобия, а также наводороженных лигатур Zr–Nb и Ti–Nb. Определено влияние типа смесей на микроструктуру синтезированных сплавов с целью снижения остаточной пористости. Объёмные эффекты при нагревании смесей и содержание пор в конечных сплавах определяются, в первую очередь, типом использованных порошков и, в меньшей мере, общим химическим составом смесей. Введение ниобия в виде отдельного порошка сохраняет при спекании 6–9% пор вследствие развития эффекта Френкеля при диффузионной гомогенизации системы частиц; в то же время использование лигатур Zr–Nb и Ti–Nb обеспечивает снижение пористости обоих сплавов приблизительно до 2%."
+	},
+	"keywords": {
+		"ua": "біомедичні стопи, порошкові суміші, наводнені порошки, спікання, мікроструктура",
+		"en": "biomedical alloys, powder blends, hydrogenated powders, sintering, microstructure",
+		"ru": "биомедицинские сплавы, порошковые смеси, наводороженные порошки, спекание, микроструктура"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Д. В. Оришич", "en": "D. V. Oryshych", "ru": "Д. В. Оришич"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Д. Г. Саввакін", "en": "D. G. Savvakin", "ru": "Д. Г. Саввакін"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. О. Стасюк", "en": "O. O. Stasiuk", "ru": "О. О. Стасюк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Б. Я. Меламед", "en": "B. Ya. Melamed", "ru": "Б. Я. Меламед"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 13,
+		"list":  [
+			{
+				"doi": "10.1007/s11661-002-0109-2",
+				"or":  "M. Niinomi, Metall. Mater. Trans. A, 33: 477 (2002).",
+				"tr":  "M. Niinomi, Metall. Mater. Trans. A, 33: 477 (2002)."
+			},
+			{
+				"doi": "10.1016/j.actbio.2012.06.037",
+				"or":  "M. Niinomi, M. Nakai, and J. Hieda, Acta Biomaterialia, 8: 3888 (2012).",
+				"tr":  "M. Niinomi, M. Nakai, and J. Hieda, Acta Biomaterialia, 8: 3888 (2012)."
+			},
+			{
+				"doi": "10.2320/jinstmet1952.64.11_1120",
+				"or":  "M. Takahashi, E. Kobayashi, H. Doi, T. Yoneyama, and H. Hamanaka, J. Jpn. Inst. Met., 64: 1120-6 (2000).",
+				"tr":  "M. Takahashi, E. Kobayashi, H. Doi, T. Yoneyama, and H. Hamanaka, J. Jpn. Inst. Met., 64: 1120-6 (2000)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2004.08.099",
+				"or":  "G. J. Yang and T. Zhang, J. Alloy Compd., 392: 291-4 (2005).",
+				"tr":  "G. J. Yang and T. Zhang, J. Alloy Compd., 392: 291-4 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Ивасишин, А. А. Попов, О. П. Карасевская, П. E. Марковский, Б. Н. Мордюк, И. А. Скиба, А. Г. Илларионов, Металлофиз. новейшие технол., 33, № 5: 675 (2011).",
+				"tr":  "O. M. Ivasishin, A. A. Popov, O. P. Karasevska, P. E. Markovskyy, B. M. Mordyuk, I. O. Skiba, and A. G. Illarionov, Metallofiz. Noveishie Tekhnol., 33, No. 5: 675 (2011) (in Russian)."
+			},
+			{
+				"doi": "10.7868/S0015323014030048",
+				"or":  "С. В. Гриб, А. Г. Илларионов, А. А. Попов, О. М. Ивасишин, Физика металлов и металловедение, 115, № 6: 638 (2014).",
+				"tr":  "S. V. Grib, A. G. Illarionov, A. A. Popov, and O. M. Ivasishin, Fizika Metallov i Metallovedenie, 115, No. 6: 638 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.15407/fm24.01",
+				"or":  "A. N. Timoshevskii, S. Yablonovskyy, and O. M. Ivasishin, Functional Materials, 19, No. 2: 266 (2012).",
+				"tr":  "A. N. Timoshevskii, S. Yablonovskyy, and O. M. Ivasishin, Functional Materials, 19, No. 2: 266 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Г. Саввакин, Н. М. Гуменяк, Металлофиз. новейшие технол., 35, № 3: 349 (2013).",
+				"tr":  "D. G. Savvakin and N. M. Gumenyak, Metallofiz. Noveishie Tekhnol., 35, No. 3: 349 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Івасишин, Д. Г. Саввакін, ФХММ, 51, № 4: 27 (2015).",
+				"tr":  "O. M. Ivasishin and D. H.Savvakin, FKhMM, 51, No. 4: 27 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1179/095066090790323984",
+				"or":  "F. H. Froes and D. Eylon, Inter. Mater. Rev., 35, No. 3: 162 (1990).",
+				"tr":  "F. H. Froes and D. Eylon, Inter. Mater. Rev., 35, No. 3: 162 (1990)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/KEM.436.113",
+				"or":  "O. M. Ivasishin and D. G. Savvakin, Key Engineering Materials, 436: 113 (2010).",
+				"tr":  "O. M. Ivasishin and D. G. Savvakin, Key Engineering Materials, 436: 113 (2010)."
+			},
+			{
+				"doi": "10.15407/mfint.38.11.1527",
+				"or":  "О. М. Івасишин, О. П. Карасевська, Д. Г. Саввакін, М. М. Гуменяк, Я. І. Мельник, О. О. Стасюк, Металлофиз. новейшие технол., 38, № 11: 1527 (2016).",
+				"tr":  "O. M. Ivasishin, O. P. Karasevska, D. G. Savvakin, M. M. Humenyak, Ya. I. Melnyk, and O. O. Stasiuk, Metallofiz. Noveishie Tekhnol., 38, No. 11: 1527 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "DICTRA Software Database.",
+				"tr":  "DICTRA Software Database."
+			}
+		]
+	}
+}

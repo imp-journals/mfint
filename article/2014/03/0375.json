@@ -1,0 +1,63 @@
+{
+	"_id":    "MFiNT.36.03.0375",
+	"year":   2014,
+	"volume": 36,
+	"issue":  3,
+	"pages":  [375,381],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["29.11.2013"],
+	"PACS":   "61.66.Dk, 66.30.je, 68.43.Mn, 81.20.Ev, 88.30.rd",
+	"title":   {
+		"ua": "Вплив добавки ванадію на водневу ємність і кінетику сорбції-десорбції евтектичного стопу системи Ti—Zr—Mn",
+		"en": "The Influence of Vanadium Addition on Hydrogen Capacity and Absorption—Desorption Kinetics of the Eutectic Ti—Zr—Mn Alloy",
+		"ru": "Влияние добавки ванадия на водородную ёмкость и кинетику сорбции—десорбции эвтектического сплава системы Ti—Zr—Mn"
+	},
+	"abstract": {
+		"ua": "Досліджено вплив часткової заміни титану ванадієм на структуру і фазовий склад стопу Ti$_{45,5}$Zr$_{30}$Mn$_{22,5}$V$_{2}$ в литому стані, а також на кінетичні параметри процесів гідрування і дегідрування. Встановлено, що введення ванадію не впливає на процес сорбції водню при першому гідруванні, проте температура початку виділення знижується на 25°C. Активований стоп, що пройшов цикл сорбція—десорбція, здатен поглинати водень вже за кімнатної температури і тиску в 0,23 МПа. Показано, що за два цикли сорбція—десорбція + сорбція можна подрібнити стоп у порошок з середнім розміром частинок $\\cong$ 80 мкм.",
+		"en": "The influence of partial replacement of titanium by vanadium on the structure and phase composition of the cast Ti$_{45.5}$Zr$_{30}$Mn$_{22.5}$V$_{2}$ alloy and on the kinetic parameters of hydrogenation and dehydrogenation processes is studied. As established, the vanadium introduction does not affect the sorption of hydrogen at the first hydrogenation cycle, however, the temperature of hydrogen desorption reduced by 25°C. The alloy activated by the first sorption—desorption cycle is capable for hydrogen absorption even at room temperature and a pressure of 0.23 MPa. As shown, the bulk alloy can be crushed into the powder with average particle size of $\\cong$ 80 $\\mu$m by two cycles of sorption—desorption + sorption.",
+		"ru": "Исследовано влияние частичной замены титана ванадием на структуру и фазовый состав сплава Ti$_{45,5}$Zr$_{30}$Mn$_{22,5}$V$_{2}$ в литом состоянии, а также на кинетические параметры процессов гидрирования и дегидрирования. Установлено, что введение ванадия не влияет на процесс сорбции водорода при первом гидрировании, однако температура начала выделения снижается на 25°C. Активированный сплав, прошедший цикл сорбция—десорбция, способен поглощать водород уже при комнатной температуре и давлении 0,23 МПа. Показано, что за два цикла сорбция—десорбция + сорбция можно измельчить сплав в порошок со средним размером частиц $\\cong$ 80 мкм."
+	},
+	"keywords": {
+		"ua": "евтектика, гідрування, дегідрування, воднева ємність, розмір частинок",
+		"en": "eutectic, hydrogenation, dehydrogenation, hydrogen capacity, particle size",
+		"ru": "эвтектика, гидрирование, дегидрирование, водородная ёмкость, размер частиц"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. А. Дехтяренко", "en": "V. A. Dekhtiarenko", "ru": "В. А. Дехтяренко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 5,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "V. Ivanchenko, T. Pryadko, V. Dekhtyarenko, and T. Kosorukova, Chem. Metals and Alloys, 1, No. 2: 133 (2008).",
+				"tr":  "V. Ivanchenko, T. Pryadko, V. Dekhtyarenko, and T. Kosorukova, Chem. Metals Alloys, 1, No. 2: 133 (2008)."
+			},
+			{
+				"doi": "10.1016/j.ijhydene.2010.06.085",
+				"or":  "E. A. Anikina and V. N. Verbetsky, Int. J. Hydrogen Energy, 36: 1344 (2011).",
+				"tr":  "E. A. Anikina and V. N. Verbetsky, Int. J. Hydrogen Energy, 36: 1344 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Вербецкий, Синтез и свойства многокомпонентных гидридов металлов (Автореферат дисс. ... д-ра хим. наук) (Москва: Московский государственный университет им. М. В. Ломоносова: 1998).",
+				"tr":  "V. N. Verbetskiy, Sintez i Svojstva Mnogokomponentnyh Gidridov Metallov (Thesis ... Dr. Chem. Sci.) (Moscow: M. V. Lomonosov Moscow State Univ.: 1998) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Ф. Кобзенко, А. А. Школа, Заводская лаборатория, 7: 41 (1990).",
+				"tr":  "G. F. Kobzenko and A. A. Shkola, Zavodskaya Laboratoriya, 7: 41 (1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Максимова, В. Ф. Хорунов, В. Г. Иванченко, Т. В. Прядко, Металлофиз. новейшие технол., 34, № 4: 497 (2012).",
+				"tr":  "S. V. Maksimova, V. F. Khorunov, V. G. Ivanchenko, and T. V. Pryadko, Metallofiz. Noveishie Tekhnol., 34, No. 4: 497 (2012) (in Russian)."
+			}
+		]
+	}
+}

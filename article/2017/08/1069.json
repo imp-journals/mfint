@@ -1,0 +1,268 @@
+{
+	"_id":    "MFiNT.39.08.1069",
+	"year":   2017,
+	"volume": 39,
+	"issue":  8,
+	"pages":  [1069,1086],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["15.07.2017"],
+	"PACS":   "64.70.D-, 64.70.kd, 68.35.Dv, 68.37.-d, 68.55.J-, 73.61.At, 81.15.Ef, 81.40.Ef",
+	"title":   {
+		"ua": "Переохолодження при кристалізації тонких шарів стопу Bi + 7% мас. Sn, які знаходяться в контакті з кристалічною міддю",
+		"en": "Supercooling During a Crystallization of Thin Layers of the Bi + 7% wt. Sn Alloy Being Contact to Crystalline Copper",
+		"ru": "Переохлаждение при кристаллизации тонких слоёв сплава Bi + 7% масс. Sn, находящихся в контакте с кристаллической медью"
+	},
+	"abstract": {
+		"ua": "У роботі представлено результати вивчення впливу умов одержання зразків на величину переохолодження легкотопкого стопу в багатошарових плівках Cu/(Bi + 7% мас. Sn). Шляхом прямих $іn sіtu$ електронографічних досліджень встановлено, що відпал плівок Cu/Bі, виконаний перед осадженням шару цини, збільшує величину переохолодження від 65 К в невідпалених плівках до 140 К у зразках, відпалених при 300°С впродовж 5 хвилин. Це пов’язано з наступним дисперґуванням відпалених плівок, що відбувається в першому циклі нагрівання плівок Cu/(Bi + 7% мас. Sn). Так, легкотопкий стоп у невідпалених зразках присутній у вигляді частинок розміром більше 50 мкм. Кристалізація таких частинок буде відбуватися на сторонніх центрах. Однак у дисперґованих плівках умови методи мікрооб’ємів виявляються виконаними, і є можливість реєструвати переохолодження, характерні для контактної пари Cu/(Bi + 7% мас. Sn).",
+		"en": "The results of studies of supercooling of the Bi + 7% wt. Sn alloy in multi-layer Cu/Bi/Sn films are presented. The crystallization temperature is determined by direct $in situ$ electron diffraction methods during heating and cooling of the samples. Effects of the distinctions in conditions of samples’ fabrication on both the temperature of supercooling of a low-melting alloy and the pattern of its crystallization are revealed. Annealing of Cu/Bi films at 300°C for 5 minutes, performed before the deposition of the tin layer, increases the supercooling value from 65 K to 140 K. Additionally, because of intermediate annealing, crystallization becomes diffusive instead of avalanche-like one, and crystallization period stretches to a 20 K interval. This is due to the dispersion of the pre-annealed samples that occurs in the first heating cycle of Cu/(Bi + 7% wt. Sn) films.",
+		"ru": "В работе представлены результаты изучения влияния условий получения образцов на величину переохлаждения легкоплавкого сплава в многослойных плёнках Cu/(Bi + 7% масс. Sn). Путём прямых $in situ$ электронографических исследований установлено, что отжиг плёнок Cu/Bi, выполняемый перед осаждением слоя олова, увеличивает величину переохлаждения от 65 К в неотожжённых плёнках до 140 К в образцах, отожжённых при 300°С в течение 5 минут. Это связано с последующим диспергированием отожжённых плёнок, происходящим в первом цикле нагрева плёнок Cu/(Bi + 7% масс. Sn). Так, легкоплавкий сплав в неотожжённых образцах присутствует в виде частиц размером более 50 мкм. Кристаллизация таких частиц будет происходить на сторонних центрах. Однако в диспергированных плёнках условия метода микрообъёмов оказываются выполненными, и имеется возможность регистрировать переохлаждения, характерные для контактной пары Cu/(Bi + 7% масс. Sn)."
+	},
+	"keywords": {
+		"ua": "переохолодження стопів, багатошарові плівки, умови конденсації, термічний вплив",
+		"en": "supercooling of alloys, multilayer films, condensation conditions, thermal effect",
+		"ru": "переохлаждение сплавов, многослойные плёнки, условия конденсации, термическое воздействие"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. В. Дукаров", "en": "S. V. Dukarov", "ru": "С. В. Дукаров"},
+			"OID": [206]
+		},
+		{
+			"AID": {"ua": "С. І. Петрушенко", "en": "S. I. Petrushenko", "ru": "С. И. Петрушенко"},
+			"OID": [206]
+		},
+		{
+			"AID": {"ua": "В. М. Сухов", "en": "V. M. Sukhov", "ru": "В. Н. Сухов"},
+			"OID": [206]
+		},
+		{
+			"AID": {"ua": "Р. І. Бігун", "en": "R. I. Bihun", "ru": "Р. И. Бигун"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "З. В. Стасюк", "en": "Z. V. Stasyuk", "ru": "З. В. Стасюк"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "Д. С. Леонов", "en": "D. S. Leonov", "ru": "Д. С. Леонов"},
+			"OID": [16]
+		}
+	],
+	"references": {
+		"count": 42,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Р. І. Бігун, З. В. Стасюк, О. В. Строганов, В. М. Гаврилюх, Д. С. Леонов, Наносистеми, наноматеріали, нанотехнології, 13, № 3: 459 (2015).",
+				"tr":  "R. I. Bihun, Z. V. Stasyuk, O. V. Stroganov, V. M. Gavrylyukh, and D. S. Leonov, Nanosistemi, Nanomateriali, Nanotehnologii, 13, No. 3: 459 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/mfint.38.03.0329",
+				"or":  "Р. І. Бігун, В. М. Гаврилюх, З. В. Стасюк, Д. С. Леонов, Металлофиз. новейшие технол., 38, № 3: 329 (2016).",
+				"tr":  "R. I. Bigun, V. M. Gavrylyukh, Z. V. Stasyuk, and D. S. Leonov, Metallofiz. Noveishie Tekhnol., 38, No. 3: 329 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/j.physb.2016.02.003",
+				"or":  "R. I. Bihun, Z. V. Stasyuk, and O. A. Balitskii, Physica B: Condensed Matter, 487: 73 (2016).",
+				"tr":  "R. I. Bihun, Z. V. Stasyuk, and O. A. Balitskii, Physica B: Condensed Matter, 487: 73 (2016)."
+			},
+			{
+				"doi": "10.1063/1.4976566",
+				"or":  "L. Hu, W. L. Wang, S. J. Yang, L. H. Li, D. L. Geng, L. Wang, and B. Wei, J. Appl. Phys., 121, No. 8: 085901 (2017).",
+				"tr":  "L. Hu, W. L. Wang, S. J. Yang, L. H. Li, D. L. Geng, L. Wang, and B. Wei, J. Appl. Phys., 121, No. 8: 085901 (2017)."
+			},
+			{
+				"doi": "10.1007/s00339-012-7017-0",
+				"or":  "J. Chang, H. P. Wang, K. Zhou, and B. Wei, Appl. Phys. A, 109, No. 1: 139 (2012).",
+				"tr":  "J. Chang, H. P. Wang, K. Zhou, and B. Wei, Appl. Phys. A, 109, No. 1: 139 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Т. Гладких, С. В. Дукаров, В. Н. Сухов, Физика металлов и металловедение, 78, № 3: 87 (1994).",
+				"tr":  "N. T. Gladkikh, S. V. Dukarov and V. N. Sukhov, Fiz. Met. Metalloved., 78, No. 3: 87 (1994) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Богатыренко, А. В. Возный, Н. Т. Гладких, А. П. Крышталь, Физика металлов и металловедение, 97, № 3: 54 (2004).",
+				"tr":  "S. I. Bogatyrenko, A. V. Voznyy, N. T. Gladkikh, and A. P. Kryshtal, Fiz. Met. Metalloved., 97, No. 3: 54 (2004) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.4837661",
+				"or":  "V. Neimash, V. Poroshin, P. Shepeliavyi, V. Yukhymchuk, V. Melnyk, A. Kuzmich, V. Makara, and A. O. Goushcha, J. Appl. Phys., 114, No. 21: 213104 (2013).",
+				"tr":  "V. Neimash, V. Poroshin, P. Shepeliavyi, V. Yukhymchuk, V. Melnyk, A. Kuzmich, V. Makara, and A. O. Goushcha, J. Appl. Phys., 114, No. 21: 213104 (2013)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2017.03.037",
+				"or":  "A. P. Kryshtal, A. A. Minenkov, and P. J. Ferreira, Appl. Surf. Sci., 409: 343 (2017).",
+				"tr":  "A. P. Kryshtal, A. A. Minenkov, and P. J. Ferreira, Appl. Surf. Sci., 409: 343 (2017)."
+			},
+			{
+				"doi": "10.1155/2016/7920238",
+				"or":  "V. Neimash, P. Shepelyavyi, G. Dovbeshko, A. O. Goushcha, M. Isaiev, V. Melnyk, O. Didukh, and A. Kuzmich, Journal of Nanomaterials, 2016: 7920238 (2016).",
+				"tr":  "V. Neimash, P. Shepelyavyi, G. Dovbeshko, A. O. Goushcha, M. Isaiev, V. Melnyk, O. Didukh, and A. Kuzmich, Journal of Nanomaterials, 2016: 7920238 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Петрушенко, С. В. Дукаров, В. Н. Сухов, Вопросы атомной науки и техники, 104, № 4: 118 (2016).",
+				"tr":  "S. I. Petrushenko, S. V. Dukarov, and V. N. Sukhov, Voprosy Atomnoy Nauki i Tekhniki, 104, No. 4: 118 (2016) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Т. Гладких, С. В. Дукаров, А. П. Крышталь, В. И. Ларин, Физика металлов и металловедение, 85, № 5: 51 (1998).",
+				"tr":  "N. T. Gladkikh, S. V. Dukarov, A. P. Kryshtal and V. I. Larin, Fiz. Met. Metalloved., 85, No. 5: 51 (1998) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0040-6090(97)01206-6",
+				"or":  "S. V. Dukarov, Thin Solid Films, 323, Nos. 1–2: 136 (1998).",
+				"tr":  "S. V. Dukarov, Thin Solid Films, 323, Nos. 1–2: 136 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "N. T. Gladkikh, S. V. Dukarov, V. N. Sukhov, and I. G. Churilov, Functional Materials, 18, No. 4: 529 (2011).",
+				"tr":  "N. T. Gladkikh, S. V. Dukarov, V. N. Sukhov, and I. G. Churilov, Functional Materials, 18, No. 4: 529 (2011)."
+			},
+			{
+				"doi": "10.1134/S1063784212060175",
+				"or":  "M. M. Kolendovskii, S. I. Bogatyrenko, A. P. Kryshtal, and N. T. Gladkikh, Technical Physics, 57, No. 6: 849 (2012).",
+				"tr":  "M. M. Kolendovskii, S. I. Bogatyrenko, A. P. Kryshtal, and N. T. Gladkikh, Technical Physics, 57, No. 6: 849 (2012)."
+			},
+			{
+				"doi": "10.21272/jnep.8(4(2)).04073",
+				"or":  "S. I. Petrushenko, S. V. Dukarov, and V. N. Sukhov, Journal of Nano- and Electronic Physics, 8, No. 4: 04073 (2016).",
+				"tr":  "S. I. Petrushenko, S. V. Dukarov, and V. N. Sukhov, Journal of Nano- and Electronic Physics, 8, No. 4: 04073 (2016)."
+			},
+			{
+				"doi": "10.1016/j.vacuum.2015.09.030",
+				"or":  "S. I. Petrushenko, S. V. Dukarov, and V. N. Sukhov, Vacuum, 122: 208 (2015).",
+				"tr":  "S. I. Petrushenko, S. V. Dukarov, and V. N. Sukhov, Vacuum, 122: 208 (2015)."
+			},
+			{
+				"doi": "10.1166/jnn.2015.9221",
+				"or":  "P. Y. Khan and K. Biswas, Journal of Nanoscience and Nanotechnology, 15, No. 1: 309 (2015).",
+				"tr":  "P. Y. Khan and K. Biswas, Journal of Nanoscience and Nanotechnology, 15, No. 1: 309 (2015)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2017.01.062",
+				"or":  "M. Peterlechner, A. Moros, H. Rösner, S. Lazar, P. Ericus, and G. Wilde, Acta Mater., 128: 284 (2017).",
+				"tr":  "M. Peterlechner, A. Moros, H. Rösner, S. Lazar, P. Ericus, and G. Wilde, Acta Mater., 128: 284 (2017)."
+			},
+			{
+				"doi": "10.1016/j.jpcs.2017.03.010",
+				"or":  "S. Bhatt and M. Kumar, J. Phys. Chem. Solids, 106: 112 (2017).",
+				"tr":  "S. Bhatt and M. Kumar, J. Phys. Chem. Solids, 106: 112 (2017)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Chaubey, Indian Journal of Engineering and Materials Sciences, 15, No. 3: 241 (2008).",
+				"tr":  "S. Chaubey, Indian Journal of Engineering and Materials Sciences, 15, No. 3: 241 (2008)."
+			},
+			{
+				"doi": "10.1016/j.ceramint.2015.02.063",
+				"or":  "M. J. Castro, R. Serna, J. Toudert, J. F. Navarro, and E. Haro-Poniatowski, Ceramics International, 41, No. 6: 8216 (2015).",
+				"tr":  "M. J. Castro, R. Serna, J. Toudert, J. F. Navarro, and E. Haro-Poniatowski, Ceramics International, 41, No. 6: 8216 (2015)."
+			},
+			{
+				"doi": "10.1002/jemt.20097",
+				"or":  "E. Johnson, H. H. Andersen, and U. Dahmen, Microsc. Res. Tech., 64: 356 (2004).",
+				"tr":  "E. Johnson, H. H. Andersen, and U. Dahmen, Microsc. Res. Tech., 64: 356 (2004)."
+			},
+			{
+				"doi": "10.1016/j.msea.2003.10.044",
+				"or":  "V. Bhattacharya and K. Chattopadhyay, Mater. Sci. Eng. A, 375–377: 932 (2004).",
+				"tr":  "V. Bhattacharya and K. Chattopadhyay, Mater. Sci. Eng. A, 375–377: 932 (2004)."
+			},
+			{
+				"doi": "10.1007/s11661-015-2983-4",
+				"or":  "P. Y. Khan, M. M. Devi, and K. Biswas, Metall. Mater. Trans. A, 46, No. 8: 3365 (2015).",
+				"tr":  "P. Y. Khan, M. M. Devi, and K. Biswas, Metall. Mater. Trans. A, 46, No. 8: 3365 (2015)."
+			},
+			{
+				"doi": "10.1016/j.jeurceramsoc.2005.01.050",
+				"or":  "J. H. Lee, D. Y. Kim, and Y. W. Kim, Journal of the European Ceramic Society, 26, No. 7: 1267 (2006).",
+				"tr":  "J. H. Lee, D. Y. Kim, and Y. W. Kim, Journal of the European Ceramic Society, 26, No. 7: 1267 (2006)."
+			},
+			{
+				"doi": "10.1063/1.373727",
+				"or":  "O. Nast and A. J. Hartmann, J. Appl. Phys., 88, No. 2: 716 (2000).",
+				"tr":  "O. Nast and A. J. Hartmann, J. Appl. Phys., 88, No. 2: 716 (2000)."
+			},
+			{
+				"doi": "10.15407/ujpe59.12.1168",
+				"or":  "V. B. Neimash, A. O. Goushcha, P. E. Shepeliavyi, V. O. Yukhymchuk, V. A. Dan’ko, V. V. Melnyk, and A. G. Kuzmich, Ukr. J. Phys., 59, No. 12: 1168 (2014).",
+				"tr":  "V. B. Neimash, A. O. Goushcha, P. E. Shepeliavyi, V. O. Yukhymchuk, V. A. Dan'ko, V. V. Melnyk, and A. G. Kuzmich, Ukr. J. Phys., 59, No. 12: 1168 (2014)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2015.12.053",
+				"or":  "C.-F. Han, G.-S. Hu, T.-C. Li, and J. F. Lin, Thin Solid Films, 599: 151 (2016).",
+				"tr":  "C.-F. Han, G.-S. Hu, T.-C. Li, and J. F. Lin, Thin Solid Films, 599: 151 (2016)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2013.12.009",
+				"or":  "S. B. Luo, W. L. Wang, J. Chang, Z. C. Xia, and B. Wei, Acta Mater., 69: 355 (2014).",
+				"tr":  "S. B. Luo, W. L. Wang, J. Chang, Z. C. Xia, and B. Wei, Acta Mater., 69: 355 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Крышталь, А. А. Миненков, С. С. Джус, Журнал нано- и электронной физики, 7, № 1: 01024 (2015).",
+				"tr":  "A. P. Kryshtal, A. A. Minenkov, and S. S. Dzhus, Journal of Nano- and Electronic Physics, 7, No. 1: 01024 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Петрушенко, С. В. Дукаров, В. Н. Сухов, И. Г. Чурилов, Журнал нано- и электронной физики, 7, № 2: 02033-1 (2015).",
+				"tr":  "S. I. Petrushenko, S. V. Dukarov, V. N. Sukhov, and I. G. Churilov, Journal of Nano- and Electronic Physics, 7, No. 2: 02033-1 (2015) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.vacuum.2017.04.037",
+				"or":  "S. I. Petrushenko, S. V. Dukarov, and V. N. Sukhov, Vacuum, 142: 29 (2017).",
+				"tr":  "S. I. Petrushenko, S. V. Dukarov, and V. N. Sukhov, Vacuum, 142: 29 (2017)."
+			},
+			{
+				"doi": "10.15407/mfint.38.10.1351",
+				"or":  "С. И. Петрушенко, С. В. Дукаров, В. Н. Сухов, Металлофиз. новейшие технол., 38, № 10: 1351 (2016).",
+				"tr":  "S. I. Petrushenko, S. V. Dukarov, and V. N. Sukhov, Metallofiz. Noveishie Tekhnol., 38, No. 10: 1351 (2016) (in Russian)."
+			},
+			{
+				"doi": "10.15407/fm23.02.218",
+				"or":  "S. V. Dukarov, S. I. Petrushenko, V. N. Sukhov, and O. I. Skryl, Functional Materials, 23, No. 2: 218 (2016).",
+				"tr":  "S. V. Dukarov, S. I. Petrushenko, V. N. Sukhov, and O. I. Skryl, Functional Materials, 23, No. 2: 218 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Миненков, С. И. Богатыренко, А. П. Крышталь, Журнал нано- и электронной физики, 6, № 4: 04026 (2014).",
+				"tr":  "A. A. Minenkov, S. I. Bogatyrenko, and A. P. Kryshtal, Journal of Nano- and Electronic Physics, 6, No. 4: 04026 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.1007/s00339-014-8349-8",
+				"or":  "A. P. Kryshtal, S. I. Bogatyrenko, R. V. Sukhov, and A. A. Minenkov, Appl. Phys. A, 116, No. 4: 1891 (2014).",
+				"tr":  "A. P. Kryshtal, S. I. Bogatyrenko, R. V. Sukhov, and A. A. Minenkov, Appl. Phys. A, 116, No. 4: 1891 (2014)."
+			},
+			{
+				"doi": "10.15407/spqeo17.03.217",
+				"or":  "V. O. Yukhymchuk, O. M. Hreshchuk, M. Ya. Valakh, M. A. Skoryk, V. S. Efanov, and N. A. Matveevskaya, Semiconductor Physics, Quantum Electronics & Optoelectronics, 17, No. 3: 217 (2014).",
+				"tr":  "V. O. Yukhymchuk, O. M. Hreshchuk, M. Ya. Valakh, M. A. Skoryk, V. S. Efanov, and N. A. Matveevskaya, Semiconductor Physics, Quantum Electronics & Optoelectronics, 17, No. 3: 217 (2014)."
+			},
+			{
+				"doi": "10.1038/ncomms11331",
+				"or":  "H.-H. Jeong, A. G. Mark, M. Alarcón-Correa, I. Kim, P. Oswald, T.-C. Lee, and P. Fischer, Nature Communications, 7: 11331 (2016).",
+				"tr":  "H.-H. Jeong, A. G. Mark, M. Alarcón-Correa, I. Kim, P. Oswald, T.-C. Lee, and P. Fischer, Nature Communications, 7: 11331 (2016)."
+			},
+			{
+				"doi": "10.1016/j.apcatb.2016.03.056",
+				"or":  "J. Chen, H. Che, K. Huang, C. Liu, and W. Shi, Appl. Catalysis B: Environmental, 192, No. 5: 134 (2016).",
+				"tr":  "J. Chen, H. Che, K. Huang, C. Liu, and W. Shi, Appl. Catalysis B: Environmental, 192, No. 5: 134 (2016)."
+			},
+			{
+				"doi": "10.1134/S1063783414040210",
+				"or":  "A. A. Minenkov, S. I. Bogatyrenko, R. V. Sukhov, and A. P. Kryshtal, Phys. Solid State, 56, No. 4: 823 (2014).",
+				"tr":  "A. A. Minenkov, S. I. Bogatyrenko, R. V. Sukhov, and A. P. Kryshtal, Phys. Solid State, 56, No. 4: 823 (2014)."
+			},
+			{
+				"doi": "10.1134/S0031918X10030075",
+				"or":  "S. I. Bogatyrenko, N. T. Gladkikh, A. P. Kryshtal, A. L. Samsonik, and V. N. Sukhov, Phys. Met. Metallogr., 109, No. 3: 255 (2010).",
+				"tr":  "S. I. Bogatyrenko, N. T. Gladkikh, A. P. Kryshtal, A. L. Samsonik, and V. N. Sukhov, Phys. Met. Metallogr., 109, No. 3: 255 (2010)."
+			}
+		]
+	}
+}

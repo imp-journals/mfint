@@ -1,0 +1,142 @@
+{
+	"_id":    "MFiNT.41.02.0203",
+	"year":   2019,
+	"volume": 41,
+	"issue":  2,
+	"pages":  [203,211],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["11.07.2018"],
+	"PACS":   "06.60.Vz, 62.20.Qp, 81.05.Bx, 81.20.Vj, 81.40.Cd, 81.40.Pq, 81.70.Bt",
+	"title":   {
+		"ua": "Поведінка в умовах зношування зварених тертям із ворушінням різнорідних алюмінійових стопів",
+		"en": "Wear Behaviour of Friction Stir Welded Dissimilar Aluminium Alloys",
+		"ru": "Поведение в условиях износа сваренных трением с шевелением разнородных алюминиевых сплавов"
+	},
+	"abstract": {
+		"ua": "Роботу присвячено експериментальному дослідженню зносостійкості зварних з’єднань різнорідних алюмінієвих стопів AA6101-T6 та AA1350. Зварні шви було виготовлено при різних швидкостях переміщення інструменту (78–120 мм/хв), швидкостях обертання (765–1070 хв$^{-1}$) та кутах нахилу (0°–2°). Вплив швидкості переміщення інструменту, швидкості обертання та кута нахилу на зносостійкість зони зварювання вивчався шляхом проведення випробувань на зношування, вимірювання значень мікротвердості та вивчення мікроструктурних зображень зношених поверхонь. Для аналізу впливу кожного параметра зварювання на зносостійкість використовувалася техніка Тагучі. Результати цієї роботи доводять, що швидкість обертання інструменту є параметром, котрий найбільше впливає на швидкість зносу зварних конструкцій в порівнянні зі швидкістю переміщення та кутом нахилу.",
+		"en": "This work deals an experimental study on wear behaviour of friction stir welded dissimilar AA6101-T6 and AA1350 aluminium alloys. The weldments are fabricated by varying tool traversing speed (78–120 mm/min), rotational speed (765–1070 rpm), and tilt angle (0°–2°). Effects of tool traversing speed, rotational speed, and tilt angle on wear behaviour of weld zone are analysed by conducting wear tests, measuring microhardness values and examining microstructural images of worn surfaces. Taguchi technique is used to analyse the effects of each welding parameter on wear behaviour. The results of this work indicate that the tool rotating speed is the most influencing parameter on the wear rate of weldments, when compared to traversing speed and tilt angle.",
+		"ru": "Работа посвящена экспериментальному исследованию износостойкости сварных соединений разнородных алюминиевых сплавов AA6101-T6 и AA1350. Сварные швы были изготовлены при различных скоростях перемещения инструмента (78–120 мм/мин), скоростях вращения (765–1070 мин$^{-1}$) и углах наклона (0°–2°). Влияния скорости перемещения инструмента, скорости вращения и угла наклона на износостойкость зоны сварки изучались путём проведения испытаний на износ, измерения значений микротвёрдости и изучения микроструктурных изображений изношенных поверхностей. Для анализа влияния каждого параметра сварки на износостойкость использовалась техника Тагучи. Результаты этой работы доказывают, что скорость вращения инструмента является параметром, наиболее влияющим на скорость износа сварных конструкций по сравнению со скоростью перемещения и углом наклона."
+	},
+	"keywords": {
+		"ua": "зварювання тертям з ворушінням, втрата ваги, мікротвердість, техніка Тагучі",
+		"en": "friction stir welding, weight loss, microhardness, Taguchi technique",
+		"ru": "сварка трением с шевелением, потеря веса, микротвёрдость, техника Тагучи"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Р. Ашок Кумар", "en": "R. Ashok Kumar", "ru": "Р. Ашок Кумар"},
+			"OID": [532]
+		},
+		{
+			"AID": {"ua": "М. Р. Тансікхар", "en": "M. R. Thansekhar", "ru": "М. Р. Тансикхар"},
+			"OID": [532]
+		}
+	],
+	"references": {
+		"count": 20,
+		"list":  [
+			{
+				"doi": "10.1016/j.ijfatigue.2016.04.004",
+				"or":  "P. Carlone, R. Citarella, M. R. Sonne, and J. H. Hattel, Int. J. of Fatigue, 90: 69 (2016).",
+				"tr":  "P. Carlone, R. Citarella, M. R. Sonne, and J. H. Hattel, Int. J. of Fatigue, 90: 69 (2016)."
+			},
+			{
+				"doi": "10.1007/8611_2010_46",
+				"or":  "L. Quintino, R. Miranda, U. Dilthey, D. Iordachescu, M. Banasik, and S. Stano, Adv. Struct. Mater., 8: 33 (2012).",
+				"tr":  "L. Quintino, R. Miranda, U. Dilthey, D. Iordachescu, M. Banasik, and S. Stano, Adv. Struct. Mater., 8: 33 (2012)."
+			},
+			{
+				"doi": "10.1016/S1359-6462(96)00344-2",
+				"or":  "C. G. Rhodes, M. W. Mahoney, W. H. Bingel, R. A. Spurling, and C. C. Bampton, Scripta Mater., 36, Iss. 1: 69 (1997).",
+				"tr":  "C. G. Rhodes, M. W. Mahoney, W. H. Bingel, R. A. Spurling, and C. C. Bampton, Scripta Mater., 36, Iss. 1: 69 (1997)."
+			},
+			{
+				"doi": "10.1016/j.msea.2006.06.056",
+				"or":  "H. B. Chen, K. Yan, T. Lin, S. B. Chen, C. Y. Jiang, and Y. Zhao, Mater. Sci. Eng. A, 433: 64 (2006).",
+				"tr":  "H. B. Chen, K. Yan, T. Lin, S. B. Chen, C. Y. Jiang, and Y. Zhao, Mater. Sci. Eng. A, 433: 64 (2006)."
+			},
+			{
+				"doi": "10.1007/s12206-018-0632-8",
+				"or":  "R. Ashok Kumar and M. R. Thansekhar, J. Mech. Sci. Tech., 32, Iss. 7: 3299 (2018).",
+				"tr":  "R. Ashok Kumar and M. R. Thansekhar, J. Mech. Sci. Tech., 32, Iss. 7: 3299 (2018)."
+			},
+			{
+				"doi": "10.1016/j.procir.2013.07.039",
+				"or":  "P. Cavaliere, Procedia CIRP, 11: 139 (2013).",
+				"tr":  "P. Cavaliere, Procedia CIRP, 11: 139 (2013)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/AMR.984-985.586",
+				"or":  "R. A. Kumar and M. R. Thansekhar, Advanced Materials Research, 984–985: 586 (2014).",
+				"tr":  "R. A. Kumar and M. R. Thansekhar, Advanced Materials Research, 984–985: 586 (2014)."
+			},
+			{
+				"doi": "10.5755/j01.ms.23.1.14132",
+				"or":  "R. A. Kumar and M. R. Thansekhar, Materials Science, 23, Iss. 1: 78 (2017).",
+				"tr":  "R. A. Kumar and M. R. Thansekhar, Materials Science, 23, Iss. 1: 78 (2017)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Das, Trans. of Indian Inst. of Met., 57, Iss. 4: 325 (2004).",
+				"tr":  "S. Das, Trans. of Indian Inst. of Met., 57, Iss. 4: 325 (2004)."
+			},
+			{
+				"doi": "10.1016/j.wear.2008.12.085",
+				"or":  "J. Victoria-Hernandez, D. Hernandez-Silva, and M. Vite-Torres, Wear, 267: 340 (2009).",
+				"tr":  "J. Victoria-Hernandez, D. Hernandez-Silva, and M. Vite-Torres, Wear, 267: 340 (2009)."
+			},
+			{
+				"doi": "10.1016/0043-1648(81)90336-7",
+				"or":  "K. Gopinath, Wear, 71: 161 (1981).",
+				"tr":  "K. Gopinath, Wear, 71: 161 (1981)."
+			},
+			{
+				"doi": "10.1016/j.proeng.2012.06.072",
+				"or":  "R. Palanivel, P. Koshy Mathews, N. Murugan, and I. Dinaharan, Proc. Eng., 38: 578 (2012).",
+				"tr":  "R. Palanivel, P. Koshy Mathews, N. Murugan, and I. Dinaharan, Proc. Eng., 38: 578 (2012)."
+			},
+			{
+				"doi": "10.1088/2053-1591/aab8b5",
+				"or":  "R. Ashok Kumar and M. R. Thansekhar, Mater. Res. Express., 5, Iss. 4: 046521 (2018).",
+				"tr":  "R. Ashok Kumar and M. R. Thansekhar, Mater. Res. Express., 5, Iss. 4: 046521 (2018)."
+			},
+			{
+				"doi": "10.17531/ein.2016.1.17",
+				"or":  "R. Kumar, S. Chattopadhyaya, S. Hloch, G. Krolczyk, and S. Legutko, Maintenance and Reliability, 18, Iss. 1: 128 (2016).",
+				"tr":  "R. Kumar, S. Chattopadhyaya, S. Hloch, G. Krolczyk, and S. Legutko, Maintenance and Reliability, 18, Iss. 1: 128 (2016)."
+			},
+			{
+				"doi": "10.1016/j.measurement.2012.10.013",
+				"or":  "M. Gunay and E. Yucel, Measurement, 46: 913 (2013).",
+				"tr":  "M. Gunay and E. Yucel, Measurement, 46: 913 (2013)."
+			},
+			{
+				"doi": "10.1080/02533839.2011.553024",
+				"or":  "Ch.-H. Chien, W.-B. Lin, and Th. Chen, J. of the Chinese Inst. of Eng., 34, Iss. 1: 99 (2011).",
+				"tr":  "Ch.-H. Chien, W.-B. Lin, and Th. Chen, J. of the Chinese Inst. of Eng., 34, Iss. 1: 99 (2011)."
+			},
+			{
+				"doi": "10.1016/S1359-6462(03)00301-4",
+				"or":  "W. B. Lee, Y. M. Yeon, and S. B. Jung, Scripta Metall., 49: 423 (2003).",
+				"tr":  "W. B. Lee, Y. M. Yeon, and S. B. Jung, Scripta Metall., 49: 423 (2003)."
+			},
+			{
+				"doi": "10.1016/j.matdes.2015.06.006",
+				"or":  "U. Donatus, G. E. Thompson, X. Zhou, J. Wang, and K. Beamish, Mater. Design, 83: 203 (2015).",
+				"tr":  "U. Donatus, G. E. Thompson, X. Zhou, J. Wang, and K. Beamish, Mater. Design, 83: 203 (2015)."
+			},
+			{
+				"doi": "10.1016/j.matdes.2007.01.012",
+				"or":  "K. Kumar and S. V. Kailas, Mater. Design, 29: 791 (2008).",
+				"tr":  "K. Kumar and S. V. Kailas, Mater. Design, 29: 791 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Ashok Kumar and M. R. Thansekhar, Int. J. Applied Eng. Research, 10, Iss. 8: 6337 (2015).",
+				"tr":  "R. Ashok Kumar and M. R. Thansekhar, Int. J. Applied Eng. Research, 10, Iss. 8: 6337 (2015)."
+			}
+		]
+	}
+}

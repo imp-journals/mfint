@@ -1,0 +1,203 @@
+{
+	"_id":    "MFiNT.39.05.0607",
+	"year":   2017,
+	"volume": 39,
+	"issue":  5,
+	"pages":  [607,620],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["08.02.2017","16.03.2017"],
+	"PACS":   "61.66.Dk, 64.75.Op, 68.35.Fx, 68.55.Ln, 81.05.Ni, 81.10.Fq, 81.15.Kk",
+	"title":   {
+		"ua": "Сеґреґаційне подрібнення зеренної структури алюмінію та його стопів",
+		"en": "Segregation Refinement of the Grain Structure of Aluminium and Its Alloys",
+		"ru": "Сегрегационное измельчение зёренной структуры алюминия и его сплавов"
+	},
+	"abstract": {
+		"ua": "Вивчено структуру конденсатів і відливок алюмінію, стопів Al–Fe та Al–Zr, які кристалізуються з парової фази та розтопу у вакуумі. Показано, що леґування парового потоку матричного металу, — алюмінію, — Ферумом до $\\cong$ 3 ат.% уможливлює знизити величину зерна конденсатів від 2 мкм до 50 нм. Дисперґувальний вплив заліза та цирконію на зеренну структуру алюмінію продемонстровано на відливках цього металу, де спостерігається зменшення розміру зерна більш ніж на порядок. Подрібнення зеренної структури алюмінію пояснюється формуванням зерномежових сеґреґацій атомами леґувальних елементів при кристалізації як з пару, так і з розтопу.",
+		"en": "The structure of condensates and cast samples of aluminium, Al–Fe and Al–Zr alloys crystallized from both the melt and the vapour phase in a vacuum is studied. As shown, the alloying of the vapour flow of a matrix metal, i.e. aluminium, with iron up to $\\cong$ 3 at.% reduces the grain size of condensates from 2 $\\mu$m to 50 nm. The dispersing effect of iron and zirconium on the grain structure of aluminium is demonstrated on the castings of this metal, where a decrease in the grain size is observed by more than one order of magnitude. Refinement of the grain structure of aluminium is explained by the formation of the grain-boundary segregation by atoms of alloying elements during crystallization from both the vapour and the melt.",
+		"ru": "Изучена структура конденсатов и отливок алюминия, сплавов Al–Fe и Al–Zr, кристаллизующихся из паровой фазы и расплава в вакууме. Показано, что легирование парового потока матричного металла, — алюминия, — железом до $\\cong$ 3 ат.% позволяет снизить величину зерна конденсатов от 2 мкм до 50 нм. Диспергирующее влияние железа и циркония на зёренную структуру алюминия продемонстрировано на отливках этого металла, где наблюдается уменьшение размера зерна более чем на порядок. Измельчение зёренной структуры алюминия объясняется формированием зернограничных сегрегаций атомами легирующих элементов при кристаллизации как из пара, так и из расплава."
+	},
+	"keywords": {
+		"ua": "конденсація, кристалізація, сеґреґація, розмір зерна, алюміній",
+		"en": "condensation, crystallization, segregation, grain size, aluminium",
+		"ru": "конденсация, кристаллизация, сегрегация, размер зерна, алюминий"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Є. В. Луценко", "en": "E. V. Lutsenko", "ru": "Е. В. Луценко"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "В. А. Крещенко", "en": "V. A. Kreshchenko", "ru": "В. А. Крещенко"},
+			"OID": [190]
+		},
+		{
+			"AID": {"ua": "М. Д. Рудь", "en": "M. D. Rud’", "ru": "Н. Д. Рудь"},
+			"OID": [191]
+		},
+		{
+			"AID": {"ua": "О. В. Соболь", "en": "O. V. Sobol’", "ru": "О. В. Соболь"},
+			"OID": [243]
+		},
+		{
+			"AID": {"ua": "М. О. Глущенко", "en": "M. A. Glushchenko", "ru": "М. А. Глущенко"},
+			"OID": [243]
+		},
+		{
+			"AID": {"ua": "А. І. Зубков", "en": "A. I. Zubkov", "ru": "А. И. Зубков"},
+			"OID": [243]
+		}
+	],
+	"references": {
+		"count": 29,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Н. А. Азаренков, О. В. Соболь, В. М. Береснев, А. Д. Погребняк, Д. А. Колесников, П. В. Турбин, И. Н. Торяник, Металлофиз. новейшие технол., 35, № 8: 1061 (2013).",
+				"tr":  "N. A. Azarenkov, O. V. Sobol', V. M. Beresnev, A. D. Pogrebnyak, D. A. Kolesnikov, P. V. Turbin, and I. N. Toryanik, Metallofiz. Noveishie Tekhnol., 35, No. 8: 1061 (2013) (in Russian)."
+			},
+			{
+				"doi": "10.3103/S1063457616020040",
+				"or":  "V. I. Ivashchenko, S. N. Dub, P. L. Scrynskii, A. D. Pogrebnjak, O. V. Sobol’, G. N. Tolmacheva, V. M. Rogoz, and A. K. Sinel’chenko, J. Superhard Mater., 38, No. 2: 103 (2016).",
+				"tr":  "V. I. Ivashchenko, S. N. Dub, P. L. Scrynskii, A. D. Pogrebnjak, O. V. Sobol', G. N. Tolmacheva, V. M. Rogoz, and A. K. Sinel'chenko, J. Superhard Mater., 38, No. 2: 103 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Э. Гликман, Р. Э. Брувер, Металлофизика, 43: 42 (1973).",
+				"tr":  "E. E. Glikman and R. E. Bruver, Metallofizika, 43: 42 (1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Фирстов, Ю. Ф. Луговской, Электронная микроскопия и прочность материалов. Сер.: Физическое материаловедение, структура и свойства материалов, 15: 83 (2008).",
+				"tr":  "S. A. Firstov and Yu. F. Lugovskoy, Elektronnaya Mikroskopiya i Prochnost' Materialov. Ser.: Fizicheskoe Materialovedenie, Struktura i Svoystva Materialov, 15: 83 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "J. W. Gibbs, Collected Works (New Haven: Yale University Press: 1948), vol. 1, p. 219.",
+				"tr":  "J. W. Gibbs, Collected Works (New Haven: Yale University Press: 1948), vol. 1, p. 219."
+			},
+			{
+				"doi": "",
+				"or":  "I. Langmuir, I. Am. Chem. Soc., 38: 222 (1916).",
+				"tr":  "I. Langmuir, I. Am. Chem. Soc., 38: 222 (1916)."
+			},
+			{
+				"doi": "",
+				"or":  "D. McLean, Grain Boundaries in Metals (New York: Oxford Univ. Press: 1957).",
+				"tr":  "D. McLean, Grain Boundaries in Metals (New York: Oxford Univ. Press: 1957)."
+			},
+			{
+				"doi": "10.1016/0001-6160(80)90112-1",
+				"or":  "M. P. Seah, Acta Metall. Mater., 28, No. 7: 955 (1980).",
+				"tr":  "M. P. Seah, Acta Metall. Mater., 28, No. 7: 955 (1980)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2007.11.011",
+				"or":  "K. E. Kniplinga, D. C. Dunand, and D. N. Seidman, Acta Mater., 56, No. 6: 1182 (2008).",
+				"tr":  "K. E. Kniplinga, D. C. Dunand, and D. N. Seidman, Acta Mater., 56, No. 6: 1182 (2008)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2014.04.041",
+				"or":  "P. Zhang, J. Y. Zhang, J. Li, G. Liu, K. Wu, Y. Q. Wang, and J. Sun, Acta Mater., 76: 221 (2014).",
+				"tr":  "P. Zhang, J. Y. Zhang, J. Li, G. Liu, K. Wu, Y. Q. Wang, and J. Sun, Acta Mater., 76: 221 (2014)."
+			},
+			{
+				"doi": "10.1590/1516-1439.058815",
+				"or":  "A. Inoue, F. L. Kong, S. L. Zhu, C. T. Liu, and F. Al-Marzouki, Mat. Res., 18, No. 6: 1414 (2015).",
+				"tr":  "A. Inoue, F. L. Kong, S. L. Zhu, C. T. Liu, and F. Al-Marzouki, Mat. Res., 18, No. 6: 1414 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "Алюминий: свойства и физическое металловедение: Справочник (Ред. Дж. Е. Хэтч) (Москва: Металлургия: 1989).",
+				"tr":  "Alyuminiy: Svoystva i Fizicheskoe Metallovedenie: Spravochnik [Aluminium: Properties and Physical Metallurgy: Handbook] (Ed. J. E. Hatch) (Moscow: Metallurgiya: 1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. Е. Гольдштейн, В. Г. Мизин, Инокулирование железоуглеродистых сплавов (Москва: Металлургия: 1993).",
+				"tr":  "Ya. E. Goldshtein and V. G. Mizin, Inokulirovanie Zhelezouglerodistykh Splavov [Inoculation of Iron–Carbon Alloys] (Moscow: Metallurgiya: 1993) (in Russian)."
+			},
+			{
+				"doi": "10.1116/1.570406",
+				"or":  "M. T. Thomas, D. R. Baer, R. H. Jones, and S. M. Bruemmer, J. Vac. Sci. Technol., 17, No. 1: 22 (1980).",
+				"tr":  "M. T. Thomas, D. R. Baer, R. H. Jones, and S. M. Bruemmer, J. Vac. Sci. Technol., 17, No. 1: 22 (1980)."
+			},
+			{
+				"doi": "10.1002/srin.198600750",
+				"or":  "H. J. Grabke, Steel Res., 57, No. 4: 178 (1986).",
+				"tr":  "H. J. Grabke, Steel Res., 57, No. 4: 178 (1986)."
+			},
+			{
+				"doi": "10.1098/rspa.1973.0121",
+				"or":  "M. P. Seah and E. D. Hondros, Proc. Roy. Soc., A335: 191 (1973).",
+				"tr":  "M. P. Seah and E. D. Hondros, Proc. Roy. Soc., A335: 191 (1973)."
+			},
+			{
+				"doi": "10.1016/j.msea.2009.12.044",
+				"or":  "S. S. Nayaka, M. Wollgartenb, J. Banhartb, S. K. Pabia, and B. S. Murtyc, Mater. Sci. Eng. A, 527: 2370 (2010).",
+				"tr":  "S. S. Nayaka, M. Wollgartenb, J. Banhartb, S. K. Pabia, and B. S. Murtyc, Mater. Sci. Eng. A, 527: 2370 (2010)."
+			},
+			{
+				"doi": "10.1007/s10853-015-9019-8",
+				"or":  "B. D. Saller, T. Hu, K. Ma, L. Kurmanaeva, E. J. Lavernia, and J. M. Schoenung, J. Mater. Sci., 50, No. 13: 4683 (2015).",
+				"tr":  "B. D. Saller, T. Hu, K. Ma, L. Kurmanaeva, E. J. Lavernia, and J. M. Schoenung, J. Mater. Sci., 50, No. 13: 4683 (2015)."
+			},
+			{
+				"doi": "10.1063/1.2968240",
+				"or":  "M. F. Francis, M. N. Neurock, X. W. Zhou, J. J. Quan, H. N. G. Wadley, and E. B. Webb, J. Appl. Phys., 104: 034310 (2008).",
+				"tr":  "M. F. Francis, M. N. Neurock, X. W. Zhou, J. J. Quan, H. N. G. Wadley, and E. B. Webb, J. Appl. Phys., 104: 034310 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.79.094112",
+				"or":  "J. R. Trelewicz and C. A. Schuh, Phys. Rev. B, 79, No. 9: 094112 (2009).",
+				"tr":  "J. R. Trelewicz and C. A. Schuh, Phys. Rev. B, 79, No. 9: 094112 (2009)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2011.06.048",
+				"or":  "N. Q. Vo, J. Schäfer, R. S. Averback, K. Albe, Y. Ashkenazy, and P. Bellon, Scr. Mater., 65, No. 8: 660 (2011).",
+				"tr":  "N. Q. Vo, J. Schäfer, R. S. Averback, K. Albe, Y. Ashkenazy, and P. Bellon, Scr. Mater., 65, No. 8: 660 (2011)."
+			},
+			{
+				"doi": "10.1134/S0031918X15070017",
+				"or":  "A. Ye. Barmin, O. V. Sobol’, A. I. Zubkov, and L. A. Mal’tseva, Phys. Metal. Metalogr., 116, No. 7: 706 (2015).",
+				"tr":  "A. Ye. Barmin, O. V. Sobol', A. I. Zubkov, and L. A. Mal'tseva, Phys. Metal. Metalogr., 116, No. 7: 706 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. В. Луценко, О. В. Соболь, А. И. Зубков, Журнал нано- и электронной физики, 7, № 3: 03042 (2015).",
+				"tr":  "E. V. Lutsenko, O. V. Sobol', and A. I. Zubkov, Zhurnal Nano- i Elektronnoy Fiziki, 7, No. 3: 03042 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. С. Уманский, Ю. А. Скаков, А. Н. Иванов, Л. Н. Расторгуев, Кристаллография, рентгенография и электронная микроскопия (Москва: Металлургия: 1982).",
+				"tr":  "Ya. S. Umanskiy, Yu. A. Skakov, A. N. Ivanov, and L. N. Rastorguev, Kristallografiya, Rentgenografiya i Elektronnaya Mikroskopiya [Crystallography, Radiography and Electron Microscopy] (Moscow: Metallurgiya: 1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. И. Носкова, Р. Р. Мулюков, Субмикрокристаллические и нанокристаллические металлы и сплавы (Екатеринбург: УрО РАН: 2003).",
+				"tr":  "N. I. Noskova and R. R. Mulyukov, Submikrokristallicheskie i Nanokristallicheskie Metally i Splavy [Submicrocrystalline and Nanocrystalline Metals and Alloys] (Yekaterinburg: UB RAS: 2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. З. Валиев, И. В. Александров, Наноструктурные материалы, полученные интенсивной пластической деформацией (Москва: Логос: 2000).",
+				"tr":  "R. Z. Valiev and I. V. Aleksandrov, Nanostrukturnye Materialy, Poluchennye Intensivnoy Plasticheskoy Deformatsiey [Nanostructured Materials Obtained by Severe Plastic Deformation] (Moscow: Logos: 2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Brune, Physics of Covered Solid Surfaces (Ed. H. P. Bonzel), vol. III/42, subvol. A, pt. 1 of Landolt Börnstein New Series, Group III: Condensed Matter (Berlin: Springer: 2001), p. 217.",
+				"tr":  "H. Brune, Physics of Covered Solid Surfaces (Ed. H. P. Bonzel), vol. III/42, subvol. A, pt. 1 of Landolt Börnstein New Series, Group III: Condensed Matter (Berlin: Springer: 2001), p. 217."
+			},
+			{
+				"doi": "",
+				"or":  "Э. Зенгуил, Физика поверхности (Москва: Мир: 1990).",
+				"tr":  "E. Zenguil, Fizika Poverkhnosti [Surface Physics] (Moscow: Mir: 1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. К. Семенченко, Поверхностные явления в металлах и сплавах (Москва: Гос. изд-во технико-теорет. лит.: 1957).",
+				"tr":  "V. K. Semenchenko, Poverkhnostnye Yavleniya v Metallakh i Splavakh [Surface Phenomena in Metals and Alloys] (Moscow: Gos. Izd. Tekhniko-Teoret. Lit.: 1957) (in Russian)."
+			}
+		]
+	}
+}

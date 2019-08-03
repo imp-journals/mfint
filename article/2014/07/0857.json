@@ -1,0 +1,253 @@
+{
+	"_id":    "MFiNT.36.07.0857",
+	"year":   2014,
+	"volume": 36,
+	"issue":  7,
+	"pages":  [857,870],
+	"rubric": 2,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["04.06.2014"],
+	"PACS":   "07.85.Jy, 61.05.cc, 61.05.cf, 61.05.cp, 61.72.Dd, 61.72.Lk",
+	"title":   {
+		"ua": "Явище посилення на порядки величини прояву дефектів в картині багаторазового розсіяння і його дисперсійна природа",
+		"en": "The Phenomenon of Intensification (by Several Orders of Magnitude) Defects’ Manifestation in the Multiple-Scattering Pattern and Its Dispersive Nature",
+		"ru": "Явление усиления на порядки величины проявления дефектов в картине многократного рассеяния и его дисперсионная природа"
+	},
+	"abstract": {
+		"ua": "В даній роботі обговорюється відкрите та кількісно обґрунтоване авторами невідоме раніше явище підсилення на кілька порядків величини прояву дефектів у статистичній картині багаторазового розсіяння. Встановлено дисперсійну природу цього явища. Показано, що на відміну від випадків традиційно застосовної статистичної кінематичної теорії (наближення одноразового розсіяння), в якій дефекти виявляють свій вплив лише на амплітуди розсіяних хвиль (амплітуди розсіяння), при багаторазовому (динамічному) розсіянні додатково «вмикається» принципово новий механізм впливу спотворень не на амплітуди, а на хвильові вектори розсіяних хвиль. Виявлений механізм є, по-перше, експоненційно більш істотним, оскільки дефекти впливають безпосередньо на показник експоненти (на фазу хвильової функції), і, по-друге, характер цього впливу дефектів виявився керованим умовами дифракції (довжина хвилі, товщина об’єкту, геометрія і кути дифракції та ін.). В результаті відкрите явище та його дисперсійна природа уможливили авторам статті істотно розширити функціональні можливості діагностики і створити цілу низку методів нового покоління, які не лише на кілька порядків величини підвищили чутливість, але й уможливили розв’язати проблему однозначної діагностики багатопараметричних систем шляхом комбінування вимірювань картини багаторазового розсіяння за різних умов дифракції.",
+		"en": "The phenomenon of intensification (by several orders of magnitude) of defects’ manifestation in statistical multiple-scattering pattern is discovered, quantitatively substantiated and discussed. Dispersive nature of this phenomenon is established. As shown, there is a new mechanism of influence of distortions on the wave vectors of scattered waves rather than on amplitudes in case of multiple (dynamical) scattering (as opposed to traditionally used kinematical theory, i.e. within the approximation of single scattering). Firstly, this mechanism is exponentially more essential because of defects’ influences on the power exponent directly (i.e. on the wave-function phase), and, secondly, the character of such defect influence is controllable by diffraction conditions (wavelength, object thickness, geometry and angles of diffraction, etc.). As a result, discovered phenomenon and its dispersive nature allow authors to extend essentially functional capabilities of diagnostics and devise a set of new methods, which increase sensitivity of diagnostics and solve the problem of unambiguous diagnostics of multiparameter systems, using the combination of multiple-scattering-pattern measurements in different diffraction cases.",
+		"ru": "В данной работе обсуждается открытое и количественно обоснованное авторами неизвестное ранее явление усиления на несколько порядков величины проявления дефектов в статистической картине многократного рассеяния. Установлена дисперсионная природа этого явления. Показано, что в отличие от случаев традиционно применяемой статистической кинематической теории (приближение однократного рассеяния), в которой дефекты проявляют своё влияние только на амплитуды рассеянных волн (амплитуды рассеяния), при многократном (динамическом) рассеянии дополнительно «включается» принципиально новый механизм влияния искажений не на амплитуды, а на волновые вектора рассеянных волн. Обнаруженный механизм оказался, во-первых, экспоненциально более существенным, т.к. дефекты влияют непосредственно на показатель экспоненты (на фазу волновой функции), и, во-вторых, характер этого влияния дефектов оказался управляемым условиями дифракции (длина волны, толщина объекта, геометрия и углы дифракции и др.). В результате открытое явление и его дисперсионная природа позволили авторам статьи существенно расширить функциональные возможности диагностики и создать целый ряд методов нового поколения. Они не только на несколько порядков величины повысили чувствительность, но и позволили решить проблему однозначной диагностики многопараметрических систем путём комбинирования измерений картины многократного рассеяния в различных условиях дифракции."
+	},
+	"keywords": {
+		"ua": "динамічна дифракція, дисперсійний механізм, мікродефекти",
+		"en": "dynamical diffraction, dispersion mechanism, microdefects",
+		"ru": "динамическая дифракция, дисперсионный механизм, микродефекты"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. В. Лізунов", "en": "V. V. Lizunov", "ru": "В. В. Лизунов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. Б. Молодкін", "en": "V. B. Molodkin", "ru": "В. Б. Молодкин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. В. Лізунова", "en": "S. V. Lizunova", "ru": "С. В. Лизунова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. Г. Толмачьов", "en": "M. G. Tolmachyov", "ru": "Н. Г. Толмачёв"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. С. Скакунова", "en": "O. S. Skakunova", "ru": "Е. С. Скакунова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. В. Дмитрієв", "en": "S. V. Dmitriev", "ru": "С. В. Дмитриев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Б. В. Шелудченко", "en": "B. V. Sheludchenko", "ru": "Б. В. Шелудченко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. М. Бровчук", "en": "S. M. Brovchuk", "ru": "С. М. Бровчук"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Л. М. Скапа", "en": "L. M. Skapa", "ru": "Л. Н. Скапа"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Р. В. Лехняк", "en": "R. V. Lekhnyak", "ru": "Р. В. Лехняк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "К. В. Фузик", "en": "K. V. Fuzik", "ru": "Е. В. Фузик"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 35,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "M. Von Laue, Röntgenstrahl-Interferenzen (Leipzig: Akademische Verlagsgesellschaft: 1948).",
+				"tr":  "M. Von Laue, Röntgenstrahl-Interferenzen (Leipzig: Akademische Verlagsgesellschaft: 1948)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Hammond, The Basics of Crystallography and Diffraction (London: Oxford University Press: 2001).",
+				"tr":  "C. Hammond, The Basics of Crystallography and Diffraction (London: Oxford University Press: 2001)."
+			},
+			{
+				"doi": "10.1016/S0081-1947(08)60592-5",
+				"or":  "R. W. James, Solid State Physics, 15: 55 (1963).",
+				"tr":  "R. W. James, Solid State Physics, 15: 55 (1963)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.36.681",
+				"or":  "B. W. Batterman and H. Cole, Rev. Mod. Phys., 36: 681 (1964).",
+				"tr":  "B. W. Batterman and H. Cole, Rev. Mod. Phys., 36: 681 (1964)."
+			},
+			{
+				"doi": "10.1007/978-3-642-74291-0",
+				"or":  "M. A. Krivoglaz, X-Ray and Neutron Diffraction in Nonideal Crystals (Berlin: Springer: 1996).",
+				"tr":  "M. A. Krivoglaz, X-Ray and Neutron Diffraction in Nonideal Crystals (Berlin: Springer: 1996)."
+			},
+			{
+				"doi": "",
+				"or":  "V. B. Molodkin, M. V. Kovalchuk, A. P. Shpak, S. I. Olikhovskii, Ye. M. Kyslovskyy, A. I. Nizkova, E. G. Len, T. P. Vladimirova, E. S. Skakunova, V. V. Molodkin, G. E. Ice, R. I. Barabash, and I. M. Karnaukhov, Diffuse Scattering and the Fundamental Properties of Materials (Eds. R. I. Barabash, G. E. Ice, and P. E. A. Turchi) (New Jersey: Momentum Press: 2009), p. 391.",
+				"tr":  "V. B. Molodkin, M. V. Kovalchuk, A. P. Shpak, S. I. Olikhovskii, Ye. M. Kyslovskyy, A. I. Nizkova, E. G. Len, T. P. Vladimirova, E. S. Skakunova, V. V. Molodkin, G. E. Ice, R. I. Barabash, and I. M. Karnaukhov, Diffuse Scattering and the Fundamental Properties of Materials (Eds. R. I. Barabash, G. E. Ice, and P. E. A. Turchi) (New Jersey: Momentum Press: 2009), p. 391."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, М. В. Ковальчук, В. Б. Молодкин, А. И. Низкова, И. В. Гинько, С. И. Олиховский, Е. Н. Кисловский, Е. Г. Лень, А. А. Белоцкая, Е. В. Первак, В. В. Молодкин, Способ многопараметрической структурной диагностики монокристаллов с несколькими типами дефектов, Патент Украины № 36075 (Опубл. 10 октября 2008 г.).",
+				"tr":  "A. P. Shpak, M. V. Koval'chuk, V. B. Molodkin, A. I. Nizkova, I. V. Gin'ko, S. I. Olikhovskii, E. M. Kislovskii, E. G. Len, A. O. Bilotska, K. V. Pervak, and V. V. Molodkin, Sposob Mnogoparametricheskoy Strukturnoy Diagnostiki Monokristallov s Neskol'kimi Tipami Defektov, Patent of Ukraine No. 36075 (Publ. 10 October 2008) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, М. В. Ковальчук, В. Б. Молодкин, В. Л. Носик, В. Ю. Сторижко, Л. А. Булавин, И. М. Карнаухов, Р. И. Барабаш, Дж. Е. Айс, А. И. Низкова, И. В. Гинько, С. И. Олиховский, Е. Н. Кисловский, В. А. Татаренко, Е. Г. Лень, А. А. Белоцкая, Е. В. Первак, В. В. Молодкин, Способ многопараметрической структурной диагностики монокристаллов с несколькими типами дефектов, Патент Украины № 89594 (Опубл. 10 февраля 2010 г.).",
+				"tr":  "A. P. Shpak, M. V. Koval'chuk, V. B. Molodkin, V. L. Nosik, V. Yu. Storizhko, L. A. Bulavin, I. M. Karnaukhov, R. I. Barabash, G. E. Ice, A. I. Nizkova, I. V. Gin'ko, S. I. Olikhovskii, E. N. Kislovskii, V. A. Tatarenko, E. G. Len, A. O. Bilotska, K. V. Pervak, and V. V. Molodkin, Sposob Mnogoparametri-cheskoy Strukturnoy Diagnostiki Monokristallov s Neskol'kimi Tipami Defektov, Patent of Ukraine No. 89594 (Publ. 10 February 2010) (in Ukrainian)."
+			},
+			{
+				"doi": "10.3367/UFNe.0181.201107a.0681",
+				"or":  "V. B. Molodkin, A. P. Shpak, M. V. Kovalchuk, V. F. Machulin, and V. L. Nosik, Physics–Uspekhi, 54: 661 (2011).",
+				"tr":  "V. B. Molodkin, A. P. Shpak, M. V. Kovalchuk, V. F. Machulin, and V. L. Nosik, Physics–Uspekhi, 54: 661 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, Е. А. Тихонова, Физ. мет. металловед., 24, № 3: 385 (1967).",
+				"tr":  "V. B. Molodkin and E. A. Tikhonova, Fiz. Met. Metalloved., 24, No. 3: 385 (1967) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, Металлофизика, 2, № 1: 3 (1980).",
+				"tr":  "V. B. Molodkin, Metallofizika, 2, No. 1: 3 (1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. B. Molodkin, Phys. Metals, 3: 615 (1981).",
+				"tr":  "V. B. Molodkin, Phys. Metals, 3: 615 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "V. B. Molodkin, S. I. Olikhovskii, and M. E. Osinovskii, Phys. Metals, 5: 1 (1984).",
+				"tr":  "V. B. Molodkin, S. I. Olikhovskii, and M. E. Osinovskii, Phys. Metals, 5: 1 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "V. B. Molodkin, S. I. Olikhovskii, and M. E. Osinovskii, Phys. Metals, 5: 847 (1985).",
+				"tr":  "V. B. Molodkin, S. I. Olikhovskii, and M. E. Osinovskii, Phys. Metals, 5: 847 (1985)."
+			},
+			{
+				"doi": "10.1002/pssa.2211080103",
+				"or":  "V. V. Kochelab, V. B. Molodkin, S. I. Olikhovskii, and M. E. Osinovskii, phys. status solidi (a), 108, No. 1: 67 (1988).",
+				"tr":  "V. V. Kochelab, V. B. Molodkin, S. I. Olikhovskii, and M. E. Osinovskii, phys. status solidi (a), 108, No. 1: 67 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Даценко, В. Б. Молодкин, М. Е. Осиновский, Динамическое рассеяние рентгеновских лучей реальными кристаллами (Киев: Наукова думка: 1988).",
+				"tr":  "L. I. Datsenko, V. B. Molodkin, and M. E. Osinovskiy, Dinamicheskoe Rasseyanie Rentgenovskikh Luchey Real'nymi Kristallami (Kiev: Naukova Dumka: 1988) (in Russian)."
+			},
+			{
+				"doi": "10.1002/1521-3951(200110)227:2<429::AID-PSSB429>3.0.CO;2-C",
+				"or":  "V. B. Molodkin, S. I. Olikhovskii, E. N. Kislovskii, E. G. Len, and E. V. Pervak, phys. status solidi (b), 227, No. 2 : 429 (2001).",
+				"tr":  "V. B. Molodkin, S. I. Olikhovskii, E. N. Kislovskii, E. G. Len, and E. V. Pervak, phys. status solidi (b), 227, No. 2 : 429 (2001)."
+			},
+			{
+				"doi": "10.1002/1521-3951(200205)231:1<199::AID-PSSB199>3.0.CO;2-Y",
+				"or":  "S. I. Olikhovskii, V. B. Molodkin, E. N. Kislovskii, E. G. Len, and E. V. Pervak, phys. status solidi (b), 231, No. 1: 199 (2002).",
+				"tr":  "S. I. Olikhovskii, V. B. Molodkin, E. N. Kislovskii, E. G. Len, and E. V. Pervak, phys. status solidi (b), 231, No. 1: 199 (2002)."
+			},
+			{
+				"doi": "0.1002/pssa.200675700",
+				"or":  "A. P. Shpak, V. B. Molodkin, S. I. Olikhovskii, Ye. M. Kyslovskyy, O. V. Reshetnyk, T. P. Vladimirova, E. G. Len, A. I. Nizkova, V. M. Venger, and S. V. Dmitriev, phys. status solidi (a), 204, No. 8: 2651 (2007).",
+				"tr":  "A. P. Shpak, V. B. Molodkin, S. I. Olikhovskii, Ye. M. Kyslovskyy, O. V. Reshetnyk, T. P. Vladimirova, E. G. Len, A. I. Nizkova, V. M. Venger, and S. V. Dmitriev, phys. status solidi (a), 204, No. 8: 2651 (2007)."
+			},
+			{
+				"doi": "10.1002/pssa.200675686",
+				"or":  "V. B. Molodkin, S. I. Olikhovskii, E. N. Kislovskii et al., phys. status solidi (a), 204, No. 8: 2606 (2007).",
+				"tr":  "V. B. Molodkin, S. I. Olikhovskii, E. N. Kislovskii et al., phys. status solidi (a), 204, No. 8: 2606 (2007)."
+			},
+			{
+				"doi": "10.1002/pssa.2210870223",
+				"or":  "V. B. Molodkin, S. I. Olikhovskii, M. E. Osinovskii et al., phys. status solidi (a), 87, No. 2 : 597 (1985).",
+				"tr":  "V. B. Molodkin, S. I. Olikhovskii, M. E. Osinovskii et al., phys. status solidi (a), 87, No. 2 : 597 (1985)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.3.1167",
+				"or":  "J. E. Thomas, T. O. Baldwin, and P. H. Dederichs, Phys. Rev. B, 3: 1167 (1971).",
+				"tr":  "J. E. Thomas, T. O. Baldwin, and P. H. Dederichs, Phys. Rev. B, 3: 1167 (1971)."
+			},
+			{
+				"doi": "10.1107/S0365110X60001941",
+				"or":  "W. L. Bond, Acta Crystallogr., 13: 814 (1960).",
+				"tr":  "W. L. Bond, Acta Crystallogr., 13: 814 (1960)."
+			},
+			{
+				"doi": "10.1002/pssa.200881588",
+				"or":  "V. B. Molodkin, S. I. Olikhovskii, E. G. Len, E. N. Kislovskii, V. P. Kladko, O. V. Reshetnyk, T. P. Vladimirova, and B. V. Sheludchenko, phys. status solidi (a), 206, No. 8: 1761 (2009).",
+				"tr":  "V. B. Molodkin, S. I. Olikhovskii, E. G. Len, E. N. Kislovskii, V. P. Kladko, O. V. Reshetnyk, T. P. Vladimirova, and B. V. Sheludchenko, phys. status solidi (a), 206, No. 8: 1761 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Тихонова, Физика твёрдого тела, 9, № 2: 516 (1967).",
+				"tr":  "E. A. Tikhonova, Fizika Tverdogo Tela, 9, No. 2: 516 (1967) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.1.1306",
+				"or":  "P. H. Dederichs, Phys. Rev. B, 1, No. 4: 1306 (1970).",
+				"tr":  "P. H. Dederichs, Phys. Rev. B, 1, No. 4: 1306 (1970)."
+			},
+			{
+				"doi": "10.1016/0168-9002(91)90651-6",
+				"or":  "V. V. Nemoshkalenko, V. B. Molodkin, S. I. Olikhovskii et al., Nucl. Instrum. Methods Phys. Res. A, 308, No. 1: 294 (1991).",
+				"tr":  "V. V. Nemoshkalenko, V. B. Molodkin, S. I. Olikhovskii et al., Nucl. Instrum. Methods Phys. Res. A, 308, No. 1: 294 (1991)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.78.224109",
+				"or":  "V. B. Molodkin, S. I. Olikhovskii, E. N. Kislovskii et al., Phys. Rev. B, 78: 224109 (2008).",
+				"tr":  "V. B. Molodkin, S. I. Olikhovskii, E. N. Kislovskii et al., Phys. Rev. B, 78: 224109 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Бушуев, Кристаллография, 39, № 6: 983 (1994).",
+				"tr":  "V. A. Bushuev, Kristallografiya, 39, No. 6: 983 (1994) (in Russian)."
+			},
+			{
+				"doi": "10.1107/S0108767399016694",
+				"or":  "K. M. Pavlov and V. I. Punegov, Acta Crystallogr. A, 56, Iss. 3: 227 (2000).",
+				"tr":  "K. M. Pavlov and V. I. Punegov, Acta Crystallogr. A, 56, Iss. 3: 227 (2000)."
+			},
+			{
+				"doi": "10.1002/pssb.2221400103",
+				"or":  "V. Holy and K. T. Gabrielyan, phys. status solidi (b), 140: 39 (1987).",
+				"tr":  "V. Holy and K. T. Gabrielyan, phys. status solidi (b), 140: 39 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Поляков, Ф. Н. Чуховский, Д. И. Пискунов, ЖЭТФ, 99, № 2: 589 (1991).",
+				"tr":  "A. M. Polyakov, F. N. Chukhovskiy, and D. I. Piskunov, ZhETF, 99, No. 2: 589 (1991) (in Russian)."
+			},
+			{
+				"doi": "10.1107/S0567739480001544",
+				"or":  "N. Kato, Acta Crystallogr. A, 36, Iss. 5: 763 (1980).",
+				"tr":  "N. Kato, Acta Crystallogr. A, 36, Iss. 5: 763 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, М. В. Ковальчук, И. М. Карнаухов и др., Основы динамической высокоразрешающей дифрактометрии функциональных материалов (Нальчик: Кабардино-Балкарский университет: 2013).",
+				"tr":  "V. B. Molodkin, M. V. Koval'chuk, I. M. Karnaukhov et al., Osnovy Dinamicheskoy Vysokorazreshayushchey Difraktometrii Funktsional'nykh Materialov (Nal'chik: Kabardino-Balkarskiy Universitet: 2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, М. В. Ковальчук, И. М. Карнаухов и др., Основы интегральной многопараметрической диффузно-динамической дифрактометрии (Нальчик: Кабардино-Балкарский университет: 2013).",
+				"tr":  "V. B. Molodkin, M. V. Koval'chuk, I. M. Karnaukhov et al., Osnovy Integral'noy Mnogoparametricheskoy Diffuzno-dinamicheskoy Difraktometrii (Nal'chik: Kabardino-Balkarskiy Universitet: 2013) (in Russian)."
+			}
+		]
+	}
+}

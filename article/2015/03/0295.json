@@ -1,0 +1,37 @@
+{
+	"_id":    "MFiNT.37.0295",
+	"year":   2015,
+	"volume": 37,
+	"issue":  3,
+	"pages":  [295,304],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["04.09.2014"],
+	"PACS":   "75.60.Ch, 75.70.Ak, 75.70.Kw, 75.75.Fk, 75.78.Fg, 85.70.Kh",
+	"title":  {
+		"ua": "До питання про ефективну масу структурних неоднорідностей доменної границі в одновісних феромагнетиках",
+		"en": "On the Issue of the Effective Mass of Structural Inhomogeneities of Domain Boundary in Uniaxial Ferromagnets",
+		"ru": "К вопросу об эффективной массе структурных неоднородностей доменной границы в одноосных ферромагнетиках"
+	},
+	"abstract": {
+		"ua": "На основі методи Тілевих гіротропних сил побудовано формалізм, який уможливлює визначати ефективну масу структурних елементів доменної стінки: вертикальних Блохових ліній та Блохових точок у одновісних феромагнетиках. Встановлено, що ефективна маса цих магнетних неоднорідностей залежить від величини гіротропного вигину доменної стінки, зумовленого їхнім рухом.",
+		"en": "Based on the Thiele’s gyrotropic forces, the formalism allowing determining the effective mass of the domain-wall structure elements, i.e., vertical Bloch lines and Bloch points in uniaxial ferromagnets, is constructed. As determined, the effective mass of these magnetic inhomogeneities depends on the gyrotropic bend of the domain wall caused by their motion.",
+		"ru": "На основе метода гиротропных сил Тиля построен формализм, позволяющий определять эффективную массу структурных элементов доменной границы: вертикальных блоховских линий и блоховских точек в одноосных ферромагнетиках. Установлено, что эффективная масса этих магнитных неоднородностей зависит от величины гиротропного изгиба доменной границы, обусловленного их движением."
+	},
+	"keywords": {
+		"ua": "феромагнетик, намагніченість, доменна границя, гіротропний вигин, ефективна маса, вертикальна блохівська лінія, блохівська точка",
+		"en": "ferromagnet, magnetization, domain boundary, gyrotropic bend, effective mass, vertical Bloch line, Bloch point",
+		"ru": "ферромагнетик, намагниченность, доменная граница, гиротропный изгиб, эффективная масса, вертикальная блоховская линия, блоховская точка"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. Б. Шевченко", "en": "A. B. Shevchenko", "ru": "А. Б. Шевченко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 25,
+		"list":  []
+	}
+}

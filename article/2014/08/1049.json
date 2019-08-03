@@ -1,0 +1,106 @@
+{
+	"_id":    "MFiNT.36.08.1049",
+	"year":   2014,
+	"volume": 36,
+	"issue":  8,
+	"pages":  [1049,1057],
+	"rubric": 2,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["17.06.2014"],
+	"PACS":   "61.05.cp, 61.72.Dd, 61.72.Hh, 61.80.Jh, 61.82.Fk, 68.55.Ln",
+	"title":   {
+		"ua": "Моделювання та діягностика деформацій у приповерхневих шарах монокристалів ґадоліній—ґалієвого ґранату, імплантованих йонами F$^{+}$",
+		"en": "Simulation and Diagnostics of Strains in the Subsurface Layers of Gadolinium—Gallium Garnet Single Crystals Implanted with F$^{+}$ Ions",
+		"ru": "Моделирование и диагностика деформаций в приповерхностных слоях монокристаллов гадолиний—галлиевого граната, имплантированных ионами F$^{+}$"
+	},
+	"abstract": {
+		"ua": "На основі оброблення експериментальних даних високороздільчої Рентґенової дифрактометрії із застосуванням статистичної динамічної теорії дифракції Рентґенових променів у дефектних кристалах одержано розподіл пружніх деформацій за глибиною приповерхневого шару монокристалів ґадоліній-ґалієвого ґранату, яких було імплантовано йонами F$^{+}$ з енергією у 90 кеВ. Проаналізовано залежність характеристик деформованого стану кристалу від дози йонної імплантації.",
+		"en": "Elastic strain distributions through depth in the subsurface layer of gadolinium—gallium garnet single crystals implanted by F$^{+}$ ions with energy of 90 keV are determined by means of the high-resolution X-ray diffraction measurement data processing with using the statistical dynamical theory of X-ray diffraction in imperfect crystals. The dependences of strained-crystal characteristics on the implantation dose are analysed.",
+		"ru": "На основе обработки экспериментальных данных рентгеновской дифрактометрии высокого разрешения с применением статистической динамической теории дифракции рентгеновских лучей в дефектных кристаллах получены распределения упругой деформации по глубине приповерхностного слоя монокристаллов гадолиний-галлиевого граната, которые были имплантированы ионами F$^{+}$ с энергией в 90 кэВ. Проанализирована зависимость характеристик деформированного состояния кристалла от дозы ионной имплантации."
+	},
+	"keywords": {
+		"ua": "деформація, йонна імплантація, ґадоліній—ґалієвий ґранат, статистична динамічна теорія дифракції",
+		"en": "strain, ion implantation, gadolinium—gallium garnet, statistical dynamical theory of X-ray diffraction",
+		"ru": "деформация, ионная имплантация, гадолиний—галлиевий гранат, статистическая динамическая теория дифракции"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. О. Коцюбинський", "en": "V. О. Kotsyubynskyy", "ru": "В. О. Коцюбинский"},
+			"OID": [209]
+		},
+		{
+			"AID": {"ua": "В. М. Пилипів", "en": "V. M. Pylypiv", "ru": "В. М. Пылыпив"},
+			"OID": [209]
+		},
+		{
+			"AID": {"ua": "Б. К. Остафійчук", "en": "B. K. Ostafiychuk", "ru": "Б. К. Остафийчук"},
+			"OID": [209]
+		},
+		{
+			"AID": {"ua": "І. П. Яремій", "en": "I. P. Yaremiy", "ru": "И. П. Яремий"},
+			"OID": [209]
+		},
+		{
+			"AID": {"ua": "О. З. Гарпуль", "en": "O. Z. Garpul’", "ru": "О. З. Гарпуль"},
+			"OID": [209]
+		},
+		{
+			"AID": {"ua": "О. С. Скакунова", "en": "E. S. Skakunova", "ru": "Е. С. Скакунова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. Б. Молодкін", "en": "V. B. Molodkin", "ru": "В. Б. Молодкин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. Й. Оліховський", "en": "S. I. Olikhovskyy", "ru": "С. И. Олиховский"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 8,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Л. М. Летюк, В. Г. Костишин, А. В. Гончар, Технология ферритовых материалов магнитоэлектроники (Москва: МИСиС: 2005).",
+				"tr":  "L. M. Letyuk, V. G. Kostishin, and A. V. Gonchar, Tekhnologiya Ferritovykh Materialov Magnitoelektroniki (Moscow: MISiS: 2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. С. Вильямс, Дж. М. Поут, Ионная имплантация и лучевая технология (Киев: Наукова думка: 1988).",
+				"tr":  "J. S. Williams and J. M. Poate, Ionnaya Implantatsiya i Luchevaya Tekhnologiya (Ion Implantation and Radiation Technology) (Kiev: Naukova Dumka: 1988) (Russian translation)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.78.224109",
+				"or":  "V. B. Molodkin, S. I. Olikhovskii, E. N. Kislovskii, T. P. Vladimirova, E. S. Skakunova, R. F. Seredenko, and B. V. Sheludchenko, Phys. Rev. B, 78, No. 22: 224109 (2008).",
+				"tr":  "V. B. Molodkin, S. I. Olikhovskii, E. N. Kislovskii, T. P. Vladimirova, E. S. Skakunova, R. F. Seredenko, and B. V. Sheludchenko, Phys. Rev. B, 78, No. 22: 224109 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "J. F. Ziegler, M. D. Ziegler, and J. P. Biersack, Nuclear Instruments and Methods in Physics Research. Section B: Beam Interactions with Materials and Atoms, 268, Issues 11–12: 1818 (2010).",
+				"tr":  "J. F. Ziegler, M. D. Ziegler, and J. P. Biersack, Nuclear Instruments andMethods in Physics Research. Section B: Beam Interactions with Materials and Atoms, 268, Issues 11–12: 1818 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Пилипів, Б. К. Остафійчук, Т. П. Владімірова, Є. М. Кисловський, В. Б. Молодкін, С. Й. Оліховський, О. В. Решетник, О. С. Скакунова, С. В. Лізунова, Наносистеми, наноматеріали, нанотехнології, 9, вип. 2: 375 (2011).",
+				"tr":  "V. M. Pylypiv, B. K. Ostafiychuk, T. P. Vladimirova, Ye. M. Kyslovskyy, V. B. Molodkin, S. J. Olikhovskyy, O. V. Reshetnyk, O. S. Skakunova, and S. V. Lizunova, Nanosistemi, Nanomateriali, Nanotehnologii, 9, Iss. 2: 375 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Пилипів, С. Й. Оліховський, Т. П. Владімірова, О. С. Скакунова, В. Б. Молодкін, Б. К. Остафійчук, Є. М. Кисловський, О. В. Решетник, С. В. Лізунова, О. З. Гарпуль, Металлофиз. новейшие технол., 33, № 9: 1147 (2011).",
+				"tr":  "V. M. Pylypiv, S. J. Olikhovskyy, T. P. Vladimirova, O. S. Skakunova, V. B. Molodkin, B. K. Ostafiychuk, Ye. M. Kyslovskyy, O. V. Reshetnyk, S. V. Lizunova, and O. Z. Garpul', Metallofiz. Noveishie Tekhnol., 33, No. 9: 1147 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1098/rsta.1999.0469",
+				"or":  "M. Wormington, C. Panaccione, K. M. Matney, and D. K. Bowen, Philos. Trans. R. Soc. Lond. A, 357: 2827 (1999).",
+				"tr":  "M. Wormington, C. Panaccione, K. M. Matney, and D. K. Bowen, Philos. Trans. R. Soc. Lond. A, 357: 2827 (1999)."
+			},
+			{
+				"doi": "10.1093/acprof:oso/9780198528920.001.0001",
+				"or":  "А. Authier, Dynamical Theory of X-Ray Diffraction (Oxford: Oxford University Press: 2003).",
+				"tr":  "A. Authier, Dynamical Theory of X-Ray Diffraction (Oxford: Oxford University Press: 2003)."
+			}
+		]
+	}
+}

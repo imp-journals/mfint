@@ -1,0 +1,146 @@
+{
+	"_id":    "MFiNT.40.03.0411",
+	"year":   2018,
+	"volume": 40,
+	"issue":  3,
+	"pages":  [411,421],
+	"rubric": 18,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["24.11.2017"],
+	"PACS":   "46.40.Cd, 61.43.Gt, 62.20.D-, 62.30.+d, 68.37.Tj, 81.05.Rm, 81.70.Cv",
+	"title":   {
+		"ua": "Характеризація швидкостей одиничних поверхневих акустичних хвиль (ПАХ) стопів Ti–6Al–4V як функції поруватости за моделюванням сканувальної акустичної мікроскопії (САМ) для застосувань",
+		"en": "Characterization of Single SAW Velocities of Ti–6Al–4V Alloy as a Function of Porosity by SAM Simulation for Applications",
+		"ru": "Характеризация скоростей одиночных поверхностных акустических волн (ПАВ) сплавов Ti–6Al–4V как функции пористости согласно моделированию сканирующей акустической микроскопии (САМ) для приложений"
+	},
+	"abstract": {
+		"ua": "Режими Релейових хвиль залежать від пористости стопу Ti–6Al–4V, яка становить 60–75%. Це дуже важливо для багатьох застосувань і розуміння сполучних пристроїв при поширенні поверхневих акустичних хвиль. Швидкості визначалися за допомогою аналізи усічених кривих акустичних характеристик, одержаних шляхом реєстрації вихідного сиґналу $V$. Моделюванням поверхневих акустичних хвиль вимірювалися Релейові швидкості. Визначено акустичні параметри: поздовжні ($V_L$), поперечні ($V_T$) швидкості та швидкість Релея ($V_R$) — від 1139 мс$^{-1}$ до 285 мс$^{-1}$, від 87 мс$^{-1}$ до 143 мс$^{-1}$ та від 562 мс$^{-1}$ до 136 мс$^{-1}$ відповідно (при пористості від 60% до 75%).",
+		"en": "Rayleigh wave modes depend on porosity of Ti–6Al–4V alloy with porosities between 60–75%. It is very important in many applications and understanding of bonding arrangements at propagating surface acoustic-wave velocities. These velocities are deduced from the analysis of the topped acoustic signatures’ curves obtained by recording the output signal $V$. We used simulation of acoustic microscopy to measure Rayleigh velocities. The acoustic parameters were determined as follow: longitudinal ($V_L$), transverse ($V_T$), and Rayleigh ($V_R$) velocities from 1139 ms$^{-1}$ to 285 ms$^{-1}$, from 87 ms$^{-1}$ to 143 ms$^{-1}$, and from 562 ms$^{-1}$ to 136 ms$^{-1}$, respectively, for porosity from 60% to 75%.",
+		"ru": "Режимы волн Рэлея зависят от пористости сплава Ti–6Al–4V, которая составляет 60–75%. Это очень важно для многих приложений и понимания связующих устройств при распространении поверхностных акустических волн. Скорости определялись с помощью анализа усечённых кривых акустических характеристик, полученных путём регистрации выходного сигнала $V$. Моделированием поверхностных акустических волн измерялись скорости Рэлея. Определены акустические параметры: продольные ($V_L$), поперечные ($V_T$) скорости и скорость Рэлея ($V_R$) — от 1139 мс$^{-1}$ до 285 мс$^{-1}$, от 87 мс$^{-1}$ до 143 мс$^{-1}$ и от 562 мс$^{-1}$ до 136 мс$^{-1}$ соответственно (при пористости от 60% до 75%)."
+	},
+	"keywords": {
+		"ua": "стоп Ti–6Al–4V, Релейова швидкість, акустична мікроскопія, модуль Юнґа, моделювання поверхневих акустичних хвиль",
+		"en": "Ti–6Al–4V alloy, Rayleigh velocities, scanning acoustic microscopy (SAM), Young’s modulus, surface acoustic waves (SAW) simulation",
+		"ru": "сплав Ti–6Al–4V, скорость Рэлея, акустическая микроскопия, модуль Юнга, моделирование поверхностных акустических волн"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Я. Аль-Саяд", "en": "Y. Al-Sayad", "ru": "Я. Аль-Саяд"},
+			"OID": [520]
+		},
+		{
+			"AID": {"ua": "З. Хаджуб", "en": "Z. Hadjoub", "ru": "З. Хаджуб"},
+			"OID": [520]
+		},
+		{
+			"AID": {"ua": "А. Догман", "en": "A. Doghmane", "ru": "А. Догман"},
+			"OID": [520]
+		}
+	],
+	"references": {
+		"count": 20,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "M. Peters, H. Hemptenmacher, J. Kumpfert, and C. Leyens, Titanium and Titanium Alloys (Eds. C. Leyens and M. Peters) (Weinheim: Wiley-VCH: 2003).",
+				"tr":  "M. Peters, H. Hemptenmacher, J. Kumpfert, and C. Leyens, Titanium and Titanium Alloys (Eds. C. Leyens and M. Peters) (Weinheim: Wiley-VCH: 2003)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Kotan and A. S¸akir Bor, Turkish J. Eng. Env. Sci., 31: 149 (2007).",
+				"tr":  "G. Kotan and A. S¸akir Bor, Turkish J. Eng. Env. Sci., 31: 149 (2007)."
+			},
+			{
+				"doi": "10.1002/jbm.a.31490",
+				"or":  "Sh. R. Bhattarai, Kh. A.-R. Khalil, M. Dewidar, P. H. Hwang, H. K. Yi, and H. Y. Kim, J. Biomedical Materials Research Part A, 86A, Iss. 2: 289 (2008).",
+				"tr":  "Sh. R. Bhattarai, Kh. A.-R. Khalil, M. Dewidar, P. H. Hwang, H. K. Yi, and H. Y. Kim, J. Biomedical Materials Research Part A, 86A, Iss. 2: 289 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Briggs, Acoustic Microscopy (Oxford: Clarendon Press: 1992).",
+				"tr":  "A. Briggs, Acoustic Microscopy (Oxford: Clarendon Press: 1992)."
+			},
+			{
+				"doi": "10.1201/9781420042139",
+				"or":  "J. David and N. Cheeke, Fundamentals and Applications of Ultrasonic (Boca Raton: CRC Press: 2002).",
+				"tr":  "J. David and N. Cheeke, Fundamentals and Applications of Ultrasonic (Boca Raton: CRC Press: 2002)."
+			},
+			{
+				"doi": "10.1007/978-1-4899-5681-1",
+				"or":  "I. A. Viktorov, Rayleigh and Love Waves. Section 1.1 (New York: Plenum: 1967).",
+				"tr":  "I. A. Viktorov, Rayleigh and Love Waves. Section 1.1 (New York: Plenum: 1967)."
+			},
+			{
+				"doi": "10.1109/MSPEC.1965.6500979",
+				"or":  "J. E. May, IEEE Spectrum, 2: 73 (1965).",
+				"tr":  "J. E. May, IEEE Spectrum, 2: 73 (1965)."
+			},
+			{
+				"doi": "10.1063/1.1754276",
+				"or":  "R. M. White and F. W. Voltmer, Appl. Phys. Lett., 7: 314 (1965).",
+				"tr":  "R. M. White and F. W. Voltmer, Appl. Phys. Lett., 7: 314 (1965)."
+			},
+			{
+				"doi": "10.1063/1.1709116",
+				"or":  "C.-C. Tseng, J. Appl. Phys., 38: 4281 (1967).",
+				"tr":  "C.-C. Tseng, J. Appl. Phys., 38: 4281 (1967)."
+			},
+			{
+				"doi": "10.1063/1.1659217",
+				"or":  "C.-C. Tseng, J. Appl. Phys., 41: 2270 (1970).",
+				"tr":  "C.-C. Tseng, J. Appl. Phys., 41: 2270 (1970)."
+			},
+			{
+				"doi": "10.1109/T-ED.1967.15926",
+				"or":  "R. M. White, IEEE Trans. Elect. Dev., ED14: 181 (1967).",
+				"tr":  "R. M. White, IEEE Trans. Elect. Dev., ED14: 181 (1967)."
+			},
+			{
+				"doi": "10.1063/1.1657463",
+				"or":  "H. F. Tiersten, J. Appl. Phys., 40: 770 (1969).",
+				"tr":  "H. F. Tiersten, J. Appl. Phys., 40: 770 (1969)."
+			},
+			{
+				"doi": "",
+				"or":  "D. L. White, IEEE Ultrasonics Symp. (Vancouver: 1967).",
+				"tr":  "D. L. White, IEEE Ultrasonics Symp. (Vancouver: 1967)."
+			},
+			{
+				"doi": "",
+				"or":  "E. Stern, Lincoln Lab. Tech., Note No. 1968-36, M.I.T. (1968).",
+				"tr":  "E. Stern, Lincoln Lab. Tech., Note No. 1968-36, M.I.T. (1968)."
+			},
+			{
+				"doi": "10.1016/j.ultras.2003.12.028",
+				"or":  "J. B. Liu, J. N. Peterson, F. Forsberg, M. D. Jaeger, D. B. Kynor, and R. J. Kline-Schoder, Ultrasonics, 42: 337 (2004).",
+				"tr":  "J. B. Liu, J. N. Peterson, F. Forsberg, M. D. Jaeger, D. B. Kynor, and R. J. Kline-Schoder, Ultrasonics, 42: 337 (2004)."
+			},
+			{
+				"doi": "10.1002/pssa.200420013",
+				"or":  "S. Bouhedja, I. Hadjoub, A. Doghmane, and Z. Hadjoub, phys. status solidi (a), 202: 1025 (2005).",
+				"tr":  "S. Bouhedja, I. Hadjoub, A. Doghmane, and Z. Hadjoub, phys. status solidi (a), 202: 1025 (2005)."
+			},
+			{
+				"doi": "10.1016/0921-5093(96)10243-4",
+				"or":  "K. Wang, Mat. Sci. Eng. A, 213: 134 (1996).",
+				"tr":  "K. Wang, Mat. Sci. Eng. A, 213: 134 (1996)."
+			},
+			{
+				"doi": "10.1063/1.92198",
+				"or":  "C. G. R. Sheppard and T. Wilson, Appl. Phys. Lett., 38: 858 (1981).",
+				"tr":  "C. G. R. Sheppard and T. Wilson, Appl. Phys. Lett., 38: 858 (1981)."
+			},
+			{
+				"doi": "10.1109/T-SU.1985.31586",
+				"or":  "J. Kushibiki and N. Chubachi, IEEE Sonics Ultrason., SU-32, No. 2, 189 (1985).",
+				"tr":  "J. Kushibiki and N. Chubachi, IEEE Sonics Ultrason., SU-32, No. 2, 189 (1985)."
+			},
+			{
+				"doi": "10.6028/jres.105.057",
+				"or":  "R. G. Munro and J. Res, Nat. Inst. Stand. Technol., 105: 709 (2000).",
+				"tr":  "R. G. Munro and J. Res, Nat. Inst. Stand. Technol., 105: 709 (2000)."
+			}
+		]
+	}
+}

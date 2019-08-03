@@ -1,0 +1,140 @@
+{
+	"_id":    "MFiNT.38.12.1587",
+	"year":   2016,
+	"volume": 38,
+	"issue":  12,
+	"pages":  [1587,1598],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["27.09.2016"],
+	"PACS":   "64.70.Nd,66.30.Pa,68.55.-a,75.50.Ss,75.50.Vv,75.70.Cn,81.40.Ef,81.40.Rs",
+	"title":   {
+		"ua": "Вплив товщин окремих шарів та роздільчих меж на фазовий склад і магнетні властивості багатошарових плівкових композицій Pt/Fe",
+		"en": "Influence of Separate-Layers’ Thicknesses and Interfaces on the Phase Composition and Magnetic Properties of Multilayer Pt/Fe Film Compositions",
+		"ru": "Влияние толщин отдельных слоёв и границ раздела на фазовый состав и магнитные свойства многослойных плёночных композиций Pt/Fe"
+	},
+	"abstract": {
+		"ua": "В роботі досліджено вплив товщин окремих шарів і роздільчих меж у шаруватих плівкових композиціях [Pt/Fe]n (n = 1, 2, 4, 8) товщиною у 30 нм, осаджених на підложжя SiO$_{2}$(100 нм)/Si(001) магнетронною методою, на формування їхніх структури та фазового складу при відпалах у вакуумі в інтервалі температур 400—900°C. Показано що, збільшення кількости меж при зменшенні товщини шару сприяє активації дифузійних процесів на роздільчих межах і формуванню невпорядкованої фази $A1$-FePt у композиції [Pt(4,2 нм)/Fe(3,2 нм)]$_{4}$ та початку формування частково упорядкованих областей із тетрагональними спотвореннями у композиції [Pt(2,1 нм)/Fe(1,6 нм)]$_{8}$ вже при осадженні. Фазове перетворення $A1$-FePt $\\rightarrow$ $L1_{0}$-FePt у плівкових композиціях починається під час відпалення за температури у 700°C. У плівковій композиції [Pt(4,2 нм)/Fe(3,2 нм)]$_{4}$ утворюється більша кількість зерен, орієнтованих у напрямку [001], перпендикулярному до підложжя. Менший ступінь впорядкування є характерним для плівкової композиції [Pt(2,1 нм)/Fe(1,6 нм)]$_{8}$. Додаткова кількість роздільчих меж стримує ріст зерен впорядкованої фази $L1_{0}$-FePt при термічному обробленні в температурному інтервалі 700—800°C.",
+		"en": "Influence of separate-layers’ thicknesses and interfaces in layer [Pt/Fe]n film compositions with thickness of 30 nm (n = 1, 2, 4, 8) deposited by magnetron sputtering on SiO$_{2}$(100nm)/Si(001) substrate on the formation of their structure and phase composition at annealing in a vacuum in the temperature range of 400—900°C is investigated. As shown, the increase in amount of interfaces at reducing layer thickness promotes in activation of diffusion processes on the interfaces and the formation of disordered $A1$-FePt phase in [Pt(4.2 nm)/Fe(3.2 nm)]$_{4}$ composition and partly ordered regions with tetragonal distortions in [Pt(2.1 nm)/Fe(1.6 nm)]$_{8}$ composition already at deposition. The $A1$-FePt $\\rightarrow$ $L1_{0}$-FePt phase transformation in film compositions take place during annealing at 700°C. The greater amount of grains oriented in [001] direction perpendicular to substrate is formed in [Pt(4.2 nm)/Fe(3.2 nm)]$_{4}$ film compositions. The less degree of ordering is typical for [Pt(2.1 nm)/Fe(1.6nm)]$_{8}$ film composition. Additional amount of interfaces restrains grain growth of ordered $L1_{0}$-FePt phase at heat treatment in temperature range of 700—800°C.",
+		"ru": "В работе исследовано влияние толщин отдельных слоёв и границ раздела в слоистых плёночных композициях [Pt/Fe]n (n = 1, 2, 4, 8) толщиной 30 нм, осаждённых на подложки SiO$_{2}$(100 нм)/Si(001) магнетронным методом, на формирование их структуры и фазового состава при отжигах в вакууме в интервале температур 400—900°C. Показано, что увеличение количества границ при уменьшении толщины слоя способствует активации диффузионных процессов на границах раздела и формированию неупорядоченной фазы $A1$-FePt в композиции [Pt(4,2 нм)/Fe(3,2 нм)]$_{4}$ и частично упорядоченных областей с тетрагональными искажениями в композиции [Pt(2,1 нм)/Fe(1,6 нм)]$_{8}$ уже при осаждении. Фазовое превращение $A1$-FePt $\\rightarrow$ $L1_{0}$-FePt в плёночных композициях проходит во время отжига при температуре 700°C. В плёночной композиции [Pt(4,2 нм)/Fe(3,2 нм)]$_{4}$ образуется большее количество зёрен, ориентированных в направлении [001], перпендикулярном к подложке. Для плёночной композиции [Pt(2,1 нм)/Fe(1,6 нм)]$_{8}$ характерна меньшая степень упорядочения. Дополнительное количество границ раздела сдерживает рост зёрен упорядоченной фазы $L1_{0}$-FePt при термической обработке в температурном интервале 700—800°C."
+	},
+	"keywords": {
+		"ua": "нанорозмірна плівка, впорядкована фаза $L1_{0}$-FePt, роздільча межа, коерцитивна сила",
+		"en": "nanosize film, ordered $L1_{0}$-FePt phase, interface, coercivity",
+		"ru": "наноразмерная плёнка, упорядоченная фаза $L1_{0}$-FePt, граница раздела, коэрцитивная сила"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. Ю. Вербицька", "en": "M. Yu. Verbytska", "ru": "М. Ю. Вербицкая"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "Е. А. Холіна", "en": "Ye. A. Kholina", "ru": "Е. А. Холина"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "Т. І. Вербицька", "en": "T. I. Verbytska", "ru": "Т. И. Вербицкая"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "Ю. М. Макогон", "en": "Iu. M. Makogon", "ru": "Ю. Н. Макогон"},
+			"OID": [202]
+		}
+	],
+	"references": {
+		"count": 18,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "M. H. Kryder, Proc of Symp. ‘Computerworld’s Storage Networking World Conference’ (April 3–6, 2006) (San Diego, California: 2006), p. 350.",
+				"tr":  "M. H. Kryder, Proc of Symp. 'Computerworld's Storage Networking World Conference' (April 3–6, 2006) (San Diego, California: 2006), p. 350."
+			},
+			{
+				"doi": "10.1002/pssa.201228718",
+				"or":  "M. Albrecht and C. Brombacher, phys. status solidi (a), 210: 1272 (2013).",
+				"tr":  "M. Albrecht and C. Brombacher, phys. status solidi (a), 210: 1272 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "C. S. Esener, M. H. Kryder, D. D. William, M. Keshner, M. Mansuripur, and D. A. Thompson, WTEC Panel on the Future of Data Storage Technologies (Baltimore, Maryland: Loyola College: 1999); ISBN 1-883712-53-x.",
+				"tr":  "C. S. Esener, M. H. Kryder, D. D. William, M. Keshner, M. Mansuripur, and D. A. Thompson, WTEC Panel on the Future of Data Storage Technologies (Baltimore, Maryland: Loyola College: 1999); ISBN 1-883712-53-x."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2012.11.102",
+				"or":  "O. P. Pavlova, T. I. Verbitska, I. A. Vladymyrskyi et al., Applied Surface Science, 266: 100 (2013).",
+				"tr":  "O. P. Pavlova, T. I. Verbitska, I. A. Vladymyrskyi et al., Applied Surface Science, 266: 100 (2013)."
+			},
+			{
+				"doi": "10.1063/1.4891477",
+				"or":  "I. A. Vladymyrskyi, M. V. Karpets, G. L. Katona et al., J. Appl. Phys., 116: 4 (2014).",
+				"tr":  "I. A. Vladymyrskyi, M. V. Karpets, G. L. Katona et al., J. Appl. Phys., 116: 4 (2014)."
+			},
+			{
+				"doi": "10.1007/s00339-013-7949-z",
+				"or":  "G. L. Katona, I. A. Vladymyrskyi, I. M. Makogon et al., Appl. Physics A: Materials Science and Processing, 115, No. 1: 203 (2013).",
+				"tr":  "G. L. Katona, I. A. Vladymyrskyi, I. M. Makogon et al., Appl. Physics A: Materials Science and Processing, 115, No. 1: 203 (2013)."
+			},
+			{
+				"doi": "10.1063/1.2830004",
+				"or":  "Y. Ding, D. H. Wei, and Y. D. Yao, J. Appl. Phys., 103, Iss. 7: 07E145 (2008).",
+				"tr":  "Y. Ding, D. H. Wei, and Y. D. Yao, J. Appl. Phys., 103, Iss. 7: 07E145 (2008)."
+			},
+			{
+				"doi": "10.1063/1.2828978",
+				"or":  "B. Yao and R. Coffey, J. Appl. Phys., 103: 118 (2007).",
+				"tr":  "B. Yao and R. Coffey, J. Appl. Phys., 103: 118 (2007)."
+			},
+			{
+				"doi": "10.1016/S1006-7191(08)60066-6",
+				"or":  "K. Dong, X. I. Yang, J. Yan et al., Acta Metallurgica Sinica, No. 1: 22 (2009).",
+				"tr":  "K. Dong, X. I. Yang, J. Yan et al., Acta Metallurgica Sinica, No. 1: 22 (2009)."
+			},
+			{
+				"doi": "10.1063/1.1622997",
+				"or":  "Y. Endo, K. Oikawa, T. Miyazaky et al., J. Appl. Phys., 94: 7222 (2003).",
+				"tr":  "Y. Endo, K. Oikawa, T. Miyazaky et al., J. Appl. Phys., 94: 7222 (2003)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2008.06.062",
+				"or":  "N. Zotov, J. Feydt, and A. Ludwig, Thin Solid Films, 517: 531 (2008).",
+				"tr":  "N. Zotov, J. Feydt, and A. Ludwig, Thin Solid Films, 517: 531 (2008)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2008.02.176",
+				"or":  "Dan Phuong Nguyen, Se-Young O, Chan-Woo Park, Keesam Shin, Chan-Gyu Lee, Toshitada Shimozaki, and Takahisa Okino, J. Magnetism and Magnetic Materials, 320, Iss. 14: e264 (2008).",
+				"tr":  "Dan Phuong Nguyen, Se-Young O, Chan-Woo Park, Keesam Shin, Chan-Gyu Lee, Toshitada Shimozaki, and Takahisa Okino, J. Magnetism and Magnetic Materials, 320, Iss. 14: e264 (2008)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2005.04.058",
+				"or":  "A. Ludwig, N. Zotov, A. Savan, and S. Groudeva-Zotova, Appl. Surf. Sci., 252: 2518 (2006).",
+				"tr":  "A. Ludwig, N. Zotov, A. Savan, and S. Groudeva-Zotova, Appl. Surf. Sci., 252: 2518 (2006)."
+			},
+			{
+				"doi": "10.1063/1.2355552",
+				"or":  "N. Zotov, J.Feydt, A. Savan, and A. Ludwig, J. Appl. Phys., 100: 073517 (2006).",
+				"tr":  "N. Zotov, J.Feydt, A. Savan, and A. Ludwig, J. Appl. Phys., 100: 073517 (2006)."
+			},
+			{
+				"doi": "10.1063/1.2828148",
+				"or":  "Chun Feng, Bao-He Li, Yang Liu, Jiao Teng et al., J. Appl. Phys., 103: 023916 (2008).",
+				"tr":  "Chun Feng, Bao-He Li, Yang Liu, Jiao Teng et al., J. Appl. Phys., 103: 023916 (2008)."
+			},
+			{
+				"doi": "10.15407/mfint.36.10.1359",
+				"or":  "Iu. M. Makogon, O. P. Pavlova, S. I. Sidorenko, T. I. Verbytska, I. A. Vladymyrskyi, O. V. Figurna, and I. O. Kruglov, Metallofiz. Noveishie Tekhnol., 36, No. 10: 1359 (2014) (in Russian).",
+				"tr":  "Iu. M. Makogon, O. P. Pavlova, S. I. Sidorenko, T. I. Verbytska, I. A. Vladymyrskyi, O. V. Figurna, and I. O. Kruglov, Metallofiz. Noveishie Tekhnol., 36, No. 10: 1359 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.2169540",
+				"or":  "V. W. Guo, B. Lu, X. Wu, G. Ju, B. Valcu, and D. Weller, J. Appl. Phys., 99, Iss. 8: 08E918 (2006).",
+				"tr":  "V. W. Guo, B. Lu, X. Wu, G. Ju, B. Valcu, and D. Weller, J. Appl. Phys., 99, Iss. 8: 08E918 (2006)."
+			},
+			{
+				"doi": "10.1088/0022-3727/49/3/035003",
+				"or":  "I. A. Vladymyrskyi, A. E. Gafarov, A. P. Burmak et al., J. Phys. D: Appl. Phys., 49: 035003 (2016).",
+				"tr":  "I. A. Vladymyrskyi, A. E. Gafarov, A. P. Burmak et al., J. Phys. D: Appl. Phys., 49: 035003 (2016)."
+			}
+		]
+	}
+}

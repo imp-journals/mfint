@@ -1,0 +1,177 @@
+{
+	"_id":    "MFiNT.38.07.0981",
+	"year":   2016,
+	"volume": 38,
+	"issue":  7,
+	"pages":  [981,993],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["08.02.2016"],
+	"PACS":   "05.70.Ln, 61.72.Bb, 61.72.Cc, 64.60.Bd, 64.70.kd, 64.75.Op, 81.30.-t",
+	"title":   {
+		"ua": "Аналіз стаціонарного евтектоїдного перетворення у вуглецевій сталі на основі положень нерівноважної термодинаміки",
+		"en": "Analysis of the Stationary Eutectoid Transformation in Carbon Steel on the Basis of Non-Equilibrium Thermodynamics",
+		"ru": "Анализ стационарного эвтектоидного превращения в углеродистой стали на основе положений неравновесной термодинамики"
+	},
+	"abstract": {
+		"ua": "Виконано нерівноважну термодинамічну аналізу евтектоїдного перетворення у вуглецевій сталі. Побудовано Онзагерові рівняння руху для модельної термодинамічної системи, що описує евтектоїдне перетворення. Розраховано залежності основних кінетичних параметрів процесу, – міжплатівкової віддалі та швидкости зростання перліту, – від величини переохолодження сталі для стаціонарного процесу евтектоїдного перетворення.",
+		"en": "The non-equilibrium thermodynamics analysis of the eutectoid transformation in carbon steel is performed. Onsager’s equations of motion are obtained for the model thermodynamic system describing eutectoid transformation. Dependences of basic kinetic parameters of process–interplates distance and rate of pearlite growth–on the magnitude of steel supercooling are calculated for the stationary process of eutectoid transformation.",
+		"ru": "Выполнен неравновесный термодинамический анализ эвтектоидного превращения в углеродистой стали. Построены уравнения движения Онзагера для модельной термодинамической системы, описывающей эвтектоидное превращение. Рассчитаны зависимости основных кинетических параметров процесса, – межпластинного расстояния и скорости роста перлита, – от величины переохлаждения стали для стационарного процесса эвтектоидного превращения."
+	},
+	"keywords": {
+		"ua": "нерівноважна термодинаміка, рівняння руху, евтектоїдне перетворення, дифузія, вуглецева сталь",
+		"en": "non-equilibrium thermodynamics, equations of motion, eutectoid transformation, diffusion, carbon steel",
+		"ru": "неравновесная термодинамика, уравнения движения, эвтектоидное превращение, диффузия, углеродистая сталь"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. В. Бобир", "en": "S. V. Bobyr", "ru": "С. В. Бобырь"},
+			"OID": [14]
+		},
+		{
+			"AID": {"ua": "В. І. Большаков", "en": "V. I. Bolshakov", "ru": "В. И. Большаков"},
+			"OID": [225]
+		}
+	],
+	"references": {
+		"count": 27,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Г. В. Курдюмов , Л. М. Утевский, Р. И. Энтин, Превращения в железе и стали (Москва: Наука: 1977).",
+				"tr":  "G. V. Kurdyumov, L. M. Utevskiy, and R. I. Entin, Prevrashcheniya v Zheleze i Stali [Transformations in Iron and Steel] (Moscow: Nauka: 1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Я. Любов, Кинетическая теория фазовых превращений (Москва: Металлургия: 1969).",
+				"tr":  "B. Ya. Lyubov, Kineticheskaya Teoriya Fazovykh Prevrashcheniy [Kinetic Theory of Phase Transformations] (Moscow: Metallurgiya: 1969) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.15.03.145",
+				"or":  "С. В. Бобырь, В. И. Большаков, Успехи физики металлов, 15, № 3: 145 (2014).",
+				"tr":  "S. V. Bobyr and V. I. Bol'shakov, Uspehi Fiziki Metallov, 15, No. 3: 145 (2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Ф. Мейл, У. К. Хагель, Успехи физики металлов (Москва: ГосНТИ: 1960), т. 3.",
+				"tr":  "R. F. Meyl and U. K. Hagel, Uspekhi Fiziki Metallov [Progress in Metal Physics] (Moscow: GosNTI: 1960), vol. 3 (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Zener, Trans. AIME, 167: 550 (1946).",
+				"tr":  "C. Zener, Trans. AIME, 167: 550 (1946)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Hillert, Jernkontorets Ann., 141, No. 11: 755 (1957).",
+				"tr":  "M. Hillert, Jernkontorets Ann., 141, No. 11: 755 (1957)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Л. Миркин, Труды Московского института стали (Москва: МИСиС: 1941), т. ХVIII.",
+				"tr":  "I. L. Mirkin, Trudy Moskovskogo Instituta Stali [Proceedings of the Moscow Institute of Steel] (Moscow: MISiS: 1941), vol. XVIII (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Onsager, Conference ‘Phase Transformation in Solid’ (N.Y.C.: Cornwell: 1951).",
+				"tr":  "L. Onsager, Conference 'Phase Transformation in Solid' (N.Y.C.: Cornwell: 1951)."
+			},
+			{
+				"doi": "10.1016/0001-6160(55)90011-0",
+				"or":  "D. Turnball, Acta Met., 3: 43 (1955).",
+				"tr":  "D. Turnball, Acta Met., 3: 43 (1955)."
+			},
+			{
+				"doi": "10.1016/0001-6160(59)90164-6",
+				"or":  "J. W. Cahn, Acta Met., 7: 18 (1959).",
+				"tr":  "J. W. Cahn, Acta Met., 7: 18 (1959)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Бобырь, Строительство, материаловедение и машиностроение: Сб. науч. трудов (Днепропетровск: ПГаСиА: 2003), вып. 22, ч. 2, с. 60.",
+				"tr":  "S. V. Bobyr, Stroitel'stvo, Materialovedenie i Mashinostroenie: Sb. Nauch. Trudov [Construction, Materials Science, Mechanical Engineering: Coll. Scientific Works] (PGaSiA: Dnepropetrovsk: 2003), Iss. 22, part. 2, p. 60 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Большаков, С. В. Бобырь, МиТОМ, № 8: 11 (2004).",
+				"tr":  "V. I. Bolshakov and S. V. Bobyr, MiTOM, No. 8: 11 (2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Счастливцев, Д. А. Мирзаев, И. Л. Яковлева, Структура термически обработанной стали (Москва: Металлургия: 1994).",
+				"tr":  "V. M. Shchastlivtsev, D. A. Mirzaev, and I. L. Yakovleva, Struktura Termicheski Obrabotannoy Stali [Structure of the Heat-Treated Steel] (Moscow: Metallurgiya: 1994) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Ольшанецкий, МиТОМ, № 3: 3 (2003).",
+				"tr":  "V. E. Olshanetskiy, MiTOM, No. 3: 3 (2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Счастливцев, Д. А. Мирзаев, И. Л. Яковлева, К. Ю. Окишев, Т. И. Табатчикова, Ю. В. Хлебникова, Перлит в углеродистых сталях (Екатеринбург: УрО РАН: 2006).",
+				"tr":  "V. M. Shchastlivtsev, D. A. Mirzaev, I. L. Yakovleva, K. Yu. Okishev, T. I. Tabatchikova, and Yu. V. Khlebnikova, Perlit v Uglerodistykh Stalyakh [Perlite in Carbon Steels] (Yekaterinburg: Ural Branch of R.A.S.: 2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. И. Кононенко, В. Е. Ольшанецкий, Нові матеріали і технології в металургії та машинобудуванні, № 1: 37 (2010).",
+				"tr":  "Yu. I. Kononenko and V. E. Olshanetskiy, Novi Materialy i Tekhnologii v Metalurgii ta Mashynobuduvanni, No. 1: 37 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Пригожин, Введение в термодинамику необратимых процессов (Москва: ИЛ: 1960).",
+				"tr":  "I. Prigozhin, Vvedenie v Termodinamiku Neobratimyh Protsessov [Introduction to the Thermodynamics of Irreversible Processes] (Moscow: IL: 1960) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "С. де Гроот, П. Мазур, Неравновесная термодинамика (Москва: Мир: 1964).",
+				"tr":  "S. de Groot and P. Mazur, Neravnovesnaya Termodinamika [Non-Equilibrium Thermodynamics] (Moscow: Mir: 1964) (Russian translation)."
+			},
+			{
+				"doi": "10.1103/PhysRev.37.405",
+				"or":  "L. Onsager, Phys. Rev., 37: 405 (1931).",
+				"tr":  "L. Onsager, Phys. Rev., 37: 405 (1931)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Жуков, Р. Л. Снежной, Диффузионные процессы в металлах (Киев: Наукова думка: 1966).",
+				"tr":  "A. A. Zhukov and R. L. Snezhnoy, Diffuzionnye Protsessy v Metallakh [Diffusion Processes in Metals] (Kiev: Naukova Dumka: 1966) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Криштал, А. А. Жуков, Р. Л. Снежной, Э. Г. Титенский, Термодинамика, физическая кинетика структурообразования и свойства чугуна и стали (Москва: Металлургия: 1971), вып. 4.",
+				"tr":  "M. A. Krishtal, A. A. Zhukov, R. L. Snezhnoy, and E. G. Titenskiy, Termodinamika, Fizicheskaya Kinetika Strukturoobrazovaniya i Svoystva Chuguna i Stali [Thermodynamics, Kinetics of Structure Formation, and Properties of Cast Iron and Steel] (Moscow: Metallurgiya: 1971), iss. 4 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Бобырь, Металлофиз. новейшие технол., 35, № 2: 199 (2013).",
+				"tr":  "S. V. Bobyr, Metallofiz. Noveishie Tekhnol., 35, No. 2: 199 (2013) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.36.10.1385",
+				"or":  "С. В. Бобырь, Металлофиз. новейшие технол., 36, № 10: 1385 (2014).",
+				"tr":  "S. V. Bobyr, Metallofiz. Noveishie Tekhnol., 36, No. 10: 1385 (2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. С. Бокштейн, Диффузия в металлах (Москва: Металлургия:1978).",
+				"tr":  "B. S. Bokshtein, Diffuziya v Metallakh [Diffusion in Metals] (Moscow: Metallurgiya:1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Бобырь, В. И. Большаков, Нові матеріали і технології в металургії та машинобудуванні, № 1: 21 (2012).",
+				"tr":  "S. V. Bobyr and V. I. Bolshakov, Novi Materialy i Tekhnologii v Metalurgii ta Mashinobuduvanni, No. 1: 21 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Корн, Т. Корн, Справочник по математике для научных сотрудников и инженеров (Москва: Наука: 1974).",
+				"tr":  "G. Korn and T. Korn, Spravochnik po Matematike dlya Nauchnykh Sotrudnikov i Inzhenerov [Handbook of Mathematics for Scientists and Engineers] (Moscow: Nauka: 1974) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Лариков, В. И. Исайчев, Диффузия в металлах и сплавах: Справочник (Киев: Наукова думка: 1987).",
+				"tr":  "L. N. Larikov and V. I. Isaichev, Diffuziya v Metallakh i Splavakh: Spravochnik [Diffusion in Metals and Alloys: Handbook] (Kiev: Naukova Dumka: 1987) (in Russian)."
+			}
+		]
+	}
+}

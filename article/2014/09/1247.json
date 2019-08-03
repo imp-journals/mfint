@@ -1,0 +1,135 @@
+{
+	"_id":    "MFiNT.36.09.1247",
+	"year":   2014,
+	"volume": 36,
+	"issue":  9,
+	"pages":  [1247,1258],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["02.02.2014","06.06.2014"],
+	"PACS":   "06.60.Vz, 07.20.Hy, 61.43.Gt, 81.05.Bx, 81.20.Ev, 81.70.Pg",
+	"title":   {
+		"ua": "Термічний аналіз індукційного спікання брикетів порошкових металів аж до температури спікання",
+		"en": "Thermal Analyses for Induction Sintering of Powder Metal Compacts up to Sintering Temperature",
+		"ru": "Термический анализ индукционного спекания прессовок порошковых металлов вплоть до температуры спекания"
+	},
+	"abstract": {
+		"ua": "Індукційне спікання було розроблено як альтернатива звичайному спіканню, щоб спікати брикети порошкових матеріялів (ПМ) на основі заліза. В даній роботі використано індукційну аґломераційну машину потужністю у 12 кВт і частотою у 30кГц для спікання суміші заліза з 3 ваг.% міді. Досліджено впливи різних форм і розмірів індукційної шпулі, ріжниць температур на брикети ПМ аж до температури спікання; ті параметри було досліджено як теоретично, так й експериментально під час індукційного спікання. Брикети ПМ на основі заліза спікалися при 1120°C. Індукційне спікання брикетів ПМ на основі заліза також модельовано з використанням програми, яка досліджує впливи магнетного потоку та розподілу температури у зразку з часом. Результати порівняно з результатами експериментальних досліджень.",
+		"en": "Induction sintering is developed as an alternative method to conventional sintering in order to sinter iron-based powder metal (PM) compacts. In this study, the 12 kW power and 30 kHz frequency induction-sintering machine is used for 3 wt.% copper-mixed iron. The effects of different shapes and sizes of the induction coil, and temperature differences on the PM compacts up to sintering temperature are investigated; these parameters are determined both theoretically and experimentally during induction sintering. Iron-based PM compacts are sintered at 1120°C. Induction sintering of iron-based PM compacts are simulated using a program to examine the effects of magnetic flux and temperature distribution in the sample over time. The results are compared with the experimental studies.",
+		"ru": "Индукционное спекание было разработано как альтернатива обычному спеканию, чтобы спекать прессовки порошковых материалов (ПМ) на основе железа. В данной работе использована индукционная агломерационная машина мощностью 12 кВт и частотой 30 кГц для спекания смеси железа с 3 масс.% меди. Исследованы влияния различных форм и размеров индукционных катушек, разниц температур на брикеты ПМ вплоть до температуры спекания; эти параметры были исследованы как теоретически, так и экспериментально во время индукционного спекания. Брикеты ПМ на основе железа спекались при 1120°C. Индукционное спекание брикетов ПМ на основе железа также смоделировано с использованием программы, которая исследует влияние магнитного потока и распределения температуры в образце со временем. Результаты сопоставлены с результатами экспериментальных исследований."
+	},
+	"keywords": {
+		"ua": "індукція, спікання, середня частота, залізо, термічний аналіз",
+		"en": "induction, sintering, medium frequency, iron, thermal analysis",
+		"ru": "индукция, спекание, средняя частота, железо, термический анализ"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "У. Чавдар", "en": "U. Çavdar", "ru": "У. Чавдар"},
+			"OID": [474]
+		},
+		{
+			"AID": {"ua": "Е. Атикь", "en": "E. Atik", "ru": "Э. Атыкь"},
+			"OID": [475]
+		},
+		{
+			"AID": {"ua": "М. Б. Акгюль", "en": "M. B. Akgül", "ru": "М. Б. Акгюль"},
+			"OID": [475]
+		},
+		{
+			"AID": {"ua": "Х. Караджа", "en": "H. Karaca", "ru": "Х. Караджа"},
+			"OID": [476]
+		}
+	],
+	"references": {
+		"count": 18,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "R. M. German, Powder Metallurgy Science (Princeton, NJ: MPIF: 1984).",
+				"tr":  "R. M. German, Powder Metallurgy Science (Princeton, NJ: MPIF: 1984)."
+			},
+			{
+				"doi": "10.1016/j.jmatprotec.2006.02.014",
+				"or":  "A. Salak, K. Vasilko, M. Selecka, and H. Danninger, J. Mater. Process. Technol., 176: 62 (2006).",
+				"tr":  "A. Salak, K. Vasilko, M. Selecka, and H. Danninger, J. Mater. Process. Technol., 176: 62 (2006)."
+			},
+			{
+				"doi": "10.1016/j.jmatprotec.2012.02.009",
+				"or":  "I. Cristofolini, C. Menapace, M. Cazzolli, A. Rao, W. Pahl, and A. Molinari, J. Mater. Process. Technol., 212: 1513 (2012).",
+				"tr":  "I. Cristofolini, C. Menapace, M. Cazzolli, A. Rao, W. Pahl, and A. Molinari, J. Mater. Process. Technol., 212: 1513 (2012)."
+			},
+			{
+				"doi": "10.1016/j.jmatprotec.2011.08.019",
+				"or":  "M. R. Raza, F. Ahmad, M. A. Omar, and R. M. German, J. Mater. Process. Technol., 212: 164 (2012).",
+				"tr":  "M. R. Raza, F. Ahmad, M. A. Omar, and R. M. German, J. Mater. Process. Technol., 212: 164 (2012)."
+			},
+			{
+				"doi": "10.1016/j.matdes.2005.06.020",
+				"or":  "A. Kurt and H. Ateş, Materials and Design, 28: 230 (2007).",
+				"tr":  "A. Kurt and H. Ateş, Materials and Design, 28: 230 (2007)."
+			},
+			{
+				"doi": "10.1016/j.matdes.2005.05.007",
+				"or":  "H. Arik and M. Turker, Materials and Design, 28: 140 (2007).",
+				"tr":  "H. Arik and M. Turker, Materials and Design, 28: 140 (2007)."
+			},
+			{
+				"doi": "10.1016/j.ceramint.2010.03.007",
+				"or":  "I. J. Shon, B. R. Kim, J. M. Doh, and J. K. Yoon, Ceram. Int., 36: 1797 (2010).",
+				"tr":  "I. J. Shon, B. R. Kim, J. M. Doh, and J. K. Yoon, Ceram. Int., 36: 1797 (2010)."
+			},
+			{
+				"doi": "10.1016/j.ceramint.2007.11.006",
+				"or":  "I. J. Shon, I. K. Jeong, J. H. Park, B. R. Kim, and K. T. Lee, Ceram. Int., 35, Iss. 1: 363 (2009).",
+				"tr":  "I. J. Shon, I. K. Jeong, J. H. Park, B. R. Kim, and K. T. Lee, Ceram. Int., 35, Iss. 1: 363 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Watanabe and T. Kohno, Report of the Casting Research Laboratory, No. 23: 1 (1972).",
+				"tr":  "T. Watanabe and T. Kohno, Report of the Casting Research Laboratory, No. 23: 1 (1972)."
+			},
+			{
+				"doi": "10.5539/mas.v4n3p63",
+				"or":  "U. Çavdar and E. Atik, Modern Appl. Sci., 4, No. 3: 63 (2010).",
+				"tr":  "U. Çavdar and E. Atik, Modern Appl. Sci., 4, No. 3: 63 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "U. Çavdar and E. Atik, Euro PM2009 Sintering (Copenhagen: 2009), p. 13.",
+				"tr":  "U. Çavdar and E. Atik, Euro PM2009 Sintering (Copenhagen: 2009), p. 13."
+			},
+			{
+				"doi": "",
+				"or":  "U. Çavdar and E. Atik, 5-th International Powder Metallurgy Conference (Ankara: 2008), p. 18.",
+				"tr":  "U. Çavdar and E. Atik, 5-th International Powder Metallurgy Conference (Ankara: 2008), p. 18."
+			},
+			{
+				"doi": "",
+				"or":  "U. Çavdar (PhD Thesis) (2009), p. 110.",
+				"tr":  "U. Çavdar (PhD Thesis) (2009), p. 110."
+			},
+			{
+				"doi": "10.1007/s11837-014-0977-0",
+				"or":  "U. Çavdar and E. Atik, JOM, 66, No. 6: 1027 (2014).",
+				"tr":  "U. Çavdar and E. Atik, JOM, 66, No. 6: 1027 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "V. K. Bobolev and L. G. Bolkhovitinov, Bulletin of the Academy of Sciences of the USSR, 709 (1960).",
+				"tr":  "V. K. Bobolev and L. G. Bolkhovitinov, Bulletin of the Academy of Sciences of the USSR, 709 (1960)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Zinn and S. L. Semiatin, ASM International, 3: 12 (1998).",
+				"tr":  "S. Zinn and S. L. Semiatin, ASM International, 3: 12 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Lewis, Engineering News, 43 (1999).",
+				"tr":  "J. Lewis, Engineering News, 43 (1999)."
+			}
+		]
+	}
+}

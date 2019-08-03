@@ -1,0 +1,115 @@
+{
+	"_id":    "MFiNT.37.08.1135",
+	"year":   2015,
+	"volume": 37,
+	"issue":  8,
+	"pages":  [1135,1146],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["15.03.2015", "12.05.2015"],
+	"PACS":   "06.60.Ei, 62.20.de, 62.20.fk, 62.20.Qp, 62.25.Mn, 68.35.bd, 81.40.Ef",
+	"title":  {
+		"ua": "Модуль пружності і наноміцність наклепаного гідриду паладію",
+		"en": "Elastic Modulus and Nanohardness of Non-Work-Hardened Palladium Hydride",
+		"ru": "Модуль упругости и нанотвёрдость ненаклёпанного гидрида палладия"
+	},
+	"abstract": {
+		"ua": "Методикою наноіндентування за допомогою приладу Nano Indenter G200 досліджено модуль пружности і нанотвердість паладію в первинному стані поставки, відпаленого паладію і паладію, насиченого воднем до складу ненаклепаного $\\beta$-гідриду. Насичення воднем виконували в ориґінальній воднево-вакуумній установці ВВУ-3 «в обхід» бані двофазного стану, тобто таким чином, щоб не допустити розпаду твердого розчину водню в паладії. Встановили, що нанотвердість ненаклепаного $\\beta$-гідриду паладію на 30% менша, ніж така для відпаленого паладію, і становить 0,842 ГПа. Є тенденція до зниження модуля пружности паладію, насиченого воднем «в обхід» бані двофазної области, в порівнянні з відпаленим паладієм. Додаткові рентґенографічні дослідження уможливили зробити висновок, що відмінності в значеннях модулів пружности зразків $\\beta$-PdH$_{x}$, випробуваних через 12 і 36 годин витримки на повітрі, пояснюються процесами перерозподілу водню в зразках, але не процесами дегазації водню з них.",
+		"en": "Using a nanoindentation technique with Nano Indenter G200 equipment, nanohardness and elastic modulus of cold-hardened palladium, annealed one, and palladium saturated with hydrogen are investigated. Saturation with hydrogen is carried out in the original hydrogen—vacuum apparatus HVD-3, ‘bypassing’ the two-phase state cupola to prevent decomposition of the solid solution of hydrogen within the palladium. As found, the nanohardness of annealed low-defect $\\beta$-palladium hydride is by 30% less than that of annealed palladium (0.842 GPa). There is a tendency to lowering the elastic modulus of palladium hydrogenated by the means of ‘bypassing’ the two-phase region cupola as compared to annealed palladium. Additional X-ray analysis results allow concluding that differences in values of elastic moduli of $\\beta$-PdH$_{x}$ samples tested after 12 and 36 hours of in-air exposure can be explained by the process of rearrangement of hydrogen within the samples, not by hydrogen degassing.",
+		"ru": "Методикой наноиндентирования с помощью прибора Nano Indenter G200 исследованы модуль упругости и нанотвёрдость палладия в исходном состоянии поставки, отожжённого палладия и палладия, насыщенного водородом до состава ненаклёпанного $\\beta$-гидрида. Насыщение водородом выполняли в оригинальной водородо-вакуумной установке ВВУ-3 «в обход» купола двухфазного состояния, то есть таким образом, чтобы не допустить распада твёрдого раствора водорода в палладии. Установили, что нанотвёрдость ненаклёпанного $\\beta$-гидрида палладия на 30% меньше, чем таковая для отожжённого палладия и составляет 0,842 ГПа. Существует тенденция к понижению модуля упругости палладия, насыщенного водородом «в обход» купола двухфазной области, в сравнении с отожжённым палладием. Дополнительные рентгенографические исследования позволили сделать вывод, что различия в значениях модулей упругости образцов $\\beta$-PdH$_{x}$, испытанных через 12 и 36 часов выдержки на воздухе, объясняются процессами перераспределения водорода в образцах, но не процессами дегазации водорода из них."
+	},
+	"keywords": {
+		"ua": "наноіндентування, гідрид паладію, модуль пружності",
+		"en": "nanoindenting, palladium hydride, elastic modulus",
+		"ru": "наноиндентирование, гидрид палладия, модуль упругости"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. В. Гольцова", "en": "M. V. Goltsova", "ru": "М. В. Гольцова"},
+			"OID": [402]
+		},
+		{
+			"AID": {"ua": "Є. Н. Любіменко", "en": "E. N. Lyubimenko", "ru": "Е. Н. Любименко"},
+			"OID": [213]
+		},
+		{
+			"AID": {"ua": "Г. Н. Толмачьова", "en": "G. N. Tolmacheva", "ru": "Г. Н. Толмачева"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "Г. І. Жиров", "en": "G. I. Zhirov", "ru": "Г. И. Жиров"},
+			"OID": [402]
+		}
+	],
+	"references": {
+		"count": 13,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Б. А. Колачев, Водородная хрупкость металлов (Москва: Металлургия: 1985).",
+				"tr":  "B. A. Kolachev, Vodorodnaya Khrupkost' Metallov (Moscow: Metallurgiya: 1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Ильин, Б. А. Колачев, В. К. Носов, А. М. Мамонов, Водородная технология титановых сплавов (Ред. А. А. Ильин) (Москва: МИСиС: 2002).",
+				"tr":  "A. A. Il'in, B. A. Kolachev, V. K. Nosov, and A. M. Mamonov, Vodorodnaya Tekhnologiya Titanovykh Splavov (Ed. A. A. Il'in) (Moscow: MISiS: 2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Progress in Hydrogen Treatment of Materials (Ed. V. A. Goltsov) (Donetsk: Kassiopeya Ltd.: 2001).",
+				"tr":  "Progress in Hydrogen Treatment of Materials (Ed. V. A. Goltsov) (Donetsk: Kassiopeya Ltd.: 2001)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Goltsov, Progress in Hydrogen Treatment of Materials (Ed. V. A. Goltsov) (Donetsk: Kassiopeya Ltd.: 2001), p. 3.",
+				"tr":  "V. A. Goltsov, Progress in Hydrogen Treatment of Materials (Ed. V. A. Goltsov) (Donetsk: Kassiopeya Ltd.: 2001), p. 3."
+			},
+			{
+				"doi": "",
+				"or":  "Э. Вике, Х. Бродовский, Водород в металлах (Ред. Г. Алефельд, И. Фёлькль) (Москва: Мир: 1981), т. 2, с. 91 (пер. с англ.).",
+				"tr":  "E. Wicke and H. Brodowsky, Vodorod v Metallakh [Hydrogen in Metals] (Eds. J. Völkl and G. Alefeld) (Moscow: Mir: 1981), vol. 2, p. 91 (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "M. V. Goltsova, Yu. A. Artemenko, and G. I. Zhirov, Progress in Hydrogen Treatment of Materials (Ed. V. A. Goltsov) (Donetsk: Kassiopeya Ltd.: 2001), p. 161.",
+				"tr":  "M. V. Goltsova, Yu. A. Artemenko, and G. I. Zhirov, Progress in Hydrogen Treatment of Materials (Ed. V. A. Goltsov) (Donetsk: Kassiopeya Ltd.: 2001), p. 161."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Гольцов, Н. И. Тимофеев, Способ упрочнения гидридообразующих металлов и сплавов, Авторский сертификат № 510529 СССР (Опубл. 15 апреля 1976 г.).",
+				"tr":  "V. A. Gol'tsov and N. I. Timofeev, Sposob Uprochneniya Gidridoobrazuyushchikh Metallov i Splavov, Authors' Certificate No. 510529 SSSR (Publ. April 15, 1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. И. Жиров, Физика и техника высоких давлений, 13, № 2: 71 (2003).",
+				"tr":  "G. I. Zhirov, Fizika i Tekhnika Vysokikh Davleniy, 13, No. 2: 71 (2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. А. Гляков, А. В. Ветчинов, М. В. Гольцова, 3-я Международная конференция «Водородная обработка материалов–2001» (14–18 Мая 2001 г., Донецк).",
+				"tr":  "D. A. Glyakov, A. V. Vetchinov, and M. V. Gol'tsova, Proc. 3rd Int. Conf. 'Hydrogen Treatment of Materials–2001' (May 14–18, 2001, Donetsk) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. И. Жиров, М. В. Гольцова, Ю. А. Артеменко, Физ. мет. металловед., 92, № 6: 37 (2001).",
+				"tr":  "G. I. Zhirov, M. V. Gol'tsova, and Yu. A. Artemenko, Fiz. Met. Metalloved., 92, No. 6: 37 (2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. И. Жиров, М. В. Гольцова, Физ. мет. металловед., 94, № 3: 66 (2002).",
+				"tr":  "G. I. Zhirov and M. V. Gol'tsova, Fiz. Met. Metalloved., 94, No. 3: 66 (2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Гольцова, Г. И. Жиров, Альтернативная энергетика и экология, № 1: 34 (2005).",
+				"tr":  "M. V. Gol'tsova and G. I. Zhirov, Al'ternativnaya Energetika i Ekologiya, No. 1: 34 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. И. Жиров, М. В. Гольцова. Физ. мет. металловед., 104, № 6: 634 (2007).",
+				"tr":  "G. I. Zhirov and M. V. Gol'tsova, Fiz. Met. Metalloved., 104, No. 6: 634 (2007) (in Russian)."
+			}
+		]
+	}
+}

@@ -1,0 +1,83 @@
+{
+	"_id":    "MFiNT.38.11.1447",
+	"year":   2016,
+	"volume": 38,
+	"issue":  11,
+	"pages":  [1447,1461],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["28.07.2016"],
+	"PACS":   "62.20.de, 62.20.Qp, 63.20.dk, 68.70.+w, 71.15.Mb, 71.20.Be, 81.05.Je",
+	"title":   {
+		"ua": "Порівняльна аналіза модуля Юнґа і нанотвердости у ниткоподібних кристалів диборидів перехідних металів",
+		"en": "The Comparative Analysis of Young’s Modulus and Nanohardness in Whiskers of Diborides of Transition Metals",
+		"ru": "Сравнительный анализ модуля Юнга нанотвёрдости в вискерах диборидов переходных металлов"
+	},
+	"abstract": {
+		"ua": "Розраховано з перших принципів електронні структури та фононні спектри для диборидів металів: Hf, Sc, Zr, Ti. Показано, що для «товстих» ниткоподібних кристалів (у 10—20 мкм) результати розрахунків можуть бути використані при поясненні експериментальних результатів стосовно нанотвердости та модулів пружности, одержаних методою наноіндентування. Зокрема, дано теоретичне пояснення низької твердости дибориду скандію (H = 19 ГПа) при відносно високому модулі пружности (Е = 440 ГПа). В силу специфіки розподілу його електронної густини зв’язок між атомами Бору і Скандію носить переважно йонний характер. Це уможливлює перебіг пластичної деформації (шляхом накопичення дислокацій) за типом «ковзання» між слабовзаємодійними площинами атомів Бору і атомів Скандію (вони чергуються в кристалі). В цьому і полягає пояснення низької твердости для ScB$_{2}$. Таке ж ковзання є ускладненим у інших трьох диборидах (Zr, Ti, Hf) через наявність сильного спрямованого ковалентного зв’язку між атомами Бору і атомами металів.",
+		"en": "Electronic structures and phonon spectra for metal (Hf, Sc, Zr, Ti) diborides are calculated based on the first principles. As shown, the ‘bulk’ calculations for ‘thick’ whiskers (of 10—20 $\\mu$m) can be used to explain the experimental results for nanohardness and elastic modulus obtained by means of the nanoindentation experiments. In particular, a theoretical explanation of the low hardness of scandium diboride (H = 19 GPa) at a relatively high Young’s modulus of elasticity (E = 440 GPa) is obtained. Due to the nature of the electron density distribution, the bonding between the boron atoms and the scandium atom has predominantly ionic character. This enables the runoff of plastic deformation (by means of the accumulation of dislocations) according to the ‘slip’ mechanism between the weakly interacting planes of boron atoms and scandium atoms (which alternate in the crystal). This is the essence of the explanation for the low hardness of ScB$_{2}$. The same slipping will be difficult in other three diborides (of Zr, Ti, Hf) because of the strong covalent interaction between the boron and metal atoms.",
+		"ru": "Рассчитаны из первых принципов электронные структуры и фононные спектры для диборидов металлов: Hf, Sc, Zr, Ti. Показано, что для «толстых» нитевидных кристаллов (10—20 мкм) данные расчётов могут быть использованы при объяснении экспериментальных результатов по нанотвёрдости и модулям упругости, полученных методом наноиндентирования. В частности, дано теоретическое объяснение низкой твёрдости диборида скандия (H = 19 ГПа) при относительно высоком модуле упругости (Е = 440 ГПа). В силу специфики распределения его электронной плотности связь между атомами бора и скандия носит преимущественно ионный характер. Это делает возможным протекание пластической деформации (путём накопления дислокаций) по типу «скольжения» между слабо взаимодействующими плоскостями атомов бора и атомов скандия (они чередуются в кристалле). В этом и состоит объяснение низкой твёрдости для ScB$_{2}$. Такое же скольжение затруднено в остальных трёх диборидах (Zr, Ti, Hf) именно из-за сильной направленной ковалентной связи между атомами бора и атомами металлов."
+	},
+	"keywords": {
+		"ua": "ниткоподібні кристали (віскери), наноіндентування, модуль Юнґа, твердість, електронна структура, фононні спектри",
+		"en": "whisker crystals, nanoindentation, Young’s modulus, hardness, electronic structure, phonon spectra",
+		"ru": "нитевидные кристаллы (вискеры), наноиндентирование, модуль Юнга, твёрдость, электронная структура, фононные спектры"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. М. Січкар", "en": "S. M. Sichkar", "ru": "С. М. Сичкар"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 9,
+		"list":  [
+			{
+				"doi": "10.1007/s10948-014-2732-8",
+				"or":  "S. M. Sichkar, J. Supercond. Nov. Magn., 28: 719 (2015).",
+				"tr":  "S. M. Sichkar, J. Supercond. Nov. Magn., 28: 719 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Г. Якутович, Н. Н. Дорожкин, В. М. Анищик, ФТТ, 47, № 12: 1990 (2005).",
+				"tr":  "N. G. Yakutovich, N. N. Dorozhkin, and V. M. Anishchik, Fizika Tverdogo Tela, 47, No. 12: 1990 (2005) (in Russian)."
+			},
+			{
+				"doi": "10.3103/S1063457613040059",
+				"or":  "S. N. Dub, P. I. Loboda, Yu. I. Bogomol, G. N. Tolmacheva, and V. N. Tkach, Journal of Superhard Materials, 35: 234 (2013).",
+				"tr":  "S. N. Dub, P. I. Loboda, Yu. I. Bogomol, G. N. Tolmacheva, and V. N. Tkach, Journal of Superhard Materials, 35: 234 (2013)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.54.16487",
+				"or":  "S. Y. Savrasov and D. Y. Savrasov, Phys. Rev. B, 54: 16487 (1996).",
+				"tr":  "S. Y. Savrasov and D. Y. Savrasov, Phys. Rev. B, 54: 16487 (1996)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.45.13244",
+				"or":  "J. P. Perdew and Y. Wang, Phys. Rev. B, 45: 13244 (1992).",
+				"tr":  "J. P. Perdew and Y. Wang, Phys. Rev. B, 45: 13244 (1992)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.77.3865",
+				"or":  "J. P. Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett., 77: 3865 (1996).",
+				"tr":  "J. P. Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett., 77: 3865 (1996)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.49.16223",
+				"or":  "P. E. Blöchl, O. Jepsen, and O. K. Andersen, Phys. Rev. B, 49: 16223 (1994).",
+				"tr":  "P. E. Blöchl, O. Jepsen, and O. K. Andersen, Phys. Rev. B, 49: 16223 (1994)."
+			},
+			{
+				"doi": "10.15407/ufm.16.03.229",
+				"or":  "С. М. Січкар, Успехи физики металлов, 16, № 3: 229 (2015).",
+				"tr":  "S. M. Sichkar, Uspehi Fiziki Metallov, 16, No. 3: 229 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.63.045115",
+				"or":  "P. Vajeeston, P. Ravindran, C. Ravi, and R. Asokamani, Phys Rev. B, 63: 045115 (2001).",
+				"tr":  "P. Vajeeston, P. Ravindran, C. Ravi, and R. Asokamani, Phys Rev. B, 63: 045115 (2001)."
+			}
+		]
+	}
+}

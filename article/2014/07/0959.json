@@ -1,0 +1,125 @@
+{
+	"_id":    "MFiNT.36.07.0959",
+	"year":   2014,
+	"volume": 36,
+	"issue":  7,
+	"pages":  [959,966],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["19.11.2013"],
+	"PACS":   "61.46.Km, 71.15.Ap, 71.15.Mb, 71.20.Dg, 73.21.Hb, 81.05.Zx",
+	"title":   {
+		"ua": "Структурні та електронні властивості нанодротів літію",
+		"en": "Structural and Electronic Properties of Lithium Nanowires",
+		"ru": "Структурные и электронные свойства нанопроводов лития"
+	},
+	"abstract": {
+		"ua": "Методами теорії функціоналe густини виконано розрахунки електронної структури нанодротів літію з поперечними розмірами до 15,6 Å. Розрахунки виконано з урахуванням не тільки поперечної, але й поздовжньої оптимізації структурних параметрів нанодротів. Показано, що для нанодротів Li$_{29}$ та Li$_{37}$ густина електронних станів у цілому є порівнянною з такою для кристалів.",
+		"en": "Calculations of electronic structure of lithium nanowires with transverse sizes up to 15.6 Å are performed by methods of the density functional theory. Calculations are carried out, taking into account the transverse and longitudinal optimizations of structural parameters of nanowires. As shown, the electron density of states for Li$_{29}$ and Li$_{37}$ nanowires, in general, is comparable with the same for crystals.",
+		"ru": "Методами теории функционала плотности выполнены расчёты электронной структуры нанопроводов лития с поперечными размерами до 15,6 Å. Расчёты выполнены с учётом не только поперечной, но и продольной оптимизации структурных параметров нанопроводов. Показано, что для нанопроводов Li$_{29}$ и Li$_{37}$ плотность электронных состояний в целом сравнима с таковой для кристаллов."
+	},
+	"keywords": {
+		"ua": "нанодроти літію, електронна структура, зонна структура, густина електронних станів, функціонал густини",
+		"en": "lithium nanowires, electronic structure, band structure, electron density of states, density functional",
+		"ru": "нанопровода лития, электронная структура, зонная структура, плотность электронных состояний, функционал плотности"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Г. Бутько", "en": "V. G. Boutko", "ru": "В. Г. Бутько"},
+			"OID": [8]
+		},
+		{
+			"AID": {"ua": "А. А. Гусєв", "en": "А. А. Gusev", "ru": "А. А. Гусев"},
+			"OID": [8]
+		},
+		{
+			"AID": {"ua": "Т. Н. Шевцова", "en": "T. N. Shevtsova", "ru": "Т. Н. Шевцова"},
+			"OID": [8]
+		},
+		{
+			"AID": {"ua": "Ю. Г. Пашкевич", "en": "Yu. G. Pashkevich", "ru": "Ю. Г. Пашкевич"},
+			"OID": [8]
+		}
+	],
+	"references": {
+		"count": 15,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Nanowires (Ed. P. Prete) (Vucovar: Intech: 2010).",
+				"tr":  "Nanowires (Ed. P. Prete) (Vucovar: Intech: 2010)."
+			},
+			{
+				"doi": "10.1039/b822507a",
+				"or":  "H. Feng, Ya. Yang, Yu. You, G. Li, J. Guo, T. Yu, Z. Shen, T. Wu, and B. Xing, Chem. Commun., Iss. 15: 1984 (2009).",
+				"tr":  "H. Feng, Ya. Yang, Yu. You, G. Li, J. Guo, T. Yu, Z. Shen, T. Wu, and B. Xing, Chem. Commun., Iss. 15: 1984 (2009)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.93.126103",
+				"or":  "J. C. González, V. Rodrigues, J. Bettini, L. G. C. Rego, A. R. Rocha, P. Z. Coura, S. O. Dantas, F. Sato, D. S. Galvão, and D. Ugarte, Phys. Rev. Lett., 93: 126103 (2004).",
+				"tr":  "J. C. González, V. Rodrigues, J. Bettini, L. G. C. Rego, A. R. Rocha, P. Z. Coura, S. O. Dantas, F. Sato, D. S. Galvão, and D. Ugarte, Phys. Rev. Lett., 93: 126103 (2004)."
+			},
+			{
+				"doi": "10.1142/S0219581X02000097",
+				"or":  "J. C. Theng, H. Q. Wang, A. T. S. Wee, and C. H. A. Huan, Int. J. Nanosci., 1, No. 2: 159 (2002).",
+				"tr":  "J. C. Theng, H. Q. Wang, A. T. S. Wee, and C. H. A. Huan, Int. J. Nanosci., 1, No. 2: 159 (2002)."
+			},
+			{
+				"doi": "10.1063/1.4770509",
+				"or":  "V. G. Boutko, A. A. Gusev, T. N. Shevtsova, and Yu. G. Pashkevich, Low Temp. Phys., 38: 1129 (2012).",
+				"tr":  "V. G. Boutko, A. A. Gusev, T. N. Shevtsova, and Yu. G. Pashkevich, Low Temp. Phys., 38: 1129 (2012)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.81.155419",
+				"or":  "J. H. Warner, M. H. Rümmeli, A. Bachmatiak, and B. Büchner, Phys. Rev. B, 81: 155419 (2010).",
+				"tr":  "J. H. Warner, M. H. Rümmeli, A. Bachmatiak, and B. Büchner, Phys. Rev. B, 81: 155419 (2010)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.69.165414",
+				"or":  "S. Karmakar, S. M. Sharma, P. V. Teredesai, and A. K. Sood, Phys. Rev. B, 69: 165414 (2004).",
+				"tr":  "S. Karmakar, S. M. Sharma, P. V. Teredesai, and A. K. Sood, Phys. Rev. B, 69: 165414 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.77.094442",
+				"or":  "B. Hope and A. Horsfield, Phys. Rev. B, 77: 094442 (2008).",
+				"tr":  "B. Hope and A. Horsfield, Phys. Rev. B, 77: 094442 (2008)."
+			},
+			{
+				"doi": "10.1038/40827",
+				"or":  "A. M. Rao, P. C. Eklund, S. Bandow, A. Thess, and R. E. Smalley, Nature, 388: 257 (1997).",
+				"tr":  "A. M. Rao, P. C. Eklund, S. Bandow, A. Thess, and R. E. Smalley, Nature, 388: 257 (1997)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.67.113404",
+				"or":  "J. T. Ye, Z. M. Li, and Z. K. Tang, Phys. Rev. B, 67: 113404 (2003).",
+				"tr":  "J. T. Ye, Z. M. Li, and Z. K. Tang, Phys. Rev. B, 67: 113404 (2003)."
+			},
+			{
+				"doi": "10.1038/nnano.2007.411",
+				"or":  "C. K. Chan, R. A. Huggins, and Y. Cui, Nature Nanotechnology, 3: 31 (2007).",
+				"tr":  "C. K. Chan, R. A. Huggins, and Y. Cui, Nature Nanotechnology, 3: 31 (2007)."
+			},
+			{
+				"doi": "10.1021/nl904132v",
+				"or":  "Q. Zhang, W. Zhang, Y. Cui, and E. Wang, Nano Lett., 10: 3243 (2010).",
+				"tr":  "Q. Zhang, W. Zhang, Y. Cui, and E. Wang, Nano Lett., 10: 3243 (2010)."
+			},
+			{
+				"doi": "10.1063/1.3585655",
+				"or":  "X. H. Liu, J. P. Sullivan, and J. Y. Huang, Appl. Phys. Lett., 98: 183107 (2011).",
+				"tr":  "X. H. Liu, J. P. Sullivan, and J. Y. Huang, Appl. Phys. Lett., 98: 183107 (2011)."
+			},
+			{
+				"doi": "10.1016/0010-4655(90)90187-6",
+				"or":  "P. Blaha, K. Schwarz, P. I. Sorantin, and S. B. Trickey, Comp. Phys. Commun., 59: 399 (1990).",
+				"tr":  "P. Blaha, K. Schwarz, P. I. Sorantin, and S. B. Trickey, Comp. Phys. Commun., 59: 399 (1990)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.77.3865",
+				"or":  "J. P. Perdew, S. Burke, and M. Ernzerhof, Phys. Rev. Lett., 77, Iss. 18: 3865 (1996).",
+				"tr":  "J. P. Perdew, S. Burke, and M. Ernzerhof, Phys. Rev. Lett., 77, Iss. 18: 3865 (1996)."
+			}
+		]
+	}
+}

@@ -1,0 +1,217 @@
+{
+	"_id":    "MFiNT.39.03.0285",
+	"year":   2017,
+	"volume": 39,
+	"issue":  3,
+	"pages":  [285,308],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["05.11.2016"],
+	"PACS":   "32.10.Hq, 36.40.Vz, 65.40.gh, 71.15.Mb, 73.22.Dj, 73.30.+y, 73.61.At",
+	"title":   {
+		"ua": "Робота виходу електронів з металу та потенціял йонізації металевого кластера, що містить вакансії",
+		"en": "Work Function of Electrons of Metal and Ionization Potential of the Metal Cluster Containing Vacancies",
+		"ru": "Работа выхода электронов из металла и потенциал ионизации металлического кластера, содержащего вакансии"
+	},
+	"abstract": {
+		"ua": "Пропонується метода, у якій комбінуються самоузгоджені розрахунки моновакансії у металі без урахування зовнішньої поверхні та розрахунки в моделю стабільного желе для металу з однорідним об’ємом та пласкою поверхнею, але пониженою густиною атомів, зумовленою існуванням дірок-вакансій з відносною концентрацією $c_{\\textrm{v}}$. Використовуючи $c_{\\textrm{v}}$ як малий параметер, усі енергетичні характеристики можна розвинути у функціональний ряд. Члени розвинення з нульовими степенями $c_{\\textrm{v}}$ відносяться до бездефектного металу, а лінійні за $c_{\\textrm{v}}$ поправки виражено через його характеристики. Пропонується послідовна процедура знаходження потенціялу йонізації великого металевого кластера з радіюсом $R_{N\\textrm{,v}}$, що складається з $N$ атомів і містить $N_{\\textrm{v}}$ вакансій. У наближенні ефективного середовища для енергії основного стану електронів побудовано теорію збурень за малими параметрами $R_{\\textrm{v}}/R_{N\\textrm{,v}}$ та $L_{\\textrm{v}}/R_{\\textrm{v}}$ ($R_{\\textrm{v}}$ та $L_{\\textrm{v}}$ — середня віддаль між вакансіями та довжина розсіяння електронів на вакансії відповідно). Одержані аналітичні залежності можуть бути корисними при проведенні аналізи результатів фотойонізаційних експериментів і для визначення розмірної залежности концентрації вакансій, в тому числі поблизу температури топлення.",
+		"en": "A method combining two approaches is proposed. The first one is based on the density-functional theory solution within the stabilized jelly model for a metal monovacancy ignoring an external surface. The second one uses a solution for a defect-free metal in the presence of an external flat surface, but with lowered atomic density. This lowered density of atoms appears due to the existence of superlattice of vacancies with a relative concentration $c_{\\textrm{v}}$ within the defect metal. Using $c_{\\textrm{v}}$ as a small parameter, all metal characteristics are expanded into $c_{\\textrm{v}}$-series. The zero terms of the expansion correspond to defect-free metal, and linear-$c_{\\textrm{v}}$ corrections are expressed through its characteristics. The consecutive procedure for the calculation of a size dependence of ionization potential and electron affinity for a large spherical metal cluster of radius $R_{N\\textrm{,v}}$ containing $N$ atoms and $N_{\\textrm{v}}$ vacancies is presented. Within the scope of the effective-medium approach, the perturbation theory over the small parameters $R_{\\textrm{v}}/R_{N\\textrm{,v}}$ and $L_{\\textrm{v}}/R_{\\textrm{v}}$ is proposed for electrons’ ground-state energy ($R_{\\textrm{v}}$ is the average distance between the vacancies and $L_{\\textrm{v}}$ is the electron–vacancy scattering length). The profile of effective potential, phase shifts of the scattered wave functions, and electron scattering length previously have been calculated by means of the Kohn–Sham method for a macroscopic metal sample within the stabilized jelly model. Obtained analytical dependences can be useful for both the analysis of results of photoionization experiments and the determination of the size dependences of the vacancy concentration including the vicinity of the melting point.",
+		"ru": "Предлагается метод, в котором комбинируются самосогласованные решения для моновакансии в металле без учёта внешней поверхности и решение в модели стабильного желе для металла с однородным объёмом и плоской поверхностью, но с плотностью, пониженной вследствие наличия сверхрешётки дырок-вакансий с относительной концентрацией $c_{\\textrm{v}}$. Используя $c_{\\textrm{v}}$ в качестве малого параметра, все энергетические характеристики раскладываются в функциональный ряд. Нулевые члены разложения относятся к бездефектному металлу, а линейные по $c_{\\textrm{v}}$ поправки выражены через его характеристики. Предлагается последовательная процедура нахождения потенциала ионизации большого металлического кластера радиуса $R_{N\\textrm{,v}}$, состоящего из $N$ атомов и содержащего $N_{\\textrm{v}}$ вакансий. В приближении эффективной среды для энергии основного состояния электронов построена теория возмущения по малым параметрам $R_{\\textrm{v}}/R_{N\\textrm{,v}}$ и $L_{\\textrm{v}}/R_{\\textrm{v}}$ ($R_{\\textrm{v}}$ и $L_{\\textrm{v}}$ — среднее расстояние между вакансиями и длина рассеяния электрона на вакансии соответственно). Полученные аналитические зависимости могут быть полезными при проведении анализа результатов фотоионизационных экспериментов и для определения размерной зависимости концентрации вакансий, в том числе вблизи температуры плавления."
+	},
+	"keywords": {
+		"ua": "метал, кластер атомів, вакансія, метод функціоналу густини, модель стабільного желе, теорія збурень, робота виходу, потенціял йонізації",
+		"en": "metal, atomic cluster, vacancy, density functional theory, model of stable jelly, perturbation theory, work function, ionization potential",
+		"ru": "металл, кластер атомов, вакансия, метод функционала плотности, модель стабильного желе, теория возмущения, работа выхода, потенциал ионизации"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. В. Погосов", "en": "V. V. Pogosov", "ru": "В. В. Погосов"},
+			"OID": [220]
+		},
+		{
+			"AID": {"ua": "В. І. Рева", "en": "V. I. Reva", "ru": "В. И. Рева"},
+			"OID": [220]
+		}
+	],
+	"references": {
+		"count": 35,
+		"list":  [
+			{
+				"doi": "10.1134/1.1675906",
+				"or":  "R. S. Berry and B. M. Smirnov, ЖЭТФ, 125, № 2: 414 (2004).",
+				"tr":  "R. S. Berry and B. M. Smirnov, J. Exp. Theor. Phys., 98, Iss. 2: 366 (2004)."
+			},
+			{
+				"doi": "10.1016/j.physrep.2013.01.007",
+				"or":  "R. S. Berry and B. M. Smirnov, Phys. Rep., 527, No. 4: 205 (2013).",
+				"tr":  "R. S. Berry and B. M. Smirnov, Phys. Rep., 527, No. 4: 205 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Бабич, В. В. Погосов, В. И. Рева, ФТТ, 57, № 11: 2081 (2015).",
+				"tr":  "A. V. Babich, V. V. Pogosov and V. I. Reva, Fiz. Tverd. Tela, 57, No. 11: 2081 (2015) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.102.043401",
+				"or":  "C. Hock, C. Bartels, S. Straßburg, M. Schmidt, H. Haberland, B. von Issendorff, and A. Aguado, Phys. Rev. Lett., 102: 043401 (2009).",
+				"tr":  "C. Hock, C. Bartels, S. Straßburg, M. Schmidt, H. Haberland, B. von Issendorff, and A. Aguado, Phys. Rev. Lett., 102: 043401 (2009)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.75.165413",
+				"or":  "C. C. Yang and S. Li, Phys. Rev. B, 75: 165413 (2007).",
+				"tr":  "C. C. Yang and S. Li, Phys. Rev. B, 75: 165413 (2007)."
+			},
+			{
+				"doi": "10.1007/s11671-010-9614-1",
+				"or":  "G. Guisbiers, Nanoscale Res. Lett., 5: 1132 (2010).",
+				"tr":  "G. Guisbiers, Nanoscale Res. Lett., 5: 1132 (2010)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.94.173401",
+				"or":  "G. A. Breaux, C. M. Neal, B. Cao, and M. F. Jarrold, Phys. Rev. Lett., 94, No. 17: 173401 (2005).",
+				"tr":  "G. A. Breaux, C. M. Neal, B. Cao, and M. F. Jarrold, Phys. Rev. Lett., 94, No. 17: 173401 (2005)."
+			},
+			{
+				"doi": "10.1063/1.3285836",
+				"or":  "A. K. Starace, B. Cao, O. H. Judd, I. Bhattacharyya, and M. F. Jarrold, J. Chem. Phys., 132: 034302 (2010).",
+				"tr":  "A. K. Starace, B. Cao, O. H. Judd, I. Bhattacharyya, and M. F. Jarrold, J. Chem. Phys., 132: 034302 (2010)."
+			},
+			{
+				"doi": "10.1063/1.456675",
+				"or":  "C. Bréchignac, Ph. Cahuzac, J. Leygnier, and J. Weiner, J. Chem. Phys., 90: 1492 (1989).",
+				"tr":  "C. Bréchignac, Ph. Cahuzac, J. Leygnier, and J. Weiner, J. Chem. Phys., 90: 1492 (1989)."
+			},
+			{
+				"doi": "10.1063/1.456961",
+				"or":  "U. Ray, M. F. Jarrold, J. E. Bower, and J. S. Kraus, J. Chem. Phys., 91, No. 5: 2912 (1989).",
+				"tr":  "U. Ray, M. F. Jarrold, J. E. Bower, and J. S. Kraus, J. Chem. Phys., 91, No. 5: 2912 (1989)."
+			},
+			{
+				"doi": "10.1063/1.468326",
+				"or":  "C. Bréchignac, H. Busch, Ph. Cahuzac, and J. Leygnier, J. Chern. Phys., 101, No. 8: 6992 (1994).",
+				"tr":  "C. Bréchignac, H. Busch, Ph. Cahuzac, and J. Leygnier, J. Chern. Phys., 101, No. 8: 6992 (1994)."
+			},
+			{
+				"doi": "10.1063/1.4934761",
+				"or":  "A. Halder and V. V. Kresin, J. Chem. Phys., 143, No. 16: 164313 (2015).",
+				"tr":  "A. Halder and V. V. Kresin., J. Chem. Phys., 143, No. 16: 164313 (2015)."
+			},
+			{
+				"doi": "10.1063/1.476173",
+				"or":  "M. Seidl, J. P. Perdew, M. Brajczewska, and C. Fiolhais, J. Chem. Phys., 108, No. 19: 8182 (1998).",
+				"tr":  "M. Seidl, J. P. Perdew, M. Brajczewska, and C. Fiolhais, J. Chem. Phys., 108, No. 19: 8182 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Погосов, Введение в физику зарядовых и размерных эффектов. Поверхность, кластеры, низкоразмерные системы (Москва: Физматлит: 2006).",
+				"tr":  "V. V. Pogosov, Vvedenie v Fiziku Zaryadovykh i Razmernykh Effektov: Poverkhnost, Klastery, Nizkorazmernye Sistemy [Introduction to Physics of Charged and Size Effects: Surface, Clusters, Low-Dimensional Systems] (Moscow: Fizmatlit: 2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Бабич, П. В. Вакула, В. В. Погосов, ФТТ, 56: № 5: 841 (2014).",
+				"tr":  "A. V. Babich, P. V. Vakula, and V. V. Pogosov, Fiz. Tverd. Tela, 56: No. 5: 841 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0378-4371(94)00243-M",
+				"or":  "I. T. Iakubov and V. V. Pogosov, Physica A, 214, No. 2: 287 (1995).",
+				"tr":  "I. T. Iakubov and V. V. Pogosov, Physica A, 214, No. 2: 287 (1995)."
+			},
+			{
+				"doi": "10.1088/0953-8984/8/23/016",
+				"or":  "A. Kiejna and V. V. Pogosov, J. Phys.: Condens. Matter, 8, No. 23: 4245 (1996).",
+				"tr":  "A. Kiejna and V. V. Pogosov, J. Phys.: Condens. Matter, 8, No. 23: 4245 (1996)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.42.11627",
+				"or":  "J. P. Perdew, H. Q. Tran, and E. D. Smith, Phys. Rev. B, 42, No. 18: 11627 (1990).",
+				"tr":  "J. P. Perdew, H. Q. Tran, and E. D. Smith, Phys. Rev. B, 42, No. 18: 11627 (1990)."
+			},
+			{
+				"doi": "10.1016/0038-1098(94)90506-1",
+				"or":  "V. V. Pogosov, Solid State Commun., 89, No. 12: 1017 (1994).",
+				"tr":  "V. V. Pogosov, Solid State Commun., 89, No. 12: 1017 (1994)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.86.253",
+				"or":  "C. Freysoldt, B. Grabowski, T. Hickel, J. Neugebauer, G. Kresse, A. Janotti, and C. G. Van de Walle, Rev. Mod. Phys., 86, No. 1: 253 (2014).",
+				"tr":  "C. Freysoldt, B. Grabowski, T. Hickel, J. Neugebauer, G. Kresse, A. Janotti, and C. G. Van de Walle, Rev. Mod. Phys., 86, No. 1: 253 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Штремель, Прочность сплавов. Дефекты решётки (Москва: Металлургия: 1982).",
+				"tr":  "M. A. Shtremel, Prochnost Splavov. Defekty Reshetki [Strength of Alloys. Lattice Defects] (Moscow: Metallurgiya: 1982) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.35.8759",
+				"or":  "E. M. Gullikson and A. P. Mills, Jr., Phys. Rev. B, 35, No. 16: 8759 (1987).",
+				"tr":  "E. M. Gullikson and A. P. Mills, Jr., Phys. Rev. B, 35, No. 16: 8759 (1987)."
+			},
+			{
+				"doi": "10.1134/1.559179",
+				"or":  "V. V. Pogosov, W. V. Pogosov, and D. P. Kotlyarov, ЖЭТФ, 117, № 5: 1043 (2000).",
+				"tr":  "V. V. Pogosov, W. V. Pogosov, and D. P. Kotlyarov, J. Exp. Theor. Phys., 90, Iss. 5: 908 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Погосов, ФТТ, 35, № 4: 1010 (1993).",
+				"tr":  "V. V. Pogosov, Fiz. Tverd. Tela, 35, No. 4: 1010 (1993) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRev.159.183",
+				"or":  "B. E. Springett, M. H. Cohen, and J. Jortner, Phys. Rev., 159, No. 1: 183 (1967).",
+				"tr":  "B. E. Springett, M. H. Cohen, and J. Jortner, Phys. Rev., 159, No. 1: 183 (1967)."
+			},
+			{
+				"doi": "10.1063/1.473160",
+				"or":  "I. T. Iakubov and V. V. Pogosov, J. Chem. Phys., 106, No. 6: 2306 (1997).",
+				"tr":  "I. T. Iakubov and V. V. Pogosov, J. Chem. Phys., 106, No. 6: 2306 (1997)."
+			},
+			{
+				"doi": "10.1063/1.1750270",
+				"or":  "J. Bardeen, J. Chem. Phys., 6, No. 7: 367 (1938).",
+				"tr":  "J. Bardeen, J. Chem. Phys., 6, No. 7: 367 (1938)."
+			},
+			{
+				"doi": "10.1016/0022-3697(60)90147-5",
+				"or":  "M. H. Cohen and F. S. Ham, J. Phys. Chem. Sol., 16, Nos. 3–4: 177 (1960).",
+				"tr":  "M. H. Cohen and F. S. Ham, J. Phys. Chem. Sol., 16, Nos. 3–4: 177 (1960)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.11.1",
+				"or":  "M. J. Stott and P. Kubica, Phys. Rev. B, 11, No. 1: 1 (1975).",
+				"tr":  "M. J. Stott and P. Kubica, Phys. Rev. B, 11, No. 1: 1 (1975)."
+			},
+			{
+				"doi": "10.1016/0370-1573(95)00083-6",
+				"or":  "T. P. Martin, Phys. Rep., 273, No. 4: 199 (1996).",
+				"tr":  "T. P. Martin, Phys. Rep., 273, No. 4: 199 (1996)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.65.611",
+				"or":  "W. A. de Heer, Rev. Mod. Phys., 65, No. 3: 611 (1993).",
+				"tr":  "W. A. de Heer, Rev. Mod. Phys., 65, No. 3: 611 (1993)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.65.677",
+				"or":  "M. Brack, Rev. Mod. Phys., 65, No. 3: 677 (1993).",
+				"tr":  "M. Brack, Rev. Mod. Phys., 65, No. 3: 677 (1993)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.66.041404",
+				"or":  "M. A. Hoffmann, G. Wrigge, and B. von Issendorff, Phys. Rev. B, 66, No. 4: 041404 (2002).",
+				"tr":  "M. A. Hoffmann, G. Wrigge, and B. von Issendorff, Phys. Rev. B, 66, No. 4: 041404 (2002)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.49.7916",
+				"or":  "P. Ziesche, J. P. Perdew, and C. Fiolhais, Phys. Rev. B, 49, No. 12: 7916 (1994).",
+				"tr":  "P. Ziesche, J. P. Perdew, and C. Fiolhais, Phys. Rev. B, 49, No. 12: 7916 (1994)."
+			},
+			{
+				"doi": "10.1016/0039-6028(85)90790-3",
+				"or":  "J. A. Alonso and N. H. March, Surf. Sci., 160, No. 2: 509 (1985).",
+				"tr":  "J. A. Alonso and N. H. March, Surf. Sci., 160, No. 2: 509 (1985)."
+			}
+		]
+	}
+}

@@ -1,0 +1,93 @@
+{
+	"_id":    "MFiNT.39.07.0929",
+	"year":   2017,
+	"volume": 39,
+	"issue":  7,
+	"pages":  [929,947],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["10.03.2017"],
+	"PACS":   "06.20.fb, 44.90.+c, 61.66.Dk, 61.72.Ff, 61.72.Lk, 61.72.Mm, 81.40.Vw",
+	"title":   {
+		"ua": "Підвищення експлуатаційної надійности поверхонь нагріву блоків надкритичного тиску за рахунок застосування субструктурно зміцнених труб",
+		"en": "Increase of Operational Reliability of Heating Surfaces of Blocks of the Supercritical Pressure Due to Application of the Substructurally Hardened Pipes",
+		"ru": "Повышение эксплуатационной надёжности поверхностей нагрева блоков сверхкритического давления за счёт применения субструктурно упрочнённых труб"
+	},
+	"abstract": {
+		"ua": "Представлено результати досліджень механіко-термічного оброблення труб як ефективної методи підвищення довговічности та надійности роботи енергетичного обладнання. Узагальнено досвід промислової експлуатації труб з механіко-термічно зміцненої сталі 12Х1МФ на поверхнях нагріву котлів надкритичного тиску. Показано можливість і ефективність застосування даної методи на прикладі потужностей Трипільської ТЕС.",
+		"en": "The results of investigation of mechanical-thermal treatment of pipes as an effective method for the increase of durability and reliability of power equipment are presented. The experience of commercial operation of pipes manufactured from the mechanically and heat-hardened steel 12Kh1MF (DIN: 1.7715; WNr: 14 MoV6-3; BS: 1503-660-440) on the heating surfaces of the supercritical pressure boilers is generalized. Possibility and effectiveness of this method are shown on the example of capacities of Trypillia TPS.",
+		"ru": "Представлены результаты исследований механико-термической обработки труб как эффективного метода повышения долговечности и надёжности работы энергетического оборудования. Обобщён опыт промышленной эксплуатации труб из механико-термически упрочнённой стали 12Х1МФ на поверхностях нагрева котлов сверхкритического давления. Показана возможность и эффективность применения данного метода на примере мощностей Трипольской ТЭС."
+	},
+	"keywords": {
+		"ua": "механіко-термічне оброблення, зміцнення сталі, ресурс обладнання, субструктура, жароміцність, жаротривкість",
+		"en": "mechanical-thermal treatment, steel hardening, durability, substructure, heat resistance",
+		"ru": "механико-термическая обработка, упрочнение стали, ресурс оборудования, субструктура, жаропрочность, жаростойкость"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. В. Грузевич", "en": "A. V. Gruzevych", "ru": "А. В. Грузевич"},
+			"OID": [193]
+		}
+	],
+	"references": {
+		"count": 11,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Технические условия ТУ 14-3-460: 2009/ТУ У 27.2-05757883-207:2009. Трубы стальные бесшовные для паровых котлов и трубопроводов.",
+				"tr":  "Tekhnicheskie Usloviya TU 14-3-460: 2009/TU U 27.2-05757883-207:2009. Truby Stal'nye Besshovnye dlya Parovykh Kotlov i Truboprovodov [Technical Specifications TU 14-3-460: 2009/TU U 27.2-05757883-207:2009. Seamless Steel Pipes for Steam Boilers and Pipelines] (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Технические условия ТУ 14-3-1072 -82. Трубы стальные бесшовные холоднодеформированные механико-термически обработанные из стали 12Х1МФ для паровых котлов и трубопроводов.",
+				"tr":  "Tekhnicheskie Usloviya TU 14-3-1072 -82. Truby Stal'nye Besshovnye Kholodnodeformirovannye Mekhaniko-Termicheski Obrabotannye iz Stali 12Kh1MF dlya Parovykh Kotlov i Truboprovodov [Technical Specifications TU 14-3-1072 -82. Seamless Steel Pipes from Cold-Deformed Mechanically-Thermally Treated 12Kh1MF Steel for Steam Boilers and Pipelines] (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. К. Гордиенко, Е. Я. Векслер, В. М. Чайковский, И. П. Можаренко, А. Л. Горбачев, В. С. Дворниченко, Энергетика и электрификация, № 3: 21 (1981).",
+				"tr":  "L. K. Gordienko, E. Ya. Veksler, V. M. Chaykovskiy, I. P. Mozharenko, A. L. Gorbachev, and V. S. Dvornichenko, Energetika i Elektrifikatsiya, No. 3: 21 (1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Я. Векслер, И. П. Можаренко, З. Г. Фридман, В. А. Кочеткова, В. М. Чайковский, Г. Г. Пронина, Энергетика и электрификация, № 2: 9 (1986).",
+				"tr":  "E. Ya. Veksler, I. P. Mozharenko, Z. G. Fridman, V. A. Kochetkova, V. M. Chaykovskiy, and G. G. Pronina, Energetika i Elektrifikatsiya, No. 2: 9 (1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. П. Можаренко, Л. А. Долинская, Е. Я. Векслер, Г. А. Легавец, Л. К. Гордиенко, З. Г. Фридман, Металловедение и термическая обработка металлов, № 1: 2 (1976).",
+				"tr":  "I. P. Mozharenko, L. A. Dolinskaya, E. Ya. Veksler, G. A. Legavets, L. K. Gordienko, and Z. G. Fridman, Metallovedenie i Termicheskaya Obrabotka Metallov, No. 1: 2 (1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Я. Векслер, И. П. Можаренко, В. М. Чайковский, А. Л. Горбачев, Л. Л. Гриценко, Энергетик, № 5: 22 (1980).",
+				"tr":  "E. Ya. Veksler, I. P. Mozharenko, V. M. Chaykovskiy, A. L. Gorbachev, and L. L. Gritsenko, Energetik, No. 5: 22 (1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Я. Векслер, Теплоэнергетика, № 10: 61 (1972).",
+				"tr":  "E. Ya. Veksler, Teploenergetika, No. 10: 61 (1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Руководящий технический материал РТМ 108.030.122-77. Котлы паровые стационарные сверхкритического давления. Методика расчёта коррозионных потерь и температурного режима экранных труб (Минэнергомаш: 1977).",
+				"tr":  "Rukovodyashchiy Tekhnicheskiy Material RTM 108.030.122-77. Kotly Parovye Statsionarnye Sverkhkriticheskogo Davleniya. Metodika Rascheta Korrozionnykh Poter' i Temperaturnogo Rezhima Ekrannykh Trub [Guidance Material RTM 108.030.122-77. Steam Stationary Supercritical Pressure Boilers. Method for Calculation of Corrosion Losses and Temperature Conditions of Screen Tubes] (Minenergomash: 1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Я. Векслер, И. В. Замекула, В. Ю. Толстов, Е. В. Семешко, Енергетика та електрифікація, № 5: 31 (2009).",
+				"tr":  "E. Ya. Veksler, I. V. Zamekula, V. Yu. Tolstov, and E. V. Semeshko, Energetyka ta Elektryfikatsiya, No. 5: 31 (2009) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Я. Векслер, И. В. Замекула, В. Ю. Толстов, Е. В. Семешко, Техническая диагностика и неразрушающий контроль, № 1: 23 (2010).",
+				"tr":  "E. Ya. Veksler, I. V. Zamekula, V. Yu. Tolstov, and E. V. Semeshko, Tekhnicheskaya Diagnostika i Nerazrushayushchiy Kontrol', No. 1: 23 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Желдубовский, А. Т. Сердитов, Ю. В. Ключников, П. В. Кондрашев, Д. А. Дурницкий, Восточно-Европейский журнал передовых технологий, 63, № 3/7: 24 (2013).",
+				"tr":  "A. V. Zheldubovskiy, A. T. Serditov, Yu. V. Klyuchnikov, P. V. Kondrashev, and D. A. Durnitskiy, Vostochno-Evropeyskiy Zhurnal Peredovykh Tekhnologiy, 63, Nos. 3/7: 24 (2013) (in Russian)."
+			}
+		]
+	}
+}

@@ -1,0 +1,125 @@
+{
+	"_id":    "MFiNT.37.06.0751",
+	"year":   2015,
+	"volume": 37,
+	"issue":  6,
+	"pages":  [751,761],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["04.12.2014","17.04.2015"],
+	"PACS":   "06.60.Vz, 62.20.Qp, 81.05.Je, 81.15.-z, 81.40.Pq, 81.65.Lp, 81.70.Jb",
+	"title":  {
+		"ua": "Структура та властивості комплексних боридних покриттів на вуглецевих сталях",
+		"en": "Structure and Properties of Complex Boron Coatings on Carbon Steel",
+		"ru": "Структура и свойства комплексных боридных покрытий на углеродных сталях"
+	},
+	"abstract": {
+		"ua": "Подано результати дослідження з нанесення боросиліцидних покриттів порошковою методою на вуглецеві сталі. Визначено фазовий і хімічний склади, товщину та мікротвердість одержаних на сталях покриттів. Виконано розрахунки термодинамічної можливости перебігу хімічних реакцій і зміни термодинамічного потенціалу в насичувальному середовищі. Встановлено, що боридні покриття, одержані в борувальному середовищі з додаванням кремнію чи ферокремнію, складаються з боридних фаз FeB, Fe$_{2}$B та додаткової фази графіту. Рентґеноспектральним аналізом виявлено розподіл кремнію за товщиною боридних фаз зі зміною розчинности від 0,01 до 0,5% мас. при максимальному зосередженні кремнію в фазі Fe$_{2}$B у центральній зоні покриття. Боросиліцидні покриття мають у 1,5 рази вищу зносостійкість порівняно з боридними покриттями.",
+		"en": "The results of study of deposition of boron-silicide coatings obtained by powder method on carbon steel are presented. The phase and chemical compositions, thickness and microhardness of the coating on the steel are determined. The calculations of the thermodynamic possibility of chemical reactions and change in the thermodynamic potential of saturating environment are performed. As established, the boron coatings obtained after boriding with the addition of Si or Fe—Si consist of phases FeB, Fe$_{2}$B and additional phase of graphite. X-ray analysis reveals the silicon distribution by depth of boron phases with the change of solubility from 0.01 to 0.5 wt.% with a maximum concentration of silicon in Fe$_{2}$B phase of central zone of boron coating. The boron-silicide coatings possess 1.5 times higher wear resistance compared with the original boron coatings.",
+		"ru": "Представлены результаты исследования по нанесению боросилицидных покрытий порошковым методом на углеродистые стали. Определены фазовый и химический составы, толщина и микротвёрдость полученных покрытий на сталях. Выполнены расчёты термодинамической возможности протекания химических реакций и изменения термодинамического потенциала насыщающей среды. Установлено, что боридные покрытия, полученные в борирующей среде с добавлением кремния или феррокремния, состоят из боридных фаз FeB, Fe$_{2}$B и дополнительной фазы графита. Рентгеноспектральным анализом обнаружено распределение кремния по толщине боридных фаз с изменением растворимости от 0,01 до 0,5% масс. при максимальной концентрации кремния в фазе Fe$_{2}$B центральной зоны покрытия. Боросилицидные покрытия имеют в 1,5 раза большую износостойкость по сравнению с боридными покрытиями."
+	},
+	"keywords": {
+		"ua": "мікротвердість, зносостійкість, тріщиностійкість, дифузія, борування, боросиліціювання",
+		"en": "microhardness, wear resistance, crack resistance, diffusion, boriding, boron-siliciding",
+		"ru": "микротвёрдость, износостойкость, трещиностойкость, диффузия, борирование, боросилицирование"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. М. Чернега", "en": "S. M. Chernega", "ru": "С. М. Чернега"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "І. А. Поляков", "en": "I. A. Polyakov", "ru": "И. А. Поляков"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "І. Ю. Медова", "en": "I. Yu. Medova", "ru": "И. Ю. Медова"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "М. О. Красовський", "en": "M. O. Krasovskyi", "ru": "М. А. Красовский"},
+			"OID": [2]
+		}
+	],
+	"references": {
+		"count": 15,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Ю. А. Баландин, Защита металлов, 42, № 2: 150 (2006).",
+				"tr":  "Yu. A. Balandin, Zashchita Metallov, 42, No. 2: 150 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Корнопольцев, В. И. Мосоров, Материалы Первой международной научно-практической конференции «Актуальные проблемы в машиностроении» (26—27 марта 2014, Новосибирск), c. 403.",
+				"tr":  "V. N. Kornopol'tsev and V. I. Mosorov, Proc. of the First International Scientific and Practical Conference 'Aktual'nye Problemy v Mashinostroenii' (March 26—27, 2014, Novosibirsk), p. 403 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Алиев, В. П. Булгаков, Б. С. Приходько, Вестник Астраханского государственного технического университета, № 2: 91 (2005).",
+				"tr":  "A. A. Aliev, V. P. Bulgakov, and B. S. Prihod'ko, Vestnik Astrakhanskogo Gosudarstvennogo Tekhnicheskogo Universiteta, No. 2: 91 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Г. Кухарева, С. Н. Петрович, Н. А. Галынская, В. Ф. Протасевич, Т. Н. Смирнова, Наука и техника, № 5: 11 (2012).",
+				"tr":  "N. G. Kukhareva, S. N. Petrovich, N. A. Galynskaya, V. F. Protasevich, and T. N. Smirnova, Nauka i Tekhnika, No. 5: 11 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. М. Чернега, І. А. Поляков, Вісник Національного технічного університету України «Київський політехнічний інститут», 2, № 61: 104 (2011).",
+				"tr":  "S. M. Chernega and I. A. Polyakov, Visnyk Natsional'nogo Tekhnichnogo Universytetu Ukrayiny 'Kyivskyy Politekhnichnyy Instytut', 2, No. 61: 104 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. О. Костик, О. В. Сапуцкая, Е. А. Костик, Восточно-Европейский журнал передовых технологий, 17, № 5/1: 63 (2005).",
+				"tr":  "V. O. Kostik, O. V. Saputskaya, and E. A. Kostik, Vostochno-Evropeyskiy Zhurnal Peredovykh Tekhnologiy, 17, No. 5/1: 63 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. М. Чернега, М. О. Красовський, М. В. Оленіч, Праці міжнародної науково-технічної конференції «Матеріали для роботи в екстремальних умовах» (29—30 жовтня 2009, Київ), с. 116.",
+				"tr":  "S. M. Chernega, M. O. Krasovs'kyy, and M. V. Olenich, Proc. of International Scientific and Technical Conference 'Materialy dlya Roboty v Ekstremal'nykh Umovakh (Oct. 29—30, 2009, Kyiv), p. 116 (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. А. Баландин, МиТОМ, № 3: 31 (2006).",
+				"tr":  "Yu. A. Balandin, MiTOM, No. 3: 31 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. М. Чернега, Изв. вузов. Черная металлургия, № 1: 58 (1999).",
+				"tr":  "S. M. Chernega, Izv. Vuzov. Chernaya Metallurgiya, No. 1: 58 (1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. К. Нарва, А. В. Полеченко, Изв. вузов. Черная металлургия, № 1: 47 (1995).",
+				"tr":  "V. K. Narva and A. V. Polechenko, Izv. Vuzov. Chernaya Metallurgiya, No. 1:47 (1995) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "І. М. Спиридонова, О. В. Сухова, О. Г. Безрукава, Доповіді НАН України, № 10: 93 (2002).",
+				"tr":  "I. M. Spyrydonova, O. V. Sukhova, and O. H. Bezrukava, Dopovidi NAN Ukrayiny, No. 10: 93 (2002) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. М. Чернега, І. Ю. Медова, І. А. Поляков, Вісник СевНТУ. Серія: Механіка, енергетика, екологія, вип. 137: 265 (2013).",
+				"tr":  "S. M. Chernega, I. Yu. Medova, and I. A. Polyakov, Visnyk SevNTU: Seriya: Mekhanika, Energetyka, Ekologiya, Iss. 137: 265 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. М. Чернега, Я. В. Зауличный, М. В. Карпець, М. В. Белоус, Порошковая металлургия, № 11/12: 88 (2000).",
+				"tr":  "S. M. Chernega, Ya. V. Zaulichnyy, M. V. Karpets, and M. V. Belous, Poroshkovaya Metallurgiya, Nos. 11/12: 88 (2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. М. Чернега, Изв. вузов. Черная металлургия, № 11: 58 (1999).",
+				"tr":  "S. M. Chernega, Izv. Vuzov. Chernaya Metallurgiya, No. 11: 58 (1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. І. Карнаухов, В. А. Копілевич, Д. О. Мельничук, М. С. Слободяник, С. І. Скляр, В. Є. Косматий, К. О. Чеботько, Загальна хімія: Підручник для студентів вищих навчальних закладів (Київ: Фенікс: 2005).",
+				"tr":  "O. I. Karnaukhov, V. A. Kopilevych, D. O. Melnychuk, M. S. Slobodianyk, S. I. Sklyar, V. Ye. Kosmatyy, and K. O. Chebot'ko, Zagal'na Khimiya [General Chemistry]: Textbook (Kyiv: Feniks: 2005) (in Ukrainian)."
+			}
+		]
+	}
+}

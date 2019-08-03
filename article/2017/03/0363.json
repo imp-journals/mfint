@@ -1,0 +1,95 @@
+{
+	"_id":    "MFiNT.39.03.0363",
+	"year":   2017,
+	"volume": 39,
+	"issue":  3,
+	"pages":  [363,385],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["24.10.2016","11.01.2017"],
+	"PACS":   "62.20.Qp, 68.35.Ct, 68.55.J-, 68.55.Ln, 81.15.Rs, 81.40.Pq, 81.65.Lp",
+	"title":   {
+		"ua": "Дослідження закономірностей процесів формування поверхневих шарів при електроерозійному леґуванні. Частина Ⅱ",
+		"en": "Investigation of Regularities of the Processes of Formation of Surface Layers with Electroerosive Alloying. Part Ⅱ",
+		"ru": "Исследование закономерностей процессов формирования поверхностных слоёв при электроэрозионном легировании. Часть Ⅱ"
+	},
+	"abstract": {
+		"ua": "Встановлено кореляційні залежності масоперенесення твердих зносостійких і м’яких антифрикційних металів електрод при електроерозійному леґуванні (ЕЕЛ) поверхонь зі сталі 45 від тривалости оброблення. На підставі експериментальних досліджень запропоновано рівняння масоперенесення та прогнозування шерсткости поверхневого шару, а також визначено їхні сталі.",
+		"en": "Correlation dependences of mass transfer for the hard wear-resistant and soft anti-friction metal electrodes at electrospark alloying (EEA) of steel 45 surfaces on the treatment duration are obtained. Based on experimental studies, the equations of mass transfer and the prediction of surface-layer roughness are proposed, and their constants are determined.",
+		"ru": "Установлены корреляционные зависимости массопереноса твёрдых износостойких и мягких антифрикционных металлов электродов при электроэрозионном легировании (ЭЭЛ) поверхностей из стали 45 от длительности обработки. На основании экспериментальных исследований предложены уравнения массопереноса и прогнозирования шероховатости поверхностного слоя, а также определены их константы."
+	},
+	"keywords": {
+		"ua": "електроерозійне леґування, анода, катода, покриття, поверхня, рентґеноструктурна аналіза, масоперенесення, шерсткість",
+		"en": "electrospark alloying, anode, cathode, coating, surface, X-ray diffraction analysis, mass transfer, surface roughness",
+		"ru": "электроэрозионное легирование, анод, катод, покрытие, поверхность, рентгеноструктурный анализ, массоперенос, шероховатость"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Б. Тарельник", "en": "V. B. Tarelnyk", "ru": "В. Б. Тарельник"},
+			"OID": [247]
+		},
+		{
+			"AID": {"ua": "О. П. Гапонова", "en": "O. P. Gaponova", "ru": "О. П. Гапонова"},
+			"OID": [208]
+		},
+		{
+			"AID": {"ua": "Е. В. Коноплянченко", "en": "I. V. Konoplianchenko", "ru": "Е. В. Коноплянченко"},
+			"OID": [247]
+		},
+		{
+			"AID": {"ua": "М. Я. Довжик", "en": "M. Ya. Dovzhyk", "ru": "М. Я. Довжик"},
+			"OID": [247]
+		}
+	],
+	"references": {
+		"count": 9,
+		"list":  [
+			{
+				"doi": "10.15407/mfint.38.12.1611",
+				"or":  "﻿1. V. B. Tarel’nyk, O. P. Gaponova, Ye. V. Konoplyanchenko, and M. Ya. Dovzhyk, Metallofiz. Noveishie Tekhnol., 38, No. 12: 1611 (2016).",
+				"tr":  "V. B. Tarel'nyk, O. P. Gaponova, Ye. V. Konoplyanchenko, and M. Ya. Dovzhyk, Metallofiz. Noveishie Tekhnol., 38, No. 12: 1611 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Д. Верхотуров, Формирование поверхностного слоя металлов при электроискровом легировании (Владивосток: Дальнаука: 1995).",
+				"tr":  "A. D. Verkhoturov, Formirovanie Poverkhnostnogo Sloya Metallov pri Elektroiskrovom Legirovanii [Formation of Surface Layer of Metals at Electrospark Alloying] (Vladivostok: Dalnauka: 1995) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Смагин, В. Д. Власенко, Ю. И. Мулин, Вычислительные технологии, 14, № 3: 79 (2009).",
+				"tr":  "S. I. Smagin and V. D. Vlasenko, Vychislitelnye Tekhnologii, 14, No. 3: 79 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Е. Гитлевич, А. И. Михайлюк, В. В. Михайлов, Электронная обработка материалов, № 3: 12 (1995).",
+				"tr":  "A. E. Gitlevich, A. I. Mikhailyuk, and V. V. Mikhailov, Elektronnaya Obrabotka Materialov, No. 3: 12 (1995) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Лариков, В. М. Фальченко, Д. С. Герцрикен, ДАН СССР, 239, № 2: 312 (1978).",
+				"tr":  "L. N. Larikov, V. M. Falchenko, and D. S. Gertsriken, DAN SSSR, 239, No. 2: 312 (1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. И. Бабей, М. Е. Гуревич, Е. Л. Докторович, Физико-химическая механика материалов, № 2: 76 (1979).",
+				"tr":  "Yu. I. Babey, M. E. Gurevich, and E. L. Doktorovich, Fiziko-Khimicheskaya Mekhanika Materialov, No. 2: 76 (1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. С. Герцрикен, В. П. Кривко, Л. Н. Лариков, Физика и химия обработки материалов, № 4: 154 (1979).",
+				"tr":  "D. S. Gertsriken, V. P. Krivko, and L. N. Larikov, Fizika i Khimiya Obrabotki Materialov, No. 4: 154 (1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Н. Бекренев, А. В. Камашев, В. А. Путилин, Письма в ЖТФ, 19, №13: 14 (1992).",
+				"tr":  "A. N. Bekrenev, A. V. Kamashev, and V. A. Putilin, Pisma v ZhTF, 19, No. 13: 14 (1992) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Тарельник, Управление качеством поверхностных слоёв деталей комбинированным электроэрозионным легированием (Сумы : МакДен: 2002).",
+				"tr":  "V. B. Tarelnyk, Upravlenie Kachestvom Poverkhnostnykh Sloev Detaley Kombinirovannym Elektroerozionnym Legirovaniem [Quality Control of Surface Layers of Parts by Combined Electrospark Alloying Method] (Sumy: MakDen: 2002) (in Russian)."
+			}
+		]
+	}
+}

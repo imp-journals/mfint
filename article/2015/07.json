@@ -1,0 +1,157 @@
+{
+	"year":   2015,
+	"volume": 37,
+	"issue":  7,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [861,870],
+			"title": {
+				"ua": "Вплив імпульсного лазерного випромінювання на склад поверхневих шарів титанового стопу ВТ6",
+				"en": "Influence of Pulse Laser Radiation on a Composition of the Surface Layers of Titanium Ti—6Al—4V Alloy",
+				"ru": "Влияние импульсного лазерного излучения на состав поверхностных слоёв титанового сплава ВТ6"
+			},
+			"autors": {
+				"ua": "М. О. Васильєв, С. П. Ченакін, М. М. Ніщенко, Л. Ф. Яценко",
+				"en": "M. O. Vasylyev, S. P. Chenakin, M. M. Nyshchenko, and L. F. Yatsenko",
+				"ru": "М. А. Васильев, С. П. Ченакин, М. М. Нищенко, Л. Ф. Яценко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [871,885],
+			"title": {
+				"ua": "Кінематика твердої частинки, що розганяється потоком газу в надзвуковому соплі, та деформаційне зміцнення обробленої поверхні",
+				"en": "Kinematics of the Solid Particle Accelerated by a Flow of Gas in a Supersonic Nozzle and Work Hardening of the Processed Surface",
+				"ru": "Кинематика твёрдой частицы, разгоняемой потоком газа в сверхзвуковом сопле, и деформационное упрочнение обработанной поверхности"
+			},
+			"autors": {
+				"ua": "А. І. Долматов, С. В. Сєргєєв, М. О. Курін, В. В. Воронько, Т. В. Лоза",
+				"en": "A. I. Dolmatov, S. V. Sergeev, M. O. Kurin, V. V. Voronko, and T. V. Loza",
+				"ru": "А. И. Долматов, С. В. Сергеев, М. А. Курин, В. В. Воронько, Т. В. Лоза"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [887,897],
+			"title": {
+				"ua": "Наноструктурування поверхні гетероепітаксіальної плівки CdHgTe методом йонної імплантації Ag$^{+}$",
+				"en": "Nanostructurization of a Surface of a Heteroepitaxial CdHgTe Film by a Method of the Ion Implantation of Ag$^{+}$",
+				"ru": "Наноструктурирование поверхности гетероэпитаксиальной плёнки CdHgTe методом ионной имплантации Ag$^{+}$"
+			},
+			"autors": {
+				"ua": "Р. С. Удовицька",
+				"en": "R. S. Udovytska",
+				"ru": "Р. С. Удовицкая"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [899,919],
+			"title": {
+				"ua": "Особливості термодинамічних процесів на контактних поверхнях багатокомпонентних нанокомпозитних покриттів з ієрархічною і адаптивною поведінкою",
+				"en": "Features of Thermodynamic Processes on Contact Surfaces of Multicomponent Nanocomposite Coatings with Hierarchical and Adaptive Behaviour",
+				"ru": "Особенности термодинамических процессов на контактных поверхностях многокомпонентных нанокомпозитных покрытий с иерархическим и адаптивным поведением"
+			},
+			"autors": {
+				"ua": "О. Д. Погребняк, К. О. Дядюра, О. П. Гапонова",
+				"en": "O. D. Pogrebnjak, K. O. Dyadyura, and O. P. Gaponova",
+				"ru": "А. Д. Погребняк, К. А. Дядюра, О. П. Гапонова"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [921,931],
+			"title": {
+				"ua": "Нанокомпозити мідь—титан—багатостінні вуглецеві нанотрубки",
+				"en": "Nanocomposites of Copper—Titanium—Multiwall Carbon Nanotubes",
+				"ru": "Нанокомпозиты медь—титан—многостенные углеродные нанотрубки"
+			},
+			"autors": {
+				"ua": "О. І. Бошко, М. М. Дашевський, К. О. Іваненко, С. Л. Рево",
+				"en": "O. I. Boshko, M. M. Dashevskyi, K. O. Ivanenko, and S. L. Revo",
+				"ru": "О. И. Бошко, Н. Н. Дашевский, Е. А. Иваненко, С. Л. Рево"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [933,950],
+			"title": {
+				"ua": "Термостабільність структури та механічних властивостей наноквазікристалічного Al$_{94}$Fe$_{3}$Cr$_{3}$-стопу, консолідованого екструзією",
+				"en": "Thermal Stability of Structure and Mechanical Properties of the Nanoquasi-Crystalline Al$_{94}$Fe$_{3}$Cr$_{3}$ Alloy Consolidated by Extrusion",
+				"ru": "Термостабильность структуры и механических свойств наноквазикристаллического Al$_{94}$Fe$_{3}$Cr$_{3}$-сплава, консолидированного экструзией"
+			},
+			"autors": {
+				"ua": "О. В. Бякова, О. І. Юркова, А. О. Власов",
+				"en": "O. V. Byakova, O. I. Yurkova, and A. O. Vlasov",
+				"ru": "А. В. Бякова, А. И. Юркова, А. А. Власов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [951,960],
+			"title": {
+				"ua": "Пластичні ротації в полікристалічних фольгах алюминію",
+				"en": "Plastic Rotations in Polycrystalline Aluminium Foils",
+				"ru": "Пластические ротации в поликристаллических фольгах алюминия"
+			},
+			"autors": {
+				"ua": "Є. Ю. Бадіян, А. Г. Тонкопряд, О. В. Шеховцов, Р. В. Шурінов",
+				"en": "E. Yu. Badiyan, A. G. Tonkopryad, O. V. Shekhovtsov, and R. V. Shurinov",
+				"ru": "Е. Е. Бадиян, А. Г. Тонкопряд, О. В. Шеховцов, Р. В. Шуринов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [961,971],
+			"title": {
+				"ua": "Вплив міцності на окрихчуваність сталей під дією концентраторів напруг",
+				"en": "Influence of Strength on Susceptibility to Embrittlement of Steels under Action of Stress Raisers",
+				"ru": "Влияние прочности на охрупчиваемость сталей под действием концентраторов напряжений"
+			},
+			"autors": {
+				"ua": "В. М. Грищенко, Ю. Я. Мешков, Ю. О. Полушкін, А. В. Шиян",
+				"en": "V. M. Gryshchenko, Yu. Ya. Meshkov, Yu. O. Polushkin, and A. V. Shiyan",
+				"ru": "В. Н. Грищенко, Ю. Я. Мешков, Ю. А. Полушкин, А. В. Шиян"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [973,986],
+			"title": {
+				"ua": "Структура та властивості зносостійкого стопу на основі кобальту з карбідом ніобія",
+				"en": "Structure and Properties of a Wear-Resistant Alloy Based on a Cobalt with Niobium Carbide",
+				"ru": "Структура и свойства износостойкого сплава на основе кобальта с карбидом ниобия"
+			},
+			"autors": {
+				"ua": "Г. П. Дмітрієва, Т. С. Черепова, Т. О. Косорукова, В. І. Ничипоренко",
+				"en": "G. P. Dmitrieva, T. S. Cherepova, Т. O. Kosorukova, and V. I. Nichiporenko",
+				"ru": "Г. П. Дмитриева, Т. С. Черепова, Т. А. Косорукова, В. И. Ничипоренко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [987,1000],
+			"title": {
+				"ua": "Вплив вмісту Al на магнітні властивості та теплове розширення литих високоентропійних стопів Al$_{x}$FeCoNiCuCr",
+				"en": "Effect of Al Content on Magnetic Properties and Thermal Expansion of As-Cast High-Entropy Alloys Al$_{x}$FeCoNiCuCr",
+				"ru": "Влияние содержания Al на магнитные свойства и тепловое расширение литых высокоэнтропийных сплавов Al$_{x}$FeCoNiCuCr"
+			},
+			"autors": {
+				"ua": "В. М. Надутов, С. Ю. Макаренко, Є. О. Свістунов",
+				"en": "V. M. Nadutov, S. Yu. Makarenko, and Ye. O. Svystunov",
+				"ru": "В. М. Надутов, С. Ю. Макаренко, Е. А. Свистунов"
+			}
+		}
+	]
+}

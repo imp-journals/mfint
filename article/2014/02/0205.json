@@ -1,0 +1,80 @@
+{
+	"_id":    "MFiNT.36.02.0205",
+	"year":   2014,
+	"volume": 36,
+	"issue":  2,
+	"pages":  [205,215],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["19.09.2013", "14.01.2014"],
+	"PACS":   "07.60.Fs, 42.79.Wc, 67.80.dm, 73.20.Mf",
+	"title":   {
+		"ua": "Еліпсометричні властивості тонких плівок молібдену при збудженні поверхневих поляритонів",
+		"en": "Ellipsometric Properties of Thin Films of Molybdenum at the Excitation of Surface Polaritons",
+		"ru": "Эллипсометрические свойства тонких плёнок молибдена при возбуждении поверхностных поляритонов"
+	},
+	"abstract": {
+		"ua": "Експериментально поміряно за допомогою метода Бітті і теоретично обчислено згідно з тришаровою моделлю тонкої плівки залежності еліпсометричних параметрів від кута падіння світла на плівку для трьох тонких плівок молібдену при збудженні поверхневих поляритонів. Вимірюваними еліпсометричними параметрами були азимут відновленої лінійної поляризації і зсув фаз між $p$- та $s$-компонентами відбитого світла. Теоретичні розрахунки були виконані за допомогою рекурентних формул Ейрі. Проведені досліди показали, що експериментальні і теоретичні залежності еліпсометричних параметрів від кута падіння мають ідентичний хід, але між ними є кількісні розходження. Останнє пояснюється тим, що у використаній теоретичній тришаровій моделі тонкої плівки Мо межі між шарами вважалися ідеально пласкими. В той же час реальні межі поділу є шерсткими і неоднорідними. Одержані результати показали, що середній шар плівки є металічним молібденом, а верхній і нижній шари є окислами молібдену.",
+		"en": "Ellipsometric parameters as functions of the angle of incidence of light on a film for three thin films of molybdenum at the excitation of surface polaritons are experimentally measured with the use of the Beattie method and are theoretically calculated within the three-layer model of thin film. The measured ellipsometric parameters are the azimuth of a restored linear polarization and the phase shift between the $p$- and $s$-components of reflected light. Theoretical calculations are performed by the Airy recurrent formulas. The studies carried out show that the experimental and theoretical dependences of the ellipsometric parameters on the angle of incidence have the identical behaviour, but some quantitative differences are revealed. It can be explained by assumption that the interfaces between layers are ideally planar in the theoretical three-layer model of thin Mo film. At the same time, the real boundaries are rough and inhomogeneous. The results obtained demonstrate that the middle layer of film is metallic molybdenum, and the upper and lower layers are molybdenum oxides.",
+		"ru": "Экспериментально измерены с помощью метода Битти и теоретически вычислены в рамках трёхслойной модели тонкой плёнки зависимости эллипсометрических параметров от угла падения света на плёнку для трёх тонких плёнок молибдена при возбуждении поверхностных поляритонов. Измеряемыми эллипсометрическими параметрами были азимут восстановленной линейной поляризации и сдвиг фаз между $p$- и $s$-компонентами отражённого света. Теоретические расчёты были проведены по рекуррентным формулам Эйри. Проведённые исследования показали, что экспериментальные и теоретические зависимости эллипсометрических параметров от угла падения имеют идентичный ход, но между ними есть количественные расхождения. Последнее объясняется тем, что в использованной теоретической трёхслойной модели тонкой плёнки Мо границы между слоями считались идеально плоскими. В то же время реальные границы раздела – шероховатые и неоднородные. Полученные результаты показали, что средний слой плёнки является металлическим молибденом, а верхний и нижний слои являются окислами молибдена."
+	},
+	"keywords": {
+		"ua": "поверхневі поляритони, тонкі плівки, oксид, тришарова модель, еліпсометрія",
+		"en": "surface polaritons, thin films, oxide, three-layer model, ellipsometry",
+		"ru": "поверхностные поляритоны, тонкие плёнки, окисел, трехслойная модель, эллипсометрия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. В. Лендел", "en": "V. V. Lendel", "ru": "В. В. Лендел"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "O. В. Ломакіна", "en": "O. V. Lomakina", "ru": "О. В. Ломакина"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "Л. Ю. Мельниченко", "en": "L. Yu. Melnichenko", "ru": "Л. Ю. Мельниченко"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "І. А. Шайкевич", "en": "I. A. Shaykevich", "ru": "И. А. Шайкевич"},
+			"OID": [201]
+		}
+	],
+	"references": {
+		"count": 6,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "М. Борн, Э. Вольф, Основы оптики (Москва: Наука: 1970).",
+				"tr":  "M. Born and E. Wolf, Osnovy Optiki (Moscow: Nauka: 1970) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Поверхностные поляритоны (Ред. В. M. Агранович, Д. Л. Миллс) (Москва: Наука: 1985).",
+				"tr":  "Poverkhnostnye Polyaritony (Eds. V. M. Agranovich and D. L. Mills) (Moscow: Nauka: 1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Л. Дмитрук, В. Г. Литовченко, В. Л. Стрижевский, Поверхностные поляритоны в полупроводниках и диэлектриках (Киев: Наукова думка: 1989).",
+				"tr":  "N. L. Dmitruk, V. G. Litovchenko, and V. L. Strizhevskiy, Poverkhnostnye Polyaritony v Poluprovodnikakh i Dielektrikakh (Kiev: Naukova Dumka: 1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Yu. Melnichenko, Ya. A. Shybiko, and I. A. Shaykevich, Functional Mater., 13, No. 1: 161 (2006).",
+				"tr":  "L. Yu. Melnichenko, Ya. A. Shybiko, and I. A. Shaykevich, Functional Mater., 13, No. 1: 161 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Лендел, O. В. Ломакіна, Л. Ю. Мельниченко, I. A. Шайкевич, Металлофиз. новейшие технол., 32, № 8: 1013 (2010).",
+				"tr":  "V. V. Lendel, O. V. Lomakina, L. Yu. Melnichenko, and I. A. Shaykevych, Metallofiz. Noveishie Tekhnol., 32, No. 8: 1013 (2010) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Lendel, O. V. Lomakina, L. Yu. Melnichenko, and I. A. Shaykevich, Semiconductor Physics, Quantum Electronics & Optoelectronics, 13, No. 3: 231 (2010).",
+				"tr":  "V. V. Lendel, O. V. Lomakina, L. Yu. Melnichenko, and I. A. Shaykevich, Semiconductor Physics, Quantum Electronics & Optoelectronics, 13, No. 3: 231 (2010)."
+			}
+		]
+	}
+}

@@ -1,0 +1,155 @@
+{
+	"_id":    "MFiNT.40.02.0139",
+	"year":   2018,
+	"volume": 40,
+	"issue":  2,
+	"pages":  [139,146],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["10.01.2018"],
+	"PACS":   "74.20.Mn, 74.25.Jb, 74.70.Xa, 78.70.-g, 79.60.Bm, 82.80.Pv",
+	"title":   {
+		"ua": "Температурна еволюція густини носіїв заряду в центрі зони Бріллюена надпровідника Fe(Se,Te)",
+		"en": "Temperature Evolution of Charge Carrier Density in the Centre of the Brillouin Zone of Fe(Se,Te) Superconductor",
+		"ru": "Температурная эволюция плотности носителей заряда в центре зоны Бриллюэна сверхпроводника Fe(Se,Te)"
+	},
+	"abstract": {
+		"ua": "Характерною особливістю електронної структури надпровідників на основі заліза є зсув експериментально одержаних зон порівняно з результатами розрахунків. Зміни електронної структури FeSe з підвищенням температури можуть пояснити механізми таких зсувів, але результати різних досліджень дають протилежні напрямки еволюції зонної структури у центрі Бріллюенової зони. У цій статті ми повідомляємо про синхронний зсув $d_{xz}$- та $d_{yz}$-зон у точці $Z$ у температурному діяпазоні 20–160 К. Із врахуванням результатів змін зонної структури з температурою у точці $A$ такі зсуви можуть змінити паритет між електронами та дірками, що може інтерпретуватись як підвищення густини електронних носіїв з підвищенням температури.",
+		"en": "A characteristic feature of the electronic structure of iron-based superconductors is the shift of experimental electronic bands in comparison to the results of calculations. The temperature dependence of the band structure for FeSe can manifest the mechanism of such shifts, but different studies give opposite directions for these shifts in the centre of the Brillouin zone. In this paper, we report downward shift of both $d_{xz}$ and $d_{yz}$ bands in $Z$ point within the temperature range 20–160 K. Together with the results of evolution of the electronic structure in $A$ point, such shifts should lead to a break of parity between electron and hole charge carriers that can be interpreted as an increase of electron-carrier density with increasing temperature.",
+		"ru": "Характерной особенностью электронной структуры сверхпроводников на основе железа является смещение экспериментально полученных зон по сравнению с результатами расчётов. Изменения зонной структуры FeSe с повышением температуры могут объяснить механизмы таких смещений, но результаты разных исследований дают противоположные направления эволюции зонной структуры в центре зоны Бриллюэна. В этой статье мы сообщаем о синхронном смещении $d_{xz}$- и $d_{yz}$-зон при повышении температуры в точке $Z$ в температурном диапазоне 20–160 К. С учётом результатов изменений зонной структуры с повышением температуры в точке $А$ такие смещения могут изменять паритет между электронами и дырками, что можно интерпретировать как увеличение концентрации электронов с увеличением температуры."
+	},
+	"keywords": {
+		"ua": "електронна спектроскопія з кутовою роздільчою здатністю, метод кривини, електронна структура, залізні надпровідники, FeSe",
+		"en": "angle resolved photoemission spectroscopy (ARPES), curvature method, electronic structure, iron-based superconductors, FeSe",
+		"ru": "фотоэлектронная спектроскопия с угловым разрешением, метод кривизны, электронная структура, железные сверхпроводники, FeSe"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. В. Пустовіт", "en": "Yu. V. Pustovit", "ru": "Ю. В. Пустовит"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. Бруе", "en": "V. Brouet", "ru": "В. Бруе"},
+			"OID": [527]
+		},
+		{
+			"AID": {"ua": "Д. А. Чарєєв", "en": "D. A. Chareev", "ru": "Д. А. Чареев"},
+			"OID": [528, 529, 530]
+		},
+		{
+			"AID": {"ua": "О. А. Кордюк", "en": "O. A. Kordyuk", "ru": "А. А. Кордюк"},
+			"OID": [1, 40]
+		}
+	],
+	"references": {
+		"count": 21,
+		"list":  [
+			{
+				"doi": "10.15407/ufm.18.01.001",
+				"or":  "Yu. V. Pustovit and O. A. Kordyuk, Usp. Fiz. Met., 18, No. 1: 1 (2017) (in Ukrainian).",
+				"tr":  "Yu. V. Pustovit and O. A. Kordyuk, Usp. Fiz. Met., 18, No. 1: 1 (2017) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1088/0953-8984/27/18/183201",
+				"or":  "X. Liu, L. Zhao, S. He, J. He, D. Liu, D. Mou, B. Shen, Y. Hu, J. Huang, and X. J. Zhou, J. Phys. Condensed Matter, 27, No. 18: 183201 (2015).",
+				"tr":  "X. Liu, L. Zhao, S. He, J. He, D. Liu, D. Mou, B. Shen, Y. Hu, J. Huang, and X. J. Zhou, J. Phys. Condensed Matter, 27, No. 18: 183201 (2015)."
+			},
+			{
+				"doi": "10.3367/UFNe.2016.06.037825",
+				"or":  "M. V. Sadovskii, Physics-Uspekhi, 59, No. 10: 1201 (2016).",
+				"tr":  "M. V. Sadovskii, Physics-Uspekhi, 59, No. 10: 1201 (2016)."
+			},
+			{
+				"doi": "10.1063/1.4969896",
+				"or":  "Y. V. Pustovit and A. A. Kordyuk, Low Temp. Phys., 42: 995 (2016).",
+				"tr":  "Y. V. Pustovit and A. A. Kordyuk, Low Temp. Phys., 42: 995 (2016)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.78.134514",
+				"or":  "A. Subedi, L. Zhang, D. J. Singh, and M. H. Du, Phys. Rev. B, 78: 134514 (2008).",
+				"tr":  "A. Subedi, L. Zhang, D. J. Singh, and M. H. Du, Phys. Rev. B, 78: 134514 (2008)."
+			},
+			{
+				"doi": "10.3367/UFNe.2016.06.037825",
+				"or":  "M. V. Sadovskii, Physics-Uspekhi, 59, No. 10: 947 (2016).",
+				"tr":  "M. V. Sadovskii, Physics-Uspekhi, 59, No. 10: 947 (2016)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.91.199905",
+				"or":  "M. D. Watson, T. K. Kim, A. A. Haghighirad, N. R. Davies, A. McCollam, A. Narayanan, S. F. Blake, Y. L. Chen, S. Ghannadzadeh, A. J. Schofield, M. Hoesch, C. Meingast, T. Wolf, and A. I. Coldea, Phys. Rev. B, 91: 199905 (2015).",
+				"tr":  "M. D. Watson, T. K. Kim, A. A. Haghighirad, N. R. Davies, A. McCollam, A. Narayanan, S. F. Blake, Y. L. Chen, S. Ghannadzadeh, A. J. Schofield, M. Hoesch, C. Meingast, T. Wolf, and A. I. Coldea, Phys. Rev. B, 91: 199905 (2015)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.92.121108",
+				"or":  "M. Watson, T. Kim, A. A. Haghighirad, S. F. Blake, N. R. Davies, M. Hoesch, T. Wolf, and A. I. Coldea, Phys. Rev. B, 92: 121108(R) (2015).",
+				"tr":  "M. Watson, T. Kim, A. A. Haghighirad, S. F. Blake, N. R. Davies, M. Hoesch, T. Wolf, and A. I. Coldea, Phys. Rev. B, 92: 121108(R) (2015)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.89.220506",
+				"or":  "J. Maletz, V. B. Zabolotnyy, D. V. Evtushinsky, S. Thirupathaiah, A. U. B. Wolter, L. Harnagea, A. N. Yaresko, A. N. Vasiliev, D. A. Chareev, A. E. Böhmer, F. Hardy, T. Wolf, C. Meingast, E. D. L. Rienks, B. Büchner, and S. V. Borisenko, Phys. Rev. B, 89: 220506(R) (2014).",
+				"tr":  "J. Maletz, V. B. Zabolotnyy, D. V. Evtushinsky, S. Thirupathaiah, A. U. B. Wolter, L. Harnagea, A. N. Yaresko, A. N. Vasiliev, D. A. Chareev, A. E. Böhmer, F. Hardy, T. Wolf, C. Meingast, E. D. L. Rienks, B. Büchner, and S. V. Borisenko, Phys. Rev. B, 89: 220506(R) (2014)."
+			},
+			{
+				"doi": "10.1038/srep36834",
+				"or":  "A. Fedorov, A. Yaresko, T. K. Kim, Y. Kushnirenko, E. Haubold, T. Wolf, and M. Hoesch, A. Grüneis, B. Büchner, and S. V. Borisenko, Scientific Reports, 6: 36834 (2016).",
+				"tr":  "A. Fedorov, A. Yaresko, T. K. Kim, Y. Kushnirenko, E. Haubold, T. Wolf, and M. Hoesch, A. Grüneis, B. Büchner, and S. V. Borisenko, Scientific Reports, 6: 36834 (2016)."
+			},
+			{
+				"doi": "10.1007/s10948-013-2210-8",
+				"or":  "A. A. Kordyuk, V. B. Zabolotnyy, D. V. Evtushinsky, A. N. Yaresko, B. Buechner, and S. V. Borisenko, J. Supercond. Nov. Magn., 26: 2837 (2013).",
+				"tr":  "A. A. Kordyuk, V. B. Zabolotnyy, D. V. Evtushinsky, A. N. Yaresko, B. Buechner, and S. V. Borisenko, J. Supercond. Nov. Magn., 26: 2837 (2013)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.82.064504",
+				"or":  "M. Aichhorn, S. Biermann, T. Miyake, A. Georges, and M. Imada, Phys. Rev. B, 82: 064504 (2010).",
+				"tr":  "M. Aichhorn, S. Biermann, T. Miyake, A. Georges, and M. Imada, Phys. Rev. B, 82: 064504 (2010)."
+			},
+			{
+				"doi": "10.1038/nature07714",
+				"or":  "V. B. Zabolotnyy, D. S. Inosov, D. V. Evtushinsky, A. Koitzsch, A. A. Kordyuk, G. L. Sun, J. T. Park, D. Haug, V. Hinkov, A. V. Boris, C. T. Lin, M. Knupfer, A. N. Yaresko, B. Böchner, A. Varykhalov, R. Follath, and S. V. Borisenko, Nature, 457: 569 (2009).",
+				"tr":  "V. B. Zabolotnyy, D. S. Inosov, D. V. Evtushinsky, A. Koitzsch, A. A. Kordyuk, G. L. Sun, J. T. Park, D. Haug, V. Hinkov, A. V. Boris, C. T. Lin, M. Knupfer, A. N. Yaresko, B. Böchner, A. Varykhalov, R. Follath, and S. V. Borisenko, Nature, 457: 569 (2009)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.110.167002",
+				"or":  "V. Brouet, Ping-Hui Lin, Y. Texier, J. Bobroff, A. Taleb-Ibrahimi, P. Le Fèvre, F. Bertran, M. Casula, P. Werner, S. Biermann, F. Rullier-Albenque, A. Forget, and D. Colson, Phys. Rev. Lett., 110: 167002 (2013).",
+				"tr":  "V. Brouet, Ping-Hui Lin, Y. Texier, J. Bobroff, A. Taleb-Ibrahimi, P. Le Fèvre, F. Bertran, M. Casula, P. Werner, S. Biermann, F. Rullier-Albenque, A. Forget, and D. Colson, Phys. Rev. Lett., 110: 167002 (2013)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.94.155138",
+				"or":  "L. Fanfarillo, J. Mansart, P. Toulmonde, H. Cercellier, P. Le Fevre, F. Bertran, B. Valenzuela, L. Benfatto, and V. Brouet, Phys. Rev. B, 94: 155138 (2016).",
+				"tr":  "L. Fanfarillo, J. Mansart, P. Toulmonde, H. Cercellier, P. Le Fevre, F. Bertran, B. Valenzuela, L. Benfatto, and V. Brouet, Phys. Rev. B, 94: 155138 (2016)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.80.064517",
+				"or":  "H. Zhai, F. Wang, and D.-H. Lee, Phys. Rev. B, 80: 064517 (2009).",
+				"tr":  "H. Zhai, F. Wang, and D.-H. Lee, Phys. Rev. B, 80: 064517 (2009)."
+			},
+			{
+				"doi": "10.1073/pnas.1316512110",
+				"or":  "J. C. Davis and D.-H. Lee, PNAS, 110, No. 44: 17623 (2013).",
+				"tr":  "J. C. Davis and D.-H. Lee, PNAS, 110, No. 44: 17623 (2013)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.95.195111",
+				"or":  "L. C. Rhodes, M. D. Watson, A. A. Haghighirad, M. Eschrig, and T. K. Kim, Phys. Rev. B, 95: 195111 (2017).",
+				"tr":  "L. C. Rhodes, M. D. Watson, A. A. Haghighirad, M. Eschrig, and T. K. Kim, Phys. Rev. B, 95: 195111 (2017)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.96.100504",
+				"or":  "Y. Kushnirenko, A. A. Kordyuk, A. Fedorov, E. Haubold, T. Wolf, B. Böchner, and S. V. Borisenko, Phys. Rev. B, 96: 100504 (2017).",
+				"tr":  "Y. Kushnirenko, A. A. Kordyuk, A. Fedorov, E. Haubold, T. Wolf, B. Böchner, and S. V. Borisenko, Phys. Rev. B, 96: 100504 (2017)."
+			},
+			{
+				"doi": "10.15407/mfint.39.06.0709",
+				"or":  "Yu. V. Pustovit, V. V. Bezguba, and A. A. Kordyuk, Metallofiz. Noveishie Tekhnol., 39, No. 6: 709 (2017) (in Ukrainian).",
+				"tr":  "Yu. V. Pustovit, V. V. Bezguba, and A. A. Kordyuk, Metallofiz. Noveishie Tekhnol., 39, No. 6: 709 (2017) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1039/c2ce26857d",
+				"or":  "Y. D. Chareev, E. Osadchii, T. Kuzmicheva, J. Y. Lin, S. Kuzmichev, O. Volkova, and A. Vasiliev, Cryst. Eng. Comm., 15, No. 10: 1989 (2013).",
+				"tr":  "Y. D. Chareev, E. Osadchii, T. Kuzmicheva, J. Y. Lin, S. Kuzmichev, O. Volkova, and A. Vasiliev, Cryst. Eng. Comm., 15, No. 10: 1989 (2013)."
+			}
+		]
+	}
+}

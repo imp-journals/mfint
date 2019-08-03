@@ -1,0 +1,126 @@
+{
+	"_id":    "MFiNT.40.08.1113",
+	"year":   2018,
+	"volume": 40,
+	"issue":  8,
+	"pages":  [1113,1121],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["14.02.2018"],
+	"PACS":   "31.15.es, 62.20.de, 71.15.Mb, 71.20.Ps, 81.05.Je, 81.05.Zx",
+	"title":   {
+		"ua": "Першопринципне моделювання електронної структури та механічних властивостей субстехіометричного TiC$_x$",
+		"en": "Ab initio Modelling of Electronic Structure and Mechanical Properties of Substoichiometric TiC$_x$",
+		"ru": "Первопринципное моделирование электронной структуры и механических свойств субстехиометрического TiC$_x$"
+	},
+	"abstract": {
+		"ua": "Представлено результати першопринципного моделювання електронної структури та механічних властивостей субстехіометричного TiC$_x$. Розрахунок проведено методою функціоналу густини в узагальненому ґрадієнтному наближенні за допомогою пакету програм ABINIT. Обговорюються особливості електронних спектрів карбіду титану. Для аналізи електронних спектрів субстехіометричних TiC$_x$ було побудовано надкомірку з 24 атомів. Розрахунки тиску для визначення механічних модулів проводилися на надкомірках Ti$_{12}$C$_{12}$, Ti$_{12}$C$_{11}$ та Ti$_{12}$C$_{10}$ при їх ізотропному стисненні та розтязі. Показано, що збільшення концентрації Карбонових вакансій приводить до зменшення питомого об’єму та модуля всебічного стиснення, що добре узгоджується з попередніми результатами.",
+		"en": "The results of ab initio modelling of electronic structure and mechanical properties of substoichiometric TiC$_x$ are presented. The numerical calculation by means of the density functional theory within the generalized gradient approximation is carried out, using the software package ABINIT. The peculiarities of titanium carbide electronic spectra are discussed. The 24 atoms’ supercell is constructed to analyse the substoichiometric TiC$_x$ electronic spectra. The calculations of pressure for the determination of mechanical moduli are carried out on the Ti$_{12}$C$_{12}$, Ti$_{12}$C$_{11}$ and Ti$_{12}$C$_{10}$ supercells under their isotropic compression and stretching. As shown, an increase in the carbon vacancies’ concentration leads to a decrease in both the specific volume and the bulk modulus that is in a good agreement with previous results.",
+		"ru": "Представлены результаты первопринципного моделирования электронной структуры и механических свойств субстехиометрического TiC$_x$. Вычисления проводились методом функционала плотности в обобщённом градиентном приближении с помощью пакета программ ABINIT. Обсуждаются особенности электронных спектров карбида титана. Для анализа электронных спектров субстехиометрических TiC$_x$ была сконструирована сверхячейка из 24 атомов. Расчёты давления для определения механических модулей проводились на сверхячейках Ti$_{12}$C$_{12}$, Ti$_{12}$C$_{11}$ и Ti$_{12}$C$_{10}$ при их изотропном сжатии и растяжении. Показано, что увеличение концентрации углеродных вакансий приводит к уменьшению удельного объёма и модуля всестороннего сжатия, что хорошо согласуется с предыдущими результатами."
+	},
+	"keywords": {
+		"ua": "карбід титану, електронна структура, ab initio моделювання, механічні модулі",
+		"en": "titanium carbide, electronic structure, ab initio simulation, mechanical modules",
+		"ru": "карбид титана, электронная структура, ab initio моделирование, механические модули"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. В. Плющай", "en": "I. V. Plyushchay", "ru": "И. В. Плющай"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "Т. Л. Цареградська", "en": "T. L. Tsaregradska", "ru": "Т. Л. Цареградская"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "О. І. Плющай", "en": "O. I. Plyushchay", "ru": "А. И. Плющай"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 16,
+		"list":  [
+			{
+				"doi": "10.1007/978-94-009-2101-6",
+				"or":  "The Physics and Chemistry of Carbides, Nitrides and Borides (Ed. R. Freer) (Manchester, England: 1989).",
+				"tr":  "The Physics and Chemistry of Carbides, Nitrides and Borides (Ed. R. Freer) (Manchester, England: 1989)."
+			},
+			{
+				"doi": "10.1016/j.matdes.2010.09.011",
+				"or":  "C. Cui, B. Hu, L. Zhao, and S. Liu, Mater. Des., 32: 1684 (2011).",
+				"tr":  "C. Cui, B. Hu, L. Zhao, and S. Liu, Mater. Des., 32: 1684 (2011)."
+			},
+			{
+				"doi": "10.1016/j.jeurceramsoc.2007.11.011",
+				"or":  "D. Vallauri, I. C.Adrian, and A. Chrysanthou, J. European Ceramic Society, 28: 1697 (2008).",
+				"tr":  "D. Vallauri, I. C.Adrian, and A. Chrysanthou, J. European Ceramic Society, 28: 1697 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "Phase Diagrams for Binary Alloys. 2nd Ed. (Ed. H. Okamoto) (Materials Park, OH: ASM International: 2010), p. 176, ISBN: 978-0-87170-403-0.",
+				"tr":  "Phase Diagrams for Binary Alloys. 2nd Ed. (Ed. H. Okamoto) (Materials Park, OH: ASM International: 2010), p. 176, ISBN: 978-0-87170-403-0."
+			},
+			{
+				"doi": "10.1103/PhysRevB.63.165116",
+				"or":  "H. W. Hugosson, P. Korzhavyi, U. Jansson, B. Johansson, and O. Eriksson, Phys. Rev. B, 63: 165116 (2001).",
+				"tr":  "H. W. Hugosson, P. Korzhavyi, U. Jansson, B. Johansson, and O. Eriksson, Phys. Rev. B, 63: 165116 (2001)."
+			},
+			{
+				"doi": "10.1111/j.1551-2916.2008.02486.x",
+				"or":  "Y. F.Yang, H. Y.Wang, J. Zhang, R. Y. Zhao, Y. H. Liang, and Q. C. Jiang, J. Am. Ceram. Soc., 91: 2736 (2008).",
+				"tr":  "Y. F.Yang, H. Y.Wang, J. Zhang, R. Y. Zhao, Y. H. Liang, and Q. C. Jiang, J. Am. Ceram. Soc., 91: 2736 (2008)."
+			},
+			{
+				"doi": "10.1063/1.1707923",
+				"or":  "R. Chang and L. J. Graham, J. Appl. Phys., 37: 3778 (1966).",
+				"tr":  "R. Chang and L. J. Graham, J. Appl. Phys., 37: 3778 (1966)."
+			},
+			{
+				"doi": "10.1007/s11433-011-4500-0",
+				"or":  "Y. Li, W. Wang, B. Zhu, M. Xu, J. Zhu, Y. J. Hao, W. H. Li, and X. J. Long, Sci. China Phys. Mech. Astron., 54: 2196 (2011).",
+				"tr":  "Y. Li, W. Wang, B. Zhu, M. Xu, J. Zhu, Y. J. Hao, W. H. Li, and X. J. Long, Sci. China Phys. Mech. Astron., 54: 2196 (2011)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2008.03.027",
+				"or":  "Y. M. Kim and B. J. Lee, Acta Mater., 56: 3481 (2008).",
+				"tr":  "Y. M. Kim and B. J. Lee, Acta Mater., 56: 3481 (2008)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(97)00343-5",
+				"or":  "M. Guemmaz, G. Moraitis, A. Mosser, M. A. Khan, and J. C. Parlebas, J. Alloys Compd., 262–263: 397 (1997).",
+				"tr":  "M. Guemmaz, G. Moraitis, A. Mosser, M. A. Khan, and J. C. Parlebas, J. Alloys Compd., 262–263: 397 (1997)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.77.3865",
+				"or":  "J. P. Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett., 77: 3865 (1996).",
+				"tr":  "J. P. Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett., 77: 3865 (1996)."
+			},
+			{
+				"doi": "10.1016/j.cpc.2009.07.007",
+				"or":  "X. Gonzea, B. Amadond, P. M. Angladee, J. M. Beukena, F. Bottind, P. Boulangera, F. Brunevalq, D. Calistej, R. Caracasl, M. Côtéo, T. Deutschj, L. Genovesei, Ph. Ghosezk, M. Giantomassia, S. Goedeckerc, D. R. Hamannm, P. Hermetp, F. Jolletd, G. Jomardd, S. Lerouxd, M. Mancinid, S. Mazevetd, M. J. T. Oliveiraa, G. Onidab, Y. Pouillona, T. Rangela, G. M. Rignanesea, D. Sangallib, R. Shaltafa, M. Torrentd, M. J. Verstraetea, G. Zerahd, and J. W. Zwanzigerf, Comp. Phys. Comm., 180: 2582 (2009).",
+				"tr":  "X. Gonzea, B. Amadond, P. M. Angladee, J. M. Beukena, F. Bottind, P. Boulangera, F. Brunevalq, D. Calistej, R. Caracasl, M. Côtéo, T. Deutschj, L. Genovesei, Ph. Ghosezk, M. Giantomassia, S. Goedeckerc, D. R. Hamannm, P. Hermetp, F. Jolletd, G. Jomardd, S. Lerouxd, M. Mancinid, S. Mazevetd, M. J. T. Oliveiraa, G. Onidab, Y. Pouillona, T. Rangela, G. M. Rignanesea, D. Sangallib, R. Shaltafa, M. Torrentd, M. J. Verstraetea, G. Zerahd, and J. W. Zwanzigerf, Comp. Phys. Comm., 180: 2582 (2009)."
+			},
+			{
+				"doi": "10.1002/jcc.540030212",
+				"or":  "H. B. Schlegel, J. Comput. Chem., 3: 214 (1982).",
+				"tr":  "H. B. Schlegel, J. Comput. Chem., 3: 214 (1982)."
+			},
+			{
+				"doi": "10.15407/mfint.38.09.1233",
+				"or":  "I.  V. Plyushchay, T.  L. Tsaregrads’ka, O.  O. Kalenyk, and O.  I. Plyushchay, Metallofiz. Noveishie Tekhnol., 38, No. 9: 1233 (2016) (in Ukrainian).",
+				"tr":  "I.  V. Plyushchay, T.  L. Tsaregrads'ka, O.  O. Kalenyk, and O.  I. Plyushchay, Metallofiz. Noveishie Tekhnol., 38, No. 9: 1233 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "http://www.matweb.com/index.aspx",
+				"tr":  "http://www.matweb.com/index.aspx"
+			},
+			{
+				"doi": "10.3390/met7080290",
+				"or":  "E. N. Korosteleva, V. V. Korzhova, and M. G. Krinitcyn, Metals, 7: 290 (2017).",
+				"tr":  "E. N. Korosteleva, V. V. Korzhova, and M. G. Krinitcyn, Metals, 7: 290 (2017)."
+			}
+		]
+	}
+}

@@ -1,0 +1,148 @@
+{
+	"_id":    "MFiNT.36.01.0077",
+	"year":   2014,
+	"volume": 36,
+	"issue":  1,
+	"pages":  [77,88],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["20.09.2013", "21.11.2013"],
+	"PACS":   "61.05.cp, 61.05.Qr, 81.16.-c, 81.20.Ka, 82.45.Fk",
+	"title":   {
+		"ua": "Рентґенові та Мессбауерові дослідження залізовмісної літій-манганової шпінелі",
+		"en": "X-Ray and Mössbauer Studies of Iron-Containing Lithium—Manganese Spinel",
+		"ru": "Рентгеновские и мёссбауэровские исследования железосодержащей литий-марганцевой шпинели"
+	},
+	"abstract": {
+		"ua": "X-променевим та Мессбауеровим методами досліджено структурні аспекти заміщення залізом літій-манганової оксидної шпінелі, а також виконано тестування джерел струму з літієвим анодом та дослідженими сполуками у якості катодної підсистеми. Розраховано основні параметри кристалічної структури систем LiMn$_{2-y}$Fe$_{y}$O$_{4}$ та встановлено причини їх змін при збільшенні вмісту заліза. Результати структурного аналізу підтверджено Мессбауеровим методом. Показано, що питомі експлуатаційні параметри джерел струму знижуються внаслідок розупорядкування структури катодноактивного матеріялу при значних ступенях заміщення залізом.",
+		"en": "Using X-ray and Mössbauer methods, structural aspects of iron introduction into the lithium-manganese oxide spinel are studied, and batteries with the lithium anode and the test compound as cathode subsystem are tested. The basic parameters of the crystal structure of LiMn$_{2-y}$Fe$_{y}$O$_{4}$ are calculated, and causes for their changes with increasing iron content are established. The results of structural analysis are confirmed by Mössbauer method. As shown, the specific operating parameters of current sources are reduced due to disordering of the cathode active material structure in case of significant alloying with iron.",
+		"ru": "Рентгеновским и мёссбауэровским методами исследованы структурные аспекты замещения железом литий-марганцевой оксидной шпинели, а также выполнено тестирование источников тока с литиевым анодом и исследованными соединениями в качестве катодной подсистемы. Рассчитаны основные параметры кристаллической структуры систем LiMn$_{2-y}$Fe$_{y}$O$_{4}$ и установлены причины их изменений при увеличении содержания железа. Результаты структурного анализа подтверждены мёссбауэровским методом. Показано, что удельные эксплуатационные параметры источников тока снижаются вследствие разупорядочения структуры катодноактивного материала при значительных степенях замещения железом."
+	},
+	"keywords": {
+		"ua": "шпінель, катіонні заміщення, стала ґратниці, розупорядкування, суперпарамагнетизм",
+		"en": "spinel, cation substitution, lattice constant, disorder, superparamagnetism",
+		"ru": "шпинель, катионные замещения, постоянная решётки, разупорядочение, суперпарамагнетизм"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. М. Гасюк", "en": "I. M. Gasyuk", "ru": "И. М. Гасюк"},
+			"OID": [209]
+		},
+		{
+			"AID": {"ua": "А. М. Бойчук", "en": "A. M. Boychuk", "ru": "А. М. Бойчук"},
+			"OID": [209]
+		},
+		{
+			"AID": {"ua": "В. В. Угорчук", "en": "V. V. Uhorchuk", "ru": "В. В. Угорчук"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Л. С. Кайкан", "en": "L. S. Kaykan", "ru": "Л. С. Кайкан"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. А. Цап", "en": "V. A. Tsap", "ru": "В. А. Цап"},
+			"OID": [209]
+		},
+		{
+			"AID": {"ua": "Т. Я. Бойчук", "en": "T. Ya. Boychuk", "ru": "Т. Я. Бойчук"},
+			"OID": [209]
+		}
+	],
+	"references": {
+		"count": 18,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "﻿J. L. Gautier, R. Anumada, E. Meza, and Gerard Poillerat, Boletin de La Sociedad Chilena de Quimica, 46, No. 3: 1137 (2001).",
+				"tr":  "J. L. Gautier, R. Anumada, E. Meza, and Gerard Poillerat, Boletin de La Sociedad Chilena de Quimica, 46, No. 3: 1137 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "І. М. Гасюк, Фізика і хімія твердого тіла, 12, № 2: 275 (2011).",
+				"tr":  "I. M. Hasyuk, Fizyka i Khimiya Tverdoho Tila, 12, No. 2: 275 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "І. М. Гасюк, І. М. Будзуляк, С. А. Галігузова та ін., Наносистеми, наноматеріали, нанотехнології, 4, № 3: 613 (2006).",
+				"tr":  "I. M. Hasyuk, I. M. Budzulyak, S. A. Halihuzova et al., Nanosistemi, Nanomateriali, Nanotehnologii, 4, No. 3: 613 (2006) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/j.jpowsour.2006.11.024",
+				"or":  "J. Ma, C. Wang, and S. Wrollewski, J. Power Sources, 164: 849 (2007).",
+				"tr":  "J. Ma, C. Wang, and S. Wrollewski, J. Power Sources, 164: 849 (2007)."
+			},
+			{
+				"doi": "10.1149/1.1837870",
+				"or":  "Y. Xia, Y. Zhou, and M. Yoshio, J. Electrochem. Soc., 144, No. 8: 2593 (1997).",
+				"tr":  "Y. Xia, Y. Zhou, and M. Yoshio, J. Electrochem. Soc., 144, No. 8: 2593 (1997)."
+			},
+			{
+				"doi": "10.1149/1.1390617",
+				"or":  "M. M. Thackeray, Y. Shao-Hom, A. J. Kahaian et al., Electrochem. Solid State Lett., 1: 7 (1998).",
+				"tr":  "M. M. Thackeray, Y. Shao-Hom, A. J. Kahaian et al., Electrochem. Solid State Lett., 1: 7 (1998)."
+			},
+			{
+				"doi": "10.1016/j.micromeso.2012.06.001",
+				"or":  "Z. Li , J. Yang, J. Wang et al., Microporous and Mesoporous Materials, 162: 44 (2012).",
+				"tr":  "Z. Li, J. Yang, J. Wang et al., Microporous and Mesoporous Materials, 162: 44 (2012)."
+			},
+			{
+				"doi": "10.1016/j.jpowsour.2012.07.104",
+				"or":  "M.-W. Jang, H.-G. Jung, B. Scrosati, and Y.-K. Sun, J. Power Sources, 220: 354 (2012).",
+				"tr":  "M.-W. Jang, H.-G. Jung, B. Scrosati, and Y.-K. Sun, J. Power Sources, 220: 354 (2012)."
+			},
+			{
+				"doi": "10.1016/j.ssi.2004.01.069",
+				"or":  "J. Molenda, J. Marzec, K. S. Wierczek et al., Solid State Ionics, 175: 297 (2004).",
+				"tr":  "J. Molenda, J. Marzec, K. S. Wierczek et al., Solid State Ionics, 175: 297 (2004)."
+			},
+			{
+				"doi": "10.1016/j.electacta.2012.04.136",
+				"or":  "J. L. Wang, Z. H. Li, J. Yang et al., Electrochim. Acta, 75: 115 (2012).",
+				"tr":  "J. L. Wang, Z. H. Li, J. Yang et al., Electrochim. Acta, 75: 115 (2012)."
+			},
+			{
+				"doi": "10.1016/j.enconman.2011.08.025",
+				"or":  "R. Thirunakaran, R. Ravikumar, S. Vijayarani et al., Molybdenum, Energy Conversion and Management, 53: 276 (2012).",
+				"tr":  "R. Thirunakaran, R. Ravikumar, S. Vijayarani et al., Molybdenum, Energy Conversion and Management, 53: 276 (2012)."
+			},
+			{
+				"doi": "10.1016/j.jpowsour.2012.06.031",
+				"or":  "A. Iturrondobeitia, A. Goni, V. Palomares et al., J. Power Sources, 216: 482 (2012).",
+				"tr":  "A. Iturrondobeitia, A. Goni, V. Palomares et al., J. Power Sources, 216: 482 (2012)."
+			},
+			{
+				"doi": "10.1016/j.jpowsour.2005.03.193",
+				"or":  "T.-J. Kima, D. Sona, J. Chob, and B. Park, J. Power Sources, 154: 268 (2006).",
+				"tr":  "T.-J. Kima, D. Sona, J. Chob, and B. Park, J. Power Sources, 154: 268 (2006)."
+			},
+			{
+				"doi": "10.1016/j.jpowsour.2009.12.002",
+				"or":  "F. A. Amaral, N. Bocchi, R. F. Brocenschi et al., J. Power Sources, 195: 3293 (2010).",
+				"tr":  "F. A. Amaral, N. Bocchi, R. F. Brocenschi et al., J. Power Sources, 195: 3293 (2010)."
+			},
+			{
+				"doi": "10.1016/S1005-8850(08)60036-5",
+				"or":  "T. Li, W. Qiu, H. Zhao, and J. Liu, J. University of Science and Technology Beijing, 15, No. 2: 187 (2008).",
+				"tr":  "T. Li, W. Qiu, H. Zhao, and J. Liu, J. University of Science and Technology Beijing, 15, No. 2: 187 (2008)."
+			},
+			{
+				"doi": "10.1016/j.jpowsour.2011.09.062",
+				"or":  "L. Xiong, Y. Xu, T. Tao, and J. B. Goodenough , J. Power Sources, 199: 214 (2012).",
+				"tr":  "L. Xiong, Y. Xu, T. Tao, and J. B. Goodenough, J. Power Sources, 199: 214 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Бойчук, М. Я. Січка, П. О. Сулим та ін., Фізика і хімія твердого тіла, 13, № 2: 357 (2012).",
+				"tr":  "A. M. Boychuk, M. Ya. Sichka, P. O. Sulym et al., Fizyka i Khimiya Tverdoho Tila, 13, No. 2: 357 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "І. М. Гасюк, В. В. Угорчук, А. М. Бойчук, Ю. В. Яворський, Катодний матеріал літієвого джерела струму чотиривольтового класу, Пат. 72404 України (МПК H01L21/00, C01D15/00) (Опубл. 27.08.12, Бюл. № 16).",
+				"tr":  "I. M. Hasyuk, V. V. Uhorchuk, A. M. Boychuk, and Yu. V. Yavors'kyy, Katodnyy Material Litiyevoho Dzherela Strumu Chotyryvol'tovoho Klasu, Pat. 72404 Ukraine (MPK H01L21/00, C01D15/00) (Publ. 27.08.12, Bul. No. 16) (in Ukrainian)."
+			}
+		]
+	}
+}

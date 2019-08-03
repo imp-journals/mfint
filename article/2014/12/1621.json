@@ -1,0 +1,158 @@
+{
+	"_id":    "MFiNT.36.12.1621",
+	"year":   2014,
+	"volume": 36,
+	"issue":  12,
+	"pages":  [1621,1634],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["26.05.2014"],
+	"PACS":   "68.37.Ps, 68.55.Nq, 68.60.Dv, 73.50.Lw, 82.80.Yc, 84.60.Rb, 85.80.Fi",
+	"title":   {
+		"ua": "Термостабільність нанорозмірних плівок Co—Sb",
+		"en": "Thermal Stability of Nanoscale Co—Sb Films",
+		"ru": "Термостабильность наноразмерных плёнок Co—Sb"
+	},
+	"abstract": {
+		"ua": "Досліджено формування фазового складу і структури в нанорозмірних плівках CoSb$_{x}$ (30 нм) (1,82 $\\leq$ х $\\leq$ 4,16), осаджених методою молекулярно-променевої епітаксії на підложжя окисненого монокристалічного кремнію за кімнатної температури і температури 200°C з подальшим термічним обробленням у вакуумі в інтервалі температур 300—700°C. Встановлено, що плівки після осадження знаходяться в рентґеноаморфному стані на холодному підложжі та в полікристалічному стані без текстури на гарячому підложжі. Кристалізація аморфних плівок CoSb$_{x}$ відбувається при нагріві в інтервалі $\\cong$ 140—200°C. У плівках з більшим вмістом Sb температурний інтервал кристалізації збільшується і зміщується в бік більших температур. Інтенсивний процес випаровування як надмірного стибію, так і стибію з антимонідів спостерігається під час відпалів рентґено-аморфних плівок при температурах, вищих за 300°C, а полікристалічних плівок – при температурах, вищих за 450—500°C, що призводить до збільшення кількости фаз CoSb і CoSb$_{2}$ та зменшення кількости CoSb$_{3}$.",
+		"en": "Formation of phase composition and structure is investigated in nanoscale CoSb$_{x}$ (30 nm) (1.82 $\\leq$ х $\\leq$ 4.16) films deposited by the method of molecular-beam epitaxy on the substrates of the oxidized monocrystalline silicon at room temperature and 200°C with subsequent thermal treatment in a vacuum within the temperature range of 300—700°C. As determined, the films after the deposition are in amorphous state on cold substrate and in polycrystalline one without texture on heated substrate. Crystallization of amorphous CoSb$_{x}$ films occurs at heating within the temperature range of $\\cong$ 140—200°C. In films with higher Sb content, the temperature range of crystallization increases and is shifted to the side of higher temperature. Intensive process of evaporation of excessive Sb and Sb from antimonides is observed at annealing of X-ray amorphous films above 300°C and at annealing of polycrystalline films above 450—500°C. It leads to increase in amount of the CoSb and CoSb$_{2}$ phases and to decrease in CoSb$_{3}$ content.",
+		"ru": "Исследовано формирование фазового состава и структуры в наноразмерных плёнках CoSb$_{x}$ (30 нм) (1,82 $\\leq$ х $\\leq$ 4,16), осаждённых методом молекулярно-лучевой эпитаксии на подложки окислённого монокристаллического кремния при комнатной температуре и температуре 200°C с последующей термической обработкой в вакууме в интервале температур 300—700°C. Установлено, что плёнки после осаждения находятся в рентгено-аморфном состоянии на холодной подложке и в поликристаллическом состоянии без текстуры на горячей подложке. Кристаллизация аморфных плёнок CoSb$_{x}$ происходит при нагреве в интервале $\\cong$ 140—200°C. В плёнках с большим содержанием Sb температурный интервал кристаллизации увеличивается и смещается в сторону больших температур. Интенсивный процесс испарения как избыточной сурьмы, так и сурьмы из антимонидов наблюдается при отжиге рентгеноаморфных плёнок выше температуры 300°C, а поликристаллических плёнок – выше температур 450—500°C, что приводит к увеличению количества фаз CoSb и CoSb$_{2}$ и уменьшению количества CoSb$_{3}$."
+	},
+	"keywords": {
+		"ua": "фазовий склад, випаровування, нанорозмірна плівка, скутерудит, відпал",
+		"en": "phase composition, evaporation, nanoscale film, skutterudite, annealing",
+		"ru": "фазовый состав, испарение, наноразмерная плёнка, скуттерудит, отжиг"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. М. Макогон", "en": "Yu. N. Makogon", "ru": "Ю. Н. Макогон"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "О. П. Павлова", "en": "E. P. Pavlova", "ru": "Е. П. Павлова"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "С. І. Сидоренко", "en": "S. I. Sidorenko", "ru": "С. И. Сидоренко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "Д. Беке", "en": "D. Bеkе", "ru": "Д. Беке"},
+			"OID": [482]
+		},
+		{
+			"AID": {"ua": "А. Чік", "en": "А. Csik", "ru": "А. Чик"},
+			"OID": [483]
+		},
+		{
+			"AID": {"ua": "Р. А. Шкарбань", "en": "R. А. Shkarban", "ru": "Р. А. Шкарбань"},
+			"OID": [202]
+		}
+	],
+	"references": {
+		"count": 20,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "G. A. Slack, CRC Handbook of Thermoelectrics (Ed. D. M. Rowe) (Boca Raton: CRC Press: 1995), p. 407.",
+				"tr":  "G. A. Slack, CRC Handbook of Thermoelectrics (Ed. D. M. Rowe) (Boca Raton: CRC Press: 1995), p. 407."
+			},
+			{
+				"doi": "10.1007/978-3-662-04569-5",
+				"or":  "G. S. Nolas, J. Sharp, and H. J. Goldsmid, Thermoelectrics: Basic Principles and New Materials Developments (New York: Springer: 2001).",
+				"tr":  "G. S. Nolas, J. Sharp, and H. J. Goldsmid, Thermoelectrics: Basic Principles and New Materials Developments (New York: Springer: 2001)."
+			},
+			{
+				"doi": "10.1002/pssr.200701172",
+				"or":  "Sh. Li, Z. He, M. S. Toprak, Ch. Stiewe, E. Muller, and M. Muhammed, рhys. status solidi (RRL), 1, No. 6: 259 (2007).",
+				"tr":  "Sh. Li, Z. He, M. S. Toprak, Ch. Stiewe, E. Muller, and M. Muhammed, phys. status solidi (RRL), 1, No. 6: 259 (2007)."
+			},
+			{
+				"doi": "10.1063/1.4748340",
+				"or":  "A. Harnwunggmoung, K. Kurosaki, A. Kosuga, M. Ishimaru, Th. Plirdpring, R. Yimnirun, J. Jutimoosik, S. Rujirawat, Yu. Ohishi, H. Muta, and Sh. Yamanaka, J. Appl. Phys., 112: 043509 (2012).",
+				"tr":  "A. Harnwunggmoung, K. Kurosaki, A. Kosuga, M. Ishimaru, Th. Plirdpring, R. Yimnirun, J. Jutimoosik, S. Rujirawat, Yu. Ohishi, H. Muta, and Sh. Yamanaka, J. Appl. Phys., 112: 043509 (2012)."
+			},
+			{
+				"doi": "10.1063/1.4768439",
+				"or":  "M. Puyet, B. Lenoir, A. Dauscher, C. Candolfi, J. Hejtmanek, C. Stiewe, and E. Müller, Appl. Phys. Lett., 101: 222105 (2012).",
+				"tr":  "M. Puyet, B. Lenoir, A. Dauscher, C. Candolfi, J. Hejtmanek, C. Stiewe, and E. Müller, Appl. Phys. Lett., 101: 222105 (2012)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.86.115211",
+				"or":  "M. Stoica and C. S. Lo, Phys. Rev. B, 86: 115211 (2012).",
+				"tr":  "M. Stoica and C. S. Lo, Phys. Rev. B, 86: 115211 (2012)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2010.11.204",
+				"or":  "D. Zhao, Ch. Tian, Yu. Liu, Ch. Zhan, and L. Chen, J. Alloys Compd., 509: 3166 (2011).",
+				"tr":  "D. Zhao, Ch. Tian, Yu. Liu, Ch. Zhan, and L. Chen, J. Alloys Compd., 509: 3166 (2011)."
+			},
+			{
+				"doi": "10.1007/s11664-011-1871-y",
+				"or":  "S.-M. Choi, K.-H. Kim, S.-M. Jeong, H.-S. Choi, Yu. S. Lim, W.-S. Seo, and I.-H. Kim, J. Electron. Mater., 41, No. 6: 1004 (2012).",
+				"tr":  "S.-M. Choi, K.-H. Kim, S.-M. Jeong, H.-S. Choi, Yu. S. Lim, W.-S. Seo, and I.-H. Kim, J. Electron. Mater., 41, No. 6: 1004 (2012)."
+			},
+			{
+				"doi": "10.1007/s11664-012-2005-x",
+				"or":  "Zh.-W. Ruan, L.-Sh. Liu, P.-Ch. Zhai, P.-F. Wen, and Q.-J. Zhang, J. Еlectron. Mater., 41, No. 6: 1487 (2012).",
+				"tr":  "Zh.-W. Ruan, L.-Sh. Liu, P.-Ch. Zhai, P.-F. Wen, and Q.-J. Zhang, J. Electron. Mater., 41, No. 6: 1487 (2012)."
+			},
+			{
+				"doi": "10.1007/s11664-012-2241-0",
+				"or":  "J. García-Cañadas, A. V. Powell, A. Kaltzoglou, P. Vaqueiro, and G. Min, J. Electron. Mater., 42, No. 6: 1369 (2013).",
+				"tr":  "J. García-Ca-adas, A. V. Powell, A. Kaltzoglou, P. Vaqueiro, and G. Min, J. Electron. Mater., 42, No. 6: 1369 (2013)."
+			},
+			{
+				"doi": "10.1007/s11664-012-2259-3",
+				"or":  "T. Su, Ch. He, H. Li, X. Guo, Sh. Li, H. Ma, and X. Jia, J. Electron. Mater., 42, No. 1: 109 (2013).",
+				"tr":  "T. Su, Ch. He, H. Li, X. Guo, Sh. Li, H. Ma, and X. Jia, J. Electron. Mater., 42, No. 1: 109 (2013)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2013.01.038",
+				"or":  "P.-X. Lu, L.-B. Qu, and Q.-H. Cheng, J. Alloys Compd., 558: 50 (2013).",
+				"tr":  "P.-X. Lu, L.-B. Qu, and Q.-H. Cheng, J. Alloys Compd., 558: 50 (2013)."
+			},
+			{
+				"doi": "10.1063/1.2975184",
+				"or":  "J. Y. Peng, P. N. Alboni, J. He, B. Zhang, Z. Su, T. Holgate, N. Gothard, and T. M. Tritt, J. Appl. Phys., 104: 053710 (2008).",
+				"tr":  "J. Y. Peng, P. N. Alboni, J. He, B. Zhang, Z. Su, T. Holgate, N. Gothard, and T. M. Tritt, J. Appl. Phys., 104: 053710 (2008)."
+			},
+			{
+				"doi": "10.1088/0953-8984/25/10/105701",
+				"or":  "R. C. Mallik, R. Anbalagan, K. K. Raut, A. Bali, E. Royanian, E. Bauer, G. Rogl, and P. Rogl, J. Phys.: Condens. Matter, 25: 105701 (2013).",
+				"tr":  "R. C. Mallik, R. Anbalagan, K. K. Raut, A. Bali, E. Royanian, E. Bauer, G. Rogl, and P. Rogl, J. Phys.: Condens. Matter, 25: 105701 (2013)."
+			},
+			{
+				"doi": "10.1002/pssa.201228388",
+				"or":  "M. Daniel, M. Friedemann, N. Jöhrmann, A. Liebig, J. Donges, M. Hietschold, G. Beddies, and M. Albrecht, phys. status solidi (a), 210, No. 1: 140 (2013).",
+				"tr":  "M. Daniel, M. Friedemann, N. Jöhrmann, A. Liebig, J. Donges, M. Hietschold, G. Beddies, and M. Albrecht, phys. status solidi (a), 210, No. 1: 140 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "J. C. Caylor, A. M. Stacy, and B. Bloom, 18th International Conference on Thermoelectrics (Aug. 29–Sept. 2, 1999, Baltimore), p. 657.",
+				"tr":  "J. C. Caylor, A. M. Stacy, and B. Bloom, 18th International Conference on Thermoelectrics (Aug. 29–Sept. 2, 1999, Baltimore), p. 657."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2012.11.102",
+				"or":  "O. P. Pavlova, T. I. Verbitska, I. A. Vladymyrskyi, S. I. Sidorenko, G. L. Katona, D. L. Beke, G. Beddies, M. Albrecht, and I. M. Makogon, Appl. Surf. Sci., 266: 100 (2013).",
+				"tr":  "O. P. Pavlova, T. I. Verbitska, I. A. Vladymyrskyi, S. I. Sidorenko, G. L. Katona, D. L. Beke, G. Beddies, M. Albrecht, and I. M. Makogon, Appl. Surf. Sci., 266: 100 (2013)."
+			},
+			{
+				"doi": "10.1007/s00339-013-7949-z",
+				"or":  "G. L. Katona, I. A. Vladymyrskyi, I. M. Makogon, S. I. Sidorenko, F. Kristaly, L. Daroczi, A. Csik, A. Liebig, G. Beddies, M. Albrecht, and D. L. Beke, Appl. Phys. A, 115, Iss. 1: 203 (2014).",
+				"tr":  "G. L. Katona, I. A. Vladymyrskyi, I. M. Makogon, S. I. Sidorenko, F. Kristaly, L. Daroczi, A. Csik, A. Liebig, G. Beddies, M. Albrecht, and D. L. Beke, Appl. Phys. A, 115, Iss. 1: 203 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Русаков, Рентгенография металлов: Учебник для вузов (Москва: Атомиздат: 1977).",
+				"tr":  "A. A. Rusakov, Rentgenografiya Metallov: Uchebnik dlya Vuzov (Moscow: Atomizdat: 1977) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2010.11.204",
+				"or":  "D. Zhaoa, Ch. Tiana, and Yu. Liua, J. Alloys Compd., 509: 3166 (2011).",
+				"tr":  "D. Zhaoa, Ch. Tiana, and Yu. Liua, J. Alloys Compd., 509: 3166 (2011)."
+			}
+		]
+	}
+}

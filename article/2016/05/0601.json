@@ -1,0 +1,200 @@
+{
+	"_id":    "MFiNT.38.05.0601",
+	"year":   2016,
+	"volume": 38,
+	"issue":  5,
+	"pages":  [601,616],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["12.03.2016", "08.04.2016"],
+	"PACS":   "61.05.cp, 61.46.Df, 61.72.J-, 75.50.Pp, 75.50.Tt, 78.67.Bf, 81.07.Wx",
+	"title":   {
+		"ua": "Вплив заміщення йонів Ніклю немагнетними йонами Кадмію на структурні і оптичні властивості фериту ніклю",
+		"en": "Effect of Nickel-Ions’ Substitution with Nonmagnetic Cadmium Ions on the Structural and Optical Properties of Nickel Ferrite",
+		"ru": "Влияние замещения ионов никеля немагнитными ионами кадмия на структурные и оптические свойства феррита никеля"
+	},
+	"abstract": {
+		"ua": "В даній роботі порошки нікель-кадмійових феритів було синтезовано методою золь—ґель за участю автогоріння. Після проходження процесу автогоріння одержано однофазний ферит NiFe$_{2}$O$_{4}$ з кубічною структурою шпінелі просторової групи $Fd3m$. Порошки феритів, що містять йони заміщення, мали додаткові фази оксидів NiO, CdO та $\\alpha$-Fe$_{2}$O$_{3}$. Після випалу за температури у 900°C протягом 3 годин було одержано монофазні порошки. Виявлено, що середній розмір областей когерентного розсіяння однофазних порошків знаходиться в діяпазоні 42—61 нм. Встановлено, що параметр ґратниці зі збільшенням вмісту йонів Cd$^{2+}$ зростає. Вивчено оптичні властивості порошків феритів залежно від ступеня заміщення йонів Ніклю на йони Кадмію. Завдяки аналізі спектрів поглинання виявлено, що для всіх досліджуваних порошків Ni—Cd-феритів притаманний прямий дозволений перехід електронів із валентної зони в зону провідности. Показано, що оптична ширина забороненої зони збільшується з ростом концентрації йонів Кадмію в складі феритів і знаходиться в межах 1,91—2,56 еВ.",
+		"en": "In this study, powders of nickel—cadmium ferrites are synthesised using sol—gel technology and autocombustion (SGA method). After completing the process of autocombustion, a single-phase NiFe$_{2}$O$_{4}$ powder is obtained with a spinel cubic structure of space group $Fd3m$. In the ferrite powders, containing substituting nonmagnetic ions, additional phases of the NiO, CdO and $\\alpha$-Fe$_{2}$O$_{3}$ oxides are also enclosed. After burning at a temperature of 900°C for 3 hours, the monophase powders are obtained. The average size of coherent scattering regions of monophase powders is found to be in the range of 42—61 nm. As shown, the lattice parameter increases with increasing content of Cd$^{2+}$ ions. The optical properties of ferrite powders are studied depending on the degree of substitution of nickel ions with the cadmium ones. As a result of analysis of the absorption spectra, it is revealed that, for all investigated powders, the allowed direct transition of electrons from the valence band to the conduction band is inherent. As shown, the optical band gap increases with increasing concentration of cadmium ions in the ferrite structure, and it is in the range of 1.91 to 2.56 eV.",
+		"ru": "В данной работе порошки никель-кадмиевых ферритов были синтезированы с помощью метода золь—гель с участием автогорения. После прохождения процесса автогорения получен однофазный феррит NiFe$_{2}$O$_{4}$ с кубической структурой шпинели пространственной группы $Fd3m$. В порошках ферритов, содержащих немагнитные ионы замещения, имелись дополнительные фазы оксидов NiO, CdO и $\\alpha$-Fe$_{2}$O$_{3}$. После обжига при температуре 900°C в течение 3 часов получены монофазные порошки. Выявлено, что средний размер областей когерентного рассеяния однофазных порошков находится в диапазоне 42—61 нм. Установлено, что параметр решётки с увеличением содержания ионов Cd$^{2+}$ растёт. Изучены оптические свойства порошков ферритов в зависимости от степени замещения ионов никеля на ионы кадмия. Посредством анализа спектров поглощения выявлено, что для всех исследуемых порошков Ni—Cd-ферритов присущ прямой разрешённый переход электронов из валентной зоны в зону проводимости. Показано, что оптическая ширина запрещённой зоны увеличивается с ростом концентрации ионов кадмия в составе ферритов и находится в пределах 1,91—2,56 эВ."
+	},
+	"keywords": {
+		"ua": "нікель-кадмійовий ферит, параметр ґратниці, коефіцієнт поглинання, оптична ширина забороненої зони, золь—ґель-технологія",
+		"en": "nickel—cadmium ferrite, lattice parameter, absorption coefficient, optical band gap, sol—gel technology",
+		"ru": "никель-кадмиевый феррит, параметр решётки, коэффициент поглощения, оптическая ширина запрещённой зоны, золь—гель-технология"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. С. Бушкова", "en": "V. S. Bushkova", "ru": "В. С. Бушкова"},
+			"OID": [209]
+		},
+		{
+			"AID": {"ua": "Б. К. Остафійчук", "en": "B. K. Ostafiychuk", "ru": "Б. К. Остафийчук"},
+			"OID": [209]
+		},
+		{
+			"AID": {"ua": "І. П. Яремій", "en": "I. P. Yaremij", "ru": "И. П. Яремий"},
+			"OID": [209]
+		},
+		{
+			"AID": {"ua": "М. Л. Мохнацький", "en": "M. L. Mokhnatskyi", "ru": "М. Л. Мохнацкий"},
+			"OID": [209]
+		}
+	],
+	"references": {
+		"count": 30,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Е. С. Боровик, В. В. Еременко, А. С. Мильнер, Лекции по магнетизму (Москва: Физматлит:  2005).",
+				"tr":  "E. S. Borovik, V. V. Eremenko, and A. S. Mil'ner, Lektsii po Magnetizmu [Lectures on Magnetism] (Moscow: Fizmatlit: 2005) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S1388-2481(02)00520-9",
+				"or":  "R. Alcántra, M. Jaraba, P. Lavela, J. L. Tirado, J. C. Jumas, and J. Olivier-Fourcade, Electrochemistry Communications, 5: 16 (2003).",
+				"tr":  "R. Alcántra, M. Jaraba, P. Lavela, J. L. Tirado, J. C. Jumas, and J. Olivier-Fourcade, Electrochemistry Communications, 5: 16 (2003)."
+			},
+			{
+				"doi": "10.1016/S0254-0584(03)00170-6",
+				"or":  "L. Satyanarayana, K. M. Reddy, and S. V. Manorama, Mater. Chem. Phys., 82, No. 1: 21 (2003).",
+				"tr":  "L. Satyanarayana, K. M. Reddy, and S. V. Manorama, Mater. Chem. Phys., 82, No. 1: 21 (2003)."
+			},
+			{
+				"doi": "10.1016/j.ceramint.2008.04.031",
+				"or":  "B. S. Randhawa, H. S. Dosanjh, and M. Kaur, Ceramics International, 35, No. 3: 1045 (2009).",
+				"tr":  "B. S. Randhawa, H. S. Dosanjh, and M. Kaur, Ceramics International, 35, No. 3: 1045 (2009)."
+			},
+			{
+				"doi": "10.1016/j.mseb.2005.10.027",
+				"or":  "A. M. Ghozza and H. G. El-Shobaky, Mater. Sci. Eng. B, 127, No. 2: 233 (2006).",
+				"tr":  "A. M. Ghozza and H. G. El-Shobaky, Mater. Sci. Eng. B, 127, No. 2: 233 (2006)."
+			},
+			{
+				"doi": "10.1007/BF02396506",
+				"or":  "J. Teillet, J. L. Dormann, A. Hauet, M. Nogues, F. Varrent, M. Zemirli, and J. M. Greneche, Hyperfine Interactions, 68: 345 (1991).",
+				"tr":  "J. Teillet, J. L. Dormann, A. Hauet, M. Nogues, F. Varrent, M. Zemirli, and J. M. Greneche, Hyperfine Interactions, 68: 345 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Schmid, Nanoparticles: From Theory to Application (New York: Wiley Interscience: 2004).",
+				"tr":  "G. Schmid, Nanoparticles: From Theory to Application (New York: Wiley Interscience: 2004)."
+			},
+			{
+				"doi": "10.1002/1616-3028(20020101)12:1<9::AID-ADFM9>3.0.CO;2-A",
+				"or":  "S. H. Yu and M. Yoshimura, Adv. Funct. Mater., 12: 9 (2002).",
+				"tr":  "S. H. Yu and M. Yoshimura, Adv. Funct. Mater., 12: 9 (2002)."
+			},
+			{
+				"doi": "10.1063/1.2836410",
+				"or":  "Ce-Wen Nan, M. I. Bichurin, D. Shuxiang, D. Viehland, and G. Srinivasan, J. Appl. Phys., 103: 031101 (2008).",
+				"tr":  "Ce-Wen Nan, M. I. Bichurin, D. Shuxiang, D. Viehland, and G. Srinivasan, J. Appl. Phys., 103: 031101 (2008)."
+			},
+			{
+				"doi": "10.3938/jkps.54.204",
+				"or":  "J. S. Jang, S. J. Hong, J. S. Lee, P. H. Borse, and H. G. Kim, J. Korean Phys. Soc., 54: 204 (2009).",
+				"tr":  "J. S. Jang, S. J. Hong, J. S. Lee, P. H. Borse, and H. G. Kim, J. Korean Phys. Soc., 54: 204 (2009)."
+			},
+			{
+				"doi": "10.1016/j.ssc.2010.12.034",
+				"or":  "D. Rekha, R. Subasri, K. Radha, and H. Pramod-Borse, Solid State Communications, 151, No. 6: 470 (2011).",
+				"tr":  "D. Rekha, R. Subasri, K. Radha, and H. Pramod-Borse, Solid State Communications, 151, No. 6: 470 (2011)."
+			},
+			{
+				"doi": "10.1016/j.mseb.2005.09.003",
+				"or":  "J. Wang, Mater. Sci. Eng. B, 127, No. 1: 81 (2006).",
+				"tr":  "J. Wang, Mater. Sci. Eng. B, 127, No. 1: 81 (2006)."
+			},
+			{
+				"doi": "10.1016/0304-8853(94)01395-0",
+				"or":  "J. M. Greneche, J. Teillet, and H. Pascard, J. Magn. Magn. Mater., 140: 2087 (1995).",
+				"tr":  "J. M. Greneche, J. Teillet, and H. Pascard, J. Magn. Magn. Mater., 140: 2087 (1995)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2008.09.107",
+				"or":  "M. B. Shelar, P. A. Jadhav, S. S. Chougule, M. M. Mallapur, and B. K. Chougule, J. Alloys Compd., 476, Nos. 1–2: 760 (2009).",
+				"tr":  "M. B. Shelar, P. A. Jadhav, S. S. Chougule, M. M. Mallapur, and B. K. Chougule, J. Alloys Compd., 476, Nos. 1–2: 760 (2009)."
+			},
+			{
+				"doi": "10.1016/S0167-577X(03)00089-2",
+				"or":  "D. Ravinder, S. Srinivasa Rao, and P. Shalini, Mater. Lett., 57: 4040 (2003).",
+				"tr":  "D. Ravinder, S. Srinivasa Rao, and P. Shalini, Mater. Lett., 57: 4040 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "C. J. Brinker and G. W. Scherer, Sol–Gel Science. The Physics and Chemistry of Sol–Gel Processing (San Diego: Academic Press: 1990).",
+				"tr":  "C. J. Brinker and G. W. Scherer, Sol–Gel Science. The Physics and Chemistry of Sol–Gel Processing (San Diego: Academic Press: 1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Handbook of Sol–Gel Science and Technology: Processing, Characterization, and Applications (Ed. S. Sakka) (New York: Kluwer Academic Publishers: 2004).",
+				"tr":  "Handbook of Sol–Gel Science and Technology: Processing, Characterization, and Applications (Ed. S. Sakka) (New York: Kluwer Academic Publishers: 2004)."
+			},
+			{
+				"doi": "10.1016/j.matchemphys.2007.04.038",
+				"or":  "X. Lou, Sh. Liu, D. Shi, and W. Chu, Mater. Chem. Phys., 105, No. 1: 67 (2007).",
+				"tr":  "X. Lou, Sh. Liu, D. Shi, and W. Chu, Mater. Chem. Phys., 105, No. 1: 67 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Sutka, G. Mezinskis, D. Jakovlevs, and V. Korsaks, J. Australian Ceramic Society, 49, No. 2: 136 (2013).",
+				"tr":  "A. Sutka, G. Mezinskis, D. Jakovlevs, and V. Korsaks, J. Australian Ceramic Society, 49, No. 2: 136 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Vegard and H. Dale, Z. Kristallogr. B, 67: 148 (1928).",
+				"tr":  "L. Vegard and H. Dale, Z. Kristallogr. B, 67: 148 (1928)."
+			},
+			{
+				"doi": "10.1016/j.ceramint.2012.08.022",
+				"or":  "M. M. Karanjkar, N. L. Tarwal, A. S. Vaigankar, and P. S. Patil, Ceramics International, 39, No. 2: 1757 (2013).",
+				"tr":  "M. M. Karanjkar, N. L. Tarwal, A. S. Vaigankar, and P. S. Patil, Ceramics International, 39, No. 2: 1757 (2013)."
+			},
+			{
+				"doi": "10.1063/1.1699501",
+				"or":  "Ch. Upadhyay and H. C. Verma, J. Appl. Physics, 95, No. 10: 5746 (2004).",
+				"tr":  "Ch. Upadhyay and H. C. Verma, J. Appl. Physics, 95, No. 10: 5746 (2004)."
+			},
+			{
+				"doi": "10.1016/j.physe.2004.06.036",
+				"or":  "S. Chakrabarti, D. Ganguli, and S. Chaudhuri, Physica E, 24, No. 3: 333 (2004).",
+				"tr":  "S. Chakrabarti, D. Ganguli, and S. Chaudhuri, Physica E, 24, No. 3: 333 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Є. Я. Швець, І. Ф. Червоний, Ю. В. Головко, Матеріали і компоненти електроніки (Запоріжжя: ЗДІА: 2011).",
+				"tr":  "Ye. Ya. Shvets, I. F. Chervonyy, and Yu. V. Holovko, Materialy i Komponenty Elektroniky (Materials and Components of Electronics) (Zaporizhzhya: ZDIA: 2011) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. S. Bushkova, J. Nano- and Electronic Physics, 7, No. 3: 03021 (2015).",
+				"tr":  "V. S. Bushkova, J. Nano- and Electronic Physics, 7, No. 3: 03021 (2015)."
+			},
+			{
+				"doi": "10.1021/jp0654415",
+				"or":  "Y. S. Wang, P. J. Thomas, and P. O’Brien, J. Phys. Chem. B, 110: 21412 (2006).",
+				"tr":  "Y. S. Wang, P. J. Thomas, and P. O'Brien, J. Phys. Chem. B, 110: 21412 (2006)."
+			},
+			{
+				"doi": "10.1016/j.mseb.2008.10.032",
+				"or":  "N. Kislov, S. S. Srinivasan, Yu. Emirov, and E. K. Stefanakos, Mater. Sci. Eng. B, 153, Nos. 1–2: 70 (2008).",
+				"tr":  "N. Kislov, S. S. Srinivasan, Yu. Emirov, and E. K. Stefanakos, Mater. Sci. Eng. B, 153, Nos. 1–2: 70 (2008)."
+			},
+			{
+				"doi": "10.1088/0022-3727/42/11/115306",
+				"or":  "M. Sultan and R. Singh, J. Phys. D: Appl. Phys., 42: 115306 (2009).",
+				"tr":  "M. Sultan and R. Singh, J. Phys. D: Appl. Phys., 42: 115306 (2009)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.78.132403",
+				"or":  "C. Cheng, Phys. Rev. B, 78: 132403 (2008).",
+				"tr":  "C. Cheng, Phys. Rev. B, 78: 132403 (2008)."
+			},
+			{
+				"doi": "10.1088/1742-6596/145/1/012028",
+				"or":  "C. Cheng and C.S. Liu, J. Phys.: Conf. Ser., 145: 012028 (2009).",
+				"tr":  "C. Cheng and C.S. Liu, J. Phys.: Conf. Ser., 145: 012028 (2009)."
+			}
+		]
+	}
+}

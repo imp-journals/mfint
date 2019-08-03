@@ -1,0 +1,132 @@
+{
+	"_id":    "MFiNT.39.10.1395",
+	"year":   2017,
+	"volume": 39,
+	"issue":  10,
+	"pages":  [1395,1409],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["13.03.2017","10.09.2017"],
+	"PACS":   "64.30.Ef, 81.05.Bx, 81.10.Fq, 81.20.Ka, 82.33.Vx, 82.60.Cx, 82.60.Fa",
+	"title":   {
+		"ua": "Фізико-хемічні основи СВС-процесу одержання стопів на основі рідкісноземельних металів",
+		"en": "Physicochemical Fundamentals of a Self-Propagating High-Temperature Synthesis Process of Fabrication of Alloys Based on Rare-Earth Metals",
+		"ru": "Физико-химические основы СВС-процесса получения сплавов на основе редкоземельных металлов"
+	},
+	"abstract": {
+		"ua": "Проведено аналізу областей застосування рідкісноземельних металів (РЗМ) для одержання високоміцного чавуну та конструкційних сталей. Розроблено фізико-хемічні основи промислової технології й устаткування для одержання стопів РЗМ на основі СВС-процесу методою позапічної металотермії. Одержано однорідні зливки багатокомпонентних стопів РЗМ для леґування чавуну та сталі.",
+		"en": "The application fields of rare-earth metals (REM) for the fabrication of high-strength cast iron and structural steel are analysed. The physical and chemical fundamentals of industrial process and equipment are developed for the production of REM master alloys, basing on self-propagating high-temperature synthesis (SHS) process and out-of-furnace thermal reduction methods. Homogeneous multicomponent REM-alloys’ ingots for cast iron and steel alloying are fabricated.",
+		"ru": "Проведён анализ областей применения редкоземельных металлов (РЗМ) для получения высокопрочного чугуна и конструкционных сталей. Разработаны физико-химические основы промышленной технологии и оборудование для получения сплавов РЗМ на основе СВС-процесса методом внепечной металлотермии. Получены однородные слитки многокомпонентных сплавов РЗМ для легирования чугуна и стали."
+	},
+	"keywords": {
+		"ua": "стопи РЗМ, відновне топлення, СВС-процес, фториди, оксиди, кальцій, алюміній, нікель, реактор, швидкість горіння",
+		"en": "REM alloys, reduction smelting, SHS process, fluorides, oxides, calcium, aluminium, nickel, reactor, burning rate",
+		"ru": "сплавы РЗМ, восстановительная плавка, СВС-процесс, фториды, оксиды, кальций, алюминий, никель, реактор, скорость горения"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. П. Мухачев", "en": "A. P. Mukhachev", "ru": "А. П. Мухачев"},
+			"OID": [255]
+		},
+		{
+			"AID": {"ua": "О. А. Харитонова", "en": "O. А. Kharytonova", "ru": "Е. А. Харитонова"},
+			"OID": [229]
+		}
+	],
+	"references": {
+		"count": 18,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "М. П. Браун, Микролегирование стали (Киев: Наукова думка: 1982).",
+				"tr":  "M. P. Braun, Mikrolegirovanie Stali (Kiev: Naukova Dumka: 1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. Е. Гользатейн, В. Г. Мизин, Модифицирование и микролегирование чугуна и стали (Москва: Металлургия: 1986).",
+				"tr":  "Ya. E. Gol'zatein and V. G., Mizin, Modifitsirovanie i Mikrolegirovanie Chuguna i Stali (Moscow: Metallurgiya: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. М. Савицкий, Редкие металлы и сплавы (Москва: Дом техники: 1959).",
+				"tr":  "E. M. Savitskii, Redkie Metally i Splavy (Moscow: Dom Tekhniki: 1959) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Prochovnick, Literature Search Relating to Metallurgical Applications of the Rare Earths (Pompton Plains: Davison Chemical Company: 1958), No. 1.",
+				"tr":  "A. Prochovnick, Literature Search Relating to Metallurgical Applications of the Rare Earths (Pompton Plains: Davison Chemical Company: 1958), No. 1."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Ажажа, Б. В. Борц, А. Ф. Ванжа, Н. Д. Рыбальченко, Э. П. Шевякова, Вопросы атомной науки и техники, № 1: 195 (2008).",
+				"tr":  "V. M. Azhazha, B. V. Borts, A. F. Vanzha, N. D. Rybal'chenko, and E. P. Shevyakova, Voprosy Atomnoy Nauki i Tekhniki, No. 1: 195 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. М. Савицкий, В. Ф. Терехова, И. В. Буров, И. А. Маркова, О. П. Наумкин, Сплавы редкоземельных элементов (Москва: Изд-во АН СССР: 1962).",
+				"tr":  "E. M. Savitskii, V. F. Terekhova, I. V. Burov, I. A. Markova, and O. P. Naumkin, Splavy Redkozemel'nykh Elementov (Moscow: Izd-vo AN USSR: 1962) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. А. Гшнейднер, Сплавы редкоземельных элементов (Москва: Мир: 1965) (пер. с англ.).",
+				"tr":  "K. A. Gschneidner, Jr., Splavy Redkozemel'nykh Elementov [Rare Earth Alloys] (Moscow: Mir: 1965) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Редкоземельные металлы (Ред. Ф. Х. Спеддинг, А. Х. Даан) (Москва: Металлургия: 1965) (пер. с англ.).",
+				"tr":  "Redkozemel'nye Metally [The Rare Earths] (Eds. F. H. Spedding and A. H. Daane) (Moscow: Metallurgiya: 1965) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. П. Соколов, Л. И. Качур, Кальцийтермическое восстановление фторидов редкоземельных металлов (Москва: Цветные металлы: 1994).",
+				"tr":  "N. P. Sokolov and L. I. Kachur, Kaltsiytermicheskoe Vosstanovlenie Ftoridov Redkozemelnykh Metallov (Moscow: Tsvetnye Metally: 1994) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Алюмотермия (Ред. Н. П. Лякишев) (Москва: Металлургия: 1978).",
+				"tr":  "Alyumotermiya (Ed. N. P. Lyakishev) (Moscow: Metallurgiya: 1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Н. Мурач, У. Д. Веретин, Внепечная металлотермия (Москва: Металлургиздат: 1956).",
+				"tr":  "N. N. Murach and U. D. Veretin, Vnepechnaya Metallotermiya (Moscow: Metallurgiya: 1956) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Подергин, Г. В. Самсонов, Изв. АН СССР. Металлургия и горное дело, № 5: 50 (1963).",
+				"tr":  "V. A. Podergin and G. V. Samsonov, Izv. AN USSR. Metallurgiya i Gornoe Delo, No. 5: 50 (1963) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Л. Левашов, А. С. Рогачев, В. В. Курбаткина, Ю. М. Максимов, В. И. Юхвид, Перспективные материалы и технологии самораспространяющегося высокотемпературного синтеза: Учебное пособие (Москва: Изд. дом МИСиС: 2011).",
+				"tr":  "E. L. Levashov, A. S. Rogachev, V. V. Kurbatkina, Yu. M. Maksimov, and V. I. Yukhvid, Perspektivnye Materialy i Tehnologii Samorasprostranyayushchegosya Vysokotemperaturnogo Sinteza: Uchebnoe Posobie (Moscow: Izd. Dom MISiS: 2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. Кубашевский, С. Б. Олкокк, Металлургическая термохимия (Москва: Металлургия: 1982) (пер. с англ.).",
+				"tr":  "O. Kubaschewski and C. B. Alcock, Metallurgicheskaya Termokhimiya [Metallurgical Thermochemistry] (Moscow: Metallurgiya: 1982) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Киреев, Методы практических расчётов в термодинамике химических реакций (Москва: Химия: 1970).",
+				"tr":  "V. A. Kireev, Metody Prakticheskikh Raschetov v Termodinamike Khimicheskikh Reaktsiy (Moscow: Khimiya 1970) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. П. Галкин, Термодинамические свойства неорганических фторидов (Москва: Атомиздат: 1972).",
+				"tr":  "N. P. Galkin, Termodinamicheskie Svoystva Neorganicheskikh Ftoridov (Moscow: Atomizdat: 1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Е. Уикс, Ф. Е. Блок, Термодинамические свойства 65 элементов, их окислов, галогенидов, карбидов и нитридов (Москва: Металлургия: 1965) (пер. с англ.).",
+				"tr":  "C. E. Wicks and F. E. Block, Termodinamicheskie Svoystva 65 Elementov, Ikh Oksidov, Galogenidov, Karbidov i Nitridov [Thermodynamic Properties of 65 Elements—Their Oxides, Halides, Carbides, and Nitrides] (Moscow: Metallurgiya: 1965) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Л. Сафронов, Тезисы докладов «Всесоюзного симпозиума по химии неорганических фторидов» (27–30 июня, 1978) (Днепропетровск: Наука: 1978), с. 264.",
+				"tr":  "V. L. Safronov, Tezisy Dokladov 'Vsesoyuznogo Simpoziuma po Khimii Neorganicheskikh Ftoridov' (June 27–30, 1978) (Dnepropetrovsk: Nauka: 1978), p. 264 (in Russian)."
+			}
+		]
+	}
+}

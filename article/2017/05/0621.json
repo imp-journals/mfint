@@ -1,0 +1,204 @@
+{
+	"_id":    "MFiNT.39.05.0621",
+	"year":   2017,
+	"volume": 39,
+	"issue":  5,
+	"pages":  [621,632],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["23.09.2016"],
+	"PACS":   "61.05.Qr, 61.66.Dk, 62.20.de, 65.40.gd, 76.80.+y, 81.05.Bx",
+	"title":   {
+		"ua": "Мессбаверівське й ультразвукове дослідження литих високоентропійних стопів Al$_x$FeNiCoCuCr",
+		"en": "Mössbauer and Ultrasonic Study of the As-Cast High-Entropy Al$_x$CuCrCoNiFe Alloys",
+		"ru": "Мёссбауэровское и ультразвуковое исследование литых высокоэнтропийных сплавов Al$_x$FeCoNiCuCr"
+	},
+	"abstract": {
+		"ua": "Досліджено параметри надтонкої взаємодії, акустичні та пружні властивості високоентропійних стопів (ВЕС) Al$_{x}$CuCrCoNiFe ($x$ = 1, 1,8) у литому стані за допомогою месcбаверівської спектроскопії, рентґенівської дифрактометрії та надточної ультразвукової спектроскопії. Виявлено широкі розподіли надтонких магнетних полів на ядрах Феруму (5,0–36,3 Тл) й ізомерних зсувів (-0,15–+0,28 мм/с) у ВЕС, які є результатом багатофазности стану та неоднорідности близького атомового порядку у фазах. Показано, що литі ВЕС Al$_{x}$CuCrCoNiFe являють собою акустично та пружньо неоднорідні системи. Усереднені модулі пружности литого еквіатомового ВЕС ($\\langle E\\rangle$ = 172,8 ГПа, $\\langle G\\rangle$ = 65,3 ГПа, $\\langle B\\rangle$ = 161,8 ГПа) та Дебайова температура ($\\langle\\Theta_{D}\\rangle$ = 436 К) перевищують аналогічні значення для чистих металів, що входять до складу ВЕС. Пуассонів коефіцієнт $\\langle\\eta\\rangle$ = 0,312–0,322, а відношення $\\langle B\\rangle$/$\\langle G\\rangle$ = 2,321–2,477. Відхил від еквіатомового складу за Al ($x$ = 1,8) приводить до перерозподілу s-електронних спінової та зарядової густин на ядрах атомів Феруму, збільшує модулі пружности та Дебайову температуру приблизно на 4–5%.",
+		"en": "Determination of the hyperfine-interaction parameters, acoustic and elastic properties of the high-entropy Al$_{x}$CuCrCoNiFe alloys (HEAs) ($x$ = 1, 1.8) in the as-cast state is carried out with the use of Mössbauer spectroscopy, x-ray diffractometry and high-precision ultrasonic techniques. Wide distributions of both the hyperfine-magnetic fields on iron nuclei (5.0–36.3 T) and the isomer shifts (-0.15–+0.28 mm/s) are detected in the HEAs that is result of multiphase state and inhomogeneous short-range order in the phases. As shown, the as-cast Al$_{x}$CuCrCoNiFe HEAs are acoustically and elastically inhomogeneous systems. Mean elastic moduli of the as-cast equimolar HEAs ($\\langle E\\rangle$ = 172.8 GPa, $\\langle G\\rangle$ = 65.3 GPa, $\\langle B\\rangle$ = 161.8 GPa) and the Debye temperature ($\\langle\\Theta_{D}\\rangle$ = 436 K) exceed ones for the elemental metals composing HEAs. There are the Poisson’s ratio $\\langle\\eta\\rangle$ = 0.312–0.322 and the ratio $\\langle B\\rangle$/$\\langle G\\rangle$ = 2.321–2.477. Deviation from equimolar content of Al ($x$ = 1.8) results in redistribution of the spin and charge s-electron densities near iron nuclei, increases the elastic moduli and the Debye temperature by approximately 4–5%.",
+		"ru": "Исследованы параметры сверхтонкого взаимодействия, акустические и упругие свойства высокоэнтропийных сплавов (ВЭС) Al$_{x}$CuCrCoNiFe ($x$ = 1, 1,8) в литом состоянии с помощью мёссбауэровской спектроскопии, рентгеновской дифрактометрии и сверхточной ультразвуковой спектроскопии. Обнаружены широкие распределения сверхтонких магнитных полей на ядрах железа (5,0–36,3 Тл) и изомерных сдвигов (-0.15–+0.28 мм/с) в ВЭС, которые являются результатом многофазного состояния и неоднородности ближнего атомного порядка в фазах. Показано, что литые ВЭС Al$_{x}$CuCrCoNiFe представляют собой акустически и упруго неоднородные системы. Усредненные модули упругости литого эквиатомного ВЭС ($\\langle E\\rangle$ = 172,8 ГПа, $\\langle G\\rangle$ = 65,3 ГПа, $\\langle B\\rangle$ = 161,8 ГПа) и температура Дебая ($\\langle\\Theta_{D}\\rangle$ = 436 К) превышают аналогичные значения для чистых металлов, входящих в состав ВЭС. Коэффициент Пуассона $\\langle\\eta\\rangle$ = 0,312–0,322, а отношение $\\langle B\\rangle$/$\\langle G\\rangle$ = 2,321–2,477. Отклонение от эквиатомного состава по Al ($x$ = 1,8) приводит к перераспределению s-электронных спиновой и зарядовой плотностей на ядрах атомов железа, увеличивает модули упругости и температуру Дебая примерно на 4–5%."
+	},
+	"keywords": {
+		"ua": "високоентропійний стоп, ультразвук, пружні властивості, анізотропія пружности, Мессбаверів ефект",
+		"en": "high-entropy alloys, ultrasonics, elastic properties, elastic anisotropy, Mössbauer effect",
+		"ru": "высокоэнтропийный сплав, ультразвук, упругие свойства, анизотропия упругости, эффект Мёссбауэра"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. М. Надутов", "en": "V. M. Nadutov", "ru": "В. М. Надутов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. І. Запорожець", "en": "O. I. Zaporozhets", "ru": "О. И. Запорожец"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. Ю. Макаренко", "en": "S. Yu. Makarenko", "ru": "С. Ю. Макаренко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. О. Дордієнко", "en": "M. O. Dordienko", "ru": "Н. А. Дордиенко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. А. Михайловський", "en": "V. A. Mikhaylovsky", "ru": "В. А. Михайловский"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 30,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "S. Ranganathan, Curr. Sci., 85, Iss. 5: 1404 (2003).",
+				"tr":  "S. Ranganathan, Curr. Sci., 85, Iss. 5: 1404 (2003)."
+			},
+			{
+				"doi": "10.1002/adem.200300567",
+				"or":  "J.-W. Yeh, S.-K. Chen, S.-J. Lin, J.-Y. Gan, T.-S. Chin, T.-T. Shun, C.-H. Tsau, and S.-Y. Chang, Adv. Eng. Mater., 6, Iss. 5: 299 (2004).",
+				"tr":  "J.-W. Yeh, S.-K. Chen, S.-J. Lin, J.-Y. Gan, T.-S. Chin, T.-T. Shun, C.-H. Tsau, and S.-Y. Chang, Adv. Eng. Mater., 6, Iss. 5: 299 (2004)."
+			},
+			{
+				"doi": "10.1016/j.matlet.2006.03.140",
+				"or":  "Ch.-Ch. Tung, J.-W. Yeh, T.-T. Shun, S.-K. Chen, Yu.-Sh. Huang, and H.-Ch. Chen, Mater. Lett., 61, Iss. 1: 1(2007).",
+				"tr":  "Ch.-Ch. Tung, J.-W. Yeh, T.-T. Shun, S.-K. Chen, Yu.-Sh. Huang, and H.-Ch. Chen, Mater. Lett., 61, Iss. 1: 1(2007)."
+			},
+			{
+				"doi": "10.1007/s11661-005-0283-0",
+				"or":  "C.-J. Tong, Y.-L. Chen, S.-K. Chen, J.-W. Yeh, T.-T. Shun, C.-H. Tsau, S.-J. Lin, and S.-Y. Chang, Metall. Mater. Trans. A, 36: 881 (2005).",
+				"tr":  "C.-J. Tong, Y.-L. Chen, S.-K. Chen, J.-W. Yeh, T.-T. Shun, C.-H. Tsau, S.-J. Lin, and S.-Y. Chang, Metall. Mater. Trans. A, 36: 881 (2005)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2010.09.023",
+				"or":  "S. Singh, N. Wanderka, B.S. Murty, U. Glatzel, and J. Banhart, Acta Mater., 59, Iss. 1: 182 (2011).",
+				"tr":  "S. Singh, N. Wanderka, B.S. Murty, U. Glatzel, and J. Banhart, Acta Mater., 59, Iss. 1: 182 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "M. V. Ivchenko, V. G. Pushyn, and N. Wanderka, J. Tech. Phys., 84: 57 (2014).",
+				"tr":  "M. V. Ivchenko, V. G. Pushyn, and N. Wanderka, J. Tech. Phys., 84: 57 (2014)."
+			},
+			{
+				"doi": "10.1134/S0031918X13060069",
+				"or":  "M. V. Ivchenko, V. G. Pushyn, A. N. Uksusnikova, N. Wanderka, and N. I. Kourov, Phys. Metals Metallogr., 114, Iss. 6: 514 (2013).",
+				"tr":  "M. V. Ivchenko, V. G. Pushyn, A. N. Uksusnikova, N. Wanderka, and N. I. Kourov, Phys. Metals Metallogr., 114, Iss. 6: 514 (2013)."
+			},
+			{
+				"doi": "10.1016/j.intermet.2011.01.004",
+				"or":  "O. N. Senkov, G. B. Wilks, J. M. Scott, and D. B. Miracle, Intermetallics, 19, Iss. 5: 698 (2011).",
+				"tr":  "O. N. Senkov, G. B. Wilks, J. M. Scott, and D. B. Miracle, Intermetallics, 19, Iss. 5: 698 (2011)."
+			},
+			{
+				"doi": "10.1016/j.mseb.2009.05.024",
+				"or":  "H.-P. Chou, Y.-S. Chang, S.-K. Chen, and J.-W. Yeh, Mater. Sci. Eng. B, 163, Iss. 3: 184 (2009).",
+				"tr":  "H.-P. Chou, Y.-S. Chang, S.-K. Chen, and J.-W. Yeh, Mater. Sci. Eng. B, 163, Iss. 3: 184 (2009)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2010.10.210",
+				"or":  "Y.-F. Kao, S.-K. Chen, T.-J. Chen, P.-C. Chu, J.-W. Yeh, and S.-J. Lin, J. Alloys Compd., 509, Iss. 5: 1607 (2011).",
+				"tr":  "Y.-F. Kao, S.-K. Chen, T.-J. Chen, P.-C. Chu, J.-W. Yeh, and S.-J. Lin, J. Alloys Compd., 509, Iss. 5: 1607 (2011)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2012.12.002",
+				"or":  "W. H. Liu, Y. Wu, J. Y. He, T. G. Nieh, and Z. P. Lu, Scr. Mater., 68, Iss. 7: 526 (2013).",
+				"tr":  "W. H. Liu, Y. Wu, J. Y. He, T. G. Nieh, and Z. P. Lu, Scr. Mater., 68, Iss. 7: 526 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "S. A. Firstov, V. F. Gorban, N. A. Krapivka, E. P. Pechkovsky, N. I. Danilenko, and M. V. Karpets, Modern Problems of Physical Materials Science, 17: 126 (2008) (in Russian).",
+				"tr":  "S. A. Firstov, V. F. Gorban, N. A. Krapivka, E. P. Pechkovsky, N. I. Danilenko, and M. V. Karpets, Modern Problems of Physical Materials Science, 17: 126 (2008) (in Russian)."
+			},
+			{
+				"doi": "10.1149/2.056111jes",
+				"or":  "M.-H. Tsai, C.-W. Wang, C.-W. Tsai, W.-J. Shen, J.-W. Yeh, J.-Y. Gan, and W.-W. Wu, J. Electrochem. Soc., 158, Iss. 11: 1161 (2011).",
+				"tr":  "M.-H. Tsai, C.-W. Wang, C.-W. Tsai, W.-J. Shen, J.-W. Yeh, J.-Y. Gan, and W.-W. Wu, J. Electrochem. Soc., 158, Iss. 11: 1161 (2011)."
+			},
+			{
+				"doi": "10.1007/s11661-005-0218-9",
+				"or":  "C.-J. Tong, Y.-L. Chen, S.-K. Chen, J.-W. Yeh, T.-T. Shun, C.-H. Tsau, S.-J. Lin, and S.-Y. Chang, Metall. and Mat. Trans. A, 36, Iss. 5: 1263 (2005).",
+				"tr":  "C.-J. Tong, Y.-L. Chen, S.-K. Chen, J.-W. Yeh, T.-T. Shun, C.-H. Tsau, S.-J. Lin, and S.-Y. Chang, Metall. and Mat. Trans. A, 36, Iss. 5: 1263 (2005)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2009.10.088",
+				"or":  "K.-Y. Tsai, M.-H. Tsai, J.-W. Yeh, and C.-C. Yang, J. Alloys Compd., 490, Iss. 1–2: 160 (2010).",
+				"tr":  "K.-Y. Tsai, M.-H. Tsai, J.-W. Yeh, and C.-C. Yang, J. Alloys Compd., 490, Iss. 1–2: 160 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "A. V. Kuznetsov, G. A. Salishchev, O. N. Senkov, N. D. Stepanov, and D. G. Shaysultanov, Nauch. Vedom. Belgorod. Gosud. Univers. Ser.: Matemat., Fiz., 27, Iss. 11 (130): 191 (2012) (in Russian).",
+				"tr":  "A. V. Kuznetsov, G. A. Salishchev, O. N. Senkov, N. D. Stepanov, and D. G. Shaysultanov, Nauch. Vedom. Belgorod. Gosud. Univers. Ser.: Matemat., Fiz., 27, Iss. 11 (130): 191 (2012) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.wear.2005.12.008",
+				"or":  "J.-M. Wu, S.-J. Lin, J.-W. Yeh, S.-K. Chen, Y.-S. Huang, and H.-C. Chen, WEAR, 261, Iss. 5–6: 513 (2006).",
+				"tr":  "J.-M. Wu, S.-J. Lin, J.-W. Yeh, S.-K. Chen, Y.-S. Huang, and H.-C. Chen, WEAR, 261, Iss. 5–6: 513 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "S. A. Firstov, S. T. Mileyko, V. F. Gorban, N. A. Krapivka, and E. P. Pechkovsky, Compos. i Nanostr., 6, Iss. 6: 3 (2014) (in Russian).",
+				"tr":  "S. A. Firstov, S. T. Mileyko, V. F. Gorban, N. A. Krapivka, and E. P. Pechkovsky, Compos. i Nanostr., 6, Iss. 6: 3 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.intermet.2014.11.005",
+				"or":  "A. Haglund, M. Koehler, D. Catoor, E.P. George, and V. Keppens, Intermetallics, 58: 62 (2015).",
+				"tr":  "A. Haglund, M. Koehler, D. Catoor, E.P. George, and V. Keppens, Intermetallics, 58: 62 (2015)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2014.03.050",
+				"or":  "S. G. Ma, P. K. Liaw, M. C. Gao, J. W. Qiao, Z. H. Wang, and Y. Zhang, J. Alloys Compd., 604: 331 (2014).",
+				"tr":  "S. G. Ma, P. K. Liaw, M. C. Gao, J. W. Qiao, Z. H. Wang, and Y. Zhang, J. Alloys Compd., 604: 331 (2014)."
+			},
+			{
+				"doi": "10.15407/mfint.37.07.0987",
+				"or":  "V. M. Nadutov, S. Yu. Makarenko, and Ye. O. Svystunov, Metallofiz. Noveishie Tekhnol., 37, No. 7: 987 (2015).",
+				"tr":  "V. M. Nadutov, S. Yu. Makarenko, and Ye. O. Svystunov, Metallofiz. Noveishie Tekhnol., 37, No. 7: 987 (2015)."
+			},
+			{
+				"doi": "10.1002/mawe.201600489",
+				"or":  "V. M. Nadutov, A. V. Proshak, S. Y. Makarenko, V. Y. Panarin, and M. Y. Svavil’nyj, Mater. Sci. Eng. Technol., 47, Iss. 2–3: 272 (2016).",
+				"tr":  "V. M. Nadutov, A. V. Proshak, S. Y. Makarenko, V. Y. Panarin, and M. Y. Svavil'nyj, Mater. Sci. Eng. Technol., 47, Iss. 2–3: 272 (2016)."
+			},
+			{
+				"doi": "10.1016/j.diamond.2009.01.041",
+				"or":  "A. S. Osipov, S. Nauyoks, T. W. Zebra, and O. I. Zaporozhets, Diamond and Relat. Mater., 18, Iss. 9: 1061 (2009).",
+				"tr":  "A. S. Osipov, S. Nauyoks, T. W. Zebra, and O. I. Zaporozhets, Diamond and Relat. Mater., 18, Iss. 9: 1061 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "O. I. Zaporozhets, S. A. Kotrechko, N. A. Dordienko, V. A. Mykhailovsky, and A. V. Zatsarnaya, Problems of Atomic Science and Technology, 2 (96): 197 (2015).",
+				"tr":  "O. I. Zaporozhets, S. A. Kotrechko, N. A. Dordienko, V. A. Mykhailovsky, and A. V. Zatsarnaya, Problems of Atomic Science and Technology, 2 (96): 197 (2015)."
+			},
+			{
+				"doi": "10.1080/14786440808520496",
+				"or":  "S. F. Pugh, Philos. Magazine, 45, Iss. 367: 823 (1954).",
+				"tr":  "S. F. Pugh, Philos. Magazine, 45, Iss. 367: 823 (1954)."
+			},
+			{
+				"doi": "",
+				"or":  "V. M. Nadutov, S. G. Kosintsev, Ye. O. Svystunov, V. A. Tatarenko, and T. V. Efimova, Metallofiz. Noveishie Tekhnol., 28, Special Issue: 39 (2006).",
+				"tr":  "V. M. Nadutov, S. G. Kosintsev, Ye. O. Svystunov, V. A. Tatarenko, and T. V. Efimova, Metallofiz. Noveishie Tekhnol., 28, Special Issue: 39 (2006)."
+			},
+			{
+				"doi": "10.15407/mfint.36.10.1327",
+				"or":  "V. M. Nadutov, S. Yu. Makarenko, P. Yu. Volosevych, and V. P. Zalutskii, Metallofiz. Noveishie Tekhnol., 36, No. 10: 1327 (2014).",
+				"tr":  "V. M. Nadutov, S. Yu. Makarenko, P. Yu. Volosevych, and V. P. Zalutskii, Metallofiz. Noveishie Tekhnol., 36, No. 10: 1327 (2014)."
+			},
+			{
+				"doi": "10.1134/S0031918X15030096",
+				"or":  "V. M. Nadutov, S. Yu. Makarenko, and P. Yu. Volosevich, Phys. Metals Metallogr., 116, Iss. 5: 439 (2015).",
+				"tr":  "V. M. Nadutov, S. Yu. Makarenko, and P. Yu. Volosevich, Phys. Metals Metallogr., 116, Iss. 5: 439 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "W. P. Mason, Physical Acoustics, Principles and Methods (New York–London: Academic Press: 1966).",
+				"tr":  "W. P. Mason, Physical Acoustics, Principles and Methods (New York–London: Academic Press: 1966)."
+			},
+			{
+				"doi": "",
+				"or":  "I. N. Frantsevich, F. F. Voronov, and S. A. Bakuta, Uprugie Postoyannye i Moduli Uprugosti Metallov i Nemetallov (Kiev: Naukova Dumka: 1982) (in Russian).",
+				"tr":  "I. N. Frantsevich, F. F. Voronov, and S. A. Bakuta, Uprugie Postoyannye i Moduli Uprugosti Metallov i Nemetallov (Kiev: Naukova Dumka: 1982) (in Russian)."
+			}
+		]
+	}
+}

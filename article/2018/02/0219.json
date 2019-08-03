@@ -1,0 +1,155 @@
+{
+	"_id":    "MFiNT.40.02.0219",
+	"year":   2018,
+	"volume": 40,
+	"issue":  2,
+	"pages":  [219,234],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["24.10.2017"],
+	"PACS":   "61.72.Hh, 62.20.F-, 62.40.+i, 65.40.De, 81.40.Cd, 81.40.Lm, 83.60.La",
+	"title":   {
+		"ua": "Термоактиваційна аналіза температурної залежности напруження плинности в твердих розчинах з ОЦК-ґратницею",
+		"en": "Thermoactivation Analysis of Temperature Dependence of a Flow Stress in Solid Solutions with a B.C.C. Lattice",
+		"ru": "Термоактивационный анализ температурной зависимости напряжения течения в твёрдых растворах с ОЦК-решёткой"
+	},
+	"abstract": {
+		"ua": "Проведено порівняльну аналізу температурних залежностей межі плинности полікомпонентних і бінарних твердих розчинів з ОЦК-ґратницею (AlCrFeCoNi, AlTiVCrNbMo, Ti$_{25}$Zr$_{25}$Hf$_{25}$Nb$_{12,5}$Ta$_{12,5}$, VNbMoTaW, Fe–Cr, Fe–Mo, Fe–W, Cr–Fe), а також деяких чистих ОЦК-металів. Методою термоактиваційної аналізи розраховано значення енергії активації руху дислокацій та активаційного об’єму. Показано, що, як для бінарних, так і для полікомпонентних твердих розчинів, характерним є збільшення атермічної компоненти напруження плинности в порівнянні з чистими ОЦК-металами. При цьому, у порівнянні з чистими металами, полікомпонентні тверді розчини демонструють посилення термічної складової напруження плинности, в той час як для бінарних ОЦК-стопів відбувається її послаблення. Обговорюється природа цього ефекту. Показано, що високе атермічне твердорозчинне зміцнення полікомпонентних твердих розчинів може бути пов’язане зі зміною Бюрґерсового вектора уздовж дислокаційної лінії (як за довжиною, так і за напрямком) і появою компоненти, перпендикулярної до площини ковзання. Припускається, що посилення термічної складової температурної залежности межі плинности полікомпонентних ОЦК-твердих розчинів зумовлене наявністю високої концентрації точок закріплення термічно активованого дислокаційного відрізку атомами елементів, які мають високий рівень розмірно-пружньої невідповідности в порівнянні з середнім значенням для стопу.",
+		"en": "Comparative analysis of the yield-stress temperature dependences for polycomponent and binary solid solutions with a b.c.c. lattice (AlCrFeCoNi, AlTiVCrNbMo, Ti$_{25}$Zr$_{25}$Hf$_{25}$Nb$_{12.5}$Ta$_{12.5}$, VNbMoTaW, Fe–Cr, Fe–Mo, Fe–W, Cr–Fe), and some pure b.c.c. metals is carried out. Using the thermoactivation analysis, the values of the activation energy of dislocation movement and the activation volume are calculated. As shown, for the binary and polycomponent solid solutions, an increase in athermal component of a flow stress is characteristic in comparison with pure b.c.c. metals. In this case, in comparison with pure metals, multicomponent solid solutions demonstrate an increasing of the thermal component, while for binary b.c.c. alloys, there is a weakening of the temperature dependence of a flow stress. The nature of this effect is discussed. As shown, high athermal solid-solution hardening of polycomponent solid solutions can be associated with a change of the Burgers vector (by both the length and the direction) along the dislocation line and an appearance of a component perpendicular to the glide plane. The observed increase of the flow-stress thermal component in polycomponent b.c.c. solid solutions is presumably due to the presence of a high concentration of points of fixation of the thermally activated dislocation segment by atoms of elements, which have a high level of size-elastic discrepancy in comparison with an average value for the alloy.",
+		"ru": "Проведён сравнительный анализ температурных зависимостей предела текучести поликомпонентных и бинарных твёрдых растворов с ОЦК-ре-шёткой (AlCrFeCoNi, AlTiVCrNbMo, Ti$_{25}$Zr$_{25}$Hf$_{25}$Nb$_{12,5}$Ta$_{12,5}$, VNbMoTaW, Fe–Cr, Fe–Mo, Fe–W, Cr–Fe), а также некоторых чистых ОЦК-металлов. Методом термоактивационного анализа вычислены значения энергии активации движения дислокаций и активационного объёма. Показано, что, как для бинарных, так и для поликомпонентных твёрдых растворов, характерно увеличение атермической компоненты напряжения течения в сравнении с чистыми ОЦК-металлами. При этом, в сравнении с чистыми металлами, поликомпонентные твёрдые растворы демонстрируют усиление термической составляющей, в то время как для бинарных ОЦК-спла¬вов имеет место ослабление температурной зависимости напряжения течения. Обсуждается природа этого эффекта. Показано, что высокое атермическое твёрдорастворное упрочнение поликомпонентных твёрдых растворов может быть связано с изменением вектора Бюргерса вдоль дислокационной линии (как по длине, так и по направлению) и появлением составляющей, перпендикулярной плоскости скольжения. Наблюдаемое усиление термической составляющей напряжения течения в поликомпонентных ОЦК-твёрдых растворах предположительно обусловлено наличием высокой концентрации точек закрепления термически активируемого дислокационного отрезка атомами элементов, которые имеют высокий уровень размерно-упругого несоответствия по сравнению со средним значением для сплава."
+	},
+	"keywords": {
+		"ua": "критичне напруження зсуву, межа плинности, енергія активації руху дислокацій, активаційний об’єм",
+		"en": "critical shear stress, yield stress, activation energy for dislocation motion, activation volume",
+		"ru": "критическое напряжение сдвига, предел текучести, энергия активации движения дислокаций, активационный объём"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. О. Фірстов", "en": "S. O. Firstov", "ru": "С. А. Фирстов"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "Т. Г. Рогуль", "en": "T. G. Rogul", "ru": "Т. Г. Рогуль"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "М. О. Крапівка", "en": "M. O. Krapivka", "ru": "Н. А. Крапивка"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "С. І. Чугунова", "en": "S. I. Chugunova", "ru": "С. И. Чугунова"},
+			"OID": [2]
+		}
+	],
+	"references": {
+		"count": 21,
+		"list":  [
+			{
+				"doi": "10.15407/mfint.39.01.0033",
+				"or":  "С. А. Фирстов, Т. Г. Рогуль, Металлофиз. новейшие технол., 39, № 1: 33 (2017).",
+				"tr":  "S. O. Firstov and T. G. Rogul, Metallofiz. Noveishie Tekhnol., 39, No. 1: 33 (2017) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "C. А. Фирстов, Т. Г. Рогуль, Н. А. Крапивка, С. С. Пономарев, В. Н. Ткач, В. В. Ковыляев, В. Ф. Горбань, М. В. Карпец, Деформация и разрушение материалов, № 2: 9 (2013).",
+				"tr":  "C. A. Firstov, T. G. Rogul', N. A. Krapivka, S. S. Ponomarev, V. N. Tkach, V. V. Kovylyaev, V. F. Gorban', and M. V. Karpets, Deformatsiya i Razrushenie Materialov, No. 2: 9 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Фирстов, В. Ф. Горбань, Н. А. Крапивка, Н. И. Даниленко, В. Н. Назаренко, Вопросы атомной науки и техники (ВАНТ), № 2 (96): 178 (2015).",
+				"tr":  "S. A. Firstov, V. F. Gorban', N. A. Krapivka, N. I. Danilenko, and V. N. Nazarenko, Voprosy Atomnoy Nauki i Tekhniki (VANT), No. 2 (96): 178 (2015) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.intermet.2011.01.004",
+				"or":  "O. N. Senkov, G. B. Wilks, J. M. Scott, and D. B. Miracle, Intermetallics, 19: 698 (2011).",
+				"tr":  "O. N. Senkov, G. B. Wilks, J. M. Scott, and D. B. Miracle, Intermetallics, 19: 698 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "J. R. Stephens and W. R. Witzke, NASA Scientific and Technical Publication (Washington, D. C.: Lewis Research Center National Aeronautics and Space Administration: 1976).",
+				"tr":  "J. R. Stephens and W. R. Witzke, NASA Scientific and Technical Publication (Washington, D. C.: Lewis Research Center National Aeronautics and Space Administration: 1976)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Мильман, В. И. Трефилов, О физической природе температурной зависимости предела текучести. Механизм разрушения металлов (Киев: Наукова думка: 1966), c. 59.",
+				"tr":  "Yu. V. Mil'man and V. I. Trefilov, O Fizicheskoy Prirode Temperaturnoy Zavisimosti Predela Tekuchesti. Mekhanizm Razrusheniya Metallov (Kiev: Naukova Dumka: 1966), p. 59 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Tabor, The Hardness of Metals (Oxford, UK: Clarendon Press.: 1951), p. 102.",
+				"tr":  "D. Tabor, The Hardness of Metals (Oxford, UK: Clarendon Press.: 1951), p. 102."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Трефилов, Ю. В. Мильман, С. А. Фирстов, Физические основы прочности тугоплавких металлов (Киев: Наукова думка: 1975).",
+				"tr":  "V. I. Trefilov, Yu. V. Mil'man, and S. A. Firstov, Fizicheskie Osnovy Prochnosti Tugoplavkikh Metallov (Kiev: Naukova Dumka: 1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. В. Савицкий, Г. С. Бурханов, Металловедение тугоплавких металлов и сплавов (Москва: Наука: 1967).",
+				"tr":  "E. V. Savitskiy and G. S. Burkhanov, Metallovedenie Tugoplavkikh Metallov i Splavov (Moscow: Nauka: 1967) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. Титц, Дж. Уилсон, Тугоплавкие металлы и сплавы (Москва: Металлургия: 1969) (пер. с англ.).",
+				"tr":  "T. E. Tietz and J. W. Wilson, Tugoplavkie Metally i Splavy [Refractory Metals and Alloys] (Moscow: Metallurgiya: 1969) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Физическое металловедение (Ред. Р. У. Кан, П. Хаазен) (Москва: Металлургия: 1987), т. 3 (пер. с англ.).",
+				"tr":  "Fizicheskoe Metallovedenie (Eds. R. W. Cahn and P. Haasen) (Moscow: Metallurgiya: 1987), vol. 3 (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "The Periodic Table of the Elements, WebElements: http://www.webelements.com",
+				"tr":  "The Periodic Table of the Elements, WebElements: http://www.webelements.com"
+			},
+			{
+				"doi": "",
+				"or":  "Т. Гудцов, И. Г. Лозинский, Журнал технической физики, № 8 (22): 1249 (1952).",
+				"tr":  "N. T. Gudtsov and I. G. Lozinskiy, Zhurnal Tekhnicheskoy Fiziki, No. 8 (22): 1249 (1952) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Мильман, О. Е. Скляров, А. П. Удовенко, Труды Ин-та метрологии СССР, вып. 91 (151): 167 (1967).",
+				"tr":  "Yu. V. Milman, O. E. Sklyarov, and A. P. Udovenko, Trudy Instituta Metrologii SSSR, Iss. 91 (151): 167 (1967) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "W. C. Leslie, Metal. Tans., 3, No. 1: 5 (1972).",
+				"tr":  "W. C. Leslie, Metal. Tans., 3, No. 1: 5 (1972)."
+			},
+			{
+				"doi": "10.1016/0079-6425(79)90003-3",
+				"or":  "E. Pink and R. J. Arsenault, Prog. Mater. Sci., 24: 1 (1980).",
+				"tr":  "E. Pink and R. J. Arsenault, Prog. Mater. Sci., 24: 1 (1980)."
+			},
+			{
+				"doi": "10.1007/BF02646616",
+				"or":  "D. Leeman and M. E. Fine, Metall. Trans., 5, No. 6: 1331 (1974).",
+				"tr":  "D. Leeman and M. E. Fine, Metall. Trans., 5, No. 6: 1331 (1974)."
+			},
+			{
+				"doi": "10.1016/0022-5088(75)90033-8",
+				"or":  "J. R. Stephens and W. R. Witzke, J. Less-Common Metals, 41: 265 (1975).",
+				"tr":  "J. R. Stephens and W. R. Witzke, J. Less-Common Metals, 41: 265 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Барабаш, Ю. Н. Коваль, Структура и свойства металлов и сплавов (Киев: Наукова думка: 1986).",
+				"tr":  "O. M. Barabash and Yu. N. Koval', Struktura i Svoystva Metallov i Splavov (Kiev: Naukova Dumka: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Фирстов, Т. Г. Рогуль, Н. А. Крапивка, С. С. Пономарев, В. В. Ковыляев, Н. И. Даниленко, Н. Д. Бега, В. И. Даниленко, С. И. Чугунова, Порошковая металлургия, № 3/4 (508): 127 (2016).",
+				"tr":  "S. A. Firstov, T. G. Rogul', N. A. Krapivka, S. S. Ponomarev, V. V. Kovylyaev, N. I. Danilenko, N. D. Bega, V. I. Danilenko, and S. I. Chugunova, Poroshkovaya Metallurgiya, Nos. 3/4 (508): 127 (2016) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Конрад, Структура и механические свойства металлов (Москва: Металлургия: 1967) (пер. с англ.).",
+				"tr":  "H. Conrad, Struktura i Mekhanicheskie Svoystva Metallov [Structure and Mechanical Properties of Metals] (Moscow: Metallurgiya: 1967) (Russian translation)."
+			}
+		]
+	}
+}

@@ -1,0 +1,102 @@
+{
+	"_id":    "MFiNT.38.06.0783",
+	"year":   2016,
+	"volume": 38,
+	"issue":  6,
+	"pages":  [783,793],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["28.04.2016"],
+	"PACS":   "46.55.+d, 62.20.Qp, 68.35.Ct, 68.35.Gy, 68.55.J-, 81.40.Lm, 81.40.Pq",
+	"title":   {
+		"ua": "Вплив навантаження під час обкочування на структуру та зносотривкість титанового стопу ВТ22",
+		"en": "Load Influence at Rolling on Structure and Wear Resistance of a Titanium Alloy VT22",
+		"ru": "Влияние нагрузки при обкатывании на структуру и износостойкость титанового сплава ВТ22"
+	},
+	"abstract": {
+		"ua": "Досліджено вплив обкочування на структуру та зносостійкість титанового стопу ВТ22. Показано, що збільшення навантаження під час деформаційного оброблення збільшує рівень приповерхневого зміцнення та підвищує якість поверхні. Експериментально встановлено, що обкочування стопу ВТ22 призводить до подрібнення зерен $\\alpha$-фази та збільшення густини нерухомих дислокацій у приповерхневих шарах матеріялу. Показано, що найкращим комплексом триботехнічних характеристик володіє пара тертя ВТ22—БрАЖН 10-4-4, диск титанового стопу якої обкочували при навантаженні у 200 Н.",
+		"en": "Effect of the rolling on the VT22 titanium alloy structure and wear resistance is investigated. As shown, a load increase during the deformation treatment increases the level of near-surface strengthening and improves surface quality. As experimentally determined, the rolling of VT22 alloy leads to both the $\\alpha$-phase grain refinement and the increase of the density of fixed dislocations in the near-surface layers of material. As shown, the VT22—BrAZhN 10-4-4 friction pair with titanium alloy disc rolled under loading of 200 N has the best suite of tribological characteristics.",
+		"ru": "Исследовано влияние обкатывания на структуру и износостойкость титанового сплава ВТ22. Показано, что увеличение нагрузки во время деформационной обработки увеличивает уровень приповерхностного упрочнения и повышает качество поверхности. Экспериментально установлено, что обкатывание сплава ВТ22 приводит к измельчению зёрен $\\alpha$-фазы и увеличению плотности неподвижных дислокаций в приповерхностных слоях материала. Показано, что лучшим комплексом триботехнических характеристик обладает пара трения ВТ22—БрАЖН 10-4-4, диск титанового сплава которой обкатывали при нагрузке 200 Н."
+	},
+	"keywords": {
+		"ua": "структура приповерхневих шарів, адгезійне зношування, пластична деформація, обкочування, титановий стоп ВТ22",
+		"en": "structure of near-surface layers, adhesion wear, plastic deformation, rolling, VT22 titanium alloy",
+		"ru": "структура приповерхностных слоёв, адгезионное изнашивание, пластическая деформация, обкатывание, титановый сплав ВТ22"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. М. Погрелюк", "en": "I. M. Pohrelyuk", "ru": "И. Н. Погрелюк"},
+			"OID": [6]
+		},
+		{
+			"AID": {"ua": "С. М. Лаврись", "en": "S. M. Lavrys", "ru": "С. М. Лаврись"},
+			"OID": [6]
+		}
+	],
+	"references": {
+		"count": 12,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "А. В. Богуслаев, Ал. А. Олейник, Ан. А. Олейник, Д. В. Павленко, С. А. Субботин, Прогрессивные технологии моделирования, оптимизации и интеллектуальной автоматизации этапов жизненного цикла авиационных двигателей (Запорожье: Мотор Сич: 2009).",
+				"tr":  "A. V. Boguslaev, Al. A. Oleinik, An. A. Oleinik, D. V. Pavlenko, and S. A. Subbotin, Progressivnye Tekhnologii Modelirovaniya, Optimizatsii i Intellektual’noy Avtomatizatsii Etapov Zhiznennogo Tsikla Aviatsionnykh Dvigateley (Zaporozhye: Motor Sich: 2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. І. Духота, М. В. Кіндрачук, В. Ф. Лабунець, Проблеми тертя та зношування, № 49: 14 (2008).",
+				"tr":  "O. I. Duhota, M. V. Kindrachuk, and V. F. Labunets', Problemy Tertya ta Znoshuvannya, No. 49: 14 (2008) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Г. Шнейдер, Технология финишной обработки давлением (Санкт-Петербург: Политехника: 1998).",
+				"tr":  "Yu. G. Shneyder, Tekhnologiya Finishnoy Obrabotki Davleniem (St. Petersburg: Politekhnika: 1998) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Смелянский, Механика упрочнения деталей поверхностным пластическим деформированием (Москва: Машиностроение: 2002).",
+				"tr":  "V. M. Smelyanskiy, Mekhanika Uprochneniya Detaley Poverkhnostnym Plasticheskim Deformirovaniem (Moscow: Mashinostroenie: 2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Богуслаев, А. И. Долматов, В. С. Кривцов, П. Д. Жеманюк, А. Ф. Горбачёв, Л. А. Пирогов, Изготовление деталей газотурбинных двигателей из титановых сплавов (Запорожье: Мотор Сич: 1997).",
+				"tr":  "V. A. Boguslaev, A. I. Dolmatov, V. S. Krivtsov, P. D. Zhemanyuk, A. F. Gorbachev, and L. A. Pirogov, Izgotovlenie Detaley Gazoturbinnykh Dvigateley iz Titanovykh Splavov (Zaporozhye: Motor Sich: 1997) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Є. Шейкін, Д. В. Єфросинін, І. Ю. Ростоцький, Физика и техника высоких давлений, 21, № 1: 134 (2011).",
+				"tr":  "S. Ye. Sheykin, D. V. Yefrosynin, and I. Yu. Rostotskyy, Fizika i Tekhnika Vysokikh Davleniy, 21, No. 1: 134 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Г. Вейцман, В. Г. Вайнштейн, Вестник машиностроения, № 2: 73 (1975).",
+				"tr":  "M. G. Weitsman and V. G. Vainshtein, Vestnik Mashinostroeniya, No. 2: 73 (1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Фирстов, А. Ю. Бородянская, А. В. Котко, И. В. Моисеева, В. Ф. Моисеев, Металлофиз. новейшие технол., 20, № 3: 70 (1998).",
+				"tr":  "S. A. Firstov, A. Yu. Borodyanskaya, A. V. Kotko, I. V. Moiseeva, and V. F. Moiseev, Metallofiz. Noveishie Tekhnol., 20, No. 3: 70 (1998) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Фирстов, В. Ф. Моисеев, А. В. Котко Электронная микроскопия и прочность материалов, № 4: 73 (1995).",
+				"tr":  "S. A. Firstov, V. F. Moiseev, and A. V. Kotko, Elektronnaya Mikroskopiya i Prochnost' Materialov, No. 4: 73 (1995) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Котко, В. Ф. Моисеев, Э. П. Печковский, И. В. Моисеева, В. К. Пищак, Металлофиз. новейшие технол., 23, № 8: 1013 (2001).",
+				"tr":  "A. V. Kotko, V. F. Moiseyev, Eh. P. Pechkovs'ky, I. V. Moiseyeva, and V. K. Pishchak, Metallofiz. Noveishie Tekhnol., 23, No. 8: 1013 (2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Г. Носовский, Трение и износ, 14, № 1: 19 (1993).",
+				"tr":  "I. G. Nosovskiy, Trenie i Iznos, 14, No. 1: 19 (1993) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. И. Костецкий, Трение, смазка и износ в машинах (Киев: Техника: 1970).",
+				"tr":  "B. I. Kostetskiy, Trenie, Smazka i Iznos v Mashinakh (Kiev: Tekhnika: 1970) (in Russian)."
+			}
+		]
+	}
+}

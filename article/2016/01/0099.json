@@ -1,0 +1,322 @@
+{
+	"_id":    "MFiNT.38.01.0099",
+	"year":   2016,
+	"volume": 38,
+	"issue":  1,
+	"pages":  [99,138],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["10.11.2015"],
+	"PACS":   "61.05.cc, 61.05.cp, 61.72.Dd, 61.72.J-, 68.35.Gy, 81.40.Ef, 81.40.Wx",
+	"title":  {
+		"ua": "Динамічна теорія трикристальної рентґенівської дифрактометрії та характеризація мікродефектів і деформацій в неідеальних монокристалах",
+		"en": "Dynamical Theory of Triple-Crystal X-ray Diffractometry and Characterization of Microdefects and Strains in Imperfect Single Crystals",
+		"ru": "Динамическая теория трёхкристальной рентгеновской дифрактометрии и характеристика микродефектов и деформаций в неидеальных монокристаллах"
+	},
+	"abstract": {
+		"ua": "В роботі представлено короткий огляд основних принципів, що використовуються при одержанні аналітичних виразів для когерентної та дифузної інтенсивностей розсіяння, виміряних трикристальним дифрактометром (ТКД). Одержано точні аналітичні вирази для дифузних компонент як ТКД-профілів, так і мап оберненого простору, виміряних у геометрії дифракції за Бреґґом для кристалів, які містять мікродефекти декількох типів. Ці формули одержано при використанні узагальненої динамічної теорії розсіяння Рентґенових променів неідеальними кристалами з випадково розподіленими мікродефектами. Представлено деякі приклади, які демонструють можливості розробленої теорії для кількісної характеризації недосконалостей структури в реальних монокристалах. Зокрема, шляхом аналітичного обробляння виміряних ТКД-профілів, кривих відбивання і мап оберненого простору визначено характеристики складних структур мікродефектів, створених у кристалах силіцію методами Чохральського і зонного топлення.",
+		"en": "A short review of basic principles and limitations in obtaining the analytical expressions for the coherent and diffuse scattering intensities measured by the triple-crystal diffractometer (TCD) are presented. Explicit analytical expressions are given for both the diffuse components of TCD profiles and the reciprocal-lattice maps measured within the Bragg diffraction geometry from crystals containing microdefects of several types. These formulas are derived by using the generalized dynamical theory of X-ray scattering by imperfect crystals with randomly distributed microdefects. Some examples demonstrating possibilities of the developed theory for quantitative characterization of structural imperfections in real single crystals are represented. In particular, characteristics of the complicated microdefect structures fabricated in various silicon crystals grown by Czochralski technique and floating-zone melting method are determined by analytical treatment of the measured TCD profiles, rocking curves, and reciprocal space maps.",
+		"ru": "В работе представлен краткий обзор основных принципов, используемых при получении аналитических выражений для когерентной и диффузной интенсивностей рассеяния, измеряемых трёхкристальным дифрактометром (ТКД). Получены точные аналитические выражения для диффузных компонент как ТКД-профилей, так и карт обратного пространства, измеренных в геометрии дифракции по Брэггу для кристаллов, содержащих микродефекты нескольких типов. Эти формулы получены при использовании обобщённой динамической теории рассеяния рентгеновских лучей неидеальными кристаллами со случайно распределёнными микродефектами. Представлены некоторые примеры, демонстрирующие возможности разработанной теории для количественной характеризации несовершенств структуры в реальных монокристаллах. В частности, путём аналитической обработки измеренных ТКД-профилей, кривых отражения и карт обратного пространства определены характеристики сложных структур микродефектов, созданных в кристаллах кремния методами Чохральского и зонной плавки."
+	},
+	"keywords": {
+		"ua": "динамічне розсіяння, трикристальний дифрактометр, двокристальний дифрактометр, мікродефекти",
+		"en": "dynamical scattering, triple-crystal diffractometer, double-crystal diffractometer, microdefects",
+		"ru": "динамическое рассеяние, трёхкристальный дифрактометр, двухкристальный дифрактометр, микродефекты"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Б. Молодкін", "en": "V. B. Molodkin", "ru": "В. Б. Молодкин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. Й. Оліховський", "en": "S. I. Olikhovskii", "ru": "С. И. Олиховский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Є. Г. Лень", "en": "E. G. Len", "ru": "Е. Г. Лень"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Є. М. Кисловський", "en": "Ye. M. Kyslovskyy", "ru": "Е. Н. Кисловский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. В. Решетник", "en": "O. V. Reshetnyk", "ru": "О. В. Решетник"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Т. П. Владимирова", "en": "T. P. Vladimirova", "ru": "Т. П. Владимирова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Б. В. Шелудченко", "en": "B. V. Sheludchenko", "ru": "Б. В. Шелудченко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. С. Скакунова", "en": "E. S. Skakunova", "ru": "Е. С. Скакунова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. В. Лізунов", "en": "V. V. Lizunov", "ru": "В. В. Лизунов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Є. В. Кочелаб", "en": "E. V. Kochelab", "ru": "Е. В. Кочелаб"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "І. М. Фодчук", "en": "I. M. Fodchuk", "ru": "И. М. Фодчук"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "В. П. Кладько", "en": "V. P. Klad’ko", "ru": "В. П. Кладько"},
+			"OID": [20]
+		}
+	],
+	"references": {
+		"count": 48,
+		"list":  [
+			{
+				"doi": "10.1103/PhysRevLett.28.1519",
+				"or":  "﻿P. Eisenberger, N. G. Alexanropoulos, and P. M. Platzmann, Phys. Rev. Lett., 28, No. 23: 1519 (1972)",
+				"tr":  "P. Eisenberger, N. G. Alexanropoulos, and P. M. Platzmann, Phys. Rev. Lett., 28, No. 23: 1519 (1972)"
+			},
+			{
+				"doi": "10.1103/PhysRevB.10.2307",
+				"or":  "B. C. Larson and W. G. Schmatz, Phys. Rev. B, 10, No. 6: 2307 (1974)",
+				"tr":  "B. C. Larson and W. G. Schmatz, Phys. Rev. B, 10, No. 6: 2307 (1974)"
+			},
+			{
+				"doi": "10.1002/pssa.2210510227",
+				"or":  "A. Iida and K. Kohra, phys. status solidi (a), 51, No. 2: 533 (1979)",
+				"tr":  "A. Iida and K. Kohra, phys. status solidi (a), 51, No. 2: 533 (1979)"
+			},
+			{
+				"doi": "10.1002/pssa.2210540235",
+				"or":  "A. Iida, phys. status solidi (a), 54, No. 2: 701 (1979)",
+				"tr":  "A. Iida, phys. status solidi (a), 54, No. 2: 701 (1979)"
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Afanas’ev, M. V. Koval’chuk, E. F. Lobanovich, R. M. Imamov, P. A. Aleksandrov, and M. K. Melkonyan, Kristallografiya, 26, Iss. 1: 28 (1981) (in Russian)",
+				"tr":  "A. M. Afanas'ev, M. V. Koval'chuk, E. F. Lobanovich, R. M. Imamov, P. A. Aleksandrov, and M. K. Melkonyan, Kristallografiya, 26, Iss. 1: 28 (1981) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "E. K. Kov’ev, V. V. Ratnikov, and L. M. Sorokin, Fizika Tverdogo Tela, 23, No. 6: 1626 (1981) (in Russian)",
+				"tr":  "E. K. Kov'ev, V. V. Ratnikov, and L. M. Sorokin, Fizika Tverdogo Tela, 23, No. 6: 1626 (1981) (in Russian)"
+			},
+			{
+				"doi": "10.1002/pssa.2210700217",
+				"or":  "P. Zaumseil and U. Winter, phys. status solidi (a), 70, No. 2: 497 (1982)",
+				"tr":  "P. Zaumseil and U. Winter, phys. status solidi (a), 70, No. 2: 497 (1982)"
+			},
+			{
+				"doi": "10.1002/pssa.2210730220",
+				"or":  "P. Zaumseil and U. Winter, phys. status solidi (a), 73, No. 2: 455 (1982)",
+				"tr":  "P. Zaumseil and U. Winter, phys. status solidi (a), 73, No. 2: 455 (1982)"
+			},
+			{
+				"doi": "10.1107/S0108767385000502",
+				"or":  "A. A. Lomov, P. Zaumseil, and U. Winter, Acta Crystallogr. A, 41, No. 3: 223 (1985)",
+				"tr":  "A. A. Lomov, P. Zaumseil, and U. Winter, Acta Crystallogr. A, 41, No. 3: 223 (1985)"
+			},
+			{
+				"doi": "",
+				"or":  "R. N. Kyutt, A. A. Sitnikova, and L. M. Sorokin, Fizika Tverdogo Tela, 27, No. 3: 673 (1985) (in Russian)",
+				"tr":  "R. N. Kyutt, A. A. Sitnikova, and L. M. Sorokin, Fizika Tverdogo Tela, 27, No. 3: 673 (1985) (in Russian)"
+			},
+			{
+				"doi": "10.1002/pssb.2221700102",
+				"or":  "V. Holý and J. Kubĕna, phys. status solidi (b), 170, Iss. 1: 9 (1992)",
+				"tr":  "V. Holý and J. Kubĕna, phys. status solidi (b), 170, Iss. 1: 9 (1992)"
+			},
+			{
+				"doi": "10.1016/0022-0248(92)90061-M",
+				"or":  "L. A. Charniy, A. N. Morozov, V. T. Bublik, K. D. Scherbachev, I. V. Stepantsova, and V. M. Kaganer, J. Cryst. Growth, 118: 163 (1992)",
+				"tr":  "L. A. Charniy, A. N. Morozov, V. T. Bublik, K. D. Scherbachev, I. V. Stepantsova, and V. M. Kaganer, J. Cryst. Growth, 118: 163 (1992)"
+			},
+			{
+				"doi": "",
+				"or":  "V. Holý, U. Pietch, and T. Baumbach, High-Resolution X-Ray Scattering from Thin Films and Multilayers (Berlin–Heideiberg: Springer: 1998)",
+				"tr":  "V. Holý, U. Pietch, and T. Baumbach, High-Resolution X-Ray Scattering from Thin Films and Multilayers (Berlin–Heideiberg: Springer: 1998)"
+			},
+			{
+				"doi": "",
+				"or":  "P. F. Fewster, X-Ray Scattering from Semiconductors (London: Imperial College Press: 2000)",
+				"tr":  "P. F. Fewster, X-Ray Scattering from Semiconductors (London: Imperial College Press: 2000)"
+			},
+			{
+				"doi": "",
+				"or":  "V. B. Molodkin, S. I. Olikhovskii, M. E. Osinovskii, V. V. Kochelab, A. Yu. Kazimirov, M. V. Koval’chuk, and F. N. Chukhovskiy, Metallofizika, 6, No. 3: 7 (1984) (in Russian)",
+				"tr":  "V. B. Molodkin, S. I. Olikhovskii, M. E. Osinovskii, V. V. Kochelab, A. Yu. Kazimirov, M. V. Koval'chuk, and F. N. Chukhovskiy, Metallofizika, 6, No. 3: 7 (1984) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "V. B. Molodkin, V. V. Nemoshkalenko, S. I. Olikhovskii, E. N. Kislovskii, O. V. Reshetnyk, T. P. Vladimirova, V. P. Krivitsky, V. F. Machulin, I. V. Prokopenko, G. E. Ice, and B. C. Larson, Metallofiz. Noveishie Tekhnol., 20, No. 11: 29 (1998)",
+				"tr":  "V. B. Molodkin, V. V. Nemoshkalenko, S. I. Olikhovskii, E. N. Kislovskii, O. V. Reshetnyk, T. P. Vladimirova, V. P. Krivitsky, V. F. Machulin, I. V. Prokopenko, G. E. Ice, and B. C. Larson, Metallofiz. Noveishie Tekhnol., 20, No. 11: 29 (1998)"
+			},
+			{
+				"doi": "",
+				"or":  "V. B. Molodkin, M. Ando, E. N. Kislovskii, S. I. Olikhovskii, T. P. Vladimirova, O. V. Reshetnyk, E. G. Len, E. A. Evgrafova, and E. V. Pervak, Metallofiz. Noveishie Tekhnol., 24, No. 4: 541 (2002)",
+				"tr":  "V. B. Molodkin, M. Ando, E. N. Kislovskii, S. I. Olikhovskii, T. P. Vladimirova, O. V. Reshetnyk, E. G. Len, E. A. Evgrafova, and E. V. Pervak, Metallofiz. Noveishie Tekhnol., 24, No. 4: 541 (2002)"
+			},
+			{
+				"doi": "",
+				"or":  "S. I. Olikhovskii, V. B. Molodkin, E. M. Kislovskii, O. V. Reshetnyk, T. P. Vladimirova, E. G. Len, G. E. Ice, R. I. Barabash, R. Köhler, and D. O. Grigoriev, Metallofiz. Noveishie Tekhnol., 27, No. 7: 949 (2005)",
+				"tr":  "S. I. Olikhovskii, V. B. Molodkin, E. M. Kislovskii, O. V. Reshetnyk, T. P. Vladimirova, E. G. Len, G. E. Ice, R. I. Barabash, R. Köhler, and D. O. Grigoriev, Metallofiz. Noveishie Tekhnol., 27, No. 7: 949 (2005)"
+			},
+			{
+				"doi": "",
+				"or":  "S. I. Olikhovskii, V. B. Molodkin, E. M. Kislovskii, O. V. Reshetnyk, T. P. Vladimirova, G. E. Ice, R. I. Barabash, R. Köhler, and D. O. Grigoriev, Metallofiz. Noveishie Tekhnol., 27, No. 9: 1251 (2005)",
+				"tr":  "S. I. Olikhovskii, V. B. Molodkin, E. M. Kislovskii, O. V. Reshetnyk, T. P. Vladimirova, G. E. Ice, R. I. Barabash, R. Köhler, and D. O. Grigoriev, Metallofiz. Noveishie Tekhnol., 27, No. 9: 1251 (2005)"
+			},
+			{
+				"doi": "",
+				"or":  "V. B. Molodkin, S. I. Olikhovskii, and M. E. Osinovskii, Metallofizika, 5, No. 1: 3 (1983) (in Russian)",
+				"tr":  "V. B. Molodkin, S. I. Olikhovskii, and M. E. Osinovskii, Metallofizika, 5, No. 1: 3 (1983) (in Russian)"
+			},
+			{
+				"doi": "10.1002/1521-3951(200110)227:2<429::AID-PSSB429>3.0.CO;2-C",
+				"or":  "V. B. Molodkin, S. I. Olikhovskii, E. N. Kislovskii, E. G. Len, and E. V. Pervak, phys. status solidi (b), 227: 429 (2001)",
+				"tr":  "V. B. Molodkin, S. I. Olikhovskii, E. N. Kislovskii, E. G. Len, and E. V. Pervak, phys. status solidi (b), 227: 429 (2001)"
+			},
+			{
+				"doi": "10.1002/1521-3951(200205)231:1<199::AID-PSSB199>3.0.CO;2-Y",
+				"or":  "S. I. Olikhovskii, V. B. Molodkin, E. N. Kislovskii, E. G. Len, and E. V. Pervak, phys. status solidi (b), 231: 199 (2002)",
+				"tr":  "S. I. Olikhovskii, V. B. Molodkin, E. N. Kislovskii, E. G. Len, and E. V. Pervak, phys. status solidi (b), 231: 199 (2002)"
+			},
+			{
+				"doi": "10.1063/1.351995",
+				"or":  "V. S. Wang and R. J. Matyi, J. Appl. Phys., 72, Iss. 11: 5158 (1992)",
+				"tr":  "V. S. Wang and R. J. Matyi, J. Appl. Phys., 72, Iss. 11: 5158 (1992)"
+			},
+			{
+				"doi": "10.1007/978-3-642-74291-0",
+				"or":  "M. A. Krivoglaz, X-Ray and Neutron Scattering in Nonideal Crystals (Berlin: Springer: 1996)",
+				"tr":  "M. A. Krivoglaz, X-Ray and Neutron Scattering in Nonideal Crystals (Berlin: Springer: 1996)"
+			},
+			{
+				"doi": "10.1103/PhysRevB.4.1041",
+				"or":  "P. H. Dederichs, Phys. Rev. B, 4: 1041 (1971)",
+				"tr":  "P. H. Dederichs, Phys. Rev. B, 4: 1041 (1971)"
+			},
+			{
+				"doi": "10.1103/PhysRevB.42.5093",
+				"or":  "R. Bloch, D. Bahr, J. Olde, L. Brügemann, and W. Press, Phys. Rev. B, 42: 5093 (1990)",
+				"tr":  "R. Bloch, D. Bahr, J. Olde, L. Brügemann, and W. Press, Phys. Rev. B, 42: 5093 (1990)"
+			},
+			{
+				"doi": "",
+				"or":  "T. P. Vladimirova, R. F. Seredenko, V. B. Molodkin, S. I. Olikhovskii, and E. N. Kislovskii, Metallofiz. Noveishie Tekhnol., 29, No. 6: 711 (2007) (in Ukrainian)",
+				"tr":  "T. P. Vladimirova, R. F. Seredenko, V. B. Molodkin, S. I. Olikhovskii, and E. N. Kislovskii, Metallofiz. Noveishie Tekhnol., 29, No. 6: 711 (2007) (in Ukrainian)"
+			},
+			{
+				"doi": "10.1103/PhysRevB.78.224109",
+				"or":  "V. B. Molodkin, S. I. Olikhovskii, E. N. Kislovskii, T. P. Vladimirova, E. S. Skakunova, R. F. Seredenko, and B. V. Sheludchenko, Phys. Rev. B, 78, No. 22: 224109 (2008)",
+				"tr":  "V. B. Molodkin, S. I. Olikhovskii, E. N. Kislovskii, T. P. Vladimirova, E. S. Skakunova, R. F. Seredenko, and B. V. Sheludchenko, Phys. Rev. B, 78, No. 22: 224109 (2008)"
+			},
+			{
+				"doi": "10.1088/0022-3727/34/10A/318",
+				"or":  "V. P. Klad’ko, L. I. Datsenko, J. Bak-Misiuk, V. F. Machulin, I. V. Prokopenko, V. B. Molodkin, S. I. Olikhovskii, and Z. V. Maksimenko, J. Phys. D: Applied Physics, 34, No. 10A: A87 (2001)",
+				"tr":  "V. P. Klad'ko, L. I. Datsenko, J. Bak-Misiuk, V. F. Machulin, I. V. Prokopenko, V. B. Molodkin, S. I. Olikhovskii, and Z. V. Maksimenko, J. Phys. D: Applied Physics, 34, No. 10A: A87 (2001)"
+			},
+			{
+				"doi": "",
+				"or":  "E. N. Kislovskii, O. V. Reshetnyk, T. P. Vladimirova, V. B. Molodkin, S. I. Olikhovskii, B. V. Sheludchenko, R. F. Seredenko, and E. S. Skakunova, Metallofiz. Noveishie Tekhnol., 29, No. 5: 701 (2007) (in Ukrainian)",
+				"tr":  "E. N. Kislovskii, O. V. Reshetnyk, T. P. Vladimirova, V. B. Molodkin, S. I. Olikhovskii, B. V. Sheludchenko, R. F. Seredenko, and E. S. Skakunova, Metallofiz. Noveishie Tekhnol., 29, No. 5: 701 (2007) (in Ukrainian)"
+			},
+			{
+				"doi": "10.1002/pssa.200675700",
+				"or":  "A. P. Shpak, V. B. Molodkin, S. I. Olikhovskii, Ye. M. Kislovskii, O. V. Reshetnyk, T. P. Vladimirova, E. G. Len, A. I. Nizkova, V. M. Venger, and S. V. Dmitriev, phys. status solidi (b), 204, No. 8: 2651 (2007)",
+				"tr":  "A. P. Shpak, V. B. Molodkin, S. I. Olikhovskii, Ye. M. Kislovskii, O. V. Reshetnyk, T. P. Vladimirova, E. G. Len, A. I. Nizkova, V. M. Venger, and S. V. Dmitriev, phys. status solidi (b), 204, No. 8: 2651 (2007)"
+			},
+			{
+				"doi": "10.15407/mfint.37.08.1017",
+				"or":  "V. B. Molodkin, S. I. Olikhovskii, E. S. Skakunova, E. G. Len, E. N. Kislovskii, O. V. Reshetnyk, T. P. Vladimirova, V. V. Lizunov, L. N. Skapa, S. V. Lizunova, E. V. Fuzik, N. G. Tolmachev, B. K. Ostafiychuk, V. M. Pylypiv, and O. Z. Garpul’. Metallofiz. Noveishie Tekhnol., 37, No. 8: 1017 (2015)",
+				"tr":  "V. B. Molodkin, S. I. Olikhovskii, E. S. Skakunova, E. G. Len, E. N. Kislovskii, O. V. Reshetnyk, T. P. Vladimirova, V. V. Lizunov, L. N. Skapa, S. V. Lizunova, E. V. Fuzik, N. G. Tolmachev, B. K. Ostafiychuk, V. M. Pylypiv, and O. Z. Garpul'. Metallofiz. Noveishie Tekhnol., 37, No. 8: 1017 (2015)"
+			},
+			{
+				"doi": "10.15407/mfint.37.04.0555",
+				"or":  "E. S. Skakunova, Metallofiz. Noveishie Tekhnol., 37, No. 4: 555 (2015)",
+				"tr":  "E. S. Skakunova, Metallofiz. Noveishie Tekhnol., 37, No. 4: 555 (2015)"
+			},
+			{
+				"doi": "10.1063/1.1659142",
+				"or":  "J. Chikawa, Y. Asaeda, and I. Fujimoto, J. Appl. Phys., 41: 1922 (1970)",
+				"tr":  "J. Chikawa, Y. Asaeda, and I. Fujimoto, J. Appl. Phys., 41: 1922 (1970)"
+			},
+			{
+				"doi": "10.1002/pssb.2221410103",
+				"or":  "V. Holý, and J. Kubĕna, phys. status solidi (b), 141, No. 1: 35 (1987)",
+				"tr":  "V. Holý, and J. Kubĕna, phys. status solidi (b), 141, No. 1: 35 (1987)"
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Nemoshkalenko, V. B. Molodkin, E. N. Kislovskii, S. I. Olikhovskii, T. A. Grishchenko, M. T. Kogut, and E. V. Pervak, Metallofiz. Noveishie Tekhnol., 22, No. 2: 42 (2000) (in Russian)",
+				"tr":  "V. V. Nemoshkalenko, V. B. Molodkin, E. N. Kislovskii, S. I. Olikhovskii, T. A. Grishchenko, M. T. Kogut, and E. V. Pervak, Metallofiz. Noveishie Tekhnol., 22, No. 2: 42 (2000) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "V. G. Bar’yahtar, V. V. Nemoshkalenko, V. B. Molodkin, A. P. Shpak, D. Chikava, K. Kohra, R. N. Kyutt, S. I. Olikhovskii, A. I. Nizkova, T. A. Grishchenko, E. N. Kislovskii, M. T. Kogut, and M. V. Koval’chuk, Metallofizika, 15, No. 12: 72 (1993) (in Russian)",
+				"tr":  "V. G. Bar'yahtar, V. V. Nemoshkalenko, V. B. Molodkin, A. P. Shpak, D. Chikava, K. Kohra, R. N. Kyutt, S. I. Olikhovskii, A. I. Nizkova, T. A. Grishchenko, E. N. Kislovskii, M. T. Kogut, and M. V. Koval'chuk, Metallofizika, 15, No. 12: 72 (1993) (in Russian)"
+			},
+			{
+				"doi": "10.1063/1.4926429",
+				"or":  "C. Bergmann, A. Gröschel, J. Will, and A. Magerl, J. Appl. Phys., 118: 015707 (2015)",
+				"tr":  "C. Bergmann, A. Gröschel, J. Will, and A. Magerl, J. Appl. Phys., 118: 015707 (2015)"
+			},
+			{
+				"doi": "10.1002/pssa.200881588",
+				"or":  "V. B. Molodkin, S. I. Olikhovskii, E. G. Len, E. N. Kislovskii, V. P. Kladko, O. V. Reshetnyk, T. P. Vladimirova, and B. V. Sheludchenko, phys. status solidi (a), 206, No. 8: 1761 (2009)",
+				"tr":  "V. B. Molodkin, S. I. Olikhovskii, E. G. Len, E. N. Kislovskii, V. P. Kladko, O. V. Reshetnyk, T. P. Vladimirova, and B. V. Sheludchenko, phys. status solidi (a), 206, No. 8: 1761 (2009)"
+			},
+			{
+				"doi": "10.1063/1.359479",
+				"or":  "A. Borgesi, B. Pivac, A. Sasella, and A. Stella, J. Appl. Phys., 77: 4169 (1995)",
+				"tr":  "A. Borgesi, B. Pivac, A. Sasella, and A. Stella, J. Appl. Phys., 77: 4169 (1995)"
+			},
+			{
+				"doi": "",
+				"or":  "V. B. Molodkin, S. I. Olikhovskii, Ye. M. Kyslovskyy, E. G. Len, O. V. Reshetnyk, T. P. Vladimirova, V. V. Lizunov, and S. V. Lizunova, Semiconductor Physics, Quantum Electronics and Optoelectronics, 13, No. 4: 353 (2010)",
+				"tr":  "V. B. Molodkin, S. I. Olikhovskii, Ye. M. Kyslovskyy, E. G. Len, O. V. Reshetnyk, T. P. Vladimirova, V. V. Lizunov, and S. V. Lizunova, Semiconductor Physics, Quantum Electronics and Optoelectronics, 13, No. 4: 353 (2010)"
+			},
+			{
+				"doi": "10.1002/pssa.200675700",
+				"or":  "A. P. Shpak, V. B. Molodkin, S. I. Olikhovskii, Ye. M. Kyslovskyy, O. V. Reshetnyk, T. P. Vladimirova, E. G. Len, A. I. Nizkova, V. M. Venger, and S. V. Dmitriev, phys. status solidi (a), 204, No. 8: 2651 (2007)",
+				"tr":  "A. P. Shpak, V. B. Molodkin, S. I. Olikhovskii, Ye. M. Kyslovskyy, O. V. Reshetnyk, T. P. Vladimirova, E. G. Len, A. I. Nizkova, V. M. Venger, and S. V. Dmitriev, phys. status solidi (a), 204, No. 8: 2651 (2007)"
+			},
+			{
+				"doi": "10.1016/0022-0248(75)90210-9",
+				"or":  "P. M. Petroff and A. J. R. de Kock, J. Cryst. Growth, 30: 117 (1975)",
+				"tr":  "P. M. Petroff and A. J. R. de Kock, J. Cryst. Growth, 30: 117 (1975)"
+			},
+			{
+				"doi": "10.1016/0022-0248(81)90397-3",
+				"or":  "H. Föll, V. Gösele, and B. O. Kolbesen, J. Cryst. Growth, 52, No. 2: 907 (1981)",
+				"tr":  "H. Föll, V. Gösele, and B. O. Kolbesen, J. Cryst. Growth, 52, No. 2: 907 (1981)"
+			},
+			{
+				"doi": "10.1016/0022-0248(81)90140-8",
+				"or":  "P. J. Roksnoer and M. M. B. van der Boom, J. Cryst. Growth, 53, No. 3: 563 (1981)",
+				"tr":  "P. J. Roksnoer and M. M. B. van der Boom, J. Cryst. Growth, 53, No. 3: 563 (1981)"
+			},
+			{
+				"doi": "10.1016/0022-0248(84)90467-6",
+				"or":  "P. J. Roksnoer, J. Cryst. Growth, 68, No. 2: 596 (1984)",
+				"tr":  "P. J. Roksnoer, J. Cryst. Growth, 68, No. 2: 596 (1984)"
+			},
+			{
+				"doi": "10.1002/pssa.201184253",
+				"or":  "V. B. Molodkin, S. I. Olikhovskii, Ye. M. Kyslovskyy, T. P. Vladimirova, E. V. Kochelab, O. V. Reshetnyk, V. V. Dovganyuk, I. M. Fodchuk, T. V. Lytvynchuk, V. P. Klad’ko, and Z. Świątek, phys. status solidi (a), 208, No. 11: 2552 (2011)",
+				"tr":  "V. B. Molodkin, S. I. Olikhovskii, Ye. M. Kyslovskyy, T. P. Vladimirova, E. V. Kochelab, O. V. Reshetnyk, V. V. Dovganyuk, I. M. Fodchuk, T. V. Lytvynchuk, V. P. Klad'ko, and Z. Świątek, phys. status solidi (a), 208, No. 11: 2552 (2011)"
+			},
+			{
+				"doi": "10.1134/S1027451013030270",
+				"or":  "E. N. Kislovskii, V. B. Molodkin, S. I. Olikhovskii, E. G. Len, B. V. Sheludchenko, S. V. Lizunova, T. P. Vladimirova, E. V. Kochelab, O. V. Reshetnik, V. V. Dovganyuk, I. M. Fodchuk, T. V. Litvinchuk, and V. P. Klad’ko, J. Surface Investigation. X-Ray, Synchrotron and Neutron Techniques, 7, No. 3: 523 (2013)",
+				"tr":  "E. N. Kislovskii, V. B. Molodkin, S. I. Olikhovskii, E. G. Len, B. V. Sheludchenko, S. V. Lizunova, T. P. Vladimirova, E. V. Kochelab, O. V. Reshetnik, V. V. Dovganyuk, I. M. Fodchuk, T. V. Litvinchuk, and V. P. Klad'ko, J. Surface Investigation. X-Ray, Synchrotron and Neutron Techniques, 7, No. 3: 523 (2013)"
+			}
+		]
+	}
+}

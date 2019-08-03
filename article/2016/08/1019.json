@@ -1,0 +1,102 @@
+{
+	"_id":    "MFiNT.38.08.1019",
+	"year":   2016,
+	"volume": 38,
+	"issue":  8,
+	"pages":  [1019,1026],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["23.05.2016","09.08.2016"],
+	"PACS":   "71.15Dx, 71.15.Mb, 71.15.Rf, 71.18.+y, 71.20.Nr, 71.45.Gm, 71.70.Ej",
+	"title":   {
+		"ua": "Розрахунки з перших принципів електронної структури й ефективної маси кристалу TlInS$_{2}$",
+		"en": "First-Principles Calculation of Electronic Structure and Effective Mass of a TlInS$_{2}$ Crystal",
+		"ru": "Расчёт из первых принципов электронной структуры и эффективной массы кристалла TlInS$_{2}$"
+	},
+	"abstract": {
+		"ua": "Для кристалу TlInS$_{2}$ з перших принципів в рамках теорії функціоналу густини було розраховано: електронну структуру, DOS-ефективну масу, ефективну масу провідности, наведену ефективну масу. Електронну структуру кристалу було вивчено з використанням пакетів програм Quantum Wise та Quantum Espresso, відповідно, в LDA- та SGGA-наближеннях. Зонні структури, розраховані з використанням обмінно-кореляційного потенціялу FHI та релятивістського псевдопотенціялу, показують, що стеля валентної зони і дно зони провідности розташовані в центрі Бріллюенової зони. Стеля валентної зони і дно зони провідности в основному походять з 6s-станів атомів Tl та 5s-станів атомів In. Також досліджувався вплив спін-орбітальної взаємодії на енергетичний спектер. Було встановлено, що врахування спін-орбітальної взаємодії не є істотним для енергетичних станів поблизу забороненої зони, знімає виродження зон по лінії симетрії T—Z, але не знімає виродження в самих точках T, Z, а також $\\Gamma$, Y. Максимальне спін-орбітальне розщеплення зон становить $\\cong$ 0,3 еВ. З огляду на непараболічність зон було розраховано ефективні маси в напрямках [001], [010], [100]. У цій роботі було вперше теоретично розраховано DOS-ефективну масу, ефективну масу провідности, наведену ефективну масу, що досі не зустрічалися в літературі.",
+		"en": "Electronic structure, DOS effective mass, conductivity effective mass, reduced effective mass are calculated for a TlInS$_{2}$ crystal from first principles within the framework of the density functional theory. The electronic structure of TlInS$_{2}$ is investigated by the Quantum Wise and Quantum Espresso software program packages within the LDA and SGGA corrections, respectively. The band structures calculated with use of the FHI exchange-correlation and relativistic pseudopotentials show that both the valence band maximum and the conduction band minimum located at the $\\Gamma$ point of the Brillouin zone. The top of the valence band and the bottom of the conduction band originate generally from 6s-states of Tl atoms and 5s-states of In atoms. Influence of the spin—orbit interaction on the electronic structure is investigated. As found, inclusion of the spin—orbit interaction is not essential for the energy states near the gap and removes the band degeneracy along the T—Z symmetry line, but does not remove the degeneracy at the T, Z, and $\\Gamma$, Y points. The maximum value of the spin—orbit splitting is $\\cong$ 0.3 eV. The effective masses along [001], [010], and [100] directions are calculated taking into account non-parabolicity of the bands. In this paper, DOS effective mass, conductivity effective mass, and reduced effective mass are calculated theoretically for the first time.",
+		"ru": "Для кристалла TlInS$_{2}$ из первых принципов в рамках теории функционала плотности были рассчитаны: электронная структура, DOS-эффективная масса, эффективная масса проводимости, приведённая эффективная масса. Электронная структура кристалла была изучена с использованием пакетов программ Quantum Wise и Quantum Espresso, соответственно, в LDA- и SGGA-приближениях. Зонные структуры, рассчитанные с использованием обменно-корреляционного потенциала FHI и релятивистского псевдопотенциала, показывают, что потолок валентной зоны и дно зоны проводимости расположены в центре зоны Бриллюэна. Потолок валентной зоны и дно зоны проводимости в основном происходят из 6s-состояний атомов Tl и 5s-состояний атомов In. Также исследовалось влияние спин-орбитального взаимодействия на энергетический спектр. Было установлено, что учёт спин-орбитального взаимодействия не существен для энергетических состояний вблизи запрещённой зоны, снимает вырождения зон по линии симметрии T—Z, но не снимает вырождения в самих точках T, Z, а также $\\Gamma$, Y. Максимальное спин-орбитальное расщепление зон составляет $\\cong$ 0,3 эВ. С учётом непараболичности зон были рассчитаны эффективные массы в направлениях [001], [010], [100]. В этой работе впервые теоретически рассчитаны DOS-эффективная масса, эффективная масса проводимости, приведённая эффективная масса, которые до сих пор не встречались в литературе."
+	},
+	"keywords": {
+		"ua": "LDA, GGA, спін-орбітальна взаємодія, DOS-ефективна маса, ефективна маса провідности",
+		"en": "LDA, GGA, spin—orbit interaction, DOS effective mass, conductivity effective mass",
+		"ru": "LDA, GGA, спин орбитальное взаимодействие, DOS-эффективная масса, эффективная масса проводимости"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Н. А. Ісмайилова", "en": "N. A. Ismayilova", "ru": "Н. А. Исмайылова"},
+			"OID": [431]
+		},
+		{
+			"AID": {"ua": "Г. С. Оруджев", "en": "H. S. Orudzhev", "ru": "Г. С. Оруджев"},
+			"OID": [431,490]
+		}
+	],
+	"references": {
+		"count": 12,
+		"list":  [
+			{
+				"doi": "10.1021/ja00017a018",
+				"or":  "K. A. Yee and A. Albright, J. Am. Chem. Soc., 113: 6474 (1991).",
+				"tr":  "K. A. Yee and A. Albright, J. Am. Chem. Soc., 113: 6474 (1991)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.26.3211",
+				"or":  "W. Henkel, H. D. Hochheimer, C. Carlone, A. Werner, S. Ves, and H. G. von Shnering, Phys. Rev. B, 26: 3211 (1982).",
+				"tr":  "W. Henkel, H. D. Hochheimer, C. Carlone, A. Werner, S. Ves, and H. G. von Shnering, Phys. Rev. B, 26: 3211 (1982)."
+			},
+			{
+				"doi": "10.12693/APhysPolA.108.997",
+				"or":  "N. M. Gasanly and N. S. Yuksek, Acta Physica Polonica A, 108, No. 6: 997 (2005).",
+				"tr":  "N. M. Gasanly and N. S. Yuksek, Acta Physica Polonica A, 108, No. 6: 997 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "M. M. El-Nahass and M. M. Sallam, Egypt. J. Solids, 31, No. 1: 31 (2008).",
+				"tr":  "M. M. El-Nahass and M. M. Sallam, Egypt. J. Solids, 31, No. 1: 31 (2008)."
+			},
+			{
+				"doi": "10.1002/crat.200310208",
+				"or":  "A. F. Qasrawi and N. M. Gasanly, Crystal Research and Technology, 39, Iss. 5: 439 (2004).",
+				"tr":  "A. F. Qasrawi and N. M. Gasanly, Crystal Research and Technology, 39, Iss. 5: 439 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "G. I. Abutalybov, S. G. Abdullaeva, and N. M. Zeinalov, Sov. Phys. Semicond., 16: 1348 (1982).",
+				"tr":  "G. I. Abutalybov, S. G. Abdullaeva, and N. M. Zeinalov, Sov. Phys. Semicond., 16: 1348 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "S. N. Mustafaeva, E. M. Kerimova, and N. Z. Gasanov, phys. solid state, 43: 443 (2001).",
+				"tr":  "S. N. Mustafaeva, E. M. Kerimova, and N. Z. Gasanov, phys. solid state, 43: 443 (2001)."
+			},
+			{
+				"doi": "10.1103/PhysRev.136.B864",
+				"or":  "P. Hohenberg and W. Khon, Phys. Rev., 136: B864 (1964).",
+				"tr":  "P. Hohenberg and W. Khon, Phys. Rev., 136: B864 (1964)."
+			},
+			{
+				"doi": "10.1103/PhysRev.140.A1133",
+				"or":  "W. Kohn and L. Sham, Phys. Rev., 140: A1133 (1965).",
+				"tr":  "W. Kohn and L. Sham, Phys. Rev., 140: A1133 (1965)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.54.16533",
+				"or":  "J. Perdew, K. Burk, and Y. Wang, Phys. Rev. B, 54: 16533 (1996).",
+				"tr":  "J. Perdew, K. Burk, and Y. Wang, Phys. Rev. B, 54: 16533 (1996)."
+			},
+			{
+				"doi": "10.1139/p2012-031",
+				"or":  "K. R. Allakhverdiev, F. M. Hashimzade, D. A. Huseinova, M. A. Nizametdinova, G. S. Orudzhev, A. M. Ulubey, and M. H. Kir, Canadian Journal of Physics, 90: 407 (2012).",
+				"tr":  "K. R. Allakhverdiev, F. M. Hashimzade, D. A. Huseinova, M. A. Nizametdinova, G. S. Orudzhev, A. M. Ulubey, and M. H. Kir, Canadian Journal of Physics, 90: 407 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "N. A. Ismayilova and G. S. Orudzhev, ANAS Transaction, 35, No. 5: 15 (2015).",
+				"tr":  "N. A. Ismayilova and G. S. Orudzhev, ANAS Transaction, 35, No. 5: 15 (2015)."
+			}
+		]
+	}
+}

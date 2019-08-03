@@ -1,0 +1,176 @@
+{
+	"_id":    "MFiNT.38.03.0389",
+	"year":   2016,
+	"volume": 38,
+	"issue":  3,
+	"pages":  [389,403],
+	"rubric": 2,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["30.11.2015"],
+	"PACS":   "07.60.Ly, 41.50.+h, 42.30.Ms, 61.05.cp, 61.72.Ff, 87.59.-e",
+	"title":   {
+		"ua": "Відтворення залишкового деформаційного поля в кристалі-аналізаторі $LLL$-інтерферометра",
+		"en": "Reconstruction of a Residual Strain Field in a Crystal-Analyser of a $LLL$-Interferometer",
+		"ru": "Воспроизведение остаточного деформационного поля в кристалле-анализаторе $LLL$-интерферометра"
+	},
+	"abstract": {
+		"ua": "Проведено аналіз впливу на формування муарової картини величини рівномірно розподілених локальних зосереджених сил, що діють паралельно вектору дифракції $H$ на вихідну поверхню аналізатора $LLL$-інтерферометра. Показано, що формування нових деформаційних муарових смуг відбувається в перехідній за знаком деформаційній області поблизу зосереджених сил; форма муарових смуг відображає загальне поле зміщень, утворене рядом зосереджених сил; зменшення оберненої величини періоду муарових смуг при віддаленні від ряду із зосереджених сил відображає поведінку сумарного деформаційного поля.",
+		"en": "The analysis of influence of magnitude of evenly distributed local concentrated forces, which act parallel to diffraction vector $H$ on the output surface of analyser of $LLL$-interferometer, on the formation of moiré pattern is performed. As shown, the formation of new deformation moiré fringes occurs in the transition by the sign deformation area near concentrated forces; form of moiré fringes reflects total displacement field formed by the row of concentrated forces; decrease of reciprocal value of period of moiré fringes at a distance from a row of concentrated forces reflects the behaviour of the total deformation field.",
+		"ru": "Проведён анализ влияния на формирование муаровой картины величины равномерно распределённых локальных сосредоточенных сил, действующих параллельно вектору дифракции $H$ на выходную поверхность анализатора $LLL$-интерферометра. Показано, что формирование новых деформационных муаровых полос происходит в переходной по знаку деформационной области вблизи сосредоточенных сил; форма муаровых полос отражает общее поле смещений, образованное рядом сосредоточенных сил; уменьшение обратной величины периода муаровых полос при удалении от ряда из сосредоточенных сил отражает поведение суммарного деформационного поля."
+	},
+	"keywords": {
+		"ua": "$LLL$-інтерферометр, муарові смуги, зосереджена сила, деформаційне поле",
+		"en": "$LLL$-interferometer, moiré image, point force, deformation fringes",
+		"ru": "$LLL$-интерферометр, муаровые полосы, сосредоточенная сила, деформационное поле"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. М. Фодчук", "en": "I. M. Fodchuk", "ru": "И. М. Фодчук"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "С. М. Новіков", "en": "S. М. Novikov", "ru": "С. Н. Новиков"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "І. В. Яремчук", "en": "I. V. Yaremchuk", "ru": "И. В. Яремчук"},
+			"OID": [215]
+		}
+	],
+	"references": {
+		"count": 26,
+		"list":  [
+			{
+				"doi": "10.1016/j.nima.2004.06.019",
+				"or":  "L. Brügemann and E. K. E. Gerndt, Nucl. Instrum. Methods Phys. Res., Sect. A, 531, Nos. 1–2: 292 (2004).",
+				"tr":  "L. Brügemann and E. K. E. Gerndt, Nucl. Instrum. Methods Phys. Res., Sect. A, 531, Nos. 1–2: 292 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Holy, U. Pietsch, and T. Baumbach, High-Resolution X-Ray Scattering: From Thin Films to Lateral Nanostructures (New York: Springer-Verlag: 2004).",
+				"tr":  "V. Holy, U. Pietsch, and T. Baumbach, High-Resolution X-Ray Scattering: From Thin Films to Lateral Nanostructures (New York: Springer-Verlag: 2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.103.064801",
+				"or":  "A. Snigirev, V. Kohn, I. Snigireva, and B. Lengeler, Phys. Rev. Lett., 103, No. 6: 064801 (2009).",
+				"tr":  "A. Snigirev, V. Kohn, I. Snigireva, and B. Lengeler, Phys. Rev. Lett., 103, No. 6: 064801 (2009)."
+			},
+			{
+				"doi": "10.1038/nphys1789",
+				"or":  "S. Kneip, C. McGuffey, J. L. Martins, S. F. Martins, C. Bellei, V. Chvykov, F. Dollar, R. Fonseca, C. Huntington, G. Kalintchenko, A. Maksimchuk, S. P. D. Mangles, T. Matsuoka, S. R. Nagel, C. A. J. Palmer, J. Schreiber, K. T. Phuoc, A. G. R. Thomas, V. Yanovsky, L. O. Silva, K. Krushelnick, and Z. Najmudin, Nature Phys., 6, No. 12: 980 (2010).",
+				"tr":  "S. Kneip, C. McGuffey, J. L. Martins, S. F. Martins, C. Bellei, V. Chvykov, F. Dollar, R. Fonseca, C. Huntington, G. Kalintchenko, A. Maksimchuk, S. P. D. Mangles, T. Matsuoka, S. R. Nagel, C. A. J. Palmer, J. Schreiber, K. T. Phuoc, A. G. R. Thomas, V. Yanovsky, L. O. Silva, K. Krushelnick, and Z. Najmudin, Nature Phys., 6, No. 12: 980 (2010)."
+			},
+			{
+				"doi": "10.1063/1.1754212",
+				"or":  "U. Bonse and M. Hart, Appl. Phys. Lett., 6, No. 8: 155 (1965).",
+				"tr":  "U. Bonse and M. Hart, Appl. Phys. Lett., 6, No. 8: 155 (1965)."
+			},
+			{
+				"doi": "10.3367/UFNr.0184.201411e.1217",
+				"or":  "В. В. Лидер, Успехи физических наук, 184, № 11: 1217 (2014).",
+				"tr":  "V. V. Lider, Uspekhi Fizicheskikh Nauk, 184, No. 11: 1217 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.1364/OE.17.012540",
+				"or":  "A. Momose, W. Yashiro, H. Maikusa, and Yo. Takeda, Optics Express, 17, No. 15: 12540 (2009).",
+				"tr":  "A. Momose, W. Yashiro, H. Maikusa, and Yo. Takeda, Optics Express, 17, No. 15: 12540 (2009)."
+			},
+			{
+				"doi": "10.1088/1748-0221/8/06/C06002",
+				"or":  "P. C. Diemoz, M. Endrizzi, C. E. Zapata, A. Bravin, R. D. Speller, I. K. Robinson, and A. Olivo, J. Instrumentation, 8, No. 6: C06002 (2013).",
+				"tr":  "P. C. Diemoz, M. Endrizzi, C. E. Zapata, A. Bravin, R. D. Speller, I. K. Robinson, and A. Olivo, J. Instrumentation, 8, No. 6: C06002 (2013)."
+			},
+			{
+				"doi": "10.1088/0034-4885/64/12/206",
+				"or":  "Р. Becker, Rep. Prog. Phys., 64: 1945 (2001).",
+				"tr":  "P. Becker, Rep. Prog. Phys., 64: 1945 (2001)."
+			},
+			{
+				"doi": "10.1364/OE.16.016877",
+				"or":  "L. Ferroglio, G. Mana, and E. Massa, Optics Express, 16, No. 21: 16877 (2008).",
+				"tr":  "L. Ferroglio, G. Mana, and E. Massa, Optics Express, 16, No. 21: 16877 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "З. Г. Пинскер, Рентгеновская кристаллооптика (Москва: Наука: 1982).",
+				"tr":  "S. G. Pinsker, Rentgenovskaya Kristallooptika [X-Ray Crystal Optics] (Moscow: Nauka: 1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. М. Фодчук, Н. Д. Раранский, Я. М. Струк, И. В. Фесив, Металлофиз. новейшие технол., 24, № 5: 617 (2002).",
+				"tr":  "I. M. Fodchuk, M. D. Rarans'ky, Ya. M. Struk, and I. V. Fesiv, Metallofiz. Noveishie Tekhnol., 24, No. 5: 617 (2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Authier, S. Lagomarsino, and B. K. Tanner, X-Ray and Neutron Dynamical Diffraction: Theory and Applications (Boston, MA: Springer: 1997).",
+				"tr":  "A. Authier, S. Lagomarsino, and B. K. Tanner, X-Ray and Neutron Dynamical Diffraction: Theory and Applications (Boston, MA: Springer: 1997)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Д. Раранский, В. П. Шафранюк, И. М. Фодчук, Металлофизика, 7, № 5: 63 (1985).",
+				"tr":  "N. D. Raransky, V. P. Shafraniuk, and I. M. Fodchuk, Metallofizika, 7, No. 5: 63 (1985) (in Russian)."
+			},
+			{
+				"doi": "10.1088/0022-3727/36/10A/311",
+				"or":  "I. M. Fodchuk and M. D. Raransky, J. Phys. D: Appl. Phys., 36: A55 (2003).",
+				"tr":  "I. M. Fodchuk and M. D. Raransky, J. Phys. D: Appl. Phys., 36: A55 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "І. М. Фодчук, М. Д. Раранський, Я. М. Струк, І. В. Фесів, УФЖ, 47, № 11: 1057 (2002).",
+				"tr":  "I. M. Fodchuk, N. D. Raransky, Ja. M. Struk, and I. V. Fesiv, Ukr. Fiz. Zhurn., 47, No. 11: 1057 (2002) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1117/12.920984",
+				"or":  "I. M. Fodchuk, S. M. Novikov, and A. Ya. Struk, Proc. SPIE, 8338: 83381B-1 (2011).",
+				"tr":  "I. M. Fodchuk, S. M. Novikov, and A. Ya. Struk, Proc. SPIE, 8338: 83381B-1 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "И. М. Фодчук, С. Н. Новиков, Я. М. Струк, И. В. Фесив, Металлофиз. новейшие технол., 3, № 5: 711 (2013).",
+				"tr":  "I. M. Fodchuk, S. N. Novikov, Ya. M. Struk, and I. V. Fesiv, Metallofiz. Noveishie Tekhnol., 3, No. 5: 711 (2013) (in Russian)."
+			},
+			{
+				"doi": "10.1080/14786437208226958",
+				"or":  "M. Hart, Philos. Mag., 26, No. 4: 821 (1972).",
+				"tr":  "M. Hart, Philos. Mag., 26, No. 4: 821 (1972)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.31.972",
+				"or":  "R. D. Deslettes and A. Henins, Phys. Rev. Lett., 31, No. 16: 972 (1973).",
+				"tr":  "R. D. Deslettes and A. Henins, Phys. Rev. Lett., 31, No. 16: 972 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Authier, Dynamical Theory of X-Ray Diffraction (New York: Oxford University Press: 2001).",
+				"tr":  "A. Authier, Dynamical Theory of X-Ray Diffraction (New York: Oxford University Press: 2001)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Ляв, Математическая теория упругости (Москва: Физматгиз: 1936).",
+				"tr":  "A. Lyav, Matematicheskaya Teoriya Uprugosti [Mathematical Theory of Elasticity] (Moscow: Fizmatgiz: 1936) (in Russian)."
+			},
+			{
+				"doi": "10.1107/S0365110X6300075X",
+				"or":  "N. Kato, Acta Crystallogr., 16, No. 4: 122 (1963).",
+				"tr":  "N. Kato, Acta Crystallogr., 16, No. 4: 282 (1963)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Л. Инденбом, Ф. Н. Чуховський, Успехи физических наук, 6: 238 (1972).",
+				"tr":  "V. L. Indenbom and F. N. Chukhovskii, Uspekhi Fizicheskikh Nauk, 6, 238 (1972) (in Russian)."
+			},
+			{
+				"doi": "10.1143/JPSJ.26.1239",
+				"or":  "S. Takagi, J. Phys. Soc. Jpn., 26, No. 5: 1239 (1969).",
+				"tr":  "S. Takagi, J. Phys. Soc. Jpn., 26, No. 5: 1239 (1969)."
+			},
+			{
+				"doi": "10.1107/S0021889874009836",
+				"or":  "Y. Epelboin, J. Appl. Crystallogr., 7, No. 3: 372 (1974).",
+				"tr":  "Y. Epelboin, J. Appl. Crystallogr., 7, No. 3: 372 (1974)."
+			}
+		]
+	}
+}

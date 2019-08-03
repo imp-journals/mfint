@@ -1,0 +1,187 @@
+{
+	"year":   2015,
+	"volume": 37,
+	"issue":  5,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [581,591],
+			"title": {
+				"ua": "Комплексне дослідження поверхні Фермі для HfB$_{2}$",
+				"en": "Complex Investigation of the Fermi Surface in HfB$_{2}$",
+				"ru": "Комплексное исследование поверхности Ферми для HfB$_{2}$"
+			},
+			"autors": {
+				"ua": "С. М. Січкар, В. М. Антонов",
+				"en": "S. M. Sichkar and V. N. Antonov",
+				"ru": "С. М. Сичкар, В. Н. Антонов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [593,604],
+			"title": {
+				"ua": "Електронна стуктура рідкоземельного дигідрида GdH$_{2}$",
+				"en": "Electronic Structure of the Rare-Earth Dihydride GdH$_{2}$",
+				"ru": "Электронная стуктура редкоземельного дигидрида GdH$_{2}$"
+			},
+			"autors": {
+				"ua": "З. Аят, Б. Даоуді, А. Оуахаб, А. Боукраа",
+				"en": "Z. Ayat, B. Daoudi, A. Ouahab, and A. Boukraa",
+				"ru": "З. Аят, Б. Даоуди, А. Оуахаб, А. Боукраа"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [605,613],
+			"title": {
+				"ua": "Аналіз еміссії оптичного випромінювання при газовому дуговому зварюванні металевим електродом",
+				"en": "Analysis of Optical Radiation Emissions During GMAW Applications",
+				"ru": "Анализ эмиссии оптического излучения при газовой дуговой сварке металлическим электродом"
+			},
+			"autors": {
+				"ua": "А. Гурсел, А. Курт",
+				"en": "A. Gursel and A. Kurt",
+				"ru": "А. Гурсел, А. Курт"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [615,624],
+			"title": {
+				"ua": "Магнітопластичний ефект в умовах випробувань на кінетичне індентування",
+				"en": "Magnetoplastic Effect in Tests of Kinetic Indentation",
+				"ru": "Магнитопластический эффект в условиях испытаний на кинетическое индентирование"
+			},
+			"autors": {
+				"ua": "С. В. Сейдаметов, С. В. Лоскутов, М. О. Щетініна",
+				"en": "S. V. Seidametov, S. V. Loskutov, and M. O. Schetinina",
+				"ru": "С. В. Сейдаметов, С. В. Лоскутов, М. О. Щетинина"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [625,636],
+			"title": {
+				"ua": "Вплив об'ємної магнітострикції на мартенситне перетворення в сплавах заліза. Магнітний фазовий перехід першого роду",
+				"en": "Influence of Bulk Magnetostriction on the Martensitic Transformation in Iron Alloys. First-Order Magnetic-Phase Transition",
+				"ru": "Влияние объёмной магнитострикции на мартенситное превращение в сплавах железа. Магнитный фазовый переход первого рода"
+			},
+			"autors": {
+				"ua": "І. В. Золотаревський",
+				"en": "I. V. Zolotarevskiy",
+				"ru": "И. В. Золотаревский"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  1,
+			"pages":  [637,647],
+			"title": {
+				"ua": "Низькотемпературні пружні властивості об’ємних металевих стекол на основі цирконію",
+				"en": "Low-Temperature Elastic Properties of Zr-Based Bulk Metallic Glasses",
+				"ru": "Низкотемпературные упругие свойства объёмных металлических стёкол на основе циркония"
+			},
+			"autors": {
+				"ua": "С. О. Бакай, О. С. Булатов, В. Ф. Долженко, В. С. Клочко, А. В. Корнієць, В. І. Спіцина",
+				"en": "S. O. Bakai, O. S. Bulatov, V. F. Dolzhenko, V. S. Klochko, A. V. Korniyets, and V. I. Spitsyna",
+				"ru": "С. А. Бакай, А. С. Булатов, В. Ф. Долженко, В. С. Клочко, А. В. Корниец, В. И. Спицына"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [649,663],
+			"title": {
+				"ua": "Фактори, що визначають рівень чутливості конструкційних сталей до концентрації напружень",
+				"en": "Factors Determining a Level of Constructional Steel Sensitivity to Stress Concentration",
+				"ru": "Факторы, определяющие уровень чувствительности конструкционных сталей к концентрации напряжений"
+			},
+			"autors": {
+				"ua": "С. О. Котречко, В. М. Грищенко, С. О. Мамедов",
+				"en": "S. O. Kotrechko, V. M. Grishchenko, and S. O. Mamedov",
+				"ru": "С. А. Котречко, В. Н. Грищенко, С. А. Мамедов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [665,681],
+			"title": {
+				"ua": "Вплиав швидкості обертання і часу тертя на з’єднання сталей AISI 4340—2205 зварюванням тертям",
+				"en": "The Effects of Rotation Speed and Friction Time for Joining of AISI 4340—2205 Steels by Friction Welding",
+				"ru": "Влияние скорости вращения и времени трения на соединение сталей AISI 4340—2205 сваркой трением"
+			},
+			"autors": {
+				"ua": "У. Калігулу, М. Ялкіноз, Н. Каті, З. Балалан, С. Іслак",
+				"en": "U. Caligulu, M. Yalcinoz, N. Kati, Z. Balalan, and S. Islak",
+				"ru": "У. Калигулу, М. Ялкиноз, Н. Кати, З. Балалан, С. Ислак"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [683,688],
+			"title": {
+				"ua": "Структура і водневосорбційні властивості сплаву (Ti$_{0,34}$Zr$_{0,66}$)Mn$_{1,1}$V$_{0,1}$",
+				"en": "Structure and Hydrogen Sorption Properties of (Ti$_{0.34}$Zr$_{0.66}$)Mn$_{1.1}$V$_{0.1}$ Alloy",
+				"ru": "Структура и водородсорбционные свойства сплава (Ti$_{0,34}$Zr$_{0,66}$)Mn$_{1,1}$V$_{0,1}$"
+			},
+			"autors": {
+				"ua": "В. А. Дехтяренко",
+				"en": "V. A. Dekhtyarenko",
+				"ru": "В. А. Дехтяренко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [689,702],
+			"title": {
+				"ua": "Вплив ізотермічного гартування з рідкого стану на мікроструктуру сплаву Cu$_{47}$Ni$_{8}$Ti$_{34}$Zr$_{11}$",
+				"en": "Effect of Isothermal Quenching from the Liquid State on the Microstructure of Cu$_{47}$Ni$_{8}$Ti$_{34}$Zr$_{11}$",
+				"ru": "Влияние изотермической закалки из жидкого состояния на микроструктуру сплава Cu$_{47}$Ni$_{8}$Ti$_{34}$Zr$_{11}$"
+			},
+			"autors": {
+				"ua": "О. Б. Лисенко, О. Л. Косинська, О. О. Лисенко, Т. В. Калініна",
+				"en": "O. B. Lysenko, O. L. Kosynska, O. O. Lysenko, and T. V. Kalinina",
+				"ru": "А. Б. Лысенко, О. Л. Косинская, А. А. Лысенко, Т. В. Калинина"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [703,712],
+			"title": {
+				"ua": "Структура поверхневих шарів доевтектичного силуміну після лазерного легування сумішшю порошків міді та кобальту",
+				"en": "Surface-Layers’ Structure of Hypoeutectic Silumin after Laser Alloying by Mixture of the Copper and Cobalt Powders",
+				"ru": "Структура поверхностных слоёв доэвтектического силумина после лазерного легирования смесью порошков меди и кобальта"
+			},
+			"autors": {
+				"ua": "В. В. Гіржон, В. М. Ковальова, О. В. Смоляков",
+				"en": "V. V. Girzhon, V. M. Kovalyova, and O. V. Smolyakov",
+				"ru": "В. В. Гиржон, В. Н. Ковалёва, А. В. Смоляков"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [713,721],
+			"title": {
+				"ua": "Структура та властивості композиційних електролітичних нікелевих покриттів одержаних імпульсним струмом",
+				"en": "The Structure and Properties of Electrolytic Nickel Composite Coatings Fabricated by Pulse Current",
+				"ru": "Структура и свойства композиционных электролитических никелевых покрытий, полученных импульсным током"
+			},
+			"autors": {
+				"ua": "В. В. Дудкіна, В. О. Заблудовський, Е. Ф. Штапенко",
+				"en": "V. V. Dudkina, V. A. Zabludovskiy, and E. F. Shtapenko",
+				"ru": "В. В. Дудкина, В. А. Заблудовский, Э. Ф. Штапенко"
+			}
+		}
+	]
+}

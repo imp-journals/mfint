@@ -1,0 +1,172 @@
+{
+	"_id":    "MFiNT.40.09.1185",
+	"year":   2018,
+	"volume": 40,
+	"issue":  9,
+	"pages":  [1185,1199],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["24.01.2018"],
+	"PACS":   "43.35.+d, 61.43.Gt, 64.75.Nx, 75.60.Ej, 81.20.Ev, 81.20.Wk, 81.40.Rs",
+	"title":   {
+		"ua": "Дослідження процесу розшарування твердих розчинів, сформованих ультразвуковим розмелюванням крупнозернистих порошкових сумішей мідь-кобальт і мідь-залізо, та його впливу на їхні структурно-фазовий стан і магнетні властивості",
+		"en": "Investigation of Process of Layering of the Solid Solutions Formed by Ultrasonic Milling of Coarse-Grained Powder Blends of Copper with Cobalt and Copper with Iron, and Its Influence on Their Structure–Phase State and Magnetic Properties",
+		"ru": "Исследование процесса расслоения твёрдых растворов, сформированных ультразвуковым размалыванием крупнозернистых порошковых смесей медь-кобальт и медь-железо, а также его влияния на их структурно-фазовое состояние и магнитные свойства"
+	},
+	"abstract": {
+		"ua": "Методами рентґеноструктурної аналізи та магнетометрії досліджено структурні та магнетні характеристики крупнозернистих порошкових сумішей (КЗПС) міді із залізом і кобальтом, оброблених ультразвуком і відпалених за температур у 600 і 800°C. Показано, що механоактиваційне оброблення у кульовому млині приводить до взаємного розчинення металів і утворення твердих розчинів, а також до значного подрібнення структури. Наступний відпал КЗПС Cu+Co та Cu+Fe, оброблених ультразвуком, за температури у 600°C не приводить до значних змін їхнього фазового складу, але істотно впливає на розміри ОКР, які в обох сумішах зростають майже на порядок. Після відпалу КЗПС при 800°C на дифрактограмах з’являються лінії чистих металів, а лінії твердих розчинів зникають, що свідчить про повний розпад пересичених твердих розчинів, сформованих при ультразвуковому обробленні. Відпал оброблених ультразвуком КЗПС приводить до достатньо значних змін їхніх магнетних характеристик, котрі зумовлені відповідними змінами концентрації Cu у твердих розчинах із залізом і кобальтом та переходом розмірів частинок у порошинках через критичне значення (перехід феромагнетик–суперпарамагнетик).",
+		"en": "The structure, phase composition, dispersion, and magnetic properties of coarse-grained powder mixture (CGPM) of copper with iron and cobalt after ultrasonic treatment and annealing at 600 and 800°С are studied by x-ray analysis and magnetic methods. As shown, ultrasonic treatment in a ball mill results to mutual dissolution of metals, to solid-solution formation, and to considerable grinding of structure. Following annealing at 600°С does not change phase composition nearly, but essentially influence on coherent-scattering regions’ sizes, and its growth in accordance with Lifshitz–Sl’ozov coalescence theory. Annealing at 800°С results to appearance of pure-metal lines and disappearance of solid-solution lines on x-ray diagram that indicates on oversaturated solid-solutions’ decomposition. Annealing influences essentially on magnetic properties of CGPM fabricated by ultrasonic treatment that is due to both changes of copper concentration in solid solutions with iron and cobalt and the transition of particles’ sizes in powders over critical value (ferromagneticsuperparamagnetic transition).",
+		"ru": "Методами рентгеноструктурного анализа и магнитометрии исследованы структурные и магнитные характеристики крупнозернистых порошковых смесей (КЗПС) меди с железом и кобальтом, обработанных ультразвуком и отожжённых при температурах 600 и 800°C. Показано, что механоактивационная обработка в шаровой мельнице приводит к взаимному растворению металлов и образованию твёрдых растворов, а также к значительному измельчению структуры. Последующий отжиг КЗПС Cu+Co и Cu+Fe, обработанных ультразвуком, при температуре 600°C не приводит к значительному изменению фазового состава КЗПС, но существенно влияет на размеры ОКР, которые в обеих смесях растут почти на порядок. После отжига КЗПС при 800°C на дифрактограммах появляются линии чистых металлов, а линии твёрдых растворов исчезают, что свидетельствует о полном распаде пересыщенных твёрдых растворов, сформированных при ультразвуковой обработке. Отжиг обработанных ультразвуком КЗПС приводит к значительным изменениям их магнитных характеристик, которые обусловлены соответствующими изменениями концентрации Cu в твёрдых растворах с железом и кобальтом и переходом размеров частиц в порошинках через критическое значение (переход ферромагнетиксуперпарамагнетик)."
+	},
+	"keywords": {
+		"ua": "високодисперсні порошки, ультразвукове розмелювання, магнетні властивості, рентґеноструктурна аналіза, магнетні міряння",
+		"en": "coarse-grained powders, ultrasonic milling, magnetic properties, x-ray structural analysis, magnetic measurements",
+		"ru": "высокодисперсные порошки, ультразвуковой размол, магнитные свойства, рентгеноструктурный анализ, магнитные измерения"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. М. Надутов", "en": "V. M. Nadutov", "ru": "В. М. Надутов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. О. Перекос", "en": "A. O. Perekos", "ru": "А. Е. Перекос"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Б. М. Мордюк", "en": "B. M. Mordyuk", "ru": "Б. Н. Мордюк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. З. Войнаш", "en": "V. Z. Voinash", "ru": "В. З. Войнаш"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Т. В. Єфімова", "en": "T. V. Efimova", "ru": "Т. В. Ефимова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. П. Залуцький", "en": "V. P. Zalutskyi", "ru": "В. П. Залуцкий"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Т. Г. Кабанцев", "en": "T. G. Kabantsev", "ru": "Т. Г. Кабанцев"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 22,
+		"list":  [
+			{
+				"doi": "10.15407/mfint.40.03.0327",
+				"or":  "В. М. Надутов, А. О. Перекос, Б. М. Мордюк, В. З. Войнаш, Т. В. Єфімова, В. П. Залуцький, Т. Г. Кабанцев, Металлофиз. новейшие технол., 40, № 3: 327 (2018).",
+				"tr":  "V. M. Nadutov, A. O. Perekos, B. M. Mordyuk, V. Z. Voynash, T. V. Efimova, V. P. Zalutsky, and T. G. Kabantsev, Metallofiz. Noveishie Tekhnol., 40, No. 3: 327 (2018) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. В. Козлов, Б. М. Мордюк, Г. І. Прокопенко, Пристрій для отримання порошкових матеріалів (Патент України № 59770А, 15.09.2003) (Бюл. № 9, 2003).",
+				"tr":  "A. V. Kozlov, B. N. Mordyuk, and G. I. Prokopenko, Prystriy Dlya Otrymannya Poroshkovykh Materialiv [The Device for Obtaining Powder Materials] (Patent Ukraine No. 59770A, Sept.15, 2003) (Bull. No. 9, 2003) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/j.ultras.2004.01.001",
+				"or":  "B. N. Mordyuk and G. I. Prokopenko, Ultrasonics, 42, Nos. 1–9: 43 (2004).",
+				"tr":  "B. N. Mordyuk and G. I. Prokopenko, Ultrasonics, 42, Nos. 1–9: 43 (2004)."
+			},
+			{
+				"doi": "10.1038/nature00985",
+				"or":  "A. Calka and D. Wexler, Nature, 419: 147 (2002).",
+				"tr":  "A. Calka and D. Wexler, Nature, 419: 147 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. И. Прокопенко, К. В. Чуистов, А. В. Козлов, А. Е. Перекос, Б. Н. Мордюк, Т. В. Ефимова, В. П. Залуцкий, Н. А. Пискун, Т. В. Ружицкая, Металлофиз. новейшие технол., 25, № 2: 171 (2003).",
+				"tr":  "G. I. Prokopenko, K. V. Chuistov, O. V. Kozlov, A. O. Perekos, B. M. Mordyuk, T. V. Efimova, V. P. Zalutskyi, N. O. Piskun, and T. V. Ruzhits'ka, Metallofiz. Noveishie Technol., 25, No. 2: 171 (2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Е. Перекос, Б. Н. Мордюк, Г. И. Прокопенко, Т. В. Ружицкая, Т. В. Ефимова, В. П. Залуцкий, Н. Д. Рудь, Металлофиз. новейшие технол., 30, № 12: 1619 (2008).",
+				"tr":  "A. O. Perekos, B. M. Mordyuk, G. I. Prokopenko, T. V. Ruzhits'ka, T. V. Efimova, V. P. Zalutskyi, and N. D. Rud, Metallofiz. Noveishie Technol., 30, No. 12: 1619 (2008) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2008.11.122",
+				"or":  "M. Zhu, L. Y. Dai, N. S. Gu, B. Cao, and L. Z. Ouyang, J. Alloys Compd., 478, Iss. 1–2: 624 (2009).",
+				"tr":  "M. Zhu, L. Y. Dai, N. S. Gu, B. Cao, and L. Z. Ouyang, J. Alloys Compd., 478, Iss. 1–2: 624 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Иверонова, Г. П. Ревкевич, Теория рассеяния рентгеновских лучей (Москва: Издательство МГУ: 1972).",
+				"tr":  "V. I. Iveronova and G. P. Revkevich, Teoriya Rasseiniya Rentgenovskikh Luchey [Theory of X-Rays Scattering] (Moscow: MGU Publishing: 1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. С. Горелик, Ю. А. Скаков, Л. Н. Расторгуев, Рентгенографический и электронно-оптический анализ (Москва: МИСиС: 1994).",
+				"tr":  "S. S. Gorelik, Yu. A. Skakov, and L. N. Rastorguev, Rentgenographicheskiy i Electronnoopticheskiy Analiz [X-Ray and Electrooptical Analysis] (Moscow: MISiS: 1994) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. С. Уманский, Ю. А. Скаков, Физика металлов (Москва: Атомиздат: 1978).",
+				"tr":  "Ya. S. Umansky and Yu.A. Skakov, Fizika Metallov [Metal Physics] (Moscow: Atomizdat: 1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Барабаш, Ю. Н. Коваль, Кристаллическая структура металлов и сплавов (Киев: Наукова думка: 1986).",
+				"tr":  "O. M. Barabash and Yu. N. Koval, Kristallicheskaya Struktura Metallov i Splavov [Crystalline Structure of Metals and Alloys] (Kiev: Naukova Dumka: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Бозорт, Ферромагнетизм (Москва: Иностр. лит.: 1956) (пер. с. англ.).",
+				"tr":  "R. Bosort, Ferromagnetizm [Ferromagnetism] (Moscow: Publ. Inostr. Lit.: 1956) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Вонсовский, Магнетизм (Москва: Наука: 1971).",
+				"tr":  "S.V. Vonsovskiy, Magnetizm [Magnetism] (Moscow: Nauka: 1971) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ломер, В. Маршалл, Теория ферромагнетизма металлов и сплавов: Сборник (Москва: Иностр. лит.: 1963), с. 56 (пер. з англ.).",
+				"tr":  "W. Lomer and W. Marshall, Teoriya Ferromagnetizma Metallov i Splavov: Sbornik Statey [Theory of Ferromagnetism of Metals and Alloys: Collected Articles] (Moscow: Inostr. Lit.: 1963), p. 56 (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Голдман, А. Арротт, Семинар по магнитным свойствам металлов и сплавов (25–26 октября 1958 г., Кливленд): Сборник докладов (Москва: Иностр. лит.: 1961) (пер. з англ.).",
+				"tr":  "J. E. Goldman and A. Arrott, Seminar po Magnitnym Svoistvam Metallov i Splavov (25–26 Oktyabrya 1958, Cleveland): Sbornik Dokladov [Workshop on Magnetic Properties of Metals and Alloys (25–26 October, 1958, Cleveland): Collected Articles] (Moscow: Inostr. Lit.: 1961) (Russian translation)."
+			},
+			{
+				"doi": "10.15407/mfint.40.08.1093",
+				"or":  "В. М. Надутов, А. О. Перекос, Б. М. Мордюк, В. З. Войнаш, Т. В. Єфімова, В. П. Залуцький, Т. Г. Кабанцев, Н. О. Піскун, Металлофиз. новейшие технол., 40, № 8: 1093 (2018).",
+				"tr":  "V. M. Nadutov, A. O. Perekos, B. M. Mordyuk, V. Z. Voynash, T. V. Efimova, V. P. Zalutsky, T. G. Kabantsev, and N. O. Piskun, Metallofiz. Noveishie Tekhnol., 40, No. 8: 1093 (2018) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. В. Чуистов, Старение металлических сплавов (Киев: Академпериодика: 2003).",
+				"tr":  "K. V. Chuistov, Starenie Metallicheskikh Splavov [Ageing of Metallic Alloys] (Kyiv: Akademperiodyka: 2003) (in Russian)."
+			},
+			{
+				"doi": "10.3367/UFNr.0151.198701c.0067",
+				"or":  "В. В. Слезов, В. В. Сагалович, Успехи физических наук, 151, вып. 1: 67 (1987).",
+				"tr":  "V. V. Slezov and V. V. Sagalovich, Uspekhi Fizicheckikh Nauk, 30, No. 1: 23 (1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Гусев, А. А. Ремпель, Нанокристаллические материалы (Москва: Физматлит: 2001).",
+				"tr":  "A. I. Gusev and A. A. Rempel, Nanokristallicheskie Materialy [Nanocrystalline Materials] (Moscow: Fizmatgiz: 2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. И. Петров, Физика малых частиц (Москва: Наука:1982).",
+				"tr":  "Yu. I. Petrov, Fizika Malykh Chastits [Physics of Small Particles] (Moscow: Nauka: 1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Непийко, Физические свойства малых металлических частиц (Киев: Наукова думка: 1985).",
+				"tr":  "S. A. Nepijko, Fizicheskie Svoistva Malykh Metallicheskikh Chastits [Physical Properties of Small Metal Particles] (Kiev: Naukova Dumka: 1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Ф. Кущевская, А. Е. Перекос, И. В. Уварова, В. З. Войнаш, Т. В. Ефимова, Э. В. Польшин, А. Е. Кущевский, А. И. Олешко, Т. Е. Бабутина, Доповіді НАН України, № 11: 93 (2007).",
+				"tr":  "N. F. Kushchevskaya, A. O. Perekos, I. V. Uvarova, V. Z. Voynash, T. V. Efimova, E. V. Polshyn, A. E. Kushchevskiy, A. I. Oleshko, and T. E. Babutina, Dopov. Nac. Akad. Nauk Ukr., No. 11: 93 (2007) (in Russian)."
+			}
+		]
+	}
+}

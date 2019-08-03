@@ -1,0 +1,142 @@
+{
+	"_id":    "MFiNT.36.09.1225",
+	"year":   2014,
+	"volume": 36,
+	"issue":  9,
+	"pages":  [1225,1236],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["17.02.2014","16.06.2014"],
+	"PACS":   "61.43.Bn, 61.46.Bc, 61.46.Df, 62.23.St, 64.70.Nd, 65.80.-g, 82.60.Qr",
+	"title":   {
+		"ua": "Структурні переходи ГЦК—ікосаедр в нанокластерах алюмінію та свинцю",
+		"en": "Structural F.C.C.—Icosahedron Transitions within the Aluminium and Lead Nanoclusters",
+		"ru": "Структурные переходы ГЦК—икосаэдр в нанокластерах алюминия и свинца"
+	},
+	"abstract": {
+		"ua": "В роботі досліджено границі термічної стабільности первинної ГЦК-фази у кластерах алюмінію та свинцю діяметром до 3 нм методою молекулярної динаміки з використанням модифікованого потенціялу сильного зв’язку TB-SMA. Показано, що під дією температурного чинника в малих кластерах Al і Pb відбувається перехід з первинної ГЦК-фази в інші структурні модифікації, в тому числі й з пентагональною симетрією. З ростом розміру наночастинок спостерігається зсув температури політипного переходу до температури топлення кластера. Визначено, що для кластерів алюмінію, на відміну від кластерів свинцю, більш значну роль у формуванні структури відіграють «магічні» числа.",
+		"en": "The thermal stability boundaries of initial f.c.c. phase within the Al and Pb nanoclusters with a diameter of up to 3.0 nm are investigated by the molecular dynamics method using modified tight-binding potential (TB-SMA). The simulation indicates that the structural transition in small Al and Pb clusters from the initial f.c.c. phase to other modifications, including ones with pentagonal symmetry, occurs under the influence of temperature factor. The transition temperature is shifted towards the cluster melting temperature with an increase in the cluster size. As determined, the geometrical ‘magic’ numbers play a major role in a structure formation for aluminium clusters, unlike lead clusters.",
+		"ru": "В работе исследованы границы термической стабильности исходной ГЦК-фазы в кластерах алюминия и свинца диаметром до 3 нм методом молекулярной динамики с использованием модифицированного потенциала сильной связи TB-SMA. Показано, что под действием температурного фактора в малых кластерах Al и Pb происходит переход из начальной ГЦК-фазы в иные структурные модификации, в том числе и с пентагональной симметрией. С ростом размера наночастиц наблюдается смещение температуры политипного перехода к температуре плавления кластера. Определено, что для кластеров алюминия, в отличие от кластеров свинца, большую роль в формировании структуры играют геометрические «магические» числа."
+	},
+	"keywords": {
+		"ua": "нанокластери, алюміній, свинець, молекулярна динаміка, сильний зв’язок, комп’ютерне моделювання",
+		"en": "nanoclusters, aluminium, lead, molecular dynamics, tight-binding, computer simulations",
+		"ru": "нанокластеры, алюминий, свинец, молекулярная динамика, сильная связь, компьютерное моделирование"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. С. Байдишев", "en": "V. S. Baydyshev", "ru": "В. С. Байдышев"},
+			"OID": [404]
+		},
+		{
+			"AID": {"ua": "Ю. Я. Гафнер", "en": "Yu. Ya. Gafner", "ru": "Ю. Я. Гафнер"},
+			"OID": [404]
+		}
+	],
+	"references": {
+		"count": 20,
+		"list":  [
+			{
+				"doi": "10.1007/s11051-004-6575-2",
+				"or":  "S. Panigrahi, S. Kundu, S. K. Ghosh, S. Nath, and T. Pal, J. Nanopart. Res., 6: 411 (2004).",
+				"tr":  "S. Panigrahi, S. Kundu, S. K. Ghosh, S. Nath, and T. Pal, J. Nanopart. Res., 6: 411 (2004)."
+			},
+			{
+				"doi": "10.1023/A:1010012802415",
+				"or":  "M. H. Magnusson, K. Deppert, J.-O. Malm, J.-O. Bovin, and L. Samuelson, J. Nanopart. Res., 1: 243 (1999).",
+				"tr":  "M. H. Magnusson, K. Deppert, J.-O. Malm, J.-O. Bovin, and L. Samuelson, J. Nanopart. Res., 1: 243 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "Ch. P. Poole, Jr. and F. J. Owens, Introduction to Nanotechnology (New York: Wiley & Sons, Inc.: 2003).",
+				"tr":  "Ch. P. Poole, Jr. and F. J. Owens, Introduction to Nanotechnology (New York: Wiley & Sons, Inc.: 2003)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Demtröder, Molekülphysik. Theoretische Grundlagen und Experimentelle Methoden (München: R. Oldenbourg Verlag GmbH: 2003) (in German).",
+				"tr":  "W. Demtröder, Molekülphysik. Theoretische Grundlagen und Experimentelle Methoden (München: R. Oldenbourg Verlag GmbH: 2003) (in German)."
+			},
+			{
+				"doi": "10.1063/1.457464",
+				"or":  "W. Miehle, O. Kandler, T. Leisner, and O. Echt, J. Chem. Phys., 91: 5940 (1989).",
+				"tr":  "W. Miehle, O. Kandler, T. Leisner, and O. Echt, J. Chem. Phys., 91: 5940 (1989)."
+			},
+			{
+				"doi": "10.1007/978-3-642-58926-3",
+				"or":  "S. Sugano and H. Koizumi, Microcluster Physics (Berlin: Springer-Verlag: 1998).",
+				"tr":  "S. Sugano and H. Koizumi, Microcluster Physics (Berlin: Springer-Verlag: 1998)."
+			},
+			{
+				"doi": "",
+				"or":  "D. J. Wales and J. P. K. Doye, Cond. Mat., 3: 344 (1998).",
+				"tr":  "D. J. Wales and J. P. K. Doye, Cond. Mat., 3: 344 (1998)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.61.5771",
+				"or":  "J. M. Soler, M. R. Beltran, and K. Michaelian, Phys. Rev. B, 61: 5771 (2000).",
+				"tr":  "J. M. Soler, M. R. Beltran, and K. Michaelian, Phys. Rev. B, 61: 5771 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "S. C. Hendy and B. D. Hall, Cond. Mat., 11 (2000).",
+				"tr":  "S. C. Hendy and B. D. Hall, Cond. Mat., 11 (2000)."
+			},
+			{
+				"doi": "10.3367/UFNr.0163.199310b.0029",
+				"or":  "Б. М. Смирнов, Успехи физических наук, 163, № 10: 29 (1993).",
+				"tr":  "B. M. Smirnov, Uspekhi Fizicheskikh Nauk, 163, No. 10: 29 (1993) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.48.22",
+				"or":  "F. Cleri and V. Rosato, Phys. Rev. B, 48: 22 (1993).",
+				"tr":  "F. Cleri and V. Rosato, Phys. Rev. B, 48: 22 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Г. Бембель, В. М. Самсонов, Вестник Тверского государственного университета. Сер. Физика, 13: 72 (2011).",
+				"tr":  "A. G. Bembel and V. M. Samsonov, Vestnik Tverskogo Gosudarstvennogo Universiteta. Ser. Fizika, No. 13: 72 (2011) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.447334",
+				"or":  "S. Nose, J. Phys. Chem., 81: 511 (1984).",
+				"tr":  "S. Nose, J. Phys. Chem., 81: 511 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Горностырев, И. Н. Карькин, М. И. Кацнельсон, А. В. Трефилов, Физ. мет. металловед., 96, № 2: 19 (2003).",
+				"tr":  "Yu. N. Gornostyrev, I. N. Kar'kin, M. I. Katsnel'son, and A. V. Trefilov, Fiz. Met. Metalloved., 96, No. 2:19 (2003) (in Russian)."
+			},
+			{
+				"doi": "10.1021/jp063982o",
+				"or":  "C. M. Wei, C. Cheng, and C. M. Chang, Phys. Chem. B, 110: 24642 (2006).",
+				"tr":  "C. M. Wei, C. Cheng, and C. M. Chang, Phys. Chem. B, 110: 24642 (2006)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.62.4666",
+				"or":  "B. K. Rao, S. N. Khanna, and P. Jena, Phys. Rev. B, 62, No. 7: 4666 (2000).",
+				"tr":  "B. K. Rao, S.N. Khanna, and P. Jena, Phys. Rev. B, 62, No. 7: 4666 (2000)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.70.195431",
+				"or":  "Chang-Hong Yao, Bin Song, and Pei-Lin Cao, Phys. Rev. B, 70: 195431 (2004).",
+				"tr":  "Chang-Hong Yao, Bin Song, and Pei-Lin Cao, Phys. Rev. B, 70: 195431 (2004)."
+			},
+			{
+				"doi": "10.1021/jp810107c",
+				"or":  "Xiao-Ping Li, Wen-Cai Lu, Qing-Jun Zang, Guang-Ju Chen, C. Z. Wang, and K. M. Ho, J. Phys. Chem. A, 113: 6217 (2009).",
+				"tr":  "Xiao-Ping Li, Wen-Cai Lu, Qing-Jun Zang, Guang-Ju Chen, C. Z. Wang, and K. M. Ho, J. Phys. Chem. A, 113: 6217 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Л. Гафнер, Л. В. Редель, Ю. Я. Гафнер, Физ. мет. металловед., 104, № 2: 189 (2007).",
+				"tr":  "S. L. Gafner, L. V. Redel, and Yu. Ya. Gafner, Fiz. Met. Metalloved., 104, No. 2: 189 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Л. Гафнер, Л. В. Редель, Ю. Я. Гафнер, ЖЭТФ, 135, № 5: 899 (2009).",
+				"tr":  "S. L. Gafner, L. V. Redel, and Yu. Ya. Gafner, ZhETF, 135, No. 5: 899 (2009) (in Russian)."
+			}
+		]
+	}
+}

@@ -1,0 +1,157 @@
+{
+	"year":   2016,
+	"volume": 38,
+	"issue":  3,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [285,303],
+			"title": {
+				"ua": "Симетрія РЗМ. Парадокс Се і його сплавів. Квантова теорія. 2. Пам’ять форми та інші властивості сплавів Се",
+				"en": "Symmetry of Rare-Earth Metals. Paradox of Cerium and Its Alloys. A Quantum Theory. 2. Memory of the Shape and Other Properties of Alloys of Cerium",
+				"ru": "Симметрия РЗМ. Парадокс Се и его сплавов. Квантовая теория. 2. Память формы и другие свойства сплавов Се"
+			},
+			"autors": {
+				"ua": "О. І. Міцек, В. М. Пушкар",
+				"en": "O. I. Mitsek and V. M. Pushkar",
+				"ru": "А. И. Мицек, В. Н. Пушкарь"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [305,317],
+			"title": {
+				"ua": "Розподіл атомів за кристалографічними позиціями та електронна будова сплавів Гойслера CoTiSb",
+				"en": "Allocation of Atoms on Crystallographic Positions and an Electronic Structure of the Heusler CoTiSb Alloy",
+				"ru": "Распределение атомов по кристаллографическим позициям и электронное строение сплава Гейслера CoTiSb"
+			},
+			"autors": {
+				"ua": "В. М. Уваров, М. В. Уваров, С. А. Беспалов",
+				"en": "V. N. Uvarov, N. V. Uvarov, and S. A. Bespalov",
+				"ru": "В. Н. Уваров, Н. В. Уваров, С. А. Беспалов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [319,328],
+			"title": {
+				"ua": "Переходи Джозефсона з підвищеним значенням характеристичної напруги",
+				"en": "Josephson Junctions with the Increased Value of a Characteristic Voltage",
+				"ru": "Переходы Джозефсона с повышенным значением характеристического напряжения"
+			},
+			"autors": {
+				"ua": "В. Є. Шатерник, А. П. Шаповалов, А. В. Шатерник, Т. А. Пріхна",
+				"en": "V. E. Shaternik, A. P. Shapovalov, A. V. Shaternik, and T. A. Prikhna",
+				"ru": "В. Е. Шатерник, А. П. Шаповалов, А. В. Шатерник, Т. А. Прихна"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [329,340],
+			"title": {
+				"ua": "Перенесення заряду в полікристалічних плівках Pd нанометрової товщини",
+				"en": "Charge Transport in Polycrystalline Films of a Palladium of Nanometre Thickness",
+				"ru": "Перенос заряда в поликристаллических плёнках Pd нанометровой толщины"
+			},
+			"autors": {
+				"ua": "Р. І. Бігун, В. М. Гаврилюх, З. В. Стасюк, Д. С. Леонов",
+				"en": "R. I. Bigun, V. M. Gavrylyukh, Z. V. Stasyuk, and D. S. Leonov",
+				"ru": "Р. И. Бигун, В. М. Гаврилюх, З. В. Стасюк, Д. С. Леонов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [341,351],
+			"title": {
+				"ua": "Отримання та дослідження нанотрубок оксиду цинку",
+				"en": "Fabrication and Characterization of Zinc Oxide Nanotubes",
+				"ru": "Получение и исследование нанотрубок оксида цинка"
+			},
+			"autors": {
+				"ua": "П. П. Горбик, І. В. Дубровін, Г. М. Кашин",
+				"en": "P. P. Gorbik, G. N. Kashin, and I. V. Dubrovin",
+				"ru": "П. П. Горбик, И. В. Дубровин, Г. Н. Кашин"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [353,365],
+			"title": {
+				"ua": "Вплив газових молекул з атмосфери на абсорбцію водню нанокристалічними пористими (V, 10 ат.% Ti)N$_{x}$ плівками",
+				"en": "Influence of Gas Molecules From an Atmosphere on Absorption of Hydrogen by Nanocrystalline Porous (V, 10 at.% Ti)N$_{x}$ Films",
+				"ru": "Влияние газовых молекул из атмосферы на абсорбцию водорода нанокристаллическими пористыми (V, 10 ат.% Ti)N$_{x}$ плёнками"
+			},
+			"autors": {
+				"ua": "В. В. Власов, О. Г. Гугля, Ю. О. Марченко, О. С. Солопіхіна, Є. Н. Зубарєв",
+				"en": "V. V. Vlasov, A. G. Guglya, Yu. A. Marchenko, E. S. Solopikhina, and E. N. Zubarev",
+				"ru": "В. В. Власов, А. Г. Гугля, Ю. А. Марченко, Е. С. Солопихина, Е. Н. Зубарев"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  2,
+			"pages":  [367,388],
+			"title": {
+				"ua": "Структурні та рентгено-оптичні характеристики багатошарових рентгенівських дзеркал W/Si",
+				"en": "Structural and X-Ray—Optical Characteristics of the W/Si Multilayer X-Ray Mirrors",
+				"ru": "Структурные и рентгено-оптические характеристики многослойных рентгеновских зеркал W/Si"
+			},
+			"autors": {
+				"ua": "Ю. П. Першин, А. Ю. Девізенко, В. В. Кондратенко, H. Modrow, F.-J. Hormes",
+				"en": "Yu. P. Pershin, A. Yu. Devizenko, V. V. Kondratenko, H. Modrow, and F.-J. Hormes",
+				"ru": "Ю. П. Першин, А. Ю. Девизенко, В. В. Кондратенко, H. Modrow, F.-J. Hormes"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  2,
+			"pages":  [389,403],
+			"title": {
+				"ua": "Відтворення залишкового деформаційного поля в кристалі-аналізаторі $LLL$-інтерферометра",
+				"en": "Reconstruction of a Residual Strain Field in a Crystal-Analyser of a $LLL$-Interferometer",
+				"ru": "Воспроизведение остаточного деформационного поля в кристалле-анализаторе $LLL$-интерферометра"
+			},
+			"autors": {
+				"ua": "І. М. Фодчук, С. М. Новіков, І. В. Яремчук",
+				"en": "I. M. Fodchuk, S. М. Novikov, and I. V. Yaremchuk",
+				"ru": "И. М. Фодчук, С. Н. Новиков, И. В. Яремчук"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [405,414],
+			"title": {
+				"ua": "Щодо природи аномальної поведінки динамічного модуля пружності субмікрокристалічної міді за відпалу",
+				"en": "On the Nature of the Anomalous Behaviour of a Dynamic Modulus of Elasticity of Submicrocrystalline Copper at Annealing",
+				"ru": "О природе аномального поведения динамического модуля упругости субмикрокристаллической меди при отжиге"
+			},
+			"autors": {
+				"ua": "В. О. Білошенко, О. О. Давиденко, В. Ю. Дмитренко, А.vМ. Пилипенко, Н. Є. Письменова, В. В. Чишко",
+				"en": "V. A. Beloshenko, A. A. Davidenko, V. Yu. Dmitrenko, A. N. Pilipenko, N. E. Pismenova, and V. V. Chishko",
+				"ru": "В. А. Белошенко, А. А. Давиденко, В. Ю. Дмитренко, А. Н. Пилипенко, Н. Е. Письменова, В. В. Чишко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [415,425],
+			"title": {
+				"ua": "Розрахункова модель росту втомної макротріщини за змішаного Ⅰ + Ⅲ макромеханізму руйнування",
+				"en": "Calculation Model of Growth of a Fatigue Macrocrack in Case of the Ⅰ + Ⅲ Mixed-Mode Macromechanism of Fracture",
+				"ru": "Расчётная модель роста усталостной макротрещины при смешанном Ⅰ + Ⅲ макромеханизме разрушения"
+			},
+			"autors": {
+				"ua": "Д. В. Рудавський, Ю. І. Канюк, В. Р. Бас",
+				"en": "D. V. Rudavskyy, Yu. I. Kanyuk, and V. R. Bas",
+				"ru": "Д. В. Рудавский, Ю. И. Канюк, В. Р. Бас"
+			}
+		}
+	]
+}

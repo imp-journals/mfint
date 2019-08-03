@@ -1,0 +1,136 @@
+{
+	"_id":    "MFiNT.40.11.1509",
+	"year":   2018,
+	"volume": 40,
+	"issue":  11,
+	"pages":  [1509,1520],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["12.02.2018","09.10.2018"],
+	"PACS":   "06.60.Vz, 07.50.Tp, 81.20.Hy, 81.40.Ef, 81.40.Lm, 81.70.Bt, 83.50.Uv",
+	"title":   {
+		"ua": "Спрощене моделювання тандемного холодного вальцювання (зливків із одночасним маніпулюванням)",
+		"en": "Simplified Modelling of Tandem Cold Rolling",
+		"ru": "Упрощённое моделирование тандемной холодной прокатки (слитков с одновременным манипулированием)"
+	},
+	"abstract": {
+		"ua": "Запропоновано методику розрахунку для вирішення задачі реґулювання натягу між клітями у тандемному холодному вальцюванні. На основі методи зрізів дана методика розвиває обчислювальний модель для однієї кліті, а потім узагальнює його для п’ятьох клітей. Ефективність цієї методики оцінюється при використанні експериментальних даних, одержаних на тандемному прокатному стані комплексу IMETAL Steel El-Hadjar-Algeria. Беручи до уваги пружність вальців і використовуючи Ньютонову методу, розроблений модель може бути успішно застосованим при обчисленні натягу для п’ятьох клітей. У порівнянні з програмним забезпеченням LAM3 одержані результати показали, що запропонована методика є ефективною і може бути використаною для підвищення продуктивности тандемного холодного вальцювання.",
+		"en": "In this paper, a calculation technique for solving the problem of regulating interstand tension in a tandem cold rolling is proposed. Based on the slices’ method, the proposed technique develops a computational model for a single stand, and then generalizes it for five stands. The effectiveness of this technique is evaluated using experimental data acquired from tandem rolling mill of IMETAL steel complex of El-Hadjar-Algeria. By taking into account the elasticity of the rolls and using Newton’s method, the developed model can be used to calculate successfully the tensions’ correction of the five stands. Compared with the LAM3 software, the obtained results indicated that the proposed technique is effective and can be used to produce better performance of tandem cold rolling.",
+		"ru": "Предложена методика расчёта для решения задачи регулирования натяжения между клетями в тандемной холодной прокатке (слитков с одновременным манипулированием). На основе метода срезов данная методика развивает вычислительную модель для одной клети, а затем обобщает её для пяти клетей. Эффективность этой методики оценивается при использовании экспериментальных данных, полученных на тандемном прокатном стане комплекса IMETAL Steel El-Hadjar-Algeria. Принимая во внимание упругость вальцов и используя метод Ньютона, разработанная модель может быть успешно применена при вычислении натяжения для пяти клетей. По сравнению с программным обеспечением LAM3 полученные результаты показали, что предложенная методика эффективна и может быть использована для повышения производительности тандемной холодной прокатки."
+	},
+	"keywords": {
+		"ua": "моделювання, тандемне холодне вальцювання, метода зрізів, пружність, Ньютонова метода",
+		"en": "modelling, tandem cold rolling, slices’ method, elasticity, Newton’s method",
+		"ru": "моделирование, тандемная холодная прокатка, метод срезов, упругость, метод Ньютона"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "К. Слімані", "en": "K. Slimani", "ru": "К. Слимани"},
+			"OID": [520, 537]
+		},
+		{
+			"AID": {"ua": "М. Зааф", "en": "M. Zaaf", "ru": "М. Зааф"},
+			"OID": [520]
+		},
+		{
+			"AID": {"ua": "Х. Бенджама", "en": "H. Bendjama", "ru": "Х. Бенджама"},
+			"OID": [537]
+		}
+	],
+	"references": {
+		"count": 18,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "C. F. Bryant, Automation of Tandem Mills (London, U.K.: British Iron and Steel Institute: 1973).",
+				"tr":  "C. F. Bryant, Automation of Tandem Mills (London, U.K.: British Iron and Steel Institute: 1973)."
+			},
+			{
+				"doi": "",
+				"or":  "A. J. Carlton and R. G. Conway, Iron Steel Eng., 69, No. 6: 17 (1992).",
+				"tr":  "A. J. Carlton and R. G. Conway, Iron Steel Eng., 69, No. 6: 17 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Duval, J. C. Parks, and G. Fellus, Iron Steel Eng., 68, No. 11: 46 (1991).",
+				"tr":  "P. Duval, J. C. Parks, and G. Fellus, Iron Steel Eng., 68, No. 11: 46 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "E. J. M. Geddes, Tandem Cold Rolling and Robust Multivariable Control (Ph.D. Disser.) (Control Syst. Res., Dept. Elect. Eng., Univ. Leicester, U.K.: 1998).",
+				"tr":  "E. J. M. Geddes, Tandem Cold Rolling and Robust Multivariable Control (Ph.D. Disser.) (Control Syst. Res., Dept. Elect. Eng., Univ. Leicester, U.K.: 1998)."
+			},
+			{
+				"doi": "10.1016/0005-1098(88)90050-7",
+				"or":  "I. Hoshino et al., Automatica, 24, No. 6: 741 (1988).",
+				"tr":  "I. Hoshino et al., Automatica, 24, No. 6: 741 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "Von Kármán and T. Beitragzur, Z. Angew. Math. Mech., 5: 139 (1925).",
+				"tr":  "Von Kármán and T. Beitragzur, Z. Angew. Math. Mech., 5: 139 (1925)."
+			},
+			{
+				"doi": "10.1243/PIME_PROC_1943_150_025_02",
+				"or":  "E. Orowan, Proc. Instn. Mech. Eng., 150: 140 (1943).",
+				"tr":  "E. Orowan, Proc. Instn. Mech. Eng., 150: 140 (1943)."
+			},
+			{
+				"doi": "10.1016/0020-7403(84)90005-5",
+				"or":  "K. Mori and K. Osakada, Int. J. Mech. Sci., 26, Nos. 9–10: 515 (1984).",
+				"tr":  "K. Mori and K. Osakada, Int. J. Mech. Sci., 26, Nos. 9–10: 515 (1984)."
+			},
+			{
+				"doi": "10.1016/0378-3804(85)90005-1",
+				"or":  "H. J. Huisman and J. Huétink, J. Mech. Working Technol., 11: 333 (1985).",
+				"tr":  "H. J. Huisman and J. Huétink, J. Mech. Working Technol., 11: 333 (1985)."
+			},
+			{
+				"doi": "10.1016/0045-7825(91)90242-X",
+				"or":  "J.-L. Chenot, P. Montmitonnet, A. Bern, and C. Bertrand-Corsini, Comput. Meth. Appl. Mech. Eng., 92, No. 2: 245 (1991).",
+				"tr":  "J.-L. Chenot, P. Montmitonnet, A. Bern, and C. Bertrand-Corsini, Comput. Meth. Appl. Mech. Eng., 92, No. 2: 245 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Montmitonnet, Laminage à Froid: Modélisation M616 (Paris: 2000).",
+				"tr":  "P. Montmitonnet, Laminage à Froid: Modélisation M616 (Paris: 2000)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Montmitonnet, Laminage-Analyse Thermomécanique 2D et Application aux Produit Plats M3066V2 (Juin, 2016).",
+				"tr":  "P. Montmitonnet, Laminage-Analyse Thermomécanique 2D et Application aux Produit Plats M3066V2 (Juin, 2016)."
+			},
+			{
+				"doi": "",
+				"or":  "Huy Le Dang, Modélisation Simplifiée des Processus de Laminage (2014).",
+				"tr":  "Huy Le Dang, Modélisation Simplifiée des Processus de Laminage (2014)."
+			},
+			{
+				"doi": "10.1243/PIME_PROC_1943_150_025_02",
+				"or":  "E. Orowan, Proc. Instn. Mech. Eng., 150: 140 (1943).",
+				"tr":  "E. Orowan, Proc. Instn. Mech. Eng., 150: 140 (1943)."
+			},
+			{
+				"doi": "",
+				"or":  "D. R. Bland and H. Ford, J. Iron Steel Inst., 171: 245 (1952).",
+				"tr":  "D. R. Bland and H. Ford, J. Iron Steel Inst., 171: 245 (1952)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Cosse and M. Economopoulos, CNRM, 17: 15 (1968).",
+				"tr":  "P. Cosse and M. Economopoulos, CNRM, 17: 15 (1968)."
+			},
+			{
+				"doi": "10.1016/0020-7403(60)90003-5",
+				"or":  "D. Jortner, J. F. Osterle, and C. F. Zorowski, Int. J. Mech. Sci., 2: 179 (1960).",
+				"tr":  "D. Jortner, J. F. Osterle, and C. F. Zorowski, Int. J. Mech. Sci., 2: 179 (1960)."
+			},
+			{
+				"doi": "10.1016/S0997-7538(98)80065-X",
+				"or":  "A. Hacquin, P. Montmitonnet, and J.-Ph. Guillerault, Eur. J. Mech. A (Solids), 1: 79 (1998).",
+				"tr":  "A. Hacquin, P. Montmitonnet, and J.-Ph. Guillerault, Eur. J. Mech. A (Solids), 1: 79 (1998)."
+			}
+		]
+	}
+}

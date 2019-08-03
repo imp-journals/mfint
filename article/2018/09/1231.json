@@ -1,0 +1,143 @@
+{
+	"_id":    "MFiNT.40.09.1231",
+	"year":   2018,
+	"volume": 40,
+	"issue":  9,
+	"pages":  [1231,1245],
+	"rubric": 1,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["10.02.2018","07.08.2018"],
+	"PACS":   "61.66.Dk, 62.20.Qp, 75.30.Kz, 81.05.Bх, 81.30.Bx, 81.40.Ef, 81.40.Rs",
+	"title":   {
+		"ua": "Вплив високих швидкостей охолодження на фазовий склад і фізичні властивості стопів Со–Ве і Сu–Ве",
+		"en": "Influence of High Rates of Cooling on a Phase Composition and Physical Properties of the Co–Be and Cu–Be Alloys",
+		"ru": "Влияние высоких скоростей охлаждения на фазовый состав и физические свойства сплавов Co–Be и Cu–Be"
+	},
+	"abstract": {
+		"ua": "Методою гартування з рідкого стану (ГРС) у стопах Со–Ве та Сu–Ве виявлено утворення однорідних сильнопересичених (до 23 ат.%Ве у стопі Со–Ве та до 31,4 ат.%Ве у стопі Сu–Ве) твердих розчинів, що мають склад вихідної рідини ($C_0$). При максимально досягнутих (10$^7$ К/с) швидкостях охолодження розтопу, що є достатніми для формування твердого аморфного стану, не вдається запобігти процесам впорядкування у конґруентній еквіатомовій фазі Со–Ве (тип СsCl). У той же час для стопу Сu–Ве показано, що в умовах ГРС можливе формування пересиченого твердого розчину змішаного (втілення–заміщення) типу. Експериментально підтверджено значне при ГРС переохолодження розтопу нижче температури розпаду фаз евтектоїдного складу — $\\beta_1$- и $\\beta$-фази, відповідно, в стопах Со–Ве і Сu–Ве. Показано позитивну роль методи ГРС у підвищенні рівня механічних і магнетоцупких характеристик швидкоохолоджених плівок.",
+		"en": "The formation of homogeneous highly supersaturated (up to 23 at.% Be and 31.4 at.% Be in a Co–Be alloy and a Cu–Be alloy, respectively) solid solutions having the same composition as the initial liquid ($C_0$) is revealed in the Co–Be and Cu–Be alloys by the method of quenching from the liquid state (QLS). At the maximum cooling rates (10$^7$ K/s) sufficient to form an amorphous solid state, it is not possible to prevent ordering processes in the congruent equiatomic phase of CsCl-type Co–Be. At the same time, for a Cu–Be alloy, it is shown that, under the QLS conditions, a hybrid interstitial–substitutional-type solid solution can be formed. As experimentally confirmed, under the QLS conditions, a significant supercooling of the melt below the decomposition temperature of the phases of the eutectoid composition, namely, $\\beta_1$ and $\\beta$ in the Co–Be and Cu–Be alloys, respectively, is took place. The positive role of the QLS method in increasing of the level of the mechanical and hard-magnetic characteristics in rapid-quenched films is shown.",
+		"ru": "Методом закалки из жидкого состояния (ЗЖС) в сплавах Co–Be и Cu–Be обнаружено образование однородных сильнопересыщенных (до 23 ат.%Ве в сплаве Со–Ве и до 31,4 ат.%Ве в сплаве Сu–Ве) твёрдых растворов, имеющих состав исходной жидкости ($C_0$). При максимально достигнутых (10$^7$ К/с) скоростях охлаждения расплава, достаточных для формирования твёрдого аморфного состояния, не удаётся, однако, предотвратить процессы упорядочения в конгруэнтной эквиатомной фазе Co–Be (тип CsCl). В то же время для сплава Cu–Ве показано, что в условиях ЗЖС возможно формирование пересыщенного твёрдого раствора смешанного (внедрения–замещения) типа. Экспериментально подтверждено значительное при ЗЖС переохлаждение расплава ниже температуры распада фаз эвтектоидного состава — $\\beta_1$- и $\\beta$-фазы, соответственно, в сплавах Со–Ве и Cu–Be. Показана положительная роль метода ЗЖС в повышении уровня механических и магнитожёстких характеристик быстроохлаждённых плёнок."
+	},
+	"keywords": {
+		"ua": "гартування з розтопу, перитектична й евтектоїдна реакції, еквіатомова фаза, магнетні властивості, сильнопересичений твердий розчин",
+		"en": "splat-quenching, peritectic and eutectoid reactions, equiatomic phase, magnetic characteristics, highly supersaturated solid solution",
+		"ru": "закалка из расплава, перитектическая и эвтектоидная реакции, эквиатомная фаза, магнитные характеристики, сильнопересыщенный твёрдый раствор"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Ф. Башев", "en": "V. F. Bashev", "ru": "В. Ф. Башев"},
+			"OID": [222]
+		},
+		{
+			"AID": {"ua": "О. І. Кушнерьов", "en": "O. I. Kushnerov", "ru": "А. И. Кушнерёв"},
+			"OID": [222]
+		},
+		{
+			"AID": {"ua": "Є. В. Ільченко", "en": "Ye. V. Il’chenko", "ru": "Е. В. Ильченко"},
+			"OID": [222]
+		},
+		{
+			"AID": {"ua": "С. І. Рябцев", "en": "S. I. Ryabtsev", "ru": "С. И. Рябцев"},
+			"OID": [222]
+		},
+		{
+			"AID": {"ua": "Н. О. Куцева", "en": "N. O. Kutseva", "ru": "Н. А. Куцева"},
+			"OID": [222]
+		},
+		{
+			"AID": {"ua": "А. А. Костіна", "en": "А. А. Kostina", "ru": "А. А. Костина"},
+			"OID": [222]
+		}
+	],
+	"references": {
+		"count": 17,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Л. Г. Коршунов, А. В. Корзников, Н. Л. Черненко, Физика металлов и металловедение, 111, № 4: 413 (2011).",
+				"tr":  "L. G. Korshunov, A. V. Korznikov, and N. L. Chernenko, Fizika Metallov i Metallovedenie, 111, No. 4: 395 (2011) (in Russian)."
+			},
+			{
+				"doi": "10.1007/s40195-016-0403-4",
+				"or":  "Y. Zhou, K. Song, J. Xing, Z. Li, and X.Guo, Acta Metallurgica Sinica (English Letters), 29, Iss. 4: 399 (2016).",
+				"tr":  "Y. Zhou, K. Song, J. Xing, Z. Li, and X.Guo, Acta Metallurgica Sinica (English Letters), 29, Iss. 4: 399 (2016)."
+			},
+			{
+				"doi": "10.1007/s10853-010-5232-7",
+				"or":  "R. Monzen, T. Hosoda, Y. Takagawa, and C. Watanabe, J. Mater. Sci., 46, Iss. 12: 4284 (2011).",
+				"tr":  "R. Monzen, T. Hosoda, Y. Takagawa, and C. Watanabe, J. Mater. Sci., 46, Iss. 12: 4284 (2011)."
+			},
+			{
+				"doi": "10.1007/s13632-016-0314-9",
+				"or":  "M. P. Ahmed, H. S. Jailani, S. R. Mohideen, and A. Rajadurai, Metallography, Microstructure, and Analysis, 5, Iss. 6: 528 (2016).",
+				"tr":  "M. P. Ahmed, H. S. Jailani, S. R. Mohideen, and A. Rajadurai, Metallography, Microstructure, and Analysis, 5, Iss. 6: 528 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "K. A. Walsh, Beryllium Chemistry and Processing (Materials Park, Ohio, USA: ASM International: 2009).",
+				"tr":  "Kenneth A. Walsh, Beryllium Chemistry and Processing (Materials Park, Ohio, USA: ASM International: 2009)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Хансен, К. Андерко, Структуры двойных сплавов (Москва: Изд-во НТЛ: 1962).",
+				"tr":  "M. Hansen and K. Anderko, Struktury Dvoynykh Splavov [Structures of Binary Alloys] (Moscow: Izdatel'stvo NTL: 1962) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "T. B. Massalskii, Binary Alloy Phase Diagrams (Materials Park, Ohio, USA: ASM International: 1990).",
+				"tr":  "T. B. Massalskii, Binary Alloy Phase Diagrams (Materials Park, Ohio, USA: ASM International: 1990)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Башев, А. И. Кушнерев, Физика металлов и металловедение, 118, № 1: 42 (2017).",
+				"tr":  "V. F. Bashev and O. I. Kushnerov, Fizika Metallov i Metallovedenie, 118, No. 1: 39 (2017) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. С. Мирошниченко, Закалка из жидкого состояния (Москва: Металлургия: 1982).",
+				"tr":  "I. S. Miroshnichenko, Zakalka iz Zhidkogo Sostoyaniya [Quenching from a Liquid State] (Moscow: Metallurgiya: 1982) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.37.12.1681",
+				"or":  "В. К. Носенко, А. Ю. Руденко, Т. Н. Моисеева, В. В. Максимов, М. С. Низамеев, А. И. Лимановский, А. М. Семирга, В. И. Ткач, Металлофиз. новейшие технол., 37, № 12: 1681(2015).",
+				"tr":  "V. K. Nosenko, O. Yu. Rudenko, T. N. Moiseeva, V. V. Maksimov, M. S. Nizameyev, A. I. Limanovskii, O. M. Semyrga, and V. I. Tkatch, Metallofiz. Noveishie Tekhnol., 37, No. 12: 1681 (2015) (in Russian)."
+			},
+			{
+				"doi": "10.3367/UFNr.0100.197002d.0277",
+				"or":  "А. А. Чернов, Успехи физических наук, 100, № 2: 317(1970).",
+				"tr":  "A. A. Chernov, Uspekhi Fizicheskikh Nauk, 100, No. 2: 317 (1970) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Башев, Ф. Ф. Доценко, И. С. Мирошниченко, А. В. Тесля, Металлы, № 5: 120 (1990).",
+				"tr":  "V. F. Bashev, F. F. Dotsenko, I. S. Miroshnichenko, and A. V. Teslya, Metally, No. 5: 120 (1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Pearson, A Handbook of Lattice Spacings and Structures of Metals and Alloys (London: Pergamon Press: 1958).",
+				"tr":  "W. Pearson, A Handbook of Lattice Spacings and Structures of Metals and Alloys (London: Pergamon Press: 1958)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. М. Воробьев, В. Ф. Башев, В. И. Большаков, Доповіді НАН України, № 8: 115 (1998).",
+				"tr":  "G. M. Vorob'ev, V. F. Bashev, and V. I. Bol'shakov, Dopov. Nac. Akad. Nauk Ukr., No. 8: 115 (1998) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0038-1098(78)90561-6",
+				"or":  "R. Roy and R. Hasegawa, Solid State Сommunications, 27, Nо. 4: 471 (1978).",
+				"tr":  "R. Roy and R. Hasegawa, Solid State Communications, 27, No. 4: 471 (1978)."
+			},
+			{
+				"doi": "10.1016/0038-1098(72)90372-9",
+				"or":  "R. Ray, M. Segnini, and B. C. Giessen, Solid State Сommunications, 10, Nо. 1: 163 (1972).",
+				"tr":  "R. Ray, M. Segnini, and B. C. Giessen, Solid State Communications, 10, No. 1: 163 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "С. С. Горелик, Ю. А. Скаков, Л. Н. Расторгуев, Рентгенографический и электронно-оптический анализ (Москва: МИСИС: 2002).",
+				"tr":  "S. S. Gorelik, Yu. A. Skakov, and L. N. Rastorguev, Rentgenograficheskiy i Elektronno-Opticheskiy Analiz [X-Ray and Electrooptical Analysis] (Moscow: MISiS: 2002) (in Russian)."
+			}
+		]
+	}
+}

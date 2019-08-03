@@ -1,0 +1,143 @@
+{
+	"_id":    "MFiNT.38.10.1335",
+	"year":   2016,
+	"volume": 38,
+	"issue":  10,
+	"pages":  [1335,1349],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["10.05.2016"],
+	"PACS":   "05.70.Ln, 62.20.F-, 62.50.-p, 81.40.Jj, 81.40.Lm, 83.10.-y, 83.50.-v",
+	"title":   {
+		"ua": "Закономірності локалізованої пластичної течії як наслідки пружньо-пластичного інваріянту деформації",
+		"en": "Regularities of the Localized Plastic Flow Viewed as Consequences of Elastoplastic Invariant of Strain",
+		"ru": "Закономерности локализованного пластического течения как следствия упругопластического инварианта деформации"
+	},
+	"abstract": {
+		"ua": "Досліджено закономірності ґенерації макроскопічних фазових автохвиль локалізації пластичної течії на лінійних стадіях деформаційного зміцнення. Показано, що характеристики пружніх і пластичних хвиль утворюють інваріянтну величину. Існування пружньо-пластичного інваріянту деформації визначається закономірностями зміни ентропії системи при формуванні таких автохвиль. Розглянуто наслідки з існування пружньо-пластичного інваріянту й оцінено його роль і можливості в описі закономірностей розвитку локалізованої пластичної течії.",
+		"en": "Regularities of generation of macroscopic phase autowaves of localized plasticity are investigated for linear stages of work hardening. As shown, the characteristics of autowaves and ultrasound waves form the invariant value. Its occurrence is governed by the behaviour of entropy in the course of autowaves’ generation. The consequences of this invariant are considered, and its role and descriptive possibilities for the development of localized plastic flow are discussed.",
+		"ru": "Исследованы закономерности генерации макроскопических фазовых автоволн локализации пластического течения на линейных стадиях деформационного упрочнения. Показано, что характеристики упругих и пластических волн образуют инвариантную величину. Существование упругопластического инварианта деформации определяется закономерностями изменения энтропии системы при формировании таких автоволн. Рассмотрены следствия из существования упругопластического инварианта и оценены его роль и возможности в описании закономерностей развития локализованного пластического течения."
+	},
+	"keywords": {
+		"ua": "деформація, пластичність, пружність, дефекти, локалізація, зміцнення, автохвилі",
+		"en": "deformation, plasticity, elasticity, defects, localization, hardening, autowaves",
+		"ru": "деформация, пластичность, упругость, дефекты, локализация, упрочнение, автоволны"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Л. Б. Зуєв", "en": "L. B. Zuev", "ru": "Л. Б. Зуев"},
+			"OID": [405, 406]
+		}
+	],
+	"references": {
+		"count": 21,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Л. Б. Зуев, В. И. Данилов, С. А. Баранникова, Физика макролокализации пластического течения (Новосибирск: Наука: 2008).",
+				"tr":  "L. B. Zuev, V. I. Danilov, and S.A. Barannikova, Fizika Macrolokaliizatsii Plasticheskogo Techeniya [Plastic Flow Macrolocalization Physics] (Novosibirsk: Nauka: 2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. П. Земсков, А. Ю. Лоскутов, Ж. экспер. теор. физ., 134, № 3: 406 (2008).",
+				"tr":  "E. P. Zemskov and A. Yu. Loskutov, JETP, 134, No. 3: 406 (2008)."
+			},
+			{
+				"doi": "10.3367/UFNr.0161.199108b.0045",
+				"or":  "В. А. Давыдов, В. С. Зыков, А. С. Михайлов, Успехи физ. наук, 161, № 1: 45 (1991).",
+				"tr":  "V. A. Davydov, V. S. Zykov, and A. S. Mikhailov, Usp. Fiz. Nauk, 161, No. 1: 45 (1991) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.16.01.035",
+				"or":  "Л. Б. Зуев, Усп. физ. мет., 16, № 1: 35 (2015).",
+				"tr":  "L. B. Zuev, Uspekhi Fisiki Met., 16, No. 1: 35 (2015) (in Russian)."
+			},
+			{
+				"doi": "10.3103/S1062873814100256",
+				"or":  "Л. Б. Зуев, Известия РАН. Сер, физическая, 78, № 10: 1206 (2014).",
+				"tr":  "L. B. Zuev, Bull. Rus. Acad. Sci. Physics, 78, No.10: 957 (2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Кольский, Волны напряжений в твердых телах (Москва: ИЛ: 1955).",
+				"tr":  "H. Kolsky, Stress Waves in Solids (Oxford: Dover Phoenix Edition: 2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. М. Шестопалов, Деформирование металлов и волны пластичности в них (Москва–Ленинград: Изд-во АН СССР: 1958).",
+				"tr":  "L. M. Shestopalov, Deformirovanie Metallov i Volny Plastichnosti v Nikh [Deformation of Metals and Plasticity Waves in Them] (Moscow–Leningrad: AS of USSR Publ.: 1958) (in Russian)."
+			},
+			{
+				"doi": "10.1007/978-3-642-03177-9",
+				"or":  "U. Messerschmidt, Dislocation Dynamics during Plastic Deformation (Berlin: Springer: 2010).",
+				"tr":  "U. Messerschmidt, Dislocation Dynamics during Plastic Deformation (Berlin: Springer: 2010)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Caillard and J. L. Martin, Thermally Activated Mechanisms in Crystal Plasticity (Oxford: Elsevier: 2003).",
+				"tr":  "D. Caillard and J. L. Martin, Thermally Activated Mechanisms in Crystal Plasticity (Oxford: Elsevier: 2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Л. Климонтович, Введение в физику открытых систем (Москва: Янус-К: 2002).",
+				"tr":  "Yu. L. Klimontovich, Vvedenie v FIziku Otkrytikh System [An Introduction into Open System Physics] (Moscow: Yanus-K Publ.: 2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Хакен, Информация и самоорганизация. Макроскопический подход к сложным системам (Москва: URSS: 2014).",
+				"tr":  "H. Haken, Information and Self-Organization (Berlin: Springer: 1988)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Д. Ландау, Е. М. Лифшиц, Гидродинамика (Москва: Наука: 1988).",
+				"tr":  "L. D. Landau and E. M. Lifshits, Gidrodinamika [Fluid Mechanics] (Moscow: Nauka Publ.: 1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Л. Гиляров, А. И. Слуцкер, Ж. техн. физ., 80, № 5: 94 (2010).",
+				"tr":  "V. L. Gilyarov and A. I. Slutsker, Tech. Phys., 80, No. 5: 94 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Л. Ройтбурд, Физика деформационного упрочнения монокристаллов (Киев: Наукова думка: 1972).",
+				"tr":  "A. L. Roitburd, Fizika Deformatsionnogo Uprochneniya Monokristallov (Kyiv: Naukova Dumka: 1972), p. 5 (in Russian)."
+			},
+			{
+				"doi": "10.1080/01418610208240024",
+				"or":  "L. B. Zuev and B. S. Semukhin, Philos. Mag. A, 82, No. 10: 1183 (2002).",
+				"tr":  "L. B. Zuev and B. S. Semukhin, Philos. Mag. A, 82, No. 10: 1183 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Косевич, А. С. Ковалев, Введение в нелинейную физическую механику (Киев: Наукова думка: 1989).",
+				"tr":  "A. M. Kosevich and A. S. Kovalev, Vvedenie v Nelineinuyu Fizicheskuyu Mekhaniku [An Introduction into Nonlinear Physical Mechanics] (Kyiv: Naukova Dumka: 1989) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.1714577",
+				"or":  "J. J. Gilman, J. Appl. Phys., 36, No. 11: 2772 (1965).",
+				"tr":  "J. J. Gilman, J. Appl. Phys., 36, No. 11: 2772 (1965)."
+			},
+			{
+				"doi": "",
+				"or":  "В. З. Бенгус, Е. Д. Табачникова, В. Н. Островерх, Физ. тверд. тела, 15, № 12: 3452 (1973).",
+				"tr":  "V. Z. Bengus, E. D. Tabachnikova, and V. N. Ostroverkh, Fiz. Tverdogo Tela [Phys. Solid State], 15, No. 12: 3452 (1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Косевич, Физическая механика реальных кристаллов (Киев: Наукова думка: 1981).",
+				"tr":  "A. M. Kosevitch, Fizicheskaya Mekhanika Real'nykh Kristallov [The Physical Mechanisc of Real Crystals] (Kyiv: Naukova Dumka: 1981) (in Russian)."
+			},
+			{
+				"doi": "10.1080/01418619908214273",
+				"or":  "L. B. Zuev and V. I. Danilov, Philos. Mag. A, 79, No. 1: 43 (1999).",
+				"tr":  "L. B. Zuev and V. I. Danilov, Philos. Mag. A, 79, No. 1: 43 (1999)."
+			},
+			{
+				"doi": "10.1088/1757-899X/3/1/012004",
+				"or":  "P. Landau, R. Z. Shneck, G. Makov, and A. Venkert, IOP Conf. Ser.: Mat. Sci. Eng., 3, No. 1: 012004 (2009).",
+				"tr":  "P. Landau, R. Z. Shneck, G. Makov, and A. Venkert, IOP Conf. Ser.: Mat. Sci. Eng., 3, No. 1: 012004 (2009)."
+			}
+		]
+	}
+}

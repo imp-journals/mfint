@@ -1,0 +1,53 @@
+{
+	"_id":    "MFiNT.37.0233",
+	"year":   2015,
+	"volume": 37,
+	"issue":  2,
+	"pages":  [233,241],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["09.09.2014","17.10.2014"],
+	"PACS":   "52.77.Dq, 68.35.Fx, 81.05.Bx, 81.15.Jj, 81.20.Vj, 81.40.Vw, 81.40.Wx",
+	"title":  {
+		"ua": "Відмінні особливості дифузійної взаємодії міді та молібдену при зварюванні тиском через модифіковані іонною обробкою прошарки",
+		"en": "The Distinctive Features of Diffusion Interaction of Copper and Molybdenum under Pressure Welding Through the Layers Modified by Ion-Beam Processing",
+		"ru": "Отличительные особенности диффузионного взаимодействия меди и молибдена при сварке давлением через модифицированные ионной обработкой прослойки"
+	},
+	"abstract": {
+		"ua": "Досліджено процес дифузійного зварювання у вакуумі міді з молібденом через модифіковані йонним обробленням прошарки. За допомогою методи радіоактивних ізотопів визначено особливості дифузійної взаємодії міді з молібденом. Показано, що, змінюючи основні параметри режиму йонного оброблення поверхневого шару зварного матеріялу, можна істотно впливати на розміри зони взаємодії та механічні властивості зварного з’єднання. Встановлено доцільність при дифузійному зварюванні у вакуумі міді з молібденом попередньої модифікації поверхні молібдену міддю.",
+		"en": "The process of diffusion welding of copper with molybdenum in the vacuum through the layers modified by ion-beam processing is investigated. The distinctive features of diffusion interaction of copper and molybdenum are determined using the radioactive tracer technique. The possibility of substantial influence of changing the critical parameters of the mode of ion-beam processing of surface layer of the welded material on the sizes of interaction zone and mechanical properties of the joint weld is shown. Expediency of previous modification of molybdenum surface with copper in the process of diffusion welding of copper with the molybdenum in the vacuum is established.",
+		"ru": "Исследован процесс диффузионной сварки в вакууме меди с молибденом через модифицированные ионной обработкой прослойки. С помощью метода радиоактивных изотопов определены особенности диффузионного взаимодействия меди с молибденом. Показано, что, изменяя основные параметры режима ионной обработки поверхностного слоя сварного материала, можно существенно влиять на размеры зоны взаимодействия и механические свойства сварного соединения. Установлена целесообразность при диффузионной сварке в вакууме меди с молибденом предварительной модификации поверхности молибдена медью."
+	},
+	"keywords": {
+		"ua": "мідь, молібден, диффузійне зварювання, йонно-променева обробка, метод радіоактивних ізотопів",
+		"en": "copper, molybdenum, diffusive welding, ion-beam processing, radioactive tracer technique",
+		"ru": "медь, молибден, диффузная сварка, ионно-лучевой обработки, метод радиоактивных изотопов"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Ф. Мазанко", "en": "V. F. Mazanko", "ru": "В. Ф. Мазанко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Г. К. Харченко", "en": "H. K. Kharchenko", "ru": "Г. К. Харченко"},
+			"OID": [5]
+		},
+		{
+			"AID": {"ua": "Т. Р. Ганєєв", "en": "T. R. Hanieiev", "ru": "Т. Р. Ганеев"},
+			"OID": [227]
+		},
+		{
+			"AID": {"ua": "О. О. Новомлинець", "en": "O. O. Novomlynets", "ru": "О. А. Новомлинец"},
+			"OID": [227]
+		},
+		{
+			"AID": {"ua": "І. В. Завальна", "en": "I. V. Zavalna", "ru": "И. В. Завальная"},
+			"OID": [227]
+		}
+	],
+	"references": {
+		"count": 15,
+		"list":  []
+	}
+}

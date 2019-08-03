@@ -1,0 +1,227 @@
+{
+	"_id":    "MFiNT.36.11.1453",
+	"year":   2014,
+	"volume": 36,
+	"issue":  11,
+	"pages":  [1453,1464],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["07.04.2014"],
+	"PACS":   "75.30.Et, 75.30.Gw, 75.50.Ee, 75.70.Cn, 75.80.+q, 85.70.Ay",
+	"title":   {
+		"ua": "Індукована магнітострикцією анізотропія в обмінно-підмагнічених двошарових плівках",
+		"en": "The Anisotropy Induced by a Magnetostriction in Exchange-Biased Two-Layer Films",
+		"ru": "Индуцированная магнитострикцией анизотропия в обменно-подмагниченных двуслойных плёнках"
+	},
+	"abstract": {
+		"ua": "Величина обмінного підмагнетовування на межі поділу феромагнетик (ФМ)/антиферомагнетик (АФ) істотно залежить від стану антиферомагнетного шару, який, завдяки сильним магнетопружнім взаємодіям, чутливий до механічних напружень. В даній роботі розглянуто магнетопружні ефекти, що виникають на межі поділу ФМ/АФ через ґратницеву невідповідність і магнетне впорядкування. Продемонстровано спосіб, в який магнетострикція впливає на взаємну орієнтацію АФ- і ФМ-векторів і на напрямок легкої осі в тонкому АФ-шарі. Одержані результати можуть бути використаними при створенні систем з обмінним підмагнетовуванням.",
+		"en": "The exchange bias at ferromagnetic (FM)/antiferromagnetic (AF) interfaces strongly depends upon the state of antiferromagnetic layer, which is sensitive to mechanical stresses due to its strong magnetoelastic coupling. In a given paper, we consider magnetoelastic effects, which arise at FM/AF interface due to misfit of lattices and magnetic ordering. We show how magnetostriction affects mutual orientation of the AF and FM vectors as well as magnetic easy-axis direction in thin AF layer. The results obtained can be used for tailoring of exchange-biased systems.",
+		"ru": "Величина обменного подмагничивания на границе раздела ферромагнетик (ФМ)/антиферромагнетик (АФ) существенно зависит от состояния антиферромагнитного слоя, который, благодаря сильным магнитоупругим взаимодействиям, чувствителен к механическим напряжениям. В данной статье рассмотрены магнитоупругие эффекты, возникающие на границе раздела ФМ/АФ из-за решёточного несоответствия и магнитного упорядочения. Показано, каким образом магнитострикция влияет на взаимную ориентацию АФ- и ФМ-векторов и на направление лёгкой оси в тонком АФ-слое. Полученные результаты могут быть использованы при создании систем с обменным подмагничиванием."
+	},
+	"keywords": {
+		"ua": "магнітна анізотропія, обмінне підмагнічування, магнетопружність, магнітні властивості інтерфейсів, антиферомагнетик",
+		"en": "magnetic anisotropy, exchange bias, magnetoelasticity, magnetic properties of interfaces, antiferromagnet",
+		"ru": "магнитная анизотропия, обменное подмагничивание, магнитоупругость, магнитные свойства интерфейсов, антиферромагнетик"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. В. Гомонай", "en": "O. V. Gomonay", "ru": "Е. В. Гомонай"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "І. Лук’янчук", "en": "I. Lukyanchuk", "ru": "И. Лукьянчук"},
+			"OID": [479]
+		}
+	],
+	"references": {
+		"count": 37,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "K. Li, Y. Wu, Z. Guo, Y. Zheng, G. Han, J. Qiu, P. Luo, L. An, and T. Zhou, J. Nanoscience and Nanotechnology, 7, No. 1: 13 (2007).",
+				"tr":  "K. Li, Y. Wu, Z. Guo, Y. Zheng, G. Han, J. Qiu, P. Luo, L. An, and T. Zhou, J. Nanoscience and Nanotechnology, 7, No. 1: 13 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.79.184425",
+				"or":  "F. Radu, S. K. Mishra, I. Zizak, A. I. Erko, H. A. Dürr, W. Eberhardt, G. Nowak, S. Buschhorn, H. Zabel, K. Zhernenkov, M. Wolff, D. Schmitz, E. Schierle, E. Dudzik, and R. Feyerherm, Phys. Rev. B, 79, No. 18: 184425 (2009).",
+				"tr":  "F. Radu, S. K. Mishra, I. Zizak, A. I. Erko, H. A. Dürr, W. Eberhardt, G. Nowak, S. Buschhorn, H. Zabel, K. Zhernenkov, M. Wolff, D. Schmitz, E. Schierle, E. Dudzik, and R. Feyerherm, Phys. Rev. B, 79, No. 18: 184425 (2009)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.80.608",
+				"or":  "Y. Ijiri, J. A. Borchers, R. W. Erwin, S.-H. Lee, P. J. van der Zaag, and R. M. Wolf, Phys. Rev. Lett., 80, No. 3: 608 (1998).",
+				"tr":  "Y. Ijiri, J. A. Borchers, R. W. Erwin, S.-H. Lee, P. J. van der Zaag, and R. M. Wolf, Phys. Rev. Lett., 80, No. 3: 608 (1998)."
+			},
+			{
+				"doi": "10.1016/S0304-8853(98)00266-2",
+				"or":  "J. Nogués and I. K. Schuller, J. Magn. Magn. Mater., 192, No. 2: 203 (1999).",
+				"tr":  "J. Nogués and I. K. Schuller, J. Magn. Magn. Mater., 192, No. 2: 203 (1999)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.84.4224",
+				"or":  "P. Miltenyi, M. Gierlings, J. Keller, B. Beschoten, G. Guntherodt, U. Nowak, and K. D. Usadel, Phys. Rev. Lett., 84, No. 18: 4224 (2000).",
+				"tr":  "P. Miltenyi, M. Gierlings, J. Keller, B. Beschoten, G. Guntherodt, U. Nowak, and K. D. Usadel, Phys. Rev. Lett., 84, No. 18: 4224 (2000)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.86.5389",
+				"or":  "W. Zhu, L. Seve, R. Sears, B. Sinkovic, and S. S. P. Parkin, Phys. Rev. Lett., 86, No. 23: 5389 (2001).",
+				"tr":  "W. Zhu, L. Seve, R. Sears, B. Sinkovic, and S. S. P. Parkin, Phys. Rev. Lett., 86, No. 23: 5389 (2001)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.68.014418",
+				"or":  "C. L. Chien, V. S. Gornakov, V. I. Nikitenko, A. J. Shapiro, and R. D. Shull, Phys. Rev. B, 68, No. 1: 014418 (2003).",
+				"tr":  "C. L. Chien, V. S. Gornakov, V. I. Nikitenko, A. J. Shapiro, and R. D. Shull, Phys. Rev. B, 68, No. 1: 014418 (2003)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.75.174439",
+				"or":  "H. V. Gomonay and V. M. Loktev, Phys. Rev. B, 75, No. 17: 174439 (2007).",
+				"tr":  "H. V. Gomonay and V. M. Loktev, Phys. Rev. B, 75, No. 17: 174439 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.84.220410",
+				"or":  "E. Folven, A. Scholl, A. Young, S. T. Retterer, J. E. Boschker, T. Tybell, Y. Takamura, and J. K. Grepstad, Phys. Rev. B, 84, No. 22: 220410 (2011).",
+				"tr":  "E. Folven, A. Scholl, A. Young, S. T. Retterer, J. E. Boschker, T. Tybell, Y. Takamura, and J. K. Grepstad, Phys. Rev. B, 84, No. 22: 220410 (2011)."
+			},
+			{
+				"doi": "10.1021/nl060615f",
+				"or":  "Y. Takamura, R. V. Chopdekar, A. Scholl, A. Doran, J. A. Liddle, B. Harteneck, and Y. Suzuki, Nano Letters, 6, No. 6: 1287 (2006).",
+				"tr":  "Y. Takamura, R. V. Chopdekar, A. Scholl, A. Doran, J. A. Liddle, B. Harteneck, and Y. Suzuki, Nano Letters, 6, No. 6: 1287 (2006)."
+			},
+			{
+				"doi": "10.1088/0034-4885/62/5/204",
+				"or":  "D. Sander, Reports on Progress in Physics, 62, No. 5: 809 (1999).",
+				"tr":  "D. Sander, Reports on Progress in Physics, 62, No. 5: 809 (1999)."
+			},
+			{
+				"doi": "10.1063/1.369854",
+				"or":  "A. Enders, D. Sander, and J. Kirschner, J. Appl. Phys., 85, No. 8: 5279 (1999).",
+				"tr":  "A. Enders, D. Sander, and J. Kirschner, J. Appl. Phys., 85, No. 8: 5279 (1999)."
+			},
+			{
+				"doi": "10.1016/S0304-8853(00)00449-2",
+				"or":  "T. Gutjahr-Löser, D. Sander, and J. Kirschner, J. Magn. Magn. Mater., 220, No. 1: L1 (2000).",
+				"tr":  "T. Gutjahr-Löser, D. Sander, and J. Kirschner, J. Magn. Magn. Mater., 220, No. 1: L1 (2000)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.64.144422",
+				"or":  "W. Wulfhekel, T. Gutjahr-Löser, F. Zavaliche, D. Sander, and J. Kirschner, Phys. Rev. B, 64, No. 14: 144422 (2001).",
+				"tr":  "W. Wulfhekel, T. Gutjahr-Löser, F. Zavaliche, D. Sander, and J. Kirschner, Phys. Rev. B, 64, No. 14: 144422 (2001)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.78.4865",
+				"or":  "N. C. Koon, Phys. Rev. Lett., 78, No. 25: 4865 (1997).",
+				"tr":  "N. C. Koon, Phys. Rev. Lett., 78, No. 25: 4865 (1997)."
+			},
+			{
+				"doi": "10.1038/35015515",
+				"or":  "F. Nolting, A. Scholl, J. Stöhr, J. W. Seo, J. Fompeyrine, H. Siegwart, J.-P. Locquet, S. Anders, J. Luning, E. E. Fullerton, M. F. Toney, M. R. Scheinfein, and H. A. Padmore, Nature, 405, No. 6788: 7679 (2000).",
+				"tr":  "F. Nolting, A. Scholl, J. Stöhr, J. W. Seo, J. Fompeyrine, H. Siegwart, J.-P. Locquet, S. Anders, J. Luning, E. E. Fullerton, M. F. Toney, M. R. Scheinfein, and H. A. Padmore, Nature, 405, No. 6788: 7679 (2000)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.86.2878",
+				"or":  "H. Ohldag, A. Scholl, F. Nolting, S. Anders, F. U. Hillebrecht, and J. Stöhr, Phys. Rev. Lett., 86, No. 13: 2878 (2001).",
+				"tr":  "H. Ohldag, A. Scholl, F. Nolting, S. Anders, F. U. Hillebrecht, and J. Stöhr, Phys. Rev. Lett., 86, No. 13: 2878 (2001)."
+			},
+			{
+				"doi": "10.1063/1.1447194",
+				"or":  "L. Malkinski, N. Cramer, A. Hutchison, R. Camley, Z. Celinski, and D. Skrzypek, J. Appl. Phys., 91, No. 10: 7242 (2002).",
+				"tr":  "L. Malkinski, N. Cramer, A. Hutchison, R. Camley, Z. Celinski, and D. Skrzypek, J. Appl. Phys., 91, No. 10: 7242 (2002)."
+			},
+			{
+				"doi": "10.1016/S0304-8853(02)00012-4",
+				"or":  "L. Malkinski, N. Cramer, A. Hutchison, R. Camley, Z. Celinski, D. Skrzypek, and R. B. Goldfarb, J. Magn. Magn. Mater., 240, Nos. 1–3: 261 (2002).",
+				"tr":  "L. Malkinski, N. Cramer, A. Hutchison, R. Camley, Z. Celinski, D. Skrzypek, and R. B. Goldfarb, J. Magn. Magn. Mater., 240, Nos. 1–3: 261 (2002)."
+			},
+			{
+				"doi": "10.1143/JPSJ.21.650",
+				"or":  "T. Yamada, J. Phys. Soc. Japan, 21, No. 4: 650 (1966).",
+				"tr":  "T. Yamada, J. Phys. Soc. Japan, 21, No. 4: 650 (1966)."
+			},
+			{
+				"doi": "10.1016/0038-1098(72)90446-2",
+				"or":  "S. C. Abrahams, R. L. Barns, and J. L. Bernstein, Solid State Com., 10, No. 4: 379 (1972).",
+				"tr":  "S. C. Abrahams, R. L. Barns, and J. L. Bernstein, Solid State Com., 10, No. 4: 379 (1972)."
+			},
+			{
+				"doi": "10.1051/rphysap:01975001005032500",
+				"or":  "J. Julliard and J. Nouet, Revue de Physique Appl., 10, No. 5: 325 (1975).",
+				"tr":  "J. Julliard and J. Nouet, Revue de Physique Appl., 10, No. 5: 325 (1975)."
+			},
+			{
+				"doi": "10.1016/0304-8853(95)90033-0",
+				"or":  "D. Skrzypek and J. Heimann, J. Magn. Magn. Mater., 139, Nos. 1–2: 102 (1995).",
+				"tr":  "D. Skrzypek and J. Heimann, J. Magn. Magn. Mater., 139, Nos. 1–2: 102 (1995)."
+			},
+			{
+				"doi": "10.1063/1.1708750",
+				"or":  "J. H. Greiner, A. E. Berkowitz, and J. E. Weidenborner, J. Appl. Phys., 37, No. 5: 2149 (1966).",
+				"tr":  "J. H. Greiner, A. E. Berkowitz, and J. E. Weidenborner, J. Appl. Phys., 37, No. 5: 2149 (1966)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.50.2043",
+				"or":  "G. Bochi, O. Song, and R. C. O’Handley, Phys. Rev. B, 50, No. 3: 2043 (1994).",
+				"tr":  "G. Bochi, O. Song, and R. C. O'Handley, Phys. Rev. B, 50, No. 3: 2043 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "Landolt-Börnstein. Numerical Data and Functional Relationships in Science and Technology: New Series. Group III. Crystal and Solid State Physics. Vol. 19. Magnetic Properties of Metals. Subvol. a. 3d, 4d and 5d Elements, Alloys and Compounds (Berlin: Springer-Verlag: 1982).",
+				"tr":  "Landolt-Börnstein. Numerical Data and Functional Relationships in Science and Technology: New Series. Group III. Crystal and Solid State Physics. Vol. 19. Magnetic Properties of Metals. Subvol. a. 3d, 4d and 5d Elements, Alloys and Compounds (Berlin: Springer-Verlag: 1982)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.61.15312",
+				"or":  "H. D. Chopra, D. X. Yang, P. J. Chen, H. J. Brown, L. J. Swartzendruber, and W. F. Egelhoff, Jr., Phys. Rev. B, 61, No. 22: 15312 (2000).",
+				"tr":  "H. D. Chopra, D. X. Yang, P. J. Chen, H. J. Brown, L. J. Swartzendruber, and W. F. Egelhoff, Jr., Phys. Rev. B, 61, No. 22: 15312 (2000)."
+			},
+			{
+				"doi": "10.1063/1.1447181",
+				"or":  "T. Gredig, I. N. Krivorotov, and E. Dan Dahlberg, J. Appl. Phys., 91, No. 10: 7760 (2002).",
+				"tr":  "T. Gredig, I. N. Krivorotov, and E. Dan Dahlberg, J. Appl. Phys., 91, No. 10: 7760 (2002)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.47.11583",
+				"or":  "R. H. Victora and J. M. MacLaren, Phys. Rev. B, 47, No. 17: 11583 (1993).",
+				"tr":  "R. H. Victora and J. M. MacLaren, Phys. Rev. B, 47, No. 17: 11583 (1993)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2013.11.003",
+				"or":  "O. Gomonay, S. Kondovych, and V. Loktev, J. Magn. Magn. Mater., 354, No. 3: 125 (2014).",
+				"tr":  "O. Gomonay, S. Kondovych, and V. Loktev, J. Magn. Magn. Mater., 354, No. 3: 125 (2014)."
+			},
+			{
+				"doi": "10.1103/PhysRev.111.772",
+				"or":  "W. L. Roth, Phys. Rev., 111, No. 3: 772 (1958).",
+				"tr":  "W. L. Roth, Phys. Rev., 111, No. 3: 772 (1958)."
+			},
+			{
+				"doi": "10.1063/1.1735895",
+				"or":  "G. A. Slack, J. Appl. Phys., 31, No. 9: 1571 (1960).",
+				"tr":  "G. A. Slack, J. Appl. Phys., 31, No. 9: 1571 (1960)."
+			},
+			{
+				"doi": "10.1088/0022-3719/11/10/023",
+				"or":  "D. Herrmann-Ronzaud, P. Burlet, and J. Rossat-Mignod, J. Phys. C: Solid State Phys., 11, No. 10: 2123 (1978).",
+				"tr":  "D. Herrmann-Ronzaud, P. Burlet, and J. Rossat-Mignod, J. Phys. C: Solid State Phys., 11, No. 10: 2123 (1978)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.86.3419",
+				"or":  "F. U. Hillebrecht, H. Ohldag, N. B. Weber, C. Bethke, U. Mick, M. Weiss, and J. Bahrdt, Phys. Rev. Lett., 86, No. 15: 3419 (2001).",
+				"tr":  "F. U. Hillebrecht, H. Ohldag, N. B. Weber, C. Bethke, U. Mick, M. Weiss, and J. Bahrdt, Phys. Rev. Lett., 86, No. 15: 3419 (2001)."
+			},
+			{
+				"doi": "10.1063/1.1358828",
+				"or":  "A. Scholl, F. Nolting, J. Stöhr, T. Regan, J. Lüning, J. W. Seo, J.-P. Locquet, J. Fompeyrine, S. Anders, H. Ohldag, and H. A. Padmore, J. Appl. Phys., 89, No. 11: 7266 (2001).",
+				"tr":  "A. Scholl, F. Nolting, J. Stöhr, T. Regan, J. Lüning, J. W. Seo, J.-P. Locquet, J. Fompeyrine, S. Anders, H. Ohldag, and H. A. Padmore, J. Appl. Phys., 89, No. 11: 7266 (2001)."
+			},
+			{
+				"doi": "10.1143/JPSJ.21.672",
+				"or":  "T. Yamada, S. Saito, and Y. Shimomura, J. Phys. Soc. Japan, 21, No. 4: 672 (1966).",
+				"tr":  "T. Yamada, S. Saito, and Y. Shimomura, J. Phys. Soc. Japan, 21, No. 4: 672 (1966)."
+			},
+			{
+				"doi": "10.4236/jmp.2011.210148",
+				"or":  "X. Fu, G. Cao, Y. Gao, Z. Wu, and J. Zhang, J. Modern Physics, 2, No. 10: 1187 (2011).",
+				"tr":  "X. Fu, G. Cao, Y. Gao, Z. Wu, and J. Zhang, J. Modern Physics, 2, No. 10: 1187 (2011)."
+			}
+		]
+	}
+}

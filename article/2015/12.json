@@ -1,0 +1,187 @@
+{
+	"year":   2015,
+	"volume": 37,
+	"issue":  12,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [1583,1593],
+			"title": {
+				"ua": "Узагальнення кінетичного середньопольового методу на вакансійний механізм і його застосування до опису спінодального розпаду",
+				"en": "Generalization of the Kinetic Mean-Field Method for Vacancy Diffusion Mechanism and Application of It to Spinodal Decomposition",
+				"ru": "Обобщение кинетического среднеполевого метода на вакансионный механизм и его применение к описанию спинодального распада"
+			},
+			"autors": {
+				"ua": "В. М. Безпальчук, А. М. Гусак",
+				"en": "V. M. Bezpalchuk and A. M. Gusak",
+				"ru": "В. Н. Безпальчук, А. Н. Гусак"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [1595,1602],
+			"title": {
+				"ua": "Еволюція дефектних підсистем в ауксетичному берилії в процесі деформації",
+				"en": "Evolution of Defect Subsystems During Microplastic Deformation of Auxetic Beryllium",
+				"ru": "Эволюция дефектных подсистем в ауксетическом бериллии в процессе деформации"
+			},
+			"autors": {
+				"ua": "О. Ю. Тащук, М. К. Мишилюк, М. Д. Раранський, А. В. Олійнич-Лисюк",
+				"en": "O. Yu. Tashchuk, M. K. Myshylyuk, A. V. Oliynych-Lysyuk, and M. D. Rarans’ky",
+				"ru": "А. Ю. Тащук, Н. К. Мышилюк, Н. Д. Раранский, А. В. Олейнич-Лысюк"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [1603,1618],
+			"title": {
+				"ua": "Масоперенос при ультразвуковій ударній обробці пари Al—Fe",
+				"en": "Mass Transfer During Ultrasonic Shock Treatment of Al—Fe",
+				"ru": "Масоперенос при ультразвуковой ударной обработке пары Al—Fe"
+			},
+			"autors": {
+				"ua": "М. О. Васильєв, Б. М. Мордюк, С. І. Сидоренко, С. М. Волошко, А. П. Бурмак",
+				"en": "M. O. Vasyliev, B. M. Mordyuk, S. I. Sidorenko, S. M. Voloshko, and A. P. Burmak",
+				"ru": "М. А. Васильев, Б. Н. Мордюк, С. И. Сидоренко, С. М. Волошко, А. П. Бурмак"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [1619,1632],
+			"title": {
+				"ua": "Розрахунок впливу сегрегаційних ефектів на рух міжфазних меж за коміркового розпаду",
+				"en": "Determination of Segregation Influence on the Motion of the Interphase Boundaries During Cellular Precipitation",
+				"ru": "Расчёт влияния сегрегационных эффектов на движение межфазных границ при ячеистом распаде"
+			},
+			"autors": {
+				"ua": "Ю. О. Ляшенко, С. І. Дерев'янко, О. А. Шматко",
+				"en": "Yu. O. Lyashenko, S. I. Derevyanko, and O. A. Shmatko",
+				"ru": "Ю. А. Ляшенко, С. И. Деревянко, О. А. Шматко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1633,1642],
+			"title": {
+				"ua": "Структурно-фазова релаксація у надпластичному евтектичному сплаві Sn—38% вес. Pb",
+				"en": "Structural and Phase Relaxation in Superplastic Eutectic Alloy Sn—38% wt. Pb",
+				"ru": "Структурно-фазовая релаксация в сверхпластичном эвтектическом сплаве Sn—38% вес. Pb"
+			},
+			"autors": {
+				"ua": "В. Ф. Коршак, Ю. О. Шаповалов, М. М. Васеленко",
+				"en": "V. F. Korshak, Yu. A. Shapovalov, and N. N. Vaselenko",
+				"ru": "В. Ф. Коршак, Ю. А. Шаповалов, Н. Н. Васеленко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1643,1652],
+			"title": {
+				"ua": "Акустичні властивості нових сплавів Inconel 52 та Inconel 52MSS в інтервалі температур 77—1200 К",
+				"en": "Acoustic Properties of New Alloys Inconel 52 and Inconel 52MSS in the Temperature Range of 77—1200 K",
+				"ru": "Акустические свойства новых сплавов Inconel 52 и Inconel 52MSS в интервале температур 77—1200 К"
+			},
+			"autors": {
+				"ua": "Ю. О. Семеренко, О. В. Мозговой, Л. В. Скибіна, К. А. Ющенко, Г. В. Звягінцева",
+				"en": "Yu. A. Semerenko, O. V. Mozgovyj, L. V. Skibina, K. A. Yushchenko, and G. V. Zviagintseva",
+				"ru": "Ю. А. Семеренко, А. В. Мозговой, Л. В. Скибина, К. А. Ющенко, А. В. Звягинцева"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1653,1661],
+			"title": {
+				"ua": "Структура та властивості гартованої сталі 40Х3Н5М3Ф, одержаної електрошлаковим переплавом за високих температур",
+				"en": "Structure and Properties of Tempered Steel 40H3N5M3F Obtained by Electroslag Remelting at High Temperatures",
+				"ru": "Структура и свойства закалённой стали 40Х3Н5М3Ф, полученной электрошлаковым переплавом при высоких температурах"
+			},
+			"autors": {
+				"ua": "К. О. Гогаєв, О. М. Сидорчук, О. К. Радченко, М. В. Карпець, С. Г. Пятачук",
+				"en": "K. O. Gogaev, O. M. Sydorchuk, O. K. Radchenko, M. V. Karpets, and S. G. Piatachuk",
+				"ru": "К. А. Гогаев, О. Н. Сидорчук, А. К. Радченко, М. В. Карпец, С. Г. Пятачук"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1663,1680],
+			"title": {
+				"ua": "Імпульсна конденсаторна зварка функціональних сплавів на основі системи Cu—Al та її вплив на структуру зони з'єднання",
+				"en": "Pulse Condenser Welding of Functional Cu—Al Alloys and Its Effect on the Structure of the Joint Area",
+				"ru": "Импульсная конденсаторная сварка функциональных сплавов на основе системы Cu—Al и её влияние на структуру зоны соединения"
+			},
+			"autors": {
+				"ua": "Д. М. Калеко, С. М. Кедровський, Ю. М. Коваль, В. М. Сліпченко",
+				"en": "D. M. Kaleko, S. M. Kedrovsky, Yu. M. Koval’, and V. M. Slepchenko",
+				"ru": "Д. М. Калеко, С. Н. Кедровский, Ю. Н. Коваль, В. Н. Слепченко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  1,
+			"pages":  [1681,1701],
+			"title": {
+				"ua": "Формування аморфного стану в об'ємних зразках багатокомпонентних сплавів на основі заліза",
+				"en": "Formation of Amorphous State in Bulk Samples of the Iron-Based Multicomponent Alloys",
+				"ru": "Формирование аморфного состояния в объёмных образцах многокомпонентных сплавов на основе железа"
+			},
+			"autors": {
+				"ua": "В. К. Носенко, О. Ю. Руденко, Т. М. Моісеєва, В. В. Максимов, М. С. Нізамеєв, О. І. Лімановський, А. М. Семирга, В. І. Ткач",
+				"en": "V. K. Nosenko, О. Yu. Rudenko, T. N. Moiseeva, V. V. Maksimov, M. S. Nizameyev, A. I. Limanovskii, O. M. Semyrga, and V. I. Tkatch",
+				"ru": "В. К. Носенко, А. Ю. Руденко, Т. Н. Моисеева, В. В. Максимов, М. С. Низамеев, А. И. Лимановский, А. М. Семирга, В. И. Ткач"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [1703,1712],
+			"title": {
+				"ua": "Вплив неоднорідного магнітного поля на фазові перетворення у металовмісних полімерних композитах",
+				"en": "Effect of Nonuniform Magnetic Field on the Phase Transformations of Metal-Containing Polymer Composites",
+				"ru": "Влияние неоднородного магнитного поля на фазовые превращения в металлосодержащих полимерных композитах"
+			},
+			"autors": {
+				"ua": "О. Г. Медведовська, А. Д. Стаднік, Г. К. Чепурних, С. В. Соколов",
+				"en": "O. G. Medvedovska, A. D. Stadnik, G. K. Chepurnykh, and S. V. Sokolov",
+				"ru": "О. Г. Медведовская, А. Д. Стадник, Г. К. Чепурных, С. В. Соколов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [1713,1724],
+			"title": {
+				"ua": "Мессбауерівські дослідження нанорозмірних фракцій шпінелей LiMn$_{2-х}$Fe$_{х}$O$_{4}$, отриманих золь—гель-методом",
+				"en": "Mössbauer Study of Nanoscale Fractions of the LiMn$_{2-х}$Fe$_{х}$O$_{4}$ Spinel Fabricated by Sol—Gel Method",
+				"ru": "Мессбауэровские исследования наноразмерных фракций шпинелей LiMn$_{2-х}$Fe$_{х}$O$_{4}$, полученных золь—гель-методом"
+			},
+			"autors": {
+				"ua": "Б. К. Остафійчук, І. М. Будзуляк, Т. Я. Бойчук, Р. В. Ільницький, В. В. Мокляк, А. М. Бойчук",
+				"en": "B. K. Ostafiychuk, I. M. Budzulyak, T. Ya. Boychuk, R. V. Ilnytskiy, V. V. Moklyak, and A. M. Boychuk",
+				"ru": "Б. К. Остафийчук, И. М. Будзуляк, Т. Я. Бойчук, Р. В. Ильницкий, В. В. Мокляк, А. М. Бойчук"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [1725,1731],
+			"title": {
+				"ua": "Мінімальна провідність графену, обумовлена ефективним загасанням носіїв заряду внаслідок ефекту «дрижання» Шредінгера",
+				"en": "The Minimal Conductivity of Graphene Caused by the Effective Attenuation of Charge Carriers Due to the Schrödinger’s ‘Zitterbewegung’ Effect",
+				"ru": "Минимальная проводимость графена, обусловленная эффективным затуханием носителей заряда вследствие эффекта «дрожания» Шредингера"
+			},
+			"autors": {
+				"ua": "М. А. Рувінський, О. Б. Костюк",
+				"en": "M. A. Ruvinskii and O. B. Kostyuk",
+				"ru": "М. А. Рувинский, О. Б. Костюк"
+			}
+		}
+	]
+}

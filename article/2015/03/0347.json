@@ -1,0 +1,37 @@
+{
+	"_id":    "MFiNT.37.0347",
+	"year":   2015,
+	"volume": 37,
+	"issue":  3,
+	"pages":  [347,354],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["28.11.2014","02.02.2015"],
+	"PACS":   "61.05.cp, 68.37.Hk, 68.55.J-, 68.55.Nq, 81.15.Pq, 82.45.Qr",
+	"title":  {
+		"ua": "Спільний вплив хрому та нікелю на поверхневу морфологію і переважні кристалічні орієнтації електроосаджених покриттів на основі заліза",
+		"en": "Joint Effect of Chromium and Nickel on Surface Morphology and Preferred Crystal Orientations of Electrodeposited Iron-Based Coatings",
+		"ru": "Совместное воздействие хрома и никеля на поверхностную морфологию и преимущественные кристаллические ориентации электроосаждённых покрытий на основе железа"
+	},
+	"abstract": {
+		"ua": "Методами растрової електронної мікроскопії та рентґенівської дифрактометрії виконано структурні дослідження електроосаджених подвійних та потрійних стопів на основі заліза, що містять хром і нікель. Показано та пояснено сумісний вплив леґувальних елементів на морфологію поверхні та переважні орієнтації кристалів у покриттях на основі стопів Fe—Cr—Ni, електроосаджених із сульфатного електроліту на сталеве підложжя. Морфологія поверхні досліджених стопів Fe—Cr—Ni з ОЦК-структурою представлена виключно сферолітами, що супроводжується переважанням <111>-орієнтації кристалів, на відміну від електроосадженого заліза, в якому звичайна дрібнокристалічна структура характеризується переважною <211>-орієнтацією кристалів.",
+		"en": "Structural investigations of electrodeposited binary and ternary iron-based alloys containing chromium and nickel are accomplished by the methods of scanning electron microscopy and X-ray diffractometry. Joint effect of the alloying elements on the surface morphology and preferred crystal orientations in Fe—Cr—Ni alloys’ coatings electrodeposited from sulphate electrolyte on steel substrate is shown and explained. The surface morphology of the investigated Fe—Cr—Ni alloys with b.c.c. crystal structure is represented solely by spherulites and is accompanied by prevalence of <111> crystal orientation in contrast to electrodeposited iron where regular fine crystal structure is characterized by preferred <211> crystal orientation.",
+		"ru": "Методами растровой электронной микроскопии и рентгеновской дифрактометрии выполнены структурные исследования электроосаждённых двойных и тройных сплавов на основе железа, содержащих хром и никель. Показано и объяснено совместное влияние легирующих элементов на морфологию поверхности и преимущественные ориентации кристаллов в покрытиях на основе сплавов Fe—Cr—Ni, электроосаждённых из сульфатного электролита на стальную подложку. Морфология поверхности исследованных сплавов Fe—Cr—Ni с ОЦК-структурой представлена исключительно сферолитами, что сопровождается преобладанием <111>-ориентации кристаллов, в отличие от электроосаждённого железа, в котором обычная мелкокристаллическая структура характеризуется преимущественной <211>-ориентацией кристаллов."
+	},
+	"keywords": {
+		"ua": "морфологія поверхні, переважні орієнтації, Fe-Cr-Ni покриття, електроосаджені сплави, електроосаджене залізо",
+		"en": "surface morphology, preferred orientations, Fe—Cr—Ni coatings, electrodeposited alloys, electrodeposited iron",
+		"ru": "морфология поверхности, предпочтительные ориентации, Fe—Cr—Ni покрытия, электроосаждённые сплавы, электроосаждённое железо"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Є. В. Колесник", "en": "Ie. V. Kolesnyk", "ru": "Е. В. Колесник"},
+			"OID": [224]
+		}
+	],
+	"references": {
+		"count": 24,
+		"list":  []
+	}
+}

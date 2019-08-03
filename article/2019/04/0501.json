@@ -1,0 +1,122 @@
+{
+	"_id":    "MFiNT.41.04.0501",
+	"year":   2019,
+	"volume": 41,
+	"issue":  4,
+	"pages":  [501,527],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["11.07.2018"],
+	"PACS":   "46.50.+a, 61.72.Hh, 62.20.fk, 62.20.mj, 62.20.mm, 62.20.mt, 81.40.Ef, 81.40.Np",
+	"title":   {
+		"ua": "Основи формування оптимального комплексу механічних властивостей для захисту від окрихчення конструкційних титанових сплавів",
+		"en": "Bases of Formation of the Optimal Complex of Mechanical Properties for Protection against Construction Titanium Alloys Embrittlement",
+		"ru": "Основы формирования оптимального комплекса механических свойств для защиты от охрупчивания конструкционных титановых сплавов"
+	},
+	"abstract": {
+		"ua": "В межах концепції конструкційної придатності металів і стопів розроблено фізично обґрунтовану систему взаємозв’язку комплексу механічних властивостей «пластичність–міцність–деформаційна стійкість» та принципи раціонального формування цих властивостей в конструкційних титанових стопах. Встановлено основні закономірності такого зв’язку і причини, що регулюють як сам характер їх змін, так і ступінь чутливості одних базових характеристик металу до зміни інших. Проведено порівняльну оцінку резервів міцності конструкційних титанових стопів за їх здібністю опиратись крихкому руйнуванню з використанням показника механічної стабільності $K_{ms}$ та окрихченню з використанням показника деформаційної стійкості (зламостійкості) $B_{r}$. Сформульовано уявлення щодо якості конструкційних титанових стопів, як про міру їх здібності опиратися окрихченню. Запропоновано новий «індикатор» якості конструкційних титанових стопів — міру механічної якості за деформаційною стійкістю $B_{r}$ при заданому значенні міцності $\\sigma_{0,2}$, що відображає їх опірність окрихченню.",
+		"en": "Within the framework of the concept of structural suitability of metals and alloys, a physically grounded scheme of interrelation between the complex of mechanical properties ‘plasticity–strength–deformation endurance’ and principles of rational formation of these properties for construction titanium alloys is developed. The main regularities of such connection between properties and causes that regulate both the nature of their changes and the degree of sensitivity of some of the basic characteristics of a metal to be changed due to other ones are established. A comparative estimation of the strength reserves of construction titanium alloys via their ability to resist brittle fracture using the $K_{ms}$ mechanical stability index and to embrittlement using the deformation endurance (break resistance) $B_{r}$ index is performed. Concepts concerning the quality of construction titanium alloys are formulated as a measure of their ability to resist embrittlement. A new ‘indicator’ of the quality of construction titanium alloys is proposed: a measure of mechanical quality according to the deformation endurance $B_{r}$ for a given value of strength $\\sigma_{Y}$, which reflects alloys’ resistance to embrittlement.",
+		"ru": "В рамках концепции конструкционной пригодности металлов и сплавов разработана физически обоснованная система взаимосвязи комплекса механических свойств «пластичность–прочность–деформационная стойкость» и принципы рационального формирования этих свойств в конструкционных титановых сплавах. Установлены основные закономерности такой связи свойств и причины, регулирующие как сам характер их изменений, так и степень чувствительности одних базовых характеристик металла к изменению других. Проведена сравнительная оценка резервов прочности конструкционных титановых сплавов по их способности сопротивляться хрупкому разрушению с использованием показателя механической стабильности $K_{ms}$ и охрупчиванию с использованием показателя деформационной стойкости (изломостойкости) $B_{r}$. Сформулированы представления о качестве конструкционных титановых сплавов, как о мере их способности сопротивляться охрупчиванию. Предложен новый «индикатор» качества конструкционных титановых сплавов — мера механического качества по деформационной стойкости $B_{r}$ при заданном значении прочности $\\sigma_{0,2}$, отражающая их сопротивляемость охрупчиванию."
+	},
+	"keywords": {
+		"ua": "окрихчення, деформаційна стійкість, зламостійкість, крива оптимізації, міра механічної якості, конструкційна придатність",
+		"en": "embrittlement, deformation endurance, break resistance, optimization curve, measure of mechanical quality, structural suitability",
+		"ru": "охрупчивание, деформационная стойкость, изломостойкость, кривая оптимизации, мера механического качества, конструкционная пригодность"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. В. Шиян", "en": "A. V. Shiyan", "ru": "А. В. Шиян"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Ю. Я. Мєшков", "en": "Yu. Ya. Meshkov", "ru": "Ю. Я. Мешков"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 16,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Ю. Я. Мешков, С. А. Котречко, А. В. Шиян, Механическая стабильность металлов и сплавов (Киев: Наукова думка: 2014).",
+				"tr":  "Yu. Ya. Meshkov, S. A. Kotrechko, and A. V. Shiyan, Mekhanicheskaya Stabilnost Metallov i Splavov [Mechanical Stability of Metals and Alloys] (Kyiv: Naukova Dumka: 2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Шиян, Ю. Я. Мешков, Охрупчивание металлических сплавов в условиях концентрации напряжений. Конструкционные стали и титановые сплавы (Саарбрюккен, Германия: LAP LAMBERT Acad. Publ.: 2015).",
+				"tr":  "A. V. Shiyan and Yu. Ya Meshkov, Okhrupchivanie Metallicheskikh Splavov v Usloviyakh Kontsentratsii Napryazheniy. Konstruktsionnye Stali i Titanovye Splavy [Embrittlement of Metal Alloys in the Conditions of Stress Concentration. Structural Steel and Titanium Alloys] (Saarbrücken, Germany: LAP LAMBERT Acad. Publ.: 2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "J. H. Hollomon, Iron Steel Div., 162: 268 (1945).",
+				"tr":  "J. H. Hollomon, Iron Steel Div., 162: 268 (1945)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Шиян, Ю. Я. Мешков, Металознавство та термічна обробка металів, № 4: 54 (2014).",
+				"tr":  "A. V. Shiyan and Yu. Ya Meshkov, Metaloznavstvo ta Termichna Obrobka Metaliv, No. 4: 54 (2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Шиян, Ю. Я. Мешков, Металознавство та термічна обробка металів, № 1: 5 (2015).",
+				"tr":  "A. V. Shiyan and Yu. Ya Meshkov, Metaloznavstvo ta Termichna Obrobka Metaliv, No. 1: 5 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Шиян, Ю. Я. Мешков, Механика машин, механизмов и материалов, 38, № 1: 79 (2017).",
+				"tr":  "A. V. Shiyan and Yu. Ya Meshkov, Mekhanika Mashin, Mekhanizmov i Materialov, 38, No. 1: 79 (2017) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Є. Марковський, С. О. Котречко, А. В. Шиян, Ю. Я. Мєшков, О. М. Івасишин, Спосіб визначення характеристики відносного рівномірного звуження конструкційного титанового сплаву, Патент 103967 Україна. МПК, G01N 3/00, 3/08, 3/18 (Промислова власність, № 23) (Опубл. 10 грудня 2013).",
+				"tr":  "P. Ye. Markovsky, S. O. Kotrechko, A. V. Shyyan, Yu. Ya. Myeshkov, and O. M. Ivasyshyn, Sposib Vyznachennya Kharakterystyky Vidnosnoho Rivnomirnoho Zvuzhennya Konstruktsiynoho Tytanovoho Splavu [Method of Determining the Characteristic of the Relative Uniform Constriction of a Structural Titanium Alloy]: Patent 103967 UA. MKI, G01N 3/00, 3/08, 3/18 (Promyslova Vlasnist, No. 23) (Publ. December 10, 2013) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/mfint.39.09.1197",
+				"or":  "О. М. Ивасишин, П. Е. Марковский, Ю. Я. Мешков, А. В. Шиян, Металлофиз. новейшие технол., 39, № 9: 1197 (2017).",
+				"tr":  "O. M. Ivasishin, P. E. Markovsky, Yu. Ya. Meshkov, and A. V. Shiyan, Metallofiz. Noveishie Tekhnol., 39, No. 9: 1197 (2017) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Шиян, Наукові основи формування раціонального комплексу механічних властивостей конструкційних сталей і титанових сплавів (Автореф. дис. … докт. техн. наук) (Дніпропетровськ: ДВНЗ «Придніпр. держ. акад. буд-ва та архітектури»: 2016).",
+				"tr":  "A. V. Shiyan, Naukovi Osnovy Formuvannya Ratsionalnoho Kompleksu Mekhanichnykh Vlastyvostey Konstruktsiynykh Staley i Tytanovykh Splaviv [Scientific Basis for the Formation of a Rational Complex of Mechanical Properties of Structural Steels and Titanium Alloys] (Thesis of Disser. … for Dr. Tech. Sci.) (Dnipropetrovsk: State Higher Educational Establishment 'Prydniprovska State Academy of Civil Engineering and Architecture': 2016) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "І. М. Гавриш, Формування високоміцних структурно-фазових станів у деталях кріплення з титанового сплаву ВТ22 при обробленні в нерівноважних умовах (Автореф. дис. … канд. техн. наук) (Київ: Ін-т проблем матеріалознавства ім. І. М. Францевича: 2017).",
+				"tr":  "I. M. Havrysh, Formuvannya Vysokomitsnykh Structurno-Phazovykh Staniv u Detalyakh Kriplennya z Tytanovoho Splavu VT22 pry Obroblenni v Nerivnovazhnukh Umovakh [Formation of High-Strength Structural-Phase States in the Details of Fastening of Titanium Alloy VT22 Under Non-Equilibrium Treatment] (Thesis of Disser. … for Cand. Tech. Sci.) (Kyiv: State Enterprise 'Antonov': 2017) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Ивасишин, П. Е. Марковский, С. А. Котречко, Ю. Я. Мешков, А. В. Шиян, Металлофиз. новейшие технол., 35, № 4: 479 (2013).",
+				"tr":  "O. M. Ivasishin, P. E. Markovsky, S. A. Kotrechko, Yu. Ya. Meshkov, and A. V. Shiyan, Metallofiz. Noveishie Tekhnol., 35, No. 4: 479 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "C. F. Hickey, Jr., ASTM Proceedings, 62: 765 (1962).",
+				"tr":  "C. F. Hickey, Jr., ASTM Proceedings, 62: 765 (1962)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Ивасишин, П. Е. Марковский, Ю. Я. Мешков, Г. А. Пахаренко, А. В. Шевченко, Металлофизика, 14, № 4: 70 (1992).",
+				"tr":  "O. M. Ivasishin, P. E. Markovsky, Yu. Ya. Meshkov, G. A. Pakharenko, and A. V. Shevchenko, Metallofiz., 14, No. 4: 70 (1992) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Прочность материалов и элементов конструкций в экстремальных условиях (Ред. Г. С. Писаренко) (Киев: Наукова думка: 1980), т. 1–2.",
+				"tr":  "Prochnost Materialov i Elementov Konstruktsiy v Ekstremalnykh Usloviyakh [Strength of Materials and Structural Elements under Extreme Conditions], (Ed. G. S. Pisarenko) (Kyiv: Naukova Dumka: 1980), vol. 1-2 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Ф. Кошелев, С. Е. Беляев, Прочность и пластичность конструкционных материалов при низких температурах (Москва: Машиностроение: 1967).",
+				"tr":  "P. F. Koshelev and S. E. Belyaev, Prochnost i Plastichnost Konstruktsionnykh Materialov pri Nizkikh Temperaturakh [Strength and Plasticity of Structural Materials at Low Temperatures] (Moskow: Mashinostroenie: 1967) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Шиян, Ю. Я. Мешков, Г. П. Зимина, Сталь, 2018, № 6: 47.",
+				"tr":  "A. V. Shiyan, Yu. Ya. Meshkov and G. P. Zimina, Stal', No. 6: 47 (2018) (in Russian)."
+			}
+		]
+	}
+}

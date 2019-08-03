@@ -1,0 +1,116 @@
+{
+	"_id":    "MFiNT.36.01.0039",
+	"year":   2014,
+	"volume": 36,
+	"issue":  1,
+	"pages":  [39,48],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["05.03.2013", "20.08.2013"],
+	"PACS":   "61.72.S-, 68.35.Fx, 68.55.Ln, 81.15.-z, 81.65.-b, 81.70.Jb, 82.80.Pv",
+	"title":   {
+		"ua": "Утворення перехідного дифузійного шару «покриття—підложжя» при електрокристалізації",
+		"en": "Formation of the ‘Coating—Substrate’ Transient Diffusion Layer at Electrocrystallization",
+		"ru": "Образование переходного диффузионного слоя «покрытие—подложка» при электрокристаллизации"
+	},
+	"abstract": {
+		"ua": "Розглянуто утворення перехідного дифузійного шару «покриття—підложжя» при електрокристалізації. Результати мікрорентґеноспектрального аналізу показали, що товщина дифузійного шару при електроосадженні ніклю на мідному підложжі склала 1,5—3 мкм при зміні катодного потенціялу від 0,1 до 0,3 В, а при електроосадженні цинку на мідному підложжі – 0,5—2 мкм при зміні потенціялу від 0,2 до 0,4 В. В межах моделю незбіжних сфер у теорії пружности розраховано енергії, необхідні для вбудовування адсорбованих атомів ніклю та цинку в кристалічну ґратницю мідного підложжя. Показано, що для систем, які утворюють тверді розчини Ni—Cu и Zn—Cu, енергії, що необхідні для вбудовування атомів ніклю чи цинку в кристалічну ґратницю мідного підложжя, є достатніми, але недостатніми для вбудовування атомів у кристалічну ґратницю вольфрамового підложжя, що підтверджується результатами мікрорентґеноспектрального аналізу.",
+		"en": "The formation of transient diffusion layer at electrocrystallization in the transition ‘coating—substrate’ layer is considered. Results of the micro-X-ray spectral analysis show that depth of a diffusion layer at nickel electro-deposition on a copper substrate is equal to 1.5—3 $\\mu$m at variation of cathodic potential from 0.1 to 0.3 V and is equal to 0.5—2 $\\mu$m at zinc electrodeposition on a copper substrate at potential variation from 0.2 to 0.4 V. Within the scope of the model of not coinciding spheres in the elasticity theory, energies, which are necessary for introduction of the adsorbed atoms of nickel and zinc into a crystal lattice of a copper substrate, are calculated. As shown, for systems, which form solid Ni—Cu and Zn—Cu solutions, the energy required for embedding of nickel or zinc into the crystal lattice of the copper substrate is sufficient, but it is not sufficient to embed atoms into the crystal lattice of the tungsten substrate. It is confirmed by results of the micro-X-ray spectral analysis.",
+		"ru": "Рассмотрено образование переходного диффузионного слоя «покрытие—подложка» при электрокристаллизации. Результаты микрорентгеноспектрального анализа показали, что толщина диффузионного слоя при электроосаждении никеля на медной подложке составила 1,5—3 мкм при изменении катодного потенциала от 0,1 до 0,3 В, а при электроосаждении цинка на медной подложке – 0,5—2 мкм при изменении потенциала от 0,2 до 0,4 В. В рамках модели несовпадающих сфер в теории упругости рассчитаны энергии, необходимые для встраивания адсорбированных атомов никеля и цинка в кристаллическую решётку медной подложки. Показано, что для систем, образующих твёрдые растворы Ni—Cu и Zn—Cu, энергии, необходимые для встраивания атомов никеля или цинка в кристаллическую решётку медной подложки, являются достаточными, но недостаточными для встраивания атомов в кристаллическую решётку вольфрамовой подложки, что подтверждается результатами микрорентгеноспектрального анализа."
+	},
+	"keywords": {
+		"ua": "перехідний дифузійний шар, катодний потенціал, електрокристалізація, твердий розчин, мікрорентгеноспектральний аналіз",
+		"en": "transient diffusion layer, cathode potential, electrocrystallization, solid solution, micro-X-ray spectral analysis",
+		"ru": "переходной диффузионный слой, катодный потенциал, электрокристаллизация, твёрдый раствор, микрорентгеноспектральный анализ"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Е. Ф. Штапенко", "en": "Eh. F. Shtapenko", "ru": "Э. Ф. Штапенко"},
+			"OID": [226]
+		},
+		{
+			"AID": {"ua": "В. О. Заблудовський", "en": "V. O. Zabludovskiy", "ru": "В. А. Заблудовский"},
+			"OID": [226]
+		},
+		{
+			"AID": {"ua": "В. В. Дудкіна", "en": "V. V. Dudkina", "ru": "В. В. Дудкина"},
+			"OID": [226]
+		}
+	],
+	"references": {
+		"count": 14,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "﻿Н. А. Костин, В. С. Кублановский, В. А. Заблудовский, Импульсный электролиз (Киев: Наукова думка: 1989).",
+				"tr":  "N. A. Kostin, V. S. Kublanovskiy, V. A. Zabludovskiy, Impul'snyy Elektroliz (Kiev: Naukova Dumka: 1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Поветкин, И. М. Ковенский, Структура электролитических покрытий (Москва: Металлургия: 1989).",
+				"tr":  "V. V. Povetkin, I. M. Kovenskiy, Struktura Elektroliticheskikh Pokrytiy (Moscow: Metallurgiya: 1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Шульце, Металлофизика (Москва: Мир: 1971) (пер. с немецкого).",
+				"tr":  "G. Schulze, Metallofizika (Moscow: Mir: 1971) (in Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "A. J. Bard and L. R. Faulkner, Electrochemical Methods. Fundamentals and Applications (New York: John Wiley and Sons: 2001).",
+				"tr":  "A. J. Bard and L. R. Faulkner, Electrochemical Methods. Fundamentals and Applications (New York: John Wiley and Sons: 2001)."
+			},
+			{
+				"doi": "",
+				"or":  "J. O’M. Bockris and A. K. N. Reddy, Modern Electrochemistry (New York: Kluwer Academic: 2002), vol. 1, 2.",
+				"tr":  "J. O'M. Bockris and A. K. N. Reddy, Modern Electrochemistry (New York: Kluwer Academic: 2002), vol. 1, 2."
+			},
+			{
+				"doi": "",
+				"or":  "Б. С. Бокштейн, Диффузия в металлах (Москва: Металлургия: 1978).",
+				"tr":  "B. S. Bokshtein, Diffuziya v Metallakh (Moscow: Metallurgiya: 1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. А. Спиридонов, Ю. Н. Шалимов, Способ получения прочносцепленных покрытий на основе никеля на металлических деталях, Патент 2130091 России (C25D3/56) (Опубл. 10.05.1999, Бюл. № 11).",
+				"tr":  "B. A. Spiridonov and Yu. N. Shalimov, Sposob Polucheniya Prochnostseplennykh Pokrytiy na Osnove Nikelya na Metallicheskikh Detalyakh, Patent 2130091 Russia (C25D3/56) (Publ. 10.05.1999, Bul. No. 11) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. М. Ковенский, С. В. Скифский, В. В. Поветкин, Способ получения прочносцепленных гальванических покрытий на металлах и сплавах (Патент 2051205 России (C25D5/34) (Опубл. 27.12.1995, Бюл. № 8).",
+				"tr":  "I. M. Kovenskiy, S. V. Skifskiy, and V. V. Povetkin, Sposob Polucheniya Prochnostseplennykh Gal'vanicheskikh Pokrytiy na Metallakh i Splavakh, Patent 2051205 Russia (C25D5/34) (Publ. 27.12.1995, Bul. No. 8) (in Russian)."
+			},
+			{
+				"doi": "10.1007/BF02395659",
+				"or":  "I. M. Kovenskii and V. V. Povetkin, J. Hyperfine Interactions, No. 52: 367 (1990).",
+				"tr":  "I. M. Kovenskii and V. V. Povetkin, J. Hyperfine Interactions, No. 52: 367 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Федосюк, О. И. Касютич, Металлофиз. новейшие технол., 19, № 10: 42 (1997).",
+				"tr":  "V. M. Fedosyuk, O. I. Kasyutich, Metallofiz. Noveishie Tekhnol., 19, No. 10: 42 (1997) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. П. Тарасенко, С. В. Поздняков, В. Г. Лютцау, Физика и химия обработки материалов, 4, № 2: 97 (1991).",
+				"tr":  "Yu. P. Tarasenko, S. V. Pozdnyakov, V. G. Lyuttsau, Fizika i Khimiya Obrabotki Materialov, 4, No. 2: 97 (1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Е. Вол, Строение и свойства двойных металлических систем (Москва: МИСиС: 1959).",
+				"tr":  "A. E. Vol, Stroenie i Svoystva Dvoynykh Metallicheskikh Sistem (Moscow: MISiS: 1959) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. П. Штапенко, Фізика і хімія твердого тіла, 8, № 2: 422 (2007).",
+				"tr":  "E. P. Shtapenko, Fizyka i Khimiya Tverdoho Tila, 8, No. 2: 422 (2007) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1088/0959-5309/52/1/312",
+				"or":  "N. F. Mott and F. R. N. Nabarro, Proc. Phys. Soc., 52: 86 (1940).",
+				"tr":  "N. F. Mott and F. R. N. Nabarro, Proc. Phys. Soc., 52: 86 (1940)."
+			}
+		]
+	}
+}

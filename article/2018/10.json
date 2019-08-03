@@ -1,0 +1,112 @@
+{
+	"year":   2018,
+	"volume": 40,
+	"issue":  10,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [1273,1282],
+			"title": {
+				"ua": "Нелінійна динаміка квантових вихорів у довгих Джозефсонових переходах",
+				"en": "Nonlinear Dynamics of Quantum Vortices in Long Josephson Junctions",
+				"ru": "Нелинейная динамика квантовых вихрей в длинных джозефсоновских переходах"
+			},
+			"autors": {
+				"ua": "Е. М. Руденко, І. В. Короташ, А. О. Краковний, М. О. Білоголовський",
+				"en": "E. M. Rudenko, I. V. Korotash, A. O. Krakovnyy, and M. O. Bilogolovskyy",
+				"ru": "Э. М. Руденко, И. В. Короташ, А. А. Краковный, М. А. Белоголовский"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [1283,1348],
+			"title": {
+				"ua": "Магнетні властивості рідин на основі поліфункціональних нанокомпозитів типу суперпарамагнетне ядро–багаторівнева оболонка",
+				"en": "Magnetic Properties of Fluids Based on Polyfunctional Nanocomposites of Superparamagnetic Core–Multilevel Shell Type",
+				"ru": "Магнитные свойства жидкостей на основе полифункциональных нанокомпозитов типа суперпарамагнитное ядро–многоуровневая оболочка"
+			},
+			"autors": {
+				"ua": "М. В. Абрамов, С. П. Туранська, П. П. Горбик",
+				"en": "M. V. Abramov, S. P. Turanska, and P. P. Gorbyk",
+				"ru": "Н. В. Абрамов, С. П. Туранская, П. П. Горбик"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [1349,1358],
+			"title": {
+				"ua": "Структурний аспект формування наносистеми In/In$_{4}$Se$_{3}$ (100)",
+				"en": "Structural Aspect of Formation of a Nanosystem of In/In$_{4}$Se$_{3}$ (100)",
+				"ru": "Структурный аспект формирования наносистемы In/In$_{4}$Se$_{3}$ (100)"
+			},
+			"autors": {
+				"ua": "П. В. Галій, П. Мазур, А. Ціжевський, Т. М. Ненчук, І. Р. Яровець, О. Р. Дверій",
+				"en": "P. V. Galiy, P. Mazur, A. Ciszewski, T. M. Nenchuk, I. R. Yarovets’, and O. R. Dveriy",
+				"ru": "П. В. Галий, П. Мазур, А. Цижевський, Т. М. Ненчук, І. Р. Яровец, О. Р. Дверий"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [1359,1373],
+			"title": {
+				"ua": "Кінетика дисперґування при відпалі у вакуумі молібденових наноплівок, нанесених на оксидні матеріяли",
+				"en": "Kinetics of Dispersion of the Molybdenum Nanofilms Deposited on Oxide Materials During Annealing in Vacuum",
+				"ru": "Кинетика диспергирования при отжиге в вакууме молибденовых наноплёнок, нанесённых на оксидные материалы"
+			},
+			"autors": {
+				"ua": "Ю. В. Найдіч, І. І. Габ, Т. В. Стецюк, Б. Д. Костюк, Д. Б. Шахнін",
+				"en": "Yu. V. Naidich, І. І. Gab, Т. V. Stetsyuk, B. D. Kоstyuk, and D. B. Shakhnin",
+				"ru": "Ю. В. Найдич, И. И. Габ, Т. В. Стецюк, Б. Д. Костюк, Д. Б. Шахнин"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [1375,1385],
+			"title": {
+				"ua": "Про поліпшені механічні властивості нанокомпозитів Fe–Cu та Y–Cu, одержаних механічним леґуванням",
+				"en": "On the Advanced Mechanical Properties of Fe–Cu and Y–Cu Nanocomposites Obtained by Mechanical Alloying",
+				"ru": "Об улучшенных механических свойствах нанокомпозитов Fe–Cu и Y–Cu, полученных механическим легированием"
+			},
+			"autors": {
+				"ua": "М. Дашевський, Н. Белявіна, О. Наконечна, М. Мельниченко, С. Рево",
+				"en": "M. Dashevskyi, N. Belyavina, O. Nakonechna, M. Melnichenko, and S. Revo",
+				"ru": "М. Дашевский, Н. Белявина, О. Наконечна, Н. Мельниченко, С. Рево"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  18,
+			"pages":  [1387,1399],
+			"title": {
+				"ua": "Сканівна акустична мікроскопія ефектів відпалу алюмінійової тонкої плівки, нанесеної на кремнійове підложжя",
+				"en": "Scanning Acoustic Microscopy of Annealing Effects for Aluminium Thin Film Deposited on Silicon Substrate",
+				"ru": "Сканирующая акустическая микроскопия эффектов отжига алюминиевой тонкой плёнки, нанесённой на кремниевую подложку"
+			},
+			"autors": {
+				"ua": "Шафья Аталья, Ляхадар Дeбуб, Амар Будур, Юсеф Бумеіза",
+				"en": "Chafia Atailia, Lakhdar Deboub, Amar Boudour, and Youcef Boumaiza",
+				"ru": "Шафья Аталья, Ляхадар Дeбуб, Амар Будур, Юсеф Бумеіза"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  1,
+			"pages":  [1401,1413],
+			"title": {
+				"ua": "Близький порядок у стопах Cr–C, електроосаджених імпульсним струмом",
+				"en": "The Short-Range Order in Cr–C Alloys Electrodeposited by a Pulsed Current",
+				"ru": "Ближний порядок в сплавах Cr–C, электроосаждённых импульсным током"
+			},
+			"autors": {
+				"ua": "О. М. Гулівець, О. С. Баскевич",
+				"en": "O. M. Gulivets and O. S. Baskevych",
+				"ru": "А. Н. Гуливец, А. С. Баскевич"
+			}
+		}		
+	]
+}

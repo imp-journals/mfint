@@ -1,0 +1,111 @@
+{
+	"_id":    "MFiNT.38.12.1681",
+	"year":   2016,
+	"volume": 38,
+	"issue":  12,
+	"pages":  [1681,1696],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["18.10.2016"],
+	"PACS":   "61.50.-f, 62.30.+d, 64.70.dg, 81.10.Aj, 81.10.Fq, 81.10.Mx, 81.30.Fb",
+	"title":   {
+		"ua": "Вплив вібрації на морфологію фронту при спрямованому твердінні",
+		"en": "Influence of Vibration on Morphology of Front During the Directional Solidification",
+		"ru": "Влияние вибрации на морфологию фронта при направленном затвердевании"
+	},
+	"abstract": {
+		"ua": "Методами прямого спостереження за фронтом кристалізації прозорих речовин і чисельними експериментами досліджено вплив вібрації на морфологію фазової межі та закономірності тепломасоперенесення в розтопі. Використовувалися Бріджменова технологія вирощування кристалів і накладення аксіяльної вібрації на циліндричний зразок. Виявлено сильний вплив потоку розтопу, що формується внаслідок вібрації, на розвиток нестійкого фронту кристалізації, а також залежність параметрів потоку від співвідношення амплітуд вібраційної та ґравітаційної конвекції.",
+		"en": "The methods of direct observation of the crystallization front in transparent substances and numerical simulation are used in study of the effect of vibration on interface morphology, heat and mass transfer in the melt. The Bridgman crystal-growth technology is applied using axial vibration of cylindrical sample. A strong influence of the melt flow emerging due to vibration on crystallization front stability as well as the effect of the ratio of the amplitudes of vibration and gravity convection on melt flow parameters is observed.",
+		"ru": "Методами прямого наблюдения за фронтом кристаллизации прозрачных веществ и численными экспериментами исследовано влияние вибрации на морфологию фазовой границы и закономерности тепломассопереноса в расплаве. Использовались технология Бриджмена выращивания кристаллов и наложение аксиальной вибрации на цилиндрический образец. Обнаружено сильное влияние формирующегося вследствие вибрации потока расплава на развитие неустойчивого фронта кристаллизации, а также зависимость параметров потока от соотношения амплитуд вибрационной и гравитационной конвекции."
+	},
+	"keywords": {
+		"ua": "спрямована кристалізація, вібрація, морфологія фронту кристалізації, тепломасоперенесення в розтопі, чисельне моделювання",
+		"en": "directional solidification, vibration, morphology of crystallization front, heat and mass transfer in the melt, numerical simulation",
+		"ru": "направленная кристаллизация, вибрация, морфология фронта кристаллизации, тепломассоперенос в расплаве, численное моделирование"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. П. Федоров", "en": "O. P. Fedorov", "ru": "О. П. Фёдоров"},
+			"OID": [19, 1]
+		},
+		{
+			"AID": {"ua": "В. Ф. Демченко", "en": "V. F. Demchenko", "ru": "В. Ф. Демченко"},
+			"OID": [19, 10]
+		},
+		{
+			"AID": {"ua": "Є. Л. Живолуб", "en": "E. L. Zhivolub", "ru": "Е. Л. Живолуб"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 13,
+		"list":  [
+			{
+				"doi": "10.1016/j.jcrysgro.2004.07.080",
+				"or":  "W. C. Yu, Z. B. Chen, W. T. Hsu, B. Roux, T. P. Lyubimova, and C. W Lan, J. Crystal Growth, 271: 474 (2004).",
+				"tr":  "W. C. Yu, Z. B. Chen, W. T. Hsu, B. Roux, T. P. Lyubimova, and C. W Lan, J. Crystal Growth, 271: 474 (2004)."
+			},
+			{
+				"doi": "10.1134/S0015462808040030",
+				"or":  "C.-W. Lan, D. Lyubimov, T. P. Lyubimova, D. V. Lyubimov, and B. S. Maryshev, Fluid Dynamics, 43, No. 4: 523 (2008).",
+				"tr":  "C.-W. Lan, D. Lyubimov, T. P. Lyubimova, D. V. Lyubimov, and B. S. Maryshev, Fluid Dynamics, 43, No. 4: 523 (2008)."
+			},
+			{
+				"doi": "10.1007/BF02945993",
+				"or":  "D. Lyubimov, T. P. Lyubimova, A. A. Tcherepanov et al., Intern. J. Microgravity Res. Appl., 16, No. 1: 290 (2005).",
+				"tr":  "D. Lyubimov, T. P. Lyubimova, A. A. Tcherepanov et al., Intern. J. Microgravity Res. Appl., 16, No. 1: 290 (2005)."
+			},
+			{
+				"doi": "10.1016/j.jcrysgro.2004.11.220",
+				"or":  "A. Fedyushkin, N. Bourago, V. Polezhaev, and E. Zharikov, J. Crystal Growth, 275: 1557 (2005).",
+				"tr":  "A. Fedyushkin, N. Bourago, V. Polezhaev, and E. Zharikov, J. Crystal Growth, 275: 1557 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. В. Жариков, И. Х. Аветисов, А. В. Скоренко и др., Поверхность. Рентгеновские, синхротронные и нейтронные исследования, № 9: 56 (2001).",
+				"tr":  "E. V. Zharikov, I. H. Avetisov, A. V. Skorenko et al., Poverkhnost. Rentgenovskie, Sinkhrotronnye i Neytronnye Issledovaniya, No. 9: 56 (2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Земсков, М. Р. Раухман, В. П. Шалимов, Поверхность. Рентгеновские, синхротронные и нейтронные исследования, № 9: 41 (2001).",
+				"tr":  "V. S. Zemskov, M. R. Rauhman, and V. P. Shalimov, Poverkhnost. Rentgenovskie, Sinkhrotronnye i Neytronnye Issledovaniya, No. 9: 41 (2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Земсков, М. Р. Раухман, В. П. Шалимов, Итоги экспериментов ИМЕТ РАН по выращиванию монокристаллов в условиях полётов космических аппаратов (Москва: Наука: 2013), c. 383.",
+				"tr":  "V. S. Zemskov, M. R. Rauhman, and V. P. Shalimov, Itogi Eksperimentov IMET RAN po Vyrashchivaniyu Monokristallov v Usloviyakh Poletov Kosmicheskikh Apparatov (Moscow: Nauka: 2013), p. 383 (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0022-0248(99)00839-8",
+				"or":  "A. I. Fedoseyev and J. D. Alexander, J. Crystal Growth, 211: 34 (2000).",
+				"tr":  "A. I. Fedoseyev and J. D. Alexander, J. Crystal Growth, 211: 34 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "О. П. Федоров, А. Г. Машковский, Кристаллография, 60, № 2: 260 (2015).",
+				"tr":  "O. P. Fedorov and A. G. Mashkovskii, Kristallografiya, 60, No. 2: 260 (2015) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0022-0248(97)00825-7",
+				"or":  "L. Buhler and S. H. Davis, J. Cryst. Growth, 186: 629 (1998).",
+				"tr":  "L. Buhler and S. H. Davis, J. Cryst. Growth, 186: 629 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "О. П. Федоров, Процессы роста кристаллов: кинетика, формообразование, неоднородности (Киев: Наукова думка: 2010).",
+				"tr":  "O. P. Fedorov, Protsessy Rosta Kristallov: Kinetika, Formoobrazovanie, Neodnorodnosti [Crystal Growth Processes: Kinetics, Shape Formation, Inhomogeneities] (Kyiv: Naukova Dumka: 2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. П. Федоров, В. Ф. Демченко, И. В. Шуба, А. Б. Лесной, Физика и химия обработки материалов, № 5: 85 (2015).",
+				"tr":  "O.P. Fedorov, V. F. Demschenko, I. V. Shuba, and A. B. Lesnoi, Fizika i Khimiya Obrabotki Materialov, No. 5: 85 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. З. Гершуни, Е. М. Жуховицкий, Конвективная устойчивость несжимаемой жидкости (Москва: Наука: 1972).",
+				"tr":  "G. Z. Gershuni and E. M. Zhukhovickii, Konvektivnaya Ustoychivost Neszhimaemoy Zhidkosti (Moscow: Nauka: 1972) (in Russian)."
+			}
+		]
+	}
+}

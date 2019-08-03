@@ -1,0 +1,172 @@
+{
+	"year":   2017,
+	"volume": 39,
+	"issue":  4,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [425,439],
+			"title": {
+				"ua": "3d–4f-інтерметаліди. Обмін та анізотропія. Багатоелектронна статистика",
+				"en": "3d–4f-Intermetallides. Exchange and Anisotropy. Many-Electron Statistics",
+				"ru": "3d–4f-интерметаллиды. Обмен и анизотропия. Многоэлектронная статистика"
+			},
+			"autors": {
+				"ua": "О. І. Міцек, В. М. Пушкар",
+				"en": "O. I. Mitsek and V. M. Pushkar",
+				"ru": "А. И. Мицек, В. Н. Пушкарь"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [441,455],
+			"title": {
+				"ua": "Міряння критичних струмів тонких надпровідних плівок YBa$_{2}$Cu$_{3}$O$_{7-\\delta}$ методою магнетної сприйнятливости за допомогою накладних навоїв",
+				"en": "Measurement of Critical Currents in Superconducting Thin YBa$_{2}$Cu$_{3}$O$_{7-\\delta}$ Films by the Magnetic Susceptibility Method Using Open-Faced Coils",
+				"ru": "Измерение критических токов тонких сверхпроводящих плёнок YBa$_{2}$Cu$_{3}$O$_{7-\\delta}$ методом магнитной восприимчивости с помощью накладных катушек"
+			},
+			"autors": {
+				"ua": "О. А. Каленюк, Г. Г. Камінський, О. В. Семенов, В. О. Москалюк, В. С. Фліс",
+				"en": "A. A. Kalenyuk, G. G. Kaminskyi, A. V. Semenov, V. O. Moskaliuk, and V. S. Flis",
+				"ru": "А. А. Каленюк, Г. Г. Каминский, А. В. Сёменов, В. О. Москалюк, В. С. Флис"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [457,464],
+			"title": {
+				"ua": "Зерномежова сеґреґація та міґрація атомів Гідроґену в альфа-залізі",
+				"en": "Hydrogen Grain Boundary Segregation and Migration in the Alpha-Iron",
+				"ru": "Зернограничная сегрегация и миграция атомов водорода в альфа-железе"
+			},
+			"autors": {
+				"ua": "В. Г. Гаврилюк, С. М. Теус",
+				"en": "V. G. Gavriljuk and S. M. Teus",
+				"ru": "В. Г. Гаврилюк, С. М. Теус"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [465,475],
+			"title": {
+				"ua": "Вплив ступеня водневофазового наклепу на кінетику дегазації водню з гідриду паладію",
+				"en": "Effect of Hydrogen-Phase Cold-Work Hardening on the Palladium-Hydride Dehydrogenation Kinetics",
+				"ru": "Влияние степени водородофазового наклёпа на кинетику дегазации водорода из гидрида палладия"
+			},
+			"autors": {
+				"ua": "М. В. Гольцова",
+				"en": "M. V. Goltsova",
+				"ru": "М. В. Гольцова"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [477,490],
+			"title": {
+				"ua": "Про концентраційний критерій руйнування",
+				"en": "On the Concentration Criterion of Fracture",
+				"ru": "О концентрационном критерии разрушения"
+			},
+			"autors": {
+				"ua": "Л. Р. Ботвіна, А. П. Солдатенков",
+				"en": "L. R. Botvina and A. P. Soldatenkov",
+				"ru": "Л. Р. Ботвина, А. П. Солдатенков"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [491,505],
+			"title": {
+				"ua": "Особливості формування мікроструктури, елементного та фазового складів і властивостей сталі 170Х14Г3С3Н1ФР1 в умовах лиття й імпульсно-плазмового напорошення",
+				"en": "Features of Formation of Microstructure, Elemental and Phase Compositions, and Properties of the 1.7%C–14%Cr–3%Mn–3%Si–1%Ni–0.6%V–1.2%B Steel under Casting and Pulsed Plasma Deposition",
+				"ru": "Особенности формирования микроструктуры, элементного и фазового составов и свойств стали 170Х14Г3С3Н1ФР1 в условиях литья и импульсно-плазменного напыления"
+			},
+			"autors": {
+				"ua": "Ю. Г. Чабак, Т. В. Пастухова, В. Г. Єфременко, К. Шимідзу, О. П. Чейлях, В. І. Зурнаджі",
+				"en": "Yu. G. Chabak, T. V. Pastukhova, V. G. Efremenko, K. Shimizu, A. P. Cheiliakh, and V. I. Zurnadzhi",
+				"ru": "Ю. Г. Чабак, Т. В. Пастухова, В. Г. Ефременко, К. Шимидзу, А. П. Чейлях, В. И. Зурнаджи"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [507,515],
+			"title": {
+				"ua": "Лазерне леґування титану перехідними металами групи Феруму",
+				"en": "Laser Doping of Titanium with Transition Metals of the Fe Group",
+				"ru": "Лазерное легирование титана переходными металлами группы железа"
+			},
+			"autors": {
+				"ua": "В. В. Гіржон, О. В. Смоляков, О. Ф. Здоровець",
+				"en": "V. V. Gіrzhon, O. V. Smolyakov, and O. F. Zdorovets",
+				"ru": "В. В. Гиржон, А. В. Смоляков, А. Ф. Здоровец"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [517,524],
+			"title": {
+				"ua": "Вплив товщини оксидного шару на опір кераміко-алюмінійового покриття індентуванню",
+				"en": "Influence of the Oxide-Layer Thickness on the Ceramic–Aluminium Coating Resistance to Indentation",
+				"ru": "Влияние толщины оксидного слоя на сопротивление керамико-алюминиевого покрытия индентированию"
+			},
+			"autors": {
+				"ua": "Л. Я. Роп’як, І. П. Шацький, М. В. Маковійчук",
+				"en": "L. Ya. Ropyak, I. P. Shatskyi, and M. V. Makoviichuk",
+				"ru": "Л. Я. Ропяк, И. П. Шацкий, Н. В. Маковийчук"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [525,539],
+			"title": {
+				"ua": "Структура та магнетні властивості нанопорошків Cu–Co і Cu–Fe, одержаних в ультразвуковому млині",
+				"en": "Structure and Magnetic Properties of the Cu–Co and Cu–Fe Nanopowders Obtained in Ultrasonic Ball Mill",
+				"ru": "Структура и магнитные свойства нанопорошков Cu–Co и Cu–Fe, полученных в ультразвуковой мельнице"
+			},
+			"autors": {
+				"ua": "В. М. Надутов, А. О. Перекос, Б. М. Мордюк, В. З. Войнаш, В. П. Залуцький, Н. О. Піскун, Т. Г. Кабанцев",
+				"en": "V. M. Nadutov, A. Ye. Perekos, B. N. Mordyuk, V. Z. Voynash, V. P. Zalutskyi, N. A. Piskun, and T. G. Kabantsev",
+				"ru": "В. М. Надутов, А. Е. Перекос, Б. Н. Мордюк, В. З. Войнаш, В. П. Залуцкий, Н. А. Пискун, Т. Г. Кабанцев"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [541,552],
+			"title": {
+				"ua": "Фазові перетворення в еквіатомовій порошковій суміші Y–Cu при механічному розмелюванні",
+				"en": "Phase Transformations in Equiatomic Y–Cu Powder Mixture at Mechanical Milling",
+				"ru": "Фазовые превращения в эквиатомной порошковой смеси Y–Cu при механическом размоле"
+			},
+			"autors": {
+				"ua": "М. М. Дашевський, О. І. Бошко, О. І. Наконечна, Н. М. Білявина",
+				"en": "M. Dashevskyi, О. Boshko, O. Nakonechna, and N. Belyavina",
+				"ru": "Н. Н. Дашевский, О. И. Бошко, О. И. Наконечная, Н. Н. Белявина"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  1,
+			"pages":  [553,566],
+			"title": {
+				"ua": "EXAFS-дослідження аморфного металевого стопу на основі заліза",
+				"en": "EXAFS-Investigations of Amorphous Iron-Based Metal Alloy",
+				"ru": "EXAFS-исследования аморфного металлического сплава на основе железа"
+			},
+			"autors": {
+				"ua": "Л. І. Карбівська, В. А. Артемюк, В. Л. Карбівський, А. П. Сорока",
+				"en": "L. I. Karbivska, V. A. Artemyuk, V. L. Karbivskyy, and A. P. Soroka",
+				"ru": "Л. И. Карбовская, В. А. Артемюк, В. Л. Карбовский,  А. П. Сорока"
+			}
+		}
+	]
+}

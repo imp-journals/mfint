@@ -1,0 +1,308 @@
+{
+	"_id":    "MFiNT.40.05.0561",
+	"year":   2018,
+	"volume": 40,
+	"issue":  5,
+	"pages":  [561,583],
+	"rubric": 2,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["03.03.2018"],
+	"PACS":   "07.85.-m, 41.50.+h, 61.05.C-, 61.72.Ff, 68.55.J-, 68.55.Ln, 81.05.Dz",
+	"title":   {
+		"ua": "Прикладні можливості рентґенівської топографії кристалів у косоасиметричній схемі дифракції на відбивання",
+		"en": "Applied Capabilities of X-Ray Topography of Crystals in the Skew-Asymmetric Bragg Diffraction",
+		"ru": "Прикладные возможности рентгеновской топографии кристаллов в косоасимметричной схеме дифракции на отражение"
+	},
+	"abstract": {
+		"ua": "Показано прикладні можливості використання модифікованої топографічної методи Берґа–Баррета в косоасиметричній схемі дифракції Рентґенових променів на відбивання при дослідженні морфології та структурних змін поблизу поверхні кристалів. Контрольована зміна екстинкційної глибини проникнення Рентґенових променів відкриває нові можливості дослідження структурних змін у напівпровідникових матеріялах після різних зовнішніх впливів.",
+		"en": "The applied capabilities of use of modified Berg–Barrett topographic method in the skew-asymmetric x-ray Bragg diffraction setup for the study of morphology and structural changes near crystal surface are shown. A controlled change in the extinction depth of x-ray penetration opens up new possibilities for investigation of structural changes in semiconductor materials after various external influences.",
+		"ru": "Показаны прикладные возможности использования модифицированного топографического метода Берга–Баррета в косоасимметричной схеме дифракции рентгеновских лучей на отражение при исследовании морфологии и структурных изменений вблизи поверхности кристаллов. Контролируемое изменение экстинкционной глубины проникновения рентгеновских лучей открывает новые возможности исследования структурных изменений в полупроводниковых материалах после различных внешних воздействий."
+	},
+	"keywords": {
+		"ua": "рентґенівська дифракція, рентґенівська топографія, структурна діягностика, метода Берґа–Баррета",
+		"en": "x-ray diffraction, x-ray topography, structural diagnostics, Berg–Barrett method",
+		"ru": "рентгеновская дифракция, рентгеновская топография, структурная диагностика, метод Берга–Баррета"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. М. Фодчук", "en": "I. M. Fodchuk", "ru": "И. М. Фодчук"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "Р. А. Заплітний", "en": "R. A. Zaplitnyy", "ru": "Р. А. Заплитный"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "Ю. Т. Роман", "en": "Yu. T. Roman", "ru": "Ю. Т. Роман"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "В. Б. Молодкін", "en": "V. B. Molodkin", "ru": "В. Б. Молодкин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Т. П. Владимирова", "en": "T. P. Vladimirova", "ru": "Т. П. Владимирова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "З. Свянтек", "en": "Z. Świątek", "ru": "З. Свянтек"},
+			"OID": [525]
+		}
+	],
+	"references": {
+		"count": 50,
+		"list":  [
+			{
+				"doi": "10.1007/BF01522358",
+				"or":  "W. F. Berg, Naturwissenschaften, 19, No. 8: 391 (1931).",
+				"tr":  "W. F. Berg, Naturwissenschaften, 19, No. 8: 391 (1931)."
+			},
+			{
+				"doi": "",
+				"or":  "C. S. Barrett, Trans. AIME, 161, No. 1: 15 (1945).",
+				"tr":  "C. S. Barrett, Trans. AIME, 161, No. 1: 15 (1945)."
+			},
+			{
+				"doi": "",
+				"or":  "G. N. Ramachandran, Proc. Indian Acad. Sci., 19: 280 (1944).",
+				"tr":  "G. N. Ramachandran, Proc. Indian Acad. Sci., 19: 280 (1944)."
+			},
+			{
+				"doi": "10.1002/pssa.2210190138",
+				"or":  "T. Bedynska, phys. status solidi (a), 19, Iss. 1: 365 (1973).",
+				"tr":  "T. Bedynska, phys. status solidi (a), 19, Iss. 1: 365 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "B. K. Tanner, X-Ray Diffraction Topography (Oxford: Pergamon Press–Oxford University Press: 1976).",
+				"tr":  "B. K. Tanner, X-Ray Diffraction Topography (Oxford: Pergamon Press–Oxford University Press: 1976)."
+			},
+			{
+				"doi": "",
+				"or":  "D. K. Bowen and B. K. Tanner, High Resolution X-Ray Diffractometry and Topography (London: Taylor and Francis Ltd.: 1998).",
+				"tr":  "D. K. Bowen and B. K. Tanner, High Resolution X-Ray Diffractometry and Topography (London: Taylor and Francis Ltd.: 1998)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Authier, Dynamical Theory of X-Ray Diffraction (New York: Oxford University Press: 2001).",
+				"tr":  "A. Authier, Dynamical Theory of X-Ray Diffraction (New York: Oxford University Press: 2001)."
+			},
+			{
+				"doi": "10.6028/NIST.SP.960-10",
+				"or":  "D. R. Black and G. G. Long, X-Ray Topography (Washington: US Covernment Printing Office: 2004).",
+				"tr":  "D. R. Black and G. G. Long, X-Ray Topography (Washington: US Covernment Printing Office: 2004)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Holy, U. Pietsch, and T. Baumbach, High-Resolution X-Ray Scattering from Thin Films and Multilayers (Heidelberg: Springer: 1999).",
+				"tr":  "V. Holy, U. Pietsch, and T. Baumbach, High-Resolution X-Ray Scattering from Thin Films and Multilayers (Heidelberg: Springer: 1999)."
+			},
+			{
+				"doi": "10.1107/S0108767383000471",
+				"or":  "A. M. Afanas’ev and M. K. Melkonyan, Acta Cryst. A, A39, No. 2: 207 (1983).",
+				"tr":  "A. M. Afanas'ev and M. K. Melkonyan, Acta Cryst. A, A39, No. 2: 207 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Афанасьев, П. А. Александров, Р. М. Имамов, Рентгенодифракционная диагностика субмикронных слоев (Москва: Наука: 1989).",
+				"tr":  "A. M. Afanas'ev, P. A. Aleksandrov, and R. M. Imamov, Rentgenodifraktsionnaya Diagnostika Submikronnykh Sloev [X-Ray Diffraction Diagnostics of Submicron Layers] (Moscow: Nauka: 1989) (in Russian)."
+			},
+			{
+				"doi": "10.1002/pssa.2211150232",
+				"or":  "R. M. Imamov, A. A. Lomov, and D. V. Novikov, phys. status solidi (a), 115, Iss. 2: K133 (1989).",
+				"tr":  "R. M. Imamov, A. A. Lomov, and D. V. Novikov, phys. status solidi (a), 115, Iss. 2: K133 (1989)."
+			},
+			{
+				"doi": "10.1088/0022-3727/28/4A/016",
+				"or":  "D. Novikov, M. Ohler, R. Köhler, and G. Meterlik, J. Phys. D: Appl. Phys., 28, No. 4A: A84 (1995).",
+				"tr":  "D. Novikov, M. Ohler, R. Köhler, and G. Meterlik, J. Phys. D: Appl. Phys., 28, No. 4A: A84 (1995)."
+			},
+			{
+				"doi": "10.1088/0022-3727/34/10A/315",
+				"or":  "J. Hartwig, J. Phys. D: Appl. Phys., 34, No. 10A: A70 (2001).",
+				"tr":  "J. Hartwig, J. Phys. D: Appl. Phys., 34, No. 10A: A70 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "J.-F. Petroff, Applications of X-Ray Topographic Methods to Materials Science (Eds. S. Weissmann, F. Balibar, and J.-F. Petroff) (New York: Plenum Press: 1984), p. 536.",
+				"tr":  "J.-F. Petroff, Applications of X-Ray Topographic Methods to Materials Science (Eds. S. Weissmann, F. Balibar, and J.-F. Petroff) (New York: Plenum Press: 1984), p. 536."
+			},
+			{
+				"doi": "",
+				"or":  "M. Kuriyama and G. G. Long, Applications of X-Ray Topographic Methods to Materials Science (Eds. S. Weissmann, F. Balibar, and J.-F. Petroff) (New York: Plenum Press: 1984), p. 536.",
+				"tr":  "M. Kuriyama and G. G. Long, Applications of X-Ray Topographic Methods to Materials Science (Eds. S. Weissmann, F. Balibar, and J.-F. Petroff) (New York: Plenum Press: 1984), p. 536."
+			},
+			{
+				"doi": "10.1002/pssa.2210870125",
+				"or":  "V. L. Indenbom and V. M. Kaganer, phys. status solidi (a), 87, Iss. 1: 253 (1985).",
+				"tr":  "V. L. Indenbom and V. M. Kaganer, phys. status solidi (a), 87, Iss. 1: 253 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "U. Bonse, Direct Observation of Imperfections in Crystals (New York: Willey: 1962).",
+				"tr":  "U. Bonse, Direct Observation of Imperfections in Crystals (New York: Willey: 1962)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, А. И. Низкова, А. П. Шпак, В. Ф. Мачулин, В. П. Кладько, И. В. Прокопенко, Р. Н. Кютт, Е. Н. Кисловский, С. И. Олиховский, И. М. Фодчук, А. А. Дышеков, Ю. П. Хапачев, Дифрактометрия наноразмерных дефектов и гетерослоев кристаллов (Киев: Академпериодика: 2005).",
+				"tr":  "V. B. Molodkin, A. I. Nizkova, A. P. Shpak, V. F. Machulin, V. P. Klad'ko, I. V. Prokopenko, R. N. Kyutt, E. N. Kislovskiy, S. I. Olikhovskiy, I. M. Fodchuk, A. A. Dyshekov, and Yu. P. Khapachev, Difraktometriya Nanorazmernykh Defektov i Geterosloev Kristallov [Diffractometry of Nanosize Defects and Heterolayers of Crystals] (Kyiv: Akademperiodyka: 2005) (in Russian)."
+			},
+			{
+				"doi": "10.1080/01418618008239362",
+				"or":  "P. Riglet, M. Sauvage, J. P. Petroff, and Y. Epelboin, Philos. Mag., 42, No. 3: 339 (1980).",
+				"tr":  "P. Riglet, M. Sauvage, J. P. Petroff, and Y. Epelboin, Philos. Mag., 42, No. 3: 339 (1980)."
+			},
+			{
+				"doi": "10.1080/01418619108204595",
+				"or":  "T. Kitano, T. Ishikawa, and J. Matsui, Philos. Mag., 63, No. 1: 95 (1991).",
+				"tr":  "T. Kitano, T. Ishikawa, and J. Matsui, Philos. Mag., 63, No. 1: 95 (1991)."
+			},
+			{
+				"doi": "10.1107/S1600576715004926",
+				"or":  "M. G. Tsoutsouva, V. A. Oliveira, J. Baruchel, D. Camel, B. Marie, and T. A. Lafford, J. Appl. Cryst., 48, No. 1: 645 (2015).",
+				"tr":  "M. G. Tsoutsouva, V. A. Oliveira, J. Baruchel, D. Camel, B. Marie, and T. A. Lafford, J. Appl. Cryst., 48, No. 1: 645 (2015)."
+			},
+			{
+				"doi": "10.1107/S002188980101086X",
+				"or":  "W. Ludwig, P. Cloetens, J. Hartwig, J. Baruchel, B. Hamelin, and P. Bastie, J. Appl. Cryst., 34, No. 5: 602 (2001).",
+				"tr":  "W. Ludwig, P. Cloetens, J. Hartwig, J. Baruchel, B. Hamelin, and P. Bastie, J. Appl. Cryst., 34, No. 5: 602 (2001)."
+			},
+			{
+				"doi": "10.1016/S0168-583X(99)00619-9",
+				"or":  "D. Lübbert, T. Baumbach, J. Härtwig, E. Boller, and E. Pernot, Nucl. Instrum. Methods Phys. Res. (b), 160, No. 4: 521 (2000).",
+				"tr":  "D. Lübbert, T. Baumbach, J. Härtwig, E. Boller, and E. Pernot, Nucl. Instrum. Methods Phys. Res. (b), 160, No. 4: 521 (2000)."
+			},
+			{
+				"doi": "10.1107/S0021889807011016",
+				"or":  "D. Lübbert and T. Baumbach, J. Appl. Cryst., 40, No. 5: 595 (2007).",
+				"tr":  "D. Lübbert and T. Baumbach, J. Appl. Cryst., 40, No. 5: 595 (2007)."
+			},
+			{
+				"doi": "10.1107/S1600576716006385",
+				"or":  "D. Grigoriev, S. Lazarev, P. Schroth, A. A. Minkevich, M. Kohl, T. Slobodskyy, M. Helfrich, D. M. Schaadt, T. Aschenbrenner, D. Hommel, and T. Baumbach, J. Appl. Cryst., 49, No. 3: 961 (2016).",
+				"tr":  "D. Grigoriev, S. Lazarev, P. Schroth, A. A. Minkevich, M. Kohl, T. Slobodskyy, M. Helfrich, D. M. Schaadt, T. Aschenbrenner, D. Hommel, and T. Baumbach, J. Appl. Cryst., 49, No. 3: 961 (2016)."
+			},
+			{
+				"doi": "10.1080/14786437508229280",
+				"or":  "F. Rustichelli, Phiosl. Mag., 31, No. 1: 1 (1975).",
+				"tr":  "F. Rustichelli, Philos. Mag., 31, No. 1: 1 (1975)."
+			},
+			{
+				"doi": "10.1002/pssa.2210330218",
+				"or":  "O. Brummer, H. R. Hoche, and J. Nieber, phys. status solidi (a), 33, Iss. 2: 587 (1976).",
+				"tr":  "O. Brummer, H. R. Hoche, and J. Nieber, phys. status solidi (a), 33, Iss. 2: 587 (1976)."
+			},
+			{
+				"doi": "10.1002/pssa.2210370222",
+				"or":  "O. Brummer, H. R. Hoche, and J. Nieber, phys. status solidi (a), 37, Iss. 2: 529 (1976).",
+				"tr":  "O. Brummer, H. R. Hoche, and J. Nieber, phys. status solidi (a), 37, Iss. 2: 529 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Hartwig, Exp. Tech. Phys., 26, No. 3: 535 (1978).",
+				"tr":  "J. Hartwig, Exp. Tech. Phys., 26, No. 3: 535 (1978)."
+			},
+			{
+				"doi": "10.1117/12.557549",
+				"or":  "S. Stepanov, Proc. SPIE, 5536: 16 (2004).",
+				"tr":  "S. Stepanov, Proc. SPIE, 5536: 16 (2004)."
+			},
+			{
+				"doi": "10.1002/pssa.2211280202",
+				"or":  "V. Lerche, P. Dornfelder, and J. Hartwig, phys. status solidi (a), 128, Iss. 2: 269 (1991).",
+				"tr":  "V. Lerche, P. Dornfelder, and J. Hartwig, phys. status solidi (a), 128, Iss. 2: 269 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Кшевецкий, Ю. П. Стецко, И. М. Фодчук, И. В. Мельничук, В. С. Полянко, Український фізичний журнал, 35, № 3: 444 (1990).",
+				"tr":  "S. A. Kshevetskiy, Yu. P. Stetsko, I. M. Fodchuk, I. V. Mel'nichuk, and V. S. Polyanko, Ukr. Fiz. Zhurn., 35, No. 3: 444 (1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. М. Фодчук, О. С. Кшевецкий, Металлофизика, 14, № 5: 57 (1992).",
+				"tr":  "I. M. Fodchuk and O. S. Kshevetskiy, Metallofizika, 14, No. 5: 57 (1992) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "I. M. Fodchuk, A. M. Raransky, and A. V. Evdokimenko, Proc. SPIE, 3045: 37 (1995).",
+				"tr":  "I. M. Fodchuk, A. M. Raransky, and A. V. Evdokimenko, Proc. SPIE, 3045: 37 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "И. М. Фодчук, А. Н. Раранский, А. В. Евдокименко, Неорганические материалы, 31, № 10: 1669 (1995).",
+				"tr":  "I. M. Fodchuk, A. N. Raranskiy, and A. V. Evdokimenko, Neorganicheskie Materialy, 31, No. 10: 1669 (1995) (in Russian)."
+			},
+			{
+				"doi": "10.1117/12.344754",
+				"or":  "V. Savitsky, L. Mansurov, I. Fodchuk, I. Izhnin, I. Virt, M. Lozynska, and A. Evdokimenko, Proc. SPIE, 3725: 299 (1998).",
+				"tr":  "V. Savitsky, L. Mansurov, I. Fodchuk, I. Izhnin, I. Virt, M. Lozynska, and A. Evdokimenko, Proc. SPIE, 3725: 299 (1998)."
+			},
+			{
+				"doi": "10.1016/S0040-6090(97)01082-1",
+				"or":  "Z. Świątek, J. T. Bonarski, R. Ciach, Z. T. Kuźnicki, I. M. Fodchuk, M. D. Raransky, and P. Gorley, Thin Solid Films, 319, Nos. 1–2: 39 (1998).",
+				"tr":  "Z. Świątek, J. T. Bonarski, R. Ciach, Z. T. Kuźnicki, I. M. Fodchuk, M. D. Raransky, and P. Gorley, Thin Solid Films, 319, Nos. 1–2: 39 (1998)."
+			},
+			{
+				"doi": "10.1007/BF02758059",
+				"or":  "Z. T. Kuznicki, R. Ciach, Z. Swiatek, N. D. Raranskii, I. M. Fodchuk, P. N. Gorlei, and D. V. Kadel’nik, Inorg. Mater., 36, No. 5: 508 (2000).",
+				"tr":  "Z. T. Kuznicki, R. Ciach, Z. Swiatek, N. D. Raranskii, I. M. Fodchuk, P. N. Gorlei, and D. V. Kadel'nik, Inorg. Mater., 36, No. 5: 508 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "J. T. Bonarski, M. Zehetbauer, Z. Swiatek, I. M. Fodchuk, I. Kopacz, S. Bernstorff, and H. Amenitsch, Opto-Electron. Rev., 8, No. 4: 323 (2000).",
+				"tr":  "J. T. Bonarski, M. Zehetbauer, Z. Swiatek, I. M. Fodchuk, I. Kopacz, S. Bernstorff, and H. Amenitsch, Opto-Electron. Rev., 8, No. 4: 323 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Литвинчук, З. Свянтек, И. М. Фодчук, Металлофиз. новейшие технол., 27, № 8: 71 (2004).",
+				"tr":  "I. V. Litvinchuk, Z. Svyantek, and I. M. Fodchuk, Metallofiz. Noveishie Tekhnol., 27, No. 8: 71 (2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. А. Заплитный, Т. А. Каземирский, И. М. Фодчук, З. Свянтек, Металлофиз. новейшие технол., 27, № 8: 915 (2006).",
+				"tr":  "R. A. Zaplitnyy, T. A. Kazemirskiy, I. M. Fodchuk, and Z. Svyantek, Metallofiz. Noveishie Tekhnol., 27, No. 8: 915 (2006) (in Russian)."
+			},
+			{
+				"doi": "10.1002/pssa.200675704",
+				"or":  "I. Fodchuk, R. Zaplitnyy, T. Kazemirskiy, and Z. Swiatek, phys. status solidi (a), 204, Iss. 8: 2714 (2007).",
+				"tr":  "I. Fodchuk, R. Zaplitnyy, T. Kazemirskiy, and Z. Swiatek, phys. status solidi (a), 204, Iss. 8: 2714 (2007)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2008.04.075",
+				"or":  "A. P. Vlasov, O. Yu. Bonchyk, S. G. Kiyak, I. M. Fodchuk, R. M. Zaplitnyy, T. Kazemirskiy, A. Barcz, P. S. Zieba, Z. Swiatek, and W. Maziarz, Thin Solid Films, 516, No. 22: 8106 (2008).",
+				"tr":  "A. P. Vlasov, O. Yu. Bonchyk, S. G. Kiyak, I. M. Fodchuk, R. M. Zaplitnyy, T. Kazemirskiy, A. Barcz, P. S. Zieba, Z. Swiatek, and W. Maziarz, Thin Solid Films, 516, No. 22: 8106 (2008)."
+			},
+			{
+				"doi": "10.1002/pssa.200881591",
+				"or":  "I. Fodchuk, R. Zaplitnyy, T. Kazemirskiy, I. Litvinchuk, and Z. Swiatek, phys. status solidi (a), 206, Iss. 8: 1804 (2009).",
+				"tr":  "I. Fodchuk, R. Zaplitnyy, T. Kazemirskiy, I. Litvinchuk, and Z. Swiatek, phys. status solidi (a), 206, Iss. 8: 1804 (2009)."
+			},
+			{
+				"doi": "10.1515/amm-2016-0310",
+				"or":  "Z. Swiatek and I. M. Fodchuk, Arch. Metall. Mater., 61, No. 4: 1931 (2016).",
+				"tr":  "Z. Swiatek and I. M. Fodchuk, Arch. Metall. Mater., 61, No. 4: 1931 (2016)."
+			},
+			{
+				"doi": "10.1107/S1600576717007208",
+				"or":  "Z. Swiatek, I. Fodchuk, and R. Zaplitnyy, J. Appl. Crystallogr., 50, No. 3: 727 (2017).",
+				"tr":  "Z. Swiatek, I. Fodchuk, and R. Zaplitnyy, J. Appl. Crystallogr., 50, No. 3: 727 (2017)."
+			},
+			{
+				"doi": "10.15407/mfint.38.01.0099",
+				"or":  "V. B. Molodkin, S. I. Olikhovskii, E. G. Len, Ye. M. Kyslovskyy, O. V. Reshetnyk, T. P. Vladimirova, B. V. Sheludchenko, O. S. Skakunova, V. V. Lizunov, E. V. Kochelab, I. M. Fodchuk, and V. P. Klad’ko, Металлофиз. новейшие технол., 38, № 1: 99 (2016).",
+				"tr":  "V. B. Molodkin, S. I. Olikhovskii, E. G. Len, Ye. M. Kyslovskyy, O. V. Reshetnyk, T. P. Vladimirova, B. V. Sheludchenko, O. S. Skakunova, V. V. Lizunov, E. V. Kochelab, I. M. Fodchuk, and V. P. Klad'ko, Metallofiz. Noveishie Tekhnol., 38, No. 1: 99 (2016)."
+			},
+			{
+				"doi": "10.1116/1.585869",
+				"or":  "W. E. Tennant, C. A. Cockrum, J. B. Gilpin, M. A. Kinch, M. B. Reine, and R. P. Ruth, J. Vac. Sci. Technol. B, 10, No. 4: 1359 (1992).",
+				"tr":  "W. E. Tennant, C. A. Cockrum, J. B. Gilpin, M. A. Kinch, M. B. Reine, and R. P. Ruth, J. Vac. Sci. Technol. B, 10, No. 4: 1359 (1992)."
+			},
+			{
+				"doi": "10.1107/S0365110X62003473",
+				"or":  "S. Takagi, Acta Cryst., 15, No. 16: 1311 (1962).",
+				"tr":  "S. Takagi, Acta Cryst., 15, No. 16: 1311 (1962)."
+			}
+		]
+	}
+}

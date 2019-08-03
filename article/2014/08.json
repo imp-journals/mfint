@@ -1,0 +1,187 @@
+{
+	"year":   2014,
+	"volume": 36,
+	"issue":  8,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [999,1006],
+			"title": {
+				"ua": "Надлишковий квазічастинковий струм у джозефсонівських гетероструктурах надпровідник—допований напівпровідник—надпровідник MoRe—Si (W)—MoRe",
+				"en": "Excess Quasi-Particle Current in Josephson Superconductor—Doped Semiconductor—Superconductor Heterostructures MoRe—Si (W)—MoRe",
+				"ru": "Избыточный квазичастичный ток в джозефсоновских гетероструктурах сверхпроводник—допированный полупроводник—сверхпроводник MoRe—Si (W)—MoRe"
+			},
+			"autors": {
+				"ua": "В. Є. Шатернік, М. А. Бєлоголовський, А. П. Шаповалов, А. Ю. Суворов",
+				"en": "V. Eh. Shaternik, M. A. Belogolovskii, A. P. Shapovalov, and A. Yu. Suvorov",
+				"ru": "В. Е. Шатерник, М. А. Белоголовский, А. П. Шаповалов, А. Ю. Суворов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [1007,1014],
+			"title": {
+				"ua": "Транспортні властивості надпровідних мікромістків свинцю під дією спін-поляризованої струмової інжекції",
+				"en": "Transport Properties of Superconducting Pb-Microbridges under the Effect of Spin-Polarized Current Injection",
+				"ru": "Транспортные свойства сверхпроводящих микромостиков свинца под действием спин-поляризованной токовой инжекции"
+			},
+			"autors": {
+				"ua": "Е. М. Руденко, М. В. Дякін, І. В. Короташ, В. М. Реут",
+				"en": "Eh. M. Rudenko, M. V. Dyakin, I. V. Korotash, and V. N. Reut",
+				"ru": "Э. М. Руденко, М. В. Дякин, И. В. Короташ, В. Н. Реут"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [1015,1022],
+			"title": {
+				"ua": "Електропровідність графену з домішкою азоту",
+				"en": "Electrical Conduction of Graphene Doped with Nitrogen",
+				"ru": "Электропроводность графена с примесью азота"
+			},
+			"autors": {
+				"ua": "С. П. Репецький, О. В. Третяк, І. Г. Вишивана, В. А. Скотников, А. А. Яценюк",
+				"en": "S. P. Repetskyy, O. V. Tretyak, I. G. Vyshyvana, V. A. Skotnykov, and A. A. Yatsenyuk",
+				"ru": "С. П. Репецкий, А. В. Третяк, И. Г. Вышиваная, В. А. Скотников, А. А. Яценюк"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [1023,1033],
+			"title": {
+				"ua": "Спінові коливання у феромагнетній нанооболонці типу «нанорис»",
+				"en": "Spin Excitations in ‘Nanorice’-Type Ferromagnetic Nanoshell",
+				"ru": "Спиновые колебания в ферромагнитной нанооболочке типа «нанорис»"
+			},
+			"autors": {
+				"ua": "Ю. І. Горобець, В. В. Куліш",
+				"en": "Yu. I. Gorobets and V. V. Kulish",
+				"ru": "Ю. И. Горобец, В. В. Кулиш"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  2,
+			"pages":  [1035,1048],
+			"title": {
+				"ua": "Моделі деформаційних залежностей повної інтегральної інтенсивності динамічної дифракції в монокристалах для різних умов дифракції",
+				"en": "Models of Deformation Dependences of Total Integrated Intensity of Dynamical Diffraction in Single Crystals for Various Diffraction Conditions",
+				"ru": "Модели деформационных зависимостей полной интегральной интенсивности динамической дифракции в монокристаллах для различных условий дифракции"
+			},
+			"autors": {
+				"ua": "С. М. Бровчук, В. Б. Молодкін, А. І. Нізкова, І. І. Рудницька, Г. І. Гранкіна, В. В. Лізунов, С. В. Лізунова, Б. В. Шелудченко, О. С. Скакунова, С. В. Дмитрієв, І. М. Заболотний, А. А. Катасонов, Б. Ф. Журавльов, Р. В. Лехняк, Л. М. Скапа, Н. П. Ірха",
+				"en": "S. M. Brovchuk, V. B. Molodkin, A. I. Nizkova, I. I. Rudnytska, G. I. Grankina, V. V. Lizunov, S. V. Lizunova, B. V. Sheludchenko, E. S. Skakunova, S. V. Dmitriev, I. N. Zabolotnyi, A. A. Katasonov, B. F. Zhuravlev, R. V. Lekhnyak, L. N. Skapa, and N. P. Irha",
+				"ru": "С. М. Бровчук, В. Б. Молодкин, А. И. Низкова, И. И. Рудницкая, А. И. Гранкина, В. В. Лизунов, С. В. Лизунова, Б. В. Шелудченко, Е. С. Скакунова, С. В. Дмитриев, И. Н. Заболотный, А. А. Катасонов, Б. Ф. Журавлёв, Р. В. Лехняк, Л. Н. Скапа, Н. П. Ирха"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  2,
+			"pages":  [1049,1057],
+			"title": {
+				"ua": "Моделювання та діягностика деформацій у приповерхневих шарах монокристалів ґадоліній-ґалієвого ґранату, імплантованих йонами F$^{+}$",
+				"en": "Simulation and Diagnostics of Strains in the Subsurface Layers of Gadolinium—Gallium Garnet Single Crystals Implanted with F$^{+}$ Ions",
+				"ru": "Моделирование и диагностика деформаций в приповерхностных слоях монокристаллов гадолиний-галлиевого граната, имплантированных ионами F$^{+}$"
+			},
+			"autors": {
+				"ua": "В. О. Коцюбинський, В. М. Пилипів, Б. К. Остафійчук, І. П. Яремій, О. З. Гарпуль, О. С. Скакунова, В. Б. Молодкін, С. Й. Оліховський",
+				"en": "V. О. Kotsyubynskyy, V. M. Pylypiv, B. K. Ostafiychuk, I. P. Yaremiy, O. Z. Garpul’, E. S. Skakunova, V. B. Molodkin, and S. I. Olikhovskyy",
+				"ru": "В. О. Коцюбинский, В. М. Пылыпив, Б. К. Остафийчук, И. П. Яремий, О. З. Гарпуль, Е. С. Скакунова, В. Б. Молодкин, С. И. Олиховский"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [1059,1077],
+			"title": {
+				"ua": "Опис кінетики коміркового розпаду пересичених твердих розчинів для сплаву Pb—Sn",
+				"en": "Description of Kinetics of Cellular Decomposition of Supersaturated Solid Solutions for Pb—Sn Alloy",
+				"ru": "Описание кинетики ячеистого распада пересыщенных твёрдых растворов для сплава Pb—Sn"
+			},
+			"autors": {
+				"ua": "М. О. Іванов, А. Ю. Наумук, О. А. Шматко",
+				"en": "M. O. Ivanov, A. Yu. Naumuk, and O. A. Shmatko",
+				"ru": "М. А. Иванов, А. Ю. Наумук, О. А. Шматко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [1079,1089],
+			"title": {
+				"ua": "Дифузія азоту і фазово-структурні перетворення в титані",
+				"en": "Diffusion of Nitrogen and Phase—Structural Transformations in Titanium",
+				"ru": "Диффузия азота и фазово-структурные превращения в титане"
+			},
+			"autors": {
+				"ua": "О. Ткачук, Я. Матичак, І. Похрелюк, В. Федірко",
+				"en": "O. Tkachuk, Ya. Matychak, I. Pohrelyuk, and V. Fedirko",
+				"ru": "О. Ткачук, Я. Матычак, И. Похрелюк, В. Федирко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [1091,1099],
+			"title": {
+				"ua": "Дослідження мікроструктури матеріалу Cu—Al—Ni з пам’яттю форми, спеченого плазмово-іскровим методом",
+				"en": "Microstructure Investigation of the Spark Plasma Sintered Cu—Al—Ni Shape Memory Material",
+				"ru": "Исследование микроструктуры материала Cu—Al—Ni с памятью формы, спечённого плазменно-искровым методом"
+			},
+			"autors": {
+				"ua": "Г. Є. Монастирський, А. В. Котко, А. В. Гільчук, П. Ошан, В. І. Коломицев, Ю. М. Коваль",
+				"en": "G. E. Monastyrsky, A. V. Kotko, A. V. Gilchuk, P. Ochin, V. I. Kolomytsev, and Yu. M. Koval’",
+				"ru": "Г. Е. Монастырский, А. В. Котко, А. В. Гильчук, П. Ошан, В. И. Коломыцев, Ю. Н. Коваль"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [1101,1112],
+			"title": {
+				"ua": "Структура і властивості вакуумно-дугового TiN-покриття на поверхні стопу Д16",
+				"en": "Structure and Properties of Vacuum-Arc TiN Coating on the D16 Alloy Surface",
+				"ru": "Структура и свойства вакуумно-дугового TiN-покрытия на поверхности сплава Д16"
+			},
+			"autors": {
+				"ua": "М. О. Васильєв, В. Є. Панарін, І. М. Макеєва, С. М. Волошко",
+				"en": "M. O. Vasylyev, V. E. Panarin, I. M. Makeyeva, and S. M. Voloshko",
+				"ru": "М. А. Васильев, В. Е. Панарин, И. Н. Макеева, С. М. Волошко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [1113,1128],
+			"title": {
+				"ua": "Розмірна залежність механічних напружень у металічних конденсатах на кремнії",
+				"en": "Size Dependence of Mechanical Stresses in the Metal Condensates on Silicon",
+				"ru": "Размерная зависимость механических напряжений в металлических конденсатах на кремнии"
+			},
+			"autors": {
+				"ua": "Б. П. Коман, В. М. Юзевич",
+				"en": "B. P. Koman and V. M. Yuzevych",
+				"ru": "Б. П. Коман, В. Н. Юзевич"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1129,1143],
+			"title": {
+				"ua": "Гібридний модель аномальної температурної залежности модуля зсуву міді, викликаної інтенсивною пластичною деформацією",
+				"en": "The Hybrid Model of the Severe-Plastic-Deformation-Induced Anomalous Temperature Dependence of Shear Modulus for Copper",
+				"ru": "Гибридная модель аномальной температурной зависимости модуля сдвига меди, вызванной интенсивной пластической деформацией"
+			},
+			"autors": {
+				"ua": "Н. В. Токій, А. М. Пилипенко, В. В. Токій",
+				"en": "N. V. Tokiy, A. N. Pylypenko, and V. V. Tokiy",
+				"ru": "Н. В. Токий, А. Н. Пилипенко, В. В. Токий"
+			}
+		}
+	]
+}

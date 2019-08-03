@@ -1,0 +1,248 @@
+{
+	"_id":    "MFiNT.41.01.0101",
+	"year":   2019,
+	"volume": 41,
+	"issue":  1,
+	"pages":  [101,120],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["06.12.2017"],
+	"PACS":   "52.80.Wq, 61.43.Gt, 61.46.Df, 62.23.St, 81.07.Bc, 81.07.Wx, 81.40.Cd",
+	"title":   {
+		"ua": "Електроіскряне дисперґування металевих матеріялів. III. Вплив технологічних чинників на розміри, форму та структурний стан високодисперсних частинок",
+		"en": "Electrospark Dispersion of Metal Materials. III. Influence of Processing Factors on the Sizes, the Form, and a Structural State of Superfine Particles",
+		"ru": "Электроискровое диспергирование металлических материалов. III. Влияние технологических факторов на размеры, форму и структурное состояние высокодисперсных частиц"
+	},
+	"abstract": {
+		"ua": "Із застосуванням метод рентґеноструктурної аналізи, електронної й оптичної мікроскопій вивчено вплив технологічних чинників на розміри, форму та структурний стан високодисперсних частинок заліза та міді, одержаних електроіскряним дисперґуванням в етанолі. Встановлено, що електроерозійні порошки складаються із первинних високодисперсних частинок, які сформувалися при кристалізації розтоплених металевих крапель чи при конденсації металевої пари, а також із об’єднань первинних частинок за рахунок їх злипання (аґломерації) або стоплення (аґреґації). Кінцеві розміри аґломератів і аґреґатів залежать від концентрації частинок і швидкости їх седиментації та інших чинників. Показано, що середній розмір кристалітів і густина дислокацій у високодисперсних частинках залежать від тривалости процесу дисперґування.",
+		"en": "Influence of processing factors on sizes, the form, and the structure of the fine-grained iron and copper particles obtained by electrospark dispersion in ethanol is studied by methods of x-ray analysis, electron microscopy, and optical granulometry. As revealed, electrospark powders consist of initial superfine particles formed by crystallization of molten-metal drops or condensation of metal vapour as well as of joining of primary particles because of agglomeration or aggregation. The final sizes of agglomerates and aggregates depend on particles’ concentration in a work liquid, particle precipitation rate and other factors. As shown, average particle size of crystallites and dislocations’ density in superfine particles depend on duration of dispersion process.",
+		"ru": "С использованием методов рентгеноструктурного анализа, электронной и оптической микроскопий изучено влияние технологических факторов на размеры, форму и структурное состояние высокодисперсных частиц железа и меди, полученных электроискровым диспергированием в этаноле. Установлено, что электроэрозионные порошки состоят из первичных высокодисперсных частиц, сформировавшихся кристаллизацией расплавленных металлических капель или конденсацией металлического пара, а также из объединений первичных частиц за счёт их слипания (агломерации) или сплавления (агрегации). Конечный размер агломератов и агрегатов зависит от концентрации частиц в рабочей жидкости, скорости их осаждения и других факторов. Показано, что средний размер кристаллитов и плотность дислокаций в высокодисперсных частицах зависит от длительности процесса диспергирования."
+	},
+	"keywords": {
+		"ua": "електроіскряне дисперґування, високодисперсні частинки металів, електронна мікроскопія, оптична ґранулометрія, рентґеноструктурна аналіза",
+		"en": "electrospark dispersion, superfine particles of metals, electron microscopy, optical granulometry, x-ray analysis",
+		"ru": "электроискровое диспергирование, высокодисперсные частицы металлов, электронная микроскопия, оптическая гранулометрия, рентгеноструктурный анализ"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. О. Перекос", "en": "А. O. Perekos", "ru": "А. Е. Перекос"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. І. Устінов", "en": "A. I. Ustinov", "ru": "А. И. Устинов"},
+			"OID": [10]
+		},
+		{
+			"AID": {"ua": "С. М. Захарченко", "en": "S. M. Zakharchenkо", "ru": "С. Н. Захарченко"},
+			"OID": [43]
+		},
+		{
+			"AID": {"ua": "О. Ф. Бойцов", "en": "О. F. Bоytsоv", "ru": "О. Ф. Бойцов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. З. Войнаш", "en": "V. Z. Vоynаsh", "ru": "В. З. Войнаш"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. П. Залуцький", "en": "V. P. Zаlutskyi", "ru": "В. П. Залуцкий"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 38,
+		"list":  [
+			{
+				"doi": "10.1016/S0304-8853(02)00932-0",
+				"or":  "А. Е. Berkowitz, M. F. Hansen, and F. T. Parker, JMMM, 254–255: 1 (2003).",
+				"tr":  "A. E. Berkowitz, M. F. Hansen, and F. T. Parker, JMMM, 254–255: 1 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Р. Лазаренко, Н. И. Лазаренко, Способ получения порошков и устройство для его осуществления, Авторское свидетельство СССР № 70000 (Опубл. 1964 г.).",
+				"tr":  "B. R. Lazarenko and N. I. Lazarenko, Sposob Polucheniya Poroshkov i Ustroystvo dlya ego Osushchestvleniya [Method of Powders Production and Device for Its Implementation], Authors' Certificate 70000 SSSR (Publ. 1964) (in Russian)."
+			},
+			{
+				"doi": "10.1557/JMR.1987.0277",
+				"or":  "А. Е. Berkowitz and J. L. Walter, J. Mater. Res., 2, No. 2: 277 (1987).",
+				"tr":  "A. E. Berkowitz and J. L. Walter, J. Mater. Res., 2, No. 2: 277 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Щерба, Проблемы преобразовательной техники (1983), ч. 5, с. 59.",
+				"tr":  "A. A. Shcherba, Problemy Preobrazovatel'noy Tekhniki (1983), ch. 5, p. 59 (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0167-577X(00)00300-1",
+				"or":  "F. T. Parker, F. E. Spada, and А. Е. Berkowitz, Materials Lett., 48: 184 (2001).",
+				"tr":  "F. T. Parker, F. E. Spada, and A. E. Berkowitz, Materials Lett., 48: 184 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Щерба, В. В. Кокорин, А. Е. Перекос, Л. А. Олиховская, О. Ф. Бойцов, С. Н. Захарченко, Металлофиз. новейшие технол., 29, № 2: 201 (2007).",
+				"tr":  "A. A. Shcherba, V. V. Kokorin, A. O. Perekos, L. O. Olikhovska, O. F. Boytsov, and S. M. Zakharchenko, Metallofiz. Noveishie Tekhnol., 29, No. 2: 201 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Є. Монастирський, А. П. Шпак, Ю. М. Коваль, Р. Я. Мусієнко, В. І. Коломицев, А. А. Щерба, С. М. Захарченко, Т. Г. Сич, Металлофиз. новейшие технол., 25, № 6: 803 (2003).",
+				"tr":  "G. Ye. Monastyrs'ky, A. P. Shpak, Yu. M. Koval', R. Ya. Musienko, V. I. Kolomytsev, A. A. Shcherba, S. P. Zakharchenko, and T. G. Sych, Metallo-fiz. Noveishie Tekhnol., 25, No. 6: 803 (2003) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Р. Лазаренко, Н. И. Лазаренко, Электрическая эрозия металлов (Москва: Госэнергоиздат: 1944).",
+				"tr":  "B. R. Lazarenko and N. I. Lazarenko, Elektricheskaya Eroziya Metallov [Electrical Erosion of Metals] (Moscow: Gosenergoizdat: 1944) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. К. Намитоков, Физические основы электроискровой обработки материалов (Москва: Наука: 1966), с. 86.",
+				"tr":  "K. K. Namitokov, Fizicheskie Osnovy Elektroiskrovoy Obrabotki Materialov [Physical Foundation of Electrospark Material Processing] (Moscow: Nauka: 1966), p. 86 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Головейко, Физические основы электроискровой обработки материалов (Москва: Наука: 1966), с. 74.",
+				"tr":  "A. G. Goloveyko, Fizicheskie Osnovy Elektroiskrovoy Obrabotki Materialov [Physical Foundation of Electrospark Material Processing] (Moscow: Nauka: 1966), p. 74 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. К. Мицкевич, Физические основы электроискровой обработки матери-алов (Москва: Наука: 1966), с. 128.",
+				"tr":  "M. K. Mitskevich, Fizicheskie Osnovy Elektroiskrovoy Obrabotki Materialov [Physical Foundation of Electrospark Material Processing] (Moscow: Nauka: 1966), p. 128 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Марусина, В. Н. Филимоненко, Порошк. металлургия, № 6: 10 (1984).",
+				"tr":  "V. I. Marusina and V. N. Filimonenko, Poroshk. Metallurgiya, No. 6: 10 (1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. П. Фоминский, Т. В. Ровенская, Порошк. металлургия, № 10: 7 (1984).",
+				"tr":  "L. P. Fominskiy and T. V. Rovenskaya, Poroshk. Metallurgiya, No. 10: 7 (1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Казекин, Г. И. Рудник, Совершенствование процессов получения и обработки алюминия и производства кремния (Ленинград: Издательство ВАМИ: 1985).",
+				"tr":  "V. I. Kazekin and G. I. Rudnik, Sovershenstvovanie Protsessov Polucheniya i Obrabotki Alyuminiya i Proizvodstva Kremniya [Improving the Processes of Production and Processing of Aluminium and Silicon Production] (Leningrad: Izd. VAMI: 1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. А. Валиев, Ф. М. Гайсин, Е. С. Романов, Ю. И. Шакиров, Порошк. металлургия, № 6: 4 (1991).",
+				"tr":  "R. A. Valiev, F. M. Gaysin, E. S. Romanov, and Yu. I. Shakirov, Poroshk. Metallurgiya, No. 6: 4 (1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Дубовой, А. Е. Перекос, К. В. Чуистов, Металлофизика, 6, № 5: 129 (1984).",
+				"tr":  "A. G. Dubovoy, A. E. Perekos, and K. V. Chuistov, Metallofizika, 6, No. 5: 129 (1984) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0025-5416(82)90141-0",
+				"or":  "А. Е. Berkowitz and J. L. Walter, Mater. Sci. Eng., 55, No. 2: 275 (1982).",
+				"tr":  "A. E. Berkowitz and J. L. Walter, Mater. Sci. Eng., 55, No. 2: 275 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. В. Ефимова, В. П. Залуцкий, О. И. Носовский, А. Е. Перекос, В. В. Полотнюк, К. В. Чуистов, Металлофизика, 15, № 8: 39 (1993).",
+				"tr":  "T. V. Efimova, V. P. Zalutskiy, O. I. Nosovskiy, A. E. Perekos, V. V. Polotnyuk, and K. V. Chuistov, Metallofizika, 15, No. 8: 39 (1993) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "У. А. Асанов, А. Д. Цой, А. А. Щерба, В. И. Казекин, Электронно-эрозионная технология химических соединений и порошков металлов (Фрунзе: Илим: 1990).",
+				"tr":  "U. A. Asanov, A. D. Tsoy, A. A. Shcherba, and V. I. Kazekin, Elektronno-Erozionnaya Tekhnologiya Khimicheskikh Soedineniy i Poroshkov Metallov [Electron-Erosion Technology of Chemical Compounds and Metal Powders] (Frunze: Ilim: 1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. В. Чуистов, А. Е. Перекос, В. П. Залуцкий, Т. В. Ефимова, В. В. Котов, В. В. Полотнюк, Металлофиз. новейшие технол., 17, № 3: 14 (1995).",
+				"tr":  "K. V. Chuistov, A. E. Perekos, V. P. Zalutskiy, T. V. Efimova, V. V. Kotov, and V. V. Polotnyuk, Metallofiz. Noveishie Tekhnol., 17, No. 3: 14 (1995) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Е. Berkowitz and J. L. Walter, Symp. ‘Sci. Technol. Rapidly Quenched Alloy’ (December 1–3, 1986, Boston) (Pittsburgh: 1986), p. 179.",
+				"tr":  "A. E. Berkowitz and J. L. Walter, Symp. 'Sci. Technol. Rapidly Quenched Alloy' (December 1–3, 1986, Boston) (Pittsburgh: 1986), p. 179."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Карвовский, Г. И. Рудник, В. И. Марусина, Электрофизические способы получения дисперсных порошков (Киев: 1990) (Препринт Института проблем материаловедения НАН Украины, № 19, 1990).",
+				"tr":  "V. B. Karvovskiy, G. I. Rudnik, and V. I. Marusina, Elektrofizicheskie Sposoby Polucheniya Dispersnykh Poroshkov [Electrophysical Methods for Fabrication of Dispersed Powders] (Kyiv: 1990) (Prepr./ N.A.S. of Ukraine. Institute for Problems of Materials Sciences. No. 19, 1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Марусина, Г. А. Исхакова, Х. М. Рахименянов, Порошк. металлургия, № 10: 61 (1992).",
+				"tr":  "V. I. Marusina, G. A. Iskhakova, and Kh. M. Rakhimenyanov, Poroshk. Metallurgiya, No. 10: 61 (1992) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Марусина, Г. А. Исхакова, В. Н. Филимоненко, Порошк. металлургия, № 10: 75 (1992).",
+				"tr":  "V. I. Marusina, G. A. Iskhakova, and V. N. Filimonenko, Poroshk. Metallurgiya, No. 10: 75 (1992) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.1635973",
+				"or":  "J. Carrey, H. B. Radoutsky, and А. Е. Berkowitz, J. Appl .Phys., 95, No. 3: 823 (2004).",
+				"tr":  "J. Carrey, H. B. Radoutsky, and A. E. Berkowitz, J. Appl. Phys., 95, No. 3: 823 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. И. Рудник, В. Б. Карвовский, В. И. Казекин, Электроэрозионная обработка материалов, № 1: 21 (1985).",
+				"tr":  "G. I. Rudnik, V. B. Karvovskiy, and V. I. Kazekin, Elektroerozionnaya Obrabotka Materialov, No. 1: 21 (1985) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0025-5416(84)90048-X",
+				"or":  "J. L. Walter and А. Е. Berkowitz, Mater. Sci. Eng., 67: 169 (1984).",
+				"tr":  "J. L. Walter and A. E. Berkowitz, Mater. Sci. Eng., 67: 169 (1984)."
+			},
+			{
+				"doi": "10.1016/j.jpowsour.2005.02.025",
+				"or":  "G. Ya. Kolbasov, A. I. Ustinov, A. A. Shcherba, A. Ye. Perekos, M. O. Danilov, N. V. Vyunova, S. N. Zakharchenko, and G. Hossbah, J. Power Sources, 150: 276 (2005).",
+				"tr":  "G. Ya. Kolbasov, A. I. Ustinov, A. A. Shcherba, A. Ye. Perekos, M. O. Danilov, N. V. Vyunova, S. N. Zakharchenko, and G. Hossbah, J. Power Sources, 150: 276 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. П. Фоминский, А. С. Мюллер, М. В. Левчук, В. П. Тарабрина, Порошк. металлургия, № 10: 17 (1989).",
+				"tr":  "L. P. Fominskiy, A. S. Myuller, M. V. Levchuk, and V. P. Tarabrina, Poroshk. Metallurgiya, No. 10: 17 (1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. П. Фоминский, В. П. Тарабрина, М. В. Левчук, Порошк. металлургия, № 10: 66 (1989).",
+				"tr":  "L. P. Fominskiy, V. P. Tarabrina, and M. V. Levchuk, Poroshk. Metallurgiya, No. 10: 66 (1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. П. Фоминский, М. В. Левчук, В. П. Тарабрина, Порошк. металлургия, № 10: 1 (1989).",
+				"tr":  "L. P. Fominskiy, M. V. Levchuk, and V. P. Tarabrina, Poroshk. Metallurgiya, No. 10: 1 (1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Ким, Д. Н. Коротаев, А. В. Голик, Физика и химия обработки материалов, № 1: 78 (2001).",
+				"tr":  "V. A. Kim, D. N. Korotaev, and A. V. Golik, Fizika i Khimiya Obrabotki Materialov, No. 1: 78 (2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Н. Золотых, И. П. Коробова, Е. М. Стрыгин, Физические основы электроискровой обработки материалов (Москва: Наука: 1966), с. 63.",
+				"tr":  "N. N. Zolotykh, I. P. Korobova, and E. M. Strygin, Fizicheskie Osnovy Elektroiskrovoy Obrabotki Materialov [Physical Foundation of Electrospark Material Processing] (Moscow: Nauka: 1966), p. 63 (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.40.03.0339",
+				"or":  "С. Н. Захарченко, А. Е. Перекос, Н. В. Шидловская, А. И. Устинов, О. Ф. Бойцов, В. З. Войнаш, Металлофиз. новейшие технол., 40, № 3: 339 (2018).",
+				"tr":  "S. M. Zakharchenko, A. O. Perekos, N. A. Shidlovska, A. I. Ustinov, O. F. Boytsov, and V. Z. Voynash, Metallofiz. Noveishie Tekhnol., 40, No. 3: 339 (2018) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.40.11.1539",
+				"or":  "А. И. Устинов, А. Е. Перекос, С. Н. Захарченко, О. Ф. Бойцов, В. З. Войнаш, В. П. Залуцкий, Металлофиз. новейшие технол., 40, № 11: 1539 (2018).",
+				"tr":  "A. I. Ustinov, A. O. Perekos, S. M. Zakharchenko, O. F. Boytsov, V. Z. Voynash, and V. P. Zalutsky, Metallofiz. Noveishie Tekhnol., 40, No. 11: 1539 (2018) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0001-6160(53)90006-6",
+				"or":  "G. K. Williamson and W. H. Hall, Acta Metal., 1: 22 (1953).",
+				"tr":  "G. K. Williamson and W. H. Hall, Acta Metal., 1: 22 (1953)."
+			},
+			{
+				"doi": "10.1107/S0365110X66000628",
+				"or":  "N. C. Halder and C. N. J. Wagner, Acta Cryst., 20: 91 (1966).",
+				"tr":  "N. C. Halder and C. N. J. Wagner, Acta Cryst., 20: 91 (1966)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Ustinov, L. Olikhovska, N. Budarina, and F. Bernard, Diffraction Analysis of the Microstructure of Materials (Eds. E. J. Mittemeijer and P. Scardi) (Springer: 2003), р. 333.",
+				"tr":  "A. Ustinov, L. Olikhovska, N. Budarina, and F. Bernard, Diffraction Analysis of the Microstructure of Materials (Eds. E. J. Mittemeijer and P. Scardi) (Springer: 2003), p. 333."
+			}
+		]
+	}
+}

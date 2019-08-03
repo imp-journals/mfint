@@ -1,0 +1,149 @@
+{
+	"_id":    "MFiNT.41.01.0027",
+	"year":   2019,
+	"volume": 41,
+	"issue":  1,
+	"pages":  [27,37],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["27.06.2018","06.09.2018"],
+	"PACS":   "68.35.Ct, 68.35.Dv, 68.35.Fx, 68.55.A-, 68.55.J-, 68.55.Nq, 81.15.Pq",
+	"title":   {
+		"ua": "Формування шаруватої структури в плівках ніклю при електроосадженні імпульсним струмом",
+		"en": "Formation of Layered Structure in Films of Nickel at Electrodeposition by a Pulse Current",
+		"ru": "Формирование слоистой структуры в плёнках никеля при электроосаждении импульсным током"
+	},
+	"abstract": {
+		"ua": "У статті розглянуто формування шаруватої структури у плівках ніклю при електроосадженні імпульсним струмом. Показано, що нормальний ріст плівки блокується пасивною плівкою. Рентґеноструктурні дослідження плівок ніклю, які мають шарувату структуру, показали, що аксіяльна текстура, яка формується, має великі значення кристалографічних індексів. Даний факт підтверджує механізм Странскі–Крастанова і добре узгоджується із законом Браве щодо виродження площин, які мають великі швидкості росту.",
+		"en": "The formation of a layered structure in nickel films during electrodeposition with a pulsed current is considered. As shown, the normal film growth is blocked by a passive film. X-ray diffraction studies of nickel films having a layered structure show that the emerging axial texture has large values of crystallographic indices. This fact confirms the Stranski–Krastanov growth mode and is in a good agreement with the Bravais law on the degeneracy of planes having large growth rates.",
+		"ru": "В статье рассмотрено формирование слоистой структуры в плёнках никеля при электроосаждении импульсным током. Показано, что нормальный рост плёнки блокируется пассивной плёнкой. Рентгеноструктурные исследования плёнок никеля, имеющих слоистую структуру, показали, что формирующаяся аксиальная текстура имеет большие значения кристаллографических индексов. Данный факт подтверждает механизм Странского–Крастанова и хорошо согласуется с законом Браве относительно вырождения плоскостей, имеющих большие скорости роста."
+	},
+	"keywords": {
+		"ua": "пасивна плівка, шарувата структура, аксіяльна текстура, механізм Странскі–Крастанова",
+		"en": "passive film, layered structure, axial texture, Stranski–Krastanov mode",
+		"ru": "пассивная плёнка, слоистая структура, аксиальная текстура, механизм Странского–Крастанова"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Е. П. Штапенко", "en": "E. P. Shtapenko", "ru": "Э. Ф. Штапенко"},
+			"OID": [226]
+		},
+		{
+			"AID": {"ua": "В. О. Заблудовський", "en": "V. O. Zabludovsky", "ru": "В. А. Заблудовский"},
+			"OID": [226]
+		},
+		{
+			"AID": {"ua": "В. В. Титаренко", "en": "V. V. Tytarenko", "ru": "В. В. Титаренко"},
+			"OID": [226]
+		},
+		{
+			"AID": {"ua": "В. С. Краєва", "en": "V. S. Kraeva", "ru": "В. С. Краева"},
+			"OID": [226]
+		},
+		{
+			"AID": {"ua": "А. М. Афанасов", "en": "А. М. Afanasov", "ru": "А. М. Афанасов"},
+			"OID": [226]
+		}
+	],
+	"references": {
+		"count": 19,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Н. А. Костин, В. С. Кублановский, В. А. Заблудовский, Импульсный электролиз (Киев: Наукова думка: 1989).",
+				"tr":  "N. A. Kostin, V. S. Kublanovskiy, and V. A. Zabludovskiy, Impulsnyy Elektroliz (Kiev: Naukova Dumka: 1989) (in Russian)."
+			},
+			{
+				"doi": "10.1080/00202967.1997.11871173",
+				"or":  "V. A. Zabludovsky and E. F. Shtapenko, Transactions of the Institute of Metal Finishing, 75, No. 5: 203 (1997).",
+				"tr":  "V. A. Zabludovsky and E. F. Shtapenko, Transactions of the Institute of Metal Finishing, 75, No. 5: 203 (1997)."
+			},
+			{
+				"doi": "10.1080/00202967.1996.11871107",
+				"or":  "V. A. Zabludovsky, N. V. Fedotova, and E. F. Shtapenko, Transactions of the Institute of Metal Finishing, 74, No. 3: 106 (1996).",
+				"tr":  "V. A. Zabludovsky, N. V. Fedotova, and E. F. Shtapenko, Transactions of the Institute of Metal Finishing, 74, No. 3: 106 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Оура, В. Г. Лифшиц, А. А. Саранин, А. В. Зотов, М. Катаяма, Введение в физику поверхности (Москва: Наука: 2006).",
+				"tr":  "K. Oura, V. G. Lifshits, A. A. Saranin, A. V. Zotov, and M. Katayama, Vvedenie v Fiziku Poverkhnosti (Moscow: Nauka: 2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. М. Бородкина, Э. Н. Спектор, Рентгенографический анализ текстуры металлов и сплавов (Москва: Металлургия: 1981).",
+				"tr":  "M. M. Borodkina and E. N. Spektor, Rentgenograficheskiy Analiz Tekstury Metallov i Splavov (Moscow: Metallurgiya: 1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. Шкержик, Рецептурный справочник для электротехника (Москва: Энергоатомиздат: 1989) (пер. с чешск.).",
+				"tr":  "J. Škeřik, Retsepturnyy Spravochnik dlya Elektrotekhnika (Moscow: Energoatomizdat: 1989) (Russian translation)."
+			},
+			{
+				"doi": "10.1080/00202967.2000.11871320",
+				"or":  "V. A. Zabludovsky, E. Ph. Shtapenko, V. S. Gribok, and R. Ph. Ganitsh, Transactions of the Institute of Metal Finishing, 78, No. 3: 110 (2000).",
+				"tr":  "V. A. Zabludovsky, E. Ph. Shtapenko, V. S. Gribok, and R. Ph. Ganitsh, Transactions of the Institute of Metal Finishing, 78, No. 3: 110 (2000)."
+			},
+			{
+				"doi": "10.1002/9783527610198",
+				"or":  "G. Staikov, Electrocrystallization in Nanotechnology (Weinheim: Wiley–VCH: 2007).",
+				"tr":  "G. Staikov, Electrocrystallization in Nanotechnology (Weinheim: Wiley–VCH: 2007)."
+			},
+			{
+				"doi": "10.1007/b114546",
+				"or":  "J. O’M. Bockris and A. K. N. Reddy, Modern Electrochemistry (New York: Kluwer Academic Publishers: 2002).",
+				"tr":  "J. O'M. Bockris and A. K. N. Reddy, Modern Electrochemistry (New York: Kluwer Academic Publishers: 2002)."
+			},
+			{
+				"doi": "10.1080/00202967.1996.11871107",
+				"or":  "V. A. Zabludovsky, N. V. Fedotova, and E. F. Shtapenko, Transactions of the Institute of Metal Finishing, 74, No. 3: 106 (1996).",
+				"tr":  "V. A. Zabludovsky, N. V. Fedotava, and E. F. Shtapenko, Transactions of the Institute of Metal Finishing, 74, No. 3: 106 (1996)."
+			},
+			{
+				"doi": "10.15330/pcss.16.3.520-523",
+				"or":  "Е. П. Штапенко, В. О. Заблудовський, В. В. Титаренко, Фізика і хімія твердого тіла, 16, № 3: 520 (2015).",
+				"tr":  "E. P. Shtapenko, V. O. Zabludovskyi, and V. V. Tytarenko, Fizyka i Khimiya Tverdoho Tila, 16, No. 3: 520 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. П. Штапенко, В. О. Заблудовський, Є. О. Воронков, Фізика і хімія твердого тіла, 10, № 2: 473 (2009).",
+				"tr":  "E. P. Shtapenko, V. O. Zabludovskyi, and Ye. O. Voronkov, Fizyka i Khimiya Tverdoho Tila, 10, No. 2: 473 (2009) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. Ф. Штапенко, В. А. Заблудовский, E. O. Воронков, Физика и химия обработки материалов, № 1: 98 (2010).",
+				"tr":  "E. F. Shtapenko, V. A. Zabludovskiy, and E. O. Voronkov, Fizika i Khimiya Obrabotki Materialov, No. 1: 98 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. Ф. Штапенко, В. А. Заблудовский, E. O. Воронков, Поверхность. Рентгеновские, синхротронные и нейтронные исследования, № 12: 95 (2010).",
+				"tr":  "E. F. Shtapenko, V. A. Zabludovskiy, and E. O. Voronkov, Poverkhnost. Rentgenovskie, Sinkhrotronnye i Neitronnye Issledovaniya, No. 12: 95 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. О. Заблудовський, В. В. Дудкіна, Е. П. Штапенко, Наука та прогрес транспорту. Вісник Дніпропетровського національного університету імені академіка В. Лазаряна, 5, № 47: 70 (2013).",
+				"tr":  "V. O. Zabludovskyi, V. V. Dudkina, and E. P. Shtapenko, Nauka ta Progres Transportu. Visnyk Dnipropetrovs'kogo Natsional'nogo Universytetu Imeni Akademika V. Lazaryana, 5, No. 47: 70 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. В. Пичугина, В. А. Заблудовский, Э. Ф. Штапенко, В. С. Грибок, Физика и химия обработки материалов, № 3: 81 (1999).",
+				"tr":  "N. V. Pichugina, V. A. Zabludovskiy, E. F. Shtapenko, and V. S. Gribok, Fizika i Khimiya Obrabotki Materialov, No. 3: 81 (1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. Ф. Штапенко, В. А. Заблудовский, Металлофиз. новейшие технол., 32, № 5: 611 (2010).",
+				"tr":  "Eh. F. Shtapenko and V. O. Zabludovs'ky, Metallofiz. Noveishie Tekhnol., 32, No. 5: 611 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. В. Гришенкова, В. А. Исаев, Расплавы, № 5: 65 (2009).",
+				"tr":  "O. V. Grishenkova and V. A. Isaev, Rasplavy, No. 5: 65 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. А. Точицкий, Л. Ф. Ильюшенко, А. В. Болтушкин, Вес. АН БССР. Сер. физ.-мат. наук, № 5: 52 (1987).",
+				"tr":  "T. A. Tochitskiy, L. F. Ilyushenko, and A. V. Boltushkin, Ves. AN BSSR. Ser. Fiz.-Mat. Nauk, No. 5: 52 (1987) (in Russian)."
+			}
+		]
+	}
+}

@@ -1,0 +1,194 @@
+{
+	"_id":    "MFiNT.40.10.1359",
+	"year":   2018,
+	"volume": 40,
+	"issue":  10,
+	"pages":  [1359,1373],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["04.04.2018"],
+	"PACS":   "68.35.-p, 68.37.Hk, 68.37.Ps, 68.55.-a, 68.60.Dv, 81.20.Vj, 81.40.Ef",
+	"title":   {
+		"ua": "Кінетика дисперґування при відпалі у вакуумі молібденових наноплівок, нанесених на оксидні матеріяли",
+		"en": "Kinetics of Dispersion of the Molybdenum Nanofilms Deposited on Oxide Materials During Annealing in Vacuum",
+		"ru": "Кинетика диспергирования при отжиге в вакууме молибденовых наноплёнок, нанесённых на оксидные материалы"
+	},
+	"abstract": {
+		"ua": "Досліджено кінетику дисперґування молібденових наноплівок завтовшки у 100 нм, яких було нанесено на підкладинки з лейкосапфіру, алюмооксидної кераміки, кварцового скла та відпалено у вакуумі за температур 1200–1600°C протягом різного часу (від 2 до 20 хв.) при кожному обраному значенні температури. Встановлено, що з молібденових плівок, нанесених на оксидні матеріяли, найбільш стійкою при відпалі є плівка на алюмооксидній кераміці, а найменш стійкою — пліавка на кварцовому склі, яка починає інтенсивно дисперґувати та взаємодіяти з поверхнею підкладинки вже за 1300°C. За результатами досліджень побудовано кінетичні криві дисперґування плівок в результаті відпалу.",
+		"en": "The dispersion kinetics of molybdenum nanofilms of 100 nm thickness deposited on the leucosapphire, alumina ceramics or quartz glass substrates and annealed in vacuum at 1200–1600°C for different exposure times at each temperature in the interval of 2–20 min. As determined, the molybdenum film deposited on alumina ceramic is the most stable during annealing, and the least stable one is a film on quartz glass, which begins to intensively disperse and interact with the substrate surface above 1300°C. Based on the results of the investigations, the kinetic curves of films’ dispersion because of annealing are plotted.",
+		"ru": "Исследована кинетика диспергирования молибденовых наноплёнок толщиной 100 нм, нанесённых на подложки из лейкосапфира, алюмооксидной керамики, кварцевого стекла и отожжённых в вакууме при температурах 1200–1600°C в течение различного времени (от 2 до 20 мин) при каждом выбранном значении температуры. Óстановлено, что из молибденовых плёнок, нанесённых на оксидные материалы, наиболее стойкой при отжиге является плёнка на алюмооксидной керамике, а наименее стойкой — плёнка на кварцевом стекле, которая начинает интенсивно диспергироваться и взаимодействовать с поверхностью подложки уже при 1300°C. По результатам исследований построены кинетические кривые диспергирования плёнок в результате отжига."
+	},
+	"keywords": {
+		"ua": "кінетика дисперґування, молібденова наноплівка, лейкосапфір, алюмооксидна кераміка, кварцове скло",
+		"en": "kinetics of dispersion, molybdenum nanofilms, leucosapphire, alumina ceramics, silicon glass",
+		"ru": "кинетика диспергирования, молибденовая наноплёнка, лейкосапфир, алюмооксидная керамика, кварцевое стекло"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. В. Найдіч", "en": "Yu. V. Naidich", "ru": "Ю. В. Найдич"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "І. І. Габ", "en": "І. І. Gab", "ru": "И. И. Габ"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "Т. В. Стецюк", "en": "Т. V. Stetsyuk", "ru": "Т. В. Стецюк"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "Б. Д. Костюк", "en": "B. D. Kоstyuk", "ru": "Б. Д. Костюк"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "Д. Б. Шахнін", "en": "D. B. Shakhnin", "ru": "Д. Б. Шахнин"},
+			"OID": [0]
+		}
+	],
+	"references": {
+		"count": 28,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "G. Elssner, W. Diem, and J. S. Wallace, 17th Univ. Conf. Ceram. ‘Surfaces and Interfaces Ceram. and Ceram.—Met. Syst.’ (Jul. 28–Aug. 1, 1980, Berkeley, CA) (New York–London: 1981).",
+				"tr":  "G. Elssner, W. Diem, and J. S. Wallace, 17 Univ. Conf. Ceram. 'Surfaces and Interfaces Ceram. and Ceram.–Met. Syst.' (Jul. 28–Aug. 1, 1980, Berkeley, CA) (New York–London: 1981)."
+			},
+			{
+				"doi": "10.1007/BF00368906",
+				"or":  "W. X. Pan, Т. Okamoto, and X. S. Ning, J. Mater. Sci., 29, Iss. 6: 1436 (1994).",
+				"tr":  "W. X. Pan, T. Okamoto, and X. S. Ning, J. Mater. Sci., 29, Iss. 6: 1436 (1994)."
+			},
+			{
+				"doi": "10.1016/0956-716X(94)90524-X",
+				"or":  "B. J. Dalgleish, A. P. Tomsia, K. Nakashima, M. R. Locatelli, and A. M. Glaeser, Scripta Metall. et Mater., 31, Iss. 8: 1043 (1994).",
+				"tr":  "B. J. Dalgleish, A. P. Tomsia, K. Nakashima, M. R. Locatelli, and A. M. Glaeser, Scripta Metall. et Mater., 31, Iss. 8: 1043 (1994)."
+			},
+			{
+				"doi": "10.1111/j.1151-2916.1999.tb02085.x",
+				"or":  "M. Z.-C. Hu, R. D. Hunt, E. A. Payzant, and C. R. Hubbard, J. Am. Ceram. Soc., 82, Iss. 9: 2313 (1999).",
+				"tr":  "M. Z.-C. Hu, R. D. Hunt, E. A. Payzant, and C. R. Hubbard., J. Am. Ceram. Soc., 82, Iss. 9: 2313 (1999)."
+			},
+			{
+				"doi": "10.1016/S0955-2219(01)00171-6",
+				"or":  "R. R. Piticescu, С. Monty, D. Taloi, A. Motoc, and S. Axinted, J. Eur. Ceram. Soc., 21, Iss. 10–11: 2057 (2001).",
+				"tr":  "R. R. Piticescu, C. Monty, D. Taloi, A. Motoc, and S. Axinted, J. Eur. Ceram. Soc., 21, Iss. 10–11: 2057 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Найдич, Контактные явления в металлических расплавах (Киев: Наукова думка: 1972).",
+				"tr":  "Yu. V. Naidich, Kontaktnye Yavleniya v Metallicheskikh Rasplavakh (Kiev: Naukova Dumka: 1972) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0169-4332(96)00278-4",
+				"or":  "H. J. Kang, C. H. Kim, N. S. Park, and M. W. Kim, J. App. Surf. Sci., 100–101: 160 (1996).",
+				"tr":  "H. J. Kang, C. H. Kim, N. S. Park, and M. W. Kim, J. App. Surf. Sci., 100–101: 160 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. В. Коганицкая, Электроника, № 4: 86 (1959).",
+				"tr":  "E. V. Koganitskaya, Elektronika, No. 4: 86 (1959) (in Russian)."
+			},
+			{
+				"doi": "10.1111/j.1151-2916.1970.tb12016.x",
+				"or":  "F. L. Harding and D. R. Rossington, J. Am. Ceram. Soc., 53, Iss. 2: 87 (1970).",
+				"tr":  "F. L. Harding and D. R. Rossington, J. Am. Ceram. Soc., 53, Iss. 2: 87 (1970)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Найдич, И. И. Габ, В. С. Журавлев, В. Ф. Дуброва, А. Н. Гордыня, Сварочное производство, № 2: 12 (1989).",
+				"tr":  "Yu. V. Naidich, I. I. Gab, V. S. Zhuravlev, V. F. Dubrova, and A. N. Gordynya, Svarochnoe Proizvodstvo, No. 2: 12 (1989) (in Russian)."
+			},
+			{
+				"doi": "10.1111/j.1151-2916.1971.tb12307.x",
+				"or":  "S. K. Rhee, J. Am. Ceram. Soc., 54, Iss. 7: 332 (1971).",
+				"tr":  "S. K. Rhee, J. Am. Ceram. Soc., 54, Iss. 7: 332 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Метелкин, М. А. Павлова, Н. В. Поздеева, Сварка керамики с металлами (Москва: Металлургия: 1977).",
+				"tr":  "I. I. Metelkin, M. A. Pavlova, and N. V. Pozdeeva, Svarka Keramiki s Metallami (Moscow: Metallurgiya: 1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Мельников, С. В. Еремеев, С. Е. Кулькова, Журнал технической физики, 81, № 10: 114 (2011).",
+				"tr":  "V. V. Melnikov, S. V. Yeremeev, and S. Ye. Kulkova, Zhurnal Tekhnicheskoy Fiziki, 81, No. 10: 114 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Q. Tong, L. Cheng, and L. Zhang, J. Aviation Mater., 24, No. 1: 53 (2004)",
+				"tr":  "Q. Tong, L. Cheng, and L. Zhang, J. Aviation Mater., 24, No. 1: 53 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Naka, T. Saito, and I. Okamoto, Transaction of JWRI, 17, Iss. 2: 67 (1988).",
+				"tr":  "M. Naka, T. Saito, and I. Okamoto, Transaction of JWRI, 17, Iss. 2: 67 (1988)."
+			},
+			{
+				"doi": "10.1007/BF00357335",
+				"or":  "M. L. Shalz, B. J. Dalgleish, A. P. Tomsia, R. M. Cannon, and A. M. Glaeser, J. Mater. Sci., 29, Iss. 14: 3678 (1994).",
+				"tr":  "M. L. Shalz, B. J. Dalgleish, A. P. Tomsia, R. M. Cannon, and A. M. Glaeser, J. Mater. Sci., 29, Iss. 14: 3678 (1994)."
+			},
+			{
+				"doi": "10.1023/A:1012565600601",
+				"or":  "R. A. Marks, J. D. Sugar, and A. M. Glaeser, J. Mater. Sci., 36, Iss. 23: 5609 (2001).",
+				"tr":  "R. A. Marks, J. D. Sugar, and A. M. Glaeser, J. Mater. Sci., 36, Iss. 23: 5609 (2001)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(00)00229-9",
+				"or":  "R. A. Marks, D. R. Chapman, D. T. Danielson, and A. M. Glaeser, Acta Mater., 48, Iss. 18–19: 4425 (2000).",
+				"tr":  "R. A. Marks, D. R. Chapman, D. T. Danielson, and A. M. Glaeser, Acta Mater., 48, Iss. 18–19: 4425 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Габ, В. С. Журавлев, Д. И. Куркова, Т. В. Стецюк, Ю. В. Найдич, Порошковая металлургия, № 7/8: 69 (1997).",
+				"tr":  "I. I. Gab, V. S. Zhuravlev, D. I. Kurkova, T. V. Stetsyuk, and Yu. V. Naidich, Poroshkovaya Metallurgiya, Nos. 7/8: 69 (1997) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. С. Каракозов, И. С. Котелкин, Г. Н. Матвеев, А. P. Меркулов, M. X. Шоршоров, Физика и химия обработки материалов, № 3: 123 (1968).",
+				"tr":  "E. S. Karakozov, I. S. Kotelkin, G. N. Matveev, A. R. Merkulov, and M. Kh. Shorshorov, Fizika i Khimiya Obrabotki Materialov, No. 3: 123 (1968) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Батыгин, И. И. Метелкин, А. М. Решетников, Вакуумноплотная керамика и ее спаи с металлами (Москва: Энергия: 1982).",
+				"tr":  "V. N. Batygin, I. I. Metelkin, and A. M. Reshetnikov, Vakuumnoplotnaya Keramika i Ee Spai s Metallami (Moscow: Energiya: 1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Хряпин, Справочник паяльщика (Москва: Машиностроение: 1981).",
+				"tr":  "V. E. Khryapin, Spravochnik Payalshchika (Moscow: Mashinostroenie: 1981) (in Russian)."
+			},
+			{
+				"doi": "10.18287/0134-2452-2013-37-2-220-225",
+				"or":  "А. В. Волков, О. Ю. Моисеев, С. Д. Полетаев, Компьютерная оптика, 37, № 2: 220 (2013).",
+				"tr":  "A. V. Volkov, O. Yu. Moiseev, and S. D. Poletaev, Kompyuternaya Optika, 37, No. 2: 220 (2013) (in Russian)."
+			},
+			{
+				"doi": "10.1155/2014/531401",
+				"or":  "S.-F. Wang, H.-Ch. Yang, Ch.-F. Liu, and H.-Yu. Y. Bor, Adv. Mater. Sci. Eng., 2014, Article ID 531401.",
+				"tr":  "S.-F. Wang, H.-Ch. Yang, Ch.-F. Liu, and H.-Yu. Y. Bor, Adv. Mater. Sci. Eng., 2014, Article ID 531401."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Рогов, К. Ю. Вуколов, Журнал технической физики, 76, № 4: 109 (2006).",
+				"tr":  "A. V. Rogov and K. Yu. Vukolov, Zhurnal Tekhnicheskoy Fiziki, 76, No. 4: 109 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Метфессель, Тонкие плёнки, их изготовление и измерение (Москва–Ленинград: Госэнергоиздат: 1963) (пер. з нім.).",
+				"tr":  "S. Methfessel, Tonkie Plyenki, Ikh Izgotovlenie i Izmerenie [Dünne Schichten (Ihre Herstellung und Messung)] (Moscow–Leningrad: Gosenergoizdat: 1963) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Физика тонких плёнок: Сборник (Ред. Г. Хаас, Р. Э. Тун) (Москва: Мир: 1968) (пер. з англ.).",
+				"tr":  "G. Haas and R. E. Thun, Fizika Tonkikh Plyonok [Physics of Thin Films] (Moscow: Mir: 1968) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Найдич, И. И. Габ, Б. Д. Костюк, Т. В. Стецюк, Д. И. Куркова, С. В. Дукаров, Доповіді Національної академії наук України, № 5: 97 (2007).",
+				"tr":  "Yu. V. Naidich, I. I. Gab, B. D. Kostyuk, T. V. Stetsyuk, D. I. Kurkova, and S. V. Dukarov, Dopov. Nac. Akad. Nauk Ukr., No. 5: 97 (2007) (in Russian)."
+			}
+		]
+	}
+}

@@ -1,0 +1,169 @@
+{
+	"_id":    "MFiNT.40.10.1375",
+	"year":   2018,
+	"volume": 40,
+	"issue":  10,
+	"pages":  [1375,1385],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["23.03.2018"],
+	"PACS":   "61.05.cp, 61.43.Gt, 62.20.de, 62.20.Qp, 62.23.Pq, 81.20.Ev, 81.20.Wk",
+	"title":   {
+		"ua": "Про поліпшені механічні властивості нанокомпозитів Fe–Cu та Y–Cu, одержаних механічним леґуванням",
+		"en": "On the Advanced Mechanical Properties of Fe–Cu and Y–Cu Nanocomposites Obtained by Mechanical Alloying",
+		"ru": "Об улучшенных механических свойствах нанокомпозитов Fe–Cu и Y–Cu, полученных механическим легированием"
+	},
+	"abstract": {
+		"ua": "У роботі нанокомпозити Fe–Cu та Y–Cu було синтезовано шляхом механічного леґування порошкової суміші елементарних частинок заліза, міді та дробленого ітрію у високоенергетичному планетарному кульовому млині в атмосфері арґону. Фазові перетворення в одержаних композиційних матеріялах вивчали методами порошкової рентґенівської дифрактометрії. Встановлено, що під час розмелювання суміші порошків Fe та Cu в ній утворюється метастабільниé пересичений твердий розчин $\\alpha$-(Fe, Cu), тоді як фазові перетворення в еквіатомовій суміші Y–Cu під час механохемічної активації відбуваються за реакцією Y + Cu → YCu + YCu$_{2}$. Одержані матеріяли демонструють поліпшені механічні характеристики. Було виміряно відповідні механічні характеристики. Твердість обох нанокомпозитів FeCu та YCu є вищою, ніж у відповідних кристалічних стопів внаслідок зменшення розмірів зерен під час розмелювання. Крім того, синтезовані нанокомпозити характеризуються порівняно низькими значеннями модуля Юнґа.",
+		"en": "In this study, the Fe–Cu and Y–Cu nanocomposites are synthesized by mechanical alloying of the elemental powder mixture of the iron, copper and crushed yttrium particles in a high-energy planetary ball mill inside the argon atmosphere. Phase transformations in obtained composite materials are studied by X-ray powder-diffraction methods. The metastable supersaturated $\\alpha$-(Fe, Cu) solid solution is formed in the Fe–Cu nanocomposites during milling process, while the phase transformation during milling of the equiatomic Y–Cu mixture follows the reaction: Y + Cu → YCu + YCu$_{2}$. All obtained materials demonstrate improved mechanical properties. A set of measurements of the mechanical characteristics is carried out. The hardness measured for both FeCu and YCu nanocomposites is higher than that for conventional bulk alloys due to the grains’ refinement during milling process. Besides, the synthesized nanocomposites are characterized by relatively low values of the Young’s modulus.",
+		"ru": "В работе нанокомпозиты Fe–Cu и Y–Cu были синтезированы путём механического легирования порошковой смеси элементарных частиц железа, меди и измельчённого иттрия в высокоэнергетической планетарной шаровой мельнице в атмосфере аргона. Фазовые превращения в полученных композиционных материалах были изучены методами порошковой рентгеновской дифрактометрии. Метастабильный пересыщенный твёрдый раствор $\\alpha$-(Fe, Cu) образуется в процессе размола в нанокомпозитах Fe–Cu, а при измельчении эквиатомной смеси Y–Cu происходит следующее фазовое превращение: Y + Cu → YCu + YCu$_{2}$. Все полученные материалы имеют улучшенные механические свойства. Были измерены соответствующие механические характеристики. Твёрдость обоих нанокомпозитов FeCu и YCu выше, чем у обычных объёмных сплавов, из-за уменьшения размеров зёрен в процессе измельчения. Кроме того, синтезированные нанокомпозиты характеризуются относительно низкими значениями модуля Юнга."
+	},
+	"keywords": {
+		"ua": "композиційний матеріял, порошкова металурґія, структура кристалів, твердість, рентґенівська диф̂рактометрія",
+		"en": "composite material, powder metallurgy, crystal structure, hardness, X-ray diffraction",
+		"ru": "композиционный материал, порошковая металлургия, кристаллическая структура, твёрдость, рентгеновская дифрактометрия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. Дашевський", "en": "M. Dashevskyi", "ru": "М. Дашевский"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "Н. Белявіна", "en": "N. Belyavina", "ru": "Н. Белявина"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "О. Наконечна", "en": "O. Nakonechna", "ru": "О. Наконечна"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "М. Мельниченко", "en": "M. Melnichenko", "ru": "Н. Мельниченко"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "С. Рево", "en": "S. Revo", "ru": "С. Рево"},
+			"OID": [201]
+		}
+	],
+	"references": {
+		"count": 23,
+		"list":  [
+			{
+				"doi": "10.1016/j.pmatsci.2012.10.001",
+				"or":  "C. Suryanarayana and N. Al-Aqeeli, Progr. Mater. Sci., 58, Iss. 4: 383 (2013).",
+				"tr":  "C. Suryanarayana and N. Al-Aqeeli, Progr. Mater. Sci., 58, Iss. 4: 383 (2013)."
+			},
+			{
+				"doi": "10.1016/S0079-6425(99)00010-9",
+				"or":  "C. Suryanarayana, Progr. Mater. Sci., 46, Iss. 1–2: 1 (2001).",
+				"tr":  "C. Suryanarayana, Progr. Mater. Sci., 46, Iss. 1–2: 1 (2001)."
+			},
+			{
+				"doi": "10.1016/j.pmatsci.2004.07.001",
+				"or":  "E. Ma, Prog. Mater. Sci., 50, Iss. 4: 413 (2005).",
+				"tr":  "E. Ma, Prog. Mater. Sci., 50, Iss. 4: 413 (2005)."
+			},
+			{
+				"doi": "10.2320/matertrans1989.36.96",
+				"or":  "P. H. Shingu and K. N. Ishihara, Mater. Trans., 36, Iss. 2: 96 (1995).",
+				"tr":  "P. H. Shingu and K. N. Ishihara, Mater. Trans., 36, Iss. 2: 96 (1995)."
+			},
+			{
+				"doi": "10.1063/1.97206",
+				"or":  "R. B. Schwarz and C. C. Koch, Appl. Phys. Lett., 49, Iss. 3: 146 (1986).",
+				"tr":  "R. B. Schwarz and C. C. Koch, Appl. Phys. Lett., 49, Iss. 3: 146 (1986)."
+			},
+			{
+				"doi": "10.1063/1.102394",
+				"or":  "J. Eckert, L. Schultz, and K. Urban, Appl. Phys. Lett., 55, Iss. 2: 117 (1989).",
+				"tr":  "J. Eckert, L. Schultz, and K. Urban, Appl. Phys. Lett., 55, Iss. 2: 117 (1989)."
+			},
+			{
+				"doi": "10.1063/1.342541",
+				"or":  "E. Hellstern, H. I. Fecht, Y. Fu, and W. L. Johnson, J. Appl. Physics, 65: 305 (1989).",
+				"tr":  "E. Hellstern, H. I. Fecht, Y. Fu, and W. L. Johnson, J. Appl. Physics, 65: 305 (1989)."
+			},
+			{
+				"doi": "10.1007/s10853-010-4848-y",
+				"or":  "V. L. Tagarielli, N. A. Fleck, A. Colella, and P. Matteazzi, J. Mater. Sci., 46, Iss. 2: 385 (2011).",
+				"tr":  "V. L. Tagarielli, N. A. Fleck, A. Colella, and P. Matteazzi, J. Mater. Sci., 46, Iss. 2: 385 (2011)."
+			},
+			{
+				"doi": "10.1016/j.apt.2016.03.019",
+				"or":  "O. Boshko, O. Nakonechna, M. Dashevskyi, K. Ivanenko, N. Belyavina, and S. Revo, Adv. Powder Technology, 27, Iss. 4: 1101 (2016).",
+				"tr":  "O. Boshko, O. Nakonechna, M. Dashevskyi, K. Ivanenko, N. Belyavina, and S. Revo, Adv. Powder Technology, 27, Iss. 4: 1101 (2016)."
+			},
+			{
+				"doi": "10.1038/nmat958",
+				"or":  "K. Gschneidner Jr., A. Russell, A. Pecharsky, J. Morris, Z. Zhang, T. Lograsso, D. Hsu, C. H. C. Lo, Y. Ye, A. Slager, and D. Kesse, Nature Materials, 2, No. 9: 587 (2003).",
+				"tr":  "K. Gschneidner Jr., A. Russell, A. Pecharsky, J. Morris, Z. Zhang, T. Lograsso, D. Hsu, C. H. C. Lo, Y. Ye, A. Slager, and D. Kesse, Nature Materials, 2, No. 9: 587 (2003)."
+			},
+			{
+				"doi": "10.1016/j.intermet.2004.09.009",
+				"or":  "A. M. Russell, Z. Zhang, K. A. Gschneidner Jr., T. A. Lograsso, A. O. Pecharsky, A. J. Slager, and D. C. Kesse, Intermetallics, 13, Iss. 6: 565 (2005).",
+				"tr":  "A. M. Russell, Z. Zhang, K. A. Gschneidner Jr., T. A. Lograsso, A. O. Pecharsky, A. J. Slager, and D. C. Kesse, Intermetallics, 13, Iss. 6: 565 (2005)."
+			},
+			{
+				"doi": "10.15407/mfint.39.04.0541",
+				"or":  "M. Dashevskyi, O. Boshko, O. Nakonechna, and N. Belyavina, Metallofiz. Noveishie Tekhnol., 39, No. 4: 541 (2017).",
+				"tr":  "M. Dashevskyi, O. Boshko, O. Nakonechna, and N. Belyavina, Metallofiz. Noveishie Tekhnol., 39, No. 4: 541 (2017)."
+			},
+			{
+				"doi": "",
+				"or":  "H. P. Klug and L. E. Alexander, X-Ray Diffraction Procedures for Polycrystalline and Amorphous Materials (New York: Wiley: 1974).",
+				"tr":  "H. P. Klug and L. E. Alexander, X-Ray Diffraction Procedures for Polycrystalline and Amorphous Materials (New York: Wiley: 1974)."
+			},
+			{
+				"doi": "10.1557/JMR.1992.1564",
+				"or":  "W. C. Oliver and G. M. Pharr, J. Mater. Res., 7, Iss. 6: 1564 (1992).",
+				"tr":  "W. C. Oliver and G. M. Pharr, J. Mater. Res., 7, Iss. 6: 1564 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "I. N. Frantsevich, F. F. Voronov, and S. A. Bakuta, Elastic Constants and Elastic Moduli of Metals and Nonmetals: A Handbook (Kiev: Naukova Dumka: 1982) (in Russian).",
+				"tr":  "I. N. Frantsevich, F. F. Voronov, and S. A. Bakuta, Elastic Constants and Elastic Moduli of Metals and Nonmetals: A Handbook (Kiev: Naukova Dumka: 1982) (in Russian)."
+			},
+			{
+				"doi": "10.1557/PROC-1049-AA05-06",
+				"or":  "Yu. Milman, S. Dub, and A. Golubenko, Symposium AA—Fundamentals of Nanoindentation and Nanotribology IV, 1049: 1049-AA05-06 (2007).",
+				"tr":  "Yu. Milman, S. Dub, and A. Golubenko, Symposium AA—Fundamentals of Nanoindentation and Nanotribology IV, 1049: 1049-AA05-06 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Tabor, The Hardness of Metals (Oxford: Clarendon Press: 2000).",
+				"tr":  "D. Tabor, The Hardness of Metals (Oxford: Clarendon Press: 2000)."
+			},
+			{
+				"doi": "10.1134/1.1470567",
+				"or":  "V. A. Pozdnyakov and A. M. Glezer, Phys. Solid State, 44, Iss. 4: 732 (2002).",
+				"tr":  "V. A. Pozdnyakov and A. M. Glezer, Phys. Solid State, 44, Iss. 4: 732 (2002)."
+			},
+			{
+				"doi": "10.1016/0001-6160(84)90106-8",
+				"or":  "T. Ungar, H. Mughrabi, D. Rönnpagel, and M. Wilkens, Acta Metall., 32, Iss. 3: 333 (1984).",
+				"tr":  "T. Ungar, H. Mughrabi, D. Rönnpagel, and M. Wilkens, Acta Metall., 32, Iss. 3: 333 (1984)."
+			},
+			{
+				"doi": "10.1016/0001-6160(83)90007-X",
+				"or":  "H. Mughrabi, Acta Metall., 31, Iss. 9: 1367 (1983).",
+				"tr":  "H. Mughrabi, Acta Metall., 31, Iss. 9: 1367 (1983)."
+			},
+			{
+				"doi": "10.1016/j.physb.2010.04.002",
+				"or":  "A. Sekkal, A. Benzair, H. Aourag, H.I. Faraoun, and G. Merad, Physica B, 405, Iss. 13: 2831 (2010).",
+				"tr":  "A. Sekkal, A. Benzair, H. Aourag, H.I. Faraoun, and G. Merad, Physica B, 405, Iss. 13: 2831 (2010)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2004.06.050",
+				"or":  "J. R. Morris, Y. Ye, Y. B. Lee, B. N. Harmon, K. A. Gschneidner Jr., and A. M. Russell, Acta Mater., 52, Iss. 16: 4849 (2004).",
+				"tr":  "J. R. Morris, Y. Ye, Y. B. Lee, B. N. Harmon, K. A. Gschneidner Jr., and A. M. Russell, Acta Mater., 52, Iss. 16: 4849 (2004)."
+			},
+			{
+				"doi": "10.1016/j.physb.2010.10.055",
+				"or":  "S. S. Chouhan, P. Soni, G. Pagare, S. P. Sanyal, and M. Rajagopalan, Physica B, 406, Iss. 3: 339 (2011).",
+				"tr":  "S. S. Chouhan, P. Soni, G. Pagare, S. P. Sanyal, and M. Rajagopalan, Physica B, 406, Iss. 3: 339 (2011)."
+			}
+		]
+	}
+}

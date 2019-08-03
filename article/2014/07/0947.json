@@ -1,0 +1,102 @@
+{
+	"_id":    "MFiNT.36.07.0947",
+	"year":   2014,
+	"volume": 36,
+	"issue":  7,
+	"pages":  [947,957],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["22.11.2013"],
+	"PACS":   "61.48.-c, 61.82.Pv, 71.15.Mb, 71.20.Tx, 78.30.Na, 81.05.ub, 82.35.-x",
+	"title":   {
+		"ua": "Структура та властивості фуллеренів C$_{58}$ та C$_{62}$",
+		"en": "Structure and Properties of the C$_{58}$ and C$_{62}$ Fullerenes",
+		"ru": "Структура и свойства фуллеренов C$_{58}$ и C$_{62}$"
+	},
+	"abstract": {
+		"ua": "Методами квантової хімії знайдено структури та енергії стабільних ізомерів фуллеренів C$_{58}$ і C$_{62}$ та одержано їх коливні спектри. Виявлено, що спектри інфрачервоного поглинання та комбінаційного розсіяння світла C$_{58}$ і C$_{62}$ істотно відрізняються від спектрів C$_{60}$, а саме, спостерігаються розщеплення вироджених ліній і поява нових, які пов’язані з коливаннями, що не мали спектрального прояву в C$_{60}$. Запропоновано новий механізм полімеризації фуллеритів під дією опромінення – об’єднання фуллеренів за допомогою молекул C$_{2}$.",
+		"en": "Structures and energies of stable isomers of the C$_{58}$ and C$_{62}$ fullerenes are determined, and their vibrational spectra are obtained, using quantum-chemistry methods. As revealed, the infrared absorption and Raman spectra of C$_{58}$ and C$_{62}$ essentially differ from the spectra of C60, namely, the splitting of degenerate lines is observed. The appearance of new lines is conditioned by vibrations, which are not manifesting themselves in spectra of C$_{60}$. A new mechanism of fullerite polymerization under irradiation is proposed as the assembly of fullerenes by means of the C$_{2}$ molecules.",
+		"ru": "Методами квантовой химии найдены структуры и энергии стабильных изомеров фуллеренов C$_{58}$ и C$_{62}$ и получены их колебательные спектры. Обнаружено, что спектры инфракрасного поглощения и комбинационного рассеяния света C$_{58}$ и C$_{62}$ существенно отличаются от спектров C$_{60}$, а именно, наблюдаются расщепление вырожденных линий и появление новых, которые связаны с колебаниями, не имеющими спектрального проявления в C$_{60}$. Предложен новый механизм полимеризации фуллерита под действием облучения – объединение фуллеренов с помощью молекул C$_{2}$."
+	},
+	"keywords": {
+		"ua": "ізомери фуллеренів, полімеризація фуллеритів, КР-спектроскопія фуллеренів, ІЧ-спектроскопія фуллеренів",
+		"en": "fullerene isomers, fullerite polymerization, Raman scattering of fullerenes, IR absorption of fullerenes",
+		"ru": "изомеры фуллеренов, полимеризация фуллерита, КР-спектроскопия фуллеренов, ИК-спектроскопия фуллеренов"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. М. Пастушенко", "en": "O. M. Pastushenko", "ru": "О. Н. Пастушенко"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "А. І. Момот", "en": "A. I. Momot", "ru": "А. И. Момот"},
+			"OID": [201]
+		}
+	],
+	"references": {
+		"count": 12,
+		"list":  [
+			{
+				"doi": "10.1063/1.112954",
+				"or":  "J. Kastner , H. Kuzmany, and L. Palmetshofer, Appl. Phys. Lett., 65: 543 (1994).",
+				"tr":  "J. Kastner , H. Kuzmany, and L. Palmetshofer, Appl. Phys. Lett., 5, No. 65: 543(1994)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Л. Павленко, О. П. Дмитренко, М. П. Кулиш, М. Е. Корниенко, М. А. Заболотный, Ю. Е. Грабовский, В. А. Брусенцов, Т. В. Родионова, Б. Н. Романюк, И. М. Хацевич, В. В. Стрельчук, Вопросы атомной науки и техники, № 2: 22 (2011).",
+				"tr":  "O. L. Pavlenko, O. P. Dmytrenko, M. P. Kulish, M. Ye. Korniyenko, M. A. Zabolotnyi, Yu. Ye. Grabovskyi, V. A. Brusentsov, T. V. Rodionava, B. M. Romanuik, I. M. Khacevych, V. V. Strilchuk, Problems of Atomic Science and Technology, No. 2: 22 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "О. Л. Павленко, Полімеризація плівок фулеритів С60 при леґуванні металами та опроміненні (Автореферат дис. ... канд. фіз.-мат. наук) (Київ: Київський національний університет: 2012).",
+				"tr":  "O. L. Pavlenko, Polimerizatsiya Plivok Fuleritov C60 pry Leguvanni Metalamy ta Oprominenni (Autoref. Dis. ... Cand. Phys.-Math. Sci.) (Kyiv: Kyiv National University: 2012) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. U. Lee and Yo.-K. Han, J. Phys. Chem., 121, No. 8: 3941 (2004).",
+				"tr":  "S. U. Lee and Yo.-K. Han, J. Phys. Chem., 121, No. 8: 3941 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "M. V. Makarets, Yu. I. Prylutskyy, O. V. Zaloyilo, and P. Scharff, Fullerenes, Nanotubes and Carbon Nanostructures, 13, Suppl. 1: 339 (2005).",
+				"tr":  "M. V. Makarets, Yu. I. Prylutskyy, O. V. Zaloyilo, and P. Scharff, Fullerenes, Nanotubes and Carbon Nanostructures, 13, Suppl. 1: 339 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "J. B. Foresman and Æ. Frisch, Exploring Chemistry with Electronic Structure Methods (Pittsburgh, PA: Gaussian Inc.: 1996).",
+				"tr":  "J. B. Foresman and Æ. Frisch, Exploring Chemistry with Electronic Structure Methods (Pittsburgh, PA: Gaussian Inc.: 1996)."
+			},
+			{
+				"doi": "",
+				"or":  "M. J. Frisch, G. W. Trucks, H. B. Schlegel, G. E. Scuseria, M. A. Robb, J. R. Cheeseman, J. A. Montgomery, Jr., T. Vreven, K. N. Kudin, J. C. Burant, J. M. Millam, S. S. Iyengar, J. Tomasi, V. Barone, B. Mennucci, M. Cossi, G. Scalmani, N. Rega, G. A. Petersson, H. Nakatsuji, M. Hada, M. Ehara, K. Toyota, R. Fukuda, J. Hasegawa, M. Ishida, T. Nakajima, Y. Honda, O. Kitao, H. Nakai, M. Klene, X. Li, J. E. Knox, H. P. Hratchian, J. B. Cross, V. Bakken, C. Adamo, J. Jaramillo, R. Gomperts, R. E. Stratmann, O. Yazyev, A. J. Austin, R. Cammi, C. Pomelli, J. W. Ochterski, P. Y. Ayala, K. Morokuma, G. A. Voth, P. Salvador, J. J. Dannenberg, V. G. Zakrzewski, S. Dapprich, A. D. Daniels, M. C. Strain, O. Farkas, D. K. Malick, A. D. Rabuck, K. Raghavachari, J. B. Foresman, J. V. Ortiz, Q. Cui, A. G. Baboul, S. Clifford, J. Cioslowski, B. B. Stefanov, G. Liu, A. Liashenko, P. Piskorz, I. Komaromi, R. L. Martin, D. J. Fox, T. Keith, M. A. Al-Laham, C. Y. Peng, A. Nanayakkara, M. Challacombe, P. M. W. Gill, B. Johnson, W. Chen, M. W. Wong, C. Gonzalez, and J. A. Pople, Gaussian 03, Revision E.01 (Wallingford CT: Gaussian, Inc.: 2004).",
+				"tr":  "M. J. Frisch, G. W. Trucks, H. B. Schlegel, G. E. Scuseria, M. A. Robb, J. R. Cheeseman, J. A. Montgomery, Jr., T. Vreven, K. N. Kudin, J. C. Burant, J. M. Millam, S. S. Iyengar, J. Tomasi, V. Barone, B. Mennucci, M. Cossi, G. Scalmani, N. Rega, G. A. Petersson, H. Nakatsuji, M. Hada, M. Ehara, K. Toyota, R. Fukuda, J. Hasegawa, M. Ishida, T. Nakajima, Y. Honda, O. Kitao, H. Nakai, M. Klene, X. Li, J. E. Knox, H. P. Hratchian, J. B. Cross, V. Bakken, C. Adamo, J. Jaramillo, R. Gomperts, R. E. Stratmann, O. Yazyev, A. J. Austin, R. Cammi, C. Pomelli, J. W. Ochterski, P. Y. Ayala, K. Morokuma, G. A. Voth, P. Salvador, J. J. Dannenberg, V. G. Zakrzewski, S. Dapprich, A. D. Daniels, M. C. Strain, O. Farkas, D. K. Malick, A. D. Rabuck, K. Raghavachari, J. B. Foresman, J. V. Ortiz, Q. Cui, A. G. Baboul, S. Clifford, J. Cioslowski, B. B. Stefanov, G. Liu, A. Liashenko, P. Piskorz, I. Komaromi, R. L. Martin, D. J. Fox, T. Keith, M. A. Al-Laham, C. Y. Peng, A. Nanayakkara, M. Challacombe, P. M. W. Gill, B. Johnson, W. Chen, M. W. Wong, C. Gonzalez, and J. A. Pople, Gaussian 03, Revision E.01 (Wallingford CT: Gaussian, Inc.: 2004)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Shinar, Optical and Electronic Properties of Fullerenes and Fullerene-Based Materials (New York: J. Dekker: 1999).",
+				"tr":  "J. Shinar, Optical and Electronic Properties of Fullerenes and Fullerene-Based Materials (New York: J. Dekker: 1999)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Hirsch, Fullerenes and Related Structures (Berlin–Heidelberg: Springer Verlag: 1999).",
+				"tr":  "A. Hirsch, Fullerenes and Related Structures (Berlin–Heidelberg: Springer Verlag: 1999)."
+			},
+			{
+				"doi": "",
+				"or":  "Fullerene Polymers and Fullerene Polymer Composites. Springer Series in Materials Science. Vol. 38 (Eds. P. C. Eklund and A. Rao) (Berlin–Heidelberg: Springer-Verlag: 2000).",
+				"tr":  "Fullerene Polymers and Fullerene Polymer Composites. Springer Series in Materials Science. Vol. 38 (Eds. P. C. Eklund and A. Rao) (Berlin–Heidelberg: Springer-Verlag: 2000)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. Л. Макарова, Физика и техника полупроводников, 35, № 3 (2001).",
+				"tr":  "T. L. Makarova, Fizika i Tekhnika Poluprovodnikov, 35, No. 3 (2001) (in Russian)."
+			},
+			{
+				"doi": "10.1021/jp072768c",
+				"or":  "Ya.-H. Cui and D.-L. Chen et al., J. Phys. Chem. A, 111: 7933 (2007).",
+				"tr":  "Ya.-H. Cui and D.-L. Chen at al., J. Phys. Chem. A, 111: 7933 (2007)."
+			}
+		]
+	}
+}

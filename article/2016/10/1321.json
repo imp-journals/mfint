@@ -1,0 +1,166 @@
+{
+	"_id":    "MFiNT.38.10.1321",
+	"year":   2016,
+	"volume": 38,
+	"issue":  10,
+	"pages":  [1321,1333],
+	"rubric": 2,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["09.08.2016"],
+	"PACS":   "06.06.Vz, 61.05.J-, 61.72.Ff, 61.72.Hh, 62.20.mt, 68.35.Gy, 81.20.Vj, 81.40.Np",
+	"title":   {
+		"ua": "Розподіл локальних деформацій поблизу тріщин у зварному шві Ni—Cr—Fe за даними дифракції зворотньо розсіяних електронів",
+		"en": "Distribution of Local Strains in a Neighbourhood of Cracks in a Welded Seam of Ni—Cr—Fe According to Diffraction Data of Back Scattered Electrons",
+		"ru": "Распределение локальных деформаций в окрестности трещин в сварном шве Ni—Cr—Fe по данным дифракции обратно рассеянных электронов"
+	},
+	"abstract": {
+		"ua": "Досліджено деформаційний стан локальних областей поблизу тріщин у звареному шві ніклевого стопу. Запропоновано методику визначення компонент тензора локальних деформацій в окремих зернах полікристалічних зразків. Діягональні компоненти тензора визначалися за змінами розподілів інтенсивности окремих смуг, інші компоненти – зі зміщення осей зон щодо їхніх положень на еталонній картині Кікучі. Побудовано характеристичні поверхні тензорів деформацій, а також проаналізовано особливості їх плянарного розподілу поблизу тріщин зварних швів.",
+		"en": "The strain state of local regions in a neighbourhood of the cracks in a welded seam is studied for nickel alloy. Technique of local-strain tensor components’ determination in certain grains of polycrystalline samples is presented. Diagonal tensor components are determined using changes of intensity distribution for each diffraction band. Other components are specified from zone-axes’ displacements relative to their positions in the etalon Kikuchi pattern. Characteristic surfaces of strain tensors are constructed, and peculiarities of their planar distribution near cracks in the welded seams are examined.",
+		"ru": "Исследовано деформационное состояние локальных областей в окрестности трещин в сварном шве никелевого сплава. Предложена методика определения компонент тензора локальных деформаций в отдельных зёрнах поликристаллических образцов. Диагональные компоненты тензора определялись по изменениям распределений интенсивности отдельных полос, другие компоненты – из смещения осей зон относительно их положений на эталонной картине Кикучи. Построены характеристические поверхности тензоров деформаций, а также проанализированы особенности их планарного распределения в окрестностях трещин сварных швов."
+	},
+	"keywords": {
+		"ua": "стопи типу Ni—Cr—Fe, зварні шви, тензометрія, метода Кікучі",
+		"en": "Ni—Cr—Fe alloy, welded seam, tensometry, Kikuchi method",
+		"ru": "сплавы типа Ni—Cr—Fe, сварные швы, тензометрия, метод Кикучи"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. М. Фодчук", "en": "I. M. Fodchuk", "ru": "И. М. Фодчук"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "М. Д. Борча", "en": "M. D. Borcha", "ru": "М. Д. Борча"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "В. Ю. Хоменко", "en": "V. Yu. Khomenko", "ru": "В. Ю. Хоменко"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "В. М. Ткач", "en": "V. M. Tkach", "ru": "В. М. Ткач"},
+			"OID": [12]
+		},
+		{
+			"AID": {"ua": "О. О. Стаценко", "en": "O. O. Statsenko", "ru": "О. О. Стаценко"},
+			"OID": [12]
+		},
+		{
+			"AID": {"ua": "К. А. Ющенко", "en": "K. A. Yushchenko", "ru": "К. А. Ющенко"},
+			"OID": [10]
+		},
+		{
+			"AID": {"ua": "А. В. Звягинцева", "en": "A. V. Zviagintsevа", "ru": "А. В. Звягинцева"},
+			"OID": [10]
+		},
+		{
+			"AID": {"ua": "Н. О. Червяков", "en": "N. O. Chervyakov", "ru": "Н. О. Червяков"},
+			"OID": [10]
+		}
+	],
+	"references": {
+		"count": 20,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "http://www.nickel-alloys.net",
+				"tr":  "http://www.nickel-alloys.net"
+			},
+			{
+				"doi": "10.1002/9780470500262",
+				"or":  "J. N. DuPont, J. C. Lippold, and S.D. Kiser, Welding Metallurgy and Weldability of Nickel-Base Alloys (Hoboken, New Jersey: John Wiley & Sons, Inc.: 2009).",
+				"tr":  "J. N. DuPont, J. C. Lippold, and S.D. Kiser, Welding Metallurgy and Weldability of Nickel-Base Alloys (Hoboken, New Jersey: John Wiley & Sons, Inc.: 2009)."
+			},
+			{
+				"doi": "",
+				"or":  "К. А. Ющенко, В. С. Савченко, Н. О. Червяков, А. В. Звягинцева, Автоматическая сварка, 5, № 685: 10 (2010).",
+				"tr":  "K. A. Yushchenko, V. S. Savchenko, N. O. Chervyakov, and A. V. Zvyagintseva, Avtomaticheskaya Svarka, 5, No. 685: 10 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Zhang, D. S. Kiser, and B. A. Backer, Special Metal Corporation, 1 (2008).",
+				"tr":  "R. Zhang, D. S. Kiser, and B. A. Backer, Special Metal Corporation, 1 (2008)."
+			},
+			{
+				"doi": "10.1007/978-0-387-88136-2",
+				"or":  "A. J. Schwartz, M. Kumar, B. Adams, and D. Fild, Electron Backscatter Diffraction in Materials Science, Edition 2 (NewYork, Boston, Dordrech, London, Moscow: Kluwer Academic: Plenum Publisers: 2009).",
+				"tr":  "A. J. Schwartz, M. Kumar, B. Adams, and D. Fild, Electron Backscatter Diffraction in Materials Science, Edition 2 (NewYork, Boston, Dordrech, London, Moscow: Kluwer Academic: Plenum Publisers: 2009)."
+			},
+			{
+				"doi": "10.3103/S1063457613050031",
+				"or":  "M. D. Borcha, S. V. Balovsyak, I. M. Fodchuk, V. Yu. Khomenko, O. P. Kroitor, and V. N. Tkach, J. Superhard Materials, 35, No. 5: 284 (2013).",
+				"tr":  "M. D. Borcha, S. V. Balovsyak, I. M. Fodchuk, V. Yu. Khomenko, O. P. Kroitor, and V. N. Tkach, J. Superhard Materials, 35, No. 5: 284 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "I. M. Fodchuk, S. V. Balovsyak, M. D. Borcha, Ya. D. Garabazhiv, and V. N. Tkach, Semiconductor Physics, Quantum Electronics and Optoelectronics, 13, No. 1: 262 (2010).",
+				"tr":  "I. M. Fodchuk, S. V. Balovsyak, M. D. Borcha, Ya. D. Garabazhiv, and V. N. Tkach, Semiconductor Physics, Quantum Electronics and Optoelectronics, 13, No. 1: 262 (2010)."
+			},
+			{
+				"doi": "10.1093/jmicro/dfq043",
+				"or":  "D. J. Dingley, A. J. Wilkinson, G. Meaden, and P. S. Karamched, J. Electron Microscopy, 59: 155 (2010).",
+				"tr":  "D. J. Dingley, A. J. Wilkinson, G. Meaden, and P. S. Karamched, J. Electron Microscopy, 59: 155 (2010)."
+			},
+			{
+				"doi": "10.1016/S1369-7021(12)70163-3",
+				"or":  "A. Wilkinson and B. Britton, Materials Today, 15, No. 9: 366 (2012).",
+				"tr":  "A. Wilkinson and B. Britton, Materials Today, 15, No. 9: 366 (2012)."
+			},
+			{
+				"doi": "10.3103/S1063457613040035",
+				"or":  "M. D. Borcha, S. V. Balovsyak, I. M. Fodchuk, V. Yu. Khomenko, and V. N. Tkach, J. Superhard Materials, 35, No. 4: 220 (2013).",
+				"tr":  "M. D. Borcha, S. V. Balovsyak, I. M. Fodchuk, V. Yu. Khomenko, and V. N. Tkach, J. Superhard Materials, 35, No. 4: 220 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Д. Борча, С. В. Баловсяк, Я. Д. Гарабажив, В. М. Ткач, И. М. Фодчук, Металлофиз. новейшие технол., 31, № 2: 911 (2009).",
+				"tr":  "M. D. Borcha, S. V. Balovsyak, Ya. D. Garabazhiv, V. N. Tkach, and I. M. Fodchuk, Metallofiz. Noveishie Tekhnol., 31, No. 2: 911 (2009)."
+			},
+			{
+				"doi": "10.1002/pssa.201184266",
+				"or":  "I. Fodchuk, S. Balovsyak, M. Borcha, Ya. Garabazhiv, and V. Tkach, phys. status solidi (a), 208, No. 11: 2591 (2011).",
+				"tr":  "I. Fodchuk, S. Balovsyak, M. Borcha, Ya. Garabazhiv, and V. Tkach, phys. status solidi (a), 208, No. 11: 2591 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Д. Борча, А. В. Звягинцева, В. М. Ткач, К. А. Ющенко, С. В. Баловсяк, И. М. Фодчук, В. Ю. Хоменко, Металлофиз. новейшие технол., 35, № 10: 1359 (2013).",
+				"tr":  "M. D. Borcha, A. V. Zvyagintseva, V. N. Tkach, K. A. Yushchenko, S. V. Balovsyak, I. M. Fodchuk, and V. Yu. Khomenko, Metallofiz. Noveishie Tekhnol., 35, No. 10: 1359 (2013) (in Russian)."
+			},
+			{
+				"doi": "10.1093/jmicro/dfq043",
+				"or":  "D. J. Dingley, A. J. Wilkinson, G. Meaden, and P. S. Karamched, J. Electron Microscopy, 59: 155 (2010).",
+				"tr":  "D. J. Dingley, A. J. Wilkinson, G. Meaden, and P. S. Karamched, J. Electron Microscopy, 59: 155 (2010)."
+			},
+			{
+				"doi": "10.1016/j.commatsci.2014.03.041",
+				"or":  "A. Stoll and A. J. Wilkinson, Computational Mater. Sci., 89: 224 (2014).",
+				"tr":  "A. Stoll and A. J. Wilkinson, Computational Mater. Sci., 89: 224 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Горшков, Л. Н. Рабинский, Д. В. Тарлаковский, Основы тензорного анализа и механика сплошной среды (Москва: Наука: 2000).",
+				"tr":  "A. G. Gorshkov, L. N. Rabinskiy, and D. V. Tarlakovskiy, Osnovy Tenzornogo Analiza i Mekhanika Sploshnoj Sredy [Fundamentals of Tensor Analysis and Continuum Mechanics] (Moscow: Nauka: 2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. И. Димитриенко, Нелинейная механика сплошной среды (Москва: Физматлит: 2010).",
+				"tr":  "Yu. I. Dimitrienko, Nelinejnaya Mekhanika Sploshnoj Sredy [Nonlinear Continuum Mechanics] (Moscow: Fizmatlit: 2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Рекомендации по сварке металлических материалов (Европейский стандарт EN 1011-2: 2001).",
+				"tr":  "Rekomendacii po Svarke Metallicheskikh Materialov [Recommendations for Welding of Metallic Materials] (European Standard EN 1011-2: 2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "K. A. Yushchenko, A. V. Zvyagintseva, L. I. Markashova, G. B. Belyaev, and O. S. Kushnareva, Proc. ‘Medovar Memorial Symposium’ (7–10 June, 2016, Kyiv, Ukraine), p. 50.",
+				"tr":  "K. A. Yushchenko, A. V. Zvyagintseva, L. I. Markashova, G. B. Belyaev, and O. S. Kushnareva, Proc. 'Medovar Memorial Symposium' (7–10 June, 2016, Kyiv, Ukraine), p. 50."
+			},
+			{
+				"doi": "10.1007/978-3-319-28434-7_10",
+				"or":  "K. A. Yushchenko, V. S. Savchenko, A. V. Zvyagintseva, and L. I. Markashova, Cracking Phenomena in Welds IV (Eds. Tomas Boellinghaus, John C. Lippold, and Carl E. Cross) (Switzerland: Springer Intenational Publishing: 2016), p. 207.",
+				"tr":  "K. A. Yushchenko, V. S. Savchenko, A. V. Zvyagintseva, and L. I. Markashova, Cracking Phenomena in Welds IV (Eds. Tomas Boellinghaus, John C. Lippold, and Carl E. Cross) (Switzerland: Springer Intenational Publishing: 2016), p. 207."
+			}
+		]
+	}
+}

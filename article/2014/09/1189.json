@@ -1,0 +1,137 @@
+{
+	"_id":    "MFiNT.36.09.1189",
+	"year":   2014,
+	"volume": 36,
+	"issue":  9,
+	"pages":  [1189,1205],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["14.01.2014"],
+	"PACS":   "61.66.Dk, 61.72.Ff, 62.20.fq, 64.70.kd, 81.20.Hy, 81.40.Cd, 81.40.Ef",
+	"title":   {
+		"ua": "Структура та властивості композиту A356—AlCuFe, отриманого з використанням електромагнітного перемішування",
+		"en": "Structure and Properties of А356—AlCuFe Composite Obtained Using Electromagnetic Agitation",
+		"ru": "Структура и свойства композита A356—AlCuFe, полученного с использованием электромагнитного перемешивания"
+	},
+	"abstract": {
+		"ua": "В роботі досліджено можливість створення композиту на основі силуміну А356 ($\\cong$ 7% ваг. Si, 0,4% ваг. Mg та ін.) шляхом лиття з додаванням у розтоп порошку квазикристалічної фази Al$_{65}$Cu$_{20}$Fe$_{15}$ (45% ваг. Al, 38% ваг. Cu, 17% ваг. Fe) та подальшого оброблення розтопу в магнетогідродинамічній (МГД) установці. Показано, що при додаванні близько 8% ваг. порошку Al$_{65}$Cu$_{20}$Fe$_{15}$ та виборі оптимальних параметрів оброблення розтопу в МГД-установці може бути одержано композитний матеріял з твердістю, на 70% вищою, ніж у вихідного стопу А356. Проаналізовано вплив термічного оброблення та інтенсивної пластичної деформації на структуру та властивості одержаного стопу. Досліджено механічні властивості композиту A356—Al$_{65}$Cu$_{20}$Fe$_{15}$ при підвищених температурах.",
+		"en": "This paper considers the possibility of fabrication of the composites based on silumin A356 ($\\cong$ 7% wt. Si, 0.4% wt. Mg, etc.), using casting with the addition of quasi-crystalline Al$_{65}$Cu$_{20}$Fe$_{15}$ (45% wt. Al, 38% wt. Cu, 17% wt. Fe) particles into the melt pool and subsequent treatment of the melt in a magnetohydrodynamic (MHD) plant. As shown, the addition of 8%wt. of Al$_{65}$Cu$_{20}$Fe$_{15}$ powder provides optimal parameters of the treatment in the MHD plant and enables production of composite material, whose hardness is higher by 70% than that of the initial A356 alloy. The influence of heat treatment and severe plastic deformation on the structure and properties of the obtained alloy is analysed. Mechanical properties of A356—Al$_{65}$Cu$_{20}$Fe$_{15}$ composites at elevated temperatures are studied.",
+		"ru": "В работе исследована возможность создания композита на основе силумина А356 ($\\cong$ 7% вес. Si, 0,4% вес. Mg и др.) методом литья с добавлением в расплав порошка квазикристаллической фазы Al$_{65}$Cu$_{20}$Fe$_{15}$ (45% вес. Al, 38% вес. Cu, 17% вес. Fe) и последующей обработки расплава в магнитогидродинамической (МГД) установке. Показано, что при добавлении около 8% вес. порошка Al$_{65}$Cu$_{20}$Fe$_{15}$ и выборе оптимальных параметров обработки расплава в МГД-установке может быть получен композитный материал с твёрдостью на 70% выше, чем у исходного сплава А356. Проанализировано влияние термической обработки и интенсивной пластической деформации на структуру и свойства полученного сплава. Изучены механические свойства композита A356—Al$_{65}$Cu$_{20}$Fe$_{15}$ при повышенных температурах."
+	},
+	"keywords": {
+		"ua": "силумін, композит, інтенсивна пластична деформація",
+		"en": "silumin, composite, severe plastic deformation",
+		"ru": "силумин, композит, интенсивная пластическая деформация"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. С. Поліщук", "en": "S. S. Polishchuk", "ru": "С. С. Полищук"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. Л. Березіна", "en": "A. L. Berezina", "ru": "А. Л. Березина"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. А. Давиденко", "en": "A. A. Davidenko", "ru": "А. А. Давиденко"},
+			"OID": [8]
+		},
+		{
+			"AID": {"ua": "В. З. Спусканюк", "en": "V. Z. Spuskanyuk", "ru": "В. З. Спусканюк"},
+			"OID": [8]
+		},
+		{
+			"AID": {"ua": "В. Н. Фікссен", "en": "V. N. Fixsen", "ru": "В. Н. Фикссен"},
+			"OID": [15]
+		},
+		{
+			"AID": {"ua": "А. В. Ященко", "en": "A. V. Yashchenko", "ru": "А. В. Ященко"},
+			"OID": [15]
+		},
+		{
+			"AID": {"ua": "В. В. Бурховецький", "en": "V. V. Burkhovetskii", "ru": "В. В. Бурховецкий"},
+			"OID": [8]
+		}
+	],
+	"references": {
+		"count": 15,
+		"list":  [
+			{
+				"doi": "10.1016/j.msea.2006.08.054",
+				"or":  "M. Tash, F. H. Samuel, F. Mucciardi, and H. W. Doty, Mater. Sci. Eng. A, 443: 185 (2007).",
+				"tr":  "M. Tash, F. H. Samuel, F. Mucciardi, and H. W. Doty, Mater. Sci. Eng. A, 443: 185 (2007)."
+			},
+			{
+				"doi": "10.1016/0924-0136(94)01671-M",
+				"or":  "Q. F. Li, N. L. Loh, and N. P. Hung, J. Mater. Proc. Technol., 48: 373 (1995).",
+				"tr":  "Q. F. Li, N. L. Loh, and N. P. Hung, J. Mater. Proc. Technol., 48: 373 (1995)."
+			},
+			{
+				"doi": "10.1016/S1003-6326(11)61171-0",
+				"or":  "A. Mazahery and M. O. Shabani, Trans. Nonferrous Met. Soc. China, 22: 275 (2012).",
+				"tr":  "A. Mazahery and M. O. Shabani, Trans. Nonferrous Met. Soc. China, 22: 275 (2012)."
+			},
+			{
+				"doi": "10.1557/PROC-553-495",
+				"or":  "A. Inoue and H. M. Kimura, Mat. Res. Soc. Symp. Proc., 553: 495 (1999).",
+				"tr":  "A. Inoue and H. M. Kimura, Mat. Res. Soc. Symp. Proc., 553: 495 (1999)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(03)00433-7",
+				"or":  "F. Tang, I. E. Anderson, and S. B. Biner, Mater. Sci. Eng. A, 363: 20 (2003).",
+				"tr":  "F. Tang, I. E. Anderson, and S. B. Biner, Mater. Sci. Eng. A, 363: 20 (2003)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2009.07.009",
+				"or":  "M. Galano, F. Audebert, A. Garcia Escorial, I. C. Stone, and B. Cantor, Acta Mater., 57: 5120 (2009).",
+				"tr":  "M. Galano, F. Audebert, A. Garcia Escorial, I. C. Stone, and B. Cantor, Acta Mater., 57: 5120 (2009)."
+			},
+			{
+				"doi": "10.1111/j.1365-2818.1987.tb01354.x",
+				"or":  "W. A. Cassada, G. J. Shiflet, and S. J. Poon, J. of Microscopy, 146: 323 (1987).",
+				"tr":  "W. A. Cassada, G. J. Shiflet, and S. J. Poon, J. of Microscopy, 146: 323 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "Su-Ling Cheng, Gen-Cang Yang, Man Zhu, Jin-Cheng Wang, and Yao-He Zhou, Nonferrous Met. Soc. China, 20: 572 (2010).",
+				"tr":  "Su-Ling Cheng, Gen-Cang Yang, Man Zhu, Jin-Cheng Wang, and Yao-He Zhou, Nonferrous Met. Soc. China, 20: 572 (2010)."
+			},
+			{
+				"doi": "10.1016/j.msea.2011.02.044",
+				"or":  "Sung-Dae Kim, Dong-Su Ko, Woo Kil Jang, Kwang Seon Shin, and Young-Woon Kim, Mater. Sci. Eng. A, 528: 4845 (2011).",
+				"tr":  "Sung-Dae Kim, Dong-Su Ko, Woo Kil Jang, Kwang Seon Shin, and Young-Woon Kim, Mater. Sci. Eng. A, 528: 4845 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Л. Березина, Т. А. Монастырская, А. А. Давиденко, В. И. Дубоделов, В. З. Спусканюк, В. Н. Фиксен, Металлофиз. новейшие технол., 31, № 10: 1417 (2009).",
+				"tr":  "A. L. Berezina, T. O. Monastyrska, O. A. Davydenko, V. I. Dubodelov, V. Z. Spuskanyuk, and V. N. Fiksen, Metallofiz. Noveishie Tekhnol., 31, No. 10: 1417 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Белошенко, В. Н. Варюхин, В. З. Спусканюк, Теория и практика гидроэкструзии (Киев: Наукова думка: 2007).",
+				"tr":  "V. A. Beloshenko, V. N. Varyukhin, and V. Z. Spuskanyuk, Teoriya i Praktika Gidroehkstruzii (Theory and Practice of Hydroextrusion) (Kiev: Naukova Dumka: 2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Т. Гудцов, И. Г. Лозинский, Журнал технической физики, 22, № 8: 1249 (1952).",
+				"tr":  "N. T. Gudtsov and I. G. Lozinskiy, Zhurnal Tekhnicheskoy Fiziki, 22, No. 8: 1249 (1952) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0956-716X(94)90281-X",
+				"or":  "S. Murali, T. N. Guru Row, D. H. Sastry, K. S. Raman, and K. S. S. Murthy, Scr. Metall. Mater., 31: 267 (1994).",
+				"tr":  "S. Murali, T. N. Guru Row, D. H. Sastry, K. S. Raman, and K. S. S. Murthy, Scr. Metall. Mater., 31: 267 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "V. S. Zolotorevsky, N. A. Belov, and M. V. Glazoff, Casting Aluminum Alloys (Amsterdam: Elsevier LTD: 2007).",
+				"tr":  "V. S. Zolotorevsky, N. A. Belov, and M. V. Glazoff, Casting Aluminum Alloys (Amsterdam: Elsevier LTD: 2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. І. Адєєва, А. Л. Борисова, Фізика і хімія твердого тіла, 3, № 3: 454 (2002).",
+				"tr":  "L. I. Adyeyeva and A. L. Borysova, Fizyka i Khimiya Tverdoho Tila, 3, No. 3: 454 (2002) (in Ukrainian)."
+			}
+		]
+	}
+}

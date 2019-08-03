@@ -1,0 +1,119 @@
+{
+	"_id":    "MFiNT.40.08.1081",
+	"year":   2018,
+	"volume": 40,
+	"issue":  8,
+	"pages":  [1081,1091],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["18.04.2018"],
+	"PACS":   "61.05.cp, 61.72.Ff, 62.50.-p, 68.37.Hk, 81.05.Ni, 81.20.Ev, 81.40.Vw",
+	"title":   {
+		"ua": "Особливості формування структури та фазового складу в процесі реакційного спікання кубічного нітриду бору зі сполуками Ti, Cr, V",
+		"en": "Features of Formation of Structure and Phase Composition During a Reactive Sintering of Cubic Boron Nitride with Compounds of Ti, Cr, V",
+		"ru": "Особенности формирования структуры и фазового состава в процессе реакционного спекания кубического нитрида бора с соединениями Ti, Cr, V"
+	},
+	"abstract": {
+		"ua": "Методами фізичного матеріялознавства досліджено вплив температури спікання на фазовий склад і структуру керамоматричних композитів на основі кубічного нітриду бору зі зв’язками у вигляді алюмінію та карбідів Ti, Cr, V. Об’єктом дослідження обрано три композиції $c$BN–TiC–Al, $c$BN–Cr$_3$C$_2$–Al та $c$BN–VC–Al із вмістом $c$BN у 60% об. Композити одержано методою термобаричного спікання в апараті високого тиску типу АВТТ-30 у температурному інтервалі 1600–2450°C при прикладанні тиску у 7,7 ГПа. В процесі термобаричного спікання композитів в системах $c$BN–TiC–Al та $c$BN–Cr$_3$C$_2$–Al виявлено формування диборидів титану та хрому при температурах спікання $Т_{\\textrm{сп}} \\geq$ 1850°C та $Т_{\\textrm{сп}} \\geq$ 2150°C відповідно; одночасно з цим виявлено формування нітриду алюмінію.",
+		"en": "Influence of sintering temperature on both phase composition and structure of ceramic matrix composites based on cubic boron nitride with binders in a form of Al and the Ti, Cr, V carbides are investigated by methods of physical materials science. As the object of study, three $c$BN–TiC–Al, $c$BN–Cr$_3$C$_2$–Al, $c$BN–VC–Al compositions containing 60% vol. $c$BN are selected. The composites are obtained by high-pressure high-temperature (HPHT) sintering in high-pressure apparatus AVTT-30 in the temperature range of 1600–2450°C under pressure of 7.7 GPa. In the process of HPHT sintering of composites in the $c$BN–TiC–Al and $c$BN–Cr$_3$C$_2$–Al systems, the formation of titanium and chromium diborides is found at the temperatures of sintering $Т_{\\textrm{sint}} \\geq$ 1850°C and $Т_{\\textrm{sint}} \\geq$ 2150°C, respectively, simultaneously with the formation of aluminium nitride.",
+		"ru": "Методами физического материаловедения исследовано влияние температуры спекания на фазовый состав и структуру керамоматричных композитов на основе кубического нитрида бора со связками в виде алюминия и карбидов Ti, Cr, V. Объектом исследования выбраны три композиции $c$BN–TiC–Al, $c$BN–Cr$_3$C$_2$–Al и $c$BN–VC–Al с содержанием $c$BN 60% об. Композиты получены методом термобарического спекания в аппарате высокого давления типа АВТТ-30 в температурном интервале 1600–2450°C при приложении давления 7,7 ГПа. В процессе термобарического спекания композитов в системах $c$BN–TiC–Al и $c$BN–Cr$_3$C$_2$–Al обнаружено формирование диборидов титана и хрома при температурах спекания $Т_{\\textrm{сп}} \\geq$ 1850°C и $Т_{\\textrm{сп}} \\geq$ 2150°C соответственно; одновременно с этим выявлено формирование нитрида алюминия."
+	},
+	"keywords": {
+		"ua": "нітрид бору, карбіди, керамоматричні композити, спікання, високий тиск",
+		"en": "boron nitride, carbides, ceramic matrix composites, sintering, high pressure",
+		"ru": "нитрид бора, карбиды, керамоматричные композиты, спекание, высокое давление"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "К. В. Сліпченко", "en": "K. V. Slipchenko", "ru": "Е. В. Слипченко"},
+			"OID": [12]
+		},
+		{
+			"AID": {"ua": "І. А. Петруша", "en": "I. A. Petrusha", "ru": "И. А. Петруша"},
+			"OID": [12]
+		},
+		{
+			"AID": {"ua": "В. З. Туркевич", "en": "V. Z. Turkevich", "ru": "В. З. Туркевич"},
+			"OID": [12]
+		},
+		{
+			"AID": {"ua": "В. М. Бушля", "en": "V. M. Bushlya", "ru": "В. М. Бушля"},
+			"OID": [536]
+		},
+		{
+			"AID": {"ua": "Я.-Е. Штоль", "en": "J.-E. Stahl", "ru": "Я.-Е. Штоль"},
+			"OID": [536]
+		}
+	],
+	"references": {
+		"count": 13,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Indexable Inserts for Cutting Tools–Designation, ISO 1832: 2017.",
+				"tr":  "Indexable Inserts for Cutting Tools–Designation, ISO 1832: 2017."
+			},
+			{
+				"doi": "10.1016/j.ijmachtools.2006.09.031",
+				"or":  "J. P. Costes, Y. Guillet, G. Poulachon, and M. Dessoly, Int. J. Mach. Tools Manuf., 47, Iss. 7–8: 1081 (2007).",
+				"tr":  "J. P. Costes, Y. Guillet, G. Poulachon, and M. Dessoly, Int. J. Mach. Tools Manuf., 47, Iss. 7–8: 1081 (2007)."
+			},
+			{
+				"doi": "10.1016/S0272-8842(01)00011-6",
+				"or":  "E. Benko, T. L. Barr, S. Hardcastle, E. Hoppe, A. Bernasik, and J. Morgiel, Ceram. Int., 27, Iss. 6: 637 (2001).",
+				"tr":  "E. Benko, T. L. Barr, S. Hardcastle, E. Hoppe, A. Bernasik, and J. Morgiel, Ceram. Int., 27, Iss. 6: 637 (2001)."
+			},
+			{
+				"doi": "10.1016/S0925-9635(99)00131-4",
+				"or":  "E. Benko, J. S. Stanislaw, B. Królicka, A. Wyczesany, and T. L. Barr, Diam. Relat. Mater., 8, Iss. 10: 1838 (1999).",
+				"tr":  "E. Benko, J. S. Stanislaw, B. Królicka, A. Wyczesany, and T. L. Barr, Diam. Relat. Mater., 8, Iss. 10: 1838 (1999)."
+			},
+			{
+				"doi": "10.1016/j.ceramint.2013.02.066",
+				"or":  "Sh.-Yu. Chiou, Sh.-F. Ou, Yu-G. Jang, and K.-L. Ou, Ceram. Int., 39, Iss. 6: 7205 (2013).",
+				"tr":  "Sh.-Yu. Chiou, Sh.-F. Ou, Yu-G. Jang, and K.-L. Ou, Ceram. Int., 39, Iss. 6: 7205 (2013)."
+			},
+			{
+				"doi": "10.1016/S0925-9635(01)00692-6",
+				"or":  "X. Z. Rong, T. Tsurumi, O. Fukunaga, and T. Yano, Diamond Relat. Mater., 11, Iss. 2: 280 (2002).",
+				"tr":  "X. Z. Rong, T. Tsurumi, O. Fukunaga, and T. Yano, Diamond Relat. Mater., 11, Iss. 2: 280 (2002)."
+			},
+			{
+				"doi": "10.1016/S0272-8842(99)00109-1",
+				"or":  "E. Benko, A. Wyczesany, and T. L. Barr, Ceram. Int., 26, Iss. 6: 639 (2000).",
+				"tr":  "E. Benko, A. Wyczesany, and T. L. Barr, Ceram. Int., 26, Iss. 6: 639 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "М. П. Беженар, Сверхтвёрдые материалы, № 2: 4 (1999).",
+				"tr":  "M. P. Bezhenar, Sverkhtvyordye Materialy, No. 2: 4 (1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Сверхтвёрдые материалы. Получение и применение (Ред. А. А. Шульженко) (Киев: ИСМ им. В. Н. Бакуля НАНУ: 2003), т. 1.",
+				"tr":  "Sverkhtvyordye Materialy. Poluchenie i Primenenie (Ed. A. A. Shulzhenko) (Kiev: ISM im. V. N. Bakulya NANU: 2003), vol. 1 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. М. Романенко, М. П. Беженар, Породоразрушающий и металлообрабатывающий инструмент — техника и технология его изготовления и применения (Киев: 2014), вып. 17, с. 276.",
+				"tr":  "Ya. M. Romanenko and M. P. Bezhenar, Porodorazrushayushchiy i Metalloobrabatyvayushchiy Instrument—Tekhnika i Tekhnologiya Ego Izgotovleniya i Primeneniya (Kiev: 2014), Iss. 17, p. 276 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. П. Беженар, С. М. Коновал, Я. М. Романенко, В. М. Ткач, Н. М. Билявина, Породоразрушающий и металлообрабатывающий инструмент — техника и технология его изготовления и применения (Киев: 2015), вып. 18, с. 328.",
+				"tr":  "M. P. Bezhenar, S. M. Konoval, Ya. M. Romanenko, V. M. Tkach, N. M. Bilyavina, Porodorazrushayushchiy i Metalloobrabatyvayushchiy Instrument—Tekhnika i Tekhnologiya Ego Izgotovleniya i Primeneniya (Kiev: 2015), Iss. 18, p. 328 (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.ijrmhm.2015.01.015",
+				"or":  "L. Zhang, F. Lin, Zh. Lv, Ch. Xu, X. He, W. Wang, L. Li, Ch. Zhang, Ch. Chen, and L. Xia, Int. J. Refract. Met. Hard Mater., 50: 221 (2015).",
+				"tr":  "L. Zhang, F. Lin, Zh. Lv, Ch. Xu, X. He, W. Wang, L. Li, Ch. Zhang, Ch. Chen, and L. Xia, Int. J. Refract. Met. Hard Mater., 50: 221 (2015)."
+			},
+			{
+				"doi": "10.1016/S0272-8842(99)00093-0",
+				"or":  "E. Benko, A. Wyczesany, A. Bernasik, T. L. Barr, and E. Hoppe, Ceram. Int., 26, Iss. 5: 545 (2000).",
+				"tr":  "E. Benko, A. Wyczesany, A. Bernasik, T. L. Barr, and E. Hoppe, Ceram. Int., 26, Iss. 5: 545 (2000)."
+			}
+		]
+	}
+}

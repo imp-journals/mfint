@@ -1,0 +1,181 @@
+{
+	"_id":    "MFiNT.41.04.0481",
+	"year":   2019,
+	"volume": 41,
+	"issue":  4,
+	"pages":  [481,500],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["15.11.2018","28.01.2019"],
+	"PACS":   "81.05.Bx, 81.05.Ni, 81.07.Wx, 81.20.Wk, 81.40.Pq, 81.70.Bt",
+	"title":   {
+		"ua": "Комплексне дослідження метало-матричного композиту на основі Al, зміцненого гібридними наночастинками",
+		"en": "A Comprehensive Study of Aluminium Based Metal Matrix Composite Reinforced with Hybrid Nanoparticles",
+		"ru": "Комплексное исследование металло-матричного композита на основе Al, упрочнённого гибридными наночастицами"
+	},
+	"abstract": {
+		"ua": "У даному експериментальному дослідженні вивчено поведінку при механо-обробці алюмінієвої матриці, зміцненої гібридними нанокомпозитами, з урахуванням їх широкого застосування, зокрема, в системах опорних конструкцій. Алюмінієвий сплав, мідь (метал), окис алюмінію (кераміка) і графіт (алотропна форма вуглецю) були обрані для розробки композитів, вони виправдовують термін «гібридний». Ці матеріали було змішано в пропорції Al6061 — 70%, Al$_2$O$_3$ — 12%, Cu — 9%, Gr — 9% за масою та оброблено методом механічного леґування, в результаті чого середній розмір часток склав 70 нм. Методами скануючої електронної мікроскопії та рентґенівської дифрактометрії підтверджено, що матеріали перейшли в наностан. Пластини та стрижні, схожі за формою, були виготовлені з цих композиційних матеріалів методом лиття з перемішуванням при температурі 500°C та швидкості обертання 300 об/хв. В гібридних нанокомпозитах було досягнуто максимальних значень граничної міцності у 156 МПа та твердості у 431,4 МПа (44 HV). Для оцінки оброблюваності матеріалу було використано процес різання дроту шляхом електроерозійної обробки. Для багатокритеріальної оптимізації було використано метод Тагучі. Для одержання коефіцієнту кореляції здійснено дисперсійний аналіз. Невелике дослідження було також проведено, щоб зрозуміти особливості зносостійкості розроблюваного матеріалу. За нормальних умов навантаження спостерігалася швидкість зношування у 0,54$\\cdot10^{-10}$ м$^2$/кг.",
+		"en": "In this experimental investigation, the mechanical and machinability behaviour of aluminium matrix reinforced with hybrid nanocomposites are studied, considering their widespread application specifically in structural support systems. Aluminium alloy, copper (metal), Alumina (ceramic), and Graphite (an allotropic form of carbon) are chosen for the development of composites, and they justify the term hybrid. They are mixed in the proportion of Al6061—70%, Al$_2$O$_3$—12%, Cu—9%, Gr—9% by weight percentage and process by mechanical alloying method, resulting with an average particle size of 70 nm. The SEM and XRD analysis confirm that the materials enter into the nanoregime. Plate- and rod-like shapes are prepare with these composite materials by stir casting process at 500°C with rotational speed of 300 rpm. The maximum ultimate strength of 156 MPa and hardness of 431.4 MPa (44 HV) are achieved in the hybrid nanocomposites. The wire cut process assisted by electrical discharge machining is used to assess the machinability aspects of the material. The Taguchi methods of multi-objective optimization are successfully done. Analysis of variance is done to arrive at the correlation coefficient. Minor investigation is also done in order to understand the wear resistance of the material developed. The wear rate of 0.54$\\cdot10^{-10}$ m$^2$/kg is observed at normal loading condition.",
+		"ru": "В данном экспериментальном исследовании изучено поведение при механообработке алюминиевой матрицы, усиленной гибридными нанокомпозитами, с учётом их широкого применения, в частности, в системах опорных конструкций. Алюминиевый сплав, медь (металл), окись алюминия (керамика) и графит (аллотропная форма углерода) были выбраны для разработки композитов, они оправдывают термин «гибридный». Эти материалы были смешаны в пропорции Al6061 — 70%, Al$_2$O$_3$ — 12%, Cu — 9%, Gr — 9% по массе и обработаны методом механического легирования, в результате чего средний размер частиц составил 70 нм. Методами сканирующей электронной микроскопии и рентгеновской дифрактометрии подтверждено, что материалы перешли в наносостояние. Пластины и стержни, похожие по форме, были изготовлены из этих композиционных материалов методом литья с перемешиванием при температуре 500°C и скорости вращения 300 об/мин. В гибридных нанокомпозитах были достигнуты максимальные значения предельной прочности в 156 МПа и твёрдости в 431,4 МПа (44 HV). Для оценки обрабатываемости материала было использовано процесс резки проволоки путём электроэрозионной обработки. Для многокритериальной оптимизации был использован метод Тагучи. Для получения коэффициента корреляции осуществлен дисперсионный анализ. Небольшое исследование было также проведено, чтобы понять особенности износостойкости разрабатываемого материала. При нормальных условиях нагрузки наблюдалась скорость износа в 0,54$\\cdot10^{-10}$ м$^2$/кг."
+	},
+	"keywords": {
+		"ua": "нанопорошки, кераміка, метали і сплави, механічні випробування, механічна обробка, зношування",
+		"en": "nanopowders, ceramics, metals and alloys, mechanical testing, machining, wear",
+		"ru": "нанопорошки, керамика, металлы и сплавы, механические испытания, механическая обработка, износ"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Р. Венкатеш", "en": "R. Venkatesh", "ru": "Р. Венкатеш"},
+			"OID": [541]
+		},
+		{
+			"AID": {"ua": "Вадді Сешагірі Рао", "en": "Vaddi Seshagiri Rao", "ru": "Вадди Сешагири Рао"},
+			"OID": [542]
+		},
+		{
+			"AID": {"ua": "Сатхіш Ренгараджан", "en": "Sathish Rengarajan", "ru": "Сатхиш Ренгараджан"},
+			"OID": [542]
+		}
+	],
+	"references": {
+		"count": 27,
+		"list":  [
+			{
+				"doi": "10.1016/j.msea.2006.12.034",
+				"or":  "G. M. Owolabi, A. G. Odeshi, M. N. K. Singh, and M. N. Bassim, Mater. Sci. Eng. A, 457: 114 (2007).",
+				"tr":  "G. M. Owolabi, A. G. Odeshi, M. N. K. Singh, and M. N. Bassim, Mater. Sci. Eng. A, 457: 114 (2007)."
+			},
+			{
+				"doi": "10.1016/j.jmrt.2014.03.004",
+				"or":  "D. S. Prasad and C. Shoba, J. Mater. Res. Tech., 3, Iss. 2: 172 (2014).",
+				"tr":  "D. S. Prasad and C. Shoba, J. Mater. Res. Tech., 3, Iss. 2: 172 (2014)."
+			},
+			{
+				"doi": "10.4236/jmmce.2011.1012088",
+				"or":  "K. K. Alaneme and M. O. Bodunrin, J. Miner. Mater. Char. Eng., 10 (12): 1153 (2011).",
+				"tr":  "K. K. Alaneme and M. O. Bodunrin, J. Miner. Mater. Char. Eng., 10 (12): 1153 (2011)."
+			},
+			{
+				"doi": "10.1016/j.jmatprotec.2004.07.068",
+				"or":  "M. Kok, J. Mater. Process. Tech., 161 (3): 381 (2005).",
+				"tr":  "M. Kok, J. Mater. Process. Tech., 161 (3): 381 (2005)."
+			},
+			{
+				"doi": "10.1007/s11665-011-0108-9",
+				"or":  "R. D. Haghighi, S. A. J. Jahromi, and A. Moresedgh, J. Mater. Eng. Perform., 21: 1885 (2012).",
+				"tr":  "R. D. Haghighi, S. A. J. Jahromi, and A. Moresedgh, J. Mater. Eng. Perform., 21: 1885 (2012)."
+			},
+			{
+				"doi": "10.1016/j.compositesb.2013.08.013",
+				"or":  "A. Baradeswaran and A. Elaya Perumal, Composite Part B: Engineering, 56: 464 (2014).",
+				"tr":  "A. Baradeswaran and A. Elaya Perumal, Composite Part B: Engineering, 56: 464 (2014)."
+			},
+			{
+				"doi": "10.1016/j.msea.2008.01.045",
+				"or":  "Akhtar S. Khan, Babak Farrokh, and Laszlo Takacs, Mater. Sci. Eng. A, 489: 77 (2008).",
+				"tr":  "Akhtar S. Khan, Babak Farrokh, and Laszlo Takacs, Mater. Sci. Eng. A, 489: 77 (2008)."
+			},
+			{
+				"doi": "10.15407/mfint.38.04.0545",
+				"or":  "M. O. Vasyliev, B. M. Mordyuk, S. I. Sidorenko, S. M. Voloshko, A. P. Burmak, and M. V. Kindrachuk, Metallofiz. Noveishie Tekhnol., 38, No. 4: 545 (2016).",
+				"tr":  "M. O. Vasyliev, B. M. Mordyuk, S. I. Sidorenko, S. M. Voloshko, A. P. Burmak, and M. V. Kindrachuk, Metallofiz. Noveishie Tekhnol., 38, No. 4: 545 (2016)."
+			},
+			{
+				"doi": "10.1007/BF00576776",
+				"or":  "N. Raghumatham, E. K. Loannidis, and T. Sheppard, J. Mater. Sci., 26: 985 (1991).",
+				"tr":  "N. Raghumatham, E. K. Loannidis, and T. Sheppard, J. Mater. Sci., 26: 985 (1991)."
+			},
+			{
+				"doi": "10.1007/BF00456563",
+				"or":  "Y. N. Liang and Z. Y. Ma, J. Mater. Sci. Lett., 1: 114 (1995).",
+				"tr":  "Y. N. Liang and Z. Y. Ma, J. Mater. Sci. Lett., 1: 114 (1995)."
+			},
+			{
+				"doi": "10.1016/j.triboint.2016.07.018",
+				"or":  "N. Ch. Kaushik and R. N. Rao, Tribol. Int., 103: 298 (2016).",
+				"tr":  "N. Ch. Kaushik and R. N. Rao, Tribol. Int., 103: 298 (2016)."
+			},
+			{
+				"doi": "10.1016/j.wear.2014.07.011",
+				"or":  "B. N. Mordyuk, G. I. Prokopenko, Yu. V. Milman, M. O. Iefimov, E. Grinkevych, A. V. Sameljuk, and I. V. Tkachenko, Wear, 319: 84 (2014).",
+				"tr":  "B. N. Mordyuk, G. I. Prokopenko, Yu. V. Milman, M. O. Iefimov, E. Grinkevych, A. V. Sameljuk, and I. V. Tkachenko, Wear, 319: 84 (2014)."
+			},
+			{
+				"doi": "10.1179/174328405X18601",
+				"or":  "E. Gikunoo, O. Omotoso, and I. N. A. Oguocha, Mater. Sci. Tech., 21 (2): 143-52 (2005).",
+				"tr":  "E. Gikunoo, O. Omotoso, and I. N. A. Oguocha, Mater. Sci. Tech., 21 (2): 143-52 (2005)."
+			},
+			{
+				"doi": "10.1007/s13369-013-0657-3",
+				"or":  "Sanjeev Garg, Alakesh Manna, and Ajai Jain, Arab J. Sci. Eng., 38: 3471 (2013).",
+				"tr":  "Sanjeev Garg, Alakesh Manna, and Ajai Jain, Arab J. Sci. Eng., 38: 3471 (2013)."
+			},
+			{
+				"doi": "10.1590/1980-5373-mr-2015-0625",
+				"or":  "Mendoza-Duarte José Manuel, Estrada-Guel Ivanovich, Robles-Hernandez Francisco Carlos, Carreño-Gallardo Caleb, López-Meléndez Claudia, and Martínez-Sánchez Roberto, Mat. Res., 19, Suppl. 1: 13 (2016).",
+				"tr":  "Mendoza-Duarte José Manuel, Estrada-Guel Ivanovich, Robles-Hernandez Francisco Carlos, Carreño-Gallardo Caleb, López-Meléndez Claudia, and Martínez-Sánchez Roberto, Mat. Res., 19, Suppl. 1: 13 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "Sanjeev Kumar Garg and Alakesh Manna, J. Eng. Res., 1, No. 1: 213 (2013).",
+				"tr":  "Sanjeev Kumar Garg and Alakesh Manna, J. Eng. Res., 1, No. 1: 213 (2013)."
+			},
+			{
+				"doi": "10.1007/s40430-015-0394-5",
+				"or":  "S.K. Garg, A. Manna, and A. Jain, J Braz. Soc. Mech. Sci. Eng., 38: 481 (2016).",
+				"tr":  "S.K. Garg, A. Manna, and A. Jain, J Braz. Soc. Mech. Sci. Eng., 38: 481 (2016)."
+			},
+			{
+				"doi": "10.5545/sv-jme.2014.1914",
+				"or":  "Vikas Pare, J. Mech. Eng., 61, No. 3: 176 (2015).",
+				"tr":  "Vikas Pare, J. Mech. Eng., 61, No. 3: 176 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "B. Stojanovic, M. Babic, S. Mitrovic, A. Vencl, N. Miloradovic, and M. Pantic, J. Balkan Tribol. Assoc., 19, No. 1: 83 (2013).",
+				"tr":  "B. Stojanovic, M. Babic, S. Mitrovic, A. Vencl, N. Miloradovic, and M. Pantic, J. Balkan Tribol. Assoc., 19, No. 1: 83 (2013)."
+			},
+			{
+				"doi": "10.1080/10426914.2017.1279297",
+				"or":  "N. E. Arun Kumar and A. Suresh Babu, Mater. Manuf. Processes, 33, No. 1: 85 (2017).",
+				"tr":  "N. E. Arun Kumar and A. Suresh Babu, Mater. Manuf. Processes, 33, No. 1: 85 (2017)."
+			},
+			{
+				"doi": "",
+				"or":  "N. E. Arun Kumar, A. Suresh Babu, and D. Murali, International Journal of Chemical Sciences, Published by Sadguru Publications, Vol. 14, Iss. 2: 1051 (2016).",
+				"tr":  "N. E. Arun Kumar, A. Suresh Babu, and D. Murali, International Journal of Chemical Sciences, Published by Sadguru Publications, Vol. 14, Iss. 2: 1051 (2016)."
+			},
+			{
+				"doi": "10.1016/j.dt.2018.05.003",
+				"or":  "R. Venkatesh and V. S. Rao, Defence Tech., 14: 346 (2018).",
+				"tr":  "R. Venkatesh and V. S. Rao, Defence Tech., 14: 346 (2018)."
+			},
+			{
+				"doi": "10.1016/j.matdes.2014.08.039",
+				"or":  "D. Jeyasimman, Mater. Des., 64: 783 (2014).",
+				"tr":  "D. Jeyasimman, Mater. Des., 64: 783 (2014)."
+			},
+			{
+				"doi": "10.1016/j.matpr.2018.06.377",
+				"or":  "Ratna Deepika and Manikonda Satyanarayana, Mater. Today Proc., 5, Iss. 9, Part 3: 20104 (2018).",
+				"tr":  "Ratna Deepika and Manikonda Satyanarayana, Mater. Today Proc., 5, Iss. 9, Part 3: 20104 (2018)."
+			},
+			{
+				"doi": "10.1016/j.matpr.2018.03.009",
+				"or":  "S. Baskaran and V. Anandakrishnan, Mater. Today Proc., 5, Iss. 6: 14273 (2018).",
+				"tr":  "S. Baskaran and V. Anandakrishnan, Mater. Today Proc., 5, Iss. 6: 14273 (2018)."
+			},
+			{
+				"doi": "10.1533/9780857092199.169",
+				"or":  "Inderdeep Singh, Sarbjit Singh, and Abhishek Singh, Mach. Mach. Tool., Research and Development Woodhead Publishing Reviews: Mechanical Engineering Series: 169 (2013).",
+				"tr":  "Inderdeep Singh, Sarbjit Singh, and Abhishek Singh, Mach. Mach. Tool., Research and Development Woodhead Publishing Reviews: Mechanical Engineering Series: 169 (2013)."
+			},
+			{
+				"doi": "10.1016/j.ijmachtools.2014.07.003",
+				"or":  "A. Pramanik, International J. Mach. Tool. Manufacture, 86, November: 44 (2014).",
+				"tr":  "A. Pramanik, International J. Mach. Tool. Manufacture, 86, November: 44 (2014)."
+			}
+		]
+	}
+}

@@ -1,0 +1,93 @@
+{
+	"_id":    "MFiNT.40.09.1201",
+	"year":   2018,
+	"volume": 40,
+	"issue":  9,
+	"pages":  [1201,1207],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["12.03.2018"],
+	"PACS":   "61.72.Cc, 64.75.Op, 66.30.Dn, 66.30.Ny, 66.30.Pa, 68.35.Fx, 68.35.Rh",
+	"title":   {
+		"ua": "Аналітично розв’язні диференційні рівняння дифузії, що описують ріст проміжних фаз",
+		"en": "Analytically Solvable Differential Diffusion Equations Describing the Intermediate Phase Growth",
+		"ru": "Аналитически разрешимые дифференциальные уравнения диффузии, описывающие рост промежуточных фаз"
+	},
+	"abstract": {
+		"ua": "Запропоновано аналітичну методу розв’язування диференційного рівняння, що описує кінетику утворення інтерметалевої фази вздовж межі між зернами з одночасним проникненням у самі зерна. Розглянуто модель, який описує кінетику утворення інтерметалевої фази з точкового джерела всередині полікристалічних зерен. Запропоновано відповідну аналітичну методу розв’язування диференційного рівняння такого моделю. Проаналізовано дифузійні режими (параболічний, кубічний, четвертого степеня) для різних масштабів — від нанометрового до мікрометрового та міліметрового.",
+		"en": "Analytical method to solve differential diffusion equations describing the growth of the phase wedge during the intermetallic-compound formation with a narrow concentration range of homogeneity in bicrystals is proposed. A model describing the diffusion phase growth from point source inside the polycrystal grains is regarded. Analytical method to solve differential diffusion equations for such a model is suggested. Parabolic, cubic, and fourth power diffusion regimes for different scales from nanometers to micrometers and millimeters are analysed.",
+		"ru": "Предлагается аналитический метод решения дифференциального уравнения, которое описывает кинетику образования интерметаллического соединения вдоль границы между зёрнами с одновременным проникновением в сами зёрна. Рассматривается модель, которая описывает кинетику образования интерметаллического соединения из точечного источника внутри поликристаллических зёрен. Предлагается соответствующий аналитический метод решения дифференциального уравнения такой модели. Анализируются диффузионные режимы (параболический, кубический, четвёртой степени) для разных масштабов — от нанометрового до микрометрового и миллиметрового."
+	},
+	"keywords": {
+		"ua": "дифузія, реакції, закон зростання фази, інтерметалеві сполуки, міжфазні межі",
+		"en": "diffusion, reaction, phase-growth law, intermetallic compounds, grain boundaries",
+		"ru": "диффузия, реакции, закон роста фазы, интерметаллические соединения, межфазные границы"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. В. Ярмоленко", "en": "M. V. Yarmolenko", "ru": "М. В. Ярмоленко"},
+			"OID": [244]
+		}
+	],
+	"references": {
+		"count": 11,
+		"list":  [
+			{
+				"doi": "10.4236/jmp.2018.92009",
+				"or":  "H. Cho, K.-M. Yamada, and T. Okino, J. Mod. Phys., 9, No. 2: 130 (2018).",
+				"tr":  "H. Cho, K.-M. Yamada, and T. Okino, J. Mod. Phys., 9, No. 2: 130 (2018)."
+			},
+			{
+				"doi": "",
+				"or":  "K. P. Gurov, A. M. Gusak, and M. V. Yarmolenko, Metallofizika, 10, No. 3: 91 (1988) (in Russian).",
+				"tr":  "K. P. Gurov, A. M. Gusak, and M. V. Yarmolenko, Metallofizika, 10, No. 3: 91 (1988) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.353805",
+				"or":  "A. M. Gusak and M. V. Yarmolenko, J. Appl. Phys., 73, No. 10: 4881 (1993).",
+				"tr":  "A. M. Gusak and M. V. Yarmolenko, J. Appl. Phys., 73, No. 10: 4881 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Bogdanov, A. M. Gusak, L. N. Paritskaya, and M. V. Yarmolenko, Metallofizika, 12, No. 3: 60 (1990) (in Russian).",
+				"tr":  "V. V. Bogdanov, A. M. Gusak, L. N. Paritskaya, and M. V. Yarmolenko, Metallofizika, 12, No. 3: 60 (1990) (in Russian)."
+			},
+			{
+				"doi": "10.1007/BF00862930",
+				"or":  "M. V. Yarmolenko, A. M. Gusak, and K. P. Gurov, J. Eng. Phys. Thermophys., 65, Iss. 3: 876 (1993).",
+				"tr":  "M. V. Yarmolenko, A. M. Gusak, and K. P. Gurov, J. Eng. Phys. Thermophys., 65, Iss. 3: 876 (1993)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/DDF.143-147.1567",
+				"or":  "M. V. Yarmolenko, Defect Diffusion Forum, 143–147: 1567 (1997).",
+				"tr":  "M. V. Yarmolenko, Defect Diffusion Forum, 143–147: 1567 (1997)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/DDF.143-147.509",
+				"or":  "M. V. Yarmolenko, Defect Diffusion Forum, 143–147: 509 (1997).",
+				"tr":  "M. V. Yarmolenko, Defect Diffusion Forum, 143–147: 509 (1997)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/SSP.72.251",
+				"or":  "M. V. Yarmolenko, Solid State Phenom., 72: 251 (2000).",
+				"tr":  "M. V. Yarmolenko, Solid State Phenom., 72: 251 (2000)."
+			},
+			{
+				"doi": "10.15407/mfint.38.10.1279",
+				"or":  "T. V. Zaporozhets, N. V. Storozhuk, and A. M. Gusak, Metallofiz. Noveishie Tekhnol., 38, No. 10: 1279 (2016).",
+				"tr":  "T. V. Zaporozhets, N. V. Storozhuk, and A. M. Gusak, Metallofiz. Noveishie Tekhnol., 38, No. 10: 1279 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "K. P. Gurov, A. M. Gusak, V. V. Kondrat’ev, and M. V. Yarmolenko, Fiz. Met. Metalloved., 66, No. 1:34 (1988) (in Russian).",
+				"tr":  "K. P. Gurov, A. M. Gusak, V. V. Kondrat'ev, and M. V. Yarmolenko, Fiz. Met. Metalloved., 66, No. 1:34 (1988) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2017.11.036",
+				"or":  "K. N. Tu and A. M. Gusak, Scr. Mater., 146: 133 (2018).",
+				"tr":  "K. N. Tu and A. M. Gusak, Scr. Mater., 146: 133 (2018)."
+			}
+		]
+	}
+}

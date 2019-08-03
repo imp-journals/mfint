@@ -1,0 +1,86 @@
+{
+	"_id":    "MFiNT.41.01.0071",
+	"year":   2019,
+	"volume": 41,
+	"issue":  1,
+	"pages":  [71,100],
+	"rubric": 18,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["25.05.2018","12.12.2018"],
+	"PACS":   "06.60.-c, 46.40.Cd, 46.50.+a, 81.05.Zx, 81.40.Np, 81.70.-q, 83.85.Ns",
+	"title":   {
+		"ua": "Експериментальне обґрунтування ефективности використання метод кваліметрії",
+		"en": "Experimental Justification of Efficiency of Application of Methods of a Qualimetry",
+		"ru": "Экспериментальное обоснование эффективности применения методов квалиметрии"
+	},
+	"abstract": {
+		"ua": "В статті представлено результати експериментальних досліджень імпульсно-ударного навантаження на стопи з пам’яттю форми, полімери та метали. В ході експерименту були одержані якісні характеристики матеріялів шляхом застосування метод кваліметрії. Обрано п’ять динамічних характеристик навантажених стопів, полімерів і металів, результати оцінювання яких нанесено на циклограми «павутиння якости». Крім того, для досліджуваних матеріялів були складені таблиці ґрадацій якости на основі застосування функції бажаности. Також практично доведено, що дані номограм з визначення покажчика бажаности можна використовувати для оцінювання якости зразків з поліметилметакрилату за імпульсного навантаження за такими параметрами, як амплітуда навантаження, довжина поширення тріщини й енергія. В результаті досліджень встановлено, що якість зразка можна визначати двома шляхами: за комплексним покажчиком або за окремими одиничними параметрами. Встановлено залежність довжини пророслої тріщини від середнього розміру наповнювача для різних зразків матеріялів. Доведено, що оптимальні характеристики з точки зору опору ударному навантаженню має сталь 30ХН4М.",
+		"en": "The paper presents the results of experimental studies of impulse-shock loading on alloys with shape-memory effect, polymers, and metals. During the experiment, qualitative characteristics of materials are obtained due to use of qualimetry methods. Five dynamical characteristics of loaded alloys, polymers, and metals are selected; the results of their estimations are plotted on the ‘web of quality’ cyclograms. In addition, for the investigated materials, quality-grading tables are composed on basis of the desirability function using. As practically proved, the nomograms’ data on definition of the desirability index can be used to evaluate the quality of samples from polymethyl methacrylate at pulsed loading by such parameters as load amplitude, crack propagation length, and energy. As a result of the research, it is found that the quality of the sample can be determined by two ways: by complex index or by individual unit parameters. The dependence of the length of the sprouted crack on the average filler size for different materials of samples is established. As proved, the steel 30ХН4М has optimal characteristics in terms of resistance to impact load.",
+		"ru": "В статье представлены результаты экспериментальных исследований импульсно-ударной нагрузки на сплавы с памятью формы, полимеры и металлы. В ходе эксперимента были получены качественные характеристики материалов посредством применения методов квалиметрии. Выбраны пять динамических характеристик нагружённых сплавов, полимеров и металлов, результаты оценки которых нанесены на циклограммы «паутины качества». Кроме того, для исследуемых материалов составлены таблицы градаций качества на основе применения функции желательности. Также практически доказано, что данные номограмм по определению показателя желательности можно использовать для оценки качества образцов из полиметилметакрилата при импульсной нагрузке по таким параметрам, как амплитуда нагрузки, длина распространения трещины и энергия. В результате исследований установлено, что качество образца можно определять двумя способами: по комплексному показателю или по отдельным единичным параметрам. Установлена зависимость длины проросшей трещины от среднего размера наполнителя для различных образцов материалов. Доказано, что оптимальными характеристиками с точки зрения сопротивления ударной нагрузке обладает сталь 30ХН4М."
+	},
+	"keywords": {
+		"ua": "стопи, полімери, метали, високошвидкісне навантаження, методи кваліметрії",
+		"en": "alloys, polymers, metals, high-speed loading, methods of qualimetry",
+		"ru": "сплавы, полимеры, металлы, высокоскоростное нагружение, методы квалиметрии"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. В. Куриляк", "en": "V. V. Kurylyak", "ru": "В. В. Куриляк"},
+			"OID": [267]
+		},
+		{
+			"AID": {"ua": "Г. І. Хімічева", "en": "G. I. Khimicheva", "ru": "А. И. Химичева"},
+			"OID": [244]
+		},
+		{
+			"AID": {"ua": "О. М. Хорошилов", "en": "О. M. Khoroshilov", "ru": "О. Н. Хорошилов"},
+			"OID": [268]
+		}
+	],
+	"references": {
+		"count": 8,
+		"list":  [
+			{
+				"doi": "10.15407/ufm.17.04.375",
+				"or":  "В. В. Куриляк, Г. І. Хімічева, Успехи физ. мет., 17, № 4: 375 (2016).",
+				"tr":  "V. V. Kurylyak and G. I. Khimicheva, Usp. Fiz. Met., 17, No. 4: 375 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15587/1729-4061.2015.50562",
+				"or":  "А. И. Химичева, В. В. Курыляк, Восточно-европейский журнал передовых технологий, 5, № 1(77): 70 (2015).",
+				"tr":  "A. I. Himicheva and V. V. Kuryliak, Vostochno-Evropeyskiy Zhurnal Peredovykh Tekhnologiy, 5, No. 1(77): 70 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Куриляк, Технологический аудит и резервы производства, № 4(3): 53 (2016).",
+				"tr":  "V. V. Kuryliak, Tekhnologicheskiy Audit i Rezervy Proizvodstva, No. 4(3): 53 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Куриляк, Г. І. Хімічева, Вісник Національного технічного університету «ХПІ». Серія: Проблеми механічного приводу, № 35: 80 (2015).",
+				"tr":  "V. V. Kuryliak and A. I. Himicheva, Visnyk Natsional'noho Tekhnichnoho Universytetu 'KhPI'. Seriya: Problemy Mekhanichnoho Pryvodu, No. 35: 80 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. О. Машта, Вісник Львівської комерційної академії, № 12: 44 (2011).",
+				"tr":  "N. O. Mashta, Visnyk L'vivs'koyi Komertsiynoyi Akademiyi, No. 12: 44 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. З. Бубела, Т. Г. Бойко, Є. В. Походько, П. Г. Столярчук, Методи та прилади контролю якості, 1, № 18: 79 (2007).",
+				"tr":  "T. Z. Bubela, T. H. Boyko, Ye. V. Pokhod'ko, and P. H. Stolyarchuk, Metody ta Prylady Kontrolyu Yakosti, 1, No. 18: 79 (2007) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Горбашко, Управление качеством (Санкт-Петербург: Издательство Юрайт: 2017).",
+				"tr":  "E. A. Gorbashko, Upravlenie Kachestvom [Quality Control] (Sankt-Petersburg: Izdatel'stvo Yurayt: 2017) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.18.02.155",
+				"or":  "В. В. Куриляк, Г. І. Хімічева, Успехи физ. мет., 18, № 2: 155 (2017).",
+				"tr":  "V. V. Kurylyak and G. I. Khimicheva, Usp. Fiz. Met., 18, No. 2: 155 (2017) (in Ukrainian)."
+			}
+		]
+	}
+}

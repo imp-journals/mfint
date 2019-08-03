@@ -1,0 +1,157 @@
+{
+	"year":   2017,
+	"volume": 39,
+	"issue":  1,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  2,
+			"pages":  [1,9],
+			"title": {
+				"ua": "Ефекти повної багатократності дифузного розсіяння в кристалах з дефектами другого класу за Кривоглазом",
+				"en": "Effects of Total Multiplicity of Diffuse Scattering in Crystals Containing the Second-Class Defects According to Krivoglaz’s Classification",
+				"ru": "Эффекты полной многократности диффузного рассеяния в кристаллах с дефектами второго класса по Кривоглазу"
+			},
+			"autors": {
+				"ua": "С. В. Дмітрієв, В. Б. Молодкін, М. Г. Толмачов, О. С. Скакунова, С. В. Лізунова, Р. В. Лехняк, К. В. Фузік, Г. О. Веліховський, О. П. Васькевич, В. В. Лізунов, А. А. Катасонов, І. Е. Голентус, С. Й. Оліховський, Л. М. Скапа, В. В. Молодкін",
+				"en": "S. V. Dmitriev, V. B. Molodkin, M. G. Tolmachev, O. S. Skakunova, S. V. Lizunova, R. V. Lekhnyak, K. V. Fuzik, G. O. Velikhovskii, O. P. Vaskevich, V. V. Lizunov, A. A. Katasonov, I. E. Golentus, S. I. Olikhovskii, L. M. Skapa, and V. V. Molodkin",
+				"ru": "С. И. Дмитриев, В. Б. Молодкин, М. Г. Толмачёв, Е. С. Скакунова, С. В. Лизунова, Р. В. Лехняк, Е. В. Фузик, Г. О. Велиховский, О. П. Васькевич, В. В. Лизунов, А. А. Катасонов, И. Э. Голентус, С. И. Олиховский, Л. Н. Скапа, В. В. Молодкин"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [11,32],
+			"title": {
+				"ua": "Фазові перетворення та магнітний стан у нанорозмірній металооксидній сполуці Sr$_{2}$FeMoO$_{6-\\delta}$",
+				"en": "Phase Transformations and Magnetic State in the Nanoscale Metal-Oxide Sr$_{2}$FeMoO$_{6-\\delta}$ Compounds",
+				"ru": "Фазовые превращения и магнитное состояние в наноразмерном металлооксидном соединении Sr$_{2}$FeMoO$_{6-\\delta}$"
+			},
+			"autors": {
+				"ua": "М. М. Крупа, М. О. Каланда, М. В. Ярмолич, С. Є. Дем’янов, М. В. Сілібін, І. В. Шарай",
+				"en": "M. M. Krupa, M. A. Kalanda, M. V. Jarmolich, S. E. Demyanov, M. V. Silibin, and I. V. Sharay",
+				"ru": "Н. Н. Крупа, Н. А. Каланда, М. В. Ярмолич, С. Е. Демьянов, М. В. Силибин, И. В. Шарай"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [33,48],
+			"title": {
+				"ua": "Термоактиваційний аналіз температурної залежності напруження плинності в твердих розчинах з ГЦК-ґратницею",
+				"en": "Thermoactivation Analysis of the Flow-Stress–Temperature Dependence in the F.C.C. Solid Solutions",
+				"ru": "Термоактивационный анализ температурной зависимости напряжения течения в твёрдых растворах с ГЦК-решёткой"
+			},
+			"autors": {
+				"ua": "С. О. Фірстов, Т. Г. Рогуль",
+				"en": "S. O. Firstov and T. G. Rogul",
+				"ru": "С. А. Фирстов, Т. Г. Рогуль"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [49,68],
+			"title": {
+				"ua": "Особливості формування структурно-фазового стану поверхневих шарів стопу Д16 внаслідок ультразвукового ударного оброблення залізним бойком в різних середовищах",
+				"en": "Peculiarities of Structure and Phase Formation in the Surface Layers of 2024 Aluminium Alloy due to Ultrasonic Impact Treatment in Various Environments",
+				"ru": "Особенности формирования структурно-фазового состояния поверхностных слоёв сплава Д16 вследствие ультразвуковой ударной обработки железным бойком в разных средах"
+			},
+			"autors": {
+				"ua": "М. О. Васильєв, Б. М. Мордюк, С. І. Сидоренко, С. М. Волошко, А. П. Бурмак",
+				"en": "M. O. Vasylyev, B. M. Mordyuk, S. I. Sidorenko, S. M. Voloshko, and A. P. Burmak",
+				"ru": "М. А. Васильев, Б. Н. Мордюк, С. И. Сидоренко, С. М. Волошко, А. П. Бурмак"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [69,81],
+			"title": {
+				"ua": "Продовження ресурсу деталей силових установок авіаційної наземної техніки в умовах експлуатації",
+				"en": "Extension of Resource of Power-Plants’ Parts of Aviation Ground Equipment under Operating Conditions",
+				"ru": "Продление ресурса деталей силовых установок авиационной наземной техники в условиях эксплуатации"
+			},
+			"autors": {
+				"ua": "М. Ф. Дмитриченко, В. В. Варюхно, А. В. Кулініч, А. Г. Довгаль, В. П. Коба",
+				"en": "M. F. Dmitrichenko, V. V. Varyuhno, A. V. Kulinich, A. G. Dovgal, and V. P. Koba",
+				"ru": "Н. Ф. Дмитриченко, В. В. Варюхно, А. В. Кулинич, А. Г. Довгаль, В. П. Коба"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [83,91],
+			"title": {
+				"ua": "Лазерне твердофазне леґування алюмінію Хромом",
+				"en": "Laser Solid-Phase Alloyage of Aluminium with Chromium",
+				"ru": "Лазерное твёрдофазное легирование алюминия хромом"
+			},
+			"autors": {
+				"ua": "М. С. Кашкарьов, О. В. Филатов, О. Є. Погорелов",
+				"en": "M. S. Kashkarov, O. V. Filatov, and O. E. Pogorelov",
+				"ru": "М. С. Кашкарьов, А. В. Филатов, А. Е. Погорелов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [93,104],
+			"title": {
+				"ua": "Структура та властивості композиційних ніклевих покриттів, одержаних за допомогою програмованого імпульсного току",
+				"en": "Structure and Properties of the Composite Nickel Coatings Obtained by the Programmable Pulse Current",
+				"ru": "Структура и свойства композиционных никелевых покрытий, полученных с помощью программируемого импульсного тока"
+			},
+			"autors": {
+				"ua": "В. А. Заблудовський, В. В. Титаренко, Е. Ф. Штапенко",
+				"en": "V. O. Zabludovsky, V. V. Tytarenko, and E. F. Shtapenko",
+				"ru": "В. А. Заблудовский, В. В. Титаренко, Э. Ф. Штапенко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [105,115],
+			"title": {
+				"ua": "Вплив напруженого стану на формування фази $L1_{0}$-FePt в плівці Fe$_{52}$Pt$_{48}$ на підкладинці Al$_{2}$O$_{3}$",
+				"en": "Influence of the Stress State on $L1_{0}$-FePt Phase Formation within the Fe$_{52}$Pt$_{48}$ Film on Al$_{2}$O$_{3}$ Substrate",
+				"ru": "Влияние напряжённого состояния на формирование фазы $L1_{0}$-FePt в плёнке Fe$_{52}$Pt$_{48}$ на подложке Al$_{2}$O$_{3}$"
+			},
+			"autors": {
+				"ua": "М. Ю. Вербицька, М. Н. Шаміс, К. В. Сліпченко, Т. І. Вербицька, Ю. М. Макогон",
+				"en": "M. Yu. Verbytska, M. N. Shamis, K. V. Slipchenko, T. I. Verbytska, and Iu. M. Makogon",
+				"ru": "М. Ю. Вербицкая, М. Н. Шамис, К. В. Слипченко, Т. И. Вербицкая, Ю. Н. Макогон"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [117,140],
+			"title": {
+				"ua": "Обґрунтування механоплазмового ефекту, що виникає в процесі механічного обробляння металу в мастильно-охолодних технологічних засобах",
+				"en": "Justification of Mechanoplasmic Effect Arising During a Process of Mechanical Treatment of Metal in Lubricant-Cooling Agents",
+				"ru": "Обоснование механоплазменного эффекта, возникающего в процессе механической обработки металла в смазочно-охлаждающих технологических средствах"
+			},
+			"autors": {
+				"ua": "О. І. Сошко, В. О. Сошко",
+				"en": "O. I. Soshko and V. O. Soshko",
+				"ru": "А. И. Сошко, В. А. Сошко"
+			}
+		},
+		{
+			"type":    2,
+			"rubric":  9,
+			"pages":  [141,141],
+			"title": {
+				"ua": "Список помилок: Вплив MoZrN-покриття на сталь XC100 [Металлофиз. новейшие технол., 38, № 7: 903–909 (2016), DOI: 10.15407/mfint.38.07.0903]",
+				"en": "Erratum: Effect of MoZrN Coating on a Steel XC100 [Metallofiz. Noveishie Tekhnol., 38, No. 7: 903–909 (2016), DOI: 10.15407/mfint.38.07.0903]",
+				"ru": "Список опечаток: Влияние MoZrN-покрытия на сталь XC100 [Металлофиз. новейшие технол., 38, № 7: 903–909 (2016), DOI: 10.15407/mfint.38.07.0903]"
+			},
+			"autors": {
+				"ua": "А. Аббуді, Б. Меддур, Б. Черміме, Х. Джебаілі, М. Бріуа",
+				"en": "A. Abboudi, B. Meddour, B. Chermime, H. Djebaili, and M. Brioua",
+				"ru": "А. Аббуди, Б. Меддур, Б. Чермиме, Х. Джебаили, М. Бриуа"
+			}
+		}
+	]
+}

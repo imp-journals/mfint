@@ -1,0 +1,172 @@
+{
+	"_id":    "MFiNT.41.02.0157",
+	"year":   2019,
+	"volume": 41,
+	"issue":  2,
+	"pages":  [157,171],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["29.10.2018"],
+	"PACS":   "66.30.Pa, 68.55.-a, 75.50.Ss, 75.50.Vv, 75.70.Ak, 75.70.Kw, 81.40.Ef",
+	"title":   {
+		"ua": "Вплив атмосфери відпалу на магнетні властивості нанорозмірних плівок стопу FePt",
+		"en": "Influence of an Atmosphere of Annealing on Magnetic Properties of Nanosize Films of FePt Alloy",
+		"ru": "Влияние атмосферы отжига на магнитные свойства наноразмерных плёнок сплава FePt"
+	},
+	"abstract": {
+		"ua": "Досліджено особливості формування структурно-фазових станів і магнетні властивості плівок стопу FePt товщиною у 30 нм за умов термічного оброблення в інертній (Ar) та комбінованій (Ar + 3% H$_2$) атмосферах в інтервалі температур 500–900°C. Виявлено ефект термічної стабілізації розміру областей когерентного розсіяння впорядкованої фази $L1_0$-FePt та значень поверхневої шерсткости нанорозмірних плівок при додаванні водню до складу атмосфери відпалу. Вплив водню також проявляється у пришвидшенні процесів впорядкування та збільшенні коерцитивної сили плівкового матеріялу за низьких температур порівняно з нейтральною атмосферою відпалу.",
+		"en": "The features of the structure and phase-composition formations as well as magnetic properties of the 30 nm thick FePt-alloy films after heat treatment in the inert (Ar) and combined (Ar + 3% H$_2$) atmospheres in the temperature range 500–900°C are investigated. The effect of thermal stabilization of both the size of the coherent-scattering areas of the ordered $L1_0$-FePt phase and values of the films’ surface roughness with addition of hydrogen to the annealing atmosphere is revealed. Hydrogen influence also appears in acceleration of the ordering processes and increasing of film-material coercivity at low temperatures in comparison with the neutral annealing atmosphere.",
+		"ru": "Исследованы особенности формирования структурно-фазовых состояний и магнитные свойства плёнок сплава FePt толщиной 30 нм в условиях термической обработки в инертной (Ar) и комбинированной (Ar + 3% H$_2$) атмосферах в интервале температур 500–900°C. Выявлен эффект термической стабилизации размера областей когерентного рассеяния упорядоченной фазы $L1_0$-FePt и значений шероховатости поверхности наноразмерных плёнок при добавлении водорода в состав атмосферы отжига. Также влияние водорода проявляется в ускорении процессов упорядочения и увеличении коэрцитивной силы плёночного материала при низких температурах по сравнению с нейтральной атмосферой отжига."
+	},
+	"keywords": {
+		"ua": "нанорозмірна плівка, впорядкування, атмосфера відпалу, коерцитивна сила",
+		"en": "nanosize film, ordering, annealing atmosphere, coercivity",
+		"ru": "наноразмерная плёнка, упорядочение, атмосфера отжига, коэрцитивная сила"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. О. Круглов", "en": "I. O. Kruhlov", "ru": "И. А. Круглов"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "В. В. Могилко", "en": "V. V. Mohylko", "ru": "В. В. Могилко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "І. А. Владимирський", "en": "I. A. Vladymyrskyi", "ru": "И. А. Владимирский"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "Ю. М. Макогон", "en": "Iu. M. Makogon", "ru": "Ю. М. Макогон"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "М. О. Васильєв", "en": "M. O. Vasylyev", "ru": "Н. А. Васильев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. І. Сидоренко", "en": "S. I. Sidorenko", "ru": "С. И. Сидоренко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "С. М. Волошко", "en": "S. M. Voloshko", "ru": "С. М. Волошко"},
+			"OID": [202]
+		}
+	],
+	"references": {
+		"count": 22,
+		"list":  [
+			{
+				"doi": "10.1063/1.372892",
+				"or":  "J. A. Christodoulides, Y. Huang, Y. Zhang, G. C. Hadjipanayis, I. Panagiotopoulos, and D. Niarchos, J. Appl. Phys., 87, No. 9: 6938 (2000).",
+				"tr":  "J. A. Christodoulides, Y. Huang, Y. Zhang, G. C. Hadjipanayis, I. Panagiotopoulos, and D. Niarchos, J. Appl. Phys., 87, No. 9: 6938 (2000)."
+			},
+			{
+				"doi": "10.1016/S0304-8853(03)00468-2",
+				"or":  "T. Shima, K. Takanashi, Y. K. Takahashi, K. Hono, G. Q. Li, and S. Ishio, J. Magn. Magn. Mater., 266, Nos. 1–2: 171 (2003).",
+				"tr":  "T. Shima, K. Takanashi, Y. K. Takahashi, K. Hono, G. Q. Li, and S. Ishio, J. Magn. Magn. Mater., 266, Nos. 1–2: 171 (2003)."
+			},
+			{
+				"doi": "10.1109/TMAG.2014.2355493",
+				"or":  "S. Pisana, Sh. Jain, J. W. Reiner, O. Mosendz, G. J. Parker, M. Staffaroni, O. Hellwig, and B. C. Stipe, IEEE Trans. Magn., 51, No. 4: 1 (2015).",
+				"tr":  "S. Pisana, Sh. Jain, J. W. Reiner, O. Mosendz, G. J. Parker, M. Staffaroni, O. Hellwig, and B. C. Stipe, IEEE Trans. Magn., 51, No. 4: 1 (2015)."
+			},
+			{
+				"doi": "10.1063/1.4730963",
+				"or":  "S. N. Hsiao, S. H. Liu, S. K. Chen, T. S. Chin, and H. Y. Lee, Appl. Phys. Lett., 100, No. 26: 261909 (2012).",
+				"tr":  "S. N. Hsiao, S. H. Liu, S. K. Chen, T. S. Chin, and H. Y. Lee, Appl. Phys. Lett., 100, No. 26: 261909 (2012)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2015.10.033",
+				"or":  "S. N. Hsiao, L. H. Chen, S. H. Liu, J. L. Tsai, and H. Y. Lee, J. Alloys Compd., 656: 876 (2016).",
+				"tr":  "S. N. Hsiao, L. H. Chen, S. H. Liu, J. L. Tsai, and H. Y. Lee, J. Alloys Compd., 656: 876 (2016)."
+			},
+			{
+				"doi": "10.1088/0022-3727/44/35/355001",
+				"or":  "C. Brombacher, C. Schubert, K. Neupert, M. Kehr, J. Donges, and M. Albrecht, J. Phys. D, Appl. Phys., 44, No. 35: 355001 (2011).",
+				"tr":  "C. Brombacher, C. Schubert, K. Neupert, M. Kehr, J. Donges, and M. Albrecht, J. Phys. D, Appl. Phys., 44, No. 35: 355001 (2011)."
+			},
+			{
+				"doi": "10.1063/1.4772072",
+				"or":  "L. W. Wang, W. C. Shih, Y. C. Wu, and C. H. Lai, Appl. Phys. Lett., 101: 252403 (2012).",
+				"tr":  "L. W. Wang, W. C. Shih, Y. C. Wu, and C. H. Lai, Appl. Phys. Lett., 101: 252403 (2012)."
+			},
+			{
+				"doi": "10.1063/1.4891477",
+				"or":  "I. A. Vladymyrskyi, M. V. Karpets, G. L. Katona, D. L. Beke, S. I. Sidorenko, T. Nagata, T. Nabatame, T. Chikyow, F. Ganss, G. Beddies, M. Albrecht, and I. M. Makogon, J. Appl. Phys., 116: 044310 (2014).",
+				"tr":  "I. A. Vladymyrskyi, M. V. Karpets, G. L. Katona, D. L. Beke, S. I. Sidorenko, T. Nagata, T. Nabatame, T. Chikyow, F. Ganss, G. Beddies, M. Albrecht, and I. M. Makogon, J. Appl. Phys., 116: 044310 (2014)."
+			},
+			{
+				"doi": "10.1016/j.vacuum.2013.07.018",
+				"or":  "I. A. Vladymyrskyi, O. P. Pavlova, T. I. Verbitska, S. I. Sidorenko, G. L. Katona, D. L. Beke, and Iu. M. Makogon, Vacuum, 101: 33 (2014).",
+				"tr":  "I. A. Vladymyrskyi, O. P. Pavlova, T. I. Verbitska, S. I. Sidorenko, G. L. Katona, D. L. Beke, and Iu. M. Makogon, Vacuum, 101: 33 (2014)."
+			},
+			{
+				"doi": "10.1063/1.2170584",
+				"or":  "W. B. Mi, E. Y. Jiang, and H. L. Bai, J. Appl. Phys., 99, No. 3: 034315 (2006).",
+				"tr":  "W. B. Mi, E. Y. Jiang, and H. L. Bai, J. Appl. Phys., 99, No. 3: 034315 (2006)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2009.10.014",
+				"or":  "V. Phatak, A. Gupta, V. R. Reddy, S. Chakravarty, H. Schmidt, and R. Ruffer, Acta Mater., 58, No. 3: 979 (2010).",
+				"tr":  "V. Phatak, A. Gupta, V. R. Reddy, S. Chakravarty, H. Schmidt, and R. Ruffer, Acta Mater., 58, No. 3: 979 (2010)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2012.11.045",
+				"or":  "Y. Tran and C. D. Wright, J. Magn. Magn. Mater., 331: 216 (2013).",
+				"tr":  "Y. Tran and C. D. Wright, J. Magn. Magn. Mater., 331: 216 (2013)."
+			},
+			{
+				"doi": "10.1063/1.1851888",
+				"or":  "Ch.-H. Lai, Yu.-Ch. Wu, and Ch.-Ch. Chiang, J. Appl. Phys., 97, No. 10: 10H305 (2005).",
+				"tr":  "Ch.-H. Lai, Yu.-Ch. Wu, and Ch.-Ch. Chiang, J. Appl. Phys., 97, No. 10: 10H305 (2005)."
+			},
+			{
+				"doi": "10.1109/20.490108",
+				"or":  "K. R. Coffey, M. A. Parker, and J. K. Howard, IEEE Trans. Magn., 31, No. 6: 2737 (1995).",
+				"tr":  "K. R. Coffey, M. A. Parker, and J. K. Howard, IEEE Trans. Magn., 31, No. 6: 2737 (1995)."
+			},
+			{
+				"doi": "10.1063/1.1558233",
+				"or":  "T. S. Vedantam, J. P. Liu, H. Zeng, and S. Sun, J. Appl. Phys., 93, No. 10: 7184 (2003).",
+				"tr":  "T. S. Vedantam, J. P. Liu, H. Zeng, and S. Sun, J. Appl. Phys., 93, No. 10: 7184 (2003)."
+			},
+			{
+				"doi": "10.1063/1.1807958",
+				"or":  "K. Leistner, J. Thomas, H. Schlorb, M. Weisheit, L. Schultz, and S. Fahler, Appl. Phys. Lett., 85, No. 16: 3498 (2004).",
+				"tr":  "K. Leistner, J. Thomas, H. Schlorb, M. Weisheit, L. Schultz, and S. Fahler, Appl. Phys. Lett., 85, No. 16: 3498 (2004)."
+			},
+			{
+				"doi": "10.1063/1.4827202",
+				"or":  "I. A. Vladymyrskyi, M. V. Karpets, F. Ganss, G. L. Katona, D. L. Beke, S. I. Sidorenko, T. Nagata, T. Nabatame, T. Chikyow, G. Beddies, M. Albrecht, and Iu. M. Makogon, J. Appl. Phys., 114, No. 16: 164314 (2013).",
+				"tr":  "I. A. Vladymyrskyi, M. V. Karpets, F. Ganss, G. L. Katona, D. L. Beke, S. I. Sidorenko, T. Nagata, T. Nabatame, T. Chikyow, G. Beddies, M. Albrecht, and Iu. M. Makogon, J. Appl. Phys., 114, No. 16: 164314 (2013)."
+			},
+			{
+				"doi": "10.1063/1.2357643",
+				"or":  "R. Maaß, M. Weisheit, S. Fahler, and L. Schultz, J. Appl. Phys., 100, No. 7: 073910 (2006).",
+				"tr":  "R. Maaß, M. Weisheit, S. Fahler, and L. Schultz, J. Appl. Phys., 100, No. 7: 073910 (2006)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2018.05.021",
+				"or":  "A. K. Orlov, O. O. Zhabynska, I. A. Vladymyrskyi, S. M. Voloshko, S. I. Sidorenko, K. Kato, and T. Ishikawa, Thin Solid Films, 658: 12 (2018).",
+				"tr":  "A. K. Orlov, O. O. Zhabynska, I. A. Vladymyrskyi, S. M. Voloshko, S. I. Sidorenko, K. Kato, and T. Ishikawa, Thin Solid Films, 658: 12 (2018)."
+			},
+			{
+				"doi": "10.1002/pssa.2210880224",
+				"or":  "L. Jahn, R. Schumann, and V. Christoph, phys. status solidi (a), 88, No. 2: 595 (1985).",
+				"tr":  "L. Jahn, R. Schumann, and V. Christoph, phys. status solidi (a), 88, No. 2: 595 (1985)."
+			},
+			{
+				"doi": "10.1063/1.1849031",
+				"or":  "D. Y. Oh and J. K. Park, J. Appl. Phys., 97, No. 10: 10N105 (2005).",
+				"tr":  "D. Y. Oh and J. K. Park, J. Appl. Phys., 97, No. 10: 10N105 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "V. N. Chuvil’deev and E. S. Smirnova, Fizika Metallov i Metallovedenie, 92, No. 2: 15 (2001) (in Russian).",
+				"tr":  "V. N. Chuvil'deev and E. S. Smirnova, Fizika Metallov i Metallovedenie, 92, No. 2: 15 (2001) (in Russian)."
+			}
+		]
+	}
+}

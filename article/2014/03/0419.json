@@ -1,0 +1,168 @@
+{
+	"_id":    "MFiNT.36.03.0419",
+	"year":   2014,
+	"volume": 36,
+	"issue":  3,
+	"pages":  [419,429],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["18.11.2013"],
+	"PACS":   "63.20.dk, 71.15.-m, 71.15.Mb, 71.38.-k, 72.10.Di, 72.15.Eb",
+	"title":   {
+		"ua": "Взаємодія між електронними і фононними підсистемами в дибориді гафнію",
+		"en": "Interaction between Electron and Phonon Subsystems in Hafnium Diboride",
+		"ru": "Взаимодействие между электронными и фононными подсистемами в дибориде гафния"
+	},
+	"abstract": {
+		"ua": "Ab initio розрахунок функцій електрон-фононного зв’язку виконано за методом ЛМТО з використанням повного потенціалу. Низьке значення усередненої константи електрон-фононної взаємодії для HfB$_{2}$ $\\lambda = 0,17$ свідчить, що немає підстав для виникнення надпровідного стану в цій сполуці. Вперше було розраховано електричний опір і коефіцієнт анізотропії $\\rho_{z}/ \\rho_{x} = 1,079$ ($Т = 300$ К) для дибориду гафнію. Було досягнуто добру узгодженість з експериментальними даними для електричного опору. У роботі виконано порівняльний аналіз результатів розрахунків фононних спектрів методами ABINIT, SIESTA, VASP та запропонованим методом ЛМТО з детальним обговоренням одержаних відмінностей.",
+		"en": "Ab initio calculation of the electron—phonon coupling functions is carried out, using full potential LMTO method. Low value of the averaged electron— phonon interaction constant for HfB$_{2}$ $\\lambda = 0.17$ indicates that there is no evidence of superconductivity in this compound. Electrical resistivity and anisotropy factor $\\rho_{z}/ \\rho_{x} = 1.079$ ($T = 300$ K) are theoretically calculated. A good agreement with experimental data of electrical resistivity is achieved. Comparative analysis of ABINIT, SIESTA, VASP, and present LMTO method for phonon spectra calculating is performed.",
+		"ru": "Ab initio расчёт функций электрон-фононной связи выполнен в рамках метода ЛМТО с использованием полного потенциала. Низкое значение усреднённой константы электрон-фононного взаимодействия для HfB$_{2}$ $\\lambda = 0,17$ свидетельствует, что нет оснований для возникновения сверхпроводящего состояния в этом соединении. Впервые были рассчитаны электрическое сопротивление и коэффициент анизотропии $\\rho_{z}/ \\rho_{x} = 1,079$ ($T = 300$ К) для диборида гафния. Было достигнуто хорошее согласие с экспериментальными данными для электрического сопротивления. В работе выполнен сравнительный анализ результатов расчётов фононных спектров методами ABINIT, Siesta, VASP и предложенным методом ЛМТО с детальным обсуждением полученных различий."
+	},
+	"keywords": {
+		"ua": "динаміка гратки, електрон—фононна взаємодія, фононний спектр, термодинамічні властивості, електричний опір, дибориди",
+		"en": "lattice dynamics, electron—phonon interaction, phonon spectrum, thermodynamic properties, electrical resistivity, diborides",
+		"ru": "динамика решётки, электрон—фононное взаимодействие, фононный спектр, термодинамические свойства, электрическое сопротивление, дибориды"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. М. Січкар", "en": "S. M. Sichkar", "ru": "С. Н. Сичкарь"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 26,
+		"list":  [
+			{
+				"doi": "10.1038/35065039",
+				"or":  "J. Nagamatsu, N. Nakagawa, T. Muranaka, Y. Zenitani, and J. Akimitsu, Nature, 410: 63 (2001).",
+				"tr":  "J. Nagamatsu, N. Nakagawa, T. Muranaka, Y. Zenitani, and J. Akimitsu, Nature, 410: 63 (2001)."
+			},
+			{
+				"doi": "10.1088/0953-2048/14/11/201",
+				"or":  "C. Buzea and T. Yamashita, Supercond. Sci. Technol., 14: R115 (2001).",
+				"tr":  "C. Buzea and T. Yamashita, Supercond. Sci. Technol., 14: R115 (2001)."
+			},
+			{
+				"doi": "10.1134/1.1387521",
+				"or":  "V. A. Gasparov, N. S. Sidorov, I. I. Zverkova, and M. P. Kulakov, JETP Lett., 73: 532 (2001).",
+				"tr":  "V. A. Gasparov, N. S. Sidorov, I. I. Zverkova, and M. P. Kulakov, JETP Lett., 73: 532 (2001)."
+			},
+			{
+				"doi": "10.1023/B:JMSC.0000041690.06117.34",
+				"or":  "E. Wuchina, M. Opeka, S. Causey, K. Buesking ,J. Spain, A. Cull, J. Routbort, and F. Guitierrez-Mora, J. Mater. Sci., 39: 5939 (2004).",
+				"tr":  "E. Wuchina, M. Opeka, S. Causey, K. Buesking, J. Spain, A. Cull, J. Routbort, and F. Guitierrez-Mora, J. Mater. Sci., 39: 5939 (2004)."
+			},
+			{
+				"doi": "10.1111/j.1365-2818.2006.01626.x",
+				"or":  "W. Zagozdzon-Wosik, I. Rusakova, C. Darne, Z. H. Zhang, P. V. D. Heide, and P. Majhi, J. Microsc., 223: 227 (2006).",
+				"tr":  "W. Zagozdzon-Wosik, I. Rusakova, C. Darne, Z. H. Zhang, P. V. D. Heide, and P. Majhi, J. Microsc., 223: 227 (2006)."
+			},
+			{
+				"doi": "10.1111/j.1551-2916.2011.04411.x",
+				"or":  "L. Zhang, D. A. Pejakovic, J. Marschalland, and M. Gasch, J. Am. Ceram. Soc., 94: 2562 (2011).",
+				"tr":  "L. Zhang, D. A. Pejakovic, J. Marschalland, and M. Gasch, J. Am. Ceram. Soc., 94: 2562 (2011)."
+			},
+			{
+				"doi": "10.1016/j.jeurceramsoc.2012.02.013",
+				"or":  "M. Mallik, A. J. Kailath, K. K. Ray, and R. Mitra, J. Eur. Ceram. Soc., 32: 2545 (2012).",
+				"tr":  "M. Mallik, A. J. Kailath, K. K. Ray, and R. Mitra, J. Eur. Ceram. Soc., 32: 2545 (2012)."
+			},
+			{
+				"doi": "10.3103/S1063457611030026",
+				"or":  "S. N. Dub, A. A. Goncharov, S. S. Ponomarev, V. B. Filippov, G. N. Tolmacheva, and A. V. Agulov, J. Superhard Mater., 33: 151 (2011).",
+				"tr":  "S. N. Dub, A. A. Goncharov, S. S. Ponomarev, V. B. Filippov, G. N. Tolmacheva, and A. V. Agulov, J. Superhard Mater., 33: 151 (2011)."
+			},
+			{
+				"doi": "10.1016/0022-5088(69)90134-9",
+				"or":  "D. Wiley, W. R. Manning, and O. Hunter, J. Less-Common Met., 18: 149 (1969).",
+				"tr":  "D. Wiley, W. R. Manning, and O. Hunter, J. Less-Common Met., 18: 149 (1969)."
+			},
+			{
+				"doi": "10.1111/j.1551-2916.2011.04649.x",
+				"or":  "J. W. Lawson, C. W. Bauschlicher, and M. S. Daw, J. Am. Ceram. Soc., 94: 3494 (2011).",
+				"tr":  "J. W. Lawson, C. W. Bauschlicher, and M. S. Daw, J. Am. Ceram. Soc., 94: 3494 (2011)."
+			},
+			{
+				"doi": "10.1016/j.commatsci.2008.04.002",
+				"or":  "X. Zhang, X. Luo, J. Han , J. Li, and W. Han, Comput. Mat. Sci., 44: 411 (2008).",
+				"tr":  "X. Zhang, X. Luo, J. Han, J. Li, and W. Han, Comput. Mat. Sci., 44: 411 (2008)."
+			},
+			{
+				"doi": "10.1016/j.commatsci.2009.11.017",
+				"or":  "E. Deligoz, K. Colakoglu, and Y. O. Ciftci, Comput. Mat. Sci., 47: 875 (2010).",
+				"tr":  "E. Deligoz, K. Colakoglu, and Y. O. Ciftci, Comput. Mat. Sci., 47: 875 (2010)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2010.01.009",
+				"or":  "X. Zhang, X. Luo, J. Li, P. Hu, and J. Han, Scr. Mater., 62: 625 (2010).",
+				"tr":  "X. Zhang, X. Luo, J. Li, P. Hu, and J. Han, Scr. Mater., 62: 625 (2010)."
+			},
+			{
+				"doi": "10.1116/1.2409939",
+				"or":  "Y. Yang, S. Jayaraman, B. Sperling, D. Y. Kim, G. S. Girolami, and J. R. Abelson, J. Vac. Sci. Technol., 25: 200 (2007).",
+				"tr":  "Y. Yang, S. Jayaraman, B. Sperling, D. Y. Kim, G. S. Girolami, and J. R. Abelson, J. Vac. Sci. Technol., 25: 200 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.6.2577",
+				"or":  "P. B. Allen, Phys. Rev. B, 6: 2577 (1972).",
+				"tr":  "P. B. Allen, Phys. Rev. B, 6: 2577 (1972)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.54.16470",
+				"or":  "S. Y. Savrasov and D. Y. Savrasov, Phys. Rev. B, 54: 16470 (1996).",
+				"tr":  "S. Y. Savrasov and D. Y. Savrasov, Phys. Rev. B, 54: 16470 (1996)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.45.13244",
+				"or":  "J. Perdew and Y. Wang, Phys. Rev. B, 45: 13244 (1992).",
+				"tr":  "J. Perdew and Y. Wang, Phys. Rev. B, 45: 13244 (1992)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.49.16223",
+				"or":  "P. E. Blochl, O. Jepsen, and O. K. Andersen, Phys. Rev. B, 49: 16223 (1994).",
+				"tr":  "P. E. Blochl, O. Jepsen, and O. K. Andersen, Phys. Rev. B, 49: 16223 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Stuemke and G. Petzow, Z. Metallkd., 66: 292 (1975).",
+				"tr":  "M. Stuemke and G. Petzow, Z. Metallkd., 66: 292 (1975)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.77.3865",
+				"or":  "J. P. Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett., 77: 3865 (1996).",
+				"tr":  "J. P. Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett., 77: 3865 (1996)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.53.R10441",
+				"or":  "P. Ordejon, E. Artacho, and J. M. Soler, Phys. Rev. B, 53: R0441 (1996).",
+				"tr":  "P. Ordejon, E. Artacho, and J. M. Soler, Phys. Rev. B, 53: R0441 (1996)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.40.3979",
+				"or":  "O. F. Sankey and D. J. Niklewski, Phys. Rev. B, 40: 3979 (1989).",
+				"tr":  "O. F. Sankey and D. J. Niklewski, Phys. Rev. B, 40: 3979 (1989)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.43.1993",
+				"or":  "N. Troullier and J. L. Martins, Phys. Rev. B, 43: 1993 (1991).",
+				"tr":  "N. Troullier and J. L. Martins, Phys. Rev. B, 43: 1993 (1991)."
+			},
+			{
+				"doi": "10.1103/PhysRev.167.331",
+				"or":  "W. L. McMillan, Phys. Rev. B, 167: 331 (1968).",
+				"tr":  "W. L. McMillan, Phys. Rev. B, 167: 331 (1968)."
+			},
+			{
+				"doi": "10.1016/0022-3697(69)90272-8",
+				"or":  "Y. S. Tyan, L. E. Toth, and Y. A. Chang, J. Phys. Chem. Solids, 30: 785 (1969).",
+				"tr":  "Y. S. Tyan, L. E. Toth, and Y. A. Chang, J. Phys. Chem. Solids, 30: 785 (1969)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.12.905",
+				"or":  "P. B. Allen and R. C. Dynes, Phys. Rev. B, 12: 905 (1975).",
+				"tr":  "P. B. Allen and R. C. Dynes, Phys. Rev. B, 12: 905 (1975)."
+			}
+		]
+	}
+}

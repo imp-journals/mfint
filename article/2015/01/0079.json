@@ -1,0 +1,45 @@
+{
+	"_id":    "MFiNT.37.0079",
+	"year":   2015,
+	"volume": 37,
+	"issue":  1,
+	"pages":  [79,85],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["26.06.2014","30.09.2014"],
+	"PACS":   "62.20.fg, 64.70.kd, 64.75.Op, 81.05.Bx, 81.30.Kf, 81.40.Cd",
+	"title":  {
+		"ua": "Прецизійні функціональні матеріали - сплави з ефектом пам'яті форми на мідній основі",
+		"en": "Precision Functional Materials–the Copper-Based Alloys with a Shape-Memory Effect",
+		"ru": "Прецизионные функциональные материалы – сплавы с эффектом памяти формы на медной основе"
+	},
+	"abstract": {
+		"ua": "Представлено результати дослідження стопів системи Cu—Al—Мn з ефектом запам’ятовування форми при мартенситному перетворенні. Визначено температури перебігу мартенситного перетворення та стійкість стопів щодо евтектоїдного розпаду.",
+		"en": "The results of investigation of the Cu—Al—Мn system alloys with the shape-memory effect in martensitic transformation are presented. The temperatures of martensitic transformation of alloys and their resistance against the eutectoid decomposition are determined.",
+		"ru": "Представлены результаты исследования сплавов системы Cu—Al—Мn с эффектом запоминания формы при мартенситном превращении. Определены температуры протекания мартенситного превращения и устойчивость сплавов к эвтектоидному распаду."
+	},
+	"keywords": {
+		"ua": "ефект запам’ятовування форми, мартенситне перетворення, система Cu—Al—Мn",
+		"en": "shape memory effect, martensitic transformation, Cu—Al—Мn system",
+		"ru": "эффект памяти формы, мартенситное превращение, система Cu—Al—Мn"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. Р. Бублей", "en": "I. R. Bubley", "ru": "И. Р. Бублей"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Ю. М. Коваль", "en": "Yu. M. Koval", "ru": "Ю. Н. Коваль"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "П. В. Тітов", "en": "P. V. Titov", "ru": "П. В. Титов"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 7,
+		"list":  []
+	}
+}

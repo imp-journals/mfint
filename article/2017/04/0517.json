@@ -1,0 +1,136 @@
+{
+	"_id":    "MFiNT.39.04.0517",
+	"year":   2017,
+	"volume": 39,
+	"issue":  4,
+	"pages":  [517,524],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["31.01.2017"],
+	"PACS":   "46.50.+a, 62.20.M-, 68.60.Bs, 81.05.Je, 81.15.Rs, 81.65.Mq",
+	"title":   {
+		"ua": "Вплив товщини оксидного шару на опір кераміко-алюмінійового покриття індентуванню",
+		"en": "Influence of the Oxide-Layer Thickness on the Ceramic–Aluminium Coating Resistance to Indentation",
+		"ru": "Влияние толщины оксидного слоя на сопротивление керамико-алюминиевого покрытия индентированию"
+	},
+	"abstract": {
+		"ua": "Розроблено інженерну методику розрахунку напруженого стану та міцности двошарових кераміко-алюмінійових покриттів, навантажених цупким індентором. Досліджено вплив товщини оксидного шару на величину допустимого довільно орієнтованого навантаження. Розраховано оптимальну товщину оксидного шару, яка забезпечує найбільший спротив покриття індентуванню.",
+		"en": "An engineering methodology for calculating both the stress state and the strength of the double-layer ceramic–aluminium coatings loaded with a hard indenter is developed. Influence of the oxide-layer thickness on the permissible arbitrarily oriented loading value is studied. An optimal thickness of the oxide layer, which provides the maximum resistance of coating to indentation, is calculated.",
+		"ru": "Разработана инженерная методика расчёта напряжённого состояния и прочности двухслойных керамико-алюминиевых покрытий, нагружённых жёстким индентором. Исследовано влияние толщины оксидного слоя на величину допустимой произвольно ориентированной нагрузки. Рассчитана оптимальная толщина оксидного слоя, которая обеспечивает наибольшее сопротивление покрытия индентированию."
+	},
+	"keywords": {
+		"ua": "плазмово-електролітичне оксидування, індентування, міцність, двошарове покриття, кераміка, алюміній",
+		"en": "plasma–electrolytic oxidation, double-layer coating, indentation, strength, ceramics, aluminium",
+		"ru": "плазменно-электролитическое оксидирование, индентирование, прочность, двухслойное покрытие, керамика, алюминий"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Л. Я. Роп’як", "en": "L. Ya. Ropyak", "ru": "Л. Я. Ропяк"},
+			"OID": [245]
+		},
+		{
+			"AID": {"ua": "І. П. Шацький", "en": "I. P. Shatskyi", "ru": "И. П. Шацкий"},
+			"OID": [37]
+		},
+		{
+			"AID": {"ua": "М. В. Маковійчук", "en": "M. V. Makoviichuk", "ru": "Н. В. Маковийчук"},
+			"OID": [37]
+		}
+	],
+	"references": {
+		"count": 18,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Л. С. Саакиян, А. П. Ефремов, Л. Я. Ропяк, А. В. Эпельфельд, Применение поверхностного упрочнения алюминиевых сплавов и покрытий для повышения коррозионно-механической стойкости деталей нефтегазопромыслового оборудования (Москва: ВНИИОЭНГ: 1986).",
+				"tr":  "L. S. Saakiyan, A. P. Efremov, L. Ya. Ropyak, and A. V. Epelfeld, Primenenie Poverkhnostnogo Uprochneniya Alyuminievykh Splavov i Pokrytiy Dlya Povysheniya Korrozionno-Mekhanicheskoy Stoykosti Detaley Neftegazopromyslovogo Oborudovaniya [Application of Surface Strengthening of Aluminium Alloys and Coatings for Improving Corrosion and Mechanical Resistance of Oil-and-Gas Industrial Equipment Components] (Moscow: VNIIOENG: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Суминов, А. В. Эпельфельд, В. Б. Людин, Б. Л. Крит, А. М. Борисов, Микродуговое оксидирование (Теория, технология, оборудование) (Москва: ЭКОМЕТ: 2005).",
+				"tr":  "I. V. Suminov, A. V. Epelfeld, V. B. Lyudin, B. L. Krit, and A. M. Borisov, Mikrodugovoe Oksidirovanie (Teoriya, Tekhnologiya, Oborudovanie) [Micro-Arc Oxidation (Theory, Technology, and Equipment)] (Moscow: EKOMET: 2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Д. Клапків, М. М. Студент, В. І. Похмурський, Г. М. Никифорчин, В. М. Посувайло, П. Я. Сидор, Спосіб одержання керамічних покриттів: Патент на корисну модель 17243 Україна, МПК C23C 14/00 (Бюл. «Промислова власність», № 9: 2) (2006).",
+				"tr":  "M. D. Klapkiv, M. M. Student, V. I. Pokhmurskyi, G. M. Nykyforchyn, V. M. Posuvailo, and P. Ya. Sydor, Sposib Oderzhannya Keramichnykh Pokryttiv [The Technology of Ceramic Coating Production]: Patent na Korysnu Model 17243 Ukraine, MPK C23C 14/00 (Bull. 'Promyslova Vlasnist', No. 9: 2) (2006) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1007/s11003-012-9489-7",
+				"or":  "М. М. Студент, В. М. Довгуник, М. Д. Клапків, В. М. Посувайло, В. В. Шмирко, А. Р. Киця, Фізико-хімічна механіка матеріалів, 48, № 2: 55 (2012).",
+				"tr":  "M. M. Student, V. M. Dovhunyk, M. D. Klapkiv, V. M. Posuvailo, V. V. Shmyrko, and A. P. Kytsya, Materials Science, 48, Iss. 2: 180 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "В. І. Похмурський, М. М. Студент, В. В. Шмирко, В. М. Довгуник, М. Д. Клапків, Проблеми трибології, № 1: 11 (2014).",
+				"tr":  "V. I. Pokhmurskyi, M. M. Student, V. V. Shmyrko, V. M. Dovhunyk, and M. D. Klapkiv, Problemy Trybologii, No. 1: 11 (2014) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1007/s11223-005-0053-7",
+				"or":  "Н. А. Долгов, Проблемы прочности, № 4: 121 (2005).",
+				"tr":  "N. A. Dolgov, Strength of Materials, 37, No. 4: 422 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Антонюк, Е. Б. Сорока, В. И. Калиниченко, Сверхтвёрдые материалы, № 2: 79 (2008).",
+				"tr":  "V. S. Antonyuk, E. B. Soroka, and V. I. Kalinichenko, Sverkhtverdye Materialy, 30, No. 2: 131 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Долгов, Сопротивление деформированию и разрушению материалов с функциональными покрытиями (Тернополь: Крок: 2010).",
+				"tr":  "N. A. Dolhov, Soprotivlenie Deformirovaniyu i Razrusheniyu Materialov s Funktsionalnymi Pokrytiyami [Resistance to Strain and Fracture of Materials with Functional Coatings] (Ternopol: Krok: 2010) (in Russian)."
+			},
+			{
+				"doi": "10.1007/s10556-015-0022-3",
+				"or":  "А. С. Величкович, Т. М. Даляк, Химическое и нефтегазовое машиностроение, № 3: 28 (2015).",
+				"tr":  "A. S. Velichkovich and T. M. Dalyak, Chemical and Petroleum Engineering, 51, No. 3: 188 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Я. Роп’як, І. П. Шацький, М. В. Маковійчук, Наукові нотатки, № 50: 148 (2015).",
+				"tr":  "L. Ya. Ropyak, I. P. Shatskyi, and M. V. Makoviichuk, Naukovi Notatky, No. 50: 148 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "10.3103/S1068366615030058",
+				"or":  "И. Г. Горячева, Е. В. Торская, Ю. В. Корнев, И. Н. Ковалева, Н. К. Мышкин, Трение и износ, 36, № 3: 340 (2015).",
+				"tr":  "I. G. Goryacheva, E. V. Torskaya, Yu. V. Kornev, I. N. Kovaleva, and N. K. Myshkin, Journal of Friction and Wear, 36, No. 3: 262 (2015)."
+			},
+			{
+				"doi": "10.1007/s11223-016-9809-5",
+				"or":  "Н. А. Долгов, Проблемы прочности, № 5: 84 (2016).",
+				"tr":  "N. A. Dolgov, Strength of Materials, 48, No. 5: 658 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Lutsak, P. Prysyazhnyuk, M. Burda, and V. Aulin, Восточно-Европейский журнал передовых технологий, 5, № 7 (83): 19 (2016).",
+				"tr":  "D. Lutsak, P. Prysyazhnyuk, M. Burda, and V. Aulin, Eastern-European Journal of Enterprise Technologies, 5, No. 7 (83): 19 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "I. Shatskyi, M. Makoviichuk, and L. Ropyak, Proc. of 15th Int. Conf. ‘Modelling in Mechanics 2017’ (January 19–20, 2017, Ostrava), p. 65.",
+				"tr":  "I. Shatskyi, M. Makoviichuk, and L. Ropyak, Proc. of 15th Int. Conf. 'Modelling in Mechanics 2017' (January 19–20, 2017, Ostrava), p. 65."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Булычев, В. П. Алехин, Испытание материалов непрерывным вдавливанием индентора (Москва: Машиностроение: 1990).",
+				"tr":  "S. I. Bulychev and V. P. Alekhin, Ispytanie Materialov Nepreryvnym Vdavlivaniem Indentora [Material Testing by Continuous Embedding of an Indenter] (Moscow: Mashynostroenie: 1990) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0956-7151(93)90122-9",
+				"or":  "Yu. V. Milman, B. A. Galanov, and S. I. Chugunova, Acta Metal. Mater., 41, No. 9: 2523 (1993).",
+				"tr":  "Yu. V. Milman, B. A. Galanov, and S. I. Chugunova, Acta Metal. Mater., 41, No. 9: 2523 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Н. Дуб, А. Л. Майстренко, А. А. Исаков, Завод. лаборатория, № 4: 58 (1993).",
+				"tr":  "S. N. Dub, A. L. Maistrenko, and A. A. Isakov, Zavod. Laboratoriya, No. 4: 58 (1993) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Н. Дуб, Н. В. Новиков, Сверхтвёрдые материалы, № 6: 16 (2004).",
+				"tr":  "S. N. Dub and N. V. Novikov, Sverkhtverdye Materialy, No. 6: 16 (2004) (in Russian)."
+			}
+		]
+	}
+}

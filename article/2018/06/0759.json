@@ -1,0 +1,232 @@
+{
+	"_id":    "MFiNT.40.06.0759",
+	"year":   2018,
+	"volume": 40,
+	"issue":  6,
+	"pages":  [759,776],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["06.04.2018"],
+	"PACS":   "61.05.cc, 61.05.cp, 68.35.Ct, 68.65.Ac, 68.65.Cd, 68.65.Fg, 81.05.Ea",
+	"title":   {
+		"ua": "Моделювання рентґенодифракційних спектрів від структур з множинними квантовими ямами AlN/GaN на AlN(0001) із врахуванням шерсткости та варіяції товщини шарів за глибиною",
+		"en": "Simulation of X-Ray Diffraction Spectra for AlN/GaN Multiple Quantum Well Structures on AlN(0001) with Interface Roughness and Variation of Vertical Layers Thickness",
+		"ru": "Моделирование рентгенодифракционных спектров от структур с множественными квантовыми ямами AlN/GaN на AlN(0001) с учётом шероховатости и вариации толщины слоёв по глубине"
+	},
+	"abstract": {
+		"ua": "В роботі проведено детальну аналізу структур із множинними квантовими ямами (МКЯ) AlN/GaN, вирощених на підкладинках AlN(0001). Було досліджено вплив шерсткости та зміни товщини шарів структури з МКЯ по глибині на 2$\\theta‒\\omega$-скани, виміряні в Бреґґовій геометрії дифракції для симетричних рефлексів. Показано, що зміна товщини квантових ям і бар’єрів по глибині приводить до асиметричного розширення сателітних піків МКЯ на 2$\\theta‒\\omega$-сканах. Шерсткість спричинює симетричне розширення піків, що уможливлює розрізнити вплив цих ефектів. Розглянуто кілька причин асиметричного розширення сателітних піків: зміну товщини періоду, зміну середнього параметра ґратниці періоду, який залежить від співвідношення товщин шарів періоду, та їх комбінації. Ефективність розробленої методи показано шляхом числового моделювання рентґенівських спектрів.",
+		"en": "A detailed XRD analysis of AlN/GaN multiple quantum well (MQW) structures grown on AlN(0001) substrates is proposed. The effect of roughness on the 2$\\theta‒\\omega$ scans measured in Bragg diffraction for symmetrical reflections is investigated together with the effect of depth variation of the well and barrier thickness. As shown, the magnitude of depth variation of the well and barrier thickness results in an asymmetrical broadening of the satellite peaks of the 2$\\theta‒\\omega$ scans. Roughness causes their symmetrical expansion that allows separating the influence of both effects. Several reasons of asymmetrical broadening of satellite peaks are considered: variation of the thickness period, variation of the average lattice parameter inherent to the period, which depends on the thickness ratio of the layers in the period, and their combination. The efficiency of the described method is illustrated in detail by numerical simulations.",
+		"ru": "В работе предложен детальный рентгенодифракционный анализ структур с множественными квантовыми ямами (МКЯ) AlN/GaN, выращенными на подложках AlN(0001). Было исследовано влияние шероховатости и вариации толщины слоёв квантовых ям и барьеров на 2$\\theta‒\\omega$-сканы, полученные в геометрии отражения по Брэггу для симметричных рефлексов. Показано, что наличие вариации толщины слоёв AlN и GaN по глубине приводит к появлению асимметрии сателлитных пиков МКЯ на 2$\\theta‒\\omega$-сканах. Наличие шероховатости приводит к симметричному расширению сателлитных пиков, что позволяет разделить влияние этих эффектов. Рассмотрено несколько причин асимметричного расширения сателлитных пиков: изменение толщины периода, изменение среднего параметра решётки периода, который зависит от соотношения толщин слоёв в периоде, и их комбинации. Эффективность разработанного метода показана с помощью численного моделирования."
+	},
+	"keywords": {
+		"ua": "динамічна дифракція X-променів, множинні квантові ями, зміна товщини по глибині, комп’ютерне моделювання, надґратниця",
+		"en": "dynamical X-ray diffraction, multiple quantum well structure, thickness variation with depth, computer simulation, superlattice",
+		"ru": "динамическая дифракция рентгеновских лучей, множественные квантовые ямы, изменение толщины по глубине, компьютерное моделирование, сверхрешётка"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. І. Любченко", "en": "O. I. Liubchenko", "ru": "А. И. Любченко"},
+			"OID": [20]
+		},
+		{
+			"AID": {"ua": "В. П. Кладько", "en": "V. P. Kladko", "ru": "В. П. Кладько"},
+			"OID": [20]
+		}
+	],
+	"references": {
+		"count": 38,
+		"list":  [
+			{
+				"doi": "10.1063/1.4939595",
+				"or":  "A. Kaminska, P. Strak, J. Borysiuk, K. Sobczak, J. Z. Domagala, M. Beeler, E. Grzanka, K. Sakowski, S. Krukowski, and E. Monroy, J. Appl. Phys., 119, No. 1: 015703 (2016).",
+				"tr":  "A. Kaminska, P. Strak, J. Borysiuk, K. Sobczak, J. Z. Domagala, M. Beeler, E. Grzanka, K. Sakowski, S. Krukowski, and E. Monroy, J. Appl. Phys., 119, No. 1: 015703 (2016)."
+			},
+			{
+				"doi": "10.1088/1674-1056/26/1/017805",
+				"or":  "X. Li, D. G. Zhao, D. S. Jiang, J. Yang, P. Chen, Z. S. Liu, J. J. Zhu, W. Liu, X. G. He, X. J. Li, F. Liang, J. P. Liu, L. Q. Zhang, H. Yang, Y. T. Zhang, G. T. Du, H. Long, and M. Li, Chinese Phys. B, 26, No. 1: 017805 (2017).",
+				"tr":  "X. Li, D. G. Zhao, D. S. Jiang, J. Yang, P. Chen, Z. S. Liu, J. J. Zhu, W. Liu, X. G. He, X. J. Li, F. Liang, J. P. Liu, L. Q. Zhang, H. Yang, Y. T. Zhang, G. T. Du, H. Long, and M. Li, Chinese Phys. B, 26, No. 1: 017805 (2017)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2014.11.138",
+				"or":  "W. Liu, D. G. Zhao, D. S. Jiang, P. Chen, Z. S. Liu, J. J. Zhu, M. Shi, D. M. Zhao, X. Li, J. P. Liu, S. M. Zhang, H. Wang, and H. Yang, J. Alloys Compd., 625: 266 (2015).",
+				"tr":  "W. Liu, D. G. Zhao, D. S. Jiang, P. Chen, Z. S. Liu, J. J. Zhu, M. Shi, D. M. Zhao, X. Li, J. P. Liu, S. M. Zhang, H. Wang, and H. Yang, J. Alloys Compd., 625: 266 (2015)."
+			},
+			{
+				"doi": "10.1063/1.4894464",
+				"or":  "P. M. McBride, Q. Yan, and C. G. Van De Walle, Appl. Phys. Lett., 105, No. 8: 083507 (2014).",
+				"tr":  "P. M. McBride, Q. Yan, and C. G. Van De Walle, Appl. Phys. Lett., 105, No. 8: 083507 (2014)."
+			},
+			{
+				"doi": "10.1063/1.4776739",
+				"or":  "J. Piprek and Z. M. Simon Li, Appl. Phys. Lett., 102, No. 2: 023510 (2013).",
+				"tr":  "J. Piprek and Z. M. Simon Li, Appl. Phys. Lett., 102, No. 2: 023510 (2013)."
+			},
+			{
+				"doi": "10.1557/adv.2016.134",
+				"or":  "X. C. Wei, L. Zhang, N. Zhang, J. X. Wang, and J. M. Li, MRS Adv., 1, No. 2: 197 (2016).",
+				"tr":  "X. C. Wei, L. Zhang, N. Zhang, J. X. Wang, and J. M. Li, MRS Adv., 1, No. 2: 197 (2016)."
+			},
+			{
+				"doi": "10.1063/1.4962282",
+				"or":  "A. Kaminska, D. Jankowski, P. Strak, K. P. Korona, M. Beeler, K. Sakowski, E. Grzanka, J. Borysiuk, K. Sobczak, E. Monroy, and S. Krukowski, J. Appl. Phys., 120, No. 9: 095705 (2016).",
+				"tr":  "A. Kaminska, D. Jankowski, P. Strak, K. P. Korona, M. Beeler, K. Sakowski, E. Grzanka, J. Borysiuk, K. Sobczak, E. Monroy, and S. Krukowski, J. Appl. Phys., 120, No. 9: 095705 (2016)."
+			},
+			{
+				"doi": "10.1063/1.4819950",
+				"or":  "M. Beeler, C. Bougerol, E. Bellet-Amalric, and E. Monroy, Appl. Phys. Lett., 103, No. 9: 091108 (2013).",
+				"tr":  "M. Beeler, C. Bougerol, E. Bellet-Amalric, and E. Monroy, Appl. Phys. Lett., 103, No. 9: 091108 (2013)."
+			},
+			{
+				"doi": "10.1063/1.3515423",
+				"or":  "H. MacHhadani, Y. Kotsar, S. Sakr, M. Tchernycheva, R. Colombelli, J. Mangeney, E. Bellet-Amalric, E. Sarigiannidou, E. Monroy, and F. H. Julien, Appl. Phys. Lett., 97, No. 19: 191101 (2010).",
+				"tr":  "H. MacHhadani, Y. Kotsar, S. Sakr, M. Tchernycheva, R. Colombelli, J. Mangeney, E. Bellet-Amalric, E. Sarigiannidou, E. Monroy, and F. H. Julien, Appl. Phys. Lett., 97, No. 19: 191101 (2010)."
+			},
+			{
+				"doi": "10.1088/1674-1056/23/5/054211",
+				"or":  "M.-M. Liang, G.-E. Weng, J.-Y. Zhang, X.-M. Cai, X.-Q. Lü, L.-Y. Ying, and B.-P. Zhang, Chin. Phys. B, 23, No. 5: 054211 (2014).",
+				"tr":  "M.-M. Liang, G.-E. Weng, J.-Y. Zhang, X.-M. Cai, X.-Q. Lü, L.-Y. Ying, and B.-P. Zhang, Chin. Phys. B, 23, No. 5: 054211 (2014)."
+			},
+			{
+				"doi": "10.1088/0268-1242/28/7/074022",
+				"or":  "M. Beeler, E. Trichas, and E. Monroy, Semicond. Sci. Technol., 28, No. 7: 074022 (2013).",
+				"tr":  "M. Beeler, E. Trichas, and E. Monroy, Semicond. Sci. Technol., 28, No. 7: 074022 (2013)."
+			},
+			{
+				"doi": "10.1088/1367-2630/11/12/125023",
+				"or":  "H. Machhadani, P. Kandaswamy, S. Sakr, A. Vardi, A. Wirtmüller, L. Nevou, F. Guillot, G. Pozzovivo, M. Tchernycheva, A. Lupu, L. Vivien, P. Crozat, E. Warde, C. Bougerol, S. Schacham, G. Strasser, G. Bahir, E. Monroy, and F. H. Julien, New J. Phys., 11, No. 12: 125023 (2009).",
+				"tr":  "H. Machhadani, P. Kandaswamy, S. Sakr, A. Vardi, A. Wirtmüller, L. Nevou, F. Guillot, G. Pozzovivo, M. Tchernycheva, A. Lupu, L. Vivien, P. Crozat, E. Warde, C. Bougerol, S. Schacham, G. Strasser, G. Bahir, E. Monroy, and F. H. Julien, New J. Phys., 11, No. 12: 125023 (2009)."
+			},
+			{
+				"doi": "10.1063/1.3003507",
+				"or":  "P. K. Kandaswamy, F. Guillot, E. Bellet-Amalric, E. Monroy, L. Nevou, M. Tchernycheva, A. Michon, F. H. Julien, E. Baumann, F. R. Giorgetta, D. Hofstetter, T. Remmele, M. Albrecht, S. Birner, and L. S. Dang, J. Appl. Phys., 104, No. 9: 093501 (2008).",
+				"tr":  "P. K. Kandaswamy, F. Guillot, E. Bellet-Amalric, E. Monroy, L. Nevou, M. Tchernycheva, A. Michon, F. H. Julien, E. Baumann, F. R. Giorgetta, D. Hofstetter, T. Remmele, M. Albrecht, S. Birner, and L. S. Dang, J. Appl. Phys., 104, No. 9: 093501 (2008)."
+			},
+			{
+				"doi": "10.1063/1.354130",
+				"or":  "H. Rhan, U. Pietsch, S. Rugel, H. Metzger, and J. Peisl, J. Appl. Phys., 74, No. 1: 146 (1993).",
+				"tr":  "H. Rhan, U. Pietsch, S. Rugel, H. Metzger, and J. Peisl, J. Appl. Phys., 74, No. 1: 146 (1993)."
+			},
+			{
+				"doi": "10.1063/1.4999175",
+				"or":  "O. Kolomys, B. Tsykaniuk, V. Strelchuk, A. Naumov, V. Kladko, Y. I. Mazur, M. E. Ware, S. Li, A. Kuchuk, Y. Maidaniuk, M. Benamara, A. Belyaev, and G. J. Salamo, J. Appl. Phys., 122, No. 15: 155302 (2017).",
+				"tr":  "O. Kolomys, B. Tsykaniuk, V. Strelchuk, A. Naumov, V. Kladko, Y. I. Mazur, M. E. Ware, S. Li, A. Kuchuk, Y. Maidaniuk, M. Benamara, A. Belyaev, and G. J. Salamo, J. Appl. Phys., 122, No. 15: 155302 (2017)."
+			},
+			{
+				"doi": "10.1039/C7CE00584A",
+				"or":  "H. V. Stanchu, A. V. Kuchuk, M. Barchuk, Y. I. Mazur, V. P. Kladko, Z. M. Wang, D. Rafaja, and G. J. Salamo, Cryst. Eng. Comm., 19, No. 22: 2977 (2017).",
+				"tr":  "H. V. Stanchu, A. V. Kuchuk, M. Barchuk, Y. I. Mazur, V. P. Kladko, Z. M. Wang, D. Rafaja, and G. J. Salamo, Cryst. Eng. Comm., 19, No. 22: 2977 (2017)."
+			},
+			{
+				"doi": "10.1063/1.112167",
+				"or":  "J. Gaca and M. Wojcik, Appl. Phys. Lett., 65, No. 8: 977 (1994).",
+				"tr":  "J. Gaca and M. Wojcik, Appl. Phys. Lett., 65, No. 8: 977 (1994)."
+			},
+			{
+				"doi": "10.1116/1.4999468",
+				"or":  "S. B. Kryvyi, P. M. Lytvyn, V. P. Kladko, H. V. Stanchu, A. V. Kuchuk, Y. I. Mazur, G. J. Salamo, S. Li, P. P. Kogutyuk, and A. E. Belyaev, J. Vac. Sci. Technol. B: Nanotechnol. Microelectron., 35, No. 6: 062902 (2017).",
+				"tr":  "S. B. Kryvyi, P. M. Lytvyn, V. P. Kladko, H. V. Stanchu, A. V. Kuchuk, Y. I. Mazur, G. J. Salamo, S. Li, P. P. Kogutyuk, and A. E. Belyaev, J. Vac. Sci. Technol. B: Nanotechnol. Microelectron., 35, No. 6: 062902 (2017)."
+			},
+			{
+				"doi": "10.1063/1.2821358",
+				"or":  "A. Chandolu, S. Nikishin, M. Holtz, and H. Temkin, J. Appl. Phys., 102, No. 11: 114909 (2007).",
+				"tr":  "A. Chandolu, S. Nikishin, M. Holtz, and H. Temkin, J. Appl. Phys., 102, No. 11: 114909 (2007)."
+			},
+			{
+				"doi": "10.1016/S1369-8001(02)00005-7",
+				"or":  "P. F. Fewster, V. Holy, and N. L. Andrew, Mater. Sci. Semicond. Process., 4, No. 6: 475 (2001).",
+				"tr":  "P. F. Fewster, V. Holy, and N. L. Andrew, Mater. Sci. Semicond. Process., 4, No. 6: 475 (2001)."
+			},
+			{
+				"doi": "10.1134/1.1130573",
+				"or":  "R. N. Kyutt, A. Y. Khil’ko, and N. S. Sokolov, Phys. Solid State, 40, No. 8: 1417 (1998).",
+				"tr":  "R. N. Kyutt, A. Y. Khil'ko, and N. S. Sokolov, Phys. Solid State, 40, No. 8: 1417 (1998)."
+			},
+			{
+				"doi": "10.1186/1556-276X-7-289",
+				"or":  "V. Kladko, A. Kuchuk, P. Lytvyn, O. Yefanov, N. Safriuk, A. Belyaev, Y. I. Mazur, E. A. DeCuir, M. E. Ware, and G. J. Salamo, Nanoscale Res. Lett., 7, No. 1: 289 (2012).",
+				"tr":  "V. Kladko, A. Kuchuk, P. Lytvyn, O. Yefanov, N. Safriuk, A. Belyaev, Y. I. Mazur, E. A. DeCuir, M. E. Ware, and G. J. Salamo, Nanoscale Res. Lett., 7, No. 1: 289 (2012)."
+			},
+			{
+				"doi": "10.1063/1.365637",
+				"or":  "A. Sanz-Hervás, M. Aguilar, J. L. Sánchez-Rojas, A. Sacedón, E. Calleja, E. Muñoz, C. Villar, E. J. Abril, and M. López, J. Appl. Phys., 82, No. 7: 3297 (1997).",
+				"tr":  "A. Sanz-Hervás, M. Aguilar, J. L. Sánchez-Rojas, A. Sacedón, E. Calleja, E. Mu-oz, C. Villar, E. J. Abril, and M. López, J. Appl. Phys., 82, No. 7: 3297 (1997)."
+			},
+			{
+				"doi": "10.1002/pssa.2211360102",
+				"or":  "V. I. Punegov, Phys. Status Solidi (a), 136, No. 1: 9 (1993).",
+				"tr":  "V. I. Punegov, Phys. Status Solidi (a), 136, No. 1: 9 (1993)."
+			},
+			{
+				"doi": "10.1107/S0365110X62003473",
+				"or":  "S. Takagi, Acta Crystallogr., 15, No. 12: 1311 (1962).",
+				"tr":  "S. Takagi, Acta Crystallogr., 15, No. 12: 1311 (1962)."
+			},
+			{
+				"doi": "10.1143/JPSJ.26.1239",
+				"or":  "S. Takagi, J. Phys. Soc. Japan., 26, No. 5: 1239 (1969).",
+				"tr":  "S. Takagi, J. Phys. Soc. Japan., 26, No. 5: 1239 (1969)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Taupin, Bull. Soc. Franc. Mineral. Crystallogr., 7, No. 87: 469 (1964).",
+				"tr":  "D. Taupin, Bull. Soc. Franc. Mineral. Crystallogr., 7, No. 87: 469 (1964)."
+			},
+			{
+				"doi": "10.1107/S0021889893005643",
+				"or":  "R. Zaus, J. Appl. Crystallogr., 26, No. 6: 801 (1993).",
+				"tr":  "R. Zaus, J. Appl. Crystallogr., 26, No. 6: 801 (1993)."
+			},
+			{
+				"doi": "10.1063/1.3618680",
+				"or":  "Y. Kotsar, B. Doisneau, E. Bellet-Amalric, A. Das, E. Sarigiannidou, and E. Monroy, J. Appl. Phys., 110, No. 3: 033501 (2011).",
+				"tr":  "Y. Kotsar, B. Doisneau, E. Bellet-Amalric, A. Das, E. Sarigiannidou, and E. Monroy, J. Appl. Phys., 110, No. 3: 033501 (2011)."
+			},
+			{
+				"doi": "10.1063/1.1637934",
+				"or":  "E. Bellet-Amalric, C. Adelmann, E. Sarigiannidou, J. L. Rouvière, G. Feuillet, E. Monroy, and B. Daudin, J. Appl. Phys., 95, No. 3: 1127 (2004).",
+				"tr":  "E. Bellet-Amalric, C. Adelmann, E. Sarigiannidou, J. L. Rouvière, G. Feuillet, E. Monroy, and B. Daudin, J. Appl. Phys., 95, No. 3: 1127 (2004)."
+			},
+			{
+				"doi": "10.15407/spqeo16.03.265",
+				"or":  "N. V. Safriuk, G. V. Stanchu, A. V. Kuchuk, V. P. Kladko, A. E. Belyaev, and V. F. Machulin, Semicond. Phys. Quantum Electron. Optoelectron., 16, No. 3: 265 (2013).",
+				"tr":  "N. V. Safriuk, G. V. Stanchu, A. V. Kuchuk, V. P. Kladko, A. E. Belyaev, and V. F. Machulin, Semicond. Phys. Quantum Electron. Optoelectron., 16, No. 3: 265 (2013)."
+			},
+			{
+				"doi": "10.1016/j.jcrysgro.2012.06.048",
+				"or":  "S. R. Lee, D. D. Koleske, M. H. Crawford, and J. J. Wierer, J. Cryst. Growth, 355, No. 1: 63 (2012).",
+				"tr":  "S. R. Lee, D. D. Koleske, M. H. Crawford, and J. J. Wierer, J. Cryst. Growth, 355, No. 1: 63 (2012)."
+			},
+			{
+				"doi": "10.1107/S0021889888006569",
+				"or":  "P. F. Fewster, J. Appl. Crystallogr., 21, No. 5: 524 (1988).",
+				"tr":  "P. F. Fewster, J. Appl. Crystallogr., 21, No. 5: 524 (1988)."
+			},
+			{
+				"doi": "10.1016/0022-0248(78)90293-2",
+				"or":  "W. J. Bartels and W. Nijman, J. Cryst. Growth, 44, No. 5: 518 (1978).",
+				"tr":  "W. J. Bartels and W. Nijman, J. Cryst. Growth, 44, No. 5: 518 (1978)."
+			},
+			{
+				"doi": "10.1088/0268-1242/28/9/094006",
+				"or":  "D. J. Wallis, D. Zhu, F. Oehler, S. P. Westwater, A. Pujol, and C. J. Humphreys, Semicond. Sci. Technol., 28, No. 9: 094006 (2013).",
+				"tr":  "D. J. Wallis, D. Zhu, F. Oehler, S. P. Westwater, A. Pujol, and C. J. Humphreys, Semicond. Sci. Technol., 28, No. 9: 094006 (2013)."
+			},
+			{
+				"doi": "10.1107/S0021889808022231",
+				"or":  "S. Stepanov and R. Forrest, J. Appl. Crystallogr., 41, No. 5: 958 (2008).",
+				"tr":  "S. Stepanov and R. Forrest, J. Appl. Crystallogr., 41, No. 5: 958 (2008)."
+			},
+			{
+				"doi": "10.1021/cg025502y",
+				"or":  "N. J. Ekins-Daukes, K. Kawaguchi, and J. Zhang, Cryst. Growth Des., 2, No. 4: 287 (2002).",
+				"tr":  "N. J. Ekins-Daukes, K. Kawaguchi, and J. Zhang, Cryst. Growth Des., 2, No. 4: 287 (2002)."
+			},
+			{
+				"doi": "10.15407/spqeo20.03.355",
+				"or":  "O. Liubchenko, V. Kladko, and Oy. Gudymenko, Semicond. Physics, Quantum Electron. Optoelectron., 20, No. 3: 355 (2017).",
+				"tr":  "O. Liubchenko, V. Kladko, and Oy. Gudymenko, Semicond. Physics, Quantum Electron. Optoelectron., 20, No. 3: 355 (2017)."
+			}
+		]
+	}
+}

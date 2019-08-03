@@ -1,0 +1,91 @@
+{
+	"_id":    "MFiNT.39.10.1435",
+	"year":   2017,
+	"volume": 39,
+	"issue":  10,
+	"pages":  [1435,1443],
+	"rubric": 19,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["14.08.2016","29.09.2017"],
+	"PACS":   "47.10.ad, 61.43.Dq, 62.10.+s, 66.20.Cy, 83.10.Ff, 83.50.Ax, 83.60.-a",
+	"title":   {
+		"ua": "Самоорганізація у в’язких рідинах",
+		"en": "Self-Organization in Viscous Liquids",
+		"ru": "Самоорганизация в вязких жидкостях"
+	},
+	"abstract": {
+		"ua": "В роботі аморфне тіло розглянуто як рідину з дуже великим коефіцієнтом в’язкости $\\eta$. Її поведінка вивчалася за допомогою рівнянь Нав’є–Стокса та рівняння неперервности. Показано, що процес релаксації рідини до навантаження розтягання–стиснення може бути нестійким. Знайдено ще один, окрім раніше вже відомого, стаціонарний стан рідини у вигляді зон високої та низької густини, які чергуються періодично (за координатою), що забезпечує пластичність аморфного тіла.",
+		"en": "In this article, an amorphous solid is considered as a liquid with a very large coefficient of viscosity $\\eta$. Its behaviour is studied by means of the continuity equation and Navier–Stokes equations. As revealed, the process of the relaxation of a liquid to a stress–strain loading can be unstable. An additional stationary state of a liquid, besides well-known one, is found. In this state, zones of the high and low densities are periodically alternate (by coordinate) that provides the plasticity of an amorphous solid.",
+		"ru": "В настоящей работе аморфное тело рассмотрено как жидкость с очень большим коэффициентом вязкости $\\eta$. Её поведение изучалось с помощью уравнений Навье–Стокса и уравнения непрерывности. Показано, что процесс релаксации жидкости к нагрузке растяжения–сжатия может быть неустойчивым. Найдено ещё одно, кроме ранее уже известного, стационарное состояние жидкости в виде периодически (по координате) чередующихся зон высокой и низкой плотности, что обеспечивает пластичность аморфного тела."
+	},
+	"keywords": {
+		"ua": "аморфне тіло, рівняння Нав’є–Стокса, рівняння неперервности, стійкість, стаціонарний стан, самоорганізація, періодичні зони зсуву, гідродинамічні канали, пластична деформація",
+		"en": "amorphous solid, Navier–Stokes equations, equation of continuity, stability, stationary state, self-organization, periodical shear bands, hydrodynamic flow channels, plastic deformation",
+		"ru": "аморфное тело, уравнения Навье–Стокса, уравнение непрерывности, устойчивость, стационарное состояние, самоорганизация, периодические сдвиговые зоны, гидродинамические каналы, пластическая деформация"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. I. Засимчук", "en": "V. I. Zasimchuk", "ru": "В. И. Засимчук"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. Е. Засимчук", "en": "O. E. Zasimchuk", "ru": "Е. Э. Засимчук"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. С. Гаценко", "en": "O. S. Gatsenko", "ru": "А. С. Гаценко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 9,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Г. Николис, И. Пригожин, Самоорганизация в неравновесных системах (Москва: Мир: 1979).",
+				"tr":  "G. Nicolis and I. Prigogine, Samoorganizatsiya v Neravnovesnykh Sistemakh [Self-Organization in Nonequilibrium Systems] (Moscow: Mir: 1979) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Гленсдорф, И. Пригожин, Термодинамическая теория структуры, устойчивости и флуктуаций (Москва: Мир: 1973).",
+				"tr":  "P. Glansdorff and I. Prigogine, Termodinamicheskaya Teoriya Struktury, Ustoychivosti i Fluktuatsiy [Thermodynamic Theory of Structure, Stability and Fluctuations] (Moscow: Mir: 1973) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Хакен, Синергетика (Москва: Мир: 1980).",
+				"tr":  "H. Haken, Sinergetika [Synergetics] (Moscow: Mir: 1980) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Эбелинг, Образование структур при необратимых процессах (Москва: Мир: 1979).",
+				"tr":  "W. Ebeling, Obrazovanie Struktur pri Neobratimykh Protsessakh [Formation of Structures in Irreversible Processes] (Moscow: Mir: 1979) (Russian translation)."
+			},
+			{
+				"doi": "10.1016/S1006-706X(16)30003-6",
+				"or":  "J.-W. Qiao and Zh. Wang, Journal of Iron and Steel Research International, 23, No. 1: 7 (2016).",
+				"tr":  "J.-W. Qiao and Zh. Wang, Journal of Iron and Steel Research International, 23, No. 1: 7 (2016)."
+			},
+			{
+				"doi": "10.1016/j.mser.2013.04.001",
+				"or":  "A. L. Greer, Y. Q. Cheng, and E. Ma, Mater. Sci. Eng. R, 74: 71 (2013).",
+				"tr":  "A. L. Greer, Y. Q. Cheng, and E. Ma, Mater. Sci. Eng. R, 74: 71 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Д. Ландау, Е. М. Лифшиц, Теоретическая физика. Т. VI. Гидродинамика (Москва: Наука: 1988).",
+				"tr":  "L. D. Landau and E. M. Lifshitz, Teoreticheskaya Fizika. T. VI. Gidrodinamika [Theoretical Physics. Vol. VI. Hydrodynamics] (Moscow: Nauka: 1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Корн, Т. Корн, Справочник по математике для научных работников и инженеров (Москва: Наука: 1978).",
+				"tr":  "G. A. Korn and Th. M. Korn, Mathematical Handbook for Scientists and Engi-neers (New York: Mc Graw-Hill Book Company: 1968)."
+			},
+			{
+				"doi": "10.15407/ufm.14.03.275",
+				"or":  "Е. Э. Засимчук, В. И. Засимчук, Т. В. Турчак, Успехи физики металлов, 14, № 3: 275 (2013).",
+				"tr":  "O. Eh. Zasymchuk, V. I. Zasymchuk, and T. V. Turchak, Uspehi Fiziki Metallov, 14, No. 3: 275 (2013) (in Russian)."
+			}
+		]
+	}
+}

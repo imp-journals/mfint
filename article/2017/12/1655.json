@@ -1,0 +1,126 @@
+{
+	"_id":    "MFiNT.39.12.1655",
+	"year":   2017,
+	"volume": 39,
+	"issue":  12,
+	"pages":  [1655,1667],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["10.11.2017"],
+	"PACS":   "62.20.mt, 68.35.bd, 68.35.Gy, 68.35.Md, 81.40.Np, 81.65.Kn, 82.45.Bb",
+	"title":   {
+		"ua": "Аналіза корозії металів в умовах механічних впливів і аґресивних середовищ",
+		"en": "Analysis of Metal Corrosion under Conditions of Mechanical Impacts and Aggressive Environments",
+		"ru": "Анализ коррозии металлов в условиях механических воздействий и агрессивных сред"
+	},
+	"abstract": {
+		"ua": "З позицій фізики поверхні, механіки руйнування та електрохемії сформульовано математичний модель фізико-хемічних процесів у вершині тріщини металу при його механічному навантаженні у водному розчині електроліту. Проведено розрахунки енергетичних та електрохемічних характеристик для криці 20 у 3% розчині хлориду натрію. Проаналізовано параметри рівняння типу Тафелевого між анодним струмом і ріжницею електродних потенціялів. У лінійному наближенні зв’язку густини корозійного струму з поверхневою енергією пластичного деформування металу та з урахуванням зростання механічних розтягувальних напружень до границі плинности узагальнено відоме співвідношення (Kaeshe) для густини струму на ювенільній поверхні дна тріщини.",
+		"en": "Based on standpoints of the surface physics, fracture mechanics and electrochemistry, a mathematical model of the physical and chemical processes near the crack tip of a metal under mechanical loads in aqueous electrolyte solutions is developed. Calculations of the energy and electrochemical characteristics are performed for the steel 20 in the 3% solution of sodium chloride. Parameters of the Tafel-type relationship between the anode current and the difference of electrode potentials are analysed. Well-known Kaeshe expression for the current density on the juvenile surface of a crack bottom is generalized both by linear approximation of the dependence of corrosion current density on surface energy of plastic deformation of the metal and with accounting for increase of mechanical tensile stress up to yield limit.",
+		"ru": "Исходя из положений физики поверхности, механики разрушения и электрохимии сформулирована математическая модель физико-химических процессов в вершине трещины металла при его механическом нагружении в водном растворе электролита. Проведены расчёты энергетических и электрохимических характеристик для стали 20 в 3% растворе хлорида натрия. Проанализированы параметры уравнения типа Тафеля между анодным током и разницей электродных потенциалов. В линейном приближении связи плотности коррозионного тока с поверхностной энергией пластического деформирования металла и с учётом увеличения механических растягивающих напряжений до предела текучести обобщено известное соотношение (Kaeshe) для плотности тока на ювенильной поверхности дна трещины."
+	},
+	"keywords": {
+		"ua": "метал, тріщина, ювенільна поверхня, механічне напруження, електрохемічне перенапруження, поверхнева енергія, корозійний струм",
+		"en": "metal, crack, juvenile surface, mechanical tension, electrochemical overpotential, surface energy, corrosive current",
+		"ru": "металл, трещина, ювенильная поверхность, механическое напряжение, электрохимическое перенапряжение, поверхностная энергия, коррозионный ток"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Н. Юзевич", "en": "V. M. Yuzevych", "ru": "В. Н. Юзевич"},
+			"OID": [6]
+		},
+		{
+			"AID": {"ua": "Р. Н. Джала", "en": "R. M. Dzhala", "ru": "Р. М. Джала"},
+			"OID": [6]
+		},
+		{
+			"AID": {"ua": "Б. П. Коман", "en": "B. P. Koman", "ru": "Б. П. Коман"},
+			"OID": [203]
+		}
+	],
+	"references": {
+		"count": 16,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "A. Philip and P. E. Schweitzer, Fundamentals of Corrosion—Mechanisms, Causes and Preventative Methods (Boka Raton: CRC Press: 2010).",
+				"tr":  "A. Philip and P. E. Schweitzer, Fundamentals of Corrosion—Mechanisms, Causes and Preventative Methods (Boka Raton: CRC Press: 2010)."
+			},
+			{
+				"doi": "",
+				"or":  "A. J. Bard and L. R. Faulkner, Electrochemical Methods: Fundamentals and Applications (New York: Wiley: 2001).",
+				"tr":  "A. J. Bard and L. R. Faulkner, Electrochemical Methods: Fundamentals and Applications (New York: Wiley: 2001)."
+			},
+			{
+				"doi": "",
+				"or":  "I. M. Dmytrak and V. V. Panasyuk, Influence of Corrosive Media on the Local Destruction of Metals near Stress Concentrators (Lviv: FMI: 1999) (in Ukrainian).",
+				"tr":  "I. M. Dmytrak and V. V. Panasyuk, Influence of Corrosive Media on the Local Destruction of Metals near Stress Concentrators (Lviv: FMI: 1999) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1007/978-3-662-11502-2",
+				"or":  "H. Kaeshe, Die Korrosion der Metalle. Physikalisch–Chemische Prinzipien und Aktuelle Probleme (Berlin–Heidenberg–New York: Springer-Verlag: 1979).",
+				"tr":  "H. Kaeshe, Die Korrosion der Metalle. Physikalisch–Chemische Prinzipien und Aktuelle Probleme (Berlin–Heidenberg–New York: Springer-Verlag: 1979)."
+			},
+			{
+				"doi": "",
+				"or":  "V. P. Astakhov, Tribology in Manufacturing Technology (New York: Springer: 2013), p. 1.",
+				"tr":  "V. P. Astakhov, Tribology in Manufacturing Technology (New York: Springer: 2013), p. 1."
+			},
+			{
+				"doi": "10.5006/1.3585131",
+				"or":  "T. K. Christman, Corrosion, 46, No. 6: 450 (1990).",
+				"tr":  "T. K. Christman, Corrosion, 46, No. 6: 450 (1990)."
+			},
+			{
+				"doi": "10.1016/j.corsci.2011.05.050",
+				"or":  "D. A. Horner, B. J. Connolly, S. Zhou, L. Crocker, and A. Turnbull, Corrosion Science, 53, No. 11: 3466 (2011).",
+				"tr":  "D. A. Horner, B. J. Connolly, S. Zhou, L. Crocker, and A. Turnbull, Corrosion Science, 53, No. 11: 3466 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "A New Directory of Chemist and Technologist. Electrode Processes. Chemical Kinetics and Diffusion. Colloid Chemistry (Ed. S. A. Simanova) (St. Petersburg: ANO NPO ‘Professional’: 2004) (in Russian).",
+				"tr":  "A New Directory of Chemist and Technologist. Electrode Processes. Chemical Kinetics and Diffusion. Colloid Chemistry (Ed. S. A. Simanova) (St. Petersburg: ANO NPO 'Professional': 2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. B. Valyashek, A. V. Kaplun, and V. M. Yuzevych, Computer-Integrated Technologies: Education, Science, Production, 18: 97 (2015) (in Ukrainian).",
+				"tr":  "V. B. Valyashek, A. V. Kaplun, and V. M. Yuzevych, Computer-Integrated Technologies: Education, Science, Production, 18: 97 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/0022-5096(77)90003-5",
+				"or":  "R. M. McMeeking, J. Mechanics and Physics of Solids, 25, No. 6: 357 (1977).",
+				"tr":  "R. M. McMeeking, J. Mechanics and Physics of Solids, 25, No. 6: 357 (1977)."
+			},
+			{
+				"doi": "10.1115/1.3601206",
+				"or":  "J. R. Rice, J. Applied Mechanics, 35, No. 2: 379 (1968).",
+				"tr":  "J. R. Rice, J. Applied Mechanics, 35, No. 2: 379 (1968)."
+			},
+			{
+				"doi": "",
+				"or":  "R. H. Jones and R. E. Ricker, Stress-Corrosion Cracking Materials Performance and Evaluation (Ed. R. H. Jones) (Ohio: ASM International: 1992), p. 1.",
+				"tr":  "R. H. Jones and R. E. Ricker, Stress-Corrosion Cracking Materials Performance and Evaluation (Ed. R. H. Jones) (Ohio: ASM International: 1992), p. 1."
+			},
+			{
+				"doi": "",
+				"or":  "Stress Intensity Factors Handbook (Ed. Y. Murakami) (Oxford: Pergamon Press: 1987).",
+				"tr":  "Stress Intensity Factors Handbook (Ed. Y. Murakami) (Oxford: Pergamon Press: 1987)."
+			},
+			{
+				"doi": "",
+				"or":  "Ya. M. Kolotyrkin, Yu. A. Popov, and Yu. V. Alekseev, Itogi Nauki i Tekhniki. Ser. Corrosion and Corrosion Protection, 9: 88 (1982) (in Russian).",
+				"tr":  "Ya. M. Kolotyrkin, Yu. A. Popov, and Yu. V. Alekseev, Itogi Nauki i Tekhniki. Ser. Corrosion and Corrosion Protection, 9: 88 (1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Tables of Physical Quantities. Reference Book (Ed. I. K. Kikoin) (Moscow: Atomizdat: 1976) (in Russian).",
+				"tr":  "Tables of Physical Quantities. Reference Book (Ed. I. K. Kikoin) (Moscow: Atomizdat: 1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Dieter, Mechanical Metallurgy (New York: McGraw-Hill: 1986).",
+				"tr":  "G. Dieter, Mechanical Metallurgy (New York: McGraw-Hill: 1986)."
+			}
+		]
+	}
+}

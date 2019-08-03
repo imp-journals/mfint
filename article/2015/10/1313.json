@@ -1,0 +1,118 @@
+{
+	"_id":    "MFiNT.37.10.1313",
+	"year":   2015,
+	"volume": 37,
+	"issue":  10,
+	"pages":  [1313,1324],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["17.09.2015"],
+	"PACS":   "61.66.Dk, 61.72.S-, 81.05.Bx, 81.10.Fq, 81.30.Fb, 81.40.Ef, 81.70.Bt",
+	"title":  {
+			"ua": "Структурні і технологічні аспекти одержання якісних напівфабрикатів з жароміцного інтерметалідного сплаву на основі Ti$_{2}$AlNb з високим комплексом властивостей",
+			"en": "Structure and Technological Aspects of Obtaining Qualitative Semi-Finished Products from Heat-Resistant Intermetallic Ti$_{2}$AlNb-Based Alloy with Improved Properties Complex",
+			"ru": "Структурные и технологические аспекты получения качественных полуфабрикатов из жаропрочного интерметаллидного сплава на основе Ti$_{2}$AlNb с высоким комплексом свойств"
+		},
+	"abstract": {
+		"ua": "У роботі розглянуто дві схеми одержання жароміцного стопу на основі інтерметаліду титану Ti$_{2}$AlNb: потрійне вакуумно-дугове перетоплення (ВДП—ВДП—ВДП) і потрійне вакуумно-дугове перетоплення, коли друге перетоплення проводилося у вакуумно-дуговій гарнісажній печі (ВДП—ВДГП—ВДП). Показано, що використання другої схеми витопу забезпечує одержання більш однорідного розподілу леґувальних елементів, в першу чергу, ніобію, по перерізу зливка. Методою пробного загартування визначено температурні межі фазових областей. Показано, що вище температури 1050°С стоп знаходиться в однофазному упорядкованому В2-cтані. При більш низьких температурах надструктурних рефлексів В2-фази виявлено не було. Досліджено здеформованість жароміцного стопу в литому стані при підвищених температурах. Встановлено, що деформація зливка у В2-області (вище температури 1050°С) може проводитися зі ступенями деформації, більшими, ніж 70%, а деформація в ($О+\\beta$)-області – меншими, ніж 50%. На підставі проведених досліджень було розроблено дослідно-промислову технологію і одержано пруток діяметром у 60 мм з жароміцного стопу на основі інтерметаліду титану Ti$_{2}$AlNb. Розроблено двоступеневий режим термічної обробки, що включає нагрівання до високотемпературного ступеня при температурі 980°С і охолодження на повітрі, що уможливило зафіксувати в структурі стопу метастабільну $\\beta$-фазу. Наступне нагрівання до температури 850°С і шестигодинна витримка призводять до її розпаду і формування у стопі дисперсної структури, що забезпечує заданий комплекс механічних властивостей.",
+		"en": "In this work, the two schemes of obtaining heat-resistant alloy based on titanium Ti$_{2}$AlNb intermetallide is considered: the triple vacuum-arc remelting (VAR—VAR—VAR) and the triple vacuum-arc remelting with the second remelting being conducted in a vacuum-arc skull furnace (VAR—VASR—VAR). As shown, the second melting scheme provides obtainment of the more homogeneous distribution for the alloying elements (primarily niobium) across the ingot section. Temperature limits of the phases’ regions are determined by a test quenching method. As shown, the alloy is of an ordered single-phase B2-state at the temperatures higher than 1050°C. At the lower temperatures, the superstructural reflections of B2-phase are not observed. Deformability of the heat-resistant alloy in as-cast condition is investigated at the elevated temperatures. As stated, the deformation of the ingot in B2-region (higher than 1050°C) can be carried out with the deformation degrees of more than 70%, and the deformation in ($O+\\beta$)-region–with the deformation degrees of less than 50%. Based on the fulfilled investigations, experimental-industrial technology is developed, and the rod with diameter of 60 mm is obtained from heat-resistant alloy based on titanium Ti$_{2}$AlNb intermetallide. A two-step heat-treatment mode is developed including heating up to a high-temperature stage of 980°C and air-cooling that allows fixing a metastable $\\beta$-phase in the alloy structure. The following heating up to 850°C and a 6-hour soaking result in its decomposition and formation of dispersed structure in the alloy that provides a required complex of mechanical properties.",
+		"ru": "В работе рассмотрены две схемы получения жаропрочного сплава на основе интерметаллида титана Ti$_{2}$AlNb: тройной вакуумно-дуговой переплав (ВДП—ВДП—ВДП) и тройной вакуумно-дуговой переплав, когда второй переплав проводился в вакуумно-дуговой гарнисажной печи (ВДП— ВДГП—ВДП). Показано, что использование второй схемы выплавки обеспечивает получение более однородного распределения легирующих элементов, в первую очередь, ниобия, по сечению слитка. Методом пробных закалок определены температурные границы фазовых областей. Показано, что выше температуры 1050°С сплав находится в однофазном упорядоченном В2-cостоянии. При более низких температурах сверхструктурных рефлексов В2-фазы обнаружено не было. Исследована деформируемость жаропрочного сплава в литом состоянии при повышенных температурах. Установлено, что деформация слитка в В2-области (выше температуры 1050°С) может проводиться со степенями деформации более 70%, а деформация в ($О+\\beta$)-области – менее 50%. На основании проведённых исследований была разработана опытно-промышленная технология и получен пруток диаметром 60 мм из жаропрочного сплава на основе интерметаллида титана Ti$_{2}$AlNb. Разработан двухступенчатый режим термической обработки, включающий нагрев до высокотемпературной ступени при температуре 980°С и охлаждение на воздухе, что позволило зафиксировать в структуре сплава метастабильную $\\beta$-фазу. Последующий нагрев до температуры 850°С и шестичасовая выдержка приводят к её распаду и формированию в сплаве дисперсной структуры, обеспечивающей заданный комплекс механических свойств."
+	},
+	"keywords": {
+		"ua": "жароміцний титановий орто-стоп, хімічний склад, термічна обробка, структура, фазовий склад, міцність, пластичність",
+		"en": "heat-resistant titanium ortho-alloy, chemical composition, heat treatment, structure, phase composition, strength, plasticity",
+		"ru": "жаропрочный титановый орто-сплав, химический состав, термическая обработка, структура, фазовый состав, прочность, пластичность"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. В. Скворцова", "en": "S. V. Skvortsova", "ru": "С. В. Скворцова"},
+			"OID": [421]
+		},
+		{
+			"AID": {"ua": "О. А. Ільїн", "en": "A. A. Ilyin", "ru": "А. А. Ильин"},
+			"OID": [421]
+		},
+		{
+			"AID": {"ua": "М. Г. Штуца", "en": "M. G. Shtutsa", "ru": "М. Г. Штуца"},
+			"OID": [434]
+		},
+		{
+			"AID": {"ua": "А. В. Алєксандров", "en": "A. V. Aleksandrov", "ru": "А. В. Александров"},
+			"OID": [434]
+		},
+		{
+			"AID": {"ua": "А. В. Андрєєв", "en": "A. V. Andreev", "ru": "А. В. Андреев"},
+			"OID": [434]
+		},
+		{
+			"AID": {"ua": "О. З. Умарова", "en": "O. Z. Umarova", "ru": "О. З. Умарова"},
+			"OID": [421]
+		}
+	],
+	"references": {
+		"count": 12,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Е. Н. Каблов, Авиационные материалы и технологии, № S: 7 (2012).",
+				"tr":  "E. N. Kablov, Aviacionnye Materialy i Tehnologii, No. S: 7 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Шмотин, Р. Ю. Старков, Д. В. Данилов, О. Г. Оспенникова, Б. С. Ломберг, Авиационные материалы и технологии, № 2: 6 (2012).",
+				"tr":  "Yu. N. Shmotin, R. Yu. Starkov, D. V. Danilov, O. G. Ospennikova, and B. S. Lomberg, Aviacionnye Materialy i Tehnologii, No. 2: 6 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Антипов, Авиационные материалы и технологии, № S: 157 (2012).",
+				"tr":  "V. V. Antipov, Aviacionnye Materialy i Tehnologii, No. S: 157 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. С. Кашапов, А. В. Новак, Н. А. Ночовная, Т. В. Павлова, Труды ВИАМ (электронный журнал), № 3 (2013).",
+				"tr":  "O. S. Kashapov, A. V. Novak, N. A. Nochovnaya, and T. V. Pavlova, Trudy VIAM (Electronic Journal), No. 3 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Ночовная, Е. Б. Алексеев, А. Ю. Изотова, А. В. Новак, Титан, № 4 (38): 42 (2012).",
+				"tr":  "N. A. Nochovnaya, E. B. Alekseev, A. Yu. Izotova, and A. V. Novak, Titan, No. 4 (38): 42 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Ночовная, В. И. Иванов, Е. Б. Алексеев, А. С. Кочетков, Авиационные материалы и технологии, № S: 196 (2012).",
+				"tr":  "N. A. Nochovnaya, V. I. Ivanov, E. B. Alekseev, and A. S. Kochetkov, Aviacionnye Materialy i Tehnologii, No. S: 196 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Ночовная, В. Г. Анташев, Е. Б. Алексеев, Технология легких сплавов, № 3: 28 (2009).",
+				"tr":  "N. A. Nochovnaya, V. G. Antashev, and E. B. Alekseev, Tekhnologiya Legkikh Splavov, No. 3: 28 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Ночовная, Е. Б. Алексеев, К. К. Ясинский, А. С. Кочетков, Вестник МГТУ им. Н. Э. Баумана. Сер. «Машиностроение», 53 (2011).",
+				"tr":  "N. A. Nochovnaya, E. B. Alekseev, K. K. Yasinskiy, and A. S. Kochetkov, Vestnik MGTU im. N. Eh. Baumana. Ser. 'Mashinostroenie', 53 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Ночовная, С. В. Скворцова, Д. С. Анищук, Е. Б. Алексеев, П. В. Панин, О. З. Умарова, Титан, № 4 (42): 33 (2013).",
+				"tr":  "N. A. Nochovnaya, S. V. Skvortsova, D. S. Anishchuk, E. B. Alekseev, P. V. Panin, and O. Z. Umarova, Titan, No. 4 (42): 33 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Ночовная, В. Г. Анташев, А. А. Ширяев, Е. Б. Алексеев, Технология лёгких сплавов, № 4: 92 (2012).",
+				"tr":  "N. A. Nochovnaya, V. G. Antashev, A. A. Shiryaev, and E. B. Alekseev, Tekhnologiya Legkikh Splavov, No. 4: 92: (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "N. Nochovnaya, V. Ivanov, E. Alexeev, and A. Izotova, Proc. of 12th World Conference on Titanium (June 19–24, 2011) (Beijing: CNCC: 2011), vol. 2, p. 1383.",
+				"tr":  "N. Nochovnaya, V. Ivanov, E. Alexeev, and A. Izotova. Proc. of 12th World Conference on Titanium (June 19–24, 2011) (Beijing: CNCC: 2011), vol. 2, p. 1383."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Скворцова, О. З. Умарова, И. А. Грушин, Д. С. Анищук, Титан, № 2 (47): 11 (2015).",
+				"tr":  "S. V. Skvortsova, O. Z. Umarova, I. A. Grushin, and D. S. Anishchuk, Titan, No. 2 (47): 11 (2015) (in Russian)."
+			}
+		]
+	}
+}

@@ -1,0 +1,187 @@
+{
+	"year":   2015,
+	"volume": 37,
+	"issue":  2,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [135,148],
+			"title": {
+				"ua": "Аморфні та нанокристалічні магнітопроводи для високочутливих датчиків індукційних магнітометрів",
+				"en": "Amorphous and Nanocrystalline Magnetic Conductors for High-Sensitive Sensors of Induction Magnetometers",
+				"ru": "Аморфные и нанокристаллические магнитопроводы для высокочувствительных датчиков индукционных магнитометров"
+			},
+			"autors": {
+				"ua": "В. К. Носенко, В. В. Кирильчук, А. П. Кочкубей, В. З. Балан",
+				"en": "V. K. Nosenko, V. V. Kyryl’chuk, O. P. Kochkubey, and V. Z. Balan",
+				"ru": "В. К. Носенко, В. В. Кирильчук, А. П. Кочкубей, В. З. Балан"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [149,155],
+			"title": {
+				"ua": "Про енергетику формування малих вакансійних комплексів у ГЩП-берилію",
+				"en": "On Energetics of Formation of Small Vacancy Complexes in the H.C.P. Beryllium",
+				"ru": "Об энергетике формирования малых вакансионных комплексов в ГПУ-бериллии"
+			},
+			"autors": {
+				"ua": "А. М. Тимошевський, Б. З. Янчицький, О. С. Бакай, О. М. Івасишин",
+				"en": "A. M. Timoshevskii, B. Z. Yanchitsky, O. S. Bakai, and O. M. Ivasishin",
+				"ru": "А. Н. Тимошевский, Б. З. Янчицкий, А. С. Бакай, О. М. Ивасишин"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [157,168],
+			"title": {
+				"ua": "Виявлення початку формування двовимірного електронного газу на поверхні топологічного ізолятора",
+				"en": "Detection of Early Formation of Two-Dimensional Electron Gas on the Surface of Topological Insulator",
+				"ru": "Выявление начала формирования двумерного электронного газа на поверхности топологического изолятора"
+			},
+			"autors": {
+				"ua": "М. Л. Прокопович, Є. С. Кушніренко",
+				"en": "M. L. Prokopovych and Ye. S. Kushnirenko",
+				"ru": "М. Л. Прокопович, Е. С. Кушниренко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [169,184],
+			"title": {
+				"ua": "Зміна фазово-структурного стану сплаву на основі SmCo$_{5}$ в ході солід-ГДДР при низькому тиску водню",
+				"en": "Change of the Phase-Structural State of SmCo$_{5}$-Based Alloy During Solid-HDDR under Low Hydrogen Pressure",
+				"ru": "Изменение фазово-структурного состояния сплава на основе SmCo$_{5}$ в ходе солид-ГДДР при низком давлении водорода"
+			},
+			"autors": {
+				"ua": "І. І. Булик, В. В. Бурховецький, А. М. Тростянчин",
+				"en": "I. I. Bulyk, V. V. Burkhovetskyi, and А. M. Trostianchyn",
+				"ru": "И. И. Булык, В. В. Бурховецкий, А. Н. Тростянчин"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [185,198],
+			"title": {
+				"ua": "Ефекти нестаціонарності при спрямованій кристалізації бінарної системи в квазідвовимірному зразку",
+				"en": "Effects of Nonstationarity During Directional Crystallization of Binary System in Quasi-Two-Dimensional Specimen",
+				"ru": "Эффекты нестационарности при направленной кристаллизации бинарной системы в квазидвумерном образце"
+			},
+			"autors": {
+				"ua": "О. П. Федоров, В. Ф. Демченко, Є. Л. Живолуб",
+				"en": "O. P. Fedorov, V. F. Demchenko, and Ye. L. Zhivolub",
+				"ru": "О. П. Фёдоров, В. Ф. Демченко, Е. Л. Живолуб"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [199,208],
+			"title": {
+				"ua": "Про вплив швидкості охолодження виливки на механічні характеристики сплаву Ti$_{50}$Ni$_{41}$Nb$_{8}$Ta$_{1}$",
+				"en": "On the Influence of Casting Cooling Rates on the Mechanical Properties of the Ti$_{50}$Ni$_{41}$Nb$_{8}$Ta$_{1}$ Alloy",
+				"ru": "О влиянии скорости охлаждения отливки на механические характеристики сплава Ti$_{50}$Ni$_{41}$Nb$_{8}$Ta$_{1}$"
+			},
+			"autors": {
+				"ua": "С. М. Кедровський, Ю. М. Коваль, В. М. Слєпченко, К. В. Сліпченко, О. В. Філатов",
+				"en": "S. M. Kedrovsky, Yu. M. Koval, V. M. Slipchenko, K. V. Slipchenko, and O. V. Filatov",
+				"ru": "С. Н. Кедровский, Ю. Н. Коваль, В. Н. Слепченко, Е. В. Слипченко, А. В. Филатов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [209,220],
+			"title": {
+				"ua": "Вплив підвищеного вмісту кремнію на твердість чавуну з кулевидним графітом",
+				"en": "The Influence of Higher Silicon Content on the Hardness of Spheroidal Graphite Cast Iron",
+				"ru": "Влияние повышенного содержания кремния на твёрдость литейного чугуна с шаровидным графитом"
+			},
+			"autors": {
+				"ua": "Іва Нова, Йіржі Махута",
+				"en": "Iva Nová and Jiří Machuta",
+				"ru": "Ива Нова, Йиржи Махута"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [221,231],
+			"title": {
+				"ua": "Визначення сил при гідровибусі в обмеженому об’ємі. I. Розрахунок сил від дії ударних хвиль",
+				"en": "Determination of Forces under Hydroexplosion in a Restricted Environment. Part 1. Calculation of Forces Caused by the Action of Shock Waves",
+				"ru": "Определение сил при гидровзрыве в ограниченном объёме. I. Расчёт сил от действия ударных волн"
+			},
+			"autors": {
+				"ua": "Ю. О. Невешкін, В. В. Остапчук, О. У. Соломяний",
+				"en": "Yu. O. Neveshkin, V. V. Ostapchuk, and O. U. Solomianyi",
+				"ru": "Ю. А. Невешкин, В. В. Остапчук, А. У. Соломяный"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [233,241],
+			"title": {
+				"ua": "Відмінні особливості дифузійної взаємодії міді та молібдену при зварюванні тиском через модифіковані іонною обробкою прошарки",
+				"en": "The Distinctive Features of Diffusion Interaction of Copper and Molybdenum under Pressure Welding Through the Layers Modified by Ion-Beam Processing",
+				"ru": "Отличительные особенности диффузионного взаимодействия меди и молибдена при сварке давлением через модифицированные ионной обработкой прослойки"
+			},
+			"autors": {
+				"ua": "В. Ф. Мазанко, Г. К. Харченко, Т. Р. Ганєєв, О. О. Новомлинець, І. В. Завальна",
+				"en": "V. F. Mazanko, H. K. Kharchenko, T. R. Hanieiev, O. O. Novomlynets, and I. V. Zavalna",
+				"ru": "В. Ф. Мазанко, Г. К. Харченко, Т. Р. Ганеев, О. А. Новомлинец, И. В. Завальная"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [243,255],
+			"title": {
+				"ua": "Особливості гідрування сплавів системи Ti—V",
+				"en": "Features of Hydrogenation of the Ti—V System Alloys",
+				"ru": "Особенности гидрирования сплавов системы Ti—V"
+			},
+			"autors": {
+				"ua": "Т. В. Прядко",
+				"en": "T. V. Pryadko",
+				"ru": "Т. В. Прядко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [257,264],
+			"title": {
+				"ua": "Фазовий склад електроосаджених сплавів Fe-Zn",
+				"en": "Phase Composition of Electrodeposited Fe—Zn Alloys",
+				"ru": "Фазовый состав электроосаждённых сплавов Fe—Zn"
+			},
+			"autors": {
+				"ua": "Є. В. Колесник",
+				"en": "Ie. V. Kolesnyk",
+				"ru": "Е. В. Колесник"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  2,
+			"pages":  [265,279],
+			"title": {
+				"ua": "Нові можливості інтегральної динамічної дифрактометрії недосконалостей кристалів",
+				"en": "New Performance Capabilities of Integral Dynamical Diffractometry of Crystal Imperfections",
+				"ru": "Новые возможности интегральной динамической дифрактометрии несовершенств кристаллов"
+			},
+			"autors": {
+				"ua": "В. В. Лізунов, В. Б. Молодкін, С. І. Оліховський, С. В. Лізунова, Н. Г. Толмачёв, Г. І. Низкова, О. С. Скакунова, С. В. Дмітрієв, Б. В. Шелудченко, Я. В. Василик, Т. Г. Сич, К. В. Фузик, Р. В. Лехняк, Л. М. Скапа",
+				"en": "V. V. Lizunov, V. B. Molodkin, S. I. Olikhovskii, S. V. Lizunova, N. G. Tolmachev, H. I. Nizkova, O. S. Skakunova, S. V. Dmitriev, B. V. Sheludchenko, Ya. V. Vasylyk, T. G. Sych, K. K. Fuzik, R. V. Lekhnyak, and L. M. Skapa",
+				"ru": "В. В. Лизунов, В. Б. Молодкин, С. И. Олиховский, С. В. Лизунова, Н. Г. Толмачёв, А. И. Низкова, Е. С. Скакунова, С. В. Дмитриев, Б. В. Шелудченко, Я. В. Василик, Т. Г. Сыч, Е. В. Фузик, Р. В. Лехняк, Л. Н. Скапа"
+			}
+		}
+	]
+}

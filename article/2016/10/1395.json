@@ -1,0 +1,167 @@
+{
+	"_id":    "MFiNT.38.10.1395",
+	"year":   2016,
+	"volume": 38,
+	"issue":  10,
+	"pages":  [1395,1405],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["05.07.2016"],
+	"PACS":   "05.10.Ln, 05.70.Ce, 64.10.+h, 65.40.gd, 81.05.Zx, 81.30.Bx, 81.30.Fb, 82.60.Lf",
+	"title":   {
+		"ua": "Прогнозування стабільної композиції для високоентропійних тяжкотопких стопів",
+		"en": "Prediction of Stable Composition for High-Entropy Refractory Alloys",
+		"ru": "Прогнозирование стабильной композиции для высокоэнтропийных тугоплавких сплавов"
+	},
+	"abstract": {
+		"ua": "Розроблено загальний підхід для оцінки стабільности багатокомпонентних твердих розчинів заміщення з використанням термодинамічних, механічних і топологічних параметрів елементів, що їх складають. Високотемпературні системи, що містять тяжкотопкі елементи (W, Ta, Mo, Nb, V, Ti, Zr, Hf, Cr), були досліджені за допомогою цього підходу. Одержано оптимальні склади для високоентропійних стопів і описано вплив різних чинників у формуванні стабільних стопів. Показано, що найбільш стійкі стопи мають нееквіатомне співвідношення складів елементів. Для систем W—Ta—Mo—Nb і W—Ta—Mo—Nb—V було одержано узгодженість між розподілами елементів в експериментальних стопах і прогнозованих стабільних композиціях.",
+		"en": "The common approach for evaluation of stability of multicomponent substitutional solid solutions using thermodynamic, mechanical, and topological parameters of the constituent elements is developed. The high-temperature systems based on refractory elements (W, Ta, Mo, Nb, V, Ti, Zr, Hf, Cr) are investigated using this approach. Optimal compositions for high-entropy alloys are obtained, and influence of various factors in the formation of stable alloys is described. As shown, the most resistant alloys have non-equiatomic element-contents’ ratios. The agreement between element distribution in experimental alloys and predicted stable compositions are obtained for the W— Ta—Mo—Nb and W—Ta—Mo—Nb—V systems.",
+		"ru": "Разработан общий подход для оценки стабильности многокомпонентных твёрдых растворов замещения с использованием термодинамических, механических и топологических параметров составляющих их элементов. Высокотемпературные системы, состоящие из тугоплавких элементов (W, Ta, Mo, Nb, V, Ti, Zr, Hf, Cr), были исследованы с использованием этого подхода. Получены оптимальные составы для высокоэнтропийных сплавов и описано влияние различных факторов при формировании стабильных сплавов. Показано, что наиболее стабильные сплавы характеризуются неэквиатомным отношением составов элементов. Для систем W— Ta—Mo—Nb и W—Ta—Mo—Nb—V было получено согласие между распределениями элементов в экспериментальных сплавах и предсказанных стабильных композициях."
+	},
+	"keywords": {
+		"ua": "високоентропійні стопи, тяжкотопкі стопи, твердий розчин, термодинаміка",
+		"en": "high-entropy alloys, refractory alloys, solid solution, thermodynamics",
+		"ru": "высокоэнтропийные сплавы, тугоплавкие сплавы, твёрдый раствор, термодинамика"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. Б. Мельник", "en": "A. B. Melnick", "ru": "А. Б. Мельник"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. К. Сульженко", "en": "V. K. Soolshenko", "ru": "В. К. Сульженко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 25,
+		"list":  [
+			{
+				"doi": "10.1080/21663831.2014.912690",
+				"or":  "M. H. Tsai and J. W. Yeh, Mater. Res. Lett., 2: 107 (2014).",
+				"tr":  "M. H. Tsai and J. W. Yeh, Mater. Res. Lett., 2: 107 (2014)."
+			},
+			{
+				"doi": "10.3166/acsm.31.633-648",
+				"or":  "J. W. Yeh, Annales De Chimie. Science des Materiaux, 31: 633 (2006).",
+				"tr":  "J. W. Yeh, Annales De Chimie. Science des Materiaux, 31: 633 (2006)."
+			},
+			{
+				"doi": "10.1016/j.matchemphys.2011.11.021",
+				"or":  "Х. Yang and Y. Zhang, Mater. Chemistry and Physics, 132: 233 (2012).",
+				"tr":  "X. Yang and Y. Zhang, Mater. Chemistry and Physics, 132: 233 (2012)."
+			},
+			{
+				"doi": "10.1016/j.intermet.2013.05.002",
+				"or":  "S. Guo, Q. Hu, C. Ng, and C. T. Liu, Intermetallics, 41: 96 (2013).",
+				"tr":  "S. Guo, Q. Hu, C. Ng, and C. T. Liu, Intermetallics, 41: 96 (2013)."
+			},
+			{
+				"doi": "10.1016/j.pmatsci.2013.10.001",
+				"or":  "Y. Zhang, T. T. Zuo, Z. Tang, M. C. Gao, K. A. Dahmen, P. K. Liaw et al., Prog. Mater. Sci., 61: 1 (2014).",
+				"tr":  "Y. Zhang, T. T. Zuo, Z. Tang, M. C. Gao, K. A. Dahmen, P. K. Liaw et al., Prog. Mater. Sci., 61: 1 (2014)."
+			},
+			{
+				"doi": "10.1557/mrc.2014.11",
+				"or":  "Y. Zhang, Z. P. Lu, S. G. Ma, and P. K. Liaw, MRS Communications, 4: 57 (2014).",
+				"tr":  "Y. Zhang, Z. P. Lu, S. G. Ma, and P. K. Liaw, MRS Communications, 4: 57 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Ranganathan, Current Science, 85: 1404 (2003).",
+				"tr":  "S. Ranganathan, Current Science, 85: 1404 (2003)."
+			},
+			{
+				"doi": "10.1002/adem.200300567",
+				"or":  "J. W. Yeh, S. K. Chen, S. J. Lin, J. Y. Gan, T. S. Chin, T. T. Shun et al., Adv. Eng. Mater., 6: 299 (2004).",
+				"tr":  "J. W. Yeh, S. K. Chen, S. J. Lin, J. Y. Gan, T. S. Chin, T. T. Shun et al., Adv. Eng. Mater., 6: 299 (2004)."
+			},
+			{
+				"doi": "10.1016/j.msea.2003.10.257",
+				"or":  "B. Cantor, I. Chang, P. Knight, and A. Vincent, Mater. Sci. Eng. A, 375–377: 213 (2004).",
+				"tr":  "B. Cantor, I. Chang, P. Knight, and A. Vincent, Mater. Sci. Eng. A, 375–377: 213 (2004)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.560.1",
+				"or":  "J. W. Yeh, Y. L. Chen, S. J. Lin, and S. K. Chen, Mater. Sci. Forum, 560: 1 (2007).",
+				"tr":  "J. W. Yeh, Y. L. Chen, S. J. Lin, and S. K. Chen, Mater. Sci. Forum, 560: 1 (2007)."
+			},
+			{
+				"doi": "10.1016/j.intermet.2010.05.014",
+				"or":  "O. N. Senkov, G. B. Wilks, D. B. Miracle, C. P. Chuang, and P. K. Liaw, Intermetallics, 18: 1758 (2010).",
+				"tr":  "O. N. Senkov, G. B. Wilks, D. B. Miracle, C. P. Chuang, and P. K. Liaw, Intermetallics, 18: 1758 (2010)."
+			},
+			{
+				"doi": "10.1016/j.intermet.2011.01.004",
+				"or":  "O. N. Senkov, G. B. Wilks, J. M. Scott, and D. B. Miracle, Intermetallics, 19: 698 (2011).",
+				"tr":  "O. N. Senkov, G. B. Wilks, J. M. Scott, and D. B. Miracle, Intermetallics, 19: 698 (2011)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2011.02.171",
+				"or":  "O. N. Senkov, J. M. Scott, S. V. Senkova, D. B. Miracle, and C. F. Woodward, J. Alloys Compd., 509: 6043 (2011).",
+				"tr":  "O. N. Senkov, J. M. Scott, S. V. Senkova, D. B. Miracle, and C. F. Woodward, J. Alloys Compd., 509: 6043 (2011)."
+			},
+			{
+				"doi": "10.1007/s10853-012-6260-2",
+				"or":  "O. N. Senkov, J. M. Scott, S. V. Senkova, F. Meisenkothen, D. B. Miracle, and C. F. Woodward, J. Mater. Sci., 47: 4062 (2012).",
+				"tr":  "O. N. Senkov, J. M. Scott, S. V. Senkova, F. Meisenkothen, D. B. Miracle, and C. F. Woodward, J. Mater. Sci., 47: 4062 (2012)."
+			},
+			{
+				"doi": "10.1016/j.msea.2011.09.033",
+				"or":  "O. N. Senkov and C. F. Woodward, Mater. Sci. Eng. A, 529: 311 (2011).",
+				"tr":  "O. N. Senkov and C. F. Woodward, Mater. Sci. Eng. A, 529: 311 (2011)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2012.11.032",
+				"or":  "O. N. Senkov, S. V. Senkova, C. Woodward, and D. B. Mircale, Acta Mater., 61: 1545 (2013).",
+				"tr":  "O. N. Senkov, S. V. Senkova, C. Woodward, and D. B. Mircale, Acta Mater., 61: 1545 (2013)."
+			},
+			{
+				"doi": "10.1016/j.msea.2012.12.018",
+				"or":  "O. N. Senkov, S. V. Senkova, D. B. Mircale, and C. Woodward, Mater. Sci. Eng. A, 565: 51 (2013).",
+				"tr":  "O. N. Senkov, S. V. Senkova, D. B. Mircale, and C. Woodward, Mater. Sci. Eng. A, 565: 51 (2013)."
+			},
+			{
+				"doi": "10.1016/j.ijrmhm.2014.07.009",
+				"or":  "E. Fazakas, V. Zadorozhnyy, L. K. Varga, A. Inoue, D. V. Louzguine-Luzgin, F. Tian, and L. Vitos, J. Refract. Met. H, 47: 131 (2014).",
+				"tr":  "E. Fazakas, V. Zadorozhnyy, L. K. Varga, A. Inoue, D. V. Louzguine-Luzgin, F. Tian, and L. Vitos, J. Refract. Met. H, 47: 131 (2014)."
+			},
+			{
+				"doi": "10.1016/j.msea.2015.12.017",
+				"or":  "G. Dirras, L. Lilensten, P. Djemia, M. Laurent-Brocq, D. Tingaud, J.-P. Couzinié, L. Perrière, T. Chauveau, and I. Guillot, Mater. Sci. Eng. A, 654: 30 (2016).",
+				"tr":  "G. Dirras, L. Lilensten, P. Djemia, M. Laurent-Brocq, D. Tingaud, J.-P. Couzinié, L. Perrière, T. Chauveau, and I. Guillot, Mater. Sci. Eng. A, 654: 30 (2016)."
+			},
+			{
+				"doi": "10.2320/matertrans1989.41.1372",
+				"or":  "A. Takeuchi and A. Inoue, Materials Transactions, 41: 1372 (2000).",
+				"tr":  "A. Takeuchi and A. Inoue, Materials Transactions, 41: 1372 (2000)."
+			},
+			{
+				"doi": "10.2320/matertrans.46.2817",
+				"or":  "A. Takeuchi and A. Inoue, Materials Transactions, 46: 2817 (2005).",
+				"tr":  "A. Takeuchi and A. Inoue, Materials Transactions, 46: 2817 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "F. R. Boer, R. Boom, W. Mattens, A. R. Miedema, and A. K. Niessen, Cohesion in Metals: Transition Metal Alloys (North-Holland: Amsterdam: 1988).",
+				"tr":  "F. R. Boer, R. Boom, W. Mattens, A. R. Miedema, and A. K. Niessen, Cohesion in Metals: Transition Metal Alloys (North-Holland: Amsterdam: 1988)."
+			},
+			{
+				"doi": "",
+				"or":  "WebElements Periodic Table, http://www.webelements.com/.",
+				"tr":  "WebElements Periodic Table, http://www.webelements.com/."
+			},
+			{
+				"doi": "10.1016/j.physb.2011.12.088",
+				"or":  "M. F. del Grosso, G. Bozzolo, and H. O. Mosca, Physica B, 407: 3285 (2012).",
+				"tr":  "M. F. del Grosso, G. Bozzolo, and H. O. Mosca, Physica B, 407: 3285 (2012)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2012.04.053",
+				"or":  "M. F. del Grosso, G. Bozzolo, and H. O. Mosca, J. Alloys Compd., 534: 25 (2012).",
+				"tr":  "M. F. del Grosso, G. Bozzolo, and H. O. Mosca, J. Alloys Compd., 534: 25 (2012)."
+			}
+		]
+	}
+}

@@ -1,0 +1,138 @@
+{
+	"_id":    "MFiNT.36.06.0829",
+	"year":   2014,
+	"volume": 36,
+	"issue":  6,
+	"pages":  [829,840],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["21.01.2014"],
+	"PACS":   "07.85.Nc, 61.05.cp, 62.20.Qp, 81.65.Mq",
+	"title":   {
+		"ua": "Високотемпературне дифрактометричне дослідження особливостей окиснення стопу FeCoNiMnCr",
+		"en": "High-Temperature Diffractometry Study of Features of the FeCoNiMnCr Alloy Oxidation",
+		"ru": "Высокотемпературное дифрактометрическое исследование особенностей окисления сплава FeCoNiMnCr"
+	},
+	"abstract": {
+		"ua": "В роботі виконано дослідження процесів, які відбуваються при окисненні багатокомпонентного високоентропійного еквіатомного стопу (ВЕС) FeCoNiMnCr, який кристалізується в ГЦК-ґратницю. Стоп було виготовлено методом вакуумно-дугового топлення і досліджено методом in situ у високотемпературній приставці УВД-2000 при температурах 293—1273 К у дифрактометрі ДРОН УМ1 на повітрі. При виборі металів для ВЕС враховувалися наступні фактори: атомні радіуси металів (повинні бути близькими один відносно другого), сумірна електронеґативність, подібні електронні концентрації елементів, ентальпія та ентропія стопу. Встановлено, що стоп у вихідному стані представляє собою твердий розчин на основі кубічної структури с ГЦК-ґратницею ($а$ = 0,3609 нм) та коефіцієнтом термічного розширення $(13,9 \\pm 0,2)\\cdot10^{-6}$ K$^{-1}$ в інтервалі температур 293—773 К. При температурах 873 К і вище було виявлено оксиди MnO та Fe$_{2}$MnO$_{4}$. Показано, що в порівнянні з вихідним станом зразка період ГЦК-ґратниці твердого розчину, відпаленого при 1273К, зменшився ($a$ = 0,3596 нм), що зв’язано з перебігом процесів перерозподілу атомів у кристалічній ґратниці, а також зниженням внутрішніх напруг. Міряння мікротвердості високоентропійного стопу FeCoNiMnCr після окиснення виконувалося шляхом автоматичного мікроіндентування на приладі «Микрон-гамма» пірамідою Берковича і дало значення 2,1 $\\pm$ 0,2 ГПа, а для модуля Юнґа – 130 $\\pm$ 5 ГПа.",
+		"en": "This paper represents the study of oxidation processes in multicomponent high-entropy equiatomic FeCoNiMnCr alloy, which is crystallized in f.c.c. lattice. Multicomponent equiatomic FeCoNiMnCr alloy is fabricated by vacuum-arc melting. It is studied by in situ method in high-temperature attachment UVD-2000 at temperatures 293—1273 K using DRON UM1 diffractometer in the air. Crystalline structure of multicomponent cast of high-entropy equiatomic FeCoNiMnCr alloy in the initial state at the temperature of 293 K is determined by X-ray diffraction analysis as a single-phase solid solution with f.c.c. lattice ($a$ = 0.3609 nm). At the temperature of 873 K, the presence of MnO and Fe$_{2}$MnO$_{4}$ oxides is registered. Most likely, the formation of MnO oxide can be explained by the large chemical affinity of Mn to oxygen in comparison with other elements. Within the temperature range 293—773 K, coefficient of thermal expansion for the initial f.c.c. solid solution is $(13,9 \\pm 0,2)\\cdot10^{-6}$ K$^{-1}$. At the temperature of 1273 K, lattice period of f.c.c. solid solution is decreased slightly ($a$ = 0.3596 nm). Obviously, this can be explained by the depletion of the surface of the solid solution by Mn atoms with the largest atomic radius amongst other metallic elements in the formation of the surface of the oxide. Compared to the initial state of the sample, the lattice period of f.c.c. solid solution is decreased, because of the redistribution of atoms in the crystal lattice and the decreased internal stresses. Microhardness of high-entropy FeCoNiMnCr alloy after oxidation is 2.1 $\\pm$ 0.2 GPa, and the Young’s modulus is 130 \\pm 5 GPa.",
+		"ru": "В работе выполнено исследование процессов, происходящих при окислении многокомпонентного высокоэнтропийного эквиатомного сплава (ВЭС) FeCoNiMnCr, кристаллизующегося в ГЦК-решётке. Сплав был приготовлен методом вакуумно-дуговой плавки и исследовался методом in situ в высокотемпературной приставке УВД-2000 при температурах 293— 1273 К в дифрактометре ДРОН-УМ1 на воздухе. При выборе металлов для ВЭСа учитывались следующие факторы: атомные радиусы металлов (должны быть близкими по отношению друг к другу), соизмеримая электроотрицательность, подобные электронные концентрации элементов, энтальпия и энтропия смешения сплава. Установлено, что сплав в исходном состоянии представляет собой твёрдый раствор на основе кубической структуры с ГЦК-решёткой ($a$ = 0,3609 нм) и коэффициентом термического расширения $(13,9 \\pm 0,2)\\cdot10^{-6}$ K$^{-1}$ в интервале температур 293—773 К. При температурах 873К и выше были обнаружены оксиды MnO и Fe$_{2}$MnO$_{4}$. Показано, что по сравнению с исходным состоянием образца период ГЦК-решётки твёрдого раствора, отожжённого при 1273 К, уменьшился ($a$ = 0,3596 нм), что связано с протеканием процессов перераспределения атомов в кристаллической решётке, а также снижением внутренних напряжений. Измерение микротвёрдости высокоэнтропийного сплава FeCoNiMnCr после окисления выполнялось путём автоматического микроиндентирования на приборе «Микрон-гамма» пирамидой Берковича и дало значение 2,1 $\\pm$ 0,2 ГПа, а для модуля Юнга – 130 $\\pm$ 5 ГПа."
+	},
+	"keywords": {
+		"ua": "високоентропійний стоп, твердий розчин, оксиди, високотемпературна рентґенівська дифракція, коефіцієнт термічного розширення",
+		"en": "high-entropy alloy, solid solution, oxides, high-temperature X-Ray diffraction, coefficient of thermal expansion",
+		"ru": "высокоэнтропийный сплав, твёрдый раствор, оксиды, высокотемпературная рентгеновская дифракция, коэффициент термического расширения"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. В. Карпець", "en": "M. V. Karpets", "ru": "М. В. Карпец"},
+			"OID": [2,202]
+		},
+		{
+			"AID": {"ua": "Є. С. Макаренко", "en": "Ye. S. Makarenko", "ru": "Е. С. Макаренко"},
+			"OID": [2,202]
+		},
+		{
+			"AID": {"ua": "А. Н. Мисливченко", "en": "A. N. Myslyvchenko", "ru": "А. Н. Мысливченко"},
+			"OID": [2,202]
+		},
+		{
+			"AID": {"ua": "Н. А. Крапивка", "en": "N. A. Krapivka", "ru": "Н. А. Крапивка"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "В. Ф. Горбань", "en": "V. F. Gorban’", "ru": "В. Ф. Горбань"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "С. Ю. Макаренко", "en": "S. Yu. Makarenko", "ru": "С. Ю. Макаренко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 16,
+		"list":  [
+			{
+				"doi": "10.1016/j.jallcom.2008.08.118",
+				"or":  "K.-Ch. Hsieh, Ch.-F. Yu, W.-T. Hsieh, W.-R. Chiang, J. S. Ku, J.-H. Lai, Ch.-P. Tu, and Ch. Ch. Yang, J. Alloys Compd., 483: 209 (2009).",
+				"tr":  "K.-Ch. Hsieh, Ch.-F. Yu, W.-T. Hsieh, W.-R. Chiang, J. S. Ku, J.-H. Lai, Ch.-P. Tu, and Ch. Ch. Yang, J. Alloys Compd., 483: 209 (2009)."
+			},
+			{
+				"doi": "10.1016/j.msea.2008.01.064",
+				"or":  "Y. P. Wang, B. S. Li, M. X. Ren, C. Yang, and H. Z. Fu, Mater. Sci. Eng. A, 491: 154 (2008).",
+				"tr":  "Y. P. Wang, B. S. Li, M. X. Ren, C. Yang, and H. Z. Fu, Mater. Sci. Eng. A, 491: 154 (2008)."
+			},
+			{
+				"doi": "10.1016/j.msea.2008.05.020",
+				"or":  "F. J. Wang and Y. Zhang, J. Mater. Sci. Eng. A, 496: 214 (2008).",
+				"tr":  "F. J. Wang and Y. Zhang, J. Mater. Sci. Eng. A, 496: 214 (2008)."
+			},
+			{
+				"doi": "10.1016/j.msea.2008.12.053",
+				"or":  "K. B. Zhang, Z. Y. Fu, J. Y. Zhang, W. M. Wang, H. Wang, and Y. C. Wang, Mater. Sci. Eng. A, 508: 214 (2009).",
+				"tr":  "K. B. Zhang, Z. Y. Fu, J. Y. Zhang, W. M. Wang, H. Wang, and Y. C. Wang, Mater. Sci. Eng. A, 508: 214 (2009)."
+			},
+			{
+				"doi": "10.1063/1.2938690",
+				"or":  "Y. J. Zhou, Y. Zhang, F. J. Wang, and G. L. Chen., Appl. Phys. Lett., 92: 241917 (2008).",
+				"tr":  "Y. J. Zhou, Y. Zhang, F. J. Wang, and G. L. Chen, Appl. Phys. Lett., 92: 241917 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Фирстов, В. Ф. Горбань, Н. А. Крапивка, Э. П. Печковский, Н. И. Даниленко, М. В. Карпец, Современные проблемы физического материаловедения, 17: 126 (2008).",
+				"tr":  "S. A. Firstov, V. F. Gorban', N. A. Krapivka, E. P. Pechkovskiy, N. I. Danilenko, and M. V. Karpets, Sovremennye Problemy Fizicheskogo Materialovedeniya, 17: 126 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Фирстов, В. Ф. Горбань, Н. А. Крапивка, Э. П. Печковский, Современные проблемы физического материаловедения, 20: 48 (2011).",
+				"tr":  "S. A. Firstov, V. F. Gorban', N. A. Krapivka, and E. P. Pechkovskiy, Sovremennye Problemy Fizicheskogo Materialovedeniya, 20: 48 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Горбань, В. А. Назаренко, Н. И. Даниленко, М. В. Карпец, Н. А. Крапивка, С. А. Фирстов, Е. С. Макаренко, Деформация и разрушение материалов, № 9: 2 (2013).",
+				"tr":  "V. F. Gorban', V. A. Nazarenko, N. I. Danilenko, M. V. Karpets, N. A. Krapivka, S. A. Firstov, and E. S. Makarenko, Deformatsiya i Razrushenie Materialov, No. 9: 2 (2013) (in Russian)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.560.1",
+				"or":  "J.-W. Yeh, Y.-L. Chen, S.-J. Lin, and S.-K. Chen, Mater. Sci. Forum, 560: 1 (2007).",
+				"tr":  "J.-W. Yeh, Y.-L. Chen, S.-J. Lin, and S.-K. Chen, Mater. Sci. Forum, 560: 1 (2007)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/AMR.652-654.1115",
+				"or":  "J. Jiang and X. Luo, Adv. Mater. Res., 652–654: 1115 (2013).",
+				"tr":  "J. Jiang and X. Luo, Adv. Mater. Res., 652–654: 1115 (2013)."
+			},
+			{
+				"doi": "10.1107/S0021889886089458",
+				"or":  "W. A. Dollase, J. Appl. Cryst., 19: 267 (1986).",
+				"tr":  "W. A. Dollase, J. Appl. Cryst., 19: 267 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Фирстов, В. Ф. Горбань, Э. П. Печковский, Н. А. Мамека, Наука и технологии, 11: 26 (2007).",
+				"tr":  "S. A. Firstov, V. F. Gorban', E. P. Pechkovskiy, and N. A. Mameka, Nauka i Tekhnologii, 11: 26 (2007) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S1003-6326(13)62557-1",
+				"or":  "M.-X. Ren, B.-S. Li, and H.-Zh. Fu, Trans. Nonferrous Met. Soc. China, 23: 991 (2013).",
+				"tr":  "M.-X. Ren, B.-S. Li, and H.-Zh. Fu, Trans. Nonferrous Met. Soc. China, 23: 991 (2013)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2013.01.042",
+				"or":  "F. Otto, Y. Yang, H. Bei, and E. P. George, Acta Mater., 61, No. 7: 2628 (2013).",
+				"tr":  "F. Otto, Y. Yang, H. Bei, and E. P. George, Acta Mater., 61, No. 7: 2628 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Шульце, Металлофизика (Москва: Мир: 1971).",
+				"tr":  "G. E. R. Schulze, Metallphysik (Berlin: Akademie-Verlag: 1967) (in German)."
+			},
+			{
+				"doi": "",
+				"or":  "Физические величины: Справочник (Ред. И. С. Григорьев, Е. З. Мейлихов) (Москва: Энергоатомиздат: 1991).",
+				"tr":  "Fizicheskie Velichiny: Spravochnik (Physical Quantities: Handbook) (Eds. I. S. Grigor'ev and E. Z. Meylikhov) (Moscow: Energoatomizdat: 1991) (in Russian)."
+			}
+		]
+	}
+}

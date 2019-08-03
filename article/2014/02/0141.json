@@ -1,0 +1,91 @@
+{
+	"_id":    "MFiNT.36.02.0141",
+	"year":   2014,
+	"volume": 36,
+	"issue":  2,
+	"pages":  [141,146],
+	"rubric": 2,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["02.12.2103"],
+	"PACS":   "61.05.cp, 61.72.Dd, 61.72.J-, 61.72.Yx, 68.49.Uv",
+	"title":   {
+		"ua": "Роль неоднорідних деформацій і кореляції приповерхневих дефектів у ковзній дифракції рентґенівського випромінювання",
+		"en": "The Role of Inhomogeneous Deformation and Correlation of Subsurface Defects in Grazing X-Ray Diffraction",
+		"ru": "Роль неоднородных деформаций и корреляции приповерхностных дефектов в скользящей дифракции рентгеновского излучения"
+	},
+	"abstract": {
+		"ua": "У роботі в рамках наближення спотвореної хвилі (distorted wave Born approximation–DWBA) в динамічній теорії досліджено ковзне розсіяння на кристалі з приповерхневими дефектами типу центрів дилатації. Обчислено перерізи дифузного розсіяння для Бреґґової дифракції на кристалічних площинах, перпендикулярних поверхні кристала. Проаналізовано вплив кореляцій між дефектами на картину дифузного розсіяння.",
+		"en": "The grazing scattering by a crystal with subsurface dilatation-centre-type defects is investigated within the scope of the distorted wave Born approximation (DWBA) of the dynamical theory. The diffuse scattering cross-sections for Bragg diffraction from crystal planes perpendicular to the crystal surface are calculated. The impact of correlations between defects on the diffuse scattering pattern is analysed.",
+		"ru": "В работе в рамках приближения искажённой волны (distorted wave Born approximation–DWBA) в динамической теории исследовано скользящее рассеяние на кристалле с приповерхностными дефектами типа центров дилатации. Вычислены сечения диффузного рассеяния для брэгговской дифракции на кристаллических плоскостях, перпендикулярных поверхности кристалла. Проанализировано влияние корреляций между дефектами на картину диффузного рассеяния."
+	},
+	"keywords": {
+		"ua": "Рентґенівські промені, ковзна дифракція, динамічна теорія, дифузне розсіяння, приповерхневі дефекти, кореляційна функція",
+		"en": "X-rays, grazing diffraction, dynamical theory, diffuse scattering, subsurface defects, correlation function",
+		"ru": "рентгеновские лучи, скользящая дифракция, динамическая теория, диффузное рассеяние, приповерхностные дефекты, корреляционная функция"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. Ю. Гаєвський", "en": "A. Yu. Gaevskii", "ru": "А. Ю. Гаевский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "І. Е. Голентус", "en": "I. E. Golentus", "ru": "И. Э. Голентус"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. Б. Молодкін", "en": "V. B. Molodkin", "ru": "В. Б. Молодкин"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 9,
+		"list":  [
+			{
+				"doi": "10.1107/S0108767383000471",
+				"or":  "A. M. Afanas’ev and M. K. Melkonyan, Acta Crystallogr. A, 39: 207 (1983).",
+				"tr":  "A. M. Afanas'ev and M. K. Melkonyan, Acta Crystallogr. A, 39: 207 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Yu. Gaevskii, I. E. Golentus, and V. B. Molodkin, Kristallografiya, 57, No. 5: 791 (2012).",
+				"tr":  "A. Yu. Gaevskii, I. E. Golentus, and V. B. Molodkin, Kristallografiya, 57, No. 5: 791 (2012)."
+			},
+			{
+				"doi": "10.1007/978-1-4757-4050-9",
+				"or":  "U. Pietsch, V. Holy, and T. Baumbach, High-Resolution X-Ray Scattering from Thin Films and Multilayers (New York: Springer Verlag: 2004).",
+				"tr":  "U. Pietsch, V. Holy, and T. Baumbach, High-Resolution X-Ray Scattering from Thin Films and Multilayers (New York: Springer Verlag: 2004)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Afanas’ev, P. A. Alexandrov, and R. М. Imamov, Rentgenodifraktsionnaya Diagnostika Submikronnykh Sloev (X-Ray Diffraction Diagnostics of Submicron Layers) (Moscow: Nauka: 1989) (in Russian).",
+				"tr":  "A. M. Afanas'ev, P. A. Alexandrov, and R. M. Imamov, Rentgenodifraktsionnaya Diagnostika Submikronnykh Sloev (X-Ray Diffraction Diagnostics of Submicron Layers) (Moscow: Nauka: 1989) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.39.8450",
+				"or":  "S. Grotehans, G.Wallnar, E. Burkel et al., Phys. Rev. B, 39: 8450 (1989).",
+				"tr":  "S. Grotehans, G.Wallnar, E. Burkel et al., Phys. Rev. B, 39: 8450 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "M. A. Krivoglaz, Difraktsiya Rentgenovskih Luchej i Nejtronov v Neideal’nykh Kristallakh (X-Ray and Neutron Diffraction in Nonideal Crystals) (Kiev: Naukova dumka: 1983) (in Russian).",
+				"tr":  "M. A. Krivoglaz, Difraktsiya Rentgenovskih Luchej i Nejtronov v Neideal'nykh Kristallakh (X-Ray and Neutron Diffraction in Nonideal Crystals) (Kiev: Naukova dumka: 1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Yu. Gaevskii, Metallofizika, 31, No. 10: 1317 (2009) (in Russian).",
+				"tr":  "A. Yu. Gaevskii, Metallofizika, 31, No. 10: 1317 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Bushuev, Fizika Tverdogo Tela, 37: 249 (1995) (in Russian).",
+				"tr":  "V. A. Bushuev, Fizika Tverdogo Tela, 37: 249 (1995) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. B. Molodkin, S. I. Olikhonskii, and M. E. Osinovskii, Metallofizika, 5, No. 5: 3 (1983) (in Russian).",
+				"tr":  "V. B. Molodkin, S. I. Olikhonskii, and M. E. Osinovskii, Metallofizika, 5, No. 5: 3 (1983) (in Russian)."
+			}
+		]
+	}
+}

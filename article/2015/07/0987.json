@@ -1,0 +1,161 @@
+{
+	"_id":    "MFiNT.37.07.0987",
+	"year":   2015,
+	"volume": 37,
+	"issue":  7,
+	"pages":  [987,1000],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["11.03.2015"],
+	"PACS":   "61.05.Qr, 61.66.Dk, 65.40.De, 65.40.gd, 75.30.Cr, 76.80.+y, 81.05.Bx",
+	"title":  {
+		"ua": "Вплив вмісту Al на магнітні властивості та теплове розширення литих високоентропійних стопів Al$_{x}$FeCoNiCuCr",
+		"en": "Effect of Al Content on Magnetic Properties and Thermal Expansion of As-Cast High-Entropy Alloys Al$_{x}$FeCoNiCuCr",
+		"ru": "Влияние содержания Al на магнитные свойства и тепловое расширение литых высокоэнтропийных сплавов Al$_{x}$FeCoNiCuCr"
+	},
+	"abstract": {
+		"ua": "Рентґеновою дифракцією, Мессбауеровою спектроскопією, магнетним і дилатометричним методами досліджено структуру та властивості високоентропійних стопів (ВЕС) Al$_{x}$FeCoNiCuCr (х = 1,0, 1,5, 1,8) у литому стані. Виявлено двофазний стан ВЕС і зростання параметра кристалічної ґратниці а ОЦК- і ГЦК-фаз. Встановлено зниження температури Кюрі і намагнетованости наситу при відхилі концентрації Al від еквіатомового складу. Вивчені ВЕС характеризуються неоднорідним магнетним ладом. Для інтервалу температур 135—545 К визначено магнетний момент 0,2—0,4 $\\mu_{B}$ і середнє значення температурного коефіцієнта теплового розширення <$\\alpha$> = 12,4$\\cdot$10$^{-6}$ К$^{-1}$ досліджуваних ВЕС.",
+		"en": "The high-entropy alloys (HEA) Al$_{x}$FeCoNiCuCr (x = 1.0, 1.5, 1.8) in cast state are investigated by means of X-ray diffraction, Mössbauer spectroscopy, magnetic and dilatometric methods. Two-phase state in the HEA and the increase of the crystal lattice parameter а of the f.c.c. and b.c.c. phases are detected. The decrease of the Curie temperature and the saturation magnetization upon deviation of Al content from equimolar composition are found out. Inhomogeneous magnetic order characterizes the studied HEA. For the studied HEA, the magnetic moment 0.2—0.4 $\\mu_{B}$ and the average thermal expansion coefficient <$\\alpha$> = 12.4$\\cdot$10$^{-6}$ К$^{-1}$ in the temperature range of 135—545 K are determined.",
+		"ru": "Рентгеновской дифракцией, мёссбауэровской спектроскопией, магнитным и дилатометрическим методами исследованы структура и свойства высокоэнтропийных сплавов (ВЭС) Al$_{x}$FeCoNiCuCr (х = 1,0, 1,5, 1,8) в литом состоянии. Выявлено двухфазное состояние ВЭС и рост параметра кристаллической решётки a ОЦК- и ГЦК-фаз. Обнаружено снижение температуры Кюри и намагниченности насыщения при отклонении содержания Al от эквиатомного состава. Изученные ВЭС характеризуются неоднородным магнитным порядком. Для интервала температур 135—545 К определён магнитный момент 0,2—0,4 $\\mu_{B}$ и среднее значение температурного коэффициента теплового расширения <$\\alpha$> = 12,4$\\cdot$10$^{-6}$ К$^{-1}$ исследуемых ВЭС."
+	},
+	"keywords": {
+		"ua": "високоентропійні стопи, структура, магнітні властивості, теплове розширення, ефект Мессбауера",
+		"en": "high-entropy alloys, structure, magnetic properties, thermal expansion, Mössbauer effect",
+		"ru": "высокоэнтропийные сплавы, структура, магнитные свойства, тепловое расширение, эффект Мёссбауэра"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. М. Надутов", "en": "V. M. Nadutov", "ru": "В. М. Надутов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. Ю. Макаренко", "en": "S. Yu. Makarenko", "ru": "С. Ю. Макаренко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Є. О. Свістунов", "en": "Ye. O. Svystunov", "ru": "Е. А. Свистунов"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 23,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "S. Ranganathan, Curr. Sci., 85: 1404 (2003).",
+				"tr":  "S. Ranganathan, Curr. Sci., 85: 1404 (2003)."
+			},
+			{
+				"doi": "10.1002/adem.200300567",
+				"or":  "J. W. Yeh, S. K. Chen, S. J. Lin, J. Y. Gan, T. S. Chin, T. T. Shun, C. H. Tsau, and S. Y. Chang, Adv. Eng. Mater., 6: 299 (2004).",
+				"tr":  "J. W. Yeh, S. K. Chen, S. J. Lin, J. Y. Gan, T. S. Chin, T. T. Shun, C. H. Tsau, and S. Y. Chang, Adv. Eng. Mater., 6: 299 (2004)."
+			},
+			{
+				"doi": "10.1016/j.matlet.2006.03.140",
+				"or":  "Ch.-Ch. Tung, J.-W. Yeh, T.-Т. Shun, S.-K. Chen, Yu.-Sh. Huang, and H.-Ch. Chen, Mater. Lett., 61, Iss. 1: 1 (2007).",
+				"tr":  "Ch.-Ch. Tung, J.-W. Yeh, T.-T. Shun, S.-K. Chen, Yu.-Sh. Huang, and H.-Ch. Chen, Mater. Lett., 61, Iss. 1: 1 (2007)."
+			},
+			{
+				"doi": "10.1007/s11661-005-0283-0",
+				"or":  "C. J. Tong, Y. L. Chen, S. K. Chen, J. W. Yeh, T. T. Shun, C. H. Tsau, S. J. Lin, and S. Y. Chang, Metall. Mater. Trans. A, 36: 881 (2005).",
+				"tr":  "C. J. Tong, Y. L. Chen, S. K. Chen, J. W. Yeh, T. T. Shun, C. H. Tsau, S. J. Lin, and S. Y. Chang, Metall. Mater. Trans. A, 36: 881 (2005)."
+			},
+			{
+				"doi": "10.15407/mfint.36.10.1327",
+				"or":  "V. M. Nadutov, S. Yu. Makarenko, P. Yu. Volosevych, and V. P. Zalutskii, Metallofiz. Noveishie Tekhnol., 36, No. 10: 1327 (2014).",
+				"tr":  "V. M. Nadutov, S. Yu. Makarenko, P. Yu. Volosevych, and V. P. Zalutskii, Metallofiz. Noveishie Tekhnol., 36, No. 10: 1327 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "M. V. Ivchenko, V. G. Pushyn, A. N. Uksusnikova, N. Wanderka, and N. I. Kourov, Phys. Met. Metallogr., 114: 561 (2013).",
+				"tr":  "M. V. Ivchenko, V. G. Pushyn, A. N. Uksusnikova, N. Wanderka, and N. I. Kourov, Phys. Met. Metallogr., 114: 561 (2013)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2010.09.023",
+				"or":  "S. Singh, N. Wanderka, B. S. Murty, U. Glatzel, and J. Banhart, Acta Mater., 59: 182 (2011).",
+				"tr":  "S. Singh, N. Wanderka, B. S. Murty, U. Glatzel, and J. Banhart, Acta Mater., 59: 182 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "M. V. Ivchenko, V. G. Pushyn, and N. Wanderka, J. Tech. Phys., 84: 57 (2014).",
+				"tr":  "M. V. Ivchenko, V. G. Pushyn, and N. Wanderka, J. Tech. Phys., 84: 57 (2014)."
+			},
+			{
+				"doi": "10.1002/adem.200900057",
+				"or":  "Y. P. Wang, B. Sh. Li, and H. Zh. Fu, Advan. Eng. Mater., 11: 641 (2009).",
+				"tr":  "Y. P. Wang, B. Sh. Li, and H. Zh. Fu, Advan. Eng. Mater., 11: 641 (2009)."
+			},
+			{
+				"doi": "10.1007/s11661-005-0218-9",
+				"or":  "C. J. Tong, Y. L. Chen, S. K. Chen, J. W. Yeh, T. T. Shun, C. H. Tsau, S. J. Lin, and S. Y. Chang, Metall. Mater. Trans. A, 36: 1263 (2005).",
+				"tr":  "C. J. Tong, Y. L. Chen, S. K. Chen, J. W. Yeh, T. T. Shun, C. H. Tsau, S. J. Lin, and S. Y. Chang, Metall. Mater. Trans. A, 36: 1263 (2005)."
+			},
+			{
+				"doi": "10.1016/j.wear.2005.12.008",
+				"or":  "J. M. Wu, S. J. Lin, J. W. Yeh, S. K. Chen, Y. S. Huang, and H. C. Chen, Wear, 261: 513 (2006).",
+				"tr":  "J. M. Wu, S. J. Lin, J. W. Yeh, S. K. Chen, Y. S. Huang, and H. C. Chen, Wear, 261: 513 (2006)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2010.10.210",
+				"or":  "Y. F. Kao, S. K. Chen, T. J. Chen, P. C. Chu, J. W. Yeh, and S. J. Lin, J. Alloys Compd., 509: 1607 (2011).",
+				"tr":  "Y. F. Kao, S. K. Chen, T. J. Chen, P. C. Chu, J. W. Yeh, and S. J. Lin, J. Alloys Compd., 509: 1607 (2011)."
+			},
+			{
+				"doi": "10.1038/srep01455",
+				"or":  "Y. Zhang, T. T. Zuo, Y. Q. Cheng, and P. K. Liaw, Sci. Rep., 3, Article number: 1455 (2013).",
+				"tr":  "Y. Zhang, T. T. Zuo, Y. Q. Cheng, and P. K. Liaw, Sci. Rep., 3, Article number: 1455 (2013)."
+			},
+			{
+				"doi": "10.1063/1.3538936",
+				"or":  "M. S. Lucas, L. Mauger, J. A. Munoz, Yuming Xiao, A. O. Sheets, S. L. Semiatin, J. Horwath, and Z. Turgut, J. Appl. Phys., 109: 07E307 (2011).",
+				"tr":  "M. S. Lucas, L. Mauger, J. A. Munoz, Yuming Xiao, A. O. Sheets, S. L. Semiatin, J. Horwath, and Z. Turgut, J. Appl. Phys., 109: 07E307 (2011)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2009.11.104",
+				"or":  "K. B. Zhang, Z. Y. Fu, J. Y. Zhang, J. Shi, W. M. Wang, H. Wang, Y. C. Wang, and Q. J. Zhang, J. Alloys Compd., 502: 295 (2010).",
+				"tr":  "K. B. Zhang, Z. Y. Fu, J. Y. Zhang, J. Shi, W. M. Wang, H. Wang, Y. C. Wang, and Q. J. Zhang, J. Alloys Compd., 502: 295 (2010)."
+			},
+			{
+				"doi": "10.1016/j.ultramic.2010.12.001",
+				"or":  "S. Singh, N. Wanderka, K. Kiefer, K. Siemensmeyer, and J. Banhart, Ultramicroscopy, 111: 619 (2011).",
+				"tr":  "S. Singh, N. Wanderka, K. Kiefer, K. Siemensmeyer, and J. Banhart, Ultramicroscopy, 111: 619 (2011)."
+			},
+			{
+				"doi": "10.1016/j.mseb.2009.05.024",
+				"or":  "H. P. Chou, Y. S. Chang, S. K. Chen, and J. W. Yeh, Mater. Sci. Eng., 163: 184 (2009).",
+				"tr":  "H. P. Chou, Y. S. Chang, S. K. Chen, and J. W. Yeh, Mater. Sci. Eng., 163: 184 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Е. Vol, Structure and Properties of Binary Metal Systems (Moscow: Gos. Izd. Fiz.-Mat. Liter.: 1959), vol. 1 (in Russian).",
+				"tr":  "A. E. Vol, Structure and Properties of Binary Metal Systems (Moscow: Gos. Izd. Fiz.-Mat. Liter.: 1959), vol. 1 (in Russian)."
+			},
+			{
+				"doi": "10.1007/3-540-30437-1",
+				"or":  "W. Martienssen and H. Warlimont, Springer Handbook of Condensed Matter and Materials Data: Functional Materials (Berlin–Heidelberg: Springer-Verlag: 2005), p. 795.",
+				"tr":  "W. Martienssen and H. Warlimont, Springer Handbook of Condensed Matter and Materials Data: Functional Materials (Berlin–Heidelberg: Springer-Verlag: 2005), p. 795."
+			},
+			{
+				"doi": "",
+				"or":  "C. Kittel, Introduction to Solid State Physics (Moscow: Nauka: 1978) (Russian translation).",
+				"tr":  "C. Kittel, Introduction to Solid State Physics (Moscow: Nauka: 1978) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Wertheim, Mössbauer Effect: Principles and Applications (Moscow: Mir: 1966) (Russian translation).",
+				"tr":  "G. Wertheim, Mössbauer Effect: Principles and Applications (Moscow: Mir: 1966) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "L. N. Larikov and Yu. F. Yurchenko, Structure and Properties of Metals and Alloys (Kiev: Naukova Dumka: 1985) (in Russian).",
+				"tr":  "L. N. Larikov and Yu. F. Yurchenko, Structure and Properties of Metals and Alloys (Kiev: Naukova Dumka: 1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. I. Novikova, Thermal Expansion of Solids (Moscow: Nauka: 1974) (in Russian).",
+				"tr":  "S. I. Novikova, Thermal Expansion of Solids (Moscow: Nauka: 1974) (in Russian)."
+			}
+		]
+	}
+}

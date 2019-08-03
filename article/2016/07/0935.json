@@ -1,0 +1,110 @@
+{
+	"_id":    "MFiNT.38.07.0935",
+	"year":   2016,
+	"volume": 38,
+	"issue":  7,
+	"pages":  [935,952],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["13.06.2016", "14.07.2016"],
+	"PACS":   "61.72.S-, 62.20.fk, 62.20.M-, 81.05.Bx, 81.40.Cd, 81.40.Ef, 81.40.Np",
+	"title":   {
+		"ua": "Вплив фазового складу та мікроструктури на механічну поведінку метастабільних титанових $\\beta$-сплавів Ti—3Al—4,5Fe—7,2Cr і ВT22 при розтягу з різними швидкостями",
+		"en": "Influence of Phase Composition and Microstructure on Mechanical Behaviour of the Metastable Ti—3Al—4.5Fe—7.2Cr and VT22 Titanium $\\beta$-Alloys under Tension with Different Rates",
+		"ru": "Влияние фазового состава и микроструктуры на механическое поведение метастабильных титановых $\\beta$-сплавов Ti—3Al—4,5Fe—7,2Cr и ВT22 при растяжении с различными скоростями"
+	},
+	"abstract": {
+		"ua": "На прикладі двох промислових титанових стопів метастабільного $\\beta$-класу ВТ22 (Ti—5(%мас.) Al—5V—5Mo—1Fe—1Cr) та Ti—3Al—4,5Fe—7,2Cr було вивчено вплив розміру $\\beta$-зерен, фазового складу та швидкости деформації на розтяг (у діяпазоні від $3,20\\cdot10^{-5}$ до $1,81\\cdot10^{-1}$) на їхню механічну поведінку. Механічна поведінка обох стопів, загартованих на однофазний метастабільний $\\beta$-стан, є аналогічною до іншого титанового $\\beta$-стопу TIMETAL-LCB: характеристики пластичности та в’язкости руйнування монотонно зменшуються з ростом швидкости деформації. Наступне старіння приводить до росту характеристик міцности та зниження пластичности, причому падіння показників останньої є найбільшим у стопу ВТ22 з грубим зерном та у стопу Ti—3Al—4,5Fe—7,2Cr незалежно від розміру зерна. Запропоновано висновок про те, що причиною цього є формування тонких шарів, збагачених $\\beta$-стабілізувальними елементами, які утворюються безпосередньо біля $\\alpha$-пластин, що покривають межі $\\beta$-зерен. Із врахуванням критичного окрихчування стопу Ti—3Al—4,5Fe—7,2Cr, який вміщує виключно $\\beta$-стабілізувальні леґувальні елементи евтектоїдного типу, висловлено припущення про те, що подібне збагачення може приводити до локального утворення інтерметалідів.",
+		"en": "Taking two metastable $\\beta$-titanium alloys VT22 (Ti—5 (% wt.) Al—5V—5Mo— 1Fe—1Cr) and Ti—3Al—4.5Fe—7.2Cr as program materials, the influence of $\\beta$-grain size, phase composition, and strain rate (in the range of $3.20\\cdot10^{-5}$ up to $1.81\\cdot10^{-1}$) on alloys’ mechanical behaviour is investigated. The mechanical behaviour of both alloys in as-quenched single-phase $\\beta$-state is similar to another metastable $\\beta$-alloy TIMETAL-LCB: ductility and tensile toughness are monotonously decreased with strain rate. Ageing causes increase in strength and decrease in ductility, whereas the drop of the latter is the most pronounced in both the coarse-grained VT22 alloy and the Ti—3Al—4.5Fe—7.2Cr one regardless of grain size. As suggested, the reason of this effect is the formation of thin layers enriched by $\\beta$-stabilizing elements located close to grain-boundary $\\alpha$-phase. Taking into account drastic embrittlement of Ti— 3Al—4.5Fe—7.2Cr alloy, which contains only $\\beta$-eutectoid alloying elements, this enrichment can lead to the precipitation of intermetallics.",
+		"ru": "На примере двух промышленных титановых сплавов метастабильного $\\beta$-класса ВТ22 (Ti—5 (% мас.) Al—5V—5Mo—1Fe—1Cr) и Ti—3Al—4,5Fe—7,2Cr было изучено влияние размера $\\beta$-зёрен, фазового состава и скорости деформации растяжением (в диапазоне от $3,20\\cdot10^{-5}$ до $1,81\\cdot10^{-1}$) на их механическое поведение. Механическое поведение обоих сплавов, закалённых на однофазное метастабильное $\\beta$-состояние, является аналогичным поведению другого титанового $\\beta$-сплава TIMETAL-LCB: характеристики пластичности и вязкости разрушения монотонно снижаются с ростом скорости деформации. Последующее старение приводит к росту характеристик прочности и снижению пластичности, причём падение показателей последней является наибольшим у сплава ВТ22 с крупным зерном, а у сплава Ti—3Al—4,5Fe—7,2Cr не зависит от размера зерна. Предложен вывод о том, что причиной этого является формирование тонких слоёв, обогащённых $\\beta$-стабилизирующими элементами, которые образуются непосредственно возле $\\alpha$-пластин, покрывающих границы $\\beta$-зёрен. С учётом критического охрупчивания сплава Ti—3Al—4,5Fe—7,2Cr, который содержит исключительно $\\beta$-стабилизирующие легирующие элементы эвтектоидного типа, было высказано предположение о том, что подобное обогащение может приводить к локальному образованию интерметаллидов."
+	},
+	"keywords": {
+		"ua": "стопи титану, механічні властивості, швидкість деформації, ударна в’язкість при розтягуванні, швидкісне термооброблення",
+		"en": "titanium alloys, mechanical properties, strain rate, tensile toughness, rapid heat treatment",
+		"ru": "сплавы титана, механические свойства, скорость деформации, ударная вязкость при растяжении, скоростная термообработка"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "П. Є. Марковський", "en": "P. E. Markovsky", "ru": "П. Е. Марковский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. І. Бондарчук", "en": "V. I. Bondarchuk", "ru": "В. И. Бондарчук"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. В. Шепотинник", "en": "O. V. Shepotinnyk", "ru": "О. В. Шепотинник"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "І. М. Гавриш", "en": "I. M. Gavrysh", "ru": "И. М. Гавриш"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 12,
+		"list":  [
+			{
+				"doi": "10.1007/978-3-540-71398-2",
+				"or":  "G. Lutjering and J. C. Williams, Titanium (Berlin–Heidelberg: Springer-Verlag: 2003).",
+				"tr":  "G. Lutjering and J. C. Williams, Titanium (Berlin–Heidelberg: Springer-Verlag: 2003)."
+			},
+			{
+				"doi": "",
+				"or":  "P. J. Bania, Beta Titanium Alloys in the 90’s (Eds. D. Eylon, R. R. Boyer, and D. A. Koss) (Warrendale, PA: TMS Publications: 1993), p. 3.",
+				"tr":  "P. J. Bania, Beta Titanium Alloys in the 90's (Eds. D. Eylon, R. R. Boyer, and D. A. Koss) (Warrendale, PA: TMS Publications: 1993), p. 3."
+			},
+			{
+				"doi": "10.1007/s11661-003-0216-8",
+				"or":  "O. M. Ivasishin, P. E. Markovsky, Yu. V. Matviychuk, and S. L. Semiatin, Metall. Mater. Trans. A, 34, Iss. 1: 147 (2003).",
+				"tr":  "O. M. Ivasishin, P. E. Markovsky, Yu. V. Matviychuk, and S. L. Semiatin, Metall. Mater. Trans. A, 34, Iss. 1: 147 (2003)."
+			},
+			{
+				"doi": "10.1016/j.msea.2005.06.027",
+				"or":  "O. M. Ivasishin, P. E. Markovsky, S. L. Semiatin, and C. H. Ward, Mat. Sci. Eng. A, 405: Iss. 1–2: 296 (2005).",
+				"tr":  "O. M. Ivasishin, P. E. Markovsky, S. L. Semiatin, and C. H. Ward, Mat. Sci. Eng. A, 405: Iss. 1–2: 296 (2005)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2007.03.070",
+				"or":  "O. M. Ivasishin, P. E. Markovsky, Yu. V. Matviychuk, S. L. Semiatin, C. H. Ward, and S. A. Fox, J. Alloys Compd., 457, Iss. 1–2: 296 (2008).",
+				"tr":  "O. M. Ivasishin, P. E. Markovsky, Yu. V. Matviychuk, S. L. Semiatin, C. H. Ward, and S. A. Fox, J. Alloys Compd., 457, Iss. 1–2: 296 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "N. Stefansson, I. Weiss, A. J. Hutt et al., Titanium’95: Science and Technology (Eds. P. A. Blenkinsop, W. J. Evans, and H. M. Flower) (Cambridge: The University Press: 1996), vol. 2, p. 980.",
+				"tr":  "N. Stefansson, I. Weiss, A. J. Hutt et al., Titanium'95: Science and Technology (Eds. P. A. Blenkinsop, W. J. Evans, and H. M. Flower) (Cambridge: The University Press: 1996), vol. 2, p. 980."
+			},
+			{
+				"doi": "10.1016/j.msea.2006.10.166",
+				"or":  "A. Bhattacharjee, P. Ghosal, A. K. Gogia, S. Bhargava, and S. V. Kamat, Mater. Sci. Eng. A, 452–453: 219 (2007).",
+				"tr":  "A. Bhattacharjee, P. Ghosal, A. K. Gogia, S. Bhargava, and S. V. Kamat, Mater. Sci. Eng. A, 452–453: 219 (2007)."
+			},
+			{
+				"doi": "10.1016/j.msea.2012.09.024",
+				"or":  "P. E. Markovsky, V. I. Bondarchuk, and Yu. V. Matviychuk, Mater. Sci. Eng. A, 559: 782 (2013).",
+				"tr":  "P. E. Markovsky, V. I. Bondarchuk, and Yu. V. Matviychuk, Mater. Sci. Eng. A, 559: 782 (2013)."
+			},
+			{
+				"doi": "10.1016/j.msea.2015.08.009",
+				"or":  "P. E. Markovsky, V. I. Bondarchuk, and O. M. Herasymchuk, Mater. Sci. Eng. A, 645: 150 (2015).",
+				"tr":  "P. E. Markovsky, V. I. Bondarchuk, and O. M. Herasymchuk, Mater. Sci. Eng. A, 645: 150 (2015)."
+			},
+			{
+				"doi": "10.2320/matertrans.46.1515",
+				"or":  "P. E. Markovsky and M. Ikeda, Mater. Transactions, 46, No. 7: 1515 (2005).",
+				"tr":  "P. E. Markovsky and M. Ikeda, Mater. Transactions, 46, No. 7: 1515 (2005)."
+			},
+			{
+				"doi": "10.1179/026708300101508342",
+				"or":  "M. Ikeda, S. Komatsu, K. Inoue, H. Shiota, and T. Imose, Mater. Sci. Technol., 16: 605 (2000).",
+				"tr":  "M. Ikeda, S. Komatsu, K. Inoue, H. Shiota, and T. Imose, Mater. Sci. Technol., 16: 605 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "Tensile Testing: Handbook (Ed. J. R. Davis) (Materials Park, OH: ASM International: 2004).",
+				"tr":  "Tensile Testing: Handbook (Ed. J. R. Davis) (Materials Park, OH: ASM International: 2004)."
+			}
+		]
+	}
+}

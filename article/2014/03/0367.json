@@ -1,0 +1,132 @@
+{
+	"_id":    "MFiNT.36.03.0367",
+	"year":   2014,
+	"volume": 36,
+	"issue":  3,
+	"pages":  [367,374],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["16.12.2013"],
+	"PACS":   "61.72.Bb, 61.72.jd, 61.72.Lk, 61.72.Qq, 66.30.-h",
+	"title":   {
+		"ua": "Конкуренція ефектів Френкеля і Кіркендалла при взаємній дифузії",
+		"en": "Competition of Frenkel and Kirkendall Effects at Interdiffusion",
+		"ru": "Конкуренция эффектов Френкеля и Киркендалла при взаимной диффузии"
+	},
+	"abstract": {
+		"ua": "Розглянуто процес росту пор при взаємній дифузії. Представлено комп’ютерну модель росту пор у дифузійній зоні бінарної дифузійної пари з урахуванням конкуренції між течією ґратниці та пороутворенням. Показано вплив потужности Кіркендаллових стоків на кінетику росту пор. Одержано залежність середнього радіусу пор від довжини вільного пробігу вакансій та з’ясовано еволюцію розподілу пор за розмірами.",
+		"en": "The process of voids’ growth during interdiffusion is considered. The numerical model of the voids’ growth in the diffusion zone of binary diffusion couple under competition between lattice shift and voids’ formation is presented. The influence of Kirkendall sinks’ power on the void growth kinetics is studied. The dependence of average void radius on the mean free path of vacancies is found. Evolution of voids size distribution is determined.",
+		"ru": "Рассмотрен процесс роста пор при взаимной диффузии. Представлена компьютерная модель роста пор в диффузионной зоне бинарной диффузионной пары с учётом конкуренции между течением решётки и порообразованием. Показано влияние мощности киркендалловых стоков на кинетику роста пор. Получена зависимость среднего радиуса пор от длины свободного пробега вакансий и выяснена эволюция распределения пор по размерам."
+	},
+	"keywords": {
+		"ua": "дифузія, ефект Френкеля, ефект Кіркендалла, бінарна система, довжина вільного пробігу вакансій, пороутворення",
+		"en": "diffusion, Frenkel effect, Kirkendall effect, binary system, mean free path of vacancies, voids formation",
+		"ru": "диффузия, эффект Френкеля, эффект Киркендалла, бинарная система, длина свободного пробега вакансий, порообразование"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Н. В. Сторожук", "en": "N. V. Storozhuk", "ru": "Н. В. Сторожук"},
+			"OID": [214]
+		},
+		{
+			"AID": {"ua": "А. М. Гусак", "en": "A. M. Gusak", "ru": "А. М. Гусак"},
+			"OID": [214]
+		}
+	],
+	"references": {
+		"count": 18,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "K. N. Tu, Solder Joint Technology (New York: Springer: 2007).",
+				"tr":  "K. N. Tu, Solder Joint Technology (New York: Springer: 2007)."
+			},
+			{
+				"doi": "",
+				"or":  "K. N. Tu, Electronic Thin-Films Reliability (New York: Cambridge University: 2011).",
+				"tr":  "K. N. Tu, Electronic Thin-Films Reliability (New York: Cambridge University: 2011)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. Е. Гегузин, Диффузионная зона (Москва: Наука: 1979).",
+				"tr":  "Ya. E. Geguzin, Diffuzionnaya Zona (Moscow: Nauka: 1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. Е. Гегузин, Н. Ч. Бао, Л. Н. Парицкая, Физика металлов и металловедение, 27, № 3: 450 (1969).",
+				"tr":  "Ya. E. Geguzin, N. Ch. Bao, and L. N. Paritskaya, Fizika Metallov i Metallovedenie, 27, No. 3: 450 (1969) (in Russian)."
+			},
+			{
+				"doi": "10.1126/science.1096566",
+				"or":  "Y. Yin, R. M. Rioux, C. K. Erdonmez, S. Hughes, G. A. Somorjai, and A. P. Alivisatos, Science, 304, No. 5671: 711 (2004).",
+				"tr":  "Y. Yin, R. M. Rioux, C. K. Erdonmez, S. Hughes, G. A. Somorjai, and A. P. Alivisatos, Science, 304, No. 5671: 711 (2004)."
+			},
+			{
+				"doi": "10.1002/adfm.200600256",
+				"or":  "Y. Yin, C. K. Erdonmez, A. Cabot, S. Hughes, and A. P. Alivisatos, Adv. Functional Mater., 16: 1389 (2006).",
+				"tr":  "Y. Yin, C. K. Erdonmez, A. Cabot, S. Hughes, and A. P. Alivisatos, Adv. Functional Mater., 16: 1389 (2006)."
+			},
+			{
+				"doi": "10.1021/nl070026p",
+				"or":  "H. J. Fan, M. Knez, R. Scholz, D. Hesse, K. Nielsch, M. Zacharias, and U. Gösele, Nano Letters, 7, No. 4: 993 (2007).",
+				"tr":  "H. J. Fan, M. Knez, R. Scholz, D. Hesse, K. Nielsch, M. Zacharias, and U. Gösele, Nano Letters, 7, No. 4: 993 (2007)."
+			},
+			{
+				"doi": "10.1080/14786430701819203",
+				"or":  "R. Nakamura, J.-G. Lee, H. Mori, and H. Nakajima, Philos. Mag., 88: 257 (2008).",
+				"tr":  "R. Nakamura, J.-G. Lee, H. Mori, and H. Nakajima, Philos. Mag., 88: 257 (2008)."
+			},
+			{
+				"doi": "10.1063/1.3490675",
+				"or":  "G. Glodán, C. Cserháti, I. Beszeda, and D. L. Beke, Appl. Phys. Lett., 97: 113109 (2010).",
+				"tr":  "G. Glodán, C. Cserháti, I. Beszeda, and D. L. Beke, Appl. Phys. Lett., 97: 113109 (2010)."
+			},
+			{
+				"doi": "10.1080/14786435.2012.687841",
+				"or":  "G. Glodán, C. Cserháti, I. Beszeda, and D. L. Beke, Philos. Mag., 92: 3806 (2012).",
+				"tr":  "G. Glodán, C. Cserháti, I. Beszeda, and D. L. Beke, Philos. Mag., 92: 3806 (2012)."
+			},
+			{
+				"doi": "10.1080/14786430500311741",
+				"or":  "A. M. Gusak, T. V. Zaporozhets, K. N. Tu, and U. Gösele, Philos. Mag., 85: 4445 (2005).",
+				"tr":  "A. M. Gusak, T. V. Zaporozhets, K. N. Tu, and U. Gösele, Philos. Mag., 85: 4445 (2005)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2009.03.043",
+				"or":  "A. M. Gusak and K. N. Tu, Acta Mater., 57: 3367 (2009).",
+				"tr":  "A. M. Gusak and K. N. Tu, Acta Mater., 57: 3367 (2009)."
+			},
+			{
+				"doi": "10.1088/0953-8984/21/41/415303",
+				"or":  "A. M. Gusak and T. V. Zaporozhets, J. Phys. Condens. Matter, 21: 415303 (2009).",
+				"tr":  "A. M. Gusak and T. V. Zaporozhets, J. Phys. Condens. Matter, 21: 415303 (2009)."
+			},
+			{
+				"doi": "10.1002/9783527631025",
+				"or":  "A. M. Gusak, T. V. Zaporozhets, Yu. O. Lyashenkо, S. V. Kornienko, M. O. Pasichnyy, and A. S. Shirinyan, Diffusion-Controlled Solid State Reactions: in Alloys, Thin-Films and Nanosystems (Berlin: Wiley-VC: 2010).",
+				"tr":  "A. M. Gusak, T. V. Zaporozhets, Yu. O. Lyashenko et al., Diffusion-Controlled Solid State Reactions: in Alloys, Thin-Films and Nanosystems (Berlin: Wiley-VC: 2010)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. В. Тютюнник, А. М. Гусак, Укр. фiз. журн., 57, № 6: 629 (2012).",
+				"tr":  "N. V. Tyutyunnyk and A. M. Gusak, Ukr. J. Phys., 57, No. 6: 628 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "10.7868/S0015323013030078",
+				"or":  "А. М. Гусак, Н. В. Сторожук, Физика металлов и металловедение, 114, № 3: 217 (2013).",
+				"tr":  "A. M. Gusak and N. V. Storozhuk, Fizika Metallov i Metallovedenie, 114, No. 3: 217 (2013) (in Russian)."
+			},
+			{
+				"doi": "10.1080/14786430500311741",
+				"or":  "A. M. Gusak, T. V. Zaporozhets, K. N. Tu, and U. Gösele, Philos. Mag., 85: 4445 (2005).",
+				"tr":  "A. M. Gusak, T. V. Zaporozhets, K. N. Tu, and U. Gösele, Philos. Mag., 85: 4445 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. В. Сторожук, Вісник ЧУ. Серія фізико-математичні науки, 16, вип. 229: 40 (2011).",
+				"tr":  "N. V. Storozhuk, Visnyk Cherkasy Univ. Seriya Fizyko-Matematychni Nauky, 16, Iss. 229: 40 (2011) (in Ukrainian)."
+			}
+		]
+	}
+}

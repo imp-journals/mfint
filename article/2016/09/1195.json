@@ -1,0 +1,253 @@
+{
+	"_id":    "MFiNT.38.09.1195",
+	"year":   2016,
+	"volume": 38,
+	"issue":  9,
+	"pages":  [1195,1212],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["25.05.2016"],
+	"PACS":   "61.50.Lt, 61.72.Bb, 61.72.jd, 71.15.Ap, 71.15.Mb, 71.15.Nc, 71.20.Be, 73.22.Dj",
+	"title":   {
+		"ua": "Вивчення в атомовому масштабі структурних та електронних властивостей $\\alpha$-цирконію з одиничними вакансіями та вакансійними кластерами",
+		"en": "An Atomic Scale Study of Structural and Electronic Properties for $\\alpha$-Zirconium with Single Vacancies and Vacancy Clusters",
+		"ru": "Изучение в атомном масштабе структурных и электронных свойств $\\alpha$-циркония с одиночными вакансиями и вакансионными кластерами"
+	},
+	"abstract": {
+		"ua": "У даній роботі проведено дослідження структурних, електронних та енергетичних властивостей чистого цирконію з ізольованими вакансіями та вакансійними кластерами. Визначено значення параметра ґратниці чистого цирконію з різною концентрацією ізольованих вакансії та з бі- й тривакансіями різної конфіґурації. Проаналізовано стабільність малих кластерів вакансій, що містять бівакансії, які характеризуються різними віддалями між двома вакансіями, та тривакансії різної конфіґурації. Показано, що зі збільшенням концентрації ізольованих вакансій параметер ґратниці зменшується, в той час як значення енергії формування одиничної вакансії збільшується. Останнє вказує на те, що ізольовані вакансії при збільшенні концентрації їх будуть, як правило, утворювати кластери. При вивченні стійкости малих кластерів вакансій, що містять бі- та тривакансії, показано, що у випадку, якщо віддаль між вакансіями в кластері не перевищує значення радіюса першої координаційної сфери, відповідний вакансійний кластер буде стійким. В іншому випадку взаємодія між вакансіями у бівакансії сприяє формуванню ізольованих вакансій, в той час як тривакансії розпадаються на бівакансію та ізольовану вакансію або три ізольовані вакансії, залежно від віддалі між вакансіями у тривакансії. Проведено детальне дослідження розподілу електронної густини та густини станів для чистого цирконію з однією вакансією та найбільш стабільними конфіґураціями бі- та тривакансій.",
+		"en": "We study structural, electronic, and energy properties of pure zirconium with isolated vacancies and their clusters. We discuss the lattice constant change in pure zirconium with different concentrations of isolated vacancy and different configurations of di- and trivacancy. We analyse the stability of small vacancy clusters containing divacancy characterized by different distances between two vacancies and trivacancy of different configuration. As shown, the lattice constant decreases with an increase in the concentration of isolated vacancies, whereas single vacancy formation energy increases indicating that isolated vacancies will tend to form clusters. By studying stability of small vacancy clusters containing di- and trivacancies, it is shown that, if the distance between vacancies in a cluster does not exceed the first-neighbours’ distance, the corresponding vacancy cluster will be stable. In the opposite case, the interaction between vacancies in divacancy promotes formation of isolated vacancies, whereas the trivacancy will decompose into divacancy and isolated vacancy or three isolated vacancies, depending on distances between vacancies in trivacancy. Distributions of electronic density and density of states for pure zirconium with single vacancy as well as the most stable configurations of di- and trivacancies are studied in detail.",
+		"ru": "В данной работе проведено исследование структурных, электронных и энергетических свойств чистого циркония с изолированными вакансиями и вакансионными кластерами. Установлены значения параметра решётки чистого циркония с различной концентрацией изолированных вакансий и с би- и тривакансиями различной конфигурации. Проанализирована устойчивость малых вакансионных кластеров, содержащих бивакансии, которые характеризуются различными расстояниями между двумя вакансиями, и тривакансии различной конфигурации. Показано, что с увеличением концентрации изолированных вакансий параметр решетки уменьшается, в то время как значение энергии формирования одиночной вакансии увеличивается. Последнее указывает на то, что изолированные вакансии при увеличении их концентрации будут, как правило, образовывать кластеры. При изучении устойчивости малых кластеров вакансий, которые содержат би- и тривакансии, показано, что в случае, когда расстояние между вакансиями в кластере не превышает значение радиуса первой координационной сферы, соответствующий вакансионный кластер будет устойчивым. В противоположном случае взаимодействие между вакансиями в бивакансии приведет к формированию изолированных вакансий, в то время как тривакансии распадаются на бивакансию и изолированную вакансию либо три изолированных вакансии в зависимости от расстояния между вакансиями в тривакансии. Проведено детальное изучение распределения электронной плотности и плотности состояний для чистого циркония с одной вакансией и наиболее устойчивыми конфигурациями би- и тривакансий."
+	},
+	"keywords": {
+		"ua": "розрахунки з перших принципів, метод лінеаризованих приєднаних пласких хвиль, вакансія, енергія зв’язку, електронні властивост",
+		"en": "ab initio calculations, linearized augmented plane wave method, vacancy, binding energy, electronic properties",
+		"ru": "расчёты из первых принципов, метод линеаризованных присоединённых плоских волн, вакансия, энергия связи, электронные свойства"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. О. Харченко", "en": "V. O. Kharchenko", "ru": "В. О. Харченко"},
+			"OID": [17]
+		},
+		{
+			"AID": {"ua": "Д. О. Харченко", "en": "D. O. Kharchenko", "ru": "Д. О. Харченко"},
+			"OID": [17]
+		},
+		{
+			"AID": {"ua": "С. Ву", "en": "X. Wu", "ru": "С. Ву"},
+			"OID": [489]
+		},
+		{
+			"AID": {"ua": "Б. Вен", "en": "B. Wen", "ru": "Б. Вэн"},
+			"OID": [489]
+		},
+		{
+			"AID": {"ua": "Л. Ву", "en": "L. Wu", "ru": "Л. Ву"},
+			"OID": [489]
+		},
+		{
+			"AID": {"ua": "В. Жанг", "en": "W. Zhang", "ru": "В. Жанг"},
+			"OID": [489]
+		}
+	],
+	"references": {
+		"count": 39,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "G. S. Was, Fundamentals of Radiation Materials Science (Berlin–Heidelberg: Springer-Verlag: 2007).",
+				"tr":  "G. S. Was, Fundamentals of Radiation Materials Science (Berlin–Heidelberg: Springer-Verlag: 2007)."
+			},
+			{
+				"doi": "10.1016/0022-3115(87)90494-6",
+				"or":  "M. A. Kirk, I. H. Robertson, M. L. Jenkins, C. A. English, T. J. Black, and J. S. Vertano, J. Nucl. Mater., 149: 21 (1987).",
+				"tr":  "M. A. Kirk, I. H. Robertson, M. L. Jenkins, C. A. English, T. J. Black, and J. S. Vertano, J. Nucl. Mater., 149: 21 (1987)."
+			},
+			{
+				"doi": "10.1016/0022-3115(82)90477-9",
+				"or":  "C. A. English, J. Nucl. Mater., 108–109: 104 (1982).",
+				"tr":  "C. A. English, J. Nucl. Mater., 108–109: 104 (1982)."
+			},
+			{
+				"doi": "10.1016/0022-3115(88)90094-3",
+				"or":  "W. J. Phythian, J. Nucl. Mater., 159: 219 (1988).",
+				"tr":  "W. J. Phythian, J. Nucl. Mater., 159: 219 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "E. Weinan, Principles of Multiscale Modeling (Cambridge: Cambridge University Press: 2011).",
+				"tr":  "E. Weinan, Principles of Multiscale Modeling (Cambridge: Cambridge University Press: 2011)."
+			},
+			{
+				"doi": "",
+				"or":  "V. O. Kharchenko, Metallofiz. Noveishie Tekhnol., 33, No. 5: 577 (2011).",
+				"tr":  "V. O. Kharchenko, Metallofiz. Noveishie Tekhnol., 33, No. 5: 577 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "V. O. Kharchenko, D. O. Kharchenko, and A. V. Dvornichenko, J. Nano- Electron. Phys., 4, No. 2: 02034 (2012).",
+				"tr":  "V. O. Kharchenko, D. O. Kharchenko, and A. V. Dvornichenko, J. Nano- Electron. Phys., 4, No. 2: 02034 (2012)."
+			},
+			{
+				"doi": "10.5488/CMP.16.13801",
+				"or":  "V. O. Kharchenko and D. O. Kharchenko, Condens. Matter Phys., 16, No. 1: 13801 (2013).",
+				"tr":  "V. O. Kharchenko and D. O. Kharchenko, Condens. Matter Phys., 16, No. 1: 13801 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "V. O. Kharchenko and S. V. Kokhan, J. Nano-Electron. Phys., 7, No. 2: 02014 (2015).",
+				"tr":  "V. O. Kharchenko and S. V. Kokhan, J. Nano-Electron. Phys., 7, No. 2: 02014 (2015)."
+			},
+			{
+				"doi": "10.1557/PROC-138-29",
+				"or":  "T. Diaz de la Rubia, K. Smalinskas, R .S. Averback, I. M. Robertson, H. Hseih, and R. Beriedek, Mater. Research Soc. Symp. Proc., 138: 29 (1989).",
+				"tr":  "T. Diaz de la Rubia, K. Smalinskas, R. S. Averback, I. M. Robertson, H. Hseih, and R. Beriedek, Mater. Research Soc. Symp. Proc., 138: 29 (1989)."
+			},
+			{
+				"doi": "10.1080/00337578708221240",
+				"or":  "V. G. Kaplnos and P. A. Platonov, Rad. Effects, 103: 45 (1987).",
+				"tr":  "V. G. Kaplnos and P. A. Platonov, Rad. Effects, 103: 45 (1987)."
+			},
+			{
+				"doi": "10.1140/epjb/e2012-30522-3",
+				"or":  "V. O. Kharchenko and D. O. Kharchenko, Eur. Phys. J. B, 85: 383 (2012).",
+				"tr":  "V. O. Kharchenko and D. O. Kharchenko, Eur. Phys. J. B, 85: 383 (2012)."
+			},
+			{
+				"doi": "10.5488/CMP.16.33001",
+				"or":  "V. O. Kharchenko and D. O. Kharchenko, Condens. Matter Phys., 16: 33001 (2013).",
+				"tr":  "V. O. Kharchenko and D. O. Kharchenko, Condens. Matter Phys., 16: 33001 (2013)."
+			},
+			{
+				"doi": "10.15407/ujpe58.10.0993",
+				"or":  "D. O. Kharchenko, V. O. Kharchenko, and A. I. Bashtova, Ukr. J. Phys., 58, No. 10: 993 (2013).",
+				"tr":  "D. O. Kharchenko, V. O. Kharchenko, and A. I. Bashtova, Ukr. J. Phys., 58, No. 10: 993 (2013)."
+			},
+			{
+				"doi": "10.1080/10420150.2014.905577",
+				"or":  "D. O. Kharchenko, V. O. Kharchenko, and A. I. Bashtova, Rad. Effects Def. Solids, 169, No. 5: 418 (2014).",
+				"tr":  "D. O. Kharchenko, V. O. Kharchenko, and A. I. Bashtova, Rad. Effects Def. Solids, 169, No. 5: 418 (2014)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.89.042133",
+				"or":  "V. O. Kharchenko and D. O. Kharchenko, Phys. Rev. E, 89: 042133 (2014).",
+				"tr":  "V. O. Kharchenko and D. O. Kharchenko, Phys. Rev. E, 89: 042133 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "D. O. Kharchenko, V. O. Kharchenko, S. V. Kokhan, and I. O. Lysenko, Ukr. J. Phys., 57, No. 10: 1069 (2012).",
+				"tr":  "D. O. Kharchenko, V. O. Kharchenko, S. V. Kokhan, and I. O. Lysenko, Ukr. J. Phys., 57, No. 10: 1069 (2012)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.88.245701",
+				"or":  "K. R. Elder, M. Katakowski, M. Haataja, and M. Grant, Phys. Rev. Lett., 88: 245701 (2002).",
+				"tr":  "K. R. Elder, M. Katakowski, M. Haataja, and M. Grant, Phys. Rev. Lett., 88: 245701 (2002)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.80.031602",
+				"or":  "A. Jaatinen, C. V. Achim, K. R. Elder et al., Phys. Rev. E, 80: 031602 (2009).",
+				"tr":  "A. Jaatinen, C. V. Achim, K. R. Elder et al., Phys. Rev. E, 80: 031602 (2009)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.73.031609",
+				"or":  "J. Berry, M. Garnt, and K. R. Elder, Phys. Rev. E, 73: 031609 (2006).",
+				"tr":  "J. Berry, M. Garnt, and K. R. Elder, Phys. Rev. E, 73: 031609 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Douglas, Metallurgy of Zirconium (Moscow: Atomizdat: 1976) (Russian translation).",
+				"tr":  "D. Douglas, Metallurgy of Zirconium (Moscow: Atomizdat: 1976) (Russian translation)."
+			},
+			{
+				"doi": "10.1063/1.464913",
+				"or":  "A. D. Becke, J. Chem. Phys., 98: 5648 (1993).",
+				"tr":  "A. D. Becke, J. Chem. Phys., 98: 5648 (1993)."
+			},
+			{
+				"doi": "10.1063/1.1904586",
+				"or":  "K. Burke, J. Werschnik, and E. K. U. Gross, J. Chem. Phys., 123: 062206 (2005).",
+				"tr":  "K. Burke, J. Werschnik, and E. K. U. Gross, J. Chem. Phys., 123: 062206 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.12.3060",
+				"or":  "O. K. Andersen, Phys. Rev. B, 12: 3060 (1975).",
+				"tr":  "O. K. Andersen, Phys. Rev. B, 12: 3060 (1975)."
+			},
+			{
+				"doi": "10.1103/PhysRevA.38.3098",
+				"or":  "A. D. Becke, Phys. Rev. A, 38: 3098 (1988).",
+				"tr":  "A. D. Becke, Phys. Rev. A, 38: 3098 (1988)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.28.1809",
+				"or":  "D. C. Langreth and M. J. Mehl, Phys. Rev. B, 28: 1809 (1983).",
+				"tr":  "D. C. Langreth and M. J. Mehl, Phys. Rev. B, 28: 1809 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Blaha, K. Schwarz, G. K. H. Madsen, D. Kvasnicka, and J. Luits, Wien2k: An Augmented Plane Wave Plus Local Orbitals Program for Calculating Crystal Properties (Vienna: Vienna University of Technology: 2001).",
+				"tr":  "P. Blaha, K. Schwarz, G. K. H. Madsen, D. Kvasnicka, and J. Luits, Wien2k: An Augmented Plane Wave Plus Local Orbitals Program for Calculating Crystal Properties (Vienna: Vienna University of Technology: 2001)."
+			},
+			{
+				"doi": "10.1103/PhysRev.34.1293",
+				"or":  "J. Slater and H. C. Verma, Phys. Rev., 34: 1293 (1929).",
+				"tr":  "J. Slater and H. C. Verma, Phys. Rev., 34: 1293 (1929)."
+			},
+			{
+				"doi": "",
+				"or":  "P. W. Atkins, Molecular Quantum Mechanics. Parts I and II: An Introduction to Quantum Chemistry (Oxford: Oxford University Press: 1977).",
+				"tr":  "P. W. Atkins, Molecular Quantum Mechanics. Parts I and II: An Introduction to Quantum Chemistry (Oxford: Oxford University Press: 1977)."
+			},
+			{
+				"doi": "10.1103/PhysRev.81.385",
+				"or":  "J. C. Slater, Phys. Rev., 81: 385 (1951).",
+				"tr":  "J. C. Slater, Phys. Rev., 81: 385 (1951)."
+			},
+			{
+				"doi": "10.1103/PhysRev.91.528",
+				"or":  "J. C. Slater, Phys. Rev., 91: 528 (1953).",
+				"tr":  "J. C. Slater, Phys. Rev., 91: 528 (1953)."
+			},
+			{
+				"doi": "10.1103/PhysRev.136.B864",
+				"or":  "P. Hohenberg and W. Kohn, Phys. Rev., 136: B864 (1964).",
+				"tr":  "P. Hohenberg and W. Kohn, Phys. Rev., 136: B864 (1964)."
+			},
+			{
+				"doi": "10.1103/PhysRev.140.A1133",
+				"or":  "W. Kohn and L. J. Sham, Phys. Rev., 140: A1133 (1965).",
+				"tr":  "W. Kohn and L. J. Sham, Phys. Rev., 140: A1133 (1965)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.13.4274",
+				"or":  "O. Gunnarsson and B. I. Lundquist, Phys. Rev. B, 13: 4274 (1976).",
+				"tr":  "O. Gunnarsson and B. I. Lundquist, Phys. Rev. B, 13: 4274 (1976)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.61.689",
+				"or":  "R. O. Jones and O. Gunnarsson, Rev. Mod. Phys., 61: 689 (1989).",
+				"tr":  "R. O. Jones and O. Gunnarsson, Rev. Mod. Phys., 61: 689 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "See on http://www.wien2k.at/",
+				"tr":  "See on http://www.wien2k.at/"
+			},
+			{
+				"doi": "10.1016/j.actamat.2014.06.012",
+				"or":  "C. Varvenne, O. Mackain, and E. Clouet, Acta Mater., 78: 65 (2014).",
+				"tr":  "C. Varvenne, O. Mackain, and E. Clouet, Acta Mater., 78: 65 (2014)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/SSP.129.75",
+				"or":  "G. Verite, F. Willaime, and C. C. Fu, Solid State Phenom., 129: 75 (2007).",
+				"tr":  "G. Verite, F. Willaime, and C. C. Fu, Solid State Phenom., 129: 75 (2007)."
+			},
+			{
+				"doi": "10.1080/09500830701191393",
+				"or":  "M. I. Mendelev and G. J. Ackland, Philos. Mag. Lett., 87: 349 (2007).",
+				"tr":  "M. I. Mendelev and G. J. Ackland, Philos. Mag. Lett., 87: 349 (2007)."
+			}
+		]
+	}
+}

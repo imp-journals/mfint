@@ -1,0 +1,128 @@
+{
+	"_id":    "MFiNT.38.06.0763",
+	"year":   2016,
+	"volume": 38,
+	"issue":  6,
+	"pages":  [763,781],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["10.05.2016"],
+	"PACS":   "06.60.Vz, 62.20.Qp, 68.35.Dv, 68.37.Lp, 81.07.Bc, 81.40.Lm, 81.40.Pq, 82.80.Pv",
+	"title":   {
+		"ua": "Вплив активних хімічних елементів мастильно-охолоджуючих рідин на властивості поверхневих шарів деформованого заліза. I. Локальний розподіл домішкових атомів та їх найближче атомне оточення",
+		"en": "Effect of the Active Chemical Elements of Metal-Working Lubricants on Properties of Surface Layers of the Deformed Iron. I. Local Distribution of the Impurity Atoms and Their Nearest Atomic Environment",
+		"ru": "Влияние активных химических элементов смазочно-охлаждающих жидкостей на свойства поверхностных слоёв деформированного железа. I. Локальное распределение примесных атомов и их ближайшее атомное окружение"
+	},
+	"abstract": {
+		"ua": "Методою трансмісійної електронної мікроскопії досліджено вплив введення у воду концентратів мастильно-охолодних рідин (МОР) з протизадирними органічними присадками, що містять у молекулі активні атоми Фосфору, Сульфуру й Хлору, на мікроструктуру та фазовий склад прокатаного заліза. Методою Оже-електронної спектроскопії вивчено еволюцію хемічного складу примежових областей зерен та їхніх фраґментів при розвиненій пластичній деформації металу під час прокатки за рахунок насичення його поверхневих шарів активними хемічними елементами МОР і перерозподілу домішкових атомів вихідного металу. Методою спектроскопії високого розріжнення енергетичних втрат розсіяних електронів визначено індивідуальне найближче атомове оточення атомів домішок у примежових областях зерен та їхніх фраґментів.",
+		"en": "Effect of the metal-working fluids with active chemical elements on microstructure and phase composition of the rolled iron is studied by the method of transmission electron microscopy. Evolution of the chemical composition of the grain boundaries and their fragments’ boundaries during plastic deformation of the iron in the metal-working fluids with active chemical elements is studied by the Auger electron spectroscopy method. The individual nearest atomic environment of impurity atoms at the grain boundaries and their fragments’ boundaries is studied by the method of high-resolution spectroscopy of the energy losses of the scattered electrons.",
+		"ru": "Методом трансмиссионной электронной микроскопии исследовано влияние введения в воду концентратов смазочно-охлаждающих жидкостей (СОЖ) с противозадирными органическими присадками, содержащими в молекуле активные атомы фосфора, серы и хлора, на микроструктуру и фазовый состав прокатанного железа. Методом оже-электронной спектроскопии изучена эволюция химического состава приграничных областей зёрен и их фрагментов при развитой пластической деформации металла в ходе прокатки за счёт насыщения его поверхностных слоёв активными химическими элементами СОЖ и перераспределения примесных атомов исходного металла. Методом спектроскопии высокого разрешения энергетических потерь рассеянных электронов определено индивидуальное ближайшее атомное окружение атомов примеси в приграничных областях зёрен и их фрагментов."
+	},
+	"keywords": {
+		"ua": "пластична деформація, мастильно-охолодні рідини, домішкові атоми, сеґреґація, атомові кластери, індивідуальне атомове оточення, дисклінації",
+		"en": "plastic deformation, metal-working fluids, impurity atoms, segregation, atomic clusters, individual atomic environment, disclination",
+		"ru": "пластическая деформация, смазочно-охлаждающие жидкости, примесные атомы, сегрегация, атомные кластеры, индивидуальное атомное окружение, дисклинации."
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. В. Тихонович", "en": "V. V. Tykhonovych", "ru": "В. В. Тихонович"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 18,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Ю. М. Виноградов, Трение и износ модифицированных металлов (Москва: Наука: 1972).",
+				"tr":  "Yu. M. Vinogradov, Trenie i Iznos Modifitsirovannykh Metallov [Friction and Wear of Modified Metals] (Moscow: Nauka: 1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Гуреев, П. П. Заскалько, И. Э. Виноградова, Н. М. Муминджанов, В. Х. Корсунский, Химия и технология топлив и масел, № 7: 61 (1980).",
+				"tr":  "A. A. Gureev, P. P. Zaskal'ko, I. E. Vinogradova, N. M. Mumindzhanov, and V. Kh. Korsunskiy, Khimiya i Tekhnologiya Topliv i Masel, No. 7: 61 (1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. М. Маивиевский, Д. К. Шульце, И. А. Буняковский, Исследование смазочных материалов при трении. О связи между термической стабильностью химически активных присадок к смазочным маслам и их триботехническими свойствами при трении (Москва: Наука: 1981).",
+				"tr":  "R. M. Maivievskiy, D. K. Shul'tse, and I. A. Bunyakovskiy, Issledovanie Smazochnykh Materialov pri Trenii. O Svyazi mezhdu Termicheskoy Stabil'nost'yu Khimicheski Aktivnykh Prisadok k Smazochnym Maslam i Ikh Tribotekhnicheskimi Svoystvami pri Trenii [Investigation of Lubricants at Friction. The Connection between the Thermal Stability of Chemically Active Additives to Lubricating Oil and Their Tribological Properties at Friction] (Moscow: Nauka: 1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. М. Роев, Л. М. Артюховская, В. Я. Скляр, Л. А. Редько, Р. А. Свищук, Украинский химический журнал, 44, № 12: 1290 (1978).",
+				"tr":  "L. M. Roev, L. M. Artyukhovskaya, V. Ya. Sklyar, L. A. Red'ko, and R. A. Svishchuk, Ukrayins'kyy Khimicheskiy Zhurnal, 44, No. 12: 1290 (1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Тихонович, В. П. Гаврилюк, В. І. Тихонович, О. М. Грипачевський, Металознавство та обробка металів, № 1: 12 (2004).",
+				"tr":  "V. V. Tykhonovych, V. P. Havrylyuk, V. I. Tykhonovych, and O. M. Hrypachevs'kyy, Metaloznavstvo ta Obrobka Metaliv, No. 1: 12 (2004) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Горский, В. В. Тихонович, Ю. Я. Мешков, В. П. Темненко, Б. С. Шаповал, Л. М. Шелудченко, А. В. Шевченко, Металлофизика, 12, № 2: 53 (1990).",
+				"tr":  "V. V. Gorskiy, V. V. Tikhonovich, Yu. Ya. Meshkov, V. P. Temnenko, B. S. Shapoval, L. M. Sheludchenko, and A. V. Shevchenko, Metallofizika, 12, No. 2: 53 (1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Горский, В. В. Тихонович, О. Д. Смиян, С. О. Антонов, В. И. Франчук, Металлофизика, 12, № 3: 89 (1990).",
+				"tr":  "V. V. Gorskiy, V. V. Tikhonovich, O. D. Smiyan, S. O. Antonov, and V. I. Franchuk, Metallofizika, 12, No. 3: 89 (1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Тихонович, Л. М. Шелудченко, В. В. Горский, Фізико-хімічна механіка матеріалів, 26, № 5: 61 (1990).",
+				"tr":  "V. V. Tikhonovich, L. M. Sheludchenko, and V. V. Gorskiy, Physicochemical Mechanics of Materials, 26, No. 5: 61 (1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. М. Шелудченко, В. В. Тихонович, В. В. Горский, О. Д. Смиян, С. О. Антонов, А. Д. Драчинская, Металлофизика, 14, № 4: 75 (1992).",
+				"tr":  "L. M. Sheludchenko, V. V. Tikhonovich, V. V. Gorskiy, O. D. Smiyan, S. O. Antonov, and A. D. Drachinskaya, Metallofizika, 14, No. 4: 75 (1992) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Тихонович, В. В. Горский, Л. М. Шелудченко, А. В. Шевченко, Б. С. Шаповал, О. Д. Смиян, С. О. Антонов, В. П. Темненко, Фізико-хімічна механіка матеріалів, 29, № 1: 100 (1993).",
+				"tr":  "V. V. Tikhonovich, V. V. Gorskiy, L. M. Sheludchenko, A. V. Shevchenko, B. S. Shapoval, O. D. Smiyan, S. O. Antonov, and V. P. Temnenko, Physicochemical Mechanics of Materials, 29, No. 1: 100 (1993) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0001-6160(82)90226-7",
+				"or":  "C. L. Briant and R. P. Messmer, Acta Met., 30, No. 2: 457 (1982).",
+				"tr":  "C. L. Briant and R. P. Messmer, Acta Met., 30, No. 2: 457 (1982)."
+			},
+			{
+				"doi": "10.1080/01418638008227298",
+				"or":  "C. L. Briant and R. P. Messmer, Philos. Mag. B, 42, No. 4: 569 (1980).",
+				"tr":  "C. L. Briant and R. P. Messmer, Philos. Mag. B, 42, No. 4: 569 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Урусов, Энергетическая кристаллохимия (Москва: Наука: 1975).",
+				"tr":  "V. S. Urusov, Energeticheskaya Kristallokhimiya [Energy Crystal Chemistry] (Moscow: Nauka: 1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Бриггс, М. П. Сих, Анализ поверхности методами оже- и рентгеновской фотоэлектронной спектроскопии (Москва: Мир: 1987).",
+				"tr":  "D. Briggs and M. P. Sikh, Analiz Poverkhnosti Metodami Auger- i Rentgenovskoy Fotoelektronnoy Spektroskopii [Surface Analysis by Methods of Auger and X-Ray Photoelectron Spectroscopy] (Moscow: Mir: 1987) (in Russian)."
+			},
+			{
+				"doi": "10.1002/pssb.2221340212",
+				"or":  "K. Masuda-Jindo, phys. status solidi (b), 134: 545 (1986).",
+				"tr":  "K. Masuda-Jindo, phys. status solidi (b), 134: 545 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Ковалев, Г. В. Щербединский, Современные методы исследования поверхности металлов и сплавов (Москва: Металлургия: 1989).",
+				"tr":  "A. I. Kovalev and G. V. Shcherbedinskiy, Sovremennye Metody Issledovaniya Poverkhnosti Metallov i Splavov [Modern Methods of Investigation of Metals and Alloys Surfaces] (Moscow: Metallurgiya: 1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Ковалев, В. П. Мишина, Г. В. Щербединский, Металлофизика, 9, № 3: 112 (1987).",
+				"tr":  "A. I. Kovalev, V. P. Mishina, and G. V. Shcherbedinskiy, Metallofizika, 9, No. 3: 112 (1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "R. L. Blake, R. E. Nessevick, T. Zoltai, and L. W. Finger, American Mineralogist, 51: 123 (1966).",
+				"tr":  "R. L. Blake, R. E. Nessevick, T. Zoltai, and L. W. Finger, American Mineralogist, 51: 123 (1966)."
+			}
+		]
+	}
+}

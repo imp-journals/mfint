@@ -1,0 +1,138 @@
+{
+	"_id":    "MFiNT.36.12.1641",
+	"year":   2014,
+	"volume": 36,
+	"issue":  12,
+	"pages":  [1641,1650],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["10.06.2013","28.11.2014"],
+	"PACS":   "44.10.+i, 65.40.De, 65.60.+a, 66.70.Hk, 77.84.Lf, 81.05.Qk, 83.60.Np",
+	"title":   {
+		"ua": "Вплив неоднорідного магнетного поля на фізичні властивості металовміщувальних полімерних композитів",
+		"en": "Effect of Inhomogeneous Magnetic Field on the Physical Properties of Metal—Polymer Composites",
+		"ru": "Влияние неоднородного магнитного поля на физические свойства металлосодержащих полимерных композитов"
+	},
+	"abstract": {
+		"ua": "Вивчено ефективну теплопровідність і коефіцієнт лінійного теплового розширення кристалів, створених з порошкоподібних полімерів, залежно від вмісту в них дрібнодисперсного заліза. Встановлено значне поліпшення зазначених теплових характеристик у тій серії зразків, які виготовляли шляхом змішування полімерної матриці та заліза з наступним нагріванням і витримкою при температурі, на 20 К вищій за температуру топлення полімеру, а потім реалізації кристалічної структури (шляхом зниження температури) в обертовому неоднорідному магнетному полі. У цьому випадку виявлено аномальну зміну коефіцієнтів лінійного теплового розширення композитів залежно від маси заліза, що в них додається, при вмісті останнього в кількості, меншій за 5% від початкової маси чистого полімеру.",
+		"en": "The effective thermal conductivity and the coefficient of linear thermal expansion of crystals fabricated from polymer powders are studied, depending on the content of fine iron. A considerable improvement of the thermal characteristics in the batch of samples fabricated by mixing of the polymer matrix and iron with the following heating and holding at a temperature by 20 K above the melting point of the polymer and further implementation of a crystal structure (by temperature lowering) in the rotating inhomogeneous magnetic field is identified. In this case, an anomalous change of the coefficients of linear thermal expansion of composite depending on the weight of iron added there with amount of less than 5% of the original mass of the pure polymer is detected.",
+		"ru": "Изучены эффективная теплопроводность и коэффициент линейного теплового расширения кристаллов, созданных из порошкообразных полимеров, в зависимости от содержания в них мелкодисперсного железа. Установлено значительное улучшение указанных тепловых характеристик в той серии образцов, которые готовили путём смешивания полимерной матрицы и железа с последующим нагревом и выдержкой при температуре на 20 К выше температуры плавления полимера, а затем реализации кристаллической структуры (путём понижения температуры) во вращающемся неоднородном магнитном поле. В этом случае обнаружено аномальное изменение коэффициентов линейного теплового расширения композитов в зависимости от массы добавляемого в них железа при содержании последнего в количестве менее 5% от исходной массы чистого полимера."
+	},
+	"keywords": {
+		"ua": "теплопровідність, лінійне розширення, композити, магнетне поле",
+		"en": "thermal conductivity, linear thermal expansion, composites, magnetic field",
+		"ru": "теплопроводность, линейное расширение, композиты, магнитное поле"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Н. Білик", "en": "V. N. Bilyk", "ru": "В. Н. Билык"},
+			"OID": [219]
+		},
+		{
+			"AID": {"ua": "Г. В. Кірік", "en": "G. V. Kirik", "ru": "Г. В. Кирик"},
+			"OID": [188]
+		},
+		{
+			"AID": {"ua": "О. Г. Медведовська", "en": "O. G. Medvedovskaya", "ru": "О. Г. Медведовская"},
+			"OID": [219]
+		},
+		{
+			"AID": {"ua": "А. Д. Стаднік", "en": "A. D. Stadnik", "ru": "А. Д. Стадник"},
+			"OID": [219]
+		},
+		{
+			"AID": {"ua": "Г. К. Чепурних", "en": "G. K. Chepurnykh", "ru": "Г. К. Чепурных"},
+			"OID": [17]
+		},
+		{
+			"AID": {"ua": "С. В. Соколов", "en": "S. V. Sokolov", "ru": "С. В. Соколов"},
+			"OID": [208]
+		}
+	],
+	"references": {
+		"count": 16,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Н. А. Иногамов, Ю. В. Петров, ЖЭТФ, 137, вып. 3: 505 (2010).",
+				"tr":  "N. A. Inogamov and Yu. V. Petrov, ZhETF, 137, Iss. 3: 505 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Инюшкин, А. Н. Талденков, ЖЭТФ, 138, вып. 5: 862 (2010).",
+				"tr":  "A. V. Inyushkin and A. N. Taldenkov, ZhETF, 138, Iss. 5: 862 (2010) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.97.227202",
+				"or":  "S. I. Denisov, T. V. Lyutyy, and P. Hünggi, Phys. Rev. Lett., 97: 227202 (2006).",
+				"tr":  "S. I. Denisov, T. V. Lyutyy, and P. Hünggi, Phys. Rev. Lett., 97: 227202 (2006)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.75.184432",
+				"or":  "S. I. Denisov, K. Sakmann, P. Talkner, and P. Hünggi, Phys. Rev. B, 75: 184432 (2007).",
+				"tr":  "S. I. Denisov, K. Sakmann, P. Talkner, and P. Hünggi, Phys. Rev. B, 75: 184432 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. П. Булат, И. А. Драбкин, В. В. Каратаев, В. Б. Освенский, Д. А. Пшенай-Северин, Физика твёрдого тела, 52, № 9: 1712 (2010).",
+				"tr":  "L. P. Bulat, I. A. Drabkin, V. V. Karataev, V. B. Osvenskiy, and D. A. Pshenay-Severin, Fizika Tverdogo Tela, 52, No. 9: 1712 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Н. Левин, Б. А. Зон, ЖЭТФ, 111, вып. 4: 1373 (1997).",
+				"tr":  "M. N. Levin and B. A. Zon, ZhETF, 111, Iss. 4: 1373 (1997) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. А. Осипьян, Ю. И. Головин, Д. В. Лопатин, Р. Б. Моргунов, Р. К. Николаев, С. З. Шмурак, Письма в ЖЭТФ, 69, вып. 2: 110 (1999).",
+				"tr":  "Yu. A. Osip'jan, Yu. I. Golovin, D. V. Lopatin, R. B. Morgunov, R. K. Nikolaev, and S. Z. Shmurak, Pis'ma v ZhETF, 69, Iss. 2: 110 (1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "N. N. Peschanskaya, I. U. Hristova, and P. N. Yakushev, Polymer, 42, 9: 1711 (2002).",
+				"tr":  "N. N. Peschanskaya, I. U. Hristova, and P. N. Yakushev, Polymer, 42, No. 9: 1711 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. И. Головин, Р. Б. Моргунов, Физика твёрдого тела, 43, № 5: 827 (2001).",
+				"tr":  "Yu. I. Golovin and R. B. Morgunov, Fizika Tverdogo Tela, 43, No. 5: 827 (2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Н. Песчанская, А. С. Смолянский, А. В. Рылов, Физика твёрдого тела, 44, № 9: 1711 (2002).",
+				"tr":  "N. N. Peschanskaya, A. S. Smolyanskiy, and A. V. Rylov, Fizika Tverdogo Tela, 44, No. 9: 1711 (2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Н. Песчанская, П. Н. Якушев, Физика твёрдого тела, 45, № 6: 1130 (2003).",
+				"tr":  "N. N. Peschanskaya and P. N. Yakushev, Fizika Tverdogo Tela, 45, No. 6: 1130 (2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Д. Ландау, Е. М. Лифшиц, Электродинамика сплошных сред (Москва: Наука: 1982).",
+				"tr":  "L. D. Landau and E. M. Lifshitz, Elektrodinamika Sploshnykh Sred (Moscow: Nauka: 1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Е. Тамм, Основы теории электричества: Учеб. пособие для вузов (Москва: ФИЗМАТЛИТ: 2003).",
+				"tr":  "I. E. Tamm, Osnovy Teorii Elektrichestva: Ucheb. Posobie dlya Vuzov (Moscow: FIZMATLIT: 2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Займан, Электроны и фононы (Москва: Изд-во иностр. лит.: 1962).",
+				"tr":  "J. Ziman, Elektrony i Fonony (Electrons and Phonons) (Moscow: Izd. Inostr. Lit.: 1962) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Миснар, Теплопроводность твердых тел, жидкостей, газов и их композиций (Москва: Мир: 1968).",
+				"tr":  "A. Misnar, Teploprovodnost' Tverdykh Tel, Zhidkostey, Gazov i Ikh Kompozitsiy (Thermal Conductivity of Solids, Liquids, Gases, and Their Mixtures) (Moscow: Mir: 1968) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Д. Ландау, Е. М. Лифшиц, Статистическая физика. Ч. 1 (Москва: Наука: 1976).",
+				"tr":  "L. D. Landau and E. M. Lifshitz, Statisticheskaya Fizika. Pt. 1 (Moscow: Nauka: 1976) (in Russian)."
+			}
+		]
+	}
+}

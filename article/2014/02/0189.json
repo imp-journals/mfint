@@ -1,0 +1,146 @@
+{
+	"_id":    "MFiNT.36.02.0189",
+	"year":   2014,
+	"volume": 36,
+	"issue":  2,
+	"pages":  [189,193],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["23.04.2013"],
+	"PACS":   "61.72.Bb, 61.72.Cc, 61.72.Dd, 61.72.Hh, 66.30.Dn",
+	"title":   {
+		"ua": "Зміни поверхневого заряду і вмісту дефектів в кремнії для накопичувачів сонячної енергії, викликані магнітним полем",
+		"en": "Magnetic-Field-Stimulated Modification of Surface Charge and Defect Content in Silicon for Solar Energy Storage",
+		"ru": "Изменения поверхностного заряда и содержания дефектов в кремнии для накопителей солнечной энергии, вызванные магнитным полем"
+	},
+	"abstract": {
+		"ua": " В роботі досліджено вплив слабкого сталого магнітного поля на структуру та зарядовий стан кремнію для сонячної енергетики. Виявлено, що магнітостимульовані зміни дефектно-домішкового стану та поверхневого потенціалу мають зворотній характер.",
+		"en": "The effect of a weak static magnetic field on the structure and charge state of silicon for solar energy storage is investigated. As found, the magnetic-field-stimulated changes in the defect—impurity state and surface potential are reversible.",
+		"ru": "В работе исследуется влияние слабого постоянного магнитного поля на структуру и зарядовое состояние кремния для солнечной энергетики. Обнаружено, что магнитостимулированные изменения дефектно-примесного состояния и поверхностного потенциала носят обратимый характер."
+	},
+	"keywords": {
+		"ua": "«сонячний» кремній, домішки, магнітне поле, поверхневий потенціал, час рекомбінації носіїв",
+		"en": "‘solar’ silicon, impurities, magnetic field, surface potential, carrier recombination time",
+		"ru": "«солнечный» кремний, примеси, магнитное поле, поверхностный потенциал, время рекомбинации носителей"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. А. Макара", "en": "V. А. Makara", "ru": "В. А. Макара"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "Л. П. Стебленко", "en": "L. P. Steblenko", "ru": "Л. П. Стебленко"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "О. А. Коротченков", "en": "О. A. Korotchenkov", "ru": "О. А. Коротченков"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "А. Б. Надточий", "en": "А. B. Nadtochiy", "ru": "А. Б. Надточий"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "Д. В. Калиниченко", "en": "D. V. Kalinichenko", "ru": "Д. В. Калиниченко"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "А. М. Курилюк", "en": "А. М. Kuryliuk", "ru": "А. Н. Курилюк"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "Ю. Л. Кобзар", "en": "Yu. L. Kobzar", "ru": "Ю. Л. Кобзарь"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "А. М. Кріт", "en": "О. М. Krit", "ru": "А. Н. Крит"},
+			"OID": [201]
+		}
+	],
+	"references": {
+		"count": 16,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "V. I. Al’shits, E. V. Darinskaya, T. M. Perekalina, and A. A. Urusovskaya, Sov. Phys. Solid State, 29: 265 (1987).",
+				"tr":  "V. I. Al'shits, E. V. Darinskaya, T. M. Perekalina, and A. A. Urusovskaya, Sov. Phys. Solid State, 29: 265 (1987)."
+			},
+			{
+				"doi": "10.1070/PU1988v031n05ABEH003544",
+				"or":  "Ya. B. Zel’dovich, A. L. Buchachenko, and E. L. Frankevich, Sov. Phys. Uspekhi, 31: 385 (1988).",
+				"tr":  "Ya. B. Zel'dovich, A. L. Buchachenko, and E. L. Frankevich, Sov. Phys. Uspekhi, 31: 385 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "V. M. Maslovskii and S. N. Postnikov, Proceedings of the 4th Scientific Technical Seminar on Processing by Pulse Magnetic Field (Methods and Technology) (Gorky, Sofia: 1989), p. 5.",
+				"tr":  "V. M. Maslovskii and S. N. Postnikov, Proceedings of the 4th Scientific Technical Seminar on Processing by Pulse Magnetic Field (Methods and Technology) (Gorky, Sofia: 1989), p. 5."
+			},
+			{
+				"doi": "",
+				"or":  "V. N. Buzykin, O. I. Datsko, and S. N. Postnikov, Elektron. Obrab. Mater., 2: 16 (1993) (in Russian).",
+				"tr":  "V. N. Buzykin, O. I. Datsko, and S. N. Postnikov, Elektron. Obrab. Mater., 2: 16 (1993) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. N. Levin and B. A. Zon, Zh. Exp. Teor. Fiz., 84, 760 (1997) (in Russian).",
+				"tr":  "M. N. Levin and B. A. Zon, Zh. Exp. Teor. Fiz., 84, 760 (1997) (in Russian)."
+			},
+			{
+				"doi": "10.1134/1.1568998",
+				"or":  "M. N. Levin, G. V. Semenova, and T. P. Sushkova, Phys. Solid State, 45: 639 (2003).",
+				"tr":  "M. N. Levin, G. V. Semenova, and T. P. Sushkova, Phys. Solid State, 45: 639 (2003)."
+			},
+			{
+				"doi": "10.1134/1.1620124",
+				"or":  "M. N. Levin, A. V. Tatarintsev, O. A. Kostsov, and A. M. Kostsov, Tech. Phys., 48: 1304 (2003).",
+				"tr":  "M. N. Levin, A. V. Tatarintsev, O. A. Kostsov, and A. M. Kostsov, Tech. Phys., 48: 1304 (2003)."
+			},
+			{
+				"doi": "10.1134/1.1744954",
+				"or":  "Yu. I. Golovin, Phys. Solid State, 46: 789 (2004).",
+				"tr":  "Yu. I. Golovin, Phys. Solid State, 46: 789 (2004)."
+			},
+			{
+				"doi": "10.1070/PU2004v047n02ABEH001683",
+				"or":  "R. B. Morgunov, Phys. Uspekhi, 47: 125 (2004).",
+				"tr":  "R. B. Morgunov, Phys. Uspekhi, 47: 125 (2004)."
+			},
+			{
+				"doi": "10.1134/S1063776107090166",
+				"or":  "A. L. Buchachenko, JETP, 105: 593 (2007).",
+				"tr":  "A. L. Buchachenko, JETP, 105: 593 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Makara, L. P. Steblenko, A. M. Korduban, O. V. Matveeva, A. N. Kuryliuk, S. N. Naumenko, Yu. L. Kolchenko, and G. V. Vesna, Materials and Structures of Modern Electronics (Minsk: 2006), p. 189 (in Russian).",
+				"tr":  "V. A. Makara, L. P. Steblenko, A. M. Korduban, O. V. Matveeva, A. N. Kuryliuk, S. N. Naumenko, Yu. L. Kolchenko, and G. V. Vesna, Materials and Structures of Modern Electronics (Minsk: 2006), p. 189 (in Russian)."
+			},
+			{
+				"doi": "10.1134/S106378260809008X",
+				"or":  "V. A. Makara, M. A. Vasiliev, L. P. Steblenko, O. V. Koplak, A. N. Kuryliuk, Yu. L. Kobzar, and S. N. Naumenko, Semiconductors, 42: 1044 (2008).",
+				"tr":  "V. A. Makara, M. A. Vasiliev, L. P. Steblenko, O. V. Koplak, A. N. Kuryliuk, Yu. L. Kobzar, and S. N. Naumenko, Semiconductors, 42: 1044 (2008)."
+			},
+			{
+				"doi": "10.1134/S1063782613050163",
+				"or":  "V. A. Makara, O. A. Korotchenkov, L. P. Steblenko, A. A. Podolyan, and D. V. Kalinichenko, Semiconductors, 47, No. 5: 652 (2013).",
+				"tr":  "V. A. Makara, O. A. Korotchenkov, L. P. Steblenko, A. A. Podolyan, and D. V. Kalinichenko, Semiconductors, 47, No. 5: 652 (2013)."
+			},
+			{
+				"doi": "10.1063/1.3407562",
+				"or":  "A. Podolian, V. Kozachenko, A. Nadtochiy, N. Borovoy, and O. Korotchenkov, J. Appl. Phys., 107: 093706 (2010).",
+				"tr":  "A. Podolian, V. Kozachenko, A. Nadtochiy, N. Borovoy, and O. Korotchenkov, J. Appl. Phys., 107: 093706 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "A. B. Nadtochy, O. A. Korotchenkov, and V. V. Kuryliuk, Zhurnal Tekhnicheskoi Fiziki, 83, No. 3: 84 (2013) (in Russian).",
+				"tr":  "A. B. Nadtochy, O. A. Korotchenkov, and V. V. Kuryliuk, Zhurnal Tekhnicheskoi Fiziki, 83, No. 3: 84 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. S. Vavilov, Defects in Silicon and on Its Surface (Moscow: Nauka: 1990) (in Russian).",
+				"tr":  "V. S. Vavilov, Defects in Silicon and on Its Surface (Moscow: Nauka: 1990) (in Russian)."
+			}
+		]
+	}
+}

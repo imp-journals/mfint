@@ -1,0 +1,160 @@
+{
+	"_id":    "MFiNT.36.10.1411",
+	"year":   2014,
+	"volume": 36,
+	"issue":  10,
+	"pages":  [1411,1425],
+	"rubric": 1,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["22.08.2014"],
+	"PACS":   "61.25.Mv, 61.43.Bn, 61.43.Dq, 64.70.kd, 81.05.Kf, 81.07.Bc, 81.30.Fb",
+	"title":   {
+		"ua": "Кінетика кристалізації стопу Cu$_{47}$Ni$_{8}$Ti$_{34}$Zr$_{11}$, що об’ємно аморфізується, в умовах кокільного виливання",
+		"en": "Kinetics of Crystallization of a Bulk-Amorphized Cu$_{47}$Ni$_{8}$Ti$_{34}$Zr$_{11}$ Alloy in Conditions of Chill Casting",
+		"ru": "Кинетика кристаллизации объёмно-аморфизирующегося сплава Cu$_{47}$Ni$_{8}$Ti$_{34}$Zr$_{11}$ в условиях кокильного литья"
+	},
+	"abstract": {
+		"ua": "Наведено результати розрахункової аналізи кінетики кристалізації стопу Cu$_{47}$Ni$_{8}$Ti$_{34}$Zr$_{11}$, що об’ємно аморфізується, в умовах лиття у металеву виливницю. Показано, що у виливках різної товщини формуються 3 різновиди мікроструктури: умовно аморфна, аморфно-нанокристалічна і мікрокристалічна. Встановлено залежності числа кристалів в одиниці об’єму та їхніх середніх розмірів від товщини виливків. Досягнуто узгоджености розрахункових оцінок критичної товщини виливків, що аморфізуються, з відомими експериментальними даними.",
+		"en": "The results of computational analysis of the crystallization kinetics of bulk-amorphized Cu$_{47}$Ni$_{8}$Ti$_{34}$Zr$_{11}$ alloy under gravity die-casting are presented. As shown, within the ingots of different thicknesses, three types of microstructures are formed: conditionally amorphous, amorphous—nanocrystalline and microcrystalline ones. The dependences of the crystals’ number per volume unit and their average sizes on the thickness of ingots are determined. Estimated values of the critical thickness of amorphized ingots are consistent with available experimental data.",
+		"ru": "Представлены результаты расчётного анализа кинетики кристаллизации объёмно-аморфизирующегося сплава Cu$_{47}$Ni$_{8}$Ti$_{34}$Zr$_{11}$ в условиях литья в металлическую изложницу. Показано, что в отливках разной толщины формируются 3 разновидности микроструктуры: условно аморфная, аморфно-нанокристаллическая и микрокристаллическая. Установлены зависимости числа кристаллов в единице объёма и их средних размеров от толщины отливок. Достигнуто согласие расчётных оценок критической толщины аморфизирующихся отливок с известными экспериментальными данными."
+	},
+	"keywords": {
+		"ua": "стоп Cu$_{47}$Ni$_{8}$Ti$_{34}$Zr$_{11}$, кокільне виливання, термічні режими, кінетика кристалізації, мікроструктура виливків",
+		"en": "Cu$_{47}$Ni$_{8}$Ti$_{34}$Zr$_{11}$ alloy, chill casting, thermal conditions, crystallization kinetics, microstructure of ingots",
+		"ru": "сплав Cu$_{47}$Ni$_{8}$Ti$_{34}$Zr$_{11}$, кокильное литьё, термические режимы, теплоперенос, кинетика кристаллизации, микроструктура отливок"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. Б. Лисенко", "en": "O. B. Lysenko", "ru": "А. Б. Лысенко"},
+			"OID": [229]
+		},
+		{
+			"AID": {"ua": "О. Л. Косинська", "en": "O. L. Kosynska", "ru": "О. Л. Косинская"},
+			"OID": [229]
+		},
+		{
+			"AID": {"ua": "С. В. Губарєв", "en": "S. V. Gubarev", "ru": "С. В. Губарев"},
+			"OID": [229]
+		},
+		{
+			"AID": {"ua": "Т. В. Калініна", "en": "T. V. Kalinina", "ru": "Т. В. Калинина"},
+			"OID": [229]
+		}
+	],
+	"references": {
+		"count": 22,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Ю. К. Ковнеристый, Объемно-аморфизирующиеся металлические сплавы (Москва: Наука: 1999).",
+				"tr":  "Yu. K. Kovneristyy, Ob'yomno-Amorfiziruyushchiesya Metallicheskie Splavy (Bulk-Amorphized Metal Alloys) (Moscow: Nauka: 1999) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(99)00300-6",
+				"or":  "A. Inoue, Acta Mater., 48: 279 (2000).",
+				"tr":  "A. Inoue, Acta Mater., 48: 279 (2000)."
+			},
+			{
+				"doi": "10.1002/adma.200902776",
+				"or":  "J. Schoers, Adv. Mater., 22: 1566 (2010).",
+				"tr":  "J. Schoers, Adv. Mater., 22: 1566 (2010)."
+			},
+			{
+				"doi": "10.1016/0956-7151(94)00413-7",
+				"or":  "V. I. Tkatch, S. N. Denisenko, and B. I. Selyakov, Acta Metall. Mater., 43, No. 6: 2485 (1995).",
+				"tr":  "V. I. Tkatch, S. N. Denisenko, and B. I. Selyakov, Acta Metall. Mater., 43, No. 6: 2485 (1995)."
+			},
+			{
+				"doi": "10.1134/S0031918X0811001X",
+				"or":  "A. B. Lysenko, G. V. Borisova, O. L. Kravets, and A. A. Lysenko, Phys. Met. Metallogr., 106, No. 5: 435 (2008).",
+				"tr":  "A. B. Lysenko, G. V. Borisova, O. L. Kravets, and A. A. Lysenko, Phys. Met. Metallogr., 106, No. 5: 435 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Б. Лысенко, О. Л. Кравец, А. А. Лысенко, Металлофиз. новейшие технол., 30, № 3: 415 (2008).",
+				"tr":  "A. B. Lysenko, O. L. Kravets, and A. A. Lysenko, Metallofiz. Noveishie Tekhnol., 30, No. 3: 415 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Б. Лысенко, О. Л. Кравец, Г. В. Борисова, Физика и техника высоких давлений, 17, № 3: 52 (2007).",
+				"tr":  "A. B. Lysenko, O. L. Kravets, and G. V. Borisova, Fizika i Tekhnika Vysokikh Davleniy, 17, No. 3: 52 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. C. Glade, The Cu47Ti34Zr11Ni8 Glass-Forming Alloy: Thermophysical Properties, Crystallization, and the Effect of Small Alloying Additions On the Thermal Stability (Thesis ... for the Degree of Doctor of Philosophy in Materials Science) (Pasadena, CA, U.S.A.: California Institute of Technology: 2001).",
+				"tr":  "S. C. Glade, The Cu47Ti34Zr11Ni8 Glass-Forming Alloy: Thermophysical Properties, Crystallization, and the Effect of Small Alloying Additions On the Thermal Stability (Thesis ... for the Degree of Doctor of Philosophy in Materials Science) (Pasadena, CA, U.S.A.: California Institute of Technology: 2001)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Б. Лысенко, Г. В. Борисова, О. Л. Кравец, Физика и техника высоких давлений, 14, № 1: 44 (2004).",
+				"tr":  "A. B. Lysenko, G. V. Borisova, and O. L. Kravets, Fizika i Tekhnika Vysokikh Davleniy, 14, No. 1: 44 (2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Баскаков, Б. В. Берг, О. К. Витт и др., Теплотехника (Москва: Энергоатомиздат: 1991).",
+				"tr":  "A. P. Baskakov, B. V. Berg, O. K. Vitt et al., Teplotekhnika (Heat Engineering) (Moscow: Energoatomizdat: 1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Лыков, Теория теплопроводности (Москва: Высшая школа: 1967).",
+				"tr":  "A. V. Lykov, Teoriya Teploprovodnosti (Theory of Thermal Conduction) (Moscow: Vysshaya Shkola: 1967) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Б. Лысенко, Вестник Днепропетровского университета. Физика. Радиоэлектроника, 19, № 2: 3 (2011).",
+				"tr":  "A. B. Lysenko, Vestnik Dnepropetrovskogo Universiteta. Fizika. Radioelektronika, 19, No. 2: 3 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Е. Овсиенко, Зарождение и рост кристаллов из расплава (Киев: Наукова думка: 1994).",
+				"tr":  "D. E. Ovsienko, Zarozhdenie i Rost Kristallov iz Rasplava (Nucleation and Growth of Crystals from the Melt) (Kiev: Naukova Dumka: 1994) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Скрипов, В. П. Коверда, Спонтанная кристаллизация переохлажденных жидкостей (Москва: Наука: 1984).",
+				"tr":  "V. P. Skripov and V. P. Koverda, Spontannaya Kristallizatsiya Pereokhlazhdyonnykh Zhidkostey (Spontaneous Crystallization of Supercooled Liquids) (Moscow: Nauka: 1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Чернов, Современная кристаллография. Т. 3. Процессы кристаллизации (Москва: Наука: 1980), с. 7.",
+				"tr":  "A. A. Chernov, Sovremennaya Kristallografiya. Vol. 3. Protsessy Kristallizatsii (Modern Crystallography. Vol. 3. Crystallization Processes) (Moscow: Nauka: 1980), p. 7 (in Russian)."
+			},
+			{
+				"doi": "10.1016/0022-3093(74)90065-9",
+				"or":  "J. C. A. Vreswijk, R. G. Gossink, and J. M. Stevels, J. Non-Cryst. Solids, No. 16: 15 (1974).",
+				"tr":  "J. C. A. Vreswijk, R. G. Gossink, and J. M. Stevels, J. Non-Cryst. Solids, No. 16: 15 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Фельц, Аморфные и стеклообразные неорганические твердые тела (Москва: Мир: 1986) (пер. с англ.).",
+				"tr":  "A. Feltz, Amorfnye i Stekloobraznye Neorganicheskie Tverdye Tela (Amorphous and Glassy Inorganic Solids) (Moscow: Mir: 1986) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Bossuyt, Microstructure and Crystallization Behavior in Bulk Glass Forming Alloys (Thesis ... for the Degree of Doctor of Philosophy in Applied Physics) (Pasadena, CA, U.S.A.: California Institute of Technology: 2001).",
+				"tr":  "S. Bossuyt, Microstructure and Crystallization Behaviour in Bulk Glass Forming Alloys (Thesis ... for the Degree of Doctor of Philosophy in Applied Physics) (Pasadena, CA, U.S.A.: California Institute of Technology: 2001)."
+			},
+			{
+				"doi": "10.1016/0001-6160(79)90076-2",
+				"or":  "C. V. Thompson and F. Spaepen, Acta Metall., 22, No. 12: 1855 (1979).",
+				"tr":  "C. V. Thompson and F. Spaepen, Acta Metall., 22, No. 12: 1855 (1979)."
+			},
+			{
+				"doi": "10.1016/j.msea.2006.11.123",
+				"or":  "K. Mondal and B. S. Murty, Mater. Sci. Eng. A, 454–455: 654 (2007).",
+				"tr":  "K. Mondal and B. S. Murty, Mater. Sci. Eng. A, 454–455: 654 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Самарский, Введение в численные методы (Москва: Наука: 1987).",
+				"tr":  "A. A. Samarskii, Vvedenie v Chislennye Metody (Introduction to Numerical Methods) (Moscow: Nauka: 1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. Л. Кравец, Особенности процессов теплопереноса и кристаллизации при закалке металлов из жидкого состояния (Дисс. ... канд. физ.-мат. наук) (Днепродзержинск: 2007).",
+				"tr":  "O. L. Kravets, Osobennosti Protsessov Teploperenosa i Kristallizatsii pri Zakalke iz Zhidkogo Sostoyaniya (Features of Heat Transfer Processes and Crystallization During Quenching from the Liquid State) (Thesis of Disser. ... for the Degree of Cand. Phys.-Math. Sci.) (Dneprodzerzhinsk: 2007) (in Russian)."
+			}
+		]
+	}
+}

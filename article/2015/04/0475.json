@@ -1,0 +1,37 @@
+{
+	"_id":    "MFiNT.37.0475",
+	"year":   2015,
+	"volume": 37,
+	"issue":  4,
+	"pages":  [475,486],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["27.01.2015"],
+	"PACS":   "05.70.Ce, 34.20.Cf, 61.46.Hk, 64.75.Jk, 66.30.Pa, 81.07.Bc, 82.60.Qr",
+	"title":  {
+		"ua": "Концепція розмірно-залежних енергій міжатомної взаємодії для твердих наноматеріалів: термодинамічний і дифузійний аспекти",
+		"en": "Concept of Size-Dependent Atomic Interaction Energies for Solid Nanomaterials: Thermodynamic and Diffusion Aspects",
+		"ru": "Концепция размерно-зависимых энергий межатомного взаимодействия для твёрдых наноматериалов: термодинамический и диффузионный аспекты"
+	},
+	"abstract": {
+		"ua": "Досліджено питання, пов’язані з енергією твердих наночастинок і нанорозмірних матеріялів, щодо їх стійкости та структури з акцентом на нанокристалічних металевих системах. У роботі пропонується новий підхід, який базується на атомній гіпотезі про розмірну залежність енергії міжатомової взаємодії найближчих атомів та узгоджені колективні дії атомів. Перевірку гіпотези було здійснено для тонких металевих плівок і наночастинок на основі експериментальних результатів, теоретичного наближення і молекулярно-статичного моделювання. Показано, що для наноматеріялів можна використовувати концепцію розмірної залежности енергії міжатомової взаємодії для опису термодинамічних і кінетичних властивостей.",
+		"en": "Energy-related problems of solid nanoparticles and nanoscale materials concerning their stability and structure are investigated with a specifically targeting on nanocrystalline metallic systems. The new concept based on the atomic hypothesis about the size dependence of nearest atom—atom interaction energy and co-ordinated actions of atoms is offered. The verification is done for metallic thin films and nanoparticles on the basis of experimental results, theoretical approach, and molecular static simulations. As shown, for nanomaterials, the concepts of size-dependent interatomic interaction energies can be used for description of thermodynamic and kinetic properties.",
+		"ru": "Исследованы вопросы, связанные с энергией твёрдых наночастиц и наноразмерных материалов, относительно их устойчивости и структуры с акцентом на нанокристаллических металлических системах. В работе предлагается новый подход, основанный на атомной гипотезе о размерной зависимости энергии межатомного взаимодействия ближайших атомов и согласованных коллективных действиях атомов. Гипотеза была проверена для тонких металлических плёнок и наночастиц на основе экспериментальных результатов, теоретического приближения и молекулярно-статического моделирования. Показано, что для наноматериалов можно использовать концепцию размерной зависимости энергии межатомного взаимодействия для описания термодинамических и кинетических свойств."
+	},
+	"keywords": {
+		"ua": "взаємодія атом-атом, розмірний ефект, термодинамічні властивості, дифузія в наноматеріалах, нанокристалічні структури",
+		"en": "atom—atom interaction, size effect, thermodynamic properties, diffusion in nanomaterials, nanocrystalline structures",
+		"ru": "взаимодействие атом–атом, размерный эффект, термодинамические свойства, диффузия в наноматериалах, нанокристаллические структуры"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. С. Ширинян", "en": "Aram S. Shirinyan", "ru": "А. С. Ширинян"},
+			"OID": [233]
+		}
+	],
+	"references": {
+		"count": 48,
+		"list":  []
+	}
+}

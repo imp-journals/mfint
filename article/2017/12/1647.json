@@ -1,0 +1,79 @@
+{
+	"_id":    "MFiNT.39.12.1647",
+	"year":   2017,
+	"volume": 39,
+	"issue":  12,
+	"pages":  [1647,1654],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["07.09.2017","24.11.2017"],
+	"PACS":   "62.20.Qp, 68.35.Gy, 68.55.J-, 68.55.Ln, 68.60.Bs, 81.15.Cd, 81.65.Lp",
+	"title":   {
+		"ua": "Матеріял для зміцнення вхідних крайок робочих лопаток парових турбін",
+		"en": "Material for Strengthening of Entrance Edges of Work Blades of Stream Turbines",
+		"ru": "Материал для упрочнения входных кромок рабочих лопаток паровых турбин"
+	},
+	"abstract": {
+		"ua": "Досліджено вплив матеріялу електроди на стан натопленого шару робочих лопаток парових турбін. Зміцнений шар формувався електроіскровим леґуванням стопом Т15К6 і крицею 15Х11МФШ. Досліджувалися мікроструктура, мікротвердість і товщина натопленого шару. Обґрунтовано переваги криці 15Х11МФШ для зміцнення вхідних крайок робочих лопаток парових турбін.",
+		"en": "The influence of electrode material on the state of build-up layer of steam turbine rotor blades is investigated. The strengthening layer is formed by means of the electrospark alloying with use of alloy Т15К6 and steel 15Х11МФШ. Microstructure, microhardness, and thickness of build-up layer are investigated. The advantages of steel 15Х11МФШ for the strengthening of leading edges of steam turbine rotor blades are substantiated.",
+		"ru": "Исследовано влияние материала электрода на состояние наплавленного слоя рабочих лопаток паровых турбин. Упрочнённый слой формировался электроискровым легированием сплавом Т15К6 и сталью 15X11МФШ. Исследовались микроструктура, микротвёрдость и толщина наплавленного слоя. Обоснованы преимущества стали 15X11МФШ для упрочнения входных кромок рабочих лопаток паровых турбин."
+	},
+	"keywords": {
+		"ua": "електроіскрове леґування, електрода, натоплений шар, мікроструктура, мікротвердість, зміцнення",
+		"en": "electrospark alloying, electrode, surfacing layers, microstructure, microhardness, strengthening",
+		"ru": "электроискровое легирование, электрод, наплавленный слой, микроструктура, микротвёрдость, упрочнение"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Д. Б. Глушкова", "en": "D. B. Glushkova", "ru": "Д. Б. Глушкова"},
+			"OID": [258]
+		},
+		{
+			"AID": {"ua": "О. Д. Грінченко", "en": "E. D. Grinchenko", "ru": "О. Д. Гринченко"},
+			"OID": [258]
+		},
+		{
+			"AID": {"ua": "Л. Л. Костіна", "en": "L. L. Kostina", "ru": "Л. Л. Костина"},
+			"OID": [258]
+		},
+		{
+			"AID": {"ua": "С. В. Демченко", "en": "S. V. Demchenko", "ru": "С. В. Демченко"},
+			"OID": [258]
+		},
+		{
+			"AID": {"ua": "Ю. В. Рижков", "en": "Yu. V. Ryzhkov", "ru": "Ю. В. Рыжков"},
+			"OID": [258]
+		}
+	],
+	"references": {
+		"count": 5,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Yu. I. Mulin and A. D. Verkhoturov, Elektroiskrovoe Legirovanie Rabochikh Poverkhnostey Instrumentov i Detaley Mashin Elektrodnymi Materialami, Poluchennymi iz Mineral’nogo Syr’ya [Electrospark Alloying of Tools Surfaces and Machine Components with Electrode Materials Obtained from Mineral Raw Materials] (Vladivostok: Dal’nauka: 1999) (in Russian).",
+				"tr":  "Yu. I. Mulin and A. D. Verkhoturov, Elektroiskrovoe Legirovanie Rabochikh Poverkhnostey Instrumentov i Detaley Mashin Elektrodnymi Materialami, Poluchennymi iz Mineral'nogo Syr'ya [Electrospark Alloying of Tools Surfaces and Machine Components with Electrode Materials Obtained from Mineral Raw Materials] (Vladivostok: Dal'nauka: 1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Sovremennye Metody Uprochneniya Poverkhnostey Detaley Mashin [Modern Methods of Hardening of Surfaces of Machine Parts] (Ed. K. W. Frolov) (Moscow: Institute Eng. Sci., Acad. Sci. USSR: 2009), Iss. 9.1: 205 (in Russian).",
+				"tr":  "Sovremennye Metody Uprochneniya Poverkhnostey Detaley Mashin [Modern Methods of Hardening of Surfaces of Machine Parts] (Ed. K. W. Frolov) (Moscow: Institute Eng. Sci., Acad. Sci. USSR: 2009), Iss. 9.1: 205 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "B. I. Kostetskiy, Trenie, Smazka i Iznos v Mashinakh [Friction, Lubrication and Wear in Machines] (Kiev: Tekhnika: 2000) (in Russian).",
+				"tr":  "B. I. Kostetskiy, Trenie, Smazka i Iznos v Mashinakh [Friction, Lubrication and Wear in Machines] (Kiev: Tekhnika: 2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Bolshakov, V. I. Kharchenko, and V. N. Zhuravel, Perspectivnye Zadachi Sovremennoy Nauki: Sb. Nauchnykh Tr. (Dnepropetrovsk: 2002), p. 109 (in Russian).",
+				"tr":  "V. I. Bolshakov, V. I. Kharchenko, and V. N. Zhuravel, Perspectivnye Zadachi Sovremennoy Nauki: Sb. Nauchnykh Tr. (Dnepropetrovsk: 2002), p. 109 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Bolshakov, V. M. Volchuk, and Yu. V. Dubrov, Visnyk NAN Ukrayiny, No. 8: 66 (2013) (in Ukrainian).",
+				"tr":  "V. I. Bolshakov, V. M. Volchuk, and Yu. V. Dubrov, Visnyk NAN Ukrayiny, No. 8: 66 (2013) (in Ukrainian)."
+			}
+		]
+	}
+}

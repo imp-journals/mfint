@@ -1,0 +1,96 @@
+{
+	"_id":    "MFiNT.38.06.0839",
+	"year":   2016,
+	"volume": 38,
+	"issue":  6,
+	"pages":  [839,851],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["17.02.2016","16.04.2016"],
+	"PACS":   "44.10.+i, 68.08.-p, 68.35.Np, 68.47.-b, 81.15.Gh, 81.16.Pr, 81.65.Mq",
+	"title":   {
+		"ua": "Вплив поверхневих оксидів на механізм зчеплення покриття при плазмовому напиленні",
+		"en": "Influence of Surface Oxides on the Mechanism of Adhesion of a Coating at Plasma Spraying",
+		"ru": "Влияние поверхностных оксидов на механизм сцепления покрытия при плазменном напылении"
+	},
+	"abstract": {
+		"ua": "Показано, що присутність оксидного шару на оброблюваній поверхні при нанесенні плазмових покриттів чинить значний вплив на контактну температуру та механізм зчеплення частинок покриття з поверхнею підложжя. Досліджено процес контактного нагріву шару поверхневих оксидів. Показано можливість зчеплення частинок покриття з шаром поверхневих оксидів при забезпеченні змочування за рахунок топлення оксидного шару. Визначено умови змочування контакту покриття при нестаціонарному теплообміні залежно від теплофізичних властивостей контактної пари та температур частинок покриття і підложжя. Виконано оцінку часу змочування для виміряної товщини оксидного шару залежно від температури частинок покриття.",
+		"en": "As shown, the presence of the oxide layer on the treated surface during application of plasma coatings has a significant influence on the contact temperature and the mechanism of adhesion of the coating particles with the substrate surface. The process of contact heating of the layer of surface oxides is investigated. The possibility of adhesion of the coating particles with the layer of surface oxides while ensuring wetting due to the melting of the oxide layer is shown. The conditions of wet contact of the coating particles at unsteady heat transfer are determined depending on thermophysical properties of contact pair and temperatures of coating particles and substrate. The time of wetting for the measured thickness of the oxide layer is estimated depending on the temperature of coating particles.",
+		"ru": "Показано, что присутствие оксидного слоя на обрабатываемой поверхности при нанесении плазменных покрытий оказывает значительное влияние на контактную температуру и механизм сцепления частиц покрытия с поверхностью подложки. Исследован процесс контактного нагрева слоя поверхностных оксидов. Показана возможность сцепления частиц покрытия со слоем поверхностных оксидов при обеспечении смачивания за счёт плавления оксидного слоя. Определены условия смачиваемого контакта покрытия при нестационарном теплообмене в зависимости от теплофизических свойств контактной пары и температур частиц покрытия и подложки. Выполнена оценка времени смачивания для измеренной толщины оксидного слоя в зависимости от температуры частиц покрытия."
+	},
+	"keywords": {
+		"ua": "міцність зчеплення, когезійна міцність, змочування, хемічна взаємодія, нестаціонарний теплообмін",
+		"en": "adhesion strength, cohesive strength, wetting, chemical interaction, unsteady heat transfer",
+		"ru": "прочность сцепления, когезионная прочность, смачивание, химическое взаимодействие, нестационарный теплообмен"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. В. Лоскутов", "en": "S. V. Loskutov", "ru": "С. В. Лоскутов"},
+			"OID": [220]
+		},
+		{
+			"AID": {"ua": "А. В. Єршов", "en": "A. V. Yershov", "ru": "А. В. Ершов"},
+			"OID": [220]
+		},
+		{
+			"AID": {"ua": "О. А. Зеленіна", "en": "E. A. Zeleninа", "ru": "Е. А. Зеленина"},
+			"OID": [220]
+		}
+	],
+	"references": {
+		"count": 10,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "В. В. Кудинов, В. М. Иванов, Нанесение плазмой тугоплавких покрытий (Москва: Машиностроение: 1981).",
+				"tr":  "V. V. Kudinov and V. M. Ivanov, Nanesenie Plazmoy Tugoplavkikh Pokrytiy (Moscow: Mashinostroenie: 1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Корж, В. Д. Кузнецов, Ю. С. Борисов, К. А. Ющенко, Нанесення покриття: навчальний посібник (Ред. К. А. Ющенко) (Київ: Арістей: 2005).",
+				"tr":  "V. M. Korzh, V. D. Kuznetsov, Yu. S. Borisov, and K. A. Yushchenko Nanesennya Pokryttya (Ed. K. A. Yushchenko) (Kyiv: Aristey: 2005) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Ф. Лисовский, Миграция расплавов металлов в спечённых композиционных телах (Киев: Наукова думка: 1984).",
+				"tr":  "A. F. Lisovskiy, Migratsiya Rasplavov Metallov v Spechennykh Kompozitsionnykh Telakh (Kiev: Naukova Dumka: 1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Ершов, О. Г. Быковский, А. Н. Лаптева, Физика и химия обработки материалов, № 1: 21 (2014).",
+				"tr":  "A. V. Ershov, O. G. Bykovskiy, and A. N. Lapteva, Fizika i Khimiya Obrabotki Materialov, No. 1: 21 (2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Пехович, В. М. Жидких, Расчёты теплового режима твёрдых тел (Ленинград: Энергия: 1976).",
+				"tr":  "A. I. Pekhovich and V. M. Zhidkikh, Raschety Teplovogo Rezhima Tverdykh Tel (Leningrad: Energiya: 1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Курдюмов, М. В. Пикунов, В. М. Чурсин, Литейное производство цветных и редких металлов (Москва: Металлургия: 1982).",
+				"tr":  "A. V. Kurdyumov, M. V. Pikunov, and V. M. Chursin, Liteynoe Proizvodstvo Tsvetnykh i Redkikh Metallov (Moscow: Metallurgiya: 1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Бабичев, Н. А. Бабушкина, А. М. Братковский и др., Физические величины: Справочник (Ред. И. С. Григорьев, Е. З. Мейлихов) (Москва: Энергоатомиздат: 1991).",
+				"tr":  "A. P. Babichev, N. A. Babushkina, A. M. Bratkovskiy et al., Fizicheskie Velichiny: Spravochnik (Eds. I. S. Grigor'ev and E. Z. Meylikhov) (Moscow: Energoatomizdat: 1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Чиркин, Теплофизические свойства материалов ядерной техники (Москва: Атомиздат: 1967).",
+				"tr":  "V. S. Chirkin, Teplofizicheskie Svoystva Materialov Yadernoy Tekhniki (Moscow: Atomizdat: 1967) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Зборщик, Теоретические основы металлургического производства (Донецк: ГВУЗ ДонНТУ: 2008).",
+				"tr":  "A. M. Zborshchik, Teoreticheskie Osnovy Metallurgicheskogo Proizvodstva (Donetsk: GVUZ DonNTU: 2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Ершов, Н. Н. Сытников, О. Г. Быковский, Вестник двигателестроения, № 3: 28 (2004).",
+				"tr":  "A. V. Ershov, N. N. Sytnikov, and O. G. Bykovskiy, Vestnik Dvigatelestroeniya, No. 3: 28 (2004) (in Russian)."
+			}
+		]
+	}
+}

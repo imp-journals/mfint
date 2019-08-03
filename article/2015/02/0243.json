@@ -1,0 +1,37 @@
+{
+	"_id":    "MFiNT.37.0243",
+	"year":   2015,
+	"volume": 37,
+	"issue":  2,
+	"pages":  [243,255],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["31.07.2014", "05.09.2014"],
+	"PACS":   "28.41.Qb, 61.66.Dk, 61.72.Mm, 66.30.J-, 68.43.Mn, 68.43.Nr, 88.30.rd",
+	"title":  {
+		"ua": "Особливості гідрування сплавів системи Ti—V",
+		"en": "Features of Hydrogenation of the Ti—V System Alloys",
+		"ru": "Особенности гидрирования сплавов системы Ti—V"
+	},
+	"abstract": {
+		"ua": "Визначено характер та кінетичні параметри процесів гідрування стопів системи Ti—V залежно від їх складу і вихідного стану. Вивчено ступінь гідрування за один цикл нагрівання—охолодження та можливість збільшення водневої місткости за рахунок циклування сорбція—десорбція. Також досліджено фазовий склад гідридів (Ti, V)Hx, одержаних за умов виконаних експериментів. Встановлено, що в інтервалі концентрацій ванадію 0,25—5% мас. є можливість одержання гідридів з підвищеною сорбційною місткістю (H/Me = 2,18).",
+		"en": "The character and kinetic parameters of hydrogenation process of Ti—V system alloys are determined depending on their composition and initial state. Degree of hydrogenation for one heating—cooling cycle and the possibility of hydrogen capacity increasing due to sorption—desorption cycling is studied. The phase composition of (Ti, V)Hx hydrides produced under performed experimental conditions is also investigated. In the concentration range of vanadium 0.25—5 wt.%, a possibility to produce hydrides with high sorption capacity (H/Me = 2.18) is shown.",
+		"ru": "Определён характер и кинетические параметры процессов гидрирования сплавов системы Ti—V в зависимости от их состава и исходного состояния. Изучены степень гидрирования за один цикл нагрев—охлаждение и возможность увеличения водородной ёмкости за счёт циклирования сорбция—десорбция. Также исследован фазовый состав гидридов (Ti,V)H$_x$, полученных в условиях выполненных экспериментов. Установлено, что в интервале концентраций ванадия 0,25—5% масс. существует возможность получения стойких гидридов с повышенной сорбционной ёмкостью (H/Me = 2,18)."
+	},
+	"keywords": {
+		"ua": "кінетичні параметри гідрування, гідрид, сорбція, десорбція, воднева ємність",
+		"en": "kinetic parameters of the hydrogenation, hydride, sorption, desorption, hydrogen capacity",
+		"ru": "кинетические параметры гидрирования, гидрид, сорбция, десорбция, водородная ёмкость"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Т. В. Прядко", "en": "T. V. Pryadko", "ru": "Т. В. Прядко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 18,
+		"list":  []
+	}
+}

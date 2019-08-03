@@ -1,0 +1,302 @@
+{
+	"_id":    "MFiNT.36.10.1399",
+	"year":   2014,
+	"volume": 36,
+	"issue":  10,
+	"pages":  [1399,1410],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["24.02.2014"],
+	"PACS":   "02.70.Ns, 61.72.Bb, 61.72.Mm, 61.72.sh, 61.72.Yx, 66.30.je, 82.60.Cx",
+	"title":   {
+		"ua": "Зерномежева дифузія атомів водню в $\\alpha$-залізі",
+		"en": "Grain-Boundary Diffusion of Hydrogen Atoms in the $\\alpha$-Iron",
+		"ru": "Зернограничная диффузия атомов водорода в $\\alpha$-железе"
+	},
+	"abstract": {
+		"ua": "За допомогою теоретичного моделювання було проаналізовано зерномежову дифузію атомів водню в $\\alpha$-залізі. Молекулярно-динамічне моделювання міґрації атомів водню в обраних межах зерен з різними кутами дезорієнтації, а також в об’ємі зерна, показало, що ентальпія активації міґрації атомів водню по межах зерен вища, ніж відповідне значення в об’ємі зерна. На підґрунті цих результатів зроблено висновок, що межі зерен у залізі є пастками для атомів водню і сповільнюють їх міґрацію. Зроблено припущення, що збільшення коефіцієнта зерномежової дифузії водню, яке спостерігалося в деяких експериментах, пов’язане з індукованим воднем міжкристалітним розтріскуванням.",
+		"en": "Grain boundary diffusion of hydrogen atoms in the $\\alpha$-iron is analysed based on the theoretical modelling. By means of molecular-dynamics simulation of hydrogen-atoms’ migration in selected special grain boundaries with different misorientation angles as well as in the bulk, it is demonstrated that the activation enthalpy of hydrogen migration in the grain boundary is higher than that in the bulk. Based on this result, a conclusion is made that grain boundaries in the iron are traps for hydrogen atoms and retard their migration. As supposed, an increase in the hydrogen grain-boundary diffusion, as observed in some experiments, is related to the hydrogen-caused intergranular cracking.",
+		"ru": "Посредством теоретического моделирования исследована зернограничная диффузия атомов водорода в $\\alpha$-железе. Молекулярно-динамическое моделирование миграции атомов водорода в выбранных границах зёрен с разными углами разориентировки, а так же в объёме зерна, показало, что энтальпия активации миграции атомов водорода по границам зёрен выше, чем соответствующее значение в объёме зерна. Основываясь на этих результатах, сделан вывод, что границы зёрен в железе являются ловушками для атомов водорода и замедляют их миграцию. Сделано предположение, что увеличение коэффициента зернограничной диффузии водорода, наблюдавшееся в некоторых экспериментах, связано с индуцированным водородом межкристаллитным растрескиванием."
+	},
+	"keywords": {
+		"ua": "$\\alpha$-залізо, дифузія водню в металах, спеціальні межі зерен, молекулярна динаміка",
+		"en": "$\\alpha$-iron, hydrogen-in-metal diffusion, special grain boundaries, molecular dynamics",
+		"ru": "$\\alpha$-железо, диффузия водорода в металле, специальные границы зёрен, молекулярная динамика"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. М. Теус", "en": "S. M. Teus", "ru": "С. М. Теус"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. Г. Гаврилюк", "en": "V. G. Gavriljuk", "ru": "В. Г. Гаврилюк"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 52,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "C. D. Beachem, Metall. Trans. A, 3: 437 (1972).",
+				"tr":  "C. D. Beachem, Metall. Trans. A, 3: 437 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "I. M. Bernstain and A. W. Thompson, Int. Met. Rev., 21: 269 (1979).",
+				"tr":  "I. M. Bernstain and A. W. Thompson, Int. Met. Rev., 21: 269 (1979)."
+			},
+			{
+				"doi": "10.1007/BF02654700",
+				"or":  "J. P. Hirth, Metall. Trans. A, 11: 861 (1980).",
+				"tr":  "J. P. Hirth, Metall. Trans. A, 11: 861 (1980)."
+			},
+			{
+				"doi": "10.1007/s11661-998-0253-4",
+				"or":  "D. Symons, Metall. Trans. A, 29: 1265 (1998).",
+				"tr":  "D. Symons, Metall. Trans. A, 29: 1265 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Vehoff, Hydrogen in Metals III (Ed. H. Wipf) (Berlin–Heidelberg: Springer: 1997).",
+				"tr":  "H. Vehoff, Hydrogen in Metals III (Ed. H. Wipf) (Berlin–Heidelberg: Springer: 1997)."
+			},
+			{
+				"doi": "10.1146/annurev.matsci.36.090804.094451",
+				"or":  "A. Pundt and R. Kirchheim, J. Mater. Res., 36: 555 (2006).",
+				"tr":  "A. Pundt and R. Kirchheim, J. Mater. Res., 36: 555 (2006)."
+			},
+			{
+				"doi": "10.1016/j.mser.2009.03.001",
+				"or":  "K. H. Lo, C. H. Shek, and J. K. L. Lai, Mater. Sci. and Eng. R, 65: 39 (2009).",
+				"tr":  "K. H. Lo, C. H. Shek, and J. K. L. Lai, Mater. Sci. and Eng. R, 65: 39 (2009)."
+			},
+			{
+				"doi": "10.1016/0001-6160(84)90021-X",
+				"or":  "H. Fukushima and H. K. Birnbaum, Acta Metal., 32: 851 (1984).",
+				"tr":  "H. Fukushima and H. K. Birnbaum, Acta Metal., 32: 851 (1984)."
+			},
+			{
+				"doi": "10.1016/j.jmps.2009.10.005",
+				"or":  "P. Novak, R. Yuan, B. P. Somerday, P. Sofronis, and R. O. Ritchie, J. Mech. Phys. Solids, 58: 206 (2010).",
+				"tr":  "P. Novak, R. Yuan, B. P. Somerday, P. Sofronis, and R. O. Ritchie, J. Mech. Phys. Solids, 58: 206 (2010)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.62.13938",
+				"or":  "L. Zhong, R. Wu, A. J. Freeman, and G. B. Olson, Phys. Rev. B, 62: 13938 (2000).",
+				"tr":  "L. Zhong, R. Wu, A. J. Freeman, and G. B. Olson, Phys. Rev. B, 62: 13938 (2000)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(02)00575-X",
+				"or":  "M. Wen, S. Fukuyama, and K. Yokogava, Acta Mater., 51: 1767 (2003).",
+				"tr":  "M. Wen, S. Fukuyama, and K. Yokogava, Acta Mater., 51: 1767 (2003)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.84.144121",
+				"or":  "Y. A. Du, L. Ismer, J. Rogal, T. Hickel, J. Neugebauer, and R. Drautz, Phys. Rev. B, 84: 144121 (2011).",
+				"tr":  "Y. A. Du, L. Ismer, J. Rogal, T. Hickel, J. Neugebauer, and R. Drautz, Phys. Rev. B, 84: 144121 (2011)."
+			},
+			{
+				"doi": "10.1016/0022-3115(73)90121-9",
+				"or":  "R. D. Calder, T. S. Elleman, and K. Verghese, J. of Nuclear Mater., 46: 46 (1973).",
+				"tr":  "R. D. Calder, T. S. Elleman, and K. Verghese, J. of Nuclear Mater., 46: 46 (1973)."
+			},
+			{
+				"doi": "10.1016/0036-9748(82)90273-3",
+				"or":  "T. Tsuru and R. M. Latanision, Scripta Metal., 16: 575 (1982).",
+				"tr":  "T. Tsuru and R. M. Latanision, Scripta Metal., 16: 575 (1982)."
+			},
+			{
+				"doi": "10.1016/0001-6160(87)90150-7",
+				"or":  "B. Ladna and H. K. Birnbaum, Acta Metall., 35: 2537 (1987).",
+				"tr":  "B. Ladna and H. K. Birnbaum, Acta Metall., 35: 2537 (1987)."
+			},
+			{
+				"doi": "10.1016/0001-6160(88)90109-5",
+				"or":  "A. Kimura and H. K. Birnbaum, Acta Metall., 36: 757 (1988).",
+				"tr":  "A. Kimura and H. K. Birnbaum, Acta Metall., 36: 757 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Brass, A. Chanfreau, and J. Chene, Hydrogen Effects on Material Behaviour (Eds. A. W. Thompson and N. R. Moody) (Warrendale, Pennsylvania: TMS Publ.: 1990), p. 19.",
+				"tr":  "A. M. Brass, A. Chanfreau, and J. Chene, Hydrogen Effects on Material Behaviour (Eds. A. W. Thompson and N. R. Moody) (Warrendale, Pennsylvania: TMS Publ.: 1990), p. 19."
+			},
+			{
+				"doi": "10.1007/BF02686408",
+				"or":  "N. R. Quick and H. H. Johnson, Metall. Trans. A, 10: 67 (1979).",
+				"tr":  "N. R. Quick and H. H. Johnson, Metall. Trans. A, 10: 67 (1979)."
+			},
+			{
+				"doi": "10.1098/rspa.1966.0046",
+				"or":  "W. Beck, J. Bockris, J. McBreen, and L. Nanis, Proc. R. Soc. A, 290: 220 (1966).",
+				"tr":  "W. Beck, J. Bockris, J. McBreen, and L. Nanis, Proc. R. Soc. A, 290: 220 (1966)."
+			},
+			{
+				"doi": "",
+				"or":  "W. M. Robertson, Z. Metallk., 69: 436 (1973).",
+				"tr":  "W. M. Robertson, Z. Metallk., 69: 436 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "V. M. Sidorenko and I. I. Sidorak, Physicochemical Mechanics of Materials, 9: 12 (1973).",
+				"tr":  "V. M. Sidorenko and I. I. Sidorak, Physicochemical Mechanics of Materials, 9: 12 (1973)."
+			},
+			{
+				"doi": "10.1238/Physica.Topical.094a00058",
+				"or":  "R. Kirchheim, Phys. Scr., Iss. T94: 58 (2001).",
+				"tr":  "R. Kirchheim, Phys. Scr., Iss. T94: 58 (2001)."
+			},
+			{
+				"doi": "10.1006/jcph.1995.1039",
+				"or":  "S. Plimpton, J. Comp. Phys., 117: 1 (1995).",
+				"tr":  "S. Plimpton, J. Comp. Phys., 117: 1 (1995)."
+			},
+			{
+				"doi": "10.1107/S0365110X66002615",
+				"or":  "S. Ranganathan, Acta Cryst., 21: 197 (1966).",
+				"tr":  "S. Ranganathan, Acta Cryst., 21: 197 (1966)."
+			},
+			{
+				"doi": "10.1002/pssb.2220540131",
+				"or":  "M. A. Fortes, phys. status solidi (b), 54: 311 (1972).",
+				"tr":  "M. A. Fortes, phys. status solidi (b), 54: 311 (1972)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.70.064102",
+				"or":  "D. E. Jiang and E. A. Carter, Phys. Rev. B, 70: 064102 (2004).",
+				"tr":  "D. E. Jiang and E. A. Carter, Phys. Rev. B, 70: 064102 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.26.2875",
+				"or":  "J. K. Norskov, Phys. Rev. B, 26: 2875 (1982).",
+				"tr":  "J. K. Norskov, Phys. Rev. B, 26: 2875 (1982)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.79.174101",
+				"or":  "A. Ramasubramaniam, M. Itakura, and E. Carter, Phys. Rev. B, 79: 174101 (2009).",
+				"tr":  "A. Ramasubramaniam, M. Itakura, and E. Carter, Phys. Rev. B, 79: 174101 (2009)."
+			},
+			{
+				"doi": "10.1080/14786430310001613264",
+				"or":  "M. I. Mendelev, S. Han, D. J. Srolovitz, G. J. Ackland, D. Y. Sun, and M. Asta, Philos. Mag., 83: 3977 (2003).",
+				"tr":  "M. I. Mendelev, S. Han, D. J. Srolovitz, G. J. Ackland, D. Y. Sun, and M. Asta, Philos. Mag., 83: 3977 (2003)."
+			},
+			{
+				"doi": "10.1088/0953-8984/16/27/003",
+				"or":  "G. J. Ackland, M. I. Mendelev, D. J. Srolovitz, S. Han, and A. V. Barashev, J. Phys. Condens. Matter, 16: S2629 (2004).",
+				"tr":  "G. J. Ackland, M. I. Mendelev, D. J. Srolovitz, S. Han, and A. V. Barashev, J. Phys. Condens. Matter, 16: S2629 (2004)."
+			},
+			{
+				"doi": "10.1080/01418618408244210",
+				"or":  "M. W. Finnis and J. E. Sinclair, Philos. Mag. A, 50: 45 (1984).",
+				"tr":  "M. W. Finnis and J. E. Sinclair, Philos. Mag. A, 50: 45 (1984)."
+			},
+			{
+				"doi": "10.1063/1.328693",
+				"or":  "M. Parrinello and A. Rahman, J. Appl. Phys., 52: 7182 (1981).",
+				"tr":  "M. Parrinello and A. Rahman, J. Appl. Phys., 52: 7182 (1981)."
+			},
+			{
+				"doi": "10.1080/00268978400101201",
+				"or":  "S. Nose, Mol. Phys., 52: 255 (1984).",
+				"tr":  "S. Nose, Mol. Phys., 52: 255 (1984)."
+			},
+			{
+				"doi": "10.1103/PhysRevA.31.1695",
+				"or":  "W. G. Hoover, Phys. Rev. A, 31: 1695 (1985).",
+				"tr":  "W. G. Hoover, Phys. Rev. A, 31: 1695 (1985)."
+			},
+			{
+				"doi": "10.1016/S0013-7944(00)00120-X",
+				"or":  "J. S. Wang, Eng. Fract. Mech., 68: 647 (2001).",
+				"tr":  "J. S. Wang, Eng. Fract. Mech., 68: 647 (2001)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(03)00355-4",
+				"or":  "T. Ohmisawa, S. Uchiyama, and N. Nagumo, J. Alloys Compd., 356–357: 290 (2003).",
+				"tr":  "T. Ohmisawa, S. Uchiyama, and N. Nagumo, J. Alloys Compd., 356–357: 290 (2003)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.83.094110",
+				"or":  "H. Kimizuka, H. Mori, and S. Ogata, Phys. Rev. B, 83: 094110 (2011).",
+				"tr":  "H. Kimizuka, H. Mori, and S. Ogata, Phys. Rev. B, 83: 094110 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "J. L. Dillard and S. Talbot-Besnard, L’hydrogene Dans les Metaux (Paris: Editions Science et Industrie: 1972), vol. 1.",
+				"tr":  "J. L. Dillard and S. Talbot-Besnard, L'hydrogene Dans les Metaux (Paris: Editions Science et Industrie: 1972), vol. 1."
+			},
+			{
+				"doi": "10.1016/0036-9748(82)90136-3",
+				"or":  "M. Nagano, Y. Hayashi, N. Ohtani, M. Isshiki, and K. Igaki, Scr. Metall., 16: 973 (1982).",
+				"tr":  "M. Nagano, Y. Hayashi, N. Ohtani, M. Isshiki, and K. Igaki, Scr. Metall., 16: 973 (1982)."
+			},
+			{
+				"doi": "10.2355/isijinternational.48.1582",
+				"or":  "Y. Shibuta, S. Takamoto, and T. Suzuki, ISIJ International, 48: 1582 (2008).",
+				"tr":  "Y. Shibuta, S. Takamoto, and T. Suzuki, ISIJ International, 48: 1582 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Jaatinen, C. V. Achim, K. R. Elder, and T. Ala-Nissila, Technische Mechanik, 30: 169 (2010).",
+				"tr":  "A. Jaatinen, C. V. Achim, K. R. Elder, and T. Ala-Nissila, Technische Mechanik, 30: 169 (2010)."
+			},
+			{
+				"doi": "10.1002/pssa.2210360218",
+				"or":  "J. F. Dufresne, A. Seeger, P. Groh, and P. Moser, phys. status solidi (a), 36: 579 (1976).",
+				"tr":  "J. F. Dufresne, A. Seeger, P. Groh, and P. Moser, phys. status solidi (a), 36: 579 (1976)."
+			},
+			{
+				"doi": "10.2320/matertrans1960.2.25",
+				"or":  "T. Suzuoka, Trans. Japan Inst. Metals, 2: 25 (1961).",
+				"tr":  "T. Suzuoka, Trans. Japan Inst. Metals, 2: 25 (1961)."
+			},
+			{
+				"doi": "10.1063/1.1699825",
+				"or":  "J. C. Fisher, J. Appl. Phys., 22: 74 (1951).",
+				"tr":  "J. C. Fisher, J. Appl. Phys., 22: 74 (1951)."
+			},
+			{
+				"doi": "10.1080/14786441208561131",
+				"or":  "R. T. P. Whipple, Philos. Mag., 45: 1225 (1954).",
+				"tr":  "R. T. P. Whipple, Philos. Mag., 45: 1225 (1954)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.82.224104",
+				"or":  "R. Nazarov, T. Hickel, and J. Neugebauer, Phys. Rev. B, 82: 224104 (2010).",
+				"tr":  "R. Nazarov, T. Hickel, and J. Neugebauer, Phys. Rev. B, 82: 224104 (2010)."
+			},
+			{
+				"doi": "10.1016/0956-7151(91)90332-U",
+				"or":  "J. Yao and J. R. Cahoon, Acta Metal Mater., 39: 111 (1991).",
+				"tr":  "J. Yao and J. R. Cahoon, Acta Metal Mater., 39: 111 (1991)."
+			},
+			{
+				"doi": "10.1016/0956-7151(91)90333-V",
+				"or":  "J. Yao and J. R. Cahoon, Acta Metal Mater., 39: 119 (1991).",
+				"tr":  "J. Yao and J. R. Cahoon, Acta Metal Mater., 39: 119 (1991)."
+			},
+			{
+				"doi": "10.1016/0956-7151(93)90152-I",
+				"or":  "A. A. Nazarov, A. E. Romanov, and R. Z. Valiev, Acta Metall. Mater., 41: 1033 (1993).",
+				"tr":  "A. A. Nazarov, A. E. Romanov, and R. Z. Valiev, Acta Metall. Mater., 41: 1033 (1993)."
+			},
+			{
+				"doi": "10.1016/1359-6454(95)00446-7",
+				"or":  "A. M. Brass and A. Chanfreau, Acta Mater., 44: 3823 (1996).",
+				"tr":  "A. M. Brass and A. Chanfreau, Acta Mater., 44: 3823 (1996)."
+			},
+			{
+				"doi": "10.1016/0921-5093(94)90975-X",
+				"or":  "H. K. Birnbaum and P. Sofronis, Mat. Sci. Eng. A, 176: 191 (1994).",
+				"tr":  "H. K. Birnbaum and P. Sofronis, Mat. Sci. Eng. A, 176: 191 (1994)."
+			},
+			{
+				"doi": "10.1063/1.3499610",
+				"or":  "V. G. Gavriljuk, B. D. Shanina, V. N. Shyvanyuk, and S. M. Teus, J. Appl. Phys., 108: 083723-1–9 (2010).",
+				"tr":  "V. G. Gavriljuk, B. D. Shanina, V. N. Shyvanyuk, and S. M. Teus, J. Appl. Phys., 108: 083723-1–9 (2010)."
+			}
+		]
+	}
+}

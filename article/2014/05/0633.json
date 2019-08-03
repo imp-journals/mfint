@@ -1,0 +1,154 @@
+{
+	"_id":    "MFiNT.36.05.0633",
+	"year":   2014,
+	"volume": 36,
+	"issue":  5,
+	"pages":  [633,647],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["19.12.2013", "27.03.2014"],
+	"PACS":   "34.20.Cf, 36.40.Qv, 61.46.-w, 62.25.Jk, 62.25.Mn, 63.22.Kn, 81.07.-b",
+	"title":   {
+		"ua": "Моделювання розриву атомних зв’язків у лінійному моноатомному вуглецевому ланцюжку в широкому інтервалі температур",
+		"en": "Simulation of Atomic-Bonds’ Break in Linear Monatomic Carbon Chain within the Wide Temperature Range",
+		"ru": "Моделирование разрыва атомных связей в линейной моноатомной углеродной цепочке в широком интервале температур"
+	},
+	"abstract": {
+		"ua": "За результатами молекулярно-динамічного моделювання розтягу лінійних вуглецевих ланцюжків (ЛВЛ) встановлено особливість руйнування цих об’єктів, яка полягає в необхідності реалізації корельованих флуктуацій зміщень критичної величини сусідніх атомів. Запропоновано статистичну модель руйнування ланцюжків, яка, на відміну від загальноприйнятих моделей, враховує цю особливість і уможливлює прогнозування температурної залежності міцності із заздалегідь заданою ймовірністю руйнування. Встановлено вид температурної залежності міцності ЛВЛ, особливість якого виявляється в наявності трьох характерних областей: лінійної в координатах «міцність—температура$^{1/2}$» і двох нелінійних (низькотемпературної та високотемпературної). У межах запропонованої моделі показано, що такі особливості впливу температури на міцність ЛВЛ обумовлені характером температурної залежності дисперсії атомних зміщень.",
+		"en": "Based on the results of molecular-dynamics simulation of tension of linear carbon atomic chains (CACs), the feature of failure of these objects, which consists in the necessity to realize correlated fluctuations of critical displacements of the neighbouring atoms, is established. A statistical criterion of fracture of the 1D chains is proposed, which, unlike conventional criteria, accounts for this feature. Presence of three different regions (in ‘strength— temperature$^{1/2}$’ coordinates), namely, linear and two non-linear (low- and high-temperature) ones, is established. As shown, such features of the temperature influence on CACs strength are caused by the behaviour of a temperature dependence of the atomic-displacements’ variance.",
+		"ru": "На основе результатов молекулярно-динамического моделирования растяжения линейных углеродных цепочек (ЛУЦ) установлена особенность разрушения этих объектов, которая заключается в необходимости реализации коррелированных флуктуаций смещений критической величины соседних атомов. Предложена статистическая модель разрушения цепочек, которая, в отличие от общепринятых моделей, учитывает эту особенность и позволяет прогнозировать температурную зависимость прочности с наперёд заданной вероятностью разрушения. Установлен вид температурной зависимости прочности ЛУЦ, особенность которого проявляется в наличии трёх характерных областей: линейной в координатах «прочность—температура$^{1/2}$» и двух нелинейных (низкотемпературной и высокотемпературной). Показано, что такие особенности влияния температуры на прочность ЛУЦ обусловлены характером температурной зависимости дисперсии атомных смещений."
+	},
+	"keywords": {
+		"ua": "вуглецеві моноатомні ланцюжки, нанокластери, гранична міцність, МД-моделювання",
+		"en": "monatomic carbon chains, nanoclusters, ultimate strength, MD-simulation",
+		"ru": "углеродные моноатомные цепочки, нанокластеры, предельная прочность, МД-моделирование"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. О. Котречко", "en": "S. O. Kotrechko", "ru": "С. А. Котречко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Т. І. Мазилова", "en": "T. I. Mazilova", "ru": "Т. И. Мазилова"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "І. М. Михайлівський", "en": "I. M. Mikhailovskij", "ru": "И. М. Михайловский"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "Г. П. Зіміна", "en": "G. P. Zimina", "ru": "Г. П. Зимина"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Є. В. Саданов", "en": "E. V. Sadanov", "ru": "Е. В. Саданов"},
+			"OID": [3]
+		}
+	],
+	"references": {
+		"count": 20,
+		"list":  [
+			{
+				"doi": "10.1016/S0370-1573(01)00059-X",
+				"or":  "M. Bianchetti, P. F. Bounsante, F. Ginnelli, H. E.Roman, R. A. Broglia, and F. Alasia, Phys. Rep., 357: 459 (2002).",
+				"tr":  "M. Bianchetti, P. F. Bounsante, F. Ginnelli, H. E.Roman, R. A. Broglia, and F. Alasia, Phys. Rep., 357: 459 (2002)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.65.153401",
+				"or":  "F. J. Riberto, D. J. Roundy, and M. L. Cohen, Phys. Rev. B, 65: 153401 (2002).",
+				"tr":  "F. J. Riberto, D. J. Roundy, and M. L. Cohen, Phys. Rev. B, 65: 153401 (2002)."
+			},
+			{
+				"doi": "10.1021/nl034166k",
+				"or":  "N. D. Lang and P. Avouris, Nano Lett., 3: 737 (2003).",
+				"tr":  "N. D. Lang and P. Avouris, Nano Lett., 3: 737 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Artyukhov and M. Liu, arXiv:1302.7250v2 [cond-mat.mtrl-sci], June 1, 2013.",
+				"tr":  "V. I. Artyukhov and M. Liu, arXiv:1302.7250v2 [cond-mat.mtrl-sci], June 1, 2013."
+			},
+			{
+				"doi": "10.1103/PhysRevB.76.165423",
+				"or":  "Y. Wang, X.-J. Ning, Z.-Z. Lin, P. Li, and J. Zhuang, Phys. Rev. B, 76: 165423 (2007).",
+				"tr":  "Y. Wang, X.-J. Ning, Z.-Z. Lin, P. Li, and J. Zhuang, Phys. Rev. B, 76: 165423 (2007)."
+			},
+			{
+				"doi": "10.1016/0036-9748(80)90392-0",
+				"or":  "K. Nishioka, S. Nakamura, T. Shimamoto, and H. Fujiwara, Scr. Metallurgica, 14: 497 (1980).",
+				"tr":  "K. Nishioka, S. Nakamura, T. Shimamoto, and H. Fujiwara, Scr. Metallurgica, 14: 497 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Л. Гиляров, А. Б. Пахомов, Физика твёрдого тела, 23, № 6: 1569 (1981).",
+				"tr":  "V. L. Gilyarov and A. B. Pahomov, Fizika Tverdogo Tela, 23, No. 6: 1569 (1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Л. Гиляров, Физика твёрдого тела, 25, № 3: 944 (1983).",
+				"tr":  "V. L. Gilyarov, Fizika Tverdogo Tela, 25, No. 3: 944 (1983) (in Russian)."
+			},
+			{
+				"doi": "10.1126/science.1157996",
+				"or":  "Ch. Lee, X. Wei, J. W. Kysar, and J. Hone, Science, 321: 385 (2008).",
+				"tr":  "Ch. Lee, X. Wei, J. W. Kysar, and J. Hone, Science, 321: 385 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.87.045410",
+				"or":  "I. M. Mikhailovskij, E. V. Sadanov, S. Kotrechko, V. Ksenofontov, and T. I. Mazilova, Phys. Rev. B, 87: 045410 (2013).",
+				"tr":  "I. M. Mikhailovskij, E. V. Sadanov, S. Kotrechko, V. Ksenofontov, and T. I. Mazilova, Phys. Rev. B, 87: 045410 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Kotrechko, I. Mikhailovskij, T. Mazilova, and O. Ovsjannikov, Key Engineering Materials, 592–593: 301 (2014).",
+				"tr":  "S. Kotrechko, I. Mikhailovskij, T. Mazilova, and O. Ovsjannikov, Key Engineering Materials, 592–593: 301 (2014)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.87.266101",
+				"or":  "S. Bahn and K. W. Jacobsen, Phys. Rev. Lett., 87: 266101 (2001).",
+				"tr":  "S. Bahn and K. W. Jacobsen, Phys. Rev. Lett., 87: 266101 (2001)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.84.035429",
+				"or":  "E. V. Sadanov, T. I. Mazilova, I. M. Mikhailovskij, V. A. Ksenofontov, and A. A. Mazilov, Phys. Rev. B, 84: 035429 (2011).",
+				"tr":  "E. V. Sadanov, T. I. Mazilova, I. M. Mikhailovskij, V. A. Ksenofontov, and A. A. Mazilov, Phys. Rev. B, 84: 035429 (2011)."
+			},
+			{
+				"doi": "10.1115/1.4003866",
+				"or":  "T. Ragab and C. Basaran, J. Electronic Packaging, 133: 020903 (2011).",
+				"tr":  "T. Ragab and C. Basaran, J. Electronic Packaging, 133: 020903 (2011)."
+			},
+			{
+				"doi": "10.1088/0953-8984/14/4/312",
+				"or":  "D. W. Brenner, O. A. Shenderova, J. A. Harrison, S. J. Stuart, B. Ni, and S. B. Sinnott, J. Phys.: Condens. Matter, 14: 783 (2002).",
+				"tr":  "D. W. Brenner, O. A. Shenderova, J. A. Harrison, S. J. Stuart, B. Ni, and S. B. Sinnott, J. Phys.: Condens. Matter, 14: 783 (2002)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.65.235430",
+				"or":  "T. Belytschko, S. P. Xiao, G. C. Schatz, and R. S. Ruoff, Phys. Rev. B, 65: 235430 (2002).",
+				"tr":  "T. Belytschko, S. P. Xiao, G. C. Schatz, and R. S. Ruoff, Phys. Rev. B, 65: 235430 (2002)."
+			},
+			{
+				"doi": "10.1142/S0219581X10006636",
+				"or":  "T. I. Mazilova, S. Kotrechko, E. V. Sadanov, V. A. Ksenofontov, and I. M. Mikhailovskij, Int. J. Nanoscience, 9, No. 3: 151 (2010).",
+				"tr":  "T. I. Mazilova, S. Kotrechko, E. V. Sadanov, V. A. Ksenofontov, and I. M. Mikhailovskij, Int. J. Nanoscience, 9, No. 3: 151 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Штиллер, Уравнение Аррениуса и неравновесная кинетика (Москва: Мир: 2000).",
+				"tr":  "W. Stiller, Uravnenie Arreniusa i Neravnovesnaya Kinetika (Arrhenius Equation and Non-Equilibrium Kinetics) (Moscow: Mir: 2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Лейбфрид, Микроскопическая теория механических и тепловых свойств кристаллов (Москва: ГИФМЛ: 1963).",
+				"tr":  "G. Leibfried, Microscopicheskaya Teoriya Mekhanicheskikh i Teplovykh Svoystv Kristallov (Microscopic Theory of the Mechanical and Thermal Properties of Crystals) (Moscow: GIFML: 1963) (in Russian)."
+			},
+			{
+				"doi": "10.1590/S0103-97332006000400022",
+				"or":  "C. G. Rodrigues, J. N. Teixeira Rabelo, and V. I. Zubov, Brazilian Journal of Physics, 36, No. 2B: 592 (2006).",
+				"tr":  "C. G. Rodrigues, J. N. Teixeira Rabelo, and V. I. Zubov, Brazilian Journal of Physics, 36, No. 2B: 592 (2006)."
+			}
+		]
+	}
+}

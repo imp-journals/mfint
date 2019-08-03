@@ -1,0 +1,196 @@
+{
+	"_id":    "MFiNT.38.08.1103",
+	"year":   2016,
+	"volume": 38,
+	"issue":  8,
+	"pages":  [1103,1116],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["08.07.2016"],
+	"PACS":   "61.72.Ff, 64.60.ah, 68.37.Lp, 68.43.Mn, 68.47.De, 68.55.A-, 68.55.J-, 81.15.Cd",
+	"title":   {
+		"ua": "Ефект зниження порогу перколяції у надтонких плівках срібла при квазирівноважній конденсації та дії плазми на ростову поверхню",
+		"en": "Effect of Decrease in a Threshold of Percolation in Ultrathin Films of Silver at Quasi-Equilibrium Condensation and Action of Plasma on a Growth Surface",
+		"ru": "Эффект снижения порога перколяции в сверхтонких плёнках серебра при квазиравновесной конденсации и воздействии плазмы на ростовую поверхность"
+	},
+	"abstract": {
+		"ua": "Вивчено закономірності структуроутворення надтонких плівок срібла на відколах KCl, а також на відколах KCl, покритих шаром полімеру PC403 або ma-N405. Виявлено ефект, еквівалентний зниженню порогу перколяції. Він є наслідком використання методики осадження, при якій на поверхню підложжя безпосередньо діє низькотемпературна плазма та пари конденсуються за умов, близьких до термодинамічної рівноваги. На основі досліджень за допомогою просвітлювальної електронної мікроскопії й електронної дифракції встановлено, що зародження плівки срібла відбувається у вигляді формування надтонкого аморфного шару, а при подальшому нарощуванні плівки стається поступовий перехід у полікристалічний стан або зародження та ріст незв’язаних один з одним об’ємних кристалів.",
+		"en": "Regularities of structure formation of ultrathin silver films are studied for several types of substrates such as KCl cleaved facets and KCl cleaved facets covered with polymer layer of PC403 or ma-N405. An effect equivalent to percolation threshold decrease is observed. It is a consequence of using the deposition technique, at which low-temperature plasma acts directly onto growth surface and vapours are condensed under conditions close to thermodynamical equilibrium. Based on transmission electron microscopy and electron diffraction studies, it is found that origination of film occurs through formation of ultrathin amorphous layer followed by gradual transition of it to polycrystalline state or to initiation and growth unconnected bulk crystals during subsequent deposition.",
+		"ru": "Изучены закономерности структурообразования сверхтонких плёнок серебра на сколах KCl, а также сколах KCl, покрытых полимером PC403 или ma-N405. Обнаружен эффект, эквивалентный снижению порога перколяции. Он является следствием использования методики осаждения, при которой на поверхность подложки непосредственно воздействует низкотемпературная плазма и пары конденсируются в условиях, близких к термодинамическому равновесию. На основании изучения конденсатов в ПЭМ и при помощи дифракции электронов установлено, что зарождение плёнки происходит в виде сверхтонкого сплошного аморфного слоя, а по мере дальнейшего наращивания конденсата наблюдается постепенный переход в кристаллическое состояние или зарождение и рост несвязанных друг с другом объёмных кристаллов."
+	},
+	"keywords": {
+		"ua": "плівка срібла, перколяція, нуклеація, аморфна фаза, магнетронне розпорошення, плазма",
+		"en": "silver films, percolation, nucleation, amorphous phase, magnetron sputtering, plasma",
+		"ru": "плёнки серебра, перколяция, нуклеация, аморфная фаза, магнетронное распыление, плазма"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. О. Космінська", "en": "Yu. O. Kosminska", "ru": "Ю. А. Косминская"},
+			"OID": [208]
+		},
+		{
+			"AID": {"ua": "В. І. Перекрестов", "en": "V. I. Perekrestov", "ru": "В. И. Перекрестов"},
+			"OID": [208]
+		},
+		{
+			"AID": {"ua": "І. В. Загайко", "en": "I. V. Zagaiko", "ru": "И. В. Загайко."},
+			"OID": [208]
+		}
+	],
+	"references": {
+		"count": 30,
+		"list":  [
+			{
+				"doi": "10.1117/12.929685",
+				"or":  "J. van Deelen, A. Illiberi, A. Hovestad, I. Barbu, and L. Klerk, Proc. of SPIE, 8470: 84700P (2012).",
+				"tr":  "J. van Deelen, A. Illiberi, A. Hovestad, I. Barbu, and L. Klerk, Proc. of SPIE, 8470: 84700P (2012)."
+			},
+			{
+				"doi": "10.1016/j.nanoen.2012.08.004",
+				"or":  "N. Ahmad, J. Stokes, N. A. Fox, M. Teng, and M. J. Cryan, Nano Energy, 1, No. 1: 777 (2012).",
+				"tr":  "N. Ahmad, J. Stokes, N. A. Fox, M. Teng, and M. J. Cryan, Nano Energy, 1, No. 1: 777 (2012)."
+			},
+			{
+				"doi": "10.1364/AOP.1.000484",
+				"or":  "P. Berini, Adv. Optics and Photonics, 1, No. 3: 484 (2009).",
+				"tr":  "P. Berini, Adv. Optics and Photonics, 1, No. 3: 484 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Volmer and A. Weber, Z. Physik. Chem., 119: 277 (1926).",
+				"tr":  "M. Volmer and A. Weber, Z. Physik. Chem., 119: 277 (1926)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.44.13163",
+				"or":  "X. Yu, P. M. Duxbury, G. Jeffers, and M. A. Dubson, Phys. Rev. B, 44, No. 23: 13163(R) (1991).",
+				"tr":  "X. Yu, P. M. Duxbury, G. Jeffers, and M. A. Dubson, Phys. Rev. B, 44, No. 23: 13163(R) (1991)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.78.165418",
+				"or":  "G. B. Smith, A. I. Maaroof, and M. B. Cortie, Phys. Rev. B, 78, No. 16: 165418 (2008).",
+				"tr":  "G. B. Smith, A. I. Maaroof, and M. B. Cortie, Phys. Rev. B, 78, No. 16: 165418 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Перекрестов, С. Н. Кравченко, А. В. Павлов, Физ. мет. металловед., 88, № 5: 72 (1999).",
+				"tr":  "V. I. Perekrestov, S. N. Kravchenko, and A. V. Pavlov, Phys. Met. Metallogr., 88, No. 5: 482 (1999)."
+			},
+			{
+				"doi": "10.1007/s10934-013-9674-6",
+				"or":  "Yu. O. Kosminska, A. S. Kornyushchenko, and A. A. Mokrenko, J. Porous Mat., 20, No. 4: 967 (2013).",
+				"tr":  "Yu. O. Kosminska, A. S. Kornyushchenko, and A. A. Mokrenko, J. Porous Mat., 20, No. 4: 967 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. К. Венер, Дж. С. Андерсон, Технология тонких плёнок: Справочник (Ред. Л. Майссел, Р. Гленг) (Москва: Советское радио: 1977), т. 1, c. 353.",
+				"tr":  "G. K. Vener, J. S. Anderson, Tekhnologiya Tonkikh Plenok: Spravochnik [The Technology of Thin Films: Handbook] (Eds. L. Mayssel and R. Gleng) (Moscow: Sovetskoe Radio: 1977), vol. 1, p. 353 (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. С. Данилин, Применение низкотемпературной плазмы для нанесения тонких плёнок (Москва: Энергоатомиздат: 1989).",
+				"tr":  "B. S. Danilin, Primenenie Nizkotemperaturnoy Plazmy dlya Naneseniya Tonkikh Plenok [Low-Temperature Plasma Application for Deposition of Thin Films] (Moscow: Energoatomizdat: 1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Мокренко, Ю. А. Косминская, В. И. Перекрестов, Журнал нано- та електронної фізики, 2, № 3: 40 (2010).",
+				"tr":  "A. A. Mokrenko, Yu. O. Kosminska, and V. I. Perekrestov, Journal of Nano- and Electronic Physics, 2, No. 3: 40 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Чернов, Современная кристаллография (Ред. Б. К. Вайнштейн, А. А. Чернов, Л. А. Шувалов) (Москва: Наука: 1980), т. 3, с. 7.",
+				"tr":  "A. A. Chernov, Sovremennaya Kristallografiya [Modern Crystallography] (Eds. B. K. Vaynshteyn, A. A. Chernov, and L. A. Shuvalov) (Moscow: Nauka: 1980), vol. 3, p. 7 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Гленг, Технология тонких плёнок: Справочник (Ред. Л. Майссел, Р. Гленг) (Москва: Советское радио: 1977), т. 1, c. 9.",
+				"tr":  "R. Gleng, Tekhnologiya Tonkikh Plenok: Spravochnik [The Technology of Thin Films: Handbook] (Eds. L. Mayssel and R. Gleng) (Moscow: Sovetskoe Radio: 1977), vol. 1, p. 9 (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "K. S. Sree Harsha, Principles of Physical Vapor Deposition of Thin Films (Oxford: Elsevier: 2006).",
+				"tr":  "K. S. Sree Harsha, Principles of Physical Vapor Deposition of Thin Films (Oxford: Elsevier: 2006)."
+			},
+			{
+				"doi": "10.1016/j.vacuum.2011.05.003",
+				"or":  "V. I. Perekrestov, Yu. O. Kosminska, A. A. Mokrenko, I. N. Kononenko, and A. S. Kornyushchenko, Vacuum, 86, No. 1: 111 (2011).",
+				"tr":  "V. I. Perekrestov, Yu. O. Kosminska, A. A. Mokrenko, I. N. Kononenko, and A. S. Kornyushchenko, Vacuum, 86, No. 1: 111 (2011)."
+			},
+			{
+				"doi": "10.1016/j.physleta.2009.07.032",
+				"or":  "V. I. Perekrestov, A. I. Olemskoi, Yu. O. Kosminska, and A. A. Mokrenko, Phys. Lett. A, 373, No. 37: 3386 (2009).",
+				"tr":  "V. I. Perekrestov, A. I. Olemskoi, Yu. O. Kosminska, and A. A. Mokrenko, Phys. Lett. A, 373, No. 37: 3386 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Перекрестов, А. С. Корнющенко, Ю. А. Косминская, В. Б. Дешин, Металлофиз. новейшие технол., 34, № 2: 239 (2012).",
+				"tr":  "V. I. Perekrestov, A. S. Kornyushchenko, Yu. O. Kosminska, and V. B. Deshin, Metallofiz. Noveishie Tekhnol., 34, No. 2: 239 (2012) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.physb.2012.11.036",
+				"or":  "V. I. Perekrestov, Yu. O. Kosminska, A. S. Kornyushchenko, and V. M. Latyshev, Physica B, 411: 140 (2013).",
+				"tr":  "V. I. Perekrestov, Yu. O. Kosminska, A. S. Kornyushchenko, and V. M. Latyshev, Physica B, 411: 140 (2013)."
+			},
+			{
+				"doi": "10.1016/j.jcrysgro.2016.02.033",
+				"or":  "A. S. Kornyushchenko, V. V. Natalich, and V. I. Perekrestov, J. Cryst. Growth, 442: 68 (2016).",
+				"tr":  "A. S. Kornyushchenko, V. V. Natalich, and V. I. Perekrestov, J. Cryst. Growth, 442: 68 (2016)."
+			},
+			{
+				"doi": "10.1002/pssb.201451266",
+				"or":  "V. Perekrestov, A. Kornyushchenko, V. Latyshev, St. Ostendorp, and G. Wilde, phys. status solidi (b), 252: 397 (2015).",
+				"tr":  "V. Perekrestov, A. Kornyushchenko, V. Latyshev, St. Ostendorp, and G. Wilde, phys. status solidi (b), 252: 397 (2015)."
+			},
+			{
+				"doi": "10.1007/s10934-014-9868-6",
+				"or":  "V. I. Perekrestov, Yu. O. Kosminska, A. S. Kornyushchenko, and V. M. Latyshev, J. Porous Mat., 21, No. 6: 1159 (2014).",
+				"tr":  "V. I. Perekrestov, Yu. O. Kosminska, A. S. Kornyushchenko, and V. M. Latyshev, J. Porous Mat., 21, No. 6: 1159 (2014)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2014.01.153",
+				"or":  "V. Perekrestov, Yu. Kosminska, A. Mokrenko, and T. Davydenko, Appl. Surf. Sci., 298: 171 (2014).",
+				"tr":  "V. Perekrestov, Yu. Kosminska, A. Mokrenko, and T. Davydenko, Appl. Surf. Sci., 298: 171 (2014)."
+			},
+			{
+				"doi": "10.1016/j.solidstatesciences.2014.04.001",
+				"or":  "V. I. Perekrestov, A. S. Kornyushchenko, and V. V. Natalich, Solid State Sci., 33: 12 (2014).",
+				"tr":  "V. I. Perekrestov, A. S. Kornyushchenko, and V. V. Natalich, Solid State Sci., 33: 12 (2014)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2014.07.187",
+				"or":  "V. Perekrestov, A. Kornyushchenko, Yu. Kosminska, G. Wilde, S. Ostendorp, and N. Winkler, Appl. Surf. Sci., 316: 155 (2014).",
+				"tr":  "V. Perekrestov, A. Kornyushchenko, Yu. Kosminska, G. Wilde, S. Ostendorp, and N. Winkler, Appl. Surf. Sci., 316: 155 (2014)."
+			},
+			{
+				"doi": "10.1134/S1027451011070184",
+				"or":  "V. I. Perekrestov, A. A. Mokrenko, Yu. A. Kosminskaya, and D. I. Rubets, J. Surf. Invest. X-Ray, Synchrotron and Neutron Techn., 5, No. 4: 667 (2011).",
+				"tr":  "V. I. Perekrestov, A. A. Mokrenko, Yu. A. Kosminskaya, and D. I. Rubets, J. Surf. Invest. X-Ray, Synchrotron and Neutron Techn., 5, No. 4: 667 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Мокренко, Ю. А. Косминская, В. И. Перекрестов, Журнал нано- та електронної фізики, 3, № 2: 105 (2011).",
+				"tr":  "A. A. Mokrenko, Yu. O. Kosminska, and V. I. Perekrestov, Journal of Nano- and Electronic Physics, 3, No. 2: 105 (2011) (in Russian)."
+			},
+			{
+				"doi": "10.1134/S1063783408070275",
+				"or":  "V. I. Perekrestov, A. S. Kornyushchenko, and Yu. A. Kosminskaya, Phys. Solid State, 50, No. 7: 1357 (2008).",
+				"tr":  "V. I. Perekrestov, A. S. Kornyushchenko, and Yu. A. Kosminskaya, Phys. Solid State, 50, No. 7: 1357 (2008)."
+			},
+			{
+				"doi": "10.1134/S1063784208100174",
+				"or":  "V. I. Perekrestov, A. S. Kornyushchenko, and Yu. A. Kosminskaya, Tech. Phys., 53, No. 10: 1364 (2008).",
+				"tr":  "V. I. Perekrestov, A. S. Kornyushchenko, and Yu. A. Kosminskaya, Tech. Phys., 53, No. 10: 1364 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Перекрестов, А. С. Корнющенко, Ю. А. Косминская, Б. В. Дешин, Вісник СумДУ. Сер. Фізика, математика, механіка, № 1: 43 (2008).",
+				"tr":  "V. I. Perekrestov, A. S. Kornyushchenko, Yu. O. Kosminska, and B. V. Deshin, Visnyk SumDU. Ser. Fizyka, Matematyka, Mekhanika, No. 1: 43 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Перекрестов, С. Н. Кравченко, Приборы и техника эксперимента, 45, № 3: 123 (2002).",
+				"tr":  "V. I. Perekrestov and S. N. Kravchenko, Pribory i Tekhika Eksperimenta, 45, No. 3: 123 (2002) (in Russian)."
+			}
+		]
+	}
+}

@@ -1,0 +1,131 @@
+{
+	"_id":    "MFiNT.38.06.0795",
+	"year":   2016,
+	"volume": 38,
+	"issue":  6,
+	"pages":  [795,813],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["18.05.2016"],
+	"PACS":   "06.60.Mr, 28.41.Qb, 43.58.+z, 62.20.D-, 81.40.Ef, 81.40.Jj, 81.70.Cv",
+	"title":   {
+		"ua": "Акустичні та пружні властивості складових стінки корпусу реактора ВВЕР-440",
+		"en": "Acoustic and Elastic Properties of Components of a Wall of the VVER-440 Vessel",
+		"ru": "Акустические и упругие свойства составляющих стенки корпуса реактора ВВЭР-440"
+	},
+	"abstract": {
+		"ua": "За допомогою автоматизованого імпульсного пристрою власної розробки на частотах 10—30 МГц виміряно об’ємні швидкості ($v_{ij}$) ультразвуку (УЗ) в різних геометричних напрямках і на різних ділянках зразків зі складових архівного фраґменту стінки корпусу реактора ВВЕР-440 (сталі 15Х2МФА і 08Х18Н10Т) та корпусної сталі 15Х2НМФА реактора ВВЕР-1000, а також густину зразків ($\\rho$). За значеннями $v_{ij}$ та $\\rho$ вивчено акустичну та пружню анізотропію стопів, їхню однорідність, а також здійснено текстурну УЗ-аналізу двох шарів натопленого покриття стінки корпусу реактора ВВЕР-440. На відміну від зразків з корпусних сталей обох реакторів, у натопі зі сталі 08Х18Н10Т зафіксовано акустичну та пружню неоднорідності, анізотропію швидкостей УЗ (до 26%) та відповідних пружніх модулів (до 52%), що зумовлено наявністю в матеріялі чітко вираженої неоднорідної текстури, близької до аксіяльної. За температурними залежностями поздовжньої швидкости УЗ $v_{l}(T)$ в зразках зі складових стінки корпусу реактора ВВЕР-440 побудовано залежності від $T$ пружніх модулів $E$, $G$ і $B$ в загальному температурному інтервалі 0—300°C для напрямку, нормального до поверхні стінки. Залежності $v_{l}(T)$ і $E(T)$ було використано в попередніх роботах авторів в якості калібрувальних. Відзначається, що основна частина результатів публікується вперше і їх необхідно враховувати при аналізі механічних властивостей корпусів реакторів ВВЕР та при використанні методів їх неруйнівного УЗ-контролю.",
+		"en": "Using own-design automated pulse equipment at frequencies of 10—30 MHz, the bulk-wave velocities of ultrasonic (US) in the different geometric directions and on various sections of specimens made of archival fragment of the VVER-440 vessel wall (15CrMFA and 08Cr18N10T steels) and 15Cr2NMFA RPV (Reactor Power Vessel) steel of the VVER-1000 vessel as well as density ($\\rho$) of the specimens are measured. Using the values of $v_{ij}$ and $\\rho$, the acoustic and elastic anisotropy of the alloys and their homogeneity are studied, and the texture US analysis of the two layers of the wall cladding of the VVER-440 vessel is executed. In contrast to the specimens of RPV steels of both reactors, in the cladding of 08Cr18N10T steel, the acoustic and elastic inhomogeneity, anisotropy of US velocities (up to 26%), and corresponding elastic moduli (up to 52%) caused by the presence of clearly determined inhomogeneous texture close to axial one are ascertained. By the temperature dependence of US longitudinal velocity $v_{l}(T)$ in the specimens of the wall components of the VVER-440 vessel, dependences of elastic modules $E$, $G$ and $B$ on $T$ are determined in overall temperature range of 0—300°C for a direction normal to the wall surface. The $v_{l}(T)$ and $E(T)$ dependences were used in previous studies as calibration data. As noted, most of the results are published for the first time, and they must be taken into account in the analysis of the mechanical properties of the VVER vessels and for using in methods of nondestructive ultrasonic testing.",
+		"ru": "С помощью автоматизированной импульсной установки собственной разработки на частотах 10—30 МГц измерены объёмные скорости ($v_{ij}$) ультразвука (УЗ) в различных геометрических направлениях и на различных участках образцов из составляющих архивного фрагмента стенки корпуса реактора ВВЭР-440 (стали 15Х2МФА и 08Х18Н10Т) и корпусной стали 15Х2НМФА реактора ВВЭР-1000, а также плотность образцов ($\\rho$). По значениям $v_{ij}$ и $\\rho$ изучена акустическая и упругая анизотропия сплавов, их однородность, а также осуществлён текстурный УЗ-анализ двух слоёв наплавленного покрытия стенки корпуса реактора ВВЭР-440. В отличие от образцов из корпусных сталей обоих реакторов, в наплавке из стали 08Х18Н10Т зафиксированы акустическая и упругая неоднородности, анизотропия скоростей УЗ (до 26%) и соответствующих упругих модулей (до 52%), обусловленные наличием в материале чётко выраженной неоднородной текстуры, близкой к аксиальной. По температурным зависимостям продольной скорости УЗ $v_{l}(T)$ в образцах из составляющих стенки корпуса реактора ВВЭР-440 построены зависимости от $T$ упругих модулей $E$, $G$ и $B$ в общем температурном интервале 0—300°C для направления, нормального к поверхности стенки. Зависимости $v_{l}(T)$ и $E(T)$ использованы в предыдущих работах авторов в качестве калибровочных. Отмечается, что основная часть результатов публикуется впервые и их необходимо учитывать при анализе механических свойств корпусов реакторов ВВЭР и при использовании методов их неразрушающего УЗ-контроля."
+	},
+	"keywords": {
+		"ua": "сталі 08Х18Н10Т, 15Х2МФА, 15Х2НМФА, об’ємні швидкості ультразвуку, пружні властивості, пружня анізотропія, текстура, неоднорідність",
+		"en": "15CrMFA, 08Cr18N10T, 15Cr2NMFA steels, bulk-wave ultrasonic velocities, elastic properties, elastic anisotropy, texture, inhomogeneity",
+		"ru": "стали 08Х18Н10Т, 15Х2МФА, 15Х2НМФА, объёмные скорости ультразвука, упругие свойства, упругая анизотропия, текстура, неоднородность"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. І. Запорожець", "en": "O. I. Zaporozhets", "ru": "О. И. Запорожец"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. О. Дордієнко", "en": "N. A. Dordienko", "ru": "Н. А. Дордиенко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. А. Михайловський", "en": "V. A. Mykhailovsky", "ru": "В. А. Михайловский"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 17,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Р. К. Мелехов, В. І. Похмурський, Конструкційні матеріали енергетичного обладнання. Властивості, деградація (Київ: Наукова думка: 2003).",
+				"tr":  "R. K. Melekhov and V. I. Pokhmurs'kyy, Konstruktsiyni Materialy Energetychnogo Obladnannya. Vlastyvosti, Degradatsiya [Constructional Materials of Power Equipment. Properties, Degradation] (Kyiv: Naukova Dumka: 2003) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "O. I. Zaporozhets, A. V. Lichko, V. V. Nemoshkalenko, and A. I. Nosar, Met. Phys. Adv. Tech., 17: 961 (1999).",
+				"tr":  "O. I. Zaporozhets, A. V. Lichko, V. V. Nemoshkalenko, and A. I. Nosar, Met. Phys. Adv. Tech., 17: 961 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "О. І. Запорожець, М. О. Дордієнко, В. А. Михайловський, В. Б. Молодкін, А. І. Носар, Ю. О. Фролов, А. П. Шпак, Збірник наукових статей за результатами 2004–2006 рр. програми НАН України «Ресурс» (Київ: Інсти-тут електрозварювання ім. Є. О. Патона НАН України: 2006), с. 212.",
+				"tr":  "O. I. Zaporozhets, M. O. Dordiyenko, V. A. Mykhailovsky, V. B. Molodkin, A. I. Nosar, Yu. O. Frolov, and A. P. Shpak, Zbirnyk Naukovykh Statey za Rezul'tatamy 2004–2006 Rokiv Programy N.A.S. of Ukraine 'Resurs' [Collection of Articles with Results Obtained in 2004–2006 within the Program of the N.A.S. of Ukraine 'Resource'] (Kyiv: E. O. Paton Electric Welding Institute, N.A.S. of Ukraine: 2006), p. 212 (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Дордиенко, О. И. Запорожец, В. А. Михайловский, В. Б. Молодкин, Металлофиз. новейшие технол., 34, № 7: 949 (2012).",
+				"tr":  "M. O. Dordienko, O. I. Zaporozhets, V. A. Mykhailovskyy, and V. B. Molodkin, Metallofiz. Noveishie Tekhnol., 34, No. 7: 949 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "O. I. Zaporozhets, S. A. Kotrechko, N. A. Dordienko, V. A. Mykhailovsky, and A. V. Zatsarnaya, Problems of Atomic Science and Technology, 96, No. 2: 197 (2015).",
+				"tr":  "O. I. Zaporozhets, S. A. Kotrechko, N. A. Dordienko, V. A. Mykhailovsky, and A. V. Zatsarnaya, Problems of Atomic Science and Technology, 96, No. 2: 197 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "М. О. Дордієнко, О. І. Запорожець, Р. О. Мазманян, В. А. Михайловський, Ю. О. Фролов, А. П. Шпак, Проблеми ресурсу і безпеки експлуатації конс-трукцій, споруд та машин: Збірник наукових статей за результатами, отриманими у 2007–2009 рр. (Київ: Інститут електрозварювання ім. Є. О. Патона НАН України: 2009), с. 299.",
+				"tr":  "M. O. Dordiyenko, O. I. Zaporozhets, R. O. Mazmanyan, V. A. Mykhailovsky, Yu. O. Frolov, and A. P. Shpak, Problemy Resursu i Bezpeky Ekspluatatsiyi Konstruktsiy, Sporud ta Mashyn: Zbirnyk Naukovykh Statey za Rezul'tatamy, Otrymanymy u 2007–2009 Rokakh [Problem of Life Time and Safety of Structures, Buildings and Machinery: Collection of Articles with Results Obtained in 2007–2009] (Kyiv: E. O. Paton Electric Welding Institute, N.A.S. of Ukraine: 2009), p. 299 (in Ukrainian)."
+			},
+			{
+				"doi": "10.1109/T-SU.1980.31137",
+				"or":  "D. S. Kuperman and K. J. Reimann, IEEE Transactions on Sonics and Ultra-sonics, SU-27, No. 1: 7 (1980).",
+				"tr":  "D. S. Kuperman and K. J. Reimann, IEEE Transactions on Sonics and Ultrasonics, SU-27, No. 1: 7 (1980)."
+			},
+			{
+				"doi": "10.1088/0022-3727/15/11/011",
+				"or":  "C. M. Sayers, J. Phys. D: Appl. Phys., 15, No. 11: 2157 (1982).",
+				"tr":  "C. M. Sayers, J. Phys. D: Appl. Phys., 15, No. 11: 2157 (1982)."
+			},
+			{
+				"doi": "10.1063/1.332059",
+				"or":  "A. J. Allen, M. T. Hutchings, C. M. Sayers, D. R. Allen, and R. L. Smith, J. Appl. Phys., 54, No. 2: 555 (1983).",
+				"tr":  "A. J. Allen, M. T. Hutchings, C. M. Sayers, D. R. Allen, and R. L. Smith, J. Appl. Phys., 54, No. 2: 555 (1983)."
+			},
+			{
+				"doi": "10.1007/BF02666679",
+				"or":  "R. B. Thompson, J. F. Smith, S. S. Lee, and G. C. Johnson, Metall. Trans. A, 20: 2431 (1989).",
+				"tr":  "R. B. Thompson, J. F. Smith, S. S. Lee, and G. C. Johnson, Metall. Trans. A, 20: 2431 (1989)."
+			},
+			{
+				"doi": "10.1063/1.97837",
+				"or":  "M. Hirao and N. Hara, Appl. Phys. Lett., 50, No. 20: 1411 (1987).",
+				"tr":  "M. Hirao and N. Hara, Appl. Phys. Lett., 50, No. 20: 1411 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "E. Holms and D. Beasley, J. Iron Steel Inst., 200: 283 (1962).",
+				"tr":  "E. Holms and D. Beasley, J. Iron Steel Inst., 200: 283 (1962)."
+			},
+			{
+				"doi": "10.1016/0041-624X(86)90079-X",
+				"or":  "J. Lewandowski, Ultrasonics, 24, No. 2: 73 (1986).",
+				"tr":  "J. Lewandowski, Ultrasonics, 24, No. 2: 73 (1986)."
+			},
+			{
+				"doi": "10.1007/BF02666673",
+				"or":  "M. Hirao, H. J. Fukuoka, K. Fujisawa, and R. Murayama, Metall. Trans. A, 20: 2385 (1989).",
+				"tr":  "M. Hirao, H. J. Fukuoka, K. Fujisawa, and R. Murayama, Metall. Trans. A, 20: 2385 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Хлыбов, В. Г. Васильев, А. Л. Углов, Заводская лаборатория. Диагно-стика материалов, 73, № 12: 46 (2007).",
+				"tr":  "A. A. Khlybov, V. G. Vasil'ev, and A. L. Uglov, Zavodskaya Laboratoriya. Diagnostika Materialov, 73, No. 12: 46 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Хлыбов, В. Г. Васильев, А. Л. Углов, Атомная энергия, 106, № 1: 31 (2009).",
+				"tr":  "A. A. Khlybov, V. G. Vasil'ev, and A. L. Uglov, Atomnaya Energiya, 106, No. 1: 31 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Хлыбов, А. Л. Углов, Труды Нижегородского государственного тех-нического университета им. Р. Е. Алексеева, № 1: 220 (2013).",
+				"tr":  "A. A. Khlybov and A. L. Uglov, Trudy Nizhegorodskogo Gosudarstvennogo Tekhnicheskogo Universiteta im. R. E. Alekseeva, No. 1: 220 (2013) (in Russian)."
+			}
+		]
+	}
+}

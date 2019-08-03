@@ -1,0 +1,114 @@
+{
+	"_id":    "MFiNT.40.07.0967",
+	"year":   2018,
+	"volume": 40,
+	"issue":  7,
+	"pages":  [967,977],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["25.05.2018"],
+	"PACS":   "68.55.Ln, 78.30.-j, 78.55.-m, 78.66.Li, 78.67.Sc, 82.65 +r, 82.80.Pv",
+	"title":   {
+		"ua": "Вплив наночастинок золота та срібла на властивості тонких плівок ТіО$_2$",
+		"en": "Influence of Nanoparticles of Gold and Silver on Properties of Thin Films of TiO$_2$",
+		"ru": "Влияние наночастиц золота и серебра на свойства тонких плёнок ТіО$_2$"
+	},
+	"abstract": {
+		"ua": "Золь–ґель-методою синтезовано тонкі нанокристалічні плівки діоксиду титану та нанокомпозитні плівки TiO$_2$, модифіковані наночастинками шляхетних металів Au, Ag. Методами рентґенофазової аналізи (РФА), Оже-електронної спектроскопії (ОЕС), растрової електронної мікроскопії (РЕМ), комбінаційного розсіяння світла (КРС) та фотолюмінесценції вивчено властивості плівок. Встановлено вплив наночастинок шляхетних металів Ag, Au та вихідного прекурсору на властивості плівок. Знайдено оптимальні умови формування плівок із задовільною адгезією до скла. Виявлено вплив надвисокочастотного (НВЧ) електромагнетного випромінення на коацервацію колоїдної системи.",
+		"en": "A sol–gel method is used to prepare thin films from titanium oxide and TiO$_2$ nanocomposites with noble metal (Au or Ag) nanoparticles. Properties of the films are investigated by XRF method, Auger electron spectroscopy, raster electron microscopy, Raman spectroscopy, and photoluminescence. Influence of the noble metal (Au or Ag) nanoparticles and initial precursor on the properties of films is determined. The optimal conditions for the formation of films with a good adhesion to the cover glass are found. Effect of the microwave radiation on the coacervation of the colloidal system is revealed.",
+		"ru": "Золь–гель-методом синтезированы тонкие плёнки диоксида титана и нанокомпозитные плёнки TiO$_2$, модифицированные наночастицами благородных металлов Au, Ag. Методами рентгенофазового анализа (РФА), оже-электронной спектроскопии (ОЭС), растровой электронной микроскопии (РЭМ), комбинационного рассеяния света (КРС) и фотолюминесценции исследованы свойства плёнок. Определено влияние наночастиц благородных металлов Au, Ag и исходного прекурсора на свойства плёнок. Найдены оптимальные условия формирования плёнок с удовлетворительной адгезией к стеклу. Выявлено влияние СВЧ-излучения на коацервацию коллоидной системы."
+	},
+	"keywords": {
+		"ua": "золь–ґель-метода, оксид титану, анатаз, тонкі плівки, наночастинки шляхетних металів",
+		"en": "sol–gel method, titanium oxide, anatase, thin films, nanoparticles of noble metals",
+		"ru": "золь–гель-метод, оксид титана, анатаз, тонкие плёнки, наночастицы благородных металлов"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. В. Дубровін", "en": "I. V. Dubrovin", "ru": "И. В. Дубровин"},
+			"OID": [21]
+		},
+		{
+			"AID": {"ua": "Т. О. Буско", "en": "T. O. Busko", "ru": "Т. О. Буско"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "П. П. Горбик", "en": "P. P. Gorbyk", "ru": "П. П. Горбик"},
+			"OID": [21]
+		},
+		{
+			"AID": {"ua": "М. П. Куліш", "en": "M. P. Kulish", "ru": "Н. П. Кулиш"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "О. П. Дмитренко", "en": "O. P. Dmytrenko", "ru": "О. П. Дмитренко"},
+			"OID": [201]
+		}
+	],
+	"references": {
+		"count": 12,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "А. В. Воронцов, Д. В. Козлов, П. Г. Смирниотис, В. Н. Пармон, Кинетика и катализ, 46, № 2: 203 (2005).",
+				"tr":  "A. V. Vorontsov, D. V.Kozlov, P. H. Smirniotis, and V. N. Parmon, Kinetika i Kataliz, 46, No. 2: 203 (2005) (in Russain)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Осипова, И. Е. Филатов, Ю. Г. Ятлук, Е. И. Андрейков, Наносистеми, наноматеріали, нанотехнології, 9, вип. 4: 873 (2011).",
+				"tr":  "V. A. Osipova, I. E. Filatov, Yu. H. Yaltuk, and E. I. Andreykov, Nanosistemi, Nanomateriali, Nanotehnologii, 9, Iss. 4: 873 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. О. Буско, М. П. Куліш, О. П. Дмитренко, В. С. Стащук, Н. В. Вітюк, А. М. Єременко, Наносистеми, наноматеріали, нанотехнології, 10, вип. 4: 0873 (2012).",
+				"tr":  "T. O. Busko, M. P. Kulish, O. P. Dmytrenko, V. S. Stashchuk, N. V. Vitiuk, and A. M. Yeremenko, Nanosistemi, Nanomateriali, Nanotehnologii, 10, Iss.4: 0873 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/j.watres.2014.04.025",
+				"or":  "R. Goei and T. T. Lim, Water Res., 59: 207 (2014).",
+				"tr":  "R. Goei and T. T. Lim, Water Res., 59: 207 (2014)."
+			},
+			{
+				"doi": "10.1063/1.364395",
+				"or":  "L. Moro, A. Paul, D. C. Lorents, R. Malhotra, R. S. Ruoff, P. Lazzeri, L. Vanzetti, A. Lui, and S. Subramoney, J. Appl. Phys., 81, Iss. 9: 6141 (1997).",
+				"tr":  "L. Moro, A. Paul, D. C. Lorents, R. Malhotra, R. S. Ruoff, P. Lazzeri, L. Vanzetti, A. Lui, and S. Subramoney, J. Appl. Phys., 81, Iss. 9: 6141 (1997)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(00)00976-2",
+				"or":  "A. Ordine, Surf. Coat. Technol., 133–134: 583 (2000).",
+				"tr":  "A. Ordine, Surf. Coat. Technol., 133–134: 583 (2000)."
+			},
+			{
+				"doi": "10.1007/s003390050653",
+				"or":  "M. Diegel, Appl. Phys. A: Mater. Sci. Process., 66, Iss. 2: 183 (1998).",
+				"tr":  "M. Diegel, Appl. Phys. A: Mater. Sci. Process., 66, Iss. 2: 183 (1998)."
+			},
+			{
+				"doi": "10.1023/A:1010081206959",
+				"or":  "F. Huisken, J. Nanopart. Research, 1: 293 (1999).",
+				"tr":  "F. Huisken, J. Nanopart. Research, 1: 293 (1999)."
+			},
+			{
+				"doi": "10.1002/pssa.200565154",
+				"or":  "M. Losurdo, M. M. Giangregorio, G. Bruno, T.‐H. Kim, S. Choi, A. Brown, phys. status solidi (a), 203, Iss. 7: 1607 (2009).",
+				"tr":  "M. Losurdo, M. M. Giangregorio, G. Bruno, T.‐H. Kim, S. Choi, A. Brown, phys. status solidi (a), 203, Iss. 7: 1607 (2009)."
+			},
+			{
+				"doi": "10.1016/j.matlet.2007.05.053",
+				"or":  "M. S. Ghamsari and A. R. Bahramian, Mater. Lett., 62: 361 (2008).",
+				"tr":  "M. S. Ghamsari and A. R. Bahramian, Mater. Lett., 62: 361 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "І. В. Дубровін, П. П. Горбик, Г. М. Кашин, Хімія, фізика та технологія по-верхні, 6, вип. 2: 239 (2015).",
+				"tr":  "I. V. Dubrovin, P. P. Gorbyk, and H. N. Kashyn, Khimiya, Fizyka ta Tekhnologiya Poverkhni, 6, Iss. 2: 239 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, И. В. Дубровин, Г. Н. Кашин, Тези доповідей конференції «Фізика, хімія та технологія поверхні» (13–15 травня 2015, Київ) (Київ: 2015), с. 111.",
+				"tr":  "P. P. Gorbyk, I. V. Dubrovin, and H. N. Kashyn, Abstr. of Conf. 'Physics, Chemistry and Technology of Surface' (May 13–15, 2015, Kyiv) (Kyiv: 2015), p. 111 (in Ukrainian)."
+			}
+		]
+	}
+}

@@ -1,0 +1,327 @@
+{
+	"_id":    "MFiNT.37.09.1147",
+	"year":   2015,
+	"volume": 37,
+	"issue":  9,
+	"pages":  [1147,1168],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["10.05.2015"],
+	"PACS":   "61.50.Lt, 61.72.Bb, 61.72.jd, 61.80.Az, 62.20.de, 63.20.dh, 71.15.Nc",
+	"title":  {
+		"ua": "Особливості енергетичних параметрів «деформаційної» та «електрохемічної» взаємодій вакансій у ОЦК-металах",
+		"en": "Features of Energy Parameters of ‘Strain-Induced’ and ‘Electrochemical’ Interactions of Vacancies in B.C.C. Metals",
+		"ru": "Особенности энергетических параметров «деформационного» и «электрохимического» взаимодействий вакансий в ОЦК-металлах"
+	},
+	"abstract": {
+		"ua": "Розглянуто неаналітичність Фур’є-компонент $\\tilde{V}^{vv}(k)$ енергій $V^{vv}(r)$ (за своєю природою анізотропної, далекосяжної й квазиосцилівної в прямому просторі {$r$}) «деформаційної» взаємодії вакансій ($v$) у їх «твердому розчині заміщення» на основі ОЦК-кристалу (на прикладі ОЦК-Mo, Nb, W) з врахуванням його дискретної будови й анізотропії пружности. Взаємодію вакансій досліджено в квазигармонічному наближенні методою статики ґратниці. Проведено чисельні та аналітичні розрахунки енергетичних параметрів «деформаційної» та «електрохемічної» взаємодій вакансій у ОЦК-кристалі (на прикладі ОЦК-Mo, Nb, W). З’ясовано їх поведінку поблизу та вдалині від центру (зокрема, на поверхні) першої Бріллюенової зони оберненого простору ОЦК-ґратниці. У довгохвильовому наближенні ($k \\cong 0$) визначено апроксимації анізотропних коефіцієнтів $A^{vv}(n)$, $B^{vv}(n)$ розвинення Фур’є-компонент енергій «деформаційної» взаємодії вакансій $Q^{vv} + A^{vv}(n) + B^{vv}(n)k^{2}$ ($n \\equiv k/k$) в околі центру ($k = 0$) Бріллюенової зони, зокрема, залежно від модулів пружности ОЦК-кристалу. З’ясовано, що $B^{vv}(n) \\geq 0$ у напрямках високої симетрії [100], [110], [111] в оберненому просторі для ОЦК-кристалу (незалежно від знаку його параметра анізотропії пружности), а $V^{vv}(0) < Q^{vv} + A^{vv}(n)$ завжди.",
+		"en": "A non-analyticity of the Fourier components, $\\tilde{V}^{vv}(k)$, of the inherently anisotropic, long-range and quasi-oscillating ‘strain-induced’ $v$—$v$-interaction energies, $V^{vv}(r)$, dependent on distances {$r$} between vacancies in their solid solution based on finite b.c.c. crystal (for example, b.c.c.-Mo, Nb, W) is considered with regard for its discrete structure and elastic anisotropy. Interactions of point defects are studied by means of the lattice statics method within the scope of the quasi-harmonic approximation. The numerical and analytical calculations of energy parameters for ‘strain-induced’ and ‘electrochemical’ interactions of vacancies within the b.c.c. crystal (for example, b.c.c.-Mo, Nb, W) are carried out. Their behaviour near and far from the centre of the b.c.c.-lattice reciprocal-space Brillouin zone (particularly, on its surface) is studied. Within the long-wave approximation ($k \\cong 0$), anisotropic expansion coefficients, $A^{vv}(n)$, $B^{vv}(n)$, for the Fourier components, $Q^{vv} + A^{vv}(n) + B^{vv}(n)k^{2}$ ($n \\equiv k/k$), of the ‘strain-induced’ $v$—$v$ interaction energies near the centre ($k = 0$) of Brillouin zone are defined, in particular, depending on the elasticity modules of b.c.c. crystal. As revealed, $B^{vv}(n) \\geq 0$ along the high-symmetry [100], [110], [111] directions in reciprocal space for b.c.c. crystal (irrespective of its elastic-anisotropy factor sign), and as always, $V^{vv}(0) < Q^{vv} + A^{vv}(n)$.",
+		"ru": "Рассмотрена неаналитичность фурье-компонент $\\tilde{V}^{vv}(k)$ энергий $V^{vv}(r)$ (по своей природе анизотропного, дальнодействующего и квазиосциллирующего в прямом пространстве {$r$}) «деформационного» взаимодействия вакансий ($v$) в их «твёрдом растворе замещения» на основе ОЦК-кристалла (на примере ОЦК-Mo, Nb, W) с учётом его дискретного строения и анизотропии упругости. Взаимодействие вакансий исследовано в квазигармоническом приближении методом статики решётки. Проведено численные и аналитические расчёты энергетических параметров «деформационного» и «электрохимического» взаимодействий вакансий в ОЦК-кристалле (на примере ОЦК-Mo, Nb, W). Исследовано их поведение вблизи и вдали от центра (в частности, на поверхности) зоны Бриллюэна обратного пространства ОЦК-решётки. В длинноволновом приближении ($k \\cong 0$) определены аппроксимации анизотропных коэффициентов $A^{vv}(n)$, $B^{vv}(n)$ разложения фурье-компонент энергий «деформационного» взаимодействия вакансий $Q^{vv} + A^{vv}(n) + B^{vv}(n)k^{2}$ ($n \\equiv k/k$) в окрестности центра ($k = 0$) зоны Бриллюэна, в частности, в зависимости от модулей упругости ОЦК-кристалла. Установлено, что $B^{vv}(n) \\geq 0$ по направлениям высокой симметрии [100], [110], [111] в обратном пространстве для ОЦК-кристалла (независимо от знака его параметра анизотропии упругости), а $V^{vv}(0) < Q^{vv} + A^{vv}(n)$ всегда."
+	},
+	"keywords": {
+		"ua": "вакансії, «деформаційна» взаємодія, «електрохемічна» взаємодія, дисперсійна крива, неаналітичність залежности, довгохвильове наближення",
+		"en": "vacancies, ‘strain-induced’ interaction, ‘electrochemical’ interaction, dispersion curve, non-analyticity of dependence, long-wave approximation",
+		"ru": "вакансии, «деформационное» взаимодействие, «электрохимическое» взаимодействие, дисперсионная кривая, неаналитичность зависимости, длинноволновое приближение"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. В. Олійник", "en": "O. V. Oliinyk", "ru": "Е. В. Олейник"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. А. Татаренко", "en": "V. A. Tatarenko", "ru": "В. А. Татаренко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 57,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "A. Seeger, D. Shumacher, W. Schilling, and J. Diehl, Vacancies and Interstitials in Metals (Amsterdam: North-Holland: 1970).",
+				"tr":  "A. Seeger, D. Shumacher, W. Schilling, and J. Diehl, Vacancies and Interstitials in Metals (Amsterdam: North-Holland: 1970)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.68.812",
+				"or":  "E. Vives and A. Planes, Phys. Rev. Lett., 68, No. 6: 812 (1992).",
+				"tr":  "E. Vives and A. Planes, Phys. Rev. Lett., 68, No. 6: 812 (1992)."
+			},
+			{
+				"doi": "10.1002/pssa.2210430113",
+				"or":  "R. de Ridder, G. van Tendeloo, and S. Amelinckx, phys. status solidi (a), 43, No. 1: 133 (1977).",
+				"tr":  "R. de Ridder, G. van Tendeloo, and S. Amelinckx, phys. status solidi (a), 43, No. 1: 133 (1977)."
+			},
+			{
+				"doi": "10.1080/01418619308213992",
+				"or":  "P. W. M. Jacobs and E. Kotomin, Philosophical Magazine A, 68, No. 4: 695 (1993).",
+				"tr":  "P. W. M. Jacobs and E. Kotomin, Philosophical Magazine A, 68, No. 4: 695 (1993)."
+			},
+			{
+				"doi": "10.1038/229403a0",
+				"or":  "J. H. Evans, Nature, 229, No. 5: 403 (1971).",
+				"tr":  "J. H. Evans, Nature, 229, No. 5: 403 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Щербак М. И. Захарова, В. Н.Быков, ВАНТ. Сер. Физика радиац. поврежд. и радиац. матер., 3, № 1: 61 (1976).",
+				"tr":  "V. I. Shherbak, M. I. Zakharova, and V. N. Bykov, VANT. Ser. Fizika Radiats. Povrezhd. i Radiats. Mater., 3, No. 1: 61 (1976) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.1661050",
+				"or":  "V. K. Sikka and J. Moteff, J. Appl. Phys., 43, No. 12: 4942 (1972).",
+				"tr":  "V. K. Sikka and J. Moteff, J. Appl. Phys., 43, No. 12: 4942 (1972)."
+			},
+			{
+				"doi": "10.1016/0022-3115(77)90168-4",
+				"or":  "F. W. Wiffen, J. Nucl. Mater., 67, Nos. 1/2: 119 (1977).",
+				"tr":  "F. W. Wiffen, J. Nucl. Mater., 67, Nos. 1/2: 119 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "F. W. Wiffen, Proc. Int. Conf. ‘Radiation Induced Voids in Metals’ (Albany, NY, June 9–11, 1971) (Oak Ridge: 1972), p. 386.",
+				"tr":  "F. W. Wiffen, Proc. Int. Conf. 'Radiation Induced Voids in Metals' (Albany, NY, June 9–11, 1971) (Oak Ridge: 1972), p. 386."
+			},
+			{
+				"doi": "10.1080/00337577308232262",
+				"or":  "J. L. Brimhall and G. I. Kulcinski, Radiat. Eff., 20, No. 1: 25 (1973).",
+				"tr":  "J. L. Brimhall and G. I. Kulcinski, Radiat. Eff., 20, No. 1: 25 (1973)."
+			},
+			{
+				"doi": "10.1016/0022-3115(77)90212-4",
+				"or":  "B. A. Loomis, S. B. Gerber, and A. Taylor, J. Nucl. Mater., 68, No. 1: 19 (1977).",
+				"tr":  "B. A. Loomis, S. B. Gerber, and A. Taylor, J. Nucl. Mater., 68, No. 1: 19 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Брык, В. Н. Воеводин, В. Ф. Зеленский, ВАНТ. Сер. Физика радиац. поврежд. и радиац. матер., 6, № 1: 33 (1981).",
+				"tr":  "V. V. Bryk, V. N. Voevodin, and V. F. Zelenskij, VANT. Ser. Fizika Radiats. Povrezhd. i Radiats. Mater., 6, No. 1: 33 (1981) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0022-3115(71)90130-9",
+				"or":  "G. L. Kulcinski, J. L. Brimhall, and H. E. Kissinger, J. Nucl. Mater., 40, No. 2: 166 (1971).",
+				"tr":  "G. L. Kulcinski, J. L. Brimhall, and H. E. Kissinger, J. Nucl. Mater., 40, No. 2: 166 (1971)."
+			},
+			{
+				"doi": "10.1016/0022-3115(73)90095-0",
+				"or":  "D. J. Mazey, S. Francis, and J. A. Hudson, J. Nucl. Mater., 47, No. 2: 137 (1973).",
+				"tr":  "D. J. Mazey, S. Francis, and J. A. Hudson, J. Nucl. Mater., 47, No. 2: 137 (1973)."
+			},
+			{
+				"doi": "10.1209/0295-5075/11/6/011",
+				"or":  "P. Fratzl, S. Klaumunzer, M. Rammensee, and G. Vogl, Europhys. Lett., 11, No. 6: 547 (1990).",
+				"tr":  "P. Fratzl, S. Klaumunzer, M. Rammensee, and G. Vogl, Europhys. Lett., 11, No. 6: 547 (1990)."
+			},
+			{
+				"doi": "10.1080/00337577708237467",
+				"or":  "S. B. Fisher and K. R. Williams, Radiat. Eff., 32, Nos. 1–2: 123 (1977).",
+				"tr":  "S. B. Fisher and K. R. Williams, Radiat. Eff., 32, Nos. 1–2: 123 (1977)."
+			},
+			{
+				"doi": "10.1016/0022-3115(78)90042-9",
+				"or":  "L. J. Chen and A. J. Ardell, J. Nucl. Mater., 75, No. 1: 177 (1978).",
+				"tr":  "L. J. Chen and A. J. Ardell, J. Nucl. Mater., 75, No. 1: 177 (1978)."
+			},
+			{
+				"doi": "10.15407/ufm.13.04.417",
+				"or":  "О. В. Олійник, В. А. Татаренко, Успехи физ. мет., 13, № 4: 417 (2012).",
+				"tr":  "O. V. Oliinyk and V. A. Tatarenko, Uspehi Fiziki Metallov, 13, No. 4: 417 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Бугаев, В. А. Татаренко, Взаимодействие и распределение атомов в сплавах внедрения на основе плотноупакованных металлов (Киев: Наукова думка: 1989).",
+				"tr":  "V. N. Bugaev and V. A. Tatarenko, Interaction and Arrangement of Atoms in Interstitial Solid Solution Based on Close-Packed Metals (Kiev: Naukova Dumka: 1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Кривоглаз, Диффузное рассеяние рентгеновских лучей и нейтронов на флуктуационных неоднородностях в неидеальных кристаллах (Киев: Наукова думка: 1984).",
+				"tr":  "M. A. Krivoglaz, Diffuznoe Rasseyanie Rentgenovskikh Luchej i Neitronov na Fluktuatsionnykh Neodnorodnostyakh v Neideal'nykh Kristallakh (Kiev: Naukova Dumka: 1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Кривоглаз, Дифракция рентгеновских лучей и нейтронов в неидеальных кристаллах (Киев: Наукова думка: 1983).",
+				"tr":  "M. A. Krivoglaz, Difraktsiya Rentgenovskikh Luchej i Neitronov v Neideal'nykh Kristallakh (Kiev: Naukova Dumka: 1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. G. Khachaturyan, Theory of Structural Transformations in Solids (Mineola, NY: Dover Publications, Inc: 2008).",
+				"tr":  "A. G. Khachaturyan, Theory of Structural Transformations in Solids (Mineola, NY: Dover Publications, Inc: 2008)."
+			},
+			{
+				"doi": "10.1016/0079-6425(78)90003-8",
+				"or":  "A. G. Khachaturyan, Progr. Mater. Sci., 22, Nos. 1–2: 1 (1978).",
+				"tr":  "A. G. Khachaturyan, Progr. Mater. Sci., 22, Nos. 1–2: 1 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Хачатурян, Теория фазовых превращений и структура твёрдых растворов (Москва: Наука: 1974).",
+				"tr":  "A. G. Khachaturyan, Teoriya Fazovykh Prevrashchenij i Struktura Tvyordykh Rastvorov (Moscow: Nauka: 1974) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0001-6160(55)90140-1",
+				"or":  "J. D. Eshelby, Acta Metallurgica, 3, No. 5: 487 (1955).",
+				"tr":  "J. D. Eshelby, Acta Metallurgica, 3, No. 5: 487 (1955)."
+			},
+			{
+				"doi": "10.1016/0022-3697(57)90003-3",
+				"or":  "H. Kanzaki, J. Phys. Chem. Solids, 2, No. 1: 24 (1957).",
+				"tr":  "H. Kanzaki, J. Phys. Chem. Solids, 2, No. 1: 24 (1957)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Кривоглаз, ЖЭТФ, 34, вып. 1: 204 (1958).",
+				"tr":  "M. A. Krivoglaz, ZhETF, 34, Iss. 1: 204 (1958) (in Russian)."
+			},
+			{
+				"doi": "10.1143/JPSJ.7.270",
+				"or":  "T. J. Matsubara, J. Phys. Soc. Jpn., 7, No. 3: 270 (1952).",
+				"tr":  "T. J. Matsubara, J. Phys. Soc. Jpn., 7, No. 3: 270 (1952)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Кацнельсон, А. И. Олемской, Микроскопическая теория неоднородных структур (Москва: Издательство МГУ: 1987).",
+				"tr":  "A. A. Katsnelson and A. I. Olemskoi, Mikroskopicheskaya Teoriya Neodnorodnykh Struktur (Moscow: Izdatel'stvo MGU: 1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Олемской, В. В. Чернышева, Изв. высших учебных заведений, № 2: 20 (1982).",
+				"tr":  "A. I. Olemskoi and V. V. Chernysheva, Izv. Vysshikh Uchebnykh Zavedenij, No. 2: 20 (1982)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.8.5747",
+				"or":  "D. J. Chadi and M. L. Cohen, Phys. Rev. B, 8, No. 12: 5747 (1973).",
+				"tr":  "D. J. Chadi and M. L. Cohen, Phys. Rev. B, 8, No. 12: 5747 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "О. В. Олійник, П. О. Селищев, В. А. Татаренко, Ю. Б. Парк, Металлофиз. новейшие технол., 34, № 9: 1231 (2012).",
+				"tr":  "O. V. Oliinyk, P. O. Selyshchev, V. A. Tatarenko, and Y. B. Park, Metallofiz. Noveishie Tekhnol., 34, No. 9: 1231 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1080/14786435.2014.932458",
+				"or":  "V. A. Tatarenko, P. O. Selyshchev, O. V. Oliinyk, and Y. B. Park, Philosophical Magazine, 94, No. 24: 2724 (2014).",
+				"tr":  "V. A. Tatarenko, P. O. Selyshchev, O. V. Oliinyk, and Y. B. Park, Philosophical Magazine, 94, No. 24: 2724 (2014)."
+			},
+			{
+				"doi": "10.1016/0001-6160(70)90047-7",
+				"or":  "D. W. Hoffman, Acta Metallurgica, 18, No. 7: 819 (1970).",
+				"tr":  "D. W. Hoffman, Acta Metallurgica, 18, No. 7: 819 (1970)."
+			},
+			{
+				"doi": "10.1016/0001-6160(69)90112-6",
+				"or":  "H. E. Cook and D. De Fontaine, Acta Metallurgica, 17, No. 7: 915 (1969).",
+				"tr":  "H. E. Cook and D. De Fontaine, Acta Metallurgica, 17, No. 7: 915 (1969)."
+			},
+			{
+				"doi": "10.1016/S0022-3697(71)80177-4",
+				"or":  "J. E. Gragg, Jr., J. Phys. Chem. Solids, 32, No. 6: 1195 (1971).",
+				"tr":  "J. E. Gragg, Jr., J. Phys. Chem. Solids, 32, No. 6: 1195 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Рейсленд, Физика фононов (Москва: Мир: 1975) (пер. с англ.).",
+				"tr":  "J. A. Reissland, The Physics of Phonons (London–New York–Sydney–Toronto: John Wiley and Sons Ltd.: 1973)."
+			},
+			{
+				"doi": "",
+				"or":  "О. В. Олійник, В. А. Татаренко, С. М. Бокоч, Металлофиз. новейшие технол., 33, № 10: 1383 (2011), ibidem, 34, № 1: 135 (2012).",
+				"tr":  "O. V. Oliinyk, V. A. Tatarenko, and S. M. Bokoch, Metallofiz. Noveishie Tekhnol., 33, No. 10: 1383 (2011), ibidem, 34, No. 1: 135 (2012)."
+			},
+			{
+				"doi": "10.1016/B978-0-08-056033-5.00001-X",
+				"or":  "W. G. Wolfer, Comprehensive Nuclear Materials, 1: 1 (2012).",
+				"tr":  "W. G. Wolfer, Comprehensive Nuclear Materials, 1: 1 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Н. Францевич, Ф. Ф. Воронов, С. А. Бакута, Упругие постоянные и упругие модули металлов и неметаллов: Справочник (Киев: Наукова думка: 1982).",
+				"tr":  "I. N. Frantsevich, F. F. Voronov, and S. A. Bakuta, Uprugie Postoyannyye i Uprugie Moduli Metallov i Nemetallov: Spravochnik (Kiev: Naukova Dumka: 1982) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.1699977",
+				"or":  "J. W. Edwards, R. Speiser, and H. Johnson, Journal of Applied Physics, 22, No. 4: 424 (1951).",
+				"tr":  "J. W. Edwards, R. Speiser, and H. Johnson, Journal of Applied Physics, 22, No. 4: 424 (1951)."
+			},
+			{
+				"doi": "",
+				"or":  "H. R. Schober and P. H. Dederichs, Electronic Properties Metals: Phonon States. Electron States and Fermi Surfaces Phonon State of Elements. Electron States and Fermi Surfaces of Alloys (Berlin: Springer-Verlag: 1981).",
+				"tr":  "H. R. Schober and P. H. Dederichs, Electronic Properties Metals: Phonon States. Electron States and Fermi Surfaces Phonon State of Elements. Electron States and Fermi Surfaces of Alloys (Berlin: Springer-Verlag: 1981)."
+			},
+			{
+				"doi": "10.1016/0022-5088(75)90193-9",
+				"or":  "R. Roberge, Journal of the Less-Common Metals, 40, No. 1: 161 (1975).",
+				"tr":  "R. Roberge, Journal of the Less-Common Metals, 40, No. 1: 161 (1975)."
+			},
+			{
+				"doi": "10.1002/pssb.19630031207",
+				"or":  "B. N. Dutta and B. Dayl, phys. status solidi, 3, No. 12: 2253 (1963).",
+				"tr":  "B. N. Dutta and B. Dayl, phys. status solidi, 3, No. 12: 2253 (1963)."
+			},
+			{
+				"doi": "10.1016/0001-6160(74)90129-1",
+				"or":  "E. S. Machlin, Acta Metallurgica, 22, No. 1: 95 (1974).",
+				"tr":  "E. S. Machlin, Acta Metall., 22, No. 1: 95 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Brewer, The Cohesive Energies of the Elements: Report LBL–3720 (Berkeley, CA: Lawrence Berkeley Laboratory: 1977).",
+				"tr":  "L. Brewer, The Cohesive Energies of the Elements: Report LBL–3720 (Berkeley, CA: Lawrence Berkeley Laboratory: 1977)."
+			},
+			{
+				"doi": "10.1103/PhysRev.120.837",
+				"or":  "V. G. Weizer and L. A. Girifalco, Phys. Rev., 120, No. 3: 837 (1960).",
+				"tr":  "V. G. Weizer and L. A. Girifalco, Phys. Rev., 120, No. 3: 837 (1960)."
+			},
+			{
+				"doi": "10.1088/0305-4608/3/8/007",
+				"or":  "R. Yamamoto and M. Doyama, J. Phys. F: Met. Phys., 3, No. 8: 1524 (1973).",
+				"tr":  "R. Yamamoto and M. Doyama, J. Phys. F: Met. Phys., 3, No. 8: 1524 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "W. A. Harrison, Pseudopotentials in the Theory of Metals (New York: W. A. Benjamin Inc.: 1966).",
+				"tr":  "W. A. Harrison, Pseudopotentials in the Theory of Metals (New York: W. A. Benjamin Inc.: 1966)."
+			},
+			{
+				"doi": "",
+				"or":  "W. A. Harrison, Solid State Theory (New York: McGraw-Hill: 1970).",
+				"tr":  "W. A. Harrison, Solid State Theory (New York: McGraw-Hill: 1970)."
+			},
+			{
+				"doi": "",
+				"or":  "O. V. Oliinyk and V. A. Tatarenko, Журнал нано- та електронної фізики, 4, № 1: 01023-1 (2012).",
+				"tr":  "O. V. Oliinyk and V. A. Tatarenko, J. Nano- Electron. Phys., 4, No. 1: 01023-1 (2012)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/SSP.138.303",
+				"or":  "S. M. Bokoch and V. A. Tatarenko, Solid State Phenomena, 138: 303 (2008).",
+				"tr":  "S. M. Bokoch and V. A. Tatarenko, Solid State Phenomena, 138: 303 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Татаренко, К. Л. Цинман, Металлофизика, 14, № 10: 14 (1992).",
+				"tr":  "V. A. Tatarenko and K. L. Tsinman, Metallofizika, 14, No. 10: 14 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Татаренко, Металлофиз. новейшие технол., 21, № 11: 60 (1999); V. A. Tatarenko, Met. Phys. Adv. Tech., 19, No. 11: 1479 (2001).",
+				"tr":  "V. A. Tatarenko, Metallofiz. Noveishie Tekhnol., 21, No. 11: 60 (1999); V. A. Tatarenko, Met. Phys. Adv. Tech., 19, No. 11: 1479 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Tatarenko, Defect and Diffusion Forum, 194–199: 1793 (2001).",
+				"tr":  "V. A. Tatarenko, Defect and Diffusion Forum, 194–199: 1793 (2001)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.80.224104",
+				"or":  "T. R. Mattsson, N. Sandberg, R. Armiento, and A. E. Mattsson, Phys. Rev. B, 80: 224104 (2009).",
+				"tr":  "T. R. Mattsson, N. Sandberg, R. Armiento, and A. E. Mattsson, Phys. Rev. B, 80: 224104 (2009)."
+			},
+			{
+				"doi": "10.1088/0022-3727/18/7/005",
+				"or":  "A. K. Giri and G. B. Mitra, J. Phys. D: Appl. Phys., 18, No. 7: L75 (1985).",
+				"tr":  "A. K. Giri and G. B. Mitra, J. Phys. D: Appl. Phys., 18, No. 7: L75 (1985)."
+			}
+		]
+	}
+}

@@ -1,0 +1,126 @@
+{
+	"_id":    "MFiNT.38.03.0415",
+	"year":   2016,
+	"volume": 38,
+	"issue":  3,
+	"pages":  [415,425],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["11.06.2015", "17.02.2016"],
+	"PACS":   "05.70.Ln, 46.35.+z, 46.50.+a, 46.80.+j, 62.20.M-, 81.40.Np, 83.60.Uv",
+	"title":   {
+		"ua": "Розрахункова модель росту втомної макротріщини за змішаного Ⅰ + Ⅲ макромеханізму руйнування",
+		"en": "Calculation Model of Growth of a Fatigue Macrocrack in Case of the Ⅰ + Ⅲ Mixed-Mode Macromechanism of Fracture",
+		"ru": "Расчётная модель роста усталостной макротрещины при смешанном Ⅰ + Ⅲ макромеханизме разрушения"
+	},
+	"abstract": {
+		"ua": "На основі енергетичного підходу механіки руйнування побудовано розрахункову модель поширення втомної макротріщини в тривимірному пружньопластичному тілі за змішаного Ⅰ + Ⅲ макромеханізму руйнування. Одержане кінетичне рівняння уможливлює визначати період докритичного росту втомної макротріщини, який відповідає залишковій довговічності елементу металоконструкції з тріщиною під зовнішнім циклічним навантаженням. Кінетичне рівняння моделі містить лише дві експериментальні константи матеріалу, що визначаються з випробувань на циклічну втому. Запропонована в роботі розрахункова модель може бути використана при побудові методик розрахунку залишкового ресурсу металевих елементів конструкцій з втомними тріщинами, що розвиваються за змішаним Ⅰ + Ⅲ макромеханізмом руйнування.",
+		"en": "Based on energy approach in the mechanics of fracture, the calculation model of fatigue macrocrack propagation in three-dimensional elastoplastic body is constructed for the case of Ⅰ + Ⅲ mixed-mode of fracture macromechanism. Subcritical period of fatigue macrocrack growth, which corresponds to residual lifetime of metalware element with a crack under external cyclic loading, can be determined using the obtained kinetic equation. The kinetic equation of the model contains only two experimental constants of the material, which are determined from tests on cyclic fatigue. The proposed calculation model can be used for development of techniques of residual lifetime estimation of metallic structural elements with fatigue cracks grown according to Ⅰ + Ⅲ mixed-mode of fracture macromechanism.",
+		"ru": "На основе энергетического подхода механики разрушения построена расчётная модель распространения усталостной макротрещины по смешанному Ⅰ + Ⅲ макромеханизму разрушения в трёхмерном упругопластическом теле. Полученное кинетическое уравнение позволяет определять период докритического роста усталостной макротрещины, который соответствует остаточной долговечности элемента металлоконструкции с трещиной под внешним цикличным нагружением. Кинетическое уравнение модели содержит только две экспериментальные константы материала, определяемые из испытаний на циклическую усталость. Предложенная в работе расчётная модель может быть использована при построении методик расчёта остаточного ресурса металлических элементов конструкций с усталостными трещинами, растущими по смешанному Ⅰ + Ⅲ макромеханизму разрушения."
+	},
+	"keywords": {
+		"ua": "втомна тріщина, залишкова довговічність, змішаний макромеханізм руйнування, пластична зона, енергія руйнування",
+		"en": "fatigue cracks, residual lifetime, mixed-mode of fatigue fracture, plastic zone, fracture energy",
+		"ru": "усталостная трещина, остаточная долговечность, смешанный макромеханизм разрушения, пластическая зона, энергия разрушения"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Д. В. Рудавський", "en": "D. V. Rudavskyy", "ru": "Д. В. Рудавский"},
+			"OID": [6]
+		},
+		{
+			"AID": {"ua": "Ю. І. Канюк", "en": "Yu. I. Kanyuk", "ru": "Ю. И. Канюк"},
+			"OID": [6]
+		},
+		{
+			"AID": {"ua": "В. Р. Бас", "en": "V. R. Bas", "ru": "В. Р. Бас"},
+			"OID": [182]
+		}
+	],
+	"references": {
+		"count": 16,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "В. Т. Трощенко, Деформирование и разрушение металлов при многоцикловом нагружении (Киев: Наукова думка: 1981).",
+				"tr":  "V. T. Troshchenko, Deformirovanie i Razrushenie Metallov pri Mnogotsiklovom Nagruzhenii [Deformation and Fracture of Metals at Multicyclic Loading] (Kiev: Naukova Dumka: 1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Механика разрушения и прочность материалов: Справочное пособие (Ред. В. В. Панасюк) (Киев: Наукова думка: 1990), т. 4.",
+				"tr":  "Mekhanika Razrusheniya i Prochnost' Materialov: Spravochnoe Posobie [Fracture Mechanics and Strength of Materials: Handbook] (Ed. V. V. Panasyuk) (Kiev: Naukova Dumka: 1990), vol. 4 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Панасюк, Механика квазихрупкого разрушения материалов (Киев: Наукова думка: 1991).",
+				"tr":  "V. V. Panasyuk, Mekhanika Kvazikhrupkogo Razrusheniya Materialov [Mechanics of Quasibrittle Fracture of Materials] (Kiev: Naukova Dumka: 1991), p. 416 (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. П. Черепанов, Механика хрупкого разрушения (Москва: Наука: 1974).",
+				"tr":  "G. P. Cherepanov, Mekhanika Khrupkogo Razrusheniya [Mechanics of Brittle Fracture] (Moscow: Nauka: 1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Механика разрушения и прочность материалов: Справочное пособие (Ред. В. В. Панасюк) (Киев: Наукова думка: 1988), т. 1.",
+				"tr":  "Mekhanika Razrusheniya i Prochnost' Materialov: Spravochnoe Posobie [Fracture Mechanics and Strength of Materials: Handbook] (Ed. V. V. Panasyuk) (Kiev: Naukova Dumka: 1988), vol. 1 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Е. Андрейкив, А. И. Дарчук, Усталостное разрушение и долговечность конструкций (Киев: Наукова думка: 1992).",
+				"tr":  "O. Ye. Andreykiv and O. I. Darchuk, Ustalostnoe Razrushenie i Dolgovechnost' Konstruktsiy [Fatigue Failure and Durability of Structures] (Kiev: Naukova Dumka: 1992) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Киреев, Курс физической химии (Москва: Химия: 1975).",
+				"tr":  "V. O. Kireev, Kurs Fizicheskoy Khimii [Course of Physical Chemistry] (Moscow: Khimiya: 1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Седов, Механика сплошной среды (Москва: Наука: 1973), т. 1, 2.",
+				"tr":  "L. I. Sedov, Mekhanika Sploshnoy Sredy [Continuum Mechanics] (Moscow: Nauka: 1973), vol. 1, 2 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Шата, З. О. Терлецька, Енергетичний підхід у механіці втомного поширення макротріщин. Механіка руйнування матеріалів і міцність конструкцій (Львів: Каменяр: 1999), т. 2, с. 141.",
+				"tr":  "M. Shata and Z. O. Terletska, Energetychyy Pidkhid u Mekhanitsi Vtomnogo Poshyrennya Makrotrishchyn. Mekhanika Ruynuvannya Materialiv i Mitsnist' Konstruktsiy [Energy Approach in Mechanics of Fatigue Cracks Propagation. Fracture Mechanics and Strength of Materials Structures] (Lviv: Kamenyar: 1999), vol. 2, p. 141 (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Panasyuk, O. Ye. Andreykiv, O. I. Darchuk, and P. S. Kun, Proc. 10 European Conference on Fracture ECF-10 (Sept. 20–23, 1994, Berlin) (EMAS: 1994), vol. 2, p. 1271.",
+				"tr":  "V. V. Panasyuk, O. Ye. Andreykiv, O. I. Darchuk, and P. S. Kun, Proc. 10 European Conference on Fracture ECF-10 (Sept. 20–23, 1994, Berlin) (EMAS: 1994), vol. 2, p. 1271."
+			},
+			{
+				"doi": "",
+				"or":  "О. Є. Андрейків, Д. В. Рудавський, О. В. Гембара, Фіз.-хім. механіка матеріалів, № 6: 18 (2002).",
+				"tr":  "O. Ye. Andreikiv, D. V. Rudavskyi, and O. V. Gembara, Fiz.-Khim. Mekh. Mater., No. 6: 18 (2002) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. Л. Іваницький, П. С. Кунь, Тріщиностійкість конструкційних матеріалів за складного навантаження (Львів: СПОЛОМ: 2013), с. 240.",
+				"tr":  "Ya. L. Ivanitskyi and P. S. Kun, Trishchynostiykist' Konstruktsiynykh Materialiv za Skladnogo Navantazhennya [Crack Growth Resistance of Structural Materials for Mixed-Mode of Fracture Mechanisms] (Lviv: SPOLOM: 2013) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1115/1.3425325",
+				"or":  "R. Roberts and J. J. Kibler, J. Basic Engineering. Trans. ASME, 93: 671 (1971).",
+				"tr":  "R. Roberts and J. J. Kibler, J. Basic Engineering. Trans. ASME, 93: 671 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "Механика разрушения и прочность материалов: Справочное пособие (Ред. В. В. Панасюк) (Киев: Наукова думка: 1988), т. 3.",
+				"tr":  "Mekhanika Razrusheniya i Prochnost' Materialov: Spravochnoe Posobie [Fracture Mechanics and Strength of Materials: Handbook] (Ed. V. V. Panasyuk) (Kiev: Naukova Dumka: 1988), vol. 3 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Р. Скальський, І. М. Лясота, Техническая диагностика и неразрушающий контроль, № 3: 7 (2012).",
+				"tr":  "V. R. Skalsky and I. M. Liasota, Tekhnicheskaya Diagnostika i Nerazrushayushchiy Kontrol [Technical Diagnostics and Nondestructive Control], No. 3: 7 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Р. Скальський, Д. В. Рудавський, П. Я. Галан та ін., Вісник Дніпропетровського національного університету залізничного транспорту ім. Акад. В. Лазаряна, вип. 33: 251 (2010).",
+				"tr":  "V. R. Skalsky, D. V. Rudavskyi, P. Ya. Galan et al., Visnyk Dnipropetrovskogo Natsionalnogo Universytetu Zaliznychnogo Transportu imeni Akad. V. Lazaryana [Bulletin After Acad. V. Lazaryan Dnipropetrovsk National University of Railway Transport], Iss. 33: 251 (in Ukrainian)."
+			}
+		]
+	}
+}

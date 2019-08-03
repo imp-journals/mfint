@@ -1,0 +1,112 @@
+{
+	"year":   2017,
+	"volume": 39,
+	"issue":  2,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  2,
+			"pages":  [143,162],
+			"title": {
+				"ua": "Аналітичний модель формування фазоконтрастних зображень неоднорідних некристалічних об’єктів довільної форми",
+				"en": "Analytical Model of Formation of the Phase-Contrast Images for Inhomogeneous Noncrystalline Objects with Arbitrary Shape",
+				"ru": "Аналитическая модель формирования фазоконтрастных изображений неоднородных некристаллических объектов произвольной формы"
+			},
+			"autors": {
+				"ua": "С. В. Лізунова, Б. В. Шелудченко, В. Б. Молодкін, М. Г. Толмачов, Дж. Е. Айс, Р. І. Барабаш, В. Ю. Сторіжко, В. В. Лізунов, К. В. Фузік, Г. О. Веліховський, В. В. Молодкін, С. В. Дмітрієв, Л. М. Скапа",
+				"en": "S. V. Lizunova, B. V. Sheludchenko, V. B. Molodkin, M. H. Tolmachov, G. Е. Ice, R. I. Barabash, V. Yu. Storizhko, V. V. Lizunov, K. V. Fuzik, G. O. Velikhovskii, V. V. Molodkin, S. V. Dmitriev, and L. M. Skapa",
+				"ru": "С. В. Лизунова, Б. В. Шелудченко, В. Б. Молодкин, Н. Г. Толмачёв, Дж. Е. Айс, Р. И. Барабаш, В. Е. Сторижко, В. В. Лизунов, Е. В. Фузик, Г. О. Велиховский, В. В. Молодкин, С. В. Дмитриев, Л. Н. Скапа"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [163,175],
+			"title": {
+				"ua": "Моделювання зіштовхувальної стадії еволюції дводольних біметалевих кластерів під дією димерів Арґону низьких енергій",
+				"en": "Simulation of Collision Stage of Evolution of Bipartite Bimetal Clusters under Impact of Low-Energy Argon Dimers",
+				"ru": "Моделирование столкновительной стадии эволюции двудольных биметаллических кластеров под действием димеров аргона низких энергий"
+			},
+			"autors": {
+				"ua": "Д. В. Широкорад, Г. В. Корніч",
+				"en": "D. V. Shyrokorad and G. V. Kornich",
+				"ru": "Д. В. Широкорад, Г. В. Корнич"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [177,188],
+			"title": {
+				"ua": "Властивості товстих плівок на основі SnO$_{2}$ при використанні контактів, виготовлених з Ni$_{3}$B-паст",
+				"en": "Properties of the SnO$_{2}$-Based Thick Films When Using the Contact Pads Fabricated from Ni$_{3}$B-Paste",
+				"ru": "Свойства толстых плёнок на основе SnO$_{2}$ при использовании контактов, изготовленных из Ni$_{3}$B-паст"
+			},
+			"autors": {
+				"ua": "А. Г. Гончар, В. Є. Шелудько, В. В. Кременицький, М. І. Симан, Л. І. Фіялка",
+				"en": "A. G. Gonchar, V. E. Sheludko, V. V. Kremenitsky, M. I. Siman, and L. I. Fiyalka",
+				"ru": "А. Г. Гончар, В. Е. Шелудько, В. В. Кременицкий, Н. И. Симан, Л. И. Фиялка"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [189,208],
+			"title": {
+				"ua": "Структура і властивості сталі 20ГЛ після електроіскрового леґування ніклем і молібденом та ультразвукового ударного оброблення",
+				"en": "Structure and Properties of the 20GL Steel After Electric-Spark Alloying with Nickel and Molybdenum and Ultrasonic Impact Treatment",
+				"ru": "Структура и свойства стали 20ГЛ после электроискрового легирования никелем и молибденом и ультразвуковой ударной обработки"
+			},
+			"autors": {
+				"ua": "Г. І. Прокопенко, Б. М. Мордюк, П. Ю. Волосевич, С. П. Ворона, Т. В. Попова, Н. О. Піскун",
+				"en": "G. I. Prokopenko, B. M. Mordyuk, P. Yu. Volosevych, S. P. Vorona, T. V. Popova, and N. O. Piskun",
+				"ru": "Г. И. Прокопенко, Б. Н. Мордюк, П. Ю. Волосевич, С. П. Ворона, Т. В. Попова, Н. А. Пискун"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [209,243],
+			"title": {
+				"ua": "Формування нанорозмірної полігонізаційної субструктури та її вплив на фізико-механічні властивості металів, стопів і напорошених покриттів",
+				"en": "Formation of Polygonization Nanoscale Substructure and Its Impact on the Physical and Mechanical Properties of Metals, Alloys, and Sprayed Coatings",
+				"ru": "Формирование наноразмерной полигонизационной субструктуры и её влияние на физико-механические свойства металлов, сплавов и напылённых покрытий"
+			},
+			"autors": {
+				"ua": "О. М. Дубовий, А. А. Карпеченко, М. М. Бобров, О. О. Жданов, Т. О. Макруха, Ю. Є. Неделько",
+				"en": "O. M. Dubovyy, A. A. Karpechenko, M. M. Bobrov, O. O. Zhdanov, T. O. Makrukha, and Yu. E. Nedelko",
+				"ru": "А. Н. Дубовой, А. А. Карпеченко, М. Н. Бобров, А. А. Жданов, Т. А. Макруха, Ю. Е. Неделько"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [245,263],
+			"title": {
+				"ua": "Аномальні деформаційні властивості та ауксетичність монокристалів тригональної сингонії",
+				"en": "Abnormal Deformation Properties and Auxeticity of Single Crystals of Trigonal System",
+				"ru": "Аномальные деформационные свойства и ауксетичность монокристаллов тригональной сингонии"
+			},
+			"autors": {
+				"ua": "М. Д. Раранський, В. Н. Балазюк, М. М. Гунько, А. Я. Струк, В. Б. Гевик",
+				"en": "M. D. Raransky, V. N. Balazyuk, M. M. Gunko, A. Ya. Struk, and V. B. Gevyk",
+				"ru": "Н. Д. Раранский, В. Н. Балазюк, М. Н. Гунько, А. Я. Струк, В. Б. Гевик"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [265,284],
+			"title": {
+				"ua": "Моделювання кінетики режимів фраґментації матеріялів за інтенсивної пластичної деформації",
+				"en": "Modelling of Kinetics of Modes of a Fragmentation of Materials at a Severe Plastic Deformation",
+				"ru": "Моделирование кинетики режимов фрагментации материалов при интенсивной пластической деформации"
+			},
+			"autors": {
+				"ua": "О. В. Хоменко, Д. С. Трощенко, Л. С. Метлов",
+				"en": "O. V. Khomenko, D. S. Troshchenko, and L. S. Metlov",
+				"ru": "A. В. Хоменко, Д. С. Трощенко, Л. С. Метлов"
+			}
+		}
+	]
+}

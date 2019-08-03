@@ -1,0 +1,94 @@
+{
+	"_id":    "MFiNT.40.11.1453",
+	"year":   2018,
+	"volume": 40,
+	"issue":  11,
+	"pages":  [1453,1463],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["17.07.2018"],
+	"PACS":   "61.72.Hh, 61.72.Lk, 62.20.de, 62.20.dj, 62.40.+i, 65.40.De, 81.40.Jj",
+	"title":   {
+		"ua": "Особливості деформації в кристалах In у широкому інтервалі температур",
+		"en": "Features of Deformation in Crystals of Indium in a Wide Range of Temperatures",
+		"ru": "Особенности деформации в кристаллах In в широком интервале температур"
+	},
+	"abstract": {
+		"ua": "У роботі представлено результати дослідження просторово-температурних розподілів модулів Юнґа ($E$), компонент тензора Пуассонових коефіцієнтів $\\nu_{ij}$, коефіцієнтів термічного розширення $\\alpha_{ij}$, полів напруження та пружніх зміщень навколо крайових і ґвинтових дислокацій в індії у широкому температурному інтервалі (від кріогенних температур до температури топлення). Встановлено задовільну кореляцію просторово-температурних залежностей Пуассонових коефіцієнтів і коефіцієнтів теплового розширення між собою та з характеристичними поверхнями модуля Юнґа, що можна пояснити їхньою високою чутливістю до найменших змін у фононному спектрі In за різних температур і кристалографічних напрямків. Шляхом візуалізації просторового розподілу компонент тензора механічних напружень і вектора зміщень навколо дислокацій показано, що дефекти кристалічної будови в «нормальному» і «ауксетичному» індії мають різні механічні характеристики, які відрізняються як за величиною, так і за напрямком у кристалі та здатні ініціювати різну поведінку дефектів одного й того ж типу в зовнішніх температурно-силових полях, що особливо важливо враховувати при прогнозуванні механічних властивостей малорозмірних об’єктів (плівок, мікроконтактів, нанокристалів) з цього металу.",
+		"en": "The paper presents the results of the study of the spatial–temperature distribution of the Young’s modules ($E$), the components of Poisson’s-coefficient tensor, the coefficients of thermal expansion, stress fields and elastic displacements around edge and screw dislocations in indium in a wide temperature range (from cryogenic temperatures to melting one). The satisfactory correlation between the spatial–temperature dependences of the Poisson’s coefficients and the coefficients of thermal expansion between each other and the characteristic surfaces of the Young’s modulus is revealed that can be explained by their high sensitivity to the smallest changes in the phonon spectrum of this metal at different temperatures and in different crystallographic directions. By visualizing the spatial distribution of both the components of tensor of mechanical stresses and the displacement vector around the dislocations, it is shown that the defects of the crystalline structure in the ‘normal’ and ‘auxetic’ indium have different mechanical characteristics, which differ in both magnitude and direction in the crystal, and are able to initiate different behaviour of the same defects in external temperature–force fields that is especially important to take into account when predicting the mechanical properties of small-size objects (films, microcontacts, nanocrystals) based on this metal.",
+		"ru": "В работе представлены результаты исследования пространственно-температурных распределений модулей Юнга ($E$), компонент тензора коэффициентов Пуассона ($\\nu_{ij}$), коэффициентов термического расширения ($\\alpha_{ij}$), полей напряжения и упругих смещений вокруг краевых и винтовых дислокаций в индии в широком температурном диапазоне (от криогенных температур до температуры плавления). Установлена корреляция пространственно-температурных зависимостей коэффициентов Пуассона и коэффициентов теплового расширения между собой и с характеристическими поверхностями модуля Юнга, что можно объяснить их высокой чувствительностью к малейшим изменениям в фононном спектре этого металла при различных температурах и в различных кристаллографических направлениях. Путём визуализации пространственного распределения компонент тензора механических напряжений и вектора смещений вокруг дислокаций показано, что дефекты кристаллического строения в «нормальном» и «ауксетическом» индии имеют различные механические характеристики, которые отличаются как по величине, так и по направлению в кристалле и способны инициировать различное поведение во внешних температурно-силовых полях дефектов одного и того же типа."
+	},
+	"keywords": {
+		"ua": "Пуассонові коефіцієнти, температурно-просторовий розподіл, дислокації, індій",
+		"en": "Poisson’s coefficients, temperature–spatial distribution, dislocations, indium",
+		"ru": "коэффициенты Пуассона, температурно-пространственное распределение, дислокации, индий"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. Д. Раранський", "en": "M. D. Raransky", "ru": "Н. Д. Раранский"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "А. В. Олійнич-Лисюк", "en": "А. V. Oliynych-Lysyuk", "ru": "А. В. Олийнич-Лысюк"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "Р. Ю. Тащук", "en": "R. Yu. Tashchuk", "ru": "Р. Ю. Тащук"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "О. В. Лисюк", "en": "O. V. Lysyuk", "ru": "А. В. Лысюк"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "О. Ю. Тащук", "en": "O. Yu. Tashchuk", "ru": "А. Ю. Тащук"},
+			"OID": [215]
+		}
+	],
+	"references": {
+		"count": 8,
+		"list":  [
+			{
+				"doi": "10.1016/j.commatsci.2010.12.026",
+				"or":  "X. Cheng, C. Liu, and V. V. Silberschmidt, Comput. Mater. Sci., 52, Iss. 1: 274 (2012).",
+				"tr":  "X. Cheng, C. Liu, and V. V. Silberschmidt, Comput. Mater. Sci., 52, Iss. 1: 274 (2012)."
+			},
+			{
+				"doi": "10.1016/S0011-2275(67)80073-0",
+				"or":  "J. G. Collins, J. A. Cowan, and G. K. White, Cryogenics, 8, Iss. 1–4: 219 (1967).",
+				"tr":  "J. G. Collins, J. A. Cowan, and G. K. White, Cryogenics, 8, Iss. 1–4: 219 (1967)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. П. Сушкова, Г. В. Семенова, Е. Ю. Кононова, Вестник ВГУ. Сер. Химия. Биология. Фармация, № 2: 60 (2011).",
+				"tr":  "T. P. Sushkova, G. V. Semenova, and E. Yu. Kononova, Vestnik VGU. Ser. Khimiya. Biologiya. Farmatsiya, No. 2: 60 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Раранський, В. Балазюк, М. Гунько, Явище ауксетичності в твердих тілах (Чернівці: Арт: 2016).",
+				"tr":  "M. Raranskyy, V. Balazyuk, and M. Hunko, Yavyshche Auksetychnosti v Tverdykh Tilakh (Chernivtsi: Art: 2016) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Новикова, Тепловое расширение твёрдых тел (Москва: Наука: 1974).",
+				"tr":  "S. I. Novikova, Teplovoe Rasshirenie Tverdykh Tel (Moscow: Nauka: 1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Хирт, И. Лоте, Теория дислокаций (Москва: Атомиздат: 1972) (пер. с англ.).",
+				"tr":  "J. Hirth and J. Lothe, Teoriya Dislokatsiy (Moscow: Atomizdat: 1972) (Russian translation)."
+			},
+			{
+				"doi": "10.1016/0022-3697(77)90159-7",
+				"or":  "C. L. Vold, M. E. Glicksman, E. W. Kammer, and L. C. Cardinal, J. Phys. Chem. Solids, 38, Iss. 2: 157 (1977).",
+				"tr":  "C. L. Vold, M. E. Glicksman, E. W. Kammer, and L. C. Cardinal, J. Phys. Chem. Solids, 38, Iss. 2: 157 (1977)."
+			},
+			{
+				"doi": "10.7868/S0370274X17130082",
+				"or":  "Е. В. Гончарова, А. С. Макаров, Р. А. Кончаков, Н. П. Кобелев, В. А. Хоник, Письма в ЖЭТФ, 106, вып. 1: 39 (2017).",
+				"tr":  "E. V. Goncharova, A. S. Makarov, R. A. Konchakov, N. P. Kobelev, and V. A. Khonik, Pisma v ZhETF, 106, Iss. 1: 39 (2017) (in Russian)."
+			}
+		]
+	}
+}

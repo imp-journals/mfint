@@ -1,0 +1,169 @@
+{
+	"_id":    "MFiNT.40.12.1589",
+	"year":   2018,
+	"volume": 40,
+	"issue":  12,
+	"pages":  [1589,1602],
+	"rubric": 1,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["11.05.2018"],
+	"PACS":   "61.43.Dq, 65.40.De, 72.15.Cz, 72.15.Rn, 72.80.Ng, 75.50.Bb, 75.50.Kj",
+	"title":   {
+		"ua": "Дослідження електричних властивостей та структури аморфних стопів системи Fe–B–P–Nb–Cr",
+		"en": "Investigation of Electrical Properties and Structure of Amorphous Alloys of Fe–B–P–Nb–Cr System",
+		"ru": "Исследование электрических свойств и структуры аморфных сплавов системы Fe–B–P–Nb–Cr"
+	},
+	"abstract": {
+		"ua": "Досліджено температурні залежності електроопору аморфних стопів системи Fe–B–P–Nb–Cr у температурному інтервалі 77–846 К. Значення питомого електроопору виявилися дещо більшими, ніж для більшости магнетом’яких матеріялів на основі заліза; проте вони укладаються в загальні закономірності змін електроопору аморфних стопів. Високі значення питомого електроопору та малі значення температурного коефіцієнта електроопору разом з високими магнетними характеристиками зумовлюють можливості ефективної експлуатації таких матеріялів у магнетопроводах різного призначення.",
+		"en": "The temperature dependences of electrical resistance of Fe–B–P–Nb–Cr-system amorphous alloys are studied in the temperature range of 77–846 K. The values of their specific electrical resistance are somewhat higher than such values for the most of soft magnetic iron-based materials, but they are in accordance with general regularities of the electrical-resistance changes for amorphous alloys. The high values of specific electrical resistance and the small values of temperature coefficient of electrical resistance simultaneously with high magnetic characteristics determine the possibility of efficient use of such materials as magnetic conductors for various applications.",
+		"ru": "Исследованы температурные зависимости электросопротивления аморфных сплавов системы Fe–B–P–Nb–Cr в температурном интервале 77–846 К. Значения удельного электросопротивления оказались несколько больше, чем для большинства магнитомягких материалов на основе железа, однако они укладываются в общие закономерности изменений электросопротивления аморфных сплавов. Высокие значения удельного электросопротивления и малые значения температурного коэффициента электросопротивления вместе с высокими магнитными характеристиками обусловливают возможности эффективной эксплуатации таких материалов в магнитопроводах различного назначения."
+	},
+	"keywords": {
+		"ua": "аморфні стопи на основі заліза, домішки Nb та Cr, електроопір, температурний коефіцієнт електроопору",
+		"en": "amorphous iron-based alloys, Nb and Cr impurities, electrical resistance, temperature coefficient of electrical resistance",
+		"ru": "аморфные сплавы на основе железа, примеси Nb и Cr, электросопротивление, температурный коэффициент электросопротивления"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Є. І. Ярмощук", "en": "Ye. I. Yarmoshchuk", "ru": "Е. И. Ярмощук"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "Т. М. Міка", "en": "T. M. Mika", "ru": "Т. М. Мика"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Г. М. Зелінська", "en": "H. M. Zelinska", "ru": "Г. М. Зелинская"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. К. Носенко", "en": "V. K. Nosenko", "ru": "В. К. Носенко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. П. Семенько", "en": "M. P. Semen’ko", "ru": "М. П. Семенько"},
+			"OID": [201]
+		}
+	],
+	"references": {
+		"count": 23,
+		"list":  [
+			{
+				"doi": "10.1063/1.342149",
+				"or":  "Y. Yoshizawa, S. Oguma, and K. Yamauchi, J. Appl. Phys., 64: 6044 (1988).",
+				"tr":  "Y. Yoshizawa, S. Oguma, and K. Yamauchi, J. Appl. Phys., 64: 6044 (1988)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(96)10693-6",
+				"or":  "A. Makino, T. Hatanai, A. Inoue, and T. Masumoto, Mater. Sci. Eng. A, 226–228: 594 (1997).",
+				"tr":  "A. Makino, T. Hatanai, A. Inoue, and T. Masumoto, Mater. Sci. Eng. A, 226–228: 594 (1997)."
+			},
+			{
+				"doi": "10.1063/1.354555",
+				"or":  "K. Suzuki, A. Makino, A. Inoue, and T. Masumoto, J. Appl. Phys., 74: 3316 (1993).",
+				"tr":  "K. Suzuki, A. Makino, A. Inoue, and T. Masumoto, J. Appl. Phys., 74: 3316 (1993)."
+			},
+			{
+				"doi": "10.1109/TMAG.2002.802434",
+				"or":  "A. Hsiao, M. E. McHenry, D. E. Laughlin, M. J. Kramer, C. Ashe, and T. Ohkubo, IEEE Trans. Magn., 38: 3039 (2002).",
+				"tr":  "A. Hsiao, M. E. McHenry, D. E. Laughlin, M. J. Kramer, C. Ashe, and T. Ohkubo, IEEE Trans. Magn., 38: 3039 (2002)."
+			},
+			{
+				"doi": "10.1063/1.369804",
+				"or":  "M. A. Willard, M. Q. Haung, D. E. Laughlin, M. E. McHenry, J. O. Cross, V. G. Harris, and C. Franchetti, J. Appl. Phys., 85: 4421 (1999).",
+				"tr":  "M. A. Willard, M. Q. Haung, D. E. Laughlin, M. E. McHenry, J. O. Cross, V. G. Harris, and C. Franchetti, J. Appl. Phys., 85: 4421 (1999)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2011.01.215",
+				"or":  "H. Matsumoto, A. Urata, Y. Yamada, and A. Inoue, J. Alloys Compd., 509, Iss. Suppl. 1: S193 (2011).",
+				"tr":  "H. Matsumoto, A. Urata, Y. Yamada, and A. Inoue, J. Alloys Compd., 509, Iss. Suppl. 1: S193 (2011)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2010.03.029",
+				"or":  "H. Matsumoto, A. Urata, Y. Yamada, and A. Inoue, J. Alloys Compd., 504, Iss. Suppl. 1: S139 (2010).",
+				"tr":  "H. Matsumoto, A. Urata, Y. Yamada, and A. Inoue, J. Alloys Compd., 504, Iss. Suppl. 1: S139 (2010)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.654-656.1098",
+				"or":  "H. Matsumoto, A. Urata, Y. Yamada, and A. Inoue, Mater. Sci. Forum, 654–656: 1098 (2010).",
+				"tr":  "H. Matsumoto, A. Urata, Y. Yamada, and A. Inoue, Mater. Sci. Forum, 654–656: 1098 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "Amorfnye Metallicheskie Splavy (Ed. F. E. Lyuborskiy) (Moscow: Metallurgiya: 1987) (Russian translation).",
+				"tr":  "Amorfnye Metallicheskie Splavy (Ed. F. E. Lyuborskiy) (Moscow: Metallurgiya: 1987) (Russian translation)."
+			},
+			{
+				"doi": "10.1016/j.physb.2007.11.018",
+				"or":  "O. Touraghe, M. Khatami, A. Menny, H. Lassri, and K. Nouneh, Physica B, 403: 2093 (2008).",
+				"tr":  "O. Touraghe, M. Khatami, A. Menny, H. Lassri, and K. Nouneh, Physica B, 403: 2093 (2008)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2014.04.078",
+				"or":  "Ye. Yarmoshchuk, O. Nakonechna, M. Semenko, and M. Zakharenko, J. Magn. Magn. Mater., 367: 15 (2014).",
+				"tr":  "Ye. Yarmoshchuk, O. Nakonechna, M. Semenko, and M. Zakharenko, J. Magn. Magn. Mater., 367: 15 (2014)."
+			},
+			{
+				"doi": "10.1134/S0031918X12080169",
+				"or":  "M. I. Zakharenko, T. V. Kalnysh, and M. P. Semen’ko, Phys. Met. Metallogr., 113, No. 8: 762 (2012).",
+				"tr":  "M. I. Zakharenko, T. V. Kalnysh, and M. P. Semen'ko, Phys. Met. Metallogr., 113, No. 8: 762 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "Amorfnye Metallicheskie Splavy (Ed. V. V. Nemoshkalenko) (Kiev: Naukova Dumka: 1987) (in Russian).",
+				"tr":  "Amorfnye Metallicheskie Splavy (Ed. V. V. Nemoshkalenko) (Kiev: Naukova Dumka: 1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. P. Semen’ko, Metallofiz. Noveishie Tekhnol., 30, No. 7: 933 (2008) (in Ukrainian).",
+				"tr":  "M. P. Semen'ko, Metallofiz. Noveishie Tekhnol., 30, No. 7: 933 (2008) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.2.1631",
+				"or":  "R. Hasegava and C. C. Tsuei, Phys. Rev. B, 2, No. 6: 1631 (1970).",
+				"tr":  "R. Hasegava and C. C. Tsuei, Phys. Rev. B, 2, No. 6: 1631 (1970)."
+			},
+			{
+				"doi": "10.1016/S0921-4526(02)01703-9",
+				"or":  "S. Sayouria, R. Berrahoa, A. Moustaidea, K. Benbachira, A. Kaala, M. Tlemcani, and A. Berradab, Physica B, 327: 65 (2003).",
+				"tr":  "S. Sayouria, R. Berrahoa, A. Moustaidea, K. Benbachira, A. Kaala, M. Tlemcani, and A. Berradab, Physica B, 327: 65 (2003)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2006.04.036",
+				"or":  "A. K. Panda, S. Kumari, I. Chattoraj, M. Ghosh, and A. Mitra, J. Magn. Magn. Mater., 308, Iss. 1: 65 (2007).",
+				"tr":  "A. K. Panda, S. Kumari, I. Chattoraj, M. Ghosh, and A. Mitra, J. Magn. Magn. Mater., 308, Iss. 1: 65 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "M. I. Zakharenko, T. V. Kalnysh, M. V. Orlenko, and M. P. Semen’ko, Metallofiz. Noveishie Tekhnol., 34, No. 11: 1477 (2012) (in Ukrainian).",
+				"tr":  "M. I. Zakharenko, T. V. Kalnysh, M. V. Orlenko, and M. P. Semen'ko, Metallofiz. Noveishie Tekhnol., 34, No. 11: 1477 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.24.6801",
+				"or":  "N. Banerjee, R. Roy, and A. K. Majumdar, Phys. Rev. B, 24, No. 12: 6801 (1981).",
+				"tr":  "N. Banerjee, R. Roy, and A. K. Majumdar, Phys. Rev. B, 24, No. 12: 6801 (1981)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.33.4987",
+				"or":  "S. N. Kaul, W. Kettler, and M. Rosenberg, Phys. Rev. B, 33, No. 7: 4987 (1986).",
+				"tr":  "S. N. Kaul, W. Kettler, and M. Rosenberg, Phys. Rev. B, 33, No. 7: 4987 (1986)."
+			},
+			{
+				"doi": "10.1088/0957-4484/14/2/319",
+				"or":  "K. Pekala, J. Latuch, M. Pekala, I. Skorvanek, and P. Jaskiewicz, Nanotechnology, 14: 196 (2003).",
+				"tr":  "K. Pekala, J. Latuch, M. Pekala, I. Skorvanek, and P. Jaskiewicz, Nanotechnology, 14: 196 (2003)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.35.7153",
+				"or":  "S. N. Kaul, W. Kettler, and M. Rosenberg, Phys. Rev. B, 35, No. 13: 7153 (1987).",
+				"tr":  "S. N. Kaul, W. Kettler, and M. Rosenberg, Phys. Rev. B, 35, No. 13: 7153 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "M. I. Zakharenko, M. P. Semen’ko, and G. V. Yeremenko, Funct. Mater., 14, No. 1: 104 (2007).",
+				"tr":  "M. I. Zakharenko, M. P. Semen'ko, and G. V. Yeremenko, Funct. Mater., 14, No. 1: 104 (2007)."
+			}
+		]
+	}
+}

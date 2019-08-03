@@ -1,0 +1,97 @@
+{
+	"year":   2017,
+	"volume": 39,
+	"issue":  12,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1589,1598],
+			"title": {
+				"ua": "Cтруктурний стан литих високоентропійних стопів з ГЦК-ґратнецею та його вплив на характеристики твердости",
+				"en": "Structural State of Cast High-Entropy Alloys with F.C.C. Lattice and Its Influence on the Hardness Characteristics",
+				"ru": "Структурное состояние литых высокоэнтропийных сплавов с ГЦК-решёткой и его влияние на характеристики твёрдости"
+			},
+			"autors": {
+				"ua": "О. М. Мисливченко, В. Ф. Горбань, М. О. Крапівка",
+				"en": "O. M. Myslyvchenko, V. F. Gorban’, and M. O. Krapivka",
+				"ru": "А. Н. Мысливченко, В. Ф. Горбань, Н. А. Крапивка"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1599,1646],
+			"title": {
+				"ua": "Еволюція структури та властивостей диференційовано загартованих рейок в процесі тривалої експлуатації",
+				"en": "Evolution of Structure and Properties of Differentially Quenched Rails During Long-Term Operation",
+				"ru": "Эволюция структуры и свойств дифференцированно закалённых рельсов в процессе длительной эксплуатации"
+			},
+			"autors": {
+				"ua": "В. Є. Громов, А. О. Юр’єв, Ю. Ф. Іванов, С. В. Коновалов, О. О. Перегудов",
+				"en": "V. E. Gromov, A. A. Yur’ev, Yu. F. Ivanov, S. V. Konovalov, and O. A. Peregudov",
+				"ru": "В. Е. Громов, А. А. Юрьев, Ю. Ф. Иванов, С. В. Коновалов, О. А. Перегудов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1647,1654],
+			"title": {
+				"ua": "Матеріял для зміцнення вхідних крайок робочих лопаток парових турбін",
+				"en": "Material for Strengthening of Entrance Edges of Work Blades of Stream Turbines",
+				"ru": "Материал для упрочнения входных кромок рабочих лопаток паровых турбин"
+			},
+			"autors": {
+				"ua": "Д. Б. Глушкова, О. Д. Грінченко, Л. Л. Костіна, С. В. Демченко, Ю. В. Рижков",
+				"en": "D. B. Glushkova, E. D. Grinchenko, L. L. Kostina, S. V. Demchenko, and Yu. V. Ryzhkov",
+				"ru": "Д. Б. Глушкова, О. Д. Гринченко, Л. Л. Костина, С. В. Демченко, Ю. В. Рыжков"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [1655,1667],
+			"title": {
+				"ua": "Аналіза корозії металів в умовах механічних впливів і аґресивних середовищ",
+				"en": "Analysis of Metal Corrosion under Conditions of Mechanical Impacts and Aggressive Environments",
+				"ru": "Анализ коррозии металлов в условиях механических воздействий и агрессивных сред"
+			},
+			"autors": {
+				"ua": "В. Н. Юзевич, Р. Н. Джала, Б. П. Коман",
+				"en": "V. M. Yuzevych, R. M. Dzhala, and B. P. Koman",
+				"ru": "В. Н. Юзевич, Р. М. Джала, Б. П. Коман"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  2,
+			"pages":  [1669,1691],
+			"title": {
+				"ua": "Статистична теоретична модель динамічної Бреґґової дифракції в двошаровій кристалічній системі з аморфним поверхневим шаром",
+				"en": "Statistical Theoretical Model of Dynamical Bragg Diffraction in a Two-Layer Crystalline System with an Amorphous Surface Layer",
+				"ru": "Статистическая теоретическая модель динамической дифракции Брэгга в двухслойной кристаллической системе с аморфным поверхностным слоем"
+			},
+			"autors": {
+				"ua": "С. В. Дмітрієв, С. В. Лізунова, М. Г. Толмачов, Б. В. Шелудченко, О. С. Скакунова, В. Б. Молодкін, В. В. Лізунов, І. Е. Голентус, А. Г. Карпов, О. Г. Войток, В. П. Почекуєв, С. П. Репецький, І. Г. Вишивана, Л. М. Скапа, О. В. Барабаш, Г. О. Веліховський",
+				"en": "S. V. Dmitriev, S. V. Lizunova, M. G. Tolmachev, B. V. Sheludchenko, O. S. Skakunova, V. B. Molodkin, V. V. Lizunov, I. E. Golentus, A. G. Karpov, O. G. Voitok, V. P. Pochekuev, S. P. Repetsky, I. G. Vyshyvana, L. M. Skapa, O. V. Barabash, and G. O. Velikhovskii",
+				"ru": "С. В. Дмитриев, С. В. Лизунова, Н. Г. Толмачов, Б. В. Шелудченко, Е. С. Скакунова, В. Б. Молодкин, В. В. Лизунов, И. Е. Голентус, А. Г. Карпов, О. Г. Войток, В. П. Почекуев, С. П. Репецкий, И. Г. Вышивана, Л. Н. Скапа, О. В. Барабаш, Г. О. Велиховский"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [1693,1706],
+			"title": {
+				"ua": "Заміщення йонів Кальцію йонами 3$d$-металів та Mg в структурі апатиту",
+				"en": "Substitution of Calcium Ions by Ions of 3$d$-Metals and Mg in the Structure of Apatite",
+				"ru": "Замещение ионов кальция ионами 3$d$-металлов и Mg в структуре апатита"
+			},
+			"autors": {
+				"ua": "Н. А. Курган, Л. И. Карбівська, В. Л. Карбівський",
+				"en": "N. A. Kurgan, L. I. Karbіvska, and V. L. Karbivskyy",
+				"ru": "Н. А. Курган, Л. И. Карбовская, В. Л. Карбовский"
+			}
+		}
+	]
+}

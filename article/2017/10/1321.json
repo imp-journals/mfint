@@ -1,0 +1,148 @@
+{
+	"_id":    "MFiNT.39.10.1321",
+	"year":   2017,
+	"volume": 39,
+	"issue":  10,
+	"pages":  [1321,1334],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["09.08.2017"],
+	"PACS":   "28.41.Bm, 61.82.Bg, 62.20.fq, 62.20.Hg, 62.23.Pq, 81.05.Ni, 81.40.Lm",
+	"title":   {
+		"ua": "Опір мікроплазучости та тривала міцність стопів на основі цирконію з нанофазним зміцненням",
+		"en": "Microcreep-Resistance and Long-Term Strength of the Zirconium-Based Alloys with Nanophase Strengthening",
+		"ru": "Сопротивление микроползучести и длительная прочность сплавов на основе циркония с нанофазным упрочнением"
+	},
+	"abstract": {
+		"ua": "Характер дисперсного зміцнення стопів на основі цирконію в системі Zr–1,5Sn–1Nb, які містять часточки ZrO$_2$ (< 5 нм), було вивчено у вихідному виливаному (після електродугового витоплювання) та деформованому станах, з використанням РФЕС, електронної мікроскопії й експериментів зі стрибком напруги. Одержані результати свідчать про те, що при 673 К нанозміцнений стоп має більший опір плазучості, ніж старіючі стопи. Опір плазучості та тривала міцність істотно підвищуються при зростанні концентрації наночастинок ZrO$_2$ в інтервалі від 0,5% до 1,2% внаслідок термічного опору їх гетерофазної структури. В якості найбільш ймовірного механізму нанодисперсного зміцнення вказаних стопів розглядається подібний до раніше відомого, що відповідає теоретичній Rosler–Azrt–Wilkinson-концепції, механізм термічно активованого відриву міжфазних дислокацій від дисперсоїдів. Одержані дані можуть бути корисними при виготовленні ТВЕЛів (оболонкових труб) для ядерної енергетики.",
+		"en": "Dispersion strengthening behaviour of zirconium-based alloys of the Zr–1.5Sn–1Nb system containing nanoparticles of ZrO$_2$ (less than 5 nm) is studied in the as-cast (after electro-arc melting) and wrought conditions using X-ray photoelectron spectroscopy, electron microscopy as well as constant-rate tensile tests and differential-stress creep experiments. The obtained results indicate that nanostrengthened alloys at 673 K are more creep resistant than their age-hardened and precipitation strengthening counterparts. Their features have substantial desirable improvements in creep resistance and long-term strength with increasing of ZrO$_2$-nanoparticles’ concentration in a range from 0.3% to 1.2% due to the greater thermal resistance of their heterogeneous structure. The most probable mechanism of nanodispersion strengthening is assumed similar to known one as thermally activated detachment of interfacial dislocations from dispersoids according to current theoretical Rosler–Azrt–Wilkinson concept. These results could be useful for manufacturing the fuel elements (clad tubes) for the nuclear power engineering.",
+		"ru": "Характер дисперсного упрочнения циркониевых сплавов системы Zr–1,5Sn–1Nb с содержанием частиц ZrO$_2$ (< 5 нм) был изучен в исходном литом (после электродуговой плавки) и деформированном состояниях. Для этого использовались методы РФЭС и ТЭМ с оценкой скоростной чувствительности напряжений при длительном нагружении в условиях релаксации. Полученные результаты показывают, что при 673 К, по сравнению со стареющими сплавами, наноупрочнённые сплавы обладают большим сопротивлением ползучести. При этом сопротивление ползучести и длительная прочность существенно повышаются с концентрацией наноразмерных частиц ZrO$_2$ в интервале от 0,5% до 1,2% из-за роста термического сопротивления их гетерофазной структуры. Термически активированное распределение межфазных дислокаций от дисперсоидов считается наиболее вероятным механизмом нанодисперсного упрочнения указанных сплавов в полном соответствии с известной термической Rosler–Azrt–Wilkinson-моделью. Полученные данные могут быть полезными при изготовлении ТВЭЛов (оболочечных труб) для ядерной энергетики."
+	},
+	"keywords": {
+		"ua": "нанофазне зміцнення, дисперсне зміцнення, міцність, пластичність, плазучість",
+		"en": "nanophase strengthening, dispersive strengthening, strength, plasticity, creep",
+		"ru": "нанофазное упрочнение, дисперсное упрочнение, прочность, пластичность, ползучесть"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Г. Ткаченко", "en": "V. G. Tkachenko", "ru": "В. Г. Ткаченко"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "О. І. Кондрашев", "en": "O. I. Kondrashev", "ru": "А. И. Кондрашев"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "О. М. Малка", "en": "O. M. Malka", "ru": "А. Н. Малка"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "П. М. Романко", "en": "P. M. Romanko", "ru": "П. М. Романко"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "О. І. Дехтяр", "en": "O. I. Dekhtyar", "ru": "А. И. Дехтяр"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. І. Бондарчук", "en": "V. I. Bondarchuk", "ru": "В. И. Бондарчук"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 18,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "А. С. Займовский, А. В. Никулина, Н. Т. Решетников, Циркониевые сплавы в ядерной энергетике (Москва: Энергоатомиздат: 1994).",
+				"tr":  "A. S. Zaymovskiy, A. V. Nikylina, and N. T. Reshetnikov, Tsirkoniyevye Splavy v Yadernoy Energetike [Zirconium Alloys in Nuclear Power Engineering] (Moscow: Energoatomizdat: 1994) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. И. Портной, Б. Н. Бабич, Дисперсноупрочнённые материалы (Москва: Металлургия: 1974).",
+				"tr":  "K. I. Portnoy and B. N. Babich, Dispersnouprochnennye Materialy [Dispersion-Strengthened Materials] (Moscow: Metallurgiya: 1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Н. Демидик, А. С. Драчинский, И. И. Иванова, А. В. Перепёлкин, Ю. Н. Подрезов, Г. Ф. Саржан, В. И. Трефилов, И. М. Федорченко, С. А. Фирстов, Порошковая металлургия, № 7: 69 (1983).",
+				"tr":  "A. N. Demidik, A. S. Drachinskiy, I. I. Ivanova, A. V. Perepyolkin, Yu. N. Podrezov, G. F. Sarzhan, V. I. Trefilov, I. M. Fedorchenko, and S. A. Firstov, Poroshkovaya Metallurgiya, No. 7: 69 (1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Д. Коротаев, А. Н. Тюменцев, В. Ф. Суховаров, Дисперсное упрочнение тугоплавких металлов (Новосибирск: Наука: 1989).",
+				"tr":  "A. D. Korotaev, A. N. Tyumentsev, and V. F. Sukhovarov, Dispersnoe Uprochneniye Tugoplavkikh Metallov [Dispersion-Strengthening of Refractory Metals] (Novosibirsk: Nauka: 1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Ткаченко, А. И. Кондрашев, Е. В. Дудник, П. М. Романко, М. С. Глабай, Наноструктурное материаловедение, № 3–4: 49 (2014).",
+				"tr":  "V. G. Tkachenko, A. I. Kondrashev, E. V. Dudnik, P. M. Romanko, and M. S. Glabay, Nanostrukturnoe Materialovedenie, Nos. 3–4: 49 (2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Нефедов, Рентгеноэлектронная спектроскопия химических соединений (Москва: Химия: 1984).",
+				"tr":  "V. I. Nefedov, Rentgenoelektronnaya Spektroskopiya Khimicheskikh Soedineniy [X-Ray Photoelectron Spectroscopy of Chemical Compounds] (Moscow: Khimiya: 1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Физическое металловедение (Ред. Р. У. Кан, П. Т. Хаазен) (Москва: Металлургия: 1987), т. 3.",
+				"tr":  "Fizicheskoe Metallovedenie [Physical Metallurgy] (Eds. R. W. Cahn and P. T. Haasen) (Moscow: Metallurgiya: 1987), vol. 3 (Russian translation)."
+			},
+			{
+				"doi": "10.1016/0001-6160(81)90172-3",
+				"or":  "W. A. Spitzig, Acta Metallurgica, 29, Iss. 8: 1359 (1981).",
+				"tr":  "W. A. Spitzig, Acta Metallurgica, 29, Iss. 8: 1359 (1981)."
+			},
+			{
+				"doi": "10.1016/0001-6160(69)90062-5",
+				"or":  "R. L. Jones, Acta Metallurgica, 17, Iss. 3: 229 (1969).",
+				"tr":  "R. L. Jones, Acta Metallurgica, 17, Iss. 3: 229 (1969)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. А. Веденяпин, Ю. А. Душин, Л. И. Емильянова, Л. Ф. Новиков, Г. Н. Пархута, Физ. мет. металловед., 47, № 5: 972 (1979).",
+				"tr":  "G. A. Vedenyapin, Yu. A. Dushin, L. I. Emil'yanova, L. F. Novikov, and G. N. Parkhuta, Fizika Metallov i Metallovedenie, 47, No. 5: 972 (1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "P. S. Gilman, The Physical Metallurgy of Mechanically Alloyed Dispersion Strengthened Al–Li–Mg and Al–Li–Cu Alloys. Aluminum–Lithium Alloys (Eds. T. H. Sanders and E. A. Starke) (Monterey, CA: 1983).",
+				"tr":  "P. S. Gilman, The Physical Metallurgy of Mechanically Alloyed Dispersion Strengthened Al–Li–Mg and Al–Li–Cu Alloys. Aluminum–Lithium Alloys (Eds. T. H. Sanders and E. A. Starke) (Monterey, CA: 1983)."
+			},
+			{
+				"doi": "",
+				"or":  "Ж. Фридель, Дислокации (Москва: Мир: 1967).",
+				"tr":  "J. Friedel, Dislokatsii [Dislocations] (Moscow: Mir: 1967) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "M. E. Kassner, Fundamentals of Creep in Metals and Alloys (Oxford: Butterworth-Heinemann: 2015).",
+				"tr":  "M. E. Kassner, Fundamentals of Creep in Metals and Alloys (Oxford: Butterworth-Heinemann: 2015)."
+			},
+			{
+				"doi": "10.1016/0001-6160(86)90247-6",
+				"or":  "E. Arzt and D. S. Wilkinson, Acta Metallurgica, 34, Iss. 10: 1893 (1986).",
+				"tr":  "E. Arzt and D. S. Wilkinson, Acta Metallurgica, 34, Iss. 10: 1893 (1986)."
+			},
+			{
+				"doi": "10.1016/0956-7151(90)90223-4",
+				"or":  "J. Rösler and E. Arzt, Acta Metallurgica et Materialia, 38, Iss. 4: 671 (1990).",
+				"tr":  "J. Rösler and E. Arzt, Acta Metallurgica et Materialia, 38, Iss. 4: 671 (1990)."
+			},
+			{
+				"doi": "10.1007/BF03378292",
+				"or":  "H. Conrad, J. Metals, 16, Iss. 7: 582 (1964).",
+				"tr":  "H. Conrad, J. Metals, 16, Iss. 7: 582 (1964)."
+			},
+			{
+				"doi": "10.1007/s10853-011-5400-4",
+				"or":  "V. G. Tkachenko, K. H. Kim, B. G. Moon, and A. S. Vovchok, J. Mater. Sci., 46, Iss. 14: 4880 (2011).",
+				"tr":  "V. G. Tkachenko, K. H. Kim, B. G. Moon, and A. S. Vovchok, J. Mater. Sci., 46, Iss. 14: 4880 (2011)."
+			},
+			{
+				"doi": "10.1016/j.jnucmat.2007.08.019",
+				"or":  "I. Charit and K. L. Murty, J. Nucl. Mater., 374, Iss. 3: 354 (2008).",
+				"tr":  "I. Charit and K. L. Murty, J. Nucl. Mater., 374, Iss. 3: 354 (2008)."
+			}
+		]
+	}
+}

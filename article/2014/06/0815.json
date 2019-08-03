@@ -1,0 +1,116 @@
+{
+	"_id":    "MFiNT.36.06.0815",
+	"year":   2014,
+	"volume": 36,
+	"issue":  6,
+	"pages":  [815,827],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["15.01.2014","03.04.2014"],
+	"PACS":   "07.30.Hd, 07.30.Kf, 81.05.Je, 81.05.Mh, 81.20.Vj",
+	"title":   {
+		"ua": "Дослідження процесів взаємодії титановмісних припоїв з оксидною керамікою і коваром",
+		"en": "Study of the Interaction Processes of Ti-Containing Solders with Oxide Ceramics and Kovar",
+		"ru": "Исследование процессов взаимодействия титаносодержащих припоев с оксидной керамикой и коваром"
+	},
+	"abstract": {
+		"ua": "У сучасній промисловості широко використовуються металокерамічні вироби, зокрема, гермовводи вакуумних установок електронно-променевого зварювання, які виготовляють паянням або дифузійним зварюванням. При виготовленні зазначених вузлів доводиться розв’язувати низку проблем, що пов’язані з наявністю залишкових власних напружень, спричинених відмінністю термічних коефіцієнтів лінійного розширення металу і кераміки, а також поганою змочуваністю поверхні кераміки лютою. Для зниження залишкових напружень і підвищення якості паяння в конструкціях гермовводів використовують узгоджені матеріали і люту з високою адгезійною активністю. Однак у літературних джерелах недостатньо розглянуто характеристики змочування і розтікання зазначених лютей по ковару і кераміці, відсутні результати детальних досліджень фазового складу і властивостей паяних з’єднань з використанням лютей і стопів на основі системи Cu—Ti. У цьому зв’язку в даній роботі досліджено характеристики змочування лютою СТЕМЕТ-1203 і лютою Cu—Ti, яка формувалася в процесі контактно-реактивного топлення фольги титану і міді (50%Ti—50%Cu за об’ємом), ковару 29НК, кераміки ВК94-1 і муліту (3Al$_{2}$O$_{3}$—2SiO$_{2}$), вивчено властивості паяних з’єднань з метою оптимізації технології паяння металокерамічних високовольтних гермовводів електронно-променевих гармат вакуумних установок для зварювання і напорошення. На підставі одержаних результатів можна зробити висновок про те, що для виготовлення металокерамічних гермовводів оптимальним є поєднання ковар 29НК—кераміка ВК 94-1. Використання для паяння гермовводів припою Ti—Cu уможливлює одержати підвищення адгезійної активності порівняно з припоєм СТЕМЕТ-1203 і знизити температуру паяння на 60—90°C. Таким чином, твердість плавно збільшується від ковару до кераміки, що, ймовірно, сприяє зниженню рівня власних напружень у паяному з’єднанні. Характер розподілу хімічних елементів у паяних з’єднаннях забезпечує утворення міцного пластичного шва без наявних макро- і мікродефектів. Якість паяння металокерамічних гермовводів визначається вакуумною щільністю швів і електроопором між керамічними і металевими елементами деталі. У нашому випадку герметичність паяння підтверджується мас-спектрометричним методом. Електроопір між керамічними і металевими елементами гермовводу складає понад 15 ГОм при напрузі 1 кВ.",
+		"en": "The ceramic—metal products such as pressure seals of electron-beam welding vacuum plants are widely used in modern industry. These seals are fabricated by brazing or diffusion welding. Fabricating this type of units, one should take into account a number of issues connected with presence of residual welding stresses caused by difference between linear thermal-expansion coefficients of metal and ceramic as well as poor ceramic surface wetting with brazes. Therefore, matching materials and brazes with high adhesive activity are used in pressure seal constructions to decrease residual stresses and improve brazing quality. However, the features of braze wetting and flowing on kovar and ceramics are not enough presented in literature, and no results of detailed studies of phase composition and features of soldered joints using brazes and alloys based on Cu—Ti system are presented. In this paper, we examine features of wetting with STEMET-1203 braze and Cu—Ti braze, which is formed during contact-reacting soldering of titanium and copper foil (50% Ti by 50% Cu in volume), kovar 29NK, ceramics VK 94-1 and mullite (3Al$_{2}$O$_{3}$—2SiO$_{2}$), study the features of brazed joint to optimize soldering technologies for pressure seals of metal-ceramics electron-beam gun high-voltage vacuum plants for welding and sputtering. Based on obtained results, we can conclude that the kovar 29NK—ceramics VK 94-1 combination is optimal for metal-ceramics pressure seal production. The usage of pressure seal soldering with braze Ti—Cu enables to improve adhesive activity in comparison with STEMET-1203 braze and to reduce the soldering temperature by 60—90°C. Thereby, hardness is gradually increasing from kovar to ceramics and thus may promote the inherent-stresses’ level decrease in brazed joints. The chemical-elements’ pattern in brazed joint promotes formation of fast plastic seam without noticeable macro- and microdefects. The quality of metal-ceramics pressure seal brazing is determined with joint vacuum tightness and electrical resistance between ceramics and metal elements of detail. In this case, the braze impermeability is confirmed by mass-spectrometric method. The electrical resistivity between ceramics and metal pressure seal elements is over 15 G$\\Omega$ at the 1 kV voltage.",
+		"ru": "В современной промышленности широко используются металлокерамические изделия, в частности, гермовводы вакуумных установок электроннолучевой сварки, которые изготавливаются пайкой или диффузионной сваркой. При изготовлении подобных узлов приходится решать ряд проблем, связанных с наличием остаточных собственных напряжений, вызванных различием термических коэффициентов линейного расширения металла и керамики, а также плохой смачиваемостью поверхности керамики припоями. Для снижения остаточных напряжений и повышения качества пайки в конструкциях гермовводов используют согласованные материалы и припои с высокой адгезионной активностью. Однако в литературных источниках недостаточно рассмотрены характеристики смачивания и растекания указанных припоев по ковару и керамике, отсутствуют результаты детальных исследований фазового состава и свойств паяных соединений с использованием припоев и сплавов на основе системы Cu—Ti. В этой связи в данной работе исследованы характеристики смачивания припоем СТЕМЕТ-1203 и припоем Cu—Ti, который формировался в процессе контактно-реактивного плавления фольги титана и меди (50% Ti—50% Cu по объёму), ковара 29НК, керамики ВК 94-1 и муллита (3Al$_{2}$O$_{3}$—2SiO$_{2}$), изучены свойства паяных соединений с целью оптимизации технологии пайки металлокерамических высоковольтных гермовводов электронно-лучевых пушек вакуумных установок для сварки и напыления. На основании полученных результатов можно сделать вывод о том, что для изготовления металлокерамических гермовводов оптимальным является сочетание ковар 29НК—керамика ВК 94-1. Использование для пайки гермовводов припоя Ti—Cu позволяет получить повышение адгезионной активности по сравнению с припоем СТЕМЕТ-1203 и снизить температуру пайки на 60—90°C. Таким образом, твёрдость плавно увеличивается от ковара к керамике, что, вероятно, способствует снижению уровня собственных напряжений в паяном соединении. Характер распределения химических элементов в паяных соединениях обеспечивает образование прочного пластичного шва без видимых макро- и микродефектов. Качество пайки металлокерамических гермовводов определяется вакуумной плотностью швов и электросопротивлением между керамическими и металлическими элементами детали. В нашем случае герметичность пайки подтверждается масс-спектрометрическим методом; электросопротивление между керамическими и металлическими элементами гермоввода составляет более 15 ГОм при напряжении 1 кВ."
+	},
+	"keywords": {
+		"ua": "хімічний склад, фазовий склад, мікротвердість, змочування, розтікання, оксидна кераміка, ковар, титановмісні припої, гермоввод, активне лютування",
+		"en": "chemical composition, phase composition, microhardness, wetting, flowing, oxide ceramics, Kovar, Ti-based brazes, pressure seal, active brazing",
+		"ru": "химический состав, фазовый состав, микротвёрдость, смачивание, растекание, оксидная керамика, ковар, титаносодержащие припои, гермоввод, активная пайка"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. М. Костін", "en": "O. M. Kostin", "ru": "А. М. Костин"},
+			"OID": [31]
+		},
+		{
+			"AID": {"ua": "Ал. В. Лабарткава", "en": "Al. V. Labartkava", "ru": "Ал. В. Лабарткава"},
+			"OID": [31]
+		},
+		{
+			"AID": {"ua": "В. А. Мартиненко", "en": "V. A. Martynenko", "ru": "В. А. Мартыненко"},
+			"OID": [31]
+		}
+	],
+	"references": {
+		"count": 14,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "В. К. Лебедев, С. И. Кучук-Яценко, А. И. Чвертко, Машиностроение (Ред. Б. Е. Патон) (Киев: Машиностроение: 2006), т. ІІІ-4.",
+				"tr":  "V. K. Lebedev, S. I. Kuchuk-Yatsenko, and A. I. Chvertko, Mashinostroenie (Machine Building) (Ed. B. E. Paton) (Kyiv: Mashinostroenie: 2006), vol. III-4 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Бачин, В. Ф. Квасницкий, Д. И. Котельников, В. Г. Новиков, Г. П. Полушкин, Теория, технология и оборудование диффузионной сварки (Москва: Машиностроение: 1991).",
+				"tr":  "V. A. Bachin, V. F. Kvasnitskiy, D. I. Kotelnikov, V. G. Novikov, and G. P. Polushkin, Teoriya, Tekhnologiya i Oborudovanie Diffuzionnoy Svarki (Theory, Technology and Equipment for Diffusion Welding) (Moscow: Mashinostroenie: 1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Журавлёв, Н. Ю. Таранец, А. Ю. Коваль, М. В. Карпец, Ю. В. Найдич, Збірник наукових праць НУК, № 3: 38 (2009).",
+				"tr":  "V. S. Zhuravlyov, N. Yu. Taranets, A. Yu. Koval, M. V. Karpets, and Yu. V. Naydich, Zbirnyk Naukovykh Prats' NUK, No. 3: 38 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В Квасницкий, Ал. В. Лабарткава, Проблеми техніки, № 1: 82 (2009).",
+				"tr":  "V. V Kvasnitskiy and Al. V. Labartkava, Problemy Tekhniki, No. 1: 82 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Квасницкий, А. М. Костин, А. В. Лабарткава, Ал. В. Лабарткава, Матеріали VI науково-технічної конференції молодих учених та спеціалістів «Зварювання та споріднені технології» (25–27 травня 2011 р., Київ), с. 36.",
+				"tr":  "V. V. Kvasnitskiy, A. M. Kostin, A. V. Labartkava, and Al. V. Labartkava, Materialy VI Naukovo-Tekhnichnoyi Konferentsiyi Molodykh Uchenykh ta Spetsialistiv 'Zvaryuvannya ta Sporidneni Tekhnologiyi' (25–27 May 2011, Kyiv), p. 36 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Бушков, Л. В. Козловский, В. С. Хейфец, Адгезия расплавов и пайка материалов, № 8: 67 (1981).",
+				"tr":  "A. A. Bushkov, L. V. Kozlovskiy, and V. S. Heyfets, Adheziya Rasplavov i Payka Materialov, No. 8, 67 (1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Найдич, Т. В. Сидоренко, А. В. Дуров, Адгезия расплавов и пайка материалов, № 40: 63 (2007).",
+				"tr":  "Yu. V. Naydich, T. V. Sidorenko, and A. V. Durov, Adheziya Rasplavov i Payka Materialov, No. 40: 63 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Барабанов, Е. И. Егорова, В. И. Лисогорский, В. В. Паничкина, В. В. Скороход, Адгезия расплавов и пайка материалов, № 4: 94 (1979).",
+				"tr":  "V. E. Barabanov, E. I. Egorova, V. I. Lisogorskiy, V. V. Panichkina, and V. V. Skorokhod, Adheziya Rasplavov i Payka Materialov, No. 4: 94 (1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Квасницький, В. В. Квасницький, О. М. Костін, Г. В. Ермолаев, Б. В. Бугаєнко, О. В. Лабарткава, А. В. Лабарткава, Спосіб паяння оксидної кераміки з металом, Патент на корисну модель № 72197 (Опубліковано 10 серпня 2012 р.) (Бюл. № 15).",
+				"tr":  "V. F. Kvasnitskiy, V. V. Kvasnitskiy, O. M. Kostin, G. V. Ermolaev, B. V. Bugaenko, O. V. Labartkava, and A. V. Labartkava, Sposib Payannya Oksidnoyi Keramiki z Metalom, Patent na Korysnu Model No. 72197 (Published August 10, 2012) (Bul. No. 15) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Квасницький, В. В. Квасницький, О. М. Костін, Б. В. Бугаєнко, Спосіб паяння металокерамічних вузлів, Патент на корисну модель № 67071 (Опубліковано 25 січня 2012) (Бюл. № 2).",
+				"tr":  "V. F. Kvasnitskiy, V. V. Kvasnitskiy, O. M. Kostin, B. V. Bugaenko, and O. V. Labartkava, Sposib Payannya Metalokeramichnykh Vuzliv, Patent na Korysnu Model No. 67071 (Published January 25, 2012) (Bul. No. 2) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1179/174328406X102435",
+				"or":  "Z. S. Yu, P. Yang, R. F. Li, and K. Qi, Materials Science and Technology, 22, Iss. 7: 864 (2006).",
+				"tr":  "Z. S. Yu, P. Yang, R. F. Li, and K. Qi, Materials Science and Technology, 22, Iss. 7: 864 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Пономарев, Припой для пайки изделий электронной техники, Патент Российской Федерации № 2058872 (Опубликовано 27 апреля 1996).",
+				"tr":  "V. A. Ponomarev, Pripoy dlya Payki Izdeliy Elektronnoy Tekhniki, Patent of Russian Federation No. 2058872 (Published April 27, 1996) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Диаграммы состояния двойных металлических систем (Ред. Н. П. Лякишев) (Москва: Машиностроение: 1997), т. 2.",
+				"tr":  "Diagrammy Sostoyaniya Dvoynykh Metallicheskikh Sistem (State Diagrams of Binary Metal Systems) (Ed. N. P. Lyakishev) (Moscow: Mashinostroenie: 1997), vol. 2 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. І. Махненко, Г. В. Єрмолаєв, В. В. Квасницький, А. В. Лабарткава, Напруження та деформації при зварюванні (Миколаїв: Видавництво НУК: 2011).",
+				"tr":  "V. I. Makhnenko, G. V. Yermolayev, V. V. Kvasnitskiy, and A. V. Labartkava, Napruzhennya ta Deformatsyi pri Zvaryuvanni (Stresses and Strains at Welding) (Mykolayiv: NUK: 2011) (in Ukrainian)."
+			}
+		]
+	}
+}

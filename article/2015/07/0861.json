@@ -1,0 +1,115 @@
+{
+	"_id":    "MFiNT.37.07.0861",
+	"year":   2015,
+	"volume": 37,
+	"issue":  7,
+	"pages":  [861,870],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["03.12.2014","20.05.2015"],
+	"PACS":   "61.80.Ba, 68.37.Hk, 68.47.Gh, 68.55.Nq, 81.65.Mq, 81.65.Rv, 82.80.Pv",
+	"title":  {
+		"ua": "Вплив імпульсного лазерного випромінювання на склад поверхневих шарів титанового стопу ВТ6",
+		"en": "Influence of Pulse Laser Radiation on a Composition of the Surface Layers of Titanium Ti—6Al—4V Alloy",
+		"ru": "Влияние импульсного лазерного излучения на состав поверхностных слоёв титанового сплава ВТ6"
+	},
+	"abstract": {
+		"ua": "Методою Рентґенової фотоелектронної спектроскопії досліджено склад приповерхневого шару титанового стопу ВТ6 після імпульсного лазерного (Nd:YAG) оброблення на повітрі. Одержані дані свідчать про інтенсивне окиснення поверхні з утворенням шару, що містить суміш оксидів ТіО$_{2}$, Ті$_{2}$О$_{3}$, Al$_{2}$O$_{3}$, VO$_{1+x}$ і поверхневі карбіди Ti—C, Al—C, V—C. Встановлено, що лазерне опромінення стопу ВТ6 на повітрі спричиняє істотну зміну поверхневого електрохімічного потенціялу в розчині штучної слини, що зумовлено підвищенням корозійної стійкости модифікованої поверхні.",
+		"en": "X-ray photoelectron spectroscopy is applied to study the composition of the surface layer of a titanium Ti—6Al—4V alloy after pulsed (Nd:YAG) laser treatment in air. The obtained data provide evidence of intensive oxidation of the surface with formation of a layer containing a mixture of ТіО$_{2}$, Ті$_{2}$О$_{3}$, Al$_{2}$O$_{3}$ oxides and surface Ti—C, Al—C, V—C carbides. The laser irradiation of the Ti—6Al—4V alloy in air is revealed to give rise to a significant change of the electrochemical surface potential in a solution of artificial saliva caused by improvement of corrosion resistance of the modified surface.",
+		"ru": "Методом рентгеновской фотоэлектронной спектроскопии исследован состав приповерхностного слоя титанового сплава ВТ6 после импульсной лазерной (Nd:YAG) обработки на воздухе. Полученные данные свидетельствуют об интенсивном окислении поверхности с образованием слоя, содержащего смесь оксидов ТіО$_{2}$, Ті$_{2}$О$_{3}$, Al$_{2}$O$_{3}$, VO$_{1+x}$ и поверхностные карбиды Ti—C, Al—C, V—C. Установлено, что лазерное облучение сплава ВТ6 на воздухе приводит к существенному изменению поверхностного электрохимического потенциала сплава в растворе искусственной слюны, обусловленному повышением коррозионной стойкости модифицированной поверхности."
+	},
+	"keywords": {
+		"ua": "морфологія, елементний та фазовий склад, електрохімічний поверхневий потенціял, лазерне опромінення, титановий стоп ВТ6",
+		"en": "morphology, elemental and phase composition, electrochemical surface potential, laser irradiation, Ti-6Al-4V titanium alloy",
+		"ru": "морфология, элементный и фазовый состав, электрохимический поверхностный потенциал, лазерное облучение, титановый сплав ВТ6"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. О. Васильєв", "en": "M. O. Vasylyev", "ru": "М. А. Васильев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. П. Ченакін", "en": "S. P. Chenakin", "ru": "С. П. Ченакин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. М. Ніщенко", "en": "M. M. Nyshchenko", "ru": "М. М. Нищенко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Л. Ф. Яценко", "en": "L. F. Yatsenko", "ru": "Л. Ф. Яценко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 13,
+		"list":  [
+			{
+				"doi": "10.15407/ufm.11.02.209",
+				"or":  "М. А. Васильев, М. М. Нищенко, П. А. Гурин, Успехи физики металлов, 11: 209 (2010).",
+				"tr":  "M. A. Vasylyev, M. M. Nishchenko, and P. A. Gurin, Uspehi Fiziki Metallov, 11: 209 (2010) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2007.04.084",
+				"or":  "M. E. Khosroshahi, M. Mahmoodi, and J. Tavakoli, Appl. Surf. Sci., 253: 8772 (2007).",
+				"tr":  "M. E. Khosroshahi, M. Mahmoodi, and J. Tavakoli, Appl. Surf. Sci., 253: 8772 (2007)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2006.05.024",
+				"or":  "M. Trtica, B. Gakovic, D. Batani, T. Desai, P. Panjan, and B. Radak, Appl. Surf. Sci., 253: 2551 (2006).",
+				"tr":  "M. Trtica, B. Gakovic, D. Batani, T. Desai, P. Panjan, and B. Radak, Appl. Surf. Sci., 253: 2551 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Васильев, В. И. Беда, П. А. Гурин, Физиологический отклик на состояние поверхности металлических дентальных имплантатов (Львов: ГалДент: 2010).",
+				"tr":  "M. A. Vasylyev, V. I. Beda, and P. A. Gurin, Fiziologicheskiy Otklik na Sostoyanie Poverkhnosti Metallicheskikh Dental'nykh Implantatov (Lviv: GalDent: 2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Савич, Д. И. Сарока, М. Г. Киселёв, М. В. Макаренко, Модификация поверхности титановых имплантатов и её влияние на их физико-химические и биомеханические параметры в биологических средах (Минск: Беларуская навука: 2012).",
+				"tr":  "V. V. Savich, D. I. Saroka, M. G. Kiselev, and M. V. Makarenko, Modifikatsiya Poverkhnosti Titanovykh Implantatov i Ee Vliyanie na Ikh Fiziko-Khimicheskie i Biomekhanicheskie Parametry v Biologicheskikh Sredakh (Minsk: Belaruskaya Navuka: 2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Родионов, К. Г. Бутовский, Инженерная физика, № 1: 17 (2009).",
+				"tr":  "I. V. Rodionov and K. G. Butovskiy, Inzhenernaya Fizika, No. 1: 17 (2009) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.susc.2006.07.053",
+				"or":  "Y. Ji-Hyun, C. Bernard, F. Variola, and S. F. Zalza, Surf. Sci., 600: 4613 (2006).",
+				"tr":  "Y. Ji-Hyun, C. Bernard, F. Variola, and S. F. Zalza, Surf. Sci., 600: 4613 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "В. І. Біда, П. О. Гурин, М. О. Васильєв, В. С. Філатова, Зб. наук. праць співробіт. НМАПО ім. П. Л. Шупика, 21, № 2: 87 (2012).",
+				"tr":  "V. I. Bida, P. O. Huryn, M. O. Vasyl'yev, and V. S. Filatova, Zb. Nauk. Prats' Spivrobit. NMAPO im. P. L. Shupyka, 21, No. 2: 87 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1007/s002160050376",
+				"or":  "O. Böse, E. Kemnitz, A. Lippitz, and W. E. S. Unger, Fresenius J. Anal. Chem., 358: 175 (1997).",
+				"tr":  "O. Böse, E. Kemnitz, A. Lippitz, and W. E. S. Unger, Fresenius J. Anal. Chem., 358: 175 (1997)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2012.08.006",
+				"or":  "M. A. Vasylyev, S. P. Chenakin, and L. F. Yatsenko, Acta Mater., 60: 6223 (2012).",
+				"tr":  "M. A. Vasylyev, S. P. Chenakin, and L. F. Yatsenko, Acta Mater., 60: 6223 (2012)."
+			},
+			{
+				"doi": "10.1016/S0254-0584(98)00187-4",
+				"or":  "L. Zhang and R. V. Koka, Mater. Chem. Phys., 57: 23 (1998).",
+				"tr":  "L. Zhang and R. V. Koka, Mater. Chem. Phys., 57: 23 (1998)."
+			},
+			{
+				"doi": "10.1016/0169-4332(94)90009-4",
+				"or":  "C. Hinnen, D. Imbert, J. M. Siffre, and P. Marcus, Appl. Surf. Sci., 78, No. 3: 219 (1994).",
+				"tr":  "C. Hinnen, D. Imbert, J. M. Siffre, and P. Marcus, Appl. Surf. Sci., 78, No. 3: 219 (1994)."
+			},
+			{
+				"doi": "10.1016/S0169-4332(99)00132-4",
+				"or":  "J. G. Choi, Appl. Surf. Sci., 148: 64 (1999).",
+				"tr":  "J. G. Choi, Appl. Surf. Sci., 148: 64 (1999)."
+			}
+		]
+	}
+}

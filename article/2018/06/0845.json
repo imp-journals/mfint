@@ -1,0 +1,122 @@
+{
+	"_id":    "MFiNT.40.06.0845",
+	"year":   2018,
+	"volume": 40,
+	"issue":  6,
+	"pages":  [845,857],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["19.12.2014","18.05.2018"],
+	"PACS":   "05.45.-a, 05.70.-a, 61.72.Bb, 62.20.fq, 62.25.Mn, 81.40.Lm, 83.50.Ha",
+	"title":   {
+		"ua": "Деякі міркування щодо утворення дефектів у кристалах на атомарному рівні",
+		"en": "Some Considerations for Formation of Defects in Crystals at the Atomic Level",
+		"ru": "Некоторые соображения об образовании дефектов в кристаллах на атомном уровне"
+	},
+	"abstract": {
+		"ua": "Досліджено коливання та взаємодію двох позитивних йонів, яких занурено у електронний газ, в тому числі і в областях, які є далекими від лінійної поведінки. Показано, що, для того, щоб рух йонів був неусталеним, необхідно, щоб вони хоч іноді під час своїх коливань відходили один від одного на віддаль, більшу, ніж 1,5$\\alpha$. Для металів з валентністю, рівною одиниці, оцінено коливну енергію йону, яка потрібна для цього, а також ймовірність появи таких йонів. Одержані результати були узагальнені на металевий зразок. Досліджено випадок великої кількости «неусталених йонів».",
+		"en": "Oscillations and interaction of two positive ions embedded into electron gas are investigated including the region far from the linear behaviour. As shown, in order to be unstable movement of the ions, it is necessary that they go away one another on a distance larger than 1.5$\\alpha$ at least sometimes during their oscillations. The vibrational energy of ion, which is necessary in order to take place for this separation, and probability of appearance of such ions are estimated for a univalent metals. The obtained results are generalized on a bulk metal. A case of a large number of ‘unstable ions’ is investigated.",
+		"ru": "Рассмотрены колебания и взаимодействие двух положительных ионов, погружённых в электронный газ, в том числе и в областях, далёких от линейного поведения. Показано, что, для того, чтобы движение ионов было неустойчивым, необходимо, чтобы они хоть иногда в процессе своих колебаний отходили друг от друга на расстояния, больше 1,5$\\alpha$. Для одновалентных металлов оценены колебательная энергия иона, необходимая, чтобы это произошло, а также вероятность появления таких ионов. Полученные результаты обобщены на металлический образец. Рассмотрен случай большого числа «неустойчивых ионов»."
+	},
+	"keywords": {
+		"ua": "гідродинамічний канал, дефекти, усталеність, енергія власних коливань йонів, межа плинности, активний йон, ентропія, критичний розмір",
+		"en": "hydrodynamic flow channel, defects, stability, energy of ion natural oscillations, yield stress, active ion, entropy, critical size",
+		"ru": "гидродинамический канал, дефекты, устойчивость, энергия собственных колебаний ионов, предел текучести, активный ион, энтропия, критический размер"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. І. Засимчук", "en": "V. I. Zasymchuk", "ru": "В. И. Засимчук"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. Е. Засимчук", "en": "O. E. Zasymchuk", "ru": "Е. Э. Засимчук"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 16,
+		"list":  [
+			{
+				"doi": "10.1016/0921-5093(90)90186-7",
+				"or":  "E. E. Zasimchuk and L. I. Markashova, Mater. Sci. Eng. A, 127: 33 (1990).",
+				"tr":  "E. E. Zasimchuk and L. I. Markashova, Mater. Sci. Eng. A, 127: 33 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Н. Белякова, Е. Э. Засимчук, Ю. Г. Гордиенко, Металлофиз. новейшие технол., 21, № 4: 59 (1999).",
+				"tr":  "M. N. Belyakova, E. E. Zasimchuk, and Yu. G. Gordienko, Metallofiz. Noveishie Tekhnol., 21, No. 4: 59 (1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Э. Засимчук, В. И. Засимчук, Металлофиз. новейшие технол., 28, № 6: 803 (2006).",
+				"tr":  "O. Eh. Zasimchuk and V. I. Zasimchuk, Metallofiz. Noveishie Tekhnol., 28, No. 6: 803 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Лихачев, В. Е. Панин, Е. Э. Засимчук и др., Кооперативные деформа-ционные процессы и локализация деформации (Киев: Наукова думка: 1989), с. 65.",
+				"tr":  "V. A. Likhachev, V. E. Panin, E. E. Zasimchuk et al., Kooperativnye Deformatsionnye Protsessy i Lokalizatsiya Deformatsii [Cooperative Deformation Processes and Localization of Deformation] (Kiev: Naukova Dumka: 1989), p. 65 (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.14.03.275",
+				"or":  "Е. Э. Засимчук, В. И. Засимчук, Т. В. Турчак, Успехи физики металлов, 14, № 3: 275 (2013).",
+				"tr":  "O. Eh. Zasymchuk, V. I. Zasymchuk, and T. V. Turchak, Prog. Phys. Met., 14, No. 3: 275 (2013) (in Russian)."
+			},
+			{
+				"doi": "10.1080/01418619408242540",
+				"or":  "Yu. Gordienko and E. Zasimchuk, Phil. Mag. A, 70, Iss. 1: 99 (1994).",
+				"tr":  "Yu. Gordienko and E. Zasimchuk, Phil. Mag. A, 70, Iss. 1: 99 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. И. Френкель, Введение в теорию металлов (Ленинград: Наука: 1972).",
+				"tr":  "Ya. I. Frenkel', Vvedenie v Teoriyu Metallov [Introduction to the Theory of Metals] (Leningrad: Nauka: 1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Корн, Т. Корн, Справочник по математике для научных работников и инженеров (Москва: Наука: 1978) (пер. с англ.).",
+				"tr":  "G. Korn and T. Korn, Spravochnik po Matematike dlya Nauchnykh Rabotnikov i Inzhenerov [Mathematical Handbook for Scientists and Engineers] (Moscow: Nauka: 1978) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Ансельм, Введение в теорию полупроводников (Москва: Наука: 1978).",
+				"tr":  "A. I. Ansel'm, Vvedenie v Teoriyu Poluprovodnikov [Introduction to the Theory of Semiconductors] (Moscow: Nauka: 1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Д. Ландау, Е. М. Лифшиц, Теоретическая физика. Т. V. Статистическая физика. Ч. 1 (Москва: Наука: 1976).",
+				"tr":  "L. D. Landau and E. M. Lifshits, Teoreticheskaya Fizika. T. V. Statisticheskaya Fizika. Ch. 1 [Theoretical Physics. Vol. V. Statistical Physics. Pt. 1] (Moscow: Nauka: 1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. А. Сена, Единицы физических величин и их размерности (Москва: Наука: 1977).",
+				"tr":  "L. A. Sena, Edinitsy Fizicheskikh Velichin i Ikh Razmernosti [Units of Physical Quantities and Their Dimensions] (Moscow: Nauka: 1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "www.toehelp.ru/theory/sopromat/9.html",
+				"tr":  "www.toehelp.ru/theory/sopromat/9.html"
+			},
+			{
+				"doi": "",
+				"or":  "www.mehanika.ks.ua/index.php",
+				"tr":  "www.mehanika.ks.ua/index.php"
+			},
+			{
+				"doi": "10.15407/mfint.36.09.1207",
+				"or":  "О. С. Гаценко, О. Е. Засимчук, П. О. Теселько, С. Г. Стіренко, Ю. Г. Гордієнко, Металлофиз. новейшие технол., 36, № 9: 1207 (2014).",
+				"tr":  "O. S. Gatsenko, O. E. Zasymchuk, P. O. Tesel'ko, S. G. Stirenko, and Yu. G. Gordienko, Metallofiz. Noveishie Tekhnol., 36, No. 9: 1207 (2014) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. М. Полуэктов, Физика низких температур, 34, № 4/5: 459 (2008).",
+				"tr":  "Yu. M. Poluektov, Fizika Nizkikh Temperatur, 34, Nos. 4/5: 459 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Х. Козловский, Изв. ВУЗов. Физика, 50, № 3: 16 (2007).",
+				"tr":  "V. Kh. Kozlovskiy, Izv. VUZov. Fizika, 50, No. 3: 16 (2007) (in Russian)."
+			}
+		]
+	}
+}

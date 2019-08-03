@@ -1,0 +1,137 @@
+{
+	"_id":    "MFiNT.40.03.0301",
+	"year":   2018,
+	"volume": 40,
+	"issue":  3,
+	"pages":  [301,310],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["12.12.2017"],
+	"PACS":   "32.30.Rj, 34.80.Dp, 78.70.En, 79.20.Ap, 79.20.Kz, 82.80.Pv",
+	"title":   {
+		"ua": "Вплив зарядового стану атома на інтенсивність рентґенівської $K_{\\alpha}L^{1}$-емісії Ti та Cr",
+		"en": "Influence of a Charge State of Atom on Intensity of X-Ray $K_{\\alpha}L^{1}$ Emission of Ti and Cr",
+		"ru": "Влияние зарядового состояния атома на интенсивность рентгеновской $K_{\\alpha}L^{1}$-эмиссии Ti и Cr"
+	},
+	"abstract": {
+		"ua": "Експериментально досліджено відносну інтенсивність $\\gamma = I(^{3}P)/I(^{1}P)$ групи рентґенівських емісійних $K_{\\alpha}L^{1}$-сателітів Ti й Cr у металах та їх йонно-ковалентних сполуках. Встановлено, що при переході від металів Ti й Cr до карбідів та оксидів TiC, Cr$_3$C$_2$, TiO$_2$, Cr$_2$O$_3$ величина $\\gamma$ зменшується на 30–50% при зростанні ефективного заряду атомів металів. Причина зменшення відносної інтенсивности може бути зумовлена залежністю взаємодії конфіґурацій $KL_{2,3}(^{3}P){\\varepsilon}p(^{2}S)$ та $KL_{2,3}(^{1}P){\\varepsilon}p(^{2}S)$ від екранування $K$- та $L_{2,3}$-вакансій вільними електронами. У металах таке екранування істотно зменшує амплітуди переходів між станами конфіґурацій $KL_{2,3}(^{3}P){\\varepsilon}p(^{2}S)$ та $KL_{2,3}(^{1}P){\\varepsilon}p(^{2}S)$. В йонно-ковалентних сполуках екранування практично відсутнє; тому значне посилення Кулонової взаємодії ежектованого 2$p$-електрона з $L_{2,3}$-вакансією приводить до змішування станів $^{3}P$- та $^{1}P$-термів $KL_{2,3}$-конфіґурації через потужні міжканальні переходи $KL_{2,3}(^{3}P){\\varepsilon}p(^{2}S) \\to KL_{2,3}(^{1}P){\\varepsilon}p(^{2}S)$.",
+		"en": "The relative intensity, $\\gamma = I(^{3}P)/I(^{1}P)$, of the group of X-ray emission Ti and Cr $K_{\\alpha}L^{1}$-satellites in metals and their ion–covalent compounds is experimentally investigated. As established, the value of $\\gamma$ decreases by 30–50% at the transition from metals, Ti and Cr, to carbides and oxides, TiC, Cr$_3$C$_2$, TiO$_2$, Cr$_2$O$_3$, with increasing of effective charge of metal atoms. The cause of the $\\gamma$ value decreasing may be due to the dependence of the $KL_{2,3}(^{3}P){\\varepsilon}p(^{2}S)$ and $KL_{2,3}(^{1}P){\\varepsilon}p(^{2}S)$ configurations’ interaction on the screening of the $K$- and $L_{2,3}$-vacancies by free electrons. In metals, this screening substantially reduces the amplitudes of transitions between the states of the $KL_{2,3}(^{3}P){\\varepsilon}p(^{2}S)$ and $KL_{2,3}(^{1}P){\\varepsilon}p(^{2}S)$ configurations. In ion–covalent compounds, the screening is practically absent; so, a significant enhancement of the Coulomb interaction of the ejected 2$p$-electron with $L_{2,3}$-vacancy leads to a mixture of the $^{3}P$- and $^{1}P$ states of $KL_{2,3}$-configuration by means of the intense interchannel $KL_{2,3}(^{3}P){\\varepsilon}p(^{2}S) \\to KL_{2,3}(^{1}P){\\varepsilon}p(^{2}S)$ transitions.",
+		"ru": "Экспериментально исследована относительная интенсивность $\\gamma = I(^{3}P)/I(^{1}P)$ группы рентгеновских эмиссионных $K_{\\alpha}L^{1}$-сателлитов Ti и Cr в металлах и их ионно-ковалентных соединениях. Установлено, что при переходе от металлов Ti и Cr к карбидам и оксидам TiC, Cr$_3$C$_2$, TiO$_2$, Cr$_2$O$_3$ величина $\\gamma$ уменьшается на 30–50% при увеличении эффективного заряда атомов металлов. Причина уменьшения величины $\\gamma$ может быть обусловлена зависимостью взаимодействия конфигураций $KL_{2,3}(^{3}P){\\varepsilon}p(^{2}S)$ и $KL_{2,3}(^{1}P){\\varepsilon}p(^{2}S)$ от экранирования $K$- и $L_{2,3}$-вакансий свободными электронами. В металлах такое экранирование существенно уменьшает амплитуды переходов между состояниями конфигураций $KL_{2,3}(^{3}P){\\varepsilon}p(^{2}S)$ и $KL_{2,3}(^{1}P){\\varepsilon}p(^{2}S)$. В ионно-ковалентных соединениях экранирование практически отсутствует; поэтому значительное усиление кулоновского взаимодействия инжектированного 2$p$-электрона с $L_{2,3}$-вакансией приводит к смешиванию состояний $^{3}P$- и $^{1}P$-термов $KL_{2,3}$-конфигурации за счёт интенсивных межканальных переходов $KL_{2,3}(^{3}P){\\varepsilon}p(^{2}S) \\to KL_{2,3}(^{1}P){\\varepsilon}p(^{2}S)$."
+	},
+	"keywords": {
+		"ua": "ефективний заряд, рентґенівські $K_{\\alpha}L^{1}$-сателіти, екранування, конфіґураційна взаємодія",
+		"en": "effective charge, X-ray $K_{\\alpha}L^{1}$ satellites, screening, configuration interaction",
+		"ru": "эффективный заряд, рентгеновские $K_{\\alpha}L^{1}$-сателлиты, экранирование, конфигурационное взаимодействие"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. А. М. Аль-Омари", "en": "M. A. M. Al-Omari", "ru": "М. А. М. Аль-Омари"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "М. О. Боровий", "en": "M. O. Borovyi", "ru": "Н. А. Боровой"},
+			"OID": [201]
+		}
+	],
+	"references": {
+		"count": 19,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "В. В. Немошкаленко, Рентгеновские эмиссионные спектры металлов и сплавов (Киев: Наукова думка: 1972).",
+				"tr":  "V. V. Nemoshkalenko, Rentgenovskie Emissionnye Spektry Metallov i Splavov [X-Ray Emission Spectra of Metals and Alloys] (Kiev: Naukova Dumka: 1972) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevA.80.042519",
+				"or":  "L. Mandić, S. Fazinić, and M. Jakšić, Phys. Rev. A, 80: 042519 (2009).",
+				"tr":  "L. Mandić, S. Fazinić, and M. Jakšić, Phys. Rev. A, 80: 042519 (2009)."
+			},
+			{
+				"doi": "10.1103/PhysRevA.82.042514",
+				"or":  "I. Han and L. Demir, Phys. Rev. A, 82: 042514 (2010).",
+				"tr":  "I. Han and L. Demir, Phys. Rev. A, 82: 042514 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Саченко, В. Ф. Демехин, ЖЭТФ, 3, № 49: 765 (1965).",
+				"tr":  "V. P. Sachenko and V. F. Demekhin, ZhETF, 3, No. 49: 765 (1965) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevA.69.052505",
+				"or":  "N. Shigeoka, H. Oohashi, and T. Tochio, Phys. Rev. A, 69, No. 5: 052505 (2004).",
+				"tr":  "N. Shigeoka, H. Oohashi, and T. Tochio, Phys. Rev. A, 69, No. 5: 052505 (2004)."
+			},
+			{
+				"doi": "10.1088/0953-4075/39/3/018",
+				"or":  "R. Diamant, R. Sharon, and W. A. Caliebe, J. Phys. B, 39, No. 3: 651 (2006).",
+				"tr":  "R. Diamant, R. Sharon, and W. A. Caliebe, J. Phys. B, 39, No. 3: 651 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Демехин, В. П. Саченко, Изв. АН СССР. Сер. Физика, 31, № 6: 907 (1967).",
+				"tr":  "V. F. Demekhin and V. P. Sachenko, Izvestiya AN SSSR. Ser. Fizika, 31, No. 6: 907 (1967) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRev.156.35",
+				"or":  "T. Åberg, Phys. Rev., 156, No. 1: 35 (1967).",
+				"tr":  "T. Åberg, Phys. Rev., 156, No. 1: 35 (1967)."
+			},
+			{
+				"doi": "10.1088/0953-4075/45/2/025004",
+				"or":  "P. D. Pérez, A. C. Carreras, and J. C. Trincavelli, J. Phys. B, 45, No. 2: 025004 (2012).",
+				"tr":  "P. D. Pérez, A. C. Carreras, and J. C. Trincavelli, J. Phys. B, 45, No. 2: 025004 (2012)."
+			},
+			{
+				"doi": "10.1134/1.1130101",
+				"or":  "N. A. Borovoi and Yu. P. Gololobov, Phys. Sol. State, 39, No. 9: 1474 (1997).",
+				"tr":  "N. A. Borovoi and Yu. P. Gololobov, Phys. Sol. State, 39, No. 9: 1474 (1997)."
+			},
+			{
+				"doi": "10.1080/00150193.2015.1059716",
+				"or":  "A. Salnik, Yu. P. Gololobov, and N. A. Borovoy, Ferroelectrics, 484: 62 (2015).",
+				"tr":  "A. Salnik, Yu. P. Gololobov, and N. A. Borovoy, Ferroelectrics, 484: 62 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "N. A. Borovoi, V. V. Ivanov, and V. I. Shiyanovskii, Optics and Spectroscopy, 86, No. 1: 11 (1999).",
+				"tr":  "N. A. Borovoi, V. V. Ivanov, and V. I. Shiyanovskii, Optics and Spectroscopy, 86, No. 1: 11 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Р. Черкасов, В. С. Галкин, Е. М. Зуева, Успехи химии, 7, № 5: 423 (1998).",
+				"tr":  "A. R. Cherkasov, V. S. Galkin, and E. M. Zueva, Uspekhi Khimii, 7, No. 5: 423 (1998) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevA.44.3016",
+				"or":  "R. Couch and L. Bruce, Phys. Rev. A, 44, No. 5: 3016 (1991).",
+				"tr":  "R. Couch and L. Bruce, Phys. Rev. A, 44, No. 5: 3016 (1991)."
+			},
+			{
+				"doi": "10.1103/PhysRevA.9.1041",
+				"or":  "J. H. Scofield, Phys. Rev. A, 9, No. 3: 1041 (1974).",
+				"tr":  "J. H. Scofield, Phys. Rev. A, 9, No. 3: 1041 (1974)."
+			},
+			{
+				"doi": "10.1103/PhysRevA.9.171",
+				"or":  "C. D. Lin, Phys. Rev. A, 9, No. 1: 171 (1974).",
+				"tr":  "C. D. Lin, Phys. Rev. A, 9, No. 1: 171 (1974)."
+			},
+			{
+				"doi": "10.1103/PhysRevA.2.118",
+				"or":  "A. F. Starace, Phys. Rev. A, 2, No. 1: 118 (1970).",
+				"tr":  "A. F. Starace, Phys. Rev. A, 2, No. 1: 118 (1970)."
+			},
+			{
+				"doi": "10.1016/0368-2048(78)85014-2",
+				"or":  "D. Chattarji, W. Mehlhorn, and V. Schmidt, Journal of Electron Spectroscopy and Related Phenomena, 13, No. 2: 97 (1978).",
+				"tr":  "D. Chattarji, W. Mehlhorn, and V. Schmidt, Journal of Electron Spectroscopy and Related Phenomena, 13, No. 2: 97 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Н. Собельман, Введение в теорию атомных спектров (Москва: ГИФМЛ: 1963).",
+				"tr":  "N. N. Sobel'man, Vvedenie v Teoriyu Atomnykh Spektrov [Introduction to the Theory of Atomic Spectra] (Moscow: GIFML: 1963) (in Russian)."
+			}
+		]
+	}
+}

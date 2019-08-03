@@ -1,0 +1,97 @@
+{
+	"_id":    "MFiNT.38.05.0697",
+	"year":   2016,
+	"volume": 38,
+	"issue":  5,
+	"pages":  [697,707],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["13.10.2014", "13.04.2015"],
+	"PACS":   "61.05.cp, 64.70.kd, 64.70.Nd, 75.30.Gw, 75.50.Cc, 75.50.Ww, 81.07.Bc",
+	"title":   {
+		"ua": "Вплив вмісту титану на параметри взаємодії у системі Sm$_{2}$Co$_{17-x}$Ti$_{x}$—Н$_{2}$ (x = 1,7; 0,95; 0,5; 0,2 і 0,1)",
+		"en": "Influence of Titanium Content on Interaction Parameters in the Sm$_{2}$Co$_{17-x}$Ti$_{x}$—Н$_{2}$ (x = 1.7; 0.95; 0.5; 0.2; 0.1)",
+		"ru": "Влияние содержания титана на параметры взаимодействия в системе Sm$_{2}$Co$_{17-x}$Ti$_{x}$—Н$_{2}$ (x = 1,7; 0,95; 0,5; 0,2 і 0,1)"
+	},
+	"abstract": {
+		"ua": "Методами диференційної термічної та рентґенівської фазової аналіз досліджено фазові перетворення у системі Sm$_{2}$Co$_{17-x}$Ti$_{x}$—Н$_{2}$ (x = 0,1, 0,2, 0,5, 0,95 і 1,7) під час звичайного та солід-гідрування, диспропорціонування, десорбування, рекомбінування за тиску водню 3,0—5,2 МПа та температури до 950°C. Встановлено, що збільшення вмісту титану приводить до зростання стабільности феромагнетної фази зі структурою типу Th$_{2}$Zn$_{17}$. При х = 0,1 та 0,2 вихідна сполука диспропорціонує повністю на гідрид самарію та кобальт. За вмісту титану х = 0,5 відбувається часткове диспропорціонування, а при х = 0,95 і 1,7 фазові перетворення не відбуваються. Після рекомбінування за температури у 850°C у стопах із вмістом титану х = 0,1, 0,2 та 0,5 виявлено фазу зі структурою типу Th$_{2}$Zn$_{17}$, кобальт і сліди оксиду самарію.",
+		"en": "Phase transformations in Sm$_{2}$Co$_{17-x}$Ti$_{x}$—Н$_{2}$ (x = 0.1, 0.2, 0.5, 0.95 and 1.7) system are investigated by means of the differential thermal (DTA) and X-ray phase analyses during conventional and solid hydrogenation, disproportionation, desorption, recombination (HDDR) treatment under hydrogen pressure of 3.0—5.2 МPа and temperature up to 950°C. The increase of titanium content leads to the increasing stability of initial ferromagnetic phase with Th$_{2}$Zn$_{17}$-type structure. At х = 0.1 and 0.2, the initial compound completely disproportionates into samarium hydride and cobalt. The partial disproportionation occurs at titanium content х = 0.5. They are found recombined Th$_{2}$Zn$_{17}$-type structure phase, cobalt and traces of samarium oxide after recombination at 850°C in alloys with х = 0.1, 0.2 and 0.5.",
+		"ru": "Методами дифференциального термического и рентгеновского фазового анализов исследованы фазовые превращения в системе Sm$_{2}$Co$_{17-x}$Ti$_{x}$—Н$_{2}$ (x = 0,1, 0,2, 0,5, 0,95 и 1,7) при обычном и солид-гидрировании, диспропорционировании, десорбции, рекомбинации под давлением водорода 3,0—5,2 МПа и температуре до 950°C. Установлено, что увеличение содержания титана приводит к росту стабильности ферромагнитной фазы со структурой типа Th$_{2}$Zn$_{17}$. При х = 0,1 и 0,2 исходное соединение диспропорционирует полностью на гидрид самария и кобальт. При содержании титана х = 0,5 происходит лишь частичное диспропорционирование, а при х = 0,95 и 1,7 фазовые превращения не протекают. После рекомбинации при температуре 850°C в сплавах с содержанием титана х = 0,1, 0,2 и 0,5 обнаружена фаза со структурой типа Th$_{2}$Zn$_{17}$, кобальт и следы оксида самария."
+	},
+	"keywords": {
+		"ua": "магнетні матеріяли, титан, леґування, гідрування, диспропорціонування, десорбування, рекомбінування, фазові перетворення",
+		"en": "magnetic materials, titanium, alloying, hydrogenation, disproportionation, desorption, recombination, phase transformation",
+		"ru": "магнитные материалы, титан, легирование, гидрирование, диспропорционирование, десорбция, рекомбинация, фазовые превращения"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. І. Булик", "en": "I. I. Bulyk", "ru": "И. И. Булык"},
+			"OID": [6]
+		},
+		{
+			"AID": {"ua": "М. В. Пилат", "en": "M. V. Pylat", "ru": "М. В. Пылат"},
+			"OID": [6]
+		}
+	],
+	"references": {
+		"count": 11,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "І. І. Булик, В. В. Панасюк, Фіз.-хім. механіка матеріалів, № 1: 9 (2012).",
+				"tr":  "I. I. Bulyk and V. V. Panasyuk, Fiz.-Khim. Mekhanika Materialiv, No. 1: 9 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Булык, В. Н. Варюхин, В. Ю. Таренков, В. В. Бурховецкий, С. Л. Сидоров, Физика и техника высоких давлений, 23, № 4: 67 (2013).",
+				"tr":  "I. I. Bulyk, V. N. Varyukhin, V. Yu. Tarenkov, V. V. Burkhovetskyi, and S. L. Sidorov, Fizika i Tekhnika Vysokikh Davleniy, 23, No. 4: 67 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "І. І. Булик, Ю. Б. Басараба, А. М. Тростянчин, Фіз.-хім. механіка матеріалів, № 6: 67 (2004).",
+				"tr":  "I. I. Bulyk, Yu. B. Basaraba, and A. M. Trostianchyn, Fiz.-Khim. Mekhanika Materialiv, No. 6: 67 (2004) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "І. І. Булик, Р. В. Денис, В. В. Панасюк, Ю. Г. Путілов, А. М. Тростянчин, Фіз.-хім. механіка матеріалів, 37, № 4: 15 (2001).",
+				"tr":  "I. I. Bulyk, P. V. Denys, V. V. Panasyuk, Yu. G. Putilov, and A. M. Trostianchyn, Fiz.-Khim. Mekhanika Materialiv, 37, No. 4: 15 (2001) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "І. І. Булик, Ю. Б. Басараба, А. М. Тростянчин, В. М. Давидов, Фіз.-хім. механіка матеріалів, № 3: 101 (2005).",
+				"tr":  "I. I. Bulyk, Yu. B. Basaraba, A. M. Trostianchyn, and V. M. Davydov, Fiz.-Khim. Mekhanika Materialiv, No. 3: 101 (2005) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "http://www.ccp14.ac.uk/",
+				"tr":  "http://www.ccp14.ac.uk/"
+			},
+			{
+				"doi": "",
+				"or":  "http://www.ill.eu/sites/fullprof",
+				"tr":  "http://www.ill.eu/sites/fullprof"
+			},
+			{
+				"doi": "",
+				"or":  "І. І. Булик, П. Я. Лютий, Металлофиз. новейшие технол., 35, № 9: 1283 (2013).",
+				"tr":  "I. I. Bulyk and P. Ya. Lyutyy, Metallofiz. Noveishie Tekhnol., 35, No. 9: 1283 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "І. І. Булик, П. Я. Лютий, А. М. Тростянчин, Металлофиз. новейшие технол., 33, № 6: 807 (2011).",
+				"tr":  "I. I. Bulyk, P. Ya. Lyutyy, and A. M. Trostianchyn, Metallofiz. Noveishie Tekhnol., 33, No. 6: 807 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "І. І. Булик, А. М. Тростянчин, П. Я. Лютий, В. В. Бурховецький, Порошковая металлургия, № 9/10: 56 (2013).",
+				"tr":  "I. I. Bulyk, A. M. Trostianchyn, P. Ya. Lyutyy, and V. V. Burkhovetskyi, Poroshkovaya Metallurgiya, Nos. 9/10: 56 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/S0921-4526(02)02637-6",
+				"or":  "W. Wang, Y. Yan, and H. Jin, Physica B, 328: 372 (2003).",
+				"tr":  "W. Wang, Y. Yan, and H. Jin, Physica B, 328: 372 (2003)."
+			}
+		]
+	}
+}

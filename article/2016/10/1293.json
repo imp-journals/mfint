@@ -1,0 +1,167 @@
+{
+	"_id":    "MFiNT.38.10.1293",
+	"year":   2016,
+	"volume": 38,
+	"issue":  10,
+	"pages":  [1293,1302],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["07.07.2016"],
+	"PACS":   "64.70.kd, 64.75.St, 66.30.Ny, 66.30.Qa, 68.35.Dv, 68.35.Fx, 85.40.Ls",
+	"title":   {
+		"ua": "Вплив електроміґрації на кінетику реакційної дифузії в системі Cu—Sn",
+		"en": "Influence of Electromigration on Kinetics of Reaction Diffusion in the Cu—Sn System",
+		"ru": "Влияние электромиграции на кинетику реакционной диффузии в системе Cu—Sn"
+	},
+	"abstract": {
+		"ua": "Проведено експериментальне дослідження реакційної дифузії в системі Cu—Sn під дією постійного електричного струму густиною у 7,3$\\cdot$10$^{7}$ А/м$^{2}$. Особливістю експерименту було те, що конструкція досліджуваного зразка виключала можливість перенесення атомів Купруму від катоди до аноди через спільний прошарок цини. За таких умов ріст фази Cu$_{3}$Sn + Cu$_{6}$Sn$_{5}$ на аноді відбувається швидше, ніж на катоді. Кінетика росту відповідає лінійному часовому закону $\\Delta x \\propto t$. З використанням моделю процесу реакційної дифузії при електроміґрації було проведено аналізу одержаних експериментальних результатів.",
+		"en": "The experimental study of the reaction diffusion under direct electric current in Cu—Sn system at temperature of 275°C is performed. The current density is of 7.3$\\cdot$10$^{7}$ А/m$^{2}$. In these experiments, anode and cathode have no joint contact through the solder layer. With this design of sample, the diffusion of copper atoms from the cathode to the anode is impossible. In these experimental conditions, the growth of the Cu$_{3}$Sn + Cu$_{6}$Sn$_{5}$ phase on the anode is faster than on the cathode. The growth kinetics of phase on the electrodes corresponds to a linear time law $\\Delta x \\propto t$. The voids’ growth on the cathode is not observed. When the anode is joined to cathode by the solder layer, the formation and growth of voids on the cathode are observed. Using model of reaction diffusion process at electromigration, the analysis of the obtained experimental results is carried out. Based on the obtained results, it is possible to conclude that the joint layer of tin between copper electrodes can significantly influence on the growth kinetics of intermetallic compounds and lead to emergence of voids on the cathode.",
+		"ru": "Проведено экспериментальное исследование реакционной диффузии в системе Cu—Sn под действием постоянного электрического тока плотностью 7,3$\\cdot$10$^{7}$ А/м$^{2}$. Особенностью эксперимента было то, что конструкция исследуемого образца исключала возможность переноса атомов меди от катода к аноду через общий для них слой олова. При таких условиях рост фазы Cu$_{3}$Sn + Cu$_{6}$Sn$_{5}$ на аноде происходит быстрее, чем на катоде. Кинетика роста соответствует линейному временному закону $\\Delta x \\propto t$. С использованием модели процесса реакционной диффузии при электромиграции был проведён анализ полученных экспериментальных результатов."
+	},
+	"keywords": {
+		"ua": "електроперенесення, реакційна дифузія, інтерметалева сполука, Cu/Sn",
+		"en": "electromigration, reaction diffusion, intermetallic compound, Cu/Sn",
+		"ru": "электроперенос, реакционная диффузия, интерметаллическое соединение, Cu/Sn"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. В. Корнієнко", "en": "S. V. Kornienko", "ru": "С. В. Корниенко"},
+			"OID": [214]
+		},
+		{
+			"AID": {"ua": "Д. О. Зраєв", "en": "D. O. Zraev", "ru": "Д. А. Зраев"},
+			"OID": [214]
+		}
+	],
+	"references": {
+		"count": 25,
+		"list":  [
+			{
+				"doi": "10.1063/1.1611263",
+				"or":  "K. N. Tu, J. Appl. Phys., 94: 5451 (2003).",
+				"tr":  "K. N. Tu, J. Appl. Phys., 94: 5451 (2003)."
+			},
+			{
+				"doi": "10.1063/1.1616993",
+				"or":  "W. J. Choi, E. C. C. Yeh, and K. N. Tu, J. Appl. Phys., 90: 5665 (2003).",
+				"tr":  "W. J. Choi, E. C. C. Yeh, and K. N. Tu, J. Appl. Phys., 90: 5665 (2003)."
+			},
+			{
+				"doi": "10.1063/1.2173710",
+				"or":  "K. N. Chiang, C. C. Lee, C. C. Lee, and K. M. Chen, Appl. Phys. Lett., 88: 072102 (2006).",
+				"tr":  "K. N. Chiang, C. C. Lee, C. C. Lee, and K. M. Chen, Appl. Phys. Lett., 88: 072102 (2006)."
+			},
+			{
+				"doi": "10.1146/annurev.matsci.38.060407.130253",
+				"or":  "Chin Chen, H. M. Tong, and K. N. Tu, Ann. Rev. Mater. Res., 40: 531 (2010).",
+				"tr":  "Chin Chen, H. M. Tong, and K. N. Tu, Ann. Rev. Mater. Res., 40: 531 (2010)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2011.07.002",
+				"or":  "T. Tian, K. Chen, A. A. MacDowell, D. Parkinson, Y. S. Lai, and K. N. Tu, Scr. Mater., 65: 646 (2011).",
+				"tr":  "T. Tian, K. Chen, A. A. MacDowell, D. Parkinson, Y. S. Lai, and K. N. Tu, Scr. Mater., 65: 646 (2011)."
+			},
+			{
+				"doi": "10.1007/s10854-015-2736-6",
+				"or":  "R. An, Y. Tian, R. Zhang, and C. Wang J. Mater. Sci. – Mater. Electron., 26: 2674 (2015).",
+				"tr":  "R. An, Y. Tian, R. Zhang, and C. Wang J. Mater. Sci. – Mater. Electron., 26: 2674 (2015)."
+			},
+			{
+				"doi": "10.1007/BF02701847",
+				"or":  "H. Gan, W. J. Choi, G. Xu, and K. N. Tu, JOM, 54: 34 (2002).",
+				"tr":  "H. Gan, W. J. Choi, G. Xu, and K. N. Tu, JOM, 54: 34 (2002)."
+			},
+			{
+				"doi": "10.1007/s11837-003-0230-8",
+				"or":  "S. W. Chen and C. M. Chen, JOM, 55: 62 (2003).",
+				"tr":  "S. W. Chen and C. M. Chen, JOM, 55: 62 (2003)."
+			},
+			{
+				"doi": "10.1063/1.1861151",
+				"or":  "K. N. Tu and H Gan, J. Appl. Phys., 97: 063514 (2005).",
+				"tr":  "K. N. Tu and H Gan, J. Appl. Phys., 97: 063514 (2005)."
+			},
+			{
+				"doi": "10.1007/s11664-999-0217-5",
+				"or":  "C.-M. Chen and S.-W. Chen, J. Electron. Mater., 28, No. 7: 902 (1999).",
+				"tr":  "C.-M. Chen and S.-W. Chen, J. Electron. Mater., 28, No. 7: 902 (1999)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(02)00076-9",
+				"or":  "C.-M. Chen and S.-W. Chen, Acta Mater., 50: 2461 (2002).",
+				"tr":  "C.-M. Chen and S.-W. Chen, Acta Mater., 50: 2461 (2002)."
+			},
+			{
+				"doi": "10.1063/1.2359135",
+				"or":  "B. Chao, S. Chae, X. Zhang, K. Lu, M. Ding, J. Im, and P. S. Ho, J. Appl. Phys., 100: 084909 (2006).",
+				"tr":  "B. Chao, S. Chae, X. Zhang, K. Lu, M. Ding, J. Im, and P. S. Ho, J. Appl. Phys., 100: 084909 (2006)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2006.12.019",
+				"or":  "B. Chao, S. Chae, X. Zhang, K. Lu, J. Im, and P. S. Ho, Acta Mater., 55: 2805 (2007).",
+				"tr":  "B. Chao, S. Chae, X. Zhang, K. Lu, J. Im, and P. S. Ho, Acta Mater., 55: 2805 (2007)."
+			},
+			{
+				"doi": "10.1007/s11664-998-0068-5",
+				"or":  "S. W. Chen and C. M. Chen, J. Electron. Mater., 27, No. 11: 1193 (1998).",
+				"tr":  "S. W. Chen and C. M. Chen, J. Electron. Mater., 27, No. 11: 1193 (1998)."
+			},
+			{
+				"doi": "10.1557/JMR.2008.0331",
+				"or":  "X. Gu, D. Yang, Y. C. Chan, and B. Y. Wu, J. Mater. Res., 23, No. 10: 2591 (2008).",
+				"tr":  "X. Gu, D. Yang, Y. C. Chan, and B. Y. Wu, J. Mater. Res., 23, No. 10: 2591 (2008)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2006.12.019",
+				"or":  "B. Chao, S. Chae, X. Zhang, K. Lu, J. Im, and P. S. Ho, Acta Mater., 55: 2805 (2007).",
+				"tr":  "B. Chao, S. Chae, X. Zhang, K. Lu, J. Im, and P. S. Ho, Acta Mater., 55: 2805 (2007)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2010.05.158",
+				"or":  "L. D. Chen, M. L. Haung, and S. M. Zhou, J. Alloys Compd., 504: 535 (2010).",
+				"tr":  "L. D. Chen, M. L. Haung, and S. M. Zhou, J. Alloys Compd., 504: 535 (2010)."
+			},
+			{
+				"doi": "10.1016/0001-6160(82)90201-2",
+				"or":  "K. N. Tu and R. D. Thompson, Acta Metall., 30: 947 (1982).",
+				"tr":  "K. N. Tu and R. D. Thompson, Acta Metall., 30: 947 (1982)."
+			},
+			{
+				"doi": "10.1557/JMR.2003.0355",
+				"or":  "Y. C. Hu, Y. L. Lin, C. R. Kao, and K. N. Tu, J. Mater. Res., 18: 2544 (2003).",
+				"tr":  "Y. C. Hu, Y. L. Lin, C. R. Kao, and K. N. Tu, J. Mater. Res., 18: 2544 (2003)."
+			},
+			{
+				"doi": "10.1007/s11664-005-0176-4",
+				"or":  "Y. H. Lin, C. M. Tsai, Y. C. Hu, Y. L. Lin, and C. R. Kao, J. Electron. Mater., 34: 27 (2005).",
+				"tr":  "Y. H. Lin, C. M. Tsai, Y. C. Hu, Y. L. Lin, and C. R. Kao, J. Electron. Mater., 34: 27 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "К. П. Гуров, А. М. Гусак, ФММ, 52, № 4: 767 (1981).",
+				"tr":  "K. P. Gurov and A. M. Gusak, Fizika Metallov i Metallovedenie, 52, No. 4: 767 (1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. П. Гуров, А. М. Гусак, ФММ, 53, № 5: 12 (1982).",
+				"tr":  "K. P. Gurov and A. M. Gusak, Fizika Metallov i Metallovedenie, 53, No. 5: 12 (1982) (in Russian)."
+			},
+			{
+				"doi": "10.1080/14786430802673350",
+				"or":  "S. V. Kornienko and A. M. Gusak, Philos. Magazine, 89, No. 6: 525 (2009).",
+				"tr":  "S. V. Kornienko and A. M. Gusak, Philos. Magazine, 89, No. 6: 525 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "І. В. Коржовська, С. В. Корнієнко, Металлофиз. новейшие технол., 31, № 4: 1143 (2009).",
+				"tr":  "I. V. Korzhovs'ka and S. V. Korniyenko, Metallofiz. Noveishie Tekhnol., 31, No. 4: 1143 (2009) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(03)00284-2",
+				"or":  "J. E. Garay, U. Anselmi-Tamburini, and Z. A. Munir, Acta Mater., 51, No 15: 4487 (2003).",
+				"tr":  "J. E. Garay, U. Anselmi-Tamburini, and Z. A. Munir, Acta Mater., 51, No. 15: 4487 (2003)."
+			}
+		]
+	}
+}

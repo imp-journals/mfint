@@ -1,0 +1,184 @@
+{
+	"_id":    "MFiNT.39.04.0441",
+	"year":   2017,
+	"volume": 39,
+	"issue":  4,
+	"pages":  [441,455],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["03.03.2017"],
+	"PACS":   "74.20.-z, 74.25.Ha, 74.25.Sv, 74.72.-h, 75.30.Cr, 81.15.Fg",
+	"title":   {
+		"ua": "Міряння критичних струмів тонких надпровідних плівок YBa$_{2}$Cu$_{3}$O$_{7-\\delta}$ методою магнетної сприйнятливости за допомогою накладних навоїв",
+		"en": "Measurement of Critical Currents in Superconducting Thin YBa$_{2}$Cu$_{3}$O$_{7-\\delta}$ Films by the Magnetic Susceptibility Method Using Open-Faced Coils",
+		"ru": "Измерение критических токов тонких сверхпроводящих плёнок YBa$_{2}$Cu$_{3}$O$_{7-\\delta}$ методом магнитной восприимчивости с помощью накладных катушек"
+	},
+	"abstract": {
+		"ua": "Нелінійна магнетна сприйнятливість $\\chi$ у змінному полі $H_{\\textrm{ac}}$ та критичний струм $J_{\\textrm{c}}$ тонких плівок високотемпературного надпровідника YBa$_2$Cu$_3$O$_{7-\\delta}$ досліджувалися за допомогою пласких накладних спіралеподібних приймальних навоїв. В рамках моделю критичного стану проведено розрахунки дійсної й уявної частин «узагальненої сприйнятливости» $\\tilde{\\chi}(a, h)$ для довільного співвідношення $a = r/R$ між радіюсами надпровідної плівки у вигляді тонкого диска ($R$) та приймального навою у вигляді одиночного витка ($r$). В граничному випадку $a \\to \\infty$ відтворюються відомі результати моделю Клема–Санчеса для нелінійної комплексної магнетної сприйнятливости $\\chi$($h$), де $h$($J_{\\textrm{c}}$($T$), $H_{\\textrm{ac}}$) — зведена безрозмірна амплітуда. Показано, що для стандартної експериментальної ситуації (зразок всередині приймального навою магнетометра) відносна систематична похибка міряння $J_{\\textrm{c}}$ є нехтовно малою (менше 2%) при $a > 2$, однак наближається до 25% при $a \\to 1$. В той же час, для накладних навоїв із $a < 1$ загальний вид залежностей $\\tilde{\\chi}$($a$, $h$) змінюється якісно, набуваючи пороговий характер по $h$. Це уможливлює при кожному мірянні залежностей від температури при фіксованій амплітуді поля $H_{\\textrm{ac}}$ одержувати не одну точку залежности $J_{\\textrm{c}}$($T$) (в максимумі $\\chi^{''}$($T$, $H_{\\textrm{ac}}$)), а дві (в точках максимуму та порога $\\tilde{\\chi}$$^{''}$($T$, $H_{\\textrm{ac}}$) по $T$), а також спрощує процедуру нормування дійсної й уявної частин узагальненої магнетної сприйнятливости.",
+		"en": "The nonlinear magnetic susceptibility $\\chi$($H_{\\textrm{ac}}$) and critical current $J_{\\textrm{c}}$ in thin YBa$_2$Cu$_3$O$_{7-\\delta}$ films are measured using planar spiral open-faced pick-up coils. The real and imaginary parts of a generalized susceptibility $\\tilde{\\chi}(a, h)$ are calculated within the framework of the critical state model for an arbitrary ratio $a = r/R$ of the radius of a single-turn pick-up coil $r$ to the superconducting thin-film disc radius $R$. Well known results of the Clem–Sanchez model in the limit $a \\to \\infty$ are reproduced for nonlinear complex magnetic susceptibility $\\chi$($h$), where $h$($J_{\\textrm{c}}$($T$), $H_{\\textrm{ac}}$) is reduced dimensionless field amplitude. Relative systematic error of measured $J_{\\textrm{c}}$ is shown to be negligible (< 2%) in a standard experimental geometry (with a sample within the pick-up coil of magnetometer) for $a > 2$, but it is of about 25% at $a \\to 1$. On the other hand, for the open-faced coils with $a < 1$, the nature of amplitude dependences of $\\tilde{\\chi}$($a$, $h$) is changed qualitatively, turning to have threshold on $h$. That is why, at the fixed field amplitude $H_{\\textrm{ac}}$, not unique point of the $J_{\\textrm{c}}$($T$) dependence (at the maximum of $\\chi^{''}$($T$, $H_{\\textrm{ac}}$)) but two points (at both the maximum and the threshold of $\\tilde{\\chi}$$^{''}$($T$, $H_{\\textrm{ac}}$)–$T$ dependence) can be obtained. This also simplifies the normalization procedure of the real and imaginary parts of generalized magnetic susceptibility.",
+		"ru": "Нелинейная магнитная восприимчивость $\\chi$ в переменном поле $H_{\\textrm{ac}}$ и критический ток $J_{\\textrm{c}}$ тонких плёнок высокотемпературного сверхпроводника YBa$_2$Cu$_3$O$_{7-\\delta}$ исследовались с помощью плоских накладных спиралевидных приёмных катушек. В рамках модели критического состояния проведены расчёты действительной и мнимой частей «обобщённой восприимчивости» $\\tilde{\\chi}(a, h)$ для произвольного соотношения $a = r/R$ между радиусами сверхпроводящей плёнки в виде тонкого диска ($R$) и приёмной катушки в виде одиночного витка ($r$). В пределе $a \\to \\infty$ воспроизводятся известные результаты модели Клема–Санчеса для нелинейной комплексной магнитной восприимчивости $\\chi$($h$), где $h$($J_{\\textrm{c}}$($T$), $H_{\\textrm{ac}}$) — приведённая безразмерная амплитуда. Показано, что для стандартной экспериментальной ситуации (образец внутри приёмной катушки магнитометра) относительная систематическая погрешность по измерению $J_{\\textrm{c}}$ является пренебрежимо малой (меньше 2%) при $a > 2$, однако приближается к 25% при $a \\to 1$. В то же время, для накладных катушек с $a < 1$ общий вид зависимостей $\\tilde{\\chi}$($a$, $h$) изменяется качественно, принимая пороговый характер по $h$. Это позволяет при каждом цикле измерений зависимостей от температуры при фиксированной амплитуде поля $H_{\\textrm{ac}}$ получать не одну точку зависимости $J_{\\textrm{c}}$($T$) (в максимуме $\\chi^{''}$($T$, $H_{\\textrm{ac}}$)), а две (в точках максимума и порога $\\tilde{\\chi}$$^{''}$($T$, $H_{\\textrm{ac}}$) по $T$), а также упрощает процедуру нормировки действительной и мнимой частей магнитной восприимчивости."
+	},
+	"keywords": {
+		"ua": "критичний струм, критична температура, магнетна сприйнятливість у змінному полі, модель критичного стану, надпровідник",
+		"en": "critical current, critical temperature, magnetic susceptibility in an alternating field, critical state model, superconductor",
+		"ru": "критический ток, критическая температура, магнитная восприимчивость в переменном поле, модель критического состояния, сверхпроводник"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. А. Каленюк", "en": "A. A. Kalenyuk", "ru": "А. А. Каленюк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Г. Г. Камінський", "en": "G. G. Kaminskyi", "ru": "Г. Г. Каминский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. В. Семенов", "en": "A. V. Semenov", "ru": "А. В. Сёменов"},
+			"OID": [25]
+		},
+		{
+			"AID": {"ua": "В. О. Москалюк", "en": "V. O. Moskaliuk", "ru": "В. О. Москалюк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. С. Фліс", "en": "V. S. Flis", "ru": "В. С. Флис"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 26,
+		"list":  [
+			{
+				"doi": "10.1103/PhysRevB.55.11816",
+				"or":  "M. Wurlitzer, M. Lorenz, K. Zimmer, and P. Esquinazi, Phys. Rev. B, 55: 11816 (1997).",
+				"tr":  "M. Wurlitzer, M. Lorenz, K. Zimmer, and P. Esquinazi, Phys. Rev. B, 55: 11816 (1997)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.56.2871",
+				"or":  "Th. Herzog, H. A. Radovan, P. Ziemann, and E. H. Brandt, Phys. Rev. B, 56: 2871 (1997).",
+				"tr":  "Th. Herzog, H. A. Radovan, P. Ziemann, and E. H. Brandt, Phys. Rev. B, 56: 2871 (1997)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.60.7623",
+				"or":  "E. Mezzetti, R. Gerbaldo, G. Ghigo, L. Gozzelino, B. Minetti, C. Camerlingo, A. Monaco, G. Cuttone, and A. Rovelli, Phys. Rev. B, 60: 7623 (1999).",
+				"tr":  "E. Mezzetti, R. Gerbaldo, G. Ghigo, L. Gozzelino, B. Minetti, C. Camerlingo, A. Monaco, G. Cuttone, and A. Rovelli, Phys. Rev. B, 60: 7623 (1999)."
+			},
+			{
+				"doi": "10.1063/1.1306399",
+				"or":  "Ю. В. Федотов, С. М. Рябченко, А. П. Шахов, Физика низких температур, 26: 638 (2000).",
+				"tr":  "Yu. V. Fedotov, S. M. Ryabchenko, and A. P. Shakhov, Low Temperature Physics, 26: 464 (2000)."
+			},
+			{
+				"doi": "10.1063/1.1353699",
+				"or":  "Э. А. Пашицкий, В. И. Вакарюк, Ю. В. Федотов, С. М. Рябченко, Физика низких температур, 27: 131 (2001).",
+				"tr":  "E. A. Pashitskii, V. I. Vakaryuk, S. M. Ryabchenko, and Yu. V. Fedotov, Low Temperature Physics, 27: 96 (2001)."
+			},
+			{
+				"doi": "10.1016/S0921-4534(02)00850-X",
+				"or":  "Yu. V. Fedotov, S. M. Ryabchenko, E. A. Pashitskii, A. V. Semenov, V. I. Vakaryuk, V. S. Flis, and V. M. Pan, Physica C, 372–376: 1091 (2002).",
+				"tr":  "Yu. V. Fedotov, S. M. Ryabchenko, E. A. Pashitskii, A. V. Semenov, V. I. Vakaryuk, V. S. Flis, and V. M. Pan, Physica C, 372–376: 1091 (2002)."
+			},
+			{
+				"doi": "10.1063/1.1468520",
+				"or":  "Ю. В. Федотов, С. М. Рябченко, Э. А. Пашицкий, А. В. Семенов, В. И. Вакарюк, В. М. Пан, В. С. Флис, Физика низких температур, 28: 245 (2002).",
+				"tr":  "Yu. V. Fedotov, S. M. Ryabchenko, E. A. Pashitskii, A. V. Semenov, V. I. Vakaryuk, V. M. Pan, and V. S. Flis, Low Temperature Physics, 28: 172 (2002)."
+			},
+			{
+				"doi": "10.1016/S0921-4534(02)02556-X",
+				"or":  "V. M. Pan, Yu. V. Fedotov, S. M. Ryabchenko, E. A. Pashitskii, A. V. Semenov, V. I. Vakaryuk, V. S. Flis, and Yu. V. Cherpak, Physica C, 388–389: 431 (2003).",
+				"tr":  "V. M. Pan, Yu. V. Fedotov, S. M. Ryabchenko, E. A. Pashitskii, A. V. Semenov, V. I. Vakaryuk, V. S. Flis, and Yu. V. Cherpak, Physica C, 388–389: 431 (2003)."
+			},
+			{
+				"doi": "10.1063/1.1596791",
+				"or":  "Ю. В. Федотов, Э. А. Пашицкий, С. М. Рябченко, В. А. Комашко, В. М. Пан, В. С. Флис, Ю. В. Черпак, Физика низких температур, 29: 842 (2003).",
+				"tr":  "Yu. V. Fedotov, E. A. Pashitskii, S. M. Ryabchenko, V. A. Komashko, V. M. Pan, V. S. Flis, and Yu. V. Cherpak, Low Temperature Physics, 29: 630 (2003)."
+			},
+			{
+				"doi": "10.1109/TASC.2005.848212",
+				"or":  "Y. V. Cherpak, V. A. Komashko, S. A. Pozigun, A. V. Semenov, C. G. Tretiatchenko, E. A. Pashitskii, and V. M. Pan, IEEE Transactions on Applied Superconductivity, 15: 2783 (2005).",
+				"tr":  "Y. V. Cherpak, V. A. Komashko, S. A. Pozigun, A. V. Semenov, C. G. Tretiatchenko, E. A. Pashitskii, and V. M. Pan, IEEE Transactions on Applied Superconductivity, 15: 2783 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Коссе, А. Ю. Прохоров, В. А. Хохлов, Г. Е. Шаталова, Н. Е. Письменова, А. В. Семёнов, М. П. Черноморец, Д. Г. Ковальчук, Г. Г. Левченко, Физика и техника высоких давлений, 15, № 3: 131 (2005).",
+				"tr":  "A. I. Kosse, A. Yu. Prokhorov, V. A. Khokhlov, G. E. Shatalova, N. E. Pis'menova, A. V. Semenov, M. P. Chernomorets, D. G. Kovalchuk, and G. G. Levchenko, Fizika i Tekhnika Vysokikh Davleniy, 15, No. 3: 131 (2005) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.73.054508",
+				"or":  "V. M. Pan, Yu. V. Cherpak, A. V. Semenov, E. A. Pashitskii, V. A. Komashko, S. A. Pozigun, C. G. Tretiatchenko, and A. V. Pan, Phys. Rev. B, 73: 054508 (2006).",
+				"tr":  "V. M. Pan, Yu. V. Cherpak, A. V. Semenov, E. A. Pashitskii, V. A. Komashko, S. A. Pozigun, C. G. Tretiatchenko, and A. V. Pan, Phys. Rev. B, 73: 054508 (2006)."
+			},
+			{
+				"doi": "10.1088/0953-2048/21/7/075015",
+				"or":  "A. I. Kosse, A. Yu. Prokhorov, V. A. Khokhlov, G. G. Levchenko, A. V. Semenov, D. G. Kovalchuk, M. P. Chernomorets, and P. N. Mikheenko, Supercond. Sci. Technol., 21: 075015 (2008).",
+				"tr":  "A. I. Kosse, A. Yu. Prokhorov, V. A. Khokhlov, G. G. Levchenko, A. V. Semenov, D. G. Kovalchuk, M. P. Chernomorets, and P. N. Mikheenko, Supercond. Sci. Technol., 21: 075015 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.65.134525",
+				"or":  "J. J. Akerman and K. V. Rao, Phys. Rev. B, 65: 134525 (2002).",
+				"tr":  "J. J. Akerman and K. V. Rao, Phys. Rev. B, 65: 134525 (2002)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.72.052504",
+				"or":  "D.-X. Chen, E. Pardo, A. Sanchez, S.-S. Wang, Z.-H. Han, E. Bartolome, T. Puig, and X. Obradors, Phys. Rev. B, 72: 052504 (2005).",
+				"tr":  "D.-X. Chen, E. Pardo, A. Sanchez, S.-S. Wang, Z.-H. Han, E. Bartolome, T. Puig, and X. Obradors, Phys. Rev. B, 72: 052504 (2005)."
+			},
+			{
+				"doi": "10.1063/1.2178469",
+				"or":  "М. П. Черноморец, Д. Г. Ковальчук, С. М. Рябченко, А. В. Семенов, Физика низких температур, 32: 277 (2006).",
+				"tr":  "M. P. Chernomorets, D. G. Kovalchuk, S. M. Ryabchenko, and A. V. Semenov, Low Temperature Physics, 32: 205 (2006)."
+			},
+			{
+				"doi": "10.1063/1.2219505",
+				"or":  "М. П. Черноморец, Д. Г. Ковальчук, С. М. Рябченко, А. В. Семенов, Э. А. Пашицкий, Физика низких температур, 32: 1096 (2006).",
+				"tr":  "M. P. Chernomorets, D. G. Kovalchuk, S. M. Ryabchenko, A. V. Semenov, and E. A. Pashitskii, Low Temperature Physics, 32: 832 (2006)."
+			},
+			{
+				"doi": "10.1063/1.3292940",
+				"or":  "Д. Г. Ковальчук, М. П. Черноморец, С. М. Рябченко, Э. А. Пашицкий, А. В. Семёнов, Физика низких температур, 36: 101 (2010).",
+				"tr":  "D. G. Kovalchuk, M. P. Chernomorets, S. M. Ryabchenko, E. A. Pashitskii, and A. V. Semenov, Low Temperature Physics, 36: 81 (2010)."
+			},
+			{
+				"doi": "10.1063/1.4843295",
+				"or":  "Д. Г. Ковальчук, М. П. Черноморец, Физика низких температур, 39: 1298 (2013).",
+				"tr":  "M. P. Chernomorets and D. G. Kovalchuk, Low Temperature Physics, 39: 1008 (2013)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.36.31",
+				"or":  "C. P. Bean, Rev. Mod. Phys., 36: 31 (1964).",
+				"tr":  "C. P. Bean, Rev. Mod. Phys., 36: 31 (1964)."
+			},
+			{
+				"doi": "10.1016/0921-4534(93)91004-F",
+				"or":  "P. N. Mikheenko and Yu. E. Kuzovlev, Physica C, 204: 229 (1993).",
+				"tr":  "P. N. Mikheenko and Yu. E. Kuzovlev, Physica C, 204: 229 (1993)."
+			},
+			{
+				"doi": "10.1016/0921-4534(93)90506-L",
+				"or":  "J. Zhu, J. Mester, J. Lockhart, and J. Turneaure, Physica C, 212: 216 (1993).",
+				"tr":  "J. Zhu, J. Mester, J. Lockhart, and J. Turneaure, Physica C, 212: 216 (1993)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.50.9355",
+				"or":  "J. R. Clem and A. Sanchez, Phys. Rev. B, 50: 9355 (1994).",
+				"tr":  "J. R. Clem and A. Sanchez, Phys. Rev. B, 50: 9355 (1994)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.55.14513",
+				"or":  "E. H. Brandt, Phys. Rev. B, 55: 14513 (1997).",
+				"tr":  "E. H. Brandt, Phys. Rev. B, 55: 14513 (1997)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.61.9699",
+				"or":  "D. V. Shantsev, Y. M. Galperin, and T. H. Johansen, Phys. Rev. B, 61: 9699 (2000).",
+				"tr":  "D. V. Shantsev, Y. M. Galperin, and T. H. Johansen, Phys. Rev. B, 61: 9699 (2000)."
+			},
+			{
+				"doi": "10.1088/0953-2048/14/12/305",
+				"or":  "S. G. Gevorgyan, T. Kiss, T. Oyama, M. Inoue, A. A. Movsisyan, H. G. Shirinyan, V. S. Gevorgyan, T. Matsushita, and M. Takeo, Supercond. Sci. Technol., 14: 1009 (2001).",
+				"tr":  "S. G. Gevorgyan, T. Kiss, T. Oyama, M. Inoue, A. A. Movsisyan, H. G. Shirinyan, V. S. Gevorgyan, T. Matsushita, and M. Takeo, Supercond. Sci. Technol., 14: 1009 (2001)."
+			}
+		]
+	}
+}

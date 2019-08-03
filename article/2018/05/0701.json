@@ -1,0 +1,83 @@
+{
+	"_id":    "MFiNT.40.05.0701",
+	"year":   2018,
+	"volume": 40,
+	"issue":  5,
+	"pages":  [701,712],
+	"rubric": 18,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["21.02.2018"],
+	"PACS":   "02.60.Cb, 45.20.-d, 46.70.-p, 62.20.Qp, 62.25.-g, 81.40.Pq, 81.70.Bt",
+	"title":   {
+		"ua": "Діягностування прихоплень металевих бурильних труб за їхнім напружено-деформованим станом у похило-скерованій свердловині",
+		"en": "Diagnosing of a Freeze-In of Metal Drill Pipes by Their Stressedly-Deformed State in the Controlled Directional Bore Hole",
+		"ru": "Диагностирование прихватов металлических бурильных труб по их напряжённо-деформированному состоянию в наклонно-направленной буровой скважине"
+	},
+	"abstract": {
+		"ua": "У статті розглянуто задачу математичного моделювання динаміки вивільнення дискретно-континуальної системи металевих бурильних труб, прихоплених у похило-скерованій свердловині. Створено комп’ютерну програму для чисельного розрахунку характеристик напружено-деформованої прихопленої металевої бурильної колони, що відповідають випадку ліквідації аварії. Розроблено методику діягностування стану металевих труб, що уможливлює обґрунтовано вибирати спосіб ліквідації прихоплень бурильного інструменту. На прикладі прихопленої металевої бурильної труби у глибокій криволінійній свердловині з урахуванням чинників її неоднорідного навантаження зовнішніми зосередженими силами, а також розподіленими силами тяжіння, контактної та фрикційної взаємодій зі стінками свердловини проведено чисельні розрахунки й одержано залежності міцности від техніко-технологічних чинників її вивільнення.",
+		"en": "The article considers the problem of a mathematical modelling of the dynamics for the release of discrete-continuous system of metal drill pipes frozen in a directional well. A computer program is created for the numerical calculation of the characteristics of stressedly deformed stuck metal drill string, which arise during the elimination of an accident. A technique for diagnosing the state of metal pipes is developed and makes it possible to justify the choice of a method for eliminating the stuck drilling tool. By the example of a stuck metal drill pipe in a deep controlled directional well, taking into account the agents of its heterogeneous load by external concentrated forces as well as the distributed gravity forces, contact and frictional interactions with walls of the well, a numerical calculation is performed, and the strength dependences on the technical and technological factors of its unfreezing are obtained.",
+		"ru": "В статье рассмотрена задача математического моделирования динамики освобождения дискретно-континуальной системы металлических бурильных труб, прихваченных в наклонно-направленной скважине. Создана компьютерная программа для численного расчёта характеристик, отвечающих случаю ликвидации аварии, напряжённо-деформированной прихваченной металлической бурильной колоны. Разработана методика диагностики состояния металлических труб, позволяющая обосновано выбирать способ ликвидации прихватов бурильного инструмента. На примере прихваченной металлической бурильной трубы в глубокой криволинейной скважине с учётом факторов её неоднородной нагрузки внешними сосредоточенными силами, а также распределёнными силами тяжести, контактного и фрикционного взаимодействий со стенками скважины проведён численный расчёт и получены зависимости прочности от технико-технологических факторов её освобождения."
+	},
+	"keywords": {
+		"ua": "похило-скерована свердловина, металева бурильна колона, прихоплення, діягностування, міцність",
+		"en": "directional well, metal drill string, stuck, diagnosis, strength",
+		"ru": "наклонно-направленная скважина, металлическая бурильная колона, прихват, диагностика, прочность"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "К. Г. Левчук", "en": "K. G. Levchuk", "ru": "Е. Г. Левчук"},
+			"OID": [1, 245]
+		}
+	],
+	"references": {
+		"count": 9,
+		"list":  [
+			{
+				"doi": "10.1021/es203765q",
+				"or":  "M. D. Lubrecht, Environ. Sci. Technol., 46, Iss. 5: 2484 (2012).",
+				"tr":  "M. D. Lubrecht, Environ. Sci. Technol., 46, Iss. 5: 2484 (2012)."
+			},
+			{
+				"doi": "10.1016/j.proeng.2010.11.049",
+				"or":  "Z. Guan, Yo. Liu, Yu. Shi., K. Wei, J. Wang, H. Liang, and H. Zhang, Procedia Eng., 7: 304 (2010).",
+				"tr":  "Z. Guan, Yo. Liu, Yu. Shi., K. Wei, J. Wang, H. Liang, and H. Zhang, Procedia Eng., 7: 304 (2010)."
+			},
+			{
+				"doi": "10.3103/S0025654416020114",
+				"or":  "E. N. Andrusenko, V. I. Gulyaev, and N. V. Shlyun’, Mech. Solids, 51, Iss. 2: 234 (2016).",
+				"tr":  "E. N. Andrusenko, V. I. Gulyaev, and N. V. Shlyun', Mech. Solids, 51, Iss. 2: 234 (2016)."
+			},
+			{
+				"doi": "10.1007/s11003-013-9590-6",
+				"or":  "E. I. Kryzhanivs’kyi, R. S. Hrabovs’kyi, and O. M. Mandryk, Mater. Sci., 49, Iss. 1: 117 (2013).",
+				"tr":  "E. I. Kryzhanivs'kyi, R. S. Hrabovs'kyi, and O. M. Mandryk, Mater. Sci., 49, Iss. 1: 117 (2013)."
+			},
+			{
+				"doi": "10.2478/v10267-012-0038-x",
+				"or":  "V. Moisyshyn, V. Yacyshyn, and O. Vytyaz, Archives Mining Sci., 57, Iss. 3: 601 (2012).",
+				"tr":  "V. Moisyshyn, V. Yacyshyn, and O. Vytyaz, Archives Mining Sci., 57, Iss. 3: 601 (2012)."
+			},
+			{
+				"doi": "10.1023/A:1008306327781",
+				"or":  "B. L. van de Vrande, D. H. van Campen, and A. de Kraker, Nonlinear Dyn., Iss. 2: 159 (1999).",
+				"tr":  "B. L. van de Vrande, D. H. van Campen, and A. de Kraker, Nonlinear Dyn., Iss. 2: 159 (1999)."
+			},
+			{
+				"doi": "10.15407/mfint.38.12.1655",
+				"or":  "К. Г. Левчук, В. М. Мойсишин, І. В. Цідило, Металлофиз. новейшие технол., 38, № 12: 1655 (2016).",
+				"tr":  "K. G. Levchuk, V. M. Moisyshyn, and I. V. Tsidylo, Metallofiz. Noveishie Tekhnol., 38, No. 12: 1655 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15587/1729-4061.2017.65718",
+				"or":  "O. Vlasiy, V. Mazurenko, L. Ropyak, and A. Rogal, Eastern-Eur. J. Enterprise Technol., 1, No. 7 (85) (2017).",
+				"tr":  "O. Vlasiy, V. Mazurenko, L. Ropyak, and A. Rogal, Eastern-Eur. J. Enterprise Technol., 1, No. 7 (85) (2017)."
+			},
+			{
+				"doi": "10.2516/ogst:2005010",
+				"or":  "K. Bateman, G. Turner, J. M. Pearce, D. J. Noy, D. Birchall, and C. A. Rochelle, Oil Gas Sci. Technol., 60, No. 1: 161 (2005).",
+				"tr":  "K. Bateman, G. Turner, J. M. Pearce, D. J. Noy, D. Birchall, and C. A. Rochelle, Oil Gas Sci. Technol., 60, No. 1: 161 (2005)."
+			}
+		]
+	}
+}

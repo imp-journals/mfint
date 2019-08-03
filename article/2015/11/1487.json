@@ -1,0 +1,143 @@
+{
+	"_id":    "MFiNT.37.11.1487",
+	"year":   2015,
+	"volume": 37,
+	"issue":  11,
+	"pages":  [1487,1501],
+	"rubric": 9,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["17.09.2015"],
+	"PACS":   "65.40.gh, 73.20.At,73.30.+y, 73.63.Bd, 79.40.+z, 81.05.uj, 81.65.Lp",
+	"title":  {
+			"ua": "Емісійні характеристики легованих азотом наноструктурних алмазних покриттів, синтезованих у плазмі тліючого розряду",
+			"en": "Emission Characteristics of Nitrogen-Doped Nanostructure Diamond Coating Synthesized in Glow Discharge Plasma",
+			"ru": "Эмиссионные характеристики легированных азотом наноструктурных алмазных покрытий, синтезированных в плазме тлеющего разряда"
+		},
+	"abstract": {
+		"ua": "Досліджено емісійні характеристики леґованих Нітроґеном наноструктурних діямантових покриттів із питомим опором у діяпазоні 2,3$\\cdot$10$^{4}$—4$\\cdot$10$^{1}$ Ом$\\cdot$см, одержаних у плазмі жеврійного розряду за різних умов. Показано, що емісійний струм із поверхні зразків з’являється після видалення домішок при відпалі в інтервалі 603—818 К, що створюють поверхневі акцепторні електронні стани p-типу, які впливають на роботу виходу, що визначається методою контактної ріжниці потенціялів по зміщенню вольт-амперної характеристики. Для наноструктурного діямантового покриття з питомим опором у 2,4$\\cdot$10$^{2}$ Ом$\\cdot$см одержано найбільш низьке значення роботи виходу у 1,28 еВ і найбільшу густину струму у 6,9 мА/см$^{2}$ при 963 К.",
+		"en": "The emission characteristics of the nitrogen-doped nanostructure diamond coatings with a resistivity in the range of 2.3$\\cdot$10$^{4}$—4$\\cdot$10$^{1}$ Ohm$\\cdot$cm obtained in glow discharge plasma under different conditions are investigated. As shown, the emission current from the sample surface appears after the removing of impurities during annealing in the range 603—818 K, which create surface acceptor electron states of p-type. That states affect the work function determined by the contact potential difference of shifting current—voltage characteristics. For the nanostructure diamond coating with a resistivity of 2.4$\\cdot$10$^{2}$ Ohm$\\cdot$cm, the lowest value of the work function of 1.28 eV and the highest current density of 6.9 mA/cm$^{2}$ at 963 K are determined.",
+		"ru": "Исследованы эмиссионные характеристики легированных азотом наноструктурных алмазных покрытий с удельным сопротивлением в диапазоне 2,3$\\cdot$10$^{4}$—4$\\cdot$10$^{1}$ Ом$\\cdot$см, полученных в плазме тлеющего разряда в различных условиях. Показано, что эмиссионный ток с поверхности образцов появляется после удаления примесей при отжиге в интервале 603—818 К, создающих поверхностные акцепторные электронные состояния p-типа, влияющие на работу выхода, определяемую методом контактной разницы потенциалов по смещению вольт-амперной характеристики. Для наноструктурного алмазного покрытия с удельным сопротивлением 2,4$\\cdot$10$^{2}$ Ом$\\cdot$см получено наиболее низкое значение работы выхода 1,28 эВ и наибольшая плотность тока 6,9 мА/см$^{2}$ при 963 К."
+	},
+	"keywords": {
+		"ua": "діямантові плівки, термоелектронна емісія, робота входу, поверхневі електронні стани",
+		"en": "diamond films, thermionic emission, work function, surface electron states",
+		"ru": "алмазные плёнки, термоэлектронная эмиссия, работа выхода, поверхностные электронные состояния"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. Ф. Дудник", "en": "S. F. Dudnyk", "ru": "С. Ф. Дудник"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "К. І. Кошевой", "en": "K. I. Koshevoi", "ru": "К. И. Кошевой"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "М. М. Нищенко", "en": "M. M. Nishchenko", "ru": "М. М. Нищенко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. В. Смольнік", "en": "S. V. Smolnik", "ru": "С. В. Смольник"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. Е. Стрельницький", "en": "V. E. Strelnytskyi", "ru": "В. Е. Стрельницкий"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "М. Я. Шевченко", "en": "M. Ya. Shevchenko", "ru": "Н. А. Шевченко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 17,
+		"list":  [
+			{
+				"doi": "10.1103/PhysRevB.20.624",
+				"or":  "F. J. Himpsel, J. A. Knapp, J. A. VanVechten, and D. E. Eastman, Phys. Rev. B, 20: 624 (1979).",
+				"tr":  "F. J. Himpsel, J. A. Knapp, J. A. VanVechten, and D. E. Eastman, Phys. Rev. B, 20: 624 (1979)."
+			},
+			{
+				"doi": "10.1063/1.1785288",
+				"or":  "O. A. Williams, S. Curat, J. E. Gerbi, D. M. Gruen, and R. B. Jackman, Appl. Phys. Lett., 85, No. 10: 1680 (2001).",
+				"tr":  "O. A. Williams, S. Curat, J. E. Gerbi, D. M. Gruen, and R. B. Jackman, Appl. Phys. Lett., 85, No. 10: 1680 (2001)."
+			},
+			{
+				"doi": "10.1016/S0040-6090(03)01059-9",
+				"or":  "S. H. Seo, T. H. Lee, Y. D. Kim, Ch. K. Park, and J. S. Park, Thin Solid Films, 447–448: 212 (2004).",
+				"tr":  "S. H. Seo, T. H. Lee, Y. D. Kim, Ch. K. Park, and J. S. Park, Thin Solid Films, 447–448: 212 (2004)."
+			},
+			{
+				"doi": "10.1016/j.diamond.2009.05.004",
+				"or":  "M. Suzuki, T. Ono, N. Sakuma, and T. Sakai, Diamond & Related Materials, 18: 1274 (2009).",
+				"tr":  "M. Suzuki, T. Ono, N. Sakuma, and T. Sakai, Diamond & Related Materials, 18: 1274 (2009)."
+			},
+			{
+				"doi": "10.1016/j.diamond.2008.11.023",
+				"or":  "F. A. M. Koeck and R. J. Nemanich, Diamond & Related Materials, 18, No. 2: 232 (2009).",
+				"tr":  "F. A. M. Koeck and R. J. Nemanich, Diamond & Related Materials, 18, No. 2: 232 (2009)."
+			},
+			{
+				"doi": "10.1016/j.diamond.2011.06.032",
+				"or":  "F. A. M. Koeck, R. J. Nemanich, Y. Balasubramaniam, K. Haenen, and J. Sharp, Diamond & Related Materials, 20, No. 8: 1229 (2011).",
+				"tr":  "F. A. M. Koeck, R. J. Nemanich, Y. Balasubramaniam, K. Haenen, and J. Sharp, Diamond & Related Materials, 20, No. 8: 1229 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Выровец, В. И. Грицына, С. Ф. Дудник, О. А. Опалев, О. М. Решетняк, В. Е. Стрельницкий, Материалы 21 Международного симпозиума «Тонкие пленки в электронике» (Москва: ОАО «ЦНИТИ ТЕХНОМАШ»: 2008).",
+				"tr":  "I. I. Vyrovets, V. I. Gritsyna, S. F. Dudnik, O. A. Opalev, O. M. Reshetnyak, and V. E. Strel'nickii, Materialy 21 Mezhdunarodnogo Simpoziuma 'Tonkie Plenki v Elektronike' (Moscow: OAO 'TsNITI TEHNOMASh': 2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Выровец, В. И. Грицына, С. Ф. Дудник, О. А. Опалев, Е. Н. Решетняк, В. Е. Стрельницкий, Международная научная конференция «Физико-химические основы формирования и модификации микро - и наноструктур» (октябрь 2009 г., Харьков), т. 1, с. 210.",
+				"tr":  "I. I. Vyrovets, V. I. Gritsyna, S. F. Dudnik, O. A. Opalev, O. M. Reshetnyak, and V. E. Strel'nickii, Mezhdunarodnaya Nauchnaya Konferentsiya 'Fiziko-Khimicheskie Osnovy Formirovaniya i Modifikatsii Mikro - i Nanostruktur', (October 2009, Kharkov), vol. 1, p. 210 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Грицына, С. Ф. Дудник, К. И. Кошевой, О. А. Опалев, Е. Н. Решетняк, В. Е. Стрельницкий, Физическая инженерия поверхности, 11, № 4: 338 (2013).",
+				"tr":  "V. I. Gritsyna, S. F. Dudnik, K. I. Koshevoi, O. A. Opalev, E. N. Reshetnyak, and V. E. Strel'nickii, Physical Surface Engineering, 11, No. 4: 338 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Я. Меламед, В. И. Силантьев, Н. А. Шевченко, Физические методы исследования металлов (Киев: Наукова думка: 1981).",
+				"tr":  "B. Ya. Melamed, V. I. Silantiev, and N. A. Shevchenko, Fizicheskie Metody Issledovaniya Metallov [Physical Methods of Metals Studying] (Kiev: Naukova Dumka: 1981) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRev.47.958",
+				"or":  "P. A. Anderson, Phys. Rev., 47: 958 (1935).",
+				"tr":  "P. A. Anderson, Phys. Rev., 47: 958 (1935)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Силантьев, Н. А. Шевченко, Б. Я. Меламед, УФЖ, 24, № 8: 1227 (1979).",
+				"tr":  "V. I. Silantiev, N. A. Shevchenko, and B. Ya. Melamed, Ukrainskiy Fizicheskiy Zhurnal, 24, No. 8: 1227 (1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Силантьев, Н. А. Шевченко, Б. Я. Меламед, Вопросы атомной науки и техники. Серия: Общая и ядерная физика, 1, № 2: 66 (1983).",
+				"tr":  "V. I. Silantiev, N. A. Shevchenko, and B. Ya. Melamed, Voprosy Atomnoy Nauki i Tekhniki. Seriya: Obshchaya i Yadernaya Fizika, 1, No. 2: 66 (1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Комолов, Интегральная вторично-электронная спектроскопия поверхности (Ленинград: Изд. Ленинградского университета: 1986)",
+				"tr":  "S. A. Komolov, Integral'naya Vtorichno-Elektronnaya Spektroskopiya Poverkhnosti [Total Current Spectroscopy of Surfaces] (Leningrad: Izd. Leningrad Universitet: 1986) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0039-6028(98)00718-3",
+				"or":  "L. Diederich, O. M. Küttel, P. Aebi, and L. Schlapbach, Surf. Sci., 418: 219 (1998).",
+				"tr":  "L. Diederich, O. M. Küttel, P. Aebi, and L. Schlapbach, Surf. Sci., 418: 219 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "O. М. Артамонов, С. Н. Самарин, ЖТФ, 61, № 10: 186 (1991).",
+				"tr":  "O. M. Artamonov and S. N. Samarin, ZhTF, 61, No. 10: 186 (1991) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.33.2607",
+				"or":  "D. Straub, L. Ley, and F. I. Himpsel, Phys. Rev. B, 33, No. 4: 2607 (1986).",
+				"tr":  "D. Straub, L. Ley, and F. I. Himpsel, Phys. Rev. B, 33, No. 4: 2607 (1986)."
+			}
+		]
+	}
+}

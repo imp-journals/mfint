@@ -1,0 +1,183 @@
+{
+	"_id":    "MFiNT.36.11.1547",
+	"year":   2014,
+	"volume": 36,
+	"issue":  11,
+	"pages":  [1547,1560],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["19.03.2014","23.10.2014"],
+	"PACS":   "62.20.fg, 81.05.Bx, 81.20.Ev, 81.30.Kf, 81.40.Ef, 81.40.Jj, 81.70.Bt",
+	"title":   {
+		"ua": "Механічні випробування матеріалів із пам’яттю форми, одержаних плазмово-іскровою методою",
+		"en": "Mechanical Testing of the Shape-Memory Materials Synthesized by a Plasma-Spark Method",
+		"ru": "Механические испытания материалов с памятью формы, полученных плазменно-искровым методом"
+	},
+	"abstract": {
+		"ua": "Випробування на стиснення було виконано при кімнатній температурі для зразків стопів Ni49,0—Mn28,5—Ga22,5 (ат.%) та Ni63—Al37 (ат.%), як щойно витоплених, так і одержаних плазмово-іскровою методою (ПІМ). Для обох систем пластичність ПІМ-зразків зростає більш ніж на порядок порівняно із вихідними. Міцність на стиск стопу Ni—Mn—Ga збільшується від 180—240 МПа для щойно витоплених зразків до 510—815 МПа для ПІМ-зразків, залежно від режимів оброблення; для стопу Ni—Al – від 760 до 1310 МПа. Напруження руйнування зразків Ni—Mn—Ga збільшується від 185—215 до 1170 МПа, а для зразків Ni—Al – від 790 до 1870 МПа. Спечені зразки обох систем мають композитну структуру, утворену з металевих частинок мікронних розмірів, пов’язаних сполучною фазою, що складається з Ni$_{3}$Al і Al$_{2}$O$_{3}$ для стопу Ni—Al та з MnO з невеликою кількістю Ni$_{3}$Ga для стопу Ni—Mn—Ga. Передбачається, що ця фаза зміцнює межі зерен. Це разом із зменшенням розміру зерна, а також багатозв’язною морфологією зразків Ni—Mn-Ga, консолідованих із порожнистих частинок, та наявністю пластичної $\\gamma^{'}$-фази в частинках Ni—Al покращує механічні властивості стопів, одержаних плазмово-іскровою методою.",
+		"en": "Compression tests are carried out at room temperature with the as-cast and spark-plasma sintered (SPS) specimens of Ni49.0—Mn28.5—Ga22.5 (at.%) and Ni63—Al37 (at.%) alloys. For both systems, ductility of the SPS compacts increases more than by one order of magnitude. Compressive strength of Ni—Mn—Ga alloy increases from 180—240 MPa for induction melted specimens to 510—815 MPa for spark-plasma sintered specimens, depending on the regimes of processing, and for Ni—Al alloy, from 760 to 1310 MPa. Fracture stress of Ni—Mn—Ga and Ni—Al specimens raise from 185—215 to 1170 MPa and from 790 to 1870 MPa, respectively. The SEM and XRD investigations reveal that sintered samples of both systems have a composite structure, which contains the micron-size metallic particles bound by the binder phase. This phase consists of Ni$_{3}$Al and Al$_{2}$O$_{3}$ phases in case of Ni—Al alloy and consists of MnO with apparently small amount of Ni$_{3}$Ga phase in case of Ni—Mn—Ga alloy. As assumed, this phase strengthens the grain boundaries. This one, in conjunction with reduction of the grain size, the manifold morphology of the Ni—Mn—Ga specimens consolidated from the hollow particles, the presence of extra ductile $\\gamma^{'}$-phase in Ni—Al particles, provides the enhancing mechanical properties of alloys fabricated by means of the SPS method.",
+		"ru": "Испытания на сжатие были выполнены при комнатной температуре для образцов сплавов Ni49,0—Mn28,5—Ga22,5 (ат.%) и Ni63—Al37 (ат.%), как для выплавленных, так и полученных плазменно-искровым методом (ПИМ). Для обеих систем пластичность ПИМ-образцов возрастает более чем на порядок по сравнению с исходными. Прочность на сжатие сплава Ni—Mn—Ga увеличивается от 180—240 МПа для выплавленных образцов до 510—815 МПа для ПИМ-образцов в зависимости от режимов обработки, для сплава Ni—Al – от 760 до 1310 МПа. Напряжение разрушения образцов Ni—Mn—Ga увеличивается от 185—215 до 1170 МПа, а для образцов Ni—Al – от 790 до 1870 МПа. Спечённые образцы обеих систем имеют композитную структуру, образованную из металлических частиц микронных размеров, скреплённых связующей фазой, состоящей из Ni$_{3}$Al и Al$_{2}$O$_{3}$ для сплава Ni—Al и из MnO с небольшим количеством Ni$_{3}$Ga для сплава Ni—Mn—Ga. Предполагается, что эта фаза укрепляет границы зёрен. Это вместе с уменьшением размера зерна, а также многосвязной морфологией образцов Ni—Mn—Ga, консолидированных из полых частиц, и наличием пластической $\\gamma^{'}$-фазы в частицах Ni—Al улучшает механические свойства сплавов, полученных плазменно-искровым методом."
+	},
+	"keywords": {
+		"ua": "випробування на стиснення, стопи Ni—Mn—Ga, стопи Ni—Al, плазмово-іскрова метода, метода електро-іскрової ерозії",
+		"en": "mechanical compressive tests, Ni—Mn—Ga alloys, Ni—Al alloys, spark-plasma sintering method, spark-erosion method",
+		"ru": "испытания на сжатие, сплавы Ni—Mn—Ga, сплавы Ni—Al, плазменно-искровой метод, метод электро-искровой эрозии"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Г. Є. Монастирський", "en": "G. E. Monastyrsky", "ru": "Г. Е. Монастырский"},
+			"OID": [202,1]
+		},
+		{
+			"AID": {"ua": "А. В. Гільчук", "en": "A. V. Gilchuk", "ru": "А. В. Гильчук"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "П. Ошан", "en": "P. Ochin", "ru": "П. Ошан"},
+			"OID": [469]
+		},
+		{
+			"AID": {"ua": "О. М. Іванова", "en": "O. M. Ivanova", "ru": "О. Н. Иванова"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "Ю. М. Подрєзов", "en": "Yu. N. Podrezov", "ru": "Ю. Н. Подрезов"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "Ю. М. Коваль", "en": "Yu. N. Koval", "ru": "Ю. Н. Коваль"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 25,
+		"list":  [
+			{
+				"doi": "10.1016/j.msea.2006.12.191",
+				"or":  "O. Söderberg, Y. Ge, I. Aaltio, O. Heczko, and S.-P. Hannula, Mater. Sci. Eng., A481–482: 80 (2008).",
+				"tr":  "O. Söderberg, Y. Ge, I. Aaltio, O. Heczko, and S.-P. Hannula, Mater. Sci. Eng., A481–482: 80 (2008)."
+			},
+			{
+				"doi": "10.2320/matertrans1989.40.389",
+				"or":  "Z. Wang, M. Matsumoto, T. Abe, K. Oikawa, J. H. Qiu, T. Takagi, and J. Tani, Mater. Trans., 40: 389 (1999).",
+				"tr":  "Z. Wang, M. Matsumoto, T. Abe, K. Oikawa, J. H. Qiu, T. Takagi, and J. Tani, Mater. Trans., 40: 389 (1999)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2011.02.166",
+				"or":  "O. Söderberg, D. Brown, I. Aaltio, J. Oksanen, J. Syrén, H. Pulkkinen, and S.-P. Hannula, J. Alloys Compd., 509: 5981 (2011).",
+				"tr":  "O. Söderberg, D. Brown, I. Aaltio, J. Oksanen, J. Syrén, H. Pulkkinen, and S.-P. Hannula, J. Alloys Compd., 509: 5981 (2011)."
+			},
+			{
+				"doi": "10.1088/1674-1056/20/4/047503",
+				"or":  "X. H. Tian, J. H. Sui, X. Zhang, X. Feng, and W. Cai, Chin. Phys. B, 20, No.4: 047503 (2011).",
+				"tr":  "X. H. Tian, J. H. Sui, X. Zhang, X. Feng, and W. Cai, Chin. Phys. B, 20, No.4: 047503 (2011)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2011.01.001",
+				"or":  "X. H. Tian, J. H. Sui, X. Zhang, X. Feng, and W. Cai, J. Alloys Compd., 509: 4081 (2011).",
+				"tr":  "X. H. Tian, J. H. Sui, X. Zhang, X. Feng, and W. Cai, J. Alloys Compd., 509: 4081 (2011)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2011.11.077",
+				"or":  "X. H. Tian, J. H. Sui, X. Zhang, X. H. Zheng, and W. Cai, J. Alloys Compd., 514: 210 (2012).",
+				"tr":  "X. H. Tian, J. H. Sui, X. Zhang, X. H. Zheng, and W. Cai, J. Alloys Compd., 514: 210 (2012)."
+			},
+			{
+				"doi": "10.2320/matertrans1989.40.871",
+				"or":  "Z. Wang, M. Matsumoto, T. Abe, K. Oikawa, T. Takagi, J. Qiu, and J. Tani, Mater. Trans., 40, No.9: 871 (1999).",
+				"tr":  "Z. Wang, M. Matsumoto, T. Abe, K. Oikawa, T. Takagi, J. Qiu, and J. Tani, Mater. Trans., 40, No.9: 871 (1999)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.738-739.451",
+				"or":  "P. Ochin, A. V. Gilchuk, G. E. Monastyrsky, Yu. N. Koval, A. A. Shcherba, and S. N. Zaharchenko, Mater. Sci. Forum, 738–739: 451 (2013).",
+				"tr":  "P. Ochin, A. V. Gilchuk, G. E. Monastyrsky, Yu. N. Koval, A. A. Shcherba, and S. N. Zaharchenko, Mater. Sci. Forum, 738–739: 451 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "O. C. Alonso, J. G. Cabañas-Moreno, J. J. Cruz-Rivera, H. A. Calderón, M. Umemoto, K. Tsuchiya, S. Quintana-Molina, and C. Falcony, J. Metastable and Nanocrystalline Materials, 8: 635 (2000).",
+				"tr":  "O. C. Alonso, J. G. Caba-as-Moreno, J. J. Cruz-Rivera, H. A. Calderón, M. Umemoto, K. Tsuchiya, S. Quintana-Molina, and C. Falcony, J. Metastable and Nanocrystalline Materials, 8: 635 (2000)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.449-452.1101",
+				"or":  "J. S. Kim, S. H. Jung, Y. Do Kim, C. H. Lee, and Y. S. Kwon, Mater. Sci. Forum, 449–452: 1101 (2004).",
+				"tr":  "J. S. Kim, S. H. Jung, Y. Do Kim, C. H. Lee, and Y. S. Kwon, Mater. Sci. Forum, 449–452: 1101 (2004)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/SSP.119.35",
+				"or":  "J. S. Kim, H. S. Choi, D. V. Dudina, J. K. Lee, and Y. S. Kwon, Solid State Phenom., 119: 35 (2007).",
+				"tr":  "J. S. Kim, H. S. Choi, D. V. Dudina, J. K. Lee, and Y. S. Kwon, Solid State Phenom., 119: 35 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "G. E. Monastyrsky, P. A. Yakovenko, V. I. Kolomytsev, Yu. N. Koval, A. A. Shcherba, and R. Portier, Mater. Sci. Eng. A, 481–82: 781 (2008).",
+				"tr":  "G. E. Monastyrsky, P. A. Yakovenko, V. I. Kolomytsev, Yu. N. Koval, A. A. Shcherba, and R. Portier, Mater. Sci. Eng. A, 481–82: 781 (2008)."
+			},
+			{
+				"doi": "10.1063/1.1635973",
+				"or":  "J. Carrey, H. B. Radousky, and A. E. Berkowitz, J. Appl. Phys., 95: 823 (2004).",
+				"tr":  "J. Carrey, H. B. Radousky, and A. E. Berkowitz, J. Appl. Phys., 95: 823 (2004)."
+			},
+			{
+				"doi": "10.1016/0956-7151(93)90001-9",
+				"or":  "D. B. Miracle, Acta Metall. Mater., 41, No. 3: 649 (1993).",
+				"tr":  "D. B. Miracle, Acta Metall. Mater., 41, No. 3: 649 (1993)."
+			},
+			{
+				"doi": "10.1002/pssa.2211330203",
+				"or":  "P. V. Mohan Rao, K. Satyanarayana Murthy, S. V. Suryanarayana, and S. V. Nagnder Naidu, phys. status solidi (a), 133: 231 (1992).",
+				"tr":  "P. V. Mohan Rao, K. Satyanarayana Murthy, S. V. Suryanarayana, and S. V. Nagnder Naidu, phys. status solidi (a), 133: 231 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Rosen and J. A. Goebel, Trans. Metall. Soc. AIME, 242: 722 (1968).",
+				"tr":  "S. Rosen and J. A. Goebel, Trans. Metall. Soc. AIME, 242: 722 (1968)."
+			},
+			{
+				"doi": "10.2320/matertrans1960.14.161",
+				"or":  "K. Enami, S. Nenno, and K. Shimizu, Trans. Jap. Inst. Metals, 14: 161 (1973).",
+				"tr":  "K. Enami, S. Nenno, and K. Shimizu, Trans. Jap. Inst. Metals, 14: 161 (1973)."
+			},
+			{
+				"doi": "10.1107/S0108768193006901",
+				"or":  "E. N. Maslen, V. A. Streltsov, N. R. Streltsova, N. Ishizawa, and Y. Satow, Acta Crystallogr. Sec. B: Structural Science, 49: 973 (1993).",
+				"tr":  "E. N. Maslen, V. A. Streltsov, N. R. Streltsova, N. Ishizawa, and Y. Satow, Acta Crystallogr. Sec. B: Structural Science, 49: 973 (1993)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(00)00130-0",
+				"or":  "J. Pons, V. A. Chernenko, R. Santamarta, and E. Cesari, Acta Mat., 48: 3027 (2000).",
+				"tr":  "J. Pons, V. A. Chernenko, R. Santamarta, and E. Cesari, Acta Mat., 48: 3027 (2000)."
+			},
+			{
+				"doi": "10.1111/j.1151-2916.1964.tb13806.x",
+				"or":  "C. A. Barrett and E. B. Evans, J. Am. Ceram. Soc., 47: 533 (1964).",
+				"tr":  "C. A. Barrett and E. B. Evans, J. Am. Ceram. Soc., 47: 533 (1964)."
+			},
+			{
+				"doi": "10.1080/13642817408246515",
+				"or":  "P. J. Webster, K. R. A. Ziebeck, S. L. Town, and M. S. Peak, Philos. Mag. B, 49: 295 (1984).",
+				"tr":  "P. J. Webster, K. R. A. Ziebeck, S. L. Town, and M. S. Peak, Philos. Mag. B, 49: 295 (1984)."
+			},
+			{
+				"doi": "10.1103/PhysRev.101.537",
+				"or":  "J. S. Kasper and B. W. Roberts, Phys. Rev., 101: 537 (1956).",
+				"tr":  "J. S. Kasper and B. W. Roberts, Phys. Rev., 101: 537 (1956)."
+			},
+			{
+				"doi": "10.1016/0001-6160(85)90211-1",
+				"or":  "Y. Mishima, S. Ochiai, and T. Suzuki, Acta Metall., 33: 1161 (1985).",
+				"tr":  "Y. Mishima, S. Ochiai, and T. Suzuki, Acta Metall., 33: 1161 (1985)."
+			},
+			{
+				"doi": "10.1002/zamm.19280080302",
+				"or":  "G. E. Monastyrsky, P. Ochin, A. V. Gilchuk, V. I. Kolomytsev, and Yu. N. Koval, J. Nano- and Electronic Physics, 4: 01007-1 (2012); R. von Mises, Z. Angew. Math., 8: 161 (1928).",
+				"tr":  "G. E. Monastyrsky, P. Ochin, A. V. Gilchuk, V. I. Kolomytsev, and Yu. N. Koval, J. Nano- and Electronic Physics, 4: 01007-1 (2012); R. von Mises, Z. Angew. Math., 8: 161 (1928)."
+			},
+			{
+				"doi": "10.1016/0921-5093(92)90062-6",
+				"or":  "S. Dymek, M. Dollar, S. J. Hwang, and P. Nash, Mater. Sci. Eng. A, 152: 160 (1992).",
+				"tr":  "S. Dymek, M. Dollar, S. J. Hwang, and P. Nash, Mater. Sci. Eng. A, 152: 160 (1992)."
+			}
+		]
+	}
+}

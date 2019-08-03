@@ -1,0 +1,172 @@
+{
+	"_id":    "MFiNT.39.09.1149",
+	"year":   2017,
+	"volume": 39,
+	"issue":  9,
+	"pages":  [1149,1163],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["18.07.2017"],
+	"PACS":   "61.50.Ks, 71.15.Ap, 71.15.Mb, 71.15.Nc, 71.20.Dg, 71.30.+h, 88.30.rd",
+	"title":   {
+		"ua": "Стабільність та електронна будова фаз дигідриду маґнію",
+		"en": "Stability and Electronic Structure of Magnesium Dihydride Phases",
+		"ru": "Стабильность и электронное строение фаз дигидрида магния"
+	},
+	"abstract": {
+		"ua": "За допомогою зонних розрахунків методом FLAPW (full-potential linearized augmented plane-wave) одержано інформацію про енергетичні характеристики, зарядові стани атомів, характер хемічних зв’язків, структуру валентних смуг і смуг провідности поліморфних модифікацій дігідриду маґнію. Виявлено, що всі фази дігідриду маґнію є немагнетними ізоляторами, а електронні стани атомів металу та Гідроґену є гібридизованими на усій протяжності як їхніх валентних смуг, так і смуг провідности. Показано, що пониження сукупного заряду електронів у міжатомовій області приводить до зменшення когезійних енергій фаз високого тиску дігідриду маґнію, що може сприяти поліпшенню кінетики десорбції водню в них.",
+		"en": "By means of the band calculations based on the FLAPW (full-potential linearized augmented plane-wave) method, information about the energy characteristics, the charge states of atoms, the nature of chemical bonds, the structure of the valence and conductivity bands of polymorphous modifications of magnesium dihydride is obtained. As found, all phases of magnesium dihydride are nonmagnetic insulators, and the electron states of the metal and hydrogen atoms turn out to be hybridized throughout their valence and conduction bands. As shown, the decrease in a total charge of electrons within the interatomic region leads to the decrease in cohesive energies of the high-pressure magnesium-dihydride phases that can to improve the kinetics of hydrogen desorption from them.",
+		"ru": "С помощью зонных расчётов методом FLAPW (full-potential linearized augmented plane-wave) получена информация об энергетических характеристиках, зарядовых состояниях атомов, характере химических связей, структуре валентных полос и полос проводимости полиморфных модификаций дигидрида магния. Обнаружено, что все фазы дигидрида магния являются немагнитными изоляторами, а электронные состояния атомов металла и водорода оказываются гибридизированными на всем протяжении как их валентных полос, так и полос проводимости. Показано, что снижение совокупного заряда электронов в межатомной области приводит к уменьшению когезионных энергий фаз высокого давления дигидрида магния, что может способствовать улучшению кинетики десорбции водорода в них."
+	},
+	"keywords": {
+		"ua": "зонні розрахунки, електронна будова, стабільність фаз, поліморфізм, дігідрид маґнію",
+		"en": "band calculations, electronic structure, phase stability, polymorphism, magnesium dioxide",
+		"ru": "зонные расчёты, электронное строение, стабильность фаз, полиморфизм, дигидрид магния"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. М. Уваров", "en": "V. N. Uvarov", "ru": "В. Н. Уваров"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. В. Уваров", "en": "N. V. Uvarov", "ru": "Н. В. Уваров"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 26,
+		"list":  [
+			{
+				"doi": "10.1038/35104634",
+				"or":  "L. Schlapbach and A. A. Züttel, Nature, 414: 353 (2001).",
+				"tr":  "L. Schlapbach and A. A. Züttel, Nature, 414: 353 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "V. N. Verbetsky and S. N. Klyamkin, Hydrogen Energy Progress VII (New York: Pergamon: 1988), vol. 2, p. 1319.",
+				"tr":  "V. N. Verbetsky and S. N. Klyamkin, Hydrogen Energy Progress VII (New York: Pergamon: 1988), vol. 2, p. 1319."
+			},
+			{
+				"doi": "",
+				"or":  "М. М. Антонова, Соединения магния — аккумуляторы водорода (Киев: 1992) (Препринт/АН Украины. ИПМ. 1992).",
+				"tr":  "M. M. Antonova, Soedineniya Magniya—Akkumulyatory Vodoroda [Compounds of Magnesium—Hydrogen Accumulators] (Kiev: 1992) (Preprint/A.S. of Ukraine. IPM. 1992) (in Russian)."
+			},
+			{
+				"doi": "10.1007/s003390100772",
+				"or":  "J. Huot, G. Liang, and R. Schulz, Appl. Phys. A, 72: 187 (2001).",
+				"tr":  "J. Huot, G. Liang, and R. Schulz, Appl. Phys. A, 72: 187 (2001)."
+			},
+			{
+				"doi": "10.1007/3-540-54668-5",
+				"or":  "L. Schlapbach, Hydrogen in Intermetallic Compounds II (Berlin: Springer: 1992).",
+				"tr":  "L. Schlapbach, Hydrogen in Intermetallic Compounds II (Berlin: Springer: 1992)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.31.261",
+				"or":  "F. D. Manchester and D. Khatamian, Mater. Sci. Forum, 31: 261 (1988).",
+				"tr":  "F. D. Manchester and D. Khatamian, Mater. Sci. Forum, 31: 261 (1988)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(99)00073-0",
+				"or":  "A. Zaluska, L. Zaluski, and J. O. Strom-Olsen, J. Alloys Compd., 288: 217 (1999).",
+				"tr":  "A. Zaluska, L. Zaluski, and J. O. Strom-Olsen, J. Alloys Compd., 288: 217 (1999)."
+			},
+			{
+				"doi": "10.1007/s003390100783",
+				"or":  "A. Zaluska, L. Zaluski, and J. O. Strom-Olsen, Appl. Phys. A, 72: 157 (2001).",
+				"tr":  "A. Zaluska, L. Zaluski, and J. O. Strom-Olsen, Appl. Phys. A, 72: 157 (2001)."
+			},
+			{
+				"doi": "10.1149/1.2012238",
+				"or":  "R. A. H. Niessen and P. H. L. Notten, Electrochem. Solid-State Lett., 8A: 534 (2005).",
+				"tr":  "R. A. H. Niessen and P. H. L. Notten, Electrochem. Solid-State Lett., 8A: 534 (2005)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2004.09.096",
+				"or":  "R. A. H. Niessen and P. H. L. Notten, J. Alloys Compounds, 404: 457 (2005).",
+				"tr":  "R. A. H. Niessen and P. H. L. Notten, J. Alloys Compounds, 404: 457 (2005)."
+			},
+			{
+				"doi": "10.1016/j.elecom.2005.10.013",
+				"or":  "P. Vermeulen, R. A. H. Niessen, and P. H. L. Notten, Electrochem. Commun., 8: 27 (2006).",
+				"tr":  "P. Vermeulen, R. A. H. Niessen, and P. H. L. Notten, Electrochem. Commun., 8: 27 (2006)."
+			},
+			{
+				"doi": "10.1143/JPSJ.75.074603",
+				"or":  "T. Moriwaki, Y. Akahama, H. Kawamura, S. Nakano, and K. Takemura, J. Physical Society of Japan, 75, No. 7: 074603 (2006).",
+				"tr":  "T. Moriwaki, Y. Akahama, H. Kawamura, S. Nakano, and K. Takemura, J. Physical Society of Japan, 75, No. 7: 074603 (2006)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.73.224102",
+				"or":  "P. Vajeeston, P. Ravindran, B. C. Hauback, H. Fjellvåg, A. Kjekshus, S. Furuseth, and M. Hanfland, Phys. Rev. B, 73: 224102 (2006).",
+				"tr":  "P. Vajeeston, P. Ravindran, B. C. Hauback, H. Fjellvåg, A. Kjekshus, S. Furuseth, and M. Hanfland, Phys. Rev. B, 73: 224102 (2006)."
+			},
+			{
+				"doi": "10.1088/0953-8984/22/7/074208",
+				"or":  "S. Er, M. J. van Setten, G. A. de Wijs, and G. Brocks, J. Phys.: Condens. Matter, 22: 074208 (2010).",
+				"tr":  "S. Er, M. J. van Setten, G. A. de Wijs, and G. Brocks, J. Phys.: Condens. Matter, 22: 074208 (2010)."
+			},
+			{
+				"doi": "10.1016/0025-5408(80)90197-X",
+				"or":  "J. P. Bastide, B. Bonnetot, J. M. Letoffe, and P. Claudy, Mat. Res. Bull., 15: 1779 (1980).",
+				"tr":  "J. P. Bastide, B. Bonnetot, J. M. Letoffe, and P. Claudy, Mat. Res. Bull., 15: 1779 (1980)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(98)00829-9",
+				"or":  "B. Bogdanovic, K. Bohmhammel, B. Christ, A. Reiser, K. Schlichte, R. Vehlen, and U. Wolf, J. Alloys Compd., 282: 84 (1999).",
+				"tr":  "B. Bogdanovic, K. Bohmhammel, B. Christ, A. Reiser, K. Schlichte, R. Vehlen, and U. Wolf, J. Alloys Compd., 282: 84 (1999)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.68.115112",
+				"or":  "J. Isidorsson, I. A. M. E. Giebels, H. Arwin, and R. Griessen, Phys. Rev. B, 68: 115112 (2003).",
+				"tr":  "J. Isidorsson, I. A. M. E. Giebels, H. Arwin, and R. Griessen, Phys. Rev. B, 68: 115112 (2003)."
+			},
+			{
+				"doi": "10.1016/j.ssc.2008.09.033",
+				"or":  "S. Cui, W. Feng, H. Hu, Z. Feng, and Y. Wang, Solid State Communications, 148: 403 (2008).",
+				"tr":  "S. Cui, W. Feng, H. Hu, Z. Feng, and Y. Wang, Solid State Communications, 148: 403 (2008)."
+			},
+			{
+				"doi": "10.1039/b911263d",
+				"or":  "D. Moser, D. J. Bull, T. Sato, D. Noréus, D. Kyoi, T. Sakai, N. Kitamura, H. Yusa, T. Taniguchi, W. P. Kalisvaart, and P. Notten, J. Mater. Chem., 19: 8150 (2009).",
+				"tr":  "D. Moser, D. J. Bull, T. Sato, D. Noréus, D. Kyoi, T. Sakai, N. Kitamura, H. Yusa, T. Taniguchi, W. P. Kalisvaart, and P. Notten, J. Mater. Chem., 19: 8150 (2009)."
+			},
+			{
+				"doi": "10.1007/978-1-4757-2312-0",
+				"or":  "D. Singh, Plane Waves, Pseudopotentials and LAPW Method (Dordrecht: Kluwer Academic Publ.: 1994).",
+				"tr":  "D. Singh, Plane Waves, Pseudopotentials and LAPW Method (Dordrecht: Kluwer Academic Publ.: 1994)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.77.3865",
+				"or":  "J. P. Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett., 77: 3865 (1996).",
+				"tr":  "J. P. Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett., 77: 3865 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Blaha, K. Schwarz, G. K. H. Madsen, D. Kvasnicka, and J. Luitz, An Augmented Plane Wave + Local Orbitals Program for Calculating Crystal Properties (Wien: Techn. Universitat Wien: 2001).",
+				"tr":  "P. Blaha, K. Schwarz, G. K. H. Madsen, D. Kvasnicka, and J. Luitz, An Augmented Plane Wave + Local Orbitals Program for Calculating Crystal Properties (Wien: Techn. Universitat Wien: 2001)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Ашкрофт, Н. Мермин, Физика твёрдого тела (Москва: Мир: 1979).",
+				"tr":  "N. W. Ashcroft and N. D. Mermin, Fizika Tverdogo Tela [Solid State Physics] (Moscow: Mir: 1979) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "http://www.wien2k.at/reg_user/faq",
+				"tr":  "http://www.wien2k.at/reg_user/faq"
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Маррел, С. Кеттл, Дж. Теддер, Теория валентности (Москва: Мир: 1968).",
+				"tr":  "J. Murrell, S. Kettle, and J. Tedder, Teoriya Valentnosti [Valence Theory] (Moscow: Mir: 1968) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "http://femto.com.ua/articles/part_2/4446.html",
+				"tr":  "http://femto.com.ua/articles/part_2/4446.html"
+			}
+		]
+	}
+}

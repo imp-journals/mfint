@@ -1,0 +1,111 @@
+{
+	"_id":    "MFiNT.38.03.0341",
+	"year":   2016,
+	"volume": 38,
+	"issue":  3,
+	"pages":  [341,351],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["08.02.2016"],
+	"PACS":   "61.46.Fg, 68.37.Ps, 68.37.Hk, 77.84.Bw, 78.55.Et, 81.07.De, 82.80.Pv",
+	"title":   {
+		"ua": "Отримання та дослідження нанотрубок оксиду цинку",
+		"en": "Fabrication and Characterization of Zinc Oxide Nanotubes",
+		"ru": "Получение и исследование нанотрубок оксида цинка"
+	},
+	"abstract": {
+		"ua": "Здійснено гідротермальний синтез нанорозмірних частинок оксиду цинку з трубчастою морфологією. Методами ренґеноструктурного аналізу, растрової електронної мікроскопії, атомної силової мікроскопії, Оже-електронної мікроскопії та фотолюмінесцентної спектроскопії одержано дані про кристалічну структуру, хімічний склад, спектри фотолюмінесценції та морфологію синтезованого матеріалу. Досліджено вплив складу продукту-попередника й умов проведення гідротермального синтезу на характеристики трубчастих наноструктур.",
+		"en": "Zinc-oxide nanosize particles with a tubular morphology are synthesized by the hydrothermal method. Their crystal structure, chemical composition, surface morphology, and photoluminescence spectra are characterized by X-ray diffraction, transmission electron microscopy, atomic force microscopy, Auger electron spectroscopy, and photoluminescence spectroscopy. The effect of both the precursor composition and the conditions under hydrothermal synthesis on the properties of ZnO nanotubes is studied.",
+		"ru": "Проведён гидротермальный синтез наноразмерных структур оксида цинка с трубчатой морфологией. Методами рентгеноструктурного анализа, растровой электронной микроскопии, атомной силовой микроскопии, оже-электронной спектроскопии и фотолюминесцентной спектроскопии получены данные о кристаллической структуре, химическом составе, спектрах фотолюминесценции и морфологии синтезированного материала. Исследовано влияние состава продукта-предшественника и условий проведения гидротермального синтеза на характеристики трубчатых наноструктур."
+	},
+	"keywords": {
+		"ua": "оксид цинку, нанотрубка, гідротермальний синтез, кристалічна структура, фотолюмінесценція",
+		"en": "zinc oxide, nanotube, hydrothermal synthesis, crystal structure, photoluminescence",
+		"ru": "оксид цинка, нанотрубка, гидротермальный синтез, кристаллическая структура, фотолюминесценция"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "П. П. Горбик", "en": "P. P. Gorbik", "ru": "П. П. Горбик"},
+			"OID": [21]
+		},
+		{
+			"AID": {"ua": "І. В. Дубровін", "en": "G. N. Kashin", "ru": "И. В. Дубровин"},
+			"OID": [21]
+		},
+		{
+			"AID": {"ua": "Г. М. Кашин", "en": "I. V. Dubrovin", "ru": "Г. Н. Кашин"},
+			"OID": [21]
+		}
+	],
+	"references": {
+		"count": 13,
+		"list":  [
+			{
+				"doi": "10.1116/1.1714985",
+				"or":  "S. J. Pearton, D. P. Norton, K. Ip, W. Heo, and T. Steiner, J. Vac. Sci. Technol. B, 22: 932 (2004).",
+				"tr":  "S. J. Pearton, D. P. Norton, K. Ip, W. Heo, and T. Steiner, J. Vac. Sci. Technol. B, 22: 932 (2004)."
+			},
+			{
+				"doi": "10.1116/1.4821801",
+				"or":  "C. P. Burke-Govey and N. O. V. Plank, J. Vac. Sci. Technol. B, 31: 06F101-1 (2013).",
+				"tr":  "C. P. Burke-Govey and N. O. V. Plank, J. Vac. Sci. Technol. B, 31: 06F101-1 (2013)."
+			},
+			{
+				"doi": "10.1016/j.tet.2005.09.002",
+				"or":  "M. H. Sarvari and H. Sharghi, Tetrahedron, 61: 10903 (2005).",
+				"tr":  "M. H. Sarvari and H. Sharghi, Tetrahedron, 61: 10903 (2005)."
+			},
+			{
+				"doi": "10.1063/1.1632549",
+				"or":  "C. X. Xu, X. W. Sun, B. J. Chen, P. Shum, S. Li, and X. Hu, J. Appl. Phys., 95: 661 (2004).",
+				"tr":  "C. X. Xu, X. W. Sun, B. J. Chen, P. Shum, S. Li, and X. Hu, J. Appl. Phys., 95: 661 (2004)."
+			},
+			{
+				"doi": "10.1039/b108863g",
+				"or":  "J. Zhang, L. Sun, C. Liao, and C. Yan, Chem. Commun., 262 (2002).",
+				"tr":  "J. Zhang, L. Sun, C. Liao, and C. Yan, Chem. Commun., 262 (2002)."
+			},
+			{
+				"doi": "10.1016/S0009-2614(02)01106-5",
+				"or":  "M. J. Zheng, L. D. Zhang, G. H. Li, and W. Z. Shen, Chem. Phys. Lett., 363: 123 (2002).",
+				"tr":  "M. J. Zheng, L. D. Zhang, G. H. Li, and W. Z. Shen, Chem. Phys. Lett., 363: 123 (2002)."
+			},
+			{
+				"doi": "10.1021/cm051613j",
+				"or":  "M. Lai and D. J. Riley, Chem. Mater., 18: 2233 (2006).",
+				"tr":  "M. Lai and D. J. Riley, Chem. Mater., 18: 2233 (2006)."
+			},
+			{
+				"doi": "10.1016/j.mejo.2005.04.033",
+				"or":  "B. Y. Leprince-Wang, A. Yacoubi-Ouslim, and G. Y. Wang, Microelectron. J., 36: 625 (2005).",
+				"tr":  "B. Y. Leprince-Wang, A. Yacoubi-Ouslim, and G. Y. Wang, Microelectron. J., 36: 625 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "Sh. U. Yuldashev, S. W. Choi, T. Won Kang, and L. A. Nosova, J. Korean Phys. Soc., 42: S216 (2003).",
+				"tr":  "Sh. U. Yuldashev, S. W. Choi, T. Won Kang, and L. A. Nosova, J. Korean Phys. Soc., 42: S216 (2003)."
+			},
+			{
+				"doi": "10.1016/j.jcrysgro.2005.10.049",
+				"or":  "Y. Leprince-Wang, G. Y. Wang, X. Z. Zhang, and D. P. Yu, J. Cryst. Growth, 287: 16 (2006).",
+				"tr":  "Y. Leprince-Wang, G. Y. Wang, X. Z. Zhang, and D. P. Yu, J. Cryst. Growth, 287: 16 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, И. В. Дубровин, Ю. А. Демченко, М. М. Филоненко, А. А. Дадыкин, Химия, физика и технология поверхности, вып. 14: 275 (2008).",
+				"tr":  "P. P. Gorbik, I. V. Dubrovin, Ju. A. Demchenko, M. M. Filonenko, and A. A. Dadykin, Khimiya, Fizika i Tekhnologiya Poverkhnosti, Iss. 14: 275 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, А. А. Дадыкин, И. В. Дубровин, Ю. А. Демченко, Г. Н. Кашин, Поверхность, вып. 1(16): 177 (2009).",
+				"tr":  "P. P. Gorbik, A. A. Dadykin, I. V. Dubrovin, Yu. A. Demchenko, and G. N. Kashin, Poverkhnost', Iss. 1(16): 177 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, И. В. Дубровiн, Ю. А. Демченко, Г. Н. Кашин, Ю. М. Литвин, Поверхность, вып. 2(17): 214 (2010).",
+				"tr":  "P. P. Gorbik, I. V. Dubrovin, Yu. A. Demchenko, G. N. Kashin, and Yu. M. Litvin, Poverkhnost', Iss. 2(17): 214 (2010) (in Ukrainian)."
+			}
+		]
+	}
+}

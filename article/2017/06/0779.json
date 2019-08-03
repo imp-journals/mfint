@@ -1,0 +1,245 @@
+{
+	"_id":    "MFiNT.39.06.0779",
+	"year":   2017,
+	"volume": 39,
+	"issue":  6,
+	"pages":  [779,793],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["18.12.2016","28.05.2017"],
+	"PACS":   "62.20.Qp, 68.35.Ct, 68.35.Dv, 68.35.Gy, 81.15.-z, 81.40.Pq, 81.65.Lp",
+	"title":   {
+		"ua": "Механічні та структурні дослідження трикомпонентних шарів Mo–Zr–N, нанесених на підложжя фізичним осадженням парів",
+		"en": "Mechanical and Structural Studies of Ternary Mo–Zr–N Layers Deposited on Substrate by PVD",
+		"ru": "Механические и структурные исследования трёхкомпонентных слоёв Mo–Zr–N, нанесённых на подложку физическим осаждением паров"
+	},
+	"abstract": {
+		"ua": "Метою даної роботи є поліпшення механічних характеристик трикомпонентних покриттів з нітриду молібден–цирконію (Mo–Zr–N), а також пошук відповідної стехіометрії, щоб одержати мікроструктуру, орієнтовану на очікувані властивості, з використанням наступних метод характеризації: SEM, XRD, EDS, XPS, WDS та ін., а також наноіндентування, альтернативної трибометрії та випробувань за допомогою нанесення подряпин. Морфологічні дослідження трикомпонентного покриття Mo–Zr–N показали, що переважає орієнтація (111), яка, по суті, виникає завдяки залишковим внутрішнім напруженням. Під час розробки сполуки Mo–Zr–N було помічено, що додавання Zr приводить до багатофазної структури, що складається з бінарних нітридів ZrN, MoN та MoZrN з призматичною будовою. Шерсткість є меншою для покриття Mo–N та за низьких рівнів вмісту Цирконію. При цьому модулі Юнґа мають дуже близькі значення, що проявляється при концентраціях Zr, нижчих за 100 ат.%, а кристалічна структура не впливає на здатність матеріялу до опору. Введення частинок цирконію дестабілізує сполуку, оскільки атомовий радіюс Цирконію (0,138 нм) є більшим за атомовий радіюс Молібдену (0,126 нм); тому ґратниця сполуки спотворюється, що пояснює появу залишкових напружень.",
+		"en": "Our study of ternary Mo–Zr–N thin layers is novel with the objective of improving certain mechanical and tribological characteristics and of finding the appropriate stoichiometry to have the microstructure, which orientates to the desired properties, using the characterization techniques: SEM, XRD, EDS, XPS, WDS and similar methods as well as nanoindentation, alternative tribometry and scratch test. The morphological study of ternary Mo–Zr–N coating shows that the (111) orientation of texture is preferred essentially due to residual internal stresses. During the development of the Mo–Zr–N deposits, we have noticed that the addition of Zr results in multiphases consisting of binary ZrN, MoN and MoZrN nitrides with a prism-shaped structure. The coefficient of friction is low for Mo–N coating and low zirconium levels. The Young’s modulus takes values almost very close that is indicated for values below 100 at.% of Zr. The crystalline structure does not affect the resistance capacity of the material. The introduction of zirconium particles destabilizes the compound because zirconium atomic radius 0.138 nm) is higher than that of molybdenum (0.126 nm), and the lattice is distorted that explains these residual stresses.",
+		"ru": "Целью данной работы является совершенствование механических характеристик трёхкомпонентных покрытий, изготовленных из нитрида молибдена–циркония (Mo–Zr–N), а также нахождение соответствующей стехиометрии, ориентированной на желаемые свойства, с использованием следующих методов характеризации: SEM, XRD, EDS, XPS, WDS и др., а также наноиндентирования, альтернативной трибометрии и испытаний с помощью нанесения царапин. Морфологические исследования трёхкомпонентного покрытия Mo–Zr–N показали, что преимущественной является ориентация (111), возникающая, по существу, благодаря остаточным внутренним напряжениям. Во время разработки соединения Mo–Zr–N было замечено, что добавление Zr приводит к многофазной структуре, состоящей из бинарных нитридов ZrN, MoN и MoZrN с призматическим строением. Шероховатость оказывается меньше у покрытия Mo–N и при низких уровнях содержания циркония. При этом модули Юнга имеют очень близкие значения, что проявляется при значениях Zr ниже 100 ат.%, а кристаллическая структура не изменяет сопротивление материала. Добавление частиц Zr дестабилизирует соединение, поскольку атомный радиус циркония (0,138 нм) больше атомного радиуса молибдена (0,126 нм); поэтому решётка соединения искажается, что объясняет образование остаточных напряжений."
+	},
+	"keywords": {
+		"ua": "мікроструктура, залишкові напруження, текстура, твердість, модуль Юнга, покриття, нанесення покриття осадженням парів",
+		"en": "microstructure, morphology, texture, hardness, Young’s modulus, covers, PVD",
+		"ru": "микроструктура, остаточные напряжения, текстура, твёрдость, модуль Юнга, покрытие, нанесение покрытия осаждением паров"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Абдельазіз Аббуді", "en": "Abdelaziz Abboudi", "ru": "Абдельазиз Аббуди"},
+			"OID": [486]
+		},
+		{
+			"AID": {"ua": "Брагім Шармім", "en": "Brahim Chermime", "ru": "Брахим Шармим"},
+			"OID": [486]
+		},
+		{
+			"AID": {"ua": "Хамид Джебейлі", "en": "Hamid Djebaili", "ru": "Хамид Джебейли"},
+			"OID": [487]
+		},
+		{
+			"AID": {"ua": "Мурад Бріуа", "en": "Mourad Brioua", "ru": "Мурад Бриуа"},
+			"OID": [486]
+		}
+	],
+	"references": {
+		"count": 39,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Brahim Tlili, Caractérisation de Films durs Multicouches Élaborés par Pulvérisation Magnétron. Influnce des Conditions d’Élaboration sur Leurs Propriétés (Thèse de Doctorat)  (Arts et Métiers Paris-Tech: Institut des Sciences et Technologies: 2010) (in French).",
+				"tr":  "Brahim Tlili, Caractérisation de Films durs Multicouches Élaborés par Pulvérisation Magnétron. Influnce des Conditions d'Élaboration sur Leurs Propriétés (Thèse de Doctorat) (Arts et Métiers Paris-Tech: Institut des Sciences et Technologies: 2010) (in French)."
+			},
+			{
+				"doi": "",
+				"or":  "Kezai, Characterization of Interfacial Reactions in Binary and Multiple Metallic Thin Films (Thèse de Doctorat) (Arts et Métiers Paris-Tech: Institut des Sciences et Technologies: 2007) (in French).",
+				"tr":  "Kezai, Characterization of Interfacial Reactions in Binary and Multiple Metallic Thin Films (Thèse de Doctorat) (Arts et Métiers Paris-Tech: Institut des Sciences et Technologies: 2007) (in French)."
+			},
+			{
+				"doi": "10.1016/0042-207X(94)90015-9",
+				"or":  "A. S. Korhonen, Vacuum, 45, Iss. 10–11: 1031 (1994).",
+				"tr":  "A. S. Korhonen, Vacuum, 45, Iss. 10–11: 1031 (1994)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(00)00867-7",
+				"or":  "M. I. Jones, I. R. McColl, and D. M. Grant, Surf. Coat. Technol., 132, Iss. 2–3: 143 (2000).",
+				"tr":  "M. I. Jones, I. R. McColl, and D. M. Grant, Surf. Coat. Technol., 132, Iss. 2–3: 143 (2000)."
+			},
+			{
+				"doi": "10.1016/S0040-6090(98)01728-3",
+				"or":  "J.-C. Chuang, S.-L. Tu, and M.-C. Chen, Thin Solid Films, 346, Iss. 2–3: 299 (1999).",
+				"tr":  "J.-C. Chuang, S.-L. Tu, and M.-C. Chen, Thin Solid Films, 346, Iss. 2–3: 299 (1999)."
+			},
+			{
+				"doi": "10.1016/j.matchemphys.2005.10.016",
+				"or":  "J.-B. Lee, Mater. Chem. Phys., 99, Iss. 2–3: 224 (2006).",
+				"tr":  "J.-B. Lee, Mater. Chem. Phys., 99, Iss. 2–3: 224 (2006)."
+			},
+			{
+				"doi": "10.1016/j.wear.2008.12.095",
+				"or":  "C. Scandian, C. Boher, J. D. B. de Mello, and F. Rézai-Aria, Wear, 267, Iss. 1–4: 401 (2009).",
+				"tr":  "C. Scandian, C. Boher, J. D. B. de Mello, and F. Rézai-Aria, Wear, 267, Iss. 1–4: 401 (2009)."
+			},
+			{
+				"doi": "10.1016/0364-5916(91)90028-I",
+				"or":  "K. Frisk, Calphad, 15, Iss. 1: 79 (1991).",
+				"tr":  "K. Frisk, Calphad, 15, Iss. 1: 79 (1991)."
+			},
+			{
+				"doi": "10.1016/S0043-1648(97)00182-8",
+				"or":  "Y. L. Su, S. H. Yao, Z. L. Leu, C. S. Wei, and C. T. Wu, Wear, 213, Iss. 1–2: 165 (1997).",
+				"tr":  "Y. L. Su, S. H. Yao, Z. L. Leu, C. S. Wei, and C. T. Wu, Wear, 213, Iss. 1–2: 165 (1997)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2013.03.034",
+				"or":  "L. Shan, Y. Wang, J. Li, H. Li, X. Wu, and J. Chen, Surf. Coat. Technol., 226: 40 (2013).",
+				"tr":  "L. Shan, Y. Wang, J. Li, H. Li, X. Wu, and J. Chen, Surf. Coat. Technol., 226: 40 (2013)."
+			},
+			{
+				"doi": "10.1016/0040-6090(83)90016-0",
+				"or":  "W. D. Sproul, Thin Solid Films, 107, Iss. 2: 141 (1983).",
+				"tr":  "W. D. Sproul, Thin Solid Films, 107, Iss. 2: 141 (1983)."
+			},
+			{
+				"doi": "10.1016/0257-8972(87)90176-9",
+				"or":  "P. C. Johnson and H. Randhawa, Surf. Coat. Technol., 33: 53 (1987).",
+				"tr":  "P. C. Johnson and H. Randhawa, Surf. Coat. Technol., 33: 53 (1987)."
+			},
+			{
+				"doi": "10.1016/S0254-0584(01)00494-1",
+				"or":  "J.-H. Huang, C.-Y. Hsu, S.-S. Chen, and G.-P. Yu, Mater. Chem. Phys., 77, Iss. 1: 14 (2003).",
+				"tr":  "J.-H. Huang, C.-Y. Hsu, S.-S. Chen, and G.-P. Yu, Mater. Chem. Phys., 77, Iss. 1: 14 (2003)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2003.10.087",
+				"or":  "D. Pilloud, J. F. Pierson, A. P. Marques, and A. Cavaleiro, Surf. Coat. Technol., 180–181: 352 (2004).",
+				"tr":  "D. Pilloud, J. F. Pierson, A. P. Marques, and A. Cavaleiro, Surf. Coat. Technol., 180–181: 352 (2004)."
+			},
+			{
+				"doi": "10.1016/0040-6090(83)90550-3",
+				"or":  "L. Krusin-Elbaum, M. Wittmer, C. Y. Ting, and J.-J. Cuomo, Thin Solid Films, 104, Iss. 1–2: 81 (1983).",
+				"tr":  "L. Krusin-Elbaum, M. Wittmer, C. Y. Ting, and J.-J. Cuomo, Thin Solid Films, 104, Iss. 1–2: 81 (1983)."
+			},
+			{
+				"doi": "10.1016/S0169-4332(01)00916-3",
+				"or":  "M.-B. Takeyama, T. Itoi, E. Aoyagi, and A. Noya, Appl. Surf. Sci., 190, Iss. 1–4: 450 (2002).",
+				"tr":  "M.-B. Takeyama, T. Itoi, E. Aoyagi, and A. Noya, Appl. Surf. Sci., 190, Iss. 1–4: 450 (2002)."
+			},
+			{
+				"doi": "10.1016/0257-8972(94)90021-3",
+				"or":  "S. Horita, M. Kobayashi, H. Akahori, and T. Hata, Surf. Coat. Technol., 66, Iss. 1–3: 318 (1994).",
+				"tr":  "S. Horita, M. Kobayashi, H. Akahori, and T. Hata, Surf. Coat. Technol., 66, Iss. 1–3: 318 (1994)."
+			},
+			{
+				"doi": "10.1016/0257-8972(90)90167-B",
+				"or":  "U. K. Wiiala, I. M. Penttinen, and A. S. Korhonen, Surf. Coat. Technol., 41, Iss. 2: 191 (1990).",
+				"tr":  "U. K. Wiiala, I. M. Penttinen, and A. S. Korhonen, Surf. Coat. Technol., 41, Iss. 2: 191 (1990)."
+			},
+			{
+				"doi": "10.1016/0257-8972(92)90100-O",
+				"or":  "L. van Leaven, M. N. Alias, and R. Brown, Surf. Coat. Technol., 53, Iss. 1: 25 (1992).",
+				"tr":  "L. van Leaven, M. N. Alias, and R. Brown, Surf. Coat. Technol., 53, Iss. 1: 25 (1992)."
+			},
+			{
+				"doi": "10.1016/0040-6090(93)90606-P",
+				"or":  "P. Panjan, B. Navinšek, A. Žabkar, V. Marinković, Dj. Mandrino, and J. Fišer, Thin Solid Films, 228, Iss. 1–2: 233 (1993).",
+				"tr":  "P. Panjan, B. Navinšek, A. Žabkar, V. Marinković, Dj. Mandrino, and J. Fišer, Thin Solid Films, 228, Iss. 1–2: 233 (1993)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(99)00198-X",
+				"or":  "E. Kelesoglu, C. Mitterer, M. K. Kazmanli, and M. Ürgen, Surf. Coat. Technol., 116–119: 133 (1999).",
+				"tr":  "E. Kelesoglu, C. Mitterer, M. K. Kazmanli, and M. Ürgen, Surf. Coat. Technol., 116–119: 133 (1999)."
+			},
+			{
+				"doi": "10.1016/S0042-207X(02)00248-8",
+				"or":  "R. J. Rodríguez, J. A. García, A. Medrano, M. Rico, R. Sánchez, R. Martínez, C. Labrugère, M. Lahaye, and A. Guette, Vacuum, 67, Iss. 3–4: 559 (2002).",
+				"tr":  "R. J. Rodríguez, J. A. García, A. Medrano, M. Rico, R. Sánchez, R. Martínez, C. Labrugère, M. Lahaye, and A. Guette, Vacuum, 67, Iss. 3–4: 559 (2002)."
+			},
+			{
+				"doi": "10.1016/0257-8972(94)90021-3",
+				"or":  "S. Horita, M. Kobayashi, H. Akahori, and T. Hata, Surf. Coat. Technol., 66, Iss. 1–3: 318 (1994).",
+				"tr":  "S. Horita, M. Kobayashi, H. Akahori, and T. Hata, Surf. Coat. Technol., 66, Iss. 1–3: 318 (1994)."
+			},
+			{
+				"doi": "10.1016/0040-6090(91)90225-M",
+				"or":  "J. Pelleg, L. Z. Zevin, and S. Lungo, N. Croitoru, Thin Solid Films, 197, Iss. 1–2: 117 (1991).",
+				"tr":  "J. Pelleg, L. Z. Zevin, and S. Lungo, N. Croitoru, Thin Solid Films, 197, Iss. 1–2: 117 (1991)."
+			},
+			{
+				"doi": "10.1116/1.1468657",
+				"or":  "M. Nose, W. A. Chiou, M. Zhou, T. Mae, and M. Meshii, J. Vac. Sci. Technol. A, 20: 823 (2002).",
+				"tr":  "M. Nose, W. A. Chiou, M. Zhou, T. Mae, and M. Meshii, J. Vac. Sci. Technol. A, 20: 823 (2002)."
+			},
+			{
+				"doi": "10.1016/0040-6090(84)90003-8",
+				"or":  "M. K. Hibbs, B. O. Johansson, J.-E. Sundgren, and U. Helmersson, Thin Solid Films, 122, Iss. 2: 115 (1984).",
+				"tr":  "M. K. Hibbs, B. O. Johansson, J.-E. Sundgren, and U. Helmersson, Thin Solid Films, 122, Iss. 2: 115 (1984)."
+			},
+			{
+				"doi": "10.1016/0040-6090(95)07046-X",
+				"or":  "S. Labdi, Ph. Houdy, P. Psyllaki, and M. Jeandin, Thin Solid Films, 275, Iss. 1–2: 213 (1996).",
+				"tr":  "S. Labdi, Ph. Houdy, P. Psyllaki, and M. Jeandin, Thin Solid Films, 275, Iss. 1–2: 213 (1996)."
+			},
+			{
+				"doi": "10.1016/0040-6090(81)90414-4",
+				"or":  "A. Pan and J. E. Greene, Thin Solid Films, 78, Iss. 1: 25 (1981).",
+				"tr":  "A. Pan and J. E. Greene, Thin Solid Films, 78, Iss. 1: 25 (1981)."
+			},
+			{
+				"doi": "10.1016/S0042-207X(02)00248-8",
+				"or":  "R. J. Rodríguez, J. A. García, A. Medrano, M. Rico, R. Sánchez, R. Martínez, C. Labrugère, M. Lahaye, and A. Guette, Vacuum, 67, Iss. 3–4: 559 (2002).",
+				"tr":  "R. J. Rodríguez, J. A. García, A. Medrano, M. Rico, R. Sánchez, R. Martínez, C. Labrugère, M. Lahaye, and A. Guette, Vacuum, 67, Iss. 3–4: 559 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "V. G. Ivanchenko and T. V. Mel’nichenko, Metallofizika, 13, No. 2: 23 (1991).",
+				"tr":  "V. G. Ivanchenko and T. V. Mel'nichenko, Metallofizika, 13, No. 2: 23 (1991)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(03)00937-X",
+				"or":  "M. Uchida, N. Nihira, A. Mitsuo, K. Toyoda , K. Kubota, and T. Aizawa, Surf. Coat. Technol., 177–178: 627 (2004).",
+				"tr":  "M. Uchida, N. Nihira, A. Mitsuo, K. Toyoda, K. Kubota, and T. Aizawa, Surf. Coat. Technol., 177–178: 627 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Y. Benlatreche, Contribution à L’amélioration de la Durée de vie D’outils Carbure pour L’usinage du MDF (Medium Density Fiberboard) par Application de Dépôts Ternaires (CrAlN, CrVN) et Modification de L’arête de Coupe (Thèse de Doctorat) (Arts et Métiers Paris-Tech: Institut des Sciences et Technologies: 2011) (in French).",
+				"tr":  "Y. Benlatreche, Contribution à L'amélioration de la Durée de vie D'outils Carbure pour L'usinage du MDF (Medium Density Fiberboard) par Application de Dépôts Ternaires (CrAlN, CrVN) et Modification de L'arête de Coupe (Thèse de Doctorat) (Arts et Métiers Paris-Tech: Institut des Sciences et Technologies: 2011) (in French)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(99)00586-1",
+				"or":  "J. Musil, Surf. Coat. Technol., 125, Iss. 1–3: 322 (2000).",
+				"tr":  "J. Musil, Surf. Coat. Technol., 125, Iss. 1–3: 322 (2000)."
+			},
+			{
+				"doi": "10.1016/S0040-6090(00)01307-9",
+				"or":  "M. Odén, J. Almer, G. Håkansson, and M. Olsson, Thin Solid Films, 377–378: 407 (2000).",
+				"tr":  "M. Odén, J. Almer, G. Håkansson, and M. Olsson, Thin Solid Films, 377–378: 407 (2000)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(99)00023-7",
+				"or":  "R. Novák, I. Kvasnička, D. Nováková, and Z. Malá, Surf. Coat. Technol., 114, Iss. 1: 65 (1999).",
+				"tr":  "R. Novák, I. Kvasnička, D. Nováková, and Z. Malá, Surf. Coat. Technol., 114, Iss. 1: 65 (1999)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(01)01476-1",
+				"or":  "A. Lousa, J. Romero, E. Martínez, J. Esteve, F. Montalà, and L. Carreras, Surf. Coat. Technol., 146–147: 268 (2001).",
+				"tr":  "A. Lousa, J. Romero, E. Martínez, J. Esteve, F. Montalà, and L. Carreras, Surf. Coat. Technol., 146–147: 268 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Grzesik, Advanced Machining Processes of Metallic Materials (Elsevier Science: 2008).",
+				"tr":  "W. Grzesik, Advanced Machining Processes of Metallic Materials (Elsevier Science: 2008)."
+			},
+			{
+				"doi": "10.1098/rspa.1909.0021",
+				"or":  "G. G. Stoney, Proc. R. Soc. A, 82, Iss. 553: 172 (1909).",
+				"tr":  "G. G. Stoney, Proc. R. Soc. A, 82, Iss. 553: 172 (1909)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/AMR.557-559.1650",
+				"or":  "Y. L. Di, Z. H. Cai, P. Zhang, and W. Shen, Adv. Mater. Res., 557–559: 1650 (2012).",
+				"tr":  "Y. L. Di, Z. H. Cai, P. Zhang, and W. Shen, Adv. Mater. Res., 557–559: 1650 (2012)."
+			}
+		]
+	}
+}

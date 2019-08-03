@@ -1,0 +1,100 @@
+{
+	"_id":    "MFiNT.39.07.0881",
+	"year":   2017,
+	"volume": 39,
+	"issue":  7,
+	"pages":  [881,892],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["19.06.2017"],
+	"PACS":   "68.35.-p, 68.55.-a, 81.05.Je, 81.15.Cd, 81.20.Vj, 81.40.Ef, 82.70.Uv",
+	"title":   {
+		"ua": "Кінетика дисперґування при відпалі у вакуумі цирконійових наноплівок, нанесених на неметалеві матеріяли",
+		"en": "Kinetics of a Dispersion of the Zirconium Nanofilms Deposited on Nonmetallic Materials During Annealing in Vacuum",
+		"ru": "Кинетика диспергирования при отжиге в вакууме циркониевых наноплёнок, нанесённых на неметаллические материалы"
+	},
+	"abstract": {
+		"ua": "Наведено результати дослідження кінетики дисперґування цирконійових наноплівок завтовшки у 100 нм, яких було нанесено на поверхні зразків, виготовлених з монокристалів Al$_2$O$_3$ (лейкосапфір), ZrO$_2$, SiC та кераміки AlN, і відпалено у вакуумі за температур 1400–1600°C впродовж різного часу витримки при кожній температурі в інтервалі 2–20 хв.",
+		"en": "Dispersion kinetics of the zirconium nanofilms with thickness of 100 nm deposited onto samples’ surfaces, which are fabricated from single crystals of Al$_2$O$_3$ (leucosapphire), ZrO$_2$, SiC, and ceramics based on AlN and annealed in vacuum at 1400–1600°C is investigated during different time of soaking at each temperature in interval 2–20 min.",
+		"ru": "Приведены результаты исследования кинетики диспергирования циркониевых наноплёнок толщиной в 100 нм, нанесённых на поверхности образцов, изготовленных из монокристаллов Al$_2$O$_3$ (лейкосапфир), ZrO$_2$, SiC и керамики AlN, и отожжённых в вакууме при температурах 1400–1600°C в течение различного времени выдержки при каждой температуре в интервале 2–20 мин."
+	},
+	"keywords": {
+		"ua": "кінетика дисперґування, цирконійова наноплівка, монокристал, лейкосапфір, кераміка",
+		"en": "dispersion kinetics, zirconium nanofilms, single crystal, leucosapphire, ceramics",
+		"ru": "кинетика диспергирования, циркониевая наноплёнка, монокристалл, лейкосапфир, керамика"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. В. Найдіч", "en": "Yu. V. Naidich", "ru": "Ю. В. Найдич"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "І. І. Габ", "en": "І. І. Gab", "ru": "И. И. Габ"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "Т. В. Стецюк", "en": "Т. V. Stetsyuk", "ru": "Т. В. Стецюк"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "Б. Д. Костюк", "en": "B. D. Kоstyuk", "ru": "Б. Д. Костюк"},
+			"OID": [2]
+		}
+	],
+	"references": {
+		"count": 10,
+		"list":  [
+			{
+				"doi": "10.1007/BF01114292",
+				"or":  "F. Hafakeyama and K. Suganuma, J. Mater. Sci., 21, No. 7: 2455 (1986).",
+				"tr":  "F. Hafakeyama and K. Suganuma, J. Mater. Sci., 21, No. 7: 2455 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Найдич, И. И. Габ, Б. Д. Костюк, Т. В. Стецюк, Д. И. Куркова, С. В. Дукаров, Доповіді академії наук України, 35: 97 (2007).",
+				"tr":  "Yu. V. Naidich, I. I. Gab, B. D. Kostyuk, T. V. Stetsyuk, D. I. Kurkova, and S. V. Dukarov, Dopov. Nac. Akad. Nauk Ukr., 35: 97 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Найдич, И. И. Габ, Б. Д. Костюк Т. В. Стецюк, Д. И. Куркова, С. В. Дукаров, В. Ю. Куликовский, А. А. Оноприенко, Адгезия расплавов и пайка материалов, 38: 69 (2005).",
+				"tr":  "Yu. V. Naidich, I. I. Gab, B. D. Kostyuk, T. V. Stetsyuk, D. I. Kurkova, S. V. Dukarov, V. Yu. Kulikovskyy, and A. A. Onoprienko, Adgeziya Rasplavov i Payka Materialov, 38: 69 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Elssner, W. Diem, and J. S. Wallace, 17 Univ. Conf. Ceram. ‘Surfaces and Interfaces Ceram. and Ceram.–Metal Syst.’ (July 28–August 1, 1980, Berkeley) (New York–London: 1981), p. 629.",
+				"tr":  "G. Elssner, W. Diem, and J. S. Wallace, 17 Univ. Conf. Ceram. 'Surfaces and Interfaces Ceram. and Ceram.–Metal Syst.' (July 28–August 1, 1980, Berkeley) (New York–London: 1981), p. 629."
+			},
+			{
+				"doi": "10.1007/BF00368906",
+				"or":  "W. X. Pan, Т. Okamoto, and X. S. Ning, J. Mater. Sci., 29, No. 6: 1436 (1994).",
+				"tr":  "W. X. Pan, T. Okamoto, and X. S. Ning, J. Mater. Sci., 29, No. 6: 1436 (1994)."
+			},
+			{
+				"doi": "10.1016/0956-716X(94)90524-X",
+				"or":  "B. J. Dalgleish, A. P. Tomsia, K. Nakashima, M. R. Locatelli, and A. M. Glaeser, Scr. Met. et Mater., 31, No. 8: 1043 (1994).",
+				"tr":  "B. J. Dalgleish, A. P. Tomsia, K. Nakashima, M. R. Locatelli, and A. M. Glaeser, Scr. Met. et Mater., 31, No. 8: 1043 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Найдіч, І. І. Габ, Т. В. Стецюк, Б. Д. Костюк, Є. Ф. Кузьменко, Адгезия расплавов и пайка материалов, 45: 71 (2012).",
+				"tr":  "Yu. V. Naidich, I. I. Gab, T. V. Stetsyuk, B. D. Kostyuk, and E. F. Kuzmenko, Adgeziya Rasplavov i Payka Materialov, 45: 71 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Найдич, И. И. Габ, Т. В. Стецюк, Б. Д. Костюк, О. С. Литвин, Сварочное производство,12: 21 (2013).",
+				"tr":  "Yu. V. Naidich, I. I. Gab, T. V. Stetsyuk, B. D. Kostyuk, and O. S. Lytvin, Svarochnoe Proizvodstvo, 2: 12 (1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Метфессель, Тонкие пленки, их изготовление и измерение (Москва–Ленинград: Госэнергоиздат: 1963) (пер. з нім.).",
+				"tr":  "S. Methfessel, Tonkie Plenki, Ikh Izgotovlenie i Izmerenie (Moscow–Leningrad: Gosenergoizdat: 1963) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Физическая химия конденсированных фаз, сверхтвердых материалов и их границ раздела (Ред. В. Н. Еременко) (Киев: Наукова думка: 1975).",
+				"tr":  "Fizicheskaya Khimiya Kondensirovannykh Faz, Sverkhtverdykh Materialov i Ikh Granits Razdela (Ed. V. N. Eremenko) (Kiev: Naukova Dumka: 1975) (in Russian)."
+			}
+		]
+	}
+}

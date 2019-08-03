@@ -1,0 +1,122 @@
+{
+	"_id":    "MFiNT.36.07.0977",
+	"year":   2014,
+	"volume": 36,
+	"issue":  7,
+	"pages":  [977,986],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["29.11.2013","06.05.2014"],
+	"PACS":   "61.43.Dq, 61.66.Dk, 68.37.Ef, 71.23.Cq, 71.55.Jv, 79.60.Ht, 81.70.Jb",
+	"title":   {
+		"ua": "Електронна будова аморфного металевого сплаву Fe$_{77}$Si$_{8}$B$_{15}$",
+		"en": "Electronic Structure of Amorphous Metal Alloy Fe$_{77}$Si$_{8}$B$_{15}$",
+		"ru": "Электронное строение аморфного металлического сплава Fe$_{77}$Si$_{8}$B$_{15}$"
+	},
+	"abstract": {
+		"ua": "Методами Рентґенової фотоелектронної і тунельної спектроскопій досліджено електронну структуру аморфного металевого стопу Fe$_{77}$Si$_{8}$B$_{15}$. У окисненому поверхневому шарі досліджуваних сполук, окрім зв’язків С—С, спостерігаються зв’язки С=О, характерні для складних вуглецевих сполук. У окисненому шарі не зафіксовано бор та його сполуки. Спостерігається значна поверхнева сеґреґація кремнію, концентрація якого зберігається постійною як в окисненому шарі, так і за досліджуваною глибиною стрічки. В об’ємі стрічки виявлено присутність карбіду кремнію Si— C, а також незначні кількості кисню й азоту. Методою тунельної спектроскопії встановлено області зі зниженою провідністю, що характерно для утворення нанофаз заліза та кремнію. Спостерігаються істотні неоднорідності густини електронних станів на міжкластерних межах, що свідчить про їх складну організацію. Рівень Фермі досліджуваного стопу знаходиться в локальному мінімумі густини електронних станів, що відповідає критерію Наґеля—Таука стосовно утворення аморфного стану.",
+		"en": "The electronic structure of amorphous metal alloy Fe$_{77}$Si$_{8}$B$_{15}$ is investigated by X-ray photoelectron spectroscopy and tunnelling spectroscopy methods. At the oxidized surface layer of the sample, in addition to C—C bonds, the C=O bonds are observed that is typical for complex carbon compounds. In contrast, boron and its compounds are not detected in the oxidized layer. A significant surface segregation of Si is observed with its concentration remaining constant within the oxidized layer and deep into the investigated tape. In the tape bulk, the presence of silicon carbide Si—C with minor amounts of oxygen and nitrogen is observed. By means of the tunnelling spectroscopy, low-conductivity areas are detected that is typical for the iron—silicon nanophase formation. Substantial inhomogeneities of electron density of states at the intercluster boundaries are observed that indicates their complex organization. Fermi level of the alloy is in a local minimum of electron density of states that meets the Nagel—Tauc criterion for amorphous state formation.",
+		"ru": "Методами рентгеновской фотоэлектронной и туннельной спектроскопий исследовано электронное строение аморфного металлического сплава Fe$_{77}$Si$_{8}$B$_{15}$. В окислённом поверхностном слое исследуемого соединения, помимо связей C—C, наблюдаются связи C=O, характерные для сложных углеродных соединений. В окислённом слое не зафиксированы бор и его соединения. Наблюдается значительная поверхностная сегрегация кремния, концентрация которого сохраняется постоянной как в окислённом слое, так и по исследуемой глубине ленты. В объёме ленты обнаруживается присутствие карбида кремния Si—C, а также незначительные количества кислорода и азота. Методом туннельной спектроскопии обнаружены области с пониженной проводимостью, что характерно для образования нанофаз железа и кремния. Наблюдаются существенные неоднородности плотности электронных состояний на межкластерных границах, что свидетельствует об их сложной организации. Уровень Ферми исследуемого сплава находится в локальном минимуме плотности электронных состояний, что соответствует критерию Нагеля—Таука образования аморфного состояния."
+	},
+	"keywords": {
+		"ua": "електронна будова, густина електронних станів, спектроскопія, аморфний сплав",
+		"en": "electronic structure, electron density of states, spectroscopy, amorphous alloy",
+		"ru": "электронное строение, плотность электронных состояний, спектроскопия, аморфный сплав"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Л. Карбівський", "en": "V. L. Karbovskii", "ru": "В. Л. Карбовский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. Г. Ільїнський", "en": "O. G. Ilinskyi", "ru": "А. Г. Ильинский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. Х. Касіяненко", "en": "V. Kh. Kasiyanenko", "ru": "В. Х. Касияненко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. І. Слуховський", "en": "O. I. Slukhovskyi", "ru": "О. И. Слуховский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Ю. В. Лєпєєва", "en": "Yu. V. Lepeeva", "ru": "Ю. В. Лепеева"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Л. І. Карбівська", "en": "L. I. Karbovska", "ru": "Л. И. Карбовская"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. І. Соболєв", "en": "A. I. Sobolev", "ru": "А. И. Соболев"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 12,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "А. Г. Ильинский, В. Л. Карбовский, А. П. Шпак, Ю. В. Лепеева, Наносистеми, наноматеріали, нанотехнології, 8, № 3: 483 (2010).",
+				"tr":  "A. G. Ilinsky, V. L. Karbovsky, A. P. Shpak, and Yu. V. Lepeeva, Nanosistemi, Nanomateriali, Nanotehnologii, 8, No. 3: 483 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Л. Карбовский, А. Г. Ильинский, Ю. В. Лепеева, Ю. А. Загородний, Металлофиз. новейшие технол., 34, № 1: 99 (2012).",
+				"tr":  "V. L. Karbovsky, A. G. Ilinsky, Yu. V. Lepeeva, and Yu. A. Zagorodniy, Metallofiz. Noveishie Tekhnol., 34, No. 1: 99 (2012) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(01)01203-5",
+				"or":  "Yo. Takahara and N. Narita, Mater. Sci. Eng. A, 315: 153 (2001).",
+				"tr":  "Yo. Takahara and N. Narita, Mater. Sci. Eng. A, 315: 153 (2001)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2005.10.016",
+				"or":  "Y. R. Zhang and R. V. Ramanujan, Thin Solid Films, 505: 97 (2006).",
+				"tr":  "Y. R. Zhang and R. V. Ramanujan, Thin Solid Films, 505: 97 (2006)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.35.380",
+				"or":  "S. R. Nagel and J. Tauc, Phys. Rev. Lett., 35, No. 6: 380 (1975).",
+				"tr":  "S. R. Nagel and J. Tauc, Phys. Rev. Lett., 35, No. 6: 380 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Б. Кекало, Б. А. Самарин, Физическое металловедение прецизионных сплавов. Сплавы с особыми магнитными свойствами (Москва: Металлургия: 1989).",
+				"tr":  "I. B. Kekalo and B. A. Samarin, Fizicheskoe Metallovedenie Pretsezionnykh Splavov. Splavy s Osobymi Magnitnymi Svoystvami (Moscow: Metallurgiya: 1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Б. Кекало, Нанокристаллические магнитномягкие материалы (Москва: МИСиС: 2000).",
+				"tr":  "I. B. Kekalo, Nanokristallicheskie Magnitnomyagkie Materialy (Moscow: MISiS: 2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Б. Кекало, В. П. Менушенков, Быстрозакаленные магнитнотвердые материалы системы Nd–Fe–B (Москва: МИСиС: 2000).",
+				"tr":  "I. B. Kekalo and V. P. Menushenkov, Bystrozakalennye Magnitnotverdye Materialy Sistemy Nd–Fe–B (Moscow: MISiS: 2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Б. Кекало, В. Ю. Введенский, Г. А. Нуждин, Микрокристаллические магнитномягкие материалы (Москва: МИСиС: 1999).",
+				"tr":  "I. B. Kekalo, V. Yu. Vvedenskiy, and G. A. Nuzhdin, Mikrokristallicheskie Magnitnomyagkie Materialy (Moscow: MISiS: 1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Б. Кекало, Аморфные магнитные материалы. Ч. I (Москва: МИСиС: 2001).",
+				"tr":  "I. B. Kekalo, Amorfnye Magnitnye Materialy. Ch. I (Moscow: MISiS: 2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Б. Кекало, Аморфные магнитные материалы. Ч. II (Москва: МИСиС: 2002).",
+				"tr":  "I. B. Kekalo, Amorfnye Magnitnye Materialy. Ch. II (Moscow: MISiS: 2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Б. Кекало, Атомная структура аморфных сплавов и ее эволюция (Москва: Учёба: 2006).",
+				"tr":  "I. B. Kekalo, Atomnaya Struktura Amorfnykh Splavov i Eyo Evolyutsiya (Moscow: Uchyoba: 2006) (in Russian)."
+			}
+		]
+	}
+}

@@ -1,0 +1,178 @@
+{
+	"_id":    "MFiNT.36.06.0841",
+	"year":   2014,
+	"volume": 36,
+	"issue":  6,
+	"pages":  [841,856],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["27.01.2014"],
+	"PACS":   "61.72.Hh, 61.72.J-, 62.40.+i, 66.30.-h, 81.30.Hd, 81.40.Np",
+	"title":   {
+		"ua": "Дослідження ефектів, викликаних воднем, у відпаленій і деформованій неіржавкій сталі типу 316L за допомогою механічної спектроскопії",
+		"en": "Hydrogen-Induced Effects in Annealed and Prestrained 316L-Type Stainless Steel Studied by Mechanical Spectroscopy",
+		"ru": "Исследование эффектов, вызванных водородом, в отожжённой и деформированной нержавеющей стали типа 316L с помощью механической спектроскопии"
+	},
+	"abstract": {
+		"ua": "За допомогою механічної спектроскопії, а саме, міряння внутрішнього тертя, досліджено неіржавійну сталь типу 316L у відпаленому та деформованому розтягом станах. Низькочастотні міряння внутрішнього тертя на вимушених коливаннях проводилися в температурному діапазоні від 130 до 500 К перед і після газового наводнювання при 543 К та трьох значеннях тиску водню: 0,5, 10 та 100 МПа. Після деформації розтягом у вихідному матеріалі виявлено два мультикомпонентних піки при температурах біля 250 та 365 К. Показано, що низькотемпературний пік має релаксаційну природу, в той час як високотемпературний пік відноситься до резонансних. Також було перевірено вплив вмісту водню та його розподілу на властивості піків внутрішнього тертя, а саме, на їх фон, амплітуду та термічну стабільність. Сформульовано припущення про те, що водень сприяє стабілізації вакансій, що випливає із експериментальних досліджень наводненої та зістареної при 473 К сталі. Експериментально показано, що зниження температури наводнювання до 358 К призводить до помітного зсуву високотемпературного піку в напрямку вищих температур. Пропонується гіпотеза щодо причини, яка лежить в основі даного явища.",
+		"en": "Annealed and tensile prestrained 316L-type stainless steel is studied by internal friction (IF) method. Low-frequency forced-vibration measurements of IF are carried out in the temperature range of 130—500 K before and after gaseous-hydrogen charging at 543 K and under three different pressures: 0.5, 10, and 100 MPa. Two complex multicomponent IF peaks at about 250 and 365 K are detected after preliminary tensile deformation in hydrogen-free material. As revealed, the low-temperature peak is of relaxation type, and the high-temperature one is a resonant peak. The effect of hydrogen content and hydrogen distribution on IF peaks’ features, e.g., background, amplitude and thermal stability, is examined. An increase in stability of vacancies caused by hydrogen is suggested that follows from IF measurements after ageing at 473 K. As experimentally shown, the temperature drop of hydrogenation to 358 K leads to a marked shift of the high-temperature peak toward higher temperatures. A hypothesis about the cause underlying this phenomenon is proposed.",
+		"ru": "С помощью механической спектроскопии, а именно, измерения внутреннего трения, исследована нержавеющая сталь типа 316L в отожжённом и деформированном растяжением состояниях. Низкочастотные измерения внутреннего трения на вынужденных колебаниях проведены в температурном диапазоне от 130 до 500 К до и после газового наводороживания при 543 К и трёх значениях давления водорода: 0,5, 10 и 100 МПа. После деформации растяжением в исходном состоянии обнаружены два мультикомпонентных пика при температурах около 250 и 365 К. Показано, что низкотемпературный пик имеет релаксационную природу, в то время как высокотемпературный пик относится к резонансным. Также проверено влияние содержания водорода и его распределения на свойства пиков внутреннего трения, а именно, на их фон, амплитуду и термическую стабильность. Сформулировано предположение о том, что водород способствует стабилизации вакансий, что следует из экспериментальных исследований наводороженной и состаренной при 473 К стали. Экспериментально показано, что снижение температуры наводороживания до 358 К приводит к заметному сдвигу высокотемпературного пика в направлении больших температур. Предлагается гипотеза, которая объясняет природу данного явления."
+	},
+	"keywords": {
+		"ua": "аустенітна сталь, водень, дефекти кристалічної гратки, внутрішнє тертя",
+		"en": "austenitic steel, hydrogen, crystal lattice defects, internal friction",
+		"ru": "аустенитная сталь, водород, дефекты кристаллической решётки, внутреннее трение"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. М. Шиванюк", "en": "V. M. Shyvaniuk", "ru": "В. М. Шиванюк"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 29,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "D. H. Herring, Wire Forming Technol. Int., 13: 24 (2010).",
+				"tr":  "D. H. Herring, Wire Forming Technol. Int., 13: 24 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "E. A. Steigerwald, F. W. Schaller, and A. R. Troiano, Trans. Metall. Soc. AIME, 218: 832 (1960).",
+				"tr":  "E. A. Steigerwald, F. W. Schaller, and A. R. Troiano, Trans. Metall. Soc. AIME, 218: 832 (1960)."
+			},
+			{
+				"doi": "10.5006/0010-9312-35.10.461",
+				"or":  "A. Szumer and A. Janko, Corrosion, 35: 461 (1979).",
+				"tr":  "A. Szumer and A. Janko, Corrosion, 35: 461 (1979)."
+			},
+			{
+				"doi": "10.1016/0921-5093(94)90975-X",
+				"or":  "H. K. Birnbaum and P. Sofronis, Mater. Sci. Eng. A, 176: 191 (1994).",
+				"tr":  "H. K. Birnbaum and P. Sofronis, Mater. Sci. Eng. A, 176: 191 (1994)."
+			},
+			{
+				"doi": "10.1007/BF02686408",
+				"or":  "N. R. Quick and H. H. Johnson, Metall. Trans. A, 10: 67 (1979).",
+				"tr":  "N. R. Quick and H. H. Johnson, Metall. Trans. A, 10: 67 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Brass, A. Chanfreau, and J. Chene, Hydrogen Effects on Material Behaviour (Eds. A. W. Thompson and N. R. Moody) (Warrendale: TMS Publishing: 1990), p. 19.",
+				"tr":  "A. M. Brass, A. Chanfreau, and J. Chene, Hydrogen Effects on Material Behaviour (Eds. A. W. Thompson and N. R. Moody) (Warrendale: TMS Publishing: 1990), p. 19."
+			},
+			{
+				"doi": "10.1007/BF02654700",
+				"or":  "J. P. Hirth, Metall. Trans. A, 11: 861 (1980).",
+				"tr":  "J. P. Hirth, Metall. Trans. A, 11: 861 (1980)."
+			},
+			{
+				"doi": "10.1007/s11661-008-9506-5",
+				"or":  "Y. Murakami, T. Kanezaki, Y. Mine, and S. Matsuoka, Metall. Mater. Trans. A, 39: 1327 (2008).",
+				"tr":  "Y. Murakami, T. Kanezaki, Y. Mine, and S. Matsuoka, Metall. Mater. Trans. A, 39: 1327 (2008)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(00)01442-8",
+				"or":  "V. N. Shivanyuk, J. Foct, and V. G. Gavriljuk, Mater. Sci. Eng. A, 300: 284 (2001).",
+				"tr":  "V. N. Shivanyuk, J. Foct, and V. G. Gavriljuk, Mater. Sci. Eng. A, 300: 284 (2001)."
+			},
+			{
+				"doi": "10.1007/s11661-010-0275-6",
+				"or":  "Y. Murakami, T. Kanezaki, and Y. Mine, Metall. Mater. Trans. A, 41: 2548 (2010).",
+				"tr":  "Y. Murakami, T. Kanezaki, and Y. Mine, Metall. Mater. Trans. A, 41: 2548 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "http://www.nihon-tp.com/index.htm",
+				"tr":  "http://www.nihon-tp.com/index.htm"
+			},
+			{
+				"doi": "10.1002/9783527614196",
+				"or":  "W. Pfeiler, Alloy Physics (Weinheim: Wiley-WCH: 2007).",
+				"tr":  "W. Pfeiler, Alloy Physics (Weinheim: Wiley-WCH: 2007)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Bobyr’, V. N. Bugaev, and A. A. Smirnov, Reports of Academy of Sciences of USSR, 320: 1113 (1991).",
+				"tr":  "A. M. Bobyr', V. N. Bugaev, and A. A. Smirnov, Reports of Academy of Sciences of USSR, 320: 1113 (1991)."
+			},
+			{
+				"doi": "10.1143/JJAP.32.L1256",
+				"or":  "Y. Fukai and N. Okuma, Japan J. Appl. Phys., 32: L1256 (1993).",
+				"tr":  "Y. Fukai and N. Okuma, Japan J. Appl. Phys., 32: L1256 (1993)."
+			},
+			{
+				"doi": "10.1016/1359-6462(95)00580-3",
+				"or":  "V. G. Gavriljuk, V. N. Bugaev, Yu. N. Petrov, A. V. Tarasenko, and Z. Yanchitski, Scripta Mater., 34: 903 (1996).",
+				"tr":  "V. G. Gavriljuk, V. N. Bugaev, Yu. N. Petrov, A. V. Tarasenko, and Z. Yanchitski, Scripta Mater., 34: 903 (1996)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(02)01269-0",
+				"or":  "Y. J. Fukai, Alloys Compd., 356–357: 263 (2003).",
+				"tr":  "Y. J. Fukai, Alloys Compd., 356–357: 263 (2003)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2008.06.031",
+				"or":  "K. Takai, H. Shoda, H. Suzuki, and M. Nagumo, Acta Mater., 56: 5158 (2008).",
+				"tr":  "K. Takai, H. Shoda, H. Suzuki, and M. Nagumo, Acta Mater., 56: 5158 (2008)."
+			},
+			{
+				"doi": "10.1179/026708304225019687",
+				"or":  "M. Nagumo, Mater. Sci. Technol., 20: 940 (2004).",
+				"tr":  "M. Nagumo, Mater. Sci. Technol., 20: 940 (2004)."
+			},
+			{
+				"doi": "10.1016/j.msea.2008.09.093",
+				"or":  "M. Ivanchenko, Y. Yagodzinskyy, and H. Hanninen, Mater. Sci. Eng. A, 521–522: 121 (2009).",
+				"tr":  "M. Ivanchenko, Y. Yagodzinskyy, and H. Hanninen, Mater. Sci. Eng. A, 521–522: 121 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "M. S. Blanter and Yu. V. Piguzov, Internal Friction Method in Metal Science Studies (Moscow: Metallurgiya: 1991).",
+				"tr":  "M. S. Blanter and Yu. V. Piguzov, Internal Friction Method in Metal Science Studies (Moscow: Metallurgiya: 1991)."
+			},
+			{
+				"doi": "10.1016/0022-3697(70)90183-6",
+				"or":  "J. de Fouquet, P. Boch, J. Petit, and G. J. Rieu, Phys. Chem. Solids, 31: 1901 (1970).",
+				"tr":  "J. de Fouquet, P. Boch, J. Petit, and G. J. Rieu, Phys. Chem. Solids, 31: 1901 (1970)."
+			},
+			{
+				"doi": "",
+				"or":  "M. A. Krishtal and S. A. Golovin, Internal Friction and Materials Structure (Moscow: Metallurgiya: 1976).",
+				"tr":  "M. A. Krishtal and S. A. Golovin, Internal Friction and Materials Structure (Moscow: Metallurgiya: 1976)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(02)00524-4",
+				"or":  "V. G. Gavriljuk, V. N. Shyvaniuk, and J. Foct, Acta Mater., 51: 1293 (2003).",
+				"tr":  "V. G. Gavriljuk, V. N. Shyvaniuk, and J. Foct, Acta Mater., 51: 1293 (2003)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.94.155501",
+				"or":  "G. Lu and E. Kaxiras, Phys. Rev. Let., 94: 155501 (2005).",
+				"tr":  "G. Lu and E. Kaxiras, Phys. Rev. Let., 94: 155501 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.67.174105",
+				"or":  "Y. Tateyama and T. Ohno, Phys. Rev. B, 67: 174105 (2003).",
+				"tr":  "Y. Tateyama and T. Ohno, Phys. Rev. B, 67: 174105 (2003)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2006.08.030",
+				"or":  "K. Sakaki, T. Kawase, M. Hirato, M. Mizuno, H. Araki, Y. Shirai, and M. Nagumo, Scr. Mater., 55: 1031 (2006).",
+				"tr":  "K. Sakaki, T. Kawase, M. Hirato, M. Mizuno, H. Araki, Y. Shirai, and M. Nagumo, Scr. Mater., 55: 1031 (2006)."
+			},
+			{
+				"doi": "10.1016/j.radphyschem.2006.03.057",
+				"or":  "Y. Q. Chen, Y. C. Wu, Z. Wang, and S. J. Wang, Radiat. Phys. Chem., 76: 308 (2007).",
+				"tr":  "Y. Q. Chen, Y. C. Wu, Z. Wang, and S. J. Wang, Radiat. Phys. Chem., 76: 308 (2007)."
+			},
+			{
+				"doi": "10.1002/pssb.2221930204",
+				"or":  "Y. C. Wu, Y. Itoh, and Y. Ito, physica status solidi (b), 193: 307 (1996).",
+				"tr":  "Y. C. Wu, Y. Itoh, and Y. Ito, physica status solidi (b), 193: 307 (1996)."
+			}
+		]
+	}
+}

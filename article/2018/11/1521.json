@@ -1,0 +1,212 @@
+{
+	"_id":    "MFiNT.40.11.1521",
+	"year":   2018,
+	"volume": 40,
+	"issue":  11,
+	"pages":  [1521,1537],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["17.06.2018"],
+	"PACS":   "61.43.Gt, 61.72.Ff, 62.20.Qp, 65.40.De, 68.60.Dv, 81.05.Mh, 81.65.Mq",
+	"title":   {
+		"ua": "Підвищення жаростійкости стопу ВТ6 формуванням оксидних композитних шарів за ультразвукового ударного оброблення",
+		"en": "Enhancement of Heat Resistance of Ti6Al4V Titanium Alloy by Formation of Oxide Composite Layers Using Ultrasonic Impact Treatment",
+		"ru": "Повышение жаростойкости сплава ВТ6 формированием оксидных композитных слоёв при ультразвуковой ударной обработке"
+	},
+	"abstract": {
+		"ua": "Проведено модифікацію поверхневого шару титанового стопу ВТ6 ультразвуковим ударним обробленням (УЗУО) із додаванням у деформаційну зону порошків Al$_2$O$_3$ та Cr$_2$O$_3$. Методами рентґеноструктурної фазової аналізи, оптичної та растрової електронної мікроскопій показано, що за умов інтенсивної пластичної деформації впродовж УЗУО формуються композитні поверхневі шари, мікротвердість яких у $\\cong$2 рази вища, ніж у матричного стопу. Високотемпературне окиснення композитних шарів, які містять частинки Cr$_2$O$_3$ та суміш Cr$_2$O$_3$ + Al$_2$O$_3$, веде до зміцнення шарів стопу під ними за рахунок формування твердого розчину Оксиґену в $\\alpha$-фазі, що не спостерігається у випадку шару/покриття, сформованого із додаванням Al$_2$O$_3$. За даними ґравіметричної аналізи зразків впродовж циклічного високотемпературного окиснення на повітрі (20 циклів по 5 годин за температури 550°C) зроблено висновок про найвищу жаростійкість композитного шару/покриття, насиченого частинками Al$_2$O$_3$. Це обумовлено близькими значеннями коефіцієнтів термічного розширення покриття Al$_2$O$_3$ та стопу ВТ6 на противагу поведінці необробленого стопу й інших композитних шарів, які руйнуються в процесі циклічного нагрівання–охолодження.",
+		"en": "A modification of the surface layer of a Ti6Al4V titanium alloy is carried out using ultrasonic impact treatment (UIT) with addition of the Al$_2$O$_3$ and Cr$_2$O$_3$ powders to the deformation zone. As shown by means of x-ray diffraction phase analysis, optical and scanning electron microscopies, the surface layers of composite are formed during the UIT induced severe plastic deformation. The microhardness of the composite layers is 2 times higher than that of the matrix alloy. The high-temperature oxidation of composite layers containing Cr$_2$O$_3$ particles and the Cr$_2$O$_3$ + Al$_2$O$_3$ mixture leads to strengthening the underlying layers due to the formation of a solid solution of oxygen in the $\\alpha$-phase, which is not observed in the case of a layer/coating formed with addition of Al$_2$O$_3$. According to the gravimetric analysis of samples during the cyclic high-temperature oxidation in air (20 cycles for 5 hours at a temperature of 550°C), it is concluded that the composite layer/coating saturated with Al$_2$O$_3$ particles have the highest heat resistance. This is due to the close values of the thermal expansion coefficients of Al$_2$O$_3$ coating and Ti6Al4V alloy, as opposed to the behaviour of the rough alloy and other composite layers, which are destroyed during the cyclic heating–cooling process.",
+		"ru": "Проведена модификация поверхностного слоя титанового сплава ВТ6 ультразвуковой ударной обработкой (УЗУО) с добавлением в деформационную зону порошков Al$_2$O$_3$ и Cr$_2$O$_3$. Методами рентгеноструктурного фазового анализа, оптической и растровой электронной микроскопии показано, что при интенсивной пластической деформации в течение УЗУО формируются композитные поверхностные слои, микротвёрдость которых в $\\cong$2 раза выше, чем у матричного сплава. Высокотемпературное окисление композитных слоёв, содержащих частицы Cr$_2$O$_3$ и смесь Cr$_2$O$_3$ + Al$_2$O$_3$, ведёт к упрочнению слоёв сплава под ними за счёт формирования твёрдого раствора кислорода в $\\alpha$-фазе, что не наблюдается в случае слоя/покрытия, сформированного с добавлением Al$_2$O$_3$. По данным гравиметрического анализа образцов в течение циклического высокотемпературного окисления на воздухе (20 циклов по 5 часов при температуре 550°C) сделан вывод о самой высокой жаростойкости композитного слоя/покрытия, насыщенного частицами Al$_2$O$_3$. Это обусловлено близкими значениями коэффициентов термического расширения покрытия Al$_2$O$_3$ и сплава ВТ6 в противовес поведению необработанного сплава и других композитных слоёв, которые разрушаются в процессе циклического нагрева–охлаждения."
+	},
+	"keywords": {
+		"ua": "ультразвукове ударне оброблення (УЗУО), композитні шари, оксидні порошки, покриття, мікротвердість, жаростійкість",
+		"en": "ultrasonic impact treatment (UIT), composite layers, oxide powders, coating, microhardness, heat resistance",
+		"ru": "ультразвуковая ударная обработка (УЗУО), композитные слои, оксидные порошки, покрытия, микротвёрдость, жаростойкость"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. В. Могилко", "en": "V. V. Mohylko", "ru": "В. В. Могилко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "А. П. Бурмак", "en": "A. P. Burmak", "ru": "А. П. Бурмак"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "М. М. Ворон", "en": "M. M. Voron", "ru": "М. М. Ворон"},
+			"OID": [15]
+		},
+		{
+			"AID": {"ua": "І. А. Владимирський", "en": "I. A. Vladymyrskyi", "ru": "І. А. Владимирский"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "С. І. Сидоренко", "en": "S. I. Sidorenko", "ru": "С. И. Сидоренко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "С. М. Волошко", "en": "S. M. Voloshko", "ru": "С. М. Волошко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "Б. М. Мордюк", "en": "B. M. Mordyuk", "ru": "Б. Н. Мордюк"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 30,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "А. А. Ильин, Б. А. Колачев, И. С. Полькин, Титановые сплавы: состав, структура, свойства (Москва: ВИЛС-МАТИ: 2009).",
+				"tr":  "A. A. Il'in, B. A. Kolachev, and I. S. Pol'kin, Titanovye Splavy: Sostav, Struktura, Svoystva [Titanium Alloys: Composition, Structure, Properties] (Moscow: VILS-MATI: 2009) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2016.08.180",
+				"or":  "N. S. Mashovets, I. M. Pastukh, and S. M. Voloshko, Appl. Surf. Sci., 392: 356 (2017).",
+				"tr":  "N. S. Mashovets, I. M. Pastukh, and S. M. Voloshko, Appl. Surf. Sci., 392: 356 (2017)."
+			},
+			{
+				"doi": "",
+				"or":  "І. Я. Смокович, І. С. Погребова, Т. В. Лоскутова, В. Г. Хижняк, Наукові вісті НТУУ «КПІ», № 1: 84 (2013).",
+				"tr":  "I. Ya. Smokovych, I. S. Pohrebova, T. V. Loskutova, and V. H. Khyzhnyak, Naukovi Visti NTUU 'KPI', No. 1: 84 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1179/026708301101510249",
+				"or":  "I. Gurrappa and A. K. Gogia, Mater. Sci. Technol., 17: 581 (2001).",
+				"tr":  "I. Gurrappa and A. K. Gogia, Mater. Sci. Technol., 17: 581 (2001)."
+			},
+			{
+				"doi": "10.1007/BF00659186",
+				"or":  "J. Unnam, R. N. Shenoy, and R. K. Clark, Oxidation of Metals, 26: 249 (1986).",
+				"tr":  "J. Unnam, R. N. Shenoy, and R. K. Clark, Oxidation of Metals, 26: 249 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. І. Прокопенко, Б. М. Мордюк, М. О. Васильєв, С. М. Волошко, Фізичні основи ультразвукового ударного зміцнення металевих поверхонь (Київ: Наукова думка: 2017).",
+				"tr":  "G. I. Prokopenko, B. M. Mordyuk, M. O. Vasyliev, and S. M. Voloshko, Fizychni Osnovy Ul'trazvukovogo Udarnogo Zmitsnennya Metalevykh Poverkhon' [Physical Principles of Ultrasonic Impact Hardening of Metallic Surfaces] (Kyiv: Naukova Dumka: 2017) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. С. Герцрикен, В. Ф. Мазанко, В. М. Тышкевич, В. М. Фальченко, Массоперенос в металлах при низких температурах в условиях внешних воздействий (Киев: РИО ИМФ: 1999).",
+				"tr":  "D. S. Gertsriken, V. F. Mazanko, V. M. Tyshkevich, and V. M. Fal'chenko, Massoperenos v Metallakh pri Nizkikh Temperaturakh v Usloviyakh Vneshnikh Vozdeystviy [Masstransfer in Metals at Low Temperatures at External Loads] (Kyiv: RIO IMF: 1999) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.matchar.2010.07.007",
+				"or":  "B. N. Mordyuk, V. V. Silbershmidt, G. I. Prokopenko, M. O. Iefimov, and Yu. V. Nesterenko, Mater. Characterization, 61: 1126 (2010).",
+				"tr":  "B. N. Mordyuk, V. V. Silbershmidt, G. I. Prokopenko, M. O. Iefimov, and Yu. V. Nesterenko, Mater. Characterization, 61: 1126 (2010)."
+			},
+			{
+				"doi": "10.15407/mfint.38.04.0545",
+				"or":  "М. О. Васильєв, Б. М. Мордюк, С. І. Сидоренко, С. М. Волошко, А. П. Бурмак, М. В. Кіндрачук, Металлофиз. новейшие технол., 38, № 4: 545 (2016).",
+				"tr":  "M. O. Vasyliev, B. M. Mordyuk, S. I. Sidorenko, S. M. Voloshko, A. P. Burmak, and M. V. Kindrachuk, Metallofiz. Noveishie Tekhnol., 38, No. 4: 545 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/j.wear.2014.07.011",
+				"or":  "B. N. Mordyuk, G. I. Prokopenko, Yu. V. Milman, M. O. Iefimov, K. E. Grinkevych, A. V. Sameljuk, and I. V. Tkachenko, Wear, 319: 84 (2014).",
+				"tr":  "B. N. Mordyuk, G. I. Prokopenko, Yu. V. Milman, M. O. Iefimov, K. E. Grinkevych, A. V. Sameljuk, and I. V. Tkachenko, Wear, 319: 84 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "B. N. Mordyuk, Yu. V. Milman, M. O. Iefimov, and K. E. Grinkevych, J. Manufact. Technol. Res., 9, Nos. 3–4: 121 (2017).",
+				"tr":  "B. N. Mordyuk, Yu. V. Milman, M. O. Iefimov, and K. E. Grinkevych, J. Manufact. Technol. Res., 9, Nos. 3–4: 121 (2017)."
+			},
+			{
+				"doi": "10.15407/mfint.37.01.0121",
+				"or":  "М. А. Васильев, Б. Н. Мордюк, Д. В. Павленко, Л. Ф. Яценко, Металлофиз. новейшие технол., 37, № 1: 121 (2015).",
+				"tr":  "M. O. Vasylyev, B. M. Mordyuk, D. V. Pavlenko, and L. F. Yatsenko, Metallofiz. Noveishie Tekhnol., 37, No. 1: 121 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Васильев, В. А. Тиньков, С. М. Волошко, В. С. Филатова, Л. Ф. Яценко, Металлофиз. новейшие технол., 34, № 5: 687 (2012).",
+				"tr":  "M. O. Vasylyev, V. O. Tinkov, S. M. Voloshko, V. S. Filatova, and L. F. Iatsenko, Metallofiz. Noveishie Tekhnol., 34, No. 5: 687 (2012) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2015.10.041",
+				"or":  "M. A. Vasylyev, S. P. Chenakin, and L. F. Yatsenko, Acta Mater., 103: 761 (2016).",
+				"tr":  "M. A. Vasylyev, S. P. Chenakin, and L. F. Yatsenko, Acta Mater., 103: 761 (2016)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2012.08.006",
+				"or":  "M. A. Vasylyev, S. P. Chenakin, and L. F. Yatsenko, Acta Mater., 60: 6223 (2012).",
+				"tr":  "M. A. Vasylyev, S. P. Chenakin, and L. F. Yatsenko, Acta Mater., 60: 6223 (2012)."
+			},
+			{
+				"doi": "10.1016/j.msea.2015.06.072",
+				"or":  "A. I. Dekhtyar, B. N. Mordyuk, D. G. Savvakin, V. I. Bondarchuk, I. V. Moiseeva, and N. I. Khripta, Mater. Sci. Eng. A, 641: 348 (2015).",
+				"tr":  "A. I. Dekhtyar, B. N. Mordyuk, D. G. Savvakin, V. I. Bondarchuk, I. V. Moiseeva, and N. I. Khripta, Mater. Sci. Eng. A, 641: 348 (2015)."
+			},
+			{
+				"doi": "10.7763/IJMMM.2016.V4.235",
+				"or":  "H. Özkan Gülsoy, S. Özbey, S. Pazarlioglu, M. Çiftci, and H. Akyurt, Int. J. Mater. Mech. Manufact., 4, No. 2: 111 (2016).",
+				"tr":  "H. Özkan Gülsoy, S. Özbey, S. Pazarlioglu, M. Çiftci, and H. Akyurt, Int. J. Mater. Mech. Manufact., 4, No. 2: 111 (2016)."
+			},
+			{
+				"doi": "10.1016/j.jmst.2013.07.004",
+				"or":  "S. Chabri, S. Chatterjee, S. Pattanayak, H. Chakraborty, N. Bhowmik, and A. Sinha, J. Mater. Sci. Technol., 29, Iss. 11: 1085 (2013).",
+				"tr":  "S. Chabri, S. Chatterjee, S. Pattanayak, H. Chakraborty, N. Bhowmik, and A. Sinha, J. Mater. Sci. Technol., 29, Iss. 11: 1085 (2013)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2011.08.061",
+				"or":  "K. Yang, X. Zhou, H. Zhao, and S. Tao, Surf. Coat. Technol., 206: 1362 (2011).",
+				"tr":  "K. Yang, X. Zhou, H. Zhao, and S. Tao, Surf. Coat. Technol., 206: 1362 (2011)."
+			},
+			{
+				"doi": "10.1007/s11665-018-3249-2",
+				"or":  "X. Li, C. Dong, Q. Zhao, Y. Pang, F. Cheng, and S. Wang, J. Mater. Eng. Perform., 27: 1642 (2018).",
+				"tr":  "X. Li, C. Dong, Q. Zhao, Y. Pang, F. Cheng, and S. Wang, J. Mater. Eng. Perform., 27: 1642 (2018)."
+			},
+			{
+				"doi": "10.1361/10599490421394",
+				"or":  "F. Pitt and M. Ramulu, J. Mater. Eng. Perform., 13: 727 (2004).",
+				"tr":  "F. Pitt and M. Ramulu, J. Mater. Eng. Perform., 13: 727 (2004)."
+			},
+			{
+				"doi": "10.1007/s11085-013-9360-8",
+				"or":  "D. Poquillon, C. Armand, and J. Huez, Oxidation of Metals, 79: 249 (2013).",
+				"tr":  "D. Poquillon, C. Armand, and J. Huez, Oxidation of Metals, 79: 249 (2013)."
+			},
+			{
+				"doi": "10.1007/s11085-013-9458-z",
+				"or":  "S. Zeng, A. Zhao, H. Jiang, X. Fan, X. Duan, and X. Yan, Oxidation of Metals, 81: 467 (2014).",
+				"tr":  "S. Zeng, A. Zhao, H. Jiang, X. Fan, X. Duan, and X. Yan, Oxidation of Metals, 81: 467 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. В. Тихонов, В. А. Кононенко, Г. И. Прокопенко, В. А. Рафаловский, Механические свойства металлов и сплавов (Киев: Наукова думка: 1986).",
+				"tr":  "L. V. Tikhonov, V. A. Kononenko, G. I. Prokopenko, and V. A. Rafalovskiy, Mekhanicheskie Svoystva Metallov i Splavov [Mechanical Properties of Metals and Alloys] (Kiev: Naukova Dumka: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Самсонов, А. Л. Борисова, Т. Г. Жидкова, Т. Н. Знатокова, Ю. П. Калошина, А. Ф. Киселева, П. С. Кислый, М. С. Ковальченко, Т. Я. Косолапова, Я. С. Малахов, А. Д. Панасюк, В. И. Славута, Н. И. Ткаченко, Физико-химические свойства окислов (Москва: Металлургия: 1978).",
+				"tr":  "G. V. Samsonov, A. L. Borisova, T. G. Zhidkova, T. N. Znatokova, Yu. P. Kaloshina, A. F. Kiseleva, P. S. Kislyy, M. S. Koval'chenko, T. Ya. Kosolapova, Ya. S. Malakhov, A. D. Panasyuk, V. I. Slavuta, and N. I. Tkachenko, Fiziko-Khimicheskie Svoystva Okislov [Physical-Chemical Properties of Oxides] (Moscow: Metallurgiya: 1978) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2017.03.004",
+				"or":  "S. P. Chenakin, V. S. Filatova, I. N. Makeeva, and M. A. Vasylyev, Appl. Surf. Sci., 408: 11 (2017).",
+				"tr":  "S. P. Chenakin, V. S. Filatova, I. N. Makeeva, and M. A. Vasylyev, Appl. Surf. Sci., 408: 11 (2017)."
+			},
+			{
+				"doi": "10.1007/s11665-017-2983-1",
+				"or":  "N. I. Khripta, O. P. Karasevska, and B. N. Mordyuk, J. Mater. Eng. Perform., 26: 5446 (2017).",
+				"tr":  "N. I. Khripta, O. P. Karasevska, and B. N. Mordyuk, J. Mater. Eng. Perform., 26: 5446 (2017)."
+			},
+			{
+				"doi": "10.1016/S0142-9612(02)00244-2",
+				"or":  "G. S. Firstov, R. G. Vitchev, H. Kumar, B. Blanpain, and J. Van Humbeeck, Biomater., 23: 4863 (2002).",
+				"tr":  "G. S. Firstov, R. G. Vitchev, H. Kumar, B. Blanpain, and J. Van Humbeeck, Biomater., 23: 4863 (2002)."
+			},
+			{
+				"doi": "10.1016/0010-938X(94)90069-8",
+				"or":  "H. L. Du, P. K. Datta, D. B. Lewis, and J. S. Burnel-Gray, Corrosion Sci., 63: 631 (1994).",
+				"tr":  "H. L. Du, P. K. Datta, D. B. Lewis, and J. S. Burnel-Gray, Corrosion Sci., 63: 631 (1994)."
+			},
+			{
+				"doi": "10.1016/0272-8842(90)90044-G",
+				"or":  "S.-A. Cho, F. J. Arenas, and J. Ochoa, Ceramics Int., 16: 301 (1990).",
+				"tr":  "S.-A. Cho, F. J. Arenas, and J. Ochoa, Ceramics Int., 16: 301 (1990)."
+			}
+		]
+	}
+}

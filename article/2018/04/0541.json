@@ -1,0 +1,77 @@
+{
+	"_id":    "MFiNT.40.04.0541",
+	"year":   2018,
+	"volume": 40,
+	"issue":  4,
+	"pages":  [541,550],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["11.01.2018"],
+	"PACS":   "46.40.-f, 46.55.+d, 62.30.+d, 89.20.Bb, 89.30.aj, 89.30.an",
+	"title":   {
+		"ua": "Створення віброзахисного пристрою для реґулювання динаміки колони стальних бурильних труб і долота",
+		"en": "Creation of the Vibroprotective Device for Adjustment of Dynamics of a Column of Steel Drill Pipes and a Bit",
+		"ru": "Создание виброзащитного устройства для регулирования динамики колонны стальных бурильных труб и долота"
+	},
+	"abstract": {
+		"ua": "Створено віброзахисний пристрій для реґулювання динаміки роботи бурильної колони шляхом накопичення та перерозподілу енергії поздовжньо-крутильних коливань. Запропоновано математичний модель роботи пристрою та розглянуто особливості розрахунку його планетарного вальцеґвинтового механізму.",
+		"en": "Vibroprotective device is created for regulation of dynamics of the drilling string by means of both accumulation and redistribution of the energy of longitudinal-torsional vibrations. Mathematical model of the device operation is proposed, and features of the calculation of planetary roller-screw mechanism are considered.",
+		"ru": "Создано виброзащитное устройство для регулирования динамики работы бурильной колонны путём накопления и перераспределения энергии продольно-крутильных колебаний. Предложена математическая модель работы устройства и рассмотрены особенности расчёта его планетарного роликовинтового механизма."
+	},
+	"keywords": {
+		"ua": "стальні бурильні труби, поздовжньо-крутильні коливання, буровий реґулятор, планетарний вальцеґвинтовий механізм, математичний модель",
+		"en": "steel drilling pipes, longitudinal-torsional vibrations, drill regulator, planetary roller-screw mechanism, mathematical model",
+		"ru": "стальные бурильные трубы, продольно-крутильные колебания, буровой реґулятор, планетарный роликовинтовой механизм, математическая модель"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. М. Мойсишин", "en": "V. M. Moisyshyn", "ru": "В. М. Мойсишин"},
+			"OID": [245]
+		},
+		{
+			"AID": {"ua": "О. О. Слабий", "en": "O. O. Slabyi", "ru": "О. О. Слабый"},
+			"OID": [245]
+		}
+	],
+	"references": {
+		"count": 7,
+		"list":  [
+			{
+				"doi": "10.2516/ogst/2017024",
+				"or":  "1. V. Moisyshyn and K. Levchuk, Oil Gas Sci. Technol., 72, No. 5: 27-1 (2017).",
+				"tr":  "V. Moisyshyn and K. Levchuk, Oil Gas Sci. Technol., 72, No. 5: 27-1 (2017)."
+			},
+			{
+				"doi": "",
+				"or":  "О. О. Слабий, В. М. Мойсишин, В. І. Векерик, Реґулятор буровий: Патент 114949, МПК E21B 17/07 (Бюлетень № 6) (2017).",
+				"tr":  "O. O. Slabyi, V. M. Moisyshyn, and V. I. Vekeryk, Regulyator Burovyi [Drilling Controller]: Patent 114949 MPK, E21B 17/07 (Bull. No. 6) (2017) (in Ukranian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. С. Блинов, М. И. Морозов, П. Д. Анисимов, Наука и образование МГТУ им. Н. Э. Баумана, 15: 32 (2015).",
+				"tr":  "D. S. Blinov, M. I. Morozov, and P. D. Anisimov, Nauka i Obrazovanie MGTU im. N. E. Baumana, 15: 32 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. С. Блинов, Планетарные роликовинтовые механизмы: Конструкция, методы расчётов (Москва: МГТУ им. Н. Э. Баумана: 2006).",
+				"tr":  "D. S. Blinov, Planetarnye Rolikovintovye Mekhanizmy: Konstruktsiya, Metody Raschetov (Moscow: MGTU im. N. E. Baumana: 2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. А. Соколов, О. А. Ряховский, Д. С. Блинов, И. А. Лаптев, Вестник Московского государственного технического университета им. Н. Э. Баумана. Серия «Машиностроение», 1: 3 (2005).",
+				"tr":  "P. A. Sokolov, O. A. Ryakhovskiy, D. S. Blinov, and I. A. Laptev, Vestnik Moskovskogo Gosudarstvennogo Tekhnicheskogo Universiteta im. N. E. Baumana. Seriya 'Mashinostroenie', 1: 3 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Козырев, Конструкции роликовинтовых передач и методика их проектирования (Владимир: Владимирский государственный университет: 2004).",
+				"tr":  "V. V. Kozyrev, Konstruktsii Rolikovintovykh Peredach i Metodika Ikh Proektirovaniya (Vladimir: Vladimirskiy Gosudarstvennyi Universitet: 2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Козырев, Конструкции, теория и методика проектирования и исследования планетарных передач винт–гайка с резьбовыми роликами и мехатронных модулей на их базе (Владимир: Владимирский государственный университет: 2011).",
+				"tr":  "V. V. Kozyrev and Konstruktsii, Teoriya i Metodika Proektirovaniya i Issledovaniya Planetarnykh Peredach Vint–Gayka s Rez'bovymi Rolikami i Mekhatronnykh Moduley na Ikh Baze (Vladimir: Vladimirskiy Gosudarstvennyy Universitet: 2011) (in Russian)."
+			}
+		]
+	}
+}

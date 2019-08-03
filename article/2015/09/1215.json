@@ -1,0 +1,148 @@
+{
+	"_id":    "MFiNT.37.09.1215",
+	"year":   2015,
+	"volume": 37,
+	"issue":  9,
+	"pages":  [1215,1223],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["07.05.2015"],
+	"PACS":   "61.05.cm, 61.05.cp, 61.43.Gt, 73.20.Mf, 78.67.Rb, 81.15.Fg, 81.16.Mk",
+	"title":  {
+		"ua": "Дослідження плазмонних плівкових наноструктур золота методами рентгенівської рефлектометрії та дифрактометрії",
+		"en": "Investigation of Plasmon Gold Film Nanostructures by Means of both X-Ray Reflectometry and Diffractometry",
+		"ru": "Исследование плазмонных плёночных наноструктур золота методами рентгеновской рефлектометрии и дифрактометрии"
+	},
+	"abstract": {
+		"ua": "Методами Рентґенової рефлектометрії та дифрактометрії досліджувалися плівки Au і por-Au, одержані методою імпульсного лазерного осадження. Визначено їхні основні структурні параметри: густину (пористість), товщину, шерсткість. Показано, що додаткові міряння параметра ґратниці плівок золота уможливлюють коректніше визначити величину їхньої пористости.",
+		"en": "The Au and por-Au films obtained by pulsed-laser deposition are characterized by X-ray reflectometry and diffractometry. The main structural parameters (density (porosity), thickness, surface roughness) are obtained. As shown, the additional measurements of the lattice parameter allow more correctly determine the porosity value of the Au films.",
+		"ru": "Методами рентгеновской рефлектометрии и дифрактометрии исследовались плёнки Au и por-Au, полученные методом импульсного лазерного осаждения. Определены их основные структурные параметры: плотность (пористость), толщина, шероховатость. Показано, что дополнительные измерения параметра решётки плёнок золота позволяют более корректно определить величину их пористости."
+	},
+	"keywords": {
+		"ua": "рентгенівська рефлектометрія і дифрактометрія, товщина нанокомпозитних плівок, поруватість, наночастинки золота",
+		"en": "X-ray reflectometry and diffractometry, thickness of nanocomposite films, porosity, gold nanoparticles",
+		"ru": "рентгеновская рефлектометрия и дифрактометрия, толщина нанокомпозитных плёнок, пористость, наночастицы золота"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. Й. Гудименко", "en": "O. Y. Gudymenko", "ru": "А. И. Гудыменко"},
+			"OID": [20]
+		},
+		{
+			"AID": {"ua": "С. Б. Кривий", "en": "S. B. Kryvyi", "ru": "С. Б. Кривой"},
+			"OID": [20]
+		},
+		{
+			"AID": {"ua": "Г. В. Станчу", "en": "H. V. Stanchu", "ru": "Г. В. Станчу"},
+			"OID": [20]
+		},
+		{
+			"AID": {"ua": "В. П. Кладько", "en": "V. P. Kladko", "ru": "В. П. Кладько"},
+			"OID": [20]
+		},
+		{
+			"AID": {"ua": "Н. В. Сафрюк", "en": "N. V. Safryuk", "ru": "Н. В. Сафрюк"},
+			"OID": [20]
+		},
+		{
+			"AID": {"ua": "М. В. Слободян", "en": "M. V. Slobodian", "ru": "Н. В. Слободян"},
+			"OID": [20]
+		}
+	],
+	"references": {
+		"count": 18,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "E. Le Ru and P. Etchegoin, Principles of Surface Enhanced Raman Spectroscopy and Related Plasmonic Effects (Amsterdam: Elsevier: 2009).",
+				"tr":  "E. Le Ru and P. Etchegoin, Principles of Surface Enhanced Raman Spectroscopy and Related Plasmonic Effects (Amsterdam: Elsevier: 2009)."
+			},
+			{
+				"doi": "",
+				"or":  "K. P. Mogilnikov and I. O. Semenova, J. Struct. Chem., 52, No. 5: 926 (2011)(in Russian).",
+				"tr":  "K. P. Mogilnikov and I. O. Semenova, J. Struct. Chem., 52, No. 5: 926 (2011)(in Russian)."
+			},
+			{
+				"doi": "10.1016/S0169-4332(00)00847-3",
+				"or":  "C. Wongmanerod, S. Zangooie, and H. Arwin, Appl. Surf. Sci., 172: 117 (2001).",
+				"tr":  "C. Wongmanerod, S. Zangooie, and H. Arwin, Appl. Surf. Sci., 172: 117 (2001)."
+			},
+			{
+				"doi": "10.1149/1.1390780",
+				"or":  "F. N. Dultsev and M. R. Baklanov, Electrochem. Solid-State Lett., 2, Iss. 4: 192 (1999).",
+				"tr":  "F. N. Dultsev and M. R. Baklanov, Electrochem. Solid-State Lett., 2, Iss. 4: 192 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Ratnikov, Fizika Tverdogo Tela, 39, No. 5: 956 (1997) (in Russian).",
+				"tr":  "V. V. Ratnikov, Fizika Tverdogo Tela, 39, No. 5: 956 (1997) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. P. Kladko, O. Y. Gudymenko, S. B. Kriviy, P. M. Litvin, E. B. Kaganovich, I. M. Krishchenko, and E. G. Manoilov, Ukrayins’kyy Fizychnyy Zhurnal, 59, No. 9: 917 (2014) (in Ukrainian).",
+				"tr":  "V. P. Kladko, O. Y. Gudymenko, S. B. Kriviy, P. M. Litvin, E. B. Kaganovich, I. M. Krishchenko, and E. G. Manoilov, Ukrayins'kyy Fizychnyy Zhurnal, 59, No. 9: 917 (2014) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. A. Balagurov, V. F. Pavlov, E. A. Petrova, and G. P. Boronina, Fizika i Tekhnika Poluprovodnikov, 31, No. 8: 957 (1997) (in Russian).",
+				"tr":  "L. A. Balagurov, V. F. Pavlov, E. A. Petrova, and G. P. Boronina, Fizika i Tekhnika Poluprovodnikov, 31, No. 8: 957 (1997) (in Russian)."
+			},
+			{
+				"doi": "10.1021/cm011569h",
+				"or":  "H.-J. Lee, E. K. Lin, H. Wang, W.-L. Wu, W. Chen, and E. S. Moyer, Chem. Matter., 14: 1845 (2002).",
+				"tr":  "H.-J. Lee, E. K. Lin, H. Wang, W.-L. Wu, W. Chen, and E. S. Moyer, Chem. Matter., 14: 1845 (2002)."
+			},
+			{
+				"doi": "10.1063/1.1495079",
+				"or":  "E. K. Lin, H.-J. Lee, G. W. Lynn, W.-L. Wu, and M. L. O’Neill, Appl. Phys. Lett., 81: 607 (2002).",
+				"tr":  "E. K. Lin, H.-J. Lee, G. W. Lynn, W.-L. Wu, and M. L. O'Neill, Appl. Phys. Lett., 81: 607 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "E. B. Kaganovich, S. O. Kravchenko, I. M. Krishchenko, E. G. Manoilov, V. V. Strelchuk, Yu. M. Nasyeka, M. I. Boyko, and O. F. Kolomys, Sposib Oderzhannya Plivky z Au Nanochastynkamy dlya Poverkhnevoho Pidsylennya Kombinatsiynogo Rozsiyannya Svitla [The Method for Producing a Film of Au Nanoparticles for Surface Enhancement of Raman Scattering], Patent of Ukraine No. 90717, MPK8 G01J 3/44 (2014) (in Ukrainian).",
+				"tr":  "E. B. Kaganovich, S. O. Kravchenko, I. M. Krishchenko, E. G. Manoilov, V. V. Strelchuk, Yu. M. Nasyeka, M. I. Boyko, and O. F. Kolomys, Sposib Oderzhannya Plivky z Au Nanochastynkamy dlya Poverkhnevoho Pidsylennya Kombinatsiynogo Rozsiyannya Svitla [The Method for Producing a Film of Au Nanoparticles for Surface Enhancement of Raman Scattering], Patent of Ukraine No. 90717, MPK8 G01J 3/44 (2014) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1103/PhysRev.95.359",
+				"or":  "L. G. Parratt, Phys. Rev., 95, No. 2: 359 (1954).",
+				"tr":  "L. G. Parratt, Phys. Rev., 95, No. 2: 359 (1954)."
+			},
+			{
+				"doi": "",
+				"or":  "O. M. Yefanov and V. P. Klad’ko, Metallofiz. Noveishie Tekhnol., 28, No. 2: 227 (2006) (in Russian).",
+				"tr":  "O. M. Yefanov and V. P. Klad'ko, Metallofiz. Noveishie Tekhnol., 28, No. 2: 227 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ya. A. Ugay, M. K. Sharov, and O. B. Yatsenko, Vestnik Voronezh SU. Ser.: Khimiya. Biologiya. Farmatsiya, No. 2: 53 (2004) (in Russian).",
+				"tr":  "Ya. A. Ugay, M. K. Sharov, and O. B. Yatsenko, Vestnik Voronezh SU. Ser.: Khimiya. Biologiya. Farmatsiya, No. 2: 53 (2004) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0039-6028(85)90610-7",
+				"or":  "C. Solliard and M. Flueli, Surf. Sci., 156: 487 (1985).",
+				"tr":  "C. Solliard and M. Flueli, Surf. Sci., 156: 487 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "E. B. Dolgusheva and V. Yu. Trubitsyin, Fizika Tverdogo Tela, 52: 6 (2010) (in Russian).",
+				"tr":  "E. B. Dolgusheva and V. Yu. Trubitsyin, Fizika Tverdogo Tela, 52: 6 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "X-Ray and Neutron Reflectivity: Principles and Applications (Eds. J. Daillant and A. Gibaud) (Berlin: Springer: 2009).",
+				"tr":  "X-Ray and Neutron Reflectivity: Principles and Applications (Eds. J. Daillant and A. Gibaud) (Berlin: Springer: 2009)."
+			},
+			{
+				"doi": "10.1016/j.jcrysgro.2014.01.042",
+				"or":  "V. P. Kladko, A. V. Kuchuk, H. V. Stanchu, N. V. Safriuk, A. E. Belyaev, A. Wierzbicka, M. Sobanska, K. Klosek, and Z. R. Zytkiewicz, J. Cryst. Growth, 401: 347 (2014).",
+				"tr":  "V. P. Kladko, A. V. Kuchuk, H. V. Stanchu, N. V. Safriuk, A. E. Belyaev, A. Wierzbicka, M. Sobanska, K. Klosek, and Z. R. Zytkiewicz, J. Cryst. Growth, 401: 347 (2014)."
+			},
+			{
+				"doi": "10.1186/s11671-015-0766-x",
+				"or":  "H. V. Stanchu, V. P. Kladko, A. V. Kuchuk, N. V. Safriuk, A. E. Belyaev, A. Wierzbicka, M. Sobanska, K. Klosek, and Z. R. Zytkiewicz, Nanoscale Res. Lett., 10: 51 (2015).",
+				"tr":  "H. V. Stanchu, V. P. Kladko, A. V. Kuchuk, N. V. Safriuk, A. E. Belyaev, A. Wierzbicka, M. Sobanska, K. Klosek, and Z. R. Zytkiewicz, Nanoscale Res. Lett., 10: 51 (2015)."
+			}
+		]
+	}
+}

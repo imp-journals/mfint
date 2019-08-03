@@ -1,0 +1,146 @@
+{
+	"_id":    "MFiNT.39.08.1051",
+	"year":   2017,
+	"volume": 39,
+	"issue":  8,
+	"pages":  [1051,1068],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["16.03.2017","10.08.2017"],
+	"PACS":   "07.05.Tp, 61.72.Cc, 64.30.Ef, 64.70.kd, 64.75.Op, 81.30.Bx, 81.30.Kf",
+	"title":   {
+		"ua": "Математичне моделювання кінетики розпаду переохолодженого аустеніту в леґованих сталях",
+		"en": "Mathematical Modelling of Kinetics of Decomposition of the Supercooled Austenite in Alloyed Steels",
+		"ru": "Математическое моделирование кинетики распада переохлаждённого аустенита в легированных сталях"
+	},
+	"abstract": {
+		"ua": "Розроблено математичний модель і відповідну комп’ютерну програму, що описують перетворення переохолодженого аустеніту в леґованих сталях широкого спектру складів. Модель уможливлює розраховувати як термодинамічні рівноваги (у тому числі екстрапольовані в нерівноважні області), так і кінетику феритного, перлітного, бейнітного та мартенситного перетворень. Виконано звірення результатів моделювання з експериментальними даними, яке підтвердило достатню вірогідність запропонованого комп’ютерного моделю для його практичного застосування. Можливості моделю продемонстровано на прикладах типових складів конструкційних леґованих сталей.",
+		"en": "A mathematical model and a corresponding computer program, describing austenite transformation in the alloyed steels with a wide range of compositions, are developed. The model allows calculations of both the thermodynamic equilibrium (including the extrapolation in nonequilibrium states) and the kinetics of ferrite, pearlite, bainite, and martensitic transformations. Verification of the simulation results using the experimental data confirms the sufficient reliability of the proposed computer model to its practical application. The model capabilities are demonstrated by some examples of typical structural alloyed steels.",
+		"ru": "Разработана математическая модель и соответствующая компьютерная программа, описывающие превращения переохлаждённого аустенита в легированных сталях широкого спектра составов. Модель позволяет рассчитывать как термодинамические равновесия (в том числе экстраполированные в неравновесные области), так и кинетику ферритного, перлитного, бейнитного и мартенситного превращений. Выполнена сверка результатов моделирования с экспериментальными данными, подтвердившая достаточную достоверность предлагаемой компьютерной модели для её практического применения. Возможности модели продемонстрированы на примерах типичных составов конструкционных легированных сталей."
+	},
+	"keywords": {
+		"ua": "фазові діяграми, кінетика фазових перетворень, аустеніт, сталь, моделювання",
+		"en": "phase diagrams, kinetics of phase transformations, austenite, steel, modelling",
+		"ru": "фазовые диаграммы, кинетика фазовых превращений, аустенит, сталь, моделирование"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. В. Каверинський", "en": "V. V. Kaverynsky", "ru": "В. В. Каверинский"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "А. І. Троцан", "en": "A. I. Trotsan", "ru": "А. И. Троцан"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "З. П. Сухенко", "en": "Z. P. Sukhenko", "ru": "З. П. Сухенко"},
+			"OID": [2]
+		}
+	],
+	"references": {
+		"count": 20,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Д. Ф. Соколов, Разработка моделей распада аустенита и прогнозирования механических свойств при контролируемой прокатке сталей (Дис. … канд. техн. наук) (Санкт-Петербург: Изд. СПбПУ: 2013).",
+				"tr":  "D. F. Sokolov, Razrabotka Modeley Raspada Austenita i Prognozirovaniya Mekhanicheskikh Svoystv pri Kontroliruemoy Prokatke Staley [Development of Austenite Decomposition Models to Predict the Mechanical Properties of Controlled Rolled Steel] (Thesis of Disser. for PhD Tech. Sci.) (St. Petersburg: Polytechnic University: 2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Новиков, Теория термической обработки металлов (Москва: Металлургия: 1978).",
+				"tr":  "I. I. Novikov, Teoriya Termicheskoy Obrabotki Metallov [Theory of Metals' Heat Treatment] (Moscow: Metallurgy: 1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Ю. Золоторевский, Е. В. Нестерова, Е. И. Хлусова, Вопросы материаловедения, 67, № 3: 38 (2011).",
+				"tr":  "N. Yu. Zolotorevskiy, E. V. Nesterova, and E. I. Khlusova, Voprosy Materialovedeniya [Materials Science Problems], 67, No. 3: 38 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Каверинський, Комп’ютерна програма для моделювання фазових перетворень: Свід. про реєстрацію авт. права № 70573 від 22.02.2017.",
+				"tr":  "V. V. Kaverynsky, Computer Program for Modelling of Phase Transformations: Certificate of Copyright Registration No. 70573. 02.22.2017 (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "N. Saunders and A. P. Miodownik, CALPHAD. Calculation of Phase Diagrams (Guildford: Pergamon: 2005).",
+				"tr":  "N. Saunders and A. P. Miodownik, CALPHAD. Calculation of Phase Diagrams (Guildford: Pergamon: 2005)."
+			},
+			{
+				"doi": "10.1016/0022-3697(81)90144-X",
+				"or":  "B. Sundman and J. Agren, J. Phys. Chem. Solids, 42, Iss. 4: 297 (1981).",
+				"tr":  "B. Sundman and J. Agren, J. Phys. Chem. Solids, 42, Iss. 4: 297 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Голод, К. Д. Савельев, Вычислительная термодинамика в материаловедении (Санкт-Петербург: Изд. Политехн. ун-та: 2010).",
+				"tr":  "V. M. Golod and K. D. Savel'ev, Vychislitel'naya Termodinamika v Materialovedenii [Computational Thermodynamics in Materials Science] (St. Petersburg: Publishing of Polytechnic University: 2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Морачевский, Термодинамика расплавленных металлических и солевых систем (Москва: Металлургия: 1987).",
+				"tr":  "A. G. Morachevskiy, Termodinamika Rasplavlennykh Metallicheskikh i Solevykh Sistem [Thermodynamics of Molten Metal and Salt Systems] (Moscow: Metallurgy: 1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Троцан, В. В. Каверинский, И. Л. Бродецкий, З. П. Сухенко, Сб. матер. конф. «Строительство, материаловедение, машиностроение: Стародубовские чтения2016» (Днепропетровск: ПГСА: 2016), т. 89, с. 177.",
+				"tr":  "A. I. Trotsan, V. V. Kaverinskiy, I. L. Brodetskiy, and Z. P. Sukhenko, Sbornik Materialov Konferentsii 'Stroitel'stvo, Materialovedenie, Mashinostroenie: Starodubovskie Chteniya–2016' [The Collection of Materials of the Conference 'Construction, Materials Science, Mechanical Engineering: Starodubov Readings−2016'] (Dnepropetrovsk: PGSA: 2016), vol. 89, p. 177 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Васильев, Д. Ф. Соколов, Н. Г. Колбасников, С. Ф. Соколов, Физика твёрдого тела, 54, вып. 8: 1565 (2012).",
+				"tr":  "A. A. Vasil'ev, D. F. Sokolov, N. G. Kolbasnikov, and S. F. Sokolov, Fizika Tverdogo Tela, 54, Iss. 8: 1565 (2012) (in Russian)."
+			},
+			{
+				"doi": "10.1007/BF02649814",
+				"or":  "M. Militzer, R. Pandi, and E. B. Howbolt, Metall. Mater. Trans. A, 27, Iss. 6: 1547 (1996).",
+				"tr":  "M. Militzer, R. Pandi, and E. B. Howbolt, Metall. Mater. Trans. A, 27, Iss. 6: 1547 (1996)."
+			},
+			{
+				"doi": "10.1007/BF02650120",
+				"or":  "M. Enomoto and H. I. Aaronson, Metal. Mater. Trans. A, 17, Iss. 8: 1385 (1986).",
+				"tr":  "M. Enomoto and H. I. Aaronson, Metall. Mater. Trans. A, 17, Iss. 8: 1385 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Я. Любов, Кинетическая теория фазовых превращений (Москва: Металлургия: 1969).",
+				"tr":  "B. Ya. Lyubov, Kineticheskaya Teoriya Fazovykh Prevrashcheniy [Kinetic Theory of Phase Transitions) (Moscow: Metallurgy: 1969) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Vasilyev, Proc. MS&T (2007, Detroit), p. 537.",
+				"tr":  "A. Vasilyev, Proc. MS&T (2007, Detroit), p. 537."
+			},
+			{
+				"doi": "",
+				"or":  "П. А. Голиков, Расчёт коэффициента диффузии углерода в сталях и его приложение в моделировании фазовых превращений и науглероживания (Дис. … канд. техн. наук) (Санкт-Петербург: СПбПУ: 2011).",
+				"tr":  "P. A. Golikov, Raschet Koeffitsienta Diffuzii Ugleroda v Stalyakh i Ego Prilozhenie v Modelirovanii Fazovykh Prevrashcheniy i Nauglerozhivaniya [Calculation of Carbon Diffusion Coefficient in Steel and Its Application in the Simulation of Phase Transformations and Carburizing) (Thesis of Disser. for PhD Tech. Sci.) (St. Petersburg: Polytechnic University: 2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. А. Мирзаев, К. Ю. Окишев, Фазовые и структурные превращения в сталях: Сб. науч. тр. (Магнитогорск: 2002), c. 121.",
+				"tr":  "D. A. Mirzaev and K. Yu. Okishev, Fazovyye i Strukturnyye Prevrashcheniya v Stalyakh: Sb. Nauch. Trudov [Phase and Structural Transformations in Steels: The Collection of Scientific Works] (Magnitogorsk: 2002), p. 121 (in Russian)."
+			},
+			{
+				"doi": "10.3139/146.101695",
+				"or":  "M. C. Stefan, V. Bohemen, and J. Sietsma, Int. J. Mater. Res., 99, No. 7: 739 (2008).",
+				"tr":  "M. C. Stefan, V. Bohemen, and J. Sietsma, Int. J. Mater. Res., 99, No. 7: 739 (2008)."
+			},
+			{
+				"doi": "10.2355/isijinternational.46.712",
+				"or":  "D. Gaude-Fugarolas and P. J. Jacques, ISIJ Int., 46, No. 5: 712 (2006).",
+				"tr":  "D. Gaude-Fugarolas and P. J. Jacques, ISIJ Int., 46, No. 5: 712 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "H. K. D. H. Bhadeshia, Bainite in Steels (London: The Institute of Materials: 1992).",
+				"tr":  "H. K. D. H. Bhadeshia, Bainite in Steels (London: The Institute of Materials: 1992)."
+			},
+			{
+				"doi": "10.1007/s11661-011-0872-z",
+				"or":  "S.-J. Lee and C. J. van Tyne, Metall. Mater. Trans. A, 43, Iss. 2: 422 (2012).",
+				"tr":  "S.-J. Lee and C. J. van Tyne, Metall. Mater. Trans. A, 43, Iss. 2: 422 (2012)."
+			}
+		]
+	}
+}

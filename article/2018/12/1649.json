@@ -1,0 +1,217 @@
+{
+	"_id":    "MFiNT.40.12.1649",
+	"year":   2018,
+	"volume": 40,
+	"issue":  12,
+	"pages":  [1649,1673],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["16.11.2018"],
+	"PACS":   "61.43.Gt, 61.72.Ff, 64.75.-g, 68.35.Ct, 68.35.Dv, 68.35.Fx, 81.15.Pq",
+	"title":   {
+		"ua": "Вплив попереднього оброблення міді на фазо- та пороутворення у твердофазних реакціях міді з циною",
+		"en": "Influence of Copper Pretreatment on the Phase and Pore Formations in the Solid Phase Reactions of Copper with Tin",
+		"ru": "Влияние предварительной обработки меди на фазо- и порообразование в твёрдофазных реакциях меди с оловом"
+	},
+	"abstract": {
+		"ua": "Розглядаються твердофазні реакції міді з циною, та досліджується поруватість продуктів реакції в залежності від попереднього оброблення мідного підложжя. Мідні підложжя для реакції готуються шляхом електроосадження прошарків міді товщиною до 100 мкм на прокатані мідні платівки. Дефектність підложжя визначається різними режимами електроосадження: стаціонарним, реверсним і стохастичним. Показано, що товщини проміжних фаз, їх відношення, кількість і просторовий розподіл пор у продуктах реакції істотно залежать від режиму електроосадження. Виявлено статистичні залежності розподілу пор вздовж і поперек інтерфейсу, а також характеристики його шерсткости.",
+		"en": "The solid-phase reactions of copper with tin are considered, and the porosity of the reaction products depending on the pretreatment of the copper substrate is investigated. Copper substrates for the reaction are prepared by electrodeposition of copper layers with thickness of up to 100 microns on the rolled copper plates. The defects of substrates are determined by the different modes of electrodeposition—stationary, reversible, and stochastic ones. As shown, the thicknesses of the intermediate phases, their ratio, the number and spatial distribution of pores in the reaction products significantly depend on the mode of electrodeposition. The statistical dependences of the pore distribution along and across the interface as well as the characteristics of the roughness of the interface are revealed.",
+		"ru": "Рассматриваются твёрдофазные реакции меди с оловом, и исследуется пористость продуктов реакции в зависимости от предварительной обработки медной подложки. Медные подложки для реакции готовятся путём электроосаждения слоёв меди толщиной до 100 мкм на прокатанные медные пластинки. Дефектность подложек определяется различными режимами электроосаждения: стационарным, реверсивным и стохастическим. Показано, что толщины промежуточных фаз, их соотношение, количество и пространственное распределение пор в продуктах реакции существенно зависят от режима электроосаждения. Установлены статистические зависимости распределения пор вдоль и поперёк интерфейса, а также характеристики его шероховатости."
+	},
+	"keywords": {
+		"ua": "інтерфейс мідь–цина, дифузія, твердофазні реакції, електроосадження, дефекти, пороутворення, пінінґування",
+		"en": "copper–tin interface, diffusion, solid-state reactions, electrodeposition, defects, pore formation, pinning",
+		"ru": "интерфейс медь–олово, диффузия, твёрдофазные реакции, электроосаждение, дефекты, порообразование, пиннинг"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. В. Морозович", "en": "V. V. Morozovych", "ru": "В. В. Морозович"},
+			"OID": [214]
+		},
+		{
+			"AID": {"ua": "А. Р. Гонда", "en": "A. R. Honda", "ru": "А. Р. Гонда"},
+			"OID": [214]
+		},
+		{
+			"AID": {"ua": "Ю. О. Ляшенко", "en": "Yu. O. Lyashenko", "ru": "Ю. А. Ляшенко"},
+			"OID": [214]
+		},
+		{
+			"AID": {"ua": "Я. Д. Король", "en": "Ya. D. Korol", "ru": "Я. Д. Король"},
+			"OID": [214]
+		},
+		{
+			"AID": {"ua": "О. Ю. Ляшенко", "en": "O. Yu. Liashenko", "ru": "А. Ю. Ляшенко"},
+			"OID": [214]
+		},
+		{
+			"AID": {"ua": "Ч. Чергаті", "en": "С. Cserháti", "ru": "Ч. Чергати"},
+			"OID": [482]
+		},
+		{
+			"AID": {"ua": "А. М. Гусак", "en": "A. M. Gusak", "ru": "А. М. Гусак"},
+			"OID": [214]
+		}
+	],
+	"references": {
+		"count": 31,
+		"list":  [
+			{
+				"doi": "10.1017/CBO9780511777691",
+				"or":  "K. N. Tu, Electronic Thin-Film Reliability (Cambridge University Press: 2010).",
+				"tr":  "K. N. Tu, Electronic Thin-Film Reliability (Cambridge University Press: 2010)."
+			},
+			{
+				"doi": "",
+				"or":  "K. N. Tu, Solder Joint Technology (New York: Springer: 2007).",
+				"tr":  "K. N. Tu, Solder Joint Technology (New York: Springer: 2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.66.115403",
+				"or":  "A. M. Gusak and K. N. Tu, Phys. Rev. B, 66, No. 11: 115403 (2002).",
+				"tr":  "A. M. Gusak and K. N. Tu, Phys. Rev. B, 66, No. 11: 115403 (2002)."
+			},
+			{
+				"doi": "10.1063/1.1517165",
+				"or":  "K. M. Tu, A. M. Gusak, and M. Li, J. Appl. Phys., 93, No. 3: 1335 (2003).",
+				"tr":  "K. M. Tu, A. M. Gusak, and M. Li, J. Appl. Phys., 93, No. 3: 1335 (2003)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2007.11.009",
+				"or":  "J. O. Suh, K. N. Tu, G. V. Lutsenko, and A. M. Gusak, Acta Mater., 56, No. 5: 1075 (2008).",
+				"tr":  "J. O. Suh, K. N. Tu, G. V. Lutsenko, and A. M. Gusak, Acta Mater., 56, No. 5: 1075 (2008)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2015.07.066",
+				"or":  "O. Yu. Liashenko and F. Hodaj, Acta Mater., 99: 106 (2015).",
+				"tr":  "O. Yu. Liashenko and F. Hodaj, Acta Mater., 99: 106 (2015)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2016.07.021",
+				"or":  "O. Yu. Liashenko, S. Lay, and F. Hodaj, Acta Mater., 117: 216 (2016).",
+				"tr":  "O. Yu. Liashenko, S. Lay, and F. Hodaj, Acta Mater., 117: 216 (2016)."
+			},
+			{
+				"doi": "10.1007/s10854-014-2221-7",
+				"or":  "O. Yu. Liashenko, A. M. Gusak, and F. Hodaj, J. Mater. Sci.: Mater. Electron., 25, No. 10: 4664 (2014).",
+				"tr":  "O. Yu. Liashenko, A. M. Gusak, and F. Hodaj, J. Mater. Sci.: Mater. Electron., 25, No. 10: 4664 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "Ya. E. Geguzin, N. Ch. Bao, and L. N. Paritskaya, Fiz. Met. Metalloved., 27, No. 3: 450 (1969) (in Russian).",
+				"tr":  "Ya. E. Geguzin, N. Ch. Bao, and L. N. Paritskaya, Fiz. Met. Metalloved., 27, No. 3: 450 (1969) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ya. Ye. Geguzin, Diffuzionnaya Zona [Diffusion Zone] (Moscow: Nauka: 1979) (in Russian).",
+				"tr":  "Ya. Ye. Geguzin, Diffuzionnaya Zona [Diffusion Zone] (Moscow: Nauka: 1979) (in Russian)."
+			},
+			{
+				"doi": "10.1134/S0031918X13030071",
+				"or":  "A. M. Gusak, and N. V. Storozhuk, Phys. Metals Metallogr., 114, No. 3: 197 (2013).",
+				"tr":  "A. M. Gusak, and N. V. Storozhuk, Phys. Metals Metallogr., 114, No. 3: 197 (2013)."
+			},
+			{
+				"doi": "10.15407/mfint.38.10.1279",
+				"or":  "T. V. Zaporozhets, N. V. Storozhuk, and A. M. Gusak, Metallofiz. Noveishie Tekhnol., 38, No. 10: 1279 (2016).",
+				"tr":  "T. V. Zaporozhets, N. V. Storozhuk, and A. M. Gusak, Metallofiz. Noveishie Tekhnol., 38, No. 10: 1279 (2016)."
+			},
+			{
+				"doi": "10.1016/j.microrel.2008.09.010",
+				"or":  "Y. W. Wang, Y. W. Lin, and C. R. Kao, Microelectronics Reliability, 49, No. 3: 248 (2009).",
+				"tr":  "Y. W. Wang, Y. W. Lin, and C. R. Kao, Microelectronics Reliability, 49, No. 3: 248 (2009)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2012.10.024",
+				"or":  "T.-C. Liu, C.-M. Liu, Y.-S. Huang, C. Chen, and K.-N. Tu, Scr. Mater., 68, No. 5: 241 (2013).",
+				"tr":  "T.-C. Liu, C.-M. Liu, Y.-S. Huang, C. Chen, and K.-N. Tu, Scr. Mater., 68, No. 5: 241 (2013)."
+			},
+			{
+				"doi": "10.1080/09500839.2016.1262559",
+				"or":  "A. M. Gusak, T. V. Zaporozhets, and J. Janczak-Rusch, Philos. Mag. Lett., 97, No. 1: 1 (2017).",
+				"tr":  "A. M. Gusak, T. V. Zaporozhets, and J. Janczak-Rusch, Philos. Mag. Lett., 97, No. 1: 1 (2017)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. V. Nikolenko, V. A. Diduk, Ya. D. Korol, and Yu. O. Lyashenko, Bulletin of Cherkasy University. Series ‘Physics and Mathematics’, 1: 26 (2016) (in Ukrainian).",
+				"tr":  "Yu. V. Nikolenko, V. A. Diduk, Ya. D. Korol, and Yu. O. Lyashenko, Bulletin of Cherkasy University. Series 'Physics and Mathematics', 1: 26 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. M. Tyutenko, V. V. Morozovych, V. A. Diduk, S. O. Kolinko, and Yu. O. Lyashenko, Bulletin of Cherkasy University. Series ‘Physics and Mathematics’, 1: 63 (2017) (in Ukrainian).",
+				"tr":  "V. M. Tyutenko, V. V. Morozovych, V. A. Diduk, S. O. Kolinko, and Yu. O. Lyashenko, Bulletin of Cherkasy University. Series 'Physics and Mathematics', 1: 63 (2017) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Elektroosazhdenie Metallicheskikh Pokrytiy: Spravochnik [Electrodeposition of Metallic Coatings: Handbook] (Eds. M. A. Belenkiy and A. F. Ivanov) (Moscow: Metallurgiya: 1985) (in Russian).",
+				"tr":  "Elektroosazhdenie Metallicheskikh Pokrytiy: Spravochnik [Electrodeposition of Metallic Coatings: Handbook] (Eds. M. A. Belenkiy and A. F. Ivanov) (Moscow: Metallurgiya: 1985) (in Russian)."
+			},
+			{
+				"doi": "10.1007/978-3-319-26073-0",
+				"or":  "K. I. Popov, S. S. Djokić, N. D. Nikolić, and V. D. Jović, Morphology of Electrochemically and Chemically Deposited Metals (Switzerland: Springer: 2016).",
+				"tr":  "K. I. Popov, S. S. Djokić, N. D. Nikolić, and V. D. Jović, Morphology of Electrochemically and Chemically Deposited Metals (Switzerland: Springer: 2016)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Medvedev and S. Semenov, Tekhnologii v Elektronnoy Promyshlennosti, 3: 68 (2005) (in Russian).",
+				"tr":  "A. A. Medvedev and S. Semenov, Tekhnologii v Elektronnoy Promyshlennosti, 3: 68 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Kapitsa, Tekhnologii v Elektronnoy Promyshlennosti, 2: 20 (2006) (in Russian).",
+				"tr":  "M. Kapitsa, Tekhnologii v Elektronnoy Promyshlennosti, 2: 20 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. B. Kilimnik, Vestnik TGTU, 14, No. 4: 903 (2008) (in Russian).",
+				"tr":  "A. B. Kilimnik, Vestnik TGTU, 14, No. 4: 903 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Z. Stevich, M. Raychich-Vuyasinovich, and Z. Stoilkovich, Tekhnologiya i Konstruirovanie v Elektronnoy Apparature, 5: 51 (2003) (in Russian).",
+				"tr":  "Z. Stevich, M. Raychich-Vuyasinovich, and Z. Stoilkovich, Tekhnologiya i Konstruirovanie v Elektronnoy Apparature, 5: 51 (2003) (in Russian)."
+			},
+			{
+				"doi": "10.20535/1810-0546.2016.2.60951",
+				"or":  "D. Yu. Ushchapovskiy, O. V. Linyucheva, M. I. Donchenko, M. V. Bik, and A. S. Tsimbalyuk, Naukovi Visti NTUU ‘KPI’, 2: 114 (2016) (in Ukrainian).",
+				"tr":  "D. Yu. Ushchapovskiy, O. V. Linyucheva, M. I. Donchenko, M. V. Bik, and A. S. Tsimbalyuk, Naukovi Visti NTUU 'KPI', 2: 114 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. T. Hrynchenko, V. T. Matsypura, and A. A. Snarskyy, Vvedeniye v Nelineynuyu Dinamiku. Khaos i Fraktaly [Introduction to Nonlinear Dynamics. Chaos and Fractals] (Moscow: LKI: 2007) (in Russian).",
+				"tr":  "V. T. Hrynchenko, V. T. Matsypura, and A. A. Snarskyy, Vvedeniye v Nelineynuyu Dinamiku. Khaos i Fraktaly [Introduction to Nonlinear Dynamics. Chaos and Fractals] (Moscow: LKI: 2007) (in Russian)."
+			},
+			{
+				"doi": "10.1109/TCS.1980.1084745",
+				"or":  "L. Chua, IEEE Transactions on Circuits and Systems, 27, No. 11: 1059 (1980).",
+				"tr":  "L. Chua, IEEE Transactions on Circuits and Systems, 27, No. 11: 1059 (1980)."
+			},
+			{
+				"doi": "10.1109/TCS.1984.1085459",
+				"or":  "T. A. Matsumoto, IEEE Transactions on Circuits and Systems, 31, No. 12: 1055 (1984).",
+				"tr":  "T. A. Matsumoto, IEEE Transactions on Circuits and Systems, 31, No. 12: 1055 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Wassermann and J. Grewen, Tekstury Metallicheskikh Materialov [Textures of Metallic Materials] (Moscow: Metallurgiya: 1974) (Russian translation).",
+				"tr":  "G. Wassermann and J. Grewen, Tekstury Metallicheskikh Materialov [Textures of Metallic Materials] (Moscow: Metallurgiya: 1974) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "S. M. Kochergin and A. V. Leontiev, Obrazovanie Tekstur Pri Elektrokristallizatsii Metallov [Texture Formation During Electrocrystallization of Metals] (Moscow: Metallurgiya: 1974) (in Russian).",
+				"tr":  "S. M. Kochergin and A. V. Leontiev, Obrazovanie Tekstur Pri Elektrokristallizatsii Metallov [Texture Formation During Electrocrystallization of Metals] (Moscow: Metallurgiya: 1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. S. Grewal and A. P. Andrews, Kalman Filtering—Theory and Practice Using MATLAB (Wiley: 2001).",
+				"tr":  "M. S. Grewal and A. P. Andrews, Kalman Filtering—Theory and Practice Using MATLAB (Wiley: 2001)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Morozovych, A. R. Honda, and Yu. O. Lyashenko, Bulletin of Cherkasy University. Series ‘Applied Mathematics. Computer Science’, 1: 14 (2017) (in Ukrainian).",
+				"tr":  "V. V. Morozovych, A. R. Honda, and Yu. O. Lyashenko, Bulletin of Cherkasy University. Series 'Applied Mathematics. Computer Science', 1: 14 (2017) (in Ukrainian)."
+			}
+		]
+	}
+}

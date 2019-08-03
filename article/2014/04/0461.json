@@ -1,0 +1,120 @@
+{
+	"_id":    "MFiNT.36.04.0461",
+	"year":   2014,
+	"volume": 36,
+	"issue":  4,
+	"pages":  [461,476],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["13.02.2014"],
+	"PACS":   "62.20.D-, 62.20.F-, 62.20.fk, 62.20.M-, 62.20.me, 62.20.mj, 81.30.Kf",
+	"title":   {
+		"ua": "Залежність величини критичної температури при випробуваннях на ударну в’язкість від параметрів мікроструктури мартенситних маловуглецевих сталей",
+		"en": "Dependence of the Critical Temperature Magnitude at Impact Toughness Tests on the Parameters of the Microstructure of Martensitic Low-Carbon Steels",
+		"ru": "Зависимость величины критической температуры при испытаниях на ударную вязкость от параметров микроструктуры мартенситных малоуглеродистых сталей"
+	},
+	"abstract": {
+		"ua": "Наведено результати досліджень впливу мікроструктури маловуглецевих сталей після гартування та відпуску на температуру 100%-крихкої складової зразків Шарпі. На основі даних випробувань гладких зразків на одновісний розтяг і зразків Шарпі на динамічний вигин одержано значення ефективного перенапруження металу у фронті концентратора за критичної температури. Вказано інтервал розмірів мартенситних пакетів, де температура Шарпі контролюється розміром карбідних частинок. Сформульовано вимоги до розміру карбідних частинок, при яких зростання міцности сталі не супроводжується підвищенням температури 100%-крихкої складової.",
+		"en": "The results of studies of the effect of microstructure of low-carbon steels after quenching and tempering on the temperature of a 100%-brittle component of Charpy specimens are presented. Based on the results of uniaxial tensile tests of smooth specimens and dynamic bending tests of Charpy specimens, the value of the effective overstress of a metal in front of the concentrator is obtained at the critical temperature. The range of martensitic-packet sizes, for which the size of carbide particles controls the Charpy temperature, is specified. The requirements to sizes of carbide particles, at which the increase in strength of steel is not accompanied by the increase of temperature of a 100%-brittle component, are formulated.",
+		"ru": "Представлены результаты исследований влияния микроструктуры малоуглеродистых сталей после закалки и отпуска на температуру 100%-хрупкой составляющей образцов Шарпи. На основании данных испытаний гладких образцов на одноосное растяжение и образцов Шарпи на динамический изгиб получено значение эффективного перенапряжения металла во фронте концентратора при критической температуре. Указан интервал размеров мартенситных пакетов, где температура Шарпи контролируется размером карбидных частиц. Сформулированы требования к размеру карбидных частиц, при которых повышение прочности стали не сопровождается повышением температуры 100%-хрупкой составляющей."
+	},
+	"keywords": {
+		"ua": "крихкість, в’язкість, в’язко-крихкий перехід, мартенситні сталі, зразки Шарпі, маловуглецеві сталі",
+		"en": "brittleness, ductility, ductile-to-brittle transition, martensitic steel, Charpy specimens, low-carbon steels",
+		"ru": "хрупкость, вязкость, вязко-хрупкий переход, мартенситные стали, образцы Шарпи, малоуглеродистые стали"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. О. Котречко", "en": "S. O. Kotrechko", "ru": "С. А. Котречко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Ю. Я. Мєшков", "en": "Yu. Ya. Meshkov", "ru": "Ю. Я. Мешков"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Р. В. Тельович", "en": "R. V. Telyovych", "ru": "Р. В. Телёвич"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. М. Грищенко", "en": "V. M. Grishchenko", "ru": "В. Н. Грищенко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 14,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "T. Gladman and F. Pickering, Flow and Fracture of Polycrystals (New York: Cambridge: 1983).",
+				"tr":  "T. Gladman and F. Pickering, Flow and Fracture of Polycrystals (New York: Cambridge: 1983)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Ohtani, F. Terasaki, and T. Kunitake, Trans. ISI Japan, 12, No. 118: 90 (1972).",
+				"tr":  "H. Ohtani, F. Terasaki, and T. Kunitake, Trans. ISI Japan, 12, No. 118: 90 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "J. P. Navlor and P. R. Krahe, Met. Trans. A, 5, No. 1699: 16 (1974).",
+				"tr":  "J. P. Navlor and P. R. Krahe, Met. Trans. A, 5, No. 1699: 16 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "V. J. Roberts, Met. Trans., 1, No. 32: 32 (1997).",
+				"tr":  "V. J. Roberts, Met. Trans., 1, No. 32: 32 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "S. A. Kotrechko, Phys. Metals, 12, No. 5: 542 (1993).",
+				"tr":  "S. A. Kotrechko, Phys. Metals, 12, No. 5: 542 (1993)."
+			},
+			{
+				"doi": "10.1007/BF02767814",
+				"or":  "S. A. Kotrechko, Yu. Ya. Meshkov, D. I. Nikonenko, and G. S. Mettus, Strength of Materials, 29, No. 4: 319 (1997).",
+				"tr":  "S. A. Kotrechko, Yu. Ya. Meshkov, D. I. Nikonenko, and G. S. Mettus, Strength of Materials, 29, No. 4: 319 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "J. F. Knott, Fundamentals of Fracture Mechanics (London: Butterworth: 1975).",
+				"tr":  "J. F. Knott, Fundamentals of Fracture Mechanics (London: Butterworth: 1975)."
+			},
+			{
+				"doi": "",
+				"or":  "K. S. Kuhne and W. A. Dahl, Arch. Eisenhuttenwes, 3, No. 11: (1983).",
+				"tr":  "K. S. Kuhne and W. A. Dahl, Arch. Eisenhuttenwes, 3, No. 11: (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "S. A. Kotrechko and Yu. Ya. Meshkov, Met. Phys. Adv. Tech., 18, No. 12: 1393 (2000).",
+				"tr":  "S. A. Kotrechko and Yu. Ya. Meshkov, Met. Phys. Adv. Tech., 18, No. 12: 1393 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Котречко, Ю. Я. Мешков, Проблемы прочности, 2, № 3: 5 (1999).",
+				"tr":  "S. A. Kotrechko and Yu. Ya. Meshkov, Problemy Prochnosti, 2, No. 3: 5 (1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. S. Tetelman, T. R. Wilshaw, and C. A. Rau, J. Fract. Mech., 4, No. 4: 147 (1968).",
+				"tr":  "A. S. Tetelman, T. R. Wilshaw, and C. A. Rau, J. Fract. Mech., 4, No. 4: 147 (1968)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Я. Мешков, Г. О. Пахаренко, Структура металла и хрупкость стальных изделий (Киев: Наукова думка: 1985).",
+				"tr":  "Yu. Ya. Meshkov and G. A. Pakharenko, Struktura Metalla i Khrupkost' Stal'nykh Izdeliy (Structure and Brittleness of Steels) (Kiev: Naukova Dumka:1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. A. Kotrechko, Yu. Ya. Meshkov, and G. S. Mettus, Successes and Problems ICF-8 (June 8–14, 1993) (Kyiv: 1993), part II, p. 325.",
+				"tr":  "S. A. Kotrechko, Yu. Ya. Meshkov, and G. S. Mettus, Successes and Problems ICF-8 (June 8–14, 1993) (Kyiv: 1993), part II, p. 325."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Котречко, Ю. Я. Мешков, Предельная прочность. Кристаллы, металлы, элементы конструкций (Киев: Наукова думка: 2008).",
+				"tr":  "S. A. Kotrechko and Yu. Ya. Meshkov, Predel'naya Prochnost'. Kristally, Metally, Ehlementy Konstruktsiy (Kiev: Naukova Dumka: 2008) (in Russian)."
+			}
+		]
+	}
+}

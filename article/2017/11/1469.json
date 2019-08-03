@@ -1,0 +1,127 @@
+{
+	"_id":    "MFiNT.39.11.1469",
+	"year":   2017,
+	"volume": 39,
+	"issue":  11,
+	"pages":  [1469,1479],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["03.10.2017"],
+	"PACS":   "64.60.dg, 66.30.Fq, 81.05.Ni, 81.05.Rm, 81.20.Ev, 81.30.Bx, 81.30.Fb",
+	"title":   {
+		"ua": "Закономірності фазових і структурних перетворень при рідкофазному спіканні порошкової швидкорізальної сталі",
+		"en": "Regularities of Phase and Structural Transformations During Liquid-Phase Sintering of Powder High-Speed Steel",
+		"ru": "Закономерности фазовых и структурных превращений при жидкофазном спекании порошковой быстрорежущей стали"
+	},
+	"abstract": {
+		"ua": "Узагальнено результати досліджень закономірностей фазових і структурних перетворень при дифузійній зміні складу у спресованій порошковій суміші стопів, в яких концентрація леґувальних елементів є аналогічною стандартній швидкорізальній сталі, але які відрізняються вмістом Карбону. В одній складовій суміші концентрація Карбону не перевищує 0,2%, в іншій — близька до евтектичної ($\\cong$ 3,8%). Методою геометричної термодинаміки встановлено дифузійні потоки при вирівнюванні концентрації Карбону в порошковій суміші при нагріванні та витримці вище температури топлення евтектики. Виявлено закономірності трансформації карбідної фази в процесі спікання, залежно від її об’ємної частки та тривалости витримки. Визначено методу моделювання трансформації карбідних волокон у глобулі (сфероїдизації). Одержано вирази для швидкости руху міжфазних меж у процесі перетворень. Вивчено розподіл Карбону у дифузійній парі в сферичних координатах для симетричного випадку з початком координат у центрі розтопленої частинки.",
+		"en": "The regularities of the phase and structural transformations with diffusive composition changing are investigated in the pressed powder mixture of alloys, in which the concentration of the alloying elements is similar to standard high-speed steel, but with different carbon content. In one component of the mixture, the concentration of carbon is not more than 0.2%; in another one, it is closed to the eutectic value ($\\cong$ 3.8%). The method of geometrical thermodynamics is used to determine the diffusion flows during aligning the concentration of carbon in the powder mixture under heating and exposure at temperature, which is higher than a melting temperature of the eutectic. The regularities of the carbide-phase transformation in the sintering process are revealed depending on its volume fraction and duration of exposure.",
+		"ru": "Обобщены результаты исследования закономерностей фазовых и структурных превращений при диффузионном изменении состава в спрессованной порошковой смеси сплавов, в которых концентрация легирующих элементов аналогична стандартной быстрорежущей стали, но которые отличаются содержанием углерода. В одной составляющей смеси концентрация углерода не превышает 0,2%, в другой — близка к эвтектической ($\\cong$ 3,8%). Методом геометрической термодинамики установлены диффузионные потоки при выравнивании концентрации углерода в порошковой смеси при нагреве и выдержке выше температуры плавления эвтектики. Выявлены закономерности трансформации карбидной фазы в процессе спекания в зависимости от её объёмной доли и продолжительности выдержки. Определён метод моделирования трансформации карбидных волокон в глобулы (сфероидизации). Получены выражения для скорости движения межфазных границ в процессе превращений. Изучено распределение углерода в диффузионной паре в сферических координатах для симметричного случая с началом координат в центре расплавленной частицы."
+	},
+	"keywords": {
+		"ua": "суміш порошків, швидкорізальна сталь, рідкофазне спікання, багатофазні перетворення, структуроутворення, кристалізація, евтектика, геометрична термодинаміка, дифузія, Стефанова задача, сфероїдизація",
+		"en": "mixture of powders, high-speed steel, liquid-phase sintering, multiphase transformation, structure formation, crystallization, eutectic, geometrical thermodynamics, diffusion, Stefan problem, spheroidization",
+		"ru": "смесь порошков, быстрорежущая сталь, жидкофазное спекание, многофазные превращения, структурообразование, кристаллизация, эвтектика, геометрическая термодинамика, диффузия, задача Стефана, сфероидизация"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. В. Мовчан", "en": "O. V. Movchan", "ru": "А. В. Мовчан"},
+			"OID": [223]
+		},
+		{
+			"AID": {"ua": "К. О. Черноіваненко", "en": "K. O. Chernoivanenko", "ru": "Е. А. Черноиваненко"},
+			"OID": [223]
+		}
+	],
+	"references": {
+		"count": 17,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Ю. А. Геллер, Инструментальные стали (Москва: Металлургия: 1975).",
+				"tr":  "Yu. A. Geller, Instrumental'nye Stali (Moscow: Metallurgiya: 1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Ревис, Т. А. Лебедев, Структура и свойства литого режущего инструмента (Ленинград: Машиностроение: 1972).",
+				"tr":  "I. A. Revis and T. A. Lebedev, Struktura i Svoystva Litogo Rezhushchego Instrumenta (Leningrad: Mashinostroenie: 1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Абрамов, Л. С. Самойленко, В. Л. Гиршов, Металлообработка, № 4: 31 (2008).",
+				"tr":  "A. A. Abramov, L. S. Samoylenko, and V. L. Girshov, Metalloobrabotka, No. 4: 31 (2008) (in Russian)."
+			},
+			{
+				"doi": "10.1023/B:JMSC.0000045613.54700.35",
+				"or":  "I. C. Ernst and D. Duh, J. Mater. Sci., No. 39: 6831 (2004).",
+				"tr":  "I. C. Ernst and D. Duh, J. Mater. Sci., No. 39: 6831 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. А. Позняк, Порошковые быстрорежущие стали (структура, свойства, технология производства инструмента) (Киев: Наукова думка: 1990).",
+				"tr":  "L. A. Poznyak, Poroshkovye Bystrorezhushchie Stali (Struktura, Svoystva, Tekhnologiya Proizvodstva Instrumenta) (Kiev: Naukova Dumka: 1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Н. Осадчий, С. В. Ревякин, Г. В. Кийко, Сталь, № 11:83 (1981).",
+				"tr":  "A. N. Osadchiy, S. V. Revyakin, and G. V. Kiyko, Stal', No. 11: 83 (1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "U. Hallstom, Mater. et Techn., Nos. 2–3: 61 (1980).",
+				"tr":  "U. Hallstom, Mater. et Techn., Nos. 2–3: 61 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. И. Парабина, С. В. Ревякин, Л. Н. Марченко, Получение и применение распыленных металлических порошков (Киев: 1982).",
+				"tr":  "G. I. Parabina, S. V. Revyakin, and L. N. Marchenko, Poluchenie i Primenenie Raspylennykh Metallicheskikh Poroshkov (Kiev: 1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Д. Шляпин, Сверхсолидусное спекание порошковых быстрорежущих сталей (Москва: ГИНФО; МГИУ: 2003).",
+				"tr":  "S. D. Shlyapin, Sverkhsolidusnoe Spekanie Poroshkovykh Bystrorezhushchikh Staley (Moscow: GINFO; MGIU: 2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. М. Успенський, И. А. Марголин, В. И. Люкевич, Способ изготовления изделий из порошков быстрорежущих сталей, Авт. св. СССР № 1537706 (Опубл. 23.01.1990).",
+				"tr":  "M. M. Uspens'kiy, I. A. Margolin, and V. I. Lyukevich, Sposob Izgotovleniya Izdeliy iz Poroshkov Bystrorezhushchikh Staley, Authors' Certificate No. 1537706 SSSR (Publ. January 23, 1990)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Мовчан, А. П. Бачурин, Л. Г. Педан, Доп. НАН України, № 7: 104 (2000).",
+				"tr":  "A. V. Movchan, A. P. Bachurin, and L. G. Pedan, Dopov. Nac. Akad. Nauk Ukr., No. 7: 104 (2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Мовчан, С. И. Губенко, А. П. Бачурин, Е. А. Черноиваненко, Сб. науч. трудов «Строительство, материаловедение, машиностроение» (Днепропетровск: ГВУЗ «ПГАСА»: 2012), № 64, с. 262.",
+				"tr":  "A. V. Movchan, S. I. Gubenko, A. P. Bachurin, and E. A. Chernoivanenko, Sb. Nauch. Trudov 'Stroitel'stvo, Materialovedenie, Mashinostroenie' (Dnepropetrovsk: GVUZ 'PGASA': 2012), No. 64, p. 262 (in Russian)."
+			},
+			{
+				"doi": "10.1007/BF02825699",
+				"or":  "P. Gustafson, Met. Trans., 18A, No. 2: 175 (1987).",
+				"tr":  "P. Gustafson, Met. Trans., 18A, No. 2: 175 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "К. П. Бунин, В. И. Мовчан, Л. Г. Педан, Изв. АН СССР. Металлы, № 3: 164 (1975).",
+				"tr":  "K. P. Bunin, V. I. Movchan, and L. G. Pedan, Izv. AN SSSR. Metally, No. 3: 164 (1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Мовчан, Л. Г. Педан, В. П. Герасименко, МиТОМ, № 9: 19 (1983).",
+				"tr":  "V. I. Movchan, L. G. Pedan, and V. P. Gerasimenko, MiTOM, No. 9: 19 (1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. В. Мовчан, А. П. Бачурін, К. О. Чорноіваненко, Металознавство і обробка металів, № 2: 46 (2014).",
+				"tr":  "O. V. Movchan, A. P. Bachurin, and K. O. Chornoivanenko, Metaloznavstvo i Obrobka Metaliv, No. 2: 46 (2014) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/0001-6160(71)90002-2",
+				"or":  "H. E. Cline, Acta Metall., 19, No. 6: 481 (1971).",
+				"tr":  "H. E. Cline, Acta Metall., 19, No. 6: 481 (1971)."
+			}
+		]
+	}
+}

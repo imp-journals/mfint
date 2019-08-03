@@ -1,0 +1,277 @@
+{
+	"_id":    "MFiNT.39.03.0401",
+	"year":   2017,
+	"volume": 39,
+	"issue":  3,
+	"pages":  [401,424],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["27.01.2017","28.02.2017"],
+	"PACS":   "46.55.+d, 61.72.Bb, 61.72.Lk, 61.72.S-, 68.43.Bc, 81.40.Lm, 81.40.Pq",
+	"title":   {
+		"ua": "Концепція механізму та кінетики впливу механохемічних процесів на оброблення різанням",
+		"en": "The Concept of the Mechanism and Kinetics of Influence of Mechanochemical Processes on Edge Cutting Machining",
+		"ru": "Концепция механизма и кинетики влияния механохимических процессов на обработку резанием"
+	},
+	"abstract": {
+		"ua": "Працю присвячено вирішенню актуальної задачі пояснення процесів, що перебігають у зоні контакту поверхнево-активних речовин змащувально-охолоджувальних технологічних середовищ (ЗОТС) з ювенільною поверхнею, а також розробці математичного моделю, що уможливлює оцінити величину зміни енергії деформування в результаті адсорбції. Представлено міркування стосовно причин зменшення роботи різання металів та енергії пластичної деформації за присутности ЗОТС. Висловлено припущення, що основною причиною є гідрування металу в процесі технологічної операції, а сам водень чинить найзначніший вплив на характер руйнування поверхневого шару деталів, розподіляючись, як і решта поверхнево-активних речовин (ПАР), нерівномірно — накопичуючись у пастках. Встановлено, що вільний водень у металі знаходиться в йонізованому стані, а його поведінка підкоряється законам руху зарядженої частинки. З використанням електро-дислокаційної аналогії, заснованої на подібності дислокації Вольтерри циліндричному конденсатору, сформульовано феноменологічний модель взаємодії ПАР ЗОТС з ювенільною поверхнею. Одержано залежності, котрі уможливлюють зв’язати електричну природу ядра дислокації з механічними характеристиками матеріялу. На підставі теорії дисоціятивної адсорбції прийнято залежність для розрахунку кількости молекул середовища, які надходять в одиницю часу до ювенільних ділянок поверхні, утворюваних при дисперґуванні оброблюваного металу в одиницю часу. Це уможливило розробити математичні моделі для розрахунку співвідношення роботи деформування елементу поверхневого шару оброблюваного матеріялу з адатомами та ювенільної поверхні, а також густини дислокацій.",
+		"en": "This work is dedicated to solution of actual problem of explaining processes taking place in the contact zone between the cutting fluid and the juvenile surface. This one is also dedicated to development of a mathematical model allowing estimating the changes of deformation energy due to adsorption. The arguments are presented concerning the reasons for reducing work metal cutting and plastic deformation energy in the presence of cutting fluid. As hypothesized, the main reason is the process of hydrogenation of metal during processing, and the hydrogen itself has the most significant effect on the nature of the destruction of the surface layer of parts, being distributed, as other surfactant, unevenly by means of the accumulation in traps. As found, the free hydrogen in the metal is ionized, and its behaviour is subject to the laws of motion of a charged particle. The phenomenological model of the interaction between the cutting fluid and the juvenile surface are formulated using the electro-dislocation analogy based on similarity of Volterra dislocation and cylindrical condenser. It has the dependences, which allow connecting the electrical nature of the dislocation core with the mechanical characteristics of the material. On the basis theory of dissociative adsorption, the dependence is accepted for calculating the number of molecules of the medium reaching per unit of time the juvenile surface portions formed by dispersing the treated metal in a unit time. It allows the development of a mathematical model to calculate the ratio of the work of deformation of elements both the surface layer of treated material with adatoms and the juvenile surface as well as the dislocation density.",
+		"ru": "Работа посвящена решению актуальной задачи объяснения процессов, протекающих в зоне контакта поверхностно-активных веществ смазывающе-охлаждающих технологических сред (СОТС) с ювенильной поверхностью, а также разработке математической модели, позволяющей оценить величину изменения энергии деформирования в результате адсорбции. Представлены рассуждения о причинах уменьшения работы резания металлов и энергии пластической деформации в присутствии СОТС. Высказано предположение, что основной причиной является наводороживание металла в процессе технологической операции, а сам водород оказывает наиболее значительное влияние на характер разрушения поверхностного слоя деталей, распределяясь, как и прочие поверхностно-активные вещества (ПАВ), неравномерно — накапливаясь в ловушках. Установлено, что свободный водород в металле находится в ионизированном состоянии, и его поведение подчиняется законам движения заряженной частицы. С использованием электро-дислокационной аналогии, основанной на подобии дислокации Вольтерры цилиндрическому конденсатору, сформулирована феноменологическая модель взаимодействия ПАВ СОТС с ювенильной поверхностью. Получены зависимости, которые позволяют связать электрическую природу ядра дислокации с механическими характеристиками материала. На основании теории диссоциативной адсорбции принята зависимость для расчёта количества молекул среды, поступающих в единицу времени к ювенильным участкам поверхности, образуемым при диспергировании обрабатываемого металла в единицу времени. Это позволило разработать математические модели для расчёта соотношения работы деформирования элемента поверхностного слоя обрабатываемого материла с адатомами и ювенильной поверхности, а также плотности дислокаций."
+	},
+	"keywords": {
+		"ua": "адсорбція, дислокація, гідрування, електро-дислокаційна аналогія, сольватований електрон, енергія Фермі, ювенільна поверхня, робота деформування",
+		"en": "adsorption, dislocation, hydrogenation, electro-dislocation analogy, solvated electron, Fermi energy, juvenile surface, deformation energy",
+		"ru": "адсорбция, дислокация, наводороживание, электро-дислокационная аналогия, сольватированный электрон, энергия Ферми, ювенильная поверхность, работа деформирования"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. О. Курін", "en": "M. O. Kurin", "ru": "М. А. Курин"},
+			"OID": [207]
+		},
+		{
+			"AID": {"ua": "М. В. Сурду", "en": "M. V. Surdu", "ru": "Н. В. Сурду"},
+			"OID": [207]
+		}
+	],
+	"references": {
+		"count": 47,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "﻿М. А. Курин, Открытые информационные и компьютерные интегрированные технологии, вып. 61: 82 (2013).",
+				"tr":  "M. A. Kurin, Otkrytye Informatsionnye i Komp'yuternye Integrirovannye Tekhnologii, Iss. 61: 82 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. В. Cурду, Вестник НТУ «ХПИ». Технології в машинобудуванні, вип. 34 (2008).",
+				"tr":  "N. V. Surdu, Vestnik NTU 'KhPI'. Tekhnologii v Mashynobuduvanni, Iss. 34 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Курин, Исследование технологии планетарного глубинного шлифования плоских поверхностей деталей авиационных двигателей (Дисс. ... канд. техн. наук) (Харьков: Национальный аэрокосмический университет им. М. Е. Жуковского «Харьковский авиацийный институт»: 2011).",
+				"tr":  "M. A. Kurin, Issledovanie Tekhnologii Planetarnogo Glubinnogo Shlifovaniya Ploskikh Poverkhnostey Detaley Aviatsionnykh Dvigateley [Investigation of the Technology of Planetary Deep Grinding of Plane Surfaces of Aircraft Engine Parts] (Thesis of Disser. … for Cand. Techn. Sci.) (Kharkiv: M. E. Zhukovskiy National Aerospace University 'Kharkiv Aviation Institute': 2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. В. Сурду, Повышение эффективности шлифования труднообрабатываемых материалов за счёт усовершенствования кинематики процессов (Дисс. ... канд. техн. наук) (Харьков: Институт проблем машиностроения им. А. Н. Подгорного НАН Украины: 2005).",
+				"tr":  "N. V. Surdu, Povyshenie Effektivnosti Shlifovaniya Trudnoobrabatyvaemykh Materialov za Shchet Usovershenstvovaniya Kinematiki Protsessov [Enhancement of Grinding Efficiency of Tough-to-Machine Materials by Improving the Kinematics of Processes] (Thesis of Disser. … for Cand. Techn. Sci.) (Kharkiv: A.N. Podgorny Institute for Mechanical Engineering Problems, N.A.S. of Ukraine: 2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Н. Гаркунов, Триботехника (износ и безызносность) (Москва: МСХА: 2001).",
+				"tr":  "D. N. Garkunov, Tribotekhnika (Iznos i Bezyznosnost') [Tribological Engineering (Wear and Wearlessness)] (Moscow: MSKhA: 2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "D. H. Herring, Wire Forming Technology International, 13, No. 4: 24 (2010).",
+				"tr":  "D. H. Herring, Wire Forming Technology International, 13, No. 4: 24 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Barnoush, Hydrogen Embrittlement, Revisited by in situ Electrochemical Nanoindentation (Thesis of Disser. … for PhD) (Saarbrucken: Saarland University: 2007).",
+				"tr":  "A. Barnoush, Hydrogen Embrittlement, Revisited by in situ Electrochemical Nanoindentation (Thesis of Disser. … for PhD) (Saarbrucken: Saarland University: 2007)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Brahimi, Fundamentals of Hydrogen Embrittlement in Steel Fasteners (Montreal: IBECA Technologies Corp.: 2014).",
+				"tr":  "S. Brahimi, Fundamentals of Hydrogen Embrittlement in Steel Fasteners (Montreal: IBECA Technologies Corp.: 2014)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. И. Суранов, Водород: разрушение, изнашивание, смазка деталей машин (Ухта: УГТУ: 2015).",
+				"tr":  "G. I. Suranov, Vodorod: Razrushenie, Iznashivanie, Smazka Detaley Mashin [Hydrogen: Destruction, Wear, Lubrication of Machine Parts] (Ukhta: UGTU: 2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Латышев, Повышение эффективности СОЖ (Москва: Машиностроение: 1975).",
+				"tr":  "V. N. Latyshev, Povyshenie Effektivnosti SOZh [Enhancement of Efficiency of LCL] (Moscow: Mashinostroenie: 1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. В. Шашкова, Фрактально-синергетические аспекты локальной микроповреждаемости и разрушения диффузионно-активированной водородом стали (Дисс. ... д-ра физ.-мат. наук) (Москва: ОГУ: 2014).",
+				"tr":  "L. V. Shashkova, Fraktal'no-Sinergeticheskie Aspekty Lokal'noy Mikropovrezhdaemosti i Razrusheniya Diffuzionno-Aktivirovannoy Vodorodom Stali [Fractal-Synergetic Aspects of Local Microdamaging and Destruction by Diffusion-Activated Hydrogen] (Thesis of Disser. … for Dr. Phys.-Math. Sci.) (Moscow: OGU: 2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Карпенко, Р. И. Крипякевич, Влияние водорода на структуру и свойства стали (Москва: Металлургиздат: 1962).",
+				"tr":  "G. V. Karpenko and R. I. Kripyakevich, Vliyanie Vodoroda na Strukturu i Svoystva Stali [The Influence of Hydrogen on the Structure and Properties of Steel] (Moscow: Metallurgizdat: 1962) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. В. Гельд, Р. А. Рябов, Е. С. Кодес, Водород и несовершенства структуры металла (Москва: Металлургия: 1979).",
+				"tr":  "P. V. Gel'd, R. A. Ryabov, and E. S. Kodes, Vodorod i Nesovershenstva Struktury Metalla [Hydrogen and Imperfections of Metal Structure] (Moscow: Metallurgiya: 1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. А. Колачев, Водородная хрупкость металлов (Москва: Металлургия: 1985).",
+				"tr":  "B. A. Kolachev, Vodorodnaya Khrupkost' Metallov [Hydrogen Brittleness of Metals] (Moscow: Metallurgiya: 1985) (in Russian)."
+			},
+			{
+				"doi": "10.3367/UFNr.0116.197507a.0385",
+				"or":  "Е. Г. Максимов, О. А. Панкратов, Успехи физических наук, 116, вып. 7: 385 (1975).",
+				"tr":  "E. G. Maksimov and O. A. Pankratov, Uspekhi Fizicheskikh Nauk, 116, Iss. 7: 385 (1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Соменков, С. Ш. Шильштейн, Фазовые превращения водорода в металлах (обзор) (Москва: Институт атомной энергии им. И. В. Курчатова: 1978).",
+				"tr":  "V. A. Somenkov and S. Sh. Shil'shteyn, Fazovye Prevrashcheniya Vodoroda v Metallakh (Obzor) [Phase Transformations of Hydrogen in Metals (Review)] (Moscow: I. V. Kurchatov Institute of Atomic Energy: 1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. В. Гельд, Р. А. Рябов, Водород в металлах и сплавах (Москва: Металлургия: 1974).",
+				"tr":  "P. V. Gel'd and R. A. Ryabov, Vodorod v Metallakh i Splavakh [Hydrogen in Metals and Alloys] (Moscow: Metallurgiya: 1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. А. Хрусталёв, Эффект безызносности и триботехнологии, № 2: 19 (1997).",
+				"tr":  "Yu. A. Khrustalev, Effekt Bezyznosnosti i Tribotekhnologii, No. 2: 19 (1997) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. П. Хирт, И. Лотте, Теория дислокаций (Москва: Атомиздат: 1972).",
+				"tr":  "J. P. Hirth and J. Lothe, Teoriya Dislokatsiy [Theory of Dislocations] (Moscow: Atomizdat: 1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. И. Полухин, С. С. Горелик, В. К. Воронцов, Физические основы пластической деформации (Москва: Металлургия: 1982).",
+				"tr":  "P. I. Polukhin, S. S. Gorelik, and V. K. Vorontsov, Fizicheskie Osnovy Plasticheskoy Deformatsii [Physical Fundamentals of Plastic Deformation] (Moscow: Metallurgiya: 1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Д. Щукин, А. В. Перцов, Е. А. Амелина, Коллоидная химия (Москва: Высшая школа: 2004).",
+				"tr":  "E. D. Shchukin, A. V. Pertsov, and E. A. Amelina, Kolloidnaya Khimiya [Colloid Chemistry] (Moscow: Vysshaya Shkola: 2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. А. Малыгин, Физика твёрдого тела, 43, вып. 5: 822 (2001).",
+				"tr":  "G. A. Malygin, Fizika Tverdogo Tela, 43, Iss. 5: 822 (2001) (in Russian)."
+			},
+			{
+				"doi": "10.3367/UFNr.0169.199909c.0979",
+				"or":  "Г. А. Малыгин, Успехи физических наук, 169, вып. 9: 979 (1999).",
+				"tr":  "G. A. Malygin, Uspekhi Fizicheskikh Nauk, 169, Iss. 9: 979 (1999) (in Russian)."
+			},
+			{
+				"doi": "10.3367/UFNr.0174.200402c.0131",
+				"or":  "Р. Б. Моргунов, Успехи физических наук, 174, вып. 2: 131 (2004).",
+				"tr":  "R. B. Morgunov, Uspekhi Fizicheskikh Nauk, 174, Iss. 2: 131 (2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Ю. Бутягин, Успехи химии, вып. 11: 1769 (1984).",
+				"tr":  "P. Yu. Butyagin, Uspekhi Khimii, Iss. 11: 1769 (1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. В. Сурду, Вопросы проектирования и производства летательных аппаратов, вып. 24 (1): 139 (2001).",
+				"tr":  "N. V. Surdu, Voprosy Proektirovaniya i Proizvodstva Letatel'nykh Apparatov, Iss. 24 (1): 139 (2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Чеботин, Физическая химия твёрдого тела (Москва: Химия: 1982).",
+				"tr":  "V. N. Chebotin, Fizicheskaya Khimiya Tverdogo Tela [Physical Chemistry of Solid State] (Moscow: Khimiya: 1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ф. Я. Якубов, Энергетические соотношения процесса механической обработки материалов (Ташкент: Фан: 1985).",
+				"tr":  "F. Ya. Yakubov, Energeticheskie Sootnosheniya Protsessa Mekhanicheskoy Obrabotki Materialov [Energy Relationships of the Process of Mechanical Processing of Materials] (Tashkent: Fan: 1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. К. Старков, Физика и оптимизация резания материалов (Москва: Машиностроение: 2009).",
+				"tr":  "V. K. Starkov, Fizika i Optimizatsiya Rezaniya Materialov [Physics and Optimization of Material Cutting] (Moscow: Mashinostroenie: 2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Алексеев, Введение в теорию обработки металлов давлением, прокаткой и резанием (Харьков: Издательство ХГУ: 1969).",
+				"tr":  "Yu. N. Alekseev, Vvedenie v Teoriyu Obrabotki Metallov Davleniem, Prokatkoy i Rezaniem [Introduction to the Theory of Metal Working with Pressure, Rolling and Cutting] (Kharkiv: Izdatel'stvo KhGU: 1969) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "ГОСТ 25.503–97. Расчёты и испытания на прочность. Методы механических испытаний металлов. Метод испытания на сжатие (Минск: Межгосударственный совет по стандартизации, метрологии и сертификации: 1997).",
+				"tr":  "GOST 25.503–97. Raschety i Ispytaniya na Prochnost'. Metody Mekhanicheskikh Ispytaniy Metallov. Metod Ispytaniya na Szhatie [Calculations and Strength Tests. Methods of Mechanical Testing of Metals. Compression Test Method] (Minsk: Mezhgosudarstvennyy Sovet po Standartizatsii, Metrologii i Sertifikatsii: 1997) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Долматов, А. А. Кабатов, М. А. Курин, Авиационно-космическая техника и технология, № 3 (100): 12 (2013).",
+				"tr":  "A. I. Dolmatov, A. A. Kabatov, and M. A. Kurin, Aviatsionno-Kosmicheskaya Tekhnika i Tekhnologiya, No. 3 (100): 12 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "P. P. Салем, Теория двойного слоя (Москва: Физматлит: 2003).",
+				"tr":  "P. P. Salem, Teoriya Dvoynogo Sloya [The Theory of Double Layer] (Moscow: Fizmatlit: 2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. М. Жарский, Н. Л. Смоляг, А. А. Черник, Кинетика электролитического выделения водорода (Белорусский гос. технологический ун-т: 2016).",
+				"tr":  "I. M. Zharskiy, N. L. Smolyag, and A. A. Chernik, Kinetika Elektroliticheskogo Vydeleniya Vodoroda [Kinetics of Electrolytic Release of Hydrogen] (Belarusian State Technological University: 2016) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Юхневич, Е. Валашковский, Г. Станкевич, Техника борьбы с коррозией (Ленинград: Химия: 1978).",
+				"tr":  "R. Yukhnevich, E. Valashkovskiy, and G. Stankevich, Tekhnika Bor'by s Korroziey [The Technique of Corrosion Control] (Leningrad: Khimiya: 1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Кузнецов, Соросовский образовательный журнал, 6, № 5: 45 (2000).",
+				"tr":  "A. M. Kuznetsov, Sorosovskiy Obrazovatel'nyy Zhurnal, 6, No. 5: 45 (2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. П. Черданцев, И. П. Чернов, Ю. И. Тюрин, Методы исследования систем металл–водород (Томск: Изд. ТПУ: 2008).",
+				"tr":  "Yu. P. Cherdantsev, I. P. Chernov, and Yu. I. Tyurin, Metody Issledovaniya Sistem Metall–Vodorod [Methods for Studying Metal–Hydrogen Systems] (Tomsk: Izd. TPU: 2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. П. Авакянц, Электроны в металлах (Московский гос. ун-т им. М. В. Ломоносова: 2010).",
+				"tr":  "L. P. Avakyants, Elektrony v Metalle [Electrons in Metal] (M. V. Lomonosov Moscow State University: 2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Фицак, Статистика квантовых частиц. Электроны в металле (Санкт-Петербургский горный ун-т: 2014).",
+				"tr":  "V. V. Fitsak, Statistika Kvantovykh Chastits. Elektrony v Metalle [Statistics of Quantum Particles. Electrons in Metal] (St. Petersburg Mining University: 2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Глазков, Свойства электронного Ферми-газа (Москва: МФТИ: 2016).",
+				"tr":  "V. N. Glazkov, Svoystva Elektronnogo Fermi-Gaza [Properties of Electronic Fermi Gas] (Moscow: MFTI: 2016) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Д. Ландау, Е. М. Лифшиц, Теоретическая физика. Статистическая физика (Москва: Наука: 1976).",
+				"tr":  "L. D. Landau and E. M. Lifshits, Teoreticheskaya Fizika. Statisticheskaya Fizika [Theoretical Physics. Statistical Physics] (Moscow: Nauka: 1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Д. Андреянов, В. П. Петросян, Вісник Одеського національного університету. Хімія, 15, № 12: 54 (2010).",
+				"tr":  "A. D. Andreyanov and V. P. Petrosyan, Visnyk Odes'kogo Natsional'nogo Universytetu. Khimiya, 15, No. 12: 54 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Д. Андреянов, И. А. Кузнецова, Л. И. Короленко, Вісник Одеського національного університету. Хімія, 14, № 11: 45 (2009).",
+				"tr":  "A. D. Andreyanov, I. A. Kuznetsova, and L. I. Korolenko, Visnyk Odes'kogo Natsional'nogo Universytetu. Khimiya, 14, No. 11: 45 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ф. К. Ткаченко, К. И. Ткаченко, В. Г. Гаврилова, Вісник Приазовського державного технічного університету. Технічні науки, вип. 2: 102 (2010).",
+				"tr":  "F. K. Tkachenko, K. I. Tkachenko, and V. G. Gavrilova, Visnyk Pryazovs'kogo Derzhavnogo Tekhnichnogo Universytetu. Tekhnichni Nauky, Iss. 2: 102 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. С. Стерман, В. Н. Покровский, Физические и химические методы обработки воды на ТЭС (Москва: Энергоатомиздат: 1991).",
+				"tr":  "L. S. Sterman and V. N. Pokrovskiy, Fizicheskie i Khimicheskie Metody Obrabotki Vody na TES [Physical and Chemical Methods of Water Treatment at TPS] (Moscow: Energoatomizdat: 1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Н. Бушуев, Вестник ИГЭУ, вып. 2: 1 (2007).",
+				"tr":  "E. N. Bushuev, Vestnik IGEU, Iss. 2: 1 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. С. Еркович, А. В. Курочкин, Вестник МГТУ им. Н. Э. Баумана. Естественные науки, № 1: 18: (2012).",
+				"tr":  "O. S. Erkovich and A. V. Kurochkin, Vestnik MGTU im. N. E. Baumana. Estestvennye Nauki, No. 1: 18: (2012) (in Russian)."
+			}
+		]
+	}
+}

@@ -1,0 +1,145 @@
+{
+	"_id":    "MFiNT.36.04.0519",
+	"year":   2014,
+	"volume": 36,
+	"issue":  4,
+	"pages":  [519,530],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["28.11.2013"],
+	"PACS":   "68.08.Bc, 68.35.Np, 68.37.Hk, 68.37.Ps, 68.55.-a, 81.15.Jj, 82.70.-y",
+	"title":   {
+		"ua": "Кінетика дисперґування—коаґуляції при відпалі металевих наноплівок, нанесених на поверхню неметалічних матеріалів",
+		"en": "Kinetics of Dispersion—Coagulation at Annealing of Metal Nanofilms Deposited on the Surface of Non-Metallic Materials",
+		"ru": "Кинетика диспергирования—коагуляции при отжиге металлических наноплёнок, нанесённых на поверхность неметаллических материалов"
+	},
+	"abstract": {
+		"ua": "Досліджено кінетику процесів дисперґування—коаґулювання наноплівок різних металів (Ag, Au, Cu, Nb, Hf) завтовшки у 100 нм, яких нанесено на оксидні та неоксидні підложжя та відпалено в широкому діапазоні температур від 600 до 1600°C. Запропоновано пояснення механізму розпаду металевих наноплівок з урахуванням процесів, які відбуваються на міжфазній межі плівка—твердофазна основа.",
+		"en": "Kinetics of dispergation—coagulation processes of various metal (Ag, Au, Cu, Nb, Hf) nanofilms of 100 nm thickness, which are deposited onto oxide and nonoxide substrates and are annealed in a wide range of temperatures from 600 up to 1600°C, is investigated. The explanation of metal-nanofilm decomposition mechanism with regard to the processes occurring in film—solid base interphase boundary is proposed.",
+		"ru": "Исследована кинетика процессов диспергирования—коагулирования наноплёнок различных металлов (Ag, Au, Cu, Nb, Hf) толщиной 100 нм, нанесённых на оксидные и неоксидные подложки и отожжённых в широком диапазоне температур от 600 до 1600°C. Предложено объяснение механизма распада металлических наноплёнок с учётом процессов, происходящих на межфазной границе плёнка—твердофазная основа."
+	},
+	"keywords": {
+		"ua": "кінетика дисперґування та коаґуляції, відпал, наноплівки",
+		"en": "kinetics of dispersion and coagulation, annealing, nanofilms",
+		"ru": "кинетика диспергирования и коагуляции, отжиг, наноплёнки"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. В. Найдич", "en": "Yu. V. Naydich", "ru": "Ю. В. Найдич"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "І. І. Габ", "en": "I. I. Gab", "ru": "И. И. Габ"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "Т. В. Стецюк", "en": "T. V. Stetsyuk", "ru": "Т. В. Стецюк"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "Б. Д. Костюк", "en": "B. D. Kostyuk", "ru": "Б. Д. Костюк"},
+			"OID": [2]
+		}
+	],
+	"references": {
+		"count": 19,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "G. Elssner, W. Diem, and J. Wallace, Materials of 17 University Conference on Ceramics (July 28–August 1, 1980, Berkeley, California) (New York–London: 1981), p. 629.",
+				"tr":  "G. Elssner, W. Diem, and J. Wallace, Materials of 17 University Conference on Ceramics (July 28–August 1, 1980, Berkeley, California) (New York–London: 1981), p. 629."
+			},
+			{
+				"doi": "10.1007/BF00368906",
+				"or":  "W. X. Pan, T. Okamoto, and X. S. Ning, J. Mater. Sci., 29, No. 6: 1436 (1994).",
+				"tr":  "W. X. Pan, T. Okamoto, and X. S. Ning, J. Mater. Sci., 29, No. 6: 1436 (1994)."
+			},
+			{
+				"doi": "10.1016/0956-716X(94)90524-X",
+				"or":  "B. J. Dalgleish, A. P. Tomsia, K. Nakashima, M. R. Locatelli, and A. M. Glaeser, Scr. Met. et Mater., 31, No 8: 1043 (1994).",
+				"tr":  "B. J. Dalgleish, A. P. Tomsia, K. Nakashima, M. R. Locatelli, and A. M. Glaeser, Scr. Met. et Mater., 31, No. 8: 1043 (1994)."
+			},
+			{
+				"doi": "10.1111/j.1151-2916.1999.tb02085.x",
+				"or":  "M. Z.-C. Hu, R. D. Hunt, E. A. Payzant, and C. R. Hubbard, J. Amer. Ceram. Soc., 82, No. 9: 2313 (1999).",
+				"tr":  "M. Z.-C. Hu, R. D. Hunt, E. A. Payzant, and C. R. Hubbard, J. Amer. Ceram. Soc., 82, No. 9: 2313 (1999)."
+			},
+			{
+				"doi": "10.1016/S0955-2219(01)00171-6",
+				"or":  "R. R. Piticescu, C. Monty, D. Taloi, A. Motoc, and S. Axinte, J. Eur. Ceram. Soc., 21, Iss. 10–11: 2057 (2001).",
+				"tr":  "R. R. Piticescu, C. Monty, D. Taloi, A. Motoc, and S. Axinte, J. Eur. Ceram. Soc., 21, Iss. 10–11: 2057 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Новиков, Теоретические основы микроэлектроники (Москва: Высшая школа: 1972).",
+				"tr":  "V. V. Novikov, Teoreticheskie Osnovy Mikroelektroniki (Moscow: Vysshaya Shkola: 1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Найдич, И. И. Габ, Б. Д. Костюк, Т. В. Стецюк, Д. И. Куркова, С. В. Дукаров, В. Ю. Куликовский, А. А. Оноприенко, Адгезия расплавов и пайка материалов, № 38: 69 (2005).",
+				"tr":  "Yu. V. Naydich, I. I. Gab, B. D. Kostyuk, T. V. Stetsyuk, D. I. Kurkova, S. V. Dukarov, V. Yu. Kulikovskiy, and A. A. Onoprienko, Adheziya Rasplavov i Payka Materialov, No. 38: 69 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Найдич, И. И. Габ, Б. Д. Костюк, Т. В. Стецюк, Д. И. Куркова, С. В. Дукаров, В. Ю. Куликовский, А. А. Оноприенко, Наноструктурное мате-риаловедение, № 1: 31 (2006).",
+				"tr":  "Yu. V. Naydich, I. I. Gab, B. D. Kostyuk, T. V. Stetsyuk, D. I. Kurkova, S. V. Dukarov, V. Yu. Kulikovskiy, and A. A. Onoprienko, Nanostrukturnoe Materialovedenie, No. 1: 31 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Габ, Б. Д. Костюк, Т. В. Стецюк, С. В. Дукаров, А. П. Крышталь, О. С. Литвин, В. В. Пасичный, Адгезия расплавов и пайка материалов, № 40: 46 (2007).",
+				"tr":  "I. I. Gab, B. D. Kostyuk, T. V. Stetsyuk, S. V. Dukarov, A. P. Kryshtal', O. S. Litvin, and V. V. Pasichnyy, Adheziya Rasplavov i Payka Materialov, No. 40: 46 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Найдич, И. И. Габ, Б. Д. Костюк, Т. В. Стецюк, Д. И. Куркова, С. В. Дукаров, Техника машиностроения, № 4: 13 (2006).",
+				"tr":  "Yu. V. Naydich, I. I. Gab, B. D. Kostyuk, T. V. Stetsyuk, D. I. Kurkova, and S. V. Dukarov, Tekhnika Mashinostroeniya, No. 4: 13 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Найдич, И. И. Габ, Б. Д. Костюк, Т. В. Стецюк, Д. И. Куркова, С. В. Дукаров, Доповіді Академії наук, № 35: 97 (2007).",
+				"tr":  "Yu. V. Naydich, I. I. Gab, B. D. Kostyuk, T. V. Stetsyuk, D. I. Kurkova, and S. V. Dukarov, Dopovidi Akademiyi Nauk, No. 35: 97 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Найдич, И. И. Габ, Б. Д. Костюк, Наносистеми, наноматеріали, нанотехнології, 6, вип. 4: 1185 (2008).",
+				"tr":  "Yu. V. Naydich, I. I. Gab, and B. D. Kostyuk, Nanosistemi, Nanomateriali, Nanotehnologii, 6, No. 4: 1185 (2008) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Метфессель, Тонкие плёнки, их изготовление и измерение (Москва–Ленинград: Госэнергоиздат: 1963).",
+				"tr":  "S. Metfessel', Tonkie Plenki, Ikh Izgotovlenie i Izmerenie (Moscow–Leningrad: Gosehnergoizdat: 1963) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Рябцев, О. А. Чувенкова, А. Е. Попов, Ф. М. Чернышев, Н. С. Рябцева, Э. П. Домашевская, Конденсированные среды и межфазные границы, 14, № 3: 328 (2012).",
+				"tr":  "S. V. Ryabtsev, O. A. Chuvenkova, A. E. Popov, F. M. Chernyshev, N. S. Ryabtseva, and E. P. Domashevskaya, Kondensirovannye Sredy i Mezh-faznye Granitsy, 14, No. 3: 328 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. М. Абрамова, Н. И. Киселев, Г. С. Патрин, Г. А. Петраковский, Физика твёрдого тела, 41, вып. 3: 380 (1999).",
+				"tr":  "G. M. Abramova, N. I. Kiselev, G. S. Patrin, and G. A. Petrakovskiy, Fizika Tvyordogo Tela, 41, No. 3: 380 (1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. А. Быков, С. Д. Карпухин, Е. И. Газукина, Металловедение и термиче-ская обработка металлов, № 6: 45 (2000).",
+				"tr":  "Ju. A. Bykov, S. D. Karpukhin, and E. I. Gazukina, Metallovedenie i Termich-eskaya Obrabotka Metallov, No. 6: 45 (2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Гавриленко, Н. А. Филатова, М. С. Бурметьева, Известия Томского политехнического университета, 322, № 3: 42 (2013).",
+				"tr":  "M. A. Gavrilenko, N. A. Filatova, and M. S. Burmet'eva, Izvestiya Tomskogo Politekhnicheskogo Universiteta, 322, No. 3: 42 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Г. Громов, С. А. Гаврилов, Е. Н. Редичев, Р. М. Амосов, Физика твёрдого тела, 49, вып. 1: 172 (2007).",
+				"tr":  "D. G. Gromov, S. A. Gavrilov, E. N. Redichev, and R. M. Amosov, Fizika Tvyordogo Tela, 49, No. 1: 172 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Ю. Бальшин, С. С. Кипарисов, Основы порошковой металлургии (Москва: Металлургия: 1978).",
+				"tr":  "M. Yu. Bal'shin and S. S. Kiparisov, Osnovy Poroshkovoy Metallurgii (Moscow: Metallurgiya: 1978) (in Russian)."
+			}
+		]
+	}
+}

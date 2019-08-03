@@ -1,0 +1,121 @@
+{
+	"_id":    "MFiNT.36.08.1129",
+	"year":   2014,
+	"volume": 36,
+	"issue":  8,
+	"pages":  [1129,1143],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["11.11.2013","09.07.2014"],
+	"PACS":   "61.72.Dd, 61.72.Mm, 62.20.de, 62.23.Pq, 81.07.Bc, 81.20.Hy, 83.50.Uv",
+	"title":   {
+		"ua": "Гібридний модель аномальної температурної залежности модуля зсуву міді, викликаної інтенсивною пластичною деформацією",
+		"en": "The Hybrid Model of the Severe-Plastic-Deformation-Induced Anomalous Temperature Dependence of Shear Modulus for Copper",
+		"ru": "Гибридная модель аномальной температурной зависимости модуля сдвига меди, вызванной интенсивной пластической деформацией"
+	},
+	"abstract": {
+		"ua": "Досліджено зразки, виготовлені з гарячепресованих прутків міді чистотою M0б, оброблених за ориґінальною технологією з використанням гідроекструзії і волочіння. На дротовому зразку виміряно модуль зсуву в режимі вільно згасних крутних коливань у діяпазонах частот $f = 48–60$ Гц і температур 293–736 К за допомогою автоматизованої системи релаксаційної спектроскопії, яка працює за принципом оборотнього крутного хитуна. Представлено результати міряння змін пружніх властивостей для двох циклів нагрівання–охолодження зі швидкістю зміни температури при нагріванні у 2 К/хв. Досліджено зміну параметрів, що контролюють внески в пружні модулі, на основі рентґеноструктурної аналізи. Рентґенова інтерференційна картина являє собою накладання незалежних $K_{\\alpha_{1}}$-, $K_{\\alpha_{2}}$-кривих; тому при аналізі результатів знімання в характеристичному випроміненні внесено методом Речінґера поправку на дублетність спектральної лінії, необхідну для правильного вибору апроксимувальної функції. Для встановлення фізичної природи розширення ліній в цій роботі використовували метод, що уможливлює з аналізи профілю псевдо-Фойгта однієї лінії визначити середній розмір областей когерентного розсіяння і середньоквадратичну деформацію ґратниці. Наведено кількісні дані рентґеноструктурної аналізи в напрямках 100 та 111 до та після першого циклу нагрівання–охолодження щодо середнього розміру областей когерентного розсіяння, а, отже, розміру зерен (кристалітів), середньої деформації та середньої густини дислокацій. Виконано зіставлення експериментальних результатів і оцінки внесків у зміну пружніх властивостей трьох традиційних фізичних механізмів (пружні модулі межі, внутрішні напруження і ґратницеві дислокації). У межах цих механізмів виконано кількісні оцінки відносної зміни модуля зсуву до та після першого циклу нагрівання– охолодження, що ґрунтуються на рентґеноструктурній аналізі у напрямках 100 та 111. Обговорюється можливість застосування нового двокомпонентного моделю однофазного гібридного матеріялу для пояснення аномальної температурної залежности пружніх модулів міді з субмікрокристалічною структурою. Наведено дані для об’ємних часток компонентів, орієнтованих у напрямках 100 та 111. Зокрема, представлено зміни з часом цих об’ємних часток.",
+		"en": "Samples fabricated from hot-pressed rods of M0b purity copper processed by the original technology using hydrostatic extrusion and drawing are investigated. The shear modulus are measured in freely damped mode of torsion oscillations, using an automated system of relaxation spectroscopy, which uses the principle of reversible torsion pendulum on a wire sample in the frequency range $f = 48–60$ Hz and the temperature range 293–736 K. The results of measured changes in the elastic properties for two cycles of heating–cooling at the temperature-change rate of 2 K/min during heating are presented. The variations of parameters controlling the contributions to the elastic moduli, based on X-ray diffraction analysis, are investigated. X-ray interference pattern is a superposition of independent $K_{\\alpha_{1}}$-, $K_{\\alpha_{2}}$-curves. Therefore, at the analysis of the results obtained with the characteristic radiation, a correction for doubling of spectral line is necessary for correct selection of the approximating function and is introduced by the Rechinger method. To reveal the physical nature of the line broadening, a method that allows determining the average size of the coherent scattering regions and mean-square lattice strain by the analysis of the pseudo-Voigt profile for one line is used. Quantitative data of X-ray analysis for the 100 and 111 directions before and after the first heating–cooling cycle are presented for an average size of coherent scattering and, therefore, a size of grains (crystallites), an average strain, and a dislocation density. The experimental results and estimates of contributions to the change in the elastic properties of the three traditional physical mechanisms (elastic moduli of boundaries, the internal stresses, and lattice dislocations) are compared. Under these mechanisms, quantitative estimates of the relative change in the shear modulus before and after the first heating–cooling cycle are made on the basis of X-ray diffraction analysis for 100 and 111 directions. The possibility of using a new two-component model of the single-phase hybrid material for explanation of the anomalous temperature dependence of the elastic moduli of copper with a submicrocrystalline structure is discussed. Data of the volume fractions of the components, which are oriented along 100 and 111 directions, are presented. In particular, they summarize the changes of these volume fractions with time.",
+		"ru": "Исследованы образцы, приготовленные из горячепрессованных прутков меди чистотой M0б, обработанных по оригинальной технологии с использованием гидроэкструзии и волочения. С помощью автоматизированной системы релаксационной спектроскопии, которая работает по принципу обратного крутильного маятника на проволочном образце, измерен модуль сдвига в режиме свободно затухающих крутильных колебаний в диапазонах частот $f = 48–60$ Гц и температур 293–736 К. Представлены результаты измерения изменений упругих свойств для двух циклов нагрев– охлаждение со скоростью изменения температуры при нагреве 2 К/мин. Исследовано изменение параметров, контролирующих вклады в упругие модули, на основе рентгеноструктурного анализа. Рентгеновская интерференционная картина представляет собой наложение независимых $K_{\\alpha_{1}}$-, $K_{\\alpha_{2}}$-кривых; поэтому при анализе результатов съёмки в характеристическом излучении внесена методом Речингера поправка на дублетность спектральной линии, необходимая для правильного выбора аппроксимирующей функции. Для установления физической природы уширения линий в этой работе использовали метод, позволяющий по анализу профиля псевдо-Фойгта одной линии определить средний размер областей когерентного рассеяния и среднеквадратичную деформацию решётки. Приведены количественные данные рентгеноструктурного анализа в направлениях 100 и 111 до и после первого цикла нагрева–охлаждения по среднему размеру областей когерентного рассеяния, а, следовательно, размеру зёрен (кристаллитов), средней деформации и средней плотности дислокаций. Выполнено сравнение экспериментальных результатов и оценок вкладов в изменение упругих свойств трёх традиционных физических механизмов (упругие модули границы, внутренние напряжения и решёточные дислокации). В рамках этих механизмов проведены количественные оценки относительного изменения модуля сдвига до и после первого цикла нагрева–охлаждения, основанные на рентгеноструктурном анализе в направлениях 100 и 111. Обсуждается возможность применения новой двухкомпонентной модели однофазного гибридного материала для объяснения аномальной температурной зависимости упругих модулей меди с субмикрокристаллической структурой. Приведены данные для объёмных долей компонентов, ориентированных в направлениях 100 и 111. В частности, представлены изменения со временем этих объёмных долей."
+	},
+	"keywords": {
+		"ua": "модуль зсуву, кінетика часток компонентів, субмікрокристалічна мідь, гібридний модель, рентґеноструктурна аналіза",
+		"en": "shear modulus, kinetics of components’ fractions, submicrocrystalline copper, hybrid model, XRD analysis",
+		"ru": "модуль сдвига, кинетика долей компонентов, субмикрокристаллическая медь, гибридная модель, рентгеноструктурный анализ"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Н. В. Токій", "en": "N. V. Tokiy", "ru": "Н. В. Токий"},
+			"OID": [8]
+		},
+		{
+			"AID": {"ua": "А. М. Пилипенко", "en": "A. N. Pylypenko", "ru": "А. Н. Пилипенко"},
+			"OID": [8]
+		},
+		{
+			"AID": {"ua": "В. В. Токій", "en": "V. V. Tokiy", "ru": "В. В. Токий"},
+			"OID": [8]
+		}
+	],
+	"references": {
+		"count": 15,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "N. A. Akhmadeev, R. Z. Valiev, N. P. Kobelev, R. R. Mulyukov, and Ya. M. Soifer, Fiz. Tverd. Tela, 34: 3155 (1992) (in Russian).",
+				"tr":  "N. A. Akhmadeev, R. Z. Valiev, N. P. Kobelev, R. R. Mulyukov, and Ya. M. Soifer, Fiz. Tverd. Tela, 34: 3155 (1992) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "E. L. Kolyvanov, N. P. Kobelev, and Yu. Estrin, Deformatsiya i Razrushenie Materialov, 4: 1 (2010) (in Russian).",
+				"tr":  "E. L. Kolyvanov, N. P. Kobelev, and Yu. Estrin, Deformatsiya i Razrushenie Materialov, 4: 1 (2010) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2007.11.034",
+				"or":  "N. Kobelev, E. Kolyvanov, and Y. Estrin, Acta Mater., 56: 1473 (2008).",
+				"tr":  "N. Kobelev, E. Kolyvanov, and Y. Estrin, Acta Mater., 56: 1473 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "N. V. Tokiy, V. V. Tokiy, A. N. Pilipenko, and N. E. Pismenova, Fiz. Tverd. Tela, 56, No. 5 (2014) (in Russian).",
+				"tr":  "N. V. Tokiy, V. V. Tokiy, A. N. Pilipenko, and N. E. Pismenova, Fiz. Tverd. Tela, 56, No. 5 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.jmatprotec.2010.06.001",
+				"or":  "V. Spuskanyuk, O. Davydenko, A. Berezina, O. Gangalo, L. Sennikova, M. Tikhonovsky, and D. Spiridonov, J. Mater. Process. Technol., 210: 1709 (2010).",
+				"tr":  "V. Spuskanyuk, O. Davydenko, A. Berezina, O. Gangalo, L. Sennikova, M. Tikhonovsky, and D. Spiridonov, J. Mater. Process. Technol., 210: 1709 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "A. N. Pilipenko, Fizika i Tekhnika Vysokikh Davleniy, 23, No. 4: 5 (2013) (in Russian).",
+				"tr":  "A. N. Pilipenko, Fizika i Tekhnika Vysokikh Davleniy, 23, No. 4: 5 (2013) (in Russian)."
+			},
+			{
+				"doi": "10.1107/S0021889896015464",
+				"or":  "F. Sanchez-Bajo and F. L. Cumbrera, J. Appl. Crystallogr., 30: 427 (1997).",
+				"tr":  "F. Sanchez-Bajo and F. L. Cumbrera, J. Appl. Crystallogr., 30: 427 (1997)."
+			},
+			{
+				"doi": "10.1088/0950-7671/25/7/125",
+				"or":  "W. A. Rachinger, J. Sci. Instrum., 25: 254 (1948).",
+				"tr":  "W. A. Rachinger, J. Sci. Instrum., 25: 254 (1948)."
+			},
+			{
+				"doi": "10.1107/S0021889883010493",
+				"or":  "Th. H. de Keijser, E. J. Mittemeijer, and H. C. F. Rozendaal, J. Appl. Crystallogr., 16: 309 (1983).",
+				"tr":  "Th. H. de Keijser, E. J. Mittemeijer, and H. C. F. Rozendaal, J. Appl. Crystallogr., 16: 309 (1983)."
+			},
+			{
+				"doi": "10.1080/14786435608238074",
+				"or":  "G. K. Williamson and R. E. Smallman, Philos. Mag., 1: 34 (1956).",
+				"tr":  "G. K. Williamson and R. E. Smallman, Philos. Mag., 1: 34 (1956)."
+			},
+			{
+				"doi": "10.1016/j.minpro.2006.01.010",
+				"or":  "P. Pourghahramani and E. Forssberg, Int. J. Miner. Process., 79: 120 (2006).",
+				"tr":  "P. Pourghahramani and E. Forssberg, Int. J. Miner. Process., 79: 120 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Reuss and Z. Angew, Math. Mech., 9: 49 (1929).",
+				"tr":  "A. Reuss and Z. Angew, Math. Mech., 9: 49 (1929)."
+			},
+			{
+				"doi": "10.1063/1.1722436",
+				"or":  "A. Granato and K. Lucke, J. Appl. Phys., 27: 583 (1965).",
+				"tr":  "A. Granato and K. Lucke, J. Appl. Phys., 27: 583 (1965)."
+			},
+			{
+				"doi": "10.1016/0956-7151(93)90153-J",
+				"or":  "N. A. Akhmadeev, N. P. Kobelev, R. R. Mulyukov, Ya. M. Soifer, and R. Z. Valiev, Acta Metall. Mater., 41, No. 4: 1041 (1993).",
+				"tr":  "N. A. Akhmadeev, N. P. Kobelev, R. R. Mulyukov, Ya. M. Soifer, and R. Z. Valiev, Acta Metall. Mater., 41, No. 4: 1041 (1993)."
+			},
+			{
+				"doi": "10.1063/1.1708903",
+				"or":  "Y. A. Chang and L. Himmel, J. Appl. Phys., 37: 3567 (1966).",
+				"tr":  "Y. A. Chang and L. Himmel, J. Appl. Phys., 37: 3567 (1966)."
+			}
+		]
+	}
+}

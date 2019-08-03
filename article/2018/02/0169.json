@@ -1,0 +1,261 @@
+{
+	"_id":    "MFiNT.40.02.0169",
+	"year":   2018,
+	"volume": 40,
+	"issue":  2,
+	"pages":  [169,182],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["27.11.2017"],
+	"PACS":   "62.23.Pq, 62.25.-g, 72.20.Pa, 72.80.Rj, 73.50.Lw, 81.07.Oj, 81.40.Vw",
+	"title":   {
+		"ua": "Термоелектричні властивості масиву вуглецевих нанотрубок при одновісному стисканні після відпалу",
+		"en": "Thermoelectric Properties of an Array of Carbon Nanotubes under Uniaxial Compression after Annealing",
+		"ru": "Термоэлектрические свойства массива углеродных нанотрубок при одноосном сжатии после отжига"
+	},
+	"abstract": {
+		"ua": "Вивчено вплив відпалу в вакуумі до $10^5$ Па у діяпазоні температур 300–1150°C на електропровідність, термоерс і пружні характеристики масиву багатошарових вуглецевих нанотрубок (БВНТ) при зміні його густини. Показано, що при одновісній деформації відбувається орієнтовне пакування БВНТ, що призводить до зниження Зеєбекового коефіцієнта до 15%, а відпал при температурі до 950°C сприяє його зниженню на 5% для всіх ступенів стиснення.",
+		"en": "The influence of annealing in a vacuum up to $10^5$ Pa in temperature range 300–1150С on the electrical conductivity, thermopower, and elastic characteristics of the multiwall carbon nanotubes (MWCNT) array is studied. As shown, in case of uniaxial deformation, the oriented packing of MWCNT occurs that leads to decreasing of the Seebeck coefficient up to 15%, and the annealing at a temperature under 950°C contributes to its reduction by 5% for all compression ratios.",
+		"ru": "Изучено влияние отжига в вакууме до $10^5$ Па в диапазоне температур 300–1150°C на электропроводность, термоэдс и упругие характеристики массива многослойных углеродных нанотрубок (МУНТ) при изменении его плотности. Показано, что при одноосной деформации происходит ориентированная упаковка МУНТ, что приводит к снижению коэффициента Зеебека до 15%, а отжиг при температуре до 950°C способствует его снижению на 5% для всех степеней сжатия."
+	},
+	"keywords": {
+		"ua": "вуглецеві нанотрубки, високотемпературний відпал, електропровідність, термоерс, Зеєбеків коефіцієнт",
+		"en": "carbon nanotubes, high-temperature annealing, electrical conductivity, thermopower, Seebeck coefficient",
+		"ru": "углеродные нанотрубки, высокотемпературный отжиг, электропроводность, термоэдс, коэффициент Зеебека"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. М. Нищенко", "en": "M. M. Nishchenko", "ru": "М. М. Нищенко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Г. Ю. Михайлова", "en": "H. Yu. Mykhailova", "ru": "Г. Ю. Михайлова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Б. В. Ковальчук", "en": "B. V. Kovalchuk", "ru": "Б. В. Ковальчук"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "І. М. Сидорченко", "en": "I. M. Sydorchenko", "ru": "И. М. Сидорченко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. В. Анікєєв", "en": "V. V. Anikeev", "ru": "В. В. Аникеев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. Я. Шевченко", "en": "M. Ya. Shevchenko", "ru": "Н. А. Шевченко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. М. Порошин", "en": "V. M. Poroshyn", "ru": "В. Н. Порошин"},
+			"OID": [25]
+		},
+		{
+			"AID": {"ua": "Г. П. Приходько", "en": "G. P. Prykhodko", "ru": "Г. П. Приходько"},
+			"OID": [21]
+		}
+	],
+	"references": {
+		"count": 39,
+		"list":  [
+			{
+				"doi": "10.1103/PhysRevB.47.12727",
+				"or":  "L. D. Hicks and M. S. Dresselhaus, Phys. Rev. B, 47, No. 19: 12727 (1993).",
+				"tr":  "L. D. Hicks and M. S. Dresselhaus, Phys. Rev. B, 47, No. 19: 727 (1993)."
+			},
+			{
+				"doi": "10.1007/978-3-662-04569-5",
+				"or":  "G. S. Nolas, J. Sharp, and H. J. Goldsmid, Thermoelectrics: Basic Principles and New Materials Developments (New York: Springer-Verlag: 2001).",
+				"tr":  "G. S. Nolas, J. Sharp, and H. J. Goldsmid, Thermoelectrics: Basic Principles and New Materials Developments (New York: Springer-Verlag: 2001)."
+			},
+			{
+				"doi": "10.3367/UFNr.0180.201008b.0821",
+				"or":  "А. В. Дмитриев, И. П. Звягин, УФН, 180, № 8: 821 (2010).",
+				"tr":  "A. V. Dmitriev and I. P. Zvyagin, Uspekhi Fizicheskikh Nauk, 180, No. 8: 821 (2010) (in Russian)."
+			},
+			{
+				"doi": "10.1002/adma.201000839",
+				"or":  "C. J. Vineis, A. Shakouri, A. Majumdar, and M. G. Kanatzidis, Adv. Mater., 22: 3970 (2010).",
+				"tr":  "C. J. Vineis, A. Shakouri, A. Majumdar, and M. G. Kanatzidis, Adv. Mater., 22: 3970 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Снарский, А. К. Сарычев, И. В. Безсуднов, А. Н. Лагарьков, Физика и техника полупроводников, 46, вып. 5: 677 (2012).",
+				"tr":  "A. A. Snarskij, A. K. Sarychev, I. V. Bezsudnov, and A. N. Lagar'kov, Fizika i Tekhnika Poluprovodnikov, 46, Iss. 5: 677 (2012) (in Russian)."
+			},
+			{
+				"doi": "10.3367/UFNr.0172.200204b.0401",
+				"or":  "А. В. Елецкий, УФН, 172, № 4: 401 (2002).",
+				"tr":  "A. V. Eletskij, Uspekhi Fizicheskikh Nauk, 172, No. 4: 401 (2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. П. Булат, Д. А. Пшенай-Северин, ФТТ, 52, вып. 3: 452 (2010).",
+				"tr":  "L. P. Bulat and D. A. Pshenaj-Severin, Fizika Tverdogo Tela, 52, Iss. 3: 452 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Шевельков, Успехи химии, 77, № 1: 3 (2008).",
+				"tr":  "A. V. Shevel'kov, Uspekhi Khimii, 77, No. 1: 3 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. П. Булат, Л. В. Бочковa, И. А. Нефедовa, Р. Ахыска, Научно-технический вестник информационных технологий, механики и оптики, № 4: 48 (2014).",
+				"tr":  "L. P. Bulat, L. V. Bochkova, I. A. Nefedova, and R. Akhyska, Nauchno-Tekhnicheskiy Vestnik Informatsionnykh Tekhnologiy, Mekhaniki i Optiki, No. 4: 48 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.carbon.2004.12.004",
+				"or":  "H. Kajiura, A. Nandyala, and A. Bezryadin, Carbon, 43: 1317 (2005).",
+				"tr":  "H. Kajiura, A. Nandyala, and A. Bezryadin, Carbon, 43: 1317 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Азаренков, В. М. Береснев, А. Д. Погребняк, Наноматериалы, нанопокрытия, нанотехнологии: Учебное пособие (Харьков: ХНУ им. В. Н. Каразина: 2009).",
+				"tr":  "N. A. Azarenkov, V. M. Beresnev, and A. D. Pogrebnyak, Nanomaterialy, Nanopokrytiya, Nanotekhnologii: Uchebnoe Posobie (Kharkov: KhNU im. V. N. Karazina: 2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. С. Лобач, Н. Г. Спицына, С. В. Терехов, Е. Д. Образцова, ФTT, 44, вып. 3: 457 (2002).",
+				"tr":  "A. S. Lobach, N. G. Spitsyna, S. V. Terekhov, and E. D. Obraztsova, Fizika Tverdogo Tela, 44, Iss. 3: 457 (2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Н. Гневко, А. В. Окотруб, Л. Г. Булушуева, И. В. Юшина, ФТТ, 48, вып. 5: 947 (2006).",
+				"tr":  "P. N. Gnevko, A. V. Okotrub, L. G. Bulushueva, and I. V. Yushina, Fizika Tverdogo Tela, 48, Iss. 5: 947 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Ковальская, Н. Т. Картель, Г. П. Приходько, Ю. И. Семенцов, ХФТП, 3, № 1: 20 (2012).",
+				"tr":  "E. A. Koval'skaya, N. T. Kartel', G. P. Prikhod'ko, and Yu. I. Sementsov, Khimiya, Fizyka ta Tekhnologiya Poverkhni, 3, No. 1: 20 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. А. Усанов, А. В. Скрипаль, А. В. Романов, Журнал технической физики, 84, вып. 6: 86 (2014).",
+				"tr":  "D. A. Usanov, A. V. Skripal', and A. V. Romanov, Zhurnal Tekhnicheskoy Fiziki, 84, Iss. 6: 86 (2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. А. Браже, В. С. Нефёдов, ФТТ, 54, вып. 7: 1435 (2012).",
+				"tr":  "R. A. Brazhe and V. S. Nefyodov, Fizika Tverdogo Tela, 54, Iss. 7: 1435 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Мавринский, Е. М. Байтингер, Физика и техника полупроводников, 43, вып. 4: 501 (2009).",
+				"tr":  "A. V. Mavrinskiy and E. M. Baytinger, Fizika i Tekhnika Poluprovodnikov, 43, Iss. 4: 501 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Беленков, Ю. А. Зинатулина, Вестник Челябинского государственного университета, № 25: 32 (2005).",
+				"tr":  "E. A. Belenkov and Yu. A. Zinatulina, Vestnik Chelyabinskogo Gosudarstvennogo Universiteta, No. 25: 32 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Ю. Михайлова, М. М. Нищенко, И. М. Сидорченко, В. В. Аникеев, Б. В. Ковальчук, В. М. Лазоренко, В. Н. Пименов, Ю. Ф. Суская, В. И. Товтин, Д. Э. Азнакаева, В. Н. Порошин, Г. П. Приходько, Сборник научных трудов VI Международной научной конференции «Функциональная база наноэлектроники» (30 сентября–4 октября 2013, Алушта), с. 32.",
+				"tr":  "G. Yu. Mikhailova, M. M. Nishchenko, I. M. Sidorchenko, V. V. Anikeev, B. V. Kovalchuk, V. M. Lazorenko, V. N. Pimenov, Yu. F. Syskaya, V. I. Tovtin, D. E. Aznakaeva, V. N. Poroshin, and G. P. Prikhodko, Sbornik Nauchnykh Trudov VI Mezhdunarodnoy Nauchnoy Konferentsii 'Funktsional'naya Baza Nanoelektroniki' (30 September–4 October, 2013, Alushta), p. 32 (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.cplett.2004.09.024",
+				"or":  "Y. A. Kim, H. Muramatsu, T. Hayashi, M. Endo, M. Terrones, and M. S. Dresselhaus, Chem. Phys. Lett., 398, Nos. 1–3: 87 (2004).",
+				"tr":  "Y. A. Kim, H. Muramatsu, T. Hayashi, M. Endo, M. Terrones, and M. S. Dresselhaus, Chem. Phys. Lett., 398, Nos. 1–3: 87 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "М. М. Нищенко, Г. Ю. Михайлова, Е. И. Архипов, В. Ю. Кода, Г. П. Приходько, Ю. И. Семенцов, Наносистеми, наноматеріали, нанотехнології, 7, № 3: 717 (2009).",
+				"tr":  "M. M. Nyshchenko, G. Yu. Mikhaylova, E. I. Arkhipov, V. Yu. Koda, G. P. Prikhod'ko, and Yu. I. Sementsov, Nanosistemi, Nanomateriali, Nanotehnologii, 7, No. 3: 717 (2009) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0008-6223(03)00390-7",
+				"or":  "Y. Wang, J. Wu, and F. Wei, Carbon, 41, No. 15: 2939 (2003).",
+				"tr":  "Y. Wang, J. Wu, and F. Wei, Carbon, 41, No. 15: 2939 (2003)."
+			},
+			{
+				"doi": "10.1021/nl010037x",
+				"or":  "M. Yudasaka, H. Kataura, and T. Ichihashi, Nano Lett., 1, No. 9: 487 (2001).",
+				"tr":  "M. Yudasaka, H. Kataura, and T. Ichihashi, Nano Lett., 1, No. 9: 487 (2001)."
+			},
+			{
+				"doi": "10.1021/jp0672914",
+				"or":  "A. Koshio, M. Yudasaka, and S. Iijima, J. Phys. Chem. C, 111, No. 1: (2007).",
+				"tr":  "A. Koshio, M. Yudasaka, and S. Iijima, J. Phys. Chem. C, 111, No. 1: (2007)."
+			},
+			{
+				"doi": "10.1016/S0008-6223(03)00076-9",
+				"or":  "M. Yudasaka, T. Ichihashi, D. Kasuya, H. Kataura, and S. Iijima, Carbon, 41, No. 6: 487 (2003).",
+				"tr":  "M. Yudasaka, T. Ichihashi, D. Kasuya, H. Kataura, and S. Iijima, Carbon, 41, No. 6: 487 (2003)."
+			},
+			{
+				"doi": "10.1016/S0008-6223(00)00301-8",
+				"or":  "R. Andrews, D. Jacques, D. Qian, and E. C. Dickey, Carbon, 39: 1681 (2001).",
+				"tr":  "R. Andrews, D. Jacques, D. Qian, and E. C. Dickey, Carbon, 39: 1681 (2001)."
+			},
+			{
+				"doi": "10.1016/S0008-6223(03)00330-0",
+				"or":  "W. Huang, Ya. Wang, G. Luo, and F. Wei, Carbon, 41: 2585 (2003).",
+				"tr":  "W. Huang, Ya. Wang, G. Luo, and F. Wei, Carbon, 41: 2585 (2003)."
+			},
+			{
+				"doi": "10.1016/j.cplett.2003.09.027",
+				"or":  "Y. A. Kim, T. Hayashi, K. Osawa, M. S. Dresselhaus, and M. Endo, Chem. Phys. Lett., 380, No. 3: 319 (2003).",
+				"tr":  "Y. A. Kim, T. Hayashi, K. Osawa, M. S. Dresselhaus, and M. Endo, Chem. Phys. Lett., 380, No. 3: 319 (2003)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2012.03.021",
+				"or":  "I. Mazov, V. L. Kuznetsov, I. A. Simonova, A. I. Stadnichenko, A. V. Ishchenko, A. I. Romanenko, E. N. Tkachev, and O. B. Anikeeva, Appl. Surf. Sci., 258: 6272 (2012).",
+				"tr":  "I. Mazov, V. L. Kuznetsov, I. A. Simonova, A. I. Stadnichenko, A. V. Ishchenko, A. I. Romanenko, E. N. Tkachev, and O. B. Anikeeva, Appl. Surf. Sci., 258: 6272 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Анатычук, Термоэлементы и термоэлектрические устройства (Киев: Наукова думка: 1979).",
+				"tr":  "L. I. Anatychuk, Termoelementy i Termoelektricheskie Ustroystva (Kiev: Naukova Dumka: 1979) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0008-6223(03)00390-7",
+				"or":  "Y. Wang, J. Wu, and F. Wei, Carbon, 41, No. 15: 2939 (2003).",
+				"tr":  "Y. Wang, J. Wu, and F. Wei, Carbon, 41, No. 15: 2939 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Аникеев, Б. В. Ковальчук, В. М. Лазоренко, Г. Ю. Михайлова, М. М. Нищенко, В. Н. Пименов, Г. П. Приходько, С. И. О. Садыхов, В. И. Товтин, Перспективные материалы, № 11: 26 (2015).",
+				"tr":  "V. V. Anikeev,B. V. Kovalchuk, V. M. Lazorenko, G. Yu. Mikhailova, M. M. Nishchenko, V. N. Pimenov, G. P. Prikhod'ko, S. I. O. Sadykhov, and V. I. Tovtin, Perspektivnye Materialy, No. 11: 26 (2015) (in Russian)."
+			},
+			{
+				"doi": "10.1134/S2075113314020051",
+				"or":  "V. V. Anikeev, B. V. Kovalchuk, V. M. Lazorenko, G. Yu. Mikhailova, M. M. Nishchenko, V. N. Pimenov, I. M. Sidorchenko, Yu. F. Suskaya, and V. I. Tovtin, Inorganic Materials: Applied Research, 5, Iss. 2: 138 (2014).",
+				"tr":  "V. V. Anikeev, B. V. Kovalchuk, V. M. Lazorenko, G. Yu. Mikhailova, M. M. Nishchenko, V. N. Pimenov, I. M. Sidorchenko, Yu. F. Suskaya, and V. I. Tovtin, Inorganic Materials: Applied Research, 5, Iss. 2: 138 (2014)."
+			},
+			{
+				"doi": "10.1038/nature04233",
+				"or":  "K. S. Novoselov, A. K. Geim, S. V. Morozov, D. Jiang, M. I. Katsnelson, I. V. Grigorieva, S. V. Dubonos, and A. A. Firsov, Nature Letters, 438, No. 10: 197 (2005).",
+				"tr":  "K. S. Novoselov, A. K. Geim, S. V. Morozov, D. Jiang, M. I. Katsnelson, I. V. Grigorieva, S. V. Dubonos, and A. A. Firsov, Nature Letters, 438, No. 10: 197 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. Р. Блайт, Д. Блур, Электрические свойства полимеров (Москва: Физматлит: 2008) (пер. с англ.).",
+				"tr":  "A. R. Blythe and D. Bloor, Elektricheskie Svoystva Polimerov [Electrical Properties of Polymers] (Moscow: Fizmatlit: 2008) (Russian translation)."
+			},
+			{
+				"doi": "10.1063/1.4868528",
+				"or":  "A. V. Dolbin, V. B. Esel’son, V. G. Gavrilko, V. G. Manzhelii, N. A. Vinnikov, R. M. Basnukaeva, I. I. Yaskovets, I. Yu. Uvarova, and B. A. Danilchenko, Low Temp. Phys., 40: 246 (2014).",
+				"tr":  "A. V. Dolbin, V. B. Esel'son, V. G. Gavrilko, V. G. Manzhelii, N. A. Vinnikov, R. M. Basnukaeva, I. I. Yaskovets, I. Yu. Uvarova, and B. A. Danilchenko, Low Temp. Phys., 40: 246 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Аникеев, Б. В. Ковальчук, В. М. Лазоренко, Г. Ю. Михайлова, М. М. Нищенко, В. Н. Пименов, Г. П. Приходько, С. И. О. Садыхов, В. И. Товтин, Перспективные материалы, № 11: 48 (2015).",
+				"tr":  "L. I. Ivanov , V. M. Lazorenko, G. Yu. Mikhailova, M. M. Nishchenko, Yu. M. Platov, S. I. O. Sadykhov, and V. I. Tovtin, Perspektivnye Materialy, No. 1: 48 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Ельцов, Н. А. Водолазкая, Физическая и коллоидная химия: Учебное пособие (Харьков: Харьковский национальный университет им. В. Н. Каразина: 2005).",
+				"tr":  "S. V. El'tsov and N. A. Vodolazkaya, Fizicheskaya i Kolloidnaya Khimiya: Uchebnoe Posobie (Kharkov: Khar'kovskiy Natsional'nyy Universitet im. V. N. Karazina: 2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. М. Нищенко, Н. А. Шевченко, В. И. Патока, В. Л. Свечников, И. Е. Фоменко, Д. В. Щур, А. Г. Дубовой, VIII Международная конференция ICHMS (14–20 сентября 2003, Судак, Украина), с. 614.",
+				"tr":  "M. M. Nishchenko, N. A. Shevchenko, V. I. Patoka, V. L. Svechnikov, I. E. Fomenko, D. V. Schur, and A. G. Dubovoy, VIII International Conference ICHMS (14–20 September, 2003, Sudak, Ukraine), p. 614 (in Russian)."
+			}
+		]
+	}
+}

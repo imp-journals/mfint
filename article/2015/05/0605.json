@@ -1,0 +1,117 @@
+{
+	"_id":    "MFiNT.37.05.0605",
+	"year":   2015,
+	"volume": 37,
+	"issue":  5,
+	"pages":  [605,613],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["19.12.2014"],
+	"PACS":   "06.60.Vz, 61.80.Ba, 78.20.nd, 81.05.Bx, 81.20.Vj, 81.40.Tv",
+	"title":  {
+		"ua": "Аналіз еміссії оптичного випромінювання при газовому дуговому зварюванні металевим електродом",
+		"en": "Analysis of Optical Radiation Emissions During GMAW Applications",
+		"ru": "Анализ эмиссии оптического излучения при газовой дуговой сварке металлическим электродом"
+	},
+	"abstract": {
+		"ua": "В цій роботі вивчається газове дугове зварювання металевою електродою та випромінювання, що супроводжує цей процес. Для дослідження обрано три широко використовуваних у промисловості матеріяли: неіржавійна сталь типу SS304, низьковуглецева сталь А36 і алюміній Т6061. Зварювання виконувалося при 140 А; для кожного матеріялу визначалися тип і яскравість випромінення. В процесі зварювання при всіх параметрах найбільш часто спостерігалося ультрафіолетове випромінення; крім цього, реєструвалися також видиме світло й інфрачервоне випромінення в оптичному діяпазоні 200—1000 нм. Ясно виявився вплив електричних токів на швидкість зміни енергії фотонів. Довжини хвиль виявилися близькими для матеріялів SS304 і A36, але більші енергія фотонів та інтенсивність спостерігалися для SS304. Крім того, для алюмінію Т6061 оптичне випромінення і структура піків, які розташовані в усьому оптичному діяпазоні, повністю відрізняються від решти.",
+		"en": "The GMAW (Gas Metal Arc Welding) technique and its radiation emissions are examined in this study. Three commonly used materials in industry, SS304-type stainless steel, A36 low-carbon steel, and T6061 aluminium, are chosen for the tests. The welding is applied at 140 A, and radiation types and luminosities are evaluated for each material. During the welding processes, ultraviolet radiation was the most frequently observed at all parameters; in addition, visible light and infrared radiation, 200—1000 nm on an optical scale, are recorded. The effects of electric currents on the photon energy rates are clearly exhibited. The wavelengths are similar on the SS304 and A36 materials, but higher photon energy and intensity are observed on SS304. Furthermore, for the T6061 aluminium material, the optical radiation emission and peak patterns are totally different from the others, with peaks spiking over the entire range of the optical scale.",
+		"ru": "В данной работе изучается газовая дуговая сварка металлическим электродом и сопровождающее её излучение. Для исследования выбраны три широко используемые в промышленности материала: нержавеющая сталь типа SS304, низкоуглеродистая сталь А36 и алюминий Т6061. Сварка производилась при 140 А; для каждого материала определялись тип и яркость излучения. В процессе сварки при всех параметрах наиболее часто наблюдалось ультрафиолетовое излучение; кроме того, регистрировались также видимый свет и инфракрасное излучение в оптическом диапазоне 200—1000 нм. Ясно проявилось влияние электрических токов на скорость изменения энергии фотонов. Длины волн оказались близкими для материалов SS304 и A36, но большая энергия фотонов и интенсивность наблюдались для SS304. Кроме того, для алюминия Т6061 оптическое излучение и структура пиков, расположенных во всём оптическом диапазоне, полностью отличаются от остальных."
+	},
+	"keywords": {
+		"ua": "дугове зварювання, GMAW (дугове зварювання в захисних газах), випромінювання при зварюванні",
+		"en": "arc welding, GMAW (Gas Metal Arc Welding), welding radiation",
+		"ru": "дуговая сварка, GMAW (дуговая сварка в защитных газах), излучение при сварке"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. Гурсел", "en": "A. Gursel", "ru": "А. Гурсел"},
+			"OID": [411]
+		},
+		{
+			"AID": {"ua": "А. Курт", "en": "A. Kurt", "ru": "А. Курт"},
+			"OID": [416]
+		}
+	],
+	"references": {
+		"count": 15,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "AWS—American Welding Society (AWS), Safety and Health Fact Sheet, No. 2: 1 (2013).",
+				"tr":  "AWS—American Welding Society (AWS), Safety and Health Fact Sheet, No. 2: 1 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Gursel and A. Kurt, Elektrik Ark Kaynaklarında Ortaya Çíkan Ultraviyole Radyasyon Değerlerinin İnsan ve Çevre Sağlíğí Üzerindeki Etkileri, 1. Uluslararasí Kaynak Teknolojileri Konferansí (Ankara: 2009).",
+				"tr":  "A. Gursel and A. Kurt, Elektrik Ark Kaynaklarında Ortaya Çíkan Ultraviyole Radyasyon Değerlerinin İnsan ve Çevre Sağlíğí Üzerindeki Etkileri, 1. Uluslararasí Kaynak Teknolojileri Konferansí (Ankara: 2009)."
+			},
+			{
+				"doi": "10.1515/REVEH.1998.13.3.131",
+				"or":  "T. D. Tenkate, Optical Radiation Hazards of Welding Arcs. Reviews on Environmental Health, 13, No. 3: 131 (1998).",
+				"tr":  "T. D. Tenkate, Optical Radiation Hazards of Welding Arcs. Reviews on Environmental Health, 13, No. 3: 131 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "P. J. Li and Y. M. Zhang, AWS-Welding Journal. Welding Research Supplement, 252 (2000).",
+				"tr":  "P. J. Li and Y. M. Zhang, AWS-Welding Journal. Welding Research Supplement, 252 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "ESH & Q, Assessment of and Protection from Welding Arc Radiant Hazards, Jefferson Lab. Manual, Rev., 8.7-7 (2006).",
+				"tr":  "ESH & Q, Assessment of and Protection from Welding Arc Radiant Hazards, Jefferson Lab. Manual, Rev., 8.7-7 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "M. H. Repacholi, Introduction to Non-Ionizing Radiations. ICNIRP Third International Non-Ionizing Radiation Workshop (Beden, Austria: 1996), p. 3.",
+				"tr":  "M. H. Repacholi, Introduction to Non-Ionizing Radiations. ICNIRP Third International Non-Ionizing Radiation Workshop (Beden, Austria: 1996), p. 3."
+			},
+			{
+				"doi": "",
+				"or":  "A. J. Dixon and B. F. Dixon, The Medical Journal of Australia, 181, No. 3: 155 (2004).",
+				"tr":  "A. J. Dixon and B. F. Dixon, The Medical Journal of Australia, 181, No. 3: 155 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "NTP, Report on Carcinogens, Twelfth Edition 2011. U.S. National Toxicology Program, 1-5 (2011).",
+				"tr":  "NTP, Report on Carcinogens, Twelfth Edition 2011. U.S. National Toxicology Program, 1-5 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Cieminis, V. Ranceliene, K. Slekyte, and N. Tiunaitiene, Biologia, No. 1 (2001); ISNN 1392-0146.",
+				"tr":  "K. Cieminis, V. Ranceliene, K. Slekyte, and N. Tiunaitiene, Biologia, No. 1 (2001); ISNN 1392-0146."
+			},
+			{
+				"doi": "",
+				"or":  "CCOHS, Radiation and the Effects on Eyes and Skin. CCOHS—Canadian Centre for Occupational Health and Safety (2001).",
+				"tr":  "CCOHS, Radiation and the Effects on Eyes and Skin. CCOHS—Canadian Centre for Occupational Health and Safety (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "IARC, Monographs on the Evaluation of Carcinogenic Risk to Humans, Chromium, Nickel and Welding, 1990. World Health Organization—International Agency for Research on Cancer (Lyon, France: 1990), vol. 49.",
+				"tr":  "IARC, Monographs on the Evaluation of Carcinogenic Risk to Humans, Chromium, Nickel and Welding, 1990. World Health Organization—International Agency for Research on Cancer (Lyon, France: 1990), vol. 49."
+			},
+			{
+				"doi": "",
+				"or":  "T. L. Lyon, Welding Journal, 2, No. 12: 28 (2002).",
+				"tr":  "T. L. Lyon, Welding Journal, 2, No. 12: 28 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "IFA, Emission of UV Radiation During Arc Welding, 2011. Institut für Arbeitsschutz der Deutschen Gesetzlichen Unfallversicherung (2011).",
+				"tr":  "IFA, Emission of UV Radiation During Arc Welding, 2011. Institut für Arbeitsschutz der Deutschen Gesetzlichen Unfallversicherung (2011)."
+			},
+			{
+				"doi": "10.3139/120.110630",
+				"or":  "A. Gursel and A. Kurt, Materials Testing, 56, No. 10: 826 (2014).",
+				"tr":  "A. Gursel and A. Kurt, Materials Testing, 56, No. 10: 826 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "American Welding Society (AWS), Safety and Health Fact Sheet, No. 26: 29 (2004).",
+				"tr":  "American Welding Society (AWS), Safety and Health Fact Sheet, No. 26: 29 (2004)."
+			}
+		]
+	}
+}

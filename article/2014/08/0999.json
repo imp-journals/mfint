@@ -1,0 +1,90 @@
+{
+	"_id":    "MFiNT.36.08.0999",
+	"year":   2014,
+	"volume": 36,
+	"issue":  8,
+	"pages":  [999,1006],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["28.11.2013"],
+	"PACS":   "73.23.-b, 73.40.Gk, 73.40.Ns, 74.50.+r, 74.70.Ad, 85.25.Am, 85.25.Cp",
+	"title":   {
+		"ua": "Надлишковий квазічастинковий струм у джозефсонівських гетероструктурах надпровідник—допований напівпровідник—надпровідник MoRe—Si (W)—MoRe",
+		"en": "Excess Quasi-Particle Current in Josephson Superconductor—Doped Semiconductor—Superconductor Heterostructures MoRe—Si (W)—MoRe",
+		"ru": "Избыточный квазичастичный ток в джозефсоновских гетероструктурах сверхпроводник—допированный полупроводник—сверхпроводник MoRe—Si (W)—MoRe"
+	},
+	"abstract": {
+		"ua": "У роботі досліджено вольт-амперні характеристики гетеропереходів MoRe—Si (W)—MoRe; при цьому товщина та концентрація допанту напівпровідникового бар’єру Si (W) виготовлених гетероструктур змінювалися в широкому діяпазоні значень. Було встановлено, що за відносно високих концентрацій (5—9 ат.%) вольфраму в кремнійовому бар’єрі спостерігається резонансний тунельний ефект через локалізовані рівні вольфрамових кластерів. Одночасно за певних умов у таких переходах виникає Джозефсонів надпровідний струм, обумовлений багаторазовими Андрєєвськими відбиваннями Боголюбових квазичастинок (квазиелектронів та квазидірок). Експериментально спостережуваний великий надлишковий струм квазичастинок крізь переходи свідчить про наявність істотного за величиною внеску в транспорт заряду від Андрєєвських відбивань на двох $S/N$-інтерфейсах досліджуваних Джозефсонових гетероструктур.",
+		"en": "Current—voltage characteristics of fabricated MoRe—Si(W)—MoRe heterojunctions are investigated in a wide range of changes in the parameters (such as thickness and dopant concentration) of the semiconductor Si (W) barriers. As found, at relatively high concentrations (5—9 at.%) of tungsten in the silicon barriers, a resonant tunnelling effect occurs through the localized levels of tungsten clusters. Simultaneously, under certain conditions, a superconducting Josephson current appears through such junctions and is conditioned by the multiple Andreev reflections of the Bogolyubov quasi-particles (quasi-electrons and quasi-holes) within them. The experimentally observed high quasi-particle excess current through the junctions indicates that there is a significant contribution of the Andreev reflections by the two $S/N$ interfaces into the charge transport through the studied Josephson heterostructures.",
+		"ru": "В работе исследованы вольт-амперные характеристики гетеропереходов вида MoRe—Si (W)—MoRe; при этом толщина и концентрация допанта полупроводникового барьера Si (W) изготовленных гетероструктур изменялись в широком диапазоне значений. Было установлено, что при относительно высоких концентрациях (5—9 ат.%) вольфрама в кремниевом барьере наблюдается резонансный туннельный эффект через локализованные уровни вольфрамовых кластеров. Одновременно при определённых условиях в таких переходах появляется сверхпроводящий ток Джозефсона, обусловленный многократными андреевскими отражениями боголюбовских квазичастиц (квазиэлектронов и квазидырок). Экспериментально наблюдаемый большой избыточный ток квазичастиц через переходы свидетельствует о существенном по величине вкладе в транспорт заряда от андреевских отражений на двух $S/N$-интерфейсах исследуемых джозефсоновских гетероструктур."
+	},
+	"keywords": {
+		"ua": "Джозефсонів струм, резонансний тунельний ефект, Андрєєвське відбивання, надлишковий струм квазичастинок",
+		"en": "Josephson current, resonant tunnelling effect, Andreev reflection, high quasi-particle excess current",
+		"ru": "джозефсоновский ток, резонансный туннельный эффект, андреевское отражение, избыточный квазичастичный ток"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Є. Шатернік", "en": "V. Eh. Shaternik", "ru": "В. Е. Шатерник"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. А. Бєлоголовський", "en": "M. A. Belogolovskii", "ru": "М. А. Белоголовский"},
+			"OID": [8]
+		},
+		{
+			"AID": {"ua": "А. П. Шаповалов", "en": "A. P. Shapovalov", "ru": "А. П. Шаповалов"},
+			"OID": [12]
+		},
+		{
+			"AID": {"ua": "А. Ю. Суворов", "en": "A. Yu. Suvorov", "ru": "А. Ю. Суворов"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 8,
+		"list":  [
+			{
+				"doi": "10.1063/1.93974",
+				"or":  "M. Gurvitch, M. A. Washington, and H. A. Huggins, Appl. Phys. Lett., 42, Iss. 5: 472 (1983).",
+				"tr":  "M. Gurvitch, M. A. Washington, and H. A. Huggins, Appl. Phys. Lett., 42, Iss. 5: 472 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Tinkham, Introduction to Superconductivity. 2nd Ed. (Mineola, NY: Dover Publications: 1996).",
+				"tr":  "M. Tinkham, Introduction to Superconductivity. 2nd Ed. (Mineola, NY: Dover Publications: 1996)."
+			},
+			{
+				"doi": "10.1063/1.122064",
+				"or":  "H. Schulze, R. Behr, F. Müller, and J. Niemeyer, Appl. Phys. Lett., 73: 996 (1998).",
+				"tr":  "H. Schulze, R. Behr, F. Müller, and J. Niemeyer, Appl. Phys. Lett., 73: 996 (1998)."
+			},
+			{
+				"doi": "10.1109/77.80745",
+				"or":  "K. K. Likharev and V. K. Semenov, IEEE Trans. Appl. Supercond., 1, Iss. 1: 3 (1991).",
+				"tr":  "K. K. Likharev and V. K. Semenov, IEEE Trans. Appl. Supercond., 1, Iss. 1: 3 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "A. P. Shapovalov, Metallofiz. Noveishie Tekhnol., 35, No. 8: 1021 (2013) (in Russian).",
+				"tr":  "A. P. Shapovalov, Metallofiz. Noveishie Tekhnol., 35, No. 8: 1021 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Shaternik, A. Shapovalov, A. Suvorov, S. Doring, S. Schmidt, and P. Seidel, Proc. of 8th Int’l Kharkov Symp. on Physics and Engineering of Microwaves, Millimeter and Submillimeter Waves—‘MSMW 2013’ (June 23–28, 2013, Kharkov, Ukraine), p. 655.",
+				"tr":  "V. Shaternik, A. Shapovalov, A. Suvorov, S. Doring, S. Schmidt, and P. Seidel, Proc. of 8th Int'l Kharkov Symp. on Physics and Engineering of Microwaves, Millimeter and Submillimeter Waves—'MSMW 2013' (June 23–28, 2013, Kharkov, Ukraine), p. 655."
+			},
+			{
+				"doi": "10.1103/PhysRevB.25.4515",
+				"or":  "G. E. Blonder, M. Tinkham, and T. M. Klapwijk, Phys. Rev. B, 25, No. 7: 4515 (1982).",
+				"tr":  "G. E. Blonder, M. Tinkham, and T. M. Klapwijk, Phys. Rev. B, 25, No. 7: 4515 (1982)."
+			},
+			{
+				"doi": "10.1142/S0217979209062906",
+				"or":  "V. E. Shaternik, S. Yu. Larkin, and M. A. Belogolovskii, Int. J. Mod. Phys. B, 23, No. 17: 3520 (2009).",
+				"tr":  "V. E. Shaternik, S. Yu. Larkin, and M. A. Belogolovskii, Int. J. Mod. Phys. B, 23, No. 17: 3520 (2009)."
+			}
+		]
+	}
+}

@@ -1,0 +1,110 @@
+{
+	"_id":    "MFiNT.40.02.0147",
+	"year":   2018,
+	"volume": 40,
+	"issue":  2,
+	"pages":  [147,154],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["15.08.2017","10.01.2018"],
+	"PACS":   "72.15.Jf, 72.20.Pa, 73.21.Fg, 73.50.Jt, 73.50.Lw, 73.63.Hs, 85.80.-b",
+	"title":   {
+		"ua": "Недисипативні струми в квантовій плівці в зовнішньому магнітному полі",
+		"en": "Non-Dissipative Currents in a Quantum Film in an External Magnetic Field",
+		"ru": "Недиссипативные токи в квантовой плёнке во внешнем магнитном поле"
+	},
+	"abstract": {
+		"ua": "Наведено результати розрахунку густини недисипативних струмів провідности у квантовій плівці у зовнішньому магнетному полі. На основі рівняння руху для матриці густини знайдено недіягональні компоненти гальваномагнетних і термомагнетних тензорів, які уможливлюють обчислювати кінетичні коефіцієнти для квантових плівок. Одержано відомий універсальний вираз для термоерс у квантувальному магнетному полі через ентропію одиниці об’єму газу вільних носіїв заряду.",
+		"en": "Results of the calculation of a non-dissipative conduction-current density in a quantum film in an external magnetic field are presented. Based on the motion equation for the density matrix, nondiagonal components of the galvanomagnetic and thermomagnetic tensors are found that allows calculating kinetic coefficients for quantum films. A well-known universal expression for thermopower in a quantizing magnetic field is obtained using the unit-volume entropy for a gas of free charge carriers.",
+		"ru": "Приведены результаты расчёта плотности недиссипативных токов проводимости в квантовой плёнке во внешнем магнитном поле. На основе уравнения движения для матрицы плотности найдены недиагональные компоненты гальваномагнитных и термомагнитных тензоров, которые позволяют вычислять кинетические коэффициенты для квантовых плёнок. Получено известное универсальное выражение для термоэдс в квантующем магнитном поле через энтропию единицы объёма газа свободных носителей заряда."
+	},
+	"keywords": {
+		"ua": "зовнішнє магнетне поле, термоерс, тонка плівка, густина струму",
+		"en": "external magnetic field, thermopower, thin film, current density",
+		"ru": "внешнее магнитное поле, термоэдс, тонкая плёнка, плотность тока"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. І. Аббасов", "en": "I. I. Abbasov", "ru": "И. И. Аббасов"},
+			"OID": [531]
+		},
+		{
+			"AID": {"ua": "Х. А. Гасанов", "en": "Kh. A. Hasanov", "ru": "Х. А. Гасанов"},
+			"OID": [532]
+		},
+		{
+			"AID": {"ua": "Дж. І. Гусейнов", "en": "J. I. Huseynov", "ru": "Дж. И. Гусейнов"},
+			"OID": [532]
+		},
+		{
+			"AID": {"ua": "А. О. Дашдемиров", "en": "A. O. Dashdemirov", "ru": "А. О. Дашдемиров"},
+			"OID": [532]
+		}
+	],
+	"references": {
+		"count": 12,
+		"list":  [
+			{
+				"doi": "10.1146/annurev.matsci.34.040203.111535",
+				"or":  "P. Bhattacharya, S. Ghosh, and A. D. Stiff-Roberts, Ann. Rev. Mater. Res., 34: 1 (2004).",
+				"tr":  "P. Bhattacharya, S. Ghosh, and A. D. Stiff-Roberts, Ann. Rev. Mater. Res., 34: 1 (2004)."
+			},
+			{
+				"doi": "10.1039/b609548h",
+				"or":  "L. Basabe-Desmonts, D. N. Reinhoudt, and M. Crego-Calama, Chem. Soc. Rev., 36: 993 (2007).",
+				"tr":  "L. Basabe-Desmonts, D. N. Reinhoudt, and M. Crego-Calama, Chem. Soc. Rev., 36: 993 (2007)."
+			},
+			{
+				"doi": "10.1016/j.surfrep.2007.02.001",
+				"or":  "S. J. Rosenthal, J. McBride, S. J. Pennycook, and L. C. Feldman, Surf. Sci. Rep., 62, No. 4: 111 (2007).",
+				"tr":  "S. J. Rosenthal, J. McBride, S. J. Pennycook, and L. C. Feldman, Surf. Sci. Rep., 62, No. 4: 111 (2007)."
+			},
+			{
+				"doi": "10.2217/17435889.1.2.209",
+				"or":  "M. N. Rhyner, A. M. Smith, X. Gao, H. Mao, L. Yang, and S. Nie, Nanomedicine, 1: 209 (2006).",
+				"tr":  "M. N. Rhyner, A. M. Smith, X. Gao, H. Mao, L. Yang, and S. Nie, Nanomedicine, 1: 209 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. Андо, А. Фаулер, Ф. Стерн, Электронные свойства двумерных систем (Москва: Мир: 1985).",
+				"tr":  "T. Ando, A. Fauler, and F. Stern, Elektronnye Svoystva Dvumernykh Sistem (Moscow: Mir: 1985) (Russian translation)."
+			},
+			{
+				"doi": "10.3367/UFNr.0096.196809d.0061",
+				"or":  "Б. А. Тавгер, В. Я. Демиховский, УФН, 96: 61 (1968).",
+				"tr":  "B. A. Tavger and V. Ya. Demikhovskii, Uspekhi Fizicheskikh Nauk, 96: 61 (1968) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Д. Блох, ФТТ, 17: 896 (1975).",
+				"tr":  "M. D. Blokh, Fizika Tverdogo Tela, 17: 896 (1975) (in Russian)."
+			},
+			{
+				"doi": "10.1038/npjquantmats.2016.28",
+				"or":  "J. Mao, Z. Liu, and Z. Ren, Quantum Materials, 1: 16028 (2016).",
+				"tr":  "J. Mao, Z. Liu, and Z. Ren, Quantum Materials, 1: 16028 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Д. Ландау, Е. М. Лифшиц, Электродинамика сплошных сред (Москва: Наука: 1982).",
+				"tr":  "L. D. Landau and E. M. Lifshitz, Elektrodinamika Sploshnykh Sred (Moscow: Nauka: 1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. М. Aскеров, Кинетические эффекты в полупроводниках (Ленинград: Наука: 1970).",
+				"tr":  "B. M. Askerov, Kineticheskie Effekty v Poluprovodnikakh (Leningrad: Nauka: 1970) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. П. Синявский, Р. А. Хамидуллин, ФТП, 40, вып. 11: 1368 (2006).",
+				"tr":  "E. P. Sinyavskii and R. A. Khamidullin, Fizika i Tekhnika Poluprovodnikov, 40, Iss. 11: 1368 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Образцов, ФТТ, 7, № 2: 573 (1965).",
+				"tr":  "Yu. N. Obraztsov, Fizika Tverdogo Tela, 7, No. 2: 573 (1965) (in Russian)."
+			}
+		]
+	}
+}

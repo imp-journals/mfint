@@ -1,0 +1,186 @@
+{
+	"_id":    "MFiNT.40.07.0955",
+	"year":   2018,
+	"volume": 40,
+	"issue":  7,
+	"pages":  [955,965],
+	"rubric": 18,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["16.04.2018"],
+	"PACS":   "43.20.Rz, 46.55.+d, 68.08.-p, 68.35.Np, 81.05.Mh, 83.50.Lh",
+	"title":   {
+		"ua": "Акустичне дослідження адгезії в поверхнях поділу рідкий метал–кераміка",
+		"en": "Acoustical Investigation of Adhesion in Liquid Metal–Ceramic Interfaces",
+		"ru": "Акустическое исследование адгезии в поверхностях раздела жидкий металл–керамика"
+	},
+	"abstract": {
+		"ua": "У статті коротко оглядаються й аналізуються результати акустичного дослідження адгезії в метал-керамічних інтерфейсах на основі визначення танґенса кута нахилу лінійної кореляції між роботою адгезії для різних систем рідкий метал–кераміка та швидкістю поширення поверхневої акустичної хвилі у відповідних металах. Розглядається залежність значень танґенса кута нахилу роботи адгезії для деяких керамічних матеріялів від акустичних імпедансів відповідних керамік. Одержані результати уможливлюють інтерпретувати характер поширення хвиль у цих інтерфейсах, відповідно до наявности та величини міжповерхневого зчеплення.",
+		"en": "In this paper, we briefly review and analyse results of an acoustical investigation of adhesion in metal–ceramic interfaces based on the determination of the slope parameter, which is defined by the linear correlation between the work of adhesion of various liquid metal–ceramic systems and the sound propagation velocity of plate acoustical wave in the corresponding metals. The dependence of values of the work of adhesion slope parameter for several ceramic materials on the acoustic impedances of the corresponding ceramics is examined. The obtained results permit the interpretation of the wave propagation nature in these interfaces according to the existence and the excess of the interfacial bonding.",
+		"ru": "В статье сделаны краткий обзор и анализ результатов акустического исследования адгезии в металл-керамических интерфейсах на основе определения тангенса угла наклона линейной корреляции между работой адгезии для различных систем жидкий металл–керамика и скоростью распространения поверхностной акустической волны в соответствующих металлах. Рассматривается зависимость значений тангенса угла наклона работы адгезии для некоторых керамических материалов от акустических импедансов соответствующих керамик. Полученные результаты позволяют интерпретировать характер распространения волн в этих интерфейсах в соответствии с наличием и величиной межповерхностного сцепления."
+	},
+	"keywords": {
+		"ua": "поверхня поділу, адгезія, швидкість звуку, кераміка, рідкий метал",
+		"en": "interface, adhesion, sound velocity, ceramics, liquid metal",
+		"ru": "поверхность раздела, адгезия, скорость звука, керамика, жидкий металл"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Закарія Адеф", "en": "Zakaria Hadef", "ru": "Закария Адеф"},
+			"OID": [520]
+		},
+		{
+			"AID": {"ua": "Абдельазиз Догман", "en": "Abdellaziz Doghmane", "ru": "Абдельазиз Догман"},
+			"OID": [520]
+		},
+		{
+			"AID": {"ua": "Кенза Кемлі", "en": "Kenza Kamli", "ru": "Кенза Кэмли"},
+			"OID": [520]
+		}
+	],
+	"references": {
+		"count": 28,
+		"list":  [
+			{
+				"doi": "10.3390/met4030410",
+				"or":  "W. Wunderlich, Metals, 4, No. 3: 410 (2014).",
+				"tr":  "W. Wunderlich, Metals, 4, No. 3: 410 (2014)."
+			},
+			{
+				"doi": "10.1016/0167-577X(92)90047-N",
+				"or":  "J. G. Li and H. Hausner, Mat. Let., 14, Nos. 5–6: 329 (1992).",
+				"tr":  "J. G. Li and H. Hausner, Mat. Let., 14, Nos. 5–6: 329 (1992)."
+			},
+			{
+				"doi": "10.1016/j.commatsci.2013.04.028",
+				"or":  "P. Seiler, M. Baker, and J. Roesler, J. Comput. Mater. Sci., 80: 27 (2013).",
+				"tr":  "P. Seiler, M. Baker, and J. Roesler, J. Comput. Mater. Sci., 80: 27 (2013)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2014.01.049",
+				"or":  "P. H. Mayrhofer, D. Sonnleitner, M. Bartosik, and D. Holec, Surf. Coat. Technol., 244: 52 (2014).",
+				"tr":  "P. H. Mayrhofer, D. Sonnleitner, M. Bartosik, and D. Holec, Surf. Coat. Technol., 244: 52 (2014)."
+			},
+			{
+				"doi": "10.1088/0022-3727/46/26/264007",
+				"or":  "N. J. Ekins-Daukes, K.-H. Lee, L. Hirst, A. Chan, M. Führer, J. Adams, B. Browne, K. W. J. Barnham, P. Stavrinou, and J. Connolly, J. Phys. D: Appl. Phys., 46: 264007 (2013).",
+				"tr":  "N. J. Ekins-Daukes, K.-H. Lee, L. Hirst, A. Chan, M. Führer, J. Adams, B. Browne, K. W. J. Barnham, P. Stavrinou, and J. Connolly, J. Phys. D: Appl. Phys., 46: 264007 (2013)."
+			},
+			{
+				"doi": "10.1002/adem.201300174",
+				"or":  "Y. Imanaka, H. Amada, F. Kumasaka, N. Takahashi, T. Yamasaki, M. Ohfuchi, and C. Kaneta, Adv. Eng. Mater., 15, No. 11: 1129 (2013).",
+				"tr":  "Y. Imanaka, H. Amada, F. Kumasaka, N. Takahashi, T. Yamasaki, M. Ohfuchi, and C. Kaneta, Adv. Eng. Mater., 15, No. 11: 1129 (2013)."
+			},
+			{
+				"doi": "10.1051/epjap:1999107",
+				"or":  "D. Imhoff, S. Laurent, C. Colliex, and M. Backhaus-Ricoult, Eur. Phys. J. Appl. Phys., 5: 9 (1999).",
+				"tr":  "D. Imhoff, S. Laurent, C. Colliex, and M. Backhaus-Ricoult, Eur. Phys. J. Appl. Phys., 5: 9 (1999)."
+			},
+			{
+				"doi": "10.1080/01418619908210410",
+				"or":  "H. B. Groen, B. J. Kooi, W. P. Vellinga, and J. Th. M. De Hosson, Philos. Mag. A, 79, No. 9: 2083 (1999).",
+				"tr":  "H. B. Groen, B. J. Kooi, W. P. Vellinga, and J. Th. M. De Hosson, Philos. Mag. A, 79, No. 9: 2083 (1999)."
+			},
+			{
+				"doi": "10.1002/sia.1091",
+				"or":  "J. Th. M. De Hosson and B. J. Kooi, Surf. Interf. Anal., 31, No. 7: 637 (2001).",
+				"tr":  "J. Th. M. De Hosson and B. J. Kooi, Surf. Interf. Anal., 31, No. 7: 637 (2001)."
+			},
+			{
+				"doi": "10.1016/j.susc.2004.05.033",
+				"or":  "Y. F. Zhukovskii, E. A. Kotomin, D. Fuks, and S. Dorfman, Surf. Sci., 566–568, Part 1: 122 (2004).",
+				"tr":  "Y. F. Zhukovskii, E. A. Kotomin, D. Fuks, and S. Dorfman, Surf. Sci., 566–568, Part 1: 122 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.77.165435",
+				"or":  "D. Matsunaka and Y. Shibutani, Phys. Rev. B, 77, No. 16: 165435-1–6 (2008).",
+				"tr":  "D. Matsunaka and Y. Shibutani, Phys. Rev. B, 77, No. 16: 165435-1–6 (2008)."
+			},
+			{
+				"doi": "10.1038/srep11460",
+				"or":  "Z. Zhang, Y. Long, S. Cazottes, R. Daniel, C. Mitterer, and G. Dehm, Sci. Reports, 5: 11460 (2015).",
+				"tr":  "Z. Zhang, Y. Long, S. Cazottes, R. Daniel, C. Mitterer, and G. Dehm, Sci. Reports, 5: 11460 (2015)."
+			},
+			{
+				"doi": "10.1016/j.matlet.2007.01.049",
+				"or":  "A. Kar, S. P. Sagar, and A. K. Ray, Mat. Lett., 61, Nos. 19–20: 4169 (2007).",
+				"tr":  "A. Kar, S. P. Sagar, and A. K. Ray, Mat. Lett., 61, Nos. 19–20: 4169 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Briggs, Acoustic Microscopy (Oxford: Clarendon Press: 1992; New York: Oxford University Press: 1992).",
+				"tr":  "A. Briggs, Acoustic Microscopy (Oxford: Clarendon Press: 1992; New York: Oxford University Press: 1992)."
+			},
+			{
+				"doi": "10.1016/S0169-4332(97)00597-7",
+				"or":  "B. Cros, M. F. Vallat, and G. Despaux, Appl. Surf. Sci., 126, Nos. 1–2: 159 (1998).",
+				"tr":  "B. Cros, M. F. Vallat, and G. Despaux, Appl. Surf. Sci., 126, Nos. 1–2: 159 (1998)."
+			},
+			{
+				"doi": "10.1007/s10853-015-9536-5",
+				"or":  "G. Triantafyllou and J. T. S. Irvine, J. Mater Sci., 51, No. 4: 1766 (2016).",
+				"tr":  "G. Triantafyllou and J. T. S. Irvine, J. Mater Sci., 51, No. 4: 1766 (2016)."
+			},
+			{
+				"doi": "10.1016/B978-0-12-571814-1.50011-7",
+				"or":  "Y. V. Naidich, Prog. Surf. Membr. Sci., 14: 353 (1981).",
+				"tr":  "Y. V. Naidich, Prog. Surf. Membr. Sci., 14: 353 (1981)."
+			},
+			{
+				"doi": "10.1016/j.matlet.2006.05.080",
+				"or":  "M. Doghmane, F. Hadjoub, A. Doghmane, and Z. Hadjoub, Mat. Lett., 61, No. 3: 813 (2007).",
+				"tr":  "M. Doghmane, F. Hadjoub, A. Doghmane, and Z. Hadjoub, Mat. Lett., 61, No. 3: 813 (2007)."
+			},
+			{
+				"doi": "10.1007/BF01328834",
+				"or":  "N. Y. Taranets and Y. V. Naidich, Powder Metall. Metal Ceram., 35, Nos. 5–6: 282 (1996).",
+				"tr":  "N. Y. Taranets and Y. V. Naidich, Powder Metall. Metal Ceram., 35, Nos. 5–6: 282 (1996)."
+			},
+			{
+				"doi": "10.1007/BF00729089",
+				"or":  "J. G. Li, J. Mat. Sci. Lett., 11, No. 13: 903 (1992).",
+				"tr":  "J. G. Li, J. Mat. Sci. Lett., 11, No. 13: 903 (1992)."
+			},
+			{
+				"doi": "10.1051/rphysap:019880023060105500",
+				"or":  "D. Chatain, L. Coudurier, and N. Eustathopoulos, Rev. Phys. Appl. (Paris), 23, No. 6: 1055 (1988).",
+				"tr":  "D. Chatain, L. Coudurier, and N. Eustathopoulos, Rev. Phys. Appl. (Paris), 23, No. 6: 1055 (1988)."
+			},
+			{
+				"doi": "10.1016/j.surfrep.2006.03.002",
+				"or":  "M. C. Munoz, S. Gallego, J. I. Beltran, and J. Cerda, Surf. Sci. Reports, 61: 303 (2006).",
+				"tr":  "M. C. Munoz, S. Gallego, J. I. Beltran, and J. Cerda, Surf. Sci. Reports, 61: 303 (2006)."
+			},
+			{
+				"doi": "10.1111/j.1151-2916.1992.tb04396.x",
+				"or":  "J. G. Li, J. Am. Ceram. Sot., 75, No. 11: 3118 (1992).",
+				"tr":  "J. G. Li, J. Am. Ceram. Sot., 75, No. 11: 3118 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "J. G. Li, Understanding of Wetting, Adhesion and Interfacial Bonding of Metals with Ceramic Oxides, Designing Ceramic Interfaces II. Understanding and Tailoring Interfaces for Coating, Composite Joining Applications (Ed. S. D. Peteves) (Luxemburg: Commission of the European Communities: 1993), p. 481.",
+				"tr":  "J. G. Li, Understanding of Wetting, Adhesion and Interfacial Bonding of Metals with Ceramic Oxides, Designing Ceramic Interfaces II. Understanding and Tailoring Interfaces for Coating, Composite Joining Applications (Ed. S. D. Peteves) (Luxemburg: Commission of the European Communities: 1993), p. 481."
+			},
+			{
+				"doi": "10.1007/BF00357807",
+				"or":  "D. Sotiropoulou and P. Nikolopoulos, J. Mater. Sci., 28, No. 2: 356 (1993).",
+				"tr":  "D. Sotiropoulou and P. Nikolopoulos, J. Mater. Sci., 28, No. 2: 356 (1993)."
+			},
+			{
+				"doi": "10.1016/0167-577X(94)00244-4",
+				"or":  "J. G. Li, Mat. Let., 22, Nos. 3–4: 169 (1995).",
+				"tr":  "J. G. Li, Mat. Let., 22, Nos. 3–4: 169 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Blairs, Acta Acust. United Ac., 92, No. 3: 490 (2006).",
+				"tr":  "S. Blairs, Acta Acust. United Ac., 92, No. 3: 490 (2006)."
+			},
+			{
+				"doi": "10.1179/imr.1993.38.4.157",
+				"or":  "B. J. Keene, Mat. Rev., 38, No. 4: 157 (1993).",
+				"tr":  "B. J. Keene, Mat. Rev., 38, No. 4: 157 (1993)."
+			}
+		]
+	}
+}

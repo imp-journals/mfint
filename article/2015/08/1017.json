@@ -1,0 +1,129 @@
+{
+	"_id":    "MFiNT.37.08.1017",
+	"year":   2015,
+	"volume": 37,
+	"issue":  8,
+	"pages":  [1017,1026],
+	"rubric": 2,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["17.05.2015"],
+	"PACS":   "61.05.cc, 61.05.cf, 61.72.Dd, 61.72.up, 61.80.Jh, 61.82.Ms, 68.55.Ln",
+	"title":  {
+		"ua": "Квантово-механічний модель взаємоузгодженого амплітудного та дисперсійного впливів недосконалостей структури на картину багатократного розсіяння для картографування та характеризації деформацій і дефектів у йонно-імплантованих ґранатових плівках",
+		"en": "Quantum-Mechanical Model of Interconsistent Amplitude and Dispersion Influences of Structure Imperfections on the Multiple Scattering Pattern for Mapping and Characterization of Strains and Defects in Ion-Implanted Garnet Films",
+		"ru": "Квантово-механическая модель взаимосогласованного амплитудного и дисперсионного влияний несовершенств структуры на картину многократного рассеяния для картографирования и характеризации деформаций и дефектов в ионно-имплантированных гранатовых плёнках"
+	},
+	"abstract": {
+		"ua": "Чисельне моделювання карт оберненого простору для йонно-імплантованих монокристалічних залізо-ітрійових плівок ферит-ґранатів на підложжях з ґадоліній-ґалійового ґранату здійснено на основі теоретичного моделю тривісної динамічної дифрактометрії для багатошарових кристалічних систем із неоднорідними розподілами деформації та випадково розподіленими дефектами. В цьому моделі амплітудний і дисперсійний механізми впливу недосконалостей структури відповідно на дифракцію чи на заломлення, поглинання й екстинкцію випромінення в інтенсивності когерентного та дифузного розсіяння взаємоузгоджено враховувалися для всіх шарів системи за допомогою одержаних рекурентних співвідношень між амплітудами когерентного розсіяння. В запропонованому моделі багатошарових систем враховано наявність ростових дефектів, як у плівці, так і в підложжі, а також радіяційних дефектів у приповерхневому шарі нанометрової товщини, утворених після імплантації йонів F$^{+}$ з енергією у 90 кеВ. З використанням зазначеного моделю також оброблялися криві хитання вихідного та йонно-імплантованого зразків для визначення реалістичних параметрів профілів деформації та структурних характеристик дефектів у підложжях та імплантованих плівках з метою чисельної реконструкції картин динамічної дифракції від монокристалічних багатошарових зразків.",
+		"en": "Numerical simulation of the reciprocal-space maps for ion-implanted single-crystal yttrium—iron garnet films on gadolinium—gallium garnet substrates is carried out and based on the theoretical model of the triple-axes dynamical diffractometry of multilayer crystalline systems with inhomogeneous strain distributions and randomly distributed defects. In this model, the amplitude and dispersion mechanisms of influence of the structure imperfections on diffraction or refraction, absorption and extinction of radiation, respectively, for the coherent and diffuse scattering intensities are interconsistently taken into account for all the layers of the system, using derived recurrent relations between the coherent-scattering amplitudes. The presence of growth defects in both the film and the substrate as well as radiation defects created in subsurface layer of nanometre-scale thickness after 90 keV F$^{+}$ ion implantation are taken into account in the proposed model of the multilayer systems. Using this model, the rocking curves measured from as-grown and ion-implanted samples are also treated for determination of realistic strain-profile parameters and structural-defect characteristics in both implanted films and substrates with the aim of numerical reconstruction of the diffraction patterns from multilayer imperfect single-crystal systems.",
+		"ru": "Численное моделирование карт обратного пространства для ионно-имплантированных монокристаллических железо-иттриевых плёнок феррит-гранатов на подложках из гадолиний-галлиевого граната осуществлено на основе теоретической модели трёхосной динамической дифрактометрии для многослойных кристаллических систем с неоднородными распределениями деформации и случайно распределёнными дефектами. В этой модели амплитудный и дисперсионный механизмы влияния несовершенств структуры соответственно на дифракцию или на преломление, поглощение и экстинкцию излучений в интенсивности когерентного и диффузного рассеяния взаимосогласованно учитывались для всех слоёв системы с помощью полученных рекуррентных соотношений между амплитудами когерентного рассеяния. В предлагаемой модели многослойных систем учтено наличие ростовых дефектов, как в плёнке, так и в подложке, а также радиационных дефектов в приповерхностном слое нанометровой толщины, образованных после имплантации ионов F$^{+}$ с энергией 90 кэВ. С использованием упомянутой модели также обрабатывались кривые качания исходного и ионно-имплантированного образцов для реалистичного определения параметров профилей деформации и структурных характеристик дефектов в подложках и имплантированных плёнках с целью численной реконструкции картин динамической дифракции от монокристаллических многослойных образцов."
+	},
+	"keywords": {
+		"ua": "динамічна теорія дифракції, тонкі плівки, залізо-ітрієвий ґранат, йонна імплантація, радіаційні дефекти, розподіл деформації, ріст дефектів",
+		"en": "dynamical diffraction theory, thin films, yttrium—iron garnet, ion implantation, radiation defects, strain distribution, growth defects",
+		"ru": "динамическая теория дифракции, тонкие плёнки, железо-итриевый гранат, ионная имплантация, радиационные дефекты, распределение деформации, рост дефектов"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Б. Молодкін", "en": "V. B. Molodkin", "ru": "В. Б. Молодкин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. Й. Оліховський", "en": "S. I. Olikhovskii", "ru": "С. И. Олиховский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. С. Скакунова", "en": "E. S. Skakunova", "ru": "Е. С. Скакунова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Є. Г. Лень", "en": "E. G. Len", "ru": "Е. Г. Лень"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Є. М. Кисловський", "en": "E. N. Kislovskii", "ru": "Е. Н. Кисловский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. В. Решетник", "en": "O. V. Reshetnyk", "ru": "О. В. Решетник"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Т. П. Владімірова", "en": "T. P. Vladimirova", "ru": "Т. П. Владимирова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. В. Лізунов", "en": "V. V. Lizunov", "ru": "В. В. Лизунов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Л. М. Скапа", "en": "L. N. Skapa", "ru": "Л. Н. Скапа"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. В. Лізунова", "en": "S. V. Lizunova", "ru": "С. В. Лизунова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "К. В. Фузік", "en": "E. V. Fuzik", "ru": "Е. В. Фузик"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. Г. Толмачов", "en": "N. G. Tolmachev", "ru": "Н. Г. Толмачёв"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Б. К. Остафійчук", "en": "B. K. Ostafiychuk", "ru": "Б. К. Остафийчук"},
+			"OID": [209]
+		},
+		{
+			"AID": {"ua": "В. М. Пилипів", "en": "V. M. Pylypiv", "ru": "В. М. Пылыпив"},
+			"OID": [209]
+		},
+		{
+			"AID": {"ua": "О. З. Гарпуль", "en": "O. Z. Garpul’", "ru": "О. З. Гарпуль"},
+			"OID": [209]
+		}
+	],
+	"references": {
+		"count": 7,
+		"list":  [
+			{
+				"doi": "10.1002/pssa.201026672",
+				"or":  "T. Wehlus, T. Körner, S. Leitenmeier, A. Heinrich, and B. Stritzker, phys. status solidi (a), 208: 252 (2011).",
+				"tr":  "T. Wehlus, T. Körner, S. Leitenmeier, A. Heinrich, and B. Stritzker, phys. status solidi (a), 208: 252 (2011)."
+			},
+			{
+				"doi": "10.1134/S1063774513070122",
+				"or":  "B. K. Ostafiychuk, I. P. Yaremiy, S. I. Yaremiy, V. D. Fedoriv, U. O. Tomyn, M. M. Umantsiva, I. M. Fodchuk, and V. P. Kladko, Crystallography Reports, 58: 1017 (2013).",
+				"tr":  "B. K. Ostafiychuk, I. P. Yaremiy, S. I. Yaremiy, V. D. Fedoriv, U. O. Tomyn, M. M. Umantsiva, I. M. Fodchuk, and V. P. Kladko, Crystallography Reports, 58: 1017 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "I. M. Fodchuk, V. V. Dovganiuk, I. I. Gutsuliak, I. P. Yaremiy, A. Y. Bonchyk, G. V. Savytsky, I. M. Syvorotka, and O. S. Skakunova, Metallofiz. Noveishie Tekhnol., 35, No. 9: 1209 (2013) (in Russian).",
+				"tr":  "I. M. Fodchuk, V. V. Dovganiuk, I. I. Gutsuliak, I. P. Yaremiy, A. Y. Bonchyk, G. V. Savytsky, I. M. Syvorotka, and O. S. Skakunova, Metallofiz. Noveishie Tekhnol., 35, No. 9: 1209 (2013) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.37.03.0409",
+				"or":  "O. S. Skakunova, S. I. Olikhovskii, V. B. Molodkin, E. G. Len, E. M. Kislovskii, O. V. Reshetnyk, T. P. Vladimirova, E. V. Kochelab, V. V. Lizunov, S. V. Lizunova, V. L. Makivs’ka, M. G. Tolmachov, L. M. Skapa, Ya. V. Vasylyk, and K. V. Fuzik, Metallofiz. Noveishie Tekhnol., 37: No. 3: 409 (2015) (in Ukrainian).",
+				"tr":  "O. S. Skakunova, S. I. Olikhovskii, V. B. Molodkin, E. G. Len, E. M. Kislovskii, O. V. Reshetnyk, T. P. Vladimirova, E. V. Kochelab, V. V. Lizunov, S. V. Lizunova, V. L. Makivs'ka, M. G. Tolmachov, L. M. Skapa, Ya. V. Vasylyk, and K. V. Fuzik, Metallofiz. Noveishie Tekhnol., 37: No. 3: 409 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1002/pssa.200881588",
+				"or":  "V. B. Molodkin, S. I. Olikhovskii, E. G. Len, E. N. Kislovskii, V. P. Kladko, O. V. Reshetnyk, T. P. Vladimirova, and B. V. Sheludchenko, phys. status solidi (а), 206: 1761 (2009).",
+				"tr":  "V. B. Molodkin, S. I. Olikhovskii, E. G. Len, E. N. Kislovskii, V. P. Kladko, O. V. Reshetnyk, T. P. Vladimirova, and B. V. Sheludchenko, phys. status solidi (a), 206: 1761 (2009)."
+			},
+			{
+				"doi": "10.1134/S1027451013030270",
+				"or":  "E. N. Kislovskii, V. B. Molodkin, S. I. Olikhovskii, E. G. Len, B. V. Sheludchenko, S. V. Lizunova, T. P. Vladimirova, E. V. Kochelab, O. V. Reshetnik, V. V. Dovganyuk, I. M. Fodchuk, T. V. Litvinchuk, and V. P. Klad’ko, J. Surf. Investigation. X-Ray, Synchrotron, and Neutron Techniques, 7: 523 (2013).",
+				"tr":  "E. N. Kislovskii, V. B. Molodkin, S. I. Olikhovskii, E. G. Len, B. V. Sheludchenko, S. V. Lizunova, T. P. Vladimirova, E. V. Kochelab, O. V. Reshetnik, V. V. Dovganyuk, I. M. Fodchuk, T. V. Litvinchuk, and V. P. Klad'ko, J. Surf. Investigation. X-Ray, Synchrotron, and Neutron Techniques, 7: 523 (2013)."
+			},
+			{
+				"doi": "10.1002/pssa.200675686",
+				"or":  "V. B. Molodkin, S. I. Olikhovskii, Ye. M. Kyslovskyy, I. M. Fodchuk, E. S. Skakunova, E. V. Pervak, and V. V. Molodkin, phys. status solidi (а), 204: 2606 (2007).",
+				"tr":  "V. B. Molodkin, S. I. Olikhovskii, Ye. M. Kyslovskyy, I. M. Fodchuk, E. S. Skakunova, E. V. Pervak, and V. V. Molodkin, phys. status solidi (a), 204: 2606 (2007)."
+			}
+		]
+	}
+}

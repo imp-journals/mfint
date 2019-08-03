@@ -1,0 +1,145 @@
+{
+	"_id":    "MFiNT.40.07.0979",
+	"year":   2018,
+	"volume": 40,
+	"issue":  7,
+	"pages":  [979,992],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["02.04.2018"],
+	"PACS":   "62.20.Qp, 68.37.Hk, 68.37.Ps, 81.05.uf, 81.40.Pq, 81.65.Kn, 82.45.Bb",
+	"title":   {
+		"ua": "Приготування нанокомпозитів Co–Gr й аналіза їхніх трибологічних і корозійних характеристик",
+		"en": "Preparation of Co–Gr Nanocomposites and Analysis of Their Tribological and Corrosion Characteristics",
+		"ru": "Приготовление нанокомпозитов Co–Gr и анализ их трибологических и коррозионных характеристик"
+	},
+	"abstract": {
+		"ua": "У роботі представлено узагальнюючі результати досліджень трибологічної та корозійної поведінки нанокомпозитів Co–Gr. Нанокомпозити Co–Gr було синтезовано з використанням високоенергетичного кульового млина та скомпактовано у циліндричні ґранули шляхом гідравлічного пресування. Композити досліджено за допомогою СЕМ, ЕДС та АСМ. Показано, що в результаті сухого ковзання опір зношуванню зростає зі збільшенням процентного вмісту графіту (Gr). Також досліджено корозійні характеристики нанокомпозитів Co–Gr з використанням імерсійних та електрохемічних метод. Результати електрохемічної поляризації показали підвищення корозійної стійкости нанокомпозитів Co–25Gr ($E_{\\textrm{corr}}$ = -0,416 В у зіставленні з Ag/AgCl); значення відповідного потенціялу зміщене у позитивному напрямку відносно чистого Co (-0,443 В). Результати аналізи електрохемічної імпедансної спектроскопії також підтвердили, що нанокомпозит Co–25Gr має вище значення електроопору (100 Ом). Результати, одержані методою визначення втрати ваги, також підтвердили зростання корозійної стійкости нанокомпозиту Co–25Gr.",
+		"en": "This work summarizes the tribological and corrosion behaviour of Co–Gr nanocomposites. The Co–Gr nanocomposites are synthesized using high-energy ball mill and compacted into cylindrical pellets by hydraulic pressing. The composites are characterized using SEM, EDAX, and AFM. The dry sliding wear results reveal that the wear resistance increases with increase in the percentage of graphite (Gr). The corrosion characteristics of the Co–Gr nanocomposites are examined using immersion and electrochemical methods. The electrochemical polarization results reveal the increase in corrosion resistant of the Co–25Gr nanocomposites ($E_{\\textrm{corr}}$ = -0.416 V $vs$ Ag/AgCl) to more positive side than pure Co (-0.443 V). Electrochemical impedance spectroscopy analysis results also confirmed Co–25Gr nanocomposite has higher resistance value (100 $\\Omega$). The results of the weight loss method also authenticate increase in corrosion resistance of Co–25Gr nanocomposite.",
+		"ru": "В работе представлены обобщающие результаты исследования трибологического и коррозионного поведения нанокомпозитов Co–Gr. Нанокомпозиты Co–Gr были синтезированы с использованием высокоэнергетической шаровой мельницы и скомпактированы в цилиндрические гранулы путём гидравлического прессования. Композиты были исследованы с помощью СЭМ, ЭДС и АСМ. Показано, что в результате сухого скольжения сопротивление износу возрастает с увеличением процентного содержания графита (Gr). Также исследованы коррозионные характеристики нанокомпозитов Co–Gr с использованием иммерсионных и электрохимических методов. Результаты электрохимической поляризации показали увеличение коррозионной устойчивости нанокомпозитов Co–25Gr ($E_{\\textrm{corr}}$ = -0,416 В в сопоставлении с Ag/AgCl); значение соответствующего потенциала смещено в положительном направлении относительно чистого Co (-0,443 В). Результаты анализа электрохимической импедансной спектроскопии также подтвердили, что нанокомпозит Co–25Gr имеет более высокое значение электросопротивления (100 Ом). Результаты, полученные методом определения потери веса, также подтвердили увеличение коррозионной стойкости нанокомпозита Co–25Gr."
+	},
+	"keywords": {
+		"ua": "знос, корозія, ЕДС, СЕМ, АСМ",
+		"en": "wear, corrosion, EDAX, SEM, AFM",
+		"ru": "износ, коррозия, ЭДС, СЭМ, АСМ"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Г. Р. Рагав", "en": "G. R. Raghav", "ru": "Г. Р. Рагав"},
+			"OID": [532]
+		},
+		{
+			"AID": {"ua": "А. Н. Баладжі", "en": "A. N. Balaji", "ru": "А. Н. Баладжи"},
+			"OID": [532]
+		},
+		{
+			"AID": {"ua": "Д. Мутукрішнан", "en": "D. Muthukrishnan", "ru": "Д. Мутукришнан"},
+			"OID": [532]
+		},
+		{
+			"AID": {"ua": "В. Шруті", "en": "V. Sruthi", "ru": "В. Шрути"},
+			"OID": [535]
+		}
+	],
+	"references": {
+		"count": 19,
+		"list":  [
+			{
+				"doi": "10.1016/j.wear.2015.11.005",
+				"or":  "L. M. Vilhena, C. M. Fernandes, E. Soares, J. Sacramento, A. M. R. Senos, and A. Ramalho, Wear, 346–347: 99 (2016).",
+				"tr":  "L. M. Vilhena, C. M. Fernandes, E. Soares, J. Sacramento, A. M. R. Senos, and A. Ramalho, Wear, 346–347: 99 (2016)."
+			},
+			{
+				"doi": "10.1016/j.triboint.2016.12.023",
+				"or":  "Y. Liu, J. Cheng, B. Yin, S. Zhu, Z. Qiao, and J. Yang, Tribol. Int., 109: 19 (2016).",
+				"tr":  "Y. Liu, J. Cheng, B. Yin, S. Zhu, Z. Qiao, and J. Yang, Tribol. Int., 109: 19 (2016)."
+			},
+			{
+				"doi": "10.1016/j.jmbbm.2017.01.039",
+				"or":  "F. Ren, W. Zhu, and K. Chu, J. Mech. Behav. Biomed. Mater., 68: 115 (2017).",
+				"tr":  "F. Ren, W. Zhu, and K. Chu, J. Mech. Behav. Biomed. Mater., 68: 115 (2017)."
+			},
+			{
+				"doi": "10.1016/j.matdes.2016.08.019",
+				"or":  "R. Mousavi, M. E. Bahrololoom, and F. Deflorian, Mater. Design, 110: 456 (2016).",
+				"tr":  "R. Mousavi, M. E. Bahrololoom, and F. Deflorian, Mater. Design, 110: 456 (2016)."
+			},
+			{
+				"doi": "10.1016/j.matdes.2015.04.030",
+				"or":  "R. Liu, J. Yao, Q. Zhang, M. X. Yao, and R. Collier, Mater. Design, 78: 95 (2015).",
+				"tr":  "R. Liu, J. Yao, Q. Zhang, M. X. Yao, and R. Collier, Mater. Design, 78: 95 (2015)."
+			},
+			{
+				"doi": "10.1007/s12613-012-0609-z",
+				"or":  "C. Jiang, Y. Xing, F. Zhang, and J. Hao, Int. J. Miner. Metall. Mater., 19, Iss. 7: 657 (2012).",
+				"tr":  "C. Jiang, Y. Xing, F. Zhang, and J. Hao, Int. J. Miner. Metall. Mater., 19, Iss. 7: 657 (2012)."
+			},
+			{
+				"doi": "10.1016/j.wear.2013.08.021",
+				"or":  "M. M. H. Bastwros, A. M. K. Esawi, and A. Wifi, Wear, 307, Iss. 1–2: 164 (2013).",
+				"tr":  "M. M. H. Bastwros, A. M. K. Esawi, and A. Wifi, Wear, 307, Iss. 1–2: 164 (2013)."
+			},
+			{
+				"doi": "10.1016/j.jma.2016.08.001",
+				"or":  "K. S. Prakash, P. Balasundar, S. Nagaraja, P. M. Gopal and V. Kavimani, J. Magnesium Alloys, 4, Iss. 3: 197 (2016).",
+				"tr":  "K. S. Prakash, P. Balasundar, S. Nagaraja, P. M. Gopal and V. Kavimani, J. Magnesium Alloys, 4, Iss. 3: 197 (2016)."
+			},
+			{
+				"doi": "10.1016/j.wear.2017.02.045",
+				"or":  "P. Wang, H. Zhang, J. Yin, X. Xiong, C. Tan, C. Deng and Z. Yan, Wear, 380–381: 59 (2017).",
+				"tr":  "P. Wang, H. Zhang, J. Yin, X. Xiong, C. Tan, C. Deng and Z. Yan, Wear, 380–381: 59 (2017)."
+			},
+			{
+				"doi": "10.1016/j.wear.2013.10.001",
+				"or":  "T. R. Prabhu, V. K. Varma, and S. Vedantam, Wear, 309, Iss. 1–2: 247 (2014).",
+				"tr":  "T. R. Prabhu, V. K. Varma, and S. Vedantam, Wear, 309, Iss. 1–2: 247 (2014)."
+			},
+			{
+				"doi": "10.1016/j.proeng.2014.12.276",
+				"or":  "C. Parswajinan, B.V. Ramnath, C. Elanchezhian, S. V. Pragadeesh, P. R. Ramkishore, and V. Sabarish, Procedia. Eng., 97: 513 (2014).",
+				"tr":  "C. Parswajinan, B.V. Ramnath, C. Elanchezhian, S. V. Pragadeesh, P. R. Ramkishore, and V. Sabarish, Procedia. Eng., 97: 513 (2014)."
+			},
+			{
+				"doi": "10.12691/materials-3-1-2",
+				"or":  "Mohammad Sharear kabir, Tamzid lbn Minhaj, Md Delower Hossain, and ASW Kurny, Am. J. Mater. Eng. Technol., 3, Iss. 1: 7 (2015).",
+				"tr":  "Mohammad Sharear kabir, Tamzid lbn Minhaj, Md Delower Hossain, and ASW Kurny, Am. J. Mater. Eng. Technol., 3, Iss. 1: 7 (2015)."
+			},
+			{
+				"doi": "10.1016/j.wear.2005.02.006",
+				"or":  "C. Y. H. Lim, D. K. Leo, J. J. S. Ang, and M. Gupta, Wear, 259, Iss. 1–6: 620 (2005).",
+				"tr":  "C. Y. H. Lim, D. K. Leo, J. J. S. Ang, and M. Gupta, Wear, 259, Iss. 1–6: 620 (2005)."
+			},
+			{
+				"doi": "10.1016/j.wear.2013.06.026",
+				"or":  "F. Toptan, A. C. Alves, I. Kerti, E. Ariza, and L. A. Rocha, Wear, 306, Iss. 1–2: 27 (2013).",
+				"tr":  "F. Toptan, A. C. Alves, I. Kerti, E. Ariza, and L. A. Rocha, Wear, 306, Iss. 1–2: 27 (2013)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2016.10.290",
+				"or":  "N. Elkhoshkhany, A. Hafnway, and A. Khaled, J. Alloys Compd., 695: 1505 (2017).",
+				"tr":  "N. Elkhoshkhany, A. Hafnway, and A. Khaled, J. Alloys Compd., 695: 1505 (2017)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2015.08.036",
+				"or":  "F. A. P. Fernandes, J. Gallego, C. A. Picon, G. T. Filho, and L. C. Casteletti, Surf. Coat. Technol., 279: 112 (2015).",
+				"tr":  "F. A. P. Fernandes, J. Gallego, C. A. Picon, G. T. Filho, and L. C. Casteletti, Surf. Coat. Technol., 279: 112 (2015)."
+			},
+			{
+				"doi": "10.1002/(SICI)1096-9918(199908)28:1<119::AID-SIA631>3.0.CO;2-T",
+				"or":  "J. H. Qiu and P. H. Chua, Surf. Interface Anal., 28: 119 (1999).",
+				"tr":  "J. H. Qiu and P. H. Chua, Surf. Interface Anal., 28: 119 (1999)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2004.10.014",
+				"or":  "T. S. N. Sankara Narayanan, I. Baskaran, K. Krishnaveni, and S. Parthiban, Surf. Coat. Technol., 200, Iss. 11: 3438 (2006).",
+				"tr":  "T. S. N. Sankara Narayanan, I. Baskaran, K. Krishnaveni, and S. Parthiban, Surf. Coat. Technol., 200, Iss. 11: 3438 (2006)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2015.03.143",
+				"or":  "Q. Xu, K. Gao, Y. Wang, and X. Pang, Appl. Surf. Sci., 345: 10 (2015).",
+				"tr":  "Q. Xu, K. Gao, Y. Wang, and X. Pang, Appl. Surf. Sci., 345: 10 (2015)."
+			}
+		]
+	}
+}

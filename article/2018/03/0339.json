@@ -1,0 +1,223 @@
+{
+	"_id":    "MFiNT.40.03.0339",
+	"year":   2018,
+	"volume": 40,
+	"issue":  3,
+	"pages":  [339,357],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["06.11.2017"],
+	"PACS":   "52.80.Wq, 62.23.St, 81.07.Bc, 81.07.Wx, 81.20-n, 83.50.Uv, 83.85.-c",
+	"title":   {
+		"ua": "Електроіскряне дисперґування металевих матеріялів. I. Вплив швидкости протоку робочої рідини на дисперсність порошків",
+		"en": "Electrospark Dispersion of Metal Materials. I. Influence of Velocity of Flow of Operating Fluid on Dispersity of Powders",
+		"ru": "Электроискровое диспергирование металлических материалов. I. Влияние скорости протока рабочей жидкости на дисперсность порошков"
+	},
+	"abstract": {
+		"ua": "З використанням метод оптичної ґранулометрії вивчено вплив швидкости ламінарного потоку етилового спирту на розподіл за розмірами частинок високовуглецевої сталі, одержаних у ньому методою об'ємного електроіскряного дисперґування вхідних ґрануль. Виявлено та пояснено тенденції зменшення середнього розміру та дисперсії розподілу за розмірами іскроерозійних частинок. Показано, що основний вплив на розмір ерозійних частинок крупної фракції чинять умови їх утворення, а дрібної — умови їх знаходження в дисперсійному середовищі. Пояснено явище стрибкоподібного збільшення частки дрібної фракції ерозійних частинок при збільшенні швидкости потоку робочої рідини.",
+		"en": "The high-carbon steel particles obtained by electrospark dispergation of initial granules in ethanol are investigated. The influence of velocity of ethanol laminar flow on particle-size distribution is studied by means of the optical-granulometry method. The tendency towards to decrease of average size of spark-erosion particles is revealed and explained. As shown, the conditions of a particle formation from large fraction have basic influence on particle size, and sizes of particles from small fraction depend on conditions of particles being in dispersion medium. The effect of intermittent increase of small-fraction part under increase of velocity of the working-fluid flow is explained.",
+		"ru": "С использованием методов оптической гранулометрии изучено влияние скорости ламинарного потока этилового спирта на распределение по размерам частиц высокоуглеродистой стали, полученных в нём методом объёмного электроискрового диспергирования исходных гранул. Обнаружены и объяснены тенденции уменьшения среднего размера и дисперсии распределения по размерам искроэрозионных частиц. Показано, что основное влияние на размер эрозионных частиц крупной фракции оказывают условия их образования, а мелкой — условия их нахождения в дисперсионной среде. Объяснено явление скачкообразного увеличения доли мелкой фракции эрозионных частиц при увеличении скорости потока рабочей жидкости."
+	},
+	"keywords": {
+		"ua": "електроіскряне дисперґування металів, високодисперсні частинки, оптична ґранулометрія",
+		"en": "electrospark dispergation of metals, superfine particles, optical granulometry",
+		"ru": "электроискровое диспергирование металлов, высокодисперсные частицы, оптическая гранулометрия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. М. Захарченко", "en": "S. M. Zakharchenkо", "ru": "С. Н. Захарченко"},
+			"OID": [43]
+		},
+		{
+			"AID": {"ua": "А. О. Перекос", "en": "А. O. Perekos", "ru": "А. Е. Перекос"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Н. А. Шидловська", "en": "N. A. Shidlovska", "ru": "Н. А. Шидловская"},
+			"OID": [43]
+		},
+		{
+			"AID": {"ua": "А. І. Устінов", "en": "A. I. Ustinov", "ru": "А. И. Устинов"},
+			"OID": [5]
+		},
+		{
+			"AID": {"ua": "О. Ф. Бойцов", "en": "О. F. Bоytsоv", "ru": "О. Ф. Бойцов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. З. Войнаш", "en": "V. Z. Vоynаsh", "ru": "В. З. Войнаш"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 33,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Б. А. Артамонов, Ю. С. Волков, В. И. Дрожалова, Ф. В. Седыкин, В. П. Смоленцев, В. М. Ямпольский, Электрофизические и электрохимические методы обработки материалов (Москва: Высшая школа: 1983).",
+				"tr":  "B. A. Artamonov, Yu. S. Volkov, V. I. Drozhalova, F. V. Sedykin, V. P. Smolentsev, and V. M. Yampol'skiy, Elektrofizicheskie i Elektrokhimicheskie Metody Obrabotki Materialov [Electrophysical and Electrochemical Methods of Materials Processing] (Moscow: Vysshaya Shkola: 1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Русских, В. И. Орешкин, А. Ю. Лабецкий, С. А. Чайковский, А. В. Шишлов, Журнал технической физики, 7, вып. 5: 35 (2007).",
+				"tr":  "A. G. Russkikh, V. I. Oreshkin, A. Yu. Labetskiy, S. A. Chaykovskiy, and A. V. Shishlov, Zhurnal Tekhnicheskoy Fiziki, 7, Iss. 5: 35 (2007) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0304-8853(02)00932-0",
+				"or":  "А. Е. Berkowitz, M. F. Hansen, F. T. Parker, K. S. Vecchio, F. E. Spada, E. J. Lavernia, and R. Rodriguez, J. Magnetism and Magnetic Materials, 254–255: 1 (2003).",
+				"tr":  "A. E. Berkowitz, M. F. Hansen, F. T. Parker, K. S. Vecchio, F. E. Spada, E. J. Lavernia, and R. Rodriguez, J. Magnetism and Magnetic Materials, 254–255: 1 (2003)."
+			},
+			{
+				"doi": "10.1063/1.2358825",
+				"or":  "J. I. Hong, V. C. Solomon, D. J. Smith, F. T. Parker, E. M. Summers, and A. E. Berkowitz, Appl. Phys. Lett., 89: 142506 (2006).",
+				"tr":  "J. I. Hong, V. C. Solomon, D. J. Smith, F. T. Parker, E. M. Summers, and A. E. Berkowitz, Appl. Phys. Lett., 89: 142506 (2006)."
+			},
+			{
+				"doi": "10.15407/ufm.04.04.235",
+				"or":  "К. В. Чуистов, А. П. Шпак, А. Е. Перекос, А. Д. Рудь, В. Н. Уваров, Успехи физ. мет., 4, № 4: 235 (2003).",
+				"tr":  "K. V. Chuistov, A. P. Shpak, A. E. Perekos, A. D. Rud', and V. N. Uvarov, Usp. Fiz. Met., 4, No. 4: 235 (2003) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.4764017",
+				"or":  "A. E. Perekos, V. A. Chernenko, S. A. Bunyaev, V. P. Zalutskiy, T. V. Ruzhitskaya, O. F. Boitsov, and G. N. Kakazei, J. Appl. Phys., 112: 093909 (2012).",
+				"tr":  "A. E. Perekos, V. A. Chernenko, S. A. Bunyaev, V. P. Zalutskiy, T. V. Ruzhitskaya, O. F. Boitsov, and G. N. Kakazei, J. Appl. Phys., 112: 093909 (2012)."
+			},
+			{
+				"doi": "10.1088/0957-4484/23/41/415604",
+				"or":  "P. K. Nguyen, K. H. Lee, S. I. Kim, K. A. Ahn, L. H. Chen, S. M. Lee, R. K. Chen, S. Jin, and A. E. Berkowitz, Nanotechnology, 23: 415604 (2012).",
+				"tr":  "P. K. Nguyen, K. H. Lee, S. I. Kim, K. A. Ahn, L. H. Chen, S. M. Lee, R. K. Chen, S. Jin, and A. E. Berkowitz, Nanotechnology, 23: 415604 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Іванова, М. І. Даниленко, Г. Є. Монастирський, В. І. Коломицев, Ю. М. Коваль, А. А. Щерба, С. М. Захарченко, Р. Портьє, Металлофиз. новейшие технол., 31, № 5: 603 (2009).",
+				"tr":  "O. M. Ivanova, M. I. Danylenko, H. Ye. Monastyrs'kyy, V. I. Kolomytsev, Yu. M. Koval', A. A. Shcherba, S. M. Zakharchenko, and R. Portier, Metallofiz. Noveishie Tekhnol., 31, No. 5: 603 (2009) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Є. Монастирський, В. В. Односум, В. І. Коломицев, Ю. М. Коваль, Р. Ochin, R. Portier, A. A. Щерба, C. M. Захарченко, Металлофиз. новейшие технол., 30, № 5: 761 (2008).",
+				"tr":  "H. Ye. Monastyrs'kyy, V. V. Odnosum, V. I. Kolomytsev, Yu. M. Koval', P. Ochin, R. Portier, A. A. Shcherba, and S. M. Zakharchenko, Metallofiz. Noveishie Tekhnol., 30, No. 5: 761 (2008) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Щерба, В. В. Кокорин, А. Е. Перекос, Л. А. Олиховская, О. Ф. Бойцов, С. Н. Захарченко, Металлофиз. новейшие технол., 29, № 2: 201 (2007).",
+				"tr":  "A. A. Shcherba, V. V. Kokorin, A. E. Perekos, L. A. Olikhovskaya, O. F. Boytsov, and S. N. Zakharchenko, Metallofiz. Noveishie Tekhnol., 29, No. 2: 201 (2007) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.jpowsour.2005.02.025",
+				"or":  "G. Ya. Kolbasov, A. I. Ustinov, A. A. Shcherba, A. Ye. Perekos, M. O. Danilov, N. V. Vyunova, S. N. Zakharchenko, and G. Hossbah, J. Power Sources, 150: 276 (2005).",
+				"tr":  "G. Ya. Kolbasov, A. I. Ustinov, A. A. Shcherba, A. Ye. Perekos, M. O. Danilov, N. V. Vyunova, S. N. Zakharchenko, and G. Hossbah, J. Power Sources, 150: 276 (2005)."
+			},
+			{
+				"doi": "10.1063/1.4868330",
+				"or":  "Ph.-Kh. Nguyen, S. Jin, and A. E. Berkowitz, J. Appl. Phys., 115: 17A756 (2014).",
+				"tr":  "Ph.-Kh. Nguyen, S. Jin, and A. E. Berkowitz, J. Appl. Phys., 115: 17A756 (2014)."
+			},
+			{
+				"doi": "10.1016/0022-2313(93)90099-9",
+				"or":  "D. Ruter and W. Bauhofer, J. Luminescence, 57: 19 (1993).",
+				"tr":  "D. Ruter and W. Bauhofer, J. Luminescence, 57: 19 (1993)."
+			},
+			{
+				"doi": "10.1557/JMR.2008.0199",
+				"or":  "J. I. Hong, F. T. Parker, V. C. Solomon, P. Madras, D. J. Smith, and A. E. Berkowitz, J. Mater. Res., 23, Iss. 6: 1758 (2008).",
+				"tr":  "J. I. Hong, F. T. Parker, V. C. Solomon, P. Madras, D. J. Smith, and A. E. Berkowitz, J. Mater. Res., 23, Iss. 6: 1758 (2008)."
+			},
+			{
+				"doi": "10.1063/1.1890474",
+				"or":  "Y. J. Tang, F. T. Parker, H. Harper, A. E. Berkowitz, K. Vecchio, A. Rohatgi, and B. M. Ma, Appl. Phys. Lett., 86: 122507 (2005).",
+				"tr":  "Y. J. Tang, F. T. Parker, H. Harper, A. E. Berkowitz, K. Vecchio, A. Rohatgi, and B. M. Ma, Appl. Phys. Lett., 86: 122507 (2005)."
+			},
+			{
+				"doi": "10.1063/1.1635973",
+				"or":  "J. Carrey, H. B. Radousky, and A. E. Berkowitz, J. Appl. Phys., 95, No. 3: 823 (2004).",
+				"tr":  "J. Carrey, H. B. Radousky, and A. E. Berkowitz, J. Appl. Phys., 95, No. 3: 823 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "К. В. Чуистов, А. Е. Перекос, В. П. Залуцкий, Т. В. Ефимова, Н. И. Главацкая, Металлофиз. новейшие технол., 18, № 8: 18 (1996).",
+				"tr":  "K. V. Chuistov, A. E. Perekos, V. P. Zalutskiy, T. V. Efimova, and N. I. Glavatskaya, Metallofiz. Noveishie Tekhnol., 18, No. 8: 18 (1996) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Дубовой, А. Е. Перекос, К. В. Чуистов, Металлофизика, 6, № 5: 129 (1984).",
+				"tr":  "A. G. Dubovoy, A. E. Perekos, and K. V. Chuistov, Metallofizika, 6, No. 5: 129 (1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Шидловська, С. М. Захарченко, О. П. Черкаський, Технічна електродинаміка, № 2: 5 (2017).",
+				"tr":  "N. A. Shydlovs'ka, S. M. Zakharchenko, and O. P. Cherkas'kyy, Tekhnichna Elektrodynamika, No. 2: 5 (2017) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. М. Захарченко, Науковий вісник Національного гірничого університету, 133, № 1: 62 (2013).",
+				"tr":  "S. M. Zakharchenko, Naukovyy Visnyk Natsional'noho Girnychogo Universytetu, 133, No. 1: 62 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Н. Захарченко, Технічна електродинаміка, № 5: 17 (2012).",
+				"tr":  "S. N. Zakharchenko, Tekhnichna Elektrodynamika, No. 5: 17 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Н. Захарченко, Новини енергетики, № 6: 41 (2012).",
+				"tr":  "S. N. Zakharchenko, Novyny Enerhetyky, No. 6: 41 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Н. Захарченко, Технічна електродинаміка, № 1: 16 (2013).",
+				"tr":  "S. N. Zakharchenko, Tekhnichna Elektrodynamika, No. 1: 16 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Я. Ушаков, Импульсный электрический пробой жидкостей (Томск: Издательство Томского университета: 1975).",
+				"tr":  "V. Ya. Ushakov, Impul'snyy Elektricheskiy Proboy Zhidkostey [Pulsed Electrical Breakdown of Liquids] (Tomsk: Izdatel'stvo Tomskogo Universiteta: 1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. П. Райзер, Физика газового разряда (Москва: Наука: 1987).",
+				"tr":  "Yu. P. Rayzer, Fizika Gazovogo Razryada [Physics of Gas Discharge] (Moscow: Nauka: 1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. А. Воробьев, В. А. Мухачев, Пробой тонких диэлектрических плёнок (Москва: Советское Радио: 1977).",
+				"tr":  "G. A. Vorob'ev and V. A. Mukhachev, Proboy Tonkikh Dielektricheskikh Plenok [Breakdown of Thin Dielectric Films] (Moscow: Sovetskoe Radio: 1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. К. Намитоков, Электроэрозионные явления (Москва: Энергия: 1978).",
+				"tr":  "K. K. Namitokov, Elektroerozionnye Yavleniya [Electroerosion Phenomena] (Moscow: Energiya: 1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Шидловська, С. М. Захарченко, О. П. Черкаський, Технічна електродинаміка, № 3: 3 (2017).",
+				"tr":  "N. A. Shydlovs'ka, S. M. Zakharchenko, and O. P. Cherkas'kyy, Tekhnichna Elektrodynamika, No. 3: 3 (2017) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. М. Дубровский, Б. В. Егоров, К. П. Рябошапка, Справочник по физике (Киев: Наукова думка: 1986).",
+				"tr":  "I. M. Dubrovskyi, B. V. Egorov, and K. P. Ryaboshapka, Spravochnik po Fizike [Handbook of Physics] (Kiev: Naukova Dumka: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Левич, Курс теоретической физики (Москва: Физматгиз: 1962), т. 1.",
+				"tr":  "V. G. Levich, Kurs Teoreticheskoy Fiziki [Course of Theoretical Physics] (Moscow: Fizmatgiz: 1962), vol. 1 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Д. Ландау, Е. М. Лифшиц, Статистическая физика (Москва: Наука: 1964).",
+				"tr":  "L. D. Landau and E. M. Lifshits, Statisticheskaya Fizika [Statistical Physics] (Moscow: Nauka: 1964) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Займан, Модели беспорядка (Москва: Мир: 1982) (пер. с англ.).",
+				"tr":  "D. M. Ziman, Modeli Besporyadka [Models of Disorder] (Moscow: Mir: 1982) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. В. Ширгина, А. И. Кокшайский, А. И. Коробов, Учёные записки физического факультета МГУ, № 6: 146318 (2014).",
+				"tr":  "N. V. Shirgina, A. I. Kokshayskiy, and A. I. Korobov, Uchenye Zapiski Fizicheskogo Fakul'teta MGU, No. 6: 146318 (2014) (in Russian)."
+			}
+		]
+	}
+}

@@ -1,0 +1,246 @@
+{
+	"_id":    "MFiNT.37.07.0933",
+	"year":   2015,
+	"volume": 37,
+	"issue":  7,
+	"pages":  [933,950],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["15.04.2014","26.05.2015"],
+	"PACS":   "61.44.Br, 62.20.fg, 62.20.Qp, 62.23.Pq, 81.07.Wx, 81.20.Hy, 81.40.Ef",
+	"title":  {
+		"ua": "Термостабільність структури та механічних властивостей наноквазікристалічного Al$_{94}$Fe$_{3}$Cr$_{3}$-стопу, консолідованого екструзією",
+		"en": "Thermal Stability of Structure and Mechanical Properties of the Nanoquasi-Crystalline Al$_{94}$Fe$_{3}$Cr$_{3}$ Alloy Consolidated by Extrusion",
+		"ru": "Термостабильность структуры и механических свойств наноквазикристаллического Al$_{94}$Fe$_{3}$Cr$_{3}$-сплава, консолидированного экструзией"
+	},
+	"abstract": {
+		"ua": "Методами фазового рентґеноструктурного аналізу та диференційної сканівної калориметрії вивчено еволюцію структури композиційного Al$_{94}$Fe$_{3}$Cr$_{3}$-стопу з нанорозмірними частинками метастабільної ікосаедричної квазикристалічної фази (i-фази) під дією тиску та температури в умовах теплої деформації екструзією. Встановлено пришвидшувальний вплив тиску на кінетику розчинення частинок i-фази, який супроводжується виділенням з твердого розчину $\\alpha$-Al кристалічних інтерметалідних фаз. Виявлені особливості впливу тиску на структурно-фазові перетворення пов’язуються з пришвидшенням перебігу дифузійних процесів в умовах формування сталої коміркової структури. З урахуванням особливостей фазових і структурних перетворень вивчено термостабільність механічних властивостей стопу після екструзії.",
+		"en": "Structural evolution of composite aluminium alloys with nanosize particles of metastable icosahedral quasi-crystalline phase (i-phase) under influence of pressure and temperature in the condition of warm deformation by extrusion is studied. Feedstock quasi-crystalline powder of Al-based alloy with nominal composition of Al$_{94}$Fe$_{3}$Cr$_{3}$ is chosen for experimentations and fabricates by water-atomisation technique using inhibited high-pressure water with pH = 3.5. Consolidation of powdered Al-based alloy is performed by hot extrusion process at the temperature of 380°C. Structural characterisation of as-extruded rod is performed by X-ray diffraction (XRD) analysis using CuK$_{\\alpha}$-radiation, scanning and transmission electron microscopies. Differential scanning calorimetry (DSC) is employed to investigate structural stability of as-extruded rod at elevated temperatures. Mechanical characteristics (Young’s modulus, $E$, hardness number, $HV$, and yield stress, $\\sigma_{0.2}$) of as-extruded rod are tested and determined by employing the novel test method procedures of indentation technique. The combined effect of elevated temperature and excessive pressure used in hot extrusion process is thought to be the cause for partial decomposition of metastable nanoquasi-crystalline particles. The crucial role of plastic deformation in terms of its influence on the thermostability of structure and mechanical properties of final products is revealed. By means of phase XRD analysis and DSC, the accelerating influence of pressure on kinetics of dissolution of i-phase particles is found, which is accompanied with decomposition of $\\alpha$-Al solid solution and simultaneous formation of crystalline intermetallic phases. The uncovered features of the effect of pressure on the phase and structural transformations are connected with the acceleration of diffusion processes under formation of stable cellular structure. Taking into account the features of phase and structural transformations, the thermostability of mechanical properties of as-extruded alloy is studied. Strain hardening of Al$_{94}$Fe$_{3}$Cr$_{3}$ alloy during extrusion results in high microhardness numbers, $HV$, which exceeds by 78% those for powders of corresponding alloy. Strength properties including hardness number, $HV$, and yield stress, $\\sigma_{0.2}$, of as-extruded alloy do not change their values up to 783K under annealing for 30min. Despite of strain hardening, as-extruded alloy keeps plasticity characteristic, $\\delta_{H}$, just about critical value of $\\cong$ 0.9 indicated in literature as criterion for ductile behaviour of metals and alloys in conventional tests by tensile and bending.",
+		"ru": "Методами фазового рентгеноструктурного анализа и дифференциальной сканирующей калориметрии изучена эволюция структуры композиционного Al$_{94}$Fe$_{3}$Cr$_{3}$-сплава с наноразмерными частицами метастабильной икосаэдрической квазикристаллической фазы (i-фазы) под влиянием давления и температуры в условиях тёплой деформации экструзией. Установлено ускоряющее влияние давления на кинетику растворения частиц i-фазы, сопровождаемое выделением из твёрдого раствора $\\alpha$-Al кристаллических интерметаллидных фаз. Обнаруженные особенности влияния давления на структурно-фазовые превращения связываются с ускорением протекания диффузионных процессов в условиях формирования стабильной ячеистой структуры. С учётом особенностей фазовых и структурных превращений изучена термостабильность механических свойств сплава после экструзии."
+	},
+	"keywords": {
+		"ua": "стопи Al-Fe-Cr, фазові та структурні перетворення, квазікристали, механічні властивості, екструзія, ефект тиску",
+		"en": "Al–Fe–Cr alloys, phase and structure transformations, quasicrystals, mechanical properties, extrusion, pressure effect",
+		"ru": "сплавы Al–Fe–Cr, фазовые и структурные превращения, квазикристаллы, механические свойства, экструзия, эффект давления"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. В. Бякова", "en": "O. V. Byakova", "ru": "А. В. Бякова"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "О. І. Юркова", "en": "O. I. Yurkova", "ru": "А. И. Юркова"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "А. О. Власов", "en": "A. O. Vlasov", "ru": "А. А. Власов"},
+			"OID": [2]
+		}
+	],
+	"references": {
+		"count": 40,
+		"list":  [
+			{
+				"doi": "10.2320/matertrans1989.33.723",
+				"or":  "A. Inoue, M. Watanabe, H. M. Kimura, F. Takahashi, A. Nagata, and T. Masumoto, Mater. Trans., 33: 723 (1992).",
+				"tr":  "A. Inoue, M. Watanabe, H. M. Kimura, F. Takahashi, A. Nagata, and T. Masumoto, Mater. Trans., 33: 723 (1992)."
+			},
+			{
+				"doi": "10.1016/0965-9773(95)00029-1",
+				"or":  "A. Inoue, Nanostructured Mater., 6: 53 (1995).",
+				"tr":  "A. Inoue, Nanostructured Mater., 6: 53 (1995)."
+			},
+			{
+				"doi": "10.1016/S0079-6425(98)00005-X",
+				"or":  "A. Inoue, Prog. Mater. Sci., 43: 365 (1998).",
+				"tr":  "A. Inoue, Prog. Mater. Sci., 43: 365 (1998)."
+			},
+			{
+				"doi": "10.1016/S0965-9773(99)00075-6",
+				"or":  "F. Schurack, J. Eckert, and L. Schultz, Nanostructured Mater., 12, Nоs. 1–4: 107 (1999).",
+				"tr":  "F. Schurack, J. Eckert, and L. Schultz, Nanostructured Mater., 12, Nos. 1–4: 107 (1999)."
+			},
+			{
+				"doi": "10.1016/S0965-9773(99)00035-5",
+				"or":  "A. Inoue and H. Kimura, Nanostructured Mater., 11, Nо. 2: 221 (1999).",
+				"tr":  "A. Inoue and H. Kimura, Nanostructured Mater., 11, No. 2: 221 (1999)."
+			},
+			{
+				"doi": "10.1557/JMR.2000.0392",
+				"or":  "H. M. Kimura, K. Sasamory, and A. Inoue, J. Mater. Res., 15, Nо. 12: 2737 (2000).",
+				"tr":  "H. M. Kimura, K. Sasamory, and A. Inoue, J. Mater. Res., 15, No. 12: 2737 (2000)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(00)00656-0",
+				"or":  "A. Inoue and H. Kimura, Mater. Sci. Eng. A, 286, Nо. 1: 1 (2000).",
+				"tr":  "A. Inoue and H. Kimura, Mater. Sci. Eng. A, 286, No. 1: 1 (2000)."
+			},
+			{
+				"doi": "10.2320/matertrans.43.2017",
+				"or":  "F. Audebert, F. Prima, M. Galano, M. Tomut, P. J. Warren, I. C. Stone, and B. Cantor, Mater. Trans., 43, Nо. 8: 2017 (2002).",
+				"tr":  "F. Audebert, F. Prima, M. Galano, M. Tomut, P. J. Warren, I. C. Stone, and B. Cantor, Mater. Trans., 43, No. 8: 2017 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. І. Адєєва, А. Л. Борисова, Фізика і хімія твердого тіла, 3, № 3: 454 (2002).",
+				"tr":  "L. I. Adyeyeva and A. L. Borysova, Fizyka i Khimiya Tverdogo Tila, 3, No. 3: 454 (2002) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. V. Milman, A. I. Sirko, M. O. Iefimov, O. D. Niekov, A. O. Sharovsky, and N. P. Zacharova, High Temperature Materials and Processes, 25, Iss. 1–2: 19 (2006).",
+				"tr":  "Yu. V. Milman, A. I. Sirko, M. O. Iefimov, O. D. Niekov, A. O. Sharovsky, and N. P. Zacharova, High Temperature Materials and Processes, 25, Iss. 1–2: 19 (2006)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2009.07.011",
+				"or":  "M. Galano, F. Audebert, I. C. Stone, and B. Cantor, Acta Mater., 57: 5107 (2009).",
+				"tr":  "M. Galano, F. Audebert, I. C. Stone, and B. Cantor, Acta Mater., 57: 5107 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "Z. Chlup, I. Todd, A. Garcia-Escorial, M. Lieblich, A. Chlupova, and J. G. O’Dwyer, Mater. Sci. Forum, 426–432: 2417 (2003).",
+				"tr":  "Z. Chlup, I. Todd, A. Garcia-Escorial, M. Lieblich, A. Chlupova, and J. G. O'Dwyer, Mater. Sci. Forum, 426–432: 2417 (2003)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2009.07.009",
+				"or":  "M. Galano, F. Audebert, A. Garcia Escorial, I. C. Stone, and B. Cantor, Acta Mater., 57, Iss. 17: 5120 (2009).",
+				"tr":  "M. Galano, F. Audebert, A. Garcia Escorial, I. C. Stone, and B. Cantor, Acta Mater., 57, Iss. 17: 5120 (2009)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.53.1951",
+				"or":  "D. Shechtman, I. Blech, D. Gratias, and J. V. Cahn, Phys. Rev. Lett., 53, Nо. 20: 1951 (1984).",
+				"tr":  "D. Shechtman, I. Blech, D. Gratias, and J. V. Cahn, Phys. Rev. Lett., 53, No. 20: 1951 (1984)."
+			},
+			{
+				"doi": "10.1007/BF00349664",
+				"or":  "A. Ziani, A. Pianelli, A. Redjamia, C. Y. Zahra, and A. M. Zahra, J. Mater. Sci., 30, Iss. 11: 2921 (1995).",
+				"tr":  "A. Ziani, A. Pianelli, A. Redjamia, C. Y. Zahra, and A. M. Zahra, J. Mater. Sci., 30, Iss. 11: 2921 (1995)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(01)01353-3",
+				"or":  "C. Zhang, Y. Wu, X. Cai, F. Zhao, S. Zheng, G. Zhou, and S. Wu, Mater. Sci. Eng. A, 323, Iss. 1–2: 226 (2002).",
+				"tr":  "C. Zhang, Y. Wu, X. Cai, F. Zhao, S. Zheng, G. Zhou, and S. Wu, Mater. Sci. Eng. A, 323, Iss. 1–2: 226 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Gurland and N. M. Parih, Fracture Advanced Treatise (Ed. H. Liebowitz) (New York–London: Academic Press: 1972), vol. 2.",
+				"tr":  "J. Gurland and N. M. Parih, Fracture Advanced Treatise (Ed. H. Liebowitz) (New York–London: Academic Press: 1972), vol. 2."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Карпець, С. О. Фірстов, Л. Д. Кулак, І. Д. Горна, Н. Н. Кузьменко, Г. Ф. Саржан, Фізика і хімія твердого тіла, 7, № 1: 147 (2006).",
+				"tr":  "M. V. Karpets', S. O. Firstov, L. D. Kulak, I. D. Horna, N. N. Kuz'menko, and H. F. Sarzhan, Fizyka i Khimiya Tverdogo Tila, 7, No. 1: 147 (2006) (in Ukrainian)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.561-565.1075",
+				"or":  "C. Banjongprasert, S. C. Hogg, I. G. Palmer, N. Grennan-Heaven, I. C. Stone, and P. S. Grant, Mater. Sci. Forum, 561–565: 1075 (2007).",
+				"tr":  "C. Banjongprasert, S. C. Hogg, I. G. Palmer, N. Grennan-Heaven, I. C. Stone, and P. S. Grant, Mater. Sci. Forum, 561–565: 1075 (2007)."
+			},
+			{
+				"doi": "10.1002/pssa.2210910209",
+				"or":  "K. Urban, M. Moser, and H. Kronmüller, phys. status solidi (a), 91: 411 (1985).",
+				"tr":  "K. Urban, M. Moser, and H. Kronmüller, phys. status solidi (a), 91: 411 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "J. M. Dubois and A. Pianeli, Aluminum Alloys, Substrates Coated with These Alloys and Their Applications, Patent 5432011 US (Publ. July 11, 1995).",
+				"tr":  "J. M. Dubois and A. Pianeli, Aluminum Alloys, Substrates Coated with These Alloys and Their Applications, Patent 5432011 US (Publ. July 11, 1995)."
+			},
+			{
+				"doi": "",
+				"or":  "M. V. Semenov, M. M. Kiz, M. O. Iefimov, A. I. Sirko, A. V. Byakova, and Yu. V. Milman, Nanosistemi, Nanomateriali, Nanotehnologii, 4, No. 4: 767 (2006).",
+				"tr":  "M. V. Semenov, M. M. Kiz, M. O. Iefimov, A. I. Sirko, A. V. Byakova, and Yu. V. Milman, Nanosistemi, Nanomateriali, Nanotehnologii, 4, No. 4: 767 (2006)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2009.10.208",
+				"or":  "M. Galano, F. Audebert, A. G. Escorial, I. C. Stone, and B. Cantor, J. Alloys Compd., 495: 372 (2010).",
+				"tr":  "M. Galano, F. Audebert, A. G. Escorial, I. C. Stone, and B. Cantor, J. Alloys Compd., 495: 372 (2010)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.482.77",
+				"or":  "Yu. V. Milman, Mater. Sci. Forum, 482: 77 (2005).",
+				"tr":  "Yu. V. Milman, Mater. Sci. Forum, 482: 77 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "E. Hornbogen and M. Shandl, Z. Metallkd., 83: 128 (1992).",
+				"tr":  "E. Hornbogen and M. Shandl, Z. Metallkd., 83: 128 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Чередніченко, О. В. Бякова, О. І. Юркова, О. І. Сірко, Металлофиз. новейшие технол., 33, спец. выпуск: 331 (2011).",
+				"tr":  "V. V. Cherednichenko, O. V. Byakova, O. I. Yurkova, O. I. Sirko, Metallofiz. Noveishie Tekhnol., 33, Special Issue: 331 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1557/JMR.1986.0013",
+				"or":  "J. V. Cahn, D. Schehntman, and D. Gratias, J. Mater. Res., 1: 13 (1986).",
+				"tr":  "J. V. Cahn, D. Schehntman, and D. Gratias, J. Mater. Res., 1: 13 (1986)."
+			},
+			{
+				"doi": "10.1016/0001-6160(89)90015-1",
+				"or":  "A. K. Jena, A. K. Gupta, and M. C. Chaturvedi, Acta Metal., 37: 885 (1989).",
+				"tr":  "A. K. Jena, A. K. Gupta, and M. C. Chaturvedi, Acta Metal., 37: 885 (1989)."
+			},
+			{
+				"doi": "10.1016/0956-7151(93)90122-9",
+				"or":  "Yu. V. Milman, B. A. Galanov, and S. I. Chugunova, Acta Metal. Mater., 41, No. 9: 2523 (1993).",
+				"tr":  "Yu. V. Milman, B. A. Galanov, and S. I. Chugunova, Acta Metall. Mater., 41, No. 9: 2523 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. А. Галанов, Ю. В. Мильман, С. И. Чугунова, И. B. Гончарова, Сверхтвёрдые материалы, № 3: 25 (1999).",
+				"tr":  "B. A. Galanov, Yu. V. Mil'man, S. I. Chugunova, and I. B. Goncharova, Sverkhtverdye Materialy, No. 3: 25 (1999) (in Russian)."
+			},
+			{
+				"doi": "10.1557/JMR.1992.1564",
+				"or":  "W. C. Oliver and G. M. Pharr, J. Mater. Res., 7, No. 6: 1564 (1992).",
+				"tr":  "W. C. Oliver and G. M. Pharr, J. Mater. Res., 7, No. 6: 1564 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "A. V. Byakova, Yu. V. Milman, and A. A. Vlasov, Modelling of Machining Operations (Ed. R. Neugebauer) (Chemnitz: Wissenschaftliche Scripten: 2005).",
+				"tr":  "A. V. Byakova, Yu. V. Milman, and A. A. Vlasov, Modelling of Machining Operations (Ed. R. Neugebauer) (Chemnitz: Wissenschaftliche Scripten: 2005)."
+			},
+			{
+				"doi": "10.1088/0022-3727/41/7/074013",
+				"or":  "Yu. V. Milman, J. Phys. D: Appl Phys., 41: 1 (2008).",
+				"tr":  "Yu. V. Milman, J. Phys. D: Appl. Phys., 41: 1 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. Milman, S. Dub, and A. Golubenko, Proc. of Mater. Res. Soc. Symp., 1049: 123 (2008).",
+				"tr":  "Yu. Milman, S. Dub, and A. Golubenko, Proc. of Mater. Res. Soc. Symp., 1049: 123 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Бякова, Ю. В. Мильман, А. А. Власов, А. О. Дудник, А. И. Юркова, Способ определения коэффициента Пуассона, Патент на изобретение РФ № 2410667 (Опубл. 27 января 2011 г.).",
+				"tr":  "A. V. Byakova, Yu. V. Mil'man, A. A. Vlasov, A. O. Dudnik, and A. I. Yurkova, Sposob Opredeleniya Koeffitsienta Puassona, Patent na Izobretenie RF No. 2410667 (Publ. January 27, 2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "O. В. Бякова, Ю. В. Мільман, А. О. Власов, О. І. Юркова, О. О. Дудник, Спосіб визначення коефіцієнта Пуассона, Патент України на винахід № 93248 (Опубл. 25 січня 2011 р.).",
+				"tr":  "O. V. Byakova, Yu. V. Mil'man, A. O. Vlasov, O. I. Yurkova, and O. O. Dudnyk, Sposib Vyznachennya Koefitsiyenta Puassona, Patent Ukrayiny na Vynakhid No. 93248 (Publ. January 25, 2011) (in Ukrainian)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/JMNM.20-21.382",
+				"or":  "H.-J. Kestenbach, C. Bolfarini, C. S. Kiminami, and W. J. Botta Fiho, J. Metastable and Nanocrystalline Materials, 20–21: 382 (2004).",
+				"tr":  "H.-J. Kestenbach, C. Bolfarini, C. S. Kiminami, and W. J. Botta Fiho, J. Metastable and Nanocrystalline Materials, 20–21: 382 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "С. С. Горелик, С. В. Добаткин, Л. М. Капуткина, Рекристаллизация металлов и сплавов (Москва: МИСиС: 2005).",
+				"tr":  "S. S. Gorelik, S. V. Dobatkin, and L. M. Kaputkina, Rekristallizatsiya Metallov i Splavov [Recrystallization of Metals and Alloys] (Moscow: MISiS: 2005) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.matchar.2008.01.002",
+				"or":  "G. Benchabane, Z. Boumerzoug, I. Thibon, and T. Gloriant, Materials Characterization, 59: 1425 (2008).",
+				"tr":  "G. Benchabane, Z. Boumerzoug, I. Thibon, and T. Gloriant, Materials Characterization, 59: 1425 (2008)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.503-504.919",
+				"or":  "N. Takata, K. Yamada, K. Ikeda, F. Yoshida, H. Nakashima, and N. Tsuji, Mater. Sci. Forum, 503–504: 919 (2006).",
+				"tr":  "N. Takata, K. Yamada, K. Ikeda, F. Yoshida, H. Nakashima, and N. Tsuji, Mater. Sci. Forum, 503–504: 919 (2006)."
+			}
+		]
+	}
+}

@@ -1,0 +1,127 @@
+{
+	"_id":    "MFiNT.39.01.0117",
+	"year":   2017,
+	"volume": 39,
+	"issue":  1,
+	"pages":  [117,140],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["16.06.2016"],
+	"PACS":   "62.20.mm, 62.20.mt, 62.20.Qp, 81.20.Wk, 81.40.Np, 81.40.Pq, 82.33.Xj",
+	"title":  {
+		"ua": "Обґрунтування механоплазмового ефекту, що виникає в процесі механічного обробляння металу в мастильно-охолодних технологічних засобах",
+		"en": "Justification of Mechanoplasmic Effect Arising During a Process of Mechanical Treatment of Metal in Lubricant-Cooling Agents",
+		"ru": "Обоснование механоплазменного эффекта, возникающего в процессе механической обработки металла в смазочно-охлаждающих технологических средствах"
+	},
+	"abstract": {
+		"ua": "Запропоновано модель перетворення у зоні різання поверхнево-активного мастильно-охолодного технологічного засобу (МОТЗ) в радикально-активну водневу плазму. Таке явище є особливо яскраво вираженим, коли до складу МОТЗ додається високомолекулярна сполука певного хемічного складу та концентрації. Оскільки ланцюг піролітичних перетворень полімерної присадки до МОТЗ приводить до появи водню та вуглецю в атомарній та інших активних формах, було висунуто гіпотезу про активну участь протонів у механохемічному процесі при металообробленні й одночасну перманентну карбонізацію різальних пругів інструменту. Сукупність експериментальних даних показує, що різні контактні взаємодії матеріялу із середовищем, а також фізико-хемічні процеси, що відбуваються в результаті руйнування металу, пов’язані, в першу чергу, з електрично активною реальною структурою матеріялу, що виникає внаслідок механічного впливу. Показано вирішальну роль утворення та зростання тріщини як чинника, що ініціює та пришвидшує різні фізико-хемічні процеси і явища, які мають місце у щілині між клином інструменту і вершиною тріщини та приводять до утворення водневої плазми. На підставі узагальнення досліджень, присвячених різним фізико-хемічним явищам, що виникають у момент руйнування твердого тіла, зроблено спробу розглянути зниження енерговитрат на процес різання металу у МОТЗ як результат сукупного механічного і теплового впливу. Додатковим джерелом тепловиділення є рекомбінація йона Гідроґену в ультрамікроскопічних областях безпосередньо в зоні подолання зчеплення між атомами оброблюваного металу. Запропонований спосіб механоплазмового оброблення металу не тільки має високу ефективність, а й уможливлює виготовляти вироби з підвищеною експлуатаційною довговічністю.",
+		"en": "A model of surfactant lubricant-cooling agent (SLCA) transformation to radically active hydrogen plasma in the cutting zone is proposed. This phenomenon is strongly expressed when the composition of SLCA includes a macromolecular compound having specified chemical composition and concentration. Since the chain of pyrolytic transformations of polymer additives to SLCA leads to hydrogen and carbon appearance in atomic and other active forms, the hypothesis of both the active participation of protons in the mechanochemical process during the metal treatment and the simultaneous permanent carbonization of cutting edge of tool. The experimental data show that the interaction between various contact material and environment as well as the physical and chemical processes, which occur as a result of the metal fracture, are associated primarily with the electrical activity of the real structure of the material arising as a result of mechanical action. The crucial role of formation and the crack growth is demonstrated as a factor of initiation and acceleration of various physical and chemical processes and phenomena occurred in the gap between the tool wedge and the crack tip, which lead to the hydrogen plasma formation. Based on the synthesis of investigations dedicated to various physicochemical phenomena occurring at the moment of a solid body failure, an attempt of consideration of the reduction of energy consumption during the metal cutting process in SLCA as a common result of mechanical and thermal effects. The recombination of hydrogen ion is an additional heat source in the ultramicroscopic areas directly in the region of overcoming the bonding between atoms of the treated metal. The proposed method of mechanoplasmic treatment of metal not only has a high efficiency, but also allows fabrication of the pieces having high operational durability.",
+		"ru": "Предложена модель превращения в зоне резания поверхностно-активного смазочно-охлаждающего технологического средства (СОТС) в радикально-активную водородную плазму. Такое явление особенно ярко выражено, когда в состав СОТС добавляется высокомолекулярное соединение определённого химического состава и концентрации. Поскольку цепь пиролитических превращений полимерной присадки к СОТС приводит к появлению водорода и углерода в атомарной и других активных формах, была выдвинута гипотеза об активном участии протонов в механохимическом процессе при металлообработке и одновременной перманентной карбонизации режущих кромок инструмента. Совокупность экспериментальных данных показывает, что различные контактные взаимодействия материала и среды, а также физико-химические процессы, происходящие в результате разрушения металла, связаны, в первую очередь, с электрически активной реальной структурой материала, возникающей вследствие механического воздействия. Показана решающая роль образования и роста трещины как фактора, инициирующего и ускоряющего различные физико-химические процессы и явления, протекающие в щели между клином инструмента и вершиной трещины, приводящие к образованию водородной плазмы. На основании обобщения исследований, посвящённых различным физико-химическим явлениям, возникающим в момент разрушения твёрдого тела, сделана попытка рассмотреть снижение энергозатрат на процесс резания металла в СОТС как результат совокупного механического и теплового воздействия. Дополнительным источником тепловыделения является рекомбинация иона водорода в ультрамикроскопических областях непосредственно в зоне преодоления сцепления между атомами обрабатываемого металла. Предложенный способ механоплазменной обработки металла не только имеет высокую эффективность, но и позволяет изготавливать изделия, обладающие повышенной эксплуатационной долговечностью."
+	},
+	"keywords": {
+		"ua": "деформація, руйнування, тріщина, активація, водень, протон, радикали, йонізація, плазма, дифузія",
+		"en": "deformation, fracture, crack, activation, hydrogen, proton, radicals, ionization, plasma, diffusion",
+		"ru": "деформация, разрушение, трещина, активация, водород, протон, радикалы, ионизация, плазма, диффузия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. І. Сошко", "en": "O. I. Soshko", "ru": "А. И. Сошко"},
+			"OID": [242]
+		},
+		{
+			"AID": {"ua": "В. О. Сошко", "en": "V. O. Soshko", "ru": "В. А. Сошко"},
+			"OID": [242]
+		}
+		],
+	"references": {
+		"count": 17,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "А. И. Сошко, В. А. Сошко, Смазочно-охлаждающие средства в механической обработке металла (Херсон: Олди-плюс: 2008).",
+				"tr":  "A. I. Soshko and V. A. Soshko, Smazochno-Okhlazhdayushchie Sredstva v Mekhanicheskoy Obrabotke Metalla [Refrigerants in Mechanical Treatment of Metal] (Kherson: Oldi-Plyus: 2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Сошко, А. И. Сошко, Механохимическая обработка металлов (Saarbrücken, Germany: Lambert Academic Publishing: 2015).",
+				"tr":  "V. A. Soshko and A. I. Soshko, Mekhanokhimicheskaya Obrabotka Metallov [Mechano-Chemical Treatment of Metals] (Saarbrücken, Germany: Lambert Academic Publishing: 2015) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.36.12.1701",
+				"or":  "В. А. Сошко, И. П. Симинченко, В. С. Ляшков, Металлофиз. новейшие технол., 36, № 12: 1701 (2014).",
+				"tr":  "V. O. Soshko, I. P. Siminchenko, and V. S. Lyashkov, Metallofiz. Noveishie Tekhnol., 36, No. 12: 1701 (2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Сошко, И. П. Симинченко, Физико-химическая механика материалов, № 2: 72 (2015).",
+				"tr":  "V. A. Soshko and I. P. Siminchenko, Fiziko-Khimicheskaya Mekhanika Materialov, No. 2: 72 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Занин, Д. П. Кирюхин, И. М. Баркалов, В. И. Гольданский, Письма в ЖЭТФ, 33, вып. 6: 336 (1981).",
+				"tr":  "A. M. Zanin, D. P. Kiryukhin, I. M. Barkalov, and V. I. Goldanskiy, Pisma v ZhETF, 33, Iss. 6: 336 (1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Дж. А. Армарего, Р. Х. Браун, Обработка металлов резанием (Москва: Машиностроение: 1977).",
+				"tr":  "I. J. A. Armarego and R. H. Braun, Obrabotka Metallov Rezaniem [Treatment of Metal by Cutting] (Moscow: Mashinostroenie: 1977) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. В. Новожилов, Волновые процессы в химической физике (Москва: Знание: 1986).",
+				"tr":  "B. V. Novozhilov, Volnovye Protsessy v Khimicheskoy Fizike [Wave Processes in Chemical Physics] (Moscow: Znanie: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Н. Семёнов, Развитие теории цепных реакций и теплового самовоспламенения (Москва: Знание: 1969).",
+				"tr":  "N. N. Semenov, Razvitie Teorii Tsepnykh Reaktsiy i Teplovogo Samovosplameneniya [Development of Theory of Chain Reactions and Thermal Autoignition] (Moscow: Znanie: 1969) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. С. Ахматов, Молекулярная физика граничного трения (Москва: ГИФМЛ: 1963).",
+				"tr":  "A. S. Akhmatov, Molekulyarnaya Fizika Granichnogo Treniya [Molecular Physics of Boundary Friction] (Moscow: GIFML: 1963) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. Н. Трофимов, Курс физики (Москва: Высшая школа: 2000).",
+				"tr":  "T. N. Trofimov, Kurs Fiziki [Physics Course] (Moscow: Vysshaya Shkola: 2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Алефельд, И. Фёлькль, Водород в металлах (Москва: Мир: 1981).",
+				"tr":  "G. Alefeld and J. Völkl, Vodorod v Metallakh [Hydrogen in Metals] (Moscow: Mir: 1981) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Финкель, Физика разрушения (Москва: Металлургия: 1970).",
+				"tr":  "V. M. Finkel’, Fizika Razrusheniya [Physics of Failure] (Moscow: Metallurgiya: 1970) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ф. Макклиток, А. Аргон, Деформация и разрушение материалов (Москва: Мир: 1970).",
+				"tr":  "F. Makklitok and A. Argon, Deformatsiya i Razrushenie Materialov [Deformation and Failure of Materials] (Moscow: Mir: 1970) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Подураев, Резание труднообрабатываемых материалов (Москва: Высшая школа: 1974).",
+				"tr":  "V. N. Poduraev, Rezanie Trudnoobrabatyvaemykh Materialov [Cutting of Hard Materials] (Moscow: Vysshaya Shkola: 1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Гриднев, Ю. Я. Мешков, С. П. Ошкадёров, В. И. Трефилов, Физические основы электротермического упрочнения стали (Киев: Наукова думка: 1973).",
+				"tr":  "V. N. Gridnev, Yu. Ya. Meshkov, S. P. Oshkaderov, and V. I. Trefilov, Fizicheskie Osnovy Elektrotermicheskogo Uprochneniya Stali [Basic Physics of Electroheat Hardening of Steel] (Kiev: Naukova Dumka: 1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Воробьев, Г. А. Воробьев, Электрический пробой и разрушение твёрдых диэлектриков (Москва: Высшая школа: 1966).",
+				"tr":  "A. A. Vorob’ev and G. A. Vorob’ev, Elektricheskiy Proboy i Razrushenie Tverdykh Dielektrikov [Electrical Breakdown and Failure of Solid Dielectrics] (Kiev: Vysshaya Shkola: 1966) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Шаповалов, Легирование водородом (Днепропетровск: Журфонд: 2013).",
+				"tr":  "V. I. Shapovalov, Legirovanie Vodorodom [Alloyage with Hydrogen] (Dnepropetrovsk: Zhurfond: 2013) (in Russian)."
+			}
+		]
+	}
+}

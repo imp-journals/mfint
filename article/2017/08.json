@@ -1,0 +1,157 @@
+{
+	"year":   2017,
+	"volume": 39,
+	"issue":  8,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [1005,1016],
+			"title": {
+				"ua": "Фізична природа резистивних перемикань у мезоскопічних контактах на основі складних оксидів перехідних металів",
+				"en": "The Physical Nature of Resistive Switchings in Mesoscopic Contacts Based on the Complex Oxides of the Transition Metals",
+				"ru": "Физическая природа резистивных переключений в мезоскопических контактах на основе сложных оксидов переходных металлов"
+			},
+			"autors": {
+				"ua": "А. П. Шаповалов, В. П. Блощицький, О. В. Горностаєва, М. В. Залуцький, О. А. Кордюк",
+				"en": "A. P. Shapovalov, V. P. Bloshchytskii, O. V. Gornostaeva, M. V. Zalutskii, and O. A. Kordyuk",
+				"ru": "А. П. Шаповалов, В. П. Блощицкий, О. В. Горностаева, М. В. Залуцкий, А. А. Кордюк"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [1017,1022],
+			"title": {
+				"ua": "Вплив адсорбованих атомів калію на енергетичний спектер графену",
+				"en": "Influence of the Adsorbed Atoms of Potassium on an Energy Spectrum of Graphene",
+				"ru": "Влияние адсорбированных атомов калия на энергетический спектр графена"
+			},
+			"autors": {
+				"ua": "С. П. Репецький, І. Г. Вишивана, С. П. Кручинін, В. Б. Молодкін, В. В. Лізунов",
+				"en": "S. P. Repetsky, I. G. Vyshyvana, S. P. Kruchinin, V. B. Molodkin, and V. V. Lizunov",
+				"ru": "С. П. Репецкий, И. Г. Вышиваная, С. П. Кручинин, В. Б. Молодкин, В. В. Лизунов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [1023,1033],
+			"title": {
+				"ua": "Електричні та магнетні властивості багатокомпонентних аморфних металевих композицій на основі заліза",
+				"en": "Electrical and Magnetic Properties of Multicomponent Amorphous Metal Compositions Based on Iron",
+				"ru": "Электрические и магнитные свойства многокомпонентных аморфных металлических композиций на основе железа"
+			},
+			"autors": {
+				"ua": "О. М. Герцик, Т. Г. Переверзєва, М. О. Ковбуз, Л. М. Бойчишин, В. К. Носенко, А. К. Борисюк",
+				"en": "O. M. Hertsyk, T. G. Pereverzeva, M. O. Kovbuz, L. M. Boichyshyn, V. K. Nosenko, and A. K. Borysiuk",
+				"ru": "О. М. Герцик, Т. Г. Переверзева, М. А. Ковбуз, Л. М. Бойчишин, В. К. Носенко, А. К. Борысюк"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  18,
+			"pages":  [1035,1049],
+			"title": {
+				"ua": "Дистанційна вихорострумова аналіза складу металевих об’єктів",
+				"en": "The Remote Eddy-Current Analysis of a Composition of Metal Objects",
+				"ru": "Дистанционный вихретоковый анализ состава металлических объектов"
+			},
+			"autors": {
+				"ua": "А. О. Абрамович, І. С. Каширський, В. О. Піддубний",
+				"en": "A. O. Abramovych, I. S. Kashirsky, and V. O. Piddubniy",
+				"ru": "А. А. Абрамович, И. С. Каширский, В. А. Поддубный"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [1051,1068],
+			"title": {
+				"ua": "Математичне моделювання кінетики розпаду переохолодженого аустеніту в леґованих сталях",
+				"en": "Mathematical Modelling of Kinetics of Decomposition of the Supercooled Austenite in Alloyed Steels",
+				"ru": "Математическое моделирование кинетики распада переохлаждённого аустенита в легированных сталях"
+			},
+			"autors": {
+				"ua": "В. В. Каверинський, А. І. Троцан, З. П. Сухенко",
+				"en": "V. V. Kaverynsky, A. I. Trotsan, and Z. P. Sukhenko",
+				"ru": "В. В. Каверинский, А. И. Троцан, З. П. Сухенко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [1069,1086],
+			"title": {
+				"ua": "Переохолодження при кристалізації тонких шарів стопу Bi + 7% мас. Sn, які знаходяться в контакті з кристалічною міддю",
+				"en": "Supercooling During a Crystallization of Thin Layers of the Bi + 7% wt. Sn Alloy Being Contact to Crystalline Copper",
+				"ru": "Переохлаждение при кристаллизации тонких слоёв сплава Bi + 7% масс. Sn, находящихся в контакте с кристаллической медью"
+			},
+			"autors": {
+				"ua": "С. В. Дукаров, С. І. Петрушенко, В. М. Сухов, Р. І. Бігун, З. В. Стасюк, Д. С. Леонов",
+				"en": "S. V. Dukarov, S. I. Petrushenko, V. M. Sukhov, R. I. Bihun, Z. V. Stasyuk, and D. S. Leonov",
+				"ru": "С. В. Дукаров, С. И. Петрушенко, В. Н. Сухов, Р. И. Бигун, З. В. Стасюк, Д. С. Леонов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [1087,1095],
+			"title": {
+				"ua": "Лазерне отоплення стопу на основі цирконію в різних газових середовищах",
+				"en": "Laser Fusion of an Zirconium-Based Alloy in Various Gaseous Mediums",
+				"ru": "Лазерное оплавление сплава на основе циркония в различных газовых средах"
+			},
+			"autors": {
+				"ua": "В. В. Гиржон, О. В. Смоляков, Т. А. Дмитренко",
+				"en": "V. V. Gіrzhon, O. V. Smolyakov, and T. A. Dmitrenko",
+				"ru": "В. В. Гиржон, А. В. Смоляков, Т. А. Дмитренко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1097,1117],
+			"title": {
+				"ua": "Особливості деформації, зміцнення та масоперенесення внаслідок УЗУО поверхні стопу Д16 різними бойками",
+				"en": "Features of Deformation, Hardening and Mass Transfer After Ultrasonic Impact Surface Treatment of an Aluminium Alloy D16 by Various Strikers",
+				"ru": "Особенности деформации, упрочнения и массопереноса в результате УЗУО поверхности сплава Д16 различными бойками"
+			},
+			"autors": {
+				"ua": "М. О. Васильєв, Б. М. Мордюк, С. І. Сидоренко, С. М. Волошко, А. П. Бурмак, Н. В. Франчік",
+				"en": "M. O. Vasylyev, B. M. Mordyuk, S. I. Sidorenko, S. M. Voloshko, A. P. Burmak, and N. V. Franchik",
+				"ru": "М. А. Васильев, Б. Н. Мордюк, С. И. Сидоренко, С. М. Волошко, А. П. Бурмак, Н. В. Франчик"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1119,1128],
+			"title": {
+				"ua": "Металографічні та механічні дослідження литого жароміцного стопу",
+				"en": "Metallographic and Mechanical Studies of a Cast Heat-Resisting Alloy",
+				"ru": "Металлографические и механические исследования литого жаропрочного сплава"
+			},
+			"autors": {
+				"ua": "М. Ешауі, А. Хаджі",
+				"en": "M. Aichaoui and A. Hadji",
+				"ru": "М. Эшауи, А. Хаджи"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1129,1148],
+			"title": {
+				"ua": "Деформаційно-індукована міжфазова взаємодія в еластично-пластично деформованих монокристалах Cd$_x$Hg$_{1-x}$Te",
+				"en": "Deformation-Induced Interfacial Interaction in Elastically-Plastically Deformed Single Crystals of Cd$_x$Hg$_{1-x}$Te",
+				"ru": "Деформационно-индуцированное межфазное взаимодействие в эластично-пластически деформированных монокристаллах Cd$_x$Hg$_{1-x}$Te"
+			},
+			"autors": {
+				"ua": "Б. П. Коман",
+				"en": "B. P. Koman",
+				"ru": "Б. П. Коман"
+			}
+		}
+	]
+}

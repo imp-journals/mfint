@@ -1,0 +1,114 @@
+{
+	"_id":    "MFiNT.36.02.0275",
+	"year":   2014,
+	"volume": 36,
+	"issue":  2,
+	"pages":  [275,286],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["12.07.2013", "12.02.2014"],
+	"PACS":   "52.80.Mg, 52.80.Qj, 52.80.Wq, 62.50.Ef, 83.80.Fg, 83.80.Nb",
+	"title":   {
+		"ua": "До питання про вдосконалення технології комплексного вилучення рідкісних та розсіяних металів електроімпульсним методом",
+		"en": "On Improvement of Technology of Complex Extraction of Rare and Trace Metals by Electropulse Method",
+		"ru": "К вопросу о совершенствовании технологии комплексного извлечения редких и рассеянных металлов электроимпульсным методом"
+	},
+	"abstract": {
+		"ua": "У статті розглядаються переваги електроімпульсної обробки техногенної сировини і руди в порівнянні з іншими механічними методами дроблення та подрібнення. Описано характеристики електроімпульсної технології, що уможливлює одержувати дисперсні продукти з заданими властивостями. Наведено схему дробильного вузла. Експериментально визначено оптимальні параметри електроімпульсної установки для ефективного дроблення та подрібнення проб з двох рудних родовищ Казахстану. Показано, що електроімпульсна обробка уможливила на стадії збагачення значно збільшити вміст міді в досліджуваних зразках.",
+		"en": "The advantages of electropulse technology for processing of technogenic raw materials and copper ore as compared with other mechanical methods of crushing and grinding are discussed. The characteristics of electrotechnology, which allows obtaining disperse products with the desired properties, are described. The diagram of the crushing unit is shown. The optimal parameters for efficient electroinstallation of crushing and grinding of samples from two ore deposits in Kazakhstan are experimentally determined. As shown, the electric pulse treatment allows increasing significantly the copper content of these samples, during the enrichment stage.",
+		"ru": "В статье рассматриваются преимущества электроимпульсной обработки техногенного сырья и руды по сравнению с другими механическими методами дробления и измельчения. Описаны характеристики электроимпульсной технологии, позволяющей получать дисперсные продукты с заданными свойствами. Приведена схема дробильного узла. Экспериментально определены оптимальные параметры электроимпульсной установки для эффективного дробления и измельчения проб из двух рудных месторождений Казахстана. Показано, что электроимпульсная обработка позволила на стадии обогащения значительно увеличить содержание меди в исследуемых образцах."
+	},
+	"keywords": {
+		"ua": "мідна руда, техногенна сировина, дроблення, ступінь подрібнення, дробильний вузол, електроімпульсна технологія",
+		"en": "copper ore, technogenic raw materials, crushing, grinding ratio, crushing unit, electropulse technology",
+		"ru": "медная руда, техногенное сырье, дробление, степень измельчения, дробильный узел, электроимпульсная технология"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Б. Р. Нусупбеков", "en": "B. R. Nusupbekov", "ru": "Б. Р. Нусупбеков"},
+			"OID": [425]
+		},
+		{
+			"AID": {"ua": "К. Кусаіинов", "en": "K. Kussaiynov", "ru": "К. Кусаиынов"},
+			"OID": [425]
+		},
+		{
+			"AID": {"ua": "С. Є. Сакіпова", "en": "S. E. Sakipova", "ru": "С. Е. Сакипова"},
+			"OID": [425]
+		},
+		{
+			"AID": {"ua": "А. К. Хасенов", "en": "А. K. Khassenov", "ru": "А. К. Хасенов"},
+			"OID": [425]
+		},
+		{
+			"AID": {"ua": "А. Ж. Бейсенбек", "en": "A. Zh. Beisenbek", "ru": "А. Ж. Бейсенбек"},
+			"OID": [425]
+		}
+	],
+	"references": {
+		"count": 12,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "О. М. Ивасишин, С. П. Ошкадеров, В. Б. Спиваковский, Г. В. Маковская, Л. С. Галецкий, Л. С. Коган, С. А. Крамаренко, Международная научно-практическая конференция «Современные экономические возможности развития и реализации сырьевой базы Украины и России в условиях глобализации рынка минерального сырья» (20–23 июня 2005 г., Киев), с. 130.",
+				"tr":  "O. M. Ivasishin, S. P. Oshkaderov, V. B. Spivakovskiy, G. V. Makovskaya, L. S. Galetskiy, L. S. Kogan, and S. A. Kramarenko, International Scientific and Practical Conference 'Sovremennye Ekonomicheskie Vozmozhnosti Razvitiya i Realizatsii Syr'evoy Bazy Ukrainy i Rossii v Usloviyakh Globalizatsii Rynka Mineral'nogo Syr'ya' (20–23 June, 2005, Kiev), p. 130 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Спиваковский, Н. В. Новиков, С. П. Ошкадеров, Пульсационный реактор, Патент Украины № 59062 (Опубл. 15.08.2003 г.).",
+				"tr":  "V. B. Spivakovskiy, N. V. Novikov, and S. P. Oshkaderov, Pul'satsionnyy Reaktor, Patent of Ukraine No. 59062 (Publ. 15.08.2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Грушко, Г. В. Маковская, В. Б. Спиваковский, С. П. Ошкадеров, В. Н. Уваров, А. П. Шпак, Способ переработки нефелинполевошпатных пород и отходов их производства, Патент Украины № 91483 (Опубл. 26.07.2010 г.).",
+				"tr":  "V. I. Grushko, G. V. Makovskaya, V. B. Spivakovskiy, S. P. Oshkaderov, V. N. Uvarov, and A. P. Shpak, Sposob Pererabotki Nefelinpolevoshpatnykh Porod i Otkhodov ikh Proizvodstva, Patent of Ukraine No. 91483 (Publ. 26.07.2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Перов, Дробление, измельчение и грохочение полезных ископаемых (Москва: Недра: 1990).",
+				"tr":  "V. A. Perov, Droblenie, Izmel'chenie i Grokhochenie Poleznykh Iskopaemykh (Moscow: Nedra: 1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Ф. Усов, Известия РАН. Энергетика, № 1: 54 (2001).",
+				"tr":  "A. F. Usov, Izvestiya RAN. Energetika, No. 1: 54 (2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Юткин, Электрогидравлический эффект и его применение в промышленности (Ленинград: Машиностроение: 1986).",
+				"tr":  "A. A. Yutkin, Elektrogidravlicheskiy Effekt i Ego Primenenie v Promyshlennosti (Leningrad: Mashinostroenie: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. А. Гулый, Оборудование и технические процессы с использованием электрогидравлического эффекта (Киев: Наукова думка: 1977).",
+				"tr":  "G. A. Gulyy, Oborudovanie i Tekhnicheskie Protsessy s Ispol'zovaniem Elektrogidravlicheskogo Effekta (Kiev: Naukova Dumka: 1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Малюшевский, Основы разрядно-импульсной технологии (Киев: Наукова думка: 1983).",
+				"tr":  "P. P. Malyushevskiy, Osnovy Razryadno-Impul'snoy Tekhnologii (Kiev: Naukova Dumka: 1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Кусаиынов, Б. Р. Нусупбеков, Разрушение материалов подводным электрическим взрывом (Караганда: Изд-во ТОО «Издатсервис»: 2010).",
+				"tr":  "K. Kusaiynov and B. R. Nusupbekov, Razrushenie Materialov Podvodnym Elektricheskim Vzryvom (Karaganda: Izdatelstvo TOO 'Izdatservis': 2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. В. Кривицкий, Динамика электровзрыва в жидкости (Киев: Наукова думка: 1986).",
+				"tr":  "E. V. Krivitskiy, Dinamika Elektrovzryva v Zhidkosti (Kiev: Naukova Dumka: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "B. R. Nusupbekov, A. K. Khassenov, and A. Zh. Beisebek, Eurasian Physical Technical Journal, 9, No. 2 (18): 34 (2012).",
+				"tr":  "B. R. Nusupbekov, A. K. Khassenov, and A. Zh. Beisebek, Eurasian Physical Technical Journal, 9, No. 2 (18): 34 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "B. R. Nusupbekov and A. K. Khassenov, European Researcher International Multidisciplinary Journal, 36, No. 12-1: 2118 (2012).",
+				"tr":  "B. R. Nusupbekov and A. K. Khassenov, European Researcher International Multidisciplinary Journal, 36, No. 12-1: 2118 (2012)."
+			}
+		]
+	}
+}

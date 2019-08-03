@@ -1,0 +1,106 @@
+{
+	"_id":    "MFiNT.38.09.1135",
+	"year":   2016,
+	"volume": 38,
+	"issue":  9,
+	"pages":  [1135,1144],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["10.06.2016","01.08.2016"],
+	"PACS":   "05.10.Gg, 64.60.an, 64.60.Cn, 64.60.Q-, 64.70.Nd, 66.30.Dn, 66.30.Pa, 68.35.Dv",
+	"title":   {
+		"ua": "Застосування стохастичного кінетичного середньопольового (SKMF) методу до впорядкування атомів заміщення в макро- та нанорозмірних ГЦК-ґратницях",
+		"en": "Application of a Stochastic Kinetic Mean Field (SKMF) Method to Ordering Substitutional Atoms in Macro- and Nanosize F.C.C. Lattices",
+		"ru": "Применение стохастического кинетического среднеполевого (SKMF) метода к упорядочению атомов замещения в макро- и наноразмерных ГЦК-решётках"
+	},
+	"abstract": {
+		"ua": "У роботі представлено застосування стохастичного кінетичного середньопольового (SKMF–Stochastic Kinetic Mean Field) методу до впорядкування стопів типу A$_{3}$B$_{1}$. Продемонстровано синергію впорядкування і сеґреґації в кубічних наночастинках бінарного стопу. Проведено моделювання впливу розмірного ефекту та залежности впорядкування бінарного стопу від дифузійної асиметрії. Показано залежність часу затримки впорядкування фази A$_{3}$B$_{1}$ від амплітуди шуму в методі SKMF і залежність параметру порядку від температури за відсутности шуму. Змодельовано процес розпаду з упорядкуванням фази A$_{3}$B$_{1}$ для метастабільного твердого розчину і вплив амплітуди шуму на нього.",
+		"en": "The paper presents the application of Stochastic Kinetic Mean Field (SKMF) method for ordering of A$_{3}$B$_{1}$-type alloys. The synergy of both ordering and segregation in binary-alloy cubic nanoparticles is demonstrated. A simulation of size and diffusion-asymmetry effects on the ordering of binary alloy is performed. The dependence of the time delay of A$_{3}$B$_{1}$ phase ordering on the noise amplitude in SKMF method and dependence of order parameter on temperature at the absence of noise are found. Decomposition of the metastable solid solution with precipitation of the ordered A$_{3}$B$_{1}$ phase is studied at various noise amplitudes.",
+		"ru": "В работе представлено применение стохастического кинетического среднеполевого (SKMF–Stochastic Kinetic Mean Field) метода к процессу упорядочения сплавов типа A$_{3}$B$_{1}$. Продемонстрирована синергия упорядочения и сегрегации в кубических наночастицах бинарного сплава. Проведено моделирование влияния размерного эффекта и зависимости упорядочения бинарного сплава от диффузионной асимметрии. Показана зависимость времени задержки упорядочения фазы A$_{3}$B$_{1}$ от амплитуды шума в методе SKMF и зависимость параметра порядка от температуры при отсутствии шума. Смоделирован процесс распада с упорядочением фазы A$_{3}$B$_{1}$ для метастабильного твёрдого раствора и влияние амплитуды шума на него."
+	},
+	"keywords": {
+		"ua": "дифузія, впорядкування, наносистема, середньопольовий метод, моделювання",
+		"en": "diffusion, ordering, nanosystem, mean field method, modelling",
+		"ru": "диффузия, упорядочение, наносистема, метод среднего поля, моделирование"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. М. Безпальчук", "en": "V. M. Bezpalchuk", "ru": "В. Н. Безпальчук"},
+			"OID": [214]
+		},
+		{
+			"AID": {"ua": "М. О. Пасічний", "en": "M. O. Pasichnyy", "ru": "Н. А. Пасичный"},
+			"OID": [214]
+		},
+		{
+			"AID": {"ua": "А. М. Гусак", "en": "A. M. Gusak", "ru": "А. М. Гусак"},
+			"OID": [214]
+		}
+	],
+	"references": {
+		"count": 12,
+		"list":  [
+			{
+				"doi": "10.1103/PhysRevB.41.2279",
+				"or":  "G. Martin, Phys. Rev. B, 41: 2279 (1990).",
+				"tr":  "G. Martin, Phys. Rev. B, 41: 2279 (1990)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.69.113407",
+				"or":  "Z. Erdélyi, G. L. Katona, and D. L. Beke, Phys. Rev. B, 69: 113407 (2004).",
+				"tr":  "Z. Erdélyi, G. L. Katona, and D. L. Beke, Phys. Rev. B, 69: 113407 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.68.092102",
+				"or":  "Z. Erdélyi and D. L. Beke, Phys. Rev. B, 68, Iss. 9: 092102 (2003).",
+				"tr":  "Z. Erdélyi and D. L. Beke, Phys. Rev. B, 68, Iss. 9: 092102 (2003)."
+			},
+			{
+				"doi": "10.1126/science.1104400",
+				"or":  "Z. Erdélyi, M. Sladecek, L.-M. Stadler, I. Zizak, G. A. Langer, M. Kis-Varga, D. L. Beke, and B. Sepiol, Science, 306, No. 5703: 1913 (2004).",
+				"tr":  "Z. Erdélyi, M. Sladecek, L.-M. Stadler, I. Zizak, G. A. Langer, M. Kis-Varga, D. L. Beke, and B. Sepiol, Science, 306, No. 5703: 1913 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.89.165901",
+				"or":  "Z. Erdélyi, I. Szabó, and D. Beke, Phys. Rev. Lett., 89: 165901 (2002).",
+				"tr":  "Z. Erdélyi, I. Szabó, and D. Beke, Phys. Rev. Lett., 89: 165901 (2002)."
+			},
+			{
+				"doi": "10.1063/1.2905334",
+				"or":  "Z. Z. Erdélyi, D. Beke, and A. Taranovskyy, Appl. Phys. Lett., 92, No. 13: 133110 (2008).",
+				"tr":  "Z. Z. Erdélyi, D. Beke, and A. Taranovskyy, Appl. Phys. Lett., 92, No. 13: 133110 (2008)."
+			},
+			{
+				"doi": "10.1080/14786435.2012.746793",
+				"or":  "N. Storozhuk, K. Sopiga, and A. Gusak, Philos. Magazine, 93: 1999 (2013).",
+				"tr":  "N. Storozhuk, K. Sopiga, and A. Gusak, Philos. Magazine, 93: 1999 (2013)."
+			},
+			{
+				"doi": "10.1016/j.cpc.2016.03.003",
+				"or":  "Z. Erdélyi, M. Pasichnyy, V. Bezpalchuk, J. J. Tomán, B. Gajdics, and A. M. Gusak, Computer Physics Communications, 204: 31 (2016).",
+				"tr":  "Z. Erdélyi, M. Pasichnyy, V. Bezpalchuk, J. J. Tomán, B. Gajdics, and A. M. Gusak, Computer Physics Communications, 204: 31 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "A. G. Khachaturyan, Theory of Structural Transformations in Solids (Newburyport: Dover Publications: 2013).",
+				"tr":  "A. G. Khachaturyan, Theory of Structural Transformations in Solids (Newburyport: Dover Publications: 2013)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(96)00180-2",
+				"or":  "Y. Wang and A. G. Khachaturyan, Acta Mater., 45: 759 (1997).",
+				"tr":  "Y. Wang and A. G. Khachaturyan, Acta Mater., 45: 759 (1997)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.38.541",
+				"or":  "Melvin Lax, Rev. Mod. Phys., 38: 541 (1966).",
+				"tr":  "Melvin Lax, Rev. Mod. Phys., 38: 541 (1966)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Smirnov, Molekulyarno-Kineticheskaya Teoriya Metallov [The Molecular-Kinetic Theory of Metals] (Moscow: Nauka: 1966) (in Russian).",
+				"tr":  "A. A. Smirnov, Molekulyarno-Kineticheskaya Teoriya Metallov [The Molecular-Kinetic Theory of Metals] (Moscow: Nauka: 1966) (in Russian)."
+			}
+		]
+	}
+}

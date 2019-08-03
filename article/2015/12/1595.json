@@ -1,0 +1,86 @@
+{
+	"_id":    "MFiNT.37.12.1595",
+	"year":   2015,
+	"volume": 37,
+	"issue":  12,
+	"pages":  [1595,1602],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["17.09.2015"],
+	"PACS":   "61.72.Hh, 61.72.Lk, 62.20.dj, 62.40.+i, 81.40.Gh, 81.40.Jj, 81.70.Bt",
+	"title":  {
+		"ua": "Еволюція дефектних підсистем в ауксетичному берилії в процесі деформації",
+		"en": "Evolution of Defect Subsystems During Microplastic Deformation of Auxetic Beryllium",
+		"ru": "Эволюция дефектных подсистем в ауксетическом бериллии в процессе деформации"
+	},
+	"abstract": {
+		"ua": "В роботі методою низькочастотного внутрішнього тертя досліджено еволюцію дефектних підсистем і внесок Пуассонових коефіцієнтів у процес мікропластичної деформації ауксетичного берилію зі зміною температури і амплітуди деформації. Математично змодельовано швидкості руху дефектів у берилії в різних температурних областях, які охоплюють ауксетичні і неауксетичні стани. У межах дислокаційно-дисклінаційного моделю оцінено відношення швидкостей руху дефектів $V/V_{0}$, параметри гальмування $В_{і}$ та енергії активації $E_{і}$ в берилії у широкому інтервалі температур. Показано, що теоретично оцінені величини добре збігаються з експериментально визначеними.",
+		"en": "In this article, the evolution of defect subsystems and the contribution of Poisson’s ratios in the process of microplastic deformation of auxetic beryllium with the change of temperature and strain amplitude are investigated by means of the method of low-frequency internal friction (LFIF). The velocities of defects in the beryllium are mathematically modelled in different temperature intervals, which include the auxetic and non-auxetic material states. The relations of motion rates of defects, $V/V_{0}$, parameters of slowing-down, $В_{і}$, and activation energies, $Е_{і}$ in beryllium are calculated within the scope of the dislocation—disclination model in a wide temperature range. As shown, theoretically evaluated values well agree with experimentally obtained ones.",
+		"ru": "В работе методом низкочастотного внутреннего трения исследованы эволюция дефектных подсистем и вклад коэффициентов Пуассона в процесс микропластической деформации ауксетического бериллия с изменением температуры и амплитуды деформации. Математически смоделированы скорости движения дефектов в бериллии в разных температурных областях, включающих ауксетические и неауксетические области. В рамках дислокационно-дисклинационной модели сделаны оценки отношения скоростей движения дефектов $V/V_{0}$, параметров торможения $В_{і}$ и энергий активации $E_{і}$ в бериллии в широком интервале температур. Показано, что теоретические оценки хорошо согласуются с экспериментально измеренными величинами."
+	},
+	"keywords": {
+		"ua": "низькочастотне внутрішнє тертя, амплітудно-температурні залежності, мікропластична деформація, швидкість руху дислокацій, ауксетичність, Пуассонів коефіцієнт",
+		"en": "low-frequency internal friction, amplitude and temperature dependences, microplastic deformation, velocity of dislocation, auxetic effect, Poisson’s ratio",
+		"ru": "низкочастотное внутреннее трение, амплитуднотемпературные зависимости, микропластическая деформация, скорость движения дислокации, ауксетичность, коэффициент Пуассона"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. Ю. Тащук", "en": "O. Yu. Tashchuk", "ru": "А. Ю. Тащук"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "М. К. Мишилюк", "en": "M. K. Myshylyuk", "ru": "Н. К. Мышилюк"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "М. Д. Раранський", "en": "A. V. Oliynych-Lysyuk", "ru": "Н. Д. Раранский"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "А. В. Олійнич-Лисюк", "en": "M. D. Rarans’ky", "ru": "А. В. Олейнич-Лысюк"},
+			"OID": [215]
+		}
+	],
+	"citation": "O. Yu. Tashchuk, M. K. Myshylyuk, A. V. Oliynych-Lysyuk, and M. D. Rarans’ky, Evolution of Defect Subsystems During Microplastic Deformation of Auxetic Beryllium, <i>Metallofiz. Noveishie Tekhnol.</i>, <b>37</b>, No. 12: 1595—1602 (2015) (in Ukrainian)",
+	"references": {
+		"count": 7,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "M. D. Raransky, V. N. Balazyuk, and M. M. Gunko, Fizyka i Khimiya Tverdogo Tila, 16, No. 1: 34 (2015) (in Ukrainian).",
+				"tr":  "M. D. Raransky, V. N. Balazyuk, and M. M. Gunko, Fizyka i Khimiya Tverdogo Tila, 16, No. 1: 34 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Bashmakov and T. S. Chikova, Plastifikatsiya i Uprochnenie Metallicheskikh Kristallov pri Mekhanicheskom Dvoynikovanii [Plasticization and Hardening of Metallic Crystals During Mechanical Twinning] (Minsk: UP ‘Tekhnoprint’: 2001) (in Russian).",
+				"tr":  "V. I. Bashmakov and T. S. Chikova, Plastifikatsiya i Uprochnenie Metallicheskikh Kristallov pri Mekhanicheskom Dvoynikovanii [Plasticization and Hardening of Metallic Crystals During Mechanical Twinning] (Minsk: UP 'Tekhnoprint': 2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. E. Panin, V. A. Likhachev, and Yu. V. Grinyaev, Strukturnye Urovni Deformatsii Tverdykh Tel [Structural Levels of Deformation of Solids] (Novosibirsk: Nauka. Sibirskoe otdelenie: 1986) (in Russian).",
+				"tr":  "V. E. Panin, V. A. Likhachev, and Yu. V. Grinyaev, Strukturnye Urovni Deformatsii Tverdykh Tel [Structural Levels of Deformation of Solids] (Novosibirsk: Nauka. Sibirskoe otdelenie: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "N. N. Novikov, Struktura i Strukturno-Chuvstvitel’nye Svoystva Real’nykh Kristallov [Structure and Structure-Sensitive Properties of Real Crystals] (Kiev: Vishcha Shkola: 1983) (in Russian).",
+				"tr":  "N. N. Novikov, Struktura i Strukturno-Chuvstvitel'nye Svoystva Real'nykh Kristallov [Structure and Structure-Sensitive Properties of Real Crystals] (Kiev: Vishcha Shkola: 1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. V. Olijnych-Lysyuk and M. D. Rarans’ky, Metallofiz. Noveishie Tekhnol., 28, No. 12: 1661 (2006) (in Ukrainian).",
+				"tr":  "A. V. Olijnych-Lysyuk and M. D. Rarans'ky, Metallofiz. Noveishie Tekhnol., 28, No. 12: 1661 (2006) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. S. Postnikov, Vnutrennee Trenie v Metallakh [Internal Friction in Metals] (Moscow: Nauka: 1974) (in Russian).",
+				"tr":  "V. S. Postnikov, Vnutrennee Trenie v Metallakh [Internal Friction in Metals] (Moscow: Nauka: 1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. V. Oleynich-Lysyuk and N. D. Raransky, Fizika Tverdogo Tela, 54: 417 (2012) (in Russian).",
+				"tr":  "A. V. Oleynich-Lysyuk and N. D. Raransky, Fizika Tverdogo Tela, 54: 417 (2012) (in Russian)."
+			}
+		]
+	}
+}

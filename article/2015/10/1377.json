@@ -1,0 +1,290 @@
+{
+	"_id":    "MFiNT.37.10.1377",
+	"year":   2015,
+	"volume": 37,
+	"issue":  10,
+	"pages":  [1377,1393],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["23.06.2015","07.07.2015"],
+	"PACS":   "68.55.Nq, 75.30.Gw, 75.47.Np, 75.60.Ej, 75.70.Ak, 81.15.-z, 81.40.Rs",
+	"title":  {
+			"ua": "Структурно-фазовий стан, магнеторезистивні та магнетні властивості плівок пермалою",
+			"en": "Structural—Phase State, Magnetoresistive and Magnetic Properties of Permalloy Films",
+			"ru": "Структурно-фазовое состояние, магниторезистивные и магнитные свойства плёнок пермаллоя"
+		},
+	"abstract": {
+		"ua": "Представлено експериментальні результати та літературні дані стосовно структурно-фазового стану, магнетотранспортних і магнетних властивостей плівок пермалою, одержаних різними методами. Проаналізовано вплив умов одержання на структурно-фазовий стан плівкових зразків. Показано, що в тонких плівках пермалою виявляється анізотропний магнетоопір, величина якого в середньому становить 3—4% за кімнатної температури. Одержано розмірні, концентраційні та температурні залежності анізотропного магнетоопору і коерцитивности.",
+		"en": "The experimental results and literature data on structure and phase state, magnetoresistive and magnetic properties of thin permalloy films prepared by different methods are presented. The analysis of fabrication-conditions’ influence on the structure and phase state of thin-film samples is performed. The anisotropic magnetoresistance with values of 3—4% at room temperature appears in thin permalloy films. The size, concentration and temperature dependences of anisotropic magnetoresistance and coercivity are obtained.",
+		"ru": "Представлены экспериментальные результаты и литературные данные, относящиеся к структурно-фазовому состоянию, магниторезистивным и магнитным свойствам плёнок пермаллоя, полученных различными методами. Проанализировано влияние условий получения на структурно-фазовое состояние плёночных образцов. Показано, что в тонких плёнках пермаллоя проявляется анизотропное магнитосопротивление, величина которого в среднем составляет 3—4% при комнатной температуре. Получены размерные, концентрационные и температурные зависимости анизотропного магнитосопротивления и коэрцитивности."
+	},
+	"keywords": {
+		"ua": "плівковий стоп, магнетоопір, магнетна анізотропія, коерцитивність, поле наситу",
+		"en": "film alloy, magnetoresistance, magnetic anisotropy, coercivity, saturation field",
+		"ru": "плёночный сплав, магнитосопротивление, магнитная анизотропия, коэрцитивность, поле насыщения"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Я. М. Литвиненко", "en": "Ia. M. Lytvynenko", "ru": "Я. Н. Литвиненко"},
+			"OID": [230]
+		},
+		{
+			"AID": {"ua": "І. М. Пазуха", "en": "I. M. Pazukha", "ru": "И. М. Пазуха"},
+			"OID": [208]
+		},
+		{
+			"AID": {"ua": "О. В. Пилипенко", "en": "O. V. Pylypenko", "ru": "А. В. Пилипенко"},
+			"OID": [208]
+		},
+		{
+			"AID": {"ua": "В. В. Бібик", "en": "V. V. Bibyk", "ru": "В. В. Бибык"},
+			"OID": [230]
+		}
+	],
+	"references": {
+		"count": 48,
+		"list":  [
+			{
+				"doi": "10.1016/S0304-8853(02)00934-4",
+				"or":  "J. A. Bas, J. A. Calero, and M. J. Dougan, J. Magn. Magn. Mater., 254–255: 391 (2003).",
+				"tr":  "J. A. Bas, J. A. Calero, and M. J. Dougan, J. Magn. Magn. Mater., 254–255: 391 (2003)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2008.04.079",
+				"or":  "P. Ripka, J. Magn. Magn. Mater., 320: 2466 (2008).",
+				"tr":  "P. Ripka, J. Magn. Magn. Mater., 320: 2466 (2008)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2006.03.003",
+				"or":  "A. Hamler, V. Gorican, B. Sustarsic, and A. Sirc, J. Magn. Magn. Mater., 304: e816 (2006).",
+				"tr":  "A. Hamler, V. Gorican, B. Sustarsic, and A. Sirc, J. Magn. Magn. Mater., 304: e816 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "R. C. O’Handley, Modern Magnetic Materials (New York: Wiley-Interscience: 2002).",
+				"tr":  "R. C. O'Handley, Modern Magnetic Materials (New York: Wiley-Interscience: 2002)."
+			},
+			{
+				"doi": "",
+				"or":  "B. D. Cullity and C. D. Graham, Introduction to Magnetic Materials (Hoboken: John Wiley and Sons, Inc.: 2009).",
+				"tr":  "B. D. Cullity and C. D. Graham, Introduction to Magnetic Materials (Hoboken: John Wiley and Sons, Inc.: 2009)."
+			},
+			{
+				"doi": "10.1063/1.3431384",
+				"or":  "G. Nahrwold, J. M. Scholtyssek, S. Motl-Ziegler, O. Albrecht, U. Merkt, and G. Meier, J. Appl. Phys., 108: 013907 (2010).",
+				"tr":  "G. Nahrwold, J. M. Scholtyssek, S. Motl-Ziegler, O. Albrecht, U. Merkt, and G. Meier, J. Appl. Phys., 108: 013907 (2010)."
+			},
+			{
+				"doi": "10.1126/science.1145799",
+				"or":  "S. S. P. Parkin, M. Hayashi, and L. Thomas, Science, 320: 190 (2008).",
+				"tr":  "S. S. P. Parkin, M. Hayashi, and L. Thomas, Science, 320: 190 (2008)."
+			},
+			{
+				"doi": "10.1063/1.369872",
+				"or":  "L. Kong, Q. Pan, B. Cui, M. Li, and Y. Chou, J. Appl. Phys., 85, No. 8: 5492 (1999).",
+				"tr":  "L. Kong, Q. Pan, B. Cui, M. Li, and Y. Chou, J. Appl. Phys., 85, No. 8: 5492 (1999)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2007.12.109",
+				"or":  "Y. Jiang, S. Yao, and W. Zhang, Thin Solid Films, 516: 3210 (2008).",
+				"tr":  "Y. Jiang, S. Yao, and W. Zhang, Thin Solid Films, 516: 3210 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "D. G. Rancourt, Phys. Canada, 45: 3 (1995).",
+				"tr":  "D. G. Rancourt, Phys. Canada, 45: 3 (1995)."
+			},
+			{
+				"doi": "10.1109/TMAG.2009.2032519",
+				"or":  "A. V. Svalov, I. R. Aseguinolaza, A. Garcia-Arribas, I. Orue, J. M. Barandiaran, J. Alonso, M. L. Fernández-Gubieda, and G. V. Kurlyandskaya, IEEE Trans. Magn., 46, No. 2: 333 (2010).",
+				"tr":  "A. V. Svalov, I. R. Aseguinolaza, A. Garcia-Arribas, I. Orue, J. M. Barandiaran, J. Alonso, M. L. Fernández-Gubieda, and G. V. Kurlyandskaya, IEEE Trans. Magn., 46, No. 2: 333 (2010)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2007.03.008",
+				"or":  "S. U. Jen, T. C. Wu, C. M. Wong, Y. T. Chen, and H. P. Chiang, Thin Solid Films, 515: 7382 (2007).",
+				"tr":  "S. U. Jen, T. C. Wu, C. M. Wong, Y. T. Chen, and H. P. Chiang, Thin Solid Films, 515: 7382 (2007)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2012.04.077",
+				"or":  "E. B. Park, S.-U. Jang, J.-H. Kim, and S.-J. Kwon, Thin Solid Films, 520: 5981 (2012).",
+				"tr":  "E. B. Park, S.-U. Jang, J.-H. Kim, and S.-J. Kwon, Thin Solid Films, 520: 5981 (2012)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2005.01.005",
+				"or":  "S. Ostanina, J. B. Stauntona, S. S. A. Razee, B. Ginatempoc, and E. Bruno, J. Magn. Magn. Mater., 295: 110 (2005).",
+				"tr":  "S. Ostanina, J. B. Stauntona, S. S. A. Razee, B. Ginatempoc, and E. Bruno, J. Magn. Magn. Mater., 295: 110 (2005)."
+			},
+			{
+				"doi": "10.1016/S0304-8853(00)00112-8",
+				"or":  "T. Waeckerle and H. Fraisse, J. Magn. Magn. Mater., 215–216: 184 (2000).",
+				"tr":  "T. Waeckerle and H. Fraisse, J. Magn. Magn. Mater., 215–216: 184 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Volmer and J. Neamtu, J. Optoelectr. Advanc. Mater., 9, No. 4: 1147 (2007).",
+				"tr":  "M. Volmer and J. Neamtu, J. Optoelectr. Advanc. Mater., 9, No. 4: 1147 (2007)."
+			},
+			{
+				"doi": "10.1116/1.1631295",
+				"or":  "Y. Sato, T. F. Johnson, S. Chiang, J. A. Giacomo, X. D. Zhu, D. P. Land, F. Nolting, and A. Scholl, J. Vac. Sci. Technol. A, 22, Iss. 1: 135 (2004).",
+				"tr":  "Y. Sato, T. F. Johnson, S. Chiang, J. A. Giacomo, X. D. Zhu, D. P. Land, F. Nolting, and A. Scholl, J. Vac. Sci. Technol. A, 22, Iss. 1: 135 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "К. В. Тищенко, І. Ю. Проценко, Металлофиз.. новейшие технол., 34, № 7: 907 (2012).",
+				"tr":  "K. V. Tyschenko and I. Yu. Protsenko, Metallofiz. Noveishie Tekhnol., 34, No. 7: 907 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Lorenz, A. Käufler, Y. Luo, M. Moske, and K. Samwer, arXiv:cond-mat/9902222 [cond-mat.mtrl-sci] (1999).",
+				"tr":  "T. Lorenz, A. Käufler, Y. Luo, M. Moske, and K. Samwer, arXiv:cond-mat/9902222 [cond-mat.mtrl-sci] (1999)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.654-656.2430",
+				"or":  "Y. Marita and I. I. Yaacob, Materials Science Forum, 654–656: 2430 (2010).",
+				"tr":  "Y. Marita and I. I. Yaacob, Materials Science Forum, 654–656: 2430 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "M. H. Demydenko, S. I. Protsenko, D. M. Kostyuk, and I. V. Cheshko, J. Nano- Electron. Phys., 3, No. 4: 106 (2011).",
+				"tr":  "M. H. Demydenko, S. I. Protsenko, D. M. Kostyuk, and I. V. Cheshko, J. Nano- Electron. Phys., 3, No. 4: 106 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "Диаграммы состояния двойных металлических систем: Справочник (Ред. Н. П. Лякишев) (Москва: Машиностроение: 1997), т. 2.",
+				"tr":  "Diagrammy Sostoyaniya Dvoynykh Metallicheskikh Sistem: Spravochnik (Ed. N. P. Lyakishev) (Moscow: Mashinostroenie: 1997), vol. 2 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Банных, П. Б. Будберг, С. П. Алисова, Диаграммы состояния двойных и многокомпонентных систем на основе железа (Москва: Металлургия: 1986).",
+				"tr":  "O. A. Bannykh, P. B. Budberg, and S. P. Alisova, Diagrammy Sostoyaniya Dvoinykh i Mnogokomponentnykh Sistem na Osnove Zheleza (Moscow: Metallurgiya: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Лобода, В. О. Кравченко, Ю. О. Шкурдода, С. М. Пирогова, Вісник СумДУ. Серія Фізика, математика, механіка, 8: 115 (2004).",
+				"tr":  "V. B. Loboda, V. O. Kravchenko, Yu. O. Shkurdoda, and S. M. Pirogova, Visnyk SumDU. Seriya Fizyka, Matematyka, Mekhanika, 8: 115 (2004) (in Ukrainian)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.475-479.3483",
+				"or":  "J. H. Seo, J. K. Kim, T. H. Yim, and Y. B. Park, Materials Science Forum, 475–479: 3483 (2005).",
+				"tr":  "J. H. Seo, J. K. Kim, T. H. Yim, and Y. B. Park, Materials Science Forum, 475–479: 3483 (2005)."
+			},
+			{
+				"doi": "10.1016/j.apt.2012.06.008",
+				"or":  "A. H. Bahrami, S. Sharafi, and H. Ahmadian Baghbaderani, Advanced Powder Technology, 24: 235 (2013).",
+				"tr":  "A. H. Bahrami, S. Sharafi, and H. Ahmadian Baghbaderani, Advanced Powder Technology, 24: 235 (2013)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2007.11.021",
+				"or":  "A. Guittoum, A. Layadi, A. Bourzami, H. Tafat, N. Souami, S. Boutarfaia, and D. Lacour, J. Magn. Magn. Mater., 320: 1385 (2008).",
+				"tr":  "A. Guittoum, A. Layadi, A. Bourzami, H. Tafat, N. Souami, S. Boutarfaia, and D. Lacour, J. Magn. Magn. Mater., 320: 1385 (2008)."
+			},
+			{
+				"doi": "10.3379/msjmag.1006R007",
+				"or":  "Y. Nukaga, M. Ohtake, and O. Yabuhara, J. Magn. Soc. Jpn., 34: 508 (2010).",
+				"tr":  "Y. Nukaga, M. Ohtake, and O. Yabuhara, J. Magn. Soc. Jpn., 34: 508 (2010)."
+			},
+			{
+				"doi": "10.1088/1742-6596/303/1/012015",
+				"or":  "M. Ohtake, T. Tanaka, K. Matsubara, F. Kirino, and M. Futamoto, J. Physics: Conference Series, 303: 012015 (2011).",
+				"tr":  "M. Ohtake, T. Tanaka, K. Matsubara, F. Kirino, and M. Futamoto, J. Physics: Conference Series, 303: 012015 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Бібик, Т. М. Гричановська, И. Ю. Проценко, Металлофиз. новейшие технол., 27: № 6: 775 (2005).",
+				"tr":  "V. V. Bibyk, T. M. Hrychanovs'ka, and I. Yu. Protsenko, Metallofiz. Noveishie Tekhnol., 27: No. 6: 775 (2005) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "З. М. Макуха, О. В. Сынашенко, Я. Н Литвиненко, Ю. М. Шабельник, И. Е. Проценко, Материалы международной научно-практической конференции «Перспективные инновации в науке, образовании, производстве и транспорте 2012» (19–30 июня 2012, Москва, Россия), т. 3, с. 64.",
+				"tr":  "Z. M. Makukha, O. V. Synashenko, Ya. N. Litvinenko, Yu. M. Shabel'nik, and I. E. Protsenko, Materialy Mezhdunarodnoy Nauchno-Prakticheskoy Konferentsii 'Perspektivnye Innovatsii v Nauke, Obrazovanii, Proizvodstve i Transporte 2012' (June 19–30, 2012, Moscow, Russia), vol. 3, p. 64 (in Russian)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/SSP.190.439",
+				"or":  "K. G. Patrin, V. Yu. Yakovchuk, G. S. Patrin, and S. A. Yarikov, Solid State Phenomena, 190: 439 (2012).",
+				"tr":  "K. G. Patrin, V. Yu. Yakovchuk, G. S. Patrin, and S. A. Yarikov, Solid State Phenomena, 190: 439 (2012)."
+			},
+			{
+				"doi": "10.1109/TMAG.1975.1058782",
+				"or":  "T. R. McGuire and R. I. Potter, IEEE Transact. Magn. Mag-11, No. 4: 1018 (1975).",
+				"tr":  "T. R. McGuire and R. I. Potter, IEEE Transact. Magn. Mag-11, No. 4: 1018 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "R. O’Handley, Modern Magnetic Materials (New York: Wiley and Sons: 2000).",
+				"tr":  "R. O'Handley, Modern Magnetic Materials (New York: Wiley and Sons: 2000)."
+			},
+			{
+				"doi": "10.1002/pssc.200777383",
+				"or":  "D. H. Kim, T.-J. Hwang, K.-S. Ryu, and S.-Ch. Shin, phys. status solidi (c), 5, No. 1: 405 (2008).",
+				"tr":  "D. H. Kim, T.-J. Hwang, K.-S. Ryu, and S.-Ch. Shin, phys. status solidi (c), 5, No. 1: 405 (2008)."
+			},
+			{
+				"doi": "10.1016/S0304-8853(99)00784-2",
+				"or":  "H. Nagura, K. Saito, K. Takanashi, and H. Fujimori, J. Magn. Magn. Mater., 212: 53 (2000).",
+				"tr":  "H. Nagura, K. Saito, K. Takanashi, and H. Fujimori, J. Magn. Magn. Mater., 212: 53 (2000)."
+			},
+			{
+				"doi": "10.1016/0304-8853(89)90232-1",
+				"or":  "T. Miyazaki, T. Ajima, and F. Sato, J. Magn. Magn. Mater., 81: 86 (1989).",
+				"tr":  "T. Miyazaki, T. Ajima, and F. Sato, J. Magn. Magn. Mater., 81: 86 (1989)."
+			},
+			{
+				"doi": "10.1149/1.1598964",
+				"or":  "I. Tabakovic, S. Riemer, V. Vas’ko, V. Sapozhnikov, and M. Kief, J. Electrochem. Soc., 150, Iss. 9: C635 (2003).",
+				"tr":  "I. Tabakovic, S. Riemer, V. Vas'ko, V. Sapozhnikov, and M. Kief, J. Electrochem. Soc., 150, Iss. 9: C635 (2003)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2010.02.008",
+				"or":  "J.-G. Choi, D.-G. Hwang, J.-R. Rhee, and S.-S. Lee, J. Magn. Magn. Mater., 322: 2191 (2010).",
+				"tr":  "J.-G. Choi, D.-G. Hwang, J.-R. Rhee, and S.-S. Lee, J. Magn. Magn. Mater., 322: 2191 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Т. Рощенко, А. Г. Равлик, И. Г. Шипкова, А. Ю. Золотарев, Физ. мет. металловед., 90, № 3: 58 (2000).",
+				"tr":  "S. T. Roshchenko, A. G. Ravlik, I. G. Shipkova, and A. Yu. Zolotarev, Fiz. Met. Metalloved., 90, No. 3: 58 (2000) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2006.02.205",
+				"or":  "D. Oleksakova, S. Roth, P. Kollar, and J. Fuzer, J. Magn. Magn. Mater., 304: e730 (2006).",
+				"tr":  "D. Oleksakova, S. Roth, P. Kollar, and J. Fuzer, J. Magn. Magn. Mater., 304: e730 (2006)."
+			},
+			{
+				"doi": "10.1007/s00339-012-7257-z",
+				"or":  "S. A. Nepijko, O. V. Pylypenko, L. V. Odnodvorets, E. Kisker, H. J. Elmers, and G. Schönhense, Appl. Phys. A, 111: 557 (2013).",
+				"tr":  "S. A. Nepijko, O. V. Pylypenko, L. V. Odnodvorets, E. Kisker, H. J. Elmers, and G. Schönhense, Appl. Phys. A, 111: 557 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. В. Киренский, Магнетизм (Москва: Изд. АН СССР: 1967).",
+				"tr":  "L. V. Kirenskiy, Magnetizm [Magnetism] (Moscow: Izd. AN SSSR: 1967) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Вонсовский, Магнетизм (Москва: Наука: 1971).",
+				"tr":  "S. V. Vonsovsky, Magnetizm [Magnetism] (Moscow: Nauka: 1971) (in Russian)."
+			},
+			{
+				"doi": "10.1002/pssc.201084182",
+				"or":  "C. Luo, L. Sun, Y. Zhang, H. B. Huang, M. Yang, Y. Zhai, J. Du, and H. R. Zhai, phys. status solidi (c), 9, Iss. 1: 81 (2012).",
+				"tr":  "C. Luo, L. Sun, Y. Zhang, H. B. Huang, M. Yang, Y. Zhai, J. Du, and H. R. Zhai, phys. status solidi (c), 9, Iss. 1: 81 (2012)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2006.11.018",
+				"or":  "O. Schneeweissa, B. Davida, and T. Zaka, J. Magn. Magn. Mater., 310: e858 (2007).",
+				"tr":  "O. Schneeweissa, B. Davida, and T. Zaka, J. Magn. Magn. Mater., 310: e858 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Electrical Engineering Handbook (Ed. R. C. Dorf) (Boca Raton, FL: CRC Press: 1993).",
+				"tr":  "Electrical Engineering Handbook (Ed. R. C. Dorf) (Boca Raton, FL: CRC Press: 1993)."
+			},
+			{
+				"doi": "",
+				"or":  "C. W. Chen, Magnetism and Metallurgy of Soft Magnetic Materials (Amsterdam: North-Holland Publishing Company: 1977).",
+				"tr":  "C. W. Chen, Magnetism and Metallurgy of Soft Magnetic Materials (Amsterdam: North-Holland Publishing Company: 1977)."
+			}
+		]
+	}
+}

@@ -1,0 +1,122 @@
+{
+	"_id":    "MFiNT.40.12.1637",
+	"year":   2018,
+	"volume": 40,
+	"issue":  12,
+	"pages":  [1637,1647],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["21.01.2018","19.09.2018"],
+	"PACS":   "61.72.Ff, 64.75.Op, 66.30.Lw, 81.05.Bx, 81.30.Fb, 81.40.Ef, 82.80.Pv",
+	"title":   {
+		"ua": "Дослідження впливу на модифікацію берилію в стопі Al–Si",
+		"en": "Research of the Influence on the Modification of Beryllium in Al–Si Alloy",
+		"ru": "Исследование влияния на модификацию бериллия в сплаве Al–Si"
+	},
+	"abstract": {
+		"ua": "Перед відливанням розтопленого металу виконується модифікування евтектичних і субевтектичних силумінів за допомогою Стронцію, який має обмежений 1–1,5 годинами тимчасовий ефект дії. Берилій використовується для продовження модифікувального ефекту. Метою експерименту є вивчення розподілу та впливу берилію в структурі на тимчасове подовження модифікувальної дії в стопах Al–Si у поєднанні зі стронційовим модифікатором. Берилій використовувався у вигляді ліґатурного стопу AlBe$_5$, а зразки виливалися за допомогою методи ґравітаційного лиття у попередньо нагріту металеву прес-форму. Хемічна аналіза проводилася за допомогою спектральної аналізи. Зразки оцінювали за допомогою конфокального мікроскопу. Розподіл елементів у мікроструктурі стопу AlSi$_7$Mg$_{0,3}$ з акцентом на розподілі Sr і Be як окремих структурних компонентів було досліджено за допомогою сканувального електронного мікроскопу з аналізатором ЕДС.",
+		"en": "Modification of molten metal is performed for the eutectic and subeutectic silumins prior to its casting by using strontium, which has a time-limited effect up to 1–1.5 hours. Beryllium is used in order to prolong the modifying effect. The aim of the experiment is to examine both the distribution and the effect of beryllium in the structure on the temporary extension of the modification in the Al–Si alloys in combination with strontium modifier. Beryllium is used as a master AlBe$_5$ alloy, and samples are cast by gravity casting in a preheated metal moulding. Chemical analysis is performed by means of spectral analysis. Specimens are evaluated by using a confocal microscope. The elements’ distribution in the AlSi$_7$Mg$_{0.3}$ alloy microstructure, with emphasis on the distribution of Sr and Be as the individual structural components, is investigated using a scanning electron microscope with EDS analyser.",
+		"ru": "Перед отливкой расплавленного металла выполняется модифицирование эвтектических и субэвтектических силуминов с помощью стронция, который имеет ограниченный 1–1,5 часами временный эффект воздействия. Бериллий используется для продления модифицирующего эффекта. Целью эксперимента является изучение распределения и влияния бериллия в структуре на временное продление модифицирующего воздействия в сплавах Al–Si в сочетании со стронциевым модификатором. Бериллий использовался в виде лигатурного сплава AlBe$_5$, а образцы отливали с помощью метода гравитационного литья в предварительно нагретую металлическую пресс-форму. Химический анализ проводился с помощью спектрального анализа. Образцы оценивались с помощью конфокального микроскопа. Распределение элементов в микроструктуре сплава AlSi$_7$Mg$_{0,3}$ с акцентом на распределении Sr и Be как отдельных структурных компонентов исследовалось с помощью сканирующего электронного микроскопа с анализатором ЭДС."
+	},
+	"keywords": {
+		"ua": "стоп AlSi$_7$Mg$_{0,3}$, модифікатор, берилій, стронцій, електронна мікроскопія, ЕДС-аналіза",
+		"en": "AlSi$_7$Mg$_{0.3}$ alloy, modifier, beryllium, strontium, electron microscopy, EDS analysis",
+		"ru": "сплав AlSi$_7$Mg$_{0,3}$, модификатор, бериллий, стронций, электронная микроскопия, ЭДС-анализ"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ірина Грень", "en": "Iryna Hren", "ru": "Ирина Грень"},
+			"OID": [540]
+		},
+		{
+			"AID": {"ua": "Штефан Міхна", "en": "Štefan Michna", "ru": "Штефан Михна"},
+			"OID": [540]
+		},
+		{
+			"AID": {"ua": "Людмила Дроздик", "en": "Liudmyla Drozdyk", "ru": "Людмила Дроздык"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "Яромир Цайз", "en": "Jaromír Cais", "ru": "Яромир Цаис"},
+			"OID": [540]
+		},
+		{
+			"AID": {"ua": "Ленка Міхнова", "en": "Lenka Michnová", "ru": "Ленка Михнова"},
+			"OID": [540]
+		},
+		{
+			"AID": {"ua": "Ярослава Свободова", "en": "Jaroslava Svobodova", "ru": "Ярослава Свободова"},
+			"OID": [540]
+		},
+		{
+			"AID": {"ua": "Любомир Годінар", "en": "Lubomír Hodinář", "ru": "Любомир Годинар"},
+			"OID": [540]
+		}
+	],
+	"references": {
+		"count": 12,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "D. Bolibruchova and E. Tillova, Cast Alloys Al–Si (ZU: EDIS: 2005).",
+				"tr":  "D. Bolibruchova and E. Tillova, Cast Alloys Al–Si (ZU: EDIS: 2005)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Michna, I. Lukas, V. Ochenachek, R. Koreny, J. Drapala, H. Schneider, and A. Mishkufova, Encyclopedia of Aluminum (Preshov: Adin: 2005).",
+				"tr":  "S. Michna, I. Lukas, V. Ochenachek, R. Koreny, J. Drapala, H. Schneider, and A. Mishkufova, Encyclopedia of Aluminum (Preshov: Adin: 2005)."
+			},
+			{
+				"doi": "",
+				"or":  "L. F. Mondolfo, Aluminium Alloys: Structure and Properties (London: Butterworths: 1979).",
+				"tr":  "L. F. Mondolfo, Aluminium Alloys: Structure and Properties (London: Butterworths: 1979)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Suchanek and K. Dusak, Impact of Cutting Conditions on Tool Wear, 16, No. 5: 33 (2011).",
+				"tr":  "D. Suchanek and K. Dusak, Impact of Cutting Conditions on Tool Wear, 16, No. 5: 33 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "Plachy, M. Nemec, and B. Bednar, Theory of Casting (Prague: CTU: 2002).",
+				"tr":  "Plachy, M. Nemec, and B. Bednar, Theory of Casting (Prague: CTU: 2002)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Michna and I. Nova, Technology and Processing of Metallic Materials (Preshov: Adin: 2008).",
+				"tr":  "S. Michna and I. Nova, Technology and Processing of Metallic Materials (Preshov: Adin: 2008)."
+			},
+			{
+				"doi": "10.1080/09534962.1995.11819187",
+				"or":  "U. Hideyuki et al., Cast Metals, 8, No. 1: 7 (1995).",
+				"tr":  "U. Hideyuki et al., Cast Metals, 8, No. 1: 7 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "N. Naprstkova, J. Cais, and J. Svobodova, Manufacturing Technology, 18: No. 4, 265 (2013).",
+				"tr":  "N. Naprstkova, J. Cais, and J. Svobodova, Manufacturing Technology, 18: No. 4, 265 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Weiss and J. Svobodova, Manufacturing Technology, 15, No. 6: 1048 (2015).",
+				"tr":  "V. Weiss and J. Svobodova, Manufacturing Technology, 15, No. 6: 1048 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "N. Naprstkova, J. Cais, and J. Svobodova, Manufacturing Technology, 13, No. 3: 380 (2013).",
+				"tr":  "N. Naprstkova, J. Cais, and J. Svobodova, Manufacturing Technology, 13, No. 3: 380 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "E. Tillova, M. Chalupova, L. Hurtalova, and E. Durinikova, Manufacturing Technology, 11, No. 11: 70 (2011).",
+				"tr":  "E. Tillova, M. Chalupova, L. Hurtalova, and E. Durinikova, Manufacturing Technology, 11, No. 11: 70 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Dugin and A. Popov, Manufacturing Technology, 13, No. 2: 169 (2013).",
+				"tr":  "A. Dugin and A. Popov, Manufacturing Technology, 13, No. 2: 169 (2013)."
+			}
+		]
+	}
+}

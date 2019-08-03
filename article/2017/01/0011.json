@@ -1,0 +1,183 @@
+{
+	"_id":    "MFiNT.39.01.0011",
+	"year":   2017,
+	"volume": 39,
+	"issue":  1,
+	"pages":  [11,32],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["22.03.2016"],
+	"PACS":   "61.72.Dd, 64.60.Cn, 75.50.Gg, 75.50.Tt, 75.75.Lf, 75.76.+j, 81.70.Pg",
+	"title":  {
+		"ua": "Фазові перетворення та магнітний стан у нанорозмірній металооксидній сполуці Sr$_{2}$FeMoO$_{6-\\delta}$",
+		"en": "Phase Transformations and Magnetic State in the Nanoscale Metal-Oxide Sr$_{2}$FeMoO$_{6-\\delta}$ Compounds",
+		"ru": "Фазовые превращения и магнитное состояние в наноразмерном металлооксидном соединении Sr$_{2}$FeMoO$_{6-\\delta}$"
+	},
+	"abstract": {
+		"ua": "Однофазні нанорозмірні порошки Sr$_{2}$FeMoO$_{6-\\delta}$ з різним ступенем $Р$ надструктурного впорядкування катіонів Fe$^{3+}$ і Mo$^{5+}$ було одержано цитрат-ґель-методою при pH = 4, 6, 9 ($Р$ = 65% для pH = 4, $Р$ = 51% для pH = 6 і $Р$ = 20% для pH = 9). Методами рентґенофазового, термоґравіметричного аналізів, атомно-силової, сканувальної електронної мікроскопії (АСМ, СЕМ) і динамічного розсіяння світла (ДРС-аналіз) вивчено послідовність фазових перетворень, встановлено температурні інтервали утворення і розчинення супутніх фаз SrMoO$_{4}$, SrCO$_{3}$ і Fe$_{3}$O$_{4}$. На підставі вивчення послідовностей фазових перетворень при кристалізації ферромолібдату стронцію цитрат-ґель-методою з pH = 4 вихідного розчину було відпрацьовано комбіновані режими синтезу однофазної сполуки Sr$_{2}$FeMoO$_{6-\\delta}$ із середнім розміром зерен у 50–120 нм і максимальним ($P$ = 88%) ступенем надструктурного впорядкування катіонів Феруму і Молібдену. Згідно з даними РФЕС-аналізу в одержаних порошках Sr$_{2}$FeMoO$_{6-\\delta}$ виявлено змішаний валентний стан катіонів Феруму і Молібдену, при якому зі збільшенням рН концентрація Fe$^{2+}$ зростає, а концентрація Fe$^{3+}$ зменшується. Згідно з даними температурних залежностей намагніченостей, одержаних у ZFC- і FC-режимах, у порошках феримагнетика Sr$_{2}$FeMoO$_{6-\\delta}$ знайдено нестабільний суперпарамагнетний стан при Т < 19 К. Виявлено, що зовнішнє магнетне поле, що перевищує значення магнетного поля анізотропії, стимулює перехід у нанорозмірних зернах з метастабільного суперпарамагнетного стану в стабільний суперпарамагнетний стан. При цьому в порошках при pH = 4 кількість нанорозмірних зерен більше, ніж при pH = 6 і 9, що зумовлює їхню велику намагніченість при Т = 4,2–19 К.",
+		"en": "The single-phase nanoscale Sr$_{2}$FeMoO$_{6-\\delta}$ powders with various degrees $P$ of superstructural ordering of Fe$^{3+}$ and Mo$^{5+}$ cations are obtained with the use of citrate-gel method at pH = 4, 6, 9 ($P$ = 65% for pH = 4, $P$ = 51% for pH = 6, and $P$ = 20% for pH = 9). The sequence of phase transformations is studied, the temperature ranges of formation and dissolution of associated phases of SrMoO$_{4}$, SrCO$_{3}$ and Fe$_{3}$O$_{4}$ are determined by the methods of X-ray diffraction, thermogravimetric analysis, atomic force microscopy (AFM) and scanning electron microscopy (SEM), and dynamic light scattering (DLS analysis). Due to studying the sequences of phase transitions during crystallization of strontium ferromolibdat by the citrate-gel method with pH = 4 of the initial solution, the mixed regimes of synthesis of a single-phase Sr$_{2}$FeMoO$_{6-\\delta}$ compound with an average grain size of 50–120 nm and with maximum ($P$ = 88%) degree of superstructural ordering of the Fe and Mo cations are developed. According to the method of X-ray photoelectron spectroscopy, in the obtained powders of Sr$_{2}$FeMoO$_{6-\\delta}$, it is found a mixed valence state of the Fe and Mo cations, in which the Fe$^{2+}$ concentration increases with pH, and the concentration of Fe$^{3+}$ decreases. According to the temperature dependences of magnetization measured in ZFC and FC regimes, in powders of Sr$_{2}$FeMoO$_{6-\\delta}$ ferrimagnetic, an unstable superparamagnetic state is determined at T < 19 K. As found, an external magnetic field exceeding the value of the magnetic anisotropy field stimulates the transition in nanosize grains from the metastable superparamagnetic state into a stable superparamagnetic state. Herewith, in the powders at pH = 4, the amount of nanoscale grains is greater than at pH = 6 and 9 that leads to their greater magnetization at T = 4.2–19 K.",
+		"ru": "Однофазные наноразмерные порошки Sr$_{2}$FeMoO$_{6-\\delta}$ с различной степенью $Р$ сверхструктурного упорядочения катионов Fe$^{3+}$ и Mo$^{5+}$ были получены цитрат-гель-методом при pH = 4, 6, 9 ($Р$ = 65% для pH = 4, $Р$ = 51% для pH = 6 и $Р$ = 20% для pH = 9). Методами рентгенофазового, термогравиметрического анализов, атомно-силовой, сканирующей электронной микроскопии (АСМ, СЭМ) и динамического рассеяния света (ДРС-анализ) изучена последовательность фазовых превращений, установлены температурные интервалы образования и растворения сопутствующих фаз SrMoO$_{4}$, SrCO$_{3}$ и Fe$_{3}$O$_{4}$. На основании изучения последовательностей фазовых превращений при кристаллизации ферромолибдата стронция цитрат-гель-методом с pH = 4 исходного раствора были отработаны комбинированные режимы синтеза однофазного соединения Sr$_{2}$FeMoO$_{6-\\delta}$ со средним размером зёрен 50–120 нм и максимальной ($P$ = 88%) степенью сверхструктурного упорядочения катионов железа и молибдена. Согласно данным РФЭС анализа в полученных порошках Sr$_{2}$FeMoO$_{6-\\delta}$ установлено смешанное валентное состояние катионов железа и молибдена, при котором с увеличением рН концентрация Fe$^{2+}$ растёт, а концентрация Fe$^{3+}$ уменьшается. Согласно данным температурных зависимостей намагниченностей, полученных в ZFC- и FC-режимах, в порошках ферримагнетика Sr$_{2}$FeMoO$_{6-\\delta}$ установлено нестабильное суперпарамагнитное состояние при Т < 19 К. Обнаружено, что внешнее магнитное поле, превышающее значения магнитного поля анизотропии, стимулирует переход в наноразмерных зёрнах из метастабильного суперпарамагнитного состояния в стабильное суперпарамагнитное состояние. При этом в порошках при pH = 4 количество наноразмерных зёрен больше, чем при pH = 6 и 9, что обусловливает их большую намагниченность при Т = 4,2–19 К."
+	},
+	"keywords": {
+		"ua": "ферромолібдат стронцію, надструктурне впорядкування катіонів, перерозподіл електронної густини, намагніченість, суперпарамагнетний стан, цитрат-ґель-метод",
+		"en": "strontium ferromolibdat, superstructural ordering of cations, electron density redistribution, magnetization, superparamagnetic state, citrate-gel method",
+		"ru": "ферромолибдат стронция, сверхструктурное упорядочение катионов, перераспределение электронной плотности, намагниченность, суперпарамагнитное состояние, цитрат-гель-метод"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. М. Крупа", "en": "M. M. Krupa", "ru": "Н. Н. Крупа"},
+			"OID": [7]
+		},
+		{
+			"AID": {"ua": "М. О. Каланда", "en": "M. A. Kalanda", "ru": "Н. А. Каланда"},
+			"OID": [512]
+		},
+		{
+			"AID": {"ua": "М. В. Ярмолич", "en": "M. V. Jarmolich", "ru": "М. В. Ярмолич"},
+			"OID": [512, 513]
+		},
+		{
+			"AID": {"ua": "С. Є. Дем’янов", "en": "S. E. Demyanov", "ru": "С. Е. Демьянов"},
+			"OID": [512]
+		},
+		{
+			"AID": {"ua": "М. В. Сілібін", "en": "M. V. Silibin", "ru": "М. В. Силибин"},
+			"OID": [513]
+		},
+		{
+			"AID": {"ua": "І. В. Шарай", "en": "I. V. Sharay", "ru": "И. В. Шарай"},
+			"OID": [7]
+		}
+		],
+	"references": {
+		"count": 25,
+		"list":  [
+			{
+				"doi": "10.3367/UFNe.0182.201203b.0263",
+				"or":  "N. V. Volkov, Physics Uspekhi, 55, No. 3: 250 (2012).",
+				"tr":  "N. V. Volkov, Physics Uspekhi, 55, No. 3: 250 (2012)."
+			},
+			{
+				"doi": "10.1002/pssr.201510272",
+				"or":  "I. Razdolski, R. R. Subkhangulov, D. G. Gheorghe, F. Bern, I. Vrejoiu, A. V. Kimel, A. Kirilyuk, M. Ziese, and T. Rasing, Phys. Status Solidi RRL, 9: 583 (2015).",
+				"tr":  "I. Razdolski, R. R. Subkhangulov, D. G. Gheorghe, F. Bern, I. Vrejoiu, A. V. Kimel, A. Kirilyuk, M. Ziese, and T. Rasing, Phys. Status Solidi RRL, 9: 583 (2015)."
+			},
+			{
+				"doi": "10.1088/0953-8984/19/50/506206",
+				"or":  "J. M. Michalik, J. M. De Teresa, J. Blasco, P. A. Algarabel, M. R. Ibarra, Cz. Kapusta, and U. Zeitler, J. Phys.: Condensed Matter, 19, No. 50: 506206 (2007).",
+				"tr":  "J. M. Michalik, J. M. De Teresa, J. Blasco, P. A. Algarabel, M. R. Ibarra, Cz. Kapusta, and U. Zeitler, J. Phys.: Condensed Matter, 19, No. 50: 506206 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.85.2549",
+				"or":  "D. D. Sarma, P. Mahadevan, T. Saha-Dasgupta, S. Ray, and A. Kumar, Phys. Rev. Lett., 85, No. 12: 2549 (2000).",
+				"tr":  "D. D. Sarma, P. Mahadevan, T. Saha-Dasgupta, S. Ray, and A. Kumar, Phys. Rev. Lett., 85, No. 12: 2549 (2000)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2004.04.097",
+				"or":  "Z. Klencsar, Z. Nemeth, A.Vertes, I. Kotsis, M. Nagy, A. Cziraki, C. Ulhaq-Bouillet, V. Pierron-Bohnes, K. Vad, S. Meszaros, and J. Hakl, J. Magn. Magn. Mater., 281: 115 (2004).",
+				"tr":  "Z. Klencsar, Z. Nemeth, A.Vertes, I. Kotsis, M. Nagy, A. Cziraki, C. Ulhaq-Bouillet, V. Pierron-Bohnes, K. Vad, S. Meszaros, and J. Hakl, J. Magn. Magn. Mater., 281: 115 (2004)."
+			},
+			{
+				"doi": "10.1111/j.1151-2916.2004.tb07730.x",
+				"or":  "J. Rager, A. Zipperle, A. Sharma, and J. L. MacManus-Driscoll, J. American Ceramic Society, 87: 1330 (2004).",
+				"tr":  "J. Rager, A. Zipperle, A. Sharma, and J. L. MacManus-Driscoll, J. American Ceramic Society, 87: 1330 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.66.113105",
+				"or":  "J.-S. Kang, J. H. Kim, A. Sekiyama, S. Kasai, S. Suga, S. W. Han, K. H. Kim, T. Muro, Y. Saitoh, C. Hwang, C. G. Olson, B. J. Park, B. W. Lee, J. H. Shim, J. H. Park, and B. I. Min, Phys. Rev. B, 66: 113105 (2002).",
+				"tr":  "J.-S. Kang, J. H. Kim, A. Sekiyama, S. Kasai, S. Suga, S. W. Han, K. H. Kim, T. Muro, Y. Saitoh, C. Hwang, C. G. Olson, B. J. Park, B. W. Lee, J. H. Shim, J. H. Park, and B. I. Min, Phys. Rev. B, 66: 113105 (2002)."
+			},
+			{
+				"doi": "10.1166/sam.2015.2134",
+				"or":  "N. A. Kalanda, L. V. Kovalev, J. C. Waerenborgh, M. R. Soares, M. L. Zheludkevich, M. V. Yarmolich, and N. A. Sobolev, Sci. Adv. Mater., 7, No. 3: 446 (2015).",
+				"tr":  "N. A. Kalanda, L. V. Kovalev, J. C. Waerenborgh, M. R. Soares, M. L. Zheludkevich, M. V. Yarmolich, and N. A. Sobolev, Sci. Adv. Mater., 7, No. 3: 446 (2015)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.73.094419",
+				"or":  "D. Topwal, D. D. Sarma, H. Kato, Y. Tokura, and M. Avignon, Phys. Rev. B, 73: 0944191 (2006).",
+				"tr":  "D. Topwal, D. D. Sarma, H. Kato, Y. Tokura, and M. Avignon, Phys. Rev. B, 73: 0944191 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "E. Hemery, Magnetic and Transport Studies of Strongly Correlated Perovskite Ceramics (Thesis … for the Degree of Doctor of Philosophy) (England: Victoria University of Wellington: 2007).",
+				"tr":  "E. Hemery, Magnetic and Transport Studies of Strongly Correlated Perovskite Ceramics (Thesis … for the Degree of Doctor of Philosophy) (England: Victoria University of Wellington: 2007)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2009.02.147",
+				"or":  "T. Suominen, J. Raittila, and P. Paturi, Thin Solid Films, 517, No. 20: 5793 (2009).",
+				"tr":  "T. Suominen, J. Raittila, and P. Paturi, Thin Solid Films, 517, No. 20: 5793 (2009)."
+			},
+			{
+				"doi": "10.1021/am5052125",
+				"or":  "L. V. Kovalev, M. V. Yarmolich, M. L. Petrova, J. Ustarroz, H. A. Terryn, N. A. Kalanda, and M. L. Zheludkevich, ACS Appl. Mater. Interfaces, 6, No. 21: 19201 (2014).",
+				"tr":  "L. V. Kovalev, M. V. Yarmolich, M. L. Petrova, J. Ustarroz, H. A. Terryn, N. A. Kalanda, and M. L. Zheludkevich, ACS Appl. Mater. Interfaces, 6, No. 21: 19201 (2014)."
+			},
+			{
+				"doi": "10.1016/S0927-796X(02)00136-5",
+				"or":  "S. J. Pearton, C. R. Abernathy, D. P. Norton, A. F. Hebard, Y. D. Park, L. A. Boatner, and J. D. Budai, Mater. Sci. Eng. R, 40, No. 4: 137 (2003).",
+				"tr":  "S. J. Pearton, C. R. Abernathy, D. P. Norton, A. F. Hebard, Y. D. Park, L. A. Boatner, and J. D. Budai, Mater. Sci. Eng. R, 40, No. 4: 137 (2003)."
+			},
+			{
+				"doi": "10.1016/j.ceramint.2014.03.142",
+				"or":  "M. Cernea, F. Vasiliu, C. Bartha, C. Plapcianu, and I. Mercioniu, Ceramics International Part A, 40, No. 8: 11601 (2014).",
+				"tr":  "M. Cernea, F. Vasiliu, C. Bartha, C. Plapcianu, and I. Mercioniu, Ceramics International Part A, 40, No. 8: 11601 (2014)."
+			},
+			{
+				"doi": "10.1016/j.jeurceramsoc.2013.03.026",
+				"or":  "M. Cernea, F. Vasiliu, C. Plapcianu, C. Bartha, I. Mercioniu, I. Pasuk, R. Lowndes, R. Trusca, G. V. Aldica, and L. Pintilie, J. Eur. Ceramic Society, 33, No. 9: 2483 (2013).",
+				"tr":  "M. Cernea, F. Vasiliu, C. Plapcianu, C. Bartha, I. Mercioniu, I. Pasuk, R. Lowndes, R. Trusca, G. V. Aldica, and L. Pintilie, J. Eur. Ceramic Society, 33, No. 9: 2483 (2013)."
+			},
+			{
+				"doi": "10.1002/crat.201000213",
+				"or":  "N. Kalanda, S. Demyanov, W. Masselink, A. Mogilatenko, M. Chashnikova, N. Sobolev, and O. Fedosenko, Cryst. Res. Technol., 46, No. 5: 463 (2011).",
+				"tr":  "N. Kalanda, S. Demyanov, W. Masselink, A. Mogilatenko, M. Chashnikova, N. Sobolev, and O. Fedosenko, Cryst. Res. Technol., 46, No. 5: 463 (2011)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2008.06.100",
+				"or":  "B. Jurca, J. Berthon, N. Dragoe, and P. Berthet, J. Alloys Compd., 474, Nos. 1–2: 416 (2009).",
+				"tr":  "B. Jurca, J. Berthon, N. Dragoe, and P. Berthet, J. Alloys Compd., 474, Nos. 1–2: 416 (2009)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.636-637.338",
+				"or":  "M. Kalanda, G. Suchaneck, A. M. Saad, S. Demyanov, and G. Gerlach, Mater. Sci. Forum, 636–637: 338 (2010).",
+				"tr":  "M. Kalanda, G. Suchaneck, A. M. Saad, S. Demyanov, and G. Gerlach, Mater. Sci. Forum, 636–637: 338 (2010)."
+			},
+			{
+				"doi": "10.1021/cm030409y",
+				"or":  "T. Shimada, J. Nakamura, T. Motohashi, H. Yamauchi, and M. Karppinen, Chemistry of Materials, 15, No. 23: 4494 (2003).",
+				"tr":  "T. Shimada, J. Nakamura, T. Motohashi, H. Yamauchi, and M. Karppinen, Chemistry of Materials, 15, No. 23: 4494 (2003)."
+			},
+			{
+				"doi": "10.1016/j.jpcs.2006.03.009",
+				"or":  "J. Raittila, T. Salminen, T. Suominen, K. Schlesier, and P. Paturi, J. Phys Chemistry of Solids, 678: 1712 (2006).",
+				"tr":  "J. Raittila, T. Salminen, T. Suominen, K. Schlesier, and P. Paturi, J. Phys Chemistry of Solids, 678: 1712 (2006)."
+			},
+			{
+				"doi": "10.1063/1.3264720",
+				"or":  "A. Poddar, R. N. Bhowmik, I. P. Muthuselvam,·and N. Das, J. Appl. Phys., 106: 113909 (2009).",
+				"tr":  "A. Poddar, R. N. Bhowmik, I. P. Muthuselvam,·and N. Das, J. Appl. Phys., 106: 113909 (2009)."
+			},
+			{
+				"doi": "10.1016/j.jssc.2014.01.001",
+				"or":  "L. Harnagea, B. Jurca, and P. Berthet, J. Solid State Chemistry, 211: 219 (2014).",
+				"tr":  "L. Harnagea, B. Jurca, and P. Berthet, J. Solid State Chemistry, 211: 219 (2014)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2006.07.016",
+				"or":  "T. Suominen, J. Raittila, T. Salminen, K. Schlesier, J. Lindén, and P. Paturi, J. Mag. Mag. Mater., 309, No. 2: 284 (2007).",
+				"tr":  "T. Suominen, J. Raittila, T. Salminen, K. Schlesier, J. Lindén, and P. Paturi, J. Mag. Mag. Mater., 309, No. 2: 284 (2007)."
+			},
+			{
+				"doi": "10.1016/j.apcatb.2004.05.004",
+				"or":  "H. Falcón, J. A. Barbero, G. Araujo, M. T. Casais, M. J. Martınez-Lope, J. A. Alonso, and J. L. G Fierro, Applied Catalysis B: Environmental, 53, No. 1: 37 (2004).",
+				"tr":  "H. Falcón, J. A. Barbero, G. Araujo, M. T. Casais, M. J. Martınez-Lope, J. A. Alonso, and J. L. G Fierro, Applied Catalysis B: Environmental, 53, No. 1: 37 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Handbook of X-Ray Photoelectron Spectroscopy (Eds. C. D. Wagner, W. M. Riggs, L. E. Davies, J. F. Moulder, and G. E. Muilenberg) (Flying Cloud, MN: Perkin-Elmer Corp.: 1979), p. 74.",
+				"tr":  "Handbook of X-Ray Photoelectron Spectroscopy (Eds. C. D. Wagner, W. M. Riggs, L. E. Davies, J. F. Moulder, and G. E. Muilenberg) (Flying Cloud, MN: Perkin-Elmer Corp.: 1979), p. 74."
+			}
+		]
+	}
+}

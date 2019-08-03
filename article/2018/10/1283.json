@@ -1,0 +1,461 @@
+{
+	"_id":    "MFiNT.40.10.1283",
+	"year":   2018,
+	"volume": 40,
+	"issue":  10,
+	"pages":  [1283,1348],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["05.06.2018"],
+	"PACS":   "47.63.mh,47.65.Cb,75.50.Mm,75.75.-c,81.07.-b,81.20.Fw,83.60.Np,87.85.Qr",
+	"title":   {
+		"ua": "Магнетні властивості рідин на основі поліфункціональних нанокомпозитів типу суперпарамагнетне ядро–багаторівнева оболонка",
+		"en": "Magnetic Properties of Fluids Based on Polyfunctional Nanocomposites of Superparamagnetic Core–Multilevel Shell Type",
+		"ru": "Магнитные свойства жидкостей на основе полифункциональных нанокомпозитов типа суперпарамагнитное ядро–многоуровневая оболочка"
+	},
+	"abstract": {
+		"ua": "Наведено огляд робіт, присвячених вивченню властивостей і застосуванню нових магнетних рідин, що містять нанокомпозити типу суперпарамагнетне ядро–багаторівнева оболонка та характеризуються функціями медико-біологічних нанороботів. Тематику досліджень спрямовано на створення новітніх медичних тераностичних засобів для адресної доставки та локальної комплексної терапії, в першу чергу, для потреб онкології. Синтезовані магнетні рідини та наведені підходи до їх магнетної діягностики використано при створенні нового вітчизняного онкологічного лікарського засобу «Фероплат», який не має аналогів у світі, являє собою кон’югат наночастинок магнетної рідини з цисплатином, є стандартизованим засобом для підвищення ефективности хеміотерапії та подолання медикаментозної резистентности злоякісних новоутворень, призначений для доставки цитостатика безпосередньо до пухлинної тканини, що забезпечує максимальне надходження його у клітини та сприяє підвищенню терапевтичного ефекту. Одержані результати розвивають фізико-хемічні основи розробки нових типів векторних систем протипухлинних препаратів на основі магнетних рідин і використано як методу оптимізації, стандартизації та контролю їхніх параметрів у процесі виробництва. Крім того, результати роботи можуть бути корисними в розробках нових магнетокерованих сорбційних матеріялів технічного, технологічного, екологічного та медико-біологічного призначення, медичних тест-систем тощо.",
+		"en": "The review of works concerning a study of properties and application of new magnetic fluids containing nanocomposites of ‘superparamagnetic core– multilevel shell’ type and characterized by functionalities of biomedical nanorobots is presented. The themes of investigations are aimed at creation of novel medical theranostic remedies for targeted delivery and local complex therapy, urgently for oncology needs. The synthesized magnetic fluids and the given approaches for their magnetic diagnostics are used in creation of new native oncologic medical remedy ‘Feroplat’ that has no analogues in the world, being a conjugate of nanoparticles of magnetic fluid with cisplatin, is the standardized remedy for increase in effectiveness of chemotherapy and overcoming of medicament resistance of malignant neoplasms, prescribed for delivery of cytostatic agent immediately into tumour tissue, which ensures its maximal coming in cells and promotes increase in therapeutic effect. The obtained results develop physicochemical fundamentals for elaboration of the new-type vector systems of antitumorigenesis remedies based on magnetic fluids and are used as the method for optimization, standardization, and control of their parameters in the fabrication process. Besides, results of the work may be useful in development of new magnetocarried sorption materials for technical, technological, ecologic, and biomedical destination, medical test-systems and so on.",
+		"ru": "Приведён обзор работ, посвящённых изучению свойств и применению новых магнитных жидкостей, содержащих нанокомпозиты типа суперпарамагнитное ядро–многоуровневая оболочка и обладающих функциями медико-биологических нанороботов. Тематика исследований направлена на создание новейших медицинских тераностических средств для адресной доставки и локальной комплексной терапии, предназначенных, главным образом, для потребностей онкологии. Синтезированные магнитные жидкости и приведённые подходы к их магнитной диагностике использованы при создании нового отечественного онкологического лекарственного средства «Фероплат», который не имеет аналогов в мире, представляет собой конъюгат наночастиц магнитной жидкости с цисплатином, является стандартизированным средством для повышения эффективности химиотерапии и преодоления медикаментозной резистентности злокачественных новообразований, предназначен для доставки цитостатика непосредственно в опухолевую ткань, что обеспечивает максимальное поступление его в клетки и способствует повышению терапевтического эффекта. Полученные результаты развивают физико-химические основы разработки новых типов векторных систем противоопухолевых препаратов на основе магнитных жидкостей и использованы как метод оптимизации, стандартизации и контроля их параметров в процессе производства. Êроме этого, результаты работы могут быть полезны при разработке новых магнитоуправляемых сорбционных материалов технического, технологического, экологического и медико-биологического предназначения, медицинских тест-систем и т.п."
+	},
+	"keywords": {
+		"ua": "магнетні рідини, нанокомпозити, суперпарамагнетне ядро, багаторівнева оболонка, синтеза, діягностика, оптимізація, застосування",
+		"en": "magnetic fluids, nanocomposites, superparamagnetic core, multilevel shell, synthesis, diagnostics, optimization, application",
+		"ru": "магнитные жидкости, нанокомпозиты, суперпарамагнитное ядро, многоуровневая оболочка, синтез, диагностика, оптимизация, применение"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. В. Абрамов", "en": "M. V. Abramov", "ru": "Н. В. Абрамов"},
+			"OID": [21]
+		},
+		{
+			"AID": {"ua": "С. П. Туранська", "en": "S. P. Turanska", "ru": "С. П. Туранская"},
+			"OID": [21]
+		},
+		{
+			"AID": {"ua": "П. П. Горбик", "en": "P. P. Gorbyk", "ru": "П. П. Горбик"},
+			"OID": [21,202]
+		}
+	],
+	"references": {
+		"count": 83,
+		"list":  [
+			{
+				"doi": "10.15407/mfint.38.01.0001",
+				"or":  "О. М. Івасишин, Є. Г. Лень, В. М. Надутов, В. А. Татаренко, Металлофиз. новейшие технол., 38, № 1: 1 (2016).",
+				"tr":  "O. M. Ivasishin, E. G. Len, V. M. Nadutov, and V. A. Tatarenko, Metallofiz. Noveishie Tekhnol., 38, No. 1: 1 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/ufm.11.01.095",
+				"or":  "І. Ю. Сагалянов, Ю. І. Прилуцький, Т. М. Радченко, В. А. Татаренко, Успехи физики металлов, 11, № 1: 95 (2010).",
+				"tr":  "I. Yu. Sagalyanov, Yu. I. Prylutskyy, T. M. Radchenko, and V. A. Tatarenko, Uspehi Fiziki Metallov, 11, No. 1: 95 (2010) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/ufm.09.01.001",
+				"or":  "Т. М. Радченко, В. А. Татаренко, Успехи физики металлов, 9, № 1: 1 (2008).",
+				"tr":  "T. M. Radchenko and V. A. Tatarenko, Uspehi Fiziki Metallov, 9, No. 1: 1 (2008) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/ufm.18.01.059",
+				"or":  "П. П. Горбик, М. В. Абрамов, І. В. Дубровін, С. М. Махно, С. П. Туранська, Успехи физики металлов, 18, № 1: 59 (2017).",
+				"tr":  "P. P. Gorbyk, M. V. Abramov, I. V. Dubrovin, S. M. Makhno, and S. P. Turanska, Uspehi Fiziki Metallov, 18, No. 1: 59 (2017) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Физико-химия наноматериалов и супрамолекулярных структур. Т. 1 (Ред. А. П. Шпак, П. П. Горбик) (Киев: Наукова думка: 2007).",
+				"tr":  "Fiziko-Khimiya Nanomaterialov i Supramolekulyarnykh Struktur [Physics Chemistry of Nanomaterials and Supramolecular Structures] (Eds. A. P. Shpak and P. P. Gorbyk) (Kyiv: Naukova Dumka: 2007), vol. 1 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Nanomaterials and Supramolecular Structures. Physics, Chemistry, and Applications (Eds. A. P. Shpak and P. P. Gorbyk) (Netherlands: Springer: 2009).",
+				"tr":  "Nanomaterials and Supramolecular Structures. Physics, Chemistry, and Applications (Eds. A. P. Shpak and P. P. Gorbyk) (Netherlands: Springer: 2009)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, В. В. Туров, Наноматериалы и нанокомпозиты в медицине, биологии, экологии (Ред. А. П. Шпак, В. Ф. Чехун) (Киев: Наукова думка: 2011).",
+				"tr":  "P. P. Gorbyk and V. V. Turov, Nanomaterialy i Nanokompozity v Meditsine, Biologii, Ekologii [Nanomaterials and Nanocomposites in Medicine, Biology, Ecology] (Eds. A. P. Shpak and V. F. Chekhun) (Kyiv: Naukova Dumka: 2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, В. Ф. Чехун, А. П. Шпак, Наноструктурные материалы — получение, свойства, применение (Минск: Беларуская навука: 2009), с. 131.",
+				"tr":  "P. P. Gorbyk, V. F. Chekhun, and A. P. Shpak, Nanostrukturnye Materialy: Poluchenie, Svoistva, Primenenie [Nanostructured Materials—Synthesis, Properties, Application] (Minsk: Belaruskaya Navuka: 2009), p. 131 (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.40.04.0423",
+				"or":  "М. В. Абрамов, С. П. Туранська, П. П. Горбик, Металлофиз. новейшие технол., 40, № 4: 423 (2018).",
+				"tr":  "M. V. Abramov, S. P. Turanska, and P. P. Gorbyk, Metallofiz. Noveishie Tekhnol., 40, No. 4: 423 (2018) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, С. В. Горобець, М. П. Турелик, В. Ф. Чехун, А. П. Шпак, Біофункціоналізація наноматеріалів і нанокомпозитів: Навч. посібник (Київ: Наукова думка: 2011).",
+				"tr":  "P. P. Gorbyk, S. V. Gorobets, M. P. Turelyk, V. F. Chekhun, and A. P. Shpak, Biofunktsionalizatsiya Nanomaterialiv i Nanokomposytiv: Navch. Posib. [Biofunctionalization of Nanomaterials and Nanocomposites: Educational Book] (Kyiv: Naukova Dumka: 2011) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "P. P. Gorbyk, A. L. Petranovska, M. P. Turelyk, N. V. Abramov, V. F. Chekhun, and N. Yu. Lukyanova, Chem. Phys. Tech. Surf., 1, No. 3: 360 (2010).",
+				"tr":  "P. P. Gorbyk, A. L. Petranovska, M. P. Turelyk, N. V. Abramov, V. F. Chekhun, and N. Yu. Lukyanova, Chem. Phys. Tech. Surf., 1, No. 3: 360 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "P. P. Gorbyk and V. F. Chekhun, Functional Materials, 19, No. 2: 145 (2012).",
+				"tr":  "P. P. Gorbyk and V. F. Chekhun, Functional Materials, 19, No. 2: 145 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, Наносистеми, наноматеріали, нанотехнології, 11, № 2: 323 (2013).",
+				"tr":  "P. P. Gorbyk, Nanosistemi, Nanomateriali, Nanotehnologii, 11, No. 2: 323 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "P. P. Gorbyk, L. B. Lerman, A. L. Petranovska, and S. P. Turanska, Advances in Semiconductor Research: Physics of Nanosystems, Spintronics and Technological Applications (Eds. D. P. Adorno and S. Pokutnyi) (New York: Nova Science Publishers: 2014), p. 161.",
+				"tr":  "P. P. Gorbyk, L. B. Lerman, A. L. Petranovska, and S. P. Turanska, Advances in Semiconductor Research: Physics of Nanosystems, Spintronics and Technological Applications (Eds. D. P. Adorno and S. Pokutnyi) (New York: Nova Science Publishers: 2014), p. 161."
+			},
+			{
+				"doi": "10.1016/B978-0-323-41533-0.00010-6",
+				"or":  "P. P. Gorbyk, L. B. Lerman, A. L. Petranovska, S. P. Turanska, and Ie. V. Pylypchuk, Fabrication and Self-Assembly of Nanobiomaterials, Applications of Nanobiomaterials (Ed. A. Grumezescu) (Elsevier: 2016), p. 289.",
+				"tr":  "P. P. Gorbyk, L. B. Lerman, A. L. Petranovska, S. P. Turanska, and Ie. V. Pylypchuk, Fabrication and Self-Assembly of Nanobiomaterials, Applications of Nanobiomaterials (Ed. A. Grumezescu) (Elsevier: 2016), p. 289."
+			},
+			{
+				"doi": "",
+				"or":  "M. V. Abramov, A. P. Kusyak, O. M. Kaminskiy, S. P. Turanska, A. L. Petranovska, N. V. Kusyak, and P. P. Gorbyk, Horizons in World Physics (Ed. A. Reimer) (New York: Nova Science Publishers: 2017), p. 1.",
+				"tr":  "M. V. Abramov, A. P. Kusyak, O. M. Kaminskiy, S. P. Turanska, A. L. Petranovska, N. V. Kusyak, and P. P. Gorbyk, Horizons in World Physics (Ed. A. Reimer) (New York: Nova Science Publishers: 2017), p. 1."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, А. Л. Петрановская, М. П. Турелик, Н. В. Абрамов, С. П. Туранская, Е. В. Пилипчук, В. Ф. Чехун, Н. Ю. Лукьянова, А. П. Шпак, А. М. Кордубан, Химия, физика и технология поверхности, 2, № 4: 433 (2011).",
+				"tr":  "P. P. Gorbyk, A. L. Petranovska, M. P. Turelyk, N. V. Abramov, S. P. Turanska, Ie. V. Pylypchuk, V. F. Chekhun, N. Yu. Lukyanova, A. P. Shpak, and A. M. Korduban, Khimiya, Fizika i Tekhnologiya Poverkhnosti, 2, No. 4: 433 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Горбик, С. Покутний, Современные проблемы физики и химии поверхности: Магниточувствительные нанокомпозиты с функциями нанороботов и атомоподобные наноструктуры (Palmarium Academic Publishing: 2013).",
+				"tr":  "P. Gorbyk and S. Pokutniy, Sovremennye Problemy Fiziki i Khimii Poverkhnosti: Magnitochuvstvitelnye Nanokompozity s Funktsiyami Nanorobotov i Atomopodobnye Nanostruktury [Contemporary Problems of Physics and Chemistry of Surface: Magnetosensitive Nanocomposites with Nanorobot Functions and Atom-Like Nanostructures] (Palmarium Academic Publishing: 2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "І. В. Уварова, П. П. Горбик, С. В. Горобець, О. А. Іващенко, Н. В. Ульянченко, Наноматеріали медичного призначення (Pед. В. В. Скороход) (Київ: Наукова думка: 2014).",
+				"tr":  "I. V. Uvarova, P. P. Gorbyk, S. V. Gorobets, O. A. Ivashchenko, and N. V. Ulyanchenko, Nanomaterialy Medychnogo Pryznachennya [Nanomaterials of Medical Destination] (Ed. V. V. Skorokhod) (Kyiv: Naukova Dumka: 2014) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/S0304-8853(00)01222-1",
+				"or":  "E. E. Carpenter, J. Magn. Magn. Mater., 225: 17 (2001).",
+				"tr":  "E. E. Carpenter, J. Magn. Magn. Mater., 225: 17 (2001)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2003.09.001",
+				"or":  "R. Hergt, R. Hiergeist, I. Hilger, W. A. Kaiser, Y. Lapatnikov, S. Margel, and U. Richter, J. Magn. Magn. Mater., 270: 345 (2004).",
+				"tr":  "R. Hergt, R. Hiergeist, I. Hilger, W. A. Kaiser, Y. Lapatnikov, S. Margel, and U. Richter, J. Magn. Magn. Mater., 270: 345 (2004)."
+			},
+			{
+				"doi": "10.1021/ja067457e",
+				"or":  "J. P. Fortin, C. Wilhelm, J. Servais, C. Menager, J. C. Bacri, and F. Gazeau, J. Am. Chem. Soc., 129: 2628 (2007).",
+				"tr":  "J. P. Fortin, C. Wilhelm, J. Servais, C. Menager, J. C. Bacri, and F. Gazeau, J. Am. Chem. Soc., 129: 2628 (2007)."
+			},
+			{
+				"doi": "10.1088/0957-4484/15/4/008",
+				"or":  "M. C. Bautista, O. Bomati-Miguel, X. Zhao, M. P. Morales, T. Gonzalez-Carreno, R. P. Alejo, J. Ruiz-Cabello, and S. Veintemillas-Verdaguer, Nanotechnology, 15: S154 (2004).",
+				"tr":  "M. C. Bautista, O. Bomati-Miguel, X. Zhao, M. P. Morales, T. Gonzalez-Carreno, R. P. Alejo, J. Ruiz-Cabello, and S. Veintemillas-Verdaguer, Nanotechnology, 15: S154 (2004)."
+			},
+			{
+				"doi": "10.1021/cm0203013",
+				"or":  "L. Levy, Y. Sahoo, K. Kyoung-Soo, J. E. Bergey, and P. Prasad, Chem. Mater., 14: 3715 (2002).",
+				"tr":  "L. Levy, Y. Sahoo, K. Kyoung-Soo, J. E. Bergey, and P. Prasad, Chem. Mater., 14: 3715 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. В. Борисенко, В. М. Богатырев, И. В. Дубровин, Н. В. Абрамов, М. В. Гаевая, П. П. Горбик, Физико-химия наноматериалов и супрамолекулярных структур (Ред. А. П. Шпак, П. П. Горбик) (Киев: Наукова думка: 2007), т. 1, с. 394.",
+				"tr":  "N. V. Borisenko, V. M. Bogatyrev, I. V. Dubrovin, N. V. Abramov, M. V. Gayeva, and P. P. Gorbyk, Fiziko-Khimiya Nanomaterialov i Supramolekulyarnykh Struktur [Physics Chemistry of Nanomaterials and Supramolecular Structures] (Eds. A. P. Shpak and P. P. Gorbyk) (Kyiv: Naukova Dumka: 2007), vol. 1, p. 394 (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.progsolidstchem.2005.11.010",
+				"or":  "S. Mornet, S. Vasseur, F. Grasset, P. Veverka, G. Goglio, A. Demourgues, J. Portier, E. Pollert, and E. Duguet, Prog. Sol. St. Chem., 34: 237 (2006).",
+				"tr":  "S. Mornet, S. Vasseur, F. Grasset, P. Veverka, G. Goglio, A. Demourgues, J. Portier, E. Pollert, and E. Duguet, Prog. Sol. St. Chem., 34: 237 (2006)."
+			},
+			{
+				"doi": "10.1007/s40097-015-0159-9",
+				"or":  "A. L. Petranovska, N. V. Abramov, S. P. Turanska, P. P. Gorbyk, A. N. Kaminskiy, and N. V. Kusyak, J. Nanostruct. Chem., 5: 275 (2015).",
+				"tr":  "A. L. Petranovska, N. V. Abramov, S. P. Turanska, P. P. Gorbyk, A. N. Kaminskiy, and N. V. Kusyak, J. Nanostruct. Chem., 5: 275 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "N. V. Abramov, S. P. Turanska, A. P. Kusyak, A. L. Petranovska, and P. P. Gorbyk, J. Nanostruct. Chem., 6: 223 (2016).",
+				"tr":  "N. V. Abramov, S. P. Turanska, A. P. Kusyak, A. L. Petranovska, and P. P. Gorbyk, J. Nanostruct. Chem., 6: 223 (2016)."
+			},
+			{
+				"doi": "10.1063/1.3211307",
+				"or":  "D.-X. Chen, N. Sun, and H.-C. Gu, J. App. Phys., 106: 063906 (2009).",
+				"tr":  "D.-X. Chen, N. Sun, and H.-C. Gu, J. App. Phys., 106: 063906 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. В. Абрамов, П. П. Горбик, Поверхность, вып. 4(19): 246 (2012).",
+				"tr":  "N. V. Abramov and P. P. Gorbyk, Poverkhnost', Iss. 4 (19): 246 (2012) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0304-8853(00)01231-2",
+				"or":  "S. Сoper, J. Magn. Magn. Mater., 225: 79 (2001).",
+				"tr":  "S. Coper, J. Magn. Magn. Mater., 225: 79 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Sahoo, Probability and Mathematical Statistics (University of Louisville: 2013).",
+				"tr":  "P. Sahoo, Probability and Mathematical Statistics (University of Louisville: 2013)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. М. Берковский, В. Ф. Медведев, М. С. Краков, Магнитные жидкости (Москва: Химия: 1989).",
+				"tr":  "B. M. Berkovskiy, V. F. Medvedev, and M. S. Krakov, Magnitnye Zhidkosti [Magnetic Fluids] (Moscow: Khimiya: 1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Г. Фролов, Курс коллоидной химии (Москва: Химия: 1989).",
+				"tr":  "Yu. G. Frolov, Kurs Kolloidnoy Khimii [Course of Colloid Chemistry] (Moscow: Khimiya: 1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Б. Бокий, Кристаллохимия (Москва: Наука: 1971).",
+				"tr":  "G. B. Bokiy, Kristallokhimiya [Crystal Chemistry] (Moscow: Nauka: 1971) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.ceramint.2013.05.074",
+				"or":  "B. Kundu, D. Ghosh, M. K. Sinha, P. S. Sen, V. K. Balla, N. Das, and D. Basu, Ceramics International, 39: 9557 (2013).",
+				"tr":  "B. Kundu, D. Ghosh, M. K. Sinha, P. S. Sen, V. K. Balla, N. Das, and D. Basu, Ceramics International, 39: 9557 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Э. Орел, А. Д. Шевченко, Г. П. Богатырева, О. В. Лещенко, А. В. Романов, А. Ю. Рыхальський, И. И. Дзятковская, Н. А. Николов, Н. Н. Дзятковская, И. Б. Щепотин, Сверхтвердые материалы, № 3: 42 (2012).",
+				"tr":  "V. E. Orel, A. D. Shevchenko, G. P. Bogatyreva, O. V. Leschenko, A. V. Romanov, A. Yu. Rykhalskiy, I. I. Dzyatkovskaya, N. A. Nikolov, N. N. Dzyatkovskaya, and I. B. Schepotin, Sverkhtverdye Materialy, No. 3: 42 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, Н. В. Абрамов, А. Л. Петрановская, М. П. Турелик, Е. В. Пилипчук, Е. И. Оранская, А. А. Кончиц, Ю. Б. Шевченко, Поверхность, вып. 3(18): 287 (2011).",
+				"tr":  "P. P. Gorbyk, N. V. Abramov, A. L. Petranovska, M. P. Turelyk, Ie. V. Pylypchuk, Ye. I. Oranska, A. A. Konchits, and Yu. B. Shevchenko, Poverkhnost', Iss. 3(18): 287 (2011) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0965-9773(95)00213-8",
+				"or":  "Y. D. Yao, Y. Y. Chen, and C. M. Hsu, Nanostruct. Mater., 6, Nos. 5–8: 933 (1995).",
+				"tr":  "Y. D. Yao, Y. Y. Chen, and C. M. Hsu, Nanostruct. Mater., 6, Nos. 5–8: 933 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "Таблицы физических величин: Справочник (Ред. И. К. Кикоин) (Mосква: Атомиздат: 1976).",
+				"tr":  "Tablitsy Fizicheskikh Velichin: Spravochnik [Tables of Physical Values: Handbook] (Ed. I. K. Kikoin) (Moscow: Atomizdat: 1976) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2005.01.004",
+				"or":  "T. Kim, L. Reis, K. Rajan, and M. Shima, J. Magn. Magn. Mater., 295: 132 (2005).",
+				"tr":  "T. Kim, L. Reis, K. Rajan, and M. Shima, J. Magn. Magn. Mater., 295: 132 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. В. Абрамов, Поверхность, вып. 6(21): 241 (2014).",
+				"tr":  "N. V. Abramov, Poverkhnost', Iss. 6(21): 241 (2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. И. Шлиомис, УФН, 112, вып. 3: 427 (1974).",
+				"tr":  "M. I. Shliomis, Uspekhi Fizicheskikh Nauk, 112, 3: 427 (1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Фертман, Магнитные жидкости (Минск: Высш. шк.: 1988).",
+				"tr":  "V. E. Fertman, Magnitnye Zhidkosti [Magnetic Fluids] (Minsk: Vysshaya Shkola: 1988) (in Russian)."
+			},
+			{
+				"doi": "10.1088/0953-8984/18/39/035",
+				"or":  "M. Thakur, K. De, S. Giri, S. Si, A. Kotal, and T. K. Mandal, J. Phys.: Cond. Matt., 18, No. 39: 9093 (2006).",
+				"tr":  "M. Thakur, K. De, S. Giri, S. Si, A. Kotal, and T. K. Mandal, J. Phys.: Cond. Matt., 18, No. 39: 9093 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Вонсовский, Магнетизм (Москва: Наука: 1971).",
+				"tr":  "S. V. Vonsovsky, Magnetizm [Magnetism] (Moscow: Nauka: 1971) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. Г. Дорфман, Магнитные свойства и строение вещества (Москва: ГИТТЛ: 1955).",
+				"tr":  "Ya. G. Dorfman, Magnitnye Svoistva i Stroyenie Veshchestva [Magnetic Properties and Composition of Substance] (Moscow: GITTL: 1955) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.3552677",
+				"or":  "J. M. Soares, F. A. O. Cabral, J. H. de Araújo, and F. L. A. Machado, Appl. Phys. Lett., 98: 072502 (2011).",
+				"tr":  "J. M. Soares, F. A. O. Cabral, J. H. de Araújo, and F. L. A. Machado, Appl. Phys. Lett., 98: 072502 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "С. П. Губин, Ю. А. Кокшаров, Г. Б. Хомутов, Г. Ю. Юрков, Успехи химии, 74, № 4: 539 (2005).",
+				"tr":  "S. P. Gubin, Yu. A. Koksharov, G. B. Khomutov, and G. Yu. Yurkov, Uspekhi Khimii, 74, No. 4: 539 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Непийко, Физические свойства малых металлических частиц (Киев: Наукова думка: 1989).",
+				"tr":  "S. A. Nepijko, Fizicheskie Svoistva Malykh Metallicheskikh Chastits [Physical Properties of Small Metallic Particles] (Kiev: Naukova Dumka: 1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Розенцвейг, Феррогидродинамика (Москва: Мир: 1989).",
+				"tr":  "R. Rosensweig, Ferrogidrodinamika [Ferrohydrodynamics] (Moscow: Mir: 1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Magnetic Fluids and Applications: Handbook (Eds. B. Berkovski and V. Bashtovoy) (Wallingford: Begell House: 1996).",
+				"tr":  "Magnetic Fluids and Applications Handbook (Eds. B. Berkovski and V. Bashtovoy) (Wallingford: Begell House: 1996)."
+			},
+			{
+				"doi": "10.1063/1.1322655",
+				"or":  "M. Magalhães, A. M. Figueiredo Neto, A. Bee, and A. Bourdon, J. Chem. Phys., 113: 10246 (2000).",
+				"tr":  "M. Magalhães, A. M. Figueiredo Neto, A. Bee, and A. Bourdon, J. Chem. Phys., 113: 10246 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Такетоми, С. Тикадзуми, Магнитные жидкости (Москва: Мир: 1993) (пер. с яп.).",
+				"tr":  "S. Taketomi and S. Tikadzumi, Magnitnye Zhidkosti [Magnetic Fluids] (Moscow: Mir: 1993) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Handbook of Magnetic Materials. V. 2 (Ed. E. P. Wohlfarth) (North-Holland Publishing Company: 1980).",
+				"tr":  "Handbook of Magnetic Materials (Ed. E. P. Wohlfarth) (North-Holland Publishing Company: 1980), vol. 2."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, А. Л. Петрановська, М. П. Турелик, С. П. Туранська, О. А. Васильєва, В. Ф. Чехун, Н. Ю. Лук’янова, А. П. Шпак, О. М. Кордубан, Нанокапсула з функціями наноробота: Патент України № 99211. А61К 9/51, 47/02, 39/44, 45/06, 35/00 (Опубл. 25.07.2012, бюл. № 14).",
+				"tr":  "P. P. Gorbyk, A. L. Petranovska, M. P. Turelyk, S. P. Turanska, O. A. Vasylyeva, V. F. Chekhun, N. Yu. Lukyanova, A. P. Shpak, and O. M. Korduban, Nanokapsula z Funktsiyamy Nanorobota [Nanocapsule with Nanorobot Functions]: Patent of Ukraine No. 99211. A61K 9/51, 47/02, 39/44, 45/06, 35/00 (Published 25.07.2012, Bull. No. 14) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. С. Семко, П. П. Горбик, С. В. Хуторний, Спосіб одержання магнітного шаруватого матеріалу: Патент України № 100210. В32В 5/16 (Опубл. 26.11.2012, бюл. № 22).",
+				"tr":  "L. S. Semko, P. P. Gorbyk, and S. V. Khutornyi, Sposib Oderzhannya Magnitnogo Sharuvatogo Materialu [Method for Obtaining a Magnetic Layerous Material]: Patent of Ukraine No. 100210. V32V 5/16 (Published 26.11.2012, Bull. No. 22) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, А. Л. Петрановська, М. В. Абрамов, М. П. Турелик, Є. В. Пилипчук, О. А. Васильєва, Магнітна рідина: Патент України № 78448. H01F 1/28, C01G 49/08 (Опубл. 25.03.2013, бюл. № 6).",
+				"tr":  "P. P. Gorbyk, A. L. Petranovska, M. V. Abramov, M. P. Turelyk, Ie. V. Pylypchuk, and O. A. Vasylyeva, Magnitna Ridyna [Magnetic Fluid]: Patent of Ukraine No. 78448. H01F 1/28, C01G 49/08 (Published 25.03.2013, Bull. No. 6) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Є. Патон, П. П. Горбик, А. Л. Петрановська, М. П. Турелик, М. В. Абрамов, О. А. Васильєва, В. Ф. Чехун, Н. Ю. Лук’янова, Магнітна протипухлинна рідина: Патент України № 78473. H01F 1/28, A61K 47/02, C01G 49/08 (Опубл. 25.03.2013, бюл. № 6).",
+				"tr":  "B. Ie. Paton, P. P. Gorbyk, A. L. Petranovska, M. P. Turelyk, M. V. Abramov, O. A. Vasylyeva, V. F. Chekhun, and N. Yu. Lukyanova, Magnitna Protypukhlynna Ridyna [Magnetic Antitumor Fluid]: Patent of Ukraine No. 78473. H01F 1/28, A61K 47/02, C01G 49/08 (Published 25.03.2013, Bull. No. 6) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Чехун, Н. Ю. Лук’янова, П. П. Горбик, І. М. Тодор, А. Л. Петрановська, Н. В. Бошицька, І. В. Божко, Протипухлинний феромагнітний нанокомпозит: Патент України № 112490. A61K 33/26, H01F 1/44, B82У 5/00 (Опубл. 12.09.2016, бюл. № 17).",
+				"tr":  "V. F. Chekhun, N. Yu. Lukyanova, P. P. Gorbyk, I. M. Todor, A. L. Petranovska, N. V. Boshyts'ka, and I. V. Bozhko, Protypukhlynnyi Feromagnitnyi Nanokompozyt [Antitumor Ferromagnetic Nanocomposite]: Patent of Ukraine No. 112490. A61K 33/26, H01F 1/44, B82Y 5/00 (Published 12.09.2016, Bull. No. 17) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Протипухлинний нанокомпозит «Фероплат». http://files.nas.gov.ua/NASDevelopmentsBook/PDF/0760.pdf",
+				"tr":  "Protypukhlynnyi Nanokompozyt 'Feroplat' [Antitumor Nanocomposite 'Feroplat'] (in Ukrainian), http://files.nas.gov.ua/NASDevelopmentsBook/PDF/0760.pdf"
+			},
+			{
+				"doi": "",
+				"or":  "Н. Ю. Лук’янова, Експериментальне обґрунтування ефективності використання феромагнітного нанокомпозиту у подоланні резистентності пухлинних клітин до цисплатину (Автореф. дис. … докт. біол. наук) (ІЕПОР ім. Р. Є. Кавецького НАН України) (Київ: 2015).",
+				"tr":  "N. Yu. Lukyanova, Eksperymentalne Obgruntuvannya Efektyvnosti Vykorystannya Feromagnitnogo Nanokompozytu u Podolanni Rezystentnosti Pukhlynnykh Klityn do Tsysplatynu [Experimental Foundation of Effectiveness of Using of Ferromagnetic Nanocomposite in Overcoming of Resistance of Tumor Cells to Cisplatin] (Thesis of Disser. … for the Degree of Dr. of Biol. Sci.)(Kyiv: R. Ye. Kavetsky IEPOR of NAS of Ukraine: 2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, М. В. Абрамов, А. Л. Петрановська, М. П. Турелик, О. А. Васильєва, Тимчасовий технологічний регламент на виробництво речовини «Магнетит-У»: Свідоцтво про реєстрацію авторського права № 46056 ТТР 03291669.012:2012 (Опубл. 07.09.2012).",
+				"tr":  "P. P. Gorbyk, M. V. Abramov, A. L. Petranovska, M. P. Turelyk, and O. A. Vasylyeva, Tymchasovyi Tekhnologichnyi Reglament na Vyrobnytstvo Rechovyny 'Magnetyt U' [Temporary Technologic Regulations for Manufacturing a Substance 'Magnetite U'], Authors' Certificate No. 46056 TTR 03291669.012:2012 (Published 07.09.2012) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ie. V. Pylypchuk, M. V. Abramov, A. L. Petranovska, S. P. Turanska, T. M. Budnyak, N. V. Kusyak, and P. P. Gorbyk, Selected Proceedings of the 5th International Conference Nanotechnology and Nanomaterials (NANO2017) (August 23–26, 2017, Chernivtsi, Ukraine) (Springer Proceedings in Physics: 2017), p. 214.",
+				"tr":  "Ie. V. Pylypchuk, M. V. Abramov, A. L. Petranovska, S. P. Turanska, T. M. Budnyak, N. V. Kusyak, and P. P. Gorbyk, Selected Proceedings of the 5th International Conference Nanotechnology and Nanomaterials (NANO2017) (August 23–26, 2017, Chernivtsi, Ukraine) (Springer Proceedings in Physics: 2017), p. 214."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Горобець, О. Ю. Горобець, П. П. Горбик, І. В. Уварова, Функціональні біо- та наноматеріали медичного призначення (Кондор: 2018).",
+				"tr":  "S. V. Gorobets', O. Yu. Gorobets', P. P. Gorbyk, and I. V. Uvarova, Funktsionalni Bio- ta Nanomaterialy Medychnogo Pryznachennia [Functional Bio- and Nanomaterials of Medical Destination] (Kondor: 2018) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Є. В. Пилипчук, П. П. Горбик, Поверхность, вып. 6(21): 150 (2014).",
+				"tr":  "I. V. Pylypchuk and P. P. Gorbyk, Poverkhnost', Iss. 6(21): 150 (2014) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, А. Л. Петрановская, Е. В. Пилипчук, Н. В. Абрамов, Е. И. Оранская, А. М. Кордубан, Хімія, фізика та технологія поверхні, 2, вип. 4: 385 (2011).",
+				"tr":  "P. P. Gorbyk, A. L. Petranovska, Ie. V. Pylypchuk, N. V. Abramov, Ye. I. Oranska, and A. M. Korduban, Khimiya, Fizyka ta Tekhnologiya Poverkhni, 2, No. 4: 385 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. В. Пилипчук, А. Л. Петрановская, П. П. Горбик, Наноструктур. материаловедение, № 3: 47 (2012).",
+				"tr":  "I. V. Pylypchuk, A. L. Petranovska, and P. P. Gorbyk, Nanostrukturnoye Materialovedenie, No. 3: 47 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, А. Л. Петрановська, Є. В. Пилипчук, О. А. Васильєва, Магнітокерований нейтронозахватний матеріал: Патент на корисну модель України № 94729. А61К 51/00, B01J 20/06 (Опубл. 25.11.2014, бюл. № 22).",
+				"tr":  "P. P. Gorbyk, A. L. Petranovska, I. V. Pylypchuk, and O. A. Vasylyeva, Magnitokerovanyi Neitronozakhvatnyi Material [Magnetocarried Neutron Capture Material]: Patent on Useful Model of Ukraine No. 94729. A61K 51/00, B01J 20/06 (Published 25.11.2014, Bull. No. 22) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, А. Л. Петрановська, Є. В. Пилипчук, М. В. Абрамов, О. А. Васильєва, В. Б. Молодкін, М. П. Куліш, О. П. Дмитренко, Магніточутливий нейтронозахватний нанокомпозитний матеріал: Патент на корисну модель України № 91910. А61К 49/00, 51/00 (Опубл. 25.07.2014, бюл. № 14).",
+				"tr":  "P. P. Gorbyk, A. L. Petranovska, I. V. Pylypchuk, M. V. Abramov, O. A. Vasylyeva, V. B. Molodkin, M. P. Kulish, and O. P. Dmytrenko, Magnitochutlyvyi Neitronozakhvatnyi Nanokomposytnyi Material [Magnetosensitive Neutron Capture Nanocomposite Material]: Patent on Useful Model of Ukraine No. 91910. A61K 49/00, 51/00 (Published 25.07.2014, Bull. No. 14) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, М. В. Абрамов, А. Л. Петрановська, Є. В. Пилипчук, О. А. Васильєва, Свідоцтво № 58159 на ТТР (технологічний регламент) 03291669.017:2014 на виробництво магнітної рідини (Опубл. 20.01.2015).",
+				"tr":  "P. P. Gorbyk, M. V. Abramov, A. L. Petranovska, Ie. V. Pylypchuk, and O. A. Vasylyeva, Tymchasovyi Tekhnologichnyi Reglament na Vyrobnytstvo Magnitnoyi Ridyny [Temporary Technologic Regulations for Manufacturing a Magnetic Fluid]: Authors' Certificate No. 58159 TTR 03291669.017:2014 (Published 20.01.2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, А. Л. Петрановська, М. В. Абрамов, С. П. Туранська, Є. В. Пилипчук, Н. М. Опанащук, М. П. Куліш, О. П. Дмитренко, Т. О. Буско, О. Л. Павленко, С. В. Горобець, Н. К. Захарчук, Нанокомпозитний матеріал: Патент на корисну модель № 126159. А61К 47/02, B82B 1/00, B82Y 5/00 (Опубл. 11.06.2018, бюл. № 11/2018).",
+				"tr":  "P. P. Gorbyk, A. L. Petranovska, M. V. Abramov, S. P. Turanska, Ie. V. Pylypchuk, N. M. Opanaschuk, M. P. Kulish, O. P. Dmytrenko, T. O. Busko, O. L. Pavlenko, S. V. Gorobets', and N. K. Zakharchuk, Nanokomposytnyy Material [Nanocomposite Material]: Patent Onto Useful Model No. 126159 A61K 47/02, B82B 1/00, B82Y 5/00 (Published 11.06.2018, Bull. No. 11/2018 (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, Н. В. Кусяк, А. Л. Петрановська, О. І. Оранська, М. В. Абрамов, Н. М. Опанащук, Хімія, фізика та технологія поверхні, 9(2): 176 (2018).",
+				"tr":  "P. P. Gorbyk, N. V. Kusyak, A. L. Petranovska, O. I. Oranska, M. V. Abramov, and N. M. Opanashchuk, Khimiya, Fizyka ta Tekhnologiya Poverkhni, 9(2): 176 (2018) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, А. Л. Петрановська, М. В. Абрамов, Свідоцтво № 79846 на ТТР (технологічний регламент) У 20.5-03291669-002:2018 на виробництво магнітної рідини, що містить цисплатин (Опубл. 20.06.2018).",
+				"tr":  "P. P. Gorbyk, A. L. Petranovska, and M. V. Abramov, Tymchasovyi Tekhnologichnyi Reglament na Vyrobnytstvo Magnitnoyi Ridyny, Shcho Mistyt' Tsysplatyn [Temporary Technologic Regulations for Manufacturing a Magnetic Fluid Containing Cisplatin]: Authors' Certificate No. 58159 TTR U 20.5-03291669-002:2018 (Published 20.06.2018) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Кусяк, С. П. Туранська, М. Х. Нгуєн, П. П. Горбик, Поверхность, вып. 9(24): 211 (2017).",
+				"tr":  "A. P. Kusyak, S. P. Turanska, M. K. Nguien, and P. P. Gorbyk, Poverkhnost', Iss. 9 (24): 211 (2017) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Абрамов, А. П. Кусяк, О. М. Камінський, С. П. Туранська, А. Л. Петрановська, Н. В. Кусяк, В. В. Туров, П. П. Горбик, Поверхность, вып. 9(24): 165 (2017).",
+				"tr":  "M. V. Abramov, A. P. Kusyak, O. M. Kaminskyi, S. P. Turanska, A. L. Petranovska, N. V. Kusyak, V. V. Turov, and P. P. Gorbyk, Poverkhnost', Iss. 9(24): 165 (2017) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Цільова комплексна програма фундаментальних досліджень «Наноструктурні системи, наноматеріали, нанотехнології» (Київ: 2010).",
+				"tr":  "Goal Complex Program of Fundamental Research 'Nanostrukturni Systemy, Nanomaterialy, Nanotekhnologiyi' [Nanostructural Systems, Nanomaterials, Nanotechnologies] (Kyiv: 2010) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, М. П. Турелик, С. В. Горобець, О. Ю. Горобець, І. В. Дем’яненко, Біофункціоналізовані наноматеріали і нанокомпозити. Наукові основи та напрями застосування. Електронний навчальний посібник. Свідоцтво НМУ № Е 12/13-090 від 21.02.2013, протокол № 6.",
+				"tr":  "P. P. Gorbyk, M. P. Turelyk, S. V. Gorobets', O. Yu. Gorobets', and I. V. Demyanenko, Biofunktsionalizovani Nanomaterialy i Nanokomposyty. Naukovi Osnovy ta Napryamy Zastosuvannya [Biofunctionalized Nanomaterials and Nanocomposites. Scientific Bases and Directions of Application]: Electronic Educational Book. Authors' Certificate of NMU No. E 12/13-090 (Published 21.02.2013, Bull. No. 6) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. П. Сторожук, Синтез та властивості поліфункціональних магніточутливих нанокомпозитів (Автореф. дис. … канд. хім. наук) (Київ: Інститут хімії поверхні ім. О. О. Чуйка НАН України: 2007).",
+				"tr":  "L. P. Storozhuk, Syntez ta Vlastyvosti Polifunktsionalnykh Magnitochutlyvykh Nanokomposytiv [Synthesis and Properties of Polyfunctional Magnetosensitive Nanocomposites] (Thesis of Disser. … for the Degree of Cand. of Chem. Sci.) (Kyiv: O. O. Chuiko Institute of Surface Chemistry of N.A.S. of Ukraine: 2007) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. П. Турелик, Хімічне конструювання наноструктур з функціями медико-біологічних нанороботів (Автореф. дис. … канд. хім. наук) (Київ: Інститут хімії поверхні ім. О. О. Чуйка НАН України: 2012).",
+				"tr":  "M. P. Turelyk, Khimichne Konstruyuvannya Nanostruktur z Funktsiyamy Medyko-Biologichnykh Nanorobotiv [Chemical Constructing of Nanostructures with Medico-Biologic Nanorobot Functions] (Thesis of Disser. … for the Degree of Cand. of Chem. Sci.) (Kyiv: O. O. Chuiko Institute of Surface Chemistry of N.A.S. of Ukraine: 2012) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Є. В. Пилипчук, Синтез та властивості магніточутливих гадолінійвмісних нанокомпозитів (Автореф. дис. … канд. хім. наук) (Київ: Інститут хімії поверхні ім. О. О. Чуйка НАН України: 2013).",
+				"tr":  "Ie. V. Pylypchuk, Syntez ta Vlastyvosti Magnitochutlyvykh Gadoliniyvmisnykh Nanokomposytiv [Synthesis and Properties of Magnetosensitive Gadolinium-Containing Nanocomposites] (Thesis of Disser. … for the Degree of Cand. of Chem. Sci.) (Kyiv: O. O. Chuiko Institute of Surface Chemistry of N.A.S. of Ukraine: 2013) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Камінський, Адсорбційна іммобілізація цис-дихлордіамінплатини та йонних форм важких металів наноструктурами з різною природою поверхні (Автореф. дис. … канд. хім. наук) (Київ: Інститут хімії поверхні ім. О. О. Чуйка НАН України: 2018).",
+				"tr":  "O. M. Kaminskyi, Adsorbtsiyna Immobilizatsiya Tsys-Dykhlordiaminplatyny ta Yonnykh Form Vazhkykh Metaliv Nanostrukturamy z Riznoyu Pryrodoyu Poverkhni [Adsorptive Immobilization of Cis-Dichlorodiammineplatinum and Ionic Forms of Heavy Metals by Nanostructures with Various Surface Nature] (Thesis of Disser. … for the Degree of Cand. of Chem. Sci.) (Kyiv: O. O. Chuiko Institute of Surface Chemistry of N.A.S. of Ukraine: 2018) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Кусяк, Адсорбційна активність поверхні в концепції багаторівневих нанокомпозитів з функціями нанороботів (Автореф. дис. … канд. хім. наук) (Київ: Інститут хімії поверхні ім. О. О. Чуйка НАН України: 2018).",
+				"tr":  "A. P. Kusyak, Adsorbtsiyna Aktyvnist’ Poverkhni v Kontseptsiyi Bagatorivnevykh Nanokomposytiv z Funktsiyamy Nanorobotiv [Adsorptive Activity of Surface in Conception of Multilevel Nanocomposites with Nanorobot Functions] (Thesis of Disser. … for the Degree of Cand. of Chem. Sci.) (Kyiv: O. O. Chuiko Institute of Surface Chemistry of N.A.S. of Ukraine: 2018) (in Ukrainian)."
+			}
+		]
+	}
+}

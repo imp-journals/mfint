@@ -1,0 +1,142 @@
+{
+	"year":   2018,
+	"volume": 40,
+	"issue":  11,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [1415,1435],
+			"title": {
+				"ua": "Знову про Мартанів кінетичний середньопольовий модель: частотно-шумовий підхід у порівнянні з методом Монте-Карло",
+				"en": "Martin’s Kinetic Mean-Field Model Revisited—Frequency Noise Approach versus Monte Carlo",
+				"ru": "Снова о кинетической среднеполевой модели Мартана: частотно-шумовой подход в сравнении с методом Монте-Карло"
+			},
+			"autors": {
+				"ua": "Андрій Гусак, Тетяна Запорожець",
+				"en": "Andriy Gusak and Tetiana Zaporozhets",
+				"ru": "Андрей Гусак, Татьяна Запорожец"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [1437,1451],
+			"title": {
+				"ua": "Нерівноважний термодинамічний модель бездифузійного перетворення аустеніту у стопах на основі заліза",
+				"en": "Nonequilibrium Thermodynamic Model of Diffusionless Transformation of an Austenite in Alloys on the Base of Iron",
+				"ru": "Неравновесная термодинамическая модель бездиффузионного превращения аустенита в сплавах на основе железа"
+			},
+			"autors": {
+				"ua": "С. В. Бобир",
+				"en": "S. V. Bobyr",
+				"ru": "С. В. Бобырь"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [1453,1463],
+			"title": {
+				"ua": "Особливості деформації в кристалах In у широкому інтервалі температур",
+				"en": "Features of Deformation in Crystals of Indium in a Wide Range of Temperatures",
+				"ru": "Особенности деформации в кристаллах In в широком интервале температур"
+			},
+			"autors": {
+				"ua": "М. Д. Раранський, А. В. Олійнич-Лисюк, Р. Ю. Тащук, О. В. Лисюк, О. Ю. Тащук",
+				"en": "M. D. Raransky, А. V. Oliynych-Lysyuk, R. Yu. Tashchuk, O. V. Lysyuk, and O. Yu. Tashchuk",
+				"ru": "Н. Д. Раранский, А. В. Олийнич-Лысюк, Р. Ю. Тащук, А. В. Лысюк, А. Ю. Тащук"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [1465,1473],
+			"title": {
+				"ua": "Поздовжня швидкість ультразвуку та згасання в ізотопно збагаченому кадмії",
+				"en": "Longitudinal Ultrasound Velocity and Attenuation in Isotopically Enriched Cadmium",
+				"ru": "Продольная скорость ультразвука и затухание в изотопно обогащённом кадмии"
+			},
+			"autors": {
+				"ua": "А. С. Булатов, Г. П. Ковтун, В. С. Клочко, А. В. Корніець, Д. А. Солопихин, А. Р. Щербань",
+				"en": "A. S. Bulatov, G. P. Kovtun, V. S. Klochko, A. V. Korniets, D. A. Solopikhin, and A. P. Shcherban’",
+				"ru": "А. С. Булатов, Г. П. Ковтун, В. С. Клочко, А. В. Корниец, Д. А. Солопихин, А. Р. Щербань"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [1475,1487],
+			"title": {
+				"ua": "Вплив Si та B на структуру та корозійні властивості квазикристалічних стопів Al–Cu–Fe у розчинах солей",
+				"en": "Influence of Si and B on Structure and Corrosion Properties of Quasi-Crystalline Al–Cu–Fe Alloys in Solutions of Salts",
+				"ru": "Влияние Si и B на структуру и коррозионные свойства квазикристаллических сплавов Al–Cu–Fe в растворах солей"
+			},
+			"autors": {
+				"ua": "О. В. Сухова, В. А. Полонський, К. В. Устінова",
+				"en": "О. V. Sukhova, V. А. Polonskyy, and K. V. Ustinоvа",
+				"ru": "Е. В. Суховая, В. А. Полонский, Е. В. Устинова"
+			}
+		},		
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1489,1508],
+			"title": {
+				"ua": "Поліпшення структури та механічних характеристик гарячевальцьованої евтектоїдної сталі швидкісним термічним обробленням",
+				"en": "Improvement of Structure and Mechanical Characteristics of Hot-Rolled Eutectoid Steel by Means of High-Speed Heat Treatment",
+				"ru": "Улучшение структуры и механических характеристик горячекатаной эвтектоидной стали скоростной термической обработкой"
+			},
+			"autors": {
+				"ua": "Р. В. Тельович, Ю. А. Гарасим, Г. В. Кречковська, Н. О. Бондаревська",
+				"en": "R. V. Teliovich, J. A. Garasym, H. V. Krechkovska, and N. O. Bondarevska",
+				"ru": "Р. В. Телевич, Ю. А. Гарасим, Г. В. Кречковская, Н. А. Бондаревская"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1509,1520],
+			"title": {
+				"ua": "Спрощене моделювання тандемного холодного вальцювання (зливків із одночасним маніпулюванням)",
+				"en": "Simplified Modelling of Tandem Cold Rolling",
+				"ru": "Упрощённое моделирование тандемной холодной прокатки (слитков с одновременным манипулированием)"
+			},
+			"autors": {
+				"ua": "К. Слімані, М. Зааф, Х. Бенджама",
+				"en": "K. Slimani, M. Zaaf, and H. Bendjama",
+				"ru": "К. Слимани, М. Зааф, Х. Бенджама"
+			}
+		},		
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1521,1537],
+			"title": {
+				"ua": "Підвищення жаростійкости стопу ВТ6 формуванням оксидних композитних шарів за ультразвукового ударного оброблення",
+				"en": "Enhancement of Heat Resistance of Ti6Al4V Titanium Alloy by Formation of Oxide Composite Layers Using Ultrasonic Impact Treatment",
+				"ru": "Повышение жаростойкости сплава ВТ6 формированием оксидных композитных слоёв при ультразвуковой ударной обработке"
+			},
+			"autors": {
+				"ua": "В. В. Могилко, А. П. Бурмак, М. М. Ворон, І. А. Владимирський, С. І. Сидоренко, С. М. Волошко, Б. М. Мордюк",
+				"en": "V. V. Mohylko, A. P. Burmak, M. M. Voron, I. A. Vladymyrskyi, S. I. Sidorenko, S. M. Voloshko, and B. M. Mordyuk",
+				"ru": "В. В. Могилко, А. П. Бурмак, М. М. Ворон, І. А. Владимирский, С. И. Сидоренко, С. М. Волошко, Б. Н. Мордюк"
+			}
+		},		
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [1539,1558],
+			"title": {
+				"ua": "Електроіскрове дисперґування металевих матеріялів. II. Вплив фізико-хемічних і кінетичних чинників на розподіл частинок за розмірами",
+				"en": "Electrospark Dispersion of Metal Materials. II. Influence of the Physicochemical and Kinetic Factors on a Particle Size Distribution",
+				"ru": "Электроискровое диспергирование металлических материалов. II. Влияние физико-химических и кинетических факторов на распределение частиц по размерам"
+			},
+			"autors": {
+				"ua": "А. І. Устінов, А. О. Перекос, С. М. Захарченко, О. Ф. Бойцов, В. З. Войнаш, В. П. Залуцький",
+				"en": "A. I. Ustinov, А. O. Perekos, S. M. Zakharchenkо, О. F. Bоytsоv, V. Z. Vоynаsh, and V. P. Zalutsky",
+				"ru": "А. И. Устинов, А. Е. Перекос, С. Н. Захарченко, О. Ф. Бойцов, В. З. Войнаш, В. П. Залуцкий"
+			}
+		}		
+	]
+}

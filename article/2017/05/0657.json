@@ -1,0 +1,152 @@
+{
+	"_id":    "MFiNT.39.05.0657",
+	"year":   2017,
+	"volume": 39,
+	"issue":  5,
+	"pages":  [657,664],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["03.03.2017","25.04.2017"],
+	"PACS":   "61.72.jd, 71.15.Ap, 71.15.Mb, 71.15.Nc, 71.20.Nr, 74.62.Dh",
+	"title":   {
+		"ua": "Енергія утворення вакансій для зарядженого та нейтрального станів кристалу TlGaSe$_{2}$",
+		"en": "Vacancy Formation Energy for the Charged and Neutral States of TlGaSe$_{2}$ Crystal",
+		"ru": "Энергия образования вакансий для заряженного и нейтрального состояний кристалла TlGaSe$_{2}$"
+	},
+	"abstract": {
+		"ua": "Електронна структура зон та енергія утворення дефектів кристалу TlGaSe$_{2}$ вивчалися з використанням методи функціонала густини в наближенні локальної густини. Одержані з розрахунків електронного спектра кристалу у LDA-наближені результати показали, що дно зони провідности та стеля валентної зони розташовані в центрі Бріллюенової зони (у симетрійній точці $\\Gamma$) та вздовж симетрійної лінії $\\Gamma$–Y відповідно. Енергія утворення дефекту обчислюється як ріжниця між повними енергіями стабільної й оптимізованої дефектної структур при постійному об’ємі. Розрахунки було виконано для п’ятьох зарядових станів: +2, +1, 0, -1, -2. Було встановлено енергії формування вакансій $V_{\\textrm{Tl}}$, $V_{\\textrm{Ga}}$, $V_{\\textrm{Se}}$ у кристалі TlGaSe$_{2}$, який складається з 63 атомів, для різних зарядових станів, залежно від рівня енергії Фермі. Обчислені оптичні властивості показують, що оптична енергетична щілина збільшується через вакансії Se та Tl.",
+		"en": "Electronic band structure and defect formation energy of TlGaSe$_{2}$ are studied using density functional method within the Local Density Approximation. Calculated band structure shows that the top of valence band and the bottom of conduction band locate at the symmetry point $\\Gamma$ and along the symmetry line $\\Gamma$–Y, respectively. The defect formation energy is calculated as the difference between the total energy of a stable structure and the relaxed defect structure at constant volume. Calculation is done for the five charge states: +2, +1, 0, -1, -2. Energies of vacancies’ ($V_{\\textrm{Tl}}$, $V_{\\textrm{Ga}}$, $V_{\\textrm{Se}}$) formation are determined for the TlGaSe$_{2}$ crystal consisting of 63 atoms for the various charge states as a function of Fermi energy. The calculated optical properties indicate that the optical energy gap is increased due to the Se and Tl vacancies.",
+		"ru": "Электронная структура зон и энергия образования дефектов кристалла TlGaSe$_{2}$ изучались с использованием метода функционала плотности в приближении локальной плотности. Полученные из расчётов электронного спектра кристалла в LDA-приближении результаты показали, что дно зоны проводимости и потолок валентной зоны расположены в центре зоны Бриллюэна (в симметрийной точке $\\Gamma$) и вдоль симметрийной линии $\\Gamma$–Y соответственно. Энергия образования дефекта вычисляется как разность между полными энергиями стабильной и оптимизированной дефектной структур при постоянном объёме. Расчёты были выполнены для пяти зарядовых состояний: +2, +1, 0, -1, -2. Были установлены энергии формирования вакансий $V_{\\textrm{Tl}}$, $V_{\\textrm{Ga}}$, $V_{\\textrm{Se}}$ в кристалле TlGaSe$_{2}$, состоящем из 63 атомов, для различных зарядовых состояний в зависимости от уровня энергии Ферми. Вычисленные оптические свойства показывают, что оптическая энергетическая щель увеличивается из-за вакансий Se и Tl."
+	},
+	"keywords": {
+		"ua": "теорія функціонала густини, наближення локальної густини, заряджені вакансії, енергія утворення дефекту, рівень Фермі",
+		"en": "density functional theory, local density approximation, charged vacancy, defect formation energy, Fermi level",
+		"ru": "теория функционала плотности, приближение локальной плотности, заряженные вакансии, энергия образования дефекта, уровень Ферми"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Н. А. Ісмайилова", "en": "N. A. Ismayilova", "ru": "Н. А. Исмайылова"},
+			"OID": [431]
+		},
+		{
+			"AID": {"ua": "Г. С. Оруджев", "en": "G. S. Orudzhev", "ru": "Г. С. Оруджев"},
+			"OID": [431, 490]
+		}
+	],
+	"references": {
+		"count": 22,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "D. Muller, F. E. Poltman, and H. Z. Hahn, Z. Natuforsch., 29: 117 (1974).",
+				"tr":  "D. Muller, F. E. Poltman, and H. Z. Hahn, Z. Natuforsch., 29: 117 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Muller and H. Z. Hahn, Anorg. Allg. Chem., 438: 258 (1978).",
+				"tr":  "D. Muller and H. Z. Hahn, Anorg. Allg. Chem., 438: 258 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "K. R. Allakhverdiyev, T. G. Mamedov, B. G. Akinoglu, and Sh. S. Ellialtioglu, Turk. J. Phys., 18, No. 1: 1 (1994).",
+				"tr":  "K. R. Allakhverdiyev, T. G. Mamedov, B. G. Akinoglu, and Sh. S. Ellialtioglu, Turk. J. Phys., 18, No. 1: 1 (1994)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.26.3211",
+				"or":  "W. Henkel, H. D. Hochheimer, C. L. Carlone, A. Werner, S. Ves, and H. G. V. Schnering, Phys. Rev. B, 26: 3211 (1982).",
+				"tr":  "W. Henkel, H. D. Hochheimer, C. L. Carlone, A. Werner, S. Ves, and H. G. V. Schnering, Phys. Rev. B, 26: 3211 (1982)."
+			},
+			{
+				"doi": "10.1021/ja00017a018",
+				"or":  "K. A. Yee and T. A. Albright, J. Am. Chem. Soc., 113: 6474 (1991).",
+				"tr":  "K. A. Yee and T. A. Albright, J. Am. Chem. Soc., 113: 6474 (1991)."
+			},
+			{
+				"doi": "10.3938/jkps.57.164",
+				"or":  "N. M. Gasanly, J. Korean Physical Society, 57, No. 1: 164 (2010).",
+				"tr":  "N. M. Gasanly, J. Korean Physical Society, 57, No. 1: 164 (2010)."
+			},
+			{
+				"doi": "10.1002/crat.200410455",
+				"or":  "E. Senturk, L. Tumbek, and F. A. Mikailov, Cryst. Res. Technol., 40: 901 (2005).",
+				"tr":  "E. Senturk, L. Tumbek, and F. A. Mikailov, Cryst. Res. Technol., 40: 901 (2005)."
+			},
+			{
+				"doi": "10.1088/0268-1242/21/2/013",
+				"or":  "M-H. Yu. Seyidov, E. Coskun, Y. Sahin, R. Khamoev, and R. A. Suleymanov, Semicond. Sci. Technol., 21: 171 (2006).",
+				"tr":  "M-H. Yu. Seyidov, E. Coskun, Y. Sahin, R. Khamoev, and R. A. Suleymanov, Semicond. Sci. Technol., 21: 171 (2006)."
+			},
+			{
+				"doi": "10.1016/j.physb.2003.09.266",
+				"or":  "N. S. Yuksek, H. Kavas, N. M. Gasanly, and H. Ozkan, Physica B, 344: 249 (2004).",
+				"tr":  "N. S. Yuksek, H. Kavas, N. M. Gasanly, and H. Ozkan, Physica B, 344: 249 (2004)."
+			},
+			{
+				"doi": "10.1016/j.materresbull.2003.12.018",
+				"or":  "A. F. Qasrawi and N. M. Gasanly, Mater. Res. Bull., 39: 1353 (2004).",
+				"tr":  "A. F. Qasrawi and N. M. Gasanly, Mater. Res. Bull., 39: 1353 (2004)."
+			},
+			{
+				"doi": "10.1016/j.ssc.2004.11.026",
+				"or":  "F. A. Mikailov, B. Z. Rameev, S. Kazan, F. Yildiz, T. G. Mammadov, and B. Aktas, Solid State Commun., 133: 389 (2005).",
+				"tr":  "F. A. Mikailov, B. Z. Rameev, S. Kazan, F. Yildiz, T. G. Mammadov, and B. Aktas, Solid State Commun., 133: 389 (2005)."
+			},
+			{
+				"doi": "10.1002/pssa.201026786",
+				"or":  "V. Grivickas, V. Gavryushin, P. Grivickas, A. Galeckas, V. Bikbajevas, and K. Gulbinas, phys. status solidi (a), 208, No. 9: 2186 (2011).",
+				"tr":  "V. Grivickas, V. Gavryushin, P. Grivickas, A. Galeckas, V. Bikbajevas, and K. Gulbinas, phys. status solidi (a), 208, No. 9: 2186 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "O. A. Kozlova, V. V. Lyskouski, and V. V. Nelayev, Mater. Phys. Mechanics, 13: 124 (2012).",
+				"tr":  "O. A. Kozlova, V. V. Lyskouski, and V. V. Nelayev, Mater. Phys. Mechanics, 13: 124 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "http://quantumwise.com",
+				"tr":  "http://quantumwise.com"
+			},
+			{
+				"doi": "10.1103/PhysRev.140.A1133",
+				"or":  "W. Kohn and L. Sham, Phys. Rev., 140: A1133 (1965).",
+				"tr":  "W. Kohn and L. Sham, Phys. Rev., 140: A1133 (1965)."
+			},
+			{
+				"doi": "",
+				"or":  "M. A. Nizametdinova, F. M. Hashimzade, D. A. Huseinova, G. S. Orudzhev, and K. R. Allakhverdiyev, Moldavian J. Physical Sciences, 9: 350 (2010).",
+				"tr":  "M. A. Nizametdinova, F. M. Hashimzade, D. A. Huseinova, G. S. Orudzhev, and K. R. Allakhverdiyev, Moldavian J. Physical Sciences, 9: 350 (2010)."
+			},
+			{
+				"doi": "10.1134/S102745101501005X",
+				"or":  "S. H. Jabarov, T. G. Mammadov, A. I. Mammadov, S. E. Kichanov, V. B. Alieva, and E. V. Lukin, J. Synch. Investig., 9, No. 1: 35 (2015).",
+				"tr":  "S. H. Jabarov, T. G. Mammadov, A. I. Mammadov, S. E. Kichanov, V. B. Alieva, and E. V. Lukin, J. Synch. Investig., 9, No. 1: 35 (2015)."
+			},
+			{
+				"doi": "10.1002/pssb.2221190103",
+				"or":  "G. Abdullaeva, N. T. Mamedov, and G. S. Orudzhev, phys. status solidi (b), 119: 41 (1983).",
+				"tr":  "G. Abdullaeva, N. T. Mamedov, and G. S. Orudzhev, phys. status solidi (b), 119: 41 (1983)."
+			},
+			{
+				"doi": "10.1002/pssb.2221330120",
+				"or":  "S. G. Abdullaeva and N. T. Mamedov, phys. status solidi (b), 133: 171 (1986).",
+				"tr":  "S. G. Abdullaeva and N. T. Mamedov, phys. status solidi (b), 133: 171 (1986)."
+			},
+			{
+				"doi": "10.1021/ja00017a018",
+				"or":  "K. A. Yee and T. A. Albright, J. Am. Chem. Soc., 113: 6474 (1991).",
+				"tr":  "K. A. Yee and T. A. Albright, J. Am. Chem. Soc., 113: 6474 (1991)."
+			},
+			{
+				"doi": "10.1002/pssa.200669598",
+				"or":  "S. Kashida, Y. Yanadori, Y. Otaki, Y. Seki, and A. M. Panich, phys. status solidi (a), 203: 2666 (2006).",
+				"tr":  "S. Kashida, Y. Yanadori, Y. Otaki, Y. Seki, and A. M. Panich, phys. status solidi (a), 203: 2666 (2006)."
+			},
+			{
+				"doi": "10.1088/0034-4885/72/12/126501",
+				"or":  "A. Janotti and C. G Van de Walle, Rep. Prog. Phys., 72: 126501 (2009).",
+				"tr":  "A. Janotti and C. G Van de Walle, Rep. Prog. Phys., 72: 126501 (2009)."
+			}
+		]
+	}
+}

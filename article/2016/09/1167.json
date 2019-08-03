@@ -1,0 +1,138 @@
+{
+	"_id":    "MFiNT.38.09.1167",
+	"year":   2016,
+	"volume": 38,
+	"issue":  9,
+	"pages":  [1167,1177],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["15.07.2016"],
+	"PACS":   "72.10.Fk, 73.23.Ad, 73.25.+i, 73.50.Bk, 73.61.At, 73.63.Bd, 81.15.Kk, 85.40.Xx",
+	"title":   {
+		"ua": "Вплив підшарів ґерманію на перенесення заряду в плівках хрому нанометрової товщини",
+		"en": "Influence of Sublayers of Germanium on Charge Transfer in Films of Chromium of Nanometre Thickness",
+		"ru": "Влияние подслоёв германия на перенос заряда в плёнках хрома нанометровой толщины"
+	},
+	"abstract": {
+		"ua": "Розмірні залежності електропровідности плівок хрому товщиною, меншою за 50 нм, сформованих в умовах надвисокого вакууму на поверхні скла та поверхні скла, попередньо покритій підшарами ґерманію, кількісно описано за допомогою теорій квазикласичного та квантового розмірних ефектів. Експериментальні дані добре узгоджуються з результатами теоретичних розрахунків, при проведенні яких враховано особливості структури плівок і морфології їхньої поверхні. Розраховано параметри перенесення заряду в досліджуваних зразках.",
+		"en": "Conductivity—size dependences of chromium films with thickness d < 50 nm fabricated under ultrahigh vacuum conditions on both the surface of glass and the surface of glass predeposited with germanium underlayers are quantitatively described by quasi-classical and quantum size effects’ theories. The experimental data are agreed with theoretical calculations taking into account the structure and surface-morphology peculiarities of thin metal films. The charge transport parameters of experimental samples are calculated.",
+		"ru": "Размерные зависимости электропроводности плёнок хрома толщиной менее 50 нм, сформированных в условиях сверхвысокого вакуума на поверхности стекла и поверхности стекла, предварительно покрытой подслоями германия, количественно описаны с помощью теорий квазиклассического и квантового размерных эффектов. Экспериментальные данные хорошо согласуются с результатами теоретических расчётов, в которых учитываются особенности строения плёнок и морфологии их поверхности. Рассчитаны параметры переноса заряда в исследованных образцах."
+	},
+	"keywords": {
+		"ua": "тонкі металеві плівки, поверхневе та зерномежове розсіяння, напівпровідникові підшари субатомової товщини",
+		"en": "metal thin films, surface and grain boundary scatterings, semiconductor sublayers of subatomic thickness",
+		"ru": "тонкие металлические плёнки, поверхностное и зернограничное рассеяния, полупроводниковые подслои субатомной толщины"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Р. І. Бігун", "en": "R. I. Bihun", "ru": "Р. И. Бигун"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "В. М. Гаврилюх", "en": "V. M. Gavrylyukh", "ru": "В. М. Гаврилюх"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "Б. П. Коман", "en": "B. P. Koman", "ru": "Б. П. Коман"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "Я. А. Пастирський", "en": "Ya. A. Pastyrskyy", "ru": "Я. А. Пастырский"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "З. В. Стасюк", "en": "Z. V. Stasyuk", "ru": "З. В. Стасюк"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "Д. С. Леонов", "en": "D. S. Leonov", "ru": "Д. С. Леонов"},
+			"OID": [16]
+		}
+	],
+	"references": {
+		"count": 16,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Р. І. Бігун, М. Д. Бучковська, В. М. Гаврилюх, З. В Стасюк, Д. С. Леонов, Наносистеми, наноматеріали та нанотехнології, 13, вип. 2: 285 (2016).",
+				"tr":  "R. I. Bihun, M. D. Buchkovska, V. M. Havryliukh, Z. V Stasiuk, and D. S. Leonov, Nanosystemy, Nanomaterialy ta Nanotekhnolohii, 13, Iss. 2: 285 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, Р. І. Бігун, З. В. Стасюк, Ю. А. Куницький, Наносистеми, наноматеріали та нанотехнології, 8, вип. 2: 339 (2010).",
+				"tr":  "A. P. Shpak, R. I. Bihun, Z. V. Stasiuk, and Iu. A. Kunytskyi, Nanosystemy, Nanomaterialy ta Nanotekhnolohii, 8, Iss. 2: 339 (2010) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. І. Бігун, М. Д. Бучковська, Н. С. Колтун, З. В. Стасюк, Д. С. Леонов, Металлофиз. новейшие технол., 35, № 12: 1659 (2013).",
+				"tr":  "R. I. Bihun, M. D. Buchkovska, N. S. Koltun, Z. V. Stasiuk, and D. S. Leonov, Metallofiz. Noveishie Tekhnol., 35, No. 12: 1659 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Т. Гладких, С. В. Дукаров, А. П. Крышталь, В. И. Ларин, В. Н. Сухов, С. И. Богатыренко, Поверхностные явления и фазовые превращения в конденсированных пленках (Ред. Н. Т. Гладких)(Харьков: ХНУ им. В. Н. Каразина: 2004).",
+				"tr":  "N. T. Gladkih, S. V. Dukarov, A. P. Kryshtal', V. I. Larin, V. N. Suhov, and S. I. Bogatyrenko, Poverhnostnye Yavlenija i Fazovye Prevrashheniya v Kondensirovannykh Plenkakh (Ed. N. T. Gladkih) (Kharkov: KhNU im. V. N. Karazina: 2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. V. Dukarov, S. I. Petrushenko, V. N. Sukhov, and I.G. Churilov, Problems of Atomic Science and Technology, 89, No. 1: 110 (2014).",
+				"tr":  "S. V. Dukarov, S. I. Petrushenko, V. N. Sukhov, and I. G. Churilov, Problems of Atomic Science and Technology, 89, No. 1: 110 (2014)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(98)00145-1",
+				"or":  "K. L. Ekinci and J. M. Valles, Acta Materialia, 46, No. 13: 4549 (1998).",
+				"tr":  "K. L. Ekinci and J. M. Valles, Acta Materialia, 46, No. 13: 4549 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "Z. Stasyuk, J. Phys. Stud., 3, No. 1: 102 (1999).",
+				"tr":  "Z. Stasyuk, J. Phys. Stud., 3, No. 1: 102 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "З. В. Стасюк, А. І. Лопатинський, Фізика і хімія твердого тіла, 2, № 4: 521 (2001).",
+				"tr":  "Z. V. Stasiuk and A. I. Lopatynskyi, Fizyka i Khimiia Tverdoho Tila, 2, No. 4: 521 (2001) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/mfint.38.03.0329",
+				"or":  "Р. І. Бігун, В. М. Гаврилюх, З. В. Стасюк, Д. С. Леонов, Металлофиз. новейшие технол., 38, № 3: 329 (2016).",
+				"tr":  "R. I. Bigun, V. M. Gavrylyukh, Z. V. Stasyuk, and D. S. Leonov, Metallofiz. Noveishie Tekhnol., 38, No. 3: 329 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.57.2760",
+				"or":  "Z. Tesanovic, M. Jaric, and S. Maekawa, Phys. Rev. Lett., 57, No. 21: 2760 (1986).",
+				"tr":  "Z. Tesanovic, M. Jaric, and S. Maekawa, Phys. Rev. Lett., 57, No. 21: 2760 (1986)."
+			},
+			{
+				"doi": "10.1088/0022-3719/20/30/006",
+				"or":  "Z. Tesanovic, Solid State Phys., 20, No. 6: L829 (1987).",
+				"tr":  "Z. Tesanovic, Solid State Phys., 20, No. 6: L829 (1987)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.38.12298",
+				"or":  "N. Trivedi and N. Ashcroft, Phys. Rev. B, 38, No. 17: 12298 (1988).",
+				"tr":  "N. Trivedi and N. Ashcroft, Phys. Rev. B, 38, No. 17: 12298 (1988)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.62.1302",
+				"or":  "G. Fishman and D. Calecki, Phys. Rev. Lett., 62, No. 11: 1302 (1989).",
+				"tr":  "G. Fishman and D. Calecki, Phys. Rev. Lett., 62, No. 11: 1302 (1989)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.43.11581",
+				"or":  "G. Fishman and D. Calecki, Phys. Rev. B, 43, No. 14: 11581 (1991).",
+				"tr":  "G. Fishman and D. Calecki, Phys. Rev. B, 43, No. 14: 11581 (1991)."
+			},
+			{
+				"doi": "10.15407/mfint.36.06.0723",
+				"or":  "Р. І. Бігун, З. В. Стасюк, Металлофиз. новейшие технол., 36, № 6: 723 (2014).",
+				"tr":  "R. I. Bihun and Z. V. Stasiuk, Metallofiz. Noveishie Tekhnol., 36, No. 6: 723 (2014) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/j.physb.2016.02.003",
+				"or":  "R. I. Bihun, Z. V. Stasyuk, and O. A. Balitskii, Physica B, 487: 73 (2016).",
+				"tr":  "R. I. Bihun, Z. V. Stasyuk, and O. A. Balitskii, Physica B, 487: 73 (2016)."
+			}
+		]
+	}
+}

@@ -1,0 +1,131 @@
+{
+	"_id":    "MFiNT.39.12.1589",
+	"year":   2017,
+	"volume": 39,
+	"issue":  12,
+	"pages":  [1589,1598],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["17.07.2017"],
+	"PACS":   "61.05.cp, 61.66.Dk, 61.72.S-, 62.20.Qp, 64.75.Ef, 81.05.Bx, 81.40.Cd",
+	"title":   {
+		"ua": "Cтруктурний стан литих високоентропійних стопів з ГЦК-ґратнецею та його вплив на характеристики твердости",
+		"en": "Structural State of Cast High-Entropy Alloys with F.C.C. Lattice and Its Influence on the Hardness Characteristics",
+		"ru": "Структурное состояние литых высокоэнтропийных сплавов с ГЦК-решёткой и его влияние на характеристики твёрдости"
+	},
+	"abstract": {
+		"ua": "Розраховано теоретичну розмірну невідповідність кристалічної ґратниці однофазних високоентропійних стопів, які складаються з елементів як з близькими атомовими радіюсами, так і з великими відмінностями в розмірах атомів. Одержано та проаналізовано їхні дифрактограми. На основі даних про ширину піка на напіввисоті оцінено та в подальшому розраховано вплив величини дисторсій кристалічної ґратниці і розміру областей когерентного розсіяння (ОКР) на фізичне розширення дифракційних ліній. Показано, що зі збільшенням теоретичної розмірної невідповідности кристалічної ґратниці відбувається зменшення розміру ОКР і збільшення спотворення кристалічної ґратниці, що приводить до зміцнення твердого розчину і, таким чином, до росту його твердости.",
+		"en": "The theoretical atom-size difference is calculated for crystal lattice of single-phase high-entropy alloys, which are consisting of the elements with close atomic radius or the elements with significantly different ones. X-ray diffraction patterns of these alloys are obtained and analysed. Based on the data of peak full-width at half-height of its maximum, an influence of magnitude of lattice distortions and size of coherent-scattering regions on physical broadening of diffraction lines is calculated. As shown, the increasing of theoretical atom-size difference causes decreasing of coherent-scattering regions as well as increasing of distortions in crystal lattice that leads to solid-solution strengthening and, therefore, to increasing of its hardness.",
+		"ru": "Рассчитано теоретическое размерное несоответствие кристаллической решётки однофазных высокоэнтропийных сплавов, которые состоят из элементов как с близкими размерами атомных радиусов, так и с большим различием в размерах атомов. Получены и проанализированы их дифрактограммы. На основе данных о ширине пика на половине высоты оценено и в дальнейшем рассчитано влияние величины дисторсий кристаллической решётки и размера областей когерентного рассеяния (ОКР) на физическое уширение дифракционных линий. Показано, что с увеличением теоретического размерного несоответствия кристаллической решётки происходит уменьшение размера ОКР и увеличение искажения кристаллической решётки, что приводит к упрочнению твёрдого раствора и, следовательно, к росту его твёрдости."
+	},
+	"keywords": {
+		"ua": "високоентропійний стоп, дисторсія кристалічної ґратниці, розмір областей когерентного розсіяння, ширина піка на половині висоти, твердість",
+		"en": "high-entropy alloy, lattice distortions, size of coherent-scattering regions, full-width at half-maximum (FWHM), hardness",
+		"ru": "высокоэнтропийный сплав, дисторсия кристаллической решётки, размер областей когерентного рассеяния, ширина пика на половине высоты, твёрдость"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. М. Мисливченко", "en": "O. M. Myslyvchenko", "ru": "А. Н. Мысливченко"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "В. Ф. Горбань", "en": "V. F. Gorban’", "ru": "В. Ф. Горбань"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "М. О. Крапівка", "en": "M. O. Krapivka", "ru": "Н. А. Крапивка"},
+			"OID": [2]
+		}
+	],
+	"references": {
+		"count": 17,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "S. Ranganathan, Current Science, 85, No. 5: 1404 (2003).",
+				"tr":  "S. Ranganathan, Current Science, 85, No. 5: 1404 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "J. W. Yeh, Y. L. Chen, S. J. Lin, S. J. Chen, and S. K. Chen, Mater. Sci. Forum (Trans Tech. Publications), 560: 1 (2007).",
+				"tr":  "J. W. Yeh, Y. L. Chen, S. J. Lin, S. J. Chen, and S. K. Chen, Mater. Sci. Forum (Trans Tech. Publications), 560: 1 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Y. Zhang and Y. J. Zhou, Mater. Sci. Forum (Trans Tech. Publications), 561: 1337 (2007).",
+				"tr":  "Y. Zhang and Y. J. Zhou, Mater. Sci. Forum (Trans Tech. Publications), 561: 1337 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Карпець, О. М. Мисливченко, О. С. Макаренко, В. Ф. Горбань, М. О. Крапівка, А. І. Дегула, Сверхтвердые материалы, № 3: 52 (2015).",
+				"tr":  "M. V. Karpets', O. M. Myslyvchenko, O. S. Makarenko, V. F. Gorban', M. O. Krapivka, and A. I. Dehula, Sverkhtverdye Materialy, No. 3: 52 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Карпець, О. М. Мисливченко, О. С. Макаренко, М. О. Крапівка, В. Ф. Горбань, А. В. Самелюк, Проблеми тертя та зношування, № 2: 103 (2014).",
+				"tr":  "M. V. Karpets', O. M. Myslyvchenko, O. S. Makarenko, M. O. Krapivka, V. F. Gorban', and A. V. Samelyuk, Problemy Tertya ta Znoshuvannya, No. 2: 103 (2014) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2008.07.124",
+				"or":  "C. Li, J. C. Li, M. Zhao, and Q. Jiang, J. Alloys Compd., 475, Nos. 1–2: 752 (2009).",
+				"tr":  "C. Li, J. C. Li, M. Zhao, and Q. Jiang, J. Alloys Compd., 475, Nos. 1–2: 752 (2009)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2011.02.171",
+				"or":  "O. N. Senkov, J. M. Scott, S. V. Senkova, D. B. Miracle, and C. F. Woodward, J. Alloys Compd., 509, No. 20: 6043 (2011).",
+				"tr":  "O. N. Senkov, J. M. Scott, S. V. Senkova, D. B. Miracle, and C. F. Woodward, J. Alloys Compd., 509, No. 20: 6043 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Карпец, О. М. Мисливченко, О. С. Макаренко, В. Ф. Горбань, М. О. Крапівка, Порошковая металлургия, № 5/6: 116 (2015).",
+				"tr":  "M. V. Karpets', O. M. Myslyvchenko, O. S. Makarenko, V. F. Gorban', and M. O. Krapivka, Poroshkovaya Metallurgiya, Nos. 5–6: 116 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Карпець, О. М. Мисливченко, М. О. Крапівка, В. Ф. Горбань, О. С. Макаренко, В. А. Назаренко, Сверхтвердые материалы, № 1: 30 (2015).",
+				"tr":  "M. V. Karpets', O. M. Myslyvchenko, M. O. Krapivka, V. F. Gorban', O. S. Makarenko, and V. A. Nazarenko, Sverkhtverdye Materialy, No. 1: 30 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "C. А. Фирстов, В. Ф. Горбань, А. А. Андреев, А. О. Крапивка, Наука и инновации, № 5: 32 (2013).",
+				"tr":  "S. A. Firstov, V. F. Gorban', A. A. Andreev, and A. O. Krapivka, Nauka i Innovatsii, No. 5: 32 (2013) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.36.06.0829",
+				"or":  "М. В. Карпец, Е. С. Макаренко, А. Н. Мысливченко, Н. А. Крапивка, В. Ф. Горбань, С. Ю. Макаренко, Металлофиз. новейшие технол., 36, № 6: 829 (2014).",
+				"tr":  "M. V. Karpets, Ye. S. Makarenko, A. N. Myslyvchenko, N. A. Krapivka, V. F. Gorban', and S. Yu. Makarenko, Metallofiz. Noveishie Tekhnol., 36, No. 6: 829 (2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Фирстов, В. Ф. Горбань, Н. И. Даниленко, М. В. Карпец, А. А. Андреев, Е. С. Макаренко, Порошковая металлургия, № 9/10: 93 (2013).",
+				"tr":  "S. A. Firstov, V. F. Gorban', N. I. Danylenko, M. V. Karpets, A. A. Andreev, and E. S. Makarenko, Poroshkovaya Metallurgiya, Nos. 9–10: 93 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Фирстов, Т. Г. Рогуль, Н. А. Крапивка, С. С. Пономарев, В. Н. Ткач, В. В. Ковыляев, В. Ф. Горбань, М. В. Карпец, Деформация и разрушение материалов, № 2: 9 (2013)",
+				"tr":  "S. A. Firstov, T. H. Rogul', N. A. Krapyvka, S. S. Ponomarev, V. N. Tkach, V. V. Kovylyaev, V. F. Gorban', and M. V. Karpets, Deformatsiya i Razrushenie Materialov, No. 2: 9 (2013) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.intermet.2010.05.014",
+				"or":  "O. N. Senkov, G. B. Wilks, D. B. Miracle, C. P. Chuang, and P. K. Liaw, Intermetallics, 18: 1758 (2010).",
+				"tr":  "O. N. Senkov, G. B. Wilks, D. B. Miracle, C. P. Chuang, and P. K. Liaw, Intermetallics, 18: 1758 (2010)."
+			},
+			{
+				"doi": "10.1016/j.matchemphys.2007.01.003",
+				"or":  "J. W. Yeh, S. Y. Chang, Y. D. Hong, S. K. Chen, and S. J. Lin, Mater. Chem. Phys., 103: 41 (2007).",
+				"tr":  "J. W. Yeh, S. Y. Chang, Y. D. Hong, S. K. Chen, and S. J. Lin, Mater. Chem. Phys., 103: 41 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "В. К. Григорович, Периодический закон Менделеева и электронное строение металлов (Москва: Наука: 1966).",
+				"tr":  "V. K. Grigorovich, Periodicheskiy Zakon Mendeleeva i Elektronnoe Stroenie Metallov (Moscow: Nauka: 1966) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Nolze, POWDER DIFFRACTION: Proceedings of the II International School on Powder Diffraction (Eds. S. P. Sen Gupta and P. Chatterjee) (Allied Publishers Limited: 2002), p. 146.",
+				"tr":  "G. Nolze, POWDER DIFFRACTION: Proceedings of the II International School on Powder Diffraction (Eds. S. P. Sen Gupta and P. Chatterjee) (Allied Publishers Limited: 2002), p. 146."
+			}
+		]
+	}
+}

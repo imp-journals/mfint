@@ -1,0 +1,127 @@
+{
+	"year":   2019,
+	"volume": 41,
+	"issue":  4,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [417,425],
+			"title": {
+				"ua": "Фазова синхронізація у системі паралельних нанорозмірних джозефсонівських контактів в зовнішньому високочастотному полі",
+				"en": "Phase Synchronization in a System of Parallel Connected Nano-Sized Josephson Contacts by External High-Frequency Field",
+				"ru": "Фазовая синхронизация в системе параллельных наноразмерных джозефсоновских контактов во внешнем высокочастотном поле"
+			},
+			"autors": {
+				"ua": "О. Л. Касаткін, А. П. Шаповалов, В. Є. Шатернік, С. І. Футимський",
+				"en": "O. L. Kasatkin, A. P. Shapovalov, V. E. Shaternik, and S. I. Futimskii",
+				"ru": "А. Л. Касаткин, А. П. Шаповалов, В. Е. Шатерник, С. И. Футимский"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [427,443],
+			"title": {
+				"ua": "Вплив упорядкування домішки на енергетичний спектр та електропровідність графену",
+				"en": "Influence of the Impurity Ordering on the Energy Spectrum and Electrical Conductivity of Graphene",
+				"ru": "Влияние упорядочения примеси на энергетический спектр и электропроводность графена"
+			},
+			"autors": {
+				"ua": "С. П. Репецький, І. Г. Вишивана, С. П. Кручинін, О. Я. Кузнєцова, Р. М. Мельник",
+				"en": "S. P. Repetsky, I. G. Vyshyvana, S. P. Kruchinin, O. Ya. Kuznetsova, and R. M. Melnyk",
+				"ru": "С. П. Репецкий, И. Г. Вышывана, С. П. Кручинин, Е. Я. Кузнецова, Р. М. Мельник"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [445,459],
+			"title": {
+				"ua": "Утворення острівцевих структур під час плавлення плівок олова на аморфній вуглецевій підкладці",
+				"en": "Formation of Island Structures during Melting Process of Tin Films on Amorphous Carbon Substrate",
+				"ru": "Образование островковых структур при плавлении плёнок олова на аморфной углеродной подложке"
+			},
+			"autors": {
+				"ua": "С. В. Дукаров, С. І. Петрушенко, В. М. Сухов, І. Г. Чурілов",
+				"en": "S. V. Dukarov, S. I. Petrushenko, V. M. Sukhov, and I. G. Churilov",
+				"ru": "С. В. Дукаров, С. И. Петрушенко, В. Н. Сухов, И. Г. Чурилов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [461,480],
+			"title": {
+				"ua": "Підвищення фізико-механічних та експлуатаційних властивостей електродугових та плазмових покриттів формуванням термічно стабільної здрібненої і нанорозмірної субструктури",
+				"en": "IIncrease of Physical-Mechanical and Operational Properties of Electric Arc and Plasma Sprayed Coatings by the Formation of a Thermally Stable Ground and Nanosize Substructure",
+				"ru": "Повышение физико-механических и эксплуатационных свойств электродуговых и плазменных покрытий формированием термически стабильной измельчённой и наноразмерной субструктуры"
+			},
+			"autors": {
+				"ua": "О. М. Дубовий, А. А. Карпеченко, М. М. Бобров, О. В. Лабарткава, Ю. Є. Неделько, О. О. Лимар",
+				"en": "O. M. Dubovyy, A. A. Karpechenko, M. M. Bobrov, A. V. Labartkava, Yu. E. Nedelko, and O. O. Lymar",
+				"ru": "А. Н. Дубовой, А. А. Карпеченко, М. Н. Бобров, А. В. Лабарткава, Ю. Е. Неделько, А. А. Лимарь"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [481,500],
+			"title": {
+				"ua": "Комплексне дослідження метало-матричного композиту на основі Al, зміцненого гібридними наночастинками",
+				"en": "A Comprehensive Study of Aluminium Based Metal Matrix Composite Reinforced with Hybrid Nanoparticles",
+				"ru": "Комплексное исследование металло-матричного композита на основе Al, упрочнённого гибридными наночастицами"
+			},
+			"autors": {
+				"ua": "Р. Венкатеш, Вадді Сешагірі Рао, Сатхіш Ренгараджан",
+				"en": "R. Venkatesh, Vaddi Seshagiri Rao, and Sathish Rengarajan",
+				"ru": "Р. Венкатеш, Вадди Сешагири Рао, Сатхиш Ренгараджан"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [501,527],
+			"title": {
+				"ua": "Основи формування оптимального комплексу механічних властивостей для захисту від окрихчення конструкційних титанових сплавів",
+				"en": "Bases of Formation of the Optimal Complex of Mechanical Properties for Protection against Construction Titanium Alloys Embrittlement",
+				"ru": "Основы формирования оптимального комплекса механических свойств для защиты от охрупчивания конструкционных титановых сплавов"
+			},
+			"autors": {
+				"ua": "А. В. Шиян, Ю. Я. Мєшков",
+				"en": "A. V. Shiyan and Yu. Ya. Meshkov",
+				"ru": "А. В. Шиян, Ю. Я. Мешков"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [529,548],
+			"title": {
+				"ua": "Магнітна мікроструктура епітаксійних плівок LaGa-заміщеного залізо-ітрієвого ґранату",
+				"en": "Magnetic Microstructure of Epitaxial Films of LaGa-Substituted Yttrium Iron Garnet",
+				"ru": "Магнитная микроструктура эпитаксиальных плёнок LaGa-замещённого железо-иттриевого граната"
+			},
+			"autors": {
+				"ua": "А. О. Коцюбинський, В. В. Мокляк, І. М. Фодчук, В. О. Коцюбинський, П. М. Литвин, А. Б. Груб’як",
+				"en": "A. O. Kotsyubynsky, V. V. Moklyak, I. M. Fodchuk, V. O. Kotsyubynsky, P. M. Lytvyn, and A. B. Grubyak",
+				"ru": "А. О. Коцюбинский, В. В. Мокляк, И. М. Фодчук, В. О. Коцюбинский, П. М. Литвин, А. Б. Грубьяк"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [549,564],
+			"title": {
+				"ua": "Дослідження управління якістю з’єднання сталевих деталей через керування процесами електродугового зварювання",
+				"en": "Investigation of the Quality Management of Steel Details Connection due to Control of Arc Welding Processes",
+				"ru": "Исследование управления качеством соединения стальных деталей путём контроля процессов электродуговой сварки"
+			},
+			"autors": {
+				"ua": "А. В. Гуляєв, І. П. Даценко, Д. В. Смерницький, М. П. Будзинський, О. В. Диких",
+				"en": "A. V. Hulyayev, I. P. Datsenko, D. V. Smernyts’kyy, M. P. Budzyns’kyy, and O. V. Dykykh",
+				"ru": "А. В. Гуляев, И. П. Даценко, Д. В. Смерницкий, Н. П. Будзинский, А. В. Диких"
+			}
+		}
+	]
+}

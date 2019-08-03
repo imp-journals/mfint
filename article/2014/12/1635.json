@@ -1,0 +1,68 @@
+{
+	"_id":    "MFiNT.36.12.1635",
+	"year":   2014,
+	"volume": 36,
+	"issue":  12,
+	"pages":  [1635,1640],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["05.05.2014","10.11.2014"],
+	"PACS":   "71.10.Ca, 71.45.-d, 72.15.Lh, 72.15.Nj, 73.20.Mf, 73.21.-b, 73.63.Fg",
+	"title":   {
+		"ua": "Щодо частот колективних електронних осциляцій у провідних нановолокнах",
+		"en": "On the Frequencies of Collective Electron Oscillations in Conductive Nanofibers",
+		"ru": "О частотах коллективных электронных осцилляций в проводящих нановолокнах"
+	},
+	"abstract": {
+		"ua": "Розраховано резонансну частоту колективних електронних коливань у провідному нановолокні. Враховано силу тертя, яка діє з боку йонів на електрони, що колективно коливаються. Завдяки дії цієї сили з’являється фазовий зсув між фазою прикладеного зовнішнього однорідного змінного електричного поля та фазою коливного руху колективних електронів. Цей фазовий зсув також розраховано. Вимірювані резонансна частота, фазовий зсув і/або амплітуда резонансу можуть використовуватися для розрахунку часу релаксації $\\tau$, відповідального за тертя.",
+		"en": "The resonant frequency of the collective electron oscillations in a conductive nanofiber is calculated. The friction force acting on the oscillating collective electrons from the side of the ions is taken into account. Due to the action of this force, the phase shift between the phase of the applied external homogeneous alternative electric field and the phase of the oscillating movement of the collective electrons appears. This phase shift is also calculated. Measured resonant frequency, phase shift, and/or resonant amplitude could be used to calculate the relaxation time $\\tau$ responsible for the friction.",
+		"ru": "Рассчитана резонансная частота коллективных электронных колебаний в проводящем нановолокне. Учтена сила трения, действующая на коллективно колеблющиеся электроны со стороны ионов. Благодаря действию этой силы появляется фазовый сдвиг между фазой приложенного внешнего однородного переменного электрического поля и фазой колебательного движения коллективных электронов. Этот фазовый сдвиг также рассчитан. Измеренная резонансная частота, фазовый сдвиг и/или амплитуда резонанса могут использоваться для расчёта времени релаксации $\\tau$, ответственного за трение."
+	},
+	"keywords": {
+		"ua": "колективні електронні коливання, фазовий зсув, нановолокна",
+		"en": "collective electron oscillations, phase shift, nanofibers",
+		"ru": "коллективные электронные колебания, фазовый сдвиг, нановолокна"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. Корнюшин", "en": "Yu. Kornyushin", "ru": "Ю. Корнюшин"},
+			"OID": [484]
+		}
+	],
+	"references": {
+		"count": 6,
+		"list":  [
+			{
+				"doi": "10.1103/PhysRev.33.195",
+				"or":  "L. Tonks and I. Langmuir, Phys. Rev., 33: 195 (1929).",
+				"tr":  "L. Tonks and I. Langmuir, Phys. Rev., 33: 195 (1929)."
+			},
+			{
+				"doi": "10.1080/00107510110048057",
+				"or":  "Y. Kornyushin and M. Ya. Amusia, Contemporary Physics, 42: 159 (2001).",
+				"tr":  "Y. Kornyushin and M. Ya. Amusia, Contemporary Physics, 42: 159 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Sommerfeld, Electrodynamics (New York: Academic: 1952).",
+				"tr":  "A. Sommerfeld, Electrodynamics (New York: Academic: 1952)."
+			},
+			{
+				"doi": "",
+				"or":  "Y. Kornyushin, Metallofiz. Noveishie Tekhnol., 33, No. 10: 1303 (2011).",
+				"tr":  "Y. Kornyushin, Metallofiz. Noveishie Tekhnol., 33, No. 10: 1303 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Kittel, Introduction to Solid State Physics (New York: John Wiley & Sons: 1956).",
+				"tr":  "C. Kittel, Introduction to Solid State Physics (New York: John Wiley & Sons: 1956)."
+			},
+			{
+				"doi": "",
+				"or":  "Y. Kornyushin, Fizika Nizkikh Temperatur, 34: 1063 (2008).",
+				"tr":  "Y. Kornyushin, Fizika Nizkikh Temperatur, 34: 1063 (2008)."
+			}
+		]
+	}
+}

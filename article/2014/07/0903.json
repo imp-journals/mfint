@@ -1,0 +1,140 @@
+{
+	"_id":    "MFiNT.36.07.0903",
+	"year":   2014,
+	"volume": 36,
+	"issue":  7,
+	"pages":  [903,916],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["22.04.2013","05.06.2014"],
+	"PACS":   "61.72.Ff, 75.30.Gw, 75.50.Tt, 75.50.Ww, 75.75.Cd, 81.07.Wx, 81.40.Rs",
+	"title":   {
+		"ua": "Особливості ГДДР за низьких тисків водню в стопах системи Nd—Fe—B",
+		"en": "Peculiarities of the HDDR Processes at Low Hydrogen Pressures in Nd—Fe—B System Alloys",
+		"ru": "Особенности ГДДР при низких давлениях водорода в сплавах системы Nd—Fe—B"
+	},
+	"abstract": {
+		"ua": "Методами диференційного термічного (ДТА), рентґенофазового (РФА) аналізів та електронної сканівної мікроскопії досліджено особливості гідрування, диспропорціонування, десорбування, рекомбінування (ГДДР) в стопах Nd$_{11,8}$Fe$_{82,3}$B$_{5,9}$ і Nd$_{16}$Fe$_{76}$B$_{8}$ під тиском водню у 0,05 МПа в діяпазоні температур 20—840°C. Встановлено, що за умов солід ГДДР в окремих областях стопів формується фаза Nd$_{2}$Fe$_{14}$B з високодисперсною пластинчастою мікроструктурою з товщиною пластин до 200 нм. Показано можливість формування високодисперсної магнетоанізотропної мікроструктури у випадках, коли серед продуктів диспропорціонування є залишки вихідної феромагнетної фази Nd$_{2}$Fe$_{14}$B.",
+		"en": "The features of hydrogenation, disproportionation, desorption, recombination (HDDR) processes in Nd$_{11.8}$Fe$_{82.3}$B$_{5.9}$ and Nd$_{16}$Fe$_{76}$B$_{8}$ alloys under hydrogen pressure of 0.05 MPa in the temperature range of 20—840°C are studied by means of differential thermal analysis (DTA), X-ray diffraction analysis and scanning electron microscopy (SEM) methods. Superfine Nd$_{2}$Fe$_{14}$B phase with up 200 nm thickness lamellar microstructure is formed in some alloys’ areas after solid HDDR under low hydrogen pressure. The principal possibility of fine-grained magnetic-anisotropy microstructure formation in Nd—Fe—B system alloys is shown in the cases of presence of small amount of initial ferromagnetic Nd$_{2}$Fe$_{14}$B phase among disproportionated products.",
+		"ru": "Методами дифференциального термического (ДТА), рентгенофазового (РФА) анализов и электронной сканирующей микроскопии исследованы особенности гидрирования, диспропорционирования, десорбции, рекомбинации (ГДДР) в сплавах Nd$_{11,8}$Fe$_{82,3}$B$_{5,9}$ и Nd$_{16}$Fe$_{76}$B$_{8}$ под давлением водорода 0,05 МПа в диапазоне температур 20—840°C. Установлено, что при солид ГДДР в отдельных областях сплавов формируется фаза Nd$_{2}$Fe$_{14}$B с высокодисперсной пластинчатой микроструктурой с толщиной пластин до 200 нм. Показана возможность формирования высокодисперсной магнитоанизотропной микроструктуры в случаях, когда среди продуктов диспропорционирования есть остатки исходной ферромагнитной фазы Nd$_{2}$Fe$_{14}$B."
+	},
+	"keywords": {
+		"ua": "ініційовані воднем фазові перетворення, магнетна анізотропія, феромагнетні стопи, Nd$_{2}$Fe$_{14}$B, водневі технології",
+		"en": "hydrogen initiated phase transformations, magnetic anisotropy, ferromagnetic alloys, Nd$_{2}$Fe$_{14}$B, hydrogen technology",
+		"ru": "инициированные водородом фазовые превращения, магнитная анизотропия, ферромагнитные сплавы, Nd$_{2}$Fe$_{14}$B, водородные технологии"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. І. Булик", "en": "I. I. Bulyk", "ru": "И. И. Булык"},
+			"OID": [6]
+		},
+		{
+			"AID": {"ua": "А. М. Тростянчин", "en": "А. M. Trostianchyn", "ru": "А. Н. Тростянчин"},
+			"OID": [6]
+		},
+		{
+			"AID": {"ua": "В. В. Бурховецький", "en": "V. V. Burkhovetskyi", "ru": "В. В. Бурховецкий"},
+			"OID": [8]
+		},
+		{
+			"AID": {"ua": "В. Ю. Таренков", "en": "V. Yu. Tarenkov", "ru": "В. Ю. Таренков"},
+			"OID": [8]
+		}
+	],
+	"references": {
+		"count": 18,
+		"list":  [
+			{
+				"doi": "10.1016/0304-8853(89)90333-8",
+				"or":  "R. Coehoorn, D. B. DeMooji, and D. DeWaard, J. Magn. Magn. Mater., 80: 101 (1989).",
+				"tr":  "R. Coehoorn, D. B. DeMooji, and D. DeWaard, J. Magn. Magn. Mater., 80: 101 (1989)."
+			},
+			{
+				"doi": "10.1063/1.342307",
+				"or":  "G. C. Hadjipanayis and W. Gong, J. Appl. Phys., 64: 5559 (1988).",
+				"tr":  "G. C. Hadjipanayis and W. Gong, J. Appl. Phys., 64: 5559 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Liu, B. Cui, S. Bauser, R. Leese, J. S. Hilton, R. H. Yu, A. Kramp, J. Dent, and D. Miles, Proc. 17th Int. Workshop on Rare Earth Magnets and Their Applications (August 18–22, 2002, Newark, Delaware, U.S.A.) (Eds. G. C. Hadjipanayis and M. J. Bonder) (Princeton, N.J.: Rinton Press: 2002), p. 939.",
+				"tr":  "S. Liu, B. Cui, S. Bauser, R. Leese, J. S. Hilton, R. H. Yu, A. Kramp, J. Dent, and D. Miles, Proc. 17th Int. Workshop on Rare Earth Magnets and Their Applications (August 18–22, 2002, Newark, Delaware, U.S.A.) (Eds. G. C. Hadjipanayis and M. J. Bonder) (Princeton, N.J.: Rinton Press: 2002), p. 939."
+			},
+			{
+				"doi": "10.1109/TMAG.2003.815749",
+				"or":  "O. Gutfleisch, K. Khlopkov, A. Teresiak, K.-H. Müller, G. Drazic, C. Mishima, and Y. Honkura, IEEE Trans. Magn., 39: 2926 (2003).",
+				"tr":  "O. Gutfleisch, K. Khlopkov, A. Teresiak, K.-H. Müller, G. Drazic, C. Mishima, and Y. Honkura, IEEE Trans. Magn., 39: 2926 (2003)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2004.11.423",
+				"or":  "Y. Honkura, C. Mishima, N. Hamada, G. Drazic, and O. Gutfleisch, J. Magn. Magn. Mater., 290–291: 1282 (2005).",
+				"tr":  "Y. Honkura, C. Mishima, N. Hamada, G. Drazic, and O. Gutfleisch, J. Magn. Magn. Mater., 290–291: 1282 (2005)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2010.12.002",
+				"or":  "K. Güth, T. G. Woodcock, L. Schultz, and O. Gutfleisch, J. Acta Mater., 59: 2029 (2011).",
+				"tr":  "K. Güth, T. G. Woodcock, L. Schultz, and O. Gutfleisch, J. Acta Mater., 59: 2029 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Mishima, N. Hamada, H. Mitari, and Y. Honkura, Proc. 16th Int. Workshop on Rare Earth Magnets and Their Applications (Sendai, Japan: 2000), p. 873.",
+				"tr":  "C. Mishima, N. Hamada, H. Mitari, and Y. Honkura, Proc. 16th Int. Workshop on Rare Earth Magnets and Their Applications (Sendai, Japan: 2000), p. 873."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2006.01.145",
+				"or":  "Hae-Woong Kwon and Jung-Hwan Kim, J. Magn. Magn. Mater., 312: 222 (2006).",
+				"tr":  "Hae-Woong Kwon and Jung-Hwan Kim, J. Magn. Magn. Mater., 312: 222 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "Y. Honkura, N. Hamada, and C. Mishima, US Patent 7, 138, 018 (2006).",
+				"tr":  "Y. Honkura, N. Hamada, and C. Mishima, US Patent 7, 138, 018 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "І. І. Булик, В. В. Панасюк, А. М. Тростянчин, Патент України 96810 (2011).",
+				"tr":  "I. I. Bulyk, V. V. Panasyuk, and A. M. Trostyanchyn, Patent of Ukraine 96810 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "І. І. Булик, В. В. Панасюк, А. М. Тростянчин, Патент України 96811 (2011).",
+				"tr":  "I. I. Bulyk, V. V. Panasyuk, and A. M. Trostyanchyn, Patent of Ukraine 96811 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "І. І. Булик, А. М. Тростянчин, П. Я. Лютий, Фізико-хімічна механіка матеріалів, 48, № 3: 53 (2012).",
+				"tr":  "I. I. Bulyk, A. M. Trostyanchyn, and P. Ya. Lyutyj, Fizyko-Khimichna Mekhanika Materialiv, 48, No. 3: 53 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "І. І. Булик, Р. В. Денис, В. В. Панасюк та ін., Фізико-хімічна механіка матеріалів, 37, № 4: 15 (2001).",
+				"tr":  "I. I. Bulyk, R. V. Denys, V. V. Panasyuk et al., Fizyko-Khimichna Mekhanika Materialiv, 37, No. 4: 15 (2001) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. G. Akselrud, Yu. N. Grin, and P. Yu. Zavalij, Col. Abs. 12th European Crystallographic Meeting (Moscow: 1989), vol. 3, p. 155.",
+				"tr":  "L. G. Akselrud, Yu. N. Grin, and P. Yu. Zavalij, Col. Abs. 12th European Crystallographic Meeting (Moscow: 1989), vol. 3, p. 155."
+			},
+			{
+				"doi": "",
+				"or":  "http://www.ccp14.ac.uk/solution/indexing/",
+				"tr":  "http://www.ccp14.ac.uk/solution/indexing/"
+			},
+			{
+				"doi": "",
+				"or":  "J. Rodriguez-Carvajal, Newsletter, 26: 12 (2001).",
+				"tr":  "J. Rodriguez-Carvajal, Newsletter, 26: 12 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "www.sigmaaldrich.com",
+				"tr":  "www.sigmaaldrich.com"
+			},
+			{
+				"doi": "10.1007/978-94-007-1090-0_2",
+				"or":  "N. Cannesan and I. R. Harris, Bonded Magnets. NATO Science Series: II. Mathematics, Physics and Chemistry (Ed. G. C. Hadjipanayis) (Dordrecht: Kluwer Academic Publishers: 2003), vol. 118, p. 13.",
+				"tr":  "N. Cannesan and I. R. Harris, Bonded Magnets. NATO Science Series: II. Mathematics, Physics and Chemistry (Ed. G. C. Hadjipanayis) (Dordrecht: Kluwer Academic Publishers: 2003), vol. 118, p. 13."
+			}
+		]
+	}
+}

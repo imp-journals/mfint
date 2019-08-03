@@ -1,0 +1,219 @@
+{
+	"_id":    "MFiNT.37.05.0665",
+	"year":   2015,
+	"volume": 37,
+	"issue":  5,
+	"pages":  [665,681],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["20.01.2015"],
+	"PACS":   "06.60.Vz, 62.20.Qp, 81.20.Vj, 81.40.Pq, 81.70.Bt, 81.70.Jb, 83.50.Uv",
+	"title":  {
+		"ua": "Вплиав швидкості обертання і часу тертя на з’єднання сталей AISI 4340—2205 зварюванням тертям",
+		"en": "The Effects of Rotation Speed and Friction Time for Joining of AISI 4340—2205 Steels by Friction Welding",
+		"ru": "Влияние скорости вращения и времени трения на соединение сталей AISI 4340—2205 сваркой трением"
+	},
+	"abstract": {
+		"ua": "Зварювання тертям являє собою процес твердотільного з’єднання, який в теперішній час інтенсивно використовується завдяки таким його перевагам, як низька підвідна теплота, висока продуктивність, простота реалізації та дружність до довкілля. Матеріяли, які важко з’єднуються зварюванням топленням, можуть бути успішно зварені зварюванням тертям. Методи зварювання топленням при з’єднанні різних матеріялів характеризуються утворенням в зоні стоплення фаз крихких інтерметалевих з’єднань, які знижують міцність зварного з’єднання. В даній роботі досліджується вплив швидкости обертання та часу тертя на з’єднання тертям сталей AISI 4340—2205. Зразки з відгартованої сталі AISI 4340 і двофазної неіржавійної сталі AISI 2205, кожний діяметром у 12 мм, використовувалися для виготовлення з’єднань. Випробування зварювання тертям виконувалися з використанням машини для зварювання тертям безредукторного типу, яку було сконструйовано та виготовлено нами для цього. Після зварювання тертям для визначення мікроструктурних змін в області роздільчої межі зварених зразків використовувалися методи оптичної та сканувальної електронної мікроскопії, а також енергодисперсійна рентґенівська спектроскопія та рентґенодифракційний аналіз. Для визначення механічних властивостей зварених зразків виконувалися дослідження мікротвердости та випробування на розрив. Результати експериментів показують, що відгартована сталь AISI 4340 може з’єднуватися з двофазною неіржавійною сталлю AISI 2205 методою зварювання тертям з одержанням зварного шва достатньої міцности. Значення міцности на розрив також підтвердили цей результат і те, що в області контакту не виникають інтерметалеві фази. Максимальної міцности на розрив у 635,66 МПа було досягнуто для з’єднань, яких було одержано за наступних умов зварювання: швидкість обертання – 2200 об/хв., тиск тертя – 40 МПа, тиск пресування – 80 МПа, час тертя – 6 с, а час пресування – 3 с.",
+		"en": "Friction welding is a solid state joining process used extensively currently owing to its advantages such as low heat input, high production efficiency, ease of manufacture, and environment friendliness. Materials difficult to be welded by fusion welding processes can be successfully welded by friction welding. In the fusion welding methods for joining different materials, brittle intermetallic compounds phases are produced in the fusion zone, which reduces the strength of the welding joint. In this study, the effects of rotation speed and friction time for joining of AISI 4340—2205 steels welded by friction are investigated. Specimens of AISI 4340 tempered steel and AISI 2205 duplex stainless steel, each of 12 mm diameters, are used to fabricate the joints. The friction welding tests are carried out using a direct-drive type friction-welding machine, which was designed and manufactured for this purpose by us. After friction welding, in order to determine the occurred microstructural changes, the interface regions of the welded specimens are examined by means of OM, SEM, EDS and X-Ray analysis. Microhardness and tensile tests are conducted to determine the mechanical properties of the welded specimens. The experimental results indicate that AISI 4340 tempered steel could be joined to AISI 2205 duplex stainless steel using the friction welding technique and for achieving a weld with sufficient strength. Tensile strength values also confirm this result, and, at the interface, intermetallic phases do not occurred. The maximum tensile strength of 635.66 MPa could be obtained for the joints welded under the welding conditions of rotation speed of 2200 rpm, friction pressure of 40 MPa, forging pressure of 80 MPa, friction time of 6 s, and forging time of 3 s.",
+		"ru": "Сварка трением является процессом твердотельного соединения, который в настоящее время интенсивно используется благодаря таким его преимуществам, как низкая подводимая теплота, высокая производительность, простота реализации и дружественность по отношению к окружающей среде. Материалы, которые трудно соединяются сваркой плавлением, могут быть успешно сварены сваркой трением. Методы сварки плавлением при соединении различных материалов характеризуются образованием в зоне сплавления фаз хрупких интерметаллических соединений, которые снижают прочность сварного соединения. В настоящей работе исследуется влияние скорости вращения и времени трения на соединение трением сталей AISI 4340—2205. Образцы из отпущенной стали AISI 4340 и двухфазной нержавеющей стали AISI 2205, каждый диаметром 12 мм, использовались для изготовления соединений. Испытания сварки трением производились с использованием машины для сварки трением безредукторного типа, которая была сконструирована и изготовлена нами для этой цели. После сварки трением для определения микроструктурных изменений в области границы раздела сваренных образцов использовались методы оптической и сканирующей электронной микроскопии, а также энергодисперсионная рентгеновская спектроскопия и рентгенодифракционный анализ. Для определения механических свойств сваренных образцов проводились исследования микротвёрдости и испытания на разрыв. Результаты экспериментов показывают, что отпущенная сталь AISI 4340 может соединяться с двухфазной нержавеющей сталью AISI 2205 методом сварки трением с получением сварного шва достаточной прочности. Значения прочности на разрыв также подтвердили этот результат и то, что в области контакта не образуются интерметаллические фазы. Максимальная прочность на разрыв 635,66 МПа была достигнута для соединений, полученных при следующих условиях сварки: скорость вращения – 2200 об/мин., давление трения – 40 МПа, давление прессования – 80 МПа, время трения – 6 с и время прессования – 3 с."
+	},
+	"keywords": {
+		"ua": "AISI 4340, AISI 2205, зварювання тертям, швидкість обертання, час тертя",
+		"en": "AISI 4340, AISI 2205, friction welding, rotation speed, friction time",
+		"ru": "AISI 4340, AISI 2205, сварка трением, скорость вращения, время трения"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "У. Калігулу", "en": "U. Caligulu", "ru": "У. Калигулу"},
+			"OID": [413]
+		},
+		{
+			"AID": {"ua": "М. Ялкіноз", "en": "M. Yalcinoz", "ru": "М. Ялкиноз"},
+			"OID": [435]
+		},
+		{
+			"AID": {"ua": "Н. Каті", "en": "N. Kati", "ru": "Н. Кати"},
+			"OID": [435]
+		},
+		{
+			"AID": {"ua": "З. Балалан", "en": "Z. Balalan", "ru": "З. Балалан"},
+			"OID": [436]
+		},
+		{
+			"AID": {"ua": "С. Іслак", "en": "S. Islak", "ru": "С. Ислак"},
+			"OID": [437]
+		}
+	],
+	"references": {
+		"count": 33,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "ASM Handbook on Welding (Eds. K. Ferjutz and J. R. Davis), vol. 6, p. 471 (1993).",
+				"tr":  "ASM Handbook on Welding (Eds. K. Ferjutz and J. R. Davis), vol. 6, p. 471 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Charles, Proc. of 7th Duplex Int. Conf. and Expo (Grado: 2007).",
+				"tr":  "J. Charles, Proc. of 7th Duplex Int. Conf. and Expo (Grado: 2007)."
+			},
+			{
+				"doi": "",
+				"or":  "J. C. Lippold and D. J. Kotecki, Welding Metallurgy and Weldability of Stainless Steels (Hoboken, NJ: Wiley-Interscience: 2005).",
+				"tr":  "J. C. Lippold and D. J. Kotecki, Welding Metallurgy and Weldability of Stainless Steels (Hoboken, NJ: Wiley-Interscience: 2005)."
+			},
+			{
+				"doi": "",
+				"or":  "A. V. Jebaraj and L. Ajaykumar, Indian Journal of Engineering and Materials Sciences, No. 21: 155 (2014).",
+				"tr":  "A. V. Jebaraj and L. Ajaykumar, Indian Journal of Engineering and Materials Sciences, No. 21: 155 (2014)."
+			},
+			{
+				"doi": "10.1016/j.jmatprotec.2006.11.123",
+				"or":  "S. D. Meshram, T. Mohandas, and G. Madhusudhan Reddy, J. Mater. Processing Technol., 184, Iss. 1–3: 330 (2007).",
+				"tr":  "S. D. Meshram, T. Mohandas, and G. Madhusudhan Reddy, J. Mater. Processing Technol., 184, Iss. 1–3: 330 (2007)."
+			},
+			{
+				"doi": "10.1016/j.matdes.2007.06.006",
+				"or":  "P. Sathiya, S. Aravindan, and A. Noorul Haq, Materials and Design, 29, Iss. 6: 1099 (2008).",
+				"tr":  "P. Sathiya, S. Aravindan, and A. Noorul Haq, Materials and Design, 29, Iss. 6: 1099 (2008)."
+			},
+			{
+				"doi": "10.1016/j.matdes.2008.06.070",
+				"or":  "S. Celik and I. Ersozlu, Material Design, 30, Iss. 4: 970 (2009).",
+				"tr":  "S. Celik and I. Ersozlu, Material Design, 30, Iss. 4: 970 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "http://www.celmercelik.com",
+				"tr":  "http://www.celmercelik.com"
+			},
+			{
+				"doi": "10.1108/00368790410524074",
+				"or":  "M. Sahin and H. E. Akata, Indust. Lubricat. Tribol., 56, No. 2: 122 (2004).",
+				"tr":  "M. Sahin and H. E. Akata, Indust. Lubricat. Tribol., 56, No. 2: 122 (2004)."
+			},
+			{
+				"doi": "10.1016/j.matdes.2006.01.032",
+				"or":  "M. Sahin, Materials and Design, 28: 1348 (2007).",
+				"tr":  "M. Sahin, Materials and Design, 28: 1348 (2007)."
+			},
+			{
+				"doi": "10.3139/146.110917",
+				"or":  "I. Kirik and N. Ozdemir, Int. J. Mater. Res., 104, No. 8: 769 (2013).",
+				"tr":  "I. Kirik and N. Ozdemir, Int. J. Mater. Res., 104, No. 8: 769 (2013)."
+			},
+			{
+				"doi": "10.1016/j.matdes.2005.06.011",
+				"or":  "N. Ozdemir, F. Sarsilmaz, and A. Hascalik, Material Design, 28, Iss. 1: 301 (2007).",
+				"tr":  "N. Ozdemir, F. Sarsilmaz, and A. Hascalik, Material Design, 28, Iss. 1: 301 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Welding Handbook. Vol. 2. Welding Processes (8th Ed.) (Miami: American Welding Society Inc.: 1997), No.739–761.",
+				"tr":  "Welding Handbook. Vol. 2. Welding Processes (8th Ed.) (Miami: American Welding Society Inc.: 1997), No.739–761."
+			},
+			{
+				"doi": "",
+				"or":  "R. E. Chalmers, Manufacturing Engineering, No. 126: 64 (2001).",
+				"tr":  "R. E. Chalmers, Manufacturing Engineering, No. 126: 64 (2001)."
+			},
+			{
+				"doi": "10.1016/j.matlet.2005.03.034",
+				"or":  "N. Ozdemir, Mater. Lett., 59, Iss. 19–20: 2504 (2005).",
+				"tr":  "N. Ozdemir, Mater. Lett., 59, Iss. 19–20: 2504 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "D. E. Spindler, Welding Journal, 73, No. 3: 37 (1994).",
+				"tr":  "D. E. Spindler, Welding Journal, 73, No. 3: 37 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "I. Kirik, N. Ozdemir, and U. Caligulu, Kovove Materials, No. 51: 4 (2013).",
+				"tr":  "I. Kirik, N. Ozdemir, and U. Caligulu, Kovove Materials, No. 51: 4 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "I. Kirik, N. Ozdemir, and F. Sarsilmaz, MP Material Testing, No. 54: 10 (2012).",
+				"tr":  "I. Kirik, N. Ozdemir, and F. Sarsilmaz, MP Material Testing, No. 54: 10 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "M. B. Uday, M. N. Ahmad Fauzi, H. Zuhailawati, and A. B. Ismail, Sci. Technol. Welding and Joining, No. 15: 7 (2010).",
+				"tr":  "M. B. Uday, M. N. Ahmad Fauzi, H. Zuhailawati, and A. B. Ismail, Sci. Technol. Welding and Joining, No. 15: 7 (2010)."
+			},
+			{
+				"doi": "10.1016/j.jmatprotec.2007.03.077",
+				"or":  "J. Domblesky and F. F. Kraft, J. Mater. Process. Technol., 191, Iss. 1–3: 82 (2007).",
+				"tr":  "J. Domblesky and F. F. Kraft, J. Mater. Process. Technol., 191, Iss. 1–3: 82 (2007)."
+			},
+			{
+				"doi": "10.1016/j.jmatprotec.2006.08.030",
+				"or":  "A. Urena, E. Otero, M. V. Utrilla, and C. J. Múnez, J. Mater. Process. Technol., 182, Iss. 1–3: 624 (2007).",
+				"tr":  "A. Urena, E. Otero, M. V. Utrilla, and C. J. Múnez, J. Mater. Process. Technol., 182, Iss. 1–3: 624 (2007)."
+			},
+			{
+				"doi": "10.1016/S0924-0136(96)02721-5",
+				"or":  "J. S. Ku, N. G. Ho, and S. C. Tjong, J. Mater. Process. Technol., 63, Iss. 1–3: 770 (1997).",
+				"tr":  "J. S. Ku, N. G. Ho, and S. C. Tjong, J. Mater. Process. Technol., 63, Iss. 1–3: 770 (1997)."
+			},
+			{
+				"doi": "10.1016/j.jmatprotec.2006.03.157",
+				"or":  "T. Kannan and N. Murugan, J. Mater. Process. Technol., 176, Iss. 1–3: 230 (2006).",
+				"tr":  "T. Kannan and N. Murugan, J. Mater. Process. Technol., 176, Iss. 1–3: 230 (2006)."
+			},
+			{
+				"doi": "10.1016/j.optlastec.2011.05.025",
+				"or":  "U. Reisgen, M. Schleser, O. Mokrov, and E. Ahmed, Optic Laser Technology, 44, Iss. 1: 92 (2012).",
+				"tr":  "U. Reisgen, M. Schleser, O. Mokrov, and E. Ahmed, Optic Laser Technology, 44, Iss. 1: 92 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "A. N. Dobrovidov, Weld Prod., No. 22: 3 (1975).",
+				"tr":  "A. N. Dobrovidov, Weld Prod., No. 22: 3 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Ishibashi, S. Ezoe, and S. Tanaka, Bulletin of the JSME, No. 26: 216 (1983).",
+				"tr":  "A. Ishibashi, S. Ezoe, and S. Tanaka, Bulletin of the JSME, No. 26: 216 (1983)."
+			},
+			{
+				"doi": "10.1007/s00170-004-2018-6",
+				"or":  "P. Sathiya, S. Aravindan, and A. Noorul Haq, Int. J. Adv. Man. Tech., 26, Iss. 5–6: 505 (2005).",
+				"tr":  "P. Sathiya, S. Aravindan, and A. Noorul Haq, Int. J. Adv. Man. Tech., 26, Iss. 5–6: 505 (2005)."
+			},
+			{
+				"doi": "10.1016/j.matdes.2008.10.030",
+				"or":  "D. Ananthapadmanaban, V. Seshagiri Rao, Nikhil Abraham, and K. Prasad Rao, Materials and Design, 30, Iss. 7: 2642 (2009).",
+				"tr":  "D. Ananthapadmanaban, V. Seshagiri Rao, Nikhil Abraham, and K. Prasad Rao, Materials and Design, 30, Iss. 7: 2642 (2009)."
+			},
+			{
+				"doi": "10.1016/j.jmatprotec.2004.05.017",
+				"or":  "V. V. Satyanarayana, G. Madhusudhan Reddy, and T. Mohandas, J. Materials Processing Technology, 160, Iss. 2: 128 (2005).",
+				"tr":  "V. V. Satyanarayana, G. Madhusudhan Reddy, and T. Mohandas, J. Materials Processing Technology, 160, Iss. 2: 128 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Yilmaz (Istanbul: Technical University of Yildiz: 1993).",
+				"tr":  "M. Yilmaz (Istanbul: Technical University of Yildiz: 1993)."
+			},
+			{
+				"doi": "10.1016/S1006-706X(12)60049-1",
+				"or":  "R. Paventhan, P. R. Lakshminarayanan, and V. Balasubramanian, J. Iron and Steel Research, International, 19, Iss. 1: 66 (2012).",
+				"tr":  "R. Paventhan, P. R. Lakshminarayanan, and V. Balasubramanian, J. Iron and Steel Research, International, 19, Iss. 1: 66 (2012)."
+			},
+			{
+				"doi": "10.12739/NWSA.2013.8.2.2A0080",
+				"or":  "S. Mercan and N. Ozdemir, NWSA: Technological Applied Sciences, 8, Iss. 2: 15 (2013).",
+				"tr":  "S. Mercan and N. Ozdemir, NWSA: Technological Applied Sciences, 8, Iss. 2: 15 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "N. Kati and S. Ozan, New World Science Academy (NWSA), 2A0086, No. 9 (3): 22 (2014).",
+				"tr":  "N. Kati and S. Ozan, New World Science Academy (NWSA), 2A0086, No. 9 (3): 22 (2014)."
+			}
+		]
+	}
+}

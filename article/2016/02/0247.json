@@ -1,0 +1,188 @@
+{
+	"_id":    "MFiNT.38.02.0247",
+	"year":   2016,
+	"volume": 38,
+	"issue":  2,
+	"pages":  [247,265],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["24.03.2015"],
+	"PACS":   "52.20.-j, 52.70.Nc, 52.77.Dq, 52.80.Yr, 68.55.Nq, 81.15.Gh",
+	"title":   {
+		"ua": "Динаміка поведінки крапельної фази в плазмових потоках, що формуються в розрядних проміжках вакуумно-дугових розрядів з робочим газом аргоном",
+		"en": "Dynamics of Behaviour of the Droplet Phase in the Plasma Flows Formed in Discharge Gaps of Vacuum—Arc Discharges with Working Argon Gas",
+		"ru": "Динамика поведения капельной фазы в плазменных потоках, формирующихся в разрядных промежутках вакуумно-дуговых разрядов с рабочим газом аргоном"
+	},
+	"abstract": {
+		"ua": "В роботі розглянуто динаміку поведінки мікрокраплинної фази матеріялу катоди при функціонуванні вакуумної дуги в присутності пасивного робочого газу арґону. За допомогою методики багатосіткового електростатичного аналізатора показано, що в плазмових потоках, які поширюються від катоди, є в наявності і позитивно, і неґативно заряджені мікрочастинки. Позитивний заряд на мікрочастинках зумовлений їх термоемісією. Інтенсивність випаровування крапель, що летять вільно і які набувають позитивного заряду, визначається в основному густиною й енергією йонного потоку на них, а також залежить від значення електронної температури плазми в розрядному проміжку. Для розрахунку швидкостей випаровування крапель необхідно знати як точний вигляд функцій розподілу за енергією для одно- і багатозарядних йонів у плазмовому потоці вздовж всієї траєкторії руху краплі, так і початкові значення температур і траєкторії мікрочастинок, що покидають катоду. На швидкість випаровування мікрокраплі при дуже інтенсивних енергетичних потоках на неї великий вплив може чинити парогазова мішень, що виникає навколо краплі під час її випаровування.",
+		"en": "This investigation attempts to consider the dynamics of cathode material microdroplets’ phase behaviour during vacuum-arc operation in the presence of passive working gas of argon. Using the multigrid electrostatic analyser technique, it is shown that both positively and negatively charged microparticles are present in plasma flows propagating from the cathode. The positive charge on microparticles is determined by their thermal emission. The evaporation intensity of freely flying droplets, which become positively charged, is mainly determined by both density and energy of ion flux on them and depends on the values of the plasma electron temperature in the discharge gap. For the calculation of drop evaporation rate, the value of explicit view of the energy distribution function for the singly and multiply charged ions in the flux along the trajectory of the drops, and initial values of the temperature and trajectories of microparticles, which leave cathode are required. Under very intensive energy flows on microdroplet, the presence of a gas—vapour target occurring around the drop during evaporation may cause a strong influence on the microdroplets’ evaporation rate.",
+		"ru": "В работе рассмотрена динамика поведения микрокапельной фазы материала катода при функционировании вакуумной дуги в присутствии пассивного рабочего газа Ar. С помощью методики многосеточного электростатического анализатора показано, что в плазменных потоках, распространяющихся от катода, присутствуют и положительно, и отрицательно заряженные микрочастицы. Положительный заряд на микрочастицах обусловлен их термоэмиссией. Интенсивность испарения свободно летящих капель, которые приобретают положительный заряд, определяется в основном плотностью и энергией ионного потока на них и зависит от значения электронной температуры плазмы в разрядном промежутке. Для вычисления скоростей испарения капель требуется знать как точный вид функций распределения по энергии для одно- и многозарядных ионов в потоке вдоль всей траектории движения капли, так и начальные значения температур и траектории микрочастиц, покидающих катод. На скорость испарения микрокапли при очень интенсивных энергетических потоках на неё сильное влияние может оказывать наличие парогазовой мишени, возникающей вокруг капли во время её испарения."
+	},
+	"keywords": {
+		"ua": "вакуумно-дугове нанесення, заряд крапель, титанові плівки, мікрокраплинна фаза, функція розподілу йонів, електростатичний аналізатор",
+		"en": "cathodic vacuum-arc deposition, charge of drops, titanium films, microdroplet phase, ion distribution function, electrostatic analyser",
+		"ru": "вакуумно-дуговое нанесение, заряд капель, титановые плёнки, микрокапельная фаза, функция распределения ионов, электростатический анализатор"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. Є. Свавільний", "en": "M. Ye. Svavil’nyi", "ru": "Н. Е. Свавильный"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 30,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "﻿И. И. Аксенов, А. А. Андреев, В. А. Белоус, В. Е. Стрельницкий, В. М. Хороших, Вакуумная дуга (Киев: Наукова думка: 2012)",
+				"tr":  "I. I. Aksyonov, A. A. Andreyev, V. A. Belous, V. Ye. Strel'nitski, and V. M. Khoroshikh, Vakuumnaya Duga [The Vacuum Arc] (Kiev: Naukova Dumka: 2012) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "R. L. Boxman, P. J. Martin, and D. M. Sanders, Handbook of Vacuum Arc: Science and Technology (Park Ridge, NJ: Noyes Publ.: 1995)",
+				"tr":  "R. L. Boxman, P. J. Martin, and D. M. Sanders, Handbook of Vacuum Arc: Science and Technology (Park Ridge, NJ: Noyes Publ.: 1995)"
+			},
+			{
+				"doi": "",
+				"or":  "Handbook of Plasma Immersion Ion Implantation and Deposition (Eds. A. Anders and A. Willey) (New York: Interscienсe Publ.: 1995)",
+				"tr":  "Handbook of Plasma Immersion Ion Implantation and Deposition (Eds. A. Anders and A. Willey) (New York: Interscience Publ.: 1995)"
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Аксенов, Вакуумная дуга в эрозионных источниках плазмы (Харьков: ННЦ «ХФТИ»: 2005)",
+				"tr":  "I. I. Aksyonov, Vakuumnaya Duga v Erozionnykh Istochnikakh Plazmy [The Vacuum Arc in the Erosion Plasma Sources] (Kharkov: NSC 'KhPhTI': 2005) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "И. Г. Кесаев, Катодные процессы электрической дуги (Москва: Наука: 1968)",
+				"tr":  "I. G. Kesayev, Katodnyye Protsessy Elektricheskoy Dugi [The Cathode Phenomena of the Vacuum Arc] (Moscow: Nauka: 1968) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Панарин, Технологии ремонта, восстановления и упрочнения деталей машин, механизмов, оборудования, инструмента и технологической оснастки (Санкт-Петербург: Изд-во Политехнического ун-та: 2006), ч. 1, с. 191",
+				"tr":  "V. Ye. Panarin, Tekhnologii Remonta, Vosstanovleniya i Uprochneniya Detaley Mashin, Mekhanizmov, Oborudovaniya, Instrumenta i Tekhnologicheskoy Osnastki [The Technology for Repairs, Recovering and Strengthening of the Machines Component, Machinerys, Equipment, Instrument and Technological Tools] (Saint Petersburg: Izd-vo Politekhnicheskogo Un-ta: 2006), Pt. 1, p. 191 (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Панарин, Е. В. Дабижа, Сверхтвёрдые материалы, № 6: 41 (2001)",
+				"tr":  "V. Ye. Panarin and Ye. V. Dabizha, Sverkhtverdye Materialy, No. 6: 41 (2001) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Кузьмичев, Магнетронные распылительные системы (Киев: Аверс: 2008)",
+				"tr":  "A. I. Kuz'michov, Magnetronnye Raspylitelnye Sistemy [The Magnetron Sputtering Systems] (Kiev: Avers: 2008) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Аксёнов, Вакуумно-дуговые источники фильтрованной плазмы: история, теория, практика, перспективы (Харьков: ННЦ «ХФТИ», Константа: 2003)",
+				"tr":  "I. I. Aksyonov, Vakuumno-Dugovyye Istochniki Filtrovannoy Plazmy: Istoriya, Teoriya, Praktika, Perspektivy [The Vacuum-Arc Sources of Filtered Plasma: History, Theory, Practice, Prospects] (Kharkov: NSC 'KhPhTI', Konstanta: 2003) (in Russian)"
+			},
+			{
+				"doi": "10.1088/0022-3727/30/21/011",
+				"or":  "M. Keidar, I. I. Beilis, R. Aharonov, D. Arbilly, R. L. Boxman, and S. Goldsmith, J. Phys. D: Appl. Phys., 30, No. 21: 2972 (1997)",
+				"tr":  "M. Keidar, I. I. Beilis, R. Aharonov, D. Arbilly, R. L. Boxman, and S. Goldsmith, J. Phys. D: Appl. Phys., 30, No. 21: 2972 (1997)"
+			},
+			{
+				"doi": "10.3367/UFNr.0172.200204b.0401",
+				"or":  "А. В. Елецкий, УФН, 172, № 4: 401 (2002)",
+				"tr":  "A. V. Yeletskiy, Usp. Fiz. Nauk, 172, No. 4: 401(2002) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "Н. Е. Свавильный, В. Е. Панарин, А. И. Хоминич, Инженерный журнал «Нанотехника», 21, № 1: 45 (2010)",
+				"tr":  "N. Ye. Svavil'nyi, V. Ye. Panarin, and A. I. Khominich, Inzhenernyy Zhurnal 'Nanotekhnika', 21, No. 1: 45 (2010) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "Н. Е. Свавильный, Металлофиз. новейшие технол., 32, № 11: 1485 (2010)",
+				"tr":  "M. E. Svavilnyj, Metallofiz. Noveishie Tekhnol., 32, No. 11: 1485 (2010) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "Н. И. Ионов, ЖТФ, 34, № 5: 769 (1964)",
+				"tr":  "N. I. Ionov, Zh. Tekh. Fiz., 34, No. 5: 769 (1964) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Романюк, Н. Е. Свавильный, УФЖ, 21, № 6: 981 (1976)",
+				"tr":  "L. I. Romanyuk and N. Ye. Svavil'nyi, Ukr. Fiz. Zhurn., 21, No. 6: 981 (1976) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Копышинский, Н. Е. Свавильный, В. Ф. Семенюк, В. Н. Хоминич, Д. Л. Чернолуцкий, Технология и конструирование электронной аппаратуры, № 1: 38 (1997)",
+				"tr":  "V. V. Kopyshinskyi, N. Ye. Svavil'nyi, V. F. Semenyuk, V. N. Khominich, and D. L. Chernolutskij, Tekhnologiya i Konstruirovanie Elektronnoy Apparatury, No. 1: 38 (1997) (in Russian)"
+			},
+			{
+				"doi": "10.1016/0040-6090(87)90177-5",
+				"or":  "E. Erturk and H. J. Heuvel, Thin Solid Films, 153, Nos. 1–3: 135 (1987)",
+				"tr":  "E. Erturk and H. J. Heuvel, Thin Solid Films,153, Nos. 1–3: 135 (1987)"
+			},
+			{
+				"doi": "10.1063/1.328467",
+				"or":  "R. L. Boxman and S. Goldsmith, J. Appl. Phys., 52, No. 1: 151 (1981)",
+				"tr":  "R. L. Boxman and S. Goldsmith, J. Appl. Phys., 52, No. 1: 151 (1981)"
+			},
+			{
+				"doi": "10.1016/S0257-8972(97)00011-X",
+				"or":  "Z. Cheng, M. Wang, and J. Zou, Surf. Coat. Technol., 92, Nos. 1–2: 50 (1997)",
+				"tr":  "Z. Cheng, M. Wang, and J. Zou, Surf. Coat. Technol., 92, Nos. 1–2: 50 (1997)"
+			},
+			{
+				"doi": "",
+				"or":  "F. Rysanek, R. L. Barton, and M. Keidar, 42nd AIAA/ASME/SAE/ASEE Joint Propulsion Conf. and Exhibit (Sacramento, California: 2006), p. 4499",
+				"tr":  "F. Rysanek, R. L. Barton, and M. Keidar, 42nd AIAA/ASME/SAE/ASEE Joint Propulsion Conf. and Exhibit (Sacramento, California: 2006), p. 4499"
+			},
+			{
+				"doi": "10.1109/27.491763",
+				"or":  "M. Keidar, I. Beilis, R. L. Boxman, and S. Goldsmith, IEEE Trans. Plasma Sci., 24, No. 1: 226 (1996)",
+				"tr":  "M. Keidar, I. Beilis, R. L. Boxman, and S. Goldsmith, IEEE Trans. Plasma Sci., 24, No. 1: 226 (1996)"
+			},
+			{
+				"doi": "10.1016/S0257-8972(96)02976-3",
+				"or":  "M. Keidar, I. Beilis, R. L. Boxman, and S. Goldsmith, Surf. Coat. Technol., 86–87, Pt. 1: 415 (1996)",
+				"tr":  "M. Keidar, I. Beilis, R. L. Boxman, and S. Goldsmith, Surf. Coat. Technol., 86–87, Pt. 1: 415 (1996)"
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Кунченко, В. Г. Падалка, В. М. Хороших, ЖТФ, 54, № 8: 1530 (1984)",
+				"tr":  "V. V. Kunchenko, V. G. Padalka, and V. M. Khoroshikh, Zh. Tekh. Fiz., 54, No. 8: 1530 (1984) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "А. Энгель, Ионизованные газы (Москва: ГИФМЛ: 1959)",
+				"tr":  "A. Engel, Ionizovannye Gazy [The Ionized Gases] (Moscow: GIFML: 1959) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Плютто, В. Н. Рыжков, А. Т. Капина, ЖЭТФ, 47, № 2: 494 (1964)",
+				"tr":  "V. V. Plyutto, V. N. Ryzhkov, and A. T. Kapina, Zh. Eksp. Teor. Fiz., 47, No. 2: 494 (1964) (in Russian)"
+			},
+			{
+				"doi": "10.1063/1.1144756",
+				"or":  "I. B. Brown, Rev. Sci. Instr., 65, No. 10: 3061 (1994)",
+				"tr":  "I. B. Brown, Rev. Sci. Instr., 65, No. 10: 3061 (1994)"
+			},
+			{
+				"doi": "10.1063/1.1657960",
+				"or":  "W. D. Davis and H. C. Miller, J. Appl. Phys., 40, No. 5: 2212 (1969)",
+				"tr":  "W. D. Davis and H. C. Miller, J. Appl. Phys., 40, No. 5: 2212 (1969)"
+			},
+			{
+				"doi": "",
+				"or":  "М. Д. Габович, Физика и техника плазменных источников ионов (Москва: Атомиздат: 1972)",
+				"tr":  "M. D. Gabovich, Fizika i Tekhnika Plazmennykh Istochnikov Ionov [The Physics and Engineering of the Plasma Ions Sources] (Moscow: Atomizdat: 1972) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "И. К. Кикоин, Таблицы физических величин (Москва: Атомиздат: 1976)",
+				"tr":  "I. K. Kikoin, Tablitsy Fizicheskikh Velichin [The Tables of Physical Quantities] (Moscow: Atomizdat: 1976) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "А. Мюллер, В. П. Шевелько, ЖТФ, 50, № 5: 985 (1980)",
+				"tr":  "A. Myuller and V. P. Shevel'ko, Zh. Tekh. Fiz., 50, No. 5: 985 (1980) (in Russian)"
+			}
+		]
+	}
+}

@@ -1,0 +1,95 @@
+{
+	"_id":    "MFiNT.38.02.0277",
+	"year":   2016,
+	"volume": 38,
+	"issue":  2,
+	"pages":  [277,284],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["16.10.2015","21.12.2015"],
+	"PACS":   "72.15.Jf, 72.80.Tm, 73.40.Cg, 73.40.Jn, 73.50.Lw, 73.61.At, 81.40.Rs",
+	"title":   {
+		"ua": "Термоелектричний розмірний ефект багатошарової композиції Al—Cu",
+		"en": "Thermoelectric Size Effect of a Multilayer Composition Al—Cu",
+		"ru": "Термоэлектрический размерный слойной композиции Al—Cu"
+	},
+	"abstract": {
+		"ua": "Виміряна залежність термоелектрорушійної сили S(h$_{Cu}$) багатошарових композицій Al—Cu від товщини мідного шару h$_{Cu}$ у діяпазоні h$_{Cu}$ = (20—1200) нм. Ґрадієнт температури був перпендикулярним до площин шарів. Коли 1200 нм > h$_{Cu}$ >> l$_{Cu}$ нм (l$_{Cu}$ $\\leq$ (30—42) – довжина вільного пробігу електрона в міді), тоді |S| $\\cong$ 4 мкВ$\\cdot$К$^{-1}$ є порівнянною із |S| біметалів. Коли h$_{Cu}$ < 100 нм, шари перешкоджають рухові електронів як надґратниця.",
+		"en": "The dependence of the thermoelectric power S(h$_{Cu}$) of multilayer composition Al—Cu on the Cu-layer thickness, h$_{Cu}$, is measured in range h$_{Cu}$ = (20—1200) nm. The temperature gradient is normal to plains of layers. When 1200 nm > hСu >> l$_{Cu}$ (l$_{Cu}$ $\\leq$ (30—42) nm–electron free pass in Cu), the |S| $\\cong$ 4 $\\mu$V$\\cdot$K$^{-1}$ is comparable with |S| of bimetals. When hСu < 100 nm, the layers impede to electron motion as superlattice.",
+		"ru": "Измерена зависимость термоэлектродвижущей силы S(h$_{Cu}$) многослойных композиций Al—Cu от толщины медного слоя h$_{Cu}$ в диапазоне h$_{Cu}$ = (20—1200) нм. Градиент температуры был перпендикулярным к плоскостям слоёв. Когда 1200 нм > h$_{Cu}$ >> l$_{Cu}$ (l$_{Cu}$ $\\leq$ (30—42) нм – длина свободного пробега электрона в меди), тогда |S| $\\cong$ 4 мкВ$\\cdot$К$^{-1}$ сравнима с |S| биметаллов. Когда h$_{Cu}$ < 100 нм, слои препятствуют движению электронов как сверхрешётка."
+	},
+	"keywords": {
+		"ua": "багатошарові композиції, термоелектрорушійна сила, розмірний ефект",
+		"en": "multilayer composite material, thermoelectric power, size effect",
+		"ru": "многослойные композиции, термоэлектродвижущая сила, размерный эффект"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. С. Копань", "en": "V. S. Kopan’", "ru": "В. С. Копань"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "Н. В. Хуторянська", "en": "N. V. Hutoryanska", "ru": "Н. В. Хуторянская"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "І. А. Селезньова", "en": "I. A. Seleznyova", "ru": "И. А. Селезнева"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "Ю. В. Копань", "en": "Yu. V. Kopan’", "ru": "Ю. В. Копань"},
+			"OID": [201]
+		}
+	],
+	"references": {
+		"count": 9,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "﻿В. С. Копань, Микрослоистые композиционные материалы на основе алюминия, меди и железа (Автореферат дис. … д-ра физ.-мат. наук) (Киев: Киевский государственный университет им. Т. Г. Шевченко: 1988)",
+				"tr":  "V. S. Kopan', Mikrosloistye Kompozitsionnye Materialy na Osnove Alyuminiya, Medi i Zheleza [Microlayered Composite Materials Based on Aluminium, Copper and Iron] (Thesis of Disser. for … Dr. of Phys.-Math. Sci.) (Kiev: T. G. Shevchenko Kiev State University: 1988) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Копань, Композиційні матеріали (Київ: Пульсари: 2004)",
+				"tr":  "V. S. Kopan', Kompozytsiyni Materialy [Composite Materials] (Kyiv: Pul'sary: 2004) (in Ukrainian)"
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, В. П. Майборода, Ю. А. Куницкий, С. Л. Рево, Нанослоистые композиционные материалы и покрытия (Киев: Академпериодика: 2004)",
+				"tr":  "A. P. Shpak, V. P. Mayboroda, Yu. A. Kunitskiy, and S. L. Revo, Nanosloistye Kompozitsionnye Materialy i Pokrytiya [Nanolayer Composite Materials and Coatings] (Kiev: Akademperiodika: 2004) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Копань, Н. В. Хуторянська, Ю. В. Копань, Вісник КУ. Серія: фіз.-мат. науки, № 1: 339 (2005)",
+				"tr":  "V. S. Kopan', N. V. Khutoryans'ka, and Yu. V. Kopan', Visnyk KU. Seriya: Fiz.-Mat. Nauky, No. 1: 339 (2005) (in Ukrainian)"
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Копань, Н. В. Хуторянська, Ю. В. Копань, Вісник КУ. Серія: фіз.-мат. науки, № 3: 498 (2005)",
+				"tr":  "V. S. Kopan', N. V. Khutoryans'ka, and Yu. V. Kopan', Visnyk KU. Seriya: Fiz.-Mat. Nauky, No. 3: 498 (2005) (in Ukrainian)"
+			},
+			{
+				"doi": "",
+				"or":  "Ф. Дж. Блатт, Теория подвижности электронов в твёрдых телах (Москва–Ленинград: Физматгиз: 1963) (пер. с англ.)",
+				"tr":  "F. J. Blatt, Teoriya Podvizhnosti Elektronov v Tverdykh Telakh [Theory of Mobility of Electrons in Solids] (Moscow–Leningrad: Fizmatgiz: 1963) (Russian translation)"
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Беженар, Дун Занмин, В. С. Копань, С. Л. Рево, Н. В. Хуторянская, Металлофиз. новейшие технол., 35, № 5: 595 (2013)",
+				"tr":  "A. A. Bezhenar, Dong Zhanmin, V. S. Kopan', S. L. Revo, and N. V. Hutoryanska, Metallofiz. Noveishie Tekhnol., 35, No. 5: 595 (2013) (in Russian)"
+			},
+			{
+				"doi": "10.1103/PhysRev.136.A1740",
+				"or":  "R. P. Huebener, Phys. Rev., 136: A1740 (1964)",
+				"tr":  "R. P. Huebener, Phys. Rev., 136: A1740 (1964)"
+			},
+			{
+				"doi": "",
+				"or":  "Г. К. Котырло, Ю. Н. Лобунец, Расчёт и конструирование термоэлектрических генераторов и тепловых насосов (Киев: Наукова думка: 1980)",
+				"tr":  "G. K. Kotyrlo and Yu. N. Lobunets, Raschet i Konstruirovanie Termoelektricheskikh Generatorov i Teplovykh Nasosov [The Calculation and Design of Thermoelectric Generators and Heat Pumps] (Kiev: Naukova Dumka: 1980) (in Russian)"
+			}
+		]
+	}
+}

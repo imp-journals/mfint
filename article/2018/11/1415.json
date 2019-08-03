@@ -1,0 +1,172 @@
+{
+	"_id":    "MFiNT.40.11.1415",
+	"year":   2018,
+	"volume": 40,
+	"issue":  11,
+	"pages":  [1415,1435],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["17.06.2018"],
+	"PACS":   "05.40.Ca, 61.72.Bb, 64.60.Cn, 64.60.De, 66.30.Ny, 66.30.Pa, 81.30.Hd",
+	"title":   {
+		"ua": "Знову про Мартанів кінетичний середньопольовий модель: частотно-шумовий підхід у порівнянні з методом Монте-Карло",
+		"en": "Martin’s Kinetic Mean-Field Model Revisited—Frequency Noise Approach versus Monte Carlo",
+		"ru": "Снова о кинетической среднеполевой модели Мартана: частотно-шумовой подход в сравнении с методом Монте-Карло"
+	},
+	"abstract": {
+		"ua": "Запропоновано розвиток нелінійного кінетичного середньопольового моделю Жоржа Мартана 1990 року. Показано, що у наближенні квазистаціонарности він відповідає Хачатуряновому моделю. Строго доведено, що Мартанів модель та його 3$D$-версія завжди забезпечують зменшення вільної енергії та не уможливлюють моделювати подолання бар’єру вільної енергії разом з зародкуванням. Для реалізації процесів зародкування в середньо-польових моделях необхідно вводити шум. На відміну від поширеного способу введення шуму (як шуму концентрації), ми вводимо шум частоти обмінів місцями через стрибки як основну причину флюктуацій. Нова метода називається SKMF (Stochastic Kinetic Mean Field). У цій роботі досліджуються та порівнюються дисперсія та просторові кореляції флюктуацій концентрації за допомогою трьох метод — прямого моделювання за методою Монте-Карло, чисельного моделювання за методою SKMF й аналітичного наближення в рамках SKMF. Порівняння цих метод підтверджує відповідність певної амплітуди шуму частот усередненню по відповідній скінченній кількості Монте-Карло-запусків (по скінченній кількості копій канонічного ансамблю).",
+		"en": "Development of the non-linear kinetic mean-field model suggested by George Martin in 1990 is discussed. Its steady-state limit is shown to coincide with Khachaturyan’s model. It is proved rigorously that Martin’s model and its 3$D$ version always provide decrease of free energy and are unable to model any overcoming of free-energy barrier, including nucleation. To enable nucleation processes within the mean-field models, the introduction of noise is necessary. Contrary to common way of noise introduction (noise of concentration), we introduce the noise of jump frequencies as a basic reason of fluctuations. The new method is called as Stochastic Kinetic Mean Field (SKMF). In this paper, we investigate and compare the dispersion and spatial correlations of concentration fluctuations by three methods—direct Monte Carlo simulation, numeric simulation by SKMF method, and analytic approximation within the scope of SKMF. Comparison confirms the correspondence of frequency noise to the averaging over finite number of Monte Carlo runs (over finite number of copies of the canonical ensemble).",
+		"ru": "Предложено развитие нелинейной кинетической среднеполевой модели Жоржа Мартана 1990 года. Показано, что в приближении квазистационарности она соответствует модели Хачатуряна. Строго доказано, что модель Мартана и её 3$D$-версия всегда обеспечивают уменьшение свободной энергии и не позволяют моделировать преодоление барьера свободной энергии вместе с зародышеобразованием. Для реализации процессов зародышеобразования в среднеполевых моделях необходимо вводить шум. В отличие от распространённого способа введения шума (как шума концентрации), мы вводим шум частоты обменов местами посредством скачков как основную причину флуктуаций. Новый метод называется SKMF (Stochastic Kinetic Mean Field). В этой работе исследуются и сравниваются дисперсия и пространственные корреляции флюктуаций концентрации, полученные с помощью трёх методов — прямого моделирования методом Монте-Карло, численного моделирования по методу SKMF, аналитического приближения в рамках SKMF. Сравнение этих методов подтверждает соответствие определённой амплитуды шума частоты усреднению по соответствующему конечному количеству Монте-Карло-запусков (по конечному числу копий канонического ансамбля)."
+	},
+	"keywords": {
+		"ua": "кінетика, середньопольове наближення, дифузія, шум, коливання, флюктуація, кореляція, ймовірність",
+		"en": "kinetics, mean-field approximation, diffusion, noise, fluctuation, correlation, probability",
+		"ru": "кинетика, среднеполевое приближение, диффузия, шум, флуктуация, корреляция, вероятность"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Андрій Гусак", "en": "Andriy Gusak", "ru": "Андрей Гусак"},
+			"OID": [214]
+		},
+		{
+			"AID": {"ua": "Тетяна Запорожець", "en": "Tetiana Zaporozhets", "ru": "Татьяна Запорожец"},
+			"OID": [214]
+		}
+	],
+	"references": {
+		"count": 26,
+		"list":  [
+			{
+				"doi": "10.1007/BF01011513",
+				"or":  "J. S. Rowlinson, Journal of Statistical Physics, 20, No. 2: 197 (1979).",
+				"tr":  "J. S. Rowlinson, Journal of Statistical Physics, 20, No. 2: 197 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Vlasov, Many-Particle Theory and Its Application to Plasma (New York: Gordon and Breach: 1961); A. A. Vlasov, Teoriya Mnogikh Chastits. 2nd Ed. (Moscow: LIBROKOM: 2012).",
+				"tr":  "A. A. Vlasov, Many-Particle Theory and Its Application to Plasma (New York: Gordon and Breach: 1961); A. A. Vlasov, Teoriya Mnogikh Chastits. 2nd Ed. (Moscow: LIBROKOM: 2012)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Vlasov, Non-Local Statistical Mechanics (Moscow: Nauka: 1978) (in Russian).",
+				"tr":  "A. A. Vlasov, Non-Local Statistical Mechanics (Moscow: Nauka: 1978) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRev.79.705",
+				"or":  "W. Anderson, Phys. Rev., 79, No. 4: 705 (1950).",
+				"tr":  "W. Anderson, Phys. Rev., 79, No. 4: 705 (1950)."
+			},
+			{
+				"doi": "10.1103/PhysRev.97.1490",
+				"or":  "P. O. Löwdin, Phys. Rev., 97, No. 6: 1490 (1955).",
+				"tr":  "P. O. Löwdin, Phys. Rev., 97, No. 6: 1490 (1955)."
+			},
+			{
+				"doi": "10.1098/rspa.1940.0014",
+				"or":  "R. H. Fowler and E. A. Guggenheim, Proc. of the Royal Society of London. Series A, Mathematical and Physical Sciences (1940), vol. 174, p. 189.",
+				"tr":  "R. H. Fowler and E. A. Guggenheim, Proc. of the Royal Society of London. Series A, Mathematical and Physical Sciences (1940), vol. 174, p. 189."
+			},
+			{
+				"doi": "",
+				"or":  "A. Khachaturyan, Theory of Structural Transformations in Solids (New York: John Wiley & Sons: 1983).",
+				"tr":  "A. Khachaturyan, Theory of Structural Transformations in Solids (New York: John Wiley & Sons: 1983)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.41.2279",
+				"or":  "G. Martin, Phys. Rev. B, 41, No. 4: 2279 (1990).",
+				"tr":  "G. Martin, Phys. Rev. B, 41, No. 4: 2279 (1990)."
+			},
+			{
+				"doi": "10.1080/14786435.2012.746793",
+				"or":  "N. V. Storozhuk, K. V. Sopiga, and A. M. Gusak, Philos. Mag., 93, No. 16: 1999 (2013).",
+				"tr":  "N. V. Storozhuk, K. V. Sopiga, and A. M. Gusak, Philos. Mag., 93, No. 16: 1999 (2013)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.89.165901",
+				"or":  "Z. Erdélyi, I. A. Szabó, and D. L. Beke, Phys. Rev. Lett., 89, No. 16: 165901-1 (2002).",
+				"tr":  "Z. Erdélyi, I. A. Szabó, and D. L. Beke, Phys. Rev. Lett., 89, No. 16: 165901-1 (2002)."
+			},
+			{
+				"doi": "10.1126/science.1104400",
+				"or":  "Z. Erdélyi, M. Sladecek, L. M. Stadler, I. Zizak, G. A. Langer, M. Kis-Varga, D. L. Beke, and B. Sepiol, Science, 306: 1913 (2004).",
+				"tr":  "Z. Erdélyi, M. Sladecek, L. M. Stadler, I. Zizak, G. A. Langer, M. Kis-Varga, D. L. Beke, and B. Sepiol, Science, 306: 1913 (2004)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/SSP.138.283",
+				"or":  "T. M. Radchenko, V. A. Tatarenko, and H. Zapolsky, Solid State Phenomena, 138: 283 (2008).",
+				"tr":  "T. M. Radchenko, V. A. Tatarenko, and H. Zapolsky, Solid State Phenomena, 138: 283 (2008)."
+			},
+			{
+				"doi": "10.15407/ufm.13.03.269",
+				"or":  "S. M. Bokoch, V. A. Tatarenko, and I. V. Vernyhora, Uspehi Fiziki Metallov, 13: 269 (2012).",
+				"tr":  "S. M. Bokoch, V. A. Tatarenko, and I. V. Vernyhora, Uspehi Fiziki Metallov, 13: 269 (2012)."
+			},
+			{
+				"doi": "10.15407/ufm.09.01.001",
+				"or":  "T. M. Radchenko and V. A. Tatarenko, Uspehi Fiziki Metallov, 9, No. 1: 1 (2008) (in Ukrainian).",
+				"tr":  "T. M. Radchenko and V. A. Tatarenko, Uspehi Fiziki Metallov, 9, No. 1: 1 (2008) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. A. Ivanov, M. M. Churakov, and V. I. Glushchenko, Physics of Metals and Metallography, 88, No. 2: 12 (1999) (in Russian).",
+				"tr":  "M. A. Ivanov, M. M. Churakov, and V. I. Glushchenko, Physics of Metals and Metallography, 88, No. 2: 12 (1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Y. Wang, L. Chen, and A. Khachaturyan, Solid-to-Solid Phase Transformations (PTM’94, 1994), p. 245.",
+				"tr":  "Y. Wang, L. Chen, and A. Khachaturyan, Solid-to-Solid Phase Transformations (PTM'94, 1994), p. 245."
+			},
+			{
+				"doi": "10.1016/S1359-6454(98)00015-9",
+				"or":  "Y. Wang, D. Banerjee, C. C. Su, and A. G. Khachaturyan, Acta Mater., 46, No. 9: 2983 (1998).",
+				"tr":  "Y. Wang, D. Banerjee, C. C. Su, and A. G. Khachaturyan, Acta Mater., 46, No. 9: 2983 (1998)."
+			},
+			{
+				"doi": "10.1016/j.cpc.2016.03.003",
+				"or":  "Z. Erdélyi, M. Pasichnyy, V. Bezpalchuk, J. J. Tomán, B. Gajdics, and A. M. Gusak, Computer Physics Communications, 204: 31 (2016).",
+				"tr":  "Z. Erdélyi, M. Pasichnyy, V. Bezpalchuk, J. J. Tomán, B. Gajdics, and A. M. Gusak, Computer Physics Communications, 204: 31 (2016)."
+			},
+			{
+				"doi": "10.15407/mfint.38.09.1135",
+				"or":  "V. M. Bezpalchuk, M. O. Pasichnyy, and A. M. Gusak, Metallofiz. Noveishie Tekhnol., 38, No. 9: 1135 (2016) (in Ukrainian).",
+				"tr":  "V. M. Bezpalchuk, M. O. Pasichnyy, and A. M. Gusak, Metallofiz. Noveishie Tekhnol., 38, No. 9: 1135 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/ufm.18.03.205",
+				"or":  "V. M. Bezpalchuk, A. M. Gusak, and R. Kozubski, Uspehi Fiziki Metallov, 18, No. 3: 205 (2017).",
+				"tr":  "V. M. Bezpalchuk, A. M. Gusak, and R. Kozubski, Uspehi Fiziki Metallov, 18, No. 3: 205 (2017)."
+			},
+			{
+				"doi": "10.15407/mfint.39.07.0865",
+				"or":  "V. M. Bezpalchuk, D. S. Rusenko, and A. M. Gusak, Metallofiz. Noveishie Tekhnol., 39, No. 7: 865 (2017) (in Ukrainian).",
+				"tr":  "V. M. Bezpalchuk, D. S. Rusenko, and A. M. Gusak, Metallofiz. Noveishie Tekhnol., 39, No. 7: 865 (2017) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/j.jnoncrysol.2013.04.019",
+				"or":  "A. S. Abyzov and J. W. Schmelzer, J. Non-Crystalline Solids, 384: 8 (2014).",
+				"tr":  "A. S. Abyzov and J. W. Schmelzer, J. Non-Crystalline Solids, 384: 8 (2014)."
+			},
+			{
+				"doi": "10.1063/1.1786914",
+				"or":  "J. W. Schmelzer, A. S. Abyzov, and J. Möller, J. Chem. Phys., 121, No. 14: 6900 (2004).",
+				"tr":  "J. W. Schmelzer, A. S. Abyzov, and J. Möller, J. Chem. Phys., 121, No. 14: 6900 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Bezpalchuk, R. Kozubski, M. Pasichnyy, and A. Gusak, Defect and Diffusion Forum, 383: 59 (2018).",
+				"tr":  "V. Bezpalchuk, R. Kozubski, M. Pasichnyy, and A. Gusak, Defect and Diffusion Forum, 383: 59 (2018)."
+			},
+			{
+				"doi": "10.1080/09500839.2011.600257",
+				"or":  "A. M. Gusak, F. Hodaj, and G. Schmitz, Philos. Mag. Lett., 91, No. 9: 610 (2011).",
+				"tr":  "A. M. Gusak, F. Hodaj, and G. Schmitz, Philos. Mag. Lett., 91, No. 9: 610 (2011)."
+			},
+			{
+				"doi": "10.1002/9783527631025",
+				"or":  "A. M. Gusak, T. V. Zaporozhets, Y. O. Lyashenko, S. V. Kornienko, M. O. Pasichnyy, and A. S. Shirinyan, Diffusion-Controlled Solid State Reactions: in Alloys, Thin-Films, and Nanosystems (New York: John Wiley & Sons: 2010).",
+				"tr":  "A. M. Gusak, T. V. Zaporozhets, Y. O. Lyashenko, S. V. Kornienko, M. O. Pasichnyy, and A. S. Shirinyan, Diffusion-Controlled Solid State Reactions: in Alloys, Thin-Films, and Nanosystems (New York: John Wiley & Sons: 2010)."
+			}
+		]
+	}
+}

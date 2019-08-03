@@ -1,0 +1,120 @@
+{
+	"_id":    "MFiNT.38.09.1233",
+	"year":   2016,
+	"volume": 38,
+	"issue":  9,
+	"pages":  [1233,1247],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["30.05.2016"],
+	"PACS":   "61.43.Dq, 64.70.pe, 64.75.Nx, 71.15.Mb, 71.15.Pd, 71.20.Be, 71.23.Cq, 82.60.Lf",
+	"title":   {
+		"ua": "Теоретична аналіза процесів фазоутворення в аморфних стопах системи Fe—Zr",
+		"en": "The Theoretical Analysis of Phase-Formation Processes in Amorphous Alloys of Fe—Zr System",
+		"ru": "Теоретический анализ процессов фазообразования в аморфных сплавах системы Fe—Zr"
+	},
+	"abstract": {
+		"ua": "Аналізу фазових перетворень у системі Fe—Zr було проведено за допомогою ab initio молекулярної динаміки та термодинамічного підходу. Представлено першопринципне моделювання методою молекулярної динаміки процесів аморфізації та кристалізації у системі Fe—Zr. Положення атомів у надкомірці Fe$_{29}$Zr$_{3}$ моделювалися шляхом числового відпалу методою функціоналу густини в узагальненому ґрадієнтному наближенні. Обговорюються зміни густини електронних станів надкомірки Fe$_{29}$Zr$_{3}$ при рідинно—аморфно—кристалічному фазовому переході. Найбільш помітною відмінністю між електронними спектрами рідкої й аморфної фаз є поява псевдощілини на рівні Фермі, що корелює з електронним критерієм термостабільности аморфних металевих стопів Нагеля—Таука. Подальший відпал в ізотермічно/ізоентальпійному ансамблі при більш високих температурах приводить до різкої зміни електронного спектра та перегрупування атомів, що ми приписуємо першій стадії кристалізації аморфного стопу. В рамках термодинамічного підходу було побудовано концентраційну залежність відносної інтеґральної Ґіббсової вільної енергії для вихідної аморфної фази; ця залежність має специфічну S-подібну форму, що вказує на тенденцію стопів до фазового розшарування. Термодинамічна метода підтвердила, що процеси формування фаз у бінарних стопах системи Fe—Zr проходять у 2 етапи: спочатку відбуваються процеси фазового розшарування на дві аморфні фази за типом спинодального розпаду, потім – кристалізації кожної аморфної фази. Розрахована концентраційна область аморфізації бінарних стопів системи Fe—Zr добре узгоджується з експериментальними даними.",
+		"en": "The thermodynamic and ab initio molecular-dynamics approaches are applied to analyse the phase transitions in the Fe—Zr system. First-principles molecular-dynamics simulations of the amorphization and crystallization processes in the Fe—Zr system are presented. The atomic positions in the Fe$_{29}$Zr$_{3}$ supercell are modelled by simulating annealing with usage of the density functional theory in the generalized gradient approximation. Changes in the electron density of states for the Fe$_{29}$Zr$_{3}$ supercell under liquid—amorphous—crystalline phase transitions are discussed. The most marked difference between the electronic spectra of the liquid and amorphous phases is a pseudogap at the Fermi level that is consistent with the Nagel—Tauc electronic criterion of the amorphous metallic-alloy thermal stability. Further simulating annealing in the isothermal/isenthalpic ensemble under the higher temperatures leads to the drastically changes of the electronic spectrum and rearrangement of atoms, which we assign to the first stage of the amorphous-alloy crystallization. The concentration dependence of relative integral Gibbs’ free energy for the initial amorphous $\\alpha$-phase are constructed; this dependence has a specific S-shaped appearance (due to both the great value of relative volume change during the formation of the alloy and the negative value of entropy) that indicates a tendency of alloys to phase separation. The thermodynamic method confirms that the processes of phase formation in binary alloys of Fe—Zr system pass in two stages: at first, the processes of phase separation into two amorphous phases by means of the spinodal mechanism are observed; then, each phase of amorphous ones resulting from separation begins to crystallise. The concentration area of amorphization of Fe—Zr system alloys is calculated; the results are in a good agreement with experimental data.",
+		"ru": "Анализ фазовых превращений в системе Fe—Zr был проведён с помощью ab initio молекулярной динамики и термодинамического подхода. Представлено первопринципное моделирование методом молекулярной динамики процессов аморфизации и кристаллизации в системе Fe—Zr. Положения атомов в сверхъячейке Fe$_{29}$Zr$_{3}$ моделировались путём числового отжига методом функционала плотности в обобщённом градиентном приближении. Обсуждаются изменения плотности электронных состояний сверхъячейки Fe$_{29}$Zr$_{3}$ при жидкостно—аморфно—кристаллическом фазовом переходе. Наиболее заметным отличием между электронными спектрами жидкой и аморфной фаз является появление псевдощели на уровне Ферми, что коррелирует с электронным критерием термостабильности аморфных металлических сплавов Нагеля—Таука. Дальнейший отжиг в изотермично/изоэнтальпийном ансамбле при более высоких температурах приводит к резкому изменению электронного спектра и перегруппировке атомов, которую мы приписываем первой стадии кристаллизации аморфного сплава. В рамках термодинамического подхода была построена концентрационная зависимость относительной интегральной свободной энергии Гиббса для исходной аморфной фазы; эта зависимость имеет специфическую S-образную форму, что указывает на тенденцию сплавов к фазовому расслоению. Термодинамический метод подтвердил, что процессы формирования фаз в бинарных сплавах системы Fe—Zr проходят в 2 этапа: сначала происходят процессы фазового расслоения на две аморфные фазы по типу спинодального распада, затем – кристаллизации каждой аморфной фазы. Рассчитанная концентрационная область аморфизации бинарных сплавов системы Fe—Zr хорошо согласуется с экспериментальными данными."
+	},
+	"keywords": {
+		"ua": "фазові переходи, фазове розшарування, аморфні стопи, електронна структура, ab initio молекулярна динаміка, відносна інтеґральна Ґіббсова вільна енергія",
+		"en": "phase transitions, phase separation, amorphous alloys, electronic structure, ab initio molecular dynamics, relative integral Gibbs’ free energy",
+		"ru": "фазовые переходы, фазовое расслоение, аморфные сплавы, электронная структура, ab initio молекулярная динамика, относительная интегральная свободная энергия Гиббса"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. В. Плющай", "en": "I. V. Plyushchay", "ru": "И. В. Плющай"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "Т. Л. Цареградська", "en": "T. L. Tsaregrads’ka", "ru": "Т. Л. Цареградская"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "О. О. Каленик", "en": "O. O. Kalenyk", "ru": "А. А. Каленик"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "О. І. Плющай", "en": "O. I. Plyushchay", "ru": "А. И. Плющай"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 14,
+		"list":  [
+			{
+				"doi": "10.1007/BF02914763",
+				"or":  "S. M. McDeavitt, D. P. Abraham, J. Y. Park, and D. D. Keiser, JOM, 49: 29 (1997).",
+				"tr":  "S. M. McDeavitt, D. P. Abraham, J. Y. Park, and D. D. Keiser, JOM, 49: 29 (1997)."
+			},
+			{
+				"doi": "10.1016/S0022-3115(98)00433-4",
+				"or":  "S. M. McDeavitt, D. P. Abraham, and J. Y. Park, J. Nucl. Mater., 257: 21 (1998).",
+				"tr":  "S. M. McDeavitt, D. P. Abraham, and J. Y. Park, J. Nucl. Mater., 257: 21 (1998)."
+			},
+			{
+				"doi": "10.1016/0022-3115(95)00207-3",
+				"or":  "M. S. Granovsky and D. Arias, J. Nucl. Mater., 229: 29 (1996).",
+				"tr":  "M. S. Granovsky and D. Arias, J. Nucl. Mater., 229: 29 (1996)."
+			},
+			{
+				"doi": "10.1361/105497102770331172",
+				"or":  "F. Stein, G. Sauthoff, and M. Palm, J. Phase Equilibria, 23: 480 (2002).",
+				"tr":  "F. Stein, G. Sauthoff, and M. Palm, J. Phase Equilibria, 23: 480 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Е. Абросимова, А. С. Аронин, Физика твёрдого тела, 40, № 10: 1768 (1998).",
+				"tr":  "G. E. Abrosimov and A. S. Aronin, Fizika Tverdogo Tela, 40, No. 10: 1768 (1998) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.77.3865",
+				"or":  "J. P.Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett., 77: 3865 (1996).",
+				"tr":  "J. P.Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett., 77: 3865 (1996)."
+			},
+			{
+				"doi": "10.1016/j.cpc.2009.07.007",
+				"or":  "X. Gonzea, B. Amadond, P.-M. Angladee, J.-M. Beukena, F. Bottind, P. Boulangera, F. Brunevalq, D. Calistej, R. Caracasl, M. Côtéo, T. Deutschj, L. Genovesei, Ph. Ghosezk, M. Giantomassia, S. Goedeckerc, D. R. Hamannm, P. Hermetp, F. Jolletd, G. Jomardd, S. Lerouxd, M. Mancinid, S. Mazevetd, M. J. T. Oliveiraa, G. Onidab, Y. Pouillona, T. Rangela, G.-M. Rignanesea, D. Sangallib, R. Shaltafa, M. Torrentd, M. J. Verstraetea, G. Zerahd, and J. W. wanzigerf, Computer Phys. Comm., 180: 2582 (2009).",
+				"tr":  "X. Gonzea, B. Amadond, P.-M. Angladee, J.-M. Beukena, F. Bottind, P. Boulangera, F. Brunevalq, D. Calistej, R. Caracasl, M. Côtéo, T. Deutschj, L. Genovesei, Ph. Ghosezk, M. Giantomassia, S. Goedeckerc, D. R. Hamannm, P. Hermetp, F. Jolletd, G. Jomardd, S. Lerouxd, M. Mancinid, S. Mazevetd, M. J. T. Oliveiraa, G. Onidab, Y. Pouillona, T. Rangela, G.-M. Rignanesea, D. Sangallib, R. Shaltafa, M. Torrentd, M. J. Verstraetea, G. Zerahd, and J. W. wanzigerf, Computer Phys. Comm., 180: 2582 (2009)."
+			},
+			{
+				"doi": "10.1002/jcc.540030212",
+				"or":  "H. B. Schlegel, J. Comput. Chem., 3: 214 (1982).",
+				"tr":  "H. B. Schlegel, J. Comput. Chem., 3: 214 (1982)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.83.134205",
+				"or":  "K. V. Ashok, P. Modak, A. Svane, and N. E. Christensen, Phys. Rev. B, 83: 134205 (2011).",
+				"tr":  "K. V. Ashok, P. Modak, A. Svane, and N. E. Christensen, Phys. Rev. B, 83: 134205 (2011)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.13.3284",
+				"or":  "S. R. Nagel, G. B. Fisher, G. Tauc, and B. G. Bardley, Phys. Rev. B, 13: 3284 (1976).",
+				"tr":  "S. R. Nagel, G. B. Fisher, G. Tauc, and B. G. Bardley, Phys. Rev. B, 13: 3284 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "O. I. Nakonechnaya, I. V. Plyushchai, M. P. Semen’ko, and N. I. Zakharenko, Physics of Metals and Metallography, 90, No. 5: 439 (2000).",
+				"tr":  "O. I. Nakonechnaya, I. V. Plyushchai, M. P. Semen'ko, and N. I. Zakharenko, Physics of Metals and Metallography, 90, No. 5: 439 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Лысов, Т. Л. Цареградская, О. В. Турков, Г. В. Саенко, В. В. Яриш, Журнал физической химии, 81, № 10: 1765 (2007).",
+				"tr":  "V. I. Lysov, T. L. Tsaregradskaya, O. V. Turkov, G. V. Saenko, and V. V. Yarysh, Zhurnal Fizicheskoy Khimii, 81, No. 10: 1765 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. І. Лисов, Т. Л. Цареградська, О. В. Турков, Г. В. Саєнко, В. В. Яриш, Журнал фізичних досліджень, 12, № 3: 5 (2008).",
+				"tr":  "V. I. Lysov, T. L. Tsaregrads’ka, O. V. Turkov, G. V. Saenko, and V. V. Yarysh, Zhurnal Fizychnykh Doslidzhen’, 12, No. 3: 5 (2008) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. А. Куницкий, В. И. Лысов, Т. Л. Цареградская, В. Е. Федоров, О. В. Турков, Металлофиз. новейшие технол., 25, № 12: 1563 (2003).",
+				"tr":  "Yu. A. Kunits’ky, V. I. Lysov, T. L. Tsaregrads’ka, V. Ye. Fedorov, and O. V. Turkov, Metallofiz. Noveishie Tekhnol., 25, No. 12: 1563 (2003) (in Russian)."
+			}
+		]
+	}
+}

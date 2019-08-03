@@ -1,0 +1,83 @@
+{
+	"_id":    "MFiNT.40.07.0859",
+	"year":   2018,
+	"volume": 40,
+	"issue":  7,
+	"pages":  [859,876],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["19.02.2018","19.05.2018"],
+	"PACS":   "46.55.+d, 47.10.A-, 06.60.Vz, 81.20.Wk, 81.40.Lm, 81.40.Pq, 83.50.-v",
+	"title":   {
+		"ua": "Дослідження методою гіпербол обтікання клину при вільному різанні",
+		"en": "Hyperbolae Method Analysis of a Wedge Flow at Free Cutting",
+		"ru": "Исследование методом гипербол обтекания клина при свободном резании"
+	},
+	"abstract": {
+		"ua": "Розглянуто картину пластичного деформування металу при обтіканні різального клину. Запропоновано нову методу визначення поля швидкостей течії, що припускає обертання частинок металу та враховує, таким чином, дію неконсервативних сил. На підставі розробленої методи одержано систему рівнянь, яка описує поле швидкостей течії металу при обтіканні клинчастого тіла з урахуванням дисипативних процесів, які відбуваються у металі. Побудовано сімейства ліній струму для трьох характерних типів кутів, які підтвердили адекватність модельних уявлень і математичних викладок.",
+		"en": "A pattern of plastic deformation of metal during cutting-wedge flow is considered. A new method is proposed for determining the field of flow velocities. It takes into account the rotation of metal particles and, thereby, the action of non-conservative forces. A set of equations is obtained on the basis of developed method. This set describes the field of metal flow velocities during wedge-shaped body flow with an allowance for the dissipative processes taking place in a metal. The families of streamlines are obtained for the three characteristic types of angles, which confirm the adequacy of model representations and mathematical calculations.",
+		"ru": "Рассмотрена картина пластического деформирования металла при обтекании режущего клина. Предложен новый метод определения поля скоростей течения, допускающий вращение частиц металла и учитывающий, таким образом, действие неконсервативных сил. На основании разработанного метода получена система уравнений, которая описывает поле скоростей течения металла при обтекании клиновидного тела с учётом диссипативных процессов, протекающих в металле. Построены семейства линий тока для трёх характерных типов углов, которые подтвердили адекватность модельных представлений и математических выкладок."
+	},
+	"keywords": {
+		"ua": "різальний клин, пластичне деформування, лінії струму, поля швидкостей",
+		"en": "cutting wedge, plastic deformation, streamlines, velocity fields",
+		"ru": "режущий клин, пластическое деформирование, линии тока, поля скоростей"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. О. Курін", "en": "М. О. Kurin", "ru": "М. А. Курин"},
+			"OID": [207]
+		}
+	],
+	"references": {
+		"count": 9,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Yu. N. Alekseev, Vvedenie v Teoriyu Obrabotki Metallov Davleniem Prokatkoy i Rezaniem [Introduction to the Theory of Metal Processing Pressure Rolling and Cutting] (Kharkov: Izdatel’stvo KhGU: 1969) (in Russian).",
+				"tr":  "Yu. N. Alekseev, Vvedenie v Teoriyu Obrabotki Metallov Davleniem Prokatkoy i Rezaniem [Introduction to the Theory of Metal Processing Pressure Rolling and Cutting] (Kharkov: Izdatel'stvo KhGU: 1969) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. N. Alekseev and O. F. Zamshev, Obrabotka Metallov Davleniem, No. 7: 132 (1971) (in Russian).",
+				"tr":  "Yu. N. Alekseev and O. F. Zamshev, Obrabotka Metallov Davleniem, No. 7: 132 (1971) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "N. Ya. Fabrikant, Aerodinamika [Aerodynamics] (Moscow: Nauka: 1964) (in Russian).",
+				"tr":  "N. Ya. Fabrikant, Aerodinamika [Aerodynamics] (Moscow: Nauka: 1964) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. G. Loytsyanskiy, Mekhanika Zhidkosti i Gaza [Mechanics of Fluid and Gas] (Moscow: Nauka: 1978) (in Russian).",
+				"tr":  "L. G. Loytsyanskiy, Mekhanika Zhidkosti i Gaza [Mechanics of Fluid and Gas] (Moscow: Nauka: 1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Kolsky, Volny Napryazheniya v Tverdykh Telakh [Stress Waves in Solids] (Moscow: Izd-vo Inostr. Lit-ry: 1953) (in Russian).",
+				"tr":  "H. Kolsky, Volny Napryazheniya v Tverdykh Telakh [Stress Waves in Solids] (Moscow: Izd-vo Inostr. Lit-ry: 1953) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.39.03.0401",
+				"or":  "M. O. Kurin and M.  V. Surdu, Metallofiz. Noveishie Tekhnol., 39, No. 3: 401 (2017) (in Ukrainian).",
+				"tr":  "M. O. Kurin and M.  V. Surdu, Metallofiz. Noveishie Tekhnol., 39, No. 3: 401 (2017) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. K. Starkov, Fizika i Optimizatsiya Rezaniya Materialov [Physics and Optimization of Cutting Materials] (Moscow: Mashinostroenie: 2009) (in Russian).",
+				"tr":  "V. K. Starkov, Fizika i Optimizatsiya Rezaniya Materialov [Physics and Optimization of Cutting Materials] (Moscow: Mashinostroenie: 2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. S. Kushner and O. Yu. Burgonova, Teoriya Struzhkoobrazovaniya [Theory of Chip Formation] (Omsk: Izd-vo OmGTU: 2011) (in Russian).",
+				"tr":  "V. S. Kushner and O. Yu. Burgonova, Teoriya Struzhkoobrazovaniya [Theory of Chip Formation] (Omsk: Izd-vo OmGTU: 2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Rozenberg and A. N. Eremin, Elementy Teorii Protsessa Rezaniya Metallov [Elements of the Theory of the Process of Metal Cutting] (Moscow–Sverdlovsk: Mashgiz. Uralo-Sib. Otdelenie: 1956) (in Russian).",
+				"tr":  "A. M. Rozenberg and A. N. Eremin, Elementy Teorii Protsessa Rezaniya Metallov [Elements of the Theory of the Process of Metal Cutting] (Moscow–Sverdlovsk: Mashgiz. Uralo-Sib. Otdelenie: 1956) (in Russian)."
+			}
+		]
+	}
+}

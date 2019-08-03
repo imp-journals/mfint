@@ -1,0 +1,110 @@
+{
+	"_id":    "MFiNT.39.04.0541",
+	"year":   2017,
+	"volume": 39,
+	"issue":  4,
+	"pages":  [541,552],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["12.01.2017","31.03.2017"],
+	"PACS":   "61.05.C-, 61.43.Gt, 61.68.+n, 81.20.Ev, 81.20.Wk, 84.37.+q",
+	"title":   {
+		"ua": "Фазові перетворення в еквіатомовій порошковій суміші Y–Cu при механічному розмелюванні",
+		"en": "Phase Transformations in Equiatomic Y–Cu Powder Mixture at Mechanical Milling",
+		"ru": "Фазовые превращения в эквиатомной порошковой смеси Y–Cu при механическом размоле"
+	},
+	"abstract": {
+		"ua": "У високоенергетичному планетарному млині проведено механічне леґування еквіатомової суміші порошків міді й ітрію. Вперше еквіатомову сполуку YCu з повністю упорядкованою структурою типу CsCl одержано методами порошкової металурґії. Фазові перетворення, що мають місце при розмелюванні суміші Y–Cu, досліджено методами рентґенівської дифракції. Представлено розширений опис комплексу програм, розробленого авторами для автоматичного рентґенівського апарата типу ДРОН. Це програмне забезпечення призначено для вирішення різноманітних завдань, зокрема, визначення як позиції піків, так і інтеґральної інтенсивности Бреґґових відбиттів методою повнопрофільної аналізи, проведення кількісної та якісної фазових аналіз із використанням банку даних для ідентифікації фази та методи найменших квадратів для уточнення параметрів ґратниць, тестування структурних моделів та уточнення параметрів кристалічної структури (координати, заповнення атомових позицій, текстура тощо). Проаналізовано вплив кисню на фазовий склад продуктів розмелювання в планетарному кульовому млині. Встановлено, що в результаті механічного леґування утворюється суміш оксидів Y$_{2}$O$_{3}$ + YCuO. Таким чином, фазові перетворення під час розмелювання на повітрі еквіатомової шихти Y–Cu перебігають за реакцією: Y + Cu $\\rightarrow$ YCu + YCu$_{2}$ $\\rightarrow$ YCu$_{2}$ + O$_{2}$ $\\rightarrow$ Y$_{2}$O$_{3}$ + YCuO + YCu$_{5}$. І лише перша частина цих трансформацій реалізується у випадку синтези в атмосфері арґону.",
+		"en": "Mechanical alloying of the elemental powder mixture of copper and yttrium is performed in a high-energy planetary ball mill. The equiatomic YCu compound with full ordered CsCl-type structure is synthesized by use of powder-metallurgy methods for the first time. Phase transformations taking place at Y–Cu mixture milling are studied by x-ray diffraction methods. An expanded description of original software package for the automated DRON apparatus is presented. This software is used for analysis and interpretation of the obtained x-ray diffraction data. This package is intended for solving different tasks, namely: determination of both peak positions and integral intensities of the Bragg reflections by means of full profile analysis; carrying out the qualitative and quantitative phase analyses using PDF (Powder Diffraction File) data for phase identification and the least square method for lattice-constants’ refinement; testing the structure models and refining crystal-structure parameters (including coordinates, atomic position filling, texture, etc.). The effect of oxygen on the phase composition of milling products is analysed. As revealed, the mixture of two oxides (Y$_{2}$O$_{3}$ and YCuO) is forming at the last stage of the milling in the air. So, the phase transformation during milling of the equiatomic Y–Cu charge in the air follows the reaction Y + Cu $\\rightarrow$ YCu + YCu$_{2}$ $\\rightarrow$ YCu$_{2}$ + O$_{2}$ $\\rightarrow$ Y$_{2}$O$_{3}$ + YCuO + YCu$_{5}$. Only the first stage of this transformation is realized in the case of synthesis under argon atmosphere.",
+		"ru": "В высокоэнергетической планетарной мельнице проведено механическое легирование эквиатомной смеси порошков меди и иттрия. Впервые эквиатомное соединение YCu с полностью упорядоченной структурой типа CsCl получено методами порошковой металлургии. Фазовые превращения, протекающие при размоле смеси Y–Cu, исследованы методами рентгеновской дифракции. Представлено расширенное описание комплекса программ, разработанного авторами для автоматического рентгеновского аппарата типа ДРОН. Это программное обеспечение предназначено для решения разнообразных задач, в частности, как для определения позиции пиков, так и интегральной интенсивности брэгговских изображений методом полнопрофильного анализа, проведения количественного и качественного фазового анализа с использованием банка данных для идентификации фазы и метода наименьших квадратов для уточнения постоянных решетки, тестирования структурных моделей и уточнения параметров кристаллической структуры (в том числе координат, заполнения атомных позиций, текстуры). Проанализировано влияние кислорода на фазовый состав продуктов размола. Установлено, что в результате механического легирования образуется смесь оксидов Y$_{2}$O$_{3}$ и YCuO. Таким образом, при размоле на воздухе эквиатомной шихты Y–Cu в ней происходят следующие фазовые превращения: Y + Cu $\\rightarrow$ YCu + YCu$_{2}$ $\\rightarrow$ YCu$_{2}$ + O$_{2}$ $\\rightarrow$ Y$_{2}$O$_{3}$ + YCuO + YCu$_{5}$. И только первая часть этих трансформаций реализуется в случае синтеза в атмосфере аргона."
+	},
+	"keywords": {
+		"ua": "композиційний матеріял, порошкова металурґія, кристалічна структура, рентґеноструктурна аналіза",
+		"en": "composite material, powder metallurgy, crystal structure, X-ray diffraction",
+		"ru": "композиционный материал, порошковая металлургия, кристаллическая структура, рентгеноструктурный анализ"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. М. Дашевський", "en": "M. Dashevskyi", "ru": "Н. Н. Дашевский"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "О. І. Бошко", "en": "О. Boshko", "ru": "О. И. Бошко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. І. Наконечна", "en": "O. Nakonechna", "ru": "О. И. Наконечная"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "Н. М. Білявина", "en": "N. Belyavina", "ru": "Н. Н. Белявина"},
+			"OID": [201]
+		}
+	],
+	"references": {
+		"count": 12,
+		"list":  [
+			{
+				"doi": "10.1038/nmat958",
+				"or":  "K. Gschneidner Jr., A. Russell, A. Pecharsky, J. Morris, Z. Zhang, T. Lograsso, D. Hsu, C. H. C. Lo, Y. Ye, A. Slager, and D. Kesse, Nature Materials, 2, No. 9: 587 (2003).",
+				"tr":  "K. Gschneidner Jr., A. Russell, A. Pecharsky, J. Morris, Z. Zhang, T. Lograsso, D. Hsu, C. H. C. Lo, Y. Ye, A. Slager, and D. Kesse, Nature Materials, 2, No. 9: 587 (2003)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2004.05.019",
+				"or":  "A. M. Russell, Z. Zhang, T. A. Lograsso, C. C. H. Lo, A. O. Pecharsky, J. R. Morris, Y. Ye, K. A. Gschneidner Jr., and A. J. Slager, Acta Mater., 52, Iss. 13: 4033 (2004).",
+				"tr":  "A. M. Russell, Z. Zhang, T. A. Lograsso, C. C. H. Lo, A. O. Pecharsky, J. R. Morris, Y. Ye, K. A. Gschneidner Jr., and A. J. Slager, Acta Mater., 52, Iss. 13: 4033 (2004)."
+			},
+			{
+				"doi": "10.1016/j.intermet.2004.09.008",
+				"or":  "Z. Zhang, A. M. Russell, S. B. Biner, K. A. Gschneidner Jr., and C. C. H. Lo, Intermetallics, 13, Iss. 5: 559 (2005).",
+				"tr":  "Z. Zhang, A. M. Russell, S. B. Biner, K. A. Gschneidner Jr., and C. C. H. Lo, Intermetallics, 13, Iss. 5: 559 (2005)."
+			},
+			{
+				"doi": "10.1016/j.intermet.2004.09.009",
+				"or":  "A. M. Russell, Z. Zhang, K. A. Gschneidner Jr., T. A. Lograsso, A. O. Pecharsky, A. J. Slager, and D. C. Kesse, Intermetallics, 13, Iss. 6: 565 (2005).",
+				"tr":  "A. M. Russell, Z. Zhang, K. A. Gschneidner Jr., T. A. Lograsso, A. O. Pecharsky, A. J. Slager, and D. C. Kesse, Intermetallics, 13, Iss. 6: 565 (2005)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2011.07.030",
+				"or":  "C.-G. Oertel, R. Schaarschuch, G. H. Cao, H. N. Tian, J. Freudenberger, H.-G. Brokmeier, and W. Skrotzki, Scr. Mater., 65, Iss. 9: 779 (2011).",
+				"tr":  "C.-G. Oertel, R. Schaarschuch, G. H. Cao, H. N. Tian, J. Freudenberger, H.-G. Brokmeier, and W. Skrotzki, Scr. Mater., 65, Iss. 9: 779 (2011)."
+			},
+			{
+				"doi": "10.1088/0953-8984/5/4/001",
+				"or":  "C. Ritter, M. R. Ibarra, and R. M. Ibberson, J. Physics: Condensed Matter, 5, No. 4: L39 (1993).",
+				"tr":  "C. Ritter, M. R. Ibarra, and R. M. Ibberson, J. Physics: Condensed Matter, 5, No. 4: L39 (1993)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2008.07.148",
+				"or":  "M. Satta, P. Rizzi, and M. Baricco, J. Alloys Compd., 483, Iss. 1–2: 50 (2009).",
+				"tr":  "M. Satta, P. Rizzi, and M. Baricco, J. Alloys Compd., 483, Iss. 1–2: 50 (2009)."
+			},
+			{
+				"doi": "10.1016/j.apt.2016.03.019",
+				"or":  "O. Boshko, O. Nakonechna, M. Dashevskyi, K. Ivanenko, N. Belyavina, and S. Revo, Adv. Powder Technology, 27, Iss. 4: 1101 (2016).",
+				"tr":  "O. Boshko, O. Nakonechna, M. Dashevskyi, K. Ivanenko, N. Belyavina, and S. Revo, Adv. Powder Technology, 27, Iss. 4: 1101 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "V. K. Pecharsky and P. Y. Zavalij, Fundamentals of Powder Diffraction and Structural Characterization of Materials (New York: Springer: 2009).",
+				"tr":  "V. K. Pecharsky and P. Y. Zavalij, Fundamentals of Powder Diffraction and Structural Characterization of Materials (New York: Springer: 2009)."
+			},
+			{
+				"doi": "",
+				"or":  "G. M. Sheldrick, SHELX-97: Programs for Crystal Structure Analysis (Göttingen, Germany: University of Göttingen: 1997).",
+				"tr":  "G. M. Sheldrick, SHELX-97: Programs for Crystal Structure Analysis (Göttingen, Germany: University of Göttingen: 1997)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Guinier, Theorie et Technique de la Radiocristallographie (Paris: DUNOD: 1956) (in French).",
+				"tr":  "A. Guinier, Theorie et Technique de la Radiocristallographie (Paris: DUNOD: 1956) (in French)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2011.01.007",
+				"or":  "G. H. Cao, A. M. Russel, and K. A. Gschneidner Jr., Scr. Mater., 64, Iss. 9: 821 (2011).",
+				"tr":  "G. H. Cao, A. M. Russel, and K. A. Gschneidner Jr., Scr. Mater., 64, Iss. 9: 821 (2011)."
+			}
+		]
+	}
+}

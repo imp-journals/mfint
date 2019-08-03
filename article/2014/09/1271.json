@@ -1,0 +1,116 @@
+{
+	"_id":    "MFiNT.36.09.1271",
+	"year":   2014,
+	"volume": 36,
+	"issue":  9,
+	"pages":  [1271,1285],
+	"rubric": 2,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["07.07.2014"],
+	"PACS":   "07.85.Jy, 61.05.cc, 61.05.cf, 61.05.cp, 61.72.Dd, 61.72.J-, 61.72.Lk",
+	"title":   {
+		"ua": "Можливості діагностики декількох типів дефектів кристалу на основі ефекту неоднакового впливу дефектів різного типу на деформаційну залежність повної інтегральної інтенсивності динамічної дифракції",
+		"en": "Possibilities of Diagnostics of Several Types of Crystal Defects Based on the Effect of Different Influence of Defects of Various Types on the Strain Dependence of Total Integrated Intensity of Dynamical Diffraction",
+		"ru": "Возможности диагностики нескольких типов дефектов кристалла на основе эффекта различного влияния дефектов разного типа на деформационную зависимость полной интегральной интенсивности динамической дифракции"
+	},
+	"abstract": {
+		"ua": "В роботі встановлено та кількісно проаналізовано ріжницю деформаційних залежностей (ДЗ) когерентної ($R_{ib}$) та дифузної ($R_{id}$) складових повної інтеґральної інтенсивности динамічної дифракції (ПІІДД) як між собою, так і для кожного з декількох типів дефектів, одночасно присутніх у монокристалічному зразку. Це відкриває принципову можливість визначення параметрів дефектів різного типу з використанням (разом з варіяцією умов дифракції) різних областей ДЗ ПІІДД з різкою ДЗ $R_{id}/R_{ib}$ (внеску дифузної складової). Показано, що при зміні умов Лауе-дифракції від відповідних наближенню товстого кристалу до відповідних наближенню тонкого кристалу та при розширенні области зміни ступеня пружньої деформації з’являється можливість керування інтервалом і характером зміни відношення $R_{id}/R_{ib}$, а в результаті – чутливістю ДЗ ПІІДД щодо типу й характеристик мікродефектів.",
+		"en": "The paper establishes and analyses quantitatively the difference in the deformation dependences (DD) of coherent ($R_{ib}$) and diffuse ($R_{id}$) components of the total integrated intensity of dynamical diffraction (TIIDD) for both of these ones and for each one of the various types of defects, if such are available simultaneously in the single-crystal sample. This provides the possibility of parameters’ determination in principle for the different types of defects, using the diffraction conditions as well the variation of different segments of the DD TIIDD with sharp DD of $R_{id}/R_{ib}$ (i.e. of the diffuse component cont$R_{ib}$ution). As shown, if the Laue-diffraction conditions vary from ones corresponding to the thick-crystal approximation to ones corresponding to the thin-crystal approximation, and with expansion of the elastic strain range of variability, it becomes possible to control both the interval and the pattern of change of the $R_{id}/R_{ib}$ relation. As a result, one can control the sensitivity of the DD TIIDD to the type and characteristics of microdefects.",
+		"ru": "В работе установлено и количественно проанализировано различие деформационных зависимостей (ДЗ) когерентной ($R_{ib}$) и диффузной ($R_{id}$) составляющих полной интегральной интенсивности динамической дифракции (ПИИДД) как между собой, так и для каждого из нескольких типов дефектов, одновременно присутствующих в монокристаллическом образце. Это открывает принципиальную возможность определения параметров дефектов разного типа при использовании (наряду с вариацией условий дифракции) различных участков ДЗ ПИИДД с резкой ДЗ $R_{id}/R_{ib}$ (вклада диффузной составляющей). Показано, что при изменении условий Лауэ-дифракции от соответствующих приближению толстого кристалла к соответствующим приближению тонкого кристалла и при расширении области изменения степени упругой деформации появляется возможность управления интервалом и характером изменения отношения $R_{id}/R_{ib}$, а в результате – чувствительностью ДЗ ПИИДД к типу и характеристикам микродефектов."
+	},
+	"keywords": {
+		"ua": "мікродефекти, деформаційні залежності, повна інтегральна інтенсивність динамічної дифракції",
+		"en": "microdefects, strain dependences, total integrated intensity of dynamical diffraction",
+		"ru": "микродефекты, деформационные зависимости, полная интегральная интенсивность динамической дифракции"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. В. Лізунов", "en": "V. V. Lizunov", "ru": "В. В. Лизунов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. М. Бровчук", "en": "S. M. Brovchuk", "ru": "С. М. Бровчук"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. І. Нізкова", "en": "A. I. Nizkova", "ru": "А. И. Низкова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. Б. Молодкін", "en": "V. B. Molodkin", "ru": "В. Б. Молодкин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. В. Лізунова", "en": "S. V. Lizunova", "ru": "С. В. Лизунова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Б. В. Шелудченко", "en": "B. V. Sheludchenko", "ru": "Б. В. Шелудченко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Г. І. Гранкіна", "en": "A. I. Grankina", "ru": "А. И. Гранкина"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "І. І. Рудницька", "en": "I. I. Rudnitska", "ru": "И. И. Рудницкая"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. В. Дмитрієв", "en": "S. V. Dmitriev", "ru": "С. В. Дмитриев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. Г. Толмачьов", "en": "M. G. Tolmachev", "ru": "Н. Г. Толмачёв"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Р. В. Лехняк", "en": "R. V. Lekhnyak", "ru": "Р. В. Лехняк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Л. М. Скапа", "en": "L. M. Skapa", "ru": "Л. Н. Скапа"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Н. П. Ірха", "en": "N. P. Irkha", "ru": "Н. П. Ирха"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 6,
+		"list":  [
+			{
+				"doi": "10.1107/S056773947700076X",
+				"or":  "F. N. Chukhovskii and P. V. Petrashen’, Acta Crystallogr. A, 33: 311 (1977).",
+				"tr":  "F. N. Chukhovskii and P. V. Petrashen', Acta Crystallogr. A, 33: 311 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, А. И. Низкова, А. П. Шпак, В. Ф. Мачулин, В. П. Кладько, И. В. Прокопенко, Р. Н. Кютт, Е. Н. Кисловский, С. И. Олиховский, Е. В. Первак, И. М. Фодчук, А. А. Дышеков, Ю. П. Хапачев, Дифрактометрия наноразмерных дефектов и гетерослоев кристаллов (Киев: Академпериодика: 2005).",
+				"tr":  "V. B. Molodkin, A. I. Nizkova, A. P. Shpak, V. F. Machulin, V. P. Klad'ko, I. V. Prokopenko, R. N. Kyutt, E. N. Kislovskiy, S. I. Olikhovskiy, E. V. Pervak, I. M. Fodchuk, A. A. Dyshekov, and Yu. P. Khapachev, Difraktometriya Nanorazmernykh Defektov i Geterosloev Kristallov (Diffractometry of Nanosize Defects and Heterolayers of Crystals) (Kiev: Akademperiodika: 2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, М. В. Ковальчук, В. Ф. Мачулин, А. И. Низкова, Э. Х. Мухамеджанов, С. В. Лизунова, В. П. Кладько, С. В. Дмитриев, И. Н. Заболотный, Н. П. Ирха, С. М. Бровчук, Я. В. Василик, В. В. Лизунов, А. А. Катасонов, И. И. Рудницкая, В. С. Харченко, А. Е. Благов, В. В. Молодкин, Е. В. Первак, Р. В. Лехняк, Металлофиз. новейшие технол., 34, № 9: 1163 (2012).",
+				"tr":  "V. B. Molodkin, M. V. Koval'chuk, V. F. Machulin, A. I. Nizkova, Eh. H. Muhamedjanov, S. V. Lizunova, V. P. Klad'ko, S. V. Dmitriev, I. M. Zabolotnyy, N. P. Irkha, S. M. Brovchuk, Ya. V. Vasylyk, V. V. Lizunov, A. A. Katasonov, I. I. Rudnyts'ka, V. S. Kharchenko, A. E. Blagov, V. V. Molodkin, K. V. Pervak, and R. V. Lekhnyak, Metallofiz. Noveishie Tekhnol., 34, No. 9: 1163 (2012) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.36.08.1035",
+				"or":  "S. M. Brovchuk, V. B. Molodkin, A. I. Nizkova, I. I. Rudnytska, G. I. Grankina, V. V. Lizunov, S. V. Lizunova, B. V. Sheludchenko, E. S. Skakunova, S. V. Dmitriev, I. N. Zabolotnyi, A. A. Katasonov, B. F. Zhuravlev, R. V. Lekhnyak, L. N. Skapa, and N. P. Irha, Металлофиз. новейшие технол., 36, № 8: 1035 (2014).",
+				"tr":  "S. M. Brovchuk, V. B. Molodkin, A. I. Nizkova, I. I. Rudnytska, G. I. Grankina, V. V. Lizunov, S. V. Lizunova, B. V. Sheludchenko, E. S. Skakunova, S. V. Dmitriev, I. N. Zabolotnyi, A. A. Katasonov, B. F. Zhuravlev, R. V. Lekhnyak, L. N. Skapa, and N. P. Irha, Metallofiz. Noveishie Tekhnol., 36, No. 8: 1035 (2014)."
+			},
+			{
+				"doi": "10.1007/978-3-642-74291-0",
+				"or":  "M. A. Krivoglaz, X-Ray and Neutron Diffraction in Nonideal Crystals (Berlin: Springer: 1996).",
+				"tr":  "M. A. Krivoglaz, X-Ray and Neutron Diffraction in Nonideal Crystals (Berlin: Springer: 1996)."
+			},
+			{
+				"doi": "10.15407/mfint.36.07.0857",
+				"or":  "В. В. Лизунов, В. Б. Молодкин, С. В. Лизунова, Н. Г. Толмачев, Е. С. Скакунова, С. В. Дмитриев, Б. В. Шелудченко, С. М. Бровчук, Л. Н. Скапа, Р. В. Лехняк, Е. В. Фузик, Металлофиз. новейшие технол., 36, № 7: 857 (2014).",
+				"tr":  "V. V. Lizunov, V. B. Molodkin, S. V. Lizunova, M. G. Tolmachyov, O. S. Skakunova, S. V. Dmitriev, B. V. Sheludchenko, S. M. Brovchuk, L. M. Skapa, R. V. Lekhnyak, and K. V. Fuzik, Metallofiz. Noveishie Tekhnol., 36, No. 7: 857 (2014) (in Russian)."
+			}
+		]
+	}
+}

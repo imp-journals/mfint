@@ -1,0 +1,135 @@
+{
+	"_id":    "MFiNT.38.12.1611",
+	"year":   2016,
+	"volume": 38,
+	"issue":  12,
+	"pages":  [1611,1633],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["24.10.2016","04.11.2016"],
+	"PACS":   "68.55.J-, 68.55.Ln, 68.55.Nq, 81.15.Rs, 81.40.Pq, 81.65.Lp, 81.70.Jb",
+	"title":   {
+		"ua": "Дослідження закономірностей процесів формування поверхневих шарів при електроерозійному леґуванні. Частина 1",
+		"en": "Investigation of Regularities of the Processes of Formation of Surface Layers with Electroerosive Alloying. Part I",
+		"ru": "Исследование закономерностей процессов формирования поверхностных слоёв при электроэрозионном легировании. Часть 1"
+	},
+	"abstract": {
+		"ua": "Одержано залежності масоперенесення в тяжкотопких металах і стопах (Cr, Ti, W, твердий стоп), а також металах групи заліза (Ni) при контактному та безконтактному електроерозійному леґуванні (ЕЕЛ) поверхонь із заліза Армко, криць 45 і 12Х18Н10Т від тривалости оброблення. Проведено топографічну аналізу найбільш характерних ділянок поверхні та якісну рентґенівську мікроаналізу покриття зі зносостійких і антифрикційних матеріялів. Досліджено вплив атмосфери процесу ЕЕЛ на фазовий склад шару.",
+		"en": "The dependences of mass transfer in refractory metals and alloys (Cr, Ti, W, hard alloy) as well as iron group metals (Ni) with contact and contactless electroerosive alloying (EEA) of surfaces by the Armco iron, 45 and 12Kh18N10T steels on treatment duration are obtained. Topographic analysis of the most typical surface areas along with high-quality x-ray microanalysis of the wear-resistant and antifriction coatings is carried out. Influence of the EEA process atmosphere on phase composition of the layer is studied.",
+		"ru": "Получены зависимости массопереноса в тугоплавких металлах и сплавах (Cr, Ti, W, твёрдый сплав), а также металлах группы железа (Ni) при контактном и бесконтактном электроэрозионном легировании (ЭЭЛ) поверхностей из железа Армко, сталей 45 и 12Х18Н10Т от длительности обработки. Проведены топографический анализ наиболее характерных участков поверхности и качественный рентгеновский микроанализ покрытия из износостойких и антифрикционных материалов. Исследовано влияние атмосферы процесса ЭЭЛ на фазовый состав слоя."
+	},
+	"keywords": {
+		"ua": "покриття, електроерозійне леґування, масоперенесення, шерсткість, рентґеноструктурна аналіза",
+		"en": "coating, electroerosive alloying, mass transfer, roughness, x-ray diffraction analysis",
+		"ru": "покрытие, электроэрозионное легирование, массоперенос, шероховатость, рентгеноструктурный анализ"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Б. Тарельник", "en": "V. B. Tarel’nyk", "ru": "В. Б. Тарельник"},
+			"OID": [247]
+		},
+		{
+			"AID": {"ua": "О. П. Гапонова", "en": "O. P. Gaponova", "ru": "О. П. Гапонова"},
+			"OID": [208]
+		},
+		{
+			"AID": {"ua": "Є. В. Коноплянченко", "en": "Ye. V. Konoplyanchenko", "ru": "Е. В. Коноплянченко"},
+			"OID": [247]
+		},
+		{
+			"AID": {"ua": "М. Я. Довжик", "en": "M. Ya. Dovzhyk", "ru": "М. Я. Довжик"},
+			"OID": [247]
+		}
+	],
+	"references": {
+		"count": 17,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "В. Б. Тарельник, Управление качеством поверхностных слоёв деталей комбинированным электроэрозионным легированием (Сумы: МакДен: 2002).",
+				"tr":  "V. B. Tarel'nik, Upravleniye Kachestvom Poverkhnostnykh Sloev Detaley Kombinirovannym Elektroerozionnym Legirovaniem [Governing by the Quality of Surface Layers via Combining Electroerosive Alloying] (Sumy: MakDen: 2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Марцинковский, Вісник СумДУ. Серія Технічні науки, № 2: 57 (2007).",
+				"tr":  "V. S. Martsinkovskiy, Visnyk SumDU. Seriya Tekhnichni Nauky, No. 2: 57 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Н. Коротаев, Технологические возможности формирования износостойких наноструктур электроискровым легированием (Омск: СибАДИ: 2009).",
+				"tr":  "D. N. Korotaev, Tekhnologicheskiye Vozmozhnosti Formirovaniya Iznosostoykikh Nanostruktur Elektroiskrovym Legirovaniem [Possibilities of Forming Wear-Resistant Nanostructures by Electrospark Alloying] (Omsk: SibADI: 2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Д. Верхотуров, И. М. Муха, Технология электроискрового легирования металлических поверхностей (Киев: Техника: 1982).",
+				"tr":  "A. D. Verkhoturov and I. M. Mukha, Tekhnologiya Elektroiskrovogo Legirovaniya Metallicheskikh Poverkhnostey [Technology of Electrospark Alloying of Metallic Surfaces] (Kiev: Tekhnika: 1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Коробейник, С. И. Рудюк, С. В. Коробейник, Электронная обработка материалов, № 1: 15 (1989).",
+				"tr":  "V. F. Korobeynik, S. I. Rudyuk, and S. V. Korobeynik, Elektronnaya Obrabotka Materialov, No. 1: 15 (1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Ревуцкий, А. Е. Гитлевич, В. В. Михайлов, Электронная обработка материалов, № 6: 32 (1981).",
+				"tr":  "V. M. Revutskiy, A. Ye. Gitlevich, and V. V. Mikhaylov, Elektronnaya Obrabotka Materialov, No. 6: 32 (1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Михайлов, К. А. Бачу, Е. А. Пасинковский, П. В. Перетятку, Электронная обработка материалов, 42, № 3: 106 (2006).",
+				"tr":  "V. V. Mikhaylov, K. A. Bachu, Ye. A. Pasinkovskiy, and P. V. Peretyatku, Elektronnaya Obrabotka Materialov, 42, No. 3: 106 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Д. Верхотуров, И. А. Подчерняева, Л. Ф. Прядко, Ф. Ф. Егоров, Электродные материалы для электроискрового легирования (Москва: Наука: 1988).",
+				"tr":  "A. D. Verkhoturov, I. A. Podchernyayeva, L. F. Pryadko, and F. F. Yegorov, Elektrodnye Materialy dlya Elektroiskrovogo Legirovaniya [Electrode Materials for Electrospark Alloying] (Moscow: Nauka: 1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Лузан, О. М. Горбачевская, Вестник НТУ «ХПИ». Автомобиле- и тракторостроение, № 60 (966): 53 (2012).",
+				"tr":  "S. A. Luzan, and O. M. Gorbachevskaya, Vestnik NTU 'KPI'. Avtomobile- i Traktorostroyenie, No. 60 (966): 53 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Уманский, М. С. Стороженко, В. В.Акопян, И. С. Марценюк, Авиационная космическая техника и технология, № 9 (96): 214 (2012).",
+				"tr":  "A. P. Umanskiy, M. S. Storozhenko, V. V. Akopyan, and I. S. Martsenyuk, Aviatsionnaya Kosmicheskaya Tekhnika i Tekhnologiya, No. 9 (96): 214 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Е. Кудряшов, О. Н. Доронин, Е. И. Замулаева, Е. А. Левашов, Н. В. Швындина, Чёрные металлы, № 10 (982): 61 (2013).",
+				"tr":  "A. Ye. Kudryashov, O. N. Doronin, Ye. I. Zamulayeva, Ye. A. Levashov, and N. V. Shvyndina, Chernye Metally, No. 10 (982): 61 (2013) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2005.12.008",
+				"or":  "L. Chen, L. Wang, Zh. Zeng, and T. Xu, Surface and Coatings Technology, 201, Issues 3–4: 599 (2006).",
+				"tr":  "L. Chen, L. Wang, Zh. Zeng, and T. Xu, Surface and Coatings Technology, 201, Issues 3–4: 599 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Подчерняева, В. М. Панашенко, А. И. Духота, А. Д. Панасюк, А. Д. Костенко, Проблемы трибологии, № 4: 96 (2012).",
+				"tr":  "V. M. Panashenko, A. I. Dukhota, A. D. Panasyuk, and A. D. Kostenko, Problemy Tribologii, No. 4: 96 2012 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Д. Верхотуров, И. А. Подчерняева, Л. А. Коневцов, Электронная обработка материалов, 43, № 6: 10 (2007).",
+				"tr":  "A. D. Verkhoturov, I. A. Podchernyaeva, and L. A. Konevtsov, Elektronnaya Obrabotka Materialov, 43, No. 6: 10 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Д. Верхотуров, Формирование поверхностного слоя металлов при электроискровом легировании (Владивосток: Дальнаука: 1995).",
+				"tr":  "A. D. Verkhoturov, Formirovanie Poverkhnostnogo Sloya Metallov pri Elektroiskrovom Legirovanii [Formation of Surface Metal Layer with Electrospark Alloying] (Vladivostok: Dalnauka: 1995) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Лунева, А. Д. Верхотуров, А. В. Козырь, Т. В. Глабец, В. Н. Бруй, Электронная обработка материалов, 41, № 4: 11 (2005).",
+				"tr":  "V. P. Luneva, A. D. Verkhoturov, A. V. Kozyr', T. V. Glabets, and V. N. Bruy, Elektronnaya Obrabotka Materialov, 41, No. 4: 11 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Д. Верхотуров, В. П. Лунева, Т. В. Глабец, А. В. Козырь, С. А. Демин, В. Н. Бруй, Электронная обработка материалов, 41, № 1: 23 (2005).",
+				"tr":  "A. D. Verkhoturov, V. P. Luneva, T. V. Glabets, A. V. Kozyir, S. A. Demin, and V. N. Bruy, Elektronnaya Obrabotka Materialov, 41, No. 1: (2005) (in Russian)"
+			}
+		]
+	}
+}

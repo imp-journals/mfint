@@ -1,0 +1,116 @@
+{
+	"_id":    "MFiNT.39.11.1455",
+	"year":   2017,
+	"volume": 39,
+	"issue":  11,
+	"pages":  [1455,1467],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["02.10.2017"],
+	"PACS":   "61.72.Ff, 61.72.Qq, 61.72.S-, 62.20.fk, 62.20.Qp, 68.70.w, 81.40.Cd, 83.60.La",
+	"title":   {
+		"ua": "Вплив постійного струму на макро- та мікроструктуру манґановмісних сталей",
+		"en": "Influence of a Direct Current on Macrostructure and Microstructure of Manganese-Containing Steels",
+		"ru": "Влияние постоянного тока на макро- и микроструктуру марганецсодержащих сталей"
+	},
+	"abstract": {
+		"ua": "У статті показано, що для підвищення якости виливків все ширше використовуються методи, які ґрунтуються на впливі електричного струму на розтоп при його кристалізації. Позитивні результати модифікування полягають у поліпшенні процесів тепломасоперенесення та структуроутворення. Відзначається, що теоретично та практично доведено вплив електрооброблення лише на виливки з кольорових металів і стопів, а також з деяких чавунів. Механізм фізико-хемічного впливу електричного струму на процес кристалізації у ливарній формі манґановмісних сталей потребує ретельних досліджень, які були б наближені до реальних умов. У статті зроблено порівняння макро- і мікроструктур леґованих Манґаном сталей 110Г13Л і 35ГЛ, модифікованих під час кристалізації у ливарній формі постійним електричним струмом, із структурами зразків, одержаних за традиційною технологію. Усі дослідження проводилися за стандартними методиками. Встановлено, що модифікування сталевих розтопів у ливарній формі постійним електричним струмом силою у 40 А забезпечує одержання литих виробів з підвищеним вмістом леґувальних елементів у поверхневому шарі виливків. Відносна зміна концентрації Mn між анодною та катодною частинами зразків зі сталей марок 35ГЛ і 110Г13Л становить 26,6 та 5,3% відповідно. Показано, що схема розташування електрод у ливарній формі істотно впливає на переміщення неметалевих включень. Продемонстровано значний вплив струму на мікроструктуру стопів 35ГЛ і 110Г13Л під час їх кристалізації: кількість і розміри первинних дендритів помітно змінюються. Карбіди манґану стають більш дисперсними, зменшуючись у розмірі від 80 до 53 мкм і від 254 до 90 мкм відповідно. При цьому віддаль між дендритами також зменшується. Електрооброблення стопів 35ГЛ і 110Г13Л приводить до зростання їхньої твердости на катодній частині зразків відповідно на 7% та 9%, ударної в’язкости — на 21% та 8%, межі міцности — на 7% та 14%.",
+		"en": "As shown in the article, the methods of electric-current influencing on melting during melt crystallization are more and more widely used to improve the quality of castings. Positive results of such modification are the improved processes of both the heat and mass transfer and the structure formation. As noted, the influence of electrical treatment is proved theoretically and practically only for the casting of non-ferrous metals and alloys as well as some types of cast irons. The mechanism of the physical and chemical influences of electric current on the process of crystallization in the foundry form of manganese-containing steels requires careful investigations, which must be close as possible to real conditions. In the article, the comparison of macro- and microstructures of the 110G13L and 35GL manganese-alloyed steels modified during crystallization in the foundry form by direct electric current with the structures of samples obtained by using the traditional technology is made. All the studies are carried out according to standard techniques. As determined, the modification of the smelting steels in the foundry form by direct electric current of 40 A provides an obtaining the cast products with an increased content of alloying elements in the surface layer of castings. The difference in the Mn concentration between the anode and cathode parts of the samples of the 35GL and 110G13L steel grades is 26.6% and 5.3%, respectively. As shown, the arrangement of electrodes in the foundry form influences significantly on the displacement of non-metallic inclusions. Significant influence of current on microstructure of 35GL and 110G13L alloys during their crystallization is consisted in significant changing the quantity and size of primary dendrites. Manganese carbides become more dispersed and decrease in size from 80 to 53 $\\mu$m and from 254 to 90 $\\mu$m, respectively. At the same time, the distance between dendrites is also decreasing. Electrical processing of the 35GL and 110G13L alloys results in the increase of their hardness on the cathode part of samples by 7% and 9%, the impact strength — by 21% and 8%, the ultimate tensile strength — by 7% and 14%, respectively.",
+		"ru": "В статье показано, что для повышения качества и свойств отливок всё шире используются методы, основанные на воздействии электрического тока на расплав при его кристаллизации. Положительные результаты модифицирования заключаются в улучшении процессов тепломассопереноса и структурообразования. Отмечается, что теоретически и практически доказано влияние электрообработки только на отливки из цветных металлов и сплавов, а также из некоторых чугунов. Механизм физико-химического воздействия электрического тока на процесс кристаллизации в литейной форме марганецсодержащих сталей требует тщательных исследований, которые были бы максимально приближены к реальным условиям. В статье сделано сравнение макро- и микроструктур легированных марганцем сталей 110Г13Л и 35ГЛ, модифицированных при кристаллизации в литейной форме постоянным электрическим током, со структурами образцов, полученных по традиционной технологии. Все исследования проводились по стандартным методикам. Установлено, что модифицирование стальных расплавов в литейной форме постоянным электрическим током силой 40 А обеспечивает получение литых изделий с повышенным содержанием легирующих элементов в поверхностном слое отливок. Относительное изменение концентрации Mn между анодной и катодной частями образцов из сталей марок 35ГЛ и 110Г13Л составляет 26,6 и 5,3% соответственно. Показано, что схема расположения электродов в литейной форме существенно влияет на перемещение неметаллических включений. Показано значительное влияние тока на микроструктуру сплавов 35ГЛ и 110Г13Л при кристаллизации: количество и размеры первичных дендритов существенно меняются. Карбиды марганца становятся более дисперсными, уменьшаясь в размерах от 80 до 53 мкм и от 254 до 90 мкм соответственно. При этом расстояние между дендритами также уменьшается. Электрообработка сплавов 35ГЛ и 110Г13Л приводит к росту их твёрдости на катодной части образцов соответственно на 7% и 9%, ударной вязкости — на 21% и 8%, предела прочности — на 7% и 14%."
+	},
+	"keywords": {
+		"ua": "карбіди манґану, манґановмісні сталі, структура, механічні властивості, електроперенесення, постійний струм",
+		"en": "manganese carbides, manganese-containing steels, structure, mechanical properties, electric transport, direct current",
+		"ru": "карбиды марганца, марганецсодержащие стали, структура, механические свойства, электроперенос, постоянный ток"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. М. Жбанова", "en": "O. M. Zhbanova", "ru": "А. Н. Жбанова"},
+			"OID": [257]
+		},
+		{
+			"AID": {"ua": "Л. Н. Саітгареєв", "en": "L. N. Saitgareyev", "ru": "Л. Н. Саитгареев"},
+			"OID": [257]
+		},
+		{
+			"AID": {"ua": "І. Е. Скідін", "en": "I. E. Skidin", "ru": "И. Е. Скидин"},
+			"OID": [257]
+		}
+	],
+	"references": {
+		"count": 14,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "И. Ф. Селянин, В. Б. Деев, А. П. Войтков, Металлургия машиностроения, № 6: 15 (2005).",
+				"tr":  "I. F. Selyanin, V. B. Deev, and A. P. Voytkov, Metallurgiya Mashinostroeniya, No. 6: 15 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Г. Знаменский, В. В. Крымский, Б. А. Кулаков, Электроимпульсные нанотехнологии в литейных процессах (Челябинск: ЦНТИ: 2003).",
+				"tr":  "L. G. Znamenskiy, V. V. Krymskiy, and B. A. Kulakov, Elektroimpul'snye Nanotekhnologii v Liteynykh Protsessakh [Electropulse Nanotechnologies in Casting Processes] (Chelyabinsk: TsNTI: 2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Кіщешко, В. В. Ткач, Вісник Криворізького національного університету, № 30: 220 (2012).",
+				"tr":  "O. M. Kishcheshko and V. V. Tkach, Visnyk Kryvoriz'kogo Natsional'nogo Universytetu, No. 30: 220 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Иванов, А. В. Синчук, В. Н. Цуркин, Электронная обработка материалов, 47, № 5: 89 (2011).",
+				"tr":  "A. V. Ivanov, A. V. Sinchuk, and V. N. Tsurkin, Elektronnaya Obrabotka Materialov, 47, No. 5: 89 (2011) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0021-9991(92)90140-T",
+				"or":  "J. A. Sethian, J. Comput. Phys., 92: 231 (1992).",
+				"tr":  "J. A. Sethian, J. Comput. Phys., 92: 231 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Ф. Селянин, В. Б. Деев, А. И. Куценко, Литейщик России, № 10: 22 (2012).",
+				"tr":  "I. F. Selyanin, V. B. Deev, and A. I. Kutsenko, Liteyshchik Rossii, No. 10: 22 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Yo. Gong, School of Materials Science and Engineering, No. 10: 12 (2006).",
+				"tr":  "Yo. Gong, School of Materials Science and Engineering, No. 10: 12 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Кіщенко, В. В. Ткач, Т. В. Орел, Збірка конференцій ПІТ (Кривий Ріг: 2010), с. 25.",
+				"tr":  "O. M. Kishchenko, V. V. Tkach, and T. V. Orel, Zbirka Konferentsiy PIT (Kryvyi Rih: 2010), p. 25 (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Ю. Кольчурина, И. Ф. Селянин, Литейное производство, № 8: 13 (2009).",
+				"tr":  "I. Yu. Kol'churina and I. F. Selyanin, Liteynoe Proizvodstvo, No. 8: 13 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "F. Zhang, M. Zhang, B. Li, and J. Li, Mater. Sci., 13, No. 2: 120 (2007).",
+				"tr":  "F. Zhang, M. Zhang, B. Li, and J. Li, Mater. Sci., 13, No. 2: 120 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Н. Миненко, Ю. А. Смирнова, Металлургия машиностроения, № 3: 48 (2009).",
+				"tr":  "G. N. Minenko and Yu. A. Smirnova, Metallurgiya Mashinostroeniya, No. 3: 48 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Н. Миненко, Металлургия машиностроения, № 3: 10 (2006).",
+				"tr":  "G. N. Minenko, Metallurgiya Mashinostroeniya, No. 3: 10 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Ахкубеков, Б. С. Карамурзов, Письма в ЖТФ, 28, вып. 2: 60 (2002).",
+				"tr":  "A. A. Akhkubekov and B. S. Karamurzov, Pis'ma v ZhTF, 28, Iss. 2: 60 (2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Н. Жбанова, Л. Н. Саитгареев, Г. А. Бялик, И. Э. Скидин, Вестник Гомельского государственного технического университета имени П. О. Сухого, № 3: 24 (2017).",
+				"tr":  "E. N. Zhbanova, L. N. Saitgareev, G. A. Byalik, and I. E. Skidin, Vestnik Gomel'skogo Gosudarstvennogo Tekhnicheskogo Universiteta imeni P. O. Sukhogo, No. 3: 24 (2017) (in Russian)."
+			}
+		]
+	}
+}

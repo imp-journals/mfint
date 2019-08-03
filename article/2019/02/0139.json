@@ -1,0 +1,196 @@
+{
+	"_id":    "MFiNT.41.02.0139",
+	"year":   2019,
+	"volume": 41,
+	"issue":  2,
+	"pages":  [139,155],
+	"rubric": 1,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["03.12.2018"],
+	"PACS":   "61.05.cp, 61.43.Bn, 61.43.Dq, 61.46.Hk, 64.70.pe, 81.07.Bc, 81.40.Ef",
+	"title":   {
+		"ua": "Дослідження структури аморфних стопів Fe–Si–B в області низьких температур методами рентґеноструктурної аналізи",
+		"en": "Study of Structure of Amorphous Fe–Si–B Alloys in the Region of Low Temperatures by Means of Methods of X-Ray Diffraction Analysis",
+		"ru": "Исследование структуры аморфных сплавов Fe–Si–B в области низких температур методами рентгеноструктурного анализа"
+	},
+	"abstract": {
+		"ua": "Методами рентґенівської дифракції досліджено структуру аморфних стрічок із складами Fe$_{80}$Si$_6$B$_{14}$, Fe$_{82}$Si$_4$B$_{14}$ і Fe$_{77}$Si$_8$B$_{15}$ за різних температурних умов. Так, стоп Fe$_{80}$Si$_6$B$_{14}$ досліджено in situ в інтервалі температур від -193 до 598°C; стоп Fe$_{82}$Si$_4$B$_{14}$ досліджено за температури -170°C, а також після відпалу при температурах від 23 до 500°C (час відпалу при кожній температурі — 1 год); стоп Fe$_{77}$Si$_8$B$_{15}$ досліджено у вихідному стані та після витримки у рідкому азоті впродовж 3,5 годин. Встановлено, що характерною властивістю досліджуваних стопів є наявність інтервалів термічної стабільности, в яких структура та, як наслідок, фізико-механічні властивості не змінюються. В області кріогенних температур спостерігаються деякі структурні зміни аморфного стану, яких можна пов’язати зі структурною релаксацією; термічна стабільність не зберігається.",
+		"en": "The structure of the amorphous ribbons at different temperatures is studied by means of the x-ray diffraction. The amorphous Fe$_{80}$Si$_6$B$_{14}$ ribbons are studied in situ in temperature range from -193 to 598°C; the amorphous Fe$_{82}$Si$_4$B$_{14}$ ribbons are studied at temperature of -170°C and after annealing at temperatures from 23 to 500°C. The amorphous Fe$_{77}$Si$_8$B$_{15}$ ribbons are investigated before and after soaking in liquid nitrogen for 3.5 hours. As determined, the presence of thermal-stability intervals, in which the structure and, consequently, the physical and mechanical properties are invariable, is the characteristic feature of these alloys. In the region of cryogenic temperatures, some structural changes in the amorphous state are observed. These changes can be related with structural relaxation, and thermal stability is not saved.",
+		"ru": "Методами рентгеновской дифракции исследована структура аморфных лент с составами Fe$_{80}$Si$_6$B$_{14}$, Fe$_{82}$Si$_4$B$_{14}$ и Fe$_{77}$Si$_8$B$_{15}$ в разных температурных условиях. Так, сплав Fe$_{80}$Si$_6$B$_{14}$ исследован in situ в интервале температур от -193 до 598°C; сплав Fe$_{82}$Si$_4$B$_{14}$ исследован при температуре -170°C, а также после отжига при температурах от 23 до 500°C (время отжига для каждой температуры — 1 час); сплав Fe$_{77}$Si$_8$B$_{15}$ исследован в исходном состоянии и после выдержки в жидком азоте в течение 3,5 часов. Установлено, что характерной особенностью исследованных сплавов является существование интервалов термической стабильности, в которых структура и, как следствие, физико-механические свойства не изменяются. В области криогенных температур наблюдаются некоторые структурные изменения аморфного состояния, которые можно связать со структурной релаксацией; термическая стабильность не сохраняется."
+	},
+	"keywords": {
+		"ua": "аморфні металічні стопи, атомарна структура, дифракційні дослідження, кріогенні температури, структурна релаксація",
+		"en": "amorphous metallic alloys (AMAs), atomic structure, x-ray diffraction, cryogenic temperatures, structural relaxation",
+		"ru": "аморфные сплавы, атомная структура, дифракционные исследования, криогенные температуры, структурная релаксация"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. І. Слуховський", "en": "O. I. Slukhovskyy", "ru": "А. И. Слуховский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Г. М. Зелінська", "en": "H. M. Zelinska", "ru": "Г. М. Зелинская"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Ю. В. Лєпєєва", "en": "Yu. V. Lepeeva", "ru": "Ю. В. Лепеева"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 30,
+		"list":  [
+			{
+				"doi": "10.1016/0040-6031(96)02881-X",
+				"or":  "E. Illeková, F. Malizia, and F. Ronconi, Thermochim. Acta, 282–283: 91 (1996).",
+				"tr":  "E. Illeková, F. Malizia, and F. Ronconi, Thermochim. Acta, 282–283: 91 (1996)."
+			},
+			{
+				"doi": "10.1016/0040-6031(95)02649-5",
+				"or":  "E. Illeková, Thermochim. Acta, 280–281: 289 (1996).",
+				"tr":  "E. Illeková, Thermochim. Acta, 280–281: 289 (1996)."
+			},
+			{
+				"doi": "10.2320/matertrans.M2010321",
+				"or":  "K. Nakagawa, T. Kanadani, Ya. Mori, and Yu. Ishii, Mater. Trans., 52, Iss. 2: 196 (2011).",
+				"tr":  "K. Nakagawa, T. Kanadani, Ya. Mori, and Yu. Ishii, Mater. Trans., 52, Iss. 2: 196 (2011)."
+			},
+			{
+				"doi": "10.2320/matertrans1989.41.1077",
+				"or":  "Yo. Takahara and N. Narita, Mater. Trans., 41, Iss. 8: 1077 (2000).",
+				"tr":  "Yo. Takahara and N. Narita, Mater. Trans., 41, Iss. 8: 1077 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "Аморфные металлические сплавы (Ред. Ф. Е. Люборский) (Москва: Металлургия: 1987).",
+				"tr":  "Amorfnyye Metallicheskie Splavy (Ed. F. E. Luborsky) (Moscow: Metallurgiya: 1987) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Судзуки, Х. Фудзимори, К. Хасимото, Аморфные металлы (Ред. Ц. Масумото) (Москва: Металлургия: 1987) (пер. с япон.).",
+				"tr":  "K. Suzuki, H. Fujimori, and K. Hashimoto, Amorfnyye Metally (Ed. T. Masumoto) (Moscow: Metallurgiya: 1987) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Маслов, В. В. Немошкаленко и др., Металлофиз. новейшие технол., 16, № 1: 5 (1994).",
+				"tr":  "V. V. Maslov, V. V. Nemoshkalenko et al., Metallofiz. Noveishie Tekhnol., 16, No. 1: 5 (1994) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Аморфные металлические сплавы (Ред. В. В. Немошкаленко) (Киев: Наукова думка: 1987).",
+				"tr":  "Amorfnyye Metallicheskie Splavy (Ed. V. V. Nemoshkalenko) (Kiev: Naukova Dumka: 1987) (in Russian)."
+			},
+			{
+				"doi": "10.3103/S0967091212040067",
+				"or":  "B. A. Kornienkov, M. A. Libman, B. V. Molotilov, and M. Yu. Yazvitskii, Steel, 42, Iss. 4: 372 (2012).",
+				"tr":  "B. A. Kornienkov, M. A. Libman, B. V. Molotilov, and M. Yu. Yazvitskii, Steel, 42, Iss. 4: 372 (2012)."
+			},
+			{
+				"doi": "10.1063/1.88725",
+				"or":  "H. S. Chen and E. Coleman, Appl. Phys. Lett., 28, Iss. 5: 245 (1976).",
+				"tr":  "H. S. Chen and E. Coleman, Appl. Phys. Lett., 28, Iss. 5: 245 (1976)."
+			},
+			{
+				"doi": "10.1016/0025-5416(76)90183-X",
+				"or":  "T. Masumoto, H. Kimura, A. Inoue, and Y. Waseda, Mater. Sci. Eng., 23, Iss. 2–3: 141 (1976).",
+				"tr":  "T. Masumoto, H. Kimura, A. Inoue, and Y. Waseda, Mater. Sci. Eng., 23, Iss. 2–3: 141 (1976)."
+			},
+			{
+				"doi": "10.1016/0304-8853(78)90171-3",
+				"or":  "F. E. Luborsky, J. Magn. Magn. Mater., 7, Iss. 1–4: 143 (1978).",
+				"tr":  "F. E. Luborsky, J. Magn. Magn. Mater., 7, Iss. 1–4: 143 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "H. S. Chen, Sci. Rep. Res. Inst. Tohoku Univ., 28, No. 2: 97 (1980).",
+				"tr":  "H. S. Chen, Sci. Rep. Res. Inst. Tohoku Univ., 28, No. 2: 97 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. М. Зелинская, Т. М. Христенко, А. В. Романова, Металлофиз. новейшие технол., 23, № 7: 961 (2001).",
+				"tr":  "G. M. Zelins'ka, T. M. Khrystenko, and O. V. Romanova, Metallofiz. Noveishie Tekhnol., 23, No. 7: 961 (2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "O. P. Brud’ko, S. G. Zaichenko, and V. I. Zakharenko, J. Functional Mater., 10, No. 3: 493 (2003).",
+				"tr":  "O. P. Brud'ko, S. G. Zaichenko, and V. I. Zakharenko, J. Functional Mater., 10, No. 3: 493 (2003)."
+			},
+			{
+				"doi": "10.1016/j.physb.2005.07.020",
+				"or":  "M. E. Dokukin, N. S. Perov, E. B. Dokukin, A. I. Beskrovnyi, and S. G. Zaichenko, Phys. B, 368, Iss. 1–4: 267 (2005).",
+				"tr":  "M. E. Dokukin, N. S. Perov, E. B. Dokukin, A. I. Beskrovnyi, and S. G. Zaichenko, Phys. B, 368, Iss. 1–4: 267 (2005)."
+			},
+			{
+				"doi": "10.1134/1.1536212",
+				"or":  "S. G. Zaichenko and A. M. Glezer, Doklady Physics, 47, Iss. 12: 846 (2002).",
+				"tr":  "S. G. Zaichenko and A. M. Glezer, Doklady Physics, 47, Iss. 12: 846 (2002)."
+			},
+			{
+				"doi": "10.1520/JAI102479",
+				"or":  "S. G. Zaichenko, N. S. Perov, and A. M. Glezer, J. ASTM Int., 7, Iss. 2: 1 (2010).",
+				"tr":  "S. G. Zaichenko, N. S. Perov, and A. M. Glezer, J. ASTM Int., 7, Iss. 2: 1 (2010)."
+			},
+			{
+				"doi": "10.1016/S0304-8853(00)00138-4",
+				"or":  "S. G. Zaichenko, N. S. Perov, A. M. Glezer, E. A. Gan’shina, V. M. Kachalov, M. Calvo-Dalborg, and U. Dalborg, J. Magn. Magn. Mater., 215–216: 297 (2000).",
+				"tr":  "S. G. Zaichenko, N. S. Perov, A. M. Glezer, E. A. Gan'shina, V. M. Kachalov, M. Calvo-Dalborg, and U. Dalborg, J. Magn. Magn. Mater., 215–216: 297 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Glezer and S. G. Zaichenko, Bull. Russ. Acad. Sci. Phys., 67, No. 7: 908 (2003).",
+				"tr":  "A. M. Glezer and S. G. Zaichenko, Bull. Russ. Acad. Sci. Phys., 67, No. 7: 908 (2003)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2003.12.1095",
+				"or":  "M. E. Dokukin, N. S. Perov, A. I. Beskrovnyi, and E. B. Dokukin, J. Magn. Magn. Mater., 272–276: E1151 (2004).",
+				"tr":  "M. E. Dokukin, N. S. Perov, A. I. Beskrovnyi, and E. B. Dokukin, J. Magn. Magn. Mater., 272–276: E1151 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "S. G. Zaichenko, A. M. Glezer, E. A. Gan’shina, N. S. Perov, and V. M. Kachalov, Doklady Physics, 44, No. 4: 545 (1999).",
+				"tr":  "S. G. Zaichenko, A. M. Glezer, E. A. Gan'shina, N. S. Perov, and V. M. Kachalov, Doklady Physics, 44, No. 4: 545 (1999)."
+			},
+			{
+				"doi": "10.1107/S0021889878012844",
+				"or":  "J. I. Langford and A. J. C. Wilson, J. Appl. Crystallogr., 11: 102 (1978).",
+				"tr":  "J. I. Langford and A. J. C. Wilson, J. Appl. Crystallogr., 11: 102 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. С. Уманский, Ю. А. Скаков, А. Н. Иванов, Л. Н. Расторгуев, Кристаллография, рентгенография и электронная микроскопия (Москва: Металлургия: 1982).",
+				"tr":  "Ya. S. Umanskiy, Yu. A. Skakov, A. N. Ivanov, and L. N. Rastorguev. Kristallografiya, Rentgenografiya i Elektronnaya Mikroskopiya (Moscow: Metallurgiya: 1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. К. Вайнштейн, Дифракция рентгеновских лучей на цепных молекулах (Москва: АН СССР: 1963).",
+				"tr":  "B. K. Vaynshteyn, Difraktsiya Rentgenovskikh Luchey na Tsepnykh Molekulakh (Moscow: AN SSSR: 1963) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Займан, Принципы теории твёрдого тела (Москва: Мир: 1966).",
+				"tr":  "J. Ziman, Printsipy Teorii Tverdogo Tela (Moscow: Mir: 1966) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Архаров, И. А. Новохатский, Доклады АН СССР, 185, № 5: 1069 (1969).",
+				"tr":  "V. I. Arkharov and I. A. Novokhatskiy, Doklady AN SSSR, 185, No. 5: 1069 (1969) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Маслов, А. Г. Ильинский, В. К. Носенко, А. П. Бровко, И. К. Евлаш, Металлофиз. новейшие технол., 22, № 3: 43 (2000).",
+				"tr":  "V. V. Maslov, A. G. Il'insky, V. K. Nosenko, A. P. Brovko, and I. K. Evlash, Metallofiz. Noveishie Tekhnol., 22, No. 3: 43 (2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, А. Г. Ильинский, О. И. Слуховский, Г. М. Зелинская, Ю. В. Лепеева, И. Г. Кабан, Металлофиз. новейшие технол., 34, № 6: 751 (2012).",
+				"tr":  "A. P. Shpak, O. G. Il'inskyi, O. I. Slukhovskyi, Yu. V. Lepeeva, G. M. Zelinska, and I. G. Kaban, Metallofiz. Noveishie Tekhnol., 34, No. 6: 751 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Ильинский, Ю. В. Лепеева, В. Л. Карбовский, Г. М. Зелинская, Т. М. Христенко, С. С. Луговский, А. Н. Бабенко, Металлофиз. новейшие технол., 35, № 2: 145 (2013).",
+				"tr":  "O. G. Il'inskii, Yu. V. Lepeeva, V. L. Karbivs'kyy, G. M. Zelinska, T. M. Khrystenko, S. S. Lugovskii, and A. M. Babenko, Metallofiz. Noveishie Tekhnol., 35, No. 2: 145 (2013) (in Russian)."
+			}
+		]
+	}
+}

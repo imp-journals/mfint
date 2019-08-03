@@ -1,0 +1,105 @@
+{
+	"_id":    "MFiNT.40.09.1247",
+	"year":   2018,
+	"volume": 40,
+	"issue":  9,
+	"pages":  [1247,1256],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["01.03.2018","01.03.2018"],
+	"PACS":   "61.66.Fn, 75.50.-y, 75.70.-i, 76.50.+g, 85.70.Ge",
+	"title":   {
+		"ua": "Вирощування та властивості товстих епітаксійних плівок залізо-ітрійового ґранату",
+		"en": "Growth and Properties of Thick Epitaxial Films of Yttrium–Ferrum Garnet",
+		"ru": "Выращивание и свойства толстых эпитаксиальных плёнок железо-иттриевого граната"
+	},
+	"abstract": {
+		"ua": "Показано можливість методою рідкофазної епітаксії вирощувати на підкладинках з монокристалу ґалій-ґадолінійового ґранату (ҐҐҐ) плівки залізо-ітрійового ґранату (ЗІҐ) товщиною понад 60 мкм з частковим заміщенням йонів Y$^{3+}$ на йони La$^{3+}$. Втілення йонів La$^{3+}$ у кристалічну ґратницю ЗІҐ уможливлює збільшити постійну ґратниці феритової плівки до значення, характерного для підкладинки з ҐҐҐ, і тим самим усунути механічні напруження в плівці, які призводять до зростання магнетних втрат. Сформовано вимоги до технологічних умов вирощування, які уможливлюють одержувати товсті монокристалічні фероґранатові плівки високої якости з вузькою лінією ($\\Delta H$ = 0,6 E) феромагнетного резонансу.",
+		"en": "The possibility to grow the yttrium–iron garnet (YIG) films with thickness more than 60 µm with the partial substitution of Y$^{3+}$ ions for La$^{3+}$ ions by the method of the liquid-phase epitaxy on substrates of single-crystalline gallium–gadolinium garnet (GGG) is shown. The introduction of La$^{3+}$ ions into the YIG crystal lattice allows to increase the lattice constant of ferrite film to a value typical for the GGG substrate, and thereby to eliminate the mechanical stresses in the film, which lead to the growth of magnetic loss. The requirements to the growth technical conditions, which allow obtaining thick single-crystalline films of high quality with a narrow line ($\\Delta H$ = 0.6 E) of ferromagnetic resonance, are formulated.",
+		"ru": "Показана возможность методом жидкофазной эпитаксии выращивать на подложках из монокристалла галлий-гадолиниевого граната (ГГГ) плёнки железо-иттриевого граната (ЖИГ) толщиной свыше 60 мкм с частичным замещением ионов Y$^{3+}$ на ионы La$^{3+}$. Внедрение ионов La$^{3+}$ в кристаллическую решётку ЖИГ позволяет увеличить постоянную решётки ферритовой плёнки до величины, характерной для подложки из ГГГ, и тем самым устранить механические напряжения в плёнке, которые приводят к росту магнитных потерь. Сформированы требования к технологическим условиям выращивания, которые позволяют получать толстые монокристаллические феррогранатовые плёнки высокого качества с узкой линией ($\\Delta H$ = 0,6 Э) ферромагнитного резонанса."
+	},
+	"keywords": {
+		"ua": "плівки фериту-ґранату, рідкофазна епітаксія, феромагнетний резонанс",
+		"en": "garnet ferrite film, liquid-phase epitaxy, ferromagnetic resonance",
+		"ru": "плёнки феррита-граната, жидкофазная эпитаксия, ферромагнитный резонанс"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. І. Ющук", "en": "S. I. Yushchuk", "ru": "С. И. Ющук"},
+			"OID": [204]
+		},
+		{
+			"AID": {"ua": "С. О. Юр’єв", "en": "S. O. Yuryev", "ru": "С. А. Юрьев"},
+			"OID": [204]
+		},
+		{
+			"AID": {"ua": "О. Б. Біленька", "en": "O. B. Bilenka", "ru": "О. Б. Биленька"},
+			"OID": [204]
+		},
+		{
+			"AID": {"ua": "О. М. Горіна", "en": "O. M. Gorina", "ru": "Е. М. Горина"},
+			"OID": [204]
+		}
+	],
+	"references": {
+		"count": 11,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "С. И. Ющук, С. А. Юрьев, П. С. Костюк, В. И. Бондар, Технология и конструирование в электронной аппаратуре, № 3 (57): 22 (2005).",
+				"tr":  "S. I. Yushchuk, S. A. Yuryev, P. S. Kostyuk, and V. I. Bondar, Tekhnologiya i Konstruirovanie v Elektronnoy Apparature, No. 3 (57): 22 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. V. Lutsev, A. M. Korovin, V. E. Bursian, S. V. Gastev, V. V. Fedorov, S. M. Suturin, and N. S. Sokolov, NASA Astrophysics Data System, No. 5: 1 (2016).",
+				"tr":  "L. V. Lutsev, A. M. Korovin, V. E. Bursian, S. V. Gastev, V. V. Fedorov, S. M. Suturin, and N. S. Sokolov, NASA Astrophysics Data System, No. 5: 1 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Гуревич, Г. Мелков, Магнитные колебания и волны (Москва: Наука: 1994).",
+				"tr":  "A. Gurevich and G. Melkov, Magnitnye Kolebaniya i Volny [Magnetic Oscillations and Waves] (Moscow: Nauka: 1994) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0022-0248(76)90099-3",
+				"or":  "H. L. Glass, J. Cryst. Growth, 33, No. 1: 183 (1976).",
+				"tr":  "H. L. Glass, J. Cryst. Growth, 33, No. 1: 183 (1976)."
+			},
+			{
+				"doi": "10.1016/0038-1098(78)91161-4",
+				"or":  "C. Borghese, P. De Gasperis, and R. Tappa, Solid State Comm., 25: 21 (1978).",
+				"tr":  "C. Borghese, P. De Gasperis, and R. Tappa, Solid State Comm., 25: 21 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "С. І. Ющук, УФЖ, 44, № 9: 1099 (1999).",
+				"tr":  "S. I. Yushchuk, Ukr. Fiz. Zhurn., 44, No. 9: 1099 (1999) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Балбашов, А. М. Червоненкис, Магнитные материалы для микроэлектроники (Москва: Энергия: 1979).",
+				"tr":  "A. Balbashov and A. Chervonenkis, Magnitnye Materialy dlya Mikroelektroniki [Magnetic Materials for Microelectronics] (Moscow: Energiya: 1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. І. Ющук, С. О. Юр’єв, В. І. Бондар, В. Й. Ніколайчук, С. Б. Харамбура, Вісник НУ «Львівська політехніка». Серія «Електроніка», № 513: 153 (2004).",
+				"tr":  "S. I. Yushchuk, S. O. Yuryev, V. I. Bondar, V. I. Nikolaichuk, and S. B. Harambura, Visnyk Derzhavnoho Universytetu 'Lvivs'ka Politekhnika'. Ser. 'Elektronika', No. 513: 153 (2004) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Ющук, С. А. Юрьев, П. С. Костюк, В. И. Николайчук, ПТЭ, № 5: 118 (2011).",
+				"tr":  "S. I. Yushchuk, S. O. Yuryev, P. S. Kostyuk, and V. I. Nikolaichuk, Pribory i Tekhnika Eksperimenta, No. 5: 118 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. І. Ющук, С. О. Юр’єв, І. Р. Зачек, В. В. Мокляк, Фізика і хімія твердого тіла, 15: № 3: 643 (2014).",
+				"tr":  "S. I. Yushchuk, S. O. Yuryev, I. R. Zachek, and V. V. Moklyak, Fizyka i Khimiya Tverdoho Tila, 15, No. 3: 643 (2014) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Эшенфельдер, Физика и техника цилиндрических магнитных доменов (Москва: Мир: 1983) (пер. з англ.).",
+				"tr":  "A. Eschenfelder, Fizika i Tekhnika Tsilindricheskikh Magnitnykh Domenov [Physics and Technology of Cylindrical Magnetic Domains] (Moscow: Mir: 1983) (Russian translation)."
+			}
+		]
+	}
+}

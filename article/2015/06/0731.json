@@ -1,0 +1,95 @@
+{
+	"_id":    "MFiNT.37.06.0731",
+	"year":   2015,
+	"volume": 37,
+	"issue":  6,
+	"pages":  [731,740],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["04.02.2015"],
+	"PACS":   "61.05.cp, 61.66.Dk, 64.60.Cn, 72.15.Eb, 72.80.Ng, 81.40.Ef, 81.40.Rs",
+	"title":  {
+		"ua": "Структура високоентропійних сплавів CrMnFeCoNi і CrMnFeCoNi$_{2}$Cu та термостабільність їх електротранспортних властивостей",
+		"en": "Structure of the High-Entropy CrMnFeCoNi and CrMnFeCoNi$_{2}$Cu Alloys and Thermal Stability of Its Electrical Transport Properties",
+		"ru": "Структура высокоэнтропийных сплавов CrMnFeCoNi и CrMnFeCoNi$_{2}$Cu и термостабильность их электротранспортных свойств"
+	},
+	"abstract": {
+		"ua": "Досліджено еволюцію структури та електротранспортних властивостей високоентропійних стопів CrMnFeCoNi (А) та CrMnFeCoNi$_{2}$Cu (В) при термообробці. Показано, що стоп А складається з однієї ГЦК-фази. Стоп В складається з двох фаз: основної, з параметрами ґратниці, близькими до стопу А, та додаткової ГЦК-фази. Додаткова фаза виявляється досить чітко після відпалів. Було встановлено, що параметри електроопору стопу А є термічно стабільними, в той час як певні структурні перебудови в додатковій фазі стопу В дещо погіршують термічну стабільність його електротранспортних властивостей.",
+		"en": "The evolution of the structure and electrical-transport properties of high-entropy CrMnFeCoNi (A) and CrMnFeCoNi$_{2}$Cu (B) alloys under heat treatment is investigated. As shown, the alloy A contains of a single f.c.c. phase. The alloy B consists of two phases: base one, with the lattice parameter close to that of the alloy A, and additional f.c.c. phase. The additional phase is revealed clearly after annealing. As found, the parameters of electrical resistance of the alloy A are thermally stable, while some rearrangements within the additional phase of the alloy B result in a small influence on the thermal stability of its electrical-transport properties.",
+		"ru": "Исследована эволюция структуры и электротранспортных свойств высокоэнтропийных сплавов CrMnFeCoNi (A) и CrMnFeCoNi$_{2}$Cu (B) при термообработке. Показано, что сплав А состоит из одной ГЦК-фазы. Сплав B состоит из двух фаз: основной, с параметрами решётки, близкими к сплаву A, и дополнительной ГЦК-фазы. Дополнительная фаза выявляется достаточно чётко после отжигов. Было установлено, что параметры электросопротивления сплава A являются термически стойкими, в то же время некоторые структурные перестройки в дополнительной фазе сплава B несколько ухудшают термическую стабильность его электротранспортных свойств."
+	},
+	"keywords": {
+		"ua": "структура, електроопір, термічна стабільність, високоентропійний стоп",
+		"en": "structure, electrical resistance, thermal stability, high-enthropy alloy",
+		"ru": "структура, электросопротивление, термическая стабильность, высокоэнтропийный сплав"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. О. Крапівка", "en": "M. O. Krapivka", "ru": "М. О. Крапивка"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "Ю. П. Мазур", "en": "Yu. P. Mazur", "ru": "Ю. П. Мазур"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "М. П. Семенько", "en": "M. P. Semen’ko", "ru": "М. П. Семенько"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "С. О. Фірстов", "en": "S. O. Firstov", "ru": "С. А. Фирстов"},
+			"OID": [2]
+		}
+	],
+	"references": {
+		"count": 9,
+		"list":  [
+			{
+				"doi": "10.1002/adem.200300567",
+				"or":  "J. W. Yeh, S. K. Chen, S. J. Lin, J.-Y. Gan, T.-S. Chin, T.-T. Shun, C.-H. Tsau, and S.-Y. Chang, Adv. Eng. Mater., 6, Iss. 5: 299 (2004).",
+				"tr":  "J. W. Yeh, S. K. Chen, S. J. Lin, J.-Y. Gan, T.-S. Chin, T.-T. Shun, C.-H. Tsau, and S.-Y. Chang, Adv. Eng. Mater., 6, Iss. 5: 299 (2004)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.560.1",
+				"or":  "J. W. Yeh, Y. L. Chen, S. J. Lin, and S. K. Chen, Mat. Sci. Forum, 560: 1 (2007).",
+				"tr":  "J. W. Yeh, Y. L. Chen, S. J. Lin, and S. K. Chen, Mat. Sci. Forum, 560: 1 (2007)."
+			},
+			{
+				"doi": "10.1016/j.pmatsci.2013.10.001",
+				"or":  "Y. Zhang, T. T. Zuo, Z. Tang, M. C. Gao, K. A. Dahmen, P. K. Liaw, and Z. P. Lu, Prog. Mater. Sci., 61: 1 (2014).",
+				"tr":  "Y. Zhang, T. T. Zuo, Z. Tang, M. C. Gao, K. A. Dahmen, P. K. Liaw, and Z. P. Lu, Prog. Mater. Sci., 61: 1 (2014)."
+			},
+			{
+				"doi": "10.3390/e15125338",
+				"or":  "M.-H. Tsai, Entropy, 15: 5338 (2013).",
+				"tr":  "M.-H. Tsai, Entropy, 15: 5338 (2013)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2010.10.210",
+				"or":  "Y.-F. Kao, S.-K. Chen, T.-J. Chen, P.-C. Chu, J.-W. Yeh, and S.-J. Lin, J. Alloys Compd., 509: 1607 (2011).",
+				"tr":  "Y.-F. Kao, S.-K. Chen, T.-J. Chen, P.-C. Chu, J.-W. Yeh, and S.-J. Lin, J. Alloys Compd., 509: 1607 (2011)."
+			},
+			{
+				"doi": "10.1016/j.mseb.2009.05.024",
+				"or":  "H.-P. Chou, Y.-S. Chang, S.-K. Chen, and J.-W. Yeh, Mat. Sci. Eng. B, 163: 184 (2009).",
+				"tr":  "H.-P. Chou, Y.-S. Chang, S.-K. Chen, and J.-W. Yeh, Mat. Sci. Eng. B, 163: 184 (2009)."
+			},
+			{
+				"doi": "10.1063/1.3679072",
+				"or":  "S.-K. Chen and Y.-F. Kao, AIP Adv., 2: 012111 (2012).",
+				"tr":  "S.-K. Chen and Y.-F. Kao, AIP Adv., 2: 012111 (2012)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.113.107001",
+				"or":  "P. Koželj, S. Vrtnik, A. Jelen, S. Jazbec, Z. Jagličić, S. Maiti, M. Feuerbacher, W. Steurer, and J. Dolinšek, Phys. Rev. Lett., 113: 107001 (2014).",
+				"tr":  "P. Koželj, S. Vrtnik, A. Jelen, S. Jazbec, Z. Jagličić, S. Maiti, M. Feuerbacher, W. Steurer, and J. Dolinšek, Phys. Rev. Lett., 113: 107001 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "Amorphous Metallic Alloys (Ed. F. E. Luborsky) (London: Butterworth-Heinemann: 1983).",
+				"tr":  "Amorphous Metallic Alloys (Ed. F. E. Luborsky) (London: Butterworth-Heinemann: 1983)."
+			}
+		]
+	}
+}

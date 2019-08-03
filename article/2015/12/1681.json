@@ -1,0 +1,236 @@
+{
+	"_id":    "MFiNT.37.12.1681",
+	"year":   2015,
+	"volume": 37,
+	"issue":  12,
+	"pages":  [1681,1701],
+	"rubric": 1,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["07.09.2015"],
+	"PACS":   "61.43.Dq, 62.20.Qp, 64.70.dg, 64.70.pe, 81.05.Kf, 81.07.Bc, 81.70.Pg",
+	"title":  {
+		"ua": "Формування аморфного стану в об'ємних зразках багатокомпонентних сплавів на основі заліза",
+		"en": "Formation of Amorphous State in Bulk Samples of the Iron-Based Multicomponent Alloys",
+		"ru": "Формирование аморфного состояния в объёмных образцах многокомпонентных сплавов на основе железа"
+	},
+	"abstract": {
+		"ua": "Методами рентґенографічної аналізи, диференційної сканувальної калориметрії та міряння мікротвердости досліджено схильність до аморфізації (СА) та механічні властивості ряду нових багатокомпонентних стопів на основі заліза. Литтям у мідний кокіль було одержано в аморфному стані стопи Fe$_{69}$Mn$_{1}$Mo$_{4}$Cr$_{2}$C$_{7}$P$_{10}$B$_{5}$Si$_{2}$ і Fe$_{55}$Ni$_{8}$Co$_{6}$Mo$_{4}$Cr$_{2}$V$_{1}$Al$_{2}$P$_{9}$C$_{6}$B$_{5}$Si$_{2}$ у формі платівок товщиною у 0,5 і 2 мм відповідно, а кристалізація стопу Fe$_{50,0}$Ni$_{19,0}$Cr$_{6,5}$Мо$_{1,5}$V$_{1}$B$_{14,1}$С$_{2,5}$Р$_{4,4}$Si$_{1}$ пригнічується тільки в тонких стрічках, одержаних методою спінінґування розтопу. Аналізу СА було проведено в межах відомих термодинамічних критеріїв, що ґрунтуються на температурах переходу склування ($T_{g}$), початку кристалізації ($T_{ons}$) і ліквідусу ($T_{l}$). Встановлено, що критичні швидкості охолодження, необхідні для об’ємної аморфізації перших двох стопів, які передбачаються критерієм $\\gamma_{m} = (2T_{ons} - T_{g})/T_{l}$ (1010 і 262 К/с відповідно), добре узгоджуються із значеннями (3150 і 303 К/с), яких оцінено за емпіричною залежністю «швидкість охолодження—товщина». Досліджені об’ємні металеві стекла на основі заліза, хемічні склади яких можуть бути сформовані з використанням вихідних промислових матеріялів, мають відносно високу міцність (до 3,5 ГПа) і є цікавими з практичної точки зору.",
+		"en": "The glass-forming ability (GFA) of a number of the new multicomponent Fe-based alloys and their mechanical properties are investigated by X-ray diffractometry, differential scanning calorimetry, and microhardness measurements. The Fe$_{69}$Mn$_{1}$Mo$_{4}$Cr$_{2}$C$_{7}$P$_{10}$B$_{5}$Si$_{2}$ and Fe$_{55}$Ni$_{8}$Co$_{6}$Mo$_{4}$Cr$_{2}$V$_{1}$Al$_{2}$P$_{9}$C$_{6}$B$_{5}$Si$_{2}$ alloys are obtained in amorphous state by copper mould casting in plates with thickness of 0.5 and 2 mm, respectively, while crystallization of the Fe$_{50.0}$Ni$_{19.0}$Cr$_{6.5}$Мо$_{1.5}$V$_{1}$B$_{14.1}$С$_{2.5}$Р$_{4.4}$Si$_{1}$ alloy is suppressed only in thin ribbons produced by the melt-spinning processing. The GFA analysis is carried out in terms of the known thermodynamic criteria based on the values of temperatures of glass transition ($T_{g}$), onset crystallization ($T_{ons}$), and liquidus ($T_{l}$). As found, the critical cooling rates required for bulk amorphization of first two alloys predicted by the criterion of $\\gamma_{m} = (2T_{ons} - T_{g})/T_{l}$ (1.01$\\cdot$10$^{3}$ and 262 K/s, respectively) are in a good agreement with those (3150 и 303 K/s) estimated from the empirical ‘cooling rate—thickness’ relation. The investigated Fe-based bulk metallic glasses, whose chemical compositions may be formed using industrial raw materials, have a relatively high strength (up to 3.5 GPa) and are of interest from an application point of view.",
+		"ru": "Методами рентгенографического анализа, дифференциальной сканирующей калориметрии и измерения микротвёрдости исследованы склонность к аморфизации (СА) и механические свойства ряда новых многокомпонентных сплавов на основе железа. Сплавы Fe$_{69}$Mn$_{1}$Mo$_{4}$Cr$_{2}$C$_{7}$P$_{10}$B$_{5}$Si$_{2}$ и Fe$_{55}$Ni$_{8}$Co$_{6}$Mo$_{4}$Cr$_{2}$V$_{1}$Al$_{2}$P$_{9}$C$_{6}$B$_{5}$Si$_{2}$ были получены в аморфном состоянии литьём в медный кокиль в форме пластинок толщиной 0,5 и 2 мм соответственно, а кристаллизация сплава Fe$_{50,0}$Ni$_{19,0}$Cr$_{6,5}$Мо$_{1,5}$V$_{1}$B$_{14,1}$С$_{2,5}$Р$_{4,4}$Si$_{1}$ подавляется только в тонких лентах, полученных методом спиннингования расплава. Анализ СА был проведён в рамках известных термодинамических критериев, основанных на температурах перехода стеклования ($T_{g}$), начала кристаллизации ($T_{ons}$) и ликвидуса ($T_{l}$). Установлено, что критические скорости охлаждения, необходимые для объёмной аморфизации первых двух сплавов, предсказываемые критерием $\\gamma_{m} = (2T_{ons} - T_{g})/T_{l}$ (1010 и 262 К/с соответственно), хорошо согласуются со значениями (3150 и 303 К/с), оценёнными по эмпирической зависимости «скорость охлаждения—толщина». Исследованные объёмные металлические стёкла на основе железа, химические составы которых могут быть сформированы с использованием исходных промышленных материалов, имеют относительно высокую прочность (до 3,5 ГПа) и представляют интерес с практической точки зрения."
+	},
+	"keywords": {
+		"ua": "об’ємні стекла на основі заліза, схильність до аморфізації, характер кристалізації, мікротвердість",
+		"en": "Fe-based bulk metallic glasses, glass-forming ability, crystallization behaviour, microhardness",
+		"ru": "объёмные стёкла на основе железа, склонность к аморфизации, характер кристаллизации, микротвёрдость"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. К. Носенко", "en": "V. K. Nosenko", "ru": "В. К. Носенко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. Ю. Руденко", "en": "О. Yu. Rudenko", "ru": "А. Ю. Руденко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Т. М. Моісеєва", "en": "T. N. Moiseeva", "ru": "Т. Н. Моисеева"},
+			"OID": [9]
+		},
+		{
+			"AID": {"ua": "В. В. Максимов", "en": "V. V. Maksimov", "ru": "В. В. Максимов"},
+			"OID": [9]
+		},
+		{
+			"AID": {"ua": "М. С. Нізамеєв", "en": "M. S. Nizameyev", "ru": "М. С. Низамеев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. І. Лімановський", "en": "A. I. Limanovskii", "ru": "А. И. Лимановский"},
+			"OID": [9]
+		},
+		{
+			"AID": {"ua": "А. М. Семирга", "en": "O. M. Semyrga", "ru": "А. М. Семирга"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. І. Ткач", "en": "V. I. Tkatch", "ru": "В. И. Ткач"},
+			"OID": [9]
+		}
+	],
+	"references": {
+		"count": 34,
+		"list":  [
+			{
+				"doi": "10.1038/187869b0",
+				"or":  "W. Klement, R. H. Willens, and P. Duwez, Nature, 187: 869 (1960).",
+				"tr":  "W. Klement, R. H. Willens, and P. Duwez, Nature, 187: 869 (1960)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(00)01450-7",
+				"or":  "H. Warlimont, Mater. Sci. Eng. A, 304–306: 61 (2001).",
+				"tr":  "H. Warlimont, Mater. Sci. Eng. A, 304–306: 61 (2001)."
+			},
+			{
+				"doi": "10.1016/B978-0-408-11030-3.50025-X",
+				"or":  "D. Raskin and C. H. Smith, Amorphous Metallic Alloys (Ed. F. E. Luborsky) (London: Butterworths: 1983), p. 381.",
+				"tr":  "D. Raskin and C. H. Smith, Amorphous Metallic Alloys (Ed. F. E. Luborsky) (London: Butterworths: 1983), p. 381."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2005.09.051",
+				"or":  "M. F. Ashby and A. L. Greer, Scripta Mater., 54: 321 (2006).",
+				"tr":  "M. F. Ashby and A. L. Greer, Scripta Mater., 54: 321 (2006)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2008.08.028",
+				"or":  "H. Gleiter, Acta Mater., 56: 5875 (2008).",
+				"tr":  "H. Gleiter, Acta Mater., 56: 5875 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. К. Ковнеристый, Э. К. Осипов, Е. А. Трофимова, Физико-химические основы создания аморфных металлических сплавов (Москва: Наука: 1983).",
+				"tr":  "Yu. K. Kovneristyy, E. K. Osipov, and E. A. Trofimova, Fiziko-Khimicheskie Osnovy Sozdaniya Amorfnykh Metallicheskikh Splavov [Physical and Chemical Bases of Creation of Amorphous Metal Alloys] (Moscow: Nauka: 1983) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(99)00300-6",
+				"or":  "A. Inoue, Acta Mater., 48: 279 (2000).",
+				"tr":  "A. Inoue, Acta Mater., 48: 279 (2000)."
+			},
+			{
+				"doi": "10.1002/adma.200902776",
+				"or":  "J. Schroers, Adv. Mater., 22: 1566 (2010).",
+				"tr":  "J. Schroers, Adv. Mater., 22: 1566 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Inoue, Y. Shinohara, and J. S. Gook, Mater. Trans., 36: 1427 (1995).",
+				"tr":  "A. Inoue, Y. Shinohara, and J. S. Gook, Mater. Trans., 36: 1427 (1995)."
+			},
+			{
+				"doi": "10.1063/1.124273",
+				"or":  "T. D. Shen and R. B. Schwartz, Appl. Phys. Lett., 75: 49 (1999).",
+				"tr":  "T. D. Shen and R. B. Schwartz, Appl. Phys. Lett., 75: 49 (1999)."
+			},
+			{
+				"doi": "10.1063/1.1599636",
+				"or":  "V. Ponnambalam, S. J. Poon, G. J. Shiflet, V. M. Keppens, R. Taylor, and G. Petculescu, Appl. Phys. Lett., 83: 1131 (2003).",
+				"tr":  "V. Ponnambalam, S. J. Poon, G. J. Shiflet, V. M. Keppens, R. Taylor, and G. Petculescu, Appl. Phys. Lett., 83: 1131 (2003)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.92.245503",
+				"or":  "Z. P. Lu, C. T. Liu, J. R. Thompson, and W. D. Porter, Phys. Rev. Lett., 92: 245503 (2004).",
+				"tr":  "Z. P. Lu, C. T. Liu, J. R. Thompson, and W. D. Porter, Phys. Rev. Lett., 92: 245503 (2004)."
+			},
+			{
+				"doi": "10.1016/j.intermet.2006.01.038",
+				"or":  "A. Inoue, B. L. Shen, and C. T. Chang, Intermetallics, 14: 936 (2006).",
+				"tr":  "A. Inoue, B. L. Shen, and C. T. Chang, Intermetallics, 14: 936 (2006)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(01)00366-4",
+				"or":  "S. J. Pang, T. Zhang, K. Asami, and A. Inoue, Acta Mater., 50: 489 (2002).",
+				"tr":  "S. J. Pang, T. Zhang, K. Asami, and A. Inoue, Acta Mater., 50: 489 (2002)."
+			},
+			{
+				"doi": "10.1557/JMR.2004.0176",
+				"or":  "V. Ponnambalam, S. J. Poon, and G. J. Shiflet, J. Mater. Res., 19: 1320 (2004).",
+				"tr":  "V. Ponnambalam, S. J. Poon, and G. J. Shiflet, J. Mater. Res., 19: 1320 (2004)."
+			},
+			{
+				"doi": "10.1063/1.1897426",
+				"or":  "J. Shen, Q. Chen, J. Sun, H. Fan, and G. Wang, Appl. Phys. Lett., 86: 151907 (2005).",
+				"tr":  "J. Shen, Q. Chen, J. Sun, H. Fan, and G. Wang, Appl. Phys. Lett., 86: 151907 (2005)."
+			},
+			{
+				"doi": "10.1016/j.intermet.2011.05.020",
+				"or":  "Z. B. Jiao, H. X. Li, J. E. Gao, Y. Wu, and Z. P. Lu, Intermetallics, 19: 1502 (2011).",
+				"tr":  "Z. B. Jiao, H. X. Li, J. E. Gao, Y. Wu, and Z. P. Lu, Intermetallics, 19: 1502 (2011)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2009.04.021",
+				"or":  "H. X. Li, S. L. Wang, S. Yi, Z. B. Jiao, Y. Wu, and Z. P. Lu, J. Magn. Magn. Mater., 321: 2833 (2009).",
+				"tr":  "H. X. Li, S. L. Wang, S. Yi, Z. B. Jiao, Y. Wu, and Z. P. Lu, J. Magn. Magn. Mater., 321: 2833 (2009)."
+			},
+			{
+				"doi": "10.1557/jmr.2007.0008",
+				"or":  "H. Li, S. Yi, and H. S. Sohn, J. Mater. Res., 22: 164 (2007).",
+				"tr":  "H. Li, S. Yi, and H. S. Sohn, J. Mater. Res., 22: 164 (2007)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2007.02.038",
+				"or":  "H. X. Li, K. B. Kim, and S. Yi, Scripta Mater., 56: 1035 (2007).",
+				"tr":  "H. X. Li, K. B. Kim, and S. Yi, Scripta Mater., 56: 1035 (2007)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2007.05.025",
+				"or":  "H. X. Li, H. Y. Jung, and S. Yi, J. Magn. Magn. Mater., 320: 241 (2008).",
+				"tr":  "H. X. Li, H. Y. Jung, and S. Yi, J. Magn. Magn. Mater., 320: 241 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. С. Уманский, Ю. А. Скаков, А. Н. Иванов, Л. Н. Расторгуев, Кристаллография, рентгенография и электронная микроскопия (Москва: Металлургия: 1982).",
+				"tr":  "Ya. S. Umanskiy, Yu. A. Skakov, A. N. Ivanov, and L. N. Rastorguev, Kristallografiya, Rentgenografiya i Elektronnaya Mikroskopiya [Crystallography, X-Ray and Electron Microscopy] (Moscow: Metallurgiya: 1982) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2010.07.047",
+				"or":  "J. Fornell, S. Gonsales, E. Rossinyol, S. Surinach, M. D. Baró, D. V. Louzguine-Luzgin, J. H. Perepezko, J. Sort, and A. Inoue, Acta Mater., 58, Iss. 19: 6256 (2010).",
+				"tr":  "J. Fornell, S. Gonsales, E. Rossinyol, S. Surinach, M. D. Baró, D. V. Louzguine-Luzgin, J. H. Perepezko, J. Sort, and A. Inoue, Acta Mater., 58, Iss. 19: 6256 (2010)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(99)00300-6",
+				"or":  "A. Inoue, Acta Mater., 48: 279 (2000).",
+				"tr":  "A. Inoue, Acta Mater., 48: 279 (2000)."
+			},
+			{
+				"doi": "10.1016/S0022-3093(01)00646-9",
+				"or":  "G. E. Abrosimova, A. S. Aronin, Yu. V. Kir’janov, D. V. Matveev, V. V. Molokanov, and I. I. Zver’kova, J. Non-Cryst. Solids, 288: 121 (2001).",
+				"tr":  "G. E. Abrosimova, A. S. Aronin, Yu. V. Kir'janov, D. V. Matveev, V. V. Molokanov, and I. I. Zver'kova, J. Non-Cryst. Solids, 288: 121 (2001)."
+			},
+			{
+				"doi": "10.1016/0001-6160(82)90056-6",
+				"or":  "A. L. Greer, Acta Metallurgica, 30: 171 (1982).",
+				"tr":  "A. L. Greer, Acta Metallurgica, 30: 171 (1982)."
+			},
+			{
+				"doi": "10.1016/0025-5416(67)90013-4",
+				"or":  "R. C. Ruhl, Mater. Sci. Eng., 1: 313 (1967).",
+				"tr":  "R. C. Ruhl, Mater. Sci. Eng., 1: 313 (1967)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(01)01346-6",
+				"or":  "V. I. Tkatch, A. I. Limanovskii, S. N. Denisenko, and S. G. Rassolov, Mater. Sci. Eng. A, 323: 91 (2002).",
+				"tr":  "V. I. Tkatch, A. I. Limanovskii, S. N. Denisenko, and S. G. Rassolov, Mater. Sci. Eng. A, 323: 91 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Б. Лысенко, Г. В. Борисова, О. Л. Кравец, Физика и техника высоких давлений, 14: 44 (2004).",
+				"tr":  "A. B. Lysenko, G. V. Borisova, and O. L. Kravets, Fizika i Tekhnika Vysokikh Davleniy, 14: 44 (2004) (in Russian)."
+			},
+			{
+				"doi": "10.2320/matertrans.43.1892",
+				"or":  "A. Inoue and A. Takeuchi, Mater. Trans., 43: 1892 (2002).",
+				"tr":  "A. Inoue and A. Takeuchi, Mater. Trans., 43: 1892 (2002)."
+			},
+			{
+				"doi": "10.1080/00107516908204405",
+				"or":  "D. Turnbull, Contemp. Phys., 10: 473 (1969).",
+				"tr":  "D. Turnbull, Contemp. Phys., 10: 473 (1969)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(02)00166-0",
+				"or":  "Z. P. Lu and C. T. Liu, Acta Mater., 50: 3501 (2002).",
+				"tr":  "Z. P. Lu and C. T. Liu, Acta Mater., 50: 3501 (2002)."
+			},
+			{
+				"doi": "10.1016/j.intermet.2009.12.025",
+				"or":  "Sh. Guo, Z. P. Lu, and C. T. Liu, Intermetallics, 18: 883 (2010).",
+				"tr":  "Sh. Guo, Z. P. Lu, and C. T. Liu, Intermetallics, 18: 883 (2010)."
+			},
+			{
+				"doi": "10.1063/1.2718286",
+				"or":  "X. H. Du, J. C. Huang, C. T. Liu, and Z. P. Lu, J. Appl. Phys., 101: 086108 (2007).",
+				"tr":  "X. H. Du, J. C. Huang, C. T. Liu, and Z. P. Lu, J. Appl. Phys., 101: 086108 (2007)."
+			}
+		]
+	}
+}

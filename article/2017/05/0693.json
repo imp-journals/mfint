@@ -1,0 +1,250 @@
+{
+	"_id":    "MFiNT.39.05.0693",
+	"year":   2017,
+	"volume": 39,
+	"issue":  5,
+	"pages":  [693,708],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["24.04.2017"],
+	"PACS":   "42.25.Bs, 42.25.Dd, 75.50.Mm, 78.67.Bf, 81.40.Rs, 81.70.Ex, 83.60.Np",
+	"title":   {
+		"ua": "Особливості формування та трансформування кластерів наночастинок Fe$_{3}$O$_{4}$ в магнетній рідині під дією довготривалого імпульсу магнетного поля",
+		"en": "Features of Formation and Transformation of Fe$_{3}$O$_{4}$-Nanoparticle Clusters in a Magnetic Fluid under the Long-Term Magnetic-Field Pulse Action",
+		"ru": "Особенности формирования и трансформирования кластеров наночастиц Fe$_{3}$O$_{4}$ в магнитной жидкости под действием длительного импульса магнитного поля"
+	},
+	"abstract": {
+		"ua": "Досліджено особливості оптичного пропускання тонким шаром магнетної рідини (МР) у зовнішньому магнетному полі. Спостережений ефект інверсії напрямку оптичної екстинкції (ІНОЕ) виникає через деякий час після вмикання магнетного поля та його вимикання. Час настання ІНОЕ залежить від величини амплітуди поля та від довжини хвилі $\\lambda$ зондувального оптичного випромінення. Існування ІНОЕ пов'язується з динамікою трансформування (утворення або руйнування) кластерів магнетних наночастинок у МР під дією магнетного поля: в момент часу, коли розмір $D$ кластера, утвореного з магнетних наночастинок МР, стає співмірним із довжиною хвилі $\\lambda$ ($D_{1}$ = $\\alpha\\lambda$, де $\\alpha$ — деякий безрозмірний коефіцієнт), сумарна дія розсіяння та поглинання оптичного випромінення стає максимальною (момент виникнення ІНОЕ), а потім починає зменшуватися. Обговорення одержаних експериментальних результатів здійснюється на основі запропонованого моделю формування та трансформування кластерів магнетних наночастинок у МР під дією зовнішнього магнетного поля, важливим елементом якої є латеральна аґреґація ланцюжкових кластерів магнетних наночастинок. Проведено аналізу практичної значущости одержаних результатів, наприклад, для відшукання густини кластерів, визначених моделем розмірів і морфології, при створенні нових типів композитних матеріялів тощо.",
+		"en": "Features of the optical transmission by means of the thin ferrofluid (FF) layer in an external magnetic field are studied. The observed effect of optical-extinction trend inversion (OETI) occurs over time after the magnetic field switching on and switching off. The onset time of OETI depends on the magnitude of field amplitude and on the wavelength $\\lambda$ of the probing optical radiation. The OETI existence is associated with magnetic-nanoparticles’ clusters’ transformation (formation or destruction) dynamics in FF under the magnetic field action. At the time moment when the size of magnetic-nanoparticles’ clusters formed from FF, $D$, becomes commensurable with the wavelength $\\lambda$ ($D_{1}$ = $\\alpha\\lambda$, where $\\alpha$ is a dimensionless coefficient), the optical-radiation scattering and absorption effect becomes maximal (OETI occurrence moment), and then begins to decrease. The discussion of experimental results is based on the proposed model for the magnetic-nanoparticles’ clusters’ formation and transformation in FF under the external magnetic-field action. The magnetic-nanoparticles’ chains’ clusters’ lateral aggregation is an important entry of this model. The practical importance of obtained results (for instance, in clusters’ density determination, new-type composite materials’ creation, etс.) is considered.",
+		"ru": "Исследованы особенности оптического пропускания тонким слоем магнитной жидкости (МЖ) во внешнем магнитном поле. Наблюдаемый эффект инверсии направления оптической экстинкции (ИНОЭ) возникает через некоторое время после включения магнитного поля и его выключения. Время наступления ИНОЭ зависит от величины амплитуды поля и от длины волны $\\lambda$ зондирующего оптического излучения. Существование ИНОЭ связывается с динамикой трансформирования (образования или разрушения) кластеров магнитных наночастиц в МЖ под действием магнитного поля: в момент времени, когда размер $D$ кластера, образованного из магнитных наночастиц МЖ, становится соизмеримым с длиной волны $\\lambda$ ($D_{1}$ = $\\alpha\\lambda$, где $\\alpha$ — некоторый безразмерный коэффициент), суммарное действие рассеяния и поглощения оптического излучения становится максимальным (момент возникновения ИНОЭ), а затем начинает уменьшаться. Обсуждение полученных экспериментальных результатов осуществляется на основе предложенной модели формирования и трансформирования кластеров магнитных наночастиц в МЖ под действием внешнего магнитного поля, важным элементом которой является латеральная агрегация цепочечных кластеров магнитных наночастиц. Проведён анализ практической значимости полученных результатов, например, для отыскания плотности кластеров, определённых моделью размеров и морфологии, при создании новых типов композитных материалов и т.п."
+	},
+	"keywords": {
+		"ua": "магнетна рідина, магнетні наночастинки, кластери, оптичне пропускання, оптична екстинкція",
+		"en": "ferrofluid, magnetic nanoparticles, clusters, optical transmission, optical extinction",
+		"ru": "магнитная жидкость, магнитные наночастицы, кластеры, оптическое пропускание, оптическая экстинкция"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. І. Шулима", "en": "S. I. Shulyma", "ru": "С. И. Шулыма"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "Б. М. Танигін", "en": "B. M. Tanygin", "ru": "Б. Н. Таныгин"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "В. Ф. Коваленко", "en": "V. F. Kovalenko", "ru": "В. Ф. Коваленко"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "М. В. Петричук", "en": "M. V. Petrychuk", "ru": "М. В. Петричук"},
+			"OID": [201]
+		}
+	],
+	"references": {
+		"count": 40,
+		"list":  [
+			{
+				"doi": "10.2217/17435889.3.4.567",
+				"or":  "A. Solanki, J. D. Kim, and K.-B Lee, Nanomedicine, 3: 567 (2008).",
+				"tr":  "A. Solanki, J. D. Kim, and K.-B Lee, Nanomedicine, 3: 567 (2008)."
+			},
+			{
+				"doi": "10.1038/am.2012.27",
+				"or":  "D.-H. Kim, Y. Aguilar, N. Lu, R. Ghaffari, and J. A. Rogers, NPG Asia Materials, 4: 15 (2012).",
+				"tr":  "D.-H. Kim, Y. Aguilar, N. Lu, R. Ghaffari, and J. A. Rogers, NPG Asia Materials, 4: 15 (2012)."
+			},
+			{
+				"doi": "10.1039/c4ta00567h",
+				"or":  "T. Chen and L. Dai, J. Mater. Chem. A, 2: 10756 (2014).",
+				"tr":  "T. Chen and L. Dai, J. Mater. Chem. A, 2: 10756 (2014)."
+			},
+			{
+				"doi": "10.1039/C2CS35335K",
+				"or":  "D. Jariwala, V. K. Sangwan, L. J. Lauhon, T. J. Marks, and M. C. Hersam, Chem. Soc. Rev., 42: 2824 (2013).",
+				"tr":  "D. Jariwala, V. K. Sangwan, L. J. Lauhon, T. J. Marks, and M. C. Hersam, Chem. Soc. Rev., 42: 2824 (2013)."
+			},
+			{
+				"doi": "10.1021/ar900065j",
+				"or":  "J. Peet, A. J. Heeger, and G. C. Bazan, Acc. Chem. Res., 42: 1700 (2009).",
+				"tr":  "J. Peet, A. J. Heeger, and G. C. Bazan, Acc. Chem. Res., 42: 1700 (2009)."
+			},
+			{
+				"doi": "10.1063/1.2973988",
+				"or":  "D. Derkacs, W. V. Chen, P. M. Matheu, S. H. Lim, P. K. L. Yu, and E. T. Yu, Appl. Phys. Lett., 93: 091107 (2008).",
+				"tr":  "D. Derkacs, W. V. Chen, P. M. Matheu, S. H. Lim, P. K. L. Yu, and E. T. Yu, Appl. Phys. Lett., 93: 091107 (2008)."
+			},
+			{
+				"doi": "10.1126/science.1233775",
+				"or":  "J. V. I. Timonen, M. Latikka, L. Leibler, R. H. A. Ras, and O. Ikkala, Science, 341: 253 (2013).",
+				"tr":  "J. V. I. Timonen, M. Latikka, L. Leibler, R. H. A. Ras, and O. Ikkala, Science, 341: 253 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "R. E. Rosensweig, Ferrohydrodynamics (New York: Dover Publication, Inc.: 2013), p.368.",
+				"tr":  "R. E. Rosensweig, Ferrohydrodynamics (New York: Dover Publication, Inc.: 2013), p.368."
+			},
+			{
+				"doi": "10.1143/JPSJ.60.1689",
+				"or":  "S. Taketomi, H. Takahashi, N. Inaba, and H. Miyajima, J. Phys. Soc. Jpn., 60: 1689 (1991).",
+				"tr":  "S. Taketomi, H. Takahashi, N. Inaba, and H. Miyajima, J. Phys. Soc. Jpn., 60: 1689 (1991)."
+			},
+			{
+				"doi": "10.1016/S0304-8853(99)00088-8",
+				"or":  "A. Jordan, R. Scholz, P. Wust, H. Fähling, and R. Felix, J. Magn. Magn. Mater., 201: 413 (1999).",
+				"tr":  "A. Jordan, R. Scholz, P. Wust, H. Fähling, and R. Felix, J. Magn. Magn. Mater., 201: 413 (1999)."
+			},
+			{
+				"doi": "10.1149/1.3484108",
+				"or":  "Z. Aguilar, Y. Aguilar, H. Xu, B. Jones, J. Dixon, H. Xu, and A. Wang, ECS Transactions, 33, Iss.8: 69 (2010).",
+				"tr":  "Z. Aguilar, Y. Aguilar, H. Xu, B. Jones, J. Dixon, H. Xu, and A. Wang, ECS Transactions, 33, Iss.8: 69 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "A. S. Lübbe, C. Bergemann, W. Huhnt, T. Fricke, H. Riess, J. W. Brock, and D. Huhn, Cancer Res., 56: 4694 (1996).",
+				"tr":  "A. S. Lübbe, C. Bergemann, W. Huhnt, T. Fricke, H. Riess, J. W. Brock, and D. Huhn, Cancer Res., 56: 4694 (1996)."
+			},
+			{
+				"doi": "10.1109/TMAG.2004.829836",
+				"or":  "B. Yellen, G. Friedman, and K. Barbee, IEEE Trans. Magn., 40: 2994 (2004).",
+				"tr":  "B. Yellen, G. Friedman, and K. Barbee, IEEE Trans. Magn., 40: 2994 (2004)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2004.11.004",
+				"or":  "K. Shimada, S. Shuchi, H. Kanno, Y. Wu, and S. Kamiyama, J. Magn. Magn. Mater., 289: 9 (2005).",
+				"tr":  "K. Shimada, S. Shuchi, H. Kanno, Y. Wu, and S. Kamiyama, J. Magn. Magn. Mater., 289: 9 (2005)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2012.07.004",
+				"or":  "B. M. Tanygin, V. F. Kovalenko, M. V. Petrychuk, and S. A. Dzyan, J. Magn. Magn. Mater., 324: 4006 (2012).",
+				"tr":  "B. M. Tanygin, V. F. Kovalenko, M. V. Petrychuk, and S. A. Dzyan, J. Magn. Magn. Mater., 324: 4006 (2012)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2016.04.071",
+				"or":  "S. I. Shulyma, B. M. Tanygin, V. F. Kovalenko, and M. V. Petrychuk, J. Magn. Magn. Mater., 416: 141 (2016).",
+				"tr":  "S. I. Shulyma, B. M. Tanygin, V. F. Kovalenko, and M. V. Petrychuk, J. Magn. Magn. Mater., 416: 141 (2016)."
+			},
+			{
+				"doi": "10.1088/1674-1056/24/10/104702",
+				"or":  "B. M. Tanygin, S. I. Shulyma, V. F. Kovalenko, and M. V. Petrychuk, Chinese Physics B, 24, No. 10: 104702 (2015).",
+				"tr":  "B. M. Tanygin, S. I. Shulyma, V. F. Kovalenko, and M. V. Petrychuk, Chinese Physics B, 24, No. 10: 104702 (2015)."
+			},
+			{
+				"doi": "10.1016/0021-9797(77)90061-3",
+				"or":  "E. A. Peterson and D. A. Krueger, J. Coll. Interf. Sci., 62: 24 (1977).",
+				"tr":  "E. A. Peterson and D. A. Krueger, J. Coll. Interf. Sci., 62: 24 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "K. V. Erin, Zhur. Tekh. Fiziki, 78, No. 4: 133 (2008) (in Russian).",
+				"tr":  "K. V. Erin, Zhur. Tekh. Fiziki, 78, No. 4: 133 (2008) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0304-8853(02)01501-9",
+				"or":  "B. Hoffmann and W. Köhler, J. Magn. Magn. Mater., 262: 289 (2003).",
+				"tr":  "B. Hoffmann and W. Köhler, J. Magn. Magn. Mater., 262: 289 (2003)."
+			},
+			{
+				"doi": "10.1063/1.1410331",
+				"or":  "S. Y. Yang, Y. P. Chiu, B. Y. Jeang, H. E. Horng, C.-Y. Hong, and H. C. Yang, Appl. Phys. Lett., 79: 2372 (2001).",
+				"tr":  "S. Y. Yang, Y. P. Chiu, B. Y. Jeang, H. E. Horng, C.-Y. Hong, and H. C. Yang, Appl. Phys. Lett., 79: 2372 (2001)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2006.03.038",
+				"or":  "S. Y. Yang, H. E. Horng, Y. T. Shiao, C.-Y. Hong, and H. C. Yang, J. Magn. Magn. Mater., 307: 43 (2006).",
+				"tr":  "S. Y. Yang, H. E. Horng, Y. T. Shiao, C.-Y. Hong, and H. C. Yang, J. Magn. Magn. Mater., 307: 43 (2006)."
+			},
+			{
+				"doi": "10.1155/2017/7251725",
+				"or":  "S. Shulyma, B. Tanygin, V. Kovalenko, and M. Petrychuk, J. Nanomater., 2017, Article ID 7251725: 1 (2017).",
+				"tr":  "S. Shulyma, B. Tanygin, V. Kovalenko, and M. Petrychuk, J. Nanomater., 2017, Article ID 7251725: 1 (2017)."
+			},
+			{
+				"doi": "10.1016/j.colsurfa.2010.08.023",
+				"or":  "V. I. Petrenko, M. V. Avdeev, V. M. Garamus, L. A. Bulavin, V. L. Aksenov, and L. Rosta, Colloids Surf. A, 369: 160 (2010).",
+				"tr":  "V. I. Petrenko, M. V. Avdeev, V. M. Garamus, L. A. Bulavin, V. L. Aksenov, and L. Rosta, Colloids Surf. A, 369: 160 (2010)."
+			},
+			{
+				"doi": "10.1134/S1063783410050185",
+				"or":  "V. I. Petrenko, V. L. Aksenov, M. V. Avdeev, L. A. Bulavin, L. Rosta, L. Vekas, V. M. Garamus, and R. Willumeit, Phys. Solid State, 52: 974 (2010).",
+				"tr":  "V. I. Petrenko, V. L. Aksenov, M. V. Avdeev, L. A. Bulavin, L. Rosta, L. Vekas, V. M. Garamus, and R. Willumeit, Phys. Solid State, 52: 974 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Drozdova, Physical Properties of Ferrofluid (Sverdlovsk: UNTs AN SSSR: 1983), p. 34 (in Russian).",
+				"tr":  "V. I. Drozdova, Physical Properties of Ferrofluid (Sverdlovsk: UNTs AN SSSR: 1983), p. 34 (in Russian)."
+			},
+			{
+				"doi": "10.1051/jphyslet:019820043022077100",
+				"or":  "J.-C. Bacri and D. Salin, J. Phys. Lett., 43: 771 (1982).",
+				"tr":  "J.-C. Bacri and D. Salin, J. Phys. Lett., 43: 771 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Gogosov, S. I. Martynov, S. N. Tsurikov, and G. A. Shaposhnikova, Magnetohydrodynamic, 23: 241 (1988).",
+				"tr":  "V. V. Gogosov, S. I. Martynov, S. N. Tsurikov, and G. A. Shaposhnikova, Magnetohydrodynamic, 23: 241 (1988)."
+			},
+			{
+				"doi": "10.1063/1.2825464",
+				"or":  "J. Li, X. Liu, Y. Lin, L. Bai, Q. Li, X. Chen, and A. Wang, Appl. Phys. Lett., 91: 253108 (2007).",
+				"tr":  "J. Li, X. Liu, Y. Lin, L. Bai, Q. Li, X. Chen, and A. Wang, Appl. Phys. Lett., 91: 253108 (2007)."
+			},
+			{
+				"doi": "10.1088/0022-3727/37/24/001",
+				"or":  "J. Li, X. Liu, Y. Lin, X. Qui, X. Ma, and Y. Huang, J. Phys. D: Appl. Phys., 37: 3357 (2004).",
+				"tr":  "J. Li, X. Liu, Y. Lin, X. Qui, X. Ma, and Y. Huang, J. Phys. D: Appl. Phys., 37: 3357 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.80.041401",
+				"or":  "J. M. Laskar, J. Philip, and B. Raj, Phys. Rev. E, 80: 041401 (2009).",
+				"tr":  "J. M. Laskar, J. Philip, and B. Raj, Phys. Rev. E, 80: 041401 (2009)."
+			},
+			{
+				"doi": "10.1103/PhysRev.54.309",
+				"or":  "W. C. Elmore, Phys. Rev., 54: 309 (1938).",
+				"tr":  "W. C. Elmore, Phys. Rev., 54: 309 (1938)."
+			},
+			{
+				"doi": "10.1016/0304-8853(95)00587-0",
+				"or":  "A. O. Ivanov, J. Magn. Magn. Mater., 154: 66 (1996).",
+				"tr":  "A. O. Ivanov, J. Magn. Magn. Mater., 154: 66 (1996)."
+			},
+			{
+				"doi": "10.1088/0953-8984/22/45/455105",
+				"or":  "M. Yoon and D. Tománek, J. Phys.: Condens. Matter, 22, No. 45: 455105 (2010).",
+				"tr":  "M. Yoon and D. Tománek, J. Phys.: Condens. Matter, 22, No. 45: 455105 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "A. O. Ivanov, Kolloidnyy Zhurnal, 57, No. 3: 347 (1995) (in Russian).",
+				"tr":  "A. O. Ivanov, Kolloidnyy Zhurnal, 57, No. 3: 347 (1995) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.78.051502",
+				"or":  "C. Rablau, P. Vaishnava, C. Sudakar, R. Tackett, G. Lawes, and R. Naik, Phys. Rev. E, 78: 051502 (2008).",
+				"tr":  "C. Rablau, P. Vaishnava, C. Sudakar, R. Tackett, G. Lawes, and R. Naik, Phys. Rev. E, 78: 051502 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "T. C. Hales, arXiv 9811071 (2002), https://arxiv.org/abs/math/9811071v2",
+				"tr":  "T. C. Hales, arXiv 9811071 (2002), https://arxiv.org/abs/math/9811071v2"
+			},
+			{
+				"doi": "10.1038/nature06981",
+				"or":  "C. Song, P. Wang, and H. A. Makse, Nature Lett., 453: 629 (2008).",
+				"tr":  "C. Song, P. Wang, and H. A. Makse, Nature Lett., 453: 629 (2008)."
+			},
+			{
+				"doi": "10.1002/9783527618156",
+				"or":  "C. F. Bohren and D. R. Huffman, Absorption and Scattering of Light by Small Particles (New York: John Wiley & Sons: 1998), p. 544.",
+				"tr":  "C. F. Bohren and D. R. Huffman, Absorption and Scattering of Light by Small Particles (New York: John Wiley & Sons: 1998), p. 544."
+			},
+			{
+				"doi": "",
+				"or":  "J. D. Mayo, Stabilized Reversible Polymer Composition: U.S. Patent Application 2014/0353549 A1 (Published December 4, 2014).",
+				"tr":  "J. D. Mayo, Stabilized Reversible Polymer Composition: U.S. Patent Application 2014/0353549 A1 (Published December 4, 2014)."
+			}
+		]
+	}
+}

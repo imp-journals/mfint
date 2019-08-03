@@ -1,0 +1,155 @@
+{
+	"_id":    "MFiNT.38.04.0531",
+	"year":   2016,
+	"volume": 38,
+	"issue":  4,
+	"pages":  [531,544],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["15.03.2016", "08.04.2016"],
+	"PACS":   "62.20.mj, 62.20.Qp, 68.55.Ln, 68.55.Nq, 73.20.At, 81.65.Lp, 82.80.Pv",
+	"title":   {
+		"ua": "Електронна будова та мікротвердість карбідних покриттів Ti, V, Cr на сталі У10А",
+		"en": "Electronic Structure and Microhardness of Ti, V, Cr Carbide Coatings on Steel U10A",
+		"ru": "Электронное строение и микротвёрдость карбидных покрытий Ti, V, Cr на стали У10А"
+	},
+	"abstract": {
+		"ua": "Покриття на сталі У10А, одержані з трикомпонентних насичувальних сумішей за участю Ti, V, Cr, з максимальною мікротвердістю і товщиною, які були оптимізовані методом симплексних ґратниць Шеффе, було досліджено методом м’якої рентґенівської спектроскопії. Досліджено міжатомову взаємодію по товщині покриттів типу TiС і (Ti,V,Сr)C на сталі У10А . Показано, що максимальна кількість вуглецю в покриттях типу TiС і (Тi,V,Сr)C знаходиться відповідно в зовнішніх і центральних зонах. Зниження кількости вуглецю в покритті (Тi,V,Сr)С, в порівнянні з покриттям TiС, знаходить відображення в істотному звуженні TiL$_{\\alpha}$-смуг в області енергій $spd$-гібридних зв’язків. Взаємодія титану і заліза в центральних і внутрішніх зонах карбідного шару відображається в TiL$_{\\alpha}$-смугах. Крім того, невеликі відмінності в положеннях довгохвильового контуру CK$_{\\alpha}$-смуг від поверхні і внутрішньої зони покриття (Ti,V,Сr)C пов’язані з невеликим зменшенням вмісту вуглецю в цій зоні в порівнянні з поверхнею. При цьому слід зазначити, що вміст вуглецю у внутрішніх зонах покриття (Ti,V,Сr)С у порівнянні з поверхневою і центральною зонами, як і для покриття TiС, виявляється мінімальним. У центральних і внутрішніх зонах покриттів формуються зв’язки Тi—Fe—С, що проявляється в приферміївському напливі TiL$_{\\alpha}$- і CK$_{\\alpha}$-смуг. Ці ефекти проявляють себе навіть в разі зведення всіх CK$_{\\alpha}$-смуг в однаковій інтенсивності. При переході до центральних і внутрішніх зон карбідного покриття встановлено збільшення інтенсивності CK$_{\\alpha}$-смуг в приферміївській області, що приводить до їх розширення до 0,6 еВ. Встановлено, що зміна мікротвердости, мікрокрихкости по товщині покриттів добре узгоджується з рівнем міжатомової взаємодії в різних зонах карбідних фаз.",
+		"en": "The coatings on the steel U10A with maximums of thickness and microhardness derived from ternary saturating blends involving Ti, V, Cr and optimized by means of the Scheffe simplex are studied by the methods of metallographic analysis and soft X-ray spectroscopy. As shown, the concentration of carbon in TiC and (Ti,V,Cr)C coatings is maximal in the internal and central zones, respectively. Interaction of titanium and iron in the central and inner regions of the carbide layer is shown in TiL$_{\\alpha}$-bands. Furthermore, small differences in the positions of the longwave contour of CK$_{\\alpha}$-bands from the surface and inner area of coverage (Ti,V,Cr)C are associated with a small decrease in the carbon content in this area in comparison with the surface. It should be noted that the carbon content in the interior coverage areas (Ti,V,Cr)C compared to the surface and central zones as well as for TiC coating is minimal. The decrease of carbon amount in (Ti,V,Cr)C coating as compared with TiC coating is reflected in the considerable narrowing of TiL$_{\\alpha}$- bands in energy band of $spd$-hybrid bonds. As shown, the near-Fermi overlap of TiL$_{\\alpha}$- and CK$_{\\alpha}$-bands, the Ti—Fe—C bonds are formed in the central and internal zones of coatings. The changes of microhardness, microbrittleness, and microstrength with the thickness of coatings conform to the level of interatomic interaction in different carbide phase zones.",
+		"ru": "Покрытия на стали У10А, полученные из трёхкомпонентных насыщающих смесей с участием Ti, V, Cr, с максимальной микротвёрдостью и толщиной, оптимизированные методом симплексных решёток Шеффе, были исследованы методом мягкой рентгеновской спектроскопии. Исследовано межатомное взаимодействие по толщине покрытий типа TiC и (Ti,V,Cr)С на стали У10А. Показано, что максимальное количество углерода в покрытиях типа TiC и (Ti,V,Cr)С находится соответственно во внешних и центральных зонах. Снижение количества углерода в покрытии (Ti,V,Cr)С, в сравнении с покрытием TiC, находит отображение в существенном сужении TiL$_{\\alpha}$-полос в области энергий $spd$-гибридных связей. Взаимодействие титана и железа в центральных и внутренних зонах карбидного слоя отображается в TiL$_{\\alpha}$-полосах. Кроме того, небольшие различия в положениях длинноволнового контура CK$_{\\alpha}$-полос от поверхности и внутренней зоны покрытия (Ti,V,Cr)C связаны с небольшим уменьшением содержания углерода в этой зоне по сравнению с поверхностью. При этом следует отметить, что содержание углерода во внутренних зонах покрытия (Ti,V,Cr)С по сравнению с поверхностной и центральной зонами, как и для покрытия TiC, оказывается минимальным. В центральных и внутренних зонах покрытий формируются связи Ti—Fe—С, что проявляется в прифермиевском наплыве TiL$_{\\alpha}$- и CK$_{\\alpha}$-полос. Эти эффекты проявляют себя даже в случае сведения всех CK$_{\\alpha}$-полос в одинаковой интенсивности. При переходе к центральным и внутренним зонам карбидного покрытия установлено увеличение интенсивности CK$_{\\alpha}$-полос в прифермиевской области, что приводит к их расширению до 0,6 эВ. Установлено, что изменение микротвёрдости, микрохрупкости по толщине покрытий хорошо согласуется с уровнем межатомного взаимодействия в разных зонах карбидных фаз."
+	},
+	"keywords": {
+		"ua": "покриття, мікротвердість, карбіди, рентґеноструктурний аналіз, м’яка рентґенівська спектроскопія",
+		"en": "coatings, microhardness, carbides, X-ray analysis, soft X-ray spectroscopy",
+		"ru": "покрытия, микротвёрдость, карбиды, рентгеноструктурный анализ, мягкая рентгеновская спектроскопия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Я. В. Заулічний", "en": "Ya. V. Zaulychny", "ru": "Я. В. Зауличный"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "В. Г. Хижняк", "en": "V. H. Khyzhniak", "ru": "В. Г. Хижняк"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "Н. С. Лазарев", "en": "N. S. Lazarev", "ru": "Н. С. Лазарев"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "О. В. Хижняк", "en": "O. V. Khyzhniak", "ru": "О. В. Хижняк"},
+			"OID": [202]
+		}
+	],
+	"references": {
+		"count": 21,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Л. Г. Ворошнин, О. Л. Менделева, В. А. Сметкин, Теория и технология химико-термической обработки (Минск: Новое знание: 2010).",
+				"tr":  "L. G. Voroshnin, O. L. Mendeleva, and V. A. Smetkin, Teoriya i Tekhnologiya Khimiko-Termicheskoy Obrabotki (Minsk: Novoe Znanie: 2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Лоскутов, В. Г. Хижняк, Ю. А. Куницкий, М. В. Киндрачук, Диффузионные карбидные покрытия (Киев: Техніка: 1991).",
+				"tr":  "V. V. Loskutov, V. G. Khizhnyak, Yu. A. Kunitskiy, and M. V. Kindrachuk, Diffuzionnye Karbidnye Pokrytiya (Kiev: Tekhnika: 1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. С. Верещака, Работоспособность режущего инструмента с износостойкими покрытиями (Москва: Машиностроение: 1993).",
+				"tr":  "A. S. Vereshchaka, Rabotosposobnost’ Rezhushchego Instrumenta s Iznosostoykimi Pokrytiyami (Moscow: Mashinostroenie: 1993) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "N-Ming Lin, Fa-Gin Xie, Jun Zhou, Tao Zhong, Xiang Ging Wu, and Wei Tian, J. Central South University Technol., 177: 1155 (2010).",
+				"tr":  "N-Ming Lin, Fa-Gin Xie, Jun Zhou, Tao Zhong, Xiang Ging Wu, and Wei Tian, J. Central South University Technol., 177: 1155 (2010)."
+			},
+			{
+				"doi": "10.1007/s00339-009-5495-5",
+				"or":  "Yong Luo, Shirong Ge Zhongmin Jin, and John Fisher, Appl. Phys. A, 198: 765 (2010).",
+				"tr":  "Yong Luo, Shirong Ge Zhongmin Jin, and John Fisher, Appl. Phys. A, 198: 765 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Блинков, А. О. Волхонский, В. Н. Аникин, М. И. Петржик, Д. Е. Деревцова, Физика и химия обработки материалов, № 4: 37 (2010).",
+				"tr":  "I. V. Blinkov, A. O. Volkhonskiy, V. N. Anikin, M. I. Petrzhik, and D. E. Derevtsova, Fizika i Khimiya Obrabotki Materialov, No. 4: 37 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Hui-Wen Chang, Ping-Kang Huang, Jien-Wei Yeh, and Andrew Davison, Surf. Coat. Technol., 202: 3360 (2008).",
+				"tr":  "Hui-Wen Chang, Ping-Kang Huang, Jien-Wei Yeh, and Andrew Davison, Surf. Coat. Technol., 202: 3360 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Zuno-Silva, M. Ortiz-Domínguez, M. Keddam, M. Elias-Espinosa, O. Damián-Meía, G. E. Cardoso-Legorreta, and M. Abreu-Quijano, J. Min. Metall. Sect. B-Metall. B, 50 (2): 101 (2014).",
+				"tr":  "J. Zuno-Silva, M. Ortiz-Domínguez, M. Keddam, M. Elias-Espinosa, O. Damián-Meía, G. E. Cardoso-Legorreta, and M. Abreu-Quijano, J. Min. Metall. ect. B-Metall. B, 50 (2): 101 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "I. Campos-Silva, JESTECH, 15, No. 2: 53 (2012).",
+				"tr":  "I. Campos-Silva, JESTECH, 15, No. 2: 53 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Хижняк, Г. Ю. Калашніков, Н. А. Харченко, Т. П. Говорун, О. В. Хижняк, В. Ю. Долгих, О. О. Голишевський, Журнал нано- та електронної фізики, 7, № 4: 04033-1 (2015).",
+				"tr":  "V. G. Hyzhnjak, G. Yu. Kalashnikov, N. A. Harchenko, T. P. Govorun, O. V. Hyzhnjak, V. Yu. Dolgyh, and O. O. Golyshevs’kyj, Zhurnal Nano- ta lektronnoyi Fizyky, 7, No. 4: 04033-1 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/mfint.38.04.0531.",
+				"or":  "А. І. Дегула, Т. П. Говорун, Н. А. Харченко, В. Г. Хижняк, М. В. Карпець, О. М. Мисливченко, Р. С. Сметанін, Металлофиз. новейшие технол., 37, № 11: 1461 (2015).",
+				"tr":  "A. I. Degula, T. P. Govorun, N. A. Kharchenko, V. G. Khyzhnyak, M. V. Karpets, O. M. Myslyvchenko, and R. S. Smetanin, Metallofiz. Noveishie Tekhnol., 37, No. 11: 1461 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "H. J. Boving and H. E. Hinterman, JPAT Workshop: Wear Resistant Coat. (May 26–27, 1988, Amsterdam) (Edinburgh: 1988), p. 85.",
+				"tr":  "H. J. Boving and H. E. Hinterman, JPAT Workshop: Wear Resistant Coat. (May 26–27, 1988, Amsterdam) (Edinburgh: 1988), p. 85."
+			},
+			{
+				"doi": "",
+				"or":  "G. Bhat and P. Woerner, J. Metals, 38: 68(1986).",
+				"tr":  "G. Bhat and P. Woerner, J. Metals, 38: 68(1986)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.560.1",
+				"or":  "Jien-Wei Yeh, Yu-Liang Chen, Su-Jien Lin, and Swe-Kai Chen, Mater. Sci. Forum, 560: 1 (2007).",
+				"tr":  "Jien-Wei Yeh, Yu-Liang Chen, Su-Jien Lin, and Swe-Kai Chen, Mater. Sci. Forum, 560: 1 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Харченко, В. Г. Хижняк, В. І. Сігова, Ультрадисперсні дифузійні покриття на сталях та твердих сплавах (Суми: СОІППО: 2011).",
+				"tr":  "N. A. Harchenko, V. G. Hyzhnjak, and V. I. Sigova, Ul’tradyspersni Dyfuziyni Pokryttya na Stalyakh ta Tverdykh Splavakh (Sumy: SOIPPO: 2011), p. 112 (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Хижняк, Металознавство та обробка металів, № 2: 38 (1997).",
+				"tr":  "V. G. Hyzhnjak, Metaloznavstvo ta Obrobka Metaliv, No. 2: 38 (1997) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. В. Хижняк, О. А. Курдибайло, В. Г. Хижняк, Проблеми тертя та зношування, № 2 (67): 34 (2015).",
+				"tr":  "O. V. Hyzhnjak, O. A. Kurdybajlo, and V. G. Hyzhnjak, Problemy Tertya ta Znoshuvannya, No. 2 (67) 34 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ч. С. Баррет, Т. Б. Масальский, Структура металлов (Москва: Металлургия: 1984).",
+				"tr":  "Ch. S. Barret and T. B. Masal’skyy, Struktura Metallov (Moscow: Metallurgiya: 1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Хижняк, А. И. Дудка, О. В. Хижняк, Изв. вузов. Чёрная металлургия, № 9: 83 (1996).",
+				"tr":  "V. G. Hizhnjak, A. I. Dudka, and O. V. Hizhnjak, Izv. Vuzov. Chernaya Metallurgiya, No. 9: 83 (1996) (in Russian)."
+			},
+			{
+				"doi": "10.1088/0022-3719/9/16/005",
+				"or":  "A. Neckel, P. Rasti, R. Eibler, P. Weinberg, and K. Schwarz, J. Phys. C: Solid State Phys., 9: 579 (1976).",
+				"tr":  "A. Neckel, P. Rasti, R. Eibler, P. Weinberg, and K. Schwarz, J. Phys. C: Solid State Phys., 9: 579 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Иващенко, Металлофизика, 12, № 3: 28 (1990).",
+				"tr":  "V. I. Ivashhenko, Metallofizika, 12, No. 3: 28 (1990) (in Russian)."
+			}
+		]
+	}
+}

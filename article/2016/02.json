@@ -1,0 +1,157 @@
+{
+	"year":   2016,
+	"volume": 38,
+	"issue":  2,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  1,
+			"pages":  [141,157],
+			"title": {
+				"ua": "Нанокристалічна структура розтопів",
+				"en": "Nanocrystalline Structure of Melts",
+				"ru": "Нанокристаллическая структура расплавов"
+			},
+			"autors": {
+				"ua": "А. І. Карасевський",
+				"en": "A. I. Karasevskii",
+				"ru": "А. И. Карасевский"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [159,166],
+			"title": {
+				"ua": "Оптимізація термообробки потрійних і багатокомпонентних сплавів з ЕПФ на основі системи Cu—Al—Мn",
+				"en": "Optimization of Heat Treatment of Ternary and Multicomponent Alloys with a Shape-Memory Effect on the Base of Cu—Al—Mn System",
+				"ru": "Оптимизация термообработки тройных и многокомпонентных сплавов с ЭПФ на основе системы Cu—Al—Мn"
+			},
+			"autors": {
+				"ua": "І. Р. Бублей, Ю. М. Коваль, Т. Г. Сич",
+				"en": "I. R. Bubley, Yu. M. Koval, and T. G. Sych",
+				"ru": "И. Р. Бублей, Ю. Н. Коваль, Т. Г. Сыч"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [167,174],
+			"title": {
+				"ua": "Водневосорбційні властивості композиту (Ti—Zr—Mn—V)—Mg",
+				"en": "Hydrogen-Sorption Properties of a Composite (Ti—Zr—Mn—V)—Mg",
+				"ru": "Водородсорбционные свойства композита (Ti—Zr—Mn—V)—Mg"
+			},
+			"autors": {
+				"ua": "В. А. Дехтяренко",
+				"en": "V. A. Dekhtyarenko",
+				"ru": "В. А. Дехтяренко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  2,
+			"pages":  [175,187],
+			"title": {
+				"ua": "Особливості перехідної повзучості під опроміненням",
+				"en": "Features of the Transient Creep under an Irradiation",
+				"ru": "Особенности переходной ползучести под облучением"
+			},
+			"autors": {
+				"ua": "Т. П. Діденко, П. О. Селищев",
+				"en": "T. P. Didenko and P. О. Selyshchev",
+				"ru": "Т. П. Диденко, П. А. Селищев"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [189,203],
+			"title": {
+				"ua": "Вплив високочастотних вібрацій на механічні властивості нанокристалічного титану",
+				"en": "High Frequency Vibrations Impact on Mechanical Properties of Nanocrystalline Titanium",
+				"ru": "Воздействие высокочастотных вибраций на механические свойства нанокристаллического титана"
+			},
+			"autors": {
+				"ua": "С. О. Бакай, Р. В. Смолянец, К. В. Ковтун, В. А. Москаленко, О. С. Бакай",
+				"en": "S. А. Bakai, R. V. Smolianets, K. V. Kovtun, V. А. Moskalenko, and A. S. Bakai",
+				"ru": "С. А. Бакай, Р. В. Смолянец, К. В. Ковтун, В. А. Москаленко, А. С. Бакай"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [205,227],
+			"title": {
+				"ua": "Формування нанорозмірних структур адсорбату в процесах конденсації з газової фази з урахуванням температурних ефектів",
+				"en": "Formation of Nanosize Structures of Adsorbate in Processes of Condensation of a Gas Phase with Due Regard for Temperature Effects",
+				"ru": "Формирование наноразмерных структур адсорбата в процессах конденсации из газовой фазы с учётом температурных эффектов"
+			},
+			"autors": {
+				"ua": "В. О. Харченко, В. В. Яновський, А. В. Дворниченко",
+				"en": "V. O. Kharchenko, V. V. Yanovsky, and A. V. Dvornichenko",
+				"ru": "В. О. Харченко, В. В. Яновский, А. В. Дворниченко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [229,246],
+			"title": {
+				"ua": "Фазовий склад та структура нанодисперсних плівок на основі заліза",
+				"en": "Phase Composition and Structure of Nanodisperse Films Based on Iron",
+				"ru": "Фазовый состав и дисперсных плёнок на основе железа"
+			},
+			"autors": {
+				"ua": "Г. П. Ніколайчук",
+				"en": "G. P. Nikolaychuk",
+				"ru": "Г. П. Николайчук"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [247,265],
+			"title": {
+				"ua": "Динаміка поведінки крапельної фази в плазмових потоках, що формуються в розрядних проміжках вакуумно-дугових розрядів з робочим газом аргоном",
+				"en": "Dynamics of Behaviour of the Droplet Phase in the Plasma Flows Formed in Discharge Gaps of Vacuum—Arc Discharges with Working Argon Gas",
+				"ru": "Динамика поведения капельной фазы в плазменных потоках, формирующихся в разрядных промежутках вакуумно-дуговых разрядов с рабочим газом аргоном"
+			},
+			"autors": {
+				"ua": "М. Є. Свавільний",
+				"en": "M. Ye. Svavil’nyi",
+				"ru": "Н. Е. Свавильный"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [267,275],
+			"title": {
+				"ua": "Оптичний диск для довготривалого зберігання даних на основі плівки хрому",
+				"en": "Optical Disc for Long-Term Data Storage Based on Chromium Film",
+				"ru": "Оптический диск для длительного хранения данных на основе плёнки хрома"
+			},
+			"autors": {
+				"ua": "І. В. Горбов, Д. Ю. Манько, А. А. Крючин, Ле Зічун, Фу Мінглей, А. В. Панкратова",
+				"en": "I. V. Gorbov, D. Yu. Manko, A. A. Kryuchyn, Zichun Le, Minglei Fu, and A. V. Pankratova",
+				"ru": "И. В. Горбов, Д. Ю. Манько, А. А. Крючин, Ле Зичун, Фу Минглей, А. В. Панкратова"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [277,284],
+			"title": {
+				"ua": "Термоелектричний розмірний ефект багатошарової композиції Al—Cu",
+				"en": "Thermoelectric Size Effect of a Multilayer Composition Al—Cu",
+				"ru": "Термоэлектрический размерный слойной композиции Al—Cu"
+			},
+			"autors": {
+				"ua": "В. С. Копань, Н. В. Хуторянська, І. А. Селезньова, Ю. В. Копань",
+				"en": "V. S. Kopan’, N. V. Hutoryanska, I. A. Seleznyova, and Yu. V. Kopan’",
+				"ru": "В. С. Копань, Н. В. Хуторянская, И. А. Селезнева, Ю. В. Копань"
+			}
+		}
+	]
+}

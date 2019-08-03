@@ -1,0 +1,113 @@
+{
+	"_id":    "MFiNT.40.06.0739",
+	"year":   2018,
+	"volume": 40,
+	"issue":  6,
+	"pages":  [739,748],
+	"rubric": 18,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["03.04.2018"],
+	"PACS":   "65.40.De, 71.45.Gm, 73.20.Mf, 73.50.Mx, 79.20.Hx, 79.20.Uv, 82.80.Pv",
+	"title":   {
+		"ua": "Термічне розширення поверхні стопу FeNi51",
+		"en": "Thermal Expansion of the FeNi51 Alloy Surface",
+		"ru": "Термическое расширение поверхности сплава FeNi51"
+	},
+	"abstract": {
+		"ua": "Вперше низькоенергетичну плазмонну спектроскопію на відбивання застосовано для визначення коефіцієнта термічного розширення (КТР) поверхні полікристалічного стопу FeNi51. Експеримент проведено за умов надвисокого вакууму. Методу визначення КТР засновано на мірянні температурної залежности зсувів енергії поверхневих і об’ємних плазмонів у інтервалі температур від кімнатної до 300°C. Розрахунок дав наступні значення КТР: $\\alpha_{\\textrm{s}} =$ 7,54$\\cdot$10$^{-5}$ К$^{-1}$ і $\\alpha_{\\textrm{b}} =$ 4,24$\\cdot$10$^{-5}$ К$^{-1}$ за зсувами поверхневих і об’ємних плазмонів відповідно.",
+		"en": "For the first time, low-energy plasmons’ reflection spectroscopy is used to determine the coefficient of thermal expansion (CTE) of the polycrystalline FeNi51 alloy surface. The experiment is carried out under ultrahigh vacuum conditions. A detailed analysis of the plasmon energy loss spectra of primary electrons in the 50–600 eV range for surface layers is performed. The method for determining the CTE is based on measuring of the temperature dependence of energy shifts of the surface and bulk plasmons in the temperature range from room temperature to 300°C. Taking into account the energy shifts when the alloy sample is heated for the surface and bulk plasmons, the following CTE values are obtained: $\\alpha_{\\textrm{s}} =$ 7.54$\\cdot$10$^{-5}$ K$^{-1}$ and $\\alpha_{\\textrm{b}} =$ 4.24$\\cdot$10$^{-5}$ K$^{-1}$, respectively.",
+		"ru": "Впервые низкоэнергетическая плазмонная спектроскопия на отражение применена для определения коэффициента термического расширения (КТР) поверхности поликристаллического сплава FeNi51. Эксперимент проведён в условиях сверхвысокого вакуума. Метод определения КТР основан на измерении температурной зависимости сдвигов энергии поверхностных и объёмных плазмонов в интервале температур от комнатной до 300°C. Расчёт дал следующие значения КТР: $\\alpha_{\\textrm{s}} =$ 7,54$\\cdot$10$^{-5}$ К$^{-1}$ и $\\alpha_{\\textrm{b}} =$ 4,24$\\cdot$10$^{-5}$ К$^{-1}$ по сдвигам поверхностных и объёмных плазмонов соответственно."
+	},
+	"keywords": {
+		"ua": "поверхня стопу, коефіцієнт термічного розширення, плазмони, плазмонна спектроскопія",
+		"en": "alloy surface, coefficient of thermal expansion, plasmons, plasmon spectroscopy",
+		"ru": "поверхность сплава, коэффициент термического расширения, плазмоны, плазмонная спектроскопия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. О. Васильєв", "en": "M. O. Vasylyev", "ru": "М. А. Васильев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. М. Шиванюк", "en": "V. M. Shyvanyuk", "ru": "В. Н. Шиванюк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. М. Колесник", "en": "V. M. Kolesnik", "ru": "В. Н. Колесник"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. М. Волошко", "en": "S. М. Voloshko", "ru": "С. М. Волошко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "В. В. Янчук", "en": "V. V. Yanchuk", "ru": "В. В. Янчук"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "І. О. Круглов", "en": "I. O. Kruhlov", "ru": "И. А. Круглов"},
+			"OID": [202]
+		}
+	],
+	"references": {
+		"count": 11,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Б. А. Нестеренко, О. В. Снитко, Физические свойства атомно-чистой поверхности полупроводников (Киев: Наукова думка: 1983).",
+				"tr":  "B. A. Nesterenko and O. V. Snitko, Fizicheskie Svoystva Atomno-Chistoy Poverkhnosti Poluprovodnikov [Physical Properties of the Atomic Free Surface of Semiconductors] (Kiev: Naukova Dumka: 1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Васильев, Структура и динамика поверхности переходных металлов (Киев: Наукова думка: 1988).",
+				"tr":  "M. A. Vasylyev, Struktura i Dinamika Poverkhnosti Perekhodnykh Metallov [Structure and Dynamics of the Surface of Transition Metals] (Kiev: Naukova Dumka: 1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Корсуков, Физика твёрдого тела, 25: 3250 (1983).",
+				"tr":  "V. E. Korsukov, Fizika Tverdogo Tela, 25: 3250 (1983) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0042-207X(87)90261-2",
+				"or":  "M. A. Vasil’ev and S. D. Gorodetsky, Vacuum, 37: 723 (1987).",
+				"tr":  "M. A. Vasil'ev and S. D. Gorodetsky, Vacuum, 37: 723 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Т. Черепин, М. А. Васильев, Методы и приборы для анализа поверхности материалов: Справочник (Киев: Наукова думка: 1982).",
+				"tr":  "V. T. Cherepin and M. A. Vasylyev, Metody i Pribory dlya Analiza Poverkhnosti Materialov: Spravochnik [Methods and Instruments for Analysis of Materials' Surface: Handbook] (Kiev: Naukova Dumka: 1982) (in Russian)."
+			},
+			{
+				"doi": "10.1142/S0218625X08011809",
+				"or":  "M. A. Vasylyev and V. A. Tinkov, Surf. Rev. Lett., 15: 635 (2008).",
+				"tr":  "M. A. Vasylyev and V. A. Tinkov, Surf. Rev. Lett., 15: 635 (2008)."
+			},
+			{
+				"doi": "10.15407/ufm.07.02.117",
+				"or":  "В. А. Тиньков, Успехи физики металлов, 7: 117 (2006).",
+				"tr":  "V. O. Tin'kov, Uspehi Fiziki Metallov, 7: 117 (2006) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.ultramic.2015.11.012",
+				"or":  "C. Colliex, M. Kociak, and O. Stéphan, Ultramicroscopy, 162: A1 (2016).",
+				"tr":  "C. Colliex, M. Kociak, and O. Stéphan, Ultramicroscopy, 162: A1 (2016)."
+			},
+			{
+				"doi": "10.1016/j.ultramic.2017.01.006",
+				"or":  "Yo. Fujiyoshi, T. Nemoto, and H. Kurata, Ultramicroscopy, 175: 116 (2017).",
+				"tr":  "Yo. Fujiyoshi, T. Nemoto, and H. Kurata, Ultramicroscopy, 175: 116 (2017)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.27.998",
+				"or":  "A. Bagchi, C. B. Duke, P. J. Feibelman, and J. O. Porteus, Phys. Rev. Lett., 27: 998 (1971).",
+				"tr":  "A. Bagchi, C. B. Duke, P. J. Feibelman, and J. O. Porteus, Phys. Rev. Lett., 27: 998 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Корсуков, А. С. Лукьяненок, В. Н. Светлов, Поверхность. Физика, химия, механика, № 11: 28 (1983).",
+				"tr":  "V. E. Korsukov, A. S. Luk'yanenok, and V. N. Svetlov, Poverkhnost'. Fizika, Khimiya, Mekhanika, No. 11: 28 (1983) (in Russian)."
+			}
+		]
+	}
+}

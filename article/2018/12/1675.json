@@ -1,0 +1,222 @@
+{
+	"_id":    "MFiNT.40.12.1675",
+	"year":   2018,
+	"volume": 40,
+	"issue":  12,
+	"pages":  [1675,1687],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["12.01.2018"],
+	"PACS":   "02.70.Ns, 07.05.Tp, 36.40.-c, 61.46.Bc, 61.72.sh, 81.05.Zx, 81.07.Oj",
+	"title":   {
+		"ua": "Оцінювання стабільности та зростання ГЦК-нанокластера заліза, що містить атоми домішки",
+		"en": "The Estimation of Stability and Growth of F.C.C. Iron Nanocluster Containing the Impurity Atoms",
+		"ru": "Оценивание стабильности и роста ГЦК-нанокластера железа, содержащего атомы примеси"
+	},
+	"abstract": {
+		"ua": "Методою молекулярної механіки з використанням потенціялу Леннард-Джонса розраховано енергію ізольованого нанокластера заліза в залежності від положення атома Карбону як атома втілення та атома Ніклю як атома заміщення. Втілений у нанокластер атом Карбону дрейфував до поверхні із внутрішньої октапори або безпосередньо в напрямку ⟨011⟩, або через тетрапору спочатку в напрямку ⟨1$\\bar{1}$1⟩, а потім у напрямку ⟨111⟩. Один з 14 атомів Феруму був заміщений атомом Ніклю, положення якого змінювалося під час моделювання. Було визначено, що положення атома Ніклю істотно впливає на енергію нанокластера. Результати розрахунків показали, що у випадку ГЦК-нанокластера положення атома Карбону в октапорі було більш енергетично вигідним, ніж у тетрапорі. З іншого боку, потенціяльний бар’єр у напрямку ⟨1$\\bar{1}$1⟩ був менший, ніж у напрямку ⟨011⟩. Це вказує на існування двох способів дрейфу атома Карбону до поверхні нанокластера. Зміна положення атома Ніклю істотно впливала на висоту потенціяльних бар’єрів октаедричних і тетраедричних міжвузлів, що уможливлює маніпулювати атомом Карбону в приповерхневому шарі нанокластера. Крім цього, атом Карбону впливав на напрямок зростання нанокластера, який оцінювався за допомогою енергії приєднання додаткового атома Феруму. Дослідження може бути корисним у медицині, біології та технологіях наноелектромеханічних систем, де використовуються такі нанокластери та наночастинки.",
+		"en": "The energy of the isolated iron nanocluster is calculated by molecular mechanics method using Lennard-Jones potential depending on the position of impurities, i.e., interstitial carbon atom and substitutional nickel atom. The cluster included a carbon atom drifted to the surface from an inner octahedral interstice along the ⟨011⟩ direction or through the tetrahedral interstice firstly in the ⟨1$\\bar{1}$1⟩ direction and then in the ⟨111⟩ direction. One of the 14 iron atoms is replaced with a nickel atom in the position, which is changed during simulation. As determined, the positions of a nickel atom significantly affect the energy of the nanocluster. The calculation results in the case of f.c.c. nanocluster indicate that position of a carbon atom at the octahedral interstice is more energy-favourable than its position at the tetrahedral interstice. On the other hand, the potential barrier is smaller in the ⟨1$\\bar{1}$1⟩ direction than in the ⟨011⟩ direction. This indicates that two ways for carbon atom drifting to the nanocluster surface are available. The changing of the nickel-atom position significantly influences on the height of the potential barriers of the octahedral and tetrahedral interstitial sites that gives a possibility to manipulate a carbon atom within the near-surface layer of nanocluster. Besides, a carbon atom affects the nanocluster-growth direction, which is estimated by the joining energy for the additional iron atom. The obtained results can be useful in medicine, biology and technologies of nanoelectromechanical systems (NEMS) where both nanoclusters and nanoparticles are used.",
+		"ru": "Методом молекулярной механики с использованием потенциала Леннард-Джонса рассчитана энергия изолированного нанокластера железа в зависимости от положения внедрённого атома углерода и замещённого атома никеля. Внедрённый в нанокластер атом углерода дрейфовал к поверхности из внутренней октапоры или непосредственно в направлении ⟨011⟩, или через тетрапору сначала в направлении ⟨1$\\bar{1}$1⟩, а затем в направлении ⟨111⟩. Один из 14 атомов железа был замещён атомом никеля, положение которого менялось во время моделирования. Было определено, что положение атома никеля существенно влияет на энергию нанокластера. Результаты расчётов показали, что в случае ГЦК-нанокластера положение атома углерода в октапоре было более выгодным энергетически, чем в тетрапоре. С другой стороны, потенциальный барьер в направлении ⟨1$\\bar{1}$1⟩ был меньше, чем в направлении ⟨011⟩. Это указывает на существование двух способов дрейфа атома углерода к поверхности нанокластера. Изменение положения атома никеля существенно влияло на высоту потенциальных барьеров октаэдрических и тетраэдрических междоузлий, что позволяет манипулировать атомом углерода в приповерхностном слое нанокластера. Кроме того, атом углерода влиял на направление роста нанокластера, что оценивалось с помощью энергии присоединения дополнительного атома железа. Исследование может быть полезным в медицине, биологии и технологиях наноэлектромеханических систем, в которых используются такие нанокластеры и наночастицы."
+	},
+	"keywords": {
+		"ua": "нанокластер заліза, енергія нанокластера, домішкові атоми, метод молекулярної механіки",
+		"en": "iron nanocluster, energy of nanocluster, impurity atoms, molecular mechanics method",
+		"ru": "нанокластер железа, энергия нанокластера, примесные атомы, метод молекулярной механики"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Н. В. Бондаренко", "en": "N. V. Bondarenko", "ru": "Н. В. Бондаренко"},
+			"OID": [221]
+		},
+		{
+			"AID": {"ua": "А. В. Недоля", "en": "A. V. Nedolya", "ru": "А. В. Недоля"},
+			"OID": [221]
+		}
+	],
+	"references": {
+		"count": 36,
+		"list":  [
+			{
+				"doi": "10.1002/9783527628650.ch5",
+				"or":  "B. M. Smirnov, Cluster Processes in Gases and Plasmas (Weinheim: Wiley–VCH Verlag GmbH & Co. KGaA: 2010).",
+				"tr":  "B. M. Smirnov, Cluster Processes in Gases and Plasmas (Weinheim: Wiley–VCH Verlag GmbH & Co. KGaA: 2010)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(02)00023-0",
+				"or":  "V. V. Sagaradze, V. E. Danilchenko, Ph. L’Heritier, and V. A. Shabashov, Mater. Sci. Eng., A, 337, Iss. 1–2: 146 (2002).",
+				"tr":  "V. V. Sagaradze, V. E. Danilchenko, Ph. L'Heritier, and V. A. Shabashov, Mater. Sci. Eng., A, 337, Iss. 1–2: 146 (2002)."
+			},
+			{
+				"doi": "10.1142/p383",
+				"or":  "J. A. Alonso, Structure and Properties of Atomic Nanoclusters (Singapore: World Scientific: 2005).",
+				"tr":  "J. A. Alonso, Structure and Properties of Atomic Nanoclusters (Singapore: World Scientific: 2005)."
+			},
+			{
+				"doi": "10.1088/0034-4885/47/4/002",
+				"or":  "J. A. Venables, G. D. T. Spiller, and M. Hunbucken, Rep. Prog. Phys., 47, No. 4: 399 (1984).",
+				"tr":  "J. A. Venables, G. D. T. Spiller, and M. Hunbucken, Rep. Prog. Phys., 47, No. 4: 399 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "Metal Particles and Nanoalloys 3 (Eds. R. L. Johnston and J. Wilcoxon) (Amsterdam: Elsevier Ltd: 2012).",
+				"tr":  "Metal Particles and Nanoalloys 3 (Eds. R. L. Johnston and J. Wilcoxon) (Amsterdam: Elsevier Ltd: 2012)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.77.371",
+				"or":  "F. Baletto and R. Ferrando, Rev. Mod. Phys., 77, Iss. 1: 371 (2005).",
+				"tr":  "F. Baletto and R. Ferrando, Rev. Mod. Phys., 77, Iss. 1: 371 (2005)."
+			},
+			{
+				"doi": "10.1002/aoc.1382",
+				"or":  "L. D. Pachón and G. Rothenberg, Appl. Organomet. Chem., 22, Iss. 6: 288 (2008).",
+				"tr":  "L. D. Pachón and G. Rothenberg, Appl. Organomet. Chem., 22, Iss. 6: 288 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "A. K. Singh, Engineered Nanomaterials: Structure, Properties and Mechanisms of Toxicity (Amsterdam: Academic Press, Elsevier Inc.: 2016).",
+				"tr":  "A. K. Singh, Engineered Nanomaterials: Structure, Properties and Mechanisms of Toxicity (Amsterdam: Academic Press, Elsevier Inc.: 2016)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.95.035501",
+				"or":  "C. Mottet, G. Rossi, F. Baletto, and R. Ferrando, Phys. Rev. Lett., 95, Iss. 3: 035501-1 (2005).",
+				"tr":  "C. Mottet, G. Rossi, F. Baletto, and R. Ferrando, Phys. Rev. Lett., 95, Iss. 3: 035501-1 (2005)."
+			},
+			{
+				"doi": "10.1002/anie.200390334",
+				"or":  "H. Häkkinen, S. Abbet, A. Sanchez, U. Heiz, and U. Landman, Angew. Chem. Int. Ed., 42, Iss. 11: 1297 (2003).",
+				"tr":  "H. Häkkinen, S. Abbet, A. Sanchez, U. Heiz, and U. Landman, Angew. Chem. Int. Ed., 42, Iss. 11: 1297 (2003)."
+			},
+			{
+				"doi": "10.1039/C6NR06299G",
+				"or":  "B. E. Husic, D. Schebarchov, and D. J. Wales, Nanoscale, 8: 18326 (2016).",
+				"tr":  "B. E. Husic, D. Schebarchov, and D. J. Wales, Nanoscale, 8: 18326 (2016)."
+			},
+			{
+				"doi": "10.1088/0953-8984/27/33/335301",
+				"or":  "X. G. Ma, Y. F. Liu, N. Liu, J. C. Ren, G. W. Xu, L. Chu, H. Lv, C. Y. Huang, and Y. F. Zhu, J. Phys. Condens. Matter, 27, No. 33: 335301-1 (2015).",
+				"tr":  "X. G. Ma, Y. F. Liu, N. Liu, J. C. Ren, G. W. Xu, L. Chu, H. Lv, C. Y. Huang, and Y. F. Zhu, J. Phys. Condens. Matter, 27, No. 33: 335301-1 (2015)."
+			},
+			{
+				"doi": "10.1016/S0039-6028(02)01384-5",
+				"or":  "Z. R. Dai, Sh. Sun, and Z. L. Wang, Sur. Sci., 505: 325 (2002).",
+				"tr":  "Z. R. Dai, Sh. Sun, and Z. L. Wang, Sur. Sci., 505: 325 (2002)."
+			},
+			{
+				"doi": "10.1038/nmat977",
+				"or":  "J. Diao, K. Gall, and M. L. Dunn, Nat. Mater, 2: 656 (2003).",
+				"tr":  "J. Diao, K. Gall, and M. L. Dunn, Nat. Mater, 2: 656 (2003)."
+			},
+			{
+				"doi": "10.1002/aoc.1382",
+				"or":  "L. D. Pachón and G. Rothenberg, Appl. Organomet. Chem., 22, Iss. 6: 288 (2008).",
+				"tr":  "L. D. Pachón and G. Rothenberg, Appl. Organomet. Chem., 22, Iss. 6: 288 (2008)."
+			},
+			{
+				"doi": "10.3762/bjnano.5.150",
+				"or":  "S. Khanal, A. Spitale, N. Bhattarai, D. Bahena, J. J. Velazquez-Salazar, S. Mejía-Rosales, M. M. Mariscal, and M. José-Yacaman, Beilstein J. Nanotechnol., 5: 1371 (2014).",
+				"tr":  "S. Khanal, A. Spitale, N. Bhattarai, D. Bahena, J. J. Velazquez-Salazar, S. Mejía-Rosales, M. M. Mariscal, and M. José-Yacaman, Beilstein J. Nanotechnol., 5: 1371 (2014)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.89.205423",
+				"or":  "M. C. Patterson, B. F. Habenicht, R. L. Kurtz, L. Liu, Y. Xu, and Ph. T. Sprunger, Phys. Rev. B, 89, Iss. 20: 205423-1 (2014).",
+				"tr":  "M. C. Patterson, B. F. Habenicht, R. L. Kurtz, L. Liu, Y. Xu, and Ph. T. Sprunger, Phys. Rev. B, 89, Iss. 20: 205423-1 (2014)."
+			},
+			{
+				"doi": "10.1039/C6NR07878H",
+				"or":  "L. Liu, J. Yuan, L. Cheng, and J. Yang, Nanoscale, 9, Iss. 2: 856 (2017).",
+				"tr":  "L. Liu, J. Yuan, L. Cheng, and J. Yang, Nanoscale, 9, Iss. 2: 856 (2017)."
+			},
+			{
+				"doi": "10.1038/ncomms15988",
+				"or":  "M. G. Taylor and G. Mpourmpakis, Nat. Commun., 8: 15988-1 (2017).",
+				"tr":  "M. G. Taylor and G. Mpourmpakis, Nat. Commun., 8: 15988-1 (2017)."
+			},
+			{
+				"doi": "10.1134/1.1448626",
+				"or":  "F. Kh. Mirzoev and L. A. Shelepin, Tech. Phys. Lett., 28, Iss. 1: 6 (2002).",
+				"tr":  "F. Kh. Mirzoev and L. A. Shelepin, Tech. Phys. Lett., 28, Iss. 1: 6 (2002)."
+			},
+			{
+				"doi": "10.1007/BF02649918",
+				"or":  "L. J. Swartzendruber, V. P. Itkin, and C. B. Alcock, J. Phase Equilib. Diffus., 12, Iss. 3: 288 (1991).",
+				"tr":  "L. J. Swartzendruber, V. P. Itkin, and C. B. Alcock, J. Phase Equilib. Diffus., 12, Iss. 3: 288 (1991)."
+			},
+			{
+				"doi": "10.21236/ADA366976",
+				"or":  "Nanostructured Materials: Sciences & Technology (Eds. G.-M. Chow and N. I. Noskova) (USA: Kluwer Academic Publishers: 1998).",
+				"tr":  "Nanostructured Materials: Sciences & Technology (Eds. G.-M. Chow and N. I. Noskova) (USA: Kluwer Academic Publishers: 1998)."
+			},
+			{
+				"doi": "10.1051/jp4:2003839",
+				"or":  "V. G. Gavriljuk, J. Phys. IV France, 112: 51 (2003).",
+				"tr":  "V. G. Gavriljuk, J. Phys. IV France, 112: 51 (2003)."
+			},
+			{
+				"doi": "10.1016/S1359-6462(97)00200-5",
+				"or":  "P. Yu. Volosevitch, V. V. Girzhon, and V. E. Danil’chenko, Scripta Mater., 37, Iss. 7: 977 (1997).",
+				"tr":  "P. Yu. Volosevitch, V. V. Girzhon, and V. E. Danil'chenko, Scripta Mater., 37, Iss. 7: 977 (1997)."
+			},
+			{
+				"doi": "10.1007/978-3-540-69761-9",
+				"or":  "Iron Systems. Part 1 (Eds. G. Effenberg and S. Ilyenko) (Berlin–Heidelberg: Springer: 2008).",
+				"tr":  "Iron Systems. Part 1 (Eds. G. Effenberg and S. Ilyenko) (Berlin–Heidelberg: Springer: 2008)."
+			},
+			{
+				"doi": "10.1007/978-90-481-3862-3",
+				"or":  "E. G. Lewars, Computational Chemistry: Introduction to the Theory and Applications of Molecular and Quantum Mechanics (Berlin: Springer Science Business Media BV: 2011).",
+				"tr":  "E. G. Lewars, Computational Chemistry: Introduction to the Theory and Applications of Molecular and Quantum Mechanics (Berlin: Springer Science Business Media BV: 2011)."
+			},
+			{
+				"doi": "10.1007/978-3-540-77304-7",
+				"or":  "K. I. Ramachandran, G. Deepa, and K. Namboori, Computational Chemistry and Molecular Modelling. Principles and Applications (Heidelberg: Springer-Verlag: 2008).",
+				"tr":  "K. I. Ramachandran, G. Deepa, and K. Namboori, Computational Chemistry and Molecular Modelling. Principles and Applications (Heidelberg: Springer-Verlag: 2008)."
+			},
+			{
+				"doi": "10.1016/j.cma.2014.09.031",
+				"or":  "Q. Yang and A. C. To, Comput. Methods Appl. Mech. Eng., 283: 384 (2015).",
+				"tr":  "Q. Yang and A. C. To, Comput. Methods Appl. Mech. Eng., 283: 384 (2015)."
+			},
+			{
+				"doi": "10.1063/1.3253127",
+				"or":  "H. M. Ledbetter and R. P. Reed, J. Phys. Chem. Ref. Data, 2, Iss. 3: 531 (1973).",
+				"tr":  "H. M. Ledbetter and R. P. Reed, J. Phys. Chem. Ref. Data, 2, Iss. 3: 531 (1973)."
+			},
+			{
+				"doi": "10.1002/pssa.2210300223",
+				"or":  "T. Halicioğlu and G. M. Pound, Phys. Status Solidi A, 30, Iss. 2: 619 (1975).",
+				"tr":  "T. Halicioğlu and G. M. Pound, Phys. Status Solidi A, 30, Iss. 2: 619 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Riech, Nano-Engineering in Science and Technology. An Introduction to the World Nano-Design (Singapore: World Scientific Publishing Co Pte Ltd: 2003).",
+				"tr":  "M. Riech, Nano-Engineering in Science and Technology. An Introduction to the World Nano-Design (Singapore: World Scientific Publishing Co Pte Ltd: 2003)."
+			},
+			{
+				"doi": "",
+				"or":  "J. P. Stark, Solid State Diffusion (New York: John Wiley and Sons: 1976).",
+				"tr":  "J. P. Stark, Solid State Diffusion (New York: John Wiley and Sons: 1976)."
+			},
+			{
+				"doi": "10.1007/978-3-319-56422-7_29",
+				"or":  "A. V. Nedolya and N. V. Bondarenko, Selected Proceedings of the 4th Int. Research and Practice Conf. ‘Nanotechnology and Nanomaterials NANO-2016’ (Aug. 24–27, 2016, Lviv, Ukraine). Springer Proceedings in Physics (Cham, Switzerland: Springer: 2017), vol. 195, p. 395.",
+				"tr":  "A. V. Nedolya and N. V. Bondarenko, Selected Proceedings of the 4th Int. Research and Practice Conf. 'Nanotechnology and Nanomaterials NANO-2016' (Aug. 24–27, 2016, Lviv, Ukraine). Springer Proceedings in Physics (Cham, Switzerland: Springer: 2017), vol. 195, p. 395."
+			},
+			{
+				"doi": "",
+				"or":  "K. S. Sree Harsha, Principles of Physical Vapor Deposition of Thin Films (Oxford: Elsevier Ltd: 2006).",
+				"tr":  "K. S. Sree Harsha, Principles of Physical Vapor Deposition of Thin Films (Oxford: Elsevier Ltd: 2006)."
+			},
+			{
+				"doi": "10.1116/1.4961942",
+				"or":  "P. Zhang, E. Mohimi, T. K. Talukdar, and J. R. Abelson, J. Vac. Sci. Technol. A, 34, Iss. 5, Art. No. 051518 (2016).",
+				"tr":  "P. Zhang, E. Mohimi, T. K. Talukdar, and J. R. Abelson, J. Vac. Sci. Technol. A, 34, Iss. 5, Art. No. 051518 (2016)."
+			},
+			{
+				"doi": "10.1134/S0031918X11040235",
+				"or":  "I. G. Kabanova, V. V. Sagaradze, N. V. Kataeva, and V. E. Danil’chenko, Phys. Metals. Metallogr., 112: 381 (2011).",
+				"tr":  "I. G. Kabanova, V. V. Sagaradze, N. V. Kataeva, and V. E. Danil'chenko, Phys. Metals. Metallogr., 112: 381 (2011)."
+			}
+		]
+	}
+}

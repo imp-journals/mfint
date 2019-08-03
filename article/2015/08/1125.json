@@ -1,0 +1,133 @@
+{
+	"_id":    "MFiNT.37.08.1125",
+	"year":   2015,
+	"volume": 37,
+	"issue":  8,
+	"pages":  [1125,1133],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["15.07.2015"],
+	"PACS":   "62.20.de, 65.40.De, 75.30.Cr, 75.50.Bb, 76.80.+y, 81.20.Hy, 81.40.Ef",
+	"title":  {
+		"ua": "Вплив пластичної деформації методом осадки на властивості інварного сплаву Fe—35%Ni—0,49%Mn",
+		"en": "Effect of a Plastic Deformation by Upsetting on Properties of Invar Fe—35%Ni—0,49%Mn Alloy",
+		"ru": "Влияние пластической деформации методом осадки на свойства инварного сплава Fe—35%Ni—0,49%Mn"
+	},
+	"abstract": {
+		"ua": "В роботі досліджено властивості інварного ГЦК-стопу Fe—35,0%Ni—0,49%Mn після термічного оброблення і пластичної деформації осадкою зі ступенем $e$ = 1,1. Після пластичної деформації формується структурно-напружений стан, який впливає на магнетну підсистему і міжатомову взаємодію, про що свідчить зниження $T_{C}$, надтонкого магнетного поля, модулів пружности і Дебайової температури. Після осадки стоп дещо змінює своє термічне розширення, зберігаючи, однак, інварну поведінку. За рахунок змін магнетного внеску в Ґрюнайзенівське розширення коефіцієнт  деформованого осадкою стопу при температурах, нижчих за кімнатну, близький до нуля, а в інтервалі 220—350 К – неґативний. Надаючи інварному виробу необхідну форму осадкою, можна забезпечити його зміцнення, яке в нашому випадку становить $\\cong$ 30%.",
+		"en": "In this work, the properties of f.c.c. Invar Fe—35.0%Ni—0.49%Mn alloy after both the heat treatment and the plastic deformation by upsetting with strain degree $e$ = 1.1 are investigated. After the plastic deformation, the strain-induced state is formed, which affects both the magnetic subsystem and the interatomic interaction as it is evidenced by the reduction of $T_{C}$, the hyperfine magnetic field, the elastic modulus, and the Debye temperature. After upsetting, the alloy slightly changes its thermal expansion, nevertheless, maintaining the Invar behaviour. Due to changes of the magnetic contribution in the Grüneisen expansion, the coefficient $\\alpha$ of the alloy deformed by upsetting is close to zero at temperatures below the room one, and in the range 220—350 K, it is negative. With forming the Invar product by upsetting, it is possible to provide strengthening, which is $\\cong$ 30% for our case.",
+		"ru": "В работе исследованы свойства инварного ГЦК-сплава Fe—35,0%Ni—0,49%Mn после термической обработки и пластической деформации осадкой со степенью $e$ = 1,1. После пластической деформации формируется структурно-напряжённое состояние, которое влияет на магнитную подсистему и межатомное взаимодействие, о чём свидетельствует снижение $T_{C}$, сверхтонкого магнитного поля, модулей упругости и температуры Дебая. После осадки сплав несколько меняет своё термическое расширение, сохраняя, однако, инварное поведение. За счёт изменений магнитного вклада в грюнайзеновское расширение коэффициент  деформированного осадкой сплава при температурах ниже комнатной близок к нулю, а в интервале 220—350 К – отрицательный. Придавая инварному изделию необходимую форму осадкой, можно обеспечить его упрочнение, которое в нашем случае составляет $\\cong$ 30%."
+	},
+	"keywords": {
+		"ua": "інвар Fe—Ni—Mn, осадка, термічне розширення, температура Кюрі, намагніченість, надтонке магнітне поле, модулі пружності",
+		"en": "Invar Fe—Ni—Mn, upsetting, thermal expansion, Curie temperature, magnetization, hyperfine magnetic field, elastic moduli",
+		"ru": "инвар Fe—Ni—Mn, осадка, термическое расширение, температура Кюри, намагниченность, сверхтонкое магнитное поле, модули упругости"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. М. Надутов", "en": "V. M. Nadutov", "ru": "В. М. Надутов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Д. Л. Ващук", "en": "D. L. Vashchuk", "ru": "Д. Л. Ващук"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. І. Запорожець", "en": "O. I. Zaporozhets’", "ru": "О. И. Запорожец"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. А. Давіденко", "en": "A. A. Davidenko", "ru": "А. А. Давиденко"},
+			"OID": [9]
+		},
+		{
+			"AID": {"ua": "Є. О. Свистунов", "en": "Ye. O. Svystunov", "ru": "Е. А. Свистунов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Є. В. Марковський", "en": "Ye. V. Markovskii", "ru": "Е. В. Марковский"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 15,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "В. В. Сагарадзе, А. И. Уваров, Е. И. Ануфриева, Физ. мет. металловед., 77, № 6: 156 (1994).",
+				"tr":  "V. V. Sagaradze, A. I. Uvarov, and E. I. Anufrieva, Fiz. Met. Metalloved., 77, No. 6: 156 (1994) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Ворошилов, А. И. Захаров, В. М. Калинин, А. С. Уралов, Физ. мет. металловед., 35, № 5: 953 (1973).",
+				"tr":  "V. P. Voroshilov, A. I. Zakharov, V. M. Kalinin, and A. S. Uralov, Fiz. Met. Metalloved., 35, No. 5: 953 (1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Изотов, В. В. Русаненко, В. И. Копылов, В. А. Поздняков, А. Ф. Еднерал, А. Г. Козлова, Физ. мет. металловед., 82, № 3: 123 (1996).",
+				"tr":  "V. I. Izotov, V. V. Rusanenko, V. I. Kopylov, V. A. Pozdniakov, A. F. Edneral, and A. G. Kozlova, Fiz. Met. Metalloved., 82, No. 3: 123 (1996) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Х. Биткулов, В. А. Казанцев, В. И. Копылов, Р. Р. Мулюков, Изв. вузов. Физика, 44, № 2: 69 (2001).",
+				"tr":  "I. Kh. Bitkulov, V. A. Kazantsev, V. I. Kopylov, and R. R. Mulyukov, Izv. Vuzov. Fizika, 44, No. 2: 69 (2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Надутов, Д. Л. Ващук, П. Ю. Волосевич, Е. А. Свистунов, В. А. Белошенко, В. З. Спусканюк, А. А. Давиденко, Металлофиз. новейшие технол., 34, № 3: 395 (2012).",
+				"tr":  "V. M. Nadutov, D. L. Vashchuk, P. Yu. Volosevych, Ye. O. Svystunov, V. A. Beloshenko, V. Z. Spuskanyuk, and A. A. Davidenko, Metallofiz. Noveishie Tekhnol., 34, No. 3: 395 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. M. Nadutov, D. L. Vashchuk, Ye. O. Svystunov, V. A. Beloshenko, V. Z. Spuskanyuk, and A. A. Davidenko, Func. Mater., 19, No. 3: 334 (2012).",
+				"tr":  "V. M. Nadutov, D. L. Vashchuk, Ye. O. Svystunov, V. A. Beloshenko, V. Z. Spuskanyuk, and A. A. Davidenko, Func. Mater., 19, No. 3: 334 (2012)."
+			},
+			{
+				"doi": "10.7868/S0015323015090120",
+				"or":  "В. М. Надутов, Д. Л. Ващук, П. Ю. Волосевич, В. З. Спусканюк, А. А. Давиденко, Физ. мет. металловед., 116, № 9: 966 (2015).",
+				"tr":  "V. M. Nadutov, D. L. Vashchuk, P. Yu. Volosevich, V. Z. Spuskaniuk, and A. A. Davidenko, Fiz. Met. Metalloved., 116, No. 9: 966 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Надутов, Д. В. Семенов, Г. Я. Базелюк, О. І. Запорожець, Є. О. Свистунов, Металлофиз. новейшие технол., 30, № 1: 41 (2008).",
+				"tr":  "V. M. Nadutov, D. V. Semenov, G. Ya. Bazelyuk, O. I. Zaporozhets, and Ye. O. Svystunov, Metallofiz. Noveishie Tekhnol., 30, No. 1: 41 (2008) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Tatarenko, S. M. Bokoch, V. M. Nadutov, T. M. Radchenko, and Y. B. Park, Defect Diffusion Forum, 280–281: 29 (2008).",
+				"tr":  "V. A. Tatarenko, S. M. Bokoch, V. M. Nadutov, T. M. Radchenko, and Y. B. Park, Defect Diffusion Forum, 280–281: 29 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Saito and S. Chikazumi, Physics and Applications of Invar Alloys. Honda Memorial Series on Materials Science (Tokyo: Maruzen Co. Ltd.: 1978), No. 3, p. 646.",
+				"tr":  "H. Saito and S. Chikazumi, Physics and Applications of Invar Alloys. Honda Memorial Series on Materials Science (Tokyo: Maruzen Co. Ltd.: 1978), No. 3, p. 646."
+			},
+			{
+				"doi": "10.1007/s10751-006-9461-8",
+				"or":  "V. M. Nadutov, Ye. O. Svystunov, S. G. Kosintsev, and V. A. Tatarenko, Hyperfine Interactions, 168: 929 (2006).",
+				"tr":  "V. M. Nadutov, Ye. O. Svystunov, S. G. Kosintsev, and V. A. Tatarenko, Hyperfine Interactions, 168: 929 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Вертхейм, Эффект Мессбауэра (Москва: Мир: 1966) (пер. с англ.).",
+				"tr":  "G. K. Wertheim, Effekt Messbauera [Mössbauer Effect] (Moscow: Mir: 1966) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Надутов, Е. А. Свистунов, С. Г. Косинцев, О. И. Запорожец, В. А. Татаренко, Известия РАН. Серия физическая, 69, № 10: 1475 (2005).",
+				"tr":  "V. M. Nadutov, E. A. Svistunov, S. G. Kosintsev, O. I. Zaporozhets, and V. A. Tatarenko, Izvestiya RAN. Seriya Fizicheskaya, 69, No. 10: 1475 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Н. Делягин, Б. А. Комиссарова, Л. Н. Крюкова, В. П. Парфенова,  А. А. Сорокин, Сверхтонкие взаимодействия и ядерные излучения (Москва: Изд. Московского университета: 1985).",
+				"tr":  "N. N. Delyagin, B. A. Komissarova, L. N. Kryukova, V. P. Parfenova, and A. A. Sorokin, Sverkhtonkie Vzaimodeystviya i Yadernye Izlucheniya[Superfine Interactions and Nuclear Radiation] (Moscow: Izd. Moskovskogo Universiteta: 1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Новикова, Тепловое расширение твёрдых тел (Москва: Наука: 1974).",
+				"tr":  "S. I. Novikova, Teplovoe Rasshirenie Tverdykh Tel [Thermal Expansion of Solids] (Moscow: Nauka: 1974) (in Russian)."
+			}
+		]
+	}
+}

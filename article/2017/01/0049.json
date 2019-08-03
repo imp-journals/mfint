@@ -1,0 +1,184 @@
+{
+	"_id":    "MFiNT.39.01.0049",
+	"year":   2017,
+	"volume": 39,
+	"issue":  1,
+	"pages":  [49,68],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["03.11.2016"],
+	"PACS":   "43.35.+d, 68.55.Ln, 68.55.Nq, 81.40.Lm, 81.65.-b, 83.10.Tv, 83.50.Uv",
+	"title":  {
+		"ua": "Особливості формування структурно-фазового стану поверхневих шарів стопу Д16 внаслідок ультразвукового ударного оброблення залізним бойком в різних середовищах",
+		"en": "Peculiarities of Structure and Phase Formation in the Surface Layers of 2024 Aluminium Alloy due to Ultrasonic Impact Treatment in Various Environments",
+		"ru": "Особенности формирования структурно-фазового состояния поверхностных слоёв сплава Д16 вследствие ультразвуковой ударной обработки железным бойком в разных средах"
+	},
+	"abstract": {
+		"ua": "Досліджено процес зміцнення поверхневих шарів стопу Д16, зумовлений еволюцією структури та масоперенесенням Fe, спричиненими ультразвуковим ударним обробленням (УЗУО) бойком з армко-заліза, на повітрі та в інертному середовищі. Підтверджено циклічний характер змін мiкротвердостi, який полягає у чергуванні стадій зміцнення та пластифікації. Збільшення значення мікротвердості поверхневих шарів товщиною до 30 мкм алюмінієвого стопу Д16 після УЗУО бойком із армко-заліза в інертному середовищі (до 4 ГПа) та на повітрі (до $\\cong$ 9 ГПа) пов’язується як із зменшенням розміру областей когерентного розсіяння та збільшенням рівня мікродеформації кристалічної ґратниці, так і з механохемічною взаємодією в процесі інтенсивної деформації між Al і Fe з формуванням інтерметалідних фаз Fe–Al, а також між Cu та О за умов УЗУО на повітрі. Обговорено можливий механізм формування залiзовмiсного поверхневого шару за інтенсивної пластичної деформації та масоперенесення Fe, спричинених багатократним ударним навантаженням при УЗУО бойком з армко-заліза.",
+		"en": "The hardening process of the surface layers of 2024 aluminium alloy caused by structural evolution and mass transfer of Fe induced by ultrasonic impact treatment (UIT) with the pin from Armco-Fe carried out in both the air and an inert environment is studied. The cyclical nature of changes in microhardness, which comprises the alternating stages of hardening and plasticization, is confirmed. The increase in the microhardness of the surface layers of 2024 aluminium alloy of $\\cong$ 30 $\\mu$m thick after the UIT process with the pin from Armco-Fe in an inert environment (4 GPa) and in the air (up to $\\cong$ 9 GPa) is associated with the decrease in the size of coherent scattering areas during severe plastic deformation and with the increase in crystal lattice microstrains, with mechanochemical interaction between Al and Fe with the formation of Fe–Al intermetallic phases as well as between Cu and O during UIT in the air. A possible mechanism for the formation of the iron-containing surface layer by severe plastic deformation and mass transfer of iron caused by repetitive impact loading at UIT with the pin of Armco-Fe is discussed.",
+		"ru": "Исследован процесс упрочнения поверхностных слоёв сплава Д16, обусловленный эволюцией структуры и массопереносом Fe, вызванными ультразвуковой ударной обработкой (УЗУО) бойком из армко-железа на воздухе и в инертной среде. Подтверждён циклический характер изменений микротвёрдости, который состоит в чередовании стадий упрочнения и пластификации. Увеличение значения микротвёрдости поверхностных слоёв толщиной до 30 мкм алюминиевого сплава Д16 после УЗУО бойком из армко-железа в инертной среде (до 4 ГПа) и на воздухе (до $\\cong$ 9 ГПа) связывается как с уменьшением размера областей когерентного рассеяния и увеличением уровня микродеформаций кристаллической решётки, так и с механохимическим взаимодействием в процессе интенсивной деформации между Al и Fe с формированием интерметаллидных фаз Fe–Al, а также между Cu и O в условиях УЗУО на воздухе. Обсуждён возможный механизм формирования железосодержащего поверхностного слоя при интенсивной пластической деформации и массопереносе железа, вызванных многократным ударным воздействием при УЗУО бойком из армко-железа."
+	},
+	"keywords": {
+		"ua": "ультразвукове ударне оброблення (УЗУО), поверхня, масоперенесення, механічне леґування, алюмінієві стопи, інертне середовище",
+		"en": "ultrasonic impact treatment (UIT), surface, mass transfer, mechanical alloying, aluminium alloys, inert environment",
+		"ru": "ультразвуковая ударная обработка (УЗУО), поверхность, массоперенос, механическое легирование, алюминиевые сплавы, инертная среда"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. О. Васильєв", "en": "M. O. Vasylyev", "ru": "М. А. Васильев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Б. М. Мордюк", "en": "B. M. Mordyuk", "ru": "Б. Н. Мордюк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. І. Сидоренко", "en": "S. I. Sidorenko", "ru": "С. И. Сидоренко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "С. М. Волошко", "en": "S. M. Voloshko", "ru": "С. М. Волошко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "А. П. Бурмак", "en": "A. P. Burmak", "ru": "А. П. Бурмак"},
+			"OID": [202]
+		}
+		],
+	"references": {
+		"count": 26,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Д. С. Герцрикен, В. Ф. Мазанко, В. М. Тышкевич, В. М. Фальченко, Массоперенос в металлах при низких температурах в условиях внешних воздействий (Киев: РИО ИМФ: 1999).",
+				"tr":  "D. S. Gertsriken, V. F. Mazanko, V. M. Tyshkevich, and V. M. Falchenko, Massoperenos v Metallakh pri Nizkih Temperaturakh v Usloviyakh Vneshnikh Vozdeystviy [Mass Transfer in Metals at Low Temperatures and External Influences] (Kyiv: G. V. Kurdyumov Institute for Metal Physics, N.A.S.U.: 1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Бурмак, С. І. Сидоренко, М. О. Васильєв, С. М. Волошко, Наукові вісті НТУУ «КПІ», № 1: 57 (2013).",
+				"tr":  "A. P. Burmak, S. I. Sydorenko, M. O. Vasylyev, and S. M. Voloshko, Naukovi Visti NTUU 'KPI', No. 1: 57 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/mfint.37.09.1269",
+				"or":  "М. О. Васильєв, Б. М. Мордюк, С. І. Сидоренко, С. М. Волошко, А. П. Бурмак, Металлофиз. новейшие технол., 37, № 9: 1269 (2015).",
+				"tr":  "M. O. Vasyliev, B. M. Mordyuk, S. I. Sidorenko, S. M. Voloshko, and A. P. Burmak, Metallofiz. Noveishie Tekhnol., 37, No. 9: 1269 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. И. Прокопенко, А. Л. Березина, С. М. Волошко, И. Е. Котенко, А. П. Бурмак, Металлофиз. новейшие технол., 32, № 3: 397 (2010).",
+				"tr":  "G. I. Prokopenko, A. L. Berezina, S. M. Voloshko, I. E. Kotenko, and A. P. Burmak, Metallofiz. Noveishie Tekhnol., 32, No. 3: 397 (2010) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.38.04.0545",
+				"or":  "М. О. Васильєв, Б. М. Мордюк, С. І. Сидоренко, С. М. Волошко, А. П. Бурмак, М. В. Кіндрачук, Металлофиз. новейшие технол., 38, № 4: 545 (2016).",
+				"tr":  "M. O. Vasyliev, B. M. Mordyuk, S. I. Sidorenko, S. M. Voloshko, A. P. Burmak, and M. V. Kindrachuk, Metallofiz. Noveishie Tekhnol., 38, No. 4: 545 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/j.wear.2014.07.011",
+				"or":  "B. N. Mordyuk, G. I. Prokopenko, Yu. V. Milman, M. O. Iefimov, K. E. Grinkevych, A. V. Sameljuk, and I. V. Tkachenko, Wear, 319: 84 (2014).",
+				"tr":  "B. N. Mordyuk, G. I. Prokopenko, Yu. V. Milman, M. O. Iefimov, K. E. Grinkevych, A. V. Sameljuk, and I. V. Tkachenko, Wear, 319: 84 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. С. Герцрикен, В. П. Кривко, Л. Н.Лариков, И. Г. Полоцкий, Г. И. Прокопенко, В. М. Фальченко, ФиХОМ, № 4: 154 (1979).",
+				"tr":  "D. S. Gertsriken, V. P. Krivko, L. N. Larikov, I. G. Polotskiy, G. I. Prokopenko, and V. M. Falchenko, Phys. Chem. Treat. Mater., No. 4: 154 (1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Васильев, А. В. Козлов, Г. И. Прокопенко, Б. Н. Мордюк, Металлофиз. новейшие технол., 15, № 1: 75 (1995).",
+				"tr":  "M. A. Vasyliev, A. V. Kozlov, G. I. Prokopenko, and B. N. Mordyuk, Metallofiz. Noveishie Tekhnol., 15, No. 11: 75 (1995) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.intermet.2008.06.017",
+				"or":  "I. S. Lee, P. W. Kao, and N. J. Ho, Intermetallics, 16: 1104 (2008).",
+				"tr":  "I. S. Lee, P. W. Kao, and N. J. Ho, Intermetallics, 16: 1104 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Л. Сироватка, В. Е. Оликер, М. С. Яковлєва, Материаловедение, № 3: 46 (2013).",
+				"tr":  "V. L. Syrovatka, V. E. Oliker, and M. S. Yakovleva, Materialovedenie, No. 3: 46 (2013) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.intermet.2011.11.017",
+				"or":  "F. Haidara, M.-C. Record, B. Duployer, and D. Mangelinck, Intermetallics, 23: 143 (2012).",
+				"tr":  "F. Haidara, M.-C. Record, B. Duployer, and D. Mangelinck, Intermetallics, 23: 143 (2012)."
+			},
+			{
+				"doi": "10.15407/mfint.37.12.1603",
+				"or":  "М. О. Васильєв, Б. М. Мордюк, С. І. Сидоренко, С. М. Волошко, А. П. Бурмак, Металлофиз. новейшие технол., 37, № 12: 1603 (2015).",
+				"tr":  "M. O. Vasyliev, B. M. Mordyuk, S. I. Sidorenko, S. M. Voloshko, and A. P. Burmak, Metallofiz. Noveishie Tekhnol., 37, No. 12: 1603 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Голованов, МиТОМ, № 6: 42 (2008).",
+				"tr":  "A. V. Golovanov, Metall. Therm. Treat., No. 6: 42 (2008) (in Russian)."
+			},
+			{
+				"doi": "10.1007/s10853-005-0718-4",
+				"or":  "M. H. Enayati and M. Salehi, J. Mater. Sci., 40: 3933 (2005).",
+				"tr":  "M. H. Enayati and M. Salehi, J. Mater. Sci., 40: 3933 (2005)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2011.05.046",
+				"or":  "B. N. Mordyuk, M. O. Iefimov, K. E. Grinkevych, M. I. Danylenko, and A. V. Samelyuk, Surf. Coat. Technol., 205: 5278 (2011).",
+				"tr":  "B. N. Mordyuk, M. O. Iefimov, K. E. Grinkevych, M. I. Danylenko, and A. V. Samelyuk, Surf. Coat. Technol., 205: 5278 (2011)."
+			},
+			{
+				"doi": "10.1016/j.msea.2008.09.064",
+				"or":  "A. Shafiei-Zarghani, S. F. Kashani-Bozorg, and A. Zarei-Hanzaki, Mater. Sci. Eng. A, 500: 84 (2009).",
+				"tr":  "A. Shafiei-Zarghani, S. F. Kashani-Bozorg, and A. Zarei-Hanzaki, Mater. Sci. Eng. A, 500: 84 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Г. Иванов, МиТОМ, № 6: 33 (1979).",
+				"tr":  "E. G. Ivanov, Metall. Therm. Treat., No. 6: 33 (1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Н. Макеев, Вестник Саратов. ГTУ, № 3(67): 92 (2012).",
+				"tr":  "D. N. Makeev, Vestnik Saratov. GTU, No. 3(67): 92 (2012) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.electacta.2008.02.034",
+				"or":  "P. Kar, K. Wang, and H. Liang, Electrochimica Acta, 53: 5084 (2008).",
+				"tr":  "P. Kar, K. Wang, and H. Liang, Electrochimica Acta, 53: 5084 (2008)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2012.08.006",
+				"or":  "M. A. Vasylyev, S. P. Chenakin, and L. F. Yatsenko, Acta Mater., 60: 6223 (2012).",
+				"tr":  "M. A. Vasylyev, S. P. Chenakin, and L. F. Yatsenko, Acta Mater., 60: 6223 (2012)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2015.10.041",
+				"or":  "M. A. Vasylyev, S. P. Chenakin, and L. F. Yatsenko, Acta Mater., 103: 761 (2016).",
+				"tr":  "M. A. Vasylyev, S. P. Chenakin, and L. F. Yatsenko, Acta Mater., 103: 761 (2016)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2012.08.063",
+				"or":  "B. N. Mordyuk, O. P. Karasevskaya, G. I. Prokopenko, and N. I. Khripta, Surf. Coat. Technol., 210: 54 (2012).",
+				"tr":  "B. N. Mordyuk, O. P. Karasevskaya, G. I. Prokopenko, and N. I. Khripta, Surf. Coat. Technol., 210: 54 (2012)."
+			},
+			{
+				"doi": "10.1016/j.msea.2012.08.125",
+				"or":  "B. N. Mordyuk, O. P. Karasevskaya, and G. I. Prokopenko, Mater. Sci. Eng. A, 559: 453 (2013).",
+				"tr":  "B. N. Mordyuk, O. P. Karasevskaya, and G. I. Prokopenko, Mater. Sci. Eng. A, 559: 453 (2013)."
+			},
+			{
+				"doi": "10.15407/ufm.15.02.079",
+				"or":  "М.О. Васильєв, С.М. Волошко, Л.Ф. Яценко, Успехи физ. мет., 15: 79 (2014).",
+				"tr":  "M. O. Vasiliev, S. M. Voloshko, and L. F. Yatsenko, Uspehi Fiziki Metallov, 15: 79 (2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Рыбин, Большие пластические деформации и разрушение металлов (Москва: Металлургия: 1986).",
+				"tr":  "V. V. Rybin, Bolshie Plasticheskie Deformatsii i Razrushenie Metallov [Large Plastic Deformations and Fracture of Metals] (Moscow: Metallurgiya: 1986) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.36.03.0329",
+				"or":  "А. Л. Березина, Т. А. Монастырская, Г. И. Прокопенко, О. А. Молебный, С. С. Полищук, А. В. Котко, Металлофиз. новейшие технол., 36, № 3: 329 (2014).",
+				"tr":  "A. L. Berezina, T. O. Monastyrska, G. I. Prokopenko, O. A. Molebny, S. S. Polishchuk, and A. V. Kotko, Metallofiz. Noveishie Tekhnol., 36, No. 3: 329 (2014) (in Russian)."
+			}
+		]
+	}
+}

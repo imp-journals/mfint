@@ -1,0 +1,173 @@
+{
+	"_id":    "MFiNT.36.05.0575",
+	"year":   2014,
+	"volume": 36,
+	"issue":  5,
+	"pages":  [575,588],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["29.11.2013", "05.05.2014"],
+	"PACS":   "71.10.Fd, 71.20.Be, 71.27.+a, 71.28.+d, 71.55.Jv, 75.10.Lp, 75.40.Cx",
+	"title":   {
+		"ua": "Магнітні фазові діаграми двокомпонентних невпорядкованих ОЦК-стопів заміщення з сильними електронними кореляціями",
+		"en": "Magnetic Phase Diagrams of Two-Component Disordered B.C.C. Substitutional Alloys with Strong Electron Correlations",
+		"ru": "Магнитные фазовые диаграммы двухкомпонентных неупорядоченных ОЦК-сплавов замещения с сильными электронными корреляциями"
+	},
+	"abstract": {
+		"ua": "В роботі досліджено енергетичні спектри електронів і передбачено діаграми магнітних фазових станів невпорядкованих бінарних ОЦК-стопів заміщення з різними значеннями параметра розсіяння електронів на атомах обох компонентів. Для опису таких стопів запропоновано однозонну модель сильного зв’язку, що враховує електрон-електронні взаємодії в наближенні корельованого випадкового поля. Показано, що тип магнітного порядку стопів визначається як енергетичними параметрами Кулонового відштовхування електронів з протилежними спінами на одному вузлі і середньою електронною концентрацією, так і величиною атомного розсіювального потенціалу. На відміну від однокомпонентних систем у досліджених стопах антиферомагнітне впорядкування має пороговий характер, тобто за всіх можливих значень середньої електронної концентрації воно не може встановлюватися при скільки завгодно малих значен нях потенціалу Кулонового відштовхування електронів на одному вузлі.",
+		"en": "Electron-energy spectra and diagrams of magnetic-phase states of disordered b.c.c. binary substitutional alloys for various values of the parameter of electron scattering by atoms of both constituents are investigated. To describe properties of these alloys, one-band tight-binding model taking into account electron-electron interactions in the correlated random field approximation is proposed. As shown, the type of magnetic order of alloy is defined by the energy parameters of the Coulomb repulsion of electrons with opposite spins at the one site, the average electron density, and value of the atomic scattering potential. As opposed to the one-component systems, in alloys at issue, the antiferromagnetic ordering has a threshold character, i.e., for all possible values of the mean electron concentration, it cannot be set at arbitrarily small values of the potential of the Coulomb repulsion of electrons on the one site.",
+		"ru": "В работе исследованы энергетические спектры электронов и предсказаны диаграммы магнитных фазовых состояний неупорядоченных бинарных ОЦК-сплавов замещения с различными значениями параметра рассеяния электронов на атомах обоих компонентов. Для описания таких сплавов предложена однозонная модель сильной связи, учитывающая электрон-электронные взаимодействия в приближении коррелированного случайного поля. Показано, что тип магнитного порядка сплавов определяется как энергетическими параметрами кулоновского отталкивания электронов с противоположными спинами на одном узле и средней электронной концентрацией, так и величиной атомного потенциала рассеяния. В отличие от однокомпонентных систем в исследованных сплавах антиферромагнитное упорядочение имеет пороговый характер, то есть для всех возможных значений средней электронной концентрации оно не может устанавливаться при сколь угодно малых значениях потенциала кулоновского отталкивания электронов на одном узле."
+	},
+	"keywords": {
+		"ua": "електронна структура, сильні електронні кореляції, магнітна фазова діаграма, магнітні стопи",
+		"en": "electronic structure, strong electron correlations, magnetic phase diagram, magnetic alloys",
+		"ru": "электронная структура, сильные электронные корреляции, магнитная фазовая диаграмма, магнитные сплавы"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. В. Лізунов", "en": "V. V. Lizunov", "ru": "В. В. Лизунов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Є. Г. Лень", "en": "E. G. Len", "ru": "Е. Г. Лень"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "І. М. Мельник", "en": "I. M. Melnyk", "ru": "И. Н. Мельник"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. В. Ушаков", "en": "M. V. Ushakov", "ru": "Н. В. Ушаков"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Т. С. Лень", "en": "T. S. Len", "ru": "Т. С. Лень"},
+			"OID": [205]
+		},
+		{
+			"AID": {"ua": "В. А. Татаренко", "en": "V. A. Tatarenko", "ru": "В. А. Татаренко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 23,
+		"list":  [
+			{
+				"doi": "10.1126/science.1107559",
+				"or":  "E. Dagotto, Science, 309: 257 (2005).",
+				"tr":  "E. Dagotto, Science, 309: 257 (2005)."
+			},
+			{
+				"doi": "10.1098/rspa.1963.0204",
+				"or":  "J. Hubbard, Proc. Roy. Soc., 276, No. 1365: 238 (1963).",
+				"tr":  "J. Hubbard, Proc. Roy. Soc., 276, No. 1365: 238 (1963)."
+			},
+			{
+				"doi": "10.1098/rspa.1964.0019",
+				"or":  "J. Hubbard, Proc. Roy. Soc., 277, No. 1369: 237 (1964).",
+				"tr":  "J. Hubbard, Proc. Roy. Soc., 277, No. 1369: 237 (1964)."
+			},
+			{
+				"doi": "10.1098/rspa.1964.0190",
+				"or":  "J. Hubbard, Proc. Roy. Soc., 281, No. 1386: 401 (1964).",
+				"tr":  "J. Hubbard, Proc. Roy. Soc., 281, No. 1386: 401 (1964)."
+			},
+			{
+				"doi": "10.1002/andp.201100250",
+				"or":  "D. Vollhardt, Annalen der Physik, 524, Iss. 1: 1 (2012).",
+				"tr":  "D. Vollhardt, Annalen der Physik, 524, Iss. 1: 1 (2012)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.90.196403",
+				"or":  "K. Byczuk, M. Ulmke, and D. Vollhardt, Phys. Rev. Lett., 90: 196403 (2003).",
+				"tr":  "K. Byczuk, M. Ulmke, and D. Vollhardt, Phys. Rev. Lett., 90: 196403 (2003)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.69.045112",
+				"or":  "K. Byczuk, W. Hofstetter, and D. Vollhardt, Phys. Rev. B, 69: 045112 (2004).",
+				"tr":  "K. Byczuk, W. Hofstetter, and D. Vollhardt, Phys. Rev. B, 69: 045112 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.74.085116",
+				"or":  "P. Lombardo, R. Hayn, and G. I. Japaridze, Phys. Rev. B, 74: 085116 (2006).",
+				"tr":  "P. Lombardo, R. Hayn, and G. I. Japaridze, Phys. Rev. B, 74: 085116 (2006)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.81.115111",
+				"or":  "D. Semmler, K. Byczuk, and W. Hofstetter, Phys. Rev. B, 81: 115111 (2010).",
+				"tr":  "D. Semmler, K. Byczuk, and W. Hofstetter, Phys. Rev. B, 81: 115111 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Лось, С. П. Репецкий, Методы теории неупорядоченных систем. Электронные свойства сплавов (Киев: Наукова думка: 1995).",
+				"tr":  "V. F. Los' and S. P. Repetsky, Metody Teorii Neuporyadochennykh Sistem. Elektronnye Svoystva Splavov (Methods for Disordered Systems Theory. Electronic Properties of Alloys) (Kiev: Naukova Dumka: 1995) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.10.03.283",
+				"or":  "С. П. Репецкий, В. Б. Молодкин, И. Г. Вышиваная, Е. Г. Лень, И. Н. Мельник, О. И. Мусиенко, Б. В. Стащук, Успехи физики металлов, 10, № 3: 283 (2009).",
+				"tr":  "S. P. Repetsky, V. B. Molodkin, I. G. Vyshivanaya, E. G. Len, I. N. Melnyk, O. I. Musienko, and B. V. Stashchuk, Uspehi Fiziki Metallov, 10, No. 3: 283 (2009) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.58.R7475",
+				"or":  "M. H. Hettler, A. N. Tahvildar-Zadeh, and M. Jarrell, Phys. Rev. B, 58: R7475 (1998).",
+				"tr":  "M. H. Hettler, A. N. Tahvildar-Zadeh, and M. Jarrell, Phys. Rev. B, 58: R7475 (1998)."
+			},
+			{
+				"doi": "10.4213/tmf340",
+				"or":  "С. П. Репецкий, Т. Д. Шатний, Теоретическая и математическая физика, 131, № 3: 456 (2002).",
+				"tr":  "S. P. Repetsky and T. D. Shatnij, Teoreticheskaya i Matematicheskaya Fizika, 131, No. 3: 456 (2002) (in Russian)."
+			},
+			{
+				"doi": "10.3367/UFNr.0165.199504b.0403",
+				"or":  "Ю. А. Изюмов, Успехи физических наук, 165, № 4: 403 (1995).",
+				"tr":  "Yu. A. Izyumov, Uspekhi Fizicheskikh Nauk, 165, No. 4: 403 (1995) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.5.2872",
+				"or":  "H. Fukuyama, Phys. Rev. B, 5, No. 8: 2872 (1972).",
+				"tr":  "H. Fukuyama, Phys. Rev. B, 5, No. 8: 2872 (1972)."
+			},
+			{
+				"doi": "10.1002/mawe.201100729",
+				"or":  "E. G. Len, I. M. Melnyk, S. P. Repetsky, V. V. Lizunov, and V. A. Tatarenko, Materialwissenschaft und Werkstofftechnik (Materials Science and Engineering Technology), 42, No. 1: 47 (2011).",
+				"tr":  "E. G. Len, I. M. Melnyk, S. P. Repetsky, V. V. Lizunov, and V. A. Tatarenko, Materialwissenschaft und Werkstofftechnik (Materials Science and Engineering Technology), 42, No. 1: 47 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "С. П. Репецкий, Т. Д. Шатний, Т. С. Лень, Е. Г. Лень, Физ. мет. металло¬вед., 93, № 3: 9 (2002).",
+				"tr":  "S. P. Repetsky, T. D. Shatnij, T. S. Len, and E. G. Len, Fiz. Met. Metalloved., 93, No. 3: 9 (2002) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.47.9208",
+				"or":  "A. N. Andriotis, E. N. Economou, L. Qiming, and C. M. Soukoulis, Phys. Rev. B, 47, No. 15: 9208 (1993).",
+				"tr":  "A. N. Andriotis, E. N. Economou, L. Qiming, and C. M. Soukoulis, Phys. Rev. B, 47, No. 15: 9208 (1993)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.18.3946",
+				"or":  "E. N. Economou, C. T. White, and R. R. DeMarco, Phys. Rev. B, 18, No. 8: 3946 (1978).",
+				"tr":  "E. N. Economou, C. T. White, and R. R. DeMarco, Phys. Rev. B, 18, No. 8: 3946 (1978)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.18.3959",
+				"or":  "C. T. White and E. N. Economou, Phys. Rev. B, 18, No. 8: 3959 (1978).",
+				"tr":  "C. T. White and E. N. Economou, Phys. Rev. B, 18, No. 8: 3959 (1978)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.18.3968",
+				"or":  "R. R. DeMarco, E. N. Economou, and C. T. White, Phys. Rev. B, 18, No. 8: 3968 (1978).",
+				"tr":  "R. R. DeMarco, E. N. Economou, and C. T. White, Phys. Rev. B, 18, No. 8: 3968 (1978)."
+			},
+			{
+				"doi": "10.1016/0038-1098(81)91108-X",
+				"or":  "A. N. Andriotis, P. N. Poulopoulos, and E. N. Economou, Solid State Communications, 39: 1175 (1981).",
+				"tr":  "A. N. Andriotis, P. N. Poulopoulos, and E. N. Economou, Solid State Communications, 39: 1175 (1981)."
+			},
+			{
+				"doi": "10.1088/0953-8984/5/26/021",
+				"or":  "A. N. Andriotis, E. N. Economou, and C. M. Soukoulis, J. Phys.: Condens. Matter., 5, No. 26: 4505 (1993).",
+				"tr":  "A. N. Andriotis, E. N. Economou, and C. M. Soukoulis, J. Phys.: Condens. Matter., 5, No. 26: 4505 (1993)."
+			}
+		]
+	}
+}

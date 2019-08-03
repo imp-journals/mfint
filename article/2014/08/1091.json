@@ -1,0 +1,148 @@
+{
+	"_id":    "MFiNT.36.08.1091",
+	"year":   2014,
+	"volume": 36,
+	"issue":  8,
+	"pages":  [1091,1099],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["28.11.2013","07.07.2014"],
+	"PACS":   "81.05.Bx, 81.07.Bc, 81.07.Wx, 81.20.Ev, 81.30.Kf, 81.30.Mh",
+	"title":   {
+		"ua": "Дослідження мікроструктури матеріалу Cu—Al—Ni з пам’яттю форми, спеченого плазмово-іскровим методом",
+		"en": "Microstructure Investigation of the Spark Plasma Sintered Cu—Al—Ni Shape Memory Material",
+		"ru": "Исследование микроструктуры материала Cu—Al—Ni с памятью формы, спечённого плазменно-искровым методом"
+	},
+	"abstract": {
+		"ua": "Досліджено мікроструктуру компактів Cu—13,0Al—3,9Ni—0,4Ti—0,2Cr ваг.% спечених плазмово-іскровим методом із електроерозійних порошків, виготовлених із мастер-стопу в рідкому арґоні. Перед спіканням порошок відпалювався в атмосфері водню. Спечені зразки мають композитну структуру, що утворена із мікронних і субмікронних сферичних металевих частинок, вбудованих у зв’язувальну матрицю. Остання є результатом відновлення під час відпалу та/або спікання оксиду міді відповідно до схеми CuO → Cu$_{4}$O$_{3}$ → Cu$_{2}$O → Cu$_{8}$O та гідроксидів алюмінію згідно зі схемою гідроксид алюмінію → перехідний окис алюмінію → $\\alpha$-Al$_{2}$O$_{3}$. Встановлено, що основною фазою в металевих частинках є самоузгоджений багатоваріянтний 18R-мартенсит, домінантні дефекти якого є реґулярними дефектами пакування в базовій площині та/або (001)$_{18R}$-мікродвійники. Весь об’єм сферичних наночастинок займає одноваріянтний 18R-мартенсит; при цьому дефекти пакування в базовій площині та/або (001)$_{18R}$-мікродвійники мають різні товщини.",
+		"en": "The microstructure of Cu—13.0Al—3.9Ni—0.4Ti—0.2Cr wt.% compacts sintered by spark plasma method from powders prepared by spark-erosion method in liquid argon from master alloy is investigated. Powder is annealed in H$_{2}$ atmosphere before the spark plasma sintering. SEM and TEM investigations reveal that sintered samples have a composite structure, which consists of the micron and submicron spherical metallic particles embedded into the binder matrix. This matrix seems to be the product of copper oxide reduction according to the scheme CuO → Cu$_{4}$O$_{3}$ → Cu$_{2}$O → Cu$_{8}$O and aluminium hydroxides’ conversion according to the flowchart aluminium hydroxide → transition alumina → $\\alpha$-Al$_{2}$O$_{3}$, during the annealing and/or sintering. TEM study reveals that main phase in metallic particles is self-accommodated 18R martensite. The regular basal plane stacking faults and/or (001)$_{18R}$ microtwins are dominant defects in 18R martensite. 18R martensite of single orientation occupies entire volume of spherical nanoparticles, being the basal plane stacking faults and/or (001)$_{18R}$ microtwins, which have different thicknesses.",
+		"ru": "Исследована микроструктура компактов Cu—13,0Al—3,9Ni—0,4Ti—0,2Cr масс.%, спечённых плазменно-искровым методом из электроэрозионных порошков, изготовленных из мастер-сплава в жидком аргоне. Перед спеканием порошок отжигался в атмосфере водорода. Спечённые образцы имеют композитную структуру, которая состоит из микронных и субмикронных сферических металлических частиц, встроенных в связующую матрицу. Последняя является результатом восстановления при отжиге и/или спекании оксида меди согласно схеме CuO → Cu$_{4}$O$_{3}$ → Cu$_{2}$O → Cu$_{8}$O и гидроксидов алюминия согласно схеме гидроксид алюминия → переходный оксид алюминия → $\\alpha$-Al$_{2}$O$_{3}$. Установлено, что основной фазой в металлических частицах является самосогласованный многовариантный 18R-мартенсит, доминантными дефектами которого являются регулярные дефекты упаковки в базовой плоскости и/или (001)$_{18R}$-микродвойники. Весь объём сферических наночастиц занимает одновариантный 18R-мартенсит; при этом дефекты упаковки в базовой плоскости и/или (001)$_{18R}$-микродвойники имеют разные толщины."
+	},
+	"keywords": {
+		"ua": "18R мартенсит, дефекти пакування в базовій площині, мікродвіники, стопи Cu–Al–Ni, плазмово-іскровий метод, метод електро-іскрової ерозії",
+		"en": "18R martensite, basal plane stacking faults, microtwins, Cu–Al–Ni alloys, spark plasma sintering method, spark-erosion method",
+		"ru": "18R мартенсит, дефекты упаковки в базовой плоскости, микродвийники, сплавы Cu–Al–Ni, плазменно-искровой метод, метод электро-искровой ерозии"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Г. Є. Монастирський", "en": "G. E. Monastyrsky", "ru": "Г. Е. Монастырский"},
+			"OID": [202,1]
+		},
+		{
+			"AID": {"ua": "А. В. Котко", "en": "A. V. Kotko", "ru": "А. В. Котко"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "А. В. Гільчук", "en": "A. V. Gilchuk", "ru": "А. В. Гильчук"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "П. Ошан", "en": "P. Ochin", "ru": "П. Ошан"},
+			"OID": [469]
+		},
+		{
+			"AID": {"ua": "В. І. Коломицев", "en": "V. I. Kolomytsev", "ru": "В. И. Коломыцев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Ю. М. Коваль", "en": "Yu. M. Koval’", "ru": "Ю. Н. Коваль"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 18,
+		"list":  [
+			{
+				"doi": "10.2320/matertrans1960.22.244",
+				"or":  "S. Miyazaki, K. Otsuka, H. Sakamoto, and K. Shimizu, Trans. Jpn. Inst. Met., 4: 244 (1981).",
+				"tr":  "S. Miyazaki, K. Otsuka, H. Sakamoto, and K. Shimizu, Trans. Jpn. Inst. Met., 4: 244 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Miyazaki and K. Otsuka, Shape Memory. Alloys, Precision Machinery and Robotics (Ed. H. Funakubo) (New York: Gordon and Breach: 1987), vol. 1, p. 116.",
+				"tr":  "S. Miyazaki and K. Otsuka, Shape Memory. Alloys, Precision Machinery and Robotics (Ed. H. Funakubo) (New York: Gordon and Breach: 1987), vol. 1, p. 116."
+			},
+			{
+				"doi": "10.2355/isijinternational.29.353",
+				"or":  "S. Miyazaki and K. Otsuka, ISIJ Int., 29: 353 (1989).",
+				"tr":  "S. Miyazaki and K. Otsuka, ISIJ Int., 29: 353 (1989)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2012.02.145",
+				"or":  "R. A. Portier, P. Ochin, A. Pasko, G. E. Monastyrsky, A. V. Gilchuk, V. I. Kolomytsev, and Yu. N. Koval, J. Alloys Compd., 577, Suppl. 1: S472 (2013).",
+				"tr":  "R. A. Portier, P. Ochin, A. Pasko, G. E. Monastyrsky, A. V. Gilchuk, V. I. Kolomytsev, and Yu. N. Koval, J. Alloys Compd., 577, Suppl. 1: S472 (2013)."
+			},
+			{
+				"doi": "10.1063/1.1635973",
+				"or":  "J. Carrey, H. B. Radousky, and A. E. Berkowitz, J. Appl. Phys., 95: 823 (2004).",
+				"tr":  "J. Carrey, H. B. Radousky, and A. E. Berkowitz, J. Appl. Phys., 95: 823 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "G. E. Monastyrsky, P. Ochin, A. V. Gilchuk, V. I. Kolomytsev, and Yu. N. Koval, J. Nano- Electron. Phys., 4: 01007-1 (2012).",
+				"tr":  "G. E. Monastyrsky, P. Ochin, A. V. Gilchuk, V. I. Kolomytsev, and Yu. N. Koval, J. Nano- Electron. Phys., 4: 01007-1 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "M. O’Keeffe and J. O. Bovin, American Mineralogist, 63: 180 (1978).",
+				"tr":  "M. O'Keeffe and J. O. Bovin, American Mineralogist, 63: 180 (1978)."
+			},
+			{
+				"doi": "10.1107/S010876818400269X",
+				"or":  "R. Guan, H. Hashimoto, and K. H. Kuo, Acta Cryst., B40: 560 (1984).",
+				"tr":  "R. Guan, H. Hashimoto, and K. H. Kuo, Acta Cryst., B40: 560 (1984)."
+			},
+			{
+				"doi": "10.1590/S1516-14392000000400003",
+				"or":  "P. S. Santos, H. S. Santos, and S. P. Toledo, Materials Research, 3: 104 (2000).",
+				"tr":  "P. S. Santos, H. S. Santos, and S. P. Toledo, Materials Research, 3: 104 (2000)."
+			},
+			{
+				"doi": "10.1107/S0108270106026850",
+				"or":  "L. Smrcok, V. Langer, and J. Krestan, Acta Crystallogr., C62: i83 (2006).",
+				"tr":  "L. Smrcok, V. Langer, and J. Krestan, Acta Crystallogr., C62: i83 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Guse and H. Saalfeld, Neues Jahrbuch für Mineralogie Monatshefte, 5: 217 (1990).",
+				"tr":  "W. Guse and H. Saalfeld, Neues Jahrbuch für Mineralogie Monatshefte, 5: 217 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Yo. K. Shi, J. Ceram. Soc. Jpn., 84: 610 (1976).",
+				"tr":  "Yo. K. Shi, J. Ceram. Soc. Jpn., 84: 610 (1976)."
+			},
+			{
+				"doi": "10.1016/0022-4596(85)90156-2",
+				"or":  "C. O. Areán and J. S. D. Viñuela, J. Solid State Chem., 60, Iss. 1: 1 (1985).",
+				"tr":  "C. O. Areán and J. S. D. Vi-uela, J. Solid State Chem., 60, Iss. 1: 1 (1985)."
+			},
+			{
+				"doi": "10.1021/ja01638a076",
+				"or":  "M. Hoch and H. L. Johnston, J. Am. Chem. Soc., 76, No. 10: 2560 (1954).",
+				"tr":  "M. Hoch and H. L. Johnston, J. Am. Chem. Soc., 76, No. 10: 2560 (1954)."
+			},
+			{
+				"doi": "",
+				"or":  "Industrial Alumina Chemicals. ACS Monograph 184 (Ed. C. Misra) (Washington, DC: American Chemical Society: 1986), p. 76.",
+				"tr":  "Industrial Alumina Chemicals. ACS Monograph 184 (Ed. C. Misra) (Washington, DC: American Chemical Society: 1986), p. 76."
+			},
+			{
+				"doi": "10.1016/0036-9748(85)90243-1",
+				"or":  "F. Lovey, G. Van Tendeloo, G. Van Landuyt, and S. Amelinckx, Scr. Met., 19, No. 10: 1223 (1985).",
+				"tr":  "F. Lovey, G. Van Tendeloo, G. Van Landuyt, and S. Amelinckx, Scr. Met., 19, No. 10: 1223 (1985)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2003.08.036",
+				"or":  "T. Waitz, V. Kazykhanov, and H. P. Karnthaler, Acta Mater., 52: 137 (2004).",
+				"tr":  "T. Waitz, V. Kazykhanov, and H. P. Karnthaler, Acta Mater., 52: 137 (2004)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2004.08.003",
+				"or":  "T. Waitz and H. P. Karnthaler, Acta Mater., 52: 5461 (2004).",
+				"tr":  "T. Waitz and H. P. Karnthaler, Acta Mater., 52: 5461 (2004)."
+			}
+		]
+	}
+}

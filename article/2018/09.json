@@ -1,0 +1,172 @@
+{
+	"year":   2018,
+	"volume": 40,
+	"issue":  9,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  18,
+			"pages":  [1133,1147],
+			"title": {
+				"ua": "Евристичний модель деформаційної залежности повної інтеґральної інтенсивности динамічної дифракції для діягностики монокристалів з дефектами декількох типів",
+				"en": "Heuristic Model of Deformation Dependence of Total Integrated Intensity of Dynamical Diffraction for Diagnostics of Single Crystals with Defects of Several Types",
+				"ru": "Эвристическая модель деформационной зависимости полной интегральной интенсивности динамической дифракции для диагностики монокристаллов с дефектами нескольких типов"
+			},
+			"autors": {
+				"ua": "В. Б. Молодкін, Г. І. Низкова, В. В. Лізунов, В. В. Молодкін, С. В. Дмітрієв, Л. І. Макаренко, О. С. Кононенко, І. І. Демчик, Н. П. Ірха",
+				"en": "V. B. Molodkin, H. I. Nyzkova, V. V. Lizunov, V. V. Molodkin, S. V. Dmitriev, L. I. Makarenko, O. S. Kononenko, I. I. Demchyk, and N. P. Irkha",
+				"ru": "В. Б. Молодкин, А. И. Низкова, В. В. Лизунов, В. В. Молодкин, С. В. Дмитриев, Л. И. Макаренко, О. С. Кононенко, И. И. Демчик, Н. П. Ирха"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  18,
+			"pages":  [1149,1164],
+			"title": {
+				"ua": "Застосування цифрового аналогу підвищення роздільчої здатности рентґенодифракційного обладнання для дослідження дефектного стану кристалічних матеріялів",
+				"en": "Application of Digital Analog of Increase of Resolving Power of the X-Ray Diffraction Equipment for Characterization of an Imperfect State of Crystalline Materials",
+				"ru": "Применение цифрового аналога повышения разрешающей способности рентгенодифракционного оборудования для исследования дефектного состояния кристаллических материалов"
+			},
+			"autors": {
+				"ua": "Н. М. Роженко, О. М. Григор’єв, В. В. Картузов",
+				"en": "N. M. Rozhenko, O. M. Grigoriev, and V. V. Kartuzov",
+				"ru": "Н. Н. Роженко, О. Н. Григорьев, В. В. Картузов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  18,
+			"pages":  [1165,1171],
+			"title": {
+				"ua": "Реґуляризація однієї умовно некоректно поставленої задачі металургійного вилучення (металів з руд)",
+				"en": "Regularization of One Conditionally Ill-Posed Problem of Extractive Metallurgy",
+				"ru": "Регуляризация одной условно некорректно поставленной задачи металлургического извлечения (металлов из руд)"
+			},
+			"autors": {
+				"ua": "В. І. Большаков, В. М. Волчук, Ю. І. Дубров",
+				"en": "V. I. Bolshakov, V. M. Volchuk, and Yu. I. Dubrov",
+				"ru": "В. И. Большаков, В. Н. Волчук, Ю. И. Дубров"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  18,
+			"pages":  [1173,1184],
+			"title": {
+				"ua": "Дослідження впливу температури на Релейову швидкість надпровідникового матеріялу типу Bi2212 з використанням акустичних методик",
+				"en": "A Study of Temperature Effect on the Rayleigh Velocity of Superconductor Material Type Bi2212 Using Acoustic Techniques",
+				"ru": "Исследование влияния температуры на скорость Рэлея сверхпроводникового материала типа Bi2212 с использованием акустических методик"
+			},
+			"autors": {
+				"ua": "Н. Сайуд, С. Шоуф, А. Будур",
+				"en": "N. Sayoud, S. Chouf, and A. Boudour",
+				"ru": "Н. Сайуд, С. Шоуф, А. Будур"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [1185,1199],
+			"title": {
+				"ua": "Дослідження процесу розшарування твердих розчинів, сформованих ультразвуковим розмелюванням крупнозернистих порошкових сумішей мідь-кобальт і мідь-залізо, та його впливу на їхні структурно-фазовий стан і магнетні властивості",
+				"en": "Investigation of Process of Layering of the Solid Solutions Formed by Ultrasonic Milling of Coarse-Grained Powder Blends of Copper with Cobalt and Copper with Iron, and Its Influence on Their Structure–Phase State and Magnetic Properties",
+				"ru": "Исследование процесса расслоения твёрдых растворов, сформированных ультразвуковым размалыванием крупнозернистых порошковых смесей медь-кобальт и медь-железо, а также его влияния на их структурно-фазовое состояние и магнитные свойства"
+			},
+			"autors": {
+				"ua": "В. М. Надутов, А. О. Перекос, Б. М. Мордюк, В. З. Войнаш, Т. В. Єфімова, В. П. Залуцький, Т. Г. Кабанцев",
+				"en": "V. M. Nadutov, A. O. Perekos, B. M. Mordyuk, V. Z. Voinash, T. V. Efimova, V. P. Zalutskyi, and T. G. Kabantsev",
+				"ru": "В. М. Надутов, А. Е. Перекос, Б. Н. Мордюк, В. З. Войнаш, Т. В. Ефимова, В. П. Залуцкий, Т. Г. Кабанцев"
+			}
+		},		
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [1201,1207],
+			"title": {
+				"ua": "Аналітично розв’язні диференційні рівняння дифузії, що описують ріст проміжних фаз",
+				"en": "Analytically Solvable Differential Diffusion Equations Describing the Intermediate Phase Growth",
+				"ru": "Аналитически разрешимые дифференциальные уравнения диффузии, описывающие рост промежуточных фаз"
+			},
+			"autors": {
+				"ua": "М. В. Ярмоленко",
+				"en": "M. V. Yarmolenko",
+				"ru": "М. В. Ярмоленко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [1209,1220],
+			"title": {
+				"ua": "Магнетна поведінка феромагнетного стопу Fe–Ni–Co–Ti, підданого термомеханічному обробленню",
+				"en": "Magnetic Behaviour of the Ferromagnetic Fe–Ni–Co–Ti Alloy Subjected to Thermomechanical Treatment",
+				"ru": "Магнитное поведение ферромагнитного сплава Fe–Ni–Co–Ti, подвергнутого термомеханической обработке"
+			},
+			"autors": {
+				"ua": "А. М. Тітенко, А. О. Перекос, Л. Д. Демченко, М. Б. Бабанли, М. С. Низамеєв, С. С. Гусейнов",
+				"en": "A. M. Titenko, A. O. Perekos, L. D. Demchenko, M. B. Babanli, M. S. Nizameyev, and S. S. Huseynov",
+				"ru": "А. Н. Титенко, А. Е. Перекос, Л. Д. Демченко, М. Б. Бабанлы, М. С. Низамеев, С. С. Гусейнов"
+			}
+		},		
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [1221,1230],
+			"title": {
+				"ua": "Магнетомеханічні ефекти у пружніх полімерних композитах з феромагнетними порошковими частинками",
+				"en": "Magnetomechanical Effects in the Elastic Polymer Composites Containing Ferromagnetic Powder Particles",
+				"ru": "Магнитомеханические эффекты в упругих полимерных композитах с ферромагнитными порошковыми частицами"
+			},
+			"autors": {
+				"ua": "О. А. Ліхачов, Ю. М. Коваль",
+				"en": "A. A. Likhachev and Yu. N. Koval",
+				"ru": "А. А. Лихачёв, Ю. Н. Коваль"
+			}
+		},		
+		{
+			"type":    1,
+			"rubric":  1,
+			"pages":  [1231,1245],
+			"title": {
+				"ua": "Вплив високих швидкостей охолодження на фазовий склад і фізичні властивості стопів Со–Ве і Сu–Ве",
+				"en": "Influence of High Rates of Cooling on a Phase Composition and Physical Properties of the Co–Be and Cu–Be Alloys",
+				"ru": "Влияние высоких скоростей охлаждения на фазовый состав и физические свойства сплавов Co–Be и Cu–Be"
+			},
+			"autors": {
+				"ua": "В. Ф. Башев, О. І. Кушнерьов, Є. В. Ільченко, С. І. Рябцев, Н. О. Куцева, А. А. Костіна",
+				"en": "V. F. Bashev, O. I. Kushnerov, Ye. V. Il’chenko, S. I. Ryabtsev, N. O. Kutseva, and А. А. Kostina",
+				"ru": "В. Ф. Башев, А. И. Кушнерёв, Е. В. Ильченко, С. И. Рябцев, Н. А. Куцева, А. А. Костина"
+			}
+		},		
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [1247,1256],
+			"title": {
+				"ua": "Вирощування та властивості товстих епітаксійних плівок залізо-ітрійового ґранату",
+				"en": "Growth and Properties of Thick Epitaxial Films of Yttrium–Ferrum Garnet",
+				"ru": "Выращивание и свойства толстых эпитаксиальных плёнок железо-иттриевого граната"
+			},
+			"autors": {
+				"ua": "С. І. Ющук, С. О. Юр’єв, О. Б. Біленька, О. М. Горіна",
+				"en": "S. I. Yushchuk, S. O. Yuryev, O. B. Bilenka, and O. M. Gorina",
+				"ru": "С. И. Ющук, С. А. Юрьев, О. Б. Биленька, Е. М. Горина"
+			}
+		},		
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1257,1271],
+			"title": {
+				"ua": "Моделювання течії газу з твердими частинками в короткому соплі",
+				"en": "Modelling of Gas Flow with Solid Particles in a Short Nozzle",
+				"ru": "Моделирование течения газа с твёрдыми частицами в коротком сопле"
+			},
+			"autors": {
+				"ua": "А. І. Долматов, О. В. Більчук",
+				"en": "A. I. Dolmatov and O. V. Bilchuk",
+				"ru": "А. И. Долматов, А. В. Бильчук"
+			}
+		}		
+	]
+}

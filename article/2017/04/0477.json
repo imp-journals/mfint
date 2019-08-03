@@ -1,0 +1,152 @@
+{
+	"_id":    "MFiNT.39.04.0477",
+	"year":   2017,
+	"volume": 39,
+	"issue":  4,
+	"pages":  [477,490],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["13.12.2016","31.03.2017"],
+	"PACS":   "62.20.mm, 62.20.mt, 75.78.Fg, 81.40.Np, 81.70.Bt, 81.70.Fy, 91.30.Px",
+	"title":   {
+		"ua": "Про концентраційний критерій руйнування",
+		"en": "On the Concentration Criterion of Fracture",
+		"ru": "О концентрационном критерии разрушения"
+	},
+	"abstract": {
+		"ua": "Вивчено кінетику накопичення мікротріщин на різних стадіях циклічного та статичного навантаження маловуглецевої сталі, а також сталей 45 і 12Х18Н9Т у процесі розтягання. Оцінено концентраційний критерій ($k$-параметр), що характеризує початок процесу злиття мікротріщин і формування макротріщини, а також характеристики кумулятивних кривих розподілу мікротріщин по довжині. Показано, що $k$-параметр пов’язаний степеневою залежністю із залишковою довговічністю матеріялу. Розглянуто деякі загальні закономірності процесів взаємодії дефектів, що проявляються при руйнуванні металічних зразків.",
+		"en": "The kinetics of microcracks’ accumulation at various stages of cyclic and static loading of specimens of the low-carbon grade 20, medium-carbon grade 45, and stainless 12Kh18N10T steels is studied. Concentration criterion of fracture ($k$-criterion) characterizing the initiation of process of microcracks’ coalescence and macrocrack formation as well as the characteristics of cumulative microcracks’ distribution over their lengths are estimated. As shown, the $k$-criterion is associated with residual lifetime of a material by means of the power-law dependence. Some general regularities of defect interaction manifesting themselves at fracture of metal specimens are considered.",
+		"ru": "Изучена кинетика накопления микротрещин на различных стадиях циклического и статического нагружения малоуглеродистой стали, а также сталей 45 и 12Х18Н9Т в процессе растяжения. Оценены концентрационный критерий ($k$-параметр), характеризующий начало процесса слияния микротрещин и формирования макротрещины, а также характеристики кумулятивных кривых распределения микротрещин по длине. Показано, что $k$-параметр связан степенной зависимостью с остаточной долговечностью материала. Рассмотрены некоторые общие закономерности процессов взаимодействия дефектов, проявляющиеся при разрушении металлических образцов."
+	},
+	"keywords": {
+		"ua": "концентраційний критерій руйнування, розтягання, накопичення пошкоджень, густина мікротріщин, утома, залишкова довговічність",
+		"en": "concentration criterion of fracture, damage accumulation, tension, microcracks’ density, fatigue, residual lifetime",
+		"ru": "концентрационный критерий разрушения, накопление повреждений, растяжение, плотность микротрещин, усталость, остаточная долговечность"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Л. Р. Ботвіна", "en": "L. R. Botvina", "ru": "Л. Р. Ботвина"},
+			"OID": [433]
+		},
+		{
+			"AID": {"ua": "А. П. Солдатенков", "en": "A. P. Soldatenkov", "ru": "А. П. Солдатенков"},
+			"OID": [433]
+		}
+	],
+	"references": {
+		"count": 22,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "S. N. Zhurkov, V. S. Kuksenko, and A. I. Slutsker, Fizika Tverdogo Tela, 11, No. 1: 296 (1969) (in Russian).",
+				"tr":  "S. N. Zhurkov, V. S. Kuksenko, and A. I. Slutsker, Fizika Tverdogo Tela, 11, No. 1: 296 (1969) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. N. Zhurkov, V. S. Kuksenko, V. A. Petrov, V. N. Savel’ev, and U. S. Sultanov, Fizicheskie Protsessy v Ochagakh Zemletryaseniy [Physical Processes of Earthquake Source] (Eds. M. A. Sadovskiy and V. I. Myachkina) (Moscow: Nauka: 1980), p. 78 (in Russian).",
+				"tr":  "S. N. Zhurkov, V. S. Kuksenko, V. A. Petrov, V. N. Savel'ev, and U. S. Sultanov, Fizicheskie Protsessy v Ochagakh Zemletryaseniy [Physical Processes of Earthquake Source] (Eds. M. A. Sadovskiy and V. I. Myachkina) (Moscow: Nauka: 1980), p. 78 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Panasyuk and B. L. Lozovyy, DAN UkrSSR, No. 11: 1444 (1962) (in Ukrainian).",
+				"tr":  "V. V. Panasyuk and B. L. Lozovyy, DAN UkrSSR, No. 11: 1444 (1962) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Panasyuk, Predel’noe Ravnovesie Khrupkikh Tel s Treshchinami [Limit Equilibrium of Brittle Solids with Cracks] (Kiev: Naukova Dumka: 1968) (in Russian).",
+				"tr":  "V. V. Panasyuk, Predel'noe Ravnovesie Khrupkikh Tel s Treshchinami [Limit Equilibrium of Brittle Solids with Cracks] (Kiev: Naukova Dumka: 1968) (in Russian)."
+			},
+			{
+				"doi": "10.1007/BF00879607",
+				"or":  "T. L. Chelidze, Pure Appl. Geophys., 124, Nos. 4–5: 731 (1986).",
+				"tr":  "T. L. Chelidze, Pure Appl. Geophys., 124, Nos. 4–5: 731 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "V. P. Tamuzh and V. S. Kuksenko, Mikromekhanika Destruktsii Polimernykh Materialov [Micromechanics of Destruction of Polymeric Materials] (Riga: Zinātne: 1978) (in Russian).",
+				"tr":  "V. P. Tamuzh and V. S. Kuksenko, Mikromekhanika Destruktsii Polimernykh Materialov [Micromechanics of Destruction of Polymeric Materials] (Riga: Zinātne: 1978) (in Russian)."
+			},
+			{
+				"doi": "10.1134/S1028334X12090188",
+				"or":  "L. R. Botvina, A. P. Soldatenkov, and M. R. Tyutin, Dokl. Earth Sci., 446, No. 1: 1127 (2012).",
+				"tr":  "L. R. Botvina, A. P. Soldatenkov, and M. R. Tyutin, Dokl. Earth Sci., 446, No. 1: 1127 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "L. R. Botvina, N. A. Zharkova, M. R. Tyutin, A. P. Soldatenkov, Yu. A. Demina, and V. P. Levin, Zavodskaya Laboratoriya. Diagnostika Materialov, 79, No. 5: 46 (2013) (in Russian).",
+				"tr":  "L. R. Botvina, N. A. Zharkova, M. R. Tyutin, A. P. Soldatenkov, Yu. A. Demina, and V. P. Levin, Zavodskaya Laboratoriya. Diagnostika Materialov, 79, No. 5: 46 (2013) (in Russian)."
+			},
+			{
+				"doi": "10.1134/S0036029517010037",
+				"or":  "L. R. Botvina, M. R. Tyutin, T. B. Petersen, V. P. Levin, A. P. Soldatenkov, and Yu. A. Demina, Russian Metallurgy (Metally), 2017, No. 1: 10 (2017).",
+				"tr":  "L. R. Botvina, M. R. Tyutin, T. B. Petersen, V. P. Levin, A. P. Soldatenkov, and Yu. A. Demina, Russian Metallurgy (Metally), 2017, No. 1: 10 (2017)."
+			},
+			{
+				"doi": "10.1111/j.1460-2695.1985.tb01203.x",
+				"or":  "C. M. Suh, R. Yuuki, and H. Kitagawa, Fatigue Fract. Eng. M, 8, No. 2: 193 (1985).",
+				"tr":  "C. M. Suh, R. Yuuki, and H. Kitagawa, Fatigue Fract. Eng. M, 8, No. 2: 193 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "L. R. Botvina, I. M. Rotvayn, V. I. Keylis-Borok, and I. B. Oparina, Doklady RAN, 345, No. 6: 809 (1995) (in Russian).",
+				"tr":  "L. R. Botvina, I. M. Rotvayn, V. I. Keylis-Borok, and I. B. Oparina, Doklady RAN, 345, No. 6: 809 (1995) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. R. Botvina, Razrushenie: Kinetika, Mekhanizmy, Obshchie Zakonomernosti [Fracture: Kinetics, Mechanisms, General Regularities] (Moscow: Nauka: 2008) (in Russian).",
+				"tr":  "L. R. Botvina, Razrushenie: Kinetika, Mekhanizmy, Obshchie Zakonomernosti [Fracture: Kinetics, Mechanisms, General Regularities] (Moscow: Nauka: 2008) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0031-9201(96)03224-4",
+				"or":  "I. Rotwain, V. Keilis-Borok, and L. Botvina, Phys. Earth Planet. In., 101, Nos. 1–2: 61 (1997).",
+				"tr":  "I. Rotwain, V. Keilis-Borok, and L. Botvina, Phys. Earth Planet. In., 101, Nos. 1–2: 61 (1997)."
+			},
+			{
+				"doi": "10.1007/BF02469070",
+				"or":  "L. R. Botvina, I. B. Oparina, and O. V. Novikova, Met. Sci. Heat Treat., 39, Nos. 3–4: 151 (1997).",
+				"tr":  "L. R. Botvina, I. B. Oparina, and O. V. Novikova, Met. Sci. Heat Treat., 39, Nos. 3–4: 151 (1997)."
+			},
+			{
+				"doi": "10.1134/S0020168510140190",
+				"or":  "L. R. Botvina, I. M. Petrova, I. V. Gadolina, V. P. Levin, Yu. A. Demina, A. P. Soldatenkov, and M. P. T’utin, Inorg. Mater., 46, No. 14: 1570 (2010).",
+				"tr":  "L. R. Botvina, I. M. Petrova, I. V. Gadolina, V. P. Levin, Yu. A. Demina, A. P. Soldatenkov, and M. P. T'utin, Inorg. Mater., 46, No. 14: 1570 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "B. Gutenberg and C. F. Richter, Seismicity of the Earth and Associated Phenomena (Princeton, New Jersey: Princeton University Press: 1949).",
+				"tr":  "B. Gutenberg and C. F. Richter, Seismicity of the Earth and Associated Phenomena (Princeton, New Jersey: Princeton University Press: 1949)."
+			},
+			{
+				"doi": "10.1007/BF00877164",
+				"or":  "I. G. Main, S. Peacock, and P. G. Meredith, Pure Appl. Geophys., 133, No. 2: 283 (1990).",
+				"tr":  "I. G. Main, S. Peacock, and P. G. Meredith, Pure Appl. Geophys., 133, No. 2: 283 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "G. A. Sobolev and A. V. Ponomarev, Fizika Zemletryaseniy i Predvestniki [Physics of Earthquakes and Precursors] (Moscow: Nauka: 2003) (in Russian).",
+				"tr":  "G. A. Sobolev and A. V. Ponomarev, Fizika Zemletryaseniy i Predvestniki [Physics of Earthquakes and Precursors] (Moscow: Nauka: 2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. N. Kolmogorov, DAN USSR, 31, No. 2: 99 (1941) (in Russian).",
+				"tr":  "A. N. Kolmogorov, DAN USSR, 31, No. 2: 99 (1941) (in Russian)."
+			},
+			{
+				"doi": "10.1007/PL00001079",
+				"or":  "J. B. Rundle, W. Klein, D. L. Turcotte, and B. D. Malamud, Pure Appl. Geophys., 157, No. 11: 2165 (2000).",
+				"tr":  "J. B. Rundle, W. Klein, D. L. Turcotte, and B. D. Malamud, Pure Appl. Geophys., 157, No. 11: 2165 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Galkin, Analiz Matematicheskikh Modeley: Sistemy Zakonov Sokhraneniya, Uravneniya Boltsmana i Smolukhovskogo [Analysis of Mathematical Models: Set of Conservation Laws, the Boltzmann and Smoluchowski Equations) (Moscow: BINOM, Laboratoriya Znaniy: 2011) (in Russian).",
+				"tr":  "V. A. Galkin, Analiz Matematicheskikh Modeley: Sistemy Zakonov Sokhraneniya, Uravneniya Boltsmana i Smolukhovskogo [Analysis of Mathematical Models: Set of Conservation Laws, the Boltzmann and Smoluchowski Equations) (Moscow: BINOM, Laboratoriya Znaniy: 2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. V. Shevchenko, Nanosistemi, Nanomateriali, Nanotehnologii, 13, No. 2: 371 (2015) (in Russian).",
+				"tr":  "S. V. Shevchenko, Nanosistemi, Nanomateriali, Nanotehnologii, 13, No. 2: 371 (2015) (in Russian)."
+			}
+		]
+	}
+}

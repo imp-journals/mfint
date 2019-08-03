@@ -1,0 +1,128 @@
+{
+	"_id":    "MFiNT.40.07.0919",
+	"year":   2018,
+	"volume": 40,
+	"issue":  7,
+	"pages":  [919,930],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["30.01.2018"],
+	"PACS":   "61.80.Jh, 68.49.Sf, 71.45.Gm, 73.20.Mf, 79.20.Hx, 79.20.Uv, 82.80.Pv",
+	"title":   {
+		"ua": "Плазмонна спектроскопія поверхні плівок перехідних металів після низькоенергетичного йонного впливу",
+		"en": "Plasmon Spectroscopy of a Surface of the Transition Metal Films after Low-Energy Ion Action",
+		"ru": "Плазмонная спектроскопия поверхности плёнок переходных металлов после низкоэнергетического ионного воздействия"
+	},
+	"abstract": {
+		"ua": "Вперше плазмонну спектроскопію застосовано для аналізи поверхні нанорозмірних плівок перехідних металів. Досліджувалися моно- та багатошарові системи, одержані електронно-променевою методою осадження в надвисокому вакуумі у 10$^{-7}$ Па. Зразки опромінювалися йонами Аr$^{+}$ з густиною струму у 5 мкА/см$^2$ й енергією у 600 еВ за доз у 2$\\cdot10^{17}$ і 12$\\cdot10^{17}$ йон/см$^2$ та витримувалися в атмосфері атомарно чистого кисню впродовж 24 годин. Розраховано усереднені значення енергії поверхневих ($Е_{\\textrm{s}}$) і об’ємних ($E_{\\textrm{b}}$) плазмонів та їх відношення $E_{\\textrm{b}}/Е_{\\textrm{s}}$, концентрацію електронів провідности, що беруть участь у плазмових коливаннях, а також відносну зміну міжплощинної відстані. Низькоенергетичний йонний вплив істотно поліпшує фізико-хемічний стан поверхні зразків, оскільки $Е_{\\textrm{s}}$ збільшується зі зростанням $E_{\\textrm{b}}$. Витримка у кисні після йонного бомбардування нівелює зміни концентрації електронів провідности та зменшує прояв ефекту поверхневої релаксації до $\\cong$ 6 разів.",
+		"en": "Plasmon spectroscopy is first used to analyse the nanoscale-films’ surface of the transition metals. A detailed analysis of the plasmon energy loss spectra of primary electrons in the 50–600 eV range is carried out for surface layers of the nanoscale multilayer thin-film Ni(25 nm)/Cu(25 nm)/Cr(25 nm)/Si(001), Ni(25 nm)/Cu(25 nm)/V(25 nm)/Si(001) and V(25 nm)/Si(001) systems bombarded with low-energy Ar$^{+}$ ions and then held in a pure oxygen atmosphere. The mono- and multilayer systems obtained by the electron-beam deposition method in an ultrahigh vacuum of 10$^{-7}$ Pa are investigated. The samples are irradiated with Ar$^{+}$ ions with a current density of 5 $\\mu$A/cm$^2$ and energy of 600 eV at doses of 2$\\cdot10^{17}$ and 12$\\cdot10^{17}$ ion/cm$^2$ and are kept in an atmosphere of atomically pure oxygen for 24 hours. The averaged values of energies of the surface ($E_{\\textrm{s}}$) and bulk ($E_{\\textrm{b}}$) plasmons, and their ratio $E_{\\textrm{b}}/E_{\\textrm{s}}$, the concentration of the conduction electrons participating in plasma oscillations, and the relative change in interplanar distances are calculated. The peaks of the surface and bulk plasmons observed in the nickel spectrum are localized at lower loss energies than they follow from the model of a homogeneous isotropic plasma of the set of the $s$ and $d$ electrons in accordance with the classical theory of collective excitations in a solid. The concentration of the conduction electrons is substantially reduced. In the case of vanadium, the maximum number of valence electrons participates in collective excitations. The concentration of such electrons is most strongly reduced for the surface that may be due to the structural features of the surface layers. After ion bombardment, the electron concentration decreases noticeably, probably because of formation of the radiation defects and due to the ‘expansion’-type relaxation of the crystal lattice for nickel or the ‘compression’-type relaxation for vanadium.",
+		"ru": "Впервые плазмонная спектроскопия применена для анализа поверхности наноразмерных плёнок переходных металлов. Исследовались моно- и многослойные системы, полученные электронно-лучевым методом осаждения в сверхвысоком вакууме 10$^{-7}$ Па. Образцы облучались ионами Аr$^{+}$ с плотностью тока 5 мкА/см$^2$ и энергией 600 эВ при дозах 2$\\cdot10^{17}$ и 12$\\cdot10^{17}$ ион/см$^2$ и выдерживались в атмосфере атомарно чистого кислорода в течение 24 часов. Рассчитаны усреднённые значения энергии поверхностных ($E_{\\textrm{s}}$) и объёмных ($E_{\\textrm{b}}$) плазмонов и их отношение $E_{\\textrm{b}}/E_{\\textrm{s}}$, концентрация электронов проводимости, участвующих в плазменных колебаниях, а также относительное изменение межплоскостных расстояний. Низкоэнергетическое ионное воздействие существенно улучшает физико-химическое состояние поверхности образцов, поскольку $E_{\\textrm{s}}$ увеличивается с ростом $E_{\\textrm{b}}$. Выдержка в кислороде после ионной бомбардировки нивелирует изменения концентрации электронов проводимости и уменьшает проявление эффекта поверхностной релаксации в $\\cong$ 6 раз."
+	},
+	"keywords": {
+		"ua": "поверхня, плазмони, нанорозмірні плівки, йонне опромінення, перехідні метали, вторинна електронна емісія",
+		"en": "surface, plasmons, nanoscale films, ion irradiation, transition metals, secondary electron emission",
+		"ru": "поверхность, плазмоны, наноразмерные плёнки, ионное облучение, переходные металлы, вторичная электронная эмиссия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. О. Васильєв", "en": "M. O. Vasylyev", "ru": "М. А. Васильев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. М. Колесник", "en": "V. M. Kolesnik", "ru": "В. Н. Колесник"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. І. Сидоренко", "en": "S. I. Sidorenko", "ru": "С. И. Сидоренко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "С. М. Волошко", "en": "S. М. Voloshko", "ru": "С. М. Волошко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "В. В. Янчук", "en": "V. V. Yanchuk", "ru": "В. В. Янчук"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "А. К. Орлов", "en": "A. K. Orlov", "ru": "А. К. Орлов"},
+			"OID": [202]
+		}
+	],
+	"references": {
+		"count": 14,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "В. Т. Черепин, М. А. Васильев, Методы и приборы для анализа поверхности материалов: Справочник (Киев: Наукова думка: 1982).",
+				"tr":  "V. T. Cherepin and M. A. Vasil'ev, Metody i Pribory dlya Analiza Poverkhnosti Materialov: Spravochnik [Methods and Instruments for Surface Analysis of Materials: Handbook] (Kiev: Naukova Dumka: 1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, М. А. Васильев, В. А. Тиньков, Металлофиз. новейшие технол., 26: 765 (2004).",
+				"tr":  "A. P. Shpak, M. A. Vasil'ev, and V. A. Tin'kov, Metallofiz. Noveishie Tekhnol., 26: 765 (2004) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.vacuum.2004.12.009",
+				"or":  "M. A. Vasylyev, S. P. Chenakin, and V. A. Tinkov, Vacuum, 78: 19 (2005).",
+				"tr":  "M. A. Vasylyev, S. P. Chenakin, and V. A. Tinkov, Vacuum, 78: 19 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Raether, Excitation of Plasmons and Interband Transition by Electrons (Berlin: Springer Verlag: 1980).",
+				"tr":  "H. Raether, Excitation of Plasmons and Interband Transition by Electrons (Berlin: Springer Verlag: 1980)."
+			},
+			{
+				"doi": "10.1021/acs.chemrev.7b00354",
+				"or":  "Y. Wu, G. Li, and J. P. Camden, Chem. Rev., 118: 2994 (2017).",
+				"tr":  "Y. Wu, G. Li, and J. P. Camden, Chem. Rev., 118: 2994 (2017)."
+			},
+			{
+				"doi": "10.15407/ufm.17.03.209",
+				"or":  "M. O. Vasylyev, S. I. Sidorenko, S. M. Voloshko, and T. Ishikawa, Успехи физики металлов, 17: 209 (2016).",
+				"tr":  "M. O. Vasylyev, S. I. Sidorenko, S. M. Voloshko, and T. Ishikawa, Uspehi Fiziki Metallov, 17: 209 (2016)."
+			},
+			{
+				"doi": "10.1016/j.vacuum.2010.10.008",
+				"or":  "V. A. Tinkov, M. A. Vasylyev, and G. G. Galstyan, Vacuum, 85: 677 (2011).",
+				"tr":  "V. A. Tinkov, M. A. Vasylyev, and G. G. Galstyan, Vacuum, 85: 677 (2011)."
+			},
+			{
+				"doi": "10.1016/0042-207X(87)90261-2",
+				"or":  "M. A. Vasil’ev and S. D. Gorodetsky, Vacuum, 37: 723 (1987).",
+				"tr":  "M. A. Vasil'ev and S. D. Gorodetsky, Vacuum, 37: 723 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Pines, Elementary Excitation in Solids (New York: Benjamin Press: 1963).",
+				"tr":  "D. Pines, Elementary Excitation in Solids (New York: Benjamin Press: 1963)."
+			},
+			{
+				"doi": "10.15407/ufm.07.02.117",
+				"or":  "В. А. Тиньков, Успехи физики металлов, 7: 117 (2006).",
+				"tr":  "V. A. Tin'kov, Uspehi Fiziki Metallov, 7: 117 (2006) (in Russian)."
+			},
+			{
+				"doi": "10.1142/S0218625X08011809",
+				"or":  "M. A. Vasylyev and V. A. Tinkov, Surf. Rev. Lett., 15: 635 (2008).",
+				"tr":  "M. A. Vasylyev and V. A. Tinkov, Surf. Rev. Lett., 15: 635 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Корсуков, А. С. Лукьяненок, В. Н. Светлов, Поверхность. Физика, химия, механика, № 11: 28 (1983).",
+				"tr":  "V. E. Korsukov, A. S. Luk'yanenok, and V. N. Svetlov, Poverkhnost'. Fizika, Khimiya, Mekhanika, No. 11: 28 (1983) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.ultramic.2015.11.012",
+				"or":  "C. Colliex, M. Kociak, and O. Stéphan, Ultramicroscopy, 162: A1 (2016).",
+				"tr":  "C. Colliex, M. Kociak, and O. Stéphan, Ultramicroscopy, 162: A1 (2016)."
+			},
+			{
+				"doi": "10.1016/j.ultramic.2017.01.006",
+				"or":  "Yo. Fujiyoshi, T. Nemoto, and H. Kurata, Ultramicroscopy, 175: 116 (2017).",
+				"tr":  "Yo. Fujiyoshi, T. Nemoto, and H. Kurata, Ultramicroscopy, 175: 116 (2017)."
+			}
+		]
+	}
+}

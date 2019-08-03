@@ -1,0 +1,212 @@
+{
+	"_id":    "MFiNT.39.03.0323",
+	"year":   2017,
+	"volume": 39,
+	"issue":  3,
+	"pages":  [323,335],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["28.07.2017"],
+	"PACS":   "64.70.kd, 75.50.Cc, 75.50.Tt, 75.50.Vv, 75.50.Ww, 81.07.Bc, 81.70.Pg",
+	"title":   {
+		"ua": "Вплив заміни Кобальту Ванадієм на умови взаємодії у системі Sm$_{2}$(Co,V)$_{17}$–H$_{2}$",
+		"en": "Influence of Substitution of Cobalt for the Vanadium on Interaction Conditions in Sm$_{2}$(Co,V)$_{17}$–H$_{2}$ System",
+		"ru": "Влияние замены кобальта на ванадий на условия взаимодействия в системе Sm$_{2}$(Co,V)$_{17}$–H$_{2}$"
+	},
+	"abstract": {
+		"ua": "Методами диференційної термічної та Рентґенової фазової аналіз досліджено фазові перетворення у стопах Sm$_{2}$Co$_{16,81}$V$_{0,19}$, Sm$_{2}$Co$_{16,43}$V$_{0,57}$ та Sm$_{1,66}$Co$_{16,77}$V$_{0,57}$ під час звичайного та солід-гідрування, диспропорціонування (ГД) за тиску водню у 1,5–4,2 МПа та температури до 950°C. Встановлено, що заміна частини Кобальту на Ванадій сповільнює ініційовані воднем фазові перетворення. Феромагнетна фаза зі структурою типу Th$_{2}$Zn$_{17}$ під тиском водню у 3,0 МПа і за температури у 700°C за умов звичайного ГД починає диспропорціонувати, а за умов солід-ГД — повністю диспропорціонує впродовж 1 год на SmH$_{2\\pm x}$ та дві поліморфні модифікації кобальту: ht-Co і rt-Co.",
+		"en": "Phase transformations in the Sm$_{2}$Co$_{16.81}$V$_{0.19}$, Sm$_{2}$Co$_{16.43}$V$_{0.57}$ and Sm$_{1.66}$Co$_{16.77}$V$_{0.57}$ alloys are investigated by means of the differential thermal and X-ray phase analyses during conventional and solid hydrogenation, disproportionation (HD) treatment under hydrogen pressure of 1.5–4.2 МPа and temperature up to 950°C. The slowdown of hydrogen-induced phase transformations due to partial substitution of cobalt for the vanadium is determined. The ferromagnetic phase with the Th$_{2}$Zn$_{17}$-type structure starts to disproportionate during conventional HD and disproportionates completely on SmH$_{2\\pm x}$ and two polymorphic cobalt structures (ht-Co and rt-Co) during solid HD with 1 h treatment under hydrogen pressure of 3.0 MPa at 700°C.",
+		"ru": "Методами дифференциального термического и рентгеновского фазового анализов исследованы фазовые превращения в сплавах Sm$_{2}$Co$_{16,81}$V$_{0,19}$, Sm$_{2}$Co$_{16,43}$V$_{0,57}$ и Sm$_{1,66}$Co$_{16,77}$V$_{0,57}$ при обычном и солид-гидрировании, диспропорционировании (ГД) под давлением водорода 1,5–4,2 МПа и при температуре до 950°C. Установлено, что замещение части кобальта на ванадий замедляет инициированные водородом фазовые превращения. Ферромагнитная фаза со структурой типа Th$_{2}$Zn$_{17}$ под давлением водорода 3,0 МПа и при температуре 700°C во время обычного ГД начинает диспропорционировать, а во время солид-ГД в течение 1 ч полностью диспропорционирует на SmH$_{2\\pm x}$ и две полиморфные модификации кобальта: ht-Co и rt-Co."
+	},
+	"keywords": {
+		"ua": "магнетні матеріяли, стопи Sm$_{2}$Co$_{17}$, Ванадій, леґування, гідрування, диспропорціонування, фазові перетворення",
+		"en": "magnetic materials, Sm$_{2}$Co$_{17}$-based alloys, vanadium, alloying, hydrogenation, disproportionation, phase transformations",
+		"ru": "магнитные материалы, сплавы Sm$_{2}$Co$_{17}$, ванадий, легирование, гидрирование, диспропорционирование, фазовые превращения"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. І. Булик", "en": "I. I. Bulyk", "ru": "И. И. Булык"},
+			"OID": [6]
+		},
+		{
+			"AID": {"ua": "М. В. Пилат", "en": "M. V. Pylat", "ru": "М. В. Пылат"},
+			"OID": [6]
+		}
+	],
+	"references": {
+		"count": 34,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Nanoscale Magnetic Materials and Applications (Eds. J. Ping Liu, E. Fullerton, O. Gutfleisch, and D. J. Sellmyer) (New York: Springer Science+Business Media: 2009).",
+				"tr":  "Nanoscale Magnetic Materials and Applications (Eds. J. Ping Liu, E. Fullerton, O. Gutfleisch, and D. J. Sellmyer) (New York: Springer Science+Business Media: 2009)."
+			},
+			{
+				"doi": "10.1088/0022-3727/46/4/043001",
+				"or":  "N. Poudyal and J. P. Liu, J. Phys. D: Appl. Phys., 46: 043001 (2013).",
+				"tr":  "N. Poudyal and J. P. Liu, J. Phys. D: Appl. Phys., 46: 043001 (2013)."
+			},
+			{
+				"doi": "10.1002/adma.201002180",
+				"or":  "O. Gutfleisch, M. A. Willard, E. Brück, C. H. Chen, S. G. Sankar, and J. Ping Liu, Adv. Mater., 23: 821 (2011).",
+				"tr":  "O. Gutfleisch, M. A. Willard, E. Brück, C. H. Chen, S. G. Sankar, and J. Ping Liu, Adv. Mater., 23: 821 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "N. Cannesan and I. R. Harris, Bonded Magnets, NATO Science Series: II. Mathematics, Physics and Chemistry (Ed. G. C. Hadjipanayis) (2002), vol. 118, p. 13.",
+				"tr":  "N. Cannesan and I. R. Harris, Bonded Magnets, NATO Science Series: II. Mathematics, Physics and Chemistry (Ed. G. C. Hadjipanayis) (2002), vol. 118, p. 13."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2015.10.077",
+				"or":  "R. S. Sheridan, I. R. Harris, and A. Walton, J. Magn. Magn. Mater., 401: 455 (2016).",
+				"tr":  "R. S. Sheridan, I. R. Harris, and A. Walton, J. Magn. Magn. Mater., 401: 455 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "І. І. Булик, В. В. Панасюк, Фізико-хімічна механіка матеріалів, 48, № 1: 9 (2012).",
+				"tr":  "I. I. Bulyk and V. V. Panasyuk, Physicochemical Mechanics of Materials, 48, No. 1: 9 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Булык, В. Н. Варюхин, В. Ю. Таренков, В. В. Бурховецкий, С. Л. Сидоров, Физика и техника высоких давлений, 23, № 4: 67 (2013).",
+				"tr":  "I. I. Bulyk, V. N. Varyukhin, V. Yu. Tarenkov, V. V. Burkhovetskiy, and S. L. Sidorov, Fizika i Tekhnika Vysokikh Davleniy, 23, No. 4: 67 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "І. І. Булик, В. В. Бурховецький, Порошковая металлургия, 54, № 9/10: 134 (2015).",
+				"tr":  "I. I. Bulyk and V. V. Burkhovets'kyy, Poroshkovaya Metallurgiya, 54, Nos. 9/10: 134 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2007.09.062",
+				"or":  "K. Suresh, R. Gopalan, G. Bhikshamaiah, A. K. Singh, D. V. Sridhara Rao, K. Muraleedharan, and V. Chandrasekaran, J. Alloy Compd., 463: 73 (2008).",
+				"tr":  "K. Suresh, R. Gopalan, G. Bhikshamaiah, A. K. Singh, D. V. Sridhara Rao, K. Muraleedharan, and V. Chandrasekaran, J. Alloy Compd., 463: 73 (2008)."
+			},
+			{
+				"doi": "10.1016/j.intermet.2010.07.010",
+				"or":  "K. Suresh, R. Gopalan, D. V. Sridhara Rao, A. K. Singh, G. Bhikshamaiah, K. Muraleedharan, and V. Chandrasekaran, Intermetallics, 18: 2244 (2010).",
+				"tr":  "K. Suresh, R. Gopalan, D. V. Sridhara Rao, A. K. Singh, G. Bhikshamaiah, K. Muraleedharan, and V. Chandrasekaran, Intermetallics, 18: 2244 (2010)."
+			},
+			{
+				"doi": "10.1016/j.matchar.2010.09.002",
+				"or":  "H. Zaigham and F. A. Khalid, Materials Characterization, 61: 1274 (2010).",
+				"tr":  "H. Zaigham and F. A. Khalid, Materials Characterization, 61: 1274 (2010)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2005.03.050",
+				"or":  "R. Gopalan, T. Ohkubo, and K. Hono, Scr. Mater., 53: 367 (2005).",
+				"tr":  "R. Gopalan, T. Ohkubo, and K. Hono, Scr. Mater., 53: 367 (2005)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2006.07.052",
+				"or":  "K. Suresh, R. Gopalan, A. K. Singh, G. Bhikshamaiah, V. Chandrasekaran, and K. Hono, J. Alloy Compd., 436: 358 (2007).",
+				"tr":  "K. Suresh, R. Gopalan, A. K. Singh, G. Bhikshamaiah, V. Chandrasekaran, and K. Hono, J. Alloy Compd., 436: 358 (2007)."
+			},
+			{
+				"doi": "10.1016/j.commatsci.2010.10.019",
+				"or":  "X. B. Liu and Z. Altounian, Comput. Mater. Sci., 50: 841 (2011).",
+				"tr":  "X. B. Liu and Z. Altounian, Comput. Mater. Sci., 50: 841 (2011)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2003.12.899",
+				"or":  "Y. Zhang, A. Gabay, Y. Wang, and G. C. Hadjipanayis, J. Magn. Magn. Mater., 272: e1899 (2004).",
+				"tr":  "Y. Zhang, A. Gabay, Y. Wang, and G. C. Hadjipanayis, J. Magn. Magn. Mater., 272: e1899 (2004)."
+			},
+			{
+				"doi": "10.1109/TMAG.2004.829829",
+				"or":  "J. Zhou, A. Kashyap, Y. Liu, R. Skomski, and D. J. Sellmyer, IEEE Trans. Magn., 40, No. 4: 2940 (2004).",
+				"tr":  "J. Zhou, A. Kashyap, Y. Liu, R. Skomski, and D. J. Sellmyer, IEEE Trans. Magn., 40, No. 4: 2940 (2004)."
+			},
+			{
+				"doi": "10.1063/1.1792791",
+				"or":  "R. F. Sabirianov, A. Kashyap, R. Skomski, S. S. Jaswal, and D. J. Sellmyer, Appl. Phys. Lett., 85, No. 12: 2286 (2008).",
+				"tr":  "R. F. Sabirianov, A. Kashyap, R. Skomski, S. S. Jaswal, and D. J. Sellmyer, Appl. Phys. Lett., 85, No. 12: 2286 (2008)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2006.03.007",
+				"or":  "A. A. Kündig, R. Gopalan, T. Ohkubo, and K. Hono, Scr. Mater., 54: 2047 (2006).",
+				"tr":  "A. A. Kündig, R. Gopalan, T. Ohkubo, and K. Hono, Scr. Mater., 54: 2047 (2006)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2008.01.042",
+				"or":  "Z. Yao, Q. Xu, and C. Jiang, J. Magn. Magn. Mater., 320: 1717 (2008).",
+				"tr":  "Z. Yao, Q. Xu, and C. Jiang, J. Magn. Magn. Mater., 320: 1717 (2008)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2013.09.183",
+				"or":  "T. Saito and D. Nishio-Hamane, J. Alloys Compd., 585: 423 (2014).",
+				"tr":  "T. Saito and D. Nishio-Hamane, J. Alloys Compd., 585: 423 (2014)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2006.07.017",
+				"or":  "J. Zhang, Y. K. Takahashi, R. Gopalan, and K. Hono, J. Magn. Magn. Mater., 310: 1 (2007).",
+				"tr":  "J. Zhang, Y. K. Takahashi, R. Gopalan, and K. Hono, J. Magn. Magn. Mater., 310: 1 (2007)."
+			},
+			{
+				"doi": "10.1063/1.330862",
+				"or":  "M. V. Satyanarayana, H. Fujii, and W. E. Wallace, J. Appl. Phys., 53: 2374 (1982).",
+				"tr":  "M. V. Satyanarayana, H. Fujii, and W. E. Wallace, J. Appl. Phys., 53: 2374 (1982)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2009.12.069",
+				"or":  "R. S. K. Valiveti, A. Ingmire, C. Baudot, and J. E. Shield, J. Alloys Compd., 493: 95 (2010).",
+				"tr":  "R. S. K. Valiveti, A. Ingmire, C. Baudot, and J. E. Shield, J. Alloys Compd., 493: 95 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "І. І. Булик, Р. В. Денис, В. В. Панасюк, Ю. Г. Путілов, А. М. Тростянчин, Фіз.-хім. механіка матеріалів, 37, № 4: 15 (2001).",
+				"tr":  "I. I. Bulyk, R. V. Denys, V. V. Panasyuk, Yu. H. Putilov, and A. M. Trostianchyn, Fiz.-Khim. Mekhanika Materialiv, 37, No. 4: 15 (2001) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "І. І. Булик, Ю. Б. Басараба, А. М. Тростянчин, В. М. Давидов, Фіз.-хім. механіка матеріалів, 41, № 3: 101 (2005).",
+				"tr":  "I. I. Bulyk, Yu. B. Basaraba, A. M. Trostianchyn, and V. M. Davydov, Fiz.-Khim. Mekhanika Materialiv, 41, No. 3: 101 (2005) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "І. І. Булик, П. Я. Лютий, Металлофиз. новейшие технол., 35, № 9: 1283 (2013).",
+				"tr":  "I. I. Bulyk and P. Ya. Lyutyy, Metallofiz. Noveishie Tekhnol., 35, No. 9: 1283 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "http://www.ccp14.ac.uk",
+				"tr":  "http://www.ccp14.ac.uk"
+			},
+			{
+				"doi": "",
+				"or":  "http://www.ill.eu/sites/fullprof",
+				"tr":  "http://www.ill.eu/sites/fullprof"
+			},
+			{
+				"doi": "10.1088/0022-3727/29/9/006",
+				"or":  "O. Gutfleisch and I. R. Harris, J. Phys. D: Appl. Phys., 29: 2255 (1996).",
+				"tr":  "O. Gutfleisch and I. R. Harris, J. Phys. D: Appl. Phys., 29: 2255 (1996)."
+			},
+			{
+				"doi": "10.1016/S0304-8853(98)00379-5",
+				"or":  "A. Handstein, M. Kubis, O. Gutfleisch, B. Gebel, and K.-H. Muller, J. Magn. Magn. Mater., 192: 73 (1999).",
+				"tr":  "A. Handstein, M. Kubis, O. Gutfleisch, B. Gebel, and K.-H. Muller, J. Magn. Magn. Mater., 192: 73 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "І. І. Булик, А. М. Тростянчин, П. Я. Лютий, Фіз.-хім. механіка матеріалів, 48, № 3: 53 (2012).",
+				"tr":  "I. I. Bulyk, A. M. Trostianchyn, and P. Ya. Lyutyy, Fiz.-Khim. Mekhanika Materialiv, 48, No. 3: 53 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/mfint.38.05.0697",
+				"or":  "І. І. Булик, М. В. Пилат, Металлофиз. новейшие технол., 38, № 5: 697 (2016).",
+				"tr":  "I. I. Bulyk and M. V. Pylat, Metallofiz. Noveishie Tekhnol., 38, No. 5: 697 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "І. І. Булик, П. Я. Лютий, А. М. Тростянчин, Металлофиз. новейшие технол., 33, № 6: 807 (2011).",
+				"tr":  "I. I. Bulyk, P. Ya. Lyutyy, and A. M. Trostianchyn, Metallofiz. Noveishie Tekhnol., 33, No. 6: 807 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "І. І. Булик, А. М. Тростянчин, П. Я. Лютий, В. В. Бурховецький, Порошковая металлургия, 52, № 9/10: 56 (2013).",
+				"tr":  "I. I. Bulyk, A. M. Trostianchyn, P. Ya. Lyutyy, and V. V. Burkhovetskyi, Poroshkovaya Metallurgiya, 52, Nos. 9/10: 56 (2013) (in Ukrainian)."
+			}
+		]
+	}
+}

@@ -1,0 +1,146 @@
+{
+	"_id":    "MFiNT.36.12.1701",
+	"year":   2014,
+	"volume": 36,
+	"issue":  12,
+	"pages":  [1701,1710],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["25.03.2014","15.09.2014"],
+	"PACS":   "61.72.Hh, 62.20.fk, 62.20.mj, 81.20.Wk, 81.40.Lm, 81.40.Np, 81.40.Vw",
+	"title":   {
+		"ua": "Воднева крихкість та воднева пластичність сталі",
+		"en": "Hydrogen Brittleness and Hydrogen Plasticity of Steel",
+		"ru": "Водородная хрупкость и водородная пластичность стали"
+	},
+	"abstract": {
+		"ua": "У роботі було виділено низку проблем, розв’язання яких уможливлює просунутися в питанні про механізм впливу водню на фізико-хемічні та механічні властивості твердих тіл. Серед них найбільш важлива – виявлення впливу різних форм водню на перебіг процесів від пружньої та пластичної деформації до різних видів крихкого руйнування. У природі водень може знаходитися в молекулярному, атомарному та йонному станах. У зв’язку з різними формами стану водню виникає і різноманіття явищ його взаємодії з металом, що деформується. Зазвичай зміни процесу деформації та руйнування стопів заліза відносять на рахунок взаємодії металу з воднем , що знаходиться в атомарному або йонному стані, в той час як водень у молекулярному стані не впливає на ці процеси. Відзначено, що вивчення явищ, які мають місце при взаємодії водню та його активних форм з металом, що деформується, становить інтерес не тільки в зв’язку з механічним обробленням металу, а й для науково-обґрунтованого використання ефекту цієї взаємодії, щоб одержати потрібний позитивний результат для захисту конструкційних металів від небажаних наслідків цих процесів. Представлено результати вивчення мікроструктури поверхні титану після його механічного оброблення різанням у водні й на повітрі та докази пластифікувальної дії водню при механічному обробленні титану. Показано, що водень практично не змінює пружню деформацію, а полегшує перебіг пластичної деформації.",
+		"en": "The paper highlights a number of problems, which can explain a mechanism of the effect of hydrogen on the physicochemical and mechanical properties of solids. Among them, the most important is identification of the impact of various forms of hydrogen on such processes as elastic and plastic deformations and various types of brittle fracture. In nature, the hydrogen can exist in the molecular, atomic, and ionic states. In connection with the various forms of state of hydrogen, diverse phenomena of its interaction with the deformable metal take place. Typically, changes in the processes of deformation and fracture of iron alloys are attributed to the interaction of the metal with hydrogen, which is in the ionic or atomic states, while the hydrogen in a molecular state does not affect these processes. As noted, the study of the phenomena occurring in the interaction of hydrogen and its active forms with deformable metal is of interest not only in connection with metal machining, but also for the use of this interaction in order to achieve the desired positive results in the protection of structural metals against the negative sequences of these processes. The results of investigation of the microstructure of titanium surface after its machining in hydrogen atmosphere and in the air, and the proof of the plasticization effect of hydrogen in titanium machining are presented. As shown, the hydrogen does not substantially change elastic deformation, but facilitates the plastic deformation.",
+		"ru": "В работе был выделен ряд проблем, решение которых даёт возможность продвинуться в вопросе о механизме влияния водорода на физико-химические и механические свойства твёрдых тел. Среди них наиболее важная – выявление влияния различных форм водорода на протекание процессов от упругой и пластической деформации до различных видов хрупкого разрушения. В природе водород может находиться в молекулярном, атомарном и ионном состояниях. В связи с различными формами состояния водорода возникает и многообразие явлений его взаимодействия с деформируемым металлом. Обычно изменения процесса деформации и разрушения сплавов железа относят на счёт взаимодействия металла с водородом, находящимся в атомарном или ионном состоянии, в то время как водород в молекулярном состоянии не влияет на эти процессы. Отмечено, что изучение явлений, происходящих при взаимодействии водорода и его активных форм с деформируемым металлом, представляет интерес не только в связи с механической обработкой металла, но и для научно-обоснованного использования эффекта этого взаимодействия в целях получения необходимого положительного результата в отношении защиты конструкционных металлов от нежелательных последствий этих процессов. Представлены результаты изучения микроструктуры поверхности титана после его механической обработки резанием в водороде и на воздухе и доказательства пластифицирующего действия водорода при механической обработке титана. Показано, что водород практически не изменяет упругую деформацию, а облегчает протекание пластической деформации."
+	},
+	"keywords": {
+		"ua": "метал, водень, крихкість, пластичність, деформація, різання",
+		"en": "metal, hydrogen, brittleness, plasticity, deformation, cutting",
+		"ru": "металл, водород, хрупкость, пластичность, деформация, резание"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. О. Сошко", "en": "V. O. Soshko", "ru": "В. А. Сошко"},
+			"OID": [242]
+		},
+		{
+			"AID": {"ua": "І. П. Сімінченко", "en": "I. P. Siminchenko", "ru": "И. П. Симинченко"},
+			"OID": [242]
+		},
+		{
+			"AID": {"ua": "В. С. Ляшков", "en": "V. S. Lyashkov", "ru": "В. С. Ляшков"},
+			"OID": [242]
+		}
+	],
+	"references": {
+		"count": 20,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Н. А. Галактионова, Водород в металлах (Москва: Металлургия: 1967).",
+				"tr":  "N. A. Galaktionova, Vodorod v Metallakh (Moscow: Metallurgiya: 1967) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. С. Мороз, Б. Б. Чечулин, Водородная хрупкость металлов (Москва: Металлургия: 1967).",
+				"tr":  "L. S. Moroz and B. B. Chechulin, Vodorodnaya Khrupkost' Metallov (Moscow: Metallurgiya: 1967) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Zapffe, Trans ASM, 39: 191 (1947).",
+				"tr":  "C. Zapffe, Trans. ASM, 39: 191 (1947)."
+			},
+			{
+				"doi": "",
+				"or":  "A. S. Tetleman, Fracture of Solids (New York: John Wiley and Sons: 1962).",
+				"tr":  "A. S. Tetleman, Fracture of Solids (New York: John Wiley and Sons: 1962)."
+			},
+			{
+				"doi": "",
+				"or":  "A. R. Troiano, Trans. ASM, 52: 54 (1960).",
+				"tr":  "A. R. Troiano, Trans. ASM, 52: 54 (1960)."
+			},
+			{
+				"doi": "",
+				"or":  "J. G. Morlet and H. H. Jonhson, J. Iron Steel Inst., 189: 37 (1958).",
+				"tr":  "J. G. Morlet and H. H. Jonhson, J. Iron Steel Inst., 189: 37 (1958)."
+			},
+			{
+				"doi": "10.1080/14786435608238106",
+				"or":  "N. J. Petch, Phil. Mag., 1: 331 (1956).",
+				"tr":  "N. J. Petch, Phil. Mag., 1: 331 (1956)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Сошко, В. А. Тетерский, Влияние рабочих сред на свойства материалов (Киев: Наукова думка: 1964), вып.3, с. 40.",
+				"tr":  "A. I. Soshko and V. A. Teterskiy, Vliyanie Rabochikh Sred na Svoystva Materialov (Kiev: Naukova Dumka: 1964), Iss. 3, p. 40 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Тетерский, А. И. Сошко, Влияние рабочих сред на свойства материалов (Киев: Наукова думка: 1964), вып.3, с. 48.",
+				"tr":  "V. A. Teterskiy and A. I. Soshko, Vliyanie Rabochikh Sred na Svoystva Materialov (Kiev: Naukova Dumka: 1964), Iss. 3, p. 48 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Микитишин, И. И. Василенко, Влияние рабочих сред на свойства материалов (Киев: Наукова думка: 1964), вып.3, с. 28.",
+				"tr":  "S. I. Mikitishin and I. I. Vasilenko, Vliyanie Rabochikh Sred na Svoystva Materialov (Kiev: Naukova Dumka: 1964), Iss. 3, p. 28 (in Russian)."
+			},
+			{
+				"doi": "10.1016/0036-9748(75)90145-3",
+				"or":  "J. A. Clum, Scripta Metallurgica, 9, No. 1: 51 (1975).",
+				"tr":  "J. A. Clum, Scripta Metallurgica, 9, No. 1: 51 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "E. Lunarska, Metalurgia i Odlewnictwo, No. 101: 36 (1984).",
+				"tr":  "E. Lunarska, Metalurgia i Odlewnictwo, No. 101: 36 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Сошко, В. А. Сошко, Смазочно-охлаждающие технологические средства для механической обработки металлов (Херсон: Олди-плюс: 2008).",
+				"tr":  "A. I. Soshko and V. A. Soshko, Smazochno-Okhlazhdayushchie Tekhnologicheskie Sredstva dlya Mekhanicheskoy Obrabotki Metallov (Kherson: Oldi-Plyus: 2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Карпенко, А. К. Литвин, В. И. Ткачев, Физико-химическая механика материалов, № 7: 77 (1973).",
+				"tr":  "G. V. Karpenko, A. K. Litvin, and V. I. Tkachev, Fiziko-Khimicheskaya Mekhanika Materialov, No. 7: 77 (1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Житомирский, В. И. Ткачев, Физико-химическая механика материалов, № 3: 121 (1988).",
+				"tr":  "V. I. Zhitomirskiy and V. I. Tkachev, Fiziko-Khimicheskaya Mekhanika Materialov, No. 3: 121 (1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. А. Колачев, Водородная хрупкость цветных металлов (Москва: Металлургия: 1966).",
+				"tr":  "B. A. Kolachev, Vodorodnaya Khrupkost' Tsvetnykh Metallov (Moscow: Metallurgiya: 1966) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Сошко, Я. Е. Шкарапата, А. Н. Когут, Физико-химическая механика материалов, № 3: 119 (1988).",
+				"tr":  "V. A. Soshko, Ya. E. Shkarapata, and A. N. Kogut, Fiziko-Khimicheskaya Mekhanika Materialov, No. 3: 119 (1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Карпенко, Р. И. Крипякевич, Влияние водорода на структуру и свойства стали (Москва: Металлургиздат: 1962), с. 198.",
+				"tr":  "G. V. Karpenko and R. I. Kripyakevich, Vliyanie Vodoroda na Strukturu i Svoystva Stali (Moscow: Metallurgizdat: 1962), p. 198 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Коттрелл, Механические свойства новых материалов (Ред. Г. И. Баренблатт) (Москва: Мир: 1966), с. 254 (пер. с англ.).",
+				"tr":  "A. Cottrell, Mekhanicheskie Svoystva Novykh Materialov (Ed. G. I. Barenblatt) (Moscow: Mir: 1966), p. 254 (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Г. Энтелис, Смазочно-охлаждающие технологические средства для обработки металлов резанием (Москва: Машиностроение: 1986), с. 603.",
+				"tr":  "S. G. Entelis, Smazochno-Okhlazhdayushchie Tekhnologicheskie Sredstva dlya Obrabotki Metallov Rezaniem (Moscow: Mashinostroenie: 1986), p. 603 (in Russian)."
+			}
+		]
+	}
+}

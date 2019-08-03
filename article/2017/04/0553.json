@@ -1,0 +1,100 @@
+{
+	"_id":    "MFiNT.39.04.0553",
+	"year":   2017,
+	"volume": 39,
+	"issue":  4,
+	"pages":  [553,566],
+	"rubric": 1,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["09.02.2017"],
+	"PACS":   "61.05.cj, 61.43.Dq, 61.66.Dk, 75.50.Kj, 78.40.Pg",
+	"title":   {
+		"ua": "EXAFS-дослідження аморфного металевого стопу на основі заліза",
+		"en": "EXAFS-Investigations of Amorphous Iron-Based Metal Alloy",
+		"ru": "EXAFS-исследования аморфного металлического сплава на основе железа"
+	},
+	"abstract": {
+		"ua": "Методою EXAFS-спектроскопії досліджено близький порядок в аморфних металевих стопах на основі заліза. Збільшення концентрації атомів Со в аморфному металевому стопі (АМС) системи Fe–Co–B приводить, згідно з EXAFS-дослідженнями, до зменшення радіуса першої координаційної сфери атома B, зменшення об’єму елементарної комірки в кристалічному стопі (Co,Fe)$_3$В, що вказує на посилення зв’язку перехідного металу з бором. Результати, одержані методою EXAFS-спектроскопії для аморфних систем Fе–Со–В і Fe–Cr–B, добре інтерпретуються в рамках моделю кластерної мікронеоднорідної будови АМС.",
+		"en": "Short-range order in amorphous iron-based metal alloys is investigated by the EXAFS-spectroscopy method. According to EXAFS study, the increase of the content of Co atoms in the amorphous metal alloy (AMA) of Fe–Co–B system leads to decrease of the radius of first coordination sphere of the B atom and reduction of the unit-cell volume in a crystalline alloy (Co,Fe)$_3$B that indicates a strengthening of transition-metal–boron bond. Results obtained by the EXAFS-spectroscopy for the Fe–Co–B and Fe–Cr–B AMAs can be well interpreted in terms of the model of the cluster microinhomogeneous AMA structure.",
+		"ru": "Методом EXAFS-спектроскопии исследован ближний порядок в аморфных металлических сплавах на основе железа. Увеличение содержания атомов Co в аморфном металлическом сплаве (АМС) системы Fe–Co–B приводит, согласно EXAFS-исследованиям, к уменьшению радиуса первой координационной сферы атома B, уменьшению объёма элементарной ячейки в кристаллическом сплаве (Co,Fe)$_3$В, что указывает на усиление связи переходного металла с бором. Результаты, полученные методом EXAFS-спектроскопии для аморфных систем Fe–Со–В и Fe–Cr–B, хорошо интерпретируются в рамках модели кластерного микронеоднородного строения АМС."
+	},
+	"keywords": {
+		"ua": "аморфний металевий стоп, близький порядок, функція радіяльного розподілу атомів, дальня тонка структура рентґенівських спектрів поглинання",
+		"en": "amorphous metal alloy, short-range order, radial distribution function (RDF) of atoms, extended x-ray absorption fine structure",
+		"ru": "аморфный металлический сплав, ближний порядок, функция радиального распределения атомов, дальняя тонкая структура рентгеновских спектров поглощения"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Л. І. Карбівська", "en": "L. I. Karbivska", "ru": "Л. И. Карбовская"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. А. Артемюк", "en": "V. A. Artemyuk", "ru": "В. А. Артемюк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. Л. Карбівський", "en": "V. L. Karbivskyy", "ru": "В. Л. Карбовский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. П. Сорока", "en": "A. P. Soroka", "ru": " А. П. Сорока"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 10,
+		"list":  [
+			{
+				"doi": "10.1016/j.apcatb.2016.03.048",
+				"or":  "Z. Jia, W. C. Zhang, W. M. Wang, D. Habibi, and L .C. Zhang, Appl. Catal. B, 192: 46 (2016).",
+				"tr":  "Z. Jia, W. C. Zhang, W. M. Wang, D. Habibi, and L. C. Zhang, Appl. Catal. B, 192: 46 (2016)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2015.02.037",
+				"or":  "X. C. Zhong, H. C. Tian, S. S. Wang, Z. W. Liu, Z. G. Zheng, and D. C. Zeng, J. Alloys Compd., 633: 188 (2015).",
+				"tr":  "X. C. Zhong, H. C. Tian, S. S. Wang, Z. W. Liu, Z. G. Zheng, and D. C. Zeng, J. Alloys Compd., 633: 188 (2015)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2008.04.095",
+				"or":  "P. Kwapuliński, Z. Stokłosa, J. Rasek, G. Badura, G. Haneczok, L. Pająk, and L. Lelątko, J. Magn. Magn. Mater., 320: 778 (2008).",
+				"tr":  "P. Kwapuliński, Z. Stokłosa, J. Rasek, G. Badura, G. Haneczok, L. Pająk, and L. Lelątko, J. Magn. Magn. Mater., 320: 778 (2008)."
+			},
+			{
+				"doi": "10.1016/j.electacta.2004.10.099",
+				"or":  "T. Osaka, T. Asahi, J. Kawaji, and T. Yokoshima, Electrochim. Acta, 50, No. 23: 4576 (2005).",
+				"tr":  "T. Osaka, T. Asahi, J. Kawaji, and T. Yokoshima, Electrochim. Acta, 50, No. 23: 4576 (2005)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2015.08.121",
+				"or":  "A. Boutahar, H. Lassri, E. K. Hlil, and D. Fruchart, J. Magn. Magn. Mater., 398: 26 (2016).",
+				"tr":  "A. Boutahar, H. Lassri, E. K. Hlil, and D. Fruchart, J. Magn. Magn. Mater., 398: 26 (2016)."
+			},
+			{
+				"doi": "10.1109/20.42292",
+				"or":  "G. Herzer, IEEE Trans. Magn., 25: 3327 (1989).",
+				"tr":  "G. Herzer, IEEE Trans. Magn., 25: 3327 (1989)."
+			},
+			{
+				"doi": "10.1023/A:1017973517850",
+				"or":  "L. N. Mazalov, N. V. Bausk, S. B. Erenburg, and S. V. Larionov, Chin. J. Struct. Chem., 42: 784 (2001).",
+				"tr":  "L. N. Mazalov, N. V. Bausk, S. B. Erenburg, and S. V. Larionov, Chin. J. Struct. Chem., 42: 784 (2001)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.27.1204",
+				"or":  "D. E. Sayers, E. A. Stern, and F. W. Lytle, Phys. Rev. Lett., 27: 1204 (1971).",
+				"tr":  "D. E. Sayers, E. A. Stern, and F. W. Lytle, Phys. Rev. Lett., 27: 1204 (1971)."
+			},
+			{
+				"doi": "10.1021/ja00220a008",
+				"or":  "A. G. McKale, B. W. Veal, A. P. Paulikas, S. K. Chan, and G. S. Knapp, J. Am. Chem. Soc., 110: 3763 (1988).",
+				"tr":  "A. G. McKale, B. W. Veal, A. P. Paulikas, S. K. Chan, and G. S. Knapp, J. Am. Chem. Soc., 110: 3763 (1988)."
+			},
+			{
+				"doi": "10.1016/0025-5416(88)90069-9",
+				"or":  "P. Duhai, P. Švac, M. Ďurčekova, and G. Vlasák, Mater. Sci. Eng., 97: 337 (1988).",
+				"tr":  "P. Duhai, P. Švac, M. Ďurčekova, and G. Vlasák, Mater. Sci. Eng., 97: 337 (1988)."
+			}
+		]
+	}
+}

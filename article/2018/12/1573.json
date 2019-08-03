@@ -1,0 +1,127 @@
+{
+	"_id":    "MFiNT.40.12.1573",
+	"year":   2018,
+	"volume": 40,
+	"issue":  12,
+	"pages":  [1573,1587],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["27.06.2018"],
+	"PACS":   "02.70.Dh, 74.25.nn, 74.72.-h, 74.78.-w, 84.32.-y, 84.40.-x, 85.25.-j",
+	"title":   {
+		"ua": "Мініятюрні мікросмужкові резонатори, що мають форми меандру та фрактала",
+		"en": "Miniature Meander- and Fractal-Shaped Microstrip Resonators",
+		"ru": "Миниатюрные микрополосковые резонаторы, имеющие формы меандра и фрактала"
+	},
+	"abstract": {
+		"ua": "Проведено чисельний розрахунок характеристик меандрових і фрактальних (Гільбертова крива) топологій щільноупакованих мікросмужкових резонаторів. Розраховано амплітудно-частотні характеристики, резонансні частоти, добротності та геометричні фактори. Знайдено механізми взаємодії сусідніх сеґментів резонатора, які спричиняють сильний вплив на резонансну частоту та добротність. З тонких плівок YBa$_2$Cu$_3$O$_{7-\\delta}$ (YBCO) було виготовлено два високотемпературних надпровідних фрактальних мікросмужкових резонатора, виміряно їхні амплітудно-частотні характеристики, резонансні частоти та залежності добротности від частоти. Знайдено частотну залежність поверхневого опору плівки YBCO. Проведено порівняння добротностей надпровідних і мідних резонаторів та зроблено оцінку доцільности використання плівок YBCO в якості матеріялу для виготовлення резонаторів.",
+		"en": "Numerical calculations of the characteristics of the meander- and fractal-shape (Hilbert curve) topologies of close-packed microstrip resonators are performed. The amplitude–frequency characteristics, resonance frequencies, quality factors, and geometric factors are calculated. The mechanisms of neighbouring resonator segments’ interaction are found. The latter strongly affects both the resonance frequency and the quality factor. Two high-temperature superconducting fractal-shaped microstrip resonators are fabricated using thin films of YBa$_2$Cu$_3$O$_{7-\\delta}$ (YBCO); the amplitude–frequency characteristics, the resonance frequencies, and the quality factor–frequency dependences are measured. Frequency dependence of a surface resistance of the YBCO film is found. The quality factors of the superconducting and copper resonators are compared, and the reasonability of the YBCO films’ usage as a material for thin-film resonators’ manufacturing is assessed.",
+		"ru": "Проведён численный расчёт характеристик меандровых и фрактальных (кривая Гильберта) топологий плотноупакованных микрополосковых резонаторов. Рассчитаны амплитудно-частотные характеристики, резонансные частоты, добротности и геометрические факторы. Найдены механизмы взаимодействия соседних сегментов резонатора, которые оказывают сильное влияние на резонансную частоту и добротность. Из тонких плёнок YBa$_2$Cu$_3$O$_{7-\\delta}$ (YBCO) были изготовлены два высокотемпературных сверхпроводящих фрактальных микрополосковых резонатора, измерены их амплитудно-частотные характеристики, резонансные частоты и зависимости добротности от частоты. Найдена частотная зависимость поверхностного сопротивления плёнки YBCO. Проведено сравнение добротностей сверхпроводящих и медных резонаторов и сделана оценка целесообразности использования плёнок YBCO в качестве материала для изготовления резонаторов."
+	},
+	"keywords": {
+		"ua": "мікрохвилі, високотемпературна надпровідність, мікросмужковий резонатор, фрактал, добротність, поверхневий опір",
+		"en": "microwave, high-temperature superconductivity, microstrip resonator, fractal, quality factor, surface resistance",
+		"ru": "микроволны, высокотемпературная сверхпроводимость, микрополосковый резонатор, фрактал, добротность, поверхностное сопротивление"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. А. Каленюк", "en": "A. A. Kalenyuk", "ru": "А. А. Каленюк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. І. Футимський", "en": "S. I. Futimsky", "ru": "С. И. Футымский"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 17,
+		"list":  [
+			{
+				"doi": "10.1002/0471221619",
+				"or":  "J.-S. Hong and M. J. Lancaster, Microstrip Filters for RF/Microwave Applications (New York, USA: John Wiley & Sons, Inc.: 2001).",
+				"tr":  "J.-S. Hong and M. J. Lancaster, Microstrip Filters for RF/Microwave Applications (New York, USA: John Wiley & Sons, Inc.: 2001)."
+			},
+			{
+				"doi": "",
+				"or":  "D. M. Pozar, Microwave Engineering (Castleton, NY, USA: JohnWiley & Sons, Inc.: 2012).",
+				"tr":  "D. M. Pozar, Microwave Engineering (Castleton, NY, USA: JohnWiley & Sons, Inc.: 2012)."
+			},
+			{
+				"doi": "",
+				"or":  "D. G. Swanson, J. Wolfgang, and J. R. Hoefer, Microwave Circuit Modeling Using Electromagnetic Field Simulation (Boston, USA: Artech House, Inc.: 2003).",
+				"tr":  "D. G. Swanson, J. Wolfgang, and J. R. Hoefer, Microwave Circuit Modeling Using Electromagnetic Field Simulation (Boston, USA: Artech House, Inc.: 2003)."
+			},
+			{
+				"doi": "10.1109/TMTT.1972.1127860",
+				"or":  "E. G. Cristal and S. Frenkel, IEEE Trans. Microwave Theory Tech., 20, No. 11: 719 (1972).",
+				"tr":  "E. G. Cristal and S. Frenkel, IEEE Trans. Microwave Theory Tech., 20, No. 11: 719 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Matthaei, L. Young, and E. M. T. Jones, Microwave Filters, Impedance-Matching Networks, and Coupling Structures (New York, USA: McGraw-Hill, Inc.: 1964), p. 1096.",
+				"tr":  "G. Matthaei, L. Young, and E. M. T. Jones, Microwave Filters, Impedance-Matching Networks, and Coupling Structures (New York, USA: McGraw-Hill, Inc.: 1964), p. 1096."
+			},
+			{
+				"doi": "10.1063/1.3075938",
+				"or":  "A. A. Kalenyuk, Low Temp. Phys., 35, No. 2: 105 (2009).",
+				"tr":  "A. A. Kalenyuk, Low Temp. Phys., 35, No. 2: 105 (2009)."
+			},
+			{
+				"doi": "10.1002/mmce.20529",
+				"or":  "H.-X. Xu, G.-M. Wang, C.-X. Zhang, and J.-G. Liang, Int. J. RF Microwave Comput.-Aided Eng., 21, No. 4: 399 (2011).",
+				"tr":  "H.-X. Xu, G.-M. Wang, C.-X. Zhang, and J.-G. Liang, Int. J. RF Microwave Comput.-Aided Eng., 21, No. 4: 399 (2011)."
+			},
+			{
+				"doi": "10.1017/CBO9780511526688",
+				"or":  "M. J. Lancaster, Passive Microwave Device Applications of High-Temperature Superconductors (New York, USA: Cambridge University Press: 1997).",
+				"tr":  "M. J. Lancaster, Passive Microwave Device Applications of High-Temperature Superconductors (New York, USA: Cambridge University Press: 1997)."
+			},
+			{
+				"doi": "10.1088/0953-2048/13/7/312",
+				"or":  "I. B. Vendik, Supercond. Sci. Technol., 13, No. 7: 974 (2000).",
+				"tr":  "I. B. Vendik, Supercond. Sci. Technol., 13, No. 7: 974 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Kalenyuk, A. L. Kasatkin, and V. M. Pan, Proc. of Symp. ‘The 6th International Kharkov Symposium on Physics and Engineering of Microwaves, Millimeter and Submillimeter Waves–MSMW'07’ (June 25–30, 2007) (Kharkiv: 2007), vol. 1, p. 413.",
+				"tr":  "A. A. Kalenyuk, A. L. Kasatkin, and V. M. Pan, Proc. of Symp. 'The 6th International Kharkov Symposium on Physics and Engineering of Microwaves, Millimeter and Submillimeter Waves–MSMW'07' (June 25–30, 2007) (Kharkiv: 2007), vol. 1, p. 413."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Kalenyuk, A. I. Rebikov, A. L. Kasatkin, and V. M. Pan, Proc. of Symp. ‘2010 International Kharkov Symposium on Physics and Engineering of Microwaves, Millimeter and Submillimeter Waves–MSMW'2010’ (June 21–26, 2010) (Kharkiv: 2010), p. 1.",
+				"tr":  "A. A. Kalenyuk, A. I. Rebikov, A. L. Kasatkin, and V. M. Pan, Proc. of Symp. '2010 International Kharkov Symposium on Physics and Engineering of Microwaves, Millimeter and Submillimeter Waves–MSMW'2010' (June 21–26, 2010) (Kharkiv: 2010), p. 1."
+			},
+			{
+				"doi": "10.1615/TelecomRadEng.v69.i15.40",
+				"or":  "N. T. Cherpak, A. A. Lavrinovich, A. A. Kalenyuk, V. M. Pan, A. I. Gubin, V. Khramota, A. A. Kurakin, and S. A. Vitusevich, Telecommun. Radio Eng., 69, No. 15: 1357 (2010).",
+				"tr":  "N. T. Cherpak, A. A. Lavrinovich, A. A. Kalenyuk, V. M. Pan, A. I. Gubin, V. Khramota, A. A. Kurakin, and S. A. Vitusevich, Telecommun. Radio Eng., 69, No. 15: 1357 (2010)."
+			},
+			{
+				"doi": "10.1088/1742-6596/234/1/012041",
+				"or":  "V. L. Svetchnikov, V. S. Flis, A. A. Kalenyuk, A. L. Kasatkin, A. I. Rebikov, V. O. Moskaliuk, C. G. Tretiatchenko, and V. M. Pan, J. Phys.: Conf. Ser., 234, No. 1: 012041 (2010).",
+				"tr":  "V. L. Svetchnikov, V. S. Flis, A. A. Kalenyuk, A. L. Kasatkin, A. I. Rebikov, V. O. Moskaliuk, C. G. Tretiatchenko, and V. M. Pan, J. Phys.: Conf. Ser., 234, No. 1: 012041 (2010)."
+			},
+			{
+				"doi": "10.1007/s10948-006-0190-7",
+				"or":  "V. M. Pan, A. A. Kalenyuk, A. L. Kasatkin, O. M. Ivanyuta, and G. A. Melkov, J. Supercond. Novel Magn., 20, No. 1: 59 (2007).",
+				"tr":  "V. M. Pan, A. A. Kalenyuk, A. L. Kasatkin, O. M. Ivanyuta, and G. A. Melkov, J. Supercond. Novel Magn., 20, No. 1: 59 (2007)."
+			},
+			{
+				"doi": "10.1109/TASC.2005.849403",
+				"or":  "A. Porch, D. W. Huish, A. V. Velichko, M. J. Lancaster, J. S. Abell, A. Perry, and D. P. Almond, IEEE Trans. on Appl. Supercond., 15, No. 2: 3706 (2005).",
+				"tr":  "A. Porch, D. W. Huish, A. V. Velichko, M. J. Lancaster, J. S. Abell, A. Perry, and D. P. Almond, IEEE Trans. on Appl. Supercond., 15, No. 2: 3706 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "V. F. Tarasov, I. V. Korotash, V. M. Pan, M. A. Skoryk, M. Lorenz, S. I. Futimsky, and A. A. Filimonov, Metallofiz. Noveishie Tekhnol., 24, No. 3: 313 (2002).",
+				"tr":  "V. F. Tarasov, I. V. Korotash, V. M. Pan, M. A. Skoryk, M. Lorenz, S. I. Futimsky, and A. A. Filimonov, Metallofiz. Noveishie Tekhnol., 24, No. 3: 313 (2002)."
+			},
+			{
+				"doi": "10.1063/1.1884427",
+				"or":  "V. M. Pan, D. A. Luzhbin, A. A. Kalenyuk, A. L. Kasatkin, and V. A. Komashko, J. Low Temp. Phys., 31, No. 3: 254 (2005).",
+				"tr":  "V. M. Pan, D. A. Luzhbin, A. A. Kalenyuk, A. L. Kasatkin, and V. A. Komashko, J. Low Temp. Phys., 31, No. 3: 254 (2005)."
+			}
+		]
+	}
+}

@@ -1,0 +1,121 @@
+{
+	"_id":    "MFiNT.36.12.1651",
+	"year":   2014,
+	"volume": 36,
+	"issue":  12,
+	"pages":  [1651,1660],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["02.07.2014"],
+	"PACS":   "61.05.cp, 61.72.Hh, 62.20.fg, 64.70.kd, 81.30.Kf, 81.40.Ef, 87.85.J-",
+	"title":   {
+		"ua": "Стопи на основі Zr—Nb – перспективні функціональні матеріали",
+		"en": "Zr—Nb-Based Alloys – Promising Functional Materials",
+		"ru": "Сплавы на основе Zr—Nb – перспективные функциональные материалы"
+	},
+	"abstract": {
+		"ua": "В процесі пошуку нових функціональних стопів було вивчено систему Zr—Nb. Виконано дослідження на наявність мартенситного перетворення (МП) і ефекту пам’яті форми, вивчено особливості складу за допомогою мікроструктурних і рентґенографічних метод аналізи. Виявлено, що МП у системі Zr—Nb відбувається в більш широкому інтервалі концентрацій ніобію, ніж вважалося раніше. У стопах Zr$_{93}$Nb$_{7}$ і Zr$_{86}$Nb$_{14}$ вперше виявлено наявність ефекту пам’яті форми. Характеристичні температури МП знижуються зі збільшенням концентрації ніобію. Зважаючи на біоінертність і температури МП, близькі до температури людського тіла, стоп Zr$_{86}$Nb$_{14}$ може бути перспективним для подальшого, більш глибокого вивчення з метою застосування в медичній галузі.",
+		"en": "During the search for new functional alloys, Zr—Nb system is investigated. The investigations concerning the presence of the martensitic transformation (MT) and shape-memory effect are performed; composition features are explored by microstructural and X-ray analysis techniques. As found, the MT in the Zr—Nb system takes place in a wider range of niobium concentrations than it was previously estimated. The presence of the shape-memory effect in Zr$_{93}$Nb$_{7}$ and Zr$_{86}$Nb$_{14}$ alloys is firstly observed. Characteristic MT temperatures decrease with increasing niobium concentration. Due to both the bioinertness and the MT temperatures close to the human body temperature, Zr$_{86}$Nb$_{14}$ alloy can be promising for further in-depth study in order to use it in the healthcare industry.",
+		"ru": "В процессе поиска новых функциональных сплавов была изучена система Zr—Nb. Выполнены исследования на наличие мартенситного превращения (МП) и эффекта памяти формы, изучены особенности состава с помощью микроструктурных и рентгенографических методов анализа. Обнаружено, что МП в системе Zr—Nb имеется в более широком интервале концентраций ниобия, чем считалось ранее. В сплавах Zr$_{93}$Nb$_{7}$ и Zr$_{86}$Nb$_{14}$ впервые обнаружено наличие эффекта памяти формы. Характеристические температуры МП снижаются с увеличением концентрации ниобия. Ввиду биоинертности и температур МП, близких к температуре человеческого тела, сплав Zr$_{86}$Nb$_{14}$ может быть перспективен для дальнейшего глубокого изучения с целью применения в медицинской отрасли."
+	},
+	"keywords": {
+		"ua": "мартенситне перетворення, ефект пам’яті форми, стопи цирконій—ніобій",
+		"en": "martensitic transformation, shape-memory effect, zirconium—niobium alloys",
+		"ru": "мартенситное превращение, эффект памяти формы, сплавы цирконий—ниобий"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "C. Н. Кедровський", "en": "S. N. Kedrovsky", "ru": "C. Н. Кедровский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Ю. М. Коваль", "en": "Yu. N. Koval’", "ru": "Ю. Н. Коваль"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. М. Сліпченко", "en": "V. N. Slepchenko", "ru": "В. Н. Слепченко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 15,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "А. В. Никулина, Металловедение и термическая обработка металлов, № 8: 7 (2003).",
+				"tr":  "A. V. Nikulina, Metallovedenie i Termicheskaya Obrabotka Metallov, No. 8: 7 (2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Никулина, Металловедение и термическая обработка металлов, № 11: 8 (2004).",
+				"tr":  "A. V. Nikulina, Metallovedenie I Termicheskaya Obrabotka Metallov, No. 11: 8 (2004) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(97)00808-3",
+				"or":  "D. Kuroda, M. Niinomi, M. Morinaga, Y. Kato, and T. Yoshiro, Mater. Sci. Eng. A, 243: 244 (1998).",
+				"tr":  "D. Kuroda, M. Niinomi, M. Morinaga, Y. Kato, and T. Yoshiro, Mater. Sci. Eng. A, 243: 244 (1998)."
+			},
+			{
+				"doi": "10.2320/jinstmet.75.445",
+				"or":  "T. Akahori, M. Niinomi, M. Nakai, H. Tsutsumi, Y. Kondo, H. Fukui, and T. Hattori, J. Japan Inst. Metals, 75, No. 8: 445 (2011).",
+				"tr":  "T. Akahori, M. Niinomi, M. Nakai, H. Tsutsumi, Y. Kondo, H. Fukui, and T. Hattori, J. Japan Inst. Metals, 75, No. 8: 445 (2011)."
+			},
+			{
+				"doi": "10.1016/j.actbio.2011.07.020",
+				"or":  "R. Kondo, N. Nomura, Suyalatu, Y. Tsutsumi, H. Doi, and T. Hanawa, Acta Biomaterialia, 7, No. 12: 4278 (2011).",
+				"tr":  "R. Kondo, N. Nomura, Suyalatu, Y. Tsutsumi, H. Doi, and T. Hanawa, Acta Biomaterialia, 7, No. 12: 4278 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. И. Талуц, Закономерности структурных и фазовых превращений в цирконии и его сплавах с переходными металлами IV–VIII групп периодической системы элементов (Дисс. ... д-ра физ.-мат. наук: 01.04.07) (Екатеринбург: 2006).",
+				"tr":  "N. I. Taluts, Zakonomernosti Strukturnykh i Fazovykh Prevrashcheniy v Tsirkonii i Ego Splavakh s Perekhodnymi Metallami IV–VIII Grupp Periodicheskoy Sistemy Elementov (Thesis of Disser. ... for the Degree of Dr. Phys.-Math. Sci.) (Yekaterinburg: 2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. П. Черняева, В. М. Грицина, Е. А. Михайлов, Р. Л. Василенко, Е. А. Слабоспицкая, Вопросы атомной науки и техники. Сер. Физика радиационных повреждений и радиационное материаловедение, № 2: 95 (2011).",
+				"tr":  "T. P. Chernyaeva, V. M. Gritsina, E. A. Mikhaylov, R. L. Vasilenko, and E. A. Slabospitskaya, Voprosy Atomnoy Nauki i Tekhniki. Ser. Rad. Povr. i Rad. Materialoved., No. 2: 95 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Neogy, D. Srivastava, G. K. Dey, J. K. Chakravartty, and S. Banerjee, Trans. of the Indian Institute of Metals, 57, No. 5: 509 (2004).",
+				"tr":  "S. Neogy, D. Srivastava, G. K. Dey, J. K. Chakravartty, and S. Banerjee, Trans. of the Indian Institute of Metals, 57, No. 5: 509 (2004)."
+			},
+			{
+				"doi": "10.1007/s11661-006-9026-0",
+				"or":  "S. Neogy, D. Srivastava, J. K. Chakravartty, G. K. Dey, and S. Banerjee, Metallurgical and Materials Transactions A, 38, No. 3: 485 (2007).",
+				"tr":  "S. Neogy, D. Srivastava, J. K. Chakravartty, G. K. Dey, and S. Banerjee, Metallurgical and Materials Transactions A, 38, No. 3: 485 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "A. G. Rabinkin, L. A. Klishanova, and L. P. Pronina, Problems of Superconducting Materials (Moscow: Nauka: 1970), p. 141 (in Russian).",
+				"tr":  "A. G. Rabinkin, L. A. Klishanova, and L. P. Pronina, Problems of Superconducting Materials (Moscow: Nauka: 1970), p. 141 (in Russian)."
+			},
+			{
+				"doi": "10.1107/S0021889872010076",
+				"or":  "P. E. J. Flewitt, J. Appl. Crystallogr., 5, No. 6: 423 (1972).",
+				"tr":  "P. E. J. Flewitt, J. Appl. Crystallogr., 5, No. 6: 423 (1972)."
+			},
+			{
+				"doi": "10.1016/0001-6160(74)90125-4",
+				"or":  "P. E. J. Flewitt, Acta Metall., 22, Iss. 1: 47 (1974).",
+				"tr":  "P. E. J. Flewitt, Acta Metall., 22, Iss. 1: 47 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Banerjee and P. Mukhopadhyay, Phase Transformations. Examples from Titanium and Zirconium Alloys (Pergamon Materials Series: 2007), vol. 12, p. 840.",
+				"tr":  "S. Banerjee and P. Mukhopadhyay, Phase Transformations. Examples from Titanium and Zirconium Alloys (Pergamon Materials Series: 2007), vol. 12, p. 840."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Г. Лившиц, В. С. Крапошин, Я. Л. Линецкий, Физические основы металлов и сплавов (Москва: Металлургия: 1980).",
+				"tr":  "B. G. Livshits, V. S. Kraposhin, and Ya. L. Linetskiy, Fizicheskie Osnovy Metallov i Splavov (Moscow: Metallurgiya: 1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Коваль, Эффект памяти формы и характеристики мартенситного превращения в сплавах на основе железа и на основе меди (Дисс. ... д-ра техн. наук) (Киев: ИМФ АН УССР: 1985).",
+				"tr":  "Yu. N. Koval', Effekt Pamyati Formy i Kharakteristiki Martensitnogo Prevrashcheniya v Splavakh na Osnove Zheleza i na Osnove Medi (Thesis of Disser. ... for Degree of Dr. Techn. Sci.) (Kiev: IMPh AS UkrSSR: 2006) (in Russian)."
+			}
+		]
+	}
+}

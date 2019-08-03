@@ -1,0 +1,100 @@
+{
+	"_id":    "MFiNT.37.07.0921",
+	"year":   2015,
+	"volume": 37,
+	"issue":  7,
+	"pages":  [921,931],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["06.03.2015"],
+	"PACS":   "62.20.Qp, 62.23.Pq, 81.05.Ni, 81.20.Ev, 81.40.Jj, 81.40.Vw, 81.65.Cf",
+	"title":  {
+		"ua": "Нанокомпозити мідь—титан—багатостінні вуглецеві нанотрубки",
+		"en": "Nanocomposites of Copper—Titanium—Multiwall Carbon Nanotubes",
+		"ru": "Нанокомпозиты медь—титан—многостенные углеродные нанотрубки"
+	},
+	"abstract": {
+		"ua": "В роботі розглянуто вплив умов одержання нанокомпозиційного матеріялу (НКМ) мідь—титан—багатостінні вуглецеві нанотрубки (БВНТ) на його структуру, мікротвердість і границю міцности при розтягу. Встановлено критерії оброблення прекурсорів НКМ, які забезпечують рівномірний розподіл його компонентів за об’ємом зразків, дисперґування аґломератів БВНТ і оптимізацію фізико-механічних характеристик одержаних композицій. Показано, що при додаванні в порошок міді марки ПМС-1 порошків титану марки ВТ 1,0 у кількості 0,5—1 мас.% і вуглецевих нанотрубок у кількості 0,5—3 об.%, фізико-механічні характеристики одержаних після оброблення в планетарному млині порошків компонентів і виготовлення з них зразків НКМ збільшуються порівняно з міддю не менше ніж у два рази.",
+		"en": "In this work, the effect of process conditions on the structure, microhardness, and tensile strength of copper—titanium—multiwall carbon nanotubes’ nanocomposite material (NCM) is studied. The goals of the present study are the obtaining a new copper-based nanocomposite material, analysing the mechanisms of its structure formation and investigating the relationship between its structure and the physical and mechanical properties. The criteria for treatment of NCM precursors, which provide for uniform distribution of its components over a specimen bulk, dispersion of multiwall carbon nanotubes’ agglomerates, and optimization of the physical and mechanical properties of the fabricated compositions, are established. Source powders of the materials are mixed in a three-bowl planetary ball mill with acceleration of 50g and pressure on substance particles of about 5 GPa. Such a treatment leads to their mechanical activation and mutual alloying. As shown, after adding both 0.5—1 wt.% of VT 1.0 titanium powder and 0.5—3 vol.% of carbon nanotubes into PMS-1 copper, physical-mechanical properties of NCM specimens fabricated from the component powders after treatment in a planetary-type mill are improved at least twice compared to copper.",
+		"ru": "В работе рассмотрено влияние условий получения нанокомпозиционного материала (НКМ) медь—титан—многостенные углеродные нанотрубки (МУНТ) на его структуру, микротвёрдость и предел прочности при растяжении. Установлены критерии обработки прекурсоров НКМ, которые обеспечивают равномерное распределение его компонентов по объёму образцов, диспергирование агломератов МУНТ и оптимизацию физико-механических характеристик полученных композиций. Показано, что при добавлении в порошок меди марки ПМС-1 порошков титана марки ВТ 1,0 в количестве 0,5—1 масс.% и углеродных нанотрубок в количестве 0,5—3 об.%, физико-механические характеристики полученных после обработки в планетарной мельнице порошков компонентов и изготовления из них образцов НКМ увеличиваются по сравнению с медью не менее чем в два раза."
+	},
+	"keywords": {
+		"ua": "мікротвердість, границя міцності при розтягуванні, структура, вуглецеві нанотрубки, нанокомпозиційні матеріали",
+		"en": "microhardness, tensile strength, structure, carbon nanotubes, nanocomposite materials",
+		"ru": "микротвёрдость, предел прочности при растяжении, структура, углеродные нанотрубки, нанокомпозиционные материалы"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. І. Бошко", "en": "O. I. Boshko", "ru": "О. И. Бошко"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "М. М. Дашевський", "en": "M. M. Dashevskyi", "ru": "Н. Н. Дашевский"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "К. О. Іваненко", "en": "K. O. Ivanenko", "ru": "Е. А. Иваненко"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "С. Л. Рево", "en": "S. L. Revo", "ru": "С. Л. Рево"},
+			"OID": [201]
+		}
+	],
+	"references": {
+		"count": 10,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "A. P. Shpak, V. P. Mayboroda, Yu. A. Kunitsky, and S. L. Revo, Nanosloistye Kompozitsionnye Materialy i Pokrytiya [Nanolayer Composite Materials and Coatings] (Kiev: Academperiodika: 2004) (in Russian).",
+				"tr":  "A. P. Shpak, V. P. Mayboroda, Yu. A. Kunitsky, and S. L. Revo, Nanosloistye Kompozitsionnye Materialy i Pokrytiya [Nanolayer Composite Materials and Coatings] (Kiev: Academperiodika: 2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. S. Kopan, S. L. Revo, and V. S. Kovalchuk, Microlayer Composite Materials (London–New York: Elsevier Applied Science: 1990).",
+				"tr":  "V. S. Kopan, S. L. Revo, and V. S. Kovalchuk, Microlayer Composite Materials (London–New York: Elsevier Applied Science: 1990)."
+			},
+			{
+				"doi": "10.1016/j.apt.2013.10.003",
+				"or":  "V. K. Gupta and S. Sharma, Adv. Powder Technol., 25: 625 (2014).",
+				"tr":  "V. K. Gupta and S. Sharma, Adv. Powder Technol., 25: 625 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "N. V. Martyushev, A. G. Melnikov, S. V. Veselov, D. S. Terentyev, and I. V. Semenkov, Obrabotka Metallov, 3 (56): 103 (2012) (in Russian).",
+				"tr":  "N. V. Martyushev, A. G. Melnikov, S. V. Veselov, D. S. Terentyev, and I. V. Semenkov, Obrabotka Metallov, 3 (56): 103 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Moy and A. Chishti, Methods and Catalysts for the Manufacture of Carbon Fibrils, US Patent Application 20010014307 A1, Int. Сlass. D01F009/12 (Publ. August 16, 2001).",
+				"tr":  "D. Moy and A. Chishti, Methods and Catalysts for the Manufacture of Carbon Fibrils, US Patent Application 20010014307 A1, Int. Class. D01F009/12 (Publ. August 16, 2001)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Yanchenko, O. O. Kovalenko, Yu. I. Sementsov, and O. V. Melezhyk, Sposib Oderzhann’ya Katalizatoriv Khimichnogo Osadzhennya Vugletsevykh Nanotrubok z Gazovoyi Fazy [Fabrication Method for Catalysts of Chemical Deposition for Carbon Nanotubes from the Gas Phase], Patent of Ukraine No. 17387, С01В11/00 D01F9/12 (2006) (in Ukrainian).",
+				"tr":  "V. V. Yanchenko, O. O. Kovalenko, Yu. I. Sementsov, and O. V. Melezhyk, Sposib Oderzhann'ya Katalizatoriv Khimichnogo Osadzhennya Vugletsevykh Nanotrubok z Gazovoyi Fazy [Fabrication Method for Catalysts of Chemical Deposition for Carbon Nanotubes from the Gas Phase], Patent of Ukraine No. 17387, C01B11/00 D01F9/12 (2006) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2013.03.183",
+				"or":  "R. Hamzaoui and O. Elkedim, J. Alloys Compd., 573: 157 (2013).",
+				"tr":  "R. Hamzaoui and O. Elkedim, J. Alloys Compd., 573: 157 (2013)."
+			},
+			{
+				"doi": "10.1016/j.matchar.2005.12.011",
+				"or":  "V. Rajkovic, D. Bozic, and M. T. Jovanovic, Materials Characterization, 57: 94 (2006).",
+				"tr":  "V. Rajkovic, D. Bozic, and M. T. Jovanovic, Materials Characterization, 57: 94 (2006)."
+			},
+			{
+				"doi": "10.1016/j.matdes.2013.02.083",
+				"or":  "J. M. Tao, X. K. Zhu, R. O. Scattergood, and C. C. Koch, Materials and Design, 50: 22 (2013).",
+				"tr":  "J. M. Tao, X. K. Zhu, R. O. Scattergood, and C. C. Koch, Materials and Design, 50: 22 (2013)."
+			},
+			{
+				"doi": "10.1016/j.msea.2013.10.050",
+				"or":  "J. M. Liang, M. T. Jia, X. Q. Guo, and D. L. Zhang, Mater. Sci. Eng. A, 590: 307 (2013).",
+				"tr":  "J. M. Liang, M. T. Jia, X. Q. Guo, and D. L. Zhang, Mater. Sci. Eng. A, 590: 307 (2013)."
+			}
+		]
+	}
+}

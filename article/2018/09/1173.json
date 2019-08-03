@@ -1,0 +1,121 @@
+{
+	"_id":    "MFiNT.40.09.1173",
+	"year":   2018,
+	"volume": 40,
+	"issue":  9,
+	"pages":  [1173,1184],
+	"rubric": 18,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["28.12.2017"],
+	"PACS":   "06.60.Mr, 62.20.de, 62.30.+d, 62.65.+k, 74.25.Ld, 74.72.Hs, 81.70.Cv",
+	"title":   {
+		"ua": "Дослідження впливу температури на Релейову швидкість надпровідникового матеріялу типу Bi2212 з використанням акустичних методик",
+		"en": "A Study of Temperature Effect on the Rayleigh Velocity of Superconductor Material Type Bi2212 Using Acoustic Techniques",
+		"ru": "Исследование влияния температуры на скорость Рэлея сверхпроводникового материала типа Bi2212 с использованием акустических методик"
+	},
+	"abstract": {
+		"ua": "У даній роботі досліджено вплив температури на Релейову швидкість $V_R$ надпровідного матеріялу типу Bi2212, зосереджуючись на моделюванні коефіцієнта відбиття $R$($\\theta$) та акустичної характеристики $V$($z$). Дослідження уможливлює вирахувати швидкості поверхневої й об’ємної акустичних хвиль за їхньою еволюцією, залежно від температури. Дослідження проводилося для випадку пористого та непористого надпровідникового матеріялу типу Bi2212 за температури від 10 до 295 К та робочої частоти у 600 МГц. Таке моделювання базувалося на експериментальних результатах, одержаних на пористих і непористих надпровідних матеріялах Bi2212 в діяпазоні температур від 10 до 295 К за частоти у 600 МГц.",
+		"en": "In the present work, the effect of the temperature on Rayleigh velocity $V_R$ of superconductor material type Bi2212 is studied, focusing on the modelling of both the reflection coefficient $R$($\\theta$) and the acoustic signature $V$($z$). Consequently, the study allows us to deduct the velocities of the acoustic waves of surface and volume, following their evolution as functions of temperature. The study is carried out in case of porous and non-porous superconductor material type Bi2212 in a temperature range from 10 to 295 K and with work frequency of 600 MHz. This modelling study is based on experimental results obtained on porous and non-porous Bi2212 superconducting materials in the temperature range of 10 to 295 K at a frequency of 600 MHz.",
+		"ru": "В данной работе изучалось влияние температуры на скорость Рэлея $V_R$ сверхпроводникового материала типа Bi2212, сосредоточиваясь на моделировании коэффициента отражения $R$($\\theta$) и акустической характеристики $V$($z$). Исследование позволяет рассчитать скорости поверхностной и объёмной акустических волн, следуя их эволюции в зависимости от температуры. Исследование проводилось для случая пористого и непористого сверхпроводника типа Bi2212 при температуре от 10 до 295 К и рабочей частоте 600 МГц. Такое моделирование основано на экспериментальных результатах, полученных на пористых и непористых сверхпроводящих материалах Bi2212 в диапазоне температур от 10 до 295 К на частоте 600 МГц."
+	},
+	"keywords": {
+		"ua": "Релейова швидкість, коефіцієнт відбиття, акустична характеристика, надпровідник типу Bi2212, пористість",
+		"en": "Rayleigh velocity, reflection coefficient, acoustic signature, superconductor type Bi2212, porosity",
+		"ru": "скорость Рэлея, коэффициент отражения, акустическая характеристика, сверхпроводник типа Bi2212, пористость"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Н. Сайуд", "en": "N. Sayoud", "ru": "Н. Сайуд"},
+			"OID": [520]
+		},
+		{
+			"AID": {"ua": "С. Шоуф", "en": "S. Chouf", "ru": "С. Шоуф"},
+			"OID": [520]
+		},
+		{
+			"AID": {"ua": "А. Будур", "en": "A. Boudour", "ru": "А. Будур"},
+			"OID": [520]
+		}
+	],
+	"references": {
+		"count": 15,
+		"list":  [
+			{
+				"doi": "10.1103/RevModPhys.67.863",
+				"or":  "Z. Yu and S. Boseck, Rev. Mod. Phys., 67, Iss. 4: 863 (1995).",
+				"tr":  "Z. Yu and S. Boseck, Rev. Mod. Phys., 67, Iss. 4: 863 (1995)."
+			},
+			{
+				"doi": "10.1088/0256-307X/29/4/044301",
+				"or":  "S. Debboub, Y. Boumaïza, A. Boudour, and T. Tahraoui, Chin. Phys. Lett., 29, No. 4: 044301 (2012).",
+				"tr":  "S. Debboub, Y. Boumaïza, A. Boudour, and T. Tahraoui, Chin. Phys. Lett., 29, No. 4: 044301 (2012)."
+			},
+			{
+				"doi": "10.1109/PROC.1979.11406",
+				"or":  "C. F. Quate, A. Atalar, and H. K. Wickramasinghe, Proc. IEEE, 67, Iss. 8: 1092 (1979).",
+				"tr":  "C. F. Quate, A. Atalar, and H. K. Wickramasinghe, Proc. IEEE, 67, Iss. 8: 1092 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "R. A. Lemons and C. F. Quate, Proc. IEEE Ultrasonics Symp. (Sept. 26–28, 1979, New Orleans, LA, USA), p. 18.",
+				"tr":  "R. A. Lemons and C. F. Quate, Proc. IEEE Ultrasonics Symp. (Sept. 26–28, 1979, New Orleans, LA, USA), p. 18."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2009.02.055",
+				"or":  "N. A. Rasih and A. K. Yahya, J. Alloys Compd., 480, Iss. 2: 777 (2009).",
+				"tr":  "N. A. Rasih and A. K. Yahya, J. Alloys Compd., 480, Iss. 2: 777 (2009)."
+			},
+			{
+				"doi": "10.1007/s00339-016-0101-0",
+				"or":  "W. Abdeen, A. El. Tahan, R. Awad, A. I. Abou Aly, E. M. El-Maghraby, and A. Khalaf, Appl. Phys. A, 122, Iss. 6: 574 (2016).",
+				"tr":  "W. Abdeen, A. El. Tahan, R. Awad, A. I. Abou Aly, E. M. El-Maghraby, and A. Khalaf, Appl. Phys. A, 122, Iss. 6: 574 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "M. B. Solunke, K. B. Modi, V. K. Lakhani, K. B. Zankat, P. U. Sharma, P. V. Reddy, and S. S. Shah, Ind. J. Pure Appl. Phys., 45, No. 9: 764 (2007).",
+				"tr":  "M. B. Solunke, K. B. Modi, V. K. Lakhani, K. B. Zankat, P. U. Sharma, P. V. Reddy, and S. S. Shah, Ind. J. Pure Appl. Phys., 45, No. 9: 764 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Tahraoui, Y. Boumaïza, and B. Boudour, Optoelectron. Adv. Mater., 4, No. 11: 1771 (2010).",
+				"tr":  "T. Tahraoui, Y. Boumaïza, and B. Boudour, Optoelectron. Adv. Mater., 4, No. 11: 1771 (2010)."
+			},
+			{
+				"doi": "10.1016/0921-4534(96)00267-5",
+				"or":  "R. Ravinder Reddy and P. Venugopal Reddy, Physica C, 265, Iss. 1–2: 96 (1996).",
+				"tr":  "R. Ravinder Reddy and P. Venugopal Reddy, Physica C, 265, Iss. 1–2: 96 (1996)."
+			},
+			{
+				"doi": "10.1080/01411594.2015.1021349",
+				"or":  "S. Ismail, A.-B. M. A. Ibrahim, and A. K. Yahya, Phase Transitions, 88, Iss. 7: 692 (2015).",
+				"tr":  "S. Ismail, A.-B. M. A. Ibrahim, and A. K. Yahya, Phase Transitions, 88, Iss. 7: 692 (2015)."
+			},
+			{
+				"doi": "10.1007/978-3-642-52369-4",
+				"or":  "L. M. Brekhovskikh, and O. A. Godin, Acoustic of Layered Media I: Plane and Quasi-Plane Waves (Berlin: Springer-Verlag: 1990).",
+				"tr":  "L. M. Brekhovskikh, and O. A. Godin, Acoustic of Layered Media I: Plane and Quasi-Plane Waves (Berlin: Springer-Verlag: 1990)."
+			},
+			{
+				"doi": "",
+				"or":  "G. A. D. Briggs, Acoustic Microscopy (Oxford: Oxford University: 2010).",
+				"tr":  "G. A. D. Briggs, Acoustic Microscopy (Oxford: Oxford University: 2010)."
+			},
+			{
+				"doi": "10.1201/9781420042139",
+				"or":  "J. David and N. Cheeke, Fundamentals and Applications of Ultrasonic Waves (Montreal: Concordia University Montreal: 2002).",
+				"tr":  "J. David and N. Cheeke, Fundamentals and Applications of Ultrasonic Waves (Montreal: Concordia University Montreal: 2002)."
+			},
+			{
+				"doi": "10.1063/1.92198",
+				"or":  "C. J. R. Sheppard and T. Wilson, J. Appl. Phys. Lett., 38, Iss. 11: 858 (1981).",
+				"tr":  "C. J. R. Sheppard and T. Wilson, J. Appl. Phys. Lett., 38, Iss. 11: 858 (1981)."
+			},
+			{
+				"doi": "10.1088/0953-2048/3/11/006",
+				"or":  "Chang Fanggao, M. Cankurtaran, G. A. Sauders, D. P. Almond, P. J. Ford, and A. Al-Kheffaji, Supercond. Sci. Technol., 3, No. 11: 546 (1990).",
+				"tr":  "Chang Fanggao, M. Cankurtaran, G. A. Sauders, D. P. Almond, P. J. Ford, and A. Al-Kheffaji, Supercond. Sci. Technol., 3, No. 11: 546 (1990)."
+			}
+		]
+	}
+}

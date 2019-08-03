@@ -1,0 +1,127 @@
+{
+	"_id":    "MFiNT.38.11.1541",
+	"year":   2016,
+	"volume": 38,
+	"issue":  11,
+	"pages":  [1541,1560],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["22.08.2016"],
+	"PACS":   "61.72.Cc, 64.70.kd, 66.30.Ny, 66.30.Pa, 68.65.Ac, 81.16.Be, 81.20.Ka, 82.33.Vx",
+	"title":   {
+		"ua": "Підхід оберненої задачі для прогнози характеристик самопоширюваної високотемпературної синтези у багатошарових фоліях з урахуванням конкурентного фазоутворення",
+		"en": "The Inverse-Problem Approach for Forecasting Characteristics of a Self-Propagating High-Temperature Synthesis in Multilayer Foils in View of Competitive Formation of Phases",
+		"ru": "Подход обратной задачи для прогнозирования характеристик самораспространяющегося высокотемпературного синтеза в многослойных фольгах с учётом конкурентного фазообразования"
+	},
+	"abstract": {
+		"ua": "Запропоновано напіваналітичний розв’язок оберненої задачі багатостадійної СВС-реакції для визначення термодинамічної рушійної сили і параметрів реакційної дифузії у багатошаровій фолії з нанорозмірним періодом прошарків. Метода ґрунтується на мірянні температури та швидкости фронту СВС-реакції в залежності від часу ізотермічного відпалу. Запропоновано аналітичні формули для оцінювання температури та швидкости фронту двостадійної СВС-реакції з урахуванням старіння фолії.",
+		"en": "A semi-analytical solution of the inverse problem of the multistage SHS-reaction description is suggested for determining the thermodynamic driving force and parameters of reaction diffusion in a multilayer nanofoil. The method is based on measurements of front temperature and front velocity as functions of the time of isothermal ageing. In order to estimate the front velocity of multistage SHS-reaction with account of foil ageing, the analytical formulae are suggested. Experimental SHS front temperature dependence on isothermal annealing time has linear sections corresponding to the parabolic growth phase sequence and fractures, which are likely corresponding to the beginning of the next phase, changes in diffusion mechanisms, polymorphic transformations, etc. Approximation of temperature dependences is used to evaluate the thermodynamic driving force for each stage. The fitting of the experimental dependences of SHS-front velocity on the isothermal annealing time and the analytical formula values allow us to estimate the diffusion coefficients for each stage.",
+		"ru": "Предложено полуаналитическое решение обратной задачи многостадийной СВС-реакции для определения термодинамической движущей силы и параметров реакционной диффузии в многослойной фольге с наноразмерным периодом слоёв. Метод основан на измерении температуры и скорости фронта СВС-реакции в зависимости от времени изотермического отжига. Предложены аналитические формулы для оценки температуры и скорости фронта двухстадийной СВС-реакции с учётом старения фольги."
+	},
+	"keywords": {
+		"ua": "реакційна дифузія, фазоутворення, самопоширювана високотемпературна синтеза (СВС), параболічний закон росту, інтерметаліди, багатошарова фолія",
+		"en": "reaction diffusion, phase formation, self-propagating high-temperature synthesis (SHS), parabolic growth law, intermetallic compounds, multilayer foils",
+		"ru": "реакционная диффузия, фазообразование, самораспространяющийся высокотемпературный синтез (СВС), параболический закон роста, интерметаллиды, многослойная фольга"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Т. В. Запорожець", "en": "T. V. Zaporozhets", "ru": "Т. В. Запорожец"},
+			"OID": [214]
+		},
+		{
+			"AID": {"ua": "Я. Д. Король", "en": "Ya. D. Korol", "ru": "Я. Д. Король"},
+			"OID": [214]
+		}
+	],
+	"references": {
+		"count": 17,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "﻿1. А. Я. Ищенко, Ф. В. Фальченко, А. И. Устинов, Автоматическая сварка, 7: 5 (2007).",
+				"tr":  "A. Ya. Ishchenko, F. V. Fal'chenko, and A. I. Ustinov, Avtomaticheskaya Svarka, 7: 5 (2007)."
+			},
+			{
+				"doi": "10.15407/tpwj2015.09.02",
+				"or":  "A. I. Ustinov, Yu. V. Falchenko, T. V. Melnichenko, L. V. Petrushinets, K. V. Lyapina, A. E. Shishkin, and V. P. Gurienko, The Paton Welding Journal, 9: 13 (2015).",
+				"tr":  "A. I. Ustinov, Yu. V. Falchenko, T. V. Melnichenko, L. V. Petrushinets, K. V. Lyapina, A. E. Shishkin, and V. P. Gurienko, The Paton Welding Journal, 9: 13 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "http://www.indium.com/nanofoil/",
+				"tr":  "http://www.indium.com/nanofoil/"
+			},
+			{
+				"doi": "10.1063/1.365886",
+				"or":  "B. Mann, A. J. Gavens, M. E. Reiss, D. Van Heerden, G. Bao, and T. P. Weihs, J. Appl. Phys., 82, No. 3: 1178 (1997).",
+				"tr":  "B. Mann, A. J. Gavens, M. E. Reiss, D. Van Heerden, G. Bao, and T. P. Weihs, J. Appl. Phys., 82, No. 3: 1178 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. В. Запорожець, А. М. Гусак, А. И. Устинов, Металлофиз. новейшие технол., 33, № 8: 1075 (2011).",
+				"tr":  "T. V. Zaporozhets, A. M. Gusak, and A. I. Ustinov, Metallofiz. Noveishie Tekhnol., 33, No. 8: 1075 (2011) (in Russian)."
+			},
+			{
+				"doi": "10.3103/S1061386210040011",
+				"or":  "T. V. Zaporozhets, A. M. Gusak, and A. I. Ustinov, Int. J. Self-Propag. High-Temp. Synth., 19, No. 4: 227 (2010).",
+				"tr":  "T. V. Zaporozhets, A. M. Gusak, and A. I. Ustinov, Int. J. Self-Propag. High-Temp. Synth., 19, No. 4: 227 (2010)."
+			},
+			{
+				"doi": "10.1063/1.2975830",
+				"or":  "J. C. Trenkle, L. J. Koerner, M. W. Tate, S. M. Gruner, T. P. Weihs, and T. C. Hufnagel, Appl. Phys. Lett., 93: 081903 (2008).",
+				"tr":  "J. C. Trenkle, L. J. Koerner, M. W. Tate, S. M. Gruner, T. P. Weihs, and T. C. Hufnagel, Appl. Phys. Lett., 93: 081903 (2008)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(01)01549-0",
+				"or":  "Ping Zhu, J. C. M. Li, and C. T. Liu, Mater. Sci. Eng. A, 329–331: 57 (2002).",
+				"tr":  "Ping Zhu, J. C. M. Li, and C. T. Liu, Mater. Sci. Eng. A, 329–331: 57 (2002)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.84.024113",
+				"or":  "F. Baras and O. Politano, Phys. Rev. B, 84, No. 2: 024113 (2011).",
+				"tr":  "F. Baras and O. Politano, Phys. Rev. B, 84, No. 2: 024113 (2011)."
+			},
+			{
+				"doi": "10.1063/1.3087490",
+				"or":  "R. Knepper, M. R. Snyder, G. Fritz Greg, K. Fisher, O. M. Knio, and T. P. Weihs, J. Appl. Phys., 105: 083504 (2009).",
+				"tr":  "R. Knepper, M. R. Snyder, G. Fritz Greg, K. Fisher, O. M. Knio, and T. P. Weihs, J. Appl. Phys., 105: 083504 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Armstrong and M. Koszykowski, Proc. Int. Symp. on the Combustion and Plasma-Synthesis of High-Temperature Materials (Oct. 23–26, 1988, San Francisco), paper No. 6.",
+				"tr":  "R. Armstrong and M. Koszykowski, Proc. Int. Symp. on the Combustion and Plasma-Synthesis of High-Temperature Materials (Oct. 23–26, 1988, San Francisco), paper No. 6."
+			},
+			{
+				"doi": "",
+				"or":  "Т. В. Запорожец, А. М. Гусак, А. И. Устинов, Совр. электрометаллургия, 1: 40 (2010).",
+				"tr":  "T. V. Zaporozhets, A. M. Gusak, and A. I. Ustinov, Sovr. Elektrometallurgiya, 1: 40 (2010) (in Russian)."
+			},
+			{
+				"doi": "10.3103/S1061386213040092",
+				"or":  "T. V. Zaporozhets, A. M. Gusak, Ya. D. Korol, and A. I. Ustinov, Int. J. Self-Propag. High-Temp. Synth., 22, No. 4: 222 (2013).",
+				"tr":  "T. V. Zaporozhets, A. M. Gusak, Ya. D. Korol, and A. I. Ustinov, Int. J. Self-Propag. High-Temp. Synth., 22, No. 4: 222 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. Б. Зельдович, Д. А. Франк-Каменецкий, Журн. физ. химии, 12: 100 (1938).",
+				"tr":  "Ya. B. Zel'dovich and D. A. Frank-Kamenetskiy, Zhurn. Fiz. Khimii, 12: 100 (1938) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. В. Запорожец, А. М. Гусак, А. И. Устинов, Совр. электрометаллургия, 3: 38 (2012).",
+				"tr":  "T. V. Zaporozhets, A. M. Gusak, and A. I. Ustinov, Sovr. Elektrometallurgiya, 3: 38 (2012) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(03)00211-8",
+				"or":  "K. J. Blobaum, D. Van Heerden, A. J. Gavens, and T. P. Weihs, Acta Mater., 51: 3871 (2003).",
+				"tr":  "K. J. Blobaum, D. Van Heerden, A. J. Gavens, and T. P. Weihs, Acta Mater., 51: 3871 (2003)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(96)00317-5",
+				"or":  "C. Pohla and P. L. Ryder, Acta Mater., 45, No. 5: 2155 (1997).",
+				"tr":  "C. Pohla and P. L. Ryder, Acta Mater., 45, No. 5: 2155 (1997)."
+			}
+		]
+	}
+}

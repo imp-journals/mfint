@@ -1,0 +1,176 @@
+{
+	"_id":    "MFiNT.36.06.0745",
+	"year":   2014,
+	"volume": 36,
+	"issue":  6,
+	"pages":  [745,756],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["27.01.2014"],
+	"PACS":   "61.44.Br, 61.80.Ba, 61.82.Bg, 62.20.Qp, 68.55.Nq, 81.40.Wx",
+	"title":   {
+		"ua": "Формування декагональної квазікристалічної фази за лазерного леґування алюмінію кобальтом та нікелем",
+		"en": "Decagonal Quasi-Crystalline Phase Formation During Laser Alloying of Aluminium with Cobalt and Nickel",
+		"ru": "Формирование декагональной квазикристаллической фазы при лазерном легировании алюминия кобальтом и никелем"
+	},
+	"abstract": {
+		"ua": "Методами рентґенографічного, металографічного, рентґеноспектрального аналізів та електронної сканівної мікроскопії досліджено структурно-фазовий стан поверхневих шарів технічного алюмінію після імпульсного лазерного леґування кобальтом та нікелем. Показано можливість формування в зоні лазерного леґування дисперсної гетерофазної структури, яка містить квазикристалічну декагональну фазу. Проаналізовано вплив частоти повторюваності імпульсів за постійної швидкості переміщення променя на структуру зони та зміну середніх значень мікротвердості в ній.",
+		"en": "Study of the phase and structural states of technical-aluminium surface layers after pulsed-laser nickel and cobalt alloying are investigated by metallographic analysis, X-ray diffraction spectroscopy, and scanning electron microscopy methods. Possibility of dispersed heterophase structure formation with quasi-crystalline decagonal phase is demonstrated. The influence of pulse-repetition rate on the structure of alloyed zone and microhardness distribution at constant velocity of the beam movement is analysed.",
+		"ru": "Методами рентгенографического, металлографического, рентгеноспектрального анализов и электронной сканирующей микроскопии исследовано структурно-фазовое состояние поверхностных слоёв технического алюминия после импульсного лазерного легирования кобальтом и никелем. Показана возможность формирования дисперсной гетерофазной структуры, включающей квазикристаллическую декагональную фазу, в зоне лазерного легирования. Проанализировано влияние частоты следования импульсов при постоянной скорости перемещения луча на структуру зоны и изменение средних значений микротвёрдости в ней."
+	},
+	"keywords": {
+		"ua": "квазікрісталлічна декагональна фаза, інтерметаліди, лазерне леґування, гартування з рідкого стану, мікроструктура",
+		"en": "quasi-crystalline decagonal phase, intermetallic compound, laser alloying, quenching from the liquid state, microstructure",
+		"ru": "квазикристаллическая декагональная фаза, интерметаллид, лазерное легирование, закалка из жидкого состояния, микроструктура"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. В. Гіржон", "en": "V. V. Girzhon", "ru": "В. В. Гиржон"},
+			"OID": [221]
+		},
+		{
+			"AID": {"ua": "В. М. Ковальова", "en": "V. M. Kovalyova", "ru": "В. Н. Ковалёва"},
+			"OID": [221]
+		},
+		{
+			"AID": {"ua": "О. В. Смоляков", "en": "O. V. Smolyakov", "ru": "А. В. Смоляков"},
+			"OID": [221]
+		}
+	],
+	"references": {
+		"count": 26,
+		"list":  [
+			{
+				"doi": "10.1023/B:PMMC.0000028275.84456.6f",
+				"or":  "B. Grushko and T. Ya. Velikanova, Powder Metallurgy and Metal Ceramics, 43: 72 (2004).",
+				"tr":  "B. Grushko and T. Ya. Velikanova, Powder Metallurgy and Metal Ceramics, 43: 72 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Х. Векилов, Э. И. Исаев, Кристаллография, 52: 966 (2007).",
+				"tr":  "Yu. H. Vekilov and Eh. I. Isaev, Kristallografiya, 52: 966 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "H.-R. Trebin, Quasicrystals: Structure and Physical Properties (Wiley-VCH Verlag GmbH & Co. KGaA: 2003).",
+				"tr":  "H.-R. Trebin, Quasicrystals: Structure and Physical Properties (Wiley-VCH Verlag GmbH & Co. KGaA: 2003)."
+			},
+			{
+				"doi": "",
+				"or":  "N. K. Mukhopadhyay, T. P. Yadav, R. S. Tiwari, and O. N. Srivastava, Cryst. Mater., 223: 716 (2008).",
+				"tr":  "N. K. Mukhopadhyay, T. P. Yadav, R. S. Tiwari, and O. N. Srivastava, Cryst. Mater., 223: 716 (2008)."
+			},
+			{
+				"doi": "10.1007/b58222",
+				"or":  "Y. Kawazoe, J.-Z. Yu, and A.-P. Tsai, Nonequilibrium Phase Diagrams of Ternary Amorphous Alloys (Berlin: Springer: 1997).",
+				"tr":  "Y. Kawazoe, J.-Z. Yu, and A.-P. Tsai, Nonequilibrium Phase Diagrams of Ternary Amorphous Alloys (Berlin: Springer: 1997)."
+			},
+			{
+				"doi": "10.1007/s11669-012-9980-8",
+				"or":  "V. Raghavan, J. Phase Equilib., 33: 53 (2012).",
+				"tr":  "V. Raghavan, J. Phase Equilib., 33: 53 (2012)."
+			},
+			{
+				"doi": "10.1007/BF02647563",
+				"or":  "V. Raghavan, J. Phase Equilib., 15: 409 (1994).",
+				"tr":  "V. Raghavan, J. Phase Equilib., 15: 409 (1994)."
+			},
+			{
+				"doi": "10.1007/s11669-008-9255-6",
+				"or":  "V. Raghavan, J. Phase Equilib., 29: 176 (2008).",
+				"tr":  "V. Raghavan, J. Phase Equilib., 29: 176 (2008)."
+			},
+			{
+				"doi": "10.1007/BF01729009",
+				"or":  "A. Inoue, H. M. Kimura, T. Masumoto et al., J. Mater. Sci. Lett., 6: 771 (1987).",
+				"tr":  "A. Inoue, H. M. Kimura, T. Masumoto et al., J. Mater. Sci. Lett., 6: 771 (1987)."
+			},
+			{
+				"doi": "10.1007/978-3-662-10116-2",
+				"or":  "Y. Kawazoe, Structure and Properties of Aperiodic Materials (Berlin: Springer: 2003).",
+				"tr":  "Y. Kawazoe, Structure and Properties of Aperiodic Materials (Berlin: Springer: 2003)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/SSP.186.255",
+				"or":  "D. Stróż and K. Prusik, Solid State Phenom., 186: 255 (2012).",
+				"tr":  "D. Stróż and K. Prusik, Solid State Phenom., 186: 255 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Ranganathan, K. Alok Singh, and G. van Tendeloo, Philos. Mag. A, 64, No. 2: 413 (2012).",
+				"tr":  "S. Ranganathan, K. Alok Singh, and G. van Tendeloo, Philos. Mag. A, 64, No. 2: 413 (2012)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(03)00445-6",
+				"or":  "El. Huttunen-Saarivirta, J. Alloys Compd., 363: 150 (2004).",
+				"tr":  "El. Huttunen-Saarivirta, J. Alloys Compd., 363: 150 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "A. P. Tsai, A. Inoue, and T. Masumoto, J. Alloys Compd., 30: 463 (1989).",
+				"tr":  "A. P. Tsai, A. Inoue, and T. Masumoto, J. Alloys Compd., 30: 463 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "A. I. Goldman et al., American Scientist, 84: 230 (1996).",
+				"tr":  "A. I. Goldman et al., American Scientist, 84: 230 (1996)."
+			},
+			{
+				"doi": "10.1007/s11669-008-9258-3",
+				"or":  "V. Raghavan, J. Phase Equilib., 29: 180 (2008).",
+				"tr":  "V. Raghavan, J. Phase Equilib., 29: 180 (2008)."
+			},
+			{
+				"doi": "10.1134/S0036029507040118",
+				"or":  "P. A. Sivtsova, E. Yu. Neumerzhitskaya, and V. G. Shepelevich, Russ. Metall., 327 (2007).",
+				"tr":  "P. A. Sivtsova, E. Yu. Neumerzhitskaya, and V. G. Shepelevich, Russ. Metall., 327 (2007)."
+			},
+			{
+				"doi": "10.1007/s11661-999-0177-7",
+				"or":  "Xiao Gang Lu, Yuwen Cui, and Zhanpeng Jin, Metall. Trans. A, 30: 1785 (1999).",
+				"tr":  "Xiao Gang Lu, Yuwen Cui, and Zhanpeng Jin, Metall. Trans. A, 30: 1785 (1999)."
+			},
+			{
+				"doi": "10.1007/s11669-008-9293-0",
+				"or":  "V. Raghavan, J. Phase Equilib., 29: 280 (2008).",
+				"tr":  "V. Raghavan, J. Phase Equilib., 29: 280 (2008)."
+			},
+			{
+				"doi": "10.1007/978-3-662-05028-6",
+				"or":  "J.-B. Suck, Quasicrystals: An Introduction to Structure, Physical Properties and Applications (Berlin: Springer: 2002).",
+				"tr":  "J.-B. Suck, Quasicrystals: An Introduction to Structure, Physical Properties and Applications (Berlin: Springer: 2002)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Гиржон, А. В. Смоляков, И. В. Танцюра, Физ. мет. металловед., 106, №4: 398 (2008).",
+				"tr":  "V. V. Girzhon, O. V. Smolyakov, and I. V. Tantsyura, Fiz. Met. Metalloved., 106, No. 4: 398 (2008) (in Russian)."
+			},
+			{
+				"doi": "10.1007/978-3-642-19831-1",
+				"or":  "G. G. Gladush, Physics of Laser Materials Processing: Theory and Experiment (Berlin: Springer-Verlag: 2011).",
+				"tr":  "G. G. Gladush, Physics of Laser Materials Processing: Theory and Experiment (Berlin: Springer-Verlag: 2011)."
+			},
+			{
+				"doi": "10.1016/j.jnoncrysol.2011.09.017",
+				"or":  "V. V. Girzhon, V. M. Kovalyova, O. V. Smolyakov, and M. I. Zakharenko, J. Non-Cryst. Solids, 358: 137 (2012).",
+				"tr":  "V. V. Girzhon, V. M. Kovalyova, O. V. Smolyakov, and M. I. Zakharenko, J. Non-Cryst. Solids, 358: 137 (2012)."
+			},
+			{
+				"doi": "10.1007/s11669-008-9298-8",
+				"or":  "V. Raghavan, J. Phase Equilib., 29: 267 (2008).",
+				"tr":  "V. Raghavan, J. Phase Equilib., 29: 267 (2008)."
+			},
+			{
+				"doi": "10.3367/UFNr.0168.199803b.0259",
+				"or":  "Р. Х. Зейтунян, Успехи физических наук, 168: 259 (1998).",
+				"tr":  "R. Kh. Zeytounian, Uspekhi Fizicheskikh Nauk, 168: 259 (1998) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Майоров, Проявления капиллярной термоконцентрационной неустойчивости при взаимодействии лазерного излучения с веществом (Москва: Физматлит: 2009).",
+				"tr":  "V. S. Mayorov, Proyavleniya Kapillyarnoy Termokoncentratsionnoy Neustoychivosti pri Vzaimodeystvii Lazernogo Izlucheniya s Veshchestvom (Moscow: Fizmatlit: 2009) (in Russian)."
+			}
+		]
+	}
+}

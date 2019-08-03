@@ -1,0 +1,72 @@
+{
+	"_id":    "MFiNT.39.10.1411",
+	"year":   2017,
+	"volume": 39,
+	"issue":  10,
+	"pages":  [1411,1422],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["28.08.2017"],
+	"PACS":   "61.25.Mv, 61.66.Dk, 68.55.J-, 68.70.+w, 81.10.Fq, 81.30.Fb, 83.50.Uv",
+	"title":   {
+		"ua": "Дослідження можливости формування у стопах Al розщепної морфології дендритів в умовах великих концентраційних ґрадієнтів",
+		"en": "Study of a Possibility of Formation of a Splitting Morphology of Dendrites in Alloys of Al in Conditions of High Concentration Gradients",
+		"ru": "Исследование возможности формирования в сплавах Al расщепляющейся морфологии дендритов в условиях больших концентрационных градиентов"
+	},
+	"abstract": {
+		"ua": "Досліджено особливості росту дендритів при спрямованій кристалізації в умовах великих концентраційних ґрадієнтів для пар Al–Zn, Al–Sn та Al–евтектика Al–Si. Для здійснення експериментів було створено спеціяльний пристрій, в якому розміщувалися у стик два циліндричні зразки. Встановлено, що розщеплення дендритних стволів має місце для пари Al–Zn на ділянці переходу від дендритів на основі Al до дендритів на основі Zn.",
+		"en": "Peculiarities of dendrite growth during directional solidification under heavy concentration gradients are studied for the Al–Zn, Al–Sn and Al–eutectic Al–Si pairs. Special device is constructed, and two butted cylindrical specimens are positioned into it. As found, a splitting of dendrite steams takes place for the Al–Zn pair in the transition region from Al-based dendrites to Zn-based ones.",
+		"ru": "Исследованы особенности дендритного роста при направленной кристаллизации в условиях больших концентрационных градиентов для пар Al–Zn, Al–Sn и Al–эвтектика Al–Si. Для проведения экспериментов было создано специальное устройство, в которое помещались встык два цилиндрических образца. Установлено, что расщепление дендритных стволов имеет место для пары Al–Zn на участке перехода от дендритов на основе Al к дендритам на основе Zn."
+	},
+	"keywords": {
+		"ua": "дендрит, концентраційний ґрадієнт, розщеплення, зміна переважного напрямку",
+		"en": "dendrite, concentration gradient, splitting, change of preferential direction",
+		"ru": "дендрит, концентрационный градиент, расщепление, смена преимущественного направления"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. Г. Борисов", "en": "A. G. Borysov", "ru": "А. Г. Борисов"},
+			"OID": [15]
+		},
+		{
+			"AID": {"ua": "В. Ю. Шейгам", "en": "V. Yu. Sheigam", "ru": "В. Ю. Шейгам"},
+			"OID": [15]
+		}
+	],
+	"references": {
+		"count": 6,
+		"list":  [
+			{
+				"doi": "10.2355/isijinternational.50.1165",
+				"or":  "J. G. Sim, B. H. Choi, Y. S. Jang, J. M. Kim, and C. P. Hong, ISIJ International, 50, No. 8: 1165 (2010).",
+				"tr":  "J. G. Sim, B. H. Choi, Y. S. Jang, J. M. Kim, and C. P. Hong, ISIJ International, 50, No. 8: 1165 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "M. C. Flemings, Metallurgical Science and Technology, 18, No. 2: 3 (2000).",
+				"tr":  "M. C. Flemings, Metallurgical Science and Technology, 18, No. 2: 3 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Борисов, Процессы литья, № 5: 19 (2011).",
+				"tr":  "A. G. Borisov, Protsessy Litya, No. 5: 19 (2011) (in Russian)."
+			},
+			{
+				"doi": "10.1038/nmat1693",
+				"or":  "T. Haxhimali, A. Karma, F. Gonzales, and M. Rappaz, Nature Materials, 5: 660 (2006).",
+				"tr":  "T. Haxhimali, A. Karma, F. Gonzales, and M. Rappaz, Nature Materials, 5: 660 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "Металлы: Справочник (Ред. К. Дж. Смитлз) (Москва: Металлургия: 1980) (пер. с англ.).",
+				"tr":  "Metally: Spravochnik [Metals Reference Book] (Ed. C. J. Smithells) (Moscow: Metallurgiya: 1980) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Чалмерс, Теория затвердевания (Москва: Металлургия: 1968).",
+				"tr":  "B. Chalmers, Teoriya Zatverdevaniya [Principles of Solidification] (Moscow: Metallurgiya: 1968) (Russian translation)."
+			}
+		]
+	}
+}

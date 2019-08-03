@@ -1,0 +1,234 @@
+{
+	"_id":    "MFiNT.37.06.0839",
+	"year":   2015,
+	"volume": 37,
+	"issue":  6,
+	"pages":  [839,852],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["02.12.2014","16.04.2015"],
+	"PACS":   "06.60.Vz, 42.62.Cf, 62.20.me, 62.20.mm, 81.20.Vj, 81.40.Np, 81.70.Bt",
+	"title":  {
+		"ua": "Втомна міцність неіржавійних сталей AISI 430—304, зварених променем зварювального CO$_{2}$-лазера",
+		"en": "The Fatigue Strength of AISI 430—304 Stainless Steels Welded by CO$_{2}$ Laser Beam Welding",
+		"ru": "Усталостная прочность нержавеющих сталей AISI 430—304, сваренных лучом сварочного CO$_{2}$-лазера"
+	},
+	"abstract": {
+		"ua": "В цій роботі досліджено втомну міцність неіржавійних сталей AISI 430—304, зварених променем CO$_{2}$-лазера. Експерименти з лазерного зварювання виконувалися в атмосфері гелію за потужности зварювання у 2000, 2250 і 2500 Вт із швидкістю зварювання у 100 см/хв. Зони зварювання досліджувалися методами оптичної мікроскопії, сканівної електронної мікроскопії та енергодисперсійної спектроскопії. Дослідження на втому виконувалися з використанням машини для випробувань на вісну втому, а втомна міцність аналізувалася шляхом побудови $S-N$-кривих та критичного спостереження поверхонь втомного руйнування досліджених зразків. Експериментальні результати показують, що механічні властивості та мікроструктурні особливості значно залежать від потужности зварювання. Втомна міцність зразків, зварених CO$_{2}$-лазером, зростає завдяки збільшенню глибини проникнення в зоні зварювання зі збільшенням потужности зварювання за обраних умов. Найкращі властивості спостерігалися у зразків, зварених за підведеної теплоти при 2500 Вт та швидкости зварювання у 100 см/хв.",
+		"en": "In this study, the fatigue strength of AISI 430—304 stainless steels welded by CO$_{2}$ laser beam welding (LBW) is investigated. Laser welding experiments are carried under helium atmosphere at 2000, 2250 and 2500 W welding powers with 100 cm/min welding speed. The welding zones are examined by optical microscopy, scanning electron microscopy, and energy dispersive spectroscopy analysis. Fatigue tests are performed using an axial fatigue test machine, and the fatigue strength is analysed drawing $S-N$ curves and critically observing fatigue fracture surfaces of the tested samples. The experimental results indicate that mechanical properties and microstructural features are affected significantly by welding power. The fatigue strength of CO$_{2}$ laser welded samples increase due to higher deep penetration in welding zone with increasing welding power in chosen conditions. The best properties are observed with the specimens welded at 2500 W heat input and 100 cm/min welding speed.",
+		"ru": "В данной работе исследована усталостная прочность нержавеющих сталей AISI 430—304, сваренных лучом CO$_{2}$-лазера. Эксперименты по лазерной сварке выполнялись в атмосфере гелия при мощностях сварки 2000, 2250 и 2500 Вт и скорости сварки 100 см/мин. Зоны сварки исследовались методами оптической микроскопии, сканирующей электронной микроскопии и энергодисперсионной спектроскопии. Испытания на усталость производились с использованием машины для испытаний на осевую усталость, а усталостная прочность анализировалась путём построения $S-N$-кривых и критического наблюдения поверхностей усталостного разрушения исследованных образцов. Экспериментальные результаты показывают, что механические свойства и микроструктурные особенности значительно зависят от мощности сварки. Усталостная прочность образцов, сваренных CO$_{2}$-лазером, возрастает благодаря увеличению глубины проникновения в зоне сварки с увеличением мощности сварки при выбранных условиях. Наилучшие свойства наблюдались у образцов, сваренных при подводимой теплоте с 2500 Вт и скорости сварки 100 см/мин."
+	},
+	"keywords": {
+		"ua": "втомна міцність, зона з'єднання, неіржавійні сталі, AISI 430, AISI 304, CO$_{2}$ LBW",
+		"en": "fatigue strength, welding zone, stainless steels, AISI 430, AISI 304, CO$_{2}$ LBW",
+		"ru": "усталостная прочность, зона соединения, нержавеющие стали, AISI 430, AISI 304, CO$_{2}$ LBW"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "У. Калігулу", "en": "U. Caligulu", "ru": "У. Калигулу"},
+			"OID": [413]
+		},
+		{
+			"AID": {"ua": "М. Туркмен", "en": "M. Turkmen", "ru": "М. Туркмен"},
+			"OID": [414]
+		},
+		{
+			"AID": {"ua": "А. Озер", "en": "A. Ozer", "ru": "А. Озер"},
+			"OID": [415]
+		},
+		{
+			"AID": {"ua": "М. Таскін", "en": "M. Taskin", "ru": "М. Таскин"},
+			"OID": [413]
+		},
+		{
+			"AID": {"ua": "М. Озер", "en": "M. Ozer", "ru": "М. Озер"},
+			"OID": [416]
+		}
+	],
+	"references": {
+		"count": 36,
+		"list":  [
+			{
+				"doi": "10.1016/j.jmatprotec.2007.03.102",
+				"or":  "L. Yi-Chun and Y. Ming-Huei, J. Mater. Process. Technol., 190: 102 (2007).",
+				"tr":  "L. Yi-Chun and Y. Ming-Huei, J. Mater. Process. Technol., 190: 102 (2007)."
+			},
+			{
+				"doi": "10.3139/147.100303",
+				"or":  "M. Taskin, S. Ozan, and S. Kolukisa, Practical Metallography, 43: 293 (2006).",
+				"tr":  "M. Taskin, S. Ozan, and S. Kolukisa, Practical Metallography, 43: 293 (2006)."
+			},
+			{
+				"doi": "10.3139/147.100320",
+				"or":  "S. Ozan, M. Taskin, and S. Kolukisa, Practical Metallography, 43: 575 (2006).",
+				"tr":  "S. Ozan, M. Taskin, and S. Kolukisa, Practical Metallography, 43: 575 (2006)."
+			},
+			{
+				"doi": "10.1007/s10853-005-5478-7",
+				"or":  "A. Hascalik, E. Unal, and N. Ozdemir, J. Mater. Sci., 41: 3233 (2006).",
+				"tr":  "A. Hascalik, E. Unal, and N. Ozdemir, J. Mater. Sci., 41: 3233 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "U. Caligulu, H. Dikbas, and M. Taskin, Gazi University J. Sci., 25: 35 (2012).",
+				"tr":  "U. Caligulu, H. Dikbas, and M. Taskin, Gazi University J. Sci., 25: 35 (2012)."
+			},
+			{
+				"doi": "10.1016/S0924-0136(01)00640-9",
+				"or":  "P. Hussain and A. Isnin, J. Mater. Process. Technol., 113: 222 (2001).",
+				"tr":  "P. Hussain and A. Isnin, J. Mater. Process. Technol., 113: 222 (2001)."
+			},
+			{
+				"doi": "10.1016/j.msea.2007.05.037",
+				"or":  "C.-C. Hsieh, D.-Y. Lin, M.-C. Chen, and W. Wu, Mater. Sci. Eng. A, 477: 328 (2008).",
+				"tr":  "C.-C. Hsieh, D.-Y. Lin, M.-C. Chen, and W. Wu, Mater. Sci. Eng. A, 477: 328 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Ertle and R. J. Rockwell, The Fabricator (May 15, 2001).",
+				"tr":  "W. Ertle and R. J. Rockwell, The Fabricator (May 15, 2001)."
+			},
+			{
+				"doi": "10.1016/S0924-0136(97)00485-8",
+				"or":  "B. S. Yilbas, M. Sami, J. Nickel, A. Coban, and S. A. M. Said, J. Mater. Process.Technol., 82: 13 (1998).",
+				"tr":  "B. S. Yilbas, M. Sami, J. Nickel, A. Coban, and S. A. M. Said, J. Mater. Process.Technol., 82: 13 (1998)."
+			},
+			{
+				"doi": "10.1016/S0924-0136(02)00813-0",
+				"or":  "B. S. Yilbas, S. Z. Shuja, A. Arif, and M.A. Gondal, J. Mater. Process. Technol., 135: 6 (2003).",
+				"tr":  "B. S. Yilbas, S. Z. Shuja, A. Arif, and M.A. Gondal, J. Mater. Process. Technol., 135: 6 (2003)."
+			},
+			{
+				"doi": "10.1016/S0924-0136(97)00076-9",
+				"or":  "B. S. Yilbas, J. Mater. Process. Technol., 70: 264 (1997).",
+				"tr":  "B. S. Yilbas, J. Mater. Process. Technol., 70: 264 (1997)."
+			},
+			{
+				"doi": "10.1016/j.jmatprotec.2007.11.088",
+				"or":  "E. Bayraktar, D. Kaplan, and B. S. Yilbas, J. Mater. Process. Technol., 204: 440 (2008).",
+				"tr":  "E. Bayraktar, D. Kaplan, and B. S. Yilbas, J. Mater. Process. Technol., 204: 440 (2008)."
+			},
+			{
+				"doi": "10.1016/j.matdes.2005.06.006",
+				"or":  "H. Guo Ming, Z. Jian, and L. Jian Qang, Mater. Design, 28: 240 (2007).",
+				"tr":  "H. Guo Ming, Z. Jian, and L. Jian Qang, Mater. Design, 28: 240 (2007)."
+			},
+			{
+				"doi": "10.1016/j.jmatprotec.2005.02.060",
+				"or":  "K. Y. Benyounis, A. G. Olabi, and M. S. J. Hashmi, J. Mater. Process. Technol., 164—165: 978 (2005).",
+				"tr":  "K. Y. Benyounis, A. G. Olabi, and M. S. J. Hashmi, J. Mater. Process. Technol., 164—165: 978 (2005)."
+			},
+			{
+				"doi": "10.1016/j.matlet.2004.07.066",
+				"or":  "Y. Cui and C. D. Lundin, Mater. Letters, 59: 2942 (2005).",
+				"tr":  "Y. Cui and C. D. Lundin, Mater. Letters, 59: 2942 (2005)."
+			},
+			{
+				"doi": "10.1016/j.jmatprotec.2004.04.063",
+				"or":  "M. Vural and A. Akkus, J. Mater. Process. Technol., 153—154: 1 (2004).",
+				"tr":  "M. Vural and A. Akkus, J. Mater. Process. Technol., 153—154: 1 (2004)."
+			},
+			{
+				"doi": "10.1016/j.matchar.2007.01.019",
+				"or":  "S. Y. Sirin, K. Sirin, and E. Kaluc, Mater. Characterization, 59: 351 (2008).",
+				"tr":  "S. Y. Sirin, K. Sirin, and E. Kaluc, Mater. Characterization, 59: 351 (2008)."
+			},
+			{
+				"doi": "10.1016/S0010-938X(03)00036-2",
+				"or":  "L. W. Tsay, M. C. Young, and C. Chen, Corrosion Sci., 45: 1985 (2003).",
+				"tr":  "L. W. Tsay, M. C. Young, and C. Chen, Corrosion Sci., 45: 1985 (2003)."
+			},
+			{
+				"doi": "10.1016/S0167-577X(97)00023-2",
+				"or":  "A.-M. El-Batahgy, Mater. Letters, 32: 155 (1997).",
+				"tr":  "A.-M. El-Batahgy, Mater. Letters, 32: 155 (1997)."
+			},
+			{
+				"doi": "10.3139/147.110025",
+				"or":  "M. Taskin, U. Caligulu, and S. Kolukisa, Practical Metallography, 46: 598 (2009).",
+				"tr":  "M. Taskin, U. Caligulu, and S. Kolukisa, Practical Metallography, 46: 598 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "U. Caligulu, M. Taskin, H. Dikbas, and A. K. Gur, 1st Intern. Conference on Welding Technologies (June 11—13, 2009) (Ankara: Gazi University: 2009), p. 674.",
+				"tr":  "U. Caligulu, M. Taskin, H. Dikbas, and A. K. Gur, 1st Intern. Conference on Welding Technologies (June 11—13, 2009) (Ankara: Gazi University: 2009), p. 674."
+			},
+			{
+				"doi": "10.1016/j.jmatprotec.2005.04.026",
+				"or":  "F. Curcio, G. Daurelio, F. M. C. Minutolo, and F. Caiazzo, J. Mater. Process. Technol., 175: 83 (2006).",
+				"tr":  "F. Curcio, G. Daurelio, F. M. C. Minutolo, and F. Caiazzo, J. Mater. Process. Technol., 175: 83 (2006)."
+			},
+			{
+				"doi": "10.1016/j.msea.2006.03.003",
+				"or":  "A. Zambon, P. Ferro, and F. Bonollo, Mater. Sci. Eng. A, 424: 117 (2006).",
+				"tr":  "A. Zambon, P. Ferro, and F. Bonollo, Mater. Sci. Eng. A, 424: 117 (2006)."
+			},
+			{
+				"doi": "10.1016/S0169-4332(00)00586-9",
+				"or":  "P. Bertrand, I. Smurov, and G. Grevey, Appl. Surf. Sci., No. 168 (2000).",
+				"tr":  "P. Bertrand, I. Smurov, and G. Grevey, Appl. Surf. Sci., 168: 182 (2000)."
+			},
+			{
+				"doi": "10.1016/S0167-577X(97)00023-2",
+				"or":  "A.-M. El-Batahgy, Mater. Lett., 32: 155 (1997).",
+				"tr":  "A.-M. El-Batahgy, Mater. Lett., 32: 155 (1997)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2007.02.019",
+				"or":  "F. M. Ghaini, M. J. Hamedi, M. J. Torkamany, and J. Sabbaghzadeh, Scr. Mater., 56: 955 (2007).",
+				"tr":  "F. M. Ghaini, M. J. Hamedi, M. J. Torkamany, and J. Sabbaghzadeh, Scr. Mater., 56: 955 (2007)."
+			},
+			{
+				"doi": "10.1016/j.jmatprotec.2006.02.026",
+				"or":  "M. Vural, A. Akkus, and B. Eryurek, J. Mater. Process. Technol., 176: 127 (2006).",
+				"tr":  "M. Vural, A. Akkus, and B. Eryurek, J. Mater. Process. Technol., 176: 127 (2006)."
+			},
+			{
+				"doi": "10.1016/S0011-2275(01)00100-X",
+				"or":  "T. Yuri, T. Ogata, M. Saito, and Y. Hirayama, Cryogenics, 41: 475 (2001).",
+				"tr":  "T. Yuri, T. Ogata, M. Saito, and Y. Hirayama, Cryogenics, 41: 475 (2001)."
+			},
+			{
+				"doi": "10.1016/j.matdes.2009.10.062",
+				"or":  "C. Jang, P.-Y. Cho, M. Kim, S.-J. Oh, and J.-S. Yang, Mater. Design, 31: 1862 (2010).",
+				"tr":  "C. Jang, P.-Y. Cho, M. Kim, S.-J. Oh, and J.-S. Yang, Mater. Design, 31: 1862 (2010)."
+			},
+			{
+				"doi": "10.1016/j.matdes.2008.06.030",
+				"or":  "E. Taban, E. Deleu, A. Dhooge, and E. Kaluc, Mater. Design, 30: 1193 (2009).",
+				"tr":  "E. Taban, E. Deleu, A. Dhooge, and E. Kaluc, Mater. Design, 30: 1193 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Karaaslan, N. Sonmez, and A. Topuz, 2nd Intern. Welding Technol. Conference (June, 1998, Istanbul, Turkey) (in Turkish).",
+				"tr":  "A. Karaaslan, N. Sonmez, and A. Topuz, 2nd Intern. Welding Technol. Conference (June, 1998, Istanbul, Turkey) (in Turkish)."
+			},
+			{
+				"doi": "10.1016/j.matdes.2006.05.031",
+				"or":  "M. Sahin, Mater. Design, 28: 2244 (2007).",
+				"tr":  "M. Sahin, Mater. Design, 28: 2244 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Sahin and H. E. Akata, Indust. Lubricate Tribol., No. 56: 2 (2004).",
+				"tr":  "M. Sahin and H. E. Akata, Indust. Lubricate Tribol., No. 56: 2 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Sik, Fatigue Test Machine, Patent 2008/04670 (Gazi University, Faculty of Architecture, Department of Industrial Design, Ankara, Turkey: 2008) (in Turkish).",
+				"tr":  "A. Sik, Fatigue Test Machine, Patent 2008/04670 (Gazi University, Faculty of Architecture, Department of Industrial Design, Ankara, Turkey: 2008) (in Turkish)."
+			},
+			{
+				"doi": "",
+				"or":  "E. S. Kayali, C. Ensari, and F. Dikec, Metalik Malzemelerin Mekanik Deneyleri (ITU Library: 1983) (in Turkish).",
+				"tr":  "E. S. Kayali, C. Ensari, and F. Dikec, Metalik Malzemelerin Mekanik Deneyleri (ITU Library: 1983) (in Turkish)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Konig and N. Otmanboluk, 2nd Intern. Welding Technol. Conference (June, 1998, Istanbul, Turkey).",
+				"tr":  "R. Konig and N. Otmanboluk, 2nd Intern. Welding Technol. Conference (June, 1998, Istanbul, Turkey)."
+			}
+		]
+	}
+}

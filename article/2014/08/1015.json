@@ -1,0 +1,114 @@
+{
+	"_id":    "MFiNT.36.08.1015",
+	"year":   2014,
+	"volume": 36,
+	"issue":  8,
+	"pages":  [1015,1022],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["15.05.2014"],
+	"PACS":   "71.15.Ap, 71.20.Tx, 71.27.+a, 72.10.-d, 72.80.Vp, 73.22.Pr, 81.05.ue",
+	"title":   {
+		"ua": "Електропровідність графену з домішкою азоту",
+		"en": "Electrical Conduction of Graphene Doped with Nitrogen",
+		"ru": "Электропроводность графена с примесью азота"
+	},
+	"abstract": {
+		"ua": "На основі моделі сильного зв’язку досліджено електронну структуру графену з домішкою атомів азоту. Як базис обрано хвильові функції $2s$-, $2p$-станів нейтральних невзаємодійних атомів вуглецю. При розрахунках матричних елементів Гамільтоніяна враховано перші три координаційні сфери. Показано, що гібридизація зон призводить до розщеплення енергетичного спектру електронів в області енергії Фермі. Встановлено, що зі збільшенням концентрації азоту електропровідність графену зменшується. Оскільки зі збільшенням концентрації азоту густина електронних станів на рівні Фермі збільшується, то зменшення електропровідности пояснюється більш різким зменшенням часу релаксації електронних станів.",
+		"en": "Based on the tight-binding model, the electronic structure of graphene doped with N atoms is investigated. Wave function of $2s$-, $2p$-states of non-interacting neutral C atoms are chosen. Within the calculation of the Hamiltonian matrix elements, the first three co-ordination spheres are taken into account. As found, the zones’ hybridization leads to a splitting of the energy spectrum of electrons in the Fermi energy region. With increasing of nitrogen-atoms’ concentration, the conductivity of graphene decreases. As the nitrogen atoms concentration increases, the electron density of states at the Fermi level increases; so, decreasing of conductivity is caused by much greater decrease of relaxation time of electron states.",
+		"ru": "На основе модели сильной связи исследована электронная структура графена с примесью азота. В качестве базиса выбраны волновые функции $2s$-, $2p$-состояний нейтральных невзаимодействующих атомов углерода. При расчёте матричных элементов гамильтониана учитывались первые три координационные сферы. Показано, что гибридизация зон приводит к расщеплению энергетического спектра электронов в области энергии Ферми. Установлено, что с увеличением концентрации азота электропроводность графена уменьшается. Поскольку с увеличением концентрации азота плотность электронных состояний на уровне Ферми растёт, то уменьшение электропроводности обусловлено более резким уменьшением времени релаксации электронных состояний."
+	},
+	"keywords": {
+		"ua": "графен з домішкою азоту, енергетичний спектр електронів, електропровідність, модель сильного зв’язку",
+		"en": "graphene doped with nitrogen, electron energy spectrum, electrical conduction, tight-binding model",
+		"ru": "графен с примесью азота, энергетический спектр электронов, электропроводность, модель сильной связи"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. П. Репецький", "en": "S. P. Repetskyy", "ru": "С. П. Репецкий"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "О. В. Третяк", "en": "O. V. Tretyak", "ru": "А. В. Третяк"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "І. Г. Вишивана", "en": "I. G. Vyshyvana", "ru": "И. Г. Вышиваная"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "В. А. Скотников", "en": "V. A. Skotnykov", "ru": "В. А. Скотников"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "А. А. Яценюк", "en": "A. A. Yatsenyuk", "ru": "А. А. Яценюк"},
+			"OID": [201]
+		}
+	],
+	"references": {
+		"count": 12,
+		"list":  [
+			{
+				"doi": "10.1103/PhysRevB.73.241402",
+				"or":  "Yu. V. Skrypnyk and V. M. Loktev, Phys. Rev. B, 73: 241402(R) (2006).",
+				"tr":  "Yu. V. Skrypnyk and V. M. Loktev, Phys. Rev. B, 73: 241402(R) (2006)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.75.245401",
+				"or":  "Yu. V. Skrypnyk and V. M. Loktev, Phys. Rev. B, 75: 245401 (2007).",
+				"tr":  "Yu. V. Skrypnyk and V. M. Loktev, Phys. Rev. B, 75: 245401 (2007)."
+			},
+			{
+				"doi": "10.4213/tmf340",
+				"or":  "С. П. Репецкий, Т. Д. Шатний, Теоретическая и математическая физика, 131: 456 (2002).",
+				"tr":  "S. P. Repetskii and T. D. Shatniy, Teoreticheskaya i Matematicheskaya Fizika, 131: 456 (2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. П. Репецкий, И. Г. Вышиваная, Металлофиз. новейшие технол., 26, № 7: 887 (2004).",
+				"tr":  "S. P. Repetskiy and I. G. Vyshyvana, Metallofiz. Noveishie Tekhnol., 26, No. 7: 887 (2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. P. Repetskii and I. G. Vyshivanaya, The Phys. Met. Metallogr., 99, No. 6: 558 (2005).",
+				"tr":  "S. P. Repetskii and I. G. Vyshivanaya, The Phys. Met. Metallogr., 99, No. 6: 558 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "С. П. Репецкий, И. Г. Вышиваная, Металлофиз. новейшие технол., 29, № 5: 587 (2007).",
+				"tr":  "S. P. Repetsky and I. G. Vyshivanaya, Metallofiz. Noveishie Tekhnol., 29, No. 5: 587 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. П. Репецкий, И. Г. Вишиваная, В. В. Шастун, А. Ф. Мельник, Металлофиз. новейшие технол., 33, № 4: 425 (2011).",
+				"tr":  "S. P. Repets'kyy, I. G. Vyshyvana, V. V. Shastun, and A. F. Mel'nyk, Metallofiz. Noveishie Tekhnol., 33, No. 4: 425 (2011) (in Russian)."
+			},
+			{
+				"doi": "10.1134/S0031918X12030143",
+				"or":  "S. P. Repetskii, I. G. Vyshivanaya, and D. K. Cheshkovskii, The Phys. Met. Metallogr., 113: 213 (2012).",
+				"tr":  "S. P. Repetskii, I. G. Vyshivanaya, and D. K. Cheshkovskii, The Phys. Met. Metallogr., 113: 213 (2012)."
+			},
+			{
+				"doi": "10.15407/mfint.36.04.0547",
+				"or":  "С. П. Репецький, В. А. Скотников, В. В. Шастун, Д. К. Чешківський, А. А. Яценюк, Металлофиз. новейшие технол., 36, № 4: 547 (2014).",
+				"tr":  "S. P. Repetskyi, V. A. Skotnykov, V. V. Shastun, D. K. Cheshkivskyi, and A. A. Yatsenyuk, Metallofiz. Noveishie Tekhnol., 36, No. 4: 547 (2014) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1103/PhysRev.94.1498",
+				"or":  "J. C. Slater and G. F. Koster, Phys. Rev., 94, No. 6: 1498 (1954).",
+				"tr":  "J. C. Slater and G. F. Koster, Phys. Rev., 94, No. 6: 1498 (1954)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.108.116404",
+				"or":  "S. Kim, I. Jo, D. C. Dillen, D. A. Ferrer, B. Fallahazad, Z. Yao, S. K. Banerjee, and E. Tutuc, Phys. Rev. Lett., 108: 116404 (2012).",
+				"tr":  "S. Kim, I. Jo, D. C. Dillen, D. A. Ferrer, B. Fallahazad, Z. Yao, S. K. Banerjee, and E. Tutuc, Phys. Rev. Lett., 108: 116404 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Р. Уббелоде, Ф. А. Льюис, Графит и его кристаллические соединения (Москва: Мир: 1965).",
+				"tr":  "A. R. Ubbelohde and F. A. Lewis, Grafit i Ego Kristallicheskie Soedineniya (Graphite and Its Crystal Compounds) (Moscow: Mir: 1965) (Russian translation)."
+			}
+		]
+	}
+}

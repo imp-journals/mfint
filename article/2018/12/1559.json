@@ -1,0 +1,97 @@
+{
+	"_id":    "MFiNT.40.12.1559",
+	"year":   2018,
+	"volume": 40,
+	"issue":  12,
+	"pages":  [1559,1571],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["04.04.2018"],
+	"PACS":   "71.45.Gm, 74.20.Mn, 74.25.Jb, 74.25.Kc, 74.70.Xa, 74.72.-h, 85.25.Am",
+	"title":   {
+		"ua": "Складові квазичастинкової ренормалізації надпровідників на основі заліза",
+		"en": "Components of a Quasi-Particle Renormalization of the Iron-Based Superconductors",
+		"ru": "Составляющие квазичастичной ренормализации сверхпроводников на основе железа"
+	},
+	"abstract": {
+		"ua": "Характерною загальною особливістю електронної структури надпровідників на основі заліза є сильна ренормалізація квазичастинкового спектру, що пов’язана з сильною міжелектронною взаємодією, складові якої залишаються дискусійними. Нами проведено детальну порівняльну аналізу фотоемісійних спектрів надпровідників на основі заліза (FeSe і BKFA) та надпровідних купратів (Bi-2201). Виділено константи високо- та низькоенергетичної складових власної енергії, що визначають ренормалізацію у купратах і надпровідниках на основі заліза, та доведено істотну роль електрон-фононної взаємодії в останніх.",
+		"en": "A characteristic general feature of electronic structure of the iron-based superconductors is the strong renormalization of a quasi-particle spectrum, which is associated with strong electron–electron interaction, the components of which remain controversial. We are performed a detailed comparative analysis of the photoemission spectra of iron-based superconductors (FeSe and BKFA) and superconducting cuprates (Bi-2201). The constants of the high-energy and low-energy parts of the self-energy, which determine the renormalization in cuprates and iron-based superconductors, are separated, and the essential role of the electron–phonon interaction in the latter ones is proved.",
+		"ru": "Характерной общей особенностью электронной структуры сверхпроводников на основе железа является сильная ренормализация спектра квазичастиц, связанная с сильным взаимодействием между электронами, составляющие которого остаются дискуссионными. Нами проведён детальный сравнительный анализ фотоэмиссионных спектров сверхпроводников на основе железа (FeSe и BKFA) и сверхпроводящих купратов (Bi-2201). Выделены константы высоко- и низкоэнергетической составляющих собственной энергии, определяющие ренормализацию в купратах и сверхпроводниках на основе железа, и доказана существенная роль электрон-фононного взаимодействия в последних."
+	},
+	"keywords": {
+		"ua": "електронна спектроскопія з кутовою роздільною здатністю, електронна структура, надпровідники на основі заліза, FeSe, BKFA, Bi-2201",
+		"en": "electronic structure, angle resolved photoemission spectroscopy (ARPES), iron-based superconductors, FeSe, BKFA, Bi-2201",
+		"ru": "электронная структура, электронная спектроскопия с угловым разрешением, сверхпроводники на основе железа, FeSe, BKFA, Bi-2201"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "К. О. Кухельний", "en": "K. O. Kukhelnyi", "ru": "К. A. Кухельный"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "О. А. Кордюк", "en": "O. A. Kordyuk", "ru": "А. А. Кордюк"},
+			"OID": [40, 1]
+		}
+	],
+	"references": {
+		"count": 11,
+		"list":  [
+			{
+				"doi": "10.1021/ja800073m",
+				"or":  "Y. Kamihara, T. Watanabe, M. Hirano, and H. Hosono, J. Am. Chem. Soc., 130, Iss. 11: 3296 (2008).",
+				"tr":  "Y. Kamihara, T. Watanabe, M. Hirano, and H. Hosono, J. Am. Chem. Soc., 130, Iss. 11: 3296 (2008)."
+			},
+			{
+				"doi": "10.1063/1.4752092",
+				"or":  "A. A. Kordyuk, Low Temp. Phys., 38, Iss. 9: 888 (2012).",
+				"tr":  "A. A. Kordyuk, Low Temp. Phys., 38, Iss. 9: 888 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "O. A. Kordyuk, Visn. Nac. Akad. Nauk Ukr., No. 9: 46 (2012).",
+				"tr":  "O. A. Kordyuk, Visn. Nac. Akad. Nauk Ukr., No. 9: 46 (2012)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.75.473",
+				"or":  "A. Damascelli, Z. Hussain, and Z.-X. Shen, Rev. Mod. Phys., 75, Iss. 2: 473 (2003).",
+				"tr":  "A. Damascelli, Z. Hussain, and Z.-X. Shen, Rev. Mod. Phys., 75, Iss. 2: 473 (2003)."
+			},
+			{
+				"doi": "10.1063/1.4871745",
+				"or":  "A. A. Kordyuk, Low Temp. Phys., 40, Iss. 4: 286 (2014).",
+				"tr":  "A. A. Kordyuk, Low Temp. Phys., 40, Iss. 4: 286 (2014)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.71.214513",
+				"or":  "A. A. Kordyuk, S. V. Borisenko, A. Koitzsch, J. Fink, M. Knupfer, and H. Berger, Phys. Rev. B, 71, Iss. 21: 214513-1 (2005).",
+				"tr":  "A. A. Kordyuk, S. V. Borisenko, A. Koitzsch, J. Fink, M. Knupfer, and H. Berger, Phys. Rev. B, 71, Iss. 21: 214513-1 (2005)."
+			},
+			{
+				"doi": "10.1126/science.285.5436.2110",
+				"or":  "T. Valla, A. V. Fedorov, P. D. Johnson, B. O. Wells, S. L. Hulbert, Q. Li, G. D. Gu, and N. Koshizuka, Science, 285, Iss. 5436: 2110 (1999).",
+				"tr":  "T. Valla, A. V. Fedorov, P. D. Johnson, B. O. Wells, S. L. Hulbert, Q. Li, G. D. Gu, and N. Koshizuka, Science, 285, Iss. 5436: 2110 (1999)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.78.134514",
+				"or":  "A. Subedi, L. Zhang, D. J. Singh, and M. H. Du, Phys. Rev. B, 78, Iss. 13: 134514-1 (2008).",
+				"tr":  "A. Subedi, L. Zhang, D. J. Singh, and M. H. Du, Phys. Rev. B, 78, Iss. 13: 134514-1 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.96.097001",
+				"or":  "H. Lin, S. Sahrakorpi, R. S. Markiewicz, and A. Bansil, Phys. Rev. Lett., 96, Iss. 9: 097001-1 (2006).",
+				"tr":  "H. Lin, S. Sahrakorpi, R. S. Markiewicz, and A. Bansil, Phys. Rev. Lett., 96, Iss. 9: 097001-1 (2006)."
+			},
+			{
+				"doi": "10.1140/epjst/e2010-01303-3",
+				"or":  "A. A. Kordyuk, V. B. Zabolotnyy, D. V. Evtushinsky, D. S. Inosov, T. K. Kim, B. Büchner, and S. V. Borisenko, Eur. Phys. J. Special Topics, 188: 153 (2010).",
+				"tr":  "A. A. Kordyuk, V. B. Zabolotnyy, D. V. Evtushinsky, D. S. Inosov, T. K. Kim, B. Büchner, and S. V. Borisenko, Eur. Phys. J. Special Topics, 188: 153 (2010)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.83.134513",
+				"or":  "A. A. Kordyuk, V. B. Zabolotnyy, D. V. Evtushinsky, T. K. Kim, I. V. Morozov, M. L. Kulic, R. Follath, G. Behr, B. Buechner, and S. V. Borisenko, Phys. Rev. B, 83, Iss. 13: 134513-1 (2011).",
+				"tr":  "A. A. Kordyuk, V. B. Zabolotnyy, D. V. Evtushinsky, T. K. Kim, I. V. Morozov, M. L. Kulic, R. Follath, G. Behr, B. Buechner, and S. V. Borisenko, Phys. Rev. B, 83, Iss. 13: 134513-1 (2011)."
+			}
+		]
+	}
+}

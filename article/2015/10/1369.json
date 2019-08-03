@@ -1,0 +1,96 @@
+{
+	"_id":    "MFiNT.37.10.1369",
+	"year":   2015,
+	"volume": 37,
+	"issue":  10,
+	"pages":  [1369,1376],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["24.09.2015"],
+	"PACS":   "75.20.-g, 75.30.Cr, 75.30.Gw, 75.50.Ss, 75.50.Tt, 75.70.Cn, 75.75.Cd",
+	"title":  {
+			"ua": "Магнетні та релаксаційні явища в плівкових гетероструктурах Si—TiN—Fe з вуглецевими нанотрубками",
+			"en": "Magnetic and Relaxation Phenomena in Film Si—TiN—Fe Heterostructures with Carbon Nanotubes",
+			"ru": "Магнитные и релаксационные явления в плёночных гетероструктурах Si—TiN—Fe с углеродными нанотрубками"
+		},
+	"abstract": {
+		"ua": "Представлено результати мірянь температурних і польових залежностей магнетного моменту гетероструктур Si—TiN—Fe і Si—TiN—Fe/C з нанокластерами заліза в магнетних полях, напрямлених уздовж і перпендикулярно площині підложжя. В інтервалі температур від 5 до 300 К спостерігався суперпарамагнетний характер поведінки сприйнятливости даної системи з достатньо сильною анізотропією. За температури близько 150 К виявлено якісну зміну магнетних властивостей досліджених структур, пов’язану зі стрибкоподібною зміною величини парамагнетної температури. Встановлено, що внесок вуглецю в магнетні та релаксаційні характеристики вивчених гетероструктур є визначальним.",
+		"en": "Results of the measurements of the temperature and field dependences of the magnetic moment of the Si—TiN—Fe and Si—TiN—Fe/C heterostructures with iron nanoclusters in magnetic fields directed parallel and perpendicularly to the substrate plane are presented. In the temperature range from 5 to 300 K, a superparamagnetic behaviour of the susceptibility of a system with a sufficiently strong anisotropy is observed. At temperatures about 150 K, a qualitative change in magnetic properties of the structures is revealed and associated with the abrupt change in the paramagnetic temperature value. As found, the carbon contribution into the magnetic and relaxation characteristics of the studied heterostructures is crucial.",
+		"ru": "Представлены результаты измерений температурных и полевых зависимостей магнитного момента гетероструктур Si—TiN—Fe и Si—TiN—Fe/C с нанокластерами железа в магнитных полях, направленных вдоль и перпендикулярно плоскости подложки. В интервале температур от 5 до 300 К наблюдался суперпарамагнитный характер поведения восприимчивости данной системы с достаточно сильной анизотропией. При температуре порядка 150 К обнаружено качественное изменение магнитных свойств исследованных структур, связанное со скачкообразным изменением величины парамагнитной температуры. Установлено, что вклад углерода в магнитные и релаксационные характеристики изученных гетероструктур является определяющим."
+	},
+	"keywords": {
+		"ua": "гетероструктури, нанокластери заліза, вуглецеві нанотрубки, магнетні властивості, релаксація",
+		"en": "heterostructures, iron nanoclusters, carbon nanotubes, magnetic properties, relaxation",
+		"ru": "гетероструктуры, нанокластеры железа, углеродные нанотрубки, магнитные свойства, релаксация"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Е. М. Руденко", "en": "E. M. Rudenko", "ru": "Э. М. Руденко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Е. Є. Зубов", "en": "E. E. Zubov", "ru": "Э. Е. Зубов"},
+			"OID": [4]
+		},
+		{
+			"AID": {"ua": "М. О. Білоголовський", "en": "M. A. Belogolovskii", "ru": "М. А. Белоголовский"},
+			"OID": [235]
+		},
+		{
+			"AID": {"ua": "І. В. Короташ", "en": "I. V. Korotash", "ru": "И. В. Короташ"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. П. Шаповалов", "en": "A. P. Shapovalov", "ru": "А. П. Шаповалов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Д. Ю. Полоцький", "en": "D. Yu. Polotskiy", "ru": "Д. Ю. Полоцкий"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. І. Бондаренко", "en": "S. I. Bondarenko", "ru": "С. И. Бондаренко"},
+			"OID": [4]
+		},
+		{
+			"AID": {"ua": "Ю. А. Савіна", "en": "Yu. A. Savina", "ru": "Ю. А. Савина"},
+			"OID": [4]
+		}
+	],
+	"references": {
+		"count": 6,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "V. Lazarescu, Carbon Nanotube Electrodes. Dekker Encyclopedia Nanoscience and Nanotechnology. Vol. 1 (New York: CRC Press: 2009).",
+				"tr":  "V. Lazarescu, Carbon Nanotube Electrodes. Dekker Encyclopedia Nanoscience and Nanotechnology. Vol. 1 (New York: CRC Press: 2009)."
+			},
+			{
+				"doi": "10.15407/mfint.37.04.0499",
+				"or":  "E. M. Rudenko, I. V. Korotash, D. Y. Polotskiy, L. S. Osipov, M. V. Dyakin, T. A. Prikhna, and A. P. Shapovalov, Metallofiz. Noveishie Tekhnol., 37, No. 4: 499 (2015).",
+				"tr":  "E. M. Rudenko, I. V. Korotash, D. Y. Polotskiy, L. S. Osipov, M. V. Dyakin, T. A. Prikhna, and A. P. Shapovalov, Metallofiz. Noveishie Tekhnol., 37, No. 4: 499 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "L. E. Toth, Transition Metal Carbides and Nitrides (New York: Academic Press: 1971).",
+				"tr":  "L. E. Toth, Transition Metal Carbides and Nitrides (New York: Academic Press: 1971)."
+			},
+			{
+				"doi": "",
+				"or":  "E. Meilikhov and R. Farzetdinova, Ferromagnetism of Nanostructures Consisting of Ferromagnetic Granules with Dipolar Magnetic Interaction (Advanced in Nanoscale Magnetism) (Berlin–Heidelberg: Springer: 2009).",
+				"tr":  "E. Meilikhov and R. Farzetdinova, Ferromagnetism of Nanostructures Consisting of Ferromagnetic Granules with Dipolar Magnetic Interaction (Advanced in Nanoscale Magnetism) (Berlin–Heidelberg: Springer: 2009)."
+			},
+			{
+				"doi": "10.1063/1.2185850",
+				"or":  "C. P. Bean and J. D. Livingston, J. Appl. Phys., 30, No. 4: S120 (1959).",
+				"tr":  "C. P. Bean and J. D. Livingston, J. Appl. Phys., 30, No. 4: S120 (1959)."
+			},
+			{
+				"doi": "10.1063/1.1710344",
+				"or":  "R. M. Bozorth, J. Appl. Phys., 8, No. 9: 575 (1937).",
+				"tr":  "R. M. Bozorth, J. Appl. Phys., 8, No. 9: 575 (1937)."
+			}
+		]
+	}
+}

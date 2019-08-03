@@ -1,0 +1,129 @@
+{
+	"_id":    "MFiNT.40.08.1123",
+	"year":   2018,
+	"volume": 40,
+	"issue":  8,
+	"pages":  [1123,1131],
+	"rubric": 18,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["15.05.2018"],
+	"PACS":   "07.85.Jy, 61.05.cc, 61.05.cp, 61.72.Dd, 81.40.Ef, 81.70.-q",
+	"title":   {
+		"ua": "Аномальна чутливість до мікродефектів деформаційної залежності повної інтегральної інтенсивності динамічної дифракції в монокристалах",
+		"en": "Anomalous Sensitivity of Deformation Dependence of Total Integrated Intensity of Dynamical Diffraction to Microdefects in Single Crystals",
+		"ru": "Аномальная чувствительность к микродефектам деформационной зависимости полной интегральной интенсивности динамической дифракции в монокристаллах"
+	},
+	"abstract": {
+		"ua": "Роботу присвячено експериментальному вивченню діягностичних можливостей методи деформаційних залежностей (ДЗ) повної інтеґральної інтенсивности динамічної дифракції (ПІІДД) для монокристалів з мікродефектами у випадку, коли дифузна складова ПІІДД може бути співмірною з її когерентною складовою або значно перевищувати її. Показано, що в цьому випадку ДЗ ПІІДД аномально чутливі й унікально інформативні при використанні їх для визначення характеристик мікродефектів у багатопараметричних монокристалічних системах.",
+		"en": "An experimental study of the diagnostic capabilities of the method of deformation dependences (DDs) of the total integrated intensity of dynamical diffraction (TIIDD) for single crystals with microdefects is carried out. The case, when the diffuse component of the TIDID can be commensurable with its coherent component or substantially exceeds it, is considered. As shown, the TIIDD DDs are anomalously sensitive and uniquely informative to characteristics of microdefects in multiparametric single-crystal systems.",
+		"ru": "Работа посвящена экспериментальному изучению диагностических возможностей метода деформационных зависимостей (ДЗ) полной интегральной интенсивности динамической дифракции (ПИИДД) для монокристаллов с микродефектами в случае, когда диффузная составляющая ПИИДД может быть соизмеримой с её когерентной составляющей или существенно превышать её. Показано, что в этом случае ДЗ ПИИДД аномально чувствительны и уникально информативны при их использовании для определения характеристик микродефектов в многопараметрических монокристаллических системах."
+	},
+	"keywords": {
+		"ua": "інтеґральна динамічна дифрактометрія, дифузне розсіяння, мікродефекти",
+		"en": "integrated dynamical diffractometry, diffuse scattering, microdefects",
+		"ru": "интегральная динамическая дифрактометрия, диффузное рассеяние, микродефекты"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Б. Молодкін", "en": "V. B. Molodkin", "ru": "В. Б. Молодкин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Г. І. Низкова", "en": "A. I. Nizkova", "ru": "А. И. Низкова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. В. Лізунов", "en": "V. V. Lizunov", "ru": "В. В. Лизунов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. В. Молодкін", "en": "V. V. Molodkin", "ru": "В. В. Молодкин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Є. М. Кисловський", "en": "Ye. M. Kyslovskyi", "ru": "Е. Н. Кисловский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Я. В. Василик", "en": "Ya. V. Vasylyk", "ru": "Я. В. Василик"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. В. Решетник", "en": "O. V. Reshetnyk", "ru": "О. В. Решетник"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Т. П. Владімірова", "en": "T. P. Vladimirova", "ru": "Т. П. Владимирова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. О. Білоцька", "en": "A. O. Belotska", "ru": "А. А. Белоцкая"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Н. В. Барвінок", "en": "N. V. Barvinok", "ru": "Н. В. Барвинок"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 11,
+		"list":  [
+			{
+				"doi": "10.1007/978-3-642-74291-0",
+				"or":  "M. A. Krivoglaz, X-Ray and Neutron Diffraction in Nonideal Crystals (Berlin: Springer: 1996).",
+				"tr":  "M. A. Krivoglaz, X-Ray and Neutron Diffraction in Nonideal Crystals (Berlin: Springer: 1996)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, М. В. Ковальчук, И. М. Карнаухов, В. Е. Сторижко, С. В. Лизунова, С. В. Дмитриев, А. И. Низкова, Е. Н. Кисловский, В. В. Молодкин, Е. В. Первак, А. А. Катасонов, В. В. Лизунов, Е. С. Скакунова, Б. С. Карамурзов, А. А. Дышеков, А. Н. Багов, Т. И. Оранова, Ю. П. Хапачев, Основы интегральной многопараметрической диффузнодинамической дифрактометрии (Нальчик: Кабардино-Балкарский Университет: 2013).",
+				"tr":  "V. B. Molodkin, M. V. Koval'chuk, I. M. Karnaukhov, V. E. Storizhko, S. V. Lizunova, S. V. Dmitriev, A. I. Nizkova, E. N. Kislovskii, V. V. Molodkin, E. V. Pervak, A. A. Katasonov, V. V. Lizunov, E. S. Skakunova, B. S. Karamurzov, A. A. Dyshekov, A. N. Bagov, T. I. Oranova, and Yu. P. Khapachev, Osnovy Integral'noy Mnogoparametricheskoy Diffuznodinamicheskoy Difraktometrii [Fundamentals of Integrated Multiparametric Diffuse-Dynamical Diffractometry] (Nal'chik: Kabardino-Balkarskiy Universitet: 2013) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.36.07.0857",
+				"or":  "В. В. Лизунов, В. Б. Молодкин, С. В. Лизунова, Н. Г. Толмачев, Е. С. Скакунова, С. В. Дмитриев, Б. В. Шелудченко, С. М. Бровчук, Л. Н. Скапа, Р. В. Лехняк, Е. В. Фузик, Металлофиз. новейшие технол., 36, № 7: 857 (2014).",
+				"tr":  "V. V. Lizunov, V. B. Molodkin, S. V. Lizunova, N. G. Tolmachev, E. S. Skakunova, S. V. Dmitriev, B. V. Sheludchenko, S. M. Brovchuk, L. N. Skapa, R. V. Lekhnyak, and E. V. Fuzik, Metallofiz. Noveishie Tekhnol., 36, No. 7: 857 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.37.11.1567",
+				"or":  "Л. Н. Скапа, В. В. Лизунов, В. Б. Молодкин, Е. Г. Лень, Б. В. Шелудченко, С. В. Лизунова, Е. С. Скакунова, Н. Г. Толмачев, С. В. Дмитриев, Р. В. Лехняк, Г. О. Велиховский, В. В. Молодкин, И. Н. Заболотный, Е. В. Фузик, О. П. Васькевич, Металлофиз. новейшие технол., 37, № 11: 1567 (2015).",
+				"tr":  "L. N. Skapa, V. V. Lizunov, V. B. Molodkin, E. G. Len, B. V. Sheludchenko, S. V. Lizunova, E. S. Skakunova, N. G. Tolmachev, S. V. Dmitriev, R. V. Lekhnyak, G. O. Velikhovskiy, V. V. Molodkin, I. N. Zabolotnyy, E. V. Fuzik, and O. P. Vas'kevich, Metallofiz. Noveishie Tekhnol., 37, No. 11: 1567 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, С. Й. Олиховский, М. Е. Осиновский, Металлофизика, 5, № 5: 3 (1983).",
+				"tr":  "V. B. Molodkin, S. I. Olikhovskiy, and M. E. Osinovskiy, Metallofizika, 5, No. 5: 3 (1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Ф. Журавлев, В. Б. Молодкин, С. И. Олиховский, М. Е. Осиновский, Металлофизика, 7, № 5: 24 (1985).",
+				"tr":  "B. F. Zhuravlev, V. B. Molodkin, S. I. Olikhovskiy, and M. E. Osinovskiy, Metallofizika, 7, No. 5: 24 (1985) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.36.08.1035",
+				"or":  "S. M. Brovchuk, V. B. Molodkin, A. I. Nizkova, I. I. Rudnytska, G. I. Grankina, V. V. Lizunov, S. V. Lizunova, B. V. Sheludchenko, E. S. Skakunova, S. V. Dmitriev, I. N. Zabolotnyi, A. A. Katasonov, B. F. Zhuravlev, R. V. Lekhnyak, L. N. Skapa, and N. P. Irha, Металлофиз.новейшие технол., 36, № 8: 1035 (2014).",
+				"tr":  "S. M. Brovchuk, V. B. Molodkin, A. I. Nizkova, I. I. Rudnytska, G. I. Grankina, V. V. Lizunov, S. V. Lizunova, B. V. Sheludchenko, E. S. Skakunova, S. V. Dmitriev, I. N. Zabolotnyi, A. A. Katasonov, B. F. Zhuravlev, R. V. Lekhnyak, L. N. Skapa, and N. P. Irha, Metallofiz. Noveishie Tekhnol., 36, No. 8: 1035 (2014)."
+			},
+			{
+				"doi": "10.15407/mfint.36.09.1271",
+				"or":  "В. В. Лизунов, С. М. Бровчук, А. И. Низкова, В. Б. Молодкин, С. В. Лизунова, Б. В. Шелудченко, А. И. Гранкина, И. И. Рудницкая, С. В. Дмитриев, Н. Г. Толмачев, Р. В. Лехняк, Л. Н. Скапа, Н. П. Ирха, Металлофиз.новейшие технол., 36, № 9: 1271 (2014).",
+				"tr":  "V. V. Lizunov, S. M. Brovchuk, A. I. Nizkova, V. B. Molodkin, S. V. Lizunova, B. V. Sheludchenko, A. I. Grankina, I. I. Rudnitskaya, S. V. Dmitriev, N. G. Tolmachev, R. V. Lekhnyak, L. N. Skapa, and N. P. Irkha, Metallofiz. Noveishie Tekhnol., 36, No. 9: 1271 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.1002/pssa.2211030206",
+				"or":  "F. N. Chukhovskii, K. T. Gabrielyan, E. N. Kislovskii, and I. V. Prokopenko, phys. status solidi (a), 103, No. 2: 381 (1987).",
+				"tr":  "F. N. Chukhovskii, K. T. Gabrielyan, E. N. Kislovskii, and I. V. Prokopenko, phys. status solidi (a), 103, No. 2: 381 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Гринь, Е. Н. Кисловский, П. В. Петрашень, А. Ю. Разумовский, Металлофизика, 12, № 5: 113 (1990).",
+				"tr":  "G. V. Grin', E. N. Kislovskiy, P. V. Petrashen', and A. Yu. Razumovskiy, Metallofizika, 12, No. 5: 113 (1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Н. Кисловский, Л. И. Даценко, В. Б. Молодкин, Г. В. Гринь, А. И. Низкова, Металлофизика, 12, № 6: 37 (1990).",
+				"tr":  "E. N. Kislovskiy, L. I. Datsenko, V. B. Molodkin, G. V. Grin', and A. I. Nizkova, Metallofizika, 12, No. 6: 37 (1990) (in Russian)."
+			}
+		]
+	}
+}

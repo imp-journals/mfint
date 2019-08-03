@@ -1,0 +1,118 @@
+{
+	"_id":    "MFiNT.38.11.1527",
+	"year":   2016,
+	"volume": 38,
+	"issue":  11,
+	"pages":  [1527,1540],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["11.10.2016"],
+	"PACS":   "61.43.Gt, 61.72.Ff, 64.70.kd, 66.30.je, 81.05.Rm, 81.20.Ev, 81.40.Vw, 81.70.Pg",
+	"title":   {
+		"ua": "Особливості об’ємних ефектів при нагріванні пресованого порошку гідриду цирконію",
+		"en": "Features of Volume Effects under a Heating of Compacted Powder of Zirconium Hydride",
+		"ru": "Особенности объёмных эффектов при нагреве спрессованного порошка гидрида циркония"
+	},
+	"abstract": {
+		"ua": "Досліджено об’ємні ефекти та еволюцію структури пресованого порошку наводненого цирконію при вакуумному нагріванні. Встановлено, що пружня енергія, накопичена в спресованому ансамблі частинок $\\varepsilon$-гідриду цирконію, релаксує в процесі десорбції водню під час нагрівання пресовок, що супроводжується збільшенням їхнього об’єму із появою додаткових пустот і тріщин між частинками. Релаксація накопиченої енергії відбувається завдяки об’ємним ефектам фазових перетворень при десорбції водню, зокрема, при $\\varepsilon \\rightarrow \\delta$-перетворенні. Це викликає виникнення додаткових напружень у системі, які стають причиною порушення зв’язку між спресованими частинками і вивільнення енергії, накопиченої при пресуванні. Запропоновано шляхи зменшення цього ефекту, які забезпечують одержання при спіканні цілісних зразків цирконію без тріщин у мікроструктурі.",
+		"en": "The volume changes and microstructure evolution of $\\varepsilon$-zirconium hydride powder compacts upon vacuum heating are studied. As determined, the elastic energy accumulated in compacted powder ensemble relaxes upon heating and hydrogen desorption leading to increase in compact volume and appearance of voids and cracks between particles. The energy relaxation occurs due to volume changes upon phase transformations on hydrogen evacuation, especially, upon $\\varepsilon \\rightarrow \\delta$-phase transformation. This phenomenon results in formation of additional stresses in compacted powder, which induces relaxation of stresses preliminary accumulated under compaction. The ways for minimization of compact swelling upon heating are proposed; solid sintered zirconium samples without cracks are obtained.",
+		"ru": "Исследованы объёмные эффекты и эволюция структуры спрессованного порошка $\\varepsilon$-гидрида циркония при нагреве в вакууме. Установлено, что накопленная в спрессованном ансамбле частиц упругая энергия релаксирует при десорбции водорода во время нагрева, что сопровождается увеличением объёма прессовок и появлением пустот и трещин между частицами. Релаксация накопленной энергии происходит благодаря объёмным эффектам фазовых превращений при десорбции водорода, в частности, при $\\varepsilon \\rightarrow \\delta$-фазовом превращении. Это вызывает появление дополнительных напряжений в системе, которые становятся причиной высвобождения упругой энергии, накопленной при прессовании. Предложены способы уменьшения этого эффекта, что обеспечивает получение при спекании целостных образцов циркония без трещин в микроструктуре."
+	},
+	"keywords": {
+		"ua": "порошки, гідрид цирконію, водень, фазові перетворення, об’ємні ефекти",
+		"en": "powders, zirconium hydride, hydrogen, phase transformations, volume changes",
+		"ru": "порошки, гидрид циркония, водород, фазовые превращения, объёмные эффекты"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. М. Івасишин", "en": "O. M. Ivasishin", "ru": "О. М. Ивасишин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. П. Карасевська", "en": "O. P. Karasevska", "ru": "О. П. Карасевская"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Д. Г. Саввакін", "en": "D. G. Savvakin", "ru": "Д. Г. Саввакин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. М. Гуменяк", "en": "M. M. Humenyak", "ru": "Н. М. Гуменяк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Я. І. Мельник", "en": "Ya. I. Melnyk", "ru": "Я. И. Мельник"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. О. Стасюк", "en": "O. O. Stasiuk", "ru": "А. А. Стасюк"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 12,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "С. Ю. Заводчиков, Л. Б. Зуев, В. А. Котрехов, Металловедческие вопросы производства изделий из сплавов циркония (Новосибирск: Наука: 2012).",
+				"tr":  "S. Yu. Zavodchikov, L. B. Zuev, and V. A. Kotrekhov, Metallovedcheskie Voprosy Proizvodstva Izdeliy iz Splavov Tsirkoniya [Metallurgical Problems in the Production of Products Based on Zr Alloys] (Novosibirsk: Nauka: 2012) (in Russian)."
+			},
+			{
+				"doi": "10.2320/matertrans.L-MRA2008828",
+				"or":  "M. Niinomi, Materials Transactions, 49, No. 10: 2170 (2008).",
+				"tr":  "M. Niinomi, Materials Transactions, 49, No. 10: 2170 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "A. N. Timoshevskii, S. О. Yablonovskii, and O. M. Ivasishin, Functional Materials, 19, No. 2: 266 (2012).",
+				"tr":  "A. N. Timoshevskii, S. O. Yablonovskii, and O. M. Ivasishin, Functional Materials, 19, No. 2: 266 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Ивасишин, Д. Г. Саввакин, Н. М. Гуменяк, Металлофиз. новейшие технол., 33, № 7: 899 (2011).",
+				"tr":  "O. M. Ivasishin, D. G. Savvakin, and M. M. Gumenyak, Metallofiz. Noveishie Tekhnol., 33, No. 7: 899 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Ивасишин, Д. Г. Саввакин, К. А. Бондарева, В. С. Моксон, В. А. Дузь, Наука та інновації, № 2: 45 (2005).",
+				"tr":  "O. M. Ivasishin, D. G. Savvakin, K. A. Bondareva, V. S. Mokson, and V. A. Duz, Nauka ta Innovatsii, No. 2: 45 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Г. Саввакин, Н. М. Гуменяк, Металлофиз. новейшие технол., 35, № 3: 349 (2013).",
+				"tr":  "D. G. Savvakin and M. M. Humenyak, Metallofiz. Noveishie Tekhnol., 35, No. 3: 349 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Ивасишин, В. Т. Черепин, В. Н. Колесник, Н. М. Гуменяк, Приборы и техника эксперимента, № 3: 147 (2010).",
+				"tr":  "O. M. Ivasishin, V. T. Cherepin, V. N. Kolesnik, and M. M. Humenyak, Pribory i Tekhnika Eksperimenta, No. 3: 147 (2010) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(99)00389-8",
+				"or":  "S. Yamanaka, K. Yoshioka, M. Uno, M. Katsura, H. Anada, T. Matsuda, and S. Kobayashi, J. Alloys Compd., 293–295: 23 (1999).",
+				"tr":  "S. Yamanaka, K. Yoshioka, M. Uno, M. Katsura, H. Anada, T. Matsuda, and S. Kobayashi, J. Alloys Compd., 293–295: 23 (1999)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2004.04.073",
+				"or":  "D. Setoyama, J. Matsunaga, H. Muta, M. Uno, and S. Yamanaka, J. Alloys Compd., 381: 215 (2004).",
+				"tr":  "D. Setoyama, J. Matsunaga, H. Muta, M. Uno, and S. Yamanaka, J. Alloys Compd., 381: 215 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. А. Колачев, А. А. Ильин, Б. А. Лавренко, Ю. В. Левинский, Гидридные системы: Справочник (Москва: Металлургия: 1992).",
+				"tr":  "B. A. Kolachev, A. A. Il'in, B. A. Lavrenko, and Yu. V. Levinskiy, Gidridnye Sistemy: Spravochnik [Hydride Systems: Handbook] (Moscow: Metallurgiya: 1992) (in Russian)."
+			},
+			{
+				"doi": "10.1007/BF02843318",
+				"or":  "E. Zuzek, J. P. Abriata, A. San-Martin, and F. D. Manchester, Bulletin of Alloy Phase Diagrams, 11, No. 4: 385 (1990).",
+				"tr":  "E. Zuzek, J. P. Abriata, A. San-Martin, and F. D. Manchester, Bulletin of Alloy Phase Diagrams, 11, No. 4: 385 (1990)."
+			},
+			{
+				"doi": "10.1016/j.jnucmat.2009.04.004",
+				"or":  "R. M. Daum, Y. S. Chu, and A. T. Motta, J. Nuclear Materials, 392, No. 3: 453 (2009).",
+				"tr":  "R. M. Daum, Y. S. Chu, and A. T. Motta, J. Nuclear Materials, 392, No. 3: 453 (2009)."
+			}
+		]
+	}
+}

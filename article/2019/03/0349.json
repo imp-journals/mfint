@@ -1,0 +1,153 @@
+{
+	"_id":    "MFiNT.41.03.0349",
+	"year":   2019,
+	"volume": 41,
+	"issue":  3,
+	"pages":  [349,362],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["27.12.2018"],
+	"PACS":   "07.05.Pj, 62.20.Qp, 81.05.Bx, 81.15.Jj, 81.40.Pq, 81.65.Lp, 81.70.Fy",
+	"title":   {
+		"ua": "Оптико-математичний аналіз моделювання структуризації зміцнених поверхонь поршневих кілець при експлуатації",
+		"en": "Optical-Mathematical Analysis of Structuration Modeling of Hardened Surfaces of Piston Rings during Operation",
+		"ru": "Оптико-математический анализ моделирования структуризации упрочнённых поверхностей поршневых колец при эксплуатации"
+	},
+	"abstract": {
+		"ua": "Вивчено вплив технології зміцнення поршневих кілець багатошаровим іонно-плазмовим покриттям TiN/CrN. Виявлено особливості їх зношування при швидкості ковзання 1,3 м/с, яка сприяє максимальним змінам. Показано, що при таких умовах випробувань, в результаті зміцнення, в 15 разів підвищується зносостійкість. Методом оптико-математич¬ного аналізу виявлено особливості структуризації поверхні тертя, які представляють собою сформовані поперечні та поздовжні смуги. Широкі поперечні смуги ($\\sim$ 20 мкм), характерні для зони тертя кільця з покриттям TiN/CrN і вони визначають високий ступінь опору зношування.",
+		"en": "The influence of the technology of piston rings’ strengthening by multilayer ion-plasma TiN/CrN coating is studied. The peculiarities of their wear at the sliding speed of 1.3 m/s, which contributes to the maximum changes, are revealed. As shown, under these test conditions, as a result of hardening, wear resistance is increased by 15 times. The method of optical-mathematical analysis reveals the features of the friction surface structuring, which have the form of transverse and longitudinal bands. Wide transverse bands ($\\sim$ 20 $\\mu$m) are typical for the friction zone between rings and TiN/CrN coating and they determine a high degree of wear resistance.",
+		"ru": "Изучено влияние технологии упрочнения поршневых колец многослойным ионно-плазменным покрытием TiN/CrN. Выявлены особенности их изнашивания при скорости скольжения 1,3 м/с, которая способствует максимальным изменениям. Показано, что при таких условиях испытаний в результате упрочнения в 15 раз повышается износостойкость. Методом оптико-математического анализа выявлены особенности структуризации поверхности трения, которые представляют собой формируемые поперечные и продольные полосы. Широкие поперечные полосы ($\\sim$ 20 мкм), характерны для зоны трения кольца с покрытием TiN/CrN и они определяют высокую степень сопротивления изнашиванию."
+	},
+	"keywords": {
+		"ua": "поршневі кільця, іонно-плазмове покриття, оптико-математичний аналіз, структуризація, випробування на тертя",
+		"en": "piston rings, ion-plasma coating, optical-mathematical analysis, structuring, friction tests",
+		"ru": "поршневые кольца, ионно-плазменное покрытие, оптико-математический анализ, структуризация, испытания на трение"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Т. С. Скобло", "en": "T. S. Skoblo", "ru": "Т. С. Скобло"},
+			"OID": [262]
+		},
+		{
+			"AID": {"ua": "О. І. Сидашенко", "en": "A. I. Sidashenko", "ru": "А. И. Сидашенко"},
+			"OID": [262]
+		},
+		{
+			"AID": {"ua": "І. Є. Гаркуша", "en": "I. E. Garkusha", "ru": "И. Е. Гаркуша"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "В. С. Таран", "en": "V. S. Taran", "ru": "В. С. Таран"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "Р. М. Муратов", "en": "R. M. Muratov", "ru": "Р. М. Муратов"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "Т. В. Мальцев", "en": "T. V. Mal’tsev", "ru": "Т. В. Мальцев"},
+			"OID": [262]
+		}
+	],
+	"references": {
+		"count": 19,
+		"list":  [
+			{
+				"doi": "10.1007/s11003-018-0102-6",
+				"or":  "T. S. Skoblo, A. I. Sidashenko, E. A. Satanovskii, A. K. Oleinik, and T. V. Mal’tsev, Materials Science, 53, Iss. 4: 501 (2018).",
+				"tr":  "T. S. Skoblo, A. I. Sidashenko, E. A. Satanovskii, A. K. Oleinik, and T. V. Mal'tsev, Materials Science, 53, Iss. 4: 501 (2018)."
+			},
+			{
+				"doi": "10.1166/jamr.2017.1343",
+				"or":  "R. M. Muratov and A. V. Taran, J. Adv. Microsc. Res., 12, No. 3: 203 (2017).",
+				"tr":  "R. M. Muratov and A. V. Taran, J. Adv. Microsc. Res., 12, No. 3: 203 (2017)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. N. Nezovibat’ko, G. S. Poklipach, O. M. Svets, V. S. Taran, V. I. Tereshin, and A. I. Timoshenko, J. Appl. Plasma Science, 13: 87 (2005).",
+				"tr":  "Yu. N. Nezovibat'ko, G. S. Poklipach, O. M. Svets, V. S. Taran, V. I. Tereshin, and A. I. Timoshenko, J. Appl. Plasma Science, 13: 87 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "S. S. Grankin, U. S. Nemchenko, V. Yu. Novikov, O. V. Sobol’, L. V. Malikov, and S. I. Pliev, J. Surface Physics and Engineering, 12, No. 2: 308 (2014) (in Russian).",
+				"tr":  "S. S. Grankin, U. S. Nemchenko, V. Yu. Novikov, O. V. Sobol', L. V. Malikov, and S. I. Pliev, J. Surface Physics and Engineering, 12, No. 2: 308 (2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. A. Dobrzański and L. W. Żukowska, J. Achiev. Mater. Manuf. Eng., 44, Iss. 2: 115 (2011).",
+				"tr":  "L. A. Dobrzański and L. W. Żukowska, J. Achiev. Mater. Manuf. Eng., 44, Iss. 2: 115 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "G. G. Bejarano, B. M. Gomez, A. J. Osorio, B. J. Caicedo, and C. W. Aperador, J. Mater. Sci. Eng., 4, No. 6: 51 (2010).",
+				"tr":  "G. G. Bejarano, B. M. Gomez, A. J. Osorio, B. J. Caicedo, and C. W. Aperador, J. Mater. Sci. Eng., 4, No. 6: 51 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "V. M. Beresnev, A. D. Pogrebnyak, O. M. Shvets, E. V. Fursova, N. N. Chernyshov, and L. V. Malikov, Visnyk Kharkivs’kogo Universytetu. Seriya Fizychna ‘Yadra, Chastynky, Polya’, No. 777: 93 (2007) (in Russian).",
+				"tr":  "V. M. Beresnev, A. D. Pogrebnyak, O. M. Shvets, E. V. Fursova, N. N. Chernyshov, and L. V. Malikov, Visnyk Kharkivs'kogo Universytetu. Seriya Fizychna 'Yadra, Chastynky, Polya', No. 777: 93 (2007) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.40.02.0255",
+				"or":  "T. S. Skoblo, O. Yu. Klochko, E. L. Belkin, and A. I. Sidashenko, Metallofiz. Noveishie Tekhnol., 40, No. 2: 255 (2018) (in Russian).",
+				"tr":  "T. S. Skoblo, O. Yu. Klochko, E. L. Belkin, and A. I. Sidashenko, Metallofiz. Noveishie Tekhnol., 40, No. 2: 255 (2018) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "T. S. Skoblo, O. Yu. Klochko, and E. L. Belkin, Zavodskaya Laboratoriya. Diagnostika Materialov, 78, No. 6: 35 (2012) (in Russian).",
+				"tr":  "T. S. Skoblo, O. Yu. Klochko, and E. L. Belkin, Zavodskaya Laboratoriya. Diagnostika Materialov, 78, No. 6: 35 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "T. S. Skoblo, O. Yu. Klochko, E. L. Belkin, and O. I. Trichevsky, Visnyk KhNTUSH im. P. Vasylenka. Resursozberihayuchi Tekhnologiyi, Materialy ta Obladnannya u Remontnomu Vyrobnytstvi, 168: 174 (2016) (in Russian).",
+				"tr":  "T. S. Skoblo, O. Yu. Klochko, E. L. Belkin, and O. I. Trichevsky, Visnyk KhNTUSH im. P. Vasylenka. Resursozberihayuchi Tekhnologiyi, Materialy ta Obladnannya u Remontnomu Vyrobnytstvi, 168: 174 (2016) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "T. S. Skoblo, O. Yu. Klochko, and E. L. Belkin, Stal’, No. 3: 46 (2012) (in Russian).",
+				"tr":  "T. S. Skoblo, O. Yu. Klochko, and E. L. Belkin, Stal', No. 3: 46 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "O. I. Trichevsky, T. S. Skoblo, O. Yu. Klochko, and E. L. Belkin, Promyshlennost’ v Fokuse, No. 7: 52 (2015) (in Russian).",
+				"tr":  "O. I. Trichevsky, T. S. Skoblo, O. Yu. Klochko, and E. L. Belkin, Promyshlennost' v Fokuse, No. 7: 52 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "T. S. Skoblo, O. Yu. Klochko, and E. L. Belkin, Visnyk KhNTUSH im. P. Vasylenka. Problemy Nadiynosti Mashyn ta Zasobiv Mekhanizatsiyi s/h Vyrobnytstva, 151: 183 (2014) (in Russian).",
+				"tr":  "T. S. Skoblo, O. Yu. Klochko, and E. L. Belkin, Visnyk KhNTUSH im. P. Vasylenka. Problemy Nadiynosti Mashyn ta Zasobiv Mekhanizatsiyi s/h Vyrobnytstva, 151: 183 (2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "T. V. Mal’tsev, Technical Service of Agriculture, Forestry and Transport Systems, No. 10: 80 (2017) (in Russian).",
+				"tr":  "T. V. Mal'tsev, Technical Service of Agriculture, Forestry and Transport Systems, No. 10: 80 (2017) (in Russian)."
+			},
+			{
+				"doi": "10.11648/j.ijmpem.20170203.12",
+				"or":  "T. S. Skoblo, O. Yu. Klochko, E. L. Belkin, and A. I. Sidashenko, International J. Mineral Processing and Extractive Metallurgy, 2, Iss. 3: 34 (2017).",
+				"tr":  "T. S. Skoblo, O. Yu. Klochko, E. L. Belkin, and A. I. Sidashenko, International J. Mineral Processing and Extractive Metallurgy, 2, Iss. 3: 34 (2017)."
+			},
+			{
+				"doi": "",
+				"or":  "T. S. Skoblo, O. Yu. Klochko, E. L. Belkin, and A. I. Sidashenko, Zavodskaya Laboratoriya. Diagnostika Materialov, 83, No. 5: 27 (2017) (in Russian).",
+				"tr":  "T. S. Skoblo, O. Yu. Klochko, E. L. Belkin, and A. I. Sidashenko, Zavodskaya Laboratoriya. Diagnostika Materialov, 83, No. 5: 27 (2017) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. N. Rabotnov. Soprotivlenie Materialov [Strength of Materials] (Moscow: Fizmatgiz: 1963) (in Russian).",
+				"tr":  "Yu. N. Rabotnov. Soprotivlenie Materialov [Strength of Materials] (Moscow: Fizmatgiz: 1963) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Kalashnikov and M. I. Karyakin, Prikladnaya Mekhanika i Tekhnicheskaya Fizika, 47, No. 6: 129 (in Russian).",
+				"tr":  "V. V. Kalashnikov and M. I. Karyakin, Prikladnaya Mekhanika i Tekhnicheskaya Fizika, 47, No. 6: 129 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Narita, Kristallicheskaya Struktura i Svoystva Nemetallicheskikh Vklyucheniy v Stali [Crystal Structure and Properties of Non-Metallic Inclusions in Steel] (Moscow: Metallurgy: 1969) (in Russian).",
+				"tr":  "K. Narita, Kristallicheskaya Struktura i Svoystva Nemetallicheskikh Vklyucheniy v Stali [Crystal Structure and Properties of Non-Metallic Inclusions in Steel] (Moscow: Metallurgy: 1969) (in Russian)."
+			}
+		]
+	}
+}

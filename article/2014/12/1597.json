@@ -1,0 +1,96 @@
+{
+	"_id":    "MFiNT.36.12.1597",
+	"year":   2014,
+	"volume": 36,
+	"issue":  12,
+	"pages":  [1597,1608],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["25.05.2014"],
+	"PACS":   "61.66.Dk, 61.72.Ff, 61.72.Qq, 62.20.Qp, 81.05.Bx, 81.10.Fq, 81.30.Mh",
+	"title":   {
+		"ua": "Структурна характеризація та преципітація в стопі AlMg$_{5}$Si$_{2}$Mn",
+		"en": "Structural Characterization and Precipitation in AlMg$_{5}$Si$_{2}$Mn Alloy",
+		"ru": "Структурная характеризация и преципитация в сплаве AlMg$_{5}$Si$_{2}$Mn"
+	},
+	"abstract": {
+		"ua": "В роботі представлено результати дослідження структури стопу AlMg$_{5}$Si$_{2}$Mn, одержаного виливанням у кокіль та під тиском. За допомогою диференційної сканівної калориметрії, вимірів мікротвердости, трансмісійної електронної мікроскопії і локальної рентґеноспектральної аналізи було встановлено, що всередині зерен $\\alpha$-Al в литому стані спостерігаються вигнуті пластинчасті виділення. Дослідженнями цих виділень було встановлено, що: їх склад близький до стехіометричного складу Mg$_{2}$Si; виділення однією стороною приєднані до дислокацій; кількість виділень значно більша в стопі, відлитому під тиском, ніж у випадку кокільного виливання; виділення розміщуються тільки в зернах твердого розчину, а між лямелями евтектики не спостерігаються. Найбільш вірогідно, що такі виділення є частинками $\\beta^{''}$-фази, і головним механізмом їх утворення є гетерогенне зародження на дислокаціях.",
+		"en": "The as-cast structure of permanent mould and high-pressure die-castings of the AlMg$_{5}$Si$_{2}$Mn alloy is investigated by differential scanning calorimetry, microhardness measurements, transmission electron microscopy, and energy dispersive X-ray analysis. Inside the $\\alpha$-Al grains, the curved plate-like precipitates are detected for both alloys. Examination of these precipitates reveals a number of features, such as follow: (i) the composition of the precipitates is very close to the stoichiometric Mg$_{2}$Si compound; (ii) precipitates are aligned along dislocations; (iii) the precipitate density is much higher for the high-pressure die-castings, where the $\\alpha$-Al matrix contains more dislocations than in permanent mould castings; (vi) precipitates lie inside the $\\alpha$-Al grains, where they are randomly distributed. Precipitates are not observed among the Mg$_{2}$Si lamellas. Most likely, these precipitates are $\\beta^{''}$-phase, and the mechanism of their formation is the heterogeneous nucleation on dislocations.",
+		"ru": "В работе представлены результаты исследования структуры сплава AlMg$_{5}$Si$_{2}$Mn, полученного литьём в кокиль и под давлением. С использованием дифференциальной сканирующей калориметрии, измерений микротвёрдости, трансмиссионной электронной микроскопии и локального рентгеноспектрального анализа установлено, что внутри зёрен $\\alpha$-Al в литом состоянии наблюдаются выгнутые пластинчатые выделения. Исследования таких выделений показали, что: их состав близок к стехиометрическому составу Mg$_{2}$Si; выделения одной стороной соприкасаются с дислокациями; количество выделений значительно выше в сплаве, отлитом под давлением, чем в случае кокильного литья; выделения располагаются только в зёрнах твёрдого раствора, а между ламелями эвтектики не обнаруживаются. Наиболее вероятно, что такие выделения являются частицами $\\beta^{''}$-фазы, и основным механизмом их образования является гетерогенное зарождение на дислокациях."
+	},
+	"keywords": {
+		"ua": "преципітати, розподіл елементів, природне старіння, алюмінієвий ливарний стоп",
+		"en": "precipitates, element distribution, natural hardening, aluminium casting alloy",
+		"ru": "преципитаты, распределение элементов, естественное старение, алюминиевый литейный сплав"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. В. Бойко", "en": "V. V. Boyko", "ru": "В. В. Бойко"},
+			"OID": [481]
+		},
+		{
+			"AID": {"ua": "Т. Лінк", "en": "T. Link", "ru": "Т. Линк"},
+			"OID": [481]
+		},
+		{
+			"AID": {"ua": "К. В. Михаленков", "en": "K. V. Mykhalenkov", "ru": "К. В. Михаленков"},
+			"OID": [202]
+		}
+	],
+	"references": {
+		"count": 10,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "M. C. Wuth, H. Koch, and A. J. Franke, Casting Plant and Technology International, 16: 12 (2000).",
+				"tr":  "M. C. Wuth, H. Koch, and A. J. Franke, Casting Plant and Technology International, 16: 12 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "U. Hielscher, H. Sternau, H. Koch, and A. J. Franke, Light Metals 1996 (Ed. W. Hale) (TMS: 1996), p. 933.",
+				"tr":  "U. Hielscher, H. Sternau, H. Koch, and A. J. Franke, Light Metals 1996 (Ed. W. Hale) (TMS: 1996), p. 933."
+			},
+			{
+				"doi": "10.1007/s11661-009-9841-1",
+				"or":  "S. Otarwanna et al., Met. Mater. Trans. A, 40A: 1645 (2009).",
+				"tr":  "S. Otarwanna et al., Met. Mater. Trans. A, 40A: 1645 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Petkov et al., BHM Berg- und Huttenmannische Monatsheft, 158, Iss. 3: 1 (2013).",
+				"tr":  "T. Petkov et al., BHM Berg- und Huttenmannische Monatsheft, 158, Iss. 3: 1 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "G. K. Sigworth, H. Koch, and P. Krug, 40th Annual Conference of Metallurgists and Electrometallurgy. Light Metals Symposium (August 26–29, 2001, Toronto), p. 349.",
+				"tr":  "G. K. Sigworth, H. Koch, and P. Krug, 40th Annual Conference of Metallurgists and Electrometallurgy. Light Metals Symposium (August 26–29, 2001, Toronto), p. 349."
+			},
+			{
+				"doi": "10.1007/s11665-010-9708-z",
+				"or":  "G. Wang, L. Yan, G. Ren, and Z. Zhao, J. Mater. Eng. Performance, 20: 399 (2011).",
+				"tr":  "G. Wang, L. Yan, G. Ren, and Z. Zhao, J. Mater. Eng. Performance, 20: 399 (2011)."
+			},
+			{
+				"doi": "10.1023/A:1004801327556",
+				"or":  "Q. G. Wang and C. J. Davidson, J. Mat. Sci., 36: 739 (2001).",
+				"tr":  "Q. G. Wang and C. J. Davidson, J. Mat. Sci., 36: 739 (2001)."
+			},
+			{
+				"doi": "10.1007/s11669-001-0049-3",
+				"or":  "O. M. Barabash, O. V. Sulzhenko, T. N. Legkaya, and N. P. Korzhova, J. Phase Equilibria, 22: 5 (2001).",
+				"tr":  "O. M. Barabash, O. V. Sulzhenko, T. N. Legkaya, and N. P. Korzhova, J. Phase Equilibria, 22: 5 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "L. F. Mondolfo, Aluminum Alloys: Structure and Properties (London–Boston: Butterworths: 1976), p. 678.",
+				"tr":  "L. F. Mondolfo, Aluminum Alloys: Structure and Properties (London–Boston: Butterworths: 1976), p. 678."
+			},
+			{
+				"doi": "10.1016/j.actamat.2004.05.037",
+				"or":  "C. Ravi and C. Wolverton, Acta Mater., 52: 4213 (2004).",
+				"tr":  "C. Ravi and C. Wolverton, Acta Mater., 52: 4213 (2004)."
+			}
+		]
+	}
+}

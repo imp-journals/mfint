@@ -1,0 +1,281 @@
+{
+	"_id":    "MFiNT.39.02.0143",
+	"year":   2017,
+	"volume": 39,
+	"issue":  2,
+	"pages":  [143,162],
+	"rubric": 2,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["29.12.2016"],
+	"PACS":   "07.85.Jy, 07.85.Qe, 61.05.cc, 87.57.cj, 87.59.-e",
+	"title":   {
+		"ua": "Аналітичний модель формування фазоконтрастних зображень неоднорідних некристалічних об’єктів довільної форми",
+		"en": "Analytical Model of Formation of the Phase-Contrast Images for Inhomogeneous Noncrystalline Objects with Arbitrary Shape",
+		"ru": "Аналитическая модель формирования фазоконтрастных изображений неоднородных некристаллических объектов произвольной формы"
+	},
+	"abstract": {
+		"ua": "В роботі побудовано узагальнений теоретичний модель формування тривісним способом фазоконтрастних зображень неоднорідних некристалічних об'єктів довільної форми. У моделю самоузгоджено враховано аналітично ефекти повної багатократности розсіяння Рентґенових променів як на періодичних або сталих (однорідних у середньому), так і вперше на флюктуаційних складових сприйнятливости об'єктів. При цьому враховано повну багатократність і у монокристалах монохроматора й аналізатора, і у досліджуваному об'єкті. Використання моделю та розроблених на його основі фазоваріяційних принципів формування й інтерпретації зображень уможливлює описати аналітично підвищення на кілька порядків чутливости, яке спостерігається експериментально, та забезпечити можливість вирішення оберненої задачі і при цьому проблеми інформативности неруйнівної багатопараметричної діагностики.",
+		"en": "In this paper, the generalized theoretical model of phase-contrast formation by triple-axis method is developed for inhomogeneous noncrystalline objects with arbitrary shape. This model takes into account self-consistently and analytically the effects of total X-ray multiple scattering on both the periodical or constant (uniform at the average) components of objects’ susceptibility and, for the first time, on the fluctuation ones. The complete multiplicity of scattering is taken into account for both the monochromator and analyser single-crystals and the object under investigation. As shown, the use of both the developed model and the phase-variational principles of formation and interpretation of the phase-contrast images established on basis of it allows to describe analytically the experimentally observed increasing of sensitivity and to provide with the possibility of a solution in principle for the inverse problem and the problem of non-destructive multiparametric diagnostics.",
+		"ru": "В работе построена обобщённая теоретическая модель формирования трёхосевым способом фазоконтрастных изображений неоднородных некристаллических объектов произвольной формы. В модели самосогласованно учтены аналитически эффекты полной многократности рассеяния рентгеновских лучей как на периодических или постоянных (однородных в среднем), так и впервые на флуктуационных составляющих восприимчивости объектов. При этом учтена полная многократность и в монокристаллах монохроматора и анализатора, и в исследуемом объекте Использование модели и разработанных на её основе фазовариационных принципов формирования и интерпретации изображений позволяет аналитически описать наблюдаемое экспериментально повышение на несколько порядков чувствительности и обеспечивает возможность решения обратной задачи и при этом проблемы информативности неразрушающей многопараметрической диагностики."
+	},
+	"keywords": {
+		"ua": "фазоконтрастні зображення, тривісний спосіб одержання зображень, неоднорідні некристалічні об'єкти, заломлення, динамічна теорія",
+		"en": "phase-contrast images, analyser-based imaging, inhomogeneous noncrystalline objects, refraction, dynamical theory",
+		"ru": "фазоконтрастные изображения, трёхосевой способ получения изображений, неоднородные некристаллические объекты, преломление, динамическая теория"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. В. Лізунова", "en": "S. V. Lizunova", "ru": "С. В. Лизунова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Б. В. Шелудченко", "en": "B. V. Sheludchenko", "ru": "Б. В. Шелудченко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. Б. Молодкін", "en": "V. B. Molodkin", "ru": "В. Б. Молодкин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. Г. Толмачов", "en": "M. H. Tolmachov", "ru": "Н. Г. Толмачёв"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Дж. Е. Айс", "en": "G. Е. Ice", "ru": "Дж. Е. Айс"},
+			"OID": [455]
+		},
+		{
+			"AID": {"ua": "Р. І. Барабаш", "en": "R. I. Barabash", "ru": "Р. И. Барабаш"},
+			"OID": [455]
+		},
+		{
+			"AID": {"ua": "В. Ю. Сторіжко", "en": "V. Yu. Storizhko", "ru": "В. Е. Сторижко"},
+			"OID": [17]
+		},
+		{
+			"AID": {"ua": "В. В. Лізунов", "en": "V. V. Lizunov", "ru": "В. В. Лизунов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "К. В. Фузік", "en": "K. V. Fuzik", "ru": "Е. В. Фузик"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Г. О. Веліховський", "en": "G. O. Velikhovskii", "ru": "Г. О. Велиховский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. В. Молодкін", "en": "V. V. Molodkin", "ru": "В. В. Молодкин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. В. Дмітрієв", "en": "S. V. Dmitriev", "ru": "С. В. Дмитриев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Л. М. Скапа", "en": "L. M. Skapa", "ru": "Л. Н. Скапа"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 39,
+		"list":  [
+			{
+				"doi": "10.1002/crat.19800150812",
+				"or":  "E. Forster, K. Goets, and P. Zaumseil, Kristall und Technik, 15, No. 8: 937 (1980).",
+				"tr":  "E. Forster, K. Goets, and P. Zaumseil, Kristall und Technik, 15, No. 8: 937 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Соменков, А. К. Ткалич, С. Ш. Шильштейн, ЖТФ, 61, № 11: 197 (1991).",
+				"tr":  "V. A. Somenkov, A. K. Tkalich, and S. Sh. Shil'shtein, ZhTF, 61, No. 11: 197 (1991) (in Russian)."
+			},
+			{
+				"doi": "10.1088/0022-3727/28/11/012",
+				"or":  "V. N. Ingal and E. A. Beliaevskaya, J. Phys. D, 28, No. 10: 2314 (1995).",
+				"tr":  "V. N. Ingal and E. A. Beliaevskaya, J. Phys. D, 28, No. 10: 2314 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Ингал, Е. А. Беляевская, ЖТФ, 66, № 3: 344 (1996).",
+				"tr":  "V. N. Ingal and E. A. Beliaevskaya, ZhTF, 66, No. 3: 344 (1996) (in Russian)."
+			},
+			{
+				"doi": "10.1038/373595a0",
+				"or":  "T. J. Davis, D. Gao, T. E. Gureyev, A. W. Stevenson, and S. W. Wilkins, Nature, 373: 595 (1995).",
+				"tr":  "T. J. Davis, D. Gao, T. E. Gureyev, A. W. Stevenson, and S. W. Wilkins, Nature, 373: 595 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Gao, T. J. Davis, and S. W. Wilkins, Aust. J. Phys., 48, No. 1: 103 (1995).",
+				"tr":  "D. Gao, T. J. Davis, and S. W. Wilkins, Aust. J. Phys., 48, No. 1: 103 (1995)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.74.3173",
+				"or":  "T. J. Davis, T. E. Gureyev, D. Gao, A. W. Stevenson, and S. W. Wilkins, Phys. Rev. Lett., 74, No. 16: 3173 (1995).",
+				"tr":  "T. J. Davis, T. E. Gureyev, D. Gao, A. W. Stevenson, and S. W. Wilkins, Phys. Rev. Lett., 74, No. 16: 3173 (1995)."
+			},
+			{
+				"doi": "10.1063/1.1146073",
+				"or":  "A. Snigirev, I. Snigireva, V. Kohn, S. Kuznetsov, and I. Schelokov, Rev. Sci. Instrum., 66, No. 12: 5486 (1995).",
+				"tr":  "A. Snigirev, I. Snigireva, V. Kohn, S. Kuznetsov, and I. Schelokov, Rev. Sci. Instrum., 66, No. 12: 5486 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Бушуев, В. Н. Ингал, Е. А. Беляевская, Кристаллография, № 5: 808 (1996).",
+				"tr":  "V. A. Bushuev, V. N. Ingal, and E. A. Beliaevskaya, Kristallografiya, No. 5: 808 (1996) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. М. Подурец, В. А. Соменков, С. Ш. Шильштейн, ЖТФ, 59, № 6: 115 (1989).",
+				"tr":  "K. M. Podurets, V. A. Somenkov, and S. Sh. Shil'shtein, ZhTF, 59, No. 6: 115 (1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Ингал, Е. А. Беляевская, ЖТФ, 63, № 6: 137 (1993).",
+				"tr":  "V. N. Ingal and E. A. Beliaevskaya, ZhTF, 63, No. 6: 137 (1993) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Ингал, Е. А. Беляевская, В. А. Бушуев, Способ фазовой рентгенографии объектов и устройство для его осуществления (варианты), Патент РФ № 2115943 (Опубликован 20 июля 1998 г.).",
+				"tr":  "V. N. Ingal, E. A. Beliaevskaya, and V. A. Bushuev, Sposob Fazovoy Rentgenografii Ob'ektov i Ustroystvo dlya Ego Osushchestvleniya (Varianty) [The Method of Phase Radiography of Objects and the Device for Its Implementation (Options)], Patent RF No. 2115943 (Publ. July 20, 1998) (in Russian)."
+			},
+			{
+				"doi": "10.1143/JJAP.40.L844",
+				"or":  "M. Ando, H. Sugiyama, A. Maksimenko, W. Pattanasiriwisawa, K. Hyodo, and Zh. Xiaowei, Jpn. J. Appl. Phys., 40, No. 8A: 844 (2001).",
+				"tr":  "M. Ando, H. Sugiyama, A. Maksimenko, W. Pattanasiriwisawa, K. Hyodo, and Zh. Xiaowei, Jpn. J. Appl. Phys., 40, No. 8A: 844 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Лизунова, В. Б. Молодкин, Б. В. Шелудченко, В. В. Лизунов, Металофиз. новейшие технол., 35, № 11: 1585 (2013).",
+				"tr":  "S. V. Lizunova, V. B. Molodkin, B. V. Sheludchenko, and V. V. Lizunov, Metallofiz. Noveishie Tekhnol., 35, No. 11: 1585 (2013) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.36.04.0559",
+				"or":  "Б. В. Шелудченко, В. Б. Молодкин, С. В. Лизунова, С. И. Олиховский, Е. Н. Кисловский, А. Ю. Гаевский, В. В. Лизунов, А. И. Низкова, Т. П. Владимирова, В. В. Молодкин, Е. В. Фузик, А. В. Гошкодеря, А. А. Белоцкая, Г. О. Велиховский, А. А. Музыченко, Р. В. Лехняк, Металофиз. новейшие технол., 36, № 4: 559 (2014).",
+				"tr":  "B. V. Sheludchenko, V. B. Molodkin, S. V. Lizunova, S. J. Olikhovskyi, Ye. M. Kyslovskyi, O. Yu. Gaevskyi, V. V. Lizunov, A. I. Nizkova, T. P. Vladimirova, V. V. Molodkin, K. V. Fuzyk, A. V. Goshkoderya, A. O. Bilotska, G. O. Velikhovskyi, A. A. Muzychenko, and R. V. Lekhnyak, Metallofiz. Noveishie Tekhnol., 36, No. 4: 559 (2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. В. Шелудченко, В. Б. Молодкин, С. В. Лизунова, М. В. Ковальчук, Э. Х. Мухамеджанов, В. А. Бушуев, Ю. П. Хапачев, В. Е. Сторижко, С. И. Олиховский, Е. Н. Кисловский, А. Ю. Гаевский, В. В. Лизунов, А. И. Низкова, Т. П. Владимирова, В. В. Молодкин, Е. В. Фузик, А. В. Гошкодеря, А. А. Белоцкая, Г. О. Велиховский, А. А. Музыченко, Р. В. Лехняк, Актуальные вопросы современного естествознания, вып. 12: 32 (2014).",
+				"tr":  "B. V. Sheludchenko, V. B. Molodkin, S. V. Lizunova, M. V. Koval'chuk, E. Kh. Mukhamedzhanov, V. A. Bushuev, Yu. P. Khapachev, V. E. Storizhko, S. I. Olikhovskiy, E. N. Kislovskii, A. Yu. Gaevskiy, V. V. Lizunov, A. I. Nizkova, T. P. Vladimirova, V. V. Molodkin, E. V. Fuzik, A. V. Goshkoderya, A. A. Belotskaya, G. O. Velikhovskiy, A. A. Muzychenko, and R. V. Lekhnyak, Aktual'nye Voprosy Sovremennogo Estestvoznaniya, Iss. 12: 32 (2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, М. В. Ковальчук, И. М. Карнаухов, В. Е. Сторижко, С. В. Лизунова, С. В. Дмитриев, А. И. Низкова, Е. Н. Кисловский, В. В. Молодкин, Е. В. Первак, А. А. Катасонов, В. В. Лизунов, Е. С. Скакунова, Б. С. Карамурзов, А. А. Дышеков, А. Н. Багов, Т. И. Оранова, Ю. П. Хапачев, Основы интегральной многопараметрической диффузнодинамической дифрактометрии (Нальчик: Кабардино-балкарский университет: 2013).",
+				"tr":  "V. B. Molodkin, M. V. Koval'chuk, I. M. Karnaukhov, V. E. Storizhko, S. V. Lizunova, S. V. Dmitriev, A. I. Nizkova, E. N. Kislovskii, V. V. Molodkin, E. V. Pervak, A. A. Katasonov, V. V. Lizunov, E. S. Skakunova, B. S. Karamurzov, A. A. Dyshekov, A. N. Bagov, T. I. Oranova, and Yu. P. Khapachev, Osnovy Integral'noy Mnogoparametricheskoy Diffuznodinamicheskoy Difraktometrii [Fundamentals of Integrated Multiparametric Diffuse-Dynamical Diffractometry] (Nal'chik: Kabardino-Balkarskiy Universitet: 2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, М. В. Ковальчук, И. М. Карнаухов, В. Ф. Мачулин, В. Е. Сторижко, Э. Х. Мухамеджанов, А. И. Низкова, С. В. Лизунова, Е. Н. Кисловский, С. И. Олиховский, Б. В. Шелудченко, С. В. Дмитриев, Е. С. Скакунова, В. В. Молодкин, В. В. Лизунов, В. А. Бушуев, Р. Н. Кютт, Б. С. Карамурзов, А. А. Дышеков, Т. И. Оранова, Ю. П. Хапачев, Основы динамической высокоразрешающей дифрактметрии функциональных материалов (Нальчик: Кабардино-Балкарский университет: 2013).",
+				"tr":  "V. B. Molodkin, M. V. Koval'chuk, I. M. Karnaukhov, V. F. Machulin, V. E. Storizhko, E. Kh. Mukhamedzhanov, A. I. Nizkova, S. V. Lizunova, E. N. Kislovskii, S. I. Olikhovskiy, B. V. Sheludchenko, S. V. Dmitriev, E. S. Skakunova, V. V. Molodkin, V. V. Lizunov, V. A. Bushuev, R. N. Kyutt, B. S. Karamurzov, A. A. Dyshekov, T. I. Oranova, and Yu. P. Khapachev, Osnovy Dinamicheskoy Vysokorazreshayushchey Difraktometrii Funktsional'nykh Materialov [Fundamentals of Dynamical High-Resolution Diffractometry of Functional Materials] (Nal'chik: Kabardino-Balkarskiy Universitet: 2013) (in Russian)."
+			},
+			{
+				"doi": "10.1038/nm0496-473",
+				"or":  "A. Momose, T. Takeda, Y. Itai, and K. Hirano, Nat. Med., 2: 473 (1996).",
+				"tr":  "A. Momose, T. Takeda, Y. Itai, and K. Hirano, Nat. Med., 2: 473 (1996)."
+			},
+			{
+				"doi": "10.1088/0031-9155/48/23/006",
+				"or":  "M. N. Wernick, O. Wirjadi, D. Chapman, Z. Zhong, N. P. Galatsanos, Y. Yang, J. G. Brankov, O. Oltulu, M. A. Anastasio, and C. Muehleman, Phys. Med. Biol., 48: 3875 (2003).",
+				"tr":  "M. N. Wernick, O. Wirjadi, D. Chapman, Z. Zhong, N. P. Galatsanos, Y. Yang, J. G. Brankov, O. Oltulu, M. A. Anastasio, and C. Muehleman, Phys. Med. Biol. 48: 3875 (2003)."
+			},
+			{
+				"doi": "10.1016/j.ejrad.2008.04.028",
+				"or":  "M. J. Kitchen, K. M. Pavlov, S. B. Hooper, D. J. Vine, K. K. W. Siu, M. J. Wallace, M. L. L. Siew, N. Yagi, K. Uesugi, and R. A. Lewis, Eur. J. Radiol., 68: S49 (2008).",
+				"tr":  "M. J. Kitchen, K. M. Pavlov, S. B. Hooper, D. J. Vine, K. K. W. Siu, M. J. Wallace, M. L. L. Siew, N. Yagi, K. Uesugi, and R. A. Lewis, Eur. J. Radiol., 68: S49 (2008)."
+			},
+			{
+				"doi": "10.1016/j.ejrad.2008.04.036",
+				"or":  "P. Coan, J. Mollenhauer, A. Wagner, C. Muehleman, and A. Bravin, Eur. J. Radiol., 68: S41 (2008).",
+				"tr":  "P. Coan, J. Mollenhauer, A. Wagner, C. Muehleman, and A. Bravin, Eur. J. Radiol., 68: S41 (2008)."
+			},
+			{
+				"doi": "10.1007/s00428-007-0528-y",
+				"or":  "S. Ichihara, M. Ando, E. Hashimoto, A. Maksimenko, H. Sugiyama, C. Ohbayashi, T. Yuasa, K. Yamasaki, Y. Arai, K. Mori, and T. Endo, Virchows Arch., 452: 41 (2008).",
+				"tr":  "S. Ichihara, M. Ando, E. Hashimoto, A. Maksimenko, H. Sugiyama, C. Ohbayashi, T. Yuasa, K. Yamasaki, Y. Arai, K. Mori, and T. Endo, Virchows Arch., 452: 41 (2008)."
+			},
+			{
+				"doi": "10.1073/pnas.1204460109",
+				"or":  "Y. Zhao, E. Brun, P. Coan, Z. Huang, A. Sztrókay, P. C. Diemoz, S. Liebhardt, A. Mittone, S. Gasilov, J. Miao, and A. Bravin, Proc. Natl. Acad. Sci. U.S.A., 109: 18290 (2012).",
+				"tr":  "Y. Zhao, E. Brun, P. Coan, Z. Huang, A. Sztrókay, P. C. Diemoz, S. Liebhardt, A. Mittone, S. Gasilov, J. Miao, and A. Bravin, Proc. Natl. Acad. Sci. U.S.A., 109: 18290 (2012)."
+			},
+			{
+				"doi": "10.1007/s00330-013-3021-9",
+				"or":  "M. Ando, N. Sunaguchi, Y. Wu, S. Do, Y. Sung, A. Louissaint, T. Yuasa, S. Ichihara, and R. Gupta, Eur. Radiol., 24: 423 (2014).",
+				"tr":  "M. Ando, N. Sunaguchi, Y. Wu, S. Do, Y. Sung, A. Louissaint, T. Yuasa, S. Ichihara, and R. Gupta, Eur. Radiol., 24: 423 (2014)."
+			},
+			{
+				"doi": "10.1088/0031-9155/42/11/001",
+				"or":  "D. Chapman, W. Thomlinson, R. E. Johnson, D. Washburn, E. Pisano, N. Gmuer, Z. Zhong, R. Menk, F. Arfelli, and D. Sayers, Phys. Med. Biol., 42: 2015 (1997).",
+				"tr":  "D. Chapman, W. Thomlinson, R. E. Johnson, D. Washburn, E. Pisano, N. Gmuer, Z. Zhong, R. Menk, F. Arfelli, and D. Sayers, Phys. Med. Biol., 42: 2015 (1997)."
+			},
+			{
+				"doi": "10.1143/JJAP.41.L1016",
+				"or":  "M. Ando, A. Maksimenko, H. Sugiyama, W. Pattanasiriwisawa, K. Hyodo, and C. Uyama, Japan. J. Appl. Phys., 41: L1016 (2002).",
+				"tr":  "M. Ando, A. Maksimenko, H. Sugiyama, W. Pattanasiriwisawa, K. Hyodo, and C. Uyama, Japan. J. Appl. Phys., 41: L1016 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "A. C. Kak and M. Slaney, Principles of Computed Tomographic Imaging (IEEE: 1988).",
+				"tr":  "A. C. Kak and M. Slaney, Principles of Computed Tomographic Imaging (IEEE: 1988)."
+			},
+			{
+				"doi": "10.1109/TIT.2005.862083",
+				"or":  "E. J. Candes, J. Romberg, and T. Tao, IEEE Trans. Inf. Theory, 52, No. 2: 489 (2006).",
+				"tr":  "E. J. Candes, J. Romberg, and T. Tao, IEEE Trans. Inf. Theory, 52, No. 2: 489 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, Е. А. Тихонова, Физ. мет. металловед., 24, № 3: 385 (1967).",
+				"tr":  "V. B. Molodkin and E. A. Tikhonova, Fiz. Met. Metalloved., 24, No. 3: 385 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, Физ. мет. металловед., 25, № 3: 410 (1968).",
+				"tr":  "V. B. Molodkin, Fiz. Met. Metalloved., 25, No. 3: 410 (1968) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, Физ. мет. металловед., 27, № 4: 582 (1969).",
+				"tr":  "V. B. Molodkin, Fiz. Met. Metalloved., 27, No. 4: 582 (1969) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, Металлофизика, 2, № 1: 3 (1980).",
+				"tr":  "V. B. Molodkin, Metallofizika, 2, No. 1: 3 (1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. B. Molodkin, Phys. Metals, 3: 615 (1981).",
+				"tr":  "V. B. Molodkin, Phys. Metals, 3: 615 (1981)."
+			},
+			{
+				"doi": "10.1063/1.1389321",
+				"or":  "R. Barabash, G. E. Ice, B. C. Larson, G. M. Pharr, K.-S. Chung, and W. Yang, Applied Physics Letters, 79, Iss. 6: 749 (2001).",
+				"tr":  "R. Barabash, G. E. Ice, B. C. Larson, G. M. Pharr, K.-S. Chung, and W. Yang, Applied Physics Letters, 79, Iss. 6: 749 (2001)."
+			},
+			{
+				"doi": "10.15407/mfint.39.01.0001",
+				"or":  "С. В. Дмітрієв, В. Б. Молодкін, М. Г. Толмачов, О. С. Скакунова, С. В. Лізунова, Р. В. Лехняк, К. В. Фузік, Г. О. Веліховський, О. П. Васькевич, В. В. Лізунов, А. А. Катасонов, І. Е. Голентус, С. Й. Оліховський, Л. М. Скапа, В. В. Молодкін, Металофиз. новейшие технол., 39, № 1: 1 (2017).",
+				"tr":  "S. V. Dmitriev, V. B. Molodkin, M. G. Tolmachev, O. S. Skakunova, S. V. Lizunova, R. V. Lekhnyak, K. V. Fuzik, G. O. Velikhovskii, O. P. Vaskevich, V. V. Lizunov, A. A. Katasonov, I. E. Golentus, S. I. Olikhovskii, L. M. Skapa, and V. V. Molodkin, Metallofiz. Noveishie Tekhnol., 39, No. 1: 1 (2017) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Й. Оліховський, Є. M. Кисловський, В. Б. Молодкін, Є. Г. Лень, Т. П. Владімірова, O. В. Решетник, Металофиз. новейшие технол., 22, № 6: 3 (2000).",
+				"tr":  "S. J. Olikhovs'ky, Ye. M. Kislovs'ky, V. B. Molodkin, Ye. G. Len', T. P. Vladimirova, and O. V. Reshetnyk, Metallofiz. Noveishie Tekhnol., 22, No. 6: 3 (2000) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1002/mawe.201600480",
+				"or":  "V. B. Molodkin, G. О. Velikhovskii, S. V. Lizunova, V. V. Lizunov, B. V. Sheludchenko, E. M. Kislovskii, Ya. V. Vasilik, О. S. Skakunova, S. V. Dmitriev, K. V. Fuzik, and R. V. Lekhnyak, Materialwissenschaft und Werkstofftechnik [Materials Science and Engineering Technology], 47, Iss. 2–3: 246 (2016).",
+				"tr":  "V. B. Molodkin, G. O. Velikhovskii, S. V. Lizunova, V. V. Lizunov, B. V. Sheludchenko, E. M. Kislovskii, Ya. V. Vasilik, O. S. Skakunova, S. V. Dmitriev, K. V. Fuzik, and R. V. Lekhnyak, Materialwissenschaft und Werkstofftechnik [Materials Science and Engineering Technology], 47, Iss. 2–3: 246 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Є. Патон, В. Б. Молодкін, І. М. Карнаухов, І. М. Неклюдов, В. Ю. Сторіжко, П. П. Горбик, Г. І. Низкова, С. Й. Оліховський, О. Ю. Гаєвський, С. В. Лізунова, Б. В. Шелудченко, В. В. Лізунов, О. В. Третяк, С. П. Репецький, М. Г. Толмачов, А. Д. Шевченко, К. В. Фузік, В. В. Молодкін, Г. О. Веліховський, Спосіб фазової рентгенографії некристалічного об’єкту довільних форми і розмірів, Патент України № 111437 (Опубл. 25 квітня 2016 р.).",
+				"tr":  "B. Ye. Paton, V. B. Molodkin, I. M. Karnaukhov, I. M. Neklyudov, V. E. Storizhko, P. P. Horbyk, A. I. Nizkova, S. I. Olikhovskiy, O. Yu. Hayevs'kyy, S. V. Lizunova, B. V. Sheludchenko, V. V. Lizunov, O. V. Tretyak, S. P. Repetsky, M. H. Tolmachov, A. D. Shevchenko, K. V. Fuzik, V. V. Molodkin, and G. O. Velikhovskii, Sposib Fazovoyi Rentgenografiyi Nekrystalichnogo Ob'yektu Dovil'nykh Formy i Rozmiriv [Phase Roentgenography Method of Noncrystalline Object with Arbitrary Forms and Sizes], Ukrainian Patent No. 111437 (Publ. April 25, 2016) (in Ukrainian)."
+			}
+		]
+	}
+}

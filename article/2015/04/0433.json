@@ -1,0 +1,41 @@
+{
+	"_id":    "MFiNT.37.0433",
+	"year":   2015,
+	"volume": 37,
+	"issue":  4,
+	"pages":  [433,448],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["29.01.2015"],
+	"PACS":   "61.50.Ks, 71.20.Eh, 72.15.Eb, 75.10.Dg, 75.30.Et, 75.30.Kz, 75.30.Mb",
+	"title":  {
+		"ua": "Симетрія РЗМ. Парадокс Ce і його сплавів. Квантова теорія. I. Ce",
+		"en": "The Symmetry of Rare-Earth Metals. The Paradox of Ce and Its Alloys. Quantum Theory. I. Ce",
+		"ru": "Симметрия РЗМ. Парадокс Ce и его сплавов. Квантовая теория. I. Ce"
+	},
+	"abstract": {
+		"ua": "Методом багатоелектронних операторних спінорів (БЕОС) розраховується симетрія рідкісноземельних металів (РЗМ) разом із «парадоксом» ГЦК-Ce. Спінові й орбітальні фактори БЕОС з віссю [0001] квантування кутового моменту $J$ відповідальні за гексагональну деформацію $\\Delta(c/a) \\propto J^{2}$. Непрямий ковалентний $4f—4f$-зв’язок через зонні ферміони додає енергію зв’язку $E_{4f} \\propto n_{f}$. Ковалентна колективізація $n_{f} = 2$ для Ce($4f^{2}$) занулює $J \\rightarrow 0$ і дає $\\Delta(c/a) = 0$. В РЗМ-Ce виникає нестабільність $4f$-оболонки, що сприяє появі $5d$-станів з амплітудою $\\xi_{d}(T)$. Ковалентний зв’язок $\\Gamma^{dd}(k)$ (в методі БЕОС) з’являється як результат флюктуацій хемічних зв’язків (ФХЗ) за температури $T > T_{+}$ у формі стрибка $\\xi_{d} (T > T_{+})$. Гістерезу $\\alpha-\\gamma$-переходу ГЦК—ГЦК зумовлено зонно-ковалентним зв’язком $\\gamma_{b-c}$. Її максимальна ширина $\\Delta T_{h} \\propto \\gamma_{b-c}^{2/3}$ визначає стрибки об’єму $\\Delta \\omega(T_{+})$, ентропії $\\Delta S(T_{+})$, електроопору (ЕО) $\\Delta R(T_{+})$ тощо. Зокрема, стрибок ЕО $\\Delta R(T_{+}) \\propto \\Delta T_{h}$. Результатами розрахунків проінтерпретовано експериментальні дані.",
+		"en": "The symmetry of rare-earth metals (REM) and f.c.c.-Ce ‘paradox’ are calculated by means of the method of many-electron operator spinors (MEOS). Spin and orbital MEOS factors with [0001] axis of quantization of the angular moment $J$ are responsible for hexagonal deformation $\\Delta(c/a) \\propto J^{2}$. Indirect covalent $4f—4f$ bond via band fermions adds the bond energy $E_{4f} \\propto n_{f}$. Covalent electron collectivization ($n_{f} = 2$) for Ce($4f^{2}$) gives $J \\rightarrow 0$ and $\\Delta(c/a) = 0$. In the REM-Ce, there is instability of $4f$-shell contributing to the appearance of $5d$-states with amplitude $\\xi_{d}(T)$. Covalent bond $\\Gamma^{dd}(k)$ (in the MEOS method) appears because of the chemical-bond fluctuations (CBF) for temperature $T > T_{+}$ in the form of $\\xi_{d} (T > T_{+})$ jump. Hysteresis of the f.c.c.—f.c.c. $\\alpha-\\gamma$-transition is caused by the band—covalent bond $\\gamma_{b-c}$. Its maximum width $\\Delta T_{h} \\propto \\gamma_{b-c}^{2/3}$ determines jumps of the volume $\\Delta \\omega(T_{+})$, entropy $\\Delta S(T_{+})$, electrical resistance (ER) $\\Delta R(T_{+})$, etc. Particularly, the ER jump $\\Delta R(T_{+}) \\propto \\Delta T_{h}$. The experimental data are interpreted by the use of results of calculation.",
+		"ru": "Методом многоэлектронных операторных спиноров (МЭОС) рассчитывается симметрия редкоземельных металлов (РЗМ), включая «парадокс» ГЦК-Ce. Спиновые и орбитальные факторы МЭОС с осью [0001] квантования углового момента $J$ ответственны за гексагональную деформацию $\\Delta(c/a) \\propto J^{2}$. Косвенная ковалентная $4f—4f$-связь через зонные фермионы добавляет энергию связи $E_{4f} \\propto n_{f}$. Ковалентная коллективизация $n_{f} = 2$ для Ce($4f^{2}$) обнуляет $J \\rightarrow 0$ и даёт $\\Delta(c/a) = 0$. Возникающая в РЗМ-Ce нестабильность $4f$-оболочки способствует появлению $5d$-состояний с амплитудой $\\xi_{d}(T)$. Ковалентная связь $\\Gamma^{dd}(k)$ (в методе МЭОС) появляется как результат флюктуаций химических связей (ФХС) при температуре $T > T_{+}$ в форме скачка $\\xi_{d} (T > T_{+})$. Гистерезис $\\alpha-\\gamma$-перехода ГЦК—ГЦК обусловлен зонно-ковалентной связью $\\gamma_{b-c}$. Его максимальная ширина $\\Delta T_{h} \\propto \\gamma_{b-c}^{2/3}$ определяет скачки объёма $\\Delta \\omega(T_{+})$, энтропии $\\Delta S(T_{+})$, электросопротивления (ЭС) $\\Delta R(T_{+})$ и т.п. В частности, скачок ЭС $\\Delta R(T_{+}) \\propto \\Delta T_{h}$. Результатами расчётов проинтерпретированы экспериментальные данные."
+	},
+	"keywords": {
+		"ua": "гексагональні спотворення РЗМ, ГЦК–ГЦК-перехід Ce, флуктуації хімічних зв’язків, $4f$–$5d$-перехід, стрибок об’єму, стрибок ентропії, стрибок амплітуди хвильової функції",
+		"en": "hexagonal distortions of REM, f.c.c.—f.c.c.-transition of Ce, fluctuations of chemical bonds, $4f—5d$-transition, volume jump, entropy jump, ER jump, wave function amplitude jump",
+		"ru": "гексагональные искажения РЗМ, ГЦК–ГЦК-переход Ce, флуктуации химических связей, $4f$–$5d$-переход, скачок объёма, скачок энтропии, скачок амплитуды волновой функции"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. І. Міцек", "en": "O. I. Mitsek", "ru": "А. И. Мицек"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. М. Пушкар", "en": "V. M. Pushkar", "ru": "В. Н. Пушкарь"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 24,
+		"list":  []
+	}
+}

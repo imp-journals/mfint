@@ -1,0 +1,172 @@
+{
+	"year":   2015,
+	"volume": 37,
+	"issue":  6,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [723,730],
+			"title": {
+				"ua": "Електричний шум у мезоскопічних структурах нормальний метал–ізолятор–надпровідник",
+				"en": "Electrical Noise in Mesoscopic Normal Metal—Insulator—Superconductor Structures",
+				"ru": "Электрический шум в мезоскопических структурах нормальный металл—изолятор—сверхпроводник"
+			},
+			"autors": {
+				"ua": "І. В. Бойло",
+				"en": "I. V. Boylo",
+				"ru": "И. В. Бойло"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [731,740],
+			"title": {
+				"ua": "Структура високоентропійних сплавів CrMnFeCoNi і CrMnFeCoNi$_{2}$Cu та термостабільність їх електротранспортних властивостей",
+				"en": "Structure of the High-Entropy CrMnFeCoNi and CrMnFeCoNi$_{2}$Cu Alloys and Thermal Stability of Its Electrical Transport Properties",
+				"ru": "Структура высокоэнтропийных сплавов CrMnFeCoNi и CrMnFeCoNi$_{2}$Cu и термостабильность их электротранспортных свойств"
+			},
+			"autors": {
+				"ua": "М. О. Крапівка, Ю. П. Мазур, М. П. Семенько, С. О. Фірстов",
+				"en": "M. O. Krapivka, Yu. P. Mazur, M. P. Semen’ko, and S. O. Firstov",
+				"ru": "М. О. Крапивка, Ю. П. Мазур, М. П. Семенько, С. А. Фирстов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [741,750],
+			"title": {
+				"ua": "Низькотемпературний синтез і структура гібридних наноматеріалов Ni@C, отриманих методом реактивного магнетронного розпорошення",
+				"en": "Low-Temperature Synthesis and Structure of Hybrid Ni@C Nanomaterials Fabricated by Method of Reactive Magnetron Sputtering",
+				"ru": "Низкотемпературный синтез и структура гибридных наноматериалов Ni@C, полученных методом реактивного магнетронного распыления"
+			},
+			"autors": {
+				"ua": "М. І. Мохненко, В. М. Варюхін, А. М. Прудніков, Р. В. Шалаєв",
+				"en": "М. І. Mokhnenko, V. M. Varyukhin, A. М. Prudnikov, and R. V. Shalayev",
+				"ru": "М. И. Мохненко, В. Н. Варюхин, А. М. Прудников, Р. В. Шалаев"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [751,761],
+			"title": {
+				"ua": "Структура та властивості комплексних боридних покриттів на вуглецевих сталях",
+				"en": "Structure and Properties of Complex Boron Coatings on Carbon Steel",
+				"ru": "Структура и свойства комплексных боридных покрытий на углеродных сталях"
+			},
+			"autors": {
+				"ua": "С. М. Чернега, І. А. Поляков, І. Ю. Медова, М. О. Красовський",
+				"en": "S. M. Chernega, I. A. Polyakov, I. Yu. Medova, and M. O. Krasovskyi",
+				"ru": "С. М. Чернега, И. А. Поляков, И. Ю. Медова, М. А. Красовский"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [763,773],
+			"title": {
+				"ua": "Отримання та фізичні властивості моно- і багатошарових наноструктур срібла",
+				"en": "Fabrication and Physical Properties of Mono- and Multilayer Silver Nanostructures",
+				"ru": "Получение и физические свойства моно- и многослойных наноструктур серебра"
+			},
+			"autors": {
+				"ua": "В. Х. Касіяненко, В. А. Артемюк, В. Л. Карбівський, М. Г. Когут, Л. І. Карбівська, Є. А. Бородянський",
+				"en": "V. Kh. Kasiyanenko, V. A. Artemyuk, V. L. Karbіvskyy, M. Т. Kogut, L. І. Karbіvska, and I. A. Borodyanskyi",
+				"ru": "В. Х. Касияненко, В. А. Артемюк, В. Л. Карбовский, М. Т. Когут, Л. И. Карбовская, Е. А. Бородянский"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [775,788],
+			"title": {
+				"ua": "Фізичні механізми розпорошення мішеней із SiO$_{2}$ прискореними йонами фулерена C$_{60}$",
+				"en": "Physical Mechanisms of SiO$_{2}$ Target Sputtering with Accelerated Ions of C$_{60}$",
+				"ru": "Физические механизмы распыления мишеней из SiO$_{2}$ ускоренными ионами фуллерена C$_{60}$"
+			},
+			"autors": {
+				"ua": "М. В. Малєєв, Є. М. Зубарєв, В. Є. Пуха, А. М. Дроздов, О. С. Вус",
+				"en": "M. V. Maleyev, E. M. Zubarev, V. E. Pukha, A. M. Drozdov, and O. S. Vus",
+				"ru": "М. В. Малеев, Е. Н. Зубарев, В. Е. Пуха, А. Н. Дроздов, А. С. Вус"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [789,801],
+			"title": {
+				"ua": "Дослідження методами сканівної тунельної мікроскопії/спектроскопії і дифракції повільних електронів поверхонь сколів шаруватих кристалів GaTe",
+				"en": "Scanning Tunneling Microscopy/Spectroscopy and Low-Energy Electron Diffraction Investigations of GaTe Layered Crystal Cleavage Surface",
+				"ru": "Исследование методами сканирующей туннельной микроскопии/спектроскопии и дифракции медленных электронов поверхностей сколов слоистых кристаллов GaTe"
+			},
+			"autors": {
+				"ua": "П. В. Галій, Т. М. Ненчук, А. Ціжевський, П. Мазур, С. Зубер, І. Р. Яровець",
+				"en": "P. Galiy, T. Nenchuk, A. Ciszewski, P. Mazur, S. Zuber, and I. Yarovets’",
+				"ru": "П. В. Галиий, Т. Н. Ненчук, А. Цижевский, П. Мазур, С. Зубер, И. Р. Яровец"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [803,816],
+			"title": {
+				"ua": "Вплив депресанта – Ґерманія – на структуру та інтервали топлення паладієвих стопів",
+				"en": "Influence of Germanium as a Depressant on the Structure and Intervals of Melting of Palladium Alloys",
+				"ru": "Влияние депрессанта – германия – на структуру и интервалы плавления палладиевых сплавов"
+			},
+			"autors": {
+				"ua": "С. В. Максимова, В. Ф. Хорунов, В. В. Мясоєд",
+				"en": "S. V. Maksymova, V. F. Khorunov, and V. V. Myasoed",
+				"ru": "С. В. Максимова, В. Ф. Хорунов, В. В. Мясоед"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [817,837],
+			"title": {
+				"ua": "Вплив активних елементів мастильно-охолоджувальних рідин на формування і властивості зносостійких ультрадисперсних і наноструктурних шарів тертя сталей",
+				"en": "Effect of Active Chemical Elements of Lubricating Fluids on Forming and Characteristics of Wear-Resistant Superdispersed and Nanostructured Surface Friction Layers of Steels",
+				"ru": "Влияние активных элементов смазочно-охлаждающих жидкостей на формирование и свойства износостойких ультрадисперсных и наноструктурных слоёв трения сталей"
+			},
+			"autors": {
+				"ua": "В. В. Тихонович",
+				"en": "V. V. Tykhonovych",
+				"ru": "В. В. Тихонович"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [839,852],
+			"title": {
+				"ua": "Втомна міцність неіржавійних сталей AISI 430—304, зварених променем зварювального CO$_{2}$-лазера",
+				"en": "The Fatigue Strength of AISI 430—304 Stainless Steels Welded by CO$_{2}$ Laser Beam Welding",
+				"ru": "Усталостная прочность нержавеющих сталей AISI 430—304, сваренных лучом сварочного CO$_{2}$-лазера"
+			},
+			"autors": {
+				"ua": "У. Калігулу, М. Туркмен, А. Озер, М. Таскін, М. Озер",
+				"en": "U. Caligulu, M. Turkmen, A. Ozer, M. Taskin, and M. Ozer",
+				"ru": "У. Калигулу, М. Туркмен, А. Озер, М. Таскин, М. Озер"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [853,860],
+			"title": {
+				"ua": "Кореляційний зв'язок між рівнем крихкої міцности та границею плинности конструкційних сталей",
+				"en": "Correlation Between the Level of Brittle Strength and Yield Strength of Structural Steel",
+				"ru": "Корреляционная связь между уровнем хрупкой прочности и пределом текучести конструкционных сталей"
+			},
+			"autors": {
+				"ua": "С. О. Котречко, Ю. О. Полушкін, В. М. Грищенко",
+				"en": "S. O. Kotrechko, Yu. O. Polushkin, and V. M. Grishchenko",
+				"ru": "С. А. Котречко, Ю. А. Полушкин, В. Н. Грищенко"
+			}
+		}
+	]
+}

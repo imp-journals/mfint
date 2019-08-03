@@ -1,0 +1,157 @@
+{
+	"year":   2019,
+	"volume": 41,
+	"issue":  2,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  1,
+			"pages":  [139,155],
+			"title": {
+				"ua": "Дослідження структури аморфних стопів Fe–Si–B в області низьких температур методами рентґеноструктурної аналізи",
+				"en": "Study of Structure of Amorphous Fe–Si–B Alloys in the Region of Low Temperatures by Means of Methods of X-Ray Diffraction Analysis",
+				"ru": "Исследование структуры аморфных сплавов Fe–Si–B в области низких температур методами рентгеноструктурного анализа"
+			},
+			"autors": {
+				"ua": "О. І. Слуховський, Г. М. Зелінська, Ю. В. Лєпєєва",
+				"en": "O. I. Slukhovskyy, H. M. Zelinska, and Yu. V. Lepeeva",
+				"ru": "А. И. Слуховский, Г. М. Зелинская, Ю. В. Лепеева"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [157,171],
+			"title": {
+				"ua": "Вплив атмосфери відпалу на магнетні властивості нанорозмірних плівок стопу FePt",
+				"en": "Influence of an Atmosphere of Annealing on Magnetic Properties of Nanosize Films of FePt Alloy",
+				"ru": "Влияние атмосферы отжига на магнитные свойства наноразмерных плёнок сплава FePt"
+			},
+			"autors": {
+				"ua": "І. О. Круглов, В. В. Могилко, І. А. Владимирський, Ю. М. Макогон, М. О. Васильєв, С. І. Сидоренко, С. М. Волошко",
+				"en": "I. O. Kruhlov, V. V. Mohylko, I. A. Vladymyrskyi, Iu. M. Makogon, M. O. Vasylyev, S. I. Sidorenko, and S. M. Voloshko",
+				"ru": "И. А. Круглов, В. В. Могилко, И. А. Владимирский, Ю. М. Макогон, Н. А. Васильев, С. И. Сидоренко, С. М. Волошко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [173,192],
+			"title": {
+				"ua": "Підвищення якости поверхневих електроерозійно-леґованих шарів комбінованими покриттями та поверхневим пластичним деформуванням. II. Аналіза напружено-деформованого стану поверхневого шару після поверхневої пластичної деформації електроерозійних покриттів",
+				"en": "Improvement of Quality of the Surface Electroerosive Alloyed Layers by the Combined Coatings and the Surface Plastic Deformation. II. The Analysis of a Stressedly-Deformed State of Surface Layer after a Surface Plastic Deformation of Electroerosive Coatings",
+				"ru": "Повышение качества поверхностных электроэрозионно-легированных слоёв комбинированными покрытиями и поверхностным пластическим деформированием. II. Анализ напряжённо-деформированного состояния поверхностного слоя после поверхностной пластической деформации электроэрозионных покрытий"
+			},
+			"autors": {
+				"ua": "В. Б. Тарельник, О. П. Гапонова, Є. В. Коноплянченко, В. С. Марцинковський, Н. В. Тарельник, О. О. Василенко",
+				"en": "V. B. Tarelnyk, O. P. Gaponova, Ye. V. Konoplianchenko, V. S. Martsynkovskyy, N. V. Tarelnyk, and O. O. Vasylenko",
+				"ru": "В. Б. Тарельник, О. П. Гапонова, Е. В. Коноплянченко, В. С. Марцинковский, Н. В. Тарельник, О. А. Василенко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [193,201],
+			"title": {
+				"ua": "Пружньопластичний інваріянт як універсальна закономірність деформації",
+				"en": "Elastoplastic Invariant as a Universal Regularity of Deformation",
+				"ru": "Упругопластический инвариант как универсальная закономерность деформации"
+			},
+			"autors": {
+				"ua": "Л. Б. Зуєв, С. А. Бараннікова, Ю. В. Лі",
+				"en": "L. B. Zuev, S. A. Barannikova, and Yu. V. Li",
+				"ru": "Л. Б. Зуев, С. А. Баранникова, Ю. В. Ли"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [203,211],
+			"title": {
+				"ua": "Поведінка в умовах зношування зварених тертям із ворушінням різнорідних алюмінійових стопів",
+				"en": "Wear Behaviour of Friction Stir Welded Dissimilar Aluminium Alloys",
+				"ru": "Поведение в условиях износа сваренных трением с шевелением разнородных алюминиевых сплавов"
+			},
+			"autors": {
+				"ua": "Р. Ашок Кумар, М. Р. Тансікхар",
+				"en": "R. Ashok Kumar and M. R. Thansekhar",
+				"ru": "Р. Ашок Кумар, М. Р. Тансикхар"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  15,
+			"pages":  [213,226],
+			"title": {
+				"ua": "Твердофазна синтеза стопів системи Zr–Ti–Nb з багатокомпонентних порошкових сумішей",
+				"en": "Solid-Phase Synthesis of Alloys of Zr–Ti–Nb System from Multicomponent Powder Blends",
+				"ru": "Твердофазный синтез сплавов системы Zr–Ti–Nb из многокомпонентных порошковых смесей"
+			},
+			"autors": {
+				"ua": "Д. В. Оришич, Д. Г. Саввакін, О. О. Стасюк, Б. Я. Меламед",
+				"en": "D. V. Oryshych, D. G. Savvakin, O. O. Stasiuk, and B. Ya. Melamed",
+				"ru": "Д. В. Оришич, Д. Г. Саввакін, О. О. Стасюк, Б. Я. Меламед"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  14,
+			"pages":  [227,240],
+			"title": {
+				"ua": "Вплив термічного оброблення у газових середовищах на механічні властивості зразків стопу Zr–1%Nb",
+				"en": "Influence of Heat Treatment in Gas Mediums on Mechanical Properties of Samples of Zr–1%Nb Alloy",
+				"ru": "Влияние термической обработки в газовых средах на механические свойства образцов сплава Zr–1%Nb"
+			},
+			"autors": {
+				"ua": "В. С. Труш, О. Г. Лук’яненко, В. М. Воєводін, П. І. Стоєв",
+				"en": "V. S. Trush, O. H. Lukyanenko, V. M. Voyevodin, and P. I. Stoyev",
+				"ru": "В. С. Труш, А. Г. Лукьяненко, В. М. Воеводин, П. И. Стоев"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  14,
+			"pages":  [241,250],
+			"title": {
+				"ua": "Електронно-променева технологія в процесах переробки зливків гафнію",
+				"en": "Electron-Beam Technology in the Processing of Hafnium Ingots",
+				"ru": "Электронно-лучевая технология в процессах переработки слитков гафния"
+			},
+			"autors": {
+				"ua": "А. П. Мухачев, О. А. Харитонова",
+				"en": "A. P. Mukhachov and O. А. Kharytonova",
+				"ru": "А. П. Мухачёв, Е. А. Харитонова"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [251,261],
+			"title": {
+				"ua": "Фазові та структурні перетворення високовуглецевого стопу системи Fe–V–C при хеміко-термічному обробленні та деформації",
+				"en": "Phase and Structural Transformations of High-Carbon Alloy of the Fe–V–C System During Chemical-Thermal Processing and Deformation",
+				"ru": "Фазовые и структурные превращения высокоуглеродистого сплава системы Fe–V–C при химико-термической обработке и деформации"
+			},
+			"autors": {
+				"ua": "А. В. Мовчан, Е. А. Черноіваненко",
+				"en": "O. V. Movchan and K. O. Chernoivanenko",
+				"ru": "А. В. Мовчан, Е. А. Черноиваненко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  18,
+			"pages":  [263,278],
+			"title": {
+				"ua": "Інтелектуальна прецизійна гоніометрична система аналізи інтенсивностей спектрального розподілу для визначення хемічного складу металовмісних речовин",
+				"en": "Intelligent Precise Goniometric System of Analysis of Spectral Distribution Intensities for Definition of Chemical Composition of Metal-Containing Substances",
+				"ru": "Интеллектуальная прецизионная гониометрическая система анализа интенсивности спектрального распределения для определения химического состава металлосодержащих веществ"
+			},
+			"autors": {
+				"ua": "І. Ю. Черепанська, О. М. Безвесільна, Ю. М. Коваль, А. Ю. Сазонов",
+				"en": "I. Cherepanska, O. Bezvesilna, Yu. Koval, and A. Sazonov",
+				"ru": "И. Ю. Черепанская, Е. Н. Безвесильная, Ю. Н. Коваль, А. Ю. Сазонов"
+			}
+		}
+	]
+}

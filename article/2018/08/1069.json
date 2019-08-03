@@ -1,0 +1,141 @@
+{
+	"_id":    "MFiNT.40.08.1069",
+	"year":   2018,
+	"volume": 40,
+	"issue":  8,
+	"pages":  [1069,1079],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["31.01.2018"],
+	"PACS":   "66.30.Pa, 68.55.-a, 75.50.Ss, 75.50.Vv, 75.70.Ak, 81.40.Ef, 81.40.Rs",
+	"title":   {
+		"ua": "Формування впорядкованої фази $L1_0$-FePt у плівках Fe$_{50}$Pt$_{50}$/Au/Fe$_{50}$Pt$_{50}$ при відпалі у водні",
+		"en": "Formation of the Ordered $L1_0$-FePt Phase in Fe$_{50}$Pt$_{50}$/Au/Fe$_{50}$Pt$_{50}$ Films at Annealing in Hydrogen",
+		"ru": "Формирование упорядоченной фазы $L1_0$-FePt в плёнках Fe$_{50}$Pt$_{50}$/Au/Fe$_{50}$Pt$_{50}$ при отжиге в водороде"
+	},
+	"abstract": {
+		"ua": "Вивчено вплив проміжного шару Au при відпалі у водні на формування магнетотвердої, хемічно впорядкованої фази $L1_0$-FePt у плівкових композиціях Fe$_{50}$Pt$_{50}$(15 нм)/Au(7,5 нм; 30 нм)/Fe$_{50}$Pt$_{50}$(15 нм), нанесених методою магнетронного осадження на підкладинку SiO$_2$(100 нм)/Si(001). Фазовий перехід $A1$-FePt $\\to$ $L1_0$-FePt починає відбуватися в обох композиціях у процесі відпалу за температури у 500°C. При підвищенні температури відпалу збільшується ступінь упорядкування фази $L1_0$-FePt; при цьому зростає коерцитивна сила $H_C$ і розмір зерен. При взаємній дифузії шарів Au та FePt золото не бере участь у процесі упорядкування і розташовується в міжзеренному просторі, що обмежує обмінну взаємодію між зернами фази $L1_0$-FePt та додатково підвищує $H_C$ при збільшенні товщини шару Au. При відпалі за температури вище 600°C втілення атомів Гідроґену в октаедричні порожнини кристалічної ґратниці фази $L1_0$-FePt приводить до зменшення ступеня тетрагональности за рахунок збільшення параметру $c$ ґратниці. Проникнення водню у кристалічну ґратницю Au приводить до формування гідриду золота. В плівках формується переважна текстура (111) в шарах як Au, так і FePt.",
+		"en": "Influence of the intermediate Au layer during annealing in hydrogen ambience on the hard magnetic, chemically ordered $L1_0$-FePt phase formation in film Fe$_{50}$Pt$_{50}$(15 nm)/Au(7.5 nm; 30 nm)/Fe$_{50}$Pt$_{50}$(15 nm) compositions deposited by the magnetron sputtering on SiO$_2$(100 nm)/Si(001) substrate is investigated. The annealing of films is carried out in hydrogen ambience within the temperature range of 500–800°C for 30 s. The rates of heating and cooling are of 1°C/s. Before gas inflow, the chamber is pre-pumped out to a pressure of 0.1 Pa. The hydrogen pressure at annealing is of 101.3 kPa. The $A1$-FePt $\\to$ $L1_0$-FePt phase transition begins during annealing at 500°C in both films. The ordering degree of the $L1_0$-FePt phase, coercivity $H_C$, and sizes of FePt grains are increased, when annealing temperature is elevated. During interdiffusion of the Au and FePt layers, gold does not participate in the ordering process of FePt. It is located in the intergranular area that limits the exchange interaction between the $L1_0$-FePt phase grains and additionally increases $H_C$. Moreover, coercivity additionally rises with Au layer thickness increasing. Introduction of hydrogen atoms into the octahedral interstices of the $L1_0$-FePt crystal lattice leads to a decrease in the tetragonality degree by means of the increasing the lattice parameter $c$ during annealing at temperature above 600°C. The penetration of hydrogen into the Au lattice leads to gold-hydride formation. The preferred (111) texture is formed in both Au and FePt layers.",
+		"ru": "Изучено влияние промежуточного слоя Au при отжиге в водороде на формирование магнитно-твёрдой, химически упорядоченной фазы $L1_0$-FePt в плёночных композициях Fe$_{50}$Pt$_{50}$(15 нм)/Au(7,5 нм; 30 нм)/Fe$_{50}$Pt$_{50}$ (15 нм), нанесённых методом магнетронного осаждения на подложку SiO$_2$(100 нм)/Si(001). Фазовый переход $A1$-FePt $\\to$ $L1_0$-FePt начинает происходить в обеих композициях в процессе отжига при температуре 500°C. При повышении температуры отжига увеличивается степень упорядочения фазы $L1_0$-FePt; при этом растёт коэрцитивная сила $H_C$ и размер зёрен. При взаимодиффузии слоёв Au и FePt золото не принимает участие в процессе упорядочения и располагается в межзёренном пространстве, ограничивая обменное взаимодействие между зёрнами фазы $L1_0$-FePt и дополнительно увеличивая $H_C$ при увеличении толщины слоя Au. В процессе отжига при температуре выше 600°C внедрение атомов водорода в октаэдрические пустоты кристаллической решётки фазы $L1_0$-FePt приводит к уменьшению степени тетрагональности за счёт увеличения параметра $c$ решётки. Проникновение водорода в кристаллическую решётку Au приводит к формированию гидрида золота. В плёнках формируется преобладающая текстура (111) в слоях как Au, так и FePt."
+	},
+	"keywords": {
+		"ua": "тонка плівка, хемічно впорядкована фаза $L1_0$-FePt, відпал, водень, коерцитивна сила",
+		"en": "thin film, chemically ordered $L1_0$-FePt phase, annealing, hydrogen, coercivity",
+		"ru": "тонкая плёнка, химически упорядоченная фаза $L1_0$-FePt, отжиг, водород, коэрцитивная сила"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. Ю. Вербицька", "en": "M. Yu. Verbytska", "ru": "М. Ю. Вербицкая"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "М. Н. Шаміс", "en": "M. N. Shamis", "ru": "М. Н. Шамис"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "П. В. Макушко", "en": "P. V. Makushko", "ru": "П. В. Макушко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "Я. A. Бeрезняк", "en": "Ya. A. Berezniak", "ru": "Я. A. Бeрезняк"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "К. О. Грайворонська", "en": "K. O. Grayvoronska", "ru": "К. А. Грайворонская"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "Т. І. Вербицька", "en": "T. I. Verbytska", "ru": "Т. И. Вербицкая"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "Ю. М. Макогон", "en": "Yu. M. Makogon", "ru": "Ю. Н. Макогон"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "Ю. В. Кудрявцев", "en": "Yu. V. Kudryavtsev", "ru": "Ю. В. Кудрявцев"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 15,
+		"list":  [
+			{
+				"doi": "10.1109/JPROC.2008.2004315",
+				"or":  "M. H. Kryder, E. C. Gage, T. W. McDaniel, W. A. Challener, R. E. Rottmayer, G. Ju, Y.-T. Hsia, and M. F. Erden, Proc. IEEE, 96, Iss. 11: 1810 (2008).",
+				"tr":  "M. H. Kryder, E. C. Gage, T. W. McDaniel, W. A. Challener, R. E. Rottmayer, G. Ju, Y.-T. Hsia, and M. F. Erden, Proc. IEEE, 96, Iss. 11: 1810 (2008)."
+			},
+			{
+				"doi": "10.1116/1.4965980",
+				"or":  "D. Weller, G. Parker, O. Mosendz, A. Lyberatos, D. Mitin, N. Y. Safonova, and M. Albrecht, J. Vac. Sci. Technol. B, 34: 060801 (2016).",
+				"tr":  "D. Weller, G. Parker, O. Mosendz, A. Lyberatos, D. Mitin, N. Y. Safonova, and M. Albrecht, J. Vac. Sci. Technol. B, 34: 060801 (2016)."
+			},
+			{
+				"doi": "10.1109/20.824418",
+				"or":  "D. Weller, A. Moser, L. Folks, M. E. Best, Wen Lee, M. F. Toney, M. Schwickert, J.-U. Thiele, and M. F. Doerner, IEEE Trans. Magn., 36, Iss. 1: 10 (2000).",
+				"tr":  "D. Weller, A. Moser, L. Folks, M. E. Best, Wen Lee, M. F. Toney, M. Schwickert, J.-U. Thiele, and M. F. Doerner, IEEE Trans. Magn., 36, Iss. 1: 10 (2000)."
+			},
+			{
+				"doi": "10.1063/1.1516870",
+				"or":  "C. L. Platt, K. W. Wierman, E. B. Svedberg, R. van de Veerdonk, J. K. Howard, A. G. Roy, and D. E. Laughlin, J. Appl. Phys., 92, Iss. 10: 6104 (2002).",
+				"tr":  "C. L. Platt, K. W. Wierman, E. B. Svedberg, R. van de Veerdonk, J. K. Howard, A. G. Roy, and D. E. Laughlin, J. Appl. Phys., 92, Iss. 10: 6104 (2002)."
+			},
+			{
+				"doi": "10.1063/1.2335600",
+				"or":  "C. Y. You, Y. K. Takahashi, and K. Hono, J. Appl. Phys., 100, Iss. 5: 056105 (2006).",
+				"tr":  "C. Y. You, Y. K. Takahashi, and K. Hono, J. Appl. Phys., 100, Iss. 5: 056105 (2006)."
+			},
+			{
+				"doi": "10.15407/mfint.37.04.0487",
+				"or":  "Yu. M. Makogon, O. P. Pavlova, S. I. Sidorenko, T. I. Verbytska, M. Yu. Verbytska, and O. V. Fihurna, Metallofiz. Noveishie Tekhnol., 37, No. 4: 487 (2015).",
+				"tr":  "Yu. M. Makogon, O. P. Pavlova, S. I. Sidorenko, T. I. Verbytska, M. Yu. Verbytska, and O. V. Fihurna, Metallofiz. Noveishie Tekhnol., 37, No. 4: 487 (2015)."
+			},
+			{
+				"doi": "10.15407/mfint.36.11.1513",
+				"or":  "Yu. M. Makogon, O. P. Pavlova, S. I. Sidorenko, T. I. Verbyts’ka, M. Yu. Verbyts’ka, and O. V. Figurna, Metallofiz. Noveishie Tekhnol., 36, No. 11: 1513 (2014) (in Ukrainian).",
+				"tr":  "Yu. M. Makogon, O. P. Pavlova, S. I. Sidorenko, T. I. Verbyts'ka, M. Yu. Verbyts'ka, and O. V. Figurna, Metallofiz. Noveishie Tekhnol., 36, No. 11: 1513 (2014) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Iu. M. Makogon, E. P. Pavlova, S. I. Sidorenko, T. I. Verbytska, I. A. Vladymyrskyi, and R. A. Shkarban, Metallofiz. Noveishie Tekhnol., 35, No. 4: 553 (2013) (in Russian).",
+				"tr":  "Iu. M. Makogon, E. P. Pavlova, S. I. Sidorenko, T. I. Verbytska, I. A. Vladymyrskyi, and R. A. Shkarban, Metallofiz. Noveishie Tekhnol., 35, No. 4: 553 (2013) (in Russian)."
+			},
+			{
+				"doi": "10.3379/jmsjmag.28.330",
+				"or":  "T. Kamiki and S. Nagawa, J. Magn. Soc. Jpn., 28, Iss. 3: 330 (2004).",
+				"tr":  "T. Kamiki and S. Nagawa, J. Magn. Soc. Jpn., 28, Iss. 3: 330 (2004)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2004.10.087",
+				"or":  "S. Nakagawa and T. Kamiki, J. Magn. Magn. Mat., 287: 204 (2005).",
+				"tr":  "S. Nakagawa and T. Kamiki, J. Magn. Magn. Mat., 287: 204 (2005)."
+			},
+			{
+				"doi": "10.1039/C3NR06327E",
+				"or":  "M. Yamauchi, K. Okubo, T. Tsukuda, K. Kato, M. Takatae, and S. Takedaf, Nanoscale, 6, Iss. 8: 4067 (2014).",
+				"tr":  "M. Yamauchi, K. Okubo, T. Tsukuda, K. Kato, M. Takatae, and S. Takedaf, Nanoscale, 6, Iss. 8: 4067 (2014)."
+			},
+			{
+				"doi": "10.1063/1.1991968",
+				"or":  "K. Barmak, J. Kim, L. H. Lewis, K. R. Coffey, M. F. Toney, A. J. Kellock, and J.-U. Thiele, J. Appl. Phys., 98: 033904 (2005).",
+				"tr":  "K. Barmak, J. Kim, L. H. Lewis, K. R. Coffey, M. F. Toney, A. J. Kellock, and J.-U. Thiele, J. Appl. Phys., 98: 033904 (2005)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2012.02.090",
+				"or":  "L. Liu, H. Lv, W. Sheng, Yu. Lou, J. Bai, J. Cao, B. Ma, and F. Wei, Appl. Surf. Sci., 258, Iss. 15: 5770 (2012).",
+				"tr":  "L. Liu, H. Lv, W. Sheng, Yu. Lou, J. Bai, J. Cao, B. Ma, and F. Wei, Appl. Surf. Sci., 258, Iss. 15: 5770 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "V. E. Antonov, T. E. Antonova, I. T. Belash, A. E. Gorodetskii, and E. G. Ponyatovskii, Dokl. Phys. Chem., 266, No. 2: 722 (1982).",
+				"tr":  "V. E. Antonov, T. E. Antonova, I. T. Belash, A. E. Gorodetskii, and E. G. Ponyatovskii, Dokl. Phys. Chem., 266, No. 2: 722 (1982)."
+			},
+			{
+				"doi": "10.1063/1.4827202",
+				"or":  "I. A. Vladymyrskyi, M. V. Karpets, F. Ganss, G. L. Katona, D. L. Beke, S. I. Sidorenko, T. Nagata, T. Nabatame, T. Chikyow, G. Beddies, M. Albrecht, and Iu. M. Makogon, J. Appl. Phys., 114, Iss. 16: 164314 (2013).",
+				"tr":  "I. A. Vladymyrskyi, M. V. Karpets, F. Ganss, G. L. Katona, D. L. Beke, S. I. Sidorenko, T. Nagata, T. Nabatame, T. Chikyow, G. Beddies, M. Albrecht, and Iu. M. Makogon, J. Appl. Phys., 114, Iss. 16: 164314 (2013)."
+			}
+		]
+	}
+}

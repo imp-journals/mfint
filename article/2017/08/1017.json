@@ -1,0 +1,94 @@
+{
+	"_id":    "MFiNT.39.08.1017",
+	"year":   2017,
+	"volume": 39,
+	"issue":  8,
+	"pages":  [1017,1022],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["15.07.2017"],
+	"PACS":   "68.43.Bc, 71.20.Tx, 71.27.+a, 71.28.+d, 71.30.+h, 72.10.Di, 73.22.Pr",
+	"title":   {
+		"ua": "Вплив адсорбованих атомів калію на енергетичний спектер графену",
+		"en": "Influence of the Adsorbed Atoms of Potassium on an Energy Spectrum of Graphene",
+		"ru": "Влияние адсорбированных атомов калия на энергетический спектр графена"
+	},
+	"abstract": {
+		"ua": "В роботі досліджено вплив адсорбованої домішки атомів Калію на електронний спектер графену. Електронні стани системи описано в рамках самоузгодженого багатозонного моделю сильного зв’язку. Показано, що при упорядкованому розташуванні атомів Калію, яке понижує енергію системи, в енергетичному спектрі графену може виникати щілина. Так, за концентрації Калію, коли на елементарну комірку приходиться два атоми Карбону і один атом Калію, який розташований на поверхні графену над атомом Карбону на віддалі у 0,286 нм, величина енергетичної щілини складає $\\cong$ 0,25 еВ. Така обставина реалізується, коли графен знаходиться на калійовій підкладинці.",
+		"en": "The influence of adsorbed impurity of potassium atoms on the electronic spectrum of graphene is investigated. Electron states of the system are described within the framework of the self-consistent multiband tight-binding model. As shown, for the ordered arrangement of potassium atoms, which reduces energy of the system at issue, a gap can arise in the energy spectrum of graphene. As determined, at the potassium concentration such that the unit cell includes two carbon atoms and one potassium atom, the latter being placed on the graphene surface above a carbon atom at a height of 0.286 nm, the energy gap is equal to $\\cong$ 0.25 eV. Such a circumstance is realized, if graphene is placed on a potassium substrate.",
+		"ru": "В работе исследовано влияние адсорбированной примеси атомов калия на электронный спектр графена. Электронные состояния системы описаны в рамках самосогласованной многозонной модели сильной связи. Показано, что при упорядоченном расположении атомов калия, понижающем энергию системы, в энергетическом спектре графена может возникать щель. Так, при концентрации калия, когда на элементарную ячейку приходится два атома углерода и один атом калия, который расположен на поверхности графена над атомом углерода на расстоянии 0,286 нм, величина энергетической щели составляет $\\cong$ 0,25 эВ. Такое обстоятельство реализуется, когда графен находится на калиевой подложке."
+	},
+	"keywords": {
+		"ua": "Ґрінова функція, масовий оператор, вершинна частина масового оператора, електрон-електронна взаємодія, енергетична щілина",
+		"en": "Green function, mass operator, vertex part of mass operator, electron–electron interaction, energy gap",
+		"ru": "функция Грина, массовый оператор, вершинная часть массового оператора, электрон-электронное взаимодействие, энергетическая щель"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. П. Репецький", "en": "S. P. Repetsky", "ru": "С. П. Репецкий"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "І. Г. Вишивана", "en": "I. G. Vyshyvana", "ru": "И. Г. Вышиваная"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "С. П. Кручинін", "en": "S. P. Kruchinin", "ru": "С. П. Кручинин"},
+			"OID": [28]
+		},
+		{
+			"AID": {"ua": "В. Б. Молодкін", "en": "V. B. Molodkin", "ru": "В. Б. Молодкин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. В. Лізунов", "en": "V. V. Lizunov", "ru": "В. В. Лизунов"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 8,
+		"list":  [
+			{
+				"doi": "10.1016/j.apsusc.2012.03.167",
+				"or":  "C. Yelgel and G. P. Srivastava, Appl. Surf. Sci., 258, Iss. 21: 8338 (2012).",
+				"tr":  "C. Yelgel and G. P. Srivastava, Appl. Surf. Sci., 258, Iss. 21: 8338 (2012)."
+			},
+			{
+				"doi": "10.1016/j.cplett.2010.04.038",
+				"or":  "P. A. Denis, Chem. Phys. Lett., 492, Iss. 4–6: 251 (2010).",
+				"tr":  "P. A. Denis, Chem. Phys. Lett., 492, Iss. 4–6: 251 (2010)."
+			},
+			{
+				"doi": "10.1016/j.physleta.2011.08.070",
+				"or":  "X. Deng, Ya. Wu, J. Dai, D. Kang, and D. Zhang, Phys. Lett. A, 375, Iss. 44: 3890 (2011).",
+				"tr":  "X. Deng, Ya. Wu, J. Dai, D. Kang, and D. Zhang, Phys. Lett. A, 375, Iss. 44: 3890 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "T. M. Radchenko, V. A. Tatarenko, I. Yu. Sagalyanov, and Yu. I. Prylutskyy, Nanosistemi, Nanomateriali, Nanotehnologii, 13, No. 2: 201 (2015) (in Ukrainian).",
+				"tr":  "T. M. Radchenko, V. A. Tatarenko, I. Yu. Sagalyanov, and Yu. I. Prylutskyy, Nanosistemi, Nanomateriali, Nanotehnologii, 13, No. 2: 201 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/j.carbon.2016.01.067",
+				"or":  "T. M. Radchenko, V. A. Tatarenko, I. Yu. Sagalianov, Yu. I. Prylutskyy, P. Szroeder, and S. Biniak, Carbon, 101: 37 (2016).",
+				"tr":  "T. M. Radchenko, V. A. Tatarenko, I. Yu. Sagalianov, Yu. I. Prylutskyy, P. Szroeder, and S. Biniak, Carbon, 101: 37 (2016)."
+			},
+			{
+				"doi": "10.1088/0953-8984/6/9/013",
+				"or":  "V. F. Los’ and S. P. Repetsky, J. Phys.: Condens. Matter, 6, No. 9: 1707 (1994).",
+				"tr":  "V. F. Los' and S. P. Repetsky, J. Phys.: Condens. Matter, 6, No. 9: 1707 (1994)."
+			},
+			{
+				"doi": "10.4236/jmp.2014.517184",
+				"or":  "S. P. Repetsky, O. V. Tretyak, I. G. Vyshivanaya, and D. K. Cheshkovskiy, J. Modern Physics, 5, No. 17: 1896 (2014).",
+				"tr":  "S. P. Repetsky, O. V. Tretyak, I. G. Vyshivanaya, and D. K. Cheshkovskiy, J. Modern Physics, 5, No. 17: 1896 (2014)."
+			},
+			{
+				"doi": "10.1007/978-94-017-7593-9_7",
+				"or":  "S. P. Kruchinin, S. P. Repetsky, and I. G. Vyshyvana, NATO Science for Peace and Security. Series A: Chemistry and Biology. Nanomaterials for Security. (Eds. J. Bonca and S. Kruchinin) (Dordrecht: Springer Science and Business Media: 2016), p. 67.",
+				"tr":  "S. P. Kruchinin, S. P. Repetsky, and I. G. Vyshyvana, NATO Science for Peace and Security. Series A: Chemistry and Biology. Nanomaterials for Security. (Eds. J. Bonca and S. Kruchinin) (Dordrecht: Springer Science and Business Media: 2016), p. 67."
+			}
+		]
+	}
+}

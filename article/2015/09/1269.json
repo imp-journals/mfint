@@ -1,0 +1,234 @@
+{
+	"_id":    "MFiNT.37.09.1269",
+	"year":   2015,
+	"volume": 37,
+	"issue":  9,
+	"pages":  [1269,1289],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["09.09.2015"],
+	"PACS":   "43.35.+d, 61.72.Ff, 81.40.Ef, 81.40.Lm, 81.40.Pq, 81.65.-b, 83.10.Tv",
+	"title":  {
+		"ua": "Еволюція структурного стану та мікротвердости поверхні алюмінійового стопу Д16 внаслідок ультразвукового ударного оброблення в різних атмосферах",
+		"en": "Evolution of Structural State and Microhardness of Surface of D16 Aluminium Alloy in Consequence of Ultrasonic Shock Treatment in Different Atmospheres",
+		"ru": "Эволюция структурного состояния и микротвёрдости поверхности алюминиевого сплава Д16 вследствие ультразвуковой ударной обработке в разных атмосферах"
+	},
+	"abstract": {
+		"ua": "Виконано ультразвукове ударне оброблення (УЗУО) алюмінійового стопу Д16 в хемічно активних і нейтральних середовищах за умов квазигідростатичного стиснення зразка, що забезпечило більш ефективне порівняно з термічним обробленням і стандартними схемами УЗУО зміцнення його поверхні. Показано можливість, одночасно з низькотемпературними процесами деформаційного дисперґування зернистої структури, синтезувати на поверхні алюмінійового стопу Д16 міцні оксидні покриття товщиною у декілька десятків мікрометрів за допомогою УЗУО на повітрі. Доведено, що збільшення мікротвердости (у 2,5 рази) поверхні стопу Д16 УЗУО в інертному середовищі (арґон, гелій) зумовлюється модифікацією дислокаційної структури, деформаційним формуванням нанокристалічної структури, а також виділенням нанорозмірних преципітатів зміцнювальної $S^{ʹ}$-фази Al$_{2}$CuMg. Показано унікальну можливість збільшення мікротвердости поверхні стопу Д16 (до $\\cong$ 5 разів) УЗУО в середовищі рідкого азоту (77,4 К), зумовлену синергетичним впливом процесів наноструктуризації і механохемічної взаємодії алюмінію з азотом у ході кріодеформації. Запропоновано модельні уявлення стосовно структурно-фазових механізмів зміцнення поверхні стопу Д16.",
+		"en": "The D16 aluminium alloy is treated by ultrasonic impact treatment (UIT) in chemically active and neutral atmospheres under quasi-hydrostatic compression that provides more efficient surface strengthening comparing to the heat treatment and classical UIT schemes. As shown, it is possible to form durable oxide coatings with the thickness of several tens of micrometers on the alloy surface simultaneously with the low-temperature deformation of grain structure dispersion by means of UIT within the air. Increasing D16 surface microhardness (up to 2.5 times) by UIT in the inert atmosphere (Ar, He) is caused by the modification of dislocation structure, nanocrystalline structure formation due to the deformation, and formation of nanoscale precipitates of $S^{ʹ}$-Al$_{2}$CuMg hardening phase. The unique opportunity of surface microhardness increasing (up to $\\cong$ 5 times) by UIT in a liquid nitrogen (at 77.4 K) due to the influence of synergetic processes of nanostructure formation and mechanochemical interaction of aluminium with nitrogen during cryo-deformation is demonstrated. The model of surface strengthening by means of the structure and phase mechanisms is proposed.",
+		"ru": "Выполнена ультразвуковая ударная обработка (УЗУО) поверхности алюминиевого сплава Д16 в химически активных и нейтральных средах в условиях квазигидростатического сжатия образца, что обеспечило более эффективное по сравнению с термической обработкой и стандартными схемами УЗУО упрочнение его поверхности. Показана возможность, одновременно с низкотемпературными процессами деформационного диспергирования зёренной структуры, синтезировать на поверхности алюминиевого сплава Д16 прочные оксидные покрытия толщиной в несколько десятков микрометров с помощью УЗУО на воздухе. Доказано, что увеличение микротвёрдости (в 2,5 раза) поверхности сплава Д16 УЗУО в инертной среде (аргон, гелий) обусловливается модификацией дислокационной структуры, деформационным формированием нанокристаллической структуры, а также выделением наноразмерных преципитатов упрочняющей $S^{ʹ}$-фазы Al$_{2}$CuMg. Показана уникальная возможность увеличения микротвёрдости поверхности сплава Д16 (до $\\cong$ 5 раз) УЗУО в среде жидкого азота (77,4К), обусловленного синергетическим влиянием процессов наноструктурирования и механохимического взаимодействия алюминия с азотом в процессе криодеформации. Предложены модельные представления относительно структурно-фазовых механизмов упрочнения поверхности сплава Д16."
+	},
+	"keywords": {
+		"ua": "наноструктура, поверхня, квазигідростатичне стиснення, кріодеформація, ультразвукове ударне оброблення (УЗУО)",
+		"en": "nanostructure, surface, quasi-hydrostatic compression, cryo-deformation, ultrasonic impact treatment (UIT)",
+		"ru": "наноструктура, поверхность, квазигидростатическое сжатие, криодеформация, ультразвуковая ударная оброботка (УЗУО)"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. О. Васильєв", "en": "M. O. Vasyliev", "ru": "М. А. Васильев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Б. М. Мордюк", "en": "B. M. Mordyuk", "ru": "Б. Н. Мордюк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. І. Сидоренко", "en": "S. I. Sidorenko", "ru": "С. И. Сидоренко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "С. М. Волошко", "en": "S. M. Voloshko", "ru": "С. М. Волошко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "А. П. Бурмак", "en": "A. P. Burmak", "ru": "А. П. Бурмак"},
+			"OID": [202]
+		}
+	],
+	"references": {
+		"count": 36,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "А. В. Белоцкий, В. Н. Винниченко, И. М. Муха, Ультразвуковое упрочнение металлов (Киев: Техника: 1989).",
+				"tr":  "A. V. Belotskiy, V. N. Vinnichenko, and I. M. Mukha, Ul'trazvukovoe Uprochnenie Metallov [Ultrasonic Hardening of Metals] (Kyiv: Tekhnika: 1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Муханов, Ю. М. Голубев, Металловед. термич. обраб. мет., № 9: 29 (1969).",
+				"tr":  "I. I. Mukhanov and Yu. M. Golubev, Metalloved. Termich. Obrab. Met. [Metal Science and Heat Treatment of Metals], No. 9: 29 (1969) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Марков, Применение ультразвука в промышленности (Москва: Машиностроение: 1975).",
+				"tr":  "A. I. Markov, Primenenie Ul'trazvuka v Promyshlennosti [Application of Ultrasound in Industry] (Moscow: Mashinostroenie: 1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Алехин, Физика прочности и пластичности поверхностных слоев материалов (Москва: Наука: 1983).",
+				"tr":  "V. P. Alekhin, Fizika Prochnosti i Plastichnosti Poverkhnostnykh Sloev Materialov [Physics of Strength and Plasticity of Surface Layers of Materials] (Moscow: Nauka: 1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Панин, В. П. Сергеев, А. В. Панин, Наноструктурирование поверхностных слоев и нанесение наноструктурных покрытий (Томск: Изд. ТПУ: 2010).",
+				"tr":  "V. E. Panin, V. P. Sergeev, and A. V. Panin, Nanostrukturirovanie Poverkhnostnykh Sloev i Nanesenie Nanostrukturnykh Pokrytiy [Nanostructuring of Surface Layers and Deposition of Nanostructural Coatings] (Tomsk: Izd. TPU: 2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Мордвинцева, Применение ультразвука в сварочной технике. Труды МВТУ им. Н. Э. Баумана (Москва: ЦИНТИ Энергомаш: 1959), т. 45, с. 32.",
+				"tr":  "A. V. Mordvintseva, Primenenie Ul'trazvuka v Svarochnoy Tekhnike. Trudy MVTU im. N. E. Baumana [Application of Ultrasound in Welding Engineering, Transactions of MVTU named after N. E. Bauman] (Moscow: TsINTI Energomash: 1959), vol. 45, p. 32 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Крылов, А. М. Полищук, Физические основы применения ультразвука в промышленности (Ленинград: ЛДНТП: 1970), т. 1, с. 70.",
+				"tr":  "N. A. Krylov and A. M. Polishchuk, Fizicheskie Osnovy Primeneniya Ul'trazvuka v Promyshlennosti [Physical Foundations of Ultrasonic Application in Industry] (Leningrad: LDNTP: 1970), vol. 1, p. 70 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Kaзимиров, A. A. Грузд, Г. И. Прокопенко, Автоматич. сварка, 7: 38 (1980).",
+				"tr":  "A. A. Kazimirov, A. A. Gruzd, and G. I. Prokopenko, Avtomatich. Svarka, 7: 38 (1980) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.ultras.2006.05.119",
+				"or":  "E. Sh. Statnikov, O. V. Korolkov, and V. N. Vityazev, Ultrasonics, 44: e533 (2006).",
+				"tr":  "E. Sh. Statnikov, O. V. Korolkov, and V. N. Vityazev, Ultrasonics, 44: e533 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "И. К. Вагапов, Нелинейные эффекты в ультразвуковой обработке (Москва: Наука и техника: 1987).",
+				"tr":  "I. K. Vagapov, Nelineynye Effekty v Ul'trazvukovoy Obrabotke [Nonlinear Effects in Ultrasonic Treatment] (Moscow: Nauka i Tekhnika: 1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "E. Statnikov, Physics and Mechanism of Ultrasonic Impact Treatment (Alabama: International Institute of Welding: Document XIII-2004-04) (2004).",
+				"tr":  "E. Statnikov, Physics and Mechanism of Ultrasonic Impact Treatment (Alabama: International Institute of Welding: Document XIII-2004-04) (2004)."
+			},
+			{
+				"doi": "10.1533/wint.2003.3192",
+				"or":  "E. Sh. Statnikov and V. O. Muktepavel, Welding Int., 17, Iss. 9: 741 (2003).",
+				"tr":  "E. Sh. Statnikov and V. O. Muktepavel, Welding Int., 17, Iss. 9: 741 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. И. Прокопенко, А. В. Козлов, Б. Н. Мордюк, В. О. Абрамов, Металлофиз. новейшие технол., 20: 30 (1998).",
+				"tr":  "G. I. Prokopenko, A. V. Kozlov, B. N. Mordyuk, and V. O. Abramov, Metallofiz. Noveishie Tekhnol., 20: 30 (1998) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. М. Мордюк, Закономірності структуроутворення та кінетика деформаційних процесів у металевих матеріалах при комбінованих впливах із застосуванням ультразвуку (Автореф. дис.  д-ра фіз.-мат. наук) (Київ: Інститут металофізики ім. Г. В. Курдюмова НАН України: 2012).",
+				"tr":  "B. M. Mordyuk, Zakonomirnosti Strukturoutvorennya ta Kinetyka Deformatsiynykh Protsesiv u Metalevykh Materialakh pry Kombinovanykh Vplyvakh iz Zastosuvannyam Ul'trazvuku [Regularities of Structural Formation and Kinetics of Deformation Processes at Combine Ultrasonic Effects] (Autoref. Dis. … for Dr. Phys.-Math. Sci.) (Kyiv: G. V. Kurdyumov Institute for Metal Physics, N.A.S.U.: 2012) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/j.jsv.2007.03.054",
+				"or":  "B. N. Mordyuk and G. I. Prokopenko, J. Sound Vibration, 308: 855 (2007).",
+				"tr":  "B. N. Mordyuk and G. I. Prokopenko, J. Sound Vibration, 308: 855 (2007)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2009.10.009",
+				"or":  "B. N. Mordyuk, M. O. Iefimov, G. I. Prokopenko, T. V. Golub, and M. I. Danylenko, Surf. Coat. Technol., 204: 1590 (2010).",
+				"tr":  "B. N. Mordyuk, M. O. Iefimov, G. I. Prokopenko, T. V. Golub, and M. I. Danylenko, Surf. Coat. Technol., 204: 1590 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Г. Полоцкий, Металлы, электроны, решётка (Ред. В. Н. Гриднев) (Киев: Наукова думка: 1975), с. 389.",
+				"tr":  "I. G. Polotskiy, Metally, Elektrony, Reshetka [Metals, Electrons, Lattice] (Ed. V. N. Gridnev) (Kyiv: Naukova Dumka: 1975), p. 389 (in Russian)."
+			},
+			{
+				"doi": "10.1007/s11665-006-9004-0",
+				"or":  "C. A. Rodopoulos, A. Th. Kermanidis, and E. Statnikov, J. Mater. Eng. Perform., 16: 30 (2007).",
+				"tr":  "C. A. Rodopoulos, A. Th. Kermanidis, and E. Statnikov, J. Mater. Eng. Perform., 16: 30 (2007)."
+			},
+			{
+				"doi": "10.1361/105994906X108693",
+				"or":  "X. An, C. A. Rodopoulos, E. S. Statnikov, V. N. Vitazev, and O. V. Korolkov, J. Mater. Eng. Perform., 15: 355 (2006).",
+				"tr":  "X. An, C. A. Rodopoulos, E. S. Statnikov, V. N. Vitazev, and O. V. Korolkov, J. Mater. Eng. Perform., 15: 355 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Кузьменко, Ю. М. Голованев, Ю. Г. Безымянный, Ультразвуковые колебания и их влияние на механические характеристики конструкционных материалов (Киев: Наукова думка: 1986), с. 186.",
+				"tr":  "V. A. Kuz'menko, Yu. M. Golovanev, and Yu. G. Bezymyannyy, Ul'trazvukovye Kolebaniya i Ikh Vliyanie na Mekhanicheskie Kharakteristiki Konstruktsionnykh Materialov [Ultrasonic Vibrations and their Effects on Mechanical Properties of Construction Materials] (Kyiv: Naukova Dumka: 1986), p. 186 (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2007.12.017",
+				"or":  "Y. Huang and P. Prangnell, Acta Mater., 56: 1619 (2008).",
+				"tr":  "Y. Huang and P. Prangnell, Acta Mater., 56: 1619 (2008)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2003.12.022",
+				"or":  "Y. M. Wang and E. Ma, Acta Mater., 52: 1699 (2004).",
+				"tr":  "Y. M. Wang and E. Ma, Acta Mater., 52: 1699 (2004)."
+			},
+			{
+				"doi": "10.1038/nature01133",
+				"or":  "Y. M. Wang, Y. M. Chen, F. Zhou, and E. Ma, Nature Lett., 419: 912 (2002).",
+				"tr":  "Y. M. Wang, Y. M. Chen, F. Zhou, and E. Ma, Nature Lett., 419: 912 (2002)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2004.02.037",
+				"or":  "Y. B. Lee, D. H. Shin, K. T. Park, and W. J. Nam, Scr. Mater., 51: 355 (2004).",
+				"tr":  "Y. B. Lee, D. H. Shin, K. T. Park, and W. J. Nam, Scr. Mater., 51: 355 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "П. А. Хаймович, Вопросы атомной науки и техники. Сер. Физика радиационных повреждений и радиационное материаловедение, 89: 28 (2006).",
+				"tr":  "P. A. Khaymovich, Voprosy Atomnoy Nauki i Tekhniki. Ser. Fizika Radiatsionnykh Povrezhdeniy i Radiatsionnoe Materialovedenie [Problems of Atomic Science and Technology. Ser. Physics of Radiation Effects and Radiation Materials Science], 89: 28 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Гиндин, М. Б. Лазарева, В. П. Лебедев, Я. Д. Стародубов, В. М. Мацевитый, В. И. Хоткевич, Физ. мет. металловед., 24, № 2: 347 (1967).",
+				"tr":  "I. A. Gindin, M. B. Lazareva, V. P. Lebedev, Ya. D. Starodubov, V. M. Matsevityy, and V. I. Khotkevich, Fiz. Met. Metalloved., 24, No. 2: 347 (1967) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Гиндин, Я. Д. Стародубов, В. К. Аксенов, Металлофизика, 2: 49 (1980).",
+				"tr":  "I. A. Gindin, Ya. D. Starodubov, and V. K. Aksenov, Metallofizika, 2: 49 (1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. І. Сидоренко, С. М. Волошко, І. Є. Котенко, А. П. Бурмак, Металлофиз. новейшие технол., 33, № 12: 1659 (2011).",
+				"tr":  "S. I. Sydorenko, S. M. Voloshko, I. E. Kotenko, and A. P. Burmak, Metallofiz. Noveishie Tekhnol., 33, No. 12: 1659 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Глезер, Л. С. Метлов, Физика твёрдого тела, 52, № 6: 1090 (2010).",
+				"tr":  "A. M. Glezer and L. S. Metlov, Fizika Tverdogo Tela, 52, No. 6: 1090 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. З. Валиев, И. В. Александров, Наноструктурные материалы, полученные интенсивной пластической деформацией (Москва: Логос: 2000).",
+				"tr":  "R. Z. Valiev and I. V. Aleksandrov, Nanostrukturnye Materialy, Poluchennye Intensivnoy Plasticheskoy Deformatsiey [Nanostructural Materials Fabricated by Severe Plastic Deformation] (Moscow: Logos: 2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Г. Пашинская, Ю. Н. Подрезов, В. В. Столяров, А. В. Завдовеев, И. И. Тищенко, Физика и механика материалов, 15: 26 (2012).",
+				"tr":  "E. G. Pashinskaya, Yu. N. Podrezov, V. V. Stolyarov, A. V. Zavdoveev, and I. I. Tishchenko, Fizika i Mekhanika Materialov, 15: 26 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "E. Г. Пашинская, А. А. Толпа, М. М. Мышляев, В. В. Гришаев, А. В. Завдовеев, Металлы, № 6: 25 (2011).",
+				"tr":  "E. G. Pashinskaya, A. A. Tolpa, M. M. Myshlyaev, V. V. Grishaev, and A. V. Zavdoveev, Metally, No. 11: 25 (2011) (in Russian)."
+			},
+			{
+				"doi": "10.1134/S0036029511110073",
+				"or":  "E. Pashinska, A. Tolpa, M. Myshlyaev, V. Grishaev, and A. Zavdoveev, Russian Metallurgy (Metally), No. 11: 1045 (2011).",
+				"tr":  "E. Pashinska, A. Tolpa, M. Myshlyaev, V. Grishaev, and A. Zavdoveev, Russian Metallurgy (Metally), No. 11: 1045 (2011)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2012.08.006",
+				"or":  "M. A. Vasylyev, S. P. Chenakin, and L. F. Yatsenko, Acta Mater., 60: 6223 (2012).",
+				"tr":  "M. A. Vasylyev, S. P. Chenakin, and L. F. Yatsenko, Acta Mater., 60: 6223 (2012)."
+			},
+			{
+				"doi": "10.1016/S0266-3538(96)00167-4",
+				"or":  "R. L. Deuis, C. Subramanian, and J. M. Yellup, Compos. Sci. Technol., 57: 415 (1997).",
+				"tr":  "R. L. Deuis, C. Subramanian, and J. M. Yellup, Compos. Sci. Technol., 57: 415 (1997)."
+			},
+			{
+				"doi": "10.1016/j.wear.2014.07.011",
+				"or":  "B. N. Mordyuk, G. I. Prokopenko, Yu. V. Milman, M. O. Iefimov, K. E. Grinkevych, A. V. Sameljuk, and I. V. Tkachenko, Wear, 319: 84 (2014).",
+				"tr":  "B. N. Mordyuk, G. I. Prokopenko, Yu. V. Milman, M. O. Iefimov, K. E. Grinkevych, A. V. Sameljuk, and I. V. Tkachenko, Wear, 319: 84 (2014)."
+			}
+		]
+	}
+}

@@ -1,0 +1,103 @@
+{
+	"_id":    "MFiNT.37.07.0887",
+	"year":   2015,
+	"volume": 37,
+	"issue":  7,
+	"pages":  [887,897],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["15.05.2015"],
+	"PACS":   "61.05.cf, 61.05.cp, 61.72.Dd, 61.72.U-, 61.80.Jh, 62.20.Qp, 81.40.Wx",
+	"title":  {
+		"ua": "Наноструктурування поверхні гетероепітаксіальної плівки CdHgTe методом йонної імплантації Ag$^{+}$",
+		"en": "Nanostructurization of a Surface of a Heteroepitaxial CdHgTe Film by a Method of the Ion Implantation of Ag$^{+}$",
+		"ru": "Наноструктурирование поверхности гетероэпитаксиальной плёнки CdHgTe методом ионной имплантации Ag$^{+}$"
+	},
+	"abstract": {
+		"ua": "Представлено результати систематичних досліджень впливу структурних змін на механічні характеристики поверхні гетероепітаксійної структури кадмій—ртуть—телур (КРТ), одержаної методою йонної імплантації Ag$^{+}$. Методою Рентґенової дифрактометрії вивчаються характеристики порушеного шару гетероструктур Ag$_{2}$O/CdHgTe/CdZnTe. Визначено, що домішка (срібло) розташовується переважно в приповерхневій області епітаксійного шару завтовшки у $\\cong$ 0,1 мкм, причому максимального значення у $\\cong$ 10$^{24}$ м$^{-3}$ концентрація йонів досягає на глибині у $\\cong$ 0,05 мкм. Обговорюється природа і роль механічної напруги леґованого шару і вплив деформацій на перерозподіл введеної домішки і дефектів. Розглядається ґенерація механічних напружень у твердому розчині CdHgTe, що виникають при імплантаційному введенні домішкових йонів срібла, як джерело трансформації дефектно-домішкової структури та зміни мікроструктури поверхні гетероепітаксійної плівки вузькозонного напівпровідника. Встановлено, що ефект деформаційного втягування домішки за рахунок дилятаційного ефекту може відігравати помітну роль при формуванні профілю розподілу домішки. Із застосуванням програмного пакета TRIM_2008 були розраховані значення концентрації імплантату $С(z)$, які використовувалися для подальшого розрахунку максимальних за величиною механічних напружень. Також визначено зміни відносної мікротвердости $\\eta$ досліджуваних зразків. Аналіз структурних змін приповерхневого шару імплантованих сріблом зразків КРТ виконувався XRD-методикою у ковзній конфіґурації (GI XRD) при куті ковзання у 1°. Для даного матеріялу в дифракційну картину (GI XRD) дають внесок приповерхневі області на глибині до 400 нм. Для визначення розмірів дефектів було побудовано та проаналізовано розподіл інтенсивности дифузного розсіяння в напрямку $q_{х}$. Для зразка після імплантації сріблом відбувається звуження области Хуанєвого розсіяння порівняно з вихідним зразком.",
+		"en": "Structural and mechanical characteristics of the damaged layer of heteroepitaxial Ag$_{2}$O/CdHgTe/CdZnTe structures after implantation of silver ions are presented within the scope of systematic X-ray diffraction investigations. Nature and role of mechanical stress of doping layer and the impact of strain on the redistribution of introduced impurities and defects are discussed. The generation of mechanical stresses in the CdHgTe (MCT) solid solution arising from the implantation introduction of impurity silver ions is considered as a source of transformation of defect—impurity structures and changes in the microstructure of the heteroepitaxial narrow-gap semiconductor film surface. As revealed, the effect of deformation retraction of impurities caused by dilatational effect may play a prominent role in formation of the impurity distribution profile. With application of the TRIM_2008 software package, the concentration values of implanted ions, $C(z)$, are calculated and used for further calculation of the maximal mechanical stresses. As determined, the silver admixture is mainly located in the surface region of epitaxial layer with the thickness of $\\cong$ 0.1 $\\mu$m, and the maximum of ion concentration ($\\cong$ 10$^{24}$ m$^{-3}$) is achieved at the depth of $\\cong$ 0.05 $\\mu$m. Changes in relative microhardness of samples, $\\eta$, are investigated as well. Analysis of structural changes in the surface layer of silver-implanted MCT-samples is performed by the XRD method in sliding configuration (GI XRD) at the grazing angle of 1°. For this material, near-surface region up to 400 nm contributes in the diffraction pattern. To determine the size of defects, intensity distribution of diffuse scattering in the $q_{x}$ direction is reconstructed and analysed. With the increase of the defects’ size, the narrowing of Huang-scattering domain is observed for the sample after silver implantation in comparison with the initial sample.",
+		"ru": "Представлены результаты систематических исследований структурных и механических характеристик поверхности гетероэпитаксиальной структуры кадмий—ртуть—теллур (КРТ), полученной методом ионной имплантации Ag$^{+}$. Методом рентгеновской дифрактометрии изучались характеристики нарушенного слоя гетероструктур Ag$_{2}$O/CdHgTe/CdZnTe. Было определено, что примесь (серебро) располагается преимущественно в приповерхностной области эпитаксиального слоя толщиной $\\cong$ 0,1 мкм, причём максимального значения $\\cong$ 10$^{24}$ м$^{-3}$ концентрация ионов достигает на глубине $\\cong$ 0,05 мкм. Обсуждается природа и роль механического напряжения легируемого слоя и влияние деформаций на перераспределение введённой примеси и дефектов. Рассматривается генерация механических напряжений в твёрдом растворе CdHgTe, возникающих при имплантационном введении примесных ионов серебра, как источник трансформации дефектно-примесной структуры и изменения микроструктуры поверхности гетероэпитаксиальной плёнки узкозонного полупроводника. Установлено, что эффект деформационного втягивания примеси за счёт дилатационного эффекта может играть заметную роль при формировании профиля распределения примеси. С применением программного пакета TRIM_2008 были рассчитаны значения концентрации имплантата $C(z)$, которые использовались для дальнейшего расчёта максимальных по величине механических напряжений. Также определены изменения относительной микротвёрдости $\\eta$ исследуемых образцов. Анализ структурных изменений приповерхностного слоя имплантированных серебром образцов КРТ выполнялся по XRD-методике в скользящей конфигурации (GI XRD) при угле скольжения 1°. Для данного материала в дифракционную картину (GI XRD) дают вклад приповерхностные области на глубине до 400 нм. Для определения размеров дефектов было построено и проанализировано распределение интенсивности диффузного рассеяния в направлении $q_{x}$. Для образца после имплантации серебром происходит сужение области хуаневского рассеяния по сравнению с исходным образцом."
+	},
+	"keywords": {
+		"ua": "деформаційні поля, дифузійна рухливість, імплантація, наноматеріяли, напівпровідники",
+		"en": "strain fields, diffusion mobility, implantation, nanomaterials, semiconductors",
+		"ru": "деформационные поля, диффузионная подвижность, имплантация, наноматериалы, полупроводники"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Р. С. Удовицька", "en": "R. S. Udovytska", "ru": "Р. С. Удовицкая"},
+			"OID": [20]
+		}
+	],
+	"references": {
+		"count": 13,
+		"list":  [
+			{
+				"doi": "10.1088/0268-1242/19/10/R02",
+				"or":  "D. Paul, Semicond. Sci. Technol., 19: 75 (2004).",
+				"tr":  "D. Paul, Semicond. Sci. Technol., 19: 75 (2004)."
+			},
+			{
+				"doi": "10.1016/j.spmi.2005.08.020",
+				"or":  "A. A. Orouji and M. J. Kumar, Superlattices Microstruct., 39: 395 (2006).",
+				"tr":  "A. A. Orouji and M. J. Kumar, Superlattices Microstruct., 39: 395 (2006)."
+			},
+			{
+				"doi": "10.1038/35104535",
+				"or":  "C. Hagleitner, A. Hierlemann, D. Lange et al., Nature, 414: 293 (2001).",
+				"tr":  "C. Hagleitner, A. Hierlemann, D. Lange et al., Nature, 414: 293 (2001)."
+			},
+			{
+				"doi": "10.1063/1.2430055",
+				"or":  "A. Romanyuk and P. Oelhafen, Appl. Phys. Lett., 90: 013118 (2007).",
+				"tr":  "A. Romanyuk and P. Oelhafen, Appl. Phys. Lett., 90: 013118 (2007)."
+			},
+			{
+				"doi": "10.1088/0022-3727/45/44/445304",
+				"or":  "U. B. Singh, D. C. Agarwal, S. A. Khan, S. Mohapatra, A. Tripathi, and D. K. Avasthi, J. Phys. D: Appl. Phys., 45: 445304 (2012).",
+				"tr":  "U. B. Singh, D. C. Agarwal, S. A. Khan, S. Mohapatra, A. Tripathi, and D. K. Avasthi, J. Phys. D: Appl. Phys., 45: 445304 (2012)."
+			},
+			{
+				"doi": "10.1063/1.2430055",
+				"or":  "A. Romanyuk and P. Oelhafen, Appl. Phys. Lett., 90: 013118 (2007).",
+				"tr":  "A. Romanyuk and P. Oelhafen, Appl. Phys. Lett., 90: 013118 (2007)."
+			},
+			{
+				"doi": "10.15407/ujpe58.09.0872",
+				"or":  "A. B. Smirnov, O. S. Litvin, V. O. Morozhenko, R. K. Savkina, M. I. Smoliy, R. S. Udovytska, and F. F. Sizov, Ukr. J. Phys., 58, No. 9: 872 (2013).",
+				"tr":  "A. B. Smirnov, O. S. Litvin, V. O. Morozhenko, R. K. Savkina, M. I. Smoliy, R. S. Udovytska, and F. F. Sizov, Ukr. J. Phys., 58, No. 9: 872 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "Ф. Ф. Сизов, P. K. Савкина, А. Б. Смирнов, P. C. Удовицкая, В. П. Кладько, А. Й. Гудименко, H. B. Сафрюк, O. C. Литвин, Физика твёрдого тела, 56, № 11: 2091 (2014).",
+				"tr":  "F. F. Sizov, R. K. Savkina, A. B. Smirnov, R. S. Udovytska, V. P. Kladko, A. J. Gudymenko, N. V. Safryuk, and O. S. Litvin, Fizika Tverdogo Tela, 56, No. 11: 2091 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.1007/s11664-999-0083-1",
+				"or":  "H. Ebe, M. Tanaka, and Y. Miyamoto, J. Electron. Mater., 28: 854 (1999).",
+				"tr":  "H. Ebe, M. Tanaka, and Y. Miyamoto, J. Electron. Mater., 28: 854 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "Engineering Thin Films and Nanostructures with Ion Beams (Ed. É. Knystautas) (Boca Raton–London–New York–Singapore: Taylor & Francis Group, LLC: 2005).",
+				"tr":  "Engineering Thin Films and Nanostructures with Ion Beams (Ed. É. Knystautas) (Boca Raton–London–New York–Singapore: Taylor & Francis Group, LLC: 2005)."
+			},
+			{
+				"doi": "",
+				"or":  "Landolt-Börnstein, Numerical Data and Functional Relationships in Science and Technology (Berlin: Springer-Verlag: 1982), vol. 17, p. 227.",
+				"tr":  "Landolt-Börnstein, Numerical Data and Functional Relationships in Science and Technology (Berlin: Springer-Verlag: 1982), vol. 17, p. 227."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Кривоглаз, Диффузное рассеяние рентгеновских лучей и нейтронов на флуктуационных неоднородностях в неидеальных кристаллах (Киев: Наукова думка: 1984).",
+				"tr":  "M. A. Krivoglaz, Diffuse Scattering of X-Rays and Neutrons by Fluctuation Inhomogeneities in Non-Ideal Crystals (Kiev: Naukova Dumka: 1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Т. Бублик, С. Ю. Мацнев, К. Д. Щербачёв, М. В. Меженный, М. Г. Мальдивийский, В. Я. Резняк, Физика твёрдого тела, 45, № 10: 1832 (2003).",
+				"tr":  "V. T. Bublik, S. Yu. Matsnev, K. D. Shcherbachev, M. V. Mezhennyi, M. G. Mil'vidskii, and V. Ya. Reznik, Fizika Tverdogo Tela, 45, No. 10: 1832 (2003) (in Russian)."
+			}
+		]
+	}
+}

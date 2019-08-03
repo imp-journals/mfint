@@ -1,0 +1,116 @@
+{
+	"_id":    "MFiNT.40.11.1475",
+	"year":   2018,
+	"volume": 40,
+	"issue":  11,
+	"pages":  [1475,1487],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["12.04.2018"],
+	"PACS":   "61.44.Br, 68.35.Fx, 68.35.Np, 68.37.Hk, 81.05.Je, 81.65.Kn, 82.45.Bb",
+	"title":   {
+		"ua": "Вплив Si та B на структуру та корозійні властивості квазикристалічних стопів Al–Cu–Fe у розчинах солей",
+		"en": "Influence of Si and B on Structure and Corrosion Properties of Quasi-Crystalline Al–Cu–Fe Alloys in Solutions of Salts",
+		"ru": "Влияние Si и B на структуру и коррозионные свойства квазикристаллических сплавов Al–Cu–Fe в растворах солей"
+	},
+	"abstract": {
+		"ua": "У роботі досліджено структуру квазикристалічних стопів Al–Cu–Fe, леґованих Силіцієм або/та Бором, із застосуванням метод металографічної, рентґенофлюоресцентної та рентґеноструктурної аналіз. Визначено вплив леґувальних елементів на відносний вміст фаз у структурі. Показано, що найбільший вміст ікосаедричної квазикристалічної $\\psi$-фази досягається у стопі Al$_{55}$Cu$_{25}$Fe$_{12}$Si$_7$В$_1$. Леґування Силіцієм і Бором сприяє зменшенню у структурі стопів вмісту фаз, багатих на Ферум. Корозійні властивості у водних розчинах солей NaCl і Na$_2$SO$_4$ (pH = 7,0) вивчено із залученням ґравіметричної та потенціодинамічної метод. Поверхню стопів після перебування у сольових розчинах досліджено методою електронної сканувальної мікроскопії. Встановлено, що найбільш неґативне значення стаціонарного потенціялу має нелеґований стоп Al$_{63}$Cu$_{25}$Fe$_{12}$. Зі збільшенням вмісту як Силіцію, так і Бору у складі стопів значення стаціонарних потенціялів неперервно зміщуються в бік більш позитивних значень. Показано переважний вплив Силіцію порівняно з Бором на пониження хемічної активности стопів. Визначено, що досліджені стопи кородують у сольових розчинах за електрохемічним механізмом з кисневою деполяризацією. Руйнування стопів відбувається внаслідок вибіркової корозії заліза у складі стопів Al–Cu–Fe. Тому опір корозії стопів підвищується зі зменшенням вмісту у структурі леґованих стопів фаз, багатих на залізо. Позитивний вплив Силіцію та Бору на корозійну стійкість стопів підтверджено дослідженнями поверхні стопів після перебування у сольових розчинах. Встановлено зменшення кількости та розмірів ділянок піттінґового вищавлення, наявних переважно в місцях розташування фаз, багатих на залізо, та міжфазних меж поділу.",
+		"en": "Structure of quasi-crystal Al–Cu–Fe alloys doped with silicon or/and boron is investigated in this work using metallographic, x-ray fluorescent and x-ray analyses. Influence of alloying elements on relative phase content of the structure is determined. The highest amount of icosahedral quasi-crystalline $\\psi$-phase is revealed to be reached in the Al$_{55}$Cu$_{25}$Fe$_{12}$Si$_7$В$_1$ alloy structure. Alloying with silicon and boron favours the decrease in the content of iron-rich phases of the alloys’ structure. Corrosion behaviour in aqueous solutions of NaCl and Na$_2$SO$_4$ (pH = 7.0) is studied by the gravimetric and potentiodynamic methods. The alloys’ surfaces affected by solutions of salts are investigated using scanning electron microscopy. The most negative value of stationary potential is revealed for non-doped Al$_{63}$Cu$_{25}$Fe$_{12}$ alloy. With increasing concentration of both the silicon and the boron in the alloys, the values of stationary potentials steadily shift towards the more positive values. It is shown the prevailing influence of silicon compared to that of boron on the decrease in chemical activity of the alloys. As revealed, the investigated alloys corrode in solutions of salts as provided by electrochemical mechanism with oxygen depolarization. The alloys fail because of selective corrosion of iron within the Al–Cu–Fe alloys. As a result, the corrosion resistance increases with the decrease in the content of iron-rich phases of the doped alloys. The positive influence of silicon and boron on corrosion resistance of the alloys is confirmed by the investigations of the alloys’ surfaces affected by solutions of salts. The quantity and size of the corroded pits appearing mostly near iron-rich phases and phase interfaces are established to decrease.",
+		"ru": "В работе исследована структура квазикристаллических сплавов Al–Cu–Fe, легированных кремнием или/и бором, с использованием методов металлографического, рентгенофлюоресцентного и рентгеноструктурного анализов. Определено влияние легирующих элементов на относительное содержание фаз в структуре. Показано, что наибольшее содержание икосаэдрической квазикристаллической $\\psi$-фазы достигается в сплаве Al$_{55}$Cu$_{25}$Fe$_{12}$Si$_7$В$_1$. Легирование кремнием и бором способствует уменьшению в структуре сплавов содержания фаз, богатых на железо. Коррозионные свойства в водных растворах солей NaCl и Na$_2$SO$_4$ (рН = 7,0) изучены с помощью гравиметрического и потенциодинамического методов. Поверхность сплавов после воздействия солевых растворов исследована методом электронной сканирующей микроскопии. Установлено, что наиболее отрицательное значение стационарного потенциала имеет нелегированный сплав Al$_{63}$Cu$_{25}$Fe$_{12}$. С увеличением концентрации как кремния, так и бора в составе сплавов значения стационарных потенциалов непрерывно смещаются в сторону более положительных значений. Показано преимущественное влияние кремния по сравнению с бором на снижение химической активности сплавов. Определено, что исследованные сплавы коррозируют в солевых растворах по электрохимическому механизму с кислородной деполяризацией. Разрушение сплавов происходит вследствие избирательной коррозии железа в составе сплавов Al–Cu–Fe. Поэтому сопротивление коррозии повышается с уменьшением содержания в структуре легированных сплавов фаз, богатых на железо. Позитивное влияние кремния и бора на коррозионную стойкость сплавов подтверждено исследованиями поверхности сплавов после воздействия солевых растворов. Установлено уменьшение количества и размера участков питтингового вытравливания, присутствующих преимущественно в местах расположения фаз, богатых на железо, и межфазных границ раздела."
+	},
+	"keywords": {
+		"ua": "квазикристалічні стопи, леґувальні елементи, структура, розчини солей, корозійні випробування, стаціонарний потенціял",
+		"en": "quasi-crystalline alloys, alloying elements, structure, salt solutions, corrosion tests, stationary potential",
+		"ru": "квазикристаллические сплавы, легирующие элементы, структура, растворы солей, коррозионные испытания, стационарный потенциал"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. В. Сухова", "en": "О. V. Sukhova", "ru": "Е. В. Суховая"},
+			"OID": [222]
+		},
+		{
+			"AID": {"ua": "В. А. Полонський", "en": "V. А. Polonskyy", "ru": "В. А. Полонский"},
+			"OID": [222]
+		},
+		{
+			"AID": {"ua": "К. В. Устінова", "en": "K. V. Ustinоvа", "ru": "Е. В. Устинова"},
+			"OID": [222]
+		}
+	],
+	"references": {
+		"count": 14,
+		"list":  [
+			{
+				"doi": "10.1016/S0925-8388(03)00445-6",
+				"or":  "E. Huttunen-Saarivirta, J. Alloys Compd., 363, Iss. 1–2: 154 (2004).",
+				"tr":  "E. Huttunen-Saarivirta, J. Alloys Compd., 363, Iss. 1–2: 154 (2004)."
+			},
+			{
+				"doi": "10.1016/j.matchemphys.2004.01.025",
+				"or":  "E. Huttunen-Saarivirta and T. Tiainen, Mater. Chem. Phys., 85, Nos. 2–3: 383 (2004).",
+				"tr":  "E. Huttunen-Saarivirta and T. Tiainen, Mater. Chem. Phys., 85, Nos. 2–3: 383 (2004)."
+			},
+			{
+				"doi": "10.1016/0022-3093(93)91286-C",
+				"or":  "Y. Massiani, S. Ait Yaazza, J. P. Crousier, and J. M. Dubois, J. Non-Cryst. Solids, 159, Nos. 1–2: 92 (1993).",
+				"tr":  "Y. Massiani, S. Ait Yaazza, J. P. Crousier, and J. M. Dubois, J. Non-Cryst. Solids, 159, Nos. 1–2: 92 (1993)."
+			},
+			{
+				"doi": "10.1557/JMR.2004.0366",
+				"or":  "V. Brien, V. Khare, F. Herbst, P. Weisbecker, J.-B. Ledeuil, M. C. de Weerd, F. Machizaud, and J.-M. Dubois, Int. J. Mater. Res., 19, No. 10: 2974 (2004).",
+				"tr":  "V. Brien, V. Khare, F. Herbst, P. Weisbecker, J.-B. Ledeuil, M. C. de Weerd, F. Machizaud, and J.-M. Dubois, Int. J. Mater. Res., 19, No. 10: 2974 (2004)."
+			},
+			{
+				"doi": "10.1080/13642819708205705",
+				"or":  "S. Y. Huang and J. E. Shield, Philos. Mag. B, 75, No. 1: 157 (1997).",
+				"tr":  "S. Y. Huang and J. E. Shield, Philos. Mag. B, 75, No. 1: 157 (1997)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(00)01584-7",
+				"or":  "K. B. Kim, S. H. Kim, W. T. Kim, D.-H. Kim, and K.-T. Hong, Mater. Sci. Eng. A, 304–306, Nos. 1–2: 822 (2001).",
+				"tr":  "K. B. Kim, S. H. Kim, W. T. Kim, D.-H. Kim, and K.-T. Hong, Mater. Sci. Eng. A, 304–306, Nos. 1–2: 822 (2001)."
+			},
+			{
+				"doi": "10.1007/BF00241431",
+				"or":  "D. J. Sordelet, T. A. Bloomer, M. J. Kramer, and O. Unal, J. Mater. Sci. Lett., 15, No. 11: 935 (1996).",
+				"tr":  "D. J. Sordelet, T. A. Bloomer, M. J. Kramer, and O. Unal, J. Mater. Sci. Lett., 15, No. 11: 935 (1996)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.546-549.619",
+				"or":  "J. Zhang, Y. Xue, Y. Guo, C. Xu, and W. Liang, Mater. Sci. Forum, 546–549, No. 1: 619 (2007).",
+				"tr":  "J. Zhang, Y. Xue, Y. Guo, C. Xu, and W. Liang, Mater. Sci. Forum, 546–549, No. 1: 619 (2007)."
+			},
+			{
+				"doi": "10.1080/09500839.2012.669056",
+				"or":  "E. Karakose and M. Keskin, Philos. Mag. Lett., 92, No. 7: 314 (2012).",
+				"tr":  "E. Karakose and M. Keskin, Philos. Mag. Lett., 92, No. 7: 314 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "X. Zhou, P. Li, J. Luo, S. Qian, and J. Tong, Mater. Sci. Technol., 20, No. 6: 709 (2004).",
+				"tr":  "X. Zhou, P. Li, J. Luo, S. Qian, and J. Tong, Mater. Sci. Technol., 20, No. 6: 709 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. В. Устинова, Е. В. Суховая, Вісник Дніпропетровського університету. Ракетно-космічна техніка, 22, № 4: 203 (2014).",
+				"tr":  "E. V. Ustinova and E. V. Sukhovaya, Visnyk Dnipropetrovs'koho Universytetu. Raketno-Kosmichna Tekhnika, 22, No. 4: 203 (2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. В. Суховая, В. Л. Плюта, Е. В. Устинова, Фундаментальные и прикладные проблемы черной металлургии, № 30: 278 (2015).",
+				"tr":  "E. V. Sukhovaya, V. L. Plyuta, and E. V. Ustinova, Fundamental'nye I Prikladnye Problemy Chernoy Metallurgii, No. 30: 278 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. В. Устинова, Е. В. Суховая, Механіка гіроскопічних систем, № 31: 126 (2016).",
+				"tr":  "E. V. Ustinova and E. V. Sukhovaya, Mekhanika Hiroskopichnykh System, No. 31: 126 (2016) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Dmitriyev, A. Koudrin, A. Labunets, and M. Kindrachuk, Aviation, 9, No. 4: 39 (2005).",
+				"tr":  "S. Dmitriyev, A. Koudrin, A. Labunets, and M. Kindrachuk, Aviation, 9, No. 4: 39 (2005)."
+			}
+		]
+	}
+}

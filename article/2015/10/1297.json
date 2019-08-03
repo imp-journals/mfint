@@ -1,0 +1,177 @@
+{
+	"_id":    "MFiNT.37.10.1297",
+	"year":   2015,
+	"volume": 37,
+	"issue":  10,
+	"pages":  [1297,1311],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["06.05.2015","08.09.2015"],
+	"PACS":   "05.70.Np, 61.72.Bb, 61.72.Cc, 61.72.jd, 61.72.Mm, 66.30.Dn, 66.30.Ny",
+	"title":  {
+			"ua": "Вплив джерел та стоків вакансій на кінетику реакційної дифузії в бінарній системі",
+			"en": "Influence of Vacancy Sources and Sinks on the Kinetics of the Reaction Diffusion in a Binary System",
+			"ru": "Влияние источников и стоков вакансий на кинетику реакционной диффузии в бинарной системе"
+		},
+	"abstract": {
+		"ua": "У роботі представлено новий модель реакційної дифузії для бінарної системи за наявности в ній нерівноважного розподілу вакансій. Розглянуто та проаналізовано вплив джерел/стоків вакансій на кінетику реакційної дифузії. Показано, що зростання товщини фази відбувається з більшою швидкістю в тому випадку, коли джерела і стоки вакансій діють не тільки на міжфазних межах, але і в об’ємі фази, що росте. Врахування нерівноважних вакансій при моделюванні реакційної дифузії особливо важливе для систем, компоненти яких мають значну відмінність дифузійних рухливостей.",
+		"en": "The paper presents a new model of the reaction diffusion in a binary system with nonequilibrium distribution of vacancies. The influence of sources/sinks of vacancies on the kinetics of the reaction diffusion is considered and analysed. Growth rate of a phase-layer thickness is larger in the case when sources and sinks of vacancies act not only on interfaces, but in the bulk of growing phase too. Account of nonequilibrium vacancies at modelling of the reaction diffusion is especially important for systems with significant difference between the diffusion mobilities of the components.",
+		"ru": "В работе представлена новая модель реакционной диффузии для бинарной системы при наличии в ней неравновесного распределения вакансий. Рассмотрено и проанализировано влияние источников/стоков вакансий на кинетику реакционной диффузии. Показано, что рост толщины фазы происходит с большей скоростью в том случае, когда источники и стоки вакансий действуют не только на межфазных границах, но и в объёме растущей фазы. Учёт неравновесных вакансий при моделировании реакционной диффузии особенно важен для систем, компоненты которых имеют значительное различие диффузионных подвижностей."
+	},
+	"keywords": {
+		"ua": "бінарна система, реакційна дифузія, нерівноважні вакансії, джерела/стоки вакансій, кінетика",
+		"en": "binary system, reaction diffusion, nonequilibrium vacancies, sources/sinks of vacancies, kinetics",
+		"ru": "бинарная система, реакционная диффузия, неравновесные вакансии, источники/стоки вакансий, кинетика"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. В. Корнієнко", "en": "S. V. Kornienko", "ru": "С. В. Корниенко"},
+			"OID": [214]
+		},
+		{
+			"AID": {"ua": "А.М. Гусак", "en": "A. M. Gusak", "ru": "А. М. Гусак"},
+			"OID": [214]
+		}
+	],
+	"references": {
+		"count": 27,
+		"list":  [
+			{
+				"doi": "10.1126/science.1096566",
+				"or":  "Y. Yin, R. M. Rioux, C. K. Erdonmez, S. Hughes, G. A. Somorjai, and A. P. Alivisatos, Science, 304, No. 5671: 711 (2014).",
+				"tr":  "Y. Yin, R. M. Rioux, C. K. Erdonmez, S. Hughes, G. A. Somorjai, and A. P. Alivisatos, Science, 304, No. 5671: 711 (2014)."
+			},
+			{
+				"doi": "10.1002/adfm.200600256",
+				"or":  "Y. Yin, C. K. Erdonmez, A. Cabot, S. Hughes, and A. P. Alivisatos, Adv. Func. Matt., 16: 1389 (2006).",
+				"tr":  "Y. Yin, C. K. Erdonmez, A. Cabot, S. Hughes, and A. P. Alivisatos, Adv. Func. Matt., 16: 1389 (2006)."
+			},
+			{
+				"doi": "10.1063/1.2711383",
+				"or":  "R. Nakamura, D. Tokozakura, H. Nakajima, J.-G. Lee, and H. Mori, J. Appl. Phys., 101: 074303 (2007).",
+				"tr":  "R. Nakamura, D. Tokozakura, H. Nakajima, J.-G. Lee, and H. Mori, J. Appl. Phys., 101: 074303 (2007)."
+			},
+			{
+				"doi": "10.1080/14786430701819203",
+				"or":  "R. Nakamura, J. G. Lee, H. Mori, and H. Nakajima, Philos. Mag., 88: 257 (2008).",
+				"tr":  "R. Nakamura, J. G. Lee, H. Mori, and H. Nakajima, Philos. Mag., 88: 257 (2008)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/JNanoR.7.1",
+				"or":  "H. Nakajima and R. Nakamura, J. Nano Research, 7: 1 (2009).",
+				"tr":  "H. Nakajima and R. Nakamura, J. Nano Research, 7: 1 (2009)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2009.02.021",
+				"or":  "G. Schmitz, C. B. Ene, and C. Nowak, Acta Materialia, 57: 2673 (2009).",
+				"tr":  "G. Schmitz, C. B. Ene, and C. Nowak, Acta Materialia, 57: 2673 (2009)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2011.12.006",
+				"or":  "Z. Erdelyi and G. Schmitz, Acta Materialia, 60, No. 4: 1807 (2012).",
+				"tr":  "Z. Erdelyi and G. Schmitz, Acta Materialia, 60, No. 4: 1807 (2012)."
+			},
+			{
+				"doi": "10.1016/0079-6786(90)90007-3",
+				"or":  "F. J. J. Van Loo, Prog. Solid State Chem., 20: 47 (1990).",
+				"tr":  "F. J. J. Van Loo, Prog. Solid State Chem., 20: 47 (1990)."
+			},
+			{
+				"doi": "10.1063/1.1839637",
+				"or":  "K. Zeng, R. Stierman, T.-C. Chui, D. Edwards, K. Ano, and K. N. Tu, J. Applied Physics, 97, No. 2: 24508 (2005).",
+				"tr":  "K. Zeng, R. Stierman, T.-C. Chui, D. Edwards, K. Ano, and K. N. Tu, J. Applied Physics, 97, No. 2: 24508 (2005)."
+			},
+			{
+				"doi": "10.1007/s10853-007-1700-0",
+				"or":  "K. Mikami and M. Kajihara, J. Mater. Sci., 42: 8179 (2007).",
+				"tr":  "K. Mikami and M. Kajihara, J. Mater. Sci., 42: 8179 (2007)."
+			},
+			{
+				"doi": "10.1007/s11664-008-0400-0",
+				"or":  "X. Luhua, H. L. John, P. Che, and F. Che, J. Electron. Mater., 37, No. 6: 880 (2008).",
+				"tr":  "X. Luhua, H. L. John, P. Che, and F. Che, J. Electron. Mater., 37, No. 6: 880 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "К. П. Гуров, А. М. Гусак, Физ. мет. металловед., 53, № 5: 842 (1982).",
+				"tr":  "K. P. Gurov and A. M. Gusak, Fiz. Met. Metalloved., 53, No. 5: 842 (1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. П. Гуров, А. М. Гусак, Физ. мет. металловед., 59, № 6: 1062 (1985).",
+				"tr":  "K. P. Gurov and A. M. Gusak, Fiz. Met. Metalloved., 59, No. 6: 1062 (1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Гусак, Металлофизика, 14, № 9: 3 (1992).",
+				"tr":  "A. M. Gusak, Metallofizika, 14, No. 9: 3 (1992) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0254-0584(02)00232-8",
+				"or":  "G. A. López, S. Sommadossi, P. Zieba, W. Gust, and E. J. Mittemeijer, Mater. Chem. Phys., 78, No. 2: 459 (2003).",
+				"tr":  "G. A. López, S. Sommadossi, P. Zieba, W. Gust, and E. J. Mittemeijer, Mater. Chem. Phys., 78, No. 2: 459 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Xiao Ren, Guoqing Chen, Wenlong Zhou, Chengwei Wu, and Junshan Zhang, J. Wuhan University of Technology-Mater. Sci. Ed., 24, No. 5: 787 (2009).",
+				"tr":  "Xiao Ren, Guoqing Chen, Wenlong Zhou, Chengwei Wu, and Junshan Zhang, J. Wuhan University of Technology-Mater. Sci. Ed., 24, No. 5: 787 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Гусак, С. В. Корнієнко, Вісник Черкаського університету. Серія: фізико-математичні науки, № 114: 11 (2007).",
+				"tr":  "A. M. Gusak and S. V. Kornienko, Visnyk Cherkas'kogo Universytetu Seriya: Fizyko-Matematychni Nauky, No. 114: 11 (2007) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1080/14786430802673350",
+				"or":  "S. V. Kornienko and A. M. Gusak, Philos. Mag., 89: 525 (2009).",
+				"tr":  "S. V. Kornienko and A. M. Gusak, Philos. Mag., 89: 525 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Корнієнко, Вісник Черкаського університету. Серія: фізико-математичні науки, № 171: 85 (2009).",
+				"tr":  "S. V. Kornienko, Visnyk Cherkas'kogo Universytetu. Seriya: Fizyko-Matematychni Nauky, No. 171: 85 (2009) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Корнієнко, Вісник Черкаського університету. Серія: фізико-математичні науки, № 185: 39 (2010).",
+				"tr":  "S. V. Kornienko, Visnyk Cherkas'kogo Universytetu. Seriya: Fizyko-Matematychni Nauky, No. 185: 39 (2010) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Назаров, К. П. Гуров, Физ. мет. металловед., 37, № 3: 496 (1974).",
+				"tr":  "A. V. Nazarov and K. P. Gurov, Fiz. Met. Metalloved., 37, No. 3: 496 (1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Назаров, К. П. Гуров, Физ. мет. металловед., 38, № 3: 486 (1974).",
+				"tr":  "A. V. Nazarov and K. P. Gurov, Fiz. Met. Metalloved., 38, No. 3: 486 (1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Назаров, К. П. Гуров, Физ. мет. металловед., 38, № 4: 689 (1974).",
+				"tr":  "A. V. Nazarov and K. P. Gurov, Fiz. Met. Metalloved., 38, No. 4: 689 (1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. Е. Гегузин, Диффузионная зона (Москва: Наука: 1979).",
+				"tr":  "Ya. E. Geguzin, Diffuzionnaya Zona [The Diffusion Zone] (Moscow: Nauka: 1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Иванов, В. И. Глущенко, А. П. Абрамова, С. А. Афанасьев, Д. И. Семенцов, И. Г. Кулеев, Г. П. Грабовецкая, Физ. мет. металловед., 91, № 5: 5 (2001).",
+				"tr":  "M. A. Ivanov, V. I. Glushchenko, A. P. Abramova, S. A. Afanas'ev, D. I. Sementsov, I. G. Kuleev, and G. P. Grabovetskaya, Fiz. Met. Metalloved., 91, No. 5: 5 (2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Иванов, В. И. Глущенко, Физ. мет. металловед., 110, № 5: 435 (2010).",
+				"tr":  "M. A. Ivanov and V. I. Glushchenko, Fiz. Met. Metalloved., 110, No. 5: 435 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Gusak, T. V. Zaporozhets, Y. O. Lyashenko, S. V. Kornienko, M. O. Pasichnyy, and A. S. Shirinyan, Diffusion-Controlled Solid State Reactions: in Alloys, Thin Films and Nanosystems (New York: John Wiley & Sons: 2011).",
+				"tr":  "A. M. Gusak, T. V. Zaporozhets, Y. O. Lyashenko, S. V. Kornienko, M. O. Pasichnyy, and A. S. Shirinyan, Diffusion-Controlled Solid State Reactions: in Alloys, Thin Films and Nanosystems (New York: John Wiley & Sons: 2011)."
+			}
+		]
+	}
+}

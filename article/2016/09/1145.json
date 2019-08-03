@@ -1,0 +1,302 @@
+{
+	"_id":    "MFiNT.38.09.1145",
+	"year":   2016,
+	"volume": 38,
+	"issue":  9,
+	"pages":  [1145,1166],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["11.03.2016","10.08.2016"],
+	"PACS":   "62.20.Qp, 68.35.Gy, 68.55.J-, 68.55.Nq, 68.60.Bs, 81.05.Je, 81.15.Cd, 81.65.Lp",
+	"title":   {
+		"ua": "Структурні особливості формовних покриттів і плівок тяжкотопких сполук",
+		"en": "Structural Features of Formed Coatings and Films of Refractory Compounds",
+		"ru": "Структурные особенности формируемых покрытий и плёнок тугоплавких соединений"
+	},
+	"abstract": {
+		"ua": "Проведено порівняльну аналізу структури та властивостей покриттів на основі тяжкотопких сполук, залежно від умов осадження (температури і потенціялу підложжя, парціяльного тиску робочого газу). Виявлено загальні закономірності для твердих і надтвердих наноструктурних (нанокомпозитних) покриттів, що полягають у наявності стовпчастої структури та текстури росту. Показано, що для карбідних і нітридних покриттів перехідних металів має місце два можливих напрямки росту <111> та <100>, для диборидів перехідних металів таким є <0001>. Проведено аналізу впливу структурного стану на зміну фізико-механічних характеристик нанокристалічних покриттів на основі нітридів, боридів і карбідів перехідних металів.",
+		"en": "A comparative analysis of the microstructure and properties of coatings based on refractory compounds is performed depending on the deposition conditions (temperature and substrate potential, partial pressure of working gas). A general regularities consisting in the presence of the columnar structure and the growth texture are revealed for hard and superhard nanostructured (nanocomposite) coatings. As shown, there are two possible directions of growth <111> and <100> for transition metals’ carbide and nitride coatings; for transition metals’ diboride coatings such a direction is <0001>. The effect of the structural state on the changes in the physical and mechanical properties of nanocrystalline coatings based on nitrides, carbides and borides of transition metals is analysed.",
+		"ru": "Проведён сравнительный анализ структуры и свойств покрытий на основе тугоплавких соединений в зависимости от условий осаждения (температуры и потенциала подложки, парциального давления рабочего газа). Выявлены общие закономерности для твёрдых и сверхтвёрдых наноструктурных (нанокомпозитных) покрытий, состоящие в наличии столбчатой структуры и текстуры роста. Показано, что для карбидных и нитридных покрытий переходных металлов имеют место два возможных направления роста <111> и <100>, для диборидов переходных металлов таковым является <0001>. Проведён анализ влияния структурного состояния на изменение физико-механических характеристик нанокристаллических покрытий на основе нитридов, боридов и карбидов переходных металлов."
+	},
+	"keywords": {
+		"ua": "тяжкотопкі сполуки, структура, твердість, потенціял підложжя, парціяльний тиск",
+		"en": "refractory compounds, structure, hardness, substrate potential, partial pressure",
+		"ru": "тугоплавкие соединения, структура, твёрдость, потенциал подложки, парциальное давление"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. Д. Погребняк", "en": "O. D. Pogrebnjak", "ru": "А. Д. Погребняк"},
+			"OID": [208]
+		},
+		{
+			"AID": {"ua": "О. О. Гончаров", "en": "O. O. Goncharov", "ru": "А. А. Гончаров"},
+			"OID": [208]
+		}
+	],
+	"references": {
+		"count": 52,
+		"list":  [
+			{
+				"doi": "10.3367/UFNe.0179.200901b.0035",
+				"or":  "А. Д. Погребняк, А. П. Шпак, Н. А. Азаренков, В. М. Береснев, Успехи физических наук, № 1: 35 (2009).",
+				"tr":  "A. D. Pogrebnjak, A. P. Shpak, N. A. Azarenkov, and V. M. Beresnev, Physics-Uspekhi, 52: 29 (2009)."
+			},
+			{
+				"doi": "10.1023/A:1004790917616",
+				"or":  "R. A. Andrievski, G. V. Kalinnikov, J. Jauberteau, and J. Bates, J. Mater. Sci., 35: 2799 (2000).",
+				"tr":  "R. A. Andrievski, G. V. Kalinnikov, J. Jauberteau, and J. Bates, J. Mater. Sci., 35: 2799 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. А. Андриевский, П. И. Спивак, Прочность тугоплавких соединений и материалов на их основе: Справочник (Челябинск: Металлургия: 1989).",
+				"tr":  "R. A. Andrievskiy and P. I. Spivak, Prochnost' Tugoplavkikh Soedineniy i Materialov na Ikh Osnove: Spravochnik [The Strength of Refractory Compounds and Materials on Their Basis: Handbook] (Chelyabinsk: Metallurgiya: 1989) (in Russian)."
+			},
+			{
+				"doi": "10.1134/S0031918X11020074",
+				"or":  "A. A. Goncharov, Phys. Met. Metallogr., 111, No. 3: 314 (2011).",
+				"tr":  "A. A. Goncharov, Phys. Met. Metallogr., 111, No. 3: 314 (2011)."
+			},
+			{
+				"doi": "10.1070/RCR4407",
+				"or":  "А. Д. Погребняк, А. А. Багдасарян, И. В. Якущенко, В. М. Береснев, Успехи химии, 83, № 11: 1027 (2014).",
+				"tr":  "A. D. Pogrebnjak, A. A. Bagdasaryan, I. V. Yakushchenko, and V. M. Beresnev, Rus. Chem. Rev., 83, Iss. 11: 1027 (2014)."
+			},
+			{
+				"doi": "10.1557/JMR.1995.0634",
+				"or":  "U. C. Oh, J. H. Je, and J. Y. Lee, J. Mater. Res., 10, No. 3: 634 (1995).",
+				"tr":  "U. C. Oh, J. H. Je, and J. Y. Lee, J. Mater. Res., 10, No. 3: 634 (1995)."
+			},
+			{
+				"doi": "10.1007/BF00422660",
+				"or":  "H. H. Yang, J. H. Je, and K.-B. Lee, J. Mater. Sci. Lett., No. 14: 1635 (1995).",
+				"tr":  "H. H. Yang, J. H. Je, and K.-B. Lee, J. Mater. Sci. Lett., No. 14: 1635 (1995)."
+			},
+			{
+				"doi": "10.1016/S0040-6090(98)01741-6",
+				"or":  "M. Leoni, P. Scandi, S. Rossi, L. Fedrizzi, and Y. Massiani, Thin Solid Films, 345: 263 (1999).",
+				"tr":  "M. Leoni, P. Scandi, S. Rossi, L. Fedrizzi, and Y. Massiani, Thin Solid Films, 345: 263 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Кунченко, А. А. Андреев, Ю. В. Кунченко, Г. Н. Картмазов, Вопросы атомной науки и техники, № 3: 87 (2004).",
+				"tr":  "V. V. Kunchenko, A. A. Andreev, Yu. V. Kunchenko, and G. N. Kartmazov, Voprosy Atomnoy Nauki i Tekhniki, No. 3: 87 (2004) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0925-8388(94)05012-0",
+				"or":  "V. Valdova, J. Alloys Compd., 219, Nos. 1–2: 83 (1995).",
+				"tr":  "V. Valdova, J. Alloys Compd., 219, Nos. 1–2: 83 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Musil, P. Banoch, and P. Zeman, Plasma Surface Engineering and Its Practical Applications (USA: Research Signpost Publisher: 2007).",
+				"tr":  "J. Musil, P. Banoch, and P. Zeman, Plasma Surface Engineering and Its Practical Applications (USA: Research Signpost Publisher: 2007)."
+			},
+			{
+				"doi": "10.1155/2008/267161",
+				"or":  "E. Penilla and J. Wang, J. Nanomater., 2008: 267161 (2008).",
+				"tr":  "E. Penilla and J. Wang, J. Nanomater., 2008: 267161 (2008)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2007.08.029",
+				"or":  "G. Abadias, Surf. Coat. Technol., 202: 2223 (2008).",
+				"tr":  "G. Abadias, Surf. Coat. Technol., 202: 2223 (2008)."
+			},
+			{
+				"doi": "10.1063/1.1811389",
+				"or":  "P. Patsalas, C. Gravalidis, and S. Logothetidis, J. Appl. Phys., 96: 6234 (2004).",
+				"tr":  "P. Patsalas, C. Gravalidis, and S. Logothetidis, J. Appl. Phys., 96: 6234 (2004)."
+			},
+			{
+				"doi": "10.1063/1.1567797",
+				"or":  "D. Gall, S. Kodambaka, M. A. Wall, I. Petrov, and J. E. Greene, J. Appl. Phys., 93: 9086 (2003).",
+				"tr":  "D. Gall, S. Kodambaka, M. A. Wall, I. Petrov, and J. E. Greene, J. Appl. Phys., 93: 9086 (2003)."
+			},
+			{
+				"doi": "10.1063/1.359720",
+				"or":  "L. Hultman, J. E. Sundgren, J. E. Greene, D. B. Bergstrom, and I. Petrov, J. Appl. Phys., 78: 5395 (1995).",
+				"tr":  "L. Hultman, J. E. Sundgren, J. E. Greene, D. B. Bergstrom, and I. Petrov, J. Appl. Phys., 78: 5395 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Panich, S. Wangyao, and P. Hannongbua, Rev. Adv. Mater. Sci., No. 13: 117 (2006).",
+				"tr":  "P. Panich, S. Wangyao, and P. Hannongbua, Rev. Adv. Mater. Sci., No. 13: 117 (2006)."
+			},
+			{
+				"doi": "10.1016/0040-6090(85)90333-5",
+				"or":  "J.-E. Surdgren, Thin Solid Films, 128: 21 (1985).",
+				"tr":  "J.-E. Surdgren, Thin Solid Films, 128: 21 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Козьма, С. В. Малыхин, О. В. Соболь, Физ. мет. металловед., 87, № 3: 30 (1999).",
+				"tr":  "A. A. Koz'ma, S. V. Malykhin, and O. V. Sobol', Fiz. Met. Metalloved., 87, No. 3: 30 (1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Braic, M. Braic, G. Balaceanu, A. Pavelescu, and A. Vladescu, Rom. Rep. Phys., 55, No. 3: 275 (2003).",
+				"tr":  "V. Braic, M. Braic, G. Balaceanu, A. Pavelescu, and A. Vladescu, Rom. Rep. Phys., 55, No. 3: 275 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "R. S. Rawat, P. Lee, T. White, and S. Lee, 27th European Physical Society Conference on Controlled Fusion and Plasma (Budapest: 2000), vol. 24B, p. 484.",
+				"tr":  "R. S. Rawat, P. Lee, T. White, and S. Lee, 27th European Physical Society Conference on Controlled Fusion and Plasma (Budapest: 2000), vol. 24B, p. 484."
+			},
+			{
+				"doi": "",
+				"or":  "O. Wilhelmsson, ACTA Universitatis Upsaliensis (Digital Comprehensive Summaries of Uppsala Dissertations from the Faculty of Science and Technology 353) (Uppsala: 2007).",
+				"tr":  "O. Wilhelmsson, ACTA Universitatis Upsaliensis (Digital Comprehensive Summaries of Uppsala Dissertations from the Faculty of Science and Technology 353) (Uppsala: 2007)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2004.08.148",
+				"or":  "Z. G. Li, M. Mori, S. Miyake, M. Kumagai, H. Saito, and Y. Muramatesu, Surf. Coat. Technol., 193: 345 (2005).",
+				"tr":  "Z. G. Li, M. Mori, S. Miyake, M. Kumagai, H. Saito, and Y. Muramatesu, Surf. Coat. Technol., 193: 345 (2005)."
+			},
+			{
+				"doi": "10.1116/1.1710499",
+				"or":  "H. Zeman, J. Musil, and P. Zeman, J. Vac. Sci. Technol. A, 22, No. 3: 646 (2004).",
+				"tr":  "H. Zeman, J. Musil, and P. Zeman, J. Vac. Sci. Technol. A, 22, No. 3: 646 (2004)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2005.11.042",
+				"or":  "J. Suna, J. Musil, V. Ondok, and J. H. Han, Surf. Coat. Technol., 200, Iss. 22–23: 6293 (2006).",
+				"tr":  "J. Suna, J. Musil, V. Ondok, and J. H. Han, Surf. Coat. Technol., 200, Iss. 22–23: 6293 (2006)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(03)00710-2",
+				"or":  "M. Nose, Y. Deguchi, T. Mae, E. Honbo, T. Nagae, and K. Nogi, Surf. Coat. Technol., 174–175: 261 (2003).",
+				"tr":  "M. Nose, Y. Deguchi, T. Mae, E. Honbo, T. Nagae, and K. Nogi, Surf. Coat. Technol., 174–175: 261 (2003)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2003.09.043",
+				"or":  "X. D. Zhang, W. J. Meng, W. Wang, L. E. Rehn, P. M. Baldo, and R. D. Evans, Surf. Sci. Technol., 177–178: 325 (2004).",
+				"tr":  "X. D. Zhang, W. J. Meng, W. Wang, L. E. Rehn, P. M. Baldo, and R. D. Evans, Surf. Sci. Technol., 177–178: 325 (2004)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2004.12.004",
+				"or":  "J. Musil, R. Daniel, J. Soldan, and P. Zeman, Surf. Coat. Technol., 200, Iss. 12–13: 3886 (2006).",
+				"tr":  "J. Musil, R. Daniel, J. Soldan, and P. Zeman, Surf. Coat. Technol., 200, Iss. 12–13: 3886 (2006)."
+			},
+			{
+				"doi": "10.1134/S0031918X11020268",
+				"or":  "O. V. Sobol, A. D. Pogrebnyak, and V. M. Beresnev, Phys. Met. Metallogr., 112, No. 2: 188 (2011).",
+				"tr":  "O. V. Sobol, A. D. Pogrebnyak, and V. M. Beresnev, Phys. Met. Metallogr., 112, No. 2: 188 (2011)."
+			},
+			{
+				"doi": "10.1134/S1063784214010149",
+				"or":  "А. Д. Погребняк, М. В. Каверин, В. М. Береснев, Журнал технической физики, 84, № 1: 86 (2014).",
+				"tr":  "A. D. Pogrebnjak, M. V. Kaverin, and V. M. Beresnev, Tech. Phys., 59, Iss. 1: 85 (2014)."
+			},
+			{
+				"doi": "10.3103/S1068366614010073",
+				"or":  "A. D. Pogrebnjak, A. Pshyk, V. M. Beresnev, and B. R. Zhollybekov, J. Frict. Wear, 35, No. 1: 55 (2014).",
+				"tr":  "A. D. Pogrebnjak, A. Pshyk, V. M. Beresnev, and B. R. Zhollybekov, J. Frict. Wear, 35, No. 1: 55 (2014)."
+			},
+			{
+				"doi": "10.1088/1468-6996/15/2/025007",
+				"or":  "V. Ivashchenko, S. Veprek, A. D. Pogrebnjak, and B. Postolnyi, Sci. Technol. Adv. Mater., 15, No. 2: 025007 (2014).",
+				"tr":  "V. Ivashchenko, S. Veprek, A. D. Pogrebnjak, and B. Postolnyi, Sci. Technol. Adv. Mater., 15, No. 2: 025007 (2014)."
+			},
+			{
+				"doi": "10.1016/j.matchemphys.2014.06.062",
+				"or":  "A. D. Pogrebnjak, I. V. Yakushchenko, A. A. Bagdasaryana, O. V. Bondar, R. Krause-Rehberg, G. Abadias, P. Chartier, K. Oyoshi, Y. Takeda, V. M. Beresnev, and O. V. Sobol, Mater. Chem. Phys., 147, No. 3: 1079 (2014).",
+				"tr":  "A. D. Pogrebnjak, I. V. Yakushchenko, A. A. Bagdasaryana, O. V. Bondar, R. Krause-Rehberg, G. Abadias, P. Chartier, K. Oyoshi, Y. Takeda, V. M. Beresnev, and O. V. Sobol, Mater. Chem. Phys., 147, No. 3: 1079 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Гончаров, Г. К. Волкова, В. А. Коновалов, В. В. Петухов, Металлофиз. новейшие технол., 28, № 12: 1621 (2006).",
+				"tr":  "O. A. Goncharov, G. K. Volkova, V. A. Konovalov, and V. V. Petukhov, Metallofiz. Noveishie Tekhnol., 28, No. 12: 1621 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Гончаров, В. А. Коновалов, В. А. Ступак, Письма в ЖТФ, 33, № 5: 12 (2007).",
+				"tr":  "A. A. Goncharov, V. A. Konovalov, and V. A. Stupak, Pis'ma v ZhTF, 33, No. 5: 12 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Гончаров, В. В. Петухов, Д. Н. Терпий, П. И. Игнатенко, В. А. Ступак, Неорганические материалы, 41, № 7: 799 (2005).",
+				"tr":  "A. A. Goncharov, V. V. Petukhov, D. N. Terpiy, P. I. Ignatenko, and V. A. Stupak, Neorganicheskie Materialy, 41, No. 7: 799 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Гончаров, В. В. Петухов, Д. С. Чайка, Физ. мет. металловед., 100, № 3: 26 (2005).",
+				"tr":  "A. A. Goncharov, V. V. Petukhov, and D. S. Chayka, Fiz. Met. Metalloved., 100, No. 3: 26 (2005) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(98)00568-4",
+				"or":  "K. L. Dahm, L. R. Jordan, J. Haase, and P. A. Dearnley, Surf. Coat. Tech., 108–109: 413 (1998).",
+				"tr":  "K. L. Dahm, L. R. Jordan, J. Haase, and P. A. Dearnley, Surf. Coat. Tech., 108–109: 413 (1998)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(97)00397-6",
+				"or":  "E. Kelesoglu and C. Mitterer, Surf. Coat. Technol., 98: 1483 (1998).",
+				"tr":  "E. Kelesoglu and C. Mitterer, Surf. Coat. Technol., 98: 1483 (1998)."
+			},
+			{
+				"doi": "10.1134/S1063783408010307",
+				"or":  "A. A. Goncharov, Phys. Solid State, 50, No. 1: 168 (2008).",
+				"tr":  "A. A. Goncharov, Phys. Solid State, 50, No. 1: 168 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. В. Штанский, С. А. Кулинич, Е. А. Левашов, J. J. Moore, Физика твёрдого тела, 45, № 6: 1122 (2003).",
+				"tr":  "D. V. Shtanskiy, S. A. Kulinich, E. A. Levashov, and J. J. Moore, Fizika Tverdogo Tela, 45, No. 6: 1122 (2003) (in Russian)."
+			},
+			{
+				"doi": "10.1116/1.573700",
+				"or":  "H. Holleck, J. Vac. Sci. Technol. A, 4, No. 6: 2661 (1986).",
+				"tr":  "H. Holleck, J. Vac. Sci. Technol. A, 4, No. 6: 2661 (1986)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(03)00425-0",
+				"or":  "F. Kunc, J. Musil, P. H. Mayrhofer, and C. Mitterer, Surf. Coat. Technol., 175: 744 (2003).",
+				"tr":  "F. Kunc, J. Musil, P. H. Mayrhofer, and C. Mitterer, Surf. Coat. Technol., 175: 744 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. А. Андриевский, Г. В. Калинников, Н. П. Коблев, Я. М. Сойфер, Д. В. Штанский, Физика твёрдого тела, 39, № 10: 1859 (1997).",
+				"tr":  "R. A. Andrievskiy, G. V. Kalinnikov, N. P. Koblev, Ya. M. Soyfer, and D. V. Shtanskiy, Fizika Tverdogo Tela, 39, No. 10: 1859 (1997) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. А. Андриевский, Г. В. Калинников, Д. В. Штанский, Физика твёрдого тела, 42, № 4: 741 (2000).",
+				"tr":  "R. A. Andrievskiy, G. V. Kalinnikov, and D. V. Shtanskiy, Fizika Tverdogo Tela, 42, No. 4: 741 (2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Самсонов, И. М. Виницкий, Тугоплавкие соединения: Справочник (Москва: Металлургия: 1976).",
+				"tr":  "G. V. Samsonov and I. M. Vinitskiy, Tugoplavkie Soedineniya: Spravochnik [Refractory Compounds: Handbook] (Moscow: Metallurgiya: 1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. В. Штанский Ф. В. Кирюханцев-Корнеев, А. Н. Шевейко, И. А. Башкова, О. В. Малочкин, Е. А. Левашов, Н. Б. Дьяконова, И. В. Лясоцкий, Физика твёрдого тела, 47: 242 (2005).",
+				"tr":  "D. V. Shtanskiy F. V. Kiryukhantsev-Korneev, A. N. Sheveyko, I. A. Bashkova, O. V. Malochkin, E. A. Levashov, N. B. D'yakonova, and I. V. Lyasotskiy, Fizika Tverdogo Tela, 47: 242 (2005) (in Russian)."
+			},
+			{
+				"doi": "10.1134/S0031918X0804008X",
+				"or":  "A. A. Goncharov, V. V. Petukhov, S. N. Dub, and V. A. Konovalov, Phys. Metals Metallogr., 105, Iss. 4: 362 (2008).",
+				"tr":  "A. A. Goncharov, V. V. Petukhov, S. N. Dub, and V. A. Konovalov, Phys. Metals Metallogr., 105, Iss. 4: 362 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "О. В. Соболь, С. Н. Дуб, О. Н. Григорьев, А. Н. Стеценко, А. А. Подтележников, Сверхтвёрдые материалы, № 5: 38 (2005).",
+				"tr":  "O. V. Sobol', S. N. Dub, O. N. Grigor'ev, A. N. Stetsenko, and A. A. Podtelezhnikov, Sverkhtverdye Materialy, No. 5: 38 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. В. Соболь, Физика твёрдого тела, 49, № 6: 1104 (2007).",
+				"tr":  "O. V. Sobol', Fizika Tverdogo Tela, 49, No. 6: 1104 (2007) (in Russian)."
+			},
+			{
+				"doi": "10.3103/S1063457615060076",
+				"or":  "A. A. Goncharov, S. N. Dub, A. V. Agulov, and V. V. Petukhov, J. Superhard Mater., 37, No. 6: 422 (2015).",
+				"tr":  "A. A. Goncharov, S. N. Dub, A. V. Agulov, and V. V. Petukhov, J. Superhard Mater., 37, No. 6: 422 (2015)."
+			},
+			{
+				"doi": "10.1134/S0031918X16060028",
+				"or":  "A. I. Bazhin, A. A. Goncharov, A. D. Pogrebnyak, V. A. Stupak, and S. A. Goncharova, Phys. Metals Metallogr., 117, Iss. 6: 594 (2016).",
+				"tr":  "A. I. Bazhin, A. A. Goncharov, A. D. Pogrebnyak, V. A. Stupak, and S. A. Goncharova, Phys. Metals Metallogr., 117, Iss. 6: 594 (2016)."
+			}
+		]
+	}
+}

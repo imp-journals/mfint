@@ -1,0 +1,82 @@
+{
+	"_id":    "MFiNT.36.06.0757",
+	"year":   2014,
+	"volume": 36,
+	"issue":  6,
+	"pages":  [757,766],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["21.11.2013"],
+	"PACS":   "52.77.Dq, 68.55.Nq, 68.35.Ct, 68.55.Ln, 81.15.Jj, 81.40.Pq",
+	"title":   {
+		"ua": "Формування нанорозмірного покриття на сталі 12Х18Н10Т за йонної імплантації",
+		"en": "The Formation of Nanoscale Coating on the 12Cr18Ni10Ti Steel During Ion Implantation",
+		"ru": "Формирование наноразмерного покрытия на стали 12Х18Н10Т при ионной имплантации"
+	},
+	"abstract": {
+		"ua": "Виконано дослідження композитів Al/НС, Ni/НС, Тi/НС і Ni/Al/HC, одержаних методом низькотемпературної йонної імплантації неіржавійної сталі (НС). Синтезовані композити вивчено методами традиційного рентґеноструктурного аналізу, рентґеноструктурного аналізу тонких плівок, Рентґенової фотоелектронної спектроскопії, оптичної мікроскопії, сканівної електронної мікроскопії (СЕМ), атомної силової мікроскопії (АСМ) та склерометричного аналізу. Показано, що структури, утворені на поверхні зразків, рентґеноаморфні. Встановлено формування нанорозмірного шару імплантату (покриття) на поверхні носія – неіржавійної сталі. Показано, що при оксидуванні дане покриття збільшує свою товщину. Мікрогеометрія поверхні одержаних зразків залежить від застосовуваних металів-мішеней і подальшого оброблення (повторна імплантація або оксидування). Даний факт підтверджується і оптичною мікроскопією, і результатами СЕМ, АСМ. За допомогою Рентґенової фотоелектронної спектроскопії встановлено, що імплантовані метали входять до складу покриття у вигляді оксидів, нітридів і оксинітридів. При цьому внаслідок оксидування відбувається емісія азоту із зразків і зростання плівки внаслідок концентрування оксидних структур. Вивчення механічної міцності зразків за допомогою дряпання індентором поверхні показало, що імплантація йонів металів уможливлює збільшувати опір покриттів відшаровуванню в кілька разів. Показана перспективність йонної імплантації як технології, здатної формувати міцні нанорозмірні покриття на основі неіржавійної сталі і відтак одержувати нові матеріали з поліпшеними фізико-хімічними та механічними характеристиками.",
+		"en": "The study of the Al/SS, Ni/SS, Ti/SS and Ni/Al/SS composites fabricated by the method of low-temperature ion implantation of stainless steel (SS) is performed. The synthesized composites are studied with using the conventional X-ray analysis, X-ray analysis of thin films, X-ray photoelectron spectroscopy, optical microscopy, scanning electron microscopy (SEM), atomic force microscopy (AFM), and sclerometric analysis. As shown, the structures formed on the surface of samples are amorphous for X-rays. Formation of the nanoscale layer of implant (coating) on the surface of the carrier (stainless steel) is demonstrated. The oxidation of the coating increases its thickness. Microgeometry of the surface of the samples depends on the used target metals and post-processing (reimplantation or oxidation). This fact is confirmed by optical microscopy, SEM, and AFM results. As found using X-ray photoelectron spectroscopy, the implanted metals are included into the coating composition in the form of oxides, nitrides or oxinitrides. In this case, as a result of oxidation, the emission of nitrogen from the samples and the growth of film due to the concentration of oxide structures take place. The study of the mechanical strength of the samples by scratching of the surface using the indenter reveals that implantation of metals’ ions can increase the resistance of the coating to delamination by several times. Aspects of ion implantation as a technology for formation of durable nanoscale coatings based on stainless steel and for fabrication of new materials with improved physical, chemical, and mechanical characteristics are shown.",
+		"ru": "Выполнено исследование композитов Al/НС, Ni/НС, Ti/НС и Ni/Al/HC, полученных методом низкотемпературной ионной имплантации нержавеющей стали (НС). Синтезированные композиты изучены методами традиционного рентгеноструктурного анализа, рентгеноструктурного анализа тонких плёнок, рентгеновской фотоэлектронной спектроскопии, оптической микроскопии, сканирующей электронной микроскопии (СЭМ), атомной силовой микроскопии (АСМ) и склерометрического анализа. Показано, что структуры, образованные на поверхности образцов, рентгеноаморфны. Установлено формирование наноразмерного слоя имплантата (покрытия) на поверхности носителя – нержавеющей стали. Показано, что при оксидировании данное покрытие увеличивает свою толщину. Микрогеометрия поверхности полученных образцов зависит от применяемых металлов-мишеней и последующей обработки (повторная имплантация или оксидирование). Данный факт подтверждается оптической микроскопией и результатами СЭМ, АСМ. С помощью рентгеновской фотоэлектронной спектроскопии установлено, что имплантированные металлы входят в состав покрытия в виде оксидов, нитридов и оксинитридов. При этом в результате оксидирования происходит эмиссия азота из образцов и рост плёнки вследствие концентрирования оксидных структур. Изучение механической прочности образцов посредством царапания поверхности индентором показало, что имплантация ионов металлов позволяет увеличивать сопротивление покрытий отслаиванию в несколько раз. Показана перспективность ионной имплантации как технологии, способной формировать прочные наноразмерные покрытия на основе нержавеющей стали и в результате получать новые материалы с улучшенными физико-химическими и механическими характеристиками."
+	},
+	"keywords": {
+		"ua": "йонна імплантація, імплантат, нанорозмірне покриття, неіржавійна сталь",
+		"en": "ion implantation, implant, nanoscale coating, stainless steel",
+		"ru": "ионная имплантация, имплантат, наноразмерное покрытие, нержавеющая сталь"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. О. Зажигалов", "en": "V. O. Zazhigalov", "ru": "В. А. Зажигалов"},
+			"OID": [30]
+		},
+		{
+			"AID": {"ua": "В. В. Гончаров", "en": "V. V. Honcharov", "ru": "В. В. Гончаров"},
+			"OID": [240]
+		}
+	],
+	"references": {
+		"count": 8,
+		"list":  [
+			{
+				"doi": "10.1016/j.cej.2010.11.040",
+				"or":  "J. H. Pan, Chem. Eng. J., 170, Nos. 2–3: 363 (2011).",
+				"tr":  "J. H. Pan, Chem. Eng. J., 170, Nos. 2–3: 363 (2011)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2009.10.134",
+				"or":  "J. Nomoto, Thin Solid Films, 518, No. 11: 2937 (2010).",
+				"tr":  "J. Nomoto, Thin Solid Films, 518, No. 11: 2937 (2010)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2007.02.189",
+				"or":  "T. Ezz, Appl. Surf. Sci., 253, No. 19: 7903 (2007).",
+				"tr":  "T. Ezz, Appl. Surf. Sci., 253, No. 19: 7903 (2007)."
+			},
+			{
+				"doi": "10.1016/S0167-577X(03)00443-9",
+				"or":  "I. Espitia-Cabrera, Mat. Lett., 58, Nos. 1–2: 191 (2004).",
+				"tr":  "I. Espitia-Cabrera, Mat. Lett., 58, Nos. 1–2: 191 (2004)."
+			},
+			{
+				"doi": "10.1016/j.matlet.2010.03.003",
+				"or":  "X. Yan, Mat. Lett., 64, No. 11: 1261 (2010).",
+				"tr":  "X. Yan, Mat. Lett., 64, No. 11: 1261 (2010)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2011.01.075",
+				"or":  "Y. Zhao, Appl. Surf. Sci., 257, No. 13: 5694 (2011).",
+				"tr":  "Y. Zhao, Appl. Surf. Sci., 257, No. 13: 5694 (2011)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2008.05.015",
+				"or":  "J. Dudognon, Surf. Coat. Techn., 202, No. 20: 5048 (2008).",
+				"tr":  "J. Dudognon, Surf. Coat. Techn., 202, No. 20: 5048 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "Handbooks of Monochromatic XPS Spectra (Ed. B. V. Crist) (Mountain View: XPS International LLC: 1999), vol. 2.",
+				"tr":  "Handbooks of Monochromatic XPS Spectra (Ed. B. V. Crist) (Mountain View: XPS International LLC: 1999), vol. 2."
+			}
+		]
+	}
+}

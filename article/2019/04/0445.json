@@ -1,0 +1,190 @@
+{
+	"_id":    "MFiNT.41.04.0445",
+	"year":   2019,
+	"volume": 41,
+	"issue":  4,
+	"pages":  [445,459],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["03.04.2018"],
+	"PACS":   "64.70.dj, 68.35.bd, 68.35.Dv, 68.55.A-, 68.55.J-, 68.60.Dv, 81.16.-c",
+	"title":   {
+		"ua": "Утворення острівцевих структур під час плавлення плівок олова на аморфній вуглецевій підкладці",
+		"en": "Formation of Island Structures during Melting Process of Tin Films on Amorphous Carbon Substrate",
+		"ru": "Образование островковых структур при плавлении плёнок олова на аморфной углеродной подложке"
+	},
+	"abstract": {
+		"ua": "В роботі представлено результати досліджень процесів формування впорядкованих масивів частинок при плавленні плівок олова на аморфній вуглецевій підкладці. Для плівок різної масової товщини за допомогою растрових електронно-мікроскопічних досліджень побудовано гістограми розподілу частинок за розмірами. Отримано розмірні залежності найбільш ймовірного радіуса частинок, що утворюються при плавленні, і півширини відповідних гістограм. Оцінено надлишкову енергію, що забезпечує розпад первісно суцільної плівки на окремі острівці, і побудовано її розмірну залежність. Показано, що плавлення плівок, конденсованих в острівцеві структури, забезпечує більші коефіцієнти заповнення в порівнянні з плавленням суцільних плівок.",
+		"en": "The results of research devoted to formation of ordered arrays of particles during melting process of tin films on amorphous carbon substrate are given in the present work. Using scanning electron microscopy the histograms of particle size distribution are constructed for films of different mass thickness. The size dependences of the most probable radius of particles, which are formed during the melting process, and the half-width values of the corresponding histograms are obtained as well. The excess energy, which provides a decomposition of the initially continuous film into separate islands, is estimated and its size dependence is built. As shown, the melting process of films, which are condensed in island structures, provides larger filling coefficients in comparison with the melting process of initially continuous films.",
+		"ru": "В работе представлены результаты исследования процессов формирования упорядоченных массивов частиц при плавлении плёнок олова на аморфной углеродной подложке. Для плёнок различной массовой толщины при помощи растровых электронно-микроскопических исследований построены гистограммы распределения частиц по размерам. Получены размерные зависимости наиболее вероятного радиуса частиц, образующихся при плавлении, и полуширины соответствующих гистограмм. Оценена избыточная энергия, обеспечивающая распад изначально сплошной плёнки на отдельные островки, и построена её размерная зависимость. Показано, что плавление плёнок, конденсированных в островковые структуры, обеспечивает большие коэффициенты заполнения по сравнению с плавлением изначально сплошных плёнок."
+	},
+	"keywords": {
+		"ua": "відпал плівок, термічне диспергування, гістограма та напівширина розподілу, надлишкова енергія",
+		"en": "annealing of films, thermal decomposition, histogram and half-width of distribution, excess energy",
+		"ru": "отжиг плёнок, термический распад, гистограмма и полуширина распределения, избыточная энергия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. В. Дукаров", "en": "S. V. Dukarov", "ru": "С. В. Дукаров"},
+			"OID": [206]
+		},
+		{
+			"AID": {"ua": "С. І. Петрушенко", "en": "S. I. Petrushenko", "ru": "С. И. Петрушенко"},
+			"OID": [206]
+		},
+		{
+			"AID": {"ua": "В. М. Сухов", "en": "V. M. Sukhov", "ru": "В. Н. Сухов"},
+			"OID": [206]
+		},
+		{
+			"AID": {"ua": "І. Г. Чурілов", "en": "I. G. Churilov", "ru": "И. Г. Чурилов"},
+			"OID": [206]
+		}
+	],
+	"references": {
+		"count": 28,
+		"list":  [
+			{
+				"doi": "10.1016/S0304-8853(02)01048-X",
+				"or":  "H. Lauter, V. Lauter-Pasyuk, B.Toperverg, L. Romashev, M. Milyaev, T. Krinitsina, E. Kravtsov, V. Ustinov, A. Petrenko, and V. Aksenov, J. Magn. Magn. Mater., 258–259: 338 (2003).",
+				"tr":  "H. Lauter, V. Lauter-Pasyuk, B.Toperverg, L. Romashev, M. Milyaev, T. Krinitsina, E. Kravtsov, V. Ustinov, A. Petrenko, and V. Aksenov, J. Magn. Magn. Mater., 258-259: 338 (2003)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.97.144511",
+				"or":  "Yu. N. Khaydukov, A. S. Vasenko, E. A. Kravtsov, V. V. Progliado, V. D. Zhaketov, A. Csik, Yu. V. Nikitenko, A. V. Petrenko, T. Keller, A. A. Golubov, M. Yu. Kupriyanov, V. V. Ustinov, V. L. Aksenov, and B. Keimer, Phys. Rev. B, 97: 144511 (2018).",
+				"tr":  "Yu. N. Khaydukov, A. S. Vasenko, E. A. Kravtsov, V. V. Progliado, V. D. Zhaketov, A. Csik, Yu. V. Nikitenko, A. V. Petrenko, T. Keller, A. A. Golubov, M. Yu. Kupriyanov, V. V. Ustinov, V. L. Aksenov, and B. Keimer, Phys. Rev. B, 97: 144511 (2018)."
+			},
+			{
+				"doi": "10.1134/S1063776115060059",
+				"or":  "A. B. Drovosekov, N. M. Kreines, A. O. Savitsky, E. A. Kravtsov, D. V. Blagodatkov, M. V. Ryabukhina, M. A. Milyaev, V. V. Ustinov, E. M. Pashaev, I. A. Subbotin, and G. V. Prutskov, J. Exper. Theor. Phys., 120, No. 6: 1041 (2015).",
+				"tr":  "A. B. Drovosekov, N. M. Kreines, A. O. Savitsky, E. A. Kravtsov, D. V. Blagodatkov, M. V. Ryabukhina, M. A. Milyaev, V. V. Ustinov, E. M. Pashaev, I. A. Subbotin, and G. V. Prutskov, J. Exper. Theor. Phys., 120, No. 6: 1041 (2015)."
+			},
+			{
+				"doi": "10.21272/jnep.10(3).03014",
+				"or":  "Himanshu Gupta, Fateh Singh Gill, S. K. Sharma, R. Kumar, and R. M. Mehra, J. Nano- Electron. Phys., 10, No. 3: 03014 (2018).",
+				"tr":  "Himanshu Gupta, Fateh Singh Gill, S. K. Sharma, R. Kumar, and R. M. Mehra, J. Nano- Electron. Phys., 10, No. 3: 03014 (2018)."
+			},
+			{
+				"doi": "10.21272/jnep.10(3).03005",
+				"or":  "Rupali Kulkarni, Amit Pawbake, Ravindra Waykar, Ashok Jadhawar, Haribhau Borate, Rahul Aher, Ajinkya Bhorde, Shruthi Nair, Priyanka Sharma, and Sandesh Jadkar, J. Nano- Electron. Phys., 10, No. 3: 03005 (2018).",
+				"tr":  "Rupali Kulkarni, Amit Pawbake, Ravindra Waykar, Ashok Jadhawar, Haribhau Borate, Rahul Aher, Ajinkya Bhorde, Shruthi Nair, Priyanka Sharma, and Sandesh Jadkar, J. Nano- Electron. Phys., 10, No. 3: 03005 (2018)."
+			},
+			{
+				"doi": "10.21272/jnep.10(2).02009",
+				"or":  "R. N. Zhukov, T. S. Ilina, E. A. Skryleva, B. R. Senatulin, I. V. Kubasov, D. A. Kiselev, G. Suchaneck, M. D. Malinkovich, Yu. N. Parkhomenko, and A. G. Savchenko, J. Nano- Electron. Phys., 10, No. 2: 02009 (2018).",
+				"tr":  "R. N. Zhukov, T. S. Ilina, E. A. Skryleva, B. R. Senatulin, I. V. Kubasov, D. A. Kiselev, G. Suchaneck, M. D. Malinkovich, Yu. N. Parkhomenko, and A. G. Savchenko, J. Nano- Electron. Phys., 10, No. 2: 02009 (2018)."
+			},
+			{
+				"doi": "10.1038/ncomms11331",
+				"or":  "H. H. Jeong, A. G. Mark, M. Alarcón-Correa, I. Kim, P. Oswald, T. C. Lee, and P. Fischer, Nature Commun., 7: 11331 (2016).",
+				"tr":  "H. H. Jeong, A. G. Mark, M. Alarcón-Correa, I. Kim, P. Oswald, T. C. Lee, and P. Fischer, Nature Commun., 7: 11331 (2016)."
+			},
+			{
+				"doi": "10.1016/j.apcatb.2016.03.056",
+				"or":  "J. Chen, H. Che, K. Huang, C. Liu, and W. Shi, Appl. Catalysis B: Environmental, 192: 134 (2016).",
+				"tr":  "J. Chen, H. Che, K. Huang, C. Liu, and W. Shi, Appl. Catalysis B: Environmental, 192: 134 (2016)."
+			},
+			{
+				"doi": "10.1088/0957-4484/27/23/235401",
+				"or":  "J. Gan, B. B. Rajeeva, Z. Wu, D. Penley, C. Liang, Y. Tong, and Y. Zheng, Nanotechnology, 27, No. 23: 235401 (2016).",
+				"tr":  "J. Gan, B. B. Rajeeva, Z. Wu, D. Penley, C. Liang, Y. Tong, and Y. Zheng, Nanotechnology, 27, No. 23: 235401 (2016)."
+			},
+			{
+				"doi": "10.21272/jnep.10(3).03017",
+				"or":  "T. I. Borodinova, V. I. Styopkin, A. A. Vasko, V. Ye. Kutsenko, and O. A. Marchenko, J. Nano- Electron. Phys., 10, No. 3: 03017 (2018).",
+				"tr":  "T. I. Borodinova, V. I. Styopkin, A. A. Vasko, V. Ye. Kutsenko, and O. A. Marchenko, J. Nano- Electron. Phys., 10, No. 3: 03017 (2018)."
+			},
+			{
+				"doi": "10.21272/jnep.10(2).02002",
+				"or":  "B. I. Turko, V. B. Kapustianyk, L. R. Toporovska, V. P. Rudyk, V. S. Tsybulskyi, and R. Y. Serkiz, J. Nano- Electron. Phys., 10, No. 2: 02002 (2018).",
+				"tr":  "B. I. Turko, V. B. Kapustianyk, L. R. Toporovska, V. P. Rudyk, V. S. Tsybulskyi, and R. Y. Serkiz, J. Nano- Electron. Phys., 10, No. 2: 02002 (2018)."
+			},
+			{
+				"doi": "10.21272/jnep.10(1).01004",
+				"or":  "S. Wahyuningsih, F. N. Ainiy, and A. H. Ramelan, J. Nano- Electron. Phys., 10, No. 1: 01004 (2018).",
+				"tr":  "S. Wahyuningsih, F. N. Ainiy, and A. H. Ramelan, J. Nano- Electron. Phys., 10, No. 1: 01004 (2018)."
+			},
+			{
+				"doi": "",
+				"or":  "P. A. Kumar, S. Mitra, and K. Mandal, Indian J. Pure Appl. Phys., 45, No. 1: 21 (2007).",
+				"tr":  "P. A. Kumar, S. Mitra, and K. Mandal, Indian J. Pure Appl. Phys., 45, No. 1: 21 (2007)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2014.08.070",
+				"or":  "S. B. Dalavi and R. N. Panda, J. Magn. Magn. Mater., 374, No. 15: 411 (2015).",
+				"tr":  "S. B. Dalavi and R. N. Panda, J. Magn. Magn. Mater., 374, No. 15: 411 (2015)."
+			},
+			{
+				"doi": "10.15407/spqeo17.03",
+				"or":  "V. O. Yukhymchuk, O. M. Hreshchuk, M. Y. Valakh, M. A. Skoryk, V. S. Efanov, and N. A. Matveevskaya, Semicond. Phys. Quantum Electron. Optoelectron., 17, No. 3: 217 (2014).",
+				"tr":  "V. O. Yukhymchuk, O. M. Hreshchuk, M. Y. Valakh, M. A. Skoryk, V. S. Efanov, and N. A. Matveevskaya, Semicond. Phys. Quantum Electron. Optoelectron., 17, No. 3: 217 (2014)."
+			},
+			{
+				"doi": "10.15407/mfint.37.09.1225",
+				"or":  "Yu. V. Naidich, I. I. Gab, T. V. Stetsyuk, B. D. Kostyuk, and S. I. Martynuyk, Metallofiz. Noveishie Tekhnol., 37, No. 9: 1225 (2015) (in Ukrainian).",
+				"tr":  "Yu. V. Naidich, I. I. Gab, T. V. Stetsyuk, B. D. Kostyuk, and S. I. Martynuyk, Metallofiz. Noveishie Tekhnol., 37, No. 9: 1225 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/mfint.38.10.1351",
+				"or":  "S. I. Petrushenko, S. V. Dukarov, and V. N. Sukhov, Metallofiz. Noveishie Tekhnol., 38, No. 10: 1351 (2016) (in Ukrainian).",
+				"tr":  "S. I. Petrushenko, S. V. Dukarov, and V. N. Sukhov, Metallofiz. Noveishie Tekhnol., 38, No. 10: 1351 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/j.vacuum.2017.04.037",
+				"or":  "S. I. Petrushenko, S. V. Dukarov, and V. N. Sukhov, Vacuum, 142: 29 (2017).",
+				"tr":  "S. I. Petrushenko, S. V. Dukarov, and V. N. Sukhov, Vacuum, 142: 29 (2017)."
+			},
+			{
+				"doi": "",
+				"or":  "S. V. Dukarov, S. I. Petrushenko, V. N. Sukhov, and I. G. Churilov, Problems Atomic Sci. Technol., 89, No. 1: 110 (2014).",
+				"tr":  "S. V. Dukarov, S. I. Petrushenko, V. N. Sukhov, and I. G. Churilov, Problems Atomic Sci. Technol., 89, No. 1: 110 (2014)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2014.10.046",
+				"or":  "A. P. Kryshtal, Appl. Surf. Sci., 321: 548 (2014).",
+				"tr":  "A. P. Kryshtal, Appl. Surf. Sci., 321: 548 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "S. I. Petrushenko, S. V. Dukarov, V. N. Sukhov, and I. G. Churilov, J. Nano- Electron. Phys., 7, No. 2: 2033-1 (2015).",
+				"tr":  "S. I. Petrushenko, S. V. Dukarov, V. N. Sukhov, and I. G. Churilov, J. Nano- Electron. Phys., 7, No. 2: 2033-1 (2015)."
+			},
+			{
+				"doi": "10.12693/APhysPolA.133.1186",
+				"or":  "S. V. Dukarov, S. I. Petrushenko, V. N. Sukhov, I. G. Churilov, A. L. Samsonik, and O. I. Skryl, Acta Phys. Polonica A, 133, No. 5: 1186 (2018).",
+				"tr":  "S. V. Dukarov, S. I. Petrushenko, V. N. Sukhov, I. G. Churilov, A. L. Samsonik, and O. I. Skryl, Acta Phys. Polonica A, 133, No. 5: 1186 (2018)."
+			},
+			{
+				"doi": "",
+				"or":  "N. T. Gladkikh, S. V. Dukarov, A. P. Krishtal’, V. I. Larin, V. N. Sukhov, and S. I. Bogatyrenko, Poverkhnostnye Yavleniya i Fazovye Prevrashcheniya v Kon-densirovannykh Plenkakh [Surface Phenomena and Phase Transformations in Condensed Films] (Kharkiv: KHNU imeni V. N. Karazina: 2004) (in Russian).",
+				"tr":  "N. T. Gladkikh, S. V. Dukarov, A. P. Krishtal', V. I. Larin, V. N. Sukhov, and S. I. Bogatyrenko, Poverkhnostnye Yavleniya i Fazovye Prevrashcheniya v Kon-densirovannykh Plenkakh [Surface Phenomena and Phase Transformations in Condensed Films] (Kharkiv: KHNU imeni V. N. Karazina: 2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "P. G. Vassilev, Bulgarian J. Phys., 3: 184 (1976).",
+				"tr":  "P. G. Vassilev, Bulgarian J. Phys., 3: 184 (1976)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2014.10.046",
+				"or":  "A. P. Kryshtal, Appl. Surf. Sci., 321: 548 (2014).",
+				"tr":  "A. P. Kryshtal, Appl. Surf. Sci., 321: 548 (2014)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2011.04.001",
+				"or":  "A. P. Kryshtal, N. T. Gladkikh, and R. V. Sukhov, Appl. Surf. Sci., 257, No. 17: 7649 (2011).",
+				"tr":  "A. P. Kryshtal, N. T. Gladkikh, and R. V. Sukhov, Appl. Surf. Sci., 257, No. 17: 7649 (2011)."
+			},
+			{
+				"doi": "10.1134/S1063783414040210",
+				"or":  "A. A. Minenkov, S. I. Bogatyrenko, R. V. Sukhov, and A.P. Kryshtal, Phys. Solid State, 56, No. 4: 823 (2014).",
+				"tr":  "A. A. Minenkov, S. I. Bogatyrenko, R. V. Sukhov, and A.P. Kryshtal, Phys. Solid State, 56, No. 4: 823 (2014)."
+			},
+			{
+				"doi": "10.21272/jnep.10(1).01023",
+				"or":  "S. V. Dukarov, S. I. Petrushenko, and V. N. Sukhov, J. Nano- Electron. Phys., 10, No. 1: 01023 (2018) (in Russian).",
+				"tr":  "S. V. Dukarov, S. I. Petrushenko, and V. N. Sukhov, J. Nano- Electron. Phys., 10, No. 1: 01023 (2018) (in Russian)."
+			}
+		]
+	}
+}

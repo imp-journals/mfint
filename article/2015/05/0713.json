@@ -1,0 +1,116 @@
+{
+	"_id":    "MFiNT.37.05.0713",
+	"year":   2015,
+	"volume": 37,
+	"issue":  5,
+	"pages":  [713,721],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["02.02.2015"],
+	"PACS":   "62.20.Qp, 68.37.Hk, 68.55.Nq, 81.05.uj, 81.15.Pq, 81.40.Pq, 81.65.Lp",
+	"title":  {
+		"ua": "Структура та властивості композиційних електролітичних нікелевих покриттів одержаних імпульсним струмом",
+		"en": "The Structure and Properties of Electrolytic Nickel Composite Coatings Fabricated by Pulse Current",
+		"ru": "Структура и свойства композиционных электролитических никелевых покрытий, полученных импульсным током"
+	},
+	"abstract": {
+		"ua": "Досліджено композиційні електролітичні покриття (КЕП), осаджені імпульсним струмом із сульфатного ніклевого електроліту, що містить частинки ультрадисперсних діямантів (УДД). Розглянуто вплив параметрів імпульсного струму при електролітичному нанесенні ніклевих покриттів на структуру і механічні властивості КЕП, на вміст і розподіл співосаджених частинок нанодіяманту у металевій матриці. Результати досліджень показують, що використання з’єднань частинок УДД з модифікованою поверхнею ніклю підвищує мікротвердість і зносостійкість ніклевих покриттів.",
+		"en": "Composite electrolytic coatings (CECs) precipitated by pulse current from nickel sulphate electrolyte containing ultrafine diamonds (UFDs) is investigated. The influence of parameters of pulsed current during the electrolytic deposition of nickel coatings on the structure and mechanical properties of the CECs as well as on the content and distribution of the co-deposited nanodiamond particles within the metal matrix is considered. The results show that the use of the joining of UFDs with modified nickel surface increases microhardness and wear resistance of nickel coatings.",
+		"ru": "Исследованы композиционные электролитические покрытия (КЭП), осаждённые импульсным током из сульфатного никелевого электролита, содержащего частицы ультрадисперсных алмазов (УДА). Рассмотрено влияние параметров импульсного тока при электролитическом нанесении никелевых покрытий на структуру и механические свойства КЭП, содержание и распределение соосаждённых частиц наноалмаза в металлической матрице. Результаты исследований показывают, что использование соединений частиц УДА с модифицированной поверхностью никеля повышает микротвёрдость и износостойкость никелевых покрытий."
+	},
+	"keywords": {
+		"ua": "механічні властивості, частинки ультрадисперсних алмазів, композиційні електролітичні покриття, імпульсний струм",
+		"en": "mechanical properties, ultrafine diamond particles, composite electrolytic coating, pulse current",
+		"ru": "механические свойства, частицы ультрадисперсных алмазов, композиционные электролитические покрытия, импульсный ток"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. В. Дудкіна", "en": "V. V. Dudkina", "ru": "В. В. Дудкина"},
+			"OID": [226]
+		},
+		{
+			"AID": {"ua": "В. О. Заблудовський", "en": "V. A. Zabludovskiy", "ru": "В. А. Заблудовский"},
+			"OID": [226]
+		},
+		{
+			"AID": {"ua": "Е. Ф. Штапенко", "en": "E. F. Shtapenko", "ru": "Э. Ф. Штапенко"},
+			"OID": [226]
+		}
+	],
+	"references": {
+		"count": 14,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Г. К. Буркат, В. Ю. Долматов, Физика твёрдого тела, 46, № 4: 685 (2004).",
+				"tr":  "G. K. Burkat and V. Yu. Dolmatov, Fizika Tverdogo Tela, 46, No. 4: 685 (2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. К. Буркат, В. Ю. Долматов, E. Osawa, Е. А. Орлова, Сверхтвёрдые материалы, № 2: 43 (2010).",
+				"tr":  "G. K. Burkat, V. Yu. Dolmatov, E. Osawa, and Ye. A. Orlova, Sverkhtverdye Materialy, No. 2: 43 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ю. Долматов, Г. К. Буркат, Сверхтвёрдые материалы, № 1: 84 (2000).",
+				"tr":  "V. Yu. Dolmatov and G. K. Burkat, Sverkhtverdye Materialy, No. 1: 84 (2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ю. Долматов, Ультрадисперсные алмазы детонационного синтеза (Санкт-Петербург: Изд. СПбГПУ: 2003).",
+				"tr":  "V. Yu. Dolmatov, Ultradispersnye Almazy Detonatsionnogo Sinteza (Sankt-Petersburg: Izd. SPbGPU: 2003) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.diamond.2005.08.004",
+				"or":  "G. K. Burkat, T. Fujimura, V. Yu. Dolmatov, E. A. Orlova, and M. V. Veretennikova, Diamond and Related Materials, 14, No. 8: 1761 (2005).",
+				"tr":  "G. K. Burkat, T. Fujimura, V. Yu. Dolmatov, E. A. Orlova, and M. V. Veretennikova, Diamond and Related Materials, 14, No. 8: 1761 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. К. Буркат, В. Ю. Долматов, Гальванотехника и обработка поверхности, № 2: 35 (2001).",
+				"tr":  "G. K. Burkat and V. Yu. Dolmatov, Galvanotekhnika i Obrabotka Poverkhnosti, No. 2: 35 (2001) (in Russian)."
+			},
+			{
+				"doi": "10.1134/S0020168511070089",
+				"or":  "G. A. Chiganova and L. E. Mordvinova, Inorganic Materials, 47, No. 7: 717 (2011).",
+				"tr":  "G. A. Chiganova and L. E. Mordvinova, Inorganic Materials, 47, No. 7: 717 (2011)."
+			},
+			{
+				"doi": "10.1016/j.msea.2004.08.033",
+				"or":  "L. Wang, Y. Gao, Q. Xue, H. Liu, and T. Xu, Mater. Sci. Eng. A, 390: 313 (2005).",
+				"tr":  "L. Wang, Y. Gao, Q. Xue, H. Liu, and T. Xu, Mater. Sci. Eng. A, 390: 313 (2005)."
+			},
+			{
+				"doi": "10.1016/j.electacta.2006.09.043",
+				"or":  "H. Matsubara, Y. Abe, Y. Chiba, H. Nishiyama, N. Saito, K. Hodouchi, and Y. Inoue, Electrochimica Acta 52: 3047 (2007).",
+				"tr":  "H. Matsubara, Y. Abe, Y. Chiba, H. Nishiyama, N. Saito, K. Hodouchi, and Y. Inoue, Electrochimica Acta 52: 3047 (2007)."
+			},
+			{
+				"doi": "10.1166/nnl.2012.1286",
+				"or":  "X. He, Y. Wang, X. Sun, and L. Huang, Nanosci. Nanotechnol. Lett., 4, No. 1: 48 (2012).",
+				"tr":  "X. He, Y. Wang, X. Sun, and L. Huang, Nanosci. Nanotechnol. Lett., 4, No. 1: 48 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Дудкіна, Фізика і хімія твердого тіла, 14, № 3: 644 (2013).",
+				"tr":  "V. V. Dudkina, Fizyka i Khimiya Tverdogo Tila, 14, No. 3: 644 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. О. Заблудовський, Е. П. Штапенко, В. В. Дудкіна, О. С. Терещенко, Спосіб отримання нікелевих гальванічних покриттів, модифікованих наноалмазами, Патент України № 87842 (С25D15/00) (Опубл. 25.02.2014, бюл. № 4).",
+				"tr":  "V. O. Zabludovs'kyy, E. P. Shtapenko, V. V. Dudkina, and O. S. Tereshchenko, Sposib Otrymannya Nikelevykh Gal'vanichnykh Pokryttiv, Modyfikovanykh Nanoalmazamy, Patent of Ukraine No. 87842 (S25D15/00) (Publ. 25.02.2014, Bull. No. 4) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. О. Заблудовський, Е. П. Штапенко, В. В. Дудкіна, О. В. Зражевський, Спосіб отримання металевих покриттів, модифікованих наноалмазами, Патент України № 88647 (С25D 15/00) (Опубл. 25.03.2014, бюл. № 6).",
+				"tr":  "V. O. Zabludovs'kyy, E. P. Shtapenko, V. V. Dudkina, and O. V. Zrazhevs'kyy, Sposib Otrymannya Metalevykh Pokryttiv, Modyfikovanykh Nanoalmazamy, Patent of Ukraine No. 88647 (C25D 15/00) (Publ. 25.03.2014, Bull. No. 6) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Заблудовский, Н. А. Костин, В. И. Каптановский, Электрохимия, 26, вып. 7: 861 (1990).",
+				"tr":  "V. A. Zabludovskiy, N. A. Kostin, and V. I. Kaptanovskiy, Elektrokhimiya, 26, Iss. 7: 861 (1990) (in Russian)."
+			}
+		]
+	}
+}

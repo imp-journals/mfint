@@ -1,0 +1,69 @@
+{
+	"_id":    "MFiNT.41.01.0039",
+	"year":   2019,
+	"volume": 41,
+	"issue":  1,
+	"pages":  [39,46],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["09.09.2018"],
+	"PACS":   "06.60.Vz, 62.20.Qp, 68.35.Gy, 68.55.J-, 68.60.Bs, 81.15.Cd, 81.40.Pq",
+	"title":   {
+		"ua": "Розробка та дослідження сталь-молібденового покриття, нанесеного газотермічною методою",
+		"en": "Development and Investigation of a Steel–Molybdenum Coating Deposited by the Gas–Thermal Method",
+		"ru": "Разработка и исследование сталь-молибденового покрытия, нанесённого газотермическим методом"
+	},
+	"abstract": {
+		"ua": "Сталь-молібденове покриття, що нанесено на поршневі кільця з високоміцного чавуну, забезпечує добру припрацьовуваність, малу інтенсивність зношування, низький коефіцієнт тертя. Цей факт пояснюється специфічними властивостями окислів молібдену.",
+		"en": "The steel–molybdenum coating applied to the piston rings group made of high-strength cast iron provides a good conformability, low wear rate, and low coefficient of friction. This fact is explained by the specific characteristics of molybdenum oxides.",
+		"ru": "Сталь-молибденовое покрытие, нанесённое на поршневые кольца из высокопрочного чугуна, обеспечивает хорошую прирабатываемость, малую интенсивность износа, низкий коэффициент трения. Этот факт объясняется специфическими свойствами оксидов молибдена."
+	},
+	"keywords": {
+		"ua": "сталь-молібденове покриття, припрацьовуваність, швидкість зношування, мікротвердість, оксид молібдену",
+		"en": "steel–molybdenum coating, conformability, wear rate, microhardness, molybdenum oxides",
+		"ru": "сталь-молибденовое покрытие, прирабатываемость, скорость износа, микротвёрдость, оксиды молибдена"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. І. Большаков", "en": "V. I. Bolshakov", "ru": "В. И. Большаков"},
+			"OID": [225]
+		},
+		{
+			"AID": {"ua": "Д. Б. Глушкова", "en": "D. B. Hlushkova", "ru": "Д. Б. Глушкова"},
+			"OID": [258]
+		},
+		{
+			"AID": {"ua": "О. В. Калінін", "en": "O. V. Kalinin", "ru": "А. В. Калинин"},
+			"OID": [225]
+		},
+		{
+			"AID": {"ua": "О. І. Воронков", "en": "O. I. Voronkov", "ru": "А. И. Воронков"},
+			"OID": [258]
+		},
+		{
+			"AID": {"ua": "Л. Л. Костіна", "en": "L. L. Kostina", "ru": "Л. Л. Костина"},
+			"OID": [225]
+		}
+	],
+	"references": {
+		"count": 3,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "V. V. Kudinov, The Theory and Practice of the Gas–Thermal Coating (Moscow: Metallurgy: 2000) (in Russian).",
+				"tr":  "V. V. Kudinov, The Theory and Practice of the Gas–Thermal Coating (Moscow: Metallurgy: 2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "E. V. Antoshin, Application of Metallic and Non-Metallic Coatings by Means of Gas–Thermal Spraying (Moscow: Engineering: 2002) (in Russian).",
+				"tr":  "E. V. Antoshin, Application of Metallic and Non-Metallic Coatings by Means of Gas–Thermal Spraying (Moscow: Engineering: 2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "N. V. Katz, Metal Pulverization (Moscow: Engineering: 2006) (in Russian).",
+				"tr":  "N. V. Katz, Metal Pulverization (Moscow: Engineering: 2006) (in Russian)."
+			}
+		]
+	}
+}

@@ -1,0 +1,121 @@
+{
+	"_id":    "MFiNT.41.03.0297",
+	"year":   2019,
+	"volume": 41,
+	"issue":  3,
+	"pages":  [297,311],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["28.12.2018","04.02.2019"],
+	"PACS":   "68.35.bd, 68.35.bt, 68.37.Ef, 68.43.Hn, 68.47.De, 68.55.J-, 73.20.At",
+	"title":   {
+		"ua": "Нанорельєф шарів Cu та Au після їх термічного нанесення на поверхні монокристалів InSe та GaSe",
+		"en": "Nanorelief of Cu and Au Layers after Their Thermal Deposition on the InSe and GaSe Single Crystals Surfaces",
+		"ru": "Нанорельеф слоёв Cu и Au после их термического нанесения на поверхности монокристаллов InSe и GaSe"
+	},
+	"abstract": {
+		"ua": "Показана задовільна відповідність кривих густин електронних станів, отриманих експериментально методом тунельної спектроскопії та розрахованих в рамках теорії функціоналу густини (ТФГ). Ширина забороненої зони атомарно чистої поверхні монокристалу InSe (0001), виміряна методом тунельної спектроскопії, демонструє відхилення на $\\sim$ 0,2 еВ від інших методів досліджень ($\\sim$ 1,4 еВ проти $\\sim$ 1,2 еВ). При низьких температурах спостерігається інтенсивне утворення поверхневих енергетичних рівнів Шоклі. Методами високороздільної сканувальної тунельної мікроскопії та ТФГ (Wien2k) досліджено механізми формування нанорельєфу міді та золота на ван-дер-ваальсових поверхнях напівпровідникових монокристалів. Вакуумне термічне нанесення Cu та Au (без охолодження зразка та інертних газів) на поверхню монокристалу InSe (0001) за одних і тих самих умов демонструє різні механізми осадження з атомарної металевої газової фази. Для міді характерним є мономодальний розкид розмірів кластерів, у той час як у випадку золота формуються моношари лускуватої структури. Встановлено малий вплив інтерфейсу на геометрію та симетрію утворюваних наноструктур міді та золота. Процеси утворення наноструктур міді та золота при вказаних умовах погано описуються відомими механізмами росту.",
+		"en": "As shown, the density of electronic states curves obtained experimentally by the method of tunnelling spectroscopy and calculated by the DFT method are in satisfactory agreement. The band gap of the atomically clean surface of an InSe (0001) single crystal measured by the method of tunnelling spectroscopy demonstrates a deviation of $\\sim$ 0.2 eV from other methods ($\\sim$ 1.4 eV against $\\sim$ 1.2 eV). At low temperatures, intense formation of Shockley’s surface energy levels is observed. Formation mechanisms of copper and gold nanorelief on Van der Waals surfaces of semiconductor single crystals are investigated by the methods of high-resolution scanning tunnelling microscopy and DFT (Wien2k). Vacuum thermal deposition of Cu and Au (without cooling the sample and inert gases) on the surface of an InSe (0001) single crystal at the same conditions demonstrates different deposition mechanisms from the atomic metal gas phase. Copper is characterized by monomodal variation in cluster sizes, while in the case for gold a monolayer flake-like structure is formed. A small influence of the interface on geometry and symmetry of the nanostructures of copper and gold is established. The processes of formation of copper and gold nanostructures at mentioned conditions are badly described by the known growth mechanisms.",
+		"ru": "Показано удовлетворительное соответствие кривых плотностей электронных состояний, полученных экспериментально методом туннельной спектроскопии и рассчитанных в рамках теории функционала плотности (ТФП). Ширина запрещенной зоны атомарно чистой поверхности монокристалла InSe (0001, измеренная методом туннельной спектроскопии демонстрирует отклонение на $\\sim$ 0,2 эВ от других методов измерений ($\\sim$ 1,4 эВ против $\\sim$ 1,2 эВ). При низких температурах наблюдается интенсивное образование поверхностных энергетических уровней Шокли. Методами высокоразрешающей сканирующей туннельной микроскопии и ТФП (Wien2k) исследованы механизмы формирования нанорельефа меди и золота на ван-дер-ваальсовых поверхностях полупроводниковых монокристаллов. Вакуумное термическое нанесение Cu и Au (без охлаждения образца и инертных газов) на поверхность монокристалла InSe (0001) при одних и тех же условиях демонстрирует различные механизмы осаждения из атомарной металлической газовой фазы. Для меди характерен мономодальный разброс размеров кластеров, в то время как в случае золота формируются монослои чешуйчатой структуры. Установлено малое влияние интерфейса на геометрию и симметрию образующихся наноструктур меди и золота. Процессы образования наноструктур меди и золота при указанных условиях плохо описываются известными механизмами роста."
+	},
+	"keywords": {
+		"ua": "моношари золота та міді, металічні кластери, термічне нанесення, нанорельєф, сканувальна тунельна мікроскопія",
+		"en": "monolayers of gold and copper, metal clusters, thermal deposition, nanorelief, scanning tunnelling microscopy",
+		"ru": "монослои золота и меди, металлические кластеры, термическое нанесение, нанорельеф, сканирующая туннельная микроскопия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Л. І. Карбівська", "en": "L. І. Karbivska", "ru": "Л. И. Карбовская"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. Л. Карбівський", "en": "V. L. Karbivskii", "ru": "В. Л. Карбовский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. А. Артемюк", "en": "V. A. Artemyuk", "ru": "В. А. Артемюк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "З. Д. Ковалюк", "en": "Z. D. Kovalyuk", "ru": "З. Д. Ковалюк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. Я. Кузнєцова", "en": "О. Ya. Kuznetsova", "ru": "Е. Я. Кузнецова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. С. Смоляк", "en": "S. S. Smolyak", "ru": "С. С. Смоляк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. И. Соболев", "en": "A. I. Sobolev", "ru": "А. И. Соболев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. В. Стоніс", "en": "V. V. Stonis", "ru": "В. В. Стонис"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 11,
+		"list":  [
+			{
+				"doi": "10.1016/j.susc.2004.08.011",
+				"or":  "H. Liu, Y. F. Zhang, D. Y. Wang, M. H. Pan, J. F. Jia, and Q. K. Xue, Surf. Sci., 571: 5 (2004).",
+				"tr":  "H. Liu, Y. F. Zhang, D. Y. Wang, M. H. Pan, J. F. Jia, and Q. K. Xue, Surf. Sci., 571: 5 (2004)."
+			},
+			{
+				"doi": "10.1524/zkri.1958.110.1-6.372",
+				"or":  "E. Bauer, Z. Kristallogr., 110: 372 (1958).",
+				"tr":  "E. Bauer, Z. Kristallogr., 110: 372 (1958)."
+			},
+			{
+				"doi": "10.1126/science.273.5272.226",
+				"or":  "A. R. Smith, K.-J. Chao, Q. Niu, and C.-K. Shih, Science, 273: 226 (1996).",
+				"tr":  "A. R. Smith, K.-J. Chao, Q. Niu, and C.-K. Shih, Science, 273: 226 (1996)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.70.3483",
+				"or":  "D. A. Evans, M. Alonso, R. Cimino, and K. Horn, Phys. Rev. Lett., 70: 3483 (1993).",
+				"tr":  "D. A. Evans, M. Alonso, R. Cimino, and K. Horn, Phys. Rev. Lett., 70: 3483 (1993)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.80.5381",
+				"or":  "Z. Y. Zhang, Q. Niu, and C.-K. Shih, Phys. Rev. Lett., 80: 5381 (1998).",
+				"tr":  "Z. Y. Zhang, Q. Niu, and C.-K. Shih, Phys. Rev. Lett., 80: 5381 (1998)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2007.03.027",
+				"or":  "G. Yang, Y. Zhou, H. Long, Y. Li, and Y. Yang, Thin Solid Films, 515, Iss. 20–21: 7926 (2007).",
+				"tr":  "G. Yang, Y. Zhou, H. Long, Y. Li, and Y. Yang, Thin Solid Films, 515, Iss. 20-21: 7926 (2007)."
+			},
+			{
+				"doi": "10.1016/j.biotechadv.2008.09.002",
+				"or":  "M. Rai, A. Yadav, and A. Gade, Biotech. Adv., 27, Iss. 1: 76 (2009).",
+				"tr":  "M. Rai, A. Yadav, and A. Gade, Biotech. Adv., 27, Iss. 1: 76 (2009)."
+			},
+			{
+				"doi": "10.1007/s00339-006-3604-2",
+				"or":  "R. M. Tilaki, A. Irajizad, and S. M. Mahdavi, Appl. Phys. A, 84, Iss. 1–2: 215 (2006).",
+				"tr":  "R. M. Tilaki, A. Irajizad, and S. M. Mahdavi, Appl. Phys. A, 84, Iss. 1-2: 215 (2006)."
+			},
+			{
+				"doi": "10.1016/j.optmat.2003.11.002",
+				"or":  "G. Yang, D. Guan, W. Wang, W. Wu, and Z. Chen, Opt. Mat., 25, Iss. 4: 439 (2004).",
+				"tr":  "G. Yang, D. Guan, W. Wang, W. Wu, and Z. Chen, Opt. Mat., 25, Iss. 4: 439 (2004)."
+			},
+			{
+				"doi": "10.1023/A:1023736416361",
+				"or":  "H.-J. Lee, S.-Y. Yeo, and S.-H. Jeong, J. Mat. Sci., 38: 2199 (2003).",
+				"tr":  "H.-J. Lee, S.-Y. Yeo, and S.-H. Jeong, J. Mat. Sci., 38: 2199 (2003)."
+			},
+			{
+				"doi": "10.1021/acs.nanolett.5b00016",
+				"or":  "S. Lei, F. Wen, L. Ge, S. Najmaei, A. George, Y. Gong, W. Gao, Z. Jin, B. Li, J. Lou, J. Kono, R. Vajtai, P. Ajayan, and N. J. Halas, Nano Lett., 15: 3048 (2015).",
+				"tr":  "S. Lei, F. Wen, L. Ge, S. Najmaei, A. George, Y. Gong, W. Gao, Z. Jin, B. Li, J. Lou, J. Kono, R. Vajtai, P. Ajayan, and N. J. Halas, Nano Lett., 15: 3048 (2015)."
+			}
+		]
+	}
+}

@@ -1,0 +1,142 @@
+{
+	"_id":    "MFiNT.38.11.1513",
+	"year":   2016,
+	"volume": 38,
+	"issue":  11,
+	"pages":  [1513,1526],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["07.10.2015","20.10.2016"],
+	"PACS":   "61.50.Lt, 61.72.Mm, 61.72.S-, 62.20.mt, 68.35.Dv, 68.35.Gy, 81.20.Vj",
+	"title":   {
+		"ua": "Енергетичні параметри утворення тріщин при багатопрохідному зварюванні стопів систем леґування Ni—Cr—Fe",
+		"en": "Energy Parameters of Formation of Cracks at Multiple-Pass Welding of Alloys of Ni—Cr—Fe Alloying Systems",
+		"ru": "Энергетические параметры образования трещин при многопроходной сварке сплавов систем легирования Ni—Cr—Fe"
+	},
+	"abstract": {
+		"ua": "У роботі розглянуто схильність до утворення гарячих тріщин у багатопрохідних швах на ніклевій основі In52 з позиції зміни енергії когезії меж зерен. В основу покладено теорію балансу енергії межі зерна та поверхневої енергії. Методами дифракції відбитих електронів, термічного щавлення та світлової інтерферометрії оцінено анізотропію та зміну енергетичних властивостей у деґрадаційній зоні утворення тріщини на межах зерен в залежності від кристалографічної орієнтації. Методою Оже-спектрометрії визначено концентрації S і O на поверхні тріщини в деґрадаційній зоні провалу пластичности. Оцінено вплив зерномежової сеґреґації (адсорбції) атомів Сульфуру і Оксиґену на енергію когезії межі зерна.",
+		"en": "The article considers the tendency to hot cracking in the multiple-pass nickel-based welds from the position of change of the cohesion energy of grain boundaries. It is based on the theory of the energy balance of the grain boundary and surface energies. Anisotropy and change of energy properties on grain boundaries in crack formation area are estimated depending on the crystallographic orientation by using EBSD analysis, thermal etching, and light interferometry. The concentration of S and O on the surface of the cracks in the degradation ductility dip area and their influence on the calculated cohesive energy are determined by Auger electron spectroscopy. The effect of grain-boundary segregation (adsorption) of sulphur and oxygen atoms on cohesive energy of the grain boundary is investigated.",
+		"ru": "В работе рассмотрена склонность к образованию горячих трещин в многопроходных швах сплавов на никелевой основе с позиции изменения энергии когезии границ зёрен. В основу положена теория баланса энергии границы зерна и энергии поверхности. Методами дифракции обратных электронов, термического травления и световой интерферометрии оценены анизотропия и изменение энергетических свойств в деградационной зоне образования трещины на границах зёрен в зависимости от кристаллографической ориентации. Оценено влияние зернограничной сегрегации (адсорбции) атомов серы и кислорода на энергию когезии границы зерна. Методом оже-спектрометрии определены концентрации S и O на поверхности трещины в деградационной зоне провала пластичности и их влияние на расчётные значения энергии когезии."
+	},
+	"keywords": {
+		"ua": "межа зерна, тріщини падіння пластичности, енергія сеґреґації, енергія когезії, адсорбція, кристалографічна орієнтація, Оже-спектрометрія",
+		"en": "grain boundary, ductility dip cracks, segregation energy, cohesive energy, adsorption, crystallographic orientation, Auger electron spectrometry (AES)",
+		"ru": "граница зерна, трещины падения пластичности, энергия сегрегации, энергия когезии, адсорбция, кристаллографическая ориентация, оже-спектрометрия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "К. А. Ющенко", "en": "K. A. Yushchenko", "ru": "К. А. Ющенко"},
+			"OID": [10]
+		},
+		{
+			"AID": {"ua": "А. В. Звягінцева", "en": "A. V. Zviagintsevа", "ru": "А. В. Звягинцева"},
+			"OID": [10]
+		},
+		{
+			"AID": {"ua": "Г. Б. Беляєв", "en": "G. B. Belyaev", "ru": "Г. Б. Беляев"},
+			"OID": [10]
+		},
+		{
+			"AID": {"ua": "М. О. Червяков", "en": "M. O. Chervyakov", "ru": "Н. О. Червяков"},
+			"OID": [10]
+		},
+		{
+			"AID": {"ua": "І. Р. Волосатов", "en": "I. R. Volosatov", "ru": "И. Р. Волосатов"},
+			"OID": [10]
+		},
+		{
+			"AID": {"ua": "М. Ю. Каховський", "en": "M. Yu. Kakhovskyi", "ru": "Н. Ю. Каховский"},
+			"OID": [10]
+		},
+		{
+			"AID": {"ua": "Ю. В. Олійник", "en": "Yu. V. Oliynyk", "ru": "Ю. В. Олейник"},
+			"OID": [10]
+		}
+	],
+	"references": {
+		"count": 16,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Destructive Tests on Welds in Metallic Materials. Hot Cracking Tests for Weldments. Arc Welding Processes. Part 1: General, ISO 17641-1:2004.",
+				"tr":  "Destructive Tests on Welds in Metallic Materials. Hot Cracking Tests for Weldments. Arc Welding Processes. Part 1: General, ISO 17641-1:2004."
+			},
+			{
+				"doi": "10.1007/978-3-319-28434-7",
+				"or":  "T. Boellinghaus, Cracking Phenomena in Welds IV (Springer: 2016), p. 512.",
+				"tr":  "T. Boellinghaus, Cracking Phenomena in Welds IV (Springer: 2016), p. 512."
+			},
+			{
+				"doi": "10.1016/j.msea.2012.11.106",
+				"or":  "S. Mahalingam, P. E. J. Flewitt, and J. F. Knott, Mater. Sci. Eng. A, 564: 342 (2013).",
+				"tr":  "S. Mahalingam, P. E. J. Flewitt, and J. F. Knott, Mater. Sci. Eng. A, 564: 342 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Watanabe, Res. Mechanica, 11: 47 (1984).",
+				"tr":  "T. Watanabe, Res. Mechanica, 11: 47 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "B. S. Bokshtein and A. B. Yaroslavtsev, Diffuziya Atomov i Ionov v Tverdykh Telakh [Diffusion of Atoms and Ions in Solids] (Мoscow: MISiS: 2005), p. 382 (in Russian).",
+				"tr":  "B. S. Bokshtein and A. B. Yaroslavtsev, Diffuziya Atomov i Ionov v Tverdykh Telakh [Diffusion of Atoms and Ions in Solids] (Moscow: MISiS: 2005), p. 382 (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2010.06.040",
+				"or":  "E. A. Holm, D. L. Olmsted, and S. M. Foiles, Scr. Mater., 63: 905 (2010).",
+				"tr":  "E. A. Holm, D. L. Olmsted, and S. M. Foiles, Scr. Mater., 63: 905 (2010)."
+			},
+			{
+				"doi": "10.1016/0001-6160(87)90127-1",
+				"or":  "D. H. Lassila and H. K. Birnbaum, Acta Metall. Mater., 35: 1815 (1987).",
+				"tr":  "D. H. Lassila and H. K. Birnbaum, Acta Metall. Mater., 35: 1815 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "K. A. Yushchenko, V. S. Savchenko, and N. O. Chervyakov, Avtomaticheskaya Svarka, 5: 10 (2010) (in Russian).",
+				"tr":  "K. A. Yushchenko, V. S. Savchenko, and N. O. Chervyakov, Avtomaticheskaya Svarka, 5: 10 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Saida and K. Nishimoto, International Symposium on the Ageing Management & Maintenance of Nuclear Power Plants (ISaG2010), 03: 207 (2011).",
+				"tr":  "K. Saida and K. Nishimoto, International Symposium on the Ageing Management & Maintenance of Nuclear Power Plants (ISaG2010), 03: 207 (2011)."
+			},
+			{
+				"doi": "10.1016/j.susc.2008.05.017",
+				"or":  "F. Christien and R. Le Gall, Surface Science, 602: 2463 (2008).",
+				"tr":  "F. Christien and R. Le Gall, Surface Science, 602: 2463 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "K. A. Yushchenko, V. S. Savchenko, A. V. Zvyagintseva, N. O. Chervyakov, and V. Yu. Zavidonov, Nadіynіst’ і Dovgovіchnіst’ Mashyn і Sporud, 36: 36 (2012) (in Ukrainian).",
+				"tr":  "K. A. Yushchenko, V. S. Savchenko, A. V. Zvyagintseva, N. O. Chervyakov, and V. Yu. Zavidonov, Nadiynist' i Dovgovichnist' Mashyn i Sporud, 36: 36 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1098/rspa.1948.0057",
+				"or":  "B. Chalmers, R. King, and R. Shuttleworth, Proc. Roy. Soc. A, 193: 465 (1948).",
+				"tr":  "B. Chalmers, R. King, and R. Shuttleworth, Proc. Roy. Soc. A, 193: 465 (1948)."
+			},
+			{
+				"doi": "",
+				"or":  "G. B. Beliaev, I. R. Volosatov, and M. Yu. Kakhovskyi, Ukrainian Journal of Mechanical Engineering and Material Science, 1, No. 1: 113 (2015).",
+				"tr":  "G. B. Beliaev, I. R. Volosatov, and M. Yu. Kakhovskyi, Ukrainian Journal of Mechanical Engineering and Material Science, 1, No. 1: 113 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "H. G. Van Bueren, Imperfections in Crystals (Amsterdam: North-Holland Publishing Company: 1960).",
+				"tr":  "H. G. Van Bueren, Imperfections in Crystals (Amsterdam: North-Holland Publishing Company: 1960)."
+			},
+			{
+				"doi": "10.1016/0921-5093(89)90372-9",
+				"or":  "J. R. Rice and J.-S. Wang, Mater. Sci. Eng. A, 107: 23 (1989).",
+				"tr":  "J. R. Rice and J.-S. Wang, Mater. Sci. Eng. A, 107: 23 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Ghani, Residual Stresses and Heat Treatments for Metallic Welded Components (Dublin City University School of Mechanical and Manufacturing Engineering: 1994), p. 265.",
+				"tr":  "A. Ghani, Residual Stresses and Heat Treatments for Metallic Welded Components (Dublin City University School of Mechanical and Manufacturing Engineering: 1994), p. 265."
+			}
+		]
+	}
+}

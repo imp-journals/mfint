@@ -1,0 +1,145 @@
+{
+	"_id":    "MFiNT.39.09.1183",
+	"year":   2017,
+	"volume": 39,
+	"issue":  9,
+	"pages":  [1183,1196],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["13.03.2017"],
+	"PACS":   "62.20.Qp, 68.35.Ct, 68.35.Dv, 68.35.Fx, 68.35.Gy, 68.37.Hk, 68.55.J-, 81.65.Lp",
+	"title":   {
+		"ua": "Вплив хеміко-термічного оброблення на топографію поверхні титану",
+		"en": "Influence of Thermochemical Treatment on the Surface Topography of Titanium",
+		"ru": "Влияние химико-термической обработки на топографию поверхности титана"
+	},
+	"abstract": {
+		"ua": "Проаналізовано вплив хеміко-термічного оброблення (азотування та борування) на топографію поверхні технічно чистого титану Grade 2. Встановлено, що під час термодифузійного насичення азотом або бором за температури у 750°С на поверхні формується однофазна нітридна (Ti$_2$N) або боридна (TiB) плівки. Зі збільшенням температури насичення до 900°С сформована поверхнева плівка стає двофазною (TiN + Ti$_2$N або TiB$_2$ + TiB). Встановлено, що, незалежно від способу хеміко-термічного оброблення (азотування, борування), шерсткість поверхні титану Grade 2 підвищується. Проте комбінація висотних, крокових і додаткових (асиметрія, ексцес) параметрів шерсткости поверхні титану вигідно виділяє борування порівняно з азотуванням.",
+		"en": "Influence of the thermochemical treatment (nitriding and boriding) on the surface topography of the Grade 2 commercially pure titanium is analysed. As established, the single-phase nitride (Ti$_2$N) or boride (TiB) films are formed on the surface during thermodiffusive saturation with nitrogen or boron at the temperature of 750°C. With increasing saturation temperature to 900°C, the formed surface film becomes a two-phase (TiN + Ti$_2$N or TiB$_2$ + TiB) one. As found, a surface roughness of the Grade 2 titanium increases, regardless of thermochemical treatment (nitriding, boriding). However, the combination of the height, spacing and additional (skewness, kurtosis) roughness parameters of a titanium surface favourably singles out boriding compared with nitriding.",
+		"ru": "Проанализировано влияние химико-термической обработки (азотирования и борирования) на топографию поверхности технически чистого титана Grade 2. Установлено, что во время термодиффузионного насыщения азотом или бором при температуре 750°C на поверхности формируется однофазная нитридная (Ti$_2$N) или боридная (TiB) плёнки. С увеличением температуры насыщения до 900°C сформированная поверхностная плёнка становится двухфазной (TiN + Ti$_2$N или TiB$_2$ + TiB). Установлено, что независимо от способа химико-термической обработки (азотирования, борирования) шероховатость поверхности титана Grade 2 повышается. Однако комбинация высотных, шаговых и дополнительных (асимметрия, эксцесс) параметров шероховатости поверхности титана выгодно выделяет борирование по сравнению с азотированием."
+	},
+	"keywords": {
+		"ua": "титан, азотування, борування, структурно-фазовий стан, мікротвердість, топографія поверхні, шерсткість",
+		"en": "titanium, nitriding, boriding, phase-structural state, microhardness, surface topography, roughness",
+		"ru": "титан, азотирование, борирование, структурно-фазовое состояние, микротвёрдость, топография поверхности, шероховатость"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. М. Погрелюк", "en": "I. M. Pohrelyuk", "ru": "И. Н. Погрелюк"},
+			"OID": [6]
+		},
+		{
+			"AID": {"ua": "С. М. Лаврись", "en": "S. M. Lavrys", "ru": "C. М. Лаврись"},
+			"OID": [6]
+		},
+		{
+			"AID": {"ua": "І. В. Стасишин", "en": "I. V. Stasyshyn", "ru": "И. В. Стасишин"},
+			"OID": [6]
+		},
+		{
+			"AID": {"ua": "О. В. Пеньковий", "en": "O. V. Penkovyi", "ru": "О. В. Пеньковой"},
+			"OID": [204]
+		}
+	],
+	"references": {
+		"count": 19,
+		"list":  [
+			{
+				"doi": "10.1002/3527602119",
+				"or":  "C. Leyens and M. Peters, Titanium and Titanium Alloys: Fundamentals and Applications (Weinheim: Wiley-VCH: 2003).",
+				"tr":  "C. Leyens and M. Peters, Titanium and Titanium Alloys: Fundamentals and Applications (Weinheim: Wiley-VCH: 2003)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Н. Петрунько, Ю. Г. Олесов, В. А. Дрозденко, Титан в новой технике (Москва: Металлургия: 1979).",
+				"tr":  "A. N. Petrun'ko, Yu. G. Olesov, and V. A. Drozdenko, Titan v Novoy Tekhnike (Moscow: Metallurgiya: 1979) (in Russian)."
+			},
+			{
+				"doi": "10.1007/978-3-642-56486-4",
+				"or":  "D. M. Brunette, P. Tengvall, М. Textor, and P. Thomsen, Titanium in Medicine (Berlin: Springer: 2001).",
+				"tr":  "D. M. Brunette, P. Tengvall, M. Textor, and P. Thomsen, Titanium in Medicine (Berlin: Springer: 2001)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Богуслаев, Ал. А. Олейник, Ан. А. Олейник, Д. В. Павленко, С. А. Субботин, Прогрессивные технологии моделирования, оптимизации и интеллектуальной автоматизации этапов жизненного цикла авиационных двигателей (Запорожье: Мотор Сич: 2009).",
+				"tr":  "A. V. Boguslaev, Al. A. Oleinik, An. A. Oleinik, D. V. Pavlenko, and S. A. Subbotin, Progressivnye Tekhnologii Modelirovaniya, Optimizatsii i Intellektual'noy Avtomatizatsii Etapov Zhiznennogo Tsikla Aviatsionnykh Dvigateley (Zaporozhye: Motor Sich: 2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Ф. Аксенов, И. Е. Полищук, Э. А. Кульгавый, А. С. Синьковский, Трение и износ, 3, № 3: 422 (1982).",
+				"tr":  "A. F. Aksenov, I. E. Polishchuk, E. A. Kul’gavyy, and A. S. Sin’kovskiy, Trenie i Iznos, 3, № 3: 422 (1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Федірко, І. М. Погрелюк, Азотування титану та його сплавів (Київ: Наукова думка: 1995).",
+				"tr":  "V. M. Fedirko and I. M. Pohreliuk, Azotuvannya Tytanu ta Yogo Splaviv (Kyiv: Naukova Dumka: 1995) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1007/s11661-002-0336-6",
+				"or":  "S. Aich and K. S. Ravi Chandran, Metall. Mater. Trans. A, 33, Iss. 11: 3489 (2002).",
+				"tr":  "S. Aich and K. S. Ravi Chandran, Metall. Mater. Trans. A, 33, Iss. 11: 3489 (2002)."
+			},
+			{
+				"doi": "10.15407/mfint.36.08.1079",
+				"or":  "O. Tkachuk, Ya. Matychak, I. Pohrelyuk, and V. Fedirko, Металлофиз. новейшие технол., 36, № 8: 1079 (2014).",
+				"tr":  "O. Tkachuk, Ya. Matychak, I. Pohrelyuk, and V. Fedirko, Metallofiz. Noveishie Tekhnol., 36, No. 8: 1079 (2014)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2008.06.155",
+				"or":  "W. Sha, H. Ali, and X. Wu, Surf. Coat. Technol., 202, Iss. 24: 5832 (2008).",
+				"tr":  "W. Sha, H. Ali, and X. Wu, Surf. Coat. Technol., 202, Iss. 24: 5832 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.59.15033",
+				"or":  "M. Mizuno, I. Tanaka, and H. Adachi, Phys. Rev. B: Condens. Matter, 59, Iss. 23: 15033 (1999).",
+				"tr":  "M. Mizuno, I. Tanaka, and H. Adachi, Phys. Rev. B: Condens. Matter, 59, Iss. 23: 15033 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Суслов, Инженерный журнал, № 1: 6 (2000).",
+				"tr":  "A. G. Suslov, Inzhenernyy Zhurnal, No. 1: 6 (2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "І. М. Погрелюк, Х. Б. Василів, В. М. Федірко, О. В. Самборський, Фіз.-хім. механіка матеріалів, № 3: 57 (2010).",
+				"tr":  "I. M. Pohreliuk, Kh. B. Vasyliv, V. M. Fedirko, and O. V. Samborskyi, Fiz.-Khim. Mekhanika Materialiv, No. 3: 57 (2010) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Алиев, В. П. Булгаков, Б. С. Приходько, Вестник Астраханского государственного технического университета, № 1: 8 (2004).",
+				"tr":  "A. A. Aliev, V. P. Bulgakov, and B. S. Prikhod'ko, Vestnik Astrakhanskogo Gosudarstvennogo Tekhnicheskogo Universiteta, No. 1: 8 (2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Порошин, Основы комплексного контроля топографии поверхности деталей (Москва: Машиностроение: 2007).",
+				"tr":  "V. V. Poroshin, Osnovy Kompleksnogo Kontrolya Topografii Poverkhnosti Detaley (Moscow: Mashinostroenie: 2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. С. Дьяченко, И. В. Пономаренко, Прогресивні технології і системи машинобудування, 47, № 1: 128 (2014).",
+				"tr":  "S. S. Diachenko and I. V. Ponomarenko, Progresyvni Tekhnologii i Systemy Mashynobuduvannya, 47, No. 1: 128 (2014) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1007/s11771-012-0985-6",
+				"or":  "J. Kim, E. Lim, and Y. Jung, J. Cent. South Univ., No. 1: 155 (2012).",
+				"tr":  "J. Kim, E. Lim, and Y. Jung, J. Cent. South Univ., No. 1: 155 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Федирко, И. Н. Погрелюк, Титан, № 3: 31 (2011).",
+				"tr":  "V. N. Fedirko and I. N. Pogrelyuk, Titan, No. 3: 31 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "І. М. Погрелюк, В. М. Федірко, О. В. Самборський, Наукові нотатки, № 31: 265 (2011).",
+				"tr":  "I. M. Pohreliuk, V. M. Fedirko, and O. V. Samborskyi, Naukovi Notatky, No. 31: 265 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/j.optlaseng.2012.06.011",
+				"or":  "L. I. Muravsky, A. B. Kmet’, and T. I. Voronyak, Opt. Lasers Eng., 50, Iss. 11: 1508 (2012).",
+				"tr":  "L. I. Muravsky, A. B. Kmet', and T. I. Voronyak, Opt. Lasers Eng., 50, Iss. 11: 1508 (2012)."
+			}
+		]
+	}
+}

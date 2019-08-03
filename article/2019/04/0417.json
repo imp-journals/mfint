@@ -1,0 +1,165 @@
+{
+	"_id":    "MFiNT.41.04.0417",
+	"year":   2019,
+	"volume": 41,
+	"issue":  4,
+	"pages":  [417,425],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["16.11.2018"],
+	"PACS":   "42.70.Hj, 74.25.N-, 74.45.+c, 74.50.+r, 74.81.Fa, 85.25.Am, 85.25.Dq",
+	"title":   {
+		"ua": "Фазова синхронізація у системі паралельних нанорозмірних джозефсонівських контактів в зовнішньому високочастотному полі",
+		"en": "Phase Synchronization in a System of Parallel Connected Nano-Sized Josephson Contacts by External High-Frequency Field",
+		"ru": "Фазовая синхронизация в системе параллельных наноразмерных джозефсоновских контактов во внешнем высокочастотном поле"
+	},
+	"abstract": {
+		"ua": "Показано принципову можливість фазової синхронізації у системі паралельно з’єднаних нанорозмірних джозефсонівських контактів у нестаціонарному режимі за допомогою зовнішнього високочастотного електромагнітного поля. Знайдено умови, що накладаються на амплітуду і частоту зовнішнього поля та забезпечують виникнення синхронізованого режиму генерації електромагнітного випромінювання в такій системі джозефсонівських осциляторів.",
+		"en": "The principal possibility of phase synchronization in a system of parallel-connected nanoscale Josephson contacts in a non-stationary mode due to external high-frequency electromagnetic field is shown. The conditions imposed on the amplitude and frequency of the external field are found for the occurrence of a synchronized electromagnetic field generation in such system of Josephson oscillators.",
+		"ru": "Показана принципиальная возможность фазовой синхронизации в системе параллельно соединённых наноразмерных джозефсоновских контактов в нестационарном режиме с помощью внешнего высокочастотного электромагнитного поля. Найдены накладываемые на амплитуду и частоту внешнего поля условия, обеспечивающие возникновение синхронизированного режима генерации электромагнитного излучения в такой системе джозефсоновских осцилляторов."
+	},
+	"keywords": {
+		"ua": "слабкозв’язані надпровідники, макроскопічна квантова когерентність, критичний струм, ефект Джозефсона, джозефсонівська генерація, фазова синхронізація",
+		"en": "weakly coupled superconductors, macroscopic quantum coherence, critical current, Josephson effect, Josephson generation, phase synchronization",
+		"ru": "слабосвязанные сверхпроводники, макроскопическая квантовая когерентность, критический ток, эффект Джозефсона, джозефсоновская генерация, фазовая синхронизация"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. Л. Касаткін", "en": "O. L. Kasatkin", "ru": "А. Л. Касаткин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. П. Шаповалов", "en": "A. P. Shapovalov", "ru": "А. П. Шаповалов"},
+			"OID": [12]
+		},
+		{
+			"AID": {"ua": "В. Є. Шатернік", "en": "V. E. Shaternik", "ru": "В. Е. Шатерник"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. І. Футимський", "en": "S. I. Futimskii", "ru": "С. И. Футимский"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 23,
+		"list":  [
+			{
+				"doi": "10.1002/352760278X",
+				"or":  "А. Бароне, Дж. Патерно, Эффект Джозефсона (Москва: Мир: 1984).",
+				"tr":  "A. Barone and G. Paterno, Physics and Applications of the Josephson Effect (John Willey & Sons, Inc.: 1982)."
+			},
+			{
+				"doi": "",
+				"or":  "К. К. Лихарев, Введение в динамику джозефсоновских переходов (Москва: Наука: 1985).",
+				"tr":  "K. K. Likharev, Vvedenie v Dinamiku Dzhozephsonovskikh Perekhodov [Introduction to the Josephson Junctions Dynamics] (Moscow: Nauka: 1985) (in Russian)."
+			},
+			{
+				"doi": "10.1109/77.80745",
+				"or":  "K. K. Likharev and V. K. Semenov, IEEE Trans. Appl. Supercond., 1: 3 (1991).",
+				"tr":  "K. K. Likharev and V. K. Semenov, IEEE Trans. Appl. Supercond., 1: 3 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Н. Омельянчук, Е. В. Ильичев, С. Н. Шевченко, Квантовые когерентные явления в джозефсоновских кубитах (Київ: Наукова думка: 2013).",
+				"tr":  "A. N. Omel'yanchouk, E. V. Il'yichev, and S. N. Shevchenko, Kvantovye Kogerentnye Yavleniya v Dzhosefsonovskikh Kubitakh [Quantum Coherence Phenomena in Josephson Qubits (Kiev: Naukova Dumka: 2013)."
+			},
+			{
+				"doi": "10.1063/1.4813536",
+				"or":  "T. M. Benseman, K. E. Gray, A. E. Koshelev, W. K. Kwok, U. Welp, H. Minami, K. Kadowaki, and T. Yamamoto, Appl. Phys. Lett., 103: 022602 (2013).",
+				"tr":  "T. M. Benseman, K. E. Gray, A. E. Koshelev, W. K. Kwok, U. Welp, H. Minami, K. Kadowaki, and T. Yamamoto, Appl. Phys. Lett., 103: 022602 (2013)."
+			},
+			{
+				"doi": "10.1038/s41467-017-01888-4",
+				"or":  "E. A. Borodianskyi and V. M. Krasnov, Nat. Commun., 8, Article number 1742 (2017).",
+				"tr":  "E. A. Borodianskyi and V. M. Krasnov, Nat. Commun., 8, Article number 1742 (2017)."
+			},
+			{
+				"doi": "10.1134/S1063776112030144",
+				"or":  "А. Л. Гудков, М. Ю. Куприянов, А. Н. Самусь, ЖЭТФ, 141: 939 (2012).",
+				"tr":  "A. L. Gudkov, M. Y. Kupriyanov, and A. N. Samus', J. Exp. Theor. Phys., 114: 818 (2012)."
+			},
+			{
+				"doi": "10.1063/1.4995640",
+				"or":  "V. E. Shaternik, A. P. Shapovalov, and O. Yu. Suvorov, Low Temp. Phys., 43: 877 (2017).",
+				"tr":  "V. E. Shaternik, A. P. Shapovalov, and O. Yu. Suvorov, Low Temp. Phys., 43: 877 (2017)."
+			},
+			{
+				"doi": "10.1016/0370-1573(84)90002-4",
+				"or":  "A. K. Jain, K. K. Likharev, J. E. Lukens, and J. E. Sauvageau, Phys. Reports, 109: 309 (1984).",
+				"tr":  "A. K. Jain, K. K. Likharev, J. E. Lukens, and J. E. Sauvageau, Phys. Reports, 109: 309 (1984)."
+			},
+			{
+				"doi": "10.1063/1.99059",
+				"or":  "P. Hadley, M. R. Beasly, and K. Wiesenfeld, Appl. Phys. Lett., 52: 1619 (1988).",
+				"tr":  "P. Hadley, M. R. Beasly, and K. Wiesenfeld, Appl. Phys. Lett., 52: 1619 (1988)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.47.967",
+				"or":  "L. L. Sohn, M. S. Rzchowski, J. U. Free, and M. Tinkham, Phys. Rev. B, 47: 967 (1993).",
+				"tr":  "L. L. Sohn, M. S. Rzchowski, J. U. Free, and M. Tinkham, Phys. Rev. B, 47: 967 (1993)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.47.975",
+				"or":  "L. L. Sohn, M. T. Tuominen, M. S. Rzchowski, J. U. Free, and M. Tinkham, Phys. Rev. B, 47: 975 (1993).",
+				"tr":  "L. L. Sohn, M. T. Tuominen, M. S. Rzchowski, J. U. Free, and M. Tinkham, Phys. Rev. B, 47: 975 (1993)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.56.8335",
+				"or":  "J. K. Harbaugh and D. Stroud, Phys. Rev. B, 56: 8335 (1997).",
+				"tr":  "J. K. Harbaugh and D. Stroud, Phys. Rev. B, 56: 8335 (1997)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.61.2513",
+				"or":  "G. Filatrella, N. F. Pedersen, and K. Wiesenfeld, Phys. Rev. E, 61: 2513 (2000).",
+				"tr":  "G. Filatrella, N. F. Pedersen, and K. Wiesenfeld, Phys. Rev. E, 61: 2513 (2000)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.71.016215",
+				"or":  "B. R. Trees, V. Saranathan, and D. Stroud, Phys. Rev. E, 71: 016215 (2005).",
+				"tr":  "B. R. Trees, V. Saranathan, and D. Stroud, Phys. Rev. E, 71: 016215 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.73.214516",
+				"or":  "D. Chevriaux, R. Khomeriki, and J. Leon, Phys. Rev. B, 73: 214516 (2006).",
+				"tr":  "D. Chevriaux, R. Khomeriki, and J. Leon, Phys. Rev. B, 73: 214516 (2006)."
+			},
+			{
+				"doi": "10.1063/1.2938523",
+				"or":  "R. N. Chitra, and V. C. Kuriakose, CHAOS, 18: 023129 (2008).",
+				"tr":  "R. N. Chitra, and V. C. Kuriakose, CHAOS, 18: 023129 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.67.026216",
+				"or":  "B. C. Daniels, S. T. M. Dissanayake, and B. R. Trees, Phys. Rev. E, 67: 026216 (2003).",
+				"tr":  "B. C. Daniels, S. T. M. Dissanayake, and B. R. Trees, Phys. Rev. E, 67: 026216 (2003)."
+			},
+			{
+				"doi": "10.1063/1.4927292",
+				"or":  "J. Hindes and C. R. Myers, CHAOS, 25: 073119 (2015).",
+				"tr":  "J. Hindes and C. R. Myers, CHAOS, 25: 073119 (2015)."
+			},
+			{
+				"doi": "10.1103/PhysRevApplied.9.054032",
+				"or":  "M. A. Galin, E. A. Borodyanskii, V. V. Kurin, L. A. Shershevski, N. K. Vdovicheva, V. M. Krasnov, and A. M. Klushin, Phys. Rev. Applied, 9: 054032 (2018).",
+				"tr":  "M. A. Galin, E. A. Borodyanskii, V. V. Kurin, L. A. Shershevski, N. K. Vdovicheva, V. M. Krasnov, and A. M. Klushin, Phys. Rev. Applied, 9: 054032 (2018)."
+			},
+			{
+				"doi": "10.1109/TASC.2016.2636255",
+				"or":  "V. E. Shaternik, A. P. Shapovalov, T. A. Prikhna, O. Y. Suvorov, M. A. Skorik, V. I. Bondarchuk, and V. E. Moshchil, IEEE Trans. Appl. Supercond., 27, No. 4: 1800507 (2017).",
+				"tr":  "V. E. Shaternik, A. P. Shapovalov, T. A. Prikhna, O. Y. Suvorov, M. A. Skorik, V. I. Bondarchuk, and V. E. Moshchil, IEEE Trans. Appl. Supercond., 27, No. 4: 1800507 (2017)."
+			},
+			{
+				"doi": "10.1142/9789812799005",
+				"or":  "Henry D. I. Abarbanel, M. I. Rabinovich, and M. M. Sushchik, Introduction to Nonlinear Dynamics for Physicists (World Scientific Publishing Co. Pte. Ltd.:1993).",
+				"tr":  "Henry D. I. Abarbanel, M. I. Rabinovich, and M. M. Sushchik, Introduction to Nonlinear Dynamics for Physicists (World Scientific Publishing Co. Pte. Ltd.:1993)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.58.7198",
+				"or":  "G. V. Osipov and M. M. Sushchik, Phys. Rev. E, 58: 7198 (1998).",
+				"tr":  "G. V. Osipov and M. M. Sushchik, Phys. Rev. E, 58: 7198 (1998)."
+			}
+		]
+	}
+}

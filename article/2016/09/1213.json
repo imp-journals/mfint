@@ -1,0 +1,183 @@
+{
+	"_id":    "MFiNT.38.09.1213",
+	"year":   2016,
+	"volume": 38,
+	"issue":  9,
+	"pages":  [1213,1231],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["27.07.2016"],
+	"PACS":   "61.72.Cc, 61.72.J-, 61.72.Mm, 61.72.sd, 66.30.jp, 82.40.-g, 82.65.+r, 88.30.rd",
+	"title":   {
+		"ua": "Фізико-технологічна аналіза наводнення титану у різних станах",
+		"en": "The Physicotechnological Analysis of Hydrogen Saturation of the Titanium Metal in Different States",
+		"ru": "Физико-технологический анализ наводораживания титана в различных состояниях"
+	},
+	"abstract": {
+		"ua": "Здійснено систематичну фізико-технологічну аналізу основних етапів наводнення металів (Me) у газовому середовищі. Вперше указано на подвійну роль оксидної плівки на поверхні металу. З одного боку, вона створює активні комплекси типу метал—Оксиґенова вакансія (Ti$^{+3}$—V$_{0}$), що є центрами дисоціяції молекул H$_{2}$, і при товщині оксиду $d \\leq 0,45$ мкм уможливлює проникати атомам Н у Me. З другого боку, при товщині $d \\geq 0,5—1,0$ мкм вона сильно перешкоджає проникненню Н у об’єм Me. Спрямовано значну увагу на час інкубаційного періоду $\\tau_{інк}$ як наслідок впливу багатьох параметрів і статистичних умов досліду. Результати проілюстровано на широкому спектрі різних вихідних станів і дисперсности титану – від компактних дисків і шайб до стружки і порошку. В стружці з механічним і тепловим контактом процес наводнення є подібним до такого в компактних зразках, проте з пониженими залишковими напруженнями (за кімнатної температури). У насипному порошку через наявні капіляри коефіцієнт дифузії D$_{H}$ зменшується в 10 разів порівняно з $\\alpha$-Ti.",
+		"en": "A systematic study is performed for physical and technological analysis of the basic steps of hydrogen saturation of metals in gaseous environment. For the first time, it is pointed out onto the dual role of oxide film on the metal surface. On the one hand, it generates active metal—oxygen vacancy complexes (Ti$^{+3}$—V$_{0}$) as centres of dissociation of H$_{2}$ molecules and, at oxide thickness $d \\leq 0.45$ $\\mu$m, permits the penetration of H atoms into the metal. On the other hand, at the thickness $d \\geq 0.5—1.0$ $\\mu$m, it strongly hinders a penetration of H into the bulk of the metal. Special attention is payed to the incubation time $\\tau_{inc}$ as a result of influence of numerous parameters and statistical conditions of experiment. The results are illustrated for a broad gamut of the different initial states and degree of dispersion of titanium: from compact discs and washers to chips and powders. In the chips with mechanical and thermal contact of them, the kinetic process of hydrogen saturation is similar to those in compact specimens but with reduced residual stresses (at room temperature). The coefficient of diffusion D$_{H}$ in a filler powder is 10 times less than in $\\alpha$-Ti thanks to capillarity.",
+		"ru": "Проведён систематический физико-технологический анализ основных этапов наводораживания металлов (Me) в газовой среде. Впервые указано на двойную роль оксидной плёнки на поверхности металла. С одной стороны, она создаёт активные комплексы типа металл—вакансия кислорода (Ti$^{+3}$—V$_{0}$), выступающие в роли центров диссоциации молекул H$_{2}$, и при толщине оксида $d \\leq 0,45$ мкм позволяет проникать атомам Н в Me. С другой стороны, при толщине $d \\geq 0,5—1,0$ мкм она сильно препятствует проникновению Н в объём Me. Обращено значительное внимание на время инкубационного периода $\\tau_{инк}$ как результат влияния многих параметров и статистических условий опыта. Результаты проиллюстрированы на широком спектре различных исходных состояний и дисперсности титана – от компактных дисков и шайб до стружки и порошка. В стружке с механическим и тепловым контактом процесс наводораживания похож на таковой в компактных образцах, но со сниженными остаточными напряжениями (при комнатной температуре). У насыпного порошка за счёт капилляров коэффициент диффузии D$_{H}$ уменьшается в 10 раз по сравнению с $\\alpha$-Ti."
+	},
+	"keywords": {
+		"ua": "активні комплекси, окисна плівка, час інкубації, питома поверхня, алотропія",
+		"en": "active centres, oxide film, incubation time, specific surface area, allotropy",
+		"ru": "активные комплексы, оксидная плёнка, время инкубации, удельная поверхность, аллотропия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. А. Школа", "en": "A. A. Shkola", "ru": "А. А. Школа"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 29,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Г. М. Панченков, В. П. Лебедев, Химическая кинетика и катализ (Москва: Химия: 1985).",
+				"tr":  "G. M. Panchenkov and V. P. Lebedev, Khimicheskaya Kinetika i Kataliz [Chemical Kinetics and Catalysis] (Moscow: Khimiya: 1985) (in Russian)."
+			},
+			{
+				"doi": "10.1007/BF01327320",
+				"or":  "Я. И. Френкель, Z. Phys., 26: 117 (1924).",
+				"tr":  "Ya. I. Frenkel, Z. Phys., 26: 117 (1924) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Томас, У. Томас, Гетерогенный катализ (Москва: Мир: 1969) (пер. с англ.).",
+				"tr":  "J. M. Thomas and W. J. Thomas, Heterogennyy Kataliz [Heterogeneous Catalysis] (Moscow: Mir: 1969) (Russian translation)."
+			},
+			{
+				"doi": "10.15407/mfint.36.05.0689",
+				"or":  "А. А. Школа, Металлофиз. новейшие технол., 36, № 5: 689 (2014).",
+				"tr":  "A. A. Shkola, Metallofiz. Noveishie Tekhnol., 36, No. 5: 689 (2014) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Ф. Кобзенко, А. А. Школа, Металлофизика, 11, № 6: 71 (1989).",
+				"tr":  "G. F. Kobzenko and A. A. Shkola, Metallofizika, 11, No. 6: 71 (1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Ф. Кобзенко, А. А. Школа, Завод. лаб., 56, № 7: 41 (1990).",
+				"tr":  "G. F. Kobzenko and A. A. Shkola, Zavod. Lab., 56, No. 7: 41 (1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Иванченко, В. А. Дехтяренко, Т. В. Прядко, Порошковая металлургия, № 5–6: 129 (2013).",
+				"tr":  "V. G. Ivanchenko, V. A. Dekhtyarenko, and T. V. Pryadko, Poroshkovaya Metallurgiya, Nos. 5–6: 129 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Левич, Физико-химическая гидродинамика (Москва: Физ.-мат. лит.: 1959).",
+				"tr":  "V. G. Levich, Fiziko-Khimicheskaya Gidrodinamika [Physical-Chemical Hydrodynamics] (Moscow: Fiz.-Mat. Lit.: 1959) (in Russian)."
+			},
+			{
+				"doi": "10.1149/1.2776800",
+				"or":  "E. A. Gulbransen and K. F. Andrew, J. Electrochem. Soc., 96, No. 6: 364 (1949).",
+				"tr":  "E. A. Gulbransen and K. F. Andrew, J. Electrochem. Soc., 96, No. 6: 364 (1949)."
+			},
+			{
+				"doi": "",
+				"or":  "E. A. Gulbransen and K. F. Andrew, Met. Trans., 185, No. 1: 741 (1949).",
+				"tr":  "E. A. Gulbransen and K. F. Andrew, Met. Trans., 185, No. 1: 741 (1949)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Ревякин, В. А. Резниченко, Титан и его сплавы. Вып. II. Металлургия титана (Москва: Изд.-во АН СССР: 1959).",
+				"tr":  "A. V. Revyakin and V.A. Reznichenko, Titan i Ego Splavy. Vyp. II. Metallurgiya Titana [Titanium and Its Alloys. Iss. II. Metallurgy of Titanium] (Moscow: Izd. AN SSSR: 1959) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Е. Градштейн, Н. Н. Кавтарадзе, Б. В. Нафиков, ЖФХ, XLIII, № 7: 1829 (1969).",
+				"tr":  "A. E. Gradshteyn, N. N. Kavtaradze, and B. V. Nafikov, Zhurn. Fiz. Khim., XLIII, No. 7: 1829 (1969) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0022-3115(81)90566-3",
+				"or":  "Y. Hirooka, M. Miyake, and T. Sano, J. Nucl. Mater., 96, No. 3: 227 (1981).",
+				"tr":  "Y. Hirooka, M. Miyake, and T. Sano, J. Nucl. Mater., 96, No. 3: 227 (1981)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.25.2165",
+				"or":  "J. W. Davenport, G. J. Dienes, and R. A. Johnson, Phys. Rev. B, 25, No. 4: 2165 (1982).",
+				"tr":  "J. W. Davenport, G. J. Dienes, and R. A. Johnson, Phys. Rev. B, 25, No. 4: 2165 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Школа, Особливості поглинання водню полікристалічним титаном та сплавами Ті–Al (Автореф. дис. … канд. техн. наук) (Київ: Інститут металофізики АН України: 1994).",
+				"tr":  "A. A. Shkola, Osoblyvosti Poglynannya Vodnyu Polikrystalichnym Tytanom ta Splavamy Ti–Al (Thesis of Disser. for Cand. Tekhn. Nauk) (Kyiv: Institute for Metal Physics, A.S. of Ukraine: 1994) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "R. J. Wasilewski and G. L. Kehl, Metallurgia, 50, No. 301: 225 (1954).",
+				"tr":  "R. J. Wasilewski and G. L. Kehl, Metallurgia, 50, No. 301: 225 (1954)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Ф. Кобзенко, А. А. Школа, Т. В. Прядко, Металлофиз. новейшие технол., 24, № 12: 1679 (2002).",
+				"tr":  "G. F. Kobzenko, A. A. Shkola, and T. V. Pryadko, Metallofiz. Noveishie Tekhnol., 24, No. 12: 1679 (2002) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.26.6682",
+				"or":  "R. L. Kurtz and V. E. Henrich, Phys. Rev. B, 26, No. 12: 6682 (1982).",
+				"tr":  "R. L. Kurtz and V. E. Henrich, Phys. Rev. B, 26, No. 12: 6682 (1982)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.107.045504",
+				"or":  "H. H. Wu and D. R. Trincle, Phys. Rev. Lett., 107, No. 4: 045504 (2011).",
+				"tr":  "H. H. Wu and D. R. Trincle, Phys. Rev. Lett., 107, No. 4: 045504 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "G. J. Hill, Brit. J. Appl. Phys., Ser. 2, No. 1: 1151 (1968).",
+				"tr":  "G. J. Hill, Brit. J. Appl. Phys., Ser. 2, No. 1: 1151 (1968)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. И. Болтакс, Диффузия и точечные дефекты в полупроводниках (Ленинград: Наука: 1972).",
+				"tr":  "B. I. Boltaks, Diffuziya i Tochechnye Defekty v Poluprovodnikakh [Diffusion and Point Defects in Semiconductors] (Leningrad: Nauka: 1972) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.110.146101",
+				"or":  "H. H. Kristoffersen, J. O. Hansen, U. Martinez, Y. Y. Wie, J. Matthiesen, and R. Streber, Phys. Rev. Lett., 110, No. 14: 146101 (2013).",
+				"tr":  "H. H. Kristoffersen, J. O. Hansen, U. Martinez, Y. Y. Wie, J. Matthiesen, and R. Streber, Phys. Rev. Lett., 110, No. 14: 146101 (2013)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.75.195212",
+				"or":  "N. A. Deskins and M. Dupuis, Phys. Rev. B, 75, No. 23: 195212 (2007).",
+				"tr":  "N. A. Deskins and M. Dupuis, Phys. Rev. B, 75, No. 23: 195212 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "T. B. Flanagan, Proc. of the International Symposium (August 14–19, 1977, Geilo, Norway) (Oxford: Pergamon Press, Ltd.: 1978), p. 135.",
+				"tr":  "T. B. Flanagan, Proc. of the International Symposium (August 14–19, 1977, Geilo, Norway) (Oxford: Pergamon Press, Ltd.: 1978), p. 135."
+			},
+			{
+				"doi": "",
+				"or":  "Х. Випф, Водород в металлах (Ред. Г. Алефельд, И. Фёлькль) (Москва: Мир: 1981), т. 2, с. 327 (пер. с нем.).",
+				"tr":  "H. Wipf, Vodorod v Metallakh [Hydrogen in Metals] (Eds. G. Alefeld and J. Völkl) (Moscow: Mir: 1981), vol. 2, p. 327 (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Новиков, Теория термической обработки металлов (Москва: Металлургия: 1986).",
+				"tr":  "I. I. Novikov, Teoriya Termicheskoy Obrabotki Metallov [Theory of Heat Treatment of Metals] (Moscow: Metallurgiya: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ю. Новиков, Вторичная рекристаллизация (Москва: Металлургия: 1990).",
+				"tr":  "V. Yu. Novikov, Vtorichnaya Rekristallizatsiya [Secondary Recrystallization] (Moscow: Metallurgiya: 1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Школа, Металлофиз. новейшие технол., 23, № 7: 917 (2001).",
+				"tr":  "A. A. Shkola, Metallofiz. Noveishie Tekhnol., 23, No. 7: 917 (2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. И. Левицкий, Сборник научных трудов (Киев: ИПЛ АН УССР: 1987).",
+				"tr":  "N. I. Levickiy, Sbornik Nauchnykh Trudov (Kiev: IPL AN Ukr.SSR: 1987) (in Russian)."
+			}
+		]
+	}
+}

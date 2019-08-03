@@ -1,0 +1,118 @@
+{
+	"_id":    "MFiNT.38.09.1179",
+	"year":   2016,
+	"volume": 38,
+	"issue":  9,
+	"pages":  [1179,1194],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["29.09.2014","14.08.2016"],
+	"PACS":   "07.05.Pj, 68.35.Ct, 68.37.Hk, 68.37.Ps, 68.55.J-, 68.65.Ac, 81.40.Ef",
+	"title":   {
+		"ua": "Вплив відпалу на структуру поверхні плівок Ni$_{2}$MnGa",
+		"en": "Influence of Annealing on Structure of a Surface of Films of Ni$_{2}$MnGa",
+		"ru": "Влияние отжига на структуру поверхности плёнок Ni$_{2}$MnGa"
+	},
+	"abstract": {
+		"ua": "Поверхню плівок Ni$_{2}$MnGa досліджено за допомогою атомно-силової, оптичної та електронної мікроскопій. Розраховано статистичні параметри поверхні плівок. Розроблено алґоритм виділення зерен на зображеннях. Досліджено закономірності впливу відпалу на параметри поверхні плівок.",
+		"en": "Surface of Ni$_{2}$MnGa films is studied using atomic force, optical, and electron microscopies. Statistical parameters of images of films’ surface are calculated. An algorithm for selection of grains in the images is developed. The regularities of the effect of annealing on the parameters of the films’ surface are investigated.",
+		"ru": "Поверхность плёнок Ni$_{2}$MnGa исследована при помощи атомно-силовой, оптической и электронной микроскопий. Рассчитаны статистические параметры изображений поверхности плёнок. Разработан алгоритм выделения зёрен на изображениях. Исследованы закономерности влияния отжига на параметры поверхности плёнок."
+	},
+	"keywords": {
+		"ua": "атомно-силова мікроскопія, оптична мікроскопія, електронна мікроскопія, структура поверхні, відпал",
+		"en": "atomic force microscopy, optical microscopy, electron microscopy, surface structure, annealing",
+		"ru": "атомно-силовая микроскопия, оптическая микроскопия, электронная микроскопия, структура поверхности, отжиг"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. Б. Скирта", "en": "Yu. B. Skirta", "ru": "Ю. Б. Скирта"},
+			"OID": [7]
+		}
+	],
+	"references": {
+		"count": 16,
+		"list":  [
+			{
+				"doi": "10.1063/1.117637",
+				"or":  "K. Ullakko, J. K. Huang, C. Kantner, R. C. O’Handley, and V. V. Kokorin, Appl. Phys. Lett., 69: 1966 (1996).",
+				"tr":  "K. Ullakko, J. K. Huang, C. Kantner, R. C. O'Handley, and V. V. Kokorin, Appl. Phys. Lett., 69: 1966 (1996)."
+			},
+			{
+				"doi": "10.3367/UFNr.0176.200608j.0900",
+				"or":  "В. Д. Бучельников, А. Н. Васильев, В. В. Коледов и др., УФН, 176, № 8: 900 (2006).",
+				"tr":  "V. D. Buchelnikov, A. N. Vasiliev, V. V. Koledov et al., Uspekhi Fizicheskikh Nauk, 176, No. 8: 900 (2006) (in Russian)."
+			},
+			{
+				"doi": "10.3367/UFNr.0173.200306a.0577",
+				"or":  "А. Н. Васильев, В. Д. Бучельников, Т. Такаги, В. В. Ховайло, Э. И. Эстрин, УФН, 173, № 6: 577 (2003).",
+				"tr":  "A. N. Vasiliev, V. D. Buchelnikov, T. Takagi, V. V. Hovaylo, and E. I. Estrin, Uspekhi Fizicheskikh Nauk, 173, No. 6: 577 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Ф. Андреева, Н. Н. Крупа, Е. И. Крысюк и др., Электронное строение и свойства тугоплавких соединений и сплавов, наносистемы и их роль в физическом материаловедении: Труды Института проблем материаловедения им. И. Н. Францевича НАН Украины (Киев: ИПМ НАНУ: 2004), с. 121.",
+				"tr":  "A. F. Andreeva, N. N. Krupa, E. I. Krysyuk et al., Elektronnoe Stroenie i Svoistva Tugoplavkikh Soedineniy i Splavov, Nanosistemy i Ikh Rol' v"
+			},
+			{
+				"doi": "10.1179/174328405X18692",
+				"or":  "S. Guo, Y. Zhang, J. Li, B. Quan, Y. Qi, and X. Wang, J. Mater. Sci. Technol., 21, No. 2: 211 (2005).",
+				"tr":  "S. Guo, Y. Zhang, J. Li, B. Quan, Y. Qi, and X. Wang, J. Mater. Sci. Technol., 21, No. 2: 211 (2005)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2007.12.025",
+				"or":  "S. Besseghini, T. Cavallin, V. Chernenko, E. Villa, V. Lvov, and M. Ohtsuka, Acta Mater., 56: 1797 (2008).",
+				"tr":  "S. Besseghini, T. Cavallin, V. Chernenko, E. Villa, V. Lvov, and M. Ohtsuka, Acta Mater., 56: 1797 (2008)."
+			},
+			{
+				"doi": "10.2320/matertrans.43.861",
+				"or":  "M. Suzuki, M. Ohtsuka, M. Matsumoto, Y. Murakami, D. Shindo, and K. Itagaki, Mater. Transactions, 43, No. 5: 861 (2002).",
+				"tr":  "M. Suzuki, M. Ohtsuka, M. Matsumoto, Y. Murakami, D. Shindo, and K. Itagaki, Mater. Transactions, 43, No. 5: 861 (2002)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2009.06.037",
+				"or":  "F. Bernard, P. Delobelle, C. Rousselot, and L. Hirsinger, Thin Solid Films, 518: 399 (2009).",
+				"tr":  "F. Bernard, P. Delobelle, C. Rousselot, and L. Hirsinger, Thin Solid Films, 518: 399 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Яншин, Г. Калинин, Обработка изображений на языке C для IBM PC (Москва: Мир: 1994).",
+				"tr":  "V. Yanshin and G. Kalinin, Obrabotka Izobrazheniy na Yazyke C dlya IBM PC (Moscow: Mir: 1994) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Модуль обработки изображений ‘Image Analysis P9’: Справочное руководство ttp://www.ntmdt.ru/data/media/files/manuals/Russian/image_analysis_p9_rus_nov12.pdf",
+				"tr":  "Modul' Obrabotki Izobrazheniy 'Image Analysis P9': Spravochnoe Rukovodstvo http://www.ntmdt.ru/data/media/files/manuals/Russian/image_analysis_p9_rus_nov12.pdf"
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Гуляев, Металловедение (Москва: Металлургия: 1986).",
+				"tr":  "A. P. Gulyaev, Metallovedenie (Moscow: Metallurgiya: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Л. Чопра, Электрические явления в тонких плёнках (Москва: Мир: 1972).",
+				"tr":  "K. L. Chopra, Elektricheskie Yavleniya v Tonkikh Plenkakh (Moscow: Mir: 1972) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "І. О. Лисенко, В. О. Харченко, С. В. Кохан, А. В. Дворниченко, Металлофиз. новейшие технол., 35, № 6: 763 (2013).",
+				"tr":  "I. O. Lysenko, V. O. Kharchenko, S. V. Kokhan, and A. V. Dvornichenko, Metallofiz. Noveishie Tekhnol., 35, No. 6: 763 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/j.powtec.2010.05.016",
+				"or":  "V. Gelinas and D. Vidal, Powder Technol., 203: 254 (2010).",
+				"tr":  "V. Gelinas and D. Vidal, Powder Technol., 203: 254 (2010)."
+			},
+			{
+				"doi": "10.1002/sia.2294",
+				"or":  "A. P. Chuklanov, S. A. Ziganshina, and A. A. Bukharaev, Surf. Interface Anal., 36: 679 (2006).",
+				"tr":  "A. P. Chuklanov, S. A. Ziganshina, and A. A. Bukharaev, Surf. Interface Anal., 36: 679 (2006)."
+			},
+			{
+				"doi": "10.2478/s11534-011-0096-2",
+				"or":  "D. Nečas and P. Klapetek, Cent. Eur. J. Phys., 10, No. 1: 181 (2012).",
+				"tr":  "D. Nečas and P. Klapetek, Cent. Eur. J. Phys., 10, No. 1: 181 (2012)."
+			}
+		]
+	}
+}

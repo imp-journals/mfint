@@ -1,0 +1,85 @@
+{
+	"_id":    "MFiNT.36.08.1007",
+	"year":   2014,
+	"volume": 36,
+	"issue":  8,
+	"pages":  [1007,1014],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["19.11.2013","26.11.2013"],
+	"PACS":   "72.25.-b, 73.40.Gk, 74.50.+r, 74.70.Ad, 74.78.-w, 84.71.Mn",
+	"title":   {
+		"ua": "Транспортні властивості надпровідних мікромістків свинцю під дією спін-поляризованої струмової інжекції",
+		"en": "Transport Properties of Superconducting Pb-Microbridges under the Effect of Spin-Polarized Current Injection",
+		"ru": "Транспортные свойства сверхпроводящих микромостиков свинца под действием спин-поляризованной токовой инжекции"
+	},
+	"abstract": {
+		"ua": "Вивчено вплив спін-поляризованої струмової інжекції (СПСІ) на критичний струм і резистивний стан мікромістків свинцю при пропусканні по плівці Pb транспортного струму за відсутности зовнішнього магнетного поля. Виявлено, що СПСІ ефективно впливає на величину критичного струму надпровідних мікромістків Pb. Виявлено ефект підвищення критичного струму надпровідних мікромістків Pb. Встановлено, що СПСІ є зручним зовнішнім чинником, який змінює величину струму відсічки. Встановлено, що динамічний опір ліній проковзування фази при підвищенні рівня СПТІ зростає.",
+		"en": "The influence of spin-polarized current injection (SPСI) on the critical current and the resistive state of Pb microbridges at the passing of transport current through the Pb film is investigated in the absence of an external magnetic field. As found, the SPСI effectively influences on the critical current of superconducting Pb microbridges. The effect of increasing of the critical current of superconducting Pb microbridges is detected. As established, the SPСI is a convenient external parameter, which changes the value of the cut-off current. As ascertained, the dynamical resistance of the phase-slip lines increases with the increase of SPСI level.",
+		"ru": "Изучено влияние спин-поляризованной токовой инжекции (СПТИ) на критический ток и резистивное состояние микромостиков свинца при пропускании по плёнке Pb транспортного тока в отсутствие внешнего магнитного поля. Обнаружено, что СПТИ эффективно влияет на величину критического тока сверхпроводящих микромостиков Pb. Обнаружен эффект повышения критического тока сверхпроводящих микромостиков Pb. Установлено, что СПТИ является удобным внешним параметром, который изменяет величину тока отсечки. Установлено, что динамическое сопротивление линий про- скальзывания фазы при повышении уровня СПТИ растёт."
+	},
+	"keywords": {
+		"ua": "надпровідний мікромісток, критичний струм, спінова поляризація, тунельна інжекція, Гойслерів стоп",
+		"en": "superconducting microbridge, critical current, spin polarization, tunnel injection, Heusler alloy",
+		"ru": "сверхпроводящий микромостик, критический ток, спиновая поляризация, туннельная инжекция, сплав Гейслера"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Е. М. Руденко", "en": "Eh. M. Rudenko", "ru": "Э. М. Руденко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. В. Дякін", "en": "M. V. Dyakin", "ru": "М. В. Дякин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "І. В. Короташ", "en": "I. V. Korotash", "ru": "И. В. Короташ"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. М. Реут", "en": "V. N. Reut", "ru": "В. Н. Реут"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 7,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Э. М. Руденко, И. В. Короташ, Ю. В. Кудрявцев, М. В. Дякин, Д. С. Щипцов, Металлофиз. новейшие технол., 30: 451 (2008).",
+				"tr":  "E. M. Rudenko, I. V. Korotash, Yu. V. Kudryavtsev, M. V. Dyakin, and D. S. Shchiptsov, Metallofiz. Noveishie Tekhnol., 30: 451 (2008) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.66.174429",
+				"or":  "I. Galanakis, P. H. Dederichs, and N. Papanikolaou, Phys. Rev. B, 66: 174429 (2002).",
+				"tr":  "I. Galanakis, P. H. Dederichs, and N. Papanikolaou, Phys. Rev. B, 66: 174429 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "К. К. Лихарев, Изв. ВУЗов. Радиофизика, 14: 909 (1971); К. К. Лихарев, Изв. ВУЗов. Радиофизика, 14: 918 (1971).",
+				"tr":  "K. K. Likharev, Izv. VUZov. Radiofizika, 14: 909 (1971); K. K. Likharev, Izv. VUZov. Radiofizika, 14: 918 (1971) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.4.51",
+				"or":  "B. T. Matthias, V. B. Compton, H. Suhl, and E. Gorenzwitt, Phys. Rev., 115: 1597 (1959); B. T. Matthias and H. Suhl, Phys. Rev. Lett., 4: 51 (1960).",
+				"tr":  "B. T. Matthias, V. B. Compton, H. Suhl, and E. Gorenzwitt, Phys. Rev., 115: 1597 (1959); B. T. Matthias, and H. Suhl, Phys. Rev. Lett., 4: 51 (1960)."
+			},
+			{
+				"doi": "10.1088/0953-2048/4/1/001",
+				"or":  "E. M. Rudenko, I. V. Korotash, I. P. Nevirkovets et al., Supercond. Sci. Technol., 4: 1 (1991).",
+				"tr":  "E. M. Rudenko, I. V. Korotash, I. P. Nevirkovets et al., Supercond. Sci. Technol., 4: 1 (1991)."
+			},
+			{
+				"doi": "10.1007/BF00655865",
+				"or":  "W. J. Skocpol, M. R. Beasley, and M. Tinkham, J. Low Temp. Phys., 16: 145 (1974).",
+				"tr":  "W. J. Skocpol, M. R. Beasley, and M. Tinkham, J. Low Temp. Phys., 16: 145 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Дмитриев, И. В. Золочевский, Физика низких температур, 35: 1187 (2009).",
+				"tr":  "V. M. Dmitriev and I. V. Zolochevskiy, Fizika Nizkikh Temperatur, 35: 1187 (2009) (in Russian)."
+			}
+		]
+	}
+}

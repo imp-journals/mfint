@@ -1,0 +1,129 @@
+{
+	"_id":    "MFiNT.39.02.0177",
+	"year":   2017,
+	"volume": 39,
+	"issue":  2,
+	"pages":  [177,188],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["22.02.2016", "25.01.2017"],
+	"PACS":   "07.07.Df, 68.55.-a, 73.61.-r, 81.05.Je, 82.47.Rs, 83.80.Hj, 85.40.Xx",
+	"title":   {
+		"ua": "Властивості товстих плівок на основі SnO$_{2}$ при використанні контактів, виготовлених з Ni$_{3}$B-паст",
+		"en": "Properties of the SnO$_{2}$-Based Thick Films When Using the Contact Pads Fabricated from Ni$_{3}$B-Paste",
+		"ru": "Свойства толстых плёнок на основе SnO$_{2}$ при использовании контактов, изготовленных из Ni$_{3}$B-паст"
+	},
+	"abstract": {
+		"ua": "Досліджено властивості товстих плівок на основі порошків Sn$_{0,97}$Sb$_{0,03}$O$_{2}$, SnO$_{2}$ та їх сумішей, нанесених на контакти, виготовлені з пасти на основі порошку Ni$_{3}$B. Використовувалися методи рентґенофазової та рентґеноспектральної аналіз, а також електронна мікроскопія. Досліджено вольт-амперні характеристики, концентраційні та температурні залежності електроопору плівок. Встановлено, що використання контактів, виготовлених з Ni$_{3}$B-паст, впливає на вигляд температурних залежностей електроопору плівок.",
+		"en": "Properties of thick films based on the Sn$_{0,97}$Sb$_{0,03}$O$_{2}$ and SnO$_{2}$ powders, and their mixtures deposited on contact pads fabricated from Ni$_{3}$B-powder-based paste are investigated. The X-ray phase and X-ray spectrum analyses as well as electron microscopy are used. Volt-ampere characteristics, concentration and temperature dependences of electrical resistivity of films are determined. As revealed, the use of the contact pads fabricated from Ni$_{3}$B-pastes influences on the form of electrical-resistivity–temperature dependences of films.",
+		"ru": "Исследованы свойства толстых плёнок на основе порошков Sn$_{0,97}$Sb$_{0,03}$O$_{2}$, SnO$_{2}$ и их смесей, нанесённых на контакты, изготовленные из пасты на основе порошка Ni$_{3}$B. Использовались методы рентгенофазового и рентгеноспектрального анализов, а также электронная микроскопия. Исследованы вольт-амперные характеристики, концентрационные и температурные зависимости электросопротивления плёнок. Установлено, что использование контактов, изготовленных из Ni$_{3}$B-паст, оказывает влияние на вид температурных зависимостей электросопротивления плёнок."
+	},
+	"keywords": {
+		"ua": "товста плівка, контакти, діоксид олова, температурна залежність електроопору",
+		"en": "thick film, contact pads, tin dioxide, temperature dependence of electrical resistivity",
+		"ru": "толстая плёнка, контакты, диоксид олова, температурная зависимость электросопротивления"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. Г. Гончар", "en": "A. G. Gonchar", "ru": "А. Г. Гончар"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "В. Є. Шелудько", "en": "V. E. Sheludko", "ru": "В. Е. Шелудько"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "В. В. Кременицький", "en": "V. V. Kremenitsky", "ru": "В. В. Кременицкий"},
+			"OID": [16]
+		},
+		{
+			"AID": {"ua": "М. І. Симан", "en": "M. I. Siman", "ru": "Н. И. Симан"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "Л. І. Фіялка", "en": "L. I. Fiyalka", "ru": "Л. И. Фиялка"},
+			"OID": [2]
+		}
+	],
+	"references": {
+		"count": 15,
+		"list":  [
+			{
+				"doi": "10.1590/S1516-14392006000300009",
+				"or":  "P. R. Bueno and J. A. Varela, Mater. Res., 9, No. 3: 293 (2006).",
+				"tr":  "P. R. Bueno and J. A. Varela, Mater. Res., 9, No. 3: 293 (2006)."
+			},
+			{
+				"doi": "10.1016/j.talanta.2005.08.015",
+				"or":  "S. M. A. Durrani, Talanta, 68, Iss. 5: 1732 (2006).",
+				"tr":  "S. M. A. Durrani, Talanta, 68, Iss. 5: 1732 (2006)."
+			},
+			{
+				"doi": "10.1016/S0040-6090(03)00509-1",
+				"or":  "S. Saukko and V. Lantto, Thin Solid Films, 436, No. 1: 137 (2003).",
+				"tr":  "S. Saukko and V. Lantto, Thin Solid Films, 436, No. 1: 137 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "S. J. Mears, Use of Conductor Compositions in Electronic Circuits, Patent No. US8097062 B2 (2012).",
+				"tr":  "S. J. Mears, Use of Conductor Compositions in Electronic Circuits, Patent No. US8097062 B2 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "S. J. Mears, Conductor Compositions and the Use Thereof, Patent No. US7914709 B2 (2011).",
+				"tr":  "S. J. Mears, Conductor Compositions and the Use Thereof, Patent No. US7914709 B2 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. М. Рудь, Е. Я. Тельников, А. К. Марчук, А. Г. Гончар, А. А. Рогозинская, Порошковая металлургия, № 5/6: 142 (2013).",
+				"tr":  "B. M. Rud', E. Ya. Tel'nikov, A. K. Marchuk, A. G. Gonchar, and A. A. Rogozinskaya, Poroshkovaya Metallurgiya, Nos. 5/6: 142 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Е. Дышель, Порошковая металлургия, № 5/6: 94 (2001).",
+				"tr":  "D. E. Dyshel', Poroshkovaya Metallurgiya, Nos. 5/6: 94 (2001) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.progsurf.2005.09.002",
+				"or":  "M. Batzill and U. Diebold, Progr. Surf. Sci., 79, Iss. 2–4: 47 (2005).",
+				"tr":  "M. Batzill and U. Diebold, Progr. Surf. Sci., 79, Iss. 2–4: 47 (2005)."
+			},
+			{
+				"doi": "10.1016/j.snb.2007.04.016",
+				"or":  "M. C. Carotta, M. Benetti, E. Ferrari, A. Giberti, C. Malagu, M. Nogliati, B. Vendemiati, and G. Martinelli, Sensors and Actuators B, 126, Iss. 2: 672 (2007).",
+				"tr":  "M. C. Carotta, M. Benetti, E. Ferrari, A. Giberti, C. Malagu, M. Nogliati, B. Vendemiati, and G. Martinelli, Sensors and Actuators B, 126, Iss. 2: 672 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Y. Borse and A. S. Garde, Sensors and Transducers Journal, 97, Iss. 10: 64 (2008).",
+				"tr":  "R. Y. Borse and A. S. Garde, Sensors and Transducers Journal, 97, Iss. 10: 64 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Гончар, Н. И. Симан, Е. Я. Тельников, Л. И. Фиялка, А. К. Марчук, Тезисы докладов Международной конференции «HighMatTech-2015» (5–8 октября 2015, Киев, Украина), с. 170.",
+				"tr":  "A. G. Gonchar, N. I. Siman, E. Ya. Tel'nikov, L. I. Fiyalka, and A. K. Marchuk, Abstr. Int. Conf. 'HighMatTech-2015' (October 5–8, 2015, Kiev, Ukraine), p. 170 (in Russian)."
+			},
+			{
+				"doi": "10.1016/0039-6028(79)90493-X",
+				"or":  "A. J. Renouprez, P. Fouilloux, J. P. Candy, and J. Tomkinson, Surf. Sci., 83, Iss. 1: 285 (1979).",
+				"tr":  "A. J. Renouprez, P. Fouilloux, J. P. Candy, and J. Tomkinson, Surf. Sci., 83, Iss. 1: 285 (1979)."
+			},
+			{
+				"doi": "10.1039/b921665k",
+				"or":  "R. G. Pavelko, H. Daly, C. Hardacre, A. Vasiliev, and E. Llobet, Phys. Chem. Chem. Phys., 12: 2639 (2010).",
+				"tr":  "R. G. Pavelko, H. Daly, C. Hardacre, A. Vasiliev, and E. Llobet, Phys. Chem. Chem. Phys., 12: 2639 (2010)."
+			},
+			{
+				"doi": "10.1016/j.snb.2006.06.025",
+				"or":  "G. Korotchenkov, I. Blinov, V. Brinzari, and J. R. Stetter, Sensors and Actuators B, 122, Iss. 2: 519 (2007).",
+				"tr":  "G. Korotchenkov, I. Blinov, V. Brinzari, and J. R. Stetter, Sensors and Actuators B, 122, Iss. 2: 519 (2007)."
+			},
+			{
+				"doi": "10.1016/j.snb.2011.06.031",
+				"or":  "M. Li, L. J. Qiao, W. Y. Chu, and A. A. Volinsky, Sensors and Actuators B, 158, Iss. 1: 340 (2011).",
+				"tr":  "M. Li, L. J. Qiao, W. Y. Chu, and A. A. Volinsky, Sensors and Actuators B, 158, Iss. 1: 340 (2011)."
+			}
+		]
+	}
+}

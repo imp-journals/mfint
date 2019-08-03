@@ -1,0 +1,156 @@
+{
+	"_id":    "MFiNT.39.03.0337",
+	"year":   2017,
+	"volume": 39,
+	"issue":  3,
+	"pages":  [337,348],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["16.12.2017"],
+	"PACS":   "61.66.Dk, 61.72.S-, 65.40.gd, 66.30.Fq, 66.30.J-, 68.37.Hk, 81.70.Pg",
+	"title":   {
+		"ua": "Дифузія значених атомів Кобальту у високоентропійних стопах Al$_{x}$FeNiCoCuCr",
+		"en": "Tracer Diffusion of Cobalt in High-Entropy Alloys Al$_{x}$FeNiCoCuCr",
+		"ru": "Диффузия меченых атомов кобальта в высокоэнтро-пийных сплавах Al$_{x}$FeNiCoCuCr"
+	},
+	"abstract": {
+		"ua": "Методою радіоактивних ізотопів досліджено дифузію $^{60}$Cо у литих високоентропійних стопах Al$_{x}$FeNiCoCuCr ($х$ = 1, 1,5, 1,8). Показано, що дифузія Сo у високоентропійних стопах відбувається за вакансійним механізмом, і зі збільшенням концентрації Al значення коефіцієнта дифузії зменшується приблизно втричі (від 3,21$\\cdot$10$^{-16}$ до 0,98$\\cdot$10$^{-16}$ м$^{2}$с$^{-1}$). Уповільнена дифузія Co пояснюється за рахунок відносно великої і неґативної ентальпії змішання.",
+		"en": "The Co diffusion in the as-cast high-entropy alloys Al$_{x}$FeNiCoCuCr ($x$ = 1, 1.5, 1.8) is studied by means of the tracer-diffusion method using the $^{60}$Cо isotope. As shown, the Co diffusion in the high-entropy alloys occurs by means of the vacancy mechanism and the diffusion coefficient decreases approximately in three times (from 3.21$\\cdot$10$^{-16}$ to 0.98$\\cdot$10$^{-16}$ m$^{2}$s$^{-1}$) with the increasing Al concentration. The decelerated Co diffusion is explained in terms of relatively large and negative enthalpy of mixing.",
+		"ru": "Методом радиоактивных изотопов изучена диффузия $^{60}$Cо в литых высокоэнтропийных сплавах Al$_{x}$FeNiCoCuCr ($х$ = 1, 1,5, 1,8). Показано, что диффузия Сo в высокоэнтропийных сплавах происходит по вакансионному механизму, и с увеличением концентрации Al значение коэффициента диффузии уменьшается примерно в три раза (от 3,21$\\cdot$10$^{-16}$ до 0,98$\\cdot$10$^{-16}$ м$^{2}$с$^{-1}$). Замедленная диффузия Co объясняется за счёт относительно большой и отрицательной энтальпии смешения."
+	},
+	"keywords": {
+		"ua": "високоентропійний стоп, коефіцієнт дифузії $^{60}$Cо, структура, енергія активації, температура топлення",
+		"en": "high-entropy alloys, $^{60}$Cо diffusion coefficient, structure, activation energy, melting temperature",
+		"ru": "высокоэнтропийный сплав, коэффициент диффузии $^{60}$Cо, структура, энергия активации, температура плавления"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. М. Надутов", "en": "V. M. Nadutov", "ru": "В. М. Надутов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. Ф. Мазанко", "en": "V. F. Mazanko", "ru": "В. Ф. Мазанко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. Ю. Макаренко", "en": "S. Yu. Makarenko", "ru": "С. Ю. Макаренко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 22,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "S. Ranganathan, Current Sci., 85, No. 5: 1404 (2003).",
+				"tr":  "S. Ranganathan, Current Sci., 85, No. 5: 1404 (2003)."
+			},
+			{
+				"doi": "10.1002/adem.200300567",
+				"or":  "J. W. Yeh, S. K. Chen, S. J. Lin, J. Y. Gan, T. S. Chin, T. T. Shun, C. H. Tsau, and S. Y. Chang, Adv. Eng. Mater., 6: 299 (2004).",
+				"tr":  "J. W. Yeh, S. K. Chen, S. J. Lin, J. Y. Gan, T. S. Chin, T. T. Shun, C. H. Tsau, and S. Y. Chang, Adv. Eng. Mater., 6: 299 (2004)."
+			},
+			{
+				"doi": "10.1007/s11661-005-0283-0",
+				"or":  "C. J. Tong, Y. L. Chen, S. K. Chen, J. W. Yeh, T. T. Shun, C. H. Tsau, S. J. Lin, and S. Y. Chang, Metall. Mater. Trans. A, 36: 881 (2005).",
+				"tr":  "C. J. Tong, Y. L. Chen, S. K. Chen, J. W. Yeh, T. T. Shun, C. H. Tsau, S. J. Lin, and S. Y. Chang, Metall. Mater. Trans. A, 36: 881 (2005)."
+			},
+			{
+				"doi": "10.1007/s11661-005-0218-9",
+				"or":  "C. J. Tong, Y. L. Chen, S. K. Chen, J. W. Yeh, T. T. Shun, C. H. Tsau, S. J. Lin, and S. Y. Chang, Metall. Mater. Trans. A, 36: 1263 (2005).",
+				"tr":  "C. J. Tong, Y. L. Chen, S. K. Chen, J. W. Yeh, T. T. Shun, C. H. Tsau, S. J. Lin, and S. Y. Chang, Metall. Mater. Trans. A, 36: 1263 (2005)."
+			},
+			{
+				"doi": "10.1016/j.wear.2005.12.008",
+				"or":  "J. M. Wu, S. J. Lin, J. W. Yeh, S. K. Chen, Y. S. Huang, and H. C. Chen, WEAR, 261: 513 (2006).",
+				"tr":  "J. M. Wu, S. J. Lin, J. W. Yeh, S. K. Chen, Y. S. Huang, and H. C. Chen, WEAR, 261: 513 (2006)."
+			},
+			{
+				"doi": "10.1016/j.intermet.2011.01.004",
+				"or":  "O. N. Senkov, G. B. Wilks, J. M. Scott, and D. B. Miracle, Intermetallics, 19, Iss. 5: 698 (2011).",
+				"tr":  "O. N. Senkov, G. B. Wilks, J. M. Scott, and D. B. Miracle, Intermetallics, 19, Iss. 5: 698 (2011)."
+			},
+			{
+				"doi": "10.1016/j.mseb.2009.05.024",
+				"or":  "H. P. Chou, Y. S. Chang, S. K. Chen, and J. W. Yeh, Mater. Sci. Eng., 163: 184 (2009).",
+				"tr":  "H. P. Chou, Y. S. Chang, S. K. Chen, and J. W. Yeh, Mater. Sci. Eng., 163: 184 (2009)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2010.10.210",
+				"or":  "Y. F. Kao, S. K. Chen, T. J. Chen, P. C. Chu, J. W. Yeh, and S. J. Lin, J. Alloys Compd., 509: 1607 (2011).",
+				"tr":  "Y. F. Kao, S. K. Chen, T. J. Chen, P. C. Chu, J. W. Yeh, and S. J. Lin, J. Alloys Compd., 509: 1607 (2011)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2012.12.002",
+				"or":  "W. H. Liu, Y. Wu, J. Y. He, T. G. Nieh, and Z. P. Lu, Scr. Mater., 68: 526 (2013).",
+				"tr":  "W. H. Liu, Y. Wu, J. Y. He, T. G. Nieh, and Z. P. Lu, Scr. Mater., 68: 526 (2013)."
+			},
+			{
+				"doi": "10.1149/2.056111jes",
+				"or":  "M.-H. Tsai, C.-W. Wang, C.-W. Tsai, W.-J. Shen, J.-W. Yeh, J.-Y. Gan, and W.-W. Wu, J. Electrochem. Soc., 158: H1161 (2011).",
+				"tr":  "M.-H. Tsai, C.-W. Wang, C.-W. Tsai, W.-J. Shen, J.-W. Yeh, J.-Y. Gan, and W.-W. Wu, J. Electrochem. Soc., 158: H1161 (2011)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2013.04.058",
+				"or":  "K. Y. Tsai, M. H. Tsai, and J.-W. Yeh, Acta Mater., 61: 4887 (2013).",
+				"tr":  "K. Y. Tsai, M. H. Tsai, and J.-W. Yeh, Acta Mater., 61: 4887 (2013)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2016.03.046",
+				"or":  "J. Dabrowa, W. Kucza, G. Cieslak, T. Kulik, M. Danilewski, and J.-W. Yeh, J. Alloys Compd., 674: 455 (2016).",
+				"tr":  "J. Dabrowa, W. Kucza, G. Cieslak, T. Kulik, M. Danilewski, and J.-W. Yeh, J. Alloys Compd., 674: 455 (2016)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2016.07.239",
+				"or":  "M. Vaidya, S. Trubel, B. S. Murty, G. Wilde, and S. V. Divinski, J. Alloys Compd., 688: 994 (2016).",
+				"tr":  "M. Vaidya, S. Trubel, B. S. Murty, G. Wilde, and S. V. Divinski, J. Alloys Compd., 688: 994 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "L. N. Larikov and V. I. Isaichev, Diffuziya v Metallakh i Splavakh: Spravochnik [Diffusion in Metals and Alloys: Reference Book] (Kiev: Naukova Dumka: 1987) (in Russian).",
+				"tr":  "L. N. Larikov and V. I. Isaichev, Diffuziya v Metallakh i Splavakh: Spravochnik [Diffusion in Metals and Alloys: Reference Book] (Kiev: Naukova Dumka: 1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Z. Bokstein, Diffuziya i Struktura Metallov [Diffusion and Structure of Metals] (Moscow: Metalluriya: 1973) (in Russian).",
+				"tr":  "S. Z. Bokstein, Diffuziya i Struktura Metallov [Diffusion and Structure of Metals] (Moscow: Metalluriya: 1973) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.matlet.2006.03.140",
+				"or":  "C. C. Tung, J. W. Yeh, T. T. Shun, S. K. Chen, Y. S. Huang, and H. C. Chen, Mater. Lett., 61: 1 (2007).",
+				"tr":  "C. C. Tung, J. W. Yeh, T. T. Shun, S. K. Chen, Y. S. Huang, and H. C. Chen, Mater. Lett., 61: 1 (2007)."
+			},
+			{
+				"doi": "10.1016/j.ultramic.2010.12.001",
+				"or":  "S. Singh, N. Wanderka, K. Kiefer, K. Siemensmeyer, and J. Banhart, Ultramicroscopy, 111, Iss. 6: 619 (2011).",
+				"tr":  "S. Singh, N. Wanderka, K. Kiefer, K. Siemensmeyer, and J. Banhart, Ultramicroscopy, 111, Iss. 6: 619 (2011)."
+			},
+			{
+				"doi": "10.1134/S0031918X15030096",
+				"or":  "V. M. Nadutov, S. Yu. Makarenko, and P. Yu. Volosevich, The Physics of Metals and Metallography, 116, No. 5: 439 (2015).",
+				"tr":  "V. M. Nadutov, S. Yu. Makarenko, and P. Yu. Volosevich, The Physics of Metals and Metallography, 116, No. 5: 439 (2015)."
+			},
+			{
+				"doi": "10.2320/matertrans.46.2817",
+				"or":  "A. Takeuchi and A. Inoue, Mater. Trans., 46, No. 12: 2817 (2005).",
+				"tr":  "A. Takeuchi and A. Inoue, Mater. Trans., 46, No. 12: 2817 (2005)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2010.09.023",
+				"or":  "S. Singh, N. Wanderka, B. S. Murty, U. Glatzel, and J. Banhart, Acta Mater., 59: 182 (2011).",
+				"tr":  "S. Singh, N. Wanderka, B. S. Murty, U. Glatzel, and J. Banhart, Acta Mater., 59: 182 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "B. S. Bokstein, Diffuziya v Metallakh [Diffusion in Metals] (Moscow: Metallurgiya: 1978) (in Russian).",
+				"tr":  "B. S. Bokstein, Diffuziya v Metallakh [Diffusion in Metals] (Moscow: Metallurgiya: 1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Smirnov, Teoriya Vakansiy v Metallakh i Splavakh i Ee Primenenie k Splavam Vychitaniya [Theory of Vacancies in Metals and Alloys and Its Application to Subtraction Alloys] (Kiev: Naukova Dumka: 1993) (in Russian).",
+				"tr":  "A. A. Smirnov, Teoriya Vakansiy v Metallakh i Splavakh i Ee Primenenie k Splavam Vychitaniya [Theory of Vacancies in Metals and Alloys and Its Application to Subtraction Alloys] (Kiev: Naukova Dumka: 1993) (in Russian)."
+			}
+		]
+	}
+}

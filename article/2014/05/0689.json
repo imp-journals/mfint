@@ -1,0 +1,203 @@
+{
+	"_id":    "MFiNT.36.05.0689",
+	"year":   2014,
+	"volume": 36,
+	"issue":  5,
+	"pages":  [689,704],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["25.12.2013", "17.04.2014"],
+	"PACS":   "61.66.Dk, 61.72.Ww, 65.50.-m, 82.40.-g, 82.40.Bj",
+	"title":   {
+		"ua": "Рушійна сила процесу наводнення металів. ІІ. Титан литий",
+		"en": "Driving Force of Metals Hydrogenation Process. ІІ. As Cast Titanium",
+		"ru": "Движущая сила процесса наводораживания металлов. ІІ. Титан литой"
+	},
+	"abstract": {
+		"ua": "Загальною умовою принципового здійснення процесу наводнення в прямому напрямку в закритій системі є нерівності $\\Delta Gp > 0$ і $\\Delta S > 0$. Спираючись на принципи Онзаґерової термодинаміки нерівноважних процесів, можна виділити деякі основні потенціали, що як сприяють процесу, так і стримують його. Значення цих потенціалів на різних етапах просування фронту дифузії через поверхневий шар зразка неоднакове. За даними експерименту ($Р$, $Т$, $m_{H}$, $\\tau$) та оціненого ефективного коефіцієнта дифузії $D_{еф}$ і об’єму $\\Delta V_{і}$, заповненого газом за час $\\Delta \\tau_{i}$, обчислено модуль стиску розчиненого газу водню ${\\partial \\mu}/{\\partial \\rho}$ . Із зменшенням цього модуля збільшуються ґрадієнт концентрації, що встановлюється в зразку при даних внутрішніх напруженнях, і сили релаксації. Побудовано залежності ${\\partial \\mu}/{\\partial \\rho}$ від часу наводнення $\\tau$ та глибини проникнення водню $h$ для різних станів Ті. По суті величина ${\\partial \\mu}/{\\partial \\rho} = f(\\tau, h)$ і ґрадієнт пружніх сил $\\Delta \\sigma(T)$ виявляються конкурувальними в перебігу процесу. Величина ${\\partial \\mu}/{\\partial \\rho} = kT/\\rho$ утворює ряд залежностей від $T^{-1}$, які уможливлюють оцінити енергію активації релаксації пружніх сил. В усіх станах литого і відпаленого титану концентрації водню сягають $C_{H} \\leq 4%$ мас., що відповідає формулі ТіH$_{2-\\delta}$ ($\\delta \\geq 0,05$).",
+		"en": "Inequalities $\\Delta Gp > 0$ and $\\Delta S > 0$ are the general conditions of fundamental realization of hydrogenation’ process in straight direction in the closed system. Using the Onsager’s principles of thermodynamics of the nonequilibrium (irreversible) processes, it is possible to distinguish some basic potentials, which promote the process or hinder it. Significance of these potentials at different stages of advancement of diffusion front through the surface layer of the sample is not identical. From the experimental data ($Р$, $Т$, $m_{H}$, $\\tau$), the estimated effective factor of diffusion $D_{еf}$, and volume $\\Delta V_{і}$ filled by gas during $\\Delta \\tau_{i}$, the module of compression of hydrogen gas, ${\\partial \\mu}/{\\partial \\rho}$ , is calculated. Reduction of this module increases the gradient of concentration, which is formed within the sample at specified internal stress. Strength of relaxation becomes higher. Dependences of ${\\partial \\mu}/{\\partial \\rho}$ on both the hydrogenation’ process duration $\\tau$ and the hydrogen-penetration depth $h$ for various states of Ti are constructed. As a matter of fact, the values of ${\\partial \\mu}/{\\partial \\rho} = f(\\tau, h)$ and gradient of elastic strength $\\Delta \\sigma(T)$ appear to be competitive during the process. The dependences of ${\\partial \\mu}/{\\partial \\rho} = kT/\\rho$ against reciprocal temperature allow estimating the activation energy of elastic strength relaxation. The H concentrations in cast and as-annealed Ti reach about $C_{H} \\leq 4%$ mass. that corresponds to atomic ratio ТіH$_{2-\\delta}$ ($\\delta \\geq 0.05$).",
+		"ru": "Общим условием принципиального осуществления процесса наводороживания в прямом направлении в закрытой системе являются неравенства $\\Delta Gp > 0$ и $\\Delta S > 0$. Опираясь на принципы термодинамики неравновесных процессов Онзагера, можно выделить ряд основных потенциалов, которые как способствуют процессу, так и сдерживают его. Значение этих потенциалов на разных этапах передвижения фронта диффузии через поверхностный слой образца неодинаковое. Из данных эксперимента ($Р$, $Т$, $m_{H}$, $\\tau$) и оценённого эффективного коэффициента диффузии $D_{эф}$ и объёма $\\Delta V_{і}$, заполненного газом за время $\\Delta \\tau_{i}$, вычислен модуль сжатия растворённого газа водорода ${\\partial \\mu}/{\\partial \\rho}$ . С уменьшением этого модуля увеличиваются градиент концентрации, который установился в образце при данных присутствующих внутренних напряжениях, и силы релаксации. Построены зависимости ${\\partial \\mu}/{\\partial \\rho}$ от времени наводороживания $\\tau$ и глубины проникновения водорода $h$ для разных состояний Ті. По существу величина ${\\partial \\mu}/{\\partial \\rho} = f(\\tau, h)$ и градиент упругих сил  $\\Delta \\sigma(T)$ оказываются конкурирующими при протекании процесса. Величина ${\\partial \\mu}/{\\partial \\rho} = kT/\\rho$ образует семейство зависимостей от $T^{-1}$, позволяющее оценить энергию активации релаксации упругих сил. Во всех состояниях литого и отожжённого титана концентрации водорода достигают $C_{H} \\leq 4%$ масс., что соответствует формуле ТіH$_{2-\\delta}$ ($\\delta \\geq 0,05$)."
+	},
+	"keywords": {
+		"ua": "титан литий, наводнення металів, виробництво ентропії, модуль стиску газу",
+		"en": "cast titanium, metals hydrogenation, entropy production, module of compression of gas",
+		"ru": "титан литой, наводораживание металлов, производство энтропии, модуль сжатия газа"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. А. Школа", "en": "A. A. Shkola", "ru": "А. А. Школа"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 33,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "С. де Гроот, П. Мазур, Неравновесная термодинамика (Москва: Мир: 1964).",
+				"tr":  "S. de Groot and P. Mazur, Neravnovesnaya Termodinamika (Moscow: Mir: 1964) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Л. Климонтович, Статистическая физика (Москва: Наука: 1982)",
+				"tr":  "Yu. L. Klimontovich, Statisticheskaya Fizika (Moscow: Nauka: 1982) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.86.061136",
+				"or":  "G. A. Casas, F. D. Nobre, and E. M. F. Curado, Phys. Rev. E, 86, No. 6: 061136 (2012).",
+				"tr":  "G. A. Casas, F. D. Nobre, and E. M. F. Curado, Phys. Rev. E, 86, No. 6: 061136 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Денбиг, Термодинамика стационарных необратимых процессов (Москва: Изд-во иностр. лит: 1954).",
+				"tr":  "K. Denbigh, Termodinamika Statsionarnykh Neobratimykh Protsessov (Moscow: Izd-vo Inostr. Lit.: 1954) (Russian translation)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.74.021117",
+				"or":  "B. Cleuren and C. Van Len Broeck, Phys. Rev. E, 74, No. 3: 021117 (2006).",
+				"tr":  "B. Cleuren and C. Van Len Broeck, Phys. Rev. E, 74, No. 3: 021117 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Meixner, Zeitschrift für Physik, Bd. 149, H. 5: 624 (1957).",
+				"tr":  "J. Meixner, Zeitschrift für Physik, Bd. 149, H. 5: 624 (1957)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Гленсдорф, И. Пригожин, Термодинамическая теория структуры, устойчивости и флуктуаций (Москва: УРСС: 2003).",
+				"tr":  "P. Glansdorff and I. Prigogine, Termodinamicheskaya Teoriya Struktury, Ustoychivosti i Fluktuatsiy (Moscow: URSS: 2003) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Школа, Металлофиз. новейшие технол., 35, № 5: 697 (2013).",
+				"tr":  "A. A. Shkola, Metallofiz. Noveishie Tekhnol., 35, No. 5: 697 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Ф. Кобзенко, А. А. Школа, Металлофизика, 11, № 6: 71 (1989).",
+				"tr":  "G. F. Kobzenko and A. A. Shkola, Metallofizika, 11, No. 6: 71 (1989) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRev.91.1505",
+				"or":  "L. Onsager and S. Machlup, Phys. Rev., 91, No. 6: 1505 (1953).",
+				"tr":  "L. Onsager and S. Machlup, Phys. Rev., 91, No. 6: 1505 (1953)."
+			},
+			{
+				"doi": "10.1103/PhysRev.91.1512",
+				"or":  "S. Machlup and L. Onsager, Phys. Rev., 91, No. 6: 1512 (1953).",
+				"tr":  "S. Machlup and L. Onsager, Phys. Rev., 91, No. 6: 1512 (1953)."
+			},
+			{
+				"doi": "",
+				"or":  "Х. Випф, Водород в металлах (Ред. Г. Алефельд, И. Фёлькль) (Москва: Мир: 1981), т. 2, с. 327.",
+				"tr":  "H. Wipf, Vodorod v Metallakh (Eds. G. Alefeld and J. Völkl) (Moscow: Mir: 1981), vol. 2, p. 327 (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Völkl, Beriche Bunsen Geselschoft Physikalische Chemie, 76, No. 8:797 (1972).",
+				"tr":  "J. Völkl, Berichte der Bunsengesellschaft für Physikalische Chemie, 76, No. 8: 797 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Школа, Особливості поглинання водню полікристалічним титаном та сплавами Ті–Al (Автореф. дис. … канд. техн. наук) (Київ: Інститут металофізики НАН України: 1994).",
+				"tr":  "A. A. Shkola, Osoblyvosti Pohlynannya Vodnyu Polikrystalichnym Tytanom ta Splavamy (Autoref. Diss. … Cand. Tekhn. Sci.) (Kiev: Institute for Metal Physics, N.A.S. of Ukraine: 1994) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Школа, Металлофиз. новейшие технол., 30, № 12: 1667 (2008).",
+				"tr":  "A. A. Shkola, Metallofiz. Noveishie Tekhnol., 30, No. 12: 1667 (2008) (in Russian)."
+			},
+			{
+				"doi": "10.1107/S0365110X56001649",
+				"or":  "S. S. Sidhu, L. Heaton, and D. D. Zauberis, Acta Crystallogr., 9, No. 8: 607 (1956).",
+				"tr":  "S. S. Sidhu, L. Heaton, and D. D. Zauberis, Acta Crystallogr., 9, No. 8: 607 (1956)."
+			},
+			{
+				"doi": "10.1107/S0365110X58000098",
+				"or":  "H. L. Yakel, Acta Crystallogr., 11, No. 1: 46 (1958).",
+				"tr":  "H. L. Yakel, Acta Crystallogr., 11, No. 1: 46 (1958)."
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Биргер, Остаточные напряжения (Москва: Машгиз: 1963).",
+				"tr":  "I. A. Birger, Ostatochnye Napryazheniya (Moscow: Mashgiz: 1963) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Д. Макаров, Оптимизация процессов резания (Москва: Машиностроение: 1976).",
+				"tr":  "A. D. Makarov, Optimizatsiya Protsessov Rezaniya (Moscow: Mashinostroenie: 1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. П. Тимошенко, Дж. Гудьер, Теория упругости (Москва: Наука: 1975).",
+				"tr":  "S. P. Timoshenko and J. Gudier, Teoriya Uprugosti (Moscow: Nauka: 1975) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Школа, Металлофиз. новейшие технол., 28, № 6: 837 (2006).",
+				"tr":  "A. A. Shkola, Metallofiz. Noveishie Tekhnol., 28, No. 6: 837 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Ломакин, Теория упругости неоднородных тел (Москва: Изд-во МГУ: 1976).",
+				"tr":  "V. A. Lomakin, Teoriya Uprugosti Neodnorodnykh Tel (Moscow: Izd-vo MGU: 1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Новиков, Теория термической обработки металлов (Москва: Металлургия: 1986).",
+				"tr":  "I. I. Novikov, Teoriya Termicheskoy Obrabotki Metallov (Moscow: Metallurgiya: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. А. Нестеренко, В. Г. Ляпин, Фазовые переходы на свободных гранях в межфазных границах в полупроводниках (Киев: Наукова думка: 1990).",
+				"tr":  "B. A. Nesterenko and V. G. Lyapin, Fazovye Perekhody na Svobodnykh Granyakh v Mezhfaznykh Granitsakh v Poluprovodnikakh (Kiev: Naukova Dumka: 1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Карасев, Теория вероятностей и математическая статистика (Москва: Статистика: 1977).",
+				"tr":  "A. I. Karasev, Teoriya Veroyatnostey i Matematicheskaya Statistika (Moscow: Statistika: 1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. С. Бокштейн, С. З. Бокштейн, Термодинамика и кинетика диффузии в твёрдых телах (Москва: Металлургия:1974).",
+				"tr":  "B. S. Bokstein and S. Z. Bokstein, Termodinamika i Kinetika Diffuzii v Tverdykh Telakh (Moscow: Metallurgiya:1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Бугаев, В. А. Татаренко, Взаимодействие и распределение атомов в сплавах внедрения на основе плотноупакованных металлов (Киев: Наукова думка: 1984).",
+				"tr":  "V. N. Bugaev and V. A. Tatarenko, Vzaimodeystvie i Raspredelenie Atomov v Splavakh Vnedreniya na Osnove Plotnoupakovannykh Metallov (Kiev: Naukova Dumka: 1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Боднева, А. А. Лундич, ЖЭТФ, 135, № 6: 1142 (2009).",
+				"tr":  "L. Bodneva and A. A. Lundich, ZhETF, 135, No. 6: 1142 (2009) (in Russian)."
+			},
+			{
+				"doi": "10.3367/UFNr.0055.195503d.0391",
+				"or":  "М. А. Кривоглаз, А. А. Смирнов, УФН, LV, № 3: 391 (1955).",
+				"tr":  "M. A. Krivoglaz and A. A. Smirnov, Uspekhi Fiz. Nauk, LV, No. 3: 391 (1955) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.95.180602",
+				"or":  "M. Michel, G. Mahler, and J. Gemmer, Phys. Rev. Lett., 95, No. 18: 180602 (2005).",
+				"tr":  "M. Michel, G. Mahler, and J. Gemmer, Phys. Rev. Lett., 95, No. 18: 180602 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.85.061107",
+				"or":  "Y. Dong, B.-Y. Cao, and Z.-Y. Guo, Phys. Rev. E, 85, Nos. 6-7: 061107 (2012).",
+				"tr":  "Y. Dong, B.-Y. Cao, and Z.-Y. Guo, Phys. Rev. E, 85, No. 6-7: 061107 (2012)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.86.062101",
+				"or":  "Y. Dong, Phys. Rev. E, 86, No. 6: 062101 (2012).",
+				"tr":  "Y. Dong, Phys. Rev. E, 86, No. 6-1: 062101 (2012)."
+			},
+			{
+				"doi": "10.4213/tmf6259",
+				"or":  "Г. Мартынов, Теоретическая и математическая физика, 156, № 3:454 (2008).",
+				"tr":  "G. Martynov, Teoreticheskaya i Matematicheskaya Fizika, 156, No. 3: 454 (2008) (in Russian)."
+			}
+		]
+	}
+}

@@ -1,0 +1,105 @@
+{
+	"_id":    "MFiNT.39.09.1173",
+	"year":   2017,
+	"volume": 39,
+	"issue":  9,
+	"pages":  [1173,1182],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["05.08.2017"],
+	"PACS":   "64.60.ah, 73.61.At, 73.63.Bd, 78.20.Ci, 78.66.Bz, 81.15.Kk",
+	"title":   {
+		"ua": "Вплив підшарів ґерманію на оптичні властивості нанорозмірних плівок міді",
+		"en": "Influence of Germanium Underlayers on Optical Properties of Nanosize Copper Films",
+		"ru": "Влияние подслоёв германия на оптические свойства наноразмерных плёнок меди"
+	},
+	"abstract": {
+		"ua": "Експериментально досліджено спектри пропускання та відбивання тонких плівок міді різної товщини (у 2–20 нм), вирощених в умовах надвисокого вакууму (тиск залишкових компонентів газу не перевищував 10$^{-7}$ Па) на чистій скляній підкладинці та підкладинці, попередньо покритій підшаром ґерманію масовою товщиною у 0,5 нм, у видимому та ближньому інфрачервоному діяпазонах довжин хвиль (у 300–2500 нм) за кімнатної температури (300 К). Механізми формування та режими росту плівки металу є визначальними для контрольованого вибору параметрів перколяції й оптичних і електричних ефектів, що її супроводжують. Показано, що підшари ґерманію масовою товщиною у 0,5 нм зменшують на 1 нм порогову товщину плівок міді, за якої відбувається зміна їхніх оптичних властивостей, що супроводжує перколяційний перехід. При цьому збільшується відбивальна здатність таких зразків у порівнянні з аналогічними зразками, осадженими на чисту скляну поверхню, що зумовлено більшим ступенем заповнености конденсатом поверхні підкладинки.",
+		"en": "The transmission and reflection spectra of thin copper films with different thicknesses (of 2–20 nm) grown under ultrahigh vacuum conditions (where the pressure of the residual gas components does not exceed 10$^{-7}$ Pa) on a clean glass substrate and a glass substrate precoated with a germanium underlayer with thickness of 0.5 nm are investigated in the visible and near-infrared wavelength ranges (300–2500 nm) at 300 K. The mechanisms of formation and the modes of growth of a metal film are crucial for the controlled selection of parameters of the percolation and concomitant optical and electrical phenomena. As shown, the germanium underlayers with a mass thickness of 0.5 nm reduce the threshold thickness of copper films per 1 nm, for which the changes of optical properties accompanied a percolation transition are observed. Herewith, the reflectivity of these samples is increased in comparison with similar films deposited on a clean glass surface because of higher degree of parameter of a surface filling by deposited condensate.",
+		"ru": "Экспериментально исследованы спектры пропускания и отражения тонких плёнок меди различной толщины (2–20 нм), выращенных в условиях сверхвысокого вакуума (давление остаточных компонентов газа не превышало 10$^{-7}$ Па) на чистой стеклянной подложке и подложке, предварительно покрытой подслоем германия массовой толщиной 0,5 нм, в видимом и ближнем инфракрасном диапазонах длин волн (300–2500 нм) при комнатной температуре (300 К). Механизмы формирования и режимы роста плёнки металла являются определяющими для контролируемого выбора параметров перколяции, а также сопровождающих её оптических и электрических эффектов. Показано, что подслои германия массовой толщиной 0,5 нм уменьшают на 1 нм пороговую толщину плёнок меди, при которой происходит изменение их оптических свойств, сопровождающее перколяционный переход. При этом увеличивается отражательная способность таких образцов по сравнению с аналогичными образцами, осаждёнными на чистую стеклянную поверхность, что обусловлено большей степенью заполненности конденсатом поверхности подложки."
+	},
+	"keywords": {
+		"ua": "тонкі металеві плівки, підшари субатомової товщини, перколяція, коефіцієнт відбивання плівок",
+		"en": "thin metal films, sublayers of subatomic thickness, percolation, coefficient of reflection of films",
+		"ru": "тонкие металлические плёнки, подслои субатомной толщины, перколяция, коэффициент отражения плёнок"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Р. І. Бігун", "en": "R. I. Bihun", "ru": "Р. И. Бигун"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "З. В. Стасюк", "en": "Z. V. Stasyuk", "ru": "З. В. Стасюк"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "О. В. Строганов", "en": "O. V. Stroganov", "ru": "О. В. Строганов"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "Д. С. Леонов", "en": "D. S. Leonov", "ru": "Д. С. Леонов"},
+			"OID": [16]
+		}
+	],
+	"references": {
+		"count": 11,
+		"list":  [
+			{
+				"doi": "10.1016/j.phpro.2012.03.510",
+				"or":  "A. Axelevitch, B. Gorenstein, and G. Golan, Physics Procedia, 32: 1 (2012).",
+				"tr":  "A. Axelevitch, B. Gorenstein, and G. Golan, Physics Procedia, 32: 1 (2012)."
+			},
+			{
+				"doi": "10.1080/00107519108213805",
+				"or":  "P. Smilauer, Contemporary Physics, 32, No. 2: 89 (1991).",
+				"tr":  "P. Smilauer, Contemporary Physics, 32, No. 2: 89 (1991)."
+			},
+			{
+				"doi": "10.1364/OE.14.001541",
+				"or":  "S. Ding, X. Wang, D. J. Chen, and Q. Q. Wang, Optics Express, 14, No. 4: 1541 (2006).",
+				"tr":  "S. Ding, X. Wang, D. J. Chen, and Q. Q. Wang, Optics Express, 14, No. 4: 1541 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. І. Бігун, З. В. Стасюк, О. В. Строганов, В. М. Гаврилюх, Д. С. Леонов, Наносистеми, наноматеріали, нанотехнології, 13, вип. 3: 459 (2015).",
+				"tr":  "R. I. Bihun, Z. V. Stasiuk, O. V. Strohanov, V. M. Havryliukh, and D. S. Leonov, Nanosistemi, Nanomateriali, Nanotehnologii, 13, No. 3: 459 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. V. Dukarov, S. I. Petrushenko, V. N. Sukhov, and I. G. Churilov, Problems of Atomic Science and Technology, 89, No. 1: 110 (2014).",
+				"tr":  "S. V. Dukarov, S. I. Petrushenko, V. N. Sukhov, I. G Churilov, Problems of Atomic Science and Technology, 89, No. 1: 110 (2014)."
+			},
+			{
+				"doi": "10.1364/AO.41.003053",
+				"or":  "N. Kaiser, Applied Optics, 41, No. 16: 3053 (2002).",
+				"tr":  "N. Kaiser, Applied Optics, 41, No. 16: 3053 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "N. T. Gladkikh, S. V. Dukarov, and V. N. Sukhov, Fizika Metallov i Metallovedenie, 78, No. 3: 87 (1994) (in Russian).",
+				"tr":  "N. T. Gladkikh, S. V. Dukarov, and V. N. Sukhov, Fizika Metallov i Metallovedenie, 78, No. 3: 87 (1994) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Петрушенко, С. В. Дукаров, В. Н. Сухов, И. Г. Чурилов, Журнал нано- та електронної фізики, 7, No. 2: 02033 (2015).",
+				"tr":  "S. I. Petrushenko, S. V. Dukarov, V. N. Sukhov, and I. G. Churilov, Zhurnal Nano- ta Elektronnoyi Fizyky, 7, No. 2: 02033 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Гирка, В. Т. Грицына, Ю. Г. Казаринов, И. Н. Мисюра, Науковий вісник Ужгородського університету. Серія Фізика, вип. 29: 97 (2011).",
+				"tr":  "I. A. Girka, V. T. Gritsyna, Yu. G. Kazarinov, and I. N. Misyura, Naukovyy Visnyk Uzhgorodskogo Universytetu. Seriya Fizyka, Iss. 29: 97 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. І. Бігун, М. Д. Бучковська, Н. С. Колтун, З. В. Стасюк, Д. С. Леонов, Металлофиз. новейшие технол., 35, № 1: 85 (2013).",
+				"tr":  "R. I. Bigun, M. D. Buchkovs'ka, N. S. Koltun, Z. V. Stasyuk, and D. S. Leonov, Metallofiz. Noveishie Tekhnol., 35, No. 1: 85 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Д. Бучковська, Р. І. Бігун, З. В. Стасюк, Д. С. Леонов, Наносистеми, наноматеріали, нанотехнології, 11, № 3: 551 (2013).",
+				"tr":  "M. D. Buchkovs'ka, R. I. Bigun, Z. V. Stasyuk, and D. S. Leonov, Nanosistemi, Nanomateriali, Nanotehnologii, 11, No. 3: 551 (2013) (in Ukrainian)."
+			}
+		]
+	}
+}

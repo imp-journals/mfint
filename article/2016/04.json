@@ -1,0 +1,127 @@
+{
+	"year":   2016,
+	"volume": 38,
+	"issue":  4,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [427,454],
+			"title": {
+				"ua": "Вплив періодичної зміни температури на дифузійний розпад бінарного твердого розчину",
+				"en": "Influence of Periodic Change of Temperature on Diffusion Decomposition of Binary Solid Solution",
+				"ru": "Влияние периодического изменения температуры на диффузионный распад бинарного твёрдого раствора"
+			},
+			"autors": {
+				"ua": "Р. В. Шаповалов, О. А. Осмаєв",
+				"en": "R. V. Shapovalov and O. A. Osmayev",
+				"ru": "Р. В. Шаповалов, О. А. Осмаев"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [455,475],
+			"title": {
+				"ua": "Розподіл вуглецю в низькотемпературному мартенситі на основі заліза та його тетрагональність",
+				"en": "Carbon Distribution in Low-Temperature Isothermal Iron-Based Martensite and Its Tetragonality",
+				"ru": "Распределение углерода в низкотемпературном мартенсите на основе железа и его тетрагональность"
+			},
+			"autors": {
+				"ua": "В. Г. Гаврилюк, С. А. Фірстов, В. О. Сірош, А. І. Тищенко, Г. С. Могильний",
+				"en": "V. G. Gavriljuk, S. O. Firstov, V. A. Sirosh, A. I. Tyshchenko, and G. S. Mogilny",
+				"ru": "В. Г. Гаврилюк, С. А. Фирстов, В. А. Сирош, А. И. Тищенко, Г. С. Могильный"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [477,490],
+			"title": {
+				"ua": "Кристалографічні, магнітні та магніторезистивні властивості кераміки La$_{0,77}$Sr$_{0,23}$Mn$_{1-y}$Fe$_{y}$O$_{3}$",
+				"en": "Crystallographic, Magnetic, and Magnetoresistive Properties of La$_{0.77}$Sr$_{0.23}$Mn$_{1-y}$Fe$_{y}$O$_{3}$ Ceramics",
+				"ru": "Кристаллографические, магнитные и магниторезистивные свойства керамики La$_{0,77}$Sr$_{0,23}$Mn$_{1-y}$Fe$_{y}$O$_{3}$"
+			},
+			"autors": {
+				"ua": "Т. І. Полек, О. І. Товстолиткін, А. М. Погорілий, М. М. Кулик, Ю. Ю. Шлапа, С. О. Солопан, А. Г. Білоус",
+				"en": "T. I. Polek, O. I. Tovstolytkin, A. M. Pogorily, M. M. Kulyk, Yu. Yu. Shlapa, S. O. Solopan, and A. G. Bilous",
+				"ru": "Т. И. Полек, А. И. Товстолыткин, А. Н. Погорелый, Н. Н. Кулык, Ю. Ю. Шлапа, С. О. Солопан, А. Г. Белоус"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [491,508],
+			"title": {
+				"ua": "Вплив кристалічної структури на транспортні та магнітні властивості масивних стопів Гойслера Ni$_{2}$MnSn",
+				"en": "Effect of Crystal Structure on Transport and Magnetic Properties of Bulk Ni$_{2}$MnSn Heusler Alloys",
+				"ru": "Влияние кристаллической структуры на транспортные и магнитные свойства массивных сплавов Гейслера Ni$_{2}$MnSn"
+			},
+			"autors": {
+				"ua": "Ю. В. Кудрявцев, В. М. Надутов, М. В. Уваров, В. М. Уваров, В. В. Клімов, В. С. Михаленков, Д. Л. Ващук, М. Р. Кольчіба",
+				"en": "Yu. V. Kudryavtsev, V. M. Nadutov, N. V. Uvarov, V. N. Uvarov, V. V. Klimov, V. S. Mikhalenkov, D. L. Vashchuk, and M. R. Kolchiba",
+				"ru": "Ю. В. Кудрявцев, В. М. Надутов, Н. В. Уваров, В. Н. Уваров, В. В. Климов, В. С. Михаленков, Д. Л. Ващук, М. Р. Кольчиба"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [509,517],
+			"title": {
+				"ua": "Залежність фазового складу диспропорціонованого стопу на основі SmCo$_{5}$ від температури та тривалості рекомбінування",
+				"en": "The Dependence of Phase Composition of Previously Disproportionated SmCo$_{5}$-Based Alloy on Temperature and Duration of Recombination",
+				"ru": "Зависимость фазового состава диспропорционированного сплава на основе SmCo$_{5}$ от температуры и продолжительности рекомбинации"
+			},
+			"autors": {
+				"ua": "І. І. Булик, А. М. Тростянчин",
+				"en": "I. I. Bulyk and А. М. Trostianchyn",
+				"ru": "И. И. Булык, А. М. Тростянчин"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [519,529],
+			"title": {
+				"ua": "Вплив частинок ультрадисперсних алмазів на структуру та властивості електролітичних нікелевих покриттів",
+				"en": "The Effect of Superdispersed Diamond Particles on the Structure and Properties of Electrolytic Nickel Coatings",
+				"ru": "Влияние частиц ультрадисперсных алмазов на структуру и свойства электролитических никелевых покрытий"
+			},
+			"autors": {
+				"ua": "В. В. Титаренко, В. О. Заблудовський",
+				"en": "V. V. Tytarenko and V. A. Zabludovs’kyy",
+				"ru": "В. В. Титаренко, В. А. Заблудовский"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [531,544],
+			"title": {
+				"ua": "Електронна будова та мікротвердість карбідних покриттів Ti, V, Cr на сталі У10А",
+				"en": "Electronic Structure and Microhardness of Ti, V, Cr Carbide Coatings on Steel U10A",
+				"ru": "Электронное строение и микротвёрдость карбидных покрытий Ti, V, Cr на стали У10А"
+			},
+			"autors": {
+				"ua": "Я. В. Заулічний, В. Г. Хижняк, Н. С. Лазарев, О. В. Хижняк",
+				"en": "Ya. V. Zaulychny, V. H. Khyzhniak, N. S. Lazarev, and O. V. Khyzhniak",
+				"ru": "Я. В. Зауличный, В. Г. Хижняк, Н. С. Лазарев, О. В. Хижняк"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [545,563],
+			"title": {
+				"ua": "Синтез деформаційних нанокомпозитів на поверхні алюмінійового сплаву Д16 за допомогою ультразвукового ударного оброблення",
+				"en": "Synthesis of Deformation-Induced Nanocomposites on Aluminium D16 Alloy Surface by Ultrasonic Impact Treatment",
+				"ru": "Синтез деформационных нанокомпозитов на поверхности алюминиевого сплава Д16 с помощью ультразвуковой ударной обработки"
+			},
+			"autors": {
+				"ua": "М. О. Васильєв, Б. М. Мордюк, С. І. Сидоренко, С. М. Волошко, А. П. Бурмак, М. В. Кіндрачук",
+				"en": "M. O. Vasyliev, B. M. Mordyuk, S. I. Sidorenko, S. M. Voloshko, A. P. Burmak, and M. V. Kindrachuk",
+				"ru": "М. А. Васильев, Б. Н. Мордюк, С. И. Сидоренко, С. М. Волошко, А. П. Бурмак, М. В. Киндрачук"
+			}
+		}
+	]
+}

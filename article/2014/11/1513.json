@@ -1,0 +1,133 @@
+{
+	"_id":    "MFiNT.36.11.1513",
+	"year":   2014,
+	"volume": 36,
+	"issue":  11,
+	"pages":  [1513,1522],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["25.02.2014"],
+	"PACS":   "66.30.Pa, 68.55.-a, 75.50.Ss, 75.50.Vv, 75.70.Cn, 81.40.Ef, 81.40.Rs",
+	"title":   {
+		"ua": "Формування хемічно впорядкованої фази L1$_{0}$(FePt) в нанорозмірній плівковій композиції Fe$_{50}$Pt$_{50}$ (15 нм)/Au (30 нм)/Fe$_{50}$Pt$_{50}$ (15 нм) при відпалі у вакуумі",
+		"en": "Formation of Chemically Ordered L1$_{0}$(FePt) Phase in a Nanosize Film Composition of Fe$_{50}$Pt$_{50}$ (15 nm)/Au(30 nm)/Fe$_{50}$Pt$_{50}$ (15 nm) at Annealing in Vacuum",
+		"ru": "Формирование химически упорядоченной фазы L1$_{0}$(FePt) в наноразмерной плёночной композиции Fe$_{50}$Pt$_{50}$ (15 нм)/Au(30 нм)/Fe$_{50}$Pt$_{50}$ (15 нм) при отжиге в вакууме"
+	},
+	"abstract": {
+		"ua": "Методами фізичного матеріялознавства (рентґеноструктурною фазовою аналізою і мірянням магнетних властивостей на SQUID (superconducting quantum interference device)-магнетометрі) досліджено вплив додаткового проміжного шару Au завтовшки у 30 нм у нанорозмірній плівковій композиції (НПК) Fe$_{50}$Pt$_{50}$ (15 нм)/Au (30 нм)/Fe$_{50}$Pt$_{50}$ (15 нм) на підложжях SiO$_{2}$ (100 нм)/Si(001) на процеси дифузійного фазоутворення – перехід хемічно невпорядкованої магнетом’якої фази А1(FePt) у хемічно впорядковану магнетотверду фазу L1$_{0}$(FePt) при відпалі у вакуумі за температури 600°C з різною тривалістю. Встановлено, що в НПК Fe$_{50}$Pt$_{50}$ (15 нм)/Au (30 нм)/Fe$_{50}$Pt$_{50}$ (15 нм) фазовий перехід А1(FePt) → L1$_{0}$(FePt) починається під час відпалу за температури 600°C тривалістю 30 с, що на 100°C нижче в порівнянні з плівкою стопу Fe$_{50}$Pt$_{50}$. Атоми Au при термічному обробленні дифундують по межах зерен фази L1$_{0}$(FePt), обмежують їх зростання і магнетну взаємодію. Це супроводжується збільшенням коерцитивної сили, але зберігається ізотропія магнетних властивостей незалежно від напрямку магнетного поля.",
+		"en": "Effect of addition of intermediate Au layer with thickness of 30 nm in nanoscale film composition (NFC) Fe$_{50}$Pt$_{50}$ (15 nm)/Au (30 nm)/Fe$_{50}$Pt$_{50}$ (15 nm) on SiO$_{2}$ (100 nm)/Si(001) substrates on the diffusion-controlled phase-formation processes–transformation of chemically-disordered soft magnetic А1(FePt) phase into chemically-ordered hard magnetic L1$_{0}$(FePt) phase under annealing in a vacuum at temperature of 600°C during various time intervals is investigated by the methods of physical materials science: X-ray phase analysis and magnetic-properties’ measuring on SQUID (superconducting quantum interference device). As revealed, the А1(FePt) → L1$_{0}$(FePt) phase transformation in Fe$_{50}$Pt$_{50}$ (15 nm)/Au (30 nm)/Fe$_{50}$Pt$_{50}$ (15 nm) NFC begins at temperature of 600°C for annealing duration of 30 s, which is lower by 100°C in comparison with Fe$_{50}$Pt$_{50}$ alloy film. During thermal treatment, Au atoms diffuse along grain boundaries of L1$_{0}$(FePt) phase restricting their growth and magnetic interaction. This is accompanied by increasing of coercive force, but isotropy of magnetic properties is saved independently on magnetic-field direction.",
+		"ru": "Методами физического материаловедения (рентгеноструктурным фазовым анализом и измерением магнитных свойств на SQUID (superconducting quantum interference device)-магнитометре) исследовано влияние дополнительного промежуточного слоя Au толщиной 30 нм в наноразмерной плёночной композиции (НПК) Fe$_{50}$Pt$_{50}$ (15 нм)/Au (30 нм)/Fe$_{50}$Pt$_{50}$ (15 нм) на подложках SiO$_{2}$ (100 нм)/Si(001) на процессы диффузионного фазообразования – переход химически неупорядоченной магнитомягкой фазы А1(FePt) в химически неупорядоченную магнитотвёрдую фазу L1$_{0}$(FePt) при отжиге в вакууме при температуре 600°C с разной длительностью. Установлено, что в НПК Fe$_{50}$Pt$_{50}$ (15 нм)/Au (30 нм)/Fe$_{50}$Pt$_{50}$ (15 нм) фазовый переход А1(FePt) → L1$_{0}$(FePt) начинается во время отжига при температуре 600°C длительностью 30 с, что на 100°C ниже по сравнению с плёнкой сплава Fe$_{50}$Pt$_{50}$. Атомы Au при термической обработке диффундируют по границам зёрен фазы L1$_{0}$(FePt), ограничивают их рост и магнитное взаимодействие. Это сопровождается увеличением коэрцитивной силы, но сохраняется изотропия магнитных свойств независимо от направления магнитного поля."
+	},
+	"keywords": {
+		"ua": "магнетні властивості, хемічно впорядкована фаза L1$_{0}$(FePt), проміжний шар Au, відпал",
+		"en": "magnetic properties, chemically ordered L1$_{0}$(FePt) phase, intermediate Au layer, annealing",
+		"ru": "магнитные свойства, химически упорядоченная фаза L1$_{0}$(FePt), промежуточный слой Au, отжиг"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. М. Макогон", "en": "Yu. M. Makogon", "ru": "Ю. Н. Макогон"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "О. П. Павлова", "en": "O. P. Pavlova", "ru": "Е. П. Павлова"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "С. І. Сидоренко", "en": "S. I. Sidorenko", "ru": "С. И. Сидоренко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "Т. І. Вербицька", "en": "T. I. Verbyts’ka", "ru": "Т. И. Вербицкая"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "М. Ю. Вербицька", "en": "M. Yu. Verbyts’ka", "ru": "М. Ю. Вербицкая"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "О. В. Фігурна", "en": "O. V. Figurna", "ru": "Е. В. Фигурная"},
+			"OID": [202]
+		}
+	],
+	"references": {
+		"count": 15,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "M. H. Kryder, Computerworld. Storage Networking World (April 3–6, 2006, San Diego) (San Diego, California: Manchester Grand Hyatt: 2006), p. 350.",
+				"tr":  "M. H. Kryder, Computerworld. Storage Networking World (April 3–6, 2006, San Diego) (San Diego, California: Manchester Grand Hyatt: 2006), p. 350."
+			},
+			{
+				"doi": "",
+				"or":  "O. A. Ovanov, L. V. Solina, V. A. Demshina et al., Phys. Met. Metallogr., 35: 81 (1973).",
+				"tr":  "O. A. Ovanov, L. V. Solina, V. A. Demshina et al., Phys. Met. Metallogr., 35: 81 (1973)."
+			},
+			{
+				"doi": "10.1109/TMAG.2010.2042039",
+				"or":  "B. Wang, K. Barmak, and T. J. Klemmer, IEEE Trans. Magn., 46, No. 6: 1773 (2010).",
+				"tr":  "B. Wang, K. Barmak, and T. J. Klemmer, IEEE Trans. Magn., 46, No. 6: 1773 (2010)."
+			},
+			{
+				"doi": "10.1063/1.3001801",
+				"or":  "C. Feng, Q. Zhan, B. Li et al., Appl. Phys. Lett., 93: 152513 (2008)",
+				"tr":  "C. Feng, Q. Zhan, B. Li et al., Appl. Phys. Lett., 93: 152513 (2008)"
+			},
+			{
+				"doi": "10.1063/1.1991968",
+				"or":  "K. Barmak, J. Kim, L. H. Lewis et al., J. Appl. Phys., 98: 033904 (2005)",
+				"tr":  "K. Barmak, J. Kim, L. H. Lewis et al., J. Appl. Phys., 98: 033904 (2005)"
+			},
+			{
+				"doi": "10.1063/1.1924889",
+				"or":  "P. Rasmussen, X. Rui, and J. E. Shield, Appl. Phys. Lett., 86: 191915 (2005).",
+				"tr":  "P. Rasmussen, X. Rui, and J. E. Shield, Appl. Phys. Lett., 86: 191915 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. М. Макогон, О. П. Павлова, Т. І. Вербицька, І. А. Владимирський, Наукові вісті, № 6: (2011).",
+				"tr":  "Yu. M. Makogon, O. P. Pavlova, T. I. Verbytska, and I. A. Vladymyrskyy, Naukovi Visti, No. 6: (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1063/1.1991968",
+				"or":  "K. Barmak, J. Kim, L. H. Lewis et al., J. Appl. Phys., 98: 033904 (2005).",
+				"tr":  "K. Barmak, J. Kim, L. H. Lewis et al., J. Appl. Phys., 98: 033904 (2005)."
+			},
+			{
+				"doi": "10.1088/1742-6596/200/10/102009",
+				"or":  "A. C. Sun, F. T. Yuan, J.-H. Hsu, J. Physics: Conference Series, 200: 1020099 (2010).",
+				"tr":  "A. C. Sun, F. T. Yuan, and J.-H. Hsu, J. Physics: Conference Series, 200: 1020099 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "А. С. Камзин, Е. В. Снеткова, З. Янг, Ф. Вей, В. Хианг, Письма в ЖТФ, 34, вып. 1: 57 (2008).",
+				"tr":  "A. S. Kamzin, E. V. Snetkova, Z. Yang, F. Vey, and V. Khiang, Pis'ma v ZhTF, 34, Iss. 1: 57 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. С. Горелик, Л. Н. Расторгуев, Ю. А. Скаков, Рентгеноструктурный и электроннооптический анализ (Москва: Металлургия: 1970).",
+				"tr":  "S. S. Gorelik, L. N. Rastorguev, and Yu. A. Skakov, Rentgenostrukturnyy i Elektronnoopticheskiy Analiz (Moscow: Metallurgiya: 1970) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2012.11.102",
+				"or":  "O. P. Pavlova, T. I. Verbitska, I. A. Vladymyrskyi, S. I. Sidorenko, G. L. Katona, D. L. Beke, G. Beddies, M. Albrecht, and I. M. Makogon, Appl. Surf. Sci., 266: 100 (2013).",
+				"tr":  "O. P. Pavlova, T. I. Verbitska, I. A. Vladymyrskyi, S. I. Sidorenko, G. L. Katona, D. L.Beke, G. Beddies, M. Albrecht, and I. M. Makogon, Appl. Surf. Sci., 266: 100 (2013)."
+			},
+			{
+				"doi": "10.1063/1.3522652",
+				"or":  "R. V. Chepulskii and S. Curtarolo, Appl. Phys. Lett., 97: 221908 (2010).",
+				"tr":  "R. V. Chepulskii and S. Curtarolo, Appl. Phys. Lett., 97: 221908 (2010)."
+			},
+			{
+				"doi": "10.1063/1.3001801",
+				"or":  "C. Feng, Q. Zhan, B. Li et al., Appl. Phys. Lett., 93: 152513 (2008).",
+				"tr":  "C. Feng, Q. Zhan, B. Li et al., Appl. Phys. Lett., 93: 152513 (2008)."
+			},
+			{
+				"doi": "10.1063/1.2828148",
+				"or":  "C. Feng, B.-H. Li, Y. Liu et al., Appl. Phys., 103: 023916 (2008).",
+				"tr":  "C. Feng, B.-H. Li, Y. Liu et al., Appl. Phys., 103: 023916 (2008)."
+			}
+		]
+	}
+}

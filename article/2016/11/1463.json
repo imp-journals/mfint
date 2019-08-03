@@ -1,0 +1,175 @@
+{
+	"_id":    "MFiNT.38.11.1463",
+	"year":   2016,
+	"volume": 38,
+	"issue":  11,
+	"pages":  [1463,1477],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["27.05.2016"],
+	"PACS":   "61.44.Br, 62.20.F-, 62.20.Qp, 64.70.kd, 81.40.Ef, 81.40.Jj, 81.40.Np",
+	"title":   {
+		"ua": "Термостабільність структури та механічних властивостей наноквазикристалічного Al$_{94}$Fe$_{3}$Cr$_{3}$-стопу",
+		"en": "Thermal Stability of Structure and Mechanical Properties of a Nano-Quasi-Crystalline Al$_{94}$Fe$_{3}$Cr$_{3}$ Alloy",
+		"ru": "Термостабильность структуры и механических свойств наноквазикристаллического Al$_{94}$Fe$_{3}$Cr$_{3}$-сплава"
+	},
+	"abstract": {
+		"ua": "Методами фазової рентґеноструктурної аналізи, просвітлювальної електронної мікроскопії та мікромеханічних випробувань досліджено вплив температури на еволюцію структури та формування механічних властивостей швидкозагартованого композиційного Al$_{94}$Fe$_{3}$Cr$_{3}$-стопу з нанорозмірними частинками метастабільної ікосаедричної квазикристалічної фази (i-фази). Показано, що характеристики міцности швидкозагартованого стопу зберігають свої значення до температури у 400°C, коли в структурі замість квазикристалічних частинок i-фази, які розчиняються, відбувається формування частинок метастабільного інтерметаліду Al$_{6}$Fe. Зниження міцности відбувається у разі підвищення температури відпалу до 550—575°C, при якому відбувається перетворення метастабільного інтерметаліду Al$_{6}$Fe на стабільні кристалічні $\\theta$-фази Al$_{13}$Cr$_{2}$ і Al$_{13}$Fe$_{4}$.",
+		"en": "Nano-quasi-crystalline Al—Fe—Cr-based alloys composed of nanosize icosahedral quasi-crystalline particles embedded in the $\\alpha$-Al matrix exhibit a high strength at elevated temperatures compared to commercial Al alloys. In this point, basic knowledge concerning structural stability is important for application of Al—Fe—Cr-based alloys in engineering practice. Investigation of thermal evolution of rapid-quenched melt-spun Al-based alloy with nominal composition of Al$_{94}$Fe$_{3}$Cr$_{3}$ is the subject matter of the present study. X-ray diffraction (XRD) analysis and transmission electron microscopy (TEM) are used for microstructural characterisation of the above-mentioned alloy heat-treated at different temperatures during 30 min. In addition, microindentation technique is applied to reveal a correspondence of microstructure with strength and ductility of Al$_{94}$Fe$_{3}$Cr$_{3}$ alloy in as-spun state and after heat treatment. A number of mechanical characteristics including Young’s modulus, $E$, Vickers microhardness, $HV$, yield stress, $\\sigma_{0.2}$, and plasticity characteristic, $\\delta_{H}$, all determined by state-of-the-art testing method procedures, are measured to specify strength and ductility of the rapid-quenched melt-spun Al$_{94}$Fe$_{3}$Cr$_{3}$. The results showed that quasi-crystalline particles survive in the microstructure of Al$_{94}$Fe$_{3}$Cr$_{3}$ alloy heat-treated up to the temperature of 400°C. However, gradual dissolution of quasi-crystalline particles and simultaneous formation of metastable crystalline Al$_{6}$Fe particles occur at the temperature above 400°C. Heat treatment of the rapid-quenched melt-spun Al$_{94}$Fe$_{3}$Cr$_{3}$ alloy at the temperature of 550°C and higher results in transition of metastable Al$_{6}$Fe phase into stable crystalline $\\theta$-phases, i.e. Al$_{13}$Cr$_{2}$ and Al$_{13}$Fe$_{4}$. Combination of high strength and quite-enough ductility is found to be true for the as-spun Al$_{94}$Fe$_{3}$Cr$_{3}$ alloy. Mechanical characteristics do not change so much when Al$_{94}$Fe$_{3}$Cr$_{3}$ alloy is heated up to the 400°C, since quasi-crystalline particles remain in the microstructure. Disappearance of quasi-crystalline particles after heat treatment of Al$_{94}$Fe$_{3}$Cr$_{3}$ alloy at the temperature higher than 400°C causes strength properties to be decreased considerably although plasticity characteristic increases up to the critical value $\\delta_{H} \\cong 0.9$ considered as criterion for ductile behaviour of metals and alloys in conventional tests by tensile and bending.",
+		"ru": "Методами фазового рентгеноструктурного анализа, просвечивающей электронной микроскопии и микромеханических испытаний изучено влияние температуры на эволюцию структуры и формирование механических свойств быстрозакалённого композиционного Al$_{94}$Fe$_{3}$Cr$_{3}$-сплава с наноразмерными частицами метастабильной икосаэдрической квазикристаллической фазы (i-фазы). Показано, что прочностные характеристики быстрозакалённого сплава сохраняют свои значения до температуры 400°C, при которой происходит растворение квазикристаллических частиц i-фазы с одновременным формированием метастабильного интерметаллида Al$_{6}$Fe. Существенное снижение прочности сплава происходит при повышении температуры отжига до 550—575°C, которое сопровождается превращением метастабильного интерметаллида Al$_{6}$Fe в стабильные кристаллические $\\theta$-фазы Al$_{13}$Cr$_{2}$ и Al$_{13}$Fe$_{4}$."
+	},
+	"keywords": {
+		"ua": "Al—Fe—Cr-стоп, інтерметаліди, квазикристали, швидке гартування, термостабільність, механічні властивості",
+		"en": "Al—Fe—Cr-based alloy, intermetallic compounds, quasi-crystals, melt spinning, thermal stability, mechanical properties",
+		"ru": "Al—Fe—Cr-сплав, интерметаллиды, квазикристаллы, быстрая закалка, термостабильность, механические свойства"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. І. Юркова", "en": "O. I. Yurkova", "ru": "А. И. Юркова"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "О. І. Кравченко", "en": "O. I. Kravchenko", "ru": "А. И. Кравченко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "О. В. Бякова", "en": "O. V. Byakova", "ru": "А. В. Бякова"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "А. О. Власов", "en": "A. O. Vlasov", "ru": "А. А. Власов"},
+			"OID": [2]
+		}
+	],
+	"references": {
+		"count": 25,
+		"list":  [
+			{
+				"doi": "10.1016/j.actamat.2009.07.011",
+				"or":  "M. Galano, F. Audebert, I. C. Stone, and B. Cantor, Acta Mater., 57: 5107 (2009).",
+				"tr":  "M. Galano, F. Audebert, I. C. Stone, and B. Cantor, Acta Mater., 57: 5107 (2009)."
+			},
+			{
+				"doi": "10.1080/10402004.2014.991860",
+				"or":  "N. W. Khun, R. T. Li, K. Loke, and K. A. Khor, Tribology Transactions, 58, Nо. 4: 616 (2015).",
+				"tr":  "N. W. Khun, R. T. Li, K. Loke, and K. A. Khor, Tribology Transactions, 58, No. 4: 616 (2015)."
+			},
+			{
+				"doi": "10.1016/j.matchar.2015.11.002",
+				"or":  "R. T. Li, Z. L. Dong, and V. K. Murugan, Materials Characterization, 110: 264 (2015).",
+				"tr":  "R. T. Li, Z. L. Dong, and V. K. Murugan, Materials Characterization, 110: 264 (2015)."
+			},
+			{
+				"doi": "10.1016/j.jmatprotec.2014.07.011",
+				"or":  "S. Kenzari, D. Bonina, J.-M. Dubois, V. Fournée, J. Mater. Processing Technol., Nо. 12: 3108 (2014).",
+				"tr":  "S. Kenzari, D. Bonina, J.-M. Dubois, V. Fournée, J. Mater. Processing Technol., No. 12: 3108 (2014)."
+			},
+			{
+				"doi": "10.2320/matertrans.43.2017",
+				"or":  "F. Audebert, F. Prima, M. Galano, M. Tomut, P. J. Warren, I. C. Stone, and B. Cantor, Mater. Trans., 43, Nо. 8: 2017 (2002).",
+				"tr":  "F. Audebert, F. Prima, M. Galano, M. Tomut, P. J. Warren, I. C. Stone, and B. Cantor, Mater. Trans., 43, No. 8: 2017 (2002)."
+			},
+			{
+				"doi": "10.1515/HTMP.2006.25.1-2.19",
+				"or":  "Yu. V. Milman, A. I. Sirko, M. O. Iefimov, O. D. Neikov, A. O. Sharovsky, and N. P. Zacharova, High Temperature Materials and Processes, 25, Nоs. 1–2: 19 (2006).",
+				"tr":  "Yu. V. Milman, A. I. Sirko, M. O. Iefimov, O. D. Neikov, A. O. Sharovsky, and N. P. Zacharova, High Temperature Materials and Processes, 25, Nos. 1–2: 19 (2006)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2009.07.009",
+				"or":  "M. Galano, F. Audebert, A. G. Escorial, I. C. Stone, and B. Cantor, Acta Mater., 57: 5120 (2009).",
+				"tr":  "M. Galano, F. Audebert, A. G. Escorial, I. C. Stone, and B. Cantor, Acta Mater., 57: 5120 (2009)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(00)00656-0",
+				"or":  "A. Inoue and H. Kimura, Mater. Sci. Eng. A, 286, Nо. 1: 1 (2000).",
+				"tr":  "A. Inoue and H. Kimura, Mater. Sci. Eng. A, 286, No. 1: 1 (2000)."
+			},
+			{
+				"doi": "10.1016/0965-9773(95)00029-1",
+				"or":  "A. Inoue, Nanostructured Mater., 6: 53 (1995).",
+				"tr":  "A. Inoue, Nanostructured Mater., 6: 53 (1995)."
+			},
+			{
+				"doi": "10.1016/S0079-6425(98)00005-X",
+				"or":  "A. Inoue, Prog. Mater. Sci., 43: 365 (1998).",
+				"tr":  "A. Inoue, Prog. Mater. Sci., 43: 365 (1998)."
+			},
+			{
+				"doi": "10.1007/BF00349664",
+				"or":  "A. Ziani, A. Pianelli, A. Redjamia et al., J. Mater. Sci., 30: 2921 (1995).",
+				"tr":  "A. Ziani, A. Pianelli, A. Redjamia et al., J. Mater. Sci., 30: 2921 (1995)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(01)01353-3",
+				"or":  "C. Zhang, Y. Wu, Y. Cai et al., Mater. Sci. Eng. A, 323: 226 (2002).",
+				"tr":  "C. Zhang, Y. Wu, Y. Cai et al., Mater. Sci. Eng. A, 323: 226 (2002)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2009.10.208",
+				"or":  "M. Galano, F. Audebert, A. G. Escorial, I. C. Stone, and B. Cantor, J. Alloys Compd., 495: 372 (2010).",
+				"tr":  "M. Galano, F. Audebert, A. G. Escorial, I. C. Stone, and B. Cantor, J. Alloys Compd., 495: 372 (2010)."
+			},
+			{
+				"doi": "10.1557/JMR.1986.0013",
+				"or":  "J. W. Cahn, D. Shechtman, and D. Gratias, Mater. Res. Society, 1: 13(1986).",
+				"tr":  "J. W. Cahn, D. Shechtman, and D. Gratias, Mater. Res. Society, 1: 13(1986)."
+			},
+			{
+				"doi": "10.1016/0956-7151(93)90122-9",
+				"or":  "Yu. V. Milman, B. A. Galanov, and S. I. Chugunova, Acta Metall. Mater., 41, No. 9: 2523 (1993).",
+				"tr":  "Yu. V. Milman, B. A. Galanov, and S. I. Chugunova, Acta Metall. Mater., 41, No. 9: 2523 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. А. Галанов, Ю. В. Мильман, С. И. Чугунова, И. B. Гончарова, Сверхтвёрдые материалы, № 3: 25 (1999).",
+				"tr":  "B. A. Galanov, Yu. V. Milman, S. I. Chugunova, and I. V. Goncharova, Sverkhtvyordye Materialy, No. 3: 25 (1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Р. Игнатович, И. М. Закиев, Заводская лаборатория, 77, № 1: 61 (2011).",
+				"tr":  "S. R. Ignatovich and I. M. Zakiev, Zavodskaya Laboratoriya, 77, No. 1: 61 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Фирстов, В. Ф. Горбань, Э. П. Печковский, Материаловедение, № 8: 15 (2008).",
+				"tr":  "S. A. Firstov, V. F. Gorban, and E. P. Pechkosky, Materialovedenie, No. 8: 15 (2008) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.37.07.0933",
+				"or":  "А. В. Бякова, А. И. Юркова, А. А. Власов, Металлофиз. новейшие технол., 37, № 7: 933 (2015).",
+				"tr":  "O. V. Byakova, O. I. Yurkova, and A. O. Vlasov, Metallofiz. Noveishie Tekhnol., 37, No. 7: 933 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "O. В. Бякова, Ю. В. Мільман, А. О. Власов, О. І. Юркова, Спосіб визначення коефіцієнта Пуассона: Патент України на винахід № 93248 (Бюлетень № 2) (Опубл. 25.01.2011).",
+				"tr":  "A. V. Byakova, Yu. V. Milman, A. A. Vlasov, A. O. Dudnik, and A. I. Yurkova, Sposib Vyznachennya Koeffitsienta Puassona [Method of Determining of Poisson's Ratio]: Patent No. 93248 Ukraine (Bulletin No. 2) (Publ. January 25, 2011) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. М. Бородкина, Э. Н. Спектор, Рентгенографический анализ текстуры металлов и сплавов (Москва: Металлургия: 1981).",
+				"tr":  "M. M. Borodkina and E. N. Spektor, Rentgenograficheskiy Analiz Tekstury Metallov i Splavov [X-Ray Diffraction Analysis of the Texture of Metals and Alloys] (Moscow: Metallurgiya: 1981) (in Russian)."
+			},
+			{
+				"doi": "10.1557/JMR.2000.0392",
+				"or":  "H. M. Kimura, K. Sasamori, and A. Inoue, J. Mater. Res., 15, No. 12: 2737 (2000).",
+				"tr":  "H. M. Kimura, K. Sasamori, and A. Inoue, J. Mater. Res., 15, No. 12: 2737 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Карпець, С. О. Фірстов, Л. Д. Кулак, І. Д. Горна, Н. Н. Кузьменко, Г. Ф. Саржан, Фізика і хімія твердого тіла, 7, № 1: 147 (2006).",
+				"tr":  "M. V. Karpetc, S. O. Firstov, L. D. Kulak, I. D. Gorna, N. N. Kuzmenko, and G. F. Sarghan, Fizyka i Khimiya Tverdogo Tila, 7, No. 1: 147 (2006) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "H.-J. Kestenbach, C. Bolfarini, C. S. Kiminami, and W. J. Botta Fiho, J. Metastable and Nanocrystalline Materials, 20–21: 382 (2004).",
+				"tr":  "H.-J. Kestenbach, C. Bolfarini, C. S. Kiminami, and W. J. Botta Fiho, J. Metastable and Nanocrystalline Materials, 20–21: 382 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Чередніченко, О. В. Бякова, О. І. Юркова, О. І. Сірко, Металлофиз. новейшие технол., 33, спец. вып.: 331 (2011).",
+				"tr":  "V. V. Cherednichenko, O. V. Byakova, O. I. Yurkova, O. I. Sirko, Metallofiz. Noveishie Tekhnol., 33, Special Issue: 331 (2011) (in Ukrainian)."
+			}
+		]
+	}
+}

@@ -1,0 +1,89 @@
+{
+	"_id":    "MFiNT.39.05.0633",
+	"year":   2017,
+	"volume": 39,
+	"issue":  5,
+	"pages":  [633,644],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["28.11.2016"],
+	"PACS":   "62.20.F-, 62.20.de, 81.05.Bx, 81.20.Hy, 81.40.Cd, 81.40.Ef, 81.40.Lm",
+	"title":   {
+		"ua": "Вплив відпалу на еволюцію фазового складу, структури та фізико-механічних властивостей високоентропійного стопу CrMnFeCoNi$_{2}$Cu",
+		"en": "Effect of Annealing on the Phase Composition, Microstructure and Physical-Mechanical Properties’ Evolution of High-Entropy CrMnFeCoNi$_{2}$Cu Alloy",
+		"ru": "Влияние отжига на эволюцию фазового состава, структуры и физико-механических свойств высокоэнтропийного сплава CrMnFeCoNi$_{2}$Cu"
+	},
+	"abstract": {
+		"ua": "Досліджено еволюцію структури, фазового складу та фізико-механічних властивостей холоднокатаного високоентропійного стопу (ВЕС) CrMnFeCoNi$_{2}$Cu. Вказаний ВЕС нееквіатомового складу був виготовлений методою арґонодугового топлення з подальшим вальцюванням за кімнатної температури на ступінь деформації 98%. Термостабільність фазового складу, структури та фізико-механічних властивостей вивчалася після двогодинних відпалів за температур у 1073, 1173, 1273, 1373, 1473 К. Показано, що стоп CrMnFeCoNi$_{2}$Cu у деформованому стані містить два твердих розчини на основі фаз із ГЦК-структурою (названих ГЦК$_1$ і ГЦК$_2$). Відпал до 1273 К сприяє збільшенню кількости фазової складової ГЦК$_2$. Після відпалу вище 1273 К по межах зерен виділяється фазова складова ГЦК$_1$, збагачена на Cu, Ni, Mn. Істотне зростання розміру зерна спостерігається після відпалу при 1173 К. Рівень мікротвердости залишається стабільним до температури у 1273 К (0,84Т$_{топл}$). Ефект зміцнення після холодної пластичної деформації було повністю усунено відпалом за 1473 К протягом двох годин.",
+		"en": "The subject of this article is the investigation of thermal stability of the phase composition and physical-mechanical properties of the cold-rolled high-entropy multicomponent CrMnFeCoNi$_{2}$Cu alloy. Non-equiatomic high-entropy CrMnFeCoNi$_{2}$Cu alloy is designed and fabricated by argon-arc smelting and room-temperature cold rolling up to 98% deformation. Thermal stability of phase composition, structure and physical-mechanical properties are studied after two-hour annealing at temperatures of 1073, 1173, 1273, 1373, 1473 K. As shown, the CrMnFeCoNi$_{2}$Cu alloy in deformed state contains two f.c.c. phases (named as f.c.c.$_1$ and f.c.c.$_2$). Annealing at 1273 K promotes the formation of f.c.c.$_2$ phase. After annealing above 1273 K, the f.c.c.$_1$ phase enriched with Cu, Ni, and Mn is precipitated at the grain boundaries. A substantial grain-size increasing is observed after annealing at 1173 K. Level of microhardness remains stable up to temperature of 1273 K (0.84T$_{melt}$). Effect of strengthening after cold plastic deformation is completely removed due to annealing at 1473 K for two hours. Recrystallization strain in high-entropy CrMnFeCoNi$_{2}$Cu alloy lasts much slower than in most steels and alloys.",
+		"ru": "Исследована эволюция структуры, фазового состава и физико-механических свойств холоднокатаного высокоэнтропийного сплава (ВЭС) CrMnFeCoNi$_{2}$Cu. Указанный ВЭС неэквиатомного состава был изготовлен методом аргонодуговой плавки с последующей прокаткой при комнатной температуре на степень деформации 98%. Термостабильность фазового состава, структуры и физико-механических свойств изучалась после двухчасовых отжигов при температурах 1073, 1173, 1273, 1373, 1473 К. Показано, что сплав CrMnFeCoNi$_{2}$Cu в деформированном состоянии содержит два твёрдых раствора на основе фаз с ГЦК-структурой (обозначенных как ГЦК$_1$ и ГЦК$_2$). Отжиг при 1273 К способствует увеличению количества фазовой составляющей ГЦК$_2$. После отжига выше 1273 К по границам зёрен выделяется фазовая составляющая ГЦК$_1$, обогащённая Cu, Ni, Mn. Существенный рост размера зерна наблюдается после отжига при 1173 К. Уровень микротвёрдости остаётся стабильным до температуры 1273 К (0,84Т$_{плавл}$). Эффект упрочнения после холодной пластической деформации был полностью устранён отжигом при температуре 1473 К в течение двух часов."
+	},
+	"keywords": {
+		"ua": "високоентропійні стопи, холодне вальцювання, відпал, механічні властивості, текстура",
+		"en": "high-entropy alloys, cold rolling, annealing, mechanical properties, texture",
+		"ru": "высокоэнтропийные сплавы, холодная прокатка, отжиг, механические свойства, текстура"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. М. Мисливченко", "en": "O. M. Myslyvchenko", "ru": "А. Н. Мысливченко"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "М. О. Крапівка", "en": "M. O. Krapіvka", "ru": "Н. А. Крапивка"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "В. Ф. Горбань", "en": "V. F. Gorban’", "ru": "В. Ф. Горбань"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "М. В. Карпець", "en": "M. V. Karpets", "ru": "М. В. Карпец"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "О. А. Рокицька", "en": "O. A. Rokitska", "ru": "Е. А. Рокицкая"},
+			"OID": [2]
+		}
+	],
+	"references": {
+		"count": 7,
+		"list":  [
+			{
+				"doi": "10.4028/www.scientific.net/MSF.560.1",
+				"or":  "J. W. Yeh, Y. L. Chen, S. J. Lin, and S. J. Chen, Mater. Sci. Forum, 560: 1 (2007).",
+				"tr":  "J. W. Yeh, Y. L. Chen, S. J. Lin, and S. J. Chen, Mater. Sci. Forum, 560: 1 (2007)."
+			},
+			{
+				"doi": "10.1016/j.msea.2011.01.072",
+				"or":  "C. Y. Hsu, C. C. Juan, W. R. Wang, T. S. Sheu, J. W. Yeh, and S. K. Chen, Mater. Sci. Eng. A, No. 10: 3581 (2011).",
+				"tr":  "C. Y. Hsu, C. C. Juan, W. R. Wang, T. S. Sheu, J. W. Yeh, and S. K. Chen, Mater. Sci. Eng. A, No. 10: 3581 (2011)."
+			},
+			{
+				"doi": "10.1016/j.compositesa.2015.05.023",
+				"or":  "S. T. Mileiko, S. A. Firstov, N. A. Novokhatskaya, V. F. Gorban, and M. O. Krapivka, Composites. Part A: Applied Science and Manufacturing, 76: 131 (2015).",
+				"tr":  "S. T. Mileiko, S. A. Firstov, N. A. Novokhatskaya, V. F. Gorban, and M. O. Krapivka, Composites. Part A: Applied Science and Manufacturing, 76: 131 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "C. А. Фирстов, M. И. Kaрпов, В. Ф. Горбань, В. П. Koржов, Н. А. Kрапивка, T. С. Строганова, Сборник трудов Международной научно-технической конференции «Нанотехнологии функциональных материалов» (24–28 июня 2014 г.) (Санкт-Петербург: 2014), с. 364.",
+				"tr":  "S. A. Firstov, M. I. Karpov, V. F. Gorban', V. P. Korzhov, N. A. Krapivka, and T. S. Stroganova, Proceeding of the International Scientific and Technical Conference 'Nanotechnologies of Functional Materials' (June 24–28, 2014) (Saint Petersburg: 2014), p. 364 (in Russian)."
+			},
+			{
+				"doi": "10.3103/S1063457615010049",
+				"or":  "M. V. Karpets’, O. M. Myslyvchenko, M. O. Krapivka, V. F. Gorban’, O. S. Makarenko, and V. A. Nazarenko, J. Superhard Materials, 37, No. 1: 21 (2015).",
+				"tr":  "M. V. Karpets', O. M. Myslyvchenko, M. O. Krapivka, V. F. Gorban', O. S. Makarenko, and V. A. Nazarenko, J. Superhard Materials, 37, No. 1: 21 (2015)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2013.10.237",
+				"or":  "P. P. Bhattacharjee, G. D. Sathiaraj, M. Zaid, J. R. Gatti, C. Lee, C. W. Tsai, and J. W. Yeh, J. Alloys Compd., 587: 544 (2014).",
+				"tr":  "P. P. Bhattacharjee, G. D. Sathiaraj, M. Zaid, J. R. Gatti, C. Lee, C. W. Tsai, and J. W. Yeh, J. Alloys Compd., 587: 544 (2014)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2012.09.133",
+				"or":  "M. H. Chuang, M. H. Tsai, C. W. Tsai, N. H. Yang, S. Y. Chang, J. W. Yeh, and S. J. Lin, J. Alloys Compd., 551: 12 (2013).",
+				"tr":  "M. H. Chuang, M. H. Tsai, C. W. Tsai, N. H. Yang, S. Y. Chang, J. W. Yeh, and S. J. Lin, J. Alloys Compd., 551: 12 (2013)."
+			}
+		]
+	}
+}

@@ -1,0 +1,145 @@
+{
+	"_id":    "MFiNT.38.03.0329",
+	"year":   2016,
+	"volume": 38,
+	"issue":  3,
+	"pages":  [329,340],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["02.02.2016"],
+	"PACS":   "72.10.Fk, 73.23.Ad, 73.25.+i, 73.50.Bk, 73.61.At, 73.63.Bd, 81.15.Kk",
+	"title":   {
+		"ua": "Перенесення заряду в полікристалічних плівках Pd нанометрової товщини",
+		"en": "Charge Transport in Polycrystalline Films of a Palladium of Nanometre Thickness",
+		"ru": "Перенос заряда в поликристаллических плёнках Pd нанометровой толщины"
+	},
+	"abstract": {
+		"ua": "Експериментальні залежності «питома електропровідність—товщина шару» «заморожено конденсованих» ультратонких плівок паладію кількісно описано на основі теорій квазикласичного та квантового розмірних ефектів. Тонкі плівки паладію було препаровано та досліджено в умовах надвисокого вакууму. Плівки наносили на поверхню скляних підкладинок та скляних підкладинок, попередньо покритих підшаром ґерманію масовою товщиною у 0,5 нм. Експериментальні дані добре узгоджуються з результатами теоретичних розрахунків, які враховують особливості структури плівок і морфології їхньої поверхні. Розраховано параметри перенесення заряду в досліджуваних зразках.",
+		"en": "Conductivity—thickness dependences in quench-condensed palladium ultrathin films are quantitatively described within the scope of the semiclassical and quantum size effect theories. The palladium thin films are prepared and investigated under ultrahigh vacuum conditions. The films are deposited on glass substrate or on glass substrate preliminary covered by germanium sublayers with mass thicknesses of 0.5 nm. The experimental data has a good agreement with the theoretical calculations, which take into account the peculiarities of the metal-films’ structure and the films’ surface morphology. Charge-transport parameters of thin films are calculated.",
+		"ru": "Экспериментальные зависимости «удельная электропроводность—толщина слоя» «замороженно конденсированных» ультратонких плёнок палладия количественно описаны в рамках теорий квазиклассического и квантового размерных эффектов. Тонкие плёнки палладия были приготовлены и исследованы в условиях сверхвысокого вакуума. Плёнки сформированы на поверхностях стеклянных подложек и стеклянных подложек, предварительно покрытых подслоем германия массовой толщиной 0,5 нм. Экспериментальные данные хорошо согласуются с результатами теоретических расчётов, учитывающих особенности структуры плёнок и поверхностной морфологии плёнок. Рассчитаны параметры переноса заряда в плёнках."
+	},
+	"keywords": {
+		"ua": "тонкі металеві плівки, поверхневе та зерномежове розсіяння, напівпровідникові підшари субатомової товщини",
+		"en": "metal thin films, surface and grain boundary scatterings, semiconductor sublayers of subatomic thickness",
+		"ru": "тонкие металлические плёнки, поверхностное и зернограничное рассеяния, полупроводниковые подслои субатомной толщины"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Р. І. Бігун", "en": "R. I. Bigun", "ru": "Р. И. Бигун"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "В. М. Гаврилюх", "en": "V. M. Gavrylyukh", "ru": "В. М. Гаврилюх"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "З. В. Стасюк", "en": "Z. V. Stasyuk", "ru": "З. В. Стасюк"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "Д. С. Леонов", "en": "D. S. Leonov", "ru": "Д. С. Леонов"},
+			"OID": [16]
+		}
+	],
+	"references": {
+		"count": 19,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Н. Т. Гладких, С. В. Дукаров, А. П. Крышталь, В. И. Ларин, В. Н. Сухов, С. И. Богатыренко, Поверхностные явления и фазовые превращения в конденсированных пленках (Ред. Н. Т. Гладких) (Харьков: ХНУ им. В. Н. Каразина: 2004).",
+				"tr":  "N. T. Gladkikh, S. V. Dukarov, A. P. Kryshtal', V. I. Larin, V. N. Sukhov, S. I. Bogatyrenko, Poverkhnostnye Yavleniya i Fazovye Prevrashcheniya v Kondensirovannykh Plenkakh (Ed. N. T. Gladkikh) (Khar'kov: KhNU im. V. N. Karazina: 2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. V. Dukarov, S. I. Petrushenko, V. N. Sukhov, and I. G. Churilov, Probl. Atomic Sci. Technol., 89, No. 1: 110 (2014).",
+				"tr":  "S. V. Dukarov, S. I. Petrushenko, V. N. Sukhov, and I. G. Churilov, Probl. Atomic Sci. Technol., 89, No. 1: 110 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, Р. І. Бігун, З. В. Стасюк, Ю. А. Куницький, Наносистеми, наноматеріали, нанотехнології, 8, вип. 2: 339 (2010).",
+				"tr":  "A. P. Shpak, R. I. Bigun, Z. V. Stasyuk, and Yu. A. Kunitsky, Nanosistemi, Nanomateriali, Nanotehnologii, 8, Iss. 2: 339 (2010) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. І. Бігун, О. Є. Кравченко, З. В. Стасюк, Д. С. Леонов, Металофиз. новейшие технол., 34, № 4: 469 (2012).",
+				"tr":  "R. I. Bigun, O. Ye. Kravchenko, Z. V. Stasyuk, and D. S. Leonov, Metallofiz. Noveishie Tekhnol., 34, № 4: 469 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Z. V. Stasyuk, M. Kozak, B. Penyukh, and R. Bihun, J. Phys. Stud., 7, No. 2: 207 (2003).",
+				"tr":  "Z. V. Stasyuk, M. Kozak, B. Penyukh, and R. Bihun, J. Phys. Stud., 7, No. 2: 207 (2003)."
+			},
+			{
+				"doi": "10.1016/0001-6160(84)90150-0",
+				"or":  "C. R. Grovenor, H. T. Hentzell, and D. A. Smith, Acta Metall., 32, No. 5: 773 (1984).",
+				"tr":  "C. R. Grovenor, H. T. Hentzell, and D. A. Smith, Acta Metall., 32, No. 5: 773 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "K. L. Ekinci and J. M. Valles, Acta Metall., 46, No. 13: 4549 (1998).",
+				"tr":  "K. L. Ekinci and J. M. Valles, Acta Metall., 46, No. 13: 4549 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Д. Бучковська, Р. І. Бігун, З. В. Стасюк, Д. С. Леонов, Металофиз. новейшие технол., 35, №12: 1659 (2013).",
+				"tr":  "M. D. Buchkovska, R. I. Bihun, Z. V. Stasyuk, and D. S. Leonov, Metallofiz. Noveishie Tekhnol., 35, No. 12: 1659 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Z. Stasyuk, J. Phys. Stud., 3, No. 1: 102 (1999).",
+				"tr":  "Z. Stasyuk, J. Phys. Stud., 3, No. 1: 102 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "З. В. Стасюк, А. І. Лопатинський, Фізика і хімія твердого тіла, 2, № 4: 521 (2001).",
+				"tr":  "Z. V. Stasiuk and A. I. Lopatynskyi, Fizyka i Khimiia Tverdoho Tila, 2, No. 4: 521 (2001) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. І. Бігун, М. Д. Бучковська, В. М. Гаврилюх, Я. А. Пастирський, З. В. Стасюк, Наноситеми, наноматеріали, нанотехнології, 13, вип. 1: 75 (2015).",
+				"tr":  "R. I. Bigun, M. D. Buchkovs'ka, V. M. Gavrylyukh, Ya. A. Pastyrs'kyy, and Z. V. Stasyuk, Nanosistemi, Nanomateriali, Nanotehnologii, 13, Iss. 1: 75 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/mfint.37.03.0317",
+				"or":  "Р. І. Бігун, В. М. Гаврилюх, З. В. Стасюк, Д. С. Леонов, Металофиз. новейшие технол., 37, № 3: 317 (2015).",
+				"tr":  "R. I. Bigun, V. M. Gavrylyukh, Z. V. Stasyuk, and D. S. Leonov, Metallofiz. Noveishie Tekhnol., 37, No. 3: 317 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Z. Tesanovic, M. Jaric, and S. Maekawa, Phys. Rev. B, 57, No. 21: 2760 (1986).",
+				"tr":  "Z. Tesanovic, M. Jaric, and S. Maekawa, Phys. Rev. B, 57, No. 21: 2760 (1986)."
+			},
+			{
+				"doi": "10.1088/0022-3719/20/30/006",
+				"or":  "Z. Tesanovic, Solid State Phys., 20, No. 6: L829 (1987).",
+				"tr":  "Z. Tesanovic, Solid State Phys., 20, No. 6: L829 (1987)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.38.12298",
+				"or":  "N. Trivedi and N. Ashcroft, Phys. Rev. B, 38, No. 17: 12298 (1988).",
+				"tr":  "N. Trivedi and N. Ashcroft, Phys. Rev. B, 38, No. 17: 12298 (1988)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.62.1302",
+				"or":  "G. Fishman and D. Calecki, Phys. Rev. Lett., 62, No. 11: 1302 (1989).",
+				"tr":  "G. Fishman and D. Calecki, Phys. Rev. Lett., 62, No. 11: 1302 (1989)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.43.11581",
+				"or":  "G. Fishman and D. Calecki, Phys. Rev. B, 43, No. 14: 11581 (1991).",
+				"tr":  "G. Fishman and D. Calecki, Phys. Rev. B, 43, No. 14: 11581 (1991)."
+			},
+			{
+				"doi": "10.15407/mfint.36.06.0723",
+				"or":  "Р. І. Бігун, З. В. Стасюк, Металофиз. новейшие технол., 36, № 6: 723 (2014).",
+				"tr":  "R. I. Bihun and Z. V. Stasyuk, Metallofiz. Noveishie Tekhnol., 36, No. 6: 723 (2014) (in Ukrainian))."
+			},
+			{
+				"doi": "10.1016/j.physb.2016.02.003",
+				"or":  "R. I. Bihun, Z. V. Stasyuk, and O. A. Balitskii, Physica B, 487: 73 (2016).",
+				"tr":  "R. I. Bihun, Z. V. Stasyuk, and O. A. Balitskii, Physica B, 487: 73 (2016)."
+			}
+		]
+	}
+}

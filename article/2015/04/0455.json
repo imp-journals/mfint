@@ -1,0 +1,53 @@
+{
+	"_id":    "MFiNT.37.0455",
+	"year":   2015,
+	"volume": 37,
+	"issue":  4,
+	"pages":  [455,473],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["05.12.2014"],
+	"PACS":   "61.72.Bb, 61.72.sd, 64.70.kd, 64.75.Bc, 65.40.G-, 82.60.Lf, 88.30.rd",
+	"title":  {
+		"ua": "Статистико-термодинамічна теорія Р—с—Т-залежностей тригідрида цирконій-нікелевого сплаву ZrNiH$_{3}$",
+		"en": "The Statistical-Thermodynamic Theory of P—c—T-Dependences for Zirconium—Nickel Alloy Trihydride ZrNiH$_{3}$",
+		"ru": "Статистико-термодинамическая теория Р—с—Т-зависимостей тригидрида цирконий-никелевого сплава ZrNiH$_{3}$"
+	},
+	"abstract": {
+		"ua": "На підґрунті молекулярно-кінетичних уявлень розроблено теорію розчинности водню в металіді Zr—Ni еквіатомового складу. Визначено функціональну залежність вмісту Гідроґену в кристалі від температури та тиску. Обумовлено, що процеси сорбції водню реалізуються при досить малих тисках (порядку 1 атм.) та низьких температурах (порядку кімнатної). Розраховано ізотерми та ізоплети розчинности водню. Встановлено можливість прояву гістерезного ефекту. Показано, що залежність натурального логарифму тиску від оберненої температури для досліджуваного стопу є строго лінійною. Результати теоретичних розрахунків зіставлено з численними експериментальними даними.",
+		"en": "The theory of hydrogen solubility in Zr—Ni metallide of equiatomic composition is developed on the basis of molecular-kinetic concepts. The functional dependences of hydrogen content in the crystal on temperature and pressure are determined. As stipulated, the hydrogen sorption processes are realized at the sufficiently low pressures (of about 1 atm) and the moderate temperatures (of the room-temperature order). The isotherms and isopleths of hydrogen solubility are calculated. The possibility of manifestation of the hysteresis effect is ascertained. As shown, the dependence of natural logarithm of pressure on the inverse temperature for the studied alloy is a strictly linear. The results of theoretical calculations are compared with a lot of experimental data.",
+		"ru": "На основе молекулярно-кинетических представлений разработана теория растворимости водорода в металлиде Zr—Ni эквиатомного состава. Определена функциональная зависимость содержания водорода в кристалле от температуры и давления. Обусловлено, что процессы сорбции водорода реализуются при достаточно малых давлениях (порядка 1 атм.) и низких температурах (порядка комнатной). Рассчитаны изотермы и изоплеты растворимости водорода. Установлена возможность проявления гистерезисного эффекта. Показано, что зависимость натурального логарифма давления от обратной температуры для исследуемого сплава является строго линейной. Результаты теоретических расчётов сопоставлены с многочисленными экспериментальными данными."
+	},
+	"keywords": {
+		"ua": "статистична теорія, гідрування, розчинність водню, гістерезисний ефект, металіди Zr–Ni, кристал ZrNiН$_{3}$",
+		"en": "statistical theory, hydrogenation, hydrogen solubility, hysteresis effect, Zr—Ni metallide, ZrNiН$_{3}$ crystal",
+		"ru": "статистическая теория, гидрирование, растворимость водорода, гистерезисный эффект, металлид Zr–Ni, кристалл ZrNiН$_{3}$"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. Ю. Загинайченко", "en": "S. Yu. Zaginaichenko", "ru": "С. Ю. Загинайченко"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "З. А. Матисіна", "en": "Z. A. Matysina", "ru": "З. А. Матысина"},
+			"OID": [222]
+		},
+		{
+			"AID": {"ua": "Д. В. Щур", "en": "D. V. Schur", "ru": "Д. В. Щур"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "Д. О. Зарицький", "en": "D. A. Zaritskii", "ru": "Д. А. Зарицкий"},
+			"OID": [222]
+		},
+		{
+			"AID": {"ua": "М. А. Поліщук", "en": "M. A. Polischuk", "ru": "М. А. Полищук"},
+			"OID": [2]
+		}
+	],
+	"references": {
+		"count": 74,
+		"list":  []
+	}
+}

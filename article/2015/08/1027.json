@@ -1,0 +1,71 @@
+{
+	"_id":    "MFiNT.37.08.1027",
+	"year":   2015,
+	"volume": 37,
+	"issue":  8,
+	"pages":  [1027,1036],
+	"rubric": 2,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["08.06.2015"],
+	"PACS":   "07.05.Dz, 07.20.Dt, 07.64.+z, 28.41.My, 28.41.Te, 28.52.Nh, 43.58.+z",
+	"title":  {
+		"ua": "Вибір моделю реконструкції температурного поля для ультразвукового неруйнівного контролю замкненої конструкції з одностороннім доступом у нестаціонарних теплових умовах",
+		"en": "Choice of Model of Reconstruction of a Temperature Profile for the Ultrasonic Non-destructive Testing of the Closed Construction of Unilateral Access in Non-Stationary Thermal Conditions",
+		"ru": "Выбор модели реконструкции температурного поля для ультразвукового неразрушающего контроля замкнутой конструкции с односторонним доступом в нестационарных тепловых условиях"
+	},
+	"abstract": {
+		"ua": "Виконано кількісну аналізу теоретичних моделів напівнескінченної платівки (ННП) та платівки скінченної товщини (ПСТ) для застосування при ультразвуковому неруйнівному контролі (УЗНК) температурного поля $T(x, t)$ у стінці замкненої конструкції з однобічним приступом у нестаціонарних теплових умовах. Теоретичні розрахунки $T(x, t)$ порівнюються з відповідними експериментальними даними, одержаними на масивних зразках з корпусної сталі 15Х2МФА реактора ВВЕР-440, яких було піддано імпульсному тепловому навантаженню (ІТН). Встановлено, що модель ННП є ефективним для УЗНК поверхневих внутрішніх шарів стінки конструкції (глибина $x \\leq$ 20—25 мм) і малих часів контролю після ІТН ($t <$ 10—20 c), а модель ПКТ може бути використаний для значно більш тривалого часу ($t$ = 0—500 c). Показано, що оптимальним є застосування при УЗНК $T(x, t)$ обох моделів одночасно.",
+		"en": "A quantitative analysis of the theoretical models of the semi-infinite plate (SIP) and the finite-thickness plate (FTP) for usage during ultrasonic nondestructive testing (UNDT) of the temperature field, $T(x, t)$, in the wall of a closed construction with one-side access under the non-stationary thermal conditions is performed. The theoretical calculations of $T(x, t)$ are compared with the corresponding experimental data obtained on bulky specimens of hull steel 15Cr2MFA of the WWER-440 reactor, which are subjected to pulsed thermal loading (PTL). As found, the SIP model is effective for UNDT of the inner layers of the wall surface of the construction (with depth $h \\leq$ 20—25 mm) and small times of control after the PTL ($t <$ 10—20 s), but the FTP model can be used for significantly more long-term control ($t$ = 0—500 s). As shown, the most optimal for UNDT is using the $T(x, t)$ of both models simultaneously.",
+		"ru": "Выполнен количественный анализ теоретических моделей полубесконечной пластины (ПБП) и пластины конечной толщины (ПКТ) для применения при ультразвуковом неразрушающем контроле (УЗНК) температурного поля $T(x, t)$ в стенке замкнутой конструкции с односторонним доступом в нестационарных тепловых условиях. Теоретические расчёты $T(x, t)$ сравниваются с соответствующими экспериментальными данными, полученными на массивных образцах из корпусной стали 15Х2МФА реактора ВВЭР-440, которые были подвергнуты импульсному тепловому нагружению (ИТН). Установлено, что модель ПБП эффективна для УЗНК поверхностных внутренних слоёв стенки конструкции (глубина $x \\leq$ 20—25 мм) и малых времён контроля после ИТН ($t <$ 10—20 c), а модель ПКТ может быть использована для значительно более длительного времени ($t$ = 0—500c). Показано, что оптимальным является применение при УЗНК $T(x, t)$ обеих моделей одновременно."
+	},
+	"keywords": {
+		"ua": "ультразвуковий контроль, температурне поле, стінка корпусу ядерного реактора",
+		"en": "ultrasonic testing, temperature field, wall of the reactor vessel",
+		"ru": "ультразвуковой контроль, температурное поле, стенка корпуса ядерного реактора"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. А. Михайловський", "en": "V. A. Mykhailovskyy", "ru": "В. А. Михайловский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. О. Дордієнко", "en": "M. O. Dordienko", "ru": "Н. А. Дордиенко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. І. Запорожець", "en": "O. I. Zaporozhets", "ru": "О. И. Запорожец"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 5,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "О. И. Веселовский, М. Е. Гуревич, В. С. Карасев и др., ВАНТ. Сер. Физика, вып. 1(58)–2(59): 129 (1992).",
+				"tr":  "O. I. Veselovskiy, M. E. Gurevich, V. S. Karasev et al., VANT. Ser. Fizika, Iss. 1(58)–2(59): 129 (1992) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. И. Запорожец, А. В. Личко, В. В. Немошкаленко, А. И. Носарь, Металлофиз. новейшие технол., 17: 961 (1999).",
+				"tr":  "O. I. Zaporozhets, A. V. Lichko, V. V. Nemoshkalenko, and A. I. Nosar, Metallofiz. Noveishie Tekhnol., 17: 961 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "О. И. Запорожец, В. В. Немошкаленко, А. И. Носарь, Метод неразрушающего контроля конструкций, Патент Украины № 21827 A. G01L13/100 (Опубл. 30 апреля 1998 г.) (Бюлл. № 2).",
+				"tr":  "O. I. Zaporozhets, V. V. Nemoshkalenko, and A. I. Nosar, Method of Non-Destructive Control of Constructions, Patent of Ukraine No. 21827 A. G01L13/100 (Publ. April 30, 1998) (Bull. No. 2)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Дордиенко, О. И. Запорожец, В. А. Михайловский, В. Б. Молодкин, Металлофиз. новейшие технол., 34, № 7: 949 (2012).",
+				"tr":  "M. O. Dordienko, O. I. Zaporozhets, V. A. Mykhailovskyy, and V. B. Molodkin, Metallofiz. Noveishie Tekhnol., 34, No. 7: 949 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Дордиенко, О. Запорожец, В. Михайловский, А. Носарь, Вісник ТНТУ, 72, № 4: 151 (2013).",
+				"tr":  "N. Dordienko, O. Zaporozhets, V. Mykhailovskyy, and A. Nosar, Visnyk TNTU (Scientific Journal of the Ternopil National Technical University), 72, No. 4: 151 (2013) (in Russian)."
+			}
+		]
+	}
+}

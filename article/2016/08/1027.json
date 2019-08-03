@@ -1,0 +1,238 @@
+{
+	"_id":    "MFiNT.38.08.1027",
+	"year":   2016,
+	"volume": 38,
+	"issue":  8,
+	"pages":  [1027,1055],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["13.06.2016"],
+	"PACS":   "61.72.Ff, 61.72.Hh, 62.20.Hg, 63.20.kd, 63.20.kp, 75.80.+q, 83.60.Np",
+	"title":   {
+		"ua": "Вплив змінного магнетного поля на фізичні та механічні властивості кристалів",
+		"en": "Influence of Alternating Magnetic Field on Physical and Mechanical Properties of Crystals",
+		"ru": "Влияние переменного магнитного поля на физические и механические свойства кристаллов"
+	},
+	"abstract": {
+		"ua": "Наведено результати досліджень характеристик плазучости та активаційних параметрів пластичної течії полікристалічного ніклю (99,996% чистоти) за постійної температури у 77 К. Досліджувався вплив нестаціонарного магнетного поля напруженістю у 500 Е (гармонічні (50 Гц) та однополярні імпульси тієї ж частоти) на параметри плазучости ніклю. Експериментальні дослідження з впливу нестаціонарного магнетного поля змінного та сталого знаку за постійної температури проводилися, щоб оцінити внесок у рухливість дислокацій від взаємодії дислокацій з рухливими межами домен, а також від теплових ефектів, пов’язаних з індукційним електричним полем. Пропонований модель електропластичного ефекту (ЕПЕ) передбачає наступний механізм знеміцнення під дією електричного поля. Електричне поле передає енергію підсистемі електронів провідности, роблячи її термодинамічно нерівноважною. Нерівноважні електрони, що взаємодіють з акустичними фононами, передають енергію переважно короткохвильовій частині фононного спектру. Короткохвильові фонони, завдяки великому ґрадієнту напруги, ефективно відкріплюють дислокації від стопорів. Результати експериментів якісно збігаються з даними числових розрахунків.",
+		"en": "The results of the investigation of creep characteristics and activation parameters of polycrystalline nickel (of 99.996% purity) plastic flow at the temperature of 77 K are presented. The influence of nonstationary magnetic field with strength of 500 Oe (harmonic (50 Hz) and monopolar pulses of the same frequency) on the nickel creep characteristics is studied. We have deliberately conducted experimental investigations of the influence of nonstationary magnetic field of alternating and constant sign at constant temperature in order to estimate the contribution to the dislocations’ mobility from the interaction of dislocations with the mobile domain boundaries as well as from the heat effects connected with the induction electric field. The proposed model of electroplastic effect (EPE) suggests the following mechanism of weakening under the action of electric field. Electric field gives energy to conductivity electron subsystem, making it thermodynamically nonequilibrium. Nonequilibrium electrons while interacting with acoustic phonons transfer more energy to short-wave part of the phonon spectrum. Short-wave phonons due to large stress gradient effectively detach dislocations from stoppers. Experimental results qualitatively match with the data obtained after numerical calculations.",
+		"ru": "Представлены результаты исследования характеристик ползучести и активационных параметров пластического течения поликристаллического никеля (99,996% чистоты) при температуре 77 К. Было изучено влияние нестационарного магнитного поля напряжённостью 500 Э (гармонические (50 Гц) и монополярные импульсы той же частоты) на параметры ползучести никеля. Экспериментальные исследования влияния нестационарного магнитного поля постоянного и переменного знака при постоянной температуре проводились с целью оценить вклад в подвижность дислокаций от взаимодействия дислокаций с подвижными доменными границами, а также от тепловых эффектов, связанных с индукционным электрическим полем. Предлагаемая модель электропластического эффекта (ЭПЭ) подразумевает следующий механизм разупрочнения под действием электрического поля. Электрическое поле передаёт энергию подсистеме электронов проводимости, делая её термодинамически неравновесной. Неравновесные электроны, взаимодействуя с акустическими фононами, передают энергию преимущественно коротковолновой части фононного спектра. Коротковолновые фононы благодаря большому пространственному градиенту напряжения эффективно открепляют дислокации от стопоров. Экспериментальные результаты качественно совпадают с данными численных расчётов."
+	},
+	"keywords": {
+		"ua": "магнетопластичний ефект, змінне магнетне поле, рухливість дислокацій, швидкість плазучости, феромагнетний кристал, нерівноважна електронна та фононна підсистеми",
+		"en": "magnetoplastic effect, alternating magnetic field, dislocation mobility, creep rate, ferromagnetic crystal, nonequilibrium electron and phonon subsystem",
+		"ru": "магнитопластический эффект, переменное магнитное поле, подвижность дислокаций, скорость ползучести, ферромагнитный кристалл, неравновесная электронная и фононная подсистемы"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. І. Карась", "en": "V. I. Karas", "ru": "В. И. Карась"},
+			"OID": [3,206]
+		},
+		{
+			"AID": {"ua": "Є. В. Карасьова", "en": "E. V. Karasyova", "ru": "Е. В. Карасёва"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "О. В. Мац", "en": "A. V. Mats", "ru": "А. В. Мац"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "В. І. Соколенко", "en": "V. I. Sokolenko", "ru": "В. И. Соколенко"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "О. М. Власенко", "en": "A. M. Vlasenko", "ru": "А. М. Власенко"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "В. Є. Захаров", "en": "V. E. Zakharov", "ru": "В. Е. Захаров"},
+			"OID": [491,492]
+		}
+	],
+	"references": {
+		"count": 36,
+		"list":  [
+			{
+				"doi": "10.1143/JPSJ.30.381",
+				"or":  "S. Hayashi, S. Takahashi, and M. Yamamoto, J. Phys. Soc. Jpn., 25, No. 2: 910 (1968); J. Phys. Soc. Jpn., 30: 381 (1971).",
+				"tr":  "S. Hayashi, S. Takahashi, and M. Yamamoto, J. Phys. Soc. Jpn., 25, No. 2: 910 (1968); J. Phys. Soc. Jpn., 30: 381 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "I. A. Gindin, I. S. Lavrinenko, and I. M. Neklyudov, JETP Lett., 16, No. 6: 341(1972); Fizika Tverdogo Tela, 15, No. 4: 636 (1973) (in Russian).",
+				"tr":  "I. A. Gindin, I. S. Lavrinenko, and I. M. Neklyudov, JETP Lett., 16, No. 6: 341(1972); Fizika Tverdogo Tela, 15, No. 4: 636 (1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "O. A. Troitskii and V. I. Likhtman, Dokl. Akad. Nauk SSSR, 148, No. 2: 332 (1963) (in Russian).",
+				"tr":  "O. A. Troitskii and V. I. Likhtman, Dokl. Akad. Nauk SSSR, 148, No. 2: 332 (1963) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. E. Gromov, V. Ya. Tsellermayer, and V. I. Bazaykin, Elektrostimulirovannoye Volocheniye: Analiz Protsessa i Mikrostruktura (Moscow: Nedra: 1996) (in Russian).",
+				"tr":  "V. E. Gromov, V. Ya. Tsellermayer, and V. I. Bazaykin, Elektrostimulirovannoye Volocheniye: Analiz Protsessa i Mikrostruktura (Moscow: Nedra: 1996) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Spitsyn and O. A. Troitskii, Elektroplasticheskaya Deformatsiya Metallov (Moscow: Nauka: 1985) (in Russian).",
+				"tr":  "V. I. Spitsyn and O. A. Troitskii, Elektroplasticheskaya Deformatsiya Metallov (Moscow: Nauka: 1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Stolyarov, Vestnik Nauchno-Tekhnicheskogo Razvitiya, No. 67: 35 (2013) (in Russian).",
+				"tr":  "V. V. Stolyarov, Vestnik Nauchno-Tekhnicheskogo Razvitiya, No. 67: 35 (2013) (in Russian)."
+			},
+			{
+				"doi": "10.1070/PU2004v047n02ABEH001683",
+				"or":  "R. B. Morgunov, Physics–Uspekhi, 47, No. 2: 131 (2004).",
+				"tr":  "R. B. Morgunov, Physics–Uspekhi, 47, No. 2: 131 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "I. M. Nekludov, V. M. Azhazha, K. A. Yushchenko, V. I. Sokolenko, A. V. Mats, V. M. Netesov, and V. V. Vartanov, Fizika i Khimiya Obrabotki Materialov, No. 1: 84 (2011) (in Russian).",
+				"tr":  "I. M. Nekludov, V. M. Azhazha, K. A. Yushchenko, V. I. Sokolenko, A. V. Mats, V. M. Netesov, and V. V. Vartanov, Fizika i Khimiya Obrabotki Materialov, No. 1: 84 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. P. Lebedev and S. V. Savych, Vestnik KhNU. Seriya ‘Fizika’, No. 962, Iss. 15: 88 (2011) (in Russian).",
+				"tr":  "V. P. Lebedev and S. V. Savych, Vestnik KhNU. Seriya 'Fizika', No. 962, Iss. 15: 88 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "I. A. Gindin, S. F. Kravchenko, and Ya. D. Starodubov, Pribory i Tekhnika Eksperimenta, No. 3: 269 (1963) (in Russian).",
+				"tr":  "I. A. Gindin, S. F. Kravchenko, and Ya. D. Starodubov, Pribory i Tekhnika Eksperimenta, No. 3: 269 (1963) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. K. Aksenov, I. A. Gindin, V. P. Lebedev, and Ya. D. Starodubov, Fizika Nizkikh Temperatur, 6, No. 1: 118 (1980) (in Russian).",
+				"tr":  "V. K. Aksenov, I. A. Gindin, V. P. Lebedev, and Ya. D. Starodubov, Fizika Nizkikh Temperatur, 6, No. 1: 118 (1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. K. Aksenov, I. A. Gindin, E. I. Druinskii, E. V. Karaseva, and Ya. D. Starodubov, Fizika Nizkikh Temperatur, 3, No. 7: 922 (1977) (in Russian).",
+				"tr":  "V. K. Aksenov, I. A. Gindin, E. I. Druinskii, E. V. Karaseva, and Ya. D. Starodubov, Fizika Nizkikh Temperatur, 3, No. 7: 922 (1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "I. M. Nekludov, Ya. D. Starodubov, and V. I. Sokolenko, Ukrayinskyy Fizychnyy Zhurnal, 50, No. 8A: A113 (2005) (in Russian).",
+				"tr":  "I. M. Nekludov, Ya. D. Starodubov, and V. I. Sokolenko, Ukrayinskyy Fizychnyy Zhurnal, 50, No. 8A: A113 (2005) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0001-6160(76)90066-3",
+				"or":  "C. R. Chow and E. Nembach, Acta Met., 24, No. 5: 453 (1976).",
+				"tr":  "C. R. Chow and E. Nembach, Acta Met., 24, No. 5: 453 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "V. K. Aksenov, I. A. Gindin, E. V. Karaseva, and Ya. D. Starodubov, Fizika Nizkikh Temperatur, 4, No. 10: 1316 (1978) (in Russian).",
+				"tr":  "V. K. Aksenov, I. A. Gindin, E. V. Karaseva, and Ya. D. Starodubov, Fizika Nizkikh Temperatur, 4, No. 10: 1316 (1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "D. N. Bolshutkin, V. A. Desnenko, and V. Ya. Illichev, Fizika Nizkikh Temperatur, 2, No. 2: 256 (1976) (in Russian).",
+				"tr":  "D. N. Bolshutkin, V. A. Desnenko, and V. Ya. Illichev, Fizika Nizkikh Temperatur, 2, No. 2: 256 (1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "D. N. Bolshutkin, V. A. Desnenko, and V. Ya. Illichev, Fizika Nizkikh Temperatur, 2, No. 12: 1544 (1976) (in Russian).",
+				"tr":  "D. N. Bolshutkin, V. A. Desnenko, and V. Ya. Illichev, Fizika Nizkikh Temperatur, 2, No. 12: 1544 (1976) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.08.01.065",
+				"or":  "M. A. Vasiliev, Usp. Fiz. Met., 8, No. 1: 65 (2007) (in Russian).",
+				"tr":  "M. A. Vasiliev, Usp. Fiz. Met., 8, No. 1: 65 (2007) (in Russian)."
+			},
+			{
+				"doi": "10.1070/PU1974v016n06ABEH004096",
+				"or":  "M. I. Kaganov, V. Ya. Kravchenko, and V. D. Natsik, Physics–Uspekhi, 16, No. 6: 878 (1974).",
+				"tr":  "M. I. Kaganov, V. Ya. Kravchenko, and V. D. Natsik, Physics–Uspekhi, 16, No. 6: 878 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "I. M. Neklyudov and N.V. Kamyshanchenko, Fizicheskie Osnovy Prochnosti i Plastichnosti Metallov. Part 2: Defekty v Kristallakh (Moscow–Belgorod: Izd-vo Belgorodskogo GU: 1997) (in Russian).",
+				"tr":  "I. M. Neklyudov and N.V. Kamyshanchenko, Fizicheskie Osnovy Prochnosti i Plastichnosti Metallov. Part 2: Defekty v Kristallakh (Moscow–Belgorod: Izd-vo Belgorodskogo GU: 1997) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. I. Landau and Yu. I. Gofman, Fizika Tverdogo Tela, 16, No. 11: 3427 (1974) (in Russian).",
+				"tr":  "A. I. Landau and Yu. I. Gofman, Fizika Tverdogo Tela, 16, No. 11: 3427 (1974) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.1722436",
+				"or":  "A. Granato and K. Lücke, J. Appl. Phys., 27, No. 5: 583 (1956).",
+				"tr":  "A. Granato and K. Lücke, J. Appl. Phys., 27, No. 5: 583 (1956)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Dubinko, V. I. Karas, V. F. Klepikov, P. N. Ostapchuk, and I. F. Potapenko, Voprosy Atomnoy Nauki i Tekhniki. Seriya ‘Fizika Radiatsionnykh Povrezhdenij i Radiatsionnoye Materialovedenie’, 4–2 (94): 158 (2009) (in Russian).",
+				"tr":  "V. I. Dubinko, V. I. Karas, V. F. Klepikov, P. N. Ostapchuk, and I. F. Potapenko, Voprosy Atomnoy Nauki i Tekhniki. Seriya 'Fizika Radiatsionnykh Povrezhdenij i Radiatsionnoye Materialovedenie', 4–2 (94): 158 (2009) (in Russian)."
+			},
+			{
+				"doi": "10.3367/UFNe.0183.201301c.0055",
+				"or":  "V. E. Zakharov and V. I. Karas’, Physics–Uspekhi, 56, No. 1: 49 (2013).",
+				"tr":  "V. E. Zakharov and V. I. Karas', Physics–Uspekhi, 56, No. 1: 49 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Karas’, A. M. Vlasenko,V. N. Voyevodin, V. I. Sokolenko, and V. E. Zakharov, East Europe Physical Journal, 1, No. 1: 40 (2014).",
+				"tr":  "V. I. Karas', A. M. Vlasenko,V. N. Voyevodin, V. I. Sokolenko, and V. E. Zakharov, East Europe Physical Journal, 1, No. 1: 40 (2014)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.28.1701",
+				"or":  "N. Perrin and H. Budd, Phys. Rev. Lett., 28, No. 26: 1701 (1972).",
+				"tr":  "N. Perrin and H. Budd, Phys. Rev. Lett., 28, No. 26: 1701 (1972)."
+			},
+			{
+				"doi": "10.1134/S1063776115100106",
+				"or":  "V. I. Karas’, A. M. Vlasenko, V. I. Sokolenko, and V. E. Zakharov, JETP, 121, No. 3: 499 (2015).",
+				"tr":  "V. I. Karas', A. M. Vlasenko, V. I. Sokolenko, and V. E. Zakharov, JETP, 121, No. 3: 499 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Karas’, A. M. Vlasenko, A. G. Zagorodniy, and V. I. Sokolenko, Proc. Int. Conf. MSS-14 ‘Mode Conversion, Coherent Structure and Turbulence’ (Nov. 24–27, 2014) (Moscow: LENAND: 2014), p. 64.",
+				"tr":  "V. I. Karas', A. M. Vlasenko, A. G. Zagorodniy, and V. I. Sokolenko, Proc. Int. Conf. MSS-14 'Mode Conversion, Coherent Structure and Turbulence' (Nov. 24–27, 2014) (Moscow: LENAND: 2014), p. 64."
+			},
+			{
+				"doi": "",
+				"or":  "V. E. Zakharov, V. I. Karas’, and A. M. Vlasenko, Proc. Int. Conf. MSS-14 ‘Mode Conversion, Coherent Structure and Turbulence’ (Nov. 24–27, 2014) (Moscow: LENAND: 2014), p. 34.",
+				"tr":  "V. E. Zakharov, V. I. Karas', and A. M. Vlasenko, Proc. Int. Conf. MSS-14 'Mode Conversion, Coherent Structure and Turbulence' (Nov. 24–27, 2014) (Moscow: LENAND: 2014), p. 34."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Karas’, V. I. Sokolenko, E. V. Karasyova, A. V. Mats, and A. M. Vlasenko, Problems of Atomic Science and Technology. Series: Plasma Electronics and New Acceleration Methods, No. 4 (98): 277 (2015).",
+				"tr":  "V. I. Karas', V. I. Sokolenko, E. V. Karasyova, A. V. Mats, and A. M. Vlasenko, Problems of Atomic Science and Technology. Series: Plasma Electronics and New Acceleration Methods, No. 4 (98): 277 (2015)."
+			},
+			{
+				"doi": "10.1016/0001-6160(86)90001-5",
+				"or":  "A. F. Sprecher, S. L. Mannan, and H. Conrad, Acta Mater., 31, No. 7: 1145 (1986).",
+				"tr":  "A. F. Sprecher, S. L. Mannan, and H. Conrad, Acta Mater., 31, No. 7: 1145 (1986)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.52.15829",
+				"or":  "M. Molotskii and V. Fleurov, Phys. Rev. B, 52, No. 22: 829 (1995).",
+				"tr":  "M. Molotskii and V. Fleurov, Phys. Rev. B, 52, No. 22: 829 (1995)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.78.2779",
+				"or":  "M. Molotskii and V. Fleurov, Phys. Rev. Lett., 78, No. 14: 2779 (1997).",
+				"tr":  "M. Molotskii and V. Fleurov, Phys. Rev. Lett., 78, No. 14: 2779 (1997)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(00)00782-6",
+				"or":  "M. I. Molotskii, Mater. Sci. Eng. A, 287: 248 (2000).",
+				"tr":  "M. I. Molotskii, Mater. Sci. Eng. A, 287: 248 (2000)."
+			},
+			{
+				"doi": "10.1016/j.jmps.2004.10.002",
+				"or":  "S. R. Bilyk, K. T. Ramesh, and T. W. Wright, J. Mechanics Phys. Solids, 53: 525 (2005).",
+				"tr":  "S. R. Bilyk, K. T. Ramesh, and T. W. Wright, J. Mechanics Phys. Solids, 53: 525 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Unger, M. Stiemer, L. Walden, F. Bach, H. Blum, and B. Svendsen, Proc. 2nd Int. Conf. on High Speed Forming (20–21 March, 2006, Dortmund) (Germany, Dortmund: Institut für Umformtechnik und Leichtbau: 2006), p. 23.",
+				"tr":  "J. Unger, M. Stiemer, L. Walden, F. Bach, H. Blum, and B. Svendsen, Proc. 2nd Int. Conf. on High Speed Forming (20–21 March, 2006, Dortmund) (Germany, Dortmund: Institut für Umformtechnik und Leichtbau: 2006), p. 23."
+			}
+		]
+	}
+}

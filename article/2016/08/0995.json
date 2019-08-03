@@ -1,0 +1,188 @@
+{
+	"_id":    "MFiNT.38.08.0995",
+	"year":   2016,
+	"volume": 38,
+	"issue":  8,
+	"pages":  [995,1008],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["23.06.2016"],
+	"PACS":   "61.72.Hh, 73.40.Ns, 74.72.-h, 74.78.Fk, 81.40.Rs, 84.32.Ff, 85.25.Hv",
+	"title":   {
+		"ua": "Мемристорні ефекти в твердотільних гетероструктурах",
+		"en": "Memristancy Effects in Solid-State Heterostructures",
+		"ru": "Мемристорные эффекты в твёрдотельных гетероструктурах"
+	},
+	"abstract": {
+		"ua": "Обговорюється фізична природа гістерезних транспортних характеристик двох твердотільних структур. Для гетероконтактів металевого інжектора зі складним оксидом перехідних металів показано, що двозначні вольт-амперні залежності виникають внаслідок міґрації Оксиґенових вакансій під дією зовнішнього електричного поля, в той час як мемристорну поведінку наноструктурованих вуглецевих плівок зумовлено наявністю пасток для носіїв струму. В останньому випадку виявлено, що після декількох періодів зміни струму, що пропускається через вуглецеву плівку, в ній формується стан з екстремально високою провідністю. Виявлена експериментально асиметрія вольт-амперних характеристик для вуглецевих плівок відкриває можливість використання їх в якості елемента інтеґрованої мемристорної схеми, здатного усунути паразитний зв’язок між сусідніми комутаційними вузлами.",
+		"en": "Physical nature of hysteretic transport characteristics of two solid-state structures is discussed. For heterocontacts formed by a metal counter electrode with a complex transition-metal oxide, it is shown that two-valued current—voltage dependences appear due to the migration of the O vacancies under the influence of an external electric field whereas a memristancy-like behaviour of nanostructured carbon films is due to the presence of current-carrier traps. As found in the latter case, an extremely high conductivity state of carbon film is formed after several periods of the alternating current flowing through it. The experimentally discovered asymmetry of the current—voltage characteristics for carbon films opens up a possibility of their application as a base element of an integrated memristor circuit able to eliminate a parasitic link between the adjacent switching nodes.",
+		"ru": "Обсуждается физическая природа гистерезисных транспортных характеристик двух твёрдотельных структур. Для гетероконтактов металлического инжектора со сложным оксидом переходных металлов показано, что двузначные вольт-амперные зависимости возникают вследствие миграции кислородных вакансий под действием внешнего электрического поля, в то время как мемристорное поведение наноструктурированных углеродных плёнок обусловлено наличием ловушек для носителей тока. В последнем случае обнаружено, что после нескольких периодов изменения тока, пропускаемого через углеродную плёнку, в ней формируется состояние с экстремально высокой проводимостью. Найденная экспериментально асимметрия вольт-амперных характеристик углеродных плёнок открывает возможность использования их в качестве элемента интегрированной мемристорной схемы, способного устранить паразитную связь между соседними коммутационными узлами."
+	},
+	"keywords": {
+		"ua": "мемристор, вольт-амперные характеристики, гистерезис, кислородные вакансии, наноструктурированные углеродные плёнки",
+		"en": "memristor, current—voltage characteristics, hysteresis, oxygen vacancies, nanostructured carbon films",
+		"ru": "мемристор, вольт-амперні характеристики, гістереза, Оксиґенові вакансії, наноструктуровані вуглецеві плівки"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Е. М. Руденко", "en": "E. M. Rudenko", "ru": "Э. М. Руденко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. О. Білоголовський", "en": "M. O. Bilogolovs’kyy", "ru": "М. А. Белоголовский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "І. В. Короташ", "en": "I. V. Korotash", "ru": "И. В. Короташ"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Д. Ю. Полоцький", "en": "D. Yu. Polots’kyy", "ru": "Д. Ю. Полоцкий"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. О. Краковний", "en": "A. O. Krakovnyy", "ru": "А. А. Краковный"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. С. Житлухіна", "en": "O. S. Zhytlukhina", "ru": "Е. С. Житлухина"},
+			"OID": [9]
+		}
+	],
+	"references": {
+		"count": 26,
+		"list":  [
+			{
+				"doi": "10.1109/TCT.1971.1083337",
+				"or":  "L. O. Chua, IEEE Trans. Circuit Theory, 18, No. 5: 507 (1971).",
+				"tr":  "L. O. Chua, IEEE Trans. Circuit Theory, 18, No. 5: 507 (1971)."
+			},
+			{
+				"doi": "10.1038/nmat2023",
+				"or":  "R. Waser and M. Aono, Nat. Mater., 6, No. 11: 833 (2007).",
+				"tr":  "R. Waser and M. Aono, Nat. Mater., 6, No. 11: 833 (2007)."
+			},
+			{
+				"doi": "10.1016/S1369-7021(08)70119-6",
+				"or":  "A. Sawa, Mater. Today, 11, No. 6: 28 (2008).",
+				"tr":  "A. Sawa, Mater. Today, 11, No. 6: 28 (2008)."
+			},
+			{
+				"doi": "10.1016/S1369-7021(08)70120-2",
+				"or":  "E. Bichoutskaia, A. M. Popov, and Yu. E. Lozovik, Mater. Today, 11, No. 6: 38 (2008).",
+				"tr":  "E. Bichoutskaia, A. M. Popov, and Yu. E. Lozovik, Mater. Today, 11, No. 6: 38 (2008)."
+			},
+			{
+				"doi": "10.1088/0034-4885/67/11/R01",
+				"or":  "J. B. Goodenough, Rep. Prog. Phys., 67, No. 11: 1915 (2004).",
+				"tr":  "J. B. Goodenough, Rep. Prog. Phys., 67, No. 11: 1915 (2004)."
+			},
+			{
+				"doi": "10.1038/329423a0",
+				"or":  "R. J. Cava, B. Batlogg, C. H. Chen, E. A. Rietman, S. M. Zahurak, and D. Werder, Nature, 329, No. 6138: 423 (1987).",
+				"tr":  "R. J. Cava, B. Batlogg, C. H. Chen, E. A. Rietman, S. M. Zahurak, and D. Werder, Nature, 329, No. 6138: 423 (1987)."
+			},
+			{
+				"doi": "10.2478/s11534-009-0012-1",
+				"or":  "M. A. Belogolovskii, Centr. Eur. J. Phys., 7, No. 2: 304 (2009).",
+				"tr":  "M. A. Belogolovskii, Centr. Eur. J. Phys., 7, No. 2: 304 (2009)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.71.1079",
+				"or":  "N. Chandrasekhar, O. T. Valls, and A. M. Goldman, Phys. Rev. Lett., 71, No. 7: 1079 (1993).",
+				"tr":  "N. Chandrasekhar, O. T. Valls, and A. M. Goldman, Phys. Rev. Lett., 71, No. 7: 1079 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Plecenik, M. Grajcar, P. Seidel, and S. Benacka, Studies of High Temperature Superconductors (New York: Nova Science Publ.: 1996), vol. 20, p. 75.",
+				"tr":  "A. Plecenik, M. Grajcar, P. Seidel, and S. Benacka, Studies of High Temperature Superconductors (New York: Nova Science Publ.: 1996), vol. 20, p. 75."
+			},
+			{
+				"doi": "10.1063/1.3095493",
+				"or":  "H. J. Zhang, X. P. Zhang, J. P. Shi, H. F. Tian, and Y.G. Zhao, Appl. Phys. Lett., 94, No. 9: 092111 (2009).",
+				"tr":  "H. J. Zhang, X. P. Zhang, J. P. Shi, H. F. Tian, and Y.G. Zhao, Appl. Phys. Lett., 94, No. 9: 092111 (2009)."
+			},
+			{
+				"doi": "10.1147/rd.13.0223",
+				"or":  "R. Landauer, IBM J. Res. Dev., 1, No. 3: 223 (1957).",
+				"tr":  "R. Landauer, IBM J. Res. Dev., 1, No. 3: 223 (1957)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2010.03.018",
+				"or":  "A. Plecenik, M. Tomasek, T. Plecenik, M. Truchly, J. Noskovic, M. Zahoran, T. Roch, M. Belogolovskii, M. Spankova, S. Chromik, and P. Kus, Appl. Surf. Sci., 256, No. 18: 5684 (2010).",
+				"tr":  "A. Plecenik, M. Tomasek, T. Plecenik, M. Truchly, J. Noskovic, M. Zahoran, T. Roch, M. Belogolovskii, M. Spankova, S. Chromik, and P. Kus, Appl. Surf. Sci., 256, No. 18: 5684 (2010)."
+			},
+			{
+				"doi": "10.1116/1.3521408",
+				"or":  "M. Tomasek, T. Plecenik, M. Truchly, J. Noskovic, T. Roch, M. Zahoran, S. Chromik, M. Spankova, P. Kus, and A. Plecenik, J. Vac. Sci. Technol. B, 29, No. 1: 01AD04 (2011).",
+				"tr":  "M. Tomasek, T. Plecenik, M. Truchly, J. Noskovic, T. Roch, M. Zahoran, S. Chromik, M. Spankova, P. Kus, and A. Plecenik, J. Vac. Sci. Technol. B, 29, No. 1: 01AD04 (2011)."
+			},
+			{
+				"doi": "10.1063/1.3691598",
+				"or":  "T. Plecenik, M. Tomášek, M. Belogolovskii, M. Truchly, M. Gregor, J. Noskovič, M. Zahoran, T. Roch, I. Boylo, M. Špankova, Š. Chromik, P. Kúš, and A. Plecenik, J. Appl. Phys., 111, No. 5: 056106 (2012).",
+				"tr":  "T. Plecenik, M. Tomášek, M. Belogolovskii, M. Truchly, M. Gregor, J. Noskovič, M. Zahoran, T. Roch, I. Boylo, M. Špankova, Š. Chromik, P. Kúš, and A. Plecenik, J. Appl. Phys., 111, No. 5: 056106 (2012)."
+			},
+			{
+				"doi": "10.1063/1.347612",
+				"or":  "K. Yamamoto, B. M. Lairson, J. C. Bravman, and T. H. Geballe, J. Appl. Phys., 69, No. 10: 7189 (1991).",
+				"tr":  "K. Yamamoto, B. M. Lairson, J. C. Bravman, and T. H. Geballe, J. Appl. Phys., 69, No. 10: 7189 (1991)."
+			},
+			{
+				"doi": "10.1038/nchem.547",
+				"or":  "S. Inoue, M. Kawai, N. Ichikawa, H. Kageyama, W. Paulus, and Y. Shimakawa, Nat. Chem., 2, No. 3: 213 (2010).",
+				"tr":  "S. Inoue, M. Kawai, N. Ichikawa, H. Kageyama, W. Paulus, and Y. Shimakawa, Nat. Chem., 2, No. 3: 213 (2010)."
+			},
+			{
+				"doi": "10.1038/nmat2748",
+				"or":  "E. Linn, R. Rosezin, C. Kügeler, and R. Waser, Nat. Mater., 9, No. 5: 403 (2010).",
+				"tr":  "E. Linn, R. Rosezin, C. Kügeler, and R. Waser, Nat. Mater., 9, No. 5: 403 (2010)."
+			},
+			{
+				"doi": "10.1063/1.4902969",
+				"or":  "H. D. Kim, M. J. Yun, and T. G. Kim, Appl. Phys. Lett., 105, No. 21: 213510 (2015).",
+				"tr":  "H. D. Kim, M. J. Yun, and T. G. Kim, Appl. Phys. Lett., 105, No. 21: 213510 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Короташ, В. В. Одиноков, Г. Я. Павлов, Д. Ю. Полоцкий, Э. М. Руденко, В. Ф. Семенюк, В. А. Сологуб, К. П. Шамрай, Наноинженерия, № 4 (10): 3 (2012).",
+				"tr":  "I. V. Korotash, V. V. Odinokov, G. Ya. Pavlov, D. Yu. Polotskii, E. M. Rudenko, V. F. Semenyuk, V. A. Sologub, and K. P. Shamrai, Nanoengineering, No. 4 (10): 3 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Семенюк, Э. М. Руденко, И. В. Короташ, Л. С. Осипов, Д. Ю. Полоцкий, К. П. Шамрай, В. В. Одиноков, Г. Я. Павлов, В. А. Сологуб, Металлофиз. новейшие технол., 33, № 2: 223 (2011).",
+				"tr":  "V. F. Semenyuk, Eh. M. Rudenko, I. V. Korotash, L. S. Osipov, D. Yu. Polotskiy, K. P. Shamray, V. V. Odinokov, G. Ya. Pavlov, and V. A. Sologub, Metallofiz. Noveishie Tekhnol., 33, No. 2: 223 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Короташ, В. Одиноков, Г. Павлов, Д. Полоцкий, Э. Руденко, В. Семенюк, В. Сологуб, Наноиндустрия, № 1: 10 (2011).",
+				"tr":  "I. Korotash, V. Odinokov, G. Pavlov, D. Polotskii, E. Rudenko, V. Semenyuk, and V. Sologub, Nanoindustry, No. 1: 10 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Шпак, Э. Руденко, И. Короташ, В. Семенюк, К. Шамрай, В. Одиноков, Г. Павлов, В. Сологуб, Наноиндустрия, № 4: 12 (2009).",
+				"tr":  "A. Shpak, E. Rudenko, I. Korotash, V. Semenyuk, K. Shamrai, V. Odinokov, G. Pavlov, and V. Sologub, Nanoindustry, No. 4: 12 (2009) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.physe.2005.06.027",
+				"or":  "T. Matsumoto and S. Saito, Physica E, 29, No. 3: 560 (2005).",
+				"tr":  "T. Matsumoto and S. Saito, Physica E, 29, No. 3: 560 (2005)."
+			},
+			{
+				"doi": "10.1109/TED.2011.2164615",
+				"or":  "Y. Chai, Y. Wu, K. Takei, H.-Y. Chen, S. Yu, P. C. H. Chan, A. Javey, and H.-S. P. Wong, IEEE Trans. Electron. Dev., 58, No. 11: 3933 (2011).",
+				"tr":  "Y. Chai, Y.Wu, K. Takei, H.-Y. Chen, S. Yu, P. C. H. Chan, A. Javey, and H.-S. P. Wong, IEEE Trans. Electron. Dev., 58, No. 11: 3933 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Hori, Y. Tokuda, and H. Kano, Diode and Photovoltaic Device Using Carbon Nanostructure: Patent US 20100212728 A1 (2010).",
+				"tr":  "M. Hori, Y. Tokuda, and H. Kano, Diode and Photovoltaic Device Using Carbon Nanostructure: Patent US 20100212728 A1 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Короташ, Э. М. Руденко, А. А. Краковный, В. Ф. Семенюк, Л. С. Осипов, Д. Ю. Полоцкий, IV Международная научная конференция «Наноразмерные системы: строение, свойства, технологии—НАНСИС-2013» (19–22 ноября 2013, Киев), с. 333.",
+				"tr":  "I. V. Korotash, Eh. M. Rudenko, A. O. Krakovnyy, V. F. Semenyuk, L. S. Osipov, and D. Yu. Polots’kyy, IV International Scientific Conference ‘Nanoscaled Systems: Structure, Properties, Technologies—NANSYS-2013’ (November 19–22, 2013, Kyiv), p. 333 (in Russian)."
+			}
+		]
+	}
+}

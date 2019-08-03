@@ -1,0 +1,127 @@
+{
+	"year":   2016,
+	"volume": 38,
+	"issue":  8,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [995,1008],
+			"title": {
+				"ua": "Мемристорні ефекти в твердотільних гетероструктурах",
+				"en": "Memristancy Effects in Solid-State Heterostructures",
+				"ru": "Мемристорные эффекты в твёрдотельных гетероструктурах"
+			},
+			"autors": {
+				"ua": "Е. М. Руденко, М. О. Білоголовський, І. В. Короташ, Д. Ю. Полоцький, А. О. Краковний, О. С. Житлухіна",
+				"en": "E. M. Rudenko, M. O. Bilogolovs’kyy, I. V. Korotash, D. Yu. Polots’kyy, A. O. Krakovnyy, and O. S. Zhytlukhina",
+				"ru": "Э. М. Руденко, М. А. Белоголовский, И. В. Короташ, Д. Ю. Полоцкий, А. А. Краковный, Е. С. Житлухина"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [1009,1018],
+			"title": {
+				"ua": "Фотон-індукований електронний транспорт: шумові характеристики тунельного контакту на основі надпровідника за низьких температур",
+				"en": "Photon-Assisted Electronic Transport: Noise Performances of Tunnel Junction on the Base of a Superconductor at Low Temperatures",
+				"ru": "Фотон-индуцированный электронный транспорт: шумовые характеристики туннельного контакта на основе сверхпроводника при низких температурах"
+			},
+			"autors": {
+				"ua": "І. В. Бойло",
+				"en": "I. V. Boylo",
+				"ru": "И. В. Бойло"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [1019,1026],
+			"title": {
+				"ua": "Розрахунки з перших принципів електронної структури й ефективної маси кристалу TlInS$_{2}$",
+				"en": "First-Principles Calculation of Electronic Structure and Effective Mass of a TlInS$_{2}$ Crystal",
+				"ru": "Расчёт из первых принципов электронной структуры и эффективной массы кристалла TlInS$_{2}$"
+			},
+			"autors": {
+				"ua": "Н. А. Ісмайилова, Г. С. Оруджев",
+				"en": "N. A. Ismayilova and H. S. Orudzhev",
+				"ru": "Н. А. Исмайылова, Г. С. Оруджев"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1027,1055],
+			"title": {
+				"ua": "Вплив змінного магнетного поля на фізичні та механічні властивості кристалів",
+				"en": "Influence of Alternating Magnetic Field on Physical and Mechanical Properties of Crystals",
+				"ru": "Влияние переменного магнитного поля на физические и механические свойства кристаллов"
+			},
+			"autors": {
+				"ua": "В. І. Карась, Є. В. Карасьова, О. В. Мац, В. І. Соколенко, О. М. Власенко, В. Є. Захаров",
+				"en": "V. I. Karas, E. V. Karasyova, A. V. Mats, V. I. Sokolenko, A. M. Vlasenko, and V. E. Zakharov",
+				"ru": "В. И. Карась, Е. В. Карасёва, А. В. Мац, В. И. Соколенко, А. М. Власенко, В. Е. Захаров"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1057,1076],
+			"title": {
+				"ua": "Вплив типу і ступеня інтенсивної пластичної деформації на структуру та властивості литих Al—Sc-стопів",
+				"en": "Influence of Type and Degree of a Severe Plastic Deformation on Structure and Properties of Cast Al—Sc Alloys",
+				"ru": "Влияние типа и степени интенсивной пластической деформации на структуру и свойства литых Al—Sc-сплавов"
+			},
+			"autors": {
+				"ua": "А. Л. Березіна, Т. О. Монастирська, О. А. Давиденко, О. А. Молебний, С. С. Поліщук",
+				"en": "A. L. Berezina, T. O. Monastyrska, О. A. Davydenko, O. A. Molebny, and S. S. Polishchuk",
+				"ru": "А. Л. Березина, Т. А. Монастырская, А. А. Давиденко, О. А. Молебный, С. С. Полищук"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [1077,1102],
+			"title": {
+				"ua": "Роль рекристалізації вольфраму в формуванні шерсткости його поверхні під впливом послідовної дії нейтронів і розпорошення",
+				"en": "Role of Recrystallization of Tungsten in Formation of a Roughness of Its Surface Under Influence of Successive Action of Neutrons and Sputtering",
+				"ru": "Роль рекристаллизации вольфрама в формировании шероховатости его поверхности под влиянием последовательного воздействия нейтронов и распыления"
+			},
+			"autors": {
+				"ua": "А. І. Беляєва, О. А. Галуза, І. В. Koленов, А. О. Савченко",
+				"en": "A. I. Belyaeva, O. A. Galuza, I. V. Kolenov, and A. O. Savchenko",
+				"ru": "А. И. Беляева, А. А. Галуза, И. В. Koленов, А. А. Савченко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [1103,1116],
+			"title": {
+				"ua": "Ефект зниження порогу перколяції у надтонких плівках срібла при квазирівноважній конденсації та дії плазми на ростову поверхню",
+				"en": "Effect of Decrease in a Threshold of Percolation in Ultrathin Films of Silver at Quasi-Equilibrium Condensation and Action of Plasma on a Growth Surface",
+				"ru": "Эффект снижения порога перколяции в сверхтонких плёнках серебра при квазиравновесной конденсации и воздействии плазмы на ростовую поверхность"
+			},
+			"autors": {
+				"ua": "Ю. О. Космінська, В. І. Перекрестов, І. В. Загайко",
+				"en": "Yu. O. Kosminska, V. I. Perekrestov, and I. V. Zagaiko",
+				"ru": "Ю. А. Косминская, В. И. Перекрестов, И. В. Загайко."
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [1117,1134],
+			"title": {
+				"ua": "Особливості процесу формування складу, структури та властивостей пошарово натопленого метастабільного Fe—Cr—Mn-металу",
+				"en": "Features of Process of Formation of Composition, Structure and Properties of Layer-by-Layer Deposited Metastable Fe—Cr—Mn Metal",
+				"ru": "Особенности процесса формирования состава, структуры и свойств послойно наплавленного метастабильного Fe—Cr—Mn-металла"
+			},
+			"autors": {
+				"ua": "Я. О. Чейлях, О. П. Чейлях",
+				"en": "Ya. O. Cheiliakh and O. P. Cheiliakh",
+				"ru": "Я. А. Чейлях, А. П. Чейлях"
+			}
+		}
+	]
+}

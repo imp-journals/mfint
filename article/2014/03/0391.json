@@ -1,0 +1,137 @@
+{
+	"_id":    "MFiNT.36.03.0391",
+	"year":   2014,
+	"volume": 36,
+	"issue":  3,
+	"pages":  [391,397],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["29.11.2013"],
+	"PACS":   "42.15.Eq, 42.25.Bs, 42.25.Fx, 78.67.Bf, 78.67.Sc",
+	"title":   {
+		"ua": "Вплив адсорбційного шару металевих частинок на їх поляризовність та розсіяння світла",
+		"en": "Influence of the Adsorptive Layer of Metal Particles on Their Polarizability and Light Scattering",
+		"ru": "Влияние адсорбционного слоя металлических частиц на их поляризуемость и рассеяние света"
+	},
+	"abstract": {
+		"ua": "Розглядається сучасний стан досліджень взаємодії електромагнітного випромінення з металевими наночастинками та дисперсними системами на їх основі. Проаналізовано деякі чисельні результати з даної тематики, одержані за останні роки. Наведено результати досліджень впливу адсорбційного шару металевої частинки сферичної форми на її поляризовність та посилення комбінаційного розсіяння світла молекулами у зовнішньому електричному полі.",
+		"en": "Current state of studies of interaction of the electromagnetic radiation with metal nanoparticles and dispersed systems based on them is considered. Some numerical data on this subject obtained in recent years are analysed. Results of investigation of influence of the adsorptive layer of a spherical metal particle on its polarizability and amplification of Raman scattering in external electric field are presented.",
+		"ru": "Рассматривается современное состояние исследований взаимодействия электромагнитного излучения с металлическими наночастицами и дисперсными системами на их основе. Проанализированы некоторые численные результаты по данной тематике, полученные в последние годы. Приведены результаты исследований влияния адсорбционного слоя металлической частицы сферической формы на её поляризуемость и усиление комбинационного рассеяния света молекулами во внешнем электрическом поле."
+	},
+	"keywords": {
+		"ua": "малі частинки, адсорбційний шар, поляризовність, комбінаційне розсіяння, коефіцієнт посилення",
+		"en": "small particles, adsorptive layer, polarizability, Raman scattering, amplification coefficient",
+		"ru": "малые частицы, адсорбционный слой, поляризуемость, комбинационное рассеяние, коэффициент усиления"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. Ю. Грищук", "en": "O. Yu. Gryshchuk", "ru": "Е. Ю. Грищук"},
+			"OID": [21]
+		},
+		{
+			"AID": {"ua": "С. В. Стеценко", "en": "S. V. Stetsenko", "ru": "С. В. Стеценко"},
+			"OID": [237]
+		}
+	],
+	"references": {
+		"count": 19,
+		"list":  [
+			{
+				"doi": "10.1364/OL.35.000640",
+				"or":  "V. Lebedev, S. Vergeles, and P. Vorobev, Opt. Lett., 35, No. 5: 640 (2010).",
+				"tr":  "V. Lebedev, S. Vergeles, and P. Vorobev, Opt. Lett., 35, No. 5: 640 (2010)."
+			},
+			{
+				"doi": "10.1134/S0030400X11010085",
+				"or":  "E. V. Klyachkovskaya, N. D. Strekal, I. G. Motevich, S. V. Vashchenko, M. Ya. Valakh, A. N. Gorbacheva, M. V. Belkov, and S. V. Gaponenko, Opt. Spectrosc., 110, No. 1: 48 (2011).",
+				"tr":  "E. V. Klyachkovskaya, N. D. Strekal, I. G. Motevich, S. V. Vashchenko, M. Ya. Valakh, A. N. Gorbacheva, M. V. Belkov, and S. V. Gaponenko, Opt. Spectrosc., 110, No. 1: 48 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "E. V. Klyachkovskaya, D. V. Guzatov, N. D. Strekal’, S. V. Vashchenko, and A. N. Gorbacheva, Doklady N.A.S. of Belarus, 55, No. 6: 62 (2011) (in Russian).",
+				"tr":  "E. V. Klyachkovskaya, D. V. Guzatov, N. D. Strekal', S. V. Vashchenko, and A. N. Gorbacheva, Doklady N.A.S. of Belarus, 55, No. 6: 62 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "E. Yu. Grishchuk, Abstr. Ukr. Conf. Chemistry, Physic and Technology of Surface (May 15–17, 2013, Kyiv), p. 205.",
+				"tr":  "E. Yu. Grishchuk, Abstr. Ukr. Conf. Chemistry, Physic and Technology of Surface (May 15–17, 2013, Kyiv), p. 205."
+			},
+			{
+				"doi": "",
+				"or":  "E. F. Venger, A. V. Goncharenko, and M. L. Dmytruk, Optyka Malykh Chastynok i Duspersnykh Seredovyshch (Optics of Small Particles and Dispersed Media) (Kyiv: Naukova Dumka: 1999) (in Ukrainian).",
+				"tr":  "E. F. Venger, A. V. Goncharenko, and M. L. Dmytruk, Optyka Malykh Chastynok i Duspersnykh Seredovyshch (Optics of Small Particles and Dispersed Media) (Kyiv: Naukova Dumka: 1999) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "E. Yu. Grishchuk, Dielektrychnyi Pidhid do Opysu Vzayemodii Malykh Chastynok v Rozchyni Elektrolitu ta Pid Diyeu Elektromagnitnogo Vyprominuvannya (Dielectric Approach for Description of Interaction of Small Particles in Electrolyte Solution and under Electromagnetic Radiation) (Thesis of Disser. for Cand. Phys.-Math. Sci.) (Kyiv: O. O. Chuiko Institute of Surface Chemistry, N.A.S.U.: 2011) (in Ukrainian).",
+				"tr":  "E. Yu. Grishchuk, Dielektrychnyi Pidhid do Opysu Vzayemodii Malykh Chastynok v Rozchyni Elektrolitu ta Pid Diyeu Elektromagnitnogo Vyprominuvannya (Dielectric Approach for Description of Interaction of Small Particles in Electrolyte Solution and under Electromagnetic Radiation) (Thesis of Disser. for Cand. Phys.-Math. Sci.) (Kyiv: O. O. Chuiko Institute of Surface Chemistry, N.A.S.U.: 2011) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "O. Yu. Grishchuk and L. G. Grechko, Visnyk of Kyiv University, 1, No. 2: 209 (2010) (in Ukrainian).",
+				"tr":  "O. Yu. Grishchuk and L. G. Grechko, Visnyk of Kyiv University, 1, No. 2: 209 (2010) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "O. Yu. Grishchuk and N. G. Shkoda, Abstr. Ukr. Conf. Chemistry, Physics and Technology of Surface (May 15–17, 2012, Kyiv), p. 145.",
+				"tr":  "O. Yu. Grishchuk and N. G. Shkoda, Abstr. Ukr. Conf. Chemistry, Physics and Technology of Surface (May 15–17, 2012, Kyiv), p. 145."
+			},
+			{
+				"doi": "",
+				"or":  "C. F. Boren and D. R. Huffman, Absorption and Scattering of Light by Small Particles (New York: Wiley: 1983).",
+				"tr":  "C. F. Boren and D. R. Huffman, Absorption and Scattering of Light by Small Particles (New York: Wiley: 1983)."
+			},
+			{
+				"doi": "",
+				"or":  "O. Yu. Grishchuk, L. B. Lerman, N. G. Shkoda, and S. V. Shostak, Uspehi Fiziki Metallov, 13, No. 1: 71 (2012) (in Ukrainian).",
+				"tr":  "O. Yu. Grishchuk, L. B. Lerman, N. G. Shkoda, and S. V. Shostak, Uspehi Fiziki Metallov, 13, No. 1: 71 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. G. Grechko, N. G. Shkoda, and S. V. Shostak, Ukr. Fiz. Zhurnal, 47, No. 7: 694 (2002) (in Ukrainian).",
+				"tr":  "L. G. Grechko, N. G. Shkoda, and S. V. Shostak, Ukr. Fiz. Zhurnal, 47, No. 7: 694 (2002) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. G. Grechko, O. Yu. Grishchuk, L. Yu. Kunitskaya, L. B. Lerman, and M. A. Lyushchenko, Metallofiz. Noveishie Tekhnol., 30, No. 6: 789 (2008) (in Russian).",
+				"tr":  "L. G. Grechko, O. Yu. Grishchuk, L. Yu. Kunitskaya, L. B. Lerman, and M. A. Lyushchenko, Metallofiz. Noveishie Tekhnol., 30, No. 6: 789 (2008) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.126190",
+				"or":  "L. G. Grechko, V. N. Pustovit, and K. W. Whites, Appl. Phys. Lett., 76, No. 14: 1854 (2000).",
+				"tr":  "L. G. Grechko, V. N. Pustovit, and K. W. Whites, Appl. Phys. Lett., 76, No. 14: 1854 (2000)."
+			},
+			{
+				"doi": "10.1038/nature01937",
+				"or":  "W. L. Barnes, A. Dereux, and T. W. Ebbesen, Nature, 424, No. 6950: 824 (2003).",
+				"tr":  "W. L. Barnes, A. Dereux, and T. W. Ebbesen, Nature, 424, No. 6950: 824 (2003)."
+			},
+			{
+				"doi": "10.1088/0034-4885/70/1/R01",
+				"or":  "J. M. Pitarke, V. M. Silkin, and E. V. Chulkov, Rep. Prog. Phys., 70, No. 1: 1 (2007).",
+				"tr":  "J. M. Pitarke, V. M. Silkin, and E. V. Chulkov, Rep. Prog. Phys., 70, No. 1: 1 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "L. M. Belokrinitskaya, L. G. Grechko, E. Yu. Grishchuk, V. Ye. Klimenko, and S. V. Shostak, Visnyk of Kyiv University, 4, No. 3: 226 (2008) (in Russian).",
+				"tr":  "L. M. Belokrinitskaya, L. G. Grechko, E. Yu. Grishchuk, V. Ye. Klimenko, and S. V. Shostak, Visnyk of Kyiv University, 4, No. 3: 226 (2008) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.66.155431",
+				"or":  "S. L. Westcott, J. B. Jackson, and C. Radloff, Phys. Rev. B, 65, No. 66: 155431 (2002).",
+				"tr":  "S. L. Westcott, J. B. Jackson, and C. Radloff, Phys. Rev. B, 65, No. 66: 155431 (2002)."
+			},
+			{
+				"doi": "10.1364/AO.39.000470",
+				"or":  "I. Gurwith, M. Kleiman, and N. Shiloch, Appl. Opt., 39, No. 3: 470 (2000).",
+				"tr":  "I. Gurwith, M. Kleiman, and N. Shiloch, Appl. Opt., 39, No. 3: 470 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Cheng and T. Furtak, Gigantskoye Kombinatsionnoe Rasseyanie (Giant Raman Scattering) (Moscow: Mir: 1984) (in Russian).",
+				"tr":  "R. Cheng and T. Furtak, Gigantskoye Kombinatsionnoe Rasseyanie (Giant Raman Scattering) (Moscow: Mir: 1984) (in Russian)."
+			}
+		]
+	}
+}

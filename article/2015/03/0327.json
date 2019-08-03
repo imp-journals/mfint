@@ -1,0 +1,57 @@
+{
+	"_id":    "MFiNT.37.0327",
+	"year":   2015,
+	"volume": 37,
+	"issue":  3,
+	"pages":  [327,345],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["15.12.2014","12.02.2015"],
+	"PACS":   "73.40.Ns, 74.25.Op, 74.25.Wx, 74.62.Bf, 74.70.Ad, 74.78.Na, 85.25.Am",
+	"title":  {
+		"ua": "Структура та властивості кисневмісних плівок диборида магнію (MgB$_{2}$)",
+		"en": "Crystal Structure and Properties of the Oxide-Containing Magnesium Diboride Films",
+		"ru": "Структура и свойства кислородосодержащих плёнок диборида магния (MgB$_{2}$)"
+	},
+	"abstract": {
+		"ua": "У роботі наведено результати дослідження структури, фазового складу, рельєфу та надпровідних характеристик кисневмісних тонких плівок дибориду магнію (MgB$_{2}$), осаджених на діелектричне підложжя шляхом магнетронного розпорошення диборид-магнійових мішеней. Показано можливість формування в ході осадження та відпалу плівок різного ступеня кристалічної досконалости та фазового складу залежно від умов осадження та відпалу. В плівках можлива реалізація різних комбінацій центрів пінінґу Абрикосових вихорів (в місцях флуктуацій критичної температури надпровідного переходу ($\\Delta Т_с$-тип) та в місцях флуктуацій довжини вільного пробігу ($\\Delta l$-тип)), на появу та густину котрих впливають умови синтези плівок. Показано, що осаджені плівки складаються з надпровідної матриці, яка являє собою твердий розчин кисню в ґратниці дибориду магнію типу MgB$_{x}$О$_{у}$; при цьому густина надпровідного критичного струму плівок може сягати значень $1,8 \\cdot 10^{11}—8,2 \\cdot 10^{10}$ А/м$^{2}$ при 10 К і $8 \\cdot 10^{10}—2,8 \\cdot 10^{10}$ А/м$^{2}$ при 20 К в полях 0—1 Тл (при орієнтації зовнішнього магнетного поля перпендикулярно площині підложжя).",
+		"en": "The paper presents the results of investigation of crystal structure, phase content, roughness, and superconducting characteristics of the oxygenated thin films of magnesium diboride (MgB$_{2}$), which are deposited on the dielectric wafers by a magnetron sputtering of the magnesium diboride targets. As demonstrated, the thin films with various degree of perfection of crystal structure and phase composition can be fabricated depending on the parameters of the deposition and annealing processes. Depending on the synthesis conditions, the various types of the vortex pinning can be realized in the films, namely, the pinning at places of fluctuation of the superconducting critical temperature ($\\Delta Т_с$-type) and the pinning at the places of fluctuation of the mean free path ($\\Delta l$-type). As shown, the deposited thin films consist of the superconducting matrix, which is a solid solution of the oxygen within the magnesium diboride crystal lattice such as MgB$_{x}$О$_{у}$. The density of superconducting critical currents in these films reaches values up to $1,8 \\cdot 10^{11}—8,2 \\cdot 10^{10}$ А/m$^{2}$ at 10 K and $8 \\cdot 10^{10}—2,8 \\cdot 10^{10}$ А/m$^{2}$ at 20 K in the fields of 0—1 T (if an external magnetic field is oriented in parallel for the wafer surface).",
+		"ru": "В работе приведены результаты исследования структуры, фазового состава, рельефа и сверхпроводящих характеристик кислородосодержащих тонких плёнок диборида магния (MgB$_2$), осаждённых на диэлектрическую подложку посредством магнетронного распыления диборид-магниевых мишеней. Показана возможность формирования в процессе осаждения и отжига плёнок различной степени кристаллического совершенства и фазового состава в зависимости от условий осаждения и отжига. В плёнках возможна реализация различных комбинаций центров пиннинга вихрей Абрикосова (в местах флуктуаций критической температуры сверхпроводящего перехода ($\\Delta Т_с$-тип) и в местах флуктуаций длины свободного пробега ($\\Delta l$-тип)), на возникновение и плотность которых влияют условия синтеза плёнок. Показано, что осаждённые плёнки состоят из сверхпроводящей матрицы, представляющей собой твёрдый раствор кислорода в решётке диборида магния типа MgB$_{x}$О$_{у}$; при этом плотность сверхпроводящего критического тока плёнок может достигать значений $1,8 \\cdot 10^{11}-8,2 \\cdot 10^{10}$ А/м$^2$ при 10 К и $8 \\cdot 10^{10}-2,8 \\cdot 10^{10}$ А/м$^2$ при 20 К в полях 0—1 Тл (при ориентации внешнего магнитного поля перпендикулярно плоскости подложки)."
+	},
+	"keywords": {
+		"ua": "надпровідність, пінінг, густина критичного струму, оже-спектроскопія, тонка плівка, диборид магнію",
+		"en": "superconductivity, pinning, density of critical current, Auger electron spectroscopy, thin film, magnesium diboride",
+		"ru": "сверхпроводимость, пиннинг, плотность критического тока, оже-спектроскопия, тонкая плёнка, диборид магния"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Т. О. Прихна", "en": "T. A. Prikhna", "ru": "Т. А. Прихна"},
+			"OID": [12]
+		},
+		{
+			"AID": {"ua": "А. П. Шаповалов", "en": "A. P. Shapovalov", "ru": "А. П. Шаповалов"},
+			"OID": [12]
+		},
+		{
+			"AID": {"ua": "А. В. Шатерник", "en": "A. V. Shaternik", "ru": "А. В. Шатерник"},
+			"OID": [12]
+		},
+		{
+			"AID": {"ua": "М. Ейстерер", "en": "M. Eisterer", "ru": "М. Эйстерер"},
+			"OID": [427]
+		},
+		{
+			"AID": {"ua": "В. Є. Шатерник", "en": "V. E. Shaternik", "ru": "В. Е. Шатерник"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. В. Ковиляєв", "en": "V. V. Kovylyaev", "ru": "В. В. Ковыляев"},
+			"OID": [2]
+		}
+	],
+	"references": {
+		"count": 24,
+		"list":  []
+	}
+}

@@ -1,0 +1,102 @@
+{
+	"_id":    "MFiNT.38.04.0519",
+	"year":   2016,
+	"volume": 38,
+	"issue":  4,
+	"pages":  [519,529],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["03.10.2015", "06.02.2016"],
+	"PACS":   "68.35.Gy, 68.55.J-, 68.55.Nq, 68.60.Bs, 81.05.uj, 81.15.Pq, 81.40.Pq",
+	"title":   {
+		"ua": "Вплив частинок ультрадисперсних алмазів на структуру та властивості електролітичних нікелевих покриттів",
+		"en": "The Effect of Superdispersed Diamond Particles on the Structure and Properties of Electrolytic Nickel Coatings",
+		"ru": "Влияние частиц ультрадисперсных алмазов на структуру и свойства электролитических никелевых покрытий"
+	},
+	"abstract": {
+		"ua": "У роботі розглянуто вплив частинок ультрадисперсних діямантів на структуроутворення й експлуатаційні властивості композиційних електролітичних покриттів на основі ніклю, одержаних за допомогою постійного й імпульсного струмів. Результати досліджень показали, що при імпульсних режимах електроосадження формуються дрібнозернисті, щільнопаковані покриття, що мають більш нерівноважну структуру росту з більшою щільністю розподілу частинок ультрадисперсного діяманту в покритті, що підвищує мікротвердість і зносостійкість ніклевих композиційних електролітичних покриттів.",
+		"en": "The paper considers the influence of the dispersed particles of ultrafine diamonds on the structure and performance of the nickel-based composite electrolytic coatings obtained by the continuous and pulsed currents. The results show that the pulsed modes of electrodeposition forms fine-grained, close-packed coatings having a non-equilibrium structure of growth with a larger density of ultrafine diamond particles in coating that increases the microhardness and wear resistance of nickel-composite electroplating coatings.",
+		"ru": "В работе рассмотрено влияние частиц ультрадисперсных алмазов на структурообразование и эксплуатационные свойства композиционных электролитических покрытий на основе никеля, полученных с помощью постоянного и импульсного токов. Результаты исследований показали, что при импульсных режимах электроосаждения формируются мелкозернистые, плотноупакованные покрытия, имеющие более неравновесную структуру роста с большей плотностью распределения частиц ультрадисперсного алмаза в покрытии, что повышает микротвёрдость и износостойкость никелевых композиционных электролитических покрытий."
+	},
+	"keywords": {
+		"ua": "частинки ультрадисперсних алмазів, композиційні покриття на основі ніклю, структура, механічні властивості",
+		"en": "ultrafine diamond particles, nickel-based composite coating, structure, mechanical properties",
+		"ru": "частицы ультрадисперсных алмазов, композиционные покрытия на основе никеля, структура, механические свойства"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. В. Титаренко", "en": "V. V. Tytarenko", "ru": "В. В. Титаренко"},
+			"OID": [226]
+		},
+		{
+			"AID": {"ua": "В. О. Заблудовський", "en": "V. A. Zabludovs’kyy", "ru": "В. А. Заблудовский"},
+			"OID": [226]
+		}
+	],
+	"references": {
+		"count": 12,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "В. Ю. Долматов, Г. К. Буркат, Сверхтвёрдые материалы, № 1: 84 (2000).",
+				"tr":  "V. Yu. Dolmatov and G. K. Burkat, Sverkhtverdye Materialy, No. 1: 84 (2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ю. Долматов, Ультрадисперсные алмазы детонационного синтеза (Санкт-Петербург: Издательство СПБГПУ: 2003).",
+				"tr":  "V. Yu. Dolmatov, Ul’tradispersnye Almazy Detonatsionnogo Sinteza (Saint-Petersburg: Izdatel’stvo SPBGPU: 2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. K. Burkat, T. Fujimura, V. Yu. Dolmatov, E. A. Orlova, and M. V. Veretennikova, Diamond and Related Materials, 14, No. 8: 1761 (2005).",
+				"tr":  "G. K. Burkat, T. Fujimura, V. Yu. Dolmatov, E. A. Orlova, and M. V. Veretennikova, Diamond and Related Materials, 14, No. 8: 1761 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. К. Буркат, В. Ю. Долматов, E. Osawa, Е. А. Орлова, Сверхтвёрдые материалы, № 2: 43 (2010).",
+				"tr":  "G. K. Burkat, V. Yu. Dolmatov, E. Osawa, and E. A. Orlova, Sverkhtverdyye Materialy, No. 2: 43 (2010) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(02)00903-9",
+				"or":  "S. Zhang, D. Sun, Y. Fu, and H. Du, Surf. Coat. Technol., 167: 113 (2003).",
+				"tr":  "S. Zhang, D. Sun, Yo. Fu, and H. Du, Surf. Coat. Technol. 167: 113 (2003)."
+			},
+			{
+				"doi": "10.1016/j.msea.2004.08.033",
+				"or":  "L. Wang, Y. Gao, Q. Xue, H. Liu, and T. Xu, Mater. Sci. Eng. A, 390: 313 (2005).",
+				"tr":  "L. Wang, Y. Gao, Q. Xue, H. Liu, and T. Xu, Mater. Sci. Eng. A, 390: 313 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Дудкіна, Фізика і хімія твердого тіла, 14, № 3: 644 (2013).",
+				"tr":  "V. V. Dudkina, Fizyka i Khimiya Tverdoho Tila, 14, No. 3: 644 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. О. Заблудовський, В. В. Дудкіна, Е. П. Штапенко, Наука та прогрес транспорту. Вісник Дніпропетровського національного університету імені академіка В. Лазаряна, 47, № 5: 70 (2013).",
+				"tr":  "V. O. Zabludovs’kyy, V. V. Dudkina, and E. P. Shtapenko, Nauka ta Progres Transportu. Visnyk Dnipropetrovs’kogo Natsional’nogo Universytetu Imeni Akademika V. Lazaryana, 47, No. 5: 70 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. О. Заблудовський, Е. П. Штапенко, В. В. Дудкіна, О. С. Терещенко, Спосіб отримання нікелевих гальванічних покриттів, модифікованих наноалмазами: Патент України № 87842. С25D15/00 (Опубл. 25 лютого 2014 р.), бюл. № 4.",
+				"tr":  "V. O. Zabludovs’kyy, E. P. Shtapenko, V. V. Dudkina, and O. S. Tereshchenko, Sposib Otrymannya Nikelevykh Gal’vanichnykh Pokryttiv, Modyfikovanykh Nanoalmazamy: Ukrainian Patent No. 87842. C25D15/00 (Publ. February 25, 2014), Bull. No. 4 (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. О. Заблудовський, Е. П. Штапенко, В. В. Дудкіна, Спосіб осадження композиційних електролітичних покриттів: Патент України № 101121. С25D 15/00, В82В 1/00 (Опубл. 25 серпня 2015 р.), бюл. № 16.",
+				"tr":  "V. O. Zabludovs’kyy, E. P. Shtapenko, and V. V. Dudkina, Sposib Osadzhennya Kompozytsiynykh Elektrolitychnykh Pokryttiv: Ukrainian Patent No. 101121. C25D 15/00, B82B 1/00 (Publ. August 25, 2015), Bull. No. 16 (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/mfint.38.04.0521",
+				"or":  "В. В. Дудкина, В. А. Заблудовский, Э. Ф. Штапенко, Металлофиз. новейшие технол., 37, № 5: 713 (2015).",
+				"tr":  "V. V. Dudkina, V. A. Zabludovskiy, and E. F. Shtapenko, Metallofiz. Noveishie Tekhnol., 37, No. 5: 713 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. С. Горелик, Ю. А. Скаков, Л. Н. Расторгуев, Рентгенографический и электронно-оптический анализ (Москва: МИСИС: 1994).",
+				"tr":  "S. S. Gorelik, Yu. A. Skakov, and L. N. Rastorguev, Rentgenograficheskiy i Elektronno-Opticheskiy Analiz (Moscow: MISiS: 1994) (in Russian)."
+			}
+		]
+	}
+}

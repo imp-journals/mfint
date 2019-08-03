@@ -1,0 +1,92 @@
+{
+	"_id":    "MFiNT.41.01.0013",
+	"year":   2019,
+	"volume": 41,
+	"issue":  1,
+	"pages":  [13,25],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["02.05.2018","12.10.2018"],
+	"PACS":   "61.72.S-, 64.70.kd, 81.10.Aj, 81.10.Jt, 81.30.Bx, 81.30.Kf, 81.65.Lp",
+	"title":   {
+		"ua": "Аналіз стійкости плаского фронту $\\alpha \\rightarrow \\gamma$-перекристалізації при навуглецьовуванні феритних стопів",
+		"en": "Analysis of the Stability of $\\alpha \\rightarrow \\\\gamma$ Plane Front of Recrystallization in Ferritic Alloys During Carburization",
+		"ru": "Анализ устойчивости плоского фронта $\\alpha \\rightarrow \\gamma$-перекристаллизации при науглероживании ферритных сплавов"
+	},
+	"abstract": {
+		"ua": "Проаналізовано $\\alpha \\rightarrow \\gamma$-перекристалізацію при пересиченні Карбоном фериту, леґованого $\\alpha$-стабілізатором. При перекристалізації $\\alpha$-стабілізатор перерозподіляється між аустенітом і феритом, плаский фронт перекристалізації втрачає стійкість і трансформується в комірчастий або дендритний. При аналізі було використано методу збурень, яку було розроблено W. W. Mullins, R. F. Sekerka для стопів, що кристалізуються. На плаский фронт перекристалізації було накладено синусоїдальне збурення з нескінченно малою амплітудою. Швидкість переміщення кожного елементу міжфазної поверхні обчислювалася через дифузійний потік Карбону з аустеніту та через потік $\\alpha$-стабілізатора у ферит. Швидкості було зрівняно й одержано вираз для зміни амплітуди збурення. Встановлено найзначущі чинники, що впливають на стійкість плаского фронту $\\alpha \\rightarrow \\gamma$-перекристалізації, а саме: ріжниця концентрацій $\\alpha$-стабілізатора у фериті й аустеніті на міжфазній межі, середня швидкість переміщення фронту, коефіцієнт дифузії $\\alpha$-стабілізатора у фериті, коефіцієнт натягу міжфазної поверхні. Всі чинники залежать від температури; тому з її зміною значимість чинників може змінюватися. На прикладі стопів системи Fe–Si–C показано відповідність теоретичних та експериментальних результатів дослідження. Показано можливість застосування одержаних результатів для опису кооперативного перетворення $\\alpha \\rightarrow \\gamma$ + карбід при навуглецьовуванні феритних стопів заліза з карбідоутворювальними елементами.",
+		"en": "The $\\alpha \\rightarrow \\gamma$ recrystallization of carbon-supersaturated ferrite alloyed with $\\alpha$-stabilizer is analysed. The $\\alpha$-stabilizer is redistributed between austenite and ferrite by recrystallization. A plane front of recrystallization becomes unstable and is transformed into cellular or dendrite one. The perturbation method, which is developed by W. W. Mullins and R. F. Sekerka for crystallizing alloys, is used in the analysis. A sinusoidal perturbation with infinitesimal amplitude is introduced into a plane front of recrystallization. The rate of movement of each element of the interphase surface is calculated by means of the diffusion flow of carbon from the austenite and by the flow of $\\alpha$-stabilizer into the ferrite. The velocities are equated, and an expression for the change of perturbation amplitude is obtained. The most significant factors influencing on the stability of the $\\alpha \\rightarrow \\gamma$ plane front of recrystallization are as follow: the difference in concentrations of $\\alpha$-stabilizer in ferrite and austenite at the interface, the average velocity of front, the diffusion coefficient of the $\\alpha$-stabilizer in ferrite, the coefficient of the interface tension. All factors depend on temperature. Therefore, the significance of factors can vary with temperature changes. The example of Fe–Si–C alloys shows the correspondence of the theoretical and experimental results of the study. The possibility of applying the obtained results to describing the $\\alpha \\rightarrow \\gamma$ + carbide cooperative transformation in ferritic iron alloys with carbide-forming elements during carburizing is shown.",
+		"ru": "Проанализирована $\\alpha \\rightarrow \\gamma$-перекристаллизация при пересыщении углеродом феррита, легированного $\\alpha$-стабилизатором. При перекристаллизации $\\alpha$-стабилизатор перераспределяется между аустенитом и ферритом, плоский фронт перекристаллизации теряет устойчивость и трансформируется в ячеистый или дендритный. При анализе был использован метод возмущений, который был разработан W. W. Mullins, R. F. Sekerka для кристаллизующихся сплавов. На плоский фронт перекристаллизации было наложено синусоидальное возмущение с бесконечно малой амплитудой. Скорость перемещения каждого элемента межфазной поверхности вычислялась через диффузионный поток углерода из аустенита и через поток $\\alpha$-стабилизатора в феррит. Скорости были приравнены и получено выражение для изменения амплитуды возмущения. Установлены наиболее значимые факторы, влияющие на устойчивость плоского фронта $\\alpha \\rightarrow \\gamma$-перекристаллизации, а именно: разность концентраций $\\alpha$-стабилизатора в феррите и аустените на межфазной границе, средняя скорость перемещения фронта, коэффициент диффузии $\\alpha$-стабилизатора в феррите, коэффициент натяжения межфазной поверхности. Все факторы зависят от температуры; поэтому с её изменением значимость факторов может изменяться. На примере сплавов системы Fe–Si–C показано соответствие теоретических и экспериментальных результатов исследования. Показана возможность применения полученных результатов для описания кооперативного превращения $\\alpha \\rightarrow \\gamma$ + карбид при науглероживании ферритных сплавов железа с карбидообразующими элементами."
+	},
+	"keywords": {
+		"ua": "феритні стопи, навуглецьовування, фронт $\\alpha \\rightarrow \\gamma$-перекристалізації, коміркова структура, метода збурень",
+		"en": "ferritic alloys, carburizing, $\\alpha \\rightarrow \\gamma$ recrystallization front, cellular structure, perturbation method",
+		"ru": "ферритные сплавы, науглероживание, фронт $\\alpha \\rightarrow \\gamma$-перекристаллизации, ячеистая структура, метод возмущений"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. В. Мовчан", "en": "O. V. Movchan", "ru": "А. В. Мовчан"},
+			"OID": [223]
+		},
+		{
+			"AID": {"ua": "К. О. Чорноіваненко", "en": "K. O. Chernoivanenko", "ru": "Е. А. Черноиваненко"},
+			"OID": [223]
+		}
+	],
+	"references": {
+		"count": 10,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "A. V. Movchan and A. P. Bachurin, and L. G. Pedan, Dopov. Nac. Akad. Nauk Ukr., No. 7: 104 (2000) (in Russian).",
+				"tr":  "A. V. Movchan and A. P. Bachurin, and L. G. Pedan, Dopov. Nac. Akad. Nauk Ukr., No. 7: 104 (2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "K. P. Bunin, V. I. Movchan, and V. V. Nikiforova, Izv. VUZov. Chern. Metall., No. 2: 106 (1977) (in Russian).",
+				"tr":  "K. P. Bunin, V. I. Movchan, and V. V. Nikiforova, Izv. VUZov. Chern. Metall., No. 2: 106 (1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Movchan and V. V. Vladimirova, Izv. Akad. Nauk SSSR. Metally, No. 4: 91 (1982) (in Russian).",
+				"tr":  "V. I. Movchan and V. V. Vladimirova, Izv. Akad. Nauk SSSR. Metally, No. 4: 91 (1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Movchan and V. V. Vladimirova, Izv. Akad. Nauk SSSR. Metally, No. 6: 52 (1988) (in Russian).",
+				"tr":  "V. I. Movchan and V. V. Vladimirova, Izv. Akad. Nauk SSSR. Metally, No. 6: 52 (1988) (in Russian)."
+			},
+			{
+				"doi": "10.1007/BF02651594",
+				"or":  "M. Ichinose, F. Togashi, K. Ishida, and T. Nishizawa, Metall. Mater. Trans., 25A, No. 3: 531 (1994).",
+				"tr":  "M. Ichinose, F. Togashi, K. Ishida, and T. Nishizawa, Metall. Mater. Trans., 25A, No. 3: 531 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "B. Chalmers, Teoriya Zatverdevaniya (Principles of Solidification) (Moscow: Metallurgiya: 1968) (Russian translation).",
+				"tr":  "B. Chalmers, Teoriya Zatverdevaniya (Principles of Solidification) (Moscow: Metallurgiya: 1968) (Russian translation)."
+			},
+			{
+				"doi": "10.1063/1.1713333",
+				"or":  "W. W. Mullins and R. F. Sekerka, J. Appl. Phys., 35, No. 2: 444 (1964).",
+				"tr":  "W. W. Mullins and R. F. Sekerka, J. Appl. Phys., 35, No. 2: 444 (1964)."
+			},
+			{
+				"doi": "10.1017/CBO9780511812781",
+				"or":  "M. Hillert, Phase Equilibria, Phase Diagrams and Phase Transformations (Cambridge: Cambridge University Press: 2007).",
+				"tr":  "M. Hillert, Phase Equilibria, Phase Diagrams and Phase Transformations (Cambridge: Cambridge University Press: 2007)."
+			},
+			{
+				"doi": "",
+				"or":  "M. A. Krishtal, Mekhanizm Diffuzii v Zheleznykh Splavakh [Diffusion Mechanism in Iron Alloys] (Moscow: Metallurgiya:1972) (in Russian).",
+				"tr":  "M. A. Krishtal, Mekhanizm Diffuzii v Zheleznykh Splavakh [Diffusion Mechanism in Iron Alloys] (Moscow: Metallurgiya:1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Raghavan, J. Alloy Phase Diagrams. India, 2, No. 2: 97 (1986).",
+				"tr":  "V. Raghavan, J. Alloy Phase Diagrams. India, 2, No. 2: 97 (1986)."
+			}
+		]
+	}
+}

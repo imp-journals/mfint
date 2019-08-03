@@ -1,0 +1,246 @@
+{
+	"_id":    "MFiNT.38.04.0491",
+	"year":   2016,
+	"volume": 38,
+	"issue":  4,
+	"pages":  [491,508],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["04.02.2016", "26.02.2016"],
+	"PACS":   "61.66.Dk, 71.15.Mb, 71.20.Be, 72.15.Eb, 75.47.Np, 75.50.Cc, 81.30.Kf",
+	"title":   {
+		"ua": "Вплив кристалічної структури на транспортні та магнітні властивості масивних стопів Гойслера Ni$_{2}$MnSn",
+		"en": "Effect of Crystal Structure on Transport and Magnetic Properties of Bulk Ni$_{2}$MnSn Heusler Alloys",
+		"ru": "Влияние кристаллической структуры на транспортные и магнитные свойства массивных сплавов Гейслера Ni$_{2}$MnSn"
+	},
+	"abstract": {
+		"ua": "Досліджено вплив структури збагачених марганцем Гойслерових стопів Ni$_{52,6}$Mn$_{34,5}$Sn$_{12,9}$ та Ni$_{52,9}$Mn$_{33,8}$Sn$_{13,2}$ на їхні магнітні та електротранспортні властивості. Показано, що ці стопи в литому стані є двофазними, а гомогенізувальний відпал при Т = 1273 К з наступним гартуванням спричинює формування в обох стопах добре впорядкованої однофазної структури типу $L2_{1}$. Для обох литих стопів спостерігається безгістерезисне мартенситне перетворення в температурному інтервалі 300 К < T < 500 К, яке супроводжується значною зміною як магнітних, так і транспортних властивостей. По значній зміні магнітних та електротранспортних властивостей відпаленого стопу Ni$_{52,6}$Mn$_{34,5}$Sn$_{12,9}$ встановлено, що в температурній області 300 К < T < 400 К в ньому спостерігаються два структурних перетворення: аустеніт—10М мартенсит (290 К < T < 390 К) та 10М мартенсит— мартенсит (110 К < T < 210 К).",
+		"en": "Effect of alloy structure of Mn-rich Ni$_{52.6}$Mn$_{34.5}$Sn$_{12.9}$ and Ni$_{52.9}$Mn$_{33.8}$Sn$_{13.2}$ Heusler alloys on their magnetic and transport properties is investigated. As shown, the as-cast alloys have two-phase structure. Annealing at T = 1273 K and following quenching of these alloys cause the formation of well-ordered $L2_{1}$-type single-phase structure. Both as-cast alloys demonstrate anhysteretic martensitic transformation within the temperature range 300 K < T < 500 K, which is accompanied with significant changes in their magnetic and transport properties. Based on noticeable changes of magnetic and transport properties of annealed Ni$_{52.6}$Mn$_{34.5}$Sn$_{12.9}$ alloy, it is concluded that, within the temperature range 300 K < T < 400 K, two martensitic transformations in this alloy take place: austenite—10Mmartensite (290K < T < 390 K) and 10М martensite—martensite (110 K < T < 210 K).",
+		"ru": "Исследовано влияние структуры обогащённых марганцем сплавов Гейслера Ni$_{52,6}$Mn$_{34,5}$Sn$_{12,9}$ и Ni$_{52,9}$Mn$_{33,8}$Sn$_{13,2}$ на их магнитные и электротранспортные свойства. Показано, что эти сплавы в литом состоянии являются двухфазными, а гомогенизирующий отжиг при температуре Т = 1273 К с последующей закалкой приводит к формированию в обоих сплавах хорошо упорядоченной структуры типа $L2_{1}$. Для обоих литых сплавов наблюдается безгистерезисное мартенситное превращение в интервале 300 К < T < 500 К, которое сопровождается существенным изменением как магнитных, так и электротранспортных свойств. На основании значительных изменений магнитных и электротранспортных свойств отожжённого сплава Ni$_{52,6}$Mn$_{34,5}$Sn$_{12,9}$ установлено, что в температурном интервале 300 К < T < 400 К в нём наблюдаются два структурных превращения: аустенит—10М мартенсит (290 К < T < 390 К) и 10М мартенсит—мартенсит (110 К < T < 210 К)."
+	},
+	"keywords": {
+		"ua": "Гойслерові стопи, мартенситне перетворення, транспортні властивості, магнітні властивості",
+		"en": "Heusler alloys, martensitic transformation, transport properties, magnetic properties",
+		"ru": "сплавы Гейслера, мартенситное превращение, транспортные свойства, магнитные свойства"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. В. Кудрявцев", "en": "Yu. V. Kudryavtsev", "ru": "Ю. В. Кудрявцев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. М. Надутов", "en": "V. M. Nadutov", "ru": "В. М. Надутов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. В. Уваров", "en": "N. V. Uvarov", "ru": "Н. В. Уваров"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. М. Уваров", "en": "V. N. Uvarov", "ru": "В. Н. Уваров"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. В. Клімов", "en": "V. V. Klimov", "ru": "В. В. Климов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. С. Михаленков", "en": "V. S. Mikhalenkov", "ru": "В. С. Михаленков"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Д. Л. Ващук", "en": "D. L. Vashchuk", "ru": "Д. Л. Ващук"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. Р. Кольчіба", "en": "M. R. Kolchiba", "ru": "М. Р. Кольчиба"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 36,
+		"list":  [
+			{
+				"doi": "10.1063/1.1808879",
+				"or":  "Y. Sutou, Y. Imano, N. Koeda, T. Omori, R. Kainuma, K. Ishida, and K. Oikawa, Appl. Phys. Lett., 85: 4358 (2004).",
+				"tr":  "Y. Sutou, Y. Imano, N. Koeda, T. Omori, R. Kainuma, K. Ishida, and K. Oikawa, Appl. Phys. Lett., 85: 4358 (2004)."
+			},
+			{
+				"doi": "10.1140/epjb/e2013-40489-0",
+				"or":  "A. Ghosh and K. Mandal, Eur. Phys. J. B, 86: 378 (2013).",
+				"tr":  "A. Ghosh and K. Mandal, Eur. Phys. J. B, 86: 378 (2013)."
+			},
+			{
+				"doi": "10.1088/0953-8984/18/7/012",
+				"or":  "P. J. Brown, A. P. Gandy, K. Ishida, R. Kainuma, T. Kanomata, K.-U. Neumann, K. Oikawa, B. Ouladdiaf, and K. R. A. Ziebeck, J. Phys.: Condens. Matter, 18: 2249 (2006).",
+				"tr":  "P. J. Brown, A. P. Gandy, K. Ishida, R. Kainuma, T. Kanomata, K.-U. Neumann, K. Oikawa, B. Ouladdiaf, and K. R. A. Ziebeck, J. Phys.: Condens. Matter, 18: 2249 (2006)."
+			},
+			{
+				"doi": "10.1063/1.2203211",
+				"or":  "R. Kainuma, Y. Imano, W. Ito, H. Morito, Y. Sutou, K. Oikawa, A. Fujita, K. Ishida, S. Okamoto, O. Kitakami, and T. Kanomata, Appl. Phys. Lett., 88: 192513 (2006).",
+				"tr":  "R. Kainuma, Y. Imano, W. Ito, H. Morito, Y. Sutou, K. Oikawa, A. Fujita, K. Ishida, S. Okamoto, O. Kitakami, and T. Kanomata, Appl. Phys. Lett., 88: 192513 (2006)."
+			},
+			{
+				"doi": "10.1088/0953-8984/21/23/233201",
+				"or":  "A. Planes, L. Manosa, and M. Acet, J. Physics: Condensed Matter, 21: 233201 (2009).",
+				"tr":  "A. Planes, L. Manosa, and M. Acet, J. Physics: Condensed Matter, 21: 233201 (2009)."
+			},
+			{
+				"doi": "10.1063/1.2818016",
+				"or":  "M. Khan, I. Dubenko, S. Stadler, and N. Ali, J. Appl. Phys., 102: 113914 (2007).",
+				"tr":  "M. Khan, I. Dubenko, S. Stadler, and N. Ali, J. Appl. Phys., 102: 113914 (2007)."
+			},
+			{
+				"doi": "10.1063/1.4803496",
+				"or":  "C. Jing, Y. J. Yang, Z. Li, X. L. Wang, B. J. Kang, S. X. Cao, J. C. Zhang, J. Zhu, and B. Lu, J. Appl. Phys., 113: 173902 (2013).",
+				"tr":  "C. Jing, Y. J. Yang, Z. Li, X. L. Wang, B. J. Kang, S. X. Cao, J. C. Zhang, J. Zhu, and B. Lu, J. Appl. Phys., 113: 173902 (2013)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.72.014412",
+				"or":  "T. Krenke, M. Acet, E. Wassermann, A. Moya, L. Mañosa, and A. Planes, Phys. Rev. B, 72: 014412 (2005).",
+				"tr":  "T. Krenke, M. Acet, E. Wassermann, A. Moya, L. Ma-osa, and A. Planes, Phys. Rev. B, 72: 014412 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.81.214406",
+				"or":  "V. V. Khovaylo, K. P. Skokov, O. Gutfleisch, H. Miki, T. Takagi, T. Kanomata, V. V. Koledov, V. G. Shavrov, G. Wang, E. Palacios, J. Bartolomé, and R. Burriel, Phys. Rev., 81: 214406 (2010).",
+				"tr":  "V. V. Khovaylo, K. P. Skokov, O. Gutfleisch, H. Miki, T. Takagi, T. Kanomata, V. V. Koledov, V. G. Shavrov, G. Wang, E. Palacios, J. Bartolomé, and R. Burriel, Phys. Rev., 81: 214406 (2010)."
+			},
+			{
+				"doi": "10.1038/nmat1395",
+				"or":  "T. Krenke, E. Duman, M. Acet, E. F. Wassermann, A. Moya, L. Mañosa, and A. Planes, Nature Mater., 4: 450 (2005).",
+				"tr":  "T. Krenke, E. Duman, M. Acet, E. F. Wassermann, A. Moya, L. Ma-osa, and A. Planes, Nature Mater., 4: 450 (2005)."
+			},
+			{
+				"doi": "10.1063/1.2385147",
+				"or":  "Z. D. Han, D. H. Wang, C. L. Zhang, S. L. Tang, B. X. Gu, and Y. W. Du, Appl. Phys. Lett., 89: 182507 (2006).",
+				"tr":  "Z. D. Han, D. H. Wang, C. L. Zhang, S. L. Tang, B. X. Gu, and Y. W. Du, Appl. Phys. Lett., 89: 182507 (2006)."
+			},
+			{
+				"doi": "10.1088/0305-4608/11/7/017",
+				"or":  "A. Hamzic, R. Asomoza, and I. A. Campbell, J. Met. F: Metal Phys., 11: 1441 (1981).",
+				"tr":  "A. Hamzic, R. Asomoza, and I. A. Campbell, J. Met. F: Metal Phys., 11: 1441 (1981)."
+			},
+			{
+				"doi": "10.1063/1.330743",
+				"or":  "S. P. McAlister, I. Shiozaki, and C. M. Hurd, J. Appl. Phys., 53: 2058 (1982).",
+				"tr":  "S. P. McAlister, I. Shiozaki, and C. M. Hurd, J. Appl. Phys., 53: 2058 (1982)."
+			},
+			{
+				"doi": "10.1016/j.intermet.2014.10.012",
+				"or":  "T. Fichtner, G. Kreiner, S. Chadov, G. H. Fecher, W. Schnelle, A. Hoser, and C. Felser, Intermetallics, 57: 101 (2015).",
+				"tr":  "T. Fichtner, G. Kreiner, S. Chadov, G. H. Fecher, W. Schnelle, A. Hoser, and C. Felser, Intermetallics, 57: 101 (2015)."
+			},
+			{
+				"doi": "10.1016/j.physb.2012.10.006",
+				"or":  "J. Li, Z. Zhang, Y. Sun, J. Zhang, G. Zhou, H. Luo, and G. Liu, Physica B, 409: 35 (2013).",
+				"tr":  "J. Li, Z. Zhang, Y. Sun, J. Zhang, G. Zhou, H. Luo, and G. Liu, Physica B, 409: 35 (2013)."
+			},
+			{
+				"doi": "10.1063/1.4758180",
+				"or":  "L. Ma, S. Q. Wang, Y. Z. Li, C. M. Zhen, D. L. Hou, W. H. Wang, J. L. Chen, and G. H. Wu, J. Appl. Phys., 112: 083902 (2012).",
+				"tr":  "L. Ma, S. Q. Wang, Y. Z. Li, C. M. Zhen, D. L. Hou, W. H. Wang, J. L. Chen, and G. H. Wu, J. Appl. Phys., 112: 083902 (2012)."
+			},
+			{
+				"doi": "10.1063/1.4704562",
+				"or":  "J. Dubowik, K. Załeski, I. Goscianska, H. Głowinski, and A. Ehresmann, Appl. Phys. Lett., 100: 162403 (2012).",
+				"tr":  "J. Dubowik, K. Załeski, I. Goscianska, H. Głowinski, and A. Ehresmann, Appl. Phys. Lett., 100: 162403 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Blaha, K. Schwarz, G. K. H. Madsen, D. Kvasnicka, and J. Luitz, WIEN2k, An Augmented Plane Wave  Local Orbitals Program for Calculating Crystal Properties (Wien: Technische Universität Wien: 2001).",
+				"tr":  "P. Blaha, K. Schwarz, G. K. H. Madsen, D. Kvasnicka, and J. Luitz, WIEN2k, An Augmented Plane Wave + Local Orbitals Program for Calculating Crystal Properties (Wien: Technische Universität Wien: 2001)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.24.864",
+				"or":  "E. Wimmer, H. Krakauer, M. Weinert, and A. J. Freeman, Phys. Rev. B, 24: 864 (1981).",
+				"tr":  "E. Wimmer, H. Krakauer, M. Weinert, and A. J. Freeman, Phys. Rev. B, 24: 864 (1981)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.77.3865",
+				"or":  "J. P. Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett., 77: 3865 (1996).",
+				"tr":  "J. P. Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett., 77: 3865 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "B. L. Al’tshuler, ZhETF, 75: 1330 (1978) (in Russian).",
+				"tr":  "B. L. Al'tshuler, ZhETF, 75: 1330 (1978) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0022-3697(71)80364-5",
+				"or":  "B. Loegel and F. Gautier, J. Phys. Chem. Solids, 32: 2723 (1971).",
+				"tr":  "B. Loegel and F. Gautier, J. Phys. Chem. Solids, 32: 2723 (1971)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.4.196",
+				"or":  "D. L. Mills, A. Fert, and I. A. Cambell, Phys. Rev. B, 4: 196 (1971).",
+				"tr":  "D. L. Mills, A. Fert, and I. A. Cambell, Phys. Rev. B, 4: 196 (1971)."
+			},
+			{
+				"doi": "10.1260/1708-5284.9.1.13",
+				"or":  "S. K. Bose, J. Kudrnovsky, and V. Drchal, World Journal of Engineering, 9: 13 (2012).",
+				"tr":  "S. K. Bose, J. Kudrnovsky, and V. Drchal, World Journal of Engineering, 9: 13 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Kudrnovsky, V. Drchal, I. Turek, S.Khmelevskyi, J. K. Glasbrenner, and K. D. Belashchenko, EPJ Web of Conferences, 40: 12001 (2013).",
+				"tr":  "J. Kudrnovsky, V. Drchal, I. Turek, S.Khmelevskyi, J. K. Glasbrenner, and K. D. Belashchenko, EPJ Web of Conferences, 40: 12001 (2013)."
+			},
+			{
+				"doi": "10.1002/pssa.2210170217",
+				"or":  "J. H. Mooij, phys. status solidi (a), 17: 521 (1973).",
+				"tr":  "J. H. Mooij, phys. status solidi (a), 17: 521 (1973)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.43.718",
+				"or":  "P. W. Anderson, E. Abrahams, and T. V. Ramakrishnan, Phys. Rev. Lett., 43: 718 (1979).",
+				"tr":  "P. W. Anderson, E. Abrahams, and T. V. Ramakrishnan, Phys. Rev. Lett., 43: 718 (1979)."
+			},
+			{
+				"doi": "10.1016/0022-3093(68)90002-1",
+				"or":  "N. F. Mott, J. Non-Cryst. Solids, 1: 1 (1968).",
+				"tr":  "N. F. Mott, J. Non-Cryst. Solids, 1: 1 (1968)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.72.012417",
+				"or":  "S. Majumdar, M. K. Chattopadhyay, V. K. Sharma, K. J. S. Sokhey, S. B. Roy, and P. Chaddah, Phys. Rev. B, 72: 012417 (2005).",
+				"tr":  "S. Majumdar, M. K. Chattopadhyay, V. K. Sharma, K. J. S. Sokhey, S. B. Roy, and P. Chaddah, Phys. Rev. B, 72: 012417 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.81.064404",
+				"or":  "J. Barth, G. H. Fecher, B. Balke, S. Ouardi, T. Graf, C. Felser, A. Shkabko, A. Weidenkaff, P. Klaer, H. J. Elmers, H. Yoshikawa, S. Ueda, and K. Kobayashi, Phys. Rev. B, 81: 064404 (2010).",
+				"tr":  "J. Barth, G. H. Fecher, B. Balke, S. Ouardi, T. Graf, C. Felser, A. Shkabko, A. Weidenkaff, P. Klaer, H. J. Elmers, H. Yoshikawa, S. Ueda, and K. Kobayashi, Phys. Rev. B, 81: 064404 (2010)."
+			},
+			{
+				"doi": "10.1134/S1063783415040149",
+				"or":  "N. I. Kourov, V. V. Marchenkov, A. V. Korolev, L. A. Stashkova, S. M. Emel’yanova, and H. W. Weber, Phys. Solid State, 57: 700 (2015).",
+				"tr":  "N. I. Kourov, V. V. Marchenkov, A. V. Korolev, L. A. Stashkova, S. M. Emel'yanova, and H. W. Weber, Phys. Solid State, 57: 700 (2015)."
+			},
+			{
+				"doi": "10.1063/1.3511748",
+				"or":  "H. C. Xuan, Y. X. Zheng, S. C. Ma, Q. Q. Cao, D. H. Wang, and Y. W. Du, J. Appl. Phys., 108: 103920 (2010).",
+				"tr":  "H. C. Xuan, Y. X. Zheng, S. C. Ma, Q. Q. Cao, D. H. Wang, and Y. W. Du, J. Appl. Phys., 108: 103920 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Khovailo, K. Oikawa, C. Wedel, T. Takagi, T. Abe, and K. Sugiyama, arXiv:cond-mat/0403495v [cond-mat.mtrl-sci] (19 March, 2004).",
+				"tr":  "V. V. Khovailo, K. Oikawa, C. Wedel, T. Takagi, T. Abe, and K. Sugiyama, arXiv:cond-mat/0403495v [cond-mat.mtrl-sci] (19 March, 2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.57.2659",
+				"or":  "V. A. Chernenko, C. Segui, E. Cesari, J. Pons, and V. V. Kokorin, Phys. Rev. B, 57: 2659 (1998).",
+				"tr":  "V. A. Chernenko, C. Segui, E. Cesari, J. Pons, and V. V. Kokorin, Phys. Rev. B, 57: 2659 (1998)."
+			},
+			{
+				"doi": "10.1063/1.2374868",
+				"or":  "K. Koyama, H. Okada, K. Watanabe, T. Kanomata, R. Kainuma, W. Ito, K. Oikawa, and K. Ishida, Appl. Phys. Lett., 89: 182510 (2006).",
+				"tr":  "K. Koyama, H. Okada, K. Watanabe, T. Kanomata, R. Kainuma, W. Ito, K. Oikawa, and K. Ishida, Appl. Phys. Lett., 89: 182510 (2006)."
+			},
+			{
+				"doi": "10.1063/1.3607311",
+				"or":  "Z. H. Liu, Z. G. Wu, X. Q. Ma, W. H. Wang, Y. Liu, and G. H. Wu, J. Appl. Phys., 110: 013916 (2011).",
+				"tr":  "Z. H. Liu, Z. G. Wu, X. Q. Ma, W. H. Wang, Y. Liu, and G. H. Wu, J. Appl. Phys., 110: 013916 (2011)."
+			}
+		]
+	}
+}

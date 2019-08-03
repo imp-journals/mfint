@@ -1,0 +1,233 @@
+{
+	"_id":    "MFiNT.39.07.0905",
+	"year":   2017,
+	"volume": 39,
+	"issue":  7,
+	"pages":  [905,928],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["24.06.2017"],
+	"PACS":   "43.35.+d, 61.72.Ff, 62.20.Qp, 81.20.Hy, 81.40.Ef, 81.65.-b, 83.10.Tv",
+	"title":   {
+		"ua": "Еволюція структурно-фазового стану та мікротвердості поверхні неіржавійної сталі 12Х18Н10Т за умов ультразвукового ударного оброблення в різних середовищах",
+		"en": "Evolution of a Structure–Phase State and Microhardness of a Surface of Stainless Steel 12Cr18Ni10Ti in the Conditions of Ultrasonic Impact Treatment in Various Mediums",
+		"ru": "Эволюция структурно-фазового состояния и микротвёрдости поверхности нержавеющей стали 12Х18Н10Т в условиях ультразвуковой ударной обработки в различных средах"
+	},
+	"abstract": {
+		"ua": "Досліджено мікротвердість $HV$ та структурно-фазовий стан аустенітної сталі 12Х18Н10Т після інтенсивної пластичної деформації за допомогою ультразвукового ударного оброблення (УЗУО) впродовж різного часу та у різних середовищах, а саме, на повітрі, у газі арґоні та у рідкому азоті. Показано, що еволюція мікротвердости поверхні з часом має циклічний характер (зміцнення/знеміцнення) за умов УЗУО на повітрі, параболічний — при обробленні в газі арґоні та сигмоподібний — за умов кріогенного УЗУО (в рідкому азоті). Особливістю мікроструктури сталі після УЗУО на повітрі та в арґоні є формування нетипових комірчастих структур з розміром комірок у 200–700 нм, що забезпечує величину $HV \\cong$ 4 ГПа. Максимальні значення мікротвердости поверхні сталі 12Х18Н10Т ($HV$ = 5–5,66 ГПа) одержано після кріогенного УЗУО, що зумовлено формуванням максимальної з досліджених випадків об’ємної частки $\\alpha$ʹ-мартенситу ($\\cong$ 53%), нанорозмірами зерен $\\alpha$ʹ-мартенситу (24 нм) та аустеніту (45 нм) і наявністю нанодвійників (60–120 нм). Крім низької енергії дефектів пакування ($\\cong$ 30 мДж/м$^{2}$), це зумовлено високою швидкістю деформації ($\\cong$ 10$^{3}$) та кріогенними температурами (77 К). Значення параметра Зенера–Холомона за умов УЗУО в рідкому азоті складає ln$Z$ = 26, тоді як за кімнатної температури на повітрі та в арґоні — 15 і 17 відповідно.",
+		"en": "The microhardness $HV$ and structure–phase state of austenitic steel 12Cr18Ni10Ti are investigated after severe plastic deformation induced by ultrasonic impact treatment (UIT) carried out for various times and in various mediums (temperatures) such as the air, argon gas, and liquid nitrogen. As shown, the surface $HV$ evolution with time (with the strain extent accumulated in the surface layer) has a cyclic character (of alternate strengthening/softening) during the air-UIT process. It has the parabolic character during the argon-UIT process and the sigmoidal character at the cryogenic UIT (in liquid nitrogen). The main microstructural feature of the steel after the air-UIT and argon-UIT processes is the formation of the dislocation cell structures with a cell size of 200–700 nm that provides the $HV$ value of $\\cong$ 4 GPa. The maximum values of the surface $HV$ of the steel 12Cr18Ni10Тi ($HV$ = 5–5.66 GPa) are obtained after the cryogenic UIT due to the formation of the maximum volume fraction of $\\alpha$ʹ-martensite ($\\cong$ 53%) as well as the nanosize grains of $\\alpha$ʹ-martensite (24 nm) and austenite (45 nm) and the nanotwins (60–120 nm). This is due to the low value of stacking fault energy ($\\cong$ 30 mJ/m$^{2}$) and the applied UIT conditions (high strain rate of $\\cong$ 10$^{3}$ and cryogenic (77 K) temperatures), which determine the Zener–Hollomon parameter magnitude ln$Z$ = 26, whereas for the air-UIT and argon-UIT processes at room temperature, it is equal to 15 and 17, respectively.",
+		"ru": "Исследована микротвёрдость $HV$ и структурно-фазовое состояние аустенитной стали 12Х18Н10Т после интенсивной пластической деформации с помощью ультразвуковой ударной обработки (УЗУО) в течение разного времени и в разных средах (температурах), а именно, на воздухе, в газе аргоне и в жидком азоте. Показано, что эволюция микротвёрдости поверхности со временем (степенью деформации поверхностного слоя) имеет циклический характер (упрочнение/разупрочнение) в условиях УЗУО на воздухе, параболический — при обработке в газе аргоне и сигмоидальный — в условиях криогенной УЗУО (в жидком азоте). Особенностью микроструктуры стали после УЗУО на воздухе и в аргоне является формирование нетипичных ячеистых структур с размером ячеек в 200–700 нм, что обеспечивает величину $HV \\cong$ 4 ГПа. Максимальные значения микротвёрдости поверхности стали 12Х18Н10Т ($HV$ = 5–5,66 ГПа) получены после криогенной УЗУО, что обусловлено формированием максимальной из исследованных случаев объёмной долей $\\alpha$ʹ-мартенсита ($\\cong$ 53%), наноразмерами зёрен $\\alpha$ʹ-мартенсита (24 нм) и аустенита (45 нм) и наличием нанодвойников (60–120 нм). Кроме низкой энергии дефектов упаковки ($\\cong$ 30 МДж/м$^{2}$), это обусловлено и использованными условиями УЗУО (высокая скорость деформации ($\\cong$ 10$^{3}$) и криогенные температуры (77 К)), которые определяют параметр Зенера–Холомона ln$Z$ = 26 — иной по сравнению с УЗУО на воздухе и в аргоне при комнатной температуре (15 и 17 соответственно)."
+	},
+	"keywords": {
+		"ua": "неіржавійна сталь, мартенсит, двійники, наноструктура, ультразвукове ударне оброблення, рідкий азот",
+		"en": "stainless steel, martensite, twins, nanostructure, ultrasonic impact treatment, liquid nitrogen",
+		"ru": "нержавеющая сталь, мартенсит, двойники, наноструктура, ультразвуковая ударная обработка, жидкий азот"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. О. Васильєв", "en": "M. O. Vasylyev", "ru": "М. А. Васильев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Б. М. Мордюк", "en": "B. M. Mordyuk", "ru": "Б. Н. Мордюк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. І. Сидоренко", "en": "S. I. Sydorenko", "ru": "С. И. Сидоренко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "С. М. Волошко", "en": "S. M. Voloshko", "ru": "С. М. Волошко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "А. П. Бурмак", "en": "A. P. Burmak", "ru": "А. П. Бурмак"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "Н. В. Франчік", "en": "N. V. Franchik", "ru": "Н. В. Франчик"},
+			"OID": [202]
+		}
+	],
+	"references": {
+		"count": 35,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "А. М. Сулима, М. И.Евстигнеев, Качество поверхностного слоя и усталостная прочность деталей из жаропрочных и титановых сплавов (Москва: Машиностроение: 1974).",
+				"tr":  "A. M. Sulima and M. I. Yevstigneev, Kachestvo Poverkhnostnogo Sloya i Ustalostnaya Prochnost Detaley iz Zharoprochnykh i Titanovykh Splavov [Quality of a Surface Layer and Fatigue Durability of Details Fabricated from Heat-Resistant and Titanium Alloys] (Moscow: Mashinostroenie: 1974) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2005.04.046",
+				"or":  "T. Wang, J. Yu, and B. Dong, Surf. Coat. Technol., 200: 4777 (2006).",
+				"tr":  "T. Wang, J. Yu, and B. Dong, Surf. Coat. Technol., 200: 4777 (2006)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(02)00594-3",
+				"or":  "H. W. Zhang, Z.K. Hei, G. Liu, J. Lu, and K. Lu, Acta Mater., 51: 1871 (2003).",
+				"tr":  "H. W. Zhang, Z.K. Hei, G. Liu, J. Lu, and K. Lu, Acta Mater., 51: 1871 (2003)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2011.03.005",
+				"or":  "A. Y. Chen, H. H. Ruan, J. Wang, H. L. Chan, Q. Wang, Q. Li, and J. Lu, Acta Mater., 59: 3697 (2011).",
+				"tr":  "A. Y. Chen, H. H. Ruan, J. Wang, H. L. Chan, Q. Wang, Q. Li, and J. Lu, Acta Mater., 59: 3697 (2011)."
+			},
+			{
+				"doi": "10.1002/9783527674947.ch17",
+				"or":  "B. N. Mordyuk and G. I. Prokopenko, Handbook of Mechanical Nanostructuring (Ed. M. Aliofkhazraei) (Wiley-VCH: 2015), p.417.",
+				"tr":  "B. N. Mordyuk and G. I. Prokopenko, Handbook of Mechanical Nanostructuring (Ed. M. Aliofkhazraei) (Wiley-VCH: 2015), p.417."
+			},
+			{
+				"doi": "10.1016/j.msea.2006.12.049",
+				"or":  "B. N. Mordyuk, G. I. Prokopenko, M. A. Vasylyev, and M. O. Iefimov, Mater. Sci. Eng. A, 458: 253 (2007).",
+				"tr":  "B. N. Mordyuk, G. I. Prokopenko, M. A. Vasylyev, and M. O. Iefimov, Mater. Sci. Eng. A, 458: 253 (2007)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2008.04.080",
+				"or":  "B. N. Mordyuk, Yu. V. Milman, M. O. Iefimov, G. I. Prokopenko, V. V. Silbershmidt, M. I. Danylenko, and A. V. Kotko, Surf. Coat. Technol., 202: 4875 (2008).",
+				"tr":  "B. N. Mordyuk, Yu. V. Milman, M. O. Iefimov, G. I. Prokopenko, V. V. Silbershmidt, M. I. Danylenko, and A. V. Kotko, Surf. Coat. Technol., 202: 4875 (2008)."
+			},
+			{
+				"doi": "10.15407/mfint.37.09.1269",
+				"or":  "М. О. Васильєв, Б. М. Мордюк, С. І. Сидоренко, С. М. Волошко, А. П. Бурмак, Металлофиз. новейшие технол., 37, № 9: 1269 (2015).",
+				"tr":  "M. O. Vasyliev, B. M. Mordyuk, S. I. Sidorenko, S. M. Voloshko, and A. P. Burmak, Metallofiz. Noveishie Tekhnol., 37, No. 9: 1269 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/S0079-6425(99)00007-9",
+				"or":  "R. Z. Valiev, R. K. Islamgaliev, and I. V. Alexandrov, Prog. Mater. Sci., 45: 103 (2000).",
+				"tr":  "R. Z. Valiev, R. K. Islamgaliev, and I. V. Alexandrov, Prog. Mater. Sci., 45: 103 (2000)."
+			},
+			{
+				"doi": "10.15407/ufm.13.03.303",
+				"or":  "М. А. Васильев, С. М. Волошко, Л. Ф. Яценко, Успехи физики металлов, 13, № 3: 303 (2012).",
+				"tr":  "M. A. Vasylyev, S. M. Voloshko, and L. F. Yatsenko, Uspehi Fiziki Metallov, 13, No. 3: 303 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Глезер, Л. С. Метлов, Физика твёрдого тела, 52, № 6: 1090 (2010).",
+				"tr":  "A. M. Glezer and L. S. Metlov, Fizika Tverdogo Tela, 52, No. 6: 1162 (2010) (in Russian)."
+			},
+			{
+				"doi": "10.1007/s11661-006-0130-y",
+				"or":  "A. K. De, J. G. Speer, D. K. Matlock, D. C. Murdock, M. C. Mataya, and R. J. Comstock, Metal. Mater. Trans. A, 37: 1875 (2006).",
+				"tr":  "A. K. De, J. G. Speer, D. K. Matlock, D. C. Murdock, M. C. Mataya, and R. J. Comstock, Metal. Mater. Trans. A, 37: 1875 (2006)."
+			},
+			{
+				"doi": "10.1016/j.matdes.2016.09.012",
+				"or":  "K. Huang and R. E. Logé, Mater. Design, 111: 548 (2016).",
+				"tr":  "K. Huang and R. E. Logé, Mater. Design, 111: 548 (2016)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2011.06.013",
+				"or":  "Z. Pu, S. Yang, G.-L. Song, O. W. Dillon, and I. S. Jawahir, Scr. Mater., 65: 520 (2011).",
+				"tr":  "Z. Pu, S. Yang, G.-L. Song, O. W. Dillon, and I. S. Jawahir, Scr. Mater., 65: 520 (2011)."
+			},
+			{
+				"doi": "10.1016/j.msea.2007.02.004",
+				"or":  "I. Nikitin and I. Altenberger, Mater. Sci. Eng. A, 465: 176 (2007).",
+				"tr":  "I. Nikitin and I. Altenberger, Mater. Sci. Eng. A, 465: 176 (2007)."
+			},
+			{
+				"doi": "10.1007/BF00738646",
+				"or":  "V. Seetharaman and R. Krishnan, J. Mater. Sci., 16: 523 (1981).",
+				"tr":  "V. Seetharaman and R. Krishnan, J. Mater. Sci., 16: 523 (1981)."
+			},
+			{
+				"doi": "10.1016/j.matdes.2010.02.041",
+				"or":  "W. S. Park, S. W. Yoo, M. H. Kim, and J. M. Lee, Mater. Design, 31: 3630 (2010).",
+				"tr":  "W. S. Park, S. W. Yoo, M. H. Kim, and J. M. Lee, Mater. Design, 31: 3630 (2010)."
+			},
+			{
+				"doi": "10.1016/j.msea.2005.06.022",
+				"or":  "T. S. Wang, J. G. Peng, Y. W. Gao, F. C. Zhang, and T. F. Jing, Mater. Sci. Eng. A, 407: 84 (2005).",
+				"tr":  "T. S. Wang, J. G. Peng, Y. W. Gao, F. C. Zhang, and T. F. Jing, Mater. Sci. Eng. A, 407: 84 (2005)."
+			},
+			{
+				"doi": "10.1080/14786435.2011.645899",
+				"or":  "C. Ye, S. Suslov, D. Lin, and G. J. Cheng, Philos. Mag., 92: 1369 (2012).",
+				"tr":  "C. Ye, S. Suslov, D. Lin, and G. J. Cheng, Philos. Mag., 92: 1369 (2012)."
+			},
+			{
+				"doi": "10.1016/j.msea.2012.08.125",
+				"or":  "B. N. Mordyuk, O. P. Karasevskaya, and G. I. Prokopenko, Mater. Sci. Eng. A, 559: 453 (2013).",
+				"tr":  "B. N. Mordyuk, O. P. Karasevskaya, and G. I. Prokopenko, Mater. Sci. Eng. A, 559: 453 (2013)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2012.08.006",
+				"or":  "M. A. Vasylyev, S. P. Chenakin, and L. F. Yatsenko, Acta Mater., 60: 6223 (2012).",
+				"tr":  "M. A. Vasylyev, S. P. Chenakin, and L. F. Yatsenko, Acta Mater., 60: 6223 (2012)."
+			},
+			{
+				"doi": "10.15407/mfint.39.01.0049",
+				"or":  "М. О. Васильєв, Б. М. Мордюк, С. І. Сидоренко, С. М. Волошко, А. П. Бурмак, Металлофиз. новейшие технол., 39, № 1: 49 (2017).",
+				"tr":  "M. A. Vasylyev, B. N. Mordyuk, S. I. Sidorenko, S. M. Voloshko, and A. P. Burmak, Metallofiz. Noveishie Tekhnol., 39, No. 1: 49 (2017) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. Д. Стародубов, П. А. Хаймович, Проблемы прочности, № 10: 116 (1975).",
+				"tr":  "Y. D. Starodubov and P. A. Khaimovich, Problemy Prochnosti, No. 10: 116 (1975) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2004.03.011",
+				"or":  "A. K. De, D. C. Murdock, M. C. Mataya, J. G. Speer, and D. K. Matlock, Scr. Mater., 50: 1445 (2004).",
+				"tr":  "A. K. De, D. C. Murdock, M. C. Mataya, J. G. Speer, and D. K. Matlock, Scr. Mater., 50: 1445 (2004)."
+			},
+			{
+				"doi": "10.1016/0921-5093(96)10412-3",
+				"or":  "H. Huang, J. Ding, and P. G. McCormick, Mater. Sci. Eng. A, 216: 178 (1996).",
+				"tr":  "H. Huang, J. Ding, and P. G. McCormick, Mater. Sci. Eng. A, 216: 178 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "J. P. Hirth and J. Lothe, Theory of Dislocations (New York: McGraw-Hill: 1968).",
+				"tr":  "J. P. Hirth and J. Lothe, Theory of Dislocations (New York: McGraw-Hill: 1968)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2007.02.018",
+				"or":  "A. Y. Chen, J. B. Zhang, H. W. Song, and J. Lu, Surf. Coat. Technol., 201: 7462 (2007).",
+				"tr":  "A. Y. Chen, J. B. Zhang, H. W. Song, and J. Lu, Surf. Coat. Technol., 201: 7462 (2007)."
+			},
+			{
+				"doi": "10.1016/j.matpr.2015.07.380",
+				"or":  "H. Sato, A. Namba, M. Okada, and Y. Watanabe, Materials Today: Proceedings, 2: S707 (2015).",
+				"tr":  "H. Sato, A. Namba, M. Okada, and Y. Watanabe, Materials Today: Proceedings, 2: S707 (2015)."
+			},
+			{
+				"doi": "10.1080/02670844.2017.1334377",
+				"or":  "M. A. Vasylyev, B. N. Mordyuk, S. I. Sidorenko, S. M. Voloshko, and A. P. Burmak, Surf. Eng. (2017) (to be published).",
+				"tr":  "M. A. Vasylyev, B. N. Mordyuk, S. I. Sidorenko, S. M. Voloshko, and A. P. Burmak, Surf. Eng. (2017) (to be published)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Мильман, Д. В. Лоцко, Н. А. Ефимов, К. Э. Гринкевич, ДАН Украины, № 11: 112 (1998).",
+				"tr":  "Yu. V.Mil'man, D. V. Lotsko, N. A. Efimov, N. I. Danilenko, and K. E. Grinkevych, Dokl. Nats. Akad. Nauk Ukr., No. 11: 112 (1998) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(98)01121-6",
+				"or":  "I. Altenberger, Mater. Sci. Eng. B, 264: 1 (1999).",
+				"tr":  "I. Altenberger, Mater. Sci. Eng. B, 264: 1 (1999)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2006.08.014",
+				"or":  "Y. Lin, J. Lu, L. Wang, T. Xuand, and Q. Xue, Acta Mater., 54: 5599 (2006).",
+				"tr":  "Y. Lin, J. Lu, L. Wang, T. Xuand, and Q. Xue, Acta Mater., 54: 5599 (2006)."
+			},
+			{
+				"doi": "10.1016/j.msea.2005.05.030",
+				"or":  "I. Nikitin, I. Altenberger, H. J. Maier, and B. Scholtes, Mater. Sci. Eng. A, 403: 318 (2005).",
+				"tr":  "I. Nikitin, I. Altenberger, H. J. Maier, and B. Scholtes, Mater. Sci. Eng. A, 403: 318 (2005)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2005.01.023",
+				"or":  "X. H. Chen, J. Lu, L. Lu, and K. Lu, Scr. Mater., 52: 1039 (2005).",
+				"tr":  "X. H. Chen, J. Lu, L. Lu, and K. Lu, Scr. Mater., 52: 1039 (2005)."
+			},
+			{
+				"doi": "10.2320/matertrans.M2011274",
+				"or":  "W.-S. Lee, T.-H. Chen, C.-F. Lin, and Z.-Y. Li, Mater. Trans., 53, No. 3: 469 (2012).",
+				"tr":  "W.-S. Lee, T.-H. Chen, C.-F. Lin, and Z.-Y. Li, Mater. Trans., 53, No. 3: 469 (2012)."
+			}
+		]
+	}
+}

@@ -1,0 +1,75 @@
+{
+	"_id":    "MFiNT.36.02.0217",
+	"year":   2014,
+	"volume": 36,
+	"issue":  2,
+	"pages":  [217,228],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["27.11.2013"],
+	"PACS":   "62.20.M-, 81.20.Ev, 81.40.Ef, 81.40.Gh, 81.40.Lm, 81.40.Vw",
+	"title":   {
+		"ua": "Ударне ущільнення порошку вольфраму в широкому діапазоні температур. II. Механічні властивості",
+		"en": "Impact Consolidation of the Tungsten Powder in the Wide Range of Temperatures. II. Mechanical Properties",
+		"ru": "Ударное уплотнение порошка вольфрама в широком диапазоне температур. II. Механические свойства"
+	},
+	"abstract": {
+		"ua": "Проведено ударне ущільнення в вакуумі 0,0133 Па звичайного порошку вольфраму з розміром частинок у 6—10 мкм при температурах 850, 1050, 1260, 1450, 1500, 1600 та 1640°C. Ізотермічна витримка перед ущільненням складала 20 хв. Одержані зразки діаметром 25—27 мм і заввишки $\\cong$ 10 мм розрізали на дві частини, одна з яких піддавалася відпалу при температурі 1600°C впродовж години. Відпалену та невідпалену частини зразка розрізали на прямокутні штабики для визначення щільності, структури та механічних властивостей. Встановлено, що відносно високі механічні властивості формуються при температурі ущільнення не нижче 1600°C, що забезпечує міцну міжчастинкову взаємодію, яка призводить до транскристалітного руйнування зразків. При цьому межа міцності при вигині становить 1130 МПа, тріщиностійкість – 9 МПа$\\cdot$м$^{1/2}$, твердість – 4350 МПа, межа міцності при стисканні – 1380 МПа і пластичність при стисканні – 11%. Додатковий відпал зразків в основному понизив їх механічні властивості за винятком міцності і пластичності при стисканні. Зразки з високими властивостями, які до відпалу руйнувалися транскристалітно, після відпалу стали руйнуватися інтеркристалітно.",
+		"en": "Impact consolidation in vacuum of 0.0133 Pa of the usual tungsten powder with a size of particles of 6—10 microns is carried out at temperatures of 850, 1050, 1260, 1450, 1500, 1600, and 1640°C. The isothermal holding before consolidation was 20 min. The obtained samples with a diameter of 25—27 mm and a height of $\\cong$ 10 mm cut on two parts, one of which is subjected to annealing at the temperature of 1600°C within the one hour. The annealed and not annealed parts of a sample cut on rectangular bars for determination of the density, structure, and mechanical properties. As established, the rather high mechanical properties are formed at a consolidation temperature above 1600°C, at which the strong interparticle interaction leading to transcrystalline breaking of samples is provided. Thus, the transverse rupture strength is equal to 1130 MPa, fracture toughness–9MPa$\\cdot$m$^{1/2}$, Vickers hardness–4350 MPa, strength at compression–1380 MPa, and plasticity at compression–11%. Additional annealing of samples generally reduces their mechanical properties, except for strength and plasticity at the compression. Samples with high properties were characterized before annealing by transcrystalline breaking, but after annealing, they began to collapse by means of the intercrystalline mechanism.",
+		"ru": "Проведено ударное уплотнение в вакууме 0,0133 Па обычного порошка вольфрама с размером частиц 6—10 мкм при температурах 850, 1050, 1260, 1450, 1500, 1600 и 1640°C. Изотермическая выдержка перед уплотнением составляла 20 мин. Полученные образцы диаметром 25—27 мм и высотой $\\cong$ 10 мм разрезали на две части, одна из которых подвергалась отжигу при температуре 1600°C в течение часа. Отожжённую и неотожжённую части образца разрезали на прямоугольные штабики для определения плотности, структуры и механических свойств. Установлено, что относительно высокие механические свойства формируются при температуре уплотнения не ниже 1600°C, что обеспечивает прочное межчастичное взаимодействие, приводящее к транскристаллитному разрушению образцов. При этом предел прочности при изгибе равен 1130 МПа, трещиностойкость – 9 МПа$\\cdot$м$^{1/2}$, твёрдость – 4350 МПа, предел прочности при сжатии – 1380 МПа и пластичность при сжатии – 11%. Дополнительный отжиг образцов в основном снизил их механические свойства за исключением прочности и пластичности при сжатии. Образцы с высокими свойствами, которые до отжига разрушались транскристаллитно, после отжига стали разрушаться интеркристаллитно."
+	},
+	"keywords": {
+		"ua": "порошок, вольфрам, мікроструктура, ударне ущільнення",
+		"en": "powder, Tungsten, microstructure, impact consolidation",
+		"ru": "порошок, вольфрам, микроструктура, ударное уплотнение"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. І. Толочин", "en": "O. I. Tolochyn", "ru": "А. И. Толочин"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "А. В. Лаптєв", "en": "A. V. Laptev", "ru": "А. В. Лаптев"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "І. Ю. Окунь", "en": "I. Yu. Okun", "ru": "И. Ю. Окунь"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "Я. І. Євіч", "en": "Ya. I. Evich", "ru": "Я. И. Евич"},
+			"OID": [2]
+		}
+	],
+	"references": {
+		"count": 5,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "П. Я. Радченко, Ю. Н. Подрезов, В. В. Паничкина, В. В. Скороход, Порошковая металлургия, № 8: 36 (1990).",
+				"tr":  "P. Ya. Radchenko, Yu. N. Podrezov, V. V. Panichkina, and V. V. Skorokhod, Poroshkovaya Metallurgiya, No. 8: 36 (1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Ф. Гнюсов, С. Н. Кульков, А. Г. Мельников, И. Н. Севостьянова, Способ горячего прессования порошков тугоплавких металлов, Патент RU 2252838 (Опубл. 27.05.2005, Бюл. № 15).",
+				"tr":  "S. F. Gnyusov, S. N. Kul'kov, A. G. Melnikov, and I. N. Sevostianova, Sposob Goryachego Pressovaniya Poroshkov Tugoplavkikh Metallov, Patent RU 2252838 (Publ. 27.05.2005, Bul. No. 15) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Баранов, Эффект А. Ф. Иоффе на металлах (Москва: МГИУ: 2005).",
+				"tr":  "Yu. V. Baranov, Effekt A. F. Ioffe na Metallakh (Moscow: MGIU: 2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Трефилов, Ю. В. Мильман, С. А. Фирстов, Физические основы прочности тугоплавких металлов (Киев: Наукова думка: 1975).",
+				"tr":  "V. I. Trefilov, Yu. V. Mil'man, and S. A. Firstov, Fizicheskie Osnovy Prochnosti Tugoplavkikh Metallov (Kiev: Naukova Dumka: 1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. М. Савицкий, К. Б. Поварова, П. В. Макаров, Металловедение вольфрама (Москва: Металлургия: 1978).",
+				"tr":  "E. M. Savitskiy, K. B. Povarova, and P. V. Makarov, Metallovedenie Wol'frama (Moscow: Metallurgiya: 1978) (in Russian)."
+			}
+		]
+	}
+}

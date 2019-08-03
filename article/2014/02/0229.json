@@ -1,0 +1,213 @@
+{
+	"_id":    "MFiNT.36.02.0229",
+	"year":   2014,
+	"volume": 36,
+	"issue":  2,
+	"pages":  [229,245],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["04.09.2013", "30.01.2014"],
+	"PACS":   "46.50.+a, 62.20.fq, 62.50.-p, 81.40.Lm, 81.40.Np, 83.50.-v",
+	"title":   {
+		"ua": "Вплив водню на локалізацію пластичної деформації при розтягуванні низьковуглецевої сталі",
+		"en": "Effect of Hydrogen on the Localization of Plastic Deformation under Tensile of Low-Carbon Steel",
+		"ru": "Влияние водорода на локализацию пластической деформации при растяжении низкоуглеродистой стали"
+	},
+	"abstract": {
+		"ua": "Порівнюються особливості локалізації пластичної деформації в низьковуглецевій листовій сталі 08пс (0,07% мас. C) на поличці плинності при відсутності деформаційного зміцнення, на стадії лінійного деформаційного зміцнення з постійним коефіцієнтом деформаційного зміцнення та на стадії параболічного деформаційного зміцнення. За допомогою методу двоекспозиційної спекл-фотографії визначено основні типи і параметри локалізації пластичної течії на різних стадіях деформаційного зміцнення сталі в трьох станах: після гарячої прокатки, після розмотування гарячекатаного рулону і щавлення для видалення окалини, в результаті електролітичного насичення воднем в триелектродній електрохімічній комірці при постійному контрольованому катодному потенціалі зразків після гарячої прокатки.",
+		"en": "The features of plastic-deformation localization in the low-carbon steel plate (0.07% wt. C) on the yield plateau in the absence of strain hardening, at the stage of linear hardening with a constant coefficient of strain hardening, and at the stage of parabolic work hardening are discussed. Using the method of double-exposure speckle photography, the major types and parameters of plastic-flow localization at different stages of deformation hardening of steel in the three states (after hot rolling, pickling and descaling, and electrolytic hydrogen saturation with a three-electrode electrochemical cell at a constant controlled cathode potential of the hot-rolled samples) are identified.",
+		"ru": "Сравниваются особенности локализации пластической деформации в низкоуглеродистой листовой стали 08пс (0,07% мас. C) на площадке текучести при отсутствии деформационного упрочнения, на стадии линейного деформационного упрочнения с постоянным коэффициентом деформационного упрочнения и на стадии параболического деформационного упрочнения. С помощью метода двухэкспозиционной спекл-фотографии определены основные типы и параметры локализации пластического течения на разных стадиях деформационного упрочнения стали в трёх состояниях: после горячей прокатки, после размотки горячекатаного рулона и травления для удаления окалины, в результате электролитического насыщения водородом в трёхэлектродной электрохимической ячейке при постоянном контролируемом катодном потенциале образцов после горячей прокатки."
+	},
+	"keywords": {
+		"ua": "пластичність, міцність, спекл-фотографія, локалізація деформації, водневе окрихчування",
+		"en": "plasticity, strength, speckle photography, localization of deformation, hydrogen embrittlement",
+		"ru": "пластичность, прочность, спекл-фотография, локализация деформации, водородное охрупчивание"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. А. Бараннікова", "en": "S. A. Barannikova", "ru": "С. А. Баранникова"},
+			"OID": [405,406,462]
+		},
+		{
+			"AID": {"ua": "М. В. Надєжкін", "en": "M. V. Nadezhkin", "ru": "М. В. Надежкин"},
+			"OID": [405,409]
+		},
+		{
+			"AID": {"ua": "А. Г. Луньов", "en": "A. G. Lunev", "ru": "А. Г. Лунев"},
+			"OID": [405,409]
+		},
+		{
+			"AID": {"ua": "В. В. Горбатенко", "en": "V. V. Gorbatenko", "ru": "В. В. Горбатенко"},
+			"OID": [405]
+		},
+		{
+			"AID": {"ua": "Г. В. Шляхова", "en": "G. V. Shlyakhova", "ru": "Г. В. Шляхова"},
+			"OID": [405,463]
+		},
+		{
+			"AID": {"ua": "Л. Б. Зуєв", "en": "L. B. Zuev", "ru": "Л. Б. Зуев"},
+			"OID": [405,406]
+		}
+	],
+	"references": {
+		"count": 31,
+		"list":  [
+			{
+				"doi": "10.1007/BF02654700",
+				"or":  "J. P. Hirth, Met. Trans. A, 11: 861 (1980).",
+				"tr":  "J. P. Hirth, Met. Trans. A, 11: 861 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Алефельд, И. Фёлькль, Водород в металлах (Москва: Мир: 1981).",
+				"tr":  "G. Alefeld and J. Völkl, Vodorod v Metallakh (Moscow: Mir: 1981) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2009.10.005",
+				"or":  "Y. Yagodzinskyy, T. Saukkonen, S. Kilpeläinen, F. Tuomisto, and H. Hänninen, Scr. Mater., 62, No. 3: 155 (2010).",
+				"tr":  "Y. Yagodzinskyy, T. Saukkonen, S. Kilpeläinen, F. Tuomisto, and H. Hänninen, Scr. Mater., 62, No. 3: 155 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Агеев, И. Н. Бекман, О. П. Бурмистрова и др., Взаимодействие водорода с металлами (Москва: Наука: 1987).",
+				"tr":  "V. N. Ageev, I. N. Bekman, O. P. Burmistrova et al., Vzaimodeystvie Vodoroda s Metallami (Moscow: Nauka: 1987) (in Russian)."
+			},
+			{
+				"doi": "10.5006/1.3583875",
+				"or":  "R. A. Oriani, Corros., 43: 390 (1987).",
+				"tr":  "R. A. Oriani, Corros., 43: 390 (1987)."
+			},
+			{
+				"doi": "10.1016/0921-5093(94)90975-X",
+				"or":  "H. K. Birnbaum and P. Sofronis, Mater. Sci. Eng. A, 176: 191 (1994).",
+				"tr":  "H. K. Birnbaum and P. Sofronis, Mater. Sci. Eng. A, 176: 191 (1994)."
+			},
+			{
+				"doi": "10.5006/0010-9312-16.5.123",
+				"or":  "R. M. Hudson and G. L. Stragand, Corros., 16: 253 (1960).",
+				"tr":  "R. M. Hudson and G. L. Stragand, Corros., 16: 253 (1960)."
+			},
+			{
+				"doi": "",
+				"or":  "С. М. Белоглазов, Наводороживание металла при электрохимических процессах (Ленинград: Изд-во Ленинградского университета: 1974).",
+				"tr":  "S. M. Beloglazov, Navodorozhivanie Metalla pri Elektrokhimicheskikh Pro-tsessakh (Leningrad: Izdatelstvo Leningradskogo Universiteta: 1974) (in Russian)."
+			},
+			{
+				"doi": "10.1007/BF02644079",
+				"or":  "J. K. Tien, A. W. Thompson, I. M. Bernstein, and R. J. Richards, Metall. Trans. A, 7: 821 (1976).",
+				"tr":  "J. K. Tien, A. W. Thompson, I. M. Bernstein, and R. J. Richards, Metall. Trans. A, 7: 821 (1976)."
+			},
+			{
+				"doi": "10.1016/S0013-7944(01)00011-X",
+				"or":  "I. M. Robertson, Eng. Frac. Mech., 68: 671 (2001).",
+				"tr":  "I. M. Robertson, Eng. Frac. Mech., 68: 671 (2001)."
+			},
+			{
+				"doi": "10.1063/1.3499610",
+				"or":  "V. G. Gavriljuk. B. D. Shanina, V. N. Shyvanyk, and S. M. Teus, J. Appl. Phys., 108: 083723-1 (2010).",
+				"tr":  "V. G. Gavriljuk. B. D. Shanina, V. N. Shyvanyk, and S. M. Teus, J. Appl. Phys., 108: 083723-1 (2010)."
+			},
+			{
+				"doi": "10.1515/corrrev-2013-0024",
+				"or":  "V. G. Gavriljuk. B. D. Shanina, V. N. Shyvanyk, and S. M. Teus, Corros. Rev., 31: 33 (2013).",
+				"tr":  "V. G. Gavriljuk. B. D. Shanina, V. N. Shyvanyk, and S. M. Teus, Corros. Rev., 31: 33 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Б. Зуев, В. И. Данилов, С. А. Баранникова, Физика макролокализации пластического течения (Новосибирск: Наука: 2008).",
+				"tr":  "L. B. Zuev, V. I. Danilov, and S. A. Barannikova, Fizika Makrolokalizatsii Plasticheskogo Techeniya (Novosibirsk: Nauka: 2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Франценюк, Л. И. Франценюк, Современные технологии производства металлопроката на Новолипецком металлургическом комбинате (Москва: Академкнига: 2003).",
+				"tr":  "I. V. Frantsenyuk and L. I. Frantsenyuk, Sovremennye Tekhnologii Proizvod-stva Metalloprokata na Novolipetskom Metallurgicheskom Kombinate (Moscow: Akademkniga: 2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Аксенов, С. М. Колтышев, В. А. Никулин, В. Л. Подберезный, Н. С. Локотанов, Травильно-регенерационные комплексы (Москва: Теплотехника: 2006).",
+				"tr":  "V. I. Aksenov, S. M. Koltyshev, V. A. Nikulin, V. L. Podbereznyy, and N. S. Lokotanov, Travil'no-Regeneratsionnye Kompleksy (Moscow: Teplotekhnika: 2006) (in Russian)."
+			},
+			{
+				"doi": "10.1002/srin.201000227",
+				"or":  "Y. Yagodzinskyy, O. Todoshchenko, S. Papula, and H. Hänninen, Steel Res. Int., 82, No. 1: 20 (2011).",
+				"tr":  "Y. Yagodzinskyy, O. Todoshchenko, S. Papula, and H. Hänninen, Steel Res. Int., 82, No. 1: 20 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "Металлография железа. Атлас сталей (Ред. Ф. Н. Тавадзе) (Москва: Металлургия: 1972).",
+				"tr":  "Metallografiya Zheleza. Atlas Staley (Ed. F. N. Tavadze) (Moscow: Metallurgiya: 1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Digital Speckle Pattern Interferometry and Related Techniques (Ed. P. K. Rastogi) (New York: John Wiley & Sons: 2001).",
+				"tr":  "Digital Speckle Pattern Interferometry and Related Techniques (Ed. P. K. Rastogi) (New York: John Wiley & Sons: 2001)."
+			},
+			{
+				"doi": "10.1088/0957-0233/21/5/054014",
+				"or":  "L. B. Zuev, V. V. Gorbatenko, and K. V. Pavlichev, Measur. Sci. Technol., 21, Nо. 5: 054014 (2010).",
+				"tr":  "L. B. Zuev, V. V. Gorbatenko, and K. V. Pavlichev, Measur. Sci. Technol., 21, No. 5: 054014 (2010)."
+			},
+			{
+				"doi": "10.1016/S0749-6419(00)00018-8",
+				"or":  "L. B. Zuev, V. I. Danilov, and S. A. Barannikova, Int. J. Plast., 17, Nо. 1: 47 (2001).",
+				"tr":  "L. B. Zuev, V. I. Danilov, and S. A. Barannikova, Int. J. Plast., 17, No. 1: 47 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Б. Зуев, Н. В. Зариковская, С. А. Баранникова, Г. В. Шляхова, Металлофиз. новейшие технол., 35, № 1: 11 (2013).",
+				"tr":  "L. B. Zuev, N. V. Zarikovskaya, S. A. Barannikova, and G. V. Shlyakhova, Metallofiz. Noveishie Tekhnol., 35, No. 1: 11 (2013) (in Russian)."
+			},
+			{
+				"doi": "10.1007/978-94-007-4342-7",
+				"or":  "J. Pelleg, Mechanical Properties of Materials (Dordrecht: Springer: 2013).",
+				"tr":  "J. Pelleg, Mechanical Properties of Materials (Dordrecht: Springer: 2013)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Л. Мазур, А. И. Добронравов, П. П. Чернов, Предупреждение дефектов листового проката (Киев: Техника: 1986).",
+				"tr":  "V. L. Mazur, A. I. Dobronravov, and P. P. Chernov, Preduprezhdenie Defektov Listovogo Prokata (Kyiv: Tekhnika: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Тушинский, А. А. Батаев, Л. Б. Тихомирова, Структура перлита и конструктивная прочность стали (Новосибирск: Наука: 1993).",
+				"tr":  "L. I. Tushinskiy, A. A. Bataev, and L. B. Tikhomirova, Struktura Perlita i Konstruktivnaya Prochnost' Stali (Novosibirsk: Nauka: 1993) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Д. Гилман, Микропластичность (Москва: Металлургия: 1972), с. 18.",
+				"tr":  "J. D. Gilman, Mikroplastichnost' (Moscow: Metallurgiya: 1972), p. 18 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Р. Ботвина, Разрушение. Кинетика, механизмы, общие закономерности (Москва: Наука: 2008).",
+				"tr":  "L. R. Botvina, Razrushenie. Kinetika, Mekhanizmy, Obshchie Zakonomernosti (Moscow: Nauka: 2008) (in Russian)."
+			},
+			{
+				"doi": "10.1007/PL00021098",
+				"or":  "L. B. Zuev, V. I. Danilov, S. A. Barannikova, and I. Y. Zykov, Appl. Phys. A, 71: 91 (2000).",
+				"tr":  "L. B. Zuev, V. I. Danilov, S. A. Barannikova, and I. Y. Zykov, Appl. Phys. A, 71: 91 (2000)."
+			},
+			{
+				"doi": "10.3103/S1541308X09010117",
+				"or":  "L. B. Zuev, V. I. Danilov, S. A. Barannikova, and V. V. Gorbatenko, Phys. Wave Phenom., 17: 1 (2009).",
+				"tr":  "L. B. Zuev, V. I. Danilov, S. A. Barannikova, and V. V. Gorbatenko, Phys. Wave Phenom., 17: 1 (2009)."
+			},
+			{
+				"doi": "10.4236/ns.2010.25059",
+				"or":  "L. B. Zuev and S. A. Barannikova, Natur. Sci., 2: 476 (2010).",
+				"tr":  "L. B. Zuev and S. A. Barannikova, Natur. Sci., 2: 476 (2010)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/AMR.880.42",
+				"or":  "S. A. Barannikova, A. G. Lunev, M. V. Nadezhkin, and L. B. Zuev, Adv. Mat. Res., 880: 42 (2014).",
+				"tr":  "S. A. Barannikova, A. G. Lunev, M. V. Nadezhkin, and L. B. Zuev, Adv. Mat. Res., 880: 42 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Кольский, Волны напряжений в твердых телах (Москва: ИИЛ: 1955).",
+				"tr":  "G. Kol'skiy, Volny Napryazheniy v Tverdykh Telakh (Moscow: Izdatel'stvo Inostrannoy Literatury: 1955) (in Russian)."
+			}
+		]
+	}
+}

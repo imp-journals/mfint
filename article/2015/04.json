@@ -1,0 +1,202 @@
+{
+	"year":   2015,
+	"volume": 37,
+	"issue":  4,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [433,448],
+			"title": {
+				"ua": "Симетрія РЗМ. Парадокс Ce і його сплавів. Квантова теорія. I. Ce",
+				"en": "The Symmetry of Rare-Earth Metals. The Paradox of Ce and Its Alloys. Quantum Theory. I. Ce",
+				"ru": "Симметрия РЗМ. Парадокс Ce и его сплавов. Квантовая теория. I. Ce"
+			},
+			"autors": {
+				"ua": "О. І. Міцек, В. М. Пушкар",
+				"en": "O. I. Mitsek and V. M. Pushkar",
+				"ru": "А. И. Мицек, В. Н. Пушкарь"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [449,454],
+			"title": {
+				"ua": "Надмірний тиск в приповерхневому шарі кристалу",
+				"en": "Excessive Pressure in the Subsurface Layer in a Crystal",
+				"ru": "Избыточное давление в приповерхностном слое кристалла"
+			},
+			"autors": {
+				"ua": "А. І. Карасевський, В. В. Любашенко",
+				"en": "A. I. Karasevskii and V. V. Lubashenko",
+				"ru": "А. И. Карасевский, В. В. Любашенко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [455,473],
+			"title": {
+				"ua": "Статистико-термодинамічна теорія Р—с—Т-залежностей тригідрида цирконій-нікелевого сплаву ZrNiH$_{3}$",
+				"en": "The Statistical-Thermodynamic Theory of P—c—T-Dependences for Zirconium—Nickel Alloy Trihydride ZrNiH$_{3}$",
+				"ru": "Статистико-термодинамическая теория Р—с—Т-зависимостей тригидрида цирконий-никелевого сплава ZrNiH$_{3}$"
+			},
+			"autors": {
+				"ua": "С. Ю. Загинайченко, З. А. Матисіна, Д. В. Щур, Д. О. Зарицький, М. А. Поліщук",
+				"en": "S. Yu. Zaginaichenko, Z. A. Matysina, D. V. Schur, D. A. Zaritskii, and M. A. Polischuk",
+				"ru": "С. Ю. Загинайченко, З. А. Матысина, Д. В. Щур, Д. А. Зарицкий, М. А. Полищук"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [475,486],
+			"title": {
+				"ua": "Концепція розмірно-залежних енергій міжатомної взаємодії для твердих наноматеріалів: термодинамічний і дифузійний аспекти",
+				"en": "Concept of Size-Dependent Atomic Interaction Energies for Solid Nanomaterials: Thermodynamic and Diffusion Aspects",
+				"ru": "Концепция размерно-зависимых энергий межатомного взаимодействия для твёрдых наноматериалов: термодинамический и диффузионный аспекты"
+			},
+			"autors": {
+				"ua": "А. С. Ширинян",
+				"en": "Aram S. Shirinyan",
+				"ru": "А. С. Ширинян"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [487,498],
+			"title": {
+				"ua": "Вплив міді на фазовий перехід $А1$ в $L1_{0}$ в нанорозмірних плівках Fe$_{50}$Pt$_{50}$",
+				"en": "Influence of Copper on $А1$ to $L1_{0}$ Phase Transformation in Nanoscale Fe$_{50}$Pt$_{50}$ Films",
+				"ru": "Влияние меди на фазовый переход $А1$ в $L1_{0}$ в наноразмерных плёнках Fe$_{50}$Pt$_{50}$"
+			},
+			"autors": {
+				"ua": "Ю. Н. Макогон, О. П. Павлова, С. І. Сидоренко, Т. І. Вербицька, М. Ю. Вербицька, О. В. Фігурна",
+				"en": "Yu. M. Makogon, O. P. Pavlova, S. I. Sidorenko, T. I. Verbytska, M. Yu. Verbytska, and O. V. Fihurna",
+				"ru": "Ю. Н. Макогон, Е. П. Павлова, С. И. Сидоренко, Т. И. Вербицкая, М. Ю. Вербицкая, Е. В. Фигурная"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [499,508],
+			"title": {
+				"ua": "Формування наноструктурованого рельєфу гетероструктур TiN—Fe в гібридному гелікон-дуговому плазмовому реакторі",
+				"en": "Formation of Nanostructured Relief of TiN—Fe Heterostructures in Hybrid Helicon-Arc Plasma Reactor",
+				"ru": "Формирование наноструктурированного рельефа гетероструктур TiN—Fe в гибридном геликон-дуговом плазменном реакторе"
+			},
+			"autors": {
+				"ua": "Е. М. Руденко, І. В. Короташ, Д. Ю. Полоцький, Л. С. Осіпов, М. В. Дякін, Т. О. Пріхна, А. П. Шаповалов",
+				"en": "E. M. Rudenko, I. V. Korotash, D. Y. Polotskiy, L. S. Osipov, M. V. Dyakin, T. A. Prikhna, and A. P. Shapovalov",
+				"ru": "Э. М. Руденко, И. В. Короташ, Д. Ю. Полоцкий, Л. С. Осипов, М. В. Дякин, Т. А. Прихна, А. П. Шаповалов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [509,519],
+			"title": {
+				"ua": "Газофазний синтез плівкових структур системи Ni—N",
+				"en": "Gas-Phase Synthesis of Film Structures of Ni—N System",
+				"ru": "Газофазный синтез плёночных структур системы Ni—N"
+			},
+			"autors": {
+				"ua": "Р. В. Шалаєв",
+				"en": "R. V. Shalaev",
+				"ru": "Р. В. Шалаев"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [521,530],
+			"title": {
+				"ua": "Водневосорбційні властивості евтектичного сплаву Ti$_{0,475}$Zr$_{0,3}$Mn$_{0,225}$, леґованого 2 и 5 ат.% ванадію",
+				"en": "Hydrogen Sorption Properties of Ti$_{0,475}$Zr$_{0,3}$Mn$_{0,225}$ Eutectic Alloy Alloyed with 2 at.% and 5 at.% of Vanadium",
+				"ru": "Водородсорбционные свойства эвтектического сплава Ti$_{0,475}$Zr$_{0,3}$Mn$_{0,225}$, легированного 2 и 5 ат.% ванадия"
+			},
+			"autors": {
+				"ua": "В. Г. Іванченко, В. А. Дехтяренко, Т. В. Прядко",
+				"en": "V. G. Ivanchenko, V. A. Dekhtyarenko, and T. V. Pryadko",
+				"ru": "В. Г. Иванченко, В. А. Дехтяренко, Т. В. Прядко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [531,537],
+			"title": {
+				"ua": "Вплив режиму термічної обробки на характер розподілу хімічних елементів в зварювальних мікролегованих сталях",
+				"en": "Influence of Heat Treatment on Spatial Distribution of Chemical Elements in Welding Microalloyed Steels",
+				"ru": "Влияние режима термической обработки на характер распределения химических элементов в свариваемых микролегированных сталях"
+			},
+			"autors": {
+				"ua": "І. Ф. Ткаченко, М. А. Уніят",
+				"en": "I. F. Tkachenko and M. A. Uniyat",
+				"ru": "И. Ф. Ткаченко, М. А. Уният"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [539,554],
+			"title": {
+				"ua": "Мікроструктура і корозія в сольовому тумані звареного тертям алюмінієвого сплаву AA2219",
+				"en": "Microstructure and Salt Fog Corrosion Behaviour of AA2219 Friction Stir Welded Aluminium Alloy",
+				"ru": "Микроструктура и коррозия в солевом тумане сваренного трением алюминиевого сплава AA2219"
+			},
+			"autors": {
+				"ua": "Г. Срініваса Рао, В. В. Субба Рао, С. Р. Котесвара Рао",
+				"en": "G. Srinivasa Rao, V. V. Subba Rao, and S. R. Koteswara Rao",
+				"ru": "Г. Сриниваса Рао, В. В. Субба Рао, С. Р. Котесвара Рао"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [555,558],
+			"title": {
+				"ua": "Статичний фактор Дебая—Валлера—Кривоглаза для сферичних частинок нової фази",
+				"en": "Static Krivoglaz—Debye—Waller Factor for Spherical New-Phase Particles",
+				"ru": "Статический фактор Дебая—Валлера—Кривоглаза для сферических частиц новой фазы"
+			},
+			"autors": {
+				"ua": "О. С. Скакунова",
+				"en": "O. S. Skakunova",
+				"ru": "Е. С. Скакунова"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [559,569],
+			"title": {
+				"ua": "Еволюція фазового складу і мікроструктури при синтезі сплаву Zr—Sn з порошків гідриду цирконію і олова",
+				"en": "Evolution of Phase Composition and Microstructure upon Synthesis of Zr—Sn Alloy from Zirconium Hydride and Tin Powders",
+				"ru": "Эволюция фазового состава и микроструктуры при синтезе сплава Zr—Sn из порошков гидрида циркония и олова"
+			},
+			"autors": {
+				"ua": "Д. Г. Саввакін, Д. В. Оришич",
+				"en": "D. G. Savvakin and D. V. Oryshych",
+				"ru": "Д. Г. Саввакин, Д. В. Оришич"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [571,579],
+			"title": {
+				"ua": "Структурна модифікація алюмінієвого сплаву АД-1 методом холодної прокатки з зсувом",
+				"en": "Structural Modification of AD-1 Aluminium Alloy by the Method of Cold Rolling with Shift",
+				"ru": "Структурная модификация алюминиевого сплава АД-1 методом холодной прокатки со сдвигом"
+			},
+			"autors": {
+				"ua": "В. М. Варюхін, О. Г. Пашинська, В. М. Ткаченко, В. В. Бурховецький, А. В. Завдовєєв",
+				"en": "V. M. Varyukhin, O. G. Pashinska, V. M. Tkachenko, V. V. Burkhovetskii, and A. V. Zavdoveev",
+				"ru": "В. Н. Варюхин, Е. Г. Пашинская, В. М. Ткаченко, В. В. Бурховецкий, А. В. Завдовеев"
+			}
+		}
+	]
+}

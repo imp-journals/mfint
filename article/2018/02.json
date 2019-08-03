@@ -1,0 +1,142 @@
+{
+	"year":   2018,
+	"volume": 40,
+	"issue":  2,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [139,146],
+			"title": {
+				"ua": "Температурна еволюція густини носіїв заряду в центрі зони Бріллюена надпровідника Fe(Se,Te)",
+				"en": "Temperature Evolution of Charge Carrier Density in the Centre of the Brillouin Zone of Fe(Se,Te) Superconductor",
+				"ru": "Температурная эволюция плотности носителей заряда в центре зоны Бриллюэна сверхпроводника Fe(Se,Te)"
+			},
+			"autors": {
+				"ua": "Ю. В. Пустовіт, В. Бруе, Д. А. Чарєєв, О. А. Кордюк",
+				"en": "Yu. V. Pustovit, V. Brouet, D. A. Chareev, and O. A. Kordyuk",
+				"ru": "Ю. В. Пустовит, В. Бруе, Д. А. Чареев, А. А. Кордюк"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [147,154],
+			"title": {
+				"ua": "Недисипативні струми в квантовій плівці в зовнішньому магнітному полі",
+				"en": "Non-Dissipative Currents in a Quantum Film in an External Magnetic Field",
+				"ru": "Недиссипативные токи в квантовой плёнке во внешнем магнитном поле"
+			},
+			"autors": {
+				"ua": "І. І. Аббасов, Х. А. Гасанов, Дж. І. Гусейнов, А. О. Дашдемиров",
+				"en": "I. I. Abbasov, Kh. A. Hasanov, J. I. Huseynov, and A. O. Dashdemirov",
+				"ru": "И. И. Аббасов, Х. А. Гасанов, Дж. И. Гусейнов, А. О. Дашдемиров"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [155,167],
+			"title": {
+				"ua": "Теплові флюктуації електромагнетного поля в ПВХ, наповненому мікро- та нанодисперсним графітом",
+				"en": "Thermal Fluctuations of Electromagnetic Field in the PVC Filled with Micro- and Nanodisperse Graphite",
+				"ru": "Тепловые флуктуации электромагнитного поля в ПВХ, наполненном микро- и нанодисперсным графитом"
+			},
+			"autors": {
+				"ua": "Б. Б. Колупаєв, Б. С. Колупаєв, В. В. Левчук, Ю. Р. Максимцев, В. О. Сідлецький",
+				"en": "B. B. Kolupaev, B. S. Kolupaev, V. V. Levchuk, Yu. R. Maksymtsev, and V. O. Sidletsky",
+				"ru": "Б. Б. Колупаев, Б. С. Колупаев, В. В. Левчук, Ю. Р. Максимцев, В. А. Сидлецкий"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [169,182],
+			"title": {
+				"ua": "Термоелектричні властивості масиву вуглецевих нанотрубок при одновісному стисканні після відпалу",
+				"en": "Thermoelectric Properties of an Array of Carbon Nanotubes under Uniaxial Compression after Annealing",
+				"ru": "Термоэлектрические свойства массива углеродных нанотрубок при одноосном сжатии после отжига"
+			},
+			"autors": {
+				"ua": "М. М. Нищенко, Г. Ю. Михайлова, Б. В. Ковальчук, І. М. Сидорченко, В. В. Анікєєв, М. Я. Шевченко, В. М. Порошин, Г. П. Приходько",
+				"en": "M. M. Nishchenko, H. Yu. Mykhailova, B. V. Kovalchuk, I. M. Sydorchenko, V. V. Anikeev, M. Ya. Shevchenko, V. M. Poroshyn, and G. P. Prykhodko",
+				"ru": "М. М. Нищенко, Г. Ю. Михайлова, Б. В. Ковальчук, И. М. Сидорченко, В. В. Аникеев, Н. А. Шевченко, В. Н. Порошин, Г. П. Приходько"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [183,199],
+			"title": {
+				"ua": "Вплив кристалографічної орієнтації на закономірності розмірного ефекту при розтяганні нанодроту молібдену",
+				"en": "Influence of Crystallographic Orientation on Regularities of Size Effect under a Tension of a Nanowire of Molybdenum",
+				"ru": "Влияние кристаллографической ориентации на закономерности размерного эффекта при растяжении нанопроволоки молибдена"
+			},
+			"autors": {
+				"ua": "С. О. Котречко, О. В. Овсянніков, В. В. Лідич",
+				"en": "S. О. Kotrechko, O. V. Ovsyannikov, and V. V. Lidych",
+				"ru": "С. А. Котречко, А. В. Овсянников, В. В. Лидич"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [201,218],
+			"title": {
+				"ua": "Механізм окрихчення металів поверхнево-активними елементами",
+				"en": "Mechanism of Embrittlement of Metals by Surface-Active Elements",
+				"ru": "Механизм охрупчивания металлов поверхностно-активными элементами"
+			},
+			"autors": {
+				"ua": "С. М. Теус, Б. Д. Шаніна, А. А. Кончиць, Г. С. Могильний, В. Г. Гаврилюк",
+				"en": "S. M. Teus, B. D. Shanina, A. A. Konchits, G. S. Mogilny, and V. G. Gavriljuk",
+				"ru": "С. М. Теус, Б. Д. Шанина, А. А. Кончиц, Г. С. Могильный, В. Г. Гаврилюк"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [219,234],
+			"title": {
+				"ua": "Термоактиваційна аналіза температурної залежности напруження плинности в твердих розчинах з ОЦК-ґратницею",
+				"en": "Thermoactivation Analysis of Temperature Dependence of a Flow Stress in Solid Solutions with a B.C.C. Lattice",
+				"ru": "Термоактивационный анализ температурной зависимости напряжения течения в твёрдых растворах с ОЦК-решёткой"
+			},
+			"autors": {
+				"ua": "С. О. Фірстов, Т. Г. Рогуль, М. О. Крапівка, С. І. Чугунова",
+				"en": "S. O. Firstov, T. G. Rogul, M. O. Krapivka, and S. I. Chugunova",
+				"ru": "С. А. Фирстов, Т. Г. Рогуль, Н. А. Крапивка, С. И. Чугунова"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [235,254],
+			"title": {
+				"ua": "Аналіза структурного стану поверхневого шару після електроерозійного леґування. I. Особливості формування електроерозійних покриттів на сталі 45",
+				"en": "The Analysis of a Structural State of Surface Layer after Electroerosive Alloying. I. Features of Formation of Electroerosive Coatings on Steel 45",
+				"ru": "Анализ структурного состояния поверхностного слоя после электроэрозионного легирования. I. Особенности формирования электроэрозионных покрытий на стали 45"
+			},
+			"autors": {
+				"ua": "В. Б. Тарельник, О. П. Гапонова, Є. В. Коноплянченко, Н. С. Євтушенко, В. О. Герасименко",
+				"en": "V. B. Tarelnyk, O. P. Gaponova, I. V. Konoplianchenko, N. S. Evtushenko, and V. A. Herasymenko",
+				"ru": "В. Б. Тарельник, О. П. Гапонова, Е. В. Коноплянченко, Н. С. Евтушенко, В. О. Герасименко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  18,
+			"pages":  [255,280],
+			"title": {
+				"ua": "Нові підходи в дослідженні неоднорідности гетерогенних структур",
+				"en": "New Approaches in Study of Inhomogeneity of Heterogeneous Structures",
+				"ru": "Новые подходы в исследовании неоднородности гетерогенных структур"
+			},
+			"autors": {
+				"ua": "Т. С. Скобло, О. Ю. Клочко, Ю. Л. Бєлкін, О. І. Сидашенко",
+				"en": "T. S. Skoblo, O. Yu. Klochko, E. L. Belkin, and A. I. Sidashenko",
+				"ru": "Т. С. Скобло, О. Ю. Клочко, Е. Л. Белкин, А. И. Сидашенко"
+			}
+		}		
+	]
+}

@@ -1,0 +1,99 @@
+{
+	"_id":    "MFiNT.39.06.0823",
+	"year":   2017,
+	"volume": 39,
+	"issue":  6,
+	"pages":  [823,837],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["25.05.2017"],
+	"PACS":   "64.75.Bc, 64.75.Nx, 81.30.Kf, 81.30.Mh, 81.40.Cd, 81.40.Ef, 87.85.jj",
+	"title":   {
+		"ua": "Дослідження структури загартованих литих біосумісних стопів Ti–18Nb–$х$Si",
+		"en": "Investigation of Structure of the Quenched Cast Biocompatible Ti–18Nb–$х$Si Alloys",
+		"ru": "Исследование структуры закалённых литых биосовместимых сплавов Ti–18Nb–$х$Si"
+	},
+	"abstract": {
+		"ua": "Проведено дослідження литих загартованих стопів Ti–18Nb–$х$Si із вмістом кремнію від 0,6 до 1,2% мас. у порівнянні з подвійним стопом Ti–1Si. Вивчався вплив кремнію та температури гартування на їхні структуру та твердість. Показано, що у стопах Ti–18Nb–$х$Si ($х$ = 0,6–1,2% мас.) при гартуванні, залежності від температури, утворюється мартенсит різної морфології та дисперсности. За даними електронної мікроскопії та мікрорентґеноспектрального аналізу у стопах присутні силіциди (Ti,Nb)$_3$Si, кількість і розмір яких також залежать від вмісту кремнію та температури гартування.",
+		"en": "Investigation of the quenched cast Ti–18Nb–$х$Si alloys with silicon content from 0.6 to 1.2% wt. in comparison with the binary Ti–1Si alloy is carried out. Influence of silicon and quenching temperature on the structure and hardness of the alloys is investigated. As shown, in the Ti–18Nb–$х$Si alloys ($х$ = 0.6–1.2% wt.), the martensite of different morphology and dispersion is formed during hardening in dependence on the heat temperature. The electron microscopy and microanalysis show the presence of (Ti,Nb)$_3$Si silicides in the alloys, the size and quantity of which depend on both the silicon content and the quenching temperature.",
+		"ru": "Проведено исследование литых закалённых сплавов Ti–18Nb–$х$Si с содержанием кремния от 0,6 до 1,2% масс. в сравнении с двойным сплавом Ti–1Si. Изучалось влияние кремния и температуры закалки на их структуру и твёрдость. Показано, что в сплавах Ti–18Nb–$х$Si ($х$ = 0,6–1,2% масс.) при закалке, в зависимости от температуры, образуется мартенсит разной морфологии и дисперсности. По данным электронной микроскопии и микрорентгеноспектрального анализа в сплавах присутствуют силициды (Ti,Nb)$_3$Si, количество и размеры которых также зависят от содержания кремния и температуры закалки."
+	},
+	"keywords": {
+		"ua": "титанові стопи, мартенсит, силіциди, гартування, структура",
+		"en": "titanium alloys, martensite, silicides, quenching, structure",
+		"ru": "титановые сплавы, мартенсит, силициды, закалка, структура"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. М. Шевченко", "en": "О. М. Shevchenko", "ru": "О. М. Шевченко"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "Л. Д. Кулак", "en": "L. D. Kulak", "ru": "Л. Д. Кулак"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "М. М. Кузьменко", "en": "M. M. Kuzmenkо", "ru": "Н. Н. Кузьменко"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "А. В. Котко", "en": "A. V. Kotko", "ru": "А. В. Котко"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "С. О. Фірстов", "en": "S. O. Firstov", "ru": "С. А. Фирстов"},
+			"OID": [2]
+		}
+	],
+	"references": {
+		"count": 9,
+		"list":  [
+			{
+				"doi": "10.1023/A:1008992109670",
+				"or":  "K. Anselme, B. Noël, and P. Hardouin, J. Mater. Sci.: Mater. Med., 10, No. 12: 815 (1999).",
+				"tr":  "K. Anselme, B. Noël, and P. Hardouin, J. Mater. Sci.: Mater. Med., 10, No. 12: 815 (1999)."
+			},
+			{
+				"doi": "10.1007/BF02387731",
+				"or":  "R. L. Saha, T. K. Nandy, and R. D. Mistra, J. Mater. Sci., 26: 2637 (1991).",
+				"tr":  "R. L. Saha, T. K. Nandy, and R. D. Mistra, J. Mater. Sci., 26: 2637 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "С. О. Фірстов, Нове покоління матеріалів на базі титану. Механіка руйнування матеріалів і міцність конструкцій (Ред. В. В. Панасюк) (Львів: ФМІ НАН України: 2004), с. 609.",
+				"tr":  "S. O. Firstov, Nove Pokolinnya Materialiv na Bazi Tytanu. Mekhanika Ruynuvannya Materialiv i Mitsnist’ Konstruktsiy [A New Generation of Materials on the Titanium Base. Fracture Mechanics of Materials and Strength of Constructions] (Ed. V. V. Panasiuk) (Lviv: FMI, N.A.S. of Ukraine: 2004), p. 609 (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2005.11.001",
+				"or":  "K. Нan-Sol, K. Won-Yong, and L. Sung-Hwan, Scr. Mater., 54, No. 5: 887 (2006).",
+				"tr":  "K. Han-Sol, K. Won-Yong, and L. Sung-Hwan, Scr. Mater., 54, No. 5: 887 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Д. Кулак, Н. А. Крапивка, Г. Е. Хоменко, В. Ю. Пучкова, Т. П. Терещенко, Электронная микроскопия и прочность материалов, 21: 38 (2015).",
+				"tr":  "L. D. Kulak, N. A. Krapivka, G. E. Khomenko, V. U. Puchkova, and T. P. Tereshchenko, Elektronnaya Mikroskopiya i Prochnost’ Materialov, 21: 38 (2015) (in Russian)."
+			},
+			{
+				"doi": "10.15407/dopovidi2016.02.062",
+				"or":  "О. М. Шевченко, Л. Д. Кулак, О. В. Дацкевич, М. М. Кузьменко, Г. Є. Хоменко, С. О. Фірстов, Доповіді Національної академії наук України, № 2: 62 (2016).",
+				"tr":  "O. M. Shevchenko, L. D. Kulak, O. V. Datskevich, N. N. Kuzmenko, G. E. Khomenko, and S. O. Firstov, Dopov. Nac. akad. nauk Ukr., No. 2: 62 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1063/1.3255966",
+				"or":  "S. Banumathy, R. K. Mandal, and A. K. Singh, J. Appl. Phys., 106: 093518 (2009), doi: 10.1063/1.3255966.",
+				"tr":  "S. Banumathy, R. K. Mandal, and A. K. Singh, J. Appl. Phys., 106: 093518 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. А. Колачев, Физическое металловедение титана (Москва: Металлургия: 1976).",
+				"tr":  "B. A. Kolachev, Fizicheskoe Metallovedenie Titana [Physical Metallurgy of Titanium] (Moscow: Metallurgiya: 1976) (in Russian)."
+			},
+			{
+				"doi": "10.1080/14786437208223852",
+				"or":  "K. A. Bywater and J. W. Christian, Philos. Mag., 25, No. 6: 1249 (1972).",
+				"tr":  "K. A. Bywater and J. W. Christian, Philos. Mag., 25, No. 6: 1249 (1972)."
+			}
+		]
+	}
+}

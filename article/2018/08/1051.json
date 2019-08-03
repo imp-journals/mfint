@@ -1,0 +1,246 @@
+{
+	"_id":    "MFiNT.40.08.1051",
+	"year":   2018,
+	"volume": 40,
+	"issue":  8,
+	"pages":  [1051,1067],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["05.02.2018","02.04.2018"],
+	"PACS":   "61.72.Ff, 62.20.de, 62.20.fg, 62.25.-g, 62.40.+i, 81.40.Jj, 81.40.Lm, 81.70.Cv",
+	"title":   {
+		"ua": "Фізико-механічні властивості нових стопів 54,6Ni–11Fe–30Cr–3,5Nb–0,5Ti–0,4C та 58Ni–11Fe–30Cr–0,5Nb–0,5Ti при низьких температурах",
+		"en": "Physical-Mechanical Properties of the 54.6Ni–11Fe–30Cr–3.5Nb–0.5Ti–0.4C and 58Ni–11Fe–30Cr–0.5Nb–0.5Ti Alloys in the Low-Temperature Region",
+		"ru": "Физико-механические свойства сплавов 54,6Ni–11Fe–30Cr–3,5Nb–0,5Ti–0,4C и 58Ni–11Fe–30Cr–0,5Nb–0,5Ti в области низких температур"
+	},
+	"abstract": {
+		"ua": "В області температур 4,2–400 К вперше вивчено механічні й акустичні властивості нових ніклевих стопів 54,6Ni–11Fe–30Cr–3,5Nb–0,5Ti–0,4C та 58Ni–11Fe–30Cr–0,5Nb–0,5Ti. Показано, що в даному інтервалі температур ці стопи характеризуються стабільною структурою та достатньо високими показниками міцности та пластичности.",
+		"en": "Mechanical and acoustical properties of the new Ni-based 54.6Ni–11Fe–30Cr–3.5Nb–0.5Ti–0.4C and 58Ni–11Fe–30Cr–0.5Nb–0.5Ti alloys are studied for the first time in temperature range 4.2–400 K. As shown, these alloys have a stable microstructure and rather high strength and plasticity at temperatures of 4.2–400 K.",
+		"ru": "В области температур 4,2–400 К впервые изучены механические и акустические свойства новых никелевых сплавов 54,6Ni–11Fe–30Cr–3,5Nb–0,5Ti–0,4C и 58Ni–11Fe–30Cr–0,5Nb–0,5Ti. Показано, что в данном интервале температур эти сплавы обладают стабильной структурой и достаточно высокими показателями прочности и пластичности."
+	},
+	"keywords": {
+		"ua": "стоп, міцність, пластичність, акустичне поглинання, динамічний модуль пружности",
+		"en": "alloy, strength, plasticity, acoustical absorption, dynamical elasticity modulus",
+		"ru": "сплав, прочность, пластичность, акустическое поглощение, динамический модуль упругости"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. О. Семеренко", "en": "Yu. O. Semerenko", "ru": "Ю. А. Семеренко"},
+			"OID": [4]
+		},
+		{
+			"AID": {"ua": "К. А. Ющенко", "en": "K. A. Yushchenko", "ru": "К. А. Ющенко"},
+			"OID": [5]
+		},
+		{
+			"AID": {"ua": "О. Д. Табачнікова", "en": "O. D. Tabachnikova", "ru": "Е. Д. Табачникова"},
+			"OID": [4]
+		},
+		{
+			"AID": {"ua": "Л. В. Скибіна", "en": "L. V. Skybina", "ru": "Л. В. Скибина"},
+			"OID": [4]
+		},
+		{
+			"AID": {"ua": "В. С. Савченко", "en": "V. S. Savchenko", "ru": "В. С. Савченко"},
+			"OID": [5]
+		},
+		{
+			"AID": {"ua": "М. А. Тихоновський", "en": "М. А. Tikhonovsky", "ru": "М. А. Тихоновский"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "О. М. Бовда", "en": "O. М. Bovda", "ru": "А. М. Бовда"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "О. С. Тортика", "en": "O. S. Tortyka", "ru": "А. С. Тортика"},
+			"OID": [3]
+		}
+	],
+	"references": {
+		"count": 36,
+		"list":  [
+			{
+				"doi": "10.15407/mfint.37.12.1643",
+				"or":  "Ю. А. Семеренко, А. В. Мозговой, Л. В. Скибина, К. А. Ющенко, А. В. Звягинцева, Металлофиз. новейшие технол., 37, № 12: 1643 (2015).",
+				"tr":  "Yu. A. Semerenko, O. V. Mozgovyj, L. V. Skibina, K. A. Yushchenko, and G. V. Zviagintseva, Metallofiz. Noveishie Tekhnol., 37, No. 12: 1643 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. А. Ющенко, Ю. А. Семеренко, Е. Д. Табачникова, А. В. Подольский, Л. В. Скибина, С. Н. Смирнов, В. С. Савченко, Металлофиз. новейшие технол., 35, № 2, 225 (2013).",
+				"tr":  "K. A. Yushchenko, Yu. O. Semerenko, O. D. Tabachnikova, O. V. Podolskiy, L. V. Skibina, S. M. Smirnov, and V. S. Savchenko, Metallofiz. Noveishie Tekhnol., 35, No. 2: 225 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Суперсплавы II. Книга 1 (Ред. Ч. Т. Симс, Н. С. Столофф, У. К. Хагель) (Москва: Металлургия: 1995) (пер. с англ.).",
+				"tr":  "Suprsplavy II. Book 1 (Eds. Ch. T. Sims, N. S. Stoloff, and U. K. Hagel) (Moscow: Metallurgiya: 1995) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. А. Ющенко, В. С. Савченко, А. В. Звягинцева, Н .О. Червяков, И. Р. Волосатов, Ю. А. Семеренко, Л. В. Скибина, Материалы 55-й международной конференции «Актуальные проблемы прочности» (9–13 июня 2014 г., Харьков), c. 189.",
+				"tr":  "K. A. Yushchenko, V. S. Savchenko, A. V. Zvyagintsev, N. O. Chervyakov, I. R. Volosatov, Yu. A. Semerenko, and L. V. Skibina, Proc. of 55 International Conf. 'Aktualnye Problemy Prochnosti' (June 9–13, 2014, Kharkiv, Ukraine), p. 189 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. О. Червяков, Автоматическая сварка, 747, № 11: 57 (2015).",
+				"tr":  "N. O. Chervyakov, Avtomaticheskaya Svarka, 747, No. 11: 57 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Special Metals Corporation Company Brochure: Inconel Alloy 690 (Special Metals Corporation Company: 2004).",
+				"tr":  "Special Metals Corporation Company Brochure: Inconel Alloy 690 (Special Metals Corporation Company: 2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Special Metals Corporation Company Brochure: Inconel Filler Metal 52 (Special Metals Corporation Company: 2004).",
+				"tr":  "Special Metals Corporation Company Brochure: Inconel Filler Metal 52 (Special Metals Corporation Company: 2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Special Metals Corporation Company Brochure: Inconel Filler Metal 52M (Special Metals Corporation Company: 2004).",
+				"tr":  "Special Metals Corporation Company Brochure: Inconel Filler Metal 52M (Special Metals Corporation Company: 2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Special Metals Corporation Company Brochure: Inconel Filler Metal 52MSS (Special Metals Corporation Company: 2004).",
+				"tr":  "Special Metals Corporation Company Brochure: Inconel Filler Metal 52MSS (Special Metals Corporation Company: 2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Special Metals Corporation Company Brochure: Inconel Filler Metal 152M (Special Metals Corporation Company: 2004).",
+				"tr":  "Special Metals Corporation Company Brochure: Inconel Filler Metal 152M (Special Metals Corporation Company: 2004)."
+			},
+			{
+				"doi": "",
+				"or":  "ASM Specialty Handbook: Nickel, Cobalt and Their Alloys (Materials Park, OH: ASM International: 2000).",
+				"tr":  "ASM Specialty Handbook: Nickel, Cobalt and Their Alloys (Materials Park, OH: ASM International: 2000)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. И. Каховский, Сварка нержавеющих сталей (Киев: Техника: 1968).",
+				"tr":  "N. I. Kakhovskii, Svarka Nerzhaveyushchikh Staley (Kiev: Tekhnika: 1968) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Новик, Б. Берри, Релаксационные явления в кристаллах (Москва: Атомиздат: 1975) (пер. с англ.).",
+				"tr":  "A. Nowick and B. Berry, Relaksatsionnye Yavleniya v Kristallakh (Moscow: Atomizdat: 1975) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "С. П. Тимошенко, Колебания в инженерном деле (Москва: Физматгиз: 1959) (пер. с англ.).",
+				"tr":  "S. P. Timoshenko, Kolebaniya v Inzhenernom Dele (Moscow: Fizmatgiz: 1959) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Ф. Морз, Колебания и звук (Москва–Ленинград: ГИТТЛ: 1949) (пер. с англ.).",
+				"tr":  "Ph. Morse, Kolebaniya i Zvuk (Moscow–Leningrad: GITTL: 1949) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "S. P. Timoshenko, Philos. Mag., 41: 774 (1921).",
+				"tr":  "S. P. Timoshenko, Philos. Mag., 41: 774 (1921)."
+			},
+			{
+				"doi": "",
+				"or":  "Прочность, устойчивость, колебания (Mосква: Машиностроение: 1968).",
+				"tr":  "Prochnost', Ustoychivost', Kolebaniya (Moscow: Mashinostroenie: 1968) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.1134903",
+				"or":  "H. M. Simpson and A. Sosin, Rev. Sci. Instrum., 48: 1392 (1977).",
+				"tr":  "H. M. Simpson and A. Sosin, Rev. Sci. Instrum., 48: 1392 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. А. Семеренко, ПТЭ, 48, № 3: 162 (2005).",
+				"tr":  "Yu. A. Semerenko, PTE, 48, No. 3: 162 (2005) (in Russian)."
+			},
+			{
+				"doi": "10.1007/s10786-005-0107-x",
+				"or":  "Yu. A. Semerenko, Instrum. Experim. Techn., 48, No. 2: 608 (2005).",
+				"tr":  "Yu. A. Semerenko, Instrum. Experim. Techn., 48, No. 2: 608 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Постников, Внутреннее трение в металлах (Москва: Металлургия: 1974).",
+				"tr":  "V. S. Postnikov, Vnutrennee Trenie v Metallakh (Moscow: Metallurgiya: 1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. И. Шаповал, В. М. Аржавитин, Механизмы высокотемпературного фона внутреннего трения металлов (Mосква: ЦНИИатоминформ: 1988).",
+				"tr":  "B. I. Shapoval and V. M. Arzhavitin, Mekhanizmy Vysokotemperaturnogo Fona Vnutrennego Treniya Metallov (Moscow: TsNIIAtominform: 1988 (in Russian)."
+			},
+			{
+				"doi": "10.1016/0001-6160(64)90141-5",
+				"or":  "G. Schoeck, E. Bisogni, and J. Shyne, Acta Metall., 12: 1466 (1964).",
+				"tr":  "G. Schoeck, E. Bisogni, and J. Shyne, Acta Metall., 12: 1466 (1964)."
+			},
+			{
+				"doi": "10.1063/1.4942907",
+				"or":  "В. Д. Нацик, Ю. А. Семеренко, ФНТ, 42: 197 (2016).",
+				"tr":  "V. D. Natsik and Yu. A. Semerenko, Low Temp. Phys., 42: 138 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Паль-Валь, Ю. А. Семеренко, П. П. Паль-Валь, Л. В. Скибина, Г. Н. Грикуров, Конденсированные среды и межфазные границы, 10, № 3: 226 (2008).",
+				"tr":  "L. N. Pal-Val, Yu. A. Semerenko, P. P. Pal-Val, L. B. Skibina, and G. N. Grikurov, Kondensirovannye Sredy i Mezhfaznye Granitsy, 10, No. 3: 226 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. A. Семеренко, Л. Н. Паль-Валь, Л. В. Скибина, Металлофиз. новейшие технол., 32, № 2: 213 (2010).",
+				"tr":  "Yu. O. Semerenko, L. N. Pal'-Val', and L. V. Skibina, Metallofiz. Noveishie Tekhnol., 32, No. 2: 237 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Д. Табачникова, М. А. Лактионова, Ю. А. Семеренко, С. Э. Шумилин, А. В. Подольский, М. А. Тихоновский, Й. Мишкуф, К. Чах, ФНТ, 43: 1381 (2017).",
+				"tr":  "E. D. Tabachnikova, M. A. Laktionova, Yu. A. Semerenko, S. E. Shumilin, A. V. Podolskii, M. A. Tikhonovskiy, J. Mishkuf, and K. Chakh, Fiz. Nizk. Temp., 43: 1381 (2017) (in Russian)."
+			},
+			{
+				"doi": "10.1007/978-3-642-45827-9_2",
+				"or":  "Г. Лейбфрид, Микроскопическая теория механических и тепловых свойств кристаллов (Москва: Физматгиз: 1963) (пер. с нем.).",
+				"tr":  "G. Leibfried, Gittertheorie der Mechanischen und Thermischen Eigenschaften der Kristalle. Handbuch der Physik (Berlin–Heidelberg: Springer: 1955), vol. 7/1, p. 104 (in German)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Алерс, Физическая акустика. Т. IV. Ч. А (Ред. У. Мезон) (Москва: Мир: 1969) (пер. с англ.).",
+				"tr":  "G. Alers, Fizicheskaya Akustika. Vol. IV. Pt. A (Ed. W. Mason) (Moscow: Mir: 1969) (Russian translation)."
+			},
+			{
+				"doi": "10.1103/PhysRev.132.50",
+				"or":  "T. Bernstein, Phys. Rev., 132: 50 (1963).",
+				"tr":  "T. Bernstein, Phys. Rev., 132: 50 (1963)."
+			},
+			{
+				"doi": "10.1063/1.593784",
+				"or":  "В. Д. Нацик, П. П. Паль-Валь, Л. Н. Паль-Валь, Ю. А. Семеренко, ФНТ, 25: 748 (1999).",
+				"tr":  "V. D. Natsik, P. P. Pal-Val, L. N. Pal-Val, and Y. A. Semerenko, Low Temperature Physics, 25: 558 (1999)."
+			},
+			{
+				"doi": "10.1063/1.1306411",
+				"or":  "В. Д. Нацик, П. П. Паль-Валь, Л. Н. Паль-Валь, Ю. А. Семеренко, ФНТ, 26: 720 (2000).",
+				"tr":  "V. D. Natsik, P. P. Pal-Val, L. N. Pal-Val, and Y. A. Semerenko, Low Temperature Physics, 26: 522 (2000)."
+			},
+			{
+				"doi": "10.1063/1.1374728",
+				"or":  "В. Д. Нацик, П. П. Паль-Валь, Л. Н. Паль-Валь, Ю. А. Семеренко, ФНТ, 27: 547 (2001).",
+				"tr":  "V. D. Natsik, P. P. Pal-Val, L. N. Pal-Val, and Y. A. Semerenko, Low Temperature Physics, 27: 404 (2001)."
+			},
+			{
+				"doi": "10.1023/A:1020627221451",
+				"or":  "Ю. А. Семеренко, В. Д. Нацик, П. П. Паль-Валь, Л. Н. Паль-Валь, МиТОМ, 6: 28 (2002).",
+				"tr":  "Yu. A. Semerenko, V. D. Natsik, P. P. Pal-Val, and L. N. Pal-Val, Metal Sci. Heat Treatment, 44: 249 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "V. D. Natsik and Yu. A. Semerenko, Functional Mat., 11: 327 (2004).",
+				"tr":  "V. D. Natsik and Yu. A. Semerenko, Functional Mat., 11: 327 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. О. Семеренко, В. Д. Нацик, Науковий вісник Ужгородського університету. Серія Фізика, 34: 8 (2013).",
+				"tr":  "Yu. O. Semerenko and V. D. Natsik, Naukovyy Visnyk Uzhgorodskogo Universytetu. Ser. Fizyka, 34: 8 (2013) (in Ukrainian)."
+			}
+		]
+	}
+}

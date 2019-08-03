@@ -1,0 +1,117 @@
+{
+	"_id":    "MFiNT.39.04.0425",
+	"year":   2017,
+	"volume": 39,
+	"issue":  4,
+	"pages":  [425,439],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["13.03.2017"],
+	"PACS":   "61.50.Ks, 71.20.Eh, 71.30.+h, 75.10.Dg, 75.30.Kz, 75.30.Mb",
+	"title":   {
+		"ua": "3d–4f-інтерметаліди. Обмін та анізотропія. Багатоелектронна статистика",
+		"en": "3d–4f-Intermetallides. Exchange and Anisotropy. Many-Electron Statistics",
+		"ru": "3d–4f-интерметаллиды. Обмен и анизотропия. Многоэлектронная статистика"
+	},
+	"abstract": {
+		"ua": "Магнетні властивості 3$d$(Fe)–4$f$(RE)-інтерметалідів розраховуються введенням багатоелектронних операторних спінорів (БЕОС) і флюктуацій хемічних зв’язків як Фурьє-образів БЕОС. Одержано залежності $T_{\\textrm{c}}$ і температури компенсації $T_k$ від спіна $S_f$($T$) рідкісноземельного йона (РЗІ). Вони узгоджуються з даними для Fe$_2$RE та Fe$_3$RE. Одновісність Nd$_2$Fe$_{14}$B пов’язується з орбітальним моментом $L_r$ йона B$^5$ при неоднорідному (ковалентному) зв’язку B–Fe. Прямий обмін Fe–Fe пояснює залежність $T_{\\textrm{c0}} \\cong T_{\\textrm{c}}$(Fe)$x^2_D$ від концентрації $x_D$ йонів Fe. Добавка ${\\delta}T_{\\textrm{c}} \\propto S^2_f$ для феромагнетиків Fe$_2$RE дається прямим обміном Fe–RE, для ферімагнетиків — непрямим антиферомагнетним обміном RE–$e_{\\textrm{g}}$–RE. Температура компенсації намагнетованости $M_{s}(T)$ залежить від кутового моменту $J$ РЗІ. Для ферімагнетика Nd$_2$Fe$_{14}$B одержуємо аналогічні властивості (перегин функції $M_{s}(T)$, поле феромагнетної анізотропії $B_A \\propto (1 + AT)^{-2}$ та ін.), які узгоджуються з літературними даними.",
+		"en": "Magnetic properties of the 3$d$(Fe)–4$f$(RE) intermetallides are calculated by introduction of both the many-electron operator spinors (MEOS) and the chemical-bonds’ fluctuations as MEOS Fourier images. Dependences of both the critical temperature $T_{\\textrm{c}}$ and the compensation temperature $T_k$ on the rare-earth ion (REI) spin $S_f$($T$) are obtained. They agree with data for Fe$_2$RE and Fe$_3$RE. Axial symmetry of Nd$_2$Fe$_{14}$B is connected with orbital moment $L_r$ of the B$^5$ ion with inhomogeneous (covalent) B–Fe bond. Direct Fe–Fe exchange explains the dependence $T_{\\textrm{c0}} \\cong T_{\\textrm{c}}$(Fe)$x^2_D$ on the concentration $x_D$ of Fe ions. Additional term ${\\delta}T_{\\textrm{c}} \\propto S^2_f$ for Fe$_2$RE ferromagnets is given by direct Fe–RE exchange, and for ferrimagnets, it is conditioned by indirect antiferromagnetic RE–$e_{\\textrm{g}}$–RE exchange. The magnetization ($M_s$) compensation temperature depends on the REI angular moment $J$. Analogous properties for Nd$_2$Fe$_{14}$B ferrimagnet (such as inflection of the $M_{s}(T)$ function, ferromagnetic anisotropy field $B_A \\propto (1 + AT)^{-2}$, etc.) are obtained and agree with literature data.",
+		"ru": "Магнитные свойства 3$d$(Fe)–4$f$(RE)-интерметаллидов рассчитываются введением многоэлектронных операторных спиноров (МЭОС) и флуктуаций химических связей как фурье-образов МЭОС. Получены зависимости $T_{\\textrm{c}}$ и температуры компенсации $T_k$ от спина $S_f$($T$) редкоземельного иона (РЗИ). Они согласуются с данными для Fe$_2$RE и Fe$_3$RE. Одноосность Nd$_2$Fe$_{14}$B связывается с орбитальным моментом $L_r$ иона B$^5$ при неоднородной связи (ковалентной) B–Fe. Прямой обмен Fe–Fe объясняет зависимость $T_{\\textrm{c0}} \\cong T_{\\textrm{c}}$(Fe)$x^2_D$ от концентрации $x_D$ ионов Fe. Добавка ${\\delta}T_{\\textrm{c}} \\propto S^2_f$ для ферромагнетиков Fe$_2$RE даётся прямым обменом Fe–RE, для ферримагнетиков — косвенным антиферромагнитным обменом RE–$e_{\\textrm{g}}$–RE. Температура компенсации намагниченности $M_{s}(T)$ зависит от углового момента $J$ РЗИ. Для ферримагнетика Nd$_2$Fe$_{14}$B получаем аналогичные свойства (перегиб функции $M_{s}(T)$, поле ферромагнитной анизотропии $B_A \\propto (1 + AT)^{-2}$ и др.), согласующиеся с литературными данными."
+	},
+	"keywords": {
+		"ua": "РЗІ–Fe-інтерметаліди, багатоелектронні операторні спінори, теорія прямого ковалентногоферомагнетного і непрямого зонно-ковалентного антиферомагнетного обміну, одновісна деформація, феромагнетна анізотропія",
+		"en": "REI–Fe intermetallides, many-electron operator spinors, theory of direct covalent ferromagnetic and indirect band-covalent antiferromagnetic exchange, uniaxial deformation, ferromagnetic anisotropy",
+		"ru": "РЗИ–Fe-интерметаллиды, многоэлектронные операторные спиноры, теория прямого ковалентного ферромагнитного и косвенного зонно-ковалентного антиферромагнитного обмена, одноосная деформация, ферромагнитная анизотропия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. І. Міцек", "en": "O. I. Mitsek", "ru": "А. И. Мицек"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. М. Пушкар", "en": "V. M. Pushkar", "ru": "В. Н. Пушкарь"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 15,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "С. В. Вонсовский, Магнетизм (Москва: Наука: 1971).",
+				"tr":  "S. V. Vonsovsky, Magnetism (Moscow: Nauka: 1971) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Тейлор, М. Дарби, Физика редкоземельных соединений (Москва: Мир: 1974) (пер. с англ.).",
+				"tr":  "K. N. R. Taylor and M. I. Darby, Physics of Rare Earth Solids (London: Chapman and Hall LTD: 1972)."
+			},
+			{
+				"doi": "",
+				"or":  "К. П. Белов, Магнитные превращения (Москва: Гос. издат. физ.-мат. лит.: 1959).",
+				"tr":  "K. P. Belov, Magnetic Transformations (Moscow: Gos. Izd. Fiz.-Mat. Lit.: 1959) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.37.04.0433",
+				"or":  "А. И. Мицек, В. Н. Пушкарь, Металлофиз. новейшие технол., 37, № 4: 433 (2015).",
+				"tr":  "O. I. Mitsek and V. N. Pushkar, Metallofiz. Noveishie Tekhnol., 37, No. 4: 433 (2015) (in Russian)."
+			},
+			{
+				"doi": "10.7868/S0015323014120092",
+				"or":  "А. В. Вершинин, В. В. Сериков, Н. М. Клейнерман, Н. В. Мушников, Е. Г. Герасимов, В. Г. Гавико, А. В. Прошкин, Физ. мет. металловед., 115, № 12: 1276 (2014).",
+				"tr":  "A. V. Vershinin, V. V. Serikov, N. M. Kleinerman, N. V. Mushnikov, E. G. Gerasimov, V. G. Gaviko, and A. V. Proshkin, Fiz. Met. Metalloved., 115, No. 12: 1276 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.38.07.0853",
+				"or":  "А. И. Мицек, В. Н. Пушкарь, Металлофиз. новейшие технол., 38, № 7: 853 (2016).",
+				"tr":  "O. I. Mitsek and V. N. Pushkar, Metallofiz. Noveishie Tekhnol., 38, No. 7: 853 (2016) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Андреев, А. В. Дерягин, Н. В. Кудреватых, Н. В. Мушников, В. А. Реймер, С. В. Терентьев, ЖЭТФ, 90, № 3: 1042 (1986).",
+				"tr":  "A. V. Andreev, A.V. Deryagin, N. V. Kudrevatykh, N. V. Mushnikov, V. A. Reimer, and S. V. Terentiev, Zh. Eksp. Teor. Fiz., 90, No. 3: 1042 (1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Смарт, Эффективное поле в теории магнетизма (Москва: Мир: 1968) (пер. с англ.).",
+				"tr":  "J. Smart, Effective Field in Theories of Magnetism (Philadelphia–London: W. B. Saunders Company: 1966)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Федина, Р. Е. Гладышевский, Укр. хим. журнал, 80, № 1/2: 7 (2014).",
+				"tr":  "V. M. Fedina and P. E. Gladyshevskiy, Ukr. Khim. Journal, 80, Nos. 1/2: 7 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.15.01.035",
+				"or":  "Г. П. Брехаря, Е. А. Харитонова, Е. В. Гуляева, Успехи физики металлов, 15, № 1: 35 (2014).",
+				"tr":  "G. P. Brekharya, E. A. Kharitonova, and T. V. Gulyaeva, Uspehi Fiziki Metallov, 15, No. 1: 35 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.111.206101",
+				"or":  "Y. Pan, Phys. Rev. Lett., 111, No. 20: 20206 (2013).",
+				"tr":  "Y. Pan, Phys. Rev. Lett., 111, No. 20: 20206 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Пушин, А. А. Попов, В. Г. Пушин, Физ. мет. металловед., 113, № 3: 299 (2012).",
+				"tr":  "A. V. Pushin, A. A. Popov, and V. G. Pushin, Fiz. Met. Metalloved., 113, No. 3: 299 (2012) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.109.125501",
+				"or":  "G. Li, Y. Y. Wang, P. K. Liaw, Y. C. Li, and R. P. Liu, Phys. Rev. Lett., 109, No. 12: 125501 (2012).",
+				"tr":  "G. Li, Y. Y. Wang, P. K. Liaw, Y. C. Li, and R. P. Liu, Phys. Rev. Lett., 109, No. 12: 125501 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Е. Теплых, Ю. Г. Чукалкин, С. Г. Богданов, Ю. Н. Скрябин, Н. В. Кудреватых, С. В. Андреев, А. С. Волегов, А. И. Козлов, Е. Чой, А. Н. Пирогов, Физ. мет. металловед., 113, № 6: 597 (2012).",
+				"tr":  "A. E. Teplich, Yu. G. Chukalkin, S. G. Bogdanov, Yu. N. Skryabin, N. V. Kudrevatih, S. V. Andreev, A. S. Volegov, A. I. Kozlov, E. Choy, and A. N. Pirogov, Fiz. Met. Metalloved., 113, No. 6: 597 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Дерягин, Успехи физических наук, 120, № 3: 391 (1976).",
+				"tr":  "A. V. Deryagin, Uspekhi Fiz. Nauk, 120, No. 3: 391 (1976) (in Russian)."
+			}
+		]
+	}
+}

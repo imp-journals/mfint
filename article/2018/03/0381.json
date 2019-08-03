@@ -1,0 +1,233 @@
+{
+	"_id":    "MFiNT.40.03.0381",
+	"year":   2018,
+	"volume": 40,
+	"issue":  3,
+	"pages":  [381,395],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["28.12.2017"],
+	"PACS":   "64.70.Nd, 68.35.Ct, 68.37.Rt, 68.55.J-, 68.60.Bs, 75.70.Ak, 81.15.Cd",
+	"title":   {
+		"ua": "Вплив Au на формування фази $L1_0$ у нанорозмірних плівках [Fe$_{50}$Pt$_{50}$/Au/Fe$_{50}$Pt$_{50}$]$_n$",
+		"en": "Influence of Au on Formation of $L1_0$-Type Phase in Nanoscale [Fe$_{50}$Pt$_{50}$/Au/Fe$_{50}$Pt$_{50}$]$_n$ Films",
+		"ru": "Влияние Au на формирование фазы $L1_0$ в наноразмерных плёнках [Fe$_{50}$Pt$_{50}$/Au/Fe$_{50}$Pt$_{50}$]$_n$"
+	},
+	"abstract": {
+		"ua": "Методами фізичного матеріялознавства вивчено вплив додаткових шарів Au з низькою поверхневою енергією ($\\cong$ 1,5 Дж/м$^2$) у плівкових композиціях [Fe$_{50}$Pt$_{50}$(15 нм)/Au(7,5 нм)/Fe$_{50}$Pt$_{50}$(15 нм)]$_n$ (де $n$ = 1, 2), одержаних методою магнетронного осадження на підкладках SiO$_2$(100 нм)/Si(001), на процеси термічно активованого формування впорядкованої фази $L1_0$-FePt при відпалах у вакуумі. Встановлено, що в плівкових композиціях при осадженні на підкладки за кімнатної температури у шарі Fe$_{50}$Pt$_{50}$(15 нм) формується невпорядкована фаза $A1$-FePt. Процес впорядкування та формування впорядкованої фази $L1_0$-FePt у плівках залежать від рівня стискувальних механічних напружень у шарі Fe$_{50}$Pt$_{50}$(15 нм). Збільшення кількости проміжних шарів золота та загальної товщини плівкової композиції в три рази понижує рівень стискувальних напружень, що приводить до уповільнення процесів впорядкування, підвищення температури початку впорядкування від 650°C до 800°C, зменшення коерцитивної сили, а також пригнічення текстури (001) з розташуванням вісі легкого намагнетування перпендикулярно до поверхні плівки.",
+		"en": "By means of the materials science methods, the effect of additional Au layers with a low surface energy (of $\\cong$ 1.5 J/m$^2$) in [Fe$_{50}$Pt$_{50}$(15 nm)/Au(7.5 nm)/Fe$_{50}$Pt$_{50}$(15 nm)]$_n$ film compositions (where $n$ = 1, 2) obtained by the magnetron sputtering on SiO$_2$(100 nm)/Si(001) substrates on processes of thermally activated ordered $L1_0$-phase formation at annealing in vacuum is studied. As established, the disordered $A1$-FePt phase is formed in Fe$_{50}$Pt$_{50}$ (15 nm) layer in film compositions at deposition on substrates at room temperature. Both the ordering process and the ordered $L1_0$-FePt phase formation in films depend on level of compressive mechanical stresses in Fe$_{50}$Pt$_{50}$ (15 nm) layer. Increasing in intermediate Au layer number and total thickness of film composition in three times decreases of compressive-stresses’ level that leads to slowing-down of ordering processes, increasing in start ordering temperature from 650°C to 800°C, reducing in coercive force, and inhibiting of (001) texture with easy-magnetization axis location perpendicularly to film surface.",
+		"ru": "Методами физического материаловедения изучено влияние дополнительных слоёв Au с низкой поверхностной энергией ($\\cong$ 1,5 Дж/м$^2$) в плёночных композициях [Fe$_{50}$Pt$_{50}$(15 нм)/Au(7,5 нм)/Fe$_{50}$Pt$_{50}$(15 нм)]$_n$ (где $n$ = 1, 2), полученных методом магнетронного осаждения на подложках SiO$_2$(100 нм)/Si(001), на процессы термически активируемого формирования упорядоченной фазы $L1_0$-FePt при отжигах в вакууме. Установлено, что в плёночных композициях при осаждении на подложки комнатной температуры в слое Fe$_{50}$Pt$_{50}$(15 нм) формируется неупорядоченная фаза $A1$-FePt. Процесс упорядочения и формирование упорядоченной фазы $L1_0$-FePt в плёнках зависят от уровня сжимающих механических напряжений в слое Fe$_{50}$Pt$_{50}$(15 нм). Увеличение количества промежуточных слоёв золота и общей толщины плёночной композиции в три раза снижает уровень сжимающих напряжений, что приводит к замедлению процессов упорядочения, повышению температуры начала упорядочения от 650°C до 800°C, уменьшению коэрцитивной силы, а также подавлению текстуры (001) с расположением оси лёгкого намагничивания перпендикулярно к поверхности плёнки."
+	},
+	"keywords": {
+		"ua": "плівка, впорядкована фаза $L1_0$-FePt, відпал, коерцитивна сила",
+		"en": "film, ordered $L1_0$-FePt phase, annealing, coercive force",
+		"ru": "плёнка, упорядоченная фаза $L1_0$-FePt, отжиг, коэрцитивная сила"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. Ю. Вербицька", "en": "M. Yu. Verbytska", "ru": "М. Ю. Вербицкая"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "М. Н. Шамис", "en": "M. N. Shamis", "ru": "М. Н. Шамис"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "К. А. Грайворонська", "en": "K. A. Grayvoronska", "ru": "К. А. Грайворонская"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "Т. І. Вербицька", "en": "T. I. Verbytska", "ru": "Т. И. Вербицкая"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "Ю. М. Макогон", "en": "Iu. M. Makogon", "ru": "Ю. Н. Макогон"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "Ю. В. Кудрявцев", "en": "Yu. V. Kudryavtsev", "ru": "Ю. В. Кудрявцев"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 35,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Development in Data Storage: Materials Perspective (Eds. S. N. Piramanayagam and T. C. Chong) (New York: John Wiley and Sons: 2012).",
+				"tr":  "Development in Data Storage: Materials Perspective (Eds. S. N. Piramanayagam and T. C. Chong) (New York: John Wiley and Sons: 2012)."
+			},
+			{
+				"doi": "10.1063/1.3599573",
+				"or":  "A. T. McCallum, P. Krone, F. Springer, C. Brombacher, M. Albrecht, E. Dobisz, M. Grobis, D. Weller, and O. Hellwig, Appl. Phys. Lett., 98: 242503 (2011).",
+				"tr":  "A. T. McCallum, P. Krone, F. Springer, C. Brombacher, M. Albrecht, E. Dobisz, M. Grobis, D. Weller, and O. Hellwig, Appl. Phys. Lett., 98: 242503 (2011)."
+			},
+			{
+				"doi": "10.1002/pssa.201329106",
+				"or":  "D. Weller, O. Mosendz, G. Parker, S. Pisana, and T. S. Santos, phys. status solidi (a), 210: 1245 (2013).",
+				"tr":  "D. Weller, O. Mosendz, G. Parker, S. Pisana, and T. S. Santos, phys. status solidi (a), 210: 1245 (2013)."
+			},
+			{
+				"doi": "10.1116/1.4965980",
+				"or":  "D. Weller, G. Parker, O. Mosendz, A. Lyberatos, D. Mitin, N. Y. Safonova, and M. Albrecht, J. Vac. Sci. Technol. B, 34: 060801 (2016).",
+				"tr":  "D. Weller, G. Parker, O. Mosendz, A. Lyberatos, D. Mitin, N. Y. Safonova, and M. Albrecht, J. Vac. Sci. Technol. B, 34: 060801 (2016)."
+			},
+			{
+				"doi": "10.1016/j.vacuum.2013.07.018",
+				"or":  "I. A. Vladymyrskyi, O. P. Pavlova, T. I. Verbitska, S. I. Sidorenko, G. L. Katona, D. L. Beke, and Iu. M. Makogon, Vacuum, 101: 33 (2014).",
+				"tr":  "I. A. Vladymyrskyi, O. P. Pavlova, T. I. Verbitska, S. I. Sidorenko, G. L. Katona, D. L. Beke, and Iu. M. Makogon, Vacuum, 101: 33 (2014)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2012.11.102",
+				"or":  "O. P. Pavlova, T. I. Verbitska, I. A. Vladymyrskyi, S. I. Sidorenko, G. L. Katona, D. L. Beke, G. Beddies, M. Albrecht, and I. M. Makogon, Appl. Surf. Sci., 266: 100 (2013).",
+				"tr":  "O. P. Pavlova, T. I. Verbitska, I. A. Vladymyrskyi, S. I. Sidorenko, G. L. Katona, D. L. Beke, G. Beddies, M. Albrecht, and I. M. Makogon, Appl. Surf. Sci., 266: 100 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Макогон, Е. П. Павлова, С. И. Сидоренко, Т. И. Вербицкая, И. А. Владимирский, Р. А. Шкарбань, Металлофиз. новейшие технол., 35, № 4: 553 (2013).",
+				"tr":  "Yu. N. Makogon, E. P. Pavlova, S. I. Sidorenko, T. I. Verbitskaya, I. A. Vladymyrskyi, and R. A. Shkarban, Metallofiz. Noveishie Tekhnol., 35, No. 4: 553 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. М. Макогон, О. П. Павлова, С. І. Сидоренко, Т. І. Вербицька, І. А. Владимирський, О. В. Фігурна, Металлофиз. новейшие технол., 35, № 10: 1425 (2013).",
+				"tr":  "Yu. M. Makogon, E. P. Pavlova, S. I. Sidorenko, T. I. Verbitskaya, I. A. Vladymyrskyi, and O. V. Fihurna, Metallofiz. Noveishie Tekhnol., 35, No. 10: 1425 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/mfint.36.11.1513",
+				"or":  "Ю. М. Макогон, О. П. Павлова, С. І. Сидоренко, Т. І. Вербицька, М. Ю. Вербицька, О. В. Фігурна, Металлофиз. новейшие технол., 36, № 11: 1513 (2014).",
+				"tr":  "Yu. M. Makogon, E. P. Pavlova, S. I. Sidorenko, T. I. Verbitskaya, M. Yu. Verbitska, and O. V. Fihurna, Metallofiz. Noveishie Tekhnol., 36, No. 11: 1513 (2014) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1063/1.3001801",
+				"or":  "C. Feng, Q. Zhan, B. Li, J. Teng, M. Li, Y. Jiang, and G. Yu, Appl. Phys. Lett., 93: 152513 (2008).",
+				"tr":  "C. Feng, Q. Zhan, B. Li, J. Teng, M. Li, Y. Jiang, and G. Yu, Appl. Phys. Lett., 93: 152513 (2008)."
+			},
+			{
+				"doi": "10.1063/1.2828148",
+				"or":  "C. Feng, B.-H. Li, Y. Liu, J. Teng, M.-H. Li, Y. Jiang, and G.-H. Ya, J. Appl. Phys., 103: 023916 (2008).",
+				"tr":  "C. Feng, B.-H. Li, Y. Liu, J. Teng, M.-H. Li, Y. Jiang, and G.-H. Ya, J. Appl. Phys., 103: 023916 (2008)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2009.12.027",
+				"or":  "Y. S. Yu, H.-B. Li, W. L. Li, M. Liu, and W. D. Fei, J. Magn. Magn. Mater., 322: 1770 (2010).",
+				"tr":  "Y. S. Yu, H.-B. Li, W. L. Li, M. Liu, and W. D. Fei, J. Magn. Magn. Mater., 322: 1770 (2010)."
+			},
+			{
+				"doi": "10.1063/1.3194313",
+				"or":  "W. Y. Zhang, H. Shima, F. Takano, H. Akinaga, X. Z. Yu, T. Hara, W. Z. Zhang, K. Kimoto, Y. Matsui, and S. Nimori, J. Appl. Phys., 106: 033907 (2009).",
+				"tr":  "W. Y. Zhang, H. Shima, F. Takano, H. Akinaga, X. Z. Yu, T. Hara, W. Z. Zhang, K. Kimoto, Y. Matsui, and S. Nimori, J. Appl. Phys., 106: 033907 (2009)."
+			},
+			{
+				"doi": "10.1063/1.1463213",
+				"or":  "T. Maeda, T. Kai, A. Kikitsu, T. Nagase, and J. Akiyama, Appl. Phys. Lett., 80, No. 12: 2147 (2002).",
+				"tr":  "T. Maeda, T. Kai, A. Kikitsu, T. Nagase, and J. Akiyama, Appl. Phys. Lett., 80, No. 12: 2147 (2002)."
+			},
+			{
+				"doi": "10.1063/1.1516870",
+				"or":  "C. L. Platt, K. W. Wierman, E. B. Svedberg, R. van de Veerdonk, J. K. Howard, A. G. Roy, and D. E. Laughlin, J. Appl. Phys., 92, No. 10: 6104 (2002).",
+				"tr":  "C. L. Platt, K. W. Wierman, E. B. Svedberg, R. van de Veerdonk, J. K. Howard, A. G. Roy, and D. E. Laughlin, J. Appl. Phys., 92, No. 10: 6104 (2002)."
+			},
+			{
+				"doi": "10.1016/j.jcrysgro.2004.10.154",
+				"or":  "Y. F. Ding, J. S. Chen, and E. Liu, J. Cryst. Growth, 276: 111 (2005).",
+				"tr":  "Y. F. Ding, J. S. Chen, and E. Liu, J. Cryst. Growth, 276: 111 (2005)."
+			},
+			{
+				"doi": "10.1002/pssa.201228718",
+				"or":  "M. Albrecht and C. Brombacher, phys. status solidi (a), 210: 1272 (2013).",
+				"tr":  "M. Albrecht and C. Brombacher, phys. status solidi (a), 210: 1272 (2013)."
+			},
+			{
+				"doi": "10.1109/TMAG.2008.2001609",
+				"or":  "C. L. Zha, S. H. He, B. Ma, Z. Z. Zhang, F. X. Gan, and Q. Y. Jin, IEEE Trans. Magn., 44, No. 11: 3539 (2008).",
+				"tr":  "C. L. Zha, S. H. He, B. Ma, Z. Z. Zhang, F. X. Gan, and Q. Y. Jin, IEEE Trans. Magn., 44, No. 11: 3539 (2008)."
+			},
+			{
+				"doi": "10.1063/1.1555893",
+				"or":  "K. W. Wierman, C. L. Platt, J. K. Howard, and F. E. Spada, J. Appl. Phys., 93, No. 10: 7160 (2003).",
+				"tr":  "K. W. Wierman, C. L. Platt, J. K. Howard, and F. E. Spada, J. Appl. Phys., 93, No. 10: 7160 (2003)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2009.03.018",
+				"or":  "S. N. Hsiao, S. K. Chen, T. S. Chin, Y. W. Hsu, H. W. Huang, F. T. Yuan, H. Y. Lee, and W. M. Liao, J. Magn. Magn. Mater., 321: 2459 (2009).",
+				"tr":  "S. N. Hsiao, S. K. Chen, T. S. Chin, Y. W. Hsu, H. W. Huang, F. T. Yuan, H. Y. Lee, and W. M. Liao, J. Magn. Magn. Mater., 321: 2459 (2009)."
+			},
+			{
+				"doi": "10.1063/1.3153513",
+				"or":  "S. N. Hsiao, F. T. Yuan, H. W. Chang, H. W. Huang, S. K. Chen, and H. Y. Lee, Appl. Phys. Lett., 94: 232505 (2009).",
+				"tr":  "S. N. Hsiao, F. T. Yuan, H. W. Chang, H. W. Huang, S. K. Chen, and H. Y. Lee, Appl. Phys. Lett., 94: 232505 (2009)."
+			},
+			{
+				"doi": "10.1109/TMAG.2011.2173660",
+				"or":  "F. T. Yuan, S. H. Liu, W. M. Liao, S. N. Hsiao, S. K. Chen, and H. Y. Lee, IEEE Trans. Magn., 48, No. 3: 1139 (2012).",
+				"tr":  "F. T. Yuan, S. H. Liu, W. M. Liao, S. N. Hsiao, S. K. Chen, and H. Y. Lee, IEEE Trans. Magn., 48, No. 3: 1139 (2012)."
+			},
+			{
+				"doi": "10.1063/1.3670515",
+				"or":  "S. N. Hsiao, S. H. Liu, S. K. Chen, F. T. Yuan, and H. Y. Lee, J. Appl. Phys., 111: 07A702 (2012).",
+				"tr":  "S. N. Hsiao, S. H. Liu, S. K. Chen, F. T. Yuan, and H. Y. Lee, J. Appl. Phys., 111: 07A702 (2012)."
+			},
+			{
+				"doi": "10.1063/1.1819985",
+				"or":  "C. H. Lai, C. H. Yang, C. C. Chiang, T. Balaji, and T. K. Tseng, Appl. Phys. Lett., 85: 4430 (2004).",
+				"tr":  "C. H. Lai, C. H. Yang, C. C. Chiang, T. Balaji, and T. K. Tseng, Appl. Phys. Lett., 85: 4430 (2004)."
+			},
+			{
+				"doi": "10.1109/TMAG.2011.2147291",
+				"or":  "S. N. Hsiao, S. K. Chen, S. H. Liu, C. J. Liao, F. T. Yuan, and H. Y. Lee, IEEE Trans. Magn., 47, No. 10: 3637 (2011).",
+				"tr":  "S. N. Hsiao, S. K. Chen, S. H. Liu, C. J. Liao, F. T. Yuan, and H. Y. Lee, IEEE Trans. Magn., 47, No. 10: 3637 (2011)."
+			},
+			{
+				"doi": "10.1063/1.4730963",
+				"or":  "S. N. Hsiao, S. H. Liu, S. K. Chen, T. S. Chin, and H. Y. Lee, Appl. Phys. Lett., 100: 261909 (2012).",
+				"tr":  "S. N. Hsiao, S. H. Liu, S. K. Chen, T. S. Chin, and H. Y. Lee, Appl. Phys. Lett., 100: 261909 (2012)."
+			},
+			{
+				"doi": "10.1063/1.2364051",
+				"or":  "J.-S. Kim, Y.-M. Koo, and N. Shin, J. Appl. Phys., 100: 093909 (2006).",
+				"tr":  "J.-S. Kim, Y.-M. Koo, and N. Shin, J. Appl. Phys., 100: 093909 (2006)."
+			},
+			{
+				"doi": "10.1063/1.2176088",
+				"or":  "J.-S. Kim, Y.-M. Koo, B.-J. Lee, and S.-R. Lee, J. Appl. Phys., 99: 053906 (2006).",
+				"tr":  "J.-S. Kim, Y.-M. Koo, B.-J. Lee, and S.-R. Lee, J. Appl. Phys., 99: 053906 (2006)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2006.01.113",
+				"or":  "W. Hsu, S. K. Chen, W. M. Liao, F. T. Yuan, W. C. Chang, and J. L. Tsai, J. Alloys Compd., 449: 52 (2008).",
+				"tr":  "W. Hsu, S. K. Chen, W. M. Liao, F. T. Yuan, W. C. Chang, and J. L. Tsai, J. Alloys Compd., 449: 52 (2008)."
+			},
+			{
+				"doi": "10.2138/am-1996-9-1001",
+				"or":  "R. M. Hazen and A. Navrotsky, Amer. Mineral., 81: 1021 (1996).",
+				"tr":  "R. M. Hazen and A. Navrotsky, Amer. Mineral., 81: 1021 (1996)."
+			},
+			{
+				"doi": "10.1063/1.3129874",
+				"or":  "X. Li, F. Wang, Y. Liu, L. Xu, J. Zhao, B. Liu, and X. Zhang, Appl. Phys. Lett., 94: 172512 (2009).",
+				"tr":  "X. Li, F. Wang, Y. Liu, L. Xu, J. Zhao, B. Liu, and X. Zhang, Appl. Phys. Lett., 94: 172512 (2009)."
+			},
+			{
+				"doi": "10.1016/S0304-8853(02)00587-5",
+				"or":  "Y.-N. Hsu, S. Jeong, D. E. Laughlin, and D. N. Lambeth, J. Magn. Magn. Mater., 260: 282 (2003).",
+				"tr":  "Y.-N. Hsu, S. Jeong, D. E. Laughlin, and D. N. Lambeth, J. Magn. Magn. Mater., 260: 282 (2003)."
+			},
+			{
+				"doi": "10.1063/1.1360683",
+				"or":  "Y.-N. Hsu, S. Jeong, D. E. Laughlin, and D. N. Lambeth, J. Appl. Phys., 89: 7068 (2001).",
+				"tr":  "Y.-N. Hsu, S. Jeong, D. E. Laughlin, and D. N. Lambeth, J. Appl. Phys., 89: 7068 (2001)."
+			},
+			{
+				"doi": "10.1088/1742-6596/200/10/102009",
+				"or":  "A. C. Sun, F. T. Yuan, and J.-H. Hsu, J. Phys.: Conf. Ser., 200: 102009 (2010).",
+				"tr":  "A. C. Sun, F. T. Yuan, and J.-H. Hsu, J. Phys.: Conf. Ser., 200: 102009 (2010)."
+			},
+			{
+				"doi": "10.1063/1.4949263",
+				"or":  "E. Chason and P. R. Guduru, J. Appl. Phys., 119: 191101 (2016).",
+				"tr":  "E. Chason and P. R. Guduru, J. Appl. Phys., 119: 191101 (2016)."
+			}
+		]
+	}
+}

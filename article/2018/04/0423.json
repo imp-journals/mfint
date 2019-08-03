@@ -1,0 +1,641 @@
+{
+	"_id":    "MFiNT.40.04.0423",
+	"year":   2018,
+	"volume": 40,
+	"issue":  4,
+	"pages":  [423,500],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["07.12.2017"],
+	"PACS":   "47.63.mh, 47.65.Cb, 75.75.-c, 81.07.-b, 81.20.Fw, 83.60.Np, 87.85.Qr",
+	"title":   {
+		"ua": "Магнетні властивості нанокомпозитів типу суперпарамагнетне ядро–оболонка",
+		"en": "Magnetic Properties of Nanocomposites of a Superparamagnetic Core–Shell Type",
+		"ru": "Магнитные свойства нанокомпозитов типа суперпарамагнитное ядро–оболочка"
+	},
+	"abstract": {
+		"ua": "В статті дано огляд досліджень, присвячених дослідженню магнетних властивостей поліфункціональних нанокомпозитів типу ядро–оболонка широкого функціонального призначення, синтезованих на основі суперпарамагнетних нанорозмірних однодоменних наночастинок різної хемічної природи. В ідейному плані дослідження спрямовано на розвиток концепції створення магнеточутливих нанокомпозитів з багаторівневою ієрархічною наноархітектурою та функціями нанороботів. Показано, що, використовуючи ансамбль суперпарамагнетних носіїв у якості зонду та Лянжевенову теорію парамагнетизму, можна визначити розмірні параметри складної оболонкової будови багаторівневих нанокомпозитів і здійснити їх оптимізацію. Одержані результати використано при створенні новітніх магнеточутливих адсорбційних матеріялів для технічних, екологічних і медичних застосувань, при розробках і стандартизації нових форм магнетокерованих лікарських засобів адресної доставки, комбінованої локальної терапії та діягностики, а також для контролю розмірних параметрів наноструктур у процесі їх виробництва.",
+		"en": "In this paper, investigations concerned with the study of magnetic properties of polyfunctional nanocomposites (NC) of a core–shell type for wide functional destination, which are synthesized on the base of superparamagnetic nanosize single-domain nanoparticles (NP) of different chemical nature, are reviewed. In the ideological plan, the research is aimed onto developing the concept of creating magnetically sensitive NCs with multilevel hierarchical nanoscale architecture and functions of nanorobots. As shown, the usage of both the ensemble of superparamagnetic carriers as a probe and the Langevin paramagnetism theory can determine the size parameters of the complex shell structure of multilevel nanocomposites and optimize them. The obtained results are used in creating the newest magnetically sensitive adsorption materials for technical, environmental, and medical applications, for development and standardization of new forms of magnetogoverned medicinal agents with targeted delivery, for combined local therapy and diagnostics as well as for control of size parameters of nanostructures in the process of their fabrication.",
+		"ru": "В статье дан обзор исследований, посвящённых изучению магнитных свойств полифункциональных нанокомпозитов типа ядро–оболочка широкого функционального назначения, синтезированных на основе суперпарамагнитных наноразмерных однодоменных наночастиц различной химической природы. В идейном плане исследования направлены на развитие концепции создания магниточувствительных нанокомпозитов с многоуровневой иерархической наноархитектурой и функциями нанороботов. Показано, что, используя ансамбль суперпарамагнитных носителей в качестве зонда и ланжевеновскую теорию парамагнетизма, можно определить размерные параметры сложного оболочечного строения многоуровневых нанокомпозитов и осуществить их оптимизацию. Полученные результаты использованы при создании новейших магниточувствительных адсорбционных материалов для технических, экологических и медицинских применений, при разработках и стандартизации новых форм магнитоуправляемых лекарственных средств адресной доставки, комбинированной локальной терапии и диагностики, а также для контроля размерных параметров наноструктур в процессе их производства."
+	},
+	"keywords": {
+		"ua": "магнетні властивості, однодоменні суперпарамагнетні наночастинки, поліфункціональні нанокомпозити, багаторівнева ієрархічна наноархітектура типу ядро–оболонка, суперпарамагнетний зонд, розмірні параметри",
+		"en": "magnetic properties, single-domain superparamagnetic nanoparticles, polyfunctional nanocomposites, multilevel hierarchical nanoarchitecture of a core–shell type, superparamagnetic probe, size parameters",
+		"ru": "магнитные свойства, однодоменные суперпарамагнитные наночастицы, полифункциональные нанокомпозиты, многоуровневая иерархическая наноархитектура типа ядро–оболочка, суперпарамагнитный зонд, размерные параметры"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. В. Абрамов", "en": "M. V. Abramov", "ru": "Н. В. Абрамов"},
+			"OID": [21]
+		},
+		{
+			"AID": {"ua": "С. П. Туранська", "en": "S. P. Turanska", "ru": "С. П. Туранская"},
+			"OID": [21]
+		},
+		{
+			"AID": {"ua": "П. П. Горбик", "en": "P. P. Gorbyk", "ru": "П. П. Горбик"},
+			"OID": [21, 202]
+		}
+	],
+	"references": {
+		"count": 119,
+		"list":  [
+			{
+				"doi": "10.15407/mfint.38.01.0001",
+				"or":  "О. М. Івасишин, Є. Г. Лень, В. М. Надутов, В. А. Татаренко, Металлофиз. новейшие технол., 38, № 1: 1 (2016).",
+				"tr":  "O. M. Ivasishin, E. G. Len, V. M. Nadutov, and V. A. Tatarenko, Metallofiz. Noveishie Tekhnol., 38, No. 1: 1 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "T. M. Radchenko, V. A. Tatarenko, I. Yu. Sagalianov, and Yu. I. Prylutskyy, Graphene: Mechanical Properties, Potential Applications and Electrochemical Performance (Ed. B. T. Edwards) (Hauppauge, N.Y., USA: Nova Science Publishers, Inc.: 2014), Ch. 7, p. 219.",
+				"tr":  "T. M. Radchenko, V. A. Tatarenko, I. Yu. Sagalianov, and Yu. I. Prylutskyy, Graphene: Mechanical Properties, Potential Applications and Electrochemical Performance (Ed. B. T. Edwards) (Hauppauge, N.Y., USA: Nova Science Publishers, Inc.: 2014), Ch. 7, p. 219."
+			},
+			{
+				"doi": "10.1016/j.physe.2010.03.024",
+				"or":  "T. M. Radchenko and V. A. Tatarenko, Physica E, 42, No. 8: 2047 (2010).",
+				"tr":  "T. M. Radchenko and V. A. Tatarenko, Physica E, 42, No. 8: 2047 (2010)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/SSP.150.43",
+				"or":  "T. M. Radchenko and V. A. Tatarenko, Solid State Phenom., 150: 43 (2009).",
+				"tr":  "T. M. Radchenko and V. A. Tatarenko, Solid State Phenom., 150: 43 (2009)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/DDF.273-276.525",
+				"or":  "T. M. Radchenko and V. A. Tatarenko, Defect and Diffusion Forum, 273: 525 (2008).",
+				"tr":  "T. M. Radchenko and V. A. Tatarenko, Defect and Diffusion Forum, 273: 525 (2008)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/SSP.138.283",
+				"or":  "T. M. Radchenko, V. A. Tatarenko, and H. Zapolsky, Solid State Phenom., 138: 283 (2008).",
+				"tr":  "T. M. Radchenko, V. A. Tatarenko, and H. Zapolsky, Solid State Phenom., 138: 283 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "T. M. Radchenko, V. A. Tatarenko, and S. M. Bokoch, Metallofiz. Noveishie Tekhnol., 28, No. 12: 1699 (2006); arXiv:1406.0147.",
+				"tr":  "T. M. Radchenko, V. A. Tatarenko, and S. M. Bokoch, Metallofiz. Noveishie Tekhnol., 28, No. 12: 1699 (2006); arXiv:1406.0147."
+			},
+			{
+				"doi": "10.1016/S0966-9795(03)00174-2",
+				"or":  "V. A. Tatarenko and T. M. Radchenko, Intermetallics, 11, Nos. 11–12: 1319 (2003).",
+				"tr":  "V. A. Tatarenko and T. M. Radchenko, Intermetallics, 11, Nos. 11–12: 1319 (2003)."
+			},
+			{
+				"doi": "10.15407/ufm.18.01.059",
+				"or":  "П. П. Горбик, М. В. Абрамов, І. В. Дубровін, С. М. Махно, С. П. Туранська, Успехи физики металлов, 18, № 1: 59 (2017).",
+				"tr":  "P. P. Gorbyk, M. V. Abramov, I. V. Dubrovin, S. M. Makhno, and S. P. Turanska, Uspehi Fiziki Metallov, 18, No. 1: 59 ( 2017) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Физико-химия наноматериалов и супрамолекулярных структур. Т. 1 (Ред. À. П. Шпак, П. П. Горбик) (Киев: Наукова думка: 2007).",
+				"tr":  "Fiziko-Khimiya Nanomaterialov i Supramolekulyarnykh Struktur. T. 1 [Physico-Chemistry of Nanomaterials and Supramolecular Structures. Vol. 1] (Eds. A. P. Shpak and P. P. Gorbyk) (Kiev: Naukova Dumka: 2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Nanomaterials and Supramolecular Structures. Physics, Chemistry, and Applications (Eds. A. P. Shpak and P. P. Gorbyk) (Dordrecht, Netherlands: Springer: 2009).",
+				"tr":  "Nanomaterials and Supramolecular Structures. Physics, Chemistry, and Applications (Eds. A. P. Shpak and P. P. Gorbyk) (Dordrecht, Netherlands: Springer: 2009)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, В. В. Туров, Наноматериалы и нанокомпозиты в медицине, биологии, экологии (Ред. А. П. Шпак, В. Ф. Чехун) (Киев: Наукова думка: 2011).",
+				"tr":  "P. P. Gorbyk and V. V. Turov, Nanomaterialy i Nanokompozity v Meditsine, Biologii, Ekologii [Nanomaterials and Nanocomposites in Medicine, Biology, Ecology] (Eds. A. P. Shpak and V. F. Chekhun) (Kiev: Naukova Dumka: 2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, В. Ф. Чехун, А. П. Шпак, Наноструктурные материалы — получение, свойства, применение (Минск: Беларуская навука: 2009), с. 131.",
+				"tr":  "P. P. Gorbyk, V. F. Chekhun, and A. P. Shpak, Nanostrukturnye Materialy—Poluchenie, Svoystva, Primenenie [Nanostructural Materials—Synthesis, Properties, Application] (Minsk: Belaruskaya Navuka: 2009), p. 131 (in Russian)."
+			},
+			{
+				"doi": "10.1021/cm0203013",
+				"or":  "L. Levy, Y. Sahoo, K. Kyoung-Soo, J. E. Bergey, and P. Prasad, Chem. Mater., 14: 3715 (2002).",
+				"tr":  "L. Levy, Y. Sahoo, K. Kyoung-Soo, J. E. Bergey, and P. Prasad, Chem. Mater., 14: 3715 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, С. В. Горобець, М. П. Турелик, В. Ф. Чехун, А. П. Шпак, Біофункціоналізація наноматеріалів і нанокомпозитів: Навч. посіб. (Київ: Наукова думка: 2011).",
+				"tr":  "P. P. Gorbyk, S. V. Gorobets, M. P. Turelyk, V. F. Chekhun, and A. P. Shpak, Biofunktsionalizatsiya Nanomaterialiv i Nanokompozytiv: Navch. Posibnyk [Biofunctionalization of Nanomaterials and Nanocomposites: Tutorial] (Kyiv: Naukova Dumka: 2011) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "P. P. Gorbyk, A. L. Petranovska, M. P. Turelyk, N. V. Abramov, V. F. Chekhun, and N. Yu. Lukyanova, Chem. Phys. Tech. Surf., 1, No. 3: 360 (2010).",
+				"tr":  "P. P. Gorbyk, A. L. Petranovska, M. P. Turelyk, N. V. Abramov, V. F. Chekhun, and N. Yu. Lukyanova, Chem. Phys. Tech. Surf., 1, No. 3: 360 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "P. P. Gorbyk and V. F. Chekhun, Functional Materials, 19, No. 2: 145 (2012).",
+				"tr":  "P. P. Gorbyk and V. F. Chekhun, Functional Materials, 19, No. 2: 145 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, Наносистеми, наноматеріали, нанотехнології, 11, № 2: 323 (2013).",
+				"tr":  "P. P. Gorbyk, Nanosistemi, Nanomateriali, Nanotehnologii, 11, No. 2: 323 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "P. P. Gorbyk, L. B. Lerman, A. L. Petranovska, and S. P. Turanska, Advances in Semiconductor Research: Physics of Nanosystems, Spintronics and Technological Applications (Eds. D. P. Adorno and S. Pokutnyi) (New York: Nova Science Publishers: 2014), p. 161.",
+				"tr":  "P. P. Gorbyk, L. B. Lerman, A. L. Petranovska, and S. P. Turanska, Advances in Semiconductor Research: Physics of Nanosystems, Spintronics and Technological Applications (Eds. D. P. Adorno and S. Pokutnyi) (New York: Nova Science Publishers: 2014), p. 161."
+			},
+			{
+				"doi": "10.1016/B978-0-323-41533-0.00010-6",
+				"or":  "P. P. Gorbyk, L. B. Lerman, A. L. Petranovska, S. P. Turanska, and Ie. V. Pylypchuk, Fabrication and Self-Assembly of Nanobiomaterials, Applications of Nanobiomaterials (Ed. A. Grumezescu) (Amsterdam: Elsevier: 2016), p. 289.",
+				"tr":  "P. P. Gorbyk, L. B. Lerman, A. L. Petranovska, S. P. Turanska, and Ie. V. Pylypchuk, Fabrication and Self-Assembly of Nanobiomaterials, Applications of Nanobiomaterials (Ed. A. Grumezescu) (Amsterdam: Elsevier: 2016), p. 289."
+			},
+			{
+				"doi": "",
+				"or":  "M. V. Abramov, A. P. Kusyak, O. M. Kaminskiy, S. P. Turanska, A. L. Petranovska, N. V. Kusyak, and P. P. Gorbyk, Horizons in World Physics (Ed. A. Reimer) (New York: Nova Science Publishers: 2017), p. 1.",
+				"tr":  "M. V. Abramov, A. P. Kusyak, O. M. Kaminskiy, S. P. Turanska, A. L. Petranovska, N. V. Kusyak, and P. P. Gorbyk, Horizons in World Physics (Ed. A. Reimer) (New York: Nova Science Publishers: 2017), p. 1."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, А. Л. Петрановская, М. П. Турелик, Н. В. Абрамов, С. П. Туранская, Е. В. Пилипчук, В. Ф. Чехун, Н. Ю. Лукьянова, А. П. Шпак, А. М. Кордубан, Химия, физика и технология поверхности, 2, № 4: 433 (2011).",
+				"tr":  "P. P. Gorbyk, A. L. Petranovska, M. P. Turelyk, N. V. Abramov, S. P. Turanska, Ie. V. Pylypchuk, V. F. Chekhun, N. Yu. Lukyanova, A. P. Shpak, and A. M. Korduban, Khimiya, Fizika i Tekhnologiya Poverkhnosti, 2, No. 4: 433 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Горбик, С. Покутний, Современные проблемы физики и химии поверхности: Магниточувствительные нанокомпозиты с функциями нанороботов и атомоподобные наноструктуры (Palmarium Academic Publishing: 2013).",
+				"tr":  "P. Gorbyk and S. Pokutniy, Sovremennye Problemy Fiziki i Khimii Poverkhnosti: Magnitochuvstvitelnye Nanokompozity s Funktsiyami Nanorobotov i Atomopodobnye Nanostruktury [Contemporary Problems of Physics and Chemistry of Surface: Magnetosensitive Nanocomposites with Nanorobot Functions and Atom-Like Nanostructures] (Palmarium Academic Publishing: 2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Оборотова, Антибиотики и химиотерапия, 36, № 10: 47 (1991).",
+				"tr":  "N. A. Oborotova, Antibiotiki i Khimioterapiya, 36, No. 10: 47 (1991) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.vaccine.2006.04.065",
+				"or":  "J. E. Herrmann, S. Wang, С. Zhang, R. G. Panchal, S. Bavari, C. R. Lyons, J. A. Lovchik, B. Golding, J. Shiloach, and S. Lu, Vaccine, 24, Nos. 31–32: 5872 (2006).",
+				"tr":  "J. E. Herrmann, S. Wang, C. Zhang, R. G. Panchal, S. Bavari, C. R. Lyons, J. A. Lovchik, B. Golding, J. Shiloach, and S. Lu, Vaccine, 24, Nos. 31–32: 5872 (2006)."
+			},
+			{
+				"doi": "10.1016/j.nec.2009.08.010",
+				"or":  "S. Mitra, G. Li, and G. R. Harsh, Neurosurgery Clinics of North America, 21, No. 1: 67 (2010).",
+				"tr":  "S. Mitra, G. Li, and G. R. Harsh, Neurosurgery Clinics of North America, 21, No. 1: 67 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Брегадзе, И. Б. Сиваев, Природа, № 4: 1 (2004).",
+				"tr":  "V. I. Bregadze and I. B. Sivaev, Priroda, No. 4: 1 (2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. De Stasio, Р. Casalbore, R. Pallini, B. Gilbert, F. Sanita, M. T. Ciotti, G. Rosi, A. Festinesi, L. M. Larocca, A. Rinelli, D. Perret, D. W. Moqk, P. Perfetti, M. P. Mehta, and D. Mercanti, Cancer Res., 61, No. 10: 4272 (2001).",
+				"tr":  "G. De Stasio, P. Casalbore, R. Pallini, B. Gilbert, F. Sanita, M. T. Ciotti, G. Rosi, A. Festinesi, L. M. Larocca, A. Rinelli, D. Perret, D. W. Moqk, P. Perfetti, M. P. Mehta, and D. Mercanti, Cancer Res., 61, No. 10: 4272 (2001)."
+			},
+			{
+				"doi": "10.1158/0008-5472.CAN-08-2345",
+				"or":  "А. Detta and G. S. Cruickshank, Cancer Res., 69, No. 5: 2126 (2009).",
+				"tr":  "A. Detta and G. S. Cruickshank, Cancer Res., 69, No. 5: 2126 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "С. П. Туранская, М. П. Турелик, А. Л. Петрановская, В. В. Туров, П. П. Горбик, Поверхность: Межвед. сб. науч. тр. (Êиев: Наукова думка: 2010), вып. 2(17): 356.",
+				"tr":  "S. P. Turanska, M. P. Turelyk, A. L. Petranovska, V. V. Turov, and P. P. Gorbyk, Poverkhnost: Mezhved. Sb. Nauch. Tr. (Kiev: Naukova Dumka: 2010), Iss. 2(17): 356 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "І. В. Уварова, П. П. Горбик, С. В. Горобець, О. А. Іващенко, Н. В. Ульянченко, Наноматеріали медичного призначення (Pед. В. В. Скороход) (Київ: Наукова думка: 2014).",
+				"tr":  "I. V. Uvarova, P. P. Gorbyk, S. V. Gorobets, O. A. Ivashchenko, and N. V. Ulyanchenko, Nanomaterialy Medychnogo Pryznachennya [Nanomaterials of Medical Destination] (Ed. V. V. Skorokhod) (Kyiv: Naukova Dumka: 2014) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Б. Медведев, Е. И. Беликова, М. П. Сямичев, Фотодинамическая терапия в офтальмологии (Москва: 2006).",
+				"tr":  "I. B. Medvedev, Ye. I. Belikova, and M. P. Syamichev, Fotodinamicheskaya Terapiya v Oftal'mologii [Photodynamic Therapy in Ophthalmology] (Moscow: 2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Л. Гельфонд, Практическая онкология, 8, № 4: 204 (2007).",
+				"tr":  "M. L. Gel'fond, Prakticheskaya Onkologiya, 8, No. 4: 204 (2007) (in Russian)."
+			},
+			{
+				"doi": "10.1007/s40097-015-0159-9",
+				"or":  "A. L. Petranovska, N. V. Abramov, S. P. Turanska, P. P. Gorbyk, A. N. Kaminskiy, and N. V. Kusyak, Journal of Nanostructure in Chemistry, 5: 275 (2015).",
+				"tr":  "A. L. Petranovska, N. V. Abramov, S. P. Turanska, P. P. Gorbyk, A. N. Kaminskiy, and N. V. Kusyak, Journal of Nanostructure in Chemistry, 5: 275 (2015)."
+			},
+			{
+				"doi": "10.1007/s40097-016-0196-z",
+				"or":  "N. V. Abramov, S. P. Turanska, A. P. Kusyak, A. L. Petranovska, and P. P. Gorbyk, Journal of Nanostructure in Chemistry, 6: 223 (2016).",
+				"tr":  "N. V. Abramov, S. P. Turanska, A. P. Kusyak, A. L. Petranovska, and P. P. Gorbyk, Journal of Nanostructure in Chemistry, 6: 223 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, А. Л. Петрановська, Д. Г. Усов, Л. П. Сторожук, Нанокапсула з функціями наноробота: Патент України № 86322. МПК: А61К 9/51, 33/26, 47/48. Опубл. 10.04.2009. Бюл. № 7.",
+				"tr":  "P. P. Gorbyk, A. L. Petranovska, D. G. Usov, and L. P. Storozhuk, Nanokapsula z Funktsiyamy Nanorobota [Nanocapsule with Nanorobot Functions]: Patent of Ukraine No. 86322. MPK: A61K 9/51, 33/26, 47/48 (Publ. 10.04.2009. Bull. No. 7) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, А. Л. Петрановська, М. П. Турелик, С. П. Туранська, О. А. Васильєва, В. Ф. Чехун, Н. Ю. Лук’янова, А. П. Шпак, О. М. Кордубан, Нанокапсула з функціями наноробота: Патент України № 99211. А61К 9/51, 47/02, 39/44, 45/06, 35/00. Опубл. 25.07.2012. Бюл. № 14.",
+				"tr":  "P. P. Gorbyk, A. L. Petranovska, M. P. Turelyk, S. P. Turanska, O. A. Vasylyeva, V. F. Chekhun, N. Yu. Lukyanova, A. P. Shpak, and O. M. Korduban, Nanokapsula z Funktsiyamy Nanorobota [Nanocapsule with Nanorobot Functions]: Patent of Ukraine No. 99211. A61K 9/51, 47/02, 39/44, 45/06, 35/00 (Publ. 25.07.2012. Bull. No. 14) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Є. Патон, П. П. Горбик, А. Л. Петрановська, М. П. Турелик, М. В. Абрамов, О. А. Васильєва, В. Ф. Чехун, Н. Ю. Лук’янова, Магнітна протипухлинна рідина: Патент України № 78473. H01F 1/28, A61K 47/02, C01G 49/08. Опубл. 25.03.2013. Бюл. № 6.",
+				"tr":  "B. Ye. Paton, P. P. Gorbyk, A. L. Petranovska, M. P. Turelyk, M. V. Abramov, O. A. Vasylyeva, V. F. Chekhun, and N. Yu. Lukyanova, Magnitna Protypukhlynna Ridyna [Magnetic Antitumor Liquid]: Patent of Ukraine No. 78473. H01F 1/28, A61K 47/02, C01G 49/08 (Publ. 25.03.2013. Bull. No. 6) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, А. Л. Петрановська, М. В. Абрамов, М. П. Турелик, Є. В. Пилипчук, О. А. Васильєва, Магнітна рідина: Патент України № 78448. H01F 1/28, C01G 49/08. Опубл. 25.03.2013. Бюл. № 6.",
+				"tr":  "P. P. Gorbyk, A. L. Petranovska, M. V. Abramov, M. P. Turelyk, Ie. V. Pylypchuk, and O. A. Vasylyeva, Magnitna Ridyna [Magnetic Liquid]: Patent of Ukraine No. 78448. H01F 1/28, C01G 49/08 (Publ. 25.03.2013. Bull. No. 6) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. С. Семко, П. П. Горбик, С. В. Хуторний, Спосіб одержання магнітного шаруватого матеріалу: Патент України № 100210. В32В 5/16. Опубл. 26.11.2012, Бюл. № 22.",
+				"tr":  "L. S. Semko, P. P. Gorbyk, and S. V. Khutornyi, Sposib Oderzhannya Magnitnogo Sharuvatogo Materialu [Method for Obtaining a Magnetic Layered Material]: Patent of Ukraine No. 100210. B32B 5/16 (Publ. 26.11.2012. Bull. No. 22) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, М. В. Абрамов, А. Л. Петрановська, М. П. Турелик, О. А. Васильєва, Тимчасовий технологічний регламент на виробництво речовини «Магнетит-У», Свідоцтво про реєстрацію авторського права № 46056 ТТР 03291669.012:2012. Опубл. 07.09.2012.",
+				"tr":  "P. P. Gorbyk, M. V. Abramov, A. L. Petranovska, M. P. Turelyk, and O. A. Vasylyeva, Tymchasovyy Tekhnologichnyy Reglament na Vyrobnytstvo Rechovyny 'Magnetyt U' [Temporary Technologic Regulations onto Manufac-turing a Substance 'Magnetite U'], Authors' Certificate No. 46056 TTR 03291669.012:2012 (Publ. 07.09.2012) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, М. В. Абрамов, А. Л. Петрановська, Є. В. Пилипчук, О. А. Васильєва, Свідоцтво № 58159 на ТТР (технологічний регламент) 03291669.017:2014 на виробництво магнітної рідини. Опубл. 20.01.2015.",
+				"tr":  "P. P. Gorbyk, M. V. Abramov, A. L. Petranovska, Ye. V. Pylypchuk, and O. A. Vasylyeva, Tymchasovyy Tekhnologichnyy Reglament na Vyrobnytstvo Magnitnoyi Ridyny [Temporary Technologic Regulations onto Manufacturing a Magnetic Liquid]. Authors' Certificate No. 58159 TTR 03291669.017:2014 (Publ. 20.01.2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. В. Борисенко, В. М. Богатырев, И. В. Дубровин, Н. В. Абрамов, М. В. Гаевая, П. П. Горбик, Физико-химия наноматериалов и супрамолекулярных структур. Т. 1 (Ред. А. П. Шпак, П. П. Горбик) (Киев: Наукова думка: 2007), с. 394.",
+				"tr":  "N. V. Borisenko, V. M. Bogatyrev, I. V. Dubrovin, N. V. Abramov, M. V. Gayeva, and P. P. Gorbyk, Fiziko-Khimiya Nanomaterialov i Supramolekulyarnykh Struktur. T. 1 [Physico-Chemistry of Nanomaterials and Supramolecular Struc-tures. Vol. 1] (Eds. A. P. Shpak and P. P. Gorbyk) (Kiev: Naukova Dumka: 2007), p. 394 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Aharoni, Introduction to the Theory of Ferromagnetism (Oxford: Clarendon Press: 1996), p. 74.",
+				"tr":  "A. Aharoni, Introduction to the Theory of Ferromagnetism (Oxford: Clarendon Press: 1996), p. 74."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Абрамов, П. П. Горбик, В. М. Богатирьов, Поверхность: Межвед. сб. науч. тр. (Киев: Наукова думка: 2016), вып. 8(23): 223.",
+				"tr":  "M. V. Abramov, P. P. Gorbyk, and V. M. Bogatyrev, Poverkhnost: Mezhved. Sb. Nauch. Tr. (Kyiv: Naukova Dumka: 2016), Iss. 8(23): 223 (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Magnetic Hysteresis in Novel Magnetic Materials (Ed. G. C. Hadjipanayis) (Dordrecht: Springer: 1997).",
+				"tr":  "Magnetic Hysteresis in Novel Magnetic Materials (Ed. G. C. Hadjipanayis) (Dordrecht: Springer: 1997)."
+			},
+			{
+				"doi": "10.1007/s10853-006-6564-1",
+				"or":  "K. M. Krishnan, A. B. Pakhomov, Y. Bao, P. Blomqvist, Y. Chun, M. Gonzales, K. Griffin, X. Ji, and B. K. Roberts, J. Mater. Sci., 41, No. 3: 793 (2006).",
+				"tr":  "K. M. Krishnan, A. B. Pakhomov, Y. Bao, P. Blomqvist, Y. Chun, M. Gonzales, K. Griffin, X. Ji, and B. K. Roberts, J. Mater. Sci., 41, No. 3: 793 (2006)."
+			},
+			{
+				"doi": "10.1039/c1jm11845e",
+				"or":  "S. Singamaneni, V. N. Bliznyuk, C. Binek, and E. Y. Tsymbal, J. Mater. Chem., 21: 16819 (2011).",
+				"tr":  "S. Singamaneni, V. N. Bliznyuk, C. Binek, and E. Y. Tsymbal, J. Mater. Chem., 21: 16819 (2011)."
+			},
+			{
+				"doi": "10.1021/ct4008519",
+				"or":  "M. Długosz and J. M. Antosiewicz, J. Chem. Theory Comput., 10, No. 1: 481 (2014).",
+				"tr":  "M. Długosz and J. M. Antosiewicz, J. Chem. Theory Comput., 10, No. 1: 481 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Sahoo, Probability and Mathematical Statistics (Louisville University: 2013).",
+				"tr":  "P. Sahoo, Probability and Mathematical Statistics (Louisville University: 2013)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. В. Абрамов, П. П. Горбик, Поверхность: Межвед. сб. науч. тр. (Киев: Наукова думка: 2012), вып. 4(19): 246.",
+				"tr":  "N. V. Abramov and P. P. Gorbyk, Poverkhnost: Mezhved. Sb. Nauch. Tr. (Kiev: Naukova Dumka: 2012), Iss. 4(19): 246 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Такетоми, С. Тикадзуми, Магнитные жидкости (Москва: Мир: 1993).",
+				"tr":  "S. Taketomi and S. Tikadzumi, Magnitnye Zhidkosti [Magnetic Liquids] (Moscow: Mir: 1993) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Федоренко, П. П. Горбик, О. О. Чуйко, М. В. Абрамов, Д. Л. Старокадомський, А. Л. Петрановська, Доповіді НАН України, № 8: 161 (2004).",
+				"tr":  "O. M. Fedorenko, P. P. Gorbyk, O. O. Chuiko, M. V. Abramov, D. L. Starokadoms'kyi, and A. L. Petranovska, Dopov. Nac. Akad. Nauk Ukr., No. 8: 161 (2004) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. С. Семко, Л. П. Сторожук, П. П. Горбик, Е. И. Кручек, Н. В. Абрамов, Наноматериалы и нанокомпозиты в медицине, биологии, экологии (Ред. А. П. Шпак, В. Ф. Чехун) (Киев: Наукова думка: 2011), с. 309.",
+				"tr":  "L. S. Semko, L. P. Storozhuk, P. P. Gorbyk, Ye. I. Kruchek, and N. V. Abramov, Nanomaterialy i Nanokompozity v Meditsine, Biologii, Ekologii [Nanomaterials and Nanocomposites in Medicine, Biology, Ecology] (Eds. A. P. Shpak and V. F. Chekhun) (Kiev: Naukova Dumka: 2011), p. 309 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. С. Семко, Е. И. Кручек, С. В. Хуторной, П. П. Горбик, Наноматериалы и нанокомпозиты в медицине, биологии, экологии (Ред. А. П. Шпак, В. Ф. Чехун) (Киев: Наукова думка: 2011), с. 325.",
+				"tr":  "L. S. Semko, Ye. I. Kruchek, S. V. Khutornoy, and P. P. Gorbyk, Nanomaterialy i Nanokompozity v Meditsine, Biologii, Ekologii [Nanomaterials and Nanocomposites in Medicine, Biology, Ecology] (Eds. A. P. Shpak and V. F. Chekhun) (Kiev: Naukova Dumka: 2011), p. 325 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. С. Семко, О. І. Кручек, Л. П. Сторожук, П. П. Горбик, Металлофиз. новейшие технол., 33, № 7: 985 (2011).",
+				"tr":  "L. S. Semko, O. I. Kruchek, L. P. Storozhuk, and P. P. Gorbyk, Metallofiz. Noveishie Tekhnol., 33, No. 7: 985 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. С. Семко, О. И. Кручек, Ю. А. Шевляков, П. П. Горбик, Фізика і хімія твердого тіла, 10, № 2: 447 (2009).",
+				"tr":  "L. S. Semko, O. I. Kruchek, Yu. A. Shevlyakov, and P. P. Gorbyk, Fizyka i Khimiya Tverdogo Tila, 10, No. 2: 447 (2009) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. С. Семко, Ю. А. Шевляков, О. О. Чуйко, П. П. Горбик, Металлофиз. новейшие технол., 28, № 6: 729 (2006).",
+				"tr":  "L. S. Semko, Yu. A. Shevlyakov, O. O. Chuiko, and P. P. Gorbik, Metallofiz. Noveishie Tekhnol., 28, No. 6: 729 (2006) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, В. Н. Мищенко, Н. В. Абрамов, Ю. Н. Трощенков, Д. Г. Усов, Химия, физика и технология поверхности, вып. 1 (16): 165 (2009).",
+				"tr":  "P. P. Gorbyk, V. N. Mishchenko, N. V. Abramov, Yu. N. Troshchenkov, and D. G. Usov, Khimiya, Fizika i Tekhnologiya Poverkhnosti, 1, No. 16: 165 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, І. В. Дубровін, М. В. Абрамов, Поверхность: Межвед. сб. науч. тр. (Киев: Наукова думка: 2015), вып. 7(22): 186.",
+				"tr":  "P. P. Gorbyk, I. V. Dubrovin, and M. V. Abramov, Poverkhnost: Mezhved. Sb. Nauch. Tr. (Kyiv: Naukova Dumka: 2015), Iss. 7(22): 186 (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, І. В. Дубровін, М. В. Абрамов, Хімія, фізика та технологія поверхні, 8, № 2: 194 (2017).",
+				"tr":  "P. P. Gorbyk, I. V. Dubrovin, and M. V. Abramov, Khimiya, Fizyka ta Tekhnologiya Poverkhni, 8, No. 2: 194 (2017) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, І. В. Дубровін, М. В. Абрамов, Поверхность: Межвед. сб. науч. тр. (Êиев: Наукова думка: 2012), вып. 4(19): 232.",
+				"tr":  "P. P. Gorbyk, I. V. Dubrovin, and M. V. Abramov, Poverkhnost: Mezhved. Sb. Nauch. Tr. (Kyiv: Naukova Dumka: 2012), Iss. 4(19): 232 (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, А. Л. Петрановская, Е. В. Пилипчук, Н. В. Абрамов, Е. И. Оранская, А. М. Кордубан, Хімія, фізика та технологія поверхні, 2, вып. 4: 385 (2011).",
+				"tr":  "P. P. Gorbyk, A. L. Petranovska, Ie. V. Pylypchuk, N. V. Abramov, Ye. I. Oranska, and A. M. Korduban, Khimiya, Fizyka ta Tekhnologiya Poverkhni, 2, No. 4: 385 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, І. В. Дубровін, М. В. Абрамов, Хімія, фізика та технологія поверхні, 7, № 2: 133 (2016).",
+				"tr":  "P. P. Gorbyk, I. V. Dubrovin, and M. V. Abramov, Khimiya, Fizyka ta Tekhnologiya Poverkhni, 7, No. 2:133 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1088/0953-8984/18/39/035",
+				"or":  "M. Thakur, K. De, S. Giri, S. Si, A. Kotal, and T. K. Mandal, J. Phys.: Cond. Matt., 18, No. 39: 9093 (2006).",
+				"tr":  "M. Thakur, K. De, S. Giri, S. Si, A. Kotal, and T. K. Mandal, J. Phys.: Cond. Matt., 18, No. 39: 9093 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. В. Абрамов, Поверхность: Межвед. сб. науч. тр. (Êиев: Наукова думка: 2014), вып. 6(21): 241.",
+				"tr":  "N. V. Abramov, Poverkhnost: Mezhved. Sb. Nauch. Tr. (Kyiv: Naukova Dumka: 2014), Iss. 6(21): 241 (in Russian)."
+			},
+			{
+				"doi": "10.3938/jkps.52.1332",
+				"or":  "C. V. Thach, N. H. Hai, and N. Chau, Journal of the Korean Physical Society, 52, No. 5: 1332 (2008).",
+				"tr":  "C. V. Thach, N. H. Hai, and N. Chau, Journal of the Korean Physical Society, 52, No. 5: 1332 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, И. В. Дубровин, А. Л. Петрановская, М. П. Турелик, Л. П. Сторожук, В. Н. Мищенко, Н. В. Абрамов, С. П. Туранская, С. Н. Махно, Е. В. Пилипчук, В. Ф. Чехун, Н. Ю. Лукьянова, А. П. Шпак, А. М. Кордубан, Поверхность: Межвед. сб. науч. тр. (Киев: Наукова думка: 2010), вып. 2(17): 286.",
+				"tr":  "P. P. Gorbyk, I. V. Dubrovin, A. L. Petranovska, M. P. Turelyk, L. P. Storozhuk, V. N. Mishchenko, N. V. Abramov, S. P. Turanska, S. N. Makhno, Ie. V. Pylypchuk, V. F. Chekhun, N. Yu. Lukyanova, A. P. Shpak, and A. M. Korduban, Poverkhnost: Mezhved. Sb. Nauch. Tr. (Kyiv: Naukova Dumka: 2010), Iss. 2(17): 286 (2010) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.81.014420",
+				"or":  "M. Feygenson, A. Kou, L. E. Kreno, A. L. Tiano, J. M. Patete, F. Zhang, M. S. Kim, V. Solovyov, S. S. Wong, and M. C. Aronson, Phys. Rev. B, 81: 014420 (2010).",
+				"tr":  "M. Feygenson, A. Kou, L. E. Kreno, A. L. Tiano, J. M. Patete, F. Zhang, M. S. Kim, V. Solovyov, S. S. Wong, and M. C. Aronson, Phys. Rev. B, 81: 014420 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Чехун, Н. Ю. Лук’янова, П. П. Горбик, І. М. Тодор, А. Л. Петрановська, Н. В. Бошицька, І. В. Божко, Протипухлинний феромагнітний нанокомпозит: Патент України на корисну модель № 104786 U. В65D 21/00, 30/00, 33/00, 69/00, 71/00. Опубл. 25.02.2016. Бюл. № 4.",
+				"tr":  "V. F. Chekhun, N. Yu. Lukyanova, P. P. Gorbyk, I. M. Todor, A. L. Petranovska, N. V. Boshyts'ka, and I. V. Bozhko, Protypukhlynnyy Feromagnitnyy Nanokompozyt [Antitumor Ferromagnetic Nanocomposite]: Patent onto Useful Model of Ukraine 104786 U. B65D 21/00, 30/00, 33/00, 69/00, 71/00 (Publ. 25.02.2016. Bull. No. 4) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Чехун, Н. Ю. Лук’янова, П. П. Горбик, І. М. Тодор, А. Л. Петрановська, Н. В. Бошицька, І. В. Божко, Протипухлинний феромагнітний нанокомпозит: Патент України № 112490. A61K 33/26, H01F 1/44, B82У 5/00. Опубл. 12.09.2016, Бюл. № 17.",
+				"tr":  "V. F. Chekhun, N. Yu. Lukyanova, P. P. Gorbyk, I. M. Todor, A. L. Petranovska, N. V. Boshyts'ka, and I. V. Bozhko, Protypukhlynnyy Feromagnitnyy Nanokompozyt [Antitumor Ferromagnetic Nanocomposite]: Patent of Ukraine No. 112490. A61K 33/26, H01F 1/44, B82Y 5/00 (Publ. 12.09.2016. Bull. No. 17) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. П. Туранська, А. П. Кусяк, А. Л. Петрановська, С. В. Горобець, В. В. Туров, П. П. Горбик, Хімія, фізика та технологія поверхні, 7, № 2: 236 (2016).",
+				"tr":  "S. P. Turanska, A. P. Kusyak, A. L. Petranovska, S. V. Gorobets, V. V. Turov, and P. P. Gorbyk, Khimiya, Fizyka ta Tekhnologiya Poverkhni, 7, No. 2: 236 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, Поверхность: Межвед. сб. науч. тр. (Киев: Наукова думка: 2015), вып. 7(22): 297.",
+				"tr":  "P. P. Gorbyk, Poverkhnost: Mezhved. Sb. Nauch. Tr. (Kyiv: Naukova Dumka: 2015), Iss. 7(22): 297 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Протипухлинний нанокомпозит «Фероплат». http://files.nas.gov.ua/NASDevelopmentsBook/PDF/0760.pdf",
+				"tr":  "Protypukhlynnyy Nanokompozyt 'Feroplat' [Antitumor Nanocomposite 'Feroplat'] (in Ukrainian). http://files.nas.gov.ua/NASDevelopmentsBook/PDF/0760.pdf"
+			},
+			{
+				"doi": "",
+				"or":  "Е. В. Пилипчук, А. Л. Петрановская, П. П. Горбик, Наноструктур. материаловедение, № 3: 47 (2012).",
+				"tr":  "I. V. Pylypchuk, A. L. Petranovska, and P. P. Gorbyk, Nanostruktur. Materialovedenie, No. 3: 47 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. П. Турелик, С. В. Горобець, А. О. Македонська, П. П. Горбик, Наук. вісті НТУУ «КПІ», № 1: 149 (2012).",
+				"tr":  "M. P. Turelyk, S. V. Gorobets, A. O. Makedonska, and P. P. Gorbyk, Nauk. Visti NTUU 'KPI', No. 1: 149 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Є. В. Пилипчук, П. П. Горбик, Поверхность: Межвед. сб. науч. тр. (Киев: Наукова думка: 2014), вып. 6(21): 150.",
+				"tr":  "I. V. Pylypchuk and P. P. Gorbyk, Poverkhnost: Mezhved. Sb. Nauch. Tr. (Kyiv: Naukova Dumka: 2014), Iss. 6(21): 150 (in Ukrainian)."
+			},
+			{
+				"doi": "10.1186/s11671-016-1363-3",
+				"or":  "I. V. Pylypchuk, D. Kołodyńska, M. Kozioł, and P. P. Gorbyk, Nanoscale Res. Lett., 11, No. 1: 168 (2016).",
+				"tr":  "I. V. Pylypchuk, D. Kołodyńska, M. Kozioł, and P. P. Gorbyk, Nanoscale Res. Lett., 11, No. 1: 168 (2016)."
+			},
+			{
+				"doi": "10.1080/01496395.2017.1330830",
+				"or":  "I. V. Pylypchuk, D. Kolodynska, and P. P. Gorbyk, Separation Science and Technology, 53, Iss. 7: 1006 (2018).",
+				"tr":  "I. V. Pylypchuk, D. Kolodynska, and P. P. Gorbyk, Separation Science and Technology, 53, Iss. 7: 1006 (2018)."
+			},
+			{
+				"doi": "",
+				"or":  "Є. В. Пилипчук, Ю. О. Зубчук, А. Л. Петрановська, C. П. Туранська, П. П. Горбик, Хімія, фізика та технологія поверхні, 6, № 3: 326 (2015).",
+				"tr":  "I. V. Pylypchuk, Yu. O. Zubchuk, A. L. Petranovska, S. P. Turanska, and P. P. Gorbyk, Khimiya, Fizyka ta Tekhnologiya Poverkhni, 6, No. 3: 326 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, А. Л. Петрановська, Є. В. Пилипчук, О. А. Васильєва, Магнітокерований нейтронозахватний матеріал: Патент на корисну модель України № 94729. А61К 51/00, B01J 20/06. Опубл. 25.11.2014. Бюл. № 22.",
+				"tr":  "P. P. Gorbyk, A. L. Petranovska, I. V. Pylypchuk, and O. A. Vasylyeva, Magnitokerovanyy Neytronozakhvatnyy Material [Magnetocarried Neutron Capture Material]: Patent onto Useful Model of Ukraine No. 94729. A61K 51/00, B01J 20/06 (Publ. 25.11.2014. Bull. No. 22) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, А. Л. Петрановська, Є. В. Пилипчук, М. В. Абрамов, О. А. Васильєва, В. Б. Молодкін, М. П. Куліш, О. П. Дмитренко, Магніточутливий нейтронозахватний нанокомпозитний матеріал: Патент на корисну модель України № 91910. А61К 49/00, 51/00. Опубл. 25.07.2014. Бюл. № 14.",
+				"tr":  "P. P. Gorbyk, A. L. Petranovska, I. V. Pylypchuk, M. V. Abramov, O. A. Vasylyeva, V. B. Molodkin, M. P. Kulish, and O. P. Dmytrenko, Magnitochutlyvyy Neytronozakhvatnyy Nanokompozytnyy Material [Magnetosensitive Neutron Capture Nanocomposite Material]: Patent onto Useful Model of Ukraine No. 91910. A61K 49/00, 51/00 (Publ. 25.07.2014, Bull. No. 14) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. M. Kovaliuk, Ie. V. Pylypchuk, P. P. Gorbyk, B. O. Golichenko, Yu. L. Slaminsky, and Yu. L. Bricks, Ukrainian–German Symposium on Physics and Chemistry of Nanostructures and on Nanobiotechnology (Kyiv: 2015), p. 223.",
+				"tr":  "S. M. Kovaliuk, Ie. V. Pylypchuk, P. P. Gorbyk, B. O. Golichenko, Yu. L. Slaminsky, and Yu. L. Bricks, Ukrainian–German Symposium on Physics and Chemistry of Nanostructures and on Nanobiotechnology (Kyiv: 2015), p. 223."
+			},
+			{
+				"doi": "",
+				"or":  "S. M. Kovaliuk, Ie. V. Pylypchuk, P. P. Gorbyk, B. O. Golichenko, Yu. L. Slaminsky, and Yu. L. Bricks, Nanotechnology and Nanomaterials–NANO-2015 (Lviv, Ukraine, 2015), p. 507.",
+				"tr":  "S. M. Kovaliuk, Ie. V. Pylypchuk, P. P. Gorbyk, B. O. Golichenko, Yu. L. Slaminsky, and Yu. L. Bricks, Nanotechnology and Nanomaterials–NANO-2015 (Lviv, Ukraine, 2015), p. 507."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Ю. Вергун, П. П. Горбик, Е. П. Трохименко, Л. М. Исакова, Л. П. Сторожук, А. А. Чуйко, Доповіді НАН України, № 10: 140 (2006).",
+				"tr":  "L. Yu. Vergun, P. P. Gorbyk, Ye. P. Trochimenko, L. M. Isakova, L. P. Storozhuk, and O. O. Chuiko, Dopov. Nac. Akad. Nauk Ukr., No. 10: 140 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Ю. Вергун, Д. А. Климчук, П. П. Горбик, Л. А. Бондарь, П. М. Перехрестенко, Мікробіологічн. журнал, 71, № 5: 65 (2009).",
+				"tr":  "L. Yu. Vergun, D. A. Klimchuk, P. P. Gorbyk, L. A. Bondar', and P. M. Perekhrestenko, Mikrobiologichnyy Zhurnal, 71, No. 5: 65 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. С. Семко, Л. П. Сторожук, П. П. Горбик, М. В. Абрамов, О. І. Оранська, Наносистеми, наноматеріали, нанотехнології, 8, № 1: 101 (2010).",
+				"tr":  "L. S. Semko, L. P. Storozhuk, P. P. Gorbyk, M. V. Abramov, and O. I. Oranska, Nanosistemi, Nanomateriali, Nanotehnologii, 8, No. 1: 101 (2010) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Кусяк, А. Л. Петрановська, C. П. Туранська, П. П. Горбик, Наносистеми, наноматеріали, нанотехнології, 12, № 3: 451 (2014).",
+				"tr":  "A. P. Kusyak, A. L. Petranovska, S. P. Turanska, and P. P. Gorbyk, Nanosistemi, Nanomateriali, Nanotehnologii, 12, No. 3: 451 (2014) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Кусяк, А. Л. Петрановська, П. П. Горбик, Поверхность: Межвед. сб. науч. тр. (Киев: Наукова думка: 2016), вып. 8(23): 179.",
+				"tr":  "A. P. Kusyak, A. L. Petranovska, and P. P. Gorbyk, Poverkhnost: Mezhved. Sb. Nauch. Tr. (Kyiv: Naukova Dumka: 2016), Iss. 8(23): 179 (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Міщенко, П. П. Горбик, С. М. Махно, Р. В. Мазуренко, М. В. Абрамов, Поверхность: Межвед. сб. науч. тр. (Киев: Наукова думка: 2015), вып. 7(22): 227.",
+				"tr":  "V. M. Mishchenko, P. P. Gorbyk, S. M. Makhno, R. V. Mazurenko, and M. V. Abramov, Poverkhnost: Mezhved. Sb. Nauch. Tr. (Kyiv: Naukova Dumka: 2015), Iss. 7(22): 227 (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. П. Туранская, Н. В. Опанащук, Н. В. Кусяк, В. В. Туров, П. П. Горбик, Д. Б. Каргин, М. Ж. Кокарев, Поверхность: Межвед. сб. науч. тр. (Киев: Наукова думка: 2016), вып. 8(23): 187.",
+				"tr":  "S. P. Turanska, N. V. Opanashchuk, N. V. Kusyak, V. V. Turov, P. P. Gorbyk, D. B. Kargin, and M. Z. Kokarev, Poverkhnost: Mezhved. Sb. Nauch. Tr. (Kyiv: Naukova Dumka: 2016), Iss. 8(23): 187 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Кусяк, А. Л. Петрановська, П. П. Горбик, Поверхность: Межвед. сб. науч. тр. (Киев: Наукова думка: 2015), вып. 7(22): 213.",
+				"tr":  "A. P. Kusyak, A. L. Petranovska, and P. P. Gorbyk, Poverkhnost: Mezhved. Sb. Nauch. Tr. (Kyiv: Naukova Dumka: 2015), Iss. 7(22): 213 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1134/S0020168515040135",
+				"or":  "L. S. Semko, L. P. Storozhuk, S. V. Khutornoi, N. V. Abramov, and P. P. Gorbyk, Inorganic Materials, 51, No. 5: 430 (2015).",
+				"tr":  "L. S. Semko, L. P. Storozhuk, S. V. Khutornoi, N. V. Abramov, and P. P. Gorbyk, Inorganic Materials, 51, No. 5: 430 (2015)."
+			},
+			{
+				"doi": "10.1016/j.progsolidstchem.2005.11.010",
+				"or":  "S. Mornet, S. Vasseur, F. Grasset, P. Veverka, G. Goglio, A. Demourgues, J. Portier, E. Pollert, and E. Duguet, Prog. Sol. St. Chem., 34: 237 (2006).",
+				"tr":  "S. Mornet, S. Vasseur, F. Grasset, P. Veverka, G. Goglio, A. Demourgues, J. Portier, E. Pollert, and E. Duguet, Prog. Sol. St. Chem., 34: 237 (2006)."
+			},
+			{
+				"doi": "10.1063/1.3211307",
+				"or":  "D.-X. Chen, N. Sun, and H.-C. Gu, J. App. Phys., 106: 063906 (2009).",
+				"tr":  "D.-X. Chen, N. Sun, and H.-C. Gu, J. App. Phys., 106: 063906 (2009)."
+			},
+			{
+				"doi": "10.1016/j.jcat.2012.09.011",
+				"or":  "D. Baudouin, U. Rodemerck, F. Krumeich, A. de Mallmann, K. C. Szeto, H. Ménard, L. Veyre, J. P. Candy, P. B. Webb, C. Thieuleux, and C. Copéret, J. Catal., 297: 27 (2013).",
+				"tr":  "D. Baudouin, U. Rodemerck, F. Krumeich, A. de Mallmann, K. C. Szeto, H. Ménard, L. Veyre, J. P. Candy, P. B. Webb, C. Thieuleux, and C. Copéret, J. Catal., 297: 27 (2013)."
+			},
+			{
+				"doi": "10.1071/CH11444",
+				"or":  "J. M. Khurana and S. Yadav, Aust. J. Chem., 65: 314 (2012).",
+				"tr":  "J. M. Khurana and S. Yadav, Aust. J. Chem., 65: 314 (2012)."
+			},
+			{
+				"doi": "10.1039/c2cc38737a",
+				"or":  "R. Bussamara, D. Eberhardt, A. F. Feil, P. Migowski, H. Wender, D. P. de Moraes, G. Machado, R. M. Papaléo, S. R. Teixeira, and J. Dupont, Chem. Commun., 49: 1273 (2013).",
+				"tr":  "R. Bussamara, D. Eberhardt, A. F. Feil, P. Migowski, H. Wender, D. P. De Moraes, G. Machado, R. M. Papaléo, S. R. Teixeira, and J. Dupont, Chem. Commun., 49: 1273 (2013)."
+			},
+			{
+				"doi": "10.1002/anie.200454088",
+				"or":  "K. B. Lee, S. Park, and C. A. Mirkin, Angew. Chem. Int. Ed., 43: 3048 (2004).",
+				"tr":  "K. B. Lee, S. Park, and C. A. Mirkin, Angew. Chem. Int. Ed., 43: 3048 (2004)."
+			},
+			{
+				"doi": "10.1063/1.3690044",
+				"or":  "P. Kalita, J. Singh, M. K. Singh, P. R. Solanki, G. Sumana, and B. D. Malhotra, Appl. Phys. Lett., 100: 093702 (2012).",
+				"tr":  "P. Kalita, J. Singh, M. K. Singh, P. R. Solanki, G. Sumana, and B. D. Malhotra, Appl. Phys. Lett., 100: 093702 (2012)."
+			},
+			{
+				"doi": "10.1166/jnn.2009.051",
+				"or":  "F. Ma, J. J. Huang, J. G. Li, and Q. Li, J. Nanosci. Nanotechnol., 9: 3219 (2009).",
+				"tr":  "F. Ma, J. J. Huang, J. G. Li, and Q. Li, J. Nanosci. Nanotechnol., 9: 3219 (2009)."
+			},
+			{
+				"doi": "10.1088/0953-8984/19/34/346220",
+				"or":  "A. Roy, V. Srinivas, S. Ram, and T. V. Chandrasekhar-Rao, J. Phys.: Condens. Matter, 19: 346220 (2007).",
+				"tr":  "A. Roy, V. Srinivas, S. Ram, and T. V. Chandrasekhar-Rao, J. Phys.: Condens. Matter, 19: 346220 (2007)."
+			},
+			{
+				"doi": "10.1088/0957-4484/19/43/435102",
+				"or":  "Y. Xu, M. Mahmood, Z. Li, E. Dervishi, S. Trigwell, V. P. Zharov, N. Ali, V. Saini, A. R. Biris, D. Lupu, D. Boldor, and A. S. Biris, Nanotechnology, 19: 435102 (2008).",
+				"tr":  "Y. Xu, M. Mahmood, Z. Li, E. Dervishi, S. Trigwell, V. P. Zharov, N. Ali, V. Saini, A. R. Biris, D. Lupu, D. Boldor, and A. S. Biris, Nanotechnology, 19: 435102 (2008)."
+			},
+			{
+				"doi": "10.1021/jp2085846",
+				"or":  "V. R. Galakhov, A. Buling, M. Neumann, N. A. Ovechkina, A. S. Shkvarin, A. S. Semenova, M. A. Uimin, A. Ye. Yermakov, E. Z. Kurmaev, O. Y. Vilkov, and D. W. Boukhvalov, J. Phys. Chem. C, 115: 24615 (2011).",
+				"tr":  "V. R. Galakhov, A. Buling, M. Neumann, N. A. Ovechkina, A. S. Shkvarin, A. S. Semenova, M. A. Uimin, A. Ye. Yermakov, E. Z. Kurmaev, O. Y. Vilkov, and D. W. Boukhvalov, J. Phys. Chem. C, 115: 24615 (2011)."
+			},
+			{
+				"doi": "10.1002/cphc.201200831",
+				"or":  "A. Ye. Yermakov, D. W. Boukhvalov, M. A. Uimin, E. S. Lokteva, A. V. Erokhin, and N. N. Shchegoleva, Chem. Phys. Phys. Chem., 14: 381 (2013).",
+				"tr":  "A. Ye. Yermakov, D. W. Boukhvalov, M. A. Uimin, E. S. Lokteva, A. V. Erokhin, and N. N. Shchegoleva, Chem. Phys. Phys. Chem., 14: 381 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Akamaru, M. Inoue, Y. Honda, A. Taguchi, and T. Abe, Jpn. J. Appl. Phys., 51: 065201 (2012).",
+				"tr":  "S. Akamaru, M. Inoue, Y. Honda, A. Taguchi, and T. Abe, Jpn. J. Appl. Phys., 51: 065201 (2012)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2010.06.050",
+				"or":  "M. Maicas, M. Sanz, H. Cui, C. Aroca, and P. Sánchez, J. Magn. Magn. Mater., 322: 3485 (2010).",
+				"tr":  "M. Maicas, M. Sanz, H. Cui, C. Aroca, and P. Sánchez, J. Magn. Magn. Mater., 322: 3485 (2010)."
+			},
+			{
+				"doi": "10.1143/JPSJ.79.083501",
+				"or":  "G. Saito, S. Hosokai, T. Akiyama, S. Yoshida, S. Yatsu, and S. Watanabe, J. Phys. Soc. Jpn., 79: 083501 (2010).",
+				"tr":  "G. Saito, S. Hosokai, T. Akiyama, S. Yoshida, S. Yatsu, and S. Watanabe, J. Phys. Soc. Jpn., 79: 083501 (2010)."
+			},
+			{
+				"doi": "10.1016/j.matlet.2009.08.016",
+				"or":  "P. Calandra, Mater. Lett., 63: 2416 (2009).",
+				"tr":  "P. Calandra, Mater. Lett., 63: 2416 (2009)."
+			},
+			{
+				"doi": "10.1021/jp302372r",
+				"or":  "I. Gonzalez, J. C. De-Jesus, E. Cañizales, B. Delgado, and C. Urbina, J. Phys. Chem. C, 116: 21577 (2012).",
+				"tr":  "I. Gonzalez, J. C. De-Jesus, E. Ca-izales, B. Delgado, and C. Urbina, J. Phys. Chem. C, 116: 21577 (2012)."
+			},
+			{
+				"doi": "10.1166/jnn.2011.4488",
+				"or":  "S. Choo, K. Lee, Y. Jo, S. M. Yoon, J. Y. Choi, J. Y. Kim, J. H. Park, K. J. Lee, J. H. Lee, and M. H. Jung, J. Nanosci. Nanotechnol., 11: 6126 (2011).",
+				"tr":  "S. Choo, K. Lee, Y. Jo, S. M. Yoon, J. Y. Choi, J. Y. Kim, J. H. Park, K. J. Lee, J. H. Lee, and M. H. Jung, J. Nanosci. Nanotechnol., 11: 6126 (2011)."
+			},
+			{
+				"doi": "10.1007/s11051-010-9941-2",
+				"or":  "A. Kotoulas, M. Gjoka, K. Simeonidis, I. Tsiaoussis, M. Angelakeris, O. Kalogirou, and C. Dendrinou-Samara, J. Nanopart. Res., 13: 1897 (2011).",
+				"tr":  "A. Kotoulas, M. Gjoka, K. Simeonidis, I. Tsiaoussis, M. Angelakeris, O. Kalogirou, and C. Dendrinou-Samara, J. Nanopart. Res., 13: 1897 (2011)."
+			},
+			{
+				"doi": "10.1021/jp1104196",
+				"or":  "K. J. Carroll, J. Ulises-Reveles, M. D. Shultz, S. N. Khanna, and E. E. Carpenter, J. Phys. Chem. C, 115: 2656 (2011).",
+				"tr":  "K. J. Carroll, J. Ulises-Reveles, M. D. Shultz, S. N. Khanna, and E. E. Carpenter, J. Phys. Chem. C, 115: 2656 (2011)."
+			},
+			{
+				"doi": "10.1088/0957-4484/20/41/415603",
+				"or":  "T. Bala, R. D. Gunning, M. Venkatesan, J. F. Godsell, S. Roy, and K. M. Ryan, Nanotechnology, 20: 415603 (2009).",
+				"tr":  "T. Bala, R. D. Gunning, M. Venkatesan, J. F. Godsell, S. Roy, and K. M. Ryan, Nanotechnology, 20: 415603 (2009)."
+			},
+			{
+				"doi": "10.1039/C1DT11395J",
+				"or":  "Y. Yamauchi, T. Itagaki, T. Yokoshima, and K. Kuroda, Dalton Trans., 41: 1210 (2012).",
+				"tr":  "Y. Yamauchi, T. Itagaki, T. Yokoshima, and K. Kuroda, Dalton Trans., 41: 1210 (2012)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.45.9778",
+				"or":  "S. Gangopadhyay, G. C. Hadjipanayis, B. Dale, C. M. Sorensen, K. J. Klabunde, V. Papaefthymiou, and A. Kostikas, Phys. Rev. B, 45: 9778 (1992).",
+				"tr":  "S. Gangopadhyay, G. C. Hadjipanayis, B. Dale, C. M. Sorensen, K. J. Klabunde, V. Papaefthymiou, and A. Kostikas, Phys. Rev. B, 45: 9778 (1992)."
+			},
+			{
+				"doi": "10.1021/cm991018f",
+				"or":  "M. P. Morales, S. Veintemillas-Verdaguer, M. I. Montero, C. J. Serna, A. Roig, L. Casas, B. Martınez, and F. Sandiumenge, Chem. Mater., 11: 3058 (1999).",
+				"tr":  "M. P. Morales, S. Veintemillas-Verdaguer, M. I. Montero, C. J. Serna, A. Roig, L. Casas, B. Martınez, and F. Sandiumenge, Chem. Mater., 11: 3058 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. С. Семко, П. П. Горбик, О. Г. Сіренко, І. В. Дубровін, Н. В. Абрамов, О. І. Оранська, Химия, физика и технология поверхности, вып. 14: 374 (2008).",
+				"tr":  "L. S. Semko, P. P. Gorbyk, O. G. Sirenko, I. V. Dubrovin, N. V. Abramov, and O. I. Oranska, Khimiya, Fizika i Tekhnologiya Poverkhnosti, No. 14: 374 (2008) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Л. Петрановская, Д. Г. Усов, Н. В. Абрамов, Ю. А. Демченко, П. П. Горбик, А. М. Кордубан, Химия, физика и технология поверхности, № 13: 310 (2007).",
+				"tr":  "A. L. Petranovska, D. G. Usov, N. V. Abramov, Yu. A. Demchenko, P. P. Gorbyk, and A. M. Korduban, Khimiya, Fizika i Tekhnologiya Poverkhnosti, No. 13: 310 (2007) (in Russian)."
+			}
+		]
+	}
+}

@@ -1,0 +1,181 @@
+{
+	"_id":    "MFiNT.36.04.0477",
+	"year":   2014,
+	"volume": 36,
+	"issue":  4,
+	"pages":  [477,490],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["18.11.2013"],
+	"PACS":   "06.60.Vz, 61.05.cp, 61.46.Hk, 64.30.Ef, 65.40.gd, 81.20.Ev",
+	"title":   {
+		"ua": "Формування структури і фазового складу нанокристалічного стопу CuNiAlFeCr методом механічного легування",
+		"en": "Formation of Structure and Phase Composition of Nanocrystalline CuNiAlFeCr Alloy by the Mechanical Alloying Method",
+		"ru": "Формирование структуры и фазового состава нанокристаллического сплава CuNiAlFeCr методом механического легирования"
+	},
+	"abstract": {
+		"ua": "В процесі механічного леґування п’ятикомпонентної порошкової суміші еквіатомового складу синтезовано високоентропійний стоп CuNiAlFeCr у наноструктурному стані. Методами рентґеноструктурного аналізу та сканівної електронної мікроскопії одержано експериментальні дані про особливості формування високоентропійного стопу CuNiAlFeCr на різних етапах механічного леґування в планетарному млині. За результатами структурних досліджень встановлено формування однофазного ОЦК-твердого розчину з періодом кристалічної ґратниці $a = 0,2892$ нм та розміром кристалітів, меншим за 20 нм.",
+		"en": "The synthesis of high-entropy nanocrystalline equiatomic CuNiAlFeCr alloy by mechanical alloying in a planetary ball mill is described. Alloying behaviour, phase formation and structure of five-component alloy are investigated by X-ray diffraction analysis and scanning electron microscopy. The effects of milling duration on the structure and morphology evolution are investigated. The formation of high-entropy CuNiAlFeCr alloy in the form of body-centred cubic solid solution with lattice parameter $a = 0.2892$ nm and crystallite size less than 20 nm is determined.",
+		"ru": "В процессе механического легирования пятикомпонентной порошковой смеси эквиатомного состава синтезирован высокоэнтропийный сплав CuNiAlFeCr в наноструктурном состоянии. Методами рентгеноструктурного анализа и сканирующей электронной микроскопии получены экспериментальные данные об особенностях формирования высокоэнтропийного сплава CuNiAlFeCr на разных этапах механического легирования в планетарной мельнице. На основании результатов структурных исследований установлено формирование однофазного ОЦК-твёрдого раствора с периодом кристаллической решётки $a = 0,2892$ нм и размером кристаллитов меньше 20 нм."
+	},
+	"keywords": {
+		"ua": "фазовий склад, структура, твердий розчин, високоентропійні стопи, механічне леґування",
+		"en": "phase composition, structure, solid solution, high-entropy alloys, mechanical alloying",
+		"ru": "фазовый состав, структура, твёрдый раствор, высокоэнтропийные сплавы, механическое легирование"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. І. Юркова", "en": "O. I. Yurkova", "ru": "A. И. Юркова"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "В. В. Чернявський", "en": "V. V. Cherniavsky", "ru": "В. В. Чернявский"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "О. І. Кравченко", "en": "O. I. Kravchenko", "ru": "А. И. Кравченко"},
+			"OID": [202]
+		}
+	],
+	"references": {
+		"count": 27,
+		"list":  [
+			{
+				"doi": "10.1002/adem.200300567",
+				"or":  "J. W. Yeh, S. K. Chen, S. J. Lin, J. Y. Gan, T. S. Chin, T. T. Shun, C. H. Tsau, and S.-Y. Chang, J. Adv. Eng. Mater., 6: 299 (2004).",
+				"tr":  "J. W. Yeh, S. K. Chen, S. J. Lin, J. Y. Gan, T. S. Chin, T. T. Shun, C. H. Tsau, and S.-Y. Chang, J. Adv. Eng. Mater., 6: 299 (2004)."
+			},
+			{
+				"doi": "10.1007/s11661-006-0234-4",
+				"or":  "J. W. Yeh, S. K. Chen, J. Y. Gan, S. J. Lin, T. S. Chin, T. T. Shun, C. H. Tsau, and S. Y. Chang, Metall. Mater. Trans. A, 35: 2533 (2004).",
+				"tr":  "J. W. Yeh, S. K. Chen, J. Y. Gan, S. J. Lin, T. S. Chin, T. T. Shun, C. H. Tsau, and S. Y. Chang, Metall. Mater. Trans. A, 35: 2533 (2004)."
+			},
+			{
+				"doi": "10.1002/adem.200300507",
+				"or":  "P. K. Huang, J. W. Yeh, T. T. Shun, and S. K. Chen, J. Adv. Eng. Mater., 6: 74 (2004).",
+				"tr":  "P. K. Huang, J. W. Yeh, T. T. Shun, and S. K. Chen, J. Adv. Eng. Mater., 6: 74 (2004)."
+			},
+			{
+				"doi": "10.3166/acsm.31.633-648",
+				"or":  "J. W. Yeh, Ann. Chim. Sci. Mat., 31: 633 (2006).",
+				"tr":  "J. W. Yeh, Ann. Chim. Sci. Mat., 31: 633 (2006)."
+			},
+			{
+				"doi": "10.1002/adem.200700240",
+				"or":  "Y. Zhang, Y. J. Zhou, J. P. Lin, G. L. Chen, and P. K. Liaw, J. Adv. Eng. Mater., 10, No. 6: 534 (2008).",
+				"tr":  "Y. Zhang, Y. J. Zhou, J. P. Lin, G. L. Chen, and P. K. Liaw, J. Adv. Eng. Mater., 10, No. 6: 534 (2008)."
+			},
+			{
+				"doi": "10.3166/acsm.31.633-648",
+				"or":  "J.-W. Yeh, Annales de Chimie: Science des Materiaux, 31: 633 (2006).",
+				"tr":  "J.-W. Yeh, Annales de Chimie: Science des Materiaux, 31: 633 (2006)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.560.1",
+				"or":  "J.-W. Yeh, Y.-L. Chen, S.-J. Lin, and S.-K. Chen, Mater. Sci. Forum, 560: 1 (2007).",
+				"tr":  "J.-W. Yeh, Y.-L. Chen, S.-J. Lin, and S.-K. Chen, Mater. Sci. Forum, 560: 1 (2007)."
+			},
+			{
+				"doi": "10.1016/j.proeng.2012.03.043",
+				"or":  "X. Yang, Y. Zhang, and P. K. Liaw, J. Procedia Engineering, 36: 292 (2012).",
+				"tr":  "X. Yang, Y. Zhang, and P. K. Liaw, J. Procedia Engineering, 36: 292 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Greer, J. Thermodynamics of Solids, 336: 303 (1993).",
+				"tr":  "A. Greer, J. Thermodynamics of Solids, 336: 303 (1993)."
+			},
+			{
+				"doi": "10.1016/j.msea.2003.10.257",
+				"or":  "B. Cantor, I. T. H. Chang, P. Knight, and A. J. B. Vincent, Mater. Sci. Eng. A, 375-377: 213 (2004).",
+				"tr":  "B. Cantor, I. T. H. Chang, P. Knight, and A. J. B. Vincent, Mater. Sci. Eng. A, 375-377: 213 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Guo and C. T. Liu, Progr. Mater. Sci.: Materials International, 21: 433 (2011).",
+				"tr":  "S. Guo and C. T. Liu, Progr. Mater. Sci.: Materials International, 21: 433 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "K. B. Zhang, Z. Y. Fu, and J. Y. Zhang, J. Mater. Sci. Eng., 1: 1 (2011).",
+				"tr":  "K. B. Zhang, Z. Y. Fu, and J. Y. Zhang, J. Mater. Sci. Eng., 1: 1 (2011)."
+			},
+			{
+				"doi": "10.1007/s10853-010-4246-5",
+				"or":  "S. Varalakshmi, G. A. Rao, M. Kamaraj, and B. S. Murty, J. Mater. Sci., 19: 5158 (2010).",
+				"tr":  "S. Varalakshmi, G. A. Rao, M. Kamaraj, and B. S. Murty, J. Mater. Sci., 19: 5158 (2010)."
+			},
+			{
+				"doi": "10.1007/s11661-010-0344-x",
+				"or":  "S. Varalakshmi, M. Kamaraj, and B. S. Murty, J. Metall. Mater. Trans. A, 10: 2703 (2010).",
+				"tr":  "S. Varalakshmi, M. Kamaraj, and B. S. Murty, J. Metall. Mater. Trans. A, 10: 2703 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. С. Уманский, Ю. А. Скаков, А. Н. Иванов, Л. Н. Расторгуев, Кристаллография, рентгенография и электронная микроскопия (Москва: Металлургия: 1982).",
+				"tr":  "Ya. S. Umanskiy, Yu. A. Skakov, A. N. Ivanov, and L. N. Rastorguev, Kristallografiya, Rentgenografiya i Ehlektronnaya Mikroskopiya (Moscow: Metallurgiya: 1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Kittel, Introduction to Solid State Physics (New York: John Wiley and Sons: 1996).",
+				"tr":  "C. Kittel, Introduction to Solid State Physics (New York: John Wiley and Sons: 1996)."
+			},
+			{
+				"doi": "10.1007/978-1-4899-3051-4",
+				"or":  "D. A. Porter and K. E. Easterling, Phase Transformations in Metals and Alloys (London: CRC Press: 1992).",
+				"tr":  "D. A. Porter and K. E. Easterling, Phase Transformations in Metals and Alloys (London: CRC Press: 1992)."
+			},
+			{
+				"doi": "",
+				"or":  "N. N. Greenwood and A. Earnshaw, Chemistry of the Elements (Oxford: Elsevier: 1997).",
+				"tr":  "N. N.Greenwood and A. Earnshaw, Chemistry of the Elements (Oxford: Elsevier: 1997)."
+			},
+			{
+				"doi": "10.1016/j.matchemphys.2007.01.003",
+				"or":  "J.-W. Yeh, S. Y. Chang, Y. D. Hong et al., J. Mater. Chem. Phys., 103: 41 (2007).",
+				"tr":  "J.-W. Yeh, S. Y. Chang, Y. D. Hong and et al., J. Mater. Chem. Phys., 103: 41 (2007)."
+			},
+			{
+				"doi": "10.1080/13642819008219287",
+				"or":  "L. Shultz, Philos. Mag. B, 61: 453 (1990).",
+				"tr":  "L. Shultz, Philos. Mag. B, 61: 453 (1990)."
+			},
+			{
+				"doi": "10.1016/S0079-6425(99)00010-9",
+				"or":  "C. Suryanarayana, Progr. Mater. Sci., 46: 1 (2001).",
+				"tr":  "C. Suryanarayana, Progr. Mater. Sci., 46: 1 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "F. R. de Boer, Cohesion in Metals (Amsterdam: North-Holland: 1988).",
+				"tr":  "F. R. de Boer, Cohesion in Metals (Amsterdam: North-Holland: 1988)."
+			},
+			{
+				"doi": "10.2320/matertrans1989.41.1372",
+				"or":  "A. Takeuchi and A. Inoue, Mater. Trans., 41: 1372 (2000).",
+				"tr":  "A. Takeuchi and A. Inoue, Mater. Trans., 41: 1372 (2000)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(00)01446-5",
+				"or":  "A. Takeuchi and A. Inoue, Mater. Sci. Eng. A, 304: 446 (2001).",
+				"tr":  "A. Takeuchi and A. Inoue, Mater. Sci. Eng. A, 304: 446 (2001)."
+			},
+			{
+				"doi": "10.1063/1.351028",
+				"or":  "H. X. Sui, M. Zhu, M. Qi et al., J. Appl. Phys., 71: 2945 (1930).",
+				"tr":  "H. X. Sui, M. Zhu, M. Qi et al., J. Appl. Phys., 71: 2945 (1930)."
+			},
+			{
+				"doi": "10.1016/0965-9773(95)00299-5",
+				"or":  "B. I. Huang, K. J. Perez, E. J. Lavemia, and M. J. Lutton, J. Nanostructured Mater., 7: 67 (1996).",
+				"tr":  "B. I. Huang, K. J. Perez, E. J. Lavemia, and M. J. Lutton, J. Nanostructured Mater., 7: 67 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "R. E. Reed-Hill and R. Abbaschian, Physical Metallurgy Principles (Boston: PWS Publishing: 1994).",
+				"tr":  "R. E. Reed-Hill and R. Abbaschian, Physical Metallurgy Principles (Boston: PWS Publishing: 1994)."
+			}
+		]
+	}
+}

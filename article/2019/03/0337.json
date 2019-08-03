@@ -1,0 +1,156 @@
+{
+	"_id":    "MFiNT.41.03.0337",
+	"year":   2019,
+	"volume": 41,
+	"issue":  3,
+	"pages":  [337,247],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["03.09.2018"],
+	"PACS":   "62.20.Qp, 68.35.Gy, 68.55.J-, 68.55.Ln, 81.40.Pq, 81.65.Kn",
+	"title":   {
+		"ua": "Контактна витривалість та зносостійкість боридних покриттів при терті кочення",
+		"en": "Contact Resistance and Durability of Boride Coats at Rolling Friction",
+		"ru": "Контактная выносливость и износостойкость боридных покрытий при трении качения"
+	},
+	"abstract": {
+		"ua": "Подано результати дослідження контактної витривалості та зносостійкості боридних покриттів, що наносилися на сталі 40Х і ШХ15 методом хіміко-термічної обробки з борвмісних порошків з додаванням міді при дії зовнішнього магнітного поля. Досліджено кінетику та механізм зношування боридних покриттів у середовищі мастила І-20 при тиску на ділянці контакту 1860 МПа у процесі тертя кочення з лінійним контактом. Визначено довговічність зразків з боридними покриттями на цих сталях при терті кочення до появи пітінгу в даних умовах випробувань. Встановлено, що контактна витривалість сталей ШХ15 і 40Х з боридними покриттями з участю міді відповідно в 8,6 та 13,7 разів більша порівняно з цими сталями без покриттів.",
+		"en": "The article represents the results of the study of contact resistance and durability of boride coatings that are applied to 40Kh and ShKh15 steels with the use of the method of chemical-thermal processing of boron-containing powders with copper adding under the influence of external magnetic field. Kinetics and mechanism of wear of boride coatings are studied in I-20 lubricant under the pressure of 1860 MPa in the contact area during the process of rolling friction with linear contact. Endurance of samples with boride coatings on these steels at rolling friction before pitting starts under the given test conditions is defined. As determined, the contact resistance of ShKh15 and 40Kh steels with boride coating with copper is 8.6 and 13.7 times more than corresponding values for these steels without coating.",
+		"ru": "Представлены результаты исследований контактной выносливости и износостойкости боридних покрытий, которые наносились на стали 40Х и ШХ15 методом химико-термической обработки из борсодержащих порошков с добавлением меди при действии внешнего магнитного поля. Исследована кинетика и механизм изнашивания боридных покрытий в среде масла И-20 при давлении на участке контакта 1860 МПа в процессе трения качения с линейным контактом. Определена долговечность образцов с боридными покрытиями на этих сталях при трении качения к появлению питтинга в данных условиях испытаний. Установлено, что контактная выносливость сталей ШХ15 и 40Х с боридными покрытиями с участием меди соответственно в 8,6 и 13,7 раз больше по сравнению с этими сталями без покрытий."
+	},
+	"keywords": {
+		"ua": "мікротвердість, зносостійкість, тріщиностійкість, дифузія, борування, бороміднення",
+		"en": "microhardness, durability, crack growth resistance, diffusion, boriding, boride and copper coating",
+		"ru": "микротвёрдость, износостойкость, трещиностойкость, диффузия, борирование, боромеднение"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. М. Чернега", "en": "S. M. Cherneha", "ru": "С. М. Чернега"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "П. В. Каплун", "en": "P. V. Kaplun", "ru": "П. В. Каплун"},
+			"OID": [272]
+		},
+		{
+			"AID": {"ua": "В. А. Гончар", "en": "V. A. Honchar", "ru": "В. А. Гончар"},
+			"OID": [272]
+		}
+	],
+	"references": {
+		"count": 22,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "К. Джонсон, Механика контактного взаимодействия (Москва: Мир: 1989).",
+				"tr":  "K. Johnson, Mekhanika Kontaktnogo Vzaimodeystviya [Contact Mechanics] (Moscow: Mir: 1989) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. К. Трубин, Контактная усталость материалов для зубчатых колес (Москва: Машгиз: 1962).",
+				"tr":  "G. K. Trubin, Kontaktnaya Ustalost Materialov dlya Zubchatykh Koles [Contact Fatigue of Materials for Gears] (Moscow: Mashgiz: 1962) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Зинченко, Инженерия поверхности зубчатых колес методами химико-термической обработки (Москва: МГТУ им. Н. Э. Баумана: 2001).",
+				"tr":  "V. M. Zinchenko, Inzheneriya Poverkhnosti Zubchatykh Koles Metodami Khimiko-Termicheskoy Obrabotki [Engineering of the Surface of Gears by Methods of Chemical Heat Treatment] (Moscow: MGTU im. N. E. Baumana: 2001) (in Russian)."
+			},
+			{
+				"doi": "10.1007/BF00693330",
+				"or":  "O. V. Zaitsev, V. G. Kaplun, S. V. Ivashchuk, and P. E. Filyushin, Metal Science and Heat Treatment, 32: 650 (1990).",
+				"tr":  "O. V. Zaitsev, V. G. Kaplun, S. V. Ivashchuk, and P. E. Filyushin, Metal Science and Heat Treatment, 32: 650 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "П. В. Каплун, К. А. Паршенко, Підвищення зносостійкості підшипників кочення (Хмельницький: ХНУ, 2016).",
+				"tr":  "P. V. Kaplun and K. A. Parshenko, Pidvyshchennya Znosostiykosti Pidshypnykiv Kochennya [Increase of Wear Resistance of Roller Bearings] (Khmelnytsky: KhNU: 2016) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. В. Каплун, Проблеми трибології, 80, № 2: 15 (2016).",
+				"tr":  "P. V. Kaplun and B. A. Lyashenko, Problemy Trybolohiyi, 80, No. 2: 15 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. В. Каплун, О. В. Диха, В. А. Гончар, Фізико-хімічна механіка матеріалів, Вип. 4: 42 (2017).",
+				"tr":  "P. V. Kaplun, O. V. Dykha, and V. A. Honchar, Fizyko-Khimichna Mekhanika Materialiv, Iss. 4: 42 (2017) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1007/s11223-017-9824-1",
+				"or":  "П. В. Каплун, Б.А. Ляшенко, Пробл. прочности, № 6: 56 (2016).",
+				"tr":  "P. V. Kaplun and B. A. Lyashenko, Strength Mater., 48, Iss. 6: 777 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "П. В. Каплун, Фізико-хімічна механіка матеріалів, Вип. 6: 68 (2017).",
+				"tr":  "P. V. Kaplun, Fizyko-Khimichna Mekhanika Materialiv, Iss. 6: 68 (2017) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. В. Каплун, В. А. Гончар, Фізико-хімічна механіка матеріалів, Вип. 3: 95 (2016).",
+				"tr":  "P. V. Kaplun and V. A. Honchar, Fizyko-Khimichna Mekhanika Materialiv, Iss. 3: 95 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "10.3103/S0025654411060100",
+				"or":  "Е. В. Торская, Механика твердого тела, № 6: 122 (2011).",
+				"tr":  "E. V. Torskaya, Mech. Solids, 46, Iss. 6: 913 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Д. Грозин, Б. И. Костецкий, Вестник машиностроения, № 12: 36 (1947).",
+				"tr":  "B. D. Grozin and B. I. Kostetskiy, Vestnik Mashynostroeniya, No. 12: 36 (1947) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Осипян, Труды НАТИ, Вып. 43: 65 (1945).",
+				"tr":  "A. V. Osipyan, Trudy NATI, Iss. 43: 65 (1945) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Пинегин, Контактная прочность и сопротивление качению (Москва: Машиностроение: 1969).",
+				"tr":  "S. V. Pinegin, Kontaktnaya Prochnost i Soprotivlenie Kacheniyu [Contact Strength and Rolling Resistance] (Moscow: Mashinostroenie: 1969) (in Russian)."
+			},
+			{
+				"doi": "10.1134/S0033173206020056",
+				"or":  "Ю. А. Баландин, Защита металлов, 42, № 2: 150 (2006).",
+				"tr":  "Yu. A. Balandin, Protection of Metals, 42, No. 2: 137 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Алиев, В. П. Булгаков, Б. С. Приходько, Вестник Астраханского государственного технического университета, № 2: 91 (2005).",
+				"tr":  "A. A. Aliev, V. P. Bulgakov, and B. S. Pryhodko, Vestnik Astrakhanskogo Gosudarstvennogo Tekhnicheskogo Universiteta, No. 2: 91 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. М. Чернега, І. А. Поляков, І. О. Красовський, Металознавство та обробка металів, 76, № 4: 51 (2015).",
+				"tr":  "S. M. Chernega, I. A. Polyakov, and I. O. Krasovskyi, Metaloznavstvo ta Obrobka Metaliv, 76, No. 4: 51 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. М. Чернега, І. А. Поляков, Вісник Національного технічного університету України «Київський політехнічний інститут», Серія «Машинобудування», 2, № 61: 104 (2011).",
+				"tr":  "S. M. Chernega and I. A. Polyakov, Visnyk Natsionalnogo Tekhnichnogo Universytetu Ukrayiny «Kyivskyi Politekhnichnyi Instytut», Seriya «Mashynobuduvannya», 2, No. 61: 104 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1007/s11253-015-1080-6",
+				"or":  "С. М. Чернега, І. А. Поляков, М. О. Красовський, Проблеми тертя та зношування, 67, № 2: 141 (2015).",
+				"tr":  "S. M. Chernega, I. A. Polyakov, and I. O. Krasovskyi, Problemy Tertya ta Znoshuvannya, 67, No. 2: 141 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. В. Каплун, В. А. Гончар, А. В. Паршенко, Спосіб випробувань на контактну витривалість при коченні з проковзуванням, Патент 106181 UA. МПК (2016.01), G01L 1/00 (Опубл. 25.04.2016, бюл. № 8) (2016).",
+				"tr":  "P. V. Kaplun, V. A. Honchar, and K. A. Parshenko, Sposib Vyprobuvan na Kontaktnu Vytryvalist pry Kochenni z Prokovzuvannyam [Method of Contact Durability Testing under Rolling with Slipping], Patent 106181 UA. MPK (2016.01), G01L 1/00 (Publ. April 25, 2016, bull. No. 8) (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. М. Чернега, І. А. Поляков, І. Ю. Медова, Склад порошкової суміші для бороміднення сталевих виробів, Патент 83894 UA, МПК (2013.01), C23C 8/00 (Опубл. 10.10.2013, бюл. № 19) (2013).",
+				"tr":  "S. M. Cherneha, I. A. Polyakov, and I. Yu. Medova, Sklad Poroshkovoyi Sumishi dlya Boromidnennya Stalevykh Vyrobiv [Composition of Powder Mixture for Boride and Copper Coating of Steel Products], Patent 83894 UA, MPK (2013.01), C23C 8/00 (Publ. October 10, 2013, bull. No. 19) (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. М. Чернега, Ю. М. Подрезов, І. Т. Ярматов, М. О. Красовський, Металознавство та обробка металів, № 1: 32 (2010).",
+				"tr":  "S. M. Cherneha, Yu. M. Podrezov, I. T. Yarmatov, and M. O. Krasovskyi, Metaloznavstvo ta Obrobka Metaliv, No. 1: 32 (2010) (in Ukrainian)."
+			}
+		]
+	}
+}

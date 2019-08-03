@@ -1,0 +1,120 @@
+{
+	"_id":    "MFiNT.40.03.0291",
+	"year":   2018,
+	"volume": 40,
+	"issue":  3,
+	"pages":  [291,299],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["28.12.2017"],
+	"PACS":   "73.20.-r, 73.23.-b, 73.40.Rw, 73.63.Rt, 74.72.Hs, 74.78.Na, 75.47.Lx",
+	"title":   {
+		"ua": "Оборотні ефекти нестабільности у тунельних контактах манганіт–метал",
+		"en": "Reversible Effects of Instability in Tunnel Manganite–Metal Contacts",
+		"ru": "Обратимые эффекты нестабильности в туннельных контактах манганит–металл"
+	},
+	"abstract": {
+		"ua": "В роботі досліджуються ефекти електронної нестабільности поверхні манганітів, які проявляються в нелінійних, з різким наростанням струму, вольт-амперних характеристиках контактів манганіту з нормальним металом. На прикладі контактів манганіту La$_{0,65}$Ca$_{0,35}$MnO$_3$ зі сріблом продемонстровано, що прояв цих ефектів у транспортних характеристиках спостерігається в певному інтервалі енергій. Ці нелінійності транспортних властивостей не можуть бути зумовлені тепловими ефектами і, цілком ймовірно, пов’язані зі стрибками йонів Оксиґену в області тунельного бар’єру, яких стимульовано тунельним струмом і електричним полем, прикладеним до контакту.",
+		"en": "The effects of a manganite-surface electronic instability, which manifest themselves in nonlinearities (a sharp increase in a current) in the current–voltage characteristics of the contacts of manganite with a normal metal, are studied. As demonstrated with an example of the contacts of manganite, La$_{0.65}$Ca$_{0.35}$MnO$_3$, with silver, the manifestation of such effects in transport characteristics can be revealed in a certain energy interval. These nonlinearities in transport properties cannot be due to thermal effects and, most probably, are due to jumps of oxygen ions in the region of the tunnel barrier, which are stimulated by both the tunnelling current and the electric field applied to the contact.",
+		"ru": "В работе исследуются эффекты электронной нестабильности поверхности манганитов, проявляющиеся в нелинейных, с резким нарастанием тока, вольт-амперных характеристиках контактов манганита с нормальным металлом. На примере контактов манганита La$_{0,65}$Ca$_{0,35}$MnO$_3$ с серебром продемонстрировано, что проявление этих эффектов в транспортных характеристиках наблюдается в определённом интервале энергий. Эти нелинейности транспортных свойств не могут быть обусловлены тепловыми эффектами и, по всей вероятности, связаны со скачками ионов кислорода в области туннельного барьера, стимулированными туннельным током и электрическим полем, приложенным к контакту."
+	},
+	"keywords": {
+		"ua": "тунельні контакти, ефекти нестабільности, манганіти, наноструктури, Оксиґенові вакансії у бар’єрі",
+		"en": "tunnel contacts, instability effects, manganites, nanostructures, oxygen vacancies inside the barrier",
+		"ru": "туннельные контакты, эффекты нестабильности, манганиты, наноструктуры, кислородные вакансии в барьере"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. І. Дьяченко", "en": "O. I. D’yachenko", "ru": "А. И. Дьяченко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. Ю. Таренков", "en": "V. Yu. Tarenkov", "ru": "В. Ю. Таренков"},
+			"OID": [9]
+		},
+		{
+			"AID": {"ua": "О. О. Болясова", "en": "O. O. Boliasova", "ru": "О. А. Болясова"},
+			"OID": [9]
+		},
+		{
+			"AID": {"ua": "В. М. Криворучко", "en": "V. M. Krivoruchko", "ru": "В. Н. Криворучко"},
+			"OID": [9]
+		}
+	],
+	"references": {
+		"count": 14,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "P. P. Chawan and P. Gupta, International Journal of Electronics, Electrical and Computational System, 6, Iss. 5: 1L6F7M (2017).",
+				"tr":  "P. P. Chawan and P. Gupta, International Journal of Electronics, Electrical and Computational System, 6, Iss. 5: 1L6F7M (2017)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.98.146403",
+				"or":  "Y. B. Nian, J. Strozier, N. J. Wu, X. Chen, and A. Ignatiev, Phys. Rev. Lett., 98: 146403 (2007).",
+				"tr":  "Y. B. Nian, J. Strozier, N. J. Wu, X. Chen, and A. Ignatiev, Phys. Rev. Lett., 98: 146403 (2007)."
+			},
+			{
+				"doi": "10.1038/nmat2023",
+				"or":  "R. Waser and M. Aono, Nature Materials, 6: 833 (2007).",
+				"tr":  "R. Waser and M. Aono, Nature Materials, 6: 833 (2007)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2005.10.163",
+				"or":  "V. Krivoruchko, T. Konstantinova, A. Mazur, A. Prokhorov, and V. Varyukhin, J. Magn. Magn. Mater., 300: e122–e125 (2006).",
+				"tr":  "V. Krivoruchko, T. Konstantinova, A. Mazur, A. Prokhorov, and V. Varyukhin, J. Magn. Magn. Mater., 300: e122–e125 (2006)."
+			},
+			{
+				"doi": "10.1063/1.2747068",
+				"or":  "A. S. Mazur, V. N. Krivoruchko, and I. A. Danilenko, Low Temp. Phys., 33, No. 11: 931 (2007).",
+				"tr":  "A. S. Mazur, V. N. Krivoruchko, and I. A. Danilenko, Low Temp. Phys., 33, No. 11: 931 (2007)."
+			},
+			{
+				"doi": "10.1063/1.3603003",
+				"or":  "A. N. Ulyanov, D. S. Yang, A. S. Mazur, V. N. Krivoruchko, G. G. Levchenko, I. A. Danilenko, and T. E. Konstantinova, J. Appl. Phys., 109: 123928 (2011).",
+				"tr":  "A. N. Ulyanov, D. S. Yang, A. S. Mazur, V. N. Krivoruchko, G. G. Levchenko, I. A. Danilenko, and T. E. Konstantinova, J. Appl. Phys., 109: 123928 (2011)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.78.024405",
+				"or":  "S. Yunoki, E. Dagotto, S. Costamagna, and J. A. Riera, Phys. Rev. B, 78: 024405 (2008).",
+				"tr":  "S. Yunoki, E. Dagotto, S. Costamagna, and J. A. Riera, Phys. Rev. B, 78: 024405 (2008)."
+			},
+			{
+				"doi": "10.1070/PU2007v050n11ABEH006396",
+				"or":  "N. A. Tulina, Physics-Uspekhi, 50, No. 11: 1171 (2007).",
+				"tr":  "N. A. Tulina, Physics-Uspekhi, 50, No. 11: 1171 (2007)."
+			},
+			{
+				"doi": "10.1016/S0304-8853(99)00727-1",
+				"or":  "R. Gross, L. Alff, B. Büchner, B. H. Freitag, C. Höfener, J. Klein, Ya. Lu, W. Mader, J. B. Philipp, M. S. R. Rao, P. Reutler, S. Ritter, S. Thienhaus, S. Uhlenbruck, and B. Wiedenhorst, Journal of Magnetism and Magnetic Materials, 211, Iss. 1–3: 150 (2000).",
+				"tr":  "R. Gross, L. Alff, B. Büchner, B. H. Freitag, C. Höfener, J. Klein, Ya. Lu, W. Mader, J. B. Philipp, M. S. R. Rao, P. Reutler, S. Ritter, S. Thienhaus, S. Uhlenbruck, and B. Wiedenhorst, Journal of Magnetism and Magnetic Materials, 211, Iss. 1–3: 150 (2000)."
+			},
+			{
+				"doi": "10.1134/1.1391535",
+				"or":  "V. Yu. Tarenkov, A. I. D’yachenko, and V. N. Krivoruchko, JETP, 93, No. 1: 180 (2001).",
+				"tr":  "V. Yu. Tarenkov, A. I. D'yachenko, and V. N. Krivoruchko, JETP, 93, No. 1: 180 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "N. F. Mott and E. Davis, Electronic Processes in Non-Crystalline Materials (Oxford: Clarendon Press: 2012).",
+				"tr":  "N. F. Mott and E. Davis, Electronic Processes in Non-Crystalline Materials (Oxford: Clarendon Press: 2012)."
+			},
+			{
+				"doi": "10.1007/978-3-642-81832-5",
+				"or":  "J. Bourgoin and M. Lannoo, Point Defects in Semiconductors II. Experimental Aspects (Berlin–Heidelberg–New York: Springer: 1983), vol. 35.",
+				"tr":  "J. Bourgoin and M. Lannoo, Point Defects in Semiconductors II. Experimental Aspects (Berlin–Heidelberg–New York: Springer: 1983), vol. 35."
+			},
+			{
+				"doi": "",
+				"or":  "V. B. Fiks, Ionnaya Provodimost v Metallakh i Poluprovodnikakh (Moscow: Nauka: 1969) (in Russian).",
+				"tr":  "V. B. Fiks, Ionnaya Provodimost v Metallakh i Poluprovodnikakh (Moscow: Nauka: 1969) (in Russian)."
+			},
+			{
+				"doi": "10.1007/978-1-4684-1752-4",
+				"or":  "E. Burstein and S. Lundqvist, Tunnelling Phenomena in Solids (New York: Plenum Press: 1969).",
+				"tr":  "E. Burstein and S. Lundqvist, Tunnelling Phenomena in Solids (New York: Plenum Press: 1969)."
+			}
+		]
+	}
+}

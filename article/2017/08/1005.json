@@ -1,0 +1,154 @@
+{
+	"_id":    "MFiNT.39.08.1005",
+	"year":   2017,
+	"volume": 39,
+	"issue":  8,
+	"pages":  [1005,1016],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["18.07.2017"],
+	"PACS":   "62.23.St, 68.47.Gh, 77.80.bg, 77.80.bn, 84.32.Dd",
+	"title":   {
+		"ua": "Фізична природа резистивних перемикань у мезоскопічних контактах на основі складних оксидів перехідних металів",
+		"en": "The Physical Nature of Resistive Switchings in Mesoscopic Contacts Based on the Complex Oxides of the Transition Metals",
+		"ru": "Физическая природа резистивных переключений в мезоскопических контактах на основе сложных оксидов переходных металлов"
+	},
+	"abstract": {
+		"ua": "Запропоновано новий механізм резистивних перемикань у мезоскопічних гетероконтактах, утворених вістрям з типового металу із поверхнею масивних зразків оксидів перехідних металів зі структурою перовскіту, які у всередині є провідниками. Ґрунтуючись на експериментальних даних про те, що приповерхнева область допованих складних оксидів є вкрай неоднорідною із неметалічним характером провідности, автори припускають наявність в ній спонтанної поляризації навіть за відсутности зовнішнього електричного поля. Включення останнього буде приводити до переорієнтації мезоскопічних електричних диполів у напрямку поля. В такому випадку гістереза вольт-амперних характеристик є наслідком нелінійного зв’язку між прикладеним електричним полем та електричним зарядом у кристалічній структурі. Наведено експериментальні дані, які свідчать про те, що двозначні вольт-амперні криві спостерігаються в гетероструктурах з різними перовскітними матеріялами.",
+		"en": "A new mechanism of resistive switchings in the mesoscopic heterocontacts formed by a conventional-metal tip with a surface of bulk transition-metal oxide samples with a perovskite structure, which are conductors in their interior, is proposed. Based on the experimental data proving that the near-surface region of doped complex oxides is highly inhomogeneous with non-metallic conductivity, authors assume the presence of spontaneous polarization in it, even in the absence of an external electric field. Turning on the field will lead to a reorientation of mesoscopic electric dipoles in a field direction. In this case, the hysteresis of current–voltage characteristics is a result of the nonlinear coupling between the applied electric field and the electric charge inside the crystal structure. Experimental data are presented indicating that double-valued current–voltage curves are observed in the heterostructures with various perovskite materials.",
+		"ru": "Предложен новый механизм резистивных переключений в мезоскопических гетероконтактах, образованных остриём типичного металла с поверхностью массивных образцов оксидов переходных металлов со структурой перовскита, которые в своём объёме являются проводниками. Основываясь на экспериментальных данных о том, что приповерхностная область допированных сложных оксидов является крайне неоднородной с неметаллическим характером проводимости, авторы предполагают наличие в ней спонтанной поляризации даже в отсутствие внешнего электрического поля. Включение последнего будет приводить к переориентации мезоскопических электрических диполей в направлении поля. В таком случае гистерезис вольт-амперных характеристик является следствием нелинейной связи между приложенным электрическим полем и электрическим зарядом в кристаллической структуре. Приведены экспериментальные данные, свидетельствующие о том, что двузначные вольт-амперные кривые наблюдаются в гетероструктурах с разными перовскитными материалами."
+	},
+	"keywords": {
+		"ua": "мезоскопічні структури, складні оксиди перехідних металів, приповерхнева область, електричні диполі, гістереза",
+		"en": "mesoscopic structures, complex transition-metal oxides, near-surface region, electric dipoles, hysteresis",
+		"ru": "мезоскопические структуры, сложные оксиды переходных металлов, приповерхностная область, электрические диполи, гистерезис"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. П. Шаповалов", "en": "A. P. Shapovalov", "ru": "А. П. Шаповалов"},
+			"OID": [12, 40]
+		},
+		{
+			"AID": {"ua": "В. П. Блощицький", "en": "V. P. Bloshchytskii", "ru": "В. П. Блощицкий"},
+			"OID": [213]
+		},
+		{
+			"AID": {"ua": "О. В. Горностаєва", "en": "O. V. Gornostaeva", "ru": "О. В. Горностаева"},
+			"OID": [1, 246]
+		},
+		{
+			"AID": {"ua": "М. В. Залуцький", "en": "M. V. Zalutskii", "ru": "М. В. Залуцкий"},
+			"OID": [1, 246]
+		},
+		{
+			"AID": {"ua": "О. А. Кордюк", "en": "O. A. Kordyuk", "ru": "А. А. Кордюк"},
+			"OID": [40, 1]
+		}
+	],
+	"references": {
+		"count": 20,
+		"list":  [
+			{
+				"doi": "10.1093/acprof:oso/9780198507789.001.0001",
+				"or":  "M. E. Lines and A. M. Glass, Principles and Applications of Ferroelectrics and Related Materials (Oxford: Oxford Univ. Press: 2001).",
+				"tr":  "M. E. Lines and A. M. Glass, Principles and Applications of Ferroelectrics and Related Materials (Oxford: Oxford Univ. Press: 2001)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.14.217",
+				"or":  "P. W. Anderson and E. I. Blount, Phys. Rev. Lett., 14, No. 7: 217 (1965).",
+				"tr":  "P. W. Anderson and E. I. Blount, Phys. Rev. Lett., 14, No. 7: 217 (1965)."
+			},
+			{
+				"doi": "10.1038/nmat3754",
+				"or":  "Y. Shi, Y. Guo, X. Wang, A. J. Princep, D. Khalyavin, P. Manuel, Y. Michiue, A. Sato, K. Tsuda, S. Yu, M. Arai, Y. Shirako, M. Akaogi, N. Wang, K. Yamaura, and A. T. Boothroyd, Nature Mater., 12, No. 11: 1024 (2013).",
+				"tr":  "Y. Shi, Y. Guo, X. Wang, A. J. Princep, D. Khalyavin, P. Manuel, Y. Michiue, A. Sato, K. Tsuda, S. Yu, M. Arai, Y. Shirako, M. Akaogi, N. Wang, K. Yamaura, and A. T. Boothroyd, Nature Mater., 12, No. 11: 1024 (2013)."
+			},
+			{
+				"doi": "10.1038/358136a0",
+				"or":  "R. E. Cohen, Nature, 358, No. 6382: 136 (1992).",
+				"tr":  "R. E. Cohen, Nature, 358, No. 6382: 136 (1992)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.85.214502",
+				"or":  "Z. Viskadourakis, I. Radulov, A. P. Petrović, S. Mukherjee, B. M. Andersen, G. Jelbert, N. S. Headings, S. M. Hayden, K. Kiefer, S. Landsgesell, D. N. Argyriou, and C. Panagopoulos, Phys. Rev. B, 85, No. 21: 214502 (2012).",
+				"tr":  "Z. Viskadourakis, I. Radulov, A. P. Petrović, S. Mukherjee, B. M. Andersen, G. Jelbert, N. S. Headings, S. M. Hayden, K. Kiefer, S. Landsgesell, D. N. Argyriou, and C. Panagopoulos, Phys. Rev. B, 85, No. 21: 214502 (2012)."
+			},
+			{
+				"doi": "10.1038/srep15268",
+				"or":  "Z. Viskadourakis, S. S. Sunku, S. Mukherjee, B. M. Andersen, T. Ito, T. Sasagawa, and C. Panagopoulos, Sci. Rep., 5: 15268 (2015).",
+				"tr":  "Z. Viskadourakis, S. S. Sunku, S. Mukherjee, B. M. Andersen, T. Ito, T. Sasagawa, and C. Panagopoulos, Sci. Rep., 5: 15268 (2015)."
+			},
+			{
+				"doi": "10.1016/0921-4534(91)91614-A",
+				"or":  "D. Mihailović and I. Poberaj, Physica C, 185–189: 781 (1991).",
+				"tr":  "D. Mihailović and I. Poberaj, Physica C, 185–189: 781 (1991)."
+			},
+			{
+				"doi": "10.1063/1.4967392",
+				"or":  "M. Truchly, T. Plecenik, E. Zhitlukhina, M. Belogolovskii, M. Dvoranova, P. Kus, and A. Plecenik, J. Appl. Phys., 120, No. 18: 185302 (2016).",
+				"tr":  "M. Truchly, T. Plecenik, E. Zhitlukhina, M. Belogolovskii, M. Dvoranova, P. Kus, and A. Plecenik, J. Appl. Phys., 120, No. 18: 185302 (2016)."
+			},
+			{
+				"doi": "10.1070/PU1993v036n02ABEH002130",
+				"or":  "В. М. Свистунов, М. А. Белоголовский, А. И. Хачатуров, Успехи физических наук, 163, № 2: 61 (1993).",
+				"tr":  "V. M. Svistunov, M. A. Belogolovskii, and A. I. Khachaturov, Phys.-Usp., 36, No. 2: 65 (1993) (in Russian)."
+			},
+			{
+				"doi": "10.2478/s11534-009-0012-1",
+				"or":  "M. Belogolovskii, Centr. Eur. J. Phys., 7, No. 2: 304 (2009).",
+				"tr":  "M. Belogolovskii, Centr. Eur. J. Phys., 7, No. 2: 304 (2009)."
+			},
+			{
+				"doi": "10.1126/science.1129564",
+				"or":  "J. F. Scott, Science, 315, No. 5814: 954 (2007).",
+				"tr":  "J. F. Scott, Science, 315, No. 5814: 954 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Петров, Л. Алексеева, А. Иванов, В. Лучинин, А. Романов, T. Чикев, Т. Набатамэ, Наноиндустрия, № 1 (63): 94 (2016).",
+				"tr":  "A. Petrov, L. Alekseeva, A. Ivanov, V. Luchinin, A. Romanov, T. Chikev, and T. Nabatame, Nanoidustriya, No. 1 (63): 94 (2016) (in Russian)."
+			},
+			{
+				"doi": "10.1007/BF00351882",
+				"or":  "T. A. Prikhna, V. S. Melnikov, V. V. Kovylyaev, and V. E. Moshchil, J. Mater. Sci., 30, No. 14: 3662 (1995).",
+				"tr":  "T. A. Prikhna, V. S. Melnikov, V. V. Kovylyaev, and V. E. Moshchil, J. Mater. Sci., 30, No. 14: 3662 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Plecenik, M. Grajcar, P. Seidel, and S. Benacka, Studies of High Temperature Superconductors (Ed. A. Narlikar) (New York: Nova Sci. Publ.: 1996), vol. 20, p. 75.",
+				"tr":  "A. Plecenik, M. Grajcar, P. Seidel, and S. Benacka, Studies of High Temperature Superconductors (Ed. A. Narlikar) (New York: Nova Sci. Publ.: 1996), vol. 20, p. 75."
+			},
+			{
+				"doi": "10.1080/10584580490459954",
+				"or":  "K. Kim and Y. Song, Integr. Ferroelectr., 61, No. 1: 3 (2004).",
+				"tr":  "K. Kim and Y. Song, Integr. Ferroelectr., 61, No. 1: 3 (2004)."
+			},
+			{
+				"doi": "10.1038/nature01501",
+				"or":  "J. Junquera and P. Ghosez, Nature, 422, No. 6931: 506 (2003).",
+				"tr":  "J. Junquera and P. Ghosez, Nature, 422, No. 6931: 506 (2003)."
+			},
+			{
+				"doi": "10.1021/acsami.6b13866",
+				"or":  "H. Mulaosmanovic, J. Ocker, S. Muller, U. Schroeder, J. Muller, P. Polakowski, S. Flachowsky, R. van Bentum, T. Mikolajick, and S. Slesazeck, ACS Appl. Mater. Interfaces, 9, No. 4: 3792 (2017).",
+				"tr":  "H. Mulaosmanovic, J. Ocker, S. Muller, U. Schroeder, J. Muller, P. Polakowski, S. Flachowsky, R. van Bentum, T. Mikolajick, and S. Slesazeck, ACS Appl. Mater. Interfaces, 9, No. 4: 3792 (2017)."
+			},
+			{
+				"doi": "10.1088/0953-2048/17/9/011",
+				"or":  "T. A. Prikhna, J. Rabier, A. Proult, X. Chaud, W. Gawalek, A. V. Vlasenko, J.-L. Soubeyroux, R. Tournier, F. Sandiumenge, Ya. M. Savchuk, V. E. Moshchil, P. A. Nagorny, N. V. Sergienko, V. S. Melnikov, S. Kraĉunovska, D. Litzkendorf, and S. N. Dub, Supercond. Sci. Technol., 17, No. 9: S515 (2004).",
+				"tr":  "T. A. Prikhna, J. Rabier, A. Proult, X. Chaud, W. Gawalek, A. V. Vlasenko, J.-L. Soubeyroux, R. Tournier, F. Sandiumenge, Ya. M. Savchuk, V. E. Moshchil, P. A. Nagorny, N. V. Sergienko, V. S. Melnikov, S. Kraĉunovska, D. Litzkendorf, and S. N. Dub, Supercond. Sci. Technol., 17, No. 9: S515 (2004)."
+			},
+			{
+				"doi": "10.1016/j.physc.2009.05.017",
+				"or":  "X. Chaud, J. Noudem, T. Prikhna, Y. Savchuk, E. Haanappel, P. Diko, and C. P. Zhang, Physica C: Superconductivity, 469, No. 15: 1200 (2009).",
+				"tr":  "X. Chaud, J. Noudem, T. Prikhna, Y. Savchuk, E. Haanappel, P. Diko, and C. P. Zhang, Physica C: Superconductivity, 469, No. 15: 1200 (2009)."
+			},
+			{
+				"doi": "10.1016/j.jlumin.2017.02.040",
+				"or":  "R. Yu. Babkin, O. V. Gornostaeva, K. V. Lamonova, S. M. Orel, A. M. Prudnikov, Yu. G. Pashkevich, O. G. Viagin, P. O. Maksimchuk, and Yu. V. Malyukin, J. Lumin., 186: 247 (2017).",
+				"tr":  "R. Yu. Babkin, O. V. Gornostaeva, K. V. Lamonova, S. M. Orel, A. M. Prudnikov, Yu. G. Pashkevich, O. G. Viagin, P. O. Maksimchuk, and Yu. V. Malyukin, J. Lumin., 186: 247 (2017)."
+			}
+		]
+	}
+}

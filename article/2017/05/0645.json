@@ -1,0 +1,134 @@
+{
+	"_id":    "MFiNT.39.05.0645",
+	"year":   2017,
+	"volume": 39,
+	"issue":  5,
+	"pages":  [645,655],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["06.04.2017"],
+	"PACS":   "07.55.-w, 61.43.Dq, 75.50.Bb, 75.50.Kj, 75.50.Tt, 81.40.Ef",
+	"title":   {
+		"ua": "Властивості магнетном’яких нанокристалічних стопів типу Fe–B–P–Nb–Cr з високою індукцією насичення",
+		"en": "Properties of the Soft-Magnetic Nanocrystalline Fe–B–P–Nb–Cr Alloys with a High Saturation Induction",
+		"ru": "Свойства магнитномягких нанокристаллических сплавов типа Fe–B–P–Nb–Cr с высокой индукцией насыщения"
+	},
+	"abstract": {
+		"ua": "Досліджено магнетні характеристики аморфних стопів системи Fe–B–P–Nb–Cr після їх нанокристалізації. Шляхом оптимізації хемічного складу та підбором умов термооброблення в таких стопах досягнуто високих значень індукції насичення $B_{S}$ = 1,37 Tл, початкової магнетної проникности $\\mu_{10}$ = 7800 од., низьких значень динамічної коерцитивної сили $H_{C}$ = 3 А/м за низьких питомих втрат на перемагнетування: $P_{10/1000} \\cong$ 5 Вт/кг і $P_{10/400} \\cong$ 1,5 Вт/кг.",
+		"en": "The magnetic properties of amorphous Fe–B–P–Nb–Cr alloys after their nanocrystallization are investigated. Due to optimizing the chemical composition and selecting heat-treatment conditions, in such alloys, the high values of saturation induction $B_{S}$ = 1.37 T and initial magnetic permeability $\\mu_{10}$ = 7800 units as well as the low values of dynamical coercivity $H_{C}$ = 3 А/m are achieved at low core losses for magnetization reversal: $P_{10/1000} \\cong$ 5 W/kg and $P_{10/400} \\cong$ 1.5 W/kg.",
+		"ru": "Исследованы магнитные свойства аморфных сплавов системы Fe–B–P–Nb–Cr после их нанокристаллизации. Путём оптимизации химического состава и подбором условий термообработки в таких сплавах достигнуты высокие значения индукции насыщения $B_{S}$ = 1,37 Tл, начальной магнитной проницаемости $\\mu_{10}$ = 7800 ед., низкие значения динамической коэрцитивной силы $H_{C}$ = 3 А/м при низких удельных потерях на перемагничивание: $P_{10/1000} \\cong$ 5 Вт/кг и $P_{10/400} \\cong$ 1,5 Вт/кг."
+	},
+	"keywords": {
+		"ua": "магнетном’які нанокристалічні стопи, домішки Nb та Cr, втрати на перемагнетування, індукція насичення, магнетна проникність",
+		"en": "soft-magnetic nanocrystalline alloys, Nb and Cr impurities, core loss, saturation magnetization, magnetic permeability",
+		"ru": "магнитномягкие нанокристаллические сплавы, примеси Nb и Cr, потери на перемагничивание, индукция насыщения, магнитная проницаемость"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Є. І. Ярмощук", "en": "Ye. I. Yarmoshchuk", "ru": "Е. И. Ярмощук"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "Т. М. Міка", "en": "T. M. Mika", "ru": "Т. М. Мика"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. В. Носенко", "en": "A. V. Nosenko", "ru": "А. В. Носенко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Г. М. Зелінська", "en": "G. M. Zelinska", "ru": "Г. М. Зелинская"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. П. Семенько", "en": "M. P. Semen’ko", "ru": "М. П. Семенько"},
+			"OID": [201]
+		}
+	],
+	"references": {
+		"count": 16,
+		"list":  [
+			{
+				"doi": "10.1016/S0079-6425(99)00002-X",
+				"or":  "M. E. McHenry, M. A. Willard, and D. E. Laughlin, Prog. Mater. Sci., 44: 291 (1999).",
+				"tr":  "M. E. McHenry, M. A. Willard, and D. E. Laughlin, Prog. Mater. Sci., 44: 291 (1999)."
+			},
+			{
+				"doi": "10.1016/j.msea.2003.10.258",
+				"or":  "R. Hasegawa, Mater. Sci. Eng. A: Struct. Mater. Prop. Microstruct. Process., 375–377: 90 (2004).",
+				"tr":  "R. Hasegawa, Mater. Sci. Eng. A: Struct. Mater. Prop. Microstruct. Process., 375–377: 90 (2004)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2013.11.122",
+				"or":  "A. Inoue, F. L. Kong, Q. K. Man, B. L. Shen, R. W. Li, and F. Al-Marzouki, J. Alloys Compd., 615, Supplement 1: S2 (2014).",
+				"tr":  "A. Inoue, F. L. Kong, Q. K. Man, B. L. Shen, R. W. Li, and F. Al-Marzouki, J. Alloys Compd., 615, Supplement 1: S2 (2014)."
+			},
+			{
+				"doi": "10.1016/j.intermet.2016.05.011",
+				"or":  "Y. Han, F. L. Kong, F. F. Han, A. Inoue, S. L. Zhu, E. Shalaan, and F. Al-Marzouki, Intermetallics, 76: 18 (2016).",
+				"tr":  "Y. Han, F. L. Kong, F. F. Han, A. Inoue, S. L. Zhu, E. Shalaan, and F. Al-Marzouki, Intermetallics, 76: 18 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "Обладнання для надшвидкого охолодження розплаву, http://melta.com.ua/?page_id=34",
+				"tr":  "Obladnannya dlya Nadshvydkogo Okholodzhennya Rozplavu [Equipment for the Rapid Cooling of the Melt], http://melta.com.ua/?page_id=34 (in Ukrainian)."
+			},
+			{
+				"doi": "10.1186/s11671-016-1279-y",
+				"or":  "A. Nosenko, O. Rudenko, T. Mika, I. Yevlash, O. Semyrga, and V. Nosenko, Nanoscale Res. Lett., 11: 70 (2016).",
+				"tr":  "A. Nosenko, O. Rudenko, T. Mika, I. Yevlash, O. Semyrga, and V. Nosenko, Nanoscale Res. Lett., 11: 70 (2016)."
+			},
+			{
+				"doi": "10.1186/s11671-015-0837-z",
+				"or":  "A. Nosenko, T. Mika, O. Rudenko, Ye. Yarmoshchuk, and V. Nosenko, Nanoscale Res. Lett., 10: 136, (2015).",
+				"tr":  "A. Nosenko, T. Mika, O. Rudenko, Ye. Yarmoshchuk, and V. Nosenko, Nanoscale Res. Lett., 10: 136, (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "Handbook of Thermal Analysis and Calorimetry: Applications to Inorganic and Miscellaneous Materials (Eds. M. E. Brown and P. K. Gallagher), vol. 2, p. 1 (2003).",
+				"tr":  "Handbook of Thermal Analysis and Calorimetry: Applications to Inorganic and Miscellaneous Materials (Eds. M. E. Brown and P. K. Gallagher), vol. 2, p. 1 (2003)."
+			},
+			{
+				"doi": "10.2320/matertrans1989.36.903",
+				"or":  "Y. Takahara and H. Matsuda, Mater. Trans., 36, No. 7: 903 (1995).",
+				"tr":  "Y. Takahara and H. Matsuda, Mater. Trans., 36, No. 7: 903 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "M. D. V. Srila Litha and B. Bhanu Prasad, Proc. Mater. Sci., 10: 609 (2015).",
+				"tr":  "M. D. V. Srila Litha and B. Bhanu Prasad, Proc. Mater. Sci., 10: 609 (2015)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2010.03.029",
+				"or":  "H. Matsumoto, A. Urata, Y. Yamada, and A. Inoue, J. Alloys Compd., 504: 1098 (2010).",
+				"tr":  "H. Matsumoto, A. Urata, Y. Yamada, and A. Inoue, J. Alloys Compd., 504: 1098 (2010)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2016.10.083",
+				"or":  "F. L. Kong, Y. Han, X. H. Wang, F. F. Han, S. L. Zhu, and A. Inoue, J. Alloys Compd., 707: 195 (2017).",
+				"tr":  "F. L. Kong, Y. Han, X. H. Wang, F. F. Han, S. L. Zhu, and A. Inoue, J. Alloys Compd., 707: 195 (2017)."
+			},
+			{
+				"doi": "10.1134/S1087659614050137",
+				"or":  "S. L. Ratushnyak and N. O. Gonchukova, Glass Phys. Chem., 40, Iss. 5: 496 (2014).",
+				"tr":  "S. L. Ratushnyak and N. O. Gonchukova, Glass Phys. Chem., 40, Iss. 5: 496 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Matsumoto, A. Urata, Y. Yamada, and S. Yoshida, Nec. Tech. J., 2, No. 4: 66 (2007).",
+				"tr":  "H. Matsumoto, A. Urata, Y. Yamada, and S. Yoshida, Nec. Tech. J., 2, No. 4: 66 (2007)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2005.03.020",
+				"or":  "G. Herzer, J. Magn. Magn. Mater., 294: 99 (2005).",
+				"tr":  "G. Herzer, J. Magn. Magn. Mater., 294: 99 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "NATO Sci. Ser. II: Math. Phys. Chem. Vol. 184 (Eds. B. Idzikowski, P. Svec, and M. Miglierini) (Dordrecht: Kluwer Academic: 2005).",
+				"tr":  "NATO Sci. Ser. II: Math. Phys. Chem. Vol. 184 (Eds. B. Idzikowski, P. Svec, and M. Miglierini) (Dordrecht: Kluwer Academic: 2005)."
+			}
+		]
+	}
+}

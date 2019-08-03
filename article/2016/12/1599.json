@@ -1,0 +1,175 @@
+{
+	"_id":    "MFiNT.38.12.1599",
+	"year":   2016,
+	"volume": 38,
+	"issue":  12,
+	"pages":  [1599,1609],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["18.10.2016"],
+	"PACS":   "64.70.Nd, 64.75.St, 68.55.-a, 73.25.+i, 75.50.Ss, 75.50.Vv, 75.70.Cn, 81.40.Rs",
+	"title":   {
+		"ua": "Вплив проміжних шарів Ag і Cu на температурні інтервали фазових перетворень у плівкових композиціях Pt/Fe",
+		"en": "Influence of the Ag and Cu Intermediate Layers on the Temperature Ranges of Phase Transformations in Pt/Fe Film Compositions",
+		"ru": "Влияние промежуточных слоёв Ag и Cu на температурные интервалы фазовых превращений в плёночных композициях Pt/Fe"
+	},
+	"abstract": {
+		"ua": "Досліджується вплив додаткових шарів Ag і Cu на температурні інтервали фазових перетворень, – утворення невпорядкованої магнетом’якої фази $A1$-FePt та її подальше перетворення у впорядковану магнетотверду фазу $L1_{0}$-FePt, – у нанорозмірних плівкових композиціях типу Pt(10 нм)/(Ag, Cu)(x нм)/Fe(10 нм) (де x = 0, 4 нм) на підложжях SiO$_{2}$(100 нм)/Si(001) за відпалів у вакуумі. Встановлено, що введення проміжних шарів Cu і Ag у плівкові композиції типу Pt(10 нм)/Fe(10 нм) приводить до зменшення температур утворення невпорядкованої та впорядкованої фаз. Також введення додаткових проміжних шарів зумовлює збільшення коерцитивної сили плівкового матеріялу після термічного оброблення.",
+		"en": "The article presents results of investigation of the effect of Ag and Cu additional layers on the temperature ranges of phase transformations– formation of disordered magnetically soft $A1$-FePt phase and its subsequent transition to ordered magnetically hard $L1_{0}$-FePt phase–in nanosize Pt(10 nm)/(Ag, Cu)(x nm)/Fe(10 nm) film compositions (where x = 0, 4 nm) on SiO$_{2}$(100 nm)/Si(001) substrates during annealing in a vacuum. As determined, the introduction of Cu and Ag intermediate layers into Pt(10 nm)/Fe(10 nm) film compositions results in the decrease of the disordered and ordered phases’ formation temperatures. In addition, introduction of the additional intermediate layers causes an increase of film-materials’ coercivity after the heat treatment.",
+		"ru": "Исследуется влияние дополнительных слоёв Ag и Cu на температурные интервалы фазовых превращений, – образование неупорядоченной магнитомягкой фазы $A1$-FePt и её последующий переход в упорядоченную магнитотвёрдую фазу $L1_{0}$-FePt, – в наноразмерных плёночных композициях Pt(10 нм)/(Ag, Cu)(x нм)/Fe(10 нм) (где x = 0, 4 нм) на подложках SiO$_{2}$(100 нм)/Si(001) при отжиге в вакууме. Установлено, что введение промежуточных слоёв Cu и Ag в плёночные композиции Pt(10 нм)/Fe(10 нм) приводит к уменьшению температур образования неупорядоченной и упорядоченной фаз. Также введение дополнительных промежуточных слоёв обуславливает увеличение коэрцитивной силы плёночного материала после термической обработки."
+	},
+	"keywords": {
+		"ua": "впорядкована фаза $L1_{0}$-FePt, коерцитивна сила, фазові перетворення",
+		"en": "ordered $L1_{0}$-FePt phase, coercivity, phase transformations",
+		"ru": "упорядоченная фаза $L1_{0}$-FePt, коэрцитивная сила, фазовые превращения"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. С. Небога", "en": "O. S. Neboga", "ru": "О. С. Небога"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "М. О. Перваков", "en": "M. O. Pervakov", "ru": "Н. А. Перваков"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "С. І. Сидоренко", "en": "S. I. Sydorenko", "ru": "С. И. Сидоренко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "І. А. Владимирський", "en": "I. A. Vladymyrskyy", "ru": "И. А. Владимирский"},
+			"OID": [202]
+		}
+	],
+	"references": {
+		"count": 25,
+		"list":  [
+			{
+				"doi": "10.1016/j.jmmm.2008.05.007",
+				"or":  "S. N. Piramanayagam and K. Srinivasan, J. Magn. Magn. Mater., 321: 485 (2009).",
+				"tr":  "S. N. Piramanayagam and K. Srinivasan, J. Magn. Magn. Mater., 321: 485 (2009)."
+			},
+			{
+				"doi": "10.1063/1.2953078",
+				"or":  "Y. Kazuaki, N. Vikas, and P. Narayan, J. Appl. Phys., 104: 013918 (2008).",
+				"tr":  "Y. Kazuaki, N. Vikas, and P. Narayan, J. Appl. Phys., 104: 013918 (2008)."
+			},
+			{
+				"doi": "10.1063/1.2956691",
+				"or":  "En. Yang and D. E. Laughlin, J. Appl. Phys., 104: 023904 (2008).",
+				"tr":  "En. Yang and D. E. Laughlin, J. Appl. Phys., 104: 023904 (2008)."
+			},
+			{
+				"doi": "10.1063/1.3691196",
+				"or":  "F. L. Evans, R. W. Chantrell, U. R. Nowak, A. Lyberatos, and H.-J. Richter, Appl. Phys. Lett., 100: 102402 (2012).",
+				"tr":  "F. L. Evans, R. W. Chantrell, U. R. Nowak, A. Lyberatos, and H.-J. Richter, Appl. Phys. Lett., 100: 102402 (2012)."
+			},
+			{
+				"doi": "10.1063/1.3559482",
+				"or":  "B. Wang, K. Barmak, and T. J. Klemmer, J. Appl. Phys., 109: 07B739 (2011).",
+				"tr":  "B. Wang, K. Barmak, and T. J. Klemmer, J. Appl. Phys., 109: 07B739 (2011)."
+			},
+			{
+				"doi": "10.1063/1.2828032",
+				"or":  "T. O. Seki, Y. K. Takahashi, and K. Hono, J. Appl. Phys., 103: 023910 (2008).",
+				"tr":  "T. O. Seki, Y. K. Takahashi, and K. Hono, J. Appl. Phys., 103: 023910 (2008)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2008.05.012",
+				"or":  "Y. S. Yu, H.-B. Li, W. L. Li, M. Liub, and W. D. Feia, J. Magn. Magn. Mater., 320: 125 (2008).",
+				"tr":  "Y. S. Yu, H.-B. Li, W. L. Li, M. Liub, and W. D. Feia, J. Magn. Magn. Mater., 320: 125 (2008)."
+			},
+			{
+				"doi": "10.1063/1.3001801",
+				"or":  "Ch. Feng, Q. Zhan, B. Li, and J. Teng, Appl. Phys. Lett., 93: 152513 (2008).",
+				"tr":  "Ch. Feng, Q. Zhan, B. Li, and J. Teng, Appl. Phys. Lett., 93: 152513 (2008)."
+			},
+			{
+				"doi": "10.1063/1.2828148",
+				"or":  "Ch. Feng, B.-H. Li, Y. Liu, J. Teng, M.-H. Li, Y. Jiang, and G.-H. Yu, J. Appl. Phys., 103: 023916 (2008).",
+				"tr":  "Ch. Feng, B.-H. Li, Y. Liu, J. Teng, M.-H. Li, Y. Jiang, and G.-H. Yu, J. Appl. Phys., 103: 023916 (2008)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2009.03.018",
+				"or":  "S. N. Hsiao, S. K. Chen, T. S. Chin, Y. W. Hsu, H. W. Huang, F. T. Yuan, H. Y. Lee, and W. M. Liao, J. Magn. Magn. Mater., 321: 2459 (2009).",
+				"tr":  "S. N. Hsiao, S. K. Chen, T. S. Chin, Y. W. Hsu, H. W. Huang, F. T. Yuan, H. Y. Lee, and W. M. Liao, J. Magn. Magn. Mater., 321: 2459 (2009)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.86.024204",
+				"or":  "M. Maret, C. Brombacher, P. Matthes, D. Makarov, N. Boudet, and M. Albrecht, Phys. Rev. B, 86: 024204 (2012).",
+				"tr":  "M. Maret, C. Brombacher, P. Matthes, D. Makarov, N. Boudet, and M. Albrecht, Phys. Rev. B, 86: 024204 (2012)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2009.12.027",
+				"or":  "Y. S. Yu, H.-B. Lia, W. L. Lib, M. Liua, Y.-M. Zhanga, and W. D. Feib, J. Magn. Magn. Mater., 322: 1770 (2010).",
+				"tr":  "Y. S. Yu, H.-B. Lia, W. L. Lib, M. Liua, Y.-M. Zhanga, and W. D. Feib, J. Magn. Magn. Mater., 322: 1770 (2010)."
+			},
+			{
+				"doi": "10.1063/1.2828032",
+				"or":  "T. O. Seki, Y. K. Takahashi, and K. Hono, J. Appl. Phys., 103: 023910 (2008).",
+				"tr":  "T. O. Seki, Y. K. Takahashi, and K. Hono, J. Appl. Phys., 103: 023910 (2008)."
+			},
+			{
+				"doi": "10.1063/1.3309417",
+				"or":  "D. Makarov, J. Lee, C. Brombacher, C. Schubert, M. Fuger, D. Suess, J. Fidler, and M. Albrecht, Appl. Phys. Lett., 96: 062501 (2010).",
+				"tr":  "D. Makarov, J. Lee, C. Brombacher, C. Schubert, M. Fuger, D. Suess, J. Fidler, and M. Albrecht, Appl. Phys. Lett., 96: 062501 (2010)."
+			},
+			{
+				"doi": "10.1063/1.3153513",
+				"or":  "S. N. Hsiao, F. T. Yuan, H. W. Chang, H. W. Huang, S. K. Chen, and H. Y. Lee, Appl. Phys. Lett., 94: 232505 (2009).",
+				"tr":  "S. N. Hsiao, F. T. Yuan, H. W. Chang, H. W. Huang, S. K. Chen, and H. Y. Lee, Appl. Phys. Lett., 94: 232505 (2009)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.107.265501",
+				"or":  "W. Gruber, S. Chakravarty, C. Baehtz, W. Leitenberger, M. Bruns, A. Kobler, C. Kübel, and H. Schmidt, Phys. Rev. Lett., 107: 265501 (2011).",
+				"tr":  "W. Gruber, S. Chakravarty, C. Baehtz, W. Leitenberger, M. Bruns, A. Kobler, C. Kübel, and H. Schmidt, Phys. Rev. Lett., 107: 265501 (2011)."
+			},
+			{
+				"doi": "10.1063/1.1555895",
+				"or":  "Y. K. Takahashi, T. Ohkubo, M. Ohnuma, and K. Hono, J. Appl. Phys., 93: 7166 (2003).",
+				"tr":  "Y. K. Takahashi, T. Ohkubo, M. Ohnuma, and K. Hono, J. Appl. Phys., 93: 7166 (2003)."
+			},
+			{
+				"doi": "10.1063/1.3093955",
+				"or":  "B. Laenens, F. M. Almeida, N. Planckaert, K. Temst, J. Meersschaut, A. Vantomme, C. Rentenberger, M. Rennhofer, and B. Sepiol, J. Appl. Phys., 105: 073913 (2009).",
+				"tr":  "B. Laenens, F. M. Almeida, N. Planckaert, K. Temst, J. Meersschaut, A. Vantomme, C. Rentenberger, M. Rennhofer, and B. Sepiol, J. Appl. Phys., 105: 073913 (2009)."
+			},
+			{
+				"doi": "10.1088/0022-3727/42/2/025005",
+				"or":  "J. C. Pivin, F. Singh, O. Angelov, and L. Vincent, J. Phys. D.: Appl. Phys., 42: 025005 (2009).",
+				"tr":  "J. C. Pivin, F. Singh, O. Angelov, and L. Vincent, J. Phys. D.: Appl. Phys., 42: 025005 (2009)."
+			},
+			{
+				"doi": "10.1016/j.phpro.2011.06.104",
+				"or":  "Y. Ogata, Y. Imai, and S. Nakagawa, Physics Procedia, 16: 36 (2011).",
+				"tr":  "Y. Ogata, Y. Imai, and S. Nakagawa, Physics Procedia, 16: 36 (2011)."
+			},
+			{
+				"doi": "10.1063/1.1360683",
+				"or":  "Y. N. Hsu, S. Jeong, D. E. Laughlin, and D. N. Lambeth, J. Appl. Phys., 89: 7068 (2011).",
+				"tr":  "Y. N. Hsu, S. Jeong, D. E. Laughlin, and D. N. Lambeth, J. Appl. Phys., 89: 7068 (2011)."
+			},
+			{
+				"doi": "10.1063/1.3522652",
+				"or":  "R. Chepulskii and S. Curtarolo, Appl. Phys. Lett., 97: 221908 (2010).",
+				"tr":  "R. Chepulskii and S. Curtarolo, Appl. Phys. Lett., 97: 221908 (2010)."
+			},
+			{
+				"doi": "10.1088/0022-3727/48/17/175001",
+				"or":  "G. L. Katona, N. Y. Safonova, F. Ganss, D. Mitin, I. A. Vladymyrskyi, S. I. Sidorenko, Iu. N. Makogon, G. Beddies, M. Albrecht, and D. L. Beke, J. Phys. D.: Appl. Phys., 48: 17 (2015).",
+				"tr":  "G. L. Katona, N. Y. Safonova, F. Ganss, D. Mitin, I. A. Vladymyrskyi, S. I. Sidorenko, Iu. N. Makogon, G. Beddies, M. Albrecht, and D. L. Beke, J. Phys. D.: Appl. Phys., 48: 17 (2015)."
+			},
+			{
+				"doi": "10.1016/j.vacuum.2013.07.018",
+				"or":  "I. A. Vladymyrskyi, O. P. Pavlova, T. I. Verbitska, S. I. Sidorenko, G. L. Katona, D. L. Beke, and Iu. M. Makogon, Vacuum, 101: 33 (2014).",
+				"tr":  "I. A. Vladymyrskyi, O. P. Pavlova, T. I. Verbitska, S. I. Sidorenko, G. L. Katona, D. L. Beke, and Iu. M. Makogon, Vacuum, 101: 33 (2014)."
+			},
+			{
+				"doi": "10.1063/1.1463213",
+				"or":  "T. Maeda, T. Kai, and A. Kikitsu, J. Appl. Phys., 80: 2147 (2002).",
+				"tr":  "T. Maeda, T. Kai, and A. Kikitsu, J. Appl. Phys., 80: 2147 (2002)."
+			}
+		]
+	}
+}

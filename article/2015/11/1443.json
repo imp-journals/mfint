@@ -1,0 +1,138 @@
+{
+	"_id":    "MFiNT.37.11.1443",
+	"year":   2015,
+	"volume": 37,
+	"issue":  11,
+	"pages":  [1443,1460],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["15.07.2015"],
+	"PACS":   "68.35.Ct, 68.35.Gy, 68.35.Md, 68.35.Np, 68.37.Ps, 68.55.J-, 81.15.Gh",
+	"title":  {
+			"ua": "АСМ-дослідження поверхні металічних конденсатів на монокристалічному кремнії та енергетичні параметри міжфазової взаємодії в системі «металічний конденсат—напівпровідник»",
+			"en": "AFM Study of Surface of the Metallic Condensates on the Monocrystalline Silicon and Energy Parameters of Interface Interactions in the ‘Metallic Condensate— Semiconductor’ System",
+			"ru": "АСМ-исследования поверхности металлических конденсатов на монокристаллическом кремнии и энергетические параметры межфазного взаимодействия в системе «металлический конденсат—полупроводник»"
+		},
+	"abstract": {
+		"ua": "У роботі за результатами атомно-силової мікроскопії досліджено топологію поверхні та структуру конденсатів міді, алюмінію та хрому на підложжях монокристалічного кремнію площини (111) для характерних товщин d: 2,5, 10, 50, 100 нм. Виконано кластерну статистичну аналізу поверхні одержаних конденсатів з використанням алґоритму Хошена—Копельмана, визначено характерні геометричні параметри кластерних наноутворень. Для досліджуваних металів з використанням макроскопічного підходу, що базується на співвідношеннях нерівноважної термодинаміки та фізики поверхні, оцінено енергетичні параметри міжфазової взаємодії у системі «металічний конденсат—кремній»: енергію міжфазової взаємодії, міжфазовий натяг, енергію адгезійних зв’язків та роботу адгезії. Обґрунтовуються відмінності морфології металічних конденсатів на кремнії.",
+		"en": "In this paper, the results of atomic force microscopy are used to investigate the surface topology and structure of condensates of copper, aluminium, and chromium on the (111) plane of monocrystalline silicon substrates with the characteristic thicknesses d: 2.5, 10, 50, and 100 nm. A cluster statistical analysis of obtained condensates’ surface is performed by means of the Hoshen—Kopelman algorithm; the character geometric parameters of cluster nanoformations are determined. For studied metals, the energy parameters of interphase interactions in the ‘metallic condensate—silicon’ system, such as energy of interface interaction, interfacial tension, adhesive bond energy and the work of adhesion, are estimated using macroscopic approach based on the relations of the surface non-equilibrium thermodynamics and physics. Differences in the morphology of metallic condensates on silicon are substantiated.",
+		"ru": "В работе по результатам атомно-силовой микроскопии исследована топология поверхности и структура конденсатов меди, алюминия и хрома на подложках монокристаллического кремния плоскости (111) для характерных толщин d: 2,5, 10, 50, 100 нм. Выполнен кластерный статистический анализ поверхности полученных конденсатов с использованием алгоритма Хошена—Копельмана, определены характерные геометрические параметры кластерных нанообразований. Для исследованных металлов с использованием макроскопического подхода, базирующегося на соотношениях неравновесной термодинамики и физики поверхности, оценены энергетические параметры межфазного взаимодействия в системе «металлический конденсат—кремний»: энергия межфазного взаимодействия, межфазное натяжение, энергия адгезионных связей и работа адгезии. Обосновываются отличия морфологии металлических конденсатов на кремнии."
+	},
+	"keywords": {
+		"ua": "конденсати, плівки, підложжя, морфологія, міжфазова взаємодія, енергетичні параметри",
+		"en": "condensates, films, substrate, morphology, interphase interactions, energy parameters",
+		"ru": "конденсаты, плеёнки, подложка, морфология, межфазовое взаимодействие, энергетические параметры"
+	},
+	"autors": [
+		{	"AID": {"ua": "Б. П. Коман", "en": "B. P. Koman", "ru": "Б. П. Коман"},
+			"OID": [203]
+		},
+		{	"AID": {"ua": "І. М. Ровецький", "en": "I. M. Rovetskiy", "ru": "И. М. Ровецкий"},
+			"OID": [203]
+		},
+		{	"AID": {"ua": "В. М. Юзевич", "en": "V. M. Yuzevych", "ru": "В. М. Юзевич"},
+			"OID": [6]
+		}
+	],
+	"references": {
+		"count": 19,
+		"list":  [
+			{
+				"doi": "10.1103/PhysRevB.14.3438",
+				"or":  "J. Hoshen and R. Kopelman, Phys. Rev. B, 14, No. 8: 3438 (1976).",
+				"tr":  "J. Hoshen and R. Kopelman, Phys. Rev. B, 14, No. 8: 3438 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Юзевич, Б. П. Коман, Металлофиз. новейшие технол., 25, № 6: 747 (2003).",
+				"tr":  "V. M. Yuzevych and B. P. Koman, Metallofiz. Noveishie Technol., 25, No. 6: 747 (2003) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Юзевич, Поверхность. Физика, химия, механика, 9: 135 (1988).",
+				"tr":  "V. M. Yuzevich, Poverkhnost'. Fizika, Khimiya, Mekhanika [Surface. Physics, Chemistry, Mechanics], 9: 135 (1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Хориути, Т. Тоя, Хемосорбция водорода (Поверхностные свойства твёрдых тел) (Москва: Мир: 1972).",
+				"tr":  "J. Horiuti and T. Toya, Chemisorbed Hydrogen (Surface Properties of Solids) (Moscow: Mir: 1972) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "N. Eustathopoulus and J.-C. Joud, Curr. Top. Mater. Sci., 4: 281 (1980).",
+				"tr":  "N. Eustathopoulus and J.-C. Joud, Curr. Top. Mater. Sci., 4: 281 (1980)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.1.4555",
+				"or":  "N. D. Lang and W. Kohn, Phys. Rev. B, 1: 4555 (1970).",
+				"tr":  "N. D. Lang and W. Kohn, Phys. Rev. B, 1: 4555 (1970)."
+			},
+			{
+				"doi": "10.3367/UFNr.0128.197905c.0069",
+				"or":  "М. Б. Партенский, Успехи физических наук, 128, № 1: 69 (1979).",
+				"tr":  "M. B. Partenskii, Uspekhi Fizicheskikh Nauk, 128: 69 (1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. А. Бынков, В. С. Ким, В. М. Кузнецов, Поверхностная энергия ГЦК-металлов (Томск: 1989) (Препр./СО АН СССР, Томск. науч. центр, № 48, 1989).",
+				"tr":  "K. A. Bynkov, V. S. Kim, and V. M. Kuznetsov, Poverkhnostnaya Energiya GTsK-Metallov (Tomsk: 1989) (Prepr./SO AN SSSR, Tomsk. Nauch. Tsentr, No. 48, 1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Мусохранов, Технологическое обеспечение качества поверхностного слоя направляющих элементов машиностроения (Автореф. дис. … канд. техн. наук) (Москва: Институт металлургии АН РФ: 2006).",
+				"tr":  "M. V. Musokhranov, Tekhnologicheskoe Obespechenie Kachestva Poverkhnostnogo Sloya Napravlyayushchikh Elementov Mashinostroeniya (Autoref. Dis. ... Cand. Techn. Sci.) (Moscow: Metallurgy Institute AN RF: 2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Herring, Surface Tension as a Motivation for Sintering, in Physics of Powder Metallurgy (Еd. W. E. Kingston) (New York: McGraw-Hill: 1951).",
+				"tr":  "C. Herring, Surface Tension as a Motivation for Sintering, in Physics of Powder Metallurgy (Ed. W. E. Kingston) (New York: McGraw-Hill: 1951)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Юзевич, Термодинамика необратимых процессов (Москва: Наука: 1992), с. 163.",
+				"tr":  "V. M. Yuzevich, Termodinamika Neobratimykh Protsessov (Moscow: Nauka: 1992), p. 163 (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.46.6303",
+				"or":  "M. Alden, S. Mirbt, H. L. Skriver, N. M. Rosengaard, and B. Johansson, Phys. Rev. B, 46, No. 10: 6303 (1992).",
+				"tr":  "M. Alden, S. Mirbt, H. L. Skriver, N. M. Rosengaard, and B. Johansson, Phys. Rev. B, 46, No. 10: 6303 (1992)."
+			},
+			{
+				"doi": "10.1149/1.2425806",
+				"or":  "R. J. Jaccodine, J. Electrochem. Soc., 110, No. 6: 524 (1963).",
+				"tr":  "R. J. Jaccodine, J. Electrochem. Soc., 110, No. 6: 524 (1963)."
+			},
+			{
+				"doi": "",
+				"or":  "Таблицы физических величин: Справочник (Москва: Атомиздат: 1972).",
+				"tr":  "Tablitsy Fizicheskikh Velichin: Spravochnik (Moscow: Atomizdat: 1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ч. Киттель, Введение в физику твердого тела (Москва: Наука: 1978).",
+				"tr":  "Ch. Kittel, Vvedenie v Fiziku Tverdogo Tela [Introduction to Solid State Physics] (Moscow: Nauka: 1978) (Russian translation)."
+			},
+			{
+				"doi": "10.2320/matertrans1989.33.753",
+				"or":  "W. B. Chung, K. Nogi, W. A. Miller, and A. McLean, Mater. Trans. JIM, 33: 753 (1992).",
+				"tr":  "W. B. Chung, K. Nogi, W. A. Miller, and A. McLean, Mater. Trans. JIM, 33: 753 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Паулинг, Природа химической связи (Москва–Ленинград: Госхимиздат: 1947).",
+				"tr":  "L. Pauling, Priroda Khimicheskoy Svyazi [The Nature of the Chemical Bond] (Moscow–Leningrad: Goskhimizdat: 1947) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. П. Коман, В. Н. Юзевич, Физика твёрдого тела, 54, вып. 7: 1335 (2012).",
+				"tr":  "B. P. Koman and V. N. Yuzevich, Fizika Tverdogo Tela, 54, Iss. 7: 1335 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Алексеев, Труды Института общей физики имени А. М. Прохорова, 66: 156 (2010).",
+				"tr":  "A. A. Alekseev, Trudy Instituta Obshchey Fiziki Imeni A. M. Prokhorova, 66: 156 (2010) (in Russian)."
+			}
+		]
+	}
+}

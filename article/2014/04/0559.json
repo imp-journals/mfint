@@ -1,0 +1,213 @@
+{
+	"_id":    "MFiNT.36.04.0559",
+	"year":   2014,
+	"volume": 36,
+	"issue":  4,
+	"pages":  [559,573],
+	"rubric": 2,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["28.03.2014"],
+	"PACS":   "07.85.Jy, 31.15.xp, 61.05.cc, 87.57.cj, 87.59.-e",
+	"title":   {
+		"ua": "Теоретична тривісна модель динамічного розсіяння та формування зображень некристалічних об’єктів",
+		"en": "Theoretical Three-Axes Model of Dynamical Scattering and Formation of Noncrystalline Objects’ Image",
+		"ru": "Теоретическая трёхосевая модель динамического рассеяния и формирования изображений некристаллических объектов"
+	},
+	"abstract": {
+		"ua": "В роботі побудовано теоретичну тривісну модель динамічного розсіяння та формування зображень некристалічних (медично-біологічних) об’єктів з урахуванням ефектів багатократности розсіяння, як в об’єкті (зокрема, ефекту заломлення, який описується виключно в межах динамічної теорії), так і в монокристалах монохроматора і аналізатора, для яких також враховано можливість наявності і при цьому як однорідно, так і неоднорідно розподілених мікродефектів та макродеформацій. Показано можливість істотного підвищення інформативности медичної діагностики на основі використання створеної моделі.",
+		"en": "Theoretical three-axis model of dynamical scattering and image formation of noncrystalline (biomedical) objects is developed with regards for multiple scattering effects in both the object (in particular, refraction effect described within the framework of the dynamical theory only) and single crystals of monochromator and analyser. The possibility of presence of both the homogeneously distributed microdefects and macrodistortions and the inhomogeneously ones is taken into account. The possibility of significant enhancement of information capability of medical diagnostics based on the developed model is shown.",
+		"ru": "В работе построена теоретическая трёхосевая модель динамического рассеяния и формирования изображений некристаллических (медико-биологических) объектов с учётом эффектов многократности рассеяния, как в объекте (в частности, эффекта преломления, описываемого только в рамках динамической теории), так и в монокристаллах монохроматора и анализатора, для которых также учтена возможность присутствия и при этом как однородно, так и неоднородно распределённых микродефектов и макродеформаций. Показана возможность существенного повышения информативности медицинской диагностики на основе использования созданной модели."
+	},
+	"keywords": {
+		"ua": "некристалічні об’єкти, заломлення рентгенівських променів, дисперсійний механізм, динамічна теорія",
+		"en": "noncrystalline objects, refraction of X-rays, dispersion mechanism, dynamical theory",
+		"ru": "некристаллические объекты, преломление рентгеновских лучей, дисперсионный механизм, динамическая теория"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Б. В. Шелудченко", "en": "B. V. Sheludchenko", "ru": "Б. В. Шелудченко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. Б. Молодкін", "en": "V. B. Molodkin", "ru": "В. Б. Молодкин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. В. Лізунова", "en": "S. V. Lizunova", "ru": "С. В. Лизунова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. Й. Оліховський", "en": "S. J. Olikhovskyi", "ru": "С. И. Олиховский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Є. М. Кисловський", "en": "Ye. M. Kyslovskyi", "ru": "Е. Н. Кисловский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. Ю. Гаєвський", "en": "O. Yu. Gaevskyi", "ru": "А. Ю. Гаевский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. В. Лізунов", "en": "V. V. Lizunov", "ru": "В. В. Лизунов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. І. Нізкова", "en": "A. I. Nizkova", "ru": "А. И. Низкова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Т. П. Владимирова", "en": "T. P. Vladimirova", "ru": "Т. П. Владимирова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. В. Молодкін", "en": "V. V. Molodkin", "ru": "В. В. Молодкин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "К. В. Фузик", "en": "K. V. Fuzyk", "ru": "Е. В. Фузик"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. В. Гошкодеря", "en": "A. V. Goshkoderya", "ru": "А. В. Гошкодеря"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. О. Білоцька", "en": "A. O. Bilotska", "ru": "А. А. Белоцкая"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Г. О. Веліховський", "en": "G. O. Velikhovskyi", "ru": "Г. О. Велиховский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. А. Музиченко", "en": "A. A. Muzychenko", "ru": "А. А. Музыченко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Р. В. Лехняк", "en": "R. V. Lekhnyak", "ru": "Р. В. Лехняк"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 23,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "З. Г. Пинскер, Динамическое рассеяние рентгеновских лучей в идеальных кристаллах (Москва: Наука: 1974).",
+				"tr":  "Z. G. Pinsker, Dinamicheskoe Rasseyanie Rentgenovskikh Luchey v Ideal'nykh Kristallakh (Moscow: Nauka: 1974) (in Russian)."
+			},
+			{
+				"doi": "10.1002/crat.19800150812",
+				"or":  "E. Forster, K. Goets, and P. Zaumseil, Kristall und Technik, 15, No. 8: 937 (1980).",
+				"tr":  "E. Forster, K. Goets, and P. Zaumseil, Kristall und Technik, 15, No. 8: 937 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Соменков, А. К. Ткалич, С. Ш. Шильштейн, Журнал технической физики, 61, вып. 11: 197 (1991).",
+				"tr":  "V. A. Somenkov, A. K. Tkalich, and S. Sh. Shil'shteyn, Zhurnal Tekhnicheskoi Fiziki, 61, Iss. 11: 197 (1991) (in Russian)."
+			},
+			{
+				"doi": "10.1088/0022-3727/28/11/012",
+				"or":  "V. N. Ingal and E. A. Beliaevskaya, J. Phys. D, 28, No. 10: 2314 (1995).",
+				"tr":  "V. N. Ingal and E. A. Beliaevskaya, J. Phys. D, 28, No. 10: 2314 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Ингал, Е. А. Беляевская, Журнал технической физики, 66, вып. 3: 344 (1996).",
+				"tr":  "V. N. Ingal and E. A. Beliaevskaya, Zhurnal Tekhnicheskoi Fiziki, 66, Iss. 3: 344 (1996) (in Russian)."
+			},
+			{
+				"doi": "10.1038/373595a0",
+				"or":  "T. J. Davis, D. Gao, T. E. Gureyev, A. W. Stevenson, and S. W. Wilkins, Nature, 373: 595 (1995).",
+				"tr":  "T. J. Davis, D. Gao, T. E. Gureyev, A. W. Stevenson, and S. W. Wilkins, Nature, 373: 595 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Gao, T. J. Davis, and S. W. Wilkins, Aust. J. Phys., 48, No. 1: 103 (1995).",
+				"tr":  "D. Gao, T. J. Davis, and S. W. Wilkins, Aust. J. Phys., 48, No. 1: 103 (1995)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.74.3173",
+				"or":  "T. J. Davis, T. E. Gureyev, D. Gao, A. W. Stevenson, and S. W. Wilkins, Phys. Rev. Lett., 74, No. 16: 3173 (1995).",
+				"tr":  "T. J. Davis, T. E. Gureyev, D. Gao, A. W. Stevenson, and S. W. Wilkins, Phys. Rev. Lett., 74, No. 16: 3173 (1995)."
+			},
+			{
+				"doi": "10.1063/1.1146073",
+				"or":  "A. Snigirev, I. Snigireva, V. Kohn, S. Kuznetsov, and I. Schelokov, Rev. Sci. Instrum., 66, No. 12: 5486 (1995).",
+				"tr":  "A. Snigirev, I. Snigireva, V. Kohn, S. Kuznetsov, and I. Shchelokov, Rev. Sci. Instrum., 66, No. 12: 5486 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Бушуев, В. Н. Ингал, Е. А. Беляевская, Кристаллография, № 5: 808 (1996).",
+				"tr":  "V. A. Bushuev, V. N. Ingal, and E. A. Beliaevskaya, Kristallografiya, No. 5: 808 (1996) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. М. Подурец, В. А. Соменков, С. Ш. Шильштейн, Журнал технической физики, 59, вып. 6: 115 (1989).",
+				"tr":  "K. M. Podurets, V. A. Somenkov, and S. Sh. Shil'shteyn, Zhurnal Tekhnicheskoi Fiziki, 59, Iss. 6: 115 (1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Ингал, Е. А. Беляевская, Журнал технической физики, 63, вып. 6: 137 (1993).",
+				"tr":  "V. N. Ingal and E. A. Beliaevskaya, Zhurnal Tekhnicheskoi Fiziki, 63, Iss. 6: 137 (1993) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "З. Г. Пинскер, Рентгеновская кристаллооптика (Москва: Наука: 1982).",
+				"tr":  "Z. G. Pinsker, Rentgenovskaya Kristallooptika (Moscow: Nauka: 1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Ингал, Е. А. Беляевская, В. А. Бушуев, Способ фазовой рентгенографии объектов и устройство для его осуществления (варианты), Патент Российской Федерации № 2115943 (G03B42/02, G01N23/04) (Опубл. 20 июля 1998).",
+				"tr":  "V. N. Ingal, E. A. Beliaevskaya, and V. A. Bushuev, Sposob Fazovoy Rentgenografii Ob'ektov i Ustroystvo dlya Ego Osushchestvleniya (Varianty), Patent of the Russian Federation No. 2115943 (G03B42/02, G01N23/04) (Published July 20, 1998) (in Russian)."
+			},
+			{
+				"doi": "10.1143/JJAP.40.L844",
+				"or":  "M. Ando, H. Sugiyama, A. Maksimenko, W. Pattanasiriwisawa, K. Hyodo, and Zh. Xiaowei, Jpn. J. Appl. Phys., 40, No. 8A: L844 (2001).",
+				"tr":  "M. Ando, H. Sugiyama, A. Maksimenko, W. Pattanasiriwisawa, K. Hyodo, and Zh. Xiaowei, Jpn. J. Appl. Phys., 40, No. 8A: L844 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Кумар, Теория возмущений и проблема многих тел для атомного ядра (Москва: Мир: 1964).",
+				"tr":  "K. Kumar, Teoriya Vozmushcheniy i Problema Mnogikh Tel dlya Atomnogo Yadra (Moscow: Mir: 1964) (Russian¬ translation)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Лизунова, В. Б. Молодкин, Б. В. Шелудченко и др., Металлофиз. новейшие технол., 35, № 11: 1585 (2013).",
+				"tr":  "S. V. Lizunova, V. B. Molodkin, B. V. Sheludchenko et al., Metallofiz. Noveishie Tekhnol., 35, No. 11: 1585 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, М. В. Ковальчук, И. М. Карнаухов и др., Основы интегральной многопараметрической диффузнодинамической дифрактометрии (Нальчик: Кабардино-Балкарский университет: 2013).",
+				"tr":  "V. B. Molodkin, M. V. Koval'chuk, I. M. Karnaukhov et al., Osnovy Integral'noy Mnogoparametricheskoy Diffuznodinamicheskoy Difraktometrii (Nal'chik: Kabardino-Balkarskiy Universitet: 2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, М. В. Ковальчук, И. М. Карнаухов и др., Основы динамической высокоразрешающей дифрактометрии функциональных материалов (Нальчик: Кабардино-Балкарский университет: 2013).",
+				"tr":  "V. B. Molodkin, M. V. Koval'chuk, I. M. Karnauhov et al., Osnovy Dinamicheskoy Vysokorazreshayushchey Difraktometrii Funktsional'nykh Materialov (Nal'chik: Kabardino-Balkarskiy Universitet: 2013) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.1389321",
+				"or":  "R. Barabash, G. E. Ice, B. C. Larson, G. M. Pharr, K.-S. Chung, and W. Yang, Appl. Phys. Lett., 79, Iss. 6: 749 (2001).",
+				"tr":  "R. Barabash, G. E. Ice, B. C. Larson, G. M. Pharr, K.-S. Chung, and W. Yang, Appl. Phys. Lett., 79, Iss. 6: 749 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "V. B. Molodkin, Phys. Metals, 3, No. 3: 573 (1981).",
+				"tr":  "V. B. Molodkin, Phys. Metals, 3, No. 3: 573 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "V. B. Molodkin, Phys. Metals, 3, No. 4: 615 (1981).",
+				"tr":  "V. B. Molodkin, Phys. Metals, 3, No. 4: 615 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, Е. А. Тихонова, Физ. мет. металловед., 24, № 3: 385 (1967).",
+				"tr":  "V. B. Molodkin and E. A. Tikhonova, Fiz. Met. Metalloved., 24, No. 3: 385 (1967) (in Russian)."
+			}
+		]
+	}
+}

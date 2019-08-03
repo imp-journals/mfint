@@ -1,0 +1,181 @@
+{
+	"_id":    "MFiNT.39.02.0265",
+	"year":   2017,
+	"volume": 39,
+	"issue":  2,
+	"pages":  [265,284],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["06.12.2016"],
+	"PACS":   "05.70.Ln, 61.72.Lk, 61.72.Mm, 62.20.F-, 64.30.Ef, 81.20.Hy, 81.30.Bx, 83.10.-y",
+	"title":   {
+		"ua": "Моделювання кінетики режимів фраґментації матеріялів за інтенсивної пластичної деформації",
+		"en": "Modelling of Kinetics of Modes of a Fragmentation of Materials at a Severe Plastic Deformation",
+		"ru": "Моделирование кинетики режимов фрагментации материалов при интенсивной пластической деформации"
+	},
+	"abstract": {
+		"ua": "У рамках нерівноважної еволюційної термодинаміки досліджується процес фраґментації металів, підданих обробленню методами інтенсивної пластичної деформації. Розглянутий підхід уможливлює виділити основні канали дисипації енергії системи. У наближенні дводефектного моделю з урахуванням дислокацій і меж зерен побудовано фазову діяграму, що встановлює умови формування граничних (стаціонарних) структур різних типів. Досліджено кінетику еволюції густин кожного типу дефектів. Показано, яким чином, залежно від їхніх початкових значень і значень керувальних параметрів, — пружніх зсувних і стискальних деформацій, — формуються ці структури. Встановлено вплив на кінетику процесу ступеня взаємодії двох дефектних підсистем. Виявлено, що зміна станів системи має характер структурно-фазового переходу. Зі способів опису випливає, що гранична (стаціонарна) структура не є незмінною, а являє собою динамічну рівновагу процесів ґенерації й анігіляції структурних дефектів.",
+		"en": "The process of metals’ fragmentation due to treatment by methods of a severe plastic deformation is investigated within the scope of nonequilibrium evolutional thermodynamics. Reviewing approach allows identifying the main channels of energy dissipation in system. The phase diagram is obtained within the approximation of a two-defect model taking into account both dislocations and grain boundaries. It sets the conditions of formation of various types of limiting (stationary) structures. The kinetics of the evolution of density of each defects’ type is investigated. As shown, the stationary structures are formed depending on the initial values of defects’ density and the values of control parameters, which are elastic shear and compressive strains. The influence of the degree of interaction of two defect subsystems on kinetics process is established. As found, the change of system states has the nature of structural-phase transition. As it follows from description ways, the limiting (stationary) structure is not invariable. It is represented as dynamic equilibrium between the processes of generation and annihilation of structural defects.",
+		"ru": "В рамках неравновесной эволюционной термодинамики исследуется процесс фрагментации металлов, подвергнутых обработке методами интенсивной пластической деформации. Рассматриваемый подход позволяет выделить основные каналы диссипации энергии системы. В приближении двухдефектной модели с учётом дислокаций и границ зёрен построена фазовая диаграмма, устанавливающая условия формирования предельных (стационарных) структур различных типов. Исследована кинетика эволюции плотностей каждого типа дефектов. Показано, каким образом, в зависимости от их начальных значений и значений управляющих параметров, — упругих сдвиговых и сжимающих деформаций, — формируются эти структуры. Установлено влияние на кинетику процесса степени взаимодействия двух дефектных подсистем. Выявлено, что изменение состояний системы имеет характер структурно-фазового перехода. Из способов описания следует, что предельная (стационарная) структура не является неизменной, а представляет собой динамическое равновесие процессов генерации и аннигиляции структурных дефектов."
+	},
+	"keywords": {
+		"ua": "межа зерна, дислокація, фазовий перехід, фазова діяграма, внутрішня енергія",
+		"en": "grain boundary, dislocation, phase transition, phase diagram, internal energy",
+		"ru": "граница зерна, дислокация, фазовый переход, фазовая диаграмма, внутренняя энергия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. В. Хоменко", "en": "O. V. Khomenko", "ru": "A. В. Хоменко"},
+			"OID": [208]
+		},
+		{
+			"AID": {"ua": "Д. С. Трощенко", "en": "D. S. Troshchenko", "ru": "Д. С. Трощенко"},
+			"OID": [208]
+		},
+		{
+			"AID": {"ua": "Л. С. Метлов", "en": "L. S. Metlov", "ru": "Л. С. Метлов"},
+			"OID": [9]
+		}
+	],
+	"references": {
+		"count": 27,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Р. З. Валиев, И. В. Александров, Объёмные наноструктурные металлические материалы: получение, структура и свойства (Москва: ИКЦ «Академкнига»: 2007).",
+				"tr":  "R. Z. Valiev and I. V. Aleksandrov, Ob'yomnye Nanostrukturnye Metallicheskie Materialy: Poluchenie, Struktura i Svoystva (Moscow: Akademkniga: 2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. К. Исламгалиев, К. М. Нестеров, Р. З. Валиев, Вестник УГАТУ, 17, № 4: 81 (2013).",
+				"tr":  "R. K. Islamgaliev, K. M. Nesterov, and R. Z. Valiev, Vestnik UGATU, 17, No. 4: 81 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Г. Бродова, Журнал СФУ. Техника и технологии, 8, № 4: 519 (2015).",
+				"tr":  "I. G. Brodova, Zhurnal SFU. Tekhnika i Tekhnologii, 8, No. 4: 519 (2015) (in Russian)."
+			},
+			{
+				"doi": "10.1134/S1063783407050113",
+				"or":  "А. А. Мазилкин, Б. Б. Страумал, С. Г. Протасова, О. А. Когтенкова, Р. З. Валиев, ФТТ, 49, № 5: 824 (2007).",
+				"tr":  "A. A. Mazilkin, B. B. Straumal, S. G. Protasova, O. A. Kogtenkova, and R. Z. Valiev, Phys. Solid State, 49, No. 5: 868 (2007)."
+			},
+			{
+				"doi": "10.1016/j.matlet.2013.02.058",
+				"or":  "B. B. Straumal, S. G. Protasova, A. A. Mazilkin, O. A. Kogtenkova, L. Kurmanaeva, B. Baretzky, G. Schütz, A. Korneva, and P. Zięba, Mater. Lett., 98: 217 (2013).",
+				"tr":  "B. B. Straumal, S. G. Protasova, A. A. Mazilkin, O. A. Kogtenkova, L. Kurmanaeva, B. Baretzky, G. Schütz, A. Korneva, and P. Zięba, Mater. Lett., 98: 217 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Segal, Severe Plastic Deformation (Ed. Burhanettin Altan) (New York: Nova Science Publishers: 2006), p. 1.",
+				"tr":  "V. Segal, Severe Plastic Deformation (Ed. Burhanettin Altan) (New York: Nova Science Publishers: 2006), p. 1."
+			},
+			{
+				"doi": "10.22226/2410-3535-2012-3-117-120",
+				"or":  "С. Н. Сергеев, И. М. Сафаров, А. В. Корзников, Р. М. Галеев, С. В. Гладковский, Е. М. Бородин, Письма о материалах, 2, № 3: 117 (2012).",
+				"tr":  "S. N. Sergeev, I. M. Safarov, A. V. Korznikov, R. M. Galeyev, S. V. Gladkovsky, and E. M. Borodin, Letters on Materials, 2, No. 3:117 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. Е. Бейгельзимер, В. Н. Варюхин, С. Сынков, Д. Орлов, Винтовая экструзия — процесс накопления деформаций (Донецк: ТЕАН: 2003).",
+				"tr":  "Ya. E. Beygelzimer, V. N. Varyukhin, D. V. Orlov, and S. G. Synkov, Vintovaya Ekstruziya—Protsess Nakopleniya Deformatsiy [Twist Extrusion—Process of Deformation Accumulation] (Donetsk: TEAN: 2003) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.90.022124",
+				"or":  "L. S. Metlov, Phys. Rev. E, 90, No. 2: 022124 (2014).",
+				"tr":  "L. S. Metlov, Phys. Rev. E, 90, No. 2: 022124 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. С. Метлов, Неравновесная эволюционная термодинамика и её приложения (Донецк: Ноулидж: 2014).",
+				"tr":  "L. S. Metlov, Neravnovesnaya Evolyutsionnaya Termodinamika i Ee Prilozheniya [Nonequilibrium Evolution Thermodynamics and Its Applications] (Donetsk: Knowledge: 2014) (in Russian)."
+			},
+			{
+				"doi": "10.1134/1.1521458",
+				"or":  "Г. А. Малыгин, ФТТ, 44, № 11: 1979 (2002).",
+				"tr":  "G. A. Malygin, Phys. Solid State, 44, No. 11: 2072 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. С. Метлов, Вестник ДонГУ. Сер. А: Естественные науки, 2: 144 (2009).",
+				"tr":  "L. S. Metlov, Vestnik DonGU. Ser. A: Estestvennye Nauki, 2: 144 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. С. Метлов, В. Н. Варюхин, Физика и техника высоких давлений, 22, № 2: 7 (2012).",
+				"tr":  "L. S. Metlov and V. N. Varyukhin, Physics and High Pressure Technology, 22, No. 2: 7 (2012) (in Russian)."
+			},
+			{
+				"doi": "10.5488/CMP.18.33004",
+				"or":  "A. V. Khomenko, D. S. Troshchenko, and L. S. Metlov, Condens. Matt. Phys., 18, No. 3: 33004 (2015).",
+				"tr":  "A. V. Khomenko, D. S. Troshchenko, and L. S. Metlov, Condens. Matt. Phys., 18, No. 3: 33004 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Хоменко, Д. С. Трощенко, Д. В. Бойко, М. В. Захаров, Ж. нано-електрон. фіз., 7, № 1: 01039 (2015).",
+				"tr":  "A. V. Khomenko, D. S. Troshchenko, D. V. Boyko, and M. V. Zakharov, Zh. Nano- Elektron. Fiz., 7, No. 1: 01039 (2015) (in Russian)."
+			},
+			{
+				"doi": "10.1134/S1063784215070142",
+				"or":  "Ю. В. Хлебникова, Л. Ю. Егорова, В. П. Пилюгин, Т. Р. Суаридзе, А. М. Пацелов, ЖТФ, 85, № 7: 60 (2015).",
+				"tr":  "Yu. V. Khlebnikova, L. Yu. Egorova, V. P. Pilyugin, T. R. Suaridze, and A. M. Patselov, Tech. Phys., 60, No. 7: 1005 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. С. Метлов, Сборник тезисов международной конференции «Прочность неоднородных структур. ПРОС-2016» (19–21 апреля, 2016, Москва), c. 22.",
+				"tr":  "L. S. Metlov, Sbornik Tezisov Mezhdunarodnoy Konferentsii 'Prochnost' Neodnorodnykh Struktur. PROS-2016' (Apr. 19–21, 2016, Moscow), p. 22 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Горшков, Э. И. Старовойтов, Д. В. Тарлаковский, Теория упругости и пластичности (Москва: Физматлит: 2002).",
+				"tr":  "A. G. Gorshkov, E. I. Starovoytov, and D. V. Tarlakovskiy, Teoriya Uprugosti i Plastichnosti (Moscow: Fizmatlit: 2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Д. Ландау, Е. М. Лифшиц, Теория упругости (Москва: Физматлит: 2003).",
+				"tr":  "L. D. Landau and E. M. Lifshitz, Theory of Elasticity (Oxford: Butterworth-Heinemann: 1986)."
+			},
+			{
+				"doi": "10.3367/UFNe.0182.201210f.1081",
+				"or":  "А. В. Хоменко, Я. А. Ляшенко, УФН, 182, № 10: 1081 (2012).",
+				"tr":  "A. V. Khomenko and I. A. Lyashenko, Phys. Usp., 55, No. 10: 1008 (2012)."
+			},
+			{
+				"doi": "10.1016/S0378-4371(02)01991-X",
+				"or":  "A. I. Olemskoi, A. V. Khomenko, and D. O. Kharchenko, Physica A, 323: 263 (2003).",
+				"tr":  "A. I. Olemskoi, A. V. Khomenko, and D. O. Kharchenko, Physica A, 323: 263 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. М. Лахтин, В. П. Леонтьева, Материаловедение: Учебник для высших технических учебных заведений (Москва: Машиностроение: 1990).",
+				"tr":  "Yu. M. Lakhtin and V. P. Leontieva, Materialovedenie: Uchebnik dlya Vysshikh Tekhnicheskikh Uchebnykh Zavedeniy (Moscow: Mashinostroenie: 1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Хоменко, Я. А. Ляшенко, Л. С. Метлов, Металофиз. новейшие технол., 30, № 6: 859 (2008).",
+				"tr":  "A. V. Khomenko, Ya. A. Lyashenko, and L. S. Metlov, Metallofiz. Noveishie Tekhnol., 30, No. 6: 859 (2008) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.37.07.0899",
+				"or":  "А. Д. Погребняк, К. А. Дядюра, О. П. Гапонова, Металофиз. новейшие технол., 37, № 7: 899 (2015).",
+				"tr":  "O. D. Pogrebnjak, K. O. Dyadyura, and O. P. Gaponova, Metallofiz. Noveishie Tekhnol., 37, No. 7: 899 (2015) (in Russian)."
+			},
+			{
+				"doi": "10.1134/S1063783407050228",
+				"or":  "А. В. Хоменко, Я. А. Ляшенко, ФТТ, 49, № 5: 886 (2007).",
+				"tr":  "A. V. Khomenko and I. A. Lyashenko, Phys. Solid State, 49, No. 5, 936 (2007)."
+			},
+			{
+				"doi": "10.1016/j.nimb.2016.09.002",
+				"or":  "A. D. Pogrebnjak, O. V. Bondar, S. O. Borba, G. Abadias, P. Konarski, S. V. Plotnikov, V. M. Beresnev, L. G. Kassenova, and P. Drodziel, Nucl. Instrum. Methods Phys. Res. Sect. B, 385: 74 (2016).",
+				"tr":  "A. D. Pogrebnjak, O. V. Bondar, S. O. Borba, G. Abadias, P. Konarski, S. V. Plotnikov, V. M. Beresnev, L. G. Kassenova, and P. Drodziel, Nucl. Instrum. Methods Phys. Res. Sect. B, 385: 74 (2016)."
+			},
+			{
+				"doi": "10.1070/PU2005v048n05ABEH002055",
+				"or":  "А. Д. Погребняк, Ю. Н. Тюрин, УФН, 175, № 5: 515 (2005).",
+				"tr":  "A. D. Pogrebnjak and Yu. N. Tyurin, Phys. Usp., 48: 487 (2005)."
+			}
+		]
+	}
+}

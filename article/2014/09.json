@@ -1,0 +1,157 @@
+{
+	"year":   2014,
+	"volume": 36,
+	"issue":  9,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [1145,1151],
+			"title": {
+				"ua": "Релаксація сильно подавленого модуля намагнетованости після надшвидкого знемагнетування",
+				"en": "Relaxation of Strongly Suppressed Modulus of Magnetization Following Ultrafast Demagnetization",
+				"ru": "Релаксация сильно подавленного модуля намагниченности после сверхбыстрого размагничивания"
+			},
+			"autors": {
+				"ua": "І. А. Ястремський",
+				"en": "I. A. Yastremsky",
+				"ru": "И. А. Ястремский"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [1153,1169],
+			"title": {
+				"ua": "Особливості фазоутворення при контрольованому гідруванні та дегідруванні титану різними методами",
+				"en": "Features of Phase Formation at Controlled Hydrogenation and Dehydrogenation of Titanium by Different Methods",
+				"ru": "Особенности фазообразования при контролируемом гидрировании и дегидрировании титана разными методами"
+			},
+			"autors": {
+				"ua": "О. І. Дехтяр, О. М. Івасишин, Д. Ю. Ковальов, О. М. Кордубан, В. К. Прокудіна, В. І. Ратніков, Д. Г. Саввакін, А. Є. Сичьов, М. М. Гуменяк",
+				"en": "O. I. Dekhtyar, O. M. Ivasishin, D. Yu. Kovalev, O. M. Korduban, V. K. Prokudina, V. I. Ratnikov, D. G. Savvakin, A. Ye. Sychev, and M. M. Gumenyak",
+				"ru": "А. И. Дехтяр, О. М. Ивасишин, Д. И. Ковалёв, А. М. Кордубан, В. К. Прокудина, В. И. Ратников, Д. Г. Саввакин, А. Е. Сычёв, Н. М. Гуменяк"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [1171,1187],
+			"title": {
+				"ua": "Дифузія за дії ударного стиснення та змінного електричного струму в умовах високих температур",
+				"en": "Diffusion under the Action of Shock Compression and Alternating Electric Current at High Temperatures",
+				"ru": "Диффузия при действии ударного сжатия и переменного электрического тока в условиях высоких температур"
+			},
+			"autors": {
+				"ua": "С. І. Кучук-Яценко, Г. К. Харченко, В. М. Міронов, Д. В. Міронов, В. Ф. Мазанко, Д. С. Герцрікен, С. Є. Богданов",
+				"en": "S. I. Kuchuk-Yatsenko, G. K. Kharchenko, V. M. Mironov, D. V. Mironov, V. F. Mazanko, D. S. Gertsriken, and S. E. Bogdanov",
+				"ru": "С. И. Кучук-Яценко, Г. К. Харченко, В. М. Миронов, Д. В. Миронов, В. Ф. Мазанко, Д. С. Герцрикен, С. Е. Богданов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1189,1205],
+			"title": {
+				"ua": "Структура та властивості композиту A356—AlCuFe, отриманого з використанням електромагнітного перемішування",
+				"en": "Structure and Properties of А356—AlCuFe Composite Obtained Using Electromagnetic Agitation",
+				"ru": "Структура и свойства композита A356—AlCuFe, полученного с использованием электромагнитного перемешивания"
+			},
+			"autors": {
+				"ua": "С. С. Поліщук, А. Л. Березіна, А. А. Давиденко, В. З. Спусканюк, В. Н. Фікссен, А. В. Ященко, В. В. Бурховецький",
+				"en": "S. S. Polishchuk, A. L. Berezina, A. A. Davidenko, V. Z. Spuskanyuk, V. N. Fixsen, A. V. Yashchenko, and V. V. Burkhovetskii",
+				"ru": "С. С. Полищук, А. Л. Березина, А. А. Давиденко, В. З. Спусканюк, В. Н. Фикссен, А. В. Ященко, В. В. Бурховецкий"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1207,1224],
+			"title": {
+				"ua": "Комп’ютерне моделювання механізму виникнення локалізованих синергетичних дефектних субструктур при пластичній деформації нанокристалів металів",
+				"en": "Computer Modelling of Mechanism of Formation of Localized Synergetic Defect Substructures under Plastic Deformation of Metal Nanocrystals",
+				"ru": "Компьютерное моделирование механизма возникновения локализованных синергетических дефектных субструктур при пластической деформации нанокристаллов металлов"
+			},
+			"autors": {
+				"ua": "О. С. Гаценко, О. Е. Засимчук, П. О. Теселько, С. Г. Стіренко, Ю. Г. Гордієнко",
+				"en": "O. S. Gatsenko, O. E. Zasymchuk, P. O. Tesel’ko, S. G. Stirenko, and Yu. G. Gordienko",
+				"ru": "А. С. Гаценко, Е. Э. Засимчук, П. О. Теселько, С. Г. Стиренко, Ю. Г. Гордиенко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [1225,1236],
+			"title": {
+				"ua": "Структурні переходи ГЦК—ікосаедр в нанокластерах алюмінію та свинцю",
+				"en": "Structural F.C.C.—Icosahedron Transitions within the Aluminium and Lead Nanoclusters",
+				"ru": "Структурные переходы ГЦК—икосаэдр в нанокластерах алюминия и свинца"
+			},
+			"autors": {
+				"ua": "В. С. Байдишев, Ю. Я. Гафнер",
+				"en": "V. S. Baydyshev and Yu. Ya. Gafner",
+				"ru": "В. С. Байдышев, Ю. Я. Гафнер"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [1237,1246],
+			"title": {
+				"ua": "Залежність структурних властивостей SBT-плівок від температури синтезу",
+				"en": "Dependence of the Structural Properties of Ferroelectric SrBi$_{2}$Ta$_{2}$O$_{9}$ Films on the Temperature of Synthesis",
+				"ru": "Зависимость структурных свойств SBT-плёнок от температуры синтеза"
+			},
+			"autors": {
+				"ua": "В. В. Сидський, А. Г. Рибаков, А. В. Семченко, І. Ю. Осипова, В. В. Колос, А. С. Турцевич, А. Н. Асадчий",
+				"en": "V. V. Sidsky, A. G. Rybаkov, A. V. Semchenko, I. Yu. Osipova, V. V. Kolos, A. S. Turtsevych, and A. N. Asadchii",
+				"ru": "В. В. Сидский, А. Г. Рыбаков, А. В. Семченко, И. Ю. Осипова, В. В. Колос, А. С. Турцевич, А. Н. Асадчий"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [1247,1258],
+			"title": {
+				"ua": "Термічний аналіз індукційного спікання брикетів порошкових металів аж до температури спікання",
+				"en": "Thermal Analyses for Induction Sintering of Powder Metal Compacts up to Sintering Temperature",
+				"ru": "Термический анализ индукционного спекания прессовок порошковых металлов вплоть до температуры спекания"
+			},
+			"autors": {
+				"ua": "У. Чавдар, Е. Атикь, М. Б. Акгюль, Х. Караджа",
+				"en": "U. Çavdar, E. Atik, M. B. Akgül, and H. Karaca",
+				"ru": "У. Чавдар, Э. Атыкь, М. Б. Акгюль, Х. Караджа"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [1259,1270],
+			"title": {
+				"ua": "Тонка структура поверхневого шару і трибологічні властивості деталей із поліпшеної сталі 40Х після чистової токарної обробки різцями з покриттями",
+				"en": "The Fine Structure of the Surface Layer and Tribological Properties of QT 41Cr4 Steel Parts after Finish Turning Machining with Coated Cutters",
+				"ru": "Тонкая структура поверхностного слоя и трибологические свойства деталей из улучшенной стали 40Х после чистовой токарной обработки резцами с покрытиями"
+			},
+			"autors": {
+				"ua": "М. Єнек, Е. Фельдштейн",
+				"en": "M. Jenek and E. Feldshtein",
+				"ru": "М. Енек, Е. Фельдштейн"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  2,
+			"pages":  [1271,1285],
+			"title": {
+				"ua": "Можливості діагностики декількох типів дефектів кристалу на основі ефекту неоднакового впливу дефектів різного типу на деформаційну залежність повної інтегральної інтенсивності динамічної дифракції",
+				"en": "Possibilities of Diagnostics of Several Types of Crystal Defects Based on the Effect of Different Influence of Defects of Various Types on the Strain Dependence of Total Integrated Intensity of Dynamical Diffraction",
+				"ru": "Возможности диагностики нескольких типов дефектов кристалла на основе эффекта различного влияния дефектов разного типа на деформационную зависимость полной интегральной интенсивности динамической дифракции"
+			},
+			"autors": {
+				"ua": "В. В. Лізунов, С. М. Бровчук, А. І. Нізкова, В. Б. Молодкін, С. В. Лізунова, Б. В. Шелудченко, Г. І. Гранкіна, І. І. Рудницька, С. В. Дмитрієв, М. Г. Толмачьов, Р. В. Лехняк, Л. М. Скапа, Н. П. Ірха",
+				"en": "V. V. Lizunov, S. M. Brovchuk, A. I. Nizkova, V. B. Molodkin, S. V. Lizunova, B. V. Sheludchenko, A. I. Grankina, I. I. Rudnitska, S. V. Dmitriev, M. G. Tolmachev, R. V. Lekhnyak, L. M. Skapa, and N. P. Irkha",
+				"ru": "В. В. Лизунов, С. М. Бровчук, А. И. Низкова, В. Б. Молодкин, С. В. Лизунова, Б. В. Шелудченко, А. И. Гранкина, И. И. Рудницкая, С. В. Дмитриев, Н. Г. Толмачёв, Р. В. Лехняк, Л. Н. Скапа, Н. П. Ирха"
+			}
+		}
+	]
+}

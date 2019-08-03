@@ -1,0 +1,132 @@
+{
+	"_id":    "MFiNT.36.09.1259",
+	"year":   2014,
+	"volume": 36,
+	"issue":  9,
+	"pages":  [1259,1270],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["21.01.2014"],
+	"PACS":   "46.55.+d, 46.80.+j, 62.20.Qp, 68.35.Gy, 81.40.Pq, 81.65.Ps",
+	"title":   {
+		"ua": "Тонка структура поверхневого шару і трибологічні властивості деталей із поліпшеної сталі 40Х після чистової токарної обробки різцями з покриттями",
+		"en": "The Fine Structure of the Surface Layer and Tribological Properties of QT 41Cr4 Steel Parts after Finish Turning Machining with Coated Cutters",
+		"ru": "Тонкая структура поверхностного слоя и трибологические свойства деталей из улучшенной стали 40Х после чистовой токарной обработки резцами с покрытиями"
+	},
+	"abstract": {
+		"ua": "Наведено результати дослідження змін тонкої структури поверхневого шару і трибологічних властивостей деталів із поліпшеної сталі 40Х після чистового точіння залежно від складу і товщини покриття PVD на змінних твердостопних платівках. Встановлено взаємозв’язки між параметрами тонкої структури, залишковими напруженнями поверхневого шару, коефіцієнтами тертя та інтенсивністю зношування обробленої поверхні.",
+		"en": "The results of studies of changes in the fine structure of the surface layer and tribological properties of parts made of the QT steel 41Cr4 after finish-turning operation depending on composition and thickness of the PVD coating on changeable carbide blades are described. Correlations between the parameters of fine structure, the residual stresses of a surface layer, the coefficients of friction, and the wear rate of the machined surface are determined.",
+		"ru": "Представлены результаты исследования изменений тонкой структуры поверхностного слоя и трибологических свойств деталей из улучшенной стали 40Х после чистового точения в зависимости от состава и толщины покрытия PVD на сменных твёрдосплавных пластинах. Установлены взаимосвязи между параметрами тонкой структуры, остаточными напряжениями поверхностного слоя, коэффициентами трения и интенсивностью изнашивания обработанной поверхности."
+	},
+	"keywords": {
+		"ua": "тонка структура, сталь 40Х, чистова токарна обробка, покриття PVD",
+		"en": "fine structure, QT 41Cr4 steel, finish turning, PVD coatings",
+		"ru": "тонкая структура, сталь 40Х, чистовое точение, покрытия PVD"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. Єнек", "en": "M. Jenek", "ru": "М. Енек"},
+			"OID": [477]
+		},
+		{
+			"AID": {"ua": "Е. Фельдштейн", "en": "E. Feldshtein", "ru": "Е. Фельдштейн"},
+			"OID": [477]
+		}
+	],
+	"references": {
+		"count": 18,
+		"list":  [
+			{
+				"doi": "10.1016/j.ijmachtools.2011.08.019",
+				"or":  "G. Bartarya and S. K. Choudhury, Int. J. Mach. Tools Manuf., 53, No. 1: 1 (2012).",
+				"tr":  "G. Bartarya and S. K. Choudhury, Int. J. Mach. Tools Manuf., 53, No. 1: 1 (2012)."
+			},
+			{
+				"doi": "10.1016/S0007-8506(07)60200-5",
+				"or":  "G. Byrne, D. Dornfeld, and B. Denkena, CIRP Ann. - Manuf. Technol., 52, No. 2: 483 (2003).",
+				"tr":  "G. Byrne, D. Dornfeld, and B. Denkena, CIRP Ann. - Manuf. Technol., 52, No. 2: 483 (2003)."
+			},
+			{
+				"doi": "10.1016/S0007-8506(07)60654-4",
+				"or":  "M. M. W. Knuefermann and P. A. McKeown, CIRP Ann. - Manuf. Technol., 53, No. 1: 99 (2004).",
+				"tr":  "M. M. W. Knuefermann and P. A. McKeown, CIRP Ann. - Manuf. Technol., 53, No. 1: 99 (2004)."
+			},
+			{
+				"doi": "10.1016/S0007-8506(07)63131-X",
+				"or":  "Y. Matsumoto, F. Hashimoto, and G. Lahoti, CIRP Ann. - Manuf. Technol., 48, No. 1: 59 (1999).",
+				"tr":  "Y. Matsumoto, F. Hashimoto, and G. Lahoti, CIRP Ann. - Manuf. Technol., 48, No. 1: 59 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Burakowski, T. Wierzchoń, Inżynieria Powierzchni Metali: Podstawy, Urządzenia, Technologie (Engineering of a Surface of Metals: Principles, Devices, Technologies) (Warszaw: WNT: 1995) (in Polish).",
+				"tr":  "T. Burakowski, T. Wierzchoń, Inżynieria Powierzchni Metali: Podstawy, Urządzenia, Technologie (Engineering of a Surface of Metals: Principles, Devices, Technologies) (Warszaw: WNT: 1995) (in Polish)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Starzyński, Proc. of VIII Training Sem. ‘Nondestructive Investigations of Materials’ (Zakopane: 2002), p. 32.",
+				"tr":  "G. Starzyński, Proc. of VIII Training Sem. 'Nondestructive Investigations of Materials' (Zakopane: 2002), p. 32."
+			},
+			{
+				"doi": "",
+				"or":  "M. Wysiecki, Nowoczesne Materiały Narzędziowe (Advanced Tool Materials) (Warszaw: WNT: 1997) (in Polish).",
+				"tr":  "M. Wysiecki, Nowoczesne Materiały Narzędziowe (Advanced Tool Materials) (Warszaw: WNT: 1997) (in Polish)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Фельдштейн, Г. Паха-Голенбиовска, Металлофиз. новейшие технол., 33, № 11: 1543 (2011).",
+				"tr":  "E. Feldshtein and H. Pacha-Gołębiowska, Metallofiz. Noveishie Tekhnol., 33, No. 11: 1543 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Хебда, А. В. Чичинадзе, Справочник по триботехнике. Т. 2. Смазочные материалы, техника смазки, опоры скольжения и качения (Москва: Машиностроение: 1990).",
+				"tr":  "M. Khebda and A. V. Chichinadze, Spravochnik po Tribotekhnike. T. 2. Smazochnye Materialy, Tekhnika Smazki, Opory Skol'zheniya i Kacheniya (Tribological Engineering Handbook. Vol. 2. Lubricants, Lubrication Technique, Sliding and Rolling Bearings) (Moscow: Mashinostroenie: 1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. С. Мороз, Журнал технической физики, 24, № 4: 705 (1954).",
+				"tr":  "L. S. Moroz, Zhurnal Tekhnicheskoy Fiziki, 24, No. 4: 705 (1954) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. С. Уманский, Л. Х. Пивоваров, Заводская лаборатория, 24, № 5: 549 (1958).",
+				"tr":  "Ya. S. Umanskiy and L. Kh. Pivovarov, Zavodskaya Laboratoriya, 24, No. 5: 549 (1958) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. С. Мороз, Тонкая структура и прочность стали (Москва: Металлургиздат: 1957).",
+				"tr":  "L. S. Moroz, Tonkaya Struktura i Prochnost' Stali (Fine Structure and Strength of Steel) (Moscow: Metallurgizdat: 1957) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Курдюмов, М. Д. Перкас, Л. Г. Хандрос, Физ. мет. металловед., 7, № 5: 747 (1959).",
+				"tr":  "G. V. Kurdyumov, M. D. Perkas, and L. G. Khandros, Fiz. Met. Metalloved., 7, No. 5: 747 (1959) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Голубков, Физ. мет. металловед., 5, № 3: 465 (1957).",
+				"tr":  "V. M. Golubkov, Fiz. Met. Metalloved., 5, No. 3: 465 (1957) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Миркин, Я. С. Уманский, Научные доклады высшей школы, 1: 179 (1959).",
+				"tr":  "L. I. Mirkin and Ya. S. Umanskiy, Nauchnye Doklady Vysshey Shkoly (Science Reports of High School), 1: 179 (1959) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. A. Dobrzański, Metalowe Materiały Inżynierskie (Metallic Materials of Engineering) (Warszaw: WNT: 2004) (in Polish).",
+				"tr":  "L. A. Dobrzański, Metalowe Materiały Inżynierskie (Metallic Materials of Engineering) (Warszaw: WNT: 2004) (in Polish)."
+			},
+			{
+				"doi": "10.3367/UFNr.0073.196103e.0503",
+				"or":  "Д. М. Васильев, Б. И. Смирнов, Успехи физических наук, 73, № 3: 503 (1961).",
+				"tr":  "D. M. Vasil'ev and B. I. Smirnov, Uspekhi Fizicheskikh Nauk, 73, No. 3: 503 (1961) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. К. Старков, Дислокационные представления о резании металлов (Москва: Машиностроение: 1979).",
+				"tr":  "V. K. Starkov, Dislokatsionnye Predstavleniya o Rezanii Metallov (Dislocation Ideas about Metal Cutting) (Moscow: Mashinostroenie: 1979) (in Russian)."
+			}
+		]
+	}
+}

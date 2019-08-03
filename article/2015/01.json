@@ -1,0 +1,157 @@
+{
+	"year":   2015,
+	"volume": 37,
+	"issue":  1,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [1,12],
+			"title": {
+				"ua": "Термомагнітні ефекти в просторово неоднорідній системі з комбінованим резистивно-магнітним фазовим переходом першого роду",
+				"en": "Thermomagnetic Effects in Spatially Heterogeneous System with the Combined Resistance—Magnetic Phase Transition of the First Kind",
+				"ru": "Термомагнитные эффекты в пространственно неоднородной системе с комбинированным резистивно-магнитным фазовым переходом первого рода"
+			},
+			"autors": {
+				"ua": "Ю. І. Джежеря, А. М. Грищук",
+				"en": "Yu. I. Dzhezherya and A. N. Gryshchuk",
+				"ru": "Ю. И. Джежеря, А. Н. Грищук"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  1,
+			"pages":  [13,36],
+			"title": {
+				"ua": "Кластерна модель рідкого або аморфного металу. Квантово-статистична теорія. Електричні та магнітні властивості",
+				"en": "Cluster Model of Liquid or Amorphous Metal. The Quantum-Statistical Theory. Electrical and Magnetic Properties",
+				"ru": "Кластерная модель жидкого или аморфного металла. Квантово-статистическая теория. Электрические и магнитные свойства"
+			},
+			"autors": {
+				"ua": "О. І. Міцек, В. М. Пушкар",
+				"en": "O. I. Mitsek and V. M. Pushkar",
+				"ru": "А. И. Мицек, В. Н. Пушкарь"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  1,
+			"pages":  [37,47],
+			"title": {
+				"ua": "Рентгеноспектральні дослідження аморфного металічного сплаву Fe$_{82}$Si$_{4}$B$_{14}$",
+				"en": "X-Ray Spectral Examinations of Amorphous Metallic Fe$_{82}$Si$_{4}$B$_{14}$ Alloy",
+				"ru": "Рентгеноспектральные исследования аморфного металлического сплава Fe$_{82}$Si$_{4}$B$_{14}$"
+			},
+			"autors": {
+				"ua": "В. Х. Касіяненко, В. Л. Карбівський, С. С. Смоляк, О. І. Слуховський, Л. І. Карбівська, В. К. Носенко",
+				"en": "V. Kh. Kasiyanenko, V. L. Karbivskyy, S. S. Smolyak, O. I. Slukhovskyy, L. I. Karbovska, and V. K. Nosenko",
+				"ru": "В. Х. Касияненко, В. Л. Карбовский, С. С. Смоляк, О. И. Слуховский, Л. И. Карбовская, В. К. Носенко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  1,
+			"pages":  [49,65],
+			"title": {
+				"ua": "Вплив заміни нікеля кобальтом на термічну стійкість і мікротвердість сплавів Al$_{86}$Ni$_{8}$Gd$_{6}$ і Al$_{86}$Ni$_{8}$Y$_{6}$ з аморфною і нанокомпозитною структурою",
+				"en": "Influence of Substitution of Nickel by Cobalt on Thermal Stability and Microhardness of Al$_{86}$Ni$_{8}$Gd$_{6}$ and Al$_{86}$Ni$_{8}$Y$_{6}$ Alloys with Amorphous and Nanocomposite Structure",
+				"ru": "Влияние замены никеля кобальтом на термическую устойчивость и микротвёрдость сплавов Al$_{86}$Ni$_{8}$Gd$_{6}$ и Al$_{86}$Ni$_{8}$Y$_{6}$ с аморфной и нанокомпозитной структурой"
+			},
+			"autors": {
+				"ua": "В. К. Носенко, О. О. Сегіда, Г. О. Назаренко, Т. М. Моісеєва, С. О. Костиря, К. А. Свірідова, В. І. Ткач",
+				"en": "V. K. Nosenko, O. O. Segida, A. A. Nazarenko, T. N. Moiseeva, S. A. Kostyrya, E. A. Svirdova, and V. I. Tkach",
+				"ru": "В. К. Носенко, Е. А. Сегида, А. А. Назаренко, Т. Н. Моисеева, С. А. Костыря, Е. А. Свирдова, В. И. Ткач"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [67,78],
+			"title": {
+				"ua": "Відображення повільних електронів від графена на грані (110)W",
+				"en": "Reflection of Slow Electrons from Graphene on the (110)W Face",
+				"ru": "Отражение медленных электронов от графена на грани (110)W"
+			},
+			"autors": {
+				"ua": "М. М. Ніщенко, С. В. Смольник, М. Я. Шевченко",
+				"en": "M. M. Nishchenko, S. V. Smolnik, and M. A. Shevchenko",
+				"ru": "М. М. Нищенко, С. В. Смольник, Н. А. Шевченко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [79,85],
+			"title": {
+				"ua": "Прецизійні функціональні матеріали - сплави з ефектом пам'яті форми на мідній основі",
+				"en": "Precision Functional Materials–the Copper-Based Alloys with a Shape-Memory Effect",
+				"ru": "Прецизионные функциональные материалы – сплавы с эффектом памяти формы на медной основе"
+			},
+			"autors": {
+				"ua": "І. Р. Бублей, Ю. М. Коваль, П. В. Тітов",
+				"en": "I. R. Bubley, Yu. M. Koval, and P. V. Titov",
+				"ru": "И. Р. Бублей, Ю. Н. Коваль, П. В. Титов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [87,102],
+			"title": {
+				"ua": "Проблема вибору першої фази в реакції між наноплівками нікеля та алюмінію",
+				"en": "Problem of a Choice of the First Phase in Reaction between Nanofilms of Nickel and Aluminium",
+				"ru": "Проблема выбора первой фазы в реакции между наноплёнками никеля и алюминия"
+			},
+			"autors": {
+				"ua": "В. М. Безпальчук, С. В. Марченко, О. М. Римар, О. О. Богатирьов, А. М. Гусак",
+				"en": "V. M. Bezpal’chuk, S. V. Marchenko, O. M. Rymar, O. O. Bogatyryov, and A. M. Gusak",
+				"ru": "В. Н. Безпальчук, С. В. Марченко, О. М. Рымар, А. О. Богатырёв, А. М. Гусак"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [103,113],
+			"title": {
+				"ua": "Загальна кінетика пористого розпаду твердих розчинів свинець-олово",
+				"en": "The General Kinetics of Cellular Decomposition of Lead—Tin Solid Solutions",
+				"ru": "Общая кинетика ячеистого распада твёрдых растворов свинец—олово"
+			},
+			"autors": {
+				"ua": "С. П. Ворона, В. Ф. Мазанко, М. І. Савчук, К. М. Храновськая, І. О. Шматко, О. А. Шматко",
+				"en": "S. P. Vorona, V. F. Mazanko, M. I. Savchuk, K. M. Khranovska, I. O. Shmatko, and O. A. Shmatko",
+				"ru": "С. П. Ворона, В. Ф. Мазанко, М. И. Савчук, Е. Н. Храновская, И. О. Шматко, О. А. Шматко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [115,120],
+			"title": {
+				"ua": "Термодинамічне моделювання процесів відновлення оксидів при отриманні металів життя",
+				"en": "Thermodynamic Modelling of Oxide Conversion Processes for Metals of Life",
+				"ru": "Термодинамическое моделирование процессов восстановления оксидов при получении металлов жизни"
+			},
+			"autors": {
+				"ua": "О. І. Мікадзе, Дж. І. Багдавадзе, Т. А. Дзіграшвілі, Н. І. Майсурадзе",
+				"en": "O. I. Mikadze, J. I. Bagdavadze, T. A. Dzigrashvili, and N. I. Maisuradze",
+				"ru": "О. И. Микадзе, Дж. И. Багдавадзе, Т. А. Дзиграшвили, Н. И. Майсурадзе"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [121,134],
+			"title": {
+				"ua": "Ультразвукова ударна обробка поверхневого шару титану ВТ1-0 в субмікрокристалічному стані",
+				"en": "Ultrasonic Impact Processing of Surface Layer of the BT1-0 Titanium in a Submicrocrystalline State",
+				"ru": "Ультразвуковая ударная обработка поверхностного слоя титана ВТ1-0 в субмикрокристаллическом состоянии"
+			},
+			"autors": {
+				"ua": "М. О. Васильєв, Б. М. Мордюк, Д. В. Павленко, Л. Ф. Яценко",
+				"en": "M. O. Vasylyev, B. M. Mordyuk, D. V. Pavlenko, and L. F. Yatsenko",
+				"ru": "М. А. Васильев, Б. Н. Мордюк, Д. В. Павленко, Л. Ф. Яценко"
+			}
+		}
+	]
+}

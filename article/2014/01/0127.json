@@ -1,0 +1,103 @@
+{
+	"_id":    "MFiNT.36.01.0127",
+	"year":   2014,
+	"volume": 36,
+	"issue":  1,
+	"pages":  [127,137],
+	"rubric": 1,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["20.05.2013", "25.09.2013"],
+	"PACS":   "64.70.dg, 68.70.+w, 81.10.Aj, 81.10.Fq, 81.30.Fb, 83.60.-a",
+	"title":   {
+		"ua": "Дослідження впливу перемішування розтопу на формування макро- і мікроструктур",
+		"en": "Investigation of the Influence of Melt Stirring on the Formation of Macro- and Microstructures",
+		"ru": "Исследование влияния перемешивания расплава на формирование макро- и микроструктур"
+	},
+	"abstract": {
+		"ua": "Виконано дослідження процесів структуроутворення при кристалізації стопу АК7ч під впливом перемішування. Експерименти здійснювалися в двох режимах – при охолодженні зразків у пробницях у повітрі та у воді. Швидкості охолодження від заповнення пробниці до досягнення температури ліквідусу становили відповідно 4,1°C/с та 40,7°C/с. Максимально можлива тривалість перемішування до тужавлення каркасу становила 55 с і 6 с. Встановлено, що в обох випадках мало місце зменшення розміру макрозерна зі збільшенням часу перемішування. У той же час поведінка внутрішньозернової морфології істотно відрізнялась. При охолодженні в повітрі класична дендритна морфологія, що формується без перемішування, замінювалась на недендритну розеткову, в той час як при охолодженні у воді структура залишалася дендритною в усьому інтервалі тривалости перемішування, що досліджувався. Складається враження, що відмінність в поведінці пов’язана з відмінністю у швидкості росту кристалів.",
+		"en": "Processes of structure formation during crystallization of AK7ch alloy under stirring are studied. Experiments were carried out in two regimes–cooling of samples on air and in water. Cooling rates were 4.1°C/s and 40.7°C/s from filling of the probe to liquidus temperature, respectively. Maximum possible duration of stirring up to skeleton formation was 55 s and 6 s. As determined in both cases, there is reduction of grain size with increase of stirring time. At the same time, behaviour of internal grain morphology essentially differs. When cooling on air, classic dendrite morphology forming without stirring is replaced by non-dendrite rosette-like, while, when cooling in water, structure remains dendrite within the whole interval of stirring duration studied. It seems that difference in behaviour is caused by difference in crystal-growth rates.",
+		"ru": "В работе выполнено исследование процессов структурообразования при кристаллизации сплава АК7ч под воздействием перемешивания. Эксперименты выполнялись в двух режимах – при охлаждении образцов в пробницах на воздухе и воде. Скорости охлаждения от заполнения пробницы до достижения температуры ликвидуса были соответственно 4,1°C/с и 40,7°C/с. Максимально возможная длительность перемешивания до схватывания каркаса составляла 55 с и 6 с. Установлено, что в обоих случаях имело место уменьшение размера макрозерна с увеличением времени перемешивания. В то же время поведение внутризёренной морфологии существенно отличалось. При охлаждении на воздухе классическая дендритная морфология, формирующаяся без перемешивания, сменялась недендритной розеточной, в то время как при охлаждении в воде структура оставалась дендритной во всём исследовавшемся интервале длительности перемешивания. По всей видимости, различия в поведении связаны с различием в скорости роста кристаллов."
+	},
+	"keywords": {
+		"ua": "макроструктура, мікроструктура, дендрит, недендритна структура",
+		"en": "macrostructure, microstructure, dendrite, non-dendrite structure",
+		"ru": "макроструктура, микроструктура, дендрит, недендритная структура"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. Г. Борисов", "en": "A. G. Borisov", "ru": "А. Г. Борисов"},
+			"OID": [15]
+		}
+	],
+	"references": {
+		"count": 13,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "﻿Г. Ф. Баландин, Основы теории формирования отливки (Москва: Машиностроение: 1979).",
+				"tr":  "G. F. Balandin, Osnovy Teorii Formirovaniya Otlivki (Moscow: Mashinostroenie: 1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. И. Хворинов, Кристаллизация и неоднородность стали (Москва: Государственное научно-техническое издательство машиностроительной литературы: 1958).",
+				"tr":  "N. I. Khvorinov, Kristallizatsiya i Neodnorodnost' Stali (Moscow: Gosudarstvennoe Nauchno-Tekhnicheskoe Izdatel'stvo Mashinostroitel'noy Literatury: 1958) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Флемингс, Процессы затвердевания (Москва: Мир: 1977).",
+				"tr":  "M. Flemings, Protsessy Zatverdevaniya (Moscow: Mir: 1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Оно, Затвердевание металлов (Москва: Металлургия: 1980).",
+				"tr":  "A. Ono, Zatverdevanie Metallov (Moscow: Metallurgiya: 1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Чалмерс, Теория затвердевания (Москва: Металлургия: 1968).",
+				"tr":  "B. Chalmers, Teoriya Zatverdevaniya (Moscow: Metallurgiya: 1968) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Н. Задиранов, А. М. Кац, Теоретические основы кристаллизации металлов и сплавов (Москва: МГИМУ: 2008).",
+				"tr":  "A. N. Zadiranov and A. M. Kats, Teoreticheskie Osnovy Kristallizatsii Metallov i Splavov (Moscow: MGIMU: 2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Б. Гуляев, Теория литейных процессов (Москва: Машиностроение: 1976).",
+				"tr":  "B. B. Gulyaev, Teoriya Liteynykh Protsessov (Moscow: Mashinostroenie: 1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Борисов, Процессы литья, № 4: 33 (2013).",
+				"tr":  "A. G. Borisov, Protsessy Lit'ya, No. 4: 33 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Бялик, А. А. Смульский, Д. Ф. Иванчук, Литейное производство, № 5: 8 (1982).",
+				"tr":  "O. M. Byalik, A. A. Smul'skiy, and D. F. Ivanchuk, Liteynoe Proizvodstvo, No. 5: 8 (1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Смульский, А. И. Семенченко, С. М. Елов, Процессы литья, № 1: 10 (2002).",
+				"tr":  "A. A. Smul'skiy, A. I. Semenchenko, and S. M. Elov, Protsessy Lit'ya, No. 1: 10 (2002) (in Russian)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/AMR.311-313.707",
+				"or":  "G. Tang, W. Mao, and Y. Liu, Adv. Mater. Res., 311–313: 707 (2011).",
+				"tr":  "G. Tang, W. Mao, and Y. Liu, Adv. Mater. Res., 311–313: 707 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Борисов, Металлургия машиностроения, № 5: 20 (2010).",
+				"tr":  "A. G. Borisov, Metallurgiya Mashinostroeniya, No. 5: 20 (2010) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0001-6160(81)90115-2",
+				"or":  "S.-C. Huang and M. E. Gliksman, Acta Metall., 29: 701 (1981).",
+				"tr":  "S.-C. Huang and M. E. Gliksman, Acta Metall., 29: 701 (1981)."
+			}
+		]
+	}
+}

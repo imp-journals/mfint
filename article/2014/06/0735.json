@@ -1,0 +1,91 @@
+{
+	"_id":    "MFiNT.36.06.0735",
+	"year":   2014,
+	"volume": 36,
+	"issue":  6,
+	"pages":  [735,743],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["22.11.2013","24.04.2014"],
+	"PACS":   "02.60.Lj, 68.55.jd, 81.15.Aa, 81.15.Fg, 81.15.Gh, 81.16.Mk",
+	"title":   {
+		"ua": "Визначення умов осадження перехідних металів з їх карбонілів методом моделювання LCVD-процесу",
+		"en": "Determination of Conditions for Transition-Metals’ Deposition from Their Carbonyls by Means of the LCVD-Process Simulation",
+		"ru": "Определение условий осаждения переходных металлов из их карбонилов методом моделирования LCVD-процесса"
+	},
+	"abstract": {
+		"ua": "В рамках математичної моделі, що враховує конвекційний теплообмін з поверхнею утвореного осаду в умовах лазерного CVD-процесу, розраховано розподіли температурного поля та визначено умови формування осаду на діелектричному підложжі під час піролітичного розкладу тетракарбонілу нікелю та карбонілів інших перехідних металів. Методою скінченних елементів розраховано профілі осадів металів, що добре узгоджуються з експериментальними даними. Визначено параметри лазерного випромінення, за яких має місце піроліз карбонілів та осадження металів на підложжя, а також розмірні параметри осадів перехідних металів.",
+		"en": "Within the scope of the mathematical model, which takes into account convective heat transfer to the surface of the precipitate formed in the laser CVD-process, the distribution of temperature field is calculated and the conditions for the formation of precipitate on the dielectric substrate during pyrolytic decomposition of nickel tetracarbonyl and carbonyls of other transition metals are determined. The finite element method is used to calculate precipitation profiles of metals, which are in a good agreement with experimental data. Parameters of the laser radiation, at which the pyrolysis of carbonyls and deposition of metal onto a substrate take place, are calculated. The dimensional parameters of the precipitates of transition metals are predicted.",
+		"ru": "В рамках математической модели, которая учитывает конвективный теплообмен с поверхностью образующегося осадка в условиях лазерного CVD-процесса, рассчитаны распределения температурного поля и определены условия формирования осадка на диэлектрической подложке при пиролитическом разложении тетракарбонила никеля и карбонилов других переходных металлов. Методом конечных элементов рассчитаны профили осадков металлов, которые хорошо согласуются с экспериментальными данными. Определены параметры лазерного излучения, при которых реализуется пиролиз карбонилов и осаждение металлов на подложку, а также размерные параметры осадков переходных металлов."
+	},
+	"keywords": {
+		"ua": "металевий осад, карбоніли металів, діелектричне підложжя, LCVD-процес, нелінійне рівняння теплопровідності",
+		"en": "metal precipitate, metals’ carbonyls, dielectric substrate, LCVD-process, nonlinear heat conduction equation",
+		"ru": "металлический осадок, карбонилы металлов, диэлектрическая подложка, LCVD-процесс, нелинейное уравнение теплопроводности"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "К. В. Кірпенко", "en": "K. V. Kirpenko", "ru": "К. В. Кирпенко"},
+			"OID": [221]
+		},
+		{
+			"AID": {"ua": "А. В. Недоля", "en": "A. V. Nedolya", "ru": "А. В. Недоля"},
+			"OID": [221]
+		},
+		{
+			"AID": {"ua": "І. М. Тітов", "en": "I. M. Titov", "ru": "И. Н. Титов"},
+			"OID": [29]
+		}
+	],
+	"references": {
+		"count": 9,
+		"list":  [
+			{
+				"doi": "10.1007/s00170-003-2008-0",
+				"or":  "H. Choi, Y. Yang, and X. Li, Int. J. Manuf. Technol., 26: 335 (2005).",
+				"tr":  "H. Choi, Y. Yang, X. Li, Int. J. Manuf. Technol., 26: 335 (2005)."
+			},
+			{
+				"doi": "10.1109/TUFFC.2007.240",
+				"or":  "C. T.-C. Nguyen, IEEE Trans. Ultrason., Ferroelect., Freq. Contr., 54, No. 2: 251 (2007).",
+				"tr":  "C. T.-C. Nguyen, IEEE Trans. Ultrason., Ferroelect., Freq. Contr., 54, No. 2: 251 (2007)."
+			},
+			{
+				"doi": "10.1007/s00339-010-5837-3",
+				"or":  "D. Bäuerle, J. Appl. Phys. A, 101: 447 (2010).",
+				"tr":  "D. Bäuerle, J. Appl. Phys. A, 101: 447 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Сыркин, Карбонильные металлы (Москва: Металлургия: 1978).",
+				"tr":  "V. G. Syrkin, Karbonil'nye Metally (Moscow: Metallurgiya: 1978) (in Russian)."
+			},
+			{
+				"doi": "10.1007/BF00617182",
+				"or":  "W. Kräuter, D. Bäuerle, and F. Fimberger, J. Appl. Phys. A, 31: 13 (1983).",
+				"tr":  "W. Kräuter, D. Bäuerle, and F. Fimberger, J. Appl. Phys. A, 31: 13 (1983)."
+			},
+			{
+				"doi": "10.1007/BF02706072",
+				"or":  "J. Han and K. F. Jensen, Korean J. Chem. Eng., 14, No. 2: 129 (1997).",
+				"tr":  "J. Han and K. F. Jensen, Korean J. Chem. Eng., 14, No. 2: 129 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. В. Величко, А. В. Недоля, И. Н. Титов, Физическая инженерия поверхности, 6, № 3–4: 189 (2008).",
+				"tr":  "E. V. Velichko, A. V. Nedolya, and I. N. Titov, Physical Surface Engineering, 6, Nos. 3–4: 189 (2008) (in Russian)."
+			},
+			{
+				"doi": "10.1007/BF01571683",
+				"or":  "N. Arnold, E. Thor, N. Kirichenko, and D. Bäuerle, J. Appl. Phys. A, 62, 503 (1996).",
+				"tr":  "N. Arnold, E. Thor, N. Kirichenko, and D. Bäuerle, J. Appl. Phys. A, 62, 503 (1996)."
+			},
+			{
+				"doi": "10.1007/BF00616969",
+				"or":  "F. Pertzoldt, K. Piglmayer, W. Kräuter, and D. Bäuerle, J. Appl. Phys. A, 35: 155 (1984).",
+				"tr":  "F. Pertzoldt, K. Piglmayer, W. Kräuter, and D. Bäuerle, J. Appl. Phys. A, 35: 155 (1984)."
+			}
+		]
+	}
+}

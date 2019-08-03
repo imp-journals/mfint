@@ -1,0 +1,172 @@
+{
+	"year":   2014,
+	"volume": 36,
+	"issue":  2,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  2,
+			"pages":  [141,146],
+			"title": {
+				"ua": "Роль неоднорідних деформацій і кореляції приповерхневих дефектів у ковзній дифракції рентґенівського випромінювання",
+				"en": "The Role of Inhomogeneous Deformation and Correlation of Subsurface Defects in Grazing X-Ray Diffraction",
+				"ru": "Роль неоднородных деформаций и корреляции приповерхностных дефектов в скользящей дифракции рентгеновского излучения"
+			},
+			"autors": {
+				"ua": "А. Ю. Гаєвський, І. Е. Голентус, В. Б. Молодкін",
+				"en": "A. Yu. Gaevskii, I. E. Golentus, and V. B. Molodkin",
+				"ru": "А. Ю. Гаевский, И. Э. Голентус, В. Б. Молодкин"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [147,174],
+			"title": {
+				"ua": "Термічне поетапне дегідрування аланату кальцію Ca(AlH$_{4}$)$_{2}$. Фазовий склад системи в процесі дегідрування",
+				"en": "Thermal Gradual Dehydrogenation of Calcium Alanate Ca(AlH$_{4}$)$_{2}$. The System Phase Composition During the Process of Dehydrogenation",
+				"ru": "Термическое поэтапное дегидрирование аланата кальция Ca(AlH$_{4}$)$_{2}$. Фазовый состав системы в процессе дегидрирования"
+			},
+			"autors": {
+				"ua": "С. Ю. Загінайченко, Д. В. Щур, З. А. Матисіна, Д. А. Заріцький, Є. А. Каменецька",
+				"en": "S. Yu. Zaginaichenko, D. V. Schur, Z. A. Matysina, D. A. Zaritsky, and E. A. Kamenetskaya",
+				"ru": "С. Ю. Загинайченко, Д. В. Щур, З. А. Матысина, Д. А. Зарицкий, Е. А. Каменецкая"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [175,188],
+			"title": {
+				"ua": "Вплив активності кисню на ефективність гранулювання при виробництві чавуну з кулястим графітом",
+				"en": "Effect of Oxygen Activity on the Effectiveness of Nodulization in the Spheroidal Graphite Cast Iron Production",
+				"ru": "Влияние активности кислорода на эффективность гранулирования при производстве чугуна с шаровидным графитом"
+			},
+			"autors": {
+				"ua": "Іва Нова, Йіржі Махута",
+				"en": "Iva Nová and Jiří Machuta",
+				"ru": "Ива Нова, Йиржи Махута"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [189,193],
+			"title": {
+				"ua": "Зміни поверхневого заряду і вмісту дефектів в кремнії для накопичувачів сонячної енергії, викликані магнітним полем",
+				"en": "Magnetic-Field-Stimulated Modification of Surface Charge and Defect Content in Silicon for Solar Energy Storage",
+				"ru": "Изменения поверхностного заряда и содержания дефектов в кремнии для накопителей солнечной энергии, вызванные магнитным полем"
+			},
+			"autors": {
+				"ua": "В. А. Макара, Л. П. Стебленко, О. А. Коротченков, А. Б. Надточий, Д. В. Калиниченко, А. М. Курилюк, Ю. Л. Кобзар, А. М. Кріт",
+				"en": "V. А. Makara, L. P. Steblenko, О. A. Korotchenkov, А. B. Nadtochiy, D. V. Kalinichenko, А. М. Kuryliuk, Yu. L. Kobzar, and О. М. Krit",
+				"ru": "В. А. Макара, Л. П. Стебленко, О. А. Коротченков, А. Б. Надточий, Д. В. Калиниченко, А. Н. Курилюк, Ю. Л. Кобзарь, А. Н. Крит"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [195,204],
+			"title": {
+				"ua": "Слабка локалізація – можлива причина особливостей температурної поведінки електроопору аморфних сплавів на основі кобальту",
+				"en": "Weak Localization as a Possible Cause of the Peculiarities of Electrical Resistivity Temperature Dependence of the Amorphous Cobalt-Based Alloys",
+				"ru": "Слабая локализация – возможная причина особенностей температурного поведения электросопротивления аморфных сплавов на основе кобальта"
+			},
+			"autors": {
+				"ua": "М. П. Семенько",
+				"en": "M. P. Semen’ko",
+				"ru": "М. П. Семенько"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [205,215],
+			"title": {
+				"ua": "Еліпсометричні властивості тонких плівок молібдену при збудженні поверхневих поляритонів",
+				"en": "Ellipsometric Properties of Thin Films of Molybdenum at the Excitation of Surface Polaritons",
+				"ru": "Эллипсометрические свойства тонких плёнок молибдена при возбуждении поверхностных поляритонов"
+			},
+			"autors": {
+				"ua": "В. В. Лендел, O. В. Ломакіна, Л. Ю. Мельниченко, І. А. Шайкевич",
+				"en": "V. V. Lendel, O. V. Lomakina, L. Yu. Melnichenko, and I. A. Shaykevich",
+				"ru": "В. В. Лендел, О. В. Ломакина, Л. Ю. Мельниченко, И. А. Шайкевич"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [217,228],
+			"title": {
+				"ua": "Ударне ущільнення порошку вольфраму в широкому діапазоні температур. II. Механічні властивості",
+				"en": "Impact Consolidation of the Tungsten Powder in the Wide Range of Temperatures. II. Mechanical Properties",
+				"ru": "Ударное уплотнение порошка вольфрама в широком диапазоне температур. II. Механические свойства"
+			},
+			"autors": {
+				"ua": "О. І. Толочин, А. В. Лаптєв, І. Ю. Окунь, Я. І. Євіч",
+				"en": "O. I. Tolochyn, A. V. Laptev, I. Yu. Okun, and Ya. I. Evich",
+				"ru": "А. И. Толочин, А. В. Лаптев, И. Ю. Окунь, Я. И. Евич"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [229,245],
+			"title": {
+				"ua": "Вплив водню на локалізацію пластичної деформації при розтягуванні низьковуглецевої сталі",
+				"en": "Effect of Hydrogen on the Localization of Plastic Deformation under Tensile of Low-Carbon Steel",
+				"ru": "Влияние водорода на локализацию пластической деформации при растяжении низкоуглеродистой стали"
+			},
+			"autors": {
+				"ua": "С. А. Бараннікова, М. В. Надєжкін, А. Г. Луньов, В. В. Горбатенко, Г. В. Шляхова, Л. Б. Зуєв",
+				"en": "S. A. Barannikova, M. V. Nadezhkin, A. G. Lunev, V. V. Gorbatenko, G. V. Shlyakhova, and L. B. Zuev",
+				"ru": "С. А. Баранникова, М. В. Надежкин, А. Г. Лунев, В. В. Горбатенко, Г. В. Шляхова, Л. Б. Зуев"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [247,258],
+			"title": {
+				"ua": "Формозміна паладієвої пластини, індукована малими однобічними водневими впливами",
+				"en": "The Form Changing of Palladium Plate Induced by Small One-Side Hydrogen Impacts",
+				"ru": "Формоизменение палладиевой пластины, индуцированное малыми односторонними водородными воздействиями"
+			},
+			"autors": {
+				"ua": "Є. Н. Любименко, М. В. Гольцова",
+				"en": "E. N. Lyubimenko and M. V. Goltsova",
+				"ru": "Е. Н. Любименко, М. В. Гольцова"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [259,273],
+			"title": {
+				"ua": "Фізико-хімічні властивості рідкозагартованого акумуляторного сплаву системи Pb—Ca—Sn",
+				"en": "Physical and Chemical Properties of Liquid-Quenched Battery Alloy of Pb—Ca—Sn System",
+				"ru": "Физико-химические свойства жидкозакалённого аккумуляторного сплава системы Pb—Ca—Sn"
+			},
+			"autors": {
+				"ua": "В. А. Дзензерський, В. Ф. Башев, В. А. Полонський, С. В. Тарасов, Ю. І. Казача, В. А. Іванов, А. А. Костіна",
+				"en": "V. A. Dzenzerskiy, V. F. Bashev, V. A. Polonskiy, S. V. Tarasov, Yu. I. Kazacha, V. A. Ivanov, and A. A. Kostina",
+				"ru": "В. А. Дзензерский, В. Ф. Башев, В. А. Полонский, С. В. Тарасов, Ю. И. Казача, В. А. Иванов, А. А. Костина"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [275,286],
+			"title": {
+				"ua": "До питання про вдосконалення технології комплексного вилучення рідкісних та розсіяних металів електроімпульсним методом",
+				"en": "On Improvement of Technology of Complex Extraction of Rare and Trace Metals by Electropulse Method",
+				"ru": "К вопросу о совершенствовании технологии комплексного извлечения редких и рассеянных металлов электроимпульсным методом"
+			},
+			"autors": {
+				"ua": "Б. Р. Нусупбеков, К. Кусаіинов, С. Є. Сакіпова, А. К. Хасенов, А. Ж. Бейсенбек",
+				"en": "B. R. Nusupbekov, K. Kussaiynov, S. E. Sakipova, А. K. Khassenov, and A. Zh. Beisenbek",
+				"ru": "Б. Р. Нусупбеков, К. Кусаиынов, С. Е. Сакипова, А. К. Хасенов, А. Ж. Бейсенбек"
+			}
+		}
+	]
+}

@@ -1,0 +1,131 @@
+{
+	"_id":    "MFiNT.39.08.1087",
+	"year":   2017,
+	"volume": 39,
+	"issue":  8,
+	"pages":  [1087,1095],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["19.06.2017"],
+	"PACS":   "61.05.cp, 61.80.Ba, 62.20.Qp, 68.35.-p, 81.16.Mk, 81.40.Wx, 81.65.Lp",
+	"title":   {
+		"ua": "Лазерне отоплення стопу на основі цирконію в різних газових середовищах",
+		"en": "Laser Fusion of an Zirconium-Based Alloy in Various Gaseous Mediums",
+		"ru": "Лазерное оплавление сплава на основе циркония в различных газовых средах"
+	},
+	"abstract": {
+		"ua": "Методою рентґеноструктурної аналізи досліджено вплив імпульсного лазерного оброблення у різних атмосферах на структурно-фазовий стан поверхневих шарів стопу на основі цирконію. Показано, що лазерне оброблення зразків у атмосфері азоту приводить до формування нітриду ZrN та значного зростання мікротвердости поверхневих шарів. При лазерному обробленні на повітрі, крім нітриду, відбувається формування двох різних модифікацій оксиду ZrO$_2$. Лазерне оброблення зразків стопу в атмосфері арґону не приводить до формування нових кристалічних фаз.",
+		"en": "The effect of pulsed laser treatment in different gaseous atmospheres on the structural-phase state of the surface layers of Zr–2.5Nb alloy is studied by x-ray diffraction analysis. As shown, the laser alloying of samples in a nitrogen atmosphere leads to a zirconium nitride ZrN formation and a significant increase of surface layers’ microhardness. When laser treatment in air is carried out, nitride and two different modifications of oxide ZrO$_2$ are formed. Laser treatment of alloy samples in argon atmosphere does not lead to formation of new crystalline phases.",
+		"ru": "Методом рентгеноструктурного анализа исследовано влияние импульсной лазерной обработки в разных атмосферах на структурно-фазовое состояние поверхностных слоёв сплава на основе циркония Э125. Показано, что лазерная обработка образцов в атмосфере азота приводит к формированию нитрида циркония ZrN и значительному возрастанию микротвёрдости поверхностных слоёв. При лазерной обработке на воздухе, кроме нитрида, происходит формирование двух различных модификаций оксида ZrO$_2$. Лазерная обработка образцов сплава в атмосфере аргона не приводит к формированию новых кристаллических фаз."
+	},
+	"keywords": {
+		"ua": "лазерне оброблення, цирконій, оксид цирконію, нітрид цирконію, стоп Э125",
+		"en": "laser treatment, zirconium, zirconium oxide, zirconium nitride, Zr–2.5Nb alloy",
+		"ru": "лазерная обработка, цирконий, оксид циркония, нитрид циркония, сплав Э125"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. В. Гиржон", "en": "V. V. Gіrzhon", "ru": "В. В. Гиржон"},
+			"OID": [221]
+		},
+		{
+			"AID": {"ua": "О. В. Смоляков", "en": "O. V. Smolyakov", "ru": "А. В. Смоляков"},
+			"OID": [221]
+		},
+		{
+			"AID": {"ua": "Т. А. Дмитренко", "en": "T. A. Dmitrenko", "ru": "Т. А. Дмитренко"},
+			"OID": [221]
+		}
+	],
+	"references": {
+		"count": 17,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "В. М. Ажажа, П. Н. Вьюгов, С. Д. Лавриненко, К. А. Линдт, А. П. Мухачёв, Н. Н. Пилипенко, Цирконий и его сплавы: технологии производства, области применения. Обзор (Харьков: ННЦ ХФТИ: 1998).",
+				"tr":  "V. M. Azhazha, P. N. V'yugov, S. D. Lavrinenko, K. A. Lindt, A. P. Mukhachev, and N. N. Pilipenko, Tsirkoniy i Ego Splavy: Tekhnologii Proizvodstva, Oblasti Primeneniya. Obzor [Zirconium and Its Alloys: Production Technologies, Applications. Review] (Kharkiv, Ukraine: NSC KhIPT: 1998) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Петельгузов, А. Г. Родак, Ф. А. Пасенов, Н. И. Ищенко, Н. М. Роенко, Р. Л. Василенко, Вопросы атомной науки и техники, 15, № 1: 97 (2006).",
+				"tr":  "I. A. Petel'guzov, A. G. Rodak, F. A. Pasenov, N. I. Ishchenko, N. M. Roenko, and R. L. Vasilenko, Voprosy Atomnoy Nauki i Tekhniki, 15, No. 1: 97 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Маркелов, Совершенствование состава и структуры сплавов циркония в обеспечении работоспособности ТВЭЛОВ, ТВС и труб давления активных зон водоохлаждаемых реакторов с увеличенным ресурсом и выгоранием топлива (Дис. … доктора техн. наук) (Москва: Высокотехнологический научно-исследовательский институт неорганических материалов им. академика А. А. Бочвара РАН: 2010).",
+				"tr":  "V. A. Markelov, Sovershenstvovanie Sostava i Struktury Splavov Tsirkoniya v Obespechenii Rabotosposobnosti TVELOV, TVS i Trub Davleniya Aktivnykh Zon Vodookhlazhdayemykh Reaktorov s Uvelichennym Resursom i Vygoraniem Topliva (Thesis of Disser. for Dr. Tech. Sci.) (Moscow: A. A. Bochvar All-Russian Scientific Research Institute for Inorganic Materials, R.A.S.: 2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Дуглас, Металловедение циркония (Москва: Атомиздат: 1975).",
+				"tr":  "D. Duglas, Metallovedenie Tsirkoniya [Physical Metallurgy of Zirconium] (Moscow: Atomizdat: 1975) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Стукалов, Вопросы атомной науки и техники, 45, № 4: 105 (2000).",
+				"tr":  "A. I. Stukalov, Voprosy Atomnoy Nauki i Tekhniki, 45, No. 4: 105 (2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Стукалов, Вопросы атомной науки и техники, 45, № 4: 118 (2000).",
+				"tr":  "A. I. Stukalov, Voprosy Atomnoy Nauki i Tekhniki, 45, No. 4: 118 (2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Зеленский, А. И. Стукалов, И. М. Неклюдов, В. М. Грицина, Л. С. Ожигов, В. Н. Воеводин, В. И. Савченко, Н. М. Роенко, В. К. Шамардин, Г. П. Кобылянский, Вопросы атомной науки и техники, 64, № 1: 39 (1996).",
+				"tr":  "V. F. Zelenskiy, A. I. Stukalov, I. M. Neklyudov, V. M. Gritsina, L. S. Ozhigov, V. N. Voevodin, V. I. Savchenko, N. M. Roenko, V. K. Shamardin, and G. P. Kobylyanskiy, Voprosy Atomnoy Nauki i Tekhniki, 64, No. 1: 39 (1996) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Стукалов, Вопросы атомной науки и техники, 72, № 6: 68 (1998).",
+				"tr":  "A. I. Stukalov, Voprosy Atomnoy Nauki i Tekhniki, 72, No. 6: 68 (1998) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. П. Бродниковский, Н. А. Крапивка, Ю. Е. Зубец, Г. Ф. Саржан, Д. Н. Бродниковский, А. В. Самелюк, Електронна мікроскопія і міцність матеріалів, 18: 120 (2012).",
+				"tr":  "N. P. Brodnikovskiy, N. A. Krapivka, Yu. E. Zubets, G. F. Sarzhan, D. N. Brodnikovskiy, and A. V. Samelyuk, Elektronna Mikroskopiya i Mitsnist' Materialiv, 18: 120 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Н. Довбня, С. Д. Лавриненко, В. В. Закутин, А. Н. Аксёнова, Н. Г. Решетняк, Н. Н. Пилипенко, В. Н. Пелых, Г. Н. Толмачева, Вопросы атомной науки и техники, 97, № 2: 39 (2011).",
+				"tr":  "A. N. Dovbnya, S. D. Lavrinenko, V. V. Zakutin, A. N. Aksenova, N. G. Reshetnyak, N. N. Pilipenko, V. N. Pelykh, and G. N. Tolmacheva, Voprosy Atomnoy Nauki i Tekhniki, 97, No. 2: 39 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Белоус, П. Н. Вьюгов, А. С. Куприн, С. А. Леонов, Г. И. Носов, В. Д. Овчаренко, Л. С. Ожигов, А. Г. Руденко, В. И. Савченко, Г. Н. Толмачева, В. М. Хороших, Фізична інженерія поверхні, 11, № 1: 97 (2013).",
+				"tr":  "V. A. Belous, P. N. V'yugov, A. S. Kuprin, S. A. Leonov, G. I. Nosov, V. D. Ovcharenko, L. S. Ozhigov, A. G. Rudenko, V. I. Savchenko, G. N. Tolmacheva, and V. M. Khoroshikh, Fizichna Inzheneriya Poverkhni, 11, No. 1: 97 (2013) (in Russian)."
+			},
+			{
+				"doi": "10.1007/s11041-015-9880-8",
+				"or":  "И. В. Гайворонский, В. В. Гиржон, МиТОМ, 5: 59 (2015).",
+				"tr":  "I. V. Gayvoronskiy and V. V. Girzhon, Metal Sci. Heat Treatment, 57, Nos. 5–6: 304 (2015)."
+			},
+			{
+				"doi": "10.1016/S0956-716X(99)80052-1",
+				"or":  "K. F. Amouzouvi, L. J. Clegg, and R. C. Styles, Scr. Metall. Mater., 32, No. 2: 289 (1995).",
+				"tr":  "K. F. Amouzouvi, L. J. Clegg, and R. C. Styles, Scr. Metall. Mater., 32, No. 2: 289 (1995)."
+			},
+			{
+				"doi": "10.1007/BF02881546",
+				"or":  "J. P. Abriata, J. Garcés, and R. Versaci, Bulletin of Alloy Phase Diagrams, 7, No. 2: 116 (1986).",
+				"tr":  "J. P. Abriata, J. Garcés, and R. Versaci, Bulletin of Alloy Phase Diagrams, 7, No. 2: 116 (1986)."
+			},
+			{
+				"doi": "10.1007/BF02647575",
+				"or":  "L. Gribaudo, D. Arias, and J. Abriata, J. Phase Equilibr., 15, No. 4: 441 (1994).",
+				"tr":  "L. Gribaudo, D. Arias, and J. Abriata, J. Phase Equilibr., 15, No. 4: 441 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Григорьянц, А. Н. Сафонов, Основы лазерного термоупрочнения сплавов (Москва: Высшая школа: 1988).",
+				"tr":  "A. G. Grigor'yants and A. N. Safonov, Osnovy Lazernogo Termouprochneniya Splavov [Fundamentals of Laser Thermal Hardening of Alloys] (Moscow: Vysshaya Shkola: 1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. П. Черняева, А. И. Стукалов, В. М. Грицина, Вопросы атомной науки и техники, 77, № 2: 71 (2000).",
+				"tr":  "T. P. Chernyaeva, A. I. Stukalov, and V. M. Gritsina, Voprosy Atomnoy Nauki i Tekhniki, 77, No. 2: 71 (2000) (in Russian)."
+			}
+		]
+	}
+}

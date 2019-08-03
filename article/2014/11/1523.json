@@ -1,0 +1,106 @@
+{
+	"_id":    "MFiNT.36.11.1523",
+	"year":   2014,
+	"volume": 36,
+	"issue":  11,
+	"pages":  [1523,1532],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["22.11.2013","13.10.2014"],
+	"PACS":   " 02.60.Lj, 65.40.Ba, 66.70.Df, 72.15.Eb, 73.30.+y, 81.15.Jj, 79.70.+q",
+	"title":   {
+		"ua": "Моделювання умов існування емітера важкотопкого матеріалу в процесі катодного вакуумно-дугового осадження",
+		"en": "Modelling of Conditions of Existence of the Emitter of a Refractory Material During Cathodic Vacuum—Arc Deposition",
+		"ru": "Моделирование условий существования эмиттера тугоплавкого материала в процессе катодного вакуумно-дугового осаждения"
+	},
+	"abstract": {
+		"ua": "Запропоновано нелінійний математичний модель розігрівання емітера під час катодного вакуумно-дугового осадження матеріялів, який враховує залежність тепломісткости та теплопровідности матеріялу катоди від температури. За допомогою моделю розраховано значення густини струму емісії для різних тяжкотопких матеріялів, що добре узгоджуються з літературними значеннями, а також визначено умови, за яких реалізується випаровування матеріялу катоди. Встановлено зв’язок між густиною струму емісії та часом розігріву емітера до температури випаровування, який має нелінійний характер і залежить від термічних характеристик матеріялу катоди. Модель уможливлює підвищити ефективність осадження матеріялів шляхом попереднього оцінювання технологічних та фізичних параметрів осадження.",
+		"en": "A nonlinear mathematical model of emitter heating during cathodic vacuum—arc deposition of materials, taking into account the temperature dependence of specific heat and thermal conductivity of the cathode material, is presented. By this model, the values of the emission-current density for a variety of refractory materials are calculated. These data are in a good agreement with literature data. The conditions, under which the evaporation of the cathode material will take place, are determined. The relationship between the emission current density and the time of the emitter heating up to the evaporation temperature, which is nonlinear and depends on the thermal characteristics of the cathode material, is determined. The model makes possible to increase the material deposition effectiveness by a preliminary estimation of the physical process and deposition parameters.",
+		"ru": "Предложена нелинейная математическая модель разогрева эмиттера в процессе катодного вакуумно-дугового осаждения материалов, учитывающая зависимость теплоёмкости и теплопроводности материала катода от температуры. С помощью модели рассчитаны значения плотности тока эмиссии для различных тугоплавких материалов, которые хорошо согласуются с литературными данными, а также определены условия, при которых будет реализовываться испарение материала катода. Установлена связь между плотностью тока эмиссии и временем разогрева эмиттера до температуры испарения, которая имеет нелинейный характер и зависит от термических характеристик материала катода. Модель позволяет повысить эффективность осаждения материалов путём предварительной оценки технологических и физических параметров осаждения."
+	},
+	"keywords": {
+		"ua": "нелінійне рівняння теплопровідності, густина струму, емісія, емітер, катод, важкотопкий матеріал",
+		"en": "nonlinear heat equation, density of current, emission, emitter, cathode, refractory material",
+		"ru": "нелинейное уравнение теплопроводности, плотность тока, эмиссия, эмиттер, катод, тугоплавкий материал"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Д. Алімов", "en": "V. D. Alimov", "ru": "В. Д. Алимов"},
+			"OID": [221]
+		},
+		{
+			"AID": {"ua": "А. В. Недоля", "en": "A. V. Nedolya", "ru": "А. В. Недоля"},
+			"OID": [221]
+		},
+		{
+			"AID": {"ua": "І. Н. Тітов", "en": "I. N. Titov", "ru": "И. Н. Титов"},
+			"OID": [29]
+		}
+	],
+	"references": {
+		"count": 12,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "С. Ф. Дудник, А. П. Любченко, А. К. Олейник, А. В. Сагалович, В. В. Сагалович, Физическая инженерия поверхности, 2, № 1–2: 112 (2004).",
+				"tr":  "S. F. Dudnik, A. P. Lubchenko, A. K. Oleynik, A. V. Sagalovich, and V. V. Sagalovich, Physical Surface Engineering, 2, Nos. 1–2: 112 (2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Strzyzewski, M. J. Sadowski, R. Nietubyc, K. Rogacki, T. Paryjczak, and J. Rogowski, Mater. Sci. Poland., 26, No. 1: 213 (2008).",
+				"tr":  "P. Strzyzewski, M. J. Sadowski, R. Nietubyc, K. Rogacki, T. Paryjczak, and J. Rogowski, Mater. Sci. Poland., 26, No. 1: 213 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Андреев, О. В. Соболь, В. Ф. Горбань, А. Л. Васильев, В. А. Столбовой, И. В. Сердюк, Физическая инженерия поверхности, 8, № 3: 203 (2010).",
+				"tr":  "A. A. Andreev, O. V. Sobol', V. F. Gorban', A. L. Vasil'ev, V. A. Stolbovoy, and I. V. Serdyuk, Physical Surface Engineering, 8, No. 3: 203 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Anders, Handbook of Plasma Immersion Ion Implantation and Deposition (New York: John Wiley & Sons: 2000).",
+				"tr":  "A. Anders, Handbook of Plasma Immersion Ion Implantation and Deposition (New York: John Wiley & Sons: 2000)."
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Аксенов, А. А. Андреев, В. А. Белоус, В. Е. Стрельницкий, В. М. Хороших, Вакуумная дуга. Источники плазмы, осаждение покрытий, поверхностное модифицирование (Киев: Наукова думка: 2012).",
+				"tr":  "I. I. Aksenov, A. A. Andreev, V. A. Belous, V. E. Strelnitsky, and V. M. Khoroshykh, Vakuumnaya Duga. Istochniki Plazmy, Osazhdenie Pokrytiy, Poverkhnostnoe Modifitsirovanie (Vacuum Arc. Sources of Plasma, Cover Deposition, Surface Modification) (Kiev: Naukova Dumka: 2012) (in Russian)."
+			},
+			{
+				"doi": "10.3367/UFNr.0139.198302c.0265",
+				"or":  "Е. А. Литвинов, Г. А. Месяц, Д. И. Проскуровский, Успехи физических наук, 139, вып. 2: 265 (1983).",
+				"tr":  "E. A. Litvinov, G. A. Mesyats, and D. I. Proskurovsky, Uspekhi Fizicheskikh Nauk, 139, Iss. 2: 265 (1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Недоля, Е. И. Пиваев, И. Н. Титов, Физическая инженерия поверхности, 7, № 4: 330 (2009).",
+				"tr":  "A. V. Nedolya, E. I. Pivaev, and I. N. Titov, Physical Surface Engineering, 7, No. 4: 330 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Физические величины: Справочник (ред. И. С. Григорьев, Е. З. Мейлихов) (Москва: Энергоатомиздат: 1991).",
+				"tr":  "Fizicheskie Velichiny: Spravochnik (Physical Quantities: Handbook) (Eds. I. S. Grigor'ev and E. Z. Meylikhov) (Moscow: Energoatomizdat: 1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. В. Глазанов, Л. М. Баскин, Г. Н. Фурсей, Журнал технической физики, 59, № 5: 60 (1989).",
+				"tr":  "D. V. Glazanov, L. M. Baskin, and G. N. Fursey, Zhurnal Tekhnicheskoy Fiziki, 59, No. 5: 60 (1989) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRev.59.906.2",
+				"or":  "W. B. Nottingham, Phys. Rev., 59, No. 11: 907 (1941).",
+				"tr":  "W. B. Nottingham, Phys. Rev., 59, No. 11: 907 (1941)."
+			},
+			{
+				"doi": "",
+				"or":  "R. L. Boxman, D. M. Sanders, and P. J. Martin, Handbook of Vacuum Arc Science and Technology: Fundamentals and Applications (Noyes: William Andrew Publishing: 1995).",
+				"tr":  "R. L. Boxman, D. M. Sanders, and P. J. Martin, Handbook of Vacuum Arc Science and Technology: Fundamentals and Applications (Noyes: William Andrew Publishing: 1995)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. П. Райзер, Физика газового разряда: Учебное руководство (Москва: Наука: 1987).",
+				"tr":  "Yu. P. Raizer, Fizika Gazovogo Razryada: Uchebnoe Rukovodstvo (Gas Discharge Physics: Training Manual) (Moscow: Nauka: 1987) (in Russian)."
+			}
+		]
+	}
+}

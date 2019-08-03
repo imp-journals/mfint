@@ -1,0 +1,112 @@
+{
+	"_id":    "MFiNT.36.07.0967",
+	"year":   2014,
+	"volume": 36,
+	"issue":  7,
+	"pages":  [967,976],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["23.04.2014","30.06.2014"],
+	"PACS":   "61.05.fm, 64.60.Cn, 64.75.Op, 72.15.Eb, 75.25.-j, 75.30.Kz, 75.50.Bb",
+	"title":   {
+		"ua": "Структура та магнетні властивості стопу Fe$_{2}$MnGa",
+		"en": "Structure and Magnetic Properties of Fe$_{2}$MnGa",
+		"ru": "Структура и магнитные свойства сплава Fe$_{2}$MnGa"
+	},
+	"abstract": {
+		"ua": "Магнетні властивості стопу Fe$_{50,1}$Mn$_{22,7}$Ga$_{27,2}$ в зв’язку з його кристалічною структурою вивчали в інтервалі температур 4—850 К методами дифракції нейтронів (ДН) та магнетометрії. Встановлено, що після відпалу за температури у 1020 К впродовж 96 годин з наступним гартуванням у крижаній воді стоп містить впорядковані фази зі структурами L1$_{2}$ та L2$_{1}$. Стоп Fe$_{50,1}$Mn$_{22,7}$Ga$_{27,2}$ характеризується складною температурною залежністю магнетних властивостей, яка обумовлена перетвореннями (при нагріві) з феромагнетного (ФМ) у парамагнетний стан у фазі L2$_{1}$ і з антиферомагнетного (АФМ) стану в ФМ у фазі L1$_{2}$. Згідно з даними ДН, АФМ-порядок у стопі не є строго антипаралельним. Відсутність значної обмінної анізотропії у стопі зумовлено хаотичною орієнтацією магнетних моментів зерен ФМ-фази, що межують з областями АФМ-фази.",
+		"en": "Magnetic properties of Fe$_{50.1}$Mn$_{22.7}$Ga$_{27.2}$ alloy in connection with its atomic structure are investigated in temperature range of 4—850 K by using neutron diffraction (ND) and magnetometry. As revealed, the annealed (at 1020 K during 96 hours) and quenched (in ice water) alloy contains ordered phases of superstructural L1$_{2}$ and L2$_{1}$ types. The Fe$_{50.1}$Mn$_{22.7}$Ga$_{27.2}$ alloy exhibits complicated temperature dependence of magnetic properties determined by the ferromagnetic (FM)-to-paramagnetic transformation (under heating) in L2$_{1}$ phase and transformation from the antiferromagnetic (AFM) state to the FM one in L1$_{2}$ phase. As revealed with ND data, the AFM order in L1$_{2}$ phase is not strongly antiparallel. Absence of significant exchange anisotropy in the alloy can be explained by the random orientation of magnetic moments of the FM-phase grains, which are adjacent to the AFM-phase regions.",
+		"ru": "Магнитные свойства сплава Fe$_{50,1}$Mn$_{22,7}$Ga$_{27,2}$ в связи с его кристаллической структурой исследовали в интервале температур 4—850 К методами дифракции нейтронов (ДН) и магнитометрии. Установлено, что после отжига при температуре 1020 К в течение 96 часов с последующей закалкой в ледяной воде сплав содержит упорядоченные фазы со структурами L1$_{2}$ и L2$_{1}$. Сплав Fe$_{50,1}$Mn$_{22,7}$Ga$_{27,2}$ характеризуется сложной температурной зависимостью магнитных свойств, которая обусловлена превращениями (при нагреве) из ферромагнитного (ФМ) в парамагнитное состояние в фазе L2$_{1}$ и из антиферромагнитного (АФМ) состояния в ФМ в фазе L1$_{2}$. По данным ДН, АФМ-порядок в сплаве не является строго антипараллельным. Отсутствие значительной обменной анизотропии в сплаве обусловлено хаотической ориентацией магнитных моментов зёрен ФМ-фазы, граничащих с областями АФМ-фазы."
+	},
+	"keywords": {
+		"ua": "метамагнетне перетворення, мартенситне перетворення, магнетні властивості, обмінна анізотропія, дифракція нейтронів",
+		"en": "metamagnetic transformation, martensitic transformation, magnetic properties, exchange anisotropy, neutron diffraction",
+		"ru": "метамагнитное преобразование, мартенситное превращение, магнитные свойства, обменная анизотропия, дифракция нейтронов"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. В. Кудрявцев", "en": "Yu. V. Kudryavtsev", "ru": "Ю. В. Кудрявцев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. О. Перекос", "en": "A. O. Perekos", "ru": "А. Е. Перекос"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. М. Єрмоленко", "en": "V. M. Iermolenko", "ru": "В. Н. Ермоленко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "J. Dubowik", "en": "J. Dubowik", "ru": "J. Dubowik"},
+			"OID": [426]
+		},
+		{
+			"AID": {"ua": "І. М. Главацький", "en": "I. M. Glavatskyi", "ru": "И. Н. Главацкий"},
+			"OID": [439]
+		},
+		{
+			"AID": {"ua": "Л. Є. Козлова", "en": "L. E. Kozlova", "ru": "Л. Е. Козлова"},
+			"OID": [7]
+		},
+		{
+			"AID": {"ua": "Ю. Б. Скирта", "en": "Yu. B. Skirta", "ru": "Ю. Б. Скирта"},
+			"OID": [7]
+		}
+	],
+	"references": {
+		"count": 10,
+		"list":  [
+			{
+				"doi": "10.1063/1.3526377",
+				"or":  "X. D. Tang, W. H. Wang, W. Zhu, E. K. Liu, G. H. Wu, F. B. Meng, H. Y. Liu, and H. Z. Luo, Appl. Phys. Lett., 97: 242513 (2010).",
+				"tr":  "X. D. Tang, W. H. Wang, W. Zhu, E. K. Liu, G. H. Wu, F. B. Meng, H. Y. Liu, and H. Z. Luo, Appl. Phys. Lett., 97: 242513 (2010)."
+			},
+			{
+				"doi": "10.1063/1.3665037",
+				"or":  "X. D. Tang, W. H. Wang, G. H. Wu, F. B. Meng, H. Y. Liu, and H. Z. Luo, Appl. Phys. Lett., 99: 222506 (2011).",
+				"tr":  "X. D. Tang, W. H. Wang, G. H. Wu, F. B. Meng, H. Y. Liu, and H. Z. Luo, Appl. Phys. Lett., 99: 222506 (2011)."
+			},
+			{
+				"doi": "10.1063/1.4794979",
+				"or":  "T. Gasi, A. K. Nayak, M. Niklas, and C. Felser, J. Appl. Phys., 113: 17E301 (2013).",
+				"tr":  "T. Gasi, A. K. Nayak, M. Niklas, and C. Felser, J. Appl. Phys., 113: 17E301 (2013)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2013.01.145",
+				"or":  "C. W. Shih, X. G. Zhao, H. W. Chang, W. C. Chang, and Z. D. Zhang, J. Alloys Compd., 570: 14 (2013).",
+				"tr":  "C. W. Shih, X. G. Zhao, H. W. Chang, W. C. Chang, and Z. D. Zhang, J. Alloys Compd., 570: 14 (2013)."
+			},
+			{
+				"doi": "10.1063/1.3269590",
+				"or":  "W. Zhu, E. K. Liu, L. Feng, X. D. Tang, J. L. Chen, G. H. Wu, H. Y. Liu, F. B. Meng, and H. Z. Luo, Appl. Phys. Lett., 95: 222512 (2009).",
+				"tr":  "W. Zhu, E. K. Liu, L. Feng, X. D. Tang, J. L. Chen, G. H. Wu, H. Y. Liu, F. B. Meng, and H. Z. Luo, Appl. Phys. Lett., 95: 222512 (2009)."
+			},
+			{
+				"doi": "10.1063/1.3213353",
+				"or":  "T. Omori, K. Watanabe, R. Y. Umetsu, R. Kinuma, and K. Ishida, Appl. Phys. Lett., 95: 082508 (2009).",
+				"tr":  "T. Omori, K. Watanabe, R. Y. Umetsu, R. Kinuma, and K. Ishida, Appl. Phys. Lett., 95: 082508 (2009)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2010.12.018",
+				"or":  "T. Omori, K. Watanabe, X. Xu, R.Y. Umetsu, R. Kainuma, and K. Ishida, Scr. Mater., 64: 669 (2011).",
+				"tr":  "T. Omori, K. Watanabe, X. Xu, R.Y. Umetsu, R. Kainuma, and K. Ishida, Scr. Mater., 64: 669 (2011)."
+			},
+			{
+				"doi": "10.1063/1.3677939",
+				"or":  "C. A. Jenkins, A. Scholl, R. Kainuma, H. J. Elmers, and T. Omori, Appl. Phys. Lett., 100: 032401 (2012).",
+				"tr":  "C. A. Jenkins, A. Scholl, R. Kainuma, H. J. Elmers, and T. Omori, Appl. Phys. Lett., 100: 032401 (2012)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.87.174410",
+				"or":  "V. V. Khovaylo, T. Omori, K. Endo, X. Xu, R. Kainuma, A. P. Kazakov, V. N. Prudnikov, E. A. Gan’shina, A. I. Novikov, Yu. O. Mikhailovsky, D. E. Mettus, and A. B. Granovsky, Phys. Rev. B, 87: 174410 (2013).",
+				"tr":  "V. V. Khovaylo, T. Omori, K. Endo, X. Xu, R. Kainuma, A. P. Kazakov, V. N. Prudnikov, E. A. Gan'shina, A. I. Novikov, Yu. O. Mikhailovsky, D. E. Mettus, and A. B. Granovsky, Phys. Rev. B, 87: 174410 (2013)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2012.05.031",
+				"or":  "Y. V. Kudryavtsev, N. V. Uvarov, V. N. Iermolenko, I. N. Glavatskyy, and J. Dubowik, Acta Mater., 60: 4780 (2012).",
+				"tr":  "Y. V. Kudryavtsev, N. V. Uvarov, V. N. Iermolenko, I. N. Glavatskyy, and J. Dubowik, Acta Mater., 60: 4780 (2012)."
+			}
+		]
+	}
+}

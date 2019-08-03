@@ -1,0 +1,172 @@
+{
+	"year":   2015,
+	"volume": 37,
+	"issue":  8,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  2,
+			"pages":  [1001,1015],
+			"title": {
+				"ua": "Вплив дислокаційних петель на вісну тіньову картину",
+				"en": "Influence of Dislocation Loops on an Axial Shadow Pattern",
+				"ru": "Влияние дислокационных петель на осевую теневую картину"
+			},
+			"autors": {
+				"ua": "М. О. Іванов, Л. Б. Квашніна, А. Ю. Наумук",
+				"en": "M. O. Ivanov, L. B. Kvashnina, and A. Yu. Naumuk",
+				"ru": "М. А. Иванов, Л. Б. Квашнина, А. Ю. Наумук"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  2,
+			"pages":  [1017,1026],
+			"title": {
+				"ua": "Квантово-механічний модель взаємоузгодженого амплітудного та дисперсійного впливів недосконалостей структури на картину багатократного розсіяння для картографування та характеризації деформацій і дефектів у йонно-імплантованих ґранатових плівках",
+				"en": "Quantum-Mechanical Model of Interconsistent Amplitude and Dispersion Influences of Structure Imperfections on the Multiple Scattering Pattern for Mapping and Characterization of Strains and Defects in Ion-Implanted Garnet Films",
+				"ru": "Квантово-механическая модель взаимосогласованного амплитудного и дисперсионного влияний несовершенств структуры на картину многократного рассеяния для картографирования и характеризации деформаций и дефектов в ионно-имплантированных гранатовых плёнках"
+			},
+			"autors": {
+				"ua": "В. Б. Молодкін, С. Й. Оліховський, О. С. Скакунова, Є. Г. Лень, Є. М. Кисловський, О. В. Решетник, Т. П. Владімірова, В. В. Лізунов, Л. М. Скапа, С. В. Лізунова, К. В. Фузік, М. Г. Толмачов, Б. К. Остафійчук, В. М. Пилипів, О. З. Гарпуль",
+				"en": "V. B. Molodkin, S. I. Olikhovskii, E. S. Skakunova, E. G. Len, E. N. Kislovskii, O. V. Reshetnyk, T. P. Vladimirova, V. V. Lizunov, L. N. Skapa, S. V. Lizunova, E. V. Fuzik, N. G. Tolmachev, B. K. Ostafiychuk, V. M. Pylypiv, and O. Z. Garpul’",
+				"ru": "В. Б. Молодкин, С. И. Олиховский, Е. С. Скакунова, Е. Г. Лень, Е. Н. Кисловский, О. В. Решетник, Т. П. Владимирова, В. В. Лизунов, Л. Н. Скапа, С. В. Лизунова, Е. В. Фузик, Н. Г. Толмачёв, Б. К. Остафийчук, В. М. Пылыпив, О. З. Гарпуль"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  2,
+			"pages":  [1027,1036],
+			"title": {
+				"ua": "Вибір моделю реконструкції температурного поля для ультразвукового неруйнівного контролю замкненої конструкції з одностороннім доступом у нестаціонарних теплових умовах",
+				"en": "Choice of Model of Reconstruction of a Temperature Profile for the Ultrasonic Non-destructive Testing of the Closed Construction of Unilateral Access in Non-Stationary Thermal Conditions",
+				"ru": "Выбор модели реконструкции температурного поля для ультразвукового неразрушающего контроля замкнутой конструкции с односторонним доступом в нестационарных тепловых условиях"
+			},
+			"autors": {
+				"ua": "В. А. Михайловський, М. О. Дордієнко, О. І. Запорожець",
+				"en": "V. A. Mykhailovskyy, M. O. Dordienko, and O. I. Zaporozhets",
+				"ru": "В. А. Михайловский, Н. А. Дордиенко, О. И. Запорожец"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [1037,1048],
+			"title": {
+				"ua": "Обробка за допомогою Nd:YAG лазера зношеності на стопі Ti-6Al-4V: вплив розміру плями у лазерного променя і морфологія шва",
+				"en": "The Wear Treatment by Nd:YAG Laser on Ti—6Al—4V Alloy: Effect of the Spot Size on Laser Beam and Seam Morphology",
+				"ru": "Обработка при помощи Nd:YAG лазера изношенности на сплаве Ti—6Al—4V: влияние размера пятна у лазерного луча и морфология шва"
+			},
+			"autors": {
+				"ua": "А. Гурсел",
+				"en": "A. Gursel",
+				"ru": "А. Гурсел"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [1049,1062],
+			"title": {
+				"ua": "Магнетні та магнеторезистивні властивості плівок феромагнетних металів",
+				"en": "Magnetic and Magnetoresistance Properties of Films of the Ferromagnetic Metals",
+				"ru": "Магнитные и магниторезистивные свойства плёнок ферромагнитных металлов"
+			},
+			"autors": {
+				"ua": "С. І. Воробйов, Я. М. Литвиненко, І. О. Шпетний, О. В. Шутилєва, А. М. Чорноус",
+				"en": "S. I. Vorobiov, Ia. M. Lytvynenko, I. O. Shpetnyi, O. V. Shutyleva, and A. M. Chornous",
+				"ru": "С. И. Воробьёв, Я. Н. Литвиненко, И. А. Шпетный, О. В. Шутылева, А. Н. Чорноус"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [1063,1075],
+			"title": {
+				"ua": "Вплив механоактивації сумішей SiO$_{2}$/$\\alpha$-Fe$_{2}$O$_{3}$ на розподіл валентних елетронів",
+				"en": "Effect of Mechanical Activation of Highly Disperse SiO$_{2}$/$\\alpha$-Fe$_{2}$O$_{3}$ Mixtures on Distribution of Valence Electrons",
+				"ru": "Влияние механоактивации смесей SiO$_{2}$/$\\alpha$-Fe$_{2}$O$_{3}$ на распределение валентных электронов"
+			},
+			"autors": {
+				"ua": "Я. В. Зауличний, В. М. Гунько, Ю. В. Яворський, В. І. Зарко, С. С. Петровська, В. М. Міщенко",
+				"en": "Ya. V. Zaulychnyy, V. M. Gun’ko, Y. V. Yavorskyi, V. I. Zarko, S. S. Piotrowska, and V. M. Mishchenko",
+				"ru": "Я. В. Зауличный, В. М. Гунько, Ю. В. Яворский, В. И. Зарко, С. С. Петровская, В. М. Мищенко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [1077,1087],
+			"title": {
+				"ua": "Електронна структура ванадійвмісних апатитоподібних сполук кальцію, ізоморфно-модифікованих лужними та рідкісноземельними металами",
+				"en": "Electronic Structure of Vanadium-Containing Apatite Similar Compounds of the Calcium Isomorphically Modified with Alkaline and Rare-Earth Metals",
+				"ru": "Электронная структура ванадийсодержащих апатитоподобных соединений кальция, изоморфно модифицированных щелочными и редкоземельными металлами"
+			},
+			"autors": {
+				"ua": "В. Х. Касіяненко, В. Л. Карбівський, Н. А. Курган, Л. І. Карбівська, Є. І. Гетьман",
+				"en": "V. Kh. Kasiyanenko, V. L. Karbivskyy, N. A. Kurgan, L. I. Karbovska, and E. I. Getman",
+				"ru": "В. Х. Касияненко, В. Л. Карбовский, Н. А. Курган, Л. И. Карбовская, Е. И. Гетьман"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  1,
+			"pages":  [1089,1111],
+			"title": {
+				"ua": "Термічна стійкість, кінетика та механізми розпаду нанокомпозитних структур в стопах на основі Al",
+				"en": "Thermal Stability, Kinetics, and Mechanisms of Decomposition of Nanocomposite Structures in Alloys Based on Aluminium",
+				"ru": "Термическая устойчивость, кинетика и механизмы распада нанокомпозитных структур в сплавах на основе Al"
+			},
+			"autors": {
+				"ua": "С. Г. Рассолов, К. А. Свиридова, В. В. Максимов, В. К. Носенко, І. В. Жихарєв, Д. В. Матвеєв, О. О. Першина, В. І. Ткач",
+				"en": "S. G. Rassolov, K. A. Svyrydova, V. V. Maksimov, V. K. Nosenko, I. V. Zhikharev, D. V. Matveev, E. A. Pershina, and V. I. Tkatch",
+				"ru": "С. Г. Рассолов, Е. А. Свиридова, В. В. Максимов, В. К. Носенко, И. В. Жихарев, Д. В. Матвеев, Е. А. Першина, В. И. Ткач"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1113,1123],
+			"title": {
+				"ua": "Теоретична аналіза динамічного знеміцнення в спечених матеріялах",
+				"en": "The Theoretical Analysis of a Dynamic Softening in the Sintered Materials",
+				"ru": "Теоретический анализ динамического разупрочнения в спечённых материалах"
+			},
+			"autors": {
+				"ua": "О. П. Гапонова, Т. П. Говорун",
+				"en": "O. P. Gaponova and T. P. Нovorun",
+				"ru": "О. П. Гапонова, Т. П. Говорун"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1125,1133],
+			"title": {
+				"ua": "Вплив пластичної деформації методом осадки на властивості інварного сплаву Fe—35%Ni—0,49%Mn",
+				"en": "Effect of a Plastic Deformation by Upsetting on Properties of Invar Fe—35%Ni—0,49%Mn Alloy",
+				"ru": "Влияние пластической деформации методом осадки на свойства инварного сплава Fe—35%Ni—0,49%Mn"
+			},
+			"autors": {
+				"ua": "В. М. Надутов, Д. Л. Ващук, О. І. Запорожець, А. А. Давіденко, Є. О. Свистунов, Є. В. Марковський",
+				"en": "V. M. Nadutov, D. L. Vashchuk, O. I. Zaporozhets’, A. A. Davidenko, Ye. O. Svystunov, and Ye. V. Markovskii",
+				"ru": "В. М. Надутов, Д. Л. Ващук, О. И. Запорожец, А. А. Давиденко, Е. А. Свистунов, Е. В. Марковский"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1135,1146],
+			"title": {
+				"ua": "Модуль пружності і наноміцність наклепаного гідриду паладію",
+				"en": "Elastic Modulus and Nanohardness of Non-Work-Hardened Palladium Hydride",
+				"ru": "Модуль упругости и нанотвёрдость ненаклёпанного гидрида палладия"
+			},
+			"autors": {
+				"ua": "М. В. Гольцова, Є. Н. Любіменко, Г. Н. Толмачьова, Г. І. Жиров",
+				"en": "M. V. Goltsova, E. N. Lyubimenko, G. N. Tolmacheva, and G. I. Zhirov",
+				"ru": "М. В. Гольцова, Е. Н. Любименко, Г. Н. Толмачева, Г. И. Жиров"
+			}
+		}
+	]
+}

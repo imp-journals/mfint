@@ -1,0 +1,41 @@
+{
+	"_id":    "MFiNT.37.0209",
+	"year":   2015,
+	"volume": 37,
+	"issue":  2,
+	"pages":  [209,220],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["13.09.2014"],
+	"PACS":   "61.66.Dk, 61.72.Qq, 61.72.up, 62.20.fk, 62.20.Qp, 81.30.Fb, 81.70.Jb",
+	"title":  {
+		"ua": "Вплив підвищеного вмісту кремнію на твердість чавуну з кулевидним графітом",
+		"en": "The Influence of Higher Silicon Content on the Hardness of Spheroidal Graphite Cast Iron",
+		"ru": "Влияние повышенного содержания кремния на твёрдость литейного чугуна с шаровидным графитом"
+	},
+	"abstract": {
+		"ua": "Цю статтю присвячено проблемі виробництва ливарного чавуну з кулеподібним графітом (ковкий чавун) для автомобільної промисловости. Властивості матеріялу для автомобільних деталів мають, в першу чергу, забезпечити безпеку пасажирів транспортного засобу. Тому ці матеріяли мають бути твердими, але достатньо пластичними, щоб вони могли значною мірою деформуватися при ударі без руйнування. Такі цінні властивості має ковкий чавун з високим вмістом кремнію. Що стосується виробництва цього ковкого чавуну, то має бути виконана ретельна металургійна підготовка стопу, включаючи модифікацію та інокуляцію, та відібрані відповідні шихтові матеріали. Якість підготовленого стопу істотно впливає на процес твердіння як тонких, так і товстих частин виливок. Метою нашого дослідження, описаного в даній статті, є визначення придатного типу та кількости сировини і модифікаторів, а також кількости кремнію, потрібної для забезпечення однорідности величини твердости при різних товщинах виливок.",
+		"en": "This article is concerned with the production of cast iron with spheroidal graphite (ductile iron) for the automotive industry. The properties of materials for automotive parts must be favourable, primarily for reasons of safety for the occupants of the vehicle. Therefore, the materials must be hard but sufficiently malleable, so that they can be significantly deformed upon impact without breaking. These favourable properties characterise ductile iron with high silicon content. As far as producing this cast iron is concerned, the metallurgical preparation of the alloy must be carefully carried out, and suitable charge materials must be selected, including modification and inoculation. The quality of the prepared alloy significantly affects the solidification process in both thin and thick parts of the castings. The aim of our research described in this article is to find the appropriate type and quantity of raw materials, modifiers and inoculants, and the required quantity of silicon in order to ensure the homogeneity of hardness in various casting thicknesses.",
+		"ru": "Данная статья посвящена проблеме производства литейного чугуна с шаровидным графитом (ковкий чугун) для автомобильной промышленности. Свойства материала для автомобильных деталей должны, в первую очередь, обеспечивать безопасность пассажиров транспортного средства. Поэтому эти материалы должны быть твёрдыми, но достаточно пластичными, чтобы они могли значительно деформироваться при ударе без разрушения. Такими ценными свойствами характеризуется ковкий чугун с высоким содержанием кремния. Что касается производства этого ковкого чугуна, то должна быть проведена тщательная металлургическая подготовка сплава, включая модификацию и инокуляцию, и отобраны подходящие шихтовые материалы. Качество подготовленного сплава существенно влияет на процесс затвердевания как тонких, так и толстых частей отливок. Целью нашего исследования, описанного в данной статье, является определение подходящего типа и количества сырья и модификаторов, а также количества кремния, необходимого для обеспечения однородности величины твёрдости при различных толщинах отливок."
+	},
+	"keywords": {
+		"ua": "твердість, модифікація, інокуляція, чавун з кулеподібним графітом, кремній",
+		"en": "hardness, modification, inoculation, spheroidal graphite cast iron, silicon",
+		"ru": "твёрдость, модификация, инокуляция, чугун с шаровидным графитом, кремний"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Іва Нова", "en": "Iva Nová", "ru": "Ива Нова"},
+			"OID": [424]
+		},
+		{
+			"AID": {"ua": "Йіржі Махута", "en": "Jiří Machuta", "ru": "Йиржи Махута"},
+			"OID": [424]
+		}
+	],
+	"references": {
+		"count": 14,
+		"list":  []
+	}
+}

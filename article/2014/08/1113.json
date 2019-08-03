@@ -1,0 +1,177 @@
+{
+	"_id":    "MFiNT.36.08.1113",
+	"year":   2014,
+	"volume": 36,
+	"issue":  8,
+	"pages":  [1113,1128],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["26.07.2013","29.01.2014"],
+	"PACS":   "68.35.bd, 68.35.Gy, 68.35.Md, 68.35.Np, 68.55.J-, 81.07.Bc, 81.15.Gh",
+	"title":   {
+		"ua": "Розмірна залежність механічних напружень у металічних конденсатах на кремнії",
+		"en": "Size Dependence of Mechanical Stresses in the Metal Condensates on Silicon",
+		"ru": "Размерная зависимость механических напряжений в металлических конденсатах на кремнии"
+	},
+	"abstract": {
+		"ua": "В роботі експериментально досліджено зовнішній і внутрішній розмірні ефекти, що реалізуються у внутрішніх (власних) і термічних напруженнях мідних конденсатів на підложжях монокристалічного кремнію. Вивчено поведінку максимальних внутрішніх напружень зі зміною товщини плівки та швидкости осадження. Формування внутрішніх напружень пояснюється з позиції міжфазної взаємодії в системі конденсат—підложжя та в структурі конденсату. Показано, що процес конденсації металу на підложжя супроводжується орієнтаційною зміною енергетичних параметрів міжфазної взаємодії: міжфазної енергії, міжфазного натягу, енергії адгезійних зв’язків і роботи адгезії на стадіях наноконденсату (поверхня кремнію—металічний наноконденсат) і суцільної плівки (попередній шар—наступний шар). Досліджено вплив розмірної залежности механічних параметрів плівки на термічну компоненту механічних напружень.",
+		"en": "This paper experimentally examines the external and internal size effects implemented in the internal (intrinsic) and thermal stresses of copper condensates on the silicon single-crystal substrates. The behaviours of maximum tension with changing film thickness and deposition rate are studied. Formation of internal stresses is caused by the position of the interfacial interaction in the condensate system—substrate and the very structure of the condensate. As shown, the process of condensation on the metal substrate is accompanied by a change in orientation of interfacial interaction energy parameters: interfacial energy, interfacial tension, adhesion-bonds’ energy, and work of adhesion at the nanocondensate stages (silicon surface—metallic nanocondensate) and continuous film (previous layer—next layer). The influence of the size dependence of film mechanical parameters on the thermal component of mechanical stress is investigated.",
+		"ru": "В работе экспериментально исследованы внешний и внутренний размерные эффекты, реализуемые во внутренних (собственных) и термических напряжениях медных конденсатов на подложках монокристаллического кремния. Изучено поведение максимальных внутренних напряжений с изменением толщины плёнки и скорости осаждения. Формирование внутренних напряжений объясняется с позиции межфазного взаимодействия в системе конденсат—подложка и в структуре конденсата. Показано, что процесс конденсации металла на подложку сопровождается ориентационным изменением энергетических параметров межфазного взаимодействия: межфазной энергии, межфазного натяжения, энергии адгезионных связей и работы адгезии на стадиях наноконденсата (поверхность кремния—металлический наноконденсат) и сплошной плёнки (предыдущий слой—следующий слой). Исследовано влияние размерной зависимости механических параметров плёнки на термическую компоненту механических напряжений."
+	},
+	"keywords": {
+		"ua": "механічні напруження, міжфазна взаємодія, наноконденсат",
+		"en": "mechanical stresses, interfacial interaction, nanocondensate",
+		"ru": "механические напряжения, межфазное взаимодействие, наноконденсат"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Б. П. Коман", "en": "B. P. Koman", "ru": "Б. П. Коман"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "В. М. Юзевич", "en": "V. M. Yuzevych", "ru": "В. Н. Юзевич"},
+			"OID": [6]
+		}
+	],
+	"references": {
+		"count": 27,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Комник, Физика металлических пленок. Размерные и структурные эффекты (Москва: Атомиздат: 1979).",
+				"tr":  "Yu. F. Komnik, Fizika Metallicheskikh Plenok. Razmernye i Strukturnye Effekty (Moscow: Atomizdat: 1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Білоус, Л. В. Дехтярук, А. М. Чорноус, Металлофиз. новейшие технол., 23, № 1: 43 (2001).",
+				"tr":  "O. A. Bilous, L. V. Dekhtyaruk, and A. M. Chornous, Metallofiz. Noveishie Tekhnol., 23, No. 1: 43 (2001) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. В. Дегтярук, Є. О. Забіла, С. І. Проценко, А. М. Чорноус, Металлофиз. новейшие технол., 26, № 10: 1333 (2004).",
+				"tr":  "L. V. Dekhtyaruk, Ye. O. Zabila, S. I. Protsenko, and A. M. Chornous, Metallofiz. Noveishie Tekhnol., 26, No. 10: 1333 (2004) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "З. В. Стасюк, Р. І. Бігун, Металлофиз. новейшие технол., 29, № 6: 781 (2007).",
+				"tr":  "Z. V. Stasyuk and R. I. Bigun, Metallofiz. Noveishie Tekhnol., 29, No. 6: 781 (2007) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Н. Блинова, A. M. Глезер, В. А. Жорин, Н. Б. Дьяконова, Известия РАН. Сер. физическая, 65, № 10: 1444 (2001).",
+				"tr":  "E. N. Blinova, A. M. Glezer, V. A. Zhorin, and N. B. D'yakonova, Izvestiya RAN. Ser. Fizicheskaya, 65, No. 10: 1444 (2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Я. Фукс, Известия АН СССР. Сер. физическая, 31, № 3: 422 (1967).",
+				"tr":  "M. Ya. Fuks, Izvestiya AN SSSR, Ser. Fizicheskaya, 31, No. 3: 422 (1967) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Технология тонких пленок: Справочник. В 2-х т. (Ред. Л. Майссел, Р. Глэнг) (Москва: Советское радио: 1977).",
+				"tr":  "Tekhnologiya Tonkikh Plenok: Spravochnik (Handbook of Thin Film Technology) (Eds. L. I. Maissel and R. Glang) (Moscow: Sovetskoe Radio: 1977) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Солонович, Физ. мет. металловед., 40, вып. 3: 633 (1975).",
+				"tr":  "I. I. Solonovich, Fiz. Met. Metalloved., 40, Iss. 3: 633 (1975) (in Russian)."
+			},
+			{
+				"doi": "10.3367/UFNr.0095.196808b.0613",
+				"or":  "Л. С. Палатник, А. И. Ильинский, Успехи физических наук, 95: 613 (1968).",
+				"tr":  "L. S. Palatnik and A. I. Il'inskiy, Uspekhi Fizicheskikh Nauk, 95: 613 (1968) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Юзевич, Б. П. Коман, Металлофиз. новейшие технол., 25, № 6: 747 (2003).",
+				"tr":  "V. M. Yuzevych and B. P. Koman, Metallofiz. Noveishie Tekhnol., 25, No. 6: 747 (2003) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. П. Коман, В. Н. Юзевич, Физика твёрдого тела, 54, вып. 7: 1335 (2012).",
+				"tr":  "B. P. Koman and V. N. Yuzevich, Fiz. Tverd. Tela, 54, Iss. 7: 1335 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. С. Палатник, М. Я. Фукс, В. М. Косевич, Механизм образования и субструктура конденсированных пленок (Москва: Наука: 1972).",
+				"tr":  "L. S. Palatnik, M. Ya. Fuks, and V. M. Kosevich, Mekhanizm Obrazovaniya i Substruktura Kondensirovannykh Plenok (Moscow: Nauka: 1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Я. Фукс, А. А. Козьма, В. А. Дуткин, А. В. Аринкин, Физ. мет. металловед., 38, вып. 4: 773 (1974).",
+				"tr":  "M. Ya. Fuks, A. A. Koz'ma, V. A. Dutkin, and A. V. Arinkin, Fiz. Met. Metalloved., 38, Iss. 4: 773 (1974) (in Russian)."
+			},
+			{
+				"doi": "10.3367/UFNr.0169.199909c.0979",
+				"or":  "В. А. Малыгин, Успехи физических наук, 169, № 9: 979 (1999).",
+				"tr":  "V. A. Malygin, Uspekhi Fizicheskikh Nauk, 169, No. 9: 979 (1999) (in Russian)."
+			},
+			{
+				"doi": "10.1007/BF00551803",
+				"or":  "M. Laugier, J. Mater. Sci., 15: 1147 (1980).",
+				"tr":  "M. Laugier, J. Mater. Sci., 15: 1147 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Скороход, І. В. Уварова, А. В. Рагуля, Фізико-хімічна кінетика в наноструктурних системах (Київ: Академперіодика: 2001).",
+				"tr":  "V. V. Skorokhod, I. V. Uvarova, and A. V. Ragulya, Fizyko-Khimichna Kinetyka v Nanostrukturnykh Systemakh (Kyiv: Akademperiodika: 2001) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Н. Магомедов, Физика твёрдого тела, 46, вып. 5: 924 (2004).",
+				"tr":  "M. N. Magomedov, Fiz. Tverd. Tela, 46, Iss. 5: 924 (2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Н. Магомедов, Альтернативная энергетика и экология, 86, No. 6: 82 (2010).",
+				"tr":  "M. N. Magomedov, Int. Sci. J. Alternative Energy and Ecology, 86, No. 6: 82 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Юзевич, П. М. Сопрунюк, Діагностика матеріалів і середовищ. Енергетичні характеристики поверхневих шарів (Львів: Сполом: 2005).",
+				"tr":  "V. M. Yuzevych and P. M. Soprunyuk, Diagnostyka Materialiv i Seredovyshch. Energetychni Kharakterystyky Poverkhnevykh Shariv (Lviv: Spolom: 2005) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "N. Eustathopoulus and J.-C. Joud, Curr. Top. Mater. Sci., 4: 281 (1980).",
+				"tr":  "N. Eustathopoulus and J.-C. Joud, Curr. Top. Mater. Sci., 4: 281 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "Таблицы физических величин: Справочник (Москва: Атомиздат: 1972).",
+				"tr":  "Tablitsy Fizicheskikh Velichin: Spravochnik (Moscow: Atomizdat: 1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Сытин, В. Н. Воеводин, С. В. Шевченко, Н. Д. Рыбальченко, Вопросы атомной науки и техники. Серия: Физика радиационных повреждений и радиационное материаловедение, 6: 32 (2003).",
+				"tr":  "V. I. Sytin, V. N. Voevodin, S. V. Shevchenko, and N. D. Rybal'chenko, Voprosy Atomnoy Nauki i Tekhniki. Ser.: Fizika Radiatsionnykh Povrezhdeniy i Radiatsionnoe Materialovedenie, 6: 32 (2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. С. Романов, В. В. Щеглова, Обзоры по электронной технике. Сер. Полупроводниковые приборы, 6 (798): 3 (1981).",
+				"tr":  "A. S. Romanov and V. V. Shcheglova, Obzory po Elektronnoy Tekhnike. Ser. Poluprovodnikovye Pribory, 6 (798): 3 (1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Ф. Венгер, В. Е. Примаченко, С. И. Кириллова, В. А. Чернобай, Оптоэлектроника и полупроводниковая техника, 38: 134 (2003).",
+				"tr":  "E. F. Venger, V. E. Primachenko, S. I. Kirillova, and V. A. Chernobay, Optoelektronika i Poluprovodnikovaya Tekhnika, 38: 134 (2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. А. Концевой, Ю. М. Литвинов, Э. А. Фаттахов, Пластичность и прочность полупроводниковых материалов и структур (Москва: Радио и связь: 1982).",
+				"tr":  "Yu. A. Kontsevoy, Yu. M. Litvinov, and E. A. Fattakhov, Plastichnost' i Prochnost' Poluprovodnikovykh Materialov i Struktur (Moscow: Radio i Svyaz': 1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Алехин, Физика прочности и пластичности поверхностных слоев материалов (Москва: Наука: 1983).",
+				"tr":  "V. P. Alekhin, Fizika Prochnosti i Plastichnosti Poverkhnostnykh Sloev Materialov (Moscow: Nauka: 1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Г. Неизвестный, В. А. Гридчин, Микроэлектроника, 38, № 2: 83 (2009).",
+				"tr":  "I. G. Neizvestnyy and V. A. Gridchin, Mikroelektronika, 38, No. 2: 83 (2009) (in Russian)."
+			}
+		]
+	}
+}

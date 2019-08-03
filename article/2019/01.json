@@ -1,0 +1,127 @@
+{
+	"year":   2019,
+	"volume": 41,
+	"issue":  1,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [1,11],
+			"title": {
+				"ua": "Структурно-фазові перетворення в нанорозмірній системі Cu/Cr за термічного та йонного впливів",
+				"en": "Structural and Phase Transformations in Nanoscale Cu/Cr System under Heat and Ion Actions",
+				"ru": "Структурно-фазовые превращения в наноразмерной системе Cu/Cr при термическом и ионном воздействиях"
+			},
+			"autors": {
+				"ua": "І. О. Круглов, І. Є. Котенко, В. О. Грищенко, С. І. Сидоренко, С. М. Волошко",
+				"en": "I. O. Kruhlov, I. E. Kotenko, V. O. Gryshchenko, S. I. Sidorenko, and S. M. Voloshko",
+				"ru": "И. А. Круглов, И. Е. Котенко, В. А. Грищенко, С. И. Сидоренко, С. М. Волошко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [13,25],
+			"title": {
+				"ua": "Аналіз стійкости плаского фронту $\\alpha \\rightarrow \\gamma$-перекристалізації при навуглецьовуванні феритних стопів",
+				"en": "Analysis of the Stability of $\\alpha \\rightarrow \\gamma$ Plane Front of Recrystallization in Ferritic Alloys During Carburization",
+				"ru": "Анализ устойчивости плоского фронта $\\alpha \\rightarrow \\gamma$-перекристаллизации при науглероживании ферритных сплавов"
+			},
+			"autors": {
+				"ua": "О. В. Мовчан, К. О. Чорноіваненко",
+				"en": "O. V. Movchan and K. O. Chernoivanenko",
+				"ru": "А. В. Мовчан, Е. А. Черноиваненко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [27,37],
+			"title": {
+				"ua": "Формування шаруватої структури в плівках ніклю при електроосадженні імпульсним струмом",
+				"en": "Formation of Layered Structure in Films of Nickel at Electrodeposition by a Pulse Current",
+				"ru": "Формирование слоистой структуры в плёнках никеля при электроосаждении импульсным током"
+			},
+			"autors": {
+				"ua": "Е. П. Штапенко, В. О. Заблудовський, В. В. Титаренко, В. С. Краєва, А. М. Афанасов",
+				"en": "E. P. Shtapenko, V. O. Zabludovsky, V. V. Tytarenko, V. S. Kraeva, and А. М. Afanasov",
+				"ru": "Э. Ф. Штапенко, В. А. Заблудовский, В. В. Титаренко, В. С. Краева, А. М. Афанасов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [39,46],
+			"title": {
+				"ua": "Розробка та дослідження сталь-молібденового покриття, нанесеного газотермічною методою",
+				"en": "Development and Investigation of a Steel–Molybdenum Coating Deposited by the Gas–Thermal Method",
+				"ru": "Разработка и исследование сталь-молибденового покрытия, нанесённого газотермическим методом"
+			},
+			"autors": {
+				"ua": "В. І. Большаков, Д. Б. Глушкова, О. В. Калінін, О. І. Воронков, Л. Л. Костіна",
+				"en": "V. I. Bolshakov, D. B. Hlushkova, O. V. Kalinin, O. I. Voronkov, and L. L. Kostina",
+				"ru": "В. И. Большаков, Д. Б. Глушкова, А. В. Калинин, А. И. Воронков, Л. Л. Костина"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [47,69],
+			"title": {
+				"ua": "Підвищення якости поверхневих електроерозійно-леґованих шарів комбінованими покриттями та поверхневим пластичним деформуванням. I. Особливості формування комбінованих електроерозійних покриттів на спеціяльних сталях і стопах",
+				"en": "Improvement of Quality of the Surface Electroerosive Alloyed Layers by the Combined Coatings and the Surface Plastic Deformation. I. Features of Formation of the Combined Electroerosive Coatings on Special Steels and Alloys",
+				"ru": "Повышение качества поверхностных электроэрозионно-легированных слоёв комбинированными покрытиями и поверхностным пластическим деформированием. I. Особенности формирования комбинированных электроэрозионных покрытий на специальных сталях и сплавах"
+			},
+			"autors": {
+				"ua": "В. Б. Тарельник, О. П. Гапонова, Є. В. Коноплянченко, В. С. Марцинковський, Н. В. Тарельник, О. О. Василенко",
+				"en": "V. B. Tarelnyk, O. P. Gaponova, Ye. V. Konoplianchenko, V. S. Martsynkovskyy, N. V. Tarelnyk, and O. O. Vasylenko",
+				"ru": "В. Б. Тарельник, О. П. Гапонова, Е. В. Коноплянченко, В. С. Марцинковский, Н. В. Тарельник, О. А. Василенко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  18,
+			"pages":  [71,100],
+			"title": {
+				"ua": "Експериментальне обґрунтування ефективности використання метод кваліметрії",
+				"en": "Experimental Justification of Efficiency of Application of Methods of a Qualimetry",
+				"ru": "Экспериментальное обоснование эффективности применения методов квалиметрии"
+			},
+			"autors": {
+				"ua": "В. В. Куриляк, Г. І. Хімічева, О. М. Хорошилов",
+				"en": "V. V. Kurylyak, G. I. Khimicheva, and О. M. Khoroshilov",
+				"ru": "В. В. Куриляк, А. И. Химичева, О. Н. Хорошилов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [101,120],
+			"title": {
+				"ua": "Електроіскряне дисперґування металевих матеріялів. III. Вплив технологічних чинників на розміри, форму та структурний стан високодисперсних частинок",
+				"en": "Electrospark Dispersion of Metal Materials. III. Influence of Processing Factors on the Sizes, the Form, and a Structural State of Superfine Particles",
+				"ru": "Электроискровое диспергирование металлических материалов. III. Влияние технологических факторов на размеры, форму и структурное состояние высокодисперсных частиц"
+			},
+			"autors": {
+				"ua": "А. О. Перекос, А. І. Устінов, С. М. Захарченко, О. Ф. Бойцов, В. З. Войнаш, В. П. Залуцький",
+				"en": "А. O. Perekos, A. I. Ustinov, S. M. Zakharchenkо, О. F. Bоytsоv, V. Z. Vоynаsh, and V. P. Zаlutskyi",
+				"ru": "А. Е. Перекос, А. И. Устинов, С. Н. Захарченко, О. Ф. Бойцов, В. З. Войнаш, В. П. Залуцкий"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [121,137],
+			"title": {
+				"ua": "Дисипативні структури ПВХ, наповненого нанодисперсними металами",
+				"en": "Dissipative Structures of the Polyvinylchloride Filled with the Nanodisperse Metals",
+				"ru": "Диссипативные структуры ПВХ, наполненного нанодисперсными металлам"
+			},
+			"autors": {
+				"ua": "Б. Б. Колупаєв, Б. С. Колупаєв, В. В. Левчук, Т. Г. Ляшук, Ю. Р. Максимцев, В. О. Сідлецький",
+				"en": "B. B. Kolupaev, B. S. Kolupaev, V. V. Levchuk, T. G. Lyashuk, Yu. R. Maksimtsev, and V. O. Sidletskyy",
+				"ru": "Б. Б. Колупаев, Б. С. Колупаев, В. В. Левчук, Т. Г. Ляшук, Ю. Р. Максимцев, В. А. Сидлецкий"
+			}
+		}
+	]
+}

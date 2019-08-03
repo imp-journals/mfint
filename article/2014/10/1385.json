@@ -1,0 +1,138 @@
+{
+	"_id":    "MFiNT.36.10.1385",
+	"year":   2014,
+	"volume": 36,
+	"issue":  10,
+	"pages":  [1385,1398],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["05.06.2013","25.08.2014"],
+	"PACS":   "05.70.Ln, 61.72.Bb, 61.72.Cc, 64.60.Ej, 66.30.Dn",
+	"title":   {
+		"ua": "Нерівноважний термодинамічний аналіз процесу утворення карбідів в хромистій сталі при відпусканні",
+		"en": "The Nonequilibrium Thermodynamic Analysis of Process of Formation of Carbides in Chromium Steel During Tempering",
+		"ru": "Неравновесный термодинамический анализ процесса образования карбидов в хромистой стали при отпуске"
+	},
+	"abstract": {
+		"ua": "Виконано нерівноважну термодинамічну аналізу процесу утворення карбідів у хромистій сталі при відпусканні. Розраховано перехресні коефіцієнти, рушійні сили та потоки в Онзаґерових рівняннях для модельної термодинамічної системи, оцінено розміри карбідів, що утворюються при відпусканні хромистої сталі.",
+		"en": "Nonequilibrium thermodynamics analysis of the process of carbide formation in chromium steel is performed. In Onsager equations for the model thermodynamic system, the crossed factors, driving forces, and flows are calculated. The sizes of carbides formed in chromium steel during tempering are estimated.",
+		"ru": "Выполнен неравновесный термодинамический анализ процесса образования карбидов в хромистой стали при отпуске. Рассчитаны перекрёстные коэффициенты, движущие силы и потоки в уравнениях Онзагера для модельной термодинамической системы, сделана оценка размеров карбидов, образующихся в хромистой стали при отпуске."
+	},
+	"keywords": {
+		"ua": "карбіди, хромистая сталь, дифузія, нерівноважна термодинаміка, рівняння руху",
+		"en": "carbides, chromium steel, diffusion, nonequilibrium thermodynamics, equations of motion",
+		"ru": "карбиды, хромистая сталь, диффузия, неравновесная термодинамика, уравнения движения"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. В. Бобирь", "en": "S. V. Bobyr", "ru": "С. В. Бобырь"},
+			"OID": [14]
+		}
+	],
+	"references": {
+		"count": 20,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "С. З. Бокштейн, Структура и механические свойства легированной стали (Москва: Металлургиздат: 1954).",
+				"tr":  "S. Z. Bokshtein, Struktura i Mekhanicheskie Svoystva Legirovannoy Stali (Moscow: Metallurgizdat: 1954) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Курдюмов, Л. М. Утевский, Р. И. Энтин, Превращения в железе и стали (Москва: Наука: 1977).",
+				"tr":  "G. V. Kurdyumov, L. M. Utevskiy, and R. I. Entin, Prevrashcheniya v Zheleze i Stali (Moscow: Nauka: 1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Пригожин, Введение в термодинамику необратимых процессов (Москва: Иностранная литература: 1960).",
+				"tr":  "I. Prigogine, Vvedenie v Termodinamiku Neobratimykh Protsessov (Moscow: Inostrannaya Literatura: 1960) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. де Гроот, П. Мазур, Неравновесная термодинамика (Москва: Мир: 1964).",
+				"tr":  "S. R. de Groot and P. Mazur, Neravnovesnaya Termodinamika (Moscow: Mir: 1964) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRev.37.405",
+				"or":  "L. Onsager, Phys. Rev., 37: 405 (1931).",
+				"tr":  "L. Onsager, Phys. Rev., 37: 405 (1931)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Вейник, Термодинамика (Минск: Вышейшая школа: 1968).",
+				"tr":  "A. I. Veynik, Termodinamika (Minsk: Vysheyshaya Shkola: 1968) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Жуков, Р. Л. Снежной, Диффузионные процессы в металлах (Киев: Наукова думка: 1966).",
+				"tr":  "A. A. Zhukov and R. L. Snezhnoj, Diffuzionnye Protsessy v Metallakh (Kiev: Naukova Dumka: 1966) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Криштал, А. А. Жуков, Р. Л. Снежной, Э. Г. Титенский, Термодинамика, физическая кинетика структурообразования и свойства чугуна и стали (Москва: Металлургия: 1971), вып. 4.",
+				"tr":  "M. A. Krishtal, A. A. Zhukov, R. L. Snezhnoj, and E. G. Titenskiy, Termodinamika, Fizicheskaya Kinetika Strukturoobrazovaniya i Svoystva Chuguna i Stali (Moscow: Metallurgiya: 1971), Iss. 4 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Я. Любов, Кинетическая теория фазовых превращений (Москва: Металлургия: 1969).",
+				"tr":  "B. Ya. Lyubov, Kineticheskaya Teoriya Fazovykh Prevrashcheniy (Moscow: Metallurgiya: 1969) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. С. Бокштейн, Диффузия в металлах (Москва: Металлургия:1978).",
+				"tr":  "B. S. Bokshtein, Diffuziya v Metallakh (Moscow: Metallurgiya:1978)."
+			},
+			{
+				"doi": "",
+				"or":  "П. И. Мельник, Диффузионное насыщение железа и твердофазные превращения в сплавах (Москва: Металлургия: 1993).",
+				"tr":  "P. I. Mel'nik, Diffuzionnoe Nasyshchenie Zheleza i Tverdofaznye Prevrashcheniya v Splavakh (Moscow: Metallurgiya: 1993) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Большаков, С. В. Бобырь, МиТОМ, № 8: 11 (2004).",
+				"tr":  "V. I. Bol'shakov and S. V. Bobyr', MiTOM, No. 8: 11 (2004) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.69.104102",
+				"or":  "V. Vovk, G. Schmitz, and R. Kirchheim, Phys. Rev., 69: 104102 (2004).",
+				"tr":  "V. Vovk, G. Schmitz, and R. Kirchheim, Phys. Rev., 69: 104102 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. В. Сторожук, А. М. Гусак, Металлофиз. новейшие технол., 34, № 8: 1145 (2012).",
+				"tr":  "N. V. Storozhuk and A. M. Gusak, Metallofiz. Noveishie Tekhnol., 34, No. 8: 1145 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. О. Ляшенко, Л. Ш. Гладка, І. О. Шматко, О. А. Шматко, Металлофиз. новейшие технол., 34, № 12: 1693 (2012).",
+				"tr":  "Yu. O. Lyashenko, L. Sh. Gladka, I. O. Shmatko, and O. A. Shmatko, Metallofiz. Noveishie Tekhnol., 34, No. 12: 1693 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Бобырь, Металлофиз. новейшие технол., 35, № 2: 199 (2013).",
+				"tr":  "S. V. Bobyr', Metallofiz. Noveishie Tekhnol., 35, No. 2: 199 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. И. Сильман, Журнал физической химии, 57, № 2: 307 (1985).",
+				"tr":  "G. I. Sil'man, Zhurnal Fizicheskoy Khimii, 57, No. 2: 307 (1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. И. Сильман, МиТОМ, № 1: 26 (2002).",
+				"tr":  "G. I. Sil'man, MiTOM, No. 1: 26 (2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Лариков, В. И. Исайчев, Диффузия в металлах и сплавах: Справочник (Киев: Наукова думка: 1987).",
+				"tr":  "L. N. Larikov and V. I. Isaychev, Diffuziya v Metallakh i Splavakh: Spravochnik (Kiev: Naukova Dumka: 1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. И. Устиновщиков, Физ. мет. металловед., 44, № 2: 336 (1977).",
+				"tr":  "Yu. I. Ustinovshchikov, Fiz. Met. Metalloved., 44, No. 2: 336 (1977) (in Russian)."
+			}
+		]
+	}
+}

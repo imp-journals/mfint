@@ -1,0 +1,93 @@
+{
+	"_id":    "MFiNT.41.03.0313",
+	"year":   2019,
+	"volume": 41,
+	"issue":  3,
+	"pages":  [313,335],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["28.10.2018","22.11.2018"],
+	"PACS":   "62.20.Qp, 68.35.Ct, 68.35.Gy, 68.55.J-, 81.15.Rs, 81.40.Pq",
+	"title":   {
+		"ua": "Підвищення якості поверхневих електроерозійно-легованих шарів комбінованими покриттями та поверхневим пластичним деформуванням. III. Вплив основних технологічних параметрів на мікрогеометрію, структуру та властивості електроерозійних покриттів",
+		"en": "Improvement of Quality of the Surface Electroerosive Alloyed Layers by the Combined Coatings and the Surface Plastic Deformation. III. The Influence of the Main Technological Parameters on Microgeometry, Structure and Properties of Electrolytic Erosion Coatings",
+		"ru": "Повышение качества поверхностных электроэрозионно-легированных слоёв комбинированными покрытиями и поверхностным пластическим деформированием. ІІІ. Влияние основных технологических параметров на микрогеометрию, структуру и свойства электроэрозионных покрытий"
+	},
+	"abstract": {
+		"ua": "У роботі узагальнено результати впливу поверхневої пластичної деформації (ППД) ерозійних покриттів з твердих зносостійких, м’яких антифрикційних матеріялів і комбінованих електроерозійних покриттів (КЕП) на показники якості отриманих шарів. Показано, що застосування КЕП, яке включає формування підшару з міді для твердих зносостійких покриттів, дозволяє знизити величину розтягувальних напружень і підвищити втомну міцність. Проведення ППД призводить до створення в поверхневому шарі сприятливих напружень стискання. Знайдено залежності твердості поверхневих шарів від питомого зусилля деформації. Отримано, що раціональними питомими зусиллями ППД є 1000 МПа для алмазного вигладжування і 1500 МПа для обкатки кулькою.",
+		"en": "The results concerning an influence of surface plastic deformation (SPD) of erosion coatings from hard wear-resistant, soft antifriction materials and combined electro-erosive coatings (CEECs) on the indicators of layers’ quality are generalized. As shown, the applications of CEEC, which includes a formation of copper underlayer for hard wear-resistant coatings, allows to reduce the tensile stresses and to increase the fatigue strength. The performance of the SPD leads to favourable compressive stresses in the surface layer. The dependences of surface layers hardness on the specific strain force are founded. As determined, the rational specific strain force of SPD are 1000 MPa for diamond smoothing and 1500 MPa for running in ball.",
+		"ru": "В работе обобщены результаты влияния поверхностной пластической деформации (ППД) эрозионных покрытий из твёрдых износостойких, мягких антифрикционных материалов и комбинированных эрозионных покрытий (КЭП) на показатели качества полученных слоёв. Показано, что применение КЭП, включающего формирование подслоя из меди для твёрдых износостойких покрытий, позволяет снизить величину растягивающих напряжений и повысить усталостную прочность. Проведение ППД приводит к созданию в поверхностном слое благоприятных напряжений сжатия. Найдены зависимости твёрдости поверхностных слоёв от удельного усилия деформации. Получено, что рациональными удельными усилиями ППД являются 1000 МПа для алмазного выглаживания и 1500 МПа для обкатки шариком."
+	},
+	"keywords": {
+		"ua": "електроерозійне легування, комбіноване покриття, пластичне деформування, структура поверхні, мікротвердість",
+		"en": "electro-erosive alloying (EEA), combined coating, plastic deformation, structure of surface, microhardness",
+		"ru": "электроэрозионное легирование, комбинированное покрытие, пластическое деформирование, структура поверхности, микротвёрдость"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Б. Тарельник", "en": "V. B. Tarelnyk", "ru": "В. Б. Тарельник"},
+			"OID": [247]
+		},
+		{
+			"AID": {"ua": "О. П. Гапонова", "en": "O. P. Gaponova", "ru": "О. П. Гапонова"},
+			"OID": [208]
+		},
+		{
+			"AID": {"ua": "Є. В. Коноплянченко", "en": "Ye. V. Konoplianchenko", "ru": "Е. В. Коноплянченко"},
+			"OID": [247]
+		},
+		{
+			"AID": {"ua": "В. С. Марцинковський", "en": "V. S. Martsynkovskyy", "ru": "В. С. Марцинковский"},
+			"OID": [247]
+		},
+		{
+			"AID": {"ua": "Н. В. Тарельник", "en": "N. V. Tarelnyk", "ru": "Н. В. Тарельник"},
+			"OID": [247]
+		},
+		{
+			"AID": {"ua": "О. О. Василенко", "en": "O. O. Vasylenko", "ru": "О. А. Василенко"},
+			"OID": [247]
+		}
+	],
+	"references": {
+		"count": 7,
+		"list":  [
+			{
+				"doi": "10.15407/mfint.40.02.0235",
+				"or":  "В. Б. Тарельник, О. П. Гапонова, Е. В. Коноплянченко, Н. С. Евтушенко, В. О. Герасименко, Металлофиз. новейшие технол., 40, № 2: 235 (2018).",
+				"tr":  "V. B. Tarelnyk, O. P. Gaponova, I. V. Konoplianchenko, N. S. Evtushenko, and V. A. Herasymenko, Metallofiz. Noveishie Tekhnol., 40, No. 2: 235 (2018) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.40.06.0795",
+				"or":  "В. Б. Тарельник, О. П. Гапонова, Е. В. Коноплянченко, Н. С. Евтушенко, В. О. Герасименко, Металлофиз. новейшие технол., 40, № 6: 795 (2018).",
+				"tr":  "V. B. Tarelnyk, O. P. Gaponova, I. V. Konoplianchenko, N. S. Evtushenko, and V. A. Herasymenko, Metallofiz. Noveishie Tekhnol., 40, No. 6: 795 (2018) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. А. Хворостухин, С. В. Шишкин, А. П. Ковалев, Р. А. Ишмаков, Повышение несущей способности деталей машин поверхностным упрочнением (Москва: Машиностроение: 1988).",
+				"tr":  "L. A. Khvorostukhin, S.V. Shishkin, A.P. Kovalev, and R. A. Ishmakov, Povyshenie Nesushchey Sposobnosti Detaley Mashin Poverkhnostnym Uprochneniem (Moscow: Mashinostroenie: 1988) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.38.12.1611",
+				"or":  "В. Б. Тарельник, О. П. Гапонова, Е. В. Коноплянченко, М. Я. Довжик, Металлофиз. новейшие технол., 38, № 12: 1611 (2016).",
+				"tr":  "V. B. Tarel'nyk, O. P. Gaponova, Ye. V. Konoplyanchenko, and M. Ya. Dovzhyk, Metallofiz. Noveishie Tekhnol., 38, No. 12: 1611 (2016) (in Russian)."
+			},
+			{
+				"doi": "10.1007/s11106-018-9944-6",
+				"or":  "G. V. Kirik, O. P. Gaponova, V. B. Tarelnyk, O. M. Myslyvchenko, and B. Antoszewski, Powder Metall. Met. Ceram., 56, Iss. 11–12: 688 (2018).",
+				"tr":  "G. V. Kirik, O. P. Gaponova, V. B. Tarelnyk, O. M. Myslyvchenko, and B. Antoszewski, Powder Metall. Met. Ceram., 56, Iss. 11-12: 688 (2018)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Е. Гитлевич, В. В. Михайлов, Н. Я. Парканский, В. М. Ревутский, Электроискровое легирование металлических поверхностей (Кишинёв: Штинца: 1985).",
+				"tr":  "A. E. Gitlevich, V. V. Mikhaylov, N. YA. Parkanskiy, and V. M. Revutskiy, Elektroiskrovoe Legirovanie Metallicheskikh Poverkhnostey (Kishinev: Shtintsa: 1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Тарельник, Зміцнення поверхневих шарів інструмента та важконавантажених деталей електроерозійним легуванням з наступною пластичною деформацією (Автореф. дис. канд. техн. наук) (Луганськ: Східноукраїнський ун-т: 1994).",
+				"tr":  "V. B. Tarelnyk, Zmitsnennya Poverkhnevykh Shariv Instrumenta ta Vazhkonavantazhenykh Detaley Elektroeroziynym Leguvannyam z Nastupnoyu Plastychnoyu Deformatsiyeyu (Thesis of Disser. ... for the Degree of Cand. Tech. Sci.) (Lugansk: East Ukrainian University: 1994) (in Ukrainian)."
+			}
+		]
+	}
+}

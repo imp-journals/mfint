@@ -1,0 +1,53 @@
+{
+	"_id":    "MFiNT.37.0087",
+	"year":   2015,
+	"volume": 37,
+	"issue":  1,
+	"pages":  [87,102],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["24.06.2014","29.09.2014"],
+	"PACS":   "02.70.Ns, 05.70.Ln, 68.35.Fx, 81.15.Aa, 81.30.Bx, 82.33.Pt, 82.60.Lf",
+	"title":  {
+		"ua": "Проблема вибору першої фази в реакції між наноплівками нікеля та алюмінію",
+		"en": "Problem of a Choice of the First Phase in Reaction between Nanofilms of Nickel and Aluminium",
+		"ru": "Проблема выбора первой фазы в реакции между наноплёнками никеля и алюминия"
+	},
+	"abstract": {
+		"ua": "Методами феноменологічного моделювання та молекулярної динаміки визначено фазу, яка має з’явитися першою при реакційній дифузії між наноплівками ніклю й алюмінію. Показано, що в разі безпосереднього контакту чистого ніклю та чистого алюмінію за температур вище 700 К першою проміжною фазою має бути рідкий розчин. Виконано пряме моделювання методою молекулярної динаміки, яке підтверджує зниження температури топлення алюмінію за розчинення в ньому ніклю. Представлено комп’ютерний модель процесу напорошення атомів Ніклю на поверхню наноплівки з атомів Алюмінію. Показано вплив температури й густини потоку на процес напорошення і формування структур в області контакту. Встановлено, що у випадку напорошення при достатньо високій температурі в зоні контакту виникає впорядкована фаза з ОЦК-ґратницею, присутність якої запобігає контактному топленню.",
+		"en": "Solid-state interaction between nanofilms of aluminium and nickel in multilayer formed by sequential deposition is considered. Phase-formation sequence during reaction is discussed. The first phase, which appears in reactional diffusion, is determined by means of the methods of phenomenological simulation and molecular dynamics. As shown, in case of direct contact of pure nickel and pure aluminium at the temperatures above 700 K, the first intermediate phase should be liquid solution. Such contact melting follows from the metastable phase diagram calculated under assumption of suppression of the intermetallic-phase nucleation. The direct MD simulation confirms the decrease of the melting temperature of aluminium due to the dissolution of nickel in it. The computer model of deposition of the nickel atoms onto the aluminium nanofoil is presented. The influence of temperature and density of flux on the deposition process and on structure formation in the contact region is demonstrated. If the deposition proceeds under quite high temperature, the ordered phase based on b.c.c. lattice appears in the process of deposition. Its presence makes contact melting impossible. If deposition proceeds at room temperature, some partial ordering in the form of ordered 2D-islands in the contact zone is possible, but it does not prevent the contact melting. Possible influence of oxides is neglected within this model.",
+		"ru": "Методами феноменологического моделирования и молекулярной динамики определена фаза, которая должна появиться первой при реакционной диффузии между наноплёнками никеля и алюминия. Показано, что в случае непосредственного контакта чистого никеля и чистого алюминия при температуре свыше 700 К первой промежуточной фазой должен быть жидкий раствор. Выполнено прямое моделирование методом молекулярной динамики, которое подтверждает снижение температуры плавления алюминия при растворении в нём никеля. Представлена компьютерная модель процесса напыления атомов никеля на поверхность наноплёнки из атомов алюминия. Показано влияние температуры и плотности потока на процесс напыления и формирования структур в области контакта. Установлено, что в случае напыления при достаточно высокой температуре в зоне контакта возникает упорядоченная фаза с ОЦК-решёткой, присутствие которой делает контактное плавление невозможным."
+	},
+	"keywords": {
+		"ua": "наноплівки, конкуренція фаз, метастабільна фазова діяграма, молекулярна динаміка, метода зануреного атома, CALPHAD",
+		"en": "nanofilms, competition of phases, metastable phase diagram, molecular dynamics, embedded atom method, CALPHAD",
+		"ru": "наноплёнки, конкуренция фаз, метастабильная фазовая диаграмма, молекулярная динамика, метод погруженного атома, CALPHAD"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. М. Безпальчук", "en": "V. M. Bezpal’chuk", "ru": "В. Н. Безпальчук"},
+			"OID": [214]
+		},
+		{
+			"AID": {"ua": "С. В. Марченко", "en": "S. V. Marchenko", "ru": "С. В. Марченко"},
+			"OID": [214]
+		},
+		{
+			"AID": {"ua": "О. М. Римар", "en": "O. M. Rymar", "ru": "О. М. Рымар"},
+			"OID": [214]
+		},
+		{
+			"AID": {"ua": "О. О. Богатирьов", "en": "O. O. Bogatyryov", "ru": "А. О. Богатырёв"},
+			"OID": [214]
+		},
+		{
+			"AID": {"ua": "А. М. Гусак", "en": "A. M. Gusak", "ru": "А. М. Гусак"},
+			"OID": [214]
+		}
+	],
+	"references": {
+		"count": 18,
+		"list":  []
+	}
+}

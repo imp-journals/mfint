@@ -1,0 +1,112 @@
+{
+	"_id":    "MFiNT.38.11.1497",
+	"year":   2016,
+	"volume": 38,
+	"issue":  11,
+	"pages":  [1497,1512],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["26.06.2016"],
+	"PACS":   "62.20.Qp, 68.60.-p, 81.05.Bx, 81.05.Ni, 81.20.Ev, 81.40.Pq, 81.65.Mq",
+	"title":   {
+		"ua": "Властивості порошкових стопів на основі кобальту з карбідним зміцненням",
+		"en": "Properties of Powder Alloys Based on a Cobalt with Carbide Strengthening",
+		"ru": "Свойства порошковых сплавов на основе кобальта с карбидным упрочнением"
+	},
+	"abstract": {
+		"ua": "Досліджено важливі для експлуатації властивості одержаних методою порошкової металурґії кобальтових стопів, зміцнених карбідами ніобію та титану. Визначено залежність твердости порошкових стопів від вмісту в них карбіду при температурах від кімнатної до 1150°C. Встановлено, що за характеристиками жаростійкости при температурі 1100°C порошкові кобальтові стопи з карбідом титану переважають стопи з карбідом ніобію. Стопи з об’ємним вмістом карбіду титану у 30, 50 та 70% досліджено на зносостійкість в умовах фретинґ-корозії за температур у 20, 300, 650, 800 та 1050°C. Визначено оптимальний склад стопу авіяційного призначення з температурою топлення, вищою за 1300°C, для подальших промислових випробувань.",
+		"en": "Cobalt alloys obtained by powder metallurgy and reinforced by carbides of niobium and titanium (that is important for their operation properties) are investigated. The dependence of the hardness of powder alloys on content of carbide at temperatures from room temperature to 1150°C is determined. As established, the characteristics of heat resistance of powder cobalt alloys with titanium carbide at temperature of 1100°C predominate over alloys with niobium carbide. Alloys of titanium carbide with volume content of 30, 50 and 70% are studied for wear resistance under fretting corrosion at temperatures of 20, 300, 650, 800, and 1050°C. The optimum composition of the alloy of aviation appointment with a melting point higher than 1300°C is determined for further field tests.",
+		"ru": "Исследованы важные для эксплуатации свойства полученных методом порошковой металлургии кобальтовых сплавов, упрочнённых карбидами ниобия и титана. Определена зависимость твёрдости порошковых сплавов от содержания в них карбида при температурах от комнатной до 1150°C. Установлено, что по характеристикам жаростойкости при температуре 1100°C порошковые кобальтовые сплавы с карбидом титана превышают сплавы с карбидом ниобия. Сплавы с объёмным содержанием карбида титана 30, 50 и 70% исследованы на износостойкость в условиях фреттинг-коррозии при температурах 20, 300, 650, 800 и 1050°C. Определён оптимальный состав сплава авиационного назначения с температурой плавления выше 1300°C для дальнейших промышленных испытаний."
+	},
+	"keywords": {
+		"ua": "порошкові кобальтові стопи, карбід титану, карбід ніобію, твердість, температура топлення, жаростійкість, зносостійкість",
+		"en": "powder cobalt alloys, titanium carbide, niobium carbide, hardness, melting temperature, heat resistance, wear resistance",
+		"ru": "порошковые кобальтовые сплавы, карбид титана, карбид ниобия, твёрдость, температура плавления, жаростойкость, износостойкость"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Т. С. Черепова", "en": "T. S. Cherepova", "ru": "Т. С. Черепова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Г. П. Дмитрієва", "en": "G. P. Dmitrieva", "ru": "Г. П. Дмитриева"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 14,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Г. Н. Третьяченко, С. В. Кравчук, Р. И. Куриат, А. П. Волощенко, Несущая способность лопаток газовых турбин при нестационарном тепловом и силовом воздействии (Киев: Наукова думка: 1975).",
+				"tr":  "G. N. Tret'yachenko, S. V. Kravchuk, R. I. Kuriat, and A. P. Voloshchenko, Nesushchaya Sposobnost' Lopatok Gazovykh Turbin pri Nestatsionarnom Teplovom i Silovom Vozdeystvii [The Bearing Capacity of Gas Turbine Blades in Nonstationary Thermal and Force Action] (Kiev: Naukova Dumka: 1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. И. Пейчев, В. Е. Замковой, Н. В. Ахрамеев, Технологические системы, № 2: 5 (2000).",
+				"tr":  "G. I. Peychev, V. E. Zamkovoy, and N. V. Akhrameev, Tekhnologicheskie Sistemy, No. 2: 5 (2000) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.37.07.0973",
+				"or":  "Г. П. Дмитриева, Т. С. Черепова, Т. А. Косорукова, В. И. Ничипоренко, Металлофиз. новейшие технол., 37, № 7: 973 (2015).",
+				"tr":  "G. P. Dmitrieva, T. S. Cherepova, T. O. Kosorukova, and V. I. Nichiporenko, Metallofiz. Noveishie Tekhnol., 37, No. 7: 973 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. С. Черепова, Г. П. Дмитрієва, А. В. Носенко, О. М. Семирга, Наука та інновації, 10, № 4: 22 (2014).",
+				"tr":  "T. S. Cherepova, G. P. Dmytrieva, A. V. Nosenko, and O. M. Semyrha, Nauka ta Innovatsiyi, 10, No. 4: 22 (2014) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Леонтьев, С. Д. Заличихис, Э. В. Кондратюк, В. Е. Замковой, Вестник двигателестроения, № 4: 99 (2006).",
+				"tr":  "V. A. Leont'ev, S. D. Zalichikhis, E. V. Kondratyuk, and V. E. Zamkovoy, Vestnik Dvigatelestroeniya, No. 4: 99 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. И. Пейчев, В. Е. Замковой, Н. В. Андрейченко, Авиационно-космическая техника и технология, № 8: 11 (2007).",
+				"tr":  "G. I. Peychev, V. E. Zamkovoy, and N. V. Andreychenko, Aviatsionno-Kosmicheskaya Tekhnika i Tekhnologiya, No. 8: 11 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. И. Пейчев, В. Е. Замковой, Н. В. Андрейченко, Авиационно-космическая техника и технология, № 9: 102 (2010).",
+				"tr":  "G. I. Peychev, V. E. Zamkovoy, and N. V. Andreychenko, Aviatsionno-Kosmicheskaya Tekhnika i Tekhnologiya, No. 9: 102 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. С. Черепова, Г. П. Дмитрієва, Порошковая металлургия, № 1–2: 58 (2016).",
+				"tr":  "T. S. Cherepova and G. P. Dmitrieva, Poroshkovaya Metallurgiya, Nos. 1–2: 58 (2016) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. М. Алексюк, В. А. Борисенко, В. П. Кращенко, Механические испытания при высоких температурах (Киев: Наукова думка: 1980).",
+				"tr":  "M. M. Aleksyuk, V. A. Borisenko, and V. P. Krashchenko, Mekhanicheskie Ispytaniya pri Vysokikh Temperaturakh [Mechanical Tests at High Temperatures] (Kiev: Naukova Dumka: 1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Расчёты и испытания на прочность. Метод определения высокотемпературной твёрдости вдавливанием пирамидального и бицилиндрического индентора. ДСТУ 2434-94.",
+				"tr":  "Raschety i Ispytaniya na Prochnost'. Metod Opredeleniya Vysokotemperaturnoy Tverdosti Vdavlivaniem Piramidal'nogo i Bitsilindricheskogo Indentora [Calculations and Tests of Strength. Method for Determination of the High-Temperature Hardness by Indentation of Pyramidal and Bicylindrical Indenters]. DSTU 2434-94 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. І. Духота, О. В. Тісов, Проблеми тертя та зношування, № 53: 195 (2010).",
+				"tr":  "O. I. Dukhota and O. V. Tisov, Problemy Tertya ta Znoshuvannya, No. 53: 195 (2010) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Ф. Войтович, Окисление карбидов и нитридов (Киев: Наукова думка: 1981).",
+				"tr":  "R. F. Voytovich, Okislenie Karbidov i Nitridov [Oxidation of Carbides and Nitrides] (Kiev: Naukova Dumka: 1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Энциклопедия неорганических материалов (Киев: Высшая школа: 1977).",
+				"tr":  "Entsiklopediya Neorganicheskikh Materialov (Kiev: Vysshaya Shkola: 1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. С. Черепова, Г. П. Дмитрієва, Н. В. Андрійченко, Сплав на основі кобальту: Патент України № 92883 (Опубл. 10 грудня 2010 р.).",
+				"tr":  "T. S. Cherepova, G. P. Dmytrieva, and N. V. Andriychenko, Splav na Osnovi Kobal'tu [An Alloy Based on Cobalt]: Ukrainian Patent No. 92883 (Publ. December 10, 2010) (in Ukrainian)."
+			}
+		]
+	}
+}

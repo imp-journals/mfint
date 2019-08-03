@@ -1,0 +1,132 @@
+{
+	"_id":    "MFiNT.39.05.0567",
+	"year":   2017,
+	"volume": 39,
+	"issue":  5,
+	"pages":  [567,578],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["18.04.2017"],
+	"PACS":   "61.50.Ks, 62.20.fg, 77.80.B-, 81.30.Kf, 83.10.Tv",
+	"title":   {
+		"ua": "Режими та напруги двійникування перерозподілів мартенситних варіянтів у білястехіометричному Ni$_{2}$MnGa-монокристалі",
+		"en": "Modes and Twinning Stresses of Martensite Variants Rearrangements in Near-Stoichiometric Ni$_{2}$MnGa Single Crystal",
+		"ru": "Режимы и напряжения двойникования перераспределений мартенситных вариантов в околостехиометрическом Ni$_{2}$MnGa-монокристалле"
+	},
+	"abstract": {
+		"ua": "Послідовності термічно індукованих мартенситних i міжмартенситних перетворень $L2_{1}\\to 10M\\to 14M\\to L1_{0}$ i $L1_{0}\\to 14M\\to 10M\\to L2_{1}$ спостерігаються у Ni$_{50,6}$Mn$_{28,5}$Ga$_{20,9}$-монокристалі у термічному циклі охолодження та нагрівання. Досліджено види індукованих напругою міжваріантних переходів у 10$M$-, 14$M$- i $L1_{0}$-мартенситах на основі матричного опису та визначено напруги перерозподілу орієнтаційних варіянтів, залежно від структури мартенситу, виду переходу та температури. Напруга двійникування зменшується уздовж $L1_{0}$-, 14$M$-, 10$M$-мартенситів із зменшенням періоду нанодвійникованої структури.",
+		"en": "The sequences of the thermally induced martensitic and intermartensitic $L2_{1}\\to 10M\\to 14M\\to L1_{0}$ and $L1_{0}\\to 14M\\to 10M\\to L2_{1}$ transformations are observed in Ni$_{50.6}$Mn$_{28.5}$Ga$_{20.9}$ single crystal on the cooling and heating branches of a thermal cycle. The modes of stress-induced intervariant transitions in the 10$M$, 14$M$, and $L1_{0}$ martensites are investigated on the basis of matrix approach, and the stresses of orientation-variants’ rearrangements are determined as a function of martensite structure, transition mode, and temperature. The twinning stress decreases along the $L1_{0}$, 14$M$, and 10$M$ martensites with a decrease of period of a nanotwinned structure.",
+		"ru": "Последовательности термически индуцированных мартенситных и межмартенситных превращений $L2_{1}\\to 10M\\to 14M\\to L1_{0}$ и $L1_{0}\\to 14M\\to 10M\\to L2_{1}$ наблюдаются в Ni$_{50,6}$Mn$_{28,5}$Ga$_{20,9}$-монокристалле в термическом цикле охлаждения и нагрева. Исследованы виды индуцированных напряжением межвариантных переходов в 10$M$-, 14$M$- и $L1_{0}$-мартенситах на основе матричного описания и определены напряжения перераспределения ориентационных вариантов в зависимости от структуры мартенсита, вида перехода и температуры. Напряжение двойникования уменьшается вдоль $L1_{0}$-, 14$M$-, 10$M$-мартенситов с уменьшением периода нанодвойникованной структуры."
+	},
+	"keywords": {
+		"ua": "стопи з пам’яттю форми, Ni$_{2}$MnGa, мартенситне перетворення, орієнтаційний варіянт, міжваріянтний перехід, напруга двійникування",
+		"en": "shape-memory alloys, Ni$_{2}$MnGa, martensitic transformation, orientation variant, intervariant transition, twinning stress",
+		"ru": "сплавы с памятью формы, Ni$_{2}$MnGa, мартенситное превращение, ориентационный вариант, межвариантный переход, напряжение двойникования"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. К. Сульженко", "en": "V. Soolshenko", "ru": "В. К. Сульженко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. А. Білошапка", "en": "V. Beloshapka", "ru": "В. А. Белошапка"},
+			"OID": [253]
+		}
+	],
+	"references": {
+		"count": 18,
+		"list":  [
+			{
+				"doi": "10.1063/1.1306635",
+				"or":  "S. J. Murray, M. Marioni, S. M. Allen, and R. C. O’Handley, Appl. Phys. Lett., 77, No. 6: 886 (2000).",
+				"tr":  "S. J. Murray, M. Marioni, S. M. Allen, and R. C. O'Handley, Appl. Phys. Lett., 77, No. 6: 886 (2000)."
+			},
+			{
+				"doi": "10.1063/1.1458075",
+				"or":  "A. Sozinov, A. A. Likhachev, N. Lanska, and K. Ullakko, Appl. Phys. Lett., 80, No. 10: 1746 (2002).",
+				"tr":  "A. Sozinov, A. A. Likhachev, N. Lanska, and K. Ullakko, Appl. Phys. Lett., 80, No. 10: 1746 (2002)."
+			},
+			{
+				"doi": "10.1016/j.msea.2003.10.365",
+				"or":  "A. Sozinov, A. A. Likhachev, N. Lanska, O. Soderberg, K. Ullakko, and V. K. Lindroos, Mater. Sci. Eng. A, 378, Nos. 1–2: 399 (2004).",
+				"tr":  "A. Sozinov, A. A. Likhachev, N. Lanska, O. Soderberg, K. Ullakko, and V. K. Lindroos, Mater. Sci. Eng. A, 378, Nos. 1–2: 399 (2004)."
+			},
+			{
+				"doi": "10.1063/1.4775677",
+				"or":  "A. Sozinov, N. Lanska, A. Soroka, and W. Zou, Appl. Phys, Lett., 102: 021902 (2013).",
+				"tr":  "A. Sozinov, N. Lanska, A. Soroka, and W. Zou, Appl. Phys, Lett., 102: 021902 (2013)."
+			},
+			{
+				"doi": "10.1080/13642817408246515",
+				"or":  "P. J. Webster, K. R. A. Ziebeck, S. L. Town, and M. S. Peak, Philos. Mag. B, 49, No. 3: 295 (1984).",
+				"tr":  "P. J. Webster, K. R. A. Ziebeck, S. L. Town, and M. S. Peak, Philos. Mag. B, 49, No. 3: 295 (1984)."
+			},
+			{
+				"doi": "10.1051/jp3:1992155",
+				"or":  "V. V. Martynov and V. V. Kokorin, J. Phys. III France, 2, No. 5: 739 (1992).",
+				"tr":  "V. V. Martynov and V. V. Kokorin, J. Phys. III France, 2, No. 5: 739 (1992)."
+			},
+			{
+				"doi": "10.1016/0956-716X(93)90139-J",
+				"or":  "K. Otsuka, T. Ohba, M. Tokonami, and C.M. Wayman, Scr. Met., 29, No. 10: 1359 (1993).",
+				"tr":  "K. Otsuka, T. Ohba, M. Tokonami, and C.M. Wayman, Scr. Met., 29, No. 10: 1359 (1993)."
+			},
+			{
+				"doi": "10.1051/jp4:1995810",
+				"or":  "V. V. Martynov, J. Phys. IV France, 5, No. C8: 91 (1995).",
+				"tr":  "V. V. Martynov, J. Phys. IV France, 5, No. C8: 91 (1995)."
+			},
+			{
+				"doi": "10.1016/0921-5093(95)10051-2",
+				"or":  "S. Morito and K. Otsuka, Mater. Sci. Eng. A, 208, No. 1: 47 (1996).",
+				"tr":  "S. Morito and K. Otsuka, Mater. Sci. Eng. A, 208, No. 1: 47 (1996)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(00)00130-0",
+				"or":  "J. Pons, V. A. Chernenko, R. Santamarta, and E. Cesari, Acta Mat., 48, No. 12: 3027 (2000).",
+				"tr":  "J. Pons, V. A. Chernenko, R. Santamarta, and E. Cesari, Acta Mat., 48, No. 12: 3027 (2000)."
+			},
+			{
+				"doi": "10.1051/jp4:20031037",
+				"or":  "V. Soolshenko, N. Lanska, and K. Ullakko, J. Phys. IV France, 112: 947 (2003).",
+				"tr":  "V. Soolshenko, N. Lanska, and K. Ullakko, J. Phys. IV France, 112: 947 (2003)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2004.11.568",
+				"or":  "C. Segui, V. A. Chernenko, J. Pons, and E. Cesari, J. Magn. Magn. Mater., 290–291: 811 (2005).",
+				"tr":  "C. Segui, V. A. Chernenko, J. Pons, and E. Cesari, J. Magn. Magn. Mater., 290–291: 811 (2005)."
+			},
+			{
+				"doi": "10.1063/1.1861137",
+				"or":  "J. Pons, R. Santamarta, V. A. Chernenko, and E. Cesari, J. Appl. Phys., 97: 083516 (2005).",
+				"tr":  "J. Pons, R. Santamarta, V. A. Chernenko, and E. Cesari, J. Appl. Phys., 97: 083516 (2005)."
+			},
+			{
+				"doi": "https://doi:10.1016/j.msea.2006.02.179",
+				"or":  "J. Pons, R. Santamarta, V. A. Chernenko, and E. Cesari, Mater. Sci. Eng. A, 438–440: 931 (2006).",
+				"tr":  "J. Pons, R. Santamarta, V. A. Chernenko, and E. Cesari, Mater. Sci. Eng. A, 438–440: 931 (2006)."
+			},
+			{
+				"doi": "10.1007/s1010599b0002",
+				"or":  "A. A. Likhachev and K. Ullakko, EPJ direct, 1, No. 1: 1 (2000).",
+				"tr":  "A. A. Likhachev and K. Ullakko, EPJ direct, 1, No. 1: 1 (2000)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.43.10832",
+				"or":  "A. G. Khachaturyan, S. M. Shapiro, and S. Semenovskaya, Phys. Rev. B, 43, 10832 (1991).",
+				"tr":  "A. G. Khachaturyan, S. M. Shapiro, and S. Semenovskaya, Phys. Rev. B, 43, 10832 (1991)."
+			},
+			{
+				"doi": "10.1051/matecconf/20153305006",
+				"or":  "M. Zeleny, L. Straka, and A. Sozinov, MATEC Web of Conferences, 33: 05006 (2015).",
+				"tr":  "M. Zeleny, L. Straka, and A. Sozinov, MATEC Web of Conferences, 33: 05006 (2015)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.94.224108",
+				"or":  "M. Zeleny, L. Straka, A. Sozinov, and O. Heczko, Phys. Rev. B, 94: 224108 (2016).",
+				"tr":  "M. Zeleny, L. Straka, A. Sozinov, and O. Heczko, Phys. Rev. B, 94: 224108 (2016)."
+			}
+		]
+	}
+}

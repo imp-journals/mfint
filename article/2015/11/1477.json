@@ -1,0 +1,107 @@
+{
+	"_id":    "MFiNT.37.11.1477",
+	"year":   2015,
+	"volume": 37,
+	"issue":  11,
+	"pages":  [1477,1486],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["02.09.2015"],
+	"PACS":   "68.37.Ef, 75.50.Ss, 75.60.Lr, 75.70.Ak, 75.70.Rf, 75.80.+q, 85.70.Kh",
+	"title":  {
+			"ua": "Наномасштабна поверхнева деформація гранульованих плівок Со$_{25}$Ag$_{75}$",
+			"en": "Nanoscale Surface Deformation of the Granular Со$_{25}$Ag$_{75}$ Films",
+			"ru": "Наномасштабная поверхностная деформация гранулированных плёнок Со$_{25}$Ag$_{75}$"
+		},
+	"abstract": {
+		"ua": "Методою тунельної мікроскопії досліджено вплив магнетного поля на плівки ґранульованих наноструктур Со$_{25}$Ag$_{75}$. Було виявлено ефект гігантської нанодеформації з 10% зміною середньої висоти зразка впродовж первинного намагнетування і 2% зміною після 8 днів релаксації під час повторного намагнетування. Зафіксоване явище пов’язане із деформацією магнетних ґранул та їх зміщенням у немагнетній матриці під дією магнетного поля.",
+		"en": "Granular nanostructure Со$_{25}$Ag$_{75}$ films are analysed by means of the scanning tunnelling microscopy (STM) method. The phenomenon of giant film nanodeformation is detected with the 10% change of average height during the initial magnetization of the sample and with the 2% change after 8 days of relaxation during secondary magnetic field action. The changing of the shape of nanoscale granules and their displacement in the surface of film are observed during the process of nanodeformation under the action of magnetic field and in the aftereffect processes.",
+		"ru": "Методом туннельной микроскопии исследовано влияние магнитного поля на плёнки гранулированных наноструктур Со$_{25}$Ag$_{75}$. Был обнаружен эффект гигантской нанодеформации с 10% изменением средней высоты поверхности образца в течение первичного намагничивания и 2% изменением после 8 дней релаксации во время повторного намагничивания. Зафиксированное явление связано с деформацией магнитных гранул и их смещением в немагнитной матрице под действием магнитного поля."
+	},
+	"keywords": {
+		"ua": "тонка CoAg плівка, магнетострикція, магнетик після впливу, магнетна деформація, нанодеформація",
+		"en": "thin CoAg film, magnetostriction, magnetic aftereffects, magnetic deformation, nanodeformation",
+		"ru": "тонкая CoAg плёнка, магнитострикция, магнетик после воздействия, магнитная деформация, нанодеформация"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. Ю. Горобець", "en": "O. Yu. Gorobets", "ru": "О. Ю. Горобец"},
+			"OID": [7,202]
+		},
+		{
+			"AID": {"ua": "Ю. І. Якименко", "en": "Yu. I. Yakymenko", "ru": "Ю. И. Якименко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "А. Ф. Кравець", "en": "A. F. Kravets", "ru": "А. Ф. Кравец"},
+			"OID": [7]
+		},
+		{
+			"AID": {"ua": "О. М. Бруква", "en": "O. M. Brukva", "ru": "А. Н. Бруква"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "В. Н. Захарченко", "en": "V. N. Zakharchenko", "ru": "В. Н. Захарченко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "С. В. Михалко", "en": "S. V. Mikhalko", "ru": "С. В. Михалко"},
+			"OID": [7]
+		},
+		{
+			"AID": {"ua": "І. А. Сизон", "en": "I. A. Sizon", "ru": "И. А. Сизон"},
+			"OID": [202]
+		}
+	],
+	"references": {
+		"count": 9,
+		"list":  [
+			{
+				"doi": "10.1103/PhysRevLett.68.3745",
+				"or":  "A. E. Berkowitz, J. R. Mitchell, M. J. Carey, A. P. Young, S. Zang, F. E. Spada, F. T. Parker, A. Hutten, and G. Tomas, Phys. Rev. Lett., 68: 3745 (1992).",
+				"tr":  "A. E. Berkowitz, J. R. Mitchell, M. J. Carey, A. P. Young, S. Zang, F. E. Spada, F. T. Parker, A. Hutten, and G. Tomas, Phys. Rev. Lett., 68: 3745 (1992)."
+			},
+			{
+				"doi": "10.1063/1.365770",
+				"or":  "S. Honda, N. Nawate, M. Tanaka, and T. Okada, J. Appl. Phys., 82: 764 (1997).",
+				"tr":  "S. Honda, N. Nawate, M. Tanaka, and T. Okada, J. Appl. Phys., 82: 764 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "K. P. Belov, Soros Educational Journal, 3: 112 (1998) (in Russian).",
+				"tr":  "K. P. Belov, Soros Educational Journal, 3: 112 (1998) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "N. P. Lyakishev, Diagrammy Sostoyaniya Dvoynykh Metallicheskikh Sistem [State Diagrams of Binary Metal Systems] (Moscow: Mashinostroenie: 1996), vol. 1–2, p. 992 (in Russian).",
+				"tr":  "N. P. Lyakishev, Diagrammy Sostoyaniya Dvoynykh Metallicheskikh Sistem [State Diagrams of Binary Metal Systems] (Moscow: Mashinostroenie: 1996), vol. 1–2, p. 992 (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.60.12200",
+				"or":  "Yu. G. Pogorelov, G. N. Kakazei, J. B. Sousa, A. F. Kravets, N. A. Lesnik, M. M. Pereira de Azevedo, M. Malinowska, and P. Panissod, Phys. Rev., 60: 12200 (1999).",
+				"tr":  "Yu. G. Pogorelov, G. N. Kakazei, J. B. Sousa, A. F. Kravets, N. A. Lesnik, M. M. Pereira de Azevedo, M. Malinowska, and P. Panissod, Phys. Rev., 60: 12200 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. I. Gorobets, A. F. Kravets, V. N. Zakharchenko, and О. М. Brukva, Research Bulletin of NTUU ‘KPI’, 6: 115 (2001) (in Ukrainian).",
+				"tr":  "Yu. I. Gorobets, A. F. Kravets, V. N. Zakharchenko, and O. M. Brukva, Research Bulletin of NTUU 'KPI', 6: 115 (2001) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. JingHua, J. ChengBao, and X. HuiBin, Sci. China, 55: 1319 (2012).",
+				"tr":  "L. JingHua, J. ChengBao, and X. HuiBin, Sci. China, 55: 1319 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "O. Söderberg, A. Sozinov, and V. K. Lindroos, Enc. Mat.: Sci. Techn., 5: 67 (2004).",
+				"tr":  "O. Söderberg, A. Sozinov, and V. K. Lindroos, Enc. Mat.: Sci. Techn., 5: 67 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Behera and S. C. Mishra, Int. J. Adv. Appl. Sci., 2: 205 (2013).",
+				"tr":  "A. Behera and S. C. Mishra, Int. J. Adv. Appl. Sci., 2: 205 (2013)"
+			}
+		]
+	}
+}

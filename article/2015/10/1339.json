@@ -1,0 +1,98 @@
+{
+	"_id":    "MFiNT.37.10.1339",
+	"year":   2015,
+	"volume": 37,
+	"issue":  10,
+	"pages":  [1339,1348],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["15.06.2015"],
+	"PACS":   "06.60.Vz, 62.20.fg, 62.20.fq, 81.05.Bx, 81.20.Vj, 81.30.Kf, 81.70.Pg",
+	"title":  {
+			"ua": "Особливості мартенситного перетворення в зоні зварювання стопу Ti$_{49,2}$Ni$_{50,6}$Ag$_{0,2}$ медичного призначення",
+			"en": "Features of Martensitic Transformation in the Area of Welding of Medical Ti$_{49.2}$Ni$_{50.6}$Ag$_{0.2}$ Alloy",
+			"ru": "Особенности мартенситного превращения в зоне сварки сплава Ti$_{49,2}$Ni$_{50,6}$Ag$_{0,2}$ медицинского назначения"
+		},
+	"abstract": {
+		"ua": "Досліджено особливості зварювання функціональних матеріялів на прикладі стопу Ti$_{49,2}$Ni$_{50,6}$Ag$_{0,2}$ медичного призначення. Розглянуто термічний вплив точкового зварювання змінним струмом і розрядом конденсаторів на структуру стопу, параметри мартенситного перетворення і ефект пам’яті форми. Зазначено, що з’єднання більш міцні при зварюванні розрядом конденсаторів з утворенням литого ядра. При цьому спостерігається зміна параметрів мартенситного перетворення в області з’єднання. Для збереження функціональних властивостей запропоновано відповідну термообробку зварних зразків.",
+		"en": "The features of welding of functional materials such as medical Ti$_{49.2}$Ni$_{50.6}$Ag$_{0.2}$ alloy are investigated. Thermal influence of welding by the AC method and current of capacitors’ discharge on alloy structure, martensitic transformation parameters, and shape-memory effect are considered. As noted, the welding seam is tougher after current of capacitors’ discharge because of formation of a molten core. Change in parameters of martensitic transformation in the welding seam is observed. To maintain the functional properties, appropriate heat treatment of welded samples is proposed.",
+		"ru": "Исследованы особенности сварки функциональных материалов на примере сплава Ti$_{49,2}$Ni$_{50,6}$Ag$_{0,2}$ медицинского назначения. Рассмотрено термическое воздействие сварки переменным током и разрядом конденсаторов на структуру сплава, параметры мартенситного превращения и эффект памяти формы. Отмечено, что соединение более прочно при сварке разрядом конденсаторов и образовании литого ядра. При этом наблюдается изменение параметров мартенситного превращения в области сварного шва. Для сохранения функциональных свойств предложена соответствующая термообработка сварных образцов."
+	},
+	"keywords": {
+		"ua": "стопи на основі TiNi, мартенситні перетворення, ефект пам’яті форми, зварювання",
+		"en": "TiNi-based alloys, martensitic transformations, shape-memory effect, welding",
+		"ru": "сплавы на основе TiNi, мартенситные превращения, эффект памяти формы, сварка"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. М. Коваль", "en": "Yu. M. Koval", "ru": "Ю. Н. Коваль"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Р. Я. Мусієнко", "en": "R. Ya. Musienko", "ru": "Р. Я. Мусиенко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. М. Сліпченко", "en": "V. M. Slipchenko", "ru": "В. Н. Слипченко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Т. Г. Сич", "en": "T. G. Sych", "ru": "Т. Г. Сыч"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. М. Кедровський", "en": "S. M. Kedrovsky", "ru": "С. Н. Кедровский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Д. М. Калеко", "en": "D. M. Kaleko", "ru": "Д. М. Калеко"},
+			"OID": [10]
+		}
+	],
+	"references": {
+		"count": 8,
+		"list":  [
+			{
+				"doi": "10.1016/S0921-5093(99)00294-4",
+				"or":  "T. Duerig, A. Pelton, and D. Stockel, Mater. Sci. Eng. A, 273–275: 149 (1999).",
+				"tr":  "T. Duerig, A. Pelton, and D. Stockel, Mater. Sci. Eng. A, 273–275: 149 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Журавлёв, В. Г. Пушин, Сплавы с термомеханической памятью и их применение в медицине (Екатеринбург: УрО РАН: 2000).",
+				"tr":  "V. N. Zhuravlev and V. G.Pushin, Splavy s Termomekhanicheskoj Pamyat'yu i Ikh Primenenie v Meditsine [Alloys with Thermomechanical Memory and Their Application in Medicine] (Ekaterinburg: UrO RAN: 2000) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0010-938X(90)90004-O",
+				"or":  "G. Rondelli, B. Vicentini, and A. Cigada, Corros. Sci., 30, Nos. 8/9: 805 (1990).",
+				"tr":  "G. Rondelli, B. Vicentini, and A. Cigada, Corros. Sci., 30, Nos. 8/9: 805 (1990)."
+			},
+			{
+				"doi": "10.1016/0142-9612(95)00352-5",
+				"or":  "G. Rondelli, Biomaterials, 17: 2003 (1996).",
+				"tr":  "G. Rondelli, Biomaterials, 17: 2003 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Є. Патон, Д. М. Калеко, Ю. М. Коваль, В. М. Сліпченко, Р. Я. Мусієнко, Л. М. Неганов, В. В. Односум, Т. Г. Сич, Металлофиз. новейшие технол., 32, № 12: 1691 (2010).",
+				"tr":  "B. E. Paton, D. M. Kaleko, Yu. M. Koval', V. M. Slipchenko, R. Ya. Musienko, L. M. Neganov, V. V. Odnosum, and T. G. Sych, Metallofiz. Noveishie Tekhnol., 32, No. 12: 1691 (2010) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. М. Коваль, Л. М. Неганов, В.М. Сліпченко, М. Г. Мусієнко, К. В. Сліпченко, Металлофиз. новейшие технол., 34, № 6: 833 (2012).",
+				"tr":  "Yu. M. Koval', L. M. Neganov, V. M. Slipchenko, M. G. Musienko, and K. V. Slipchenko, Metallofiz. Noveishie Tekhnol., 34, No. 6: 833 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Е. Патон, Д. М. Калеко, Ю. Н. Коваль, В. М. Слепченко, Автоматическая сварка, № 5: 3 (2006).",
+				"tr":  "B. E. Paton, D. M. Kaleko, Yu. N. Koval, and V. M. Slepchenko, Avtomaticheskaya Svarka, No. 5: 3 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. N. Slepchenko, Yu. N. Koval, V. I. Kolomytsev, S. N. Kedrovsky, A. V. Filatov, and K. V. Slipchenko, V International Conference for Young Scientists ‘Low Temperature Physics’ (June 2–6, 2014, Kharkiv, Ukraine), p. 136.",
+				"tr":  "V. N. Slepchenko, Yu. N. Koval, V. I. Kolomytsev, S. N. Kedrovsky, A. V. Filatov, and K. V. Slipchenko, V International Conference for Young Scientists 'Low Temperature Physics' (June 2–6, 2014, Kharkiv, Ukraine), p. 136."
+			}
+		]
+	}
+}

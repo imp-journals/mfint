@@ -1,0 +1,120 @@
+{
+	"_id":    "MFiNT.37.11.1549",
+	"year":   2015,
+	"volume": 37,
+	"issue":  11,
+	"pages":  [1549,1565],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["07.10.2015"],
+	"PACS":   "61.05.cp, 61.66.Dk, 62.20.de, 64.70.kd, 64.75.Bc, 81.30.Bx",
+	"title":  {
+			"ua": "Кількісні методи вивчення Al—Li сплавів: фазовий склад, анізотропія та фазова стабільність",
+			"en": "Quantitative Methods for the Study of Al—Li Alloys: Phase Composition, Anisotropy of Properties, and Phase Stability",
+			"ru": "Количественные методы изучения Al—Li сплавов: фазовый состав, анизотропия и фазовая стабильность"
+		},
+	"abstract": {
+		"ua": "Розроблено кількісний підхід для визначення співвідношення бінарних і трикомпонентних інтерметалевих фаз у стопах Al—Mg(Cu)—Li, заснований на рівняннях рівноваги хемічних і фазових складів, а також експериментально виміряній сталій кристалічної ґратниці $\\alpha$-твердого розчину. Показано, що для стопів Al—Mg(Cu)—Li співвідношення між фракціями фаз $\\delta^{\\prime}$ (Al$_{3}$Li) і S$_{1}$ (T$_{1}$) визначаються співвідношенням між мольними частками Li і Mg (Cu). Наведено рівняння для розрахунку вмісту фаз S$_{1}$ (Al$_{2}$MgLi), T$_{1}$ (Al$_{2}$CuLi) і $\\delta^{\\prime}$ (Al$_{3}$Li) у стопах 1420, 1424, 5090 (стопи Al—Mg—Li) та у стопах 1440, 1460, 1461, 1441, 1469, 2090, 2094, 2095, 8090, Weldalite 049 (стопи Al—Cu—Li). Розглянуто можливості застосування цієї методи для вивчення та передбачення фазової стабільности й анізотропії пружніх і міцнісних властивостей.",
+		"en": "A quantitative approach to the determination of the ratio between binary and ternary intermetallic phases in the Al—Mg(Cu)—Li alloys is developed on the basis of the balance equations of the chemical and phase compositions as well as the experimentally measured lattice parameter of the $\\alpha$-solid solution. As shown, for the Al—Mg(Cu)—Li alloys, the ratio between the fractions of the $\\delta^{\\prime}$ (Al$_{3}$Li) and S$_{1}$ (T$_{1}$) phases is determined by the ratio between the molar fractions of Li and Mg (Cu). The equations for the calculation of the contents of the S$_{1}$ (Al$_{2}$MgLi), T$_{1}$ (Al$_{2}$CuLi) and $\\delta^{\\prime}$ (Al$_{3}$Li) phases in the 1420, 1424, 5090 alloys (Al—Mg—Li alloys) and in the 1440, 1460, 1461, 1441, 1469, 2090, 2094, 2095, 8090, Weldalite 049 alloys (Al—Cu—Li alloys) used in Russia and other countries are given. The possibilities of the method application for the study and prediction of the phase stability and anisotropy of the elastic and strength properties are considered.",
+		"ru": "Разработан количественный подход для определения соотношения бинарных и трёхкомпонентных интерметаллических фаз в сплавах Al—Mg(Cu)—Li, основанный на уравнениях равновесия химических и фазовых составов, а также экспериментально измеренной постоянной кристаллической решётки $\\alpha$-твёрдого раствора. Показано, что для сплавов Al—Mg(Cu)—Li соотношение между фракциями фаз $\\delta^{\\prime}$ (Al$_{3}$Li) и S$_{1}$ (T$_{1}$) определяется соотношением между мольными долями Li и Mg (Cu). Приведены уравнения для расчёта содержания фаз S$_{1}$ (Al$_{2}$MgLi), T$_{1}$ (Al$_{2}$CuLi) и $\\delta^{\\prime}$ (Al$_{3}$Li) в сплавах 1420, 1424, 5090 (сплавы Al—Mg—Li) и в сплавах 1440, 1460, 1461, 1441, 1469, 2090, 2094, 2095, 8090, Weldalite 049 (сплавы Al—Cu—Li). Рассмотрены возможности применения данного метода для изучения и предсказания фазовой стабильности и анизотропии упругих и прочностных свойств."
+	},
+	"keywords": {
+		"ua": "стопи Al—Mg—Li і Al—Cu—Li, інтерметалічні з’єднання, параметр ґратниці, кількісний фазовий аналіз, анізотропія, фазова стабільність",
+		"en": "Al—Mg—Li and Al—Cu—Li alloys, intermetallic compounds, lattice parameter, quantitative phase analysis, anisotropy, phase stability",
+		"ru": "сплавы Al—Mg—Li и Al—Cu—Li, интерметаллические соединения, параметр решётки, количественный фазовый анализ, анизотропия, фазовая стабильность"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. Бецофен", "en": "S. Betsofen", "ru": "С. Бецофен"},
+			"OID": [421]
+		},
+		{
+			"AID": {"ua": "І. Грушин", "en": "I. Grushin", "ru": "И. Грушин"},
+			"OID": [421]
+		},
+		{
+			"AID": {"ua": "М. Князєв", "en": "M. Knyazev", "ru": "М. Князев"},
+			"OID": [421]
+		},
+		{
+			"AID": {"ua": "М. Долгова", "en": "M. Dolgova", "ru": "М. Долгова"},
+			"OID": [421]
+		}
+	],
+	"references": {
+		"count": 14,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "V. V. Antipov, N. I. Kolobnev, and L. B. Khokhlatova, Metallovedenie i Termicheskaya Obrabotka Metallov, No. 9: 5 (2013) (in Russian).",
+				"tr":  "V. V. Antipov, N. I. Kolobnev, and L. B. Khokhlatova, Metallovedenie i Termicheskaya Obrabotka Metallov, No. 9: 5 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Shestov, V. V. Antipov, O. G. Senatorova, and V. V. Sidel’nikov, Metallovedenie i Termicheskaya Obrabotka Metallov, No. 9: 28 (2013) (in Russian).",
+				"tr":  "V. V. Shestov, V. V. Antipov, O. G. Senatorova, and V. V. Sidel'nikov, Metallovedenie i Termicheskaya Obrabotka Metallov, No. 9: 28 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "I. N. Fridlyander, K. V. Chuistov, A. L. Berezina, and N. I. Kolobnev, Aluminium–Lithium Alloys: Structure and Properties (Kiev: Naukova Dumka: 1992) (in Russian).",
+				"tr":  "I. N. Fridlyander, K. V. Chuistov, A. L. Berezina, and N. I. Kolobnev, Aluminium–Lithium Alloys: Structure and Properties (Kiev: Naukova Dumka: 1992) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.msea.2007.10.020",
+				"or":  "S. Katsikis, B. Noble, and S. J. Harris, Mater. Sci. Eng. A, 485: 613 (2008).",
+				"tr":  "S. Katsikis, B. Noble, and S. J. Harris, Mater. Sci. Eng. A, 485: 613 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Trinca, A. Avalino, H. Garmestani, J. Foyos, E. W. Lee, and O. S. Es-Said, Mater. Sci. Forum, 331–337: 849 (2000).",
+				"tr":  "M. Trinca, A. Avalino, H. Garmestani, J. Foyos, E. W. Lee, and O. S. Es-Said, Mater. Sci. Forum, 331–337: 849 (2000)."
+			},
+			{
+				"doi": "10.1134/S003602950805008X",
+				"or":  "A. A. Ilyin, V. V. Zakharov, M. S. Betsofen, O. E. Osintsev, and T. A. Rostova, Russian Metallurgy (Metally), No. 5: 406 (2008).",
+				"tr":  "A. A. Ilyin, V. V. Zakharov, M. S. Betsofen, O. E. Osintsev, and T. A. Rostova, Russian Metallurgy (Metally), No. 5: 406 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Y. Hunsicker, Trans. AIME, VII: 759 (1980).",
+				"tr":  "H. Y. Hunsicker, Trans. AIME, VII: 759 (1980)."
+			},
+			{
+				"doi": "10.1134/S0036029508060098",
+				"or":  "S. Y. Betsofen, A. A. Ilyin, O. E. Osintsev, and M. S. Betsofen, Russian Metallurgy (Metally), No. 6: 506 (2008).",
+				"tr":  "S. Y. Betsofen, A. A. Ilyin, O. E. Osintsev, and M. S. Betsofen, Russian Metallurgy (Metally), No. 6: 506 (2008)."
+			},
+			{
+				"doi": "10.1134/S0036029515010024",
+				"or":  "S. Y. Betsofen, V. V. Antipov, I. A. Grushin, M. I. Knyazev, L. B. Khokhlatova, and A. A. Alekseev, Russian Metallurgy (Metally), No. 1: 51 (2015).",
+				"tr":  "S. Y. Betsofen, V. V. Antipov, I. A. Grushin, M. I. Knyazev, L. B. Khokhlatova, and A. A. Alekseev, Russian Metallurgy (Metally), No. 1: 51 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "W. B. Pearson, Handbook of Lattice Spacings and Structures of Metals and Alloys (New York: Pergamon Press: 1958).",
+				"tr":  "W. B. Pearson, Handbook of Lattice Spacings and Structures of Metals and Alloys (New York: Pergamon Press: 1958)."
+			},
+			{
+				"doi": "10.1016/j.matchemphys.2010.12.014",
+				"or":  "Y. Ma, X. Zhou, G. E. Thompson, T. Hashimoto, P. Thomson, and M. Fowles, Materials Chemistry and Physics, 126: 46 (2011).",
+				"tr":  "Y. Ma, X. Zhou, G. E. Thompson, T. Hashimoto, P. Thomson, and M. Fowles, Materials Chemistry and Physics, 126: 46 (2011)."
+			},
+			{
+				"doi": "10.1016/j.jmatprotec.2010.01.017",
+				"or":  "Sang Yoon Park, Won Jong Choi, Heung Soap Choi, and Hyuk Kwon, J. Mater. Process. Technol., 210: 1008 (2010).",
+				"tr":  "Sang Yoon Park, Won Jong Choi, Heung Soap Choi, and Hyuk Kwon, J. Mater. Process. Technol., 210: 1008 (2010)."
+			},
+			{
+				"doi": "10.1016/j.ijfatigue.2008.05.023",
+				"or":  "Po-Yu Chang and Jenn-Ming Yang, Intern. J. Fatigue, 30: 2165 (2008).",
+				"tr":  "Po-Yu Chang and Jenn-Ming Yang, Intern. J. Fatigue, 30: 2165 (2008)."
+			},
+			{
+				"doi": "10.2355/isijinternational.31.1063",
+				"or":  "E. P. George, D. P. Pope, C. L. Fu, and J. H. Schneibel, ISIJ Intern., 31: 1066 (1991).",
+				"tr":  "E. P. George, D. P. Pope, C. L. Fu, and J. H. Schneibel, ISIJ Intern., 31: 1066 (1991)."
+			}
+		]
+	}
+}

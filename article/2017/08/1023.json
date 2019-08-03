@@ -1,0 +1,123 @@
+{
+	"_id":    "MFiNT.39.08.1023",
+	"year":   2017,
+	"volume": 39,
+	"issue":  8,
+	"pages":  [1023,1033],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["03.07.2017"],
+	"PACS":   "61.43.Dq, 72.15.Cz, 75.50.Bb, 75.50.Kj, 75.60.Ej, 81.05.Bx, 81.40.Rs",
+	"title":   {
+		"ua": "Електричні та магнетні властивості багатокомпонентних аморфних металевих композицій на основі заліза",
+		"en": "Electrical and Magnetic Properties of Multicomponent Amorphous Metal Compositions Based on Iron",
+		"ru": "Электрические и магнитные свойства многокомпонентных аморфных металлических композиций на основе железа"
+	},
+	"abstract": {
+		"ua": "Досліджено вплив елементного складу аморфного стопу, форми зразків, а також умов одержання (швидкість охолодження) за стандартною технологією на електромагнетні властивості стрічкових та об’ємних зразків стопів, виготовлених з однакової шихти.",
+		"en": "Influence of the elemental composition of amorphous metal alloy (AMA), the shape of its final product, and the fabrication conditions (cooling rate) according to standard technology on the electromagnetic characteristics of tape and bulk samples of alloys made from the same feedstock is investigated. A lower cooling rate in the process of obtaining bulk alloys (10$^{3}$ K/s), compared to the tape samples (10$^{6}$ K/s), increases structuring of bulk samples and causes higher divergence of surface elemental composition from the original feedstock. In the case of bulk samples, higher electrical resistance of cuts shows conservation of the amorphous phase inside the samples, compared to the surface. Due to the small size of nanocrystals formed during process of crystallization of the amorphous alloys, magnetostriction may be suppressed, and coercive force may be changed.",
+		"ru": "Исследовано влияние элементного состава аморфного сплава, формы образца, а также условий получения (скорость охлаждения) по стандартной технологии на электромагнитные свойства ленточных и объёмных образцов сплавов, изготовленных из одинаковой шихты."
+	},
+	"keywords": {
+		"ua": "аморфні стопи, електромагнетні властивості стопів, питома намагнетованість",
+		"en": "amorphous alloys, electromagnetic properties of alloys, specific magnetization",
+		"ru": "аморфные сплавы, электромагнитные свойства сплавов, удельная намагниченность"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. М. Герцик", "en": "O. M. Hertsyk", "ru": "О. М. Герцик"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "Т. Г. Переверзєва", "en": "T. G. Pereverzeva", "ru": "Т. Г. Переверзева"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "М. О. Ковбуз", "en": "M. O. Kovbuz", "ru": "М. А. Ковбуз"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "Л. М. Бойчишин", "en": "L. M. Boichyshyn", "ru": "Л. М. Бойчишин"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "В. К. Носенко", "en": "V. K. Nosenko", "ru": "В. К. Носенко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. К. Борисюк", "en": "A. K. Borysiuk", "ru": "А. К. Борысюк"},
+			"OID": [204]
+		}
+	],
+	"references": {
+		"count": 13,
+		"list":  [
+			{
+				"doi": "10.15407/ufm.10.02.131",
+				"or":  "Н. П. Семенько, М. И. Захаренко, Ю. А. Куницкий, В. А. Макара, А. П. Шпак, Успехи физ. мет., 10, № 2: 131 (2009).",
+				"tr":  "M. P. Semen'ko, M. I. Zakharenko, Yu. A. Kunitsky, V. A. Makara, and A. P. Shpak, Uspehi Fiziki Metallov, 10, No. 2: 131 (2009) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Судзуки, Х. Фудзимори, К. Хасимото, Аморфные металлы (Москва: Металлургия: 1987).",
+				"tr":  "K. Sudzuki, H. Fudzimori, and K. Hasimoto, Amorfnye Metally [Amorphous Metals] (Moscow: Metallurgy: 1987) (Russian translation)."
+			},
+			{
+				"doi": "10.1016/B978-0-408-11030-3.50006-6",
+				"or":  "F. E. Luborsky, Amorphous Metallic Alloys (London: Butterworth & Co Ltd.: 1983).",
+				"tr":  "F. E. Luborsky, Amorphous Metallic Alloys (London: Butterworth & Co Ltd.: 1983)."
+			},
+			{
+				"doi": "10.1016/0375-9601(71)90291-X",
+				"or":  "R. Hasegawa, Phys. Let. A, 36, Iss. 5: 425 (1971).",
+				"tr":  "R. Hasegawa, Phys. Let. A, 36, Iss. 5: 425 (1971)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2015.11.091",
+				"or":  "C. Yang, H. Huang, Q. Song, J. Zhang, and F. Liu, J. Magn. Magn. Mater., 403: 41 (2016).",
+				"tr":  "C. Yang, H. Huang, Q. Song, J. Zhang, and F. Liu, J. Magn. Magn. Mater., 403: 41 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "С. С. Горелик, Ю. А. Скаков, Л. Н. Расторгуев, Рентгенографический и электронно-оптический анализ (Москва: МИСиС: 2002).",
+				"tr":  "S. S. Gorelik, Yu. A. Skakov, and L. N. Rastorguyev, Rentgenograficheskiy i Elektrono-Opticheskiy Analiz [X-Ray and Electron–Optical Analysis] (Moscow: MISiS: 2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Рентгеноспектральный микроанализ с использованием энергодисперсионного спектрометра: Методические указания к лабораторным работам по диагностике материалов (Санкт-Петербург: ЦКП «Материаловедение и диагностика в передовых технологиях»: 2010).",
+				"tr":  "Rentgenospektralnyy Mikroanaliz s Ispol'zovaniem Energodispersionnogo Spektrometra [X-Ray Microanalysis with Use of Energy-Dispersion Spectrometer] (Saint Petersburg: 'Materialovedeniye i Diagnostika v Peredovykh Tekhnologiyakh': 2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Кравчина, А. С. Сечин, Методи дослідження матеріалів та компонентів електронної техніки: Методичні вказівки до лабораторних робіт. Частина ІІ для студентів ЗДІА спеціальності 7.05080102 «Фізична та біомедична електроніка» (Запоріжжя: Запорізька державна інженерна академія: 2014).",
+				"tr":  "V. V. Kravchyna and A. S. Sechyn, Metody Doslidzhennya Materialiv ta Komponentiv Elektronnoyi Tekhniky: Metodychni Vkazivky do Laboratornykh Robit. Chastyna II dlya Studentiv ZDIA Spetsialnosti 7.05080102 'Fizychna ta Biomedychna Elektronika' [Investigation Methods for Materials and Components of Electronic Equipment: Guidance for Laboratory Works. Part II for Students of ZSEA Speciality 7.05080102 'Physical and Biomedical Electronics'] (Zaporizhzhya: Zaporizhzhya State Engineering Academy: 2014) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Sobiecki, Zeszyty Naukowe Akademii Gorniczo-Hutniczej. Fizyka, 1063, № 5: 79 (1971).",
+				"tr":  "T. Sobiecki, Zeszyty Naukowe Akademii Gorniczo-Hutniczej. Fizyka, 1063, No. 5: 79 (1971) (in Polish)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. П. Яцишин, Д. М. Фреїк, Ю. К. Гореленко, О. Г. Миколайчук, Г. С. Байцер, Фізика і хімія твердого тіла, 8, № 2: 305 (2007).",
+				"tr":  "B. P. Yatsyshyn, D. M. Freyik, Yu. K. Horelenko, O. G. Mykolajchuk, and H. S. Bajtser, Physics and Chemistry of Solid State, 8, No. 2: 305 (2007) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Є. І. Ярмощук, М. П. Семенько, М. І. Захаренко, Вісник Київського національного університету імені Тараса Шевченка. Серія фізико-математичні науки, вип. 2: 335 (2013).",
+				"tr":  "Ye. I. Yarmoshchuk, M. P. Semen'ko, and M. I. Zakharenko, Visnyk Kyivs'kogo Natsional'nogo Universytetu imeni Tarasa Shevchenka. Seriya Fizyko-Matematychni Nauky, Iss. 2: 335 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "10.3938/jkps.65.65",
+				"or":  "S. Jung, B.-K. Han, H. Yim, N.-H. Kim, J. Cho, and C.-Y. You, J. Korean Phys. Soc., 65, Iss. 1: 65 (2014).",
+				"tr":  "S. Jung, B.-K. Han, H. Yim, N.-H. Kim, J. Cho, and C.-Y. You, J. Korean Phys. Soc., 65, Iss. 1: 65 (2014)."
+			},
+			{
+				"doi": "10.1063/1.342149",
+				"or":  "Y. Yoshizawa, S. Oguma, and K. Yamauchi, J. Appl. Phys., 64, Iss. 10: 6044 (1988).",
+				"tr":  "Y. Yoshizawa, S. Oguma, and K. Yamauchi, J. Appl. Phys., 64, Iss. 10: 6044 (1988)."
+			}
+		]
+	}
+}

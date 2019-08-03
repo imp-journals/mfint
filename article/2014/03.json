@@ -1,0 +1,172 @@
+{
+	"year":   2014,
+	"volume": 36,
+	"issue":  3,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [287,315],
+			"title": {
+				"ua": "Можливості трансформації неметалевих включень і міжфазних границь включення—матриця при високоенергетичних обробках сталей",
+				"en": "Possibilities of Transformation of Non-Metallic Inclusions and Inclusion—Matrix Interphase Boundaries at High-Energy Treatments of Steels",
+				"ru": "Возможности трансформации неметаллических включений и межфазных границ включение—матрица при высокоэнергетических обработках сталей"
+			},
+			"autors": {
+				"ua": "С. І. Губенко",
+				"en": "S. I. Gubenko",
+				"ru": "С. И. Губенко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [317,327],
+			"title": {
+				"ua": "Режим спрацювання цапф колінчастих валів, оброблених дуговим зварюванням під флюсом",
+				"en": "Wear Behaviour of Crankshaft Journals Filled by Submerged Arc Welding",
+				"ru": "Режим износа цапф коленчатых валов, обработанных дуговой сваркой под флюсом"
+			},
+			"autors": {
+				"ua": "А. А. Йозтюрк, Б. Гюленч, А. Дургутлу, Н. Кахраман",
+				"en": "A. A. Öztürk, B. Gülenç, A. Durgutlu, and N. Kahraman",
+				"ru": "А. А. Ёзтюрк, Б. Гюленч, А. Дургутлу, Н. Кахраман"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [329,342],
+			"title": {
+				"ua": "Особливості структурного стану поверхневих шарів стопу АД-31 після ультразвукового ударного оброблення",
+				"en": "Features of the Structure State of the Al—Mg—Si-Alloy Surface Layers After Ultrasonic Impact Treatment",
+				"ru": "Особенности структурного состояния поверхностных слоёв сплава АД-31 после ультразвуковой ударной обработки"
+			},
+			"autors": {
+				"ua": "А. Л. Березіна, Т. О. Монастирська, Г. І. Прокопенко, О. А. Молебний, С. С. Поліщук, А. В. Котко",
+				"en": "A. L. Berezina, T. O. Monastyrska, G. I. Prokopenko, O. A. Molebny, S. S. Polishchuk, and A. V. Kotko",
+				"ru": "А. Л. Березина, Т. А. Монастырская, Г. И. Прокопенко, О. А. Молебный, С. С. Полищук, А. В. Котко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [343,355],
+			"title": {
+				"ua": "Месбаеурівська спектроскопія поверхневого шару титанового стопу ВТ6, модифікованого ультразвуковою ударною деформацією",
+				"en": "Mössbauer Spectroscopy of the Surface Layer of the Ti—6Al—4V Titanium Alloy Modified by Ultrasonic Impact Deformation",
+				"ru": "Мёссбауэровская спектроскопия поверхностного слоя титанового сплава ВТ6, модифицированного ультразвуковой ударной деформацией"
+			},
+			"autors": {
+				"ua": "Е. В. Польшин, М. О. Васильєв, С. М. Волошко, Л. Ф. Яценко",
+				"en": "E. V. Pol’shin, M. O. Vasylyev, S. M. Voloshko, and L. F. Yatsenko",
+				"ru": "Э. В. Польшин, М. А. Васильев, С. М. Волошко, Л. Ф. Яценко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [357,365],
+			"title": {
+				"ua": "Високоенергетична поверхнева обробка литих металевих імплантатів як засіб підвищення толерантності організму до них",
+				"en": "High-Energy Surface Treatment of Cast Metallic Implants as a Mean of the Increase of Tolerance of Organism to Them",
+				"ru": "Высокоэнергетическая поверхностная обработка литых металлических имплантатов как средство повышения толерантности организма к ним"
+			},
+			"autors": {
+				"ua": "О. А. Бур’янов, П. О. Гурин, С. П. Ошкадьоров, С. М. Северина, О. А. Стребкова",
+				"en": "A. A. Buryanov, P. A. Gurin, S. P. Oshkadyorov, S. M. Severina, and O. A. Strebkova",
+				"ru": "А. А. Бурьянов, П. А. Гурин, С. П. Ошкадёров, С. Н. Северина, О. А. Стребкова"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [367,374],
+			"title": {
+				"ua": "Конкуренція ефектів Френкеля і Кіркендалла при взаємній дифузії",
+				"en": "Competition of Frenkel and Kirkendall Effects at Interdiffusion",
+				"ru": "Конкуренция эффектов Френкеля и Киркендалла при взаимной диффузии"
+			},
+			"autors": {
+				"ua": "Н. В. Сторожук, А. М. Гусак",
+				"en": "N. V. Storozhuk and A. M. Gusak",
+				"ru": "Н. В. Сторожук, А. М. Гусак"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [375,381],
+			"title": {
+				"ua": "Вплив добавки ванадію на водневу ємність і кінетику сорбції-десорбції евтектичного стопу системи Ti—Zr—Mn",
+				"en": "The Influence of Vanadium Addition on Hydrogen Capacity and Absorption—Desorption Kinetics of the Eutectic Ti—Zr—Mn Alloy",
+				"ru": "Влияние добавки ванадия на водородную ёмкость и кинетику сорбции—десорбции эвтектического сплава системы Ti—Zr—Mn"
+			},
+			"autors": {
+				"ua": "В. А. Дехтяренко",
+				"en": "V. A. Dekhtiarenko",
+				"ru": "В. А. Дехтяренко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [383,389],
+			"title": {
+				"ua": "Явища переносу в кристалі, викликані імпульсом енергії",
+				"en": "Transport Phenomena Induced by the Energy Pulse in a Crystal",
+				"ru": "Явления переноса в кристалле, вызванные импульсом энергии"
+			},
+			"autors": {
+				"ua": "О. Є. Погорелов",
+				"en": "A. E. Pogorelov",
+				"ru": "А. Е. Погорелов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [391,397],
+			"title": {
+				"ua": "Вплив адсорбційного шару металевих частинок на їх поляризовність та розсіяння світла",
+				"en": "Influence of the Adsorptive Layer of Metal Particles on Their Polarizability and Light Scattering",
+				"ru": "Влияние адсорбционного слоя металлических частиц на их поляризуемость и рассеяние света"
+			},
+			"autors": {
+				"ua": "О. Ю. Грищук, С. В. Стеценко",
+				"en": "O. Yu. Gryshchuk and S. V. Stetsenko",
+				"ru": "Е. Ю. Грищук, С. В. Стеценко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  2,
+			"pages":  [399,418],
+			"title": {
+				"ua": "Динамічна теорія ковзного дифузного розсіяння рентґенівських променів в кристалі з приповерхневими дефектами",
+				"en": "Dynamical Theory of Grazing Diffuse Scattering of X-Rays by a Crystal with Subsurface Defect",
+				"ru": "Динамическая теория скользящего диффузного рассеяния рентгеновских лучей в кристалле с приповерхностными дефектами"
+			},
+			"autors": {
+				"ua": "О. Ю. Гаєвський, І. Е. Голентус, В. Б. Молодкін",
+				"en": "O. Yu. Gaevskii, I. E. Golentus, and V. B. Molodkin",
+				"ru": "А. Ю. Гаевский, И. Э. Голентус, В. Б. Молодкин"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [419,429],
+			"title": {
+				"ua": "Взаємодія між електронними і фононними підсистемами в дибориді гафнію",
+				"en": "Interaction between Electron and Phonon Subsystems in Hafnium Diboride",
+				"ru": "Взаимодействие между электронными и фононными подсистемами в дибориде гафния"
+			},
+			"autors": {
+				"ua": "С. М. Січкар",
+				"en": "S. M. Sichkar",
+				"ru": "С. Н. Сичкарь"
+			}
+		}
+	]
+}

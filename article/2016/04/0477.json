@@ -1,0 +1,172 @@
+{
+	"_id":    "MFiNT.38.04.0477",
+	"year":   2016,
+	"volume": 38,
+	"issue":  4,
+	"pages":  [477,490],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["15.12.2015", "17.02.2016"],
+	"PACS":   "61.46.Hk, 72.80.Ga, 75.47.Lx, 75.50.Tt, 75.60.Ej, 75.75.Cd, 81.07.Bc",
+	"title":   {
+		"ua": "Кристалографічні, магнітні та магніторезистивні властивості кераміки La$_{0,77}$Sr$_{0,23}$Mn$_{1-y}$Fe$_{y}$O$_{3}$",
+		"en": "Crystallographic, Magnetic, and Magnetoresistive Properties of La$_{0.77}$Sr$_{0.23}$Mn$_{1-y}$Fe$_{y}$O$_{3}$ Ceramics",
+		"ru": "Кристаллографические, магнитные и магниторезистивные свойства керамики La$_{0,77}$Sr$_{0,23}$Mn$_{1-y}$Fe$_{y}$O$_{3}$"
+	},
+	"abstract": {
+		"ua": "Досліджено кристалографічні, магнітні та магніторезистивні властивості керамічних зразків гетерозаміщених лантан-стронційових манганітів, леґованих залізом. Зразки для дослідження було виготовлено шляхом спікання порошків, одержаних за золь—ґель-методою. Показано, що зі збільшенням вмісту заліза об’єм елементарної комірки зменшується, що вказує на часткове ізовалентне заміщення Mn$^{3+}$ на Fe$^{3+}$. Встановлено, що за кімнатної температури зразки La$_{0,77}$Sr$_{0,23}$Mn$_{1-y}$Fe$_{y}$O$_{3}$ з $y \\leq 0,04$ є феромагнітними, а зразки з $y > 0,04$ – парамагнітними. Досліджено характер зміни намагнетованости та температури Кюрі зі зміною $y$. Показано, що температура Кюрі зразків серії La$_{0,77}$Sr$_{0,23}$Mn$_{1-y}$Fe$_{y}$O$_{3}$ майже лінійно зменшується зі збільшенням вмісту Fe. Одержані результати уможливлюють надійно прогнозувати магнітні параметри системи La$_{0,77}$Sr$_{0,23}$Mn$_{1-y}$Fe$_{y}$O$_{3}$ в області невеликих значень $y$ ($y = 0-0,1$), що є важливим для застосування цих матеріялів у медицині, зокрема в магнітних рідинах при створенні індукторів гіпертермії.",
+		"en": "Crystallographic, magnetic, and magnetoresistive properties of heterosubstituted lanthanum—strontium manganite ceramic samples doped with Fe are studied. The samples for investigation are fabricated by sintering of powders synthesized by sol—gel method. As shown, the lattice unit-cell volume decreases with the growing of Fe content that points on partially isovalent substitution of Mn$^{3+}$ by Fe$^{3+}$. As established, the La$_{0.77}$Sr$_{0.23}$Mn$_{1-y}$Fe$_{y}$O$_{3}$ samples with $y \\leq 0.04$ are ferromagnetic, and the samples with $y > 0.04$ are paramagnetic at room temperature. The character of changes of both the magnetization and the Curie point with the change of $y$ is investigated. As shown, the Curie temperature of the La$_{0.77}$Sr$_{0.23}$Mn$_{1-y}$Fe$_{y}$O$_{3}$ samples almost linearly decreases with the increasing of the Fe content. Obtained results allow predicting reliably the magnetic parameters of La$_{0.77}$Sr$_{0.23}$Mn$_{1-y}$Fe$_{y}$O$_{3}$ system in the range of small $y$ values ($y = 0-0.1$) that is important for the application of these materials in medicine, particularly for using them in magnetic fluids as the inductors of hyperthermia.",
+		"ru": "Исследованы кристаллографические, магнитные и магниторезистивные свойства керамических образцов гетерозамещённых лантан-стронциевых манганитов, легированных железом. Образцы для исследования были изготовлены путём спекания порошков, полученных по золь—гель-методике. Показано, что с увеличением содержания железа объём элементарной ячейки уменьшается, что указывает на частичное изовалентное замещение Mn$^{3+}$ на Fe$^{3+}$. Установлено, что при комнатной температуре образцы La$_{0,77}$Sr$_{0,23}$Mn$_{1-y}$Fe$_{y}$O$_{3}$ с $y \\leq 0,04$ являются ферромагнитными, а образцы с $y > 0,04$ – парамагнитными. Исследован характер изменения намагниченности и температуры Кюри с изменением y. Показано, что температура Кюри образцов серии La$_{0,77}$Sr$_{0,23}$Mn$_{1-y}$Fe$_{y}$O$_{3}$ почти линейно уменьшается с увеличением содержания железа. Полученные результаты позволяют надёжно прогнозировать магнитные параметры системы La$_{0,77}$Sr$_{0,23}$Mn$_{1-y}$Fe$_{y}$O$_{3}$ в области небольших значений $y$ ($y = 0-0,1$), что является важным для применения данных материалов в медицине, в частности для использования в магнитных жидкостях при создании индукторов гипертермии."
+	},
+	"keywords": {
+		"ua": "манганіт, кристалічна структура, температура Кюрі, намагнетованість, магнітоопір",
+		"en": "manganite, crystalline structure, Curie temperature, magnetization, magnetoresistance",
+		"ru": "манганит, кристаллическая структура, температура Кюри, намагниченность, магнитосопротивление"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Т. І. Полек", "en": "T. I. Polek", "ru": "Т. И. Полек"},
+			"OID": [7]
+		},
+		{
+			"AID": {"ua": "О. І. Товстолиткін", "en": "O. I. Tovstolytkin", "ru": "А. И. Товстолыткин"},
+			"OID": [7]
+		},
+		{
+			"AID": {"ua": "А. М. Погорілий", "en": "A. M. Pogorily", "ru": "А. Н. Погорелый"},
+			"OID": [7]
+		},
+		{
+			"AID": {"ua": "М. М. Кулик", "en": "M. M. Kulyk", "ru": "Н. Н. Кулык"},
+			"OID": [25]
+		},
+		{
+			"AID": {"ua": "Ю. Ю. Шлапа", "en": "Yu. Yu. Shlapa", "ru": "Ю. Ю. Шлапа"},
+			"OID": [18]
+		},
+		{
+			"AID": {"ua": "С. О. Солопан", "en": "S. O. Solopan", "ru": "С. О. Солопан"},
+			"OID": [18]
+		},
+		{
+			"AID": {"ua": "А. Г. Білоус", "en": "A. G. Bilous", "ru": "А. Г. Белоус"},
+			"OID": [18]
+		}
+	],
+	"references": {
+		"count": 22,
+		"list":  [
+			{
+				"doi": "10.1039/b815548h",
+				"or":  "N. A. Frey, S. Peng, K. Cheng, and S. Sun, Chem. Soc. Rev., 38: 2532 (2009).",
+				"tr":  "N. A. Frey, S. Peng, K. Cheng, and S. Sun, Chem. Soc. Rev., 38: 2532 (2009)."
+			},
+			{
+				"doi": "10.1263/jbb.100.1",
+				"or":  "A. Ito, M. Shinkai, H. Honda, and T. Kobayashi, J. Biosci. Bioeng., 100: 1 (2005).",
+				"tr":  "A. Ito, M. Shinkai, H. Honda, and T. Kobayashi, J. Biosci. Bioeng., 100: 1 (2005)."
+			},
+			{
+				"doi": "10.1038/nmat1494",
+				"or":  "G. Reiss and A. Hütten, Nature Materials, 4, No. 10: 725 (2005).",
+				"tr":  "G. Reiss and A. Hütten, Nature Materials, 4, No. 10: 725 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Solopan, A. Belous, A. Yelenich, L. Bubnovskaya, A. Kovelskaya, A. Podoltsev, I. Kondratenko, and S. Osinsky, Exp. Oncol., 33: 131 (2011).",
+				"tr":  "S. Solopan, A. Belous, A. Yelenich, L. Bubnovskaya, A. Kovelskaya, A. Podoltsev, I. Kondratenko, and S. Osinsky, Exp. Oncol., 33: 131 (2011)."
+			},
+			{
+				"doi": "10.1039/C5CP02822A",
+				"or":  "V. M. Kalita, A. I. Tovstolytkin, S. M. Ryabchenko, O. V. Yelenich, S. O. Solopan, and A. G. Belous, Phys. Chem. Chem. Phys., 17: 18087 (2015).",
+				"tr":  "V. M. Kalita, A. I. Tovstolytkin, S. M. Ryabchenko, O. V. Yelenich, S. O. Solopan, and A. G. Belous, Phys. Chem. Chem. Phys., 17: 18087 (2015)."
+			},
+			{
+				"doi": "10.1016/S0304-8853(99)00088-8",
+				"or":  "A. Jordan, R. Scholz, P. Wust, H. Fachling, and R. Felix, J. Magn. Magn. Mater., 201: 413 (1999).",
+				"tr":  "A. Jordan, R. Scholz, P. Wust, H. Fachling, and R. Felix, J. Magn. Magn. Mater., 201: 413 (1999)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2013.02.059",
+				"or":  "V. N. Nikiforov, Yu. A. Koksharov, S. N. Polyakov, A. P. Malakho, A. V. Volkov, M. A. Moskvina, G. B. Khomutov, and V. Yu. Irkhin, J. Alloy Compd., 569: 58 (2013).",
+				"tr":  "V. N. Nikiforov, Yu. A. Koksharov, S. N. Polyakov, A. P. Malakho, A. V. Volkov, M. A. Moskvina, G. B. Khomutov, and V. Yu. Irkhin, J. Alloy Compd., 569: 58 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Kuznetsov, O. A. Shlyakhtin, N. A. Brusentsov, and O. A. Kuznetsov, Eur. Cells Mater., 3: 75 (2002).",
+				"tr":  "A. A. Kuznetsov, O. A. Shlyakhtin, N. A. Brusentsov, and O. A. Kuznetsov, Eur. Cells Mater., 3: 75 (2002)."
+			},
+			{
+				"doi": "10.1103/PhysRev.82.403",
+				"or":  "C. Zener, Phys. Rev., 82: 403 (1951).",
+				"tr":  "C. Zener, Phys. Rev., 82: 403 (1951)."
+			},
+			{
+				"doi": "10.1063/1.1451894",
+				"or":  "S. L. Young, Y. C. Chen, H. Z. Chen, L. Horng, and J. F. Hsueh, J. Appl. Phys., 91, No. 10: 8915 (2002).",
+				"tr":  "S. L. Young, Y. C. Chen, H. Z. Chen, L. Horng, and J. F. Hsueh, J. Appl. Phys., 91, No. 10: 8915 (2002)."
+			},
+			{
+				"doi": "10.1088/0022-3727/39/7/R01",
+				"or":  "K. Dörr, J. Phys. D: Appl. Phys., 39: 125 (2006).",
+				"tr":  "K. Dörr, J. Phys. D: Appl. Phys., 39: 125 (2006)."
+			},
+			{
+				"doi": "10.1063/1.2185850",
+				"or":  "C. P. Bean and J. D. Livingston, J. Appl. Phys., 30: 120S (1959).",
+				"tr":  "C. P. Bean and J. D. Livingston, J. Appl. Phys., 30: 120S (1959)."
+			},
+			{
+				"doi": "10.1016/j.solidstatesciences.2012.01.030",
+				"or":  "S. O. Solopan, O. I. V’yunov, A. G. Belous , T. I. Polek, and A. I. Tovstolytkin, Solid State Sci., 14, No. 4: 501 (2012).",
+				"tr":  "S. O. Solopan, O. I. V'yunov, A. G. Belous, T. I. Polek, and A. I. Tovstolytkin, Solid State Sci., 14, No. 4: 501 (2012)."
+			},
+			{
+				"doi": "10.1023/A:1022198613723",
+				"or":  "A. G. Belous, O. I. Vyunov, E. V. Pashkova, O. Z. Yanchevskii, A. I. Tovstolytkin, and A. N. Pogorily, Inorg. Mater., 39, No. 2: 161 (2003).",
+				"tr":  "A. G. Belous, O. I. Vyunov, E. V. Pashkova, O. Z. Yanchevskii, A. I. Tovstolytkin, and A. N. Pogorily, Inorg. Mater., 39, No. 2: 161 (2003)."
+			},
+			{
+				"doi": "10.1063/1.2171513",
+				"or":  "O. Z. Yanchevskii, A. I. Tovstolytkin, O. I. V’yunov, and A. G. Belous, Low Temp. Phys., 32, No. 2: 134 (2006).",
+				"tr":  "O. Z. Yanchevskii, A. I. Tovstolytkin, O. I. V'yunov, and A. G. Belous, Low Temp. Phys., 32, No. 2: 134 (2006)."
+			},
+			{
+				"doi": "10.1103/PhysRevA.43.3161",
+				"or":  "A. R. Denton and N. W. Ashcroft, Phys. Rev., 43: 3161 (1991).",
+				"tr":  "A. R. Denton and N. W. Ashcroft, Phys. Rev., 43: 3161 (1991)."
+			},
+			{
+				"doi": "10.1063/1.2829906",
+				"or":  "A. K. Pradhan, R. Bah, R. B. Konda, R. Mundle, H. Mustafa, O. Bamiduro,  R. R. Rakhimov, X. Wei, and D. J. Sellmyer, J. Appl. Phys., 103, No. 7: 07F704 (2008).",
+				"tr":  "A. K. Pradhan, R. Bah, R. B. Konda, R. Mundle, H. Mustafa, O. Bamiduro,  R. R. Rakhimov, X. Wei, and D. J. Sellmyer, J. Appl. Phys., 103, No. 7: 07F704 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "A. I. Tovstolytkin, A. N. Pogorilyi, E. V. Shypil, and D. I. Podyalovski, Phys. Met. Metallogr., 91, Suppl. 1: 214 (2001).",
+				"tr":  "A. I. Tovstolytkin, A. N. Pogorilyi, E. V. Shypil, and D. I. Podyalovski, Phys. Met. Metallogr., 91, Suppl. 1: 214 (2001)."
+			},
+			{
+				"doi": "10.1016/S0370-1573(00)00121-6",
+				"or":  "E. Dagotto, T. Hotta, and A. Moreo, Phys. Rep., 344, Iss. 1–3: 1 (2001).",
+				"tr":  "E. Dagotto, T. Hotta, and A. Moreo, Phys. Rep., 344, Iss. 1–3: 1 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "A. I. Tovstolytkin, A. N. Pogorily, S. V. Cherepov, G. V. Bondarkova, and V. I. Silantiev, Metallofiz. Noveishie Tekhnol., 22, No. 11: 23 (2000).",
+				"tr":  "A. I. Tovstolytkin, A. N. Pogorily, S. V. Cherepov, G. V. Bondarkova, and V. I. Silantiev, Metallofiz. Noveishie Tekhnol., 22, No. 11: 23 (2000)."
+			},
+			{
+				"doi": "10.1016/S0304-8853(01)01377-4",
+				"or":  "J. Hua, C. Jia, H. Qina, J. Chena, Y. Haob, and Y. Lib, J. Magn. Magn. Mater., 241: 271 (2002).",
+				"tr":  "J. Hua, C. Jia, H. Qina, J. Chena, Y. Haob, and Y. Lib, J. Magn. Magn. Mater., 241: 271 (2002)."
+			},
+			{
+				"doi": "10.1088/0953-8984/14/47/328",
+				"or":  "J. M. Barandiaran, J. M. Greneche, T. Hernandez, F. Plazaola, and T. Rojo, J. Phys.: Condens. Matter, 14, No. 47: 12563 (2002).",
+				"tr":  "J. M. Barandiaran, J. M. Greneche, T. Hernandez, F. Plazaola, and T. Rojo, J. Phys.: Condens. Matter, 14, No. 47: 12563 (2002)."
+			}
+		]
+	}
+}

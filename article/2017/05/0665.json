@@ -1,0 +1,155 @@
+{
+	"_id":    "MFiNT.39.05.0665",
+	"year":   2017,
+	"volume": 39,
+	"issue":  5,
+	"pages":  [665,675],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["22.03.2017","10.04.2017"],
+	"PACS":   "62.20.Qp, 68.35.Ct, 68.35.Dv, 81.15.Cd, 81.40.Pq, 81.65.Lp",
+	"title":   {
+		"ua": "Характеризація Mo–V–N-покриттів, нанесених на підкладинку XC100 розпорошувальним катодним магнетроном",
+		"en": "Characterisation of Mo–V–N Coatings Deposited on XC100 Substrate by Sputtering Cathodic Magnetron",
+		"ru": "Характеризация Mo–V–N-покрытий, нанесённых на подложку XC100 распылительным катодным магнетроном"
+	},
+	"abstract": {
+		"ua": "Метою даної роботи є характеризація покриттів із трикомпонентного молібден-ванадійового нітриду (Mo–V–N), що наносилися на кремнійові та сталеві (XC100) поверхні шляхом реактивного радіочастотного магнетронного двокатодного розпорошення цілей із різним вмістом Мо та V із використанням азоту в якості реакційноздатного газу. Відхили напруги зміщення металевої цілі варіювалися від 300 до 900 В. Твердість, морфологію поверхні, мікроструктуру та склад було досліджено за допомогою метод наноіндентування, сканувальної електронної мікроскопії, атомно-силової мікроскопії та рентґенівської дифрактометрії. Плівки Mo–V–N мають пірамідальну морфологію поверхні, високу шерсткість (13,5 нм), але низькі механічні властивості. Твердість і модуль Юнґа лежать у діяпазонах 10–18 ГПа та 100–335 ГПа відповідно. Залишкові напруження у покриттях (обчислені за формулою Стоні) є стискальними і лежать у межах між 0,8 і 2,5 ГПа.",
+		"en": "The aim of this work is the characterization of ternary molybdenum–vana¬dium nitride (Mo–V–N) coatings deposited on silicon and XC100 steel substrates by the reactive radiofrequency dual magnetron sputtering with different contents of the Mo and V targets and nitrogen as reactive gas. The metal-target bias voltages are varied from 300 to 900 V. The hardness, surface morphology, microstructure and composition are studied by nanoindentation, scanning electron microscopy, atomic-force microscopy, and x-ray diffractometry. The Mo–V–N films manifest pyramidal surface morphology, high roughness (of 13.5 nm), but low mechanical properties. Hardness and Young’s modulus are found in the ranges of 10–18 GPa and 100–335 GPa, respectively. The residual stresses of coatings are compressive and varied between 0.8 GPa and 2.5 GPa (calculated with the Stoney formula).",
+		"ru": "Целью этой работы является характеризация покрытий, изготовленных из трёхкомпонентного молибден-ванадиевого нитрида (Mo–V–N), которые наносились на кремниевые и стальные (ХС100) подложки с помощью реактивного радиочастотного магнетронного двухкатодного распыления мишеней с различным содержанием Mo и V с использованием азота в качестве реагирующего газа. Напряжения смещения металлической мишени варьировались от 300 до 900 В. Твёрдость, морфология поверхности, микроструктура и состав изучались при помощи наноиндентирования, сканирующей электронной микроскопии, атомно-силовой микроскопии и рентгеновской дифрактометрии. Плёнки Mo–V–N обладают пирамидальной морфологией поверхности, высокой шероховатостью (13,5 нм), но низкими механическими свойствами. Твёрдость и модуль Юнга находятся в диапазонах 10–18 ГПа и 100–335 ГПа соответственно. Остаточные напряжения в покрытиях (рассчитанные по формуле Стони) являются сжимающими и изменяются в пределах от 0,8 до 2,5 ГПа."
+	},
+	"keywords": {
+		"ua": "покриття, мікроструктура, залишкові напруги, шерсткість, твердість",
+		"en": "coatings, microstructure, residual stresses, roughness, hardness",
+		"ru": "покрытия, микроструктура, остаточные напряжения, шероховатость, твёрдость"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Брагім Шармім", "en": "Brahim Chermime", "ru": "Брахим Шармим"},
+			"OID": [486, 487]
+		},
+		{
+			"AID": {"ua": "Абдельазіз Аббуді", "en": "Abdelaziz Abboudi", "ru": "Абдельазиз Аббуди"},
+			"OID": [486]
+		},
+		{
+			"AID": {"ua": "Хамид Джебейлі", "en": "Hamid Djebaili", "ru": "Хамид Джебейли"},
+			"OID": [487]
+		},
+		{
+			"AID": {"ua": "Мурад Бріуа", "en": "Mourad Brioua", "ru": "Мурад Бриуа"},
+			"OID": [486]
+		}
+	],
+	"references": {
+		"count": 21,
+		"list":  [
+			{
+				"doi": "10.1007/BF00465575",
+				"or":  "A. W. Kirby and D. J. Fray, J. Mater. Sci. Lett., 12, Iss.9: 633 (1993).",
+				"tr":  "A. W. Kirby and D. J. Fray, J. Mater. Sci. Lett., 12, Iss.9: 633 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Sondor, Strojárstvo/Strojírenství, 6: 70 (2005) (in Slovak).",
+				"tr":  "J. Sondor, Strojárstvo/Strojírenství, 6: 70 (2005) (in Slovak)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Šošovičková, Modification of Surface Properties of Metal Materials by PVD Methods (Thesis of Disser.) (Brno: Univerzita Obrany v Brne: 2005) (in Slovak).",
+				"tr":  "J. Šošovičková, Modification of Surface Properties of Metal Materials by PVD Methods (Thesis of Disser.) (Brno: Univerzita Obrany v Brne: 2005) (in Slovak)."
+			},
+			{
+				"doi": "10.1088/0305-4608/14/7/005",
+				"or":  "G. Linker, R. Smithey, and O. Meyer, J. Physics F: Metal Physics, 14, No. 7: L115 (1984).",
+				"tr":  "G. Linker, R. Smithey, and O. Meyer, J. Physics F: Metal Physics, 14, No. 7: L115 (1984)."
+			},
+			{
+				"doi": "10.1116/1.572975",
+				"or":  "S. B. Qadri, W. W. Fuller, K. E. Kihlstrom, R. W. Simon, E. F. Skelton, D. VanVechten, and S. A. Wolf, J. Vac. Sci. & Tech., 3: 664 (1985).",
+				"tr":  "S. B. Qadri, W. W. Fuller, K. E. Kihlstrom, R. W. Simon, E. F. Skelton, D. VanVechten, and S. A. Wolf, J. Vac. Sci. & Tech., 3: 664 (1985)."
+			},
+			{
+				"doi": "10.1007/BF00720172",
+				"or":  "T. Hirata and K. Saito, J. Mater. Sci. Lett., 9, Iss. 7: 827 (1990).",
+				"tr":  "T. Hirata and K. Saito, J. Mater. Sci. Lett., 9, Iss. 7: 827 (1990)."
+			},
+			{
+				"doi": "10.1143/JJAP.35.4280",
+				"or":  "Jeong-Youb Lee and Jong-Wan Park, Jpn. J. Appl. Phys., 35, Part 1, No. 8: 4280 (1996).",
+				"tr":  "Jeong-Youb Lee and Jong-Wan Park, Jpn. J. Appl. Phys., 35, Part 1, No. 8: 4280 (1996)."
+			},
+			{
+				"doi": "10.1016/S0040-6090(98)01728-3",
+				"or":  "J.-Ch. Chuang, Sh.-L. Tu, and M.-Chi. Chen, Thin Solid Films, 346, Iss. 1–2: 299 (1999).",
+				"tr":  "J.-Ch. Chuang, Sh.-L. Tu, and M.-Chi. Chen, Thin Solid Films, 346, Iss. 1–2: 299 (1999)."
+			},
+			{
+				"doi": "10.1016/0257-8972(95)02425-5",
+				"or":  "V. P. Anitha, S. Major, D. Chandrashekharam, and M. Bhatnagar, Surf. Coat. Tech., 79, Iss. 1–3: 50 (1996).",
+				"tr":  "V. P. Anitha, S. Major, D. Chandrashekharam, and M. Bhatnagar, Surf. Coat. Tech., 79, Iss. 1–3: 50 (1996)."
+			},
+			{
+				"doi": "10.1116/1.576882",
+				"or":  "K. K. Shih and D. B. Dove, J. Vac. Sci. Technol. A, 8, Iss. 3: 1359 (1990).",
+				"tr":  "K. K. Shih and D. B. Dove, J. Vac. Sci. Technol. A, 8, Iss. 3: 1359 (1990)."
+			},
+			{
+				"doi": "10.1116/1.579606",
+				"or":  "K.-L. Lin and Y.-J. Ho, J. Vac. Sci. Technol. A, 13, Iss. 6: 2872 (1995).",
+				"tr":  "K.-L. Lin and Y.-J. Ho, J. Vac. Sci. Technol. A, 13, Iss. 6: 2872 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Birch, S. Tungasmita, and V. Darakchieva, Magnetron Sputter Epitaxy of AlN, in Nitrides as Seen by the Technology (Eds. T. Paskova and B. Monemar) (Kerala: Research Signpost: 2002).",
+				"tr":  "J. Birch, S. Tungasmita, and V. Darakchieva, Magnetron Sputter Epitaxy of AlN, in Nitrides as Seen by the Technology (Eds. T. Paskova and B. Monemar) (Kerala: Research Signpost: 2002)."
+			},
+			{
+				"doi": "",
+				"or":  "P. M. Martin, Handbook of Deposition Technologies for Films and Coatings (William Andrew: 2009), p. 936.",
+				"tr":  "P. M. Martin, Handbook of Deposition Technologies for Films and Coatings (William Andrew: 2009), p. 936."
+			},
+			{
+				"doi": "10.1103/PhysRev.56.978",
+				"or":  "A. L. Patterson, Phys. Rev., 56, Iss. 10: 978 (1939).",
+				"tr":  "A. L. Patterson, Phys. Rev., 56, Iss. 10: 978 (1939)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2008.05.045",
+				"or":  "L. Wang, X. Nie, J. Housden, E. Spain, J. C. Jiang, E. I. Meletis, and A. Leyland, Surf. Coat. Technol., 203, Iss. 5–7: 816 (2008).",
+				"tr":  "L. Wang, X. Nie, J. Housden, E. Spain, J. C. Jiang, E. I. Meletis, and A. Leyland, Surf. Coat. Technol., 203, Iss. 5–7: 816 (2008)."
+			},
+			{
+				"doi": "10.1098/rspa.1909.0021",
+				"or":  "G. G. Stoney, Proc. R. Soc. A., 82, Iss. 553: 172 (1909).",
+				"tr":  "G. G. Stoney, Proc. R. Soc. A., 82, Iss. 553: 172 (1909)."
+			},
+			{
+				"doi": "10.1021/cm050708i",
+				"or":  "K. Inumaru, K. Baba, and S. Yamanaka, Chem. Mater., 17, Iss. 24: 5935 (2005).",
+				"tr":  "K. Inumaru, K. Baba, and S. Yamanaka, Chem. Mater., 17, Iss. 24: 5935 (2005)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(98)00544-1",
+				"or":  "M. Nordin, M. Larsson, and S. Hogmark, Surf. Coat. Technol., 106, Iss. 2–3: 234 (1998).",
+				"tr":  "M. Nordin, M. Larsson, and S. Hogmark, Surf. Coat. Technol., 106, Iss. 2–3: 234 (1998)."
+			},
+			{
+				"doi": "10.1016/j.jssc.2003.11.033",
+				"or":  "C. L. Bull, P. F. McMillan, E. Soignard, and K. Leinenweber, J. Solid State Chemistry, 177, Iss. 4–5: 1488 (2004).",
+				"tr":  "C. L. Bull, P. F. McMillan, E. Soignard, and K. Leinenweber, J. Solid State Chemistry, 177, Iss. 4–5: 1488 (2004)."
+			},
+			{
+				"doi": "10.1016/j.cattod.2005.11.079",
+				"or":  "H. Gueddaoui, G. Schmerber, M. Abes, A. Guemmaz, and J. C. Parlebas, Catalysis Today, 113, Iss. 3–4: 270 (2006).",
+				"tr":  "H. Gueddaoui, G. Schmerber, M. Abes, A. Guemmaz, and J. C. Parlebas, Catalysis Today, 113, Iss. 3–4: 270 (2006)."
+			},
+			{
+				"doi": "10.1016/j.wear.2005.09.003",
+				"or":  "U. Wiklund, B. Casas, and N. Stavlid, Wear, 261, Iss. 1: 2 (2006).",
+				"tr":  "U. Wiklund, B. Casas, and N. Stavlid, Wear, 261, Iss. 1: 2 (2006)."
+			}
+		]
+	}
+}

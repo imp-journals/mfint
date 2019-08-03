@@ -1,0 +1,41 @@
+{
+	"_id":    "MFiNT.37.0013",
+	"year":   2015,
+	"volume": 37,
+	"issue":  1,
+	"pages":  [13,36],
+	"rubric": 1,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["22.04.2014","06.11.2014"],
+	"PACS":   "71.10.Fd, 72.10.Di, 72.15.Cz, 75.30.Kz, 75.30.Mb, 75.47.-m, 75.50.Kj",
+	"title":  {
+		"ua": "Кластерна модель рідкого або аморфного металу. Квантово-статистична теорія. Електричні та магнітні властивості",
+		"en": "Cluster Model of Liquid or Amorphous Metal. The Quantum-Statistical Theory. Electrical and Magnetic Properties",
+		"ru": "Кластерная модель жидкого или аморфного металла. Квантово-статистическая теория. Электрические и магнитные свойства"
+	},
+	"abstract": {
+		"ua": "Магнетоелектричні властивості аморфних металів (АМ) на основі Fe розраховано в моделі кластерів $K_j$ і в представленні багатоелектронних операторних спінорів. Флюктуації хемічних зв’язків (ФХЗ) і мікродифузія модифікують АМ. Хвильова функція йона Fe складається з хвильових функцій високоспінових (ВС, $\\xi_3$), низькоспінових (НС, $\\xi_1$) та зонних ($f_r$) станів у вузлі $r$. Їхні амплітуди $\\xi_j$($T$, $B$) залежать від температури $T$ і магнетного поля B. На прикладі системи Fe—B постулюємо, що феромагнетні (ФМ) кластери $\\alpha$-Fe взаємодіють ($A_{31} > 0$) через НС-йони у порожнинах $h_j$. Температура Кюрі $T_c$($\\xi_j$) понижується також через $A_{31}$ при антиферомагнетному (АФМ) обміні $A11 < 0$ для $h_j$. Обмінна цупкість $D(T, \\xi_j)$ феромагнонів залежить від ФХЗ через $\\xi_j(T)$. При $|A_{11}| > A_{33}$ стабільною є АФМ-фаза з двома гілками антиферомагнонів: $E_a \\propto k$, $E_0 \\cong A_{31}$ для квазиімпульсів $k \\ll 1$. Додавання Cr також стабілізує АФМ-фазу через обмін Cr—Cr ($A_{vv} < 0$). Ймовірність метамагнетного (ММ) переходу АФМ $\\rightarrow$ ФМ підвищується мікродифузією. З ростом $T$ зменшується число найближчих сусідів Cr—Cr у порожнині $h_j$, зменшуючи $A_{vv}(T)$ при $T \\rightarrow T_{MM} — 0$. ММ-переходи при $T_{MM}$ чи то у полі $B_{MM}(T)$ при $T < T_{MM}$ супроводжуються гігантським магнетоопором (ГМО) $\\Delta R(T, B)$; одержано співвідношення $\\Delta R \\propto \\xi_1^2(T)s_T^2(B)$. Середній спін $s_T$ для НС-иона входить у «ФМ-дефект ефективної маси» $\\Delta m^{*}(T, B)$ при $B \\rightarrow B_{MM}$. Парні ФМ-ефекти – феромагнетна анізотропія (ФМА) і магнетострикція (ФМС) – зумовлено спін-орбітальним зв’язком HC-Fe—B$^{+}$ в умовах деформації $u_{ij}$. Деформація $u_{ij}$ при виготовленні АМ-стрічки або після термооброблення наводить ФМА ($K_u \\ne 0$). Хід магнетної сприйнятливости $\\chi(B)$ залежить від $K_u$ і $K_1$ всередині кластера.",
+		"en": "Magnetoelectric properties of Fe-based amorphous metals (AM) are calculated within both the cluster ($K_j$) model and the many-electron operator spinors representation. AM are modified by the chemical-bond fluctuations (CBF) and microdiffusion. The wave function of Fe ion consists of wave functions of high-spin (HS, $\\xi_3$), low-spin (LS, $\\xi_1$), and band ($f_r$) states at the lattice site $r$. Their amplitudes $\\xi_j$($T$, $B$) depend on temperature $T$ and magnetic field $B$. As postulated by the Fe—B example, the ferromagnetic clusters of $\\alpha$-Fe interact ($A_{31} > 0$) through the LS ions within the hj holes. The Curie temperature $T_c$($\\xi_j$) is lowered owing to $A_{31}$ at the AFM exchange with $A11 < 0$ for $h_j$. Ferromagnon exchange hardness, $D(T, \\xi_j)$, depends on the CBF through $\\xi_j(T)$. The AFM phase is stable, if $|A_{11}| > A_{33}$, and it has two antiferromagnon branches: $E_a \\propto k$, $E_0 \\cong A_{31}$ for quasi-momentum $k \\ll 1$. Cr addition also stabilizes AFM phase owing to the Cr—Cr exchange ($A_{vv} < 0$). Probability of metamagnetic (MM) AFM $\\rightarrow$ FM transition is increased by microdiffusion. The number of the nearest Cr—Cr neighbours within the $h_j$ holes is decreasing with the $T$ growing, decreasing $A_{vv}(T)$ at $T \\rightarrow T_{MM} — 0$. The MM transitions either at $T_{MM}$ or in the $B_{MM}(T)$ field at $T < T_{MM}$ are accompanied by giant magnetoresistance with $\\Delta R \\propto \\xi_1^2(T)s_T^2(B)$. Mean spin for LS ion is a part of ‘effective mass defect’ $\\Delta m^{*}(T, B)$ at $B \\rightarrow B_{MM}$. The FM effects such as ferromagnetic anisotropy (FMA) and magnetostriction (FMS) are caused by the LS-Fe—B$^{+}$ spin—orbit coupling in condition of deformation $u_{ij}$. Deformation $u_{ij}$ induces FMA ($K_u \\ne 0$) in the process of AM-ribbon fabrication or after annealing. The curve of magnetic susceptibility $\\chi(B)$ depends on $K_u$ and $K_1$ within the cluster.",
+		"ru": "Магнитоэлектрические свойства аморфных металлов (АМ) на основе Fe рассчитываются в модели кластеров $K_j$ и в представлении многоэлектронных операторных спиноров. Флуктуации химических связей (ФХС) и микродиффузия модифицируют АМ. Волновая функция иона Fe слагается из волновых функций высокоспиновых (ВС, $\\xi_3$), низкоспиновых (НС, $\\xi_1$) и зонных ($f_r$) состояний в узле $r$. Их амплитуды $\\xi_j$($T$, $B$) зависят от температуры $T$ и магнитного поля $B$. На примере системы Fe—B постулируем, что ферромагнитные (ФМ) кластеры $\\alpha$-Fe взаимодействуют ($A_{31} > 0$) через НС-ионы в полостях $h_j$. Температура Кюри $T_c$($\\xi_j$) понижается также за счёт $A_{31}$ при антиферромагнитном (АФМ) обмене $A11 < 0$ для $h_j$. Обменная жёсткость $D(T, \\xi_j)$ ферромагнонов зависит от ФХС через $\\xi_j(T)$. При $|A_{11}| > A_{33}$ стабильна АФМ-фаза с двумя ветвями антиферромагнонов: $E_a \\propto k$, $E_0 \\cong A_{31}$ для квазиимпульсов $k \\ll 1$. Добавление Cr также стабилизирует АФМ-фазу за счёт обмена Cr—Cr ($A_{vv} < 0$). Вероятность метамагнитного (ММ) перехода АФМ $\\rightarrow$ ФМ повышается микродиффузией. С ростом $T$ уменьшается число ближайших соседей Cr—Cr в полости $h_j$, уменьшая $A_{vv}(T)$ при $T \\rightarrow T_{MM} — 0$. ММ-переходы либо при $T_{MM}$, либо в поле $B_{MM}(T)$ при $T < T_{MM}$ сопровождаются гигантским магнитосопротивлением (ГМС) $\\Delta R(T, B)$; получено соотношение $\\Delta R \\propto \\xi_1^2(T)s_T^2(B)$. Средний спин $s_T$ для НС-иона входит в «ФМ-дефект эффективной массы» $\\Delta m^{*}(T, B)$ при $B \\rightarrow B_{MM}$. Чётные ФМ-эффекты – ферромагнитная анизотропия (ФМА) и магнитострикция (ФМС) – обусловлены спин-орбитальной связью HC-Fe—B$^{+}$ в условиях деформации $u_{ij}$. Деформация $u_{ij}$ при получении АМ-ленты или после термообработки наводит ФМА ($K_u \\ne 0$). Ход магнитной восприимчивости $\\chi(B)$ зависит от $K_u$ и $K_1$ внутри кластера."
+	},
+	"keywords": {
+		"ua": "аморфний феро- або антиферромагнетик, кластери, магнони, магнітна анізотропія, магнітострикція, гігантський магнітоопір, обмін, флуктуації хімічних зв'язків, багатоклектроннні операторні спінори",
+		"en": "amorphous ferromagnetic or antiferromagnetic, clusters, magnons, magnetic anisotropy, magnetostriction, giant magnetoresistance, exchange, chemical-bond fluctuations, many-electron operator spinors",
+		"ru": "аморфный ферро- или антиферромагнетик, кластеры, магноны, магнитная анизотропия, магнитострикция, гигантское магнитосопротивление, обмен, флуктуации химических связей, многоэлектронные операторные спиноры"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. І. Міцек", "en": "O. I. Mitsek", "ru": "А. И. Мицек"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. М. Пушкар", "en": "V. M. Pushkar", "ru": "В. Н. Пушкарь"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 27,
+		"list":  []
+	}
+}

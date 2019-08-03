@@ -1,0 +1,111 @@
+{
+	"_id":    "MFiNT.40.01.0023",
+	"year":   2018,
+	"volume": 40,
+	"issue":  1,
+	"pages":  [23,35],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["27.11.2017"],
+	"PACS":   "64.60.Ej, 64.70.kd, 81.05.Bx, 81.30.Bx, 81.40.Gh, 82.20.Wt",
+	"title":   {
+		"ua": "Методика побудови розрахункових рівноважних діяграм стану та термокінетичних перетворень титанових стопів системи Ti–Al",
+		"en": "Design Technique for Assumption Equilibrium State Diagrams and Thermokinetic Transformations of Titanium Alloys of a Ti–Al System",
+		"ru": "Методика построения расчётных равновесных диаграмм состояния и термокинетических превращений титановых сплавов системы Ti–Al"
+	},
+	"abstract": {
+		"ua": "Алюмініди титану та стопи на їх основі є перспективними жароміцними матеріялами, затребуваними в обладнанні та вузлах відповідального призначення, зокрема в суднобудуванні, машинобудуванні, авіяційній і космічній техніці. Основною методою одержання необхідного комплексу механічних властивостей інтерметалідних стопів є їх термомеханічне оброблення, параметри якого можуть бути одержані на основі побудови діяграми стану. Побудова експериментальних термокінетичних діяграм інтерметалідних стопів є достатньо ускладненою. На підставі методології CALPHAD запропоновано методику побудови рівноважної діяграми стану та термокінетичної діяграми перетворення інтерметалідного стопу системи Ti–Al. Визначено вплив алюмінію на температуру перетворення інтерметаліду титану Ti$_3$Al. Показано, що зі збільшенням вмісту Алюмінію в інтерметалідах Ti$_3$Al від 10 до 29 ат.% температура початку перетворення $\\beta$-Ti $\\to$ Ti$_3$Al підвищується від 520 до 1170°С. Подальше підвищення вмісту Алюмінію в інтерметаліді від 29 до 40 ат.% приводить до незначного зниження початкової температури перетворення до 1140°С. Розроблена методика може бути використана для моделювання термокінетичних діяграм анізотермічних перетворень у складних титанових стопах.",
+		"en": "Titanium aluminides and alloys based on them are promising heat-resistant materials demanded in critical equipment and units, particularly, in shipbuilding, mechanical and aerospace engineering. The main method of obtaining the necessary complex of mechanical properties of intermetallic alloys is thermomechanical processing of them, the parameters of which can be obtained based on the construction of a phase diagram. The construction of experimental thermokinetic diagrams of intermetallic alloys is rather difficult. Based on the methodology of CALPHAD, the design technique for equilibrium state diagram and thermokinetic diagram of the transformation of intermetallic alloy of a Ti–Al system is proposed. The influence of aluminium on the temperature of titanium intermetallide Ti$_3$Al formation is determined. As shown, with an increase of aluminium content in the Ti$_3$Al intermetallide from 10 to 29 at.%, the onset temperature of the $\\beta$-Ti $\\to$ Ti$_3$Al transition increases from 520 to 1170°C. A further increasing of aluminium content in the intermetallic compound from 29 to 40 at.% leads to a slight decrease in the initial transition temperature to 1140°C. The developed technique can be used to simulate thermokinetic diagrams of anisothermal transformations in complex titanium alloys.",
+		"ru": "Алюминиды титана и сплавы на их основе являются перспективными жаропрочными материалами, востребованными в оборудовании и узлах ответственного назначения, в частности в судостроении, машиностроении, авиационной и космической технике. Основным методом получения необходимого комплекса механических свойств интерметаллидных сплавов является их термомеханическая обработка, параметры которой могут быть получены на основе построения диаграммы состояния. Построение экспериментальных термокинетических диаграмм интерметаллидных сплавов достаточно затруднительно. На основе методологии CALPHAD предложена методика построения равновесной диаграммы состояния и термокинетической диаграммы превращения интерметаллидного сплава системы Ti–Al. Определено влияние алюминия на температуру образования интерметаллида титана Ti$_3$Al. Показано, что с увеличением содержания алюминия в интерметаллиде Ti$_3$Al от 10 до 29 ат.% температура начала превращения $\\beta$-Ti $\\to$ Ti$_3$Al повышается от 520 до 1170°С. Дальнейшее повышение содержания алюминия в интерметаллиде от 29 до 40 ат.% приводит к незначительному снижению начальной температуры превращения до 1140°С. Разработанная методика может быть использована для моделирования термокинетических диаграмм анизотермических превращений в сложных титановых сплавах."
+	},
+	"keywords": {
+		"ua": "титанові стопи, інтерметаліди, алюмініди титану, фазові перетворення, Gleeble 3800, реґресійна аналіза",
+		"en": "titanium alloys, intermetallics, titanium aluminides, phase transitions, Gleeble 3800, regression analysis",
+		"ru": "титановые сплавы, интерметаллиды, алюминиды титана, фазовые превращения, Gleeble 3800, регрессионный анализ"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Г. М. Григоренко", "en": "G. M. Gryhorenko", "ru": "Г. М. Григоренко"},
+			"OID": [10]
+		},
+		{
+			"AID": {"ua": "В. А. Костін", "en": "V. A. Kostin", "ru": "В. А. Костин"},
+			"OID": [10]
+		},
+		{
+			"AID": {"ua": "С. Г. Григоренко", "en": "S. G. Gryhorenko", "ru": "С. Г. Григоренко"},
+			"OID": [10]
+		}
+	],
+	"references": {
+		"count": 13,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "А. А. Ильин, Б. А. Копачев, И. С. Поповкин, Титановые сплавы. Состав, структура, свойства: Справочник (Москва: ВИЛСМАТИ: 2009).",
+				"tr":  "A. A. Il'in, B. A. Kopachev, and I. S. Popovkin, Titanovye Splavy. Sostav, Struktura, Svoystva: Spravochnik [Titanium Alloys. Composition, Structure, Properties: Handbook] (Moscow: VILS−MATI: 2009) (in Russian)."
+			},
+			{
+				"doi": "10.1002/adem.201200231",
+				"or":  "H. Clemens and S. Mayer, Adv. Eng. Mater., 15, Iss. 4: 191 (2013).",
+				"tr":  "H. Clemens and S. Mayer, Adv. Eng. Mater., 15, Iss. 4: 191 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "F. Appel, J. D. H. Paul, and M. Oehring, Gamma Titanium Aluminide Alloys: Science and Technology (Weinheim, Germany: WileyVCH: 2011).",
+				"tr":  "F. Appel, J. D. H. Paul, and M. Oehring, Gamma Titanium Aluminide Alloys: Science and Technology (Weinheim, Germany: WileyVCH: 2011)."
+			},
+			{
+				"doi": "10.1007/BF03161822",
+				"or":  "H. A. Lipsitt, D. Shechtman, and R. E. Schafrik, Metall. Trans. A, 6, Iss. 11: 1991 (1975).",
+				"tr":  "H. A. Lipsitt, D. Shechtman, and R. E. Schafrik, Metall. Trans. A, 6, Iss. 11: 1991 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "N. Saunders and A. P.Miodownik, CALPHAD—Calculation of Phase Diagrams (Ed. R. W. Cahn) (Oxford, UK: Elsevier Science: 1998).",
+				"tr":  "N. Saunders and A. P.Miodownik, CALPHAD—Calculation of Phase Diagrams (Ed. R. W. Cahn) (Oxford, UK: Elsevier Science: 1998)."
+			},
+			{
+				"doi": "10.1007/BF00356585",
+				"or":  "Z. Fan, P. Tsakiropoulos, and A. P. Miodownik, J. Mater. Sci., 29, Iss. 1: 141 (1994).",
+				"tr":  "Z. Fan, P. Tsakiropoulos, and A. P. Miodownik, J. Mater. Sci., 29, Iss. 1: 141 (1994)."
+			},
+			{
+				"doi": "10.1017/CBO9780511804137",
+				"or":  "H. L. Lukas, S. G. Fries, and B. Sundman, Computational Thermodynamics: The Calphad Method (Cambridge, UK: Cambridge University Press: 2007).",
+				"tr":  "H. L. Lukas, S. G. Fries, and B. Sundman, Computational Thermodynamics: The Calphad Method (Cambridge, UK: Cambridge University Press: 2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Б. Хина, Г. Г. Горанский, Термодинамика многокомпонентных аморфных сплавов: сравнение различных подходов. Современные методы и технологии создания и обработки материалов (Минск: Физико-технический институт НАН Беларуси: 2016).",
+				"tr":  "B. B. Khina and G. G. Goranskiy, Termodinamika Mnogokomponentnykh Amorfnykh Splavov: Sravnenie Razlichnykh Podkhodov. Sovremennye Metody i Tekhnologii Sozdaniya i Obrabotki Materialov [Thermodynamics of Multicomponent Amorphous Alloys: Comparison of Different Approaches. Up-to-Date Methods and Technologies for Creating and Processing of Materials] (Minsk: Physical-Technical Institute, N.A.S. of Belarus: 2016) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0364-5916(91)90030-N",
+				"or":  "A. T. Dinsdale, Calphad, 15, Iss. 4: 317 (1991).",
+				"tr":  "A. T. Dinsdale, Calphad, 15, Iss. 4: 317 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Ахонин, В. Ю. Белоус, А. Ф. Мужиченко, Р. В. Селин, Автоматическая сварка, № 3: 26 (2013).",
+				"tr":  "S. V. Akhonin, V. Yu. Belous, A. F. Muzhychenko, and R. V. Selin, Avtomaticheskaya Svarka, No. 3: 26 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Ю. Орлов, Журнал вычислительной математики и математической физики, 26, № 8: 1215 (1986).",
+				"tr":  "N. Yu. Orlov, Zhurnal Vychislitel'noy Matematiki i Matematicheskoy Fiziki, 26, No. 8: 1215 (1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. М. Григоренко, В. А. Костин, Современная электрометаллургия, № 1: 33 (2013).",
+				"tr":  "G. M. Grigorenko and V. A. Kostin, Sovremennaya Electrometallurgiya, No. 1: 33 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Диаграммы состояния двойных металлических систем (Ред. Н. П. Лякишев) (Москва: Машиностроение: 1996).",
+				"tr":  "Diagrammy Sostoyaniya Dvoynykh Metallicheskikh Sistem [Diagrams of the State of Binary Metal Systems] (Ed. N. P. Lyakishev) (Moscow: Mashinostroenie: 1996) (in Russian)."
+			}
+		]
+	}
+}

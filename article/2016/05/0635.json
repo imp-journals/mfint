@@ -1,0 +1,128 @@
+{
+	"_id":    "MFiNT.38.05.0635",
+	"year":   2016,
+	"volume": 38,
+	"issue":  5,
+	"pages":  [635,645],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["07.10.2015", "20.04.2016"],
+	"PACS":   "46.35.+z, 61.43.Gt, 81.20.Ev, 81.40.Ef, 83.10.Gr, 83.50.Uv, 83.60.Bc",
+	"title":   {
+		"ua": "Модель процесу ущільнення пористого порошкового пружно-в’язкого матеріалу при електроспіканні",
+		"en": "Model of Compaction Process of a Porous Powder Elastic-Viscous Material at Electric Sintering",
+		"ru": "Модель процесса уплотнения пористого порошкового упруго-вязкого материала при электроспекании"
+	},
+	"abstract": {
+		"ua": "Досліджується процес електроспікання компакту в термінах теоретичної макрореології. Компактом є пружньо-в’язке тіло Кельвіна—Фогта. Основа дослідження – другий Ньютонів закон (зв’язок імпульсу зі зміною кількости руху). Виведено рівняння ущільнення при електроспіканні пружньо-в’язкого компакту. його дослідження показало, що збільшення густини струму інтенсифікує ущільнення внаслідок більш сильного зниження в’язкости, ніж пружности, при електротермії.",
+		"en": "An electric sintering process is studied in the theoretical macrorheology terms. A compact is the Kelvin—Voigt elastic-viscous body. The basis of the study is Second Newton’s law (momentum equation). The constitutive equation of densification of an elastic-viscous compact at electric sintering is deduced. Investigation shows that the increase in current density at electrothermics intensifies the compaction due to stronger reduction of viscosity than elasticity.",
+		"ru": "Изучается процесс электроспекания компакта в терминах теоретической макрореологии. Компактом является упруго-вязкое тело Кельвина— Фогта. Основа исследования – второй закон Ньютона (связь импульса с изменением количества движения). Выведено уравнение уплотнения при электроспекании упруго-вязкого компакта. Его исследование показало, что увеличение плотности тока интенсифицирует уплотнение вследствие более сильного понижения вязкости, чем упругости, при электротермии."
+	},
+	"keywords": {
+		"ua": "електроспікання, пружньо-в’язкий матеріял, зниження в’язкости та пружности, електротермія",
+		"en": "constitutive equation, electric sintering, elastic-viscous material, decrease of viscosity and elasticity, electrothermics",
+		"ru": "электроспекание, упруго-вязкий материал, понижение вязкости и упругости, электротермия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. І. Райченко", "en": "O. I. Raichenko", "ru": "А. И. Райченко"},
+			"OID": [2]
+		}
+	],
+	"references": {
+		"count": 18,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Л. Д. Ландау, Е. М. Лифшиц, Теоретическая физика. Т. 7. Теория упругости (Москва: Наука: 1965).",
+				"tr":  "L. D. Landau and E. M. Lifshitz, Teoreticheskaya Fizika. Vol. 7. Teoriya Uprugosti (Moscow: Nauka: 1965) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. A. Weissler, Powder Metallurgy International, 10, No. 1: 34 (1978).",
+				"tr":  "G. A. Weissler, Powder Metallurgy International, 10, No. 1: 34 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. О. Андрущик, Ю. В. Корнюшин, С. П. Ошкадёров, М. Ляшук, Э. Дудрова, М. Кабат, М. Кабатова, М. Шлесар, Металлофизика, 13, № 10: 110 (1991).",
+				"tr":  "L. O. Andrushchik, Yu. V. Kornyushin, S. P. Oshkaderov, M. Lyashuk, E. Dudrova, M. Kabat, M. Kabatova, and M. Shlesar, Metallofizika, 13, No. 10: 110 (1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. Алфрей, Е. Ф. Гарни, Реология (Ред. Ф. Эйрих) (Москва: Иностранная литература: 1962), с. 459.",
+				"tr":  "T. Alfrey and E. F. Garni, Reologiya [Rheology] (Ed. F. Eyrikh) (Moscow: Inostrannaya Literatura: 1962), p. 459 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Reyner, Handbuch der Physik (Ed. S. Flügge) (Berlin: Springer: 1958), vol. 6, p. 434.",
+				"tr":  "M. Reyner, Handbuch der Physik (Ed. S. Flügge) (Berlin: Springer: 1958), vol. 6, p. 434."
+			},
+			{
+				"doi": "10.1088/0370-1301/63/1/302",
+				"or":  "J. K. Mackenzie, Proc. Phys. Soc. B, 63, No. 1: 2 (1950).",
+				"tr":  "J. K. Mackenzie, Proc. Phys. Soc. B, 63, No. 1: 2 (1950)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Скороход, Реологические основы теории спекания (Киев: Наукова думка: 1972).",
+				"tr":  "V. V. Skorokhod, Reologicheskie Osnovy Teorii Spekaniya (Kiev: Naukova Dumka: 1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. А. Ребиндер, Физический энциклопедический словарь (Москва: Советская Энциклопедия: 1960), т. 1, с. 355.",
+				"tr":  "P. A. Rebinder, Fizicheskiy Entsiklopedicheskiy Slovar' (Moscow: Sovetskaya Entsiklopediya: 1960), vol. 1, p. 355 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. П. Слепцова, Физический энциклопедический словарь (Москва: Советская Энциклопедия: 1963), т. 3, с. 273.",
+				"tr":  "G. P. Sleptsova, Fizicheskiy Entsiklopedicheskiy Slovar' (Moscow: Sovetskaya Entsiklopediya: 1963), vol. 3, p. 273 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Справочник химика (Ленинград–Москва: Госхимиздат: 1962), т. 1.",
+				"tr":  "Spravochnik Khimika (Leningrad–Moscow: Goskhimizdat: 1962), vol. 1 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Корнюшин, Явления переноса в реальных кристаллах во внешних полях (Киев: Наукова думка: 1981).",
+				"tr":  "Yu. V. Kornyushin, Yavleniya Perenosa v Real’nykh Kristallakh vo Vneshnikh Polyakh (Kiev: Naukova Dumka: 1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Е. Белявин, В. В. Мазюк, Д. В. Минько, В. К. Шелег, Теория и практика электроимпульсного спекания пористых порошковых материалов (Минск: Ремико: 1997).",
+				"tr":  "K. E. Belyavin, V. V. Mazyuk, D. V. Min’ko, and V. K. Sheleg, Teoriya i Praktika Elektroimpul’snogo Spekaniya Poristykh Poroshkovykh Materialov (Minsk: Remiko: 1997) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(00)00773-5",
+				"or":  "M. Omori, Mater. Sci. Eng. A, 287, Iss. 2: 183 (2000).",
+				"tr":  "M. Omori, Mater. Sci. Eng. A, 287, Iss. 2: 183 (2000)."
+			},
+			{
+				"doi": "10.1016/j.msea.2004.06.075",
+				"or":  "V. Y. Kodash, J. R. Groza, K. C. Cho, B. R. Klotz, and R. J. Dowding, Mater. Sci. Eng. A, 385, Iss. 1–2: 367 (2004).",
+				"tr":  "V. Y. Kodash, J. R. Groza, K. C. Cho, B. R. Klotz, and R. J. Dowding, Mater. Sci. Eng. A, 385, Iss. 1–2: 367 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Г. Григорьев, Б. А. Калин, Электроимпульсная технология формирования материалов из порошков (Москва: МИФИ: 2008).",
+				"tr":  "E. G. Grigor’ev and B. A. Kalin, Elektroimpul’snaya Tekhnologiya Formirovaniya Materialov iz Poroshkov (Moscow: MIFI: 2008) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.2822189",
+				"or":  "E. Olevsky, S. Kandukuri, and L. Froyen, J. Appl. Phys., 102: 114913 (2007).",
+				"tr":  "E. Olevsky, S. Kandukuri, and L. Froyen, J. Appl. Phys., 102: 114913 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. О. Андрущик, С. П. Ошкадёров, А. П. Шпак, В. И. Курпас. Физические основы получения высокопрочных порошковых материалов с помощью скоростной электротермической обработки (Киев: Физико-технологический институт металлов и сплавов НАН Украины: 2007).",
+				"tr":  "L. O. Andrushchik, S. P. Oshkaderov, A. P. Shpak, and V. I. Kurpas, Fizicheskie Osnovy Polucheniya Vysokoprochnykh Poroshkovykh Materialov s Pomoshch’yu Skorostnoy Elektrotermicheskoy Obrabotki (Kiev: Physicotechnological Institute of Metals and Alloys, N.A.S. of Ukraine: 2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. Б. Згалат-Лозинский, Порошковая металлургия, № 1/2: 26 (2014).",
+				"tr":  "O. B. Zgalat-Lozinskiy, Poroshkovaya Metallurgiya, Nos. 1/2: 26 (2014) (in Russian)."
+			}
+		]
+	}
+}

@@ -1,0 +1,64 @@
+{
+	"_id":    "MFiNT.38.12.1697",
+	"year":   2016,
+	"volume": 38,
+	"issue":  12,
+	"pages":  [1697,1702],
+	"rubric": 10,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["01.12.2016"],
+	"PACS":   "01.60.+q",
+	"title":   {
+		"ua": "До 70-річчя академіка НАН України О. М. Івасишина",
+		"en": "On the Occasion of the 70th Anniversary of Birthday of O. M. Ivasishin, Member of the N.A.S. of Ukraine",
+		"ru": "К 70-летию академика НАН Украины О. М. Ивасишина"
+	},
+	"abstract": {
+		"ua": "8 листопада 2016 р. виповнилося 70 років видатному вченому в галузі фізики металів і фізичного матеріалознавства, заслуженому діячу науки і техніки України (1998 р.), академіку НАН України (2003 р.) Оресту Михайловичу Івасишину.",
+		"en": "Orest Mykhailovych Ivasishin, distinguished scientist in the field of physics of metals and physical metallurgy, Honoured Man of Science and Engineering of Ukraine (1998), Member of the N.A.S. of Ukraine (2003), celebrated his 70th Anniversary of Birthday in November 8, 2016.",
+		"ru": "8 ноября 2016 г. исполнилось 70 лет выдающемуся учёному в области физики металлов и физического материаловедения, заслуженному деятелю науки и техники Украины (1998 г.), академику НАН Украины (2003 г.) Оресту Михайловичу Ивасишину."
+	},
+	"keywords": {
+		"ua": "",
+		"en": "",
+		"ru": ""
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. А. Татаренко", "en": "V. A. Tatarenko", "ru": "В. А. Татаренко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Т. М. Радченко", "en": "T. M. Radchenko", "ru": "Т. М. Радченко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. М. Надутов", "en": "V. M. Nadutov", "ru": "В. М. Надутов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Є. Г. Лень", "en": "E. G. Len", "ru": "Е. Г. Лень"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Є. В. Кочелаб", "en": "Ye. V. Kochelab", "ru": "Е. В. Кочелаб"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 2,
+		"list":  [
+			{
+				"doi": "10.15407/mfint.38.01.0001",
+				"or":  "О. М. Івасишин, Є. Г. Лень, В. М. Надутов, В. А. Татаренко, Металлофиз. новейшие технол., 38, № 1: 1 (2016).",
+				"tr":  "O. M. Ivasishin, E. G. Len, V. M. Nadutov, and V. A. Tatarenko, Metallofiz. Noveishie Tekhnol., 38, No. 1: 1 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Надутов, В. А. Татаренко, П. Є. Марковський, Д. Г. Саввакін, Орест Михайлович Івасишин: Сер. Біобібліографія вчених України (Київ: РВВ ІМФ ім. Г. В. Курдюмова НАН України: 2016); ISBN 978-966-02-8031-1.",
+				"tr":  "V. M. Nadutov, V. A. Tatarenko, P. E. Markovsky, and D. G. Savvakin, Orest Mykhailovych Ivasishin: Ser. Biobibliografiya Vchenykh Ukrayiny [Orest Mykhailovych Ivasishin: Ser. Bibliography of Scientists of Ukraine] (Kyiv: RVV IMF im. G. V. Kurdyumova NAN Ukrayiny: 2016); ISBN 978-966-02-8031-1 (in Ukrainian)."
+			}
+		]
+	}
+}

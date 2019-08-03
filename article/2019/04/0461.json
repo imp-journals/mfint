@@ -1,0 +1,118 @@
+{
+	"_id":    "MFiNT.41.04.0461",
+	"year":   2019,
+	"volume": 41,
+	"issue":  4,
+	"pages":  [461,480],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["15.05.2018","11.02.2019"],
+	"PACS":   "81.05.Bx, 81.07.Bc, 81.15.Rs, 81.40.Ef, 81.40.Gh, 83.10.Tv, 83.50.Uv",
+	"title":   {
+		"ua": "Підвищення фізико-механічних та експлуатаційних властивостей електродугових та плазмових покриттів формуванням термічно стабільної здрібненої і нанорозмірної субструктури",
+		"en": "IIncrease of Physical-Mechanical and Operational Properties of Electric Arc and Plasma Sprayed Coatings by the Formation of a Thermally Stable Ground and Nanosize Substructure",
+		"ru": "Повышение физико-механических и эксплуатационных свойств электродуговых и плазменных покрытий формированием термически стабильной измельчённой и наноразмерной субструктуры"
+	},
+	"abstract": {
+		"ua": "У статті наведено результати досліджень по формуванню термічно-стабільної здрібненої полігонізаційної субструктури напорошених покриттів шляхом передрекристалізаційної термічної обробки. Дослідження проводили на прикладі електродугових покриттів із дротів марок Св-08Г2С, 65Г, 12Х18Н10Т, БрАМц 9-2 та плазмових покриттів з порошків ПР-Х18Н9 та ПГ-19М-01. Встановлено вплив тривалості витримки при термічній обробці, величини та виду додаткової деформації на твердість покриттів із зазначених матеріалів. У результаті рентґеноструктурного аналізу показано, що передрекристалізаційна термічна обробка (ПТО) напорошених та деформованих покриттів на режимах, що забезпечують найбільш високі показники фізико-механічних властивостей, викликає подрібнення субструктури і дозволяє формувати термічно-стабільні нанорозмірні елементи. Встановлено вплив додаткової деформації та ПТО на експлуатаційні властивості (міцність зчеплення, зносостійкість) напорошених покриттів.",
+		"en": "The results of the study devoted to a thermally stable ground polygonized substructure formation by the pre-recrystallization heat treatment in sprayed coatings are presented in the article. The investigations are carried out on the example of electric arc sprayed coatings from wires Sv-08G2S, 65G, 12Kh18N10T, BrAMts 9-2 and plasma coatings from powders PR-Kh18N9 and PG-19M-01. The effect of the heat treatment exposure duration, as well as the degree and type of additional deformation, on the hardness of coatings from these materials is established. As a result of x-ray structural analysis, it is shown that pre-recrystallization heat treatment (PHT) of the sprayed and deformed coatings in the regimes, which provide the highest parameters of physical-mechanical properties, causes the substructure grounding and allows the formation of the thermally stable nanoscale elements. The effect of additional deformation and PHT on the operational properties (adhesion strength, wear resistance) of sprayed coatings is established.",
+		"ru": "В статье приведены результаты исследований по формированию термически-стабильной измельчённой полигонизационной субструктуры в напылённых покрытиях путём предрекристаллизационной термической обработки. Исследования проводились на примере электродуговых покрытий из проволок марок Св-08Г2С, 65Г, 12Х18Н10Т, БрАМц 9-2 и плазменных покрытий из порошков ПР-Х18Н9 и ПГ-19М-01. Установлено влияние продолжительности выдержки при термической обработке, величины и вида дополнительной деформации на твёрдость покрытий из указанных материалов. В результате рентгеноструктурного анализа показано, что предрекристаллизационная термическая обработка (ПТО) напылённых и деформированных покрытий на режимах, обеспечивающих наиболее высокие показатели физико-механических свойств, вызывает измельчение субструктуры и позволяет формировать термически-стабильные наноразмерные элементы. Установлено влияние дополнительной деформации и ПТО на эксплуатационные свойства (прочность сцепления, износостойкость) напылённых покрытий."
+	},
+	"keywords": {
+		"ua": "передрекристалізаційна термічна обробка, нанорозмірна субструктура, фізико-механічні властивості напорошених покриттів",
+		"en": "pre-recrystallization heat treatment, nanoscale substructure, physical and mechanical properties of sprayed coatings",
+		"ru": "предрекристаллизационная термическая обработка, наноразмерная субструктура, физико-механические свойства напылённых покрытий"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. М. Дубовий", "en": "O. M. Dubovyy", "ru": "А. Н. Дубовой"},
+			"OID": [250]
+		},
+		{
+			"AID": {"ua": "А. А. Карпеченко", "en": "A. A. Karpechenko", "ru": "А. А. Карпеченко"},
+			"OID": [250]
+		},
+		{
+			"AID": {"ua": "М. М. Бобров", "en": "M. M. Bobrov", "ru": "М. Н. Бобров"},
+			"OID": [250]
+		},
+		{
+			"AID": {"ua": "О. В. Лабарткава", "en": "A. V. Labartkava", "ru": "А. В. Лабарткава"},
+			"OID": [250]
+		},
+		{
+			"AID": {"ua": "Ю. Є. Неделько", "en": "Yu. E. Nedelko", "ru": "Ю. Е. Неделько"},
+			"OID": [250]
+		},
+		{
+			"AID": {"ua": "О. О. Лимар", "en": "O. O. Lymar", "ru": "А. А. Лимарь"},
+			"OID": [250]
+		}
+	],
+	"references": {
+		"count": 12,
+		"list":  [
+			{
+				"doi": "10.1007/s11666-009-9451-x",
+				"or":  "R. Vaßen, H. Kaßner, G. Mauer, and D. Stöver, J. Thermal Spray Technology, 19, Iss. 1–2: 219 (2010).",
+				"tr":  "R. Vaßen, H. Kaßner, G. Mauer, and D. Stöver, J. Thermal Spray Technology, 19, Iss. 1-2: 219 (2010)."
+			},
+			{
+				"doi": "10.1361/105996300770349863",
+				"or":  "B. H. Kear, R. K. Sadangi, M. Jain, R. Yao, Z. Kalman, G. Skandan, and W. E. Mayo, J. Thermal Spray Technology, 9, Iss. 3: 399 (2000).",
+				"tr":  "B. H. Kear, R. K. Sadangi, M. Jain, R. Yao, Z. Kalman, G. Skandan, and W. E. Mayo, J. Thermal Spray Technology, 9, Iss. 3: 399 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Калита, В. В. Яркин, А. В. Касимцев, Г. У. Лубман, Физика и химия обработки материалов, № 5: 29 (2006).",
+				"tr":  "V. I. Kalita, V. V. Yarkin, A. V. Kasimtsev, and G. U. Lubman, Fizika i Khimiya Obrabotki Materialov, No. 5: 29 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. К. Ковнеристый, Металловедение и термическая обработка, № 7: 14 (2005).",
+				"tr":  "Yu. K. Kovneristyy, Metallovedenie i Termicheskaya Obrabotka, No. 7: 14 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. В. Куракова, В. В. Молоканов, В. И. Калита, Физика и химия обработки материалов, № 4: 36 (2007).",
+				"tr":  "N. V. Kurakova, V. V. Molokanov, and V. I. Kalita, Fizika i Khimiya Obrabotki Materialov, No. 4: 36 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Алехин, Е. А. Лесюк, А. И. Капранова, Перспективные технологии и оборудование для материаловедения, микро- и наноэлектроники (Астрахань: МГНУ: 2006).",
+				"tr":  "V. P. Alekhin, E. A. Lesyuk, and A. I. Kapranova, Perspektivnye Tekhnologii i Oborudovaniye dlya Materialovedeniya, Mikro- i Nanoelektroniki [Perspective Technologies and Equipment for Materials Science, Micro- and Nanoelectronics] (Astrakhan': MGNU: 2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Воронов, Физическая мезомеханика, № 8: 113 (2005).",
+				"tr":  "A. V. Voronov, Fizicheskaya Mezomekhanika, No. 8: 113 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Дубовий, М. М. Бобров, Ю. Є. Неделько, О. В. Чечель, Збірник наукових праць НУК, № 4: 35 (2016).",
+				"tr":  "O. M. Dubovyy, M. M. Bobrov, Yu. Ye. Nedel'ko, and O. V. Chechel', Zbirnyk Naukovykh Prats' NUK, No. 4: 35 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/mfint.39.02.0209",
+				"or":  "О. М. Дубовий, А. А. Карпеченко, М. М. Бобров, О. О. Жданов, Т. О. Макруха, Ю. Є. Неделько, Металлофиз. новейшие технол., 39, № 2: 209 (2017).",
+				"tr":  "O. M. Dubovyy, A. A. Karpechenko, M. M. Bobrov, O. O. Zhdanov, T. O. Makrukha, and Yu. E. Nedelko, Metallofiz. Noveishie Tekhnol., 39, No. 2: 209 (2017) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Г. Одинцов, Упрочнение и отделка деталей поверхностным пластическим деформированием: Справочник (Москва: Машиностроение: 1987).",
+				"tr":  "L. G. Odintsov, Uprochnenie i Otdelka Detaley Poverkhnostnym Plasticheskim Deformirovaniem: Spravochnik [Hardening and Conditioning of Parts by Surface Plastic Deformation: Handbook] (Moscow: Mashinostroenie: 1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. М. Бородулин, Е. И. Мошкевич, Нержавеющие стали (Москва: Металлургия: 1973).",
+				"tr":  "G. M. Borodulin and E. I. Moshkevich, Nerzhaveyushchie Stali [Stainless Steel] (Moscow: Metallurgiya: 1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Й. Пінчук, Організація експерименту при моделюванні та оптимізації технічних систем (Дніпропетровськ: Дніпро-VAL: 2009).",
+				"tr":  "S. Y. Pinchuk, Orhanizatsiya Eksperymentu pry Modelyuvanni ta Optymizatsiyi Tekhnichnykh System [Experiment Organization in the Simulation and Optimization of Technical Systems] (Dnipropetrovsk: Dnipro-VAL: 2009) (in Ukrainian)."
+			}
+		]
+	}
+}

@@ -1,0 +1,95 @@
+{
+	"_id":    "MFiNT.36.11.1465",
+	"year":   2014,
+	"volume": 36,
+	"issue":  11,
+	"pages":  [1465,1472],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["29.11.2013","30.10.2014"],
+	"PACS":   "72.25.Mk, 73.40.Gk, 74.50.+r, 74.78.Fk, 74.81.Fa, 85.25.-j, 85.75.-d",
+	"title":   {
+		"ua": "Джозефсонівський $\\pi$-контакт в структурі MoRe—Ni$_{2}$MnGa—I—Pb/Sn",
+		"en": "Josephson $\\pi$-Contact in the MoRe—Ni$_{2}$MnGa—I—Pb/Sn Structure",
+		"ru": "Джозефсоновский $\\pi$-контакт в структуре MoRe—Ni$_{2}$MnGa—I—Pb/Sn"
+	},
+	"abstract": {
+		"ua": "Виготовлено та досліджено Джозефсонові контакти $S—F—I—S$, в котрих, як $F$-шар, використано феромагнетик з властивістю пам’яті форми Ni$_{2}$MnGa. Показано можливість створення так званого $\\pi$-контакту. Виявлено особливості поведінки досліджених гетероструктур. Розраховано намагнетованість нанорозмірної тонкої плівки використаного феромагнетика.",
+		"en": "Josephson $S—F—I—S$ junctions are fabricated and investigated. In these junctions, the Ni$_{2}$MnGa ferromagnet with shape-memory effect is used as the $F$ layer. Possibility of fabrication of so-called $\\pi$-junction is shown. Features of behaviour of the studied heterostructures are revealed. Magnetization of used nanoscale ferromagnetic thin film is calculated.",
+		"ru": "Изготовлены и исследованы джозефсоновские контакты $S—F—I—S$, в которых в качестве $F$-слоя использован ферромагнетик со свойствами памяти формы Ni$_{2}$MnGa. Показана возможность создания так называемого $\\pi$-контакта. Выявлены особенности поведения исследованных гетероструктур. Рассчитана намагниченность наноразмерной тонкой плёнки применённого ферромагнетика."
+	},
+	"keywords": {
+		"ua": "струм Джозефсона, надпровідність, феромагнетизм, магнітне поле, $\\pi$-контакт",
+		"en": "Josephson current, superconductivity, ferromagnetism, magnetic field, $\\pi$-contact",
+		"ru": "ток Джозефсона, сверхпроводимость, ферромагнетизм, магнитное поле, $\\pi$-контакт"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Е. М. Руденко", "en": "Eh. M. Rudenko", "ru": "Э. М. Руденко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "І. В. Короташ", "en": "I. V. Korotash", "ru": "И. В. Короташ"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. О. Краковний", "en": "A. O. Krakovny", "ru": "А. А. Краковный"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. К. Перепелиця", "en": "V. K. Perepylytsya", "ru": "В. К. Перепелица"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 9,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "В. В. Больгинов В. С. Столяров, Д. С. Собанин, А. Л. Карпович, В. В. Рязанов, Письма в ЖЭТФ, 95, № 7: 408 (2012).",
+				"tr":  "V. V. Bol'ginov V. S. Stolyarov, D. S. Sobanin, A. L. Karpovich, and V. V. Ryazanov, Pis'ma v ZhETF, 95, No. 7: 408 (2012) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.4723576",
+				"or":  "T. I. Larkin, V. V. Bol’ginov, V. S. Stolyarov, V. V. Ryazanov, I. V. Vernik, S. K. Tolpygo, and O. A. Mukhanov, Appl. Phys. Lett., 100: 222601 (2012).",
+				"tr":  "T. I. Larkin, V. V. Bol'ginov, V. S. Stolyarov, V. V. Ryazanov, I. V. Vernik, S. K. Tolpygo, and O. A. Mukhanov, Appl. Phys. Lett., 100: 222601 (2012)."
+			},
+			{
+				"doi": "10.1070/PU2003v046n06ABEH001339",
+				"or":  "A. Н. Васильев, В. Д. Бучельников, Т. Такаги, В. В. Ховайло, Э. И. Эстрин, Успехи физических наук, 173: 577 (2003).",
+				"tr":  "A. N. Vasil'ev, V. D. Buchel'nikov, T. Takagi, V. V. Khovailo, and E. I. Estrin, Phys. Usp., 46: 559 (2003)."
+			},
+			{
+				"doi": "10.1070/PU2004v047n07ABEH001873",
+				"or":  "В. В. Рязанов, В. А. Обознов, В. В. Больгинов, А. С. Прокофьев, А. К. Феофанов, Успехи физических наук, 174: 795 (2004).",
+				"tr":  "V. V. Ryazanov, V. A. Oboznov, V. V. Bol'ginov, A. S. Prokof'ev, and A. K. Feofanov, Phys. Usp., 47: 732 (2004)."
+			},
+			{
+				"doi": "10.1070/PU1999v042n08ABEH000600",
+				"or":  "В. В. Рязанов, Успехи физических наук, 169: 920 (1999).",
+				"tr":  "V. V. Ryazanov, Phys. Usp., 42: 825 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Шмидт, Введение в физику сверхпроводников (Москва: МЦНМО: 2000).",
+				"tr":  "V. V. Shmidt, Vvedenie v Fiziku Sverkhprovodnikov (Moscow: MTsNMO: 2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. М. Карпук, Д. А. Костюк, Ю. А. Кузавко, В. Г. Шавров, Журнал технической физики, 79, № 1: 86 (2009).",
+				"tr":  "M. M. Karpuk, D. A. Kostyuk, Yu. A. Kuzavko, and V. G. Shavrov, Zhurnal Tekhnicheskoy Fiziki, 79, No. 1: 86 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. И. Кауров, В. Г. Пушин, А. В. Королев, В. А. Казанцев, Е. Б. Белозеров, Е. Б. Марченкова, Журнал технической физики, 82, № 2: 50 (2012).",
+				"tr":  "N. I. Kaurov, V. G. Pushin, A. V. Korolev, V. A. Kazantsev, E. B. Belozerov, and E. B. Marchenkova, Zhurnal Tekhnicheskoy Fiziki, 82, No. 2: 50 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. М. Мирзабабаев, Физика твёрдого тела, 43: 1229 (2001).",
+				"tr":  "R. M. Mirzababaev, Fizika Tverdogo Tela, 43: 1229 (2001) (in Russian)."
+			}
+		]
+	}
+}

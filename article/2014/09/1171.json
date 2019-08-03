@@ -1,0 +1,192 @@
+{
+	"_id":    "MFiNT.36.09.1171",
+	"year":   2014,
+	"volume": 36,
+	"issue":  9,
+	"pages":  [1171,1187],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["04.02.2014","06.06.2014"],
+	"PACS":   "61.72.S-, 66.30.Fq, 66.30.Ny, 68.35.Fx, 81.20.Vj, 81.40.Vw, 81.70.Jb",
+	"title":   {
+		"ua": "Дифузія за дії ударного стиснення та змінного електричного струму в умовах високих температур",
+		"en": "Diffusion under the Action of Shock Compression and Alternating Electric Current at High Temperatures",
+		"ru": "Диффузия при действии ударного сжатия и переменного электрического тока в условиях высоких температур"
+	},
+	"abstract": {
+		"ua": "За допомогою метод фізико-хемічної аналізи досліджено само- та гетеродифузію у залізі, кобальті та нікелі при одночасному впливі ударного стискання та змінного електричного струму за високих температур. Визначено розподіл атомів та їх локалізацію у дифузійній зоні зразків, проведено оцінку рухливости атомів у них і встановлено механізми міґрації атомів при зазначених обробляннях.",
+		"en": "At the high temperatures, the self- and heterodiffusion in iron, cobalt and nickel under simultaneous action of shock compression and alternating electric current are investigated using the methods of physicochemical analysis. The distribution of atoms and their localization within the diffusion zone of samples are determined. The estimation of the atoms’ mobility is carried out, and mechanisms of the atoms’ migration because of mentioned treatments are ascertained.",
+		"ru": "С помощью методов физико-химического анализа исследованы само- и гетеродиффузия в железе, кобальте и никеле при одновременном действии ударного сжатия и переменного электрического тока в условиях высоких температур. Определено распределение атомов и их локализация в диффузионной зоне образцов, проведена оценка подвижности атомов и установлены механизмы миграции атомов при указанных обработках."
+	},
+	"keywords": {
+		"ua": "дифузія, рухливість атомів, ударне стиснення, магнітне поле",
+		"en": "diffusion, atoms’ mobility, shock compression, magnetic field",
+		"ru": "диффузия, подвижность атомов, ударное сжатие, магнитное поле"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. І. Кучук-Яценко", "en": "S. I. Kuchuk-Yatsenko", "ru": "С. И. Кучук-Яценко"},
+			"OID": [5]
+		},
+		{
+			"AID": {"ua": "Г. К. Харченко", "en": "G. K. Kharchenko", "ru": "Г. К. Харченко"},
+			"OID": [5]
+		},
+		{
+			"AID": {"ua": "В. М. Міронов", "en": "V. M. Mironov", "ru": "В. М. Миронов"},
+			"OID": [471]
+		},
+		{
+			"AID": {"ua": "Д. В. Міронов", "en": "D. V. Mironov", "ru": "Д. В. Миронов"},
+			"OID": [471]
+		},
+		{
+			"AID": {"ua": "В. Ф. Мазанко", "en": "V. F. Mazanko", "ru": "В. Ф. Мазанко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Д. С. Герцрікен", "en": "D. S. Gertsriken", "ru": "Д. С. Герцрикен"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. Є. Богданов", "en": "S. E. Bogdanov", "ru": "С. Е. Богданов"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 26,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Д. С. Герцрикен, В. Ф. Мазанко, В. М. Фальченко, Импульсная обработка и массоперенос в металлах при низких температурах (Киев: Наукова думка: 1991).",
+				"tr":  "D. S. Gertsriken, V. F. Mazanko, and V. M. Fal'chenko, Impul'snaya Obrabotka i Massoperenos v Metallakh pri Nizkikh Temperaturakh (Kiev: Naukova Dumka: 1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Миронов, В. Ф. Мазанко, Д. С. Герцрикен, А. В. Филатов, Массоперенос и фазообразование в металлах при импульсных воздействиях (Самара: Самарский университет: 2001).",
+				"tr":  "V. M. Mironov, V. F. Mazanko, D. S. Gertsriken, and A. V. Filatov, Massoperenos i Fazoobrazovanie v Metallakh pri Impul'snykh Vozdeystviyakh (Samara: Samarskiy Universitet: 2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Миронов, Само- и гетеродиффузия в металлах при действии магнитных полей и импульсных деформаций (Автореф. дис.  д-ра физ.-мат. наук) (Самара: 2003).",
+				"tr":  "V. M. Mironov, Samo- i Geterodiffuziya v Metallakh pri Deystvii Magnitnykh Poley i Impul'snykh Deformatsiy (Autoref. Dis. ... Dr. Phys.-Math. Sci.) (Samara: 2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Игнатенко, Г. К. Харченко, Способ сварки давлением, А.с. 404508 СССР, МКИ В 23 К 20/00 (Опубл. 14 декабря 1973, бюл. 44).",
+				"tr":  "A. I. Ignatenko and G. K. Kharchenko, Sposob Svarki Davleniem, A.s. 404508 SSSR, MKI B 23 K 20/00 (Publ. December 14, 1973, bull. 44) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. М. Гуревич, Г. К. Харченко, А. И. Игнатенко, Изготовление трубчатых переходников ниобий–железо, ниобий–сталь ударной сваркой в вакууме (Информационное письмо № 53-1030) (Киев: ИЭС им. Е. О. Патона НАНУ: 1976).",
+				"tr":  "S. M. Gurevich, G. K. Kharchenko, and A. I. Ignatenko, Izgotovlenie Trubchatyh Perekhodnikov Niobiy–Zhelezo, Niobiy–Stal' Udarnoy Svarkoy v Vakuume (Informatsionnoe pis'mo No. 53-1030) (Kiev: E. O. Paton Electric Welding Institute of the N.A.S. of Ukraine: 1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. А. Кочергин, Сварка давлением (Ленинград: Машиностроение: 1972).",
+				"tr":  "K. A. Kochergin, Svarka Davleniem (Leningrad: Mashinostroenie: 1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Кучук-Яценко, Контактная стыковая сварка оплавлением (Киев: Наукова думка: 1992).",
+				"tr":  "S. I. Kuchuk-Yatsenko, Kontaktnaya Stykovaya Svarka Oplavleniem (Kiev: Naukova Dumka: 1992) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Кучук-Яценко, М. В. Богорский, А. В. Дидковский, Автоматическая сварка, № 12: 3 (1999).",
+				"tr":  "S. I. Kuchuk-Yatsenko, M. V. Bogorskiy, and A. V. Didkovskiy, Avtomaticheskaya Svarka, No. 12: 3 (1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Лариков, В. М. Фальченко, В. Ф. Мазанко, Д. С. Герцрикен, ДАН СССР, 221, № 5: 1073 (1975).",
+				"tr":  "L. N. Larikov, V. M. Fal'chenko, V. F. Mazanko, and D. S. Gertsriken, DAN SSSR, 221, No. 5: 1073 (1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Лариков, В. М. Фальченко, В. Ф. Мазанко, ДАН УССР. Сер. А, № 2: 169 (1975).",
+				"tr":  "L. N. Larikov, V. M. Fal'chenko, and V. F. Mazanko, DAN Ukr.SSR. Ser. A, No. 2: 169 (1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Лариков, В. М. Фальченко, В. Ф. Мазанко, С. М. Гуревич, А. И. Игнатенко, Г. К. Харченко, ДАН УССР. Сер. А, № 7: 696 (1975).",
+				"tr":  "L. N. Larikov, V. M. Fal'chenko, V. F. Mazanko, S. M. Gurevich, A. I. Ignatenko, and G. K. Kharchenko, DAN Ukr.SSR. Ser. A, No. 7: 696 (1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Лариков, В. М. Фальченко, В. Ф. Мазанко, О. М. Денисова, Влияние дефектов кристаллической структуры на диффузию и массоперенос при импульсном воздействии (Киев: АН УССР: 1980).",
+				"tr":  "L. N. Larikov, V. M. Fal'chenko, V. F. Mazanko, and O. M. Denisova, Vliyanie Defektov Kristallicheskoy Struktury na Diffuziyu i Massoperenos pri Impul'snom Vozdeystvii (Kiev: AN Ukr.SSR: 1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Маннинг, Кинетика диффузии в металлах (Москва: Мир: 1971).",
+				"tr":  "J. Manning, Kinetika Diffuzii v Metallakh (Diffusion Kinetics for Atoms in Crystals) (Moscow: Mir: 1971) (Russian translation)."
+			},
+			{
+				"doi": "10.1007/978-3-642-61544-3",
+				"or":  "H. Risken, The Fokker–Planck Equation: Methods of Solutions and Applications. Springer Series in Synergetics. Vol. 18 (Berlin: Springer-Verlag: 1989).",
+				"tr":  "H. Risken, The Fokker–Planck Equation: Methods of Solutions and Applications. Springer Series in Synergetics. Vol. 18 (Berlin: Springer-Verlag: 1989)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Кучук-Яценко, Г. К. Харченко, В. Ф. Загадарчук, В. Ф. Мазанко, Автоматическая сварка, № 2: 16 (2004).",
+				"tr":  "S. I. Kuchuk-Yatsenko, G. K. Kharchenko, V. F. Zagadarchuk, and V. F. Mazanko, Avtomaticheskaya Svarka, No. 2: 16 (2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Кучук-Яценко, Г. К. Харченко, Ю. В. Фальченко, С. Г. Григоренко, В. Ф. Мазанко, А. В. Филатов, Металлофиз. новейшие технол., 22, № 10: 63 (2000).",
+				"tr":  "S. I. Kuchuk-Yatsenko, G. K. Kharchenko, Yu. V. Fal'chenko, S. G. Grigorenko, V. F. Mazanko, and A. V. Filatov, Metallofiz. Noveishie Tekhnol., 22, No. 10: 63 (2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Кучук-Яценко, Г. К. Харченко, Г. М. Григоренко, Ю. В. Фальченко, Т. Г. Таранова, Я. П. Грицкив, С. Г. Григоренко, В. Ф. Загадорчук, Автоматическая сварка, № 2: 3 (2002).",
+				"tr":  "S. I. Kuchuk-Yatsenko, G. K. Kharchenko, G. M. Grigorenko, Yu. V. Fal'chenko, T. G. Taranova, Ya. P. Gritskiv, S. G. Grigorenko, and V. F. Zagadorchuk, Avtomaticheskaya Svarka, No. 2: 3 (2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Г. Григоренко, Труды I Всеукраинской научно-технической конференции молодых ученых и специалистов «Сварка и родственные технологии» (Киев: 2001).",
+				"tr":  "S. G. Grigorenko, Trudy I Vseukrainskoy Nauchno-Tekhnicheskoy Konferentsii Molodykh Uchenykh i Spetsialistov 'Svarka i Rodstvennye Tekhnologii' (Kiev: 2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Кучук-Яценко, Б. И. Казымов, Ю. В. Швец, Автоматическая сварка, № 2: (1997).",
+				"tr":  "S. I. Kuchuk-Yatsenko, B. I. Kazymov, and Yu. V. Shvets, Avtomaticheskaya Svarka, No. 2: (1997) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Троицкий, Л. Т. Розно, Физика твердого тела, 12, № 1: 203 (1970).",
+				"tr":  "O. A. Troitskiy and L. T. Rozno, Fiz. Tverd. Tela, 12, No. 1: 203 (1970) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Р. Рябов, И. С. Дыхно, И. М. Парнета, И. В. Зволинский, Д. С. Герцрикен, В. М. Фальченко, Автоматическая сварка, № 4: 15 (1993).",
+				"tr":  "V. R. Ryabov, I. S. Dykhno, I. M. Parneta, I. V. Zvolinskiy, D. S. Gertsriken, and V. M. Fal'chenko, Avtomaticheskaya Svarka, No. 4: 15 (1993) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. С. Герцрикен, Ю. А. Сергеева, В. М. Тышкевич, В. М. Фальченко, Физика структуры и свойств твердых тел (Куйбышев: Куйбышевский университет: 1987).",
+				"tr":  "D. S. Gertsriken, Yu. A. Sergeeva, V. M. Tyshkevich, and V. M. Fal'chenko, Fizika Struktury i Svoystv Tverdykh Tel (Kuybyshev: Kuybyshevskiy Universitet: 1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. К. Харченко, С. М. Гуревич, А. И. Игнатенко, В. Ф. Мазанко, Д. С. Герцрикен, В. М. Фальченко, В. М. Тышкевич, Автоматическая сварка, № 10: 73 (1983).",
+				"tr":  "G. K. Kharchenko, S. M. Gurevich, A. I. Ignatenko, V. F. Mazanko, D. S. Gertsriken, V. M. Fal'chenko, and V. M. Tyshkevich, Avtomaticheskaya Svarka, No. 10: 73 (1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Мазанко, Д. С. Герцрикен, В. М. Миронов, О. А. Миронова, Металлофиз. новейшие технол., 31, № 9: 1239 (2009).",
+				"tr":  "V. F. Mazanko, D. S. Gertsriken, V. M. Mironov, and O. A. Mironova, Metallofiz. Noveishie Tekhnol., 31, No. 9: 1239 (2009) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.1709056",
+				"or":  "A. L. Ruoff, J. Appl. Phys., 38, No. 10: 3999 (1967).",
+				"tr":  "A. L. Ruoff, J. Appl. Phys., 38, No. 10: 3999 (1967)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. И. Медовар, Л. Г. Пузрин, В. В. Ивон, А. К. Цыкуленко, ДАН СССР, 235, № 2: 335 (1977).",
+				"tr":  "B. I. Medovar, L. G. Puzrin, V. V. Ivon, and A. K. Tsykulenko, DAN SSSR, 235, No. 2: 335 (1977) (in Russian)."
+			}
+		]
+	}
+}

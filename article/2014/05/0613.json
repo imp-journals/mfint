@@ -1,0 +1,114 @@
+{
+	"_id":    "MFiNT.36.05.0613",
+	"year":   2014,
+	"volume": 36,
+	"issue":  5,
+	"pages":  [613,632],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["04.12.2013"],
+	"PACS":   "68.37.Ps, 68.47.Gh, 68.55.J-, 78.20.Ci, 78.30.Hv, 81.15.Gh, 82.50.-m",
+	"title":   {
+		"ua": "Структура та фотокаталітичні властивості наноплівок діоксиду титану, осаджених методом реактивного магнетронного напилення",
+		"en": "Structure and Photocatalytic Properties of Titania Nanofilms Deposited by Reactive Magnetron Sputtering",
+		"ru": "Структура и фотокаталитические свойства наноплёнок диоксида титана, осаждённых методом реактивного магнетронного напыления"
+	},
+	"abstract": {
+		"ua": "Діоксид титану — один з небагатьох фотокаталізаторів, які не завдають шкоду навколишньому середовищу. Крім цього, він має низку інших цікавих та привабливих властивостей для використання в промисловості. Ми описуємо реактивне осадження наношарів TiO$_{2}$ в циліндричному газовому магнетроні постійного струму. Одержані плівки нанорозмірних товщин досліджувались з використанням еліпсометрії, Раманової спектроскопії, атомно-силової мікроскопії та методів оптичної спектроскопії. Одержані результати показали істотний вплив умов осадження плівок на їх структуру, морфологію та фотокаталітичні властивості.",
+		"en": "Titanium dioxide is the environmentally friendly photocatalyst with many interesting and attractive properties for industrial applications. We describe the reactive deposition of TiO$_{2}$ nanofilms by inverted gas cylindrical DC magnetron. The obtained samples are characterized by means of ellipsometry, Raman spectroscopy, AFM, and optical spectroscopy. The results show that structure, morphology, and photocatalytic activity of films vary with the variation of deposition conditions.",
+		"ru": "Диоксид титана – один из немногих фотокатализаторов, не наносящих ущерба окружающей среде. Кроме того, он имеет ряд других интересных и привлекательных свойств для использования в промышленности. Мы описываем реактивное осаждение нанослоёв TiO$_{2}$ в цилиндрическом газовом магнетроне постоянного тока. Полученные плёнки наноразмерных толщин исследовались с использованием атомно-силовой микроскопии, рамановской спектроскопии, эллипсометрии и оптической спектроскопии. Полученные результаты показали существенное влияние условий осаждения плёнок на их структуру, морфологию и фотокаталитическую активность."
+	},
+	"keywords": {
+		"ua": "наноплівки, покриття із діоксиду титану, реактивне магнетронне осадження, фотокаталіз",
+		"en": "nanofilms, titanium dioxide coatings, reactive magnetron sputtering, photocatalysis",
+		"ru": "наноплёнки, покрытия из диоксида титана, реактивное магнетронное осаждение, фотокатализ"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. А. Гончаров", "en": "A. A. Goncharov", "ru": "А. А. Гончаров"},
+			"OID": [25]
+		},
+		{
+			"AID": {"ua": "А. М. Добровольський", "en": "A. N. Dobrovolsky", "ru": "А. Н. Добровольский"},
+			"OID": [25]
+		},
+		{
+			"AID": {"ua": "Є. Г. Костін", "en": "E. G. Kostin", "ru": "Е. Г. Костин"},
+			"OID": [27]
+		},
+		{
+			"AID": {"ua": "І. С. Петрик", "en": "I. S. Petrik", "ru": "И. С. Петрик"},
+			"OID": [21]
+		},
+		{
+			"AID": {"ua": "О. К. Фролова", "en": "E. K. Frolova", "ru": "Е. К. Фролова"},
+			"OID": [25]
+		}
+	],
+	"references": {
+		"count": 12,
+		"list":  [
+			{
+				"doi": "10.1016/j.stam.2004.06.003",
+				"or":  "S. Tanemura, L. Miao, W. Wunderlich, M. Tanemura, Yu. Mori, Sh. Toh, and K. Kaneko, Sci. Technol. Adv. Mat., 6: 11 (2005).",
+				"tr":  "S. Tanemura, L. Miao, W. Wunderlich, M. Tanemura, Yu. Mori, Sh. Toh, and K. Kaneko, Sci. Technol. Adv. Mat., 6: 11 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Блонский, А. А. Гончаров, А. В. Демчишин, А. Н. Евсюков, Е. Г. Костин, В. А. Сальников, А. Г. Терещенко, Л. Н. Ткаченко, Журнал технической физики, 79, № 7: 127 (2009).",
+				"tr":  "I. V. Blonskij, A. A. Goncharov, A. V. Demchishin, A. N. Evsjukov, E. G. Kostin, V. A. Sal'nikov, A. G. Tereshhenko, and L. N. Tkachenko, Zhurnal Tekhnicheskoi Fiziki, 79, No. 7: 127 (2009)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2006.07.044",
+				"or":  "Y. H. Han, S. J. Jung, and J. J. Lee, Surf. Coat. Technol., 201, Nos. 9–11: 5387 (2007).",
+				"tr":  "Y. H. Han, S. J. Jung, and J. J. Lee, Surf. Coat. Technol., 201, Nos. 9–11: 5387 (2007)."
+			},
+			{
+				"doi": "10.1002/sia.1296",
+				"or":  "S. Hashimoto and A. Tanaka, Surf. Interface Anal., 34, No. 1: 262 (2002).",
+				"tr":  "S. Hashimoto and A. Tanaka, Surf. Interface Anal., 34, No. 1: 262 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Ellmer and R. Mientus, Proc. of 11 Conf. on High Vacuum, Interfaces and Thin Films (March 7–11, 1994, Dresden), p. 131.",
+				"tr":  "K. Ellmer and R. Mientus, Proc. of 11 Conf. on High Vacuum, Interfaces and Thin Films (March 7–11, 1994, Dresden), p. 131."
+			},
+			{
+				"doi": "",
+				"or":  "R. J. Gonzalez, Raman Infrared, X-Ray and EELS Studies of Nanophase Titania (Thesis of Disser. for PhD) (Blacksburg: Virginia Polytechnic Institute and State University: 1996).",
+				"tr":  "R. J. Gonzalez, Raman Infrared, X-Ray and EELS Studies of Nanophase Titania (Thesis of Disser. for PhD) (Blacksburg: Virginia Polytechnic Institute and State University: 1996)."
+			},
+			{
+				"doi": "10.1088/0022-3735/16/12/023",
+				"or":  "R. Swanepoel, J. Phys. E: Sci. Instrum., 16: 1214 (1983).",
+				"tr":  "R. Swanepoel, J. Phys. E: Sci. Instrum., 16: 1214 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Valeev, Opt. Spektrosk., 15: 269 (1963).",
+				"tr":  "A. Valeev, Opt. Spektrosk., 15: 269 (1963)."
+			},
+			{
+				"doi": "",
+				"or":  "S. K. Deb, R. Ellingson, S. Ferrere, A. J. Frank, B. A. Gregg, A. J. Nozik, N. Park, and G. Schlichthorl, World Conference and Exhibition on Photovoltaic Solar Energy Conversion (July 6–10, 1998, Vienna), p. 6.",
+				"tr":  "S. K. Deb, R. Ellingson, S. Ferrere, A. J. Frank, B. A. Gregg, A. J. Nozik, N. Park, and G. Schlichthorl, World Conference and Exhibition on Photovoltaic Solar Energy Conversion (July 6–10, 1998, Vienna), p. 6."
+			},
+			{
+				"doi": "10.1016/S0167-5729(02)00100-0",
+				"or":  "U. Diebold, Surf. Sci. Rep., 48: 53 (2003).",
+				"tr":  "U. Diebold, Surf. Sci. Rep., 48: 53 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "І. С. Петрик, Н. П. Смірнова, О. К. Фролова, O. В. Турчин, Г. М. Єременко, Хімія, фізика та технологія поверхні, 10: 90 (2004).",
+				"tr":  "I. S. Petryk, N. P. Smirnova, O. K. Frolova, O. V. Turchyn, and H. M. Yeremenko, Khimiya, Fizyka ta Tekhnolohiya Poverkhni (Chemistry, Physics and Technology of Surface), 10: 90 (2004) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "І. С. Петрик, Н. П. Смірнова, А. М. Єременко, О. К. Фролова, О. І. Оранська, Фізика і хімія твердого тіла, 13, № 2: 242 (2012).",
+				"tr":  "I. S. Petryk, N. P. Smirnova, A. M. Yeremenko, O. K. Frolova, and O. I. Orans'ka, Fizyka i Khimiya Tverdoho Tila (Physics and Chemistry of Solid State), 13, No. 2: 242 (2012) (in Ukrainian)."
+			}
+		]
+	}
+}

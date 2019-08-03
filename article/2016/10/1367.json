@@ -1,0 +1,115 @@
+{
+	"_id":    "MFiNT.38.10.1367",
+	"year":   2016,
+	"volume": 38,
+	"issue":  10,
+	"pages":  [1367,1378],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["22.06.2016"],
+	"PACS":   "65.40.Ba, 65.40.De, 65.60.+a, 66.70.Hk, 68.60.Dv, 73.61.Ng, 81.05.Je, 81.15.Cd",
+	"title":   {
+		"ua": "Теплофізичні властивості склокристалічних ізоляційних шарів для пласких нагрівних елементів",
+		"en": "Thermal Properties of Insulating Glass-Ceramic Layers for Flat Heating Elements",
+		"ru": "Теплофизические свойства стеклокристаллических изоляционных слоёв для плоских нагревательных элементов"
+	},
+	"abstract": {
+		"ua": "Здійснено синтезу ізоляційних покриттів на основі склокристалічного матеріялу системи PbO—ZnO—B$_{2}$O$_{3}$ та на основі сполук AlN і MgO, одержаних методою магнетронного розпорошення. Досліджено теплофізичні властивості сталі 40Х13 та алюмомагнійового стопу АМг2, які використовували в якості підкладинок. Методою лазерного спалаху (LFA) досліджено тепломісткість, температуропровідність і теплопровідність одержаних покриттів, які порівняно із аналогічними властивостями підкладинок. Проаналізовано можливості використання одержаних ізоляційних покриттів в якості функціональних шарів для пласких нагрівних елементів.",
+		"en": "The insulating coatings based on both glass-ceramic material of the PbO—ZnO—B$_{2}$O$_{3}$ system and the AlN and MgO compounds obtained by magnetron sputtering are synthesized. The thermophysical properties of stainless steel 40X13 and aluminium—magnesium alloy AMg2 used as substrates are studied. The specific heat, thermal diffusivity, and heat conductivity of the obtained coatings and substrates are investigated by the method of laser flash analysis (LFA). The possibilities of using obtained insulating coatings as the functional layers for the flat heating elements are analysed.",
+		"ru": "Проведён синтез изоляционных покрытий на основе стеклокристаллического материала системы PbO—ZnO—B$_{2}$O$_{3}$, а также на основе соединений AlN и MgO, полученных методом магнетронного распыления. Исследованы теплофизические свойства стали 40Х13 и алюмомагниевого сплава АМг2, которые использовались в качестве подложек. Методом лазерной вспышки (LFA) исследованы теплоёмкость, температуропроводность и теплопроводность полученных покрытий, которые сравнены с аналогичными свойствами подложек. Проанализированы возможности использования полученных изоляционных покрытий в качестве функциональных слоёв для плоских нагревательных элементов."
+	},
+	"keywords": {
+		"ua": "склокристалічний матеріял, ізоляційні покриття, теплофізичні властивості, плаский нагрівний елемент",
+		"en": "glass-ceramic material, insulation coatings, thermophysical properties, flat heating element",
+		"ru": "стеклокристаллический материал, изоляционные покрытия, теплофизические свойства, плоский нагревательный элемент"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "З. А. Дурягіна", "en": "Z. А. Duriagina", "ru": "З. А. Дурягина"},
+			"OID": [204, 445]
+		},
+		{
+			"AID": {"ua": "Т. М. Ковбасюк", "en": "Т. М. Kovbasyuk", "ru": "Т. М. Ковбасюк"},
+			"OID": [204]
+		},
+		{
+			"AID": {"ua": "M. Zagula-Yavorska", "en": "M. Zagula-Yavorska", "ru": "M. Zagula-Yavorska"},
+			"OID": [493]
+		},
+		{
+			"AID": {"ua": "С. А. Беспалов", "en": "S. A. Bespalov", "ru": "С. А. Беспалов"},
+			"OID": [24]
+		}
+	],
+	"references": {
+		"count": 13,
+		"list":  [
+			{
+				"doi": "10.15407/ufm.17.01.029",
+				"or":  "З. А. Дурягіна, Т. М. Ковбасюк, С. А. Беспалов, Успехи физики металлов, 17, № 1: 29 (2016).",
+				"tr":  "Z. A. Duriagina, T. M. Kovbasyuk, and S. A. Bespalov, Uspehi Fiziki Metallov, 17, No. 1: 29 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. М. Павлушкин, М. А. Калмановская, Неорганические материалы, 12, № 11: 2043 (1976).",
+				"tr":  "N. M. Pavlushkin and M. A. Kalmanovskaya, Neorganicheskie Materialy, 12, No. 11: 2043 (1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "З. А. Дурягіна, С. А. Беспалов, В. Я. Підкова, Д. Ю. Полоцький, Металлофиз. новейшие технол., 33, спецвып.: 393 (2011).",
+				"tr":  "Z. A. Duryagina, S. A. Bespalov, V. Ya. Pidkova, and D. Yu. Polockyj, Metalofiz. Noveishie Tekhnol., 33, Special Issue: 393 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "З. А. Дурягіна, С. А. Беспалов, А. К. Борисюк, В. Я. Підкова, Металлофиз. новейшие технол., 33, № 5: 615 (2011).",
+				"tr":  "Z. A. Duryagina, S. A. Bespalov, A. K. Borysyuk, and V. Ya. Pidkova, Metallofiz. Noveishie Tekhnol., 33, No. 5: 615 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Пономарев, С. В. Мищенко, А. Г. Дивин, В. А. Вертоградский, А. А. Чуриков, Теоретические и практические основы теплофизических измерений (Ред. С. В. Пономарев) (Москва: Физматлит: 2008).",
+				"tr":  "S. V. Ponomarev, S. V. Mishchenko, A. G. Divin, V. A. Vertogradskiy, and A. A. Churikov, Teoreticheskie i Prakticheskie Osnovy Teplofizicheskikh Izmereniy (Ed. S. V. Ponomarev) (Moscow: Fizmatlit: 2008) (in Russian)."
+			},
+			{
+				"doi": "10.1023/A:1011360025333",
+				"or":  "A. I. Ermolaeva, Glass Physics and Chemistry, 27, No. 4: 306 (2001).",
+				"tr":  "A. I. Ermolaeva, Glass Physics and Chemistry, 27, No. 4: 306 (2001)."
+			},
+			{
+				"doi": "10.1007/s10832-007-9023-8",
+				"or":  "J. Honkamo, J. Hannu, H. Jantunen, M. Moilanen, and W. Mielcarek, J. Electroceram., 18: 175 (2007).",
+				"tr":  "J. Honkamo, J. Hannu, H. Jantunen, M. Moilanen, and W. Mielcarek, J. Electroceram., 18: 175 (2007)."
+			},
+			{
+				"doi": "10.1016/j.msea.2007.01.146",
+				"or":  "Y. Cheng, H. Xiao, and W. Guo, Mater. Sci. Eng. A, 464, Nos. 1–2: 210 (2007).",
+				"tr":  "Y. Cheng, H. Xiao, and W. Guo, Mater. Sci. Eng. A, 464, Nos. 1–2: 210 (2007)."
+			},
+			{
+				"doi": "10.15407/fm20.02.192",
+				"or":  "Z. A. Duriagina, V. Ya. Pidkova, and S. O. Olshevska, Functional Materials, 20, No. 2: 1 (2013).",
+				"tr":  "Z. A. Duriagina, V. Ya. Pidkova, and S. O. Olshevska, Functional Materials, 20, No. 2: 1 (2013)."
+			},
+			{
+				"doi": "10.15407/fm22.01.034",
+				"or":  "V. Pidkova, I. Brodnikovska, Z. Duriagina, and V. Petrovskyy, Functional Materials, 22, No. 1: 35 (2015).",
+				"tr":  "V. Pidkova, I. Brodnikovska, Z. Duriagina, and V. Petrovskyy, Functional Materials, 22, No. 1: 35 (2015)."
+			},
+			{
+				"doi": "10.1007/s11003-012-9514-x",
+				"or":  "Z. A. Duriagina, A. K. Borysyuk, S. A. Bespalov, and V. Ya. Pidkova, Mater. Sci., 48, No. 3: 364 (2012).",
+				"tr":  "Z. A. Duriagina, A. K. Borysyuk, S. A. Bespalov, and V. Ya. Pidkova, Mater. Sci., 48, No. 3: 364 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. М. Рабинович, Неорганические материалы, 7, № 4: 546 (1971).",
+				"tr":  "E. M. Rabinovich, Neorganicheskie Materialy, 7, No. 4: 546 (1971) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "З. А. Дурягіна, Т. М. Ковбасюк, Т. Л. Тепла, А. П. Оксенюк, О. Ю. Грималяк, Спосіб отримання електроізоляційного покриття із ситалоцементу: Патент України № 102986 (опубл. 25 листопада 2015 р.).",
+				"tr":  "Z. A. Duriagina, T. M. Kovbasyuk, T. L. Tepla, A. P. Oksenyuk, and O. Yu. Hrimalyak, Sposib Otrymannya Elektroizolyatsiynogo Pokryttya iz Sitalotsementu [Method for Obtaining of Insulating Coating Based on Glass-Ceramic Sealant]: Patent of Ukraine No. 102986 (publ. November 25, 2015) (in Ukrainian)."
+			}
+		]
+	}
+}

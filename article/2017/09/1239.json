@@ -1,0 +1,114 @@
+{
+	"_id":    "MFiNT.39.09.1239",
+	"year":   2017,
+	"volume": 39,
+	"issue":  9,
+	"pages":  [1239,1252],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["12.08.2017"],
+	"PACS":   "61.72.S-, 62.20.F-, 81.05.Ni, 81.40.Cd, 81.40.Ef, 81.65.Kn, 82.45.Bb",
+	"title":   {
+		"ua": "Вплив леґування на механічні властивості та корозійну стійкість високоміцних евтектичних ($\\alpha$-Al + Mg$_2$Si) стопів потрійної системи Al–Mg–Si",
+		"en": "Influence of Alloying on Mechanical Properties and Corrosion Resistance of High-Strength Eutectic ($\\alpha$-Al + Mg$_2$Si) Alloys of the Al–Mg–Si Ternary System",
+		"ru": "Влияние легирования на механические свойства и коррозионную стойкость высокопрочных эвтектических ($\\alpha$-Al + Mg$_2$Si) сплавов тройной системы Al–Mg–Si"
+	},
+	"abstract": {
+		"ua": "Досліджено вплив леґування на механічні та корозійні властивості нових ливарних стопів алюмінію. Стопи створено на основі моноваріянтної ($\\alpha$-Al + Mg$_2$Si) евтектики потрійної системи Al–Mg–Si. Стопи додатково містили цинк і мідь для реалізації дисперсійного зміцнення після відповідного термічного оброблення. Електрохемічними (вольт-амперометричним, хронопотенціометричним) та ґравіметричним методами вивчено корозійну поведінку цих стопів у 3% розчині NaCl. Показано, що відповідно до шкали корозійної стійкости стоп, леґований Цинком, є стійким, а леґований Цинком та Купрумом — вельми стійким (< 10 мкА/см$^2$). Сукупність високих механічних і корозійних властивостей уможливлює стверджувати, що нові високоміцні евтектичні ($\\alpha$-Al + Mg$_2$Si) стопи потрійної системи Al–Mg–Si спроможні конкурувати з промисловими ливарними стопами алюмінію.",
+		"en": "Effect of alloying on the mechanical and corrosion properties of new casting aluminium alloys is investigated. The alloys are fabricated on the base of monovariant ($\\alpha$-Al + Mg$_2$Si) eutectics of the Al–Mg–Si ternary system and, in addition, they contain zinc and copper to realize dispersion hardening after appropriate heat treatment. Corrosion behaviour of these alloys in the 3% NaCl solution is studied by electrochemical (voltamperometric, chronopotentiometric) and gravimetric methods. As shown, in accordance with corrosion resistance scale, the alloy doped with zinc is stable, and the alloy doped with zinc and copper is very stable (< 10 $\\mu$A/cm$^2$). The combination of high mechanical and corrosion properties allows us to assert that new high-strength eutectic ($\\alpha$-Al + Mg$_2$Si) alloys of the Al–Mg–Si ternary system can compete with industrial casting aluminium alloys.",
+		"ru": "Исследовано влияние легирования на механические и коррозионные свойства новых литейных сплавов алюминия. Сплавы были созданы на основе моновариантной ($\\alpha$-Al + Mg$_2$Si) эвтектики тройной системы Al–Mg–Si и дополнительно содержали цинк и медь для реализации дисперсионного упрочнения после соответствующей термической обработки. По прочностным характеристикам ($\\sigma_{0,2}, \\sigma_{b}$ > 400 МПа) эти сплавы относятся к группе высокопрочных литейных сплавов алюминия. Электрохимическими (вольт-амперометрическим, хронопотенциометрическим) и гравиметрическим методами было изучено коррозионное поведение этих сплавов в 3% растворе NaCl. Показано, что скорости коррозии легированных сплавов — очень низкие (< 10 мкА/см$^2$) и согласно шкале коррозионной стойкости сплав, легированный цинком, является стойким, а легированный цинком и медью — весьма стойким. Совокупность высоких механических и коррозионных свойств позволяет утверждать, что новые высокопрочные эвтектические ($\\alpha$-Al + Mg$_2$Si) сплавы тройной системы Al–Mg–Si способны конкурировать с промышленными литейными сплавами алюминия."
+	},
+	"keywords": {
+		"ua": "потрійна система Al–Mg–Si, евтектичні стопи, термічне оброблення, механічні властивості, корозія",
+		"en": "ternary Al–Mg–Si system, eutectic alloys, heat treatment, mechanical properties, corrosion",
+		"ru": "тройная система Al–Mg–Si, эвтектические сплавы, термическая обработка, механические свойства, коррозия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Л. Г. Щербакова", "en": "L. G. Shcherbakova", "ru": "Л. Г. Щербакова"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "А. В. Криницький", "en": "A. V. Krinitskiy", "ru": "А. В. Криницкий"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "Н. П. Коржова", "en": "N. P. Korzhova", "ru": "Н. П. Коржова"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "Т. М. Легка", "en": "T. M. Legka", "ru": "Т. Н. Легкая"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. В. Самелюк", "en": "A. V. Samelyuk", "ru": "А. В. Самелюк"},
+			"OID": [2]
+		}
+	],
+	"references": {
+		"count": 12,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "V. S. Zolotorevsky, N. A. Belov, and M. V. Glazoff, Casting Aluminum Alloys (Amsterdam: Elsevier: 2007).",
+				"tr":  "V. S. Zolotorevsky, N. A. Belov, and M. V. Glazoff, Casting Aluminum Alloys (Amsterdam: Elsevier: 2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. Н. Легкая, О. М. Барабаш, Ю. В. Мильман, К. Э. Гринкевич, Металлофиз. новейшие технол., 31, № 4: 545 (2009).",
+				"tr":  "T. M. Legka, O. M. Barabash, Yu. V. Milman, N. P. Korzhova, and K. Eh. Grinkevych, Metallofiz. Noveishie Tekhnol., 31, No. 4: 545 (2009) (in Russian)."
+			},
+			{
+				"doi": "10.1007/s11669-001-0049-3",
+				"or":  "O. M. Barabash, O. V. Sulzhenko, T. N. Legkaya, and N. P. Korzhova, J. Phase Equilibria, 22, No. 1: 5 (2001).",
+				"tr":  "O. M. Barabash, O. V. Sulzhenko, T. N. Legkaya, and N. P. Korzhova, J. Phase Equilibria, 22, No. 1: 5 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. М. Легка, Ю. В. Мільман, Н. П. Коржова, Ю. М. Подрезов, Н. М. Мордовец, І. В. Воскобойник, К. Е. Гринкевич, В. Н. Мельник, Високоміцний ливарний сплав на основі алюмінію: Пат. на корисну модель № 95242 України. МПК (2014.01) С22С 21/00 С22С 21/06. Заявл. 21.07.14. Опубл. 10.12.15, Бюл. № 23.",
+				"tr":  "T. M. Legka, Yu. V. Milman, N. P. Korzhova, Yu. M. Podrezov, N. M. Mordovets, I. V. Voskoboynyk, K. E. Grynkevych, and V. N. Melnyk, Vysokomitsnyy Lyvarnyy Splav na Osnovi Alyuminiyu [High-Strength Cast Aluminium Alloy]: Patent of Ukraine No. 95242. Published December 10, 2015 (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. М. Легка, Ю. В.Мільман, Н. П. Коржова, Ю. М. Подрезов, Н. М. Мордовец, І. В. Воскобойник, К. Е. Гринкевич, В. Н. Мельник, Високоміцний ливарний сплав на основі алюмінію: Пат. 108965 України. МПК (2014.01) С22С 21/00 С22С 21/06. Заявл. 25.11.14. Опубл. 25.06.15, Бюл. № 12.",
+				"tr":  "T. M. Legka, Yu. V. Milman, N. P. Korzhova, Yu. M. Podrezov, N. M. Mordovets, I. V. Voskoboynyk, K. E. Grynkevych, and V. N. Melnyk, Vysokomitsnyy Lyvarnyy Splav na Osnovi Alyuminiyu [High-Strength Cast Aluminium Alloy]: Patent of Ukraine No. 108965. Published June 21, 2015 (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Золоторевский, Металловедение и термическая обработка металлов, № 7: 11 (1993).",
+				"tr":  "V. S. Zolotarevsky, Metallovedenie i Termicheskaya Obrabotka Metallov, No. 7 (1993) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. П. Коржова, Т. М. Легка, Н. М. Мордовець, В. І. Нечипоренко, Металознавство та обробка металів, № 2: 43 (2015).",
+				"tr":  "N. P. Korzhova, T. M. Legka, N. M. Mordovets, and V. I. Nechyporenko, Metaloznavstvo ta Obrobka Metaliv, No. 2 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Мильман, Т. М. Легкая, Н. П. Коржова, В. В. Бойко, И. В. Воскобойник, К. В. Михаленков, Н. М. Мордовец, Ю. Н. Подрезов, Электронная микроскопия и прочность материалов, вып. 21: 30 (2015).",
+				"tr":  "Yu. V. Milman, T. N. Legkaya, N. P. Korzhova, V. V. Boyko, I. V. Voskoboynik, K. V. Mykhalenkov, N. M. Mordovets, and Yu. N. Podrezov, Electronnaya Microskopiya i Prochnost' Materialov, Iss. 21: 30 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Ф. Мондольфо, Структура и свойства алюминиевых сплавов (Москва: Металлургия: 1979) (пер. с англ.).",
+				"tr":  "L. F. Mondolfo, Aluminum Alloys: Structure and Properties (London–Boston: Butterworth and Co.: 1976)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Абрамов, М. Д. Тихомиров, Литейное производство, № 5: 29 (2007).",
+				"tr":  "A. A. Abramov and M. D. Tikhomirov, Liteynoe Proizvodstvo, No. 5 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Справочник по электрохимии (Ред. А. М. Сухотин) (Ленинград: Химия: 1981).",
+				"tr":  "Spravochnik po Elektrokhimii (Ed. A. M. Sukhotin) (Leningrad: Khimiya: 1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Клинов, Коррозия химической аппаратуры и коррозионностойкие материалы (Москва: Машиностроение: 1967).",
+				"tr":  "I. A. Klinov, Korroziya Khimicheskoy Apparatury i Korrozionnostoikie Materialy [Corrosion of Chemical Equipment and Corrosion-Resistant Materials] (Moscow: Mashinostroenie: 1967) (in Russian)."
+			}
+		]
+	}
+}

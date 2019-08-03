@@ -1,0 +1,279 @@
+{
+	"_id":    "MFiNT.38.03.0367",
+	"year":   2016,
+	"volume": 38,
+	"issue":  3,
+	"pages":  [367,388],
+	"rubric": 2,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["13.01.2016"],
+	"PACS":   "07.85.Fv, 41.50.+h, 61.05.cf, 61.05.cm, 61.05.cp, 68.35.Fx, 78.67.Pt, 81.15.Cd",
+	"title":   {
+		"ua": "Структурні та рентгено-оптичні характеристики багатошарових рентгенівських дзеркал W/Si",
+		"en": "Structural and X-Ray—Optical Characteristics of the W/Si Multilayer X-Ray Mirrors",
+		"ru": "Структурные и рентгено-оптические характеристики многослойных рентгеновских зеркал W/Si"
+	},
+	"abstract": {
+		"ua": "Методами рентґенівської дифракції в жорсткому ($\\lambda =$ 0,154 нм) та м’якому (0,8 $< \\lambda <$ 2,4 нм) діапазонах досліджено структуру та оптичні властивості серії багатошарових рентґенівських дзеркал (БРД) W/Si, виготовлених методою магнетронного розпорошення, у яких систематично змінюється період у діапазоні 1—6нм. Присутність на міжфазних межах змішаних прошарків силіциду WSi$_{2}$ спричиняє найбільший вплив на зменшення коефіцієнту відбивання БРД в м’якій рентґенівській області ($\\lambda =$2,36нм). Показано можливість виготовлення багатошарового дзеркала з оптичною роздільчою здатністю у м’якому рентґенівському діапазоні щонайменше у 5 разів вище, аніж у стандартних дзеркал W/Si.",
+		"en": "By methods of X-ray diffraction in hard ($\\lambda =$ 0.154 nm) and soft (0.8 $< \\lambda <$ 2.4 nm) ranges, the structure and optical properties for series of W/Si multilayer X-ray mirrors (MXMs) with periods of 1—6 nm are studied. MXMs are deposited with DC magnetron sputtering. Mixed interlayers at MXM interfaces with composition close to WSi$_{2}$ make the main contribution to a reduction of MXM reflectivity at soft X-rays ($\\lambda =$ 2.36 nm). A possibility to fabricate MXMs with resolution of at least 5 times better than standard W/Si MXM in the soft X-ray range is demonstrated.",
+		"ru": "Методами рентгеновской дифракции в жёстком ($\\lambda =$ 0,154 нм) и мягком (0,8 $< \\lambda <$ 2,4 нм) диапазонах исследована структура и оптические свойства серии многослойных рентгеновских зеркал (МРЗ) W/Si с систематически изменяющимся периодом в диапазоне 1—6 нм, изготовленных методом магнетронного распыления. Наличие перемешанных прослоек на межфазных границах c составом WSi$_{2}$ оказывает основное влияние на снижение отражательной способности МРЗ в мягкой рентгеновской области. Показана возможность изготовления многослойного зеркала с разрешающей способностью на длине волны 2,36 нм, по меньшей мере, в 5 раз выше, чем у стандартных зеркал W/Si."
+	},
+	"keywords": {
+		"ua": "багатошарове рентґенівське дзеркало, м’яке рентґенівське випромінення, відбивна здатність, роздільча здатність, міжфазна взаємодія, силіцид",
+		"en": "multilayer X-ray mirror, soft X-rays, reflectivity, resolution, interface interaction, silicide",
+		"ru": "многослойное рентгеновское зеркало, мягкое рентгеновское излучение, отражательная способность, разрешающая способность, межфазное взаимодействие, силицид"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. П. Першин", "en": "Yu. P. Pershin", "ru": "Ю. П. Першин"},
+			"OID": [216]
+		},
+		{
+			"AID": {"ua": "А. Ю. Девізенко", "en": "A. Yu. Devizenko", "ru": "А. Ю. Девизенко"},
+			"OID": [216]
+		},
+		{
+			"AID": {"ua": "В. В. Кондратенко", "en": "V. V. Kondratenko", "ru": "В. В. Кондратенко"},
+			"OID": [216]
+		},
+		{
+			"AID": {"ua": "H. Modrow", "en": "H. Modrow", "ru": "H. Modrow"},
+			"OID": [443]
+		},
+		{
+			"AID": {"ua": "F.-J. Hormes", "en": "F.-J. Hormes", "ru": "F.-J. Hormes"},
+			"OID": [444]
+		}
+	],
+	"references": {
+		"count": 45,
+		"list":  [
+			{
+				"doi": "10.1180/minmag.1989.053.371.11",
+				"or":  "P. J. Potts and A. G. Tindle, Mineralogical Magazine, 53, No. 371: 357 (1989).",
+				"tr":  "P. J. Potts and A. G. Tindle, Mineralogical Magazine, 53, No. 371: 357 (1989)."
+			},
+			{
+				"doi": "10.1002/xrs.1300180204",
+				"or":  "T. C. Huang, A. Fung, and R. L. White, X-Ray Spectrometry, 18, No. 2: 53 (1989).",
+				"tr":  "T. C. Huang, A. Fung, and R. L. White, X-Ray Spectrometry, 18, No. 2: 53 (1989)."
+			},
+			{
+				"doi": "10.1117/12.212576",
+				"or":  "F. Frontera and G. Pareschi, Proc. SPIE, 2515: 2 (1995).",
+				"tr":  "F. Frontera and G. Pareschi, Proc. SPIE, 2515: 2 (1995)."
+			},
+			{
+				"doi": "10.1117/12.948766",
+				"or":  "F. Schäfers, M. Grioni, J. Wood, H. van Brug, E. J. Puik, M. Dapor, and F. Marchetti, Proc. SPIE, 984: 23 (1988).",
+				"tr":  "F. Schäfers, M. Grioni, J. Wood, H. van Brug, E. J. Puik, M. Dapor, and F. Marchetti, Proc. SPIE, 984: 23 (1988)."
+			},
+			{
+				"doi": "10.1016/0168-9002(89)90721-3",
+				"or":  "S. W. Kortboyer, J. B . Goedkoop, F. M. F . De Groot, M. Grioni, J. C. Fuggle, and H. Petersen, Nucl. Instrum. Meth. Phys. Res. A, 275, No. 2: 435 (1989).",
+				"tr":  "S. W. Kortboyer, J. B . Goedkoop, F. M. F . De Groot, M. Grioni, J. C. Fuggle, and H. Petersen, Nucl. Instrum. Meth. Phys. Res. A, 275, No. 2: 435 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Michaelsen, P. Ricardo, D. Anders, M. Schuster, J. Schilling, and H. Göbel, Advances in X-ray Analysis, 42: 308 (2000).",
+				"tr":  "C. Michaelsen, P. Ricardo, D. Anders, M. Schuster, J. Schilling, and H. Göbel, Advances in X-ray Analysis, 42: 308 (2000)."
+			},
+			{
+				"doi": "10.1063/1.1146162",
+				"or":  "A. Erko, F. Schäfers, B. Vidal, A. Yakshin, U. Pietsch, and W. Mahler, Rev. Sci. Instrum., 66, No. 10: 4845 (1995).",
+				"tr":  "A. Erko, F. Schäfers, B. Vidal, A. Yakshin, U. Pietsch, and W. Mahler, Rev. Sci. Instrum., 66, No. 10: 4845 (1995)."
+			},
+			{
+				"doi": "10.1117/12.167210",
+				"or":  "K. D. Joensen, P. Høghøj, F. Christensen, P. Gorenstein, J. Susini, E. Ziegler, and A. Freund, J. Wood, Proc. SPIE, 2011: 360 (1994).",
+				"tr":  "K. D. Joensen, P. Høghøj, F. Christensen, P. Gorenstein, J. Susini, E. Ziegler, and A. Freund, J. Wood, Proc. SPIE, 2011: 360 (1994)."
+			},
+			{
+				"doi": "10.1117/12.672895",
+				"or":  "D. Spiga, A. Mirone, G. Pareschi, R. Canestrari, V. Cotroneo, C. Ferrari, C. Ferrero, L. Lazzarini, and D. Vernani, Proc. SPIE, 6266: 626616 (2006).",
+				"tr":  "D. Spiga, A. Mirone, G. Pareschi, R. Canestrari, V. Cotroneo, C. Ferrari, C. Ferrero, L. Lazzarini, and D. Vernani, Proc. SPIE, 6266: 626616 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Jergel, P. Mikulík, E. Majková, Š. Luby, R. Senderák, E. Pinèík, M. Brunel, P. Hudek, I. Kostiè, and A. Koneèníková, Materials Structure, 6, No. 1: 11 (1999).",
+				"tr":  "M. Jergel, P. Mikulík, E. Majková, Š. Luby, R. Senderák, E. Pinèík, M. Brunel, P. Hudek, I. Kostiè, and A. Koneèníková, Materials Structure, 6, No. 1: 11 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Jergel, C. Falcony, P. Mikulík, L. Ortega, E. Majková, E. Pinèík, Š. Luby, I. Kostiè, and P. Hudek, Superficies y Vacío, No. 13: 10 (2001).",
+				"tr":  "M. Jergel, C. Falcony, P. Mikulík, L. Ortega, E. Majková, E. Pinèík, Š. Luby, I. Kostiè, and P. Hudek, Superficies y Vacío, No. 13: 10 (2001)."
+			},
+			{
+				"doi": "10.1016/S0030-4018(02)01769-8",
+				"or":  "R. M. Fechtchenko, A. V. Vinogradov, and D. L. Voronov, Opt. Commun., 210, Nos. 3–6: 179 (2002).",
+				"tr":  "R. M. Fechtchenko, A. V. Vinogradov, and D. L. Voronov, Opt. Commun., 210, Nos. 3–6: 179 (2002)."
+			},
+			{
+				"doi": "10.1088/0022-3727/34/10A/339",
+				"or":  "P. Mikulík, M. Jergel, T. Baumbach, E. Majková, E. Pinèík, Š. Luby, L. Ortega, R. Tucoulou, P. Hudek, and I. Kostiè, J. Phys. D, 34, No. 10: A188 (2001).",
+				"tr":  "P. Mikulík, M. Jergel, T. Baumbach, E. Majková, E. Pinèík, Š. Luby, L. Ortega, R. Tucoulou, P. Hudek, and I. Kostiè, J. Phys. D, 34, No. 10: A188 (2001)."
+			},
+			{
+				"doi": "10.1063/1.369346",
+				"or":  "M. Jergel, P. Mikulík, E. Majková, Š. Luby, R. Senderák, E. Pinčík, M. Brunel, P. Hudek, I. Kostič, and A. Konečníková, J. Appl. Phys., 85, No. 2: 1225 (1999).",
+				"tr":  "M. Jergel, P. Mikulík, E. Majková, Š. Luby, R. Senderák, E. Pinčík, M. Brunel, P. Hudek, I. Kostič, and A. Konečníková, J. Appl. Phys., 85, No. 2: 1225 (1999)."
+			},
+			{
+				"doi": "10.1063/1.2138378",
+				"or":  "Ch. Liu, R. Conley, A. T. Macrander, J. Maser, H. C. Kang, M. A. Zurbuchen, and G. B. Stephenson, J. Appl. Phys., 98, No. 1: 113519 (2005).",
+				"tr":  "Ch. Liu, R. Conley, A. T. Macrander, J. Maser, H. C. Kang, M. A. Zurbuchen, and G. B. Stephenson, J. Appl. Phys., 98, No. 1: 113519 (2005)."
+			},
+			{
+				"doi": "10.1063/1.1897061",
+				"or":  "H. C. Kang, G. B. Stephenson, C. Liu, R. Conley, A. T. Macrander, J. Maser, S. Bajt, and H. N. Chapman, Appl. Phys. Lett., 86, No. 1: 151109 (2005).",
+				"tr":  "H. C. Kang, G. B. Stephenson, C. Liu, R. Conley, A. T. Macrander, J. Maser, S. Bajt, and H. N. Chapman, Appl. Phys. Lett., 86, No. 1: 151109 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.96.127401",
+				"or":  "H. C. Kang, J. Maser, G. B. Stephenson, C. Liu, R. Conley, A. T. Macrander, and S. Vogt, Phys. Rev. Lett., 96, No. 12: 127401 (2006).",
+				"tr":  "H. C. Kang, J. Maser, G. B. Stephenson, C. Liu, R. Conley, A. T. Macrander, and S. Vogt, Phys. Rev. Lett., 96, No. 12: 127401 (2006)."
+			},
+			{
+				"doi": "10.1063/1.2713439",
+				"or":  "H. Ch. Kang, G. B. Stephenson, Ch. Liu, R. Conley, R. Khachatryan, M. Wieczorek, A. T. Macrander, H. Yan, J. Maser, J. Hiller, and R. Koritala, Rev. Sci. Instrum., 78, No. 4: 046103 (2007).",
+				"tr":  "H. Ch. Kang, G. B. Stephenson, Ch. Liu, R. Conley, R. Khachatryan, M. Wieczorek, A. T. Macrander, H. Yan, J. Maser, J. Hiller, and R. Koritala, Rev. Sci. Instrum., 78, No. 4: 046103 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Артюков, В. А. Бурцев, А. В. Виноградов, А. Ю. Девизенко, Н. В. Калинин, И. А. Копылец, В. Е. Пуха, Б. А. Савицкий, Р. М. Фещенко, ЖТФ, 82, № 9: 101 (2012).",
+				"tr":  "I. A. Artyukov, V. A. Burtsev, A. V. Vinogradov, A. Yu. Devizenko, N. V. Kalinin, I. A. Kopylets, V. E. Pukha, B. A. Savitskiy, and R. M. Feshchenko, ZhTF, 82, No. 9: 101 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "N. F. Brejnholt, F. E. Christensen, C. J. Hailey, N. M. Barrière, W. W. Craig, B. Grefenstette, J. Koglin, K. KruseMadsen, J. K. Vogel, H. An, K. Blaedel, J. Brown, T. Decker, Z. Haider, A. C. Jakobsen, C. P. Cooper-Jensen, K. Mori, M. Nynka, M. J. Pivovaroff, C. Sleator, D. Stefanik, M. Stern, G. Tajiri, D. Thornhill, and J. S. Cushman, X-Ray Optics and Instrumentation, 2011: ID 285079 (2011).",
+				"tr":  "N. F. Brejnholt, F. E. Christensen, C. J. Hailey, N. M. Barrière, W. W. Craig, B. Grefenstette, J. Koglin, K. KruseMadsen, J. K. Vogel, H. An, K. Blaedel, J. Brown, T. Decker, Z. Haider, A. C. Jakobsen, C. P. Cooper-Jensen, K. Mori, M. Nynka, M. J. Pivovaroff, C. Sleator, D. Stefanik, M. Stern, G. Tajiri, D. Thornhill, and J. S. Cushman, X-Ray Optics and Instrumentation, 2011: ID 285079 (2011)."
+			},
+			{
+				"doi": "10.1117/12.505665",
+				"or":  "K. K. Madsen, F. E. Christensen C. P. Jensena, E. Zieglerb, W. W. Craigc, K. Gundersonc, J. E. Koglind, and K. Pedersen, Proc. SPIE, 5168: 41 (2004).",
+				"tr":  "K. K. Madsen, F. E. Christensen C. P. Jensena, E. Zieglerb, W. W. Craigc, K. Gundersonc, J. E. Koglind, and K. Pedersen, Proc. SPIE, 5168: 41 (2004)."
+			},
+			{
+				"doi": "10.1364/AO.34.007935",
+				"or":  "K. D. Joensen, P. Voutov, A. Szentgyorgyi, J. Roll, P. Gorenstein, P. Høghøj, and F. E. Christensen, Appl. Opt., 34, No. 34: 7935 (1995).",
+				"tr":  "K. D. Joensen, P. Voutov, A. Szentgyorgyi, J. Roll, P. Gorenstein, P. Høghøj, and F. E. Christensen, Appl. Opt., 34, No. 34: 7935 (1995)."
+			},
+			{
+				"doi": "10.1117/12.283791",
+				"or":  "P. H. Mao, F. A. Harrison, Y. Y. Platonov, D. M. Broadway, B. DeGroot, F. E. Christensen, W. W. Craig, and C. J. Hailey, Proc. SPIE, 3114: 526 (1997).",
+				"tr":  "P. H. Mao, F. A. Harrison, Y. Y. Platonov, D. M. Broadway, B. DeGroot, F. E. Christensen, W. W. Craig, and C. J. Hailey, Proc. SPIE, 3114: 526 (1997)."
+			},
+			{
+				"doi": "10.1063/1.373681",
+				"or":  "D. L. Windt, F. E. Christensen, W. W. Craig, C. Hailey, F. A. Harrison, M. Jimenez-Garate, R. Kalyanaraman, and P. H. Mao, J. Appl. Phys., 88, No. 1: 460 (2000).",
+				"tr":  "D. L. Windt, F. E. Christensen, W. W. Craig, C. Hailey, F. A. Harrison, M. Jimenez-Garate, R. Kalyanaraman, and P. H. Mao, J. Appl. Phys., 88, No. 1: 460 (2000)."
+			},
+			{
+				"doi": "10.1063/1.347739",
+				"or":  "J. B. Kortright, St. Joksch, and E. Ziegler, J. Appl. Phys., 69, No. 1: 168 (1991).",
+				"tr":  "J. B. Kortright, St. Joksch, and E. Ziegler, J. Appl. Phys., 69, No. 1: 168 (1991)."
+			},
+			{
+				"doi": "10.1063/1.1423628",
+				"or":  "Y. S. Chu, C. Liu, D. C. Mancini, F. De Carlo, A. T. Macrander, B. Lai, and D. Shu, Rev. Sci. Instrum., 73, No. 3: 1485 (2002).",
+				"tr":  "Y. S. Chu, C. Liu, D. C. Mancini, F. De Carlo, A. T. Macrander, B. Lai, and D. Shu, Rev. Sci. Instrum., 73, No. 3: 1485 (2002)."
+			},
+			{
+				"doi": "10.1063/1.54629",
+				"or":  "L. E. Berman, Z. Yin, S. B. Dierker, E. Dufresne, S. G. J. Mochrie, O. K. C. Tsui, S. K. Burley, F. Shu, X. Xie, M. S. Capel, and R. M. Sweet, AIP Conf. Proc., 417: 71 (1997).",
+				"tr":  "L. E. Berman, Z. Yin, S. B. Dierker, E. Dufresne, S. G. J. Mochrie, O. K. C. Tsui, S. K. Burley, F. Shu, X. Xie, M. S. Capel, and R. M. Sweet, AIP Conf. Proc., 417: 71 (1997)."
+			},
+			{
+				"doi": "10.1063/1.1140859",
+				"or":  "E. Ziegler, Y. Lepêtre, S. Joksch, V. Saile, S. Mourikis, P. J. Viccaro, G. Rolland, and F. Laugier, Rev. Sci. Instrum., 60, No. 7: 1999 (1989).",
+				"tr":  "E. Ziegler, Y. Lepêtre, S. Joksch, V. Saile, S. Mourikis, P. J. Viccaro, G. Rolland, and F. Laugier, Rev. Sci. Instrum., 60, No. 7: 1999 (1989)."
+			},
+			{
+				"doi": "10.1016/S0969-2126(96)00015-9",
+				"or":  "A. K. Freund, Structure, 4, No. 2: 121 (1996).",
+				"tr":  "A. K. Freund, Structure, 4, No. 2: 121 (1996)."
+			},
+			{
+				"doi": "10.1016/0304-3991(90)90001-3",
+				"or":  "W. C. Shih and W. M. Stobbs, Ultramicroscopy, 32: 219 (1990).",
+				"tr":  "W. C. Shih and W. M. Stobbs, Ultramicroscopy, 32: 219 (1990)."
+			},
+			{
+				"doi": "10.1016/0042-207X(92)90185-Y",
+				"or":  "M. M. Hasan, R. J. Highmore, and R. E. Somekh, Vacuum, 43, Nos. 1/2: 55 (1992).",
+				"tr":  "M. M. Hasan, R. J. Highmore, and R. E. Somekh, Vacuum, 43, Nos. 1/2: 55 (1992)."
+			},
+			{
+				"doi": "10.1063/1.373681",
+				"or":  "D. L. Windt, F. E. Christensen, W. W. Craig, C. Hailey, F. A. Harrison, M. Jimenez-Garate, R. Kalyanaraman, and P. H. Mao, J. Appl. Phys., 88, No. 1: 460 (2000).",
+				"tr":  "D. L. Windt, F. E. Christensen, W. W. Craig, C. Hailey, F. A. Harrison, M. Jimenez-Garate, R. Kalyanaraman, and P. H. Mao, J. Appl. Phys., 88, No. 1: 460 (2000)."
+			},
+			{
+				"doi": "10.1007/s00339-011-6384-2",
+				"or":  "Y. P. Pershyn, E. N. Zubarev, V. V. Kondratenko, V. A. Sevryukova, and S. V. Kurbatova, Appl. Phys. A, 103, No. 4: 1021 (2011).",
+				"tr":  "Y. P. Pershyn, E. N. Zubarev, V. V. Kondratenko, V. A. Sevryukova, and S. V. Kurbatova, Appl. Phys. A, 103, No. 4: 1021 (2011)."
+			},
+			{
+				"doi": "10.1063/1.4866988",
+				"or":  "W. S. Lau, J. Zhang, X. Wan, J. K. Luo, Y. Xu, and H. Wong, AIP Advances, 4: 027120 (2014).",
+				"tr":  "W. S. Lau, J. Zhang, X. Wan, J. K. Luo, Y. Xu, and H. Wong, AIP Advances, 4: 027120 (2014)."
+			},
+			{
+				"doi": "10.1063/1.2422713",
+				"or":  "Y.-P. Wang, H. Zhou, L. Zhou, and R. L. Headrick, A. T. Macrander, and A. S. Özcan, J. Appl. Phys., 101, No. 2: 023503 (2007).",
+				"tr":  "Y.-P. Wang, H. Zhou, L. Zhou, and R. L. Headrick, A. T. Macrander, and A. S. Özcan, J. Appl. Phys., 101, No. 2: 023503 (2007)."
+			},
+			{
+				"doi": "10.1117/12.371112",
+				"or":  "E. Spiller, S. Baker, E. Parra, and C. Tarrio, Proc. SPIE, 3767: 143 (1999).",
+				"tr":  "E. Spiller, S. Baker, E. Parra, and C. Tarrio, Proc. SPIE, 3767: 143 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "Диаграммы состояния двойных металлических систем. Справочник (Ред. Н. П. Лякишев) (Москва: Машиностроение: 2000), т. 3, книга 2, с. 301.",
+				"tr":  "Diagrammy Sostoyaniya Dvoynykh Metallicheskikh Sistem. Spravochnik (Ed. N. P. Lyakishev) (Moscow: Mashinostroenie: 2000), vol. 3, book 2, p. 301 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Зеркальная рентгеновская оптика (Ред. А. В. Виноградов) (Ленинград: Машиностроение: 1989).",
+				"tr":  "Zerkal'naya Rentgenovskaya Optika (Ed. A. V. Vinogradov) (Leningrad: Mashinostroenie: 1989) (in Russian)."
+			},
+			{
+				"doi": "10.1006/adnd.1993.1013",
+				"or":  "B. L. Henke, E. M. Gullikson, and J. C. Davis, Atomic Data and Nuclear Tables, 54, No. 2: 181 (1993).",
+				"tr":  "B. L. Henke, E. M. Gullikson, and J. C. Davis, Atomic Data and Nuclear Tables, 54, No. 2: 181 (1993)."
+			},
+			{
+				"doi": "10.1007/s00339-007-4041-6",
+				"or":  "J. Gautier, F. Delmotte, F. Bridou, M. F. Ravet, F. Varniere, M. Roulliay, A. Jerome, and I. Vickridge, Appl. Phys. A, 88, No. 4: 719 (2007).",
+				"tr":  "J. Gautier, F. Delmotte, F. Bridou, M. F. Ravet, F. Varniere, M. Roulliay, A. Jerome, and I. Vickridge, Appl. Phys. A, 88, No. 4: 719 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Love and V. D. Scott, Inst. Phys. Conf. Ser., No. 90: 349 (1987).",
+				"tr":  "G. Love and V. D. Scott, Inst. Phys. Conf. Ser., No. 90: 349 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Джеймс, Оптические принципы дифракции рентгеновских лучей (Москва: Иностранная литература: 1950).",
+				"tr":  "R. James, Opticheskie Printsipy Difraktsii Rentgenovskikh Luchey (Moscow: Inostrannaya Literatura: 1950) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "З. Г. Пинскер, Динамическое рассеяние рентгеновских лучей в идеальных кристаллах (Москва: Наука: 1974).",
+				"tr":  "Z. G. Pinsker, Dinamicheskoe Rasseyanie Rentgenovskikh Luchey v Ideal'nykh Kristallakh (Moscow: Nauka: 1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Иверонова, Г. П. Ривкевич, Теория рассеяния рентгеновских лучей (Москва: Издательство МГУ: 1978).",
+				"tr":  "V. I. Iveronova and G. P. Rivkevich, Teoriya Rasseyaniya Rentgenovskikh Luchey (Moscow: Izdatel'stvo MGU: 1978) (in Russian)."
+			},
+			{
+				"doi": "10.1117/12.451345",
+				"or":  "Y. Platonov, L. Gomez, and D. Broadway, Proc. SPIE, 4782: 152 (2002).",
+				"tr":  "Y. Platonov, L. Gomez, and D. Broadway, Proc. SPIE, 4782: 152 (2002)."
+			}
+		]
+	}
+}

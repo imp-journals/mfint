@@ -1,0 +1,77 @@
+{
+	"_id":    "MFiNT.41.02.0251",
+	"year":   2019,
+	"volume": 41,
+	"issue":  2,
+	"pages":  [251,261],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["24.08.2018","26.12.2018"],
+	"PACS":   "61.72.Ff, 64.70.D-, 64.70.kd, 81.05.Ni, 81.30.Bx, 81.40.Lm, 81.65.Lp",
+	"title":   {
+		"ua": "Фазові та структурні перетворення високовуглецевого стопу системи Fe–V–C при хеміко-термічному обробленні та деформації",
+		"en": "Phase and Structural Transformations of High-Carbon Alloy of the Fe–V–C System During Chemical-Thermal Processing and Deformation",
+		"ru": "Фазовые и структурные превращения высокоуглеродистого сплава системы Fe–V–C при химико-термической обработке и деформации"
+	},
+	"abstract": {
+		"ua": "Досліджено закономірності фазових і структурних перетворень, що відбуваються при зневуглецюванні високовуглецевого стопу Fe–V–C. Методою геометричної термодинаміки та металографічною аналізою встановлено евтектичне перетворення $L$ → $\\gamma$ + VC, що супроводжується дифузійним перерозподілом карбідоутворювального елементу попереду фронту кристалізації. Зневуглецювання у рідко-твердому стані уможливлює сформувати в приповерхневому шарі сприятливу структуру з волокнами VC, орієнтованими перпендикулярно поверхні. Досліджено структурні зміни у попередньо зневуглецьованому, синтетичному ванадійовому чавуні, що відбуваються при деформації у рідко-твердому стані. Встановлено закономірності формування структури у різних дифузійних зонах при подальшому навуглецюванні. Встановлено, що подальше навуглецювання попередньо зневуглецьованого стопу системи Fe–V–C в особливих умовах уможливлює одержати в поверхневому шарі природній композит високої зносостійкости. Проведено визначення вторинної твердости та теплостійкости навуглецьованого шару ванадійового чавуну, деформованого у рідко-твердому стані, після остаточного термічного оброблення.",
+		"en": "The regularities of the phase and structural transformations during decarburization of a high-carbon Fe–V–C alloy are studied. The eutectic $L$ → $\\gamma$ + VC transformation is established by the geometric thermodynamics method and metallographic analysis. This transformation is accompanied by a diffusion redistribution of the carbide-forming elements ahead of the crystallization front. Decarburization in a liquid–solid state allows forming a favourable structure with VC fibres oriented perpendicularly to the surface in the near-surface zone. Structural changes, which occur under deformation in a liquid–solid state, in preliminary decarburized synthetic vanadium-containing cast iron are investigated. The regularities of structure formation in various diffusion zones during subsequent carburization are revealed. As shown, the subsequent carburization of a pre-decarburized Fe–V–C alloy under special conditions makes it possible to obtain a natural composite with high wear resistance in the surface layer. Secondary hardness and heat resistance of carbonized layer of vanadium-containing cast iron deformed in a liquid–solid state after the final heat treatment are studied.",
+		"ru": "Исследованы закономерности фазовых и структурных превращений, происходящих при обезуглероживании высокоуглеродистого сплава Fe–V–C. Методом геометрической термодинамики и металлографическим анализом установлено эвтектическое превращение $L$ → $\\gamma$ + VC, сопровождающееся диффузионным перераспределением карбидообразующего элемента впереди фронта кристаллизации. Обезуглероживание в жидко-твёрдом состоянии позволяет сформировать в приповерхностной зоне благоприятную структуру с волокнами VC, ориентированными перпендикулярно поверхности. Исследованы структурные изменения в предварительно обезуглероженном, синтетическом ванадийсодержащем чугуне, происходящие при деформации в жидко-твёрдом состоянии. Установлены закономерности формирования структуры в различных диффузионных зонах при последующем науглероживании. Установлено, что последующее науглероживание предварительно обезуглероженного сплава системы Fe–V–C в особых условиях позволяет получить в поверхностном слое естественный композит высокой износостойкости. Проведено определение вторичной твёрдости и теплостойкости науглероженного слоя ванадиевого чугуна, деформированного в жидко-твёрдом состоянии, после окончательной термической обработки."
+	},
+	"keywords": {
+		"ua": "система Fe–V–C, зневуглецювання, навуглецювання, дифузія, деформація, фронт кристалізації, евтектичне перетворення",
+		"en": "Fe–V–C system, decarburization, carburization, diffusion, deformation, crystallization front, eutectic transformation",
+		"ru": "система Fe–V–C, обезуглероживание, науглероживание, диффузия, деформация, фронт кристаллизации, эвтектическое превращение"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. В. Мовчан", "en": "O. V. Movchan", "ru": "А. В. Мовчан"},
+			"OID": [223]
+		},
+		{
+			"AID": {"ua": "Е. А. Черноіваненко", "en": "K. O. Chernoivanenko", "ru": "Е. А. Черноиваненко"},
+			"OID": [223]
+		}
+	],
+	"references": {
+		"count": 7,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "R. A. Andrievskiy, Prochnost Tugoplavkikh Soedineniy (Moscow: Metallurgiya: 1974) (in Russian).",
+				"tr":  "R. A. Andrievskiy, Prochnost Tugoplavkikh Soedineniy (Moscow: Metallurgiya: 1974) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.msea.2005.05.062",
+				"or":  "Shizhong Wei, Jinhua Zhu, and Leujue Xu, Mater. Sci. Eng. A, 404: 138 (2005)",
+				"tr":  "Shizhong Wei, Jinhua Zhu, and Leujue Xu, Mater. Sci. Eng. A, 404: 138 (2005)"
+			},
+			{
+				"doi": "10.1007/s11661-003-0208-8",
+				"or":  "Kwangjun Euh and Sunghak Lee, Metallurgical and Materials Transactions A, 34A: 59 (2003).",
+				"tr":  "Kwangjun Euh and Sunghak Lee, Metallurgical and Materials Transactions A, 34A: 59 (2003)."
+			},
+			{
+				"doi": "10.1016/j.triboint.2005.04.035",
+				"or":  "Shizhong Wei, Jinhua Zhu, and Leujue Xu, Tribology International, 39: 641 (2006).",
+				"tr":  "Shizhong Wei, Jinhua Zhu, and Leujue Xu, Tribology International, 39: 641 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Huang, Z. Metallkd., 82, No. 5: 391 (1991).",
+				"tr":  "W. Huang, Z. Metallkd., 82, No. 5: 391 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Y. Movchan, L. G. Pedan, and V. P. Gerasimenko, Metallovedenie i Termicheskaya Obrabotka Metallov, No. 9: 19 (1983) (in Russian).",
+				"tr":  "V. Y. Movchan, L. G. Pedan, and V. P. Gerasimenko, Metallovedenie i Termicheskaya Obrabotka Metallov, No. 9: 19 (1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. M. Gavrilenko, V. P. Gerasimenko, and V. Y. Movchan, Izv. AN SSSR. Metally, No. 3: 71 (1984) (in Russian).",
+				"tr":  "V. M. Gavrilenko, V. P. Gerasimenko, and V. Y. Movchan, Izv. AN SSSR. Metally, No. 3: 71 (1984) (in Russian)."
+			}
+		]
+	}
+}

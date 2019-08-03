@@ -1,0 +1,483 @@
+{
+	"_id":    "MFiNT.38.01.0067",
+	"year":   2016,
+	"volume": 38,
+	"issue":  1,
+	"pages":  [67,98],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["18.12.2015"],
+	"PACS":   "61.66.Dk, 61.72.J-, 61.72.Lk, 61.72.Nn, 62.20.mj, 62.20.mm, 64.75.Nx, 71.55.Ak",
+	"title":  {
+		"ua": "Карбон, Нітроґен і Гідроґен в твердих розчинах на основі заліза: схожість та відмінність їх впливу на структуру і властивості",
+		"en": "Carbon, Nitrogen and Hydrogen in Iron-Based Solid Solutions: Similarities and Differences in their Effect on Structure and Properties",
+		"ru": "Углерод, азот и водород в твердых растворах на основе железа: сходства и различия их влияния на структуру и свойства"
+	},
+	"abstract": {
+		"ua": "Проаналізовано вплив елементів втілення N, C і H в твердих розчинах на основі заліза на їхню структуру і властивості. На основі теоретичних розрахунків і експериментальних результатів порівнюються електронна структура і енергія дефектів пакування, розподіл атомів у твердих розчинах, взаємодія атомів втілення з дислокаціями та вакансіями, рухомість дислокацій, механізми пластичної деформації та руйнування. Встановлено, що Нітроґен і Гідроґен збільшують густину електронних станів на рівні Фермі ГЦК-заліза, в той час як Карбон зменшує її. Відповідно, концентрація вільних електронів підвищується в твердих розчинах Нітроґену і Гідроґену на основі $\\gamma$-заліза і зменшується при розчиненні Карбону. Виявлено кореляцію між характером міжатомового зв’язку і близьким атомовим порядком в аустенітних сталях: Нітроґен сприяє близькому атомовому упорядкуванню в розподілі леґувальних елементів, в той час як розчинення Карбону супроводжується їх кластеризацією. Як наслідок, Нітроґен підвищує термодинамічну стабільність аустенітних сталей, а Карбон робить сталь чутливою до виділення карбідів із твердого розчину, що погіршує корозійні властивості. Найбільш вражаючою є кореляція між електронною структурою і властивостями дислокацій. На відміну від переважаючих ковалентних зв’язків у вуглецевих сталях, посилений Нітроґеном їхній металічний характер підвищує рухливість дислокацій, наслідком чого є висока пластичність і в’язкість руйнування. Але аналогічний вплив Гідроґену є причиною водневого окрихчування через посилену Гідроґеном локалізовану пластичність. Унікальна схожість з водневим окрихчуванням має місце, якщо аустенітна азотиста сталь піддається ударному навантаженню. Внаслідок недостатнього часу для релаксації напружень, посилена Нітроґеном локалізована пластичність призводить до псевдокрихкого руйнування. Відмінним є лише механізм локалізації пластичної деформації: близьке атомове упорядкування, спричинене Гідроґеном, і збільшення концентрації надлишкових вакансій у випадку розчинення Гідроґену.",
+		"en": "Interstitial N, C and H atoms in iron-based solid solutions are compared in terms of their effect on the structure and properties. Electronic structure and stacking fault energy, atomic distribution, interaction of interstitial atoms with dislocations and vacancies, mobility of dislocations, mechanisms of deformation and fracture are compared based on theoretical calculations and experimental observations. As shown, nitrogen and hydrogen increase the electron density of states at the Fermi level of f.c.c. iron, whereas carbon decreases it. Correspondingly, the concentration of free electrons increases within the nitrogen and hydrogen iron-based solid solutions and decreases in the carbon ones. A correlation is revealed between the character of interatomic bonds and the short-range atomic order in the studied solid solutions: nitrogen assists short-range atomic ordering in the spatial distribution of alloying elements, whereas carbon promotes their clustering. As consequence, nitrogen increases thermodynamical stability of austenitic steels, whereas carbon makes steel sensitive to precipitation of carbides from the solid solution that deteriorates corrosive characteristics. The most impressive is a correlation between the change in the electronic structure and properties of dislocations. In contrast to prevailing covalent bonds in carbon steels, the enhanced metallic character of interatomic bonds, as caused by nitrogen, increases mobility of dislocations that results in excellent plasticity and fracture toughness. However, the same effect caused by hydrogen is a cause of the hydrogen embrittlement through the hydrogen-enhanced localized plasticity. A unique similarity with hydrogen embrittlement becomes apparent in the course of impact loading of austenitic nitrogen steels, where, due to the absence of sufficient time for relaxation of stresses, the nitrogen-enhanced localized plasticity occurs resulting in a pseudo-brittle fracture. The different is only the mechanism for localization of plastic deformation: the shortrange atomic ordering caused by nitrogen and the increased concentration of superabundant vacancies due to hydrogen dissolution.",
+		"ru": "Выполнен анализ влияния элементов внедрения N, C и H в твёрдых растворах на основе железа на их структуру и свойства. На основе теоретических расчётов и экспериментальных данных сравниваются электронная структура и энергия дефектов упаковки, распределение атомов в твёрдых растворах, взаимодействие атомов внедрения с дислокациями и вакансиями, подвижность дислокаций, механизмы пластической деформации и разрушения. Установлено, что азот и водород повышают плотность электронных состояний на уровне Ферми ГЦК-железа, в то время как углерод уменьшает её. Соответственно, концентрация свободных электронов увеличивается в твёрдых растворах азота и водорода на основе $\\gamma$-железа и уменьшается при растворении углерода. Найдена корреляция между характером межатомных связей и ближним атомным порядком в аустенитных сталях: азот способствует ближнему атомному упорядочению в распределении легирующих элементов, в то время как растворение углерода сопровождается их кластеризацией. Как следствие, азот увеличивает термодинамическую стабильность аустенитных сталей, а углерод делает сталь чувствительной к выделению карбидов из твёрдого раствора, что ухудшает коррозионные свойства. Наиболее впечатляющей является корреляция между электронной структурой и свойствами дислокаций. В отличие от превалирующих ковалентных связей в углеродистых сталях, усиленный азотом их металлический характер увеличивает подвижность дислокаций, следствием чего является высокая пластичность и вязкость разрушения. Однако аналогичное влияние водорода является причиной водородного охрупчивания стали из-за усиленной водородом локализованной пластичности. Уникальное сходство с водородной хрупкостью имеет место, если аустенитная азотистая сталь подвергается ударному нагружению. Вследствие недостаточного времени для релаксации напряжений, усиленная азотом локализованная пластичность приводит к псевдохрупкому разрушению. Различным является лишь механизм локализации пластической деформации: ближнее атомное упорядочение, обусловленное азотом, и повышение концентрации избыточных вакансий в случае растворения водорода."
+	},
+	"keywords": {
+		"ua": "сталь, Карбон, Нітроґен, Гідроґен, електронна структура, близький атомовий порядок, термодинамічна стабільність, деформація, руйнування",
+		"en": "carbon, nitrogen, hydrogen, electronic structure, short-range atomic order, thermodynamical stability, deformation, fracture",
+		"ru": "сталь, углерод, азот, водород, электронная структура, ближний атомный порядок, термодинамическая стабильность, деформация, разрушение"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Г. Гаврилюк", "en": "V. G. Gavriljuk", "ru": "В. Г. Гаврилюк"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 89,
+		"list":  [
+			{
+				"doi": "10.1007/978-3-662-03760-7",
+				"or":  "﻿V. G. Gavriljuk and H. Berns, High Nitrogen Steels (Berlin: Springer Verlag: 1999)",
+				"tr":  "V. G. Gavriljuk and H. Berns, High Nitrogen Steels (Berlin: Springer Verlag: 1999)"
+			},
+			{
+				"doi": "10.1007/978-3-642-33701-7",
+				"or":  "H. Berns, V. G. Gavriljuk, and S. Riedner, High Interstitial Stainless Steels (Heidelberg: Springer: 2013)",
+				"tr":  "H. Berns, V. G. Gavriljuk, and S. Riedner, High Interstitial Stainless Steels (Heidelberg: Springer: 2013)"
+			},
+			{
+				"doi": "10.1016/0921-5093(94)90975-X",
+				"or":  "H. K. Birnbaum and P. Sofronis, Mat. Sci. Eng. A, 176: 191 (1994)",
+				"tr":  "H. K. Birnbaum and P. Sofronis, Mat. Sci. Eng. A, 176: 191 (1994)"
+			},
+			{
+				"doi": "10.1016/0001-6160(88)90113-7",
+				"or":  "S. P. Lynch, Acta Metall., 36, No. 10: 2639 (1988)",
+				"tr":  "S. P. Lynch, Acta Metall., 36, No. 10: 2639 (1988)"
+			},
+			{
+				"doi": "10.2355/isijinternational.41.590",
+				"or":  "M. Nagumo, ISIJ Intern., 41, No. 6: 590 (2011)",
+				"tr":  "M. Nagumo, ISIJ Intern., 41, No. 6: 590 (2011)"
+			},
+			{
+				"doi": "10.1515/corrrev-2013-0024",
+				"or":  "V. G. Gavriljuk, B. D. Shanina, V. N. Shyvanyuk, and S. M. Teus, Corrosion Rev., 31, No. 2: 33 (2013)",
+				"tr":  "V. G. Gavriljuk, B. D. Shanina, V. N. Shyvanyuk, and S. M. Teus, Corrosion Rev., 31, No. 2: 33 (2013)"
+			},
+			{
+				"doi": "10.1002/pssa.200723249",
+				"or":  "S. M. Teus, V. N. Shyvanyuk, B. D. Shanina, and V. G. Gavriljuk, phys. status solidi (a), 204, No. 12: 4249 (2007)",
+				"tr":  "S. M. Teus, V. N. Shyvanyuk, B. D. Shanina, and V. G. Gavriljuk, phys. status solidi (a), 204, No. 12: 4249 (2007)"
+			},
+			{
+				"doi": "10.1002/pssa.200925548",
+				"or":  "D. N. Movchan, V. N. Shyvanyuk, B. D. Shanina, and V. G. Gavriljuk, phys. status solidi (a), 207, No. 8: 1796 (2010)",
+				"tr":  "D. N. Movchan, V. N. Shyvanyuk, B. D. Shanina, and V. G. Gavriljuk, phys. status solidi (a), 207, No. 8: 1796 (2010)"
+			},
+			{
+				"doi": "10.1063/1.3499610",
+				"or":  "V. G. Gavriljuk, B. D. Shanina, V. N. Syvanyuk, and S. M. Teus. J. Appl. Phys., 108: 083723 (2010)",
+				"tr":  "V. G. Gavriljuk, B. D. Shanina, V. N. Syvanyuk, and S. M. Teus. J. Appl. Phys., 108: 083723 (2010)"
+			},
+			{
+				"doi": "10.1103/PhysRevB.48.3224",
+				"or":  "V. G. Gavriljuk, B. D. Shanina, N. P. Baran, and V. M. Maximenko, Phys. Rev. B, 48, No. 5: 3224 (1993)",
+				"tr":  "V. G. Gavriljuk, B. D. Shanina, N. P. Baran, and V. M. Maximenko, Phys. Rev. B, 48, No. 5: 3224 (1993)"
+			},
+			{
+				"doi": "10.1016/0038-1098(94)90941-5",
+				"or":  "B. D. Shanina, S. P. Kolesnik, A. A. Konchitz, V. G. Gavriljuk, S. Yu. Smouk, and A. V. Tarasenko, Solid State Commun., 90, No. 2: 109 (1994)",
+				"tr":  "B. D. Shanina, S. P. Kolesnik, A. A. Konchitz, V. G. Gavriljuk, S. Yu. Smouk, and A. V. Tarasenko, Solid State Commun., 90, No. 2: 109 (1994)"
+			},
+			{
+				"doi": "10.1002/pssa.2211490222",
+				"or":  "B. D. Shanina, V. G. Gavriljuk, A. A. Konchitz, S. P. Kolesnik, and A. V. Tarasenko, phys. status solidi (a), 149, No. 2: 711 (1995)",
+				"tr":  "B. D. Shanina, V. G. Gavriljuk, A. A. Konchitz, S. P. Kolesnik, and A. V. Tarasenko, phys. status solidi (a), 149, No. 2: 711 (1995)"
+			},
+			{
+				"doi": "10.1088/0022-3727/32/3/018",
+				"or":  "B. D. Shanina, V. G. Gavriljuk, S. P. Kolesnik, and V. N. Shivanyuk, J. Phys. D: Appl. Phys., 32: 298 (1999)",
+				"tr":  "B. D. Shanina, V. G. Gavriljuk, S. P. Kolesnik, and V. N. Shivanyuk, J. Phys. D: Appl. Phys., 32: 298 (1999)"
+			},
+			{
+				"doi": "10.1007/978-3-642-53297-9",
+				"or":  "W. Seith, Diffusion in Metallen, Platzwechselreaktionen (Berlin–Göttingen–Heidelberg: Springer-Verlag: 1955)",
+				"tr":  "W. Seith, Diffusion in Metallen, Platzwechselreaktionen (Berlin–Göttingen–Heidelberg: Springer-Verlag: 1955)"
+			},
+			{
+				"doi": "",
+				"or":  "H. Nakajima and K. Hirano, ISIJ Intern., 19: 400 (1978)",
+				"tr":  "H. Nakajima and K. Hirano, ISIJ Intern., 19: 400 (1978)"
+			},
+			{
+				"doi": "10.1016/S1359-6454(96)00138-3",
+				"or":  "A. L. Sozinov, A. G. Balanyuk, and V. G. Gavriljuk, Acta Mater., 45, No. 1: 225 (1997)",
+				"tr":  "A. L. Sozinov, A. G. Balanyuk, and V. G. Gavriljuk, Acta Mater., 45, No. 1: 225 (1997)"
+			},
+			{
+				"doi": "10.1016/S1359-6454(98)00394-2",
+				"or":  "A. L. Sozinov, A. G. Balanyuk, and V. G. Gavriljuk, Acta Mater., 47, No. 3: 927 (1999)",
+				"tr":  "A. L. Sozinov, A. G. Balanyuk, and V. G. Gavriljuk, Acta Mater., 47, No. 3: 927 (1999)"
+			},
+			{
+				"doi": "10.1016/S1359-6454(00)00208-1",
+				"or":  "A. G. Balanyuk, V. G. Gavriljuk, V. N. Shivanyuk, A. I. Tyshchenko, and J. Rawers, Acta Mater., 48, No. 15: 3813 (2000)",
+				"tr":  "A. G. Balanyuk, V. G. Gavriljuk, V. N. Shivanyuk, A. I. Tyshchenko, and J. Rawers, Acta Mater., 48, No. 15: 3813 (2000)"
+			},
+			{
+				"doi": "10.1016/S1359-6454(00)00192-0",
+				"or":  "V. G. Gavriljuk, B. D. Shanina, and H. Berns, Acta Mater., 48, No. 15: 3879 (2000)",
+				"tr":  "V. G. Gavriljuk, B. D. Shanina, and H. Berns, Acta Mater., 48, No. 15: 3879 (2000)"
+			},
+			{
+				"doi": "10.1002/srin.200200181",
+				"or":  "B. Shanina, V. Gavriljuk, H. Berns, and F. Schmalt, Steel Research, 73, No. 3: 105 (2002)",
+				"tr":  "B. Shanina, V. Gavriljuk, H. Berns, and F. Schmalt, Steel Research, 73, No. 3: 105 (2002)"
+			},
+			{
+				"doi": "10.1016/j.actamat.2008.06.021",
+				"or":  "V. G. Gavriljuk, B. D. Shanina, and H. Berns, Acta Mater., 56: 5071 (2008)",
+				"tr":  "V. G. Gavriljuk, B. D. Shanina, and H. Berns, Acta Mater., 56: 5071 (2008)"
+			},
+			{
+				"doi": "10.1103/PhysRevB.4.3797",
+				"or":  "J. H. Pifera and R. T. Longo, Phys. Rev. B, 4: 3797 (1971)",
+				"tr":  "J. H. Pifera and R. T. Longo, Phys. Rev. B, 4: 3797 (1971)"
+			},
+			{
+				"doi": "10.1007/s11661-997-0177-4",
+				"or":  "V. G. Gavriljuk, A. L. Sozinov, A. G. Balanyuk, S. V. Grigoriev, O. A. Gubin, G. P. Kopitsa, A. I. Okorokov, and V. V. Runov, Mater. Trans. A, 28, No. 11: 2195 (1997)",
+				"tr":  "V. G. Gavriljuk, A. L. Sozinov, A. G. Balanyuk, S. V. Grigoriev, O. A. Gubin, G. P. Kopitsa, A. I. Okorokov, and V. V. Runov, Mater. Trans. A, 28, No. 11: 2195 (1997)"
+			},
+			{
+				"doi": "",
+				"or":  "I. I. Gurevich and T. V. Tarasov, Physics of Low Energy Neutrons (Moscow: Nauka: 1965) (in Russian)",
+				"tr":  "I. I. Gurevich and T. V. Tarasov, Physics of Low Energy Neutrons (Moscow: Nauka: 1965) (in Russian)"
+			},
+			{
+				"doi": "10.1088/0953-8984/10/8/015",
+				"or":  "B. D. Shanina, V. G. Gavriljuk, A. A. Konchitz, and S. P. Kolesnik, J. Phys.: Condens. Matter, 10: 1825 (1998)",
+				"tr":  "B. D. Shanina, V. G. Gavriljuk, A. A. Konchitz, and S. P. Kolesnik, J. Phys.: Condens. Matter, 10: 1825 (1998)"
+			},
+			{
+				"doi": "10.1002/srin.196904324",
+				"or":  "H. Thier, A. Bäumel, und E. Schmidtmann, Arch. Eisenhüttenwesen, 40, No. 4: 333 (1969)",
+				"tr":  "H. Thier, A. Bäumel, und E. Schmidtmann, Arch. Eisenhüttenwesen, 40, No. 4: 333 (1969)"
+			},
+			{
+				"doi": "10.1002/maco.19890400802",
+				"or":  "U. Heubner, M. Rockel, und E. Wallis, Werkstoffe und Korrosion, 40: 459 (1989)",
+				"tr":  "U. Heubner, M. Rockel, und E. Wallis, Werkstoffe und Korrosion, 40: 459 (1989)"
+			},
+			{
+				"doi": "",
+				"or":  "S. Hertzman, Scand. J. Metallurgy, 24: 140 (1995)",
+				"tr":  "S. Hertzman, Scand. J. Metallurgy, 24: 140 (1995)"
+			},
+			{
+				"doi": "",
+				"or":  "R. F. A. Jargelius-Pettersson, Z. Metallkd., 89, No. 3: 177 (1998)",
+				"tr":  "R. F. A. Jargelius-Pettersson, Z. Metallkd., 89, No. 3: 177 (1998)"
+			},
+			{
+				"doi": "",
+				"or":  "H. Berns, V. A. Duz’, R. Ehrhardt, V. G. Gavriljuk, and A. V. Tarasenko. Metallofiz. Noveishie Tekhnol., 15: 561 (1995) (in Russian)",
+				"tr":  "H. Berns, V. A. Duz', R. Ehrhardt, V. G. Gavriljuk, and A. V. Tarasenko. Metallofiz. Noveishie Tekhnol., 15: 561 (1995) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "H. Berns, V. A. Duz’, R. Ehrhardt, V. G. Gavriljuk, Yu. N. Petrov, and A. V. Tarasenko, Z. Metallkd., 88, No. 2: 109 (1997)",
+				"tr":  "H. Berns, V. A. Duz', R. Ehrhardt, V. G. Gavriljuk, Yu. N. Petrov, and A. V. Tarasenko, Z. Metallkd., 88, No. 2: 109 (1997)"
+			},
+			{
+				"doi": "10.5006/0010-9312-35.10.461",
+				"or":  "A. Szumer and A. Janko, Corrosion, 35: 461 (1979)",
+				"tr":  "A. Szumer and A. Janko, Corrosion, 35: 461 (1979)"
+			},
+			{
+				"doi": "",
+				"or":  "A. Inoue, Y. Hosoya, and T. Masumoto, ISIJ Intern., 19: 170 (1979)",
+				"tr":  "A. Inoue, Y. Hosoya, and T. Masumoto, ISIJ Intern., 19: 170 (1979)"
+			},
+			{
+				"doi": "10.1007/BF02642872",
+				"or":  "N. Narita, C. J. Altstetter, and H. K. Birnbaum, Metall. Trans. A, 13: 1355 (1982)",
+				"tr":  "N. Narita, C. J. Altstetter, and H. K. Birnbaum, Metall. Trans. A, 13: 1355 (1982)"
+			},
+			{
+				"doi": "10.1088/0953-8984/10/31/014",
+				"or":  "A. G. Vakhney, A. N. Yaresko, V. N. Antonov, V. V. Nemoshkalenko, V. G. Gavriljuk, V. A. Tarasenko, and I. Smurov, J. Phys.: Condens. Matter, 10: 6987 (1998)",
+				"tr":  "A. G. Vakhney, A. N. Yaresko, V. N. Antonov, V. V. Nemoshkalenko, V. G. Gavriljuk, V. A. Tarasenko, and I. Smurov, J. Phys.: Condens. Matter, 10: 6987 (1998)"
+			},
+			{
+				"doi": "10.1016/j.ijhydene.2013.04.145",
+				"or":  "D. N. Movchan, B. D. Shanina, and V. G. Gavriljuk, Int. J. Hydrogen Energy, 38: 8471 (2013)",
+				"tr":  "D. N. Movchan, B. D. Shanina, and V. G. Gavriljuk, Int. J. Hydrogen Energy, 38: 8471 (2013)"
+			},
+			{
+				"doi": "",
+				"or":  "N. I. Noskova, V. A. Pavlov, and S. A. Nemnonov, Fiz. Met. Metalloved., 20, No. 6: 920 (1965) (in Russian)",
+				"tr":  "N. I. Noskova, V. A. Pavlov, and S. A. Nemnonov, Fiz. Met. Metalloved., 20, No. 6: 920 (1965) (in Russian)"
+			},
+			{
+				"doi": "10.1007/BF02641927",
+				"or":  "R. E. Schramm and R. P. Reed, Metall. Trans. A, 6: 1345 (1975)",
+				"tr":  "R. E. Schramm and R. P. Reed, Metall. Trans. A, 6: 1345 (1975)"
+			},
+			{
+				"doi": "10.1016/S1359-6462(97)00332-1",
+				"or":  "A. E. Pontini and J. D. Hermida, Scr. Mater., 37: 1831 (1997)",
+				"tr":  "A. E. Pontini and J. D. Hermida, Scr. Mater., 37: 1831 (1997)"
+			},
+			{
+				"doi": "",
+				"or":  "R. Fawley, M. A. Quader, and R. A. Dodd, Trans. TMS AIME, 242: 771 (1968)",
+				"tr":  "R. Fawley, M. A. Quader, and R. A. Dodd, Trans. TMS AIME, 242: 771 (1968)"
+			},
+			{
+				"doi": "10.5006/0010-9312-19.3.102",
+				"or":  "P. R. Swann, Corrosion, 19, No. 3: 102 (1963)",
+				"tr":  "P. R. Swann, Corrosion, 19, No. 3: 102 (1963)"
+			},
+			{
+				"doi": "",
+				"or":  "D. Dulieu and J. Nutting, Metallurgical Developments in High-Alloy Steels Proc. (London: Iron and Steel Institute: 1964), p. 140",
+				"tr":  "D. Dulieu and J. Nutting, Metallurgical Developments in High-Alloy Steels Proc. (London: Iron and Steel Institute: 1964), p. 140"
+			},
+			{
+				"doi": "10.1007/BF02654717",
+				"or":  "R. E. Stoltz and J. B. Vander Sande, Metall. Trans. A, 11, No. 6: 1033 (1980)",
+				"tr":  "R. E. Stoltz and J. B. Vander Sande, Metall. Trans. A, 11, No. 6: 1033 (1980)"
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2006.05.025",
+				"or":  "V. Gavriljuk, Yu. Petrov, and B. Shanina, Scr. Mater., 55: 537 (2006)",
+				"tr":  "V. Gavriljuk, Yu. Petrov, and B. Shanina, Scr. Mater., 55: 537 (2006)"
+			},
+			{
+				"doi": "10.1016/S1359-6454(97)00322-4",
+				"or":  "V. G. Gavriljuk, A. L. Sozinov, J. Foct, Yu. N. Petrov, and A. A. Polushkin, Acta Mater., 46, No. 4: 1157 (1998)",
+				"tr":  "V. G. Gavriljuk, A. L. Sozinov, J. Foct, Yu. N. Petrov, and A. A. Polushkin, Acta Mater., 46, No. 4: 1157 (1998)"
+			},
+			{
+				"doi": "10.1016/0022-3697(88)90178-3",
+				"or":  "R. B. McLellan, J. Phys. Chem. Sol., 49: 1213 (1988)",
+				"tr":  "R. B. McLellan, J. Phys. Chem. Sol., 49: 1213 (1988)"
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Bobyr, V. N. Bugaev, and A. A. Smirnov, Doklady Akad. Nauk USSR, 320: 1113 (1991) (in Russian)",
+				"tr":  "A. M. Bobyr, V. N. Bugaev, and A. A. Smirnov, Doklady Akad. Nauk USSR, 320: 1113 (1991) (in Russian)"
+			},
+			{
+				"doi": "10.1143/JJAP.32.L1256",
+				"or":  "Y. Fukai and N. Okuma, Jpn. J. Appl. Phys., 32, No. 2: L1256 (1993)",
+				"tr":  "Y. Fukai and N. Okuma, Jpn. J. Appl. Phys., 32, No. 2: L1256 (1993)"
+			},
+			{
+				"doi": "10.1016/1359-6462(95)00580-3",
+				"or":  "V. G. Gavriljuk, V. N. Bugaev, Yu. N. Petrov, A. V. Tarasenko, and B. Z. Yanchitsky, Scr. Mater., 34, No. 6: 903 (1996)",
+				"tr":  "V. G. Gavriljuk, V. N. Bugaev, Yu. N. Petrov, A. V. Tarasenko, and B. Z. Yanchitsky, Scr. Mater., 34, No. 6: 903 (1996)"
+			},
+			{
+				"doi": "10.1007/BF02646645",
+				"or":  "M. Kikuchi, T. Tanaka, and R. Tanaka, Metall. Trans., 5, No. 6: 1520 (1974)",
+				"tr":  "M. Kikuchi, T. Tanaka, and R. Tanaka, Metall. Trans., 5, No. 6: 1520 (1974)"
+			},
+			{
+				"doi": "",
+				"or":  "M. Kikuchi, Proc. University of Tokyo–Harbin Institute of Technology Symposium on Materials Science (May 20–22, 1985) (Tokyo: 1985), p. 22",
+				"tr":  "M. Kikuchi, Proc. University of Tokyo–Harbin Institute of Technology Symposium on Materials Science (May 20–22, 1985) (Tokyo: 1985), p. 22"
+			},
+			{
+				"doi": "",
+				"or":  "V. G. Gavriljuk, V. A. Duz’, S. P. Yefimenko, and O. G. Kvasnevsky, Fiz. Met. Metalloved., 64, No. 6: 1132 (1987) (in Russian)",
+				"tr":  "V. G. Gavriljuk, V. A. Duz', S. P. Yefimenko, and O. G. Kvasnevsky, Fiz. Met. Metalloved., 64, No. 6: 1132 (1987) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "V. G. Gavriljuk, V. A. Duz’, and S. P. Yephimenko, Proc. of 1st Intern. Conf. ‘High Nitrogen Steels’ (May 18–20, 1988) (London: Institute of Metals: 1989), p. 447",
+				"tr":  "V. G. Gavriljuk, V. A. Duz', and S. P. Yephimenko, Proc. of 1st Intern. Conf. 'High Nitrogen Steels' (May 18–20, 1988) (London: Institute of Metals: 1989), p. 447"
+			},
+			{
+				"doi": "10.1016/S0921-5093(99)00272-5",
+				"or":  "V. G. Gavriljuk, H. Berns, Ch. Escher, N. I. Glavatska, A. Sozinov, and Yu. N. Petrov, Mat. Sci. Eng. A, 271: 14 (1999)",
+				"tr":  "V. G. Gavriljuk, H. Berns, Ch. Escher, N. I. Glavatska, A. Sozinov, and Yu. N. Petrov, Mat. Sci. Eng. A, 271: 14 (1999)"
+			},
+			{
+				"doi": "10.1063/1.323410",
+				"or":  "A. Atrens, N. F. Fiore, and K. Miura, J. Appl. Phys., 48: 4247 (1977)",
+				"tr":  "A. Atrens, N. F. Fiore, and K. Miura, J. Appl. Phys., 48: 4247 (1977)"
+			},
+			{
+				"doi": "",
+				"or":  "V. G. Gavriljuk, B. D. Shanina, V. N. Shyvanyuk, and S. M. Teus, Proc. of the 2012 International Hydrogen Conference (September 9–12, 2012, Wyoming) (New York: ASME Press: 2014), p. 67",
+				"tr":  "V. G. Gavriljuk, B. D. Shanina, V. N. Shyvanyuk, and S. M. Teus, Proc. of the 2012 International Hydrogen Conference (September 9–12, 2012, Wyoming) (New York: ASME Press: 2014), p. 67"
+			},
+			{
+				"doi": "",
+				"or":  "V. G. Gavriljuk, N. P. Kushnareva, and V. G. Prokopenko, Fiz. Met. Metalloved., 42, No. 6: 1288 (1976) (in Russian)",
+				"tr":  "V. G. Gavriljuk, N. P. Kushnareva, and V. G. Prokopenko, Fiz. Met. Metalloved., 42, No. 6: 1288 (1976) (in Russian)"
+			},
+			{
+				"doi": "10.1016/0001-6160(77)90194-8",
+				"or":  "A. Zelinski, E. Lunarska, and M. Smialowski, Acta Metall., 25: 551 (1977)",
+				"tr":  "A. Zelinski, E. Lunarska, and M. Smialowski, Acta Metall., 25: 551 (1977)"
+			},
+			{
+				"doi": "10.1016/0001-6160(64)90141-5",
+				"or":  "G. Schoeck, E. Bisogni, and J. Shyne, Acta Metall., 12: 1466 (1964)",
+				"tr":  "G. Schoeck, E. Bisogni, and J. Shyne, Acta Metall., 12: 1466 (1964)"
+			},
+			{
+				"doi": "10.1007/BF02722508",
+				"or":  "A. Rivière, J. P. Amirault, and J. Woirgard, Il Nuovo Cimento, 33: 398 (1976)",
+				"tr":  "A. Rivière, J. P. Amirault, and J. Woirgard, Il Nuovo Cimento, 33: 398 (1976)"
+			},
+			{
+				"doi": "10.1016/0001-6160(63)90096-8",
+				"or":  "G. Schoeck, Acta Metall., 11: 617 (1963)",
+				"tr":  "G. Schoeck, Acta Metall., 11: 617 (1963)"
+			},
+			{
+				"doi": "10.1002/pssa.2210550213",
+				"or":  "A. Seeger, phys. status solidi (a), 55: 457 (1979)",
+				"tr":  "A. Seeger, phys. status solidi (a), 55: 457 (1979)"
+			},
+			{
+				"doi": "10.1016/0036-9748(76)90160-5",
+				"or":  "K. Takita and K. Sakamoto, Scr. Metall., 10, No. 5: 399 (1976)",
+				"tr":  "K. Takita and K. Sakamoto, Scr. Metall., 10, No. 5: 399 (1976)"
+			},
+			{
+				"doi": "",
+				"or":  "J.-O. Nilsson and T. Thorwaldsson, Scand. J. Metallurgy, 15: 83 (1985)",
+				"tr":  "J.-O. Nilsson and T. Thorwaldsson, Scand. J. Metallurgy, 15: 83 (1985)"
+			},
+			{
+				"doi": "10.1016/0921-5093(94)90906-7",
+				"or":  "M. Grujicic, Mater. Sci. Eng. A, 183: 223 (1994)",
+				"tr":  "M. Grujicic, Mater. Sci. Eng. A, 183: 223 (1994)"
+			},
+			{
+				"doi": "10.1016/0921-5093(94)09618-7",
+				"or":  "M. Grujicic and X. W. Zhou, Mater. Sci. Eng. A, 190: 8 (1995)",
+				"tr":  "M. Grujicic and X. W. Zhou, Mater. Sci. Eng. A, 190: 8 (1995)"
+			},
+			{
+				"doi": "",
+				"or":  "A. Nyilas, B. Obst, and H. Nakajima, Proc. 3rd Intern. Conf. ‘High Nitrogen Steels’ (September 14–16, 1993) (Eds. V. G. Gavriljuk and V. M. Nadutov) (Kiev: Institute for Metal Physics: 1993), p. 339",
+				"tr":  "A. Nyilas, B. Obst, and H. Nakajima, Proc. 3rd Intern. Conf. 'High Nitrogen Steels' (September 14–16, 1993) (Eds. V. G. Gavriljuk and V. M. Nadutov) (Kiev: Institute for Metal Physics: 1993), p. 339"
+			},
+			{
+				"doi": "10.1080/14786441108520632",
+				"or":  "A. Seeger, Philos. Mag., 46, No. 382: 1194 (1955)",
+				"tr":  "A. Seeger, Philos. Mag., 46, No. 382: 1194 (1955)"
+			},
+			{
+				"doi": "10.1016/S1359-6454(97)00322-4",
+				"or":  "V. G. Gavriljuk, A. L. Sozinov, J. Foct, Yu. N. Petrov, and A. A. Polushkin, Acta Mater., 46, No. 4: 1157 (1998)",
+				"tr":  "V. G. Gavriljuk, A. L. Sozinov, J. Foct, Yu. N. Petrov, and A. A. Polushkin, Acta Mater., 46, No. 4: 1157 (1998)"
+			},
+			{
+				"doi": "10.1179/msc.1977.11.6.208",
+				"or":  "L. A. Norström, Metal Sci., 11, No. 6: 208 (1977)",
+				"tr":  "L. A. Norström, Metal Sci., 11, No. 6: 208 (1977)"
+			},
+			{
+				"doi": "",
+				"or":  "H. J. Köstler und H. Sidan, Z. Wirtsch Fert, 72, No. 10: 785 (1977)",
+				"tr":  "H. J. Köstler und H. Sidan, Z. Wirtsch Fert, 72, No. 10: 785 (1977)"
+			},
+			{
+				"doi": "",
+				"or":  "N. J. Petch, J. Iron Steel Inst., 174: 25 (1953)",
+				"tr":  "N. J. Petch, J. Iron Steel Inst., 174: 25 (1953)"
+			},
+			{
+				"doi": "10.1016/0001-6160(63)90134-2",
+				"or":  "H. Conrad, Acta Metall., 11, No. 1: 75 (1963)",
+				"tr":  "H. Conrad, Acta Metall., 11, No. 1: 75 (1963)"
+			},
+			{
+				"doi": "",
+				"or":  "J. C. M. Li, Trans TMS AIME, 227, No. 2: 239 (1963)",
+				"tr":  "J. C. M. Li, Trans TMS AIME, 227, No. 2: 239 (1963)"
+			},
+			{
+				"doi": "",
+				"or":  "J. Sassen, A. J. Garrat-Reed, and W. S. Owen, Proc. of 1st Intern. Conf. ‘High Nitrogen Steels’ (May 18–20, 1988) (London: Institute of Metals: 1989), p. 159",
+				"tr":  "J. Sassen, A. J. Garrat-Reed, and W. S. Owen, Proc. of 1st Intern. Conf. 'High Nitrogen Steels' (May 18–20, 1988) (London: Institute of Metals: 1989), p. 159"
+			},
+			{
+				"doi": "10.1016/0956-7151(95)00110-H",
+				"or":  "B. P. Kashyap and K. Tangri, Acta Metall. Mater., 43, No. 11: 3971 (1995)",
+				"tr":  "B. P. Kashyap and K. Tangri, Acta Metall. Mater., 43, No. 11: 3971 (1995)"
+			},
+			{
+				"doi": "",
+				"or":  "N. D. Afanasyev, V. G. Gavriljuk, V. A. Duz’, V. L. Svechnikov, and V. M. Nadutov, Fiz. Met. Metalloved., 8: 121 (1990) (in Russian)",
+				"tr":  "N. D. Afanasyev, V. G. Gavriljuk, V. A. Duz', V. L. Svechnikov, and V. M. Nadutov, Fiz. Met. Metalloved., 8: 121 (1990) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "P. J. Uggowitzer and M. O. Speidel, Proc. 2nd Intern. Conf. ‘High Nitrogen Steels’ (October 10–12, 1990) (Düsseldorf: Stahl und Eisen: 1990), p. 156",
+				"tr":  "P. J. Uggowitzer and M. O. Speidel, Proc. 2nd Intern. Conf. 'High Nitrogen Steels' (October 10–12, 1990) (Düsseldorf: Stahl und Eisen: 1990), p. 156"
+			},
+			{
+				"doi": "10.1016/S1359-6462(98)00488-6",
+				"or":  "Yu. N. Petrov, V. G. Gavriljuk, H. Berns, and Ch. Escher, Scr. Mater., 40, No. 6: 69 (1999)",
+				"tr":  "Yu. N. Petrov, V. G. Gavriljuk, H. Berns, and Ch. Escher, Scr. Mater., 40, No. 6: 69 (1999)"
+			},
+			{
+				"doi": "10.1016/0956-716X(93)90339-T",
+				"or":  "Yu. N. Petrov, Scr. Metall. Mater., 29: 1471 (1993)",
+				"tr":  "Yu. N. Petrov, Scr. Metall. Mater., 29: 1471 (1993)"
+			},
+			{
+				"doi": "",
+				"or":  "A. H. Cottrell, Trans. TMS–AIME, 212: 192 (1958)",
+				"tr":  "A. H. Cottrell, Trans. TMS–AIME, 212: 192 (1958)"
+			},
+			{
+				"doi": "",
+				"or":  "J. Frehser und Ch. Kubisch, Berg und Hüttenmännische Monatshefte, 108, No. 11: 369 (1963)",
+				"tr":  "J. Frehser und Ch. Kubisch, Berg und Hüttenmännische Monatshefte, 108, No. 11: 369 (1963)"
+			},
+			{
+				"doi": "",
+				"or":  "M. A. E. Harzenmoser, Massive Aufgestickte Austenitisch-Rostfreie Stähle und Duplexstähle (Thesis of Disser. for Dr. Sci.) (Zürich: Eidgenössische Technische Hochschule: 1990)",
+				"tr":  "M. A. E. Harzenmoser, Massive Aufgestickte Austenitisch-Rostfreie Stähle und Duplexstähle (Thesis of Disser. for Dr. Sci.) (Zürich: Eidgenössische Technische Hochschule: 1990)"
+			},
+			{
+				"doi": "",
+				"or":  "P. J. Uggowitzer, N. Paulus, and M. O. Speidel, Application of Stainless Steels’92 (Stockholm: The Institute of Metals: 1992), p. 62",
+				"tr":  "P. J. Uggowitzer, N. Paulus, and M. O. Speidel, Application of Stainless Steels'92 (Stockholm: The Institute of Metals: 1992), p. 62"
+			},
+			{
+				"doi": "10.1016/0956-7151(91)90211-I",
+				"or":  "D. G. Ulmer and C. J. Altstetter, Acta Metall. Mater., 39: 1237 (1991)",
+				"tr":  "D. G. Ulmer and C. J. Altstetter, Acta Metall. Mater., 39: 1237 (1991)"
+			},
+			{
+				"doi": "10.1007/BF02811667",
+				"or":  "H. Hänninen and T. Hakkarainen, Metal. Trans. A, 10: 1196 (1979)",
+				"tr":  "H. Hänninen and T. Hakkarainen, Metal. Trans. A, 10: 1196 (1979)"
+			},
+			{
+				"doi": "10.1016/S1359-6454(97)00350-9",
+				"or":  "Y. Tomota, Y. Xia, and K. Inoue, Acta Mater., 46, No. 5: 1577 (1998)",
+				"tr":  "Y. Tomota, Y. Xia, and K. Inoue, Acta Mater., 46, No. 5: 1577 (1998)"
+			},
+			{
+				"doi": "",
+				"or":  "V. G. Gavriljuk, D. S. Hertsricken, V. M. Falchenko, and Yu. A. Polushkin, Fiz. Met. Metalloved., 51, No. 1: 147 (1981) (in Russian)",
+				"tr":  "V. G. Gavriljuk, D. S. Hertsricken, V. M. Falchenko, and Yu. A. Polushkin, Fiz. Met. Metalloved., 51, No. 1: 147 (1981) (in Russian)"
+			},
+			{
+				"doi": "10.1016/0001-6160(88)90274-X",
+				"or":  "D. Teirlinck, F. Zok, J. D. Embury, and M. F. Ashby, Acta Metall., 36, No. 5: 1213 (1988)",
+				"tr":  "D. Teirlinck, F. Zok, J. D. Embury, and M. F. Ashby, Acta Metall., 36, No. 5: 1213 (1988)"
+			}
+		]
+	}
+}

@@ -1,0 +1,110 @@
+{
+	"_id":    "MFiNT.38.07.0969",
+	"year":   2016,
+	"volume": 38,
+	"issue":  7,
+	"pages":  [969,980],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["05.04.2016", "29.06.2016"],
+	"PACS":   "81.05.Bx, 81.05.Je, 81.05.Mh, 81.05.Ni, 81.20.Ev, 81.40.Pq, 81.70.Jb",
+	"title":   {
+		"ua": "Формування структури кермету на основі карбіду хрому з мідно—ніклево—марґановою зв’язкою",
+		"en": "Structure Formation of the Chromium Carbide-Based Cermet with Copper—Nickel—Manganese Binder",
+		"ru": "Формирование структуры кермета на основе карбида хрома с медно-никелево-марганцевой связкой"
+	},
+	"abstract": {
+		"ua": "В роботі досліджено структуру керметів на основі Cr$_{3}$C$_{2}$ зі зв’язкою з манґанового мельхіору. Кермети одержували просочуванням попередньо спресованих і спечених каркасів Cr$_{3}$C$_{2}$ мельхіором марки МНМц 60-20-20 при 1150°C в атмосфері арґону. Одержані матеріяли мають трифазну структуру: твердий розчин на основі міді, Cr$_{3}$C$_{2}$ і (Cr,Mn)$_{7}$C$_{3}$, який виділяється у вигляді дисперсних включень у зв’язці та на межах карбідних зерен.",
+		"en": "The structure of Cr$_{3}$C$_{2}$-based cermets with a binder of manganese cupronickel is studied. The cermets are fabricated by means of the infiltration of porous carbide skeletons with manganese cupronickel alloy. To obtain porous preforms, chromium carbide powder with average particle size of $\\cong$ 4 $\\mu$m is mixed as a 5% solution of rubber in benzene and then is briquetted under pressure of $\\cong$ 500 MPa. After that process, they are sintered in vacuum at 1250°C. After such a thermal treatment, the skeletons’ open porosity is 40%. The pressureless infiltration is performed by the top-down method at 1150°C for 10 min, and the CuNiMn 60-20-20 grade manganese cupronickel is used as an infiltration alloy. The mass of infiltration material is calculated so that 100% pores in briquettes are filled. The structure of obtained cermets is studied using a ZEISS EVO 40XVP scanning electron microscope with an INCA Energy microanalysis, and the X-ray studies are performed on a DRON-3 diffractometer in the filtered CuK$_{\\alpha}$-radiation. The resultant materials have three-phase composition: solid solution based on copper, Cr$_{3}$C$_{2}$ and (Cr,Mn)$_{7}$C$_{3}$, which is allocated as a disperse inclusions in binder phase and on the carbide grain boundaries; the residual porosity is within 1%. The analysis of phases’ size distribution of the Cr$_{3}$C$_{2}$ and (Cr,Mn)$_{7}$C$_{3}$ grains shows that their mean grain sizes are 5.6 $\\mu$m and 1.7 $\\mu$m, respectively, and the width of intergranular layers of Cu-based binder is 3.6 m. The analysis of the interaction zone shows that the width of a diffusion zone around Cr$_{3}$C$_{2}$ grains, which is formed due to the redistribution of Сr, Mn, and Cu, is about 5 $\\mu$m. This fact indicates the strong bonding between the Cr$_{3}$C$_{2}$ and metal binder due to the limited solubility and new (Cr,Mn)$_{7}$C$_{3}$-phase formation. The relative wear resistance of studied cermets determined under fixed abrasive friction conditions is nearly 3 times higher than one of serial high-chromium iron-based hard-facing alloys (such as somite). Due to their high wear resistance and heterogeneous structure, the investigated cermets can be used as an alternative to tungsten hard alloys for fabricating seal faces of centrifugal pumps.",
+		"ru": "В работе исследована структура керметов на основе Cr$_{3}$C$_{2}$ со связкой из марганцевого мельхиора. Керметы получали пропиткой предварительно спрессованных и спечённых каркасов Cr$_{3}$C$_{2}$ мельхиором марки МНМц 60-20-20 при 1150°C в атмосфере аргона. Полученные материалы характеризируются трёхфазной структурой: твёрдый раствор на основе меди, Cr$_{3}$C$_{2}$ и (Cr,Mn)$_{7}$C$_{3}$, который выделяется в виде дисперсных включений в связке и на границах карбидных зёрен."
+	},
+	"keywords": {
+		"ua": "кермети, манґановий мельхіор, карбід хрому, просочування, мікроструктура",
+		"en": "cermets, manganese cupronickel, chromium carbide, infiltration, microstructure",
+		"ru": "керметы, марганцевый мельхиор, карбид хрома, пропитка, микроструктура"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Л. С. Шлапак", "en": "L. S. Shlapak", "ru": "Л. С. Шлапак"},
+			"OID": [245]
+		},
+		{
+			"AID": {"ua": "Т. Шіхаб", "en": "Th. Shihab", "ru": "Т. Шихаб"},
+			"OID": [488]
+		},
+		{
+			"AID": {"ua": "П. М. Присяжнюк", "en": "P. M. Prysyazhnyuk", "ru": "П. Н. Присяжнюк"},
+			"OID": [245]
+		},
+		{
+			"AID": {"ua": "І. П. Яремій", "en": "I. P. Yaremiy", "ru": "И. П. Яремий"},
+			"OID": [209]
+		}
+	],
+	"references": {
+		"count": 12,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "R. S. Dean and C. T. Anderson, Am. Soc. Metals Trans., 29: 808 (1941).",
+				"tr":  "R. S. Dean and C. T. Anderson, Am. Soc. Metals Trans., 29: 808 (1941)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Е. Патон, Д. А. Дудко, Автоматическая сварка, 11: 44 (1966).",
+				"tr":  "B. E. Paton and D. A. Dudko, Avtomatycheskaya Svarka, 11: 44 (1966) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. I. Danilov and F. M. Rovenskikh, Metallurg, 29: 12 (1973).",
+				"tr":  "L. I. Danilov and F. M. Rovenskikh, Metallurg, 29: 12 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Бондаренко, Триботехнические композиты c высокомодульными наполнителями (Киев: Наукова думка: 1987).",
+				"tr":  "V. P. Bondarenko, Tribotekhnicheskie Kompozity s Vysokomodul'nymi Napolnitelyami (Kiev: Naukova Dumka: 1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Ya. Belousov, Sov. Mater. Sci., 15, 29: 12 (1979).",
+				"tr":  "V. Ya. Belousov, Sov. Mater. Sci., 15, 29: 12 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Я. Белоусов, Долговечность деталей машин с композиционными материалами (Львов: Вища школа: 1984).",
+				"tr":  "V. Ya. Belousov, Dolgovechnost' Detaley Mashin s Kompozitsionnymi Materialami (Lvov: Vyshcha Shkola: 1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "І. Спиридонова, О. Сухова, Фізика і хімія твердого тіла, 3, 3: 503 (2002).",
+				"tr":  "I. Spyrydonova and O. Sukhova, Fizyka i Khimiya Tverdoho Tila, 3, 3: 503 (2002) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. В. Суховая, Сверхтвердые материалы, 5: 29 (2013).",
+				"tr":  "E. V. Sukhovaya, Sverkhtverdye Materialy, 5: 29 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Д. Панасюк, В. С. Фоменко, Г. Г. Глебова, Стойкость неметаллических материалов в расплавах. Справочник (Киев: Наукова думка: 1986).",
+				"tr":  "A. D. Panasyuk, V. S. Fomenko, and G. G. Glebova, Stoykost' Nemetallicheskikh Materialov v Rasplavakh. Spravochnik (Kiev: Naukova Dumka: 1986)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Самсонов, И. М. Винницкий, Тугоплавкие соединения. Справочник (Москва: Металлургия: 1976).",
+				"tr":  "G. V. Samsonov and I. M. Vinnitskiy, Tugoplavkie Soedineniya. Spravochnik (Moscow: Metallurgiya: 1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Prysyazhnyuk, D. Lutsak, A. Vasylyk, T. Shihab, and M. Burda, Metallurgical and Mining Industry, 12: 346 (2015).",
+				"tr":  "P. Prysyazhnyuk, D. Lutsak, A. Vasylyk, T. Shihab, and M. Burda, Metallurgical and Mining Industry, 12: 346 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Lutsak, P. Prysyazhnyuk, and M. Karpash, Metallurgical and Mining Industry, 2: 126 (2016).",
+				"tr":  "D. Lutsak, P. Prysyazhnyuk, and M. Karpash, Metallurgical and Mining Industry, 2: 126 (2016)."
+			}
+		]
+	}
+}

@@ -1,0 +1,117 @@
+{
+	"_id":    "MFiNT.36.02.0259",
+	"year":   2014,
+	"volume": 36,
+	"issue":  2,
+	"pages":  [259,273],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["02.10.2013"],
+	"PACS":   "62.20.M-, 72.15.Eb, 81.40.Cd, 81.40.Gh, 81.40.Lm, 81.40.Np, 82.47.Cb",
+	"title":   {
+		"ua": "Фізико-хімічні властивості рідкозагартованого акумуляторного сплаву системи Pb—Ca—Sn",
+		"en": "Physical and Chemical Properties of Liquid-Quenched Battery Alloy of Pb—Ca—Sn System",
+		"ru": "Физико-химические свойства жидкозакалённого аккумуляторного сплава системы Pb—Ca—Sn"
+	},
+	"abstract": {
+		"ua": "Дослідженнями фізико-хімічних властивостей зразків сплаву позитивного струмовідводу свинцево-кислотного акумулятора системи Pb—Ca—Sn, у тому числі з мікродобавками барію, показано переваги способу одержання відповідних стрічок методом гартування з рідкого стану в порівнянні з діючою промисловою технологією прокатки.",
+		"en": "Investigation of physical and chemical properties of the Pb—Ca—Sn system alloy samples for positive grid of lead—acid battery, including microadditives of barium, shows the advantages of a method for fabrication of strips by quenching from the liquid state as compared to the operative industrial rolling technology.",
+		"ru": "Исследованиями физико-химических свойств образцов сплава положительного токоотвода свинцово-кислотного аккумулятора системы Pb—Ca— Sn, в том числе с микродобавками бария, показаны преимущества способа получения соответствующих лент методом закалки из жидкого состояния в сравнении с действующей промышленной технологией прокатки."
+	},
+	"keywords": {
+		"ua": "мікроструктура, фізико-хімічні властивості, штучне старіння, гартування з рідкого стану, свинцевий акумуляторний сплав",
+		"en": "microstructure, physico-chemical properties, artificial aging, quenching from the liquid state, lead battery alloy",
+		"ru": "микроструктура, физико-химические свойства, искусственное старение, закалка из жидкого состояния, свинцовый аккумуляторный сплав"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. А. Дзензерський", "en": "V. A. Dzenzerskiy", "ru": "В. А. Дзензерский"},
+			"OID": [187]
+		},
+		{
+			"AID": {"ua": "В. Ф. Башев", "en": "V. F. Bashev", "ru": "В. Ф. Башев"},
+			"OID": [222]
+		},
+		{
+			"AID": {"ua": "В. А. Полонський", "en": "V. A. Polonskiy", "ru": "В. А. Полонский"},
+			"OID": [222]
+		},
+		{
+			"AID": {"ua": "С. В. Тарасов", "en": "S. V. Tarasov", "ru": "С. В. Тарасов"},
+			"OID": [26]
+		},
+		{
+			"AID": {"ua": "Ю. І. Казача", "en": "Yu. I. Kazacha", "ru": "Ю. И. Казача"},
+			"OID": [187]
+		},
+		{
+			"AID": {"ua": "В. А. Іванов", "en": "V. A. Ivanov", "ru": "В. А. Иванов"},
+			"OID": [26]
+		},
+		{
+			"AID": {"ua": "А. А. Костіна", "en": "A. A. Kostina", "ru": "А. А. Костина"},
+			"OID": [222]
+		}
+	],
+	"references": {
+		"count": 11,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "D. A. J.Rand, P. T. Moseley, and J. Garche, Valve-Regulated Lead–Acid Batteries (Elsevier Science & Technology: 2004), p. 575.",
+				"tr":  "D. A. J. Rand, P. T. Moseley, and J. Garche, Valve-Regulated Lead–Acid Batteries (Elsevier Science & Technology: 2004), p. 575."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Башев, Н. Е. Житник, В. А. Иванов, Д. А. Рыбалка, Ю. А. Ткаченко, Металлы, № 1: 100 (2011).",
+				"tr":  "V. F. Bashev, N. E. Zhitnik, V. A. Ivanov, D. A. Rybalka, and Yu. A. Tkachenko, Metally, No. 1: 100 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "R. D. Prengaman, Proc. Fall Meeting Electrochem Soc. (1976, Las Vegas, NV, USA), р. 207.",
+				"tr":  "R. D. Prengaman, Proc. Fall Meeting Electrochem Soc. (1976, Las Vegas, NV, USA), p. 207."
+			},
+			{
+				"doi": "10.1016/S0378-7753(99)00006-3",
+				"or":  "L. Albert, A. Goguelin, and E. Jullian, J. Power Sources, 78, Iss. 1–2: 23 (1999).",
+				"tr":  "L. Albert, A. Goguelin, and E. Jullian, J. Power Sources, 78, Iss. 1–2: 23 (1999)."
+			},
+			{
+				"doi": "10.1016/j.jpowsour.2003.12.022",
+				"or":  "J. Furukawa, Y. Nehyo, and S. Shiga, J. Power Sources, 133, Iss. 1: 25 (2004).",
+				"tr":  "J. Furukawa, Y. Nehyo, and S. Shiga, J. Power Sources, 133, Iss. 1: 25 (2004)."
+			},
+			{
+				"doi": "10.1016/S0378-7753(02)00705-X",
+				"or":  "E. Jullian, L. Albert, and J. L. Callerie, J. Power Sources, 116, Iss. 1: 185 (2003).",
+				"tr":  "E. Jullian, L. Albert, and J. L. Callerie, J. Power Sources, 116, Iss. 1: 185 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "О. Х. Фаткуллин, Г. Б. Строганов, А. А. Ильин, А. В. Шульга, В. Н. Мартынов, Металловедение и технология быстроохлажденных сплавов (Москва: МАИ: 2007).",
+				"tr":  "O. Kh. Fatkullin, G. B. Stroganov, A. A. Il'in, A. V. Shul'ga, and V. N. Martynov, Metallovedenie i Tekhnologiya Bystrookhlazhdyonnykh Splavov (Moscow: MAI: 2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. С. Мирошниченко, Закалка из жидкого состояния (Москва: Металлургия: 1982).",
+				"tr":  "I. S. Miroshnichenko, Zakalka iz Zhidkogo Sostoyaniya (Moscow: Metallur-giya: 1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. С. Горелик, Ю. А. Скаков, Л. Н. Расторгуев, Рентгенографический и электронно-оптический анализ (Москва: МИСиС: 2002).",
+				"tr":  "S. S. Gorelik, Yu. A. Skakov, and L. N. Rastorguev, Rentgenograficheskiy i Elektronno-Opticheskiy Analiz (Moscow: MISiS: 2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. F. Bashev, V. A. Ivanov, B. N. Litvin, G. A. Sergeev, A. V. Burdimova, and V. N. Gudzenko, ХIII International Conference on Physics and Technology of Thin Films and Nanosystems (May 16–21, 2011, Ivanо-Frankivsk) (Ivanо-Frankivsk: Vasyl Stefanyk PreCarpathian National University: 2011), p. 197.",
+				"tr":  "V. F. Bashev, V. A. Ivanov, B. N. Litvin, G. A. Sergeev, A. V. Burdimova, and V. N. Gudzenko, XIII International Conference on Physics and Technology of Thin Films and Nanosystems (May 16–21, 2011, Ivano-Frankivsk) (Ivano-Frankivsk: Vasyl Stefanyk PreCarpathian National University: 2011), p. 197."
+			},
+			{
+				"doi": "",
+				"or":  "Ф. Тодт, Коррозия и защита от коррозии (Ленинград: Химия: 1967), с. 24.",
+				"tr":  "F. Todt, Korroziya i Zashchita ot Korrozii (Leningrad: Khimiya: 1967), p. 24 (in Russian)."
+			}
+		]
+	}
+}

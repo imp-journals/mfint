@@ -1,0 +1,148 @@
+{
+	"_id":    "MFiNT.36.11.1473",
+	"year":   2014,
+	"volume": 36,
+	"issue":  11,
+	"pages":  [1473,1496],
+	"rubric": 1,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["15.01.2014","23.08.2014"],
+	"PACS":   "61.20.Gy, 71.10.-w, 71.20.-b, 71.22.+i, 71.23.An, 71.55.Jv, 75.20.Hr",
+	"title":   {
+		"ua": "Кластерна модель рідкого або аморфного металу. Квантово-статистична теорія. Рідина",
+		"en": "Cluster Model of Liquid or Amorphous Metal. The Quantum-Statistical Theory. A Liquid",
+		"ru": "Кластерная модель жидкого или аморфного металла. Квантово-статистическая теория. Жидкость"
+	},
+	"abstract": {
+		"ua": "Рідкі (Р) та аморфні (АМ) метали представлено системою $N_{M}$ кластерів $K_{j}$ із внутрішніх ($v$) і поверхневих ($s$) катіонів. $K_{j}$ розділені порожнинами ($h_{j}$) з зонними електронами. Квантова теорія виходить із зонних ($t$) і Кулонових ($Q$) зв’язків для неперехідних металів. У перехідних Р-металах додається ковалентний зв’язок ($\\Gamma$) і флюктуації хемічного зв’язку (ФХЗ). Броунів рух і коефіцієнт дифузії $D(T)$ як функції температури $T$ пов’язані з ентропією $S$ кластерів і зонних електронів. Включення $S(N_{M})$ моделює топлення. Температура цього переходу першого роду $T_{L}(\\Gamma, Q, t)$ інтеґрально виражається через енергії зонних квазичастинок $\\varepsilon_{k}$ і ФХЗ. Постійне магнетне поле B виявляє $3d$-кластери у неперехідних Р-металах (Ga, Sn, ...). Змінне поле $B(\\omega)$ на частотах $\\omega \\geq 10^{3}$ відділяє (за рахунок скін-ефекту) поверхню і об’єм стопу. Легкі домішки (C, O, ...), вступаючи в реакції за наявности термічних і електромагнетних полів, змінюють склад Р-стопу та його спектри.",
+		"en": "Liquid and amorphous metals are represented by a system of $N_{M}$ clusters $K_{j}$ of interior ($v$) and surface (s) cations. $K_{j}$ are separated by hollows ($h_{j}$) with band electrons. The quantum theory proceeds from the band ($t$) and Coulomb ($Q$) bonds for nontransition metals. In transition liquid metals, the covalent bonds ($\\Gamma$) and chemical bonds’ fluctuations (CBF) are added. The Brownian motion and diffusion coefficient $D(T)$ as the functions of temperature $T$ are connected with entropy $S$ of clusters and band electrons. The melting is modelled taking into account $S(N_{M})$. The temperature of this phase transition of first kind $T_{L}(\\Gamma, Q, t)$ is integrally expressed through the energies of band quasi-particles, $\\varepsilon_{k}$, and CBF. Constant magnetic field manifests $3d$-clusters in nontransition liquid metals (Ga, Sn, ...). Variable field $B(\\omega)$ with frequency $\\omega \\geq 10^{3}$ separates the surface and the bulk of alloy due to skin effect. Light impurities (C, O, ...) change the composition of liquid alloy and its spectra, when they enter into reactions in the presence of thermal and electromagnetic fields.",
+		"ru": "Жидкие (Ж) и аморфные (АМ) металлы представлены системой $N_{M}$ кластеров $K_{j}$ из внутренних ($v$) и поверхностных ($s$) катионов. $K_{j}$ разделены полостями ($h_{j}$) с зонными электронами. Квантовая теория исходит из зонных ($t$) и кулоновских ($Q$) связей для непереходных металлов. В переходных Ж-металлах добавляются ковалентные связи ($\\Gamma$) и флуктуации химических связей (ФХС). Броуновское движение (БД) и коэффициент диффузии $D(T)$ как функции температуры $T$ связаны с энтропией $S$ кластеров и зонных электронов. Включение $S(N_{M})$ моделирует плавление. Температура этого перехода первого рода $T_{L}(\\Gamma, Q, t)$ интегрально выражается через энергии зонных квазичастиц $\\varepsilon_{k}$ и ФХС. Постоянное магнитное поле $B$ проявляет $3d$-кластеры в непереходных Ж-металлах (Ga, Sn, ...). Переменное поле $B(\\omega)$ на частотах $\\omega \\geq 10^{3}$ разделяет (за счёт скин-эффекта) поверхность и объём сплава. Лёгкие примеси (C, O, ...), вступая в реакции в присутствии термических и электромагнитных полей, изменяют состав Ж-сплава и его спектры."
+	},
+	"keywords": {
+		"ua": "кластерна модель рідких металів, зонні спектри, флюктуації хемічних (ковалентних) зв’язків, структура та властивості рідких стопів",
+		"en": "cluster model of liquid metals, band spectra, fluctuations of chemical (covalent) bonds, structure and properties of liquid alloys",
+		"ru": "кластерная модель жидких металлов, зонные спектры, флуктуации химических (ковалентных) связей, структура и свойства жидких сплавов"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. І. Міцек", "en": "O. I. Mitsek", "ru": "А. И. Мицек"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 22,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Г. Шульце, Металлофизика (Москва: Мир: 1971).",
+				"tr":  "G. E. R. Schulze, Metallofizika (Metallphysik) (Moscow: Mir: 1971) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Уайт, Т. Джебелл, Дальний порядок в твердых телах (Москва: Мир: 1982).",
+				"tr":  "R. White and T. Jebell, Dal'niy Poryadok v Tvyordykh Telakh (Long-Range Order in Solids) (Moscow: Mir: 1982) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Мицек, В. Н. Пушкарь, Реальные кристаллы с магнитным порядком (Киев: Наукова думка: 1978).",
+				"tr":  "A. I. Mitsek and V. N. Pushkar, Real'nye Kristally s Magnitnym Poryadkom (Kiev: Naukova Dumka: 1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Мицек, В. Н. Пушкарь, Металлофиз. новейшие технол., 34, № 6: 721 (2012).",
+				"tr":  "A. I. Mitsek and V. M. Pushkar, Metallofiz. Noveishie Tekhnol., 34, No. 6: 721 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ч. Киттель, Элементарная статистическая физика (Москва: Издательство иностранной литературы: 1960).",
+				"tr":  "Ch. Kittel, Elementarnaya Statisticheskaya Fizika (Elementary Statistical Physics) (Moscow: Izdatel'stvo Inostrannoy Literatury: 1960) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Мицек, В. Н. Пушкарь, Металлофиз. новейшие технол., 34, № 3: 309 (2012).",
+				"tr":  "A. I. Mitsek and V. M. Pushkar, Metallofiz. Noveishie Tekhnol., 34, No. 3: 309 (2012) (in Russian)."
+			},
+			{
+				"doi": "10.3367/UFNr.0182.201205b.0495",
+				"or":  "А. И. Жакин, Успехи физических наук, 182, № 5: 295 (2012).",
+				"tr":  "A. I. Zhakin, Uspekhi Fizicheskikh Nauk, 182, No. 5: 295 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. V. Nosenko, M. G. Babich, M. P. Semen’ko, O. I. Nakonechna, and M. I. Zakharenko, Металлофиз. новейшие технол., 32, № 9: 1183 (2010).",
+				"tr":  "A. V. Nosenko, M. G. Babich, M. P. Semen'ko, O. I. Nakonechna, and M. I. Zakharenko, Metallofiz. Noveishie Tekhnol., 32, No. 9: 1183 (2010)."
+			},
+			{
+				"doi": "10.3367/UFNr.0181.201112b.1265",
+				"or":  "Г. Е. Абросимова, Успехи физических наук, 181, № 12: 1265 (2011).",
+				"tr":  "G. E. Abrosimova, Uspekhi Fizicheskikh Nauk, 181, No. 12: 1265 (2011) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.106.245301",
+				"or":  "M. Kühnel, Phys. Rev. Lett., 106, No. 24: 245301 (2011).",
+				"tr":  "M. Kühnel, Phys. Rev. Lett., 106, No. 24: 245301 (2011)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.106.255502",
+				"or":  "A. Ginliani, Phys. Rev. Lett., 106, No. 25: 255502 (2011).",
+				"tr":  "A. Ginliani, Phys. Rev. Lett., 106, No. 25: 255502 (2011)."
+			},
+			{
+				"doi": "10.3367/UFNr.0182.201204a.0345",
+				"or":  "Э. З. Кучинский, Н. А. Некрасов, М. В. Садовский, Успехи физических наук, 182, № 4: 345 (2012).",
+				"tr":  "E. Z. Kuchinskiy, N. A. Nekrasov, and M. V. Sadovskiy, Uspekhi Fizicheskikh Nauk, 182, No. 4: 345 (2012) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.106.215505",
+				"or":  "O. Wang, Phys. Rev. Lett., 106, No. 21: 215505 (2011).",
+				"tr":  "O. Wang, Phys. Rev. Lett., 106, No. 21: 215505 (2011)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.108.106104",
+				"or":  "R. Ledesma-Alonso, Phys. Rev. Lett., 108, No. 10: 106104 (2012).",
+				"tr":  "R. Ledesma-Alonso, Phys. Rev. Lett., 108, No. 10: 106104 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Д. Каим, Металлофиз. новейшие технол., 34, № 5: 619 (2012).",
+				"tr":  "S. D. Kaim, Metallofiz. Noveishie Tekhnol., 34, No. 5: 619 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, А. Г. Ильинский, О. И. Слуховский, Ю. В. Лепеева, Г. М. Зелинская, И. Г. Кабан, Металлофиз. новейшие технол., 34, № 6: 751 (2012).",
+				"tr":  "A. P. Shpak, O. G. Il'inskiy, O. I. Slukhovskiy, Yu. V. Lepeeva, G. M. Zelinska, and I. G. Kaban, Metallofiz. Noveishie Tekhnol., 34, No. 6: 751 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Савин, Физ. мет. металловед., 113, № 4: 428 (2012).",
+				"tr":  "V. S. Savin, Fiz. Met. Metalloved., 113, No. 4: 428 (2012) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.84.031101",
+				"or":  "P.-H. Chavanis, Phys. Rev. E, 84: 031101 (2011).",
+				"tr":  "P.-H. Chavanis, Phys. Rev. E, 84: 031101 (2011)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.84.030102",
+				"or":  "R. Martinazzo, K. H. Hughes, and I. Burghardt, Phys. Rev. E, 84: 030102 (2011).",
+				"tr":  "R. Martinazzo, K. H. Hughes, and I. Burghardt, Phys. Rev. E, 84: 030102 (2011)."
+			},
+			{
+				"doi": "10.1063/1.3187793",
+				"or":  "H. D. Wang, J. Chang, and B. Wei, J. Appl. Phys., 106, No. 3: 033506 (2009).",
+				"tr":  "H. D. Wang, J. Chang, and B. Wie, J. Appl. Phys., 106, No. 3: 033506 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. А. Закарян, А. В. Хачатрян, ДАН України, № 1: 77 (2013).",
+				"tr":  "D. A. Zakaryan and A. V. Khachatryan, DAN Ukrainy, No. 1: 77 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Дж. Смитлз, Металлы (Москва: Металлургия: 1980).",
+				"tr":  "K. J. Smitlz, Metally (Metals) (Moscow: Metallurgiya: 1980) (Russian translation)."
+			}
+		]
+	}
+}

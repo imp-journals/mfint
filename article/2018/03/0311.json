@@ -1,0 +1,177 @@
+{
+	"_id":    "MFiNT.40.03.0311",
+	"year":   2018,
+	"volume": 40,
+	"issue":  3,
+	"pages":  [311,326],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["27.12.2017"],
+	"PACS":   "62.23.Pq, 64.60.ah, 66.70.Hk, 72.80.Tm, 81.05.Lg, 81.05.Qk, 82.35.Np",
+	"title":   {
+		"ua": "Електропровідність та теплопровідність металополімерних композитів",
+		"en": "Electrical Conduction and Thermal Conduction of Metal–Polymer Composites",
+		"ru": "Электропроводность и теплопроводность металлополимерных композитов"
+	},
+	"abstract": {
+		"ua": "В роботі досліджено електропровідні та теплопровідні властивості полімерних композитів на основі епоксидної смоли (ЕС), наповненої дисперсними металами — міддю (Cu) та ніклем (Ni). Встановлено, що електропровідність композитів має перколяційний характер зі значенням порогу перколяції у 9,9% об. та 4,0% об. для композитів ЕС–Cu та ЕС–Ni відповідно. Використано декілька теоретичних моделів для опису теплопровідности досліджуваних композитів. За допомогою моделю Ліхтенекера знайдено значення параметра теплопровідности дисперсної фази композитів, що становить 35 Вт/(м$\\cdot$К) для Cu та 13 Вт/(м$\\cdot$К) для Ni. Показано, що наповнювач впливає на молекулярну рухливість ЕС; це виражається у збільшенні температури склування композитів ЕС–Cu та ЕС–Ni.",
+		"en": "The electroconductive and thermal conductive properties of polymer composites are investigated. Studied composites are based on epoxy resin (ER) with dispersed copper (Cu) and nickel (Ni). The electrical conductivity of composites obeys the percolation theory with the percolation threshold equal to 9.9% vol. and 4.0% vol. for the ER–Cu and ER–Ni composites, respectively. Several theoretical models are used to describe the thermal conductivity of the metal-filled composites. Using the Lichtenecker model, the value of the thermal conductivity of the composites’ dispersed phase is found to be 35 W/(m$\\cdot$K) for Cu and 13 W/(m$\\cdot$K) for Ni, that is much less than the thermal conductivity of solid metals. As shown, the filler affects the molecular mobility of polymer matrix that leads to the increase of the glass-transition temperature of the ER–Cu and ER–Ni composites.",
+		"ru": "В работе исследованы электропроводящие и теплопроводящие свойства полимерных композитов на основе эпоксидной смолы (ЭС), наполненной дисперсными металлами — медью (Cu) и никелем (Ni). Установлено, что электропроводность композитов имеет перколяционный характер, со значением порога перколяции 9,9% об. и 4,0% об. для композитов ЭС–Cu и ЭС–Ni соответственно. Использовано несколько теоретических моделей для описания теплопроводности исследуемых композитов. С помощью модели Лихтенекера найдено значение параметра теплопроводности дисперсной фазы композитов, которое составляет 35 Вт/(м$\\cdot$К) для Cu и 13 Вт/(м$\\cdot$К) для Ni. Показано, что наполнитель влияет на молекулярную подвижность ЭС, что выражается в увеличении температуры стеклования композитов ЭС–Cu и ЭС–Ni."
+	},
+	"keywords": {
+		"ua": "металополімерні композити, електропровідність, теплопровідність, температура склування",
+		"en": "metal–polymer composites, electrical conduction, thermal conduction, glass-transition temperature",
+		"ru": "металлополимерные композиты, электропроводность, теплопроводность, температура стеклования"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. І. Місюра", "en": "A. I. Misiura", "ru": "А. И. Мисюра"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "Є. П. Мамуня", "en": "Ye. P. Mamunya", "ru": "Е. П. Мамуня"},
+			"OID": [42]
+		}
+	],
+	"references": {
+		"count": 27,
+		"list":  [
+			{
+				"doi": "10.1680/jemmr.15.00026",
+				"or":  "M. Haq and Z. Gang, Emerging Materials Research, 5, No. 1: 153 (2016).",
+				"tr":  "M. ul Haq and Z. Gang, Emerging Materials Research, 5, No. 1: 153 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Atique, N. Probha, and A. Nafi, International Conference on Mechanical, Industrial and Energy Engineering (Dec. 26–27, 2014, Khulna, Bangladesh) p. 140287-1.",
+				"tr":  "S. Atique, N. Probha, and A. Nafi, International Conference on Mechanical, Industrial and Energy Engineering (Dec. 26–27, 2014, Khulna, Bangladesh) p. 140287-1."
+			},
+			{
+				"doi": "",
+				"or":  "N. Nayak, International Journal of Scientific and Research Publications, 4, No. 9: 1 (2014).",
+				"tr":  "N. Nayak, International Journal of Scientific and Research Publications, 4, No. 9: 1 (2014)."
+			},
+			{
+				"doi": "10.1039/C5RA01851J",
+				"or":  "G. Kaur, R. Adhikari, P. Cass, M. Bown, and P. Gunatillake, RSC Advances, 5: 37553 (2015).",
+				"tr":  "G. Kaur, R. Adhikari, P. Cass, M. Bown, and P. Gunatillake, RSC Advances, 5: 37553 (2015)."
+			},
+			{
+				"doi": "10.3390/polym8050173",
+				"or":  "I. Plesa, P. Notingher, S. Schlоgl, C. Sumereder, and M. Muhr, Polymers, 8, No. 5: 1 (2016).",
+				"tr":  "I. Plesa, P. Notingher, S. Schlogl, C. Sumereder, and M. Muhr, Polymers, 8, No. 5: 1 (2016)."
+			},
+			{
+				"doi": "10.1002/pen.21424",
+				"or":  "S. Amancio-Filho and J. Santos, Polym. Eng. Sci., 49, No. 8: 1461 (2009).",
+				"tr":  "S. Amancio-Filho and J. Santos, Polym. Eng. Sci., 49, No. 8: 1461 (2009)."
+			},
+			{
+				"doi": "10.3390/ma3063468",
+				"or":  "T. Hanemann and D. Szabo, Materials, 3, No. 6: 3468 (2010).",
+				"tr":  "T. Hanemann and D. Szabo, Materials, 3, No. 6: 3468 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "Є. П. Мамуня, М. В. Юрженко, Є. В. Лебедєв, В. В. Левченко, О. В. Черваков, О. К. Матковська, О. С. Свердліковська, Електроактивні полімерні матеріали (Київ: Альфа Реклама: 2013).",
+				"tr":  "Ye. P. Mamunya, M. V. Iurzhenko, E. V. Lebedev, V. V. Levchenko, O. V. Chervakov, O. K. Matkovska, and O. S. Sverdlikovska, Elektroaktyvni Polimerni Materialy [Electroactive Polymer Materials] (Kyiv: Alpha-Reklama: 2013) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/S0014-3057(02)00064-2",
+				"or":  "Ye. P. Mamunya, V. V. Davydenko, P. Pissis, and E. V. Lebedev, Eur. Polym. J., 38, No. 9: 1887 (2002).",
+				"tr":  "Ye. P. Mamunya, V. V. Davydenko, P. Pissis, and E. V. Lebedev, Eur. Polym. J., 38, No. 9: 1887 (2002)."
+			},
+			{
+				"doi": "10.1023/B:JMSC.0000007752.08385.e0",
+				"or":  "A. Maaroufi, K. Haboubi, A. Amarti, and F. Carmona, J. Mater. Sci., 39, No. 1: 265 (2004).",
+				"tr":  "A. Maaroufi, K. Haboubi, A. Amarti, and F. Carmona, J. Mater. Sci., 39, No. 1: 265 (2004)."
+			},
+			{
+				"doi": "10.1016/j.synthmet.2014.11.020",
+				"or":  "F. Roussel, R. King, M. Kuriakose, M. Depriester, A. Hadj-Sahraoui, C. Gors, A. Addad, and J. Brun, Synth. Met., 199: 196 (2015).",
+				"tr":  "F. Roussel, R. King, M. Kuriakose, M. Depriester, A. Hadj-Sahraoui, C. Gors, A. Addad, and J. Brun, Synth. Met., 199: 196 (2015)."
+			},
+			{
+				"doi": "10.1002/pc.22478",
+				"or":  "M. Jouni, A. Boudenne, G. Boiteux, V. Massardier, B. Garnier, and A. Serghei, Polym. Compos., 34, No. 5: 778 (2013).",
+				"tr":  "M. Jouni, A. Boudenne, G. Boiteux, V. Massardier, B. Garnier, and A. Serghei, Polym. Compos., 34, No. 5: 778 (2013)."
+			},
+			{
+				"doi": "10.1016/j.polymdegradstab.2005.09.014",
+				"or":  "A. Luyt, J. Molefi, and H. Krump, Polym. Degrad. Stab., 91, No. 7: 1629 (2006).",
+				"tr":  "A. Luyt, J. Molefi, and H. Krump, Polym. Degrad. Stab., 91, No. 7: 1629 (2006)."
+			},
+			{
+				"doi": "10.1002/adfm.200600336",
+				"or":  "A. Gelves, B. Lin, U. Sundararaj, and J. A. Haber, Adv. Funct. Mater., 16, No. 18: 2423 (2006).",
+				"tr":  "A. Gelves, B. Lin, U. Sundararaj, and J. A. Haber, Adv. Funct. Mater., 16, No. 18: 2423 (2006)."
+			},
+			{
+				"doi": "10.1016/j.eurpolymj.2003.10.011",
+				"or":  "Q. Xue, Eur. Polym. J., 40, No. 2: 323 (2004).",
+				"tr":  "Q. Xue, Eur. Polym. J., 40, No. 2: 323 (2004)."
+			},
+			{
+				"doi": "10.1016/j.compscitech.2006.05.017",
+				"or":  "H. P. Wu, X. J. Wu, M. Y. Ge, G. Q. Zhang, Y. W. Wang, and J. Z. Jiang, Compos. Sci. Technol., 67, No. 6: 1116 (2007).",
+				"tr":  "H. P. Wu, X. J. Wu, M. Y. Ge, G. Q. Zhang, Y. W. Wang, and J. Z. Jiang, Compos. Sci. Technol., 67, No. 6: 1116 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Sahu, D. Mondloe, and S. Upadhyay, IRJET, 4, No. 6: 579 (2017).",
+				"tr":  "A. Sahu, D. Mondloe, and S. Upadhyay, IRJET, 4, No. 6: 579 (2017)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Pietrak and T. Wisniewski, J. Power Technologies, 95, No. 1: 14 (2015).",
+				"tr":  "K. Pietrak and T. Wisniewski, J. Power Technologies, 95, No. 1: 14 (2015)."
+			},
+			{
+				"doi": "10.1177/0892705706062203",
+				"or":  "D. Kumlutas and I. Tavman, J. Thermoplast. Compos. Mater., 19, No. 4: 441 (2006).",
+				"tr":  "D. Kumlutas and I. Tavman, J. Thermoplast. Compos. Mater., 19, No. 4: 441 (2006)."
+			},
+			{
+				"doi": "10.1021/am4030406",
+				"or":  "S. Yu, J. Lee, T. Han, Ch. Park, Y. Kwon, S. Hong, and Ch. Koo, ACS Appl. Mater. Interfaces, 5: 11618 (2013).",
+				"tr":  "S. Yu, J. Lee, T. Han, Ch. Park, Y. Kwon, S. Hong, and Ch. Koo, ACS Appl. Mater. Interfaces, 5: 11618 (2013)."
+			},
+			{
+				"doi": "10.1016/j.compositesa.2005.02.005",
+				"or":  "A. Boudenne, L. Ibos, M. Fois, J. Majeste, and E. Gehin, Composites, 36, No. 11: 1545 (2005).",
+				"tr":  "A. Boudenne, L. Ibos, M. Fois, J. Majeste, and E. Gehin, Composites, 36, No. 11: 1545 (2005)."
+			},
+			{
+				"doi": "10.3144/expresspolymlett.2011.57",
+				"or":  "S. Zhang, X. Cao, Y. Ma, Y. Ke, J. Zhang, and F. Wang, eXPRESS Polym. Let., 5, No. 7: 581 (2011).",
+				"tr":  "S. Zhang, X. Cao, Y. Ma, Y. Ke, J. Zhang, and F. Wang, eXPRESS Polym. Let., 5, No. 7: 581 (2011)."
+			},
+			{
+				"doi": "10.1002/pat.777",
+				"or":  "G. Droval, J. Feller, P. Salagnac, and P. Glouannec, Polym. Adv. Technol., 17, Nos. 9–10: 732 (2006).",
+				"tr":  "G. Droval, J. Feller, P. Salagnac, and P. Glouannec, Polym. Adv. Technol., 17, Nos. 9–10: 732 (2006)."
+			},
+			{
+				"doi": "10.1002/pen.760160905",
+				"or":  "R. Progelhof, J. Throne, and R. Ruetsch, Polym. Eng. Sci., 16, No. 9: 615 (1976).",
+				"tr":  "R. Progelhof, J. Throne, and R. Ruetsch, Polym. Eng. Sci., 16, No. 9: 615 (1976)."
+			},
+			{
+				"doi": "10.1002/polb.10713",
+				"or":  "A. Boudenne, L. Ibos, M. Fois, E. Gehin, and J. Majestej, J. Polym. Sci., 42, No. 4: 722 (2004).",
+				"tr":  "A. Boudenne, L. Ibos, M. Fois, E. Gehin, and J. Majestej, J. Polym. Sci., 42, No. 4: 722 (2004)."
+			},
+			{
+				"doi": "10.1002/(SICI)1097-4628(19990624)72:13<1689::AID-APP5>3.0.CO;2-D",
+				"or":  "S. Okamoto and H. Ishida, J. App. Polym. Sci., 72, No. 13: 1689 (1999).",
+				"tr":  "S. Okamoto and H. Ishida, J. App. Polym. Sci., 72, No. 13: 1689 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "Є. П. Мамуня, В. В. Левченко, І. М. Паращенко, Є. В. Лебедєв, Полімерний журнал, 38, № 1: 3 (2016).",
+				"tr":  "Ye. P. Mamunya, V. V. Levchenko, I. M. Parashchenko, and E. V. Lebedev, Polimernyy Zhurnal, 38, No. 1: 3 (2016) (in Ukrainian)."
+			}
+		]
+	}
+}

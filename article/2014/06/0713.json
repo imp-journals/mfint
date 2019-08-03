@@ -1,0 +1,128 @@
+{
+	"_id":    "MFiNT.36.06.0713",
+	"year":   2014,
+	"volume": 36,
+	"issue":  6,
+	"pages":  [713,722],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["18.11.2013"],
+	"PACS":   "02.50.Ey, 05.40.-a, 05.70.Jk, 72.70.+m, 73.40.Gk",
+	"title":   {
+		"ua": "Вплив зовнішніх шумів на кореляційну функцію інтенсивності в процесі резонансного тунелювання",
+		"en": "Influence of External Noises on Intensity Correlation Function in the Process of Resonant Tunnelling",
+		"ru": "Влияние внешних шумов на корреляционную функцию интенсивности в процессе резонансного туннелирования"
+	},
+	"abstract": {
+		"ua": "Розглянуто процес резонансного тунелювання електронів через двобар’єрну наноструктуру під впливом зовнішніх шумів, обумовлених флуктуаціями амплітуди і фази в потоці електронів, які падають на тунельну систему. З урахуванням електростатичного відштовхування в квантовій ямі режим тунелювання за певних значень параметрів стає бістабільним і набуває підвищеної чутливості до шумів у точці нестабільності. Шум моделювався Ґауссовим процесом з нульовим часом кореляції. Досліджено вплив шумів на стаціонарну кореляційну функцію інтенсивності потоку електронів, який пройшов через систему, на двох гілках гістерезисного циклу і в околі точки нестабільності. При обчисленні кореляційної функції використовувався метод лінеаризації рівнянь руху в околі незбуреного динамічного режиму. Результати порівнювалися з одержаними при чисельній симуляції стохастичних рівнянь руху. Показано, що амплітудні і фазові флуктуації по-різному впливають на спад кореляційної функції з часом. При збільшенні інтенсивності шуму амплітуди площа під кривою функції кореляції збільшується, що свідчить про збільшення часу релаксації. Навпаки, при збільшенні інтенсивності шуму фази час релаксації зменшується. Одержано задовільне узгодження чисельних результатів з аналітичними розрахунками на спаді кореляційної функції.",
+		"en": "The process of resonant tunnelling of electrons through the double-barrier nanostructure under the influence of external noises caused by the amplitude and phase fluctuations in an incoming current is considered. With the account of electrostatic repulsion in a quantum well, the regime of tunnelling at specified parameter values becomes bistable and possesses heightened sensibility to noises at instability points. Noise is taken as a Gaussian process with zero correlation time. The influence of noises on a stationary correlation function of the intensity of an outgoing electron flow is investigated at two branches of a hysteresis cycle and in the vicinity of an unstable point. For the calculation of the correlation function, a method of linearization in the neighbourhood of an unperturbed dynamical regime is used. The results are compared with those obtained by numerical simulation of stochastic evolution equations. As shown, the amplitude and phase fluctuations have effects on the correlation-function form in a different way. With the growth of the intensity of the amplitude noise, the square under the correlation-function curve is increased that is the evidence of the relaxation time growth. On the contrary, with increasing of the phase noise, it is decreased. A satisfactory agreement of numerical results with analytical calculations at the decay of the correlation function is achieved.",
+		"ru": "Рассмотрен процесс резонансного туннелирования электронов через двухбарьерную наноструктуру под влиянием внешних шумов, обусловленных флуктуациями амплитуды и фазы в потоке электронов, падающих на туннельную систему. С учётом электростатического отталкивания в квантовой яме режим туннелирования при определённых значениях параметров становится бистабильным и приобретает повышенную чувствительность к шумам в точке нестабильности. Шум моделировался гауссовым процессом с нулевым временем корреляции. Исследовано влияние шумов на стационарную корреляционную функцию интенсивности прошедшего через систему потока электронов на двух ветвях гистерезисного цикла и в окрестности точки нестабильности. При вычислении корреляционной функции использовался метод линеаризации уравнений движения в окрестности невозмущённого динамического режима. Результаты сравнивались с полученными при численной симуляции стохастических уравнений движения. Показано, что амплитудные и фазовые флуктуации по-разному влияют на спад корреляционной функции со временем. С увеличением интенсивности шума амплитуды площадь под кривой функции корреляции увеличивается, что свидетельствует об увеличении времени релаксации. Наоборот, с увеличением шума фазы время релаксации уменьшается. Получено удовлетворительное согласие численных результатов с аналитическими расчётами на спаде корреляционной функции."
+	},
+	"keywords": {
+		"ua": "резонансне тунелювання, амплітудні та фазові флуктуації, зовнішній шум, стаціонарна кореляційна функція",
+		"en": "resonant tunnelling, amplitude and phase fluctuations, external noise, stationary correlation function",
+		"ru": "резонансное туннелирование, амплитудные и фазовые флуктуации, внешний шум, стационарная корреляционная функция"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. О. Понежа", "en": "O. O. Ponezha", "ru": "Е. А. Понежа"},
+			"OID": [28]
+		}
+	],
+	"references": {
+		"count": 18,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "V. V. Mitin, V. A. Kochelap, and M. A. Stroscio, Introduction to Nanoelectronics. Science, Nanotechnology, Engineering, and Applications (Cambridge: University Press: 2008).",
+				"tr":  "V. V. Mitin, V. A. Kochelap, and M. A. Stroscio, Introduction to Nanoelectronics. Science, Nanotechnology, Engineering, and Applications (Cambridge: University Press: 2008)."
+			},
+			{
+				"doi": "10.1016/0167-2789(87)90127-8",
+				"or":  "A. S. Davydov and V. N. Ermakov, Physica D, 28: 168 (1987).",
+				"tr":  "A. S. Davydov and V. N. Ermakov, Physica D, 28: 168 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "E. A. Ponezha, Ukr. J. Phys., 55: No. 2: 244 (2010) (in Russian).",
+				"tr":  "E. A. Ponezha, Ukr. J. Phys., 55: No. 2: 244 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. N. Ermakov and E. A. Ponezha, Metallofiz. Noveishie Tekhnol., 33, No. 1: 45 (2011) (in Russian).",
+				"tr":  "V. N. Ermakov and E. A. Ponezha, Metallofiz. Noveishie Tekhnol., 33, No. 1: 45 (2011) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.526275",
+				"or":  "A. Hernández-Machado and M. San Miguel, J. Math. Phys., 25, No. 4: 1066 (1983).",
+				"tr":  "A. Hernández-Machado and M. San Miguel, J. Math. Phys., 25, No. 4: 1066 (1983)."
+			},
+			{
+				"doi": "10.1103/PhysRevA.33.2481",
+				"or":  "A. Hernández-Machado and M. San Miguel, Phys. Rev. A, 33, No. 4: 2481 (1986).",
+				"tr":  "A. Hernández-Machado and M. San Miguel, Phys. Rev. A, 33, No. 4: 2481 (1986)."
+			},
+			{
+				"doi": "10.1103/PhysRevA.35.5183",
+				"or":  "J. Casademunt, R. Mannella, P. V. E. McClintock, F. E. Moss, and J. M. Sancho, Phys. Rev. A, 35, No. 12: 5183 (1987).",
+				"tr":  "J. Casademunt, R. Mannella, P. V. E. McClintock, F. E. Moss, and J. M. Sancho, Phys. Rev. A, 35, No. 12: 5183 (1987)."
+			},
+			{
+				"doi": "10.1103/PhysRevA.38.5670",
+				"or":  "M. Aguado, E. Hernández-Garcia, and M. San Miguel, Phys. Rev. A, 38, No. 1: 5670 (1988).",
+				"tr":  "M. Aguado, E. Hernández-Garcia, and M. San Miguel, Phys. Rev. A, 38, No. 1: 5670 (1988)."
+			},
+			{
+				"doi": "10.1103/PhysRevA.39.1193",
+				"or":  "P. D. Lett and E. C. Gage, Phys. Rev. A, 39, No. 3: 1193 (1989).",
+				"tr":  "P. D. Lett and E. C. Gage, Phys. Rev. A, 39, No. 3: 1193 (1989)."
+			},
+			{
+				"doi": "10.1103/PhysRevA.42.6823",
+				"or":  "E. Hernández-Garcia, R. Toral, and M. San Miguel, Phys. Rev. A, 42, No. 11: 6823 (1990).",
+				"tr":  "E. Hernández-Garcia, R. Toral, and M. San Miguel, Phys. Rev. A, 42, No. 11: 6823 (1990)."
+			},
+			{
+				"doi": "10.1016/j.physleta.2007.11.040",
+				"or":  "C.-J. Wang, Q. Wei, and D.-C. Mei, Phys. Lett. A, 372: 2176 (2008).",
+				"tr":  "C.-J. Wang, Q. Wei, and D.-C. Mei, Phys. Lett. A, 372: 2176 (2008)."
+			},
+			{
+				"doi": "10.1140/epjb/e2007-00076-8",
+				"or":  "Ping Zhu, Eur. Phys. J. B, 55: 447 (2007).",
+				"tr":  "Ping Zhu, Eur. Phys. J. B, 55: 447 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevA.27.375",
+				"or":  "C. R. Willis, Phys. Rev. A, 27, No. 1: 375 (1983).",
+				"tr":  "C. R. Willis, Phys. Rev. A, 27, No. 1: 375 (1983)."
+			},
+			{
+				"doi": "10.1103/PhysRevA.29.774",
+				"or":  "C. R. Willis, Phys. Rev. A, 29, No. 2: 774 (1984).",
+				"tr":  "C. R. Willis, Phys. Rev. A, 29, No. 2: 774 (1984)."
+			},
+			{
+				"doi": "10.1103/PhysRevA.27.381",
+				"or":  "S. Singh, S. Friberg, and L. Mandel, Phys. Rev. A, 27, No. 1: 381 (1983).",
+				"tr":  "S. Singh, S. Friberg, and L. Mandel, Phys. Rev. A, 27, No. 1: 381 (1983)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.68.051102",
+				"or":  "D. Mei, C. Xie, and Li Zhang, Phys. Rev. E, 68: 051102 (2003).",
+				"tr":  "D. Mei, C. Xie, and Li Zhang, Phys. Rev. E, 68: 051102 (2003)."
+			},
+			{
+				"doi": "10.1103/PhysRevA.21.1289",
+				"or":  "S. N. Dixit, P. Zoller, and P. Lambropoulos, Phys. Rev. A, 21, No. 4: 1289 (1980).",
+				"tr":  "S. N. Dixit, P. Zoller, and P. Lambropoulos, Phys. Rev. A, 21, No. 4: 1289 (1980)."
+			},
+			{
+				"doi": "10.1103/PhysRevA.26.1589",
+				"or":  "J. M. Sancho, M. San Miguel, S. L. Katz, and J. D. Gunton, Phys. Rev. A, 26, No. 3: 1589 (1982).",
+				"tr":  "J. M. Sancho, M. San Miguel, S. L. Katz, and J. D. Gunton, Phys. Rev. A, 26, No. 3: 1589 (1982)."
+			}
+		]
+	}
+}

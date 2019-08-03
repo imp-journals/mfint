@@ -1,0 +1,89 @@
+{
+	"_id":    "MFiNT.37.08.1077",
+	"year":   2015,
+	"volume": 37,
+	"issue":  8,
+	"pages":  [1077,1087],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["05.12.2014", "07.09.2015"],
+	"PACS":   "71.20.Ps, 71.55.Ht, 71.70.Ch, 78.30.Hv, 78.70.Dm, 79.60.Jv, 82.80.Pv",
+	"title":  {
+		"ua": "Електронна структура ванадійвмісних апатитоподібних сполук кальцію, ізоморфно-модифікованих лужними та рідкісноземельними металами",
+		"en": "Electronic Structure of Vanadium-Containing Apatite Similar Compounds of the Calcium Isomorphically Modified with Alkaline and Rare-Earth Metals",
+		"ru": "Электронная структура ванадийсодержащих апатитоподобных соединений кальция, изоморфно модифицированных щелочными и редкоземельными металлами"
+	},
+	"abstract": {
+		"ua": "Досліджено вплив заміщення йонів Ca$^{2+}$ у ґратниці ванадатоапатиту (за схемою 2Me$^{2+}$ = Ln$^{3+}$ + A$^{+}$; Ln = La, Nd, Sm, Gd, Ho; A = Li, Na, K, Rb, Cs) рідкісноземельними та лужними металами на закономірності формування електронної будови кристалів. Встановлено, що при модифікуванні рідкісноземельними металами заміщення Кальцію відбувається переважно в Ca$_{(2)}$-позиції структури апатиту, а при ізоморфному модифікуванні лужними елементами заміщення відбувається в обох кристалографічних позиціях. Обговорюється участь валентних та субвалентних атомових оболонок в утворенні хемічних зв’язків, аналізуються дані про участь $4f$-електронів рідкісноземельних елементів у формуванні структури рентґеноелектронних спектрів та хемічних зв’язків з атомами оточення.",
+		"en": "The influence of Ca$^{2+}$ ions substitution with the rare-earth and alkali metals in the lattice of vanadate apatite (according to scheme 2Me$^{2+}$ = Ln$^{3+}$ + A$^{+}$; Ln = La, Nd, Sm, Gd, Ho; A = Li, Na, K, Rb, Cs) on the regularities of the formation of crystals’ electronic structure is studied. As established, in the case of modification with the rare-earth metals, the calcium substitution occurs preferably in Ca$_{(2)}$-position of the apatite structure, and at modifications with alkaline elements, the isomorphous substitution occurs in both crystallographic positions. The participation of the valence and subvalence atomic shells in the formation of chemical bonds is discussed, data on the participation of $4f$-electrons of rare-earth elements in formation of the structure of XPS spectra and chemical bonds with the atoms of the environment are analysed.",
+		"ru": "Исследовано влияние замещения ионов Ca$^{2+}$ в решётке ванадатоапатита (по схеме 2Me$^{2+}$ = Ln$^{3+}$ + A$^{+}$; Ln = La, Nd, Sm, Gd, Ho; A = Li, Na, K, Rb, Cs) редкоземельными и щелочными металлами на закономерности формирования электронного строения кристаллов. Установлено, что при модифицировании редкоземельными металлами замещение кальция происходит предпочтительно в Ca$_{(2)}$-позиции структуры апатита, а при изоморфном модифицировании щелочными элементами замещение происходит в обеих кристаллографических позициях. Обсуждается участие валентных и субвалентных атомных оболочек в образовании химических связей, анализируются данные об участии $4f$-электронов редкоземельных элементов в формировании структуры рентгеноэлектронных спектров и химических связей с атомами окружения."
+	},
+	"keywords": {
+		"ua": "ванадатоапатит, ізоморфне заміщення, електронна та атомова будова, квантово-механічне моделювання, рентґеноелектронні спектри, лужні та рідкісноземельні метали",
+		"en": "vanadate apatite, isomorphic substitution, electronic and atomic structure, quantum-mechanical modeling, X-ray spectra, alkaline and rare-earth metals",
+		"ru": "ванадатоапатит, изоморфное замещение, электронное и атомное строение, квантово-механическое моделирование, рентгеноэлектронные спектры, щелочные и редкоземельные металлы"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Х. Касіяненко", "en": "V. Kh. Kasiyanenko", "ru": "В. Х. Касияненко"},
+			"OID": [210]
+		},
+		{
+			"AID": {"ua": "В. Л. Карбівський", "en": "V. L. Karbivskyy", "ru": "В. Л. Карбовский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Н. А. Курган", "en": "N. A. Kurgan", "ru": "Н. А. Курган"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Л. І. Карбовська", "en": "L. I. Karbovska", "ru": "Л. И. Карбовская"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Є. І. Гетьман", "en": "E. I. Getman", "ru": "Е. И. Гетьман"},
+			"OID": [234]
+		}
+	],
+	"references": {
+		"count": 7,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "В. Л. Карбовский, А. П. Шпак, Апатиты и апатитоподобные соединения. Электронное строение и свойства (Киев: Наукова думка: 2010).",
+				"tr":  "V. L. Karbovsky and A. P. Shpak, Apatity i Apatitopodobnyye Soedineniya. Elektronnoe Stroenie i Svoystva (Kiev: Naukova Dumka: 2010) (in Russian)."
+			},
+			{
+				"doi": "10.1180/0026461026610019",
+				"or":  "U. Kempe and J. Götze, Mineralogical Magazine, 66, No. 1: 151 (2002).",
+				"tr":  "U. Kempe and J. Götze, Mineralogical Magazine, 66, No. 1: 151 (2002)."
+			},
+			{
+				"doi": "10.1016/0022-3093(82)90350-7",
+				"or":  "M. J. Weber, J. Non-Cryst. Sol., 47, No. 1: 117 (1982).",
+				"tr":  "M. J. Weber, J. Non-Cryst. Sol., 47, No. 1: 117 (1982)."
+			},
+			{
+				"doi": "10.1364/AO.11.000999",
+				"or":  "K. B. Steinbruegge, T. Henningsen, and R. H. Hopkins, Appl. Optics, 11, No. 5: 999 (1972).",
+				"tr":  "K. B. Steinbruegge, T. Henningsen, and R. H. Hopkins, Appl. Optics, 11, No. 5: 999 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Арданова, Е. И. Гетьман, Ю. В. Канюка, В. А. Кармалицкий, С. Н. Лобода, В. И. Марченко, Труды ДонГТУ. Химия и химическая технология, № 13: 96 (2000).",
+				"tr":  "L. I. Ardanova, E. I. Get'man, Yu. V. Kan'uka, V. A. Karmalitskiy, S. N. Loboda, and V. I. Marchenko, Trudy DonGTU. Khimiya i Khimicheskaya Tekhnologiya, No. 13: 96 (2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. І. Марченко, Є. І. Гетьман, Т. О. Грищенкова, Л. І. Карданова, Спосіб одержання гідроксованадату кальцію і твердих розчинів на його основі, Патент № 98126755 (Опубл. 11 жовтня 1999 р.)",
+				"tr":  "V. I. Marchenko, Ye. I. Get'man, T. O. Gryshchenkova, and L. I. Kardanova, Sposib Oderzhannya Hidroksovanadatu Kaltsiyu i Tverdykh Rozchyniv na Yogo Osnovi, Patent No. 98126755 (Publ. October 11, 1999) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Немошкаленко, В. Н. Антонов, Методы вычислительной физики в теории твёрдого тела (Киев: Наукова думка: 1985).",
+				"tr":  "V. V. Nemoshkalenko and V. N. Antonov, Metody Vychislitel'noy Fiziki v Teorii Tverdogo Tela [Computational Physics Methods in Solid State Theory] (Kiev: Naukova Dumka: 1985) (in Russian)."
+			}
+		]
+	}
+}

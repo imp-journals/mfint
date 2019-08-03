@@ -1,0 +1,133 @@
+{
+	"_id":    "MFiNT.36.12.1671",
+	"year":   2014,
+	"volume": 36,
+	"issue":  12,
+	"pages":  [1671,1678],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["05.05.2014"],
+	"PACS":   "61.05.cp, 61.66.Dk, 61.72.Hh, 62.20.fg, 62.20.Qp, 81.30.Kf, 81.40.Rs",
+	"title":   {
+		"ua": "Вплив повторних мартенситних перетворень на властивості стопу з пам’яттю форми Cu—Al—Mn",
+		"en": "Influence of Repeated Martensitic Transformations on Properties of Shape-Memory Cu—Al—Mn Alloy",
+		"ru": "Влияние повторных мартенситных превращений на свойства сплава с памятью формы Cu—Al—Mn"
+	},
+	"abstract": {
+		"ua": "В роботі було досліджено вплив термоциклування в інтервалі мартенситного переходу на властивості стопу з пам’яттю форми Cu—Al—Mn. Показано, що повторні цикли мартенситних перетворень супроводжуються збільшенням електроопору мартенситної й аустенітної фаз. Спостерігається немонотонна зміна твердости матеріялу зі збільшенням кількости циклів мартенситних перетворень.",
+		"en": "Influence of thermal cycling within the temperature range of martensitic transformation on the properties of shape-memory Cu—Al—Mn alloy is studied. Repetitive martensitic transformations result in growth of electrical resistance of the martensitic and austenitic phases. Nonmonotonic change of material hardness with the number of martensitic-transformation cycles is revealed.",
+		"ru": "В работе было исследовано влияние термоциклирования в интервале мартенситного перехода на свойства сплава с памятью формы Cu—Al—Mn. Показано, что повторные циклы мартенситных превращений приводят к увеличению электросопротивления мартенситной и аустенитной фаз. Отмечается немонотонное изменение твёрдости материала при увеличении числа циклов мартенситных превращений."
+	},
+	"keywords": {
+		"ua": "мартенситне перетворення, зміцнююча фаза, термоциклування",
+		"en": "martensitic mransformation, hardening phase, thermocycling",
+		"ru": "мартенситное превращение, упрочняющая фаза, термоциклирование"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Л. Є. Козлова", "en": "L. E. Kozlova", "ru": "Л. Е. Козлова"},
+			"OID": [7]
+		},
+		{
+			"AID": {"ua": "А. О. Перекос", "en": "A. O. Perekos", "ru": "А. Е. Перекос"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. П. Залуцький", "en": "V. P. Zalutskiy", "ru": "В. П. Залуцкий"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. М. Коноплюк", "en": "S. M. Konoplyuk", "ru": "С. М. Коноплюк"},
+			"OID": [7]
+		},
+		{
+			"AID": {"ua": "В. В. Кокорін", "en": "V. V. Kokorin", "ru": "В. В. Кокорин"},
+			"OID": [7]
+		},
+		{
+			"AID": {"ua": "Д. М. Трояновський", "en": "D. M. Troyanovskiy", "ru": "Д. М. Трояновский"},
+			"OID": [7]
+		}
+	],
+	"references": {
+		"count": 15,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "J. Van Humbeeck and L. Delay, The Martensitic Transformation in Science and Technology (Eds. E. Hornbogen and N. Jost) (London: Butterworth–Heinemann: 1990).",
+				"tr":  "J. Van Humbeeck and L. Delay, The Martensitic Transformation in Science and Technology (Eds. E. Hornbogen and N. Jost) (London: Butterworth–Heinemann: 1990)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(99)00301-9",
+				"or":  "Y. Sutou, R. Kainuma, and K. Ishida, Mater. Sci. Eng. A, 273–275: 375 (1999).",
+				"tr":  "Y. Sutou, R. Kainuma, and K. Ishida, Mater. Sci. Eng. A, 273–275: 375 (1999)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2005.05.013",
+				"or":  "Y. Sutou, T. Omori, K. Yamauchi, N. Ono, R. Kainuma, and K. Ishida, Acta Mater., 53: 4121 (2005).",
+				"tr":  "Y. Sutou, T. Omori, K. Yamauchi, N. Ono, R. Kainuma, and K. Ishida, Acta Mater., 53: 4121 (2005)."
+			},
+			{
+				"doi": "10.1002/jbm.b.10079",
+				"or":  "Y. Sutou, T. Omori, A. Furukawa, Y. Takahashi, R. Kainuma, K. Yamauchi, S. Yamashita, and K. Ishida, J. Biomed. Mater. Res. Part B. Appl. Biomater., 69B: 64 (2003).",
+				"tr":  "Y. Sutou, T. Omori, A. Furukawa, Y. Takahashi, R. Kainuma, K. Yamauchi, S. Yamashita, and K. Ishida, J. Biomed. Mater. Res. Part B. Appl. Biomater., 69B: 64 (2003)."
+			},
+			{
+				"doi": "10.1016/S0966-9795(98)00070-3",
+				"or":  "K. Otsuka and X. Ren, Intermetallics, 7, No. 5: 511 (1999).",
+				"tr":  "K. Otsuka and X. Ren, Intermetallics, 7, No. 5: 511 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Stic, The Use of Superelasticity in Guidewires and Arthroscopic Instrumentation (Eds. T. W. Duerig, K. N. Melton, D. Stocked, and C. M. Wayman) (London: Butterworth–Heinemann: 1990).",
+				"tr":  "J. Stic, The Use of Superelasticity in Guidewires and Arthroscopic Instrumentation (Eds. T. W. Duerig, K. N. Melton, D. Stocked, and C. M. Wayman) (London: Butterworth–Heinemann: 1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Х. Варлимонт, Л. Дилей, Мартенситные превращения в сплавах на основе меди, серебра и золота (Москва: Наука: 1980).",
+				"tr":  "Kh. Varlimont and L. Diley, Martensitnye Prevrashcheniya v Splavakh na Osnove Medi, Serebra i Zolota (Moscow: Nauka: 1980) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "К. А. Малышев, В. В. Сагарадзе, И. П. Сорокин, Н. Д. Земцова, В. А. Теплов, А. И. Уваров, Фазовый наклёп аустенитных сплавов на железоникелевой основе (Москва: Наука: 1982).",
+				"tr":  "K. A. Malyshev, V. V. Sagaradze, I. P. Sorokin, N. D. Zemtsova, V. A. Teplov, and A. I. Uvarov, Fazovyy Naklep Austenitnykh Splavov na Zhelezonikelevoy Osnove (Moscow: Nauka: 1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Кокорин, И. А. Осипенко, Т. В. Ширина, Физ. мет. металловед., 53, вып. 4: 732 (1982).",
+				"tr":  "V. V. Kokorin, I. A. Osipenko, and T. V. Shirina, Fiz. Met. Metalloved., 53, Iss. 4: 732 (1982) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S1359-6462(02)00136-7",
+				"or":  "V. V. Kokorin, L. E. Kozlova, and A. N. Titenko, Sсr. Mater., 47: 499 (2002).",
+				"tr":  "V. V. Kokorin, L. E. Kozlova, and A. N. Titenko, Scr. Mater., 47: 499 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Сагарадзе, А. И. Уваров, Упрочнение аустенитных сталей (Москва: Наука: 1989).",
+				"tr":  "V. V. Sagaradze and A. I. Uvarov, Uprochnenie Austenitnykh Staley (Moscow: Nauka: 1989) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.56.20",
+				"or":  "E. Obrado, L. Manosa, and A. Planes, Phys. Rev. B, 56: 20 (1997).",
+				"tr":  "E. Obrado, L. Manosa, and A. Planes, Phys. Rev. B, 56: 20 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Лободюк, В. В. Мартынов, Г. И. Саввакин, Л. Г. Хандрос, Металлофизика, № 63: 61 (1976).",
+				"tr":  "V. A. Lobodyuk, V. V. Martynov, G. I. Savvakin, and L. G. Handros, Metallofizika, No. 63: 61 (1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Кокорин, Мартенситные превращения в неоднородных твёрдых растворах (Киев: Наукова думка: 1987).",
+				"tr":  "V. V. Kokorin, Martensitnye Prevrashcheniya v Neodnorodnykh Tverdykh Rastvorakh (Kiev: Naukova Dumka: 1987) (in Russian)."
+			},
+			{
+				"doi": "10.1146/annurev.ms.18.080188.000325",
+				"or":  "T. Tadaki, K. Otsuka, and K. Shimizu, Ann. Rev. Mater. Sci., 18: 25 (1988).",
+				"tr":  "T. Tadaki, K. Otsuka, and K. Shimizu, Ann. Rev. Mater. Sci., 18: 25 (1988)."
+			}
+		]
+	}
+}

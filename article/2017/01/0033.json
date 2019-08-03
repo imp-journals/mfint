@@ -1,0 +1,132 @@
+{
+	"_id":    "MFiNT.39.01.0033",
+	"year":   2017,
+	"volume": 39,
+	"issue":  1,
+	"pages":  [33,48],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["01.11.2016"],
+	"PACS":   "61.72.Hh, 62.20.F-, 62.40.+i, 65.40.De, 81.40.Cd, 81.40.Lm, 83.60.La",
+	"title":  {
+		"ua": "Термоактиваційний аналіз температурної залежності напруження плинності в твердих розчинах з ГЦК-ґратницею",
+		"en": "Thermoactivation Analysis of the Flow-Stress–Temperature Dependence in the F.C.C. Solid Solutions",
+		"ru": "Термоактивационный анализ температурной зависимости напряжения течения в твёрдых растворах с ГЦК-решёткой"
+	},
+	"abstract": {
+		"ua": "Представлено результати термоактиваційного аналізу температурної залежності критичного напруження зсуву (або відповідної межі плинності) деяких чистих металів, а також бінарних і полікомпонентних твердих розчинів з ГЦК-ґратницею. Показано, що в бінарних і полікомпонентних твердих розчинах збільшення концентрації розчиненого леґувального елемента приводить як до більш різкої залежності термічної компоненти критичного напруження зсуву (або термічної компоненти відповідної межі плинності) від температури, так і до підвищення атермічної компоненти. Збільшення енергії активації руху дислокацій і зменшення значення активаційного об’єму в бінарних і полікомпонентних твердих розчинах у порівнянні з чистими металами може бути зумовленим пікорозмірними дисторсіями кристалічної ґратниці, які пов’язані з відмінностями атомних радіусів елементів, що входять у стоп.",
+		"en": "The results of thermal-activation analysis of the temperature dependence of the critical shear stress (or the corresponding yield strength) of some pure metals as well as binary and multicomponent solid solutions with the f.c.c. lattice are presented. As shown, the concentration increase of dissolved alloying element leads to both a sharper thermal dependence of critical shear stress component (or component of the corresponding thermal yield strength) on the temperature and an increase of the athermal component for binary and multicomponent solid solutions. The increase in the activation energy of the motion of dislocations and the reduction in the value of the activation volume for binary and multicomponent solid solutions in comparison with the pure metals can be determined by picodimensional distortions of crystal lattice, which are associated with differences in atomic radii of the elements contained in the alloy.",
+		"ru": "Представлены результаты термоактивационного анализа температурной зависимости критического напряжения сдвига (или соответствующего предела текучести) некоторых чистых металлов, а также бинарных и поликомпонентных твёрдых растворов с ГЦК-решёткой. Показано, что в бинарных и поликомпонентных твёрдых растворах увеличение концентрации растворяемого легирующего элемента приводит как к более резкой зависимости термической компоненты критического напряжения сдвига (или термической компоненты соответствующего предела текучести) от температуры, так и к повышению атермической компоненты. Увеличение энергии активации движения дислокаций и уменьшение значения активационного объёма в бинарных и поликомпонентных твёрдых растворах в сравнении с чистыми металлами может быть обусловлено пикоразмерными дисторсиями кристаллической решётки, которые связаны с различиями атомных радиусов входящих в сплав элементов."
+	},
+	"keywords": {
+		"ua": "критичне напруження зсуву, межа плинності, енергія активації руху дислокацій, активаційний об’єм",
+		"en": "critical shear stress, yield stress, activation energy for dislocation motion, activation volume",
+		"ru": "критическое напряжение сдвига, предел текучести, энергия активации движения дислокаций, активационный объём"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. О. Фірстов", "en": "S. O. Firstov", "ru": "С. А. Фирстов"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "Т. Г. Рогуль", "en": "T. G. Rogul", "ru": "Т. Г. Рогуль"},
+			"OID": [2]
+		}
+		],
+	"references": {
+		"count": 18,
+		"list":  [
+			{
+				"doi": "10.1016/j.intermet.2010.05.014",
+				"or":  "O. N. Senkov, G. B. Wilks, D. B. Miracle, C. P. Chuang, and P. K. Liaw, Intermetallics, 18, No. 9: 1758 (2010).",
+				"tr":  "O. N. Senkov, G. B. Wilks, D. B. Miracle, C. P. Chuang, and P. K. Liaw, Intermetallics, 18, No. 9: 1758 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Фирстов, Т. Г. Рогуль, Н. А. Крапивка, С. С. Пономарев, В. Н. Ткач, В. В. Ковыляев, В. Ф. Горбань, М. В. Карпец, Деформация и разрушение материалов, № 2: 9 (2013).",
+				"tr":  "S. A. Firstov, T. G. Rogul, N. A. Krapivka, S. S. Ponomaryov, V. N. Tkach, V. V. Kovylyaev, V. F. Gorban, and M. V. Karpets, Deformatsiya i Razrushenie materialov, No. 2: 9 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Фирстов, Т. Г. Рогуль, Н. А. Крапивка, С. С. Пономарев, В. В. Ковыляев, Н. И. Даниленко, Н. Д. Бега, В. И. Даниленко, С. И. Чугунова, Порошковая металлургия, № 3/4 (508): 127 (2016).",
+				"tr":  "S. A. Firstov, T. G. Rogul, N. A. Krapivka, S. S. Ponomaryov, V. V. Kovylyaev, N. I. Danilenko, N. D. Bega, V. I. Danilenko, and S. I. Chugunova, Poroshkovaya Metallurgiya, Nos. 3/4 (508): 127 (2016) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Seeger, Report of Dislocations and Mechanical Properties of Solids (Like Placid Conference, London, 1957) (New York: Wiley: 1957; London: Chapman and Hall: 1957), p. 268.",
+				"tr":  "A. Seeger, Report of Dislocations and Mechanical Properties of Solids (Like Placid Conference, London, 1957) (New York: Wiley: 1957; London: Chapman and Hall: 1957), p. 268."
+			},
+			{
+				"doi": "",
+				"or":  "A. Seeger, Kristallplastizität. Handbuch der Physik. Bd. 7/2 (Berlin: Springer-Verlag: 1958), S. 277.",
+				"tr":  "A. Seeger, Kristallplastizität. Handbuch der Physik. Bd. 7/2 (Berlin: Springer-Verlag: 1958), S. 277."
+			},
+			{
+				"doi": "10.1016/0001-6160(58)90071-3",
+				"or":  "H. Conrad, Acta Met., 6, Iss. 5: 339 (1958).",
+				"tr":  "H. Conrad, Acta Met., 6, Iss. 5: 339 (1958)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Конрад, Текучесть и пластическое течение ОЦК-металлов при низких температурах. Структура и механические свойства металлов (Москва: Металлургия: 1967), с. 225.",
+				"tr":  "H. Conrad, Tekuchest i Plasticheskoe Techenie OTsK-Metallov pri Nizkikh Temperaturakh. Struktura i Mekhanicheskie Svoystva Metallov [Yield and Plastic Flow for B.C.C. Metals at Low Temperatures. Structure and Mechanical Properties of Metals] (Moscow: Metallurgiya: 1967), p. 225 (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Мильман, В. И. Трефилов, О физической природе температурной зависимости предела текучести. Механизм разрушения металлов (Киев: Наукова думка: 1966), c. 59.",
+				"tr":  "Yu. V. Mil'man and V. I. Trefilov, O Fizicheskoy Prirode Temperaturnoy Zavisimosti Predela Tekuchesti. Mekhanizm Razrusheniya Metallov [Physical Nature of the Temperature Dependence of Yield Stress. Metal Fracture Mechanism] (Kiev: Naukova Dumka: 1966), p. 59 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Трефилов, Ю. В. Мильман, С. А. Фирстов, Физические основы прочности тугоплавких металлов (Киев: Наукова думка: 1975).",
+				"tr":  "V. I. Trefilov, Yu. V. Milman, and S. A. Firstov, Fizicheskie Osnovy Prochnosti Tugoplavkikh Metallov [Physical Foundations of the Strength of Refractory Metals] (Kiev: Naukova Dumka: 1975) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0001-6160(57)90129-3",
+				"or":  "P. Haasen, Acta Met., 5: 598 (1957).",
+				"tr":  "P. Haasen, Acta Met., 5: 598 (1957)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Хаазен, Механические свойства твёрдых растворов и интерметаллических соединений. Физическое металловедение (Ред. Р. У. Кан, П. Хаазен) (Москва: Металлургия: 1987), т. 3, c. 187.",
+				"tr":  "P. Haasen, Mekhanicheskie Svoystva Tverdykh Rastvorov i Intermetallicheskikh Soedineniy. Fizicheskoe Metallovedenie [Mechanical Properties of Solid Solutions and Intermetallic Compounds. Physical Metallurgy] (Eds. R. W. Cahn and P. Haasen] (Moscow: Metallurgiya: 1987), vol. 3, p. 187 (Russian translation)."
+			},
+			{
+				"doi": "10.1007/BF02647658",
+				"or":  "O. Boser, Metallurgical Transactions, 3, No. 4: 843 (1972).",
+				"tr":  "O. Boser, Metallurgical Transactions, 3, No. 4: 843 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "T. E. Mitchell, Progr. Appl. Mater. Res., No. 6: 117 (1964).",
+				"tr":  "T. E. Mitchell, Progr. Appl. Mater. Res., No. 6: 117 (1964)."
+			},
+			{
+				"doi": "10.6028/jres.058.027",
+				"or":  "W. D. Jenkins, T. G. Digges, and C. R. Johnson, Journal of Research of the National Bureau of Standards, 58, No. 4: 201 (1957).",
+				"tr":  "W. D. Jenkins, T. G. Digges, and C. R. Johnson, Journal of Research of the National Bureau of Standards, 58, No. 4: 201 (1957)."
+			},
+			{
+				"doi": "10.1016/j.intermet.2013.03.018",
+				"or":  "A. Gali and E. P. George, Intermetallics, 39: 74 (2013).",
+				"tr":  "A. Gali and E. P. George, Intermetallics, 39: 74 (2013)."
+			},
+			{
+				"doi": "10.1016/0022-5096(70)90029-3",
+				"or":  "K. L. Johnson, J. Mech. Phys. Solids, 18: 115 (1970).",
+				"tr":  "K. L. Johnson, J. Mech. Phys. Solids, 18: 115 (1970)."
+			},
+			{
+				"doi": "10.1016/0001-6160(63)90213-X",
+				"or":  "R. L. Fleischer, Acta Metall., 11: 203 (1963).",
+				"tr":  "R. L. Fleischer, Acta Metall., 11: 203 (1963)."
+			},
+			{
+				"doi": "",
+				"or":  "N. F. Mott and F. R. N. Nabarro, Rep. Conf. on Strength of Solids (London: Physical Society: 1948), p. 1.",
+				"tr":  "N. F. Mott and F. R. N. Nabarro, Rep. Conf. on Strength of Solids (London: Physical Society: 1948), p. 1."
+			}
+		]
+	}
+}

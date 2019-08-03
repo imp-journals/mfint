@@ -1,0 +1,172 @@
+{
+	"year":   2014,
+	"volume": 36,
+	"issue":  4,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [431,444],
+			"title": {
+				"ua": "Загальна кінетика коміркового розпаду твердих розчинів системи мідь—титан",
+				"en": "General Kinetics of the Cellular Decomposition of Cu—Ti Solid Solutions",
+				"ru": "Общая кинетика ячеистого распада твёрдых растворов системы медь—титан"
+			},
+			"autors": {
+				"ua": "Т. С. Гаценко, О. А. Шматко",
+				"en": "T. S. Gatsenko and O. A. Shmatko",
+				"ru": "Т. С. Гаценко, О. А. Шматко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [445,459],
+			"title": {
+				"ua": "Можливий механізм утворення зародків каналів гідродинамічної пластичної течії в кристалах",
+				"en": "Possible Mechanism of Formation of Nuclei of Hydrodynamic Plastic Flow Channels in Crystals",
+				"ru": "Возможный механизм образования зародышей каналов гидродинамического пластического течения в кристаллах"
+			},
+			"autors": {
+				"ua": "В. І. Засимчук, О. Е. Засимчук, Ю. Г. Гордієнко",
+				"en": "V. I. Zasimchuk, O. Eh. Zasimchuk, and Yu. G. Gordienko",
+				"ru": "В. И. Засимчук, Е. Э. Засимчук, Ю. Г. Гордиенко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [461,476],
+			"title": {
+				"ua": "Залежність величини критичної температури при випробуваннях на ударну в’язкість від параметрів мікроструктури мартенситних маловуглецевих сталей",
+				"en": "Dependence of the Critical Temperature Magnitude at Impact Toughness Tests on the Parameters of the Microstructure of Martensitic Low-Carbon Steels",
+				"ru": "Зависимость величины критической температуры при испытаниях на ударную вязкость от параметров микроструктуры мартенситных малоуглеродистых сталей"
+			},
+			"autors": {
+				"ua": "С. О. Котречко, Ю. Я. Мєшков, Р. В. Тельович, В. М. Грищенко",
+				"en": "S. O. Kotrechko, Yu. Ya. Meshkov, R. V. Telyovych, and V. M. Grishchenko",
+				"ru": "С. А. Котречко, Ю. Я. Мешков, Р. В. Телёвич, В. Н. Грищенко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [477,490],
+			"title": {
+				"ua": "Формування структури і фазового складу нанокристалічного стопу CuNiAlFeCr методом механічного легування",
+				"en": "Formation of Structure and Phase Composition of Nanocrystalline CuNiAlFeCr Alloy by the Mechanical Alloying Method",
+				"ru": "Формирование структуры и фазового состава нанокристаллического сплава CuNiAlFeCr методом механического легирования"
+			},
+			"autors": {
+				"ua": "О. І. Юркова, В. В. Чернявський, О. І. Кравченко",
+				"en": "O. I. Yurkova, V. V. Cherniavsky, and O. I. Kravchenko",
+				"ru": "A. И. Юркова, В. В. Чернявский, А. И. Кравченко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [491,508],
+			"title": {
+				"ua": "Електрохімічний синтез композиційних матеріалів на основі нанорозмірних порошків карбідів вольфраму з сольових розтопів",
+				"en": "Electrochemical Synthesis of Composite Materials Based on the Nanoscale Powders of Tungsten Carbides in Salt Melt",
+				"ru": "Электрохимический синтез композиционных материалов на основе наноразмерных порошков карбидов вольфрама из солевых расплавов"
+			},
+			"autors": {
+				"ua": "І. А. Новосьолова, Е. П. Наконешна, Н. А. Карпушин, В. Н. Биков, Г. І. Довбешко, А. Д. Риндер",
+				"en": "I. A. Novoselova, E. P. Nakoneshnaja, N. A. Karpushin, V. N. Bykov, G. I. Dovbeshko, and A. D. Rynder",
+				"ru": "И. А. Новосёлова, Е. П. Наконешная, Н. А. Карпушин, В. Н. Быков, Г. И. Довбешко, А. Д. Рындер"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [509,517],
+			"title": {
+				"ua": "Коментарі до статті «Імпульсний плазмохімічний синтез нанодисперсних порошків на основі заліза, їх фазовий склад і магнітні властивості», Металлофизика и новейшие технологии, т. 35, № 4: 569 (2013)",
+				"en": "Comments on the Article ‘Pulse Plasma-Chemical Synthesis of Nanodispersed Iron-Based Powders, Their Phase Composition, and Magnetic Properties’, Metallofiz. Noveishie Tekhnol., vol. 35, No. 4: 569 (2013)",
+				"ru": "Комментарии к статье «Импульсный плазмохимический синтез нанодисперсных порошков на основе железа, их фазовый состав и магнитные свойства», Металлофизика и новейшие технологии, т. 35, № 4: 569 (2013)"
+			},
+			"autors": {
+				"ua": "С. П. Ошкадьоров",
+				"en": "S. P. Oshkadyorov",
+				"ru": "С. П. Ошкадёров"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [519,530],
+			"title": {
+				"ua": "Кінетика дисперґування—коаґуляції при відпалі металевих наноплівок, нанесених на поверхню неметалічних матеріалів",
+				"en": "Kinetics of Dispersion—Coagulation at Annealing of Metal Nanofilms Deposited on the Surface of Non-Metallic Materials",
+				"ru": "Кинетика диспергирования—коагуляции при отжиге металлических наноплёнок, нанесённых на поверхность неметаллических материалов"
+			},
+			"autors": {
+				"ua": "Ю. В. Найдич, І. І. Габ, Т. В. Стецюк, Б. Д. Костюк",
+				"en": "Yu. V. Naydich, I. I. Gab, T. V. Stetsyuk, and B. D. Kostyuk",
+				"ru": "Ю. В. Найдич, И. И. Габ, Т. В. Стецюк, Б. Д. Костюк"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [531,546],
+			"title": {
+				"ua": "Формування металевої електропровідності у плівках вакуумних конденсатів металів",
+				"en": "Formation of Metallic Electrical Conduction in Films of Vacuum Condensates of Metals",
+				"ru": "Формирование металлической электропроводности в плёнках вакуумных конденсатов металлов"
+			},
+			"autors": {
+				"ua": "Р. І. Бігун, М. Д. Бучковська, В. М. Гаврилюх, О. Є. Кравченко, З. В. Стасюк, Д. С. Леонов",
+				"en": "R. I. Bigun, M. D. Buchkovska, V. M. Gavrilyukh, O. E. Kravchenko, Z. V. Stasyuk, and D. S. Leonov",
+				"ru": "Р. И. Бигун, М. Д. Бучковская, В. М. Гаврилюх, О. Е. Кравченко, З. В. Стасюк, Д. С. Леонов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [547,550],
+			"title": {
+				"ua": "Енергетичний спектр графену з домішкою азоту",
+				"en": "The Energy Spectrum of Graphene Doped with Nitrogen Impurity",
+				"ru": "Энергетический спектр графена с примесью азота"
+			},
+			"autors": {
+				"ua": "С. П. Репецький, В. А. Скотников, В. В. Шастун, Д. К. Чешківський, А. А. Яценюк",
+				"en": "S. P. Repetskyi, V. A. Skotnykov, V. V. Shastun, D. K. Cheshkivskyi, and A. A. Yatsenyuk",
+				"ru": "С. П. Репецкий, В. А. Скотников, В. В. Шастун, Д. К. Чешковский, А. А. Яценюк"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [551,557],
+			"title": {
+				"ua": "Лазерно-індукована післядія в тунельних магнетних наноструктурах",
+				"en": "Laser-Induced After-Effect in Tunnel Magnetic Nanostructures",
+				"ru": "Лазерно-индуцированное последействие в туннельных магнитных наноструктурах"
+			},
+			"autors": {
+				"ua": "М. М. Крупа, В. Г. Костишин, А. М. Коростиль",
+				"en": "M. M. Krupa, V. G. Kostishin, and A. M. Korostil",
+				"ru": "М. М. Крупа, В. Г. Костишин, А. М. Коростиль"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  2,
+			"pages":  [559,573],
+			"title": {
+				"ua": "Теоретична тривісна модель динамічного розсіяння та формування зображень некристалічних об’єктів",
+				"en": "Theoretical Three-Axes Model of Dynamical Scattering and Formation of Noncrystalline Objects’ Image",
+				"ru": "Теоретическая трёхосевая модель динамического рассеяния и формирования изображений некристаллических объектов"
+			},
+			"autors": {
+				"ua": "Б. В. Шелудченко, В. Б. Молодкін, С. В. Лізунова, С. Й. Оліховський, Є. М. Кисловський, О. Ю. Гаєвський, В. В. Лізунов, А. І. Нізкова, Т. П. Владимирова, В. В. Молодкін, К. В. Фузик, А. В. Гошкодеря, А. О. Білоцька, Г. О. Веліховський, А. А. Музиченко, Р. В. Лехняк",
+				"en": "B. V. Sheludchenko, V. B. Molodkin, S. V. Lizunova, S. J. Olikhovskyi, Ye. M. Kyslovskyi, O. Yu. Gaevskyi, V. V. Lizunov, A. I. Nizkova, T. P. Vladimirova, V. V. Molodkin, K. V. Fuzyk, A. V. Goshkoderya, A. O. Bilotska, G. O. Velikhovskyi, A. A. Muzychenko, and R. V. Lekhnyak",
+				"ru": "Б. В. Шелудченко, В. Б. Молодкин, С. В. Лизунова, С. И. Олиховский, Е. Н. Кисловский, А. Ю. Гаевский, В. В. Лизунов, А. И. Низкова, Т. П. Владимирова, В. В. Молодкин, Е. В. Фузик, А. В. Гошкодеря, А. А. Белоцкая, Г. О. Велиховский, А. А. Музыченко, Р. В. Лехняк"
+			}
+		}
+	]
+}

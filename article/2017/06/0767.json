@@ -1,0 +1,139 @@
+{
+	"_id":    "MFiNT.39.06.0767",
+	"year":   2017,
+	"volume": 39,
+	"issue":  6,
+	"pages":  [767,778],
+	"rubric": 2,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["12.06.2017"],
+	"PACS":   "07.85.Fv, 61.05.cf, 61.05.cm, 61.05.cp, 68.65.Ac, 81.15.Cd",
+	"title":   {
+		"ua": "Зміни структури багатошарових рентґенівських дзеркал Zr/Mg із ростом товщини нанорозмірних шарів маґнію",
+		"en": "Changes of Structure of Zr/Mg Multilayer X-Ray Mirrors with Growth of Thickness of Nanosize Layers of Magnesium",
+		"ru": "Изменения структуры многослойных рентгеновских зеркал Zr/Mg с ростом толщины наноразмерных слоёв магния"
+	},
+	"abstract": {
+		"ua": "У роботі рентґеноструктурними методами досліджено особливості росту багатошарових рентґенівських дзеркал (БРД) Zr/Mg, виготовлених методою прямоструминного магнетронного розпорошення. На рентґенівській дифрактограмі від БРД Zr/Mg спостерігається когерентне розсіяння Рентґенового випромінення з $\\lambda$ = 0,154 нм, яке забезпечується епітаксіяльним ростом шарів Mg та Zr та малою невідповідністю параметрів їхніх кристалічних ґратниць у 1,2%. У даній роботі вперше було використано оброблення й аналізу даних когерентного розсіяння у поєднанні з малокутовою рентґенівською дифракцією, що уможливило встановити інтервал товщин шарів маґнію (до $\\cong$ 4,8–5,2 нм), де плівка є несуцільною. Показано, що БРД Zr/Mg з товщинами шарів Mg, більшими за 5,2 нм, мають малу міжшарову шерсткість ($\\sigma \\cong$ 0,4 нм) і здатні забезпечити високу відбивну здатність у діяпазоні довжин хвиль 25–35 нм.",
+		"en": "Structure of Zr/Mg multilayer x-ray mirrors (MXMs) deposited by direct-flow magnetron sputtering is studied by x-ray diffraction methods. X-ray diffraction curve ($\\lambda$ = 0.154 nm) has one diffraction peak (2$\\theta \\cong$ 34.6°) and, at least, two superlattice satellites within the range 31°–38°. It means that Zr/Mg MXMs scatter x-rays coherently due to low mismatch (1.2%) between the lattice parameters of Mg and Zr layers and high level of multilayer periodicity. In this work, for the first time, processing and analysing coherent diffraction data are applied to describe features of MXMs grows. Obtained results in combination with low-angle x-ray diffraction data allow determining the thickness ($H_{\\textrm{Mg}}$ < 5.2 nm), for which magnesium layers are discontinuous. As demonstrated, the Zr/Mg MXMs with the Mg layers thicker than 5.2 nm have low interface roughness ($\\sigma \\cong$ 0.4 nm) and can provide high level of reflectance.",
+		"ru": "Методами рентгеновской дифрактометрии исследованы особенности роста многослойных рентгеновских зеркал (МРЗ) Zr/Mg, изготовленных методом прямоточного магнетронного распыления. Показано, что МРЗ Zr/Mg благодаря высокой степени периодичности слоёв и малому несоответствию параметров их кристаллических решёток в 1,2% когерентно рассеивают рентгеновское излучение с $\\lambda$ = 0,154 нм. В данной работе впервые была использована обработка и анализ данных когерентного рассеяния для описания особенностей формирования зеркал. Полученные результаты в сочетании с данными малоугловой рентгеновской дифракции позволили установить диапазон толщин слоёв магния (до $\\cong$ 4,8–5,2 нм), в котором плёнка является несплошной. Показано, что МРЗ Zr/Mg с толщинами слоёв Mg более 5,2 нм имеют малую межслоевую шероховатость ($\\sigma \\cong$ 0,4 нм) и способны обеспечить высокую отражательную способность в диапазоне длин волн 25–35 нм."
+	},
+	"keywords": {
+		"ua": "багатошарове рентґенівське дзеркало, рентґенівська фазова аналіза, прямоструминне магнетронне розпорошення, маґній, цирконій",
+		"en": "multilayer x-ray mirror, x-ray phase analysis, DC magnetron sputtering, magnesium, zirconium",
+		"ru": "многослойное рентгеновское зеркало, рентгеновский фазовый анализ, прямоточное магнетронное распыление, магний, цирконий"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Л. Є. Конотопсьский", "en": "L. E. Konotopsky", "ru": "Л. Е. Конотопский"},
+			"OID": [243]
+		},
+		{
+			"AID": {"ua": "І. Ф. Михайлов", "en": "I. F. Mikhailov", "ru": "И. Ф. Михайлов"},
+			"OID": [243]
+		},
+		{
+			"AID": {"ua": "І. А. Копилець", "en": "I. A. Kopylets", "ru": "И. А. Копылец"},
+			"OID": [243]
+		},
+		{
+			"AID": {"ua": "В. В. Мамон", "en": "V. V. Mamon", "ru": "В. В. Мамон"},
+			"OID": [243]
+		},
+		{
+			"AID": {"ua": "В. В. Кондратенко", "en": "V. V. Kondratenko", "ru": "В. В. Кондратенко"},
+			"OID": [243]
+		}
+	],
+	"references": {
+		"count": 17,
+		"list":  [
+			{
+				"doi": "10.1557/S0883769400060413",
+				"or":  "T. W. Barbee, MRS Bulletin, 15, Iss. 2: 17 (1990).",
+				"tr":  "T. W. Barbee, MRS Bulletin, 15, Iss. 2: 17 (1990)."
+			},
+			{
+				"doi": "10.1364/AO.49.003922",
+				"or":  "J. Zhu, S. Zhou, H. Li, Q. Huang, Zh. Wang,K. L. Guen, M.-H. Hu, J.-M. André, and Ph. Jonnard, Appl. Opt., 49, Iss. 20: 3922 (2010).",
+				"tr":  "J. Zhu, S. Zhou, H. Li, Q. Huang, Zh. Wang,K. L. Guen, M.-H. Hu, J.-M. André, and Ph. Jonnard, Appl. Opt., 49, Iss. 20: 3922 (2010)."
+			},
+			{
+				"doi": "10.1140/epjb/e2008-00290-x",
+				"or":  "H. Maurya, P. Jonnard, K. Le Guen, J.-M. André, Z. Wang, J. Zhu, J. Dong, Z. Zhang, F. Bridou, F. Delmotte, C. Hecquet, N. Mahne, A. Giglia, and S. Nannarone, Eur. Phys. J. B, 64, No. 2: 193 (2008).",
+				"tr":  "H. Maurya, P. Jonnard, K. Le Guen, J.-M. André, Z. Wang, J. Zhu, J. Dong, Z. Zhang, F. Bridou, F. Delmotte, C. Hecquet, N. Mahne, A. Giglia, and S. Nannarone, Eur. Phys. J. B, 64, No. 2: 193 (2008)."
+			},
+			{
+				"doi": "10.1007/s12200-008-0028-y",
+				"or":  "J. Zhu, D. Xu, Sh. Zhang, W. Wu, Zh. Zhang, F. Wang, B. Wang, C. Li, Y. Xu, Zh. Wang, L. Chen, H. Zhou, and T. Huo, Front. Optoelec. Chin., 1, Iss. 3–4: 305 (2008).",
+				"tr":  "J. Zhu, D. Xu, Sh. Zhang, W. Wu, Zh. Zhang, F. Wang, B. Wang, C. Li, Y. Xu, Zh. Wang, L. Chen, H. Zhou, and T. Huo, Front. Optoelec. Chin., 1, Iss. 3–4: 305 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "Диаграммы состояния двойных металлических систем: Справочник (Ред. Н. П. Лякишев) (Москва: Машиностроение: 2001), т. 3.",
+				"tr":  "Diagrammy Sostoyaniya Dvoynykh Metallicheskikh Sistem: Spravochnik (Ed. N. P. Lyakishev) (Moscow: Mashinostroenie: 2001), vol. 3 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Блохин, И. Г. Швейцер, Рентгеноспектральный справочник (Москва: Наука: 1982).",
+				"tr":  "M. A. Blohin and I. G. Shveitser, Rentgenospektralnyy Spravochnik (Moscow: Nauka: 1982) (in Russian)."
+			},
+			{
+				"doi": "10.1134/S106377370901006X",
+				"or":  "S. V. Shestov, A. M. Urnov, S. V. Kuzin, I. A. Zhitnik, and S. A. Bogachev, Astron. Lett., 35, Iss. 1: 45 (2009).",
+				"tr":  "S. V. Shestov, A. M. Urnov, S. V. Kuzin, I. A. Zhitnik, and S. A. Bogachev, Astron. Lett., 35, Iss. 1: 45 (2009)."
+			},
+			{
+				"doi": "10.1134/1.1854795",
+				"or":  "I. A. Zhitnik, S. V. Kuzin, A. M. Urnov, I. L. Beigman, S. A. Bozhenkov, and I. Yu. Tolstikhina, Astron. Lett., 31, Iss. 1: 37 (2005).",
+				"tr":  "I. A. Zhitnik, S. V. Kuzin, A. M. Urnov, I. L. Beigman, S. A. Bozhenkov, and I. Yu. Tolstikhina, Astron. Lett., 31, Iss. 1: 37 (2005)."
+			},
+			{
+				"doi": "10.1063/1.4794399",
+				"or":  "H. Li, J. Zhu, S. Zhou, Zh. Wang, H. Chen, Ph. Jonnard, K. L. Guen, and J.-M. André, Appl. Phys. Lett., 102, Iss. 11: 111103 (2013).",
+				"tr":  "H. Li, J. Zhu, S. Zhou, Zh. Wang, H. Chen, Ph. Jonnard, K. L. Guen, and J.-M. André, Appl. Phys. Lett., 102, Iss. 11: 111103 (2013)."
+			},
+			{
+				"doi": "10.1063/1.168689",
+				"or":  "D. L. Windt, Computers in Physics, 12, No. 4: 360 (1998).",
+				"tr":  "D. L. Windt, Computers in Physics, 12, No. 4: 360 (1998)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2006.01.070",
+				"or":  "D. L. Voronov, E. N. Zubarev, V. V. Kondratenko, Yu. P. Pershin, V. A. Sevryukova, and Ye. A. Bugayev, Thin Solid Films, 513, Iss. 1–2: 152 (2006).",
+				"tr":  "D. L. Voronov, E. N. Zubarev, V. V. Kondratenko, Yu. P. Pershin, V. A. Sevryukova, and Ye. A. Bugayev, Thin Solid Films, 513, Iss. 1–2: 152 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "Энциклопедия неорганических материалов (Ред. И. М. Федорченко) (Киев: Главная редакция УСЭ: 1977), т. 1.",
+				"tr":  "Entsiklopediya Neorganicheskikh Materialov (Ed. I. M. Fedorchenko) (Kiev: Glavnaya Redaktsiya USE: 1977), vol. 1 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Энциклопедия неорганических материалов (Ред. И. М. Федорченко) (Киев: Главная редакция УСЭ: 1977), т. 2.",
+				"tr":  "Entsiklopediya Neorganicheskikh Materialov (Ed. I. M. Fedorchenko) (Kiev: Glavnaya Redaktsiya USE: 1977), vol. 2 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Хачатурян, Теория фазовых превращений и структура твёрдых растворов (Mосква: Наука: 1974).",
+				"tr":  "A. G. Khachaturyan, Teoriya Fazovykh Prevrashcheniy i Struktura Tverdykh Rastvorov (Moscow: Nauka: 1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. С. Борисова, И. Ф. Михайлов, Л. П. Шпаковская, Кристаллография, 31, № 4: 651 (1986).",
+				"tr":  "S. S. Borisova, I. F. Mikhailov, and L. P. Shpakovskaya, Kristallografiya, 31, No. 4: 651 (1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. С. Палатник, A. A. Козьма, И. Ф. Михайлов, В. Н. Маслов, Кристалло-графия, 23, № 3: 570 (1978).",
+				"tr":  "L. S. Palatnik, A. A. Koz'ma, I. F. Mikhailov, and V. N. Maslov, Kristallografiya, 23, No. 3: 570 (1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Handbook of Thin Film Technology (Eds. L. I. Maissel and R. Glang) (McGraw-Hill Hook Company: 1970).",
+				"tr":  "Handbook of Thin Film Technology (Eds. L. I. Maissel and R. Glang) (McGraw-Hill Hook Company: 1970)."
+			}
+		]
+	}
+}

@@ -1,0 +1,191 @@
+{
+	"_id":    "MFiNT.38.12.1577",
+	"year":   2016,
+	"volume": 38,
+	"issue":  12,
+	"pages":  [1577,1586],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["03.10.2016"],
+	"PACS":   "72.25.-b, 74.45.+c, 75.47.Lx, 81.15.Kk, 81.20.Ev, 85.75.-d",
+	"title":   {
+		"ua": "Синтез і транспортні характеристики плівок діоксиду хрому",
+		"en": "Synthesis and Transport Properties of the Chromium Dioxide Films",
+		"ru": "Синтез и транспортные характеристики плёнок диоксида хрома"
+	},
+	"abstract": {
+		"ua": "Запропоновано та розроблено спосіб одержання тонких плівок діоксиду хрому (CrO$_{2}$) на підложжях із монокристалічного рутилу (TiO$_{2}$) методою гідротермальної синтези. Виготовлені за запропонованою методою зразки показали металічний характер температурної залежности електроопору і високий коефіцієнт спінової поляризації носіїв заряду, який мірявся методою Андреєвського відбивання.",
+		"en": "The method for chromium dioxide (CrO$_{2}$) thin films’ fabrication by the hydrothermal synthesis on monocrystalline substrates of rutile (TiO$_{2}$) is proposed and developed. The prepared samples demonstrate a metallic character of the temperature dependence of electrical resistance and high value of coefficient of spin polarization of charge carriers, which is measured by the Andreev reflection method.",
+		"ru": "Предложен и разработан способ получения тонких плёнок диоксида хрома (CrO$_{2}$) на подложках из монокристаллического рутила (TiO$_{2}$) методом гидротермального синтеза. Приготовленные по предложенной методике образцы показали металлический характер температурной зависимости сопротивления и высокий коэффициент спиновой поляризации носителей заряда, измеренный методом андреевского отражения."
+	},
+	"keywords": {
+		"ua": "плівки діоксиду хрому, триоксид хрому, Андреєвський контакт, коефіцієнт спінової поляризації носіїв заряду",
+		"en": "chromium dioxide films, chromium trioxide, Andreev contact, rate of spin polarization of the charge carriers",
+		"ru": "плёнки диоксида хрома, триоксид хрома, андреевский контакт, коэффициент спиновой поляризации носителей заряда"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. В. Невдача", "en": "V. V. Nevdacha", "ru": "В. В. Невдача"},
+			"OID": [7]
+		},
+		{
+			"AID": {"ua": "А. М. Погорілий", "en": "A. M. Pogorilyi", "ru": "А. Н. Погорелый"},
+			"OID": [7]
+		},
+		{
+			"AID": {"ua": "Б. М. Мицюк", "en": "B. M. Mitsyuk", "ru": "Б. М. Мицюк"},
+			"OID": [7]
+		},
+		{
+			"AID": {"ua": "Д. І. Під’яловський", "en": "D. I. Podyalovskyi", "ru": "Д. И. Подьяловский"},
+			"OID": [7]
+		},
+		{
+			"AID": {"ua": "В. В. Кононенко", "en": "V. V. Kononenko", "ru": "В. В. Кононенко"},
+			"OID": [9]
+		},
+		{
+			"AID": {"ua": "Д. О. Федюк", "en": "D. O. Fedyuk", "ru": "Д. О. Федюк"},
+			"OID": [9]
+		},
+		{
+			"AID": {"ua": "В. Ю. Таренков", "en": "V. Yu. Tarenkov", "ru": "В. Ю. Таренков"},
+			"OID": [9]
+		},
+		{
+			"AID": {"ua": "В. М. Криворучко", "en": "V. M. Krivoruchko", "ru": "В. Н. Криворучко"},
+			"OID": [9]
+		}
+	],
+	"references": {
+		"count": 25,
+		"list":  [
+			{
+				"doi": "10.1063/1.3318287",
+				"or":  "Y. C. Tao and J. G. Hu, J. Appl. Phys., 107: 041101 (2010).",
+				"tr":  "Y. C. Tao and J. G. Hu, J. Appl. Phys., 107: 041101 (2010)."
+			},
+			{
+				"doi": "10.1016/j.physc.2010.07.005",
+				"or":  "S. Anders and M. G. Blamire, F.-Im. Buchholz, and D.-G. Crete et al., Physica C, 470: 2079 (2010).",
+				"tr":  "S. Anders and M. G. Blamire, F.-Im. Buchholz, and D.-G. Crete et al., Physica C, 470: 2079 (2010)."
+			},
+			{
+				"doi": "10.1016/S0370-1573(00)00121-6",
+				"or":  "E. Dagotto, T. Hotta, and A. Moreo, Phys. Rep., 344: 1 (2001).",
+				"tr":  "E. Dagotto, T. Hotta, and A. Moreo, Phys. Rep., 344: 1 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "V. M. Loktev and Yu. G. Pogorelov, Fizika Nizkikh Temperatur, 26: 231 (2000) (in Russian).",
+				"tr":  "V. M. Loktev and Yu. G. Pogorelov, Fizika Nizkikh Temperatur, 26: 231 (2000) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0370-1573(00)00111-3",
+				"or":  "E. L. Nagaev, Phys. Rep., 346: 387 (2001).",
+				"tr":  "E. L. Nagaev, Phys. Rep., 346: 387 (2001)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.73.583",
+				"or":  "M. B. Salamon and M. Jaime, Rev. Mod. Phys., 73: 583 (2001).",
+				"tr":  "M. B. Salamon and M. Jaime, Rev. Mod. Phys., 73: 583 (2001)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.61.9621",
+				"or":  "S. M. Watts, S.Wirth, S. von Molár, A. Barry, and J. M. D. Coey, Phys. Rev. B, 61: 9621 (2000).",
+				"tr":  "S. M. Watts, S.Wirth, S. von Molár, A. Barry, and J. M. D. Coey, Phys. Rev. B, 61: 9621 (2000)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.75.140406",
+				"or":  "L. Chioncel, H. Allmaier, E. Arrigoni, A. Yamasaki, M. Daghofer, M. I. Katsnelson, and A. I. Lichtenstein, Phys. Rev. B, 75: 140406 (2007).",
+				"tr":  "L. Chioncel, H. Allmaier, E. Arrigoni, A. Yamasaki, M. Daghofer, M. I. Katsnelson, and A. I. Lichtenstein, Phys. Rev. B, 75: 140406 (2007)."
+			},
+			{
+				"doi": "10.1016/0025-5408(66)90002-X",
+				"or":  "R. C. De Vries, Mat. Res. Bull., 1, No. 2: 83 (1966).",
+				"tr":  "R. C. De Vries, Mat. Res. Bull., 1, No. 2: 83 (1966)."
+			},
+			{
+				"doi": "10.1016/0025-5408(79)90231-9",
+				"or":  "S. Ishibashi, T. Namikawa, and M. Satou, Mat. Res. Bull., 14, No. 1: 51 (1979).",
+				"tr":  "S. Ishibashi, T. Namikawa, and M. Satou, Mat. Res. Bull., 14, No. 1: 51 (1979)."
+			},
+			{
+				"doi": "10.1143/JJAP.17.249",
+				"or":  "S. Ishibashi, T. Namikawa, and M. Satou, Jap. J. Appl. Phys., 17, No. 1: 49 (1978).",
+				"tr":  "S. Ishibashi, T. Namikawa, and M. Satou, Jap. J. Appl. Phys., 17, No. 1: 49 (1978)."
+			},
+			{
+				"doi": "10.1063/1.2992521",
+				"or":  "N. Panwar, A. Rao, R. S. Singh, W. K. Syu, N. Kaurav, Y.-K. Kuo, and S. K. Agarwal, J. Appl. Phys., 104: 083906 (2008).",
+				"tr":  "N. Panwar, A. Rao, R. S. Singh, W. K. Syu, N. Kaurav, Y.-K. Kuo, and S. K. Agarwal, J. Appl. Phys., 104: 083906 (2008)."
+			},
+			{
+				"doi": "10.1143/JPSJ.33.21",
+				"or":  "K. Kubo and N. Ohata, J. Phys. Soc. Jpn., 33: 21 (1972).",
+				"tr":  "K. Kubo and N. Ohata, J. Phys. Soc. Jpn., 33: 21 (1972)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.61.R14905",
+				"or":  "Moon-Ho Jo, N. D. Mathur, N. K. Todd, and M. G. Blamire, Phys. Rev. B, 61, No. 22: 14905 (2000).",
+				"tr":  "Moon-Ho Jo, N. D. Mathur, N. K. Todd, and M. G. Blamire, Phys. Rev. B, 61, No. 22: 14905 (2000)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.79.5150",
+				"or":  "J. Y. T. Wei, N.-C. Yeh, R. P. Vasquez, Phys. Rev. Lett., 79, No. 25: 5150 (1997).",
+				"tr":  "J. Y. T. Wei, N.-C. Yeh, R. P. Vasquez, Phys. Rev. Lett., 79, No. 25: 5150 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "A. F. Andreev, Sov. Phys. JETP, 19: 1228 (1964).",
+				"tr":  "A. F. Andreev, Sov. Phys. JETP, 19: 1228 (1964)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.74.1657",
+				"or":  "M. J. M. de Jong and C. W. Beenakker, Phys. Rev. Lett., 74: 1657 (1982).",
+				"tr":  "M. J. M. de Jong and C. W. Beenakker, Phys. Rev. Lett., 74: 1657 (1982)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.25.4515",
+				"or":  "G. E. Blonder, M. Tinkham, and T. M. Klawijk, Phys. Rev. B, 25: 4515 (1982).",
+				"tr":  "G. E. Blonder, M. Tinkham, and T. M. Klawijk, Phys. Rev. B, 25: 4515 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. V. Sharvin, Sov. Phys. JEPT, 21: 655 (1965).",
+				"tr":  "Yu. V. Sharvin, Sov. Phys. JEPT, 21: 655 (1965)."
+			},
+			{
+				"doi": "",
+				"or":  "A. I. D’yachenko, V. A. D’yachenko, V. Yu. Tarenkov, and V. N. Krivoruchko, Fizika Tverdogo Tela, 48: 407 (2006) (in Russian).",
+				"tr":  "A. I. D'yachenko, V. A. D'yachenko, V. Yu. Tarenkov, and V. N. Krivoruchko, Fizika Tverdogo Tela, 48: 407 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. I. D’yachenko, V. Yu. Tarenkov, and V. N. Krivoruchko, Fizika Nizkikh Temperatur, 32, No. 8/9: 1085 (2006) (in Russian).",
+				"tr":  "A. I. D'yachenko, V. Yu. Tarenkov, and V. N. Krivoruchko, Fizika Nizkikh Temperatur, 32, No. 8/9: 1085 (2006) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.75.214508",
+				"or":  "V. N. Krivoruchko and V. Yu. Tarenkov, Phys. Rev. B, 75: 214508 (2007).",
+				"tr":  "V. N. Krivoruchko and V. Yu. Tarenkov, Phys. Rev. B, 75: 214508 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.78.054522",
+				"or":  "V. N. Krivoruchko and V. Yu. Tarenkov, Phys. Rev. B, 78: 054522 (2008).",
+				"tr":  "V. N. Krivoruchko and V. Yu. Tarenkov, Phys. Rev. B, 78: 054522 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.86.104502",
+				"or":  "V. N. Krivoruchko and V. Yu. Tarenkov, Phys. Rev. B, 86: 104502 (2012).",
+				"tr":  "V. N. Krivoruchko and V. Yu. Tarenkov, Phys. Rev. B, 86: 104502 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "V. N. Krivoruchko, A. I. D’yachenko, and V. Yu. Tarenkov, Fizika Nizkikh Temperatur, 39, No. 3: 276 (2013).",
+				"tr":  "V. N. Krivoruchko, A. I. D'yachenko, and V. Yu. Tarenkov, Fizika Nizkikh Temperatur, 39, No. 3: 276 (2013)."
+			}
+		]
+	}
+}

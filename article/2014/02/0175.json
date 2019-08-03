@@ -1,0 +1,97 @@
+{
+	"_id":    "MFiNT.36.02.0175",
+	"year":   2014,
+	"volume": 36,
+	"issue":  2,
+	"pages":  [175,188],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["12.03.2013"],
+	"PACS":   "61.72.sd, 64.70.dg, 64.75.Bc, 81.05.Bx, 81.70.Jb, 82.80.Fk",
+	"title":   {
+		"ua": "Вплив активності кисню на ефективність гранулювання при виробництві чавуну з кулястим графітом",
+		"en": "Effect of Oxygen Activity on the Effectiveness of Nodulization in the Spheroidal Graphite Cast Iron Production",
+		"ru": "Влияние активности кислорода на эффективность гранулирования при производстве чугуна с шаровидным графитом"
+	},
+	"abstract": {
+		"ua": "Виробництво відливок з чавуна з кулястим графітом потребує дотримання металургійних і технологічних принципів. Кисень відіграє важливу роль в цьому виробництві. Найбільший вплив він здійснює на кисень, зв’язаний в окислах. В умовах виробництва необхідно слідкувати за хімічним складом і температурою розплаву разом з іншими факторами, які дають внесок в активність кисню та ефективні модифікації. Встановлено вплив застосованого модифікатора (ґранулятора) активності кисню на виробництво чавуна з кулястим графітом.",
+		"en": "Production of castings with spheroidal graphite iron (SGI) requires the maintenance of metallurgical and technological principles. Oxygen plays an important role in this production. The influence of oxygen on cast iron has the most significant effect on oxygen bound in oxides. Under operating conditions, it is necessary to monitor the chemical composition and temperature of the melt together with other factors, which contribute to the effect of oxygen activity and effective modifications. Influence of an applied modifier (nodulizer) of oxygen activity on the production of spheroidal graphite cast iron is established.",
+		"ru": "Производство отливок из чугуна с шаровидным графитом требует соблюдения металлургических и технологических принципов. Кислород играет важную роль в этом производстве. Наибольшее влияние он оказывает на кислород, связанный в окислах. В условиях производства необходимо следить за химическим составом и температурой расплава вместе с другими факторами, которые вносят вклад в активность кислорода и эффективные модификации. Установлено влияние применяемого модификатора (гранулятора) активности кислорода на производство чугуна с шаровидным графитом."
+	},
+	"keywords": {
+		"ua": "кулястий графіт, чавун, гранулювання, розчинність, насичення, розтоп",
+		"en": "spheroidal graphite, cast iron, nodulization, solubility, saturation, melt",
+		"ru": "шаровидный графит, чугун, гранулирование, растворимость, насыщение, расплав"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Іва Нова", "en": "Iva Nová", "ru": "Ива Нова"},
+			"OID": [424]
+		},
+		{
+			"AID": {"ua": "Йіржі Махута", "en": "Jiří Machuta", "ru": "Йиржи Махута"},
+			"OID": [424]
+		}
+	],
+	"references": {
+		"count": 11,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "T. Myslivec, Fyzikálně Chemické Základy Ocelářství (Physico-Chemical Principles of the Steel Industry) (Prague: SNTL: 1971) (in Czech).",
+				"tr":  "T. Myslivec, Fyzikálně Chemické Základy Ocelářství (Physico-Chemical Principles of the Steel Industry) (Prague: SNTL: 1971) (in Czech)."
+			},
+			{
+				"doi": "",
+				"or":  "B. V. Linchevskiy, Termodinamika i Kinetika Vzaimodeystviya Gazov s Zhidkimi Metallami (Moscow: Metallurgiya: 1986) (in Russian).",
+				"tr":  "B. V. Linchevskiy, Termodinamika i Kinetika Vzaimodeystviya Gazov s Zhidkimi Metallami (Moscow: Metallurgiya: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Hummer, Giesserei, No. 24: 884 (1991).",
+				"tr":  "R. Hummer, Giesserei, No. 24: 884 (1991)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/AMR.4-5.269",
+				"or":  "R. Hummer, Adv. Mate. Res., 4–5: 269 (1997).",
+				"tr":  "R. Hummer, Adv. Mate. Res., 4–5: 269 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Kusakawa, Memoirs of the School of Science and Engineering, Waseda University, 52: 163 (1988).",
+				"tr":  "T. Kusakawa, Memoirs of the School of Science and Engineering, Waseda University, 52: 163 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Šenberger, Sborník 14 Celostátní Konference (Brno: 2000), s. 34.",
+				"tr":  "J. Šenberger, Sborník 14 Celostátní Konference (Brno: 2000), s. 34."
+			},
+			{
+				"doi": "",
+				"or":  "L. Konečný, J. Exner, and I. Nová, Aktivita Kyslíku u Grafitických Litin (Oxygen Activity of Graphite Cast Iron) (Final Report of Grant Project GAČR 106/95/ 171 TU v Liberci: 1998) (in Czech).",
+				"tr":  "L. Konečný, J. Exner, and I. Nová, Aktivita Kyslíku u Grafitických Litin (Oxygen Activity of Graphite Cast Iron) (Final Report of Grant Project GAČR 106/95/ 171 TU v Liberci: 1998) (in Czech)."
+			},
+			{
+				"doi": "",
+				"or":  "I. Nová, J. Bradáč, M. Vrba, and J. Šmrha, Archives of Foundry Engineering, 6, No. 18: 15 (2006).",
+				"tr":  "I. Nová, J. Bradáč, M. Vrba, and J. Šmrha, Archives of Foundry Engineering, 6, No. 18: 15 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Bříštala, Vliv Kyslíku v Litinách s Kuličkovým Grafitem na Homogenitu Odlitků (Influence of Oxygen Activity of Spheroidal Graphite Iron on Homogeneity Castings) (Thesis, KSM-FS, TU in Liberci: 2001) (in Czech).",
+				"tr":  "L. Bříštala, Vliv Kyslíku v Litinách s Kuličkovým Grafitem na Homogenitu Odlitků (Influence of Oxygen Activity of Spheroidal Graphite Iron on Homogeneity Castings) (Thesis, KSM-FS, TU in Liberci: 2001) (in Czech)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Knébl, Vliv Kyslíku v Grafitických Litinách na Homogenitu Odlitků (Influence of Oxygen in Graphite Moulds on Castings Homogeneity) (Thesis, KSM-FS, TU in Liberec: 2000) (in Czech).",
+				"tr":  "R. Knébl, Vliv Kyslíku v Grafitických Litinách na Homogenitu Odlitků (Influence of Oxygen in Graphite Moulds on Castings Homogeneity) (Thesis, KSM-FS, TU in Liberec: 2000) (in Czech)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Machuta and I. Nová, Metallofiz. Noveishie Tekhnol., 34, No. 7: 977 (2012).",
+				"tr":  "J. Machuta and I. Nová, Metallofiz. Noveishie Tekhnol., 34, No. 7: 977 (2012)."
+			}
+		]
+	}
+}

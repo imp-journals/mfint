@@ -1,0 +1,163 @@
+{
+	"_id":    "MFiNT.39.08.1097",
+	"year":   2017,
+	"volume": 39,
+	"issue":  8,
+	"pages":  [1097,1117],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["24.06.2017"],
+	"PACS":   "43.35.+d, 62.20.Qp, 68.35.Dv, 68.35.Gy, 81.20.Hy, 81.65.-b, 83.50.Uv",
+	"title":   {
+		"ua": "Особливості деформації, зміцнення та масоперенесення внаслідок УЗУО поверхні стопу Д16 різними бойками",
+		"en": "Features of Deformation, Hardening and Mass Transfer After Ultrasonic Impact Surface Treatment of an Aluminium Alloy D16 by Various Strikers",
+		"ru": "Особенности деформации, упрочнения и массопереноса в результате УЗУО поверхности сплава Д16 различными бойками"
+	},
+	"abstract": {
+		"ua": "Досліджено особливості процесу зміцнення поверхневих шарів алюмінійового стопу Д16 після ультразвукового ударного оброблення (УЗУО) різними бойками. Зміна мікротвердости стопу Д16 після УЗУО на повітрі та в інертному середовищі має циклічний характер, незалежно від матеріялу бойка (сталь ШХ15 чи армко-Fe), який проявляється у чергуванні стадій зміцнення та пластифікації. Проаналізовано періодичність цих стадій для різних бойків і визначено інкубаційний період. За умов УЗУО на повітрі максимальні значення мікротвердости досягаються у випадку застосування бойка зі сталі ШХ15. В інертному середовищі більш високі значення мікротвердости стопу Д16 одержано при УЗУО з використанням ударника з армко-Fe за рахунок ударно-фрикційної взаємодії інструменту з поверхнею й активації масоперенесення атомів Fe в алюмінії, які забезпечують механічне леґування поверхневих шарів. Також розглянуто особливості ударного навантаження різними бойками, які зумовлюють виявлені відмінності у величинах накопиченої деформації та мікротвердости.",
+		"en": "Features of the hardening process of the surface layers of an aluminium alloy D16 are investigated after ultrasonic impact treatment (UIT) by means of various strikers. The changes in microhardness of the D16 alloy after the UIT process carried out in the air and in an inert environment, regardless the striker material (steel AISI 52100 or Armco-Fe), have a cyclic nature that manifests themselves as the alternating hardening and softening stages. The periodicity of these stages is analysed for various strikers, and the incubation period is determined. At the air-UIT conditions, the maximum values of microhardness $HV$ are achieved in the case of the use of the AISI 52100 steel striker. In the inert medium, the higher $HV$ values of the D16 alloy are obtained at UIT using the Armco-Fe striker owing to the shock–friction interaction of instrument and surface as well as the activation of the mass transfer of Fe atoms in aluminium that results in the mechanical alloying of the surface layers. Features of the impact loading with various strikers, which determine the observed differences in the accumulated deformation and microhardness, are also considered.",
+		"ru": "Исследованы особенности процесса упрочнения поверхностных слоёв алюминиевого сплава Д16 после ультразвуковой ударной обработки (УЗУО) разными бойками. Изменение микротвёрдости сплава Д16 после УЗУО на воздухе и в инертной среде имеет циклический характер, независимо от материала бойка (сталь ШХ15 или армко-Fe), который проявляется в чередовании стадий упрочнения и пластификации. Проанализирована периодичность этих стадий для разных бойков и определён инкубационный период. В условиях УЗУО на воздухе максимальные значения микротвёрдости достигаются в случае применения бойка из стали ШХ15. В инертной среде более высокие значения микротвёрдости сплава Д16 получены при УЗУО с использованием бойка из армко-Fe за счёт ударно-фрикционного взаимодействия инструмента с поверхностью и активации массопереноса атомов Fe в алюминии, которые обеспечивают механическое легирование поверхностных слоёв. Также рассмотрены особенности ударной нагрузки разными бойками, которые обусловливают выявленные отличия в величинах накопленной деформации и микротвёрдости."
+	},
+	"keywords": {
+		"ua": "ультразвукове ударне оброблення (УЗУО), бойок, покриття, ступінь деформації, масоперенесення, наноструктура",
+		"en": "ultrasonic impact treatment (UIT), striker, cladding, degree of strain, mass transfer, nanostructure",
+		"ru": "ультразвуковая ударная обработка (УЗУО), боёк, покрытия, степень деформации, массоперенос, наноструктура"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. О. Васильєв", "en": "M. O. Vasylyev", "ru": "М. А. Васильев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Б. М. Мордюк", "en": "B. M. Mordyuk", "ru": "Б. Н. Мордюк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. І. Сидоренко", "en": "S. I. Sidorenko", "ru": "С. И. Сидоренко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "С. М. Волошко", "en": "S. M. Voloshko", "ru": "С. М. Волошко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "А. П. Бурмак", "en": "A. P. Burmak", "ru": "А. П. Бурмак"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "Н. В. Франчік", "en": "N. V. Franchik", "ru": "Н. В. Франчик"},
+			"OID": [202]
+		}
+	],
+	"references": {
+		"count": 21,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "А. Д. Погребняк, А. А. Багдасарян, А. В. Пшик, К. Дядюра, Успехи физических наук, 187, № 12: 515 (2017).",
+				"tr":  "A. D. Pogrebnjak, A. A. Bagdasaryan, A. V. Pshyk, and K. Dyadyura, Uspekhi Fizicheskikh Nauk, 187, No. 12: 515 (2017) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Н. Торяник, У. С. Немченко, А. Д. Погребняк, О. В. Соболь, С. С. Гранкин, П. В. Турбин, С. С. Битиманова, Фізична інженерія поверхні, 12, № 1: 100 (2014).",
+				"tr":  "Y. N. Toryanyk, U. S. Nemchenko, A. D. Pohrebnjak, and O. V. Sobol, S. S. Grankin, P. V. Turbin, and S. S. Bitimanova, Fizychna Inzheneriya Poverkhni, 12, No. 1: 100 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.msea.2013.07.021",
+				"or":  "K. Gu, H. Zhang, B. Zhao, J. Wang, Y. Zhou, and Z. Li, Mater. Sci. Eng. A, 584: 170 (2013).",
+				"tr":  "K. Gu, H. Zhang, B. Zhao, J. Wang, Y. Zhou, and Z. Li, Mater. Sci. Eng. A, 584: 170 (2013)."
+			},
+			{
+				"doi": "10.1016/j.intermet.2008.06.017",
+				"or":  "I. S. Lee, P. W. Kao, and N. J. Ho, Intermetallics, 16: 1104 (2008).",
+				"tr":  "I. S. Lee, P. W. Kao, and N. J. Ho, Intermetallics, 16: 1104 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Pisharody, J. Menghani, and S. N. Pandiya, Int. J. Adv. Sci. Technol. (Joint Int. Conf., Pattaya, 2014), p. 78.",
+				"tr":  "A. Pisharody, J. Menghani, and S. N. Pandiya, Int. J. Adv. Sci. Technol. (Joint Int. Conf., Pattaya, 2014), p. 78."
+			},
+			{
+				"doi": "",
+				"or":  "В. Л. Сыроватка, В. Е. Оликер, М. С. Яковлєва, Материаловедение, № 3: 46 (2013).",
+				"tr":  "V. L. Syrovatka, V. E. Oliker, and M. S. Yakovleva, Materialovedenie, No. 3: 46 (2013) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.37.09.1269",
+				"or":  "М. О. Васильев, Б. М. Мордюк, С. I. Сидоренкo, С. М. Волошко, А. П. Бурмак, Металлофиз. новейшие технол., 37, № 9: 1269 (2015).",
+				"tr":  "M. O. Vasyliev, B. M. Mordyuk, S. I. Sidorenko, S. M. Voloshko, and A. P. Burmak, Metallofiz. Noveishie Tekhnol., 37, No. 9, 1269 (2015)."
+			},
+			{
+				"doi": "10.1016/j.rinp.2017.04.002",
+				"or":  "X. Yang, X. Wang, X. Ling, and D. Wang, Results in Physics, 7: 1412 (2017).",
+				"tr":  "X. Yang, X. Wang, X. Ling, and D. Wang, Results in Physics, 7: 1412 (2017)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2010.09.014",
+				"or":  "S. Romankov, Y. Hayasaka, E. Kasai, and J. M. Yoon, Surf. Coat. Technol., 205: 2313 (2010).",
+				"tr":  "S. Romankov, Y. Hayasaka, E. Kasai, and J. M. Yoon, Surf. Coat. Technol., 205: 2313 (2010)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2011.01.164",
+				"or":  "V. Zadorozhnyy, S. Kaloshkin, E. Kaevitser, and S. Romankov, J. Alloys Compd., 509S: S507 (2011).",
+				"tr":  "V. Zadorozhnyy, S. Kaloshkin, E. Kaevitser, and S. Romankov, J. Alloys Compd., 509S: S507 (2011)."
+			},
+			{
+				"doi": "10.1016/j.jmatprotec.2013.12.008",
+				"or":  "J. Gandra, H. Krohn, R. M. Miranda, P. Vilaca, L. Quintino, and J. F. dos Santos, J. Mater. Process. Technol., 214: 1062 (2014).",
+				"tr":  "J. Gandra, H. Krohn, R. M. Miranda, P. Vilaca, L. Quintino, and J. F. Dos Santos, J. Mater. Process. Technol., 214: 1062 (2014)."
+			},
+			{
+				"doi": "10.1016/j.msec.2015.09.004",
+				"or":  "Yu. N. Petrov, G. I. Prokopenko, B. N. Mordyuk, M. A. Vasylyev, S. M. Voloshko, V. S. Skorodzievski, and V. S. Filatova, Mater. Sci. Eng. C, 58: 1024 (2016).",
+				"tr":  "Yu. N. Petrov, G. I. Prokopenko, B. N. Mordyuk, M. A. Vasylyev, S. M. Voloshko, V. S. Skorodzievski, and V. S. Filatova, Mater. Sci. Eng. C, 58: 1024 (2016)."
+			},
+			{
+				"doi": "10.15407/mfint.37.12.1603",
+				"or":  "М. О. Васильєв, Б. М. Мордюк, С. І. Сидоренко, С. М. Волошко, А. П. Бурмак, Металлофиз. новейшие технол., 37, № 12: 1603 (2015).",
+				"tr":  "M. O. Vasyliev, B. M. Mordyuk, S. I. Sidorenko, S. M. Voloshko, and A. P. Burmak, Metallofiz. Noveishie Tekhnol., 37, No. 12: 1603 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/mfint.39.01.0049",
+				"or":  "М. О. Васильєв, Б. М. Мордюк, С. І. Сидоренко, С. М. Волошко, А. П. Бурмак, Металлофиз. новейшие технол., 39, № 1: 49 (2017).",
+				"tr":  "M. A. Vasylyev, B. M. Mordyuk, S. I. Sidorenko, S. M. Voloshko, and A. P. Burmak, Metallofiz. Noveishie Tekhnol., 39, No. 1: 49 (2017) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1080/02670844.2017.1334377",
+				"or":  "M. A. Vasylyev, B. N. Mordyuk, S. I. Sidorenko, S. M. Voloshko, and A. P. Burmak, Surf. Eng. (to be published) (2017).",
+				"tr":  "M. A. Vasylyev, B. N. Mordyuk, S. I. Sidorenko, S. M. Voloshko, and A. P. Burmak, Surf. Eng. (to be published) (2017)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. В. Тихонов, В. А. Кононенко, Г. И. Прокопенко, В. А. Рафаловский, Механические свойства металлов и сплавов (Киев: Наукова думка: 1986).",
+				"tr":  "L. V. Tikhonov, V. A. Kononenko, G. I. Prokopenko, and V. A. Rafalovsky, Mekhanicheskie Svoystva Metallov i Splavov [Mechanical Properties of Metals and Alloys] (Kiev: Naukova Dumka: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. І. Сидоренко, С. М. Волошко, І. Є. Котенко, А. П. Бурмак, Металлофиз. новейшие технол., 33, № 12: 1659 (2011).",
+				"tr":  "S. I. Sidorenko, S. M. Voloshko, I. E. Kotenko, and A. P. Burmak, Metallofiz. Noveishie Tekhnol., 33, No. 12: 1659 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Рыбин, Большие пластические деформации и разрушение металлов (Москва: Металлургия: 1986).",
+				"tr":  "V. V. Rybin, Bolshie Plasticheskie Deformatsii i Razrushenie Metallov [Large Plastic Deformation and Fracture of Metals] (Moscow: Metallurgiya: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Бурмак, С. І. Сидоренко, М. О. Васильєв, С. М. Волошко, Наукові вісті НТУУ «КПІ», № 1: 57 (2013).",
+				"tr":  "A. P. Burmak, S. I. Sydorenko, M. A. Vasylyev, and S. M. Voloshko, Science News of NTUU 'KPI', No. 1: 57 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2006.07.008",
+				"or":  "A. Mishra, B. K. Kad, F. Gregori, and M. A. Meyers, Acta Mater., 55: 13 (2007).",
+				"tr":  "A. Mishra, B. K. Kad, F. Gregori, and M. A. Meyers, Acta Mater., 55: 13 (2007)."
+			},
+			{
+				"doi": "10.1016/j.msea.2012.08.125",
+				"or":  "B. N. Mordyuk, O. P. Karasevskaya, and G. I. Prokopenko, Mater. Sci. Eng. A, 559: 453 (2013).",
+				"tr":  "B. N. Mordyuk, O. P. Karasevskaya, and G. I. Prokopenko, Mater. Sci. Eng. A, 559: 453 (2013)."
+			}
+		]
+	}
+}

@@ -1,0 +1,283 @@
+{
+	"_id":    "MFiNT.39.02.0209",
+	"year":   2017,
+	"volume": 39,
+	"issue":  2,
+	"pages":  [209,243],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["19.08.2016"],
+	"PACS":   "81.05.Bx, 81.07.Bc, 81.10.Jt, 81.15.Rs, 81.20.Hy, 81.40.Ef, 83.50.Uv",
+	"title":   {
+		"ua": "Формування нанорозмірної полігонізаційної субструктури та її вплив на фізико-механічні властивості металів, стопів і напорошених покриттів",
+		"en": "Formation of Polygonization Nanoscale Substructure and Its Impact on the Physical and Mechanical Properties of Metals, Alloys, and Sprayed Coatings",
+		"ru": "Формирование наноразмерной полигонизационной субструктуры и её влияние на физико-механические свойства металлов, сплавов и напылённых покрытий"
+	},
+	"abstract": {
+		"ua": "У статті подано огляд наукових робіт по наноструктуруванню виробів методами інтенсивної пластичної деформації (ІПД). Проведено аналізу застосування способів механотермічного та термомеханічного формування полігонізаційної субструктури у металах. Показано перспективи та недоліки сучасного формування здрібненої та нанорозмірної субструктур. Доведено, що можливості такого формування субструктури використовуються далеко не повністю через процеси динамічної та збиральної полігонізації, що мають місце при порівняно тривалому часі витримки за високої температури. Наноструктурування деталів великого розміру методами ІПД викликає значні технічні й технологічні труднощі та не є економічно доцільним. Основну частину цих метод не доведено до практичного застосування. Наведено результати попередніх досліджень, які відкривають перспективу щодо подальших досліджень та застосування способу формування здрібненої полігонізаційної субструктури шляхом передрекристалізаційного термічного оброблення металів, стопів та напорошених покриттів. Дослідження проводили на технічно чистих металах (Fe, Ni, Cu, Al, Ag), що уможливило з’ясувати вплив температури, часу витримки та ступеня попередньої пластичної деформації, а також типу кристалічної ґратниці на процеси їх зміцнення передрекристалізаційним термічним обробленням. З метою виявлення закономірностей впливу кількости вуглецю та леґувальних елементів на процеси зміцнення передрекристалізаційним термічним обробленням сталей дослідження виконували на вуглецевих (20, 40, 45, У8) та леґованих (40Х, 12Х13, 20Х13, 40Х13, 18Х2Н4МА, 12Х18Н10Т, ПХ18Н15, ПРХ18Н9, ЕП533-ІД, Св-08Г2С) сталях, а також на стопах Ni80Cr20, БрАМц 9-2, Д16. Досліджували вплив метод ІПД на розмір областей когерентного розсіяння Рентґенових променів і твердість на прикладі всебічного пресування та традиційного деформування стисканням з наступним передрекристалізаційним термічним обробленням, яке забезпечує максимальну твердість матеріялу. За результатами рентґеноструктурної аналізи й електронної мікроскопії встановлено, що передрекристалізаційне термічне оброблення пластично деформованих металів і сталей за режимами, що забезпечують найбільш високі показники фізико-механічних властивостей, викликає подрібнення субструктури та уможливлює формувати в структурі деформованих стисканням більше ніж на 60% металів і сталей нанорозмірні елементи, кількість яких може сягати 25% від загальної кількости структурних складових. Показано перспективу подальшого розвитку технології передрекристалізаційного термічного оброблення металів і стопів та напорошених покриттів з метою підвищення стійкости здрібненої полігонізаційної субструктури при підвищені температури та часу витримки шляхом блокування росту субзерен за рахунок процесів штучного старіння або формування стійких дислокаційних сплетінь, що уможливить розширити промислове застосування передрекристалізаційного термічного оброблення.",
+		"en": "The review of scientific papers devoted to nanostructurization of products by methods of the intensive plastic deformation (IPD) is presented. The analysis of application of methods of mechanothermal and thermomechanical formation of the polygonization substructure in metals is carried out. The perspectives and drawbacks of the state-of-the-art formation of shredded and nanoscale substructures are shown. The possibilities of such formation of substructure, which are not used fully because of processes of dynamical and collecting polygonization taking place at comparatively long holding time and high temperature are proven. Nanostructurization of large parts by the IPD methods causes significant technical and technological difficulties and are not economically efficient. The main part of these methods is not proven to practical application. The results of previous research, which provide outlook for next research and application of method of the shredded polygonization substructure formation by pre-recrystallization heat treatment of metals, alloys, and sprayed coatings, are presented. The investigations are carried out on technically clean metals (Fe, Ni, Cu, Al, Ag) and allow finding out the influence of temperature, holding time, degree of previous plastic deformation, and crystal-lattice type on processes of strengthening by pre-recrystallization heat treatment. The studies are executed on carbonaceous (20, 40, 45, U8) and alloyed (40H, 12H13, 20H13, 40H13, 18H2N4MA, 12H18N10T, PH18N15, PRH18N9, EP533-ID, Sv-08G2S) steels and alloys (Ni80Cr20, BrAMts 9-2, D16) to identify patterns of the influence of amount of carbon and alloying elements on the processes of strengthening by pre-recrystallization heat treatment. The influence of the IPD methods on both the size of coherent X-ray scattering regions and the hardness is investigated by example of comprehensive pressing and traditional compression deformation with next pre-recrystallization heat treatment, which provides maximum hardness of the material. As demonstrated by X-ray diffraction and electron microscopy, the pre-recrystallization heat treatment of plastically deformed metals and steels by means of the modes, which provide the highest characteristics of physical and mechanical properties, causes shredding of substructure and allows to form nanoscale elements in the structure of metals and steels deformed by compression more than 60%, whose number can reach 25% of the total number of the structural components. The increasing of stability of shredded polygonization substructure at increasing in temperature and holding time by blocking subgrains’ growth thought processes of artificial ageing or stable dislocation tangles’ formation is shown and enables to expand the industrial applications of pre-recrystallization heat treatment of metals, alloys, and sprayed coatings.",
+		"ru": "В статье представлен обзор научных работ по наноструктурированию изделий методами интенсивной пластической деформации (ИПД). Проведён анализ применения способов механотермического и термомеханического формирования полигонизационной субструктуры в металлах. Показаны перспективы и недостатки современного формирования измельчённой и наноразмерной субструктур. Доказано, что возможности такого формирования субструктуры используются далеко не полностью, что связано с протеканием процессов динамической и собирательной полигонизации, имеющих место при сравнительно длительном времени выдержки при высокой температуре. Наноструктурирование деталей большого размера методами ИПД вызывает значительные технические и технологические трудности и не является экономически целесообразным. Основная часть этих методов не доведена до практического применения. Приведены результаты предыдущих исследований, которые открывают перспективу для дальнейших исследований и применения способа формирования измельчённой полигонизационной субструктуры путём предрекристаллизационной термической обработки металлов, сплавов и напылённых покрытий. Исследования проводились на технически чистых металлах (Fe, Ni, Cu, Al, Ag), что позволило установить влияние температуры, времени выдержки и степени предварительной деформации, а также типа кристаллической решётки на процессы их упрочнения предрекристаллизационной термической обработкой. С целью выявления закономерностей влияния количества углерода и легирующих элементов на процессы упрочнения предрекристаллизационной термической обработкой сталей исследования проводили на углеродных (20, 40, 45, У8) и легированных (40Х, 12Х13, 20Х13, 40Х13, 18Х2Н4МА, 12Х18Н10Т, ПХ18Н15, ПРХ18Н9, ЕП533-ИД, Св-08Г2С) сталях, а также на сплавах Ni80Cr20, БрАМц 9-2, Д16. Исследовали влияние методов ИПД на размер областей когерентного рассеяния рентгеновских излучений и твёрдость на примере всестороннего прессования и традиционного деформирования сжатием с последующей предрекристаллизационной термической обработкой, которая обеспечивает максимальную твёрдость материала. По результатам структурного анализа и электронной микроскопии установлено, что предрекристаллизационная термическая обработка пластически деформированных металлов и сталей на режимах, обеспечивающих наиболее высокие показатели физико-механических свойств, вызывает измельчение субструктуры и позволяет формировать в структуре деформированных сжатием более чем на 60% металлов и сталей наноразмерные элементы, количество которых может достигать 25% от общего количества структурных составляющих. Показана перспектива дальнейшего развития технологии предрекристаллизационной термической обработки металлов, сплавов и напылённых покрытий с целью повышения устойчивости измельчённой полигонизационной субструктуры при увеличении температуры и времени выдержки путём блокирования роста субзёрен за счёт процессов искусственного старения или формирования устойчивых дислокационных сплетений, что позволит расширить промышленное применение предрекристаллизационной термической обработки."
+	},
+	"keywords": {
+		"ua": "передрекристалізаційне термічне оброблення, нанорозмірна субструктура, фізико-механічні властивості металів, стопів і напорошених покриттів",
+		"en": "pre-recrystallization heat treatment, nanoscale substructure, physical and mechanical properties of metals, alloys, and sprayed coatings",
+		"ru": "предрекристаллизационная термическая обработка, наноразмерная субструктура, физико-механические свойства металлов, сплавов и напылённых покрытий"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. М. Дубовий", "en": "O. M. Dubovyy", "ru": "А. Н. Дубовой"},
+			"OID": [250]
+		},
+		{
+			"AID": {"ua": "А. А. Карпеченко", "en": "A. A. Karpechenko", "ru": "А. А. Карпеченко"},
+			"OID": [250]
+		},
+		{
+			"AID": {"ua": "М. М. Бобров", "en": "M. M. Bobrov", "ru": "М. Н. Бобров"},
+			"OID": [250]
+		},
+		{
+			"AID": {"ua": "О. О. Жданов", "en": "O. O. Zhdanov", "ru": "А. А. Жданов"},
+			"OID": [250]
+		},
+		{
+			"AID": {"ua": "Т. О. Макруха", "en": "T. O. Makrukha", "ru": "Т. А. Макруха"},
+			"OID": [250]
+		},
+		{
+			"AID": {"ua": "Ю. Є. Неделько", "en": "Yu. E. Nedelko", "ru": "Ю. Е. Неделько"},
+			"OID": [250]
+		}
+	],
+	"references": {
+		"count": 45,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Н. П. Лякишев, О. А. Банных, К. Б. Поварова, С. И. Тишаев, Известия АН СССР. Металлы, № 6: 5 (1991).",
+				"tr":  "N. P. Lyakishev, O. A. Bannykh, K. B. Povarova, and S. I. Tishaev, Izvestiya AN SSSR. Metally, No. 6: 5 (1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. П. Лякишев, Вестник Российской академии наук, 73, № 5: 422 (2003).",
+				"tr":  "N. P. Lyakishev, Vestnik Rossiyskoy Akademii Nauk, 73, No. 5: 422 (2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. З. Валиев, И. В. Александров, Объёмные наноструктурные металлические материалы: получение, структура и свойства (Москва: Академкнига: 2007).",
+				"tr":  "R. Z. Valiev and I. V. Aleksandrov, Ob'emnye Nanostrukturnye Metallicheskie Materialy: Poluchenie, Struktura i Svoystva (Moscow: Akademkniga: 2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Столяров, Р. З. Валиев, Металлы, № 2: 5 (2004).",
+				"tr":  "V. V. Stolyarov and R. Z. Valiev, Metally, No. 2: 5 (2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "K. J. Kurzydlowski, Фізико-хімічна механіка матеріалів, № 1: 82 (2006).",
+				"tr":  "K. J. Kurzydlowski, Fizyko-Khimichna Mekhanika Materialiv, No. 1: 82 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "О. І. Юркова, А. В. Косянчук, М. Г. Гриценко, Металознавство та обробка металів, № 1: 3 (2011).",
+				"tr":  "O. I. Yurkova, A. V. Kosyanchuk, and M. G. Grytsenko, Metaloznavstvo ta Obrobka Metaliv, No. 1: 3 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. І. Юркова, Р. В. Карпов, Є. О. Клягін, Металознавство та обробка металів, № 1: 12 (2010).",
+				"tr":  "O. I. Yurkova, R. V. Karpov, and Ie. O. Kliagin, Metaloznavstvo ta Obrobka Metaliv, No. 1: 12 (2010) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Рыбан, Большие пластические деформации и разрушение металлов (Москва: Металлургия: 1986).",
+				"tr":  "V. V. Ryban, Bol'shie Plasticheskie Deformatsii i Razrushenie Metallov (Moscow: Metallurgiya: 1986) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2010.07.014",
+				"or":  "R. Z. Valiev, N. A. Enikeev, M. Yu. Murashkin, V. U. Kazykhanov, and X. Sauvage, Scr. Mater., 63: 949 (2010).",
+				"tr":  "R. Z. Valiev, N. A. Enikeev, M. Yu. Murashkin, V. U. Kazykhanov, and X. Sauvage, Scr. Mater., 63: 949 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Юркова, А. В. Белоцкий, А. В. Бякова, Ю. В. Мильман, Наносистеми, наноматеріали, нанотехнології, 7, № 2: 619 (2009).",
+				"tr":  "A. I. Yurkova, A. V. Belotskiy, A. V. Byakova, and Yu. V. Mil'man, Nanosistemi, Nanomateriali, Nanotehnologii, 7, No. 2: 619 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. А. Салыщев, О. Р. Валиахметов, Р. М. Галеев, Металлы, № 4: 81 (1996).",
+				"tr":  "G. A. Salyshchev, O. R. Valiakhmetov, and R. M. Galeev, Metally, No. 4: 81 (1996) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. А. Салыщев, Р. М. Галеев, С. В. Жеребцов, Металлы, № 6: 84 (1999).",
+				"tr":  "G. A. Salyshchev, R. M. Galeev, and S. V. Zherebtsov, Metally, No. 6: 84 (1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Маркушев, Письма о материалах, № 1: 36 (2011).",
+				"tr":  "M. V. Markushev, Pis'ma o Materialakh, No. 1: 36 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. А. Баранов, Механотермические способы совершенствования многофазных железных сплавов (Донецк: ДонНТУ: 2006).",
+				"tr":  "D. A. Baranov, Mekhanotermicheskie Sposoby Sovershenstvovaniya Mnogofaznykh Zheleznykh Splavov (Donetsk: DonNTU: 2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Баранов, А. А. Минаев, А. Л. Геллер, В. П. Горбатенко, Проблемы совмещения горячей деформации и термической обработки стали (Москва: Металлургия: 1985).",
+				"tr":  "A. A. Baranov, A. A. Minaev, A. L. Geller, and V. P. Gorbatenko, Problemy Sovmeshcheniya Goryachey Deformatsii i Termicheskoy Obrabotki Stali (Moscow: Metallurgiya: 1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Л. Бернштейн, В. А. Займовский, Л. М. Капуткина, Термомеханическая обработка стали (Москва: Металлургия: 1983).",
+				"tr":  "M. L. Bernshteyn, V. A. Zaymovskiy, and L. M. Kaputkina, Termomekhanicheskaya Obrabotka Stali (Moscow: Metallurgiya: 1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. С. Горелик, С. В. Добаткин, Л. М. Капуткина, Рекристаллизация металлов и сплавов (Москва: МИСиС: 2005).",
+				"tr":  "S. S. Gorelik, S. V. Dobatkin, and L. M. Kaputkina, Rekristallizatsiya Metallov i Splavov (Moscow: MISiS: 2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. А. Савченко, Вестник Оренбургского государственного университета, № 9: 179 (2005).",
+				"tr":  "E. A. Savchenko, Vestnik Orenburgskogo Gosudarstvennogo Universiteta, No. 9: 179 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Добаткин, Полигонизация и построение карт структурных состояний для оптимизации режимов горячей деформации сталей (Москва: МИСиС: 1990).",
+				"tr":  "S. V. Dobatkin, Poligonizatsiya i Postroenie Kart Strukturnykh Sostoyaniy dlya Optimizatsii Rezhimov Goryachey Deformatsii Staley (Moscow: MISiS: 1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Одинг, Металловедение и термическая обработка стали (Москва: 1961), т. 1.",
+				"tr":  "I. A. Oding, Metallovedenie i Termicheskaya Obrabotka Stali (Moscow: 1961), vol. 1 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Калита, А. В. Самохин, Н. В. Алексеев, Физика и химия обработки материалов, № 2: 37 (2007).",
+				"tr":  "V. I. Kalita, A.V. Samokhin, and N. V. Alekseev, Fizika i Khimiya Obrabotki Materialov, No. 2: 37 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Калита, Физика и химия обработки материалов, № 4: 46 (2005).",
+				"tr":  "V. I. Kalita, Fizika i Khimiya Obrabotki Materialov, No. 4: 46 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Zhang, Univ. Technol. Natur. Sci., 1: 21 (2006).",
+				"tr":  "H. Zhang, Univ. Technol. Natur. Sci., 1: 21 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Калита, В. В. Яркин, А. В. Касимицев, Г. У. Лубман, Физика и химия обработки материалов, № 5: 29 (2006).",
+				"tr":  "V. I. Kalita, V. V. Yarkin, A. V. Kasimitsev, and G. U. Lubman, Fizika i Khimiya Obrabotki Materialov, No. 5: 29 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю.К. Ковнеристый, Металловедение и термическая обработка, № 7: 14 (2005).",
+				"tr":  "Yu. K. Kovneristyy, Metallovedenie i Termicheskaya Obrabotka, No. 7: 14 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. В. Куракова, В. В. Молоканов, В. И. Калита, Физика и химия обработки материалов, № 4: 36 (2007).",
+				"tr":  "N. V. Kurakova, V. V. Molokanov, and V. I. Kalita, Fizika i Khimiya Obrabotki Materialov, No. 4: 36 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Алехин, Е. А. Лесюк, А. И. Капранова, Перспективные технологии и оборудование для материаловедения, микро- и наноэлектроники (Астрахань: МГНУ: 2006).",
+				"tr":  "V. P. Alekhin, E. A. Lesyuk, and A. I. Kapranova, Perspektivnye Tekhnologii i Oborudovanie dlya Materialovedeniya, Mikro- i Nanoelektroniki (Astrakhan: MGNU: 2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Воронов, Физическая мезомеханика, № 8: 113 (2005).",
+				"tr":  "A. V. Voronov, Fizicheskaya Mezomekhanika, No. 8: 113 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Дубовий, Т. А. Янковець, Н. Ю. Лебедєва, Ю. О. Казимиренко, О. О. Жданов, М. М. Бобров, Спосіб деформаційно-термічної обробки металів та сплавів, Пат. на винахід № 95378 (Опубл. 25.07.2011. Бюл. № 14) (2011).",
+				"tr":  "O. M. Dubovyy, T. A. Yankovets, N. Yu. Lebedyeva, Yu. O. Kazymyrenko, O. O. Zhdanov, and M. M. Bobrov, Sposib Deformatsiyno-Termichnoyi Obrobky Metaliv ta Splaviv, Patent of Ukraine No. 95378 (Publ. 25.07.2011. Bull. No. 14) (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Дубовий, Т. А. Янковець, А. А. Карпеченко, Спосіб нанесення покриття, Пат. на винахід № 88755 (Опубл. 10.11.2009. Бюл. № 21) (2009).",
+				"tr":  "O. M. Dubovyy, T. A. Yankovets, and A. A. Karpechenko, Sposib Nanesennya Pokryttya, Patent of Ukraine No. 88755 (Publ. 10.11.2009. Bull. No. 21) (2009) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Дубовий, Н. Ю. Лебедєва, Т. А. Янковець, Металознавство та обробка металів, № 3: 7 (2010).",
+				"tr":  "O. M. Dubovyy, N. Yu. Lebedyeva, and T. A. Yankovets, Metaloznavstvo ta Obrobka Metaliv, No. 3: 7 (2010) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Н. Дубовой, А. А. Карпеченко, М. Н. Бобров, Збірник наукових праць НУК, № 4: 60 (2014).",
+				"tr":  "A. N. Dubovoy, A. A. Karpechenko, and M. N. Bobrov, Zbirnyk Naukovykh Prats NUK, No. 4: 60 (2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Н. Дубовий, А. А. Карпеченко, О. О. Жданов, М. Н. Бобров, А. М. Портная, Спосіб деформаційно-термічної обробки електродугових покриттів, Патент № 10721 України, МПК С23/С 4/00 (Опубл. 25.04.2016. Бюл. №8).",
+				"tr":  "A. N. Dubovyy, A. A. Karpechenko, O. O. Zhdanov, M. N. Bobrov, and A. M. Portnaya, Sposib Deformatsiyno-Termichnoy Obrobky Elektrodugovykh Pokryttiv, Patent of Ukraine No. 10721, MPK S23/S 4/00 (Publ. 25.04.2016. Bull. No. 8) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. С. Тихонова, Рекристаллизационные процессы в аустенитной коррозионностойкой стали после больших пластических деформаций (Автореф. дис. … канд. физ.-мат. наук) (Белгород: 2015).",
+				"tr":  "M. S. Tikhonova, Rekristallizatsionnye Protsessy v Austenitnoy Korrozionnostoykoy Stali Posle Bol'shikh Plasticheskikh Deformatsiy (Autoref. Dis. … Cand. Phys.-Math. Sci.) (Belgorod: 2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Кроха, Кривые упрочнения металлов при холодной деформации (Москва: Машиностроение: 1968).",
+				"tr":  "V. A. Krokha, Krivye Uprochneniya Metallov pri Kholodnoy Deformatsii (Moscow: Mashinostroenie: 1968) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Калита, Физика и химия обработки материалов, № 4: 46 (2005).",
+				"tr":  "V. I. Kalita, Fizika i Khimiya Obrabotki Materialov, No. 4: 46 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И.Калита, А. В. Самохин и др., Физика и химия обработки материалов, № 2: 37 (2007).",
+				"tr":  "V. I. Kalita, A. V. Samokhin et al., Fizika i Khimiya Obrabotki Materialov, No. 2: 37 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Hui Zhang and Yi-zhu He, J. Anhui Univ. Technol. Nat. Sci., No. 1: 21 (2006).",
+				"tr":  "Hui Zhang and Yi-zhu He, J. Anhui Univ. Technol. Nat. Sci., No. 1: 21 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Калита, В. В. Яркин, А. В. Касимцев, Г. У. Лубман, Физика и химия обработки материалов, № 5: 29 (2006).",
+				"tr":  "V. I. Kalita, V. V. Yarkin, A. V. Kasimtsev, G.U. Lubman, Fizika i Khimiya Obrabotki Materialov, No. 5: 29 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. В. Куракова, В. В. Молоканов, В. И. Калита и др., Физика и химия обработки материалов, № 4: 36 (2007).",
+				"tr":  "N. V. Kurakova, V. V. Molokanov, V. I. Kalita at al., Fizika i Khimiya Obrabotki Materialov, No. 4: 36 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Алехин, Е. А. Лесюк, А. И. Капранова и др., Материалы IV российско-японского семинара «Перспективы технологии и оборудования для материаловедения, микро- и наноэлектроники» (Астрахань: Изд. МГНУ: 2006), с. 104.",
+				"tr":  "V. P. Alekhin, E. A. Lesiuk, A. I. Kapranova at al., Materialy IV Rossiysko-Yaponskogo Seminara 'Perspektivy Tekhnologii i Oborudovaniya dlya Materialovedeniya, Mikro- i Nanoelektroniki' (Astrakhan: Izd. MGNU: 2006), p. 104 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Воронов, Физическая мезомеханика, № 8: 113 (2005).",
+				"tr":  "A. V. Voronov, Fizicheskaya Mezomekhanika, No. 8: 113 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Петров, Плазменное газовоздушное напыление (Ленинград: Машиностроение: 1986).",
+				"tr":  "S. V. Petrov, Plazmennoe Gazovozdushnoe Napylenie (Leningrad: Mashinostroenie: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Покропивный, В. В. Скороход, Вісник УМТ, № 1: 55 (2008).",
+				"tr":  "V. V. Pokropivnyy and V. V. Skorokhod, Visnyk UMT, No. 1: 55 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Мальцев Металлография промышленных цветных металлов и сплавов (Москва: Металлургия:1970).",
+				"tr":  "M. V. Mal'tsev, Metallografiya Promyshlennykh Tsvetnykh Metallov i Splavov (Moscow: Metallurgiya: 1970) (in Russian)."
+			}
+		]
+	}
+}

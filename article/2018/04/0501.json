@@ -1,0 +1,162 @@
+{
+	"_id":    "MFiNT.40.04.0501",
+	"year":   2018,
+	"volume": 40,
+	"issue":  4,
+	"pages":  [501,514],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["11.01.2018"],
+	"PACS":   "75.50.Tt, 75.75.Cd, 81.07.Wx, 81.20.Ev, 81.20.Wk, 81.40.Rs, 81.70.Jb",
+	"title":   {
+		"ua": "Вплив ультразвукового оброблення в кульовому млині на фазово-структурні характеристики високодисперсних порошкових сумішей міді з залізом і кобальтом",
+		"en": "Influence of Ultrasonic Processing in a Ball Mill on Phase-Structural Characteristics of Superfine Powder Blends of Copper with Iron and Cobalt",
+		"ru": "Влияние ультразвуковой обработки в шаровой мельнице на фазово-структурные характеристики высокодисперсных порошковых смесей меди с железом и кобальтом"
+	},
+	"abstract": {
+		"ua": "Методами рентґеноструктурної аналізи та магнетометрії досліджено вплив ультразвукового оброблення (УЗО) в кульовому млині на структурно-фазові характеристики та магнетні властивості високодисперсних порошкових сумішей (ВДПС) міді з залізом і кобальтом (Cu+Co і Cu+Fe). Показано, що ультразвукове оброблення ВДПС Cu+Co і Cu+Fe приводить до зменшення кількости феромагнетних фаз Co–Cu і $\\alpha$-Fe‒Cu та збільшення кількости оксидів. Показано також, що дисперсність фазових складових для обох ВДПС майже не змінюється при УЗО та знаходиться в інтервалі 20–50 нм; майже без змін залишається також концентрація металів у твердих розчинах Co‒Cu і $\\alpha$-Fe–Cu. Магнетні властивості ВДПС після УЗО змінюються відповідно до зміни їх фазового складу та дисперсности: питома намагнетованість наситу зменшується від 64 до 35 А$\\cdot$м$^2$/кг, коерцитивна сила збільшується від 2,0 до 20,0 кА/м, а залишкова індукція — від 7,2 до 48,3 мТл. Припускається, що вказані особливості структурно-фазових характеристик після УЗО можуть бути зумовлені наявністю на поверхні частинок оксидних або карбідних оболонок.",
+		"en": "Influence of ultrasonic treatment (UST) in a ball mill on structure-phase characteristics and magnetic properties of superfine powder mixtures (SFPM) of copper with iron and cobalt (Cu+Co and Cu+Fe) is investigated by x-ray analysis and magnetic methods. As shown, the UST of SFPM results in decreasing of the Co‒Cu and $\\alpha$-Fe‒Cu ferromagnetic phases’ quantity as well as increasing of oxides’ quantity. Dispersity of phase components is in interval 20–50 nm, and concentrations of metals in the Co‒Cu and $\\alpha$-Fe‒Cu solid solutions do not change almost. Variations of magnetic properties of SFPM after UST correspond to changing of their phase composition and dispersity: specific saturation magnetization decreases from 64 to 35 A$\\cdot$m$^2$/kg, coercivity increases from 2.0 to 20.0 kА/m, and residual magnetization increases from 7.2 to 48.3 mT. As supposed, the peculiarities of structure-phase characteristics of SFPM fabricated by means of the UST are conditioned by presence of the oxide and carbide coatings on particles’ surfaces.",
+		"ru": "Методами рентгеноструктурного анализа и магнитометрии исследовано влияние ультразвуковой обработки (УЗО) в шаровой мельнице на структурно-фазовые характеристики и магнитные свойства высокодисперсных порошковых смесей (ВДПС) меди с железом и кобальтом (Cu+Co и Cu+Fe). Показано, что ультразвуковая обработка ВДПС Cu+Co и Cu+Fe приводит к уменьшению количества ферромагнитных фаз Co‒Cu и $\\alpha$-Fe‒Cu и увеличению количества оксидов. Показано также, что дисперсность фазовых составляющих для обеих ВДПС почти не изменяется при УЗО и находится в интервале 20–50 нм; почти без изменений остаётся также концентрация металлов в твёрдых растворах Co‒Cu и $\\alpha$-Fe‒Cu. Магнитные свойства ВДПС после УЗО изменяются в соответствии с изменениями их фазового состава и дисперсности: удельная намагниченность насыщения уменьшается от 64 до 35 А$\\cdot$м$^2$/кг, коэрцитивная сила увеличивается от 2,0 до 20,0 кА/м, а остаточная индукция — от 7,2 до 48,3 мТл. Предполагается, что указанные особенности структурно-фазовых характеристик после УЗО могут быть обусловлены наличием на поверхности частиц оксидных или карбидных оболочек."
+	},
+	"keywords": {
+		"ua": "високодисперсні порошкові суміші, електроіскрове оброблення, ультразвуковий розмел, рентґеноструктурна аналіза, магнетометрія, магнетні властивості",
+		"en": "ultrafine powders blends, electric-spark treatment, ultrasonic milling, x-ray structural analysis, magnetic measurements, magnetic properties",
+		"ru": "высокодисперсные порошковые смеси, электроискровая обработка, ультразвуковой размол, рентгеноструктурный анализ, магнитометрия, магнитные свойства"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. М. Надутов", "en": "V. M. Nadutov", "ru": "В. М. Надутов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. О. Перекос", "en": "A. O. Perekos", "ru": "А. Е. Перекос"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Б. М. Мордюк", "en": "B. M. Mordyuk", "ru": "Б. Н. Мордюк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. З. Войнаш", "en": "V. Z. Voinash", "ru": "В. З. Войнаш"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Т. В. Єфімова", "en": "T. V. Efimova", "ru": "Т. В. Ефимова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. П. Залуцький", "en": "V. P. Zalutsky", "ru": "В. П. Залуцкий"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Т. Г. Кабанцев", "en": "T. G. Kabantsev", "ru": "Т. Г. Кабанцев"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 20,
+		"list":  [
+			{
+				"doi": "10.15407/mfint.40.03.0327",
+				"or":  "В. М. Надутов, А. О. Перекос, Б. М. Мордюк, В. З. Войнаш, Т. В. Єфімова, В. П. Залуцький, Т. Г. Кабанцев, Металлофиз. новейшие технол., 40, № 3: 327 (2018).",
+				"tr":  "V. M. Nadutov, A. O. Perekos, B. M. Mordyuk, V. Z. Voynash, T. V. Efimova, V. P. Zalutsky, and T. G. Kabantsev, Metallofiz. Noveishie Tekhnol., 40, No. 3: 327 (2018) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Д. Морохов, Л. И. Трусов, С. П. Чижик, Ультрадисперсные металлические среды (Москва: Атомиздат: 1967).",
+				"tr":  "I. D. Morokhov, L. I. Trusov, and S. P. Chizhik, Ultradispersnye Metallicheskie Sredy [Ultrafine Metallic Mediums] (Moscow: Atomizdat: 1967) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Гусев, А. А. Ремпель, Нанокристаллические материалы (Москва: Физматлит: 2001).",
+				"tr":  "A. I. Gusev and A. A. Rempel, Nanokristallicheskie Materialy [Nanocrystalline Materials] (Moscow: Fizmatgiz: 2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. А. Андриевский, А. В. Рагуля, Наноструктурные материалы (Москва: Академия: 2005).",
+				"tr":  "R. A. Andrievskiy and A. V. Ragulya, Nanostrukturnyye Materialy [Nanostructural Materials] (Moscow: Academiya: 2005) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.36.12.1679",
+				"or":  "В. М. Надутов, А. Е. Перекос, В. В. Кокорин, С. М. Коноплюк, Т. В. Ефимова, В. П. Залуцкий, Металлофиз. новейшие технол., 36, № 12: 1679 (2014).",
+				"tr":  "V. M. Nadutov, A. E. Perekos, V. V. Kokorin, S. M. Konoplyuk, T. V. Yefimova, and V. P. Zalutskiy, Metallofiz. Noveishie Tekhnol., 36, No. 12: 1679 (2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Булгаков, Н. М. Булгакова, И. М. Бураков и др., Синтез наноразмерных материалов при воздействии мощных потоков энергии на вещество (Новосибирск: Институт теплофизики СО РАН: 2009).",
+				"tr":  "A. V. Bulgakov, N. M. Bulgakova, I. M. Burakov et al., Sintez Nanorazmernykh Materialov pri Vozdeystvii Moshchnykh Potokov Energii na Veshchestvo [Synthesis of Nanosize Materials under Effect of High-Energy Flows on Matter] (Novosibirsk: Institute for Teplofiziki SO RAN: 2009) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.ultras.2004.01.002",
+				"or":  "V. M. Nadutov, B. N. Mordyuk, G. I. Prokopenko, and I. S. Gavrilenko, Ultrasonics, 42, Iss. 1–9: 47 (2004).",
+				"tr":  "V. M. Nadutov, B. N. Mordyuk, G. I. Prokopenko, and I. S. Gavrilenko, Ultrasonics, 42, Iss. 1–9: 47 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Е. Перекос, Б. Н. Мордюк, Г. И. Прокопенко, Т. В. Ружицкая, Т. В. Ефимова, В. П. Залуцкий, Н. Д. Рудь, Металлофиз. новейшие технол., 30, № 12: 1619 (2008).",
+				"tr":  "A. E. Perekos, B. N. Mordyuk, G. I. Prokopenko, T. V. Ruzhitska, T. V. Efimova, V. P. Zalutskiy, and N. D. Rud', Metallofiz. Noveishie Tekhnol., 30, No. 12: 1619 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Иверонова, Г. П. Ревкевич, Теория рассеяния рентгеновских лучей (Москва: МГУ: 1972).",
+				"tr":  "V. I. Iveronova and G. P. Revkevich, Teoriya Rasseyaniya Rentgenovskikh Luchey [Theory of X-Ray Scattering] (Moscow: MGU: 1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. С. Горелик, Ю. А. Скаков, Л. Н. Расторгуев, Рентгенографический и электронно-оптический анализ ( Москва: МИСиС: 1994).",
+				"tr":  "S. S. Gorelik, Yu. A. Skakov, and L. N. Rastorguev, Rentgenograficheskiy i Ehlektronnoopticheskiy Analiz [X-Ray and Electron-Microscopy Analysis) (Moscow: MISiS: 1994) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. С. Уманский, Ю. А. Скаков, Физика металлов (Москва: Атомиздат: 1978).",
+				"tr":  "Ya. S. Umansky and Yu. A. Skakov, Fizika Metallov [Physics of Metals] (Moscow: Atomizdat: 1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Барабаш, Ю. Н. Коваль, Кристаллическая структура металлов и сплавов: Справочник (Киев: Наукова думка: 1986).",
+				"tr":  "O. M. Barabash and Yu. N. Koval, Kristallicheskaya Struktura Metallov i Splavov: Spravochnik [Crystalline Structure of Metals and Alloys: Handbook] (Kiev: Naukova Dumka: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. И. Френкель, Введение в теорию металлов (Ленинград: Наука: 1972).",
+				"tr":  "Ya. I. Frenkel, Vvedenie v Teoriyu Metallov [Introduction to Theory of Metals] (Leningrad: Nauka: 1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Г. Лившиц, В. С. Крапошин, Я. Л. Линецкий, Физические свойства металлов и сплавов (Москва: Металлургия: 1980).",
+				"tr":  "B. G. Livshits, V. S. Kraposhin, and Ya. L. Linetskiy, Fizicheskie Svoystva Metallov i Splavov [Physical Properties of Metals and Alloys] (Moscow: Metallurgiya: 1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, Ю. А. Куницкий, В. Л. Карбовский, Кластерные и наноструктурные материалы (Киев: Академпериодика: 2001).",
+				"tr":  "A. P. Shpak, Yu. A. Kunitskiy, and V. L. Karbovskiy, Klasternye i Nanostrukturnye Materialy [Clustered and Nanostructural Materials] (Kiev: Akademperiodika: 2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Бозорт, Ферромагнетизм (Москва: Иностр. лит.: 1956) (пер. с англ.).",
+				"tr":  "R. M. Bozorth, Ferromagnetism (Moscow: Inostr. Lit.: 1956) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Вонсовский, Магнетизм (Москва: Наука: 1971).",
+				"tr":  "S. V. Vonsovsky, Magnetism (Moscow: Nauka: 1971) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ломер, В. Маршалл, Теория ферромагнетизма металлов и сплавов (Москва: Иностр. лит.: 1963), с. 56 (пер. с англ.).",
+				"tr":  "W. M. Lomer and W. Marshall, Teoriya Ferromagnetizma Metallov i Splavov [Theory of Ferromagnetism of Metals and Alloys] (Moscow: Inostr. Lit.: 1963), p. 56 (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Голдман, А. Арротт, Магнитные свойства металлов и сплавов (Москва: Иностр. лит.: 1961), с. 130 (пер. с англ.).",
+				"tr":  "J. E. Goldman and A. Arrott, Magnitnye Svoystva Metallov i Splavov [Magnetic Properties of Metals and Alloys] (Moscow: Inostr. Lit.: 1961), p. 130 (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Луценко, А. Е. Перекос, А. М. Гусак, Металлофиз. новейшие технол., 22, № 6: 73 (2000).",
+				"tr":  "G. V. Lutsenko, A. O. Perekos, and A. M. Gusak, Metallofiz. Noveishie Tekhnol., 22, No. 6: 73 (2000) (in Russian)."
+			}
+		]
+	}
+}

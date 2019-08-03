@@ -1,0 +1,130 @@
+{
+	"_id":    "MFiNT.36.11.1427",
+	"year":   2014,
+	"volume": 36,
+	"issue":  11,
+	"pages":  [1427,1442],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["10.06.2014"],
+	"PACS":   "71.15.Mb, 71.20.Ps, 71.30.+h, 75.10.Lp, 78.70.En, 82.80.Pv",
+	"title":   {
+		"ua": "Дослідження електронної будови оксидів SmMeO$_{3}$ (Me = V, Ni) за допомогою рентгеноелектронних спектрів і зонних розрахунків",
+		"en": "Investigation of an Electronic Structure of SmMeO$_{3}$ (Me = V, Ni) Oxides by Means of X-Ray Electron Spectra and Band-Structure Calculations",
+		"ru": "Исследование электронного строения оксидов SmMeO$_{3}$ (Me = V, Ni) с помощью рентгеноэлектронных спектров и зонных расчётов"
+	},
+	"abstract": {
+		"ua": "З використанням метод рентґеноелектронної спектроскопії і метод зонних розрахунків у роботі виконано комплексне дослідження електронної структури оксидів із загальною формулою SmMeO$_{3}$ (Me = V, Ni). Одержано дані про розподіл повних і парціяльних електронних станів у валентній зоні і смузі провідности, зарядових і спінових станів атомів, механізми формування міжатомових зв’язків у цих оксидах.",
+		"en": "Using methods of X-ray photoelectron spectroscopy as well as band structure calculations, a complex study of the SmMeO$_{3}$ (Me = V, Ni) oxides’ electronic structure is carried out. The distributions of total and partial electron densities of states in the valence and conduction bands, charge and spin states of constituent atoms are determined. The mechanisms of interatomic-bonds’ formation in these oxides are elucidated.",
+		"ru": "С использованием методов рентгеноэлектронной спектроскопии и методов зонных расчётов в настоящей работе выполнено комплексное исследование электронной структуры оксидов с общей формулой SmMeO$_{3}$ (Me = V, Ni). Получены данные о распределении полных и парциальных электронных состояний в валентной зоне и полосе проводимости, зарядовых и спиновых состояний атомов, механизмах формирования межатомных связей в этих оксидах."
+	},
+	"keywords": {
+		"ua": "електронна будова, густина електронних станів, ванадіт, нікелат, зонні розрахунки",
+		"en": "electronic structure, electron density of states, vanadit, nikelat, band-structure calculations",
+		"ru": "электронное строение, плотность электронов, ванадит, никелат, зонные расчёты"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. М. Уваров", "en": "V. M. Uvarov", "ru": "В. Н. Уваров"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. П. Мельник", "en": "M. P. Mel’nyk", "ru": "М. П. Мельник"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. В. Уваров", "en": "M. V. Uvarov", "ru": "Н. В. Уваров"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. В. Немошкаленко", "en": "M. V. Nemoshkalenko", "ru": "М. В. Немошкаленко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 16,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Г. В. Базуев, Г. П. Швейкин, Сложные оксиды элементов с достраивающимися d- и f-оболочками (Москва: Наука: 1985).",
+				"tr":  "G. V. Bazuev and G. P. Shveykin, Slozhnye Oksidy Elementov s Dostraivayushchimisya d- i f-Obolochkami (Moscow: Nauka: 1985) (in Russian)."
+			},
+			{
+				"doi": "10.1021/ja984015x",
+				"or":  "J. A. Alonso, M. J. Martinez-Lope, and M. T. Casais, J. Am. Chem. Soc., 121: 4754 (1999).",
+				"tr":  "J. A. Alonso, M. J. Martinez-Lope, and M. T. Casais, J. Am. Chem. Soc., 121: 4754 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Уваров, М. В. Уваров, М. П. Мельник, Український фізичний журнал, 56, № 9: 910 (2011).",
+				"tr":  "V. M. Uvarov, M. V. Uvarov, and M. P. Mel'nyk, Ukrainskyi Fizychnyi Zhurnal, 56, No. 9: 910 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Уваров, М. П. Мельник, М. В. Уваров, В. С. Михаленков, Т. Л. Сизова, Металлофиз. новейшие технол., 35, № 2: 279 (2013).",
+				"tr":  "V. M. Uvarov, M. P. Mel'nyk, M. V. Uvarov, V. S. Mikhalenkov, and T. L. Sizova, Metallofiz. Noveishie Tekhnol., 35, No. 2: 279 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Уваров, М. П. Мельник, Н. В. Уваров, М. В. Немошкаленко, С. А. Недилько, Металлофиз. новейшие технол., 35, № 6: 725 (2013).",
+				"tr":  "V. N. Uvarov, M. P. Mel'nik, N. V. Uvarov, M. V. Nemoshkalenko, and S. A. Nedil'ko, Metallofiz. Noveishie Tekhnol., 35, No. 6: 725 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. П. Мельник, М. В. Уваров, В. М. Уваров, Фізика і хімія твердого тіла, 14, № 4: 822 (2013).",
+				"tr":  "M. P. Mel'nyk, M. V. Uvarov, and V. M. Uvarov, Fizyka i Khimiya Tverdoho Tila, 14, No. 4: 822 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1007/s10948-008-0401-5",
+				"or":  "E. Siranidi, D. Lampakis, and D. Palles, J. Supercond. Nov. Magn., 22: 185 (2009).",
+				"tr":  "E. Siranidi, D. Lampakis, and D. Palles, J. Supercond. Nov. Magn., 22: 185 (2009)."
+			},
+			{
+				"doi": "10.1088/1674-1056/22/4/047501",
+				"or":  "Xin-Bo Hu, Ling Hu, Xuan Luo, Bang-Chuan Zhao, and Yu-Ping Sun, Chin. Phys. B, 22, No. 4: 047501 (2013).",
+				"tr":  "Xin-Bo Hu, Ling Hu, Xuan Luo, Bang-Chuan Zhao, and Yu-Ping Sun, Chin. Phys. B, 22, No. 4: 047501 (2013)."
+			},
+			{
+				"doi": "10.1002/pssc.200304422",
+				"or":  "N. Ihzaz, S. Pignard, J. Kreisel, H. Vincent, J. Marcus, J. Dhahri, and M. Oumezzine, phys. status solidi (c), 1, No. 7: 1679 (2004).",
+				"tr":  "N. Ihzaz, S. Pignard, J. Kreisel, H. Vincent, J. Marcus, J. Dhahri, and M. Oumezzine, phys. status solidi (c), 1, No. 7: 1679 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.85.224102",
+				"or":  "R. D. Johnson, C. C. Tang, and I. R. Evans, Phys. Rev. B, 85: 224102 (2012).",
+				"tr":  "R. D. Johnson, C. C. Tang, and I. R. Evans, Phys. Rev. B, 85: 224102 (2012)."
+			},
+			{
+				"doi": "10.1021/cm021192v",
+				"or":  "P. F. Henry, M. T. Weller, and C. C. Wilson, Chem. Meter., 14: 4104 (2002).",
+				"tr":  "P. F. Henry, M. T. Weller, and C. C. Wilson, Chem. Meter., 14: 4104 (2002)."
+			},
+			{
+				"doi": "10.1007/978-1-4757-2312-0",
+				"or":  "D. Singh, Plane Waves, Pseudopotentials and LAPW Method (Dordrecht: Kluwer Academic Publ.: 1994).",
+				"tr":  "D. Singh, Plane Waves, Pseudopotentials and LAPW Method (Dordrecht: Kluwer Academic Publ.: 1994)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.77.3865",
+				"or":  "J. P. Perdew, S. Burke, and M. Ernzerhof, Phys. Rev. Lett., 77: 3865 (1996).",
+				"tr":  "J. P. Perdew, S. Burke, and M. Ernzerhof, Phys. Rev. Lett., 77: 3865 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Blaha, K. Schwarz, G. K. Madsen et al., WIEN2k. An Augmented Plane Wave  Local Orbitals Program for Calculating Crystal Properties (Wien: Karlheinz Schwarz–Techn. Universitat: 2001).",
+				"tr":  "P. Blaha, K. Schwarz, G. K. Madsen et al., WIEN2k. An Augmented Plane Wave + Local Orbitals Program for Calculating Crystal Properties (Wien: Karlheinz Schwarz–Techn. Universitat: 2001)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.48.16929",
+				"or":  "V. I. Anisimov, I. V. Solovyev, M. A. Korotin, M. T. Czyzyk, and G. A. Sawatzky, Phys. Rev. B, 48: 16929 (1993).",
+				"tr":  "V. I. Anisimov, I. V. Solovyev, M. A. Korotin, M. T. Czyzyk, and G. A. Sawatzky, Phys. Rev. B, 48: 16929 (1993)."
+			},
+			{
+				"doi": "10.1070/RC2002v071n05ABEH000717",
+				"or":  "Ю. А. Тетерин, А. Ю. Тетерин, Успехи химии, 71, № 5: 403 (2002).",
+				"tr":  "Yu. A. Teterin and A. Yu. Teterin, Uspekhi Khimii, 71, No. 5: 403 (2002) (in Russian)."
+			}
+		]
+	}
+}

@@ -1,0 +1,119 @@
+{
+	"_id":    "MFiNT.41.01.0001",
+	"year":   2019,
+	"volume": 41,
+	"issue":  1,
+	"pages":  [1,11],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["11.09.2018"],
+	"PACS":   "61.80.Jh, 64.70.kd, 68.35.Rh, 81.40.Ef, 81.40.Wx, 81.65.Mq",
+	"title":   {
+		"ua": "Структурно-фазові перетворення в нанорозмірній системі Cu/Cr за термічного та йонного впливів",
+		"en": "Structural and Phase Transformations in Nanoscale Cu/Cr System under Heat and Ion Actions",
+		"ru": "Структурно-фазовые превращения в наноразмерной системе Cu/Cr при термическом и ионном воздействиях"
+	},
+	"abstract": {
+		"ua": "Досліджено особливості формування структури та фазового складу системи Cu(25 нм)/Cr(25 нм) при відпалі у вакуумі в широкому температурному інтервалі. Зафіксовано розвиток окиснювально-відновних процесів, які можна ефективно контролювати шляхом використання додаткового йонно-плазмового оброблення. Низькоенергетичний йонний вплив уможливлює також стабілізувати нанокристалічну структуру шляхом гальмування процесів рекристалізації і таким чином підвищити термічну стабільність робочих плівкових елементів мікро- та наноелектронних пристроїв.",
+		"en": "The features of the structure and phase composition formation in the Cu(25 nm)/Cr(25 nm) system during annealing in a vacuum over a wide temperature range are investigated. The development of redox processes, which can be effectively controlled by using additional ion-plasma treatment, is registered. The low-energy ion impact allows stabilizing the nanocrystalline structure by inhibiting the recrystallization processes and, thereby, to increase the thermal stability of the working film elements of micro- and nanoelectronic devices.",
+		"ru": "Исследованы особенности формирования структуры и фазового состава системы Cu(25 нм)/Cr(25 нм) при отжиге в вакууме в широком температурном интервале. Зафиксировано развитие окислительно-восстановительных процессов, которые можно эффективно контролировать путём использования дополнительной ионно-плазменной обработки. Низкоэнергетическое ионное воздействие позволяет также стабилизировать нанокристаллическую структуру путём торможения процессов рекристаллизации и таким образом повысить термическую стабильность рабочих плёночных элементов микро- и наноэлектронных устройств."
+	},
+	"keywords": {
+		"ua": "нанорозмірна система, йонно-плазмове оброблення, відпал, оксидоутворення, мікроструктура",
+		"en": "nanoscale system, ion-plasma treatment, annealing, oxide formation, microstructure",
+		"ru": "наноразмерная система, ионно-плазменная обработка, отжиг, оксидообразование, микроструктура"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. О. Круглов", "en": "I. O. Kruhlov", "ru": "И. А. Круглов"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "І. Є. Котенко", "en": "I. E. Kotenko", "ru": "И. Е. Котенко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "В. О. Грищенко", "en": "V. O. Gryshchenko", "ru": "В. А. Грищенко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "С. І. Сидоренко", "en": "S. I. Sidorenko", "ru": "С. И. Сидоренко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "С. М. Волошко", "en": "S. M. Voloshko", "ru": "С. М. Волошко"},
+			"OID": [202]
+		}
+	],
+	"references": {
+		"count": 13,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "И. И. Климачев, Ю. Н. Калашников, С. И. Сидоренко, Т. В. Литвинова, В. А. Иовдальский, Электродинамика и техника СВЧ, КВЧ и оптических частот, 1–4: 47 (2004).",
+				"tr":  "Y. Y. Klimachev, Yu. N. Kalashnikov, S. I. Sidorenko, T. V. Litvinova, and V. A. Iovdalskii, Ehlektrodinamika i Tekhnika SVCh, KVCh i Opticheskikh Chastot, 1–4: 47 (2004) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.jpcs.2009.09.014",
+				"or":  "J. Yuan, W. Weng, and Z. L. T. Guo, J. Phys. Chem. Solids, 70, No. 12: 1496 (2009).",
+				"tr":  "J. Yuan, W. Weng, and Z. L. T. Guo, J. Phys. Chem. Solids, 70, No. 12: 1496 (2009)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2014.10.013",
+				"or":  "T. P. Harzer, S. Djaziri, R. Raghavan, and G. Dehm, Acta Mater., 83: 318 (2015)",
+				"tr":  "T. P. Harzer, S. Djaziri, R. Raghavan, and G. Dehm, Acta Mater., 83: 318 (2015)."
+			},
+			{
+				"doi": "10.1063/1.341412",
+				"or":  "D. McIntyre, J. E. Sundgren, and J. E. Greene, J. Appl. Phys., 64, No. 7: 3689 (1988).",
+				"tr":  "D. McIntyre, J. E. Sundgren, and J. E. Greene, J. Appl. Phys., 64, No. 7: 3689 (1988)."
+			},
+			{
+				"doi": "10.15407/ufm.17.03.209",
+				"or":  "M. О. Vasylyev, S. І. Sidorenko, S. М. Voloshko, and T. Ishikawa, Usp. Fiz. Met., 17: 209 (2016).",
+				"tr":  "M. O. Vasylyev, S. I. Sidorenko, S. M. Voloshko, and T. Ishikawa, Usp. Fiz. Met., 17: 209 (2016)."
+			},
+			{
+				"doi": "10.15407/mfint.39.03.0349",
+				"or":  "А. К. Орлов, І. О. Круглов, І. Є. Котенко, С. І. Сидоренко, С. М. Волошко, Металлофиз. новейшие технол., 39, № 3: 349 (2017).",
+				"tr":  "A. K. Orlov, I. O. Kruhlov, I. E. Kotenko, S. I. Sidorenko, and S. M. Voloshko, Metallofiz. Noveishie Tekhnol., 39, No. 3: 349 (2017) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1007/s12034-014-0727-5",
+				"or":  "S. K. Parida, V. R. R. Medicherla, D. K. Mishra, S. Choudhary, V. Solanki, and Sh. Varma, Bull. Mater. Sci., 37, No. 7: 1569 (2014).",
+				"tr":  "S. K. Parida, V. R. R. Medicherla, D. K. Mishra, S. Choudhary, V. Solanki, and Sh. Varma, Bull. Mater. Sci., 37, No. 7: 1569 (2014)."
+			},
+			{
+				"doi": "10.5757/ASCT.2016.25.6.128",
+				"or":  "H. Lee and S. W. Cho, Appl. Sci. Converg. Technol., 25, No. 6: 128 (2016).",
+				"tr":  "H. Lee and S. W. Cho, Appl. Sci. Converg. Technol., 25, No. 6: 128 (2016)."
+			},
+			{
+				"doi": "10.1134/S1027451011030037",
+				"or":  "N. V. Alov and D. M. Kutsko, J. Surf. Invest.: X-Ray, Synchrotron Neutron Tech., 5: 259 (2011).",
+				"tr":  "N. V. Alov and D. M. Kutsko, J. Surf. Invest.: X-Ray, Synchrotron Neutron Tech., 5: 259 (2011)."
+			},
+			{
+				"doi": "10.1088/0022-3727/43/20/205204",
+				"or":  "T. Kubart, T. Nyberg, and S. Berg, J. Phys. D: Appl. Phys., 43, No. 20: 1 (2010).",
+				"tr":  "T. Kubart, T. Nyberg, and S. Berg, J. Phys. D: Appl. Phys., 43, No. 20: 1 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "К. К. Кадыржанов, Ф. Ф. Комаров, А. Д. Погребняк, В. С. Русаков, Т. Э. Туркебаев, Ионно-лучевая и ионно-плазменная модификация материалов (Москва: МГУ: 2005).",
+				"tr":  "K. K. Kadyrzhanov, F. F. Komarov, A. D. Pogrebnjak, V. S. Rusakov, and T. E. Turkebaev, Ionno-Luchevaya i Ionno-Plazmennaya Modifikatsiya Materialov (Moscow: MGU: 2005) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0167-577X(99)00150-0",
+				"or":  "C. Lin, G. W. Yang, Z. F. Li, and B. X. Liu, Mater. Lett., 42, Nos. 1–2: 7 (2000).",
+				"tr":  "C. Lin, G. W. Yang, Z. F. Li, and B. X. Liu, Mater. Lett., 42, Nos. 1–2: 7 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Dufek, F. Petrů, and V. Brožek, Monatshefte für Chemie und Verwandte Teile anderer Wissenschaften, 98, No. 6: 2424 (1967).",
+				"tr":  "V. Dufek, F. Petrů, and V. Brožek, Monatshefte für Chemie und Verwandte Teile anderer Wissenschaften, 98, No. 6: 2424 (1967) (in German)."
+			}
+		]
+	}
+}

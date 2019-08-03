@@ -1,0 +1,113 @@
+{
+	"_id":    "MFiNT.41.01.0121",
+	"year":   2019,
+	"volume": 41,
+	"issue":  1,
+	"pages":  [121,137],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["05.05.2018","06.09.2018"],
+	"PACS":   "36.20.Ey, 62.23.Pq, 62.80.+f, 81.05.Lg, 82.35.Lr, 82.35.Np, 83.80.Wx",
+	"title":   {
+		"ua": "Дисипативні структури ПВХ, наповненого нанодисперсними металами",
+		"en": "Dissipative Structures of the Polyvinylchloride Filled with the Nanodisperse Metals",
+		"ru": "Диссипативные структуры ПВХ, наполненного нанодисперсными металлам"
+	},
+	"abstract": {
+		"ua": "Наведено результати досліджень дисипативних структур, яких створено за допомогою нанодисперсних металів як наповнювачів полівінілхлориду (ПВХ). Показано, що в мегагерцовому діяпазоні частот при вмісті 0 $\\leq \\phi \\leq$ 5,0% об. Cu різної фізико-хемічної природи поверхні в температурному діяпазоні 298 К $\\leq T \\leq$ $T_c$ + 10 К в композиті виникають упорядковані просторові структури як результат взаємодії активних центрів поверхні наповнювача з атомами Cl ПВХ. Встановлено, що система утримується в квазирівноважному стані також за рахунок інтра- та інтермолекулярної взаємодій елементів структури ПВХ. Залежно від величини об’ємного вмісту нанодисперсного металу в ПВХ, відбувається структурування композиту зі зміною часу його життя та ізодинамічної стійкости. Проведено розрахунки лінійних розмірів і власних частот коливань дисипативних структур, які при критичному вмісті наповнювача переводять полімерну матрицю в стан межового шару. Показано, що найбільш істотні зміни термодинамічних і в’язкопружніх властивостей композиту відбуваються в області 0 $\\leq \\phi \\leq$ 0,1% об. металу, активність якого залежить від типу та технології одержання. З’ясовано вплив наповнювача на релаксаційний спектер ПВХ-систем. Розглянуто граничний випадок існування дисипативних структур у вигляді макроґратниці, що має специфічні властивості, які розширюють область практичного застосування композиту в полях різної фізичної природи.",
+		"en": "The results of investigations of dissipative structures created under the action of nanodisperse metals as fillers of polyvinylchloride (PVC) are presented. As shown, in a megahertz frequency range, in composite contained 0 $\\leq \\phi \\leq$ 5.0% vol. Cu of different physical and chemical nature of the surface, for temperature range of 298 K $\\leq T \\leq$ $T_c$ + 10 K, the ordered spatial structures are appeared because of interaction of the active centres on the surface of filler with Cl atoms in PVC. As established, the system is retained in a quasi-equilibrium state due to intra- and intermolecular interactions of elements of the PVC structure too. Depending on the magnitude of the volume content of nanodisperse metal in PVC, the composite is structured with a change in its lifetime and isodynamic stability. Calculations of linear dimensions and eigenfrequencies of oscillations of dissipative structures are carried out; they transfer the polymer matrix to the state of the boundary layer at critical filler content. As shown, the most significant changes in the thermodynamic and viscoelastic properties of the composite occur in the range 0 $\\leq \\phi \\leq$ 0.10% vol. of the metal, the activity of which depends on the type and technology of fabrication. The influence of filler on the relaxation spectrum of PVC systems is determined. The limit case of the existence of dissipative structures in the form of a superlattice is considered. This superlattice has specific properties that extend the field of practical use of the composite in fields of different physical nature.",
+		"ru": "Приведены результаты исследований диссипативных структур, созданных с помощью нанодисперсных металлов как наполнителей поливинилхлорида (ПВХ). Показано, что в мегагерцовом диапазоне частот при содержании 0 $\\leq \\phi \\leq$ 5,0% об. Cu различной физико-химической природы поверхности в температурном диапазоне 298 К $\\leq T \\leq$ $T_c$ + 10 К в композите возникают упорядоченные пространственные структуры как результат взаимодействия активных центров поверхности наполнителя с атомами Cl ПВХ. Установлено, что система удерживается в квазиравновесном состоянии также за счёт интра- и интермолекулярного взаимодействий элементов структуры ПВХ. В зависимости от величины объёмного содержания нанодисперсного металла в ПВХ происходит структурирование композита со сменой времени его жизни и изодинамической устойчивости. Проведены расчёты линейных размеров и собственных частот колебаний диссипативных структур, которые при критическом содержании наполнителя переводят полимерную матрицу в состояние граничного слоя. Показано, что наиболее существенные изменения термодинамических и вязкоупругих свойств композита происходят в области 0 $\\leq \\phi \\leq$ 0,10% об. металла, активность которого зависит от типа и технологии получения. Выяснено влияние наполнителя на релаксационный спектр ПВХ-систем. Рассмотрен предельный случай существования диссипативных структур в виде сверхрешётки, которая обладает специфическими свойствами, расширяющими область практического использования композита в полях различной физической природы."
+	},
+	"keywords": {
+		"ua": "суперґратниця, ультразвук, релаксація, спектер, термодинамічна стійкість, квазирівновага",
+		"en": "superlattice, ultrasound, relaxation, spectrum, thermodynamic stability, quasi-equilibrium",
+		"ru": "сверхрешётка, ультразвук, релаксация, спектр, термодинамическая устойчивость, квазиравновесие"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Б. Б. Колупаєв", "en": "B. B. Kolupaev", "ru": "Б. Б. Колупаев"},
+			"OID": [260]
+		},
+		{
+			"AID": {"ua": "Б. С. Колупаєв", "en": "B. S. Kolupaev", "ru": "Б. С. Колупаев"},
+			"OID": [261]
+		},
+		{
+			"AID": {"ua": "В. В. Левчук", "en": "V. V. Levchuk", "ru": "В. В. Левчук"},
+			"OID": [261]
+		},
+		{
+			"AID": {"ua": "Т. Г. Ляшук", "en": "T. G. Lyashuk", "ru": "Т. Г. Ляшук"},
+			"OID": [261]
+		},
+		{
+			"AID": {"ua": "Ю. Р. Максимцев", "en": "Yu. R. Maksimtsev", "ru": "Ю. Р. Максимцев"},
+			"OID": [261]
+		},
+		{
+			"AID": {"ua": "В. О. Сідлецький", "en": "V. O. Sidletskyy", "ru": "В. А. Сидлецкий"},
+			"OID": [261]
+		}
+	],
+	"references": {
+		"count": 11,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "С. Я. Френкель, И. М. Цыгельный, Б. С. Колупаев, Молекулярная кибернетика (Львів: Світ: 1990).",
+				"tr":  "S. Ya. Frenkel, I. M. Tsygel'nyy, and B. S. Kolupaev, Molekulyarnaya Kibernetika [Molecular Cybernetics] (Lviv: Svit: 1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. А. Булавін, Ю. Ф. Забашта, О. С. Свєчнікова, Фізична механіка полімерів (Київ: ВПЦ КУ: 2005).",
+				"tr":  "L. A. Bulavin, Yu. F. Zabashta, and O. S. Svechnikova, Fizychna Mekhanika Polimeriv [Physical Mechanics of Polymers] (Kiev: PPC KU: 2005) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Polymer Nanocomposites (Eds. Yiu-Wing Mai and Zhong-Zhen Yu) (Boca Raton: CRC Press: 2006).",
+				"tr":  "Polymer Nanocomposites (Eds. Yiu-Wing Mai and Zhong-Zhen Yu) (Boca Raton: CRC Press: 2006)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Frenkel, J. Polym. Sci., Polym. Symp., 61, No. 1: 327 (1977).",
+				"tr":  "S. Frenkel, J. Polym. Sci., Polym. Symp., 61, No. 1: 327 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "Физика сегодня и завтра. Прогнозы науки (Ред. В. М. Тучкевич) (Ленинград: Наука: 1973).",
+				"tr":  "Fizika Segodnya i Zavtra. Prognozy Nauki [Physics Today and Tomorrow. Forecasts of Science] (Ed. V. M. Tuchkevich) (Leningrad: Nauka: 1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Н. Колмогоров, Теория информации и теория алгоритмов (Москва: Наука: 2007).",
+				"tr":  "A. N. Kolmogorov, Teoriya Informatsii i Teoriya Algoritmov [Theory of Information and Theory of Algorithms] (Moscow: Nauka: 2007) (in Russian)."
+			},
+			{
+				"doi": "10.1007/s10891-012-0702-1",
+				"or":  "B. B. Kolupaev, J. Eng. Phys. Thermophys., 85, No. 3: 684 (2012).",
+				"tr":  "B. B. Kolupaev, J. Eng. Phys. Thermophys., 85, No. 3: 684 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Л. Волынский, Н. Ф. Бакеев, Структурная самоорганизация аморфных полимеров (Москва: Физматлит: 2005).",
+				"tr":  "A. L. Volynskiy and N. F. Bakeev, Strukturnaya Samoorganizatsiya Amorfnykh Polimerov [Structural Self-Organization of Amorphous Polymers] (Moscow: Fizmatlit: 2005) (in Russian)."
+			},
+			{
+				"doi": "10.1002/adfm.200500429",
+				"or":  "Y. Yang and R. Tseng, Adv. Func. Mater., 16: 1001 (2006).",
+				"tr":  "Y. Yang and R. Tseng, Adv. Func. Mater., 16: 1001 (2006)."
+			},
+			{
+				"doi": "10.3103/S1068375512050079",
+				"or":  "Т. G. Lyashuk and B. В. Kоlupaev, Surf. Eng. Appl. Elect., 48, No. 5: 487 (2012).",
+				"tr":  "T. G. Lyashuk and B. B. Kolupaev, Surf. Eng. Appl. Elect., 48, No. 5: 487 (2012)."
+			},
+			{
+				"doi": "10.1007/BFb0051029",
+				"or":  "B. Wunderlich and H. Baur, Adv. Polymer Sci., 7: 151 (1970).",
+				"tr":  "B. Wunderlich and H. Baur, Adv. Polymer Sci., 7: 151 (1970)."
+			}
+		]
+	}
+}

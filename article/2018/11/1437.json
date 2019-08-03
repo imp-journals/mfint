@@ -1,0 +1,133 @@
+{
+	"_id":    "MFiNT.40.11.1437",
+	"year":   2018,
+	"volume": 40,
+	"issue":  11,
+	"pages":  [1437,1451],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["24.04.2018"],
+	"PACS":   "05.70.Ln, 64.60.Ej, 64.70.kd, 64.75.Op, 66.30.Fq, 81.10.Jt, 81.30.Kf",
+	"title":   {
+		"ua": "Нерівноважний термодинамічний модель бездифузійного перетворення аустеніту у стопах на основі заліза",
+		"en": "Nonequilibrium Thermodynamic Model of Diffusionless Transformation of an Austenite in Alloys on the Base of Iron",
+		"ru": "Неравновесная термодинамическая модель бездиффузионного превращения аустенита в сплавах на основе железа"
+	},
+	"abstract": {
+		"ua": "Розроблено нерівноважний термодинамічний модель бездифузійного перетворення аустеніту у залізі та стопах на його основі з урахуванням діючих у системі внутрішніх напружень. Знайдено Онзагерові рівняння руху для модельної термодинамічної системи, яка описує бездифузійне перетворення, та кінетичні рівняння для зміни деформацій і швидкости росту $\\alpha$-фази. Побудовано схему бездифузійних перетворень аустеніту, що включає нормальне та мартенситне перетворення як граничні випадки.",
+		"en": "Nonequilibrium thermodynamic model of diffusionless transformation of an austenite in iron and alloys based on it is developed, taking into account internal stresses in the system. Onsager motion equations for a model thermodynamic system describing a diffusionless transformation and kinetic equations for changing deformations and growth rates of the $\\alpha$-phase are found. A scheme of diffusionless transformations of austenite is constructed, including the normal and martensitic transformations as limiting cases.",
+		"ru": "Разработана неравновесная термодинамическая модель бездиффузионного превращения аустенита в железе и сплавах на его основе с учётом действующих в системе внутренних напряжений. Найдены уравнения движения Онзагера для модельной термодинамической системы, описывающей бездиффузионное превращение, и кинетические уравнения для изменения деформаций и скорости роста $\\alpha$-фазы. Построена схема бездиффузионных превращений аустенита, включающая нормальное и мартенситное превращения как предельные случаи."
+	},
+	"keywords": {
+		"ua": "нерівноважна термодинаміка, бездифузійне перетворення, рівняння руху, стопи на основі заліза, аустеніт",
+		"en": "nonequilibrium thermodynamics, diffusionless transformation, equations of motion, iron-based alloys, austenite",
+		"ru": "неравновесная термодинамика, бездиффузионное превращение, уравнения движения, сплавы на основе железа, аустенит"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. В. Бобир", "en": "S. V. Bobyr", "ru": "С. В. Бобырь"},
+			"OID": [14]
+		}
+	],
+	"references": {
+		"count": 19,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Я. С. Уманский, Ю. А. Скаков, Физика металлов (Москва: Атомиздат: 1978).",
+				"tr":  "Ya. S. Umanskiy and Yu. A. Skakov, Fizika Metallov [Physics of Metals] (Moscow: Atomizdat: 1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Курдюмов, Л. М. Утевский, Р. И. Энтин, Превращения в железе и стали (Москва: Наука: 1977).",
+				"tr":  "G. V. Kurdyumov, L. M. Utevskiy, and R. I. Entin, Prevrashcheniya v Zheleze i Stali [Transformations in Iron and Steel] (Moscow: Nauka: 1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Я. Любов, Кинетическая теория фазовых превращений (Москва: Металлургия: 1969).",
+				"tr":  "B. Ya. Lyubov, Kineticheskaya Teoriya Fazovykh Prevrashcheniy [Kinetic Theory of Phase Transformations] (Moscow: Metallurgiya: 1969) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.15.03.145",
+				"or":  "С. В. Бобырь, В. И. Большаков, Успехи физики металлов, 15: 123 (2014).",
+				"tr":  "S. V. Bobyr and V. I. Bol'shakov, Uspehi Fiziki Metallov, 15: 145 (2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Курдюмов, Явления закалки и отпуска стали (Москва: Металлургиздат: 1960).",
+				"tr":  "G. V. Kurdyumov, Yavleniya Zakalki i Otpuska Stali [Steel Annealing and Tempering Phenomena] (Moscow: Metallurgizdat: 1960) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.12.02.269",
+				"or":  "С. П. Ошкадеров, Успехи физики металлов, 12: 269 (2011).",
+				"tr":  "S. P. Oshkaderov, Uspehi Fiziki Metallov, 12: 269 (2011) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.15.04.173",
+				"or":  "V. A. Lobodyuk, Успехи физики металлов, 15: 173 (2014).",
+				"tr":  "V. A. Lobodyuk, Uspehi Fiziki Metallov, 15: 173 (2014)."
+			},
+			{
+				"doi": "10.15407/ufm.16.01.001",
+				"or":  "O. A. Likhachev and Yu. M. Koval, Успехи физики металлов, 16: 1 (2015).",
+				"tr":  "O. A. Likhachev and Yu. M. Koval, Uspehi Fiziki Metallov, 16: 1 (2015)."
+			},
+			{
+				"doi": "10.15407/ufm.17.02.089",
+				"or":  "V. A. Lobodyuk, Успехи физики металлов, 17: 89 (2016).",
+				"tr":  "V. A. Lobodyuk, Uspehi Fiziki Metallov, 17: 89 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Onsager, Phase Transformation in Solid: Conference (Cornwell, 1951).",
+				"tr":  "L. Onsager, Phase Transformation in Solid. Conference (Cornwell, 1951)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Пригожин, Введение в термодинамику необратимых процессов (Москва: Иностранная литература: 1960) (пер. с англ.).",
+				"tr":  "I. Prigogine, Vvedenie v Termodinamiku Neobratimykh Protsessov [Introduction to the Thermodynamics of Irreversible Processes] (Moscow: Inostrannaya Literatura: 1960) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "С. де Гроот, П. Мазур, Неравновесная термодинамика (Москва: Мир: 1964) (пер. с англ.).",
+				"tr":  "S. de Groot and P. Mazur, Neravnovesnaya Termodinamika [Non-Equilibrium Thermodynamics] (Moscow: Mir: 1964) (Russian translation)."
+			},
+			{
+				"doi": "10.1103/PhysRev.37.405",
+				"or":  "L. Onsager, Phys. Rev., 37: 405 (1931).",
+				"tr":  "L. Onsager, Phys. Rev., 37: 405 (1931)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Жуков, Р. Л. Снежной, Диффузионные процессы в металлах (Киев: Наукова думка: 1966).",
+				"tr":  "A. A. Zhukov and R. L. Snezhnoy, Diffuzionnye Protsessy v Metallakh [Diffusion Processes in Metals] (Kiev: Naukova Dumka: 1966) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Криштал, Термодинамика, физическая кинетика, структурообразование и свойства чугуна и стали (Москва: Металлургия: 1971), вып. 4.",
+				"tr":  "M. A. Krishtal, Termodinamika, Fizicheskaya Kinetika, Strukturoobrazovanie i Svoystva Chuguna i Stali [Thermodynamics, Physical Kinetics, Structure Formation and Properties of Cast Iron and Steel] (Moscow: Metallurgiya: 1971), Iss. 4 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Дж. Смитлз, Металлы (Москва: Металлургия: 1980) (пер. с англ.).",
+				"tr":  "C. J. Smithells, Metally [Metals] (Moscow: Metallurgiya: 1980) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Ф. Калинович, И. И. Ковенский, М. Д. Смолин, Український фізичний журнал, 14, № 2: 515 (1969).",
+				"tr":  "D. F. Kalinovich, I. I. Kovenskiy, and M. D. Smolin, Ukrayins'kyy Fizychnyy Zhurnal, 14, No. 2: 515 (1969) (in Russian) ."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Белоус, М. П. Браун, Физика металлов (Киев: Вища школа: 1985).",
+				"tr":  "M. V. Belous and M. P. Braun, Fizika Metallov [Physics of Metals] (Kiev: Vishcha Shkola: 1985) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.36.10.1385",
+				"or":  "С. В. Бобырь, Металлофиз. новейшие технол., 36, № 10: 1385 (2014).",
+				"tr":  "S. V. Bobyr, Metallofiz. Noveishie Tekhnol., 36, No. 10: 1385 (2014) (in Russian)."
+			}
+		]
+	}
+}

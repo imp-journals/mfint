@@ -1,0 +1,172 @@
+{
+	"year":   2017,
+	"volume": 39,
+	"issue":  9,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [1149,1163],
+			"title": {
+				"ua": "Стабільність та електронна будова фаз дигідриду маґнію",
+				"en": "Stability and Electronic Structure of Magnesium Dihydride Phases",
+				"ru": "Стабильность и электронное строение фаз дигидрида магния"
+			},
+			"autors": {
+				"ua": "В. М. Уваров, М. В. Уваров",
+				"en": "V. N. Uvarov and N. V. Uvarov",
+				"ru": "В. Н. Уваров, Н. В. Уваров"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [1165,1171],
+			"title": {
+				"ua": "Термоерс фононного перетягання в квантовому дроті з параболічним обмежувальним потенціялом",
+				"en": "Phonon Drag Thermopower in Quantum Wire with Parabolic Confinement Potential",
+				"ru": "Термоэдс фононного увлечения в квантовой проволоке с параболическим ограничивающим потенциалом"
+			},
+			"autors": {
+				"ua": "І. І. Аббасов, Х. А. Гасанов, Дж. І. Гусейнов",
+				"en": "I. I. Abbasov, Kh. A. Hasanov, and J. I. Huseynov",
+				"ru": "И. И. Аббасов, Х. А. Гасанов, Дж. И. Гусейнов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [1173,1182],
+			"title": {
+				"ua": "Вплив підшарів ґерманію на оптичні властивості нанорозмірних плівок міді",
+				"en": "Influence of Germanium Underlayers on Optical Properties of Nanosize Copper Films",
+				"ru": "Влияние подслоёв германия на оптические свойства наноразмерных плёнок меди"
+			},
+			"autors": {
+				"ua": "Р. І. Бігун, З. В. Стасюк, О. В. Строганов, Д. С. Леонов",
+				"en": "R. I. Bihun, Z. V. Stasyuk, O. V. Stroganov, and D. S. Leonov",
+				"ru": "Р. И. Бигун, З. В. Стасюк, О. В. Строганов, Д. С. Леонов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [1183,1196],
+			"title": {
+				"ua": "Вплив хеміко-термічного оброблення на топографію поверхні титану",
+				"en": "Influence of Thermochemical Treatment on the Surface Topography of Titanium",
+				"ru": "Влияние химико-термической обработки на топографию поверхности титана"
+			},
+			"autors": {
+				"ua": "І. М. Погрелюк, С. М. Лаврись, І. В. Стасишин, О. В. Пеньковий",
+				"en": "I. M. Pohrelyuk, S. M. Lavrys, I. V. Stasyshyn, and O. V. Penkovyi",
+				"ru": "И. Н. Погрелюк, C. М. Лаврись, И. В. Стасишин, О. В. Пеньковой"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  14,
+			"pages":  [1197,1211],
+			"title": {
+				"ua": "Формування оптимальної конструкційної міцности авіяційних кріпильних прогоничів з титанових стопів",
+				"en": "Formation of Optimum Structural Strength of Aviation Fastening Bolts from Titanium Alloys",
+				"ru": "Формирование оптимальной конструкционной прочности авиационных крепёжных болтов из титановых сплавов"
+			},
+			"autors": {
+				"ua": "О. М. Івасишин, П. Є. Марковський, Ю. Я. Мєшков, А. В. Шиян",
+				"en": "O. M. Ivasishin, P. E. Markovsky, Yu. Ya. Meshkov, and А. V. Shiyan",
+				"ru": "О. М. Ивасишин, П. Е. Марковский, Ю. Я. Мешков, А. В. Шиян"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1213,1225],
+			"title": {
+				"ua": "Структурна схильність до пластичного деформування листових феритних корозійностійких сталей",
+				"en": "Structural Liability of Sheet-Rolled Corrosion-Resistant Ferritic Steels to a Plastic Deforming",
+				"ru": "Структурная склонность к пластическому деформированию листовых ферритных коррозионностойких сталей"
+			},
+			"autors": {
+				"ua": "В. Л. Грешта",
+				"en": "V. L. Greshta",
+				"ru": "В. Л. Грешта"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [1227,1237],
+			"title": {
+				"ua": "Вплив температури лютування на структуру лютованих різнорідних з’єднань молібден–неіржавійна сталь",
+				"en": "Influence of Temperature of the Brazing on Structure of Brazed Heterogeneous Molybdenum–Stainless Steel Joints",
+				"ru": "Влияние температуры пайки на структуру паяных разнородных соединений молибден–нержавеющая сталь"
+			},
+			"autors": {
+				"ua": "С. В. Максимова, В. В. Воронов, П. В. Ковальчук, А. В. Ларионов",
+				"en": "S. V. Maksymova, V. V. Voronov, P. V. Kovalchuk, and A. V. Larionov",
+				"ru": "С. В. Максимова, В. В. Воронов, П. В. Ковальчук, А. В. Ларионов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [1239,1252],
+			"title": {
+				"ua": "Вплив леґування на механічні властивості та корозійну стійкість високоміцних евтектичних ($\\alpha$-Al + Mg$_2$Si) стопів потрійної системи Al–Mg–Si",
+				"en": "Influence of Alloying on Mechanical Properties and Corrosion Resistance of High-Strength Eutectic ($\\alpha$-Al + Mg$_2$Si) Alloys of the Al–Mg–Si Ternary System",
+				"ru": "Влияние легирования на механические свойства и коррозионную стойкость высокопрочных эвтектических ($\\alpha$-Al + Mg$_2$Si) сплавов тройной системы Al–Mg–Si"
+			},
+			"autors": {
+				"ua": "Л. Г. Щербакова, А. В. Криницький, Н. П. Коржова, Т. М. Легка, А. В. Самелюк",
+				"en": "L. G. Shcherbakova, A. V. Krinitskiy, N. P. Korzhova, T. M. Legka, and A. V. Samelyuk",
+				"ru": "Л. Г. Щербакова, А. В. Криницкий, Н. П. Коржова, Т. Н. Легкая, А. В. Самелюк"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  1,
+			"pages":  [1253,1265],
+			"title": {
+				"ua": "Вплив концентрації тяжкотопкого компонента у зоні незмішуваности фаз у рідкому стані стопу BiZn та швидкости охолодження мікроемульсії при твердненні на кількість ультрадисперсних включень",
+				"en": "Influence of Concentration of a Refractory Component in a Zone of Immiscibility of Phases in Liquid State of a BiZn Alloy and Cooling Rate of a Microemulsion at Solidification on Amount of Ultradispersed Inclusions",
+				"ru": "Влияние концентрации тугоплавкого компонента в зоне несмешиваемости фаз в жидком состоянии сплава BiZn и скорости охлаждения микроэмульсии при затвердевании на количество ультрадисперсных включений"
+			},
+			"autors": {
+				"ua": "В. О. Середенко, О. В. Середенко, О. А. Паренюк",
+				"en": "V. O. Seredenko, O. V. Seredenko, and O. A. Parenyuk",
+				"ru": "В. А. Середенко, Е. В. Середенко, А. А. Паренюк"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  1,
+			"pages":  [1267,1279],
+			"title": {
+				"ua": "Металурґія сірого чавуну для деталей автомобілів",
+				"en": "Metallurgy of the Grey Cast Iron for the Automotive Parts",
+				"ru": "Металлургия серого чугуна для деталей автомобилей"
+			},
+			"autors": {
+				"ua": "Йіржи Махута, Іва Нова",
+				"en": "Jiří Machuta and Iva Nová",
+				"ru": "Йиржи Махута, Ива Нова"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  19,
+			"pages":  [1281,1298],
+			"title": {
+				"ua": "До питання про природу тетрагональности мартенситу",
+				"en": "On the Issue of the Nature of Tetragonality of a Martensite",
+				"ru": "К вопросу о природе тетрагональности мартенсита"
+			},
+			"autors": {
+				"ua": "В. А. Лободюк, Ю. Я. Мєшков",
+				"en": "V. A. Lobodyuk and Yu. Ya. Meshkov",
+				"ru": "В. А. Лободюк, Ю. Я. Мешков"
+			}
+		}
+	]
+}

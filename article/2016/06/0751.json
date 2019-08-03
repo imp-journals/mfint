@@ -1,0 +1,80 @@
+{
+	"_id":    "MFiNT.38.06.0751",
+	"year":   2016,
+	"volume": 38,
+	"issue":  6,
+	"pages":  [751,762],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["11.05.2016"],
+	"PACS":   "75.30.Cr, 81.05.Je, 81.10.St, 81.16.Be, 81.20.Fw, 81.40.Rs, 87.64.kx, 87.85.J-",
+	"title":   {
+		"ua": "Синтеза магнетних кальцієвмісних гексагональних феритів барію",
+		"en": "Synthesis of Magnetic Calcium-Containing Hexagonal Ferrites of Barium",
+		"ru": "Синтез магнитных кальцийсодержащих гексагональных ферритов бария"
+	},
+	"abstract": {
+		"ua": "В статті описано спробу синтези магнетного кальцієвмісного гексагонального фериту із застосуванням трьох різних методик: термічного оброблення механічної суміші оксидів, термічного розкладання твердої суміші солей, одержаної випарюванням їх водного розчину, а також сумісного співосадження оксалатів. В ході синтези варіювали температуру і атмосферу останньої стадії – високотемпературного оброблення. Прожарювання одержуваних сухих сумішей проводили за температур у 700, 900 і 1000°C на повітрі й у інертній атмосфері. На СЕМ-зображенні структура фериту добре прослідковується лише у зразку, що був одержаний методою випарювання розчинів солей. Рентґеноструктурна аналіза зразків, одержаних за температури у 1000°C в інертному середовищі, показала, що при застосуванні методи спікання оксидів превалює фаза $\\alpha$-Fe$_{2}$O$_{3}$, а при випарюванні розчинів солей – ферит складу Ca$_{0,5}$Ba$_{0,5}$Fe$_{12}$O$_{19}$. При порівнянні дифрактограм зразків, одержаних одною методою із заключним термообробленням при 1000°C на повітрі й у інертному середовищі, будь-якої ріжниці ані у фазовому, ані у елементному складі не виявлено, що свідчить про відсутність впливу атмосфери прожарювання на перебіг процесу феритоутворення. При порівнянні дифрактограм зразків, синтезованих методою випарювання розчинів солей, можна зробити висновок, що у зразках, які прожарювалися за температур у 700 і 900°C, переважає оксидна складова, а фериту майже немає. Тобто нагріву за температур 700—900°C не достатньо для ініціювання процесу феритоутворення. За аналізою даних вимірювань на Штейнберґовому магнетометрі відмічено, що магнетні характеристики зразків, синтезованих методою спікання оксидів і співосадження оксалатів, у 3—4 рази нижчі, ніж для зразків, одержаних випарюванням розчинів відповідних солей. Значення питомої намагнетованости та коерцитивної сили зразків зростають при підвищенні температури їх оброблення від 700 до 900°C, а потім дещо знижуються, причому для зразків, одержаних як в інертній атмосфері, так і на повітрі. Експериментально доведено, що для виробництва Са-, Ba-феритів з магнетними властивостями найбільш ефективною є метода випарювання розчинів солей.",
+		"en": "The article describes the synthesis of magnetic hexagonal calcium-containing ferrites with using three different techniques: thermal treatment of mechanical mixtures of oxides, thermal decomposition of the solid mixture of salts obtained by the evaporation of their aqueous solution, and jointly coprecipitation of oxalates. During the synthesis, temperature and atmosphere at the last stage, namely, under high-temperature treatment, are varied. Calcination of the obtained dry mixtures is performed at temperatures of 700, 900, and 1000°C in the air and in inert atmosphere. In SEM-images, the structure of ferrite is well observed only for the sample obtained by evaporation of salts’ solutions. X-ray diffraction analysis of the samples obtained at the temperature of 1000°C in inert atmosphere shows that, after using the method of thermal treatment of oxides’ mechanical mixtures, the $\\alpha$-Fe$_{2}$O$_{3}$ phase prevails, and after evaporation of salt solutions, the ferrite of Ca$_{0.5}$Ba$_{0.5}$Fe$_{12}$O$_{19}$ composition dominates. When comparing the diffraction patterns of the samples obtained by the same method with the final heat treatment at 1000°C in inert environment and in the air, any difference neither in phase, nor in the elemental composition is not found. This one indicates no influence of calcination atmosphere on the ferrites’ formation. By means of comparison of the diffraction patterns of the samples synthesized by evaporation of saline solutions and calcination at temperatures of 700 and 900°C, it can be concluded that the oxide component predominates over almost missing ferrite phase. Thus, the heating to temperatures of 700—900°C is not enough to initiate the process of ferrites’ forming. Analysis of data of measurements on the Steinberg magnetometer indicates that the magnetic characteristics of the samples synthesized by sintering of oxides and coprecipitation of oxalates are lower in 3—4 times than for the samples obtained by evaporation of solutions of the respective salts. Values of specific magnetization and coercive force of the samples are increased with increasing treatment temperature from 700 to 900°C and then decreased slightly; it concerns to samples obtained both in inert atmosphere and in the air. As experimentally proved, the most effective method for the fabrication of Ca-, Ba-ferrites with magnetic properties is the method of salt-solutions’ evaporation.",
+		"ru": "В статье описана попытка синтеза магнитного кальцийсодержащего гексагонального феррита с применением трёх различных методик: термической обработки механической смеси оксидов, термического разложения твёрдой смеси солей, полученной выпариванием их водного раствора, а также совместного соосаждения оксалатов. В ходе синтеза варьировали температуру и атмосферу последней стадии – высокотемпературной обработки. Прокаливание получаемых сухих смесей проводили при температурах 700, 900 и 1000°C на воздухе и в инертной атмосфере. На СЭМ-изображении структура феррита хорошо прослеживается лишь в образце, который был получен методом выпаривания растворов солей. Рентгеноструктурный анализ образцов, полученных при температуре 1000°C в инертной среде, показал, что при применении метода спекания оксидов превалирует фаза $\\alpha$-Fe$_{2}$O$_{3}$, а при выпаривании растворов солей – феррит состава Ca$_{0,5}$Ba$_{0,5}$Fe$_{12}$O$_{19}$. При сравнении дифрактограмм образцов, полученных одним методом с заключительной термообработкой при 1000°C на воздухе и в инертной среде, какой-либо разницы ни в фазовом, ни в элементном составе не обнаружено, что свидетельствует об отсутствии влияния атмосферы прокаливания на ход процесса ферритообразования. При сравнении дифрактограмм образцов, синтезированных методом выпаривания растворов солей, можно сделать вывод, что в образцах, которые прокаливались при температурах 700 и 900°C, преобладает оксидная составляющая, а феррита почти нет. Таким образом, нагрева до температур 700—900°C не достаточно для инициирования процесса ферритообразования. Из анализа данных измерений на магнитометре Штейнберга следует, что магнитные характеристики образцов, синтезированных методом спекания оксидов и соосаждения оксалатов, в 3—4 раза ниже, чем для образцов, полученных выпариванием растворов соответствующих солей. Значения удельной намагниченности и коэрцитивной силы образцов возрастают при повышении температуры обработки от 700 до 900°C, а затем несколько снижаются, причём для образцов, полученных как в инертной атмосфере, так и на воздухе. Экспериментально доказано, что для производства Са-, Ba-ферритов с магнитными свойствами наиболее эффективным является метод выпаривания растворов солей."
+	},
+	"keywords": {
+		"ua": "кальцієвмісні гексагональні ферити, феритоутворення, магнетні властивості",
+		"en": "hexagonal calcium-containing ferrites, ferrite forming, magnetic properties",
+		"ru": "кальцийсодержащие гексагональные ферриты, ферритообразование, магнитные свойства"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. М. Іваненко", "en": "I. M. Ivanenko", "ru": "И. Н. Иваненко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "Т. А. Донцова", "en": "T. A. Dontsova", "ru": "Т. А. Донцова"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "І. М. Астрелін", "en": "I. M. Astrelin", "ru": "И. М. Астрелин"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "А. О. Перекос", "en": "A. O. Perekos", "ru": "А. Е. Перекос"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 6,
+		"list":  [
+			{
+				"doi": "10.1016/j.jmmm.2007.10.032",
+				"or":  "R. B. Khomane, C. C. Chauhan, S. K. Menon, and B. D. Kulkarni, J. Magn. Magnetic Mater., 320, No. 6: 1095 (2008).",
+				"tr":  "R. B. Khomane, C. C. Chauhan, S. K. Menon, and B. D. Kulkarni, J. Magn. Magnetic Mater., 320, No. 6: 1095 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "B. J. Palla and D. O. Shah, Preparation of Nanoparticles of Barium Ferrite from Precipitation in Microemulsions (Gainesville, FL, USA: Dept. of Chemical Engineering, University of Florida: 2009), p. 12.",
+				"tr":  "B. J. Palla and D. O. Shah, Preparation of Nanoparticles of Barium Ferrite from Precipitation in Microemulsions (Gainesville, FL, USA: Dept. of Chemical Engineering, University of Florida: 2009), p. 12."
+			},
+			{
+				"doi": "10.1007/s10856-008-3402-9",
+				"or":  "Z. Z. Zyman, M. V. Tkachenko, and D. V. Polevodin, J. Mater. Sci.: Mater. Med., 19: 2819 (2008).",
+				"tr":  "Z. Z. Zyman, M. V. Tkachenko, and D. V. Polevodin, J. Mater. Sci.: Mater. Med., 19: 2819 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. В. Ткаченко, Л. П. Ольховик, А. С. Камзин, ФТТ, 53, вып. 8: 1512 (2011).",
+				"tr":  "N. V. Tkachenko, L. P. Ol’khovik, and A. S. Kamzin, Fiz. Tverd. Tela, 53: Iss. 8 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. В. Ткаченко, Л. П. Ольховик, А. С. Камзин, Письма в ЖТФ, 37, вып. 11: 7 (2011).",
+				"tr":  "N. V. Tkachenko, L. P. Ol’khovik, and A. S. Kamzin, Pis’ma v ZhTF, 37: Iss. 11: 7 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. П. Ольховик, Н. М. Борисова, Е. Я. Леватан, А. А. Коваль, Вісник Харківського національного університету ім. В. Н. Каразіна. Серія «Фізика», № 651: 8 (2005).",
+				"tr":  "L. P. Olkhovik, N. M. Borysova, Ye. Ya. Levatan, and A. A. Koval’, Visnyk KhNU im. V. N. Karazina. Ser. ‘Fizyka’, No. 651: 8 (2005) (in Russian)."
+			}
+		]
+	}
+}

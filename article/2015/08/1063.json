@@ -1,0 +1,193 @@
+{
+	"_id":    "MFiNT.37.08.1063",
+	"year":   2015,
+	"volume": 37,
+	"issue":  8,
+	"pages":  [1063,1075],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["03.03.2015"],
+	"PACS":   "61.43.Gt, 71.20.Ps, 71.23.-k, 73.20.At, 78.70.En, 81.20.Wk, 82.80.Ej",
+	"title":  {
+		"ua": "Вплив механоактивації сумішей SiO$_{2}$/$\\alpha$-Fe$_{2}$O$_{3}$ на розподіл валентних елетронів",
+		"en": "Effect of Mechanical Activation of Highly Disperse SiO$_{2}$/$\\alpha$-Fe$_{2}$O$_{3}$ Mixtures on Distribution of Valence Electrons",
+		"ru": "Влияние механоактивации смесей SiO$_{2}$/$\\alpha$-Fe$_{2}$O$_{3}$ на распределение валентных электронов"
+	},
+	"abstract": {
+		"ua": "Енергетичний перерозподіл Fesрd-, Sisp- та Op-валентних електронів через зміну масового співвідношення (20/80, 50/50, 80/20) вхідних прекурсорів SiO$_{2}$ та $\\alpha$-Fe$_{2}$O$_{3}$ у сумішах досліджували, порівнюючи одержані від них Рентґенівські емісійні спектри FeL$_{\\alpha}$-, SiL$_{\\alpha}$- та OK$_{\\alpha}$-смуг із спектрами порошкового, чистого оксиду заліза та чистого діоксиду кремнію. Аналіза спектрів показала, що міжатомова взаємодія між поверхневими атомами відбувається внаслідок високих локальних тисків і температур при нашаруванні наночастинок діоксиду кремнію на частинки оксиду заліза. Внаслідок механоактивації відбувається перенесення електронів від катіонів Силіцію до аніонів Оксиґену досліджуваної суміші.",
+		"en": "The crystal and electronic structures of SiO$_{2}$/$\\alpha$-Fe$_{2}$O$_{3}$ mixtures are analysed using X-ray diffraction and ultra-soft X-ray emission spectroscopy. The energy redistributions of the Fesрd, Sisp, and Op valence electrons due to changes in the mass ratio (20/80, 50/50, 80/20) of SiO$_{2}$ and $\\alpha$-Fe$_{2}$O$_{3}$ in the mixtures are studied. The ultra-soft FeL$_{\\alpha}$, SiL$_{\\alpha}$, and OK$_{\\alpha}$ X-ray emission spectra of SiO$_{2}$/$\\alpha$-Fe$_{2}$O$_{3}$ mixtures are compared with those of individual iron oxide and silica powders. Interatomic interactions of surface atoms of adjacent particles occur owing to high local pressures and temperatures under mechanical treatment of the composition. Electrons’ transfer from silicon cations to oxygen anions is observed as a result of the mechanical activation of SiO$_{2}$/$\\alpha$-Fe$_{2}$O$_{3}$ mixtures.",
+		"ru": "Энергетическое перераспределение Fespd-, Sisp- и Op-валентных электронов за счёт изменения массового соотношения (20/80, 50/50, 80/20) входных прекурсоров SiO$_{2}$ и $\\alpha$-Fe$_{2}$O$_{3}$ в смесях исследовали, сравнивая полученные от них рентгеновские эмиссионные спектры FeL$_{\\alpha}$-, SiL$_{\\alpha}$- и OK$_{\\alpha}$-полос со спектрами порошкового, чистого оксида железа и чистого диоксида кремния. Анализ спектров показал, что межатомное взаимодействие между поверхностными атомами происходит вследствие высоких локальных давлений и температур при наслоении наночастиц диоксида кремния на частицы оксида железа. В результате механоактивации происходит перенос электронов от катионов кремния к анионам кислорода исследуемой смеси."
+	},
+	"keywords": {
+		"ua": "гематит, нанокремнезем, електронна структура, ультрам’яка рентґенівська емісійна спектроскопія, рентґенівська дифракція",
+		"en": "hematite, nanosilica, electronic structure, ultra-soft X-ray emission spectroscopy, X-ray diffraction",
+		"ru": "гематит, нанокремнезём, электронная структура, ультрамягкая рентгеновская эмиссионная спектроскопия, рентгеновская дифракция"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Я. В. Зауличний", "en": "Ya. V. Zaulychnyy", "ru": "Я. В. Зауличный"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "В. М. Гунько", "en": "V. M. Gun’ko", "ru": "В. М. Гунько"},
+			"OID": [21]
+		},
+		{
+			"AID": {"ua": "Ю. В. Яворський", "en": "Y. V. Yavorskyi", "ru": "Ю. В. Яворский"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "В. І. Зарко", "en": "V. I. Zarko", "ru": "В. И. Зарко"},
+			"OID": [21]
+		},
+		{
+			"AID": {"ua": "С. С. Петровська", "en": "S. S. Piotrowska", "ru": "С. С. Петровская"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "В. М. Міщенко", "en": "V. M. Mishchenko", "ru": "В. М. Мищенко"},
+			"OID": [21]
+		}
+	],
+	"references": {
+		"count": 27,
+		"list":  [
+			{
+				"doi": "10.1016/j.apcatb.2011.03.008",
+				"or":  "X. X. Yu, S. W. Liu, and J. G. Yu, Appl. Catal. B, 104: 12 (2011).",
+				"tr":  "X. X. Yu, S. W. Liu, and J. G. Yu, Appl. Catal. B, 104: 12 (2011)."
+			},
+			{
+				"doi": "10.1039/c2ee22731b",
+				"or":  "V. Rinnerbauer, S. Ndao, Y. X. Yeng, W. R. Chan, J. J. Senkevich, J. D. Joannopoulos, M. Soljačič, and I. Celanovic, Energy Environ. Sci., 5: 8815 (2012).",
+				"tr":  "V. Rinnerbauer, S. Ndao, Y. X. Yeng, W. R. Chan, J. J. Senkevich, J. D. Joannopoulos, M. Soljačič, and I. Celanovic, Energy Environ. Sci., 5: 8815 (2012)."
+			},
+			{
+				"doi": "10.1002/adma.200803564",
+				"or":  "T. Ding, K. Song, K. Clays, and C. H. Tung, Adv. Mater., 21: 1936 (2009).",
+				"tr":  "T. Ding, K. Song, K. Clays, and C. H. Tung, Adv. Mater., 21: 1936 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "Ya. V. Zaulychnyy, Yu. M. Solonin, O. O. Foya, O. Yu. Khyzhun, and O. Vasylkiv, Metallofiz. Noveishie Tekhnol., 30, No. 2: 169 (2008).",
+				"tr":  "Ya. V. Zaulychnyy, Yu. M. Solonin, O. O. Foya, O. Yu. Khyzhun, and O. Vasylkiv, Metallofiz. Noveishie Tekhnol., 30, No. 2: 169 (2008)."
+			},
+			{
+				"doi": "10.1111/j.1151-2916.1998.tb02660.x",
+				"or":  "R. H. French, H. Mullejans, and D. J. Jones, J. Am. Ceram. Soc., 81: 2549 (1998).",
+				"tr":  "R. H. French, H. Mullejans, and D. J. Jones, J. Am. Ceram. Soc., 81: 2549 (1998)."
+			},
+			{
+				"doi": "10.1088/0022-3727/29/7/011",
+				"or":  "Sh.-D. Mo, W. Y. Ching, and R. H. French, J. Phys. D: Appl. Phys., 29: 1761 (1996).",
+				"tr":  "Sh.-D. Mo, W. Y. Ching, and R. H. French, J. Phys. D: Appl. Phys., 29: 1761 (1996)."
+			},
+			{
+				"doi": "10.1016/j.jssc.2004.08.001",
+				"or":  "Y. Matsumoto, U. Unal, N. Tanaka, Ak. Kudo, and H. Kato, J. Solid State Chem., 177: 4205 (2004).",
+				"tr":  "Y. Matsumoto, U. Unal, N. Tanaka, Ak. Kudo, and H. Kato, J. Solid State Chem., 177: 4205 (2004)."
+			},
+			{
+				"doi": "10.1021/jp0138983",
+				"or":  "E. P. Reddy, L. Davydov, and P. G. Smirniotis, J. Phys. Chem. B, 106: 3394 (2002).",
+				"tr":  "E. P. Reddy, L. Davydov, and P. G. Smirniotis, J. Phys. Chem. B, 106: 3394 (2002)."
+			},
+			{
+				"doi": "10.1021/jp0484938",
+				"or":  "F. Gracia, J. P. Holgado, A. Caballero, and A. R. Gonzalez-Elipe, J. Phys. Chem. B, 108: 17466 (2004).",
+				"tr":  "F. Gracia, J. P. Holgado, A. Caballero, and A. R. Gonzalez-Elipe, J. Phys. Chem. B, 108: 17466 (2004)."
+			},
+			{
+				"doi": "10.1021/jp030843n",
+				"or":  "J. L. Gole, J. D. Stout, C. Burda, Y. Lou, and X. Chen, J. Phys. Chem. B, 108: 1230 (2004).",
+				"tr":  "J. L. Gole, J. D. Stout, C. Burda, Y. Lou, and X. Chen, J. Phys. Chem. B, 108: 1230 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Ya. V. Zaulychnyj, O. O. Foya, V. M. Gun’ko, V. I. Zarko, I. F. Myronyuk, T. V. Gergel, and V. L. Chelyadyn, Physics and Chemistry of Solid State, 9: 767 (2008).",
+				"tr":  "Ya. V. Zaulychnyj, O. O. Foya, V. M. Gun'ko, V. I. Zarko, I. F. Myronyuk, T. V. Gergel, and V. L. Chelyadyn, Physics and Chemistry of Solid State, 9: 767 (2008)."
+			},
+			{
+				"doi": "10.1016/0038-1098(95)00266-9",
+				"or":  "P. Picozzi, Solid State Commun., 95: 313 (1995).",
+				"tr":  "P. Picozzi, Solid State Commun., 95: 313 (1995)."
+			},
+			{
+				"doi": "10.1002/pssa.2211500113",
+				"or":  "T. Guerlin, H. Sauer, W. Engel, and E. Zeitler, phys. status solidi (a), 150: 153 (1995).",
+				"tr":  "T. Guerlin, H. Sauer, W. Engel, and E. Zeitler, phys. status solidi (a), 150: 153 (1995)."
+			},
+			{
+				"doi": "10.1002/pssb.2221760116",
+				"or":  "F. Bart, F. Jollet, J. P. Duraud, and L. Douillard, phys. status solidi (b), 176: 163 (1993).",
+				"tr":  "F. Bart, F. Jollet, J. P. Duraud, and L. Douillard, phys. status solidi (b), 176: 163 (1993)."
+			},
+			{
+				"doi": "10.1016/0039-6028(94)90076-0",
+				"or":  "F. Bart, M. Gautier, F. Jollet, and J. P. Duraud, Surf. Sci., 306: 342 (1994).",
+				"tr":  "F. Bart, M. Gautier, F. Jollet, and J. P. Duraud, Surf. Sci., 306: 342 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "B. Gilbert, B. H. Frazer, F. Naab, and J. Fournelle, Am. Min., 88: 763 (2003).",
+				"tr":  "B. Gilbert, B. H. Frazer, F. Naab, and J. Fournelle, Am. Min., 88: 763 (2003)."
+			},
+			{
+				"doi": "10.1134/1.1809422",
+				"or":  "A. Shulakov, A. Brajko, S. Bukin, and V. Drozd, Phys. Solid State, 46: 1868 (2004).",
+				"tr":  "A. Shulakov, A. Brajko, S. Bukin, and V. Drozd, Phys. Solid State, 46: 1868 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.69.165107",
+				"or":  "G. Rollmann, A. Rohrbach, P. Entel, and J. Hafner, Phys. Rev. B, 69: 1651071 (2004).",
+				"tr":  "G. Rollmann, A. Rohrbach, P. Entel, and J. Hafner, Phys. Rev. B, 69: 1651071 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRev.138.A912",
+				"or":  "J. O. Artman, J. C. Murphy, and S. Poner, Phys. Rev., 138: 912 (1965).",
+				"tr":  "J. O. Artman, J. C. Murphy, and S. Poner, Phys. Rev., 138: 912 (1965)."
+			},
+			{
+				"doi": "10.1088/0953-8984/7/23/004",
+				"or":  "L. Armelaoy, M. Bettinelliz, M. Casariny, G. Granozziy, E. Tondelloy, and A. Vittadini, J. Phys.: Condens. Matter, 7: 299 (1995).",
+				"tr":  "L. Armelaoy, M. Bettinelliz, M. Casariny, G. Granozziy, E. Tondelloy, and A. Vittadini, J. Phys.: Condens. Matter, 7: 299 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "I. S. Jacobs, R. A. Beyerlein, S. Poner, and J. P. Remeyka, Int. J. Magnetism, 1: 193 (1971).",
+				"tr":  "I. S. Jacobs, R. A. Beyerlein, S. Poner, and J. P. Remeyka, Int. J. Magnetism, 1: 193 (1971)."
+			},
+			{
+				"doi": "10.1039/c1cp00034a",
+				"or":  "P. Canepa, E. Schofield, A. V. Chadwick, and M. Alfredsson, Phys. Chem. Chem. Phys., 13: 12826 (2011).",
+				"tr":  "P. Canepa, E. Schofield, A. V. Chadwick, and M. Alfredsson, Phys. Chem. Chem. Phys., 13: 12826 (2011)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.84.064424",
+				"or":  "J.-F. Lin, J. S. Tse, E. E. Alp, J. Zhao, M. Lerche, W. Sturhahn, Y. Xiao, and P. Chow, Phys. Rev. B, 84: 064424 (2011).",
+				"tr":  "J.-F. Lin, J. S. Tse, E. E. Alp, J. Zhao, M. Lerche, W. Sturhahn, Y. Xiao, and P. Chow, Phys. Rev. B, 84: 064424 (2011)."
+			},
+			{
+				"doi": "10.1016/j.jnoncrysol.2005.03.018",
+				"or":  "D. A. Donatti, A. Ibanez Ruiz, and D. R. Vollet, J. Non-Cryst. Solids, 351: 1226 (2005).",
+				"tr":  "D. A. Donatti, A. Ibanez Ruiz, and D. R. Vollet, J. Non-Cryst. Solids, 351: 1226 (2005)."
+			},
+			{
+				"doi": "10.1016/j.jnoncrysol.2014.07.001",
+				"or":  "V. М. Gun’ko, V. Ya. Ilkiv, Ya. V. Zaulychnyy, V. I. Zarko, E. M. Pakhlov, and М. V. Karpetz, J. Non-Cryst. Solids, 403: 30 (2014).",
+				"tr":  "V. M. Gun'ko, V. Ya. Ilkiv, Ya. V. Zaulychnyy, V. I. Zarko, E. M. Pakhlov, and M. V. Karpetz, J. Non-Cryst. Solids, 403: 30 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "B. Gilbert, B. H. Frazer, F. Naab, J. Fournelle, J. W. Valley, and G. De Stasio, Am. Min., 88: 763 (2003).",
+				"tr":  "B. Gilbert, B. H. Frazer, F. Naab, J. Fournelle, J. W. Valley, and G. De Stasio, Am. Min., 88: 763 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Yang, W. Mi, H. Bai, and Y. Cheng, RSC Adv., 2: 10708 (2012).",
+				"tr":  "H. Yang, W. Mi, H. Bai, and Y. Cheng, RSC Adv., 2: 10708 (2012)."
+			}
+		]
+	}
+}

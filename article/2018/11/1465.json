@@ -1,0 +1,123 @@
+{
+	"_id":    "MFiNT.40.11.1465",
+	"year":   2018,
+	"volume": 40,
+	"issue":  11,
+	"pages":  [1465,1473],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["04.05.2018"],
+	"PACS":   "28.60.+s, 31.30.Gs, 32.10.Bi, 43.35.-c, 43.35.+d, 62.65.+k, 63.20.-e",
+	"title":   {
+		"ua": "Поздовжня швидкість ультразвуку та згасання в ізотопно збагаченому кадмії",
+		"en": "Longitudinal Ultrasound Velocity and Attenuation in Isotopically Enriched Cadmium",
+		"ru": "Продольная скорость ультразвука и затухание в изотопно обогащённом кадмии"
+	},
+	"abstract": {
+		"ua": "Представлено результати дослідження акустичних властивостей високочистого (>99,999%) кадмію, збагаченого до 66,4% ізотопом $^{106}$Cd і до 82,2% ізотопом $^{116}$Сd, у температурній області 77–300 К. Ізотопічні ефекти спостерігалися на температурній залежності швидкости поширення та згасання ультразвуку частотою у 50 МГц. Порівняння даних для швидкости звуку зразків $^{106}$Cd і $^{116}$Сd виявляє ізотопічний ефект першого порядку з характерною лінійною залежністю від ріжниці мас ізотопів і визначає зміну фононного спектру з ізотопним складом. Міряння згасання поздовжнього ультразвуку уможливило виявити ізотопічний ефект другого порядку з квадратичною залежністю від ріжниці мас ізотопів. Квадратичний ефект пов’язаний з неупорядкованим розподілом ізотопів і зумовлює додатковий релаксаційний механізм розсіяння фононів.",
+		"en": "The results of the acoustic-properties’ study of high-purity (>99.999%) cadmium enriched to 66.4% with the isotope $^{106}$Cd and to 82.2% with the isotope $^{116}$Cd are presented for the temperature range of 77–300 K. Isotopic effects are observed in the temperature dependence of the 50 MHz ultrasound propagation velocity and attenuation. A comparison of the sound velocity data for the $^{106}$Cd and $^{116}$Cd samples has revealed a first-order isotopic effect with a characteristic linear dependence on the isotopes’ masses difference, and it determines the phonon-spectrum change caused by the isotope composition. Measuring the attenuation of the longitudinal ultrasound made it possible to detect a second-order isotopic effect with a quadratic dependence on the isotopes’ masses difference. The quadratic effect is due to a disordered isotope distribution, and it causes an additional relaxation mechanism for phonon scattering.",
+		"ru": "Представлены результаты исследования акустических свойств высокочистого (>99,999%) кадмия, обогащённого до 66,4% по изотопу $^{106}$Cd и до 82,2% по изотопу $^{116}$Сd, в температурной области 77–300 К. Изотопические эффекты наблюдались на температурной зависимости скорости распространения и затухания ультразвука частотой 50 МГц. Сравнение данных для скорости звука образцов $^{106}$Cd и $^{116}$Сd выявляет изотопический эффект первого порядка с характерной линейной зависимостью от разности масс изотопов и определяет изменение фононного спектра с изотопным составом. Измерение затухания продольного ультразвука позволило обнаружить изотопический эффект второго порядка с квадратичной зависимостью от разности масс изотопов. Квадратичный эффект связан с неупорядоченным распределением изотопов и обусловливает дополнительный релаксационный механизм рассеяния фононов."
+	},
+	"keywords": {
+		"ua": "природній кадмій, ізотопи $^{106}$Сd і $^{116}$Сd, ізотопічний безлад, швидкість і згасання поздовжнього ультразвуку",
+		"en": "natural cadmium, $^{106}$Cd and $^{116}$Cd isotopes, isotopic disorder, velocity and attenuation of longitudinal ultrasound",
+		"ru": "природный кадмий, изотопы $^{106}$Сd и $^{116}$Сd, изотопический беспорядок, скорость и затухание продольного ультразвука"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. С. Булатов", "en": "A. S. Bulatov", "ru": "А. С. Булатов"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "Г. П. Ковтун", "en": "G. P. Kovtun", "ru": "Г. П. Ковтун"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "В. С. Клочко", "en": "V. S. Klochko", "ru": "В. С. Клочко"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "А. В. Корніець", "en": "A. V. Korniets", "ru": "А. В. Корниец"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "Д. А. Солопихин", "en": "D. A. Solopikhin", "ru": "Д. А. Солопихин"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "А. Р. Щербань", "en": "A. P. Shcherban’", "ru": "А. Р. Щербань"},
+			"OID": [3]
+		}
+	],
+	"references": {
+		"count": 13,
+		"list":  [
+			{
+				"doi": "10.3367/UFNr.0170.200011i.1245",
+				"or":  "V. G. Plekhanov, Uspekhi Fizicheskikh Nauk, 170, No. 11: 1245 (2000) (in Russian).",
+				"tr":  "V. G. Plekhanov, Uspekhi Fizicheskikh Nauk, 170, No. 11: 1245 (2000) (in Russian)."
+			},
+			{
+				"doi": "10.3367/UFNr.0171.200108b.0827",
+				"or":  "A. P. Zhernov and A. V. Inyushkin, Uspekhi Fizicheskikh Nauk, 171, No. 8: 827 (2001) (in Russian).",
+				"tr":  "A. P. Zhernov and A. V. Inyushkin, Uspekhi Fizicheskikh Nauk, 171, No. 8: 827 (2001) (in Russian)."
+			},
+			{
+				"doi": "10.3367/UFNr.0172.200205c.0573",
+				"or":  "A. P. Zhernov and A. V. Inyushkin, Uspekhi Fizicheskikh Nauk, 172, No. 5: 573 (2002) (in Russian).",
+				"tr":  "A. P. Zhernov and A. V. Inyushkin, Uspekhi Fizicheskikh Nauk, 172, No. 5: 573 (2002) (in Russian)."
+			},
+			{
+				"doi": "10.1088/0953-8984/13/27/303",
+				"or":  "W. Schnelle and E. Gmelin, J. Phys. Cond. Matter, 13, No. 27: 6087 (2001).",
+				"tr":  "W. Schnelle and E. Gmelin, J. Phys. Cond. Matter, 13, No. 27: 6087 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "A. V. Gusev, A. M. Gibin, I. A. Adryuschenko, V. A. Gavva, and E. A. Kozyrev, Fizika Tverdogo Tela, 57, No. 9: 1868 (2015) (in Russian).",
+				"tr":  "A. V. Gusev, A. M. Gibin, I. A. Adryuschenko, V. A. Gavva, and E. A. Kozyrev, Fizika Tverdogo Tela, 57, No. 9: 1868 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "N. A. Babushkina, A. P. Zhernov, and A. V. Inyushkin, Zhurnal Ehksperimental’noy i Teoreticheskoy Fiziki, 82, No. 3: 793 (1982) (in Russian).",
+				"tr":  "N. A. Babushkina, A. P. Zhernov, and A. V. Inyushkin, Zhurnal Ehksperimental'noy i Teoreticheskoy Fiziki, 82, No. 3: 793 (1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Kh. Panova and B. N. Samoylov, Zhurnal Ehksperimental’noy i Teoreticheskoy Fiziki, 53, No. 5: 1539 (1967) (in Russian).",
+				"tr":  "G. Kh. Panova and B. N. Samoylov, Zhurnal Ehksperimental'noy i Teoreticheskoy Fiziki, 53, No. 5: 1539 (1967) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. P. Kovtun, A. P. Shcherban’, D. A. Solopikhin, V. D. Virich, V. I. Zelenskaja, R. S. Boiko, F. A. Danevich, V. M. Kudovbenko, and S. S. Nagorny, Functional Materials, 18, No. 1: 121 (2011).",
+				"tr":  "G. P. Kovtun, A. P. Shcherban', D. A. Solopikhin, V. D. Virich, V. I. Zelenskaja, R. S. Boiko, F. A. Danevich, V. M. Kudovbenko, and S. S. Nagorny, Functional Materials, 18, No. 1: 121 (2011)."
+			},
+			{
+				"doi": "10.1016/j.nima.2010.01.081",
+				"or":  "P. Belli, R. Bernabei, R. S. Boiko, V. B. Brudanin, N. Bukilic, R. Cerulli, D. M. Chernyak, F. A. Danevich, S. d’Angelo, V. Ya. Degoda, A. E. Dossovitskiy, E. N. Galashov, Yu. A. Hyzhnyi, S. V. Ildyakov, A. Incicchitti, V. V. Kobychev, O. S. Kolesnyk, G. P. Kovtun, V. M. Kudovbenko, J. R. de Laeter, A. L. Mikhlin, S. S. Nagorny, S. G. Nedilko, A. S. Nikolaiko, S. Nisi, D. V. Poda, R. B. Podviyanuk, O. G. Polischuk, D. Prosperi, A. P. Shcherban, V. P. Shcherbatsky, V. N. Shlegel, D. A. Solopikhin, Yu. G. Stenin, V. I. Tretyak, Ya. V. Vasiliev, and V. D. Virich, Nucl. Instr. Meth. Phys Res., 615, Iss. 3: 301 (2010).",
+				"tr":  "P. Belli, R. Bernabei, R. S. Boiko, V. B. Brudanin, N. Bukilic, R. Cerulli, D. M. Chernyak, F. A. Danevich, S. d'Angelo, V. Ya. Degoda, A. E. Dossovitskiy, E. N. Galashov, Yu. A. Hyzhnyi, S. V. Ildyakov, A. Incicchitti, V. V. Kobychev, O. S. Kolesnyk, G. P. Kovtun, V. M. Kudovbenko, J. R. de Laeter, A. L. Mikhlin, S. S. Nagorny, S. G. Nedilko, A. S. Nikolaiko, S. Nisi, D. V. Poda, R. B. Podviyanuk, O. G. Polischuk, D. Prosperi, A. P. Shcherban, V. P. Shcherbatsky, V. N. Shlegel, D. A. Solopikhin, Yu. G. Stenin, V. I. Tretyak, Ya. V. Vasiliev, and V. D. Virich, Nucl. Instr. Meth. Phys Res., 615, Iss. 3: 301 (2010)."
+			},
+			{
+				"doi": "10.1088/1748-0221/6/08/P08011",
+				"or":  "A. S. Barabash, P. Belli, R. Bernabei, R. S. Boiko, F. Cappella, V. Caracciolo, D. M. Chernyak, R. Cerulli, F. A. Danevich, M. L. Di Vacri, A. E. Dossovitskiy, E. N. Galashov, A. Incicchitti, V. V. Kobychev, S. I. Konovalov, G. P. Kovtun, V. M. Kudovbenko, M. Laubenstein, A. L. Mikhlin, S. Nisi, D. V. Poda, R. B. Podviyanuk, O. G. Polischuk, A. P. Shcherban, V. N. Shlegel, D. A. Solopikhin, Yu. G. Stenin, V. I. Tretyak, V. I. Umatov, Ya. V. Vasiliev, and V. D. Virich, J. Instrumentation, 06: P08011 (2011).",
+				"tr":  "A. S. Barabash, P. Belli, R. Bernabei, R. S. Boiko, F. Cappella, V. Caracciolo, D. M. Chernyak, R. Cerulli, F. A. Danevich, M. L. Di Vacri, A. E. Dossovitskiy, E. N. Galashov, A. Incicchitti, V. V. Kobychev, S. I. Konovalov, G. P. Kovtun, V. M. Kudovbenko, M. Laubenstein, A. L. Mikhlin, S. Nisi, D. V. Poda, R. B. Podviyanuk, O. G. Polischuk, A. P. Shcherban, V. N. Shlegel, D. A. Solopikhin, Yu. G. Stenin, V. I. Tretyak, V. I. Umatov, Ya. V. Vasiliev, and V. D. Virich, J. Instrumentation, 06: P08011 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Ozhogin, N. A. Babushkina, L. M. Belova, A. P. Zhernov, Yu. Heller, and K. Itoh, Zhurnal Ehksperimental’noy i Teoreticheskoy Fiziki, 115, No.1: 243 (1999) (in Russian).",
+				"tr":  "V. I. Ozhogin, N. A. Babushkina, L. M. Belova, A. P. Zhernov, Yu. Heller, and K. Itoh, Zhurnal Ehksperimental'noy i Teoreticheskoy Fiziki, 115, No.1: 243 (1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. P. Zhernov, Fizika Nizkikh Temperatur, 26, No. 12: 1226 (2000) (in Russian).",
+				"tr":  "A. P. Zhernov, Fizika Nizkikh Temperatur, 26, No. 12: 1226 (2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "P. G. Klemens, Proceedings of the Royal Society of London. Ser. A, Math. Phys. Sci., 68: 1113 (1995).",
+				"tr":  "P. G. Klemens, Proceedings of the Royal Society of London. Ser. A, Math. Phys. Sci., 68: 1113 (1995)."
+			}
+		]
+	}
+}

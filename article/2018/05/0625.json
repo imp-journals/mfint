@@ -1,0 +1,215 @@
+{
+	"_id":    "MFiNT.40.05.0625",
+	"year":   2018,
+	"volume": 40,
+	"issue":  5,
+	"pages":  [625,635],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["01.03.2018"],
+	"PACS":   "61.05.cp, 62.23.Pq, 68.37.Lp, 68.65.Pq, 75.60.Ej, 75.75.Cd, 81.05.ue",
+	"title":   {
+		"ua": "Синтеза та магнетні характеристики нанокомпозитів N–Co",
+		"en": "Synthesis and Magnetic Characteristics of N–Co Nanocomposites",
+		"ru": "Синтез и магнитные характеристики нанокомпозитов N–Co"
+	},
+	"abstract": {
+		"ua": "Синтезовано однодоменні наночастинки NiCo, NiCo на графеновій поверхні (NiCo@ГНП) та NiCo на поверхні діоксиду силіцію (NiCo@SiO$_2$). Досліджено їхні кристалічну структуру, морфологію поверхні та магнетні характеристики ансамблів наночастинок. Показано, що крива магнетованости ансамблів наночастинок має форму, характерну для суперпарамагнетиків, а її розрахунки в рамках Ланжевенової теорії парамагнетизму задовільно узгоджуються з експериментальними результатами. Методою магнетної ґранулометрії встановлено закони розподілу частинок за розмірами в ансамблях.",
+		"en": "The single-domain nanoparticles of NiCo, NiCo on the surface of graphene (NiCo@GNP) and NiCo on the surface of silica dioxide (NiCo@SiO$_2$) are synthesized. Their crystalline structure, surface morphology and magnetic characteristics of nanoparticle are investigated. It is shown that the magnetization curve of the nanoparticles ensembles in the form, which is distinctive for superparamagnets, and its calculations within the framework of the Langevin’s paramagnetism theory are satisfactorily consistent with the experimental results. The laws of particle size distribution in ensembles are established using the method of magnetic granulometry.",
+		"ru": "Синтезированы однодоменные наночастицы NiCo, NiCo на поверхности графена (NiCo@GNP) и NiCo на поверхности диоксида кремния (NiCo@SiO$_2$). Исследованы кристаллическая структура, морфология поверхности и магнитные свойства нанокомпозитов. Показано, что кривая намагниченности ансамблей наночастиц имеет форму, характерную для суперпарамагнетиков; её расчёты в рамках теории парамагнетизма удовлетворительно согласуются с экспериментальными результатами. Методом магнитной гранулометрии установлены законы распределения частиц по размерам в ансамблях."
+	},
+	"keywords": {
+		"ua": "нанокомпозити, наночастинки, графен, магнетні властивості, суперпарамагнетики",
+		"en": "nanocomposites, nanoparticles, graphene, magnetic properties, superparamagnets",
+		"ru": "нанокомпозиты, наночастицы, графен, магнитные свойства, суперпарамагнетики"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. М. Лісова", "en": "O. M. Lisova", "ru": "О. М. Лисова"},
+			"OID": [21]
+		},
+		{
+			"AID": {"ua": "М. В. Абрамов", "en": "M. V. Abramov", "ru": "Н. В. Абрамов"},
+			"OID": [21]
+		},
+		{
+			"AID": {"ua": "С. М. Махно", "en": "S. M. Makhno", "ru": "С. Н. Махно"},
+			"OID": [21]
+		},
+		{
+			"AID": {"ua": "П. П. Горбик", "en": "P. P. Gorbyk", "ru": "П. П. Горбик"},
+			"OID": [21]
+		}
+	],
+	"references": {
+		"count": 33,
+		"list":  [
+			{
+				"doi": "10.1007/s13726-015-0388-2",
+				"or":  "G. Sharma, M. Naushad, A. Kumar, S. Devi, and M. R. Khan, Iran. Polym. J., 24: 1003 (2015).",
+				"tr":  "G. Sharma, M. Naushad, A. Kumar, S. Devi, and M. R. Khan, Iran. Polym. J., 24: 1003 (2015)."
+			},
+			{
+				"doi": "10.1016/j.msec.2016.11.002",
+				"or":  "G. Sharma, D. Kumar, A. Kumar, A. H. Al-Muhtaseb, D. Pathania, M. Naushad, and G. T. Mola, Mater. Sci. Eng. C, 71: 1216 (2017).",
+				"tr":  "G. Sharma, D. Kumar, A. Kumar, A. H. Al-Muhtaseb, D. Pathania, M. Naushad, and G. T. Mola, Mater. Sci. Eng. C, 71: 1216 (2017)."
+			},
+			{
+				"doi": "10.1016/j.jksus.2017.06.012",
+				"or":  "G. Sharma, A. Kumar, Sh. Sharma, Mu. Naushad, R. P. Dwivedi, Z. A. ALOthman, and G. T. Mola, Journal of King Saud University – Science (2017).",
+				"tr":  "G. Sharma, A. Kumar, Sh. Sharma, Mu. Naushad, R. P. Dwivedi, Z. A. ALOthman, and G. T. Mola, Journal of King Saud University – Science (2017)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2016.05.078",
+				"or":  "S. M. Hamidi, B. Mosaeii, M. Afsharnia, A. Aftabi, and M. Najafi, J. Magn. Magn. Mater., 417: 130 (2016).",
+				"tr":  "S. M. Hamidi, B. Mosaeii, M. Afsharnia, A. Aftabi, and M. Najafi, J. Magn. Magn. Mater., 417: 130 (2016)."
+			},
+			{
+				"doi": "10.1016/j.chemosphere.2008.02.002",
+				"or":  "Y. Han, W. Li, M. Zhang, and K. Tao, Chemosphere, 72: 53 (2008).",
+				"tr":  "Y. Han, W. Li, M. Zhang, and K. Tao, Chemosphere, 72: 53 (2008)."
+			},
+			{
+				"doi": "10.1016/j.ijhydene.2015.02.103",
+				"or":  "B. Habibi and S. Ghaderi, Int. J. Hydrogen Energy, 40, Iss. 15: 5115 (2015).",
+				"tr":  "B. Habibi and S. Ghaderi, Int. J. Hydrogen Energy, 40, Iss. 15: 5115 (2015)."
+			},
+			{
+				"doi": "10.1016/j.electacta.2015.02.063",
+				"or":  "M. Motlak, N. A. Barakat, M. S. Akhtar, A. M. Hamza, B. Kim, C. Sang, K. Abdelrazek, and A. A. Almajid, Electrochim. Acta, 160: 138 (2015).",
+				"tr":  "M. Motlak, N. A. Barakat, M. S. Akhtar, A. M. Hamza, B. Kim, C. Sang, K. Abdelrazek, and A. A. Almajid, Electrochim. Acta, 160: 138 (2015)."
+			},
+			{
+				"doi": "10.1016/j.jpowsour.2014.10.095",
+				"or":  "V. Dao, Y. Choi, K. Yong, L. L. Larina, O. Shevaleevskiy, and H. Choi, J. Power Sources, 274: 831 (2015).",
+				"tr":  "V. Dao, Y. Choi, K. Yong, L. L. Larina, O. Shevaleevskiy, and H. Choi, J. Power Sources, 274: 831 (2015)."
+			},
+			{
+				"doi": "10.1016/j.bios.2015.01.029",
+				"or":  "M. Cui, J. Huang, Y. Wang, Y. Wu, and X. Luo, Biosens. Bioelectron., 68: 563 (2015).",
+				"tr":  "M. Cui, J. Huang, Y. Wang, Y. Wu, and X. Luo, Biosens. Bioelectron., 68: 563 (2015)."
+			},
+			{
+				"doi": "10.1016/j.bios.2013.08.025",
+				"or":  "C. Kung, P. Lin, F. John, Y. Xue, and X. Yu, Biosens. Bioelectron., 52: 1 (2014).",
+				"tr":  "C. Kung, P. Lin, F. John, Y. Xue, and X. Yu, Biosens. Bioelectron., 52: 1 (2014)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2017.04.003",
+				"or":  "S. Awasthi, S. K. Pandey, A. Juyal, C. P. Pandey, and K. Balani, J. Alloys Compd., 711: 15 (2017).",
+				"tr":  "S. Awasthi, S. K. Pandey, A. Juyal, C. P. Pandey, and K. Balani, J. Alloys Compd., 711: 15 (2017)."
+			},
+			{
+				"doi": "10.1016/j.colsurfb.2016.03.065",
+				"or":  "R. Ahmad, A. S. Qureshi, L. Li, J. Bao, X. Jia, Y. Xu, and X. Guo, Colloids Surf. B: Biointerfaces, 143: 490 (2016).",
+				"tr":  "R. Ahmad, A. S. Qureshi, L. Li, J. Bao, X. Jia, Y. Xu, and X. Guo, Colloids Surf. B: Biointerfaces, 143: 490 (2016)."
+			},
+			{
+				"doi": "10.1143/JJAP.51.065201",
+				"or":  "S. Akamaru, M. Inoue, Y. Honda, A. Taguchi, and T. Abe, Jpn. J. Appl. Phys., 51, No. 6R: 065201 (2012).",
+				"tr":  "S. Akamaru, M. Inoue, Y. Honda, A. Taguchi, and T. Abe, Jpn. J. Appl. Phys., 51, No. 6R: 065201 (2012)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2010.06.050",
+				"or":  "M. Maicas, M. Sanz, H. Cui, C. Aroca, and P. Sánchez, J. Magn. Magn. Mater., 322: 3485 (2010).",
+				"tr":  "M. Maicas, M. Sanz, H. Cui, C. Aroca, and P. Sánchez, J. Magn. Magn. Mater., 322: 3485 (2010)."
+			},
+			{
+				"doi": "10.1143/JPSJ.79.083710",
+				"or":  "G. Saito, S. Hosokai, T. Akiyama, S. Yoshida, S. Yatsu, and S. Watanabe, J. Phys. Soc. Jpn., 79: 083710 (2010).",
+				"tr":  "G. Saito, S. Hosokai, T. Akiyama, S. Yoshida, S. Yatsu, and S. Watanabe, J. Phys. Soc. Jpn., 79: 083710 (2010)."
+			},
+			{
+				"doi": "10.1063/1.3690044",
+				"or":  "P. Kalita, J. Singh, M. K. Singh, P. R. Solanki, G. Sumana, and B. D. Malhotra, Appl. Phys. Lett., 100: 093702 (2012).",
+				"tr":  "P. Kalita, J. Singh, M. K. Singh, P. R. Solanki, G. Sumana, and B. D. Malhotra, Appl. Phys. Lett., 100: 093702 (2012)."
+			},
+			{
+				"doi": "10.1016/j.matlet.2009.08.016",
+				"or":  "P. Calandra, Mater. Lett., 63: 2416 (2009).",
+				"tr":  "P. Calandra, Mater. Lett., 63: 2416 (2009)."
+			},
+			{
+				"doi": "10.1021%2Fjp302372r",
+				"or":  "I. Gonzalez, J. C. De Jesus, E. Cañizales, B. Delgado, and C. Urbina, J. Phys. Chem. C, 116: 21577 (2012).",
+				"tr":  "I. Gonzalez, J. C. De Jesus, E. Cañizales, B. Delgado, and C. Urbina, J. Phys. Chem. C, 116: 21577 (2012)."
+			},
+			{
+				"doi": "10.1088/0957-4484/20/41/415603",
+				"or":  "T. Bala, R. D. Gunning, M. Venkatesan, J. F. Godsell, S. Roy, and K. M. Ryan, Nanotechnology, 20: 415603 (2009).",
+				"tr":  "T. Bala, R. D. Gunning, M. Venkatesan, J. F. Godsell, S. Roy, and K. M. Ryan, Nanotechnology, 20: 415603 (2009)."
+			},
+			{
+				"doi": "10.1039/C1DT11395J",
+				"or":  "Y. Yamauchi, T. Itagaki, T. Yokoshima, and K. Kuroda, Dalton Trans., 41: 1210 (2012).",
+				"tr":  "Y. Yamauchi, T. Itagaki, T. Yokoshima, and K. Kuroda, Dalton Trans., 41: 1210 (2012)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2017.05.029",
+				"or":  "X. Wu, Z. Zhang, C. Xia, B. Chen, and X. Min, J. Alloys Compd., 718: 15 (2017).",
+				"tr":  "X. Wu, Z. Zhang, C. Xia, B. Chen, and X. Min, J. Alloys Compd., 718: 15 (2017)."
+			},
+			{
+				"doi": "10.1016/j.materresbull.2014.02.019",
+				"or":  "E. Motamedi, M. Talebi Atouei, and M. Z. Kassaee, Materials Research Bulletin, 54: 34 (2014).",
+				"tr":  "E. Motamedi, M. Talebi Atouei, and M. Z. Kassaee, Materials Research Bulletin, 54: 34 (2014)."
+			},
+			{
+				"doi": "10.1016/j.matlet.2017.04.144",
+				"or":  "X. Lv, J. Guo, C. Zhao, Y. Wei, J. Zhang, Z. Wu, and C. Gong, Mater. Lett., 201: 43 (2017).",
+				"tr":  "X. Lv, J. Guo, C. Zhao, Y. Wei, J. Zhang, Z. Wu, and C. Gong, Mater. Lett., 201: 43 (2017)."
+			},
+			{
+				"doi": "",
+				"or":  "P. V. Lapsina, Nanostrukturirovanye Poroshki Ni, Co i Sistemy Ni–Co, Poluchenhye Vosstanovleniem Kristallicheskikh Karbonatov Vodnym Rastvorom Gidrazin Gidrata [Nanostructured Powder of Ni, Co and Ni–Co System Obtained by Recovery of Crystalline Carbonates by Water Hydrazine Hydrate Solution] (Thesis of Disser. for Dr. Chem. Sci.) (Kemerovo: 2013) (in Russian).",
+				"tr":  "P. V. Lapsina, Nanostrukturirovanye Poroshki Ni, Co i Sistemy Ni–Co, Poluchenhye Vosstanovleniem Kristallicheskikh Karbonatov Vodnym Rastvorom Gidrazin Gidrata [Nanostructured Powder of Ni, Co and Ni–Co System Obtained by Recovery of Crystalline Carbonates by Water Hydrazine Hydrate Solution] (Thesis of Disser. for Dr. Chem. Sci.) (Kemerovo: 2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. V. Borysenko, V. M. Bogatyrov, I. V. Dubrovin, M. V. Abramov, M. V. Gayevaya, and P. P. Gorbik, Fiziko-Khimiya Nanomaterialov i Supramolekulyarnykh Struktur [Physicochemistry of Nanomaterials and Supramolecular Structures] (Kiev:2007) (in Russian).",
+				"tr":  "M. V. Borysenko, V. M. Bogatyrov, I. V. Dubrovin, M. V. Abramov, M. V. Gayevaya, and P. P. Gorbik, Fiziko-Khimiya Nanomaterialov i Supramolekulyarnykh Struktur [Physicochemistry of Nanomaterials and Supramolecular Structures] (Kiev:2007) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.2185850",
+				"or":  "C. P. Bean and J. D. Livingston, J. Appl. Phys., 30: 120S (1959).",
+				"tr":  "C. P. Bean and J. D. Livingston, J. Appl. Phys., 30: 120S (1959)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Yu. Olenin, Rossiyskie Nanotekhnologii, 7, Nos. 5–6: 53 (2012) (in Russian).",
+				"tr":  "A. Yu. Olenin, Rossiyskie Nanotekhnologii, 7, Nos. 5–6: 53 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. M. Labushev, Matematicheskie Metody i Modeli pri Reshenii Geologicheskikh Zadach na EhVM [The Mathematical Methods and Models for Solving Geological Problems on a Computer] (Krasnoyarsk: 2007) (in Russian)",
+				"tr":  "M. M. Labushev, Matematicheskie Metody i Modeli pri Reshenii Geologicheskikh Zadach na EhVM [The Mathematical Methods and Models for Solving Geological Problems on a Computer] (Krasnoyarsk: 2007) (in Russian)"
+			},
+			{
+				"doi": "10.1007/978-90-481-2309-4_12",
+				"or":  "V. M. Bogatyrov, M. V. Borysenko, I. V. Dubrovin, M. V. Abramov, M. V. Galaburda, and P. P. Gorbyk, Nanomaterials and Supramolecular Structures : Physics, Chemistry, and Applications (Eds. A. P. Shpak and P. P. Gorbyk) (Dordrecht,Netherlands: Springer: 2009), p. 159.",
+				"tr":  "V. M. Bogatyrov, M. V. Borysenko, I. V. Dubrovin, M. V. Abramov, M. V. Galaburda, and P. P. Gorbyk, Nanomaterials and Supramolecular Structures : Physics, Chemistry, and Applications (Eds. A. P. Shpak and P. P. Gorbyk) (Dordrecht,Netherlands: Springer: 2009), p. 159."
+			},
+			{
+				"doi": "10.1063/1.1722287",
+				"or":  "C. P. Bean and I. S. Jacobs, J. Appl. Phys., 27: 1448 (1956).",
+				"tr":  "C. P. Bean and I. S. Jacobs, J. Appl. Phys., 27: 1448 (1956)."
+			},
+			{
+				"doi": "10.1063/1.1658812",
+				"or":  "R. Kaiser and G. Miscolczy, J. Appl. Phys., 41, No. 3: 1064 (1970).",
+				"tr":  "R. Kaiser and G. Miscolczy, J. Appl. Phys., 41, No. 3: 1064 (1970)."
+			},
+			{
+				"doi": "",
+				"or":  "E. E. Bibik, B. Ya. Matyrgulin, Yu. L. Raykher, and M. I. Shliomis, Magnitnaya Gidrodinamika, 68, No. 1: 68 (1973) (in Russian).",
+				"tr":  "E. E. Bibik, B. Ya. Matyrgulin, Yu. L. Raykher, and M. I. Shliomis, Magnitnaya Gidrodinamika, 68, No. 1: 68 (1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "B. D. Cullity and C. D. Graham, Introduction to Magnetic Materials (Wiley-IEEE Press: 2009).",
+				"tr":  "B. D. Cullity and C. D. Graham, Introduction to Magnetic Materials (Wiley-IEEE Press: 2009)."
+			}
+		]
+	}
+}

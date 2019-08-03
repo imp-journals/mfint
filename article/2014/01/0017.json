@@ -1,0 +1,110 @@
+{
+	"_id":    "MFiNT.36.01.0017",
+	"year":   2014,
+	"volume": 36,
+	"issue":  1,
+	"pages":  [17,29],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["27.11.2013"],
+	"PACS":   "81.05.Bx, 81.20.Ev, 81.20.Hy, 81.40.Ef, 81.40.Vw",
+	"title":   {
+		"ua": "Ударне ущільнення порошку вольфраму в широкому діапазоні температур. I. Щільність і структура",
+		"en": "Impact Consolidation of the Tungsten Powder in the Wide Range of Temperatures. I. Density and Structure",
+		"ru": "Ударное уплотнение порошка вольфрама в широком диапазоне температур. I. Плотность и структура"
+	},
+	"abstract": {
+		"ua": "Виконано ударне ущільнення у вакуумі 0,0133 Па звичайного порошку вольфраму з розміром частинок у 6—10 мкм при температурах 850, 1050, 1260, 1450, 1500, 1600 та 1640°C. Ізотермічна витримка перед ущільненням складала 20 хв. Одержані зразки діаметром у 25—27 мм і заввишки у $\\cong$ 10 мм розрізали на дві частини, одна з яких піддавалася відпалу при температурі 1600°C впродовж години. Відпалену та невідпалену частини зразка розрізали на прямокутні штабики для визначення густини, структури та механічних властивостей. Встановлено, що практично щільні зразки виходять при температурі 1640°C. За температур ущільнення у 850°C та 1450°C пористість зразків становить відповідно 9,3 та 6,5%. Відпал зразків зменшує пористість на 2%. На зразках, які ущільнювалися за високих температур, та на відпалених зразках спостерігається інтенсивне зростання зерен. Ущільнення при 1500°C призводить до дворазового зростання частинок, а ущільнення при 1640°C – до триразового зростання. Відпал цих зразків додатково збільшує розмір зерен у 2—3 рази, тобто початковий розмір частинок збільшується майже в 10 разів.",
+		"en": "In vacuum of 0.0133 Pa, impact consolidation of the commercial tungsten powder with a size of particles of 6—10 microns is carried out at temperatures of 850, 1050, 1260, 1450, 1500, 1600, and 1640°C. The isothermal holding before consolidation was 20 min. The obtained samples with a diameter of 25—27 mm and height of $\\cong$ 10 mm were cut on two parts, one of which was subjected to annealing at a temperature of 1600°C within the hour. The annealed and not annealed parts of a sample are cut on rectangular bars for determination of density, structure, and mechanical properties. As revealed, almost dense samples are fabricated at a temperature of 1640°C. At a temperature of consolidation of 850°C and 1450°C, the porosity of samples is equal 9.3 and 6.5%, respectively. Annealing of samples reduces porosity by 2%. On the samples compacted at high temperatures and on the annealed samples, the intensive growth of grains is observed. Consolidation at 1500°C leads to the double growth of particles, and consolidation at 1640°C leads to triple growth. Annealing of these samples in addition increases the size of grains by 2—3 times and, as a result, the initial size of particles increases almost by ten times.",
+		"ru": "Выполнено ударное уплотнение в вакууме 0,0133 Па обычного порошка вольфрама с размером частиц 6—10мкм при температурах 850, 1050, 1260, 1450, 1500, 1600 и 1640°C. Изотермическая выдержка перед уплотнением составляла 20 мин. Полученные образцы диаметром 25—27 мм и высотой $\\cong$ 10 мм разрезали на две части, одна из которых подвергалась отжигу при температуре 1600°C в течение часа. Отожжённую и неотожжённую части образца разрезали на прямоугольные штабики для определения плотности, структуры и механических свойств. Установлено, что практически плотные образцы получаются при температуре 1640°C. При температуре уплотнения 850°C и 1450°C пористость образцов равна соответственно 9,3 и 6,5%. Отжиг образцов уменьшает пористость на 2%. На образцах, уплотнённых при высоких температурах, и на отожжённых образцах наблюдается интенсивный рост зёрен. Уплотнение при 1500°C приводит к двукратному росту частиц, а уплотнение при 1640°C – к трёхкратному росту. Отжиг этих образцов дополнительно увеличивает размер зёрен в 2—3 раза, и в результате исходный размер частиц увеличивается почти в 10 раз."
+	},
+	"keywords": {
+		"ua": "порошок, вольфрам, ударне ущільнення, щільність, структура",
+		"en": "powder, tungsten, impact consolidation, density, structure",
+		"ru": "порошок, вольфрам, ударное уплотнение, плотность, структура"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. І. Толочин", "en": "O. I. Tolochyn", "ru": "А. И. Толочин"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "А. В. Лаптєв", "en": "A. V. Laptev", "ru": "А. В. Лаптев"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "І. Ю. Окунь", "en": "I. Yu. Okun’", "ru": "И. Ю. Окунь"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "Я. І. Євич", "en": "Ya. I. Evich", "ru": "Я. И. Евич"},
+			"OID": [2]
+		}
+	],
+	"references": {
+		"count": 12,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "﻿Е. М. Савицкий, К. Б. Поварова, П. В. Макаров, Металловедение вольфрама (Москва: Металлургия: 1978).",
+				"tr":  "E. M. Savitskiy, K. B. Povarova, and P. V. Makarov, Metallovedenie Vol'frama (Moscow: Metallurgiya: 1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. М. Павлов, Е. В. Ушаков, Е. К. Дробышева, Хладноломкость и структура вольфрама (Москва: Наука: 1984), с. 50.",
+				"tr":  "I. M. Pavlov, E. V. Ushakov, and E. K. Drobysheva, Khladnolomkost' i Struktura Vol'frama (Moscow: Nauka: 1984), p. 50 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Н. Зеликман, Б. Г. Коршунов, Металлургия редких металлов (Москва: Металлургия: 1991).",
+				"tr":  "A. N. Zelikman, B. G. Korshunov, Metallurgiya Redkikh Metallov (Moscow: Metallurgiya: 1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Лаптев, Порошковая металлургия, № 3/4: 8 (2001).",
+				"tr":  "A. V. Laptev, Poroshkovaya Metallurgiya, No. 3/4: 8 (2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Лаптев, Л. А. Крячко, А. И. Толочин, Д. Г. Вербило, М. Е. Головкова, Металлофиз. новейшие технол., 34, № 10: 1001 (2012).",
+				"tr":  "A. V. Laptev L. A. Kryachko, A. I. Tolochin, D. G. Verbilo, and M. E. Golovkova, Metallofiz. Noveishie Tekhnol., 34, No. 10: 1001 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Лаптев, А. И. Толочин, В. В. Ковыляев, Д. Г. Вербило, Е. А. Кондряков, Металлофиз. новейшие технол., 34, № 4: 521 (2012).",
+				"tr":  "A. V. Laptev, A. I. Tolochin, V. V. Kovylyaev, D. G. Verbilo, and E. A. Kondryakov, Metallofiz. Noveishie Tekhnol., 34, No. 4: 521 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Подрезов, В. А. Назаренко, А. В. Лаптев, А. И. Толочин, В. И. Даниленко, Я. И. Евич, О. С. Коряк, Порошковая металлургия, № 5/6: 60 (2009).",
+				"tr":  "Yu. N. Podrezov, V. A. Nazarenko, A. V. Laptev, A. I. Tolochin, V. I. Danilenko, Ya. I. Evich, and O. S. Koryak, Poroshkovaya Metallurgiya, No. 5/6: 60 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "J. E. White and M. M. Jurhowitz, Hot Pressing of Tungsten Powder (Aerospace Corporation El Segundo CA: Defense Technical Information Centre: 1963).",
+				"tr":  "J. E. White and M. M. Jurhowitz, Hot Pressing of Tungsten Powder (Aerospace Corporation El Segundo CA: Defense Technical Information Center: 1963)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Schneider, Gmelin Handbuch der Anorganischen Chemie, Wolfram, Erganzungsband B1, Die Systeme mit Edelgassen, Wasserstoff und Sauerstoff (Berlin: Springer: 1978), p. 143.",
+				"tr":  "D. Schneider, Gmelin Handbuch der Anorganischen Chemie, Wolfram, Erganzungsband B1, Die Systeme mit Edelgassen, Wasserstoff und Sauerstoff (Berlin: Springer: 1978), p. 143."
+			},
+			{
+				"doi": "",
+				"or":  "К. Агте, И. Вацек, Вольфрам и молибден (Москва: Энергия: 1964).",
+				"tr":  "K. Agte and I. Vatsek, Vol'fram i Molibden (Moscow: Energiya: 1964) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. С. Амбарцумян, Б. Н. Бабич, Д. С. Балковец, Тугоплавкие материалы в машиностроении (Москва: Машиностроение: 1967).",
+				"tr":  "R. S. Ambartsumyan, B. N. Babich, and D. S. Balkovets, Tugoplavkie Materialy v Mashinostroenii (Moscow: Mashinostroenie: 1967) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Я. Радченко, Ю. Н. Подрезов, В. В. Паничкина, В. В. Скороход, Порошковая металлургия, № 8: 36 (1990).",
+				"tr":  "P. Ya. Radchenko, Yu. N. Podrezov, V. V. Panichkina, and V. V. Skorokhod, Poroshkovaya Metallurgiya, No. 8: 36 (1990) (in Russian)."
+			}
+		]
+	}
+}

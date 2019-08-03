@@ -1,0 +1,234 @@
+{
+	"_id":    "MFiNT.40.03.0359",
+	"year":   2018,
+	"volume": 40,
+	"issue":  3,
+	"pages":  [359,379],
+	"rubric": 1,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["18.01.2018"],
+	"PACS":   "07.85.Fv, 61.05.cm, 61.05.J-, 68.37.Lp, 68.49.Sf, 81.15.Cd, 82.80.Ms",
+	"title":   {
+		"ua": "Вибухова кристалізація плівок аморфного кобальту на підшарі вуглецю",
+		"en": "Explosive Crystallization of Films of Amorphous Cobalt on a Sublayer of Carbon",
+		"ru": "Взрывная кристаллизация плёнок аморфного кобальта на подслое углерода"
+	},
+	"abstract": {
+		"ua": "Методами просвітлювальної електронної мікроскопії, електронної дифракції, малокутової рентґенівської дифракції та вторинної йонної мас-спектрометрії досліджено механізм вибухової кристалізації аморфних плівок кобальту, вирощених на аморфному вуглецю методою магнетронного (на сталому струмі) розпорошування. Встановлено, що працюючий С-магнетрон під час осадження шару кобальту, а також зменшення швидкости осадження кобальту приводять до збільшення номінальної товщини кобальтового шару $t_{Co,ном}$, за якої він знаходиться в аморфно-кластерному стані з невеликою часткою нанокристалічної фази кобальту. Збільшення номінальної товщини кобальту до граничної $t_{гр} \\cong$ 5,0 нм приводить до виникнення кристалічних областей, характерних як для звичайної кристалізації (зерен з дефектами упаковки), так і великих областей із віссю зони [0001], характерних для вибухової кристалізації (без дефектів упаковки). Збільшення номінальної товщини існування аморфно-кластерної фази до критичної $t_{кр} \\cong$ 6,0 нм супроводжується кристалізацією кобальту за механізмом вибухової кристалізації, в результаті якої утворюється високотекстурована плівка ГПУ-Со з віссю [0001], що перпендикулярна до підкладинки.",
+		"en": "The mechanism of explosive crystallization of the amorphous cobalt films grown on an amorphous carbon by the DC-magnetron sputtering is studied by means of transmission electron microscopy, electron diffraction, small-angle X-ray diffraction, and secondary ion mass spectrometry. As established, the operating C-magnetron during both the deposition of the cobalt layer as well as the decrease in the cobalt-deposition rate result to an increase of the nominal thickness of the cobalt layer, $t_{Co,nom}$, at which it is in an amorphous–cluster state with a small fraction of the nanocrystalline cobalt phase. An increase of the nominal thickness of cobalt to a boundary value of $t_{bd} \\cong$ 5.0 nm leads to the appearance of both crystalline regions characterising the normal crystallization (stacking faults) and extensive regions with the zone axis [0001] characterising the explosive crystallization (without stacking faults). An increase in the nominal thickness of existence of an amorphous–cluster phase to a critical value of $t_{cr} \\cong$ 6.0 nm is accompanied with cobalt crystallization by means of the mechanism of explosive crystallization, because of which a highly textured h.c.p.-Co lattice film with an [0001] axis perpendicular to the substrate is formed.",
+		"ru": "Методами просвечивающей электронной микроскопии, электронной дифракции, малоугловой рентгеновской дифракции и вторичной ионной масс-спектрометрии исследован механизм взрывной кристаллизации аморфных плёнок кобальта, выращенных на аморфном углероде методом магнетронного (на постоянном токе) распыления. Установлено, что работающий С-магнетрон во время осаждения слоя кобальта, а также уменьшение скорости осаждения кобальта приводят к увеличению номинальной толщины кобальтового слоя $t_{Co,ном}$, при которой он находится в аморфно-кластерном состоянии с небольшой долей нанокристаллической фазы кобальта. Увеличение номинальной толщины кобальта до граничной $t_{гр} \\cong$ 5,0 нм приводит к возникновению кристаллических областей, характерных как для обычной кристаллизации (зёрен с дефектами упаковки), так и обширных областей c осью зоны [0001], характерных для взрывной кристаллизации (без дефектов упаковки). Увеличение номинальной толщины существования аморфно-кластерной фазы до критической $t_{кр} \\cong$ 6,0 нм сопровождается кристаллизаций кобальта по механизму взрывной кристаллизации, в результате которой образуется высокотекстурированная плёнка ГПУ-Со с осью [0001], перпендикулярной к подложке."
+	},
+	"keywords": {
+		"ua": "кобальт, аморфно-кластерний стан, вибухова кристалізація, просвітлювальна електронна мікроскопія (ПЕМ)",
+		"en": "cobalt, amorphous–cluster state, explosive crystallization, transmission electron microscopy (TEM)",
+		"ru": "кобальт, аморфно-кластерное состояние, взрывная кристаллизация, просвечивающая электронная микроскопия (ПЭМ)"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Є. Н. Зубарев", "en": "E. N. Zubarev", "ru": "Е. Н. Зубарев"},
+			"OID": [243]
+		},
+		{
+			"AID": {"ua": "О. Ю. Девізенко", "en": "O. Yu. Devizenko", "ru": "А. Ю. Девизенко"},
+			"OID": [243]
+		},
+		{
+			"AID": {"ua": "В. В. Кондратенко", "en": "V. V. Kondratenko", "ru": "В. В. Кондратенко"},
+			"OID": [243]
+		},
+		{
+			"AID": {"ua": "Д. В. Севрюков", "en": "D. V. Sevriukov", "ru": "Д. В. Севрюков"},
+			"OID": [243]
+		},
+		{
+			"AID": {"ua": "В. А. Севрюкова", "en": "V. A. Sevryukova", "ru": "В. А. Севрюкова"},
+			"OID": [243]
+		},
+		{
+			"AID": {"ua": "О. С. Гарбуз", "en": "O. S. Garbuz", "ru": "А. С. Гарбуз"},
+			"OID": [4]
+		},
+		{
+			"AID": {"ua": "T. M. Сабов", "en": "T. M. Sabov", "ru": "T. M. Сабов"},
+			"OID": [20]
+		},
+		{
+			"AID": {"ua": "O. В. Дубіковський", "en": "O. V. Dubikovskyi", "ru": "А. В. Дубиковский"},
+			"OID": [20]
+		},
+		{
+			"AID": {"ua": "O. С. Оберемок", "en": "O. S. Oberemok", "ru": "А. С. Оберемок"},
+			"OID": [20]
+		},
+		{
+			"AID": {"ua": "В. П. Мельник", "en": "V. P. Melnik", "ru": "В. П. Мельник"},
+			"OID": [20]
+		}
+	],
+	"references": {
+		"count": 32,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "К. Судзуки, Х. Фудзимори, К. Хасимото, Аморфные металлы (Москва: Металлургия: 1987) (пер. с япон.).",
+				"tr":  "K. Sudzuki, Kh. Fudzimori, and K. Khasimoto, Amorfnye Metally (Moscow: Metallurgiya: 1987) (Russian translation)."
+			},
+			{
+				"doi": "10.1070/PU1989v032n02ABEH002681",
+				"or":  "В. А. Шкловский, В. М. Кузьменко, Успехи физических наук, 157, вып. 2: 311 (1989).",
+				"tr":  "V. A. Shklovskii and V. M. Kuz'menko, Sov. Phys. Usp., 32: 163 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Кузьменко, Успехи современной радиоэлектроники, № 5: 17 (2002).",
+				"tr":  "V. M. Kuz'menko, Uspekhi Sovremennoy Radioelektroniki, No. 5: 17 (2002) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.336910",
+				"or":  "H.-D. Geiler, E. Glaser, G. Götz, and M. Wagner, J. Appl. Phys., 59, No. 9: 3091 (1986).",
+				"tr":  "H.-D. Geiler, E. Glaser, G. Götz, and M. Wagner, J. Appl. Phys., 59, No. 9: 3091 (1986)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.73.184125",
+				"or":  "C. Grigoropoulos, M. Rogers, S. H. Ko, A. A. Golovin, and B. J. Matkowsky, Phys. Rev. B, 73, No. 18: 184125 (2006).",
+				"tr":  "C. Grigoropoulos, M. Rogers, S. H. Ko, A. A. Golovin, and B. J. Matkowsky, Phys. Rev. B, 73, No. 18: 184125 (2006)."
+			},
+			{
+				"doi": "10.1063/1.4894397",
+				"or":  "L. Nikolova, M. J. Stern, J. M. MacLeod, B. W. Reed, H. Ibrahim, G. H. Campbell, F. Rosei, T. LaGrange, and B. J. Siwick, J. Appl. Phys., 116, No. 9: 093512 (2014).",
+				"tr":  "L. Nikolova, M. J. Stern, J. M. MacLeod, B. W. Reed, H. Ibrahim, G. H. Campbell, F. Rosei, T. LaGrange, and B. J. Siwick, J. Appl. Phys., 116, No. 9: 093512 (2014)."
+			},
+			{
+				"doi": "10.1080/08927020412331298658",
+				"or":  "E. J. Albenze and P. Clancy, Molecular Simulation, 31, No. 1: 11 (2005).",
+				"tr":  "E. J. Albenze and P. Clancy, Molecular Simulation, 31, No. 1: 11 (2005)."
+			},
+			{
+				"doi": "10.1016/j.jcrysgro.2005.11.052",
+				"or":  "F. Falk and G. Andrä, J. Crystal Growth, 287, No. 2: 397 (2006).",
+				"tr":  "F. Falk and G. Andrä, J. Crystal Growth, 287, No. 2: 397 (2006)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2006.05.046",
+				"or":  "Ch.-Ch. Kuo, W.-Ch. Yeh, J.-B. Chen, and J.-Y. Jeng, Thin Solid Films, 515, No. 4: 1651(2006).",
+				"tr":  "Ch.-Ch. Kuo, W.-Ch. Yeh, J.-B. Chen, and J.-Y. Jeng, Thin Solid Films, 515, No. 4: 1651(2006)."
+			},
+			{
+				"doi": "10.1016/j.jmatprotec.2008.07.003",
+				"or":  "Ch.-Ch. Kuo, J. Mater. Process. Technol., 209, No. 6: 2978 (2009).",
+				"tr":  "Ch.-Ch. Kuo, J. Mater. Process. Technol., 209, No. 6: 2978 (2009)."
+			},
+			{
+				"doi": "10.1149/1.3602192",
+				"or":  "K. Ohdaira, N. Tomura, Sh. Ishii, and H. Matsumuraa, Electrochemical and Solid-State Letters, 14, No. 9: H372 (2011).",
+				"tr":  "K. Ohdaira, N. Tomura, Sh. Ishii, and H. Matsumuraa, Electrochemical and Solid-State Letters, 14, No. 9: H372 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Ohdaira, K. Sawada, N. Usami, S. Varlamov, and H. Matsumura, Jap. J. Appl. Phys., 51, No. 4: 10NB15 (2012).",
+				"tr":  "K. Ohdaira, K. Sawada, N. Usami, S. Varlamov, and H. Matsumura, Jap. J. Appl. Phys., 51, No. 4: 10NB15 (2012)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2012.10.023",
+				"or":  "K. Ohdaira and H. Matsumura, Thin Solid Films, 524: 161 (2012).",
+				"tr":  "K. Ohdaira and H. Matsumura, Thin Solid Films, 524: 161 (2012)."
+			},
+			{
+				"doi": "10.1016/j.jcrysgro.2011.11.028",
+				"or":  "K. Ohdaira and H. Matsumura, J. Crystal Growth, 362: 149 (2013).",
+				"tr":  "K. Ohdaira and H. Matsumura, J. Crystal Growth, 362: 149 (2013)."
+			},
+			{
+				"doi": "10.1134/S0021364012090068",
+				"or":  "V. Ya. Kogai, A. V. Vakhrushev, and A. Yu. Fedotov, JETP Letters, 95, No. 9: 454 (2012).",
+				"tr":  "V. Ya. Kogai, A. V. Vakhrushev, and A. Yu. Fedotov, JETP Letters, 95, No. 9: 454 (2012)."
+			},
+			{
+				"doi": "10.1134/1.2045332",
+				"or":  "L. I. Kveglis, V. A. Seredkin, and A. V. Kuzovnikov, JETP Letters, 82, No. 1: 23 (2005).",
+				"tr":  "L. I. Kveglis, V. A. Seredkin, and A. V. Kuzovnikov, JETP Letters, 82, No. 1: 23 (2005)."
+			},
+			{
+				"doi": "10.1021/cg801337f",
+				"or":  "V. Pore, M. Ritala, M. Leskelä, T. Saukkonen, and M. Järn, Crystal Growth & Design, 9, No. 7: 2974 (2009).",
+				"tr":  "V. Pore, M. Ritala, M. Leskelä, T. Saukkonen, and M. Järn, Crystal Growth & Design, 9, No. 7: 2974 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Векшинский, Новый метод металлографического исследования сплавов (Москва–Ленинград: ОГИЗ: 1944).",
+				"tr":  "S. A. Vekshinskii, Novyy Metod Metallograficheskogo Issledovaniya Splavov (Moscow–Leningrad: OGIZ: 1944) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2016.12.039",
+				"or":  "E. N. Zubarev, A. Yu. Devizenko, O. V. Penkov, V. V. Kondratenko, D. V. Sevriukov, V. A. Sevryukova, and I. A. Kopylets, Thin Solid Films, 622: 84 (2017).",
+				"tr":  "E. N. Zubarev, A. Yu. Devizenko, O. V. Penkov, V. V. Kondratenko, D. V. Sevriukov, V. A. Sevryukova, and I. A. Kopylets, Thin Solid Films, 622: 84 (2017)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2011.06.056",
+				"or":  "E. N. Zubarev, V. V. Kondratenko, Y. P. Pershyn, and V. A. Sevryukova, Thin Solid Films, 520: 314 (2011).",
+				"tr":  "E. N. Zubarev, V. V. Kondratenko, Y. P. Pershyn, and V. A. Sevryukova, Thin Solid Films, 520: 314 (2011)."
+			},
+			{
+				"doi": "10.1002/pssa.201026729",
+				"or":  "A. Zolotaryov, Y. Bugayev, V. Samofalov, O. Devizenko, E. Zubarev, S. Martens, O. Albrecht, D. Gorlitz, and K. Nielsch, phys. status solidi (a), 208, No. 7: 1698 (2011).",
+				"tr":  "A. Zolotaryov, Y. Bugayev, V. Samofalov, O. Devizenko, E. Zubarev, S. Martens, O. Albrecht, D. Gorlitz, and K. Nielsch, phys. status solidi (a), 208, No. 7: 1698 (2011)."
+			},
+			{
+				"doi": "10.1063/1.338122",
+				"or":  "A. K. Petford-Long, M. B. Stearns, C. H. Chang, S. R. Nutt, D. G. Stearns, N. M. Ceglio, and A. M. Hawryluk, J. Appl. Phys., 61, No. 4: 1422 (1987).",
+				"tr":  "A. K. Petford-Long, M. B. Stearns, C. H. Chang, S. R. Nutt, D. G. Stearns, N. M. Ceglio, and A. M. Hawryluk, J. Appl. Phys., 61, No. 4: 1422 (1987)."
+			},
+			{
+				"doi": "10.1063/1.343425",
+				"or":  "K. Holloway, K. B. Do, and R. Sinclair, J. Appl. Phys., 65, No. 2: 474 (1989).",
+				"tr":  "K. Holloway, K. B. Do, and R. Sinclair, J. Appl. Phys., 65, No. 2: 474 (1989)."
+			},
+			{
+				"doi": "10.1063/1.1487919",
+				"or":  "S. Yulin, T. Feigl, T. Kuhlmann, N. Keiser, A. I. Fedorenko, V. V. Kondratenko, O. V. Poltseva, V. A. Sevryukova, A. Y. Zolotaryov, and E. N. Zubarev, J. Appl. Phys., 92: 1216 (2002).",
+				"tr":  "S. Yulin, T. Feigl, T. Kuhlmann, N. Keiser, A. I. Fedorenko, V. V. Kondratenko, O. V. Poltseva, V. A. Sevryukova, A. Y. Zolotaryov, and E. N. Zubarev, J. Appl. Phys., 92: 1216 (2002)."
+			},
+			{
+				"doi": "10.1016/0304-3991(90)90001-3",
+				"or":  "W. C. Shih and W. M. Stobbs, Ultramicroscopy, 32: 219 (1990).",
+				"tr":  "W. C. Shih and W. M. Stobbs, Ultramicroscopy, 32: 219 (1990)."
+			},
+			{
+				"doi": "10.1016/0022-5088(88)90376-1",
+				"or":  "K. Holloway and R. Sinclar, J. Less-Common Met., 140: 139 (1988).",
+				"tr":  "K. Holloway and R. Sinclar, J. Less-Common Met., 140: 139 (1988)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2006.01.070",
+				"or":  "D. L. Voronov, E. N. Zubarev, V. V. Kondratenko, Y. P. Pershin, V. A. Sevryukova, and Y. A. Bugayev, Thin Solid Films, 513: 152 (2006).",
+				"tr":  "D. L. Voronov, E. N. Zubarev, V. V. Kondratenko, Y. P. Pershin, V. A. Sevryukova, and Y. A. Bugayev, Thin Solid Films, 513: 152 (2006)."
+			},
+			{
+				"doi": "10.1016/S0895-3996(05)80013-8",
+				"or":  "V. A. Chernov, N. I. Chkhalo, M. V. Fedorchenko, E. P. Kruglyakov, S. V. Mytnichenko, and S. G. Nikitenko, J. X-Ray Sci. Technol., 5: 65 (1995).",
+				"tr":  "V. A. Chernov, N. I. Chkhalo, M. V. Fedorchenko, E. P. Kruglyakov, S. V. Mytnichenko, and S. G. Nikitenko, J. X-Ray Sci. Technol., 5: 65 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Бугаев, А. Ю. Девизенко, Е. Н. Зубарев, В. А. Севрюкова, В. В. Кондратенко, Металлофиз. новейшие технол., 30, № 11: 1533 (2008).",
+				"tr":  "Y. Bugayev, O. Devizenko, E. Zubarev, V. Sevryukova, and V. Kondratenko, Metallofiz. Noveishie Tekhnol., 30, No. 11: 1533 (2008) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0895-3996(85)80004-5",
+				"or":  "V. A. Chernov, N. I. Chkhalov, M. V. Fedorchenko, E. P. Kruglya, S. V. Mytnichenko, and S. G. Nikitenko, J. X-Ray Sci. Technol., 5: 389 (1995).",
+				"tr":  "V. A. Chernov, N. I. Chkhalov, M. V. Fedorchenko, E. P. Kruglya, S. V. Mytnichenko, and S. G. Nikitenko, J. X-Ray Sci. Technol., 5: 389 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. С. Данилин, В. К. Сарычев, Магнетронные распылительные системы (Москва: Радио и связь: 1982).",
+				"tr":  "B. S. Danilin and V. K. Sarychev, Magnetronnye Raspylitel'nye Sistemy (Moscow: Radio i Svyaz: 1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. П. Першин, В. А. Севрюкова, Е. Н. Зубарев, А. С. Оберемок, В. П. Мельник, Б. Н. Романюк, В. Г. Попов, П. М. Литвин, Металлофиз. новейшие технол., 35, № 12: 1617 (2013).",
+				"tr":  "Yu. P. Pershin, V. A. Sevryukova, E. N. Zubarev, A. S. Oberemok, V. P. Melnik, B. N. Romanyuk, V. G. Popov, and P. M. Litvin, Metallofiz. Noveishie Tekhnol., 35, No. 12: 1617 (2013) (in Russian)."
+			}
+		]
+	}
+}

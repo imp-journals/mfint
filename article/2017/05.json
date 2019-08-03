@@ -1,0 +1,172 @@
+{
+	"year":   2017,
+	"volume": 39,
+	"issue":  5,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [567,578],
+			"title": {
+				"ua": "Режими та напруги двійникування перерозподілів мартенситних варіянтів у білястехіометричному Ni$_{2}$MnGa-монокристалі",
+				"en": "Modes and Twinning Stresses of Martensite Variants Rearrangements in Near-Stoichiometric Ni$_{2}$MnGa Single Crystal",
+				"ru": "Режимы и напряжения двойникования перераспределений мартенситных вариантов в околостехиометрическом Ni$_{2}$MnGa-монокристалле"
+			},
+			"autors": {
+				"ua": "В. К. Сульженко, В. А. Білошапка",
+				"en": "V. Soolshenko and V. Beloshapka",
+				"ru": "В. К. Сульженко, В. А. Белошапка"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [579,591],
+			"title": {
+				"ua": "Ефект «поважчання частинок» у температурній залежності тепломісткости упорядковних стопів втілення V$_{2}$D",
+				"en": "The ‘Particle Weighting’ Effect in the Heat Capacity Temperature Dependence of the V$_{2}$D Ordering Interstitial Alloys",
+				"ru": "Эффект «утяжеления частиц» в температурной зависимости теплоёмкости упорядочивающихся сплавов внедрения V$_{2}$D"
+			},
+			"autors": {
+				"ua": "Н. З. Наморадзе, І. Г. Ратишвилі",
+				"en": "N. Z. Namoradze and I. G. Ratishvili",
+				"ru": "Н. З. Наморадзе, И. Г. Ратишвили"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [593,606],
+			"title": {
+				"ua": "Рухливість Гідроґену та його взаємодія з дислокаціями в стопі на основі ніклю Inconel 718",
+				"en": "Hydrogen Mobility and Its Interaction with Dislocations in Nickel-Based Inconel 718 Alloy",
+				"ru": "Подвижность водорода и его взаимодействие с дислокациями в сплаве на основе никеля Inconel 718"
+			},
+			"autors": {
+				"ua": "С. М. Теус",
+				"en": "S. M. Teus",
+				"ru": "С. М. Теус"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [607,620],
+			"title": {
+				"ua": "Сеґреґаційне подрібнення зеренної структури алюмінію та його стопів",
+				"en": "Segregation Refinement of the Grain Structure of Aluminium and Its Alloys",
+				"ru": "Сегрегационное измельчение зёренной структуры алюминия и его сплавов"
+			},
+			"autors": {
+				"ua": "Є. В. Луценко, В. А. Крещенко, М. Д. Рудь, О. В. Соболь, М. О. Глущенко, А. І. Зубков",
+				"en": "E. V. Lutsenko, V. A. Kreshchenko, M. D. Rud’, O. V. Sobol’, M. A. Glushchenko, and A. I. Zubkov",
+				"ru": "Е. В. Луценко, В. А. Крещенко, Н. Д. Рудь, О. В. Соболь, М. А. Глущенко, А. И. Зубков"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [621,632],
+			"title": {
+				"ua": "Мессбаверівське й ультразвукове дослідження литих високоентропійних стопів Al$_{x}$FeNiCoCuCr",
+				"en": "Mössbauer and Ultrasonic Study of the As-Cast High-Entropy Al$_{x}$CuCrCoNiFe Alloys",
+				"ru": "Мёссбауэровское и ультразвуковое исследование литых высокоэнтропийных сплавов Al$_{x}$FeCoNiCuCr"
+			},
+			"autors": {
+				"ua": "В. М. Надутов, О. І. Запорожець, С. Ю. Макаренко, М. О. Дордієнко, В. А. Михайловський",
+				"en": "V. M. Nadutov, O. I. Zaporozhets, S. Yu. Makarenko, M. O. Dordienko, and V. A. Mikhaylovsky",
+				"ru": "В. М. Надутов, О. И. Запорожец, С. Ю. Макаренко, Н. А. Дордиенко, В. А. Михайловский"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [633,644],
+			"title": {
+				"ua": "Вплив відпалу на еволюцію фазового складу, структури та фізико-механічних властивостей високоентропійного стопу CrMnFeCoNi$_{2}$Cu",
+				"en": "Effect of Annealing on the Phase Composition, Microstructure and Physical-Mechanical Properties’ Evolution of High-Entropy CrMnFeCoNi$_{2}$Cu Alloy",
+				"ru": "Влияние отжига на эволюцию фазового состава, структуры и физико-механических свойств высокоэнтропийного сплава CrMnFeCoNi$_{2}$Cu"
+			},
+			"autors": {
+				"ua": "О. М. Мисливченко, М. О. Крапівка, В. Ф. Горбань, М. В. Карпець, О. А. Рокицька",
+				"en": "O. M. Myslyvchenko, M. O. Krapіvka, V. F. Gorban’, M. V. Karpets, and O. A. Rokitska",
+				"ru": "А. Н. Мысливченко, Н. А. Крапивка, В. Ф. Горбань, М. В. Карпец, Е. А. Рокицкая"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [645,655],
+			"title": {
+				"ua": "Властивості магнетном’яких нанокристалічних стопів типу Fe–B–P–Nb–Cr з високою індукцією насичення",
+				"en": "Properties of the Soft-Magnetic Nanocrystalline Fe–B–P–Nb–Cr Alloys with a High Saturation Induction",
+				"ru": "Свойства магнитномягких нанокристаллических сплавов типа Fe–B–P–Nb–Cr с высокой индукцией насыщения"
+			},
+			"autors": {
+				"ua": "Є. І. Ярмощук, Т. М. Міка, А. В. Носенко, Г. М. Зелінська, М. П. Семенько",
+				"en": "Ye. I. Yarmoshchuk, T. M. Mika, A. V. Nosenko, G. M. Zelinska, and M. P. Semen’ko",
+				"ru": "Е. И. Ярмощук, Т. М. Мика, А. В. Носенко, Г. М. Зелинская, М. П. Семенько"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [657,664],
+			"title": {
+				"ua": "Енергія утворення вакансій для зарядженого та нейтрального станів кристалу TlGaSe$_{2}$",
+				"en": "Vacancy Formation Energy for the Charged and Neutral States of TlGaSe$_{2}$ Crystal",
+				"ru": "Энергия образования вакансий для заряженного и нейтрального состояний кристалла TlGaSe$_{2}$"
+			},
+			"autors": {
+				"ua": "Н. А. Ісмайилова, Г. С. Оруджев",
+				"en": "N. A. Ismayilova and G. S. Orudzhev",
+				"ru": "Н. А. Исмайылова, Г. С. Оруджев"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [665,675],
+			"title": {
+				"ua": "Характеризація Mo–V–N-покриттів, нанесених на підкладинку XC100 розпорошувальним катодним магнетроном",
+				"en": "Characterisation of Mo–V–N Coatings Deposited on XC100 Substrate by Sputtering Cathodic Magnetron",
+				"ru": "Характеризация Mo–V–N-покрытий, нанесённых на подложку XC100 распылительным катодным магнетроном"
+			},
+			"autors": {
+				"ua": "Брагім Шармім, Абдельазіз Аббуді, Хамид Джебейлі, Мурад Бріуа",
+				"en": "Brahim Chermime, Abdelaziz Abboudi, Hamid Djebaili, and Mourad Brioua",
+				"ru": "Брахим Шармим, Абдельазиз Аббуди, Хамид Джебейли, Мурад Бриуа"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [677,691],
+			"title": {
+				"ua": "Вплив середовища відпалу на формування нанорозмірних плівок Co–Sb — функціональних термоелектричних елементів",
+				"en": "Effect of the Annealing Atmosphere on the Formation of Nanoscale Co–Sb Films—Functional Thermoelectric Elements",
+				"ru": "Влияние среды отжига на формирование наноразмерных плёнок Co–Sb — функциональных термоэлектрических элементов"
+			},
+			"autors": {
+				"ua": "Ю. М. Макогон, С. І. Сидоренко, Р. А. Шкарбань",
+				"en": "Yu. M. Makogon, S. I. Sidorenko, and R. А. Shkarban",
+				"ru": "Ю. Н. Макогон, С. И. Сидоренко, Р. А. Шкарбань"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [693,708],
+			"title": {
+				"ua": "Особливості формування та трансформування кластерів наночастинок Fe$_{3}$O$_{4}$ в магнетній рідині під дією довготривалого імпульсу магнетного поля",
+				"en": "Features of Formation and Transformation of Fe$_{3}$O$_{4}$-Nanoparticle Clusters in a Magnetic Fluid under the Long-Term Magnetic-Field Pulse Action",
+				"ru": "Особенности формирования и трансформирования кластеров наночастиц Fe$_{3}$O$_{4}$ в магнитной жидкости под действием длительного импульса магнитного поля"
+			},
+			"autors": {
+				"ua": "С. І. Шулима, Б. М. Танигін, В. Ф. Коваленко, М. В. Петричук",
+				"en": "S. I. Shulyma, B. M. Tanygin, V. F. Kovalenko, and M. V. Petrychuk",
+				"ru": "С. И. Шулыма, Б. Н. Таныгин, В. Ф. Коваленко, М. В. Петричук"
+			}
+		}
+	]
+}

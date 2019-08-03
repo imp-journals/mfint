@@ -1,0 +1,142 @@
+{
+	"year":   2014,
+	"volume": 36,
+	"issue":  5,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [575,588],
+			"title": {
+				"ua": "Магнітні фазові діаграми двокомпонентних невпорядкованих ОЦК-стопів заміщення з сильними електронними кореляціями",
+				"en": "Magnetic Phase Diagrams of Two-Component Disordered B.C.C. Substitutional Alloys with Strong Electron Correlations",
+				"ru": "Магнитные фазовые диаграммы двухкомпонентных неупорядоченных ОЦК-сплавов замещения с сильными электронными корреляциями"
+			},
+			"autors": {
+				"ua": "В. В. Лізунов, Є. Г. Лень, І. М. Мельник, М. В. Ушаков, Т. С. Лень, В. А. Татаренко",
+				"en": "V. V. Lizunov, E. G. Len, I. M. Melnyk, M. V. Ushakov, T. S. Len, and V. A. Tatarenko",
+				"ru": "В. В. Лизунов, Е. Г. Лень, И. Н. Мельник, Н. В. Ушаков, Т. С. Лень, В. А. Татаренко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [589,596],
+			"title": {
+				"ua": "Ab initio розрахунок магнітної взаємодії крайової дислокації та домішки кисню в кремнії",
+				"en": "Ab Initio Calculation of Magnetic Interaction Between Edge Dislocation and Oxygen Impurity in Silicon",
+				"ru": "Ab initio расчёт магнитного взаимодействия краевой дислокации и примеси кислорода в кремнии"
+			},
+			"autors": {
+				"ua": "І. В. Плющай, О. І. Плющай, В. А. Макара",
+				"en": "I. V. Plyushchay, O. I. Plyushchay, and V. A. Makara",
+				"ru": "И. В. Плющай, А. И. Плющай, В. А. Макара"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [597,611],
+			"title": {
+				"ua": "Дослідження наночастинок золота на TiO$_{2}$-підкладці методами РФЕС/ЧП-ВІМС: вплив каталітичного окислення CO",
+				"en": "XPS/ToF-SIMS Characterization of TiO$_{2}$ Supported Au Nanoparticles: Effect of Catalytic CO Oxidation",
+				"ru": "Исследование наночастиц золота на TiO$_{2}$-подложке методами РФЭС/ВП-ВИМС: влияние каталитического окисления CO"
+			},
+			"autors": {
+				"ua": "С. П. Ченакін, Н. Крузе, М. О. Васильєв, І. М. Макеєва",
+				"en": "S. P. Chenakin, N. Kruse, M. A. Vasylyev, and I. N. Makeeva",
+				"ru": "С. П. Ченакин, Н. Крузе, М. А. Васильев, И. Н. Макеева"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [613,632],
+			"title": {
+				"ua": "Структура та фотокаталітичні властивості наноплівок діоксиду титану, осаджених методом реактивного магнетронного напилення",
+				"en": "Structure and Photocatalytic Properties of Titania Nanofilms Deposited by Reactive Magnetron Sputtering",
+				"ru": "Структура и фотокаталитические свойства наноплёнок диоксида титана, осаждённых методом реактивного магнетронного напыления"
+			},
+			"autors": {
+				"ua": "О. А. Гончаров, А. М. Добровольський, Є. Г. Костін, І. С. Петрик, О. К. Фролова",
+				"en": "A. A. Goncharov, A. N. Dobrovolsky, E. G. Kostin, I. S. Petrik, and E. K. Frolova",
+				"ru": "А. А. Гончаров, А. Н. Добровольский, Е. Г. Костин, И. С. Петрик, Е. К. Фролова"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [633,647],
+			"title": {
+				"ua": "Моделювання розриву атомних зв’язків у лінійному моноатомному вуглецевому ланцюжку в широкому інтервалі температур",
+				"en": "Simulation of Atomic-Bonds’ Break in Linear Monatomic Carbon Chain within the Wide Temperature Range",
+				"ru": "Моделирование разрыва атомных связей в линейной моноатомной углеродной цепочке в широком интервале температур"
+			},
+			"autors": {
+				"ua": "С. О. Котречко, Т. І. Мазилова, І. М. Михайлівський, Г. П. Зіміна, Є. В. Саданов",
+				"en": "S. O. Kotrechko, T. I. Mazilova, I. M. Mikhailovskij, G. P. Zimina, and E. V. Sadanov",
+				"ru": "С. А. Котречко, Т. И. Мазилова, И. М. Михайловский, Г. П. Зимина, Е. В. Саданов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [649,660],
+			"title": {
+				"ua": "Мікроструктура і механічні властивості заевтектичного стопу Al—Si після інтенсивної пластичної деформації",
+				"en": "Microstructure and Mechanical Properties of Hypereutectic Al—Si Alloy after Severe Plastic Deformation",
+				"ru": "Микроструктура и механические свойства заэвтектического сплава Al—Si после интенсивной пластической деформации"
+			},
+			"autors": {
+				"ua": "В. З. Спусканюк, А. Л. Березина, В. І. Дубодєлов, О. А. Давиденко, В. Н. Фікссен, К. І. Слива, Т. О. Монастирськая, А. Н. Гангало",
+				"en": "V. Z. Spuskanyuk, A. L. Berezina, V. I. Dubodelov, О. A. Davydenko, V. N. Fixssen, K. I. Sliva, T. O. Monastyrska, and A. N. Gangalo",
+				"ru": "В. З. Спусканюк, А. Л. Березина, В. И. Дубоделов, А. А. Давиденко, В. Н. Фикссен, К. И. Слива, Т. А. Монастырская, А. Н. Гангало"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [661,688],
+			"title": {
+				"ua": "Про фізичну природу виникнення дефектів типу «матові плями» при контактному зварюванні маґістральних трубопроводів з ферито-перлітних сталей",
+				"en": "On the Physical Nature of Formation of the ‘Dead Spots’ Type Defects in the Case of Contact Welding of Main Pipelines from Hypopearlitic Steels",
+				"ru": "О физической природе возникновения дефектов типа «матовые пятна» при контактной сварке магистральных трубопроводов из феррито-перлитных сталей"
+			},
+			"autors": {
+				"ua": "С. І. Губенко, С. І. Журавльов, Н. А. Коновалов, Д. А. Лобус, С. П. Ошкадьоров, С. І. Полосков, А. Н. Теренін",
+				"en": "S. I. Gubenko, S. I. Zhuravlyov, N. A. Konovalov, D. A. Lobus, S. P. Oshkadyorov, S. I. Poloskov, and A. N. Terenin",
+				"ru": "С. И. Губенко, С. И. Журавлёв, Н. А. Коновалов, Д. А. Лобус, С. П. Ошкадёров, С. И. Полосков, А. Н. Теренин"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [689,704],
+			"title": {
+				"ua": "Рушійна сила процесу наводнення металів. ІІ. Титан литий",
+				"en": "Driving Force of Metals Hydrogenation Process. ІІ. As Cast Titanium",
+				"ru": "Движущая сила процесса наводораживания металлов. ІІ. Титан литой"
+			},
+			"autors": {
+				"ua": "А. А. Школа",
+				"en": "A. A. Shkola",
+				"ru": "А. А. Школа"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [705,711],
+			"title": {
+				"ua": "Кінетика зародкування за комірчастого розпаду твердих розчинів в стопах системи мідь—титан",
+				"en": "The Kinetics of Nucleation During Cellular Decomposition of Solid Solutions in Copper—Titanium Alloys",
+				"ru": "Кинетика образования зародышей при ячеистом распаде твёрдых растворов в сплавах системы медь—титан"
+			},
+			"autors": {
+				"ua": "Т. С. Гаценко",
+				"en": "T. S. Gatsenko",
+				"ru": "Т. С. Гаценко"
+			}
+		}
+	]
+}

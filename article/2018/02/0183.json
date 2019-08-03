@@ -1,0 +1,186 @@
+{
+	"_id":    "MFiNT.40.02.0183",
+	"year":   2018,
+	"volume": 40,
+	"issue":  2,
+	"pages":  [183,199],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["08.12.2016","08.01.2018"],
+	"PACS":   "61.72.Bb, 62.20.F-, 62.20.mm, 62.23.Hj, 62.25.Mn, 81.07.Gf, 83.10.Rs",
+	"title":   {
+		"ua": "Вплив кристалографічної орієнтації на закономірності розмірного ефекту при розтяганні нанодроту молібдену",
+		"en": "Influence of Crystallographic Orientation on Regularities of Size Effect under a Tension of a Nanowire of Molybdenum",
+		"ru": "Влияние кристаллографической ориентации на закономерности размерного эффекта при растяжении нанопроволоки молибдена"
+	},
+	"abstract": {
+		"ua": "Методою молекулярної динаміки встановлено закономірності впливу діяметра нанодроту Mo на його міцність для трьох кристалографічних орієнтацій [100], [110] і [111] при двох температурах 77 і 300 К. Виявлено наявність розмірного ефекту при діяметрах зразків, менших за 4 нм. Для циліндричних нанозразків з орієнтацією [100] розмірний ефект проявляється у збільшенні міцности на 17% при зменшенні діяметра зразка з 4 до 1 нм. У той же час при розтягненні цих нанозразків у напрямках [110] і [111] спостерігається аномальний розмірний ефект, який проявляється у падінні міцности до 14%. Показано, що причиною наявности цих протилежних тенденцій у прояві розмірного ефекту є утворення в нанорозмірному зразку різних типів дефектів, а саме, нерівноважних двійників при розтязі в напрямку [100] і нерівноважних дислокацій при розтязі в напрямках [110] та [111].",
+		"en": "The influence of diameter of the Mo single-crystal nanowires on their strength for the three crystallographic orientations [100], [110] and [111] at temperatures of 77 and 300 K is revealed by means of the use of molecular-dynamic simulations. The existence of size effect in samples with diameter less than 4 nm is discovered. For cylindrical nanospecimen with the [100] orientation, size effect consists in the increase of strength by 17% with sample diameter decreasing from 4 to 1 nm. At the same time, when these nanospecimens are stretched along the [110] and [111] directions, an anomalous size effect is observed that manifests itself in a strength decreasing up to 14%. As shown, the reason for existence of these opposite tendencies in the manifestation of size effect is formation of different types of defects in nanosize specimens, namely, non-equilibrium twins under tension along the [100] direction and non-equilibrium dislocations under tension along the [110] and [111] directions.",
+		"ru": "Методом молекулярной динамики установлены закономерности влияния диаметра нанопроволок Mo на их прочность для трёх кристаллографических ориентаций [100], [110] и [111] при двух температурах 77 и 300 К. Обнаружено существование размерного эффекта при диаметрах образцов, меньших 4 нм. Для цилиндрических нанообразцов ориентации [100] размерный эффект проявляется в увеличении прочности на 17% при уменьшении диаметра образца с 4 до 1 нм. В то же время при растяжении этих нанообразцов в направлениях [110] и [111] наблюдается аномальный размерный эффект, который проявляется в падении прочности до 14%. Показано, что причиной существования этих противоположных тенденций в проявлении размерного эффекта является образование в наноразмерном образце различных типов дефектов, а именно, неравновесных двойников при растяжении в направлении [100] и неравновесных дислокаций при растяжении в направлениях [110] и [111]."
+	},
+	"keywords": {
+		"ua": "нанодроти ОЦК-металів, міцність, розмірний ефект, локальна нестабільність, поверхневий натяг",
+		"en": "b.c.c. nanowires, strength, size effect, local instability, surface tension",
+		"ru": "нанопроволоки ОЦК-металлов, прочность, размерный эффект, локальная нестабильность, поверхностное натяжение"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. О. Котречко", "en": "S. О. Kotrechko", "ru": "С. А. Котречко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. В. Овсянніков", "en": "O. V. Ovsyannikov", "ru": "А. В. Овсянников"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. В. Лідич", "en": "V. V. Lidych", "ru": "В. В. Лидич"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 28,
+		"list":  [
+			{
+				"doi": "10.1016/j.msea.2007.08.093",
+				"or":  "J. R. Greer, C. R. Weinberger, and W. Cai, Mater. Sci. Eng. A, 493, Iss. 1–2: 21 (2008).",
+				"tr":  "J. R. Greer, C. R. Weinberger, and W. Cai, Mater. Sci. Eng. A, 493, Iss. 1–2: 21 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.100.155502",
+				"or":  "S. Brinckmann, J. Kim, and J. R. Greer, Phys. Rev. Lett., 100: 155502 (2008).",
+				"tr":  "S. Brinckmann, J. Kim, and J. R. Greer, Phys. Rev. Lett., 100: 155502 (2008)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2008.05.030",
+				"or":  "H. Bei, S. Shim, G. M. Pharr, and E. P. George, Acta Mater., 56: 4762 (2008).",
+				"tr":  "H. Bei, S. Shim, G. M. Pharr, and E. P. George, Acta Mater., 56: 4762 (2008)."
+			},
+			{
+				"doi": "10.1063/1.2979684",
+				"or":  "J. Kim and J. R. Greer, Appl. Phys. Lett., 93: 101916 (2008).",
+				"tr":  "J. Kim and J. R. Greer, Appl. Phys. Lett., 93: 101916 (2008)."
+			},
+			{
+				"doi": "10.1126/science.1098993",
+				"or":  "M. D. Uchic, D. M. Dimiduk, J. N. Florando, and W. D. Nix, Science, 305: 986 (2004).",
+				"tr":  "M. D. Uchic, D. M. Dimiduk, J. N. Florando, and W. D. Nix, Science, 305: 986 (2004)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2004.12.031",
+				"or":  "J. R. Greer, W. C. Oliver, and W. D. Nix, Acta Mater., 53: 1821 (2005).",
+				"tr":  "J. R. Greer, W. C. Oliver, and W. D. Nix, Acta Mater., 53: 1821 (2005)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2007.09.044",
+				"or":  "A. Rinaldi, P. Peralta, C. Friesen, and K. Sieradzki, Acta Mater., 56: 511 (2008).",
+				"tr":  "A. Rinaldi, P. Peralta, C. Friesen, and K. Sieradzki, Acta Mater., 56: 511 (2008)."
+			},
+			{
+				"doi": "10.1016/j.ijplas.2011.05.015",
+				"or":  "J. Kim, D. Jang, and J. R. Greer, Int. J. Plast., 28: 46 (2012).",
+				"tr":  "J. Kim, D. Jang, and J. R. Greer, Int. J. Plast., 28: 46 (2012)."
+			},
+			{
+				"doi": "10.1088/1468-6996/10/4/045004",
+				"or":  "A. P. Shpak, S. O. Kotrechko, T. I. Mazilova, and I. M. Mikhailovskij, Sci. Technol. Adv. Mater., 10: 045004 (2009).",
+				"tr":  "A. P. Shpak, S. O. Kotrechko, T. I. Mazilova, and I. M. Mikhailovskij, Sci. Technol. Adv. Mater., 10: 045004 (2009)."
+			},
+			{
+				"doi": "10.1080/09500839.2011.559178",
+				"or":  "T. I. Mazilova, V. A. Ksenofontov, V. N. Voyevodin, E. V. Sadanov, and I. M. Mikhailovskij, Philos. Mag. Lett., 91, No. 4: 304 (2011).",
+				"tr":  "T. I. Mazilova, V. A. Ksenofontov, V. N. Voyevodin, E. V. Sadanov, and I. M. Mikhailovskij, Philos. Mag. Lett., 91, No. 4: 304 (2011)."
+			},
+			{
+				"doi": "10.1016/j.commatsci.2009.02.015",
+				"or":  "Z. Yang, Z. Lu, and Y. Zhao, Comp. Mater. Sci., 46: 142 (2009).",
+				"tr":  "Z. Yang, Z. Lu, and Y. Zhao, Comp. Mater. Sci., 46: 142 (2009)."
+			},
+			{
+				"doi": "10.1021/nl048456s",
+				"or":  "K. Gall, J. Diao, and M. L. Dunn, Nano Lett., 4, No. 12: 2431 (2004).",
+				"tr":  "K. Gall, J. Diao, and M. L. Dunn, Nano Lett., 4, No. 12: 2431 (2004)."
+			},
+			{
+				"doi": "10.1016/j.mechrescom.2005.05.012",
+				"or":  "H. A. Wu, Mech. Res. Commun., 33: 9 (2006).",
+				"tr":  "H. A. Wu, Mech. Res. Commun., 33: 9 (2006)."
+			},
+			{
+				"doi": "10.1016/j.jmps.2007.01.001",
+				"or":  "W. Lianga, D. J. Srolovitz, and M. Zhoua, J. Mech. Phys. Solids, 55, Iss. 8: 1729 (2007).",
+				"tr":  "W. Lianga, D. J. Srolovitz, and M. Zhoua, J. Mech. Phys. Solids, 55, Iss. 8: 1729 (2007)."
+			},
+			{
+				"doi": "10.1002/adfm.200600735",
+				"or":  "A. M. Leach, M. McDowell, and K. Gall, Adv. Funct. Mater., 17: 43 (2007).",
+				"tr":  "A. M. Leach, M. McDowell, and K. Gall, Adv. Funct. Mater., 17: 43 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "С. О. Котречко, О. В. Овсянніков, В. В. Лідич, Металлофиз. новейшие технол., 34, № 11: 1517 (2012).",
+				"tr":  "S. O. Kotrechko, O. V. Ovsjannikov, and V. V. Lidych, Metallofiz. Noveishie Tekhnol., 34, No. 11: 1517 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/j.commatsci.2015.09.055",
+				"or":  "G. Sainath and B. K. Choudhary, Comput. Mater. Sci., 111: 406 (2016).",
+				"tr":  "G. Sainath and B. K. Choudhary, Comput. Mater. Sci., 111: 406 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "S. O. Kotrechko, A. N. Timoshevskij, S. O. Yablonovskii, I. M. Mikhailovskij, T. I. Mazilova, and V. V. Lidych, Procedia Mater. Sci., No. 3: 391 (2014).",
+				"tr":  "S. O. Kotrechko, A. N. Timoshevskij, S. O. Yablonovskii, I. M. Mikhailovskij, T. I. Mazilova, and V. V. Lidych, Procedia Mater. Sci., No. 3: 391 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Г. Гордієнко, Металлофиз. новейшие технол., 33, № 9: 1217 (2011).",
+				"tr":  "Yu. G. Gordienko, Metallofiz. Noveishie Tekhnol., 33, No. 9: 1217 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/mfint.36.09.1207",
+				"or":  "О. С. Гаценко, О. Е. Засимчук, П. О. Теселько, С. Г. Стіренко, Ю. Г. Гордієнко, Металлофиз. новейшие технол., 36, № 9: 1207 (2014).",
+				"tr":  "O. S. Gatsenko, O. E. Zasymchuk, P. O. Tesel'ko, S. G. Stirenko, and Yu. G. Gordienko, Metallofiz. Noveishie Tekhnol., 36, No. 9: 1207 (2014) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. P. Allen and T. J. Tildesley, Computer Simulation of Liquids (Oxford: Clarendon Press: 1991).",
+				"tr":  "M. P. Allen and T. J. Tildesley, Computer Simulation of Liquids (Oxford: Clarendon Press: 1991)."
+			},
+			{
+				"doi": "10.1080/01418618408244210",
+				"or":  "M. W. Finnis and J. E. Sinclair, Philos. Mag. A, 50, No. 45: 45 (1984).",
+				"tr":  "M. W. Finnis and J. E. Sinclair, Philos. Mag. A, 50, No. 45: 45 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Котречко, Ю. Я. Мешков, Предельная прочность (Киев: Наукова думка: 2009).",
+				"tr":  "S. A. Kotrechko and Yu. Ya. Meshkov, Predel'naya Prochnost' [Ultimate Strength] (Kyiv: Naukova Dumka: 2009) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2005.10.008",
+				"or":  "J. K. Diao, K. Gall, M. L. Dunn, and J. A. Zimmerman, Acta Mater., 54: 643 (2006).",
+				"tr":  "J. K. Diao, K. Gall, M. L. Dunn, and J. A. Zimmerman, Acta Mater., 54: 643 (2006)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.75.085408",
+				"or":  "H. S. Park and P. A. Klein, Phys. Rev. B, 75: 085408 (2007).",
+				"tr":  "H. S. Park and P. A. Klein, Phys. Rev. B, 75: 085408 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Котречко, Ю. Я. Мешков, А. В. Овсянников, Деформация и разрушение материалов, № 11: 2 (2009).",
+				"tr":  "S. A. Kotrechko, Yu. Ya. Meshkov, and A. V. Ovsyannikov, Deformatsiya i Razrushenie Materialov, No. 11: 2 (2009) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.3660251",
+				"or":  "P. Wang, W. Chou, A. Nie, Y. Huang, H. Yao, and H. Wang, J. Appl. Phys., 110: 093521 (2011).",
+				"tr":  "P. Wang, W. Chou, A. Nie, Y. Huang, H. Yao, and H. Wang, J. Appl. Phys., 110: 093521 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, С. А. Котречко, А. В. Филатов, А. В. Овсянников, Деформация и разрушение материалов, № 11: 13 (2006).",
+				"tr":  "A. P. Shpak, S. A. Kotrechko, A. V. Filatov, and A. V. Ovsyannikov, Deformatsiya i Razrushenie Materialov, No. 11: 13 (2006) (in Russian)."
+			}
+		]
+	}
+}

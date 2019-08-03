@@ -1,0 +1,142 @@
+{
+	"year":   2016,
+	"volume": 38,
+	"issue":  5,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [565,599],
+			"title": {
+				"ua": "Вплив тиску на псевдощілину в Bi2223: купрати не є сильно пов’язаними надпровідниками",
+				"en": "Effect of Pressure on the Pseudogap in Bi2223: Cuprates Are Not Strongly Coupled Superconductors",
+				"ru": "Влияние давления на псевдощель в Bi2223: купраты не являются сильно связанными сверхпроводниками"
+			},
+			"autors": {
+				"ua": "А. І. Дьяченко, В. Ю. Таренков, В. В. Кононенко, Е. М. Руденко",
+				"en": "A. I. D’yachenko, V. Yu. Tarenkov, V. V. Kononenko, and E. M. Rudenko",
+				"ru": "А. И. Дьяченко, В. Ю. Таренков, В. В. Кононенко, Э. М. Руденко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [601,616],
+			"title": {
+				"ua": "Вплив заміщення йонів Ніклю немагнетними йонами Кадмію на структурні і оптичні властивості фериту ніклю",
+				"en": "Effect of Nickel-Ions’ Substitution with Nonmagnetic Cadmium Ions on the Structural and Optical Properties of Nickel Ferrite",
+				"ru": "Влияние замещения ионов никеля немагнитными ионами кадмия на структурные и оптические свойства феррита никеля"
+			},
+			"autors": {
+				"ua": "В. С. Бушкова, Б. К. Остафійчук, І. П. Яремій, М. Л. Мохнацький",
+				"en": "V. S. Bushkova, B. K. Ostafiychuk, I. P. Yaremij, and M. L. Mokhnatskyi",
+				"ru": "В. С. Бушкова, Б. К. Остафийчук, И. П. Яремий, М. Л. Мохнацкий"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [617,633],
+			"title": {
+				"ua": "Особливості формування кристалографічної текстури та залишкових напружень у титановому стопі ВТ22 після комплексної дії інтенсивної термомеханічної обробки та швидкісного нагрівання",
+				"en": "Features of Crystallographic Texture and Residual-Stresses’ Formation in Titanium VT22 Alloy under Combined Action of Intensive Thermomechanical Processing and Rapid Heating",
+				"ru": "Особенности формирования кристаллографической текстуры и остаточных напряжений в титановом сплаве ВТ22 после комплексного воздействия интенсивной термомеханической обработки и скоростного нагрева"
+			},
+			"autors": {
+				"ua": "О. П. Карасевська, П. Є. Марковський, С. Л. Антонюк, І. М. Гавриш",
+				"en": "O. P. Karasevska, P. E. Markovsky, S. L. Antonyuk, and I. M. Havrysh",
+				"ru": "О. П. Карасевская, П. Е. Марковский, С. Л. Антонюк, И. М. Гавриш"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [635,645],
+			"title": {
+				"ua": "Модель процесу ущільнення пористого порошкового пружно-в’язкого матеріалу при електроспіканні",
+				"en": "Model of Compaction Process of a Porous Powder Elastic-Viscous Material at Electric Sintering",
+				"ru": "Модель процесса уплотнения пористого порошкового упруго-вязкого материала при электроспекании"
+			},
+			"autors": {
+				"ua": "О. І. Райченко",
+				"en": "O. I. Raichenko",
+				"ru": "А. И. Райченко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [647,656],
+			"title": {
+				"ua": "Вплив дисперсности частинок йодиду міді на електрофізичні властивості композитів на основі поліхлортрифторетилену",
+				"en": "Effect of Dispersion of Copper-Iodide Particles on the Electrical Properties of Composites Based on Polychlortrifluoroethylene",
+				"ru": "Влияние дисперсности частиц йодида меди на электрофизические свойства композитов на основе полихлортрифторэтилена"
+			},
+			"autors": {
+				"ua": "Р. В. Мазуренко, С. Н. Махно, Г. М. Гуня, П. П. Горбик",
+				"en": "R. V. Mazurenko, S. M. Makhno, G. M. Gunya, and P. P. Gorbyk",
+				"ru": "Р. В. Мазуренко, С. Н. Махно, Г. М. Гуня, П. П. Горбик"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [657,668],
+			"title": {
+				"ua": "Мікрохвильові властивості та анізотропія електропровідності композитів з орієнтованими багатошаровими вуглецевими нанотрубками в епоксидній смолі",
+				"en": "Microwave Properties and Conductivity Anisotropy of Oriented Multiwalled Carbon Nanotube/Epoxy Composites",
+				"ru": "Микроволновые свойства и анизотропия электропроводности композитов с ориентированными многослойными углеродными нанотрубками в эпоксидной смоле"
+			},
+			"autors": {
+				"ua": "Л. Л. Вовченко, В. В. Загородній, О. С. Яковенко, Л. Ю. Мацуй, В. В. Олійник, В. Л. Лаунець",
+				"en": "L. L. Vovchenko, V. V. Zagorodnii, O. S. Yakovenko, L. Yu. Matzui, V. V. Oliynyk, and V. L. Launets",
+				"ru": "Л. Л. Вовченко, В. В. Загородний, Е. С. Яковенко, Л. Ю. Мацуй, В. В. Олейник, В. Л. Лаунец"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [669,682],
+			"title": {
+				"ua": "Ефект «дифузійного насосу» в нанорозмірних металевих композиціях",
+				"en": "Effect of the ‘Diffusion Pump’ in Nanosize Metal Compositions",
+				"ru": "Эффект «диффузионного насоса» в наноразмерных металлических композициях"
+			},
+			"autors": {
+				"ua": "А. І. Олешкевич, О. В. Науменко, І. А. Владимирський, С. М. Волошко, С. І. Сидоренко",
+				"en": "A. I. Oleshkevych, O. V. Naumenko, I. A. Vladymyrskyi, S. M. Voloshko, and S. I. Sidorenko",
+				"ru": "А. И. Олешкевич, О. В. Науменко, И. А. Владимирский, С. М. Волошко, С. И. Сидоренко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [683,695],
+			"title": {
+				"ua": "Фізико-хемічний стан поверхні стопу ВТ6 після піскоструминного оброблення у рідкому азоті",
+				"en": "Physicochemical State of the Ti6Al4V Surface after Sand Blasting in Liquid Nitrogen",
+				"ru": "Физико-химическое состояние поверхности сплава ВТ6 после пескоструйной обработки в жидком азоте"
+			},
+			"autors": {
+				"ua": "М. О. Васильєв, Л. Ф. Яценко, С. М. Волошко, П. О. Гурин",
+				"en": "M. O. Vasylyev, L. F. Yatsenko, S. M. Voloshko, and P. O. Gurin",
+				"ru": "М. А. Васильев, Л. Ф. Яценко, С. М. Волошко, П. А. Гурин"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [697,707],
+			"title": {
+				"ua": "Вплив вмісту титану на параметри взаємодії у системі Sm$_{2}$Co$_{17-x}$Ti$_{x}$—Н$_{2}$ (x = 1,7; 0,95; 0,5; 0,2 і 0,1)",
+				"en": "Influence of Titanium Content on Interaction Parameters in the Sm$_{2}$Co$_{17-x}$Ti$_{x}$—Н$_{2}$ (x = 1.7; 0.95; 0.5; 0.2; 0.1)",
+				"ru": "Влияние содержания титана на параметры взаимодействия в системе Sm$_{2}$Co$_{17-x}$Ti$_{x}$—Н$_{2}$ (x = 1,7; 0,95; 0,5; 0,2 і 0,1)"
+			},
+			"autors": {
+				"ua": "І. І. Булик, М. В. Пилат",
+				"en": "I. I. Bulyk and M. V. Pylat",
+				"ru": "И. И. Булык, М. В. Пылат"
+			}
+		}
+	]
+}

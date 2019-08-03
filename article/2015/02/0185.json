@@ -1,0 +1,45 @@
+{
+	"_id":    "MFiNT.37.0185",
+	"year":   2015,
+	"volume": 37,
+	"issue":  2,
+	"pages":  [185,198],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["11.07.2014"],
+	"PACS":   "02.60.Cb, 02.60.Lj, 64.70.dg, 81.10.Aj, 81.10.Fq, 81.10.Mx, 81.30.Fb",
+	"title":  {
+		"ua": "Ефекти нестаціонарності при спрямованій кристалізації бінарної системи в квазідвовимірному зразку",
+		"en": "Effects of Nonstationarity During Directional Crystallization of Binary System in Quasi-Two-Dimensional Specimen",
+		"ru": "Эффекты нестационарности при направленной кристаллизации бинарной системы в квазидвумерном образце"
+	},
+	"abstract": {
+		"ua": "Методами прямого спостереження фронту кристалізації та математичного моделювання досліджено проблему стаціонарности руху фазової межі кристал—розтоп при спрямованому твердінні. Використано прозорі модельні системи на основі сукцинонітрилу, що кристалізуються подібно до металів; в обчислювальному експерименті одержано розв’язки теплової і дифузійної нестаціонарної задачі за умов, що відповідають експериментальним. Теоретично й експериментально показано, що в реальних умовах вирощування кристалів просування плаского фронту кристалізації є істотно нестаціонарним. Спостерігалося неперервне зміщення положення фронту відносно ізотерми, що узгоджується з розрахунками динаміки накопичення домішки перед фронтом. Внаслідок ефектів нестаціонарности для реальних експериментальних умов область стійкого росту залежить від часу спостереження, що істотно зменшує можливості застосування лінійної теорії стійкости фронту кристалізації.",
+		"en": "By the methods of direct observation of crystallization front and relevant simulation, the problem of stationarity of the phase boundary motion during directional solidification is investigated. Transparent metal-like system (succinonitrile—acetone) is used; the solution of non-stationary thermal and diffusion problem is obtained for the conditions corresponding to the experiment. Both the direct observation and the simulation show that advancement of the plane phase boundary under typical growing conditions is essentially nonstationary. Continuous displacement of the position of the phase boundary towards an isotherm is observed in accordance with calculated impurity accumulation dynamics in front of the phase boundary. Due to effects of nonstationary growth under typical experimental conditions, the parameters of stability of crystallization front depend on time of observation. It substantially constrains an applicability of the linear theory of stability of the crystallization front.",
+		"ru": "Методами прямого наблюдения за фронтом кристаллизации, а также математического моделирования исследуется проблема стационарности движения фазовой границы кристалл—расплав при направленном затвердевании. Использовались прозрачные системы на основе сукцинонитрила, кристаллизующиеся подобно металлам; в вычислительном эксперименте получены решения нестационарной тепловой и диффузионной задачи при условиях, соответствующих эксперименту. Теоретически и экспериментально показано, что продвижение плоского фронта в типичных условиях выращивания является существенно нестационарным. Наблюдалось непрерывное смещение положения фронта относительно изотермы, что удовлетворительно описывается расчётом динамики накопления примеси перед фронтом. Вследствие эффектов нестационарности в реальных экспериментальных условиях область устойчивого роста зависит от времени наблюдения, что существенно ограничивает применимость линейной теории устойчивости фронта кристаллизации."
+	},
+	"keywords": {
+		"ua": "нестаціонарність, фазова границя, фронт кристалізації, сукцинонітріл, математичне моделювання, лінійна теорія стійкості",
+		"en": "nonstationarity, phase boundary, crystallization front, succinonitrile, mathematical simulation, linear theory of stability",
+		"ru": "нестационарность, фазовая граница, фронт кристаллизации, сукцинонитрил, математическое моделирование, линейная теория устойчивости"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. П. Федоров", "en": "O. P. Fedorov", "ru": "О. П. Фёдоров"},
+			"OID": [19,1]
+		},
+		{
+			"AID": {"ua": "В. Ф. Демченко", "en": "V. F. Demchenko", "ru": "В. Ф. Демченко"},
+			"OID": [19,5]
+		},
+		{
+			"AID": {"ua": "Є. Л. Живолуб", "en": "Ye. L. Zhivolub", "ru": "Е. Л. Живолуб"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 12,
+		"list":  []
+	}
+}

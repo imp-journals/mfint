@@ -1,0 +1,184 @@
+{
+	"_id":    "MFiNT.39.10.1363",
+	"year":   2017,
+	"volume": 39,
+	"issue":  10,
+	"pages":  [1363,1375],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["23.07.2017"],
+	"PACS":   "61.43.Gt, 62.20.D-, 81.05.Rm, 81.40.Jj, 81.40.Lm, 81.70.Bt, 83.80.Iz",
+	"title":   {
+		"ua": "Механічна поведінка поруватого та спіненого алюмінію в умовах стиснення: визначення ключових механічних характеристик",
+		"en": "Mechanical Behaviour of the Porous and Foam Aluminium in Conditions of Compression: Determination of Key Mechanical Characteristics",
+		"ru": "Механическое поведение пористого и вспененного алюминия в условиях сжатия: определение ключевых механических характеристик"
+	},
+	"abstract": {
+		"ua": "В роботі висвітлено новітні унормовані рекомендації стосовно механічних випробувань високопоруватого та спіненого алюмінію, які є придатними для аналізу механічної поведінки цих матеріялів в умовах стиснення та отримання надійних та відтворюваних результатів, істотно необхідних для вирішення задач інженерної практики. З урахуванням особливостей деформаційних кривих, притаманних комірчастій структурі високопоруватого та спіненого алюмінію, надано відомості щодо визначення їхніх ключових механічних характеристик. Особливу увагу приділено неоднорідному характеру деформації зазначених матеріялів, що спричиняє зміни у структурній цупкості, а також формі та довжині ділянки плато на кривій «напруження–деформація». Застосування унормованих рекомендацій було продемонстровано із застосуванням декількох видів спіненого алюмінію, виготовленого за різними технологічними процедурами. З урахуванням висвітлених рекомендацій зареєстровано істотний вплив технологічних додатків на мікромеханізм деформації та, як наслідок, на механічну поведінку спіненого алюмінію в цілому, що пояснюється забрудненням матеріялу стінок між комірками сторонніми продуктами реакцій.",
+		"en": "The paper emphasizes harmonized recommendations for mechanical tests of highly-porous aluminium and aluminium foam to be applicable for analysing their compression response under quasi-static loading as well as determining reliable and reproducible results essentially required for practice problems of engineering design. Key mechanical parameters are designated and specified by considering distinctive features of deformation patterns indicative of porous aluminium and aluminium foam with a cellular structure. Special attention is paid to the problem related to inhomogeneous deformation of the above-mentioned materials, resulting in variation of quasi-elastic structural stiffness as well as shape and length of plateau regime of the stress–strain curve. Application of the harmonized recommendations is demonstrated with using several kinds of foam aluminium fabricated in line with different processing route. Using the above recommendation, significant effect of processing additives on micromechanism of deformation and, in turn, on macroscopic compressive response of Al foams resulted from contamination of the cell wall material by side products is shown and clarified.",
+		"ru": "В работе приведены современные рекомендации для механических испытаний высокопористого и вспененного алюминия, которые пригодны для анализа механического поведения этих материалов в условиях сжатия и получения надёжных и воспроизводимых результатов, необходимых для решения задач инженерной практики. С учётом особенностей деформационных кривых, присущих ячеистой структуре высокопористого и вспененного алюминия, представлены сведения относительно определения их ключевых механических характеристик. Особое внимание уделено неоднородному характеру деформации указанных материалов, что вызывает изменения в структурной жёсткости, а также форме и длине участка плато на кривой «напряжение–деформация». Применение разработанных рекомендаций было продемонстрировано с использованием нескольких видов вспененного алюминия, изготовленного по различным технологическим процедурам. Разработанные рекомендации позволили зарегистрировать существенное влияние технологических добавок на микромеханизм деформации и, как следствие, на механическое поведение вспененного алюминия в целом, что объясняется загрязнением материала стенок между ячейками побочными продуктами реакций."
+	},
+	"keywords": {
+		"ua": "пористі метали, металеві піни, випробування на стиск, квазистатичне навантаження",
+		"en": "porous metals, metallic foams, compression test, quasi-static loading",
+		"ru": "пористые металлы, металлические пены, испытание на сжатие, квазистатическая нагрузка"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. В. Бякова", "en": "O. V. Byakova", "ru": "А. В. Бякова"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "А. О. Власов", "en": "A. O. Vlasov", "ru": "А. А. Власов"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "М. В. Семенов", "en": "M. V. Semenov", "ru": "Н. В. Семенов"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "О. В. Зацарна", "en": "O. V. Zatsarna", "ru": "А. В. Зацарная"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. В. Гнилоскуренко", "en": "S. V. Gnyloskurenko", "ru": "С. В. Гнилоскуренко"},
+			"OID": [15]
+		}
+	],
+	"references": {
+		"count": 26,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "M. F. Ashby, A. G. Evans, N. A. Fleck, L. J. Gibson, J. W. Hutchinson, and H. N. G Wadley, Metal Foams: A Design Guide (Boston: Butterworth Heinemann: 2000).",
+				"tr":  "M. F. Ashby, A. G. Evans, N. A. Fleck, L. J. Gibson, J. W. Hutchinson, and H. N. G Wadley, Metal Foams: A Design Guide (Boston: Butterworth Heinemann: 2000)."
+			},
+			{
+				"doi": "10.1016/S0079-6425(00)00002-5",
+				"or":  "J. Banhart, Prog. Mater. Sci., 46, No. 6: 559 (2001).",
+				"tr":  "J. Banhart, Prog. Mater. Sci., 46, No. 6: 559 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "L. J. Gibson and M. F. Ashby, Cellular Solids: Structure and Properties (Cambridge: Cambridge University Press: 1997).",
+				"tr":  "L. J. Gibson and M. F. Ashby, Cellular Solids: Structure and Properties (Cambridge: Cambridge University Press: 1997)."
+			},
+			{
+				"doi": "10.3390/met1010098",
+				"or":  "V. Crupi, G. Epasto, and E. Guglielmino, Metals, 1, No. 1: 98 (2011).",
+				"tr":  "V. Crupi, G. Epasto, and E. Guglielmino, Metals, 1, No. 1: 98 (2011)."
+			},
+			{
+				"doi": "10.1002/adem.201200217",
+				"or":  "J. Banhart, Adv. Eng. Mater., 15, No. 3: 82 (2013).",
+				"tr":  "J. Banhart, Adv. Eng. Mater., 15, No. 3: 82 (2013)."
+			},
+			{
+				"doi": "10.2320/matertrans.43.1191",
+				"or":  "T. Nakamura, S. V. Gnyloskurenko, K. Sakamoto, A. V. Byakova, and R. Ishikava, Mater. Trans., 43, No. 5: 1191 (2002).",
+				"tr":  "T. Nakamura, S. V. Gnyloskurenko, K. Sakamoto, A. V. Byakova, and R. Ishikava, Mater. Trans., 43, No. 5: 1191 (2002)."
+			},
+			{
+				"doi": "10.1179/cmq.2005.44.1.7",
+				"or":  "S. V. Gnyloskurenko, T. Nakamura, A. V. Byakova, Y. N. Podrezov, R. Ishikawa, and M. Maeda, Can. Metall. Q, 44, No. 1: 7 (2005).",
+				"tr":  "S. V. Gnyloskurenko, T. Nakamura, A. V. Byakova, Y. N. Podrezov, R. Ishikawa, and M. Maeda, Can. Metall. Q, 44, No. 1: 7 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "O. V. Byakova, A. A. Vlasov, S. V. Gnyloskurenko, and I. Kartuzov, Sposib Oderzhannya Spinenykh Zlyvkiv z Alyuminiyu ta Alyuminiyevykh Splaviv (Method for Making the Blocks of Foamed Aluminium/Aluminium Alloys): Patent 104367UA. MKI, C22C 1/08, 21/00 (Publ. 27. 01. 14, Bul. No. 2) (2014) (in Ukrainian).",
+				"tr":  "O. V. Byakova, A. A. Vlasov, S. V. Gnyloskurenko, and I. Kartuzov, Sposib Oderzhannya Spinenykh Zlyvkiv z Alyuminiyu ta Alyuminiyevykh Splaviv (Method for Making the Blocks of Foamed Aluminium/Aluminium Alloys): Patent 104367UA. MKI, C22C 1/08, 21/00 (Publ. 27. 01. 14, Bul. No. 2) (2014) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1146/annurev.matsci.30.1.191",
+				"or":  "L. J. Gibson, Ann. Rev. Mater. Sci., 30: 191 (2000).",
+				"tr":  "L. J. Gibson, Ann. Rev. Mater. Sci., 30: 191 (2000)."
+			},
+			{
+				"doi": "10.1179/026708300101508450",
+				"or":  "D. Kritz, B. Foroughi, R. Faure, and H. P. Degisher, Mater. Sci. Technol., 16, Nos. 7–8: 792 (2000).",
+				"tr":  "D. Kritz, B. Foroughi, R. Faure, and H. P. Degisher, Mater. Sci. Technol., 16, Nos. 7–8: 792 (2000)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(01)00072-6",
+				"or":  "A. E. Markaki and T. W. Clyne, Acta Mater., 49, No. 9: 1677 (2001).",
+				"tr":  "A. E. Markaki and T. W. Clyne, Acta Mater., 49, No. 9: 1677 (2001)."
+			},
+			{
+				"doi": "10.2320/matertrans.47.2131",
+				"or":  "A. Byakova, S. Gnyloskurenko, A. Sirko, Y. Milman, and T. Nakamura, Mater. Trans., 47, No. 9: 2131 (2006).",
+				"tr":  "A. Byakova, S. Gnyloskurenko, A. Sirko, Y. Milman, and T. Nakamura, Mater. Trans., 47, No. 9: 2131 (2006)."
+			},
+			{
+				"doi": "10.3390/met2020095",
+				"or":  "A. V. Byakova, S. V. Gnyloskurenko, and T. Nakamura, Metals, 2, No. 2: 95 (2012).",
+				"tr":  "A. V. Byakova, S. V. Gnyloskurenko, and T. Nakamura, Metals, 2, No. 2: 95 (2012)."
+			},
+			{
+				"doi": "10.1155/2014/607429",
+				"or":  "A. Byakova, I. Kartuzov, S. Gnyloskurenko, and T. Nakamura, Adv. Mater. Sci. Eng., 2014: 9 (2014).",
+				"tr":  "A. Byakova, I. Kartuzov, S. Gnyloskurenko, and T. Nakamura, Adv. Mater. Sci. Eng., 2014: 9 (2014)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2003.10.021",
+				"or":  "U. Ramamurty and A. Paul, Acta Mater., 52, 4:869 (2004).",
+				"tr":  "U. Ramamurty and A. Paul, Acta Mater., 52, 4:869 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Pippan, C. Motz, B. Kriszt, B. Zettl, H. Mayer, S. Stanzl-Tschegg, F. Simancik, and J. Kovacik, Handbook of Cellular Metals: Production, Processing, Applications (Eds. H.-P. Degischer and B. Kriszt) (Weinheim, Germany: Wiley VCH: 2002), p. 179.",
+				"tr":  "R. Pippan, C. Motz, B. Kriszt, B. Zettl, H. Mayer, S. Stanzl-Tschegg, F. Simancik, and J. Kovacik, Handbook of Cellular Metals: Production, Processing, Applications (Eds. H.-P. Degischer and B. Kriszt) (Weinheim, Germany: Wiley VCH: 2002), p. 179."
+			},
+			{
+				"doi": "",
+				"or":  "U. Martin, U. Mosler, D. Lehmhus, A. Müler, and G. Heinzel, Proc. of Porous Metals and Metal Foaming Technology MetFoam-2005 (Sept. 21–23, 2005) (Kyoto: JIM: 2006), p. 495.",
+				"tr":  "U. Martin, U. Mosler, D. Lehmhus, A. Müler, and G. Heinzel, Proc. of Porous Metals and Metal Foaming Technology MetFoam-2005 (Sept. 21–23, 2005) (Kyoto: JIM: 2006), p. 495."
+			},
+			{
+				"doi": "10.1016/S1359-6454(97)00148-1",
+				"or":  "Y. Sugimura, J. Meyer, M. Y. He, H. Bart-Smith, J. Grenstedt, and A. G. Evans, Acta Mater., 45, No. 12: 5245 (1997).",
+				"tr":  "Y. Sugimura, J. Meyer, M. Y. He, H. Bart-Smith, J. Grenstedt, and A. G. Evans, Acta Mater., 45, No. 12: 5245 (1997)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(98)00072-X",
+				"or":  "A. E. Simone and L. J. Gibsons, Acta Mater., 46, No. 11: 3929 (1998).",
+				"tr":  "A. E. Simone and L. J. Gibsons, Acta Mater., 46, No. 11: 3929 (1998)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2004.11.025",
+				"or":  "H. Harders, K. Huper, and J. Rösler, Acta Mater., 53, No. 5: 1335 (2005).",
+				"tr":  "H. Harders, K. Huper, and J. Rösler, Acta Mater., 53, No. 5: 1335 (2005)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2005.04.010",
+				"or":  "I. Jeon and T. Asahina, Acta Mater., 53, No. 12: 3415 (2005).",
+				"tr":  "I. Jeon and T. Asahina, Acta Mater., 53, No. 12: 3415 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Toda, N. Kuroda, T. Ohgaki, M. Kobayashi, T. Akahori, M. Niinomi, T. Kobayashi, K. Uesugi, K. Makii, and Y. Aruga, Proc. of Porous Metals and Metal Foaming Technology MetFoam-2005 (Sept. 21–23, 2005) (Kyoto: JIM: 2006), p. 409.",
+				"tr":  "H. Toda, N. Kuroda, T. Ohgaki, M. Kobayashi, T. Akahori, M. Niinomi, T. Kobayashi, K. Uesugi, K. Makii, and Y. Aruga, Proc. of Porous Metals and Metal Foaming Technology MetFoam-2005 (Sept. 21–23, 2005) (Kyoto: JIM: 2006), p. 409."
+			},
+			{
+				"doi": "10.1016/S1359-6462(99)00038-X",
+				"or":  "T. Mukai, H. Kanahashi, T. Miyoshi, M. Mabuchi, T. G. Nieh, and K. Higashi, Scr. Mater., 40, No. 8: 921 (1999).",
+				"tr":  "T. Mukai, H. Kanahashi, T. Miyoshi, M. Mabuchi, T. G. Nieh, and K. Higashi, Scr. Mater., 40, No. 8: 921 (1999)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(99)00750-9",
+				"or":  "A. Paul and U. Ramamurty, Mater. Sci. Eng. A, 281, Nos. 1–2: 1 (2000).",
+				"tr":  "A. Paul and U. Ramamurty, Mater. Sci. Eng. A, 281, Nos. 1–2: 1 (2000)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(00)01219-3",
+				"or":  "K. A. Dannemann and J. Lankford Jr., Mater. Sci. Eng. A, 293, Nos. 1–2: 157 (2000).",
+				"tr":  "K. A. Dannemann and J. Lankford Jr., Mater. Sci. Eng. A, 293, Nos. 1–2: 157 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "U. Krupp, J. Aegerter, A. Ohrndorf, T. Guillen, A. Danninger, T. Hipke, J. Hohlfeld, and M. Reinfried, Proc. of Porous Metals and Metallic Foams MetFoam-2007 (Sept. 5–7, 2007) (Montreal: DEStech Publications, Inc.: 2007), p. 407.",
+				"tr":  "U. Krupp, J. Aegerter, A. Ohrndorf, T. Guillen, A. Danninger, T. Hipke, J. Hohlfeld, and M. Reinfried, Proc. of Porous Metals and Metallic Foams MetFoam-2007 (Sept. 5–7, 2007) (Montreal: DEStech Publications, Inc.: 2007), p. 407."
+			}
+		]
+	}
+}

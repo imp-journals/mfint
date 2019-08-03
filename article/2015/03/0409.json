@@ -1,0 +1,93 @@
+{
+	"_id":    "MFiNT.37.0409",
+	"year":   2015,
+	"volume": 37,
+	"issue":  3,
+	"pages":  [409,430],
+	"rubric": 2,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["26.12.2014"],
+	"PACS":   "61.05.cс, 61.05.cp, 61.72.Dd, 61.72.jd, 61.72.Nn, 61.72.Qq, 68.55.Ln",
+	"title":  {
+		"ua": "Дисперсійна (фазова) природа структурної чутливості та інформативності однокристальної дифрактометрії дефектів і деформацій в іонно-імплантованих плівках",
+		"en": "Dispersion (Phase) Nature of Structural Sensitivity and Informativity of Triple-Crystal Diffractometry of Defects and Strains within the Ion-Implanted Films",
+		"ru": "Дисперсионная (фазовая) природа структурной чувствительности и информативности трёхкристальной дифрактометрии дефектов и деформаций в ионно-имплантированных плёнках"
+	},
+	"abstract": {
+		"ua": "З використанням раніше відкритого авторами явища дисперсійної (фазової) структурної чутливости картини багаторазового розсіяння створено теоретичні й експериментальні основи трикристальної динамічної дифрактометрії багатошарових кристалічних систем з неоднорідно розподіленими мікродефектами та макродеформацією. Враховано динамічний характер когерентного і дифузного розсіяння від дефектів у всіх шарах системи, а також багаторазовість розсіяння між шарами.",
+		"en": "With using the previously discovered by authors phenomenon of dispersion (phase) structural sensitivity of multiple-scattering patterns, the theoretical and experimental bases of the triple-crystal dynamical diffractometry of multilayer crystalline systems with inhomogeneous strain and randomly distributed defects are created. The dynamical character of both coherent and diffuse scattering from defects in all the layers of the system as well as the multiple scattering between layers are taken into account.",
+		"ru": "С использованием ранее открытого авторами явления дисперсионной (фазовой) структурной чувствительности картины многократного рассеяния созданы теоретические и экспериментальные основы трёхкристальной динамической дифрактометрии многослойных кристаллических систем с неоднородно распределёнными микродефектами и макродеформацией. Учтены динамический характер когерентного и диффузного рассеяния от дефектов во всех слоях системы, а также многократность рассеяния между слоями."
+	},
+	"keywords": {
+		"ua": "динамічна теорія дифракції, дифузне розсіяння, профіль деформації, структурні дефекти, йонна імплантація, ґранат.",
+		"en": "dynamical theory of diffraction, diffuse scattering, strain profile, structural defects, ion implantation, garnet",
+		"ru": "динамическая теория дифракции, диффузное рассеяние, профиль деформации, структурные дефекты, ионная имплантация, гранат"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. С. Скакунова", "en": "O. S. Skakunova", "ru": "Е. С. Скакунова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. Й. Оліховський", "en": "S. I. Olikhovskii", "ru": "С. И. Олиховский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. Б. Молодкін", "en": "V. B. Molodkin", "ru": "В. Б. Молодкин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Є. Г. Лень", "en": "E. G. Len", "ru": "Е. Г. Лень"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Є. М. Кисловський", "en": "E. M. Kislovskii", "ru": "Е. Н. Кисловский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. В. Решетник", "en": "O. V. Reshetnyk", "ru": "О. В. Решетник"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Т. П. Владімірова", "en": "T. P. Vladimirova", "ru": "Т. П. Владимирова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Є. В. Кочелаб", "en": "E. V. Kochelab", "ru": "Е. В. Кочелаб"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. В. Лізунов", "en": "V. V. Lizunov", "ru": "В. В. Лизунов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. В. Лізунова", "en": "S. V. Lizunova", "ru": "С. В. Лизунова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. Л. Маківська", "en": "V. L. Makivs’ka", "ru": "В. Л. Маковская"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. Г. Толмачов", "en": "M. G. Tolmachov", "ru": "Н. Г. Толмачёв"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Л. М. Скапа", "en": "L. M. Skapa", "ru": "Л. Н. Скапа"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Я. В. Василик", "en": "Ya. V. Vasylyk", "ru": "Я. В. Василик"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "К. В. Фузік", "en": "K. V. Fuzik", "ru": "Е. В. Фузик"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 49,
+		"list":  []
+	}
+}

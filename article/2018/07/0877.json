@@ -1,0 +1,251 @@
+{
+	"_id":    "MFiNT.40.07.0877",
+	"year":   2018,
+	"volume": 40,
+	"issue":  7,
+	"pages":  [877,907],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["28.03.2018"],
+	"PACS":   "61.66.Dk, 61.72.Ff, 61.72.Mm, 62.20.fk, 81.30.-t, 81.40.Ef, 81.40.Lm",
+	"title":   {
+		"ua": "Особливості формування швидкісним термічним обробленням мікроструктури та механічних властивостей гарячевальцьованих низьковуглецевих сталей прокатного сортаменту",
+		"en": "Features of Formation by Rapid Heat Treatment of a Microstructure and Mechanical Properties of Hot-Rolled Low-Carbon Steels of a Rolled Products Range",
+		"ru": "Особенности формирования скоростной термической обработкой микроструктуры и механических свойств горячекатаных низкоуглеродистых сталей прокатного сортамента"
+	},
+	"abstract": {
+		"ua": "Робота стосується вивчення особливостей формування структури та механічних властивостей гарячевальцьованих низьковуглецевих сталей Fe–Mn–C після їх швидкісного термооброблення. Показано, що швидкий нагрів до високих температур уможливлює сформувати у сталях дрібнозернисту структуру аустеніту, яка вирізняється високою розмірною однорідністю зерен, за рахунок стримування процесу їхнього інтенсивного росту. У порівнянні з гарячевальцьованим станом швидкісна нормалізація приводить до значного підвищення ударної в’язкости сталей і пониження температури холодноламкости у всіх напрямках прокату. У площині вальцювання величина роботи руйнування є максимальною та практично не залежить від температури випробувань аж до температури холодноламкости. Представлено оцінку ролі окремих структурних чинників у формуванні просторової анізотропії показників в’язкости термооброблених сталей.",
+		"en": "The work is devoted to the study of the structural features and mechanical properties of the hot-rolled low-carbon Fe–Mn–C steels after rapid heat treatment. As shown, the rapid heating to relatively high temperatures makes it possible to form a fine-grained austenite structure in steels, which is characterized by high dimensional homogeneity of the grains, due to the suppression of the process of their intensive growth. In comparison with the hot-rolled state, the high-speed normalization leads to a significant increase in the toughness of steels and a reduction in the cold-brittle temperature in all directions of the rolled product. In the rolling plane, the amount of fracture work is maximal and practically independent on the test temperature up to the cold-brittle temperature. The evaluation of the role of individual structural factors in the formation of spatial anisotropy of the viscosity index of heat-treated steels is presented.",
+		"ru": "Работа посвящена изучению особенностей формирования структуры и механических свойств горячекатаных низкоуглеродистых сталей Fe–Mn–C после их скоростной термообработки. Показано, что быстрый нагрев до относительно высоких температур позволяет сформировать в сталях мелкозернистую структуру аустенита, отличающуюся высокой размерной однородностью зёрен, за счёт сдерживания процесса их интенсивного роста. По сравнению с горячекатаным состоянием скоростная нормализация приводит к значительному повышению ударной вязкости сталей и понижению температуры хладноломкости во всех направлениях проката. В плоскости прокатки величина работы разрушения максимальна и практически не зависит от температуры испытаний вплоть до температуры хладноломкости. Представлена оценка роли отдельных структурных факторов в формировании пространственной анизотропии показателей вязкости термообработанных сталей."
+	},
+	"keywords": {
+		"ua": "прокат, деформація, Fe–Mn–C-сталі, аустеніт, ферит, перліт, ударна в’язкість, шаруватість, анізотропія",
+		"en": "rolling, deformation, Fe–Mn–C steel, austenite, ferrite, perlite, toughness, stratification, anisotropy",
+		"ru": "прокат, деформация, Fe–Mn–C-стали, аустенит, феррит, перлит, ударная вязкость, слоистость, анизотропия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Р. В. Тельович", "en": "R. V. Teliovich", "ru": "Р. В. Телевич"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Ю. А. Гарасим", "en": "J. A. Garasym", "ru": "Ю. А. Гарасим"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Н. О. Бондаревська", "en": "N. O. Bondarevska", "ru": "Н. А. Бондаревская"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 41,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Н. П. Лякишев, Д. А. Литвиненко, Ю. Д. Морозов, Сталь, № 3: 67 (1982).",
+				"tr":  "N. P. Lyakishev, D. A. Litvinenko, and Yu. D. Morozov, Stal', No. 3: 67 (1982) (in Russian)."
+			},
+			{
+				"doi": "10.1179/mst.1988.4.11.967",
+				"or":  "B. Carbarz and F. B. Pickering, Mater. Sci. Technol., 4: 967 (1988).",
+				"tr":  "B. Carbarz and F. B. Pickering, Mater. Sci. Technol., 4: 967 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Korchynski, Mater. Eng., October: 45 (1986).",
+				"tr":  "M. Korchynski, Mater. Eng., October: 45 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Siwecki, A. Sandlerg, W. Roberts, and K. Lagneborg, Thermomechanical Processing of Microalloyed Austenite (Pittsburgh, PA: TMS of AIME: 1981).",
+				"tr":  "T. Siwecki, A. Sandlerg, W. Roberts, and K. Lagneborg, Thermomechanical Processing of Microalloyed Austenite (Pittsburgh, PA: TMS of AIME: 1981)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. В. Смирнов, Е. Н. Соколков, В. Д. Садовский, ДАН СССР, 103, № 4: 609 (1955).",
+				"tr":  "L. V. Smirnov, E. N. Sokolkov, and V. D. Sadovskiy, Doklady AN SSSR, 103, No. 4: 609 (1955) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Н. Соколков, Физика металлов и металловедение, III, вып. 1: 79 (1956).",
+				"tr":  "E. N. Sokolkov, Fizika Metallov i Metallovedenie, III, Iss. 1: 79 (1956) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Ф. Стародубов, И. Г. Узлов, В. Я. Савенков, Термическое упрочнение проката (Москва: Металлургия: 1970).",
+				"tr":  "K. F. Starodubov, Y. H. Uzlov, and V. Ya. Savenkov, Termicheskoe Uprochnenie Prokata (Moscow: Metallurgiya: 1970) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Гриднев, Ю. Я. Мешков, С. П. Ошкадёров, В. И. Трефилов, Физические основы электротермического упрочнения стали (Киев: Наукова думка: 1973).",
+				"tr":  "V. N. Gridnev, Yu. Ya. Meshkov, S. P. Oshkaderov, and V. I. Trefilov, Fizicheskie Osnovy Elektrotermicheskogo Uprochneniya Stali (Kiev: Naukova Dumka: 1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Гриднев, Ю. Я. Мешков, С. П. Ошкадёров, Н. Ф. Черненко, Технологические основы электротермической обработки стали (Киев: Наукова думка: 1977).",
+				"tr":  "V. N. Gridnev, Yu. Ya. Meshkov, S. P. Oshkaderov, and N. F. Chernenko, Tekhnologicheskie Osnovy Elektrotermicheskoy Obrabotki Stali (Kiev: Naukova Dumka: 1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Шейко, Е. И. Якушечкин, Р. В. Телевич, Сб. докладов Всесоюзной научно-технической конференции «Повышение качества металлургического проката» (Днепропетровск: ИЧМ: 1988), с. 6.",
+				"tr":  "V. Y. Sheiko, E. Y. Yakushechkin, and R. V. Teliovich, Sb. Dokladov Vsesoyuznoy Naucho-Tekhnicheskoy Konferentsii 'Povyshenie Kachestva Metallurgicheskogo Prokata' (Dnepropetrovsk: IChM: 1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "R. V. Teliovich, O. M. Ivаsishin, Ye. I. Yakushechkin, and D. I. Nikonenko, Materials for Transportation Technology–EUROMAT 99, 1: 352 (2000).",
+				"tr":  "R. V. Teliovich, O. M. Ivasishin, Ye. I. Yakushechkin, and D. I. Nikonenko, Materials for Transportation Technology–EUROMAT 99, 1: 352 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "E. B. Pickering, Sci. Technol. A. Comprehensive Treatment, 7: 337 (1992).",
+				"tr":  "E. B. Pickering, Sci. Technol. A. Comprehensive Treatment, 7: 337 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Д. Садовский, Структурная наследственность в стали (Москва: Металлургия: 1973).",
+				"tr":  "V. D. Sadovskiy, Strukturnaya Nasledstvennost' v Stali (Moscow: Metallurgiya: 1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Морозов, В. А. Волохов, Металлы, № 3: 70 (1991).",
+				"tr":  "V. P. Morozov and V. A. Volokhov, Metally, No. 3: 70 (1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. С. Дьяченко, Образование аустенита в железоуглеродистых сплавах (Москва: Металлургия:1982).",
+				"tr":  "S. S. Diyachenko, Obrazovanie Austenita v Zhelezouglerodistykh Splavakh (Moscow: Metallurgiya: 1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. З. Шепеляковский, Г. А. Островская, Металловедение и термическая обработка металлов, № 7: 16 (1967).",
+				"tr":  "K. Z. Shepelyakovskiy and G. A. Ostrovskaya, Metallovedenie i Termicheskaya Obrabotka Metallov, No. 7: 16 (1967) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. П. Ошкадеров, С. В. Приходько, Р. В. Телевич, Заводская лаборатория, № 2: 37 (1991).",
+				"tr":  "S. P. Oshkaderov, S. V. Prikhodko, and R. V. Televich, Zavodskaya Laboratoriya, No. 2: 37 (1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Горынин, Вопросы материаловедения, № 3: 55 (2008).",
+				"tr":  "V. Y. Gorynin, Voprosy Materialovedeniya, No. 3: 55 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. R. Speich and A. Szirmae, Trans. АIME, 245: 1063 (1969).",
+				"tr":  "G. R. Speich and A. Szirmae, Trans. AIME, 245: 1063 (1969)."
+			},
+			{
+				"doi": "",
+				"or":  "R. R. Judd and W. Paxton, Trans. АIME, 242: 206 (1968).",
+				"tr":  "R. R. Judd and W. Paxton, Trans. AIME, 242: 206 (1968)."
+			},
+			{
+				"doi": "10.1007/BF02648551",
+				"or":  "C. I. Garcia and A. J. Deardo, Met. Trans., 12A: 521 (1981).",
+				"tr":  "C. I. Garcia and A. J. Deardo, Met. Trans., 12A: 521 (1981)."
+			},
+			{
+				"doi": "10.1007/s11661-004-0173-x",
+				"or":  "J. Huang, W. J. Poole, and M. Militzer, Met. Mat. Trans. A, 35: 3363 (2004).",
+				"tr":  "J. Huang, W. J. Poole, and M. Militzer, Met. Mat. Trans. A, 35: 3363 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. А. Гарасим, Металлофиз. новейшие технол., 25, № 10: 1355 (2003).",
+				"tr":  "Yu. A. Garasym, Metallofiz. Noveishie Tekhnol., 25, No. 10: 1355 (2003) (in Russian)."
+			},
+			{
+				"doi": "10.1007/BF02663328",
+				"or":  "R. A. Grange, Metallurgical Transaction, 2, No. 2: 417 (1971).",
+				"tr":  "R. A. Grange, Metallurgical Transaction, 2, No. 2: 417 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "К. П. Бунин, Б. Ф. Марцинив, Н. И. Репина, Ф. И. Яценко, Металлофизика, вып. 40: 90 (1972).",
+				"tr":  "K. P. Bunin, B. F. Martsiniv, N. I. Repina, and F. I. Yatsenko, Metallofizika, No. 40: 90 (1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. W. Thompson and P. R. Howel, Sci. Technol., 8, Iss. 9: 777 (1992).",
+				"tr":  "S. W. Thompson and P. R. Howel, Sci. Technol., 8, Iss. 9: 777 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Grosterlinden, R. Kawalla, U. Lotter, and H. Pircher, Steel Research. Mater. Technol., 63, No. 8: 331 (1992).",
+				"tr":  "R. Grosterlinden, R. Kawalla, U. Lotter, and H. Pircher, Steel Research. Mater. Technol., 63, No. 8: 331 (1992)."
+			},
+			{
+				"doi": "10.1007/s11663-003-0084-z",
+				"or":  "G. Kraus, Metallurgical and Transactions B, 34, Iss. 6: 781 (2003).",
+				"tr":  "G. Kraus, Metallurgical and Transactions B, 34, Iss. 6: 781 (2003)."
+			},
+			{
+				"doi": "10.1361/105994900770345935",
+				"or":  "J. D. Verhoeven, J. Materials Perform., 9, Iss. 3: 286 (2000).",
+				"tr":  "J. D. Verhoeven, J. Materials Perform., 9, Iss. 3: 286 (2000)."
+			},
+			{
+				"doi": "10.2355/isijinternational.53.935",
+				"or":  "E. J. Pickering, ISIJ International, 53, No. 6: 935 (2013).",
+				"tr":  "E. J. Pickering, ISIJ International, 53, No. 6: 935 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Nowotnik, J. Achiev. Mater. Manufact. Eng., 27, No. 2: 115 (2008).",
+				"tr":  "A. Nowotnik, J. Achiev. Mater. Manufact. Eng., 27, No. 2: 115 (2008)."
+			},
+			{
+				"doi": "10.1016/j.msea.2015.06.041",
+				"or":  "P. Mannan, A. G. Kostryzhev, H. Zurov, and E. V. Pereloma, Mater. Sci. Eng. A, 641: 160 (2015).",
+				"tr":  "P. Mannan, A. G. Kostryzhev, H. Zurov, and E. V. Pereloma, Mater. Sci. Eng. A, 641: 160 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. П. Лякишев, В. Ф. Шамрай, Е. Б. Рубина, А. П. Бащенко, С. В. Малофеев, Металлы, № 5: 22 (1995).",
+				"tr":  "N. P. Liakishev, V. F. Shamrai, E. B. Rubina, A. P. Bashchenko, and S. V. Malofeev, Metally, No. 5: 22 (1995) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0956-7151(94)90428-6",
+				"or":  "M. P. Butron-Guillen, J. J. Jonas, and R. K. Rag, Acta Metall. Mater., 42: No. 11: 3615 (1994).",
+				"tr":  "M. P. Butron-Guillen, J. J. Jonas, and R. K. Rag, Acta Metall. Mater., 42: No. 11: 3615 (1994)."
+			},
+			{
+				"doi": "10.2355/isijinternational.41.468",
+				"or":  "G. Bruchner and G. Cottsein, ISIJ International, No. 5: 468 (2001).",
+				"tr":  "G. Bruchner and G. Cottsein, ISIJ International, No. 5: 468 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "З. Ремпорт, Сталь, № 9: 80 (1982).",
+				"tr":  "Z. Remport, Stal', No. 9: 80 (1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Голованенко, О. Н. Чевская, Сталь, № 12: 51 (1984).",
+				"tr":  "S. A. Golovanenko and O. N. Chevskaya, Stal', No. 12: 51 (1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Л. Яковлева, Н. А. Терещенко, Д. А. Мирзаев, А. В. Панов, Д. В. Шабуров, Физика металлов и металловедение, 104, № 2: 212 (2007).",
+				"tr":  "Y. L. Yakovleva, N. A. Tereshchenko, D. A. Mirzaev, A. V. Panov, and D. V. Shaburov, Fizika Metallov i Metallovedenie, 104, No. 2: 212 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. И. Погодин-Алексеев, Динамическая прочность и хрупкость металлов (Москва: Машиностроение: 1966).",
+				"tr":  "G. I. Pogodin-Alekseev, Dinamicheskaya Prochnost' i Khrupkost' Metallov (Moscow: Mashinostroenie: 1966) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. П. Лякишев, Д. А. Литвиненко, Ю. Д. Морозов, Сталь, № 3: 67 (1982).",
+				"tr":  "N. P. Liakishev, D. A. Litvinenko, and Yu. D. Morozov, Stal', No. 3: 67 (1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Вольстер, Г. Хаймбах, К. Форх, Черные металлы, № 19: 3 (1969).",
+				"tr":  "M. Wolster, H. Heimbach, and K. Forch, Chernye Metally, No. 19: 3 (1969) (Russian translation)."
+			}
+		]
+	}
+}

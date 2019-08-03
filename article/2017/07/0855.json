@@ -1,0 +1,136 @@
+{
+	"_id":    "MFiNT.39.07.0855",
+	"year":   2017,
+	"volume": 39,
+	"issue":  7,
+	"pages":  [855,863],
+	"rubric": 2,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["26.06.2017"],
+	"PACS":   "02.60.Gf, 07.85.-m, 42.30.Va, 61.05.cp, 61.72.Mm, 68.55.ag, 81.05.Hd",
+	"title":   {
+		"ua": "Новий підхід до аналізи Х-променевих дифрактограм на основі вейвлет-перетворів",
+		"en": "The New Approach to the Analysis of X-Ray Diffractograms Based on the Wavelet Transformations",
+		"ru": "Новый подход к анализу рентгеновских дифрактограмм на основе вейвлет-преобразований"
+	},
+	"abstract": {
+		"ua": "Проведено рентґенівські структурні дослідження тонких плівок TiN, одержаних методою реактивного магнетронного розпорошення. Для зменшення впливу високочастотного шуму та неоднорідної фонової інтенсивности на форму дифракційних максимумів застосовано методику вейвлет-фільтрації за допомогою сімейства біортогональних вейвлетів. Це уможливило значно підвищити точність визначення періоду ґратниці, розміру зерна та значення мікродеформації.",
+		"en": "X-ray structural studies of thin TiN films obtained by reactive magnetron sputtering are carried out. The wavelet-filtration technique by means of a set of biorthogonal wavelets is used to reduce the influence of both high-frequency noise and non-uniform background intensity on the shape of diffraction maxima. It allows us to improve the accuracy of determination of lattice period, grain size, and value of microdeformation significantly.",
+		"ru": "Проведены рентгеновские структурные исследования тонких плёнок TiN, полученных методом реактивного магнетронного распыления. Для уменьшения влияния высокочастотного шума и неоднородной фоновой интенсивности на форму дифракционных максимумов применена методика вейвлет-фильтрации с помощью семейства биортогональных вейвлетов. Это позволило значительно повысить точность определения периода решётки, размера зерна и значения микродеформации."
+	},
+	"keywords": {
+		"ua": "нітрид титану, тонкі плівки, Х-променева дифрактометрія, вейвлет-аналіза",
+		"en": "titanium nitride, thin films, x-ray diffraction, wavelet analysis",
+		"ru": "нитрид титана, тонкие плёнки, рентгеновская дифрактометрия, вейвлет-анализ"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. М. Фодчук", "en": "I. M. Fodchuk", "ru": "И. М. Фодчук"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "Ю. Т. Роман", "en": "Yu. T. Roman", "ru": "Ю. Т. Роман"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "С. В. Баловсяк", "en": "S. V. Balovsyak", "ru": "С. В. Баловсяк"},
+			"OID": [215]
+		}
+	],
+	"references": {
+		"count": 18,
+		"list":  [
+			{
+				"doi": "10.1021/nl302761z",
+				"or":  "X. Lu, G. Wang, T. Zhai, M. Yu, S. Xie, Y. Ling, C. Liang, Y. Tong, and Y. Li, Nano Lett., 12, No. 10: 5376 (2012).",
+				"tr":  "X. Lu, G. Wang, T. Zhai, M. Yu, S. Xie, Y. Ling, C. Liang, Y. Tong, and Y. Li, Nano Lett., 12, No. 10: 5376 (2012)."
+			},
+			{
+				"doi": "10.1038/nature06837",
+				"or":  "V. M. Vinokur, T. I. Baturina, M. V. Fistul, A. Yu. Mironov, M. R. Baklanov, and C. Strunk, Nature, 452, No. 7187: 613 (2008).",
+				"tr":  "V. M. Vinokur, T. I. Baturina, M. V. Fistul, A. Yu. Mironov, M. R. Baklanov, and C. Strunk, Nature, 452, No. 7187: 613 (2008)."
+			},
+			{
+				"doi": "10.1016/S0038-1101(03)00316-2",
+				"or":  "M. Tao, D. Udeshi, S. Agarwal, E. Maldonado, and W. P. Kirk, Solid-State Electron., 48, No. 2: 335 (2004).",
+				"tr":  "M. Tao, D. Udeshi, S. Agarwal, E. Maldonado, and W. P. Kirk, Solid-State Electron., 48, No. 2: 335 (2004)."
+			},
+			{
+				"doi": "10.1063/1.356392",
+				"or":  "G. Gagnon, J. F. Currie, C. Beique, J. L. Brebner, L. Gujrathi, and S. G. Onllet, J. Appl. Phys., 75, No. 2: 1565 (1994).",
+				"tr":  "G. Gagnon, J. F. Currie, C. Beique, J. L. Brebner, L. Gujrathi, and S. G. Onllet, J. Appl. Phys., 75, No. 2: 1565 (1994)."
+			},
+			{
+				"doi": "10.7868/S0002337X14010175",
+				"or":  "М. Н. Солован, В. В. Брус, Э. В. Майструк, П. Д. Марьянчук, Неорганические материалы, 50, № 1: 46 (2014).",
+				"tr":  "M. N. Solovan, V. V. Brus, E. V. Maystruk, and P. D. Mar'yanchuk, Neorganicheskie Materialy, 50, No. 1: 46 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2008.06.122",
+				"or":  "M. S. R. N. Kiran, M. Ghanashyam Krishna, and K. A. Padmanabhan, Appl. Surf. Sci., 255, No. 5: 1934 (2008).",
+				"tr":  "M. S. R. N. Kiran, M. Ghanashyam Krishna, and K. A. Padmanabhan, Appl. Surf. Sci., 255, No. 5: 1934 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Н. Солован, В. В. Брус, П. Д. Марьянчук, Физика и техника полупроводников, 48, № 2: 232 (2014).",
+				"tr":  "M. N. Solovan, V. V. Brus, and P. D. Mar'yanchuk, Fizika i Tekhnika Poluprovodnikov, 48, No. 2: 232 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.1088/0268-1242/26/12/125006",
+				"or":  "V. V. Brus, M. I. Ilashchuk, Z. D. Kovalyuk, P. D. Maryanchuk, and K. S. Ulyanytskiy, Semicond. Sci. Technol., 26, No. 12: 125006 (2011).",
+				"tr":  "V. V. Brus, M. I. Ilashchuk, Z. D. Kovalyuk, P. D. Maryanchuk, and K. S. Ulyanytskiy, Semicond. Sci. Technol., 26, No. 12: 125006 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Брус, М. И. Илащук, З. Д. Ковалюк, П. Д. Марьянчук, К. С. Ульяницкий, Б. Н. Грицюк, Физика и техника полупроводников, 45, № 8: 1109 (2011).",
+				"tr":  "V. V. Brus, M. I. Ilashchuk, Z. D. Kovalyuk, P. D. Mar'yanchuk, K. S. Ul'yanitskiy, and B. N. Gritsyuk, Fizika i Tekhnika Poluprovodnikov, 45, No. 8: 1109 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. L. Fahrenbruch and R. H. Bube, Fundamentals of Solar Cells: Photovoltaic Solar Energy Conversion (New York: Academic Press: 1983).",
+				"tr":  "A. L. Fahrenbruch and R. H. Bube, Fundamentals of Solar Cells: Photovoltaic Solar Energy Conversion (New York: Academic Press: 1983)."
+			},
+			{
+				"doi": "",
+				"or":  "B. L. Sharma and R. K. Purohit, Semiconductor Heterojunctions (Oxford, New York: Pergamon Press: 1974).",
+				"tr":  "B. L. Sharma and R. K. Purohit, Semiconductor Heterojunctions (Oxford, New York: Pergamon Press: 1974)."
+			},
+			{
+				"doi": "10.1134/S0030400X14110198",
+				"or":  "M. N. Solovan, V. V. Brus, P. D. Maryanchuk, I. M. Fodchuk, V. M. Lorents, A. M. Sletov, M. M. Sletov, and M. Gluba, Opt. Spectrosc., 117, No. 5: 755 (2014).",
+				"tr":  "M. N. Solovan, V. V. Brus, P. D. Maryanchuk, I. M. Fodchuk, V. M. Lorents, A. M. Sletov, M. M. Sletov, and M. Gluba, Opt. Spectrosc., 117, No. 5: 755 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "A. N. Kuchuk, V. P. Kladko, V. F. Machulin, A. Piotrowska, E. Kaminska, K. Golaszewska, R. Ratajczak, and R. Minikayev, Rev. Adv. Mater. Sci., 8, No. 1: 22 (2004).",
+				"tr":  "A. N. Kuchuk, V. P. Kladko, V. F. Machulin, A. Piotrowska, E. Kaminska, K. Golaszewska, R. Ratajczak, and R. Minikayev, Rev. Adv. Mater. Sci., 8, No. 1: 22 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Gonzalez, R. Woods, and S. Eddins, Digital Image Processing Using MATLAB (New Jersey: Pearson Education Inc.: 2004).",
+				"tr":  "R. Gonzalez, R. Woods, and S. Eddins, Digital Image Processing Using MATLAB (New Jersey: Pearson Education Inc.: 2004)."
+			},
+			{
+				"doi": "10.1016/S0040-6090(98)01430-8",
+				"or":  "A. K. Kulkarni, H. Schulz Kirk, T. S. Lim, and M. Khan, Thin Solid Films, 345, No. 2: 273 (1999).",
+				"tr":  "A. K. Kulkarni, H. Schulz Kirk, T. S. Lim, and M. Khan, Thin Solid Films, 345, No. 2: 273 (1999)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(01)01041-6",
+				"or":  "S. B. Hu, J. P. Tu, Z. Mei, Z. Z. Li, and X. B. Zhang, Surf. Coat. Technol., 141, Nos. 2–3: 174 (2001).",
+				"tr":  "S. B. Hu, J. P. Tu, Z. Mei, Z. Z. Li, and X. B. Zhang, Surf. Coat. Technol., 141, Nos. 2–3: 174 (2001)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(00)01096-3",
+				"or":  "T. S. Li, H. Li, and F. Pan, Surf. Coat. Technol., 137, Nos. 2–3: 225 (2001).",
+				"tr":  "T. S. Li, H. Li, and F. Pan, Surf. Coat. Technol., 137, Nos. 2–3: 225 (2001)."
+			},
+			{
+				"doi": "10.1149/1.1534711",
+				"or":  "M. Haichuan, J. Seok, and R. Y. Lin, J. Electrochem. Soc., 150, No. 2: C67 (2003).",
+				"tr":  "M. Haichuan, J. Seok, and R. Y. Lin, J. Electrochem. Soc., 150, No. 2: C67 (2003)."
+			}
+		]
+	}
+}

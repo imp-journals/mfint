@@ -1,0 +1,45 @@
+{
+	"_id":    "MFiNT.37.0521",
+	"year":   2015,
+	"volume": 37,
+	"issue":  4,
+	"pages":  [521,530],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["01.10.2014","28.10.2014"],
+	"PACS":   "61.66.Dk, 64.75.Bc, 68.43.Nr, 81.70.Jb, 81.70.Pg, 82.80.Ms, 88.30.rd",
+	"title":  {
+		"ua": "Водневосорбційні властивості евтектичного сплаву Ti$_{0,475}$Zr$_{0,3}$Mn$_{0,225}$, леґованого 2 и 5 ат.% ванадію",
+		"en": "Hydrogen Sorption Properties of Ti$_{0,475}$Zr$_{0,3}$Mn$_{0,225}$ Eutectic Alloy Alloyed with 2 at.% and 5 at.% of Vanadium",
+		"ru": "Водородсорбционные свойства эвтектического сплава Ti$_{0,475}$Zr$_{0,3}$Mn$_{0,225}$, легированного 2 и 5 ат.% ванадия"
+	},
+	"abstract": {
+		"ua": "Сівертсовою методою досліджено сорбційні властивості і кінетичні параметри процесів гідрування і дегідрування виливаного евтектичного стопу Ti$_{0,475}$Zr$_{0,3}$Mn$_{0,225}$, в якому було виконано часткову заміну кожного з його компонентів на 2% і 5% Ванадію. Встановлено, що введення Ванадію в зазначених межах приводить до зниження температури початку інтенсивного вбирання Гідроґену, зменшення тривалости процесу гідрування, а також до істотного збільшення сорбційної місткости (до 2,85% мас.). Показано, що стопи, які пройшли циклування сорбція—десорбція, мають настільки активовану поверхню, що ведуть себе щодо водню неначе інтерметаліди і здатні вбирати Гідроґен за кімнатної температури і тиску у 0,23 МПа з перших секунд контакту зразка з водневим середовищем із середньою швидкістю у $(2—4) \\cdot 10^{3}$ мас.%/с.",
+		"en": "Sorption properties and kinetic parameters of hydrogenating and dehydrogenating processes of Ti$_{0,475}$Zr$_{0,3}$Mn$_{0,225}$ eutectic alloy, in which partial substitution of each of its component with 2% and 5% of vanadium is performed, are investigated by Sieverts’ method. As determined, the introduction of vanadium within the specified limits results in decrease of the temperature of the start of intensive hydrogen absorption, decrease of the duration of hydrogenating process, and also in substantial increase of sorption capacity (up to 2.85% wt.). As shown, the alloys, which are subjected to the sorption—desorption cycling, possess as much activated surface that behave themselves with regard to hydrogen similar to intermetallic compounds and can absorb hydrogen at the room temperature and the pressure of 0.23 MPa from the first seconds of the contact of the specimen with the hydrogen-containing medium with the average rate of $(2—4) \\cdot 10^{3}$ wt.%/s.",
+		"ru": "Методом Сивертса исследованы сорбционные свойства и кинетические параметры процессов гидрирования и дегидрирования литого эвтектического сплава Ti$_{0,475}$Zr$_{0,3}$Mn$_{0,225}$, в котором была произведена частичная замена каждого из его компонентов на 2% и 5% ванадия. Установлено, что введение ванадия в указанных пределах приводит к понижению температуры начала интенсивного поглощения водорода, снижению продолжительности процесса гидрирования, а также к существенному увеличению сорбционной ёмкости (до 2,85% масс.). Показано, что сплавы, прошедшие циклирование сорбция—десорбция, обладают настолько активированной поверхностью, что ведут себя по отношению к водороду подобно интерметаллидам и способны поглощать водород при комнатной температуре и давлении 0,23 МПа с первых секунд контакта образца с водородсодержащей средой со средней скоростью $(2—4) \\cdot 10^{3}$ масс.%/с."
+	},
+	"keywords": {
+		"ua": "гідрування, дегідрування, воднева ємність, евтектичні стопи, інтерметалід, твердий розчин",
+		"en": "hydrogenating, dehydrogenating, hydrogen capacity, eutectic alloys, intermetallide, solid solution",
+		"ru": "гидрирование, дегидрирование, водородная ёмкость, эвтектические сплавы, интерметаллид, твёрдый раствор"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Г. Іванченко", "en": "V. G. Ivanchenko", "ru": "В. Г. Иванченко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. А. Дехтяренко", "en": "V. A. Dekhtyarenko", "ru": "В. А. Дехтяренко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Т. В. Прядко", "en": "T. V. Pryadko", "ru": "Т. В. Прядко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 16,
+		"list":  []
+	}
+}

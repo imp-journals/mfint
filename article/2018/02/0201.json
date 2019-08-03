@@ -1,0 +1,404 @@
+{
+	"_id":    "MFiNT.40.02.0201",
+	"year":   2018,
+	"volume": 40,
+	"issue":  2,
+	"pages":  [201,218],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["09.11.2017"],
+	"PACS":   "61.72.Hh, 61.72.Yx, 62.20.M-, 62.40.+i, 68.35.Dv, 71.20.Be, 76.30.-v",
+	"title":   {
+		"ua": "Механізм окрихчення металів поверхнево-активними елементами",
+		"en": "Mechanism of Embrittlement of Metals by Surface-Active Elements",
+		"ru": "Механизм охрупчивания металлов поверхностно-активными элементами"
+	},
+	"abstract": {
+		"ua": "Природу механічної деґрадації металів, яку спричинено дією поверхнево-активних елементів, було досліджено, виходячи із впливу Йоду та Ґалію на аустенітні сталі та використовуючи $ab initio$-розрахунки й експериментальні дослідження електронної структури, рентґенівську дифракцію, механічну спектроскопію та механічні випробування. Показано істотне підвищення густини електронних станів на рівні Фермі у випадку Йоду в ГЦК-залізі, що узгоджується з вимірюваннями, в яких було зафіксовано підвищену концентрацію вільних електронів, яку спричинено Йодом в аустенітних сталях. Як наслідок, встановлено підвищення мобільности дислокацій, спричинене Йодом і Ґалієм в аустенітних сталях. Обговорюється роль локалізації підвищеної пластичної деформації в якості умови крихкости. Одержані результати суперечать розповсюдженим твердженням про визначальну роль поверхневої енергії в рідкометалевому окрихченні і замість цього інтерпретуються, виходячи з кореляції між атомними взаємодіями та дислокаційними властивостями. Обговорюється коректність гіпотез HELP та AIDE.",
+		"en": "The nature of mechanical degradation of metals caused by surface-active elements is studied based on the effects of iodine and gallium in austenitic steels and using $ab initio$ calculations and experimental measurements of electronic structure, X-ray diffraction, mechanical spectroscopy, and mechanical tests. A significant increase in the density of electron states at the Fermi level for iodine in f.c.c. iron is shown that is in consistent with the measurements of the increased concentration of free electrons caused by iodine in austenitic steels. Consequently, the increase in mobility of dislocations by iodine and gallium in austenitic steels is revealed. The localization of the enhanced plastic deformation is discussed as a condition for brittleness. The obtained results are at variance with the widely spread opinion about the determining role of surface energy in a liquid-metal brittleness and, instead, are interpreted based on the correlation between atomic interactions and dislocation properties. Applicability of the available HELP and AIDE hypotheses is discussed.",
+		"ru": "Природа механической деградации металлов, обусловленной поверхностно-активными элементами, была изучена, основываясь на влиянии йода и галлия на аустенитные стали и используя $ab initio$-расчёты и экспериментальные исследования электронной структуры, рентгеновскую дифракцию, механическую спектроскопию и механические испытания. Показано существенное повышение плотности электронных состояний на уровне Ферми в случае йода в ГЦК-железе, что согласуется с измерениями, в которых была зафиксирована повышенная концентрация свободных электронов, вызванная йодом в аустенитных сталях. Как следствие, установлено повышение мобильности дислокаций, вызванное йодом и галлием в аустенитных сталях. Обсуждается роль локализации повышенной пластической деформации в качестве условия хрупкости. Полученные результаты противоречат широко распространённому мнению об определяющей роли поверхностной энергии в жидкометаллической хрупкости и, вместо этого, интерпретируются, основываясь на корреляции между атомными взаимодействиями и дислокационными свойствами. Обсуждается применимость гипотез HELP и AIDE."
+	},
+	"keywords": {
+		"ua": "ГЦК-залізо, аустенітна сталь, сурфактанти, електронна структура, дислокації, механічні властивості",
+		"en": "f.c.c. iron, austenitic steel, surfactants, electronic structure, dislocations, mechanical properties",
+		"ru": "ГЦК-железо, аустенитная сталь, сурфактанты, электронная структура, дислокации, механические свойства"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. М. Теус", "en": "S. M. Teus", "ru": "С. М. Теус"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Б. Д. Шаніна", "en": "B. D. Shanina", "ru": "Б. Д. Шанина"},
+			"OID": [20]
+		},
+		{
+			"AID": {"ua": "А. А. Кончиць", "en": "A. A. Konchits", "ru": "А. А. Кончиц"},
+			"OID": [20]
+		},
+		{
+			"AID": {"ua": "Г. С. Могильний", "en": "G. S. Mogilny", "ru": "Г. С. Могильный"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. Г. Гаврилюк", "en": "V. G. Gavriljuk", "ru": "В. Г. Гаврилюк"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 70,
+		"list":  [
+			{
+				"doi": "10.1098/rspl.1874.0024",
+				"or":  "W. H. Johnson, Proc. R. Soc. Lond., 23: 168 (1874).",
+				"tr":  "W. H. Johnson, Proc. R. Soc. Lond., 23: 168 (1874)."
+			},
+			{
+				"doi": "10.1016/0025-5416(75)90072-5",
+				"or":  "J. C. Liynn, W. R. Warke, and P. Gordon, Mat. Sci. Eng., 18: 51 (1975).",
+				"tr":  "J. C. Liynn, W. R. Warke, and P. Gordon, Mat. Sci. Eng., 18: 51 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "P. A. Rehbinder, Communications of VI Congress of Russian Physicists (Moscow: OGIZ: 1928), p. 29.",
+				"tr":  "P. A. Rehbinder, Communications of VI Congress of Russian Physicists (Moscow: OGIZ: 1928), p. 29."
+			},
+			{
+				"doi": "10.1016/S0029-5493(97)00110-6",
+				"or":  "B. F. Gromov, Yu. S. Belomitsev, and E. I. Yefimov, Nuclear Eng. Design, 173: 207 (1997).",
+				"tr":  "B. F. Gromov, Yu. S. Belomitsev, and E. I. Yefimov, Nuclear Eng. Design, 173: 207 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Lichtman, E. D. Shukin, and P. A. Rehbinder, Physical-Chemical Mechanics of Metals (Moscow: Academy of Sci. USSR: 1962) (in Russian).",
+				"tr":  "V. I. Lichtman, E. D. Shukin, and P. A. Rehbinder, Physical-Chemical Mechanics of Metals (Moscow: Academy of Sci. USSR: 1962) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "E. D. Shchukin and P. A. Rehbinder, Selected Studies. Surface Phenomena in Disperse Systems. Physical-Chemical Mechanics (Moscow: Nauka: 1979) (in Russian).",
+				"tr":  "E. D. Shchukin and P. A. Rehbinder, Selected Studies. Surface Phenomena in Disperse Systems. Physical-Chemical Mechanics (Moscow: Nauka: 1979) (in Russian)."
+			},
+			{
+				"doi": "10.1007/BF01028323",
+				"or":  "M. G. Nicolas and C. F. Old, J. Mater. Sci., 14: 1 (1979).",
+				"tr":  "M. G. Nicolas and C. F. Old, J. Mater. Sci., 14: 1 (1979)."
+			},
+			{
+				"doi": "10.1016/B978-008044635-6.50046-7",
+				"or":  "A. I. Malkin, Z. M. Polukarova, V. M. Zanozin et al., Environment-Induced Cracking of Materials: Chemistry, Mechanics and Mechanisms (Eds. S. A. Shipilov, R. H. Jones, J.-M. Olive, and R. B. Rebak) (Oxford: Elsevier Science: 2008), p. 497.",
+				"tr":  "A. I. Malkin, Z. M. Polukarova, V. M. Zanozin et al., Environment-Induced Cracking of Materials: Chemistry, Mechanics and Mechanisms (Eds. S. A. Shipilov, R. H. Jones, J.-M. Olive, and R. B. Rebak) (Oxford: Elsevier Science: 2008), p. 497."
+			},
+			{
+				"doi": "10.1016/B978-008044635-6.50044-3",
+				"or":  "J.-B. Vogt, I. Serre, A. Verleene, and A. Legris, Environment-Induced Cracking of Materials: Chemistry, Mechanics and Mechanisms (Eds. S. A. Shipilov, R. H. Jones, J.-M. Olive, and R. B. Rebak) (Oxford: Elsevier Science: 2008), p. 481.",
+				"tr":  "J.-B. Vogt, I. Serre, A. Verleene, and A. Legris, Environment-Induced Cracking of Materials: Chemistry, Mechanics and Mechanisms (Eds. S. A. Shipilov, R. H. Jones, J.-M. Olive, and R. B. Rebak) (Oxford: Elsevier Science: 2008), p. 481."
+			},
+			{
+				"doi": "10.1080/10426914.2011.648693",
+				"or":  "C. N. Vigilante, S. Bartolucci, J. Izzo, M. Witherell, and S. B. Smith, Mater. Manufact. Processes, 27: 835 (2012).",
+				"tr":  "C. N. Vigilante, S. Bartolucci, J. Izzo, M. Witherell, and S. B. Smith, Mater. Manufact. Processes, 27: 835 (2012)."
+			},
+			{
+				"doi": "10.1016/0079-6816(72)90011-1",
+				"or":  "P. A. Rehbinder and E. D. Shchukin, Progr. Surf. Sci., 3: 97 (1972).",
+				"tr":  "P. A. Rehbinder and E. D. Shchukin, Progr. Surf. Sci., 3: 97 (1972)."
+			},
+			{
+				"doi": "10.1016/S0022-3115(01)00730-9",
+				"or":  "A. Legris, G. Nicaise, J.-B. Vogt, and J. Foct, J. Nucl. Mater., 301: 70 (2002).",
+				"tr":  "A. Legris, G. Nicaise, J.-B. Vogt, and J. Foct, J. Nucl. Mater., 301: 70 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Gorse, S. Goryachev, and T. Auger, Proc of 3rd Intern. Symp. on Material Chemistry in Nuclear Environment (Japan Atomic Energy Research Institute, Tsukuba, Japan, 2003), p. 63.",
+				"tr":  "D. Gorse, S. Goryachev, and T. Auger, Proc of 3rd Intern. Symp. on Material Chemistry in Nuclear Environment (Japan Atomic Energy Research Institute, Tsukuba, Japan, 2003), p. 63."
+			},
+			{
+				"doi": "10.1134/S1061933X12020068",
+				"or":  "A. I. Malkin, Colloid J., 74: 239 (2012).",
+				"tr":  "A. I. Malkin, Colloid J., 74: 239 (2012)."
+			},
+			{
+				"doi": "10.1111/j.1151-2916.1996.tb08789.x",
+				"or":  "V. V. Belousov, J. Am. Ceram. Soc., 79: 1703 (1996).",
+				"tr":  "V. V. Belousov, J. Am. Ceram. Soc., 79: 1703 (1996)."
+			},
+			{
+				"doi": "10.1063/1.369659",
+				"or":  "E. E. Glickman and M. Nathan, J. Appl. Phys., 85: 3185 (1999).",
+				"tr":  "E. E. Glickman and M. Nathan, J. Appl. Phys., 85: 3185 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "N. S. Stoloff, R. G. Davies, and T. L. Johnston, Environment-Sensitive Mechanical Behaviour (Eds. A. R. C. Westwood and N. S. Stoloff) (New York: Gordon and Breach: 1966), p. 613.",
+				"tr":  "N. S. Stoloff, R. G. Davies, and T. L. Johnston, Environment-Sensitive Mechanical Behaviour (Eds. A. R. C. Westwood and N. S. Stoloff) (New York: Gordon and Breach: 1966), p. 613."
+			},
+			{
+				"doi": "10.1179/msc.1981.15.10.463",
+				"or":  "S. P. Lynch, Metal Sci., 15: 463 (1981).",
+				"tr":  "S. P. Lynch, Metal Sci., 15: 463 (1981)."
+			},
+			{
+				"doi": "10.1016/0079-6425(73)90005-4",
+				"or":  "M. H. Kamdar, Prog. Mater. Sci., 15: 289 (1973).",
+				"tr":  "M. H. Kamdar, Prog. Mater. Sci., 15: 289 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "M. H. Kamdar, Advanced Research Strength and Fracture of Materials: Proc. 4th Intern Conf Fract. (Canada: University of Waterloo: 1977), vol. 1, p. 387.",
+				"tr":  "M. H. Kamdar, Advanced Research Strength and Fracture of Materials: Proc. 4th Intern Conf Fract. (Canada: University of Waterloo: 1977), vol. 1, p. 387."
+			},
+			{
+				"doi": "10.1080/14786436708220903",
+				"or":  "A. Kelly, W. R. Tyson, and A. H. Cottrell, Philos. Mag., 15: 567 (1967).",
+				"tr":  "A. Kelly, W. R. Tyson, and A. H. Cottrell, Philos. Mag., 15: 567 (1967)."
+			},
+			{
+				"doi": "10.1016/0036-9748(81)90355-0",
+				"or":  "S. Ashok, N. S. Stoloff, M. E. Glicksman, and T. Slavin, Scr. Metall., 15: 331 (1981).",
+				"tr":  "S. Ashok, N. S. Stoloff, M. E. Glicksman, and T. Slavin, Scr. Metall., 15: 331 (1981)."
+			},
+			{
+				"doi": "10.1016/0025-5416(84)90243-X",
+				"or":  "T. P. Slavin and N. S. Stoloff, Mat. Sci. Eng., 68: 55 (1984).",
+				"tr":  "T. P. Slavin and N. S. Stoloff, Mat. Sci. Eng., 68: 55 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Nichols and W. Rostoker, Trans. AIME, 224: 1258 (1962).",
+				"tr":  "H. Nichols and W. Rostoker, Trans. AIME, 224: 1258 (1962)."
+			},
+			{
+				"doi": "",
+				"or":  "P. C. Hancock and M. B. Ives, Canadian J. Metallurgy Mater. Sci., 10: 207 (1971).",
+				"tr":  "P. C. Hancock and M. B. Ives, Canadian J. Metallurgy Mater. Sci., 10: 207 (1971)."
+			},
+			{
+				"doi": "10.1016/0025-5416(73)90035-9",
+				"or":  "M. M. Shea and N. S. Stoloff, Mater. Sci. Eng., 12: 245 (1973).",
+				"tr":  "M. M. Shea and N. S. Stoloff, Mater. Sci. Eng., 12: 245 (1973)."
+			},
+			{
+				"doi": "10.1142/S0217979291001176",
+				"or":  "E. I. Rabkin, L. S. Shvindlerman, and B. V. Straumal, Intern. J. Modern. Phys. B, 5: 2989 (1991).",
+				"tr":  "E. I. Rabkin, L. S. Shvindlerman, and B. V. Straumal, Intern. J. Modern. Phys. B, 5: 2989 (1991)."
+			},
+			{
+				"doi": "10.1063/1.4805361",
+				"or":  "K. Tai, L. Feng, and Sh. J. Dillon, J. Appl. Phys., 113: 193507 (2013).",
+				"tr":  "K. Tai, L. Feng, and Sh. J. Dillon, J. Appl. Phys., 113: 193507 (2013)."
+			},
+			{
+				"doi": "10.1016/0001-6160(84)90204-9",
+				"or":  "S. P. Lynch, Acta Metall., 32: 79 (1984).",
+				"tr":  "S. P. Lynch, Acta Metall., 32: 79 (1984)."
+			},
+			{
+				"doi": "10.1016/0001-6160(88)90113-7",
+				"or":  "S. P. Lynch, Acta Metall., 36: 2639 (1988).",
+				"tr":  "S. P. Lynch, Acta Metall., 36: 2639 (1988)."
+			},
+			{
+				"doi": "10.1007/s11661-012-1359-2",
+				"or":  "S. P. Lynch, Metall. Mater. Trans. A, 44: 1209 (2013).",
+				"tr":  "S. P. Lynch, Metall. Mater. Trans. A, 44: 1209 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "S. P. Linch, Cor. Rev., 30: 105 (2012).",
+				"tr":  "S. P. Linch, Cor. Rev., 30: 105 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "V. G. Gavriljuk, B. D. Shanina, V. N. Shyvanyuk, and S. M. Teus, Cor. Rev., 31: 33 (2013).",
+				"tr":  "V. G. Gavriljuk, B. D. Shanina, V. N. Shyvanyuk, and S. M. Teus, Cor. Rev., 31: 33 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "W. S. Ryu, S. I. Hong, Y. Choi, Y. H. Kang, and C. S. Rim, J. Korean Nuclear Society, 17: 193 (1985).",
+				"tr":  "W. S. Ryu, S. I. Hong, Y. Choi, Y. H. Kang, and C. S. Rim, J. Korean Nuclear Society, 17: 193 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Blaha, K. Schwarz, G. K. H. Madsen, D. Kvasnicka, and J. Luitz, WIEN2k, An Augmented Plane WaveLocal Orbitals Program for Calculating Crystal Properties (Wien, Austria: Techn. Universität Wien: 2001).",
+				"tr":  "P. Blaha, K. Schwarz, G. K. H. Madsen, D. Kvasnicka, and J. Luitz, WIEN2k, An Augmented Plane Wave+Local Orbitals Program for Calculating Crystal Properties (Wien, Austria: Techn. Universität Wien: 2001)."
+			},
+			{
+				"doi": "10.1103/PhysRev.136.B864",
+				"or":  "P. Hohenberg and W. Kohn, Phys. Rev. B, 136: 864 (1964).",
+				"tr":  "P. Hohenberg and W. Kohn, Phys. Rev. B, 136: 864 (1964)."
+			},
+			{
+				"doi": "10.1103/PhysRev.140.A1133",
+				"or":  "W. Kohn and L. J. Sham, Phys. Rev. A, 140: 1133 (1965).",
+				"tr":  "W. Kohn and L. J. Sham, Phys. Rev. A, 140: 1133 (1965)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.26.4571",
+				"or":  "M. Weinert, E. Wimmer and A. J. Freeman. Phys. Rev. B, 26: 4571 (1982).",
+				"tr":  "M. Weinert, E. Wimmer and A. J. Freeman. Phys. Rev. B, 26: 4571 (1982)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.77.3865",
+				"or":  "J. P. Perdew, S. Burke, and M. Ernzernhoff, Phys. Rev. Lett., 77: 3865 (1996).",
+				"tr":  "J. P. Perdew, S. Burke, and M. Ernzernhoff, Phys. Rev. Lett., 77: 3865 (1996)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.49.16223",
+				"or":  "P. E. Blöchl, O. Jepsen, and O. K. Andersen, Phys. Rev. B, 49: 16223 (1994).",
+				"tr":  "P. E. Blöchl, O. Jepsen, and O. K. Andersen, Phys. Rev. B, 49: 16223 (1994)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.4.3797",
+				"or":  "J. H. Pifer and R. T. Longo, Phys. Rev. B, 4: 3797 (1971).",
+				"tr":  "J. H. Pifer and R. T. Longo, Phys. Rev. B, 4: 3797 (1971)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.48.3224",
+				"or":  "G. Gavriljuk, S. P. Efimenko, Ye. E. Smuk, S. Yu. Smuk, B. D. Shanina, N. P. Baran, and V. M. Maksimenko, Phys. Rev. B, 48: 3224 (1993).",
+				"tr":  "G. Gavriljuk, S. P. Efimenko, Ye. E. Smuk, S. Yu. Smuk, B. D. Shanina, N. P. Baran, and V. M. Maksimenko, Phys. Rev. B, 48: 3224 (1993)."
+			},
+			{
+				"doi": "10.1088/0022-3727/32/3/018",
+				"or":  "B. D. Shanina, V. G. Gavriljuk, S. P. Kolesnik, and V. N. Shivanyuk, J. Phys. D: Appl. Phys., 32: 298 (1999).",
+				"tr":  "B. D. Shanina, V. G. Gavriljuk, S. P. Kolesnik, and V. N. Shivanyuk, J. Phys. D: Appl. Phys., 32: 298 (1999)."
+			},
+			{
+				"doi": "10.1088/0953-8984/1/51/015",
+				"or":  "Y. Tsunoda, J. Phys.: Condensed Matter, 1: 10427 (1989).",
+				"tr":  "Y. Tsunoda, J. Phys.: Condensed Matter, 1: 10427 (1989)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.66.014447",
+				"or":  "E. Sjostedt and L. Nordstrom, Phys. Rev. B, 66: 014447 (2002).",
+				"tr":  "E. Sjostedt and L. Nordstrom, Phys. Rev. B, 66: 014447 (2002)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.76.014434",
+				"or":  "I. A. Abrikosov, I. A. Kissavos, F. Liot, B. Alling, S. I. Simak, O. Peil, and A. V. Ruban, Phys. Rev. B, 76: 014434 (2007).",
+				"tr":  "I. A. Abrikosov, I. A. Kissavos, F. Liot, B. Alling, S. I. Simak, O. Peil, and A. V. Ruban, Phys. Rev. B, 76: 014434 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.67.214103",
+				"or":  "D. E. Jiang and E. Carter, Phys. Rev. B, 67: 214103 (2003).",
+				"tr":  "D. E. Jiang and E. Carter, Phys. Rev. B, 67: 214103 (2003)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.60.3839",
+				"or":  "H. C. Herper, E. Hoffmann, and P. Entel, Phys. Rev. B, 60: 3839 (1999).",
+				"tr":  "H. C. Herper, E. Hoffmann, and P. Entel, Phys. Rev. B, 60: 3839 (1999)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.49.6012",
+				"or":  "M. Acet, H. Zaehres, E. F. Wassermann, and W. Pepperhoff, Phys. Rev. B, 49: 6012 (1994).",
+				"tr":  "M. Acet, H. Zaehres, E. F. Wassermann, and W. Pepperhoff, Phys. Rev. B, 49: 6012 (1994)."
+			},
+			{
+				"doi": "10.1016/0921-4526(89)90147-6",
+				"or":  "W. Keune, T. Ezawa, W. A. A. Macedo, U. Glos, K. P. Schletz, and U. Kirschbaum, Physica B, 161: 269 (1989).",
+				"tr":  "W. Keune, T. Ezawa, W. A. A. Macedo, U. Glos, K. P. Schletz, and U. Kirschbaum, Physica B, 161: 269 (1989)."
+			},
+			{
+				"doi": "10.1063/1.340722",
+				"or":  "C. Carbone, G. S. Sohal, E. Kisker, and E. F. Wassermann, J. Appl. Phys., 63: 3499 (1988).",
+				"tr":  "C. Carbone, G. S. Sohal, E. Kisker, and E. F. Wassermann, J. Appl. Phys., 63: 3499 (1988)."
+			},
+			{
+				"doi": "10.1016/S1093-3263(99)00028-5",
+				"or":  "A. Kokalj, J. Mol. Graph. Model., 17: 176 (1999).",
+				"tr":  "A. Kokalj, J. Mol. Graph. Model., 17: 176 (1999)."
+			},
+			{
+				"doi": "10.1016/0001-6160(64)90141-5",
+				"or":  "G. Schoeck, E. Bisogni, and J. Shyne, Acta Metall., 12: 1466 (1964).",
+				"tr":  "G. Schoeck, E. Bisogni, and J. Shyne, Acta Metall., 12: 1466 (1964)."
+			},
+			{
+				"doi": "10.1007/BF02722508",
+				"or":  "A. Rivière, V. Amirault, and J. Woirgard, Nuovo Cimento, 33: 398 (1976).",
+				"tr":  "A. Rivière, V. Amirault, and J. Woirgard, Nuovo Cimento, 33: 398 (1976)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(02)00524-4",
+				"or":  "V. G. Gavriljuk, V. N. Shivanyuk, and J. Foct, Acta Mater., 51: 1293 (2003).",
+				"tr":  "V. G. Gavriljuk, V. N. Shivanyuk, and J. Foct, Acta Mater., 51: 1293 (2003)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2011.03.002",
+				"or":  "M. L. Martin, I. M. Robertson, and P. Sofronis, Acta Mater., 59: 3680 (2011).",
+				"tr":  "M. L. Martin, I. M. Robertson, and P. Sofronis, Acta Mater., 59: 3680 (2011)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(97)00350-9",
+				"or":  "Y. Tomota, Y. Xia, and K. Inoue, Acta Mater., 46: 1577 (1998).",
+				"tr":  "Y. Tomota, Y. Xia, and K. Inoue, Acta Mater., 46: 1577 (1998)."
+			},
+			{
+				"doi": "10.1016/0022-3697(88)90178-3",
+				"or":  "R. B. McLellan, J. Phys. Chem. Sol., 49: 1213 (1988).",
+				"tr":  "R. B. McLellan, J. Phys. Chem. Sol., 49: 1213 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Smirnov, Reports of Academy of Sciences of UkrSSR, 7: 66 (1991).",
+				"tr":  "A. A. Smirnov, Reports of Academy of Sciences of UkrSSR, 7: 66 (1991)."
+			},
+			{
+				"doi": "10.1143/JJAP.32.L1256",
+				"or":  "Y. Fukai and N. Okuma, Jpn. J. Appl. Phys., 32: L1256 (1993).",
+				"tr":  "Y. Fukai and N. Okuma, Jpn. J. Appl. Phys., 32: L1256 (1993)."
+			},
+			{
+				"doi": "10.1016/1359-6462(95)00580-3",
+				"or":  "V. G. Gavriljuk, V. N. Bugaev, Yu. N. Petrov, A. V. Tarasenko, and B. Z. Yanchitsky, Scr. Mater., 34: 903 (1996).",
+				"tr":  "V. G. Gavriljuk, V. N. Bugaev, Yu. N. Petrov, A. V. Tarasenko, and B. Z. Yanchitsky, Scr. Mater., 34: 903 (1996)."
+			},
+			{
+				"doi": "10.1016/0001-6160(86)90071-4",
+				"or":  "I. M. Robertson and H. K. Birnbaum, Acta Metal., 34: 353 (1986).",
+				"tr":  "I. M. Robertson and H. K. Birnbaum, Acta Metal., 34: 353 (1986)."
+			},
+			{
+				"doi": "10.1016/0921-5093(94)90975-X",
+				"or":  "H. K. Birnbaum and P. Sofronis. Mater Sci. Eng. A, 176: 191 (1994).",
+				"tr":  "H. K. Birnbaum and P. Sofronis. Mater Sci. Eng. A, 176: 191 (1994)."
+			},
+			{
+				"doi": "10.1016/S0997-7538(01)01179-2",
+				"or":  "P. Sofronis, Y. Liang, and N. Aravas, Eur. J. Mech. A/Solids, 20: 857 (2001).",
+				"tr":  "P. Sofronis, Y. Liang, and N. Aravas, Eur. J. Mech. A/Solids, 20: 857 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "I. M. Robertson, H. K. Birnbaum, and P. Sofronis, Dislocation in Solids. Ch. 91 (Eds. J. P. Hirth and L. Kubin) (New York: Elsevier: 2009), p. 250.",
+				"tr":  "I. M. Robertson, H. K. Birnbaum, and P. Sofronis, Dislocation in Solids. Ch. 91 (Eds. J. P. Hirth and L. Kubin) (New York: Elsevier: 2009), p. 250."
+			},
+			{
+				"doi": "10.1063/1.3499610",
+				"or":  "V. G. Gavriljuk, B. D. Shanina, V. N. Syvanyuk, and S. M. Teus, J. Appl. Phys., 108: 083723 (2010).",
+				"tr":  "V. G. Gavriljuk, B. D. Shanina, V. N. Syvanyuk, and S. M. Teus, J. Appl. Phys., 108: 083723 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "V. G. Gavriljuk, B. D. Shanina, V. N. Shyvanyuk, and S. M. Teus, Proceedings of the 2012 International Hydrogen Conference (September 9–12, 2012, Grand Teton National Park, Jackson Lake Lodge, Wyoming, USA) (Eds. B. P. Somerday and P. Sofronis) (New York: ASME Press: 2014), p. 67.",
+				"tr":  "V. G. Gavriljuk, B. D. Shanina, V. N. Shyvanyuk, and S. M. Teus, Proceedings of the 2012 International Hydrogen Conference (September 9–12, 2012, Grand Teton National Park, Jackson Lake Lodge, Wyoming, USA) (Eds. B. P. Somerday and P. Sofronis) (New York: ASME Press: 2014), p. 67."
+			},
+			{
+				"doi": "10.1016/S1359-6454(97)00349-2",
+				"or":  "P. J. Ferreira, I. M. Robertson, and H. K. Birnbaum, Acta Mater., 46: 1749 (1998).",
+				"tr":  "P. J. Ferreira, I. M. Robertson, and H. K. Birnbaum, Acta Mater., 46: 1749 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "V. G. Gavriljuk, V. A. Duz’, N. D. Aphanasyev et al., Corrosion-Resistant Austenitic Steel: Patent USSR No. 1507854 (15.05.1989).",
+				"tr":  "V. G. Gavriljuk, V. A. Duz', N. D. Aphanasyev et al., Corrosion-Resistant Austenitic Steel: Patent USSR No. 1507854 (15.05.1989)."
+			},
+			{
+				"doi": "10.12693/APhysPolA.128.564",
+				"or":  "A. L. Berezina, O. A. Molebny, and A. V. Kotko, Acta Phys. Polon. Series A, 128: 564 (2015).",
+				"tr":  "A. L. Berezina, O. A. Molebny, and A. V. Kotko, Acta Phys. Polon. Series A, 128: 564 (2015)."
+			}
+		]
+	}
+}

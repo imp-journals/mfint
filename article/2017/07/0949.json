@@ -1,0 +1,123 @@
+{
+	"_id":    "MFiNT.39.07.0949",
+	"year":   2017,
+	"volume": 39,
+	"issue":  7,
+	"pages":  [949,957],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["10.02.2017"],
+	"PACS":   "62.20.F-, 62.20.M-, 64.60.al, 68.35.Dv, 81.40.Cd, 81.40.Ef, 81.70.Bt",
+	"title":   {
+		"ua": "До застосування фрактального формалізму при ранжуванні критеріїв якости багатопараметричних технологій",
+		"en": "On the Application of Fractal Formalism for Ranging Criteria of Quality of Multiparametric Technologies",
+		"ru": "К применению фрактального формализма при ранжировании критериев качества многопараметрических технологий"
+	},
+	"abstract": {
+		"ua": "У роботі проведено оцінку критеріїв якости багатопараметричних технологій. Запропонований підхід уможливлює, залежно від величини области самоподібности визначального параметра, оцінювати ступінь значущости критеріїв на прикладі визначення їх для сортопрокатних чавунних валків.",
+		"en": "In the article, the quality criteria of multiparametric technologies are analysed. An approach allowing estimating a significance of the criteria depending on the size of the area of key parameters’ self-similarity is proposed. As an illustrative example, this approach for the case of cast-iron rolls is used.",
+		"ru": "В работе проведена оценка критериев качества многопараметрических технологий. Предложенный подход позволяет в зависимости от величины области самоподобия определяющего параметра оценивать степень значимости критериев на примере их определения для сортопрокатных чугунных валков."
+	},
+	"keywords": {
+		"ua": "чавунні валки, механічні властивості, мікроструктура, область самоподібности, фрактальний формалізм",
+		"en": "cast-iron rolls, mechanical properties, microstructure, area of self-similarity, fractal formalism",
+		"ru": "чугунные валки, механические свойства, микроструктура, область самоподобия, фрактальный формализм"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. М. Волчук", "en": "V. M. Volchuk", "ru": "В. Н. Волчук"},
+			"OID": [225]
+		}
+	],
+	"references": {
+		"count": 17,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Ю. Дубров, В. Большаков, В. Волчук, Пути идентификации периодических многокритериальных технологий (Саарбрюккен, Германия: Palmarium Academic Publishing: 2015).",
+				"tr":  "Yu. Dubrov, V. Bol'shakov, and V. Volchuk, Puti Identifikatsii Periodicheskikh Mnogokriterialnykh Tekhnologiy [Paths to Identification of Periodic Multicriteria Technologies] (Saarbrucken, Deutschland: Palmarium Academic Publishing: 2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "B. B. Mandelbrot, The Fractal Geometry of Nature (New York–San Francisco: Freeman: 1982).",
+				"tr":  "B. B. Mandelbrot, The Fractal Geometry of Nature (New York–San Francisco: Freeman: 1982)."
+			},
+			{
+				"doi": "10.1142/3064",
+				"or":  "C. W. Lung and N. H. March, Mechanical Properties of Metals. Atomistic and Fractal Continuum Approaches (Singapore: World Scientific: 1999).",
+				"tr":  "C. W. Lung and N. H. March, Mechanical Properties of Metals. Atomistic and Fractal Continuum Approaches (Singapore: World Scientific: 1999)."
+			},
+			{
+				"doi": "",
+				"or":  "А. С. Бакай, Материаловедение, вып. 6: 2 (2009); там же, вып. 7: 2 (2009); там же, вып. 8: 2 (2009).",
+				"tr":  "A. S. Bakai, Materialovedenie, Iss. 6: 2 (2009); ibid., Iss. 7: 2 (2009); ibid., Iss. 8: 2 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Шестопалов, Доповіді НАН України, № 3: 96 (1999).",
+				"tr":  "V. P. Shestopalov, Dopov. Nac. Akad. Nauk Ukr., No. 3: 96 (1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Т. Гринченко, В. Т.Мацыпура, А. А. Снарский, Введение в нелинейную динамику. Хаос и фракталы (Киев: Наукова думка: 2005).",
+				"tr":  "V. T. Grinchenko, V. T. Matsypura, and A. A. Snarskiy, Vvedenie v Nelineynuyu Dinamiku. Khaos i Fraktaly [Introduction to Nonlinear Dynamics. Chaos and Fractals] (Kiev: Naukova Dumka: 2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Ф. Булат, В. И. Дырда, Фракталы в геомеханике (Киев: Наукова думка: 2005).",
+				"tr":  "A. F. Bulat and V. I. Dyrda, Fraktaly v Geomekhanike [Fractals in Geomechanics] (Kiev: Naukova Dumka: 2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Иванова, А. С. Баланкин, И. Ж. Бунин, А. А. Оксогоев, Синергетика и фракталы в материаловедении (Москва: Наука: 1994).",
+				"tr":  "V. S. Ivanova, A. S. Balankin, I. Z. Bunin, and A. A. Oksogoyev, Sinergetika i Fraktaly v Materialovedenii [Synergetics and Fractals in Materials Science] (Moscow: Nauka: 1994) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.92.012702",
+				"or":  "J. Smrek and A. Y. Grosberg, Phys. Rev. E, 92: 012702 (2015).",
+				"tr":  "J. Smrek and A. Y. Grosberg, Phys. Rev. E, 92: 012702 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Большаков, В. Н. Волчук, Ю. И. Дубров, Доповіді НАН України, № 11: 99 (2008).",
+				"tr":  "V. I. Bol'shakov, V. N. Volchuk, and Yu. I. Dubrov, Dopov. Nac. Akad. Nauk Ukr., No. 11: 99 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Bolshakov, V. Volchuk, and Yu. Dubrov, Fractals and Properties of Materials (Saarbrucken, Deutschland: Lambert Academic Publishing: 2016).",
+				"tr":  "V. Bolshakov, V. Volchuk, and Yu. Dubrov, Fractals and Properties of Materials (Saarbrucken, Deutschland: Lambert Academic Publishing: 2016)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Большаков, В. Н. Волчук, Металлофиз. новейшие технол., 33, № 3: 347 (2011).",
+				"tr":  "V. I. Bol'shakov and V. N. Volchuk, Metallofiz. Noveishie Tekhnol., 33, No. 3: 347 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Е. Кривошеев, Литые валки (Москва: Металлургиздат: 1957).",
+				"tr":  "A. Ye. Krivosheyev, Litye Valki [Cast Rolls] (Moscow: Metallurgizdat: 1957) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. І. Большаков, В. М. Волчук, Ю. І. Дубров, Вісник НАН України, № 8: 66 (2013).",
+				"tr":  "V. I. Bol'shakov, V. M. Volchuk, and Yu. I. Dubrov, Visn. Nac. Akad. Nauk Ukr., No. 8: 66 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/dopovidi2014.11.077",
+				"or":  "В. И. Большаков, В. Н. Волчук, Ю. И. Дубров, Доповіді НАН України, № 11: 77 (2014).",
+				"tr":  "V. I. Bol'shakov, V. N. Volchuk, and Yu. I. Dubrov, Dopov. Nac. Akad. Nauk Ukr., No. 11: 77 (2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Будагьянц, В. Е. Карский, Литые прокатные валки (Москва: Металлургия: 1983).",
+				"tr":  "N. A. Budag'yants and V. Ye. Karskiy, Litye Prokatnye Valki [Alloy Mill Rolls] (Moscow: Metallurgiya: 1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. С. Скобло, Н. М. Воронцов, С. И. Рудюк, Н. А. Будагьянц, В. А. Воронина, Прокатные валки из высокоуглеродистых сплавов (Москва: Металлургия: 1994).",
+				"tr":  "T. S. Skoblo, N. M. Vorontsov, S. I. Rudyuk, N. A. Budag'yants, and V. A. Voronina, Prokatnye Valki iz Vysokouglerodistykh Splavov [Forming Rolls from High-Carbon Alloys] (Moscow: Metallurgiya: 1994) (in Russian)."
+			}
+		]
+	}
+}

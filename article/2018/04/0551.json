@@ -1,0 +1,84 @@
+{
+	"_id":    "MFiNT.40.04.0551",
+	"year":   2018,
+	"volume": 40,
+	"issue":  4,
+	"pages":  [551,560],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["10.03.18"],
+	"PACS":   "61.72.S-, 64.70.kd, 64.75.Op, 81.05.Bx, 81.30.Mh, 81.40.Ef, 81.40.Pq",
+	"title":   {
+		"ua": "Структура, фазовий склад переохолодженого аустеніту та кінетика його розпаду в перлітній області температур у хромоманґановому чавуні",
+		"en": "Structure, Phase Composition of Supercooled Austenite, and Kinetics of Its Decomposition in Perlite Temperature Range of Chromium–Manganese Cast Iron",
+		"ru": "Структура, фазовый состав переохлаждённого аустенита и кинетика его распада в перлитной области температур в хромомарганцевом чугуне"
+	},
+	"abstract": {
+		"ua": "У роботі розглянуто особливості кінетики розпаду переохолодженого аустеніту в перлітній області температур (600–500°C) у хромоманґановому чавуні, що містить 2,2% вуглецю, 12,63% хрому та 5,7% манґану. Вивчено структуроутворення, фазовий склад, твердість, а також розподіл елементів між фазами та структурними складовими чавуну, який досліджувався після ізотермічних витримок. За допомогою безкоштовного програмного забезпечення JMicroVision v.1.2.7. визначено середній діяметер вторинних карбідів після ізотермічних витримок.",
+		"en": "The current paper studies the kinetics features of supercooled austenite decomposition in the pearlite temperature range (600–500°C) in chromium–manganese cast iron with the content of 2.2% carbon, 12.63% chromium, 5.7% manganese. The structure formation, phase composition, hardness as well as the distribution of elements between the phases and the structural constituents of the above-mentioned cast iron after isothermal soaking are investigated. The average size of secondary carbides after isothermal soaking is determined using JMicroVision v.1.2.7 free software.",
+		"ru": "В работе рассмотрены особенности кинетики распада переохлаждённого аустенита в перлитной области температур (600–500°C) в хромомарганцевом чугуне с содержанием 2,2% углерода, 12,63% хрома и 5,7% марганца. Изучено структурообразование, фазовый состав, твёрдость, а также распределение элементов между фазами и структурными составляющими исследуемого чугуна после изотермических выдержек. C помощью бесплатного программного обеспечения JMicroVision v.1.2.7. определён средний диаметр вторичных карбидов после изотермических выдержек."
+	},
+	"keywords": {
+		"ua": "кінетика розпаду, переохолоджений аустеніт, перліт, фазові перетворення, дилатометричні криві",
+		"en": "kinetics of decomposition, supercooled austenite, perlite, phase transformations, dilatometric curves",
+		"ru": "кинетика распада, переохлаждённый аустенит, перлит, фазовые превращения, дилатометрические кривые"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. З. Куцова", "en": "V. Z. Kutsova", "ru": "В. З. Куцова"},
+			"OID": [223]
+		},
+		{
+			"AID": {"ua": "М. А. Ковзель", "en": "M. A. Kovzel", "ru": "М. А. Ковзель"},
+			"OID": [223]
+		},
+		{
+			"AID": {"ua": "П. Ю. Швець", "en": "P. U. Shvets", "ru": "П. Ю. Швец"},
+			"OID": [223]
+		},
+		{
+			"AID": {"ua": "А. В. Гребенева", "en": "A. V. Grebeneva", "ru": "А. В. Гребенева"},
+			"OID": [223]
+		},
+		{
+			"AID": {"ua": "В. В. Прутчикова", "en": "V. V. Prutchykova", "ru": "В. В. Прутчикова"},
+			"OID": [223]
+		}
+	],
+	"references": {
+		"count": 6,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "K. N. Vdovin, E. V. Sinitskiy, S. Yu. Volkov, and M. B. Abenova, Teoriya i Tekhnologiya Metallurgicheskogo Proizvodstva, No. 1: 42 (2013) (in Russian).",
+				"tr":  "K. N. Vdovin, E. V. Sinitskiy, S. Yu. Volkov, and M. B. Abenova, Teoriya i Tekhnologiya Metallurgicheskogo Proizvodstva, No. 1: 42 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "I. I. Tsypin, Belye Iznosostoykie Chuguny. Struktura i Svoystva (Moscow: Metallurgiya: 1983) (in Russian).",
+				"tr":  "I. I. Tsypin, Belye Iznosostoykie Chuguny. Struktura i Svoystva (Moscow: Metallurgiya: 1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. G. Mogilatenko, G. E. Fedorov, M. M. Yamshinskiy, E. A. Platonov, and A. E. Kuzmenko, Metalloobrabotka. Oborudovanie i Instrument dlya Professionalov, 97, No. 1: 38 (2008) (in Russian).",
+				"tr":  "V. G. Mogilatenko, G. E. Fedorov, M. M. Yamshinskiy, E. A. Platonov, and A. E. Kuzmenko, Metalloobrabotka. Oborudovanie i Instrument dlya Professionalov, 97, No. 1: 38 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. M. Yamshinskiy, K. S. Radchenko, G. E. Fedorov, and E. A. Platonov, Lit’e i Metallurgiya, No. 4: 29 (2013) (in Russian).",
+				"tr":  "M. M. Yamshinskiy, K. S. Radchenko, G. E. Fedorov, and E. A. Platonov, Lit'e i Metallurgiya, No. 4: 29 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. P. Cheylyakh and D. V. Klok, Visnyk Pryazovskogo Derzhavnogo Tekhnichnogo Universytetu, Iss. 15, Part. 1: 61 (2005) (in Russian).",
+				"tr":  "A. P. Cheylyakh and D. V. Klok, Visnyk Pryazovskogo Derzhavnogo Tekhnichnogo Universytetu, Iss. 15, Part. 1: 61 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "J. T. H. Pearce, AFS Trans., 92: 599 (1984).",
+				"tr":  "J. T. H. Pearce, AFS Trans., 92: 599 (1984)."
+			}
+		]
+	}
+}

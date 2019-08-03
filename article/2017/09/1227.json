@@ -1,0 +1,100 @@
+{
+	"_id":    "MFiNT.39.09.1227",
+	"year":   2017,
+	"volume": 39,
+	"issue":  9,
+	"pages":  [1227,1237],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["06.04.2017"],
+	"PACS":   "06.60.Vz, 61.72.Ff, 61.72.Mm, 61.72.S-, 81.20.Vj, 81.30.Fb, 81.70.Jb",
+	"title":   {
+		"ua": "Вплив температури лютування на структуру лютованих різнорідних з’єднань молібден–неіржавійна сталь",
+		"en": "Influence of Temperature of the Brazing on Structure of Brazed Heterogeneous Molybdenum–Stainless Steel Joints",
+		"ru": "Влияние температуры пайки на структуру паяных разнородных соединений молибден–нержавеющая сталь"
+	},
+	"abstract": {
+		"ua": "У роботі наведено результати металографічних і мікрорентґеноспектральних досліджень нерознімних з’єднань різнорідних матеріялів молібден–неіржавійна сталь, яких одержано із застосуванням радіяційного нагріву у вакуумі та люти системи мідь–манґан–нікель. Вивчено вплив температурного режиму лютування на формування з’єднань і структуроутворення лютованих швів. Показано, що при лютуванні пласких напускних з’єднань молібден–неіржавійна сталь за температури у 1100°С формуються щільні лютовані шви, але спостерігається дисперґація основного металу (неіржавійної сталі). Встановлено, що структурними складовими лютованого шва є твердий розчин на основі міді та дисперґовані частинки неіржавійної сталі (розміром близько 20 мкм). Локальною мікрорентґеноспектральною аналізою встановлено, що при вакуумному лютуванні відбувається збагачення металу лютованого шва складовими елементами основного матеріялу. Перебіг дифузійних процесів на міжфазній межі молібден–люта приводить до утворення дифузійного шару (товщиною близько 2 мкм), який виділяється у вигляді неперервної смуги вздовж лютованого шва зі сторони молібдену. Пониження температури лютування до 1084°С уможливлює уникнути дисперґації основного металу і забезпечує формування щільних лютованих швів, що містять твердий розчин на основі міді та незначну кількість поодиноких частинок, які збагачені залізом й іншими складовими елементами неіржавійної сталі. Ширина дифузійного шару зменшується до 0,9–1,4 мкм за незмінного співвідношення концентрацій хемічних елементів. На деяких ділянках спостерігається проникнення люти по межах зерен основного металу — неіржавійної сталі.",
+		"en": "The paper represents the results of metallographic investigation and x-ray spectral microanalysis of permanent joints of dissimilar molybdenum–stainless steel materials, which are made using radiation heating in a vacuum and brazing filler metal of copper–manganese–nickel system. Influence of brazing temperature mode on joint formation and formation of brazed seams’ structure is studied. As shown, the brazing of molybdenum–stainless steel flat lap joints at temperature of 1100°C provides formation of smooth fillets and impervious brazed seams, and dispergation of base metal (stainless steel). Local x-ray spectral microanalysis determines that copper-based solid solution and dispersed particles of stainless steel (of about 20 $\\mu$m in size) are the structural constituents of brazed seam. Interaction between liquid brazing filler metal and solid material being brazed takes place at the brazing temperature that results in enriching of the seam by the elements of brazed dissimilar metals. Diffusion processes at molybdenum-brazing filler metal interface promote formation of a molybdenum-based diffusion layer containing (wt.%) 22.27% of iron, 7.29% of chromium, 4.11% of nickel, 0.84% of silicon, and 0.71% of copper. It precipitates in a form of continuous band of about 2 $\\mu$m thickness along the brazed seam at molybdenum side. Copper-based solid solution also contains stainless steel elements such as iron and chromium, but in significantly lower quantity 3.27–3.45% and 0.62–0.64%, respectively. Reduction of the brazing temperature to 1084°C allows eliminating base metal dispergation and provides formation of single-type brazed welds’ seams. A matrix of brazed seam is presented by copper-based solid solution containing such concentration of elements as in seam brazed at higher temperature. Insignificant area of a vision field (of about 1%) is covered by precipitations of the particles enriched in 5.78% of molybdenum and constituent elements of stainless steel, i.e., 39.54% of iron and up to 8.58% of chromium. Width of diffusion layer reduces to 0.9–1.4 $\\mu$m, but relationship of concentrations of chemical elements is kept the same. Penetration of brazing filler metal (solid solution) over the grain boundaries of brazed metal (stainless steel) is observed in some areas of the weld.",
+		"ru": "В работе представлены результаты металлографических и микрорентгеноспектральных исследований неразъёмных соединений разнородных материалов молибден–нержавеющая сталь, полученных с использованием радиационного нагрева в вакууме и припоя системы медь–марганец–никель. Изучено влияние температурного режима пайки на формирование соединений и структурообразование паяных швов. Показано, что при пайке плоских нахлёсточных соединений молибден–нержавеющая сталь при температуре 1100°C формируются плотные паяные швы, наблюдается диспергация основного металла (нержавеющей стали). Установлено, что структурными составляющими паяного шва являются твёрдый раствор на основе меди и диспергированные частицы нержавеющей стали (размером около 20 мкм). Локальным микрорентгеноспектральным анализом установлено, что при вакуумной пайке происходит обогащение металла паяного шва составляющими элементами основного материала. Протекание диффузионных процессов на межфазной границе молибден–припой приводит к образованию диффузионного слоя (толщиной около 2 мкм), который выделяется в виде непрерывной полосы вдоль паяного шва со стороны молибдена. Снижение температуры пайки до 1084°C позволяет избежать диспергации основного металла и обеспечивает формирование плотных однородных паяных швов, состоящих из твёрдого раствора на основе меди и незначительного количества единичных частиц, обогащённых железом и другими составляющими элементами нержавеющей стали. Ширина диффузионного слоя уменьшается до 0,9–1,4 мкм, но соотношение концентраций химических элементов сохраняется прежним. На некоторых участках наблюдается проникновение припоя по границам зёрен основного металла — нержавеющей стали."
+	},
+	"keywords": {
+		"ua": "мікроструктура, твердий розчин, різнорідні матеріали, паяний шов, молібден, неіржавійна сталь, температура паяння",
+		"en": "microstructure, solid solution, dissimilar materials, brazed seam, molybdenum, stainless steel, brazing temperature",
+		"ru": "микроструктура, твёрдый раствор, разнородные материалы, паяный шов, молибден, нержавеющая сталь, температура пайки"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. В. Максимова", "en": "S. V. Maksymova", "ru": "С. В. Максимова"},
+			"OID": [10]
+		},
+		{
+			"AID": {"ua": "В. В. Воронов", "en": "V. V. Voronov", "ru": "В. В. Воронов"},
+			"OID": [10]
+		},
+		{
+			"AID": {"ua": "П. В. Ковальчук", "en": "P. V. Kovalchuk", "ru": "П. В. Ковальчук"},
+			"OID": [10]
+		},
+		{
+			"AID": {"ua": "А. В. Ларионов", "en": "A. V. Larionov", "ru": "А. В. Ларионов"},
+			"OID": [10]
+		}
+	],
+	"references": {
+		"count": 10,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Машиностроение: Энциклопедия. Технология сварки, пайки и резки (Ред. Б. Е. Патон) (Москва: Машиностроение: 2006), т. 111-4, c. 642.",
+				"tr":  "Mashinostroenie: Entsiklopediya. Tekhnologiya Svarki, Payki i Rezki [Mechanical Engineering: Encyclopaedia. Technology of Welding, Brazing and Cutting] (Ed. B. E. Paton) (Moscow: Mashinostroenie: 2006), vol. 111-4, p. 642 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Справочник по пайке (Ред. И. Е. Петрунин) (Москва: Машиностроение: 2003).",
+				"tr":  "Spravochnik po Payke [Brazing Reference Book] (Ed. I. E. Petrunin) (Moscow: Mashinostroenie: 2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Лашко, Н. Ф. Лашко, Пайка металлов (Москва: Машиностроение: 1988).",
+				"tr":  "S. V. Lashko and N. F. Lashko, Payka Metallov [Brazing of Metals] (Moscow: Mashinostroenie: 1998) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Паяння металів: Підручник (Ред. В. Ф. Хорунов, В. Ф. Квасницький) (Миколаїв: НУК: 2015).",
+				"tr":  "Payannya Metaliv: Pidruchnyk [Brazing of Metals. Manual] (Eds. V. F. Khorunov and V. F. Kvasnitskiy) (Mykolayiv: NUK: 2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. Титц, Дж. Уилсон, Тугоплавкие металлы и сплавы (Москва: Металлургия: 1968) (пер. с англ.).",
+				"tr":  "T. Titts and J. Wilson, Tugoplavkie Metally i Splavy [Refractory Metals and Alloys] (Moscow: Metallurgiya: 1968) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Практическая растровая электронная микроскопия (Ред. Дж. Гоулдстейн, Х. Яковиц) (Москва: Мир: 1978) (пер. с англ.).",
+				"tr":  "Prakticheskaya Rastrovaya Elektronnaya Mikroskopiya [Practical Scanning Electron Microscopy] (Eds. J. Goldstein, H. Yakowits, and D. E. Ewbury) (Moscow: Mir: 1978) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Хорунов, Основы пайки тонкостенных конструкций из высоколегированных сталей (Киев: Наукова думка: 2008).",
+				"tr":  "V. F. Khorunov, Osnovy Payki Tonkostennykh Konstruktsiy iz Vysokolegirovannykh Staley [Fundamentals of Brazing of Thin-Wall Construc-tions from High-Alloyed Steels] (Kiev: Naukova Dumka: 2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Максимова, В. В. Воронов, П. В. Ковальчук, А. В. Ларионов, Автоматическая сварка, 2: 15 (2017).",
+				"tr":  "S. V. Maksymova, V. V. Voronov, P. V. Kovalchuk, and A. V. Larionov, Avtomaticheskaya Svarka, 2: 15 (2017) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Диаграммы состояния двойных металлических систем: Справочник (Ред. Н. П. Лякишев) (Москва: Машиностроение: 1997), т. 2, c. 283.",
+				"tr":  "Diagrammy Sostoyaniya Dvoynykh Metallicheskikh Sistem: Spravochnik [Diagrams of State of Binary Metallic Systems: Reference Book] (Ed. N. P. Lyakishev) (Moscow: Mashinostroenie: 1997), vol. 2, p. 283 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "T. B. Massalski, Binary Alloy Phase Diagrams (Materials Park, Ohio: ASM International: 1990).",
+				"tr":  "T. B. Massalski, Binary Alloy Phase Diagrams (Materials Park, Ohio: ASM International: 1990)."
+			}
+		]
+	}
+}

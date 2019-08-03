@@ -1,0 +1,164 @@
+{
+	"_id":    "MFiNT.36.11.1497",
+	"year":   2014,
+	"volume": 36,
+	"issue":  11,
+	"pages":  [1497,1512],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["12.03.2014","13.10.2014"],
+	"PACS":   "61.05.cp, 68.37.Hk, 68.43.-h, 75.75.Cd, 81.05.Rm, 81.70.Pg, 82.80.Ej",
+	"title":   {
+		"ua": "Структурні, морфологічні та магнетні властивості мезопористого магеміту, синтезованого цитратною методою",
+		"en": "Structural, Morphological, and Magnetic Properties of the Mesoporous Maghemite Synthesized by a Citrate Method",
+		"ru": "Структурные, морфологические и магнитные свойства мезопористого маггемита, синтезированного цитратным методом"
+	},
+	"abstract": {
+		"ua": "Мезопористий магеміт $\\gamma$-Fe$_{2}$O$_{3}$ одержано методою термічного розкладання ксероґелю цитрату заліза. Досліджено вплив молярної концентрації прекурсорів у водному розчині на пористість, морфологію і магнетну структуру магеміту та запропоновано модель його формування. Результати роботи уможливили визначити умови одержання магнетних наноматеріялів (мезопористого $\\gamma$-Fe$_{2}$O$_{3}$) з наперед заданими структурними та морфологічними характеристиками.",
+		"en": "Mesoporous maghemite $\\gamma$-Fe$_{2}$O$_{3}$ is synthesized by thermal decomposition of iron citrate xerogel. The influences of the precursors’ molar concentration in aqueous solution on the maghemite porosity, its morphology and magnetic structure are investigated. The model of mesoporous $\\gamma$-Fe$_{2}$O$_{3}$ formation is presented. The results make possible to determine the conditions for fabrication of magnetic nanomaterials (mesoporous $\\gamma$-Fe$_{2}$O$_{3}$) with predetermined structural and morphological characteristics.",
+		"ru": "Мезопористый маггемит $\\gamma$-Fe$_{2}$O$_{3}$ синтезирован методом термического разложения ксерогеля цитрата железа. Исследовано влияние молярной концентрации прекурсоров в водном растворе на пористость, морфологию и магнитную структуру маггемита, а также предложена модель его формирования. Результаты работы позволили определить условия получения магнитных наноматериалов (мезопористого $\\gamma$-Fe$_{2}$O$_{3}$) с предварительно заданными структурными и морфологическими характеристиками."
+	},
+	"keywords": {
+		"ua": "мезопористий магеміт, $\\gamma$-Fe$_{2}$O$_{3}$, магнетні наноматеріяли, адсорбційна порометрія, Мессбауерова спектроскопія",
+		"en": "mesoporous maghemite, $\\gamma$-Fe$_{2}$O$_{3}$, magnetic nanomaterials, adsorption porometry, Mössbauer spectroscopy",
+		"ru": "мезопористый маггемит, $\\gamma$-Fe$_{2}$O$_{3}$, магнитные наноматериалы, адсорбционная порометрия, мёссбауэровская спектроскопия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. О. Коцюбинський", "en": "V. O. Kotsyubynsky", "ru": "В. О. Коцюбинский"},
+			"OID": [209]
+		},
+		{
+			"AID": {"ua": "А. Б. Груб’як", "en": "A. B. Grubiak", "ru": "А. Б. Грубяк"},
+			"OID": [209]
+		},
+		{
+			"AID": {"ua": "В. В. Мокляк", "en": "V. V. Moklyak", "ru": "В. В. Мокляк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. М. Пилипів", "en": "V. M. Pylypiv", "ru": "В. М. Пылыпив"},
+			"OID": [209]
+		},
+		{
+			"AID": {"ua": "Р. П. Лісовський", "en": "R. P. Lisovsky", "ru": "Р. П. Лисовский"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 22,
+		"list":  [
+			{
+				"doi": "10.1021/cm903099w",
+				"or":  "L. Jinping, L. Yuanyuan, F. Hongjin, Z. Zhihong, J. Jian, D. Ruimin, H. Yingying, and H. Xintang, Chem. Mater., 22, No. 1: 212 (2010).",
+				"tr":  "L. Jinping, L. Yuanyuan, F. Hongjin, Z. Zhihong, J. Jian, D. Ruimin, H. Yingying, and H. Xintang, Chem. Mater., 22, No. 1: 212 (2010)."
+			},
+			{
+				"doi": "10.1002/1616-3028(200110)11:5<323::AID-ADFM323>3.0.CO;2-J",
+				"or":  "M.-P. Pileni, Adv. Funct. Mater., 11, No. 5: 323 (2001).",
+				"tr":  "M.-P. Pileni, Adv. Funct. Mater., 11, No. 5: 323 (2001)."
+			},
+			{
+				"doi": "10.1016/j.biomaterials.2004.10.012",
+				"or":  "A. K. Gupta and M. Gupta, Biomaterials, 26, No. 18: 3995 (2005).",
+				"tr":  "A. K. Gupta and M. Gupta, Biomaterials, 26, No. 18: 3995 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Sun, J. L. Dorman, and D. Fiorani, Magnetic Properties of Fine Particles (Amsterdam: North-Holland: 1992).",
+				"tr":  "S. Sun, J. L. Dorman, and D. Fiorani, Magnetic Properties of Fine Particles (Amsterdam: North-Holland: 1992)."
+			},
+			{
+				"doi": "10.1007/s10967-010-0649-7",
+				"or":  "M. Sadeghi, P. Sarabadani, and H. Karami, J. Radioanalytical and Nuclear Chemistry, 283, No. 2: 259 (2010).",
+				"tr":  "M. Sadeghi, P. Sarabadani, and H. Karami, J. Radioanalytical and Nuclear Chemistry, 283, No. 2: 259 (2010)."
+			},
+			{
+				"doi": "10.1088/0957-4484/20/30/305101",
+				"or":  "S. Purushotham, P. E. J. Chang, H. Rumpel, I. H. C. Kee, R. T. H. Ng, P. K. H. Chow, C. K. Tan, and R. V. Ramanujan, Nanotechnology, 20: 305101 (2009).",
+				"tr":  "S. Purushotham, P. E. J. Chang, H. Rumpel, I. H. C. Kee, R. T. H. Ng, P. K. H. Chow, C. K. Tan, and R. V. Ramanujan, Nanotechnology, 20: 305101 (2009)."
+			},
+			{
+				"doi": "10.1021/jp077468+",
+				"or":  "S.-W. Cao, Y.-J. Zhu, M.-Y. Ma, L. Li, and L. Zhang, J. Phys. Chem. C, 112, No. 5: 1851 (2008).",
+				"tr":  "S.-W. Cao, Y.-J. Zhu, M.-Y. Ma, L. Li, and L. Zhang, J. Phys. Chem. C, 112, No. 5: 1851 (2008)."
+			},
+			{
+				"doi": "10.1021/cm991018f",
+				"or":  "M. P. Morales, S. Veintemillas-Verdaguer, M. I. Montero, C. J. Serna, A. Roig, L. Casas, B. Martinez, and F. Sandiumenge, Chem. Mater., 11, No. 11: 3058 (1999).",
+				"tr":  "M. P. Morales, S. Veintemillas-Verdaguer, M. I. Montero, C. J. Serna, A. Roig, L. Casas, B. Martinez, and F. Sandiumenge, Chem. Mater., 11, No. 11: 3058 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "O. S. Petrova, Ye. A. Gudilin, A. E. Chekanova, A. V. Knotko, G. P. Muravyeva, Yu. V. Maksimov, V. K. Imshennik, I. P. Suzdalev, and Yu. D. Tretyakov, Doklady RAN, 410, No. 5: 629 (2006) (in Russian).",
+				"tr":  "O. S. Petrova, Ye. A. Gudilin, A. E. Chekanova, A. V. Knotko, G. P. Muravyeva, Yu. V. Maksimov, V. K. Imshennik, I. P. Suzdalev, and Yu. D. Tretyakov, Doklady RAN, 410, No. 5: 629 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "O. S. Petrova, A. E. Chekanova, Ye. A. Gudilin, D. D. Zaytsev, G. P. Muravyeva, Yu. V. Maksimov, and Yu. D. Tretyakov, Alternativnaya Energetika i Ekologiya, No. 1: 70 (2007) (in Russian).",
+				"tr":  "O. S. Petrova, A. E. Chekanova, Ye. A. Gudilin, D. D. Zaytsev, G. P. Muravyeva, Yu. V. Maksimov, and Yu. D. Tretyakov, Alternativnaya Energetika i Ekologiya, No. 1: 70 (2007) (in Russian)."
+			},
+			{
+				"doi": "10.1039/c3ra41596a",
+				"or":  "Y.-F. Lin and J.-L. Chen, RSC Advances, 3, No. 35: 15344 (2013).",
+				"tr":  "Y.-F. Lin and J.-L. Chen, RSC Advances, 3, No. 35: 15344 (2013)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2010.02.053",
+				"or":  "W. Lu, Y. Chen, R. Shi, Y. Xue, L. Chen, and Q.-H. Wan, J Magn. Magn.Mater., 322: 2439 (2010).",
+				"tr":  "W. Lu, Y. Chen, R. Shi, Y. Xue, L. Chen, and Q.-H. Wan, J Magn. Magn.Mater., 322: 2439 (2010)."
+			},
+			{
+				"doi": "10.1021/cm0709065",
+				"or":  "X. Dong, H. Chen, W. Zhao, X. Li, and J. Shi, Chem. Mater., 19, No. 14: 3484 (2007).",
+				"tr":  "X. Dong, H. Chen, W. Zhao, X. Li, and J. Shi, Chem. Mater., 19, No. 14: 3484 (2007)."
+			},
+			{
+				"doi": "10.1166/jnn.2008.017",
+				"or":  "M. Knobel, W. C. Nunes, L. M. Socolovsky, E. De Biasi, J. M. Vargas, and J. C. Denardin, J. Nanoscience and Nanotechnology, 8, No. 6: 2836 (2008).",
+				"tr":  "M. Knobel, W. C. Nunes, L. M. Socolovsky, E. De Biasi, J. M. Vargas, and J. C. Denardin, J. Nanoscience and Nanotechnology, 8, No. 6: 2836 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Shpak, Yu. Kunitskiy, and V. Karbovskiy, Klasternye i Nanostrukturnye Materialy (Cluster and Nanostructural Materials) (Kyiv: Akademperiodika: 2001) (in Russian).",
+				"tr":  "A. Shpak, Yu. Kunitskiy, and V. Karbovskiy, Klasternye i Nanostrukturnye Materialy (Cluster and Nanostructural Materials) (Kyiv: Akademperiodika: 2001) (in Russian)."
+			},
+			{
+				"doi": "10.1002/pssa.2210110125",
+				"or":  "I. M. D. Coey and D. Khalafalla, phys. status solidi (a), 11, No. 1: 229 (1972).",
+				"tr":  "I. M. D. Coey and D. Khalafalla, phys. status solidi (a), 11, No. 1: 229 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "M. V. Kharlamova, N. A. Sapoletova, A. A. Eliseev, I. P. Suzdalev, Yu. V. Maksimov, A. V. Lukashin, and Yu. D. Tretyakov, Doklady RAN, 415, No. 2: 209 (2007).",
+				"tr":  "M. V. Kharlamova, N. A. Sapoletova, A. A. Eliseev, I. P. Suzdalev, Yu. V. Maksimov, A. V. Lukashin, and Yu. D. Tretyakov, Doklady RAN, 415, No. 2: 209 (2007)."
+			},
+			{
+				"doi": "10.1007/BF02034872",
+				"or":  "B. S. Randhawa, R. Kaur, and K. Sweety, J. Radioanalytical and Nuclear Chemistry, 220, No. 2: 271 (1997).",
+				"tr":  "B. S. Randhawa, R. Kaur, and K. Sweety, J. Radioanalytical and Nuclear Chemistry, 220, No. 2: 271 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Preisinger, M. Krispin, T. Rudolf, S. Horn, and D. R. Strongin, J. Phys. Rev., 71, No. 16: 5409 (2005).",
+				"tr":  "M. Preisinger, M. Krispin, T. Rudolf, S. Horn, and D. R. Strongin, J. Phys. Rev., 71, No. 16: 5409 (2005)."
+			},
+			{
+				"doi": "10.1351/pac200375060801",
+				"or":  "E. Kuzmann, S. Nagy, and A. Vertes, Pure Appl. Chem., 75, No. 6: 801 (2003).",
+				"tr":  "E. Kuzmann, S. Nagy, and A. Vertes, Pure Appl. Chem., 75, No. 6: 801 (2003)."
+			},
+			{
+				"doi": "10.1021/jp2011606",
+				"or":  "W. Zhou, L. Lin, W. Wang, L. Zhang, Q. Wu, J. Li, and L. Guo, J. Phys. Chem. C, 115, No. 14: 7126 (2011).",
+				"tr":  "W. Zhou, L. Lin, W. Wang, L. Zhang, Q. Wu, J. Li, and L. Guo, J. Phys. Chem. C, 115, No. 14: 7126 (2011)."
+			},
+			{
+				"doi": "10.1021/jp102286e",
+				"or":  "B. Sun, J. Horvat, H. S. Kim, W.-S. Kim, J. Ahn, and G. Wang, J. Phys. Chem. C, 114, No. 1: 18753 (2010).",
+				"tr":  "B. Sun, J. Horvat, H. S. Kim, W.-S. Kim, J. Ahn, and G. Wang, J. Phys. Chem. C, 114, No. 1: 18753 (2010)."
+			}
+		]
+	}
+}

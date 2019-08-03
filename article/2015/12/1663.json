@@ -1,0 +1,80 @@
+{
+	"_id":    "MFiNT.37.12.1663",
+	"year":   2015,
+	"volume": 37,
+	"issue":  12,
+	"pages":  [1663,1680],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["08.10.2015"],
+	"PACS":   "06.60.Vz, 62.20.fg, 64.70.kd, 81.05.Bx, 81.20.Vj, 81.30.Kf, 84.37.+q",
+	"title":  {
+		"ua": "Імпульсна конденсаторна зварка функціональних сплавів на основі системи Cu—Al та її вплив на структуру зони з'єднання",
+		"en": "Pulse Condenser Welding of Functional Cu—Al Alloys and Its Effect on the Structure of the Joint Area",
+		"ru": "Импульсная конденсаторная сварка функциональных сплавов на основе системы Cu—Al и её влияние на структуру зоны соединения"
+	},
+	"abstract": {
+		"ua": "Наявність ряду переваг у стопів з ефектом пам’яті форми (СЕПФ) системи Cu—Al, а саме, високотемпературного інтервалу термопружніх мартенситних перетворень і відносно невисокої вартости, уможливлює сподіватися на збільшення їх промислового виготовлення та технічного використання. Тому актуальним є дослідження металографічної структури і функціональних характеристик з’єднань, одержаних імпульсними методами зварювання. До таких метод зварювання відносяться конденсаторне зварювання опором (точкове і стикове) і дугоконтактне ударне конденсаторне зварювання. Дослідження мікроструктури і механічних властивостей продемонструвало, що в залежності від умов зварювання можна одержати сполучення як в твердому стані, так і за участю металу, закристалізованого в місці зварювання. Це відноситься як до однорідних з’єднань, так і до з’єднань конструкційних матеріялів (мідь, низьковуглецева та неіржавійна сталі) з СЕПФ системи Cu—Al. Резистометричні дослідження зварних зразків, одержаних імпульсними методами зварювання, показали практично збереження функціональних характеристик СЕПФ у тілі зразків. Зроблено висновок про можливості використання імпульсних метод зварювання для з’єднання СЕПФ системи Cu—Al як в однорідному, так і в різнорідному поєднанні з конструкційними металами.",
+		"en": "The presence of a number of advantages of Cu—Al alloys with shape-memory effect (SMA), namely, a high-temperature range of the thermoelastic martensitic transformations and a relatively low cost, allows us to hope about increase of their industrial fabrication and technical application. Therefore, the metallographic study of the structure and functional characteristics of the joints obtained by pulse welding techniques has an actuality. Such techniques are the condenser resistance welding (spot and butt) and arc-contact percussion condenser welding. As shown in the microstructure and mechanical properties’ investigations, depending on the welding conditions, joints can be obtained in a solid state or with a crystallized metal in the weld area. That applies to both the homogeneous joints and the joints of structural materials (copper, low-carbon and stainless steels) with Cu—Al SMA. Resistometric investigations of welded samples obtained by pulse welding techniques show the practical retain of the SMA functional characteristics. As concluded, there is a possibility of applying pulse welding for joining Cu—Al SMA in homogeneous and heterogeneous combinations with structural metals.",
+		"ru": "Наличие ряда достоинств у сплавов с эффектом памяти формы (СЭПФ) системы Cu—Al, а именно, высокотемпературного интервала термоупругих мартенситных превращений и относительно невысокой стоимости, позволяет надеяться на увеличение их промышленного изготовления и технического применения. Поэтому актуальным является исследование металлографической структуры и функциональных характеристик соединений, полученных импульсными методами сварки. К таким методам сварки относятся конденсаторная сварка сопротивлением (точечная и стыковая) и дугоконтактная ударная конденсаторная сварка. Исследование микроструктуры и механических характеристик показало, что в зависимости от условий сварки можно получить соединения, как в твёрдом состоянии, так и с участием металла, закристаллизовавшегося в зоне сваривания. Это относится как к однородным соединениям, так и к соединениям конструкционных материалов (медь, низкоуглеродистая и нержавеющая стали) с СЭПФ системы Cu—Al. Резистометрические исследования сварных образцов, полученных импульсными методами сварки, показали практически сохранение функциональных характеристик СЭПФ в массе образцов. Сделан вывод о возможности применения импульсных методов сварки для соединения СЭПФ системы Cu—Al как в однородном, так и в разнородном сочетании с конструкционными металлами."
+	},
+	"keywords": {
+		"ua": "сплави з ефектом пам’яті форми, сплави Cu—Al, конденсаторна зварка металів, термопружнє мартенситне перетворення",
+		"en": "shape-memory alloys, Cu—Al alloys, condenser metal welding, thermoelastic martensitic transformation",
+		"ru": "сплавы с эффектом памяти формы, сплавы Cu—Al, конденсаторная сварка металлов, термоупругое мартенситное превращение"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Д. М. Калеко", "en": "D. M. Kaleko", "ru": "Д. М. Калеко"},
+			"OID": [5]
+		},
+		{
+			"AID": {"ua": "С. М. Кедровський", "en": "S. M. Kedrovsky", "ru": "С. Н. Кедровский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Ю. М. Коваль", "en": "Yu. M. Koval’", "ru": "Ю. Н. Коваль"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. М. Сліпченко", "en": "V. M. Slepchenko", "ru": "В. Н. Слепченко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 6,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "И. И. Корнилов, O. К. Белоусов, Е. В. Качур, Никелид титана и другие сплавы с эффектом «памяти» (Москва: Наука: 1977).",
+				"tr":  "I. I. Kornilov, O. K. Belousov, and E. V. Kachur, Nikelid Titana i Drugie Sistemy s Effektom 'Pamyati' (Moscow: Nauka: 1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Е. Патон, Д. М. Калеко, Ю. Н. Коваль, В. М. Слепченко, Автоматическая сварка, № 5: 3 (2006).",
+				"tr":  "B. E. Paton, D. M. Kaleko, Yu. N. Koval, and V. M. Slepchenko, Avtomaticheskaya Svarka, No. 5: 3 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Оцука, К. Симидзу, Эффекты памяти формы в сплавах (Москва: Наука: 1979).",
+				"tr":  "K. Otsuka and K. Simitsu, Effekty Pamyati Formy v Splavakh [The Shape Memory Effect in Alloys] (Moscow: Nauka: 1979) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Э. Моравский, Д. С. Ворона, Технология и оборудование для точечной и рельефной конденсаторной сварки (Киев: Наукова думка: 1985).",
+				"tr":  "V. E. Moravskiy and D. S. Vorona, Tekhnologiya i Oborudovanie dlya Tochechnoy i Rel'yefnoy Svarki (Kiev: Naukova Dumka: 1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. М. Калеко, В. Э. Моравский, Н. А. Чвертко, Ударная конденсаторная сварка (Киев: Наукова думка: 1984).",
+				"tr":  "D. M. Kaleko, V. E. Moravskiy, and N. A. Chvertko, Udarnaya Kondensatornaya Svarka (Kiev: Naukova Dumka: 1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Г. Зак, Г. З. Затульский, Проблемы литья. № 2: 80 (1998).",
+				"tr":  "G. G. Zak and G. Z. Zatul'skiy, Problemy Lit'ya, No. 2: 80 (1998) (in Russian)."
+			}
+		]
+	}
+}

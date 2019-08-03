@@ -1,0 +1,116 @@
+{
+	"_id":    "MFiNT.39.09.1253",
+	"year":   2017,
+	"volume": 39,
+	"issue":  9,
+	"pages":  [1253,1265],
+	"rubric": 1,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["11.07.2017"],
+	"PACS":   "61.25.Mv, 61.72.Qq, 64.70.dg, 64.75.Ef, 81.05.Ni, 81.30.Fb, 81.40.Cd",
+	"title":   {
+		"ua": "Вплив концентрації тяжкотопкого компонента у зоні незмішуваности фаз у рідкому стані стопу BiZn та швидкости охолодження мікроемульсії при твердненні на кількість ультрадисперсних включень",
+		"en": "Influence of Concentration of a Refractory Component in a Zone of Immiscibility of Phases in Liquid State of a BiZn Alloy and Cooling Rate of a Microemulsion at Solidification on Amount of Ultradispersed Inclusions",
+		"ru": "Влияние концентрации тугоплавкого компонента в зоне несмешиваемости фаз в жидком состоянии сплава BiZn и скорости охлаждения микроэмульсии при затвердевании на количество ультрадисперсных включений"
+	},
+	"abstract": {
+		"ua": "В роботі досліджено вплив пониження концентрації більш тяжкотопкого компонента в області незмішуваности стопу монотектичної системи BiZn на дисперсність включень у структурі «замороженої мікроемульсії» металевих лусочок, одержаних методою високошвидкісного охолодження розтопу. Визначено, що пониження концентрації більш тяжкотопкого компонента в зоні незмішуваности приводить до збільшення дисперсности включень при збереженні густини їх розподілу в структурі зразків і пониженні діяпазону розмірів включень дисперсної фази. З’ясовано умови досягнення 100% вмісту ультрадисперсних включень і високої густини їх розподілу в структурі лусочок.",
+		"en": "Influence of the refractory-components’ concentration decreasing in the miscibility gap on the dispersion of inclusions in the structure of ‘frozen microemulsion’ of metal flakes obtained by high-speed melt cooling is investigated by the example of the monotectic BiZn system alloy. As determined, the refractory components’ concentration decreasing leads to an increase of the inclusions’ dispersion, maintaining the density of their distribution in the structure of samples, and reducing the size range of dispersed-phase inclusions. The conditions for achieving 100% content of ultradispersed inclusions and a high density of their distribution in the structure of flakes are ascertained.",
+		"ru": "В работе исследовано влияние снижения концентрации более тугоплавкого компонента в зоне несмешиваемости сплава монотектической системы BiZn на дисперсность включений в структуре «замороженной микроэмульсии» металлических чешуек, полученных методом высокоскоростного охлаждения расплава. Определено, что закалка расплава приводит к увеличению дисперсности включений при сохранении плотности их распределения в структуре образцов и снижении диапазона размеров включений дисперсной фазы. Выяснены условия достижения 100% содержания ультрадисперсных включений и высокой плотности их распределения в структуре чешуек."
+	},
+	"keywords": {
+		"ua": "дисперснозміцнені стопи, область незмішуваности, «заморожена мікроемульсія», високошвидкісне охолодження, ультрадисперсні включення",
+		"en": "dispersion-hardened alloys, miscibility gap, ‘frozen microemulsion’, high-speed cooling, ultradispersed inclusions",
+		"ru": "дисперсноупрочнённые сплавы, область несмешиваемости, «замороженная микроэмульсия», высокоскоростное охлаждение, ультрадисперсные включения"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. О. Середенко", "en": "V. O. Seredenko", "ru": "В. А. Середенко"},
+			"OID": [15]
+		},
+		{
+			"AID": {"ua": "О. В. Середенко", "en": "O. V. Seredenko", "ru": "Е. В. Середенко"},
+			"OID": [15]
+		},
+		{
+			"AID": {"ua": "О. А. Паренюк", "en": "O. A. Parenyuk", "ru": "А. А. Паренюк"},
+			"OID": [15]
+		}
+	],
+	"references": {
+		"count": 14,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "В. П. Сабуров, Е. Н. Хлыстов, Г. Н. Миннеханов, Металлы, № 2: 168 (1992).",
+				"tr":  "V. P. Saburov, E. N. Khlystov, and G. N. Minnekhanov, Metally, No. 2: 168 (1992) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "W. B. Wang, E. G. Wang, L. Zhang, X. W. Zuo, and J. C. He, Journal of Iron and Steel Research, International, 19, Suppl. 1–2: 821 (2012).",
+				"tr":  "W. B. Wang, E. G. Wang, L. Zhang, X. W. Zuo, and J. C. He, Journal of Iron and Steel Research, International, 19, Suppl. 1–2: 821 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. А. Кириевский, В. В. Христенко, Л. М. Трубаченко, Металлургия машиностроения, № 4: 20 (2008).",
+				"tr":  "B. A. Kirievskiy, V. V. Khristenko, and L. M. Trubachenko, Metallurgiya Mashinostroeniya, No. 4: 20 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. С. Аврамов, А. Д. Шляпин, Сплавы на основе систем с ограниченной растворимостью в жидком состоянии (теория, технология, структура и свойства) (Москва: Интерконтакт наука: 2002).",
+				"tr":  "Yu. S. Avramov and A. D. Shlyapin, Splavy na Osnove Sistem s Ogranichennoy Rastvorimost'yu v Zhidkom Sostoyanii (Teoriya, Tekhnologiya, Struktura i Svoystva) (Moscow: Interkontakt Nauka: 2002) (in Russian)."
+			},
+			{
+				"doi": "10.15407/sem2015.03.05",
+				"or":  "Д. А. Калашник, В. А. Шаповалов, И. В. Шейко, Ю. А. Никитенко, В. В. Якуша, Современная электрометаллургия, 120, № 3: 27 (2015).",
+				"tr":  "D. A. Kalashnik, V. A. Shapovalov, I. V. Sheyko, Yu. A. Nikitenko, and V. V. Yakusha, Sovremennaya Elektrometallurgiya, 120, No. 3: 27 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Ф. Белов, А. А. Бочвар, Металловедение и обработка цветных сплавов (Москва: Наука: 1992).",
+				"tr":  "A. F. Belov and A. A. Bochvar, Metallovedenie i Obrabotka Tsvetnykh Splavov (Moscow: Nauka: 1992) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. С. Попель, Расплавы, № 1: 22 (2005).",
+				"tr":  "P. S. Popel', Rasplavy, No. 1: 22 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. В. Сучков, С. М. Попель, А. А. Жуков, М. А. Коннова, Расплавы, № 5: 24 (1995).",
+				"tr":  "E. V. Suchkov, S. M. Popel', A. A. Zhukov, and M. A. Konnova, Rasplavy, No. 5: 24 (1995) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Хансен, К. Андерко, Структуры двойных сплавов (Ред. И. И. Новиков, И. Л. Рогельберг) (Москва: Металлургиздат: 1962), т. 2 (пер. с англ.).",
+				"tr":  "M. Hansen and K. Anderko, Struktury Dvoynykh Splavov [Constitution of Binary Alloys] (Eds. I. I. Novikov and I. L. Rogel'berg) (Moscow: Metallurgizdat: 1962), vol. 2 (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "В. О. Середенко, О. В. Середенко, О. А. Паренюк, Металознавство та обробка металів, № 3: 39 (2014).",
+				"tr":  "V. O. Seredenko, O. V. Seredenko, and O. A. Parenyuk, Metaloznavstvo ta Obrobka Metaliv, No. 3: 39 (2014) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. С. Кутателадзе, Основы теории теплообмена (Москва: Атомиздат: 1979).",
+				"tr":  "S. S. Kutateladze, Osnovy Teorii Teploobmena (Moscow: Atomizdat: 1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. К. Рего, Метрологическая обработка результатов технических измерений: Справочное пособие (Киев: Техника: 1987).",
+				"tr":  "K. K. Rego, Metrologicheskaya Obrabotka Rezul'tatov Tekhnicheskikh Izmereniy: Spravochnoe Posobie (Kiev: Tekhnika: 1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "З. Павловский, Введение в математическую статистику (Москва: Статистика: 1967).",
+				"tr":  "Z. Pavlovskiy, Vvedenie v Matematicheskuyu Statistiku (Moscow: Statistika: 1967) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Корн, Т. Корн, Справочник по математике для научных сотрудников и инженеров (Москва: Наука: 1970) (пер. с англ.).",
+				"tr":  "G. A. Korn and T. M. Korn, Spravochnik po Matematike dlya Nauchnykh Sotrudnikov i Inzhenerov [Mathematical Handbook for Scientists and Engineers] (Moscow: Nauka: 1970) (Russian translation)."
+			}
+		]
+	}
+}

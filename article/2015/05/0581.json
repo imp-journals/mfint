@@ -1,0 +1,147 @@
+{
+	"_id":    "MFiNT.37.05.0581",
+	"year":   2015,
+	"volume": 37,
+	"issue":  5,
+	"pages":  [581,591],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["12.03.2015"],
+	"PACS":   "63.20.dk, 63.20.kd, 71.15.Mb, 71.15.Rf, 71.18.+y, 71.20.Ps, 74.70.Ad",
+	"title":  {
+		"ua": "Комплексне дослідження поверхні Фермі для HfB$_{2}$",
+		"en": "Complex Investigation of the Fermi Surface in HfB$_{2}$",
+		"ru": "Комплексное исследование поверхности Ферми для HfB$_{2}$"
+	},
+	"abstract": {
+		"ua": "Електронну структуру, поверхню Фермі, кутову залежність циклотронних мас і екстремальні перетини поверхні Фермі дибориду гафнію було досліджено з перших принципів із використанням повністю релятивістського та повнопотенціяльного методів лінійних МТ-орбіталей. Було досягнуто задовільного збігу з експериментальними даними стосовно циклотронних мас і екстремальних перетинів поверхні Фермі.",
+		"en": "The electronic structure, Fermi surface, angle dependence of the cyclotron masses, and extremal cross sections of the Fermi surface of the hafnium diboride are investigated from the first principles using the fully relativistic and full-potential linear muffin-tin orbitals’ methods. A good agreement with experimental data of cyclotron masses and extremal cross sections of the Fermi surface is achieved.",
+		"ru": "Электронная структура, поверхность Ферми, угловая зависимость циклотронных масс и экстремальные сечения поверхности Ферми диборида гафния были исследованы из первых принципов с использованием полностью релятивистского и полнопотенциального методов линейных МТ-орбиталей. Было достигнуто хорошее согласие с экспериментальными данными циклотронных масс и экстремальных сечений поверхности Ферми."
+	},
+	"keywords": {
+		"ua": "електронна структура, поверхня Фермі, циклотронні маси, ЛМТО, дибориди",
+		"en": "electronic structure, Fermi surface, cyclotron masses, LMTO, diborides",
+		"ru": "электронная структура, поверхность Ферми, циклотронные массы, ЛМТО, дибориды"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. М. Січкар", "en": "S. M. Sichkar", "ru": "С. М. Сичкар"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. М. Антонов", "en": "V. N. Antonov", "ru": "В. Н. Антонов"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 21,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "K. Upadhya, J. M. Yang, and W. P. Hoffmann, Am. Ceram. Soc. Bull., 76: 51 (1997).",
+				"tr":  "K. Upadhya, J. M. Yang, and W. P. Hoffmann, Am. Ceram. Soc. Bull., 76: 51 (1997)."
+			},
+			{
+				"doi": "10.1111/j.1551-2916.2007.01583.x",
+				"or":  "W. G. Fahrenholtz, G. E. Hilmas, I. G. Talmy, and J. A. Zaykoski, J. American Ceramic Society, 90: 1347 (2007).",
+				"tr":  "W. G. Fahrenholtz, G. E. Hilmas, I. G. Talmy, and J. A. Zaykoski, J. American Ceramic Society, 90: 1347 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Mroz, Am. Ceram. Soc. Bull., 73: 141 (1994).",
+				"tr":  "C. Mroz, Am. Ceram. Soc. Bull., 73: 141 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "A. S. Brown, Aerospace Am., 35: 20 (1997).",
+				"tr":  "A. S. Brown, Aerospace Am., 35: 20 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Kuwabara, Bull. Ceram. Soc. Jpn., 37: 267 (2002).",
+				"tr":  "K. Kuwabara, Bull. Ceram. Soc. Jpn., 37: 267 (2002)."
+			},
+			{
+				"doi": "10.1023/A:1004529527162",
+				"or":  "S. Norasetthekul, P. T. Eubank, W. L. Bradley, B. Bozkurt, and B. Stucker, J. Mater. Sci., 34: 1261(1999).",
+				"tr":  "S. Norasetthekul, P. T. Eubank, W. L. Bradley, B. Bozkurt, and B. Stucker, J. Mater. Sci., 34: 1261(1999)."
+			},
+			{
+				"doi": "10.1038/35065039",
+				"or":  "J. Nagamatsu, N. Nakagawa, T. Muranaka, Y. Zenitani, and J. Akimitsu, Nature (London), 410: 63 (2001).",
+				"tr":  "J. Nagamatsu, N. Nakagawa, T. Muranaka, Y. Zenitani, and J. Akimitsu, Nature (London), 410: 63 (2001)."
+			},
+			{
+				"doi": "10.1134/1.1387521",
+				"or":  "V. A. Gasparov, N. S. Sidorov, I. I. Zverkova, and M. P. Kulakov, JETP Lett., 73: 532 (2001).",
+				"tr":  "V. A. Gasparov, N. S. Sidorov, I. I. Zverkova, and M. P. Kulakov, JETP Lett., 73: 532 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "D. P. Young, P. W. Adams, J. Y. Chan, and F. R. Fronczek, Preprint Cond-Mat/0104063 (2001).",
+				"tr":  "D. P. Young, P. W. Adams, J. Y. Chan, and F. R. Fronczek, Preprint Cond-Mat/0104063 (2001)."
+			},
+			{
+				"doi": "10.1088/0953-2048/14/11/201",
+				"or":  "C. Buzea and T. Yamashita, Supercond. Sci. Technol., 14: R115 (2001).",
+				"tr":  "C. Buzea and T. Yamashita, Supercond. Sci. Technol., 14: R115 (2001)."
+			},
+			{
+				"doi": "10.1063/1.2720083",
+				"or":  "V. B. Pluzhnikov, I. V. Svechkarev, A. V. Dukhnenko, A. V. Levchenko, V. B. Filippov, and A. Chopnik, Low Temp. Phys., 33: 350 (2007).",
+				"tr":  "V. B. Pluzhnikov, I. V. Svechkarev, A. V. Dukhnenko, A. V. Levchenko, V. B. Filippov, and A. Chopnik, Low Temp. Phys., 33: 350 (2007)."
+			},
+			{
+				"doi": "10.1116/1.2409939",
+				"or":  "Y. Yang, S. Jayaraman, B. Sperling, D. Y. Kim, G. S. Girolami, and J. R. Abelson, J. Vacuum Sci. Technol. A, 25: 200 (2007).",
+				"tr":  "Y. Yang, S. Jayaraman, B. Sperling, D. Y. Kim, G. S. Girolami, and J. R. Abelson, J. Vacuum Sci. Technol. A, 25: 200 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "G. E. Grechnev, A. V. Fedorchenko, A. V. Logosha, A. S. Panfilov, I. V. Svechkarev, V. B. Filippov, A. B. Lyashchenko, and A. V. Evdokimova, J. Appl. Cryst., 481: 75 (2009).",
+				"tr":  "G. E. Grechnev, A. V. Fedorchenko, A. V. Logosha, A. S. Panfilov, I. V. Svechkarev, V. B. Filippov, A. B. Lyashchenko, and A. V. Evdokimova, J. Appl. Cryst., 481: 75 (2009)."
+			},
+			{
+				"doi": "10.1063/1.3266916",
+				"or":  "A. V. Fedorchenko, G. E. Grechnev, A. S. Panfilov, A. V. Logosha, I. V. Svechkarev, V. B. Filippov, A. B. Lyashchenko, and A. V. Evdokimova, Low Temp. Phys., 35: 82 (2009).",
+				"tr":  "A. V. Fedorchenko, G. E. Grechnev, A. S. Panfilov, A. V. Logosha, I. V. Svechkarev, V. B. Filippov, A. B. Lyashchenko, and A. V. Evdokimova, Low Temp. Phys., 35: 82 (2009)."
+			},
+			{
+				"doi": "10.1002/pssb.200402136",
+				"or":  "C. S. Lue and W. J. Lai, phys. status solidi (b), 242: 1108 (2005).",
+				"tr":  "C. S. Lue and W. J. Lai, phys. status solidi (b), 242: 1108 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.63.045115",
+				"or":  "P. Vajeeston, P. Ravindran, C. Ravi, and R. Asokamani, Phys. Rev. B, 63: 045115 (2001).",
+				"tr":  "P. Vajeeston, P. Ravindran, C. Ravi, and R. Asokamani, Phys. Rev. B, 63: 045115 (2001)."
+			},
+			{
+				"doi": "10.1016/j.physb.2010.05.034",
+				"or":  "J. D. Zhang and X. L. Cheng, Physica B, 405: 3532 (2010).",
+				"tr":  "J. D. Zhang and X. L. Cheng, Physica B, 405: 3532 (2010)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2011.07.093",
+				"or":  "J. D. Zhang, X. L. Cheng, and D. H. Li, J. Alloys Compd., 509: 9577 (2011).",
+				"tr":  "J. D. Zhang, X. L. Cheng, and D. H. Li, J. Alloys Compd., 509: 9577 (2011)."
+			},
+			{
+				"doi": "10.1007/s11669-011-9930-x",
+				"or":  "H. Li, L. Zhang, Q. Zeng, and L. Cheng, J. Phase Equilib. Diffus., 32: 422 (2011).",
+				"tr":  "H. Li, L. Zhang, Q. Zeng, and L. Cheng, J. Phase Equilib. Diffus., 32: 422 (2011)."
+			},
+			{
+				"doi": "10.1016/0378-4363(85)90062-2",
+				"or":  "A. Pasturel, C. Colinet, and P. Hichter, Physica B, 132: 177 (1985).",
+				"tr":  "A. Pasturel, C. Colinet, and P. Hichter, Physica B, 132: 177 (1985)."
+			},
+			{
+				"doi": "10.1111/j.1551-2916.2011.04411.x",
+				"or":  "L. Zhang, D. A. Pejakovic, J. Marschall, and M. Gasch, J. American Ceramic Society, 94: 2562 (2011).",
+				"tr":  "L. Zhang, D. A. Pejakovic, J. Marschall, and M. Gasch, J. American Ceramic Society, 94: 2562 (2011)."
+			}
+		]
+	}
+}

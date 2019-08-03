@@ -1,0 +1,121 @@
+{
+	"_id":    "MFiNT.38.09.1249",
+	"year":   2016,
+	"volume": 38,
+	"issue":  9,
+	"pages":  [1249,1263],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["07.07.2016","22.08.2016"],
+	"PACS":   "61.72.Dd, 61.72.Ff, 61.72.Hh, 62.20.mj, 62.20.mt, 62.20.Qp, 62.23.Pq, 81.10.Jt",
+	"title":   {
+		"ua": "Напружено-деформований стан фазових складових керамічного композиту LaB$_{6}$—TiВ$_{2}$",
+		"en": "Mode of Deformation of Phase Components of a Ceramic Composite LaB$_{6}$—TiВ$_{2}$",
+		"ru": "Напряжённо-деформированное состояние фазовых составляющих керамического композита LaB$_{6}$—TiВ$_{2}$"
+	},
+	"abstract": {
+		"ua": "Методами мікроскопічної та рентґенівської дифракційної аналіз проведено дослідження формування структури композитів LaB$_{6}$—TiB$_{2}$, одержаних методом безтигельного зонного топлення на монокристалічному зародку і без нього. Визначено залишкові макро- і мікронапруження, вивчено формування текстури в композитах, одержаних різними методами. Встановлено, що в матричній фазі LaB$_{6}$ в різних кристалографічних напрямках виникають різні як за знаком, так і за значенням залишкові напруження, а у волокнах TiB$_{2}$ спостерігається їх однорідність. В зв’язку з цим, тріщини розповсюджуються в матричній фазі, оминаючи волокна, в напрямках під кутами до максимального навантаження, що пов’язано із наявністю напружень розтягу в композиті.",
+		"en": "Structure formation of LaB$_{6}$—TiB$_{2}$ composite obtained by floating zone melting method on the single crystal substrate and without it is studied by methods of microscopic and X-ray diffraction analysis. The residual macro- and microstresses are determined; formation of texture in the composites obtained by different methods is investigated. As found, in the matrix LaB$_{6}$ phase, the residual stresses different in sign and value appear in different crystallographic directions; contrariwise, in the TiB$_{2}$ fibres, residual-stresses homogeneity is observed. Therefore, cracks are extended in the matrix phase (avoid the fibre) in directions at some angles to the maximum load due to the presence of tensile stresses in the composite.",
+		"ru": "Методами микроскопического и рентгеновского дифракционного анализов проведено исследование формирования структуры композитов LaB$_{6}$— TiB$_{2}$, полученных методом бестигельной зонной плавки на монокристаллической затравке и без неё. Определены остаточные макро- и микронапряжения, изучено формирование текстуры в композитах, полученных разными методами. Установлено, что в матричной фазе LaB$_{6}$ в различных кристаллографических направлениях возникают разные как по знаку, так и по значению остаточные напряжения, а в волокнах TiB$_{2}$ наблюдается их однородность. В связи с этим трещины распространяются в матричной фазе, минуя волокна, в направлениях под углами к максимальной нагрузке, что связано с наличием напряжений растяжения в композите."
+	},
+	"keywords": {
+		"ua": "композит, нерівноважні фази, залишкові напруження, кристалографічна текстура, багаторівнева структура, крихкість",
+		"en": "composite, non-equilibrium phase, residual stresses, crystallographic texture, the multilevel structure, brittleness",
+		"ru": "композит, неравновесные фазы, остаточные напряжения, кристаллографическая текстура, многоуровневая структура, хрупкость"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "П. І. Лобода.", "en": "P. I. Loboda", "ru": "П. И. Лобода"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "О. П. Карасевська", "en": "О. P. Karasevska", "ru": "О. П. Карасевская"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Т. О. Соловйова", "en": "T. O. Soloviova", "ru": "Т. А. Соловьева"},
+			"OID": [202]
+		}
+	],
+	"references": {
+		"count": 15,
+		"list":  [
+			{
+				"doi": "10.1023/A:1011322707881",
+				"or":  "P. Loboda, Powder Metall. Met. Ceram., 39, Iss. 9–10: 480 (2000).",
+				"tr":  "P. Loboda, Powder Metall. Met. Ceram., 39, Iss. 9–10: 480 (2000)."
+			},
+			{
+				"doi": "10.4018/978-1-4666-4066-5",
+				"or":  "I. M. Low, Y. Sakka, and C. F. Hu, MAX Phases and Ultra High Temperature Ceramics for Extreme Environments (Hershey: IGI Global: 2013).",
+				"tr":  "I. M. Low, Y. Sakka, and C. F. Hu, MAX Phases and Ultra High Temperature Ceramics for Extreme Environments (Hershey: IGI Global: 2013)."
+			},
+			{
+				"doi": "",
+				"or":  "П. І. Лобода, Фізико-хімічні основи створення нових боридних матеріалів для електронної техніки і розробка керамічних катодних вузлів з підвищеною ефективністю (Дис. ... д-ра техн. наук) (Київ: Інститут проблем матеріалознавства ім. І. М. Францевича НАН України: 2004).",
+				"tr":  "P. I. Loboda, Fizyko-Khimichni Osnovy Stvorennya Novykh Borydnykh Materialiv dlya Elektronnoyi Tekhniky i Rozrobka Keramichnykh Katodnykh Vuzliv z Pidvyshchenoyu Efektyvnistyu [Physicochemical Basis for Formation of New Boride Materials for Electronic Engineering and Development of Ceramic Cathode Units with Advanced Efficiency] (Disser. for Dr. Techn. Sci.) (Kyiv: I. M. Frantsevych Institute for Problems in Materials Science, N.A.S. of Ukraine: 2004) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1002/9783527618217",
+				"or":  "R. Riedel, Handbook of Ceramic Hard Materials (Weinheim: Wiley-VCH: 2000), vol. 1.",
+				"tr":  "R. Riedel, Handbook of Ceramic Hard Materials (Weinheim: Wiley-VCH: 2000), vol. 1."
+			},
+			{
+				"doi": "10.1007/978-1-4471-3648-4",
+				"or":  "F. Cardarelli, Materials Handbook (London–New York: Springer: 2000).",
+				"tr":  "F. Cardarelli, Materials Handbook (London–New York: Springer: 2000)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2010.05.003",
+				"or":  "Yu. Bogomol, T. Nishimura, O. Vasylkiv, Y. Sakka, and P. Loboda, J. Alloys Compd., 505, Iss. 1: 130 (2010).",
+				"tr":  "Yu. Bogomol, T. Nishimura, O. Vasylkiv, Y. Sakka, and P. Loboda, J. Alloys Compd., 505, Iss. 1: 130 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "П. І. Лобода, Ю. І. Богомол, М. О. Сисоев, Г. П. Кисла, Сверхтвёрдые материалы, 5: 30 (2006).",
+				"tr":  "P. I. Loboda, Yu. I. Bogomol, M. O. Sysoev, and H. P. Kysla, Sverkhtverdye Materialy, 5: 30 (2006) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2011.02.176",
+				"or":  "I. Bogomol, T. Nishimura, Y. Nesterenko, O. Vasylkiv, Y. Sakka, and P. Loboda, J. Alloys Compd., 509, Iss. 20: 6123 (2011).",
+				"tr":  "I. Bogomol, T. Nishimura, Y. Nesterenko, O. Vasylkiv, Y. Sakka, and P. Loboda, J. Alloys Compd., 509, Iss. 20: 6123 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "Standard Test Method for Vickers Indentation Hardness of Advanced Ceramics (West Conshohocken, PA: ASTM International: 1999).",
+				"tr":  "Standard Test Method for Vickers Indentation Hardness of Advanced Ceramics (West Conshohocken, PA: ASTM International: 1999)."
+			},
+			{
+				"doi": "10.2320/matertrans.46.2067",
+				"or":  "W. Li, R. Tu, and T. Goto, Mater. Trans., 46: 2067 (2005).",
+				"tr":  "W. Li, R. Tu, and T. Goto, Mater. Trans., 46: 2067 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Кресанов, Н. П. Малахов, В. В. Морозов, Н. Н. Семашко, В. Я. Шлюко, Высокоэффективный эмиттер электронов на основе гексаборида лантана (Москва: Энергоатомиздат: 1987).",
+				"tr":  "V. S. Kresanov, N. P. Malakhov, V. V. Morozov, N. N. Semashko, and V. Ya. Shlyuko, Vysokoeffektivnyy Emitter Elektronov na Osnove Geksaborida Lantana [High-Performance Electron Emitter on the Basis of Lanthanum Hexaboride] (Moscow: Energoatomizdat: 1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Кривоглаз, Дифракция рентгеновских лучей и нейтронов в неидеальных кристаллах (Киев: Наукова думка: 1983).",
+				"tr":  "M. A. Krivoglaz, Difraktsiya Rentgenovskikh Luchey i Neytronov v Neideal'nykh Kristallakh [X-Ray and Neutron Diffraction in Nonideal Crystals] (Kiev: Naukova Dumka: 1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. П. Карасевская, Металлофиз. новейшие технол., 22, № 11: 44 (2000).",
+				"tr":  "O. P. Karasevska, Metallofiz. Noveishie Tekhnol., 22, No. 11: 44 (2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. М. Мышляев, В. И. Бетехтин, Физ. мет. металловед., 22 № 1: 142 (1966).",
+				"tr":  "M. M. Myshlyaev and V. I. Betekhtin, Fiz. Met. Metalloved., 22, No. 1: 142 (1966) (in Russian)."
+			},
+			{
+				"doi": "10.1007/BF02365754",
+				"or":  "P. I. Loboda, Mater. Sci., 35, No. 4: 552 (1999).",
+				"tr":  "P. I. Loboda, Mater. Sci., 35, No. 4: 552 (1999)."
+			}
+		]
+	}
+}

@@ -1,0 +1,163 @@
+{
+	"_id":    "MFiNT.37.05.0625",
+	"year":   2015,
+	"volume": 37,
+	"issue":  5,
+	"pages":  [625,636],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["10.03.2015"],
+	"PACS":   "64.70.kd, 75.30.Kz, 75.50.Ee, 75.60.Ej, 75.80.+q, 81.30.Kf, 81.40.Rs",
+	"title":  {
+		"ua": "Вплив об'ємної магнітострикції на мартенситне перетворення в сплавах заліза. Магнітний фазовий перехід першого роду",
+		"en": "Influence of Bulk Magnetostriction on the Martensitic Transformation in Iron Alloys. First-Order Magnetic-Phase Transition",
+		"ru": "Влияние объёмной магнитострикции на мартенситное превращение в сплавах железа. Магнитный фазовый переход первого рода"
+	},
+	"abstract": {
+		"ua": "Спираючись на результати досліджень магнетних властивостей аустеніту і впливу сильних магнетних полів на зміщення мартенситної точки у стопах Fe—Ni і Fe—Ni—Mn, пояснено кінетичні особливості мартенситного $\\gamma \\rightarrow \\alpha$-перетворення у стопах заліза. Показано, що зміни характеру перетворення можуть бути пояснені зміною структурного фазового перетворення (ізотермічна кінетика) на магнетний фазовий перехід першого роду (атермічна кінетика).",
+		"en": "Kinetic characteristics of martensitic $\\gamma \\rightarrow \\alpha$-transformation in iron alloys are explained based on both the results of a study of austenite magnetic properties and the influence of strong magnetic fields on the displacement of the martensitic point in Fe—Ni and Fe—Ni—Mn alloys. As shown, the changing of the transformation nature can be explained by the change of the structural phase transformation (isothermal kinetics) on the first-kind magnetic phase transition (athermal kinetics).",
+		"ru": "Опираясь на результаты исследования магнитных свойств аустенита и влияния сильных магнитных полей на смещение мартенситной точки в сплавах Fe—Ni и Fe—Ni—Mn, объяснены кинетические особенности мартенситного $\\gamma \\rightarrow \\alpha$-превращения в сплавах железа. Показано, что изменение характера превращения можно объяснить сменой структурного фазового превращения (изотермическая кинетика) на магнитный фазовый переход первого рода (атермическая кинетика)."
+	},
+	"keywords": {
+		"ua": "мартенсит, аустеніт, магнітне поле, магнітострикція парапроцеса, спонтанна магнітострикція, структурне перетворення, магнітний перехід, гістерезис",
+		"en": "martensite, austenite, magnetic field, magnetostriction of paraprocess, spontaneous magnetostriction, structural transformation, magnetic transition, hysteresis",
+		"ru": "мартенсит, аустенит, магнитное поле, магнитострикция парапроцесса, спонтанная магнитострикция, структурное превращение, магнитный переход, гистерезис"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. В. Золотаревський", "en": "I. V. Zolotarevskiy", "ru": "И. В. Золотаревский"},
+			"OID": [220]
+		}
+	],
+	"references": {
+		"count": 25,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "А. П. Гуляев, Металловедение (Москва: Металлургия: 1977).",
+				"tr":  "A. P. Gulyaev, Metallovedenie (Moscow: Metallurgiya: 1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. С. Уманский, Ю. А. Скаков, Физика металлов (Москва: Атомиздат: 1978).",
+				"tr":  "Ya. S. Umanskiy and Yu. A. Skakov, Fizika Metallov (Moscow: Atomizdat: 1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Лысак, Б. И. Николин, Физические основы термической обработки стали (Киев: Техніка: 1975).",
+				"tr":  "L. I. Lysak and B. I. Nikolin, Fizicheskie Osnovy Termicheskoy Obrabotki Stali [Physical Foundation of Thermal Treatment of Steel] (Kiev: Tekhnika: 1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Я. Георгиева, О. П. Максимова, П. А. Малинен, Л. А. Мельников, В. Д. Садовский, Физ. мет. металловед., 35, 2: 363 (1973).",
+				"tr":  "I. Ya. Georgieva, O. P. Maksimova, P. A. Malinen, L. A. Mel'nikov, and V. D. Sadovskiy, Fiz. Met. Metalloved., 35, Iss. 2: 363 (1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Кривоглаз, В. Д. Садовский, Л. В. Смирнов, Е. А. Фокина, Закалка стали в магнитном поле (Москва: Наука: 1977).",
+				"tr":  "M. A. Krivoglaz, V. D. Sadovskiy, L. V. Smirnov, and E. A. Fokina, Zakalka Stali v Magnitnom Pole [Quenching of Steel in Magnetic Field] (Moscow: Nauka: 1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Фокина, В. М. Счастливцев, Ю. В. Калетина, Физ. мет. металловед., 92, вып. 6: 42 (2001).",
+				"tr":  "E. A. Fokina, V. M. Schastlivtsev, and Yu. V. Kaletina, Fiz. Met. Metalloved., 92, Iss. 6: 42 (2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Кривоглаз, В. Д. Садовский, Физ. мет. металловед., 18, вып. 4: 502 (1964).",
+				"tr":  "M. A. Krivoglaz and V. D. Sadovskiy, Fiz. Met. Metalloved., 18, Iss. 4: 502 (1964) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Золотаревский, Н. С. Косенко, М. А. Кривоглаз, Металлофизика, 1, вып. 2: 17 (1979).",
+				"tr":  "I. V. Zolotarevskiy, N. S. Kosenko, and M. A. Krivoglaz, Metallofizika, 1, Iss. 2: 17 (1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Золотаревский, В. Л. Снежной, Л. М. Шейко, Физ. мет. металловед., 47, вып. 6: 1312 (1979).",
+				"tr":  "I. V. Zolotarevskiy, V. L. Snezhnoy, and L. M. Sheyko, Fiz. Met. Metalloved., 47, Iss. 6: 1312 (1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. А. Завадский, В. И. Вальков, Магнитные фазовые переходы (Киев: Наукова думка:1980).",
+				"tr":  "E. A. Zavadskiy and V. I. Val'kov, Magnitnye Fazovye Perekhody [Magnetic Phase Transfers] (Kiev: Naukova Dumka:1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. В. Кузьмин, Г. А. Петраковский, Э. А. Завадский, Физика магнитоупорядоченных веществ (Новосибирск: Наука: 1976).",
+				"tr":  "E. V. Kuz'min, G. A. Petrakovskiy, and E. A. Zavadskiy, Fizika Magnitouporyadochennykh Veshchestv [Physics of Magnetically Ordered Substances] (Novosibirsk: Nauka: 1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Золотаревский, Н. С. Косенко, В. Л. Снежной, Доклады Всесоюзной конференции по мартенситным превращениям в твёрдом теле (7–11 октября 1991 г., Косов, Украина) (Киев: 1992), с. 62.",
+				"tr":  "I. V. Zolotarevskiy, N. S. Kosenko, and V. L. Snezhnoy, Doklady Vsesoyuznoy Konferentsii po Martensitnym Prevrashcheniyam v Tverdom Tele [Reports of All-Union Conference on Martensitic Transformations in Solids], (October 7–11, 1991, Kosov, Ukraine) (Kiev: 1992), p. 62 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Золотаревский, С. В. Лоскутов, В. К. Манько, С. В. Сейдаметов, Физ. мет. металловед., 108, вып. 2: 147 (2009).",
+				"tr":  "I. V. Zolotarevskiy, S. V. Loskutov, V. K. Man'ko, and S. V. Seydametov, Fiz. Met. Metalloved., 108, Iss. 2: 147 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Д. Ворончихин, И. Я. Георгиева, Физ. мет. металловед., 44, вып. 1: 207 (1977).",
+				"tr":  "L. D. Voronchikhin and I. Ya. Georgieva, Fiz. Met. Metalloved., 44, Iss. 1: 207 (1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Золотаревский, В. Л. Снежной, И. Я. Георгиева, Л. А. Матюшенко, Физ. мет. металловед., 51, вып. 3: 669 (1981).",
+				"tr":  "I. V. Zolotarevskiy, V. L. Snezhnoy, I. Ya. Georgieva, and L. A. Matyushenko, Fiz. Met. Metalloved., 51, Iss. 3: 669 (1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Золотаревский, В. Л. Снежной, Л. М. Шейко, Физ. мет. металловед., 55, вып. 3: 548 (1983).",
+				"tr":  "I. V. Zolotarevskiy, V. L. Snezhnoy, and L. M. Sheyko, Fiz. Met. Metalloved., 55, Iss. 3: 548 (1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Л. Седов, Антиферромагнетизм гамма-железа. Проблема инвара (Москва: Наука:1987).",
+				"tr":  "V. L. Sedov, Antiferromagnetizm Gamma-Zheleza. Problema Invara [Antiferromagnetism of Gamma-Iron. Problem of Invar] (Moscow: Nauka: 1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Д. Поволоцкий, Л. Г. Журавлёв, М. М. Штейнберг, Физ. мет. металловед., 35, вып. 3: 567 (1973).",
+				"tr":  "V. D. Povolotskiy, L. G. Zhuravlev, and M. M. Shteynberg, Fiz. Met. Metalloved., 35, Iss. 3: 567 (1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Д. Садовский, П. А. Малинен, Л. А. Мельников, Металловед. терм. обр. мет., № 9: 30 (1972).",
+				"tr":  "V. D. Sadovskiy, P. A. Malinen, and L. A. Mel'nikov, Metalloved. Term. Obr. Met., No. 9: 30 (1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. А. Мирзаев, Физ. мет. металловед., 56, вып. 3: 569 (1983).",
+				"tr":  "D. A. Mirzaev, Fiz. Met. Metalloved., 56, Iss. 3: 569 (1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "R. F. Bunshah and R. F. Mehl, Trans. AIME, 197: 1251 (1953).",
+				"tr":  "R. F. Bunshah and R. F. Mehl, Trans. AIME, 197: 1251 (1953)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Ромашов, И. Г. Факидов, Физ. мет. металловед., 16, вып. 9: 2793 (1974).",
+				"tr":  "L. N. Romashov and I. G. Fakidov, Fiz. Met. Metalloved., 16, Iss. 9: 2793 (1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Ромашев, В. Д. Садовский, Доклады Всесоюзной конференции по мартенситным превращениям в твёрдом теле (7–11 октября 1991 г., Косов, УССР) (Киев: 1992), с. 11.",
+				"tr":  "L. N. Romashev and V. D. Sadovskiy, Doklady Vsesoyuznoy Konferentsii po Martensitnym Prevrashcheniyam v Tverdom Tele [Reports of All-Union Conference on Martensitic Transformations in Solids] (7–11 October 1991, Kosov, Ukrainian S.S.R.) (Kiev: 1992), p. 11 (in Russian)."
+			},
+			{
+				"doi": "10.1007/BF02814918",
+				"or":  "R. G. Davies and C. L. Magee, Met. Trans., 2: 1939 (1971).",
+				"tr":  "R. G. Davies and C. L. Magee, Met. Trans., 2: 1939 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Кондратьев, В. Г. Пушин, Физ. мет. металловед., 60, вып. 4: 629 (1985).",
+				"tr":  "V. V. Kondrat'ev and V. G. Pushin, Fiz. Met. Metalloved., 60, Iss. 4: 629 (1985) (in Russian)."
+			}
+		]
+	}
+}

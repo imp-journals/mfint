@@ -1,0 +1,45 @@
+{
+	"_id":    "MFiNT.37.0379",
+	"year":   2015,
+	"volume": 37,
+	"issue":  3,
+	"pages":  [379,396],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["17.12.2014","20.01.2015"],
+	"PACS":   "62.20.de, 62.20.dj, 62.20.dq, 62.65.+k, 63.10.+a, 63.20.-e",
+	"title":  {
+		"ua": "Критерії та механізми виникнення ауксетичності кристалів кубічної сингонії",
+		"en": "Criteria and Mechanisms of Appearance of Auxeticity in Cubic Syngony Crystals",
+		"ru": "Критерии и механизмы возникновения ауксетичности кристаллов кубической сингонии"
+	},
+	"abstract": {
+		"ua": "Використовуючи модулі пружности C$_{ijkl}$ та піддатливости S$_{ijkl}$, розраховано Пуассонові коефіцієнти $\\mu_{ijkl}$, кутові залежності ${\\it v}_i$ та $E_i$ для деяких крийсталів кубічної сингонії. Вперше побудовано вказівні поверхні ауксетичйности монокристалів. На основі аналізу анізотропії пружніх властивостей виявлено основні умови і критерії виникнення ауксетичности – аномайльної деформації монокристалів кубічної сингонії.",
+		"en": "The moduli of elasticity C$_{ijkl}$ and pliability S$_{ijkl}$ are used to calculate Young’s modulus $E_{i}$, Poisson’s ratios $\\mu_{ijkl}$, and the $v_{i}$ and $E_{i}$ angular dependences are plotted using the propagation velocities of ultrasonic waves $v_{i}$ for more than 50 crystals of cubic syngony. Pointing auxeticity surfaces of single crystals are plotted for the first time. Basic conditions and criteria of occurrence of auxeticity (i.e. abnormal deformation) of cubic-syngony single crystals are revealed based on analysis of anisotropy of elastic properties.",
+		"ru": "Используя модули упругости C$_{ijkl}$ и податливости S$_{ijkl}$, рассчитаны коэффициенты Пуассона $\\mu_{ijkl}$, угловые зависимости $v_{i}$ и $E_{i}$ для некоторых кристаллов кубической сингонии. Впервые построены указательные поверхности ауксетичности монокристаллов. На основе анализа анизотропии упругих свойств выявлены основные условия и критерии возникновения ауксетичности – аномальной деформации монокристаллов кубической сингонии."
+	},
+	"keywords": {
+		"ua": "модулі пружности, Пуассонові коефіцієнти, аксіяльна ауксетичність, неаксіяльна ауксетичність, вказівні поверхні ауксетичности, ультразвукові хвилі",
+		"en": "modulus of elasticity, Poisson ratio, axial auxetic, non-axial auxetic, auxetic indicating surface, ultrasonic waves",
+		"ru": "модули упругости, коэффициенты Пуассона, аксиальная ауксетичность, неаксиальная ауксетичность, указательные поверхности ауксетичности, ультразвуковые волны"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. Д. Раранський", "en": "M. D. Raransky", "ru": "Н. Д. Раранский"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "В. Н. Балазюк", "en": "V. N. Balazyuk", "ru": "В. Н. Балазюк"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "М. М. Гунько", "en": "M. M. Gunko", "ru": "М. Н. Гунько"},
+			"OID": [215]
+		}
+	],
+	"references": {
+		"count": 24,
+		"list":  []
+	}
+}

@@ -1,0 +1,82 @@
+{
+	"year":   2016,
+	"volume": 38,
+	"issue":  1,
+	"toc": [
+		{
+			"type":    1,
+			"rubric": 12,
+			"pages":  [1,18],
+			"title": {
+				"ua": "Етапи розвитку та напрями досліджень в Інституті металофізики ім. Г. В. Курдюмова НАН України",
+				"en": "Stages and Trends of Researches at the G. V. Kurdyumov Institute for Metal Physics of the NAS of Ukraine",
+				"ru": "Этапы развития и направления исследований в Институте металлофизики им. Г. В. Курдюмова НАН Украины"
+			},
+			"autors": {
+				"ua": "О. М. Івасишин, Є. Г. Лень, В. М. Надутов, В. А. Татаренко",
+				"en": "O. M. Ivasishin, E. G. Len, V. M. Nadutov, and V. A. Tatarenko",
+				"ru": "О. М. Ивасишин, Е. Г. Лень, В. М. Надутов, В. А. Татаренко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [19,51],
+			"title": {
+				"ua": "Залежне від часу розсіяння асиметричним прямокутним потенціалом у наноструктурах",
+				"en": "Time-Dependent Scattering by an Asymmetric Spin-Dependent Rectangular Potential in Nanostructures",
+				"ru": "Зависящее от времени рассеяние асимметричным прямоугольным потенциалом в наноструктурах"
+			},
+			"autors": {
+				"ua": "В. Ф. Лось, Н. В. Лось",
+				"en": "V. F. Los and N. V. Los",
+				"ru": "В. Ф. Лось, Н. В. Лось"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [53,66],
+			"title": {
+				"ua": "Дослідження сплавів Гейслера Fe$_{2}$MnGa за допомогою дифракції нейтронів",
+				"en": "Neutron Diffraction Study of Fe$_{2}$MnGa Heusler Alloys",
+				"ru": "Исследование сплавов Гейслера Fe$_{2}$MnGa с помощью дифракции нейтронов"
+			},
+			"autors": {
+				"ua": "Ю. В. Кудрявцев, А. О. Перекос, І. М. Главацький, Я. Дубовік, Ю. Б. Скирта",
+				"en": "Yu. V. Kudryavtsev, A. E. Perekos, I. N. Glavatskyy, J. Dubowik, and Yu. B. Skirta",
+				"ru": "Ю. В. Кудрявцев, А. Е. Перекос, И. Н. Главацкий, Я. Дубовик, Ю. Б. Скирта"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [67,98],
+			"title": {
+				"ua": "Карбон, Нітроґен і Гідроґен в твердих розчинах на основі заліза: схожість та відмінність їх впливу на структуру і властивості",
+				"en": "Carbon, Nitrogen and Hydrogen in Iron-Based Solid Solutions: Similarities and Differences in their Effect on Structure and Properties",
+				"ru": "Углерод, азот и водород в твёрдых растворах на основе железа: сходства и различия их влияния на структуру и свойства"
+			},
+			"autors": {
+				"ua": "В. Г. Гаврилюк",
+				"en": "V. G. Gavriljuk",
+				"ru": "В. Г. Гаврилюк"
+			}
+		},
+			{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [99,138],
+			"title": {
+				"ua": "Динамічна теорія трикристальної рентґенівської дифрактометрії та характеризація мікродефектів і деформацій в неідеальних монокристалах",
+				"en": "Dynamical Theory of Triple-Crystal X-ray Diffractometry and Characterization of Microdefects and Strains in Imperfect Single Crystals",
+				"ru": "Динамическая теория трёхкристальной рентгеновской дифрактометрии и характеризация микродефектов и деформаций в неидеальных монокристаллах"
+			},
+			"autors": {
+				"ua": "В. Б. Молодкін, С. Й. Оліховський, Є. Г. Лень, Є. М. Кисловський, О. В. Решетник, Т. П. Владимирова, Б. В. Шелудченко, О. С. Скакунова, В. В. Лізунов, Є. В. Кочелаб, І. М. Фодчук, В. П. Кладько",
+				"en": "V. B. Molodkin, S. I. Olikhovskii, E. G. Len, Ye. M. Kyslovskyy, O. V. Reshetnyk, T. P. Vladimirova, B. V. Sheludchenko, E. S. Skakunova, V. V. Lizunov, E. V. Kochelab, I. M. Fodchuk, and V. P. Klad’ko",
+				"ru": "В. Б. Молодкин, С. И. Олиховский, Е. Г. Лень, Е. Н. Кисловский, О. В. Решетник, Т. П. Владимирова, Б. В. Шелудченко, Е. С. Скакунова, В. В. Лизунов, Е. В. Кочелаб, И. М. Фодчук, В. П. Кладько"
+			}
+		}
+	]
+}

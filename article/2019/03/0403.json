@@ -1,0 +1,194 @@
+{
+	"_id":    "MFiNT.41.03.0403",
+	"year":   2019,
+	"volume": 41,
+	"issue":  3,
+	"pages":  [403,415],
+	"rubric": 2,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["11.10.2018"],
+	"PACS":   "61.05.jm, 61.72.Dd, 61.72.Mm, 61.72.uf, 68.35.bg, 68.35.Gy",
+	"title":   {
+		"ua": "Визначення величини локальних деформацій та їх анізотропії в полікристалічному Ge за даними дифракції зворотно розсіяних електронів",
+		"en": "Determination of Local Deformations and Their Anisotropy in Polycrystalline Ge by Electron Backscatter Diffraction Data",
+		"ru": "Определение величины локальных деформаций и их анизотропии в поликристаллическом Ge по данным дифракции обратно рассеянных электронов"
+	},
+	"abstract": {
+		"ua": "Запропоновано новий підхід визначення величини середніх деформацій з картин дифракції зворотно розсіяних електронів в локальних ділянках полікристалічних зразків з ґратницею алмазу. Для аналізу змін форми і площі профілю інтенсивності смуг Кікучі використано дискретне двовимірне Фур’є-перетворення картин Кікучі та їх енергетичний Фур’є-спектр. Ступінь розмиття смуг на картинах Кікучі пов’язана з величинами деформацій, які кількісно описуються через зміни середнього радіального періоду і площі під радіальним розподілом енергетичного спектру зображення.",
+		"en": "A new approach of local average strain determination obtained from the data of electron backscatter diffraction in the local region of polycrystalline samples with a diamond lattice is proposed. A discrete two-dimensional Fourier transform and the power Fourier spectrum are used to analyse the shape and area changes of the intensity profile of the Kikuchi bands. The degree of bands tailing in Kikuchi pattern is related with the deformation values, which are quantitatively described by the changes of average radial period and the radial distribution area of the energy spectrum of the image.",
+		"ru": "Предложен новый подход определения величины средних деформаций по картинам дифракции обратно рассеянных электронов в локальных участках поликристаллических образцов с решёткой алмаза. Для анализа изменений формы и площади профиля интенсивности полос Кикучи использовано дискретное двумерное Фурье-преобразования картин Кикучи и их энергетический Фурье-спектр. Степень размытия полос на картинах Кикучи связана с величинами деформации, которые количественно описываются через изменения среднего радиального периода и площади радиального распределения энергетического спектра изображения."
+	},
+	"keywords": {
+		"ua": "полікристалічний Ge, дифракція зворотного розсіювання електронів, метод Кікучі, Фур’є-перетворення, енергетичний Фур'є-спектр, деформація",
+		"en": "polycrystalline Ge, electron backscatter diffraction, Kikuchi method, Fourier transform, power Fourier spectrum, deformation",
+		"ru": "поликристаллический Ge, дифракция отражённых электронов, метод Кикучи, Фурье-переоброзование, энергетический Фурье-спектр, деформация"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. М. Фодчук", "en": "I. M. Fodchuk", "ru": "И. М. Фодчук"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "М. С. Солодкий", "en": "M. S. Solodkyi", "ru": "Н. С. Солодкий"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "М. Д. Борча", "en": "M. D. Borcha", "ru": "М. Д. Борча"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "С. В. Баловсяк", "en": "S. V. Balovsyak", "ru": "С. В. Баловсяк"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "В. М. Ткач", "en": "V. M. Tkach", "ru": "В. М. Ткач"},
+			"OID": [12]
+		}
+	],
+	"references": {
+		"count": 28,
+		"list":  [
+			{
+				"doi": "10.1016/j.pcrysgrow.2010.09.002",
+				"or":  "M. Bosi and G. Attolini, Prog. Cryst. Growth Charact. Mater., 56, No. 3: 146 (2010).",
+				"tr":  "M. Bosi and G. Attolini, Prog. Cryst. Growth Charact. Mater., 56, No. 3: 146 (2010)."
+			},
+			{
+				"doi": "10.1109/LED.2003.810879",
+				"or":  "H. Shang, H. Okorn-Schimdt, J. Ott, P. Kozlowski, S. Steen, E. C. Jones, H.-S. P. Wong, and W. Hanesch, IEEE Electron Device Lett., 24, No. 4: 242 (2003).",
+				"tr":  "H. Shang, H. Okorn-Schimdt, J. Ott, P. Kozlowski, S. Steen, E. C. Jones, H.-S. P. Wong, and W. Hanesch, IEEE Electron Device Lett., 24, No. 4: 242 (2003)."
+			},
+			{
+				"doi": "10.1016/0022-0248(91)91106-K",
+				"or":  "M. Miyao, E. Murakami, H. Etoh, K. Nakagawa, and A. Nishida, J. Cryst. Growth, 111, Nos. 1–4: 912 (1991).",
+				"tr":  "M. Miyao, E. Murakami, H. Etoh, K. Nakagawa, and A. Nishida, J. Cryst. Growth, 111, Nos. 1-4: 912 (1991)."
+			},
+			{
+				"doi": "10.1109/JSTQE.2006.883160",
+				"or":  "S. J. Koester, J. D. Schaub, G. Dehlinger, and J. O. Chu, IEEE J. Sel. Top. Quantum Electron., 12, No. 6: 1489 (2006).",
+				"tr":  "S. J. Koester, J. D. Schaub, G. Dehlinger, and J. O. Chu, IEEE J. Sel. Top. Quantum Electron., 12, No. 6: 1489 (2006)."
+			},
+			{
+				"doi": "10.1063/1.102717",
+				"or":  "J. Olson, S. Kurtz, A. Kibbler, and A. Faine, Appl. Phys. Lett., 56, No. 7: 623 (1990).",
+				"tr":  "J. Olson, S. Kurtz, A. Kibbler, and A. Faine, Appl. Phys. Lett., 56, No. 7: 623 (1990)."
+			},
+			{
+				"doi": "10.1063/1.2734507",
+				"or":  "R. R. King, D. C. Law, K. M. Edmondson, C. M. Fetzer, G. S. Kinsey, H. Yoon, R. A. Sherif, and N. H. Karam, Appl. Phys. Lett., 90, No. 18: 183516 (2007).",
+				"tr":  "R. R. King, D. C. Law, K. M. Edmondson, C. M. Fetzer, G. S. Kinsey, H. Yoon, R. A. Sherif, and N. H. Karam, Appl. Phys. Lett., 90, No. 18: 183516 (2007)."
+			},
+			{
+				"doi": "10.1007/s11664-004-0142-6",
+				"or":  "D. Shahrjerdi, B. Hekmatshoar, S. S. Mohajerzadeh, A. Khakifirooz, and M. Robertson, J. Electron. Mater., 33, No. 4: 353 (2004).",
+				"tr":  "D. Shahrjerdi, B. Hekmatshoar, S. S. Mohajerzadeh, A. Khakifirooz, and M. Robertson, J. Electron. Mater., 33, No. 4: 353 (2004)."
+			},
+			{
+				"doi": "10.1016/j.solmat.2010.04.031",
+				"or":  "N. Yoshida, Y. Hatano, and M. Isomura, Sol. Energy Mater. Sol. Cells, 95, No. 1: 175 (2011).",
+				"tr":  "N. Yoshida, Y. Hatano, and M. Isomura, Sol. Energy Mater. Sol. Cells, 95, No. 1: 175 (2011)."
+			},
+			{
+				"doi": "10.1107/S0021889808001684",
+				"or":  "W. Ludwig, S. Schmidt, E. M. Lauridsen, and H. F. Poulsen, J. Appl. Crystallogr., 41: 302 (2008).",
+				"tr":  "W. Ludwig, S. Schmidt, E. M. Lauridsen, and H. F. Poulsen, J. Appl. Crystallogr., 41: 302 (2008)."
+			},
+			{
+				"doi": "10.1007/978-0-387-88136-2",
+				"or":  "A. J. Schwartz, M. Kumar, B. Adams, and D. Field, Electron Backscatter Diffraction in Materials Science (USA: Boston, MA: Springer: 2009).",
+				"tr":  "A. J. Schwartz, M. Kumar, B. Adams, and D. Field, Electron Backscatter Diffraction in Materials Science (USA: Boston, MA: Springer: 2009)."
+			},
+			{
+				"doi": "10.1016/j.diamond.2010.01.020",
+				"or":  "I. M. Fodchuk, V. M. Tkach, V. G. Ralchenko, A. P. Bolshakov, E. E. Ashkinazi, I. I. Vlasov, Y. D. Garabazhiv, S. V. Balovsyak, S. V. Tkach, and O. M. Kutsay, Diamond Relat. Mater., 19, Nos. 5–6: 409 (2010).",
+				"tr":  "I. M. Fodchuk, V. M. Tkach, V. G. Ralchenko, A. P. Bolshakov, E. E. Ashkinazi, I. I. Vlasov, Y. D. Garabazhiv, S. V. Balovsyak, S. V. Tkach, and O. M. Kutsay, Diamond Relat. Mater., 19, Nos. 5-6: 409 (2010)."
+			},
+			{
+				"doi": "10.1002/pssa.201184266",
+				"or":  "I. Fodchuk, S. Balovsyak, M. Borcha, Ya. Garabazhiv, and V. Tkach, phys. status solidi (a), 208, No. 11: 2591 (2011).",
+				"tr":  "I. Fodchuk, S. Balovsyak, M. Borcha, Ya. Garabazhiv, and V. Tkach, phys. status solidi (a), 208, No. 11: 2591 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "I. Fodchuk, S. Balovsyak, M. Borcha, Ya. Garabazhiv, and V. Tkach, Semiconductor Physics, Quantum Electronics and Optoelectronics, 13, No. 3: 262 (2010).",
+				"tr":  "I. Fodchuk, S. Balovsyak, M. Borcha, Ya. Garabazhiv, and V. Tkach, Semiconductor Physics, Quantum Electronics and Optoelectronics, 13, No. 3: 262 (2010)."
+			},
+			{
+				"doi": "10.3103/S1063457613050031",
+				"or":  "M. D. Borcha, S. V. Balovsyak, I. M. Fodchuk, V. Yu. Khomenko, O. P. Kroitor, and V. N. Tkach, J. Superhard Materials, 35, No. 5: 284 (2013).",
+				"tr":  "M. D. Borcha, S. V. Balovsyak, I. M. Fodchuk, V. Yu. Khomenko, O. P. Kroitor, and V. N. Tkach, J. Superhard Materials, 35, No. 5: 284 (2013)."
+			},
+			{
+				"doi": "10.1093/jmicro/dfq043",
+				"or":  "D. J. Dingley, A. J. Wilkinson, G. Meaden, and P. S. Karamched, J. Electron. Mater., 59, No. 1: 155 (2010).",
+				"tr":  "D. J. Dingley, A. J. Wilkinson, G. Meaden, and P. S. Karamched, J. Electron. Mater., 59, No. 1: 155 (2010)."
+			},
+			{
+				"doi": "10.3103/S1063457613040035",
+				"or":  "M. D. Borcha, S. V. Balovsyak, I. M. Fodchuk, V. Yu. Khomenko, and V. N. Tkach, J. Superhard Materials, 35, No. 4: 220 (2013).",
+				"tr":  "M. D. Borcha, S. V. Balovsyak, I. M. Fodchuk, V. Yu. Khomenko, and V. N. Tkach, J. Superhard Materials, 35, No. 4: 220 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Д. Борча, С. В. Баловсяк, Я. Д. Гарабажив, В. М. Ткач, И. М. Фодчук, Металлофиз. новейшие технол., 31, № 7: 911 (2009).",
+				"tr":  "M. D. Borcha, S. V. Balovsyak, Ya. D. Garabazhiv, V. M. Tkach, and I. M. Fodchuk, Metallofiz. Noveishie Tekhnol., 31, No. 7: 911 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Д. Борча, А. В. Звягинцева, В. М. Ткач, К. А. Ющенко, С. В. Баловсяк, И. М. Фодчук, В. Ю. Хоменко, Металлофиз. новейшие технол., 35, № 10: 1359 (2013).",
+				"tr":  "M. D. Borcha, A. V. Zvyagintseva, V. M. Tkach, K. A. Yushchenko, S. V. Balovsyak, I. M. Fodchuk, and V. Yu. Khomenko, Metallofiz. Noveishie Tekhnol., 35, No. 10: 1359 (2013) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.commatsci.2014.03.041",
+				"or":  "A. Stoll and A. J. Wilkinson, Comput. Mater. Sci., 89: 224 (2014).",
+				"tr":  "A. Stoll and A. J. Wilkinson, Comput. Mater. Sci., 89: 224 (2014)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/KEM.326-328.237",
+				"or":  "Y. Sasaki, M. Igushi, and M. Hino, Key Eng. Mater., 326–328: 237 (2006).",
+				"tr":  "Y. Sasaki, M. Igushi, and M. Hino, Key Eng. Mater., 326-328: 237 (2006)."
+			},
+			{
+				"doi": "10.1007/BF00727843",
+				"or":  "D. L. Davidson, J. Mater. Sci. Lett., 1, No. 6: 236 (1982).",
+				"tr":  "D. L. Davidson, J. Mater. Sci. Lett., 1, No. 6: 236 (1982)."
+			},
+			{
+				"doi": "10.1155/TSM.22.199",
+				"or":  "Y. Yoshitomi, K. Ohta, J. Harase, and Y. Suga, Textures and Microstructures, 22, No. 4: 199 (1994).",
+				"tr":  "Y. Yoshitomi, K. Ohta, J. Harase, and Y. Suga, Textures and Microstructures, 22, No. 4: 199 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Д. Борча, С. В. Баловсяк, И. М. Фодчук, В. Ю. Хоменко, В. М. Ткач, Металлофиз. новейшие технол., 35, № 8: 1137 (2013).",
+				"tr":  "M. D. Borcha, S. V. Balovsyak, I. M. Fodchuk, V. Yu. Khomenko, and V. M. Tkach, Metallofiz. Noveishie Tekhnol., 35, No. 8: 1135 (2013) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S1369-7021(12)70163-3",
+				"or":  "A. Wilkinson and B. Britton, Mater. Today, 15, No. 9: 366 (2012).",
+				"tr":  "A. Wilkinson and B. Britton, Mater. Today, 15, No. 9: 366 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Баловсяк, І. М. Фодчук, Комп’ютинг, 12, № 2: 160 (2013).",
+				"tr":  "S. V. Balovsyak and I. M. Fodchuk, Komp’yutyng, 12, No. 2: 160 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1007/978-3-319-91008-6_21",
+				"or":  "S. V. Balovsyak, O. V. Derevyanchuk, and I. M. Fodchuk, Advances in Computer Science for Engineering and Education (Eds. Z. Hu, S. Petoukhov, I. Dychka, and M. He) (Switzerland: Cham: Springer: 2018).",
+				"tr":  "S. V. Balovsyak, O. V. Derevyanchuk, and I. M. Fodchuk, Advances in Computer Science for Engineering and Education (Eds. Z. Hu, S. Petoukhov, I. Dychka, and M. He) (Switzerland: Cham: Springer: 2018)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Гонсалес, Р. Вудс, Цифровая обработка изображений (Москва: Техносфера: 2005).",
+				"tr":  "R. Gonsales and R. Vuds, Tsifrovaya Obrabotka Izobrazheniy [Digital Processing of Images] (Moscow: Tekhnosfera: 2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Гонсалес, Р. Вудс, С. Эддинс, Цифровая обработка изображений в среде MatLab (Москва: Техносфера: 2006).",
+				"tr":  "R. Gonsales, R. Vuds, and S. Eddins, Tsifrovaya Obrabotka Izobrazheniy v Srede MatLab [Digital Processing of Images in MatLab] (Moscow: Tekhnosfera: 2006) (in Russian)."
+			}
+		]
+	}
+}

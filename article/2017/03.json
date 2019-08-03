@@ -1,0 +1,127 @@
+{
+	"year":   2017,
+	"volume": 39,
+	"issue":  3,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [285,308],
+			"title": {
+				"ua": "Робота виходу електронів з металу та потенціял йонізації металевого кластера, що містить вакансії",
+				"en": "Work Function of Electrons of Metal and Ionization Potential of the Metal Cluster Containing Vacancies",
+				"ru": "Работа выхода электронов из металла и потенциал ионизации металлического кластера, содержащего вакансии"
+			},
+			"autors": {
+				"ua": "В. В. Погосов, В. І. Рева",
+				"en": "V. V. Pogosov and V. I. Reva",
+				"ru": "В. В. Погосов, В. И. Рева"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [309,321],
+			"title": {
+				"ua": "Розподіл атомів за кристалографічними позиціями у Гойслерових стопах $M$MnSb ($M$ = Co, Ni, Cu) та їх електронна будова",
+				"en": "Distribution of Atoms on Crystallographic Positions in Heusler Alloys $M$MnSb ($M$ = Co, Ni, Cu) and Their Electronic Structure",
+				"ru": "Распределение атомов по кристаллографическим позициям в сплавах Гейслера $M$MnSb ($M$ = Co, Ni, Cu) и их электронное строение"
+			},
+			"autors": {
+				"ua": "В. М. Уваров, М. В. Уваров",
+				"en": "V. N. Uvarov and N. V. Uvarov",
+				"ru": "В. Н. Уваров, Н. В. Уваров"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [323,335],
+			"title": {
+				"ua": "Вплив заміни Кобальту Ванадієм на умови взаємодії у системі Sm$_{2}$(Co,V)$_{17}$–H$_{2}$",
+				"en": "Influence of Substitution of Cobalt for the Vanadium on Interaction Conditions in Sm$_{2}$(Co,V)$_{17}$–H$_{2}$ System",
+				"ru": "Влияние замены кобальта на ванадий на условия взаимодействия в системе Sm$_{2}$(Co,V)$_{17}$–H$_{2}$"
+			},
+			"autors": {
+				"ua": "І. І. Булик, М. В. Пилат",
+				"en": "I. I. Bulyk and M. V. Pylat",
+				"ru": "И. И. Булык, М. В. Пылат"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [337,348],
+			"title": {
+				"ua": "Дифузія значених атомів Кобальту у високоентропійних стопах Al$_{x}$FeNiCoCuCr",
+				"en": "Tracer Diffusion of Cobalt in High-Entropy Alloys Al$_{x}$FeNiCoCuCr",
+				"ru": "Диффузия меченых атомов кобальта в высокоэнтро-пийных сплавах Al$_{x}$FeNiCoCuCr"
+			},
+			"autors": {
+				"ua": "В. М. Надутов, В. Ф. Мазанко, С. Ю. Макаренко",
+				"en": "V. M. Nadutov, V. F. Mazanko, and S. Yu. Makarenko",
+				"ru": "В. М. Надутов, В. Ф. Мазанко, С. Ю. Макаренко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [349,361],
+			"title": {
+				"ua": "Масоперенесення у нанорозмірних шарах перехідних металів під дією йонно-плазмового оброблення",
+				"en": "Mass Transfer in Nanosize Layers of Transition Metals Under the Influence of Ion–Plasma Processing",
+				"ru": "Массоперенос в наноразмерных слоях переходных металлов под воздействием ионно-плазменной обработки"
+			},
+			"autors": {
+				"ua": "А. К. Орлов, І. О. Круглов, І. Є. Котенко, С. І. Сидоренко, С. М. Волошко",
+				"en": "A. K. Orlov, I. O. Kruhlov, I. E. Kotenko, S. I. Sidorenko, and S. M. Voloshko",
+				"ru": "А. К. Орлов, И. А. Круглов, И. Е. Котенко, С. И. Сидоренко, С. М. Волошко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [363,385],
+			"title": {
+				"ua": "Дослідження закономірностей процесів формування поверхневих шарів при електроерозійному леґуванні. Частина Ⅱ",
+				"en": "Investigation of Regularities of the Processes of Formation of Surface Layers with Electroerosive Alloying. Part Ⅱ",
+				"ru": "Исследование закономерностей процессов формирования поверхностных слоёв при электроэрозионном легировании. Часть Ⅱ"
+			},
+			"autors": {
+				"ua": "В. Б. Тарельник, О. П. Гапонова, Е. В. Коноплянченко, М. Я. Довжик",
+				"en": "V. B. Tarelnyk, O. P. Gaponova, I. V. Konoplianchenko, and M. Ya. Dovzhyk",
+				"ru": "В. Б. Тарельник, О. П. Гапонова, Е. В. Коноплянченко, М. Я. Довжик"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [387,399],
+			"title": {
+				"ua": "Дослідження впливу фактора анізотропії на закономірність зміни об’єму в елементах мікроструктури",
+				"en": "Investigation of Influence of the Factor of Anisotropy on Regularity of Change of Volume in Microstructure Elements",
+				"ru": "Исследование влияния фактора анизотропии на закономерность изменения объёма в элементах микроструктуры"
+			},
+			"autors": {
+				"ua": "В. Ю. Марина, В. І. Марина",
+				"en": "V. Iu. Marina and V. I. Marina",
+				"ru": "В. Ю. Марина, В. И. Марина"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [401,424],
+			"title": {
+				"ua": "Концепція механізму та кінетики впливу механохемічних процесів на оброблення різанням",
+				"en": "The Concept of the Mechanism and Kinetics of Influence of Mechanochemical Processes on Edge Cutting Machining",
+				"ru": "Концепция механизма и кинетики влияния механохимических процессов на обработку резанием"
+			},
+			"autors": {
+				"ua": "М. О. Курін, М. В. Сурду",
+				"en": "M. O. Kurin and M. V. Surdu",
+				"ru": "М. А. Курин, Н. В. Сурду"
+			}
+		}
+	]
+}

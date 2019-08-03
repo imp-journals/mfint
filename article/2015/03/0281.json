@@ -1,0 +1,45 @@
+{
+	"_id":    "MFiNT.37.0281",
+	"year":   2015,
+	"volume": 37,
+	"issue":  3,
+	"pages":  [281,293],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["04.06.2014","26.01.2015"],
+	"PACS":   "02.70.Uu, 05.10.Ln, 05.50.+q, 64.60.an, 64.60.De, 64.60.My, 75.10.Hk",
+	"title":  {
+		"ua": "Вплив взаємодії найближчих сусідів на стабільність фаз одновимірних ізінгових магнетиків",
+		"en": "Influence of Interaction of Non-Nearest Neighbours on the Phase Stability of One-Dimensional Ising Magnets",
+		"ru": "Влияние взаимодействия неближайших соседей на стабильность фаз одномерных изинговских магнетиков"
+	},
+	"abstract": {
+		"ua": "Наведено результати комп’ютерного моделювання методою Монте-Карло фазових діяграм одновимірного (квазиодновимірного) Ізінґового магнетика при скінченних температурах. Досліджено вплив взаємодії багаточастинкової (чотиричастинкової) та неблизьких сусідів до третьої координаційної сфери на фазові переходи та магнетні фази у малому магнетику нанометрових розмірів. Проаналізовано зв’язок фазових діяграм з діяграмами основних станів; показано, що з ростом температури антиферомагнетний порядок стає більш стійким при позитивному зв’язку в третій координаційній сфері. Установлено ролю чотиричастинкової взаємодії в стабілізації магнетних фаз. Визначено загальні риси фазових діяграм (незалежно від розміру) одновимірного магнетика. Показано, що складні феримагнетні структури Ізінґового магнетика стабілізуються за неґативної взаємодії неблизьких сусідів і (або) при урахуванні багаточастинкової взаємодії. В межах запропонованого підходу можливі моделювання метастабільних фаз, розрахунок динамічних і статичних критичних індексів переходів та гістерезисних явищ для квазиодновимірних магнетиків. Використовується ориґінальне маркування одновимірних магнетних фаз, засноване на шістнадцятковій системі числення. Вперше для скінченних температур враховано всі можливі фази одновимірного Ізінґового магнетика з періодом до 13 вузлів за наявности складної багаточастинкової міжспінової взаємодії. Це надає можливість передбачити види ізотермічних магнетних фазових переходів при зміні зовнішнього магнетного поля та інших параметрів взаємодії. Запропонований підхід застосовується до магнетних кластерів та до квазиодновимірних Ізінґових магнетиків, в основі яких лежать метали Co, Fe та ін.",
+		"en": "The results of Monte Carlo computer simulation of phase diagrams of one-dimensional (quasi-one-dimensional) Ising magnet at finite temperatures are presented. The influence of many-particle (four-particle) interactions and neighbours up to the third coordination sphere on the phase transitions and magnetic phases in a small nanometre-size magnet is investigated. The relationship of phase diagrams with diagrams of the ground states is analysed. As shown, the antiferromagnetic order becomes more stable with increasing temperature, if exchange integral in the third coordination sphere is positive. The role of four-particle interaction in the stabilization of magnetic phases is ascertained. The common features of phase diagrams are determined independently on the size of a magnet. As shown, the complex ferrimagnetic structure of the Ising magnet is stabilized at a negative interaction of non-nearest neighbours and (or) with accounting of many-particle interaction. The proposed approach allows modelling of metastable phases, calculating both the dynamic and static critical exponents of transitions and the hysteresis phenomena for quasi-one-dimensional magnets. Original marking of one-dimensional magnetic phases based on hexadecimal notations is used. For the first time, for finite temperatures, all possible phases of one-dimensional Ising magnet with a period of up to 13 sites in the presence of a complex many-particle interspin interaction are considered. This makes it possible to predict the types of isothermal magnetic phase transitions when the external magnetic field and other interaction parameters are changed. The proposed approach is applicable to magnetic clusters and quasi-one-dimensional Ising magnets based on such metals as Co, Fe, etc.",
+		"ru": "Представлены результаты компьютерного моделирования методом Монте-Карло фазовых диаграмм одномерного (квазиодномерного) изинговского магнетика при конечных температурах. Исследовано влияние взаимодействия многочастичного (четырёхчастичного) и неближайших соседей до третьей координационной сферы на фазовые переходы и магнитные фазы в малом магнетике нанометровых размеров. Проанализирована связь фазовых диаграмм с диаграммами основных состояний; показано, что при увеличении температуры антиферромагнитный порядок становится более устойчивым при положительной связи в третьей координационной сфере. Установлена роль четырёхчастичного взаимодействия в стабилизации магнитных фаз.￼Определены общие черты фазовых диаграмм (независимо от размера) одномерного магнетика. Показано, что сложные ферримагнитные структуры изинговского магнетика стабилизируются при отрицательном взаимодействии неближайших соседей (или) при учёте многочастичного взаимодействия. В рамках предложенного подхода возможны моделирование метастабильных фаз и расчёт динамических и статических критических индексов переходов и гистерезисных явлений для квазиодномерных магнетиков. Используется оригинальная маркировка одномерных магнитных фаз, основанная на шестнадцатеричной системе счисления. Впервые для конечных температур учтены все возможные фазы одномерного изинговского магнетика с периодом до 13 узлов при наличии сложного многочастичного межспинового взаимодействия. Это даёт возможность предсказать виды изотермических магнитных фазовых превращений при изменении внешнего магнитного поля и других параметров взаимодействия. Предложенный подход применим к магнитным кластерам и к квазиодномерным изинговским магнетикам, в основе которых лежат металлы Co, Fe и др."
+	},
+	"keywords": {
+		"ua": "фазова діаграма, фазовий перехід, метастабільна фаза, багаточастинкова взаємодія, одновимірна модель Ізінга, наномагнетік",
+		"en": "phase diagram, phase transition, metastable phase, many-particle interaction, one-dimensional Ising model, nanomagnet",
+		"ru": "фазовая диаграмма, фазовый переход, метастабильная фаза, многочастичное взаимодействие, одномерная модель Изинга, наномагнетик"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. М. Удодов", "en": "V. N. Udodov", "ru": "В. Н. Удодов"},
+			"OID": [404]
+		},
+		{
+			"AID": {"ua": "Є. В. Шабуніна", "en": "E. V. Shabunina", "ru": "Е. В. Шабунина"},
+			"OID": [404]
+		},
+		{
+			"AID": {"ua": "Д. В. Спірін", "en": "D. V. Spirin", "ru": "Д. В. Спирин"},
+			"OID": [404]
+		}
+	],
+	"references": {
+		"count": 18,
+		"list":  []
+	}
+}

@@ -1,0 +1,318 @@
+{
+	"_id":    "MFiNT.36.04.0531",
+	"year":   2014,
+	"volume": 36,
+	"issue":  4,
+	"pages":  [531,546],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["01.02.2014"],
+	"PACS":   "61.72.Hh, 72.10.Fk, 73.25.+i, 73.50.Bk, 73.50.Lw, 73.61.At, 81.15.Ef",
+	"title":   {
+		"ua": "Формування металевої електропровідності у плівках вакуумних конденсатів металів",
+		"en": "Formation of Metallic Electrical Conduction in Films of Vacuum Condensates of Metals",
+		"ru": "Формирование металлической электропроводности в плёнках вакуумных конденсатов металлов"
+	},
+	"abstract": {
+		"ua": "Проаналізовано результати дослідження електронних явищ перенесення заряду в ультратонких плівках міді, золота, нікелю та паладію, нанесених методом замороженої конденсації на поверхні скла та сурфактантних підшарів ґерманію субатомної товщини. Підтверджено можливість керування лінійними розмірами кристалітів у площині, паралельній підложжю, за допомогою зміни масової товщини сурфактантних підшарів. Показано, що в електрично суцільних плівках міді та золота з товщиною, більшою за 5—6 нм, і в електрично суцільних плівках нікелю та паладію з товщинами від 4—5 нм зберігається електронна структура, аналогічна електронній структурі масивних металів.",
+		"en": "The results of investigation of the electronic-transport phenomena in ultrathin copper, gold, nickel, and palladium films of subatomic thickness, which are deposited by frozen condensation on the surface of both glass and germanium surfactant sublayers, are analysed. The possibility of control of the crystallites’ linear sizes in the plane, which is parallel to the substrate, by changing of the thickness of surfactant sublayers is confirmed. The electronic structure of electrically continuous copper and gold films with the thickness of at least 5—6 nm and electrically continuous nickel and palladium films with the thickness of 4—5 nm or larger remain similar to the electronic structure of bulk metals.",
+		"ru": "Проанализированы результаты исследования электронных явлений переноса заряда в ультратонких плёнках меди, золота, никеля и палладия, нанесённых методом замороженной конденсации на поверхности стекла и сурфактантных подслоёв германия субатомной толщины. Подтверждена возможность управления линейными размерами кристаллитов в плоскости, параллельной подложке, за счёт изменения массовой толщины сурфактантных подслоёв. Показано, что в электрически сплошных плёнках меди и золота толщиной больше 5—6 нм и в электрически сплошных плёнках никеля и палладия с толщинами больше 4—5 нм сохраняется электронная структура, аналогичная электронной структуре массивных металлов."
+	},
+	"keywords": {
+		"ua": "поверхневе та зерномежове розсіяння, тонкі металеві плівки, напівпровідникові підшари субатомної товщини",
+		"en": "surface and grain boundary scattering, thin metal films, semiconductor sublayers of subatomic thickness",
+		"ru": "поверхностное и зернограничное рассеяние, тонкие металлические плёнки, полупроводниковые подслои субатомной толщины"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Р. І. Бігун", "en": "R. I. Bigun", "ru": "Р. И. Бигун"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "М. Д. Бучковська", "en": "M. D. Buchkovska", "ru": "М. Д. Бучковская"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "В. М. Гаврилюх", "en": "V. M. Gavrilyukh", "ru": "В. М. Гаврилюх"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "О. Є. Кравченко", "en": "O. E. Kravchenko", "ru": "О. Е. Кравченко"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "З. В. Стасюк", "en": "Z. V. Stasyuk", "ru": "З. В. Стасюк"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "Д. С. Леонов", "en": "D. S. Leonov", "ru": "Д. С. Леонов"},
+			"OID": [16]
+		}
+	],
+	"references": {
+		"count": 52,
+		"list":  [
+			{
+				"doi": "10.1016/0169-4332(95)00318-5",
+				"or":  "T. Lewowski, Appl. Surf. Sci., 93, Iss. 1: 85 (1996).",
+				"tr":  "T. Lewowski, Appl. Surf. Sci., 93, Iss. 1: 85 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, Р. І. Бігун, З. В. Стасюк, Ю. А. Куницький, Наносистеми, наноматеріали, нанотехнології, 8, вип. 2: 339 (2010).",
+				"tr":  "A. P. Shpak, R. I. Bigun, Z. V. Stasyuk, and Yu. A. Kunytskii, Nanosistemi, Nanomateriali, Nanotehnologii, 8, Iss. 2: 339 (2010) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. І. Бігун, З. В. Стасюк, Наносистеми, наноматеріали, нанотехнології, 6, вип. 1: 17 (2008).",
+				"tr":  "R. I. Bigun and Z. V. Stasyuk, Nanosistemi, Nanomateriali, Nanotehnologii, 6, Iss. 1: 17 (2008) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "З. В. Стасюк, А. І. Лопатинський, Фізика і хімія твердого тіла, 2, № 4: 521 (2001).",
+				"tr":  "Z. V. Stasyuk and A. I. Lopatynskii, Fizyka i Khimiya Tverdogo Tila, 2, No. 4: 521 (2001) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Д. Бучковська, Р. І. Бігун, З. В. Стасюк, Д. С. Леонов, Наносистеми, наноматеріали, нанотехнології, 11, вип. 3: 551 (2013).",
+				"tr":  "M. D. Buchkovs'ka, R. I. Bigun, Z. V. Stasyuk, and D. S. Leonov, Nanosistemi, Nanomateriali, Nanotehnologii, 11, Iss. 3: 551 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.76.125408",
+				"or":  "M. Walther, D. Cooke, C. Sherstan, M. Hajar, M. Freeman, and F. Hegmann, Phys. Rev. B, 76, No. 12: 125408 (2007).",
+				"tr":  "M. Walther, D. Cooke, C. Sherstan, M. Hajar, M. Freeman, and F. Hegmann, Phys. Rev. B, 76, No. 12: 125408 (2007)."
+			},
+			{
+				"doi": "10.1016/0921-4526(90)90349-Y",
+				"or":  "K. H. Han, Z. S. Lim, and Sung-Ik Lee, Physica B, 167: 185 (1990).",
+				"tr":  "K. H. Han, Z. S. Lim, and Sung-Ik Lee, Physica B, 167: 185 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "З. В. Стасюк, Р. І. Бігун, Ю. А. Куницький, Н. С. Колтун, О. Є. Кравченко, Наносистеми, наноматеріали, нанотехнології, 9, вип. 3: 599 (2011).",
+				"tr":  "Z. V. Stasyuk, R. I. Bigun, Yu. A. Kunytskii, N. S. Koltun, and O. E. Kravchenko, Nanosistemi, Nanomateriali, Nanotehnologii, 9, Iss. 3: 599 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. І. Бігун, Ю. А. Куницький, О. Є. Кравченко, Наносистеми, наноматеріали, нанотехнології, 9, вип. 2: 325 (2011).",
+				"tr":  "R. I. Bigun, Yu. A. Kunytskii, and O. E. Kravchenko, Nanosistemi, Nanomateriali, Nanotehnologii, 9, Iss. 2: 325 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. І. Бігун, О. Є. Кравченко, З. В. Стасюк, Д. С. Леонов, Металлофиз. новейшие технол., 34, № 3: 301 (2012).",
+				"tr":  "R. I. Bigun, O. E. Kravchenko, Z. V. Stasyuk, and D. S. Leonov, Metallofiz. Noveishie Tekhnol., 34, No. 3: 301 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. І. Бігун, О. Є. Кравченко, З. В. Стасюк, Д. С. Леонов, Металлофиз. новейшие технол., 34, № 4: 469 (2012).",
+				"tr":  "R. I. Bigun, O. E. Kravchenko, Z. V. Stasyuk, and D. S. Leonov, Metallofiz. Noveishie Tekhnol., 34, No. 4: 469 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. І. Бігун, О. Є. Кравченко, Д. С. Леонов, Я. А. Пастирський, Металлофиз. новейшие технол., 35, № 5: 603 (2013).",
+				"tr":  "R. I. Bigun, O. E. Kravchenko, D. S. Leonov, and Ya. A. Pastyrs'kyy, Metallofiz. Noveishie Tekhnol., 35, No. 5: 603 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2004.08.015",
+				"or":  "D. V. Fedorov, P. Zahn, and I. Mertig, Thin Solid Films, 473, Iss. 2: 346 (2005).",
+				"tr":  "D. V. Fedorov, P. Zahn, and I. Mertig, Thin Solid Films, 473, Iss. 2: 346 (2005)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2007.01.054",
+				"or":  "D. V. Fedorov, P. Zahn, and I. Mertig, Thin Solid Films, 515, Iss. 17: 6921 (2007).",
+				"tr":  "D. V. Fedorov, P. Zahn, and I. Mertig, Thin Solid Films, 515, Iss. 17: 6921 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. І. Бігун, З. В. Стасюк, Фізика і хімія твердого тіла, 10, № 2: 295 (2009).",
+				"tr":  "R. I. Bigun and Z. V. Stasyuk, Fizyka i Khimiya Tverdogo Tila, 10, No. 2: 295 (2009) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. І. Бігун, З. В. Стасюк, Фізика і хімія твердого тіла, 10, № 3: 586 (2009).",
+				"tr":  "R. I. Bigun and Z. V. Stasyuk, Fizyka i Khimiya Tverdogo Tila, 10, No. 3: 586 (2009) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.45.1363",
+				"or":  "J. C. Boettger and S. B. Trickey, Phys. Rev. B, 45: 1363 (1992).",
+				"tr":  "J. C. Boettger and S. B. Trickey, Phys. Rev. B, 45: 1363 (1992)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.53.13133",
+				"or":  "J. C. Boettger, Phys. Rev. B, 53: 13133 (1996).",
+				"tr":  "J. C. Boettger, Phys. Rev. B, 53: 13133 (1996)."
+			},
+			{
+				"doi": "10.1016/j.vacuum.2003.12.119",
+				"or":  "V. P. Kurbatsky and V. V. Pogosov, Vacuum, 74: 185 (2004).",
+				"tr":  "V. P. Kurbatsky and V. V. Pogosov, Vacuum, 74: 185 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.71.195410",
+				"or":  "V. V. Pogosov, V. P. Kurbatsky, and E. V. Vasyutin, Phys. Rev. B, 71: 195410 (2005).",
+				"tr":  "V. V. Pogosov, V. P. Kurbatsky, and E. V. Vasyutin, Phys. Rev. B, 71: 195410 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "V. P. Kurbatsky and V. V. Pogosov, Fiz. Tverd. Tela, 46: 526 (2004).",
+				"tr":  "V. P. Kurbatsky and V. V. Pogosov, Fiz. Tverd. Tela, 46: 526 (2004)."
+			},
+			{
+				"doi": "10.1002/pssb.2221830131",
+				"or":  "K. Schroder and Le Zhang, physica status solidi (b), 183: k5 (1994).",
+				"tr":  "K. Schroder and Le Zhang, physica status solidi (b), 183: k5 (1994)."
+			},
+			{
+				"doi": "10.1002/pssb.2221720219",
+				"or":  "K. Schroder and S. Nayak, physica status solidi (b), 172: 679 (1992).",
+				"tr":  "K. Schröder and S. Nayak, physica status solidi (b), 172: 679 (1992)."
+			},
+			{
+				"doi": "10.1002/pssb.2221810217",
+				"or":  "K. Schröuder, L. Zhang, and W.-T. Ger, physica status solidi (b), 181: 421 (1994).",
+				"tr":  "K. Schröuder, L. Zhang, and W.-T. Ger, physica status solidi (b), 181: 421 (1994)."
+			},
+			{
+				"doi": "10.1016/0040-6090(72)90434-8",
+				"or":  "H. Sugawara, T. Nagano, K. Uozumi, and A. Kinbara, Thin Solid Films, 14, Iss. 2: 349 (1972).",
+				"tr":  "H. Sugawara, T. Nagano, K. Uozumi, and A. Kinbara, Thin Solid Films, 14, Iss. 2: 349 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. І. Бігун, О. Є. Кравченко, Д. С. Леонов, Я. А. Пастирський, Металлофиз. новейшие технол., 35, № 5: 603 (2013).",
+				"tr":  "R. I. Bigun, O. E. Kravchenko, D. S. Leonov, and Ya. A. Pastyrs'kyy, Metallofiz. Noveishie Tekhnol., 35, No. 5: 603 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "З. В. Стасюк, Р. І. Бігун, Ю. А. Куницький, Н. С. Колтун, О. Є. Кравченко, Наносистеми, наноматеріали, нанотехнології, 9, вип. 3: 599 (2011).",
+				"tr":  "Z. V. Stasyuk, R. I. Bigun, Yu. A. Kunytskii, N. S. Koltun, and O. E. Kravchenko, Nanosistemi, Nanomateriali, Nanotehnologii, 9, Iss. 3: 599 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. І. Бігун, З. В. Стасюк, Фізика і хімія твердого тіла, 6, № 4: 594 (2005).",
+				"tr":  "R. I. Bigun and Z. V. Stasyuk, Fizyka i Khimiya Tverdogo Tila, 6, No. 4: 594 (2005) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. І. Бігун, М. Д. Бучковська, Н. С. Колтун, З. В. Стасюк, Д. С. Леонов, Металлофиз. новейшие технол., 35, № 1: 85 (2013).",
+				"tr":  "R. I. Bigun, M. D. Buchkov'ska, N. S. Koltun, Z. V. Stasyuk, and D. S. Leonov, Metallofiz. Noveishie Tekhnol., 35, No. 1: 85 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. І. Бігун, З. В. Стасюк, Наносистеми, наноматеріали, нанотехнології, 6, вип. 1: 17 (2008).",
+				"tr":  "R. I. Bigun and Z. V. Stasyuk, Nanosistemi, Nanomateriali, Nanotehnologii, 6, Iss. 1: 17 (2008) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.41.11852",
+				"or":  "U. Jakob, J. Vancea, and H. Hoffmann, Phys. Rev. B, 41: 11852 (1990).",
+				"tr":  "U. Jakob, J. Vancea, and H. Hoffmann, Phys. Rev. B, 41: 11852 (1990)."
+			},
+			{
+				"doi": "10.1002/pssa.2211070131",
+				"or":  "P. Kwapulinski, J. Rasek, and Z. Gierak, physica status solidi (a), 107: 299 (1988).",
+				"tr":  "P. Kwapulinski, J. Rasek, and Z. Gierak, physica status solidi (a), 107: 299 (1988)."
+			},
+			{
+				"doi": "10.1016/0040-6090(74)90176-X",
+				"or":  "M. Hubin and J. Gouault, Thin Solid Films, 24, Iss. 2: 311 (1974).",
+				"tr":  "M. Hubin and J. Gouault, Thin Solid Films, 24, Iss. 2: 311 (1974)."
+			},
+			{
+				"doi": "10.1016/0040-6090(77)90023-2",
+				"or":  "P. G. Borziak and Yu. A. Kulyupin, Thin Solid Films, 44, Iss. 1: 1 (1977).",
+				"tr":  "P. G. Borziak and Yu. A. Kulyupin, Thin Solid Films, 44, Iss. 1: 1 (1977)."
+			},
+			{
+				"doi": "10.3367/UFNr.0122.197707g.0527",
+				"or":  "П. Г. Борзяк, Г. А. Катрич, Ю. А. Кулюпин, П. М. Томчук, Успехи физических наук, 122, вып. 3: 527 (1977).",
+				"tr":  "P. G. Borziak, G. A. Katrich, Ya. A. Kulyupin, and P. M. Tomchuk, Uspekhi Fizicheskikh Nauk, 122, Iss. 3: 527 (1977) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0040-6090(81)90300-X",
+				"or":  "P. G. Borziak, Yu. A. Kulyupin, L. A. Rudakovskaya, and R. D. Fedorovich, Thin Solid Films, 81, Iss. 2: 137 (1981).",
+				"tr":  "P. G. Borziak, Yu. A. Kulyupin, L. A. Rudakovskaya, and R. D. Fedorovich, Thin Solid Films, 81, Iss. 2: 137 (1981)."
+			},
+			{
+				"doi": "10.1016/0040-6090(81)90535-6",
+				"or":  "P. G. Borziak, Yu. A. Kulyupin, S. A. Nepijko, and V. G. Shamony, Thin Solid Films, 76, Iss. 4: 359 (1981).",
+				"tr":  "P. G. Borziak, Yu. A. Kulyupin, S. A. Nepijko, and V. G. Shamony, Thin Solid Films, 76, Iss. 4: 359 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "P. G. Borziak, S. A. Gorban, L. K. Grigorieva, E. L. Nagaev, S. A. Nepiiko, and S. P. Chizhik, Sov. Phys. JETP, 70, No. 2: 347 (1990).",
+				"tr":  "P. G. Borziak, S. A. Gorban, L. K. Grigorieva, E. L. Nagaev, S. A. Nepiiko, and S. P. Chizhik, Sov. Phys. JETP, 70, No. 2: 347 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "G. A. Katrich and A. G. Naumovets, Physics of Solid Surfaces (Ed. J. Koukal) (Amsterdam: Elsevier: 1988), p. 123.",
+				"tr":  "G. A. Katrich and A. G. Naumovets, Physics of Solid Surfaces (Ed. J. Koukal) (Amsterdam: Elsevier: 1988), p. 123."
+			},
+			{
+				"doi": "",
+				"or":  "G. A. Katrich, V. V. Klimov, and L. S. Miroshnichenko, Izv. Akad. Nauk SSSR. Ser. Fiz., 50: 1626 (1986).",
+				"tr":  "G. A. Katrich, V. V. Klimov, and L. S. Miroshnichenko, Izv. Akad. Nauk SSSR. Ser. Fiz., 50: 1626 (1986)."
+			},
+			{
+				"doi": "10.1016/0040-6090(81)90050-X",
+				"or":  "G. A. Katrich and L. S. Miroshnichenko, Thin Solid Films, 85, Iss. 1: 15 (1981).",
+				"tr":  "G. A. Katrich and L. S. Miroshnichenko, Thin Solid Films, 85, Iss. 1: 15 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "З. В. Стасюк, М. М. Бигун, Б. Л. Мельничук, Р. С. Панчишин, Изв. АН СССР. Сер. физ., 38: 370 (1974).",
+				"tr":  "Z. V. Stasyuk, M. M. Bigun, B. L. Mel'nichuk, and P. S. Panchishin, Izv. AN SSSR. Ser. Fiz., 38: 370 (1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Панченко, П. П. Луцишин, Ю. Г. Птушинський, ЖЭТФ, 56, № 1: 134 (1969).",
+				"tr":  "O. A. Panchenko, P. P. Lutsishin, and Yu. G. Ptushinskii, Zh. Ehksp. Teor. Fiz., 56, No. 1: 134 (1969) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0040-6090(80)90056-5",
+				"or":  "G. Wedler and Chander Ramesh, Thin Solid Films, 65, Iss. 1: 53 (1980).",
+				"tr":  "G. Wedler and Chander Ramesh, Thin Solid Films, 65, Iss. 1: 53 (1980)."
+			},
+			{
+				"doi": "10.1016/0040-6090(80)90432-0",
+				"or":  "G. Wedler and G. Alshorachi, Thin Solid Films, 74, Iss. 1: 1 (1980).",
+				"tr":  "G. Wedler and G. Alshorachi, Thin Solid Films, 74, Iss. 1: 1 (1980)."
+			},
+			{
+				"doi": "10.1007/BF00585716",
+				"or":  "M. A. Angadi, J. Mater. Sci., 20, No. 3: 761 (1985).",
+				"tr":  "M. A. Angadi, J. Matter. Sci., 20, No. 3: 761 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. І. Бігун, О. Є. Кравченко, З. В. Стасюк, Д. С. Леонов, Металлофиз. новейшие технол., 34, № 3: 301 (2012).",
+				"tr":  "R. I. Bigun, O. E. Kravchenko, Z. V. Stasyuk, and D. S. Leonov, Metallofiz. Noveishie Tekhnol., 34, No. 3: 301 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. І. Лопатинський, З. В. Стасюк, Вісник Львівського університету. Сер. фізична, вип. 30: 126 (1998).",
+				"tr":  "A. I. Lopatyns'kyy and Z. V. Stasyuk, Visnyk Lvivs'kogo Universytetu. Ser. Fizychna, Iss. 30: 126 (1998) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Л. Мельничук, А. І. Лопатинський, З. В. Стасюк, Фізичний збірник НТШ, 3: 124 (1998).",
+				"tr":  "B. L. Mel'nychuk, A. I. Lopatyns'kyy, and Z. V. Stasyuk, Fizychnyj Zbirnyk NTSh, 3: 124 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "R. D. Fedorovich, A. G. Naumovets, and P. M. Tomchuk, Reviews and Short Notes to Nanomeeting ‘Physics, Chemistry and Application of Nanostructures’ (1999), p. 145.",
+				"tr":  "R. D. Fedorovich, A. G. Naumovets, and P. M. Tomchuk, Reviews and Short Notes to Nanomeeting 'Physics, Chemistry and Application of Nanostructures', (1999), p. 145."
+			},
+			{
+				"doi": "10.1016/S0370-1573(99)00094-0",
+				"or":  "R. D. Fedorovich, A. G. Naumovets, and P. M. Tomchuk, Physics Reports, 328: 73 (2000).",
+				"tr":  "R. D. Fedorovich, A. G. Naumovets, and P. M. Tomchuk, Physics Reports, 328: 73 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "R. D. Fedorovich, O. E. Kiyaev, A. G. Naumovets, and P. M. Tomchuk, Reviews and Short Notes to Nanomeeting ‘Physics, Chemistry and Application of Nanostructures’ (2001), p. 273.",
+				"tr":  "R. D. Fedorovich, O. E. Kiyaev, A. G. Naumovets, and P. M. Tomchuk, Reviews and Short Notes to Nanomeeting 'Physics, Chemistry and Application of Nanostructures' (2001), p. 273."
+			}
+		]
+	}
+}

@@ -1,0 +1,123 @@
+{
+	"_id":    "MFiNT.37.12.1713",
+	"year":   2015,
+	"volume": 37,
+	"issue":  12,
+	"pages":  [1713,1724],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["27.05.2015","04.09.2015"],
+	"PACS":   "61.05.Qr, 61.46.Hk, 61.82.Rx, 76.80.+y, 81.07.Bc, 81.20.Fw, 81.70.Pg",
+	"title":  {
+		"ua": "Мессбауерівські дослідження нанорозмірних фракцій шпінелей LiMn$_{2-х}$Fe$_{х}$O$_{4}$, отриманих золь—гель-методом",
+		"en": "Mössbauer Study of Nanoscale Fractions of the LiMn$_{2-х}$Fe$_{х}$O$_{4}$ Spinel Fabricated by Sol—Gel Method",
+		"ru": "Мессбауэровские исследования наноразмерных фракций шпинелей LiMn$_{2-х}$Fe$_{х}$O$_{4}$, полученных золь—гель-методом"
+	},
+	"abstract": {
+		"ua": "Роботу присвячено мессбауерівським дослідженням нанорозмірних порошків модифікованої йонами заліза літій-манганової шпінелі LiMn$_{2-х}$Fe$_{х}$O$_{4}$ (х = 0,2, 0,5, 1,0). Встановлено, що, незалежно від вмісту Феруму, при температурі відпалу у 873 К утворюється фаза гематиту, вміст якої зменшується зі збільшенням ступеня заміщення. Показано, що відпал при температурі 1073 К приводить до утворення монофазної шпінельної структури з катіонами двовалентного Феруму в октапідґратниці. Доведено, що руйнування фази гематиту спричиняє збільшення вмісту Феруму в тетрапідґратниці шпінелі.",
+		"en": "This work is concerned with the Mössbauer spectroscopic study of nanoscale powders of the LiMn$_{2-х}$Fe$_{х}$O$_{4}$ lithium—manganese spinel (х = 0.2, 0.5, 1.0) modified with iron ions. As found, the hematite phase is formed at the annealing temperature of 873 K independently of iron content, and its content is decreasing with increasing of the substitution degree. As shown, the annealing at 1073 K leads to formation of single-phase spinel structure with cations of divalent iron in octahedral sublattice. As proved, the destruction of hematite phase causes the increase of iron content in tetrahedral sites of spinel.",
+		"ru": "Работа посвящена мёссбауэровским исследованиям наноразмерных порошков модифицированной ионами железа литий-марганцевой шпинели LiMn$_{2-х}$Fe$_{х}$O$_{4}$ (х = 0,2, 0,5, 1,0). Установлено, что, независимо от содержания железа, при температуре отжига 870 К образуется фаза гематита, содержание которой уменьшается с увеличением степени замещения. Показано, что отжиг при температуре 1070 К приводит к образованию монофазной шпинельной структуры с катионами двухвалентного железа в октаподрешётке. Доказано, что разрушение фазы гематита влечёт за собой увеличение содержания железа в тетраподрешётке шпинели."
+	},
+	"keywords": {
+		"ua": "шпінель, катіонне заміщення, катіонний розподіл, фазовий склад, Мессбауерова спектроскопія",
+		"en": "spinel, cationic substitution, cation distribution, phase composition, Mössbauer spectroscopy",
+		"ru": "шпинель, катионное замещение, катионное распределение, фазовый состав, мёссбауэровская спектроскопия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Б. К. Остафійчук", "en": "B. K. Ostafiychuk", "ru": "Б. К. Остафийчук"},
+			"OID": [209]
+		},
+		{
+			"AID": {"ua": "І. М. Будзуляк", "en": "I. M. Budzulyak", "ru": "И. М. Будзуляк"},
+			"OID": [209]
+		},
+		{
+			"AID": {"ua": "Т. Я. Бойчук", "en": "T. Ya. Boychuk", "ru": "Т. Я. Бойчук"},
+			"OID": [209]
+		},
+		{
+			"AID": {"ua": "Р. В. Ільницький", "en": "R. V. Ilnytskiy", "ru": "Р. В. Ильницкий"},
+			"OID": [209]
+		},
+		{
+			"AID": {"ua": "В. В. Мокляк", "en": "V. V. Moklyak", "ru": "В. В. Мокляк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. М. Бойчук", "en": "A. M. Boychuk", "ru": "А. М. Бойчук"},
+			"OID": [209]
+		}
+	],
+	"references": {
+		"count": 13,
+		"list":  [
+			{
+				"doi": "10.1016/j.elecom.2005.08.017",
+				"or":  "Y. Wang and Y. Xia, Electrochem. Commun., 7: 1138 (2005).",
+				"tr":  "Y. Wang and Y. Xia, Electrochem. Commun., 7: 1138 (2005)."
+			},
+			{
+				"doi": "10.1016/j.jpowsour.2004.03.021",
+				"or":  "G. Pell Wendy and E. Brian Conway, J. Power Sources, 136: 334 (2004).",
+				"tr":  "G. Pell Wendy and E. Brian Conway, J. Power Sources, 136: 334 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "І. М. Гасюк, Фізика і хімія твердого тіла, 12, № 2: 275 (2011).",
+				"tr":  "I. M. Gasyuk, Fizyka i Khimiya Tverdogo Tila, 12, No. 2: 275 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Потапенко, Хімія, фізика та технологія поверхні, 2, № 2: 175 (2011).",
+				"tr":  "A. V. Potapenko, Khimiya, Fizyka ta Tekhnologiya Poverkhni, 2, No. 2: 175 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Бойчук, В. В. Угорчук, Т. Я. Бойчук, М. І. Гасюк, Ж. нано- та електрон. фіз., 5, № 3: 03034 (2013).",
+				"tr":  "A. M. Bojchuk, V. V. Ugorchuk, T. Ya. Bojchuk, and M. I. Gasyuk, J. Nano- Electron. Phys., 5, No. 3: 03034 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. К. Остафійчук, І. М. Будзуляк, Н. Я. Іванічок, Фізична інженерія поверхні, 10, № 1: 72 (2012).",
+				"tr":  "B. K. Ostafijchuk, I. M. Budzulyak, and N. Ya. Ivanichok, Fizychna Inzheneriya Poverkhni, 10, No. 1: 72 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. Я. Бойчук, І. М. Будзуляк, Н. Я. Іванічок, Р. П. Лісовський, Б. І. Рачій, Ж. нано- та електрон. фіз., 7, № 1: 01019 (2015).",
+				"tr":  "T. Ya. Bojchuk, I. M. Budzulyak, N. Ya. Ivanichok, R. P. Lisovs'kyj, and B. I. Rachij, J. Nano- Electron. Phys., 7, No. 1: 01019 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. О. Сычева, А. В. Чуриков, Электрохимическая энергетика, 9, № 4: 175 (2009).",
+				"tr":  "V. O. Sycheva and A. V. Churykov, Elektrokhimicheskaya Energetika, 9, No. 4: 175 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Пилипів, А. М. Бойчук, П. О. Сулим, С. В. Войтків, Т. Я. Бойчук, М. І. Гасюк, Фізика і хімія твердого тіла, 15, № 3: 350 (2014).",
+				"tr":  "V. M. Pylypiv, A. M. Bojchuk, P. O. Sulym, S. V. Vojtkiv, T. Ya. Bojchuk, and M. I. Gasyuk, Fizyka i Khimiya Tverdogo Tila, 15, No. 3: 350 (2014) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "І. М. Гасюк, А. М. Бойчук, Т. Я. Бойчук, І. П. Яремій, Л. С. Кайкан, В. В. Угорчук, Фізична інженерія поверхні, 12, № 4: 535 (2014).",
+				"tr":  "I. M. Gasyuk, A. M. Bojchuk, T. Ya. Bojchuk, I. P. Yaremij, L. S. Kajkan, and V. V. Ugorchuk, Fizychna Inzheneriya Poverkhni, 12, No. 4: 535 (2014) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. В. Копаєв, Фізика і хімія твердого тіла, 9, № 1: 58 (2008).",
+				"tr":  "O. V. Kopayev, Fizyka i Khimiya Tverdogo Tila, 9, No. 1: 58 (2008) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. A. Gilleo, Ferromagnetic Materials (Ed. E. P. Wohlfarth) (Amsterdam: North-Holland: 1989), vol. 2, ch. 1.",
+				"tr":  "M. A. Gilleo, Ferromagnetic Materials (Ed. E. P. Wohlfarth) (Amsterdam: North-Holland: 1989), vol. 2, ch. 1."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2010.04.175",
+				"or":  "O. M. Leminea, M. Sajieddine, M. Bououdinac, R. Msalam, S. Mufti, and A. Alyamani, J. Alloys Compd., 502: 279 (2010).",
+				"tr":  "O. M. Leminea, M. Sajieddine, M. Bououdinac, R. Msalam, S. Mufti, and A. Alyamani, J. Alloys Compd., 502: 279 (2010)."
+			}
+		]
+	}
+}

@@ -1,0 +1,45 @@
+{
+	"_id":    "MFiNT.37.0067",
+	"year":   2015,
+	"volume": 37,
+	"issue":  1,
+	"pages":  [67,78],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["15.07.2014"],
+	"PACS":   "64.75.St, 65.40.gh, 68.47.De, 68.49.Jk, 68.65.Pq, 73.30.+y, 81.05.ue",
+	"title":  {
+		"ua": "Відображення повільних електронів від графена на грані (110)W",
+		"en": "Reflection of Slow Electrons from Graphene on the (110)W Face",
+		"ru": "Отражение медленных электронов от графена на грани (110)W"
+	},
+	"abstract": {
+		"ua": "Методами спектроскопії повного струму і контактної ріжниці потенціялів у Андерсоновому варіянті вивчено вплив східчастого нагріву в діяпазоні 1300—2800 К у вакуумі до $5\\cdot10^{10}$ Па на роботу виходу $\\varphi$ і відбивання повільних електронів ($Е = 0-50$ еВ) від грані (110)W. Встановлено, що при 2400 К на ній формується внаслідок сеґреґації моношар вуглецю (графен) з $\\varphi = 5,08 \\pm 0,02$ еВ. Підвищення температури до 2800 К і оброблення в кисні видаляють Карбон і утворюється атомарно-чиста грань (110)W з $\\varphi = 5,30$ еВ. Спостерігаються піки коефіцієнта відбивання електронів від цих поверхонь. Встановлено, що їх енергетичне положення (Е) пропорційне квадрату порядкового номера (n) піка, що пояснюється квантово-розмірними ефектами при надбар’єрному відбиванні електронів. Для грані (110)W спостерігаються 3 піки, інтенсивності яких із ростом n зменшуються від 45% до 18%, а для графену на ній – 6 піків (при цьому інтенсивності перших двох зменшуються до 10%).",
+		"en": "The effect of the step-by-step heating in the range of 1300—2800 K under vacuum up to $5\\cdot10^{10}$ Pa on both the work function $\\varphi$ ($Е = 0-50$ eV) reflection from the (110)W face are studied by the total current spectroscopy and contact potential difference by means of the Anderson method. As revealed, at 2400 K, a monolayer of carbon (graphene) with $\\varphi = 5,08 \\pm 0,02$ is formed on this face because of segregation of C from a bulk. Increasing the temperature to 2800 K and oxygen treatment remove carbon and form atomically clean (110)W face with $\\varphi = 5,30$ eV. Peaks of electron reflection coefficient are observed from these surfaces. As found, their energy position (E) is proportional to the square of the serial number (n) of the peak due to quantum-dimensional effects in the over-barrier electron reflection. For (110)W face, three peaks are observed. With increasing n, their intensities decrease from 45% to 18%, and for graphene, six peaks are observed; intensities of first two peaks drop to 10%.",
+		"ru": "Методами спектроскопии полного тока и контактной разницы потенциалов в варианте Андерсона изучалось влияние ступенчатого нагрева в диапазоне 1300—2800 К в вакууме до $5\\cdot10^{10}$ Па на работу выхода $\\varphi$ и отражение медленных электронов ($Е = 0-50$ эВ) от грани (110)W. Установлено, что при 2400К на ней формируется монослой углерода (графен) с $\\varphi = 5,08 \\pm 0,02$ эВ в результате сегрегации его из объёма. Повышение температуры до 2800 К и обработка в кислороде удаляют углерод, и образуется атомарно-чистая грань (110)W с $\\varphi = 5,30$ эВ. Наблюдаются пики коэффициента отражения электронов от этих поверхностей. Установлено, что их энергетическое положение (Е) пропорционально квадрату порядкового номера (n) пика, что объясняется квантово-размерными эффектами при надбарьерном отражении электронов. Для грани (110)W наблюдается 3 пика, интенсивности которых с ростом n убывают от 45% до 18%, а для графена на ней – 6 пиков (при этом интенсивности первых двух падают до 10%)."
+	},
+	"keywords": {
+		"ua": "графен, робота виходу, коефіцієнт відбиття електронів, спектроскопія повного струму",
+		"en": "graphene, work function, electron reflection coefficient, total current spectroscopy",
+		"ru": "графен, работа выхода, коэффициент отражения электронов, спектроскопия полного тока"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. М. Ніщенко", "en": "M. M. Nishchenko", "ru": "М. М. Нищенко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. В. Смольник", "en": "S. V. Smolnik", "ru": "С. В. Смольник"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. Я. Шевченко", "en": "M. A. Shevchenko", "ru": "Н. А. Шевченко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 30,
+		"list":  []
+	}
+}

@@ -1,0 +1,53 @@
+{
+	"_id":    "MFiNT.37.0199",
+	"year":   2015,
+	"volume": 37,
+	"issue":  2,
+	"pages":  [199,208],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["09.09.2014","30.12.2104"],
+	"PACS":   "61.72.Ff, 62.20.fg, 62.20.fk, 62.20.Qp, 68.70.+w, 81.30.Kf, 81.40.Ef",
+	"title":  {
+		"ua": "Про вплив швидкості охолодження виливки на механічні характеристики сплаву Ti$_{50}$Ni$_{41}$Nb$_{8}$Ta$_{1}$",
+		"en": "On the Influence of Casting Cooling Rates on the Mechanical Properties of the Ti$_{50}$Ni$_{41}$Nb$_{8}$Ta$_{1}$ Alloy",
+		"ru": "О влиянии скорости охлаждения отливки на механические характеристики сплава Ti$_{50}$Ni$_{41}$Nb$_{8}$Ta$_{1}$"
+	},
+	"abstract": {
+		"ua": "Методою індентування було вивчено характеристики твердости та пластичности стопу з ефектом пам’яті форми Ti$_{50}$Ni$_{41}$Nb$_{8}$Ta$_{1}$ у литому стані. Об’єктом досліджень були зразки, виготовлені у вигляді спеціяльного виливка зі змінним поперечним перерізом із східчастим переходом діяметрів, що уможливило досягти різних швидкостей охолодження в одному литому зразку. Виявлено, що при високих швидкостях охолодження відбувається зміна картини деформації при індентуванні, викликана перебігом мартенситного перетворення під навантаженням. Дана особливість може істотно впливати на механічні властивості стопу, внаслідок чого можлива зміна механізму деформації стопів під навантаженням.",
+		"en": "Indentation method is used to study characteristics of hardness and ductility of the Ti$_{50}$Ni$_{41}$Nb$_{8}$Ta$_{1}$ alloy with shape-memory effect in as cast condition. The objects of the study are samples prepared in the form of special castings with a variable cross-section with stepped diameters that gives an opportunity to obtain different cooling rates in one cast sample. As found at high cooling rates, a change of the deformation pattern during indentation caused by martensitic transformation under load takes place. This feature can significantly affect the mechanical properties of the alloy that potentially results in change of deformation mechanism for alloys under load.",
+		"ru": "Методом индентирования были изучены характеристики твёрдости и пластичности сплава с эффектом памяти формы Ti$_{50}$Ni$_{41}$Nb$_{8}$Ta$_{1}$ в литом состоянии. Объектом исследования служили образцы, изготовленные в виде специальной отливки с переменным поперечным сечением со ступенчатым переходом диаметров, что позволило достичь различных скоростей охлаждения в одном литом образце. Обнаружено, что при высоких скоростях охлаждения происходит изменение картины деформации при индентировании, вызванное протеканием мартенситного превращения под нагрузкой. Данная особенность может значительно влиять на механические свойства сплава, в результате чего возможно изменение механизма деформации сплавов под нагрузкой."
+	},
+	"keywords": {
+		"ua": "твердість, пластичність, ефект пам'яті форми, індентування, швидкість охолодження, нитинол",
+		"en": "hardness, ductility, shape-memory effect, indentation, cooling rate, Nitinol",
+		"ru": "твёрдость, пластичность, эффект памяти формы, индентирование, скорость охлаждения, нитинол"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. М. Кедровський", "en": "S. M. Kedrovsky", "ru": "С. Н. Кедровский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Ю. М. Коваль", "en": "Yu. M. Koval", "ru": "Ю. Н. Коваль"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. М. Слєпченко", "en": "V. M. Slipchenko", "ru": "В. Н. Слепченко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "К. В. Сліпченко", "en": "K. V. Slipchenko", "ru": "Е. В. Слипченко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "О. В. Філатов", "en": "O. V. Filatov", "ru": "А. В. Филатов"},
+			"OID": [202]
+		}
+	],
+	"references": {
+		"count": 12,
+		"list":  []
+	}
+}

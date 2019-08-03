@@ -1,0 +1,157 @@
+{
+	"year":   2015,
+	"volume": 37,
+	"issue":  11,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [1443,1460],
+			"title": {
+				"ua": "АСМ-дослідження поверхні металічних конденсатів на монокристалічному кремнії та енергетичні параметри міжфазової взаємодії в системі «металічний конденсат—напівпровідник»",
+				"en": "AFM Study of Surface of the Metallic Condensates on the Monocrystalline Silicon and Energy Parameters of Interface Interactions in the ‘Metallic Condensate— Semiconductor’ System",
+				"ru": "АСМ-исследования поверхности металлических конденсатов на монокристаллическом кремнии и энергетические параметры межфазного взаимодействия в системе «металлический конденсат—полупроводник»"
+			},
+			"autors": {
+				"ua": "Б. П. Коман, І. М. Ровецький, В. М. Юзевич",
+				"en": "B. P. Koman, I. M. Rovetskiy, and V. M. Yuzevych",
+				"ru": "Б. П. Коман, И. М. Ровецкий, В. М. Юзевич"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [1461,1476],
+			"title": {
+				"ua": "Дослідження фазового та хімічного складу комплексних карбідних покриттів",
+				"en": "Investigation of the Phase and Chemical Compositions of Complex Carbide Coatings",
+				"ru": "Исследование фазового и химического состава комплексных карбидных покрытий"
+			},
+			"autors": {
+				"ua": "А. І. Дегула, Т. П. Говорун, Н. А. Харченко, В. Г. Хижняк, М. В. Карпець, О. М. Мисливченко, Р. С. Сметанін",
+				"en": "A. I. Degula, T. P. Govorun, N. A. Kharchenko, V. G. Khyzhnyak, M. V. Karpets, O. M. Myslyvchenko, and R. S. Smetanin",
+				"ru": "А. И. Дегула, Т. П. Говорун, Н. А. Харченко, В. Г. Хижняк, М. В. Карпец, А. Н. Мысливченко, Р. С. Сметанин"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [1477,1486],
+			"title": {
+				"ua": "Наномасштабна поверхнева деформація гранульованих плівок Со$_{25}$Ag$_{75}$",
+				"en": "Nanoscale Surface Deformation of the Granular Со$_{25}$Ag$_{75}$ Films",
+				"ru": "Наномасштабная поверхностная деформация гранулированных плёнок Со$_{25}$Ag$_{75}$"
+			},
+			"autors": {
+				"ua": "О. Ю. Горобець, Ю. І. Якименко, А. Ф. Кравець, О. М. Бруква, В. Н. Захарченко, С. В. Михалко, І. А. Сизон",
+				"en": "O. Yu. Gorobets, Yu. I. Yakymenko, A. F. Kravets, O. M. Brukva, V. N. Zakharchenko, S. V. Mikhalko, and I. A. Sizon",
+				"ru": "О. Ю. Горобец, Ю. И. Якименко, А. Ф. Кравец, А. Н. Бруква, В. Н. Захарченко, С. В. Михалко, И. А. Сизон"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [1487,1501],
+			"title": {
+				"ua": "Емісійні характеристики легованих азотом наноструктурних алмазних покриттів, синтезованих у плазмі тліючого розряду",
+				"en": "Emission Characteristics of Nitrogen-Doped Nanostructure Diamond Coating Synthesized in Glow Discharge Plasma",
+				"ru": "Эмиссионные характеристики легированных азотом наноструктурных алмазных покрытий, синтезированных в плазме тлеющего разряда"
+			},
+			"autors": {
+				"ua": "С. Ф. Дудник, К. І. Кошевой, М. М. Нищенко, С. В. Смольнік, В. Е. Стрельницький, М. Я. Шевченко",
+				"en": "S. F. Dudnyk, K. I. Koshevoi, M. M. Nishchenko, S. V. Smolnik, V. E. Strelnytskyi, and M. Ya. Shevchenko",
+				"ru": "С. Ф. Дудник, К. И. Кошевой, М. М. Нищенко, С. В. Смольник, В. Е. Стрельницкий, Н. А. Шевченко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [1503,1516],
+			"title": {
+				"ua": "Електронний спіновий резонанс в керамічних зразках лантан-вісмутового манганіту La$_{0,925}$Bi$_{0,075}$MnO$_{3}$",
+				"en": "Electron Spin Resonance in Ceramic Samples of Lanthanum—Bismuth Manganite La$_{0.925}$Bi$_{0.075}$MnO$_{3}$",
+				"ru": "Электронный спиновый резонанс в керамических образцах лантан-висмутового манганита La$_{0,925}$Bi$_{0,075}$MnO$_{3}$"
+			},
+			"autors": {
+				"ua": "О. І. Товстолиткін, Т. І. Полек, Д. Й. Под’яловський, Т. М. Тарасенко, З. Ф. Кравченко, В. В. Бурховецький",
+				"en": "O. I. Tovstolytkin, T. I. Polek, D. J. Pod’yalovskii, T. M. Tarasenko, Z. F. Kravchenko, and V. V. Burkhovetskyi",
+				"ru": "А. И. Товстолыткин, Т. И. Полек, Д. И. Подъяловский, Т. Н. Тарасенко, З. Ф. Кравченко, В. В. Бурховецкий"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1517,1525],
+			"title": {
+				"ua": "Вплив слабких магнетних полів на механічні властивості берилію",
+				"en": "The Influence of Weak Magnetic Fields on the Mechanical Properties of Beryllium",
+				"ru": "Влияние слабых магнитных полей на механические свойства бериллия"
+			},
+			"autors": {
+				"ua": "Є. І. Курек, І. Г. Курек, А. В. Олійнич-Лисюк, М. Д. Раранський",
+				"en": "E. I. Kurek, I. G. Kurek, A. V. Oliynych-Lysyuk, and M. D. Rarans’ky",
+				"ru": "Е. И. Курек, И. Г. Курек, А. В. Олийнич-Лысюк, Н. Д. Раранский"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1527,1538],
+			"title": {
+				"ua": "Температурна залежність акустичних та механічних властивостей литого та відпаленого високоентропійного сплаву Al$_{0,5}$CoCuCrNiFe",
+				"en": "Temperature Dependence of the Acoustic and Mechanical Properties of Cast and Annealed High-Entropy Al$_{0.5}$CoCuCrNiFe Alloy",
+				"ru": "Температурная зависимость акустических и механических свойств литого и отожжённого высокоэнтропийного сплава Al$_{0,5}$CoCuCrNiFe"
+			},
+			"autors": {
+				"ua": "Ю. О. Семеренко, О. Д. Табачнікова, Т. М. Тихоновска, І. В. Колодій, О. С. Тортіка, С. Е. Шумілін, М. О. Лактіонова",
+				"en": "Yu. O. Semerenko, O. D. Tabachnikova, T. M. Tikhonovska, I. V. Kolodiy, O. S. Tortika, S. E. Shumilin, and M. O. Laktionova",
+				"ru": "Ю. А. Семеренко, Е. Д. Табачникова, Т. М. Тихоновская, И. В. Колодий, А. С. Тортика, С. Э. Шумилин, М. А. Лактионова"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1539,1548],
+			"title": {
+				"ua": "Внутрішнє тертя в багатоволокнистих композитах Cu—Fe, отриманих з використанням пакетної гідроекструзії",
+				"en": "Internal Friction in Multifibrous Cu—Fe Composite Obtained Using a Packet Hydroextrusion",
+				"ru": "Внутреннее трение в многоволокнистых композитах Cu—Fe, полученных с использованием пакетной гидроэкструзии"
+			},
+			"autors": {
+				"ua": "В. О. Білошенко, В. Ю. Дмитренко, А. М. Пилипенко, В. В. Чишко",
+				"en": "V. O. Beloshenko, V. Yu. Dmitrenko, A. M. Pylypenko, and V. V. Chishko",
+				"ru": "В. А. Белошенко, В. Ю. Дмитренко, А. Н. Пилипенко, В. В. Чишко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [1549,1565],
+			"title": {
+				"ua": "Кількісні методи вивчення Al—Li сплавів: фазовий склад, анізотропія та фазова стабільність",
+				"en": "Quantitative Methods for the Study of Al—Li Alloys: Phase Composition, Anisotropy of Properties, and Phase Stability",
+				"ru": "Количественные методы изучения Al—Li сплавов: фазовый состав, анизотропия и фазовая стабильность"
+			},
+			"autors": {
+				"ua": "С. Бецофен, І. Грушин, М. Князєв, М. Долгова",
+				"en": "S. Betsofen, I. Grushin, M. Knyazev, and M. Dolgova",
+				"ru": "С. Бецофен, И. Грушин, М. Князев, М. Долгова"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [1567,1582],
+			"title": {
+				"ua": "Дисперсійні ефекти взаємопов’язаності залежностей від різних умов дифракції картини розсіяння та колосального посилення цих залежностей та їх структурної чутливості та інформативності",
+				"en": "Dispersion Effects of Interconnection of the Scattering Pattern Dependences on Different Diffraction Conditions and Huge Intensification of These Dependences and Their Structure Sensitivity and Informativeness",
+				"ru": "Дисперсионные эффекты взаимосвязанности зависимостей от различных условий дифракции картины рассеяния и колоссального усиления этих зависимостей и их структурной чувствительности и информативности"
+			},
+			"autors": {
+				"ua": "Л. М. Скапа, В. В. Лізунов, В. Б. Молодкін, Є. Г. Лень, Б. В. Шелудченко, С. В. Лізунова, О. С. Скакунова, М. Г. Толмачов, С. В. Дмітрієв, Р. В. Лехняк, Г. О. Веліховський, В. В. Молодкін, І. М. Заболотний, К. В. Фузік, О. П. Васькевич",
+				"en": "L. M. Skapa, V. V. Lizunov, V. B. Molodkin, E. G. Len, B. V. Sheludchenko, S. V. Lizunova, O. S. Skakunova, M. G. Tolmachev, S. V. Dmitriev, R. V. Lekhnyak, G. O. Velikhovskii, V. V. Molodkin, I. M. Zabolotnyi, K. V. Fuzik, and O. P. Vas’kevich",
+				"ru": "Л. Н. Скапа, В. В. Лизунов, В. Б. Молодкин, Е. Г. Лень, Б. В. Шелудченко, С. В. Лизунова, Е. С. Скакунова, Н. Г. Толмачёв, С. В. Дмитриев, Р. В. Лехняк, Г. О. Велиховский, В. В. Молодкин, И. Н. Заболотный, Е. В. Фузик, О. П. Васькевич"
+			}
+		}
+	]
+}

@@ -1,0 +1,158 @@
+{
+	"_id":    "MFiNT.36.02.0195",
+	"year":   2014,
+	"volume": 36,
+	"issue":  2,
+	"pages":  [195,204],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["10.12.2012", "24.12.2013"],
+	"PACS":   "72.15.Cz, 72.15.Rn, 73.20.Fz, 75.50.Kj",
+	"title":   {
+		"ua": "Слабка локалізація – можлива причина особливостей температурної поведінки електроопору аморфних сплавів на основі кобальту",
+		"en": "Weak Localization as a Possible Cause of the Peculiarities of Electrical Resistivity Temperature Dependence of the Amorphous Cobalt-Based Alloys",
+		"ru": "Слабая локализация – возможная причина особенностей температурного поведения электросопротивления аморфных сплавов на основе кобальта"
+	},
+	"abstract": {
+		"ua": "Досліджено та проаналізовано температурні залежності електроопору $R(T)$ аморфних сплавів Сo$_{80-x}$Fe$_{x}$B$_{20}$ ($2 \\leq x \\leq 20$). Наведено арґументи на користь того, що особливості поведінки $R(T)$ цих сплавів можуть бути пояснені з точки зору не тільки розупорядкованості атомної структури, але й ефектів слабкої локалізації. Розглянуто можливий вплив електронної структури сплавів на ці ефекти.",
+		"en": "Temperature dependences of the electrical resistivity, $R(T)$, of the amorphous Сo$_{80-x}$Fe$_{x}$B$_{20}$ alloys ($2 \\leq x \\leq 20$) are investigated and analysed. As argued, the revealed peculiarities in the $R(T)$ curves arise not only due to the disordered atomic structure, but also due to the weak localisation effects. The possible influence of electronic structure of the alloys on these effects is discussed.",
+		"ru": "Исследованы и проанализированы температурные зависимости электросопротивления $R(T)$ аморфных сплавов Сo$_{80-x}$Fe$_{x}$B$_{20}$ ($2 \\leq x \\leq 20$). Приведены аргументы в пользу того, что особенности поведения $R(T)$ этих сплавов являются следствием не только разупорядоченности атомной структуры, но и эффектов слабой локализации. Рассмотрено возможное влияние электронной структуры сплавов на эти эффекты."
+	},
+	"keywords": {
+		"ua": "аморфні сплави, електроопір, дифракційна модель, слабка локалізація",
+		"en": "amorphous alloys, electrical resistance, diffraction model, weak localization",
+		"ru": "аморфные сплавы, электросопротивление, дифракционная модель, слабая локализация"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. П. Семенько", "en": "M. P. Semen’ko", "ru": "М. П. Семенько"},
+			"OID": [201]
+		}
+	],
+	"references": {
+		"count": 24,
+		"list":  [
+			{
+				"doi": "10.1109/TMAG.2004.830219",
+				"or":  "D. Wang, C. Nordman, J. M. Daughton, Z. Qian, and J. Fink, IEEE Trans. Magn., 40: 2269 (2004).",
+				"tr":  "D. Wang, C. Nordman, J. M. Daughton, Z. Qian, and J. Fink, IEEE Trans. Magn., 40: 2269 (2004)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2004.11.539",
+				"or":  "N. Wiese, T. Dimopoulos, M. Rührig, J. Wecker, H. Brückl, and G. Reiss, J. Magn. Magn. Mater., 290–291: 1427 (2005).",
+				"tr":  "N. Wiese, T. Dimopoulos, M. Rührig, J. Wecker, H. Brückl, and G. Reiss, J. Magn. Magn. Mater., 290–291: 1427 (2005)."
+			},
+			{
+				"doi": "10.1063/1.2174113",
+				"or":  "S. U. Jen, Y. D. Yao, Y. T. Chen, J. M. Wu, C. C. Lee, T. L. Tsai, and Y. C. Chang, J. Appl. Phys., 99: 053701 (2006).",
+				"tr":  "S. U. Jen, Y. D. Yao, Y. T. Chen, J. M. Wu, C. C. Lee, T. L. Tsai, and Y. C. Chang, J. Appl. Phys., 99: 053701 (2006)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.102.016602",
+				"or":  "P. V. Paluskar, R. Lavrijsen, M. Sicot, J. T. Kohlhepp, H. J. M. Swagten, and B. Koopmans, Phys. Rev. Lett., 102: 016602 (2009).",
+				"tr":  "P. V. Paluskar, R. Lavrijsen, M. Sicot, J. T. Kohlhepp, H. J. M. Swagten, and B. Koopmans, Phys. Rev. Lett., 102: 016602 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "Amorphous Metallic Alloys (Ed. F. E. Luborsky) (London: Butterworths: 1983).",
+				"tr":  "Amorphous Metallic Alloys (Ed. F. E. Luborsky) (London: Butterworths: 1983)."
+			},
+			{
+				"doi": "",
+				"or":  "N. G. Babich, N. I. Zakharenko, G. V. Eremenko, and M. P. Semen’ko, Fizika Metallov i Metallovedenie, 102, No. 3: 273 (2006) (in Russian).",
+				"tr":  "N. G. Babich, N. I. Zakharenko, G. V. Eremenko, and M. P. Semen'ko, Fizika Metallov i Metallovedenie, 102, No. 3: 273 (2006) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2006.04.036",
+				"or":  "A. K. Panda, S. Kumari, I. Chattoraj, M. Ghosh, and A. Mitra, J. Magn. Magn. Mater., 308: 65 (2007).",
+				"tr":  "A. K. Panda, S. Kumari, I. Chattoraj, M. Ghosh, and A. Mitra, J. Magn. Magn. Mater., 308: 65 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "M. I. Zakharenko, G. V. Eremenko, and M. P. Semen’ko, Bulletin of Kyiv University. Series of Phys.-Math. Science, 4: 459 (2004) (in Ukrainian).",
+				"tr":  "M. I. Zakharenko, G. V. Eremenko, and M. P. Semen'ko, Bulletin of Kyiv University. Series of Phys.-Math. Science, 4: 459 (2004) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/j.physb.2007.11.018",
+				"or":  "O. Touraghe, M. Khatami, and A. Menny, Physica B, 403: 2093 (2008).",
+				"tr":  "O. Touraghe, M. Khatami, and A. Menny, Physica B, 403: 2093 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.47.2678",
+				"or":  "U. Mizutani, M. Hasegawa, K. Fukamichi, Y. Hattori, Y. Yamada, H. Tanaka, and S. Takayama, Phys. Rev. B, 47: 2678 (1993).",
+				"tr":  "U. Mizutani, M. Hasegawa, K. Fukamichi, Y. Hattori, Y. Yamada, H. Tanaka, and S. Takayama, Phys. Rev. B, 47: 2678 (1993)."
+			},
+			{
+				"doi": "10.1088/0305-4608/15/11/010",
+				"or":  "R. Kuentzler and D. E. G. Williams, J. Phys. F: Metal Phys., 15: 2283 (1985).",
+				"tr":  "R. Kuentzler and D. E. G. Williams, J. Phys. F: Metal Phys., 15: 2283 (1985)."
+			},
+			{
+				"doi": "10.1088/0305-4608/16/1/015",
+				"or":  "U. Mizutani and M. Takeuchi, J. Phys. F: Metal Phys., 16: 79 (1986).",
+				"tr":  "U. Mizutani and M. Takeuchi, J. Phys. F: Metal Phys., 16: 79 (1986)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.33.4987",
+				"or":  "S. N. Kaul, W. Kettler, and M. Rosenberg, Phys. Rev. B, 33: 4987 (1986).",
+				"tr":  "S. N. Kaul, W. Kettler, and M. Rosenberg, Phys. Rev. B, 33: 4987 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "S. V. Vonsovskii, Magnetism (Moscow: Nauka: 1971) (in Russian).",
+				"tr":  "S. V. Vonsovskii, Magnetism (Moscow: Nauka: 1971) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. F. Gantmakher, Electrony v Neuporyadochenyh Sredakh (Electrons in Disordered Media) (Moscow : Fizmatlit: 2005) (in Russian).",
+				"tr":  "V. F. Gantmakher, Electrony v Neuporyadochenyh Sredakh (Electrons in Disordered Media) (Moscow : Fizmatlit: 2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "B. L. Al’tshuler and A. G. Aronov, Zh. Eksp. Teor. Fiz. (J. Exper. Theor. Phys.) 77: 2028 (1979) (in Russian).",
+				"tr":  "B. L. Al'tshuler and A. G. Aronov, Zh. Eksp. Teor. Fiz. (J. Exper. Theor. Phys.) 77: 2028 (1979) (in Russian)."
+			},
+			{
+				"doi": "10.1088/0305-4608/14/3/001",
+				"or":  "M. A. Howson, J. Phys. F: Metal Phys.,14: L25 (1984).",
+				"tr":  "M. A. Howson, J. Phys. F: Metal Phys.,14: L25 (1984)."
+			},
+			{
+				"doi": "10.1209/0295-5075/9/5/011",
+				"or":  "T. Zing, T. Richmond, and H. J. Guntherod, Europhys. Lett., 9 (5): 471 (1989).",
+				"tr":  "T. Zing, T. Richmond, and H. J. Guntherod, Europhys. Lett., 9 (5): 471 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "E. I. Kharkov, V. I. Lysov, and V. E. Fedorov, Fizika Zhydkyh Metallov (Physics of Liquid Metals) (Kiev: Vyshcha Shcola: 1979) (in Russian).",
+				"tr":  "E. I. Kharkov, V. I. Lysov, and V. E. Fedorov, Fizika Zhydkyh Metallov (Physics of Liquid Metals) (Kiev: Vyshcha Shcola: 1979) (in Russian)."
+			},
+			{
+				"doi": "10.1002/pssa.2210990128",
+				"or":  "J. M. Barandiaran, J. C. Gomez-Sal, J. Rodriguez Fernandez, R. J. Lopez Sanchez, and O. V. Nielsen, physica status solidi (a), 99: 243 (1987).",
+				"tr":  "J. M. Barandiaran, J. C. Gomez-Sal, J. Rodriguez Fernandez, R. J. Lopez Sanchez, and O. V. Nielsen, physica status solidi (a), 99: 243 (1987)."
+			},
+			{
+				"doi": "10.1134/S0031918X12080169",
+				"or":  "M. I. Zakharenko, T. V. Kalnysh, and M. P. Semen’ko, Phys. Met. Metallogr., 113, No. 8: 762 (2012).",
+				"tr":  "M. I. Zakharenko, T. V. Kalnysh, and M. P. Semen'ko, Phys. Met. Metallogr., 113, No. 8: 762 (2012)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.47.2671",
+				"or":  "H. Tanaka, S. Takayama, M. Hasegawa, T. Fukunaga, U. Mizutani, A. Fujita, and K. Fukamichi, Phys. Rev. B, 47: 2671 (1993).",
+				"tr":  "H. Tanaka, S. Takayama, M. Hasegawa, T. Fukunaga, U. Mizutani, A. Fujita, and K. Fukamichi, Phys. Rev. B, 47: 2671 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "M. P. Semen’ko, M. I. Zakharenko, Yu. A. Kunitskyi, V. A. Makara, and A. P. Shpak, Uspehi Fiziki Mettalov, 10, No. 2: 133 (2009) (in Ukrainian).",
+				"tr":  "M. P. Semen'ko, M. I. Zakharenko, Yu. A. Kunitskyi, V. A. Makara, and A. P. Shpak, Uspehi Fiziki Mettalov, 10, No. 2: 133 (2009) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "I. V. Pluschai, V. A. Makara, M. I. Zakharenko, and O. I. Nakonechna, Dopovidi AN Ukrainy, No. 8b: 84 (1999) (in Ukrainian).",
+				"tr":  "I. V. Pluschai, V. A. Makara, M. I. Zakharenko, and O. I. Nakonechna, Dopovidi AN Ukrainy, No. 8b: 84 (1999) (in Ukrainian)."
+			}
+		]
+	}
+}

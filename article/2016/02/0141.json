@@ -1,0 +1,143 @@
+{
+	"_id":    "MFiNT.38.02.0141",
+	"year":   2016,
+	"volume": 38,
+	"issue":  2,
+	"pages":  [141,157],
+	"rubric": 1,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["11.01.2016"],
+	"PACS":   "61.20.Gy, 61.20.Lc, 61.25.Mv, 64.30.Ef, 64.60.Q-, 64.70.D-, 64.70.Nd, 65.40.Gd",
+	"title":   {
+		"ua": "Нанокристалічна структура розтопів",
+		"en": "Nanocrystalline Structure of Melts",
+		"ru": "Нанокристаллическая структура расплавов"
+	},
+	"abstract": {
+		"ua": "Показано, що в розтопах поблизу кривої топлення може утворюватися рівноважна нанокристалічна структура, яка складається з нанорозмірних частинок низькотемпературної кристалічної фази. Термодинамічну стійкість наноструктури зумовлено зниженням вільної енергії внаслідок обертання наночастинок. Причиною спонтанного обертання наночастинок у середовищі є зростання обертальної ентропії, яке супроводжує ріст частоти обертання і приводить до оптимізації параметрів наноструктури. Одержано рівняння та його розв’язок, які описують обертальний рух наночастинок у середовищі. Показано, що формування великої кількости хаотично орієнтованих нанокристалів поблизу кривої топлення може бути причиною утворення аморфної фази при охолодженні розтопу.",
+		"en": "As shown, in a melt near the melting temperature, the thermodynamically stable nanocrystalline structure can be formed. This structure consists of nanosize solid inclusions of the low-temperature phase. Thermodynamic stability of nanostructure is caused by decreasing of free energy due to the rotation of nanoparticles. The reason for the spontaneous rotation of nanoparticles in a medium is the increasing of the rotational entropy that accompanies the increasing of rotational frequencies of the nanoparticles. An equation describing the rotational motion of the nanoparticles in a medium is obtained and its solution is found. As shown, the formation of a large number of randomly oriented nanocrystals may be reason to form an amorphous phase upon cooling of the melt.",
+		"ru": "Показано, что в расплаве вблизи кривой плавления может образовываться равновесная нанокристаллическая структура, состоящая из наноразмерных частиц низкотемпературной кристаллической фазы. Термодинамическая устойчивость наноструктуры обусловлена понижением свободной энергии, связанным с вращением наночастиц. Причиной спонтанного вращения наночастиц в среде является возрастание вращательной энтропии, которое сопровождает рост частоты вращения частиц и приводит к оптимизации параметров наноструктуры. Получено уравнение и найдено его решение, описывающие вращательное движение наночастиц в среде. Показано, что формирование большого количества хаотически ориентированных нанокристаллов вблизи кривой плавления может быть причиной образования аморфной фазы при охлаждении расплава."
+	},
+	"keywords": {
+		"ua": "розтоп, нанокристали, обертання нанокристалів, термодинамічна рівновага",
+		"en": "melt, nanocrystals, nanocrystals’ rotation, thermodynamic equilibrium",
+		"ru": "расплав, нанокристаллы, вращение нанокристаллов, термодинамическое равновесие"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. І. Карасевський", "en": "A. I. Karasevskii", "ru": "А. И. Карасевский"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 21,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "﻿А. В. Романова, Металлофизика (Киев: Наукова думка: 1971), вып. 37, с. 3",
+				"tr":  "A. V. Romanova, Metallofizika (Kiev: Naukova Dumka: 1971), Iss. 37, p. 3 (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "R. Hezel and S. Steeb, Z. Naturforsch., 25a: 1085 (1970)",
+				"tr":  "R. Hezel and S. Steeb, Z. Naturforsch., 25a: 1085 (1970)"
+			},
+			{
+				"doi": "",
+				"or":  "Я. И. Дутчак, Рентгенография чистых металлов (Львов: Вища школа: 1977), c. 162",
+				"tr":  "Ya. I. Dutchak, Rentgenografiya Chistykh Metallov (L'vov: Vishcha Shkola: 1977), p. 162 (in Russian)"
+			},
+			{
+				"doi": "10.1016/j.jnoncrysol.2004.09.006",
+				"or":  "A. Il’inskii, I. Kaban, W. Hoyer, A. Shpak, and L. Taranenko, J. Non-Cryst. Solids, 347, Iss. 1–3: 39 (2004)",
+				"tr":  "A. Il'inskii, I. Kaban, W. Hoyer, A. Shpak, and L. Taranenko, J. Non-Cryst. Solids, 347, Iss. 1–3: 39 (2004)"
+			},
+			{
+				"doi": "10.1016/j.jnoncrysol.2007.02.024",
+				"or":  "I. Kaban, S. Gruner, W. Hoyer, A. Il’inskii, and A. Shpak, J. Non-Cryst. Solids, 353: 1979 (2007)",
+				"tr":  "I. Kaban, S. Gruner, W. Hoyer, A. Il'inskii, and A. Shpak, J. Non-Cryst. Solids, 353: 1979 (2007)"
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Ильинский, В. Л. Карбовський, А. П. Шпак, Ю. В. Лепеева, Наносистеми, наноматеріали, нанотехнології, 8, вип. 3: 483 (2010)",
+				"tr":  "A. G. Il'inskyy, V. L. Karbivs'kyy, A. P. Shpak, and Yu. V. Lepeeva, Nanosistemi, Nanomateriali, Nanotehnologii, 8, Iss. 3: 483 (2010) (in Russian)"
+			},
+			{
+				"doi": "10.1016/0039-6028(94)90635-1",
+				"or":  "R. Kofman, P. Cheyssac, A. Aouaj, Y. Lereah, G. Deutscher, T. Ben David, J. M. Penisson, and A. Bourret, Surf. Sci., 303: 231 (1994)",
+				"tr":  "R. Kofman, P. Cheyssac, A. Aouaj, Y. Lereah, G. Deutscher, T. Ben David, J. M. Penisson, and A. Bourret, Surf. Sci., 303: 231 (1994)"
+			},
+			{
+				"doi": "10.1080/01418619508236241",
+				"or":  "T. Ben David, Y. Lereah, G. Deutscher, R. Kofman, and P. Cheyssac, Philos. Mag. A, 71: 1135 (1995)",
+				"tr":  "T. Ben David, Y. Lereah, G. Deutscher, R. Kofman, and P. Cheyssac, Philos. Mag. A, 71: 1135 (1995)"
+			},
+			{
+				"doi": "10.1209/0295-5075/12/8/007",
+				"or":  "Y. Lereah, G. Deutscher, P. Cheyssac, and R. Kofman, Europhys. Lett., 12: 709 (1990)",
+				"tr":  "Y. Lereah, G. Deutscher, P. Cheyssac, and R. Kofman, Europhys. Lett., 12: 709 (1990)"
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Карасевский, В. В. Любашенко, Металлофиз. новейшие технол., 35: 431 (2013)",
+				"tr":  "A. I. Karasevskii and V. V. Lyubashenko, Metallofiz. Noveishie Tekhnol., 35: 431 (2013) (in Russian)"
+			},
+			{
+				"doi": "10.1080/14786435.2015.1045569",
+				"or":  "A. I. Karasevskii, Philos. Mag., 95: 1717 (2015)",
+				"tr":  "A. I. Karasevskii, Phil. Mag., 95: 1717 (2015)"
+			},
+			{
+				"doi": "10.1103/PhysRevB.74.224111",
+				"or":  "A. Be’er, R. Kofman, F.Phillipp, and Y. Lereah, Phys. Rev. B, 74: 224111 (2006)",
+				"tr":  "A. Be'er, R. Kofman, F.Phillipp, and Y. Lereah, Phys. Rev. B, 74: 224111 (2006)"
+			},
+			{
+				"doi": "10.1103/PhysRevB.76.075410",
+				"or":  "A. Be’er, R. Kofman, F.Phillipp, and Y. Lereah, Phys. Rev. B, 76: 075410 (2007)",
+				"tr":  "A. Be'er, R. Kofman, F.Phillipp, and Y. Lereah, Phys. Rev. B, 76: 075410 (2007)"
+			},
+			{
+				"doi": "10.1179/174582110X12676382921428",
+				"or":  "A. Be’er, R. Kofman, and Y. Lereah, Centr. Eur. J. Phys., 8: 1 (2010)",
+				"tr":  "A. Be'er, R. Kofman, and Y. Lereah, Centr. Eur. J. Phys., 8: 1 (2010)"
+			},
+			{
+				"doi": "10.1021/cm001122t",
+				"or":  "E. del Barco, J. Asenjo, X. X. Zhang, R. Pieczynsky, A. Julia, J. Tejada, and R. F. Ziolo, Chem. Mater., 13: 1487 (2001)",
+				"tr":  "E. del Barco, J. Asenjo, X. X. Zhang, R. Pieczynsky, A. Julia, J. Tejada, and R. F. Ziolo, Chem. Mater., 13: 1487 (2001)"
+			},
+			{
+				"doi": "10.1021/la048385c",
+				"or":  "M. Klokkenburg, B. H. Erne, and A. P. Philipse, Langmuir, 21: 1187 (2005)",
+				"tr":  "M. Klokkenburg, B. H. Erne, and A. P. Philipse, Langmuir, 21: 1187 (2005)"
+			},
+			{
+				"doi": "",
+				"or":  "Л. Д. Ландау, Е. М. Лифшиц, Курс теоретической физики. Том V. Статистическая физика (Москва: Наука: 1976)",
+				"tr":  "L. D. Landau and E. M. Lifshitz, Kurs Teoreticheskoy Fiziki. Tom V. Statisticheskaya Fizika (Moscow: Nauka: 1976) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "Л. Д. Ландау, Е. М. Лифшиц, Курс теоретической физики. Том VI. Гидродинамика (Москва: Наука: 1986)",
+				"tr":  "L. D. Landau and E. M. Lifshitz, Kurs teoreticheskoy Fiziki. Tom VI. Gidrodinamika (Moscow: Nauka: 1986) (in Russian)"
+			},
+			{
+				"doi": "10.1103/PhysRevB.76.224524",
+				"or":  "V. N. Grigor’ev, V. A. Maidanov, V. Yu. Rubanskii, S. P. Rubets, E. Ya. Rudavskii, A. S. Rybalko, Ye. V. Syrnikov, and V. A. Tikhii, Phys. Rev. B, 76: 224524 (2007)",
+				"tr":  "V. N. Grigor'ev, V. A. Maidanov, V. Yu. Rubanskii, S. P. Rubets, E. Ya. Rudavskii, A. S. Rybalko, Ye. V. Syrnikov, and V. A. Tikhii, Phys. Rev. B, 76: 224524 (2007)"
+			},
+			{
+				"doi": "10.1007/s10909-009-9996-6",
+				"or":  "E. Y. Rudavskii, V. N. Grigor’ev, A. A. Lisunov, V. A. Maidanov, V. Y. Rubanskii , S. P. Rubets, A. S. Rybalko, and V. A. Tikhii, J. Low Temp. Phys., 158: 578 (2010)",
+				"tr":  "E. Y. Rudavskii, V. N. Grigor'ev, A. A. Lisunov, V. A. Maidanov, V. Y. Rubanskii, S. P. Rubets, A. S. Rybalko, and V. A. Tikhii, J. Low Temp. Phys., 158: 578 (2010)"
+			},
+			{
+				"doi": "",
+				"or":  "И. М. Халатников, Теория сверхтекучести (Москва: Наука: 1971)",
+				"tr":  "I. M. Khalatnikov, Teoriya Sverkhtekuchesti (Moscow: Nauka: 1971) (in Russian)"
+			}
+		]
+	}
+}

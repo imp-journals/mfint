@@ -1,0 +1,164 @@
+{
+	"_id":    "MFiNT.37.12.1603",
+	"year":   2015,
+	"volume": 37,
+	"issue":  12,
+	"pages":  [1603,1618],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["29.10.2015"],
+	"PACS":   "43.35.+d, 61.72.Dd, 61.72.Ff, 62.20.Qp, 81.20.Ev, 81.40.Ef, 81.65.-b",
+	"title":  {
+		"ua": "Масоперенос при ультразвуковій ударній обробці пари Al—Fe",
+		"en": "Mass Transfer During Ultrasonic Shock Treatment of Al—Fe",
+		"ru": "Масоперенос при ультразвуковой ударной обработке пары Al—Fe"
+	},
+	"abstract": {
+		"ua": "Досліджено процеси аномального масоперенесення в системі Al—Fe при ультразвуковому ударному обробленні (УЗУО) алюмінійового стопу Д16 із проміжною пластиною армко-Fe, проведеному за умов квазигідростатичного стиснення дифузійної пари в нейтральному середовищі для виключення впливу процесів окиснення контактних поверхонь. Максимальна концентрація Fe у приповерхневих шарах стопу Д16 після оброблення з амплітудою ультразвукового перетворювача $А$ = 25 мкм впродовж 100 с становить $\\cong$ 10—12 ат.%. Неочікуваним результатом є поверхнева сеґреґація Cu (до $\\cong$ 30 ат.%) у локальних ділянках поверхні. На контактній поверхні армко-Fe після такого режиму УЗУО вміст Al досягає 90 ат.%; одночасно відбувається масоперенесення й інших компонентів стопу Д16 – Cu, Mg та Mn. Збільшення значення мікротвердости поверхні алюмінійового стопу Д16 після УЗУО за умов контакту із пластиною армко-Fe пов’язується як із зменшенням розміру областей когерентного розсіяння та збільшенням рівня мікродеформації кристалічної ґратниці, так і з механохемічною взаємодією Al з Fe та Cu в процесі інтенсивної деформації.",
+		"en": "The processes of anomalous mass transfer are studied in Al—Fe system at ultrasonic shock treatment (USST) of the D16 aluminium alloy with intermediate Armco-Fe plate. This treatment passes under conditions of quasi-hydrostatic compression of diffusion couple in a neutral atmosphere to eliminate the influence of the oxidation process of contacting surfaces. The maximum Fe concentration in the subsurface layers of the D16 alloy after treatment with the amplitude of the ultrasonic converter $A = 25$ $\\mu$m for 100 s is around 10—12 at.%. An unexpected phenomenon is the Cu surface segregation (up to $\\cong$ 30 at.%) in local areas of the surface. After such USST on the contact surface of Armco-Fe, the content of Al reaches 90 at.%, meanwhile the mass transfer of other D16 alloy components, Cu, Mg, and Mn, occurs. The increase of the surface D16 aluminium alloy microhardness value after USST in contact with the plate of Armco-Fe is due to decrease of coherent scattering region size, increase of lattice microdeformation level, and mechanochemical interaction of Al with Fe and Cu during intensive deformation.",
+		"ru": "Исследованы процессы аномального массопереноса в системе Al—Fe при ультразвуковой ударной обработке (УЗУО) алюминиевого сплава Д16 с промежуточной пластиной армко-Fe, проведённой в условиях квазигидростатического сжатия диффузионной пары в нейтральной среде для исключения влияния процессов окисления контактирующих поверхностей. Максимальная концентрация Fe в приповерхностных слоях сплава Д16 после обработки с амплитудой ультразвукового преобразователя $A$ = 25 мкм на протяжении 100 с составляет $\\cong$ 10—12 ат.%. Неожиданным результатом является поверхностная сегрегация Cu (до $\\cong$ 30 ат.%) в локальных участках поверхности. На контактной поверхности армко-Fe после такого режима УЗУО содержание Al достигает 90 ат.%; одновременно происходит массоперенос и других компонентов сплава Д16 – Cu, Mg и Mn. Увеличение значения микротвёрдости поверхности алюминиевого сплава Д16 после УЗУО в условиях контакта с пластиной армко-Fe связывается как с уменьшением размера областей когерентного рассеяния и увеличением уровня микродеформации кристаллической решётки, так и с механохимическим взаимодействием Al с Fe и Cu в процессе интенсивной деформации."
+	},
+	"keywords": {
+		"ua": "ультразвукове ударне оброблення, механічне леґування, масоперенесення",
+		"en": "ultrasonic impact treatment, mechanical alloying, mass transfer",
+		"ru": "ультразвуковая ударная обработка, механическое легирование, массоперенос"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. О. Васильєв", "en": "M. O. Vasyliev", "ru": "М. А. Васильев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Б. М. Мордюк", "en": "B. M. Mordyuk", "ru": "Б. Н. Мордюк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. І. Сидоренко", "en": "S. I. Sidorenko", "ru": "С. И. Сидоренко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "С. М. Волошко", "en": "S. M. Voloshko", "ru": "С. М. Волошко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "А. П. Бурмак", "en": "A. P. Burmak", "ru": "А. П. Бурмак"},
+			"OID": [202]
+		}
+	],
+	"references": {
+		"count": 22,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "С. І. Сидоренко, С. М. Волошко, І. Є. Котенко, А. П. Бурмак, Металлофиз. новейшие технол., 34, № 8: 1101 (2012).",
+				"tr":  "S. I. Sydorenko, S. M. Voloshko, I. E. Kotenko, and A. P. Burmak, Metallofiz. Noveishie Tekhnol., 34, No. 8: 1101 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Мовчан, М.М. Бережний, Основи металургії (Дніпропетровськ: Пороги: 2001).",
+				"tr":  "V. P. Movchan and M. M. Berezhnyi, Osnovy Metalurgiyi [Bases of Metallurgy] (Dnipropetrovs'k: Porohy: 2001) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. С. Герцрикен, В. Ф. Мазанко, В. М. Тышкевич, В. М. Фальченко, Массоперенос в металлах при низких температурах в условиях внешних воздействий (Киев: РИО ИМФ: 1999).",
+				"tr":  "D. S. Gertsriken, V. F. Masanko, V. M. Tyshkevich, and V. M. Falchenko, Massoperenos v Metallakh pri Nizkih Temperaturakh v Usloviyah Vneshnikh Vozdeistviy [Mass Transfer in Metals at Low Temperatures and External Influences] (Kyiv: G. V. Kurdyumov Institute for Metal Physics, N.A.S.U.: 1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. І. Прокопенко, С. М. Волошко, І. Є. Котенко, А. П. Бурмак, Наукові вісті НТУУ «КПІ», № 3: 42 (2009).",
+				"tr":  "G. I. Prokopenko, S. M. Voloshko, I. E. Kotenko, and A. P. Burmak, Science News of NTUU 'KPI', No. 3: 42 (2009) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. И. Прокопенко, А. Л. Березина, С. М. Волошко, И. Е. Котенко, А. П. Бурмак, Металлофиз. новейшие технол., 32, № 3: 397 (2010).",
+				"tr":  "G. I. Prokopenko, A. L. Berezina, S. M. Voloshko, I. E. Kotenko, and A. P. Burmak, Metallofiz. Noveishie Tekhnol., 32, No. 3: 397 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Бурмак, С. І. Сидоренко, М. О. Васильєв, С. М. Волошко, Наукові вісті НТУУ «КПІ», № 1: 57 (2013).",
+				"tr":  "A. P. Burmak, S. I. Sydorenko, M. A. Vasylyev, and S. M. Voloshko, Science News of NTUU 'KPI', No. 1: 57 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/j.matchar.2010.07.007",
+				"or":  "B. N. Mordyuk, V. V. Silberschidt, G. I. Prokopenko, Yu. V. Nesterenko, and M. O. Iefimov, Materials Characterization, 61, No. 11: 1126 (2010).",
+				"tr":  "B. N. Mordyuk, V. V. Silberschidt, G. I. Prokopenko, Yu. V. Nesterenko, and M. O. Iefimov, Materials Characterization, 61, No. 11: 1126 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. И. Прокопенко, Т. А. Лятун, ФиХОМ, № 3: 3 (1977).",
+				"tr":  "G. I. Prokopenko and T. A. Lyatun, FiKhOM, No. 3: 3 (1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Кулемин, Ультразвук и диффузия (Москва: Металлургия: 1978).",
+				"tr":  "A. V. Kulemin, Ultrazvuk i Diffuziya [Ultrasound and Diffusion] (Moscow: Metallurgy: 1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Г. Полоцкий, Д. Е. Овсиенко, З. Д. Ходов, Физ. мет. металловед., 21, № 5: 727 (1966).",
+				"tr":  "I. G. Polotskyi, D. E. Ovsienko, Z. D. Khodov et al., Fiz. Met. Metalloved., 21, No. 5: 727 (1966) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Биронт, Литейное производство, металловедение и обработка металлов давлением, № 5: 134 (1971).",
+				"tr":  "V. S. Biront, Liteinoye Proizvodstvo, Metallovedenie i Obrabotka Metallov Davleniem [Casting Industry, Metall Science and Compression of Metals], No. 5: 134 (1971) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Васильев, А. В. Козлов, Г. И. Прокопенко, Б. Н. Мордюк, Металлофиз. новейшие технол., 15, № 1: 75 (1995).",
+				"tr":  "M. A. Vasylyev, A. V. Kozlov, G. I. Prokopenko, and B. N. Mordyuk, Metallofiz. Noveishie Tekhnol., 15, No. 11: 75 (1995) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Л. Сыроватка, В. Е. Оликер, М. С. Яковлева, Материаловедение, № 3: 46 (2013).",
+				"tr":  "V. L. Syrovatka, V. E. Oliker, and M. S. Yakovleva, Materialovedenie, No. 3: 46 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. І. Сидоренко, С. М. Волошко, І. Є. Котенко, А. П. Бурмак, Металлофиз. новейшие технол., 33, № 12: 1659 (2011).",
+				"tr":  "S. I. Sydorenko, S. M. Voloshko, I. E. Kotenko, and A. P. Burmak, Metallofiz. Noveishie Tekhnol., 33, No. 12: 1659 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Ю. Волосевич, А. В. Козлов, Б. Н. Мордюк, Г. И. Прокопенко, Н. И. Даниленко, Металлофиз. новейшие технол., 25, № 5: 679 (2003).",
+				"tr":  "P. Yu. Volosevich, O. V. Kozlov, B. M. Mordyuk, G. I. Prokopenko, and N. I. Danylenko, Metallofiz. Noveishie Tekhnol., 25, No. 5: 679 (2003) (in Russian)."
+			},
+			{
+				"doi": "10.1515/HTMP.2006.25.1-2.31",
+				"or":  "M. O. Iefimov, D. V. Lotsko, Yu. V. Milman, A. L. Borisova, S. J. Chugunova, Ye. A. Astakhov, and O. D. Neikov, High Temperature Materials and Processes, 25: 31 (2006).",
+				"tr":  "M. O. Iefimov, D. V. Lotsko, Yu. V. Milman, A. L. Borisova, S. J. Chugunova, Ye. A. Astakhov, and O. D. Neikov, High Temperature Materials and Processes, 25: 31 (2006)."
+			},
+			{
+				"doi": "10.1016/j.intermet.2005.01.009",
+				"or":  "V. V. Tcherdyntsev, S. D. Kaloshkin, E. V. Shelekhov, A. I. Salimon, S. Sartori, and G. Principi, Intermetallics, 13: 841 (2005).",
+				"tr":  "V. V. Tcherdyntsev, S. D. Kaloshkin, E. V. Shelekhov, A. I. Salimon, S. Sartori, and G. Principi, Intermetallics, 13: 841 (2005)."
+			},
+			{
+				"doi": "10.1016/j.jnoncrysol.2007.05.092",
+				"or":  "F. Turquier, V. D. Cojocaru, M. Stir, R. Nicula, and E. Burkel, J. Non-Crystalline Solids, 353: 3417 (2007).",
+				"tr":  "F. Turquier, V. D. Cojocaru, M. Stir, R. Nicula, and E. Burkel, J. Non-Crystalline Solids, 353: 3417 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. М. Григоренко, А. Ю. Туник, Л. И. Адеева, C. Н. Степанюк, М. А. Полищук, В. И. Зеленин, Автоматическая сварка, № 4: 13 (2014).",
+				"tr":  "G. M. Grigorenko, A. Yu. Tunik, L. I. Adeeva, S. N. Stepanyuk, M. A. Polishchuk, and V. I. Zelenin, Avtomaticheskaya Svarka [Automatic Welding], No. 4: 13 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.wear.2014.07.011",
+				"or":  "B. N. Mordyuk, G. I. Prokopenko, Yu. V. Milman, M. O. Iefimov, K. E. Grinkevych, A. V. Sameljuk, and I. V. Tkachenko, Wear, 319: 84 (2014).",
+				"tr":  "B. N. Mordyuk, G. I. Prokopenko, Yu. V. Milman, M. O. Iefimov, K. E. Grinkevych, A. V. Sameljuk, and I. V. Tkachenko, Wear, 319: 84 (2014)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.27.5313",
+				"or":  "S. Mantl, W. Petry, K. Schroeder, and G. Vogl, Phys. Rev. B, 27, No. 9: 5313 (1983).",
+				"tr":  "S. Mantl, W. Petry, K. Schroeder, and G. Vogl, Phys. Rev. B, 27, No. 9: 5313 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Колотов, А. А. Новоселов, А. Ю. Дроздов, Ф. З. Гильмутдинов, В. Я. Баянкин, Письма в ЖТФ, 37, № 16: 79 (2011).",
+				"tr":  "A. A. Kolotov, A. A. Novoselov, A. Yu. Drozdov, F. Z. Gilmutdinov, and V. Ya. Bayakin, Pis'ma v ZhTF, 37, No. 16: 79 (2011) (in Russian)."
+			}
+		]
+	}
+}

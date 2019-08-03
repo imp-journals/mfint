@@ -1,0 +1,129 @@
+{
+	"_id":    "MFiNT.37.07.0871",
+	"year":   2015,
+	"volume": 37,
+	"issue":  7,
+	"pages":  [871,885],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["17.12.2014","26.05.2015"],
+	"PACS":   "45.50.Jf, 47.27.nf, 47.40.Ki, 47.60.Kz, 47.61.Jd, 47.85.mb, 81.65.-b",
+	"title":  {
+		"ua": "Кінематика твердої частинки, що розганяється потоком газу в надзвуковому соплі, та деформаційне зміцнення обробленої поверхні",
+		"en": "Kinematics of the Solid Particle Accelerated by a Flow of Gas in a Supersonic Nozzle and Work Hardening of the Processed Surface",
+		"ru": "Кинематика твёрдой частицы, разгоняемой потоком газа в сверхзвуковом сопле, и деформационное упрочнение обработанной поверхности"
+	},
+	"abstract": {
+		"ua": "Роботу присвячено вирішенню актуальної задачі визначення швидкости твердої частинки у Лавалевому соплі та за його межами аналітичними методами. Одним з найважливіших критеріїв ефективности, що характеризує будь-який технологічний процес, в основі якого лежить контакт високошвидкісної частинки з підложжям, є кінетична енергія частинки, а також її найважливіша складова – швидкість. З метою одержання зручної аналітичної залежности для розрахунку швидкости частинки по каналу сопла введено параметер, який описує прискорення газового потоку в соплі. Встановлено залежність швидкости частинки в каналі Лавалевого сопла від параметрів газового потоку і частинки (густина і діяметер). На підставі теоретичних досліджень кінематики частинки, що розганяється потоком газу в соплі, одержано вирази, які уможливлюють виконати розрахунок швидкости й енергій частинки при зіткненні з підложжям. Представлено залежності енергій частинки на виході з сопла від швидкости витікання газу і діяметра частинки. Розглянуто вплив параметрів оброблення на характеристики деформаційного зміцнення матеріялу поверхні.",
+		"en": "This investigation is concerned with an actual problem of determining the velocity of the solid particles inside and outside convergent-divergent (Laval) nozzle by analytical methods. The kinetic energy of a particle and its most important component–velocity are the most important performance criteria, which characterise any process, based on the high-speed particle contact with the substrate. Parameter, which describes the acceleration of the gas flow in the nozzle outfall, is introduced to obtain analytical dependence for easy calculation of the speed of the particles in nozzle. The dependence of particle velocity in the channel of Laval nozzle on parameters of gas flow and particles (density and diameter) is defined. The equations are obtained, which make it possible to calculate the particle velocity and energy upon collision with the substrate on the basis of theoretical studies of kinematics of particles being accelerated in the nozzle gas flow. The dependences of particle energy at the nozzle outfall on speed of gas flow and particle diameter are presented. The influence of processing parameters on the work hardening performances of the material surface is discussed.",
+		"ru": "Работа посвящена решению актуальной задачи определения скорости твёрдой частицы в сопле Лаваля и за его пределами аналитическими методами. Одним из важнейших критериев эффективности, характеризующим любой технологический процесс, в основе которого лежит контакт высокоскоростной частицы с подложкой, является кинетическая энергия частицы, а также её важнейшая составляющая – скорость. С целью получения удобной аналитической зависимости для расчёта скорости частицы по каналу сопла введён параметр, который описывает ускорение газового потока в сопле. Установлена зависимость скорости частицы в канале сопла Лаваля от параметров газового потока и частицы (плотность и диаметр). На основании теоретических исследований кинематики частицы, разгоняемой потоком газа в сопле, получены выражения, которые дают возможность выполнить расчёт скорости и энергий частицы при столкновении с подложкой. Представлены зависимости энергий частицы на выходе из сопла от скорости истечения газа и диаметра частицы. Рассмотрено влияние параметров обработки на характеристики деформационного упрочнения материала поверхности."
+	},
+	"keywords": {
+		"ua": "швидкість абразивних частинок, деформаційне зміцнення, двофазний потік, канал сопла, струменево-абразивна обробка",
+		"en": "velocity of abrasive particles, strain hardening, two-phase flow, channel of nozzle, abrasive flow processing",
+		"ru": "скорость абразивных частиц, деформационное упрочнение, двухфазный поток, канал сопла, струйно-абразивная обработка"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. І. Долматов", "en": "A. I. Dolmatov", "ru": "А. И. Долматов"},
+			"OID": [207]
+		},
+		{
+			"AID": {"ua": "С. В. Сєргєєв", "en": "S. V. Sergeev", "ru": "С. В. Сергеев"},
+			"OID": [207]
+		},
+		{
+			"AID": {"ua": "М. О. Курін", "en": "M. O. Kurin", "ru": "М. А. Курин"},
+			"OID": [207]
+		},
+		{
+			"AID": {"ua": "В. В. Воронько", "en": "V. V. Voronko", "ru": "В. В. Воронько"},
+			"OID": [207]
+		},
+		{
+			"AID": {"ua": "Т. В. Лоза", "en": "T. V. Loza", "ru": "Т. В. Лоза"},
+			"OID": [207]
+		}
+	],
+	"references": {
+		"count": 15,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "С. В. Сергеев, Т. В. Лоза, А. П. Петренко, Сб. науч. тр. «Вопросы проектирования и производства конструкций летательных аппаратов», вып. 4 (76): 80 (2013).",
+				"tr":  "S. V. Sergeev, T. V. Loza, and A. P. Petrenko, Collection of Scientific Works 'Voprosy Proektirovaniya i Proizvodstva Konstruktsiy Letatel'nykh Apparatov', Iss. 4 (76), 80 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Андилахай, Вісник Національного технічного університету «ХПІ». Тематичний випуск «Технології в машинобудуванні», № 53: 4 (2010).",
+				"tr":  "A. A. Andilakhay, Visnyk Natsional'nogo Tekhnichnogo Universytetu 'HPI'. Tematichnyy Vypusk 'Tekhnologii v Mashynobuduvanni', No. 53: 4 (2010) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Е. Проволоцкий, Струйно-абразивная обработка деталей машин (Киев: Техника: 1989).",
+				"tr":  "A. E. Provolotskiy, Struyno-Abrazivnaya Obrabotka Detaley Mashin [Abrasive-Jet Machining of Machinery Parts] (Kiev: Tekhnika: 1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Г. Исупов, Технология машиностроения, № 2: 36 (2003).",
+				"tr":  "M. G. Isupov, Tekhnologiya Mashinostroeniya, No. 2: 36 (2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Архипов, А. Ф. Лондарский, А. Ф. Мельшанов, Г. В. Москвитин, М. С. Пугачёв, Заводская лаборатория. Диагностика материалов, вып. 4: 45 (2010).",
+				"tr":  "V. E. Arkhipov, A. F. Londarskiy, A. F. Mel'shanov, G. V. Moskvitin, and M. S. Pugachev, Zavodskaya Laboratoriya. Diagnostika Materialov, Iss. 4: 45 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. К. Зайцев, Научно-технические ведомости СПбГПУ, № 3 (59): 61 (2008).",
+				"tr":  "D. K. Zaytsev, Nauchno-Tekhnicheskie Vedomosti SPbGPU, No. 3 (59): 61 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. А. Путилов, Курс физики. Механика. Акустика. Молекулярная физика. Термодинамика (Москва: Физматгиз: 1963).",
+				"tr":  "K. A. Putilov, Kurs Fiziki. Mekhanika. Akustika. Molekulyarnaya Fizika. Termodinamika [Course of Physics. Mechanics. Acoustics. Molecular Physics. Thermodynamics] (Moscow: Fizmatgiz: 1963) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Н. Бронштейн, К. А. Семендяев, Справочник по математике для инженеров и студентов ВТУЗов (Москва: Наука: 1986).",
+				"tr":  "I. N. Bronshteyn and K. A. Semendyaev, Spravochnik po Matematike dlya Inzhenerov i Studentov VTUZov [Handbook of Mathematics for Engineers and Students of Higher Technical Colleges] (Moscow: Nauka: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. А. Кравцов, Уравнение Риккати и его общее решение, http://www.itsway.kiev.ua/pdf/Articles010306.pdf (2006).",
+				"tr":  "G. A. Kravtsov, Uravnenie Rikkati i Ego Obshchee Reshenie, http://www.itsway.kiev.ua/pdf/Articles010306.pdf (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. А. Кравцов, Уравнение Риккати. Теория и теорема Письменного–Прохоровой–Куржеевского, http://www.itsway.kiev.ua/pdf/Articles18012006.pdf (2006).",
+				"tr":  "G. A. Kravtsov, Uravnenie Rikkati. Teoriya i Teorema Pis'mennogo–Prohorovoy–Kurzheevskogo, http://www.itsway.kiev.ua/pdf/Articles18012006.pdf (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Дорофеев, Основы теории тепловых ракетных двигателей. Теория, расчёт и проектирование (Москва: Изд-во МГТУ им. Н. Э. Баумана: 2010).",
+				"tr":  "A. A. Dorofeev, Osnovy Teorii Teplovykh Raketnykh Dvigateley. Teoriya, Raschet i Proektirovanie [Fundamental of Theory of Heat Propulsion Engine. Theory, Calculation and Design] (Moscow: Izd-vo MGTU im. N. E. Baumana: 2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. М. Шапиро, Внешняя баллистика (Москва: Оборонгиз: 1946).",
+				"tr":  "Ya. M. Shapiro, Vneshnyaya Ballistika [External Ballistics] (Moscow: Oborongiz: 1946) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Praxair Surface Technologies (Praxair Technology, Inc.: 2009); http://www.praxairsurfacetechnologies.com",
+				"tr":  "Praxair Surface Technologies (Praxair Technology, Inc.: 2009); http://www.praxairsurfacetechnologies.com"
+			},
+			{
+				"doi": "",
+				"or":  "С. Н. Бардинова, Исследование качества поверхностного слоя при дробеструйной обработке в ремонтном производстве (Рыбинск: РГАТУ: 2013).",
+				"tr":  "S. N. Bardinova, Issledovanie Kachestva Poverkhnostnogo Sloya pri Drobestruynoy Obrabotke v Remontnom Proizvodstve [Study of the Surface Layer Quality under Shot Blasting at the Repair Facilities] (Rybinsk: RGATU: 2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. С. Донсков, А. В. Прохоров, Вестник ПНИПУ. Машиностроение, материаловедение, № 3: 69 (2010).",
+				"tr":  "A. S. Donskov and A. V. Prokhorov, Vestnik PNIPU. Mashinostroenie, Materialovedenie, No. 3: 69 (2010) (in Russian)."
+			}
+		]
+	}
+}

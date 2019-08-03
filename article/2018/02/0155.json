@@ -1,0 +1,109 @@
+{
+	"_id":    "MFiNT.40.02.0155",
+	"year":   2018,
+	"volume": 40,
+	"issue":  2,
+	"pages":  [155,167],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["23.11.2017"],
+	"PACS":   "61.41.+e, 61.82.Pv, 72.80.Le, 72.80.Tm, 81.05.Lg, 82.35.Lr, 82.35.Np",
+	"title":   {
+		"ua": "Теплові флюктуації електромагнетного поля в ПВХ, наповненому мікро- та нанодисперсним графітом",
+		"en": "Thermal Fluctuations of Electromagnetic Field in the PVC Filled with Micro- and Nanodisperse Graphite",
+		"ru": "Тепловые флуктуации электромагнитного поля в ПВХ, наполненном микро- и нанодисперсным графитом"
+	},
+	"abstract": {
+		"ua": "На основі статистичної теорії електромагнетних процесів за допомогою рівняння балансу густини енергії проаналізовано специфіку поведінки полівінілхлориду (ПВХ), наповненого мікро- та нанодисперсним графітом, у електромагнетному полі частотою 1–100 кГц і температурному діяпазоні 298 К $\\leq Т \\leq T_C$ + 10 К. Показано, що при вмісті графіту, одержаного фізико-хемічною методою та методою хеміко-електрофізичного дисперґування, в кількості 0 $\\leq \\varphi\\leq$ 5,0 об.% є істотна ріжниця не лише у величинах електропровідности композитів, але й у характерах її температурно-концентраційних залежностей. З використанням закону дисипації встановлено релаксаційну природу та кількісний взаємозв’язок між електро- і теплофізичними властивостями матеріялу.",
+		"en": "Based on the statistical theory of electromagnetic processes, using the equation of balance of energy density, the features of behaviour of the polyvinylchloride (PVC) filled with micro- and nanodispersed graphite in electromagnetic field with frequency of 1–100 kHz and temperature range 298 K $\\leq T \\leq T_C$ + 10 K are analysed. As shown, in the range of graphite concentration 0 $\\leq \\varphi\\leq$ 5.0 vol.%, there is a significant difference not only in the values, but also in the character of the temperature and concentration dependences of electrical conductivity of composite contained graphite synthesized by physical-chemical method and method of the chemical and electrophysical dispersion. Using the law of dissipation, both the relaxation nature and the quantitative interrelation between the electro- and thermophysical properties of investigated material are revealed.",
+		"ru": "На основе статистической теории электромагнитных процессов с помощью уравнения баланса плотности энергии проанализирована специфика поведения поливинилхлорида (ПВХ), наполненного микро- и нанодисперсным графитом, в электромагнитном поле частотой 1–100 кГц и температурном диапазоне 298 К $\\leq Т \\leq T_C$ + 10 К. Показано, что при содержании графита, полученного физико-химическим методом и методом химико-электрофизического диспергирования, в диапазоне 0 $\\leq \\varphi\\leq$ 5,0 об.% имеется значительное различие не только в величинах электропроводности композитов, но и в характере её температурно-концентрационных зависимостей. С использованием закона диссипации установлена релаксационная природа и количественная взаимосвязь между электро- и теплофизическими свойствами материала."
+	},
+	"keywords": {
+		"ua": "нано- та мікродисперсний графіт, полівінілхлорид, флюктуації, дисипація, релаксація",
+		"en": "nano- and microdisperse graphite, polyvinylchloride, fluctuations, dissipation, relaxation",
+		"ru": "нано- и микродисперсный графит, поливинилхлорид, флуктуации, диссипация, релаксация"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Б. Б. Колупаєв", "en": "B. B. Kolupaev", "ru": "Б. Б. Колупаев"},
+			"OID": [260]
+		},
+		{
+			"AID": {"ua": "Б. С. Колупаєв", "en": "B. S. Kolupaev", "ru": "Б. С. Колупаев"},
+			"OID": [261]
+		},
+		{
+			"AID": {"ua": "В. В. Левчук", "en": "V. V. Levchuk", "ru": "В. В. Левчук"},
+			"OID": [261]
+		},
+		{
+			"AID": {"ua": "Ю. Р. Максимцев", "en": "Yu. R. Maksymtsev", "ru": "Ю. Р. Максимцев"},
+			"OID": [261]
+		},
+		{
+			"AID": {"ua": "В. О. Сідлецький", "en": "V. O. Sidletsky", "ru": "В. А. Сидлецкий"},
+			"OID": [261]
+		}
+	],
+	"references": {
+		"count": 11,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Физика сегодня и завтра. Прогнозы науки (ред. В. М. Тучкевич) (Ленинград: Наука: 1973).",
+				"tr":  "Fizika Segodnya i Zavtra. Prognozy Nauki [Physics Today and Tomorrow. Forecasts of Science] (Ed. V. M. Tuchkevich) (Leningrad: Nauka: 1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Дебай, Избранные труды (Ленинград: Наука: 1987).",
+				"tr":  "P. Debye, Izbrannye Trudy [Collected Papers] (Leningrad: Nauka: 1987) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. С. Колупаєв, Б. Б. Колупаєв, О. М. Волошин, В. В. Левчук, Спосіб одержання гетерогенних полімерних систем на основі нанодисперсних металевих наповнювачів: Патент 80988 UA. МПК (2006.01): СО8К3/22 (Опубл. 10 червня 2013, бюл. № 11).",
+				"tr":  "B. S. Kolupaev, B. B. Kolupaev, O. M. Voloshyn, and V. V. Levchuk, Sposib Oderzhannya Geterogennykh Polimernykh System na Osnovi Nanodyspersnykh Metalevykh Napovnyuvachiv [Method of Synthesis of the Heterogeneous Polymer Systems Based on the Nanodispersed Metallic Fillers]: Patent 80988 UA. MPK (2006.01): CO8K3/22 (Publ. June 10, 2006, Bul. No. 11) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Зи, Физика полупроводниковых приборов (Москва: ИЛ: 2004).",
+				"tr":  "S. Zi, Fizika Poluprovodnikovykh Priborov [Physics of Semiconductor Devices] (Moscow: IL: 2004) (Russian translation)."
+			},
+			{
+				"doi": "10.3103/S1068375512050079",
+				"or":  "T. G. Lyashuk and B. B. Kolupaev, Surf. Eng. Appl. Elect., 48, Iss. 5: 487 (2012).",
+				"tr":  "T. G. Lyashuk and B. B. Kolupaev, Surf. Eng. Appl. Elect., 48, Iss. 5: 487 (2012)."
+			},
+			{
+				"doi": "10.1007/s10891-012-0702-1",
+				"or":  "B. B. Kolupaev, J. Eng. Phys. Thermophys., 85, Iss. 3: 684 (2012).",
+				"tr":  "B. B. Kolupaev, J. Eng. Phys. Thermophys., 85, Iss. 3: 684 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. А. Булавін, Ю. Ф. Забашта, О. С. Свєчнікова, Фізична механіка полімерів (Київ: ВПЦ КУ: 2005).",
+				"tr":  "L. A. Bulavin, Yu. F. Zabashta, and O. S. Svyechnikova, Fizychna Mekhanika Polimeriv [Physical Mechanics of Polymers] (Kyiv: VPTs KU: 2005) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1007/s10891-007-0026-8",
+				"or":  "B. B. Kolupaev, J. Eng. Phys. Thermophys., 80, Iss. 1: 188 (2007).",
+				"tr":  "B. B. Kolupaev, J. Eng. Phys. Thermophys., 80, Iss. 1: 188 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Л. Климонтович, Статистическая физика (Москва: Наука: 1982).",
+				"tr":  "Yu. L. Klimontovich, Statisticheskaya Fizika [Statistical Physics] (Moscow: Nauka: 1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Хаазе, Термодинамика необратимых процессов (Москва: Мир: 1967).",
+				"tr":  "R. Haase, Termodinamika Neobratimykh Protsessov [Thermodynamics of Irreversible Processes] (Moscow: Mir: 1967) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Д. Помогайло, А. С. Розенберг, И. Е. Уфлянд, Наночастицы металлов в полимерах (Москва: Химия: 2000).",
+				"tr":  "A. D. Pomogaylo, A. S. Rozenberg, and I. E. Uflyand, Nanochastitsy Metallov v Polimerakh [Nanoparticles of Metals in Polymers] (Moscow: Khimiya: 2000) (in Russian)."
+			}
+		]
+	}
+}

@@ -1,0 +1,144 @@
+{
+	"_id":    "MFiNT.38.01.0053",
+	"year":   2016,
+	"volume": 38,
+	"issue":  1,
+	"pages":  [53,66],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["03.11.2015"],
+	"PACS":   "61.05.cp, 61.05.fm, 72.15.Eb, 75.30.Cr, 75.30.Kz, 75.40.Cx, 75.50.Ee",
+	"title":  {
+		"ua": "Дослідження сплавів Гейслера Fe$_{2}$MnGa за допомогою дифракції нейтронів",
+		"en": "Neutron Diffraction Study of Fe$_{2}$MnGa Heusler Alloys",
+		"ru": "Исследование сплавов Гейслера Fe$_{2}$MnGa с помощью дифракции нейтронов"
+	},
+	"abstract": {
+		"ua": "Методами пружньої дифракції нейтронів (ДН) та магнетометрії в температурній області 100 К < T < 580 К було досліджено вплив температури й магнетного поля на структуру та магнетні властивості стопів Fe$_{50,1}$Mn$_{22,7}$Ga$_{27,2}$ і Fe$_{51,6}$Mn$_{17,8}$Ga$_{30,6}$. З використанням даних ДН в роботі було експериментально визначено як ступінь атомового порядку в стопах Fe$_{2}$MnGa, так і величини магнетних моментів, що локалізовані на вузлах Mn та Fe. Деяка невідповідність між експериментальними та розрахованими теоретично величинами магнетних моментів, що локалізовані на вузлах Mn та Fе, пояснюється значним ступенем атомового безладу у виготовлених стопах Fe$_{2}$MnGa. Якщо антиферомагнетний порядок дійсно формується в $L1_{2}$-фазі стопу Fe$_{50,1}$Mn$_{22,7}$Ga$_{27,2}$, цей порядок має неколінеарну структуру.",
+		"en": "Effect of temperature and magnetic field on the structure and magnetic properties of Fe$_{50.1}$Mn$_{22.7}$Ga$_{27.2}$ і Fe$_{51.6}$Mn$_{17.8}$Ga$_{30.6}$ alloys is investigated in a temperature range 100 К < T < 580 К by using elastic neutron diffraction (ND) and magnetometry. The degree of atomic order as well as magnetic moments localized at the Mn and Fe sites in the investigated Fe$_{2}$MnGa alloys are experimentally evaluated using the ND data. Some disagreement between the experimental and calculated values of magnetic moments localized at the Mn and Fe sites can be explained by noticeable atomic disorder in the prepared Fe$_{2}$MnGa alloys. If antiferromagnetic order really exists in $L1_{2}$-phase containing Fe$_{50.1}$Mn$_{22.7}$Ga$_{27.2}$ alloy, this order has not a collinear character.",
+		"ru": "Методами упругой дифракции нейтронов (ДН) и магнитометрии в температурной области 100 К < T < 580 К было проведено исследование влияния температуры и магнитного поля на структуру и магнитные свойства сплавов Fe$_{50,1}$Mn$_{22,7}$Ga$_{27,2}$ и Fe$_{51,6}$Mn$_{17,8}$Ga$_{30,6}$. С использованием данных ДН были экспериментально определены как степень атомного порядка в сплавах Fe$_{2}$MnGa, так и величины магнитных моментов, локализованных на узлах Mn и Fe. Некоторое несоответствие между экспериментальными и теоретически рассчитанными значениями магнитных моментов, локализованных на узлах Mn и Fe, объясняется существенной степенью атомного беспорядка в приготовленных сплавах Fe$_{2}$MnGa. Если антиферромагнитный порядок действительно формируется в $L1_{2}$-фазе сплава Fe$_{50,1}$Mn$_{22,7}$Ga$_{27,2}$, то этот порядок имеет неколлинеарную структуру."
+	},
+	"keywords": {
+		"ua": "дифракція нейтронів, магнетні властивості, атомовий порядок, структурні перетворення",
+		"en": "neutron diffraction, magnetic properties, atomic order, structural transformations",
+		"ru": "дифракция нейтронов, магнитные свойства, атомный порядок, структурные превращения"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. В. Кудрявцев", "en": "Yu. V. Kudryavtsev", "ru": "Ю. В. Кудрявцев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. О. Перекос", "en": "A. E. Perekos", "ru": "А. Е. Перекос"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "І. М. Главацький", "en": "I. N. Glavatskyy", "ru": "И. Н. Главацкий"},
+			"OID": [439]
+		},
+		{
+			"AID": {"ua": "Я. Дубовік", "en": "J. Dubowik", "ru": "Я. Дубовик"},
+			"OID": [426]
+		},
+		{
+			"AID": {"ua": "Ю. Б. Скирта", "en": "Yu. B. Skirta", "ru": "Ю. Б. Скирта"},
+			"OID": [7]
+		}
+	],
+	"references": {
+		"count": 18,
+		"list":  [
+			{
+				"doi": "10.1063/1.3269590",
+				"or":  "W. Zhu, E. K. Liu, L. Feng, X. D. Tang, J. L. Chen, G. H. Wu, H. Y. Liu, F. B. Meng, and H. Z. Luo, Appl. Phys. Lett., 95: 222512-1 (2009)",
+				"tr":  "W. Zhu, E. K. Liu, L. Feng, X. D. Tang, J. L. Chen, G. H. Wu, H. Y. Liu, F. B. Meng, and H. Z. Luo, Appl. Phys. Lett., 95: 222512-1 (2009)"
+			},
+			{
+				"doi": "10.1063/1.3213353",
+				"or":  "T. Omori, K. Watanabe, R. Y. Umetsu, R. Kinuma, and K. Ishida, Appl. Phys. Lett., 95: 082508-1 (2009)",
+				"tr":  "T. Omori, K. Watanabe, R. Y. Umetsu, R. Kinuma, and K. Ishida, Appl. Phys. Lett., 95: 082508-1 (2009)"
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2010.12.018",
+				"or":  "T. Omori, K. Watanabe, X. Xu, R. Y. Umetsu, R. Kainuma, and K. Ishida, Scr. Mater., 64: 669 (2011)",
+				"tr":  "T. Omori, K. Watanabe, X. Xu, R. Y. Umetsu, R. Kainuma, and K. Ishida, Scr. Mater., 64: 669 (2011)"
+			},
+			{
+				"doi": "10.1063/1.3677939",
+				"or":  "C. A. Jenkins, A. Scholl, R. Kainuma, H. J. Elmers, and T. Omori, Appl. Phys. Lett., 100: 032401-1 (2012)",
+				"tr":  "C. A. Jenkins, A. Scholl, R. Kainuma, H. J. Elmers, and T. Omori, Appl. Phys. Lett., 100: 032401-1 (2012)"
+			},
+			{
+				"doi": "10.1103/PhysRevB.87.174410",
+				"or":  "V. V. Khovaylo, T. Omori, K. Endo, X. Xu, R. Kainuma, A. P. Kazakov, V. N. Prudnikov, E. A. Gan’shina, A. I. Novikov, Yu. O. Mikhailovsky, D. E. Mettus, and A. B. Granovsky, Phys. Rev. B, 87: 174410-1 (2013)",
+				"tr":  "V. V. Khovaylo, T. Omori, K. Endo, X. Xu, R. Kainuma, A. P. Kazakov, V. N. Prudnikov, E. A. Gan'shina, A. I. Novikov, Yu. O. Mikhailovsky, D. E. Mettus, and A. B. Granovsky, Phys. Rev. B, 87: 174410-1 (2013)"
+			},
+			{
+				"doi": "10.1063/1.3526377",
+				"or":  "X. D. Tang, W. H. Wang, W. Zhu, E. K. Liu, G. H. Wu, F. B. Meng, H. Y. Liu, and H. Z. Luo, Appl. Phys. Lett., 97: 242513-1 (2010)",
+				"tr":  "X. D. Tang, W. H. Wang, W. Zhu, E. K. Liu, G. H. Wu, F. B. Meng, H. Y. Liu, and H. Z. Luo, Appl. Phys. Lett., 97: 242513-1 (2010)"
+			},
+			{
+				"doi": "10.1063/1.3665037",
+				"or":  "X. D. Tang, W. H. Wang, G. H. Wu, F. B. Meng, H. Y. Liu, and H. Z. Luo, Appl. Phys. Lett., 99: 222506-1 (2011)",
+				"tr":  "X. D. Tang, W. H. Wang, G. H. Wu, F. B. Meng, H. Y. Liu, and H. Z. Luo, Appl. Phys. Lett., 99: 222506-1 (2011)"
+			},
+			{
+				"doi": "10.1063/1.4794979",
+				"or":  "T. Gasi, A. K. Nayak, M. Niklas, and C. Felser, J. Appl. Phys., 113: 17E301 (2013)",
+				"tr":  "T. Gasi, A. K. Nayak, M. Niklas, and C. Felser, J. Appl. Phys., 113: 17E301 (2013)"
+			},
+			{
+				"doi": "10.1016/j.jallcom.2013.01.145",
+				"or":  "C. W. Shih, X. G. Zhao, H. W. Chang, W. C. Chang, and Z. D. Zhang, J. Alloys Compd., 570: 14 (2013)",
+				"tr":  "C. W. Shih, X. G. Zhao, H. W. Chang, W. C. Chang, and Z. D. Zhang, J. Alloys Compd., 570: 14 (2013)"
+			},
+			{
+				"doi": "10.1016/0022-3697(74)90002-X",
+				"or":  "K. R. A. Ziebeck and P. J. Webster, J. Phys. Chem. Solids, 35: 1 (1974)",
+				"tr":  "K. R. A. Ziebeck and P. J. Webster, J. Phys. Chem. Solids, 35: 1 (1974)"
+			},
+			{
+				"doi": "",
+				"or":  "D. J. Hughes, Neutron Optics (New York: Interscience Publishers: 1954), p. 136",
+				"tr":  "D. J. Hughes, Neutron Optics (New York: Interscience Publishers: 1954), p. 136"
+			},
+			{
+				"doi": "10.1063/1.4760270",
+				"or":  "S. Singh, K. R. A. Ziebeck, E. Suard, P. Rajput, S. Bhardwaj, A. M. Awasthi, and S. R. Barman, Appl. Phys. Lett., 101: 171904-1 (2012)",
+				"tr":  "S. Singh, K. R. A. Ziebeck, E. Suard, P. Rajput, S. Bhardwaj, A. M. Awasthi, and S. R. Barman, Appl. Phys. Lett., 101: 171904-1 (2012)"
+			},
+			{
+				"doi": "",
+				"or":  "M. A. Krivoglaz and A. A. Smirnov, Teoriya Uporyadochivayushchikhsya Splavov [Theory of Ordering Alloys] (Moscow: State Publisher of Physical and Mathematical Literature: 1958), p. 388 (in Russian)",
+				"tr":  "M. A. Krivoglaz and A. A. Smirnov, Teoriya Uporyadochivayushchikhsya Splavov [Theory of Ordering Alloys] (Moscow: State Publisher of Physical and Mathematical Literature: 1958), p. 388 (in Russian)"
+			},
+			{
+				"doi": "10.1016/S0022-3697(71)80180-4",
+				"or":  "P. J. Webster, J. Phys. Chem. Solids, 32: 1221 (1971)",
+				"tr":  "P. J. Webster, J. Phys. Chem. Solids, 32: 1221 (1971)"
+			},
+			{
+				"doi": "",
+				"or":  "Y. A. Izyumov and R. P. Ozerov, Magnitnaya Neitronografiya [Magnetic Neu-tronography] (Moscow: Fizmatgiz: 1966), p. 532 (in Russian)",
+				"tr":  "Y. A. Izyumov and R. P. Ozerov, Magnitnaya Neitronografiya [Magnetic Neu-tronography] (Moscow: Fizmatgiz: 1966), p. 532 (in Russian)"
+			},
+			{
+				"doi": "10.1103/PhysRev.104.924",
+				"or":  "L. Corliss, N. Elliot, and J. Hastings, Phys. Rev., 104: 924 (1956)",
+				"tr":  "L. Corliss, N. Elliot, and J. Hastings, Phys. Rev., 104: 924 (1956)"
+			},
+			{
+				"doi": "10.1016/j.actamat.2012.05.031",
+				"or":  "V. Kudryavtsev, N. V. Uvarov, V. N. Iermolenko, I. N. Glavatskyy, and J. Dubowik, Acta Mater., 60: 4780 (2012)",
+				"tr":  "V. Kudryavtsev, N. V. Uvarov, V. N. Iermolenko, I. N. Glavatskyy, and J. Dubowik, Acta Mater., 60: 4780 (2012)"
+			},
+			{
+				"doi": "10.1016/j.jallcom.2014.12.192",
+				"or":  "E. C. Passamani, C. Larica, G. Viali, J. R. Andrez, A. Y. Takeuchi, V. P. Nascimento, V. A. P. Rodrigez, C. Rojas-Ayala, and E. Baggio-Saitovich, J. Alloys Compd., 628: 164 (2015)",
+				"tr":  "E. C. Passamani, C. Larica, G. Viali, J. R. Andrez, A. Y. Takeuchi, V. P. Nascimento, V. A. P. Rodrigez, C. Rojas-Ayala, and E. Baggio-Saitovich, J. Alloys Compd., 628: 164 (2015)"
+			}
+		]
+	}
+}

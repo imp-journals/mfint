@@ -1,0 +1,251 @@
+{
+	"_id":    "MFiNT.37.08.1089",
+	"year":   2015,
+	"volume": 37,
+	"issue":  8,
+	"pages":  [1089,1111],
+	"rubric": 1,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["17.10.2014", "07.07.2015"],
+	"PACS":   "61.43.Dq, 61.46.Hk, 62.23.Pq, 64.70.Nd, 64.70.pe, 81.07.Bc, 81.40.Ef",
+	"title":  {
+		"ua": "Термічна стійкість, кінетика та механізми розпаду нанокомпозитних структур в стопах на основі Al",
+		"en": "Thermal Stability, Kinetics, and Mechanisms of Decomposition of Nanocomposite Structures in Alloys Based on Aluminium",
+		"ru": "Термическая устойчивость, кинетика и механизмы распада нанокомпозитных структур в сплавах на основе Al"
+	},
+	"abstract": {
+		"ua": "Методами Рентґенівської дифрактометрії, просвітної електронної мікроскопії, диференційної сканівної калориметрії, мірянь електроопору і мікротвердости досліджено термічну стійкість, кінетику і механізми процесів розпаду нанофазних композитів (нанокристали Al + залишкова аморфна матриця), що утворюються на першій стадії кристалізації аморфних стопів Al$_{90}$Y$_{10}$, Al$_{87}$Ni$_{8}$Gd$_{5}$ і Al$_{86}$Ni$_{6}$Co$_{2}$Gd$_{6}$. Показано, що максимальні значення мікротвердости стопів (3,8—5,4ГПа) досягаються в аморфно-нанокристалічних структурних станах, а ступінь знеміцнення, зумовлена повною кристалізацією залишкової аморфної фази, істотно зростає при збільшенні середнього розміру зерна структурних складових. Шляхом сумісної аналізи кінетичних і структурних даних встановлено, що другі стадії кристалізації в досліджених стопах відбуваються за наступними механізмами: гомогенного зародкоутворення і дифузійно-контрольованого росту нанокристалів метастабільного інтерметаліду Al$_{4}$Y одночасно з нанокристалами Al (у Al$_{90}$Y$_{10}$), нестаціонарного зародкоутворення із зростаючою в часі швидкістю і контрольованого дифузією на міжфазній межі росту кристалів рівноважних інтерметалідів Al$_{3}$Ni і Al$_{23}$Ni$_{6}$Gd$_{4}$ (у Al$_{87}$Ni$_{8}$Gd$_{5}$), а також дифузійно-контрольованого росту нанокристалів Al, ініційованого формуванням нанокристалів неідентифікованої метастабільної інтерметалевої сполуки (у Al$_{86}$Ni$_{6}$Co$_{2}$Gd$_{6}$). Показано, що величини температурних діяпазонів стійкости двофазних нанокомпозитних структур і енергій активації їх розпаду корелюють між собою й істотно вищі для стопів, у яких другі стадії кристалізації є заключними і перебігають за механізмами зародкоутворення і росту кристалів метастабільних або рівноважних інтерметалевих сполук.",
+		"en": "Thermal stability, kinetics and decomposition mechanisms of the nanophase composites (Al nanocrystals + residual amorphous matrix) formed at the first crystallization stage of amorphous Al$_{90}$Y$_{10}$, Al$_{87}$Ni$_{8}$Gd$_{5}$, and Al$_{86}$Ni$_{6}$Co$_{2}$Gd$_{6}$ alloys are investigated by X-ray diffractometry, transmission electron microscopy, differential scanning calorimetry, and measurements by both electrical-resistance and microhardness techniques. The second crystallization stage is final for the first two amorphous alloys, while the Al$_{86}$Ni$_{6}$Co$_{2}$Gd$_{6}$ alloy transforms into wholly crystalline state at the third crystallization stage. As shown, the highest values of microhardness (3.8—5.4 GPa) are reached in amorphous—nanocrystalline structural states, and the level of softening, which is caused by complete crystallization of a residual amorphous phase, essentially increases with enlargement of the average grain size of the structural components. By the analysis of the second crystallization stages kinetics, performed within the classical Kolmogorov—Johnson—Mehl—Avrami model, together with the results of structural investigation, it is found that the second crystallization stages in the investigated amorphous alloys occur via three different mechanisms, i.e., by homogeneous nucleation and diffusion-controlled growth of nanocrystals of the metastable intermetallic Al$_{4}$Y compound simultaneously with pre-existing Al nanocrystals (in Al$_{90}$Y$_{10}$), by transient nucleation with increasing rate and the interface-controlled growth of equilibrium Al$_{3}$Ni and Al$_{23}$Ni$_{6}$Gd$_{4}$ intermetallics (in Al$_{87}$Ni$_{8}$Gd$_{5}$), and by the diffusion-limited growth initiated by formation of nanoscale particles of non-identified metastable intermetallic compound (in Al$_{86}$Ni$_{6}$Co$_{2}$Gd$_{6}$). As shown, the values of the temperature ranges of the two-phase nanocomposite structures’ stability and the activation energies of their decomposition correlate with each other, and both of them are appreciably higher for the alloys, where the second crystallization stages are final and take place by means of mechanisms of nucleation and growth of metastable or equilibrium intermetallic crystals.",
+		"ru": "Методами рентгеновской дифрактометрии, просвечивающей электронной микроскопии, дифференциальной сканирующей калориметрии, измерений электросопротивления и микротвёрдости исследованы термическая устойчивость, кинетика и механизмы процессов распада нанофазных композитов (нанокристаллы Al + остаточная аморфная матрица), образующихся на первой стадии кристаллизации аморфных сплавов Al$_{90}$Y$_{10}$, Al$_{87}$Ni$_{8}$Gd$_{5}$ и Al$_{86}$Ni$_{6}$Co$_{2}$Gd$_{6}$. Показано, что максимальные значения микротвёрдости сплавов (3,8—5,4 ГПа) достигаются в аморфно-нанокристаллических структурных состояниях, а степень разупрочнения, обусловленная полной кристаллизацией остаточной аморфной фазы, существенно возрастает при увеличении среднего размера зерна структурных составляющих. Путём совместного анализа кинетических и структурных данных установлено, что вторые стадии кристаллизации в исследованных сплавах происходят по следующим механизмам: гомогенного зарождения и диффузионно-контролируемого роста нанокристаллов метастабильного интерметаллида Al$_{4}$Y одновременно с нанокристаллами Al (в Al$_{90}$Y$_{10}$), нестационарного зарождения с возрастающей со временем скоростью и контролируемого диффузией на межфазной границе роста кристаллов равновесных интерметаллидов Al$_{3}$Ni и Al$_{23}$Ni$_{6}$Gd$_{4}$ (в Al$_{87}$Ni$_{8}$Gd$_{5}$), а также диффузионно-контролируемого роста нанокристаллов Al, инициированного формированием нанокристаллов неидентифицированного метастабильного интерметаллического соединения (в Al$_{86}$Ni$_{6}$Co$_{2}$Gd$_{6}$). Показано, что величины температурных диапазонов устойчивости двухфазных нанокомпозитных структур и энергий активации их распада коррелируют друг с другом и существенно выше для сплавов, в которых вторые стадии кристаллизации являются завершающими и протекают по механизмам зарождения и роста кристаллов метастабильных или равновесных интерметаллических соединений."
+	},
+	"keywords": {
+		"ua": "аморфні стопи на основі Al, нанокомпозитні структури, термічна стабільність, кінетика і механізм кристалізації, зародження, мікротвердість",
+		"en": "amorphous Al-based alloys, nanocomposite structures, thermal stability, kinetics and mechanism of crystallization, nucleation, microhardness",
+		"ru": "аморфные сплавы на основе Al, нанокомпозитные структуры, термическая устойчивость, кинетика и механизм кристаллизации, зарождение, микротвёрдость"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. Г. Рассолов", "en": "S. G. Rassolov", "ru": "С. Г. Рассолов"},
+			"OID": [211,8]
+		},
+		{
+			"AID": {"ua": "К. А. Свиридова", "en": "K. A. Svyrydova", "ru": "Е. А. Свиридова"},
+			"OID": [211]
+		},
+		{
+			"AID": {"ua": "В. В. Максимов", "en": "V. V. Maksimov", "ru": "В. В. Максимов"},
+			"OID": [8]
+		},
+		{
+			"AID": {"ua": "В. К. Носенко", "en": "V. K. Nosenko", "ru": "В. К. Носенко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "І. В. Жихарєв", "en": "I. V. Zhikharev", "ru": "И. В. Жихарев"},
+			"OID": [211,8]
+		},
+		{
+			"AID": {"ua": "Д. В. Матвеєв", "en": "D. V. Matveev", "ru": "Д. В. Матвеев"},
+			"OID": [401]
+		},
+		{
+			"AID": {"ua": "О. О. Першина", "en": "E. A. Pershina", "ru": "Е. А. Першина"},
+			"OID": [401]
+		},
+		{
+			"AID": {"ua": "В. І. Ткач", "en": "V. I. Tkatch", "ru": "В. И. Ткач"},
+			"OID": [211,8]
+		}
+	],
+	"references": {
+		"count": 37,
+		"list":  [
+			{
+				"doi": "10.1143/JJAP.27.L280",
+				"or":  "A. Inoue, K. Ohtera, A. P. Tsai, and T. Masumoto, Jpn. J. Appl. Phys., 27: L280 (1988).",
+				"tr":  "A. Inoue, K. Ohtera, A. P. Tsai, and T. Masumoto, Jpn. J. Appl. Phys., 27: L280 (1988)."
+			},
+			{
+				"doi": "10.1016/S1471-5317(00)00004-3",
+				"or":  "A. Inoue and H. Kimura, J. Light Met., 1: 31 (2001).",
+				"tr":  "A. Inoue and H. Kimura, J. Light Met., 1: 31 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Maslov, V. I. Tkach, V. K. Nosenko, S. G. Rassolov, V. V. Popov, V. V. Maksimov, and E. S. Segida, Metallofiz. Noveishie Tekhnol., 33, No. 5: 663 (2011) (in Russian).",
+				"tr":  "V. V. Maslov, V. I. Tkach, V. K. Nosenko, S. G. Rassolov, V. V. Popov, V. V. Maksimov, and E. S. Segida, Metallofiz. Noveishie Tekhnol., 33, No. 5: 663 (2011) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2006.08.186",
+				"or":  "P. Rizzi and L. Battezzati, J. Alloy Compd., 434: 36 (2007).",
+				"tr":  "P. Rizzi and L. Battezzati, J. Alloy Compd., 434: 36 (2007)."
+			},
+			{
+				"doi": "10.1016/S0966-9795(02)00139-5",
+				"or":  "C. Gao and G. J. Shiflet, Intermetallics, 10: 1131 (2002).",
+				"tr":  "C. Gao and G. J. Shiflet, Intermetallics, 10: 1131 (2002)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2009.04.035",
+				"or":  "B. J. Yang, J. H. Yao, J. Zhang, H. W. Yang, J. O. Wang, and E. Ma, Scr. Mater., 61: 423 (2009).",
+				"tr":  "B. J. Yang, J. H. Yao, J. Zhang, H. W. Yang, J. O. Wang, and E. Ma, Scr. Mater., 61: 423 (2009)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(02)00163-6",
+				"or":  "J. C. Li, Z. K. Zhao, and Q. Jiang, Mater. Sci. Eng. A, 339: 205 (2003).",
+				"tr":  "J. C. Li, Z. K. Zhao, and Q. Jiang, Mater. Sci. Eng. A, 339: 205 (2003)."
+			},
+			{
+				"doi": "10.1016/j.msea.2009.03.013",
+				"or":  "A. B. El-Shabasy, H. A. Hassan, Y. Liu, D. Li, and J. J. Lewandowski, Mater. Sci. Eng. A, 513–514: 202 (2009).",
+				"tr":  "A. B. El-Shabasy, H. A. Hassan, Y. Liu, D. Li, and J. J. Lewandowski, Mater. Sci. Eng. A, 513–514: 202 (2009)."
+			},
+			{
+				"doi": "10.1088/1742-6596/144/1/012079",
+				"or":  "K. B. Surreddi, S. Scudino, H. V. Nguyen, K. Nikolowski, M. Stoica, M. Sakaliyska, J. S. Kim, T. Gemming, J. Vierke, M. Wollgarten, and J. Eckert, J. Phys.: Conf. Ser., 144: 012079 (2009).",
+				"tr":  "K. B. Surreddi, S. Scudino, H. V. Nguyen, K. Nikolowski, M. Stoica, M. Sakaliyska, J. S. Kim, T. Gemming, J. Vierke, M. Wollgarten, and J. Eckert, J. Phys.: Conf. Ser., 144: 012079 (2009)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(03)00682-0",
+				"or":  "O. N. Senkov, D. B. Miracle, J. M. Scott, and S. V. Senkova, J. Alloy Compd., 365: 126 (2004).",
+				"tr":  "O. N. Senkov, D. B. Miracle, J. M. Scott, and S. V. Senkova, J. Alloy Compd., 365: 126 (2004)."
+			},
+			{
+				"doi": "10.1016/j.msea.2006.03.081",
+				"or":  "A. P. Shpak, V. N. Varyukhin, V. I. Tkatch, V. V. Maslov, Y. Y. Beygelzimer, S. G. Synkov, V. K. Nosenko, and S. G. Rassolov, Mater. Sci. Eng. A, 425: 172 (2006).",
+				"tr":  "A. P. Shpak, V. N. Varyukhin, V. I. Tkatch, V. V. Maslov, Y. Y. Beygelzimer, S. G. Synkov, V. K. Nosenko, and S. G. Rassolov, Mater. Sci. Eng. A, 425: 172 (2006)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2005.04.034",
+				"or":  "K. L. Sahoo, M. Wollgarten, J. Haug, and J. Banhart, Acta Mater., 53: 3861 (2005).",
+				"tr":  "K. L. Sahoo, M. Wollgarten, J. Haug, and J. Banhart, Acta Mater., 53: 3861 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "V. K. Nosenko, E. A. Segida, A. A. Nazarenko, V. V. Maksimov, E. A. Sviridova, and S. A. Kostyrya, Nanosistemi, Nanomateriali, Nanotehnologii, 11, No. 1: 57 (2013) (in Russian).",
+				"tr":  "V. K. Nosenko, E. A. Segida, A. A. Nazarenko, V. V. Maksimov, E. A. Sviridova, and S. A. Kostyrya, Nanosistemi, Nanomateriali, Nanotehnologii, 11, No. 1: 57 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. S. Gorelik, Yu. A. Skakov, and L. N. Rastorguev, Rentgenograficheskiy i Elektronno-Mikroskopicheskiy Analiz [Roentgenographic and Electron-Microscopy Analysis] (Moscow: MISiS: 2002) (in Russian).",
+				"tr":  "S. S. Gorelik, Yu. A. Skakov, and L. N. Rastorguev, Rentgenograficheskiy i Elektronno-Mikroskopicheskiy Analiz [Roentgenographic and Electron-Microscopy Analysis] (Moscow: MISiS: 2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. E. Abrosimova and A. S. Aronin, Fizika Tverdogo Tela, 44: 961 (2002) (in Russian).",
+				"tr":  "G. E. Abrosimova and A. S. Aronin, Fizika Tverdogo Tela, 44: 961 (2002) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S1359-6462(03)00127-1",
+				"or":  "P. Wesseling, B. C. Ko, and J. J. Lewandowski, Scr. Mater., 48: 1537 (2003).",
+				"tr":  "P. Wesseling, B. C. Ko, and J. J. Lewandowski, Scr. Mater., 48: 1537 (2003)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2004.07.005",
+				"or":  "M. Kusy, P. Riello, and L. Battezzati, Acta Materialia, 52: 5031 (2004).",
+				"tr":  "M. Kusy, P. Riello, and L. Battezzati, Acta Materialia, 52: 5031 (2004)."
+			},
+			{
+				"doi": "10.1016/j.msea.2003.10.212",
+				"or":  "J. O. Wang, H. W. Zhang, X. J. Gu, K. Lu, F. Sommer, and E. J. Mittemeijer, Mater. Sci. Eng. A, 375–377: 980 (2004).",
+				"tr":  "J. O. Wang, H. W. Zhang, X. J. Gu, K. Lu, F. Sommer, and E. J. Mittemeijer, Mater. Sci. Eng. A, 375–377: 980 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "G. E. Abrosimova, A. S. Aronin, O. I. Barkalov, and M. M. Dement’eva, Fizika Tverdogo Tela, 55: 1773 (2013) (in Russian).",
+				"tr":  "G. E. Abrosimova, A. S. Aronin, O. I. Barkalov, and M. M. Dement'eva, Fizika Tverdogo Tela, 55: 1773 (2013) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0965-9773(99)00200-7",
+				"or":  "G. E. Abrosimova, A. S. Aronin, Y. V. Kir’janov, T. F. Gloriant, and A. L. Greer, Nanostructured Materials, 12: 617 (1999).",
+				"tr":  "G. E. Abrosimova, A. S. Aronin, Y. V. Kir'janov, T. F. Gloriant, and A. L. Greer, Nanostructured Materials, 12: 617 (1999)."
+			},
+			{
+				"doi": "10.1016/j.jnoncrysol.2011.02.029",
+				"or":  "V. I. Tkatch, S. G. Rassolov, V. V. Popov, V. V. Maksimov, V. V. Maslov, V. K. Nosenko, A. S. Aronin, G. E. Abrosimova, and O. G. Rybchenko, J. Non-Cryst. Solids, 357: 1628 (2011).",
+				"tr":  "V. I. Tkatch, S. G. Rassolov, V. V. Popov, V. V. Maksimov, V. V. Maslov, V. K. Nosenko, A. S. Aronin, G. E. Abrosimova, and O. G. Rybchenko, J. Non-Cryst. Solids, 357: 1628 (2011)."
+			},
+			{
+				"doi": "10.1016/j.jnoncrysol.2003.08.016",
+				"or":  "J. Antonowicz, P. Jaskiewicz, L. Nowinski, and K. Pekala, J. Non-Cryst. Solids, 329: 77 (2003).",
+				"tr":  "J. Antonowicz, P. Jaskiewicz, L. Nowinski, and K. Pekala, J. Non-Cryst. Solids, 329: 77 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "F. A. Shunk, Constitution of Binary Alloys. Second Supplement (New York: McGraw-Hill: 1969).",
+				"tr":  "F. A. Shunk, Constitution of Binary Alloys. Second Supplement (New York: McGraw-Hill: 1969)."
+			},
+			{
+				"doi": "",
+				"or":  "P. I. Kripyakevich and E. I. Gladyshevskj, Kristallografiya, 6, No. 1: 118 (1961) (in Russian).",
+				"tr":  "P. I. Kripyakevich and E. I. Gladyshevskj, Kristallografiya, 6, No. 1: 118 (1961) (in Russian)."
+			},
+			{
+				"doi": "10.1080/13642819208220112",
+				"or":  "Q. Li, E. Johnson, M. B. Madsen, A. Johansen, and L. Sarholt-Kristensen, Philosophical Magazine B, 66, No. 4: 427 (1992).",
+				"tr":  "Q. Li, E. Johnson, M. B. Madsen, A. Johansen, and L. Sarholt-Kristensen, Philosophical Magazine B, 66, No. 4: 427 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Mudry, Y. Kulyk, B. Kotur, M. Kovbuz, and O. Hertsyk, Arch. Mater. Sci., 25, No. 4: 373 (2004).",
+				"tr":  "S. Mudry, Y. Kulyk, B. Kotur, M. Kovbuz, and O. Hertsyk, Arch. Mater. Sci., 25, No. 4: 373 (2004)."
+			},
+			{
+				"doi": "10.1016/j.msea.2007.08.009",
+				"or":  "M. C. Gao, F. Guo, S. J. Poon, and G. J. Shiflet, Mater. Sci. Eng. A, 485: 532 (2008).",
+				"tr":  "M. C. Gao, F. Guo, S. J. Poon, and G. J. Shiflet, Mater. Sci. Eng. A, 485: 532 (2008)."
+			},
+			{
+				"doi": "10.6028/jres.057.026",
+				"or":  "H. E. Kissinger, J. Res. Natl. Bur. Stand., 57, No. 4: 217 (1956).",
+				"tr":  "H. E. Kissinger, J. Res. Natl. Bur. Stand., 57, No. 4: 217 (1956)."
+			},
+			{
+				"doi": "10.1063/1.1750380",
+				"or":  "A. N. Kolmogorov, Bull. Acad. Sci. USSR. Ser. Math., 3: 355 (1937) (in Russian); W. A. Johnson and R. E. Mehl, Trans. Amer. Inst. Min. Met., 135: 416 (1939); M. Avrami, J. Chem. Phys., 7, No. 12: 1103 (1939).",
+				"tr":  "A. N. Kolmogorov, Bull. Acad. Sci. USSR. Ser. Math., 3: 355 (1937) (in Russian); W. A. Johnson and R. E. Mehl, Trans. Amer. Inst. Min. Met., 135: 416 (1939); M. Avrami, J. Chem. Phys., 7, No. 12: 1103 (1939)."
+			},
+			{
+				"doi": "",
+				"or":  "J. W. Christian, The Theory of Transformations in Metals and Alloys (Oxford: Pergamon: 1965).",
+				"tr":  "J. W. Christian, The Theory of Transformations in Metals and Alloys (Oxford: Pergamon: 1965)."
+			},
+			{
+				"doi": "10.1134/S0031918X07110063",
+				"or":  "V. I. Tkach, S. G. Rassolov, T. N. Moiseeva, and V. V. Popov, Phys. Met. Metallogr., 104, No. 5: 478 (2007).",
+				"tr":  "V. I. Tkach, S. G. Rassolov, T. N. Moiseeva, and V. V. Popov, Phys. Met. Metallogr., 104, No. 5: 478 (2007)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(00)00196-8",
+				"or":  "A. K. Gangopadhyay, T. K. Croat, and K. F. Kelton, Acta Mater., 48: 4797 (2000).",
+				"tr":  "A. K. Gangopadhyay, T. K. Croat, and K. F. Kelton, Acta Mater., 48: 4797 (2000)."
+			},
+			{
+				"doi": "10.1002/pssc.200983374",
+				"or":  "S. G. Rassolov, V. I. Tkatch, V. V. Maslov, V. V. Maksimov, K. A. Svyrydova, and I. V. Zhikharev, phys. status solidi (c), 7, No. 5: 1340 (2010).",
+				"tr":  "S. G. Rassolov, V. I. Tkatch, V. V. Maslov, V. V. Maksimov, K. A. Svyrydova, and I. V. Zhikharev, phys. status solidi (c), 7, No. 5: 1340 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "U. Köster and U. Herold, Glassy Metals I (Eds. H. J. Günterodt and H. Beck) (New York: Springer: 1981).",
+				"tr":  "U. Köster and U. Herold, Glassy Metals I (Eds. H. J. Günterodt and H. Beck) (New York: Springer: 1981)."
+			},
+			{
+				"doi": "10.1063/1.361376",
+				"or":  "G. Yu and J. K. L. Lai, J. Appl. Phys., 79: 3504 (1996).",
+				"tr":  "G. Yu and J. K. L. Lai, J. Appl. Phys., 79: 3504 (1996)."
+			},
+			{
+				"doi": "10.1179/026708399101505978",
+				"or":  "T. Kasuya, K. Ischikawa, M. Fuji, and H. K. D. H. Bhadeshia, Mater. Sci. Technol., 15, No. 4: 471 (1999).",
+				"tr":  "T. Kasuya, K. Ischikawa, M. Fuji, and H. K. D. H. Bhadeshia, Mater. Sci. Technol., 15, No. 4: 471 (1999)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(00)01526-4",
+				"or":  "K. Kristiakova and P. Svec, Mater. Sci. Eng. A, 304–306: 343 (2001).",
+				"tr":  "K. Kristiakova and P. Svec, Mater. Sci. Eng. A, 304–306: 343 (2001)."
+			}
+		]
+	}
+}

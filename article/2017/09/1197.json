@@ -1,0 +1,135 @@
+{
+	"_id":    "MFiNT.39.09.1197",
+	"year":   2017,
+	"volume": 39,
+	"issue":  9,
+	"pages":  [1197,1211],
+	"rubric": 14,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["26.07.2017"],
+	"PACS":   "46.50.+a, 62.20.fk, 62.20.mj, 62.20.mm, 81.40.Ef, 81.40.Jj, 81.40.Np",
+	"title":   {
+		"ua": "Формування оптимальної конструкційної міцности авіяційних кріпильних прогоничів з титанових стопів",
+		"en": "Formation of Optimum Structural Strength of Aviation Fastening Bolts from Titanium Alloys",
+		"ru": "Формирование оптимальной конструкционной прочности авиационных крепёжных болтов из титановых сплавов"
+	},
+	"abstract": {
+		"ua": "Розроблено методологію формування оптимальної конструкційної міцности $\\tau_{ср.}$ авіяційних кріпильних прогоничів з титанових стопів з метою збалансованости поєднання властивостей міцности та пластичности шляхом раціонального підбору комплексу їхніх базових механічних характеристик: умовної межі плинности $\\sigma_{0,2}$, границі міцности $\\sigma_{В}$, відносного звуження в момент руйнування зразка $\\psi_{K}$. Встановлено, що величину конструкційної міцности $\\tau_{ср.}$ авіяційних кріпильних прогоничів з титанових стопів формують базові механічні характеристики $\\sigma_{0,2}$, $\\sigma_{В}$ і $\\psi_{K}$, а також показник істинного напруження в момент руйнування зразка $S_K$ при випробуваннях на одновісний розтяг. Показано, що з метою підвищення величини конструкційної міцности авіяційних кріпильних прогоничів з титанових стопів до потрібного рівня $\\tau_{ср.} \\cong$ 850 МПа зусилля технологів мають бути спрямовані на збільшення рівня параметра $\\sigma_{0,2}$/$\\sigma_{В}$ та зниження величини показника деформаційного зміцнення $n$ перспективних титанових стопів. Умови формування такого комплексу властивостей уможливлюють не тільки цілеспрямовано формувати найліпші значення $\\tau_{ср.}$, але й давати обґрунтовану прогнозну оцінку можливости подальшого підвищення цього показника.",
+		"en": "A methodology of formation of the optimal structural strength $\\tau_{slice}$ is developed. Aviation fastening bolts made from titanium alloys for the purpose of balance of the combination of strength and plasticity properties by rational selection of a set of their basic mechanical characteristics, i.e., the conditional yield strength $\\sigma_{Y}$, the ultimate tensile strength $\\sigma_{S}$, and the relative reduction in area $\\psi$ at the moment of sample destruction. As determined, the value of the structural strength $\\tau_{slice}$ of aviation fastening bolts made from titanium alloys is formed by these basic mechanical characteristics, $\\sigma_{Y}$, $\\sigma_{S}$, and $\\psi$, as well as by the true fracture stress $S_f$ under uniaxial tension tests. As shown, in order to increase the structural strength of aviation fastening bolts made from titanium alloys up to the required level of $\\tau_{slice} \\cong$ 850 MPa, technologists’ efforts must be aimed to increase the level of parameter $\\sigma_{Y}$/$\\sigma_{S}$ and to reduce the strain hardening exponent $n$ for advanced titanium alloys. The formation conditions for such a complex of properties make possible not only to form the best values of $\\tau_{slice}$ purposefully, but also to give a justified forecast estimation of the possibility of further increase of this parameter.",
+		"ru": "Разработана методология формирования оптимальной конструкционной прочности $\\tau_{ср.}$ авиационных крепёжных болтов из титановых сплавов с целью сбалансированности сочетания свойств прочности и пластичности путём рационального подбора комплекса их базовых механических характеристик: условного предела текучести $\\sigma_{0,2}$, предела прочности $\\sigma_{В}$, относительного сужения в момент разрушения образца $\\psi_{K}$. Установлено, что величину конструкционной прочности $\\tau_{ср.}$ авиационных крепёжных болтов из титановых сплавов формируют базовые механические характеристики $\\sigma_{0,2}$, $\\sigma_{В}$ и $\\psi_{K}$, а также показатель истинного напряжения в момент разрушения образца $S_K$ при испытаниях на одноосное растяжение. Показано, что с целью повышения величины конструкционной прочности авиационных крепёжных болтов из титановых сплавов до требуемого уровня $\\tau_{ср.} \\cong$ 850 МПа усилия технологов должны быть направлены на увеличение уровня параметра $\\sigma_{0,2}$/$\\sigma_{В}$ и снижение величины показателя деформационного упрочнения $n$ перспективных титановых сплавов. Условия формирования такого комплекса свойств позволяют не только целенаправленно формировать наилучшие значения $\\tau_{ср.}$, но и давать обоснованную прогнозную оценку возможности дальнейшего повышения этого показателя."
+	},
+	"keywords": {
+		"ua": "кріпильні прогоничи, титанові стопи, конструкційна міцність, окрихчення, оптимізація механічних властивостей",
+		"en": "fastening bolts, titanium alloys, structural strength, embrittlement, optimization of mechanical properties",
+		"ru": "крепёжные болты, титановые сплавы, конструкционная прочность, охрупчивание, оптимизация механических свойств"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. М. Івасишин", "en": "O. M. Ivasishin", "ru": "О. М. Ивасишин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "П. Є. Марковський", "en": "P. E. Markovsky", "ru": "П. Е. Марковский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Ю. Я. Мєшков", "en": "Yu. Ya. Meshkov", "ru": "Ю. Я. Мешков"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. В. Шиян", "en": "А. V. Shiyan", "ru": "А. В. Шиян"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 17,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Металлы. Метод испытания на срез: ОСТ 1.90148–74.",
+				"tr":  "Metally. Metod Ispytaniya na Srez: OST 1.90148–74 [Metals Shear Test Method: OST 1.90148–74] (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Ивасишин, П. Е. Марковский, А. Г. Моляр, С. Л. Антонюк, И. М. Гавриш, Материалы Международной конференции «Титан-2012 в СНГ» (22–25 апреля 2012, Казань), с. 39.",
+				"tr":  "O. M. Ivasishin, P. E. Markovsky, A. G. Molyar, S. L. Antonyk, and I. M. Gavrysh, Proc. International Conference 'Titan-2012 in CIS» (April 22–25, 2012, Kazan), p. 39 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Я. Мешков, А. В. Шиян, Механика машин, механизмов и материалов, № 1: 79 (2017).",
+				"tr":  "Yu. Ya. Meshkov and A. V. Shiyan, Mekhanika Mashin, Mekhanizmov i Materialov, No. 1: 79 (2017) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Биргер, Г. Б. Иосилевич, Резьбовые и фланцевые соединения (Москва: Машиностроение: 1990).",
+				"tr":  "I. A. Birger and G. B. Iosilevich, Rez'bovye i Flantsevye Soedineniya [Threaded and Flanged Connections] (Moscow: Mashinostroenie: 1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Шиян, Ю. Я. Мешков, Д. Г. Саввакин, Механика машин, механизмов и материалов, № 4: 70 (2015).",
+				"tr":  "A. V. Shiyan, Yu. Ya. Meshkov, and D. G. Savvakin, Mekhanika Mashin, Mekhanizmov i Materialov, No. 4: 70 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Б. Иосилевич, Концентрация напряжений и деформаций в деталях машин (Москва: Машиностроение: 1981).",
+				"tr":  "G. B. Iosilevich, Kontsentratsiya Napryazheniy i Deformatsiy v Detalyakh Mashin [Concentration of Stresses and Strains in Machine Parts] (Moscow: Mashinostroenie: 1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Н. Савин, В. И. Тульчий, Справочник по концентрации напряжений (Киев: ПО «Высшая школа»: 1976).",
+				"tr":  "G. N. Savin and V. I. Tul'chiy, Spravochnik po Kontsentratsii Napryazheniy [Handbook of Stress Concentration] (Kiev: PO 'Vysshaya Shkola': 1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "J. H. Hollomon, Trans. AIME. Iron Steel Div., 162: 268 (1945).",
+				"tr":  "J. H. Hollomon, Trans. AIME. Iron Steel Div., 162: 268 (1945)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2007.03.070",
+				"or":  "O. M. Ivasishin, P. E. Markovsky, Yu. V. Matviychuk, S. L. Semiatin, C. H. Ward, and S. Fox, J. Alloys Compd., 457, Iss. 1–2: 296 (2008).",
+				"tr":  "O. M. Ivasishin, P. E. Markovsky, Yu. V. Matviychuk, S. L. Semiatin, C. H. Ward, and S. Fox, J. Alloys Compd., 457, Iss. 1–2: 296 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Е. Марковский, Металлофиз. новейшие технол., 31, № 4: 511 (2009).",
+				"tr":  "P. E. Markovsky, Metallofiz. Noveishie Tekhnol., 31, No. 4: 511 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Ивасишин, П. Е. Марковский, А. Г. Моляр, В. О. Мушегян, О. В. Мушегян, Материалы Международной конференции «Титан-2012 в СНГ» (22–25 апреля 2012, Казань), с. 102.",
+				"tr":  "O. M. Ivasishin, P. E. Markovsky, A. G. Molyar, V. O. Mushegyan, and O. V. Mushegyan, Proc. International Conference 'Titan-2012 in CIS» (April 22–25, 2012, Kazan), p. 102 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "І. М. Гавриш, Формування високоміцних структурно-фазових станів у деталях кріплення з титанового сплаву ВТ22 при обробленні в нерівноважних умовах (Дис.  канд. техн. наук) (Київ: ДП «Антонов»: 2017).",
+				"tr":  "I. M. Havrysh, Formuvannya Vysokomitsnykh Strukturno-Fazovykh Staniv u Detalyakh Kriplennya z Tytanovogo Splavu VT22 pry Obroblenni v Nerivnovazhnykh Umovakh [Formation of High-Strength Structural-Phase States in the Fastening Parts from Titanium Alloy VT22 under Non-Equilibrium Treatment] (Disser. … for Cand. Techn. Sci.) (Kyiv: 'Antonov' Company: 2017) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Ивасишин, П. Е. Марковский, С. А. Котречко, Ю. Я. Мешков, А. В. Шиян, Металлофиз. новейшие технол., 35, № 1: 129 (2013).",
+				"tr":  "O. M. Ivasishin, P. E. Markovsky, S. A. Kotrechko, Yu. Ya. Meshkov, and A. V. Shiyan, Metallofiz. Noveishie Tekhnol., 35, No. 1: 129 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Я. Мешков, С. А. Котречко, А. В. Шиян, Механическая стабильность металлов и сплавов (Киев: Наукова думка: 2014).",
+				"tr":  "Yu. Ya. Meshkov, S. A. Kotrechko, and A. V. Shiyan, Mekhanicheskaya Stabil'nost' Metallov i Splavov [Mechanical Stability of Metals and Alloys] (Kyiv: Naukova Dumka: 2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Шиян, Наукові основи формування раціонального комплексу механічних властивостей конструкційних сталей і титанових сплавів (Дис.  д-ра техн. наук) (Дніпропетровськ: Державний вищий навчальний заклад «Придніпровська Державна академія будівництва та архітектури»: 2016).",
+				"tr":  "A. V. Shiyan, Naukovi Osnovy Formuvannya Ratsional'nogo Kompleksu Mekhanichnykh Vlastyvostey Konstruktsiynykh Staley i Tytanovykh Splaviv [Scientific Basis for the Formation of a Rational Complex of Mechanical Properties of Structural Steels and Titanium Alloys] (Disser. … for Dr. Techn. Sci.) (Dnipropetrovsk: Prydniprovs'ka State Academy of Civil Engineering and Architecture: 2016) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. А. Колачев, А. В. Мальков, Физические основы разрушения титана (Москва: Металлургия: 1983).",
+				"tr":  "B. A. Kolachev and A. V. Mal'kov, Fizicheskie Osnovy Razrusheniya Titana [Physical Basis of Titanium Destruction] (Moscow: Metallurgiya: 1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Т. Трощенко, В. В. Покровский, В. Л. Ярусевич, Проблемы прочности, № 8: 30 (1991).",
+				"tr":  "V. T. Troshchenko, V. V. Pokrovskiy, and V. L. Yarusevich, Problemy Prochnosti, No. 8: 30 (1991) (in Russian)."
+			}
+		]
+	}
+}

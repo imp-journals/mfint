@@ -1,0 +1,41 @@
+{
+	"_id":    "MFiNT.37.0157",
+	"year":   2015,
+	"volume": 37,
+	"issue":  2,
+	"pages":  [157,168],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["08.07.2014"],
+	"PACS":   "07.81.+a, 07.85.Qe, 29.30.Dn, 71.10.Pm, 73.20.-r, 79.60.Bm, 79.60.Dp",
+	"title":  {
+		"ua": "Виявлення початку формування двовимірного електронного газу на поверхні топологічного ізолятора",
+		"en": "Detection of Early Formation of Two-Dimensional Electron Gas on the Surface of Topological Insulator",
+		"ru": "Выявление начала формирования двумерного электронного газа на поверхности топологического изолятора"
+	},
+	"abstract": {
+		"ua": "Розвинуто методу попіксельного зіставлення інтенсивности фотоемісійних спектрів з кутовим розріжненням та зареєстровано з його допомогою початок формування двовимірного електронного газу на поверхні топологічного ізолятора. Також розроблена метода уможливлює оцінити ступінь нелінійности фотоелектронного детектора безпосередньо з експериментальних даних, що створює необхідні умови для аналізи форми ліній фотоемісійних спектрів.",
+		"en": "A method of pixel-by-pixel intensity comparison for angle resolved photoemission spectra is developed. This method is used to detect the beginning of two-dimensional electron-gas formation on the surface of a topological insulator. In addition, the developed method allows estimating the degree of nonlinearity of the photoelectron detector directly from the experimental data. It creates the necessary conditions for the analysis of shape of the line of photoemission spectra.",
+		"ru": "Развит метод попиксельного сопоставления интенсивности фотоэмиссионных спектров с угловым разрешением и с его помощью зарегистрировано начало формирования двумерного электронного газа на поверхности топологического изолятора. Также разработанный метод позволяет оценить степень нелинейности фотоэлектронного детектора непосредственно из экспериментальных данных, что создаёт необходимые условия для анализа формы линий фотоэмиссионных спектров."
+	},
+	"keywords": {
+		"ua": "ARPES, електронний спектр, топологічний діелектрик, двовимірний електронний газ",
+		"en": "ARPES, electronic spectrum, topological insulator, two-dimensional electron gas",
+		"ru": "ARPES, электронный спектр, топологический диэлектрик, двумерный электронный газ"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. Л. Прокопович", "en": "M. L. Prokopovych", "ru": "М. Л. Прокопович"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Є. С. Кушніренко", "en": "Ye. S. Kushnirenko", "ru": "Е. С. Кушниренко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 17,
+		"list":  []
+	}
+}

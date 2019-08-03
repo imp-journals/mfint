@@ -1,0 +1,166 @@
+{
+	"_id":    "MFiNT.40.08.1093",
+	"year":   2018,
+	"volume": 40,
+	"issue":  8,
+	"pages":  [1093,1111],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["18.01.2018"],
+	"PACS":   "61.05.cf, 61.05.cp, 64.75.Nx, 75.60.Ej, 75.75.Cd, 81.07.Wx, 81.20.Ev, 81.70.Jb",
+	"title":   {
+		"ua": "Дослідження процесу розчиноутворення та формування інтерметалевих сполук при механоактивації та відпалі крупнозернистих порошкових сумішей міді з алюмінієм та марганцем",
+		"en": "Study of Process of Formation of Solid Solutions and Intermetallic Compounds at Mechanical Activation and Annealing of Coarse-Grained Powder Blends of Copper with Aluminum and Manganese",
+		"ru": "Исследование процесса растворообразования и формирования интерметаллических соединений при механоактивации и отжиге крупнозернистых порошковых смесей меди с алюминием и марганцем"
+	},
+	"abstract": {
+		"ua": "Методами рентґеноструктурної аналізи та магнетометрії досліджено вплив ультразвукового оброблення (УЗО) у кульовому млині на фазово-структурні характеристики та магнетні властивості крупнозернистих порошкових сумішей (КЗПС) міді з алюмінієм і манґаном. Показано, що ультразвукове оброблення КЗПС (Cu + Mn, Al) приводить до взаємного розчинення металів, зміни їхнього фазового складу та дисперсности. При цьому розчинення металів є тим більшим, чим ширша область їхньої взаємної розчинности на рівноважних діяграмах стану. Крім того, показано, що механоактиваційне оброблення у кульовому млині приводить до значного подрібнення структури та підвищення густини дислокацій. Наступний відпал оброблених ультразвуком КЗПС показав, що на дифрактограмах, крім ліній від твердих розчинів, з’являються лінії від чистих металів, що свідчить про початок переходу порошкових систем до рівноважного стану. Концентрації Алюмінію, Манґану та Купруму в КЗПС, а також розміри ОКР при відпалах майже не змінюються в порівнянні з вихідними значеннями (після УЗО), що свідчить про достатньо високу термічну стійкість КЗПС, оброблених в ультразвуковому млині. На нашу думку, це може бути зумовлено наявністю на поверхні частинок оксидних оболонок, які можуть істотно гальмувати дифузійні процеси. Рівноважні феромагнетні фази Cu$_2$MnAl та MnAl відсутні в КЗПС Cu + Mn + Al та Mn + Al, що може бути пов’язано з наявністю у порошкових сумішах оксидів металів і з впливом розмірного чинника.",
+		"en": "Influence of ultrasonic treatment (UST) in ball mill on structure–phase characteristics and magnetic properties of coarse-grained powder mixtures (CGPM) of copper with aluminium and manganese is studied by X-ray analysis and magnetic methods. As shown, UST of the (Cu + Mn, Al) CGPM results in mutual dissolution of metals, change of phase state and dispersity. Dissolution of metals depends on width of mutual solubility region on equilibrium state diagrams. Mechanical activation treatment in ball mill results in considerable grinding of structure and in dislocation density increasing. After annealing of CGPM fabricated by UST, additional lines of poor metals appear in X-ray diffractogram that points to beginning of powder-systems’ transition into equilibrium state. Concentrations of aluminium, copper and manganese in CGPM as well as the sizes of coherent scattering regions do not practically change that indicates a high thermal stability of CGPM fabricated in ultrasonic mill. As supposed, these peculiarities may by conditioned by presence of oxide coatings, which inhibit diffusion processes. Equilibrium ferromagnetic phases of Cu$_2$MnAl and MnAl are absent in the Cu + Mn + Al and Mn + Al CGPM that may by connected with the presence of metal oxides in powder mixtures and with influence of size factor.",
+		"ru": "Методами рентгеноструктурного анализа и магнитометрии исследовано влияние ультразвуковой обработки (УЗО) в шаровой мельнице на фазово-структурные характеристики и магнитные свойства крупнозернистых порошковых смесей (КЗПС) меди с алюминием и марганцем. Показано, что ультразвуковая обработка КЗПС (Cu + Mn, Al) приводит к взаимному растворению металлов, изменению их фазового состава и дисперсности. При этом растворение металлов тем больше, чем шире область их взаимной растворимости на равновесных диаграммах состояния. Кроме этого, показано, что механоактивационная обработка в шаровой мельнице приводит к значительному измельчению структуры и повышению плотности дислокаций. Последующий отжиг обработанных ультразвуком КЗПС показал, что на дифрактограммах, кроме линий твёрдых растворов, появляются линии чистых металлов, что свидетельствует о начале перехода порошковых систем в равновесное состояние. Концентрации алюминия, марганца и меди в КЗПС, а также размеры ОКР при отжигах почти не изменяются по сравнению с исходными значениями (после УЗО), что свидетельствует о достаточно высокой термической стойкости КЗПС, обработанных в ультразвуковой мельнице. По нашему мнению, это может быть обусловлено наличием на поверхности частиц оксидных оболочек, которые могут существенно тормозить диффузионные процессы. Равновесные ферромагнитные фазы Cu$_2$MnAl и MnAl отсутствуют в КЗПС Cu + Mn + Al и Mn + Al, что может быть связано с наличием в порошковых смесях оксидов металлов и с влиянием размерного фактора."
+	},
+	"keywords": {
+		"ua": "грубодисперсні порошки, ультразвукове розмелювання, магнетні властивості, рентґеноструктурна аналіза, магнетометрія",
+		"en": "coarse-grained powders, ultrasonic milling, magnetic properties, X-ray structural analysis, magnetometry",
+		"ru": "крупнодисперсные порошки, ультразвуковой размол, магнитные свойства, рентгеноструктурный анализ, магнитометрия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. М. Надутов", "en": "V. M. Nadutov", "ru": "В. М. Надутов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. О. Перекос", "en": "A. O. Perekos", "ru": "А. Е. Перекос"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Б. М. Мордюк", "en": "B. M. Mordyuk", "ru": "Б. Н. Мордюк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. З. Войнаш", "en": "V. Z. Voinash", "ru": "В. З. Войнаш"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Т. В. Єфімова", "en": "T. V. Efimova", "ru": "Т. В. Ефимова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. П. Залуцький", "en": "V. P. Zalutskiy", "ru": "В. П. Залуцкий"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Т. Г. Кабанцев", "en": "T. G. Kabantsev", "ru": "Т. Г. Кабанцев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Н. О. Піскун", "en": "N. O. Piskun", "ru": "Н. А. Пискун"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 20,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "А. П. Гуляев, Металловедение (Москва: Металлургия: 1986).",
+				"tr":  "A. P. Gulyayev, Metallovedenie [Metal Science] (Moscow: Metallurgiya: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Двойные и многокомпонентные системы на основе меди (Ред. С. В. Шухарина) (Москва: Наука: 1979).",
+				"tr":  "Dvoinyye i Mnogokomponentnye Sistemy na Osnove Medi [Binary and Multicomponent Systems Based on Copper] (Ed. S. V. Shukharin) (Moscow: Nauka: 1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Кокорин, Мартенситные превращения в неоднородных твердых растворах (Киев: Наукова думка: 1987).",
+				"tr":  "V. V. Kokorin, Martensitnye Prevrashcheniya v Neodnorodnykh Tverdykh Rastvorakh [Martensitic Transformations in Heterogeneous Solid Solutions] (Kiev: Naukova Dumka: 1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. И. Власова, Г. С. Кандаурова, Я. С. Шур, Н. Н. Быханова, Физика металлов и металловедение, 51, № 6: 1127 (1981).",
+				"tr":  "N. I. Vlasova, G. S. Kandaurova, Ya. S. Shur, and N. N. Bykhanova, Fizika Metallov i Metallovedenie, 51, No. 6: 1127 (1981) (in Russian)."
+			},
+			{
+				"doi": "10.1002/pssb.2221160202",
+				"or":  "K. H. Fisher, phys. status solidi (b), 116, Iss. 2: 357 (1983).",
+				"tr":  "K. H. Fisher, phys. status solidi (b), 116, Iss. 2: 357 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "О. В. Козлов, Б. М. Мордюк, Г. І. Прокопенко, Пристрій для отримання порошкових матеріалів (Патент України № 59770А, 15.09.2003) (Бюл. № 9, 2003).",
+				"tr":  "A. V. Kozlov, B. N. Mordyuk, and G. I. Prokopenko, Prystriy dlya Otrymannya Poroshkovykh Materialiv [The Device for Obtaining Powder Materials] (Patent Ukraine No. 59770A, Sept.15, 2003) (Bull. No. 9, 2003) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/j.ultras.2004.01.001",
+				"or":  "B. N. Mordyuk and G. I. Prokopenko, Ultrasonics, 42, Nos. 19: 43 (2004)",
+				"tr":  "B. N. Mordyuk and G. I. Prokopenko, Ultrasonics, 42, Nos. 1-9: 43 (2004)."
+			},
+			{
+				"doi": "10.1038/nature00985",
+				"or":  "A. Calka, D. Wexler, Nature, 419: 147 (2002).",
+				"tr":  "A. Calka and D. Wexler, Nature, 419: 147 (2002)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2008.11.122",
+				"or":  "M. Zhu, L. Y. Dai, N. S. Gu, B. Cao, and L. Z. Ouyang, J. Alloys Compd., 478, Iss. 12: 624 (2009).",
+				"tr":  "M. Zhu, L. Y. Dai, N. S. Gu, B. Cao, and L. Z. Ouyang, J. Alloys Compd., 478, Iss. 1-2: 624 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. И. Прокопенко, К. В. Чуистов, А. В. Козлов и др., Металлофиз. новейшие технол., 25, № 2: 171 (2003).",
+				"tr":  "G. I. Prokopenko, K. V. Chuistov, O. V. Kozlov, A. Ye. Perekos, B. M. Mordyuk, T. V. Efimova et al., Metallofiz. Noveishie Tekhnol., 25, No. 2: 171 (2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Е. Перекос, Б. Н. Мордюк, Г. И. Прокопенко и др., Металлофиз. новейшие технол., 30, № 12: 1619 (2008).",
+				"tr":  "A. E. Perekos, B. N. Mordyuk, G. I. Prokopenko, T. V. Ruzhitska, T. V. Efimova, V. P. Zalutskyi, and N. D. Rud, Metallofiz. Noveishie Tekhnol., 30, No. 12: 1619 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Иверонова, Г. П. Ревкевич, Теория рассеяния рентгеновских лучей (Москва: Издательство МГУ: 1972).",
+				"tr":  "V. I. Iveronova and G. P. Revkevich, Teoriya Rasseyaniya Rentgenovskikh Luchey [Theory of X-Rays Scattering] (Moscow: MGU Publishing: 1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. С. Горелик, Ю. А. Скаков, Л. Н. Расторгуев, Рентгенографический и электронно-оптический анализ (Москва: МИСиС: 1994).",
+				"tr":  "S. S. Gorelik, Yu. A. Skakov, and L. N. Rastorguev, Rentgenograficheskiy i Ehlectronnoopticheskiy Analiz [X-Ray and Electron-Optic Analysis] (Moscow: MISiS: 1994) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. С. Уманский, Ю. А. Скаков, Физика металлов (Москва: Атомиздат: 1978).",
+				"tr":  "Ya. S. Umansky and Yu.A. Skakov, Fizika Metallov [Physics of Metals] (Moscow: Atomizdat: 1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Барабаш, Ю. Н. Коваль, Кристаллическая структура металлов и сплавов (Киев: Наукова думка: 1986).",
+				"tr":  "O. M. Barabash and Yu. N. Koval, Kristallicheskaya Struktura Metallov i Splavov [Crystalline Structure of Metals and Alloys] (Kiev: Naukova Dumka: 1986) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.40.04.0501",
+				"or":  "В. М. Надутов, А. О. Перекос, Б. М. Мордюк, В. З. Войнаш, Т. В. Єфімова, В. П. Залуцький, Т. Г. Кабанцев, Металлофиз. новейшие технол., 40, № 4: 501 (2018).",
+				"tr":  "V. M. Nadutov, A. E. Perekos, B. N. Mordyuk, V. Z. Voinash, T. V. Efimova, V. P. Zalutskyi, and T. G. Kabantsev, Metallofiz. Noveishie Tekhnol., 40, No. 4: 501 (2018) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Луценко, А. Е. Перекос, А. М. Гусак, Металлофиз. новейшие технол., 22, № 6: 73 (2000).",
+				"tr":  "G. V. Lutsenko, A. E. Perekos, and A. M. Gusak, Metallofiz. Noveishie Tekhnol., 22, No. 6: 73 (2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Д. Морохов, Л. И. Трусов, С. П. Чижик, Ультрадисперсные металлические среды (Москва: Атомиздат: 1967).",
+				"tr":  "I. D. Morokhov, L. I. Trusov, and S. P. Chizhik, Ultradispersnye Metallicheskie Sredy [Ultrafine Metallic Media] (Moscow: Atomizdat: 1967) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Гусев, А. А. Ремпель, Нанокристаллические материалы (Москва: Физматлит: 2001).",
+				"tr":  "A. I. Gusev and A. A. Rempel, Nanokristallicheskie Materialy [Nanocrystalline Materials] (Moscow: Fizmatgiz: 2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. А. Андриевский, А. В. Рагуля, Наноструктурные материалы (Москва: Академия: 2005).",
+				"tr":  "R. A. Andrievskiy and A. V. Ragulya, Nanostrukturnye Materialy [Nanostructured Materials] (Moscow: Akademiya: 2005) (in Russian)."
+			}
+		]
+	}
+}

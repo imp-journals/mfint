@@ -1,0 +1,176 @@
+{
+	"_id":    "MFiNT.38.10.1351",
+	"year":   2016,
+	"volume": 38,
+	"issue":  10,
+	"pages":  [1351,1366],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["16.08.2016"],
+	"PACS":   "61.43.Gt, 66.30.Fq, 66.30.Pa, 68.35.Dv, 68.55.J-, 68.60.Dv, 72.10.Fk, 73.61.At",
+	"title":   {
+		"ua": "Зростання наскрізних пор і термічне дисперґування суцільних полікристалічних плівок міді",
+		"en": "Growth of Through Pores and Thermal Dispersion of Continuous Polycrystalline Films of Copper",
+		"ru": "Рост сквозных пор и термическое диспергирование сплошных поликристаллических плёнок меди"
+	},
+	"abstract": {
+		"ua": "Наведено результати досліджень розпаду суцільних полікристалічних плівок міді на островки під дією нагріву. Встановлено, що попереднє відпалювання плівок за температури у 150°C підвищує їх термічну стабільність. Ефект, що спостерігається, пояснюється зміною мікроструктури плівок у процесі їх відпалювання. За допомогою електронно-мікроскопічних досліджень кінетики зростання наскрізних пор при нагріванні визначено енергію активації поверхневої самодифузії у плівках міді.",
+		"en": "The results of studies of dispersion of continuous polycrystalline films of copper onto the islands under the influence of temperature are presented. As found, the previous annealing of films at the temperature of 150°C increases their thermal stability. The observed effect can be explained by the change in the microstructure of films during the annealing process. The activation energy of surface self-diffusion in copper films is determined using electron-microscopy studies of the kinetics of through-pores’ growth while heating.",
+		"ru": "Приводятся результаты исследований распада сплошных поликристаллических плёнок меди на островки под действием нагрева. Установлено, что предварительный отжиг плёнок при температуре 150°C повышает их термическую стабильность. Наблюдаемый эффект объясняется изменением микроструктуры плёнок в процессе их отжига. С помощью электронно-микроскопических исследований кинетики роста сквозных пор при нагреве определена энергия активации поверхностной самодиффузии в плёнках меди."
+	},
+	"keywords": {
+		"ua": "термічна стабільність, енергія активації, поверхнева самодифузія, тонкі плівки міді",
+		"en": "thermal stability, activation energy, surface self-diffusion, copper thin films",
+		"ru": "термическая стабильность, энергия активации, поверхностная самодиффузия, тонкие плёнки меди"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. І. Петрушенко", "en": "S. I. Petrushenko", "ru": "С. И. Петрушенко"},
+			"OID": [206]
+		},
+		{
+			"AID": {"ua": "С. В. Дукаров", "en": "S. V. Dukarov", "ru": "С. В. Дукаров"},
+			"OID": [206]
+		},
+		{
+			"AID": {"ua": "В. М. Сухов", "en": "V. N. Sukhov", "ru": "В. Н. Сухов"},
+			"OID": [206]
+		}
+	],
+	"references": {
+		"count": 26,
+		"list":  [
+			{
+				"doi": "10.1134/S0031918X10030075",
+				"or":  "S. I. Bogatyrenko, N. T. Gladkikh, A. P. Kryshtal’, A. L. Samsonik, and V. N. Sukhov, Physics of Metals and Metallography, 109, Iss. 3: 255 (2010).",
+				"tr":  "S. I. Bogatyrenko, N. T. Gladkikh, A. P. Kryshtal', A. L. Samsonik, and V. N. Sukhov, Physics of Metals and Metallography, 109, Iss. 3: 255 (2010)."
+			},
+			{
+				"doi": "10.1134/S1063783414040210",
+				"or":  "A. A. Minenkov, S. I. Bogatyrenko, R. V. Sukhov, and A. P. Kryshtal, Phys. Solid State, 56, No. 4: 823 (2014).",
+				"tr":  "A. A. Minenkov, S. I. Bogatyrenko, R. V. Sukhov, and A. P. Kryshtal, Phys. Solid State, 56, No. 4: 823 (2014)."
+			},
+			{
+				"doi": "10.15407/fm23.02.218",
+				"or":  "S. V. Dukarov, S. I. Petrushenko, V. N. Sukhov, and O. I. Skryl, Functional Materials, 23, No. 2: 218 (2016).",
+				"tr":  "S. V. Dukarov, S. I. Petrushenko, V. N. Sukhov, and O. I. Skryl, Functional Materials, 23, No. 2: 218 (2016)."
+			},
+			{
+				"doi": "10.15407/mfint.36.04.0531",
+				"or":  "Р. И. Бигун, М. Д. Бучковская, В. М. Гаврилюх, О. Е. Кравченко, З. В. Стасюк, Д. С. Леонов, Металлофиз. новейшие технол.,36, № 4: 531 (2014).",
+				"tr":  "R. I. Bigun, M. D. Buchkovska, V. M. Gavrilyukh, O. E. Kravchenko, Z. V. Stasyuk, and D. S. Leonov, Metallofiz. Noveishie Tekhnol., 36, No. 4: 531 (2014) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. И. Бигун, А. Е. Кравченко, Д. С. Леонов, Я. А. Пастырский, Металлофиз. новейшие технол., 35, № 5: 603 (2013).",
+				"tr":  "R. I. Bigun, A. E. Kravchenko, D. S. Leonov, and Ya. A. Pastyrskiy, Metallofiz. Noveishie Tekhnol., 35, No. 5: 603, (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1088/0957-4484/26/32/322001",
+				"or":  "J. Langer, S. M. Novikov, and L. M. Liz-Marzán, Nanotechnology, 26 (32): 322001 (2015).",
+				"tr":  "J. Langer, S. M. Novikov, and L. M. Liz-Marzán, Nanotechnology, 26 (32): 322001 (2015)."
+			},
+			{
+				"doi": "10.1039/C3TC00597F",
+				"or":  "J. Varghese, R. W. Whatmore, and J. D. Holmes, J. Mater. Chem. C, 1: 2618 (2013).",
+				"tr":  "J. Varghese, R. W. Whatmore, and J. D. Holmes, J. Mater. Chem. C, 1: 2618 (2013)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2014.08.070",
+				"or":  "Shankar B. Dalavi and Rabi N. Panda, J. Magn. Magn. Mater., 374: 411 (2015).",
+				"tr":  "Shankar B. Dalavi and Rabi N. Panda, J. Magn. Magn. Mater., 374: 411 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Т. Гладких, А. П. Крышталь, Р. В. Сухов, Л. Н. Чепурная, Вопросы атомной науки и техники, № 4–2: 293 (2009).",
+				"tr":  "N. T. Gladkikh, A. P. Kryshtal, R. V. Sukhov, and L. N. Chepurnaya, Problems Atomic Sci. Technol., No. 4–2: 293 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Крыштал, А. А. Миненков, С. С. Джус, Журнал нано- и электронной физики, 7, № 1: 01024 (2015).",
+				"tr":  "A. P. Kryshtal , A. A. Minenkov, and S. S. Dzhus, Journal of Nano- and Electronic Physics, 7, No. 1: 01024 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Т. Гладких, С. В. Дукаров, В. Н. Сухов, Физика металлов и металловедение, 78 (3): 87 (1994).",
+				"tr":  "N. T. Gladkikh, S. V. Dukarov, and V. N. Sukhov, Fizika Metallov i Metallovedenie, 78 (3): 87 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Т. Гладких, С. В. Дукаров, А. П. Крышталь, В. И. Ларин. Физика металлов и металловедение, 85 (5): 51 (1998).",
+				"tr":  "N. T. Gladkikh, S. V. Dukarov, A. P. Kryshtal, and V. I. Larin, Fizika Metallov i Metallovedenie, 85 (5): 51 (1998) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Зленко, М. Г. Демиденко, С. И. Проценко, А. В. Боюн, А. А. Возный, Журнал нано- и электронной физики, 4, № 4: 04023 (2012).",
+				"tr":  "V. A. Zlenko, M. G. Demydenko, S. I. Protsenko, A. V. Boyun, and A. A. Vozny, Journal of Nano- and Electronic Physics, 4, No. 4: 04023 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Петрушенко, С. В. Дукаров, В. Н. Сухов, И. Г. Чурилов, Журнал нано- и электронной физики, 7, № 2: 02033 (2015).",
+				"tr":  "S. I. Petrushenko, S. V. Dukarov, V. N. Sukhov, and I. G. Churilov, Journal of Nano- Electronic Physics, 7, No. 2: 02033 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "N. T. Gladkikh, S. V. Dukarov, V. N. Sukhov, and I. G. Churilov, Functional Materials, 18, No. 4: 529 (2011).",
+				"tr":  "N. T. Gladkikh, S. V. Dukarov, V. N. Sukhov, and I. G. Churilov, Functional Materials, 18, No. 4: 529 (2011)."
+			},
+			{
+				"doi": "10.1016/S0040-6090(97)01206-6",
+				"or":  "S. V. Dukarov, Thin Solid Films, 323, No. 1–2: 136 (1998).",
+				"tr":  "S. V. Dukarov, Thin Solid Films, 323, No. 1–2: 136 (1998)."
+			},
+			{
+				"doi": "10.1016/j.vacuum.2015.09.030",
+				"or":  "S. I. Petrushenko, S. V. Dukarov, and V. N. Sukhov, Vacuum, 122 (A): 208 (2015).",
+				"tr":  "S. I. Petrushenko, S. V. Dukarov, and V. N. Sukhov, Vacuum, 122 (A): 208 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Петрушенко, С. В. Дукаров, В. Н. Сухов, Вопросы атомной науки и техники, 104: № 4: 118 (2016).",
+				"tr":  "S. I. Petrushenko, S. V. Dukarov, and V. N. Sukhov, Voprosy Atomnoj Nauki i Tekhniki [Problems of Atomic Science and Technology], 104, No. 4: 118 (2016) (in Russian)."
+			},
+			{
+				"doi": "10.1021/nl9041033",
+				"or":  "N. Liu, M. Mesch, T. Weiss, M. Hentschel, and H. Giessen Nano Lett., 10 (7): 2342 (2010).",
+				"tr":  "N. Liu, M. Mesch, T. Weiss, M. Hentschel, and H. Giessen Nano Lett., 10 (7): 2342 (2010)."
+			},
+			{
+				"doi": "10.1364/JOSAB.23.000434",
+				"or":  "S. Zhang, W. Fan, K. J. Malloy, S. R. J. Brueck, N. C. Panoiu, and R. M. Osgood, J. Opt. Soc. Am. B, 23: 434 (2006).",
+				"tr":  "S. Zhang, W. Fan, K. J. Malloy, S. R. J. Brueck, N. C. Panoiu, and R. M. Osgood, J. Opt. Soc. Am. B, 23: 434 (2006)."
+			},
+			{
+				"doi": "10.1016/j.jcrysgro.2012.10.008",
+				"or":  "H. Y. Liu, G. S. Tang, F. Zeng, and F. Pan, J. Crystal Growth, 363: 80 (2013).",
+				"tr":  "H. Y. Liu, G. S. Tang, F. Zeng, and F. Pan, J. Crystal Growth, 363: 80 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Т. Гладких, С. В. Дукаров, А. П. Крышталь, В. И. Ларин, В. Н. Сухов, С. И. Богатыренко, Поверхностные явления и фазовые превращения в конденсированных пленках (Харьков: ХНУ им. В. Н. Каразина: 2004).",
+				"tr":  "N. T. Gladkikh, S. V. Dukarov, A. P. Kryshtal', V. I. Larin, V. N. Sukhov, S. I. Bogatyrenko, Poverkhnostnye Yavleniya i Fazovye Prevrashcheniya v Kondensirovannykh Plenkakh (Kharkov: KhNU im. V. N. Karazina: 2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. V. Dukarov, S. I. Petrushenko, V. N. Sukhov, and I. G. Churilov, Problems Atomic Sci. Technol., 89, No. 1: 110 (2014).",
+				"tr":  "S. V. Dukarov, S. I. Petrushenko, V. N. Sukhov, and I. G. Churilov, Problems Atomic Sci. Technol., 89, No. 1: 110 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. С. Палатник, П. Г. Черемской, М. Я. Фукс, Поры в плёнках (Москва: Энергоатомиздат: 1982).",
+				"tr":  "L. S. Palatnik, P. G. Cheremskoy, and M. Ya. Fuks, Pory v Plenkakh (Moscow: Energoatomizdat: 1982) (in Russian)."
+			},
+			{
+				"doi": "10.1134/S1063783407010283",
+				"or":  "D. G. Gromov, S. A. Gavrilov, E. N. Redichev, and R. M. Ammosov, Phys. Solid State, 49 (1): 178 (2007).",
+				"tr":  "D. G. Gromov, S. A. Gavrilov, E. N. Redichev, and R. M. Ammosov, Phys. Solid State, 49 (1): 178 (2007)."
+			},
+			{
+				"doi": "10.1134/S106378341303013X",
+				"or":  "D. G. Gromov, O. V. Pyatilova, S. V. Bulyarskii, A. N. Belov, and A. A. Raskin, Phys. Solid State, 55 (3): 619 (2013).",
+				"tr":  "D. G. Gromov, O. V. Pyatilova, S. V. Bulyarskii, A. N. Belov, and A. A. Raskin, Phys. Solid State, 55 (3): 619 (2013)."
+			}
+		]
+	}
+}

@@ -1,0 +1,215 @@
+{
+	"_id":    "MFiNT.36.03.0343",
+	"year":   2014,
+	"volume": 36,
+	"issue":  3,
+	"pages":  [343,355],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["26.12.2013"],
+	"PACS":   "43.35.+d, 62.20.Fk, 81.60.-b, 82.80.Ej",
+	"title":   {
+		"ua": "Месбаеурівська спектроскопія поверхневого шару титанового стопу ВТ6, модифікованого ультразвуковою ударною деформацією",
+		"en": "Mössbauer Spectroscopy of the Surface Layer of the Ti—6Al—4V Titanium Alloy Modified by Ultrasonic Impact Deformation",
+		"ru": "Мёссбауэровская спектроскопия поверхностного слоя титанового сплава ВТ6, модифицированного ультразвуковой ударной деформацией"
+	},
+	"abstract": {
+		"ua": "Методом Мессбауерової спектроскопії на поверхні титанового стопу ВТ6 після ультразвукового ударного оброблення бойком із загартованої сталі ШХ15 виявлено залізовмісні фази – TiO$_{2}$:Fe$^{2+}$, TiO$_{2}$:Fe$^{3+}$ (рутил), інтерметалід FeTi і $\\alpha$-Fe. Рутил з йонами Fe$^{2+}$, концентрація яких практично не змінюється протягом часу оброблення від 30 до 120 с, є домінувальною фазою. її кількість і відповідно товщина рутилової плівки на поверхні титанового стопу ВТ6 зростає зі збільшенням часу оброблення. Кількість інших фаз, в тому числі й рутилу з йонами Fe$^{3+}$, залишається практично постійною. Передбачається, що інші залізовмісні фази, такі як TiO$_{2}$: Fe$^{3+}$, $\\alpha$-Fe і FeTi, знаходяться на обробленій поверхні стопу в трьох положеннях: на поверхні окисної плівки рутилу, як окантування на межі рутилу і стопу або під шаром плівки рутилу. Фаза інтерметаліду FeTi виникає, очевидно, в перші моменти контакту металевого бойка з поверхнею титанового стопу, і її кількість з часом оброблення не змінюється, тому що вона просторово захищена плівкою рутилу. Зменшення магнітного розщеплення в спектрі стопу ВТ6 у порівнянні з розщепленням у спектрі сталі ШХ15 пов’язане з малими розмірами частинок заліза, що залишилися за рахунок адгезії на оброблюваній поверхні.",
+		"en": "Using Mössbauer spectroscopy on the surface of Ti—6Al—4V titanium alloy after the ultrasonic impact deformation by the pane of hardened steel, iron-bearing phases such as TiO$_{2}$:Fe$^{2+}$, TiO$_{2}$:Fe$^{3+}$ (rutile), intermetallic FeTi compound, and $\\alpha$-Fe are found. The concentration of Fe$^{2+}$ ions practically does not change, during the treatment time from 30 to 120 seconds. Rutile with Fe$^{2+}$ ions is the dominant phase. Its amount and, consequently, the thickness of rutile film on the surface of Ti—6Al—4V titanium alloy increases with treatment time increasing. The amount of other phases, including rutile with Fe$^{3+}$ ions, remains practically constant. As supposed, the other iron-containing phases such as TiO$_{2}$:Fe$^{3+}$, $\\alpha$-Fe, and FeTi are present on the treated surface of the alloy in three positions: on the surface of the oxide film of rutile, as a fringing on rutile and alloy border, or under the layer of the rutile film. The intermetallic FeTi phase appears, probably, at the very beginning of the metal pane contact with the surface of the titanium alloy, and its amount does not change with time, because the rutile film spatially protects it. The reduction of the magnetic splitting in the spectrum of Ti—6Al—4V alloy in comparison with splitting in spectrum of ShKh15 steel is conditioned by the small sizes of iron particles, which remained on the processed surface due to adhesion.",
+		"ru": "Методом мёссбауэровской спектроскопии на поверхности титанового сплава ВТ6 после ультразвуковой ударной обработки бойком из закалённой стали ШХ15 обнаружены железосодержащие фазы– TiO$_{2}$:Fe$^{2+}$, TiO$_{2}$:Fe$^{3+}$ (рутил), интерметаллид FeTi и $\\alpha$-Fe. Рутил с ионами Fe$^{2+}$, концентрация которых практически не меняется в течение времени обработки от 30 до 120 с, является доминирующей фазой. Её количество и соответственно толщина рутиловой плёнки на поверхности титанового сплава ВТ6 растёт с увеличением времени обработки. Количество других фаз, в том числе и рутила с ионами Fe$^{3+}$, остаётся практически постоянным. Предполагается, что другие железосодержащие фазы, такие как TiO$_{2}$:Fe$^{3+}$, $\\alpha$-Fe и FeTi, находятся на обработанной поверхности сплава в трёх положениях: на поверхности окисной плёнки рутила, в качестве окантовки на границе рутила и сплава или под слоем плёнки рутила. Фаза интерметаллида FeTi возникает, очевидно, в первые моменты контакта металлического бойка с поверхностью титанового сплава, и количество её со временем обработки не меняется, так как она пространственно защищена плёнкой рутила. Уменьшение магнитного расщепления в спектре сплава ВТ6 по сравнению с расщеплением в спектре стали ШХ15 связано с малыми размерами частиц железа, оставшихся за счёт адгезии на обрабатываемой поверхности."
+	},
+	"keywords": {
+		"ua": "титановий сплав ВТ6, поверхня, ультразвукова ударна деформація, месбауерівська спектроскопія",
+		"en": "Ti—6Al—4V titanium alloy, surface, ultrasonic impact deformation, Mössbauer spectroscopy",
+		"ru": "титановый сплав ВТ6, поверхность, ультразвуковая ударная деформация, мёссбауэровская спектроскопия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Е. В. Польшин", "en": "E. V. Pol’shin", "ru": "Э. В. Польшин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. О. Васильєв", "en": "M. O. Vasylyev", "ru": "М. А. Васильев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. М. Волошко", "en": "S. M. Voloshko", "ru": "С. М. Волошко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "Л. Ф. Яценко", "en": "L. F. Yatsenko", "ru": "Л. Ф. Яценко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 33,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "М. А. Васильев, В. И. Беда, П. А. Гурин, Физиологический отклик на состояние поверхности металлических дентальных имплантатов (Львов: ГалДент: 2010).",
+				"tr":  "M. A. Vasylyev, V. I. Beda, and P. A. Gurin, Fiziologicheskiy Otklik na Sostoyanie Poverkhnosti Metallicheskikh Dental'nykh Implantatov (Lviv: GalDent: 2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Васильев, Г. И. Прокопенко, В. С. Филатова, Успехи физики металлов, 5, № 2: 345 (2005).",
+				"tr":  "M. A. Vasylyev, G. I. Prokopenko, and V. S. Filatova, Uspehi Fiziki Metallov, 5, No. 2: 345 (2005) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.msea.2006.07.119",
+				"or":  "B. N. Mordyuk and G. I. Prokopenko, Mater. Sci. Eng. A, 437: 396 (2006).",
+				"tr":  "B. N. Mordyuk and G. I. Prokopenko, Mater. Sci. Eng. A, 437: 396 (2006)."
+			},
+			{
+				"doi": "10.1016/j.jsv.2007.03.054",
+				"or":  "B. N. Mordyuk and G. I. Prokopenko, J. Sound Vib., 308: 855 (2007).",
+				"tr":  "B. N. Mordyuk and G. I. Prokopenko, J. Sound Vib., 308: 855 (2007)."
+			},
+			{
+				"doi": "10.1016/j.msea.2006.12.049",
+				"or":  "B. N. Mordyuk, G. I. Prokopenko, M. A. Vasylyev, and M. O. Iefimov, Mater. Sci. Eng. A, 458: 253 (2007).",
+				"tr":  "B. N. Mordyuk, G. I. Prokopenko, M. A. Vasylyev, and M. O. Iefimov, Mater. Sci. Eng. A, 458: 253 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Васильев, В. А. Тиньков, С. М. Волошко и др., Металлофиз. новейшие технол., 34, № 5: 687 (2012).",
+				"tr":  "M. A. Vasylyev, V. A. Tin'kov, S. M. Voloshko et al., Metallofiz. Noveishie Tekhnol., 34, No. 5: 687 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. О. Васильєв, В. С. Філатова, Л. Ф. Яценко, Д. В. Козирєв, Металлофиз. новейшие технол., 34, № 6: 821 (2012).",
+				"tr":  "M. O. Vasylyev, V. S. Filatova, L. F. Yatsenko, and D. V. Kozyrev, Metallofiz. Noveishie Tekhnol., 34, No. 6: 821 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. S. M. Mahbubul Alam, Thesis (Boston University: 1966).",
+				"tr":  "A. S. M. Mahbubul Alam, Thesis (Boston University: 1966)."
+			},
+			{
+				"doi": "10.1002/pssa.2210150120",
+				"or":  "P. P. Stampel, J. C. Travis, and M. J. Bielefeld, physica status solidi (a), 15: 181 (1973).",
+				"tr":  "P. P. Stampel, J. C. Travis, and M. J. Bielefeld, physica status solidi (a), 15: 181 (1973)."
+			},
+			{
+				"doi": "10.1002/pssa.2210450105",
+				"or":  "V. K. Yarmarkin, S. P. Teslenko, and A. I. Knyazev, physica status solidi (a), 45: 63 (1978).",
+				"tr":  "V. K. Yarmarkin, S. P. Teslenko, and A. I. Knyazev, physica status solidi (a), 45: 63 (1978)."
+			},
+			{
+				"doi": "10.1016/j.physb.2004.09.023",
+				"or":  "C. E. Rodriguez Torres, A. F. Cabrera, M. B. Fernandez van Raap, and F. H. Sanchez, Physica B: Condens. Matter, 354: 67 (2004).",
+				"tr":  "C. E. Rodriguez Torres, A. F. Cabrera, M. B. Fernandez van Raap, and F. H. Sanchez, Physica B: Condens. Matter, 354: 67 (2004)."
+			},
+			{
+				"doi": "10.1063/1.2355438",
+				"or":  "L. Balcells, C. Frontera, and F. Sandiumenge, Appl. Phys. Lett., 89: 122501 (2006).",
+				"tr":  "L. Balcells, C. Frontera, and F. Sandiumenge, Appl. Phys. Lett., 89: 122501 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Н. Дулов, Н. Г. Ивойлов, Д. М. Хрипунов, Письма в ЖТФ, 35: 1 (2009).",
+				"tr":  "E. N. Dulov, N. G. Ivojlov, and D. M. Khripunov, Pis'ma v ZhTF, 35: 1 (2009) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRev.123.1239",
+				"or":  "S. L. Ruby and G. Shirane, Phys. Rev., 123: 1239 (1961).",
+				"tr":  "S. L. Ruby and G. Shirane, Phys. Rev., 123: 1239 (1961)."
+			},
+			{
+				"doi": "",
+				"or":  "G. D. Башкиров, Р. А. Курбатов, И. Н. Манапов, ДАН СССР, 173:407 (1967).",
+				"tr":  "G. D. Bashkirov, R. A. Kurbatov, and I. N. Manapov, DAN SSSR, 173:407 (1967) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "J. F. Duncan and J. B. Metson, New Zealand J. Science, 25: 111 (1982).",
+				"tr":  "J. F. Duncan and J. B. Metson, New Zealand J. Science, 25: 111 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Д. Быков, Е. А. Овсянников, Журнал физ. химии, 57: 1028 (1983).",
+				"tr":  "A. D. Bykov and E. A. Ovsyannikov, Zhurnal Fiz. Khimii, 57: 1028 (1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Mössbauer Spectroscopy Applied to Inorganic Chemistry (Ed. G. J. Long) (New York: Plenum Publishing Corporation: 1987), vol. 2.",
+				"tr":  "Mössbauer Spectroscopy Applied to Inorganic Chemistry (Ed. G. J. Long) (New York: Plenum Publishing Corporation: 1987), vol. 2."
+			},
+			{
+				"doi": "10.1016/S0921-5093(99)00441-4",
+				"or":  "Y. Chen, J. S. Williams, S. J. Campbell, and G. M. Wang, Mater. Sci. Eng. A, 271: 485 (1999).",
+				"tr":  "Y. Chen, J. S. Williams, S. J. Campbell, and G. M. Wang, Mater. Sci. Eng. A, 271: 485 (1999)."
+			},
+			{
+				"doi": "10.1063/1.2905236",
+				"or":  "Sh. Zhou, G. Talut, K. K. Potzger, A. Shalimov, J. Grenzer, W. Skorupa, M. Helm, J. Fassbender, E. Cizmar, S. A. Zvyagin, and J. Wosnit, J. Appl. Phys., 103: 083907 (2008).",
+				"tr":  "Sh. Zhou, G. Talut, K. K. Potzger, A. Shalimov, J. Grenzer, W. Skorupa, M. Helm, J. Fassbender, E. Cizmar, S. A. Zvyagin, and J. Wosnit, J. Appl. Phys., 103: 083907 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRev.125.1158",
+				"or":  "G. Shirane, D. E. Cox, and S. L. Ruby, Phys. Rev., 125: 1158 (1962).",
+				"tr":  "G. Shirane, D. E. Cox, and S. L. Ruby, Phys. Rev., 125: 1158 (1962)."
+			},
+			{
+				"doi": "10.1016/j.physb.2005.04.013",
+				"or":  "S. Zhu,Yuzhi Li, Ch. Fan, D. Zhang, W. Liu, Zh. Sun, and Sh. Wei, Physica B, 364: 199 (2005).",
+				"tr":  "S. Zhu,Yuzhi Li, Ch. Fan, D. Zhang, W. Liu, Zh. Sun, and Sh. Wei, Physica B, 364: 199 (2005)."
+			},
+			{
+				"doi": "10.1016/0038-1098(69)90380-9",
+				"or":  "G. K. Wertheim, G. H. Wernik, and R. C. Sherwood, Solid State Commun., 7: 1399 (1969).",
+				"tr":  "G. K. Wertheim, G. H. Wernik, and R. C. Sherwood, Solid State Commun., 7: 1399 (1969)."
+			},
+			{
+				"doi": "10.1063/1.333489",
+				"or":  "S. H. Liou and C. L. Chien, J. Appl. Phys., 55: 1820 (1984).",
+				"tr":  "S. H. Liou and C. L. Chien, J. Appl. Phys., 55: 1820 (1984)."
+			},
+			{
+				"doi": "10.1016/0039-6028(85)90435-2",
+				"or":  "D. Khatamian and F. D. Manchester, Surf. Sci., 159: 381 (1985).",
+				"tr":  "D. Khatamian and F. D. Manchester, Surf. Sci., 159: 381 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Brenier, T. Capra, P. Thevenard, A. Perez, M. Treilleux, J. Rivory, J. Dupuy, and G. Guiraud, Phys. Rev. B, 41: 172 (1990).",
+				"tr":  "R. Brenier, T. Capra, P. Thevenard, A. Perez, M. Treilleux, J. Rivory, J. Dupuy, and G. Guiraud, Phys. Rev. B, 41: 172 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Русаков, К. К. Катыржанов, Т. Э. Туркебаев, Физика металлов и металловедение, 104 : 387 (2007).",
+				"tr":  "V. S. Rusakov, K. K. Katyrzhanov, and T. Eh. Turkebaev, Fizika Metallov i Metallovedenie, 104: 387 (2007) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.jeurceramsoc.2008.03.034",
+				"or":  "A. A. Cristóbal, E. F. Aglietti, J. M. Porto López, F. R. Sives, and R. C. Mercader, J. Eur. Ceram. Soc., 28: 2725 (2008).",
+				"tr":  "A. A. Cristóbal, E. F. Aglietti, J. M. Porto López, F. R. Sives, and R. C. Mercader, J. Eur. Ceram. Soc., 28: 2725 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Бетехтин, Минералогия (Москва: Гос. изд. геол. лит.: 1950).",
+				"tr":  "A. G. Betekhtin, Mineralogiya (Moscow: Gos. Izd. Geol. Lit.: 1950) (in Russian)."
+			},
+			{
+				"doi": "10.3891/acta.chem.scand.11-1641",
+				"or":  "S. Andersson, B. Collen, U. Ylenstierna, and A. Magneli, Acta Chem. Scand., 11: 1641 (1957).",
+				"tr":  "S. Andersson, B. Collen, U. Ylenstierna, and A. Magneli, Acta Chem. Scand., 11: 1641 (1957)."
+			},
+			{
+				"doi": "10.1149/1.2423901",
+				"or":  "J. P. Wittke, J. Electrochem. Soc., 113: 193 (1966).",
+				"tr":  "J. P. Wittke, J. Electrochem. Soc., 113: 193 (1966)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Morup, J. A. Dumesic, and H. Topsoe, Applications of Mössbauer Spectroscopy (Ed. R. L. Cohen) (New York: Academic Press: 1980), vol. II, chap. 1.",
+				"tr":  "S. Morup, J. A. Dumesic, and H. Topsoe, Applications of Mössbauer Spectroscopy (Ed. R. L. Cohen) (New York: Academic Press: 1980), vol. II, chap. 1."
+			},
+			{
+				"doi": "",
+				"or":  "И. П. Суздалев, Динамические эффекты в гамма-резонансной спектроскопии (Москва: Атомиздат: 1979).",
+				"tr":  "I. P. Suzdalev, Dinamicheskie Effekty v Gamma-Rezonansnoy Spektroskopii (Moscow: Atomizdat: 1979) (in Russian)."
+			}
+		]
+	}
+}

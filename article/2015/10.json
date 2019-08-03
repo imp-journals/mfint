@@ -1,0 +1,157 @@
+{
+	"year":   2015,
+	"volume": 37,
+	"issue":  10,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [1297,1311],
+			"title": {
+				"ua": "Вплив джерел та стоків вакансій на кінетику реакційної дифузії в бінарній системі",
+				"en": "Influence of Vacancy Sources and Sinks on the Kinetics of the Reaction Diffusion in a Binary System",
+				"ru": "Влияние источников и стоков вакансий на кинетику реакционной диффузии в бинарной системе"
+			},
+			"autors": {
+				"ua": "С. В. Корнієнко, А.М. Гусак",
+				"en": "S. V. Kornienko and A. M. Gusak",
+				"ru": "С. В. Корниенко, А. М. Гусак"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [1313,1324],
+			"title": {
+				"ua": "Структурні і технологічні аспекти одержання якісних напівфабрикатів з жароміцного інтерметалідного сплаву на основі Ti$_{2}$AlNb з високим комплексом властивостей",
+				"en": "Structure and Technological Aspects of Obtaining Qualitative Semi-Finished Products from Heat-Resistant Intermetallic Ti$_{2}$AlNb-Based Alloy with Improved Properties Complex",
+				"ru": "Структурные и технологические аспекты получения качественных полуфабрикатов из жаропрочного интерметаллидного сплава на основе Ti$_{2}$AlNb с высоким комплексом свойств"
+			},
+			"autors": {
+				"ua": "С. В. Скворцова, О. А. Ільїн, М. Г. Штуца, А. В. Алєксандров, А. В. Андрєєв, О. З. Умарова",
+				"en": "S. V. Skvortsova, A. A. Ilyin, M. G. Shtutsa, A. V. Aleksandrov, A. V. Andreev, and O. Z. Umarova",
+				"ru": "С. В. Скворцова, А. А. Ильин, М. Г. Штуца, А. В. Александров, А. В. Андреев, О. З. Умарова"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1325,1338],
+			"title": {
+				"ua": "Дослідження та оцінка залишкових напружень в попередньо напружених сталевих двотаврових балках, виготовлених з використанням методи зварювання",
+				"en": "Investigation and Characterization of Residual Stress on Prestressed Steel I-Beams Manufactured by Welding",
+				"ru": "Исследование и оценка остаточного напряжения в предварительно напряжённых стальных двутавровых балках, изготовленных свариванием"
+			},
+			"autors": {
+				"ua": "А. Озаш, Ю. Йозчаталбаш",
+				"en": "A. Özer and Yu. Özçatalbaş",
+				"ru": "А. Озаш, Ю. Ёзчаталбаш"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [1339,1348],
+			"title": {
+				"ua": "Особливості мартенситного перетворення в зоні сплаву Ti$_{49,2}$Ni$_{50,6}$Ag$_{0,2}$ медичного призначення",
+				"en": "Features of Martensitic Transformation in the Area of Welding of Medical Ti$_{49.2}$Ni$_{50.6}$Ag$_{0.2}$ Alloy",
+				"ru": "Особенности мартенситного превращения в зоне сварки сплава Ti$_{49,2}$Ni$_{50,6}$Ag$_{0,2}$ медицинского назначения"
+			},
+			"autors": {
+				"ua": "Ю. М. Коваль, Р. Я. Мусієнко, В. М. Сліпченко, Т. Г. Сич, С. М. Кедровський, Д. М. Калеко",
+				"en": "Yu. M. Koval, R. Ya. Musienko, V. M. Slipchenko, T. G. Sych, S. M. Kedrovsky, and D. M. Kaleko",
+				"ru": "Ю. Н. Коваль, Р. Я. Мусиенко, В. Н. Слипченко, Т. Г. Сыч, С. Н. Кедровский, Д. М. Калеко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [1349,1367],
+			"title": {
+				"ua": "Твердофазні перетворення в металевій матриці високохромистого чавуну в субкритичному інтервалі температур",
+				"en": "Solid-State Phase Transformation in Metallic Matrix of High-Chrome Cast Iron in Subcritical Temperature Range",
+				"ru": "Твердофазные превращения в металлической матрице высокохромистого чугуна в субкритическом интервале температур"
+			},
+			"autors": {
+				"ua": "Ю. Г. Чабак",
+				"en": "Yu. G. Chabak",
+				"ru": "Ю. Г. Чабак"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [1369,1376],
+			"title": {
+				"ua": "Магнетні та релаксаційні явища в плівкових гетероструктурах Si—TiN—Fe з вуглецевими нанотрубками",
+				"en": "Magnetic and Relaxation Phenomena in Film Si—TiN—Fe Heterostructures with Carbon Nanotubes",
+				"ru": "Магнитные и релаксационные явления в плёночных гетероструктурах Si—TiN—Fe с углеродными нанотрубками"
+			},
+			"autors": {
+				"ua": "Е. М. Руденко, Е. Є. Зубов, М. О. Білоголовський, І. В. Короташ, А. П. Шаповалов, Д. Ю. Полоцький, С. І. Бондаренко, Ю. А. Савіна",
+				"en": "E. M. Rudenko, E. E. Zubov, M. A. Belogolovskii, I. V. Korotash, A. P. Shapovalov, D. Yu. Polotskiy, S. I. Bondarenko, and Yu. A. Savina",
+				"ru": "Э. М. Руденко, Э. Е. Зубов, М. А. Белоголовский, И. В. Короташ, А. П. Шаповалов, Д. Ю. Полоцкий, С. И. Бондаренко, Ю. А. Савина"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [1377,1393],
+			"title": {
+				"ua": "Структурно-фазовий стан, магніторезистивні та магнітні властивості плівок пермалою",
+				"en": "Structural—Phase State, Magnetoresistive and Magnetic Properties of Permalloy Films",
+				"ru": "Структурно-фазовое состояние, магниторезистивные и магнитные свойства плёнок пермаллоя"
+			},
+			"autors": {
+				"ua": "Я. М. Литвиненко, І. М. Пазуха, О. В. Пилипенко, В. В. Бібик",
+				"en": "Ia. M. Lytvynenko, I. M. Pazukha, O. V. Pylypenko, and V. V. Bibyk",
+				"ru": "Я. Н. Литвиненко, И. М. Пазуха, А. В. Пилипенко, В. В. Бибык"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [1395,1404],
+			"title": {
+				"ua": "Структурні, електричні та магніторезистивні властивості заміщених стронцієм манганітів лантану",
+				"en": "Structural, Electrical and Magnetoresistive Properties of Strontium-Substituted Lanthanum Manganites",
+				"ru": "Структурные, электрические и магниторезистивные свойства замещённых стронцием манганитов лантана"
+			},
+			"autors": {
+				"ua": "Т. І. Полек, О. І. Товстолиткін, С. О. Солопан, А. Г. Білоус, С. В. Недух, С. І. Тарапов",
+				"en": "T. I. Polek, A. I. Tovstolytkin, S. O. Solopan, A. G. Belous, S. V. Nedukh, and S. I. Tarapov",
+				"ru": "Т. И. Полек, А. И. Товстолыткин, С. А. Солопан, А. Г. Белоус, С. В. Недух, С. И. Тарапов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [1405,1424],
+			"title": {
+				"ua": "Концентраційні залежності магнітних властивостей бінарних ОЦК-стопів із безладом заміщення",
+				"en": "Concentration Dependence of Magnetic Properties of Binary B.C.C. Alloys with Substitutional Disorder",
+				"ru": "Концентрационная зависимость магнитных свойств бинарных ОЦК-сплавов с беспорядком замещения"
+			},
+			"autors": {
+				"ua": "Є. Г. Лень, В. В. Лізунов, Т. С. Лень, Н. В. Ушаков, В. А. Татаренко",
+				"en": "E. G. Len, V. V. Lizunov, T. S. Len, M. V. Ushakov, and V. A. Tatarenko",
+				"ru": "Е. Г. Лень, В. В. Лизунов, Т. С. Лень, Н. В. Ушаков, В. А. Татаренко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [1425,1442],
+			"title": {
+				"ua": "Термодинамічні і кінетичні властивості одновалентного металічного гелію",
+				"en": "The Thermodynamic and Kinetic Properties of One-Valent Metallic Helium",
+				"ru": "Термодинамические и кинетические свойства одновалентного металлического гелия"
+			},
+			"autors": {
+				"ua": "В. Т. Швець",
+				"en": "V. T. Shvets",
+				"ru": "В. Т. Швец"
+			}
+		}
+	]
+}

@@ -1,0 +1,156 @@
+{
+	"_id":    "MFiNT.36.08.1059",
+	"year":   2014,
+	"volume": 36,
+	"issue":  8,
+	"pages":  [1059,1077],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["20.06.2014"],
+	"PACS":   "64.60.A-, 64.60.My, 64.75.Nx, 65.40.gd, 65.40.gp, 66.30.Fq",
+	"title":   {
+		"ua": "Опис кінетики коміркового розпаду пересичених твердих розчинів для сплаву Pb—Sn",
+		"en": "Description of Kinetics of Cellular Decomposition of Supersaturated Solid Solutions for Pb—Sn Alloy",
+		"ru": "Описание кинетики ячеистого распада пересыщенных твёрдых растворов для сплава Pb—Sn"
+	},
+	"abstract": {
+		"ua": "На основі підходу, який було розвинуто авторами раніше для опису кінетики коміркового розпаду пересичених твердих розчинів, в даній роботі виконано порівняння теоретичних та експериментальних даних щодо температурної залежности різноманітних характеристик такого процесу. Як об’єкт для порівняння вибирається, головним чином, старіючий стоп Pb—27,07 ат.% Sn. Для визначення рушійної сили розпаду використовується проста модель парної взаємодії найближчих сусідів. Показано, що температурні залежності швидкости фронту розпаду та швидкости виділення тепла описуються, у згоді з експериментальними даними, кривими з максимумами, положення яких визначаються конкуренцією рушійної сили розпаду та коефіцієнта межової дифузії олова на фронті розпаду. Знайдено величину енергії активації для такої дифузії, яка виявляється порядку 0,27 еВ і знаходиться в згоді з даними, одержаними іншими методами. Теоретично описано спостережуваний в експерименті зсув максимуму теплового ефекту відносно максимуму швидкости руху фронту розпаду в бік більш низьких температур. Показано також, що одержані в експерименті величини міжплатівкових віддалей відповідають процесам вторинного розпаду.",
+		"en": "Based on the approach, which was previously developed by the authors to describe the kinetics of cellular decomposition of solid solutions, in this paper, a comparison of theoretical and experimental data on the temperature dependences of various characteristics of such a process is carried. Experimental data on the ageing of Pb—27.07 at.% Sn alloy is selected as an object of comparison. To determine the driving force of the process, a simple model of pair interatomic interactions of the nearest neighbours is used. As shown, the temperature dependences of front velocity and the heat-release rate are described, in accordance with the experimental data, by curves with maxima, whose positions are determined by competition between the driving force and the decomposition front boundary diffusion coefficient for tin. The activation energy for such diffusion is found to be of order of 0.27 eV and is in agreement with values obtained by other methods. The shift of the maximum of thermal effect with respect to the maximum of front velocity towards lower temperatures, which is observed experimentally, is described theoretically. As also shown, the values of interlamellar spacings measured in the experiment correspond to the secondary cellular decomposition processes.",
+		"ru": "На основе подхода, который был развит авторами ранее для описания кинетики ячеистого распада пересыщенных твёрдых растворов, в данной работе выполнено сопоставление теоретических и экспериментальных данных по температурной зависимости различных характеристик такого процесса. При этом в качестве объекта сравнения выбирается, главным образом, стареющий сплав Pb—27,07 ат.% Sn. Для определения движущей силы распада используется простейшая модель парного взаимодействия ближайших соседей. Показано, что температурные зависимости скорости фронта распада и скорости выделения тепла описываются, в соответствии с экспериментальными данными, кривыми с максимумами, положения которых определяются конкуренцией движущей силы распада и коэффициента граничной диффузии олова на фронте распада. Найдено значение энергии активации для такой диффузии, которое оказывается порядка 0,27 эВ и находится в согласии с данными, полученными другими методами. Теоретически описан наблюдаемый в эксперименте сдвиг максимума теплового эффекта относительно максимума скорости движения фронта распада в сторону более низких температур. Показано также, что измеренные в эксперименте величины межпластиночных расстояний соответствуют процессам вторичного распада."
+	},
+	"keywords": {
+		"ua": "тепловий ефект коміркового розпаду, межова дифузія, швидкість зміни вільної енергії, швидкість руху фронту коміркового розпаду, ламельна структура, пересичені тверді розчини",
+		"en": "cellular decomposition thermal effect, boundary diffusion, rate of change of free energy, cellular decomposition front velocity, lamellar structure, supersaturated solid solutions",
+		"ru": "тепловой эффект ячеистого распада, граничная диффузия, скорость изменения свободной энергии, скорость движения фронта ячеистой реакции, ламельная структура, пересыщенные твёрдые растворы"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. О. Іванов", "en": "M. O. Ivanov", "ru": "М. А. Иванов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. Ю. Наумук", "en": "A. Yu. Naumuk", "ru": "А. Ю. Наумук"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. А. Шматко", "en": "O. A. Shmatko", "ru": "О. А. Шматко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 22,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "H. C. H. Carpenter and J. M. Robertson, J. Iron Steel Inst., 125, No. 1: 309 (1932).",
+				"tr":  "H. C. H. Carpenter and J. M. Robertson, J. Iron Steel Inst., 125, No. 1: 309 (1932)."
+			},
+			{
+				"doi": "",
+				"or":  "R. F. Mehl and D. W. Smith, Trans. TMS–AIME, 116, No. 1: 330 (1935).",
+				"tr":  "R. F. Mehl and D. W. Smith, Trans. TMS–AIME, 116, No. 1: 330 (1935)."
+			},
+			{
+				"doi": "10.1016/0001-6160(55)90011-0",
+				"or":  "D. Turnbull and H. N. Treaftis, Acta Met., 3, No. 1: 43 (1955).",
+				"tr":  "D. Turnbull and H. N. Treaftis, Acta Met., 3, No. 1: 43 (1955)."
+			},
+			{
+				"doi": "10.1016/0001-6160(56)90046-3",
+				"or":  "W. DeSorbo and D. Turnbull, Acta Met., 4, No. 5: 495 (1956).",
+				"tr":  "W. DeSorbo and D. Turnbull, Acta Met., 4, No. 5: 495 (1956)."
+			},
+			{
+				"doi": "10.1016/0001-6160(57)90010-X",
+				"or":  "R. G. Rose, Acta Met., 5, No. 7: 404 (1957).",
+				"tr":  "R. G. Rose, Acta Met., 5, No. 7: 404 (1957)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Н. Буйнов, Р. Р. Захарова, Распад металлических пересыщенных твердых растворов (Москва: Металлургия: 1964).",
+				"tr":  "N. N. Buynov and R. R. Zakharova, Raspad Metallicheskikh Peresyshchennykh Tverdykh Rastvorov (Decomposition of Supersaturated Metallic Solid Solutions) (Moscow:Metallurgiya: 1964) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0001-6160(67)90007-7",
+				"or":  "K. N. Tu and D. Turnbull, Acta Met., 15: 369 (1967); K. N. Tu and D. Turnbull, Acta Met., 15: 1317 (1967).",
+				"tr":  "K. N. Tu and D. Turnbull, Acta Met., 15: 369 (1967); K. N. Tu and D. Turnbull, Acta Met., 15: 1317 (1967)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Лариков, О. А. Шматко, Физ. мет. металловед., 30, № 6: 1173 (1970).",
+				"tr":  "L. N. Larikov and O. A. Shmatko, Fiz. Met. Metalloved., 30, No. 6: 1173 (1970) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Лариков, О. А. Шматко, Ячеистый распад пересыщенных твердых растворов (Киев: Наукова думка: 1976).",
+				"tr":  "L. N. Larikov and O. A. Shmatko, Yacheistyy Raspad Peresyshchennykh Tverdykh Rastvorov (Cellular Decomposition of Supersaturated Solid Solutions) (Kiev: Naukova Dumka: 1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Шматко, Металлофизика, 2, № 2: 97 (1980).",
+				"tr":  "O. A. Shmatko, Metallofizika, 2, No. 2: 97 (1980) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.1707565",
+				"or":  "W. H. Brandt, J. Appl. Phys., 16, No. 1: 139 (1945).",
+				"tr":  "W. H. Brandt, J. Appl. Phys., 16, No. 1: 139 (1945)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Zener, Trans. AIME, 167, No. 1: 550 (1945).",
+				"tr":  "C. Zener, Trans. AIME, 167, No. 1: 550 (1945)."
+			},
+			{
+				"doi": "10.1016/0001-6160(55)90012-2",
+				"or":  "D. Turnbull, Acta Met., 3, No. 1: 55 (1955).",
+				"tr":  "D. Turnbull, Acta Met., 3, No. 1: 55 (1955)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Hillert, Jernkont. Ann., 141, No. 1: 757 (1957).",
+				"tr":  "M. Hillert, Jernkont. Ann., 141, No. 1: 757 (1957)."
+			},
+			{
+				"doi": "10.1016/0001-6160(59)90164-6",
+				"or":  "J. W. Cahn, Acta Met., 7, No. 1: 18 (1959).",
+				"tr":  "J. W. Cahn, Acta Met., 7, No. 1: 18 (1959)."
+			},
+			{
+				"doi": "10.7868/S0015323014090071",
+				"or":  "М. А. Иванов, А. Ю. Наумук, Физ. мет. металловед., 115, № 9 (2014) (в печати).",
+				"tr":  "M. A. Ivanov and A. Yu. Naumuk, Fiz. Met. Metalloved., 115, No. 9 (2014) (to be published)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Курдюмов, Л. М. Утевский, Р. И. Энтин, Превращения в железе и стали (Москва: Наука: 1977).",
+				"tr":  "G. V. Kurdjumov, L. M. Utevskiy, and R. I. Entin, Prevrashcheniya v Zheleze i Stali (Transformations in Iron and Steel) (Moscow: Nauka: 1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Безпалий, В. Ф. Мазанко, М. І. Савчук, І. О. Шматко, О. А. Шматко, Металлофиз. новейшие технол, 34, № 9: 1265 (2012).",
+				"tr":  "A. A. Bezpalyy, V. F. Mazanko, M. I. Savchuk, I. O. Shmatko, and O. A. Shmatko, Metallofiz. Noveishie Tekhnol., 34, No. 9: 1265 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Fatmi, Z. Boumerzoug, B. Ghebouli, T. Chihi, M. A. Ghebouli, and Z. K. Heiba, J. Optoelectron. Adv. Mat., 15, Nos. 11–12: 1256 (2013).",
+				"tr":  "M. Fatmi, Z. Boumerzoug, B. Ghebouli, T. Chihi, M. A. Ghebouli, and Z. K. Heiba, J. Optoelectron. Adv. Mat., 15, Nos. 11–12: 1256 (2013)."
+			},
+			{
+				"doi": "10.1007/BF02814889",
+				"or":  "K. N. Tu and D. Turnbull, Metall. Mater. Trans. B, 2, No. 9: 2509 (1971).",
+				"tr":  "K. N. Tu and D. Turnbull, Metall. Mater. Trans. B, 2, No. 9: 2509 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Seith and J. G. Laird, Z. Metallkunde, 24, No. 123 (1932).",
+				"tr":  "W. Seith and J. G. Laird, Z. Metallkunde, 24, No. 123 (1932)."
+			},
+			{
+				"doi": "",
+				"or":  "L. D. Landau and E. M. Lifshitz, Statistical Physics. Pt. 1 (Oxford: Pergamon Press: 1980).",
+				"tr":  "L. D. Landau and E. M. Lifshitz, Statistical Physics. Pt. 1 (Oxford: Pergamon Press: 1980)."
+			}
+		]
+	}
+}

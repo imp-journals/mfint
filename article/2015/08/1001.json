@@ -1,0 +1,106 @@
+{
+	"_id":    "MFiNT.37.08.1001",
+	"year":   2015,
+	"volume": 37,
+	"issue":  8,
+	"pages":  [1001,1015],
+	"rubric": 2,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["29.04.2015"],
+	"PACS":   "61.05.cc, 61.05.fd, 61.05.jd, 61.72.Bb, 61.72.Dd, 61.72.Lk",
+	"title":  {
+		"ua": "Вплив дислокаційних петель на вісну тіньову картину",
+		"en": "Influence of Dislocation Loops on an Axial Shadow Pattern",
+		"ru": "Влияние дислокационных петель на осевую теневую картину"
+	},
+	"abstract": {
+		"ua": "У межах класичної теорії розсіяння досліджується вісна тіньова картина у кристалі, що містить призматичні та ковзні дислокацiйнi петлі. Розглядається випадок, коли характерний розмір кореляції спотворень у кристалі виявляється значно більшим за віддаль, на якій формується тіньова картина. Величина мінімального виходу для частинок, розсіяних спотвореним ланцюгом атомів, виявляється пропорційною концентрації дефектів і є функцією кутів, що визначають орієнтацію напрямку спостереження тіньової картини відносно як нормалі до площини дислокаційної петлі, так і Бюрґерсового вектора. До того ж відповідні кутові залежності для призматичних і ковзних петель істотно відрізняються між собою, що уможливлює використовувати тіньовий ефект для діягностики дислокаційних петель у кристалах.",
+		"en": "The axial shadow pattern in a crystal containing prismatic and sliding dislocation loops is investigated within the scope of the classical scattering theory. The case, when the characteristic size of distortions’ correlation in a crystal is much more than distance of shadow-picture formation, is considered. The value of a minimal output of the particles, which are scattered by the distorted chain of atoms at not too large deformations, is proportional to the concentration of defects. In addition, it is a function of the angles determining an orientation of direction of a shadow-picture observation relative to a normal to the plane of dislocation loop as well as to a Burgers vector. Therefore, angular dependences for prismatic and sliding loops differ from each other substantially. That allows using a shadow effect for diagnostics of dislocation loops in crystals.",
+		"ru": "В рамках классической теории рассеяния исследуется осевая теневая картина в кристалле, содержащем призматические и скользящие дислокационные петли. Рассматривается случай, когда характерный размер корреляции искажений в кристалле значительно больше, чем расстояние, на котором формируется теневая картина. Величина минимального выхода для частиц, рассеянных искажённой цепочкой атомов, оказывается пропорциональной концентрации дефектов и является функцией углов, определяющих ориентацию направления наблюдения теневой картины относительно как нормали к плоскости дислокационной петли, так и вектора Бюргерса. При этом соответствующие угловые зависимости для призматических и скользящих петель существенно различаются между собой, что позволяет использовать теневой эффект для диагностики дислокационных петель в кристаллах."
+	},
+	"keywords": {
+		"ua": "орієнтаційні ефекти, тіньова картина, мінімальний вихід, призматичні та ковзні дислокаційні петлі",
+		"en": "orientation effects, shadow picture, minimal egress, prismatic and sliding dislocation loops",
+		"ru": "ориентационные эффекты, теневая картина, минимальный выход, призматические и скользящие дислокационные петли"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. О. Іванов", "en": "M. O. Ivanov", "ru": "М. А. Иванов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Л. Б. Квашніна", "en": "L. B. Kvashnina", "ru": "Л. Б. Квашнина"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. Ю. Наумук", "en": "A. Yu. Naumuk", "ru": "А. Ю. Наумук"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 12,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "J. Quere, phys. status solidi, 30: 713 (1968).",
+				"tr":  "J. Quere, phys. status solidi, 30: 713 (1968)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Иванов, Н. А. Махлин, Изв. АН СССР. Металлы, № 6: 154 (1970).",
+				"tr":  "L. I. Ivanov and N. A. Makhlin, Izv. AN SSSR. Metally, No. 6: 154 (1970) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Иванов, А. С. Кошкин, Г. Н. Маренов, Н. А. Махлин, Труды IV Всесоюзного совещания по физике взаимодействия заряженных частиц с монокристаллами (Москва: МГУ: 1973), с. 357.",
+				"tr":  "L. I. Ivanov, A. S. Koshkin, G. N. Marenov, and N. A. Makhlin, Trudy IV Vsesoyuznogo Soveshchaniya po Fizike Vzaimodeystviya Zaryazhennykh Chastits s Monokristallami (Moscow: MGU: 1973), p. 357 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Коробейников, А. А. Пузанов, В. Н. Пьянков, Г. Ю. Хропин, Труды IV Всесоюзного совещания по физике взаимодействия заряженных частиц с монокристаллами (Москва: МГУ: 1975), с. 413.",
+				"tr":  "V. P. Korobeynikov, A. A. Puzanov, V. N. P'yankov, and G. Yu. Khropin, Trudy IV Vsesoyuznogo Soveshchaniya po Fizike Vzaimodeystviya Zaryazhennykh Chastits s Monokristallami (Moscow: MGU: 1975), p. 413 (in Russian)."
+			},
+			{
+				"doi": "10.3367/UFNr.0099.196910c.0249",
+				"or":  "Й. Линдхард, Успехи физических наук, 99: 249 (1969) (пер. с англ.).",
+				"tr":  "J. Lindhard, Uspekhi Fizicheskikh Nauk, 99: 249 (1969) (Russian translation)."
+			},
+			{
+				"doi": "10.1016/0022-3115(74)90254-2",
+				"or":  "J. Quere, J. Nucl. Mater., 53: 262 (1974).",
+				"tr":  "J. Quere, J. Nucl. Mater., 53: 262 (1974)."
+			},
+			{
+				"doi": "10.1016/0029-554X(80)91273-2",
+				"or":  "L. Wielunski, D. Wielunska, G. Della Mea, and A. Turos, Nucl. Instrum. Methods, 168: 323 (1980).",
+				"tr":  "L. Wielunski, D. Wielunska, G. Della Mea, and A. Turos, Nucl. Instrum. Methods, 168: 323 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Иванов, Л. Б. Квашнина, Металлофиз. новейшие технол., 28, № 6: 811 (2006).",
+				"tr":  "M. O. Ivanov and L. B. Kvashnina, Metallofiz. Noveishie Tekhnol., 28, No. 6: 811 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Иванов, Л. Б. Квашнина, Металлофиз. новейшие технол., 30, № 2: 161 (2008).",
+				"tr":  "M. O. Ivanov and L. B. Kvashnina, Metallofiz. Noveishie Tekhnol., 30, No. 2: 161 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Иванов, Л. Б. Квашнина, В. С. Молодид, Металлофиз. новейшие технол., 32, № 10: 1335 (2010).",
+				"tr":  "M. O. Ivanov, L. B. Kvashnina, and V. S. Molodid, Metallofiz. Noveishie Tekhnol., 32, No. 10: 1335 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Кривоглаз, Дифракция рентгеновских лучей и нейтронов в неидеальных кристаллах (Киев: Наукова думка: 1983).",
+				"tr":  "M. A. Krivoglaz, Difraktsiya Rentgenovskikh Luchey i Neytronov v Neideal'nykh Kristallakh (Kiev: Naukova Dumka: 1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Эшелби, Континуальная теория дислокаций (Москва: Издательство иностранной литературы: 1963) (пер. с англ.).",
+				"tr":  "J. Eshelby, Kontinual'naya Teoriya Dislokatsiy [Continual Theory of Dislocations] (Moscow: Izdatel'stvo Inostrannoy Literatury: 1963) (Russian translation)."
+			}
+		]
+	}
+}

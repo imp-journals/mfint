@@ -1,0 +1,94 @@
+{
+	"_id":    "MFiNT.36.04.0547",
+	"year":   2014,
+	"volume": 36,
+	"issue":  4,
+	"pages":  [547,550],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["18.02.2014"],
+	"PACS":   "71.15.Ap, 71.20.Tx, 71.27.+a, 71.28.+d, 72.10.-d, 75.30.Mb, 75.40.Cx",
+	"title":   {
+		"ua": "Енергетичний спектр графену з домішкою азоту",
+		"en": "The Energy Spectrum of Graphene Doped with Nitrogen Impurity",
+		"ru": "Энергетический спектр графена с примесью азота"
+	},
+	"abstract": {
+		"ua": "На основі моделі сильного зв’язку досліджено електронну структуру графену з домішкою атомів азоту. Як базис обираються хвильові функції $2s$-, $2p$-станів нейтральних невзаємодійних атомів вуглецю. При розрахунках матричних елементів Гамільтоніана враховувалися перші три координаційні сфери. Встановлено, що гібридизація зон призводить до розщеплення енергетичного спектра електронів в області енергії Фермі. Завдяки перекриттю енергетичних зон, зазначена щілина проявляється як квазищілина, в області якої густина електронних станів є значно меншою в порівнянні з іншою областю спектра.",
+		"en": "On the basis of tight-binding model, the electronic structure of graphene doped with N atoms is investigated. A set of wave functions of $2s$- and $2p$-states of noninteracting neutral C atoms are chosen as the basis. In a given study, the first three coordination spheres are taken into account for calculation of Hamiltonian matrix elements. As found, the hybridization of bands leads to a splitting of the energy spectrum of electrons in the Fermi energy region. Due to the overlapping of the energy bands, the above-mentioned gap manifests itself as quasi-gap, in which the electron density of states has a much lower value in comparison with other areas of the spectrum.",
+		"ru": "На основе модели сильной связи исследована электронная структура графена с примесью атомов азота. В качестве базиса выбираются волновые функции $2s$-, $2p$-состояний нейтральных невзаимодействующих атомов углерода. При расчёте матричных элементов гамильтониана учитывались первые три координационные сферы. Установлено, что гибридизация зон приводит к расщеплению энергетического спектра электронов в области энергии Ферми. Благодаря перекрыванию энергетических зон, упомянутая выше щель проявляется как квазищель, в области которой плотность электронных состояний имеет значительно меньшее значение в сравнении с другой областью спектра."
+	},
+	"keywords": {
+		"ua": "графен з домішкою азоту, енергетичний спектр електронів, модель сильного зв’язку",
+		"en": "graphene doped with nitrogen, electron energy spectrum, tight-binding model",
+		"ru": "графен с примесью азота, энергетический спектр электронов, модель сильной связи"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. П. Репецький", "en": "S. P. Repetskyi", "ru": "С. П. Репецкий"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "В. А. Скотников", "en": "V. A. Skotnykov", "ru": "В. А. Скотников"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "В. В. Шастун", "en": "V. V. Shastun", "ru": "В. В. Шастун"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "Д. К. Чешківський", "en": "D. K. Cheshkivskyi", "ru": "Д. К. Чешковский"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "А. А. Яценюк", "en": "A. A. Yatsenyuk", "ru": "А. А. Яценюк"},
+			"OID": [201]
+		}
+	],
+	"references": {
+		"count": 8,
+		"list":  [
+			{
+				"doi": "10.1103/PhysRevB.73.241402",
+				"or":  "Yu. V. Skrypnyk and V. M. Loktev, Phys. Rev. B, 73: 241402(R) (2006).",
+				"tr":  "Yu. V. Skrypnyk and V.M. Loktev, Phys. Rev. B, 73: 241402(R) (2006)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.75.245401",
+				"or":  "Yu. V. Skrypnyk and V. M. Loktev, Phys. Rev. B, 75: 245401 (2007).",
+				"tr":  "Yu. V. Skrypnyk and V. M. Loktev, Phys. Rev. B, 75: 245401 (2007)."
+			},
+			{
+				"doi": "10.1023/A:1015931708479",
+				"or":  "S. P. Repetsky and T. D. Shatnii, Theoretical and Mathematical Physics, 131, Iss. 3: 832 (2002).",
+				"tr":  "S. P. Repetsky and T. D. Shatnii, Theoretical and Mathematical Physics, 131, Iss. 3: 832 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "S. P. Repetskii and I. G. Vyshivanaya, Phys. Met. Metallogr., 99, No. 6: 558 (2005).",
+				"tr":  "S. P. Repetskii and I. G. Vyshivanaya, Phys. Met. Metallogr., 99, No. 6: 558 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "С. П. Репецкий, И. Г. Вышиваная, Металлофиз. новейшие технол., 29, № 5: 587(2007).",
+				"tr":  "S. P. Repetskii and I. G. Vyshivanaya, Metallofiz. Noveishie Tekhnol., 29, No. 5: 587(2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. П. Репецкий, И. Г. Вишиваная, В. В. Шастун, А. Ф. Мельник, Металлофиз. новейшие технол., 33, № 4: 425 (2011).",
+				"tr":  "S. P. Repetskii, I. G. Vyshivanaya, V. V. Shastun, and A. F. Melnik, Metallofiz. Noveishie Tekhnol., 33, No. 4: 425 (2011) (in Russian)."
+			},
+			{
+				"doi": "10.1134/S0031918X12030143",
+				"or":  "S. P. Repetskii, I. G. Vyshivanaya, and D. K. Cheshkovskii, Phys. Met. Metallogr., 113: 213 (2012).",
+				"tr":  "S. P. Repetskii, I. G. Vyshivanaya, and D. K. Cheshkovskii, Phys. Met. Metallogr., 113: 213 (2012)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.108.116404",
+				"or":  "S. Kim, I. Jo, D. C. Dillen, D. A. Ferrer, B. Fallahazad, Z. Yao, S. K. Banerjee, and E. Tutuc, Phys. Rev. Lett., 108: 116404 (2012).",
+				"tr":  "S. Kim, I. Jo, D. C. Dillen, D. A. Ferrer, B. Fallahazad, Z. Yao, S. K. Banerjee, and E. Tutuc, Phys. Rev. Lett., 108: 116404 (2012)."
+			}
+		]
+	}
+}

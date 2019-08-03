@@ -1,0 +1,87 @@
+{
+	"_id":    "MFiNT.38.12.1669",
+	"year":   2016,
+	"volume": 38,
+	"issue":  12,
+	"pages":  [1669,1680],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["05.05.2016"],
+	"PACS":   "07.07.Tw, 07.10.Pz, 07.35.+k, 52.80.Wq, 62.50.-p, 62.50.Ef, 81.20.Hy, 81.40.Vw",
+	"title":   {
+		"ua": "Концепція інтелектуального електрогідравлічного преса для імпульсного листового штампування",
+		"en": "Concept of Smart Electrohydraulic Press for Impulse Sheet Forming",
+		"ru": "Концепция интеллектуального электрогидравлического пресса для импульсной листовой штамповки"
+	},
+	"abstract": {
+		"ua": "Спосіб електрогідравлічного імпульсного листового штампування (ЕГШ) довів високу ефективність в умовах пробного, дрібносерійного і середньосерійного виробництва. Новітнє досягнення, – багатоелектродні розрядні блоки, – забезпечує ефективне штампування листових деталів середніх і великих розмірів. Однак широке застосування технології ЕГШ у промисловості обмежується в основному двома проблемами: нестабільністю імпульсних полів тиску і недостачею літератури та кваліфікованих спеціялістів у галузі ЕГШ. У теперішній час проблема нестабільности розв’язується кваліфікованим спеціялістом ЕГШ шляхом розкриття оснащення, оглядом проміжних форм заготованки, внесенням корекцій у схему навантаження (схеми підключення електрод) і встановленням нових рівнів енергії розрядів. Новий підхід до розв’язання цієї проблеми передбачає рішення, які ґрунтуються на використанні інтелектуальної комп’ютерної числової системи керування обладнанням ЕГШ: виявлення проміжної форми листової заготованки після кожного розряду і внесення корекцій у параметри навантаження для кожного наступного розряду до одержання кінцевої форми деталю. Проміжну форму можна визначити шляхом міряння спеціяльними давачами, яких вбудовано в штамп у характерних місцях (точках). Друга підсистема має аналізувати положення декількох принципових ділянок заготованки, порівнювати їх із загальною стратегією процесу штампування для певного типу деталів, виявляти ті ділянки, які потребують більш високий тиск для гармонізації процесу формоутворення, і надавати цю інформацію в підсистеми, які керують багатоконтурним ґенератором струмів для утворення оптимізованої конфіґурації підключених електрод і рівня енергії, таким чином, визначаючи нову схему навантаження для наступного розряду. У теперішній час заплановано досліди по системі міряння форми заготованки для розв’язання цієї принципової проблеми в реалізації запропонованої концепції. Також опрацьовуються принципові конструкторські рішення для багатоконтурного ґенератора імпульсних струмів зі спеціяльним пристроєм для перемикання електрод.",
+		"en": "Electrohydraulic impulse sheet forming (EHF) method proved its high efficiency at pilot, small-batch, and middle-scale production conditions. As the latest achievement, multielectrode discharge blocks provide effective forming of the middle and large size sheet parts. However, wide application of EHF technology in industry is limited mainly by two problems: instability of impulse pressure fields and lack of literature as well as skilled EHF specialists. Now the problem of instability is solved by a qualified EHF specialist with intermediate disclosing of tooling, inspection of intermediate shapes of blank, making corrections in loading diagram (electrodes’ connections), and setting of new level of discharge energies. New approach to this problem includes solutions based on intellectual computer numerical control of EHF equipment: monitoring of intermediate shape of sheet blank after each discharge and making corrections of loading parameters for the next discharge till the final shape of part. Intermediate shape can be determined by measurements with special sensors built in a die in characteristic places (points). Another subsystem should analyse position of several principal segments of blank, compare them with total strategy of forming procedure for a definite type of sheet part, reveal those places, which need higher pressure to harmonise forming process, and give this information to the subsystem controlling a multicircuit current generator for optimised configuration of activated electrodes and energy level, thus, determining new pressure loading diagram for the next discharge. Now, the tests for blank shape measuring system are planned to solve this principal problem for realisation of the submitted concept. In addition, principal design solutions for multicircuit current generator with special unit for reconnections of electrodes are in work.",
+		"ru": "Способ электрогидравлической импульсной листовой штамповки (ЭГШ) доказал высокую эффективность в условиях пробного, мелкосерийного и среднесерийного производства. Новейшее достижение, – многоэлектродные разрядные блоки, – обеспечивает эффективную штамповку листовых деталей средних и больших размеров. Однако широкое применение технологии ЭГШ в промышленности ограничивается в основном двумя проблемами: нестабильностью импульсных полей давления и недостатком литературы и квалифицированных специалистов в области ЭГШ. В настоящее время проблема нестабильности решается квалифицированным специалистом ЭГШ путём раскрытия оснастки, осмотром промежуточных форм заготовки, внесением коррекций в схему нагружения (схемы подсоединения электродов) и установлением новых уровней энергии разрядов. Новый подход к решению этой проблемы предусматривает решения, основанные на применении интеллектуальной компьютерной числовой системы управления оборудованием ЭГШ: определение промежуточной формы листовой заготовки после каждого разряда и внесение коррекций в параметры нагружения для каждого последующего разряда до получения окончательной формы детали. Промежуточную форму можно определить путём измерения специальными датчиками, встроенными в штамп в характерных местах (точках). Вторая подсистема должна анализировать положение нескольких принципиальных участков заготовки, сравнивать их с общей стратегией процесса штамповки для определённого типа деталей, выявлять те участки, которые нуждаются в более высоком давлении для гармонизации процесса формообразования, и подавать эту информацию в подсистемы, которые управляют многоконтурным генератором токов для создания оптимизированной конфигурации подключённых электродов и уровня энергии, таким образом, определяя новую схему нагружения для следующего разряда. В настоящее время запланированы опыты по системе измерения формы заготовки для решения этой принципиальной проблемы в реализации предлагаемой концепции. Также прорабатываются принципиальные конструкторские решения для многоконтурного генератора импульсных токов со специальным устройством для переключения электродов."
+	},
+	"keywords": {
+		"ua": "прес, числове програмне керування, електрогідравлічне імпульсне штампування",
+		"en": "press, computer numerical control, electrohydraulic impulse forming",
+		"ru": "пресс, числовое программное управление, электрогидравлическая импульсная штамповка"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. К. Князєв", "en": "M. K. Knyazyev", "ru": "М. К. Князев"},
+			"OID": [207]
+		},
+		{
+			"AID": {"ua": "Ш. Беєрвальд", "en": "Ch. Beerwald", "ru": "Ш. Беервальд"},
+			"OID": [494]
+		}
+	],
+	"references": {
+		"count": 9,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Yu. I. Chebanov, Physical and Technical Aspects of Electric Explosive Converting of Energy (Kiev: Naukova Dumka: 1990), p. 89 (in Russian).",
+				"tr":  "Yu. I. Chebanov, Physical and Technical Aspects of Electric Explosive Converting of Energy (Kiev: Naukova Dumka: 1990), p. 89 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. K. Knyazyev, Proc. of the 4th International Conference ‘Supply on the Wings’ (Frankfurt-am-Main: 2009), p. 16.",
+				"tr":  "M. K. Knyazyev, Proc. of the 4th International Conference 'Supply on the Wings' (Frankfurt-am-Main: 2009), p. 16."
+			},
+			{
+				"doi": "",
+				"or":  "M. E. Taranenko, Elektrogidravlicheskaya Shtampovka: Teoriya, Oborudovanie, Tekhprotsessy [Electrohydraulic Forming: Theory, Equipment, Manufacturing Processes] (Kharkiv: National Aerospace University Named After M. Ye. Zhukovsky ‘Kharkiv Aviation Institute’: 2011) (in Russian).",
+				"tr":  "M. E. Taranenko, Elektrogidravlicheskaya Shtampovka: Teoriya, Oborudovanie, Tekhprotsessy [Electrohydraulic Forming: Theory, Equipment, Manufacturing Processes] (Kharkiv: National Aerospace University Named After M. Ye. Zhukovsky 'Kharkiv Aviation Institute': 2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. K. Knyazyev and Yu. V. Protsan, Proc. of the 17th International Congress Propulsion Engineering (Kharkiv: National Aerospace University Named After M. Ye. Zhukovsky ‘Kharkiv Aviation Institute’: 2012), p. 143 (in Russian).",
+				"tr":  "M. K. Knyazyev and Yu. V. Protsan, Proc. of the 17th International Congress Propulsion Engineering (Kharkiv: National Aerospace University Named After M. Ye. Zhukovsky 'Kharkiv Aviation Institute': 2012), p. 143 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. K. Knyazyev and Yu. V. Protsan, Visnyk Natsional’nogo Tekhnichnogo Universytetu ‘KhPI’. Seriya: Novi Rishennya v Suchasnykh Tekhnologiyakh, No. 46: 63 (2012) (in Russian).",
+				"tr":  "M. K. Knyazyev and Yu. V. Protsan, Visnyk Natsional'nogo Tekhnichnogo Universytetu 'KhPI'. Seriya: Novi Rishennya v Suchasnykh Tekhnologiyakh, No. 46: 63 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. K. Knyazyev and Ya. S. Zhovnovatyuk, Proc. 20th Anniversary International Conference on Metallurgy and Materials METAL 2011 (May 18–20, 2011) (Brno: 2011), p. 6.",
+				"tr":  "M. K. Knyazyev and Ya. S. Zhovnovatyuk, Proc. 20th Anniversary International Conference on Metallurgy and Materials METAL 2011 (May 18–20, 2011) (Brno: 2011), p. 6."
+			},
+			{
+				"doi": "",
+				"or":  "M. K. Knyazyev and D. M. Tkachenko, Proc. International Scientific Conference ‘Integrated Computer Technologies in Machine-Building ICTM-2009’ (Kharkiv: National Aerospace University Named After M. Ye. Zhukovsky ‘Kharkiv Aviation Institute’: 2009), vol. 1, p. 51 (in Russian).",
+				"tr":  "M. K. Knyazyev and D. M. Tkachenko, Proc. International Scientific Conference 'Integrated Computer Technologies in Machine-Building ICTM-2009' (Kharkiv: National Aerospace University Named After M. Ye. Zhukovsky 'Kharkiv Aviation Institute': 2009), vol. 1, p. 51 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "K. J. Eström and B. Wittenmark, Computer-Controlled Systems: Theory and Design (Mineola, NY: Dover Publication: 2013).",
+				"tr":  "K. J. Eström and B. Wittenmark, Computer-Controlled Systems: Theory and Design (Mineola, NY: Dover Publication: 2013)."
+			},
+			{
+				"doi": "",
+				"or":  "K. J. Eström and B. Wittenmark, Adaptive Control (Mineola, NY: Dover Publication: 2008).",
+				"tr":  "K. J. Eström and B. Wittenmark, Adaptive Control (Mineola, NY: Dover Publication: 2008)."
+			}
+		]
+	}
+}

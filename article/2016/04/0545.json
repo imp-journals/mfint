@@ -1,0 +1,233 @@
+{
+	"_id":    "MFiNT.38.04.0545",
+	"year":   2016,
+	"volume": 38,
+	"issue":  4,
+	"pages":  [545,563],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["16.02.2016"],
+	"PACS":   "43.35.+d, 62.20.Qp, 62.23.Pq, 68.35.Gy, 68.55.Nq, 81.40.Pq, 81.65.Lp",
+	"title":   {
+		"ua": "Синтез деформаційних нанокомпозитів на поверхні алюмінійового сплаву Д16 за допомогою ультразвукового ударного оброблення",
+		"en": "Synthesis of Deformation-Induced Nanocomposites on Aluminium D16 Alloy Surface by Ultrasonic Impact Treatment",
+		"ru": "Синтез деформационных нанокомпозитов на поверхности алюминиевого сплава Д16 с помощью ультразвуковой ударной обработки"
+	},
+	"abstract": {
+		"ua": "Досліджено вплив ультразвукового ударного оброблення (УЗУО) в інертному середовищі на структуру, фазовий склад та мікромеханічні властивості композиційних покриттів, сформованих втіленням у поверхневі шари алюмінійового стопу Д16 дисперсних частинок зміцнювальних порошків Al$_{2}$O$_{3}$, B$_{4}$C, BN та вуглецевих нанотрубок. Під дією інтенсивної пластичної деформації, спричиненої УЗУО, відбуваються часткове подрібнення та втілення частинок порошків і процес наноструктуризації матричного стопу з формуванням деформаційних композитних шарів. Максимальні зміцнення (200—350%) та зростання зносостійкости (в $\\cong$ 7 разів) поверхні стопу Д16 спостерігаються за умов армування частинками Al$_{2}$O$_{3}$ і B$_{4}$C.",
+		"en": "The influence of ultrasonic impact treatment (UIT) in an inert atmosphere on the structure, phase composition and micromechanical properties of composite coatings formed by embedding of dispersed particles of Al$_{2}$O$_{3}$, B$_{4}$C, BN hardening powders and carbon nanotubes into the surface layers of D16 aluminium alloy is investigated. Under influence of severe plastic deformation caused by UIT, a partial grinding and introduction of powder particles and the nanostructurization of matrix alloy with the deformation composite layers take place. The observed maximum strengthening (200—350%) and durability increase ($\\cong$ 7 times) of D16 alloy surface occur due to reinforcement by Al$_{2}$O$_{3}$ and B$_{4}$C particles.",
+		"ru": "Исследовано влияние ультразвуковой ударной обработки (УЗУО) в инертной среде на структуру, фазовый состав и микромеханические свойства композиционных покрытий, сформированных внедрением в поверхностные слои алюминиевого сплава Д16 дисперсных частиц упрочняющих порошков Al$_{2}$O$_{3}$, B$_{4}$C, BN и углеродных нанотрубок. Под действием интенсивной пластической деформации, вызванной УЗУО, происходят частичное дробление и внедрение частиц порошков и процесс наноструктуризации матричного сплава с формированием деформационных композитных слоёв. Максимальное упрочнение (200—350%) и увеличение износостойкости (в $\\cong$ 7 раз) поверхности сплава Д16 происходит в условиях армирования частицами Al$_{2}$O$_{3}$ и B$_{4}$C."
+	},
+	"keywords": {
+		"ua": "ультразвукове ударне оброблення (УЗУО), поверхневий нанокомпозит, інтенсивна пластична деформація, квазигідростатичне стиснення, зносостійкість",
+		"en": "ultrasonic impact treatment (UIT), surface nanocomposite, severe plastic deformation, quasi-hydrostatic compression, durability",
+		"ru": "ультразвуковая ударная обработка (УЗУО), поверхностный нанокомпозит, интенсивная пластическая деформация, квазигидростатическое сжатие, износостойкость"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. О. Васильєв", "en": "M. O. Vasyliev", "ru": "М. А. Васильев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Б. М. Мордюк", "en": "B. M. Mordyuk", "ru": "Б. Н. Мордюк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. І. Сидоренко", "en": "S. I. Sidorenko", "ru": "С. И. Сидоренко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "С. М. Волошко", "en": "S. M. Voloshko", "ru": "С. М. Волошко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "А. П. Бурмак", "en": "A. P. Burmak", "ru": "А. П. Бурмак"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "М. В. Кіндрачук", "en": "M. V. Kindrachuk", "ru": "М. В. Киндрачук"},
+			"OID": [205]
+		}
+	],
+	"references": {
+		"count": 35,
+		"list":  [
+			{
+				"doi": "10.1016/S0921-5093(97)80063-9",
+				"or":  "L. Borner and J. Eckert, Mater. Sci. Eng. A, 226–228: 541 (1997).",
+				"tr":  "L. Borner and J. Eckert, Mater. Sci. Eng. A, 226–228: 541 (1997)."
+			},
+			{
+				"doi": "10.1016/j.matdes.2004.12.011",
+				"or":  "S. M. Zebarjad and S. A. Sajjadi, Mater. Design., 27, No. 8: 684 (2006).",
+				"tr":  "S. M. Zebarjad and S. A. Sajjadi, Mater. Design., 27, No. 8: 684 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. І. Прокопенко, С. М. Волошко, І. Є. Котенко, А. П. Бурмак, Наукові вісті НТУУ «КПІ», № 3: 42 (2009).",
+				"tr":  "G. I. Prokopenko, S. M. Voloshko, I. E. Kotenko, and A. P. Burmak, Naukovi Visti NTUU 'KPI', No. 3: 42 (2009) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. И. Прокопенко, А. Л. Березина, С. М. Волошко, И. Е. Котенко, А. П. Бурмак, Металлофиз. новейшие технол., 32, № 3: 397 (2010).",
+				"tr":  "G. I. Prokopenko, A. L. Berezina, S. M. Voloshko, I. E. Kotenko, and A. P. Burmak, Metallofiz. Noveishie Tekhnol., 32, No. 3: 397 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. І. Сидоренко, С. М. Волошко, І. Є. Котенко, А. П. Бурмак, Металлофиз. новейшие технол., 33, № 12: 1659 (2011).",
+				"tr":  "S. I. Sydorenko, S. M. Voloshko, I. E. Kotenko, and A. P. Burmak, Metallofiz. Noveishie Tekhnol., 33, No. 12: 1659 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Бурмак, С. І. Сидоренко, М. О. Васильєв, С. М. Волошко, Наукові вісті НТУУ «КПІ», № 1: 57 (2013).",
+				"tr":  "A. P. Burmak, S. I. Sidorenko, M. A. Vasylyev, and S. M. Voloshko, Naukovi Visti NTUU ‘KPI’, No. 1: 57 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ю. Борозна, Повышение физико-механических свойств титановых сплавов путем модифицирования поверхности и формирования композитного металл-полимерного слоя ультразвуковой обработкой (Автореферат дисс. ... канд. техн. наук) (Юрга: 2011).",
+				"tr":  "V. Yu. Borozna, Povyshenie Fiziko-Mekhanicheskikh Svoystv Titanovykh Splavov Putem Modifitsirovaniya Poverkhnosti i Formirovaniya Kompozitnogo Metall-Polimernogo Sloya Ul’trazvukovoy Obrabotkoy (Thesis of Disser. … for the Degree of Cand. Techn. Sci.) (Yurga: 2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Васильев, Г. И. Прокопенко, В. С. Филатова, Успехи физики металлов, 5: 345 (2004).",
+				"tr":  "M. O. Vasiliev, G. I. Prokopenko, and V. S. Filatova, Uspehi Fiziki Metallov, 5: 345 (2004) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2006.07.049",
+				"or":  "P. B. Kadolkar, T. R. Watkins, J. Th. M. De Hosson, B. J. Kooi, and N. B. Dahotre, Acta Mater., 55: 1203 (2007).",
+				"tr":  "P. B. Kadolkar, T. R. Watkins, J. Th. M. De Hosson, B. J. Kooi, and N. B. Dahotre, Acta Mater., 55: 1203 (2007)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2008.07.199",
+				"or":  "S. Romankov, S. D. Kaloshkin, Y. Hayasaka, Zh. Sagdoldina, S. V. Komarov, N. Hayashi, and E. Kasai, J. Alloys Compd., 483: 386 (2009).",
+				"tr":  "S. Romankov, S. D. Kaloshkin, Y. Hayasaka, Zh. Sagdoldina, S. V. Komarov, N. Hayashi, and E. Kasai, J. Alloys Compd., 483: 386 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "С. І. Сидоренко, С. М. Волошко, І. Є. Котенко, А. П. Бурмак, Металлофиз. новейшие технол., 34, № 8: 1101 (2012).",
+				"tr":  "S. I. Sydorenko, S. M. Voloshko, I. E. Kotenko, and A. P. Burmak, Metallofiz. Noveishie Tekhnol., 34, No. 8: 1101 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/j.wear.2014.07.011",
+				"or":  "B. N. Mordyuk, G. I. Prokopenko, Yu. V. Milman, M. O. Iefimov, K. E. Grinkevich, A. V. Sameljuk, and I. V. Tkachenko, Wear, 319: 84 (2014).",
+				"tr":  "B. N. Mordyuk, G. I. Prokopenko, Yu. V. Milman, M. O. Iefimov, K. E. Grinkevich, A. V. Sameljuk, and I. V. Tkachenko, Wear, 319: 84 (2014)."
+			},
+			{
+				"doi": "10.1016/j.msea.2008.09.064",
+				"or":  "A. Shafiei-Zarghani, S. F. Kashani-Bozorg, and A. Zarei-Hanzaki, Mater. Sci. Eng. A, 500: 84 (2009).",
+				"tr":  "A. Shafiei-Zarghani, S. F. Kashani-Bozorg, and A. Zarei-Hanzaki, Mater. Sci. Eng. A, 500: 84 (2009)."
+			},
+			{
+				"doi": "10.1016/j.msea.2010.07.024",
+				"or":  "B. Zahmatkesh and M. H. Enayati, Mater. Sci. Eng. A, 527: 6734 (2010).",
+				"tr":  "B. Zahmatkesh and M. H. Enayati, Mater. Sci. Eng. A, 527: 6734 (2010)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(02)00199-5",
+				"or":  "R. S. Mishra, Z. Y. Ma, and I. Charit, Mater. Sci. Eng. A, 341: 307 (2003).",
+				"tr":  "R. S. Mishra, Z. Y. Ma, and I. Charit, Mater. Sci. Eng. A, 341: 307 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. А. Курганова, Т. А. Чернышова, Л. И Кобелева, Тезисы 4го международного семинара «Наноструктурные материалы» (Новосибирск: 2007), с. 62.",
+				"tr":  "Yu. A. Kurganova, T. A. Chernyshova, and L. I Kobeleva, Proc. 4 International Seminar ‘Nanostrukturnye Materialy’ (Novosibirsk: 2007), p. 62 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Ладьянов, Г. А. Дрофеев, А. Н. Лубнин, В. А. Кареев, Тезисы докладов международного форума по нанотехнологиям «Rusnanotech» (6–8 октября, 2006, Москва), с. 379.",
+				"tr":  "V. I. Lad’yanov, G. A. Drofeev, A. N. Lubnin, and V. A. Kareev, Proc. International Forum of Nanotechnology ‘Rusnanotech’ (October 6–8, 2006, Moscow), p. 379 (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.matlet.2006.11.073",
+				"or":  "C. F. Deng, D. Z. Wang, X. X. Zhang, and Y. X. Ma, Mater. Lett., 61: 3229 (2007).",
+				"tr":  "C. F. Deng, D. Z. Wang, X. X. Zhang, and Y. X. Ma, Mater. Lett., 61: 3229 (2007)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2008.07.189",
+				"or":  "C. Carreno-Gallardo, I. Estrada-Guel, M. A. Neri, and E. Rocha-Rangel, J. Alloys Compd., 483: 355 (2009).",
+				"tr":  "C. Carreno-Gallardo, I. Estrada-Guel, M. A. Neri, and E. Rocha-Rangel, J. Alloys Compd., 483: 355 (2009)."
+			},
+			{
+				"doi": "10.1016/j.matlet.2004.06.012",
+				"or":  "A. Daoud, Mater. Lett., 58: 3206 (2004).",
+				"tr":  "A. Daoud, Mater. Lett., 58: 3206 (2004)."
+			},
+			{
+				"doi": "10.1002/9783527674947.ch17",
+				"or":  "B. N. Mordyuk and G. I. Prokopenko, Handbook of Mechanical Nanostructuring (Wiley-VCH: 2015), p. 417.",
+				"tr":  "B. N. Mordyuk and G. I. Prokopenko, Handbook of Mechanical Nanostructuring (Wiley-VCH: 2015), p. 417."
+			},
+			{
+				"doi": "10.1016/j.matchar.2010.07.007",
+				"or":  "B. N. Mordyuk, V. V. Silberschidt, G. I. Prokopenko, Yu. V. Nesterenko, and M. O. Iefimov, Mater. Charact., 61: 1126 (2010).",
+				"tr":  "B. N. Mordyuk, V. V. Silberschidt, G. I. Prokopenko, Yu. V. Nesterenko, and M. O. Iefimov, Mater. Charact., 61: 1126 (2010)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2011.05.046",
+				"or":  "B. N. Mordyuk, M. O. Iefimov, K. E. Grinkevich, M. I. Danylenko, and A. V. Samelyuk, Surf. Coat. Technol., 205: 5278 (2011).",
+				"tr":  "B. N. Mordyuk, M. O. Iefimov, K. E. Grinkevich, M. I. Danylenko, and A. V. Samelyuk, Surf. Coat. Technol., 205: 5278 (2011)."
+			},
+			{
+				"doi": "10.1016/j.msea.2011.01.043",
+				"or":  "S. Romankov, Y. Haysaka, I. V. Shchetinin, E. Kasai, S. V. Komarov, and J.-M. Yoon, Mater. Sci. Eng. A, 528: 3455 (2011).",
+				"tr":  "S. Romankov, Y. Haysaka, I. V. Shchetinin, E. Kasai, S. V. Komarov, and J.-M. Yoon, Mater. Sci. Eng. A, 528: 3455 (2011)."
+			},
+			{
+				"doi": "10.15407/mfint.37.09.1269",
+				"or":  "М. О. Васильєв, Б. М. Мордюк, С. І. Сидоренко, С. М. Волошко, А. П. Бурмак, Металлофиз. новейшие технол., 37, № 9: 1269 (2015).",
+				"tr":  "M. O. Vasyliev, B. M. Mordyuk, S. I. Sidorenko, S. M. Voloshko, and A. P. Burmak, Metallofiz. Noveishie Tekhnol., 37, No. 9: 1269 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "http://www.coorstek.com/materials/specialty.php.",
+				"tr":  "http://www.coorstek.com/materials/specialty.php."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Мильман, С. И. Чугунова, И. В. Гончарова, Вопросы атомной науки и техники, № 4: 182 (2011).",
+				"tr":  "Yu. V. Mil’man, S. I. Chugunova, and I. V. Goncharova, Voprosy Atomnoy Nauki i Tekhniki, No. 4: 182 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Степанов, М. И. Алымов, Изв. РАН «Металлы», № 3: 65 (2004).",
+				"tr":  "Yu. N. Stepanov and M. I. Alymov, Izv. RAN ‘Metally’, No. 3: 65 (2004) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2009.10.009",
+				"or":  "B. N. Mordyuk, M. O. Iefimov, G. I. Prokopenko, T. V. Golub, and M. I. Danylenko, Surf. Coat. Technol., 204: 1590 (2010).",
+				"tr":  "B. N. Mordyuk, M. O. Iefimov, G. I. Prokopenko, T. V. Golub, and M. I. Danylenko, Surf. Coat. Technol., 204: 1590 (2010)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2005.12.017",
+				"or":  "Z. Zhang and D. L. Chen, Scr. Mater., 54: 1321 (2006).",
+				"tr":  "Z. Zhang and D. L. Chen, Scr. Mater., 54: 1321 (2006)."
+			},
+			{
+				"doi": "10.1016/S0266-3538(96)00167-4",
+				"or":  "R. L. Deuis, C. Subramanian, and J. M. Yellup, Compos. Sci. Technol., 57: 415 (1997).",
+				"tr":  "R. L. Deuis, C. Subramanian, and J. M. Yellup, Compos. Sci. Technol., 57: 415 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "М. М. Хрущев, М. А. Бабичев, Абразивное изнашивание (Москва: Наука: 1970).",
+				"tr":  "M. M. Khrushchev and M. A. Babichev, Abrazivnoe Iznashivanie [The Abrasive Wear] (Moscow: Nauka: 1970) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0043-1648(92)90225-W",
+				"or":  "R. A. Poggie and J. J. Wert, Wear, 156: 315 (1992).",
+				"tr":  "R. A. Poggie and J. J. Wert, Wear, 156: 315 (1992)."
+			},
+			{
+				"doi": "10.1016/j.compositesb.2015.01.007",
+				"or":  "G. Miranda, М. Buciumeanu, S. Madeira, O. Carvalho, D. Soares, and F. S. Silva, Composites B: Engineering, 74: 153 (2015).",
+				"tr":  "G. Miranda, M. Buciumeanu, S. Madeira, O. Carvalho, D. Soares, and F. S. Silva, Composites B: Engineering, 74: 153 (2015)."
+			},
+			{
+				"doi": "10.1016/j.matdes.2010.04.054",
+				"or":  "B. Zahmatkesh, M. H. Enayati, and F. Karimzadeh, Mater. Design, 10: 4891 (2010).",
+				"tr":  "B. Zahmatkesh, M. H. Enayati, and F. Karimzadeh, Mater. Design, 10: 4891 (2010)."
+			}
+		]
+	}
+}

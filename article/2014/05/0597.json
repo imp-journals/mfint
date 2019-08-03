@@ -1,0 +1,190 @@
+{
+	"_id":    "MFiNT.36.05.0597",
+	"year":   2014,
+	"volume": 36,
+	"issue":  5,
+	"pages":  [597,611],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["25.12.2013"],
+	"PACS":   "68.35.Dv, 79.60.Bm, 82.65.+r, 82.80.Pv, 82.80.Rt",
+	"title":   {
+		"ua": "Дослідження наночастинок золота на TiO$_{2}$-підкладці методами РФЕС/ЧП-ВІМС: вплив каталітичного окислення CO",
+		"en": "XPS/ToF-SIMS Characterization of TiO$_{2}$ Supported Au Nanoparticles: Effect of Catalytic CO Oxidation",
+		"ru": "Исследование наночастиц золота на TiO$_{2}$-подложке методами РФЭС/ВП-ВИМС: влияние каталитического окисления CO"
+	},
+	"abstract": {
+		"ua": "За допомогою рентґенівської фотоелектронної спектроскопії (РФЕС) та часопролітної вторинно-іонної мас-спектрометрії (ЧП-ВІМС) проведено порівняльне дослідження складу поверхні й електронної структури каталізатора Au/TiO$_{2}$ у свіжоприготованому стані та після його використання у реакції окиснення CO за кімнатної температури. Встановлено, що індуковані каталітичною реакцією зміни у морфології наночастинок Au, які спричинені їхньою аґломерацією, супроводжувалися модифікуванням електронного стану каталізатора завдяки посиленому перенесенню електронів на атоми золота, що проявлялося як додатковий неґативний зсув РФЕ-спектра Au 4f і його спотворення. Каталітична реакція окиснення CO призводила до втрати гідроксильних груп та накопичення на поверхні підкладки різних вуглецевмісних функціональних груп з переважним формуванням карбонатів і бікарбонатів, яке посилювалося з часом реакції. Обговорюється роль цих чинників у деактивації каталізатора.",
+		"en": "X-ray photoelectron spectroscopy (XPS) and time-of-flight secondary ion mass spectrometry (ToF-SIMS) are employed for a comparative study of the surface composition and electronic structure of an Au/TiO$_{2}$ catalyst in the asprepared state and after using it in the reaction of CO oxidation at room temperature. As found, the reaction-induced changes in the morphology of Au nanoparticles related to their agglomeration are accompanied by modification of the electronic state of the catalyst via an enhanced electron transfer to the gold atoms that shows up as an additional negative shift of the Au 4f spectrum and its distortion. The catalytic reaction of CO oxidation results in the loss of hydroxyl groups and accumulation on the support surface of various carbon-containing species with the leading formation of carbonate and bicarbonate groups, which increases with time on stream. The role of these factors in deactivation of the catalyst is discussed.",
+		"ru": "С помощью рентгеновской фотоэлектронной спектроскопии (РФЭС) и времяпролётной вторично-ионной масс-спектрометрии (ВП-ВИМС) проведено сравнительное исследование состава поверхности и электронной структуры катализатора Au/TiO$_{2}$ в свежеприготовленном состоянии и после его использования в реакции окисления CO при комнатной температуре. Установлено, что индуцированные каталитической реакцией изменения в морфологии наночастиц Au, вызванные их агломерацией, сопровождались модификацией электронного состояния катализатора путём усиленного переноса электронов на атомы золота, что проявлялось в виде дополнительного отрицательного сдвига РФЭ-спектра Au 4f и его искажения. Каталитическая реакция окисления CO приводила к потере гидроксильных групп и накоплению на поверхности подложки различных углеродсодержащих функциональных групп с преимущественным формированием карбонатов и бикарбонатов, которое усиливалось с течением времени реакции. Обсуждается роль этих факторов в деактивации катализатора."
+	},
+	"keywords": {
+		"ua": "каталізатор Au/TiO$_{2}$, карбонати, окислення CO, спікання, РФЕС, ЧП-ВІМС",
+		"en": "Au/TiO$_{2}$ catalyst, carbonates, CO oxidation, sintering, XPS, ToF-SIMS",
+		"ru": "катализатор Au/TiO$_{2}$, карбонаты, окисление CO, спекание, РФЭС, ВП-ВИМС"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. П. Ченакін", "en": "S. P. Chenakin", "ru": "С. П. Ченакин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Н. Крузе", "en": "N. Kruse", "ru": "Н. Крузе"},
+			"OID": [464]
+		},
+		{
+			"AID": {"ua": "М. О. Васильєв", "en": "M. A. Vasylyev", "ru": "М. А. Васильев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "І. М. Макеєва", "en": "I. N. Makeeva", "ru": "И. Н. Макеева"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 28,
+		"list":  [
+			{
+				"doi": "10.1007/BF03216579",
+				"or":  "J. C. Bond and D. T. Thompson, Gold Bull., 33: 41 (2000).",
+				"tr":  "J. C. Bond and D. T. Thompson, Gold Bull., 33: 41 (2000)."
+			},
+			{
+				"doi": "10.1021/ja062792o",
+				"or":  "E. A. Willneff, S. Braun, D. Rosenthal, H. Bluhm, M. Hävecker, E. Kleimenov, A. Knop-Gericke, R. Schlögl, and S. L. M. Schroeder, J. Am. Chem. Soc., 128: 12052 (2006).",
+				"tr":  "E. A. Willneff, S. Braun, D. Rosenthal, H. Bluhm, M. Hävecker, E. Kleimenov, A. Knop-Gericke, R. Schlögl, and S. L. M. Schroeder, J. Am. Chem. Soc., 128: 12052 (2006)."
+			},
+			{
+				"doi": "10.1006/jcat.1999.2531",
+				"or":  "E. D. Park and J. S. Lee, J. Catal., 186: 1 (1999).",
+				"tr":  "E. D. Park and J. S. Lee, J. Catal., 186: 1 (1999)."
+			},
+			{
+				"doi": "10.1039/a900838a",
+				"or":  "A. M. Visco, F. Neri, G. Neri, A. Donato, C. Milone, and S. Galvagno, Phys. Chem. Chem. Phys., 1: 2869 (1999).",
+				"tr":  "A. M. Visco, F. Neri, G. Neri, A. Donato, C. Milone, and S. Galvagno, Phys. Chem. Chem. Phys., 1: 2869 (1999)."
+			},
+			{
+				"doi": "10.1021/jp045928i",
+				"or":  "A. M. Venezia, G. Pantaleo, A. Longo, G. Di Carlo, M. P. Casaletto, F. L. Liotta, and G. Deganello, J. Phys. Chem. B, 109: 2821 (2005).",
+				"tr":  "A. M. Venezia, G. Pantaleo, A. Longo, G. Di Carlo, M. P. Casaletto, F. L. Liotta, and G. Deganello, J. Phys. Chem. B, 109: 2821 (2005)."
+			},
+			{
+				"doi": "10.1016/j.molcata.2003.12.021",
+				"or":  "P. Konova, A. Naydenov, Cv. Venkov, D. Mehandjiev, D. Andreeva, and T. Tabakova, J. Mol. Catal. A: Chem., 213: 235 (2004).",
+				"tr":  "P. Konova, A. Naydenov, Cv. Venkov, D. Mehandjiev, D. Andreeva, and T. Tabakova, J. Mol. Catal. A: Chem., 213: 235 (2004)."
+			},
+			{
+				"doi": "10.1021/ja036352y",
+				"or":  "S. Arrii, F. Morfin, A. J. Renouprez, and J. L. Rousset, J. Am. Chem. Soc., 126: 1199 (2004).",
+				"tr":  "S. Arrii, F. Morfin, A. J. Renouprez, and J. L. Rousset, J. Am. Chem. Soc., 126: 1199 (2004)."
+			},
+			{
+				"doi": "10.1016/j.jcat.2004.12.008",
+				"or":  "G. M. Veith, A. R. Lupini, S. J. Pennycook, G. W. Ownby, and N. J. Dudney, J. Catal., 231: 151 (2005).",
+				"tr":  "G. M. Veith, A. R. Lupini, S. J. Pennycook, G. W. Ownby, and N. J. Dudney, J. Catal., 231: 151 (2005)."
+			},
+			{
+				"doi": "10.1016/j.jcat.2007.07.029",
+				"or":  "Y. Denkwitz, Z. Zhao, U. Hörmann, U. Kaiser, V. Plzak, and R. J. Behm, J. Catal., 251: 363 (2007).",
+				"tr":  "Y. Denkwitz, Z. Zhao, U. Hörmann, U. Kaiser, V. Plzak, and R. J. Behm, J. Catal., 251: 363 (2007)."
+			},
+			{
+				"doi": "10.1016/j.catcom.2004.06.010",
+				"or":  "P. Konova, A. Naydenov, T. Tabakova, and D. Mehandjiev, Catal. Commun., 5: 537 (2004).",
+				"tr":  "P. Konova, A. Naydenov, T. Tabakova, and D. Mehandjiev, Catal. Commun., 5: 537 (2004)."
+			},
+			{
+				"doi": "10.1016/j.apcatb.2008.09.031",
+				"or":  "L.-C. Wang, Q. Liu, X.-S. Huang, Y.-M. Liu, Y. Cao, and K.-N. Fan, Appl. Catal. B, 88: 204 (2009).",
+				"tr":  "L.-C. Wang, Q. Liu, X.-S. Huang, Y.-M. Liu, Y. Cao, and K.-N. Fan, Appl. Catal. B, 88: 204 (2009)."
+			},
+			{
+				"doi": "10.1016/j.apcata.2010.05.039",
+				"or":  "N. Kruse and S. P. Chenakin, Appl. Catal. A: Gen., 391: 367 (2011).",
+				"tr":  "N. Kruse and S. P. Chenakin, Appl. Catal. A: Gen., 391: 367 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "Handbook of X-Ray Photoelectron Spectroscopy (Eds. C. D. Wagner, W. M. Riggs, L. E. Davis, J. F. Moulder, and G. E. Muilenberg) (Eden Prairie: Perkin-Elmer Corp.: 1979).",
+				"tr":  "Handbook of X-Ray Photoelectron Spectroscopy (Eds. C. D. Wagner, W. M. Riggs, L. E. Davis, J. F. Moulder, and G. E. Muilenberg) (Eden Prairie: Perkin-Elmer Corp.: 1979)."
+			},
+			{
+				"doi": "10.1002/sia.740170508",
+				"or":  "G. P. López, D. G. Castner, and B. D. Ratner, Surf. Interface Anal., 17: 267 (1991).",
+				"tr":  "G. P. López, D. G. Castner, and B. D. Ratner, Surf. Interface Anal., 17: 267 (1991)."
+			},
+			{
+				"doi": "10.1007/s10562-004-0768-2",
+				"or":  "D. W. Goodman, Catal. Lett., 99: 1 (2005).",
+				"tr":  "D. W. Goodman, Catal. Lett., 99: 1 (2005)."
+			},
+			{
+				"doi": "10.1063/1.1557919",
+				"or":  "A. Vijay, G. Mills, and H. Metiu, J. Chem. Phys., 118: 6536 (2003).",
+				"tr":  "A. Vijay, G. Mills, and H. Metiu, J. Chem. Phys., 118: 6536 (2003)."
+			},
+			{
+				"doi": "10.1021/nn201817b",
+				"or":  "Y. Gao, N. Shao, Y. Pei, Z. Chen, and X. C. Zeng, ACS Nano, 5: 7818 (2011).",
+				"tr":  "Y. Gao, N. Shao, Y. Pei, Z. Chen, and X. C. Zeng, ACS Nano, 5: 7818 (2011)."
+			},
+			{
+				"doi": "10.1016/j.jcat.2006.06.005",
+				"or":  "K. Y. Ho and K. L. Yeung, J. Catal., 242: 131 (2006).",
+				"tr":  "K. Y. Ho and K. L. Yeung, J. Catal., 242: 131 (2006)."
+			},
+			{
+				"doi": "10.1007/BF03215005",
+				"or":  "M. C. Raphulu, J. McPherson, E. van der Lingen, J. A. Anderson, and M. S. Scurrell, Gold Bull., 43: 334 (2010).",
+				"tr":  "M. C. Raphulu, J. McPherson, E. van der Lingen, J. A. Anderson, and M. S. Scurrell, Gold Bull., 43: 334 (2010)."
+			},
+			{
+				"doi": "10.1021/jp807865w",
+				"or":  "F. Yang, M. S. Chen, and D. W. Goodman, J. Phys. Chem. C, 113: 254 (2009).",
+				"tr":  "F. Yang, M. S. Chen, and D. W. Goodman, J. Phys. Chem. C, 113: 254 (2009)."
+			},
+			{
+				"doi": "10.1039/c3ta00081h",
+				"or":  "C. J. Karwacki, P. Ganesh, P. R. C. Kent, W. O. Gordon, G. W. Peterson, J. J. Niu, and Y. Gogotsi, J. Mater. Chem. A, 1: 6051 (2013).",
+				"tr":  "C. J. Karwacki, P. Ganesh, P. R. C. Kent, W. O. Gordon, G. W. Peterson, J. J. Niu, and Y. Gogotsi, J. Mater. Chem. A, 1: 6051 (2013)."
+			},
+			{
+				"doi": "10.1021/jz2013177",
+				"or":  "P. Ganesh, P. R. C. Kent, and G. M. Veith, J. Phys. Chem. Lett., 2: 2918 (2011).",
+				"tr":  "P. Ganesh, P. R. C. Kent, and G. M. Veith, J. Phys. Chem. Lett., 2: 2918 (2011)."
+			},
+			{
+				"doi": "10.1016/S0926-860X(02)00092-3",
+				"or":  "C. K. Costello, M. C. Kung, H.-S. Oh, Y. Wang, and H. H. Kung, Appl. Catal. A: Gen., 232: 159 (2002).",
+				"tr":  "C. K. Costello, M. C. Kung, H.-S. Oh, Y. Wang, and H. H. Kung, Appl. Catal. A: Gen., 232: 159 (2002)."
+			},
+			{
+				"doi": "10.1021/jp072102i",
+				"or":  "M. C. Kung, R. J. Davis, and H. H. Kung, J. Phys. Chem. C, 111: 11767 (2007).",
+				"tr":  "M. C. Kung, R. J. Davis, and H. H. Kung, J. Phys. Chem. C, 111: 11767 (2007)."
+			},
+			{
+				"doi": "10.1016/j.jcat.2004.02.036",
+				"or":  "B. Schumacher, Y. Denkwitz, V. Plzak, M. Kinne, and R. J. Behm, J. Catal., 224: 449 (2004).",
+				"tr":  "B. Schumacher, Y. Denkwitz, V. Plzak, M. Kinne, and R. J. Behm, J. Catal., 224: 449 (2004)."
+			},
+			{
+				"doi": "10.1016/j.cattod.2006.10.008",
+				"or":  "J. C. Clark, S. Dai, and S. H. Overbury, Catal. Today, 126: 135 (2007).",
+				"tr":  "J. C. Clark, S. Dai, and S. H. Overbury, Catal. Today, 126: 135 (2007)."
+			},
+			{
+				"doi": "10.1016/j.jcat.2013.06.021",
+				"or":  "J. Saavedra, C. Powell, B. Panthi, C. J. Pursell, and B. D. Chandler, J. Catal., 307: 37 (2013).",
+				"tr":  "J. Saavedra, C. Powell, B. Panthi, C. J. Pursell, and B. D. Chandler, J. Catal., 307: 37 (2013)."
+			},
+			{
+				"doi": "10.1023/A:1024731812974",
+				"or":  "B. Schumacher, V. Plzak, M. Kinne, and R. J. Behm, Catal. Lett., 89: 109 (2003).",
+				"tr":  "B. Schumacher, V. Plzak, M. Kinne, and R. J. Behm, Catal. Lett., 89: 109 (2003)."
+			}
+		]
+	}
+}

@@ -1,0 +1,170 @@
+{
+	"_id":    "MFiNT.41.03.0389",
+	"year":   2019,
+	"volume": 41,
+	"issue":  3,
+	"pages":  [389,402],
+	"rubric": 2,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["11.10.2018"],
+	"PACS":   "07.60.Ly, 41.50.+h, 42.30.Ms, 61.05.cp, 61.72.Dd, 87.59.-e",
+	"title":   {
+		"ua": "Аналіз рентґенівського муарового зображення деформованих кристалів за радіальним розподілом енергетичного спектру Фур’є",
+		"en": "Analysis of Moiré X-Ray Images of Deformed Crystals Using Radial Distribution of the Fourier Energy Spectrum",
+		"ru": "Анализ рентгеновских муаровых изображений деформированных кристаллов по радиальным распределениям энергетического спектра Фурье"
+	},
+	"abstract": {
+		"ua": "Досліджено вплив величини рівномірно розподілених локальних зосереджених сил, які діють на вихідну поверхню аналізатора LLL-інтерферо¬метра, на формування муарової картини. Показано залежність розподілу інтенсивності енергетичного спектру Фур’є муарового зображення від величини зосереджених сил. Встановлено залежність між величиною локальних сил та середньою радіальною просторовою частотою радіального розподілу для енергетичного спектру муарового зображення, що дозволяє обчислювати значення залишкових деформацій у кристалах на основі експериментальних муарових зображень.",
+		"en": "The influence of the magnitude of evenly distributed local concentrated forces, which act on the entrance surface of LLL-interferometer analyzer, on the formation of moiré pattern is investigated. The dependence of the intensity distribution of the Fourier energy spectrum of the moiré pattern on the magnitude of the concentrated forces is shown. The dependence between the magnitude of local forces and the average radial spatial frequency of radial distribution for the energy spectrum of moiré pattern is established, which allows us to calculate the values of deformations of crystals on the basis of experimental moiré pattern.",
+		"ru": "Исследовано влияние величины равномерно распределённых локальных сосредоточенных сил, действующих на исходную поверхность анализатора LLL-интерферометра, на формирование муаровой картины. Показана зависимость распределения интенсивности энергетического спектра Фурье муарового изображения от величины сосредоточенных сил. Установлена зависимость между величиной локальных сил и средней радиальной пространственной частотой радиального распределения для энергетического спектра муарового изображения, что позволяет вычислять значения остаточных деформаций кристаллов на основе экспериментальных муаровых изображений."
+	},
+	"keywords": {
+		"ua": "LLL-інтерферометр, муарові смуги, зосереджена сила, деформаційне поле, енергетичний спектр Фур’є",
+		"en": "LLL-interferometer, moiré stripes, concentrated force, deformation field, Fourier energy spectrum",
+		"ru": "LLL-интерферометр, муаровые полосы, сосредоточенная сила, деформационное поле, энергетический спектр Фурье"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. В. Баловсяк", "en": "S. V. Balovsyak", "ru": "С. В. Баловсяк"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "С. М. Новіков", "en": "S. M. Novikov", "ru": "С. Н. Новиков"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "І. М. Фодчук", "en": "I. M. Fodchuk", "ru": "И. М. Фодчук"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "І. В. Яремчук", "en": "I. V. Yaremchuk", "ru": "И. В. Яремчук"},
+			"OID": [215]
+		}
+	],
+	"references": {
+		"count": 24,
+		"list":  [
+			{
+				"doi": "10.1063/1.1754212",
+				"or":  "U. Bonse and M. Hart, Appl. Phys. Lett., 6, No. 8: 155 (1965).",
+				"tr":  "U. Bonse and M. Hart, Appl. Phys. Lett., 6, No. 8: 155 (1965)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Momose, T. Takeda, and Y. Itai, Jpn. J. Appl. Phys., 11, No. 11: 2303 (2003).",
+				"tr":  "A. Momose, T. Takeda, and Y. Itai, Jpn. J. Appl. Phys., 11, No. 11: 2303 (2003)."
+			},
+			{
+				"doi": "10.1051/rphysap:0197600110108300",
+				"or":  "U. Bonse, W. Graeff, and G. Materlik, Revue De Physique Appliquée, 11: 83 (1976).",
+				"tr":  "U. Bonse, W. Graeff, and G. Materlik, Revue De Physique Appliquée, 11: 83 (1976)."
+			},
+			{
+				"doi": "10.1107/S0108767398010794",
+				"or":  "M. Ohler, S. Köhler, and J. Härtwig, Acta Cryst. A, 55: 423 (1999).",
+				"tr":  "M. Ohler, S. Köhler, and J. Härtwig, Acta Cryst. A, 55: 423 (1999)."
+			},
+			{
+				"doi": "10.1143/JJAP.42.L866",
+				"or":  "A. Momose, S. Kawamoto, and I. Koyama, Jpn. J. Appl. Phys., 42: 866 (2003).",
+				"tr":  "A. Momose, S. Kawamoto, and I. Koyama, Jpn. J. Appl. Phys., 42: 866 (2003)."
+			},
+			{
+				"doi": "10.1080/14786436208213703",
+				"or":  "R. Gevers, Phil. Mag., 7, No. 82: 1681 (1962).",
+				"tr":  "R. Gevers, Phil. Mag., 7, No. 82: 1681 (1962)."
+			},
+			{
+				"doi": "10.1107/S0021889871007222",
+				"or":  "G. Cristiansen, L. Gerward, and A. Lindegaart, J. Appl. Cryst., 4: 370 (1971).",
+				"tr":  "G. Cristiansen, L. Gerward, and A. Lindegaart, J. Appl. Cryst., 4: 370 (1971)."
+			},
+			{
+				"doi": "10.1080/14786437208226958",
+				"or":  "M. Hart, Phil. Mag., 26, No. 4: 821 (1972).",
+				"tr":  "M. Hart, Phil. Mag., 26, No. 4: 821 (1972)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.33.463",
+				"or":  "R. D. Deslettes, A. Henins, H. Bowman, and R. Schoonover, Phys. Rev. Lett., 33: 463 (1974).",
+				"tr":  "R. D. Deslettes, A. Henins, H. Bowman, and R. Schoonover, Phys. Rev. Lett., 33: 463 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Д. Раранский, В. П. Шафранюк, И. М. Фодчук, Металлофизика, 7, № 5: 63 (1985).",
+				"tr":  "N. D. Raransky, V. P. Shafranyuk, and I. M. Fodchuk, Metallofizika, 7, No. 5: 63 (1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Д. Раранский, И. М. Фодчук, В. Н. Сергеев, О. Г. Гимчинский и др., Металлофизика, 15, № 2: 72 (1993).",
+				"tr":  "N. D. Raransky, I. M. Fodchuk, V. N. Sergeev, O. G. Gimchinskiy et al., Metallofizika, 15, No. 2: 72 (1993) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "N. D. Raransky, Ja. M. Struk, I. M. Fodchuk, V. P. Shafranuk, and A. N. Raransky, Proc. SPIE, 2647: 457 (1995).",
+				"tr":  "N. D. Raransky, Ja. M. Struk, I. M. Fodchuk, V. P. Shafranuk, and A. N. Raransky, Proc. SPIE, 2647: 457 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "И. М. Фодчук, Н. Д. Раранский, Я. М. Струк, Металлофиз. новейшие технол., 24, № 5: 617 (2002).",
+				"tr":  "I. M. Fodchuk, N. D. Raransky, and Ya. M. Struk, Metallofiz. Noveishie Tekhnol., 24, No. 5: 617 (2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. М. Фодчук, Н. Д. Раранский, Я. М. Струк, Український фізичний журнал, 47, № 11: 1057 (2002).",
+				"tr":  "I. M. Fodchuk, N. D. Raransky, and Ya. M. Struk, Ukrayins'kyy Fizychnyy Zhurnal, 47, No. 11: 1057 (2002) (in Russian)."
+			},
+			{
+				"doi": "10.1088/0022-3727/36/10A/311",
+				"or":  "I. M. Fodchuk and M. D. Raransky, J. Phys. D: Appl. Phys., 36: A55 (2003).",
+				"tr":  "I. M. Fodchuk and M. D. Raransky, J. Phys. D: Appl. Phys., 36: A55 (2003)."
+			},
+			{
+				"doi": "10.1364/AO.55.00B120",
+				"or":  "I. M. Fodchuk, S. M. Novikov, and I. V. Yaremchuk, Appl. Optics, 55, No. 12: B120 (2016).",
+				"tr":  "I. M. Fodchuk, S. M. Novikov, and I. V. Yaremchuk, Appl. Optics, 55, No. 12: B120 (2016)."
+			},
+			{
+				"doi": "10.15407/mfint.38.03.0389",
+				"or":  "И. М. Фодчук, С. М. Новиков, И. В. Яремчук, Металлофиз. новейшие технол., 38, № 3: 389 (2016).",
+				"tr":  "I. M. Fodchuk, S. M. Novikov, and I. V. Yaremchuk, Metallofiz. Noveishie Tekhnol., 38, No. 3: 389 (2016) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Authier, Dynamical Theory of X-Ray Diffraction (Oxford: Science Publications: 2001).",
+				"tr":  "A. Authier, Dynamical Theory of X-Ray Diffraction (Oxford: Science Publications: 2001)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Гонсалес, Р. Вудс, Цифровая обработка изображений (Москва: Техносфера: 2005).",
+				"tr":  "R. Gonzalez and R. Woods, Tsifrovaya Obrabotka Izobrazheniy [Digital Image Processing] (Moscow: Tekhnosfera: 2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Гонсалес, Р. Вудс, С. Эддинс, Цифровая обработка изображений в среде MatLab (Москва: Техносфера: 2006).",
+				"tr":  "R. Gonzalez, R. Woods, and S. Eddins, Tsifrovaya Obrabotka Izobrazheniy v Srede MatLab [MatLab Digital Image Processing] (Moscow: Tekhnosfera: 2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Gonzalez and R. Woods, Digital Image Processing, 2nd Edition, (Prentice Hall, Upper Saddle River: 2002).",
+				"tr":  "R. Gonzalez and R. Woods, Digital Image Processing, 2nd Edition, (Prentice Hall, Upper Saddle River: 2002)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Thonhpanja, A. Phinyomark, P. Phukpattaranont, and C. Limsakul, Electronika ir Elektrotechnika, 19, No. 3: 51 (2013).",
+				"tr":  "S. Thonhpanja, A. Phinyomark, P. Phukpattaranont, and C. Limsakul, Electronika ir Elektrotechnika, 19, No. 3: 51 (2013)."
+			},
+			{
+				"doi": "10.1143/JPSJ.26.1239",
+				"or":  "S. Takagi, J. Phys. Soc. Jpn., 26, No. 5: 1239 (1969).",
+				"tr":  "S. Takagi, J. Phys. Soc. Jpn., 26, No. 5: 1239 (1969)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Ляв, Математическая теория упругости (Москва: Физматгиз: 1936).",
+				"tr":  "A. Lyav, Matematicheskaya Teoriya Uprugosti [Mathematical Theory of Elasticity] (Moscow: Fizmatgiz: 1936) (in Russian)."
+			}
+		]
+	}
+}

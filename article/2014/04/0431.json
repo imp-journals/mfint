@@ -1,0 +1,82 @@
+{
+	"_id":    "MFiNT.36.04.0431",
+	"year":   2014,
+	"volume": 36,
+	"issue":  4,
+	"pages":  [431,444],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["27.03.2014"],
+	"PACS":   "64.70.kd, 64.75.Nx, 66.30.Fq, 68.35.Fx, 81.05.Bx, 81.40.Cd",
+	"title":   {
+		"ua": "Загальна кінетика коміркового розпаду твердих розчинів системи мідь—титан",
+		"en": "General Kinetics of the Cellular Decomposition of Cu—Ti Solid Solutions",
+		"ru": "Общая кинетика ячеистого распада твёрдых растворов системы медь—титан"
+	},
+	"abstract": {
+		"ua": "Досліджено кінетичні та термодинамічні параметри коміркового розпаду пересичених твердих розчинів у стопах Cu—Ti. Узагальнено дані кінетичних параметрів цього процесу: швидкості росту комірок та міжпластинкової віддалі для стопів Cu з 3,68, 4,0, 4,46, 4,98, 5,69 та 6,0 ат.% Ti. Визначено рухливість межі зерна та величини енергії активації міґрації фронту коміркової реакції. Розраховано термодинамічні параметри розпаду пересичених твердих розчинів Ti в Cu (зміни вільної енергії та ентропії міґрації межі зерна).",
+		"en": "Kinetic and thermodynamic parameters of cellular decomposition of supersaturated solid solutions in Cu—Ti alloys are investigated. Data of kinetic parameters of this process such as cells’ growth rate and interplate distance for copper alloys with 3.68, 4.0, 4.46, 4.98, 5.69, and 6.0 at.% Ti are generalized. Grain-boundary mobility and activation energy of migration of cellular reaction front are determined. Thermodynamic parameters of decomposition of supersaturated solid solutions of Ti in Cu (changes of free energy and entropy of grain-boundary migration) are calculated.",
+		"ru": "Исследованы кинетические и термодинамические параметры ячеистого распада пересыщенных твёрдых растворов в сплавах Cu—Ti. Обобщены данные кинетических параметров этого процесса: скорости роста ячеек и межпластинчатого расстояния для сплавов Cu с 3,68, 4,0, 4,46, 4,98, 5,69 и 6,0 ат.% Ti. Определены подвижность границы зерна и величины энергии активации миграции фронта ячеистой реакции. Рассчитаны термодинамические параметры распада пересыщенных твёрдых растворов Ti в Cu (изменения свободной энергии и энтропии миграции границы зерна)."
+	},
+	"keywords": {
+		"ua": "комірковий розпад, рухливість межі зерна, енергія активації, ентропія та вільна енергія міґрації межі зерна",
+		"en": "cellular decomposition, grain-boundary mobility, activation energy, entropy and free energy of grain boundary migration",
+		"ru": "ячеистый распад, подвижность границы зерна, энергия актвиации, энтропия и свободная энергия миграции границы зерна"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Т. С. Гаценко", "en": "T. S. Gatsenko", "ru": "Т. С. Гаценко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. А. Шматко", "en": "O. A. Shmatko", "ru": "О. А. Шматко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 8,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "К. В. Чуистов, Республиканский межведомственный сборник «Металлофизика» (Киев: Наукова думка: 1970), вып. 32, с. 38.",
+				"tr":  "K. V. Chuistov, Respublikanskiy Mezhvedomstvennyy Sbornik 'Metallofizika' (Kiev: Naukova Dumka: 1970), Iss. 32, p. 38 (in Russian)."
+			},
+			{
+				"doi": "10.2320/matertrans1989.36.1058",
+				"or":  "S. Nagarjuna, K. Balasubramanian, and D. S. Sarma, Mater. Trans. JIM, 36, No. 8: 1058 (1995).",
+				"tr":  "S. Nagarjuna, K. Balasubramanian, and D. S. Sarma, Mater. Trans. JIM, 36, No. 8: 1058 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Лариков, О. А. Шматко, Ячеистый распад пересыщенных твёрдых растворов (Киев: Наукова думка: 1976).",
+				"tr":  "L. N. Larikov and O. A. Shmatko, Yacheistyy Raspad Peresyshchennykh Tvyordykh Rastvorov (Cellular Precipitation of the Supersaturated Solid Solutions) (Kyiv: Naukova Dumka: 1976) (in Russian)."
+			},
+			{
+				"doi": "10.1179/026708301773002473",
+				"or":  "S. Nagarjuna and A. Duta, Mater. Sci. Technol., 17: 285 (2001).",
+				"tr":  "S. Nagarjuna and A. Duta, Mater. Sci. Technol., 17: 285 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. С. Гаценко, Ю. О. Бондаренко, О. А. Шматко, Металлофиз. новейшие технол., 30, спецвып.: 337 (2008).",
+				"tr":  "T. S. Gatsenko, Yu. O. Bondarenko, and O. A. Shmatko, Metallofiz. Noveishie Tekhnol., 30, Special Issue: 337 (2008) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/0036-9748(68)90157-9",
+				"or":  "H. I. Aaronson and Y. C. Liu, Scr. Met., 2, No. 1: 1 (1968).",
+				"tr":  "H. I. Aaronson and Y. C. Liu, Scr. Met., 2, No. 1: 1 (1968)."
+			},
+			{
+				"doi": "10.1016/0025-5416(75)90207-4",
+				"or":  "W. Gust, B. Predel, and S. N. Mehra, Mater. Sci. Eng., 21, No. 1: 131 (1975).",
+				"tr":  "W. Gust, B. Predel, and S. N. Mehra, Mater. Sci. Eng., 21, No. 1: 131 (1975)."
+			},
+			{
+				"doi": "10.1016/0001-6160(59)90164-6",
+				"or":  "J. W. Cahn, Acta Metall., 7, No. 1: 18 (1959).",
+				"tr":  "J. W. Cahn, Acta Metall., 7, No. 1: 18 (1959)."
+			}
+		]
+	}
+}

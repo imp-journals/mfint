@@ -1,0 +1,113 @@
+{
+	"_id":    "MFiNT.36.08.1035",
+	"year":   2014,
+	"volume": 36,
+	"issue":  8,
+	"pages":  [1035,1048],
+	"rubric": 2,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["30.06.2014"],
+	"PACS":   "61.05.cc, 61.05.cp, 61.72.Dd, 61.72.J-, 61.72.Nn",
+	"title":   {
+		"ua": "Моделі деформаційних залежностей повної інтегральної інтенсивності динамічної дифракції в монокристалах для різних умов дифракції",
+		"en": "Models of Deformation Dependences of Total Integrated Intensity of Dynamical Diffraction in Single Crystals for Various Diffraction Conditions",
+		"ru": "Модели деформационных зависимостей полной интегральной интенсивности динамической дифракции в монокристаллах для различных условий дифракции"
+	},
+	"abstract": {
+		"ua": "В роботі за допомогою теорії Чуховського—Петрашеня для деформаційної залежности (ДЗ) інтеґральної інтенсивности динамічної дифракції (ІІДД) у кристалах без дефектів показано характер зміни ДЗ ІІДД із товщиною кристалу та з варіяцією інших умов дифракції. На цій основі, а також при використанні ряду експериментів із реальними дефектними кристалами і результатів теорії повної інтеґральної інтенсивности динамічної дифракції (ПІІДД) у кристалах з дефектами без вигину побудовано аналітичну модель ДЗ ПІІДД у кристалах з дефектами, придатну для діягностики параметрів структурних дефектів у кристалах. Одержано евристичні вирази для ПІІДД у кристалах з дефектами, що враховують ДЗ поглинальних і відбивних здатностей кристалів, внесок яких визначається параметрами моделі ($\\alpha$, $\\beta$, $\\gamma$, ...) як для Бреґґової, так і для дифузної складової ПІІДД. Встановлено, що достатньо точний опис ДЗ досягається з фіксованими параметрами і єдиного виду виразами тільки у визначених вузьких діяпазонах радіюсів деформації. Проте ці параметри виявляються вибірково залежними від кожного набору характеристик умов дифракції (довжини хвилі, товщини кристалів, індексів відбивання, геометрії дифракції та ін.). Показано, що евристично побудувати модель ДЗ ПІІДД у кристалах з дефектами як діягностичний метод виявилося можливим тільки завдяки тому, що вдалося факторизувати вплив мікродефектів і параметра деформації окремо на когерентну і на дифузну складові ПІІДД, але вберегти нефакторизованість їх впливу на сумарну інтенсивність ІІДД.",
+		"en": "The paper shows the pattern of change in the deformation dependences (DD) of integrated intensity of dynamical diffraction (IIDD) with crystal thickness and with variation of other diffraction conditions by means of the Chukhovskii—Petrashen theory for the DD of IIDD in defect-free crystals. Relying on this and numerous other experiments with real defective crystals as well as the results of total integrated intensity of dynamical diffraction (TIIDD) in crystals with defects without bend, an analytical model of the DD of TIIDD in crystals with defects is developed, which is feasible for the diagnostics of structural defects in crystals. The heuristic model constructed for the DD of TIIDD in crystals with defects considers the DD of reflectivity and absorptive power of crystal, whose contribution is determined by model parameters ($\\alpha$, $\\beta$, $\\gamma$, ...) for both Bragg and diffuse components of TIIDD. As found, the sufficiently accurate DD description with fixed parameters and single description expressions is only achieved in certain narrow ranges of deformation radii. However, these parameters are selectively dependent on each set of parameters of diffraction conditions (wavelengths, crystal thicknesses, reflection indexes, diffraction geometries, etc.). As shown, the construction of the heuristic model of the DD of TIIDD in crystals with defects as a diagnostic method has only become possible because we were able to factorize the effect of microdefects and deformation parameter on coherent and diffuse components of TIIDD, separately; but it is important to save non-factorization of their effect on total IIDD.",
+		"ru": "В работе с помощью теории Чуховского—Петрашеня для деформационной зависимости (ДЗ) интегральной интенсивности динамической дифракции (ИИДД) в кристаллах без дефектов показан характер изменения ДЗ ИИДД с толщиной кристаллов и с вариацией других условий дифракции. На этой основе, а также при использовании ряда экспериментов с реальными дефектными кристаллами и результатов теории полной интегральной интенсивности динамической дифракции (ПИИДД) в кристаллах с дефектами без изгиба построена аналитическая модель ДЗ ПИИДД в кристаллах с дефектами, пригодная для диагностики параметров структурных дефектов в кристаллах. Полученные эвристически выражения для ДЗ ПИИДД в кристаллах с дефектами учитывают ДЗ поглощательных и отражательных способностей кристаллов, вклад которых определяется параметрами модели ($\\alpha$, $\\beta$, $\\gamma$, ...) как для брэгговской, так и для диффузной составляющих ПИИДД. Установлено, что достаточно точное описание ДЗ достигается с фиксированными параметрами и единого вида выражениями только в определённых узких диапазонах радиусов деформации. Однако эти параметры оказываются избирательно зависящими от каждого набора характеристик условий дифракции (длины волны, толщины кристаллов, индексов отражения, геометрии дифракции и др.). Показано, что эвристически построить модель ДЗ ПИИДД в кристаллах с дефектами как диагностический метод оказалось возможным только благодаря тому, что удалось факторизовать влияние микродефектов и параметра деформации отдельно на когерентную и на диффузную составляющие ПИИДД, но уберечь нефакторизованность их влияния на суммарную интенсивность ИИДД."
+	},
+	"keywords": {
+		"ua": "повна інтегральна інтенсивність динамічної дифракції, мікродефекти, деформаційні залежності",
+		"en": "total integrated intensity of dynamical diffraction, microdefects, deformation dependences",
+		"ru": "полная интегральная интенсивность динамической дифракции, микродефекты, деформационные зависимости"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. М. Бровчук", "en": "S. M. Brovchuk", "ru": "С. М. Бровчук"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. Б. Молодкін", "en": "V. B. Molodkin", "ru": "В. Б. Молодкин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. І. Нізкова", "en": "A. I. Nizkova", "ru": "А. И. Низкова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "І. І. Рудницька", "en": "I. I. Rudnytska", "ru": "И. И. Рудницкая"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Г. І. Гранкіна", "en": "G. I. Grankina", "ru": "А. И. Гранкина"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. В. Лізунов", "en": "V. V. Lizunov", "ru": "В. В. Лизунов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. В. Лізунова", "en": "S. V. Lizunova", "ru": "С. В. Лизунова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Б. В. Шелудченко", "en": "B. V. Sheludchenko", "ru": "Б. В. Шелудченко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. С. Скакунова", "en": "E. S. Skakunova", "ru": "Е. С. Скакунова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. В. Дмитрієв", "en": "S. V. Dmitriev", "ru": "С. В. Дмитриев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "І. М. Заболотний", "en": "I. N. Zabolotnyi", "ru": "И. Н. Заболотный"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. А. Катасонов", "en": "A. A. Katasonov", "ru": "А. А. Катасонов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Б. Ф. Журавльов", "en": "B. F. Zhuravlev", "ru": "Б. Ф. Журавлёв"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Р. В. Лехняк", "en": "R. V. Lekhnyak", "ru": "Р. В. Лехняк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Л. М. Скапа", "en": "L. N. Skapa", "ru": "Л. Н. Скапа"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Н. П. Ірха", "en": "N. P. Irha", "ru": "Н. П. Ирха"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 3,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "V. B. Molodkin, A. I. Nizkova, A. P. Shpak et al., Difraktometriya Nanorazmernykh Defektov i Geterosloev Kristallov (Difractometry of Nanosize Defects and Heterolayers of Crystals) (Kiev: Akademperiodika: 2005) (in Russian).",
+				"tr":  "V. B. Molodkin, A. I. Nizkova, A. P. Shpak et al., Difraktometriya Nanorazmernykh Defektov i Geterosloev Kristallov (Difractometry of Nanosize Defects and Heterolayers of Crystals) (Kiev: Akademperiodika: 2005) (in Russian)."
+			},
+			{
+				"doi": "10.1107/S056773947700076X",
+				"or":  "F. N. Chukhovskii and P. V. Petrashen, Acta Cryst. A, 33: 311 (1977).",
+				"tr":  "F. N. Chukhovskii and P. V. Petrashen, Acta Cryst. A, 33: 311 (1977)."
+			},
+			{
+				"doi": "10.1002/pssa.2210250222",
+				"or":  "L. I. Datsenko and E. N. Kislovskii, phys. status solidi (a), 25: 551 (1974).",
+				"tr":  "L. I. Datsenko and E. N. Kislovskii, phys. status solidi (a), 25: 551 (1974)."
+			}
+		]
+	}
+}

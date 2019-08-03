@@ -1,0 +1,89 @@
+{
+	"_id":    "MFiNT.37.0265",
+	"year":   2015,
+	"volume": 37,
+	"issue":  2,
+	"pages":  [265,279],
+	"rubric": 2,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["12.11.2014"],
+	"PACS":   "07.85.Jy, 61.05.cc, 61.05.cf, 61.05.cp, 61.72.Dd, 61.72.J-",
+	"title":  {
+		"ua": "Нові можливості інтегральної динамічної дифрактометрії недосконалостей кристалів",
+		"en": "New Performance Capabilities of Integral Dynamical Diffractometry of Crystal Imperfections",
+		"ru": "Новые возможности интегральной динамической дифрактометрии несовершенств кристаллов"
+	},
+	"abstract": {
+		"ua": "В попередній роботі авторів [1] обговорювалося відкрите ними невідоме раніше явище керованого умовами дифракції дисперсійного підсилення на декілька порядків величини (в порівнянні з традиційним кінематичним випадком діягностики) прояву дефектів у статистичній картині динамічного (багаторазового) розсіяння. Дану роботу присвячено обговоренню найбільш важливих наслідків з цього відкритого явища, які забезпечили виникнення ефектів чутливости (і при цьому унікальної) до недосконалостей кристалів повної (Бреґґової і дифузної) інтеґральної інтенсивности динамічної дифракції (ПІІДД) і аномального внеску її дифузної складової, а також чутливости до характеристик дефектів виниклих сильних залежностей ПІІДД від умов дифракції. Обговорюються нові можливості і приклади використання мірянь ПІІДД, внеску її дифузної складової та їх залежностей від різних умов динамічної дифракції для неруйнівної експресної високочутливої й інформативної діягностики недосконалостей структури багатопараметричних систем.",
+		"en": "The phenomenon of dispersion amplification of defects’ manifestation in the multiple dynamical scattering pattern was discovered by authors and discussed in [1]. This phenomenon is controlled by the diffraction conditions. Amplification comprises several orders of magnitude (in comparison with the kinematical case of diagnostics). The present work is concerned with discussion of the most important consequences of this phenomenon, which provide the appearance of effects of unique sensitivity of the total (Bragg and diffuse) integral intensity of the dynamical diffraction (TIIDD) to the crystal imperfections and the anomalous contribution of its diffuse component as well as sensitivity of appeared strong TIIDD dependences on the diffraction conditions. New opportunities and examples using the TIIDD measurements, contribution of its diffuse component, and their dependences on various conditions of dynamical diffraction for non-destructive express highly sensitive and informative diagnostics of imperfections of the structure of multiparametric systems are discussed.",
+		"ru": "В предыдущей работе авторов [1] обсуждалось открытое ими неизвестное ранее явление управляемого условиями дифракции дисперсионного усиления на несколько порядков величины (в сравнении с традиционным кинематическим случаем диагностики) проявления дефектов в статистической картине динамического (многократного) рассеяния. Настоящая работа посвящена обсуждению наиболее важных следствий из этого открытого явления, которые обеспечили возникновение эффектов чувствительности (и при этом уникальной) к несовершенствам кристаллов полной (брэгговской и диффузной) интегральной интенсивности динамической дифракции (ПИИДД) и аномального вклада её диффузной составляющей, а также чувствительности к характеристикам дефектов появившихся сильных зависимостей ПИИДД от условий дифракции. Обсуждаются новые возможности и примеры использования измерений ПИИДД, вклада её диффузной составляющей и их зависимостей от различных условий динамической дифракции для неразрушающей экспрессной высокочувствительной и информативной диагностики несовершенств структуры многопараметрических систем."
+	},
+	"keywords": {
+		"ua": "інтегральна динамічна дифрактометрія, багатопараметрична діагностика, мікродефекти",
+		"en": "integral dynamical diffractometry, multiparametric diagnostics, microdefects",
+		"ru": "интегральная динамическая дифрактометрия, многопараметрическая диагностика, микродефекты"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. В. Лізунов", "en": "V. V. Lizunov", "ru": "В. В. Лизунов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. Б. Молодкін", "en": "V. B. Molodkin", "ru": "В. Б. Молодкин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. І. Оліховський", "en": "S. I. Olikhovskii", "ru": "С. И. Олиховский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. В. Лізунова", "en": "S. V. Lizunova", "ru": "С. В. Лизунова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Н. Г. Толмачёв", "en": "N. G. Tolmachev", "ru": "Н. Г. Толмачёв"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Г. І. Низкова", "en": "H. I. Nizkova", "ru": "А. И. Низкова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. С. Скакунова", "en": "O. S. Skakunova", "ru": "Е. С. Скакунова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. В. Дмітрієв", "en": "S. V. Dmitriev", "ru": "С. В. Дмитриев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Б. В. Шелудченко", "en": "B. V. Sheludchenko", "ru": "Б. В. Шелудченко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Я. В. Василик", "en": "Ya. V. Vasylyk", "ru": "Я. В. Василик"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Т. Г. Сич", "en": "T. G. Sych", "ru": "Т. Г. Сыч"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "К. В. Фузик", "en": "K. K. Fuzik", "ru": "Е. В. Фузик"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Р. В. Лехняк", "en": "R. V. Lekhnyak", "ru": "Р. В. Лехняк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Л. М. Скапа", "en": "L. M. Skapa", "ru": "Л. Н. Скапа"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 17,
+		"list":  []
+	}
+}

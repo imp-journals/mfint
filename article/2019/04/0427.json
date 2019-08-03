@@ -1,0 +1,144 @@
+{
+	"_id":    "MFiNT.41.04.0427",
+	"year":   2019,
+	"volume": 41,
+	"issue":  4,
+	"pages":  [427,443],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["21.12.2018","15.01.2019"],
+	"PACS":   "71.23.An, 71.30.+h, 71.55.Ak, 71.55.Jv, 72.10.-d",
+	"title":   {
+		"ua": "Вплив упорядкування домішки на енергетичний спектр та електропровідність графену",
+		"en": "Influence of the Impurity Ordering on the Energy Spectrum and Electrical Conductivity of Graphene",
+		"ru": "Влияние упорядочения примеси на энергетический спектр и электропроводность графена"
+	},
+	"abstract": {
+		"ua": "В однозонній моделі сильного зв’язку досліджено вплив домішки заміщення на енергетичний спектр та електропровідність графену. Встановлено, що впорядкування атомів заміщення на вузлах кристалічної гратки приводить до виникнення щілини в енергетичному спектрі графену шириною $\\eta|\\delta|$ з центром в точці $y\\delta$, де $\\eta$ — параметр впорядкування, $\\delta$ — різниця потенціалів розсіяння атомів домішки і вуглецю, $y$ — концентрація домішки. Якщо рівень Фермі потрапляє в область зазначеної щілини, то при упорядкуванні графену електропровідність $\\sigma_{\\alpha\\alpha} → \\infty$, тобто виникає перехід метал–діелектрик. Якщо рівень Фермі лежить поза щілиною, то при збільшенні параметру порядку $\\eta$ електропровідність збільшується за законом $\\sigma_{\\alpha\\alpha} \\approx (y^2 - (1/4)\\eta^2)^{-1}$. При концентрації $y$ = 1/2 з впорядкуванням атомів домішки ($\\eta$ → 1) електропровідність графену $\\sigma_{\\alpha\\alpha} → \\infty$, тобто виникає перехід графену в стан ідеальної провідності. Досліджено області локалізації електронних домішкових станів, які виникають на краях спектру та краях енергетичної щілини.",
+		"en": "In the one-band tight-binding model, the influence of substitutional impurities on the energy spectrum and electrical conductivity of graphene is studied. As determined, the ordering of substitutional impurity atoms on nodes of the crystal lattice causes the appearance of a gap in the energy spectrum of graphene with width $\\eta|\\delta|$ centred at the point $y\\delta$, where $\\eta$ is the parameter of ordering, $\\delta$ is the difference of the scattering potentials of impurity and carbon atoms, and $y$ is the impurity concentration. If the Fermi level falls in the region of the mentioned gap, then the electrical conductivity $\\sigma_{\\alpha\\alpha} → \\infty$ at the ordering of graphene, $i.e.$, the metal–dielectric transition arises. If the Fermi level is located outside the gap, then the electrical conductivity increases with the parameter of order $\\eta$ by the relation $\\sigma_{\\alpha\\alpha} \\approx (y^2 - (1/4)\\eta^2)^{-1}$. At the concentration $y$ = 1/2, when the ordering of impurities $\\eta$ → 1, the electrical conductivity of graphene $\\sigma_{\\alpha\\alpha} → \\infty$, $i.e.$, the transition of graphene in the state of ideal electrical conductance arises. The localization region of impurity electronic states, which arise at the edges of the spectrum and edges of the energy gap, is investigated.",
+		"ru": "В однозонной модели сильной связи исследовано влияние примеси замещения на энергетический спектр и электропроводность графена. Установлено, что упорядочение атомов замещения на узлах кристаллической решётки приводит к возникновению щели в энергетическом спектре графена шириной $\\eta|\\delta|$ с центром в точке $y\\delta$, где $\\eta$ — параметр упорядочения, $\\delta$ — разность потенциалов рассеяния атомов примеси и углерода, $y$ — концентрация примеси. Если уровень Ферми попадает в область указанной щели, то при упорядочении графена электропроводность $\\sigma_{\\alpha\\alpha} → \\infty$, т.е. возникает переход металл–диэлектрик. Если уровень Ферми находится вне щели, то при увеличении параметра порядка $\\eta$ электропроводность возрастает по закону $\\sigma_{\\alpha\\alpha} \\approx (y^2 - (1/4)\\eta^2)^{-1}$. При концентрации $y$ = 1/2 с упорядочением атомов примеси ($\\eta$ → 1) электропроводность графена $\\sigma_{\\alpha\\alpha} → \\infty$, т.е. графен переходит в состояние идеальной проводимости. Исследована область локализации электронных примесных состояний, которые возникают на краях спектра и энергетической щели."
+	},
+	"keywords": {
+		"ua": "графен, енергетична щілина, густина станів, концентрація домішки, параметр впорядкування, функція Гріна, перехід метал–діелектрик, область локалізації електронних домішкових станів",
+		"en": "graphene, energy gap, density of state, impurity concentration, ordering parameter, Green’s function, metal–insulator transition, region of localization of impurity electronic states",
+		"ru": "графен, энергетическая щель, концентрация примеси, параметр упорядочения, функция Грина, переход металл–диэлектрик, область локализации электронных примесных состояний"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. П. Репецький", "en": "S. P. Repetsky", "ru": "С. П. Репецкий"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "І. Г. Вишивана", "en": "I. G. Vyshyvana", "ru": "И. Г. Вышывана"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "С. П. Кручинін", "en": "S. P. Kruchinin", "ru": "С. П. Кручинин"},
+			"OID": [28]
+		},
+		{
+			"AID": {"ua": "О. Я. Кузнєцова", "en": "O. Ya. Kuznetsova", "ru": "Е. Я. Кузнецова"},
+			"OID": [205]
+		},
+		{
+			"AID": {"ua": "Р. М. Мельник", "en": "R. M. Melnyk", "ru": "Р. М. Мельник"},
+			"OID": [273]
+		}
+	],
+	"references": {
+		"count": 18,
+		"list":  [
+			{
+				"doi": "10.1103/PhysRevB.84.035117",
+				"or":  "J. Sun, M. Marsman, G. I. Csonka, A. Ruzsinszky, P. Hao, Y.-S. Kim, G. Kresse, and J. P. Perdew, Phys. Rev. B, 84: 035117 (2011).",
+				"tr":  "J. Sun, M. Marsman, G. I. Csonka, A. Ruzsinszky, P. Hao, Y.-S. Kim, G. Kresse, and J. P. Perdew, Phys. Rev. B, 84: 035117 (2011)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2012.03.167",
+				"or":  "C. Yelgel and G. P. Srivastava, Appl. Surface Sci., 258: 8338 (2012).",
+				"tr":  "C. Yelgel and G. P. Srivastava, Appl. Surface Sci., 258: 8338 (2012)."
+			},
+			{
+				"doi": "10.1016/j.cplett.2010.04.038",
+				"or":  "P. A. Denis, Chem. Phys. Lett, 492: 251 (2010).",
+				"tr":  "P. A. Denis, Chem. Phys. Lett, 492: 251 (2010)."
+			},
+			{
+				"doi": "10.1016/j.physleta.2011.08.070",
+				"or":  "Xiaohui Deng, Yanqun Wu, Jiayu Dai, Dongdong Kang, and Dengyu Zhang, Phys. Lett. A, 375: 3890 (2011).",
+				"tr":  "Xiaohui Deng, Yanqun Wu, Jiayu Dai, Dongdong Kang, and Dengyu Zhang, Phys. Lett. A, 375: 3890 (2011)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.73.241402",
+				"or":  "Yu. V. Skrypnyk and V. M. Loktev, Phys. Rev. B, 73, No. 24: 241402(R) (2006).",
+				"tr":  "Yu. V. Skrypnyk and V. M. Loktev, Phys. Rev. B, 73, No. 24: 241402(R) (2006)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.75.245401",
+				"or":  "Yu. V. Skrypnyk and V. M. Loktev, Phys. Rev. B, 75: 245401 (2007).",
+				"tr":  "Yu. V. Skrypnyk and V. M. Loktev, Phys. Rev. B, 75: 245401 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.80.214201",
+				"or":  "S. S. Pershoguba, Yu. V. Skrypnyk, and V. M. Loktev, Phys. Rev. B, 80, No. 21: 214201 (2009).",
+				"tr":  "S. S. Pershoguba, Yu. V. Skrypnyk, and V. M. Loktev, Phys. Rev. B, 80, No. 21: 214201 (2009)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.86.035418",
+				"or":  "T. M. Radchenko, A. A. Shylau, and I. V. Zozoulenko, Phys. Rev. B, 86: 035418-1-13 (2012).",
+				"tr":  "T. M. Radchenko, A. A. Shylau, and I. V. Zozoulenko, Phys. Rev. B, 86: 035418-1-13 (2012)."
+			},
+			{
+				"doi": "10.1016/j.carbon.2016.01.067",
+				"or":  "T. M. Radchenko, V. A. Tatarenko, I. Yu. Sagalianov, Yu. I. Prylutskyy, P. Szroeder, and S. Biniak, Carbon, 101: 37 (2016).",
+				"tr":  "T. M. Radchenko, V. A. Tatarenko, I. Yu. Sagalianov, Yu. I. Prylutskyy, P. Szroeder, and S. Biniak, Carbon, 101: 37 (2016)."
+			},
+			{
+				"doi": "10.1016/j.physleta.2014.05.022",
+				"or":  "T. M. Radchenko, V. A. Tatarenko, I. Yu. Sagalianov, and Yu. I. Prylutskyy, Phys. Lett. A, 378, Nos. 30–31: 2270 (2014).",
+				"tr":  "T. M. Radchenko, V. A. Tatarenko, I. Yu. Sagalianov, and Yu. I. Prylutskyy, Phys. Lett. A, 378, Nos. 30-31: 2270 (2014)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.87.195448",
+				"or":  "T. M. Radchenko, A. A. Shylau, I. V. Zozoulenko, and A. Ferreira, Phys. Rev. B, 87: 195448-1–14 (2013).",
+				"tr":  "T. M. Radchenko, A. A. Shylau, I. V. Zozoulenko, and A. Ferreira, Phys. Rev. B, 87: 195448-1-14 (2013)."
+			},
+			{
+				"doi": "10.1016/j.ssc.2014.07.012",
+				"or":  "T. M. Radchenko, A. A. Shylau, and I. V. Zozoulenko, Solid State Comm., 195: 88 (2014).",
+				"tr":  "T. M. Radchenko, A. A. Shylau, and I. V. Zozoulenko, Solid State Comm., 195: 88 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "T. M. Radchenko, V. A. Tatarenko, I. Yu. Sagalianov, and Yu. I. Prylutskyy, Configurations of Structural Defects in Graphene and Their Effects on Its Transport Properties, Graphene: Mechanical Properties, Potential Applications and Electrochemical Performance (Ed. B. T. Edwards) (Hauppauge, N.Y. USA: Nova Science Publishers, Inc.: 2014), Chapter 7, p. 219, arXiv:1406.0783",
+				"tr":  "T. M. Radchenko, V. A. Tatarenko, I. Yu. Sagalianov, and Yu. I. Prylutskyy, Configurations of Structural Defects in Graphene and Their Effects on Its Transport Properties, Graphene: Mechanical Properties, Potential Applications and Electrochemical Performance (Ed. B. T. Edwards) (Hauppauge, N.Y. USA: Nova Science Publishers, Inc.: 2014), Chapter 7, p. 219, arXiv:1406.0783"
+			},
+			{
+				"doi": "10.1088/0953-8984/6/9/013",
+				"or":  "V. F. Los’ and S. P. Repetsky, J. Phys.: Condens. Matter., 6: 1707 (1994).",
+				"tr":  "V. F. Los' and S. P. Repetsky, J. Phys.: Condens. Matter., 6: 1707 (1994)."
+			},
+			{
+				"doi": "10.1038/s41598-018-26925-0",
+				"or":  "S. P. Repetsky, I. G. Vyshyvana, S. P. Kruchinin, and Stefano Bellucci, Scientific Reports, 8, Article number: 9123 (2018).",
+				"tr":  "S. P. Repetsky, I. G. Vyshyvana, S. P. Kruchinin, and Stefano Bellucci, Scientific Reports, 8, Article number: 9123 (2018)."
+			},
+			{
+				"doi": "10.1103/PhysRev.184.614",
+				"or":  "B. Velicky, Phys. Rev., 184: 614 (1969).",
+				"tr":  "B. Velicky, Phys. Rev., 184: 614 (1969)."
+			},
+			{
+				"doi": "10.1103/PhysRev.94.1498",
+				"or":  "J. C. Slater and G. F. Koster, Phys. Rev., 94, No. 6: 1498 (1954).",
+				"tr":  "J. C. Slater and G. F. Koster, Phys. Rev., 94, No. 6: 1498 (1954)."
+			},
+			{
+				"doi": "10.1142/S0217979218400301",
+				"or":  "S. P. Repetsky, I. G. Vyshyvana, E. Ya. Kuznetsova, and S. P. Kruchinin, In-ternational Journal of Modern Physics B, 32: 1840030 (2018).",
+				"tr":  "S. P. Repetsky, I. G. Vyshyvana, E. Ya. Kuznetsova, and S. P. Kruchinin, In-ternational Journal of Modern Physics B, 32: 1840030 (2018)."
+			}
+		]
+	}
+}

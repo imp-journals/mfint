@@ -1,0 +1,224 @@
+{
+	"_id":    "MFiNT.37.10.1405",
+	"year":   2015,
+	"volume": 37,
+	"issue":  10,
+	"pages":  [1405,1424],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["03.09.2015"],
+	"PACS":   "71.10.Fd,71.20.Be,71.27.+a,71.28.+d,71.55.Jv,75.10.Lp,75.30.Kz,75.40.Cx",
+	"title":  {
+			"ua": "Концентраційні залежності магнітних властивостей бінарних ОЦК-стопів із безладом заміщення",
+			"en": "Concentration Dependence of Magnetic Properties of Binary B.C.C. Alloys with Substitutional Disorder",
+			"ru": "Концентрационная зависимость магнитных свойств бинарных ОЦК-сплавов с беспорядком замещения"
+		},
+	"abstract": {
+		"ua": "В рамках узагальненого однозонного Хаббардового моделю досліджено концентраційні залежності магнетних властивостей бінарних ОЦК-стопів із безладом заміщення. Порушення трансляційної інваріянтности стопу через атомове розупорядкування призводить до порушення електронно-діркової симетрії, що проявляється в пороговому характері антиферомагнетного впорядкування при половинному заповненні зони та в асиметрії магнетних фазових діяграм стопів відносно відповідного значення середньої електронної концентрації на один вузол ($n = 1$). Встановлено, що різний переважний порядок заповнення Хаббардових підзон для компонентів стопу A і B зі зростанням $n$, який визначається знаком потенціялу домішкового розсіяння, зумовлює в загальному випадку несиметричність відносно точки $P_{0}^{A} = 0,5$ залежностей магнетних характеристик ізовалентних стопів ($Z_{A} = Z_{B}$, $n = const$) від концентрації компонента A($P_{0}^{A}$). Несиметричність аналогічних концентраційних залежностей для стопів із $Z_{A} = 1$, $Z_{B} = 0$ зумовлено зв’язком $n = P_{0}^{A}$. Спостережувані для таких стопів концентраційні залежності локалізованих магнетних моментів є схожими із залежністю від $n$ аналогічної величини для чистого металу, однак характеризуються різними числовими значеннями магнетних моментів для різних компонентів стопу, а також можливістю іншої концентраційної залежности параметрів магнетного порядку. Концентраційні залежності магнетних моментів у стопах із $Z_{A} = 2$, $Z_{B} = 0$, на відміну від інших типів стопів, виявляються значною мірою симетричними. При цьому концентраційна залежність параметра магнетного порядку є несиметричною через порушення електронно-діркової симетрії при зміні $n = 2P_{0}^{A}$ від 0 до 2.",
+		"en": "The concentration dependences of the magnetic properties of binary b.c.c. alloys with substitutional disorder are investigated within the scope of the generalized single-band Hubbard model. The breaking of alloys’ translation invariance because of the atomic disorder leads to a violation of electron—hole symmetry, which results in both the threshold character of antiferromagnetic ordering at half filling and the asymmetry of alloys’ magnetic phase diagrams relative to corresponding value of average electron density per one site ($n = 1$). As found, a different advantageous order for filling the Hubbard subbands of the alloy components, A and B, with $n$ increasing, which is determined by sign of scattering potential of impurity, in the general case, results in an asymmetry (relative to point $P_{0}^{A} = 0.5$) of dependences of magnetic characteristics on the concentration $P_{0}^{A}$ of component A in isovalent alloys ($Z_{A} = Z_{B}$, $n = const$). The asymmetry of the same concentration dependences for the alloys with $Z_{A} = 1$, $Z_{B} = 0$ is caused by the relationship $P_{0}^{A} = n$. For these alloys, the observed concentration dependences of the localized magnetic moments are similar to the dependence of analogous one for pure metal, but with differences in the values of the magnetic moments for different alloy components and with the possibility of a distinct concentration dependence of magnetic order parameter. The concentration dependences of magnetic moments in alloys with $Z_{A} = 1$, $Z_{B} = 2$, as opposed to other types of alloys, are symmetric to a large degree. However, the concentration dependence of magnetic order parameter is asymmetric due to the violation of electron—hole symmetry with $n = 2P_{0}^{A}$ changing from 0 to 2.",
+		"ru": "В рамках обобщённой однозонной модели Хаббарда исследованы концентрационные зависимости магнитных свойств бинарных ОЦК-сплавов с беспорядком замещения. Нарушение трансляционной инвариантности сплава из-за атомного разупорядочения приводит к нарушению электронно-дырочной симметрии, что проявляется в пороговом характере антиферромагнитного упорядочения при половинном заполнении зоны и в асимметрии магнитных фазовых диаграмм сплавов относительно соответствующего значения средней электронной концентрации на один узел ($n = 1$). Установлено, что различный преимущественный порядок заполнения хаббардовских подзон для компонентов сплава A и B с ростом $n$, определяемый знаком потенциала примесного рассеяния, обусловливает, в общем случае, несимметричность относительно точки $P_{0}^{A} = 0,5$ зависимостей магнитных характеристик изовалентных сплавов ($Z_{A} = Z_{B}$, $n = const$) от концентрации компонента A ($P_{0}^{A}$). Несимметричность аналогичных концентрационных зависимостей для сплавов с $Z_{A} = 1$, $Z_{B} = 0$ обусловлена связью $n = P_{0}^{A}$. Наблюдаемые для таких сплавов концентрационные зависимости локализованных магнитных моментов схожи с зависимостью от $n$ аналогичной величины для чистого металла, однако характеризуются различными численными значениями для разных компонентов сплава, а также возможностью иной концентрационной зависимости параметров магнитного порядка. Концентрационные зависимости магнитных моментов в сплавах с $Z_{A} = 2$, $Z_{B} = 0$, в отличие от других типов сплавов, оказываются в значительной степени симметричными. При этом концентрационная зависимость параметра магнитного порядка является несимметричной из-за нарушения электронно-дырочной симметрии при изменении $n = 2P_{0}^{A}$ от 0 до 2."
+	},
+	"keywords": {
+		"ua": "магнетні стопи, електронна структура, сильно корельовані електрони, магнетна фазова діяграма, локалізовані магнетні моменти, концентраційна залежність",
+		"en": "magnetic alloys, electronic structure, strongly correlated electrons, magnetic phase diagram, localized magnetic moments, concentration dependence",
+		"ru": "магнитные сплавы, электронная структура, сильно коррелированные электроны, магнитная фазовая диаграмма, локализованные магнитные моменты, концентрационная зависимость"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Є. Г. Лень", "en": "E. G. Len", "ru": "Е. Г. Лень"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. В. Лізунов", "en": "V. V. Lizunov", "ru": "В. В. Лизунов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Т. С. Лень", "en": "T. S. Len", "ru": "Т. С. Лень"},
+			"OID": [205]
+		},
+		{
+			"AID": {"ua": "Н. В. Ушаков", "en": "M. V. Ushakov", "ru": "Н. В. Ушаков"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. А. Татаренко", "en": "V. A. Tatarenko", "ru": "В. А. Татаренко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 34,
+		"list":  [
+			{
+				"doi": "10.1126/science.1107559",
+				"or":  "E. Dagotto, Science, 309: 257 (2005).",
+				"tr":  "E. Dagotto, Science, 309: 257 (2005)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.70.1039",
+				"or":  "M. Imada, A. Fujimori, and Yo. Tokura, Rev. Mod. Phys., 70: 1039 (1998).",
+				"tr":  "M. Imada, A. Fujimori, and Yo. Tokura, Rev. Mod. Phys., 70: 1039 (1998)."
+			},
+			{
+				"doi": "10.1126/science.1191195",
+				"or":  "Q. Si and F. Steglich, Science, 329, No. 5996: 1161 (2010).",
+				"tr":  "Q. Si and F. Steglich, Science, 329, No. 5996: 1161 (2010)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.83.471",
+				"or":  "D. N. Basov, R. D. Averitt, D. van der Marel, M. Dressel, and K. Haule, Rev. Mod. Phys., 83: 471 (2011).",
+				"tr":  "D. N. Basov, R. D. Averitt, D. van der Marel, M. Dressel, and K. Haule, Rev. Mod. Phys., 83: 471 (2011)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2014.08.079",
+				"or":  "S. Gupta and K.G. Suresh, Journal of Alloys and Compounds, 618: 562 (2015).",
+				"tr":  "S. Gupta and K.G. Suresh, Journal of Alloys and Compounds, 618: 562 (2015)."
+			},
+			{
+				"doi": "10.1002/andp.201100250",
+				"or":  "D. Vollhardt, Annalen der Physik, 524, Iss. 1: 1 (2012).",
+				"tr":  "D. Vollhardt, Annalen der Physik, 524, Iss. 1: 1 (2012)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.58.R7475",
+				"or":  "M. H. Hettler, A. N. Tahvildar-Zadeh, and M. Jarrell, Phys. Rev. B, 58: R7475 (1998).",
+				"tr":  "M. H. Hettler, A. N. Tahvildar-Zadeh, and M. Jarrell, Phys. Rev. B, 58: R7475 (1998)."
+			},
+			{
+				"doi": "10.1070/PU2008v051n01ABEH006388",
+				"or":  "Yu. A. Izyumov and E. Z. Kurmaev, Physics-Uspekhi, 51: 23 (2008).",
+				"tr":  "Yu. A. Izyumov and E. Z. Kurmaev, Physics-Uspekhi, 51: 23 (2008)."
+			},
+			{
+				"doi": "10.1070/PU1995v038n04ABEH000081",
+				"or":  "Yu. A. Izyumov, Physics-Uspekhi, 38: 385 (1995).",
+				"tr":  "Yu. A. Izyumov, Physics-Uspekhi, 38: 385 (1995)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.47.9208",
+				"or":  "A. N. Andriotis, E. N. Economou, L. Qiming, and C. M. Soukoulis, Phys. Rev., 47: 9208 (1993).",
+				"tr":  "A. N. Andriotis, E. N. Economou, L. Qiming, and C. M. Soukoulis, Phys. Rev., 47: 9208 (1993)."
+			},
+			{
+				"doi": "10.1023/A:1015931708479",
+				"or":  "S. P. Repetsky and T. D. Shatnii, Theoretical and Mathematical Physics, 131, Iss. 3: 832 (2002).",
+				"tr":  "S. P. Repetsky and T. D. Shatnii, Theoretical and Mathematical Physics, 131, Iss. 3: 832 (2002)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.5.2872",
+				"or":  "H. Fukuyama, Phys. Rev. B, 5, No. 8: 2872 (1972).",
+				"tr":  "H. Fukuyama, Phys. Rev. B, 5, No. 8: 2872 (1972)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.11.37",
+				"or":  "G. F. Abito and J. W. Schweitzer, Phys. Rev. B, 11: 37 (1975).",
+				"tr":  "G. F. Abito and J. W. Schweitzer, Phys. Rev. B, 11: 37 (1975)."
+			},
+			{
+				"doi": "10.1070/PU2003v046n02ABEH001284",
+				"or":  "Yu. B. Kudasov, Physics-Uspekhi, 46: 117 (2003).",
+				"tr":  "Yu. B. Kudasov, Physics-Uspekhi, 46: 117 (2003)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.70.125115",
+				"or":  "A. V. Ruban, S. Shallcross, S. I. Simak, and H. L. Skriver, Phys. Rev. B, 70: 125115 (2004).",
+				"tr":  "A. V. Ruban, S. Shallcross, S. I. Simak, and H. L. Skriver, Phys. Rev. B, 70: 125115 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.86.014405",
+				"or":  "I. Turek, J. Kudrnovsky, and V. Drchal, Phys. Rev. B, 86: 014405 (2012).",
+				"tr":  "I. Turek, J. Kudrnovsky, and V. Drchal, Phys. Rev. B, 86: 014405 (2012)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.91.014435",
+				"or":  "J. Kudrnovsky, V. Drchal, and I. Turek, Phys. Rev. B, 91: 014435 (2015).",
+				"tr":  "J. Kudrnovsky, V. Drchal, and I. Turek, Phys. Rev. B, 91: 014435 (2015)."
+			},
+			{
+				"doi": "10.1002/pssb.2220810238",
+				"or":  "E. Kolley and W. Kolley, phys. stat. sol. (b), 81: 735 (1977).",
+				"tr":  "E. Kolley and W. Kolley, phys. stat. sol. (b), 81: 735 (1977)."
+			},
+			{
+				"doi": "10.1002/pssb.2220810252",
+				"or":  "V. Christoph and K. Elk, phys. stat. sol. (b), 81: K125 (1977).",
+				"tr":  "V. Christoph and K. Elk, phys. stat. sol. (b), 81: K125 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "S.G. Ovchinnikov, JETP, 48, No. 3: 506 (1978).",
+				"tr":  "S.G. Ovchinnikov, JETP, 48, No. 3: 506 (1978)."
+			},
+			{
+				"doi": "10.1070/PU1986v029n04ABEH003306",
+				"or":  "R. O. Zaitsev, E. V. Kuz’min, and S. G. Ovchinnikov, Sov. Physics Uspekhi, 29: 322 (1986).",
+				"tr":  "R. O. Zaitsev, E. V. Kuz'min, and S. G. Ovchinnikov, Sov. Physics Uspekhi, 29: 322 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "R. O. Zaitsev, Fiz. Tverd. Tela, 27, No. 2: 305 (1985).",
+				"tr":  "R. O. Zaitsev, Fiz. Tverd. Tela, 27, No. 2: 305 (1985)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.90.196403",
+				"or":  "K. Byczuk, M. Ulmke, and D. Vollhardt, Phys. Rev. Lett., 90: 196403 (2003).",
+				"tr":  "K. Byczuk, M. Ulmke, and D. Vollhardt, Phys. Rev. Lett., 90: 196403 (2003)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.69.045112",
+				"or":  "K. Byczuk, W. Hofstetter, and D. Vollhardt, Phys. Rev. B, 69: 045112 (2004).",
+				"tr":  "K. Byczuk, W. Hofstetter, and D. Vollhardt, Phys. Rev. B, 69: 045112 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.81.115111",
+				"or":  "D. Semmler, K. Byczuk, and W. Hofstetter, Phys. Rev. B, 81: 115111 (2010).",
+				"tr":  "D. Semmler, K. Byczuk, and W. Hofstetter, Phys. Rev. B, 81: 115111 (2010)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.74.085116",
+				"or":  "P. Lombardo, R. Hayn, and G. I. Japaridze, Phys. Rev. B, 74: 085116 (2006).",
+				"tr":  "P. Lombardo, R. Hayn, and G. I. Japaridze, Phys. Rev. B, 74: 085116 (2006)."
+			},
+			{
+				"doi": "10.1088/0953-8984/27/46/465601",
+				"or":  "A. S. Belozerov, A. I. Poteryaev, S. L. Skornyakov, and V. I. Anisimov, J. of Physics: Condens. Matter, 27, No. 46: 465601 (2015).",
+				"tr":  "A. S. Belozerov, A. I. Poteryaev, S. L. Skornyakov, and V. I. Anisimov, J. of Physics: Condens. Matter, 27, No. 46: 465601 (2015)."
+			},
+			{
+				"doi": "10.1134/S002136401215012X",
+				"or":  "M. A. Timirgazin, A. K. Arzhnikov, and V. Yu. Irkhin, JETP Letters, 96: 171 (2012).",
+				"tr":  "M. A. Timirgazin, A. K. Arzhnikov, and V. Yu. Irkhin, JETP Letters, 96: 171 (2012)."
+			},
+			{
+				"doi": "10.15407/mfint.36.05.0575",
+				"or":  "V. V. Lizunov, E. G. Len, I. M. Melnyk, M. V. Ushakov, T. S. Len, and V. A. Tatarenko, Metallofiz. Noveishie Tekhnol., 36: 575 (2014) (in Russian).",
+				"tr":  "V. V. Lizunov, E. G. Len, I. M. Melnyk, M. V. Ushakov, T. S. Len, and V. A. Tatarenko, Metallofiz. Noveishie Tekhnol., 36: 575 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.18.3946",
+				"or":  "E. N. Economou, C. T. White, and R. R. DeMarco, Phys. Rev. B, 18, No. 8: 3946 (1978).",
+				"tr":  "E. N. Economou, C. T. White, and R. R. DeMarco, Phys. Rev. B, 18, No. 8: 3946 (1978)."
+			},
+			{
+				"doi": "10.15407/ufm.10.03.283",
+				"or":  "S. P. Repetsky, V. B. Molodkin, I. G. Vyshivanaya, E. G. Len, I. N. Melnyk, O. I. Musienko, and B. V. Stashchuk, Uspehi Fiziki Metallov, 10, No. 3: 283 (2009) (in Russian).",
+				"tr":  "S. P. Repetsky, V. B. Molodkin, I. G. Vyshivanaya, E. G. Len, I. N. Melnyk, O. I. Musienko, and B. V. Stashchuk, Uspehi Fiziki Metallov, 10, No. 3: 283 (2009) (in Russian)."
+			},
+			{
+				"doi": "10.1098/rspa.1964.0190",
+				"or":  "J. Hubbard, Proc. Roy. Soc., 281, No. 1386: 401 (1964).",
+				"tr":  "J. Hubbard, Proc. Roy. Soc., 281, No. 1386: 401 (1964)."
+			},
+			{
+				"doi": "10.1088/0022-3719/17/24/011",
+				"or":  "M. I. Katsnelson and V. Yu. Irkhin, J. Phys. C: Solid State Phys., 17: 4291 (1984).",
+				"tr":  "M. I. Katsnelson and V. Yu. Irkhin, J. Phys. C: Solid State Phys., 17: 4291 (1984)."
+			},
+			{
+				"doi": "10.1016/j.physb.2009.07.083",
+				"or":  "R. Peters and Th. Pruschke, Physica B, 404: 3249 (2009).",
+				"tr":  "R. Peters and Th. Pruschke, Physica B, 404: 3249 (2009)."
+			}
+		]
+	}
+}

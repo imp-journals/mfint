@@ -1,0 +1,92 @@
+{
+	"_id":    "MFiNT.40.09.1257",
+	"year":   2018,
+	"volume": 40,
+	"issue":  9,
+	"pages":  [1257,1271],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["24.04.2018","25.08.2018"],
+	"PACS":   "07.05.Tp, 45.50.-j, 47.10.A-, 47.27.nf, 47.40.Ki, 81.15.Cd, 81.20.Rg, 81.65.Ps",
+	"title":   {
+		"ua": "Моделювання течії газу з твердими частинками в короткому соплі",
+		"en": "Modelling of Gas Flow with Solid Particles in a Short Nozzle",
+		"ru": "Моделирование течения газа с твёрдыми частицами в коротком сопле"
+	},
+	"abstract": {
+		"ua": "Проведено математичне моделювання тривимірної течії газу з твердими частинками в короткому вісесиметричному Лавалевому соплі та процесу взаємочину потоку з твердою поверхнею підкладинки. Одержано просторовий розподіл параметрів середовища в робочій області. Встановлено деякі базові закономірності, що впливають на ефективність процесу напорошення, рівномірність розподілу частинок у потоці, гідравлічні втрати при течії газу в соплі та на вільній ділянці.",
+		"en": "Mathematical modelling of both the three-dimensional gas flow with solid particles in a short axisymmetric Laval nozzle and the process of interaction of flow with a solid-substrate surface is carried out. The spatial distribution of the parameters of the medium in the working region is obtained. Some basic regularities influencing on the efficiency of the sputtering process, the uniformity of the distribution of particles in the flow, hydraulic losses due to gas flow in the nozzle and within the free section are established.",
+		"ru": "Проведено математическое моделирование трёхмерного течения газа с твёрдыми частицами в коротком осесимметричном сопле Лаваля и процесса взаимодействия потока с твёрдой поверхностью подложки. Получено пространственное распределение параметров среды в рабочей области. Установлены некоторые базовые закономерности, влияющие на эффективность процесса напыления, равномерность распределения частиц в потоке, гидравлические потери при течении газа в сопле и на свободном участке."
+	},
+	"keywords": {
+		"ua": "напорошення, двофазний потік, математичне моделювання, надзвукова течія, Лавалеве сопло",
+		"en": "sputtering, two-phase flow, mathematical modelling, supersonic flow, Laval’s nozzle",
+		"ru": "напыление, двухфазный поток, математическое моделирование, сверхзвуковое течение, сопло Лаваля"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. І. Долматов", "en": "A. I. Dolmatov", "ru": "А. И. Долматов"},
+			"OID": [207]
+		},
+		{
+			"AID": {"ua": "О. В. Більчук", "en": "O. V. Bilchuk", "ru": "А. В. Бильчук"},
+			"OID": [264]
+		}
+	],
+	"references": {
+		"count": 10,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Л. И. Седов, Механика сплошной среды (Москва: Наука: 1970).",
+				"tr":  "L. I. Sedov, Mekhanika Sploshnoy Sredy [Continuum Mechanics] (Moscow: Nauka: 1970) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Н. Абрамович, Прикладная газовая динамика (Москва: Наука: 1968).",
+				"tr":  "G. N. Abramovich, Prikladnaya Gazovaya Dinamika [Applied Gas Dynamics] (Moscow: Nauka: 1968) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "F. M. White, Fluid Mechanics (New York: McGraw Hill: 2011).",
+				"tr":  "F. M. White, Fluid Mechanics (New York: McGraw Hill: 2011)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Versteeg and W. Malalasekra, An Introduction to Computational Fluid Dynamics: The Finite Volume Method (Harlow: Prentice Hall: 2007).",
+				"tr":  "H. Versteeg and W. Malalasekra, An Introduction to Computational Fluid Dynamics: The Finite Volume Method (Harlow: Prentice Hall: 2007)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Lomax, Thomas H. Pulliam, and David W. Zingg, Fundamentals of Computational Fluid Dynamics (NASA Ames Research Center: 1999).",
+				"tr":  "H. Lomax, Thomas H. Pulliam, and David W. Zingg, Fundamentals of Computational Fluid Dynamics (NASA Ames Research Center: 1999)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Шлихтинг, Теория пограничного слоя (Москва: Наука: 1974).",
+				"tr":  "G. Shlikhting, Teoriya Pogranichnogo Sloya [The Boundary Layer Theory] (Moscow: Nauka: 1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "F. S. Sherman, Viscous Flow (McGraw-Hill College: 1990).",
+				"tr":  "F. S. Sherman, Viscous Flow (McGraw-Hill College: 1990)."
+			},
+			{
+				"doi": "",
+				"or":  "D. C. Wilcox, Turbulence Modelling for CFD (DCW Industries: 2006).",
+				"tr":  "D. C. Wilcox, Turbulence Modelling for CFD (DCW Industries: 2006)."
+			},
+			{
+				"doi": "",
+				"or":  "J. D. Anderson, Modern Compressible Flow (Tata McGrawhill India Pvt Ltd: 2012).",
+				"tr":  "J. D. Anderson, Modern Compressible Flow (Tata McGrawhill India Pvt Ltd: 2012)."
+			},
+			{
+				"doi": "10.1093/acprof:oso/9780198722588.001.0001",
+				"or":  "P. Davidson, Turbulence: an Introduction for Scientists and Engineers (Oxford University Press: 2015).",
+				"tr":  "P. Davidson, Turbulence: an Introduction for Scientists and Engineers (Oxford University Press: 2015)."
+			}
+		]
+	}
+}

@@ -1,0 +1,175 @@
+{
+	"_id":    "MFiNT.39.07.0983",
+	"year":   2017,
+	"volume": 39,
+	"issue":  7,
+	"pages":  [983,993],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["15.06.2017"],
+	"PACS":   "61.05.cp, 61.43.Gt, 81.05.Je, 81.20.Ev, 81.70.Fy, 82.33.Ln, 82.40.Ck",
+	"title":   {
+		"ua": "Особливості фазо- та структуроутворення при реакційному гарячому пресуванні композитів системи ZrB$_2$–SiC",
+		"en": "Features of Formation of Phases and Structures During Reactive Hot Pressing Composites of the ZrB$_2$–SiC System",
+		"ru": "Особенности фазо- и структурообразования при реакционном горячем прессовании композитов системы ZrB$_2$–SiC"
+	},
+	"abstract": {
+		"ua": "Досліджено закономірності фазо- й структуроутворення керамічних композиційних матеріялів системи ZrB$_2$–SiC, одержаних методою гарячого пресування порошків ZrC, Si, B4C та ZrB$_2$ за температури у 1800°С і тиску у 27 МПа протягом 5 хв. Вміст карбіду кремнію в синтезованих матеріялах сягає 50% об. Встановлено, що процес консолідації матеріялу визначається в основному фізико-хемічними перетвореннями, що відбуваються під час гарячого пресування між компонентами шихти. Ущільнення композитів відбувається у кілька етапів, що відповідають тим чи іншим реакціям з утворенням проміжної (ZrSi$_2$) та кінцевих (ZrB$_2$ та SiC) фаз.",
+		"en": "The ZrB$_2$–SiC phase and structure formation during hot pressing of ZrC, Si, B4C and ZrB$_2$ powder mixtures at 1800°С and 27 MPa for 5 min is investigated. Content of SiC in sintered materials reaches 50% vol. As shown, the material consolidation process strongly determined by physicochemical transformations during the sintering. Composite shrinkage passes through several stages, which correspond to certain reactions with formation of intermediate (ZrSi$_2$) and final (ZrB$_2$ and SiC) phases.",
+		"ru": "Исследованы закономерности фазо- и структурообразования керамических композиционных материалов системы ZrB$_2$–SiC, полученных методом горячего прессования порошков ZrC, Si, B4C и ZrB$_2$ при температуре 1800°С и давлении 27 МПа в течение 5 мин. Содержание карбида кремния в синтезированных материалах достигает 50% об. Установлено, что процесс консолидации материала определяется в основном физико-химическими превращениями, происходящими во время горячего прессования между компонентами шихты. Уплотнение композитов происходит в несколько этапов, соответствующих тем или иным реакциям с образованием промежуточной (ZrSi$_2$) и конечных (ZrB$_2$ и SiC) фаз."
+	},
+	"keywords": {
+		"ua": "кераміка, диборид цирконію, реакційне гаряче пресування, кінетична крива",
+		"en": "ceramics, zirconium diboride, reaction sintering, kinetic curve",
+		"ru": "керамика, диборид циркония, реакционное горячее прессование, кинетическая кривая"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. В. Чорнобук", "en": "S. V. Chornobuk", "ru": "С. В. Чорнобук"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "А. О. Гончаренко", "en": "A. O. Goncharenko", "ru": "А. А. Гончаренко"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "О. Ю. Попов", "en": "O. U. Popov", "ru": "А. Ю. Попов"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "В. А. Макара", "en": "V. A. Makara", "ru": "В. А. Макара"},
+			"OID": [201]
+		}
+	],
+	"references": {
+		"count": 25,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "E. N. Kablov, Aviatsionnye Materialy i Tekhnologii, Iss. June: 7 (2012), VIAM/2012-206065 (in Russian).",
+				"tr":  "E. N. Kablov, Aviatsionnye Materialy i Tekhnologii, Iss. June: 7 (2012), VIAM/2012-206065 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "O. Yu. Sorokin, D. V. Grashchenkov, S. S. Solntsev, and S. A. Evdokimov, Trudy VIAM, No. 6: 14 (2014) (in Russian).",
+				"tr":  "O. Yu. Sorokin, D. V. Grashchenkov, S. S. Solntsev, and S. A. Evdokimov, Trudy VIAM, No. 6: 14 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.1111/j.1551-2916.2004.01170.x",
+				"or":  "A. L. Chamberlain, W. G. Fahrenholtz, G. E. Hilmas, and D. T. Ellerby, J. Am. Ceram. Soc., 87, No. 6: 1170 (2004).",
+				"tr":  "A. L. Chamberlain, W. G. Fahrenholtz, G. E. Hilmas, and D. T. Ellerby, J. Am. Ceram. Soc., 87, No. 6: 1170 (2004)."
+			},
+			{
+				"doi": "10.1111/j.1551-2916.2007.01583.x",
+				"or":  "W. G. Fahrenholtz, G. E. Hilmas, I. G. Talmy, and J. A. Zaykoski, J. Am. Ceram. Soc., 90, No. 5: 1347 (2007).",
+				"tr":  "W. G. Fahrenholtz, G. E. Hilmas, I. G. Talmy, and J. A. Zaykoski, J. Am. Ceram. Soc., 90, No. 5: 1347 (2007)."
+			},
+			{
+				"doi": "10.3390/ma6051730",
+				"or":  "P. Hu, K. Gui, Y. Yang, Sh. Dong, and X. Zhang, Materials, No. 6: 1730 (2013).",
+				"tr":  "P. Hu, K. Gui, Y. Yang, Sh. Dong, and X. Zhang, Materials, 6, No. 5: 1730 (2013)."
+			},
+			{
+				"doi": "10.1557/mrs2006.103",
+				"or":  "A. Bongiorno, C. J. Först, and R. K. Kalia, MRS Bulletin, 31: 410 (2006).",
+				"tr":  "A. Bongiorno, C. J. Först, and R. K. Kalia, MRS Bulletin, 31: 410 (2006)."
+			},
+			{
+				"doi": "10.1016/j.compscitech.2007.08.017",
+				"or":  "J. Han, P. Hu, X. Zhang, S. Meng, and W. Han, Composites Science and Technology, 68: 799 (2008).",
+				"tr":  "J. Han, P. Hu, X. Zhang, S. Meng, and W. Han, Composites Science and Technology, 68: 799 (2008)."
+			},
+			{
+				"doi": "10.1007/s11085-015-9585-9",
+				"or":  "L. Zhang and K. Kurokawa, Oxidation of Metals, 85, Nos. 3–4: 311 (2016).",
+				"tr":  "L. Zhang and K. Kurokawa, Oxidation of Metals, 85, Nos. 3–4: 311 (2016)."
+			},
+			{
+				"doi": "10.1016/j.msea.2007.08.054",
+				"or":  "F. Monteverde, A. Bellosi, and L. Scatteia, Materials Science and Engineering, 485, Iss. 1–2: 415 (2008).",
+				"tr":  "F. Monteverde, A. Bellosi, and L. Scatteia, Materials Science and Engineering, 485, Iss. 1–2: 415 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Nygren and Z. Shen, Silic. Ind., 69: 211 (2004).",
+				"tr":  "M. Nygren and Z. Shen, Silic. Ind., 69: 211 (2004)."
+			},
+			{
+				"doi": "10.1557/jmr.2006.0180",
+				"or":  "D. Sciti, L. Silvestroni, and A. Bellosi, J. Mater. Res., 21, Iss. 6: 1460 (2006).",
+				"tr":  "D. Sciti, L. Silvestroni, and A. Bellosi, J. Mater. Res., 21, Iss. 6: 1460 (2006)."
+			},
+			{
+				"doi": "10.1111/j.1744-7402.2006.02060.x",
+				"or":  "A. Bellosi, F. Monteverde, and D. Sciti, Int. J. Appl. Ceram. Technol., 3, Iss. 1: 32 (2006).",
+				"tr":  "A. Bellosi, F. Monteverde, and D. Sciti, Int. J. Appl. Ceram. Technol., 3, Iss. 1: 32 (2006)."
+			},
+			{
+				"doi": "10.1002/adem.200400184",
+				"or":  "V. Medri, F. Monteverde, A. Balbo, and A. Bellosi, Adv. Eng. Mater., 7, Iss. 3: 159 (2005).",
+				"tr":  "V. Medri, F. Monteverde, A. Balbo, and A. Bellosi, Adv. Eng. Mater., 7, Iss. 3: 159 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "S. V. Chornobuk, A. Yu. Popov, and V. A. Makara. J. Superhard Materials, No. 2: 22 (2009) (in Russian).",
+				"tr":  "S. V. Chornobuk, A. Yu. Popov, and V. A. Makara. J. Superhard Materials, No. 2: 22 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Y. F. Kazo, S. V. Chernobuk, and P. P. Kogutyuk, Nanosistemi, Nanomateriali, Nanotehnologii, 10, No. 1: 27 (2012) (in Russian).",
+				"tr":  "Y. F. Kazo, S. V. Chernobuk, and P. P. Kogutyuk, Nanosistemi, Nanomateriali, Nanotehnologii, 10, No. 1: 27 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. I. Slutsker, A. B. Sinani, V. I. Betekhtin, A. G. Kadomtsev, and S. S. Ordan’yan, Zhurnal Tekhnicheskoy Fiziki, 78, Iss. 12: 59 (2008) (in Russian).",
+				"tr":  "A. I. Slutsker, A. B. Sinani, V. I. Betekhtin, A. G. Kadomtsev, and S. S. Ordan'yan, Zhurnal Tekhnicheskoy Fiziki, 78, Iss. 12: 59 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Yvzhenko, O. N. Kaydash, H. F. Sarnavskaya, and V. A. Popov, Vernadsky National Library of Ukraine (Electronic Data) (Kyiv: Vernadsky National Library: 2013–2015), Access: www.nbuv.gov.ua (Date of Appeal 03/30/2015) (in Russian).",
+				"tr":  "V. V. Yvzhenko, O. N. Kaydash, H. F. Sarnavskaya, and V. A. Popov, Vernadsky National Library of Ukraine (Electronic Data) (Kyiv: Vernadsky National Library: 2013–2015), Access: www.nbuv.gov.ua (Date of Appeal 03/30/2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. D. Tret’yakov, Tverdofaznye Reaktsii [Solid State Reactions] (Moscow: Khimiya: 1978) (in Russian).",
+				"tr":  "Yu. D. Tret'yakov, Tverdofaznye Reaktsii [Solid State Reactions] (Moscow: Khimiya: 1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Hauffe, Reaktsii v Tverdykh Telakh i na Ikh Poverkhnosti [Reactions in Solids and on Their Surface] (Moscow: Izd-vo Inostrannoy Literatury: 1962), vol. 2 (Russian translation).",
+				"tr":  "K. Hauffe, Reaktsii v Tverdykh Telakh i na Ikh Poverkhnosti [Reactions in Solids and on Their Surface] (Moscow: Izd-vo Inostrannoy Literatury: 1962), vol. 2 (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "N. B. Hannay, Khimiya Tverdogo Tela [Solid-State Chemistry] (Moscow: Mir: 1971) (Russian translation).",
+				"tr":  "N. B. Hannay, Khimiya Tverdogo Tela [Solid-State Chemistry] (Moscow: Mir: 1971) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "B. Delmon, Kinetika Geterogennykh Reaktsiy [Kinetics of Heterogeneous Reactions] (Moscow: Mir: 1972) (Russian translation).",
+				"tr":  "B. Delmon, Kinetika Geterogennykh Reaktsiy [Kinetics of Heterogeneous Reactions] (Moscow: Mir: 1972) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "T. V. Sviridova, Khimiya Tverdogo Tela: Topograficheskaya Kinetika [Solid State Chemistry: Topographic Kinetics] (Minsk: BNU: 2011) (in Russian).",
+				"tr":  "T. V. Sviridova, Khimiya Tverdogo Tela: Topograficheskaya Kinetika [Solid State Chemistry: Topographic Kinetics] (Minsk: BNU: 2011) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.jeurceramsoc.2015.11.041",
+				"or":  "B.-N. Kim, T. S. Suzuki, K. Morita, H. Yoshida, Y. Sakka, and H. Matsubara, J. Eur. Ceram. Soc., 36: 1269 (2016).",
+				"tr":  "B.-N. Kim, T. S. Suzuki, K. Morita, H. Yoshida, Y. Sakka, and H. Matsubara, J. Eur. Ceram. Soc., 36: 1269 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "M. N. Rahaman, Ceramic Processing and Sintering (New York: Taylor and Francis: 2003).",
+				"tr":  "M. N. Rahaman, Ceramic Processing and Sintering (New York: Taylor and Francis: 2003)."
+			},
+			{
+				"doi": "10.1016/j.ijrmhm.2017.01.012",
+				"or":  "O. U. Popov, S. V. Chornobuk, and V. I. Vishniakov, International J. Refractory Metals and Hard Materials, 64: 106 (2017).",
+				"tr":  "O. U. Popov, S. V. Chornobuk, and V. I. Vishniakov, International J. Refractory Metals and Hard Materials, 64: 106 (2017)."
+			}
+		]
+	}
+}

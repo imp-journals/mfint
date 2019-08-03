@@ -1,0 +1,159 @@
+{
+	"_id":    "MFiNT.37.09.1225",
+	"year":   2015,
+	"volume": 37,
+	"issue":  9,
+	"pages":  [1225,1237],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["28.05.2015"],
+	"PACS":   "68.35.B-, 68.35.Dv, 68.55.-a, 68.60.Dv, 81.05.Je, 81.16.-c, 81.40.Ef",
+	"title":  {
+		"ua": "Кінетика дисперґування при відпалі у вакуумі паладійових і платинових наноплівок, нанесених на оксидні матеріяли",
+		"en": "Dispersion Kinetics of the Palladium and Platinum Nanofilms, Which Were Deposited on the Oxide Materials, under Annealing in Vacuum",
+		"ru": "Кинетика диспергирования при отжиге в вакууме палладиевых и платиновых наноплёнок, нанесённых на оксидные материалы"
+	},
+	"abstract": {
+		"ua": "Досліджено кінетику дисперґування паладійових і платинових наноплівок у 100 нм завтовшки, нанесених на оксидні підложжя (кварцове скло, лейкосапфір, кераміка на основі ZrO$_{2}$) та відпалених у вакуумі за температур 1000—1600°С впродовж різного часу витримки при кожній температурі. Побудовано кінетичні криві процесу дисперґування цих плівок та висловлено рекомендації щодо їх практичного застосування.",
+		"en": "The dispersion kinetics of palladium and platinum nanofilms of 100 nm thickness deposited onto oxide substrate (quartz glass, leucosapphire, ZrO$_{2}$-based ceramics) and annealed in a vacuum at 1000—1600°C for different exposure times at each temperature is investigated. Kinetic curves of dispersion process in these films are plotted and recommendations for practical application of them are also given.",
+		"ru": "Исследована кинетика диспергирования палладиевых и платиновых наноплёнок толщиной 100 нм, нанесённых на оксидные подложки (кварцевое стекло, лейкосапфир, керамика на основе ZrO$_{2}$) и отожжённых в вакууме при температурах 1000—1600°С в течение различного времени выдержки при каждой температуре. Построены кинетические кривые процесса диспергирования этих плёнок и приведены рекомендации относительно их практического применения."
+	},
+	"keywords": {
+		"ua": "платина, паладій, наноплівка, дисперґування, кінетика",
+		"en": "platinum, palladium, nanofilm, disintegration, kinetics",
+		"ru": "платина, палладий, наноплёнка, диспергирование, кинетика"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. В. Найдіч", "en": "Yu. V. Naidich", "ru": "Ю. В. Найдич"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "І. І. Габ", "en": "І. І. Gab", "ru": "И. И. Габ"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "Т. В. Стецюк", "en": "Т. V. Stetsyuk", "ru": "Т. В. Стецюк"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "Б. Д. Костюк", "en": "B. D. Kоstyuk", "ru": "Б. Д. Костюк"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "С. І. Мартинюк", "en": "S. I. Martynuyk", "ru": "С. И. Мартынюк"},
+			"OID": [2]
+		}
+	],
+	"references": {
+		"count": 21,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "В. Н. Батыгин, И. И. Метелкин, А. М. Решетников, Вакуумноплотная керамика и её спаи с металлами (Москва: Энергия: 1982).",
+				"tr":  "V. N. Batygin, I. I. Metelkin, and A. M. Reshetnikov, Vacuumnoplotnaya Keramika i Ee Spai s Metallami (Moscow: Energiya: 1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Метелкин, М. А. Павлов, Н. В. Поздеева, Сварка керамики с металлами (Москва: Металлургия: 1977).",
+				"tr":  "I. I. Metelkin, M. A. Pavlov, and N. V. Pozdeeva, Svarka Keramiki s Metallami (Moscow: Metallurgiya: 1977) (in Russian)."
+			},
+			{
+				"doi": "10.1007/BF00357335",
+				"or":  "M. L. Shalz, B. J. Dalgleish, A. P. Tomsia et al., J. Mater. Sci., 29, No. 14: 3678 (1994).",
+				"tr":  "M. L. Shalz, B. J. Dalgleish, A. P. Tomsia et al., J. Mater. Sci., 29, No. 14: 3678 (1994)."
+			},
+			{
+				"doi": "10.1023/A:1012565600601",
+				"or":  "R. A. Marks, J. D. Sugar, and A. M. Glaeser, J. Mater. Sci., 36, No. 23: 5609 (2001).",
+				"tr":  "R. A. Marks, J. D. Sugar, and A. M. Glaeser, J. Mater. Sci., 36, No. 23: 5609 (2001)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(00)00229-9",
+				"or":  "R. A. Marks, D. R. Chapmen, D. T. Danielson, and A. M. Glaeser, Acta Mater., 48, Nos. 18–19: 4425 (2000).",
+				"tr":  "R. A. Marks, D. R. Chapmen, D. T. Danielson, and A. M. Glaeser, Acta Mater., 48, Nos. 18–19: 4425 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. В. Коганицкая, Электроника, 4: 86 (1959).",
+				"tr":  "E. V. Koganitskaya, Elektronika, 4: 86 (1959) (in Russian)."
+			},
+			{
+				"doi": "10.1111/j.1151-2916.1970.tb12016.x",
+				"or":  "F. L. Harding and D. R. Rossington, J. Amer. Ceram. Soc., 53, No. 2: 87 (1970).",
+				"tr":  "F. L. Harding and D. R. Rossington, J. Amer. Ceram. Soc., 53, No. 2: 87 (1970)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Найдич, И. И. Габ, В. С. Журавлев, В. Ф. Дуброва, А. Н. Гордыня, Сварочное производство, 2: 12 (1989).",
+				"tr":  "Yu. V. Naidich, I. I. Gab, V. S. Zhuravlev, V. F. Dubrova, and A. N. Gordynya, Svarochnoe Proizvodstvo, 2: 12 (1989) (in Russian)."
+			},
+			{
+				"doi": "10.1111/j.1151-2916.1971.tb12307.x",
+				"or":  "S. K. Rhee, J. Amer., Ceram. Soc., 54, No. 7: 332 (1971).",
+				"tr":  "S. K. Rhee, J. Amer., Ceram. Soc., 54, No. 7: 332 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Мельников, С. В. Еремеев, С. Е. Кулькова, Журнал технической физики, 81, No. 10: 114 (2011).",
+				"tr":  "V. V. Melnikov, S. V. Eremeev, and S. E. Kulkova, Zhurnal Tekhnicheskoy Fiziki, 81, No. 10: 114 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Qiao-Ying, C. Lai-Fei, and Z. Li-Tong, J. Aviation Material, 24, No. 1: 53 (2004).",
+				"tr":  "T. Qiao-Ying, C. Lai-Fei, and Z. Li-Tong, J. Aviation Material, 24, No. 1: 53 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "N. Masaaki, S. Tohru, and O. Ikuo, Transaction of JWRI, 17, No. 2: 67 (1988).",
+				"tr":  "N. Masaaki, S. Tohru, and O. Ikuo, Transaction of JWRI, 17, No. 2: 67 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Габ, В. С. Журавлев, Д. И. Куркова, Т. В. Стецюк, Ю. В. Найдич, Порошковая металлургия, № 7/8: 69 (1997).",
+				"tr":  "I. I. Gab, V. S. Zhuravlev, D. I. Kurkova, T. V. Stetsyuk, and Yu. V. Naidich, Poroshkovaya Metallurgiya, Nos. 7/8: 69 (1997) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. С. Каракозов, И. С. Котелкин, Г. Н. Матвеев, А. P. Меркулов, M. X. Шоршоров, Физика и химия обработки материалов, 3: 123 (1968).",
+				"tr":  "E. S. Karakozov, I. S. Kotelkin, G. N. Matveev, A. R. Merkulov, and M. H. Shorshorov, Fizika i Khimiya Obrabotki Materialov, 3: 123 (1968) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.snb.2013.02.058",
+				"or":  "E. Ciftyurek, K. Sabolsky, and E. M. Sabolsky, Sensors and Actuators B: Chemical, 181: 702 (2013).",
+				"tr":  "E. Ciftyurek, K. Sabolsky, and E. M. Sabolsky, Sensors and Actuators B: Chemical, 181: 702 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "J. D. Wrbanek and K. L. H. Laster, Preparation and Analysis of Platinum Thin Films for High Temperature Sensor Applications (NASA/TM 2005-213433) (January, 2005).",
+				"tr":  "J. D. Wrbanek and K. L. H. Laster, Preparation and Analysis of Platinum Thin Films for High Temperature Sensor Applications (NASA/TM 2005-213433) (January, 2005)."
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Амиров, В. В. Наумов, М. О. Изюмов, Р. С. Селюков, Письма в ЖТФ, 39, No. 2: 68 (2013).",
+				"tr":  "I. I. Amirov, V. V. Naumov, M. O. Izyumov, and R. S. Selyukov, Pisma v ZhTF, 39, No. 2: 68 (2013) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0039-6028(02)01357-2",
+				"or":  "R. Nowakowski, P. Grzeszczak, and R. Duš, Surf. Sci., 507–510: 813 (2002).",
+				"tr":  "R. Nowakowski, P. Grzeszczak, and R. Duš, Surf. Sci., 507–510: 813 (2002)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(01)01006-1",
+				"or":  "V. Ramaswamy, M. A. Phillips, W. D. Nix, and B. M. Clemens, Mater. Eng. A, 319–321: 887 (2001).",
+				"tr":  "V. Ramaswamy, M. A. Phillips, W. D. Nix, and B. M. Clemens, Mater. Eng. A, 319–321: 887 (2001)."
+			},
+			{
+				"doi": "10.1016/j.solmat.2009.01.004",
+				"or":  "J. Y. Shim, J. D. Lee, J. M. Jin, H. Cheong, and S. Lee, Solar Energy Materials and Solar Cells, 93, No. 12: 2133 (2009).",
+				"tr":  "J. Y. Shim, J. D. Lee, J. M. Jin, H. Cheong, and S. Lee, Solar Energy Materials and Solar Cells, 93, No. 12: 2133 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Найдич, И. И. Габ, Б. Д. Костюк, Т. В. Стецюк, Д. И. Куркова, С. В. Дукаров, Доп. НАН України, 5: 97 (2007).",
+				"tr":  "Yu. V. Naidich, I. I. Gab, B. D. Kostyuk, T. V. Stetsyuk, D. I. Kurkova, and S. V. Dukarov, Dop. NAN Ukrainy, 5: 97 (2007) (in Russian)."
+			}
+		]
+	}
+}

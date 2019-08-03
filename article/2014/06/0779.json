@@ -1,0 +1,169 @@
+{
+	"_id":    "MFiNT.36.06.0779",
+	"year":   2014,
+	"volume": 36,
+	"issue":  6,
+	"pages":  [779,792],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["22.11.2013"],
+	"PACS":   "61.46.Df, 81.07.Bc, 81.20.Ev, 81.20.Ym, 82.33.Pt, 82.65.+r",
+	"title":   {
+		"ua": "Вплив наноструктур на процеси твердофазного відновлення та очистки залізооксидносилікатних матеріалів",
+		"en": "Influence of Nanostructures on Processes of Solid-Phase Reduction and Purification of Ferrioxide—Silicate Materials",
+		"ru": "Влияние наноструктур на процессы твердофазного восстановления и очистки железооксидносиликатных материалов"
+	},
+	"abstract": {
+		"ua": "Показано особливу роль нанонауки і нанотехнологічних ініціатив у вдосконаленні процесів переробки, збагачення та очищення залізорудної сировини (ЗРС), зокрема, осадових залізооксидносилікатних матеріалів (ЗОСМ), які містять домішки сполук фосфору та інших елементів. Розглянуто колоїдно-хімічні та нанохімічні уявлення щодо ролі наночастинок у процесах навуглецювання ЗРС і ЗОСМ з подальшим прямим відновленням оксидів заліза, що входять до їх складу, до металевої фази, а також у процесах лужного очищення та відділення залізовмісної фази від сполук фосфору та інших домішок. З використанням одержаних результатів розроблено безвідходні способи твердофазної переробки, а також збагачення і очищення ЗРС і ЗОСМ від сполук фосфору, кремнію та інших домішок, які перевершують відомі методи прямого відновлення заліза та його очищення.",
+		"en": "Special role of nanoscience and nanotechnology initiatives in improvement of processing, enrichment, and purification of iron ore raw materials (IORM), in particular, iron oxide silicate sedimentary materials (IOSSM) containing impurities of phosphorus and other elements is shown. Colloid-chemical and nanochemical concepts on iron ore nanoparticles’ role in carbonization processes of IORM and IOSSM, followed by direct reduction of iron oxides contained therein into metallic phase, are considered. Their role in processes of alkaline purification and separating of iron-containing phase from phosphorus compounds and other impurities are also developed. Wasteless solid-phase processing method as well as the methods of enrichment and purification of IORM and IOSSM from phosphorus, silica, and other impurities are developed using obtained results. These methods exceed known methods of iron direct reduction and its purification.",
+		"ru": "Показана особая роль нанонауки и нанотехнологических инициатив в совершенствовании процессов переработки, обогащения и очистки железорудного сырья (ЖРС), в частности, осадочных железооксидносиликатных материалов (ЖОСМ), содержащих примеси соединений фосфора и других элементов. Рассмотрены коллоидно-химические и нанохимические представления о роли наночастиц в процессах науглероживания ЖРС и ЖОСМ с последующим прямым восстановлением содержащихся в них оксидов железа до металлической фазы, а также в процессах щелочной очистки и отделения железосодержащей фазы от соединений фосфора и других примесей. С использованием полученных результатов разработаны безотходные способы твердофазной переработки, а также обогащения и очистки ЖРС и ЖОСМ от соединений фосфора, кремния и других примесей, превосходящие известные методы прямого восстановления железа и его очистки."
+	},
+	"keywords": {
+		"ua": "твердофазне відновлення, залізо, лужне очищення, нанохімія",
+		"en": "solid-phase reduction, iron, alkaline purification, nanochemistry",
+		"ru": "твердофазное восстановление, железо, щелочная очистка, нанохимия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. О. Олійник", "en": "V. O. Oleinik", "ru": "В. А. Олейник"},
+			"OID": [31]
+		},
+		{
+			"AID": {"ua": "Є. В. Аблєц", "en": "E. V. Ablets", "ru": "Е. В. Аблец"},
+			"OID": [31]
+		},
+		{
+			"AID": {"ua": "А. В. Панько", "en": "A. V. Panko", "ru": "А. В. Панько"},
+			"OID": [31]
+		},
+		{
+			"AID": {"ua": "І. Г. Ковзун", "en": "I. G. Kovzun", "ru": "И. Г. Ковзун"},
+			"OID": [31]
+		},
+		{
+			"AID": {"ua": "І. Т. Проценко", "en": "I. T. Protsenko", "ru": "И. Т. Проценко"},
+			"OID": [31]
+		}
+	],
+	"references": {
+		"count": 23,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Ю. С. Юсфин, Н. Ф. Пашков, Металлургия железа (Москва: ИКЦ «Академкнига»: 2007).",
+				"tr":  "Yu. S. Jusfin and N. F. Pashkov, Metallurgiya Zheleza (Moscow: IKTs 'Akademkniga': 2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. O. Oleinik, A. V. Panko, I. G. Kovzun, M. A. Ilyashov, and I. T. Protsenko, Nanomaterials: Application and Properties, 2, No. 3: 3 (2013).",
+				"tr":  "V. O. Oleinik, A. V. Panko, I. G. Kovzun, M. A. Ilyashov, and I. T. Protsenko, Nanomaterials: Application and Properties, 2, No. 3: 3 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Олейник, А. В. Панько, М. А. Ильяшов, И. Г. Ковзун, И. Т. Проценко, Металлофиз. новейшие технол., 33: 587 (2011).",
+				"tr":  "V. A. Oleinik, A. V. Panko, M. A. Ilyashov, I. G. Kovzun, and I. T. Protsenko, Metallofiz. Noveishie Tekhnol., 33: 587 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Г. Ковзун, Ю. В. Филатов, М. А. Ильяшов, В. П. Воловик, Металлургический компас, Украина–Мир, № 8: 21 (2010).",
+				"tr":  "I. G. Kovzun, Yu. V. Filatov, M. A. Ilyashov, and V. P. Volovik, Metallurgicheskiy Kompas, Ukraina–Mir, No. 8: 21 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Г. Ковзун, Н. В. Перцов, Коллоидно-химические основы нанонауки (Киев: Академпериодика: 2005).",
+				"tr":  "I. G. Kovzun and N. V. Pertsov, Kolloidno-Khimicheskie Osnovy Nanonauki (Kiev: Akademperiodika: 2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. О. Ільяшов, В. П. Воловик, І. Г. Ковзун, І. Т. Проценко, З. Р. Ульберг, Спосіб переробки водного шламу металургійних виробництв, Патент України 87644 (МПК С22В3/12, ВО3В5/44) (Бюл. № 14/2009, опубл. 27.07.2009).",
+				"tr":  "M. O. Ilyashov, V. P. Volovyk, I. H. Kovzun, I. T. Protsenko, and Z. R. Ulberg, Sposib Pererobky Vodnogo Shlamu Metalurhiynykh Vyrobnytstv, Patent of Ukraine 87644 (MPK S22V3/12, VO3V5/44) (Bul. No. 14/2009) (Publ. 27.07.2009) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "І. Г. Ковзун, З. Р. Ульберг, І. Т. Проценко, Ю. В. Філатов, М. О. Ільяшов, В. П. Воловик, Е. О. Юшков, В. Г. Вітер, Спосіб очистки залізної руди від миш’яку та фосфору, Патент України 87951 (МПК С22В1/11, С22В 3/06) (Бюл. № 162009, опубл. 25.12.2009).",
+				"tr":  "I. H. Kovzun, Z. R. Ulberg, I. T. Protsenko, Yu. V. Filatov, M. O. Ilyashov, V. P. Volovyk, E. O. Yushkov, and V. H. Viter, Sposib Ochystky Zaliznoyi Rudy vid Mysh'yaku ta Fosforu, Patent of Ukraine 87951 (MPK S22V1/11, S22V 3/06) (Bul. No. 162009, Publ. 25.12.2009) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "І. Г. Ковзун, І. Т. Проценко, З. Р. Ульберг, Ю. В. Філатов, М. О. Ільяшов, В. П. Воловик, Е. О. Юшков, Спосіб очистки залізовмісного матеріалу від миш’яку та фосфору, Патент України 89343 (МПК С22В1/00, С22В3/00) (бюл. № 1/2010, опубл. 10.01.2010).",
+				"tr":  "I. H. Kovzun, I. T. Protsenko, Z. R. Ulberg, Yu. V. Filatov, M. O. Ilyashov, V. P. Volovyk, and E. O. Yushkov, Sposib Ochystky Zalizovmisnoho Materialu vid Mysh'yaku ta Fosforu, Patent of Ukraine 89343 (MPK S22V1/00, S22V3/00) (Bul. No. 1/2010, Publ. 10.01.2010) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. О. Ільяшов, І. Г. Ковзун, І. Т. Проценко, В. Г. Вітер, А. В. Панько, Спосіб очистки залізовмісного матеріалу від фосфору, миш’яку, сірки та інших домішок, Патент України 91957 (МПК С22В1/06, С22В 1/11, С22В 3/06) (Бюл. № 17/2010, опубл. 10.09.2010).",
+				"tr":  "M. O. Ilyashov, I. H. Kovzun, I. T. Protsenko, V. H. Viter, and A. V. Panko, Sposib Ochystky Zalizovmisnoho Materialu vid Fosforu, Mysh'yaku, Sirky ta Inshykh Domishok, Patent of Ukraine 91957 (MPK S22V1/06, S22V 1/11, S22V 3/06) (Bul. No. 17/2010, Publ. 10.09.2010) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "І. Г. Ковзун, М. О. Ільяшов, І. Т. Проценко, В. Г. Вітер, З. Р. Ульберг, Е. О. Юшков, Ю. О. Гуков, Спосіб одержання заліза та/або металізованого продукту, Патент України 92439 (МПК С21В13/00, С 21В11/00) (Бюл. № 20/2010, опубл. 25.10.2010).",
+				"tr":  "I. H. Kovzun, M. O. Ilyashov, I. T. Protsenko, V. H. Viter, Z. R. Ulberg, E. O. Yushkov, and Yu. O. Hukov, Sposib Oderzhannya Zaliza ta/abo Metalizovanogo Produktu, Patent of Ukraine 92439 (MPK S21V13/00, S 21V11/00) (Bul. No. 20/2010, Publ. 25.10.2010) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Ильяшов, И. Г. Ковзун, И. Т. Проценко, З. Р. Ульберг, В. Г. Витер, Е. А. Юшков, Ю. А. Гуков, Способ получения металлизированного продукта из железооксидного сырьевого материала, который загрязнён примесями, Патент Украины 94360 (МПК С21В1/00, 13/00) (Бюл. № 8, опубл. 26.04.2011) (2011).",
+				"tr":  "M. A. Ilyashov, I. G. Kovzun, I. T. Procenko, Z. R. Ulberg, V. G. Viter, E. A. Yushkov, and Yu. A. Gukov, Sposob Polucheniya Metallizirovannogo Produkta iz Zhelezooksidnogo Syr'evogo Materiala, Kotoryy Zagryaznen Primesyami, Patent of Ukraine 94360 (MPK S21V1/00, 13/00) (Bul. No. 8, Publ. 26.04.2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Г. Ковзун, М. А. Ильяшов, И. Т. Проценко, З. Р. Ульберг, В. Г. Витер, Ю. А. Гуков, Е. А. Юшков, Способ очистки и обогащения железооксидного материала с примесями соединений мышьяка, фосфора и серы, Патент Украины 94685, МПК С22В1/06, 1/11, 3/06 (Бюл. № 10, опубл. 25.05.2011).",
+				"tr":  "I. G. Kovzun, M. A. Ilyashov, I. T. Protsenko, Z. R. Ulberg, V. G. Viter, Yu. A. Gukov, and E. A. Yushkov, Sposob Ochistki i Obogashcheniya Zhelezooksidnogo Materiala s Primesyami Soedineniy Mysh'yaka, Fosfora i Sery, Patent of Ukraine 94685 (MPK S22V1/06, 1/11, 3/06) (Bul. No. 10, Publ. 25.05.2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Г. Ковзун, М. А. Ильяшов, И. Т. Проценко, А. В. Панько, З. Р. Ульберг, В. Г. Витер, Ю. А. Гуков, Способ получения железного концентрата с его одновременной очисткой от примесей соединений кремния, алюминия, фосфора, мышьяка, Патент Украины 97758, МПК C22B 1/06; 1/11; 3/08 (бюл. № 5, опубл. 12.03.2012).",
+				"tr":  "I. G. Kovzun, M. A. Ilyashov, I. T. Protsenko, A. V. Panko, Z. R. Ulberg, V. G. Viter, and Yu. A. Gukov, Sposob Polucheniya Zheleznogo Koncentrata s Ego Odnovremennoy Ochistkoy ot Primesey Soedineniy Kremniya, Alyuminiya, Fosfora, Mysh'yaka, Patent of Ukraine 97758 (MPK C22B 1/06; 1/11; 3/08) (Bul. No. 5, Publ. 12.03.2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Г. Ковзун, З. Р. Ульберг, И. Т. Проценко, Ю. В. Филатов, М. А. Ильяшов, В. П. Воловик, Е. А. Юшков, В. Г. Витер, Способ очистки железной руды от мышьяка и фосфора, Патент Российской Федерации 2412259 (МПК C22B3/12, 1/11) (Бюлл. № 5, опубл. 20.02.2011).",
+				"tr":  "I. G. Kovzun, Z. R. Ulberg, I. T. Protsenko, Yu. V. Filatov, M. A. Ilyashov, V. P. Volovik, E. A. Jushkov, and V. G. Viter, Sposob Ochistki Zheleznoy Rudy ot Mysh'yaka i Fosfora, Patent of Russian Federation 2412259 (MPK C22B3/12, 1/11) (Bul. No. 5, Publ. 20.02.2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Г. Ковзун, З. Р. Ульберг, И. Т. Проценко, Ю. В. Филатов, М. А. Ильяшов, В. П. Воловик, Е. А. Юшков, В. Г. Витер, Способ очистки железосодержащего материала от мышьяка и фосфора, Патент Российской Федерации 2413012 (МПК C22B1/11, 3/12) (Бюлл. № 6, опубл. 27.02.2011).",
+				"tr":  "I. G. Kovzun, Z. R. Ulberg, I. T. Procenko, Yu. V. Filatov, M. A. Ilyashov, V. P. Volovik, E. A. Yushkov, and V. G. Viter, Sposob Ochistki Zhelezosoderzhaschego Materiala ot Mysh'yaka i Fosfora, Patent of Russian Federation 2413012 (MPK C22B1/11, 3/12) (Bul. No. 6, Publ. 27.02.2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Ильяшов, И. Г. Ковзун, И. Т. Проценко, З. Р. Ульберг, В. Г. Витер, В. П. Воловик, Ю. О. Гуков, Способ получения металлизированного продукта из железооксидносиликатного сырья, Патент Украины 101293 (МПК C21B 13/00; C22B 1/00; 5/00, 5/10) (Бюл. № 5, опубл. 11.03.2013).",
+				"tr":  "M. A. Ilyashov, I. G. Kovzun, I. T. Protsenko, Z. R. Ulberg, V. G. Viter, V. P. Volovik, and Yu. O. Gukov, Sposob Polucheniya Metallizirovannogo Produkta iz Zhelezooksidnosilikatnogo Syr'ya, Patent of Ukraine 101293 (MPK C21B 13/00; C22B 1/00; 5/00, 5/10) (Bul. No. 5, Opubl. 11.03.2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. V. Panko, E. V. Ablets, I. G. Kovzun, and M. A. Ilyashov, Mater. Sci. Eng., 8, No. 1: 35 (2014).",
+				"tr":  "A. V. Panko, E. V. Ablets, I. G. Kovzun, and M. A. Ilyashov, Mater. Sci. Eng., 8, No. 1: 35 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Юнес, И. А. Отрышко, П. И. Лобода, Вісник НТУУ «КПІ». Машинобудування: Збірник наукових праць, 1, № 61: 184 (2011).",
+				"tr":  "R. Yunes, Y. A. Otryshko, and P. Y. Loboda, Visnyk NTUU «KPI». Mashynobuduvannya: Zbirnyk Naukovykh Prats', 1, No. 61: 184 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Краткая химическая энциклопедия, 2: 43 (1963).",
+				"tr":  "Kratkaya Khimicheskaya Entsiklopediya, 2: 43 (1963) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0021-9797(80)90187-3",
+				"or":  "T. Sugimoto and E. Matijevic, J. Colloid Interface Sci., 74, No. 1: 227 (1980).",
+				"tr":  "T. Sugimoto and E. Matijevic, J. Colloid Interface Sci., 74, No. 1: 227 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "Минералы Украины. Краткий справочник (Ред. Н. П. Щербак) (Киев: Наукова думка: 1990), с. 408.",
+				"tr":  "Mineraly Ukrayiny. Kratkiy Spravochnik (Ed. N. P. Scherbak) (Kiev: Naukova Dumka: 1990), p. 408 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Карасевский, В. В. Любашенко, Металлофиз. новейшие технол., 35, № 3: 431 (2013).",
+				"tr":  "A. I. Karasevskij and V. V. Lyubashenko, Metallofiz. Noveishie Tekhnol., 33, No. 3: 431 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. І. Прокопенко, Т. В. Попова, Б. М. Мордюк, М. О. Єфімов, Тезисы IV Международной научной конференции «Наноразмерные системы: строение, свойства, технологии (НАНСИС-2013)» (Киев: 2013), с. 258.",
+				"tr":  "H. I. Prokopenko, T. V. Popova, B. M. Mordyuk, and M. O. Yefimov, Tezisy IV Mezhdunar. Nauchn. Konf. 'Nanorazmernye Sistemy: Stroenie, Svoystva, Tekhnologii (NANSYS-2013)' (Kiev: 2013), p. 258 (in Ukrainian)."
+			}
+		]
+	}
+}

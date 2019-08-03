@@ -1,0 +1,111 @@
+{
+	"_id":    "MFiNT.38.12.1655",
+	"year":   2016,
+	"volume": 38,
+	"issue":  12,
+	"pages":  [1655,1668],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["06.06.2016", "07.11.2016"],
+	"PACS":   "46.15.-x, 46.40.-f, 62.30.+d, 81.40.Jj, 81.40.Np, 81.70.Bt, 83.60.La, 83.60.Uv",
+	"title":   {
+		"ua": "Вплив механічних властивостей матеріялу на динаміку прихоплених бурильних труб",
+		"en": "Influence of Mechanical Properties of a Material on Dynamics of the Stuck Drilling Pipes",
+		"ru": "Влияние механических свойств материала на динамику прихваченных бурильных труб "
+	},
+	"abstract": {
+		"ua": "Запропоновано математичний модель міцнісних властивостей металевих труб під дією ударних навантажень. Одержано аналітичний розв’язок динамічної задачі пружніх коливань прихоплених бурильних труб із вмонтованим механічним ясом. На основі результатів чисельного моделювання проведено оцінку міцности прихопленої металевої труби з урахуванням пружньо-пластичних властивостей матеріялу. Наведено рекомендації з підбору матеріялу для трубопроводу бурильних установок.",
+		"en": "The mathematical model for describing strength properties of metal pipes under the shock loads’ influence is proposed. An analytical solution of the dynamical problem of elastic vibrations of stuck drilling pipe with integrated mechanical jar is obtained. Based on results of numerical simulation, the strength of stuck metal pipe is assessed with taking into account elastoplastic material properties. The guidelines for the selection of material for piping drill rigs are represented.",
+		"ru": "Предложена математическая модель прочностных свойств металлических труб под действием ударных нагрузок. Получено аналитическое решение динамической задачи упругих колебаний прихваченных бурильных труб с вмонтированным механическим ясом. На основе результатов числового моделирования проведена оценка прочности прихваченной металлической трубы с учётом упругопластических свойств материалов. Даны рекомендации по подбору материала для трубопроводов бурильных установок."
+	},
+	"keywords": {
+		"ua": "пружні хвилі, напруженість, пластичність, границя міцности, бурильна колона, металева труба, прихоплення",
+		"en": "elastic waves, tensile strength, plasticity, ultimate strength, drill string, metal pipe, sticking",
+		"ru": "упругие волны, напряжение, пластичность, предел прочности, бурильная колонна, металлическая труба, прихват"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "К. Г. Левчук", "en": "K. G. Levchuk", "ru": "Е. Г. Левчук"},
+			"OID": [245]
+		},
+		{
+			"AID": {"ua": "В. М. Мойсишин", "en": "V. M. Moisyshyn", "ru": "В. М. Мойсишин"},
+			"OID": [245]
+		},
+		{
+			"AID": {"ua": "І. В. Цідило", "en": "I. V. Tsidylo", "ru": "И. В. Цидыло"},
+			"OID": [245]
+		}
+	],
+	"references": {
+		"count": 13,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Ю. А. Песляк, Расчёт напряжений в колоннах труб нефтяных скважин (Москва: Недра: 1973).",
+				"tr":  "Yu. A. Peslyak, Raschet Napryazheniy v Kolonnakh Trub Neftyanykh Skvazhin [Calculation of Stresses in the Oil Well Pipe Columns] (Moscow: Nedra: 1973) (in Russian)."
+			},
+			{
+				"doi": "10.2118/59127-MS",
+				"or":  "H. Santos (Petrobras), IADC/SPE Drilling Conference (February 23–25, 2000, New Orleans, Louisiana).",
+				"tr":  "H. Santos (Petrobras), IADC/SPE Drilling Conference (February 23–25, 2000, New Orleans, Louisiana)."
+			},
+			{
+				"doi": "10.2118/128129-PA",
+				"or":  "F. E. Dupriest, W. C. Elks, and S. Ottesen, SPE Drilling & Completion, 26, No. 1: 115 (2011).",
+				"tr":  "F. E. Dupriest, W. C. Elks, and S. Ottesen, SPE Drilling & Completion, 26, No. 1: 115 (2011)."
+			},
+			{
+				"doi": "10.2118/139511-PA",
+				"or":  "J. Segura, SPE Drilling & Completion, 26, No. 4: 569 (2011).",
+				"tr":  "J. Segura, SPE Drilling & Completion, 26, No. 4: 569 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. Г. Пановко, Введение в теорию механического удара (Москва: Наука: 1977).",
+				"tr":  "Ya. G. Panovko, Vvedenie v Teoriyu Mekhanicheskogo Udara [Introduction to Mechanical Shock] (Moscow: Nauka: 1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "З. Г. Керимов, Динамические расчёты бурильной колонны (Москва: Недра: 1970).",
+				"tr":  "Z. G. Kerimov, Dinamicheskie Raschety Buril'noy Kolonny [Dynamic Calculations of the Drill String] (Moscow: Nedra: 1970) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Bailey, T. Jones, J. Belaskie, J. Orban, M. Sheppard, O. Hauwen, S. Jardine, and D. McCan, Oilfield Review, 3, No. 4: 13 (1991).",
+				"tr":  "L. Bailey, T. Jones, J. Belaskie, J. Orban, M. Sheppard, O. Hauwen, S. Jardine, and D. McCan, Oilfield Review, 3, No. 4: 13 (1991)."
+			},
+			{
+				"doi": "10.2118/165931-PA",
+				"or":  "P. Skalle and O. E. Gundersen, SPE Drilling & Completion, 28, No. 2: 182 (2013).",
+				"tr":  "P. Skalle and O. E. Gundersen, SPE Drilling & Completion, 28, No. 2: 182 (2013)."
+			},
+			{
+				"doi": "10.20535/2219-380412201551404",
+				"or":  "К. Г. Левчук, Інформаційні системи, механіка та керування, № 12: 72 (2015).",
+				"tr":  "K. G. Levchuk, Informatsiyni Systemy, Mekhanika ta Keruvannya, No. 12: 72 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Быков, C. K. Рафиков, И. Р. Кадыров, Нефтегазовое дело, 9, № 4: 51 (2011).",
+				"tr":  "L. I. Bykov, S. K. Rafikov, and I. R. Kadyrov, Neftegazovoe Delo, 9, No. 4: 51 (2011) (in Russian)."
+			},
+			{
+				"doi": "10.2118/97035-MS",
+				"or":  "M. Y. Gelfgat, V. S. Basovich, and A. J. Adelman. Drilling SPE Annual Technical Conference and Exhibition (October 9–12, 2005, Dallas, Texas).",
+				"tr":  "M. Y. Gelfgat, V. S. Basovich, and A. J. Adelman, Drilling SPE Annual Technical Conference and Exhibition (October 9–12, 2005, Dallas, Texas)."
+			},
+			{
+				"doi": "10.2118/ 59140-MS",
+				"or":  "E. S. Jack, W. S. Ronald, and I. B. Edmond, IADC/SPE Drilling Conference (February 23–25, 2000, New Orleans, Louisiana).",
+				"tr":  "E. S. Jack, W. S. Ronald, and I. B. Edmond, IADC/SPE Drilling Conference (February 23–25, 2000, New Orleans, Louisiana)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. В. Александров, В. Б. Соколинский, Прикладная теория и расчёты ударных систем (Москва: Наука: 1969).",
+				"tr":  "E. V. Aleksandrov and V. B. Sokolinskiy, Prikladnaya Teoriya i Raschety Udarnykh Sistem [Applied Theory and Calculations of Shock Systems] (Moscow: Nedra: 1969) (in Russian)."
+			}
+		]
+	}
+}

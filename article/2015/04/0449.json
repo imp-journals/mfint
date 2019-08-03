@@ -1,0 +1,41 @@
+{
+	"_id":    "MFiNT.37.0449",
+	"year":   2015,
+	"volume": 37,
+	"issue":  4,
+	"pages":  [449,454],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["21.10.2014"],
+	"PACS":   "64.70.dm, 65.40.gh, 65.40.gk, 65.40.gp, 68.35.Md, 68.35.Rh",
+	"title":  {
+		"ua": "Надмірний тиск в приповерхневому шарі кристалу",
+		"en": "Excessive Pressure in the Subsurface Layer in a Crystal",
+		"ru": "Избыточное давление в приповерхностном слое кристалла"
+	},
+	"abstract": {
+		"ua": "Показано, що утворення поверхні напівнескінченного кристалу супроводжується надлишком тиску в приповерхневій області, що спричиняє зміну її структурного та фазового станів.",
+		"en": "As shown, the formation of surface of a semi-infinite crystal is accompanied with excessive pressure arising inside the subsurface region, resulting in changes of structural and phase states of this region.",
+		"ru": "Показано, что образование поверхности полубесконечного кристалла сопровождается избыточным давлением в приповерхностной области, что является причиной изменения её структурного и фазового состояний."
+	},
+	"keywords": {
+		"ua": "поверхня, фазовий перехід, тиск, потенціал Леннарда-Джонса",
+		"en": "surface, phase transformation, pressure effects, Lennard-Jones potential",
+		"ru": "поверхность, фазовый переход, давление, потенциал Леннарда-Джонса"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. І. Карасевський", "en": "A. I. Karasevskii", "ru": "А. И. Карасевский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. В. Любашенко", "en": "V. V. Lubashenko", "ru": "В. В. Любашенко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 10,
+		"list":  []
+	}
+}

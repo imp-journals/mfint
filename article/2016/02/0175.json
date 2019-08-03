@@ -1,0 +1,132 @@
+{
+	"_id":    "MFiNT.38.02.0175",
+	"year":   2016,
+	"volume": 38,
+	"issue":  2,
+	"pages":  [175,187],
+	"rubric": 2,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["25.07.2015"],
+	"PACS":   "61.72.Hh, 61.72.J-, 61.80.Az, 61.82.Bg, 62.20.Hg, 81.40.Lm, 81.40.Wx",
+	"title":   {
+		"ua": "Особливості перехідної повзучості під опроміненням",
+		"en": "Features of the Transient Creep under an Irradiation",
+		"ru": "Особенности переходной ползучести под облучением"
+	},
+	"abstract": {
+		"ua": "В роботі теоретично одержано часову залежність швидкости плазучости металу під опроміненням. Встановлено умови існування рівних нулю мінімумів швидкости плазучости та часи їх появи. Досліджено, як змінюється положення провалів швидкости плазучости зі зміною температури опромінення. Одержані результати порівняно з експериментально спостережуваними залежностями швидкости плазучости від часу.",
+		"en": "The temporal dependence of creep rate of metal under an irradiation is theoretically obtained in this paper. The conditions of zero minimums of the creep-rate existence as well as the times of their appearance are determined. The changing of the position of creep-rate dips in the conditions of the temperature exposure change is investigated. The obtained results are compared with the experimentally observed dependence of the creep rate on time.",
+		"ru": "В работе теоретически получена временная зависимость скорости ползучести металла под облучением. Установлены условия существования равных нулю минимумов скорости ползучести и времена их появления. Исследовано, как меняется положение провалов скорости ползучести с изменением температуры облучения. Полученные результаты сопоставлены с экспериментально наблюдаемыми зависимостями скорости ползучести от времени."
+	},
+	"keywords": {
+		"ua": "повзучість, опромінення, вакансії, міжвузлові атоми, дислокації",
+		"en": "creep, irradiation, vacancies, interstitial atoms, dislocations",
+		"ru": "ползучесть, облучение, вакансии, междоузельные атомы, дислокации"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Т. П. Діденко", "en": "T. P. Didenko", "ru": "Т. П. Диденко"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "П. О. Селищев", "en": "P. О. Selyshchev", "ru": "П. А. Селищев"},
+			"OID": [440]
+		}
+	],
+	"references": {
+		"count": 18,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "﻿Ш. Ш. Ибрагимов, В. В. Кирсанов, Ю. С. Пятилетов, Радиационные повреждения металлов и сплавов (Москва: Энергоатомиздат: 1985)",
+				"tr":  "Sh. Sh. Ibragimov, V. V. Kirsanov, and Yu. S. Pyatiletov, Radiatsionnye Povrezhdeniya Metallov i Splavov (Moscow: Energoatomizdat: 1985) (in Russian)"
+			},
+			{
+				"doi": "10.1016/0022-3115(88)90098-0",
+				"or":  "F. A. Garner and D. S. Gelles, J. Nucl. Mater., 159: 286 (1988)",
+				"tr":  "F. A. Garner and D. S. Gelles, J. Nucl. Mater., 159: 286 (1988)"
+			},
+			{
+				"doi": "",
+				"or":  "G. S. Was, Fundamentals of Radiation Materials Science (Berlin–Heidelberg–New York: Springer: 2011)",
+				"tr":  "G. S. Was, Fundamentals of Radiation Materials Science (Berlin–Heidelberg–New York: Springer: 2011)"
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Карасев, Вопросы атомной науки и техники. Серия: физика радиационных повреждений и радиационное материаловедение, № 5 (19): 84 (1981)",
+				"tr":  "V. S. Karasev, Voprosy Atomnoy Nauki i Tekhniki. Seriya: Fizika Radiatsionnykh Povrezhdeniy i Radiatsionnoe Materialovedenie, No. 5 (19): 84 (1981) (in Russian)"
+			},
+			{
+				"doi": "10.1016/0022-3115(94)90091-4",
+				"or":  "W. Schüle and H. Hausen, J. Nucl. Mater., 212–215: 388 (1994)",
+				"tr":  "W. Schüle and H. Hausen, J. Nucl. Mater., 212–215: 388 (1994)"
+			},
+			{
+				"doi": "",
+				"or":  "П. А. Селищев, Самоорганизация в радиационной физике (Киев: Аспект-полиграф: 2004)",
+				"tr":  "P. A. Selishchev, Samoorganizatsiya v Radiatsionnoy Fizike (Kiev: Aspekt-Poligraf: 2004) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Карасев, А. Ю. Тоцкий, Вопросы атомной науки и техники. Серия: физика радиационных повреждений и радиационное материаловедение, № 1(52): 37 (1990)",
+				"tr":  "V. S. Karasev and A. Yu. Totskiy, Voprosy Atomnoy Nauki i Tekhniki. Seriya: Fizika Radiatsionnykh Povrezhdeniy i Radiatsionnoe Materialovedenie, No. 1 (52): 37 (1990) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Карасев, А. Ю. Тоцкий, Л. С. Ожигов, Вопросы атомной науки и техники. Серия: физика радиационных повреждений и радиационное материаловедение, № 1 (61): 3 (1994)",
+				"tr":  "V. S. Karasev, A. Yu. Totskiy, and L. S. Ozhigov, Voprosy Atomnoy Nauki i Tekhniki. Seriya: Fizika Radiatsionnykh Povrezhdeniy i Radiatsionnoe Materialovedenie, No. 1 (61): 3 (1994) (in Russian)"
+			},
+			{
+				"doi": "10.1016/0022-3115(94)90131-7",
+				"or":  "M. B. Toloczko, F. A. Garner, and C. R. Eiholzer, J. Nucl. Mater., 212–215: 604 (1994)",
+				"tr":  "M. B. Toloczko, F. A. Garner, and C. R. Eiholzer, J. Nucl. Mater., 212–215: 604 (1994)"
+			},
+			{
+				"doi": "10.1016/S0022-3115(96)00291-7",
+				"or":  "E. S. Aitkhozhin and E. V. Chumakov, J. Nucl. Mater., 233–237: 537 (1996)",
+				"tr":  "E. S. Aitkhozhin and E. V. Chumakov, J. Nucl. Mater., 233–237: 537 (1996)"
+			},
+			{
+				"doi": "10.1016/0022-3115(94)90157-0",
+				"or":  "A. Kohyama, Y. Kohno, K. Asakura, M. Yoshino, C. Namba, and C. R. Eiholzer, J. Nucl. Mater., 212–215: 751 (1994)",
+				"tr":  "A. Kohyama, Y. Kohno, K. Asakura, M. Yoshino, C. Namba, and C. R. Eiholzer, J. Nucl. Mater., 212–215: 751 (1994)"
+			},
+			{
+				"doi": "10.1016/S0022-3115(95)00222-7",
+				"or":  "Y. Kurato and H. Nakajima, J. Nucl. Mater., 228: 176 (1996)",
+				"tr":  "Y. Kurato and H. Nakajima, J. Nucl. Mater., 228: 176 (1996)"
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Быстров, Л. И. Иванов, А. Б. Цепелев, Вопросы атомной науки и техники. Серия: физика радиационных повреждений и радиационное материаловедение, № 2 (35): 54 (1985)",
+				"tr":  "L. N. Bystrov, L. I. Ivanov, and A. B. Tsepelev, Voprosy Atomnoy Nauki i Tekhniki. Seriya: Fizika Radiatsionnykh Povrezhdeniy i Radiatsionnoe Materialovedenie, No. 2 (35): 54 (1985) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "П. А. Селищев, В. И. Сугаков, Металлофиз. новейшие технол., 22, № 5: 46 (2000)",
+				"tr":  "P. A. Selishchev and V. J. Sugakov, Metallofiz. Noveishie Tekhnol., 22, No. 5: 46 (2000) (in Russian)"
+			},
+			{
+				"doi": "10.1111/ffe.12083",
+				"or":  "P. Selyshchev and V. Sugakov, Fatigue Fract. Engng Mater. Struct., 36: 1123 (2013)",
+				"tr":  "P. Selyshchev and V. Sugakov, Fatigue Fract. Engng Mater. Struct., 36: 1123 (2013)"
+			},
+			{
+				"doi": "",
+				"or":  "Т. П. Диденко, П. А. Селищев, Ядерна фізика та енергетика, 12, № 2: 158 (2011)",
+				"tr":  "T. P. Didenko and P. A. Selishchev, Nuclear Physics and Atomic Energy, 12, No. 2: 158 (2011) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "Т. П. Диденко, П. А. Селищев, Металлофиз. новейшие технол., 34, № 10: 1347 (2012)",
+				"tr":  "T. P. Didenko and P. O. Selyshchev, Metallofiz. Noveishie Tekhnol., 34, No. 10: 1347 (2012) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "И. М. Неклюдов, Н. В. Камишанченко, Физические основы прочности и пластичности металлов. Часть 2: Дефекты в кристаллах (Белгород: Педагогика-Пресс, БелГУ: 1997)",
+				"tr":  "I. M. Neklyudov and N. V. Kamishanchenko, Fizicheskie Osnovy Prochnosti i Plastichnosti Metallov. Part 2: Defekty v Kristallakh (Belgorod: Pedagogika-Press, BelGU: 1997) (in Russian)"
+			}
+		]
+	}
+}

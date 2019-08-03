@@ -1,0 +1,101 @@
+{
+	"_id":    "MFiNT.36.05.0589",
+	"year":   2014,
+	"volume": 36,
+	"issue":  5,
+	"pages":  [589,596],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["21.11.2013"],
+	"PACS":   "61.72.Lk, 71.15.Mb, 71.20.Mq, 71.55.Cn, 75.10.Lp",
+	"title":   {
+		"ua": "Ab initio розрахунок магнітної взаємодії крайової дислокації та домішки кисню в кремнії",
+		"en": "Ab Initio Calculation of Magnetic Interaction Between Edge Dislocation and Oxygen Impurity in Silicon",
+		"ru": "Ab initio расчёт магнитного взаимодействия краевой дислокации и примеси кислорода в кремнии"
+	},
+	"abstract": {
+		"ua": "Методом функціоналу густини в узагальненому ґрадієнтному наближенні розраховано електронний спектр крайової дислокації в кристалічному кремнії та електронний спектр надкомірки з 64 атомів кремнію, що містить домішковий атом кисню у міжвузловинному положенні. Обговорюються зміни густини електронних станів надкомірки, що містить дефект, та можливість формування магнітного порядку. Спін-поляризований розрахунок підтвердив можливість формування магнітного порядку через розглянуті дефекти з нескомпенсованими магнітними моментами: 1,25$\\mu_{B}$ на надкомірку, що містить два відрізки дислокації одиничної довжини, або 1,75$\\mu_{B}$ на домішку кисню. Теоретично показано можливість формування магнітних моментів на обірваних зв’язках в ядрі крайової дислокації та домішках кисню в кремнії, що може призводити до виникнення додаткової магнітної взаємодії між крайовою дислокацією та домішкою кисню в кремнії.",
+		"en": "Both the electronic spectrum of the edge dislocation in crystalline Si and the electronic spectrum of supercell with 64 Si atoms and one oxygen atom in the interstitial position are calculated, using the density functional theory within the generalized gradient approximation. Changes in the electron density of states of the supercell with defect as well as the possible formation of magnetic order are discussed. The spin-polarized calculation confirms the possibility of magnetic order due to the considered defects with the uncompensated magnetic moments, namely, 1.25$\\mu_{B}$ per supercell containing two segments of the unit-length dislocation line or 1.75$\\mu_{B}$ per one O atom. The formation of magnetic moments on the dangling bonds in the dislocation core and on the oxygen impurities that leads to the additional magnetic interaction between dislocation and oxygen impurity in silicon is theoretically investigated.",
+		"ru": "Методом функционала плотности в обобщённом градиентном приближении рассчитаны электронный спектр краевой дислокации в кристаллическом кремнии и электронный спектр сверхъячейки из 64 атомов Si, содержащей примесный атом кислорода в междоузельном положении. Обсуждаются изменения плотности электронных состояний сверхъячейки, содержащей дефект, и возможность формирования магнитного порядка. Спин-поляризованный расчёт подтвердил возможность формирования магнитного порядка из-за рассмотренных дефектов с некомпенсированными магнитными моментами: 1,25$\\mu_{B}$ на сверхъячейку, содержащую два отрезка дислокации единичной длины, или 1,75$\\mu_{B}$ на примесь кислорода. Теоретически показана возможность формирования магнитных моментов на оборванных связях в ядре краевой дислокации и примесях кислорода в кремнии, что может приводить к возникновению дополнительного магнитного взаимодействия между дислокацией и примесью кислорода в кремнии."
+	},
+	"keywords": {
+		"ua": "електронна структура, магнітне впорядкування, крайова дислокація, домішка кисню, кремній",
+		"en": "electronic structure, magnetic ordering, edge dislocation, oxygen impurity, silicon",
+		"ru": "электронная структура, магнитное упорядочение, краевая дислокация, примесь кислорода, кремний"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. В. Плющай", "en": "I. V. Plyushchay", "ru": "И. В. Плющай"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "О. І. Плющай", "en": "O. I. Plyushchay", "ru": "А. И. Плющай"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. А. Макара", "en": "V. A. Makara", "ru": "В. А. Макара"},
+			"OID": [201]
+		}
+	],
+	"references": {
+		"count": 11,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Defects in Microelectronic Materials and Devices (Eds. D. M. Fleetwood, S. T. Pantelides, and R. D. Schrimpf) (London–New York: CRC Press: 2008).",
+				"tr":  "Defects in Microelectronic Materials and Devices (Eds. D. M. Fleetwood, S. T. Pantelides, and R. D. Schrimpf) (London–New York: CRC Press: 2008)."
+			},
+			{
+				"doi": "10.1063/1.2710296",
+				"or":  "I. Yonenaga and K. Takahashi, J. Appl. Phys., 101: 053528 (2007).",
+				"tr":  "I. Yonenaga and K. Takahashi, J. Appl. Phys., 101: 053528 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Carbon Based Magnetism: An Overview of the Magnetism of Metal Free Carbon-Based Compounds and Materials (Eds. T. Makarova and F. Palacio) (Elsevier Science: 2006).",
+				"tr":  "Carbon Based Magnetism: An Overview of the Magnetism of Metal Free Carbon-Based Compounds and Materials (Eds. T. Makarova and F. Palacio) (Elsevier Science: 2006)."
+			},
+			{
+				"doi": "10.1016/j.cpc.2009.07.007",
+				"or":  "X. Gonzea, B. Amadond, P.-M. Angladee, J.-M. Beukena, F. Bottind, P. Boulangera, F. Brunevalq, D. Calistej, R. Caracasl, M. Côtéo, T. Deutschj, L. Genovesei, Ph. Ghosezk, M. Giantomassia, S. Goedeckerc, D. R. Hamannm, P. Hermetp, F. Jolletd, G. Jomardd, S. Lerouxd, M. Mancinid, S. Mazevetd, M. J. T. Oliveiraa, G. Onidab, Y. Pouillona, T. Rangela, G.-M. Rignanesea, D. Sangallib, R. Shaltafa, M. Torrentd, M. J. Verstraetea, G. Zerahd, and J. W. Zwanzigerf, Comput. Phys. Comm., 180: 2582 (2009).",
+				"tr":  "X. Gonzea, B. Amadond, P.-M. Angladee, J.-M. Beukena, F. Bottind, P. Boulangera, F. Brunevalq, D. Calistej, R. Caracasl, M. Côtéo, T. Deutschj, L. Genovesei, Ph. Ghosezk, M. Giantomassia, S. Goedeckerc, D. R. Hamannm, P. Hermetp, F. Jolletd, G. Jomardd, S. Lerouxd, M. Mancinid, S. Mazevetd, M. J. T. Oliveiraa, G. Onidab, Y. Pouillona, T. Rangela, G.-M. Rignanesea, D. Sangallib, R. Shaltafa, M. Torrentd, M. J. Verstraetea, G. Zerahd, and J. W. Zwanzigerf, Comput. Phys. Comm., 180: 2582 (2009)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.77.3865",
+				"or":  "J. P. Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett., 77: 3865 (1996).",
+				"tr":  "J. P. Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett., 77: 3865 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "http://www.abinit.org/",
+				"tr":  "http://www.abinit.org/"
+			},
+			{
+				"doi": "10.1002/jcc.540030212",
+				"or":  "H. B. Schlegel, J. Comput. Chem., 3: 214 (1982).",
+				"tr":  "H. B. Schlegel, J. Comput. Chem., 3: 214 (1982)."
+			},
+			{
+				"doi": "10.1088/0022-3727/44/2/025402",
+				"or":  "A. A. Shklyaev, F. N. Dultsev, K. P. Mogilnikov, A. V. Latyshev, and M. Ichikawa, J. Phys. D: Appl. Phys., 44: 025402 (2011).",
+				"tr":  "A. A. Shklyaev, F. N. Dultsev, K. P. Mogilnikov, A. V. Latyshev, and M. Ichikawa, J. Phys. D: Appl. Phys., 44: 025402 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "І. В. Плющай, В. А. Макара, О. І. Плющай, Металлофиз. новейшие технол., 33, спецвып.: 157 (2011).",
+				"tr":  "I. V. Plyushchay, V. A. Makara, and O. I. Plyushchay, Metallofiz. Noveishie Tekhnol., 33, Special Issue: 157 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. M. Tsmots, P. G. Litovchenko, Yu. V. Pavlovskyy, and M. M. Luchkevych, Ukr. J. Phys., 54, No. 10: 1007 (2009).",
+				"tr":  "V. M. Tsmots, P. G. Litovchenko, Yu. V. Pavlovskyy, and M. M. Luchkevych, Ukr. J. Phys., 54, No. 10: 1007 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "І. В. Плющай, В. А. Макара, Доповіді Національної академії наук України, № 3: 110 (2009).",
+				"tr":  "I. V. Plyushchay and V. A. Makara, Dopovidi N.A.N.Ukr., No. 3: 110 (2009) (in Ukrainian)."
+			}
+		]
+	}
+}

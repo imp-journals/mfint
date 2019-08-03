@@ -1,0 +1,135 @@
+{
+	"_id":    "MFiNT.36.10.1303",
+	"year":   2014,
+	"volume": 36,
+	"issue":  10,
+	"pages":  [1303,1312],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["13.03.2014"],
+	"PACS":   "61.72.Hh, 62.20.de, 62.40.+i, 75.20.En, 75.80.+q, 81.40.Jj",
+	"title":   {
+		"ua": "Аномалії зворотного магнетопластичного ефекту в магнійтермічному берилійовому конденсаті",
+		"en": "Anomalies of Inverse Magnetoplastic Effect in a Magnesium-Thermal Beryllium Condensate",
+		"ru": "Аномалии обратного магнитопластического эффекта в магнийтермическом бериллиевом конденсате"
+	},
+	"abstract": {
+		"ua": "У магнійтермічному берилійовому конденсаті при одночасній дії на зразки слабкого постійного магнетного, механічного або температурного полів (в інтервалі температур $\\cong$ 20—100°C) зафіксовано зворотний магнетопластичний ефект (МПЕ). При цьому було досліджено поведінку амплітудних і температурно-кінетичних залежностей ефективного модуля зсуву та низькочастотного внутрішнього тертя, а також розраховано відношення швидкостей руху дислокацій у магнетному полі та без нього ($V_{MF}/V_{0}$). При накладанні слабкого постійного магнетного поля in situ зафіксовано розщеплення максимумів внутрішнього тертя та аномальну поведінку $V_{MF}/V_{0}$ на всіх стадіях експерименту, а також інверсію знаку МПЕ при охолодженні, якому передує формування магнетонечутливої области.",
+		"en": "The reverse magnetoplastic effect (MPE) is detected in magnesium-thermal beryllium condensate at the simultaneous action of the weak permanent magnetic and mechanical or temperature fields on the samples (in the interval of temperatures $\\cong$ 20—100°C). The behaviour of the amplitude and temperature dependences of the effective shear modulus and low-frequency internal friction of magnesium-thermal beryllium condensate is investigated. The ratio of dislocations velocities with and without of magnetic field ($V_{MF}/V_{0}$) is calculated, and its anomalous behaviour is fixed at all stages of the experiment. As educed, the weak constant magnetic field causes the splitting of the maximum on the curves of amplitude and temperature dependences of the internal friction, and inversion of the MPE sign at cooling, which is preceded by formation of the magnetic insensitive area.",
+		"ru": "В магнийтермическом бериллиевом конденсате при одновременном действии на образцы слабого постоянного магнитного, механического или температурного полей (в интервале температур $\\cong$ 20—100°C) зафиксирован обратный магнитопластический эффект (МПЭ). Исследовано поведение амплитудных и температурных зависимостей эффективного модуля сдвига и низкочастотного внутреннего трения, а также рассчитано отношение скоростей движения дислокаций в магнитном поле и без него ($V_{MF}/V_{0}$). Под действием слабого постоянного магнитного поля in situ зафиксированы расщепление максимумов внутреннего трения и аномальное поведение $V_{MF}/V_{0}$ на всех этапах эксперимента, а также инверсия знака МПЭ при охлаждении, которой предшествует формирование магнитонечувствительной области."
+	},
+	"keywords": {
+		"ua": "зворотний магнетопластичний ефект, ефективний модуль зсуву, низькочастотне внутрішнє тертя, швидкість руху дислокацій, діямагнетний берилій",
+		"en": "reverse magnetoplastic effect, effective shear modulus, low-frequency internal friction, dislocations velocity, diamagnetic beryllium",
+		"ru": "обратный магнитопластический эффект, эффективный модуль сдвига, низкочастотное внутреннее трение, скорость движения дислокаций, диамагнитный бериллий"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Є. І. Курек", "en": "E. I. Kurek", "ru": "Е. И. Курек"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "І. Г. Курек", "en": "I. G. Kurek", "ru": "И. Г. Курек"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "А. В. Олійнич-Лисюк", "en": "A. V. Oleynich-Lysyuk", "ru": "А. В. Олейнич-Лысюк"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "М. Д. Раранський", "en": "M. D. Rarans’ky", "ru": "Н. Д. Раранский"},
+			"OID": [215]
+		}
+	],
+	"references": {
+		"count": 17,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "А. И. Пинчук, С. Д. Шаврей, Физика твёрдого тела, 46, вып. 9: 1603 (2004).",
+				"tr":  "A. I. Pinchuk and S. D. Shavrey, Fizika Tverdogo Tela, 46, Iss. 9: 1603 (2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. И. Головин, Физика твёрдого тела, 46, вып. 5: 769 (2004).",
+				"tr":  "Yu. I. Golovin, Fizika Tverdogo Tela, 46, Iss. 5: 769 (2004) (in Russian)."
+			},
+			{
+				"doi": "10.3367/UFNr.0174.200402c.0131",
+				"or":  "Р. Б. Моргунов, Успехи физических наук, 174, вып. 2: 131 (2004).",
+				"tr":  "R. B. Morgunov, Uspekhi Fizicheskikh Nauk, 174, Iss. 2: 131 (2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Альшиц, Е. В. Даринская, Т. М. Перекалина, A. A. Урусовская, Физика твёрдого тела, 29, вып. 2: 467 (1987).",
+				"tr":  "V. I. Al'shits, E. V. Darinskaya, T. M. Perekalina, and A. A. Urusovskaya, Fizika Tverdogo Tela, 29, Iss. 2: 467 (1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Альшиц, Е. В. Даринская, М. В. Колдаева, Письма в ЖЭТФ, 88, вып. 7: 500 (2008).",
+				"tr":  "V. I. Al'shits, E. V. Darinskaya, and M. V. Koldaeva, Pis'ma v ZhETF, 88, Iss. 7: 500 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. А. Осипьян, Ю. И. Головин, Р. Б. Моргунов, Р. К. Николаев, И. А. Пушнин, С. З. Шмурак, Физика твёрдого тела, 43, вып. 7: 1333 (2001).",
+				"tr":  "Yu. A. Osip'yan, Yu. I. Golovin, R. B. Morgunov, R. K. Nikolaev, I. A. Pushnin, and S. Z. Shmurak, Fizika Tverdogo Tela, 43, Iss. 7: 1333 (2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "B. И. Смирнов, В. В. Шпейзман, Н. Н. Песчанская, Р. К. Николаев, Физика твёрдого тела, 44, вып. 10: 1915 (2002).",
+				"tr":  "B. I. Smirnov, V. V. Shpeyzman, N. N. Peschanskaya, and R. K. Nikolaev, Fizika Tverdogo Tela, 44, Iss. 10: 1915 (2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Осинская, С. С. Петров, А. В. Покоев, В. В. Рунов, Физика твёрдого тела, 52, вып. 3: 486 (2010).",
+				"tr":  "Yu. V. Osinskaya, S. S. Petrov, A. V. Pokoev, and V. V. Runov, Fizika Tverdogo Tela, 52, Iss. 3: 486 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. И. Курек, А. В. Олейнич-Лысюк, Н. Д. Раранский, Письма в ЖТФ, 37, вып. 24: 1 (2011).",
+				"tr":  "E. I. Kurek, A. V. Oleinich-Lysyuk, and N. D. Raranskii, Pis'ma v ZhTF, 37, Iss. 24: 1 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. И. Курек, И. Г. Курек, А. В. Олейнич-Лысюк, Н. Д. Раранский, Физика твёрдого тела, 55, вып. 10: 1897 (2013).",
+				"tr":  "E. I. Kurek, I. G. Kurek, A. V. Oleinich-Lysyuk, and N. D. Raranskii, Fizika Tverdogo Tela, 55, Iss. 10: 1897 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. И. Молоцкий, Физика твёрдого тела, 35, вып. 1: 11 (1993).",
+				"tr":  "M. I. Molotskiy, Fizika Tverdogo Tela, 35, Iss. 1: 11 (1993) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Олейнич-Лысюк, Н. Д. Раранский, Физика твёрдого тела, 54, вып. 3: 417 (2012).",
+				"tr":  "A. V. Oleinich-Lysyuk and N. D. Raranskii, Fizika Tverdogo Tela, 54, Iss. 3: 417 (2012) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.1777168",
+				"or":  "D. H. Rogers, J. Appl. Phys., 33, No. 3: 781 (1962).",
+				"tr":  "D. H. Rogers, J. Appl. Phys., 33, No. 3: 781 (1962)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Головин, А. Пушкар, Д. М. Левин, Упругие и демпфирующие свойства конструкционных металлических материалов (Москва: Металлургия: 1987).",
+				"tr":  "S. A. Golovin, A. Pushkar, and D. M. Levin, Uprugie i Dempfiruyushchie Svoystva Konstruktsionnykh Metallicheskikh Materialov (Moscow: Metallurgiya: 1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. М. Левин, В. Г. Ткаченко, Н. К. Лашук, И. Ю. Канунникова, Известия ВУЗов. Физика, № 6: 60 (1990).",
+				"tr":  "D. M. Levin, V. G. Tkachenko, N. K. Lashuk, and I. Yu. Kanunnikova, Izvestiya VUZov. Fizika, No. 6: 60 (1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "B. Г. Стронгин, В. Г. Ткаченко, А. В. Олейнич, Н. К. Лашук, Физ. мет. металловед., вып. 11: 187 (1990).",
+				"tr":  "B. G. Strongin, V. G. Tkachenko, A. V. Oleynich, and N. K. Lashuk, Fiz. Met. Metalloved., Iss. 11: 187 (1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. А. Мержиевский, С. А. Шамонин, Журнал прикладной механики и технической физики, № 5: 170 (1980).",
+				"tr":  "L. A. Merzhievskiy and S. A. Shamonin, Zhurnal Prikladnoy Mekhaniki i Tekhnicheskoy Fiziki, No. 5: 170 (1980) (in Russian)."
+			}
+		]
+	}
+}

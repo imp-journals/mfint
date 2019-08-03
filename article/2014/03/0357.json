@@ -1,0 +1,104 @@
+{
+	"_id":    "MFiNT.36.03.0357",
+	"year":   2014,
+	"volume": 36,
+	"issue":  3,
+	"pages":  [357,365],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["31.10.2013"],
+	"PACS":   "62.20.Qp, 81.40.Cd, 81.65.Kn, 81.65.Lp, 87.85.jj",
+	"title":   {
+		"ua": "Високоенергетична поверхнева обробка литих металевих імплантатів як засіб підвищення толерантності організму до них",
+		"en": "High-Energy Surface Treatment of Cast Metallic Implants as a Mean of the Increase of Tolerance of Organism to Them",
+		"ru": "Высокоэнергетическая поверхностная обработка литых металлических имплантатов как средство повышения толерантности организма к ним"
+	},
+	"abstract": {
+		"ua": "Сканівний лазерний переплав поверхні литих ортопедичних імплантатів з однофазних стопів з твердорозчинним зміцненням на основі нікелю з хромом, підвищуючи міцність і корозійну стійкість у тканинних субстанціях, уможливлює помітно підвищити терміни їх безпечного перебування в організмі.",
+		"en": "Scanning surface laser remelting of cast orthopaedic implants of single-phase alloys based on nickel and chromium with solid-solution hardening, increasing hardness and corrosion resistance in tissue substances, makes possible significant increase of the term of their safe stay in the organism.",
+		"ru": "Сканирующий лазерный переплав поверхности литых ортопедических имплантатов из однофазных сплавов с твёрдорастворным упрочнением на основе никеля с хромом, повышая твёрдость и коррозионную стойкость в тканевых субстанциях, позволяет заметно увеличить сроки их безопасного пребывания в организме."
+	},
+	"keywords": {
+		"ua": "лазерний сканівний переплав, литі нікель-хромові стопи, стоматологічні імплантати",
+		"en": "scanning surface laser remelting, cast nickel-chromium alloys, dental implants",
+		"ru": "лазерный сканирующий переплав, литые никель-хромовые сплавы, стоматологические имплантаты"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. А. Бур’янов", "en": "A. A. Buryanov", "ru": "А. А. Бурьянов"},
+			"OID": [241]
+		},
+		{
+			"AID": {"ua": "П. О. Гурин", "en": "P. A. Gurin", "ru": "П. А. Гурин"},
+			"OID": [184]
+		},
+		{
+			"AID": {"ua": "С. П. Ошкадьоров", "en": "S. P. Oshkadyorov", "ru": "С. П. Ошкадёров"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. М. Северина", "en": "S. M. Severina", "ru": "С. Н. Северина"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. А. Стребкова", "en": "O. A. Strebkova", "ru": "О. А. Стребкова"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 10,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "П. О. Гурин, В. Г. Іванченко, С. П. Ошкадьоров, О. В. Павленко, С. М. Северина, Стоматологічний сплав на основі нікелю, Патент № 102806 України (МПК С22С 19/05, бюл. № 1, 2013).",
+				"tr":  "P. O. Gurin, V. G. Ivanchenko, S. P. Oshkadyorov, O. V. Pavlenko, and S. M. Severina, Stomatologichnyy Splav na Osnovi Nikelyu (Dental Nickel-Based Alloy), Patent of Ukraine No. 102806 (IPC SS 19/05, Bul. No. 15, 2013) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Иванченко, С. П. Ошкадеров, С. Н. Северина, Металофиз. новейшие технол., 34, № 8: 1133 (2012).",
+				"tr":  "V. G. Ivanchenko, S. P. Oshkadyorov, and S. N. Severina, Metallofiz. Noveishie Tekhnol., 34, No. 8: 1133 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. П. Ошкадеров, Медико-технические требования на разработку и освоение (Киев: Презид. КНМТ МОЗ Украины: 1994).",
+				"tr":  "S. P. Oshkadyorov, Mediko-Tekhnicheskie Trebovaniya na Razrabotku i Osvoenie (Medical and Technical Requirements for Development and Conversion) (Kyyiv: Ministry of Health of Ukraine: 1994) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Веденов, Г. Г. Гладуш, Физические процессы при лазерной обработке металлов (Москва: Энергоатомиздат: 1985).",
+				"tr":  "A. A. Vedenov and G. G. Gladush, Fizicheskie Protsessy pri Lazernoy Obrabotke Metallov (Physical Processes in the Laser Processing of Metals) (Moscow: Energoatomizdat: 1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Фрейман, В. А. Макаров, И. Е. Брыскин, Потенциостатические методы в коррозионных исследованиях и электростатической защите (Москва: Химия: 1972).",
+				"tr":  "L. I. Freiman, V. A. Makarov, and I. E. Bryskin, Potentsiostaticheskie Metody v Korrozionnykh Issledovaniyakh i Elektrostaticheskoy Zashchite (Potentiostatic Methods in Corrosion Research and Electrostatic Protection) (Moscow: Khimiya: 1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Онищенко, Непереносимість сплавів металів зубних протезів (Автореф. дис. … докт. мед. наук) (Київ: 1995).",
+				"tr":  "V. S. Onishchenko, Neperenosymist' Splaviv Metaliv Zubnykh Proteziv (Intolerance of Metal Dentures) (Thesis of Disser. for Doctor of Medicine) (Kyyiv: 1995) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Н. Хрущев, Склерометрия (Москва: Наука: 1968).",
+				"tr":  "M. N. Khrushchev, Sklerometriya (Sclerometry) (Moscow: Nauka: 1968) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. П. Ошкадеров, А. В. Павленко, С. Н. Северина, В. В. Янченко, Металлофиз. новейшие технол., 32, № 7: 889 (2010).",
+				"tr":  "S. P. Oshkadyorov, A. V. Pavlenko, S. N. Severina, and V. V. Yanchenko, Metallofiz. Noveishie Tekhnol., 32, No. 7: 889 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Д. Гожая, Коррозия протеза из нержавеющей стали в полости рта (Киев: Стоматология: 1981).",
+				"tr":  "L. D. Goga, Korroziya Proteza iz Nerzhaveyushchey Stali v Polosti Rta (Corrosion of Prosthesis of Stainless Steel in the Oral Cavity) (Kiev: Stomatologiya: 1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Удельнов, Большая медицинская энциклопедия (Москва: Медиздат: 1957).",
+				"tr":  "M. Udel'nov, Bol'shaya Meditsinskaya Entsiklopediya (The Great Medical Encyclopaedia) (Moscow: Medizdat: 1957) (in Russian)."
+			}
+		]
+	}
+}

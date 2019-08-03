@@ -1,0 +1,106 @@
+{
+	"_id":    "MFiNT.39.09.1165",
+	"year":   2017,
+	"volume": 39,
+	"issue":  9,
+	"pages":  [1165,1171],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["05.08.2017"],
+	"PACS":   "63.20.K-, 72.15.Jf, 72.15.Nj, 72.20.Pa, 73.21.Hb, 73.63.Nm, 85.80.Fi",
+	"title":   {
+		"ua": "Термоерс фононного перетягання в квантовому дроті з параболічним обмежувальним потенціялом",
+		"en": "Phonon Drag Thermopower in Quantum Wire with Parabolic Confinement Potential",
+		"ru": "Термоэдс фононного увлечения в квантовой проволоке с параболическим ограничивающим потенциалом"
+	},
+	"abstract": {
+		"ua": "Розроблено кількісну теорію термоерс фононного перетягання для одновимірного електронного газу в квантовому дроті з параболічним обмежувальним потенціялом. Ґрадієнт температури спрямовано уздовж осі квантового дроту. Передбачається, що рівень Фермі розташований між нульовим і першим рівнями розмірного квантування. З використанням Больцманнового кінетичного рівняння обчислено фононну й електронну частини термоерс. Для порівняння було проведено чисельні розрахунки температурної та концентраційної залежностей фононної й дифузійної частин термоерс. Показано, що фононне перетягання дає основний внесок у термоерс в інтервалі температур 2–20 К.",
+		"en": "The quantitative theory of phonon drag thermopower for the one-dimensional electron gas in a quantum wire with a parabolic confinement potential is developed. The temperature gradient is directed along the axis of a quantum wire. As assumed, the Fermi level is located between the zero and first levels of a size quantization. Using the Boltzmann kinetic equation, the phonon and electronic parts of a thermoelectric power are calculated. For comparison, numerical calculations of the temperature and concentration dependences of the phonon and diffusion parts of a thermoelectric power are carried out. As shown, the phonon drag makes a main contribution in thermopower within the temperature interval 2–20 K.",
+		"ru": "Разработана количественная теория термоэдс фононного увлечения для одномерного электронного газа в квантовой проволоке с параболическим ограничивающим потенциалом. Градиент температуры направлен вдоль оси квантовой проволоки. Предполагается, что уровень Ферми расположен между нулевым и первым уровнями размерного квантования. С использованием кинетического уравнения Больцмана вычислены фононная и электронная части термоэдс. Для сравнения были проведены численные расчёты температурной и концентрационной зависимостей фононной и диффузионной частей термоэдс. Показано, что фононное увлечение вносит основной вклад в термоэдс в интервале температур 2–20 К."
+	},
+	"keywords": {
+		"ua": "квантовий дріт, фононне перетягання, параболічний потенціял, енергетичний спектер, термоелектричні ефекти, термодинаміка дифузії, теплова енергія фононів",
+		"en": "quantum wire, phonon drag, parabolic potential, energy spectrum, thermoelectric effects, diffusion thermopower, phonon thermopower",
+		"ru": "квантовая проволока, фононное увлечение, параболический потенциал, энергетический спектр, термоэлектрические эффекты, термодинамика диффузии, тепловая энергия фононов"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. І. Аббасов", "en": "I. I. Abbasov", "ru": "И. И. Аббасов"},
+			"OID": [521]
+		},
+		{
+			"AID": {"ua": "Х. А. Гасанов", "en": "Kh. A. Hasanov", "ru": "Х. А. Гасанов"},
+			"OID": [522]
+		},
+		{
+			"AID": {"ua": "Дж. І. Гусейнов", "en": "J. I. Huseynov", "ru": "Дж. И. Гусейнов"},
+			"OID": [522]
+		}
+	],
+	"references": {
+		"count": 12,
+		"list":  [
+			{
+				"doi": "10.1103/PhysRevB.90.165405",
+				"or":  "M.-T. Rieder, T. Micklitz, A. Levchenko, and K. A. Matveev, Phys. Rev. B, 90: 165405 (2014).",
+				"tr":  "M.-T. Rieder, T. Micklitz, A. Levchenko, and K. A. Matveev, Phys. Rev. B, 90: 165405 (2014)."
+			},
+			{
+				"doi": "10.1038/npjquantmats.2016.28",
+				"or":  "J. Mao, Z. Liu, and Z. Ren, NPJ Quantum Materials, 1, Article number: 16028 (2016).",
+				"tr":  "J. Mao, Z. Liu, and Z. Ren, NPJ Quantum Materials, 1, Article number: 16028 (2016)."
+			},
+			{
+				"doi": "10.1134/S106378261603009X",
+				"or":  "Kh. A. Hasanov, J. I. Huseynov, V. V. Dadashova, and F. F. Aliyev, Semiconductors, 50, Iss. 3: 295 (2016).",
+				"tr":  "Kh. A. Hasanov, J. I. Huseynov, V. V. Dadashova, and F. F. Aliyev, Semiconductors, 50, Iss. 3: 295 (2016)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.47.12727",
+				"or":  "L. D. Hicks and M. S. Dresselhaus, Phys. Rev. B, 47: 12727 (1993).",
+				"tr":  "L. D. Hicks and M. S. Dresselhaus, Phys. Rev. B, 47: 12727 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "V. M. Galitskiy, B. M. Karnakov, and V. I. Kogan, Zadachi po Kvantovoy Mekhanike [Problems in Quantum Mechanics] (Moscow: Nauka: 1992) (in Russian).",
+				"tr":  "V. M. Galitskiy, B. M. Karnakov, and V. I. Kogan, Zadachi po Kvantovoy Mekhanike [Problems in Quantum Mechanics] (Moscow: Nauka: 1992) (in Russian)."
+			},
+			{
+				"doi": "10.1088/0953-8984/1/25/006",
+				"or":  "S. S. Kubakaddi and P. N. Butcher, J. Phys.: Condens. Matter, 1: 3939 (1989).",
+				"tr":  "S. S. Kubakaddi and P. N. Butcher, J. Phys.: Condens. Matter, 1: 3939 (1989)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.38.6345",
+				"or":  "S. K. Lyo, Phys. Rev. B, 38: 6345 (1988).",
+				"tr":  "S. K. Lyo, Phys. Rev. B, 38: 6345 (1988)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.32.8477",
+				"or":  "R. Fletcher, J. C.Maan, and G. Weimann, Phys. Rev. B, 32: 8477 (1985).",
+				"tr":  "R. Fletcher, J. C.Maan, and G. Weimann, Phys. Rev. B, 32: 8477 (1985)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.50.14991",
+				"or":  "R. Fletcher, J. J. Harris, C. T.Foxon, M. Tsaousidou, and P. N. Butcher, Phys. Rev. B, 50: 14991 (1994).",
+				"tr":  "R. Fletcher, J. J. Harris, C. T.Foxon, M. Tsaousidou, and P. N. Butcher, Phys. Rev. B, 50: 14991 (1994)."
+			},
+			{
+				"doi": "10.1142/1926",
+				"or":  "B. M. Askerov, Electron Transport Phenomena in Semiconductors (Singapore: World Scientific: 1994).",
+				"tr":  "B. M. Askerov, Electron Transport Phenomena in Semiconductors (Singapore: World Scientific: 1994)."
+			},
+			{
+				"doi": "",
+				"or":  "V. F. Gantmakher and I. B. Levinson, Carrier Scattering in Metals and Semiconductors (Amsterdam: Noth-Holland: 1987).",
+				"tr":  "V. F. Gantmakher and I. B. Levinson, Carrier Scattering in Metals and Semiconductors (Amsterdam: Noth-Holland: 1987)."
+			},
+			{
+				"doi": "",
+				"or":  "E. P. Sinyavskii and S. M. Sokovich, Fizika Tverdogo Tela, 42, No. 9: 1695 (2000) (in Russian).",
+				"tr":  "E. P. Sinyavskii and S. M. Sokovich, Fizika Tverdogo Tela, 42, No. 9: 1695 (2000) (in Russian)."
+			}
+		]
+	}
+}

@@ -1,0 +1,187 @@
+{
+	"year":   2015,
+	"volume": 37,
+	"issue":  3,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [281,293],
+			"title": {
+				"ua": "Вплив взаємодії найближчих сусідів на стабільність фаз одновимірних ізінгових магнетиків",
+				"en": "Influence of Interaction of Non-Nearest Neighbours on the Phase Stability of One-Dimensional Ising Magnets",
+				"ru": "Влияние взаимодействия неближайших соседей на стабильность фаз одномерных изинговских магнетиков"
+			},
+			"autors": {
+				"ua": "В. М. Удодов, Є. В. Шабуніна, Д. В. Спірін",
+				"en": "V. N. Udodov, E. V. Shabunina, and D. V. Spirin",
+				"ru": "В. Н. Удодов, Е. В. Шабунина, Д. В. Спирин"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [295,304],
+			"title": {
+				"ua": "До питання про ефективну масу структурних неоднорідностей доменної границі в одновісних феромагнетиках",
+				"en": "On the Issue of the Effective Mass of Structural Inhomogeneities of Domain Boundary in Uniaxial Ferromagnets",
+				"ru": "К вопросу об эффективной массе структурных неоднородностей доменной границы в одноосных ферромагнетиках"
+			},
+			"autors": {
+				"ua": "А. Б. Шевченко",
+				"en": "A. B. Shevchenko",
+				"ru": "А. Б. Шевченко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [305,316],
+			"title": {
+				"ua": "Магнітні тунельні контакти на основі стопу Гейслера Fe$_{2}$MnGa",
+				"en": "Magnetic Tunnel Contacts Based on Heusler Fe$_{2}$MnGa Alloy",
+				"ru": "Магнитные туннельные контакты на основе сплава Гейслера Fe$_{2}$MnGa"
+			},
+			"autors": {
+				"ua": "Ю. В. Кудрявцев, В. М. Уваров, Дж. Дубовік, Ю. Б. Скирта",
+				"en": "Yu. V. Kudryavtsev, V. M. Uvarov, J. Dubowik, and Yu. B. Skirta",
+				"ru": "Ю. В. Кудрявцев, В. Н. Уваров, Дж. Дубовик, Ю. Б. Скирта"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [317,326],
+			"title": {
+				"ua": "Моделювання розмірних залежностей електропровідності ультратонких плівок золота на основі теорій квантового розмірного ефекту",
+				"en": "Simulation of Size Dependences of Electrical Conductivity of Ultrathin Gold Films on the Basis of Quantum Dimensional Effect",
+				"ru": "Моделирование размерных зависимостей электропроводности ультратонких плёнок золота на основе теорий квантового размерного эффекта"
+			},
+			"autors": {
+				"ua": "Р. І. Бігун, В. М. Гаврилюх, З. В. Стасюк, Д. С. Леонов",
+				"en": "R. I. Bigun, V. M. Gavrylyukh, Z. V. Stasyuk, and D. S. Leonov",
+				"ru": "Р. И. Бигун, В. М. Гаврилюх, З. В. Стасюк, Д. С. Леонов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [327,345],
+			"title": {
+				"ua": "Структура та властивості кисневмісних плівок диборида магнію (MgB$_{2}$)",
+				"en": "Crystal Structure and Properties of the Oxide-Containing Magnesium Diboride Films",
+				"ru": "Структура и свойства кислородосодержащих плёнок диборида магния (MgB$_{2}$)"
+			},
+			"autors": {
+				"ua": "Т. О. Прихна, А. П. Шаповалов, А. В. Шатерник, М. Ейстерер, В. Є. Шатерник, В. В. Ковиляєв",
+				"en": "T. A. Prikhna, A. P. Shapovalov, A. V. Shaternik, M. Eisterer, V. E. Shaternik, and V. V. Kovylyaev",
+				"ru": "Т. А. Прихна, А. П. Шаповалов, А. В. Шатерник, М. Эйстерер, В. Е. Шатерник, В. В. Ковыляев"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [347,354],
+			"title": {
+				"ua": "Спільний вплив хрому та нікелю на поверхневу морфологію і переважні кристалічні орієнтації електроосаджених покриттів на основі заліза",
+				"en": "Joint Effect of Chromium and Nickel on Surface Morphology and Preferred Crystal Orientations of Electrodeposited Iron-Based Coatings",
+				"ru": "Совместное воздействие хрома и никеля на поверхностную морфологию и преимущественные кристаллические ориентации электроосаждённых покрытий на основе железа"
+			},
+			"autors": {
+				"ua": "Є. В. Колесник",
+				"en": "Ie. V. Kolesnyk",
+				"ru": "Е. В. Колесник"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [355,365],
+			"title": {
+				"ua": "Термоіндукований розклад гідратованого трифториду заліза в потоці аргону",
+				"en": "Thermoinductive Decomposition of Hydrated Iron Trifluoride in a Stream of Argon",
+				"ru": "Термоиндуцированное разложение гидратированного трифторида железа в потоке аргона"
+			},
+			"autors": {
+				"ua": "В. В. Мокляк, В. О. Коцюбинський, П. І. Колковський, А. Б. Груб’як, Л. З. Збіглей",
+				"en": "V. V. Moklyak, V. O. Kotsyubynsky, P. I. Kolkovskyy, A. B. Grubyak, and L. Z. Zbigley",
+				"ru": "В. В. Мокляк, В. О. Коцюбинский, П. И. Колковский, А. Б. Грубяк, Л. З. Збиглей"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [367,378],
+			"title": {
+				"ua": "Модифікування заевтектичних силумінів обробкою розплаву імпульсним електричним струмом",
+				"en": "Modifying of Hypereutectic Silumins by Melt Treatment with Pulse Electric Current",
+				"ru": "Модифицирование заэвтектических силуминов обработкой расплава импульсным электрическим током"
+			},
+			"autors": {
+				"ua": "С. С. Петров, А. Г. Пригунова, С. В. Пригунов, Д. М. Ключник",
+				"en": "S. S. Petrov, A. G. Prigunova, S. V. Prigunov, and D. N. Klyuchnik",
+				"ru": "С. С. Петров, А. Г. Пригунова, С. В. Пригунов, Д. Н. Ключник"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [379,396],
+			"title": {
+				"ua": "Критерії та механізми виникнення ауксетичності кристалів кубічної сингонії",
+				"en": "Criteria and Mechanisms of Appearance of Auxeticity in Cubic Syngony Crystals",
+				"ru": "Критерии и механизмы возникновения ауксетичности кристаллов кубической сингонии"
+			},
+			"autors": {
+				"ua": "М. Д. Раранський, В. Н. Балазюк, М. М. Гунько",
+				"en": "M. D. Raransky, V. N. Balazyuk, and M. M. Gunko",
+				"ru": "Н. Д. Раранский, В. Н. Балазюк, М. Н. Гунько"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [397,407],
+			"title": {
+				"ua": "Дослідження зносу металевої частини електродної системи електрогідравлічного бура",
+				"en": "Investigation of the Wear of the Metallic Part of Electrode System of Electrohydraulic Drill",
+				"ru": "Исследование износа металлической части электродной системы электрогидравлического бура"
+			},
+			"autors": {
+				"ua": "К. Кусаіинов, Б. Р. Нусупбеков, С. Є. Сакіпова, Н. Н. Шуюшбаєва, А. К. Хасенов",
+				"en": "K. Kusaiynov, B. R. Nusupbekov, S. E. Sakipova, N. N. Shuyushbayeva, and А. K. Khasenov",
+				"ru": "К. Кусаиынов, Б. Р. Нусупбеков, С. Е. Сакипова, Н. Н. Шуюшбаева, А. К. Хасенов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  2,
+			"pages":  [409,430],
+			"title": {
+				"ua": "Дисперсійна (фазова) природа структурної чутливості та інформативності однокристальної дифрактометрії дефектів і деформацій в іонно-імплантованих плівках",
+				"en": "Dispersion (Phase) Nature of Structural Sensitivity and Informativity of Triple-Crystal Diffractometry of Defects and Strains within the Ion-Implanted Films",
+				"ru": "Дисперсионная (фазовая) природа структурной чувствительности и информативности трёхкристальной дифрактометрии дефектов и деформаций в ионно-имплантированных плёнках"
+			},
+			"autors": {
+				"ua": "О. С. Скакунова, С. Й. Оліховський, В. Б. Молодкін, Є. Г. Лень, Є. М. Кисловський, О. В. Решетник, Т. П. Владімірова, Є. В. Кочелаб, В. В. Лізунов, С. В. Лізунова, В. Л. Маківська, М. Г. Толмачов, Л. М. Скапа, Я. В. Василик, К. В. Фузік",
+				"en": "O. S. Skakunova, S. I. Olikhovskii, V. B. Molodkin, E. G. Len, E. M. Kislovskii, O. V. Reshetnyk, T. P. Vladimirova, E. V. Kochelab, V. V. Lizunov, S. V. Lizunova, V. L. Makivs’ka, M. G. Tolmachov, L. M. Skapa, Ya. V. Vasylyk, and K. V. Fuzik",
+				"ru": "Е. С. Скакунова, С. И. Олиховский, В. Б. Молодкин, Е. Г. Лень, Е. Н. Кисловский, О. В. Решетник, Т. П. Владимирова, Е. В. Кочелаб, В. В. Лизунов, С. В. Лизунова, В. Л. Маковская, Н. Г. Толмачёв, Л. Н. Скапа, Я. В. Василик, Е. В. Фузик"
+			}
+		},
+		{
+			"type":    2,
+			"rubric":  9,
+			"pages":  [431,431],
+			"title": {
+				"ua": "Errata: CONTENTS [Металлофиз. новейшие технол., 37, № 2: III—IV (2015)]",
+				"en": "Errata: CONTENTS [Metallofiz. Noveishie Tekhnol., 37, No. 2: III—IV (2015)]",
+				"ru": "Errata: CONTENTS [Металлофиз. новейшие технол., 37, № 2: III—IV (2015)]"
+			},
+			"autors": {
+				"ua": "Редакційна колегія",
+				"en": "Editorial Board",
+				"ru": "Редакционная коллегия"
+			}
+		}
+	]
+}

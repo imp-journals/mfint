@@ -1,0 +1,115 @@
+{
+	"_id":    "MFiNT.41.02.0227",
+	"year":   2019,
+	"volume": 41,
+	"issue":  2,
+	"pages":  [227,240],
+	"rubric": 14,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["20.06.2018"],
+	"PACS":   "46.50.+a, 62.20.me, 62.20.Qp, 68.47.Gh, 81.40.Np, 81.65.Mq, 81.70.Bt",
+	"title":   {
+		"ua": "Вплив термічного оброблення у газових середовищах на механічні властивості зразків стопу Zr–1%Nb",
+		"en": "Influence of Heat Treatment in Gas Mediums on Mechanical Properties of Samples of Zr–1%Nb Alloy",
+		"ru": "Влияние термической обработки в газовых средах на механические свойства образцов сплава Zr–1%Nb"
+	},
+	"abstract": {
+		"ua": "Експериментально досліджено вплив термічного оброблення у газовому середовищі за $T$ = 580°C впродовж $\\tau$ = 3 год із залишковим тиском $P$ = 1,33$\\cdot10^{-3}$ Па та у кисневмісному газовому середовищі ($T$ = 580°C, $\\tau$ = 0,5 год, $P$ = 1,33 Па + $T$ = 580°C, $\\tau$ = 2,5 год, $P$ = 1,33$\\cdot10^{-2}$ Па) на механічні властивості стопу Zr–1%Nb. Показано, що, залежно від ступеня розрідження технологічного газового середовища, формується приповерхневий шар з певним ґрадієнтом твердости. Експериментально встановлено, що термічне оброблення зразків стопу Zr–1%Nb у газовому середовищі з більшим вмістом кисню позитивно впливає на їхню втомну довговічність за чистого вигину та циклічного розтягу. Зазначено особливості руйнування зразків стопу Zr–1%Nb, залежно від режиму оброблення.",
+		"en": "The effect of heat treatment in a gas medium at $T$ = 580°C during $\\tau$ = 3 h with residual pressure $P$ = 1.33$\\cdot10^{-3}$ Pa and in an oxygen-rich gas medium ($T$ = 580°C, $\\tau$ = 0.5 h, $P$ = 1.33 Pa + $T$ = 580°C, $\\tau$ = 2.5 h, $P$ = 1.33$\\cdot10^{-2}$ Pa) on mechanical properties of a Zr–1%Nb alloy is studied experimentally. As shown, depending on the degree of rarefaction of the technological gas medium, a near-surface layer with a certain hardness gradient is formed. As experimentally revealed, the heat treatment of Zr–1%Nb alloy samples in an oxygen-rich gas medium has positive effects on their fatigue life capability at tests by means of pure bending and cyclic stretching. The features of fracture of Zr–1%Nb alloy samples depending on the treatment mode are given.",
+		"ru": "Экспериментально исследовано влияние термической обработки при $T$ = 580°C на протяжении $\\tau$ = 3 ч в газовой среде с остаточным давлением $P$ = 1,33$\\cdot10^{-3}$ Па и в кислородосодержащей газовой среде ($T$ = 580°C, $\\tau$ = 0,5 ч, $P$ = 1,33 Па + $T$ = 580°C, $\\tau$ = 2,5 ч, $P$ = 1,33$\\cdot10^{-2}$ Па) на механические свойства сплава Zr–1%Nb. Показано, что в зависимости от степени разрежения технологической газовой среды формируется приповерхностный слой с определённым градиентом твёрдости. Экспериментально установлено, что термическая обработка образцов сплава Zr–1%Nb в газовой среде с большим содержанием кислорода положительно влияет на их усталостную долговечность при испытаниях чистым изгибом и циклическим растяжением. Приведены особенности разрушения образцов сплава Zr–1%Nb в зависимости от режима обработки."
+	},
+	"keywords": {
+		"ua": "цирконійовий стоп, кисневмісне газове середовище, хеміко-термічне оброблення, приповерхневий шар, мікротвердість, втомна довговічність",
+		"en": "zirconium alloy, oxygen-rich gas medium, chemicothermal treatment, near-surface layer, microhardness, fatigue life",
+		"ru": "циркониевый сплав, кислородосодержащая газовая среда, химико-термическая обработка, приповерхностный слой, микротвёрдость, усталостная долговечность"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. С. Труш", "en": "V. S. Trush", "ru": "В. С. Труш"},
+			"OID": [6]
+		},
+		{
+			"AID": {"ua": "О. Г. Лук’яненко", "en": "O. H. Lukyanenko", "ru": "А. Г. Лукьяненко"},
+			"OID": [6]
+		},
+		{
+			"AID": {"ua": "В. М. Воєводін", "en": "V. M. Voyevodin", "ru": "В. М. Воеводин"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "П. І. Стоєв", "en": "P. I. Stoyev", "ru": "П. И. Стоев"},
+			"OID": [3]
+		}
+	],
+	"references": {
+		"count": 13,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "A. C. Займовский, A. B. Никулина, Н. Г. Решетников, Циркониевые сплавы в атомной энергетике (Москва: Энергоиздат: 1981).",
+				"tr":  "A. S. Zaimovsky, A. V. Nikulina, and N.G. Reshetnikov, Tsirkonievye Splavy v Atomnoy Energetike [Zirconium Alloys in Nuclear Power Engineering] (Moscow: Energoizdat: 1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Физическое материаловедение (Ред. Б. А. Калин) (Москва: МИФИ: 2008), т. 6, ч. 1.",
+				"tr":  "Fizicheskoe Materialovedenie [Physical Material Science] (Ed. B. A. Kalin) (Moscow: MIFI: 2008), vol. 6, part 1 (in Russian)."
+			},
+			{
+				"doi": "10.1016/0022-3115(76)90170-7",
+				"or":  "D. Lee and P. T. Hill, J. Nucl. Mater., 60, Iss. 2: 227 (1976).",
+				"tr":  "D. Lee and P. T. Hill, J. Nucl. Mater., 60, Iss. 2: 227 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "O. Blahova, R. Medlin, and J. Riha, Metal 2009: 18th International Metallurgical and Materials Conference Proceedings (May 19–21, 2009, Hradec and Moravicí, Czech Republic).",
+				"tr":  "O. Blahova, R. Medlin, and J. Riha, Metal 2009: 18th International Metallurgical and Materials Conference Proceedings (May 19–21, 2009, Hradec and Moravicí, Czech Republic)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Черняева, В. М. Стукалов, Т. П. Грицина, Вопросы атомной науки и техники, 12, № 1: 96 (2002).",
+				"tr":  "A. I. Chernyaeva, V. M. Stukalov, and T. P. Gritsina, Voprosy Atomnoy Nauki i Tekhniki, 12, No. 1: 96 (2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Никулина, M. M. Перегуд, B. K. Шамардин, В. П. Кобылянский, Труды Междунар. конф. по реакторному материаловедению (22–25 мая 1990, Алушта) (Харьков: 1990), т. 4, с. 40.",
+				"tr":  "A. V. Nikulina, M. M. Peregud, V. K. Shamardin, and V. P. Kobylyansky, Trudy Mezdunar. Konf. po Reaktornomu Materialovedeniyu (May 22–25, 1990, Alushta) (Kharkiv: 1990), vol. 4, p. 40 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Кобылянский, В. К. Шамардин, З. Е. Островский, В. М. Раевский, A. B. Никулина, М. М. Перегуд, В. М. Григорьев, Труды Междунар. конф. по реакторному материаловедению (22–25 мая 1990, Алушта) (Харьков: 1990), т. 4, с. 64.",
+				"tr":  "V. P. Kobyliansky, V. K. Shamardin, Z. E. Ostrovsky, V. M. Raevsky, A. V. Nikulina, M. M. Peregud, and V. M. Grigorev, Trudy Mezdunar. Konf. po Reaktornomu Materialovedeniyu (May 22–25, 1990, Alushta) (Kharkiv: 1990), vol. 4, p. 64 (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.jnucmat.2013.11.039",
+				"or":  "S. A. Nikulin, A. B. Rozhnov, A. Yu. Gusev, T. A. Nechaykina, S. O. Rogachev, and M. Yu. Zadorozhnyya, J. Nucl. Mater., 446, Iss. 1–3: 10 (2014).",
+				"tr":  "S. A. Nikulin, A. B. Rozhnov, A. Yu. Gusev, T. A. Nechaykina, S. O. Rogachev, and M. Yu. Zadorozhnyya, J. Nucl. Mater., 446, Iss. 1–3: 10 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Вахрушева, О. А. Коленкова, Г. Д. Сухомлин, Вопросы атомной науки и техники, 88, № 5: 104 (2005).",
+				"tr":  "V. S. Vakhrusheva, O. A. Kolenkova, and G. D. Sukhomlin, Voprosy Atomnoy Nauki i Tekhniki, 88, No. 5: 104 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Цикалов, Б. В. Самсонов, А. Я. Рогозянов и др., Физика и химия обработки материалов, № 6: 3 (1982).",
+				"tr":  "V. A. Tsikalov, B. V. Samsonov, A. Ya. Rogozyanov et al., Fizika i Khimiya Obrabotki Materialov, No. 6: 3 (1982) (in Russian)."
+			},
+			{
+				"doi": "10.15407/scin2.06.018",
+				"or":  "В. М. Ажажа, Б. В. Борц, І. М. Бутенко, П. М. В’югов, В. М. Воєводін, С. Д. Лавриненко, І. М. Неклюдов, М. М. Пилипенко, В. С. Вахрушева, Т. М. Буряк, Г. Д. Сухомлин, В. О. Благова, К. А. Ліндт, В. І. Попов, С. В. Ладохін, В. Б.Чернявський, Наука та інновації, 2, № 6: 18 (2006).",
+				"tr":  "V. M. Azhazha, B. V. Bortz, I. M. Butenko, P. M. V’ugov, V. M. Voevodin, S. D. Lavrinenko, I. M. Neklyudov, M. M. Pylypenko, V. S. Vakhrusheva, T. M. Buryak, G. D. Sukhomlin, V. O. Blagova, K. A. Lindt, V. I. Popov, S. V. Ladokhin, and V. B.Chernyavsky, Nauka Innov., 2, No. 6: 18 (2006) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Г. Максимович, Микромеханические исследования свойств металлов и сплавов (Киев: Наукова думка: 1974).",
+				"tr":  "G. G. Maksimovich, Mikromekhanicheskie Issledovaniya Svoystv Metallov i Splavov [Micromechanical Studies of the Properties of Metals and Alloys] (Kiev: Naukova Dumka: 1974) (in Russian)."
+			},
+			{
+				"doi": "10.4236/ampc.2013.32023",
+				"or":  "Noureddine Selmi and Ali Sari, Adv. Mater. Phys. Chem., 3, No. 2: 168 (2013).",
+				"tr":  "Noureddine Selmi and Ali Sari, Adv. Mater. Phys. Chem., 3, No. 2: 168 (2013)."
+			}
+		]
+	}
+}

@@ -1,0 +1,111 @@
+{
+	"_id":    "MFiNT.40.05.0683",
+	"year":   2018,
+	"volume": 40,
+	"issue":  5,
+	"pages":  [683,700],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["11.07.2017","10.04.2018"],
+	"PACS":   "61.72.Hh, 62.20.Hg, 81.20.Vj, 81.40.Lm, 83.10.Tv, 83.50.Lh, 83.85.Tz",
+	"title":   {
+		"ua": "Плазучість зварних з’єднань паропроводів",
+		"en": "Creeping of Welded Joints of Steam Pipelines",
+		"ru": "Ползучесть сварных соединений паропроводов"
+	},
+	"abstract": {
+		"ua": "Представлено результати вивчення особливостей зміни структурного стану металу зварних з’єднань паропроводів з теплостійких перлітних Cr–Mo–V-сталей, які тривалий час експлуатуються в умовах плазучости. Показано роль впливу фізико-хемічних процесів, які відбуваються у металі зварних з’єднань паропроводів, на їх структурні зміни. Деформація металу зварних з’єднань, що забезпечується переміщенням дислокацій, є найбільшою на ділянці неповної перекристалізації зони термічного впливу (ЗТВ). Швидкість плазучости переважно контролюється переповзанням дислокацій і залежить від структурного стану металу зварних з’єднань. Збільшення деформації металу зварних з’єднань при їх напрацюванні в умовах плазучости до 200000 год. має переважно лінійний характер, а після характер деформації буде відрізнятися від лінійного.",
+		"en": "The results of studying the features of structural changes of welded joints of steam pipes from heat-resistant pearlitic Cr–Mo–V steels operated for a long time under the conditions of creeping are presented. The role of the influence of physicochemical processes occurring within the metal of welded joints of steam pipes on their structural changes is shown. The deformation of the metal of welded joints, which is ensured by the displacement of dislocations, is the largest in the area of incomplete recrystallization of their heat-affected zone (HAZ). The creep rate is mainly controlled by the displacement of dislocations and is dependent on the structural state of the metal of welded joints. The increase in the deformation of the metal of welded joints operated for a long time under the conditions of creeping of about 200000 hours is linear, and after, their time-dependent deformation character differs from the linear one.",
+		"ru": "Представлены результаты изучения особенностей изменения структурного состояния металла сварных соединений паропроводов из теплоустойчивых перлитных Cr–Mo–V-сталей, длительно эксплуатируемых в условиях ползучести. Показана роль влияния физико-химических процессов, проходящих в металле сварных соединений паропроводов, на их структурные изменения. Деформация металла сварных соединений, обеспечиваемая перемещением дислокаций, является наибольшей на участке неполной перекристаллизации зоны термического влияния (ЗТВ). Скорость ползучести преимущественно контролируется переползанием дислокаций и зависит от структурного состояния металла сварных соединений. Увеличение деформации металла сварных соединений при их наработке в условиях ползучести до 200000 ч имеет преимущественно линейный характер, а после характер деформации будет отличаться от линейного."
+	},
+	"keywords": {
+		"ua": "зварні з’єднання паропроводів, пересування дислокацій, плазучість, енергія активації, деформація, структура, пошкоджуваність",
+		"en": "welded steam-pipe joints, displacement of dislocations, creep, activation energy, deformation, structure, damageability",
+		"ru": "сварные соединения паропроводов, перемещение дислокаций, ползучесть, энергия активации, деформация, структура, повреждаемость, зона термического влияния"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. В. Глушко", "en": "A. V. Glushko", "ru": "А. В. Глушко"},
+			"OID": [243]
+		},
+		{
+			"AID": {"ua": "В. В. Дмитрик", "en": "V. V. Dmytryk", "ru": "В. В. Дмитрик"},
+			"OID": [243]
+		},
+		{
+			"AID": {"ua": "Т. А. Сиренко", "en": "T. A. Syrenko", "ru": "Т. А. Сыренко"},
+			"OID": [243]
+		}
+	],
+	"references": {
+		"count": 13,
+		"list":  [
+			{
+				"doi": "10.15407/tpwj2015.07.02",
+				"or":  "В. В. Дмитрик, О. В. Соболь, М. А. Погребной, Т. А. Сыренко, Автоматическая сварка, № 7: 12 (2015).",
+				"tr":  "V. V. Dmytryk, O. V. Sobol, M. A. Pohrebnoi, and T. A. Syrenko, Avtomaticheskaya Svarka, No. 7: 12 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ф. А. Хромченко, Ресурс сварных соединений паропроводов (Москва: Машиностроение: 2002).",
+				"tr":  "F. A. Khromchenko, Resurs Svarnykh Soedineniy Paroprovodov [Resource of Welded Joints of Steam Pipelines] (Moscow: Mashinostroenie: 2002) (in Russian)."
+			},
+			{
+				"doi": "10.15587/1729-4061.2016.85852",
+				"or":  "A. Glushko, Eastern-European Journal of Enterprise Technologies, 6, No. 1 (84): 14 (2016).",
+				"tr":  "A. Glushko, Eastern-European Journal of Enterprise Technologies, 6, No. 1 (84): 14 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Дмитрик, Т. А. Сыренко, Автоматическая сварка, № 10: 22 (2012).",
+				"tr":  "V. V. Dmitrik and T. A. Syrenko, Avtomaticheskaya Svarka, No. 10: 22 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Хирт, И. Лоте, Теория дислокаций (Москва: Атомиздат: 1972) (пер. с англ.).",
+				"tr":  "J. P. Hirth and J. Lothe, Teoriya Dislokatsiy [Theory of Dislocations] (Moscow: Atomizdat: 1972) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. Судзуки, Х. Ёсинага, С. Такеути, Динамика дислокаций и пластичность (Москва: Мир: 1989) (пер. с япон.).",
+				"tr":  "T. Suzuki, H. Yoshinaga, and Sh. Takeuchi, Dinamika Dislokatsiy i Plastichnost' [Dislocation Dynamics and Plasticity] (Moscow: Mir: 1989) (Russian translation)."
+			},
+			{
+				"doi": "10.1080/09507116.2011.581425",
+				"or":  "V. V. Dmitrik, E. D. Grinchenko, and T. O. Syrenko, Welding International, 25, No. 11: 368 (2011).",
+				"tr":  "V. V. Dmitrik, E. D. Grinchenko, and T. O. Syrenko, Welding International, 25, No. 11: 368 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "Методические указания по металлографическому анализу при оценке качества и исследовании причин повреждений сварных соединений паропроводов из сталей 12Х1МФ и 15Х1М1Ф тепловых электростанций. МУ 34-70-161-87 (Москва: ВТИ: 1987).",
+				"tr":  "Metodicheskie Ukazaniya po Metallograficheskomu Analizu pri Otsenke Kachestva i Issledovanii Prichin Povrezhdeniy Svarnykh Soedineniy Paroprovodov iz Staley 12Kh1MF i 15Kh1M1F Teplovykh Elektrostantsiy, MU 34-70-161-87 (Moscow: VTI: 1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Инструкция о порядке обследования и продлении срока службы паропроводов сверх паркового ресурса. СО 153-34.17.470-2003 (Москва: ЦПТИ ОРГРЭС: 2004).",
+				"tr":  "Instruktsiya o Poryadke Obsledovaniya i Prodlenii Sroka Sluzhby Paroprovodov Sverkh Parkovogo Resursa. SO 153-34.17.470-2003 (Moscow: TsPTI ORGRES: 2004) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.39.01.0033",
+				"or":  "С.  А. Фирстов, Т.  Г. Рогуль, Металлофиз. новейшие технол., 39, № 1: 33 (2017).",
+				"tr":  "S. O. Firstov and T. G. Rogul, Metallofiz. Noveishie Tekhnol., 39, No. 1: 33 (2017) (in Russian)."
+			},
+			{
+				"doi": "10.15587/1729-4061.2015.55420",
+				"or":  "В. В. Дмитрик, Т. А. Сыренко, С. Н. Барташ, А. В. Глушко, Восточно-Европейский журнал передовых технологий, 6, № 1 (78): 13 (2015).",
+				"tr":  "V. V. Dmitrik, T. A. Syrenko, S. N. Bartash, and A. V. Glushko, Eastern-European Journal of Enterprise Technologies, 6, No. 1 (78): 13 (2015) (in Russian)."
+			},
+			{
+				"doi": "10.15407/as2017.07.03",
+				"or":  "В. В. Дмитрик, А. В. Глушко, Т. А. Сыренко, Автоматическая сварка, № 7:19 (2017).",
+				"tr":  "V. V. Dmitrik, A. V. Glushko, and T. A. Syrenko, Avtomaticheskaya Svarka, No. 7: 19 (2017) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Дмитрик, В. Н. Баумер, Металлофиз. новейшие технол., 29, № 7: 937 (2007).",
+				"tr":  "V. V. Dmitrik and V. N. Baumer, Metallofiz. Noveishie Tekhnol., 29, No. 7: 937 (2007) (in Russian)."
+			}
+		]
+	}
+}

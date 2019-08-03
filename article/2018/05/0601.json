@@ -1,0 +1,104 @@
+{
+	"_id":    "MFiNT.40.05.0601",
+	"year":   2018,
+	"volume": 40,
+	"issue":  5,
+	"pages":  [601,613],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["06.03.2018"],
+	"PACS":   "64.60.ah, 68.37.Lp, 73.61.At, 73.63.Bd, 78.20.Ci, 78.66.Bz, 81.15.Kk",
+	"title":   {
+		"ua": "Вплив підшарів ґерманію на структуру, електропровідність та оптичні властивості нанорозмірних плівок срібла",
+		"en": "Influence of Germanium Sublayers on Structure, Electrical Conductivity, and Optical Properties of Nanosize Films of Silver",
+		"ru": "Влияние подслоёв германия на структуру, электропроводность и оптические свойства наноразмерных плёнок серебра"
+	},
+	"abstract": {
+		"ua": "Досліджено структуру, статичну електропровідність та оптичні властивості тонких плівок срібла, заморожено препарованих в умовах надвисокого вакууму на поверхні скла та поверхні скла, попередньо покритій підшарами ґерманію масовою товщиною у 0,5 нм. Ультратонкі підшари ґерманію пришвидшують металізацію шару срібла за рахунок зменшення середніх лінійних розмірів кристалітів у конденсованому шарі пари металу, що проявляється у зменшенні порогової товщини перколяційного переходу. Величини товщин плівок металу $d_{\\textrm{c}}$, що відповідають перколяційному переходу та знайдені з результатів міряння статичної електропровідности й оптичного пропускання плівок у діяпазоні довжин хвиль 300–2500 нм, добре узгоджуються між собою.",
+		"en": "Structure, DC electrical conductivity, and optical properties of thin silver films quench prepared under ultrahigh vacuum conditions on the surface of the bare glass and the glass precoated with germanium sublayers with a mass thickness of 0.5 nm are studied. Ultrathin films of germanium sublayers accelerate the metallization of a silver film by reducing the average linear dimensions of crystallites in the condensed layer of metal vapour that manifests itself in a decrease in the threshold thickness of the percolation transition. The $d_{\\textrm{c}}$ thicknesses of metal films, which correspond to the percolation transition and are determined by measurements of DC electrical conductivity and optical transmission of films in the wavelength range $\\lambda$ = 300–2500 nm, agree well with each other.",
+		"ru": "Исследованы структура, статическая электропроводность и оптические свойства тонких плёнок серебра, замороженно препарированных в условиях сверхвысокого вакуума на поверхности стекла и поверхности стекла, предварительно покрытой подслоями германия массовой толщиной 0,5 нм. Ультратонкие подслои германия ускоряют металлизацию слоя серебра за счёт уменьшения средних линейных размеров кристаллитов в конденсированном слое пара металла, что проявляется в уменьшении пороговой толщины перколяционного перехода. Величины толщин плёнок металла $d_{\\textrm{c}}$, которые соответствуют перколяционному переходу и определены из результатов измерения статической электропроводности и оптического пропускания плёнок в диапазоне длин волн 300–2500 нм, хорошо согласуются между собой."
+	},
+	"keywords": {
+		"ua": "тонкі металеві плівки, підшари субатомової товщини, перколяція, електропровідність, коефіцієнт відбивання плівок",
+		"en": "thin metal films, sublayers of subatomic thickness, percolation, electroconductivity, reflection coefficient of films",
+		"ru": "тонкие металлические плёнки, подслои субатомной толщины, перколяция, электропроводность, коэффициент отражения плёнок"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Р. І. Бігун", "en": "R. I. Bihun", "ru": "Р. И. Бигун"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "З. В. Стасюк", "en": "Z. V. Stasyuk", "ru": "З. В. Стасюк"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "О. В. Строганов", "en": "O. V. Stroganov", "ru": "О. В. Строганов"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "М. Д. Бучковська", "en": "M. D. Buchkovska", "ru": "М. Д. Бучковская"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "Д. С. Леонов", "en": "D. S. Leonov", "ru": "Д. С. Леонов"},
+			"OID": [16]
+		}
+	],
+	"references": {
+		"count": 10,
+		"list":  [
+			{
+				"doi": "10.1016/j.phpro.2012.03.510",
+				"or":  "A. Axelevitch, B. Gorenstein, and G. Golan, Physics Procedia, 32: 1 (2012).",
+				"tr":  "A. Axelevitch, B. Gorenstein, and G. Golan, Physics Procedia, 32: 1 (2012)."
+			},
+			{
+				"doi": "10.1080/00107519108213805",
+				"or":  "P. Smilauer, Contemporary Physics, 32, No. 2: 89 (1991).",
+				"tr":  "P. Smilauer, Contemporary Physics, 32, No. 2: 89 (1991)."
+			},
+			{
+				"doi": "10.1364/OE.14.001541",
+				"or":  "S. Ding, X. Wang, D. J. Chen, and Q. Q. Wang, Optics Express, 14, No. 4: 1541 (2006).",
+				"tr":  "S. Ding, X. Wang, D. J. Chen, and Q. Q. Wang, Optics Express, 14, No. 4: 1541 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, Р. І. Бігун, З. В. Стасюк, Ю. А. Куницький, Наносистеми, наноматеріали, нанотехнології, 8, вип. 2: 339 (2015).",
+				"tr":  "A. P. Shpak, R. I. Bihun, Z. V. Stasiuk, and Yu. A. Kunytskyi, Nanosistemi, Nanomateriali, Nanotehnologii, 8, No. 2: 339 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. І. Бігун, З. В. Стасюк, О. В. Строганов, В. М. Гаврилюх, Д. С. Леонов, Наносистеми, наноматеріали, нанотехнології, 13, вип. 3: 459 (2015).",
+				"tr":  "R. I. Bihun, Z. V. Stasiuk, O. V. Strohanov, V. M. Havryliukh, and D. S. Leonov, Nanosistemi, Nanomateriali, Nanotehnologii, 13, No. 3: 459 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "З. В. Стасюк, А. І. Лопатинський, ФХТТ, 2, № 4: 521 (2001).",
+				"tr":  "Z. V. Stasiuk and A. I. Lopatynskyi, Fiz. Khim. Tverd. Tila, 2, No. 4: 521 (2001) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. І. Бігун, З. В. Стасюк, О. В. Строганов, Д. С. Леонов, Наносистеми, наноматеріали, нанотехнології, 15, вип. 1: 15 (2017).",
+				"tr":  "R. I. Bihun, Z. V. Stasiuk, O. V. Strohanov, and D. S. Leonov, Nanosistemi, Nanomateriali, Nanotehnologii, 15, No. 1: 15 (2017) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. І. Бігун, М. Д. Бучковська, Н. С. Колтун, З. В. Стасюк, Д. С. Леонов, Металлофиз. новейшие технол., 35, № 12: 1659 (2013).",
+				"tr":  "R. I. Bihun, M. D. Buchkovska, N. S. Koltun, Z. V. Stasiuk, and D. S. Leonov, Metallofiz. Noveishie Tekhnol., 35, No. 12: 1659 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/mfint.39.06.0743",
+				"or":  "Р. І. Бігун, З. В. Стасюк, О. В. Строганов, Д. С. Леонов, Металлофиз. новейшие технол., 39, № 6: 743 (2017).",
+				"tr":  "R. I. Bihun, Z. V. Stasiuk, O. V. Strohanov, and D. S. Leonov, Metallofiz. Noveishie Tekhnol., 39, No. 6: 743 (2017) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/mfint.39.09.1173",
+				"or":  "Р. І. Бігун, З. В. Стасюк, О. В. Строганов, Д. С. Леонов, Металлофиз. новейшие технол., 39, № 9: 1173 (2017).",
+				"tr":  "R. I. Bihun, Z. V. Stasiuk, O. V. Strohanov, and D. S. Leonov, Metallofiz. Noveishie Tekhnol., 39, No. 9: 1173 (2017) (in Ukrainian)."
+			}
+		]
+	}
+}

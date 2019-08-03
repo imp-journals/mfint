@@ -1,0 +1,151 @@
+{
+	"_id":    "MFiNT.40.09.1149",
+	"year":   2018,
+	"volume": 40,
+	"issue":  9,
+	"pages":  [1149,1164],
+	"rubric": 18,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["19.06.2018"],
+	"PACS":   "07.85.-m, 61.05.cf, 61.05.cp, 61.72.Dd, 81.07.-b, 81.70.-q",
+	"title":   {
+		"ua": "Застосування цифрового аналогу підвищення роздільчої здатности рентґенодифракційного обладнання для дослідження дефектного стану кристалічних матеріялів",
+		"en": "Application of Digital Analog of Increase of Resolving Power of the X-Ray Diffraction Equipment for Characterization of an Imperfect State of Crystalline Materials",
+		"ru": "Применение цифрового аналога повышения разрешающей способности рентгенодифракционного оборудования для исследования дефектного состояния кристаллических материалов"
+	},
+	"abstract": {
+		"ua": "Представлено методику аналізи форми рентґенівських ліній із застосуванням методи реґуляризації за Тихоновим до відновлення фізичного профілю (радіяльного розподілу інтенсивности відбивання, розширення якого спричинено виключно дефектами кристалічної структури). Запропоновано процедуру відокремлення ефектів дифракції Рентґенових променів на кристалічній ґратниці з мікродеформаціями та на областях когерентного розсіяння, яка ґрунтується на відновленні форми повного фізичного профілю, не потребує апріорних припущень щодо закону розподілу мікродеформацій і враховує тип функції розширення на областях когерентного розсіяння.",
+		"en": "The technique of analysis of the x-ray patterns’ shape using Tikhonov’s regularization method to reconstruct a physical profile (i.e., radial distribution of reflection intensity, the broadening of which is caused by crystal defects only) is described. A procedure for the separation of x-ray diffraction effects on the crystal lattice with microstrains and on coherent scattering regions is proposed. It is based on the recovery of total physical profile shape, does not require a priori assumptions about a law of microstrain distribution, and allows taking into account for a broadening-function type within the areas of coherent scattering.",
+		"ru": "Представлена методика анализа формы рентгеновских линий с применением метода регуляризации Тихонова к восстановлению физического профиля (радиального распределения интенсивности отражения, уширение которого вызвано исключительно дефектами кристаллической структуры). Предложена процедура разделения эффектов дифракции рентгеновских лучей на кристаллической решётке с микродеформациями и на областях когерентного рассеяния, которая основана на восстановлении формы полного физического профиля, не нуждается в априорных предположениях относительно закона распределения микродеформаций и учитывает тип функции уширения на областях когерентного рассеяния."
+	},
+	"keywords": {
+		"ua": "рівняння згортки, фізичний профіль, дефекти кристалічної будови, розділення ефектів дифракції",
+		"en": "convolution, physical profile, crystal defects, separation of diffraction effects",
+		"ru": "уравнение свёртки, физический профиль, дефекты кристаллического строения, разделение эффектов дифракции"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Н. М. Роженко", "en": "N. M. Rozhenko", "ru": "Н. Н. Роженко"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "О. М. Григор’єв", "en": "O. M. Grigoriev", "ru": "О. Н. Григорьев"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "В. В. Картузов", "en": "V. V. Kartuzov", "ru": "В. В. Картузов"},
+			"OID": [2]
+		}
+	],
+	"references": {
+		"count": 21,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "M. Čerňanský, Defect and Microstructure Analysis by Diffraction (Eds. R. L. Snyder, J. Fiala, and H. J. Bunge) (Oxford: 1999).",
+				"tr":  "M. Čerňanský, Defect and Microstructure Analysis by Diffraction (Eds. R. L. Snyder, J. Fiala, and H. J. Bunge) (Oxford: 1999)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Сизиков, Математические методы обработки результатов измерений (Санкт-Петербург: Политехника: 2001).",
+				"tr":  "V. S. Sizikov, Matematicheskie Metody Obrabotki Rezul'tatov Izmereniy [Mathematical Methods for Processing Measurement Results] (Saint Petersburg: Politekhnika: 2001) (in Russian)."
+			},
+			{
+				"doi": "10.1098/rspa.1938.0079",
+				"or":  "F. W. Jones, Proc. Roy. Soc. Series A, 166, No. 924: 16 (1938).",
+				"tr":  "F. W. Jones, Proc. Roy. Soc. Series A, 166, No. 924: 16 (1938)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. И. Уоррен, Успехи физики металлов: Сборник (1963), т. 5, с. 172.",
+				"tr":  "B. E. Warren, Uspekhi Fiziki Metallov (1963), vol. 5, p. 172 (Russian translation)."
+			},
+			{
+				"doi": "10.3367/UFNr.0073.196103e.0503",
+				"or":  "Д. М. Васильев, Б. И. Смирнов, Успехи физических наук, 73, № 3: 503 (1961).",
+				"tr":  "D. M. Vasil'ev and B. I. Smirnov, Uspekhi Fizicheskikh Nauk, 73, No. 3: 503 (1961) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. Н. Григорьев, Порошковая металлургия, № 11: 100 (2012).",
+				"tr":  "O. N. Grigor'ev, Poroshkovaya Metallurgiya, No. 11: 100 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Н. Тихонов, В. Я. Арсенин, Методы решения некорректных задач (Москва: Наука: 1986).",
+				"tr":  "A. N. Tikhonov and V. Ya. Arsenin, Metody Resheniya Nekorrektnykh Zadach [Methods for Solving Ill-Posed Problems] (Moscow: Nauka: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. Д. Вишняков, Современные методы исследования структуры деформированных кристаллов (Москва: Металлургия: 1975).",
+				"tr":  "Ya. D. Vishnyakov, Sovremennye Metody Issledovaniya Struktury Deformirovannykh Kristallov [Modern Methods for Studying the Structure of Deformed Crystals] (Moscow: Metallurgiya: 1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. М. Васильев, Дифракционные методы исследования структур (Москва: Металлургия: 1977).",
+				"tr":  "D. M. Vasil'ev, Difraktsionnye Metody Issledovaniya Struktur [Diffraction Methods for Investigation of Structures] (Moscow: Metallurgiya: 1977) (in Russian)."
+			},
+			{
+				"doi": "10.1088/0370-1328/80/1/333",
+				"or":  "A. J. C. Wilson, Proc. Phys. Soc., 80: 286 (1962).",
+				"tr":  "A. J. C. Wilson, Proc. Phys. Soc., 80: 286 (1962)."
+			},
+			{
+				"doi": "10.1107/S0365110X65002335",
+				"or":  "F. R. L. Schoening, Acta Cryst., 18: 975 (1965).",
+				"tr":  "F. R. L. Schoening, Acta Cryst., 18: 975 (1965)."
+			},
+			{
+				"doi": "10.1016/0001-6160(53)90006-6",
+				"or":  "G. K. Williamson and W. H. Hall, Acta Metall., 1, Iss. 1: 22 (1953).",
+				"tr":  "G. K. Williamson and W. H. Hall, Acta Metall., 1, Iss. 1: 22 (1953)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Иверонова, Г. П. Ревкевич, Теория рассеяния рентгеновских лучей (Москва: Издательство МГУ: 1978).",
+				"tr":  "V. I. Iveronova and G. P. Revkevich, Teoriya Rasseyaniya Rentgenovskikh Luchey [Theory of X-Ray Scattering] (Moscow: Izdatel'stvo MGU: 1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Н. Тихонов, А. В. Гончарский, В. В. Степанов, А. Г. Ягола, Численные методы решения некорректных задач (Москва: Наука: 1990).",
+				"tr":  "A. N. Tikhonov, A. V. Goncharskiy, V. V. Stepanov, and A. G. Yagola, Chislennye Metody Resheniya Nekorrektnykh Zadach [Numerical Methods for Solving Ill-Posed Problems] (Moscow: Nauka: 1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Григор’єв, В. В. Картузов, Н. М. Роженко, Електронна мікроскопія і міцність матеріалів, 23: 16 (2017).",
+				"tr":  "O. M. Grigoriev, V. V. Kartuzov, and N. M. Rozhenko, Elektronna Mikroskopiya i Mitsnist' Materialiv, 23: 16 (2017) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Решетняк, О. В. Соболь, Физическая инженерия поверхности, 6, № 3–4: 180 (2008).",
+				"tr":  "M. V. Reshetnyak and O. V. Sobol', Fizicheskaya Inzheneriya Poverkhnosti, 6, Nos. 3–4: 180 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Королюк, Н. И. Портенко, А. В. Скороход, А. Ф. Турбин, Справочник по теории вероятностей и математической статистике (Москва: Наука: 1985).",
+				"tr":  "V. S. Korolyuk, N. I. Portenko, A. V. Skorokhod, and A. F. Turbin, Spravochnik po Teorii Veroyatnostey i Matematicheskoy Statistike [A Handbook on Probability Theory and Mathematical Statistics] (Moscow: Nauka: 1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Д. Бега, В. Б. Винокуров, Б. О. Галанов, О. М. Григор’єв, В. В. Картузов, П. В. Мазур, Н. М. Роженко, А. В. Степаненко, Електронна мікроскопія і міцність матеріалів, 22: 58 (2016).",
+				"tr":  "M. D. Bega, V. B. Vinokurov, B. O. Galanov, O. M. Grigor'ev, V. V. Kartuzov, P. V. Mazur, N. M. Rozhenko, and A. V. Stepanenko, Elektronna Mikroskopiya i Mitsnist' Materialiv, 22: 58 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. Н. Григорьев, Л. А. Крячко, Н. Д. Бега, А. В. Лаптев, М. Е. Головкова, Н. Н. Роженко, Е. И. Берсудский, Электронная микроскопия и прочность материалов, 19: 114 (2013).",
+				"tr":  "O. N. Grigor'ev, L. A. Kryachko, N. D. Bega, A. V. Laptev, M. E. Golovkova, N. N. Rozhenko, and E. I. Bersudskiy, Elektronnaya Mikroskopiya i Prochnost' Materialov, 19: 114 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. А. Баглюк, О. В. Власова, В. В. Картузов, А. А. Мамонова, Н. В. Могила, Н. М. Роженко, Математические модели и вычислительный эксперимент в материаловедении, 18: 72 (2016).",
+				"tr":  "G. A. Baglyuk, O. V. Vlasova, V. V. Kartuzov, A. A. Mamonova, N. V. Mogila, and N. M. Rozhenko, Matematicheskie Modeli i Vychislitel'nyy Eksperiment v Materialovedenii, 18: 72 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. М. Роженко, В. В. Картузов, Д. А. Гусачук, Наукові нотатки, 57: 161 (2017).",
+				"tr":  "N. M. Rozhenko, V. V. Kartuzov, and D. A. Gusachuk, Naukovi Notatki, 57: 161 (2017) (in Ukrainian)."
+			}
+		]
+	}
+}

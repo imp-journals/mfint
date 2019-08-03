@@ -1,0 +1,152 @@
+{
+	"_id":    "MFiNT.39.07.0959",
+	"year":   2017,
+	"volume": 39,
+	"issue":  7,
+	"pages":  [959,981],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["29.06.2017"],
+	"PACS":   "07.05.Tp, 61.72.Qq, 64.70.dg, 81.05.Bx, 81.20.Hy, 81.30.Fb",
+	"title":   {
+		"ua": "Оцінювання усадки литих стопів Al–Si шляхом моделювання процесу",
+		"en": "Shrinkage Estimation of Cast Al–Si Alloys through Process Simulation",
+		"ru": "Оценка усадки литых сплавов Al–Si путём моделирования процесса"
+	},
+	"abstract": {
+		"ua": "З появою різних метод моделювання процесу лиття з’явилася можливість теоретично оцінити параметри лиття, які можуть бути додатково перевірені за допомогою експериментів. В даній роботі було проведено детальне моделювання для визначення характеристик усадки двох стопів Al–Si (US 413 і US A356) з подальшою перевіркою за допомогою експерименту. Виробництво виливків без дефектів потребує доброго розуміння характеристик усадки. Вплив різних параметрів процесу на ці характеристики визначає якість виливки. Виходячи з цього, було проведено цілу низку досліджень, щоб визначити вплив різних параметрів.",
+		"en": "With the advent of various casting process simulation techniques, it is possible to derive theoretically casting parameters, which can be further validated through experiments. In this paper, detailed simulation activities are carried out to determine the shrinkage characteristics of two Al–Si alloys (US 413 and US A356) followed by validation through experimental studies. Production of defect-free castings requires good understanding of shrinkage characteristics. The influence of various process parameters on these characteristics determines the casting quality. Based on this, an extensive study is undertaken to comprehend the influence of various parameters.",
+		"ru": "С появлением различных методов моделирования процесса литья появилась возможность теоретически оценить параметры литья, которые могут быть дополнительно проверены с помощью экспериментов. В данной работе было проведено детальное моделирование для определения характеристик усадки двух сплавов Al–Si (US 413 и US A356) с последующей проверкой с помощью эксперимента. Производство отливок без дефектов требует хорошего понимания характеристик усадки. Влияние различных параметров процесса на эти характеристики определяет качество отливки. Исходя из этого, было проведено обширное исследование, чтобы определить влияние различных параметров."
+	},
+	"keywords": {
+		"ua": "усадка стопу, ливарні алюмінійові стопи, ливарна форма, симуляція процесу, модель твердого тіла, проєктування експериментів",
+		"en": "shrinkage, cast aluminium alloys, casting mould, process simulation, solid model, design of experiments",
+		"ru": "усадка сплава, литые алюминиевые сплавы, литейная форма, моделирование процессов, модель твёрдого тела, проектирование экспериментов"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Самаведам Санті", "en": "Samavedam Santhi", "ru": "Самаведам Санти"},
+			"OID": [518]
+		},
+		{
+			"AID": {"ua": "Срінівасан Сандарраджан", "en": "Srinivasan Sundarrajan", "ru": "Сринивасан Сандарраджан"},
+			"OID": [519]
+		}
+	],
+	"references": {
+		"count": 22,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "ASM Metals Handbook. Vol. 15. Casting (Eds. S. Viswanathan, D. Apelian, R. DasGupta, M. Gywn, J. L. Jorstad, R. W. Monroe, T. E. Prucha, M. Sahoo, E. S. Szekeres, and D. Twarog) (ASM International: 2008).",
+				"tr":  "ASM Metals Handbook. Vol. 15. Casting (Eds. S. Viswanathan, D. Apelian, R. DasGupta, M. Gywn, J. L. Jorstad, R. W. Monroe, T. E. Prucha, M. Sahoo, E. S. Szekeres, and D. Twarog) (ASM International: 2008)."
+			},
+			{
+				"doi": "",
+				"or":  "Foundry Rejects Old Conventional Approach of Trial and Error and Adopts Computer Simulation (Eds. A. Sholapurwalla, S. Scott, and C.-A. Rolle) (Casting Engineer: 2010).",
+				"tr":  "Foundry Rejects Old Conventional Approach of Trial and Error and Adopts Computer Simulation (Eds. A. Sholapurwalla, S. Scott, and C.-A. Rolle) (Casting Engineer: 2010)."
+			},
+			{
+				"doi": "",
+				"or":  "Durgesh Joshi and B. Ravi, Indian Foundry J., 56, No. 1: 23 (2010).",
+				"tr":  "Durgesh Joshi and B. Ravi, Indian Foundry J., 56, No. 1: 23 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Venkateswaran, R. M. Mallya, and M. R. Seshadri, AFS Trans., 94: 67 (1986).",
+				"tr":  "S. Venkateswaran, R. M. Mallya, and M. R. Seshadri, AFS Trans., 94: 67 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "Experiment Design & Analysis Reference (Tucson, Arizona, USA: 2008).",
+				"tr":  "Experiment Design & Analysis Reference (Tucson, Arizona, USA: 2008)."
+			},
+			{
+				"doi": "",
+				"or":  "Design of Experiments Guide. JMP, A Business Unit of SAS, SAS Campus Drive, Cary, NC 27513 (2010).",
+				"tr":  "Design of Experiments Guide. JMP, A Business Unit of SAS, SAS Campus Drive, Cary, NC 27513 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "Minitab 16. User Manual of MINITAB (2008).",
+				"tr":  "Minitab 16. User Manual of MINITAB (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Hanumantha Rao, G. R. N. Tagore, and G. Rangajanardhan, Indian Foundry J., 52, No. 5: 26 (2006).",
+				"tr":  "D. Hanumantha Rao, G. R. N. Tagore, and G. Rangajanardhan, Indian Foundry J., 52, No. 5: 26 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Sundarrajan, H. Md. Roshan, and E. G. Ramachandran, Trans. Indian Institute of Metals, 37, No. 4: (1984).",
+				"tr":  "S. Sundarrajan, H. Md. Roshan, and E. G. Ramachandran, Trans. Indian Institute of Metals, 37, No. 4: (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Sundarrajan, H. Md. Roshan, and E. G. Ramachandran, Proc. 37th ATM of IIM (Varanasi, India, 1983), p. 119.",
+				"tr":  "S. Sundarrajan, H. Md. Roshan, and E. G. Ramachandran, Proc. 37th ATM of IIM (Varanasi, India, 1983), p. 119."
+			},
+			{
+				"doi": "",
+				"or":  "S. Sundarrajan, H. Md. Roshan, and E. G. Ramachandran, Proc. IIF, 32nd Annual Conference (1983), p. 21.",
+				"tr":  "S. Sundarrajan, H. Md. Roshan, and E. G. Ramachandran, Proc. IIF, 32nd Annual Conference (1983), p. 21."
+			},
+			{
+				"doi": "",
+				"or":  "Foseco Non-Ferrous Foundryman’s Handbook. Eleventh Edition (Ed. J. R. Brown) (Butterworth Heinemann Publisher: 1999).",
+				"tr":  "Foseco Non-Ferrous Foundryman's Handbook. Eleventh Edition (Ed. J. R. Brown) (Butterworth Heinemann Publisher: 1999)."
+			},
+			{
+				"doi": "",
+				"or":  "User Manual Virtual Casting Developed by Regional Research Laboratory (Trivandrum, India: 2006).",
+				"tr":  "User Manual Virtual Casting Developed by Regional Research Laboratory (Trivandrum, India: 2006)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Trovant, A Boundary Condition Coupling Strategy for the Modeling of Metal Casting Processes (Disser. for PhD) (Toronto, Canada: Graduate Department of Metallurgy and Materials Science University of Toronto: 1998).",
+				"tr":  "M. Trovant, A Boundary Condition Coupling Strategy for the Modeling of Metal Casting Processes (Disser. for PhD) (Toronto, Canada: Graduate Department of Metallurgy and Materials Science University of Toronto: 1998)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Venkataramana, V. Vasudeva Rao, R. Ramgopal Varma, and S. Sundarrajan, J. Instrum. Soc. India, 37, No. 3: 157 (2008).",
+				"tr":  "M. Venkataramana, V. Vasudeva Rao, R. Ramgopal Varma, and S. Sundarrajan, J. Instrum. Soc. India, 37, No. 3: 157 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "G. S. Cellini and L. Tomesani, J. Achiev. Mater. Manuf. Eng., 29, Iss. 1: 47 (2008).",
+				"tr":  "G. S. Cellini and L. Tomesani, J. Achiev. Mater. Manuf. Eng., 29, Iss. 1: 47 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Campbell and R. A. Harding, The Fluidity of Molten Metals (TALAT Lecture 3205) (The University of Birmingham, United Kingdom: 1994).",
+				"tr":  "J. Campbell and R. A. Harding, The Fluidity of Molten Metals (TALAT Lecture 3205) (The University of Birmingham, United Kingdom: 1994)."
+			},
+			{
+				"doi": "",
+				"or":  "P. C. Mukherjee, Fundamentals of Metal Casting Technology (India: Oxford & IBH Pub. Co.: 1988).",
+				"tr":  "P. C. Mukherjee, Fundamentals of Metal Casting Technology (India: Oxford & IBH Pub. Co.: 1988)."
+			},
+			{
+				"doi": "10.1016/j.ndteint.2008.04.003",
+				"or":  "J. Nukaga, S. Kitazawa, and H. Kamimura, NDT & E International, 41, Iss. 7: 564 (2008).",
+				"tr":  "J. Nukaga, S. Kitazawa, and H. Kamimura, NDT & E International, 41, Iss. 7: 564 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Arnberg, Solidification Characteristics of Aluminium Alloys, Dendrite Coherency (AFS: 1996), vol. 3.",
+				"tr":  "L. Arnberg, Solidification Characteristics of Aluminium Alloys, Dendrite Coherency (AFS: 1996), vol. 3."
+			},
+			{
+				"doi": "",
+				"or":  "R. F. Mehl, Proc. of Symp. ‘The Solidification of Metals and Alloys’ (Feb. 12, 1951) (New York, USA: AIME: 1951), p. 24.",
+				"tr":  "R. F. Mehl, Proc. of Symp. 'The Solidification of Metals and Alloys' (Feb. 12, 1951) (New York, USA: AIME: 1951), p. 24."
+			},
+			{
+				"doi": "",
+				"or":  "R. W. Heine, C. R. Loper Jr., and P. C. Rosenthal, Principles of Metal Casting (New York, USA: McGraw-Hill: 1967).",
+				"tr":  "R. W. Heine, C. R. Loper Jr., and P. C. Rosenthal, Principles of Metal Casting (New York, USA: McGraw-Hill: 1967)."
+			}
+		]
+	}
+}

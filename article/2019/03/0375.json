@@ -1,0 +1,179 @@
+{
+	"_id":    "MFiNT.41.03.0375",
+	"year":   2019,
+	"volume": 41,
+	"issue":  3,
+	"pages":  [375,388],
+	"rubric": 2,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["22.10.2018"],
+	"PACS":   "07.85.Jy, 07.85.Qe, 61.05.cc, 87.57.cj, 87.59.-e",
+	"title":   {
+		"ua": "Рішення прямих і обернених задач розсіяння для неоднорідних некристалічних об’єктів в аналізаторі зображень",
+		"en": "Solving of Direct and Inverse Scattering Problems for Heterogeneous Non-Crystalline Objects in Analyzer-Based Imaging",
+		"ru": "Решение прямых и обратных задач рассеяния для неоднородных некристаллических объектов в анализаторе изображений"
+	},
+	"abstract": {
+		"ua": "В роботі розвинуто теоретичну модель, яка у тривісьовій схемі формування топографічних зображень некристалічних об’єктів враховує вплив мікро- та макронеоднорідностей в об’єкті, а також інструментальних факторів. При цьому в моделі встановлено і враховано необхідні для розв’язку оберненої задачі фазоваріаційні особливості, чим забезпечено можливість відтворення форми об’єкту з набору профілів інтенсивності.",
+		"en": "This article introduces a theoretical model for analyzer-based imaging of non-crystalline objects that takes into account the impact of microscopic and macroscopic heterogeneities within the object as well as the instrumental factors. The model includes particular phase variational features required for solving the inverse scattering problem. It provides the possibility to reconstruct the shape of the object from a set of intensity profiles.",
+		"ru": "В работе развита теоретическая модель, которая для трёхосевой схемы формирования топографических изображений некристаллических объектов учитывает влияние микро- и макронеоднородностей в объекте, а также инструментальных факторов. При этом в модели установлены и учтены необходимые для решения обратной задачи фазовариационные особенности, чем обеспечена возможность восстановления формы объекта по набору профилей интенсивности."
+	},
+	"keywords": {
+		"ua": "рентгенівська оптика, фазоконтрастні зображення, динамічна теорія дифракції",
+		"en": "X-ray optic, phase-contrast imaging, dynamical diffraction theory",
+		"ru": "рентгеновская оптика, фазоконтрастные изображения, динамическая теория дифракции"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Г. О. Веліховський", "en": "G. O. Velikhovskyi", "ru": "Г. О. Велиховский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. Б. Молодкін", "en": "V. B. Molodkin", "ru": "В. Б. Молодкин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. В. Лізунов", "en": "V. V. Lizunov", "ru": "В. В. Лизунов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Т. П. Владімірова", "en": "T. P. Vladimirova", "ru": "Т. П. Владимирова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. В. Лізунова", "en": "S. V. Lizunova", "ru": "С. В. Лизунова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Я. В. Василик", "en": "Ya. V. Vasylyk", "ru": "Я. В. Василик"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. П. Куліш", "en": "M. P. Kulish", "ru": "Н. П. Кулиш"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "О. П. Дмитренко", "en": "O. P. Dmytrenko", "ru": "О. П. Дмитренко"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "О. Л. Павленко", "en": "O. L. Pavlenko", "ru": "Е. Л. Павленко"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "Ю. В. Давидова", "en": "Iu. V. Davydova", "ru": "Ю. В. Давыдова"},
+			"OID": [271]
+		}
+	],
+	"references": {
+		"count": 21,
+		"list":  [
+			{
+				"doi": "10.1098/rsta.2013.0021",
+				"or":  "S. W. Wilkins, Ya. I. Nesterets, T. E. Gureyev, S. C. Mayo, A. Pogany, and A. W. Stevenson, Phil. Trans. R. Soc. A, 372: 20130021 (2014).",
+				"tr":  "S. W. Wilkins, Ya. I. Nesterets, T. E. Gureyev, S. C. Mayo, A. Pogany, and A. W. Stevenson, Phil. Trans. R. Soc. A, 372: 20130021 (2014)."
+			},
+			{
+				"doi": "10.1393/ncr/i2014-10104-8",
+				"or":  "A. Olivo and E. Castelli, La Rivista del Nuovo Cimento, Iss. 9: 467 (2014).",
+				"tr":  "A. Olivo and E. Castelli, La Rivista del Nuovo Cimento, Iss. 9: 467 (2014)."
+			},
+			{
+				"doi": "10.1016/j.nima.2017.07.036",
+				"or":  "M. Endrizzi, Nucl. Instrum. Methods A, 878: 88 (2018).",
+				"tr":  "M. Endrizzi, Nucl. Instrum. Methods A, 878: 88 (2018)."
+			},
+			{
+				"doi": "10.1088/0022-3727/46/49/494002",
+				"or":  "P. Suortti, J. Keyriläinen, and W. Thomlinson, J. Phys. D: Appl. Phys., 46, No. 49: 494002 (2013).",
+				"tr":  "P. Suortti, J. Keyriläinen, and W. Thomlinson, J. Phys. D: Appl. Phys., 46, No. 49: 494002 (2013)."
+			},
+			{
+				"doi": "10.1088/0031-9155/42/11/001",
+				"or":  "D. Chapman, W. Thomlinson, R. E. Johnston, D. Washburn, E. Pisano, N. Gmür, Z. Zhong, R. Menk, F. Arfelli, and D. Sayers, Phys. Med. Biol., 42, No. 11: 2015 (1997).",
+				"tr":  "D. Chapman, W. Thomlinson, R. E. Johnston, D. Washburn, E. Pisano, N. Gmür, Z. Zhong, R. Menk, F. Arfelli, and D. Sayers, Phys. Med. Biol., 42, No. 11: 2015 (1997)."
+			},
+			{
+				"doi": "10.1088/0031-9155/45/4/309",
+				"or":  "F. A. Dilmanian, Z. Zhong, B. Ren, X. Y. Wu, D. Chapman, I. Orion, and W. Thomlinson, Phys. Med. Biol., 45, No. 4: 933 (2000).",
+				"tr":  "F. A. Dilmanian, Z. Zhong, B. Ren, X. Y. Wu, D. Chapman, I. Orion, and W. Thomlinson, Phys. Med. Biol., 45, No. 4: 933 (2000)."
+			},
+			{
+				"doi": "10.1107/S0108767306017843",
+				"or":  "Y. I. Nesterets, P. Coan, T. E. Gureyev, A. Bravin, P. Cloetens, and S. W. Wilkins, Acta Crystallogr. Sect. A, 62: 296 (2006).",
+				"tr":  "Y. I. Nesterets, P. Coan, T. E. Gureyev, A. Bravin, P. Cloetens, and S. W. Wilkins, Acta Crystallogr. Sect. A, 62: 296 (2006)."
+			},
+			{
+				"doi": "10.1107/S0909049507044664",
+				"or":  "H. Suhonen, M. Fernández, A. Bravin, J. Keyriläinen, and P. Suortti, J. Synchrotron Radiat., 14: 512 (2007).",
+				"tr":  "H. Suhonen, M. Fernández, A. Bravin, J. Keyriläinen, and P. Suortti, J. Synchrotron Radiat., 14: 512 (2007)."
+			},
+			{
+				"doi": "10.1088/0031-9155/52/14/010",
+				"or":  "M. J. Kitchen, K. M. Pavlov, K. K. W. Siu, R. H. Menk, G. Tromba, and R. A. Lewis, Phys. Med. Biol., 52, No. 14: 4171 (2007).",
+				"tr":  "M. J. Kitchen, K. M. Pavlov, K. K. W. Siu, R. H. Menk, G. Tromba, and R. A. Lewis, Phys. Med. Biol., 52, No. 14: 4171 (2007)."
+			},
+			{
+				"doi": "10.1088/0022-3727/36/17/320",
+				"or":  "O. Oltulu, Z. Zhong, M. Hasnah, M. N. Wernick, and D. Chapman, J. Phys. D: Appl. Phys., 36, No. 17: 2152 (2003).",
+				"tr":  "O. Oltulu, Z. Zhong, M. Hasnah, M. N. Wernick, and D. Chapman, J. Phys. D: Appl. Phys., 36, No. 17: 2152 (2003)."
+			},
+			{
+				"doi": "10.1063/1.1575508",
+				"or":  "E. Pagot, P. Cloetens, S. Fiedler, A. Bravin, P. Coan, J. Baruchel, J. Härtwig, and W. Thomlinson, Appl. Phys. Lett., 82: 3421 (2003).",
+				"tr":  "E. Pagot, P. Cloetens, S. Fiedler, A. Bravin, P. Coan, J. Baruchel, J. Härtwig, and W. Thomlinson, Appl. Phys. Lett., 82: 3421 (2003)."
+			},
+			{
+				"doi": "10.1088/0031-9155/48/23/006",
+				"or":  "M. Wernick, O. Wirjadi, D. Chapman, Z. Zhong, N. P. Galatsanos, Y. Yang, J. G. Brankov, O. Oltulu, M. A. Anastasio, and C. Muehleman, Phys. Med. Biol., 48, No. 23: 3875 (2003).",
+				"tr":  "M. Wernick, O. Wirjadi, D. Chapman, Z. Zhong, N. P. Galatsanos, Y. Yang, J. G. Brankov, O. Oltulu, M. A. Anastasio, and C. Muehleman, Phys. Med. Biol., 48, No. 23: 3875 (2003)."
+			},
+			{
+				"doi": "10.1088/0022-3727/37/8/016",
+				"or":  "Ya. I. Nesterets, T. E. Gureyev, D. Paganin, K. M. Pavlov, and S. W. Wilkins, J. Phys. D: Appl. Phys., 37, No. 8: 1262 (2004).",
+				"tr":  "Ya. I. Nesterets, T. E. Gureyev, D. Paganin, K. M. Pavlov, and S. W. Wilkins, J. Phys. D: Appl. Phys., 37, No. 8: 1262 (2004)."
+			},
+			{
+				"doi": "10.1016/j.optcom.2005.08.055",
+				"or":  "Ya. I. Nesterets, T. E. Gureyev, K. M. Pavlov, D. M. Paganin, and S. W. Wilkins, Opt. Commun., 259: 19 (2006).",
+				"tr":  "Ya. I. Nesterets, T. E. Gureyev, K. M. Pavlov, D. M. Paganin, and S. W. Wilkins, Opt. Commun., 259: 19 (2006)."
+			},
+			{
+				"doi": "10.15407/mfint.36.04.0559",
+				"or":  "B. V. Sheludchenko, V. B. Molodkin, S. V. Lizunova, S. J. Olikhovskii, Ye. M. Kyslovskyi, O. Yu. Gaevskyi, V. V. Lizunov, A. I. Nizkova, T. P. Vladimirova, V. V. Molodkin, K. V. Fuzyk, A. V. Goshkoderya, A. O. Bilotska, G. O. Velikhovskyi, A. A. Muzychenko, and R. V. Lekhnyak, Metallofiz. Noveishie Tekhnol., 36, No. 4: 559 (2014) (in Russian).",
+				"tr":  "B. V. Sheludchenko, V. B. Molodkin, S. V. Lizunova, S. J. Olikhovskii, Ye. M. Kyslovskyi, O. Yu. Gaevskyi, V. V. Lizunov, A. I. Nizkova, T. P. Vladimirova, V. V. Molodkin, K. V. Fuzyk, A. V. Goshkoderya, A. O. Bilotska, G. O. Velikhovskyi, A. A. Muzychenko, and R. V. Lekhnyak, Metallofiz. Noveishie Tekhnol., 36, No. 4: 559 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.1002/mawe.201600480",
+				"or":  "V. B. Molodkin, G. O. Velikhovskii, S. V. Lizunova, V. V. Lizunov, B. V. Sheludchenko, E. M. Kislovskii, Ya. V. Vasilik, O. S. Skakunova, S. V. Dmitriev, K. V. Fuzik, and R. V. Lekhnyak, Materialwissenschaft und Werkstofftechnik, 47, Iss. 2–3: 246 (2016).",
+				"tr":  "V. B. Molodkin, G. O. Velikhovskii, S. V. Lizunova, V. V. Lizunov, B. V. Sheludchenko, E. M. Kislovskii, Ya. V. Vasilik, O. S. Skakunova, S. V. Dmitriev, K. V. Fuzik, and R. V. Lekhnyak, Materialwissenschaft und Werkstofftechnik, 47, Iss. 2-3: 246 (2016)."
+			},
+			{
+				"doi": "10.1016/j.optcom.2019.01.049",
+				"or":  "V. B. Molodkin, G. O. Velikhovskyi, S. V. Lizunova, and V. V. Lizunov, Opt. Commun., 439: 1 (2019).",
+				"tr":  "V. B. Molodkin, G. O. Velikhovskyi, S. V. Lizunova, and V. V. Lizunov, Opt. Commun., 439: 1 (2019)."
+			},
+			{
+				"doi": "10.1007/978-3-642-74291-0",
+				"or":  "M. A. Krivoglaz, X-Ray and Neutron Diffraction in Nonideal Crystals (Berlin: Springer: 1996).",
+				"tr":  "M. A. Krivoglaz, X-Ray and Neutron Diffraction in Nonideal Crystals (Berlin: Springer: 1996)."
+			},
+			{
+				"doi": "10.1088/0031-9155/51/2/003",
+				"or":  "G. Khelashvili, J. G. Brankov, D. Chapman, M. A. Anastasio, Y. Yang, Z. Zhong, and M. N. Wernick, Phys. Med. Biol., 51: 221 (2006).",
+				"tr":  "G. Khelashvili, J. G. Brankov, D. Chapman, M. A. Anastasio, Y. Yang, Z. Zhong, and M. N. Wernick, Phys. Med. Biol., 51: 221 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "S. V. Lizunova, V. B. Molodkin, B. V. Sheludchenko, and V. V. Lizunov, Metallofiz. Noveishie Tekhnol., 35, No. 11: 1585 (2013) (in Russian).",
+				"tr":  "S. V. Lizunova, V. B. Molodkin, B. V. Sheludchenko, and V. V. Lizunov, Metallofiz. Noveishie Tekhnol., 35, No. 11: 1585 (2013) (in Russian)."
+			},
+			{
+				"doi": "10.1107/S0909049504028444",
+				"or":  "P. Coan, E. Pagot, S. Fiedler, P. Cloetens, J. Baruchel, and A. Bravin, J. Synchrotron Radiation, 12: 241 (2005).",
+				"tr":  "P. Coan, E. Pagot, S. Fiedler, P. Cloetens, J. Baruchel, and A. Bravin, J. Synchrotron Radiation, 12: 241 (2005)."
+			}
+		]
+	}
+}

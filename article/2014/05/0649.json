@@ -1,0 +1,106 @@
+{
+	"_id":    "MFiNT.36.05.0649",
+	"year":   2014,
+	"volume": 36,
+	"issue":  5,
+	"pages":  [649,660],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["29.11.2013"],
+	"PACS":   "61.66.Dk, 61.72.Ff, 62.20.fq, 62.20.Qp, 81.20.Hy, 81.40.Lm",
+	"title":   {
+		"ua": "Мікроструктура і механічні властивості заевтектичного стопу Al—Si після інтенсивної пластичної деформації",
+		"en": "Microstructure and Mechanical Properties of Hypereutectic Al—Si Alloy after Severe Plastic Deformation",
+		"ru": "Микроструктура и механические свойства заэвтектического сплава Al—Si после интенсивной пластической деформации"
+	},
+	"abstract": {
+		"ua": "Виконано дослідження впливу інтенсивної пластичної деформації (ІПД) на зміну структури і властивостей дисперсійно зміцнюваного заевтектичного Al—Si-стопу складу Al—16,5% Si—3,77% Cu. Використовувалося комплексне термосилове оброблення в рідкому стані (оброблення розтопу в магнітогідродинамічній установці з використанням модифікатора Cu—7% P) і в твердому стані (гаряче пресування через $S$-подібну кутову матрицю). Після ІПД стопу у вихідному литому стані і гомогенізованого стопу одержано «квазіевтектику», що уможливило в рази підвищити пластичність (до 5,9%). Старіння сприяло зростанню міцності (до 459 МПа) при падінні пластичності (до 0,6%).",
+		"en": "The effect of severe plastic deformation (SPD) on the structure and properties of age-hardening hypereutectic Al—Si alloy is investigated. The composition of the studied alloy is Al—16.5% Si—3.77% Cu. Integrated thermoforce treatment of alloys in the liquid state (with melt treatment in the magnetohydrodynamic apparatus using the Cu—7% P modifier) and in the solid state (with hot pressing through the S-shaped angular matrix) is used. A ‘quasi-eutectic’ structure is observed after SPD of the initial cast state and the homogenized state that allows increasing ductility (up to 5.9%). Ageing results in the increasing strength (up to 459 MPa) and in the reducing plasticity (down to 0.6%).",
+		"ru": "Выполнено исследование влияния интенсивной пластической деформации (ИПД) на изменение структуры и свойств дисперсионно твердеющего заэвтектического Al—Si-сплава состава Al—16,5% Si—3,77%Cu. Использовалась комплексная термосиловая обработка в жидком состоянии (обработка расплава в магнитогидродинамической установке с использованием модификатора Cu—7% P) и в твёрдом состоянии (горячее прессование через $S$-образную угловую матрицу). После ИПД сплава в исходном литом состоянии и гомогенизированного сплава получена «квазиэвтектика», что позволило в разы повысить пластичность (до 5,9%). Старение способствовало росту прочности (до 459 МПа) при падении пластичности (до 0,6%)."
+	},
+	"keywords": {
+		"ua": "заевтектичні силуміни, магнітогідродинамічна техніка, термосилове оброблення розтопу, інтенсивна пластична деформація, рівноканальне кутове пресування",
+		"en": "hypereutectic silumin, magnetohydrodynamic technique, thermoforce processing of melt, severe plastic deformation, equal-channel angular pressing",
+		"ru": "заэвтектические силумины, магнитогидродинамическая техника, термосиловая обработка расплава, интенсивная пластическая деформация, равноканальное угловое прессование"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. З. Спусканюк", "en": "V. Z. Spuskanyuk", "ru": "В. З. Спусканюк"},
+			"OID": [8]
+		},
+		{
+			"AID": {"ua": "А. Л. Березина", "en": "A. L. Berezina", "ru": "А. Л. Березина"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. І. Дубодєлов", "en": "V. I. Dubodelov", "ru": "В. И. Дубоделов"},
+			"OID": [15]
+		},
+		{
+			"AID": {"ua": "О. А. Давиденко", "en": "О. A. Davydenko", "ru": "А. А. Давиденко"},
+			"OID": [8]
+		},
+		{
+			"AID": {"ua": "В. Н. Фікссен", "en": "V. N. Fixssen", "ru": "В. Н. Фикссен"},
+			"OID": [15]
+		},
+		{
+			"AID": {"ua": "К. І. Слива", "en": "K. I. Sliva", "ru": "К. И. Слива"},
+			"OID": [8]
+		},
+		{
+			"AID": {"ua": "Т. О. Монастирськая", "en": "T. O. Monastyrska", "ru": "Т. А. Монастырская"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. Н. Гангало", "en": "A. N. Gangalo", "ru": "А. Н. Гангало"},
+			"OID": [8]
+		}
+	],
+	"references": {
+		"count": 8,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Р. Эллиот, Управление эвтектическим затвердеванием (Москва: Металлургия: 1987).",
+				"tr":  "R. Elliott, Upravlenie Evtekticheskim Zatverdevaniem (Moscow: Metallurgiya: 1987) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Добаткин, В. И. Елагин, В. М. Федоров, Быстрозакристаллизованные алюминиевые сплавы (Москва: ВИЛС: 1995).",
+				"tr":  "V. I. Dobatkin, V. I. Elagin, and V. M. Fedorov, Bystrozakristallizovannye Alyuminievye Splavy (Moscow: VILS: 1995) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.msea.2005.03.009",
+				"or":  "A. Ma, K. Suzuki, N. Saito, Y. Nishida, M. Takagi, I. Shigematsu, and H. Iwata, Mater. Sci. Eng. A, 399: 181 (2005).",
+				"tr":  "A. Ma, K. Suzuki, N. Saito, Y. Nishida, M. Takagi, I. Shigematsu, and H. Iwata, Mater. Sci. Eng. A, 399: 181 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "A. L. Berezina, T. A. Monastyrska, V. I. Dubodelov, O. O. Segida, and V. N. Fixsen, 11th Inter. Conf. of Aluminium Alloys ICAA-11 (September 22–26, 2008, Aachen), vol. 1, p. 470.",
+				"tr":  "A. L. Berezina, T. A. Monastyrska, V. I. Dubodelov, O. O. Segida, and V. N. Fixsen, 11th Inter. Conf. of Aluminium Alloys ICAA-11 (September 22–26, 2008, Aachen), vol. 1, p. 470."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Давиденко, А. Л. Березіна, В. З. Спусканюк, О. М. Гангало, М. Г. Касатка, Т. А. Монастирська, І. М. Коваленко, Обработка материалов давлением, 21, № 2: 141 (2009).",
+				"tr":  "O. A. Davydenko, A. L. Berezina, V. Z. Spuskanyuk, O. M. Gangalo, M. H. Kasatka, T. A. Monastyrska, and I. M. Kovalenko, Obrabotka Materialov Davleniem, 21, No. 2: 141 (2009) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Dubodelov, V. Fikssen, M. Slazhniev, M. Goryuk, I. Skorobagatko, A. Berezina, T. Monastyrska, O. Davydenko, and V. Spuskanyuk, Proc. of the 8th International Pamir Conference on Fundamental and Applied MHD (September 5–9, 2011, Borgo), vol. 2, p. 659.",
+				"tr":  "V. Dubodelov, V. Fikssen, M. Slazhniev, M. Goryuk, I. Skorobagatko, A. Berezina, T. Monastyrska, O. Davydenko, and V. Spuskanyuk, Proc. of the 8th International Pamir Conference on Fundamental and Applied MHD (September 5–9, 2011, Borgo), vol. 2, p. 659."
+			},
+			{
+				"doi": "",
+				"or":  "V. Beloshenko and V. Spuskanyuk, Int. J. Mater. Chem., 2, No. 4: 145 (2012).",
+				"tr":  "V. Beloshenko and V. Spuskanyuk, Int. J. Mater. Chem., 2, No. 4: 145 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Л. Березина, В. И. Дубоделов, Т. А. Монастырская, В. Н. Фиксен, Н. А. Слажнев, Металлофиз. новейшие технол., 33, № 5: 651 (2011).",
+				"tr":  "A. L. Berezina, V. I. Dubodelov, T. A. Monastyrska, V. N. Fiksen, and N. A. Slazhnev, Metallofiz. Noveishie Tekhnol., 33, No. 5: 651 (2011) (in Russian)."
+			}
+		]
+	}
+}

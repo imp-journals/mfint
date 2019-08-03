@@ -1,0 +1,223 @@
+{
+	"_id":    "MFiNT.40.11.1539",
+	"year":   2018,
+	"volume": 40,
+	"issue":  11,
+	"pages":  [1539,1558],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["19.01.2018"],
+	"PACS":   "52.80.Wq, 61.43.Gt, 62.23.St, 81.07.Wx, 81.20.-n, 83.50.Uv, 83.85.-c",
+	"title":   {
+		"ua": "Електроіскрове дисперґування металевих матеріялів. II. Вплив фізико-хемічних і кінетичних чинників на розподіл частинок за розмірами",
+		"en": "Electrospark Dispersion of Metal Materials. II. Influence of the Physicochemical and Kinetic Factors on a Particle Size Distribution",
+		"ru": "Электроискровое диспергирование металлических материалов. II. Влияние физико-химических и кинетических факторов на распределение частиц по размерам"
+	},
+	"abstract": {
+		"ua": "Методами оптичної ґранулометрії та рентґеноструктурної аналізи вивчено вплив фізико-хемічних і кінетичних чинників на ґранулометричний склад порошків, одержаних методою електроіскрового дисперґування в різних діелектричних рідинах: дистильованій воді, етиловому спирті, гасі та гліцерині. Встановлено, що розподіл за розмірами іскроерозійних частинок залежить від тривалости процесу дисперґування, перемішування робочої рідини, ультразвукового оброблення суспензії та механічного оброблення порошків. Показано, що вплив фізичних параметрів робочої рідини та матеріялу електрод на ґранулометричний склад порошків не є визначальним; від них залежить лише кінетика зростання розмірів частинок у процесі одержання їх. Показано, що зміна дисперсних характеристик порошків визначається процесами аґломерації й аґреґації високодисперсних частинок у робочій рідині та чинниками, що впливають на ці процеси.",
+		"en": "The Al, Cu, Fe and Sn powders obtained by means of the method of electrospark dispersion in different dielectric mediums such as distilled water, ethanol, kerosene and glycerine are investigated. Influence of the physicochemical and kinetics factors on granulometric composition of powders is studied by optical granulometry method and x-ray analysis. As revealed, a particle size distribution depends on time of dispersion process, intermingling of working liquid, ultrasonic treatment of suspension, and mechanical treatment of powders. The physical parameters of working liquid and electrode material do not determine granulometric composition of powders; there is their influence on kinetics of a particles size rise during a fabrication process only. As shown, change of powder dispersion characteristics is determined by processes of agglomeration and aggregation of fine-grained particles in working liquid as well as factors influencing on these processes.",
+		"ru": "Методами оптической гранулометрии и рентгеноструктурного анализа изучено влияние физико-химических и кинетических факторов на гранулометрический состав порошков, полученных методом электроискрового диспергирования в различных диэлектрических жидкостях: дистиллированной воде, этиловом спирте, керосине и глицерине. Установлено, что распределение по размерам искроэрозионных частиц зависит от длительности процесса диспергирования, перемешивания рабочей жидкости, ультразвуковой обработки суспензии и механической обработки порошков. Показано, что влияние физических параметров рабочей жидкости и материала электродов на гранулометрический состав порошков не является определяющим; от них зависит только кинетика роста размеров частиц в процессе их получения. Показано, что изменение дисперсных характеристик порошков определяется процессами агломерации и агрегации высокодисперсных частиц в рабочей жидкости и факторами, влияющими на эти процессы."
+	},
+	"keywords": {
+		"ua": "електроіскрове дисперґування, високодисперсні частинки, розподіл частинок за розмірами, оптична ґранулометрія, рентґеноструктурна аналіза",
+		"en": "electrospark dispersion of metals, superfine particles, optical granulometry, x-ray analysis, particle size distribution",
+		"ru": "электроискровое диспергирование, высокодисперсные частицы, распределение частиц по размерам, оптическая гранулометрия, рентгеноструктурный анализ"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. І. Устінов", "en": "A. I. Ustinov", "ru": "А. И. Устинов"},
+			"OID": [10]
+		},
+		{
+			"AID": {"ua": "А. О. Перекос", "en": "А. O. Perekos", "ru": "А. Е. Перекос"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. М. Захарченко", "en": "S. M. Zakharchenkо", "ru": "С. Н. Захарченко"},
+			"OID": [43]
+		},
+		{
+			"AID": {"ua": "О. Ф. Бойцов", "en": "О. F. Bоytsоv", "ru": "О. Ф. Бойцов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. З. Войнаш", "en": "V. Z. Vоynаsh", "ru": "В. З. Войнаш"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. П. Залуцький", "en": "V. P. Zalutsky", "ru": "В. П. Залуцкий"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 33,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Б. Р. Лазаренко, Н. И. Лазаренко, Электрическая эрозия металлов (Москва: Госэнергоиздат: 1944).",
+				"tr":  "B. R. Lazarenko and N. I. Lazarenko, Elektricheskaya Eroziya Metallov (Moscow: Gosenergoizdat: 1944) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. К. Намитоков, Физические основы электроискровой обработки материалов (Москва: Наука: 1966), с. 86.",
+				"tr":  "K. K. Namitokov, Fizicheskie Osnovy Elektroiskrovoy Obrabotki Materialov (Moscow: Nauka: 1966), p. 86 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Головейко, Физические основы электроискровой обработки материалов (Москва: Наука: 1966), с. 74.",
+				"tr":  "A. G. Goloveiko, Fizicheskie Osnovy Elektricheskoi Obrabotki Materialov (Moscow: Nauka: 1966), p. 74 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. К. Мицкевич, Физические основы электроискровой обработки материалов (Москва: Наука: 1966), с. 128.",
+				"tr":  "M. K. Mitskevich, Fizicheskie Osnovy Elektricheskoi Obrabotki Materialov (Moscow: Nauka: 1966), p. 128 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Марусина, В. Н. Филимоненко, Порошк. металлургия, № 6: 10 (1984).",
+				"tr":  "V. I. Marusina and V. N. Filimonenko, Poroshk. Metallurgiya, No. 6: 10 (1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. П. Фоминский, Т. В. Ровенская, Порошк. металлургия, № 10: 7 (1984).",
+				"tr":  "L. P. Fominskiy and T. V. Rovenskaya, Poroshk. Metallurgiya, No. 10: 7 (1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Казекин, Г. И. Рудник, Совершенствование процессов получения и обработки алюминия и производства кремния (Ленинград: ВАМИ: 1985), с. 52.",
+				"tr":  "V. I. Kazekin and G. I. Rudnik, Sovershenstvovanie Protsessov Polucheniya i Obrabotki Alyuminiya i Proizvodstva Kremniya (Leningrad: VAMI: 1985), p. 52 (in Russian)."
+			},
+			{
+				"doi": "10.1557/JMR.1987.0277",
+				"or":  "А. Е. Berkowitz and J. L. Walter, J. Mater. Res., 2, Iss. 2: 277 (1987).",
+				"tr":  "A. E. Berkowitz and J. L. Walter, J. Mater. Res., 2, Iss. 2: 277 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. А. Валиев, Ф. М. Гайсин, Е. С. Романов, Ю. И. Шакиров, Порошк. металлургия, № 6: 4 (1991).",
+				"tr":  "R. A. Valiev, F. M. Gaisin, E. S. Romanov, and Yu. I. Shakirov, Poroshk. Metallurgiya, No. 6: 4 (1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Дубовой, А. Е. Перекос, К. В. Чуистов, Металлофизика, 6, № 5: 129 (1984).",
+				"tr":  "A. G. Dubovoi, A. E. Perekos, and K. V. Chuistov, Metallofizika, 6, No. 5: 129 (1984) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0025-5416(82)90141-0",
+				"or":  "А. Е. Berkowitz and J. L. Walter, Mater. Sci. Eng., 55, Iss. 2: 275 (1982).",
+				"tr":  "A. E. Berkowitz and J. L. Walter, Mater. Sci. Eng., 55, Iss. 2: 275 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. В. Ефимова, В. П. Залуцкий, О. И. Носовский, А. Е.Перекос, В. В. Полотнюк, К. В. Чуистов, Металлофизика, 15, № 8: 39 (1993).",
+				"tr":  "T. V. Efimova, V. P. Zalutskiy, O. I. Nosovskiy, A. E. Perekos, V. V. Polotniuk, and K. V. Chuistov, Metallofizika, 15, No. 8: 39 (1993) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "У. А. Асанов, А. Д. Цой, А. А. Щерба, В. И. Казекин, Электро-эрозионная технология химических соединений и порошков металлов (Фрунзе: Илим: 1990).",
+				"tr":  "U. A. Asanov, A. D. Tsoi, A. A. Shcherba, and V. I. Kazekin, Elektro-Erozionnaya Tekhnologiya Khimicheskikh Soedineniy i Poroshkov Metallov (Frunze: Ilim: 1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. В. Чуистов, А. Е. Перекос, В. П. Залуцкий, Т. В. Ефимова, В. В. Котов, В. В. Полотнюк, Металлофиз. новейшие технол., 17, № 3: 14 (1995).",
+				"tr":  "K. V. Chuistov, A. E. Perekos, V. P. Zalutskiy, T. V. Efimova, V. V. Kotov, and V. V. Polotnyuk, Metallofiz. Noveishie Tekhnol., 17, No. 3: 14 (1995) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Е. Berkowitz and J. L. Walter, Symp. ‘Sci. Technol. Rapidly Quenched Alloy’ (Dec. 1-3, 1986, Boston) (Pittsburgh: 1986), p. 179.",
+				"tr":  "A. E. Berkowitz and J. L. Walter, Symp. 'Sci. Technol. Rapidly Quenched Alloy' (Dec. 1-3, 1986, Boston) (Pittsburg: 1986), p. 179."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Карвовский, Г. И. Рудник, В. И. Марусина, Электрофизические способы получения дисперсных порошков (Киев:1990) (Препр. ИПМ, № 19, 1990).",
+				"tr":  "V. B. Karvovskiy, G. I. Rudnik, and V. I. Marusina, Elektrofizicheskie Sposoby Polucheniya Dispersnykh Poroshkov (Kiev: 1990) (Prepr. IPM, No. 19: 1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Марусина, Г. А. Исхакова, Х. М. Рахименянов, Порошк. металлургия, № 10: 61 (1992).",
+				"tr":  "V. I. Marusina, G. A. Iskhakova, and Kh. M. Rakhimenyanov, Poroshk. Metallurgiya, No. 10: 61 (1992) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Марусина, Г. А. Исхакова, В. Н. Филимоненко, Порошк. металлургия, № 10: 75 (1992).",
+				"tr":  "V. I. Marusina, G. A. Iskhakova, and V. N. Filimonenko, Poroshk. Metallurgiya, No. 10: 75 (1992) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.1635973",
+				"or":  "J. Carrey, H. B. Radousky, and А. Е. Berkowitz, J. Appl. Phys., 95, Iss. 3: 823 (2004).",
+				"tr":  "J. Carrey, H. B. Radousky, and A. E. Berkowitz, J. Appl. Phys., 95, Iss. 3: 823 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. И. Рудник, В. Б. Карвовский, В. И. Казекин, Электроэрозионная обработка материалов, № 1: 21 (1985).",
+				"tr":  "G. I. Rudnik, V. B. Karvovskiy, and V. I. Kazekin, Elektroerozionnaya Obrabotka Materialov, No. 1: 21 (1985) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0025-5416(82)90141-0",
+				"or":  "А. Е. Berkowitz and J. L. Walter, Mater. Sci. Eng., 55, Iss. 2: 275 (1982).",
+				"tr":  "A. E. Berkowitz and J. L. Walter, Mater. Sci. Eng., 55, Iss. 2: 275 (1982)."
+			},
+			{
+				"doi": "10.1016/0025-5416(84)90048-X",
+				"or":  "J. L. Walter and А. Е. Berkowitz, Mater. Sci Eng., 67, Iss. 2: 169 (1984).",
+				"tr":  "J. L. Walter and A. E. Berkowitz, Mater. Sci Eng., 67, Iss. 2: 169 (1984)."
+			},
+			{
+				"doi": "10.1016/S0304-8853(02)00932-0",
+				"or":  "А. Е. Berkowitz, M. F. Hansen, F. T. Parker, K. S. Vecchio, F. E. Spada, E. J. Lavernia, and R. Rodriguez, J. Magn. Magn. Mater., 254-255: 1 (2003).",
+				"tr":  "A. E. Berkowitz, M. F. Hansen, F. T. Parker, K. S. Vecchio, F. E. Spada, E. J. Lavernia, and R. Rodriguez, J. Magn. Magn. Mater., 254-255: 1 (2003)."
+			},
+			{
+				"doi": "10.1016/j.jpowsour.2005.02.025",
+				"or":  "G. Ya. Kolbasov, A. I. Ustinov, A. A. Shcherba, A. Ye. Perekos, M. O. Danilov, N. V. Vyunova, S. N. Zakharchenko, and G. Hossbah, J. Power Sources, 150: 276 (2005).",
+				"tr":  "G. Ya. Kolbasov, A. I. Ustinov, A. A. Shcherba, A. Ye. Perekos, M. O. Danilov, N. V. Vyunova, S. N. Zakharchenko, and G. Hossbah, J. Power Sources, 150: 276 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Щерба, В. В. Кокорин, А. Е. Перекос, Л. А. Олиховская, О. Ф. Бойцов, С. Н. Захарченко, Металлофиз. новейшие технол., 29, № 2: 201 (2007).",
+				"tr":  "A. A. Shcherba, V. V. Kokorin, A. E. Perekos, L. A. Olikhovskaya, O. F. Boytsov, and S. N. Zakharchenko, Metallofiz. Noveishie Tekhnol., 29, No. 2: 201 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. А. Исхакова, В. И. Марусина, Порошк. металлургия, № 10: 13 (1989).",
+				"tr":  "G. A. Iskhakova and V. I. Marusina, Poroshk. Metallurgiya, No. 10: 13 (1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. В. Чуистов, А. Е. Перекос, В. П. Залуцкий, Т. В. Ефимова, Н. И. Главацкая, Металлофиз. новейшие технол., 18, № 8: 18 (1996).",
+				"tr":  "K. V. Chuistov, A. E. Perekos, V. P. Zalutskiy, T. V. Efimova, and N. I. Glavatskaya, Metallofiz. Noveishie Tekhnol., 18, No. 8: 18 (1996) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. К. Намитоков, Электроэрозионные явления (Москва: Энергия: 1978).",
+				"tr":  "K. K. Namitokov, Elektroerozionnye Yavleniya (Moscow: Energiya: 1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Михеев, И. М. Михеева, Основы теплопередачи (Москва: Энергия: 1973).",
+				"tr":  "M. A. Mikheev and I. M. Mikheeva, Osnovy Teploperedachi (Moscow: Energiya: 1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. С. Вентцель, Л. А. Овчаров, Теория вероятностей (Москва: Наука: 1988).",
+				"tr":  "E. S. Venttsel and L. A. Ovcharov, Teoriya Veroyatnostey (Moscow: Nauka: 1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Коллоидно-химическое равновесие (Ред. А. П. Шпак, З. Р. Ульберг) (Киев: Академпериодика: 2005).",
+				"tr":  "Kolloidno-Khimicheskoe Ravnovesie (Eds. A. P. Shpak and Z. R. Ulberg) (Kyiv: Akademperiodyka: 2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Рагуля, В. В. Скороход, Консолидированные НСМ (Киев: Наукова думка: 2007).",
+				"tr":  "A. V. Ragulya and V. V. Skorokhod, Konsolidirovannyye NSM (Kyiv: Naukova Dumka: 2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Д. Ландау, Е. М. Лифшиц, Гидродинамика (Москва: Наука: 1988).",
+				"tr":  "L. D. Landau and E. M. Lifshitz, Gidrodinamika (Moscow: Nauka: 1988) (in Russian)."
+			}
+		]
+	}
+}

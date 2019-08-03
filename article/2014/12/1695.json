@@ -1,0 +1,126 @@
+{
+	"_id":    "MFiNT.36.12.1695",
+	"year":   2014,
+	"volume": 36,
+	"issue":  12,
+	"pages":  [1695,1700],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["27.03.2014"],
+	"PACS":   "61.72.Hh, 61.72.Yx, 61.80.Cb, 62.20.Qp, 71.55.Cn, 81.40.Rs, 81.40.Wx",
+	"title":   {
+		"ua": "Особливості зміни мікромеханічних характеристик кремнію при комбінованій дії магнетного поля та малих доз Рентґенового випромінення",
+		"en": "Features of Change of Micromechanical Characteristics of Silicon Stimulated by the Combined Action of both Magnetic Field and Low Doses of X-Rays",
+		"ru": "Особенности изменения микромеханических характеристик кремния при комбинированном действии магнитного поля и малых доз рентгеновского излучения"
+	},
+	"abstract": {
+		"ua": "В роботі досліджуються зміни мікромеханічних характеристик кристалів кремнію, стимульовані окремою та комбінованою дією низькоенергетичного малодозового Рентґенового випромінення ($D = 10^{2}$ Ґр) та слабкого ($В = 0,17$ Тл) постійного магнетного поля. Показано, що застосування комбінованого впливу малих доз Рентґенового опромінення та слабкого магнетного поля призводить до взаємного знищення радіяційномеханічного та магнетомеханічного ефектів, які спостерігаються при окремій дії зазначених чинників. Це пов’язується з особливостями характеру дислокаційно-домішкової взаємодії при застосуванні окремих та подвійних оброблянь.",
+		"en": "The changes of micromechanical characteristics in silicon crystals stimulated by separate and combined actions of low-energy X-rays ($D = 10^{2}$ Gy) and weak ($В = 0.17$ Т) static magnetic field are investigated. As shown, the use of the combined influence of low-energy X-rays and a weak magnetic field leads to mutual annihilation of radiation-mechanical and magnetomechanical effects as opposed to individual action of these factors. These features are associated with the nature of dislocation—impurity interaction under separate and dual treatments.",
+		"ru": "В работе исследуются изменения микромеханических характеристик кристаллов кремния, стимулированные отдельным и комбинированным действием низкоэнергетического малодозового рентгеновского излучения ($D = 10^{2}$ Гр) и слабого ($В = 0,17$ Тл) постоянного магнитного поля. Показано, что применение комбинированного воздействия малых доз рентгеновского облучения и слабого магнитного поля приводит к взаимному уничтожению радиационномеханического и магнитомеханического эффектов, которые наблюдаются при раздельном действии указанных факторов. Это связывается с особенностями характера дислокационно-примесного взаимодействия при использовании отдельных и двойных обработок."
+	},
+	"keywords": {
+		"ua": "кремній, структурні дефекти, мікротвердість, Рентґенове випромінення, магнетне поле",
+		"en": "silicon, structural defects, microhardness, X-rays, magnetic field",
+		"ru": "кремний, структурные дефекты, микротвёрдость, рентгеновское излучение, магнитное поле"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Л. П. Стебленко", "en": "L. P. Steblenko", "ru": "Л. П. Стебленко"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "А. М. Курилюк", "en": "А. M. Kuryliuk", "ru": "А. Н. Курилюк"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "С. М. Науменко", "en": "S. M. Naumenko", "ru": "С. Н. Науменко"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "Ю. Л. Кобзар", "en": "Yu. L. Kobzar", "ru": "Ю. Л. Кобзарь"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "О. М. Кріт", "en": "O. M. Krit", "ru": "А. Н. Крит"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "Д. В. Калініченко", "en": "D. V. Kalinichenko", "ru": "Д. В. Калиниченко"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "П. О. Теселько", "en": "P. О. Teselko", "ru": "П. А. Теселько"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "П. П. Когутюк", "en": "P. P. Kogutyuk", "ru": "П. П. Когутюк"},
+			"OID": [201]
+		}
+	],
+	"references": {
+		"count": 12,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "V. I. Alshits, E. V. Darinskaya, and O. L. Kazakova, Pis’ma v ZhETF, 62, Nos. 3–4: 352 (1995) (in Russian).",
+				"tr":  "V. I. Alshits, E. V. Darinskaya, and O. L. Kazakova, Pis'ma v ZhETF, 62, Nos. 3–4: 352 (1995) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. V. Galustashvili, M. G. Abramishvili, D. G. Driaev, and V. G. Kvachadze, Fiz. Tverd. Tela, 53, No.7: 1340 (2011) (in Russian).",
+				"tr":  "M. V. Galustashvili, M. G. Abramishvili, D. G. Driaev, and V. G. Kvachadze, Fiz. Tverd. Tela, 53, No.7: 1340 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Makara, L. P. Steblenko, O. M. Kryt, D. V. Kalinichenko, A. M. Kurylyuk, and S. M. Naumenko, Dopovidi NANU, No. 4: 71 (2012) (in Ukrainian).",
+				"tr":  "V. A. Makara, L. P. Steblenko, O. M. Kryt, D. V. Kalinichenko, A. M. Kurylyuk, and S. M. Naumenko, Dopovidi NANU, No. 4: 71 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. P. Lebedev and V. S. Krylovskiy, Fiz. Tverd. Tela, 27, No. 5: 1285 (1985) (in Russian).",
+				"tr":  "V. P. Lebedev and V. S. Krylovskiy, Fiz. Tverd. Tela, 27, No. 5: 1285 (1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Makara, L. P. Steblenko, M. O. Vasylyev, O. V. Koplak, A. M. Kuryliuk, S. M. Naumenko, Yu. L. Kobzar, and G. V. Vesna, Metallofiz. Noveishie Tekhnol., 30, No. 10: 1339 (2008) (in Russian).",
+				"tr":  "V. A. Makara, L. P. Steblenko, M. O. Vasylyev, O. V. Koplak, A. M. Kuryliuk, S. M. Naumenko, Yu. L. Kobzar, and G. V. Vesna, Metallofiz. Noveishie Tekhnol., 30, No. 10: 1339 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. I. Golovin, Fiz. Tverd. Tela, 46, No. 5: 769 (2004) (in Russian).",
+				"tr":  "Yu. I. Golovin, Fiz. Tverd. Tela, 46, No. 5: 769 (2004) (in Russian)."
+			},
+			{
+				"doi": "10.3367/UFNr.0174.200402c.0131",
+				"or":  "R. B. Morgunov, Uspekhi Fizicheskikh Nauk, 174, No. 2: 131 (2004) (in Russian).",
+				"tr":  "R. B. Morgunov, Uspekhi Fizicheskikh Nauk, 174, No. 2: 131 (2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Makara, M. A. Vasilev, L. P. Steblenko, O. V. Koplak, A. N. Kurylyuk, Yu. L. Kobzar, and S. N. Naumenko, Fiz. Tekh. Poluprovodn., 42, No. 9: 1061 (2008) (in Russian).",
+				"tr":  "V. A. Makara, M. A. Vasilev, L. P. Steblenko, O. V. Koplak, A. N. Kurylyuk, Yu. L. Kobzar, and S. N. Naumenko, Fiz. Tekh. Poluprovodn., 42, No. 9: 1061 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Makara, L. P. Steblenko, M. Ya. Horyd’ko, V. M. Kravchenko, and A. M. Kolomiyets’, Visnyk Kyiv. Univ. Ser. Fiz.-Mat. Nauk, No. 4: 316 (1999) (in Ukrainian).",
+				"tr":  "V. A. Makara, L. P. Steblenko, M. Ya. Horyd'ko, V. M. Kravchenko, and A. M. Kolomiyets', Visnyk Kyiv. Univ. Ser. Fiz.-Mat. Nauk, No. 4: 316 (1999) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. N. Buzyikin, O. I. Datsko, and S. N. Postnikov, Ehlektronnaya Obrabotka Materialov, No. 2: 16 (1993) (in Russian).",
+				"tr":  "V. N. Buzyikin, O. I. Datsko, and S. N. Postnikov, Ehlektronnaya Obrabotka Materialov, No. 2: 16 (1993) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. N. Levin and B. A. Zon, ZhETF, 111, No. 4: 1373 (1997) (in Russian).",
+				"tr":  "M. N. Levin and B. A. Zon, ZhETF, 111, No. 4: 1373 (1997) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. S. Vavilov, Defekty v Kremnii i na Yego Poverkhnosti (Moscow: Nauka: 1990) (in Russian).",
+				"tr":  "V. S. Vavilov, Defekty v Kremnii i na Yego Poverkhnosti (Moscow: Nauka: 1990) (in Russian)."
+			}
+		]
+	}
+}

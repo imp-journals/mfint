@@ -1,0 +1,77 @@
+{
+	"_id":    "MFiNT.39.05.0579",
+	"year":   2017,
+	"volume": 39,
+	"issue":  5,
+	"pages":  [579,591],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["10.03.2017"],
+	"PACS":   "61.72.Bb, 61.72.jj, 63.20.Pw, 63.50.Gh, 64.60.Cn, 65.40.Ba, 81.30.Hd",
+	"title":   {
+		"ua": "Ефект «поважчання частинок» у температурній залежності тепломісткости упорядковних стопів втілення V$_{2}$D",
+		"en": "The ‘Particle Weighting’ Effect in the Heat Capacity Temperature Dependence of the V$_{2}$D Ordering Interstitial Alloys",
+		"ru": "Эффект «утяжеления частиц» в температурной зависимости теплоёмкости упорядочивающихся сплавов внедрения V$_{2}$D"
+	},
+	"abstract": {
+		"ua": "Відомо, що в упорядковному дейтериді V$_{2}$D частоти локальних коливань легких D-атомів залежать від температури. Цей ефект було приписано «ефективному поважчанню» частинок D, що взаємодіють в упорядкованій фазі. У даній роботі зроблено спробу оцінити вплив температурно залежних частот локальних коливань легких атомів на температурну залежність тепломісткости даної сполуки.",
+		"en": "As known, the local-oscillation frequencies of light atoms in the ordering interstitial V$_{2}$D alloy are temperature dependent; they decrease with temperature lowering. This effect is ascribed to the ‘effective weighting’ of interacting D particles in the ordered phase. The aim of this article can be formulated as an attempt to estimate the influence of this ‘ordering-induced temperature-dependent weighting of light particles’ on the heat-capacity–tempera¬ture dependence for a given compound.",
+		"ru": "Известно, что в упорядочивающемся дейтериде V$_{2}$D частоты локальных колебаний лёгких атомов D зависят от температуры. Этот эффект был приписан «эффективному утяжелению» частиц D, взаимодействующих в упорядоченной фазе. В настоящей работе сделана попытка оценить влияние температурно зависимых частот локальных колебаний лёгких атомов на температурную зависимость теплоёмкости данного соединения."
+	},
+	"keywords": {
+		"ua": "стопи втілення, міжчастинкові взаємодії, частоти локальних коливань",
+		"en": "interstitial alloys, particle–particle interactions, local-oscillation frequencies",
+		"ru": "сплавы внедрения, межчастичные взаимодействия, частоты локальных колебаний"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Н. З. Наморадзе", "en": "N. Z. Namoradze", "ru": "Н. З. Наморадзе"},
+			"OID": [422]
+		},
+		{
+			"AID": {"ua": "І. Г. Ратишвилі", "en": "I. G. Ratishvili", "ru": "И. Г. Ратишвили"},
+			"OID": [516]
+		}
+	],
+	"references": {
+		"count": 7,
+		"list":  [
+			{
+				"doi": "10.1016/0038-1098(72)90847-2",
+				"or":  "J. M. Rowe, Solid State Commun., 11, Iss. 9: 1299 (1972).",
+				"tr":  "J. M. Rowe, Solid State Commun., 11, Iss. 9: 1299 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "I. G. Ratishvili and N. Z. Namoradze, Intern. Gordon Research Conf. ‘Hydrogen–Metal Systems’ (July 12–18, 2009, Barga, Italy).",
+				"tr":  "I. G. Ratishvili and N. Z. Namoradze, Intern. Gordon Research Conf. 'Hydrogen–Metal Systems' (July 12–18, 2009, Barga, Italy)."
+			},
+			{
+				"doi": "",
+				"or":  "N. Z. Namoradze and I. G. Ratishvili, Metallofiz. Noveishie Tekhnol., 31, No. 6: 863 (2009).",
+				"tr":  "N. Z. Namoradze and I. G. Ratishvili, Metallofiz. Noveishie Tekhnol., 31, No. 6: 863 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "I. G. Ratishvili and N. Z. Namoradze, Metallofiz. Noveishie Tekhnol., 33, No. 7: 919 (2011).",
+				"tr":  "I. G. Ratishvili and N. Z. Namoradze, Metallofiz. Noveishie Tekhnol., 33, No. 7: 919 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "A. G. Khachaturyan, Theory of Structural Transformations in Solids (New York: Wiley: 1983).",
+				"tr":  "A. G. Khachaturyan, Theory of Structural Transformations in Solids (New York: Wiley: 1983)."
+			},
+			{
+				"doi": "",
+				"or":  "P. H. Keesom and N. Pearlman, Handbuch der Physik (Ed. S. Flugge) (Berlin: Springer: 1954), vol. XIV, p. 282.",
+				"tr":  "P. H. Keesom and N. Pearlman, Handbuch der Physik (Ed. S. Flugge) (Berlin: Springer: 1954), vol. XIV, p. 282."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. G. Sharimanov and R. Grossescu, Fizika Tverdogo Tela, 24, No. 1: 310 (1982).",
+				"tr":  "Yu. G. Sharimanov and R. Grossescu, Fizika Tverdogo Tela, 24, No. 1: 310 (1982)."
+			}
+		]
+	}
+}

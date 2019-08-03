@@ -1,0 +1,240 @@
+{
+	"_id":    "MFiNT.36.10.1343",
+	"year":   2014,
+	"volume": 36,
+	"issue":  10,
+	"pages":  [1343,1358],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["05.11.2013","15.09.2014"],
+	"PACS":   "61.66.Fn, 61.72.Qq, 68.35.Ct, 68.37.Ps, 68.55.Nq, 72.20.Pa",
+	"title":   {
+		"ua": "Дефекти пластинчастих фаз евтектик Bi$_{2}$Те$_{3}$—Te",
+		"en": "Defects in Lamellar Phases of the Bi$_{2}$Те$_{3}$—Te Eutectics",
+		"ru": "Дефекты пластинчатых фаз эвтектик Bi$_{2}$Те$_{3}$—Te"
+	},
+	"abstract": {
+		"ua": "Вивчено морфологію поверхні евтектики систем Bi$_{2}$Те$_{3}$—Te, яка має пластинчасті фази з Bi$_{2}$Те$_{3}$ та телуру. Поверхня (0001) фази Bi$_{2}$Те$_{3}$ самоорганізована з наноострівців, а телуридні пластини мають тривимірні пори. Орієнтація фаз у примежових областях приводить до супраструктурних утворень з елементів Bi$_{2}$Те$_{3}$ та Те. До того ж зростає дефектність у розташуванні атомів між пластинами фаз, що зумовлює пружну деформацію субструктур. Виявлено неадитивність термо-ерс і електропровідности евтектики порівняно з її компонентами: термо-ерс і електропровідність збільшуються. Це також свідчить на користь супрамолекулярної концепції евтектики Bi$_{2}$Те$_{3}$—Te.",
+		"en": "Morphology of the surface of eutectic of the Bi$_{2}$Те$_{3}$—Te systems is investigated. This eutectic has lamellar phases of Bi$_{2}$Те$_{3}$ and tellurium. The (0001) surface of Bi$_{2}$Те$_{3}$ phase has self-organized nanoislands, and telluride plates have 3D-pores. The orientation of the phases in the near-boundary areas leads to formation of suprastructures of these elements (Bi$_{2}$Те$_{3}$ and Te). As a result, the imperfection in the arrangement of atoms between the phase plates is increased that causes an elastic deformation of the substructures. Nonadditivity of thermoelectric power and conductivity of eutectic is detected in comparison with its components; thermoelectric power and electrical conductivity increase. Thus, the supramolecular concept of Bi$_{2}$Те$_{3}$—Te eutectic is supported.",
+		"ru": "Изучена морфология поверхности эвтектики систем Bi$_{2}$Те$_{3}$—Te, имеющая пластинчатые фазы из Bi$_{2}$Те$_{3}$ и теллура. Поверхность (0001) фазы Bi$_{2}$Те$_{3}$ самоорганизована из наноостровков, а теллуридные пластины имеют трёхмерные поры. Ориентация фаз в приграничных областях приводит к супраструктурным образованиям из элементов Bi$_{2}$Те$_{3}$ и Te. При этом возрастает дефектность в расположении атомов между пластинами фаз, обусловливая упругую деформацию субструктур. Обнаружена неаддитивность термо-эдс и электропроводности эвтектики по сравнению с её компонентами: термо-эдс и электропроводность возрастают. Это также свидетельствует в пользу супрамолекулярной концепции эвтектики Bi$_{2}$Те$_{3}$—Te."
+	},
+	"keywords": {
+		"ua": "морфологія поверхні, дефекти, супраструктури, пластинчасті фази, евтектика",
+		"en": "morphology of surface, defects, suprastructures, lamellar phases, eutectic",
+		"ru": "морфология поверхности, дефекты, супраструктуры, пластинчатые фазы, эвтектика"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. А. Рамазанов", "en": "M. A. Ramazanov", "ru": "М. А. Рамазанов"},
+			"OID": [450]
+		},
+		{
+			"AID": {"ua": "Ф. К. Алескеров", "en": "F. K. Aleskerov", "ru": "Ф. К. Алескеров"},
+			"OID": [450]
+		},
+		{
+			"AID": {"ua": "К. Ш. Кахраманов", "en": "K. Sh. Kahramanov", "ru": "К. Ш. Кахраманов"},
+			"OID": [478]
+		},
+		{
+			"AID": {"ua": "С. А. Набієва", "en": "S. A. Nabiyeva", "ru": "С. А. Набиева"},
+			"OID": [478]
+		}
+	],
+	"references": {
+		"count": 38,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "L. G. Devis and A. Hellawell, Philos. Mag., 19, No. 162: 1285 (1969); ibidem, 22, No. 180: 1255 (1970).",
+				"tr":  "L. G. Devis and A. Hellawell, Philos. Mag., 19, No. 162: 1285 (1969); ibidem, 22, No. 180: 1255 (1970)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Чалмерс, Теория затвердевания (Москва: Металлургия: 1968).",
+				"tr":  "B. Chalmers, Teoriya Zatverdevaniya (Theory of Solidification) (Moscow: Metallurgiya: 1968) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Таран, И. С. Митрошниченко, И. М. Гелушко, ДАН СССР, 193: 43 (1970).",
+				"tr":  "Yu. N. Taran, I. S. Mitroshnichenko, and I. M. Gelushko, DAN SSSR, 193: 43 (1970) (in Russian)."
+			},
+			{
+				"doi": "10.1179/030634568790511525",
+				"or":  "G. C. Weatherly, Metal. Sci. J., 2, No. 1: 25 (1968).",
+				"tr":  "G. C. Weatherly, Metal. Sci. J., 2, No. 1: 25 (1968)."
+			},
+			{
+				"doi": "10.1016/0001-6160(71)90163-5",
+				"or":  "H. E. Cline, J. L. Walter, and E. F. Koch, Acta Met., 19, No. 5: 405 (1971).",
+				"tr":  "H. E. Cline, J. L. Walter, and E. F. Koch, Acta Met., 19, No. 5: 405 (1971)."
+			},
+			{
+				"doi": "10.1016/0001-6160(71)90147-7",
+				"or":  "R. H. Hopkins and R. Kossowsky, Acta Met., 19, No. 3: 203 (1971).",
+				"tr":  "R. H. Hopkins and R. Kossowsky, Acta Met., 19, No. 3: 203 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. К. Савицкая, Л. С. Деревягина, Л. М. Буткевич, Т. Н. Сафонова, Неорган. материалы, 18, № 7: 256 (1982).",
+				"tr":  "L. K. Savitskaya, L. S. Derevyagina, L. M. Butkevich, and T. N. Safonova, Neorgan. Materialy, 18, No. 7: 256 (1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. С. Савченко, Журнал неорган. химии, 4, вып. 2: 417 (1959).",
+				"tr":  "L. S. Savchenko, Zhurnal Neorgan. Khimii, 4, Iss. 2: 417 (1959) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Назаренко, Украинский химический журнал, 50, № 2: 169 (1984).",
+				"tr":  "V. V. Nazarenko, Ukrainskiy Khimicheskiy Zhurnal, 50, No. 2: 169 (1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Ш. Кахраманов, Г. Д. Султанов, Изв. АН АзССР. Сер. физ.-техн. и мат. наук, № 6: 320 (1980).",
+				"tr":  "K. Sh. Kakhramanov and G. D. Sultanov, Izv. AN AzSSR. Ser. Fiz.-Tekhn. i Mat. Nauk, No. 6: 320 (1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. И. Дутчак, И. В. Кавич, П. И. Шевчук, В. Г. Синюшко, Неорган. материалы, 12, № 4: 589 (1976).",
+				"tr":  "Ya. I. Dutchak, I. V. Kavich, P. I. Shevchuk, and V. G. Sinyushko, Neorgan. Materialy, 12, No. 4: 589 (1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. И. Дутчак, М. В. Кавич, П. И. Шевчук, Украинский физический журнал, 22: 822 (1977).",
+				"tr":  "Ya. I. Dutchak, M. V. Kavich, and P. I. Shevchuk, Ukrayinskiy Fizicheskiy Zhurnal, 22: 822 (1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Самсонов, Я. И. Дутчак, И. В. Кавич, Доклады АН УССР. Сер. А, № 5: 445 (1976).",
+				"tr":  "G. V. Samsonov, Ya. I. Dutchak, and I. V. Kavich, Doklady AN USSR. Ser. A, No. 5: 445 (1976) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "К. Ш. Кахраманов, В. В. Дидык, Металлофизика, 3, № 2: 31 (1981).",
+				"tr":  "K. Sh. Kakhramanov and V. V. Didyk, Metallofizika, 3, No. 2: 31 (1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. К. Белащенко, Физическая металлургия металлургических процессов (Москва: МИСиС: 1966), вып. 41, с. 44.",
+				"tr":  "D. K. Belashchenko, Fizicheskaya Metallurgiya Metallurgicheskikh Protsessov (Physical Metallurgy of Metallurgical Processes) (Moscow: MISiS: 1966), Iss. 41, p. 44 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Залкин, Журнал физ. химии, 57, № 2: 499 (1983).",
+				"tr":  "V. M. Zalkin, Zhurnal Fiz. Khimii, 57, No. 2: 499 (1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Залкин, Журнал физ. химии, 46, № 1: 8 (1972).",
+				"tr":  "V. M. Zalkin, Zhurnal Fiz. Khimii, 46, No. 1: 8 (1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Залкин, Журнал физ. химии, 58, № 6: 1320 (1981).",
+				"tr":  "V. M. Zalkin, Zhurnal Fiz. Khimii, 58, No. 6: 1320 (1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Х. Шоршоров, А. С. Тихонов, С. И. Булат, К. П. Гуров, Н. И. Надирашвили, В. И. Антипов, Сверхпластичность металлических материалов (Москва: Наука: 1973).",
+				"tr":  "M. Kh. Shorshorov, A. S. Tikhonov, S. I. Bulat, K. P. Gurov, N. I. Nadirashvili, and V. I. Antipov, Sverkhplastichnost' Metallicheskikh Materialov (Superplasticity of Metal Materials) (Moscow: Nauka: 1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Ш. Кахраманов, Р. М. Рошаль, А. П. Алиева, Изв. АН АзССР. Сер. физ.-техн. и мат. наук, № 6: 53 (1983).",
+				"tr":  "K. Sh. Kakhramanov, R. M. Roshal', and A. P. Alieva, Izv. AN AzSSR. Ser. Fiz.-Tekhn. i Mat. Nauk, No. 6: 53 (1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Ш. Кахраманов, Неорган. материалы, 17, № 7: 1203 (1981).",
+				"tr":  "K. Sh. Kakhramanov, Neorgan. Materialy, 17, No. 7: 1203 (1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Ш. Кахраманов, Р. М. Рошаль, В. В. Дидык, Неорган. материалы, 19, № 10: 1613 (1983).",
+				"tr":  "K. Sh. Kakhramanov, R. M. Roshal', and V. V. Didyk, Neorgan. Materialy, 19, No. 10: 1613 (1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Ш. Кахраманов, Р. М. Рошаль, Неорган. материалы, № 10: 1615 (1986).",
+				"tr":  "K. Sh. Kakhramanov and R. M. Roshal', Neorgan. Materialy, No. 10: 1615 (1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Леонов, Е. Н. Чунарев, Физ. мет. металловед., 46, вып. 1: 156 (1978).",
+				"tr":  "V. V. Leonov and E. N. Chunarev, Fiz. Met. Metalloved., 46, Iss. 1: 156 (1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ф. К. Алескеров, С. Ш. Кахраманов, М. М. Асадов, К. Ш. Кахраманов, Конденсированные среды и межфазные границы, 11, № 4: 277 (2009).",
+				"tr":  "F. K. Aleskerov, S. Sh. Kakhramanov, M. M. Asadov, and K. Sh. Kakhramanov, Kondensirovannye Sredy i Mezhfaznye Granitsy, 11, No. 4: 277 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ф. К. Алескеров, К. Ш. Кахраманов, С. Ш. Кахраманов, Неорган. материалы, 48, № 5: 536 (2012).",
+				"tr":  "F. K. Aleskerov, K. Sh. Kakhramanov, and S. Sh. Kakhramanov, Neorgan. Materialy, 48, No. 5: 536 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. К. Житинская, Л. Д. Иванова, С. А. Немов, С. А. Рыков, Т. Е. Свечникова, Сб. Трудов XI Межгосударственного семинара «Термоэлектрики и их применения» (25–27 октября 2008 г., Санкт-Петербург), с. 83.",
+				"tr":  "M. K. Zhitinskaya, L. D. Ivanova, S. A. Nemov, S. A. Rykov, and T. E. Svechnikova, Proc. of XIth International Seminar 'Termoelektriki i Ikh Primeneniya (Thermoelectric Materials and Their Applications)' (October 25–27, 2008, Saint Petersburg, Russia), p. 83 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Х. Абрикосов, В. Ф. Банкина, Л. В. Порецкая, Е. В. Скуднова, С. Н. Чижевская, Полупроводниковые халькогениды и сплавы на их основе (Москва: Наука: 1975).",
+				"tr":  "N. Kh. Abrikosov, V. F. Bankina, L. V. Poretskaya, E. V. Skudnova, and S. N. Chizhevskaya, Poluprovodnikovye Khal'kogenidy i Splavy na Ikh Osnove (Semiconductor Chalcogenides and Alloys Based on Them) (Moscow: Nauka: 1975) (in Russian)."
+			},
+			{
+				"doi": "10.1002/adma.19950071203",
+				"or":  "R. Tenne, Adv. Mater., 7: 965 (1995).",
+				"tr":  "R. Tenne, Adv. Mater., 7: 965 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "И. М. Болеста, И. Н. Ровецкий, И. Д. Карбовник, М. В. Партика, Письма в ЖТФ, 39, вып. 10: 29 (2013).",
+				"tr":  "I. M. Bolesta, I. N. Rovetskiy, I. D. Karbovnik, and M. V. Partika, Pis'ma v ZhTF, 39, Iss. 10: 29 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. А. Смородина, Н. Н. Шефталь, А. П. Цуранов, Вхождение примесных центров в кристаллический слой полупроводников (Москва: Наука: 1986).",
+				"tr":  "T. A. Smorodina, N. N. Sheftal', and A. P. Tsuranov, Vkhozhdenie Primesnykh Tsentrov v Kristallicheskiy Sloy Poluprovodnikov (Inclusion of Impurity Centers into Crystalline Layers of Semiconductors) (Moscow: Nauka: 1986) (in Russian)."
+			},
+			{
+				"doi": "10.1070/RC2003v072n09ABEH000786",
+				"or":  "В. С. Первов, И. Д. Михейкин, Е. В. Махонина, В. Д. Буцкий, Успехи химии, 72, № 9: 852 (2003).",
+				"tr":  "V. S. Pervov, I. D. Mikheykin, E. V. Makhonina, and V. D. Butskiy, Uspekhi Khimii, 72, No. 9: 852 (2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "F. K. Aleskerov, S. Sh. Kakhramanov, E. D. Moroydor, and M. G. Pishkin, Fizika, XIII, No. 5: 52 (2007).",
+				"tr":  "F. K. Aleskerov, S. Sh. Kakhramanov, E. D. Moroydor, and M. G. Pishkin, Fizika, XIII, No. 5: 52 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Д. Михейкин, М. Ю. Кузнецов, Е. В. Махонина, В. С. Первов, Доклады Академии наук, 376, № 6: 785 (2001).",
+				"tr":  "I. D. Mikheykin, M. Yu. Kuznetsov, E. V. Makhonina, and V. S. Pervov, Doklady Akademii Nauk, 376, No. 6: 785 (2001) (in Russian)."
+			},
+			{
+				"doi": "10.1070/RC2000v069n06ABEH000573",
+				"or":  "В. С. Первов, Е. В. Махонина, Успехи химии, 69, № 6: 528 (2000).",
+				"tr":  "V. S. Pervov and E. V. Makhonina, Uspekhi Khimii, 69, No. 6: 528 (2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Первов, И. Д. Михейкин, Я. В. Шапило, Е. В. Махонина, Журнал неорганической химии, 52, № 4: 580 (2007).",
+				"tr":  "V. S. Pervov, I. D. Mikheykin, Ya. V. Shapilo, and E. V. Makhonina, Zhurnal Neorganicheskoy Khimii, 52, No. 4: 580 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Бочвар, О. С. Жадаева, Юбилейный сборник трудов Московского института цветных металлов (Москва: Металлургиздат: 1976), вып. 9.",
+				"tr":  "A. A. Bochvar and O. S. Zhadaeva, Yubileynyy Sbornik Trudov Moskovskogo Instituta Tsvetnykh Metallov (Jubilee Collection Papers of Moscow Institute of Nonferrous Metals) (Moscow: Metallurgizdat: 1976), Iss. 9 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Русанов, Фазовые равновесия и поверхностные явления (Ленинград: Химия: 1967).",
+				"tr":  "A. I. Rusanov, Fazovye Ravnovesiya i Poverkhnostnye Yavleniya (Phase Equilibria and Surface Phenomena) (Leningrad: Khimiya: 1967) (in Russian)."
+			}
+		]
+	}
+}

@@ -1,0 +1,183 @@
+{
+	"_id":    "MFiNT.40.08.1029",
+	"year":   2018,
+	"volume": 40,
+	"issue":  8,
+	"pages":  [1029,1049],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["15.01.2018"],
+	"PACS":   "43.35.+d, 62.20.Qp, 68.37.Hk, 68.55.J-, 68.55.Nq, 81.40.Ef, 81.40.Pq, 81.65.-b",
+	"title":   {
+		"ua": "Механічні властивості, фазовий і хемічний склади поверхні стопу ВТ6 після УЗУО в хемічно активних і нейтральному середовищах",
+		"en": "Mechanical Properties, Phase and Chemical Compositions of a Surface of the Ti–6Al–4V Alloy After Ultrasonic Impact Treatment in Chemically Active and Neutral Mediums",
+		"ru": "Механические свойства, фазовый и химический составы поверхности сплава ВТ6 после УЗУО в химически активных и нейтральной средах"
+	},
+	"abstract": {
+		"ua": "Проведено ультразвукове ударне оброблення (УЗУО) титанового стопу ВТ6 в інертному (арґон) та хемічно активних середовищах — на повітрі за кімнатної температури й у рідкому азоті за кріогенних температур. Показано, що інтенсивна пластична деформація поверхні за умов УЗУО сприяє формуванню наноструктури (з розміром структурних елементів $\\alpha$- і $\\beta$-фази у 35–53 нм і 27–37 нм відповідно) та перебігу механохемічних реакцій окиснення поверхневих шарів стопу ВТ6 на повітрі за кімнатної температури та їх азотування у рідкому азоті. Методами енергодисперсійної аналізи та рентґенівської дифрактометрії зафіксовано інтенсивне насичення поверхневого шару киснем (до 60 ат.%) з утворенням оксиду TiO$_2$ (рутил) та азотом (до 25–65 ат.%) з утворенням нітридів титану TiN та Ti$_2$N. Максимальний ефект зміцнення (зростання мікротвердости у $\\cong$3 рази) та підвищення зносостійкости (у $\\cong$2 рази) поверхні стопу ВТ6 після УЗУО за оптимального режиму оброблення (А = 25 мкм, $\\tau$ = 120 с) спостерігається в середовищі рідкого азоту. Обговорено можливі механізми окиснення й азотування поверхневих шарів за умов їх інтенсивної деформації. Показано, що застосування деформаційних метод модифікації поверхні титанових стопів є перспективним напрямом підвищення їхньої довговічности, зокрема стійкости до зношування.",
+		"en": "Ultrasonic impact treatment (UIT) of titanium Ti–6Al–4V alloy is carried out in inert (argon) and chemically active environments—in the air at room temperature and in liquid nitrogen at cryogenic temperatures. As shown, severe plastic deformation of the surface at the UIT facilitates the formation of nanostructure (with the size of structural elements of $\\alpha$- and $\\beta$-phases of 35–53 nm and 27–37 nm, respectively). It also results in mechanochemical reactions as the oxidation of surface layers of the Ti–6Al–4V alloy in the air at room temperature and their nitridation in liquid nitrogen. As established by energy dissipation analysis and X-ray diffractometry, the intense saturation of the surface layer with oxygen (up to 60 at.%) results in the formation of TiO$_2$ (rutile) and the saturation with nitrogen (up to 25–65 at.%) leads to the formation of the titanium TiN and Ti$_2$N nitrides. The maximum of hardening effect (the increase of microhardness by $\\cong$3 times) and the increase in durability (by $\\cong$2 times) of the surface of the Ti–6Al–4V alloy are observed in the liquid-nitrogen environment after optimal UIT regime (A = 25 $\\mu$m, $\\tau$ = 120 s). Possible mechanisms of oxidation and nitridation of the surface layers at severe deformation are discussed. As shown, the application of deformation methods for modifying the surface of titanium alloys is a promising direction for increasing their durability, in particular, wear resistance.",
+		"ru": "Проведена ультразвуковая ударная обработка (УЗУО) титанового сплава ВТ6 в инертной (аргон) и химически активных средах — на воздухе при комнатной температуре и в жидком азоте при криогенных температурах. Показано, что интенсивная пластическая деформация поверхности в условиях УЗУО способствует формированию наноструктуры (с размером структурных элементов $\\alpha$- и $\\beta$-фазы 35–53 нм и 27–37 нм соответственно) и протеканию механохимических реакций окисления поверхностных слоёв сплава ВТ6 на воздухе при комнатной температуре и азотирования в жидком азоте. Методами энергодисперсионного анализа и рентгеновской дифрактометрии зафиксировано интенсивное насыщение поверхностного слоя кислородом (до 60 ат.%) с образованием оксида TiO$_2$ (рутил) и азотом (до 25–65 ат.%) с образованием нитридов титана TiN и Ti$_2$N. Максимальный эффект упрочнения (рост микротвёрдости в $\\cong$3 раза) и повышение износостойкости (в $\\cong$2 раза) поверхности сплава ВТ6 после УЗУО при оптимальном режиме обработки (А = 25 мкм, $\\tau$ = 120 с) наблюдается в среде жидкого азота. Обсуждены возможные механизмы окисления и азотирования поверхностных слоёв в условиях их интенсивной деформации. Показано, что применение деформационных методов модификации поверхности титановых сплавов является перспективным направлением повышения их долговечности, в частности износостойкости."
+	},
+	"keywords": {
+		"ua": "кріогенна інтенсивна пластична деформація, ультразвукове ударне оброблення (УЗУО), наноструктура, механохемічні реакції, окиснення, азотування, зміцнення, зношування",
+		"en": "cryogen severe plastic deformation, ultrasound impact treatment (UIT), nanostructure, mechanochemical reactions, oxidation, nitridation, hardening, wear",
+		"ru": "криогенная интенсивная пластическая деформация, ультразвуковая ударная обработка (УЗУО), наноструктура, механохимические реакции, окисление, азотирование, упрочнение, износ"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. О. Васильєв", "en": "M. O. Vasylyev", "ru": "М. А. Васильев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Б. М. Мордюк", "en": "B. M. Mordyuk", "ru": "Б. Н. Мордюк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Г. І. Прокопенко", "en": "G. I. Prokopenko", "ru": "Г. И. Прокопенко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. М. Волошко", "en": "S. М. Voloshko", "ru": "С. М. Волошко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "Л. Ф. Яценко", "en": "L. F. Yatsenko", "ru": "Л. Ф. Яценко"},
+			"OID": [263]
+		},
+		{
+			"AID": {"ua": "Н. І. Хріпта", "en": "N. I. Khripta", "ru": "Н. И. Хрипта"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 25,
+		"list":  [
+			{
+				"doi": "10.3367/UFNr.2016.12.038018",
+				"or":  "А. Д. Погребняк, А. А. Багдасарян, А. В. Пшик, К. Дядюра, Успехи физических наук, 187, № 12: 515 (2017).",
+				"tr":  "A. D. Pogrebnjak, A. A. Bagdasaryan, A. V. Pshyk, and K. Dyadyura, Uspekhi Fizicheskikh Nauk, 187, No. 12: 515 (2017) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2016.08.180",
+				"or":  "N. S. Mashovets, I. M. Pastukh, and S. M. Voloshko, Appl. Surf. Sci., 392: 356 (2017).",
+				"tr":  "N. S. Mashovets, I. M. Pastukh, and S. M. Voloshko, Appl. Surf. Sci., 392: 356 (2017)."
+			},
+			{
+				"doi": "10.1080/15287394.2014.911132",
+				"or":  "J. F. Gomes, R. M. Miranda, T. J. Santos, and P. A. Carvalho, J. Toxicol. Environ. Health. Part A, 77, Nos. 14–16: 924 (2014).",
+				"tr":  "J J. F. Gomes, R. M. Miranda, T. J. Santos, and P. A. Carvalho, J. Toxicol. Environ. Health. Part A, 77, Nos. 14–16: 924 (2014)."
+			},
+			{
+				"doi": "10.1016/j.rinp.2017.04.002",
+				"or":  "X. Yang, X. Wang, X. Ling, and D. Wang, Results in Physics, 7: 1412 (2017).",
+				"tr":  "X. Yang, X. Wang, X. Ling, and D. Wang, Results in Physics, 7: 1412 (2017)."
+			},
+			{
+				"doi": "10.1016/j.msea.2015.06.072",
+				"or":  "A. I. Dekhtyar, B. N. Mordyuk, D. G. Savvakin, V. I. Bondarchuk, I. V. Moiseeva, and N. I. Khripta, Mater. Sci. Eng. A, 641: 348 (2015).",
+				"tr":  "A. I. Dekhtyar, B. N. Mordyuk, D. G. Savvakin, V. I. Bondarchuk, I. V. Moiseeva, and N. I. Khripta, Mater. Sci. Eng. A, 641: 348 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. І. Прокопенко, Б. М. Мордюк, М. О. Васильєв, С. М. Волошко, Фізичні основи ультразвукового ударного зміцнення металевих поверхонь (Київ: Наукова думка: 2017).",
+				"tr":  "G. I. Prokopenko, B. M. Mordyuk, M. O. Vasylyev, and S. M. Voloshko, Fizychni Osnovy Ultrazvukovogo Udarnogo Zmitsnennya Metalevykh Poverkhon [Physical Principles for Ultrasonic Impact Hardening of Metallic Surfaces] (Kyiv: Naukova Dumka: 2017) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/scin10.01.005",
+				"or":  "В. І. Приходько, М. В. Високолян, В. В. Волочай, Г. І. Прокопенко, Б. М. Мордюк, В. Т. Черепін, Т. А. Красовський, Т. В. Попова, Наука та інновації, 10, № 1: 5 (2014).",
+				"tr":  "V. I. Prykhod'ko, M. V. Vysokolyan, V. V. Volochay, G. I. Prokopenko, B. M. Mordyuk, V. T. Cherepin, T. A. Krasovs'kyy, and T. V. Popova, Nauka Innov., 10, No. 1: 5 (2014) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1002/9783527674947.ch17",
+				"or":  "B. N. Mordyuk and G. I. Prokopenko, Handbook of Mechanical Nanostructuring (Ed. M. Aliofkhazraei) (Wiley-VCH: 2015), p. 417.",
+				"tr":  "B. N. Mordyuk and G. I. Prokopenko, Handbook of Mechanical Nanostructuring (Ed. M. Aliofkhazraei) (Wiley-VCH: 2015), p. 417."
+			},
+			{
+				"doi": "10.1361/105994906X108693",
+				"or":  "X. An, C. A. Rodopoulos, E. S. Statnikov, V. N. Vitazev, and O. V. Korolkov, J. Mater. Eng. Perform., 15: 355 (2006).",
+				"tr":  "X. An, C. A. Rodopoulos, E. S. Statnikov, V. N. Vitazev, and O. V. Korolkov, J. Mater. Eng. Perform., 15: 355 (2006)."
+			},
+			{
+				"doi": "10.1007/s11665-009-9385-y",
+				"or":  "C. A. Rodopoulos, S. G. Pantelakis, and M. P. Papadopoulos, J. Mater. Eng. Perf., 18: 1248 (2009).",
+				"tr":  "C. A. Rodopoulos, S. G. Pantelakis, and M. P. Papadopoulos, J. Mater. Eng. Perf., 18: 1248 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. И. Прокопенко, Б. Н. Мордюк, Сварка и конструкции, № 1: 10 (2015).",
+				"tr":  "G. I. Prokopenko and B. N. Mordyuk, Svarka i Konstruktsii, No. 1: 10 (2015) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.15.02.079",
+				"or":  "М. А. Васильев, С. М. Волошко, Л. Ф. Яценко, Успехи физики металлов, 15, № 2: 79 (2014).",
+				"tr":  "M. O. Vasiliev, S. M. Voloshko, and L. F. Yatsenko, Uspehi Fiziki Metallov, 15, No. 2: 79 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.2320/matertrans.MA200901",
+				"or":  "K. Takahashi and E. Sato, Mater. Trans., 51 (4): 694 (2010).",
+				"tr":  "K. Takahashi and E. Sato, Mater. Trans., 51 (4): 694 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Mehta, D. Amin, and Sh. Rajpurohit, IJIRST, 2: 12 (2016).",
+				"tr":  "V. Mehta, D. Amin, and Sh. Rajpurohit, IJIRST, 2: 12 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "E. E. Boklag, І. V. Kolodiy, M. A. Tikhonovsky, I. F. Kislyak, P. А. Khaimovich, and A. A. Efimov, Вопросы атомной науки и техники, 2: 95 (2015).",
+				"tr":  "E. E. Boklag, I. V. Kolodiy, M. A. Tikhonovsky, I. F. Kislyak, P. A. Khaimovich, and A. A. Efimov, Voprosy Atomnoy Nauki i Tekhniki, 2: 95 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. А. Чиркина, М. Б. Лазарева, В. И. Соколенко, В. В. Калиновский, П. А. Хаймович, В. С. Оковит, Вопросы атомной науки и техники, № 1: 115 (2014).",
+				"tr":  "L. A. Chirkina, M. B. Lazareva, V. Y. Sokolenko, V. V. Kalinovskiy, P. A. Khaimovich, and V. S. Okovit, Voprosy Atomnoy Nauki i Tekhniky, No. 1: 115 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.37.09.1269",
+				"or":  "М. О. Васильев, Б. М. Мордюк, С. I. Сидоренкo, С. М. Волошко, А. П. Бурмак, Металлофиз. новейшие технол., 37: № 9: 1269 (2015).",
+				"tr":  "M. O. Vasyliev, B. M. Mordyuk, S. I. Sidorenko, S. M. Voloshko, and A. P. Burmak, Metallofiz. Noveishie Tekhnol., 37, No. 9: 1269 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2017.11.019",
+				"or":  "M. A.Vasylyev, B. N. Mordyuk, S. I. Sidorenko, S. M. Voloshko, and A. P. Burmak, Surf. Coat. Technol., 343: 57 (2018).",
+				"tr":  "M. A.Vasylyev, B. N. Mordyuk, S. I. Sidorenko, S. M. Voloshko, and A. P. Burmak, Surf. Coat. Technol., 343: 57 (2018)."
+			},
+			{
+				"doi": "10.15407/ufm.05.03.345",
+				"or":  "М. А. Васильев, Г. И. Прокопенко, В. С. Филатова, Успехи физики металлов, 5, № 3: 345 (2004).",
+				"tr":  "M. O. Vasiliev, G. I. Prokopenko, and V. S. Filatova, Uspehi Fiziki Metallov, 5, No. 3: 345 (2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. В. Тихонов, В. Л. Свечников, Г. И. Прокопенко, Р. Г. Гонтарева, Л. В. Тарасенко, Металлофизика, 7, № 5: 48 (1985).",
+				"tr":  "L. V. Tikhonov, V. L. Svechnikov, G. I. Prokopenko, R. G. Gontareva, and L. V. Tarasenko, Metallofizika 7, No. 5: 48 (1985) (in Russian)."
+			},
+			{
+				"doi": "10.1134/S0031918X06100103",
+				"or":  "N. N. Popov, A. I. Korshunov, A. A. Aushev, M. Yu. Sidorkin, T. I. Sysoeva, I. V. Kostylev, A. E. Gusarov, and V. V. Stolyarov, Phys. Metals Metallogr., 102, No. 4: 432 (2006).",
+				"tr":  "N. N. Popov, A. I. Korshunov, A. A. Aushev, M. Yu. Sidorkin, T. I. Sysoeva, I. V. Kostylev, A. E. Gusarov, and V. V. Stolyarov, Phys. Metals Metallogr., 102, No. 4: 432 (2006)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2012.06.046",
+				"or":  "A. Amanov, I.-S. Cho, D.-E. Kim, and Y.-S. Pyun, Surf. Coat. Technol., 207: 135 (2012).",
+				"tr":  "A. Amanov, I.-S. Cho, D.-E. Kim, and Y.-S. Pyun, Surf. Coat. Technol., 207: 135 (2012), DOI:10.1016/j.surfcoat.2012.06.046."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Миронов, Перспективные материалы, № 5: 84 (2003).",
+				"tr":  "V. M. Mironov, Perspektivnye Materialy, No. 5: 84 (2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "D. S. Gertsriken, V. F. Mazanko, Yu. N. Koval, Yu. Ya. Meshkov, V. M. Mironov, V. V. Alekseeva, and T. V. Mironova, Вісн. ЧНУ, № 117: 40 (2007).",
+				"tr":  "D. S. Gertsriken, V. F. Mazanko, Yu. N. Koval, Yu. Ya. Meshkov, V. M. Mironov, V. V. Alekseeva, and T. V. Mironova, Visnyk ChNU, No. 117: 40 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Мазанко, Д. С. Герцрикен, В. М. Мироков, Д. В. Миронов, С. А. Бобырь, Искровой разряд и диффузионные процессы в металлах (Киев: Наукова думка: 2014), c. 191.",
+				"tr":  "V. F. Mazanko, D. S. Gertsriken, V. M. Mironov, D. V. Mironov, and S. A. Bobyr, Iskrovoy Razryad i Diffuzionnye Protsessy v Metallakh [Spark Discharge and Diffusion Processes in Metals] (Kiev: Naukova Dumka: 2014), p. 191 (in Russian)."
+			}
+		]
+	}
+}

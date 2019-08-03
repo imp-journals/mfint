@@ -1,0 +1,150 @@
+{
+	"_id":    "MFiNT.36.09.1153",
+	"year":   2014,
+	"volume": 36,
+	"issue":  9,
+	"pages":  [1153,1169],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["28.01.2014","26.06.2014"],
+	"PACS":   "61.43.Gt, 61.72.S-, 64.70.Kd, 66.30.jp, 68.55.Nq, 81.05.Bx, 81.20.Ev",
+	"title":   {
+		"ua": "Особливості фазоутворення при контрольованому гідруванні та дегідруванні титану різними методами",
+		"en": "Features of Phase Formation at Controlled Hydrogenation and Dehydrogenation of Titanium by Different Methods",
+		"ru": "Особенности фазообразования при контролируемом гидрировании и дегидрировании титана разными методами"
+	},
+	"abstract": {
+		"ua": "Експериментально виконано порівняльне дослідження фазових перетворень при гідруванні титану, вмісту домішок, фазового складу гідридів титану, одержаних двома різними способами. Перший з них (традиційний) полягав у гідруванні титанової губки методою пічного нагрівання в атмосфері водню. Одержання гідридів другим способом здійснювалося методою високотемпературної синтези, що самопоширюється (ВСС). Визначено температурно-баричні режими гідрування титану в стаціонарних умовах та при ВСС, які забезпечують одержання однофазних гідридів титану з однорідним розподілом водню у об’ємі. Встановлено, що за обома способами гідрування послідовність фазових перетворень при підвищенні та зниженні концентрації водню в титані є аналогічною. Гідрування титану методом ВСС принципово відрізняється від традиційного гідрування малим часом процесу. Показано, що вміст кисню в порошкових частинках, в тому числі стан поверхневих оксидних плівок, впливає на кінетику зміни параметра ґратниці гідриду титану та на відмінності при нагріванні ВСС-гідриду і гідриду, одержаного традиційним способом.",
+		"en": "The comparative investigations of phase transformations, which take place under the titanium hydrogenation, content of impurities, and phase composition of titanium hydrides obtained by means of two different techniques are carried out in this study. The first technique is a traditional hydrogenation of titanium sponge by the burn heating within the hydrogen atmosphere. Hydrides’ production by the second technique is performed by the self-propagating high-temperature synthesis (SHS). Temperature—pressure regimes securing the single-phase titanium hydrides with a homogeneous hydrogen distribution in a bulk, which are obtained by the titanium hydrogenation in stationary conditions and by SHS, are found. As determined, the sequence of phase transformations is similar for both hydrogenation techniques under increase and decrease of hydrogen concentration in titanium. Titanium hydrogenation by SHS technique principally differs from traditional one by the more rapid behaviour of the process. As shown, the oxygen content in hydride powders, including condition of surface oxygen films, influences on kinetics of the titanium-hydride lattice-parameter change and on differences under heating of SHS-hydride and of hydride obtained by traditional technique.",
+		"ru": "Экспериментально выполнено сравнительное исследование фазовых превращений при гидрировании титана, содержания примесей и фазового состава гидридов титана, полученных двумя разными способами. Первый из них (традиционный) заключался в гидрировании титановой губки методом печного нагрева в атмосфере водорода. Получение гидридов по второму способу осуществлялось методом самораспространяющегося высокотемпературного синтеза (СВС). Определены температурно-барические режимы гидрирования титана в стационарных условиях и при СВС, которые обеспечивают получение однофазных гидридов титана с однородным распределением водорода по объёму. Установлено, что при обоих способах гидрирования последовательность фазовых превращений при повышении и снижении концентрации водорода в титане является аналогичной. Гидрирование титана методом СВС принципиально отличается от традиционного гидрирования малым временем процесса. Показано, что содержание кислорода в порошковых частицах, в том числе состояние поверхностных оксидных плёнок, оказывает влияние на кинетику изменения параметра решётки гидрида титана и на различия при нагреве СВС-гидрида и гидрида, полученного традиционным способом."
+	},
+	"keywords": {
+		"ua": "фазові перетворення, кінетика перетворень, гідрування, дегідрування, гідриди титана, самопоширюваний високотемпературний синтез (СВС)",
+		"en": "phase transformation, kinetics of transformations, hydrogenation, dehydrogenation, titanium hydride, self-propagating high-temperature synthesis (SHS)",
+		"ru": "фазовые превращения, кинетика превращений, гидрирование, дегидрирование, гидриды титана, самораспространяющийся высокотемпературный синтез (СВС)"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. І. Дехтяр", "en": "O. I. Dekhtyar", "ru": "А. И. Дехтяр"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. М. Івасишин", "en": "O. M. Ivasishin", "ru": "О. М. Ивасишин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Д. Ю. Ковальов", "en": "D. Yu. Kovalev", "ru": "Д. И. Ковалёв"},
+			"OID": [470]
+		},
+		{
+			"AID": {"ua": "О. М. Кордубан", "en": "O. M. Korduban", "ru": "А. М. Кордубан"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. К. Прокудіна", "en": "V. K. Prokudina", "ru": "В. К. Прокудина"},
+			"OID": [470]
+		},
+		{
+			"AID": {"ua": "В. І. Ратніков", "en": "V. I. Ratnikov", "ru": "В. И. Ратников"},
+			"OID": [470]
+		},
+		{
+			"AID": {"ua": "Д. Г. Саввакін", "en": "D. G. Savvakin", "ru": "Д. Г. Саввакин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. Є. Сичьов", "en": "A. Ye. Sychev", "ru": "А. Е. Сычёв"},
+			"OID": [470]
+		},
+		{
+			"AID": {"ua": "М. М. Гуменяк", "en": "M. M. Gumenyak", "ru": "Н. М. Гуменяк"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 16,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "А. А. Ильин, Б. А. Колачев, В. К. Носов, А. М. Мамонов, Водородная технология титановых сплавов (Москва: МИСиС: 2002).",
+				"tr":  "A. A. Il'yin, B. A. Kolachev, V. K. Nosov, and A. M. Mamonov, Vodorodnaya Tekhnologiya Titanovykh Splavov (Moscow: MISiS: 2002) (in Russian)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/AST.73.51",
+				"or":  "K. Konashi and M. Yamawaki, Adv. Sci. Technol., 73: 51 (2010).",
+				"tr":  "K. Konashi and M. Yamawaki, Adv. Sci. Technol., 73: 51 (2010)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/KEM.436.113",
+				"or":  "O. M. Ivasishin and D. G. Savvakin, Key Engineering Mater., 436: 113 (2010).",
+				"tr":  "O. M. Ivasishin and D. G. Savvakin, Key Engineering Mater., 436: 113 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Ивасишин, Д. Г. Саввакин, Н. М. Гуменяк, Металлофиз. новейшие технол., 33, № 7: 899 (2011).",
+				"tr":  "O. M. Ivasishin, D. G. Savvakin, and M. M. Humenyak, Metallofiz. Noveishie Tekhnol., 33, No. 7: 899 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Ливанов, А. А. Буханова, Б. А. Колачев, Водород в титане (Москва: Государственное научно-техническое издательство литературы по черной и цветной металлургии: 1962).",
+				"tr":  "V. A. Livanov, A. A. Bukhanova, and B. A. Kolachev, Vodorod v Titane (Moscow: Gosudarstvennoye Nauchno-Tekhnicheskoye Izdatelstvo po Chernoy i Tsvetnoy Metallurgii: 1962) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. С. Рогачев, А. С. Мукасьян, Горение для синтеза материалов: введение в структурную макрокинетику (Москва: Физматлит: 2012).",
+				"tr":  "A. S. Rogachev and A. S. Mukas'yan, Gorenie dlya Sinteza Materialov: Vvedenie v Strukturnuyu Makrokinetiku (Moscow: Fizmatlit: 2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Ratnikov, I. P. Borovinskaya, and V. K. Prokudina, Int. J. Self-Prop. High-Temp. Synth., 15, No. 2: 193 (2006).",
+				"tr":  "V. I. Ratnikov, I. P. Borovinskaya, and V. K. Prokudina, Int. J. Self-Prop. High-Temp. Synth., 15, No. 2: 193 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Stepura, V. Rosenband, and A. Gany, Proc. III Eur. Combustion Meeting ECM 2007 (Israel: 2007), p. 1.",
+				"tr":  "G. Stepura, V. Rosenband, and A. Gany, Proc. III Eur. Combustion Meeting ECM 2007 (Israel: 2007), p. 1."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Мержанов, И. П. Боровинская, В. И. Пономарев, И. О. Хоменко, Ю. В. Заневский, С. П. Чеменко, Л. П. Смыков, Г. А. Черемухина, Докл. РАН, 328, № 1: 72 (1993).",
+				"tr":  "A. G. Merzhanov, I. P. Borovinskaya, V. I. Ponomarev, I. O. Khomenko, Yu. V. Zanevskiy, S. P. Chemenko, L. P. Smykov, and G. A. Cheremukhina, Doklady RAN, 328, No. 1: 72 (1993) (in Russian)."
+			},
+			{
+				"doi": "10.3103/S1061386210040047",
+				"or":  "D. Yu. Kovalev, V. K. Prokudina, V. I. Ratnikov, and V. I. Ponomarev, Int. J. Self-Prop. High-Temp. Synth., 19, No. 4: 253 (2010).",
+				"tr":  "D. Yu. Kovalev, V. K. Prokudina, V. I. Ratnikov, and V. I. Ponomarev, Int. J. Self-Prop. High-Temp. Synth., 19, No. 4: 253 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Ивасишин, В. Т. Черепин, В. Н. Колесник, Н. М. Гуменяк, Приборы и техника эксперимента, № 3: 147 (2010).",
+				"tr":  "O. M. Ivasishin, V. T. Cherepin, V. N. Kolesnik, and M. M. Humenyak, Pribory i Tekhnika Eksperimenta, No. 3: 147 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Гармата, А. Н. Петрунько, Н. В. Галицкий, Ю. Г. Олесов, Р. А. Сандлер, Титан (Москва: Металлургия: 1983).",
+				"tr":  "V. A. Garmata, A. N. Petrun'ko, N. V. Galitskiy, Yu. G. Olesov, and R. A. Sandler, Titan (Moscow: Metallurgiya: 1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Ратников, В. К. Прокудина, И. П. Боровинская, А. Г. Мержанов, Патент РФ № 2385837. С01В 6/02. Способ получения гидрида титана и устройство для его осуществления / № 2008107172/15. Заявл. 28.02.2008. Опубл. 10.04.2010, Б.И. № 10.",
+				"tr":  "V. I. Ratnikov, V. K. Prokudina, I. P. Borovinskaya, and A. G. Merzhanov, Sposob Polucheniya Gidrida Titana i Ustroystvo dlya Ego Osushchestvleniya. Patent RF No. 2385837. C01B 6/02 / No. 2008107172/15 (Claimed 28.02.2008. Published 10.04.2010, B.I. No. 10) (in Russian)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/KEM.520.121",
+				"or":  "O. M. Ivasishin, D. G. Savvakin, V. I. Bondarchuk, and M. M. Gumenyak, Key Engineering Mater., 520: 121 (2012).",
+				"tr":  "O. M. Ivasishin, D. G. Savvakin, V. I. Bondarchuk, and M. M. Gumenyak, Key Engineering Mater., 520: 121 (2012)."
+			},
+			{
+				"doi": "10.1016/j.ijhydene.2009.01.095",
+				"or":  "H. Liu, P. He, J. C. Feng, and J. Cao, Int. J. Hydrogen Energy, 34: 3018 (2009).",
+				"tr":  "H. Liu, P. He, J. C. Feng, and J. Cao, Int. J. Hydrogen Energy, 34: 3018 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Смирнов, Український фізичний журнал, 37, № 8: 1188 (1992).",
+				"tr":  "A. A. Smirnov, Ukr. Fiz. Zhurn., 37, No. 8: 1188 (1992) (in Russian)."
+			}
+		]
+	}
+}

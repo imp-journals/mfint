@@ -1,0 +1,123 @@
+{
+	"_id":    "MFiNT.41.03.0289",
+	"year":   2019,
+	"volume": 41,
+	"issue":  3,
+	"pages":  [289,286],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["06.07.2018","22.01.2019"],
+	"PACS":   "72.80.Tm, 77.22.Ch, 77.84.Lf, 81.05.U-, 81.07.Bc, 81.40.Tv",
+	"title":   {
+		"ua": "Електрофізичні характеристики полімерних нанокомпозитів «ферит/вуглецеві нанотрубки, модифіковані йодидом міді»",
+		"en": "Electrophysical Properties of Polymeric Nanocomposites Based on Ferrite/Carbon Nanotube/Copper Iodide",
+		"ru": "Электрофизические характеристики полимерных нанокомпозитов «феррит/углеродные нанотрубки, модифированные иодидом меди»"
+	},
+	"abstract": {
+		"ua": "Методом золь-гель автогоріння синтезовано нанокомпозит ферит барію/вуглецеві нанотрубки, модифіковані йодидом міді. Вивчено електрофізичні властивості в надвисокочастотному діапазоні та на низьких частотах при кімнатній температурі композитів ферит барію/вуглецеві нанотрубки/CuI-поліхлортрифторетилен (ПХТФЕ). Показано, що при введенні композитів у ПХТФЕ відбувається збільшення значень комплексної діелектричної сприйнятливості у 5–7 разів та електропровідності на 2 порядки величини в порівнянні з системою, яка містить немодифіковані компоненти.",
+		"en": "The nanocomposites barium ferrite/carbon nanotubes modified with copper iodide are synthesized by the sol-gel autocombustion method. Electrophysical properties in the microwave range and at low frequencies at room temperature of barium ferrite composites/carbon nanotubes/CuI-polychlorotrifluo-roethylene (PCTFE) are studied. As shown, the insertion of composites into PCTFE leads to an increase of the values of complex dielectric permittivity of 5–7 times and electrical conductivity by 2 orders of magnitude in comparison with a system that contains unmodified components.",
+		"ru": "Методом золь-гель автогорения синтезирован нанокомпозит феррит бария/углеродные нанотрубки, модифицированный йодидом меди. Исследованы электрофизические свойства в сверхвысокочастотном диапазоне и на низких частотах при комнатной температуре композитов феррит бария/углеродные нанотрубки/CuI-полихлортрифторэтилен (ПХТФЭ). Показано, что при введении композитов в ПХТФЭ происходит увеличение значений комплексной диэлектрической проницаемости в 5–7 раз и электропроводности на 2 порядка величины по сравнению с системой, которая содержит немодифицированные компоненты."
+	},
+	"keywords": {
+		"ua": "ферити, вуглецеві нанотрубки, дисперсні наповнювачі, міжфазна взаємодія",
+		"en": "ferrites, carbon nanotubes, disperse fillers, interfacial interaction",
+		"ru": "ферриты, углеродные нанотрубки, дисперсные наполнители, межфазное взаимодействие"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Р. В. Мазуренко", "en": "R. V. Mazurenko", "ru": "Р. В. Мазуренко"},
+			"OID": [21]
+		},
+		{
+			"AID": {"ua": "С. Л. Прокопенко", "en": "S. L. Prokopenko", "ru": "С. Л. Прокопенко"},
+			"OID": [21]
+		},
+		{
+			"AID": {"ua": "О. І. Оранська", "en": "O. I. Oranska", "ru": "Е. И. Оранская"},
+			"OID": [21]
+		},
+		{
+			"AID": {"ua": "Г. М. Гуня", "en": "G. M. Gunya", "ru": "Г. М. Гуня"},
+			"OID": [21]
+		},
+		{
+			"AID": {"ua": "С. М. Махно", "en": "S. M. Makhno", "ru": "С. Н. Махно"},
+			"OID": [21]
+		},
+		{
+			"AID": {"ua": "П. П. Горбик", "en": "P. P. Gorbyk", "ru": "П. П. Горбик"},
+			"OID": [21]
+		}
+	],
+	"references": {
+		"count": 13,
+		"list":  [
+			{
+				"doi": "10.1016/j.jallcom.2017.04.284",
+				"or":  "Liangliang Cao, Zhentao Wang, Zhupeng Ye, Yuan Zang, Longfei Zhao, and Yanwei Zeng, J. Alloys Compd., 715: 199 (2017).",
+				"tr":  "Liangliang Cao, Zhentao Wang, Zhupeng Ye, Yuan Zang, Longfei Zhao, and Yanwei Zeng, J. Alloys Compd., 715: 199 (2017)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2017.03.001",
+				"or":  "Tingkai Zhao, Xianglin Ji, Wenbo Jin, Chuanyin Xiong, Wenxiu Ma, Chuan Wang, Shichang Duan, Alei Dang, Hao Li, Tiehu Li, Songmin Shang, and Zhongfu Zhou, J. Alloys Compd., 708: 115 (2017).",
+				"tr":  "Tingkai Zhao, Xianglin Ji, Wenbo Jin, Chuanyin Xiong, Wenxiu Ma, Chuan Wang, Shichang Duan, Alei Dang, Hao Li, Tiehu Li, Songmin Shang, and Zhongfu Zhou, J. Alloys Compd., 708: 115 (2017)."
+			},
+			{
+				"doi": "10.1016/j.matlet.2006.01.078",
+				"or":  "Wuyou Fu, Haibin Yang, Minghua Li, Lianxia Chang, Qingjiang Yu, Jing Xu, and Guangtian Zou, Mater. Lett., 60, Iss. 21–22: 2723 (2006).",
+				"tr":  "Wuyou Fu, Haibin Yang, Minghua Li, Lianxia Chang, Qingjiang Yu, Jing Xu, and Guangtian Zou, Mater. Lett., 60, Iss. 21-22: 2723 (2006)."
+			},
+			{
+				"doi": "10.1016/S0304-8853(02)01389-6",
+				"or":  "Hsuan-Fu Yu and Kao-Chao Huang, J. Magn. Magn. Mater., 260, Iss. 3: 455 (2003).",
+				"tr":  "Hsuan-Fu Yu and Kao-Chao Huang, J. Magn. Magn. Mater., 260, Iss. 3: 455 (2003)."
+			},
+			{
+				"doi": "10.1016/j.mseb.2011.05.023",
+				"or":  "Yi Jiang, Sh. Gao, Zh. Li, Xi. Jia, and Ya. Chen, Mater. Sci. Eng., B, 176, Iss. 13: 1021 (2011).",
+				"tr":  "Yi Jiang, Sh. Gao, Zh. Li, Xi. Jia, and Ya. Chen, Mater. Sci. Eng., B, 176, Iss. 13: 1021 (2011)."
+			},
+			{
+				"doi": "10.1016/j.jare.2012.09.007",
+				"or":  "M. H. Makled, E. Sheha, T. S. Shanap, and M. K. El-Mansy, J. Adv. Res., 4, Iss. 6: 531 (2013).",
+				"tr":  "M. H. Makled, E. Sheha, T. S. Shanap, and M. K. El-Mansy, J. Adv. Res., 4, Iss. 6: 531 (2013)."
+			},
+			{
+				"doi": "10.1016/j.mseb.2017.09.021",
+				"or":  "Krutika L. Routray, Sunirmal Saha, and Dhrubananda Behera, Mater. Sci. Eng., B, 226: 199 (2017).",
+				"tr":  "Krutika L. Routray, Sunirmal Saha, and Dhrubananda Behera, Mater. Sci. Eng., B, 226: 199 (2017)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2018.05.275",
+				"or":  "N. Ambikeswari, and S. Manivannan, J. Alloys Compd., 763: 711 (2018).",
+				"tr":  "N. Ambikeswari, and S. Manivannan, J. Alloys Compd., 763: 711 (2018)."
+			},
+			{
+				"doi": "",
+				"or":  "Rukovodstvo po Neorganicheskomu Sintezu (Red. G. Brauer) (Moscow: Mir: 1985) (in Russian).",
+				"tr":  "Rukovodstvo po Neorganicheskomu Sintezu (Red. G. Brauer) (Moscow: Mir: 1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. N. Ganiuk, V. D. Ignatkov, S. N. Makhno, and P. N. Soroka, Ukr. Phys. Zhurn., 40, No. 6: 627 (1995) (in Russian).",
+				"tr":  "L. N. Ganiuk, V. D. Ignatkov, S. N. Makhno, and P. N. Soroka, Ukr. Phys. Zhurn., 40, No. 6: 627 (1995) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. P. Pavlov, Metody Opredeleniya Parametrov Poluprovodnikovykh Materialov [Methods for Measuring the Parameters of Semiconductor Materials] (Moscow: Vysshaya Shkola: 1987) (in Russian).",
+				"tr":  "L. P. Pavlov, Metody Opredeleniya Parametrov Poluprovodnikovykh Materialov [Methods for Measuring the Parameters of Semiconductor Materials] (Moscow: Vysshaya Shkola: 1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Guinier, Rentgenografiya Kristallov (Moscow: Gos. Izd-vo Fiz.-Mat. Lit.: 1995) (in Russian).",
+				"tr":  "A. Guinier, Rentgenografiya Kristallov (Moscow: Gos. Izd-vo Fiz.-Mat. Lit.: 1995) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.matpr.2017.06.007",
+				"or":  "Sunil Kumar, Sweety Supriya, and Manoranjan Kar, Materials Today: Proceedings 4 (2017).",
+				"tr":  "Sunil Kumar, Sweety Supriya, and Manoranjan Kar, Materials Today: Proceedings 4 (2017)."
+			}
+		]
+	}
+}

@@ -1,0 +1,110 @@
+{
+	"_id":    "MFiNT.37.12.1703",
+	"year":   2015,
+	"volume": 37,
+	"issue":  12,
+	"pages":  [1703,1712],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["22.06.2015","27.11.2015"],
+	"PACS":   "44.10.+i, 64.70.dj, 64.70.km, 65.40.Ba, 77.84.Lf, 81.05.Lg, 83.60.Np",
+	"title":  {
+		"ua": "Вплив неоднорідного магнітного поля на фазові перетворення у металовмісних полімерних композитах",
+		"en": "Effect of Nonuniform Magnetic Field on the Phase Transformations of Metal-Containing Polymer Composites",
+		"ru": "Влияние неоднородного магнитного поля на фазовые превращения в металлосодержащих полимерных композитах"
+	},
+	"abstract": {
+		"ua": "Вивчено залежність тепломісткости від температури кристалів, створених із порошкоподібних полімерів при різному вмісті дрібнодисперсного заліза. Встановлено, що інтервал температур, у якому відбувається фазовий перехід першого роду, пов’язаний із топленням кристалів, істотно залежить від впливу обертового неоднорідного магнетного поля і процентного вмісту дрібнодисперсного заліза. Якщо кристал не є металовмісним, то вплив неоднорідного магнетного поля приводить до розмиття фазового переходу, тоді як при вмісті дрібнодисперсного заліза менше 5% від початкової маси чистого полімеру вплив неоднорідного магнетного поля приводить до істотного зменшення інтервалу температур, у якому спостерігається максимум тепломісткости; також у цьому випадку спостерігається аномально сильна залежність тепломісткости від процентного вмісту дрібнодисперсного заліза.",
+		"en": "The dependence of the heat capacity on the temperature for crystals fabricated from powdered polymers with different content of fine iron is studied. As revealed, the temperature range, at which the phase transition associated with the melting of the crystals, essentially depends on both the rotating inhomogeneous magnetic field and the percentage content of fine iron. If the crystal is not metal-containing, the effects of inhomogeneous rotating magnetic field lead to a smearing of the phase transition, whereas, in the case of fine iron content of less than 5% of the original weight of the pure polymer, the effect of inhomogeneous magnetic field leads to a substantial reduction of the temperature range of the heat-capacity maximum, and the anomalously strong dependence of the heat capacity on the percentage content of fine iron is observed.",
+		"ru": "Изучена зависимость теплоёмкости от температуры кристаллов, созданных из порошкообразных полимеров при различном содержании мелкодисперсного железа. Установлено, что интервал температур, в котором происходит фазовый переход первого рода, связанный с плавлением кристаллов, существенно зависит от воздействия вращающегося неоднородного магнитного поля и процентного содержания мелкодисперсного железа. Если кристалл не является металлосодержащим, то воздействие неоднородного вращающегося магнитного поля приводит к размытию фазового перехода, тогда как при содержании мелкодисперсного железа менее 5% от исходной массы чистого полимера воздействие неоднородного магнитного поля приводит к существенному уменьшению интервала температур, в котором наблюдается максимум теплоёмкости; также в этом случае наблюдается аномально сильная зависимость теплоёмкости от процентного содержания мелкодисперсного железа."
+	},
+	"keywords": {
+		"ua": "композити, тепломісткість, фазові перетворення, магнетне поле",
+		"en": "composites, heat capacity, phase transitions, magnetic field",
+		"ru": "композиты, теплоёмкость, фазовые превращения, магнитное поле"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. Г. Медведовська", "en": "O. G. Medvedovska", "ru": "О. Г. Медведовская"},
+			"OID": [219]
+		},
+		{
+			"AID": {"ua": "А. Д. Стаднік", "en": "A. D. Stadnik", "ru": "А. Д. Стадник"},
+			"OID": [219]
+		},
+		{
+			"AID": {"ua": "Г. К. Чепурних", "en": "G. K. Chepurnykh", "ru": "Г. К. Чепурных"},
+			"OID": [17]
+		},
+		{
+			"AID": {"ua": "С. В. Соколов", "en": "S. V. Sokolov", "ru": "С. В. Соколов"},
+			"OID": [208]
+		}
+	],
+	"references": {
+		"count": 12,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Л. Манделькерн, Кристаллизация полимеров (Москва–Ленинград: Химия: 1966).",
+				"tr":  "L. Mandelkern, Kristallizatsiya Polimerov [Crystallization of Polymers] (Moscow–Leningrad: Khimiya: 1966) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Иногамов, Ю. В. Петров, ЖЭТФ, 137, № 3: 505 (2010).",
+				"tr":  "N. A. Inogamov and Yu. V. Petrov, Zh. Eksp. Teor. Fiz., 137, No. 3: 505 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Инющкин, А. Н. Талденков, ЖЭТФ, 138, № 5: 862 (2010).",
+				"tr":  "A. V. Inyushchkin and A. N. Taldenkov, Zh. Eksp. Teor. Fiz., 138, No. 5: 862 (2010) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.97.227202",
+				"or":  "S. I. Denisov, T. V. Lyutyy, and P. Hünggi, Phys. Rev. Let., 97: 227202 (2006).",
+				"tr":  "S. I. Denisov, T. V. Lyutyy, and P. Hünggi, Phys. Rev. Let., 97: 227202 (2006)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.75.184432",
+				"or":  "S. I. Denisov, K. Sakmann, P. Talner, and P. Hünggi, Phys. Rev. B, 75: 184432 (2007).",
+				"tr":  "S. I. Denisov, K. Sakmann, P. Talner, and P. Hünggi, Phys. Rev. B, 75: 184432 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. П. Булат, И. А. Драпкин, В. В. Каратаев, В. Б. Освенский, Д. А. Пшенай-Северин, Физика твёрдого тела, 52, № 9: 1712 (2010).",
+				"tr":  "L. P. Bulat, I. A. Drapkin, V. V. Karataev, V. B. Osvenskiy, and D. A. Pshenay-Severin, Fizika Tverdogo Tela, 52, No. 9: 1712 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Н. Левин, Б. А. Зон, ЖЭТФ, 111, № 4: 1373 (1997).",
+				"tr":  "M. N. Levin and B. A. Zon, Zh. Eksp. Teor. Fiz., 111, No. 4: 1373 (1997) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. А. Осипьян, Ю. И. Головин, Д. В. Лопатин, Р. Б. Морщинов, С. З. Шмурак, Письма в ЖЭТФ, 69, № 2: 110 (1999).",
+				"tr":  "Yu. A. Osipyan, Yu. I. Golovin, D. V. Lopatin, R. B. Morshchinov, and S. Z. Shmurak, Pis'ma v Zh. Eksp. Teor. Fiz., 69, No. 2: 110 (1999) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.36.12.1641",
+				"or":  "В. Н. Билык, Г. В. Кирик, О. Г. Медведовская, А. Д. Стадник, Г. К. Чепурных, С. В. Соколов, Металлофиз. новейшие технол., 36, № 12: 1641 (2014).",
+				"tr":  "V. N. Bilyk, G. V. Kirik, O. G. Medvedovskaya, A. D. Stadnik, G. K. Chepurnykh, and S. V. Sokolov, Metallofiz. Noveishie Tekhnol., 36, No. 12: 1641 (2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Займан, Электроны и фононы (Москва: Иностранная литература: 1962).",
+				"tr":  "J. M. Ziman, Elektrony i Fonony [Electrons and Phonons] (Moscow: Inostrannaya Literatura: 1962) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Миснар, Теплопроводность твёрдых тел, жидкостей, газов и их композиций (Москва: Мир: 1968).",
+				"tr":  "A. Misnar, Teploprovodnost' Tverdykh Tel, Zhidkostey, Gazov i Ikh Kompozitsiy [Thermal Conductivity of Solids, Liquids, Gases and Their Compositions] (Moscow: Mir: 1968) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Д. Ландау, Е. М. Лифшиц, Статистическая физика (Москва: Наука: 1976), т. 1.",
+				"tr":  "L. D. Landau and E. M. Lifshitz, Statisticheskaya Fizika [Statistical Physics] (Moscow: Nauka: 1976), vol. 1 (in Russian)."
+			}
+		]
+	}
+}

@@ -1,0 +1,97 @@
+{
+	"year":   2018,
+	"volume": 40,
+	"issue":  4,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [423,500],
+			"title": {
+				"ua": "Магнетні властивості нанокомпозитів типу суперпарамагнетне ядро–оболонка",
+				"en": "Magnetic Properties of Nanocomposites of a Superparamagnetic Core–Shell Type",
+				"ru": "Магнитные свойства нанокомпозитов типа суперпарамагнитное ядро–оболочка"
+			},
+			"autors": {
+				"ua": "М. В. Абрамов, С. П. Туранська, П. П. Горбик",
+				"en": "M. V. Abramov, S. P. Turanska, and P. P. Gorbyk",
+				"ru": "Н. В. Абрамов, С. П. Туранская, П. П. Горбик"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [501,514],
+			"title": {
+				"ua": "Вплив ультразвукового оброблення в кульовому млині на фазово-структурні характеристики високодисперсних порошкових сумішей міді з залізом і кобальтом",
+				"en": "Influence of Ultrasonic Processing in a Ball Mill on Phase-Structural Characteristics of Superfine Powder Blends of Copper with Iron and Cobalt",
+				"ru": "Влияние ультразвуковой обработки в шаровой мельнице на фазово-структурные характеристики высокодисперсных порошковых смесей меди с железом и кобальтом"
+			},
+			"autors": {
+				"ua": "В. М. Надутов, А. О. Перекос, Б. М. Мордюк, В. З. Войнаш, Т. В. Єфімова, В. П. Залуцький, Т. Г. Кабанцев",
+				"en": "V. M. Nadutov, A. O. Perekos, B. M. Mordyuk, V. Z. Voinash, T. V. Efimova, V. P. Zalutsky, and T. G. Kabantsev",
+				"ru": "В. М. Надутов, А. Е. Перекос, Б. Н. Мордюк, В. З. Войнаш, Т. В. Ефимова, В. П. Залуцкий, Т. Г. Кабанцев"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [515,527],
+			"title": {
+				"ua": "Вплив нітрокарбонізації в рідкій соляній ванні на механічні властивості слаболеґованих спечених сталей",
+				"en": "Effect of Liquid Salt Bath Nitrocarburizing on Mechanical Properties of Low-Alloy Sintered Steels",
+				"ru": "Влияние нитрокарбонизации в жидкой соляной ванне на механические свойства слаболегированных спечённых сталей"
+			},
+			"autors": {
+				"ua": "С. Серрей, С. Мекaхти, О. Бенчийоб, С. Будбан, М. Фелля, М. З. Туамій",
+				"en": "S. Serrai, S. Mechachti, O. Benchiheub, S. Boudebane, M. Fellah, and M. Z. Touhami",
+				"ru": "С. Серрэй, С. Мекахти, О. Бенчиёб, С. Будбан, М. Фелля, М. З. Туамий"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [529,540],
+			"title": {
+				"ua": "Фотопластичний ефект у вузькощілинних кристалах халькогенідів меркурію",
+				"en": "Photoplastic Effect in Narrow-Gap Mercury Chalcogenide Crystals",
+				"ru": "Фотопластический эффект в узкощелевых кристаллах халькогенидов ртути"
+			},
+			"autors": {
+				"ua": "Б. П. Коман, О. О. Балицький, Д. С. Леонов",
+				"en": "B. P. Koman, O. O. Balitskii, and D. S. Leonov",
+				"ru": "Б. П. Коман, О. О. Балицкий, Д. С. Леонов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [541,550],
+			"title": {
+				"ua": "Створення віброзахисного пристрою для реґулювання динаміки колони стальних бурильних труб і долота",
+				"en": "Creation of the Vibroprotective Device for Adjustment of Dynamics of a Column of Steel Drill Pipes and a Bit",
+				"ru": "Создание виброзащитного устройства для регулирования динамики колонны стальных бурильных труб и долота"
+			},
+			"autors": {
+				"ua": "В. М. Мойсишин, О. О. Слабий",
+				"en": "V. M. Moisyshyn and O. O. Slabyi",
+				"ru": "В. М. Мойсишин, О. О. Слабый"
+			}
+		},		
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [551,560],
+			"title": {
+				"ua": "Структура, фазовий склад переохолодженого аустеніту та кінетика його розпаду в перлітній області температур у хромоманґановому чавуні",
+				"en": "Structure, Phase Composition of Supercooled Austenite, and Kinetics of Its Decomposition in Perlite Temperature Range of Chromium–Manganese Cast Iron",
+				"ru": "Структура, фазовый состав переохлаждённого аустенита и кинетика его распада в перлитной области температур в хромомарганцевом чугуне"
+			},
+			"autors": {
+				"ua": "В. З. Куцова, М. А. Ковзель, П. Ю. Швець, А. В. Гребенева, В. В. Прутчикова",
+				"en": "V. Z. Kutsova, M. A. Kovzel, P. U. Shvets, A. V. Grebeneva, and V. V. Prutchykova",
+				"ru": "В. З. Куцова, М. А. Ковзель, П. Ю. Швец, А. В. Гребенева, В. В. Прутчикова"
+			}
+		}		
+	]
+}

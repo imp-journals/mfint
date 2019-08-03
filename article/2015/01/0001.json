@@ -1,0 +1,41 @@
+{
+	"_id":    "MFiNT.37.0001",
+	"year":   2015,
+	"volume": 37,
+	"issue":  1,
+	"pages":  [1,12],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["26.05.2014"],
+	"PACS":   "44.35.+c, 72.15.Jf, 72.60.+g, 73.50.Jt, 75.20.-g, 75.30.Kz, 75.47.Lx",
+	"title":  {
+		"ua": "Термомагнітні ефекти в просторово неоднорідній системі з комбінованим резистивно-магнітним фазовим переходом першого роду",
+		"en": "Thermomagnetic Effects in Spatially Heterogeneous System with the Combined Resistance—Magnetic Phase Transition of the First Kind",
+		"ru": "Термомагнитные эффекты в пространственно неоднородной системе с комбинированным резистивно-магнитным фазовым переходом первого рода"
+	},
+	"abstract": {
+		"ua": "В статті розглянуто систему з автостабілізацією температури. Її функціональний елемент виконано з манганіту зі структурою перовськіту, в якому спостерігається комбінований резистивно-магнетний фазовий перехід першого роду. Знайдено вираз для температури плівки (функціонального елементу) з урахуванням дисперсії температури фазового переходу. Показано, що температура стабілізується в околі середнього значення температури Кюрі, що вказує на термостабілізаційні властивості системи. Показано, що зовнішнє магнетне поле ефективно впливає на температуру плівки при пропусканні через неї електричного струму.",
+		"en": "The system with temperature autostabilization is examined. The functional element of the system is made of manganite with a perovskite-type structure, for which the combined resistance-magnetic first-order phase transition is observed. The expression for the temperature of film (as a functional element), including dispersion of the phase-transition temperature, is defined. As shown, the temperature is stabilized in the neighbourhood of average value of the Curie temperature, and this indicates thermally stabilized properties of the system. As shown, the external magnetic field effectively influences on the film temperature, when current is passed through the film.",
+		"ru": "В статье рассмотрена система с автостабилизацией температуры. Её функциональный элемент выполнен из манганита со структурой перовскита, в котором наблюдается комбинированный резистивно-магнитный фазовый переход первого рода. Найдено выражение для температуры плёнки (функционального элемента) с учётом дисперсии температуры фазового перехода. Показано, что температура стабилизируется в окрестности среднего значения температуры Кюри, что указывает на термостабилизационные свойства системы. Показано, что внешнее магнитное поле эффективно влияет на температуру плёнки при пропускании через неё электрического тока."
+	},
+	"keywords": {
+		"ua": "манганіти, перовскіт, парамагнетик, фазовий перехід",
+		"en": "manganites, perovskite, paramagnet, phase transition",
+		"ru": "манганиты, перовскит, парамагнетик, фазовый переход"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. І. Джежеря", "en": "Yu. I. Dzhezherya", "ru": "Ю. И. Джежеря"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "А. М. Грищук", "en": "A. N. Gryshchuk", "ru": "А. Н. Грищук"},
+			"OID": [202]
+		}
+	],
+	"references": {
+		"count": 16,
+		"list":  []
+	}
+}

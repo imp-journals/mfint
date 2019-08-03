@@ -1,0 +1,110 @@
+{
+	"_id":    "MFiNT.39.06.0743",
+	"year":   2017,
+	"volume": 39,
+	"issue":  6,
+	"pages":  [743,752],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["31.05.2017"],
+	"PACS":   "64.60.ah, 73.25.+i, 73.50.Mx, 73.61.At, 78.20.Ci, 78.66.Bz, 81.15.Kk",
+	"title":   {
+		"ua": "Перколяційний перехід та оптичні властивості тонких плівок золота",
+		"en": "Percolation Transition and Optical Properties of Thin Films of Gold",
+		"ru": "Перколяционный переход и оптические свойства тонких плёнок золота"
+	},
+	"abstract": {
+		"ua": "Експериментально досліджено поглинання світла у видимому і близькому інфрачервоному діяпазонах довжин хвиль (300–2500 нм) та його зв’язок із перколяційним переходом у тонких плівках золота різних товщин (2–20 нм), а також вплив на ці ефекти підшарів ґерманію масовою товщиною у 0,5 нм. Перколяційний перехід у плівках золота пов’язаний із особливостями механізмів росту та режимів формування плівок на аморфному скляному підложжі. Показано, що попередньо нанесені на скляне підложжя підшари ґерманію зменшують порогову товщину перколяційного переходу в плівках і підвищують їхню поглинальну здатність у порівнянні з аналогічними плівками, сформованими на чистій поверхні скла. Підвищення поглинальної здатности плівок, нанесених на поверхню підшару ґерманію, зумовлено зменшенням середніх лінійних розмірів кристалітів у таких плівках у порівнянні з плівками на чистій поверхні скла і, таким чином, збільшенням кількости розсіювальних центрів на одиниці площі поверхні.",
+		"en": "Optical absorption in the visible and near-infrared wavelength ranges (300–2500 nm) and its connection with percolation transition in gold thin films of different thicknesses (2–20 nm) are experimentally investigated as well as the influence of germanium sublayers with thickness of 0.5 nm on these effects. As shown, the percolation in thin films depends on growth mechanisms and modes of films’ formation on the amorphous glass substrate. The predeposition of germanium sublayers on the glass substrate reduces the threshold thickness of percolation and increases absorption capacity of investigated films in comparison with similar ones deposited on the clean glass surface. Such a behaviour of films deposited on germanium sublayers is caused by the decrease of crystallites’ average linear sizes and, therefore, by the increase of scattering-centres’ concentration on the substrate surface in contrast to films deposited on the clean glass substrate.",
+		"ru": "Экспериментально исследованы поглощение света в видимом и ближнем инфракрасном диапазонах длин волн (300–2500 нм) и его связь с перколяционным переходом в тонких плёнках золота различных толщин (2–20 нм), а также влияние на эти эффекты подслоёв германия массовой толщиной 0,5 нм. Перколяционный переход в плёнках золота связан с особенностями механизмов роста и режимов формирования плёнок на аморфной стеклянной подложке. Показано, что предварительно нанесённые на стеклянную подложку подслои германия уменьшают пороговую толщину перколяционного перехода плёнок золота и увеличивают их поглощающую способность по сравнению с аналогичными плёнками, сформированными на чистой поверхности стекла. Рост поглощающей способности плёнок, нанесённых на поверхность подслоя германия, обусловлен уменьшением средних линейных размеров кристаллитов в таких плёнках по сравнению с плёнками на чистой поверхности стекла и, таким образом, увеличением количества рассеивающих центров на единице площади поверхности."
+	},
+	"keywords": {
+		"ua": "тонкі металеві плівки, напівпровідникові підшари субатомової товщини, поглинання світла, перколяція",
+		"en": "metal thin film, semiconductor sublayers of subatomic thickness, optical absorption, percolation",
+		"ru": "тонкие металлические плёнки, полупроводниковые подслои субатомной толщины, поглощение света, перколяция"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Р. І. Бігун", "en": "R. I. Bihun", "ru": "Р. И. Бигун"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "З. В. Стасюк", "en": "Z. V. Stasyuk", "ru": "З. В. Стасюк"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "О. В. Строганов", "en": "O. V. Stroganov", "ru": "О. В. Строганов"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "Д. С. Леонов", "en": "D. S. Leonov", "ru": "Д. С. Леонов"},
+			"OID": [16]
+		}
+	],
+	"references": {
+		"count": 12,
+		"list":  [
+			{
+				"doi": "10.1016/j.phpro.2012.03.510",
+				"or":  "A. Axelevitch, B. Gorenstein, and G. Golan, Physics Procedia, 32: 1 (2012).",
+				"tr":  "A. Axelevitch, B. Gorenstein, and G. Golan, Physics Procedia, 32: 1 (2012)."
+			},
+			{
+				"doi": "10.1080/00107519108213805",
+				"or":  "P. Smilauer, Contemporary Physics, 32, No. 2: 89 (1991).",
+				"tr":  "P. Smilauer, Contemporary Physics, 32, No. 2: 89 (1991)."
+			},
+			{
+				"doi": "10.1364/OE.14.001541",
+				"or":  "S. Ding, X. Wang, D. J. Chen, and Q. Q. Wang, Optics Express, 14, No. 4: 1541 (2006).",
+				"tr":  "S. Ding, X. Wang, D. J. Chen, and Q. Q. Wang, Optics Express, 14, No. 4: 1541 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. І. Бігун, З. В. Стасюк, О. В. Строганов, В. М. Гаврилюх, Д. С. Леонов, Наносистеми, наноматеріали, нанотехнології, 13, вип. 3: 459 (2015).",
+				"tr":  "R. I. Bihun, Z. V Stasyuk, O. V. Stroganov, V. M. Gavrylyukh, and D. S. Leonov, Nanosistemi, Nanomateriali, Nanotehnologii, 13, Iss. 3: 459 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. V. Dukarov, S. I. Petrushenko, V. N. Sukhov, and I. G. Churilov, Problems of Atomic Science and Technology, 89, No. 1: 110 (2014).",
+				"tr":  "S. V. Dukarov, S. I. Petrushenko, V. N. Sukhov, and I. G. Churilov, Problems of Atomic Science and Technology, 89, No. 1: 110 (2014)."
+			},
+			{
+				"doi": "10.1364/AO.41.003053",
+				"or":  "N. Kaiser, Applied Optics, 41, No. 16: 3053 (2002).",
+				"tr":  "N. Kaiser, Applied Optics, 41, No. 16: 3053 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Т. Гладких, С. В. Дукаров, В. Н. Сухов, Физика металлов и металловедение, 78, № 3: 87 (1994).",
+				"tr":  "N. T. Gladkikh, S. V. Dukarov, and V. N. Sukhov, Fizika Metallov i Metallovedenie, 78, No. 3: 87 (1994) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Петрушенко, С. В. Дукаров, В. Н. Сухов, И. Г. Чурилов, Журнал нано- та електронної фізики, 7, № 2: 02033 (2015).",
+				"tr":  "S. I. Petrushenko, S. V. Dukarov, V. N. Sukhov, and I. G. Churilov, Journal Nano- and Electronic Physics, 7, No. 2: 02033 (2015)."
+			},
+			{
+				"doi": "10.15407/mfint.37.03.0317",
+				"or":  "Р. І. Бігун, В. М. Гаврилюх, З. В. Стасюк, Д. С. Леонов, Металлофиз. новейшие технол., 37, № 3: 317 (2015).",
+				"tr":  "R. I. Bigun, V. M. Gavrylyukh, Z. V. Stasyuk, and D. S. Leonov, Metallofiz. Noveishie Tekhnol., 37, No. 3: 317 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1088/2040-8978/14/10/105701",
+				"or":  "M. Cesaria, A. P. Caricato, and M. Martino, J. Opt., 14: 1057011 (2012).",
+				"tr":  "M. Cesaria, A. P. Caricato, and M. Martino, J. Opt., 14: 1057011 (2012)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2007.02.017",
+				"or":  "S. Xilian, H. Ruijin, H. Haihong, F. Zhengxio, and S. Jianda, Thin Solid Films, 515: 6962 (2007).",
+				"tr":  "S. Xilian, H. Ruijin, H. Haihong, F. Zhengxio, and S. Jianda, Thin Solid Films, 515: 6962 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.58.7347",
+				"or":  "K. L. Ekinci and J. M. Valles, Phys. Rev. B, 58, No. 11: 7347 (1998).",
+				"tr":  "K. L. Ekinci and J. M. Valles, Phys. Rev. B, 58, No. 11: 7347 (1998)."
+			}
+		]
+	}
+}

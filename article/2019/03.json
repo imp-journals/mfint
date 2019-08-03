@@ -1,0 +1,157 @@
+{
+	"year":   2019,
+	"volume": 41,
+	"issue":  3,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [279,288],
+			"title": {
+				"ua": "Фазові діаграми урану та його сполук. I. Дестабілізація оболонок йона в металі. Квантова теорія",
+				"en": "Phase Diagrams of Uranium and Its Compounds. I. Destabilization of Ion Shells in Metal. The Quantum Theory",
+				"ru": "Фазовые диаграммы урана и его соединений. I. Дестабилизация оболочек иона в металле. Квантовая теория"
+			},
+			"autors": {
+				"ua": "О. І. Міцек, В. М. Пушкар",
+				"en": "O. I. Mitsek and V. M. Pushkar",
+				"ru": "А. И. Мицек, В. Н. Пушкарь"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [289,286],
+			"title": {
+				"ua": "Електрофізичні характеристики полімерних нанокомпозитів «ферит/вуглецеві нанотрубки, модифіковані йодидом міді»",
+				"en": "Electrophysical Properties of Polymeric Nanocomposites Based on Ferrite/Carbon Nanotube/Copper Iodide",
+				"ru": "Электрофизические характеристики полимерных нанокомпозитов «феррит/углеродные нанотрубки, модифированные иодидом меди»"
+			},
+			"autors": {
+				"ua": "Р. В. Мазуренко, С. Л. Прокопенко, О. І. Оранська, Г. М. Гуня, С. М. Махно, П. П. Горбик",
+				"en": "R. V. Mazurenko, S. L. Prokopenko, O. I. Oranska, G. M. Gunya, S. M. Makhno, and P. P. Gorbyk",
+				"ru": "Р. В. Мазуренко, С. Л. Прокопенко, Е. И. Оранская, Г. М. Гуня, С. Н. Махно, П. П. Горбик"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [297,311],
+			"title": {
+				"ua": "Нанорельєф шарів Cu та Au після їх термічного нанесення на поверхні монокристалів InSe та GaSe",
+				"en": "Nanorelief of Cu and Au Layers after Their Thermal Deposition on the InSe and GaSe Single Crystals Surfaces",
+				"ru": "Нанорельеф слоёв Cu и Au после их термического нанесения на поверхности монокристаллов InSe и GaSe"
+			},
+			"autors": {
+				"ua": "Л. І. Карбівська, В. Л. Карбівський, В. А. Артемюк, З. Д. Ковалюк, О. Я. Кузнєцова, С. С. Смоляк, А. И. Соболев, В. В. Стоніс",
+				"en": "L. І. Karbivska, V. L. Karbivskii, V. A. Artemyuk, Z. D. Kovalyuk, О. Ya. Kuznetsova, S. S. Smolyak, A. I. Sobolev, and V. V. Stonis",
+				"ru": "Л. И. Карбовская, В. Л. Карбовский, В. А. Артемюк, З. Д. Ковалюк, Е. Я. Кузнецова, С. С. Смоляк, А. И. Соболев, В. В. Стонис"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [313,335],
+			"title": {
+				"ua": "Підвищення якості поверхневих електроерозійно-легованих шарів комбінованими покриттями та поверхневим пластичним деформуванням. III. Вплив основних технологічних параметрів на мікрогеометрію, структуру та властивості електроерозійних покриттів",
+				"en": "Improvement of Quality of the Surface Electroerosive Alloyed Layers by the Combined Coatings and the Surface Plastic Deformation. III. The Influence of the Main Technological Parameters on Microgeometry, Structure and Properties of Electrolytic Erosion Coatings",
+				"ru": "Повышение качества поверхностных электроэрозионно-легированных слоёв комбинированными покрытиями и поверхностным пластическим деформированием. ІІІ. Влияние основных технологических параметров на микрогеометрию, структуру и свойства электроэрозионных покрытий"
+			},
+			"autors": {
+				"ua": "В. Б. Тарельник, О. П. Гапонова, Є. В. Коноплянченко, В. С. Марцинковський, Н. В. Тарельник, О. О. Василенко",
+				"en": "V. B. Tarelnyk, O. P. Gaponova, Ye. V. Konoplianchenko, V. S. Martsynkovskyy, N. V. Tarelnyk, and O. O. Vasylenko",
+				"ru": "В. Б. Тарельник, О. П. Гапонова, Е. В. Коноплянченко, В. С. Марцинковский, Н. В. Тарельник, О. А. Василенко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [337,247],
+			"title": {
+				"ua": "Контактна витривалість та зносостійкість боридних покриттів при терті кочення",
+				"en": "Contact Resistance and Durability of Boride Coats at Rolling Friction",
+				"ru": "Контактная выносливость и износостойкость боридных покрытий при трении качения"
+			},
+			"autors": {
+				"ua": "С. М. Чернега, П. В. Каплун, В. А. Гончар",
+				"en": "S. M. Cherneha, P. V. Kaplun, and V. A. Honchar",
+				"ru": "С. М. Чернега, П. В. Каплун, В. А. Гончар"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [349,362],
+			"title": {
+				"ua": "Оптико-математичний аналіз моделювання структуризації зміцнених поверхонь поршневих кілець при експлуатації",
+				"en": "Optical-Mathematical Analysis of Structuration Modeling of Hardened Surfaces of Piston Rings during Operation",
+				"ru": "Оптико-математический анализ моделирования структуризации упрочнённых поверхностей поршневых колец при эксплуатации"
+			},
+			"autors": {
+				"ua": "Т. С. Скобло, О. І. Сидашенко, І. Є. Гаркуша, В. С. Таран, Р. М. Муратов, Т. В. Мальцев",
+				"en": "T. S. Skoblo, A. I. Sidashenko, I. E. Garkusha, V. S. Taran, R. M. Muratov, and T. V. Mal’tsev",
+				"ru": "Т. С. Скобло, А. И. Сидашенко, И. Е. Гаркуша, В. С. Таран, Р. М. Муратов, Т. В. Мальцев"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  15,
+			"pages":  [363,374],
+			"title": {
+				"ua": "Формування структури литих біосумісних стопів системи Ti–Nb–Si",
+				"en": "Structure Formation of as Cast Biocompatible Alloys of the Ti–Nb–Si System",
+				"ru": "Формирование структуры литых биосовместимых сплавов системы Ti–Nb–Si"
+			},
+			"autors": {
+				"ua": "О. М. Шевченко, Л. Д. Кулак, М. М. Кузьменко, С. О. Фірстов",
+				"en": "О. М. Shevchenko, L. D. Kulak, M. M. Kuzmenkо, and S. O. Firstov",
+				"ru": "О. М. Шевченко, Л. Д. Кулак, Н. Н. Кузьменко, С. А. Фирстов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  2,
+			"pages":  [375,388],
+			"title": {
+				"ua": "Рішення прямих і обернених задач розсіяння для неоднорідних некристалічних об’єктів в аналізаторі зображень",
+				"en": "Solving of Direct and Inverse Scattering Problems for Heterogeneous Non-Crystalline Objects in Analyzer-Based Imaging",
+				"ru": "Решение прямых и обратных задач рассеяния для неоднородных некристаллических объектов в анализаторе изображений"
+			},
+			"autors": {
+				"ua": "Г. О. Веліховський, В. Б. Молодкін, В. В. Лізунов, Т. П. Владімірова, С. В. Лізунова, Я. В. Василик, М. П. Куліш, О. П. Дмитренко, О. Л. Павленко, Ю. В. Давидова",
+				"en": "G. O. Velikhovskyi, V. B. Molodkin, V. V. Lizunov, T. P. Vladimirova, S. V. Lizunova, Ya. V. Vasylyk, M. P. Kulish, O. P. Dmytrenko, O. L. Pavlenko, and Iu. V. Davydova",
+				"ru": "Г. О. Велиховский, В. Б. Молодкин, В. В. Лизунов, Т. П. Владимирова, С. В. Лизунова, Я. В. Василик, Н. П. Кулиш, О. П. Дмитренко, Е. Л. Павленко, Ю. В. Давыдова"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  2,
+			"pages":  [389,402],
+			"title": {
+				"ua": "Аналіз рентґенівського муарового зображення деформованих кристалів за радіальним розподілом енергетичного спектру Фур’є",
+				"en": "Analysis of Moiré X-Ray Images of Deformed Crystals Using Radial Distribution of the Fourier Energy Spectrum",
+				"ru": "Анализ рентгеновских муаровых изображений деформированных кристаллов по радиальным распределениям энергетического спектра Фурье"
+			},
+			"autors": {
+				"ua": "С. В. Баловсяк, С. М. Новіков, І. М. Фодчук, І. В. Яремчук",
+				"en": "S. V. Balovsyak, S. M. Novikov, I. M. Fodchuk, and I. V. Yaremchuk",
+				"ru": "С. В. Баловсяк, С. Н. Новиков, И. М. Фодчук, И. В. Яремчук"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  2,
+			"pages":  [403,415],
+			"title": {
+				"ua": "Визначення величини локальних деформацій та їх анізотропії в полікристалічному Ge за даними дифракції зворотно розсіяних електронів",
+				"en": "Determination of Local Deformations and Their Anisotropy in Polycrystalline Ge by Electron Backscatter Diffraction Data",
+				"ru": "Определение величины локальных деформаций и их анизотропии в поликристаллическом Ge по данным дифракции обратно рассеянных электронов"
+			},
+			"autors": {
+				"ua": "І. М. Фодчук, М. С. Солодкий, М. Д. Борча, С. В. Баловсяк, В. М. Ткач",
+				"en": "I. M. Fodchuk, M. S. Solodkyi, M. D. Borcha, S. V. Balovsyak, and V. M. Tkach",
+				"ru": "И. М. Фодчук, Н. С. Солодкий, М. Д. Борча, С. В. Баловсяк, В. М. Ткач"
+			}
+		}
+	]
+}

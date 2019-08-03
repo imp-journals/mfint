@@ -1,0 +1,113 @@
+{
+	"_id":    "MFiNT.39.06.0753",
+	"year":   2017,
+	"volume": 39,
+	"issue":  6,
+	"pages":  [753,765],
+	"rubric": 2,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["19.05.2017"],
+	"PACS":   "61.05.C-, 61.72.Dd, 68.49.Uv, 68.65.Ac, 81.70.Fy",
+	"title":   {
+		"ua": "Фізична природа та методичні основи діягностики з використанням ефекту асиметрії азимутальної залежности повної інтеґральної інтенсивности динамічної дифракції Рентґенових променів у кристалах з порушеним поверхневим шаром",
+		"en": "The Physical Nature and Methodological Grounds of Diagnostics with Use of Effect of Asymmetry of Azimuthal Dependence of the Total Integrated Intensity of a Dynamical X-Ray Diffraction in Crystals with the Disturbed Surface Layer",
+		"ru": "Физическая природа и методические основы диагностики с использованием эффекта асимметрии азимутальной зависимости полной интегральной интенсивности динамической дифракции рентгеновских лучей в кристаллах с нарушенным поверхностным слоем"
+	},
+	"abstract": {
+		"ua": "Проведено детальну аналізу фізичної природи та розроблено методичні основи діягностики з використанням встановленого авторами ефекту асиметрії азимутальної залежности повної інтеґральної інтенсивности динамічної дифракції Рентґенових променів, нормованої на азимутальну залежність інтеґральної інтенсивности динамічної дифракції ідеального кристалу. Із врахуванням того, що ця асиметрія з’являється за рахунок інтерференції променів, які дифрагують у шарах, що розсіюють кінематично й динамічно, та збільшується зі збільшенням товщини шару, що розсіює кінематично, створено і реалізовано практично основи неруйнівного методу експериментального визначення товщин таких шарів.",
+		"en": "Detailed analysis of physical nature is carried out and methodological grounds are developed for diagnostics with using discovered by authors effect of asymmetry of azimuthal dependence (AD) of total integrated intensity of dynamical diffraction (TIIDD) of x-rays normalized to the perfect-crystal TIIDD AD. Allowing for this asymmetry appeared due to interference of beams diffracted in both kinematically and dynamically scattered layers and increased with increasing of kinematically scattered-layer thickness, the practical grounds of non-destructive methods for experimental determination of layer thickness are developed.",
+		"ru": "Проведён детальный анализ физической природы и разработаны методические основы диагностики с использованием обнаруженного авторами эффекта асимметрии азимутальной зависимости полной интегральной интенсивности динамической дифракции рентгеновских лучей, нормированной на азимутальную зависимость интегральной интенсивности динамической дифракции идеального кристалла. С учётом того, что эта асимметрия появляется за счёт интерференции лучей, дифрагированных в кинематически и динамически рассеивающих слоях, и растёт с увеличением толщины кинематически рассеивающего слоя, созданы и реализованы практически основы неразрушающего метода экспериментального определения толщин таких слоёв."
+	},
+	"keywords": {
+		"ua": "динамічна дифракція, азимутальна залежність, повна інтеґральна інтенсивність, порушений поверхневий шар",
+		"en": "dynamical diffraction, azimuthal dependence, total integrated intensity, disturbed surface layer (DSL)",
+		"ru": "динамическая дифракция, азимутальная зависимость, полная интегральная интенсивность, нарушенный поверхностный слой"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Б. Молодкін", "en": "V. B. Molodkin", "ru": "В. Б. Молодкин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Г. І. Низкова", "en": "A. I. Nizkova", "ru": "А. И. Низкова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Є. І. Богданов", "en": "E. I. Bogdanov", "ru": "Е. И. Богданов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. В. Лізунов", "en": "V. V. Lizunov", "ru": "В. В. Лизунов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. Г. Толмачев", "en": "N. G. Tolmachev", "ru": "Н. Г. Толмачев"},
+			"OID": [192]
+		},
+		{
+			"AID": {"ua": "С. В. Дмітрієв", "en": "S. V. Dmitriev", "ru": "С. В. Дмитриев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Я. В. Василик", "en": "Y. V. Vasylyk", "ru": "Я. В. Василик"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. В. Лізунова", "en": "S. V. Lizunova", "ru": "С. В. Лизунова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. Г. Карпов", "en": "A. G. Karpov", "ru": "А. Г. Карпов"},
+			"OID": [192]
+		},
+		{
+			"AID": {"ua": "О. Г. Войток", "en": "O. G. Voitok", "ru": "О. Г. Войток"},
+			"OID": [192]
+		},
+		{
+			"AID": {"ua": "В. П. Почекуєв", "en": "V. P. Pochekuev", "ru": "В. П. Почекуев"},
+			"OID": [192]
+		}
+	],
+	"references": {
+		"count": 7,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, А. И. Низкова, С. И. Олиховский, В. Ф. Мазанко, Е. И. Богданов, С. Е. Богданов, А. И. Гранкина, М. Т. Когут, В. П. Кривицкий, Ю. Н. Прасолов, Металлофиз. новейшие технол., 24, № 4: 521 (2002).",
+				"tr":  "V. B. Molodkin, A. I. Nizkova, S. I. Olikhovskii, V. F. Mazanko, E. I. Bogdanov, S. E. Bogdanov, A. I. Grankina, M. T. Kogut, V. P. Krivitskiy, and Yu. N. Prasolov, Metallofiz. Noveishie Tekhnol., 24, No. 4: 521 (2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, М. В. Ковальчук, В. Б. Молодкин, В. Л. Носик, В. Ф. Мачулин, С. И. Олиховский, А. И. Низкова, С. В. Дмитриев, А. А. Белоцкая, Е. И. Богданов, Я. В. Василик, А. И. Гранкина, М. Т. Когут, В. В. Молодкин, Е. В. Первак, И. И. Рудницкая, Металлофиз. новейшие технол., 32, № 10: 1301 (2010).",
+				"tr":  "A. P. Shpak, M. V. Koval'chuk, V. B. Molodkin, V. L. Nosik, V. F. Machulin, S. I. Olikhovskii, A. I. Nizkova, S. V. Dmitriev, A. A. Belotskaya, E. I. Bogdanov, Ya. V. Vasilik, A. I. Grankina, M. T. Kogut, V. V. Molodkin, E. V. Pervak, and I. I. Rudnitskaya, Metallofiz. Noveishie Tekhnol., 32, No. 10: 1301 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Низкова, Динамические эффекты в интегральной рентгеновской дифрактометрии неидеальных кристаллов (Автореферат дисс. ... д-ра физ.-мат. наук) (Киев: Институт металлофизики им. Г. В. Курдюмова НАН Украины: 2004).",
+				"tr":  "A. I. Nizkova, Dinamicheskie Effekty v Integral'noy Rentgenovskoy Difraktometrii Neideal'nykh Kristallov [Dynamical Effects of the Integral X-Ray Diffractometry in Nonideal Crystals] (Thesis of Disser. ... for Dr. Phys.-Math. Sci.) (Kyiv: G. V. Kurdyumov Institute for Metal Physics, N.A.S. of Ukraine: 2004) (in Russian)."
+			},
+			{
+				"doi": "10.1007/978-3-642-74291-0",
+				"or":  "M. A. Krivoglaz, X-Ray and Neutron Diffraction in Nonideal Crystals (Berlin: Springer: 1996).",
+				"tr":  "M. A. Krivoglaz, X-Ray and Neutron Diffraction in Nonideal Crystals (Berlin: Springer: 1996)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Дмитриев, Динамическая теория экстинкционных эффектов диффузного рассеяния (Дисс. ... канд. физ.-мат. наук) (Киев: Институт металлофизики им. Г. В. Курдюмова НАН Украины: 2006).",
+				"tr":  "S. V. Dmitriev, Dinamicheskaya Teoriya Ekstinktsionnykh Effektov Diffuznogo Rasseyaniya [Dynamical Theory of Extinction Effects of Diffuse Scattering] (Disser. ... for Cand. Phys.-Math. Sci.) (Kyiv: G. V. Kurdyumov Institute for Metal Physics, N.A.S. of Ukraine: 2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Барьяхтар, А. Н. Гуреев, В. В. Кочелаб, В. Б. Молодкин и др., Металлофизика, 11, № 3: 73 (1989).",
+				"tr":  "V. G. Bar'yakhtar, A. N. Gureev, V. V. Kochelab, V. B. Molodkin et al., Metallofizika, 11, No. 3: 73 (1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Барьяхтар, Е. Н. Гаврилова, В. Б. Молодкин, С. И. Олиховский, Металлофизика, 14, № 11: 68 (1992).",
+				"tr":  "V. G. Bar'yakhtar, E. N. Gavrilova, V. B. Molodkin, and S. I. Olikhovskii, Metallofizika, 14, No. 11: 68 (1992) (in Russian)."
+			}
+		]
+	}
+}

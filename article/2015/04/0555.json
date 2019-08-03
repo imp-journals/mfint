@@ -1,0 +1,37 @@
+{
+	"_id":    "MFiNT.37.0555",
+	"year":   2015,
+	"volume": 37,
+	"issue":  4,
+	"pages":  [555,558],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["11.03.2015"],
+	"PACS":   "61.05.cc, 61.05.cf, 61.05.cp, 61.72.Bb, 61.72.Qq",
+	"title":  {
+		"ua": "Статичний фактор Дебая—Валлера—Кривоглаза для сферичних частинок нової фази",
+		"en": "Static Krivoglaz—Debye—Waller Factor for Spherical New-Phase Particles",
+		"ru": "Статический фактор Дебая—Валлера—Кривоглаза для сферических частиц новой фазы"
+	},
+	"abstract": {
+		"ua": "Виведено явний аналітичний вираз для статичного фактора Кривоглаза— Дебая—Валлера у випадку сферичних аморфних кластерів або частинок нової фази. Одержано прості наближені формули в граничних випадках слабких і сильних статичних спотворень навколо цих дефектів.",
+		"en": "The explicit analytical expression for the static Krivoglaz—Debye—Waller factor is derived in the case of spherical amorphous clusters or new-phase particles. The simple approximate formulas are obtained in limiting cases of both small static distortions and large ones around the defects.",
+		"ru": "Выведено явное аналитическое выражение для статического фактора Кривоглаза—Дебая—Валлера в случае сферических аморфных кластеров или частиц новой фазы. Получены простые приближенные формулы в предельных случаях слабых и сильных статических искажений вокруг этих дефектов."
+	},
+	"keywords": {
+		"ua": "рентгенівська дифракція, статичний фактор Кривоглаза— Дебая—Валлера, аморфні кластери, частинки нової фази",
+		"en": "X-ray diffraction, static Krivoglaz—Debye—Waller factor, amorphous clusters, new phase particles",
+		"ru": "ренгеновская дифракция, статический фактор Кривоглаза—Дебая—Валлера, аморфные кластеры, частицы новой фазы"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. С. Скакунова", "en": "O. S. Skakunova", "ru": "Е. С. Скакунова"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 3,
+		"list":  []
+	}
+}

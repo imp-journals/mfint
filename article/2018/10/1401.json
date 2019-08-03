@@ -1,0 +1,117 @@
+{
+	"_id":    "MFiNT.40.10.1401",
+	"year":   2018,
+	"volume": 40,
+	"issue":  10,
+	"pages":  [1401,1413],
+	"rubric": 1,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["19.04.2018"],
+	"PACS":   "61.05.cf, 61.43.Bn, 61.43.Dq, 68.55.J-, 81.05.Bx, 81.07.Bc, 81.15.Pq",
+	"title":   {
+		"ua": "Близький порядок у стопах Cr–C, електроосаджених імпульсним струмом",
+		"en": "The Short-Range Order in Cr–C Alloys Electrodeposited by a Pulsed Current",
+		"ru": "Ближний порядок в сплавах Cr–C, электроосаждённых импульсным током"
+	},
+	"abstract": {
+		"ua": "Методами рентґенівської аналізи вивчено близький порядок в аморфних стопах Сr–C, електроосаджених імпульсним струмом. Встановлено, що в аморфному стані області стопів з близьким порядком характеризуються впорядкованим розміщенням атомів, подібним до ОЦК-структури.",
+		"en": "The methods of X-ray analysis are used for investigation of short-range ordering of amorphous Сr–C alloys electrodeposited with pulse current. As determined, the short-range ordered areas of alloys in amorphous state are characterised by the atoms’ arrangement similar to b.c.c. structure.",
+		"ru": "Методами рентгеновского анализа изучен ближний порядок в аморфных сплавах Cr–C, электроосаждённых импульсным током. Установлено, что в аморфном состоянии области сплавов с ближним порядком характеризуются упорядоченным расположением атомов, подобным ОЦК-структуре."
+	},
+	"keywords": {
+		"ua": "аморфний і мікрокристалічний стани, близький порядок, області впорядкованого розташування атомів",
+		"en": "amorphous and microcrystalline phases, short-range order, areas of the ordered arrangement of atoms",
+		"ru": "аморфное и микрокристаллическое состояния, ближний порядок, области упорядоченного расположения атомов"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. М. Гулівець", "en": "O. M. Gulivets", "ru": "А. Н. Гуливец"},
+			"OID": [226]
+		},
+		{
+			"AID": {"ua": "О. С. Баскевич", "en": "O. S. Baskevych", "ru": "А. С. Баскевич"},
+			"OID": [224]
+		}
+	],
+	"references": {
+		"count": 15,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "А. Ф. Скрышевский, Структурный анализ жидкостей и аморфных тел (Москва: Высшая школа: 1980).",
+				"tr":  "A. F. Skryshevskiy, Strukturnyy Analiz Zhidkostey i Amorfnykh Tel [Structural Analysis of Liquids and Amorphous Solids] (Moscow: Vysshaya Shkola: 1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Немошкаленко, А. В. Романова, А. Г. Ильинский, Аморфные металлические сплавы (Киев: Наукова думка: 1987).",
+				"tr":  "V. V. Nemoshkalenko, A. V. Romanova, and A. G. I'inskiy, Amorfnye Metallicheskie Splavy [Amorphous Metal Alloys] (Kiev: Naukova Dumka: 1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. N. Gulivets, V. A. Zabludovskii, A. S. Baskevich, and R. F. Ganitch, Phys. Met. Metallogr., 99, No. 5: 504 (2005).",
+				"tr":  "A. N. Gulivets, V. A. Zabludovskii, A. S. Baskevich, and R. F. Ganitch, Phys. Met. Metallogr., 99, No. 5: 504 (2005)."
+			},
+			{
+				"doi": "10.1063/1.323173",
+				"or":  "F. E. Luborsky and J. L. Walter, J. Appl. Phys., 47, Iss. 8: 3648 (1976).",
+				"tr":  "F. E. Luborsky and J. L. Walter, J. Appl. Phys., 47, Iss. 8: 3648 (1976)."
+			},
+			{
+				"doi": "10.1016/0022-3093(79)90073-5",
+				"or":  "P. H. Gaskell, J. Non-Cryst. Solids, 32, Iss. 1–3: 207 (1979).",
+				"tr":  "P. H. Gaskell, J. Non-Cryst. Solids, 32, Iss. 1–3: 207 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Шуберт, Кристаллические структуры двухкомпонентных фаз (Москва: Металлургия: 1970).",
+				"tr":  "K. Shubert, Kristallicheskie Struktury Dvukhkomponentnykh Faz [Crystal Structures of Two-Component Phases] (Moscow: Metallurgiya: 1970) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0079-6425(81)90003-7",
+				"or":  "Y. Waseda, Prog. Mater. Sci., 26, Iss. 1: 1 (1981).",
+				"tr":  "Y. Waseda, Prog. Mater. Sci., 26, Iss. 1: 1 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "O. S. Baskevich, O. M. Gulivetz, and V. O. Zabludovsky, Ukr. J. Phys., 49, No. 12: 1196 (2004).",
+				"tr":  "O. S. Baskevich, O. M. Gulivetz, and V. O. Zabludovsky, Ukr. J. Phys., 49, No. 12: 1196 (2004)."
+			},
+			{
+				"doi": "10.1002/pssa.2210190237",
+				"or":  "T. Ichikawa, phys. status solidi (a), 19, Iss. 2: 707 (1973).",
+				"tr":  "T. Ichikawa, phys. status solidi (a), 19, Iss. 2: 707 (1973)."
+			},
+			{
+				"doi": "10.1016/0095-8522(66)90078-X",
+				"or":  "O. Kratky, I. Pilz, and P. J. Schmidt, J. Colloid Interface Sci., 21, Iss. 1: 24 (1966).",
+				"tr":  "O. Kratky, I. Pilz, and P. J. Schmidt, J. Colloid Interface Sci., 21, Iss. 1: 24 (1966)."
+			},
+			{
+				"doi": "10.1080/00202967.2001.11871396",
+				"or":  "V. A. Zabludovsky, E. Ph. Shtapenko, A. N. Gulivets, A. S. Baskevich, and R. Ph. Ganitch, Trans. Inst. Met. Finish., 79, Iss. 6: 207 (2001).",
+				"tr":  "V. A. Zabludovsky, E. Ph. Shtapenko, A. N. Gulivets, A. S. Baskevich, and R. Ph. Ganitch, Trans. Inst. Met. Finish., 79, Iss. 6: 207 (2001)."
+			},
+			{
+				"doi": "10.1080/00202967.2004.11871580",
+				"or":  "A. N. Gulivets, V. A. Zabludovsky, A. S. Baskevich, E. Ph. Shtapenko, and R. Ph. Ganitch, Trans. Inst. Met. Finish., 82, Iss. 5–6: 144 (2004).",
+				"tr":  "A. N. Gulivets, V. A. Zabludovsky, A. S. Baskevich, E. Ph. Shtapenko, and R. Ph. Ganitch, Trans. Inst. Met. Finish., 82, Iss. 5–6: 144 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "A. N. Gulivets, A. S. Baskevich, and V. A. Zabludovskii, Phys. Met. Metallogr., 98, No. 2: 169 (2004).",
+				"tr":  "A. N. Gulivets, A. S. Baskevich, and V. A. Zabludovskii, Phys. Met. Metallogr., 98, No. 2: 169 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "А. С. Баскевич, А. Н. Гуливец, В. А. Заблудовский, Металлофиз. новейшие технол., 26, № 9: 1151 (2004).",
+				"tr":  "O. S. Baskevych, O. M. Gulyvets', and V. O. Zabludovs'ky, Metallofiz. Noveishie Tekhnol., 26, No. 9: 1151 (2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Чернов, И. Е. Гиваргизов, Х. С. Багдасаров, Современная кристаллография (Москва: Наука: 1980), т. 3.",
+				"tr":  "A. A. Chernov, I. E. Givargizov, and H. S. Bagdasarov, Sovremennaya Kristallografiya [Modern Crystallography] (Moscow: Nauka: 1980), vol. 3 (in Russian)."
+			}
+		]
+	}
+}

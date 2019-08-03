@@ -1,0 +1,156 @@
+{
+	"_id":    "MFiNT.40.03.0397",
+	"year":   2018,
+	"volume": 40,
+	"issue":  3,
+	"pages":  [397,409],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["17.11.2017"],
+	"PACS":   "61.05.cp, 62.20.Qp, 62.23.Pq, 68.37.Hk, 81.16.Rf, 81.40.Pq, 81.65.Kn",
+	"title":   {
+		"ua": "Вплив наночастинок TiO$_2$ на характер зношування та корозії поверхневого композиту AA6063, приготованого за допомогою оброблення тертям з перемішуванням",
+		"en": "Effect of Nano-TiO$_2$ Particles on Wear and Corrosion Behaviour of AA6063 Surface Composite Fabricated by Friction Stir Processing",
+		"ru": "Влияние наночастиц TiO$_2$ на характер изнашивания и коррозии поверхностного композита AA6063, изготовленного с помощью обработки трением с перемешиванием"
+	},
+	"abstract": {
+		"ua": "Досліджено вплив наночастинок TiO$_2$ на характер зношування та корозії поверхневих нанокомпозитів стопу AA6063, одержаних за допомогою оброблення тертям з перемішуванням. Проведено аналізу одержаних поверхневих нанокомпозитів методою сканувальної електронної мікроскопії та встановлено, що наночастинки TiO$_2$ рівномірно розподілені в зоні перемішування. Для характеризації поверхневих нанокомпозитів було використано випробування на твердість, зносостійкість і корозійну стійкість. Показано, що мікротвердість підвищується у порівнянні зі стопом AA6063 завдяки наявності наночастинок TiO$_2$. Оброблені методою тертя з перемішуванням поверхневі нанокомпозити мають низький коефіцієнт тертя, відмінну зносостійкість й адекватну корозійну стійкість при 40 мм/хв. у порівнянні зі стопом у литому стані.",
+		"en": "In this investigation, the effect of nano-TiO$_2$ particles on wear and corrosion behaviour of AA6063 surface nanocomposites produced $via$ friction stir processing (FSP) was studied. Microstructure analysis of fabricated surface nanocomposites was done with scanning electron microscope and found that TiO$_2$ nanoparticles are uniformly dispersed in the stir zone. The surface nanocomposites were characterized by hardness, wear and corrosion tests. The results revealed that the microhardness increases due to the presence of hard TiO$_2$ nanoparticles than as AA6063 alloy. The FSPed surface nanocomposites exhibited low frictional coefficient, excellent wear resistance and adequate corrosion resistance at 40 mm/min and as compared to that of the as cast alloy.",
+		"ru": "Исследовано влияние наночастиц TiO$_2$ на характер износа и коррозии поверхностных нанокомпозитов сплава AA6063, полученных с помощью обработки трением с перемешиванием. Проведён анализ поверхностных нанокомпозитов методом сканирующей электронной микроскопии и показано, что наночастицы TiO$_2$ равномерно распределены в зоне перемешивания. Для характеризации поверхностных нанокомпозитов были использованы испытания на твёрдость, износостойкость и коррозионную стойкость. Показано, что микротвёрдость повышается по сравнению со сплавом AA6063 благодаря наличию наночастиц TiO$_2$. Обработанные методом трения с перемешиванием поверхностные нанокомпозиты обладают низким коэффициентом трения, отменной износостойкостью и адекватной коррозионной стойкостью при 40 мм/мин по сравнению со сплавом в литом состоянии."
+	},
+	"keywords": {
+		"ua": "стоп AA6063, наночастинки TiO$_2$, оброблення фрикційним перемішуванням, поверхневі нанокомпозити, мікроструктура, мікротвердість, характеристики зношування, корозійні властивості",
+		"en": "AA6063 alloy, TiO$_2$ nanoparticles, friction stir processing, surface nanocomposites, microstructure, microhardness, wear behaviour, corrosion behaviour",
+		"ru": "сплав AA6063, наночастицы TiO$_2$, обработка фрикционным перемешиванием, поверхностные нанокомпозиты, микроструктура, микротвёрдость, характеристики износа, коррозионные свойства"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Д. Мутукришнан", "en": "D. Muthukrishnan", "ru": "Д. Мутукришнан"},
+			"OID": [532]
+		},
+		{
+			"AID": {"ua": "А. Н. Баладжі", "en": "A. N. Balaji", "ru": "А. Н. Баладжи"},
+			"OID": [532]
+		},
+		{
+			"AID": {"ua": "Г. Р. Рагав", "en": "G. R. Raghav", "ru": "Г. Р. Рагхав"},
+			"OID": [532]
+		}
+	],
+	"references": {
+		"count": 22,
+		"list":  [
+			{
+				"doi": "10.1016/j.matdes.2010.12.049",
+				"or":  "L. Karthikeyan and V. S. Senthilkumar, Mater. Des., 32: 3085 (2011).",
+				"tr":  "L. Karthikeyan and V. S. Senthilkumar, Mater. Des., 32: 3085 (2011)."
+			},
+			{
+				"doi": "10.1016/j.msea.2010.07.024",
+				"or":  "B. Zahmatkesh and M. H. Enayati, Mater. Sci. Eng. A, 527: 6734 (2010).",
+				"tr":  "B. Zahmatkesh and M. H. Enayati, Mater. Sci. Eng. A, 527: 6734 (2010)."
+			},
+			{
+				"doi": "10.1016/j.jmatprotec.2011.04.015",
+				"or":  "Y. Mazaheri, F. Karimzadeh, and M. H. Enayati, J. Mater. Process. Technol., 211: 1614 (2011).",
+				"tr":  "Y. Mazaheri, F. Karimzadeh, and M. H. Enayati, J. Mater. Process. Technol., 211: 1614 (2011)."
+			},
+			{
+				"doi": "10.1007/s12666-010-0121-y",
+				"or":  "G. M. Reddy and K. S. Rao, Trans. Indian Inst. Metals, 63: 793 (2010).",
+				"tr":  "G. M. Reddy and K. S. Rao, Trans. Indian Inst. Metals, 63: 793 (2010)."
+			},
+			{
+				"doi": "10.1007/s11661-007-9459-0",
+				"or":  "Z. Y. Ma, Metall. Mater. Trans. A, 39: 642 (2008).",
+				"tr":  "Z. Y. Ma, Metall. Mater. Trans. A, 39: 642 (2008)."
+			},
+			{
+				"doi": "10.1007/978-3-319-07043-8",
+				"or":  "R. S. Mishra and N. Kumar, Friction Stir Welding and Processing: Science and Engineering (London: Springer: 2014).",
+				"tr":  "R. S. Mishra and N. Kumar, Friction Stir Welding and Processing: Science and Engineering (London: Springer: 2014)."
+			},
+			{
+				"doi": "10.1016/S1359-6462(00)00578-9",
+				"or":  "P. B. Berbon, W. H. Bingel, R. S. Mishra, C. C. Bampton, and M. W. Mahoney, Scr. Mater., 44: 61 (2001).",
+				"tr":  "P. B. Berbon, W. H. Bingel, R. S. Mishra, C. C. Bampton, and M. W. Mahoney, Scr. Mater., 44: 61 (2001)."
+			},
+			{
+				"doi": "10.1016/j.matdes.2009.09.025",
+				"or":  "A. D. Ehab, M. E. Magdy, and S. Mahmoud, Mater. Des., 31: 1231 (2010).",
+				"tr":  "A. D. Ehab, M. E. Magdy, and S. Mahmoud, Mater. Des., 31: 1231 (2010)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2004.04.014",
+				"or":  "S. R. Sharma, Z. Y. Ma, and R. S. Mishra, Scr. Mater., 51: 237 (2004).",
+				"tr":  "S. R. Sharma, Z. Y. Ma, and R. S. Mishra, Scr. Mater., 51: 237 (2004)."
+			},
+			{
+				"doi": "10.1016/j.msea.2006.01.016",
+				"or":  "Y. Morisada, H. Fujii, T. Nagaoka, and M. Fukusumi, Mater. Sci. Eng. A, 419: 344 (2006).",
+				"tr":  "Y. Morisada, H. Fujii, T. Nagaoka, and M. Fukusumi, Mater. Sci. Eng. A, 419: 344 (2006)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2015.11.015",
+				"or":  "M. Narimani, B. Lotfi, and Z. Sadeghian, Surf. Coat. Technol., 285: 1 (2016).",
+				"tr":  "M. Narimani, B. Lotfi, and Z. Sadeghian, Surf. Coat. Technol., 285: 1 (2016)."
+			},
+			{
+				"doi": "10.1007/978-3-319-07043-8",
+				"or":  "R. S. Mishra, P. S. De, and N. Kumar, Friction Stir Welding and Processing: Science and Engineering (Springer: 2014).",
+				"tr":  "R. S. Mishra, P. S. De, and N. Kumar, Friction Stir Welding and Processing: Science and Engineering (Springer: 2014)."
+			},
+			{
+				"doi": "10.1080/10426914.2015.1026354",
+				"or":  "P. Lakshmanan, K. Kalaichelvan, and T. Sornakumar, Mater. Manufact. Processes, 31: 1275 (2016).",
+				"tr":  "P. Lakshmanan, K. Kalaichelvan, and T. Sornakumar, Mater. Manufact. Processes, 31: 1275 (2016)."
+			},
+			{
+				"doi": "10.1179/1743284714Y.0000000573",
+				"or":  "F. Khodabakhshi, A. Simchi, A. H. Kokabi, M. Sadeghahmadi, and A. P. Gerlich, Mater. Sci. Technol., 31: 4 (2015).",
+				"tr":  "F. Khodabakhshi, A. Simchi, A. H. Kokabi, M. Sadeghahmadi, and A. P. Gerlich, Mater. Sci. Technol., 31: 4 (2015)."
+			},
+			{
+				"doi": "10.1016/j.jmrt.2015.02.006",
+				"or":  "N. Yuvaraj, S. Aravindan, and Vipin, J. Mater.Res. Technol., 4: 398 (2015).",
+				"tr":  "N. Yuvaraj, S. Aravindan, and Vipin, J. Mater.Res. Technol., 4: 398 (2015)."
+			},
+			{
+				"doi": "10.1016/j.dt.2014.09.004",
+				"or":  "R. Srinivasu, A. S. Rao, G. M. Reddy, and K. S. Rao, Def. Technol., 11: 140 (2015).",
+				"tr":  "R. Srinivasu, A. S. Rao, G. M. Reddy, and K. S. Rao, Def. Technol., 11: 140 (2015)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2012.03.013",
+				"or":  "L. Chen, H. Konishi, A. Fehrenbacher, and C. Ma, Scr. Mater., 67: 29 (2012).",
+				"tr":  "L. Chen, H. Konishi, A. Fehrenbacher, and C. Ma, Scr. Mater., 67: 29 (2012)."
+			},
+			{
+				"doi": "10.1016/j.matdes.2013.04.029",
+				"or":  "A. Devaraju, A. Kumar, A. Kumaraswamy, and B. Kotiveerachari, Mater. Des., 51: 331 (2013).",
+				"tr":  "A. Devaraju, A. Kumar, A. Kumaraswamy, and B. Kotiveerachari, Mater. Des., 51: 331 (2013)."
+			},
+			{
+				"doi": "10.1016/j.jmatprotec.2016.05.019",
+				"or":  "S. K. Singh, R. J. Immanuel, S. Babu, and S. K. Panigrahi, J. Mater. Process. Technol., 236: 252 (2016).",
+				"tr":  "S. K. Singh, R. J. Immanuel, S. Babu, and S. K. Panigrahi, J. Mater. Process. Technol., 236: 252 (2016)."
+			},
+			{
+				"doi": "10.1016/j.dt.2014.09.001",
+				"or":  "L. S. Raju and A. Kumar, Def. Technol., 10: 375 (2014).",
+				"tr":  "L. S. Raju and A. Kumar, Def. Technol., 10: 375 (2014)."
+			},
+			{
+				"doi": "10.1179/1751584X11Y.0000000001",
+				"or":  "D. G. Mallapur, K. R. Udupa, and S. A. Kori, Tribology—Materials, Surfaces Interfaces, 5: 34 (2013).",
+				"tr":  "D. G. Mallapur, K. R. Udupa, and S. A. Kori, Tribology—Materials, Surfaces Interfaces, 5: 34 (2013)."
+			},
+			{
+				"doi": "10.1016/j.acme.2015.07.001",
+				"or":  "R. Harichandran and N. Selvakumar, Arch. Civ. Mech. Eng., 16: 147 (2016).",
+				"tr":  "R. Harichandran and N. Selvakumar, Arch. Civ. Mech. Eng., 16: 147 (2016)."
+			}
+		]
+	}
+}

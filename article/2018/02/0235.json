@@ -1,0 +1,79 @@
+{
+	"_id":    "MFiNT.40.02.0235",
+	"year":   2018,
+	"volume": 40,
+	"issue":  2,
+	"pages":  [235,254],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["01.11.2017"],
+	"PACS":   "62.20.Qp, 68.35.Gy, 68.55.J-, 68.55.Ln, 68.55.Nq, 81.15.Rs, 81.65.Lp",
+	"title":   {
+		"ua": "Аналіза структурного стану поверхневого шару після електроерозійного леґування. I. Особливості формування електроерозійних покриттів на сталі 45",
+		"en": "The Analysis of a Structural State of Surface Layer after Electroerosive Alloying. I. Features of Formation of Electroerosive Coatings on Steel 45",
+		"ru": "Анализ структурного состояния поверхностного слоя после электроэрозионного легирования. I. Особенности формирования электроэрозионных покрытий на стали 45"
+	},
+	"abstract": {
+		"ua": "Досліджено вплив матеріялу леґувальної електроди (АРМКО-залізо, сталь 45, хром, вольфрам, молібден, нікель, сталі 38ХН3МФА і 30Х13, тверді стопи ВК8 і Т15К6), енергетичних параметрів обладнання електроерозійного леґування (потужність розряду), середовища (повітря, арґон, азот) і тривалости оброблення на якісні параметри сформованого поверхневого шару на сталі 45 (структури, розподілу мікротвердости, суцільности та рівномірности покриття). Встановлено, що при електроерозійному леґуванні (ЕЕЛ) Хромом, Молібденом, Ніклем та іншими елементами вигідними є режими, що забезпечують потужність розряду $N_{\\textrm{р}}$ = 119,3–144,3 Вт при безперервному леґуванні з продуктивністю у 1,0–2,0 хв/см$^2$. Дослідження структури та властивостей шарів, одержаних у середовищі повітря й арґону, показали, що істотного впливу нейтрального середовища порівняно з окиснювальним не спостерігається. Застосування арґону не приводить до поліпшення якости шару. Застосування азоту як середовища при ЕЕЛ Ніклем позитивно впливає на властивості шару. Визначено структурні особливості поверхневих шарів, основні з яких: наявність субдрібнозернистої структури, мартенситної фази, значної кількости залишкового аустеніту. Показано, що після безперервного ЕЕЛ Хромом зі збільшенням тривалости ЕЕЛ товщина і мікротвердість білого шару збільшуються. Виявлено резерви підвищення експлуатаційних властивостей зміцнюваного шару методами поверхневої деформації.",
+		"en": "The influence of the material of the alloying electrode (Armco iron, steel 45, chromium, tungsten, molybdenum, nickel, steels 38KhN3MFA and 30Kh13, hard alloys VK8 and T15K6), power parameters of the equipment for electroerosive alloying (discharge power), environment (air, argon, nitrogen), and duration of treatment on qualitative parameters of formed surface layer on steel 45 (structures, microhardness distribution, continuity and uniformity of the coating) is investigated. As determined, during electroerosive alloying (EEA) with chromium, molybdenum, nickel and other elements, the operating modes, which providing discharge power $N_{\\textrm{p}}$ = 119.3–144.3 W at continuous alloying with productivity of 1.0–2.0 min/cm$^2$, are preferred. Investigations of the structure and properties of coatings obtained in air and argon showed that there is no significant effect of a neutral environment compared to an oxidizing one. Application of argon is not improve the quality of the layer. Application of nitrogen as an environment for EEA with nickel positively influences on properties of the layer. The structural features of the surface layers are determined, the main of them are as follow: subfine-grained structure, martensite phase, significant amount of residual austenite. As shown, after continuous EEA with chromium, thickness and microhardness of the white layer increase with increasing of EEA duration. The reserves of increasing the working properties of the hardened layer by methods of surface deformation are proposed.",
+		"ru": "Исследовано влияние материала легирующего электрода (АРМКО-железо, сталь 45, хром, вольфрам, молибден, никель, стали 38ХН3МФА и 30Х13, твёрдые сплавы ВК8 и Т15К6), энергетических параметров оборудования электроэрозионного легирования (мощность разряда), среды (воздух, аргон, азот) и длительности обработки на качественные параметры сформированного поверхностного слоя на стали 45 (структуры, распределения микротвёрдости, сплошности и равномерности покрытия). Установлено, что при электроэрозионном легировании (ЭЭЛ) хромом, молибденом, никелем и другими элементами предпочтительными являются режимы, обеспечивающие мощность разряда $N_{\\textrm{р}}$ = 119,3–144,3 Вт при непрерывном легировании с производительностью 1,0–2,0 мин/см$^2$. Исследования структуры и свойств слоёв, полученных в среде воздуха и аргона, показали, что существенного влияния нейтральной среды по сравнению с окислительной не наблюдается. Применение аргона не приводит к улучшению качества слоя. Применение азота как среды при ЭЭЛ никелем положительно влияет на свойства слоя. Определены структурные особенности поверхностных слоёв, основные из которых: наличие субмелкозернистой структуры, мартенситной фазы, значительного количества остаточного аустенита. Показано, что после непрерывного ЭЭЛ хромом с увеличением длительности ЭЭЛ толщина и микротвёрдость белого слоя увеличиваются. Выявлены резервы повышения эксплуатационных свойств упрочняемого слоя методами поверхностной деформации."
+	},
+	"keywords": {
+		"ua": "електроерозійне леґування, анода, катода, покриття, поверхня, структура, мікротвердість",
+		"en": "electroerosive alloying, anode, cathode, coating, surface, structure, microhardness",
+		"ru": "электроэрозионное легирование, анод, катод, покрытие, поверхность, структура, микротвёрдость"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Б. Тарельник", "en": "V. B. Tarelnyk", "ru": "В. Б. Тарельник"},
+			"OID": [247]
+		},
+		{
+			"AID": {"ua": "О. П. Гапонова", "en": "O. P. Gaponova", "ru": "О. П. Гапонова"},
+			"OID": [208]
+		},
+		{
+			"AID": {"ua": "Є. В. Коноплянченко", "en": "I. V. Konoplianchenko", "ru": "Е. В. Коноплянченко"},
+			"OID": [247]
+		},
+		{
+			"AID": {"ua": "Н. С. Євтушенко", "en": "N. S. Evtushenko", "ru": "Н. С. Евтушенко"},
+			"OID": [216]
+		},
+		{
+			"AID": {"ua": "В. О. Герасименко", "en": "V. A. Herasymenko", "ru": "В. О. Герасименко"},
+			"OID": [247]
+		}
+	],
+	"references": {
+		"count": 5,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "А. Е. Гитлевич, В. В. Михайлов, Н. Я. Парканский, В. М. Ревутский, Электроискровое легирование металлических поверхностей (Кишинев: Штиинца: 1985).",
+				"tr":  "A. E. Gitlevich, V. V. Mikhaylov, N. Ya. Parkanskiy, and V. M. Revutskiy, Elektroiskrovoe Legirovanie Metallicheskikh Poverkhnostey [Electric-Spark Alloying of Metal Surfaces] (Kishinev: Shtiintsa: 1985) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.38.12.1611",
+				"or":  "В. Б. Тарельник, О. П. Гапонова, Е. В. Коноплянченко, М. Я. Довжик, Металлофиз. новейшие технол., 38, № 12: 1611 (2016).",
+				"tr":  "V. B. Tarel'nyk, O. P. Gaponova, Ye. V. Konoplyanchenko, and M. Ya. Dovzhyk, Metallofiz. Noveishie Tekhnol., 38, No. 12: 1611 (2016) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.39.03.0363",
+				"or":  "В. Б. Тарельник, О. П. Гапонова, Е. В. Коноплянченко, М. Я. Довжик, Металлофиз. новейшие технол., 39, № 3: 363 (2017).",
+				"tr":  "V. B. Tarelnyk, O. P. Gaponova, I. V. Konoplianchenko, and M. Ya. Dovzhyk, Metallofiz. Noveishie Tekhnol., 39, No. 3: 363 (2017) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Н. Романенко, Инновационные технологии и оборудование машиностроительного комплекса, вып. 10: 62 (2007).",
+				"tr":  "D. N. Romanenko, Innovatsionnyye Tekhnologii i Oborudovanie Mashinostroitel'nogo Kompleksa, Iss. 10: 62 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Гадалов, В. В. Ванеев, Д. Н. Романенко, Сборник научных трудов XVIII Международной научно-технической конференции «Лазеры-2007» (Адлер: 2007), с. 48.",
+				"tr":  "V. N. Gadalov, V. V. Vaneev, and D. N. Romanenko, Proc. of XVIII International Scientific and Technical Conference 'Lasers-2007' (Adler: 2007), p. 48 (in Russian)."
+			}
+		]
+	}
+}

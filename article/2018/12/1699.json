@@ -1,0 +1,92 @@
+{
+	"_id":    "MFiNT.40.12.1699",
+	"year":   2018,
+	"volume": 40,
+	"issue":  12,
+	"pages":  [1699,1707],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["06.03.2018"],
+	"PACS":   "06.60.Vz, 61.72.Ff, 62.20.Qp, 81.20.Vj, 81.40.Pq, 81.70.Bt, 83.50.Uv",
+	"title":   {
+		"ua": "Вплив параметра швидкости обертання на механічні властивості подібних сталі AISI 1040 деталів, з’єднаних зварюванням тертям",
+		"en": "Effect of Rotation Speed Parameter on Mechanical Properties of Similar AISI 1040 Parts Joined by Friction Welding",
+		"ru": "Влияние параметра скорости вращения на механические свойства подобных стали AISI 1040 деталей, соединённых сваркой трением"
+	},
+	"abstract": {
+		"ua": "Зварювання тертям є одним з важливих способів з’єднання, який широко використовується, зокрема, для зварювання циліндричних деталів, у багатьох галузях промисловости. В даній роботі було виконано зварювання тертям циліндричних деталів діяметром у 12 мм зі сталі AISI 1040 за різних параметрів зварювання. Для характеризації механічних властивостей зварних швів визначено міцність на розтяг і мікротвердість, а також виконано мікроструктурну аналізу. Крім того, проведено порівняльну аналізу механічних властивостей деталів, зварених за різних швидкостей обертання. Результати експериментів показують, що максимальна міцність становить близько 400 МПа і досягається при 1500 об/хв.",
+		"en": "Friction welding is one of the important joining methods widely used, especially for welding cylindrical parts, in many industries. In this study, friction welding of similar material steel AISI 1040 cylindrical parts having 12 mm diameter is successfully realised at different welding parameters. In order to determine mechanical properties of welds, the tensile strength and microhardness tests as well as microstructural analysis are carried out and discussed. In addition, the comparison between parts welded at different revolutions per minute (rpm) is made in terms of mechanical properties. Experimental results show that the highest tensile strength is nearly 400 MPa, which is obtained at the parts welded through 1500 rpm.",
+		"ru": "Сварка трением является одним из важных способов соединения, который широко используется, в частности, для сварки цилиндрических деталей, во многих отраслях промышленности. В данной работе была проведена сварка трением цилиндрических деталей диаметром 12 мм из стали AISI 1040 при разных параметрах сварки. Для характеризации механических свойств сварных швов определены прочность на растяжение и микротвёрдость, а также выполнен микроструктурный анализ. Кроме того, проведён сравнительный анализ механических свойств деталей, сваренных при различных скоростях вращения. Результаты экспериментов показывают, что максимальная прочность составляет около 400 МПа и достигается при 1500 об/мин."
+	},
+	"keywords": {
+		"ua": "зварювання тертям, сталь AISI 1040, механічні властивості, швидкість обертання",
+		"en": "friction welding, AISI 1040 steel, mechanical properties, rotation speed",
+		"ru": "сварка трением, сталь AISI 1040, механические свойства, скорость вращения"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Зулкуф Балалан", "en": "Zulkuf Balalan", "ru": "Зулкуф Балалан"},
+			"OID": [436]
+		},
+		{
+			"AID": {"ua": "Омер Екінжи", "en": "Omer Ekinci", "ru": "Омер Экинжи"},
+			"OID": [436]
+		}
+	],
+	"references": {
+		"count": 10,
+		"list":  [
+			{
+				"doi": "10.1108/00368790310488887",
+				"or":  "E. H. Akata and H. Sahin, Ind. Lubr. Tribol., 55, Iss. 5: 223 (2003).",
+				"tr":  "E. H. Akata and H. Sahin, Ind. Lubr. Tribol., 55, Iss. 5: 223 (2003)."
+			},
+			{
+				"doi": "10.1007/s13296-015-1213-7",
+				"or":  "U. Caligulu, M. Acik, Z. Balalan, and N. Kati, Int. J. Steel Struc., 15: 923 (2015).",
+				"tr":  "U. Caligulu, M. Acik, Z. Balalan, and N. Kati, Int. J. Steel Struc., 15: 923 (2015)."
+			},
+			{
+				"doi": "10.1016/j.matdes.2008.06.070",
+				"or":  "S. Celik and I. Ersozlu, Mater. Des., 30: 970 (2009).",
+				"tr":  "S. Celik and I. Ersozlu, Mater. Des., 30: 970 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "S. B. Dunkerton, Weld J., August: 193 (1986).",
+				"tr":  "S. B. Dunkerton, Weld J., August: 193 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "C. R. G. Ellis, Weld Met. Fabr., May: 207 (1977).",
+				"tr":  "C. R. G. Ellis, Weld Met. Fabr., May: 207 (1977)."
+			},
+			{
+				"doi": "10.1016/j.jmrt.2013.12.001",
+				"or":  "M. Hazra, K. S. Rao, and G. M. Reddy, J. Mater. Res. Technol., 3: 90 (2014).",
+				"tr":  "M. Hazra, K. S. Rao, and G. M. Reddy, J. Mater. Res. Technol., 3: 90 (2014)."
+			},
+			{
+				"doi": "10.1016/j.msea.2006.06.033",
+				"or":  "K. Maweja and W. Stumpf, Mater. Sci. Eng. A, 432: 158 (2006).",
+				"tr":  "K. Maweja and W. Stumpf, Mater. Sci. Eng. A, 432: 158 (2006)."
+			},
+			{
+				"doi": "10.1016/j.matdes.2005.06.011",
+				"or":  "N. Ozdemir, F. Sarsılmaz, and A. Hascalık, Mater. Design, 28: 301 (2007).",
+				"tr":  "N. Ozdemir, F. Sarsılmaz, and A. Hascalık, Mater. Design, 28: 301 (2007)."
+			},
+			{
+				"doi": "10.1016/j.jmatprotec.2010.03.007",
+				"or":  "H. Seli, A. I. M. Ismail, E. Rachman, and Z. A. Ahmad, J. Mater. Process. Technol., 210: 1209 (2010).",
+				"tr":  "H. Seli, A. I. M. Ismail, E. Rachman, and Z. A. Ahmad, J. Mater. Process. Technol., 210: 1209 (2010)."
+			},
+			{
+				"doi": "10.1016/S1044-5803(03)00051-2",
+				"or":  "M. Yılmaz, M. Col, and M. Acet, Mater. Charact., 49: 421 (2003).",
+				"tr":  "M. Yılmaz, M. Col, and M. Acet, Mater. Charact., 49: 421 (2003)."
+			}
+		]
+	}
+}

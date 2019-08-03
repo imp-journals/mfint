@@ -1,0 +1,114 @@
+{
+	"_id":    "MFiNT.37.12.1643",
+	"year":   2015,
+	"volume": 37,
+	"issue":  12,
+	"pages":  [1643,1652],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["16.09.2015"],
+	"PACS":   "43.35.Zc, 61.72.Ff, 61.72.Hh, 62.20.fq, 62.40.+i, 81.40.Lm, 81.70.Cv",
+	"title":  {
+		"ua": "Акустичні властивості нових сплавів Inconel 52 та Inconel 52MSS в інтервалі температур 77—1200 К",
+		"en": "Acoustic Properties of New Alloys Inconel 52 and Inconel 52MSS in the Temperature Range of 77—1200 K",
+		"ru": "Акустические свойства новых сплавов Inconel 52 и Inconel 52MSS в интервале температур 77—1200 К"
+	},
+	"abstract": {
+		"ua": "У широкому інтервалі температур 77—1200 К вперше вивчено акустичні властивості нових стопів Inconel 52 та Inconel 52MSS на основі системи NiCrFe. Встановлено, що поведінка високотемпературного фону акустичного поглинання узгоджується з температурним інтервалом провалу пластичности в стопі Inconel 52. Експериментально встановлено, що наявність більш ефективних стопорів, що гальмують дислокаційну рухливість, створює передумови для більш рівномірного розподілу дислокацій, зумовлює відсутність різких ґрадієнтів локальних напружень, що в свою чергу забезпечує більш високі показники жароміцности та гарячої тріщиностійкости стопу Inconel 52MSS у порівнянні зі стопом Inconel 52. Показано, що акустичні характеристики стопів різних систем леґування уможливлюють встановлювати відмінності в схильності до утворення гарячих тріщин.",
+		"en": "The acoustic properties of the new alloys (Inconel 52 and Inconel 52MSS) based on the system of NiCrFe firstly investigated in a wide temperature range of 77—1200 K. As found in the Inconel 52, the behaviour of high temperature background of acoustic absorption correlates with the temperature range of failure of the plasticity. As experimentally established, the availability of more effective pinning centres hindering the dislocation mobility creates the preconditions for a more uniform distribution of dislocations that leads to the absence of gradients of local stresses that, in turn, provides a high heat resistance and hot cracking resistance of the alloy Inconel 52MSS. As shown, the acoustic characteristics of alloys of different alloying systems allow establishing differences in the propensity for hot cracking.",
+		"ru": "В широком интервале температур 77—1200 К впервые изучены акустические свойства новых сплавов Inconel 52 и Inconel 52MSS на основе системы NiCrFe. Установлено, что поведение высокотемпературного фона акустического поглощения согласуется с температурным интервалом провала пластичности в сплаве Inconel 52. Экспериментально установлено, что наличие более эффективных стопоров тормозящих дислокационную подвижность создаёт предпосылки для более равномерного распределения дислокаций, обусловливает отсутствие резких градиентов локальных напряжений, что в свою очередь обеспечивает более высокие показатели жаропрочности и горячей трещиностойкости сплава Inconel 52MSS по сравнению со сплавом Inconel 52. Показано, что акустические характеристики сплавов различных систем легирования позволяют устанавливать отличия в склонности к образованию горячих трещин."
+	},
+	"keywords": {
+		"ua": "стопи Inconel 52 та Inconel 52MSS, міцність, пластичність, акустичне поглинання, динамічний модуль пружности, жароміцність, тріщиностійкість, провал пластичности, гарячі тріщини",
+		"en": "Inconel 52 and Inconel 52MSS alloys, strength, ductility, acoustic absorption, elasticity modulus, heat resistance, crack resistance, failure of the plasticity, hot cracks",
+		"ru": "сплавы Inconel 52 и Inconel 52MSS, прочность, пластичность, акустическое поглощение, динамический модуль упругости, жаропрочность, трещиностойкость, провал пластичности, горячие трещины"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. О. Семеренко", "en": "Yu. A. Semerenko", "ru": "Ю. А. Семеренко"},
+			"OID": [4]
+		},
+		{
+			"AID": {"ua": "О. В. Мозговой", "en": "O. V. Mozgovyj", "ru": "А. В. Мозговой"},
+			"OID": [218]
+		},
+		{
+			"AID": {"ua": "Л. В. Скибіна", "en": "L. V. Skibina", "ru": "Л. В. Скибина"},
+			"OID": [4]
+		},
+		{
+			"AID": {"ua": "К. А. Ющенко", "en": "K. A. Yushchenko", "ru": "К. А. Ющенко"},
+			"OID": [5]
+		},
+		{
+			"AID": {"ua": "Г. В. Звягінцева", "en": "G. V. Zviagintseva", "ru": "А. В. Звягинцева"},
+			"OID": [5]
+		}
+	],
+	"references": {
+		"count": 12,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "R. Zhang, S. D. Kiser, and B. A. Baker, A New NiCrFe Welding Product—Inconel 52MSS Provides Optimum Resistance to PWSCC and DDC, www.specialmetalswelding.com",
+				"tr":  "R. Zhang, S. D. Kiser, and B. A. Baker, A New NiCrFe Welding Product—Inconel 52MSS Provides Optimum Resistance to PWSCC and DDC, www.specialmetalswelding.com"
+			},
+			{
+				"doi": "",
+				"or":  "A. S. Nowick and B. S. Berry, Anelastic Relaxation in Crystalline Solids (New York–London: Academic Press: 1972).",
+				"tr":  "A. S. Nowick and B. S. Berry, Anelastic Relaxation in Crystalline Solids (New York–London: Academic Press: 1972)."
+			},
+			{
+				"doi": "10.1063/1.1134903",
+				"or":  "H. M. Simpson and A. Sosin, Rev. Sci. Instrum., 48, Iss. 11: 1392 (1977).",
+				"tr":  "H. M. Simpson and A. Sosin, Rev. Sci. Instrum., 48, Iss. 11: 1392 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "M. S. Blanter, I. S. Golovin, H. Neuhäuser, and H.-R. Sinning, InternalFriction in Metallic Materials: A Handbook (Berlin–Heidelberg: Springer-Verlag: 2007).",
+				"tr":  "M. S. Blanter, I. S. Golovin, H. Neuhäuser, and H.-R. Sinning, InternalFriction in Metallic Materials: A Handbook (Berlin–Heidelberg: Springer-Verlag: 2007)."
+			},
+			{
+				"doi": "",
+				"or":  "www.specialmetals.com/documents/Inconel alloy 690.pdf",
+				"tr":  "www.specialmetals.com/documents/Inconel alloy 690.pdf"
+			},
+			{
+				"doi": "",
+				"or":  "K. Yushchenko, V. Savchenko, G. Zviagintseva., N. Chervjakov, I. Volosatov, Yu. Semerenko, and L. Skibina, Proc. of 55 Int. Conf. ‘Actual Problems of Strength 2014’ (June 9–13, 2014, Kharkiv, Ukraine), p. 189.",
+				"tr":  "K. Yushchenko, V. Savchenko, G. Zviagintseva., N. Chervjakov, I. Volosatov, Yu. Semerenko, and L. Skibina, Proc. of 55 Int. Conf. 'Actual Problems of Strength 2014' (June 9–13, 2014, Kharkiv, Ukraine), p. 189."
+			},
+			{
+				"doi": "",
+				"or":  "I. M. Lifshitz, Zh. Eksp. Teor. Fiz., 17, No. 4: 910 (1963) (in Russian).",
+				"tr":  "I. M. Lifshitz, Zh. Eksp. Teor. Fiz., 17, No. 4: 910 (1963) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.1722436",
+				"or":  "A. Granato and K. Lücke, J. Appl. Phys., 27: 583 (1956).",
+				"tr":  "A. Granato and K. Lücke, J. Appl. Phys., 27: 583 (1956)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Leibfried, Gittertheorie der Mechanischen und Thermischen Eigenschaften der Kristalle [Lattice Theory the Mechanical and Thermal Properties of the Crystals], Handbuch der Physik, vol. 7/1, Crystal Physics I (Berlin–Heidelberg: Springer: 1955), p. 104 (in German).",
+				"tr":  "G. Leibfried, Gittertheorie der Mechanischen und Thermischen Eigenschaften der Kristalle [Lattice Theory the Mechanical and Thermal Properties of the Crystals], Handbuch der Physik, vol. 7/1, Crystal Physics I (Berlin–Heidelberg: Springer: 1955), p. 104 (in German)."
+			},
+			{
+				"doi": "10.1103/PhysRev.98.1136",
+				"or":  "W. P. Mason, Phys. Rev., 98: 1136 (1955).",
+				"tr":  "W. P. Mason, Phys. Rev., 98: 1136 (1955)."
+			},
+			{
+				"doi": "10.1080/00018736000101159",
+				"or":  "D. Niblеtt and J. Wilks, Advances in Physics, 9, No. 33: 1 (1960).",
+				"tr":  "D. Niblett and J. Wilks, Advances in Physics, 9, No. 33: 1 (1960)."
+			},
+			{
+				"doi": "",
+				"or":  "B. I. Shapoval and V. M. Arzhavitin, Mekhanizmy Vysokotemperaturnogo Fona Vnutrennego Treniya Metallov [The Mechanisms of High-Temperature Background of Internal Friction of Metals] (Moscow: TsNIIatominform: 1988) (in Russian).",
+				"tr":  "B. I. Shapoval and V. M. Arzhavitin, Mekhanizmy Vysokotemperaturnogo Fona Vnutrennego Treniya Metallov [The Mechanisms of High-Temperature Background of Internal Friction of Metals] (Moscow: TsNIIatominform: 1988) (in Russian)."
+			}
+		]
+	}
+}

@@ -1,0 +1,114 @@
+{
+	"_id":    "MFiNT.39.11.1547",
+	"year":   2017,
+	"volume": 39,
+	"issue":  11,
+	"pages":  [1547,1556],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["11.10.2017"],
+	"PACS":   "61.05.cp, 64.75.St, 68.35.bd, 68.35.Dv, 68.37.Hk, 68.37.Lp, 81.15.Pq",
+	"title":   {
+		"ua": "Структурна та мікроструктурна аналіза шарів стопу Zn–Mo, електроосаджених з водного розчину цитрату",
+		"en": "Structural and Microstructural Analysis of Zn–Mo Alloy Layers Electrodeposited from Aqueous Citrate Solution",
+		"ru": "Структурный и микроструктурный анализ слоёв сплава Zn–Mo, электроосаждённых из водного раствора цитрата"
+	},
+	"abstract": {
+		"ua": "У статті представлено результати досліджень фазового складу та мікроструктури електролітично осаджених шарів стопів Zn–Mo. Покриття Zn–Mo було одержано на сталевому підложжі електролітичним осадженням з сульфат-цитратних електролітів. Дослідження методами СЕМ, TEM і рентґенівської дифракції показали, що покриття складаються з кристалізованої в гексагональній системі фази та містять менше 0,8% мас. Мо, вбудованого у кристалічну ґратницю цинку. Наявність атомів Мо викликає фраґментацію кристалітів.",
+		"en": "The paper presents results of the phase-composition and microstructure studies of the Zn–Mo alloy electrodeposited layers. The Zn–Mo coatings are electrodeposited from sulphate-citrate electrolytes on a steel substrate. As revealed in SEM, TEM and x-ray diffraction studies, the coatings consist of the phase crystallized in hexagonal system and contain less than 0.8% wt. Mo built-in the Zn-crystal structure. The presence of Mo atoms causes fragmentation of the crystallites.",
+		"ru": "В статье представлены результаты исследований фазового состава и микроструктуры, электролитически осаждённых слоёв сплавов Zn–Mo. Покрытия Zn–Mo были получены на стальной подложке электролитическим осаждением из сульфат-цитратных электролитов. Исследования методами СЭМ, TEM и рентгеновской дифракции показали, что покрытия состоят из кристаллизованной в гексагональной системе фазы и содержат менее 0,8% масс. Мо, встроенного в кристаллическую решётку цинка. Наличие атомов Мо вызывает фрагментацию кристаллитов."
+	},
+	"keywords": {
+		"ua": "електролітичне осадження, корозія, стопи на основі цинку, фазовий склад, рентґенівська дифракція",
+		"en": "electrodeposition, corrosion, zinc-based alloys, phase composition, x-ray diffraction",
+		"ru": "электролитическое осаждение, коррозия, сплавы на основе цинка, фазовый состав, рентгеновская дифракция"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "З. Швьонтек", "en": "Z. Świątek", "ru": "З. Швёнтэк"},
+			"OID": [525]
+		},
+		{
+			"AID": {"ua": "Х. Кажімєрчак", "en": "H. Kazimierczak", "ru": "Х. Кажимерчак"},
+			"OID": [525]
+		},
+		{
+			"AID": {"ua": "П. Озґа", "en": "P. Ozga", "ru": "П. Озга"},
+			"OID": [525]
+		},
+		{
+			"AID": {"ua": "О. Бончик", "en": "O. Bonchyk", "ru": "О. Бончик"},
+			"OID": [36]
+		},
+		{
+			"AID": {"ua": "Г. Савицький", "en": "H. Savytskyy", "ru": "Г. Савицкий"},
+			"OID": [36]
+		}
+	],
+	"references": {
+		"count": 12,
+		"list":  [
+			{
+				"doi": "10.1080/00202967.1988.11870800",
+				"or":  "F. C. Porter, A. M. Stoneman, and R. G. Thilthorpe, Transactions of the Institute of Metal Finishing, 66: 28 (1998).",
+				"tr":  "F. C. Porter, A. M. Stoneman, and R. G. Thilthorpe, Transactions of the Institute of Metal Finishing, 66: 28 (1998)."
+			},
+			{
+				"doi": "10.1080/00202967.1996.11871117",
+				"or":  "R. Pfiz and G. Strube, Transactions of the Institute of Metal Finishing, 74: 158 (1996).",
+				"tr":  "R. Pfiz and G. Strube, Transactions of the Institute of Metal Finishing, 74: 158 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Sard, Plating and Surface Finishing, 74: 30 (1987).",
+				"tr":  "R. Sard, Plating and Surface Finishing, 74: 30 (1987)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2013.04.205",
+				"or":  "H. Kazimierczak, P. Ozga, Z. Swiatek, and E. Bielanska, J. Alloys Compd., 578: 82 (2013).",
+				"tr":  "H. Kazimierczak, P. Ozga, Z. Swiatek, and E. Bielanska, J. Alloys Compd., 578: 82 (2013)."
+			},
+			{
+				"doi": "10.1016/0921-4526(93)90108-I",
+				"or":  "J. Rodriguez-Carvajal, Physica B: Condensed Matter, 192: 55 (1993), http://www.ill.eu/sites/fullprof/php/downloads.html",
+				"tr":  "J. Rodriguez-Carvajal, Phys. B: Condensed Matter, 192: 55 (1993), http://www.ill.eu/sites/fullprof/php/downloads.html"
+			},
+			{
+				"doi": "10.1016/0025-5408(88)90019-0",
+				"or":  "A. LeBail, H. Duroy, and J. L. Fourquet, Materials Research Bulletin, 23: 447 (1988).",
+				"tr":  "A. LeBail, H. Duroy, and J. L. Fourquet, Materials Research Bulletin, 23: 447 (1988)."
+			},
+			{
+				"doi": "10.1016/0921-4526(93)90108-I",
+				"or":  "J. Rodriguez-Carvajal, J. Phys. B, 192: 55 (1993); Recent Developments of the Program FULLPROF, Commission on Powder Diffraction (IUCr), Newsletter, No. 26: 12 (2001).",
+				"tr":  "J. Rodriguez-Carvajal, J. Phys. B, 192: 55 (1993); Recent Developments of the Program FULLPROF, Commission on Powder Diffraction (IUCr), Newsletter, No. 26: 12 (2001)."
+			},
+			{
+				"doi": "10.1107/S0021889804014876",
+				"or":  "A .Boultif and D. Louer, J. Appl. Crystallogr., 37: 724 (2004).",
+				"tr":  "A. Boultif and D. Louer, J. Appl. Crystallogr., 37: 724 (2004)."
+			},
+			{
+				"doi": "10.1107/S0021889887087090",
+				"or":  "P. Thompson, D. E. Cox, and J. B. Hastings, J. Appl. Crystallogr, 20: 79 (1987).",
+				"tr":  "P. Thompson, D. E. Cox, and J. B. Hastings, J. Appl. Crystallogr, 20: 79 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "Defect and Microstructure Analysis by Diffraction (Eds. R. L. Snyder, J. Fiala, and H. J. Bunge) (Chester, Oxford: IUCr/Oxford University Press: 1999), p. 41.",
+				"tr":  "Defect and Microstructure Analysis by Diffraction (Eds. R. L. Snyder, J. Fiala, and H. J. Bunge) (Chester, Oxford: IUCr/Oxford University Press: 1999), p. 41."
+			},
+			{
+				"doi": "",
+				"or":  "T. B. Massalski, P. R. Subramanian, H. Okamoto, and L. Kacprzak, Binary Alloy Phase Diagrams (Materials Park, OH: ASM International: 1990).",
+				"tr":  "T. B. Massalski, P. R. Subramanian, H. Okamoto, and L. Kacprzak, Binary Alloy Phase Diagrams (Materials Park, OH: ASM International: 1990)."
+			},
+			{
+				"doi": "10.1016/j.ultramic.2006.10.003",
+				"or":  "A. Morawiec, Ultramicroscopy, 107: 390 (2007).",
+				"tr":  "A. Morawiec, Ultramicroscopy, 107: 390 (2007)."
+			}
+		]
+	}
+}

@@ -1,0 +1,111 @@
+{
+	"_id":    "MFiNT.40.09.1165",
+	"year":   2018,
+	"volume": 40,
+	"issue":  9,
+	"pages":  [1165,1171],
+	"rubric": 18,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["13.03.2018"],
+	"PACS":   "06.60.Mr, 61.43.Hv, 61.72.Ff, 81.05.Bx, 81.40.Ef, 81.40.Np, 81.70.Bt",
+	"title":   {
+		"ua": "Реґуляризація однієї умовно некоректно поставленої задачі металургійного вилучення (металів з руд)",
+		"en": "Regularization of One Conditionally Ill-Posed Problem of Extractive Metallurgy",
+		"ru": "Регуляризация одной условно некорректно поставленной задачи металлургического извлечения (металлов из руд)"
+	},
+	"abstract": {
+		"ua": "Розглядається один із шляхів вирішення умовно некоректної задачі ранжування критеріїв якости багатокритеріяльної системи, реґуляризація якої проводиться застосуванням фрактального формалізму. Ранжування критеріїв якости за значенням базується на визначенні области самоподібности окремих критеріїв.",
+		"en": "One of the ways to solve the conditionally ill-posed problem for ranking quality criteria of the multiobjective system, whose regularization is made by applying the fractal formalism, is hereby considered. Ranking quality criteria by their importance is based on the definition of the area of self-similarity for partial criteria. At the first stage of research, the key parameter is identified under the defined initial conditions by ranking quality criteria with the use of the fractal formalism. Ranking the criteria by importance is based on the estimation of the comparative value of areas of their self-similarity. The self-similarity coefficients of these areas appear as the regularization parameter at this stage of research. These areas are estimated by means of definitions of their relative values as the ratio of the range for existence of each partial criterion referred to its upper boundary. The second stage of research is initiated by the need to determine the optimal combinations of the target product properties in the working area, depending on the customer conditions. For this purpose, the sub-compromise regions are defined in the working area of partial criteria under consideration (compromise criteria). The sub-compromise partial regions are regions of the optimal combinations of properties. Thus, the regularization at the second stage is made in co-ordination with the requirements of the customer. In this connection, the example of solving the conditionally ill-posed problem for optimizing the multicriteria and multiparametric technologies of fabrication of cast iron rolls is given.",
+		"ru": "Рассматривается один из путей решения условно некорректной задачи ранжирования критериев качества многокритериальной системы, регуляризация которой производится применением фрактального формализма. Ранжирование критериев качества по их значимости базируется на определении области самоподобия частных критериев."
+	},
+	"keywords": {
+		"ua": "багатопараметрична технологія, параметер реґуляризації, область самоподібности, область компромісу критеріїв, механічні властивості, фрактальний формалізм",
+		"en": "multiparametric technologies, regularization parameter, self-similarity area, compromise criteria, mechanical properties, fractal formalism",
+		"ru": "многопараметрическая технология, параметр регуляризации, область самоподобия, область компромисса критериев, механические свойства, фрактальный формализм"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. І. Большаков", "en": "V. I. Bolshakov", "ru": "В. И. Большаков"},
+			"OID": [225]
+		},
+		{
+			"AID": {"ua": "В. М. Волчук", "en": "V. M. Volchuk", "ru": "В. Н. Волчук"},
+			"OID": [225]
+		},
+		{
+			"AID": {"ua": "Ю. І. Дубров", "en": "Yu. I. Dubrov", "ru": "Ю. И. Дубров"},
+			"OID": [225]
+		}
+	],
+	"references": {
+		"count": 13,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Yu. Dubrov, V. Bol’shakov, and V. Volchuk, Puti Identifikatsii Periodicheskikh Mnogokriterialnykh Tekhnologiy [Paths to Identification of Periodic Multicriteria Technologies] (Saarbrucken: Palmarium Academic Publishing: 2015) (in Russian).",
+				"tr":  "Yu. Dubrov, V. Bol'shakov, and V. Volchuk, Puti Identifikatsii Periodicheskikh Mnogokriterialnykh Tekhnologiy [Paths to Identification of Periodic Multicriteria Technologies] (Saarbrucken: Palmarium Academic Publishing: 2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Bol’shakov, Substrukturnoe Uprochnenie Konstruktsionnykh Staley [Substructural Hardening of Structural Steels] (Toronto: Basilian Press: 1998) (in Russian).",
+				"tr":  "V. I. Bol'shakov, Substrukturnoe Uprochnenie Konstruktsionnykh Staley [Substructural Hardening of Structural Steels] (Toronto: Basilian Press: 1998) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "T. S. Skoblo, N. M. Vorontsov, S. I. Rudyuk, N. A. Budag’yants, and V. A. Voronina, Prokatnye Valki iz Vysokouglerodistykh Splavov [Forming Rolls from High-Carbon Alloys] (Moscow: Metallurgiya: 1994) (in Russian).",
+				"tr":  "T. S. Skoblo, N. M. Vorontsov, S. I. Rudyuk, N. A. Budag'yants, and V. A. Voronina, Prokatnye Valki iz Vysokouglerodistykh Splavov [Forming Rolls from High-Carbon Alloys] (Moscow: Metallurgiya: 1994) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Ye. Krivosheyev, Litye Valki [Cast Rolls] (Moscow: Metallurgizdat: 1957) (in  Russian).",
+				"tr":  "A. Ye. Krivosheyev, Litye Valki [Cast Rolls] (Moscow: Metallurgizdat: 1957) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. N. Tikhonov and V. Y. Arsenin, Solutions of Ill-Posed Problems (New York: Winston: 1977).",
+				"tr":  "A. N. Tikhonov and V. Y. Arsenin, Solutions of Ill-Posed Problems (New York: Winston: 1977)."
+			},
+			{
+				"doi": "10.15407/mfint.39.07.0949",
+				"or":  "V. M. Volchuk, Metallofiz. Noveishie Tekhnol., 39, No. 7: 949 (2017) (in Russian).",
+				"tr":  "V. M. Volchuk, Metallofiz. Noveishie Tekhnol., 39, No. 7: 949 (2017) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "B. B. Mandelbrot, The Fractal Geometry of Nature (New York–San Francisco: Freeman: 1982).",
+				"tr":  "B. B. Mandelbrot, The Fractal Geometry of Nature (New York–San Francisco: Freeman: 1982)."
+			},
+			{
+				"doi": "",
+				"or":  "O. Eh. Zasimchuk, Yu. G. Gordienko, and R. G. Gontareva, Metallofiz. Noveishie Tekhnol., 22, No. 4: 71 (2000) (in Russian).",
+				"tr":  "O. Eh. Zasimchuk, Yu. G. Gordienko, and R. G. Gontareva, Metallofiz. Noveishie Tekhnol., 22, No. 4: 71 (2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Bolshakov, V. Volchuk, and Yu. Dubrov, Fractals and Properties of Materials (Saarbrucken: Lambert Academic Publishing: 2016).",
+				"tr":  "V. Bolshakov, V. Volchuk, and Yu. Dubrov, Fractals and Properties of Materials (Saarbrucken: Lambert Academic Publishing: 2016)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Hadamard, Princeton University Bulletin, 13: 49 (1902) (in French).",
+				"tr":  "J. Hadamard, Princeton University Bulletin, 13: 49 (1902) (in French)."
+			},
+			{
+				"doi": "10.1515/9783110224016",
+				"or":  "S. I. Kabanikhin, Inverse and Ill-Posed Problems. Theory and Applications (De Gruyter: 2011).",
+				"tr":  "S. I. Kabanikhin, Inverse and Ill-Posed Problems. Theory and Applications (De Gruyter: 2011)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Bol’shakov, V. M. Volchuk, and Yu. I. Dubrov, Visn. Nac. Akad. Nauk Ukr., No. 8: 66 (2013) (in Ukrainian).",
+				"tr":  "V. I. Bol'shakov, V. M. Volchuk, and Yu. I. Dubrov, Visn. Nac. Akad. Nauk Ukr., No. 8: 66 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Bol’shakov, V. N. Volchuk, and Yu. I. Dubrov, Dopov. Nac. Akad. Nauk Ukr., No. 11: 77 (2014) (in Russian).",
+				"tr":  "V. I. Bol'shakov, V. N. Volchuk, and Yu. I. Dubrov, Dopov. Nac. Akad. Nauk Ukr., No. 11: 77 (2014) (in Russian)."
+			}
+		]
+	}
+}

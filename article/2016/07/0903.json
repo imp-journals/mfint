@@ -1,0 +1,99 @@
+{
+	"_id":    "MFiNT.38.07.0903",
+	"year":   2016,
+	"volume": 38,
+	"issue":  7,
+	"pages":  [903,909],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["12.04.2016"],
+	"PACS":   "62.20.Qp, 68.55.jd, 81.15.Cd, 81.15.Dj, 81.15.Kk, 81.40.Pq, 81.65.Lp",
+	"title":   {
+		"ua": "Вплив MoZrN-покриття на сталь XC100",
+		"en": "Effect of MoZrN Coating on a Steel XC100",
+		"ru": "Влияние MoZrN-покрытия на сталь XC100"
+	},
+	"abstract": {
+		"ua": "Покриття з нітриду цирконію ZrN наносилися на підложжя зі сталі XC100 з використанням технології вакуумного напорошення (PVD). Покриття на основі нітридів перехідних металів (Nb, Zr, Ti, V, ...), створені з використанням PVD-методи, як відомо, збільшують термін придатности різального інструменту; тому спостерігається швидкий ріст їх промислового виробництва. Наявна можливість виготовлення ZrN-покриттів зі змінними парціальним тиском азоту, залишковими напруженнями, товщиною тонкої плівки та коефіцієнтом тертя залежно від вмісту азоту. Використання азоту є перспективним шляхом підвищення зносостійкости та ефективности в трибології.",
+		"en": "The zirconium nitride ZrN coatings are deposited on substrates of XC100 steel using physical vapour deposition (PVD) technique. Coatings based on nitrides of transition metals (Nb, Zr, Ti, V, ...) developed by PVD are known to increase the life of cutting tools, and so they naturally have seen a rapid industrial growth. It is possible to produce ZrN-coatings with variations of nitrogen partial pressure, the residual stresses, the thickness of the thin film, and the friction coefficient depending on the nitrogen content. Usage of nitrogen is a good way to enhance wear resistance and effectiveness in tribological applications.",
+		"ru": "Покрытия из нитрида циркония ZrN наносились на подложки из стали XC100 с использованием метода вакуумного напыления (PVD). Покрытия на основе нитридов переходных металлов (Nb, Zr, Ti, V, ...), созданные с использованием PVD-технологии, как известно, увеличивают срок службы режущего инструмента; поэтому наблюдается быстрый рост их промышленного производства. Имеется возможность изготавливать ZrN-покрытия с изменяемыми парциальным давлением азота, остаточными напряжениями, толщиной тонкой плёнки и коэффициентом трения в зависимости от содержания азота. Использование азота является перспективным путём повышения износостойкости и эффективности в трибологии."
+	},
+	"keywords": {
+		"ua": "нітрид цирконію, покриття, підкладка, PVD-метод, трибологія",
+		"en": "zirconium nitride, coating, substrate, PVD-technique, tribological applications",
+		"ru": "нитрид циркония, покрытие, подложка, PVD-метод, трибология"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. Аббуді", "en": "A. Abboudi", "ru": "А. Аббуди"},
+			"OID": [486]
+		},
+		{
+			"AID": {"ua": "Б. Меддур", "en": "B. Meddour", "ru": "Б. Меддур"},
+			"OID": [487]
+		},
+		{
+			"AID": {"ua": "Б. Черміме", "en": "B. Chermime", "ru": "Б. Чермиме"},
+			"OID": [486]
+		},
+		{
+			"AID": {"ua": "Х. Джебаілі", "en": "H. Djebaili", "ru": "Х. Джебаили"},
+			"OID": [487]
+		},
+		{
+			"AID": {"ua": "М. Бріуа", "en": "M. Brioua", "ru": "М. Бриуа"},
+			"OID": [486]
+		}
+	],
+	"references": {
+		"count": 9,
+		"list":  [
+			{
+				"doi": "10.1016/j.actamat.2010.12.013",
+				"or":  "D. Sangiovanni, L. Hultman, and V. Chirita, Acta Materialia, 59: 2121 (2011).",
+				"tr":  "D. Sangiovanni, L. Hultman, and V. Chirita, Acta Materialia, 59: 2121 (2011)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(02)00567-4",
+				"or":  "J. Richter, Surf. Coat. Technol., 162: 119 (2003).",
+				"tr":  "J. Richter, Surf. Coat. Technol., 162: 119 (2003)."
+			},
+			{
+				"doi": "10.1016/S0043-1648(99)00149-0",
+				"or":  "N. Maria, M. Larsson, and H. Sture, Wear, 232: 221 (1999).",
+				"tr":  "N. Maria, M. Larsson, and H. Sture, Wear, 232: 221 (1999)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2007.06.104",
+				"or":  "K. Kutschej, B. Rashkova, J. Shen, D. Edwards, C. Mitterer, and G. Dehm, Thin Solid Films, 516: 369 (2007).",
+				"tr":  "K. Kutschej, B. Rashkova, J. Shen, D. Edwards, C. Mitterer, and G. Dehm, Thin Solid Films, 516: 369 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Kutschej, 7ème Symposium International sur les Tendances et Applications des Films Minces ‘TAFT-2000’ (Nancy, France, 2000).",
+				"tr":  "W. Kutschej, 7ème Symposium International sur les Tendances et Applications des Films Minces 'TAFT-2000' (Nancy, France, 2000)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Richardt and A. Durand, La Pratique du Vide et des Dépôts de Couches Minces (Paris: Fine: 1995).",
+				"tr":  "A. Richardt and A. Durand, La Pratique du Vide et des Dépôts de Couches Minces (Paris: Fine: 1995)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2003.08.012",
+				"or":  "H. L. Coldwell, R. C Dewes, D. K. Aspinwall, N. M. Renevier, and D. G. Teer, Surf. Coat. Technol., 177–178: 716 (2004).",
+				"tr":  "H. L. Coldwell, R. C Dewes, D. K. Aspinwall, N. M. Renevier, and D. G. Teer, Surf. Coat. Technol., 177–178: 716 (2004)."
+			},
+			{
+				"doi": "10.1016/0254-0584(95)01636-9",
+				"or":  "S.-C. Lee, W.-Y. Ho, and D. F. Lai, Materials Chemistry and Physics, 43: 266 (1996).",
+				"tr":  "S.-C. Lee, W.-Y. Ho, and D. F. Lai, Materials Chemistry and Physics, 43: 266 (1996)."
+			},
+			{
+				"doi": "10.1016/0040-6090(96)08663-4",
+				"or":  "P. Panjan, B. Navinšek, A. Cvelbar, A. Zalar, and I. Milošev, Thin Solid Films, 281: 298 (1996).",
+				"tr":  "P. Panjan, B. Navinšek, A. Cvelbar, A. Zalar, and I. Milošev, Thin Solid Films, 281: 298 (1996)."
+			}
+		]
+	}
+}

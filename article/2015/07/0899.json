@@ -1,0 +1,251 @@
+{
+	"_id":    "MFiNT.37.07.0899",
+	"year":   2015,
+	"volume": 37,
+	"issue":  7,
+	"pages":  [899,919],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["02.03.2015"],
+	"PACS":   "62.20.Qp, 68.35.bd, 68.35.Gy, 68.35.Md, 68.60.-p, 68.65.Ac, 81.40.Pq",
+	"title":  {
+		"ua": "Особливості термодинамічних процесів на контактних поверхнях багатокомпонентних нанокомпозитних покриттів з ієрархічною і адаптивною поведінкою",
+		"en": "Features of Thermodynamic Processes on Contact Surfaces of Multicomponent Nanocomposite Coatings with Hierarchical and Adaptive Behaviour",
+		"ru": "Особенности термодинамических процессов на контактных поверхностях многокомпонентных нанокомпозитных покрытий с иерархическим и адаптивным поведением"
+	},
+	"abstract": {
+		"ua": "На основі термодинаміки нерівноважних процесів розглянуто формування багатофункціональних властивостей багатокомпонентних нанокомпозитних покриттів з ієрархічною й адаптивною поведінкою.",
+		"en": "The formation of multifunctional properties of multicomponent nanocomposite coatings with the hierarchical and adaptive behaviour is considered on the basis of nonequilibrium thermodynamics.",
+		"ru": "На основе термодинамики неравновесных процессов рассмотрено формирование многофункциональных свойств многокомпонентных нанокомпозитных покрытий с иерархическим и адаптивным поведением."
+	},
+	"keywords": {
+		"ua": "ентропія, знос, трибоплівки, нанокомпозитні покриття",
+		"en": "entropy, wear, tribofilms, nanocomposite coatings",
+		"ru": "энтропия, износ, трибоплёнки, нанокомпозитные покрытия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. Д. Погребняк", "en": "O. D. Pogrebnjak", "ru": "А. Д. Погребняк"},
+			"OID": [208]
+		},
+		{
+			"AID": {"ua": "К. О. Дядюра", "en": "K. O. Dyadyura", "ru": "К. А. Дядюра"},
+			"OID": [208]
+		},
+		{
+			"AID": {"ua": "О. П. Гапонова", "en": "O. P. Gaponova", "ru": "О. П. Гапонова"},
+			"OID": [208]
+		}
+	],
+	"references": {
+		"count": 41,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Н. А. Азаренков, О. В. Соболь, А. Д. Погребняк, В. М. Береснев, С. В. Литовченко, О. Н. Иванов, Материаловедение неравновесного состояния модифицированной поверхности (Сумы: Сумский государственный университет: 2012).",
+				"tr":  "N. A. Azarenkov, O. V. Sobol', A. D. Pogrebnjak, V. M. Beresnev, S. V. Litovchenko, and O. N. Ivanov, Materialovedenie Neravnovesnogo Sostoyaniya Modifitsirovannoy Poverkhnosti [Materials Science of Nonequilibrium State of Modified Surface] (Sumy: Sumy State University: 2012) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(99)00572-1",
+				"or":  "W. D. Munz, L. A. Donohue, and P. Eh. Hovsepian, Surf. Coat. Technol., 125: 269 (2000).",
+				"tr":  "W. D. Munz, L. A. Donohue, and P. Eh. Hovsepian, Surf. Coat. Technol., 125: 269 (2000)."
+			},
+			{
+				"doi": "10.3103/S1068366611020085",
+				"or":  "A. D. Pogrebnjak, S. N. Bratushka, M. V. Il’yashenko, N. A. Makhmudov, O. V. Kolisnichenko, Yu. N. Tyurin, V. V. Uglov, A. V. Pshik, and M. V. Kaverin, J. Friction and Wear, 32, Iss. 2: 84 (2011).",
+				"tr":  "A. D. Pogrebnjak, S. N. Bratushka, M. V. Il'yashenko, N. A. Makhmudov, O. V. Kolisnichenko, Yu. N. Tyurin, V. V. Uglov, A. V. Pshik, and M. V. Kaverin, J. Friction and Wear, 32, Iss. 2: 84 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Л. Алонцева, С. Н. Братушка, А. А. Борисенко, А. А. Дробышевская, И. А. Кулик, Н. В. Прохоренкова, А. В. Пшик, В. Н. Рогоз, Металлофиз. новейшие технол., 33, № 6: 721 (2011).",
+				"tr":  "D. L. Alontseva, S. N. Bratushka, A. A. Borysenko, A. A. Drobyshevska, I. A. Kulik, N. V. Prokhorenkova, A. V. Pshyk, and V. N. Rogoz, Metallofiz. Noveishie Tekhnol., 33, No. 6: 721 (2011) (in Russian)."
+			},
+			{
+				"doi": "10.1134/S0031918X12080029",
+				"or":  "D. L. Alontseva, S. N. Bratushka, and M. V. Il’yashenko, The Physics of Metals and Metallography, 113, No. 8: 785 (2012).",
+				"tr":  "D. L. Alontseva, S. N. Bratushka, and M. V. Il'yashenko, The Physics of Metals and Metallography, 113, No. 8: 785 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "A. D. Pogrebnjak, M. V. Il’yashenko, and M. V. Kaverin, J. Nano- and Electronic Phys., 1, No. 4: 101 (2009).",
+				"tr":  "A. D. Pogrebnjak, M. V. Il'yashenko, and M. V. Kaverin, J. Nano- and Electronic Phys., 1, No. 4: 101 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Д. Погребняк, А. В. Пшик, В. М. Береснев, Б. Р. Жоллыбеков, Трение и износ, 35, № 1: 72 (2014).",
+				"tr":  "A. D. Pogrebnyak, A. V. Pshik, V. M. Beresnev, and B. R. Zhollybekov, Trenie i Iznos, 35, No. 1: 72 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.1134/S1063785013030231",
+				"or":  "A. D. Pogrebnyak, V. M. Beresnev, D. A. Kolesnikov, M. V. Kaverin, A. P. Shypylenko, K. Oyoshi, Y. Takeda, R. Krause-Rehberg, and A. G. Ponomarev, Tech. Phys. Lett., 39, No. 3: 280 (2013).",
+				"tr":  "A. D. Pogrebnyak, V. M. Beresnev, D. A. Kolesnikov, M. V. Kaverin, A. P. Shypylenko, K. Oyoshi, Y. Takeda, R. Krause-Rehberg, and A. G. Ponomarev, Tech. Phys. Lett, 39, No. 3: 280 (2013)."
+			},
+			{
+				"doi": "10.4236/msa.2013.44A004",
+				"or":  "A. D. Pogrebnjak, Mater. Sci. Applications, 4, No. 4: 24 (2013).",
+				"tr":  "A. D. Pogrebnjak, Mater. Sci. Applications, 4, No. 4: 24 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Д. Погребняк, А. А. Дробышевская, В. М. Береснев, М. К. Кылышканов, Г. В. Кирик, С. Н. Дуб, Ф. Ф. Комаров, А. П. Шипиленко, Ю. Ж. Тулеушев, Журнал технической физики, 81, № 7: 124 (2011).",
+				"tr":  "A. D. Pogrebnyak, A. A. Drobyshevskaya, V. M. Beresnev, M. K. Kylyshkanov, G. V. Kirik, S. N. Dub, F. F. Komarov, A. P. Shipilenko, and Yu. Zh. Tuleushev, Zhurnal Tekhnicheskoy Fiziki, 81, No. 7: 124 (2011) (in Russian)."
+			},
+			{
+				"doi": "10.12693/APhysPolA.123.816",
+				"or":  "A. D. Pogrebnjak, V. M. Beresnev, D. A. Kolesnikov, O. V. Bondar, Y. Takeda, K. Oyoshi, M. V. Kaverin, O. V. Sobol, R. Krause-Rehberg, and C. Karwat, Acta Physica Polonica A, 123, No. 6: 816 (2013).",
+				"tr":  "A. D. Pogrebnjak, V. M. Beresnev, D. A. Kolesnikov, O. V. Bondar, Y. Takeda, K. Oyoshi, M. V. Kaverin, O. V. Sobol, R. Krause-Rehberg, and C. Karwat, Acta Physica Polonica A, 123, No. 6: 816 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Панин, В. Е. Егорушкин, Физическая мезомеханика, 12, № 4: 7 (2009).",
+				"tr":  "V. E. Panin and V. E. Egorushkin, Fizicheskaya Mezomekhanika, 12, No. 4: 7 (2009) (in Russian)."
+			},
+			{
+				"doi": "10.1007/s00170-014-5673-2",
+				"or":  "A. A. Vereshchaka, A. S. Vereshchaka, O. Mgaloblishvili, M. N. Morgan, and A. D. Batako, Int. J. Adv. Manufacturing Technol., 72, Iss. 1–4: 303 (2014).",
+				"tr":  "A. A. Vereshchaka, A. S. Vereshchaka, O. Mgaloblishvili, M. N. Morgan, and A. D. Batako, Int. J. Adv. Manufacturing Technol., 72, Iss. 1–4: 303 (2014)."
+			},
+			{
+				"doi": "10.1016/j.vacuum.2010.08.003",
+				"or":  "H. C. Barshilia, S. Acharya, and M. Ghosh, Vacuum, 85: 411 (2010).",
+				"tr":  "H. C. Barshilia, S. Acharya, and M. Ghosh, Vacuum, 85: 411 (2010)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2014.01.052",
+				"or":  "G. Fox-Rabinovich, A. Kovalev, M. H. Aguirre, K. Yamamoto, S. Veldhuis, I. Gershman, A. Rashkovskiy, J. L. Endrino, B. Beake, G. Dosbaeva, D. Wainstein, J. Yuan, and J. W. Bunting, Appl. Surf. Sci., 297: 22 (2014).",
+				"tr":  "G. Fox-Rabinovich, A. Kovalev, M. H. Aguirre, K. Yamamoto, S. Veldhuis, I. Gershman, A. Rashkovskiy, J. L. Endrino, B. Beake, G. Dosbaeva, D. Wainstein, J.Yuan, and J. W. Bunting, Appl. Surf. Sci., 297: 22 (2014)."
+			},
+			{
+				"doi": "10.1007/s11249-009-9415-9",
+				"or":  "Q. Luo, Z. Zhou, W. M. Rainforth, and M. Bolton, Tribol. Lett., 34: 113 (2009).",
+				"tr":  "Q. Luo, Z. Zhou, W. M. Rainforth, and M. Bolton, Tribol. Lett., 34: 113 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Сергеев, Моделирование технологического процесса магнетронного распыления, обеспечивающего заданные физико-механические свойства нанокомпозитных покрытий металлорежущего инструмента (Автореф. дисс. … канд. техн. наук) (Рыбинск: Рыбинский государственный авиационный технический университет имени П. А. Соловьева: 2012).",
+				"tr":  "A. V. Sergeev, Modelirovanie Tekhnologicheskogo Protsessa Magnetronnogo Raspyleniya, Obespechivayushchego Zadannye Fiziko-mekhanicheskie Svoystva Nanokompozitnykh Pokrytiy Metallorezhushchego Instrumenta (Autoref. Dis. ... Cand. Techn. Sci.) (Rybinsk: P. A. Solovyov Rybinsk State Aviation Technical University: 2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Кузьмичёв, Магнетронные распылительные системы. Книга 1. Введение в физику и технику магнетронного распыления (Киев: Аверс: 2008).",
+				"tr":  "A. I. Kuz'michev, Magnetronnye Raspylitel'nye Sistemy. Vol. 1. Vvedenie v Fiziku i Tekhniku Magnetronnogo Raspyleniya [The Magnetron Sputtering System. Vol. 1. Introduction to the Physics and Technology of Magnetron Sputtering] (Kiev: Avers: 2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Работкин, Нанесение прозрачных проводящих покрытий на основе оксида цинка методом магнетронного распыления (Автореф. дисс. … канд. техн. наук) (Томск: Учреждение Российской академии наук Институт сильноточной электроники Сибирского отделения РАН: 2009).",
+				"tr":  "S. V. Rabotkin, Nanesenie Prozrachnykh Provodyashchikh Pokrytiy na Osnove Oksida Tsinka Metodom Magnetronnogo Raspyleniya (Autoref. Dis. ... Cand. Techn. Sci.) (Tomsk: Institute of High Current Electronics, Siberian Branch, Russian Academy of Sciences: 2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. D. Pogrebnjak, T. O. Berestok, A. S. Opanasyuk, Y. Takeda, K. Oyoshi, F. F. Komarov, and J. Kassi, J. Nano- and Electronic Physics, 6, No. 2: 02003-1 (2014).",
+				"tr":  "A. D. Pogrebnjak, T. O. Berestok, A. S. Opanasyuk, Y. Takeda, K. Oyoshi, F. F. Komarov, and J. Kassi, J. Nano- and Electronic Physics, 6, No. 2: 02003-1 (2014)."
+			},
+			{
+				"doi": "10.3103/S1068366614050067",
+				"or":  "S. N. Grigoriev, O. V. Sobol, V. M. Beresnev, I. V. Serdyuk, A. D. Pogrebnyak, D. A. Kolesnikov, and U. S. Nemchenko, J. Friction and Wear, 35, Iss. 5: 359 (2014).",
+				"tr":  "S. N. Grigoriev, O. V. Sobol, V. M. Beresnev, I. V. Serdyuk, A. D. Pogrebnyak, D. A. Kolesnikov, and U. S. Nemchenko, J. Friction and Wear, 35, Iss. 5: 359 (2014)."
+			},
+			{
+				"doi": "10.1088/1468-6996/15/2/025007",
+				"or":  "V. Ivashchenko, S. Veprek, A. Pogrebnjak, and B. Postolnyi, Sci. Technol. Adv. Mater., 15, Iss. 2: 025007 (2014).",
+				"tr":  "V. Ivashchenko, S. Veprek, A. Pogrebnjak, and B. Postolnyi, Sci. Technol. Adv. Mater., 15, Iss. 2: 025007 (2014)."
+			},
+			{
+				"doi": "10.1134/S1063784214010149",
+				"or":  "A. D. Pogrebnjak, M. V. Kaverin, and V. M. Beresnev, Tech. Phys., 59, Iss. 1: 85 (2014).",
+				"tr":  "A. D. Pogrebnjak, M. V. Kaverin, and V. M. Beresnev, Tech. Phys., 59, Iss. 1: 85 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Д. Коротаев, В. Ю. Мошков, С. В. Овчинников, Ю. П. Пинжин, В. М. Савостиков, А. Н. Тюменцев, Физическая мезомеханика, 8, № 5: 103 (2005).",
+				"tr":  "A. D. Korotaev, V. Yu. Moshkov, S. V. Ovchinnikov, Yu. P. Pinzhin, V. M. Savostikov, and A. N. Tyumentsev, Fizicheskaya Mezomekhanika, 8, No. 5: 103 (2005) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0040-6090(95)06695-0",
+				"or":  "S. Veprek and S. Reiprich, Thin Solid Films, 268: 64 (1995).",
+				"tr":  "S. Veprek and S. Reiprich, Thin Solid Films, 268: 64 (1995)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(96)02988-X",
+				"or":  "S. Veprek, M. Haussmann, S. Reiprich, Li. Shighi, and J. Dian, Surf. Coat. Technol., 86–88: 394 (1996).",
+				"tr":  "S. Veprek, M. Haussmann, S. Reiprich, Li. Shighi, and J. Dian, Surf. Coat. Technol., 86–88: 394 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Егорушкин, Изв. вузов. Физика, 33, № 2: 51 (1990).",
+				"tr":  "V. E. Egorushkin, Izv. Vuzov. Fizika, 33, No. 2: 51 (1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Д. Коротаев, Д. П. Борисов, В. Ю. Мошков, С. В. Овчинников, А. Н. Тюменцев, Г. А. Прибытков, Физическая мезомеханика, 14, № 5: 87 (2011).",
+				"tr":  "A. D. Korotaev, D. P. Borisov, V. Yu. Moshkov, S. V. Ovchinnikov, A. N. Tyumentsev, and G. A. Pribytkov, Fizicheskaya Mezomekhanika, 14, No. 5: 87 (2011) (in Russian)."
+			},
+			{
+				"doi": "10.3390/e12020275",
+				"or":  "S. G. Fox-Rabinovich, I. S. Gershman, K. Yamamoto, A. Biksa, S. C. Veldhuis, B. D. Beake, and A. I. Kovalev, Entropy, 12, No. 2: 275 (2010).",
+				"tr":  "S. G. Fox-Rabinovich, I. S. Gershman, K. Yamamoto, A. Biksa, S. C. Veldhuis, B. D. Beake, and A. I. Kovalev, Entropy, 12, No. 2: 275 (2010)."
+			},
+			{
+				"doi": "10.1201/9781420017861.ch10",
+				"or":  "G. S. Fox-Rabinovich, K. Yamamoto, and A. I. Kovalev, Self-Organization During Friction. Advanced Surface-Engineered Materials and Systems Design (Eds. G. S. Fox-Rabinovich and G. E. Totten) (Boca Raton: CRC Taylor and Francis Group: 2006), p. 297.",
+				"tr":  "G. S. Fox-Rabinovich, K. Yamamoto, and A. I. Kovalev, Self-Organization During Friction. Advance Surface-Engineered Materials and Systems Design (Eds. G. S. Fox-Rabinovich and G. E. Totten) (Boca Raton: CRC Taylor and Francis Group: 2006), p. 297."
+			},
+			{
+				"doi": "10.1201/9781420017861.ch3",
+				"or":  "N. A. Bushe and I. S. Gershman, Self-Organization During Friction. Advanced Surface-Engineered Materials and Systems Design (Eds. G. S. Fox-Rabinovich and G. E. Totten) (Boca Raton: CRC Taylor and Francis Group: 2006), p. 59.",
+				"tr":  "N. A. Bushe and I. S. Gershman, Self-Organization During Friction. Advanced Surface-Engineered Materials and Systems Design (Eds. G. S. Fox-Rabinovich and G. E. Totten) (Boca Raton: CRC Taylor and Francis Group: 2006), p. 59."
+			},
+			{
+				"doi": "10.1007/978-3-642-56565-6",
+				"or":  "D. Jou, J. Casas-Vazques, and G. Lebon, Extended Irreversible Thermodynamics (Berlin–Heidelberg: Springer-Verlag: 2001).",
+				"tr":  "D. Jou, J. Casas-Vazques, and G. Lebon, Extended Irreversible Thermodynamics (Berlin–Heidelberg: Springer-Verlag: 2001)."
+			},
+			{
+				"doi": "",
+				"or":  "И. С. Гершман, Трение, износ, смазка, 8, № 4: 71 (2006).",
+				"tr":  "I. S. Gershman, Trenie, Iznos, Smazka, 8, No. 4: 71 (2006) (in Russian)."
+			},
+			{
+				"doi": "10.1201/9781420017861.ch5",
+				"or":  "G. S. Fox-Rabinovich, L. S. Shuster, B. D. Beake, and S. C. Veldhuis, Self-Organization During Friction. Advanced Surface-Engineered Materials and Systems Design (Eds. G. S. Fox-Rabinovich and G. E. Totten) (Boca Raton: CRC Taylor and Francis Group: 2006), p. 121.",
+				"tr":  "G. S. Fox-Rabinovich, L. S. Shuster, B. D. Beake, and S. C. Veldhuis, Self-Organization During Friction. Advanced Surface-Engineered Materials and Systems Design (Eds. G. S. Fox-Rabinovich and G. E. Totten) (Boca Raton: CRC Taylor and Francis Group: 2006), p. 121."
+			},
+			{
+				"doi": "",
+				"or":  "И. С. Гершман, С. В. Чертовских, Л. Ш. Шустер, Механика и машиностроение. Известия Самарского научного центра Российской академии наук, 13, № 4(3): 999 (2011).",
+				"tr":  "I. S. Gershman, S. V. Chertovskikh, and L. Sh. Shuster, Mekhanika i Mashinostroenie. Izvestiya Samarskogo Nauchnogo Tsentra Rossiyskoy Akademii Nauk, 13, No. 4(3): 999 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. И. Костецкий, М. Г. Носовский, Л. И. Бершадский, Поверхностная прочность материалов при трении (Киев: Техника: 1976).",
+				"tr":  "B. I. Kostetskiy, M. G. Nosovskiy, and L. I. Bershadskiy, Poverkhnostnaya Prochnost' Materialov pri Trenii [Surface Strength of Materials in Friction] (Kiev: Tekhnika: 1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. С. Гершман, Н. А. Буше, Трение и износ, 16, № 1: 61 (1995).",
+				"tr":  "I. S. Gershman and N. A. Bushe, Trenie i Iznos, 16, No. 1: 61 (1995) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Бершадский, Структурная термодинамика трибосистем (Киев: Знание: 1990).",
+				"tr":  "L. I. Bershadskiy, Strukturnaya Termodinamika Tribosistem [Structural Thermodynamics of Tribosystems] (Kiev: Znanie: 1990) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2003.11.016",
+				"or":  "I. S. Gershman and N. A. Bushe, Surf. Coat. Technol., 186: 405 (2004).",
+				"tr":  "I. S. Gershman and N. A. Bushe, Surf. Coat. Technol., 186: 405 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Ш. Мигранов, Л. Ш. Шустер, Механика и машиностроение. Известия Самарского научного центра Российской академии наук, 13, № 4(3): 1126 (2011).",
+				"tr":  "M. Sh. Migranov and L. Sh. Shuster, Mekhanika i Mashinostroenie. Izvestiya Samarskogo Nauchnogo Tsentra Rossiyskoy Akademii Nauk, 13, No. 4(3): 1126 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Пригожин, Д. Кондипуди, Современная термодинамика (Москва: Мир: 2002).",
+				"tr":  "I. Prigozhin and D. Kondipudi, Sovremennaya Termodinamika [Modern Thermodynamics] (Moscow: Mir: 2002) (Russian translation)."
+			}
+		]
+	}
+}

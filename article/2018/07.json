@@ -1,0 +1,127 @@
+{
+	"year":   2018,
+	"volume": 40,
+	"issue":  7,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [859,876],
+			"title": {
+				"ua": "Дослідження методою гіпербол обтікання клину при вільному різанні",
+				"en": "Hyperbolae Method Analysis of a Wedge Flow at Free Cutting",
+				"ru": "Исследование методом гипербол обтекания клина при свободном резании"
+			},
+			"autors": {
+				"ua": "М. О. Курін",
+				"en": "М. О. Kurin",
+				"ru": "М. А. Курин"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [877,907],
+			"title": {
+				"ua": "Особливості формування швидкісним термічним обробленням мікроструктури та механічних властивостей гарячевальцьованих низьковуглецевих сталей прокатного сортаменту",
+				"en": "Features of Formation by Rapid Heat Treatment of a Microstructure and Mechanical Properties of Hot-Rolled Low-Carbon Steels of a Rolled Products Range",
+				"ru": "Особенности формирования скоростной термической обработкой микроструктуры и механических свойств горячекатаных низкоуглеродистых сталей прокатного сортамента"
+			},
+			"autors": {
+				"ua": "Р. В. Тельович, Ю. А. Гарасим, Н. О. Бондаревська",
+				"en": "R. V. Teliovich, J. A. Garasym, and N. O. Bondarevska",
+				"ru": "Р. В. Телевич, Ю. А. Гарасим, Н. А. Бондаревская"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [909,918],
+			"title": {
+				"ua": "Вплив різних видів термічної дії на структуру стопу системи Al–Cu–Fe, що містить квазикристалічну фазу",
+				"en": "Influence of Various Types of Thermal Action on Structure of an Alloy of the Al–Cu–Fe System Containing a Quasi-Crystalline Phase",
+				"ru": "Влияние различных видов термического воздействия на структуру сплава системы Al–Cu–Fe, содержащего квазикристаллическую фазу"
+			},
+			"autors": {
+				"ua": "В. В. Гиржон, О. В. Смоляков, І. В. Гайворонський",
+				"en": "V. V. Gіrzhon, O. V. Smolyakov, and I. V. Gayvoronsky",
+				"ru": "В. В. Гиржон, А. В. Смоляков, И. В. Гайворонский"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [919,930],
+			"title": {
+				"ua": "Плазмонна спектроскопія поверхні плівок перехідних металів після низькоенергетичного йонного впливу",
+				"en": "Plasmon Spectroscopy of a Surface of the Transition Metal Films after Low-Energy Ion Action",
+				"ru": "Плазмонная спектроскопия поверхности плёнок переходных металлов после низкоэнергетического ионного воздействия"
+			},
+			"autors": {
+				"ua": "М. О. Васильєв, В. М. Колесник, С. І. Сидоренко, С. М. Волошко, В. В. Янчук, А. К. Орлов",
+				"en": "M. O. Vasylyev, V. M. Kolesnik, S. I. Sidorenko, S. М. Voloshko, V. V. Yanchuk, and A. K. Orlov",
+				"ru": "М. А. Васильев, В. Н. Колесник, С. И. Сидоренко, С. М. Волошко, В. В. Янчук, А. К. Орлов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [931,953],
+			"title": {
+				"ua": "Вплив підшарів ґерманію на оптичну провідність тонких плівок золота",
+				"en": "Influence of Sublayers of Germanium on Optical Conductivity of Thin Films of Gold",
+				"ru": "Влияние подслоёв германия на оптическую проводимость тонких плёнок золота"
+			},
+			"autors": {
+				"ua": "Р. І. Бігун, З. В. Стасюк, О. В. Строганов, Д. С. Леонов",
+				"en": "R. I. Bihun, Z. V. Stasyuk, O. V. Stroganov, and D. S. Leonov",
+				"ru": "Р. И. Бигун, З. В. Стасюк, О. В. Строганов, Д. С. Леонов"
+			}
+		},		
+		{
+			"type":    1,
+			"rubric":  18,
+			"pages":  [955,965],
+			"title": {
+				"ua": "Акустичне дослідження адгезії в поверхнях поділу рідкий метал–кераміка",
+				"en": "Acoustical Investigation of Adhesion in Liquid Metal–Ceramic Interfaces",
+				"ru": "Акустическое исследование адгезии в поверхностях раздела жидкий металл–керамика"
+			},
+			"autors": {
+				"ua": "Закарія Адеф, Абдельазиз Догман, Кенза Кемлі",
+				"en": "Zakaria Hadef, Abdellaziz Doghmane, and Kenza Kamli",
+				"ru": "Закария Адеф, Абдельазиз Догман, Кенза Кэмли"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [967,977],
+			"title": {
+				"ua": "Вплив наночастинок золота та срібла на властивості тонких плівок ТіО$_2$",
+				"en": "Influence of Nanoparticles of Gold and Silver on Properties of Thin Films of TiO$_2$",
+				"ru": "Влияние наночастиц золота и серебра на свойства тонких плёнок ТіО$_2$"
+			},
+			"autors": {
+				"ua": "І. В. Дубровін, Т. О. Буско, П. П. Горбик, М. П. Куліш, О. П. Дмитренко",
+				"en": "I. V. Dubrovin, T. O. Busko, P. P. Gorbyk, M. P. Kulish, and O. P. Dmytrenko",
+				"ru": "И. В. Дубровин, Т. О. Буско, П. П. Горбик, Н. П. Кулиш, О. П. Дмитренко"
+			}
+		},		
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [979,992],
+			"title": {
+				"ua": "Приготування нанокомпозитів Co–Gr й аналіза їхніх трибологічних і корозійних характеристик",
+				"en": "Preparation of Co–Gr Nanocomposites and Analysis of Their Tribological and Corrosion Characteristics",
+				"ru": "Приготовление нанокомпозитов Co–Gr и анализ их трибологических и коррозионных характеристик"
+			},
+			"autors": {
+				"ua": "Г. Р. Рагав, А. Н. Баладжі, Д. Мутукрішнан, В. Шруті",
+				"en": "G. R. Raghav, A. N. Balaji, D. Muthukrishnan, and V. Sruthi",
+				"ru": "Г. Р. Рагав, А. Н. Баладжи, Д. Мутукришнан, В. Шрути"
+			}
+		}		
+	]
+}

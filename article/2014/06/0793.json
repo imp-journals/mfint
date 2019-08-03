@@ -1,0 +1,177 @@
+{
+	"_id":    "MFiNT.36.06.0793",
+	"year":   2014,
+	"volume": 36,
+	"issue":  6,
+	"pages":  [793,801],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["22.03.2014"],
+	"PACS":   "61.72.sd, 61.72.Yx, 64.60.qj, 66.30.Lw, 81.05.Bx, 81.10.Jt, 81.30.Mh",
+	"title":   {
+		"ua": "Вплив третього елемента на швидкість коміркового розпаду в стопі Cu—5,69 ат.% Ti",
+		"en": "Influence of the Third Element on the Rate of Cellular Decomposition in Cu—5.69 at.% Ti Alloy",
+		"ru": "Влияние третьего элемента на скорость ячеистого распада в сплаве Cu—5,69 ат.% Ti"
+	},
+	"abstract": {
+		"ua": "Досліджено вплив леґування третім елементом (Ni, In, Ga, Mn, Co, Cr, Fe, Sn та Zr) на швидкість перебігу коміркового розпаду в стопі міді з 5,69 aт.% титану за температури 873 К. Показано, що лише нікель та індій пришвидшують його, тоді як решта гальмує. Проаналізовано величини узагальненого статистичного моменту $m_{s}$ та їх різницю між домішковим елементом та металом-основою ($m_{s3} - m_{sCu}$) в стопі Cu—5,69 aт.% Ti.",
+		"en": "The influence of alloying with the third element (Ni, In, Ga, Mn, Co, Cr, Fe, Sn, and Zr) on the rate of the cellular decomposition in the alloy of copper with 5.69 at.% titanium at the temperature of 873 K is investigated. As shown, nickel and indium expedite the cellular precipitation, while the others hinder it. The values of generalized statistical moment $m_{s}$ and their difference ($m_{s3} - m_{sCu}$) for different alloying elements and base metal in the Cu—5.69 at.% Ti alloy are analysed.",
+		"ru": "Исследовано влияние легирования третьим элементом (Ni, In, Ga, Mn, Co, Cr, Fe, Sn та Zr) на скорость протекания ячеистого распада в сплаве меди с 5,69 ат.% титана при температуре 873 К. Показано, что только никель и индий ускоряют его, тогда как остальные тормозят. Проанализированы величины обобщённого статистического момента $m_{s}$ и их разность между примесным элементом и металлом-основой ($m_{s3} - m_{sCu}$) в сплаве Cu—5,69 ат.% Ti."
+	},
+	"keywords": {
+		"ua": "леґування, комірковий розпад, коефіцієнт дифузії, статистичний узагальнений момент атома",
+		"en": "alloying, cellular decomposition, diffusion coefficient, statistical generalized momentum of atom",
+		"ru": "легирование, ячеистый распад, коэффициент диффузии, статистический обобщенный момент атома"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Т. С. Гаценко", "en": "T. S. Gatsenko", "ru": "Т. С. Гаценко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. А. Шматко", "en": "O. A. Shmatko", "ru": "О. А. Шматко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 27,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Л. Н. Лариков, Вопросы физики металлов и металловедения, вып. 10: 121 (1959).",
+				"tr":  "L. N. Larikov, Voprosy Fiziki Metallov i Metallovedeniya, Iss. 10: 121 (1959) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Лариков, М. Н. Белякова, Б. Бейер, И. Виттинг, Р. Раттке, О. А. Шматко, Труды симпозиума «Проблемы физики твердого тела и материаловедения» (10–20 апреля 1976) (Москва: Наука: 1976), с. 159.",
+				"tr":  "L. N. Larikov, M. N. Belyakova, B. Beyer, I. Vitting, R. Rattke, and O. A. Shmatko, Trudy Simpoziuma 'Problemy Fisiki Tverdogo Tela i Materialovedeniya' (April 10–20, 1976) (Moscow: Nauka: 1976), p. 159 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Лариков, О. А. Шматко, Ячеистый распад пересыщенных твердых растворов (Киев: Наукова думка: 1976)",
+				"tr":  "L. N. Larikov and O. A. Shmatko, Yacheistyy Raspad Peresyshchennykh Tvyordykh Rastvorov (Kiev: Naukova Dumka: 1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Суховаров, Прерывистое выделение фаз в сплавах (Новосибирск: Наука: 1983).",
+				"tr":  "V. F. Sukhovarov, Preryvistoe Vydelenie Faz v Splavakh (Novosibirsk: Nauka: 1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Zięba, Local Characterization of Chemistry and Kinetics in Discontinuous Solid State Reactions (Cracow: Institute of Metallurgy and Material Science, Polish Academy of Sciences: 2001).",
+				"tr":  "P. Zięba, Local Characterization of Chemistry and Kinetics in Discontinuous Solid State Reactions (Cracow: Institute of Metallurgy and Material Science, Polish Academy of Sciences: 2001)."
+			},
+			{
+				"doi": "10.1016/0036-9748(68)90157-9",
+				"or":  "H. I. Aaronson and Y. C. Liu, Scr. Met., 2, No. 1: 1 (1968).",
+				"tr":  "H. I. Aaronson and Y. C. Liu, Scr. Met., 2, No. 1: 1 (1968)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Н. Задумкин, ЖЭТФ, 24, № 5: 615 (1953).",
+				"tr":  "S. N. Zadumkin, Zh. Eksp. Teor. Fiz., 24, No. 5: 615 (1953) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Корольков, Изв. АН СССР. Отд. техн. наук, 2: 35 (1956).",
+				"tr":  "A. M. Korol'kov, Izv. AN SSSR. Otd. Tekhn. Nauk, 2: 35 (1956) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Чувильдеев, ФММ, 81, № 2: 5 (1996); idem, 81, № 4: 53 (1996).",
+				"tr":  "V. N. Chuvil'deyev, Fiz. Met. Metalloved., 81, No. 2: 5 (1996); idem, 81, No. 4: 53 (1996) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Чувильдеев, ФММ, 81, № 5: 5 (1996).",
+				"tr":  "V. N. Chuvil'deev, Fiz. Met. Metalloved., 81, No. 5: 5 (1996) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. С. Смирнова, В. Н. Чувильдеев, ФММ, 88: 74 (1999).",
+				"tr":  "E. S. Smirnova and V. N. Chuvil'deev, Fiz. Met. Metalloved., 88: 74 (1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Шульце, Металлофизика (Москва: Мир: 1971).",
+				"tr":  "G. E. R. Schulze, Metallphysik (Berlin: Akademie-Verlag: 1967) (in German)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Хансен, К. Андерко, Структура двойных сплавов (Москва: Металлургиздат: 1962), т. 1.",
+				"tr":  "M. Hansen and K. Anderko, Constitution of Binary Alloys (New York: McGraw-Hill: 1958), vol. 1."
+			},
+			{
+				"doi": "",
+				"or":  "Metals Handbook. Metallography, Structures and Phase Diagrams (Metals Park, Ohio: ASM: 1973).",
+				"tr":  "Metals Handbook. Metallography, Structures and Phase Diagrams (Metals Park, Ohio: ASM: 1973)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Дж. Смитлз, Металлы: Справочник (Москва: Металлургия: 1980).",
+				"tr":  "C. J. Smithells, Metals: Reference Book (London–Boston: Butterworths: 1976)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Панин, М. Ф. Жоровков, И. И. Наумов, Е. В. Чулков, С. Г. Псахье, Материалы І Всесоюзной школы по диаграммам состояния в материаловедении (Кацивели, 1978) (Киев: 1979), c. 144.",
+				"tr":  "V. E. Panin, M. F. Zhorovkov, I. I. Naumov, E. V. Chulkov, and S. G. Psakh'ye, Materialy I Vsesoyuznoy Shkoly po Diagrammam Sostoyaniya v Materialovedenii (Katsiveli, 1978) (Kiev: 1979), p. 144 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Лариков, О. А. Шматко, Республиканский межведомственный сборник «Металлофизика», вып. 37: 63 (1971).",
+				"tr":  "L. N. Larikov and O. A. Shmatko, Metallofizika, Iss. 37: 63 (1971) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0022-3115(78)90294-5",
+				"or":  "W. C. Knodle and J. Koehler, J. Nucl. Mater., 69, Nos. 1–2: 620 (1978).",
+				"tr":  "W. C. Knodle and J. Koehler, J. Nucl. Mater., 69, Nos. 1–2: 620 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "Х. Г. Тхагапсоев, Металлофизика (Рукопись деп. № 4012-83, 15 с.) (1983).",
+				"tr":  "Kh. G. Thagapsoev, Metallofizika (Deposit Manuscript No. 4012-83, 15 p.) (1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Х. Г. Тхагапсоев, Изв. АН СССР. Металлы, № 2: 143 (1984).",
+				"tr":  "Kh. G. Thagapsoev, Izv. AN SSSR. Metally, No. 2:143 (1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Самсонов, И. Ф. Прядко, Л. Ф. Прядко, Конфигурационная модель вещества (Киев: Наукова думка: 1971).",
+				"tr":  "G. V. Samsonov, I. F. Pryadko, and L. F. Pryadko, Konfiguratsionnaya Model' Veshchestva (Kiev: Naukova Dumka: 1971) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Рахштадт, О. М. Ховова, В. А. Беляева, ФММ, 52, № 5: 1017 (1981).",
+				"tr":  "A. G. Rakhshtadt, O. M. Khovova, and V. A. Belyaeva, Fiz. Met. Metalloved., 52, No. 5: 1017 (1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. Ф. Елсукова, Н. И. Афанасьев, Н. Т. Мацкевич, Тез. докл. ІІІ Всесоюзного совещания по старению сплавов «Атомно-кристаллическая структура начальных стадий старения в металлических сплавах»(26 февраля–2 марта 1979 г., Свердловск) (Свердловск: ИФМ УНЦ АН СССР: 1979).",
+				"tr":  "T. F. Elsukova, N. I. Afanas'ev, and N. T. Matskevich, Tezisy III Vsesoyuznogo Soveshchaniya po Stareniyu Splavov 'Atomno-Kristallicheskaya Struktura Nachal'nykh Stadiy Stareniya v Metallicheskikh Splavakh' (February 26–March 2, 1979, Sverdlovsk) (Sverdlovsk: IFM UNTs AN SSSR: 1979), p. 31 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. И. Афанасьев, Т. Ф. Елсукова ФММ, 57, № 1: 96 (1984).",
+				"tr":  "N. I. Afanas'ev and T. F. Elsukova, Fiz. Met. Metalloved., 57, No. 1: 96 (1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Н. Задумкин, Журнал неорганической химии, 5, № 8: 1892 (1960).",
+				"tr":  "S. N. Zadumkin, Zhurnal Neorganicheskoi Khimii, 5, No. 8: 1892 (1960) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. К. Семенченко, Поверхностные явления в металлах и сплавах (Москва: Госиздат: 1957).",
+				"tr":  "V. K. Semenchenko, Poverkhnostnye Yavleniya v Metallakh i Splavakh (Moscow: Gosizdat: 1957) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Гамбош, Статистическая теория атома и ее применения (Москва: ИЛ: 1951).",
+				"tr":  "P. Gambosh, Statistical Theory of the Atom and Its Applications (Moscow: IL: 1951) (Russian translation)."
+			}
+		]
+	}
+}

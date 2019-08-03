@@ -1,0 +1,80 @@
+{
+	"_id":    "MFiNT.36.08.1079",
+	"year":   2014,
+	"volume": 36,
+	"issue":  8,
+	"pages":  [1079,1089],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["10.10.2013"],
+	"PACS":   "64.75.Nx, 66.30.Dn, 66.30.je, 68.35.Dv, 81.65.Lp",
+	"title":   {
+		"ua": "Дифузія азоту і фазово–структурні перетворення в титані",
+		"en": "Diffusion of Nitrogen and Phase—Structural Transformations in Titanium",
+		"ru": "Диффузия азота и фазово–структурные превращения в титане"
+	},
+	"abstract": {
+		"ua": "Аналітично й експериментально досліджено процес високотемпературного азотування (Т = 950°C) титану. Відображено роль азоту як $\\alpha$-стабілізатора у формуванні нітридного шару та тришарової дифузійної зони (шар $\\alpha$-фази, шар $\\alpha + \\beta$-фази і шар $\\beta$-фази). Одержано наближений розв’язок сформульованої задачі щодо дифузії азоту в такому неоднорідному середовищі з урахуванням переміщень міжфазних меж. Розраховано константи параболічного росту шарів, що уможливило передбачити кінетику їх росту і розподіл азоту в дифузійній зоні. Експериментально зафіксовано еволюцію мікроструктури газонасиченого шару (після витримок у 1 і 5 годин), зумовлену структурно-фазовими перетвореннями під час дифузії азоту.",
+		"en": "The process of high-temperature nitridation (Т = 950°C) of titanium is investigated analytically and experimentally. The role of nitrogen as $\\alpha$-stabilizer in forming of nitride layer and diffusion zone, which contains three layers (layer of $\\alpha$-phase, layer of $\\alpha + \\beta$-phase, and layer of $\\beta$-phase), is shown. The approximate solution of formulated task is obtained for diffusion of nitrogen in such a heterogeneous medium, taking into account the motion of interfaces. The constants of parabolic growth of layers are calculated. It allows foreseeing the kinetics of their growth and distribution of nitrogen in diffusion zone. The microstructure evolution of diffusion zone (after processing times of 1 h and 5 h), which is caused by the phase—structural transformations during diffusion of nitrogen, is fixed experimentally.",
+		"ru": "Процесс высокотемпературного азотирования (Т = 950°C) исследован аналитически и экспериментально. Отображена роль азота как $\\alpha$-стабилизатора в формировании нитридного слоя и трёхслойной диффузионной зоны (слой $\\alpha$-фазы, слой $\\alpha + \\beta$-фазы и слой $\\beta$-фазы). Получено приближенное решение сформулированной задачи относительно диффузии азота в такой неоднородной среде с учётом перемещения межфазных границ. Рассчитаны константы параболического роста слоёв, что дало возможность предвидеть кинетику их роста и распределение азота в диффузионной зоне. Экспериментально обнаружена микроструктурная эволюция диффузионной зоны (после времени обработки 1 и 5 часов), которая обусловлена фазово-структурными превращениями во время диффузии азота."
+	},
+	"keywords": {
+		"ua": "азотування титану, кінетика, дифузія, структурно–фазові перетворення",
+		"en": "nitridation of titanium, kinetics, diffusion, phase–structural transformations",
+		"ru": "азотирование титана, кинетика, диффузия, структурно–фазовые превращения"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. Ткачук", "en": "O. Tkachuk", "ru": "О. Ткачук"},
+			"OID": [6]
+		},
+		{
+			"AID": {"ua": "Я. Матичак", "en": "Ya. Matychak", "ru": "Я. Матычак"},
+			"OID": [6]
+		},
+		{
+			"AID": {"ua": "І. Похрелюк", "en": "I. Pohrelyuk", "ru": "И. Похрелюк"},
+			"OID": [6]
+		},
+		{
+			"AID": {"ua": "В. Федірко", "en": "V. Fedirko", "ru": "В. Федирко"},
+			"OID": [6]
+		}
+	],
+	"references": {
+		"count": 6,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "V. M. Fedirko and I. M. Pohrelyuk, Azotuvannya Tytanu ta Yogo Splaviv (Nitridation of Titanium and Its Alloys) (Kyiv: Naukova Dumka: 1995) (in Ukrainian).",
+				"tr":  "V. M. Fedirko and I. M. Pohrelyuk, Azotuvannya Tytanu ta Yogo Splaviv (Nitridation of Titanium and Its Alloys) (Kyiv: Naukova Dumka: 1995) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ya. Matychak, V. Fedirko, I. Pohrelyuk, O. Yaskiv, and O. Tkachuk, Defect Diffus. Forum, 277: 33 (2008).",
+				"tr":  "Ya. Matychak, V. Fedirko, I. Pohrelyuk, O. Yaskiv, and O. Tkachuk, Defect Diffus. Forum, 277: 33 (2008)."
+			},
+			{
+				"doi": "10.1007/s11661-002-0204-4",
+				"or":  "I. Katzarov, S. Malinov, and W. Sha, Metall. Mater. Trans. A, 33A: 1027 (2002).",
+				"tr":  "I. Katzarov, S. Malinov, and W. Sha, Metall. Mater. Trans. A, 33A: 1027 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "Ya. Matychak, V. Fedirko, I. Pohrelyuk, and O. Tkachuk, Diffusion-Fundamentals Org., 11, No. 48: 1 (2009).",
+				"tr":  "Ya. Matychak, V. Fedirko, I. Pohrelyuk, and O. Tkachuk, Diffusion-Fundamentals Org., 11, No. 48: 1 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "E. Fromm und E. Gebhardt, Gase und Kohlenstoff in Metallen. Reine und angewandte Metallkunde in Einzeldarstellungen. Bd. 26 (Berlin–Heidelberg–New York: Springer-Verlag: 1976) (in German).",
+				"tr":  "E. Fromm und E. Gebhardt, Gase und Kohlenstoff in Metallen. Reine und angewandte Metallkunde in Einzeldarstellungen. Bd. 26 (Berlin–Heidelberg–New York: Springer-Verlag: 1976) (in German)."
+			},
+			{
+				"doi": "",
+				"or":  "A. V. Lykov, Teoriya Teploprovodnosti (Theory of Thermal Conduction) (Moscow: Vysshaya Shkola: 1966) (in Russian).",
+				"tr":  "A. V. Lykov, Teoriya Teploprovodnosti (Theory of Thermal Conduction) (Moscow: Vysshaya Shkola: 1966) (in Russian)."
+			}
+		]
+	}
+}

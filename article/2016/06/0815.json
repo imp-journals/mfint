@@ -1,0 +1,126 @@
+{
+	"_id":    "MFiNT.38.06.0815",
+	"year":   2016,
+	"volume": 38,
+	"issue":  6,
+	"pages":  [815,823],
+	"rubric": 2,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["10.05.2016"],
+	"PACS":   "29.30.Ep, 34.50.-s, 61.05.cf, 61.05.cp, 68.55.J-, 81.15.Cd, 82.80.Yc",
+	"title":   {
+		"ua": "Визначення товщини шарів багатошарових періодичних покриттів методом резерфордівського зворотного розсіювання",
+		"en": "Determination of a Thickness of Layers of Multilayer Periodic Coatings by a Method of the Rutherford Backscattering",
+		"ru": "Определение толщины слоёв многослойных периодических покрытий методом резерфордовского обратного рассеяния"
+	},
+	"abstract": {
+		"ua": "Методою Резерфордового зворотнього розсіяння було визначено товщини шарів кобальту та вуглецю у багатошаровому періодичному покритті [Со/С]$_{10}$, виготовленому методою магнетронного розпорошення. Одержані результати добре узгоджуються (розбіжність менше 6%) з товщиною шарів за даними моделювання виміряного спектру малокутової рентґенівської дифракції покриття.",
+		"en": "The periodic multilayer [Со/С]$_{10}$ coating is deposited by means of the magnetron sputtering. The thicknesses of the cobalt and carbon layers are determined by the Rutherford backscattering (RBS) method. These results are in a good agreement (with divergence less than 6%) with results of simulation of small-angle X-ray diffraction.",
+		"ru": "Методом резерфордовского обратного рассеяния были определены толщины слоёв кобальта и углерода в многослойном периодическом покрытии [Со/С]$_{10}$, изготовленном методом магнетронного распыления. Полученные результаты хорошо согласуются (расхождение менее 6%) с толщинами слоёв из моделирования измеренного спектра малоугловой рентгеновской дифракции покрытия."
+	},
+	"keywords": {
+		"ua": "багатошарове періодичне покриття, Резерфордове зворотнє розсіяння, малокутова рентґенівська дифракція",
+		"en": "periodic of multilayer coating, Rutherford backscattering, small-angle X-ray diffraction",
+		"ru": "многослойное периодическое покрытие, резерфордовское обратное рассеяние, малоугловая рентгеновская дифракция"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. М. Коломієць", "en": "V. N. Kolomiyets", "ru": "В. Н. Коломиец"},
+			"OID": [17]
+		},
+		{
+			"AID": {"ua": "І. М. Кононенко", "en": "I. N. Kononenko", "ru": "И. Н. Кононенко"},
+			"OID": [17]
+		},
+		{
+			"AID": {"ua": "С. М. Кравченко", "en": "S. N. Kravchenko", "ru": "С. Н. Кравченко"},
+			"OID": [17]
+		},
+		{
+			"AID": {"ua": "М. І. Захарець", "en": "M. I. Zakharets", "ru": "М. И. Захарец"},
+			"OID": [17]
+		},
+		{
+			"AID": {"ua": "В. Ю. Сторіжко", "en": "V. Yu. Storizhko", "ru": "В. Е. Сторижко"},
+			"OID": [17]
+		},
+		{
+			"AID": {"ua": "В. І. Возний", "en": "V. I. Vozny", "ru": "В. И. Возный"},
+			"OID": [17]
+		},
+		{
+			"AID": {"ua": "О. М. Бугай", "en": "A. N. Buhay", "ru": "А. Н. Бугай"},
+			"OID": [17]
+		},
+		{
+			"AID": {"ua": "О. Ю. Девізенко", "en": "A. Yu. Devizenko", "ru": "А. Ю. Девизенко"},
+			"OID": [243]
+		}
+	],
+	"references": {
+		"count": 12,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Наноструктурные материалы (Ред. Р. Ханнинк, А. Хилл) (Москва: Техносфера: 2009).",
+				"tr":  "Nanostrukturnye Materialy [Nanostructure Control of Materials] (Eds. R. H. J. Hannink and A. J. Hill) (Moscow: Tekhnosfera: 2009) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Журавель, Е. А. Бугаев, А. Ю. Девизенко, Ю. П. Першин, В. В. Кондратенко, ФИП, 9, № 2: 134 (2011).",
+				"tr":  "I. A. Zhuravel', Ye. A. Bugayev, A. Yu. Devizenko, Yu. P. Pershin, and V. V. Kondratenko, Physical Surface Engineering, 9, No. 2: 134 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "H. B. Коваленко, С. В. Мытниченко, В. А. Чернов, Поверхность, № 1: 55 (2002).",
+				"tr":  "H. B. Kovalenko, S. V. Mytnichenko, and V. A. Chernov, Poverkhnost', No. 1: 55 (2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Бугаев, А. Ю. Девизенко, Е. Н. Зубарев, В. А. Севрюкова, В. В. Кондратенко, Металлофиз. новейшие технол., 30, № 11: 1533 (2008).",
+				"tr":  "E. A. Bugaev, O. Yu. Devizenko, E. M. Zubarev, V. A. Sevryukova, and V. V. Kondratenko, Metallofiz. Noveishie Tekhnol., 30, No. 11: 1533 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Оура, В. Г. Лифшиц, А. А. Саранин, А. В. Зотов, М. Катаяма, Введение в физику поверхности (Москва: Наука: 2006).",
+				"tr":  "K. Oura, V. G. Lifshits, A. A. Saranin, A. V. Zotov, and M. Katayama, Vvedenie v Fiziku Poverkhnosti [Surface Science: An Introduction] (Moscow: Nauka: 2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Бугаев, ФИП, 10, № 1: 59 (2012).",
+				"tr":  "Ye. A. Bugayev, Physical Surface Engineering, 10, No. 1: 59 (2012) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.phpro.2015.05.022",
+				"or":  "O. M. Buhay, A. A. Drozdenko, M. I. Zakharets, I. G. Ignat’ev, A. B. Kramchenkov, V. I. Miroshnichenko, A. G. Ponomarev, and V. E. Storizhko, Physics Procedia, 66: 166 (2015).",
+				"tr":  "O. M. Buhay, A. A. Drozdenko, M. I. Zakharets, I. G. Ignat'ev, A. B. Kramchenkov, V. I. Miroshnichenko, A. G. Ponomarev, and V. E. Storizhko, Physics Procedia, 66: 166 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Дрозденко, В. Л. Денисенко, А. Б. Дудник, М. И. Захарец, А. Б. Крамченков, В. В. Куприенко, Н. А. Сайко, В. Е. Сторижко, Вестник СумГУ. Серия: Физика, математика, механика, № 2: 60 (2008).",
+				"tr":  "A. A. Drozdenko, V. L. Denisenko, A. B. Dudnik, M. I. Zakharets, A. B. Kramchenkov, V. V. Kuprienko, N. A. Sayko, and V. E. Storizhko, Vestnik SumGU. Seriya: Fizika, Matematika, Mekhanika, No. 2: 60 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Виноградов, И. А. Брытов, А. Я. Грудский, Зеркальная рентгеновская оптика (Ленинград: Машиностроение: 1989).",
+				"tr":  "A. V. Vinogradov, I. A. Brytov, and A. Ya. Grudsky, Zerkal'naya Rentgenovskaya Optika [Mirror X-Ray Optics] (Leningrad: Mashinostroenie: 1989) (in Russian)."
+			},
+			{
+				"doi": "10.1006/adnd.1993.1013",
+				"or":  "B. L. Henke, E. M. Gullikson, and J. C. Davis, Atomic Data and Nuclear Data Tables, 54, No. 2: 181 (1993).",
+				"tr":  "B. L. Henke, E. M. Gullikson, and J. C. Davis, Atomic Data and Nuclear Data Tables, 54, No. 2: 181 (1993)."
+			},
+			{
+				"doi": "10.1002/jemt.1060010106",
+				"or":  "J. C. Bravman and R. Sinclair, J. Electron Microscopy. Tech., 1, No. 1: 53 (1984).",
+				"tr":  "J. C. Bravman and R. Sinclair, J. Electron Microscopy. Tech., 1, No. 1: 53 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Mayer, SIMNRA User’s Guide. Report IPP 9/113 (Garching, Germany: Max-Planck-Institut für Plasmaphysik: 1997).",
+				"tr":  "J. Mayer, SIMNRA User's Guide. Report IPP 9/113 (Garching, Germany: Max-Planck-Institut für Plasmaphysik: 1997)."
+			}
+		]
+	}
+}

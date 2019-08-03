@@ -1,0 +1,49 @@
+{
+	"_id":    "MFiNT.37.0305",
+	"year":   2015,
+	"volume": 37,
+	"issue":  3,
+	"pages":  [305,316],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["25.11.2014","29.01.2015"],
+	"PACS":   "68.65.Ac, 71.20.Be, 73.40.Rw, 75.47.Np, 75.50.Bb, 75.70.Cn, 85.75.Ss",
+	"title":  {
+		"ua": "Магнітні тунельні контакти на основі стопу Гейслера Fe$_{2}$MnGa",
+		"en": "Magnetic Tunnel Contacts Based on Heusler Fe$_{2}$MnGa Alloy",
+		"ru": "Магнитные туннельные контакты на основе сплава Гейслера Fe$_{2}$MnGa"
+	},
+	"abstract": {
+		"ua": "Було виготовлено та досліджено магнетні тунельні контакти (МТК), в яких феромагнетними електродами були плівки стопу Гойслера Fe$_2$MnGa та стопу Ni$_{80}$Fe$_{20}$; бар’єрним шаром між ними були плівки MgО. Показано, що структура плівок стопу Fe$_2$MnGa впливає на величину тунельного магнетоопору. Одержані величини магнетоопору при Т = 293 К (4—20%) відкривають перспективи практичного використання таких МТК як сенсорів магнетного поля.",
+		"en": "Magnetic tunnel junctions (MTJ) with Heusler Fe$_{2}$MnGa-alloy and Ni$_{80}$Fe$_{20}$-alloy films as ferromagnetic electrodes and MgO-films as barrier layer are fabricated and investigated. As shown, the structure of Fe$_{2}$MnGa-alloy films effects significantly on the tunnel magnetoresistance value. Obtained values of tunnel magnetoresistance (4—20\\%) at 293 K open the perspectives of practical applications of such MTJ as magnetic-field sensors.",
+		"ru": "Были изготовлены и исследованы магнитные туннельные контакты (МТК), в которых ферромагнитными электродами служили плёнки сплава Гейслера Fe$_{2}$MnGa и сплава Ni$_{80}$Fe$_{20}$; барьерным слоем между ними были плёнки MgO. Показано, что структура плёнок сплава Fe$_{2}$MnGa влияет на величину туннельного магнитосопротивления. Полученные величины магнитосопротивления при Т = 293К (4—20%) открывают перспективы практического использования таких МТК в качестве сенсоров магнитного поля."
+	},
+	"keywords": {
+		"ua": "магнетні властивості, магнетоопір, магнетні тунельні контакти, металеві гетероструктури, тонкі плівки",
+		"en": "magnetic properties, magnetoresistance, magnetic tunnel contacts, metallic heterostructures, thin films",
+		"ru": "магнитные свойства, магнитосопротивление, магнитные тунельные контакты, металлические гетероструктуры, тонкие плёнки"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. В. Кудрявцев", "en": "Yu. V. Kudryavtsev", "ru": "Ю. В. Кудрявцев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. М. Уваров", "en": "V. M. Uvarov", "ru": "В. Н. Уваров"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Дж. Дубовік", "en": "J. Dubowik", "ru": "Дж. Дубовик"},
+			"OID": [426]
+		},
+		{
+			"AID": {"ua": "Ю. Б. Скирта", "en": "Yu. B. Skirta", "ru": "Ю. Б. Скирта"},
+			"OID": [7]
+		}
+	],
+	"references": {
+		"count": 13,
+		"list":  []
+	}
+}

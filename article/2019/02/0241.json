@@ -1,0 +1,77 @@
+{
+	"_id":    "MFiNT.41.02.0241",
+	"year":   2019,
+	"volume": 41,
+	"issue":  2,
+	"pages":  [241,250],
+	"rubric": 14,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["10.05.2018"],
+	"PACS":   "61.72.S-, 61.80.Fe, 81.05.Zx, 81.15.Jj, 81.40.Ef, 81.40.Wx, 81.65.Ps",
+	"title":   {
+		"ua": "Електронно-променева технологія в процесах переробки зливків гафнію",
+		"en": "Electron-Beam Technology in the Processing of Hafnium Ingots",
+		"ru": "Электронно-лучевая технология в процессах переработки слитков гафния"
+	},
+	"abstract": {
+		"ua": "У 1986–1987 рр. в Україні було протестовано електронно-променевий пристрій UE-177RL для оброблення зливків гафнію продуктивністю у 10 тон/рік. Різку зливка стопу на стругальному верстаті за допомогою різця й оброблення поверхні зливка гафнію на токарному верстаті було успішно замінено на безвідходні процеси різання й обтоплення поверхні зливка за допомогою електронного променя. Це уможливлює збільшити вихід гафнію зі стопу на 8–12%, залежно від геометрії зливка, виключити поверхневі дефекти зливка, одержати обтоплений шар, що відповідає ASTM.",
+		"en": "In 1986–1987 in Ukraine, the UE-177RL electron-beam device is tested to process ingots of hafnium with the productivity of 10 tons/year. Wasteless processes of cutting and refining the ingot surface with an electron beam successfully replace cutting the ingot on a planer with a cutter and processing the surface of the hafnium ingot on a lathe. This makes it possible to increase the yield of hafnium from the alloy by 8–12%, depending on the geometry of the ingot, to reduce the amount of chips, to remove the surface defects of the ingot, to obtain a melted layer corresponding to ASTM.",
+		"ru": "В 1986–1987 гг. в Украине электронно-лучевое устройство UE-177RL было протестировано для обработки слитков гафния производительностью 10 тонн/год. Резка слитка сплава на строгальном станке с помощью резца и обработка поверхности слитка гафния на токарном станке были успешно заменены на безотходные процессы резки и оплавления поверхности слитка с помощью электронного луча. Это позволяет увеличить выход гафния из сплава на 8–12% в зависимости от геометрии слитка, исключить поверхностные дефекты слитка, получить оплавленный слой, соответствующий ASTM."
+	},
+	"keywords": {
+		"ua": "електронний промінь, електронна гармата, зливки стопів гафнію, різання, обтоплення поверхні, хемічний склад",
+		"en": "electron beam, electron gun, ingots of hafnium alloys, cutting, surface melting, chemical composition",
+		"ru": "электронный луч, электронная пушка, слитки сплавов гафния, резка, оплавление поверхности, химический состав"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. П. Мухачев", "en": "A. P. Mukhachov", "ru": "А. П. Мухачёв"},
+			"OID": [269]
+		},
+		{
+			"AID": {"ua": "О. А. Харитонова", "en": "O. А. Kharytonova", "ru": "Е. А. Харитонова"},
+			"OID": [259]
+		}
+	],
+	"references": {
+		"count": 7,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Yu. L. Latash, G. F Torkhov, Yu. I. Modelkin et al., Problemy Spetselektrometallurgii, Iss. 18: 75 (1983) (in Russian).",
+				"tr":  "Yu. L. Latash, G. F Torkhov, Yu. I. Modelkin et al., Problemy Spetselektrometallurgii, Iss. 18: 75 (1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. M. Pomarin, V. Yu. Orlovskiy, B. N. Medovar et al., Problemy Spetselektrometallurgii, No. 2: 102 (1992) (in Russian).",
+				"tr":  "Yu. M. Pomarin, V. Yu. Orlovskiy, B. N. Medovar et al., Problemy Spetselektrometallurgii, No. 2: 102 (1992) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "K. N. Klyuev, S. L. Tulubtsov, S. A. Shershnev et al., Sposob Elektronno-Luchevoy Rezki Metallov i Splavov (Copyright Certificate USSR No. 1210327 16.02.84).",
+				"tr":  "K. N. Klyuev, S. L. Tulubtsov, S. A. Shershnev et al., Sposob Elektronno-Luchevoy Rezki Metallov i Splavov (Copyright Certificate USSR No. 1210327 16.02.84)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. F. Zavgorodniy, K. N. Klyuev, B. A. Movchan et al., Elektronnaya Pushka dlya Elektronno-Luchevogo Pereplava (Copyright Certificate USSR No. 1360490 22.10.85).",
+				"tr":  "Yu. F. Zavgorodniy, K. N. Klyuev, B. A. Movchan et al., Elektronnaya Pushka dlya Elektronno-Luchevogo Pereplava (Copyright Certificate USSR No. 1360490 22.10.85)."
+			},
+			{
+				"doi": "",
+				"or":  "B. A. Movchan, V. A. Timashov, and K. N. Klyuev, Ustanovka dlya Elektronno-Luchevogo Nagreva Metallov (Copyright Certificate USSR No. 705699, 25.12.79 BI No. 47).",
+				"tr":  "B. A. Movchan, V. A. Timashov, and K. N. Klyuev, Ustanovka dlya Elektronno-Luchevogo Nagreva Metallov (Copyright Certificate USSR No. 705699, 25.12.79 BI No. 47)."
+			},
+			{
+				"doi": "",
+				"or":  "S. V. Anokhin, V. A. Verezos, A. N. Pikulin et al., Problemy Spetselektrometallurgii, No. 2: 21 (2014) (in Russian).",
+				"tr":  "S. V. Anokhin, V. A. Verezos, A. N. Pikulin et al., Problemy Spetselektrometallurgii, No. 2: 21 (2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "N. P. Trigub, G. V. Zhuk, A. N. Pikulin et al., Sovremennaya Elektrometallurgiya, No. 2: 102 (2003) (in Ukrainian).",
+				"tr":  "N. P. Trigub, G. V. Zhuk, A. N. Pikulin et al., Sovremennaya Elektrometallurgiya, No. 2: 102 (2003) (in Ukrainian)."
+			}
+		]
+	}
+}

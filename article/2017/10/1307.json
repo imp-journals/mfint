@@ -1,0 +1,180 @@
+{
+	"_id":    "MFiNT.39.10.1307",
+	"year":   2017,
+	"volume": 39,
+	"issue":  10,
+	"pages":  [1307,1319],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["12.09.2017"],
+	"PACS":   "64.75.Lm, 73.50.Jt, 73.50.Lw, 73.61.At, 75.47.Np, 81.07.Bc, 81.65.Mq",
+	"title":   {
+		"ua": "Вплив атмосферного кисню на склад і кінетичні властивості тонких плівок вісмуту",
+		"en": "Influence of Atmospheric Oxygen on Composition and Kinetic Properties of Thin Films of Bismuth",
+		"ru": "Влияние атмосферного кислорода на состав и кинетические свойства тонких плёнок висмута"
+	},
+	"abstract": {
+		"ua": "Методами рентґенівської фотоелектронної спектроскопії та міряння електричних і ґальваномагнетних властивостей було досліджено вплив атмосферного кисню на склад і властивості плівок бісмуту товщиною $d$ = 10–200 нм. Властивості двох серій свіжоприготовлених плівок (із захисним покриттям EuS і без захисного покриття) порівнювалися з характеристиками цих плівок після тривалого (протягом 9 років) перебування на повітрі за кімнатної температури. Встановлено, що в плівках Bi без покриття спостерігається нерівномірне за глибиною окиснення з утворенням оксиду бісмуту Bi$_2$O$_3$. При цьому значення Голлового коефіцієнта $R_H$ і магнетоопору $\\Delta\\rho/\\rho$, а також їх температурні залежності практично не змінюються після перебування в повітряній атмосфері, а електропровідність $\\sigma$ знижується і тим значніше, чим тонша плівка. З іншого боку, після тривалого перебування на повітрі в плівках, вкритих сульфідом європію, Bi присутній тільки в металічному стані, а $\\sigma$, $R_H$ та $\\Delta\\rho/\\rho$ залишаються практично незмінними. Згідно з одержаними результатами, можна стверджувати, що при наявності захисного покриття навіть дуже тривале перебування на повітрі за кімнатної температури не приводить до зміни хемічного складу та кінетичних властивостей плівок бісмуту.",
+		"en": "The effect of air oxidation on the composition and properties of bismuth films with thicknesses $d$ = 10–200 nm is studied by using X-ray photoelectron spectroscopy and measuring electrical and galvanomagnetic properties of the films. The properties of two sets of freshly prepared films (with a protective EuS layer and without it) are compared with the properties of the same films after long-term air storage (during 9 years) at room temperature. As determined, a non-uniform in depth oxidation with the Bi$_2$O$_3$ formation takes place in the Bi films without protective covering. At the same time, the values of the Hall coefficient $R_H$ and magnetoresistance $\\Delta\\rho/\\rho$ as well as their temperature dependences are not practically changed after air storage, whereas electrical conductivity $\\sigma$ is decreased. For the thinner films, the more significant decrease in $\\sigma$ is observed. On the other hand, after long-term air storage, in the films covered by europium sulphide, Bi is presented only in the metallic state, and $\\sigma$, $R_H$ and $\\Delta\\rho/\\rho$ remain practically changeless. As follows from the obtained results, in the case of presence of the protective covering, even long-term air storage at room temperature does not lead to a change either in the chemical composition or in the kinetic properties of bismuth films.",
+		"ru": "Методами рентгеновской фотоэлектронной спектроскопии и измерения электрических и гальваномагнитных свойств исследовано влияние атмосферного кислорода на состав и свойства плёнок висмута толщиной $d$ = 10–200 нм. Свойства двух серий свежеприготовленных плёнок (с защитным покрытием EuS и без защитного покрытия) сравнивались с характеристиками этих плёнок после длительного (в течение 9 лет) пребывания на воздухе при комнатной температуре. Установлено, что в плёнках Bi без покрытия имеет место неравномерное по глубине окисление с образованием оксида висмута Bi$_2$O$_3$. При этом значения коэффициента Холла $R_H$ и магнетосопротивления $\\Delta\\rho/\\rho$, а также их температурные зависимости практически не изменяются после пребывания в воздушной атмосфере, а электропроводность $\\sigma$ снижается и тем значительнее, чем тоньше плёнка. С другой стороны, после длительного пребывания на воздухе в плёнках, покрытых сульфидом европия, Bi присутствует только в металлическом состоянии, а $\\sigma$, $R_H$ и $\\Delta\\rho/\\rho$ остаются практически неизменными. Из полученных результатов следует, что при наличии защитного покрытия даже очень длительное пребывание на воздухе при комнатной температуре не приводит к изменению химического состава и кинетических свойств плёнок висмута."
+	},
+	"keywords": {
+		"ua": "плівки бісмуту, оксид бісмуту, окиснення, електропровідність, Голлів коефіцієнт, магнетоопір, рентґенівська фотоелектронна спектроскопія",
+		"en": "bismuth films, bismuth oxide, oxidation, electrical conductivity, Hall coefficient, magnetoresistance, X-ray photoelectron spectroscopy",
+		"ru": "плёнки висмута, оксид висмута, окисление, электропроводность, коэффициент Холла, магнетосопротивление, рентгеновская фотоэлектронная спектроскопия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. В. Добротворська", "en": "M. V. Dobrotvorska", "ru": "М. В. Добротворская"},
+			"OID": [22]
+		},
+		{
+			"AID": {"ua": "Д. С. Орлова", "en": "D. S. Orlova", "ru": "Д. С. Орлова"},
+			"OID": [243]
+		},
+		{
+			"AID": {"ua": "О. І. Рогачова", "en": "O. I. Rogachova", "ru": "Е. И. Рогачева"},
+			"OID": [243]
+		},
+		{
+			"AID": {"ua": "О. Г. Федоров", "en": "O. G. Fedorov", "ru": "А. Г. Федоров"},
+			"OID": [22]
+		}
+	],
+	"references": {
+		"count": 26,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "H. J. Goldsmid, Introduction to Thermoelectricity (Berlin–Heidelberg, Germany: Springer: 2016).",
+				"tr":  "H. J. Goldsmid, Introduction to Thermoelectricity (Berlin–Heidelberg, Germany: Springer: 2016)."
+			},
+			{
+				"doi": "",
+				"or":  "D. M. Rowe, Thermoelectrics Handbook: Macro to Nano (Boca Raton–London–New York: CRC Press Taylor & Francis Group: 2006).",
+				"tr":  "D. M. Rowe, Thermoelectrics Handbook: Macro to Nano (Boca Raton–London–New York: CRC Press Taylor & Francis Group: 2006)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Комник, Физика металлических плёнок. Размерные и структурные эффекты (Москва: Атомиздат: 1979).",
+				"tr":  "Yu. F. Komnik, Fizika Metallicheskikh Plenok. Razmernye i Strukturnye Effekty [Physics of Metallic Films. Dimensional and Structural Effects] (Moscow: Atomizdat: 1979) (in Russian)."
+			},
+			{
+				"doi": "10.1007/BF02848153",
+				"or":  "S. A. Gangal and R. N. Karekar, Pramana—Journal of Physics, 17, No. 6: 453 (1981).",
+				"tr":  "S. A. Gangal and R. N. Karekar, Pramana—Journal of Physics, 17, No. 6: 453 (1981)."
+			},
+			{
+				"doi": "10.1016/0040-6090(85)90083-5",
+				"or":  "R. Atkinson and E. Curran, Thin Solid Films, 128, Iss. 3–4: 333 (1985).",
+				"tr":  "R. Atkinson and E. Curran, Thin Solid Films, 128, Iss. 3–4: 333 (1985)."
+			},
+			{
+				"doi": "10.1063/1.344344",
+				"or":  "J. L. Cohn and C. Uher, J. Appl. Phys., 65: 2045 (1989).",
+				"tr":  "J. L. Cohn and C. Uher, J. Appl. Phys., 65: 2045 (1989)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2005.05.046",
+				"or":  "D. H. Kim, S. H. Lee, J. K. Kim, and G. H. Lee, Appl. Surf. Sci., 252: 3525 (2006).",
+				"tr":  "D. H. Kim, S. H. Lee, J. K. Kim, and G. H. Lee, Appl. Surf. Sci., 252: 3525 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Грабов, Е. В. Демидов, В. А. Комаров, М. М. Климантов, ФТТ, 51, № 4: 800 (2009).",
+				"tr":  "V. M. Grabov, E. V. Demidov, V. A. Komarov, and M. M. Klimantov, Fizika Tverdogo Tela, 51, No. 4: 800 (2009) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.3328101",
+				"or":  "N. Marcano, S. Sangiao, M. Plaza, L. Pérez, A. Fernández Pacheco, R. Córdoba, M. C. Sánchez, L. Morellón, M. R. Ibarra, and J. M. De Teresa, Appl. Phys. Lett., 96: 082110 (2010).",
+				"tr":  "N. Marcano, S. Sangiao, M. Plaza, L. Pérez, A. Fernández Pacheco, R. Córdoba, M. C. Sánchez, L. Morellón, M. R. Ibarra, and J. M. De Teresa, Appl. Phys. Lett., 96: 082110 (2010)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2009.10.007",
+				"or":  "T. Romann, E. Anderson, S. Kallip, H. Mändar, L. Matisen, and E. Lust, Thin Solid Films, 518, Iss. 14: 3690 (2010).",
+				"tr":  "T. Romann, E. Anderson, S. Kallip, H. Mändar, L. Matisen, and E. Lust, Thin Solid Films, 518, Iss. 14: 3690 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. С. Орлова, Е. И. Рогачева, А. Ю. Сипатов, С. Н. Григоров, М. В. Добротворская, П. В. Матейченко, Нові технології. Науковий вісник КУЕІТУ, 28, № 2: 89 (2010).",
+				"tr":  "D. S. Orlova, E. I. Rogacheva, A. Yu. Sipatov, S. N. Grigorov, M. V. Dobrotvorskaya, and P. V. Mateychenko, Novi Tekhnologiyi. Naukovyy Visnyk KUEITU, 28, No. 2: 89 (2010) (in Russian)."
+			},
+			{
+				"doi": "10.1107/S0108768107024652",
+				"or":  "K. J. Stevens, B. Ingham, M. F. Toney, S. A. Brown, J. Partridge, A. Ayesh, and F. Natali, Acta Cryst. B, 63, No. 4: 569 (2007).",
+				"tr":  "K. J. Stevens, B. Ingham, M. F. Toney, S. A. Brown, J. Partridge, A. Ayesh, and F. Natali, Acta Cryst. B, 63, No. 4: 569 (2007)."
+			},
+			{
+				"doi": "10.1016/j.snb.2011.02.023",
+				"or":  "Y. W. Park, H. J. Jung, and S. G. Yoon, Sens. Actuators. B, 156: 709 (2011).",
+				"tr":  "Y. W. Park, H. J. Jung, and S. G. Yoon, Sens. Actuators. B, 156: 709 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Завьялова, Р. М. Имамов, Кристаллография, 16: 369 (1969).",
+				"tr":  "A. A. Zav'yalova and R. M. Imamov, Kristallografiya, 16: 369 (1969) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0040-6090(79)90307-9",
+				"or":  "S. K. Sharma and S. L. Pandey, Thin Solid Films, 62, Iss. 2: 209 (1979).",
+				"tr":  "S. K. Sharma and S. L. Pandey, Thin Solid Films, 62, Iss. 2: 209 (1979)."
+			},
+			{
+				"doi": "10.1016/S0039-6028(02)01289-X",
+				"or":  "L. Leontie, M. Caraman, M. Alexe, and C. Harnagea, Surf. Sci., 507: 480 (2002).",
+				"tr":  "L. Leontie, M. Caraman, M. Alexe, and C. Harnagea, Surf. Sci., 507: 480 (2002)."
+			},
+			{
+				"doi": "10.1016/j.jpcs.2007.02.019",
+				"or":  "R. B. Patil, J. B. Yadav, R. K. Puri, and V. Puri, J. Phys. Chem. Solids, 68, Iss. 4: 665 (2007).",
+				"tr":  "R. B. Patil, J. B. Yadav, R. K. Puri, and V. Puri, J. Phys. Chem. Solids, 68, Iss. 4: 665 (2007)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2011.07.048",
+				"or":  "S. Condurache-Bota, N. Tigau, A. P. Rambu, G. G. Rusu, and G. I. Rusu, Appl. Surf. Sci., 257: 10545 (2011).",
+				"tr":  "S. Condurache-Bota, N. Tigau, A. P. Rambu, G. G. Rusu, and G. I. Rusu, Appl. Surf. Sci., 257: 10545 (2011)."
+			},
+			{
+				"doi": "10.1016/S0038-1098(97)00063-X",
+				"or":  "S. Cho, A. DiVenere, G. K. Wong, J. B. Ketterson, J. R. Meyer, and C. A. Hoffman, Solid State Commun., 102, No. 9: 673 (1997).",
+				"tr":  "S. Cho, A. DiVenere, G. K. Wong, J. B. Ketterson, J. R. Meyer, and C. A. Hoffman, Solid State Commun., 102, No. 9: 673 (1997).."
+			},
+			{
+				"doi": "10.1063/1.1567044",
+				"or":  "E. I. Rogacheva, S. N. Grigorov, O. N. Nashchekina, S. G. Lyubchenko, and M. S. Dresselhaus, Appl. Phys. Lett., 82, No. 15: 2628 (2003).",
+				"tr":  "E. I. Rogacheva, S. N. Grigorov, O. N. Nashchekina, S. G. Lyubchenko, and M. S. Dresselhaus, Appl. Phys. Lett., 82, No. 15: 2628 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. И. Рогачева, С. Н. Григоров, И. М. Кривулькин, А. Ю. Сипатов, В. В. Волобуев, А. Г. Федоров, И. И. Чернова, Сборник докладов 12-го Международного симпозиума «Тонкие пленки в электронике» (23–27 апреля, 2001) (Харьков: ННЦ ХФТИ, ИПЦ «Контраст»: 2001), с. 6.",
+				"tr":  "E. I. Rogacheva, S. N. Grigorov, I. M. Krivulkin, A. Yu. Sipatov, V. V. Volobuev, A. G. Fedorov, and I. I. Chernova, Proc. of 12th Int. Symp. on Thin Films in Electronics (Apr. 23-–27, 2001) (Kharkiv: NSC KhIPT, IPC 'Contrast' Publ.: 2001), p. 6 (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2007.11.023",
+				"or":  "E. I. Rogacheva, S. G. Lyubchenko, and M. S. Dresselhaus, Thin Solid Films, 516, No. 10: 3411 (2008).",
+				"tr":  "E. I. Rogacheva, S. G. Lyubchenko, and M. S. Dresselhaus, Thin Solid Films, 516, No. 10: 3411 (2008)."
+			},
+			{
+				"doi": "10.1016/j.mejo.2008.11.030",
+				"or":  "E. I. Rogacheva, S. G. Lyubchenko, and A. A. Drozdova, Microelectronics Journal, 40: 821 (2009).",
+				"tr":  "E. I. Rogacheva, S. G. Lyubchenko, and A. A. Drozdova, Microelectronics Journal, 40: 821 (2009)."
+			},
+			{
+				"doi": "10.1016/j.mejo.2008.11.007",
+				"or":  "E. I. Rogacheva, S. G. Lyubchenko, O. N. Nashchekina, A. V. Meriuts, and M. S. Dresselhaus, Microelectronics Journal, 40, No. 4: 728 (2009).",
+				"tr":  "E. I. Rogacheva, S. G. Lyubchenko, O. N. Nashchekina, A. V. Meriuts, and M. S. Dresselhaus, Microelectronics Journal, 40, No. 4: 728 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Виноградов, И. В. Кожевников, Труды ФИАН, 196: 62 (1989).",
+				"tr":  "I. V. Kozhevnikov and A. V. Vinogradov, Trudy Fizicheskogo Instituta im. P. N. Lebedeva, 196: 62 (1989) (in Russian)."
+			},
+			{
+				"doi": "10.1007/BF02581074",
+				"or":  "I. V. Kozhevnikov and A. V. Vinogradov, Journal of Russian Laser Research, 16, Iss. 4: 343 (1995).",
+				"tr":  "I. V. Kozhevnikov and A. V. Vinogradov, Journal of Russian Laser Research, 16, Iss. 4: 343 (1995)."
+			}
+		]
+	}
+}

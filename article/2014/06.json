@@ -1,0 +1,187 @@
+{
+	"year":   2014,
+	"volume": 36,
+	"issue":  6,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [713,722],
+			"title": {
+				"ua": "Вплив зовнішніх шумів на кореляційну функцію інтенсивності в процесі резонансного тунелювання",
+				"en": "Influence of External Noises on Intensity Correlation Function in the Process of Resonant Tunnelling",
+				"ru": "Влияние внешних шумов на корреляционную функцию интенсивности в процессе резонансного туннелирования"
+			},
+			"autors": {
+				"ua": "О. О. Понежа",
+				"en": "O. O. Ponezha",
+				"ru": "Е. А. Понежа"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [723,734],
+			"title": {
+				"ua": "Вплив неоднорідностей поверхні на умови перенесення заряду в ультратонких плівках металів",
+				"en": "Impact of Surface Inhomogeneities on Conditions for Charge Transfer in Ultrathin Films of Metals",
+				"ru": "Влияние неоднородностей поверхности на условия переноса заряда в ультратонких плёнках металлов"
+			},
+			"autors": {
+				"ua": "Р. І. Бігун, З. В. Стасюк",
+				"en": "R. I. Bihun and Z. V. Stasyuk",
+				"ru": "Р. И. Бигун, З. В. Стасюк"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [735,743],
+			"title": {
+				"ua": "Визначення умов осадження перехідних металів з їх карбонілів методом моделювання LCVD-процесу",
+				"en": "Determination of Conditions for Transition-Metals’ Deposition from Their Carbonyls by Means of the LCVD-Process Simulation",
+				"ru": "Определение условий осаждения переходных металлов из их карбонилов методом моделирования LCVD-процесса"
+			},
+			"autors": {
+				"ua": "К. В. Кірпенко, А. В. Недоля, І. М. Тітов",
+				"en": "K. V. Kirpenko, A. V. Nedolya, and I. M. Titov",
+				"ru": "К. В. Кирпенко, А. В. Недоля, И. Н. Титов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [745,756],
+			"title": {
+				"ua": "Формування декагональної квазікристалічної фази за лазерного леґування алюмінію кобальтом та нікелем",
+				"en": "Decagonal Quasi-Crystalline Phase Formation During Laser Alloying of Aluminium with Cobalt and Nickel",
+				"ru": "Формирование декагональной квазикристаллической фазы при лазерном легировании алюминия кобальтом и никелем"
+			},
+			"autors": {
+				"ua": "В. В. Гіржон, В. М. Ковальова, О. В. Смоляков",
+				"en": "V. V. Girzhon, V. M. Kovalyova, and O. V. Smolyakov",
+				"ru": "В. В. Гиржон, В. Н. Ковалёва, А. В. Смоляков"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [757,766],
+			"title": {
+				"ua": "Формування нанорозмірного покриття на сталі 12Х18Н10Т за йонної імплантації",
+				"en": "The Formation of Nanoscale Coating on the 12Cr18Ni10Ti Steel During Ion Implantation",
+				"ru": "Формирование наноразмерного покрытия на стали 12Х18Н10Т при ионной имплантации"
+			},
+			"autors": {
+				"ua": "В. О. Зажигалов, В. В. Гончаров",
+				"en": "V. O. Zazhigalov and V. V. Honcharov",
+				"ru": "В. А. Зажигалов, В. В. Гончаров"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [767,777],
+			"title": {
+				"ua": "Ґадоліній-борвмісні нанокомпозити на основі магнетиту",
+				"en": "Gadolinium and Boron Containing Nanocomposites Based on Magnetite",
+				"ru": "Гадолиний-борсодержащие нанокомпозиты на основе магнетита"
+			},
+			"autors": {
+				"ua": "Є. В. Пилипчук, А. Л. Петрановська, П. П. Горбик, О. М. Кордубан, А. А. Роговцов, Ю. Б. Шевченко",
+				"en": "Ie. V. Pylypchuk, A. L. Petranovska, P. P. Gorbyk, O. M. Korduban, A. A. Rogovtsov, and Yu. B. Shevchenko",
+				"ru": "Е. В. Пилипчук, А. Л. Петрановская, П. П. Горбик, А. М. Кордубан, А. А. Роговцов, Ю. Б. Шевченко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [779,792],
+			"title": {
+				"ua": "Вплив наноструктур на процеси твердофазного відновлення та очистки залізооксидносилікатних матеріалів",
+				"en": "Influence of Nanostructures on Processes of Solid-Phase Reduction and Purification of Ferrioxide—Silicate Materials",
+				"ru": "Влияние наноструктур на процессы твердофазного восстановления и очистки железооксидносиликатных материалов"
+			},
+			"autors": {
+				"ua": "В. О. Олійник, Є. В. Аблєц, А. В. Панько, І. Г. Ковзун, І. Т. Проценко",
+				"en": "V. O. Oleinik, E. V. Ablets, A. V. Panko, I. G. Kovzun, and I. T. Protsenko",
+				"ru": "В. А. Олейник, Е. В. Аблец, А. В. Панько, И. Г. Ковзун, И. Т. Проценко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [793,801],
+			"title": {
+				"ua": "Вплив третього елемента на швидкість коміркового розпаду в стопі Cu—5,69 ат.% Ti",
+				"en": "Influence of the Third Element on the Rate of Cellular Decomposition in Cu—5.69 at.% Ti Alloy",
+				"ru": "Влияние третьего элемента на скорость ячеистого распада в сплаве Cu—5,69 ат.% Ti"
+			},
+			"autors": {
+				"ua": "Т. С. Гаценко, О. А. Шматко",
+				"en": "T. S. Gatsenko and O. A. Shmatko",
+				"ru": "Т. С. Гаценко, О. А. Шматко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [803,813],
+			"title": {
+				"ua": "Вплив V на структуру і фазовий склад евтектичного стопу Ti$_{0,475}$Zr$_{0,3}$Mn$_{0,225}$",
+				"en": "Influence of V on the Structure and Phase Composition of Eutectic Ti$_{0.475}$Zr$_{0.3}$Mn$_{0.225}$ Alloy",
+				"ru": "Влияние V на структуру и фазовый состав эвтектического сплава Ti$_{0,475}$Zr$_{0,3}$Mn$_{0,225}$"
+			},
+			"autors": {
+				"ua": "В. Г. Іванченко, В. А. Дехтяренко, Т. В. Прядко, В. І. Ничипоренко",
+				"en": "V. G. Ivanchenko, V. A. Dekhtyarenko, T. V. Pryadko, and V. I. Nychyporenko",
+				"ru": "В. Г. Иванченко, В. А. Дехтяренко, Т. В. Прядко, В. И. Ничипоренко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [815,827],
+			"title": {
+				"ua": "Дослідження процесів взаємодії титановмісних припоїв з оксидною керамікою і коваром",
+				"en": "Study of the Interaction Processes of Ti-Containing Solders with Oxide Ceramics and Kovar",
+				"ru": "Исследование процессов взаимодействия титаносодержащих припоев с оксидной керамикой и коваром"
+			},
+			"autors": {
+				"ua": "О. М. Костін, Ал. В. Лабарткава, В. А. Мартиненко",
+				"en": "O. M. Kostin, Al. V. Labartkava, and V. A. Martynenko",
+				"ru": "А. М. Костин, Ал. В. Лабарткава, В. А. Мартыненко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [829,840],
+			"title": {
+				"ua": "Високотемпературне дифрактометричне дослідження особливостей окиснення стопу FeCoNiMnCr",
+				"en": "High-Temperature Diffractometry Study of Features of the FeCoNiMnCr Alloy Oxidation",
+				"ru": "Высокотемпературное дифрактометрическое исследование особенностей окисления сплава FeCoNiMnCr"
+			},
+			"autors": {
+				"ua": "М. В. Карпець, Є. С. Макаренко, А. Н. Мисливченко, Н. А. Крапивка, В. Ф. Горбань, С. Ю. Макаренко",
+				"en": "M. V. Karpets, Ye. S. Makarenko, A. N. Myslyvchenko, N. A. Krapivka, V. F. Gorban’, and S. Yu. Makarenko",
+				"ru": "М. В. Карпец, Е. С. Макаренко, А. Н. Мысливченко, Н. А. Крапивка, В. Ф. Горбань, С. Ю. Макаренко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [841,856],
+			"title": {
+				"ua": "Дослідження ефектів, викликаних воднем, у відпаленій і деформованій неіржавкій сталі типу 316L за допомогою механічної спектроскопії",
+				"en": "Hydrogen-Induced Effects in Annealed and Prestrained 316L-Type Stainless Steel Studied by Mechanical Spectroscopy",
+				"ru": "Исследование эффектов, вызванных водородом, в отожжённой и деформированной нержавеющей стали типа 316L с помощью механической спектроскопии"
+			},
+			"autors": {
+				"ua": "В. М. Шиванюк",
+				"en": "V. M. Shyvaniuk",
+				"ru": "В. М. Шиванюк"
+			}
+		}
+	]
+}

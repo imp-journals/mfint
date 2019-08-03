@@ -1,0 +1,123 @@
+{
+	"_id":    "MFiNT.36.06.0767",
+	"year":   2014,
+	"volume": 36,
+	"issue":  6,
+	"pages":  [767,777],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["21.11.2013"],
+	"PACS":   "61.46.Df,81.07.Pr,81.16.Dn, 82.33.Pt,82.65.+r,82.80.Pv,87.85.Qr",
+	"title":   {
+		"ua": "Ґадоліній-борвмісні нанокомпозити на основі магнетиту",
+		"en": "Gadolinium and Boron Containing Nanocomposites Based on Magnetite",
+		"ru": "Гадолиний-борсодержащие нанокомпозиты на основе магнетита"
+	},
+	"abstract": {
+		"ua": "Розроблено методики синтезу магнеточутливих наноструктур на основі нанокристалічного магнетиту, що містить ґадоліній і бор. Методами атомно-емісійної спектрометрії з індуктивно-зв’язаною плазмою, рентґеноструктурного аналізу та Рентґенової фотоелектронної спектроскопії вивчено склад і структуру одержаних сполук. Встановлено, що внаслідок синтезу на поверхні нанорозмірних частинок магнетиту утворюється аморфна фаза борату ґадолінію. Показано, що формування кристалічної фази GdBO$_{3}$ відбувається після відпалу при 950°C.",
+		"en": "Method for synthesis of magnetically sensitive nanostructures based on nanocrystalline magnetite containing gadolinium and boron is developed. Composition and structure of the synthesized compounds are studied by the atomic emission spectrometry with inductively coupled plasma, X-ray diffraction analysis, and X-ray photoelectron spectroscopy. As found, the synthesis on the surface of nanosized magnetite particles leads to formation an amorphous phase of gadolinium borate. The formation of GdBO$_{3}$ crystalline phase takes place after annealing at 950°C.",
+		"ru": "Разработаны методики синтеза магниточувствительных наноструктур на основе нанокристаллического магнетита, содержащего гадолиний и бор. Методами атомно-эмиссионной спектрометрии с индуктивно-связанной плазмой, рентгеноструктурного анализа и рентгеновской фотоэлектронной спектроскопии изучены состав и структура полученных соединений. Установлено, что в результате синтеза на поверхности наноразмерных частиц магнетита образуется аморфная фаза бората гадолиния. Показано, что формирование кристаллической фазы GdBO$_{3}$ происходит после отжига при 950°C."
+	},
+	"keywords": {
+		"ua": "наноструктури, магнетит, бор, ґадоліній, неорганічні сцинтилятори, боронейтронозахватна терапія, нейтронозахватний аґент",
+		"en": "nanostructures, magnetite, boron, gadolinium, inorganic scintillators, boron-neutron capture therapy, neutron capture agent",
+		"ru": "наноструктуры, магнетит, бор, гадолиний, неорганические сцинтилляторы, боронейтронозахватная терапия, нейтронозахватный агент"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Є. В. Пилипчук", "en": "Ie. V. Pylypchuk", "ru": "Е. В. Пилипчук"},
+			"OID": [21]
+		},
+		{
+			"AID": {"ua": "А. Л. Петрановська", "en": "A. L. Petranovska", "ru": "А. Л. Петрановская"},
+			"OID": [21]
+		},
+		{
+			"AID": {"ua": "П. П. Горбик", "en": "P. P. Gorbyk", "ru": "П. П. Горбик"},
+			"OID": [21]
+		},
+		{
+			"AID": {"ua": "О. М. Кордубан", "en": "O. M. Korduban", "ru": "А. М. Кордубан"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. А. Роговцов", "en": "A. A. Rogovtsov", "ru": "А. А. Роговцов"},
+			"OID": [18]
+		},
+		{
+			"AID": {"ua": "Ю. Б. Шевченко", "en": "Yu. B. Shevchenko", "ru": "Ю. Б. Шевченко"},
+			"OID": [27]
+		}
+	],
+	"references": {
+		"count": 13,
+		"list":  [
+			{
+				"doi": "10.1039/b405402d",
+				"or":  "C. Mansuy, J.-M. Nedelec, and R. Mahiou, J. Mater. Chem., 14: 3274 (2004).",
+				"tr":  "C. Mansuy, J.-M. Nedelec, and R. Mahiou, J. Mater. Chem., 14: 3274 (2004)."
+			},
+			{
+				"doi": "10.1016/j.jcrysgro.2004.04.093",
+				"or":  "Y. Wang, T. Endo, L. He, and Ch. Wu, J. Crystal Growth, 268, Iss. 3–4: 568 (2004).",
+				"tr":  "Y. Wang, T. Endo, L. He, and Ch. Wu, J. Crystal Growth, 268, Iss. 3–4: 568 (2004)."
+			},
+			{
+				"doi": "10.1063/1.3267484",
+				"or":  "X. Y. Huang, D. C. Yu, and Q. Y. Zhang, J. Appl. Phys., 106: 113521 (2009).",
+				"tr":  "X. Y. Huang, D. C. Yu, and Q. Y. Zhang, J. Appl. Phys., 106: 113521 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Stalpers, S. Kuipers, and C. Vroegindeweij, Proc. 9th Intern. Symp. ‘Neutron Capture Therapy for Cancer’ (Oct. 2–6, 2000, Osaka, Japan), p. 227.",
+				"tr":  "L. Stalpers, S. Kuipers, and C. Vroegindeweij, Proc. 9th Intern. Symp. 'Neutron Capture Therapy for Cancer' (Oct. 2–6, 2000, Osaka, Japan), p. 227."
+			},
+			{
+				"doi": "10.1016/S0939-6411(02)00085-1",
+				"or":  "T. Watanabe, H. Ichikawa, and Y. Fukumori, Eur. J. Pharm. Biopharm., 54, No. 2: 119 (2002).",
+				"tr":  "T. Watanabe, H. Ichikawa, and Y. Fukumori, Eur. J. Pharm. Biopharm., 54, No. 2: 119 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, А. Л. Петрановская, М. П. Турелик, Н. В. Абрамов, С. П. Туранская, Е. В. Пилипчук, В. Ф. Чехун, Н. Ю. Лукьянова, А. П. Шпак, А. М. Кордубан, Хімія, фізика та технологія поверхні, 2, № 4: 433 (2011).",
+				"tr":  "P. P. Gorbik, A. L. Petranovskaya, M. P. Turelik, N. V. Abramov, S. P. Turanskaya, E. V. Pilipchuk, V. F. Chekhun, N. Yu. Luk'yanova, A. P. Shpak, and A. M. Korduban, Khimiya, Fizyka ta Tehnologiya Poverkhni, 2, No. 4: 433 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, М. В. Абрамов, А. Л. Петрановська, М. П. Турелик, О. А. Васильєва, Тимчасовий технологічний регламент на виробництво речовини «Магнетит У», Свідоцтво про реєстрацію авторського права № 46056 ТТР 03291669.012:2012 (Зареєстровано в державній службі інтелектуальної власності України 17.10.2012).",
+				"tr":  "P. P. Gorbik, M. V. Abramov, A. L. Petranovs'ka, M. P. Turelik, and O. A. Vasyl'eva, Tymchasovyy Tekhnologichnyy Reglament na Vyrobnytstvo Rechovyny «Magnetyt U», Svidotstvo pro Reyestratsiyu Avtors'kogo Prava No. 46056 TTR 03291669.012:2012 (Zareyestrovano v Derzhavniy Sluzhbi Intelektual'noyi Vlasnosti Ukrayiny 17.10.2012) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, А. Л. Петрановская, Е. В. Пилипчук, Н. В. Абрамов, Е. И. Оранская, А. М. Кордубан, Хімія, фізика та технологія поверхні, 2, № 4: 385 (2011).",
+				"tr":  "P. P. Gorbik, E. V. Pilipchuk, N. V. Abramov, E. I. Oranskaya, and A. M. Korduban, Khimiya, Fizyka ta Tekhnologiya Poverkhni, 2, No. 4: 385 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. В. Абрамов, П. П. Горбик, Сб. научн. трудов «Поверхность», вып. 4 (19): 246 (2012).",
+				"tr":  "N. V. Abramov and P. P. Gorbik, Sb. Nauchn. Trudov 'Poverkhnost', Iss. 4 (19): 246 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Briggs and M. Seach, Practical and Surface Analysis by Auger and X-Ray. Photoelectron Spectroscopy (Chichester: Wiley & Sons: 1983).",
+				"tr":  "D. Briggs and M. Seach, Practical and Surface Analysis by Auger and X-Ray. Photoelectron Spectroscopy (Chichester: Wiley & Sons: 1983)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Нефедов, Рентгеноэлектронная спектроскопия химических соединений (Москва: Химия: 1984).",
+				"tr":  "V. I. Nefedov, Rentgenoelektronnaya Spektroskopiya Khimicheskikh Soedineniy (Moscow: Khimiya: 1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, А. Л. Петрановская, М. П. Турелик, Е. В. Пилипчук, В. Ф. Чехун, Н. Ю. Лукьянова, А. П. Шпак, А. М. Кордубан, В. В. Тришин, Ю. Б. Шевченко, Наносистеми, наноматеріали, нанотехнології, 8, № 4: 749 (2010).",
+				"tr":  "P. P. Gorbik, A. L. Petranovskaya, M. P. Turelik, E. V. Pilipchuk, V. F. Chekhun, N. Yu. Luk'yanova, A. P. Shpak, A. M. Korduban, V. V. Trishin, and Yu. B. Shevchenko, Nanosistemi, Nanomateriali, Nanotehnologii, 8, No. 4: 749 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Горбик, В. В. Туров, Наноматериалы и нанокомпозиты в медицине, биологии, экологии (Ред. А. П. Шпак, В. Ф. Чехун) (Киев: Наукова думка: 2011).",
+				"tr":  "P. P. Gorbik and V. V. Turov, Nanomaterialy i Nanokompozity v Meditsine, Biologii, Ekologii (Eds. A. P. Shpak and V. F. Chekhun) (Kiev: Naukova Dumka: 2011) (in Russian)."
+			}
+		]
+	}
+}

@@ -1,0 +1,49 @@
+{
+	"_id":    "MFiNT.37.0149",
+	"year":   2015,
+	"volume": 37,
+	"issue":  2,
+	"pages":  [149,155],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["23.12.2014"],
+	"PACS":   "61.46.Df, 61.50.Lt, 61.72.Bb, 61.72.jd, 61.80.Az, 71.15.Dx, 71.15.Nc",
+	"title":  {
+		"ua": "Про енергетику формування малих вакансійних комплексів у ГЩП-берилію",
+		"en": "On Energetics of Formation of Small Vacancy Complexes in the H.C.P. Beryllium",
+		"ru": "Об энергетике формирования малых вакансионных комплексов в ГПУ-бериллии"
+	},
+	"abstract": {
+		"ua": "Методою ab-initio моделювання досліджено енергетику формування малих вакансійних комплексів у ГЩП-берилії і просторовий розподіл електронної густини в області вакансій. Енергії формування модельних вакансійних комплексів було розраховано методою псевдопотенціялу. Використовувалися модельні впорядковані структури з елементарною коміркою, що містить 96 атомів Берилію. Показано, що формування малих вакансійних комплексів у ГЩП-берилії є енергетично невигідним. Розрахунки просторового розподілу електронної густини показали істотну локалізацію електронного заряду в області вакансійного комплексу.",
+		"en": "Energy of formation of small vacancy complexes in h.c.p. beryllium and spatial distribution of the electron density within the area of the vacancies are studied by methods of ab-initio simulation. Formation energies of model vacancy complexes are calculated by the pseudopotential method. The ordered model structures with a unit cell containing 96 Be atoms are used. As shown, the formation of small vacancy complexes in the h.c.p. beryllium is energetically unfavourable. The calculations of the spatial distribution of the electron density show a significant localization of the electron charge within the area of the vacancy complex.",
+		"ru": "Методом ab-initio моделирования исследована энергетика формирования малых вакансионных комплексов в ГПУ-бериллии и пространственное распределение электронной плотности в области вакансий. Энергии формирования модельных вакансионных комплексов были рассчитаны методом псевдопотенциала. Использовались модельные упорядоченные структуры с элементарной ячейкой, содержащей 96 атомов бериллия. Показано, что формирование малых вакансионных комплексов в ГПУ-бериллии является энергетически невыгодным. Расчёты пространственного распределения электронной плотности показали существенную локализацию электронного заряда в области вакансионного комплекса."
+	},
+	"keywords": {
+		"ua": "вакансійні комплекси в берилії, взаємодія вакансій, ab-initio моделювання",
+		"en": "vacancy complexes in beryllium, interaction of vacancies, ab-initio simulation",
+		"ru": "вакансионные комплексы в бериллии, взаимодействие вакансий, ab-initio моделирование"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. М. Тимошевський", "en": "A. M. Timoshevskii", "ru": "А. Н. Тимошевский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Б. З. Янчицький", "en": "B. Z. Yanchitsky", "ru": "Б. З. Янчицкий"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. С. Бакай", "en": "O. S. Bakai", "ru": "А. С. Бакай"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "О. М. Івасишин", "en": "O. M. Ivasishin", "ru": "О. М. Ивасишин"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 16,
+		"list":  []
+	}
+}

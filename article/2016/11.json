@@ -1,0 +1,142 @@
+{
+	"year":   2016,
+	"volume": 38,
+	"issue":  11,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [1423,1446],
+			"title": {
+				"ua": "Ефективне поле та фазовий перехід метал—діелектрик у Габбардовому моделю",
+				"en": "Effective Field and Metal—Insulator Phase Transition in the Hubbard Model",
+				"ru": "Эффективное поле и фазовый переход металл—диэлектрик в модели Хаббарда"
+			},
+			"autors": {
+				"ua": "Е. Є. Зубов",
+				"en": "E. E. Zubov",
+				"ru": "Э. Е. Зубов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [1447,1461],
+			"title": {
+				"ua": "Порівняльна аналіза модуля Юнґа і нанотвердости у ниткоподібних кристалів диборидів перехідних металів",
+				"en": "The Comparative Analysis of Young’s Modulus and Nanohardness in Whiskers of Diborides of Transition Metals",
+				"ru": "Сравнительный анализ модуля Юнга нанотвёрдости в вискерах диборидов переходных металлов"
+			},
+			"autors": {
+				"ua": "С. М. Січкар",
+				"en": "S. M. Sichkar",
+				"ru": "С. М. Сичкар"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [1463,1477],
+			"title": {
+				"ua": "Термостабільність структури та механічних властивостей наноквазикристалічного Al$_{94}$Fe$_{3}$Cr$_{3}$-стопу",
+				"en": "Thermal Stability of Structure and Mechanical Properties of a Nano-Quasi-Crystalline Al$_{94}$Fe$_{3}$Cr$_{3}$ Alloy",
+				"ru": "Термостабильность структуры и механических свойств наноквазикристаллического Al$_{94}$Fe$_{3}$Cr$_{3}$-сплава"
+			},
+			"autors": {
+				"ua": "О. І. Юркова, О. І. Кравченко, О. В. Бякова, А. О. Власов",
+				"en": "O. I. Yurkova, O. I. Kravchenko, O. V. Byakova, and A. O. Vlasov",
+				"ru": "А. И. Юркова, А. И. Кравченко, А. В. Бякова, А. А. Власов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [1479,1495],
+			"title": {
+				"ua": "Формування комплексних дифузійних боридних шарів на метастабільних аустенітних хромоманґанових азотовмісних сталях в умовах дії зовнішнього магнетного поля",
+				"en": "Formation of Complex Diffusion Boride Layers on Metastable Austenitic Nitrogen-Containing Chromium—Manganese Steels in Conditions of Action of an External Magnetic Field",
+				"ru": "Формирование комплексных диффузионных боридных слоёв на метастабильных аустенитных хромомарганцевых азотсодержащих сталях в условиях действия внешнего магнитного поля"
+			},
+			"autors": {
+				"ua": "С. М. Чернега, І. А. Поляков, М. О. Красовський",
+				"en": "S. M. Chernega, I. A. Poliakov, and M. O. Krasovskiy",
+				"ru": "С. М. Чернега, И. А. Поляков, М. А. Красовский"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1497,1512],
+			"title": {
+				"ua": "Властивості порошкових стопів на основі кобальту з карбідним зміцненням",
+				"en": "Properties of Powder Alloys Based on a Cobalt with Carbide Strengthening",
+				"ru": "Свойства порошковых сплавов на основе кобальта с карбидным упрочнением"
+			},
+			"autors": {
+				"ua": "Т. С. Черепова, Г. П. Дмитрієва",
+				"en": "T. S. Cherepova and G. P. Dmitrieva",
+				"ru": "Т. С. Черепова, Г. П. Дмитриева"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [1513,1526],
+			"title": {
+				"ua": "Енергетичні параметри утворення тріщин при багатопрохідному зварюванні стопів систем леґування Ni—Cr—Fe",
+				"en": "Energy Parameters of Formation of Cracks at Multiple-Pass Welding of Alloys of Ni—Cr—Fe Alloying Systems",
+				"ru": "Энергетические параметры образования трещин при многопроходной сварке сплавов систем легирования Ni—Cr—Fe"
+			},
+			"autors": {
+				"ua": "К. А. Ющенко, А. В. Звягінцева, Г. Б. Беляєв, М. О. Червяков, І. Р. Волосатов, М. Ю. Каховський, Ю. В. Олійник",
+				"en": "K. A. Yushchenko, A. V. Zviagintsevа, G. B. Belyaev, M. O. Chervyakov, I. R. Volosatov, M. Yu. Kakhovskyi, and Yu. V. Oliynyk",
+				"ru": "К. А. Ющенко, А. В. Звягинцева, Г. Б. Беляев, Н. О. Червяков, И. Р. Волосатов, Н. Ю. Каховский, Ю. В. Олейник"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [1527,1540],
+			"title": {
+				"ua": "Особливості об’ємних ефектів при нагріванні пресованого порошку гідриду цирконію",
+				"en": "Features of Volume Effects under a Heating of Compacted Powder of Zirconium Hydride",
+				"ru": "Особенности объёмных эффектов при нагреве спрессованного порошка гидрида циркония"
+			},
+			"autors": {
+				"ua": "О. М. Івасишин, О. П. Карасевська, Д. Г. Саввакін, М. М. Гуменяк, Я. І. Мельник, О. О. Стасюк",
+				"en": "O. M. Ivasishin, O. P. Karasevska, D. G. Savvakin, M. M. Humenyak, Ya. I. Melnyk, and O. O. Stasiuk",
+				"ru": "О. М. Ивасишин, О. П. Карасевская, Д. Г. Саввакин, Н. М. Гуменяк, Я. И. Мельник, А. А. Стасюк"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [1541,1560],
+			"title": {
+				"ua": "Підхід оберненої задачі для прогнози характеристик самопоширюваної високотемпературної синтези у багатошарових фоліях з урахуванням конкурентного фазоутворення",
+				"en": "The Inverse-Problem Approach for Forecasting Characteristics of a Self-Propagating High-Temperature Synthesis in Multilayer Foils in View of Competitive Formation of Phases",
+				"ru": "Подход обратной задачи для прогнозирования характеристик самораспространяющегося высокотемпературного синтеза в многослойных фольгах с учётом конкурентного фазообразования"
+			},
+			"autors": {
+				"ua": "Т. В. Запорожець, Я. Д. Король",
+				"en": "T. V. Zaporozhets and Ya. D. Korol",
+				"ru": "Т. В. Запорожец, Я. Д. Король"
+			}
+		},
+		{
+			"type":    2,
+			"rubric":  9,
+			"pages":  [1561,1561],
+			"title": {
+				"ua": "Список помилок: Періодичні модуляції магнетостатичного поля в феромагнетному циліндрі та їх вплив на формування фіґур щавлення у розчинах кислот [Металлофиз. новейшие технол., 38, No 10: 1379—1393 (2016), DOI: 10.15407/mfint.38.10.1379]",
+				"en": "Erratum: Periodic Modulations of Magnetostatic Field in Ferromagnetic Cylinder and Their Influence on Etching Figure Formation in Acid Solutions [Metallofiz. Noveishie Tekhnol., 38, No. 10: 1379—1393 (2016), DOI: 10.15407/mfint.38.10.1379]",
+				"ru": "Список опечаток: Периодические модуляции магнитостатического поля в ферромагнитном цилиндре и их влияние на формирование фигур травления в растворах кислот [Металлофиз. новейшие технол., 38, No 10: 1379—1393 (2016), DOI: 10.15407/ mfint.38.10.1379]"
+			},
+			"autors": {
+				"ua": "Ю. І. Джежеря, О. Ю. Горобець, О. П. Кузь, О. С. Климук, Ю. І. Горобець",
+				"en": "Yu. I. Dzhezherya, O. Yu. Gorobets, O. P. Kuz, O. S. Klymuk, and Yu. I. Gorobets",
+				"ru": "Ю. И. Джежеря, О. Ю. Горобец, А. П. Кузь, Е. С. Климук, Ю. И. Горобец"
+			}
+		}
+	]
+}

@@ -1,0 +1,127 @@
+{
+	"_id":    "MFiNT.36.01.0089",
+	"year":   2014,
+	"volume": 36,
+	"issue":  1,
+	"pages":  [89,102],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["22.10.2013", "09.12.2013"],
+	"PACS":   "61.05.cp, 81.16.-c, 81.20.Ka, 82.45.Fk, 84.37.+q, 84.60.Dn",
+	"title":   {
+		"ua": "Температурно-частотні залежності діелектричних констант магній-заміщеного літієвого фериту",
+		"en": "Temperature—Frequency Dependences of Dielectric Constants of Magnesium-Substituted Lithium Ferrite",
+		"ru": "Температурно-частотные зависимости диэлектрических констант магний-замещённого литиевого феррита"
+	},
+	"abstract": {
+		"ua": "В роботі методом імпедансної спектроскопії досліджувалися температурно-частотні залежності діелектричних констант магнійзаміщених літій-залізних шпінелей, одержаних твердофазним синтезом. Показано, що діелектричні властивості зменшуються із збільшенням частоти для всіх складів. Це пояснюється на основі припущення домінування електронного механізму поляризації. Виявлений немонотонний характер температурної залежности дійсної частини діелектричної проникности свідчить про наявність внеску в поляризацію процесів на межах зерен.",
+		"en": "Temperature and frequency dependence of the dielectric constants of magnesium-substituted lithium-iron spinels fabricated by solid-phase synthesis are investigated, using the method of impedance spectroscopy. As shown, the dielectric properties of all the compositions decrease with frequency growth. It is explained by assumption about the dominance of electronic polarization mechanism. The non-monotonic character of the temperature dependence of the real part of the dielectric permittivity indicates the contribution of processes at grain boundaries to the polarization.",
+		"ru": "В работе методом импедансной спектроскопии исследовались температурно-частотные зависимости диэлектрических констант магнийзамещённых литий-железных шпинелей, полученных твердофазным синтезом. Показано, что диэлектрические свойства уменьшаются с увеличением частоты для всех составов. Это объясняется на основе предположения доминирования электронного механизма поляризации. Обнаруженный немонотонный характер температурной зависимости действительной части диэлектрической проницаемости свидетельствует о существовании вклада в поляризацию процессов на границах зёрен."
+	},
+	"keywords": {
+		"ua": "ферити, комплексний імпеданс, діелектрична стала, поляризація, танґенс втрат",
+		"en": "ferrites, complex impedance, dielectric constant, polarization, loss tangent",
+		"ru": "ферриты, комплексный импеданс, диэлектрическая постоянная, поляризация, тангенс потерь"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Б. К. Остафійчук", "en": "B. K. Ostafiychuk", "ru": "Б. К. Остафийчук"},
+			"OID": [209]
+		},
+		{
+			"AID": {"ua": "І. М. Гасюк", "en": "I. M. Gasyuk", "ru": "И. М. Гасюк"},
+			"OID": [209]
+		},
+		{
+			"AID": {"ua": "Л. С. Кайкан", "en": "L. S. Kaykan", "ru": "Л. С. Кайкан"},
+			"OID": [209]
+		},
+		{
+			"AID": {"ua": "В. В. Угорчук", "en": "V. V. Uhorchuk", "ru": "В. В. Угорчук"},
+			"OID": [209]
+		},
+		{
+			"AID": {"ua": "П. П. Якубовський", "en": "P. P. Yakubovskiy", "ru": "П. П. Якубовский"},
+			"OID": [209]
+		},
+		{
+			"AID": {"ua": "В. А. Цап", "en": "V. A. Tsap", "ru": "В. А. Цап"},
+			"OID": [209]
+		},
+		{
+			"AID": {"ua": "Ю. С. Кайкан", "en": "Yu. S. Kaykan", "ru": "Ю. С. Кайкан"},
+			"OID": [209]
+		}
+	],
+	"references": {
+		"count": 13,
+		"list":  [
+			{
+				"doi": "10.1109/20.489540",
+				"or":  "﻿V. G. Harris, N. S. Koon, C. M. Williams et al., IEEE Trans. Magn., 31, No. 6: 3473 (1996).",
+				"tr":  "V. G. Harris, N. S. Koon, C. M. Williams et al., IEEE Trans. Magn., 31, No. 6: 3473 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Гнеденков, С. Л. Синебрюхов, Вестник ДВО РАН, № 5: 6 (2006).",
+				"tr":  "S. V. Gnedenkov, S. L. Sinebryukhov, Vestnik DVO RAN, No. 5: 6 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. F. Mansour, Egypt. J. Solids, 28, No. 2: 263 (2005).",
+				"tr":  "S. F. Mansour, Egypt. J. Solids, 28, No. 2: 263 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "Samy A. Rahman, Egypt. J. Solids, 29, No. 1: 131 (2006).",
+				"tr":  "Samy A. Rahman, Egypt. J. Solids, 29, No. 1: 131 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. К. Остафійчук, Л. С. Кайкан, І. М. Гасюк, Б. Я. Депутат, Фізика і хімія твердого тіла, 7, № 2: 202 (2006).",
+				"tr":  "B. K. Ostafiychuk, L. S. Kaykan, I. M. Hasyuk, and B. Ya. Deputat, Fizyka i Khimiya Tverdoho Tila, 7, No. 2: 202 (2006) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "І. М. Гасюк, І. М. Будзуляк, С. А. Галігузова та ін., Наносистеми, наноматеріали, нанотехнології, 4, вип. 3: 613 (2006).",
+				"tr":  "I. M. Hasyuk, I. M. Budzulyak, S. A. Halihuzova et al., Nanosistemi, Nanomateriali, Nanotehnologii, 4, No. 3: 613 (2006) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "З. Б. Стойнов, Б. М. Графов, Б. Савова-Стойнова, В. В. Елкин, Электрохимический импеданс (Москва: Наука: 1991).",
+				"tr":  "Z. B. Stoynov, B. M. Grafov, B. Savova-Stoynova, and V. V. Elkin, Elektrokhimicheskiy Impedans (Moscow: Nauka: 1991) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0925-8388(96)80044-2",
+				"or":  "M. N. Abdullah and A. N. Yusoff, J. Alloys Compd., 233: 129 (1996).",
+				"tr":  "M. N. Abdullah and A. N. Yusoff, J. Alloys Compd., 233: 129 (1996)."
+			},
+			{
+				"doi": "10.1021/cm011219v",
+				"or":  "S. Mandal, R. M. Rojas, J. M. Amarilla et al., Chem. Mater., 14: 1598 (2002).",
+				"tr":  "S. Mandal, R. M. Rojas, J. M. Amarilla et al., Chem. Mater., 14: 1598 (2002)."
+			},
+			{
+				"doi": "10.1023/A:1018690322459",
+				"or":  "M. N. Abdullah and A. N. Yusoff, J. Mater. Sci., 32: 5817 (1997).",
+				"tr":  "M. N. Abdullah and A. N. Yusoff, J. Mater. Sci., 32: 5817 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Малышев, В. В. Пешев, А. М. Притулов, Изв. вузов. Физика, № 7: 48 (2003).",
+				"tr":  "A. V. Malyshev, V. V. Peshev, and A. M. Pritulov, Izv. Vuzov. Fizika, No. 7: 48 (2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. П. Богданович, В. Н. Варской, В. П. Лебедев и др., Изв. вузов. Физика, № 1: 58 (1983).",
+				"tr":  "M. P. Bogdanovich, V. N. Varskoy, V. P. Lebedev et al., Izv. Vuzov. Fizika, No. 1: 58 (1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. К. Остафійчук, І. М. Гасюк, Л. С. Кайкан, В. В. Угорчук, П. О. Сулим, Восточно-Европейский журнал передовых технологий, № 6: 98 (2010).",
+				"tr":  "B. K. Ostafiychuk, I. M. Hasyuk, L. S. Kaykan, V. V. Uhorchuk, and P. O. Sulym, Vostochno-Evropeyskiy Zhurnal Peredovykh Tekhnologiy, No. 6: 98 (2010) (in Ukrainian)."
+			}
+		]
+	}
+}

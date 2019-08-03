@@ -1,0 +1,82 @@
+{
+	"_id":    "MFiNT.41.03.0279",
+	"year":   2019,
+	"volume": 41,
+	"issue":  3,
+	"pages":  [279,288],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["06.08.2018"],
+	"PACS":   "61.50.Ks, 71.10.-w, 71.20.Gj, 71.30.+h, 75.10.Dg, 75.30.Et, 75.30.Mb",
+	"title":   {
+		"ua": "Фазові діаграми урану та його сполук. I. Дестабілізація оболонок йона в металі. Квантова теорія",
+		"en": "Phase Diagrams of Uranium and Its Compounds. I. Destabilization of Ion Shells in Metal. The Quantum Theory",
+		"ru": "Фазовые диаграммы урана и его соединений. I. Дестабилизация оболочек иона в металле. Квантовая теория"
+	},
+	"abstract": {
+		"ua": "Методом багатоелектронних операторних спінорів розраховується металічний U. Атомна фазова діаграма супроводжується розділенням 5$f$-оболонки на $e_{\\textrm{g}}$ (5$f^1$) і $t_{2\\textrm{g}}$ (5$f^2$) підоболонки. Гібридизація 5$f$–6$d$ і 5$f$–7$s$ оболонок зануляє спіновий момент ($\\textbf{S}_{\\textbf{r}}$ = 0). Дестабілізація електронної структури іона U пов’язується з гібридизацією 5$f$–6$d$. Перескоки «зовнішніх» 5$f^1$-електронів на 6$d$-рівень за рахунок збудження флуктуацій хімічних (ковалентних) зв’язків (ФХЗ) з ростом температури $T$ приводять до $\\alpha$–$\\beta$-переходу ($T$ → $T_{\\textrm{k1}}$). Далі ріст густини ФХЗ збуджує 5$f^2$–6$d$-гібридизацію і $\\beta$–$\\gamma$-перехід при $T$ → $T_{\\textrm{k2}}$ > $T_{\\textrm{k1}}$. Гістерезис кожного переходу зумовлено ковалентно-зонними зв’язками. Перехідні стрибки об’єму $\\Delta V_{1,2}$ визначаються неоднорідністю $\\Gamma_{dd}(\\textbf{r} – \\textbf{R})$ ковалентних зв’язків іонів урану у вузлах $\\textbf{r}$ і $\\textbf{R}$. Локальність кутового моменту  $\\textbf{L}_{\\textbf{r}}$ не дозволяє проявлятися магнетизму металічного урану. Але включення спін-орбітальних зв’язків іонів урану з 3$d$-іонами впливає на магнітну жорсткість сплавів типу U–Co, що і спостерігається експериментально.",
+		"en": "Metallic U is calculated by means of the method of many-electron operator spinors. Atomic phase diagram is accompanied by dividing of 5$f$-shell on $e_{\\textrm{g}}$ (5$f^1$) and $t_{2\\textrm{g}}$ (5$f^2$) subshells. Destabilization of U ion electronic structure is connected with 5$f$–6$d$ hybridization. Jumping of ‘outer’ 5$f^1$ electrons on 6$d$ level owing to excitation of chemical (covalent) bond fluctuations (CBF) with temperature $T$ growth leads to $\\alpha$–$\\beta$ transition ($T$ → $T_{\\textrm{k1}}$). Then growth of CBF density excites 5$f^2$–6$d$ hybridization and $\\beta$–$\\gamma$ transition at $T$ → $T_{\\textrm{k2}}$ > $T_{\\textrm{k1}}$. Hysteresis of each transition is conditioned by covalent-band bonds. Transitional volume jumps $\\Delta V_{1,2}$ are determined by inhomogeneity $\\Gamma_{dd}(\\textbf{r} – \\textbf{R})$ of U ion covalent bonds in sites $\\textbf{r}$ and $\\textbf{R}$. Angular moment  $\\textbf{L}_{\\textbf{r}}$ locality prevents from display magnetism of metallic U. But inclusion of U ion spin-orbital bonds with 3$d$ ions influences on magnetic hardness of alloys of U–Co type, which is observed experimentally.",
+		"ru": "Методом многоэлектронных операторных спиноров рассчитывается металлический U. Атомная фазовая диаграмма сопровождается разделением 5$f$-оболочки на $e_{\\textrm{g}}$ (5$f^1$) и $t_{2\\textrm{g}}$ (5$f^2$) подоболочки. Гибридизация 5$f$–6$d$ и 5$f$–7$s$ оболочек обнуляет спиновый момент ($\\textbf{S}_{\\textbf{r}}$ = 0). Дестабилизация электронной структуры иона U связывается с гибридизацией 5$f$–6$d$. Перескоки «внешних» 5$f^1$-электронов на 6$d$-уровень за счёт возбуждений флуктуаций химических (ковалентных) связей (ФХС) с ростом температуры $T$ приводят к $\\alpha$–$\\beta$-переходу ($T$ → $T_{\\textrm{k1}}$). Далее рост плотности ФХС возбуждает 5$f^2$–6$d$-гибридизацию и $\\beta$–$\\gamma$-переход при $T$ → $T_{\\textrm{k2}}$ > $T_{\\textrm{k1}}$. Гистерезис каждого перехода обусловлен ковалентно-зонными связями. Переходные скачки объёма $\\Delta V_{1,2}$ определяются неоднородностью $\\Gamma_{dd}(\\textbf{r} – \\textbf{R})$ ковалентных связей ионов урана в узлах $\\textbf{r}$ и $\\textbf{R}$. Локальность углового момента  $\\textbf{L}_{\\textbf{r}}$ не позволяет проявляться магнетизму металлического урана. Но включение спин-орбитальных связей ионов урана с 3$d$-ионами влияет на магнитную жёсткость сплавов типа U–Co, что и наблюдается экспериментально."
+	},
+	"keywords": {
+		"ua": "флуктуації хімічних зв’язків (ФХЗ), дестабілізація 5$f$-оболонки та фазові переходи, групи Галуа",
+		"en": "chemical bond fluctuations (CBF), destabilization of the 5$f$ shell and phase transitions, Galois groups",
+		"ru": "флуктуации химических связей (ФХС), дестабилизация 5$f$-оболочки и фазовые переходы, группы Галуа"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. І. Міцек", "en": "O. I. Mitsek", "ru": "А. И. Мицек"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. М. Пушкар", "en": "V. M. Pushkar", "ru": "В. Н. Пушкарь"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 8,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "К. Дж. Смитлз, Металлы (Москва: Металлургия: 1980).",
+				"tr":  "K. J. Smitlz, Metally [Metals] (Moscow: Metallurgiya: 1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Дерягин, А. В. Андреев, ЖЭТФ, 71, № 9: 1166 (1976).",
+				"tr":  "A. V. Deryagin and A. V. Andreev, ZhETF, 71, No. 9: 1166 (1976) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.37.04.0433",
+				"or":  "А. И. Мицек, В. Н. Пушкарь, Металлофиз. новейшие технол., 37, № 4: 433 (2015).",
+				"tr":  "O. I. Mitsek and V. M. Pushkar, Metallofiz. Noveishie Tekhnol., 37, No. 4: 433 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Мицек, Металлофиз. новейшие технол., 23, № 1: 1 (2001).",
+				"tr":  "O. I. Mitsek, Metallofiz. Noveishie Tekhnol., 23, No. 1: 1 (2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. П. Белов, З. Генке, А. С. Дмитриевский, ЖЭТФ, 64, № 5: 583 (1973).",
+				"tr":  "K. P. Belov, Z. Genke, and A. S. Dmitrievskiy, ZhETF, 64, No. 5: 583 (1973) (in Russian)."
+			},
+			{
+				"doi": "10.1002/pssa.2210270259",
+				"or":  "R. Z. Levitin, A. S. Dmitrievsri, Z. Henke, and A. Misiuk, phys. status solidi (a), 27, Iss. 2: K109 (1975).",
+				"tr":  "R. Z. Levitin, A. S. Dmitrievsri, Z. Henke, and A. Misiuk, phys. status solidi (a), 27, Iss. 2: K109 (1975)."
+			},
+			{
+				"doi": "10.15407/mfint.39.04.0425",
+				"or":  "А. И. Мицек, В. Н. Пушкарь, Металлофиз. новейшие технол., 39, № 4: 425 (2017).",
+				"tr":  "O. I. Mitsek and V. M. Pushkar, Metallofiz. Noveishie Tekhnol., 39, No. 4: 425 (2017) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.38.07.0853",
+				"or":  "А. И. Мицек, В. Н. Пушкарь, Металлофиз. новейшие технол., 38, № 7: 853 (2016).",
+				"tr":  "O. I. Mitsek and V. M. Pushkar, Metallofiz. Noveishie Tekhnol., 38, No. 7: 853 (2016) (in Russian)."
+			}
+		]
+	}
+}

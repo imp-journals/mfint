@@ -1,0 +1,202 @@
+{
+	"_id":    "MFiNT.39.04.0457",
+	"year":   2017,
+	"volume": 39,
+	"issue":  4,
+	"pages":  [457,464],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["15.03.2017"],
+	"PACS":   "61.43.Bn, 61.72.J-, 61.72.Mm, 66.30.J-, 67.63.Cd, 67.63.Gh",
+	"title":   {
+		"ua": "Зерномежова сеґреґація та міґрація атомів Гідроґену в альфа-залізі",
+		"en": "Hydrogen Grain Boundary Segregation and Migration in the Alpha-Iron",
+		"ru": "Зернограничная сегрегация и миграция атомов водорода в альфа-железе"
+	},
+	"abstract": {
+		"ua": "Ґрунтуючись на відмінностях механізмів дифузії атомів заміщення та втілення і використовуючи молекулярно-динамічні розрахунки міґрації атомів Гідроґену, показано, що прискорений потік водню в полікристалічному залізі, який спостерігається в процесі катодного наводнення, не може бути наслідком прискореної зерномежової дифузії водню. Розглядається можлива роль зерномежового розтріскування.",
+		"en": "Based on the difference in diffusion mechanisms of substitutional and interstitial atoms and using molecular dynamics simulation of hydrogen migration, it is shown that accelerated hydrogen flux in the polycrystalline iron observed during cathodic charging cannot originate from the enhanced hydrogen grain-boundary diffusion. A possible role of grain-boundary cracking is supposed.",
+		"ru": "Основываясь на отличиях механизмов диффузии атомов замещения и внедрения и используя моделирование методом молекулярной динамики миграции водорода, показано, что ускоренный поток водорода в поликристаллическом железе, который наблюдается в процессе катодного наводораживания, не может быть следствием ускоренной зернограничной диффузии водорода. Рассмотрена возможная роль зернограничного растрескивания."
+	},
+	"keywords": {
+		"ua": "дифузія водню, межі зерен, молекулярна динаміка",
+		"en": "hydrogen diffusion, grain boundaries, molecular dynamics simulation",
+		"ru": "диффузия водорода, границы зёрен, молекулярная динамика"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Г. Гаврилюк", "en": "V. G. Gavriljuk", "ru": "В. Г. Гаврилюк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. М. Теус", "en": "S. M. Teus", "ru": "С. М. Теус"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 32,
+		"list":  [
+			{
+				"doi": "10.1007/BF02686408",
+				"or":  "N. R. Quick and H. H. Johnson, Metall. Trans. A, 10: 67 (1979).",
+				"tr":  "N. R. Quick and H. H. Johnson, Metall. Trans. A, 10: 67 (1979)."
+			},
+			{
+				"doi": "10.1016/0036-9748(82)90273-3",
+				"or":  "T. Tsuru and R. M. Latanision, Scr. Metall., 16: 575 (1982).",
+				"tr":  "T. Tsuru and R. M. Latanision, Scr. Metall., 16: 575 (1982)."
+			},
+			{
+				"doi": "10.1016/0001-6160(87)90150-7",
+				"or":  "B. Ladna and H. K. Birnbaum, Acta Metall., 35: 2537 (1987).",
+				"tr":  "B. Ladna and H. K. Birnbaum, Acta Metall., 35: 2537 (1987)."
+			},
+			{
+				"doi": "10.1016/0001-6160(88)90109-5",
+				"or":  "A. Kimura and H. K. Birnbaum, Acta Metall., 36: 757 (1988).",
+				"tr":  "A. Kimura and H. K. Birnbaum, Acta Metall., 36: 757 (1988)."
+			},
+			{
+				"doi": "10.1016/1359-6454(95)00446-7",
+				"or":  "A. M. Brass and A. Chanfreau, Acta Mater., 44: 3823 (1996).",
+				"tr":  "A. M. Brass and A. Chanfreau, Acta Mater., 44: 3823 (1996)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2012.09.004",
+				"or":  "A. Oudriss, J. Creus, J. Bouhattate, E. Conforto, C. Berziou, C. Savall, and X. Feaugas, Acta Mater., 60: 6814 (2012).",
+				"tr":  "A. Oudriss, J. Creus, J. Bouhattate, E. Conforto, C. Berziou, C. Savall, and X. Feaugas, Acta Mater., 60: 6814 (2012)."
+			},
+			{
+				"doi": "10.1098/rspa.1966.0046",
+				"or":  "W. Beck, J. Bockris, J. McBreen, and L. Nanis, Proc. R. Soc. A, 290: 220 (1966).",
+				"tr":  "W. Beck, J. Bockris, J. McBreen, and L. Nanis, Proc. R. Soc. A, 290: 220 (1966)."
+			},
+			{
+				"doi": "",
+				"or":  "W. M. Robertson, Z. Metallk., 69: 436 (1973).",
+				"tr":  "W. M. Robertson, Z. Metallk., 69: 436 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "V. M. Sidorenko and I. I. Sidorak, Fiz. Khim. Mekh. Mater., 1: 52 (1973) (in Russian).",
+				"tr":  "V. M. Sidorenko and I. I. Sidorak, Fiz. Khim. Mekh. Mater., 1: 52 (1973) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0956-7151(91)90333-V",
+				"or":  "J. Yao and J. R. Cahoon, Acta Metall. Mater., 39: 119 (1991).",
+				"tr":  "J. Yao and J. R. Cahoon, Acta Metall. Mater., 39: 119 (1991)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2016.10.027",
+				"or":  "M. Koyama, D. Yamasaki, T. Nagashima, C. Tasan, and K. Tsuzaki, Scr. Mater., 129: 48 (2017).",
+				"tr":  "M. Koyama, D. Yamasaki, T. Nagashima, C. Tasan, and K. Tsuzaki, Scr. Mater., 129: 48 (2017)."
+			},
+			{
+				"doi": "10.1007/BF02663321",
+				"or":  "T. Shober and C. Dieker, Metall. Trans. A, 14: 2440 (1983).",
+				"tr":  "T. Shober and C. Dieker, Metall. Trans. A, 14: 2440 (1983)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2005.08.016",
+				"or":  "T. Sundararajan, E. Akiyama, and K. Tsuzaki, Scr. Mater., 53: 1219 (2005).",
+				"tr":  "T. Sundararajan, E. Akiyama, and K. Tsuzaki, Scr. Mater., 53: 1219 (2005)."
+			},
+			{
+				"doi": "10.1149/1.1979367",
+				"or":  "T. Sundararajan, E. Akiyama, and K. Tsuzaki, Electrochem. Solid State Lett., 8: B30–B33 (2005).",
+				"tr":  "T. Sundararajan, E. Akiyama, and K. Tsuzaki, Electrochem. Solid State Lett., 8: B30–B33 (2005)."
+			},
+			{
+				"doi": "10.1016/j.corsci.2013.06.018",
+				"or":  "M. Koyama, E. Akiyama, T. Sawaguchi, K. Ogawa, I. V. Kireeva, Y. I. Chumlyakov, and K. Tsuzaki, Corros. Sci., 75: 345 (2013).",
+				"tr":  "M. Koyama, E. Akiyama, T. Sawaguchi, K. Ogawa, I. V. Kireeva, Y. I. Chumlyakov, and K. Tsuzaki, Corros. Sci., 75: 345 (2013)."
+			},
+			{
+				"doi": "10.2320/matertrans1960.20.349",
+				"or":  "H. Hagi, Y. Hayashi, and N. Ohtani, Trans. Jpn. Inst. Metals., 20: 349 (1979).",
+				"tr":  "H. Hagi, Y. Hayashi, and N. Ohtani, Trans. Jpn. Inst. Metals., 20: 349 (1979)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2014.01.049",
+				"or":  "S. M. Teus, V. F. Mazanko, J.-M. Olive, and V. G. Gavriljuk, Acta Mater., 69: 105 (2014).",
+				"tr":  "S. M. Teus, V. F. Mazanko, J.-M. Olive, and V. G. Gavriljuk, Acta Mater., 69: 105 (2014)."
+			},
+			{
+				"doi": "10.15407/mfint.36.10.1399",
+				"or":  "S. M. Teus and V. G. Gavriljuk, Metallofiz. Noveishie Tekhnol., 36, No. 10: 1399 (2014).",
+				"tr":  "S. M. Teus and V. G. Gavriljuk, Metallofiz. Noveishie Tekhnol., 36, No. 10: 1399 (2014)."
+			},
+			{
+				"doi": "10.1107/S0365110X66002615",
+				"or":  "S. Ranganathan, Acta Cryst., 21: 197 (1966).",
+				"tr":  "S. Ranganathan, Acta Cryst., 21: 197 (1966)."
+			},
+			{
+				"doi": "10.1002/pssb.2220540131",
+				"or":  "M. A. Fortes, phys. status solidi (b), 54: 311 (1972).",
+				"tr":  "M. A. Fortes, phys. status solidi (b), 54: 311 (1972)."
+			},
+			{
+				"doi": "10.1016/0036-9748(82)90136-3",
+				"or":  "M. Nagano, Y. Hayashi, N. Ohtani, M. Isshiki, and K. Igaki, Scr. Metall., 16: 973 (1982).",
+				"tr":  "M. Nagano, Y. Hayashi, N. Ohtani, M. Isshiki, and K. Igaki, Scr. Metall., 16: 973 (1982)."
+			},
+			{
+				"doi": "10.1002/pssa.2210360218",
+				"or":  "I. F. Dufresne, A. Seeger, P. Groh, and P. Moser, phys. status solidi (a), 36: 579 (1976).",
+				"tr":  "I. F. Dufresne, A. Seeger, P. Groh, and P. Moser, phys. status solidi (a), 36: 579 (1976)."
+			},
+			{
+				"doi": "10.2320/matertrans1960.2.25",
+				"or":  "T. Suzuoka, Trans. Japan Inst. Metals., 2: 25 (1961).",
+				"tr":  "T. Suzuoka, Trans. Japan Inst. Metals., 2: 25 (1961)."
+			},
+			{
+				"doi": "10.1063/1.1699825",
+				"or":  "J. C. Fisher, J. Appl. Phys., 22: 74 (1951).",
+				"tr":  "J. C. Fisher, J. Appl. Phys., 22: 74 (1951)."
+			},
+			{
+				"doi": "10.1080/14786441208561131",
+				"or":  "R. T. P. Whipple, Philos. Mag., 45: 1225 (1954).",
+				"tr":  "R. T. P. Whipple, Philos. Mag., 45: 1225 (1954)."
+			},
+			{
+				"doi": "10.1016/0036-9748(76)90129-0",
+				"or":  "M. Weller and J. Diehl, Scr. Metall., 10, No. 2: 101 (1976).",
+				"tr":  "M. Weller and J. Diehl, Scr. Metall., 10, No. 2: 101 (1976)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.67.174105",
+				"or":  "Y. Tateyama and T. Ohno, Phys Rev. B, 82: 174105 (2003).",
+				"tr":  "Y. Tateyama and T. Ohno, Phys Rev. B, 82: 174105 (2003)."
+			},
+			{
+				"doi": "10.1016/j.msea.2015.09.015",
+				"or":  "G. S. Mogilny, S. M. Teus, V. N. Shyvanyuk, and V. G. Gavriljuk, Mater. Sci. Eng. A, 648: 260 (2015).",
+				"tr":  "G. S. Mogilny, S. M. Teus, V. N. Shyvanyuk, and V. G. Gavriljuk, Mater. Sci. Eng. A, 648: 260 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "V. G. Gavriljuk, H. Hanninen, S. Yu. Smouk, A. V. Tarasenko, and K. Ullakko, Proc. of Intern. Conf. ‘Hydrogen Transport and Cracking in Metals’ (April 14–17, 1994, London) (The Institute of Materials: 1995), p. 321.",
+				"tr":  "V. G. Gavriljuk, H. Hanninen, S. Yu. Smouk, A. V. Tarasenko, and K. Ullakko, Proc. of Intern. Conf. 'Hydrogen Transport and Cracking in Metals' (April 14–17, 1994, London) (The Institute of Materials: 1995), p. 321."
+			},
+			{
+				"doi": "10.1016/0001-6160(60)90103-6",
+				"or":  "F. Garofalo, Y. T. Chou, and V. Ambegaokar, Acta Met., 8: 504 (1960).",
+				"tr":  "F. Garofalo, Y. T. Chou, and V. Ambegaokar, Acta Met., 8: 504 (1960)."
+			},
+			{
+				"doi": "10.1016/0001-6160(62)90048-2",
+				"or":  "B. A. Bilby and J. Hewitt, Acta Met., 10: 587 (1962).",
+				"tr":  "B. A. Bilby and J. Hewitt, Acta Met., 10: 587 (1962)."
+			},
+			{
+				"doi": "",
+				"or":  "H. H. Johnson, Fundamental Aspects of Stress Corrosion Cracking (Eds. R. W. Staehle, A. J. Forty, and D. Van Rooyen) (Houston, USA: NACE: 1969), p. 439.",
+				"tr":  "H. H. Johnson, Fundamental Aspects of Stress Corrosion Cracking (Eds. R. W. Staehle, A. J. Forty, and D. Van Rooyen) (Houston, USA: NACE: 1969), p. 439."
+			}
+		]
+	}
+}

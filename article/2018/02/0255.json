@@ -1,0 +1,155 @@
+{
+	"_id":    "MFiNT.40.02.0255",
+	"year":   2018,
+	"volume": 40,
+	"issue":  2,
+	"pages":  [255,280],
+	"rubric": 18,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["24.11.2017"],
+	"PACS":   "07.05.Pj, 61.72.Ff, 61.72.Mm, 81.05.Bx, 81.30.Mh, 81.40.Cd, 81.70.Fy",
+	"title":   {
+		"ua": "Нові підходи в дослідженні неоднорідности гетерогенних структур",
+		"en": "New Approaches in Study of Inhomogeneity of Heterogeneous Structures",
+		"ru": "Новые подходы в исследовании неоднородности гетерогенных структур"
+	},
+	"abstract": {
+		"ua": "Представлену роботу присвячено розробці й удосконаленню нових метод дослідження структур, сформованих у хромовмісних вуглецевих стопах, що уможливлюють прогнозувати зміни локальної неоднорідности структурних складових для використання в різних технологічних процесах, для досягнення необхідних властивостей. Застосування нових підходів передбачає також використання більш швидких операцій стосовно комп’ютерної оптико-математичної оцінки цих показників. Методику застосовуваного комп’ютерного дослідження металографічного зображення структури засновано на гідродинамічних аналогіях із застосуванням рівнянь Нав’є–Стокса, що описують формування фаз (за рахунок дисипації енергії в результаті дифузійного процесу зміни густини аналізованого об’єкту). Оцінку робили на основі обчислюваних значень, розташованих на оцифрованих у формат bmp зображеннях, що аналізуються. В результаті проведених досліджень оцінено неоднорідність високохромистих чавунів за розподілом ступеня дисперсности умовного кольору визначених фаз. Проведено моделювання локальної неоднорідности структурних складових, що включає в себе використання нових параметрів оцінювання — $М$-трійок, що представляють собою впорядкований набір, який складається з трьох дійсних цілих чисел, які обчислюються через диверґенцію та Ляплясіяна у розглянутій точці металографічного зображення та через які виражали потужність дисипації енергії. Моделювання проводили, використовуючи інваріянтні перетворення $М$-трійок при повороті металографічного зображення на різні кути. Введення їх в аналізу уможливило, змінюючи та задаючи певні енергетичні параметри (поворотом, перестановкою пікселів на досліджуваному зображенні), проводити моделювання та оцінювання зміни локальної неоднорідности структурних складових. За допомогою моделювання, в якості прикладу, виконано оцінку впливу неоднорідности структурних складових на їхню твердість. Встановлено, що, хоча твердість стопу зростає з підвищенням ступеня дисперсности, однак значимість цього параметра в обох напрямках (вертикальному та горизонтальному) є нижчою, ніж у випадку кутів повороту. Це свідчить про те, що дисперсність структурних складових не має визначального впливу на твердість такого стопу. Ці результати потребують більш детальної аналізи, яка також враховувала б роль інших чинників, таких як швидкість кристалізації, ступінь щільности дислокаційної структури, у тому числі й у межах субзерен, що формуються. В цьому випадку моделювання кутів повороту уможливить встановити їх найбільш тісний зв’язок з усіма параметрами, що входять до складу $М$-трійок, через які можна як оцінити неоднорідність структурних складових, так і виявити особливості їхнього формування в гетерогенних стопах. Даний методичний підхід та одержані результати аналізи уможливлюють також оцінювати вплив різних експлуатаційних чинників на властивості матеріялу. На підставі виявленої анізотропії властивостей металу робочого шару, у тому числі й при відцентровому литті, рекомендовано оцінювати зв’язок структури із властивостями на поперечних шліфах (поперек осей нечітко виражених дендритів).",
+		"en": "Our paper is concerned with the development and improvement of the new methods of study different structures formed in chromium-containing carbon alloys. The described methods allow predicting changes in the local heterogeneity of structural constituents because of different processing operations being realized. The application of new techniques also involves the use of faster operations in computer-based optical-mathematical evaluation of such parameters. Due to dissipation of energy because of the diffusion process and changes in the density of the analysed samples, we associate phase formation with the hydrodynamic processes. The used technique includes a computer analysis of the metallographic structure images and is based on hydrodynamic analogies using Navier–Stokes equations. The estimation is made based on the calculated values located on the analysed images digitized into the bmp format. As a result, the inhomogeneity of the high-chromium cast iron via the distribution of the dispersion degree of the conventional colour is estimated. Modelling of a local heterogeneity of the structural components is carried out. The modelling includes the new estimation parameters, $i.e.$, $M$-triples, which are an ordered set consisting of three real integers equal to divergence and Laplacian at the considered point on metallographic image; we express the energy dissipation power in terms of the $M$-triples. The simulation is carried out with the use of the $M$-triples’ invariant transformations when the metallographic image is rotated to different angles. The $M$-triple occurred to be a convenient parameter since it allows simulating changes of the local homogeneity in structural components by changing and varying the certain energy parameters (by rotation and permutation of the pixels on the image). The effect of heterogeneity of structural components on their hardness is evaluated via simulation. As determined, although the alloy hardness and dispersion increase proportionally, the impact of hardness along vertical and horizontal directions is lower than one in the case of angular rotation that indicates that the dispersity of the structural components does not exert a decisive effect on the alloy hardness. These results require more detailed analysis, which should include the role of other factors, such as the degree of dislocation-structure density, in particular, within the formed subgrain boundaries. Simulation of the angular rotation will then make it possible to carry out the closest correlation between all parameters that makes up the $M$-triples and to evaluate the structural components of heterogeneity as well as to reveal their formation features within the heterogeneous alloys. Our methodological approach and the obtained analysis results also allow evaluating the influence of various operative factors on the materials’ properties. Based on revealed anisotropy of the metal working-layer properties, it is recommended to evaluate the structure–properties connection over the transverse sections (across the dendrites’ axes) in the case of centrifugal casting as well.",
+		"ru": "Представленная работа посвящена разработке и усовершенствованию новых методов исследования структур, формируемых в хромсодержащих углеродистых сплавах, позволяющих прогнозировать изменения локальной неоднородности структурных составляющих для использования в различных технологических процессах, чтобы достигнуть необходимых свойств. Применение новых подходов предусматривает и использование более быстрых операций по компьютерной оптико-математической оценке этих показателей. Методика применяемого компьютерного анализа металлографического изображения структуры основана на гидродинамических аналогиях с применением уравнений Навье–Стокса, описывающих формирование фаз (за счёт диссипации энергии в результате диффузионного процесса изменения плотности анализируемого объекта). Оценку производили на основе вычисляемых значений, расположенных на оцифрованных в формат bmp анализируемых изображениях. В результате проведённых исследований оценена неоднородность высокохромистых чугунов по распределению степени дисперсности условного цвета определяемых фаз. Проведено моделирование локальной неоднородности структурных составляющих, включающее в себя использование новых оценочных параметров — $М$-троек, представляющих собой упорядоченный набор, состоящий из трёх действительных целых чисел, вычисляемых через дивергенцию и лапласиан в рассматриваемой точке металлографического изображения, через которые выражали мощность диссипации энергии. Моделирование проводили, используя инвариантные преобразования $М$-троек при повороте металлографического изображения на различные углы. Ввод их в анализ позволил, изменяя и задавая определённые энергетические параметры (поворотом, перестановкой пикселов на исследуемом изображении), проводить моделирование и оценку изменения локальной неоднородности структурных составляющих в результате задаваемых различных параметров. При помощи моделирования, в качестве примера, выполнена оценка влияния неоднородности структурных составляющих на их твёрдость. Установлено, что хотя твёрдость сплава возрастает с повышением степени дисперсности, однако значимость этого параметра в обоих направлениях (вертикальном и горизонтальном) ниже, чем в случае углов поворота. Это свидетельствует о том, что дисперсность структурных составляющих не оказывает определяющего влияния на твёрдость такого сплава. Эти результаты требуют более детального анализа, включающего и роль других факторов, таких как скорость кристаллизации, степень плотности дислокационной структуры, в том числе и в формируемых границах субзёрен. В этом случае моделирование углов поворота позволит установить наиболее тесную их взаимосвязь со всеми параметрами, входящими в состав $М$-троек, через которые можно как оценить неоднородность структурных составляющих, так и выявить особенности их формирования в гетерогенных сплавах. Данный методический подход и полученные результаты анализа позволят также оценивать влияние различных эксплуатационных факторов на свойства материала. На основании выявленной анизотропии свойств металла рабочего слоя, в том числе и при центробежном литье, рекомендовано оценивать связь структуры со свойствами на поперечных шлифах (поперёк осей нечётко выраженных дендритов)."
+	},
+	"keywords": {
+		"ua": "металографічне зображення, інваріантне перетворення, оптико-математичний аналіз, хромисті гетерогенні стопи, ступінь дисперсності фаз, структурна неоднорідність, твердість",
+		"en": "metallographic image, invariant transformation, optical-mathematical analysis, chromium heterogeneous alloys, phase dispersion degree, structural heterogeneity, hardness",
+		"ru": "металлографическое изображение, инвариантное преобразование, оптико-математический анализ, хромистые гетерогенные сплавы, степень дисперсности фаз, структурная неоднородность, твёрдость"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Т. С. Скобло", "en": "T. S. Skoblo", "ru": "Т. С. Скобло"},
+			"OID": [262]
+		},
+		{
+			"AID": {"ua": "О. Ю. Клочко", "en": "O. Yu. Klochko", "ru": "О. Ю. Клочко"},
+			"OID": [262]
+		},
+		{
+			"AID": {"ua": "Ю. Л. Бєлкін", "en": "E. L. Belkin", "ru": "Е. Л. Белкин"},
+			"OID": [262]
+		},
+		{
+			"AID": {"ua": "О. І. Сидашенко", "en": "A. I. Sidashenko", "ru": "А. И. Сидашенко"},
+			"OID": [262]
+		}
+	],
+	"references": {
+		"count": 21,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Т. С. Скобло, Н. М. Воронцов, С. И. Рудюк, Н. А. Будагьянц, В. А. Воронина, Прокатные валки из высокоуглеродистых сплавов (Москва: Металлургия: 1994).",
+				"tr":  "T. S. Skoblo, N. M. Vorontsov, S. I. Rudyuk, N. A. Budagyants, and V. A. Voronina, Prokatnye Valki iz Vysokouglerodistykh Splavov [Roller Rolls Made of High-Carbon Alloys] (Moscow: Metallurgiya: 1994) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Union Electric Steel Corporation, http://www.akersrolls.com",
+				"tr":  "Union Electric Steel Corporation, http://www.akersrolls.com"
+			},
+			{
+				"doi": "",
+				"or":  "Kaida Roll Group, http://www.kdroll.com",
+				"tr":  "Kaida Roll Group, http://www.kdroll.com"
+			},
+			{
+				"doi": "",
+				"or":  "Marichal Ketin, http://www.mkb.be; SMS group, https://www.sms-group.com",
+				"tr":  "Marichal Ketin, http://www.mkb.be; SMS group, https://www.sms-group.com"
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Балаклеец, П. П. Долгих, В. Я. Погорелов, В. С. Филиппов, А. В. Шамрин, А. А. Сирота, Сталь, 1: 45 (2008).",
+				"tr":  "I. A. Balakleets, P. P. Dolgikh, V. Ya. Pogorelov, V. S. Filippov, A. V. Shamrin, and A. A. Sirota, Stal', 1: 45 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. С. Скобло, А. И. Сидашенко, Н. М. Александрова, Е. Л. Белкин, В. М. Власовец, О. Ю. Клочко, А. Д. Мартыненко, Производство и применение прокатных валков: Справочник (Ред. Т. С. Скобло) (Харьков: ЦД № 1: 2013), с. 572.",
+				"tr":  "T. S. Skoblo, A. I. Sidashenko, N. M. Aleksandrova, E. L. Belkin, V. M. Vlasovets, O. Yu. Klochko, and A. D. Martynenko, Proizvodstvo i Primenenie Prokatnykh Valkov: Spravochnik (Ed. T. S. Skoblo) [Production and Use of Rolling-Mill Rolls] (Kharkov: CD No. 1: 2013), p. 572 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. С. Скобло, О. Ю. Клочко, Е. Л. Белкин, А. И. Сидашенко, Заводская лаборатория. Диагностика материалов, 83, № 5: 27 (2017).",
+				"tr":  "T. S. Skoblo, O. Yu. Klochko, E. L. Belkin, and A. I. Sidashenko, Zavodskaya Laboratoriya. Diagnostika Materialov, 83, No. 5: 27 (2017) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. Ю. Клочко, Вісник ХНТУСГ ім. П. Василенка, вип. 183: 20 (2017).",
+				"tr":  "O. Yu. Klochko, Visnyk KhNTUSG im. P. Vasylenka, Iss. 183: 20 (2017) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. С. Скобло, О. Ю. Клочко, Е. Л. Белкин, Технічний сервіс агропромислового, лісового та транспортного комплексів, 8: 193 (2017).",
+				"tr":  "T. S. Skoblo, O. Yu. Klochko, and E. L. Belkin, Tekhnichnyy Servis Agropromyslovogo, Lisovogo ta Transportnogo Kompleksiv, 8: 193 (2017) (in Russian)."
+			},
+			{
+				"doi": "10.11648/j.ijmpem.20170203.12",
+				"or":  "T. Skoblo, O. Klochko, E. Belkin, and A. Sidashenko, International Journal of Mineral Processing and Extractive Metallurgy, 2, Iss. 3: 34 (2017).",
+				"tr":  "T. Skoblo, O. Klochko, E. Belkin, and A. Sidashenko, International Journal of Mineral Processing and Extractive Metallurgy, 2, Iss. 3: 34 (2017)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. С. Скобло, О. Ю. Клочко, Е. Л. Белкин, Materiały VII Międz. Nauk.-Prakt. Konf. Europejska Nauka XXI Powieką (Przemyśl: 2011), vol. 21, p. 94.",
+				"tr":  "T. S. Skoblo, E. L. Belkin, and O. Yu. Klochko, Materiały VII Międz. Nauk.-Prakt. Konf. Europejska Nauka XXI Powieką (Przemyśl: 2011), vol. 21, p. 94 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "P. J. Roache, Fundamentals of Computational Fluid Dynamics (Hermosa Beach, CA: Hermosa Pub.: 1998).",
+				"tr":  "P. J. Roache, Fundamentals of Computational Fluid Dynamics (Hermosa Beach, CA: Hermosa Pub.: 1998)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. С. Скобло, О. Ю. Клочко, О. І. Сідашенко, Ю. Л. Бєлкін, Спосіб виявлення неоднорідності фаз у високовуглецевих сплавах: Патент України № 120043 (Опубл. 25.10.17, Бюл. № 20) (2017).",
+				"tr":  "T. S. Skoblo, O. Yu. Klochko, O. I. Sidashenko, and E. L.Belkin, Sposib Vyyavlennya Neodnoridnosti Faz u Vysokovugletsevykh Splavakh [Method for Detecting Heterogeneity of Phases in High-Carbon Alloys]: Patent of Ukraine UA 120043 (Bulletin Izobret., Opubl. 25.10.17, No. 20) (2017) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. С. Скобло, О. Ю. Клочко, Е. Л. Белкин, А. И. Сидашенко, Сталь, 2: 51 (2017).",
+				"tr":  "T. S. Skoblo, O. Yu. Klochko, E. L. Belkin, and A. I. Sidashenko, Stal', 2: 51 (2017) (in Russian)."
+			},
+			{
+				"doi": "10.3103/S096709121309012X",
+				"or":  "T. S. Skoblo, O. Yu. Klochko, A. I. Sidashenko, and R. G. Sokolov, Steel in Translation, 43, No. 9: 603 (2013).",
+				"tr":  "T. S. Skoblo, O. Y u. Klochko, A. I. Sidashenko, and R. G. Sokolov, Steel in Translation, 43, No. 9: 603 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. С. Скобло, О. Ю. Клочко, Е. Л. Белкин, Заводская лаборатория. Диагностика материалов, 78, № 6: 35 (2012).",
+				"tr":  "T. S. Skoblo, O. Yu. Klochko, and E. L. Belkin, Zavodskaya Laboratoriya. Diagnostika Materialov, 78, No. 6: 35 (2012) (in Russian)."
+			},
+			{
+				"doi": "10.3103/S0967091212030151",
+				"or":  "T. S. Skoblo, O. Yu. Klochko, and E. L. Belkin, Steel in Translation, 42, No 3: 261 (2012).",
+				"tr":  "T. S. Skoblo, O. Yu. Klochko, and E. L. Belkin, Steel in Translation, 42, No. 3: 261 (2012)."
+			},
+			{
+				"doi": "10.1007/BF00780432",
+				"or":  "T. S. Skoblo, E. N. Vishnyakova, N. M. Mozharova, and V. I. Gazov, Metal Science and Heat Treatment, 32: 69 (1990).",
+				"tr":  "T. S. Skoblo, E. N. Vishnyakova, N. M. Mozharova, and V. I. Gazov, Metal Science and Heat Treatment, 32: 69 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Bachman and L. Narici, Functional Analysis (Courier Corporation: 2012), p. 141.",
+				"tr":  "G. Bachman and L. Narici, Functional Analysis (Courier Corporation: 2012), p. 141."
+			},
+			{
+				"doi": "",
+				"or":  "S. Banerjee and A. Roy, Linear Algebra and Matrix Analysis for Statistics (Boca Raton, Florida: CRC Press: 2014), p. 181.",
+				"tr":  "S. Banerjee and A. Roy, Linear Algebra and Matrix Analysis for Statistics (Boca Raton, Florida: CRC Press: 2014), p. 181."
+			},
+			{
+				"doi": "",
+				"or":  "D. W. Mitchell, The Mathematical Gazette, 503: 85: 273 (2001).",
+				"tr":  "D. W. Mitchell, The Mathematical Gazette, 503: 85: 273 (2001)."
+			}
+		]
+	}
+}

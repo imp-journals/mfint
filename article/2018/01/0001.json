@@ -1,0 +1,215 @@
+{
+	"_id":    "MFiNT.40.01.0001",
+	"year":   2018,
+	"volume": 40,
+	"issue":  1,
+	"pages":  [1,21],
+	"rubric": 1,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["02.10.2017"],
+	"PACS":   "61.20.Gy, 61.25.Mv, 61.43.Bn, 61.43.Dq, 64.70.dg, 81.05.Kf, 81.07.Bc",
+	"title":   {
+		"ua": "Умови аморфізації металевих розтопів",
+		"en": "Conditions of Amorphization of Metal Melts",
+		"ru": "Условия аморфизации металлических расплавов"
+	},
+	"abstract": {
+		"ua": "Запропоновано алґоритм розрахункової аналізи критичних значень товщини та швидкости охолодження шарів металевих розтопів, які забезпечують формування умовно аморфних структур, типових для металевих стекол, а також істинно аморфних станів, позбавлених включень кристалічної складової. Показано, що реальну перспективу повного пригнічення кристалізації при гартуванні з рідкого стану мають лише стопи з високою схильністю до склоутворення. Зроблено висновок про те, що основними чинниками, які підвищують схильність матеріялів до формування істинно аморфних структур, є відносно низькі максимальні значення стаціонарної частоти утворення кристалічних зародків і виявлена розрахунками тенденція уповільнення процесів зародкування зі збільшенням швидкости охолодження розтопу.",
+		"en": "Algorithm is proposed for computational analysis of critical values of thickness and cooling rate for the layers of metal melts, which provide formation of both the conditionally amorphous structures, which are typical for metallic glasses, and the truly amorphous states without any inclusions of crystalline constituent. As shown, a real prospect of total suppression of crystallization during a quenching from the liquid state has only alloys with a high glass-forming ability. As concluded, the main factors, which increase the propensity of materials to formation of truly amorphous structures, are relatively low maximum values of the steady-state frequency of the crystal-nuclei formation and the tendency of moderating processes of nucleation at the increasing of melt-cooling rate that is revealed by calculations.",
+		"ru": "Предложен алгоритм расчётного анализа критических значений толщины и скорости охлаждения слоёв металлических расплавов, которые обеспечивают формирование условно аморфных структур, типичных для металлических стёкол, а также истинно аморфных состояний, лишённых включений кристаллической составляющей. Показано, что реальную перспективу полного подавления кристаллизации при закалке из жидкого состояния имеют лишь сплавы с высокой стеклообразующей способностью. Сделан вывод, что основными факторами, повышающими склонность материалов к формированию истинно аморфных структур, являются относительно низкие максимальные значения стационарной частоты образования кристаллических зародышей и выявленная расчётами тенденция замедления процессов зарождения с увеличением скорости охлаждения расплава."
+	},
+	"keywords": {
+		"ua": "гартування розтопу, швидкість охолодження, кінетика кристалізації, металеві стекла, істинно аморфні стани",
+		"en": "quenching of the melt, cooling rate, kinetics of crystallization, metallic glasses, true amorphous states",
+		"ru": "закалка расплава, скорость охлаждения, кинетика кристаллизации, металлические стёкла, истинно аморфные состояния"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. Б. Лисенко", "en": "O. B. Lysenko", "ru": "А. Б. Лысенко"},
+			"OID": [259]
+		},
+		{
+			"AID": {"ua": "І. В. Загорулько", "en": "I. V. Zagorulko", "ru": "И. В. Загорулько"},
+			"OID": [259]
+		},
+		{
+			"AID": {"ua": "Т. В. Калініна", "en": "T. V. Kalinina", "ru": "Т. В. Калинина"},
+			"OID": [259]
+		},
+		{
+			"AID": {"ua": "Н. О. Кугай", "en": "N. O. Kugai", "ru": "Н. А. Кугай"},
+			"OID": [259]
+		}
+	],
+	"references": {
+		"count": 33,
+		"list":  [
+			{
+				"doi": "10.1016/S1359-6454(99)00300-6",
+				"or":  "A. Inoue, Acta Mater., 48: 279 (2000).",
+				"tr":  "A. Inoue, Acta Mater., 48: 279 (2000)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.91.115505",
+				"or":  "Z. P. Lu and C. T. Lin, Phys. Rev. Lett., 1–4: 115505 (2003).",
+				"tr":  "Z. P. Lu and C. T. Lin, Phys. Rev. Lett., 1–4: 115505 (2003)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(97)80041-X",
+				"or":  "T. Egami, Mater. Sci. Eng. A, 226–228: 261 (1997).",
+				"tr":  "T. Egami, Mater. Sci. Eng. A, 226–228: 261 (1997)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2007.04.026",
+				"or":  "P. K. Gupta and D. B. Miracle, Acta Mater., 55: 4507 (2007).",
+				"tr":  "P. K. Gupta and D. B. Miracle, Acta Mater., 55: 4507 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. K. Kovneristyy, E. K. Osipov, and Ye. A. Trofimova, Fiziko-Khimicheskie Osnovy Sozdaniya Amorfnykh Metallicheskikh Splavov (Moscow: Nauka: 1983) (in Russian).",
+				"tr":  "Yu. K. Kovneristyy, E. K. Osipov, and Ye. A. Trofimova, Fiziko-Khimicheskie Osnovy Sozdaniya Amorfnykh Metallicheskikh Splavov (Moscow: Nauka: 1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "D. R. Uhlmann, J. Non-Cryst. Sol., 7, No. 2: 337 (1972).",
+				"tr":  "D. R. Uhlmann, J. Non-Cryst. Sol., 7, No. 2: 337 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "H. A. Davies, Rapidly Quenched Metals (Moscow: Metallurgiya: 1983) (Russian translation).",
+				"tr":  "H. A. Davies, Rapidly Quenched Metals (Moscow: Metallurgiya: 1983) (Russian translation)."
+			},
+			{
+				"doi": "10.1016/0001-6160(86)90057-X",
+				"or":  "R. Sellger and W. Loser, Acta Metall., 34, No. 5: 831 (1986).",
+				"tr":  "R. Sellger and W. Loser, Acta Metall., 34, No. 5: 831 (1986)."
+			},
+			{
+				"doi": "10.1016/0956-7151(94)00413-7",
+				"or":  "V. I. Tkatch, S. N. Denisenko, and B. I. Selyakov, Acta Metallurg. Mater., 43, No. 6: 2485 (1995).",
+				"tr":  "V. I. Tkatch, S. N. Denisenko, and B. I. Selyakov, Acta Metallurg. Mater., 43, No. 6: 2485 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "A. B. Lysenko, O. L. Kravets, and A. A. Lysenko, Metallofiz. Noveishie Tekhnol., 31, No. 10: 1311 (2009) (in Russian).",
+				"tr":  "A. B. Lysenko, O. L. Kravets, and A. A. Lysenko, Metallofiz. Noveishie Tekhnol., 31, No. 10: 1311 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "J. C. A. Vreswijk, R. G. Gossink, and J. M. Stevels, J. Non-Cryst. Sol., 16: 15 (1974).",
+				"tr":  "J. C. A. Vreswijk, R. G. Gossink, and J. M. Stevels, J. Non-Cryst. Sol., 16: 15 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "A. B. Lysenko, G. V. Borisova, and O. L. Kravets, Fizika i Tekhnika Vysokikh Davleniy, 14, No. 1: 44 (2004) (in Russian).",
+				"tr":  "A. B. Lysenko, G. V. Borisova, and O. L. Kravets, Fizika i Tekhnika Vysokikh Davleniy, 14, No. 1: 44 (2004) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.36.10.1411",
+				"or":  "A. B. Lysenko, O. L. Kosynska, S. V. Gubarev, and T. V. Kalinina, Metallofiz. Noveishie Tekhnol., 36, No. 10: 1411 (2014) (in Russian).",
+				"tr":  "A. B. Lysenko, O. L. Kosynska, S. V. Gubarev, and T. V. Kalinina, Metallofiz. Noveishie Tekhnol., 36, No. 10: 1411 (2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "N. F. Gadzyra, Ye. I. Khar’kov, and I. A. Yakubtsov, Metallofizika, 11, No. 1: 88 (1989).",
+				"tr":  "N. F. Gadzyra, Ye. I. Khar'kov, and I. A. Yakubtsov, Metallofizika, 11, No. 1: 88 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "A. V. Romanova and A. G. Il’inskiy, Amorfnye Metallicheskie Splavy (Kiev: Naukova Dumka: 1987) (in Russian).",
+				"tr":  "A. V. Romanova and A. G. Il'inskiy, Amorfnye Metallicheskie Splavy (Kiev: Naukova Dumka: 1987) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.1581001",
+				"or":  "J. Z. Jianga, J. Saida, H. Kato, T. Ohsuna, and A. Inoue, Appl. Phys. Lett., 28, No. 23: 4041 (2003).",
+				"tr":  "J. Z. Jianga, J. Saida, H. Kato, T. Ohsuna, and A. Inoue, Appl. Phys. Lett., 28, No. 23: 4041 (2003)."
+			},
+			{
+				"doi": "10.1134/S0031918X0811001X",
+				"or":  "A. B. Lysenko, G. V. Borisova, O. L. Kravets, and A. A. Lysenko, Phys. Met. Metallogr., 106, No. 5: 435 (2008).",
+				"tr":  "A. B. Lysenko, G. V. Borisova, O. L. Kravets, and A. A. Lysenko, Phys. Met. Metallogr., 106, No. 5: 435 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "A. B. Lysenko, Visnyk Dnipropetrovs’kogo Universytetu. Seriya: Fizyka. Radioelektronika, 19, No. 2: 3 (2011) (in Russian).",
+				"tr":  "A. B. Lysenko, Visnyk Dnipropetrovs'kogo Universytetu. Seriya: Fizyka. Radioelektronika, 19, No. 2: 3 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "J. W. Christian, The Theory of Transformations in Metals and Alloys (Moscow: Mir: 1978) (Russian translation).",
+				"tr":  "J. W. Christian, The Theory of Transformations in Metals and Alloys (Moscow: Mir: 1978) (Russian translation)."
+			},
+			{
+				"doi": "10.1007/BF00551430",
+				"or":  "H. A. Davies and J. B. Hull, J. Mater. Sci., 11: 215 (1976).",
+				"tr":  "H. A. Davies and J. B. Hull, J. Mater. Sci., 11: 215 (1976)."
+			},
+			{
+				"doi": "10.1016/0036-9748(73)90227-5",
+				"or":  "H. A. Davies and J. B. Hull, Scr. Metall., 7: 637 (1973).",
+				"tr":  "H. A. Davies and J. B. Hull, Scr. Metall., 7: 637 (1973)."
+			},
+			{
+				"doi": "10.1016/0036-9748(76)90257-X",
+				"or":  "L. A. Davis, R. Ray, C. P. Chou, and R. C. O’Handley, Scr. Met., 10: 541 (1976).",
+				"tr":  "L. A. Davis, R. Ray, C. P. Chou, and R. C. O'Handley, Scr. Met., 10: 541 (1976)."
+			},
+			{
+				"doi": "10.1063/1.367167",
+				"or":  "R. Busch, Appl. Phys., 83, No. 8: 4134 (1998).",
+				"tr":  "R. Busch, Appl. Phys., 83, No. 8: 4134 (1998)."
+			},
+			{
+				"doi": "10.1063/1.112768",
+				"or":  "Y. J. Kim, R. Busch, and W. L. Johnson, Appl. Phys. Lett., 65: 2136 (1994).",
+				"tr":  "Y. J. Kim, R. Busch, and W. L. Johnson, Appl. Phys. Lett., 65: 2136 (1994)."
+			},
+			{
+				"doi": "10.1016/j.msea.2006.07.021",
+				"or":  "A.-H. Cai, H. Wong, and X.-S. Li, Mater. Sci. Eng. A, 435–436: 478 (2006).",
+				"tr":  "A.-H. Cai, H. Wong, and X.-S. Li, Mater. Sci. Eng. A, 435–436: 478 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "G. V. Samsonov, Svoystva Elementov: Spravochnik. Ch. 1. Fizicheskie Svoystva (Moscow: Metallurgiya: 1976) (in Russian).",
+				"tr":  "G. V. Samsonov, Svoystva Elementov: Spravochnik. Ch. 1. Fizicheskie Svoystva (Moscow: Metallurgiya: 1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Ryabin, M. A. Ostroumov, and T. F. Svift, Termodinamicheskie Svoystva: Spravochnik (Leningrad: Khimiya: 1977) (in Russian).",
+				"tr":  "V. A. Ryabin, M. A. Ostroumov, and T. F. Svift, Termodinamicheskie Svoystva: Spravochnik (Leningrad: Khimiya: 1977) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0001-6160(79)90076-2",
+				"or":  "C. V. Thompson and F. Spaepen, Acta Metallurg. Mater., 22, No. 12: 1855 (1979).",
+				"tr":  "C. V. Thompson and F. Spaepen, Acta Metallurg. Mater., 22, No. 12: 1855 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Felts, Amorphous and Vitreous Inorganic Solids (Moscow: Mir: 1986) (Russian translation).",
+				"tr":  "A. Felts, Amorphous and Vitreous Inorganic Solids (Moscow: Mir: 1986) (Russian translation)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(98)00242-0",
+				"or":  "T. A. Waniuk, R. Busch, A. Masuhr, and W. L. Johnson, Acta Mater., 46, No. 15: 5229 (1998).",
+				"tr":  "T. A. Waniuk, R. Busch, A. Masuhr, and W. L. Johnson, Acta Mater., 46, No. 15: 5229 (1998)."
+			},
+			{
+				"doi": "10.1016/j.msea.2006.11.123",
+				"or":  "K. Mondal and B. S. Murty, Mater. Sci. Eng. A, 454–455: 654 (2007).",
+				"tr":  "K. Mondal and B. S. Murty, Mater. Sci. Eng. A, 454–455: 654 (2007)."
+			},
+			{
+				"doi": "10.1016/S1359-6462(99)00417-0",
+				"or":  "Z. P. Lu, H. Tan, S. C. Ng, and Y. Li, Scr. Mater., 42, No. 7: 667 (2000).",
+				"tr":  "Z. P. Lu, H. Tan, S. C. Ng, and Y. Li, Scr. Mater., 42, No. 7: 667 (2000)."
+			},
+			{
+				"doi": "10.1063/1.116247",
+				"or":  "Y. J. Kim, R. Bush, W. L. Johnson, A. J. Rulison, and W. K. Rhim, Appl. Phys. Lett., 68, No. 8: 1057 (1996).",
+				"tr":  "Y. J. Kim, R. Bush, W. L. Johnson, A. J. Rulison, and W. K. Rhim, Appl. Phys. Lett., 68, No. 8: 1057 (1996)."
+			}
+		]
+	}
+}

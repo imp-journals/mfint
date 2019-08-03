@@ -1,0 +1,172 @@
+{
+	"year":   2014,
+	"volume": 36,
+	"issue":  11,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [1427,1442],
+			"title": {
+				"ua": "Дослідження електронної будови оксидів SmMeO$_{3}$ (Me = V, Ni) за допомогою рентгеноелектронних спектрів і зонних розрахунків",
+				"en": "Investigation of an Electronic Structure of SmMeO$_{3}$ (Me = V, Ni) Oxides by Means of X-Ray Electron Spectra and Band-Structure Calculations",
+				"ru": "Исследование электронного строения оксидов SmMeO$_{3}$ (Me = V, Ni) с помощью рентгеноэлектронных спектров и зонных расчётов"
+			},
+			"autors": {
+				"ua": "В. М. Уваров, М. П. Мельник, М. В. Уваров, М. В. Немошкаленко",
+				"en": "V. M. Uvarov, M. P. Mel’nyk, M. V. Uvarov, and M. V. Nemoshkalenko",
+				"ru": "В. Н. Уваров, М. П. Мельник, Н. В. Уваров, М. В. Немошкаленко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [1443,1452],
+			"title": {
+				"ua": "Вплив нестехіометричності карбідної фази системи Fe—Al—C на її електронну структуру та магнетні властивості",
+				"en": "Influence of Nonstoichiometry of a Carbide Phase of Fe—Al—C System on Its Electronic Structure and Magnetic Properties",
+				"ru": "Влияние нестехиометричности карбидной фазы системы Fe—Al—C на её электронную структуру и магнитные свойства"
+			},
+			"autors": {
+				"ua": "О. А. Мехед, В. А. Андрющенко",
+				"en": "O. A. Mekhed and V. A. Andryushchenko",
+				"ru": "А. А. Мехед, В. А. Андрющенко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [1453,1464],
+			"title": {
+				"ua": "Індукована магнітострикцією анізотропія в обмінно-підмагнічених двошарових плівках",
+				"en": "The Anisotropy Induced by a Magnetostriction in Exchange-Biased Two-Layer Films",
+				"ru": "Индуцированная магнитострикцией анизотропия в обменно-подмагниченных двуслойных плёнках"
+			},
+			"autors": {
+				"ua": "О. В. Гомонай, І. Лук’янчук",
+				"en": "O. V. Gomonay and I. Lukyanchuk",
+				"ru": "Е. В. Гомонай, И. Лукьянчук"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [1465,1472],
+			"title": {
+				"ua": "Джозефсонівський $\\pi$-контакт в структурі MoRe—Ni$_{2}$MnGa—I—Pb/Sn",
+				"en": "Josephson $\\pi$-Contact in the MoRe—Ni$_{2}$MnGa—I—Pb/Sn Structure",
+				"ru": "Джозефсоновский $\\pi$-контакт в структуре MoRe—Ni$_{2}$MnGa—I—Pb/Sn"
+			},
+			"autors": {
+				"ua": "Е. М. Руденко, І. В. Короташ, А. О. Краковний, В. К. Перепелиця",
+				"en": "Eh. M. Rudenko, I. V. Korotash, A. O. Krakovny, and V. K. Perepylytsya",
+				"ru": "Э. М. Руденко, И. В. Короташ, А. А. Краковный, В. К. Перепелица"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  1,
+			"pages":  [1473,1496],
+			"title": {
+				"ua": "Кластерна модель рідкого або аморфного металу. Квантово-статистична теорія. Рідина",
+				"en": "Cluster Model of Liquid or Amorphous Metal. The Quantum-Statistical Theory. A Liquid",
+				"ru": "Кластерная модель жидкого или аморфного металла. Квантово-статистическая теория. Жидкость"
+			},
+			"autors": {
+				"ua": "О. І. Міцек",
+				"en": "O. I. Mitsek",
+				"ru": "А. И. Мицек"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [1497,1512],
+			"title": {
+				"ua": "Структурні, морфологічні та магнетні властивості мезопористого магеміту, синтезованого цитратною методою",
+				"en": "Structural, Morphological, and Magnetic Properties of the Mesoporous Maghemite Synthesized by a Citrate Method",
+				"ru": "Структурные, морфологические и магнитные свойства мезопористого маггемита, синтезированного цитратным методом"
+			},
+			"autors": {
+				"ua": "В. О. Коцюбинський, А. Б. Груб’як, В. В. Мокляк, В. М. Пилипів, Р. П. Лісовський",
+				"en": "V. O. Kotsyubynsky, A. B. Grubiak, V. V. Moklyak, V. M. Pylypiv, and R. P. Lisovsky",
+				"ru": "В. О. Коцюбинский, А. Б. Грубяк, В. В. Мокляк, В. М. Пылыпив, Р. П. Лисовский"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [1513,1522],
+			"title": {
+				"ua": "Формування хемічно впорядкованої фази L1$_{0}$(FePt) в нанорозмірній плівковій композиції Fe$_{50}$Pt$_{50}$ (15 нм)/Au (30 нм)/Fe$_{50}$Pt$_{50}$ (15 нм) при відпалі у вакуумі",
+				"en": "Formation of Chemically Ordered L1$_{0}$(FePt) Phase in a Nanosize Film Composition of Fe$_{50}$Pt$_{50}$ (15 nm)/Au(30 nm)/Fe$_{50}$Pt$_{50}$ (15 nm) at Annealing in Vacuum",
+				"ru": "Формирование химически упорядоченной фазы L1$_{0}$(FePt) в наноразмерной плёночной композиции Fe$_{50}$Pt$_{50}$ (15 нм)/Au(30 нм)/Fe$_{50}$Pt$_{50}$ (15 нм) при отжиге в вакууме"
+			},
+			"autors": {
+				"ua": "Ю. М. Макогон, О. П. Павлова, С. І. Сидоренко, Т. І. Вербицька, М. Ю. Вербицька, О. В. Фігурна",
+				"en": "Yu. M. Makogon, O. P. Pavlova, S. I. Sidorenko, T. I. Verbyts’ka, M. Yu. Verbyts’ka, and O. V. Figurna",
+				"ru": "Ю. Н. Макогон, Е. П. Павлова, С. И. Сидоренко, Т. И. Вербицкая, М. Ю. Вербицкая, Е. В. Фигурная"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [1523,1532],
+			"title": {
+				"ua": "Моделювання умов існування емітера важкотопкого матеріалу в процесі катодного вакуумно-дугового осадження",
+				"en": "Modelling of Conditions of Existence of the Emitter of a Refractory Material During Cathodic Vacuum—Arc Deposition",
+				"ru": "Моделирование условий существования эмиттера тугоплавкого материала в процессе катодного вакуумно-дугового осаждения"
+			},
+			"autors": {
+				"ua": "В. Д. Алімов, А. В. Недоля, І. Н. Тітов",
+				"en": "V. D. Alimov, A. V. Nedolya, and I. N. Titov",
+				"ru": "В. Д. Алимов, А. В. Недоля, И. Н. Титов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [1533,1546],
+			"title": {
+				"ua": "Моделювання розподілу частинок у двофазному потоці детонаційно-плазмової устави",
+				"en": "Modelling of Distribution of Particles in a Two-Phase Flow of Detonation—Plasma Device",
+				"ru": "Моделирование распределения частиц в двухфазном потоке детонационно-плазменной установки"
+			},
+			"autors": {
+				"ua": "А. І. Долматов, К. А. Данько, Ю. О. Невешкін",
+				"en": "A. I. Dolmatov, K. A. Dan’ko, and Yu. A. Neveshkin",
+				"ru": "А. И. Долматов, К. А. Данько, Ю. А. Невешкин"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1547,1560],
+			"title": {
+				"ua": "Механічні випробування матеріалів із пам’яттю форми, одержаних плазмово-іскровою методою",
+				"en": "Mechanical Testing of the Shape-Memory Materials Synthesized by a Plasma-Spark Method",
+				"ru": "Механические испытания материалов с памятью формы, полученных плазменно-искровым методом"
+			},
+			"autors": {
+				"ua": "Г. Є. Монастирський, А. В. Гільчук, П. Ошан, О. М. Іванова, Ю. М. Подрєзов, Ю. М. Коваль",
+				"en": "G. E. Monastyrsky, A. V. Gilchuk, P. Ochin, O. M. Ivanova, Yu. N. Podrezov, and Yu. N. Koval",
+				"ru": "Г. Е. Монастырский, А. В. Гильчук, П. Ошан, О. Н. Иванова, Ю. Н. Подрезов, Ю. Н. Коваль"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1561,1569],
+			"title": {
+				"ua": "Дослідження змін механічних властивостей та мікроструктур зварюваного шва м’якої маловуглецевої сталі водневокисневим зварюванням",
+				"en": "Investigation of Changes in Mechanical Properties and Microstructures of Mild Steel Joint by Oxy-Hydrogen Welding",
+				"ru": "Исследование изменений механических свойств и микроструктур сварного шва мягкой низкоуглеродистой стали водородно-кислородной сваркой"
+			},
+			"autors": {
+				"ua": "Х. Атес, М. Е. Цакір, А. Курт, І. Уйгур, М. Тюркер",
+				"en": "H. Ates, M. E. Cakir, A. Kurt, I. Uygur, and M. Turker",
+				"ru": "Х. Атес, М. Е. Цакир, А. Курт, И. Уйгур, М. Тюркер"
+			}
+		}
+	]
+}

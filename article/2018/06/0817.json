@@ -1,0 +1,149 @@
+{
+	"_id":    "MFiNT.40.06.0817",
+	"year":   2018,
+	"volume": 40,
+	"issue":  6,
+	"pages":  [817,843],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["08.02.2018"],
+	"PACS":   "61.72.Mm, 62.20.fq, 62.20.Hg, 66.30.Fq, 81.40.Ef, 81.40.Lm, 83.60.La",
+	"title":   {
+		"ua": "Дослідження надпластичности та формування вбудованих зон у берилії",
+		"en": "Investigation of Superplasticity and Formation of Embedded Zones in Beryllium",
+		"ru": "Исследование сверхпластичности и образования встроенных зон в бериллии"
+	},
+	"abstract": {
+		"ua": "В результаті багаторічних досліджень авторам вперше вдалося одержати дрібнозернистий берилій високої чистоти, який за кімнатної температури на порядок пластичніший за технічний метал, а при підвищених температурах переходить у надпластичний стан. В огляді підбито підсумки вивчення природи надпластичного плину та високотемпературної деформації берилію. Визначено коефіцієнт швидкісної чутливости напруження дрібнозернистого берилію високої чистоти та стопів на його основі в діяпазонах температур 823–1023 К і швидкостей деформацій 10$^{-5}$–10$^{-3}$ с$^{-1}$. З’ясовано, що за надпластичного плину текстура берилію практично не змінюється. Надпластична деформація характеризується сильною неоднорідністю локального пластичного плину на фоні відносної однорідности макроскопічної течії. Встановлено, що надпластичність берилію є комплексним процесом, який включає ковзання по межах зерен, різні варіянти перебудови зерен, дислокаційну та дифузійну плинність, а також утворення вбудованих зон у зернах. Перебудова зерен також являє собою складний процес, який відбувається в результаті спільної роботи механізмів Ешбі–Верралла і Джіфкінса. Виявлено, що за високотемпературної плинности берилію в тілі зерна та поблизу його меж утворюються специфічні деформаційні рельєфи, названі вбудованими зонами. Встановлено, що утворення вбудованих зон має дифузійну природу. Запропоновано механізм їх утворення та зростання, що відрізняється від класичного дифузійного крипу Херрінґа–Набарро укороченими шляхами масоперенесення.",
+		"en": "As a result of long-term research, for the first time, the authors succeeded in obtaining high-purity fine-grained beryllium, which is by the order of magnitude more plastic then technical metal at room temperature and passes to superplastic state at elevated temperatures. This review summarizes the results of the study of nature of superplastic flow and high-temperature deformation of beryllium. The coefficient of high speed sensitivity of fine-grained high-purity beryllium and alloys based on it is determined in the ranges of temperatures, 823–1023 K, and strain rates, 10$^{-5}$–10$^{-3}$ с$^{-1}$. As found, the texture of beryllium practically does not change under the superplastic flow. The superplastic deformation is characterized by a strong inhomogeneity of the local plastic flow against the background of the relative homogeneity of the macroscopic flow. As established, the superplasticity of beryllium is a complex process involving sliding along grain boundaries, various variants of grain rearrangement, dislocation and diffusion creep, as well as the formation of embedded zones in grains. The restructuring of grains is also a complex process, which is a result of the joint operation of both the Ashby–Verrall mechanism and the Gifkins’s one. As found, during a high-temperature creep of beryllium, in the body of the grain and near its boundaries, specific deformation reliefs called as embedded zones are formed. As revealed, the formation of embedded zones has a diffusion nature. A mechanism for their formation and growth is proposed; it differs from the classical Herring–Nabarro diffusion creep due to shortened mass-transfer paths.",
+		"ru": "В результате многолетних исследований авторам впервые удалось получить мелкозернистый бериллий высокой чистоты, который при комнатной температуре на порядок пластичнее технического металла, а при повышенных температурах переходит в сверхпластичное состояние. В обзоре подведены итоги изучения природы сверхпластического течения и высокотемпературной деформации бериллия. Определён коэффициент скоростной чувствительности напряжения мелкозернистого бериллия высокой чистоты и сплавов на его основе в диапазонах температур 823–1023 К и скоростей деформаций 10$^{-5}$–10$^{-3}$ с$^{-1}$. Выяснено, что при сверхпластичном течении текстура бериллия практически не изменяется. Сверхпластическая деформация характеризуется сильной неоднородностью локального пластического течения на фоне относительной однородности макроскопического течения. Установлено, что сверхпластичность бериллия является комплексным процессом, включающим скольжение по границам зёрен, разные варианты перестройки зёрен, дислокационную и диффузионную ползучесть, а также образование встроенных зон в зёрнах. Перестройка зёрен также представляет собой сложный процесс, который происходит в результате совместной работы механизмов Эшби–Верралла и Джифкинса. Обнаружено, что при высокотемпературной ползучести бериллия в теле зерна и вблизи его границ образуются специфические деформационные рельефы, названные встроенными зонами. Установлено, что образование встроенных зон имеет диффузионную природу. Предложен механизм их образования и роста, отличающийся от классического диффузионного крипа Херринга–Набарро укороченными путями массопереноса."
+	},
+	"keywords": {
+		"ua": "дрібнозернистий берилій, надпластичність, вбудовані зони, межа зерна",
+		"en": "fine-grained beryllium, superplasticity, embedded zones, grain boundary",
+		"ru": "мелкозернистый бериллий, сверхпластичность, встроенные зоны, граница зерна"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. І. Папиров", "en": "I. I. Papirov", "ru": "И. И. Папиров"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "А. О. Николаєнко", "en": "A. A. Nikolayenko", "ru": "А. А. Николаенко"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "В. С. Шокуров", "en": "V. S. Shokurov", "ru": "В. С. Шокуров"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "А. В. Шокуров", "en": "A. V. Shokurov", "ru": "А. В. Шокуров"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "Ю. В. Тузов", "en": "Yu. V. Tuzov", "ru": "Ю. В. Тузов"},
+			"OID": [534]
+		}
+	],
+	"references": {
+		"count": 19,
+		"list":  [
+			{
+				"doi": "10.1007/BF01120792",
+				"or":  "И. И. Папиров, И. А. Тараненко, Г. Ф. Тихинский, Атомная энергия, 37, № 3: 220 (1974).",
+				"tr":  "I. I. Papirov, I. A. Taranenko, and G. F. Tikhinskiy, Atomnaya Energiya, 37, No. 3: 220 (1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Папиров, Г. Ф. Тихинский, И. Н. Христенко, А. А. Авотин, А. С. Капчерин, Природа пластической деформации бериллия (Киев: Наукова думка: 1977).",
+				"tr":  "I. I. Papirov, G. F. Tikhinskiy, I. N. Khrystenko, A. A. Avotin, and A. S. Kapcherin, Priroda Plasticheskoy Deformatsii Berilliya (Kiev: Naukova Dumka: 1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Иванов, Г. Ф. Тихинский, И. И. Папиров, Доклады АН СССР, 216: 1258 (1974).",
+				"tr":  "V. Ye. Ivanov, G. F. Tikhinskiy, and I. I. Papirov, Doklady AN SSSR, 216: 1258 (1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Иванов, Г. Ф. Тихинский, И. И. Папиров, Вопросы атомной науки и техники, № 6: 32 (1977).",
+				"tr":  "V. Ye. Ivanov, G. F. Tikhinskiy, and I. I. Papirov, Voprosy Atomnoy Nauki i Tekhniki, No. 6: 32 (1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. E. Ivanov, G. F. Tikhinskij, I. I. Papirov, I. A. Taranenko, E. S. Karpov, and A. S. Kapcherin, Fourth Int. Conf. on Beryllium Held at the Royal Society—Beryllium 1977 (October 4–7, 1977, London).",
+				"tr":  "V. E. Ivanov, G. F. Tikhinskij, I. I. Papirov, I. A. Taranenko, E. S. Karpov, and A. S. Kapcherin, Fourth Int. Conf. on Beryllium Held at the Royal Society—Beryllium 1977 (October 4–7, 1977, London)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. С. Карпов, И. И. Папиров, Г. Ф. Тихинский, Физика и химия обработки материалов, 4: 96 (1980).",
+				"tr":  "Ye. S. Karpov, I. I. Papirov, and G. F. Tikhinskiy, Fizika i Khimiya Obrabotki Materialov, 4: 96 (1980) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0001-6160(73)90057-6",
+				"or":  "M. F. Ashby and R. A. Verrall, Acta Metall., 21, Iss. 2: 149 (1973).",
+				"tr":  "M. F. Ashby and R. A. Verrall, Acta Metall., 21, Iss. 2: 149 (1973)."
+			},
+			{
+				"doi": "10.1007/BF00552899",
+				"or":  "R. C. Gifkins, J. Mater. Sci., 13, Iss. 9: 1926 (1978).",
+				"tr":  "R. C. Gifkins, J. Mater. Sci., 13, Iss. 9: 1926 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. А. Корниенко, А. А. Николаенко, Заводская лаборатория, 45, № 3: 232 (1979).",
+				"tr":  "L. A. Korniyenko and A. A. Nikolayenko, Zavodskaya Laboratoriya, 45, No. 3: 232 (1979) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0022-3115(63)90010-2",
+				"or":  "R. L. Squires, R. T. Weiner, and M. Phillips, J. Nucl. Mater., 8, Iss. 1: 77 (1963).",
+				"tr":  "R. L. Squires, R. T. Weiner, and M. Phillips, J. Nucl. Mater., 8, Iss. 1: 77 (1963)."
+			},
+			{
+				"doi": "10.1016/0022-3115(63)90187-9",
+				"or":  "J. E. Harris and R. B. Jones, J. Nucl. Mater., 10, Iss. 4: 360 (1963).",
+				"tr":  "J. E. Harris and R. B. Jones, J. Nucl. Mater., 10, Iss. 4: 360 (1963)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Бэкофен, Процессы деформации (Москва: Металлургия: 1977) (пер. с англ.).",
+				"tr":  "W. Backofen, Protsessy Deformatsii [Deformation Processes] (Moscow: Metallurgiya: 1977) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Karim, D. L. Holt, and W. A. Backofen, Trans. Metall. Soc. AIME, 245: 2421 (1969).",
+				"tr":  "A. Karim, D. L. Holt, and W. A. Backofen, Trans. Metall. Soc. AIME, 245: 2421 (1969)."
+			},
+			{
+				"doi": "10.1016/0001-6160(77)90201-2",
+				"or":  "I. I. Novikov, V. K. Portnoy, and T. E. Terentieva, Acta Metall., 25, Iss. 10: 1139 (1977).",
+				"tr":  "I. I. Novikov, V. K. Portnoy, and T. E. Terentieva, Acta Metall., 25, Iss. 10: 1139 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Шокуров, И. И. Папиров, Л. А. Корниенко, А. А. Николаенко, Физика металлов и металловедение, 50, № 2: 397 (1980).",
+				"tr":  "V. S. Shokurov, I. I. Papirov, L. A. Kornienko, and A. A. Nikolayenko, Fizika Metallov i Metallovedenie, 50, No. 2: 397 (1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Шокуров, Л. А. Корниенко, А. А. Николаенко, И. И. Папиров, Физика металлов и металловедение, 50, № 6: 1293 (1980).",
+				"tr":  "V. S. Shokurov, L. A. Kornienko, A. A. Nikolayenko, and I. I. Papirov, Fizika Metallov i Metallovedenie, 50, No. 6: 1293 (1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Папиров, А. А. Николаенко, В. С. Шокуров, А. И. Пикалов, Вопросы атомной науки и техники, 81, № 5: 88 (2012).",
+				"tr":  "I. I. Papirov, A. A. Nikolayenko, V. S. Shokurov, and A. I. Pikalov, Voprosy Atomnoy Nauki i Tekhniki, 81, No. 5: 88 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. А. Корниенко, В. С. Шокуров, А. А. Николаенко, И. И. Папиров, Г. Ф. Тихинский, Металлофизика, 2, вып. 4: 89 (1980).",
+				"tr":  "L. A. Kornienko, V. S. Shokurov, A. A. Nikolayenko, I. I. Papirov, and G. F. Tikhinskiy, Metallofizika, 2, Iss. 4: 89 (1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Папиров, А. А. Николаенко, В. С. Шокуров, В. А. Шкуропатенко, Вестник ХНАДУ, вып. 60: 105 (2013).",
+				"tr":  "I. I. Papirov, A. A. Nikolayenko, V. S. Shokurov, and V. A. Shkuropatenko, Vestnik KhNADU, Iss. 60: 105 (2013) (in Russian)."
+			}
+		]
+	}
+}

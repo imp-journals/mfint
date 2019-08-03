@@ -1,0 +1,141 @@
+{
+	"_id":    "MFiNT.38.03.0305",
+	"year":   2016,
+	"volume": 38,
+	"issue":  3,
+	"pages":  [305,317],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["23.11.2015"],
+	"PACS":   "61.50.Lt, 71.15.Ap, 71.15.Mb, 71.15.Nc, 75.10.Lp, 75.76.+j, 78.70.En",
+	"title":   {
+		"ua": "Розподіл атомів за кристалографічними позиціями та електронна будова сплавів Гойслера CoTiSb",
+		"en": "Allocation of Atoms on Crystallographic Positions and an Electronic Structure of the Heusler CoTiSb Alloy",
+		"ru": "Распределение атомов по кристаллографическим позициям и электронное строение сплава Гейслера CoTiSb"
+	},
+	"abstract": {
+		"ua": "За допомогою зонних розрахунків у LAPW-наближенні з’ясовано роль взаємних атомових заміщень у формуванні енергетичних, спектральних і спінових характеристик стопу CoTiSb. Виявлено, що його основний стан (з найбільшим значенням когезійної енергії) реалізується у разі розташування атомів Кобальту в кристалографічних позиціях ($4с$) з тетраедричним атомовим оточенням, а їхня заміна Титаном або Стибієм сприяє виникненню енергетично високозбуджених метастабільних фаз. Виявлено, що взаємний обмін атомами між позиціями, які формують підґратницю типу NaCl, не приводить до змін в енергетичних характеристиках і в електронній будові стопу CoTiSb; він в основному стані є немагнітним ізолятором, метастабільні фази перетворюються у металічні зі спін-поляризованими електронними станами та ферімагнітним типом упорядкування магнітних моментів атомів у підґратницях Кобальту та Титану.",
+		"en": "The role of mutual atomic replacements in the formation of the energy, spectral and spin characteristics of the CoTiSb alloy is explored using the band structure calculations within the LAPW approximation. As found, the ground state (with the largest cohesive energy) is realized in the case of the arrangement of cobalt atoms in the crystallographic positions ($4с$) with tetrahedral atomic surroundings, and their replacement with titanium or antimony contributes to the energy of highly metastable phases. As revealed, the interchangement between the atomic positions, which form sublattice of NaCl type, does not lead to changes in the energy characteristics and the electronic structure of the CoTiSb alloy; the ground state is a nonmagnetic insulator, the metastable phases are converted into metallic ones with spin-polarized electron states and the ferrimagnetic type ordering of the magnetic moments of the atoms in cobalt and titanium sublattices.",
+		"ru": "С помощью зонных расчётов в LAPW-приближении выяснена роль взаимных атомных замещений в формировании энергетических, спектральных и спиновых характеристик сплава CoTiSb. Обнаружено, что его основное состояние (с наибольшим значением когезионной энергии) реализуется в случае расположения атомов кобальта в кристаллографических позициях ($4с$) с тетраэдрическим атомным окружением, а их замена титаном или сурьмой способствует возникновению энергетически высоковозбужденных метастабильных фаз. Обнаружено, что взаимный обмен атомами между позициями, формирующими подрешётку типа NaCl, не приводит к изменениям в энергетических характеристиках и в электронном строении сплава CoTiSb; он в основном состоянии является немагнитным изолятором, метастабильные фазы превращаются в металлы со спин-поляризованными электронными состояниями и ферримагнитным типом упорядочения магнитных моментов атомов в подрешётках кобальта и титана."
+	},
+	"keywords": {
+		"ua": "зонні розрахунки, Гойслерові стопи, електронна будова, магнітні моменти, поляризовані електронні стани, рентґеноелектронні спектри, спінтроніка",
+		"en": "band calculations, Heusler alloys, electronic structure, magnetic moments, polarized electron states, X-ray spectra, spintronics",
+		"ru": "зонные расчёты, сплавы Гейслера, электронное строение, магнитные моменты, поляризованные электронные состояния, рентгеноэлектронные спектры, спинтроника"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. М. Уваров", "en": "V. N. Uvarov", "ru": "В. Н. Уваров"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. В. Уваров", "en": "N. V. Uvarov", "ru": "Н. В. Уваров"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. А. Беспалов", "en": "S. A. Bespalov", "ru": "С. А. Беспалов"},
+			"OID": [24]
+		}
+	],
+	"references": {
+		"count": 19,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "P. I. Крип’якевич і В. Я. Марків, Доп. Акад. наук УРСР, № 7: 1606 (1963).",
+				"tr":  "P. I. Kryp'yakevych and V. Ya. Markiv, Dop. Akad. Nauk USSR, No. 7: 1606 (1963) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/j.progsolidstchem.2011.02.001",
+				"or":  "T. Graf, C. Felser and Stuart S. P. Parkin, Prog. Solid State Chem., 39: 1 (2011).",
+				"tr":  "T. Graf, C. Felser and Stuart S. P. Parkin, Prog. Solid State Chem., 39: 1 (2011)."
+			},
+			{
+				"doi": "10.1088/0953-8984/13/1/308",
+				"or":  "Y. Xia, V. Ponnambalam, S. Bhattacharya, A. L. Pope, S. J. Poon, and T. M. Tritt, J. Phys.: Condens. Matter, 13: 77 (2001).",
+				"tr":  "Y. Xia, V. Ponnambalam, S. Bhattacharya, A. L. Pope, S. J. Poon, and T. M. Tritt, J. Phys.: Condens. Matter, 13: 77 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Ouardi, Electronic Structure and Physical Properties of Heusler Compounds for Thermoelectric and Spintronic Applications (Thesis of Disser.) (Mainz: 2012).",
+				"tr":  "S. Ouardi, Electronic Structure and Physical Properties of Heusler Compounds for Thermoelectric and Spintronic Applications (Thesis of Disser.) (Mainz: 2012)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2004.04.096",
+				"or":  "Y. Kawaharada, K. Kurosaki, H. Muta, M. Uno, and Sh. Yamanaka, J. Alloys Compd., 381: 308 (2004).",
+				"tr":  "Y. Kawaharada, K. Kurosaki, H. Muta, M. Uno, and Sh. Yamanaka, J. Alloys Compd., 381: 308 (2004)."
+			},
+			{
+				"doi": "10.1016/S0921-4526(97)00401-8",
+				"or":  "S. Ishida, T. Masaki, S. Fujii, and S. Asano, Physica B, 239: 163 (1997).",
+				"tr":  "S. Ishida, T. Masaki, S. Fujii, and S. Asano, Physica B, 239: 163 (1997)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2004.04.041",
+				"or":  "J. Tobola, L. Jodin, P. Pecheur, and G. Venturini, J. Alloys Compd., 383: 328 (2004).",
+				"tr":  "J. Tobola, L. Jodin, P. Pecheur, and G. Venturini, J. Alloys Compd., 383: 328 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.62.12754",
+				"or":  "P. Larson, S. D. Mahanti, and M. G. Kanatzidis, Phys. Rev. B, 62: 12754 (2000).",
+				"tr":  "P. Larson, S. D. Mahanti, and M. G. Kanatzidis, Phys. Rev. B, 62: 12754 (2000)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2004.11.017",
+				"or":  "T. Sekimoto, K. Kurosaki, H. Muta, and Sh. Yamanaka, J. Alloys Compd., 394: 122 (2005).",
+				"tr":  "T. Sekimoto, K. Kurosaki, H. Muta, and Sh. Yamanaka, J. Alloys Compd., 394: 122 (2005)."
+			},
+			{
+				"doi": "10.1039/c0dt00742k",
+				"or":  "I. Skovsen, L. Bjerg, M. Christensen, E. Nishibori, B. Balke, C. Felser, and B. B. Iversen, Dalton Trans., 39: 10154 (2010).",
+				"tr":  "I. Skovsen, L. Bjerg, M. Christensen, E. Nishibori, B. Balke, C. Felser, and B. B. Iversen, Dalton Trans., 39: 10154 (2010)."
+			},
+			{
+				"doi": "10.1088/0305-4608/1/4/325",
+				"or":  "G. E. Bacon and J. S. Plant, J. Phys. F: Metal Phys., 1: 524 (1971).",
+				"tr":  "G. E. Bacon and J. S. Plant, J. Phys. F: Metal Phys., 1: 524 (1971)."
+			},
+			{
+				"doi": "10.1007/978-1-4757-2312-0",
+				"or":  "D. Singh, Plane Waves, Pseudopotentials and LAPW Method (Boston: Kluwer Academic: 1994).",
+				"tr":  "D. Singh, Plane Waves, Pseudopotentials and LAPW Method (Boston: Kluwer Academic: 1994)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.77.3865",
+				"or":  "J. P. Perdew, S. Burke and M. Ernzerhof, Phys. Rev. Lett., 77: 3865 (1996).",
+				"tr":  "J. P. Perdew, S. Burke and M. Ernzerhof, Phys. Rev. Lett., 77: 3865 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Blaha, K. Schwarz, G. K. Madsen, D. Kvasnicka, and J. Luitz, An Augmented Plane Wave  Local Orbitals Program for Calculating Crystal Properties (Wien, Austria: Techn. Universität Wien: 2001).",
+				"tr":  "P. Blaha, K. Schwarz, G. K. Madsen, D. Kvasnicka, and J. Luitz, An Augmented Plane Wave + Local Orbitals Program for Calculating Crystal Properties (Wien, Austria: Techn. Universität Wien: 2001)."
+			},
+			{
+				"doi": "",
+				"or":  "http://www.wien2k.at/reg_user/faq/",
+				"tr":  "http://www.wien2k.at/reg_user/faq/"
+			},
+			{
+				"doi": "10.1088/0953-8984/15/43/014",
+				"or":  "B. R. K. Nanda, and I. Dasgupta, J. Phys.: Condens. Matter, 15: 7307 (2003).",
+				"tr":  "B. R. K. Nanda, and I. Dasgupta, J. Phys.: Condens. Matter, 15: 7307 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Уваров, И. В. Урубков, Е. В. Урубкова, В. В. Климов, О. Ю. Хижун, В. В. Трачевский, Металлофиз. новейшие технол., 33, спец. вып.: 145 (2011).",
+				"tr":  "V. M. Uvarov, I. V. Urubkov, E. V. Urubkova, V. V. Klimov, O. Yu. Khyzhun, and V. V. Trachevs'kyy, Metallofiz. Noveishie Tekhnol., 33, Special Iss.: 145 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Уваров, М. П. Мельник, М. В. Уваров, В. С. Михаленков, Т. Л. Сизова, Металлофиз. новейшие технол., 35, № 2: 279 (2013).",
+				"tr":  "V. M. Uvarov, M. P. Mel'nyk, M. V. Uvarov, V. S. Mykhalenkov, and T. L. Syzova, Metallofiz. Noveishie Tekhnol., 35, No. 2: 279 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1088/0953-8984/10/5/011",
+				"or":  "J. Tobola, J. Pierre, S. Kaprzyk, R. V. Skolozdra, and M. A. Kouacou, J. Phys.: Condens. Matter, 10: 1013 (1998).",
+				"tr":  "J. Tobola, J. Pierre, S. Kaprzyk, R. V. Skolozdra, and M. A. Kouacou, J. Phys.: Condens. Matter, 10: 1013 (1998)."
+			}
+		]
+	}
+}

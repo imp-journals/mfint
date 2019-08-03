@@ -1,0 +1,144 @@
+{
+	"_id":    "MFiNT.39.01.0001",
+	"year":   2017,
+	"volume": 39,
+	"issue":  1,
+	"pages":  [1,9],
+	"rubric": 2,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["28.12.2016"],
+	"PACS":   "61.05.cc, 61.05.cf, 61.05.cp, 61.72.Dd, 61.72.Lk, 61.72.Qq",
+	"title":  {
+		"ua": "Ефекти повної багатократності дифузного розсіяння в кристалах з дефектами другого класу за Кривоглазом",
+		"en": "Effects of Total Multiplicity of Diffuse Scattering in Crystals Containing the Second-Class Defects According to Krivoglaz’s Classification",
+		"ru": "Эффекты полной многократности диффузного рассеяния в кристаллах с дефектами второго класса по Кривоглазу"
+	},
+	"abstract": {
+		"ua": "Створено теоретичну модель динамічної дифракції рентґенівських променів у кристалах з дефектами довільних типів, що вперше враховує ефекти повної (а не лише другого порядку теорії збурень) багатократності розсіяння дифузних і когерентних хвиль на флуктуаційній частині кристалічного потенціалу. Зокрема, одержано вирази для дисперсійних поправок до когерентного та дифузного хвильових полів, що враховують повну багатократність розсіяння, як на періодичній, так і на флуктуаційній частинах кристалічного потенціалу. Показано необхідність і достатність використання зазначених поправок у формулах для інтенсивності дифракції при діагностиці дефектів другого класу за М. О. Кривоглазом.",
+		"en": "The theoretical model of dynamical diffraction of X-rays in crystals with defects of arbitrary types, which takes into account effects of total (not only by means of the second order of disturbance theory) multiplicity of diffuse and coherent waves’ scattering by fluctuating part of intracrystalline potential, are constructed. Particularly, expressions for dispersion corrections for coherent and diffuse wave fields, which take into account a total multiplicity of scattering on periodic and fluctuating parts of intracrystalline potential, are obtained. Necessity and sufficiency of the use of mentioned corrections in formulas for diffraction intensity for diagnostics of the second-class defects within the M. O. Krivoglaz classification are shown.",
+		"ru": "Создана теоретическая модель динамической дифракции рентгеновских лучей в кристаллах с дефектами произвольных типов, учитывающая впервые эффекты полной (а не только второго порядка теории возмущений) многократности рассеяния диффузных и когерентных волн на флуктуационной части кристаллического потенциала. В частности, получены выражения для дисперсионных поправок к когерентному и диффузному волновым полям, которые учитывают полную многократность рассеяния, как на периодической, так и на флуктуационной частях кристаллического потенциала. Показана необходимость и достаточность использования указанных поправок в формулах для интенсивности дифракции при диагностике дефектов второго класса по М. А. Кривоглазу."
+	},
+	"keywords": {
+		"ua": "динамічна дифракція, дифузне розсіяння, дисперсійний механізм, багатократність дифузного розсіяння, мікродефекти",
+		"en": "dynamical diffraction, diffuse scattering, dispersion mechanism, multiplicity of diffuse scattering, microdefects",
+		"ru": "динамическая дифракция, диффузное рассеяние, дисперсионный механизм, многократность диффузного рассеяния, микродефекты"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. В. Дмітрієв", "en": "S. V. Dmitriev", "ru": "С. В. Дмітрієв"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. Б. Молодкін", "en": "V. B. Molodkin", "ru": "В. Б. Молодкін"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. Г. Толмачов", "en": "M. G. Tolmachev", "ru": "М. Г. Толмачов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. С. Скакунова", "en": "O. S. Skakunova", "ru": "О. С. Скакунова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. В. Лізунова", "en": "S. V. Lizunova", "ru": "С. В. Лізунова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Р. В. Лехняк", "en": "R. V. Lekhnyak", "ru": "Р. В. Лехняк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "К. В. Фузік", "en": "K. V. Fuzik", "ru": "К. В. Фузік"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Г. О. Веліховський", "en": "G. O. Velikhovskii", "ru": "Г. О. Веліховський"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. П. Васькевич", "en": "O. P. Vaskevich", "ru": "О. П. Васькевич"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. В. Лізунов", "en": "V. V. Lizunov", "ru": "В. В. Лізунов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. А. Катасонов", "en": "A. A. Katasonov", "ru": "А. А. Катасонов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "І. Е. Голентус", "en": "I. E. Golentus", "ru": "І. Е. Голентус"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. Й. Оліховський", "en": "S. I. Olikhovskii", "ru": "С. Й. Оліховський"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Л. М. Скапа", "en": "L. M. Skapa", "ru": "Л. М. Скапа"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. В. Молодкін", "en": "V. V. Molodkin", "ru": "В. В. Молодкін"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 10,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, Е. А. Тихонова, Физ. мет. металловед., 24, № 3: 385 (1967).",
+				"tr":  "V. B. Molodkin and E. A. Tikhonova, Fiz. Met. Metaloved., 24, No. 3: 385 (1967) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. B. Molodkin, Phys. Metals, 3, No. 3: 573 (1981).",
+				"tr":  "V. B. Molodkin, Phys. Metals, 3, No. 3: 573 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "V. B. Molodkin, Phys. Metals, 3, No. 4: 615 (1981).",
+				"tr":  "V. B. Molodkin, Phys. Metals, 3, No. 4: 615 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Даценко, В. Б. Молодкин, М. Е. Осиновский, Динамическое рассеяние рентгеновских лучей реальными кристаллами (Киев: Наукова думка: 1988).",
+				"tr":  "L. I. Datsenko, V. B. Molodkin, M. E. Osinovskii, Dinamicheskoe Rasseyanie Rentgenovskikh Luchey Real'nymi Kristallami [Dynamic Scattering of X-Rays by Real Crystals] (Kiev: Naukova Dumka: 1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Й. Оліховський, Є. М. Кисловський, В. Б. Молодкін, Є. Г. Лень, Т. П. Владімірова, О. В. Решетник, Металлофиз. новейшие технол., 22, № 6: 3 (2000).",
+				"tr":  "S. J. Olikhovs'ky, Ye. M. Kislovs'ky, V. B. Molodkin, Ye. G. Len', T. P. Vladimirova, and O. V. Reshetnyk, Metallofiz. Noveishie Tekhnol., 22, No. 6: 3 (2000) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, А. И. Низкова, С. В. Дмитриев, А. А. Белоцкая, М. Т. Когут, А. И. Гранкина, Е. И. Богданов, И. И. Рудницкая, О. Г. Гимчинский, И. И. Московка, В. Н. Венгер, Металлофиз. новейшие технол., 28, № 8: 1041 (2006).",
+				"tr":  "V. B. Molodkin, A. I. Nizkova, S. V. Dmitriev, A. O. Bilotska, M. T. Kogut, A. I. Grankina, Ye. I. Bog¬danov, I. I. Rudnitska, O. G. Gymchynsky, I. I. Moskovka, and V. M. Venger, Metallofiz. Noveishie Tekhnol., 28, No. 8: 1041 (2006) (in Russian)."
+			},
+			{
+				"doi": "10.1002/pssa.200675686",
+				"or":  "V. B. Molodkin, S. I. Olikhovskii, E. N. Kislovskii, I. M. Fodchuk, E. S. Skakunova, E. V. Pervak, V. V. Molodkin, Phys. Status Solidi A, 204, Iss. 8: 2606 (2007).",
+				"tr":  "V. B. Molodkin, S. I. Olikhovskii, E. N. Kislovskii, I. M. Fodchuk, E. S. Skakunova, E. V. Pervak, V. V. Molodkin, Phys. Status Solidi A, 204, Iss. 8: 2606 (2007)."
+			},
+			{
+				"doi": "10.1002/pssb.2221780104",
+				"or":  "A. N. Kostyuk, V. B. Molodkin, and S. I. Olikhovskii, Phys. Status Solidi B, 178, Iss. 1: 45 (1993).",
+				"tr":  "A. N. Kostyuk, V. B. Molodkin, and S. I. Olikhovskii, phys. status solidi (b), 178, No. 1: 45 (1993)."
+			},
+			{
+				"doi": "10.15407/mfint.36.07.0857",
+				"or":  "В. В. Лизунов, В. Б. Молодкин, С. В. Лизунова, Н. Г. Толмачев, Е. С. Скакунова, С. В. Дмитриев, Б. В. Шелудченко, С. М. Бровчук, Л. Н. Скапа, Р. В. Лехняк, Е. В. Фузик, Металлофиз. новейшие технол., 36, № 7: 857 (2014).",
+				"tr":  "V. V. Lizunov, V. B. Molodkin, S. V. Lizunova, M. G. Tolmachyov, O. S. Skakunova, S. V. Dmitriev, B. V. Sheludchenko, S. M. Brovchuk, L. M. Skapa, R. V. Lekhnyak, and K. V. Fuzik, Metallofiz. Noveishie Tekhnol., 36, No. 7: 857 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.1007/978-3-642-74291-0",
+				"or":  "M. A. Krivoglaz, X-Ray and Neutron Diffraction in Nonideal Crystals (Berlin: Springer: 1996).",
+				"tr":  "M. A. Krivoglaz, X-Ray and Neutron Diffraction in Nonideal Crystals (Berlin: Springer: 1996)."
+			}
+		]
+	}
+}

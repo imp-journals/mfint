@@ -1,0 +1,153 @@
+{
+	"_id":    "MFiNT.40.09.1209",
+	"year":   2018,
+	"volume": 40,
+	"issue":  9,
+	"pages":  [1209,1220],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["27.06.2018"],
+	"PACS":   "62.20.fg, 62.20.Qp, 75.50.Bb, 75.60.Ej, 81.30.Kf, 81.40.Ef, 81.40.Rs, 81.70.Pg",
+	"title":   {
+		"ua": "Магнетна поведінка феромагнетного стопу Fe–Ni–Co–Ti, підданого термомеханічному обробленню",
+		"en": "Magnetic Behaviour of the Ferromagnetic Fe–Ni–Co–Ti Alloy Subjected to Thermomechanical Treatment",
+		"ru": "Магнитное поведение ферромагнитного сплава Fe–Ni–Co–Ti, подвергнутого термомеханической обработке"
+	},
+	"abstract": {
+		"ua": "В роботі досліджено влив термомеханічного оброблення полікристалічного стопу Fe–Ni–Co–Ti на його магнетну поведінку. Об’єктом дослідження обрано феромагнетний стоп, який було піддано попередньому термомеханічному обробленню. Характеристичні температури мартенситного та магнетного перетворень визначено на основі температурних залежностей низькопольової магнетної сприйнятливости, електроопору та намагнетованости. За даними поведінки польових залежностей намагнетованости виявлено, що відносне збільшення намагнетованости аустенітної фази на 30% досягається в результаті додаткової дії пластичної деформації матеріялу при одновісному розтягу по відношенню до вихідного стану. Зміна магнетних характеристик стопу, залежно від обраного попереднього термомеханічного оброблення, пов’язана зі зменшенням об’ємної долі феромагнетної фази при старінні й утворенням системи мікронеоднорідностей у матеріялі, що приводить до виникнення додаткової наведеної магнетної анізотропії як при обраному обробленні, так і, особливо, в процесі деформування.",
+		"en": "The effect of thermomechanical treatment on magnetic behaviour of the polycrystalline Fe–Ni–Co–Ti alloy is investigated. The object of the study is a ferromagnetic alloy after preliminary thermomechanical treatment. The characteristic temperatures of the martensitic and magnetic transformations are determined from the temperature dependences of low-field magnetic susceptibility, electrical resistivity, and magnetization. According to the data of field dependences of magnetization, it is established that the relative increase in the austenitic-phase magnetization by 30% is achieved because of an additional plastic deformation of the alloy under uniaxial tension (relative to the initial state). The change in the alloy magnetic characteristics depending on selected preliminary thermomechanical treatment is associated with a decrease in the volume fraction of the ferromagnetic phase under ageing and the formation of a system of microinhomogeneities in material that results in the appearance of additional induced magnetic anisotropy under both the thermomechanical treatment and, especially, the tensile test.",
+		"ru": "В работе исследовано влияние термомеханической обработки поликристаллического сплава Fe–Ni–Co–Ti на его магнитное поведение. Объектом исследования был ферромагнитный сплав, подвергнутый предварительной термомеханической обработке. Характеристические температуры мартенситного и магнитного превращений определены из температурных зависимостей низкополевой магнитной восприимчивости, электросопротивления и намагниченности. По данным полевых зависимостей намагниченности установлено, что относительное увеличение намагниченности аустенитной фазы на 30% достигается в результате дополнительной (относительно исходного состояния) пластической деформации сплава при одноосном растяжении. Изменение магнитных характеристик сплава в зависимости от выбранной предварительной термомеханической обработки связано с уменьшением объёмной доли ферромагнитной фазы при старении и образовании системы микронеоднородностей в материале, что приводит к возникновению дополнительной наведённой магнитной анизотропии как при самой термомеханической обработке, так и, особенно, под действием одноосного растяжения."
+	},
+	"keywords": {
+		"ua": "намагнетованість, деформація, ТМО, наночастинки, ДСК",
+		"en": "magnetization, deformation, thermomechanical treatment, nanoparticles, differential scanning calorimetry",
+		"ru": "намагниченность, деформация, ТМО, наночастицы, ДСК"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. М. Тітенко", "en": "A. M. Titenko", "ru": "А. Н. Титенко"},
+			"OID": [7]
+		},
+		{
+			"AID": {"ua": "А. О. Перекос", "en": "A. O. Perekos", "ru": "А. Е. Перекос"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Л. Д. Демченко", "en": "L. D. Demchenko", "ru": "Л. Д. Демченко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "М. Б. Бабанли", "en": "M. B. Babanli", "ru": "М. Б. Бабанлы"},
+			"OID": [521]
+		},
+		{
+			"AID": {"ua": "М. С. Низамеєв", "en": "M. S. Nizameyev", "ru": "М. С. Низамеев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. С. Гусейнов", "en": "S. S. Huseynov", "ru": "С. С. Гусейнов"},
+			"OID": [521]
+		}
+	],
+	"references": {
+		"count": 19,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "K. Otsuka and C. M. Wayman, Shape Memory Materials (Cambridge: University Press: 1998).",
+				"tr":  "K. Otsuka and C. M. Wayman, Shape Memory Materials (Cambridge: University Press: 1998)."
+			},
+			{
+				"doi": "",
+				"or":  "R. C. O’Handley and S. M. Allen, Encyclopedia of Smart Materials (New York: Wiley: 2002).",
+				"tr":  "R. C. O'Handley and S. M. Allen, Encyclopedia of Smart Materials (New York: Wiley: 2002)."
+			},
+			{
+				"doi": "10.1063/1.117637",
+				"or":  "K. Ullakko, J. K. Huang, C. Kantner, D. C. O’Handley, and V. V. Kokorin, Appl. Phys. Lett., 69, No. 13: 1966 (1996).",
+				"tr":  "K. Ullakko, J. K. Huang, C. Kantner, D. C. O'Handley, and V. V. Kokorin, Appl. Phys. Lett., 69, No. 13: 1966 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "L. P. Gun’ko, G. A. Takzei, and A. N. Titenko, The Physics of Metals and Metallography, 91, No. 6: 624 (1996).",
+				"tr":  "L. P. Gun'ko, G. A. Takzei, and A. N. Titenko, The Physics of Metals and Metallography, 91, No. 6: 624 (1996)."
+			},
+			{
+				"doi": "10.1007/s11665-012-0406-x",
+				"or":  "A. N. Titenko and L. D. Demchenko, J. Mater. Eng. Perform., 21: 2525 (2012).",
+				"tr":  "A. N. Titenko and L. D. Demchenko, J. Mater. Eng. Perform., 21: 2525 (2012)."
+			},
+			{
+				"doi": "10.1126/science.1183169",
+				"or":  "Y. Tanaka, Y. Himuro, R. Kainuma, Y. Sutou, T. Omori, and K. Ishida, Science, 327: 1488 (2010).",
+				"tr":  "Y. Tanaka, Y. Himuro, R. Kainuma, Y. Sutou, T. Omori, and K. Ishida, Science, 327: 1488 (2010)."
+			},
+			{
+				"doi": "10.1134/S0031918X08060057",
+				"or":  "V. V. Kokorin, L. E. Kozlova, A. N. Titenko, A. E. Perekos, and Yu. S. Levchuk, The Physics of Metals and Metallography, 105, No. 6: 598 (2008).",
+				"tr":  "V. V. Kokorin, L. E. Kozlova, A. N. Titenko, A. E. Perekos, and Yu. S. Levchuk, The Physics of Metals and Metallography, 105, No. 6: 598 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "L. P. Gun’ko and G. A. Takzey, Fiz. Met. Metalloved., 98, No. 6: 33 (2004) (in Russian).",
+				"tr":  "L. P. Gun'ko and G. A. Takzey, Fiz. Met. Metalloved., 98, No. 6: 33 (2004) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0304-8853(79)90007-6",
+				"or":  "Y. Nakumura, K. Sumiyama, and M. Shiga, J. Magn. Magn. Mater., 12: 127 (1979).",
+				"tr":  "Y. Nakumura, K. Sumiyama, and M. Shiga, J. Magn. Magn. Mater., 12: 127 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Kokoryn, A. V. Mynkov, V. A. Chernenko, and V. M. Kachalov, Fiz. Tekhn. Vysokikh Davleniy, 1: 38 (1991) (in Russian).",
+				"tr":  "V. V. Kokoryn, A. V. Mynkov, V. A. Chernenko, and V. M. Kachalov, Fiz. Tekhn. Vysokikh Davleniy, 1: 38 (1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "E. P. Wohlfarth, Physics and Applications of Invar Alloys (Eds. H. Saito, S. Chikazumi, T. Hirone et al.), Honda Memorial Series on Materials Science. No. 3 (Tokyo: Maruzen Company, Ltd.: 1978), p. 327.",
+				"tr":  "E. P. Wohlfarth, Physics and Applications of Invar Alloys (Eds. H. Saito, S. Chikazumi, T. Hirone et al.), Honda Memorial Series on Materials Science. No. 3 (Tokyo: Maruzen Company, Ltd.: 1978), p. 327."
+			},
+			{
+				"doi": "10.1109/TMAG.1975.1058962",
+				"or":  "E. P. Wohlfarth, JEEE. Trans. Magn., 11, No. 6: 1638 (1975).",
+				"tr":  "E. P. Wohlfarth, JEEE. Trans. Magn., 11, No. 6: 1638 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "V. L. Sedov, Antiferromagnetism Gamma-Zheleza. Problema Invara (Moscow: Nauka: 1987).",
+				"tr":  "V. L. Sedov, Antiferromagnetism Gamma-Zheleza. Problema Invara (Moscow: Nauka: 1987)."
+			},
+			{
+				"doi": "",
+				"or":  "S. V. Griror’iev, S. A. Klimenko, S. V. Maleev, A. I. Okorokov, V. V. Runov, and D. Yu. Chernyshev, JETP, 112, Iss. 6 (12): 2134 (1997).",
+				"tr":  "S. V. Griror'iev, S. A. Klimenko, S. V. Maleev, A. I. Okorokov, V. V. Runov, and D. Yu. Chernyshev, JETP, 112, Iss. 6 (12): 2134 (1997)."
+			},
+			{
+				"doi": "10.1007/978-3-319-76968-4_18",
+				"or":  "A. Titenko, L. Demchenko, L. Kozlova, and M. Babanli, Proc. of the International Conference on Martensitic Transformations (January, 2018, Chicago), p. 115.",
+				"tr":  "A. Titenko, L. Demchenko, L. Kozlova, and M. Babanli, Proc. of the International Conference on Martensitic Transformations (January, 2018, Chicago), p. 115."
+			},
+			{
+				"doi": "10.3367/UFNr.0065.195806i.0207",
+				"or":  "K. P. Belov, Uspekhi Fizicheskikh Nauk, 65: 207 (1958) (in Russian).",
+				"tr":  "K. P. Belov, Uspekhi Fizicheskikh Nauk, 65: 207 (1958) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "K. P. Belov, Uprugie, Teplovye i Elekticheskie Yavleniya v Ferromagnetikakh (Moscow: Khimiya: 1957) (in Russian).",
+				"tr":  "K. P. Belov, Uprugie, Teplovye i Elekticheskie Yavleniya v Ferromagnetikakh (Moscow: Khimiya: 1957) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. E. Perekos and K. V. Chuistov, Fiz. Met. Metalloved., 37, 5: 1111 (1974) (in Russian).",
+				"tr":  "A. E. Perekos and K. V. Chuistov, Fiz. Met. Metalloved., 37, 5: 1111 (1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "B. Ya. Lyubov and V. A. Shmakov, Fiz. Met. Metalloved., 29: 968 (1970) (in Russian).",
+				"tr":  "B. Ya. Lyubov and V. A. Shmakov, Fiz. Met. Metalloved., 29: 968 (1970) (in Russian)."
+			}
+		]
+	}
+}

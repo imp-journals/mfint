@@ -1,0 +1,37 @@
+{
+	"_id":    "MFiNT.37.0257",
+	"year":   2015,
+	"volume": 37,
+	"issue":  2,
+	"pages":  [257,264],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["02.10.2014","29.10.2014"],
+	"PACS":   "61.05.cp, 61.66.Dk, 68.55.J-, 68.55.Nq, 81.05.Bx, 81.15.Pq, 82.45.Qr",
+	"title":  {
+		"ua": "Фазовий склад електроосаджених сплавів Fe-Zn",
+		"en": "Phase Composition of Electrodeposited Fe—Zn Alloys",
+		"ru": "Фазовый состав электроосаждённых сплавов Fe—Zn"
+	},
+	"abstract": {
+		"ua": "Методою рентґенівської дифрактометрії визначено наявність в електроосаджених стопах Fe—Zn $\\alpha$-фази, Fe$_{75}$Zn$_{25}$, Fe$_{3}$Zn$_{10}$ та $\\alpha$-фази. Співвідношення фаз змінюється з ростом концентрації цинку в сульфатному електроліті. Виявлене вперше формування фази Fe$_{75}$Zn$_{25}$ при сумісному електроосадженні заліза та цинку може бути причиною утворення виявленого раніше нереґулярного рельєфу поверхні з аномально високою шерсткістю. Уточнення складу фази Fe$_{75}$Zn$_{25}$ здійснено чисельною методою, виходячи з прецизійного значення періоду ґратниці та з урахуванням пружньої деформації, яку зумовлено атомами Цинку, розчиненими в ґратниці $\\alpha$-Fe.",
+		"en": "Presence of $\\alpha$-phase, Fe$_{75}$Zn$_{25}$, Fe$_{3}$Zn$_{10}$ and $\\eta$-phase in electrodeposited Fe—Zn alloys is determined by the method of X-ray diffractometry. The phase proportion varies with the increase of zinc concentration in the sulphate electrolyte. Discovered formation of Fe$_{75}$Zn$_{25}$ phase during co-deposition of iron and zinc can be the cause of creation of previously revealed irregular surface relief with anomalously high roughness. Revision of Fe$_{75}$Zn$_{25}$ phase atomic composition is accomplished by the numerical method based on precise value of the crystal-lattice spacing and taking into account elastic strain caused by zinc atoms, which are dissolved in the $\\alpha$-Fe crystal lattice.",
+		"ru": "Методом рентгеновской дифрактометрии установлено наличие в электроосаждённых сплавах Fe—Zn $\\alpha$-фазы, Fe$_{75}$Zn$_{25}$, Fe$_{3}$Zn$_{10}$ и $\\eta$-фазы. Соотношение фаз изменяется с ростом концентрации цинка в сульфатном электролите. Обнаруженное впервые формирование фазы Fe$_{75}$Zn$_{25}$ при совместном электроосаждении железа и цинка может быть причиной образования выявленного ранее нерегулярного рельефа поверхности с аномально высокой шероховатостью. Уточнение состава фазы Fe$_{75}$Zn$_{25}$ выполнено численным методом, исходя из прецизионного значения периода решётки и с учётом упругой деформации, которая обусловлена атомами цинка, растворёнными в решётке $\\alpha$-Fe."
+	},
+	"keywords": {
+		"ua": "Fe—Zn стопи, фазовий склад, електроосадженні стопи, покриття",
+		"en": "Fe—Zn alloys, phase composition, electrodeposited alloys, coatins",
+		"ru": "Fe—Zn сплавы, фазовый состав, электроосажденные сплавы, покрытия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Є. В. Колесник", "en": "Ie. V. Kolesnyk", "ru": "Е. В. Колесник"},
+			"OID": [224]
+		}
+	],
+	"references": {
+		"count": 25,
+		"list":  []
+	}
+}

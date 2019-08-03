@@ -1,0 +1,121 @@
+{
+	"_id":    "MFiNT.39.04.0507",
+	"year":   2017,
+	"volume": 39,
+	"issue":  4,
+	"pages":  [507,515],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["07.02.2017","22.03.2017"],
+	"PACS":   "62.20.Qp, 68.55.Ln, 68.55.Nq, 81.05.Ni, 81.10.Fq, 81.16.Mk, 81.65.Lp",
+	"title":   {
+		"ua": "Лазерне леґування титану перехідними металами групи Феруму",
+		"en": "Laser Doping of Titanium with Transition Metals of the Fe Group",
+		"ru": "Лазерное легирование титана переходными металлами группы железа"
+	},
+	"abstract": {
+		"ua": "Методами рентґенівської фазової та металографічної аналіз досліджено структурно-фазовий стан поверхневих шарів промислового титанового стопу ВТ1-0 після лазерного леґування порошками заліза, кобальту та ніклю. Встановлено, що фазовий склад зони лазерного леґування значною мірою визначається розчинністю леґувального компонента в $\\beta$-титані. При леґуванні Ферумом, розчинність якого є максимальною, відбувається переважне формування твердого розчину на основі $\\beta$-фази. При леґуванні Ніклем, який має найменшу розчинність, в основному формуються інтерметаліди Ti$_2$Ni з ГЦК-ґратницею та TiNi з моноклінною ґратницею. Лазерне леґування стопу Кобальтом приводить до формування $\\beta$-твердого розчину і фази TiCo з кубічною ґратницею. Формування рівноважної фази Ti$_2$Co не фіксувалося. Показано, що застосування клею на основі органічних речовин в якості зв’язувальної речовини леґувальної обмазки у всіх випадках приводить до формування карбіду титану TiC, що сприяє значному зростанню значень мікротвердости зони лазерного леґування.",
+		"en": "The structural-phase state of surface layers of the industrial titanium alloy Grade 2 after laser alloying by the iron, cobalt, and nickel powders are studied by the x-ray and metallographic analysis. The phase composition in zone of laser alloying is basically determined by the solubility of alloying component in the $\\beta$-titanium. At the alloying by iron, which has a maximum solubility, the formation of the solid solution based on the $\\beta$-phase occurs. At the alloying by nickel, which has a minimum solubility, mainly intermetallic phases of Ti$_2$Ni with f.c.c. lattice and TiNi with monoclinic lattice are formed. The laser alloying by cobalt results in the formation of $\\beta$-solid solution and TiCo phase with a cubic lattice. The formation of the equilibrium Ti$_2$Co phase is not observed. As shown, the use of glue on the organic base as a binder alloying coating in all cases results in the formation of titanium carbide TiC that leads to increase of the microhardness in the zone of laser alloying.",
+		"ru": "Методами рентгеновского фазового и металлографического анализов исследовано структурно-фазовое состояние поверхностных слоёв промышленного титанового сплава ВТ1-0 после лазерного легирования порошками железа, кобальта и никеля. Установлено, что фазовый состав зоны лазерного легирования значительной мерой определяется растворимостью легирующего компонента в $\\beta$-титане. При легировании железом, растворимость которого максимальна, происходит преимущественное формирование твёрдого раствора на основе $\\beta$-фазы. При легировании никелем, обладающим наименьшей растворимостью, в основном формируются интерметаллиды Ti$_2$Ni с ГЦК-решёткой и TiNi с моноклинной решёткой. Лазерное легирование сплава кобальтом приводит к формированию $\\beta$-твёрдого раствора и фазы TiCo c кубической решёткой. Формирование равновесной фазы Ti$_2$Co не фиксировалось. Показано, что применение клея на основе органических веществ в качестве связующего вещества легирующей обмазки во всех случаях приводит к формированию карбида титана TiC, способствующего значительному возрастанию значений микротвёрдости зоны лазерного легировании."
+	},
+	"keywords": {
+		"ua": "титановий стоп, лазерне леґування, фазовий склад, інтерметаліди, карбід титана",
+		"en": "titanium alloy, laser alloying, phase composition, intermetallic compounds, titanium carbide",
+		"ru": "титановый сплав, лазерное легирование, фазовый состав, интерметаллиды, карбид титана."
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. В. Гіржон", "en": "V. V. Gіrzhon", "ru": "В. В. Гиржон"},
+			"OID": [221]
+		},
+		{
+			"AID": {"ua": "О. В. Смоляков", "en": "O. V. Smolyakov", "ru": "А. В. Смоляков"},
+			"OID": [221]
+		},
+		{
+			"AID": {"ua": "О. Ф. Здоровець", "en": "O. F. Zdorovets", "ru": "А. Ф. Здоровец"},
+			"OID": [221]
+		}
+	],
+	"references": {
+		"count": 15,
+		"list":  [
+			{
+				"doi": "10.1007/978-1-4020-5514-0_95",
+				"or":  "Yu. I. Sementsov, N. A. Gavrilyuk, G. P. Prikhod’ko, A. V. Melezhyk, M. L. Pyatkovsky, V. V. Yanchenko, S. L. Revo, E. A. Ivanenko, and A. I. Senkevich, Hydrogen Materials Science and Chemistry of Carbon Nanomaterials (Dordrecht, Netherlands: Kluwer Academic Publishers: 2007), p. 757.",
+				"tr":  "Yu. I. Sementsov, N. A. Gavrilyuk, G. P. Prikhod'ko, A. V. Melezhyk, M. L. Pyatkovsky, V. V. Yanchenko, S. L. Revo, E. A. Ivanenko, and A. I. Senkevich, Hydrogen Materials Science and Chemistry of Carbon Nanomaterials (Dordrecht, Netherlands: Kluwer Academic Publishers: 2007), p. 757."
+			},
+			{
+				"doi": "10.15407/mfint.37.05.0703",
+				"or":  "V. V. Girzhon, V. M. Kovalyova, and O. V. Smolyakov Metallofiz. Noveishie Tekhnol., 37, No. 5: 703 (2015) (in Russian).",
+				"tr":  "V. V. Girzhon, V. M. Kovalyova, and O. V. Smolyakov Metallofiz. Noveishie Tekhnol., 37, No. 5: 703 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "I. V. Gayvoronskiy and V. V. Girzhon, Metalloved. Termich. Obr., No. 5: 59 (2015) (in Russian).",
+				"tr":  "I. V. Gayvoronskiy and V. V. Girzhon, Metalloved. Termich. Obr., No. 5: 59 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. I. Mudry, Yu. S. Nykyruy, Yu. O. Kulyk, and Z. A. Stotsko, J. Achiev. Mater. Manuf. Eng., 61, No. 1: 7 (2013).",
+				"tr":  "S. I. Mudry, Yu. S. Nykyruy, Yu. O. Kulyk, and Z. A. Stotsko, J. Achiev. Mater. Manuf. Eng., 61, No. 1: 7 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "A. P. Bekrenev and E. L. Filina, Fiz. Khim. Obr. Mater., No. 4: 116 (1991) (in Russian).",
+				"tr":  "A. P. Bekrenev and E. L. Filina, Fiz. Khim. Obr. Mater., No. 4: 116 (1991) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0036-9748(86)90194-8",
+				"or":  "C. Dong, Z. K. Hei, L. B. Wang, Q. H. Song, Y. K. Wu, and K. H. Kuo, Scr. Metallurgica, 20: 1155 (1986).",
+				"tr":  "C. Dong, Z. K. Hei, L. B. Wang, Q. H. Song, Y. K. Wu, and K. H. Kuo, Scr. Metallurgica, 20: 1155 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "A. N. Bekrenev and E. L. Morozova, Fiz. Khim. Obr. Mater., No. 6: 117 (1991) (in Russian).",
+				"tr":  "A. N. Bekrenev and E. L. Morozova, Fiz. Khim. Obr. Mater., No. 6: 117 (1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "N. F. Bolkhovitinov, Metalloved. Termich. Obr., No. 6: 505 (1965) (in Russian).",
+				"tr":  "N. F. Bolkhovitinov, Metalloved. Termich. Obr., No. 6: 505 (1965) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Diagrammy Sostoyaniya Dvoynykh Metallicheskikh Sistem [The Diagrams of Binary Metallic Systems] (Ed. N. Lyakishev) (Moscow: Mashinostroenie: 1997), vol. 2 (in Russian).",
+				"tr":  "Diagrammy Sostoyaniya Dvoynykh Metallicheskikh Sistem [The Diagrams of Binary Metallic Systems] (Ed. N. Lyakishev) (Moscow: Mashinostroenie: 1997), vol. 2 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "D. I. Anpilogov and V. V. Girzhon, Ukrayins’kyy Fizychnyy Zhurnal, 42, No. 3: 301 (1997) (in Ukrainian).",
+				"tr":  "D. I. Anpilogov and V. V. Girzhon, Ukrayins'kyy Fizychnyy Zhurnal, 42, No. 3: 301 (1997) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Lobodyuk and E. I. Estrin, Martensitnoe Prevrashchenie [Martensitic Transformation] (Moscow: Fizmatlit: 2009) (in Russian).",
+				"tr":  "V. A. Lobodyuk and E. I. Estrin, Martensitnoe Prevrashchenie [Martensitic Transformation] (Moscow: Fizmatlit: 2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. V. Kayukov, A. A. Gusev, G. V. Guseva, E. G. Zaychikov, and I. G. Nesterov, Fiz. Khim. Obr. Mater., No. 6: 5 (2009) (in Russian).",
+				"tr":  "S. V. Kayukov, A. A. Gusev, G. V. Guseva, E. G. Zaychikov, and I. G. Nesterov, Fiz. Khim. Obr. Mater., No. 6: 5 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. P. Alisova, Yu. K. Kovneristyy, and B. P. Budberg, Metallovedenie i Obrabotka Tsvetnykh Metallov [Metallurgical Science and Processing of Non-Ferrous Metals] (Moscow: Nauka: 1992), p. 230 (in Russian).",
+				"tr":  "S. P. Alisova, Yu. K. Kovneristyy, and B. P. Budberg, Metallovedenie i Obrabotka Tsvetnykh Metallov [Metallurgical Science and Processing of Non-Ferrous Metals] (Moscow: Nauka: 1992), p. 230 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. I. Rusanov and F. Ch. Gudrich, Sovremennaya Teoriya Kapillyarnosti [Modern Theory of Capillarity] (Leningrad: Khimiya: 1980) (in Russian).",
+				"tr":  "A. I. Rusanov and F. Ch. Gudrich, Sovremennaya Teoriya Kapillyarnosti [Modern Theory of Capillarity] (Leningrad: Khimiya: 1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. S. Kiparisov, Yu. V. Levinskiy, and A. P. Petrov, Karbid Titana: Poluchenie, Svoystva, Primenenie [Titanium Carbide: Production, Properties, Application] (Moscow: Metallurgiya: 1987) (in Russian).",
+				"tr":  "S. S. Kiparisov, Yu. V. Levinskiy, and A. P. Petrov, Karbid Titana: Poluchenie, Svoystva, Primenenie [Titanium Carbide: Production, Properties, Application] (Moscow: Metallurgiya: 1987) (in Russian)."
+			}
+		]
+	}
+}

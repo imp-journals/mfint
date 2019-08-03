@@ -1,0 +1,157 @@
+{
+	"year":   2018,
+	"volume": 40,
+	"issue":  3,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [281,289],
+			"title": {
+				"ua": "Дисипативні струми в квантовому дроті у поперечному магнетному полі",
+				"en": "Dissipative Currents in a Quantum Wire in a Transverse Magnetic Field",
+				"ru": "Диссипативные токи в квантовой проволоке в поперечном магнитном поле"
+			},
+			"autors": {
+				"ua": "І. І. Аббасов, Х. А. Гасанов, Дж. І. Гусейнов, А. О. Дашдемиров",
+				"en": "I. I. Abbasov, Kh. A. Hasanov, J. I. Huseynov, and A. O. Dashdemirov",
+				"ru": "И. И. Аббасов, Х. А. Гасанов, Дж. И. Гусейнов, А. О. Дашдемиров"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [291,299],
+			"title": {
+				"ua": "Оборотні ефекти нестабільности у тунельних контактах манганіт–метал",
+				"en": "Reversible Effects of Instability in Tunnel Manganite–Metal Contacts",
+				"ru": "Обратимые эффекты нестабильности в туннельных контактах манганит–металл"
+			},
+			"autors": {
+				"ua": "О. І. Дьяченко, В. Ю. Таренков, О. О. Болясова, В. М. Криворучко",
+				"en": "O. I. D’yachenko, V. Yu. Tarenkov, O. O. Boliasova, and V. M. Krivoruchko",
+				"ru": "А. И. Дьяченко, В. Ю. Таренков, О. А. Болясова, В. Н. Криворучко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [301,310],
+			"title": {
+				"ua": "Вплив зарядового стану атома на інтенсивність рентґенівської $K_{\\alpha}L^{1}$-емісії Ti та Cr",
+				"en": "Influence of a Charge State of Atom on Intensity of X-Ray $K_{\\alpha}L^{1}$ Emission of Ti and Cr",
+				"ru": "Влияние зарядового состояния атома на интенсивность рентгеновской $K_{\\alpha}L^{1}$-эмиссии Ti и Cr"
+			},
+			"autors": {
+				"ua": "М. А. М. Аль-Омари, М. О. Боровий",
+				"en": "M. A. M. Al-Omari and M. O. Borovyi",
+				"ru": "М. А. М. Аль-Омари, Н. А. Боровой"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [311,326],
+			"title": {
+				"ua": "Електропровідність та теплопровідність металополімерних композитів",
+				"en": "Electrical Conduction and Thermal Conduction of Metal–Polymer Composites",
+				"ru": "Электропроводность и теплопроводность металлополимерных композитов"
+			},
+			"autors": {
+				"ua": "А. І. Місюра, Є. П. Мамуня",
+				"en": "A. I. Misiura and Ye. P. Mamunya",
+				"ru": "А. И. Мисюра, Е. П. Мамуня"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [327,338],
+			"title": {
+				"ua": "Вплив режимів електроіскряного оброблення на формування твердих розчинів у стопах міді з залізом і кобальтом",
+				"en": "Influence of Modes of Electrospark Treatment on Formation of Solid Solutions in Alloys of Copper with Iron and Cobalt",
+				"ru": "Влияние режимов электроискровой обработки на формирование твёрдых растворов в сплавах меди с железом и кобальтом"
+			},
+			"autors": {
+				"ua": "В. М. Надутов, А. О. Перекос, Б. М. Мордюк, В. З. Войнаш, Т. В. Єфімова, В. П. Залуцький, Т. Г. Кабанцев",
+				"en": "V. M. Nadutov, A. O. Perekos, B. M. Mordyuk, V. Z. Voynash, T. V. Efimova, V. P. Zalutsky, and T. G. Kabantsev",
+				"ru": "В. М. Надутов, А. Е. Перекос, Б. Н. Мордюк, В. З. Войнаш, Т. В. Ефимова, В. П. Залуцкий, Т. Г. Кабанцев"
+			}
+		},		
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [339,357],
+			"title": {
+				"ua": "Електроіскряне дисперґування металевих матеріялів. I. Вплив швидкости протоку робочої рідини на дисперсність порошків",
+				"en": "Electrospark Dispersion of Metal Materials. I. Influence of Velocity of Flow of Operating Fluid on Dispersity of Powders",
+				"ru": "Электроискровое диспергирование металлических материалов. I. Влияние скорости протока рабочей жидкости на дисперсность порошков"
+			},
+			"autors": {
+				"ua": "С. М. Захарченко, А. О. Перекос, Н. А. Шидловська, А. І. Устінов, О. Ф. Бойцов, В. З. Войнаш",
+				"en": "S. M. Zakharchenkо, А. O. Perekos, N. A. Shidlovska, A. I. Ustinov, О. F. Bоytsоv, and V. Z. Vоynаsh",
+				"ru": "С. Н. Захарченко, А. Е. Перекос, Н. А. Шидловская, А. И. Устинов, О. Ф. Бойцов, В. З. Войнаш"
+			}
+		},		
+		{
+			"type":    1,
+			"rubric":  1,
+			"pages":  [359,379],
+			"title": {
+				"ua": "Вибухова кристалізація плівок аморфного кобальту на підшарі вуглецю",
+				"en": "Explosive Crystallization of Films of Amorphous Cobalt on a Sublayer of Carbon",
+				"ru": "Взрывная кристаллизация плёнок аморфного кобальта на подслое углерода"
+			},
+			"autors": {
+				"ua": "Є. Н. Зубарев, О. Ю. Девізенко, В. В. Кондратенко, Д. В. Севрюков, В. А. Севрюкова, О. С. Гарбуз, T. M. Сабов, O. В. Дубіковський, O. С. Оберемок, В. П. Мельник",
+				"en": "E. N. Zubarev, O. Yu. Devizenko, V. V. Kondratenko, D. V. Sevriukov, V. A. Sevryukova, O. S. Garbuz, T. M. Sabov, O. V. Dubikovskyi, O. S. Oberemok, and V. P. Melnik",
+				"ru": "Е. Н. Зубарев, А. Ю. Девизенко, В. В. Кондратенко, Д. В. Севрюков, В. А. Севрюкова, А. С. Гарбуз, T. M. Сабов, А. В. Дубиковский, А. С. Оберемок, В. П. Мельник"
+			}
+		},		
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [381,395],
+			"title": {
+				"ua": "Вплив Au на формування фази $L1_0$ у нанорозмірних плівках [Fe$_{50}$Pt$_{50}$/Au/Fe$_{50}$Pt$_{50}$]$_n$",
+				"en": "Influence of Au on Formation of $L1_0$-Type Phase in Nanoscale [Fe$_{50}$Pt$_{50}$/Au/Fe$_{50}$Pt$_{50}$]$_n$ Films",
+				"ru": "Влияние Au на формирование фазы $L1_0$ в наноразмерных плёнках [Fe$_{50}$Pt$_{50}$/Au/Fe$_{50}$Pt$_{50}$]$_n$"
+			},
+			"autors": {
+				"ua": "М. Ю. Вербицька, М. Н. Шамис, К. А. Грайворонська, Т. І. Вербицька, Ю. М. Макогон, Ю. В. Кудрявцев",
+				"en": "M. Yu. Verbytska, M. N. Shamis, K. A. Grayvoronska, T. I. Verbytska, Iu. M. Makogon, and Yu. V. Kudryavtsev",
+				"ru": "М. Ю. Вербицкая, М. Н. Шамис, К. А. Грайворонская, Т. И. Вербицкая, Ю. Н. Макогон, Ю. В. Кудрявцев"
+			}
+		},		
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [397,409],
+			"title": {
+				"ua": "Вплив наночастинок TiO$_2$ на характер зношування та корозії поверхневого композиту AA6063, приготованого за допомогою оброблення тертям з перемішуванням",
+				"en": "Effect of Nano-TiO$_2$ Particles on Wear and Corrosion Behaviour of AA6063 Surface Composite Fabricated by Friction Stir Processing",
+				"ru": "Влияние наночастиц TiO$_2$ на характер изнашивания и коррозии поверхностного композита AA6063, изготовленного с помощью обработки трением с перемешиванием"
+			},
+			"autors": {
+				"ua": "Д. Мутукришнан, А. Н. Баладжі, Г. Р. Рагав",
+				"en": "D. Muthukrishnan, A. N. Balaji, and G. R. Raghav",
+				"ru": "Д. Мутукришнан, А. Н. Баладжи, Г. Р. Рагхав"
+			}
+		},		
+		{
+			"type":    1,
+			"rubric":  18,
+			"pages":  [411,421],
+			"title": {
+				"ua": "Характеризація швидкостей одиничних поверхневих акустичних хвиль (ПАХ) стопів Ti–6Al–4V як функції поруватости за моделюванням сканувальної акустичної мікроскопії (САМ) для застосувань",
+				"en": "Characterization of Single SAW Velocities of Ti–6Al–4V Alloy as a Function of Porosity by SAM Simulation for Applications",
+				"ru": "Характеризация скоростей одиночных поверхностных акустических волн (ПАВ) сплавов Ti–6Al–4V как функции пористости согласно моделированию сканирующей акустической микроскопии (САМ) для приложений"
+			},
+			"autors": {
+				"ua": "Я. Аль-Саяд, З. Хаджуб, А. Догман",
+				"en": "Y. Al-Sayad, Z. Hadjoub, and A. Doghmane",
+				"ru": "Я. Аль-Саяд, З. Хаджуб, А. Догман"
+			}
+		}				
+	]
+}

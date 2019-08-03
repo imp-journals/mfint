@@ -1,0 +1,112 @@
+{
+	"_id":    "MFiNT.40.06.0729",
+	"year":   2018,
+	"volume": 40,
+	"issue":  6,
+	"pages":  [729,737],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["28.03.2018","08.05.2018"],
+	"PACS":   "64.60.ah, 72.20.Dp, 72.80.Tm, 73.40.Gk, 73.40.Rw, 73.50.Fq, 81.05.Zx",
+	"title":   {
+		"ua": "Неґативна диференційна провідність $N$-типу у вольт-амперних характеристиках металевих гетероструктур",
+		"en": "Negative $N$-Type Differential Resistance in Current–Voltage Characteristics of Metal Heterostructures",
+		"ru": "Отрицательное дифференциальное сопротивление $N$-типа в вольт-амперных характеристиках металлических гетероструктур"
+	},
+	"abstract": {
+		"ua": "Запропоновано фізичний механізм, що відповідає за виникнення ділянки неґативного диференційного опору $N$-типу у вольт-амперних характеристиках металевих гетероструктур з тунельним бар’єром, утвореним напівпровідниковим прошарком із втіленими у нього домішковими центрами. Розвинуту в роботі теорію засновано на припущенні про наявність у потенціяльному бар’єрі локалізованих дворівневих структур, які визначають величину струму, що протікає через відповідний транспортний канал. Проаналізовано вплив параметрів задачі на тунельний струм.",
+		"en": "Physical mechanism is proposed and responsible for the appearance of a negative $N$-type differential resistance region in current–voltage characteristics of metal heterostructures with a tunnel barrier formed by a semiconductor interlayer with embedded impurity centres. The theory developed in this work is based on the assumption of the presence of localized two-level structures in the potential barrier, which determine the magnitude of the current flowing through the corresponding transport channel. An effect of the problem parameters on the tunnel current is analysed.",
+		"ru": "Предложен физический механизм, ответственный за возникновение участка отрицательного дифференциального сопротивления $N$-типа в вольт-амперных характеристиках металлических гетероструктур с туннельным барьером, образованным полупроводниковой прослойкой с внедрёнными в неё примесными центрами. Развитая в работе теория основана на предположении о наличии в потенциальном барьере локализованных двухуровневых структур, которые определяют величину тока, протекающего через соответствующий транспортный канал. Проанализировано влияние параметров задачи на туннельный ток."
+	},
+	"keywords": {
+		"ua": "неґативний диференційний опір, неґатрон, дворівневі центри, тунельний струм",
+		"en": "negative differential resistance, negatron, two-level centres, tunnel current",
+		"ru": "отрицательное дифференциальное сопротивление, негатрон, двухуровневые центры, туннельный ток"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. В. Шамаєв", "en": "V. V. Shamaev", "ru": "В. В. Шамаев"},
+			"OID": [213]
+		},
+		{
+			"AID": {"ua": "О. С. Житлухіна", "en": "O. S. Zhitlukhina", "ru": "Е. С. Житлухина"},
+			"OID": [246, 9]
+		}
+	],
+	"references": {
+		"count": 14,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "R. E. Simpson, Introductory Electronics for Scientists and Engineers (Boston, USA: Allyn & Bacon: 1974).",
+				"tr":  "R. E. Simpson, Introductory Electronics for Scientists and Engineers (Boston, USA: Allyn & Bacon: 1974)."
+			},
+			{
+				"doi": "10.1063/1.4951668",
+				"or":  "V. E. Shaternik, A. P. Shapovalov, A. V. Suvorov, N. A. Skoryk, and M. A. Belogolovskii, Low Temp. Phys., 42, No. 5:426 (2016).",
+				"tr":  "V. E. Shaternik, A. P. Shapovalov, A. V. Suvorov, N. A. Skoryk, and M. A. Belogolovskii, Low Temp. Phys., 42, No. 5:426 (2016)."
+			},
+			{
+				"doi": "10.1109/TASC.2016.2636255",
+				"or":  "V. E. Shaternik, A. P. Shapovalov, T. A. Prikhna, O. Y. Suvorov, M. A. Skorik, V. I. Bondarchuk, and V. E. Moshchil, IEEE Trans. Appl. Supercond., 27, No. 4: 1800507 (2017).",
+				"tr":  "V. E. Shaternik, A. P. Shapovalov, T. A. Prikhna, O. Y. Suvorov, M. A. Skorik, V. I. Bondarchuk, and V. E. Moshchil, IEEE Trans. Appl. Supercond., 27, No. 4: 1800507 (2017)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2014.04.049",
+				"or":  "M. Belogolovskii, Appl. Surf. Sci., 312, No. 1: 17 (2014).",
+				"tr":  "M. Belogolovskii, Appl. Surf. Sci., 312, No. 1: 17 (2014)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.77.075402",
+				"or":  "A. Halbritter, P. Makk, Sz. Csonka, and G. Mihály, Phys. Rev. B, 77, No. 7:075402 (2008).",
+				"tr":  "A. Halbritter, P. Makk, Sz. Csonka, and G. Mihály, Phys. Rev. B, 77, No. 7:075402 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.87.144201",
+				"or":  "K. Agarwal, I. Martin, M. D. Lukin, and E. Demler, Phys. Rev. B, 87, No. 14:144201 (2013).",
+				"tr":  "K. Agarwal, I. Martin, M. D. Lukin, and E. Demler, Phys. Rev. B, 87, No. 14:144201 (2013)."
+			},
+			{
+				"doi": "10.2478/s11534-009-0012-1",
+				"or":  "M. Belogolovskii, Cent. Eur. J. Phys., 7, No. 2: 304 (2009).",
+				"tr":  "M. Belogolovskii, Cent. Eur. J. Phys., 7, No. 2: 304 (2009)."
+			},
+			{
+				"doi": "10.1063/1.4967392",
+				"or":  "M. Truchly, T. Plecenik, E. Zhitlukhina, M. Belogolovskii, M. Dvoranova, P. Kus, and A. Plecenik, J. Appl. Phys., 120, No. 18: 185302 (2016).",
+				"tr":  "M. Truchly, T. Plecenik, E. Zhitlukhina, M. Belogolovskii, M. Dvoranova, P. Kus, and A. Plecenik, J. Appl. Phys., 120, No. 18: 185302 (2016)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.78.024522",
+				"or":  "M. I. Tsindlekht, V. M. Genkin, G. I. Leviev, I. Felner, O. Yuli, I. Asulin, O. Millo, M. A. Belogolovskii, and N. Y. Shitsevalova, Phys. Rev. B, 78, No. 2: 024522 (2008).",
+				"tr":  "M. I. Tsindlekht, V. M. Genkin, G. I. Leviev, I. Felner, O. Yuli, I. Asulin, O. Millo, M. A. Belogolovskii, and N. Y. Shitsevalova, Phys. Rev. B, 78, No. 2: 024522 (2008)."
+			},
+			{
+				"doi": "10.1007/s13204-018-0687-y",
+				"or":  "A. Shapovalov, V. Shaternik, O. Suvorov, E. Zhitlukhina, and M. Belogolovskii, Appl. Nanosci., 8, Iss. 5: 1025 (2018).",
+				"tr":  "A. Shapovalov, V. Shaternik, O. Suvorov, E. Zhitlukhina, and M. Belogolovskii, Appl. Nanosci., 8, Iss. 5: 1025 (2018)."
+			},
+			{
+				"doi": "10.1016/S0921-4534(00)01603-8",
+				"or":  "V. Shaternik, M. Belogolovskii, A. Plecenik, Š. Beňačka, M. Grajcar, and E. Rudenko, Physica C, 350, Nos. 3–4: 187 (2001).",
+				"tr":  "V. Shaternik, M. Belogolovskii, A. Plecenik, Š. Beňačka, M. Grajcar, and E. Rudenko, Physica C, 350, Nos. 3–4: 187 (2001)."
+			},
+			{
+				"doi": "10.1016/0011-2275(83)90146-7",
+				"or":  "V. M. Pan, V. P. Gorishnyak, E. M. Rudenko, V. E. Shaternik, M. V. Belous, S. A. Koziychuk, and F. I. Korzhinsky, Cryogenics, 23, No. 5: 258 (1983).",
+				"tr":  "V. M. Pan, V. P. Gorishnyak, E. M. Rudenko, V. E. Shaternik, M. V. Belous, S. A. Koziychuk, and F. I. Korzhinsky, Cryogenics, 23, No. 5: 258 (1983)."
+			},
+			{
+				"doi": "10.1109/TASC.2016.2535141",
+				"or":  "V. Lacquaniti, C. Cassiago, N. De Leo, M. Fretto, A. Sosso, P. Febvre, V. Shaternik, A. Shapovalov, O. Suvorov, M. Belogolovskii, and P. Seidel, IEEE Trans. Appl. Supercond., 26, No. 3: 1100505 (2016).",
+				"tr":  "V. Lacquaniti, C. Cassiago, N. De Leo, M. Fretto, A. Sosso, P. Febvre, V. Shaternik, A. Shapovalov, O. Suvorov, M. Belogolovskii, and P. Seidel, IEEE Trans. Appl. Supercond., 26, No. 3: 1100505 (2016)."
+			},
+			{
+				"doi": "10.1088/2053-1591/1/2/026001",
+				"or":  "V. Shaternik, A. Shapovalov, M. Belogolovskii, O. Suvorov, S. Döring, S. Schmidt, and P. Seidel, Mater. Res. Express, 1, No. 2: 026001 (2014).",
+				"tr":  "V. Shaternik, A. Shapovalov, M. Belogolovskii, O. Suvorov, S. Döring, S. Schmidt, and P. Seidel, Mater. Res. Express, 1, No. 2: 026001 (2014)."
+			}
+		]
+	}
+}

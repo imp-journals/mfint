@@ -1,0 +1,163 @@
+{
+	"_id":    "MFiNT.37.10.1349",
+	"year":   2015,
+	"volume": 37,
+	"issue":  10,
+	"pages":  [1349,1367],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["16.06.2015","28.09.2015"],
+	"PACS":   "61.72.Qq, 62.20.fk, 62.20.Qp, 64.75.Op, 81.30.Mh, 81.40.Cd, 81.40.Ef",
+	"title":  {
+			"ua": "Твердофазні перетворення в металевій матриці високохромистого чавуну в субкритичному інтервалі температур",
+			"en": "Solid-State Phase Transformation in Metallic Matrix of High-Chrome Cast Iron in Subcritical Temperature Range",
+			"ru": "Твердофазные превращения в металлической матрице высокохромистого чугуна в субкритическом интервале температур"
+		},
+	"abstract": {
+		"ua": "У статті представлено результати вивчення кінетики фазово-структурних змін у литому високохромистому чавуні в ході витримки в субкритичному інтервалі температур (350—700°C). Досліджено чавун складу: 2,70% С, 2,20% Мn, 0,55% Si, 14,55% Сr, 0,93% Ni, 0,39% Мо, 0,38% V, 0,11% Тi. З використанням мікроструктурної методи побудовано С-діяграму розпаду первородного (литого) аустеніту в чавуні. Встановлено, що в межах витримки до 25 год перетворення аустеніту відбувається лише в області температур 550—700°C з утворенням евтектоїду, який складається з фериту та карбідів цементитного типу з волокнистої або платівчастої форми. Кінетичний максимум перетворення відповідає 650°C; інкубаційний період при цій температурі складає 5 хв.; завершення перетворення фіксується після витримки 8 год. Утворення евтектоїду при 700°C супроводжується виділенням з аустеніту вторинних карбідів. Повторна витримка чавуну з евтектоїдною матрицею при 650—700°C впродовж 25 год супроводжується повною сфероїдизацією та коаґуляцією евтектоїдних включень, що приводить до формування феритної матриці з зернистими карбідами з середнім діяметром у 0,23—0,28 мкм. В процесі повторної витримки зміна типу карбідів не спостерігається. Енергія активації формозміни карбідних частинок складає 73,1 кДж/моль, що вказує на контролювальну ролю дифузії Карбону в фериті в процесі сфероїдизації та коаґуляції евтектоїдних карбідів. В результаті подвійної витримки в області субкритичних температур твердість чавуну знижується до 38—41 HRC, що забезпечує чавуну задовільну оброблюваність різанням.",
+		"en": "The results of study of phase—structural changes’ kinetics in cast high-chromium cast iron during ageing in the subcritical range of temperatures (350—700°C) are presented in a given article. The iron composed of 2.70% C, 2.20% Mn, 0.55% Si, 14.55% Cr, 0.93% Ni, 0.39% Mo, 0.38% V, and 0.11% Ti is studied. Using the microstructural method, the TTT-diagram of transformation of primary (as-cast) austenite is plotted. As found, within 25 hours of soaking, the austenite transformation occurs only in a range of temperatures of 550—700°C to form a fine eutectoid consisting of ferrite and cementite carbides having the fibrous or platelet shapes. Kinetics maximum of transformation corresponds to 650°C; the incubation period at this temperature is 5 minutes; the completion of the transformation is recorded after 8 hours of soaking. Formation of eutectoid at 700°C is accompanied by the precipitation of fine secondary carbides from austenite. Repeated heating of cast iron having fully eutectoid matrix at 650—700°C for up to 25 hours results in complete spheroidization and coagulation of eutectoid carbides. This leads to the formation of ferrite matrix with the granular carbides of mean diameter of 0.23—0.28 $\\mu$m. The data regarding the influence of soaking time at 650—700°C on the number of eutectoid carbides of different shapes are presented in a given article. During repeated heating, the cementite type of carbides is not changed. The activation energy of coagulation of eutectoid carbides is calculated to be 73.1 kJ/mol. It indicates that rates of spheroidization and coagulation of eutectoid carbides are controlled by diffusion of carbon in ferrite. Because of doubled subcritical treatment, the microhardness of matrix reduces to 285—365 HV as well as bulk hardness reduces to 38—41 HRC that provides satisfactory machinability of cast iron.",
+		"ru": "В статье представлены результаты изучения кинетики фазово-структурных изменений в литом высокохромистом чугуне в ходе выдержки в субкритическом интервале температур (350—700°C). Исследован чугун состава: 2,70% С, 2,20% Mn, 0,55% Si, 14,55% Cr, 0,93% Ni, 0,39% Мо, 0,38% V, 0,11% Ti. С применением микроструктурного метода построена С-диаграмма распада первородного (литого) аустенита в чугуне. Установлено, что в пределах выдержки до 25 ч превращение аустенита протекает лишь в области температур 550—700°C с образованием эвтектоида, состоящего из феррита и карбидов цементитного типа волокнистой или пластинчатой формы. Кинетический максимум превращения соответствует 650°C; инкубационный период при этой температуре составляет 5 мин; завершение превращения фиксируется после выдержки 8 ч. Образование эвтектоида при 700°C сопровождается выделением из аустенита вторичных карбидов. Повторная выдержка чугуна с эвтектоидной матрицей при 650—700°C в течение до 25 ч сопровождается полной сфероидизацией и коагуляцией эвтектоидных включений, что приводит к формированию ферритной матрицы с зернистыми карбидами средним диаметром 0,23—0,28 мкм. В процессе повторной выдержки изменение типа карбидов непроисходит. Энергия активации формоизменения карбидных частиц составляет 73,1 кДж/моль, что указывает на контролирующую роль диффузии углерода в феррите в процессах сфероидизации и коагуляции эвтектоидных карбидов. В результате двойной выдержки в области субкритических температур твёрдость чугуна снижается до 38—41 HRC, что обеспечивает чугуну удовлетворительную обрабатываемость резанием."
+	},
+	"keywords": {
+		"ua": "чавун, аустеніт, евтектоїдні карбіди, сфероїдизація, твердість",
+		"en": "cast iron, austenite, eutectoid carbides, spheroidization, hardness",
+		"ru": "чугун, аустенит, эвтектоидные карбиды, сфероидизация, твёрдость"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. Г. Чабак", "en": "Yu. G. Chabak", "ru": "Ю. Г. Чабак"},
+			"OID": [228]
+		}
+	],
+	"references": {
+		"count": 25,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "A. Studnicki, J. Kilarski, M. Przybył, J. Suchoń, and D. Bartocha, J. Achivements in Materials and Manufacturing Engineering, 16: 63 (2006).",
+				"tr":  "A. Studnicki, J. Kilarski, M. Przybył, J. Suchoń, and D. Bartocha, J. Achivements in Materials and Manufacturing Engineering, 16: 63 (2006)."
+			},
+			{
+				"doi": "10.1016/j.wear.2012.12.045",
+				"or":  "Y. P. Wang, D. Y. Li, L. Parent, and H. Tian, Wear, 301, Nos. 1–2: 390 (2013).",
+				"tr":  "Y. P. Wang, D. Y. Li, L. Parent, and H. Tian, Wear, 301, Nos. 1–2: 390 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Цыпин, Белые износостойкие чугуны (Москва: Металлургия: 1983).",
+				"tr":  "I. I. Tsypin, Belye Iznosostoykie Chuguny (Moscow: Metallurgiya: 1983) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.wear.2006.03.021",
+				"or":  "Y. Hong-Shan, J. Wang, B.-L. Shen, H.-H. Liu, S.-J. Gao, and S.-J. Huang, Wear, 261, No. 10: 1150 (2006).",
+				"tr":  "Y. Hong-Shan, J. Wang, B.-L. Shen, H.-H. Liu, S.-J. Gao, and S.-J. Huang, Wear, 261, No. 10: 1150 (2006)."
+			},
+			{
+				"doi": "10.1016/j.matchar.2005.10.002",
+				"or":  "J. Wang, C. Li, H. Liu, H. Yang, B. Shen, Sh. Gao, and S. Huang, Materials Characterization, 56, No. 1: 73 (2006).",
+				"tr":  "J. Wang, C. Li, H. Liu, H. Yang, B. Shen, Sh. Gao, and S. Huang, Materials Characterization, 56, No. 1: 73 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Liu, J. Wang, B. Shen, H. Yang, Sh. Gao, and S. Huang, J. University of Science and Technology Beijing: Mineral, Metallurgy, Material, 14, No. 3: 231 (2007).",
+				"tr":  "H. Liu, J. Wang, B. Shen, H. Yang, Sh. Gao, and S. Huang, J. University of Science and Technology Beijing: Mineral, Metallurgy, Material, 14, No. 3: 231 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Г. Чабак, В. Г. Ефременко, Металлофиз. новейшие технол., 34, № 9: 1205 (2012).",
+				"tr":  "Yu. G. Chabak and V. G. Efremenko, Metallofiz. Noveishie Tekhnol., 34, No. 9: 1205 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Kmetic, F. Mlakar, and V. Tucic, Železarski Zbornik, 21, No. 4: 151 (1987).",
+				"tr":  "D. Kmetic, F. Mlakar, and V. Tucic, Železarski Zbornik, 21, No. 4: 151 (1987)."
+			},
+			{
+				"doi": "10.1007/s11665-012-0434-6",
+				"or":  "V. G. Efremenko, Yu. G. Chabak, and M. N. Brykov, J. Materials Engineering and Performance, 22, No. 5: 1378 (2012).",
+				"tr":  "V. G. Efremenko, Yu. G. Chabak, and M. N. Brykov, J. Materials Engineering and Performance, 22, No. 5: 1378 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Parusov, I. I. Dolzhenkov, L. V. Podobedov, and I. A. Vakulenko, Izvestiya Akademii Nauk SSSR. Metally, No. 5: 159 (1980).",
+				"tr":  "V. V. Parusov, I. I. Dolzhenkov, L. V. Podobedov, and I. A. Vakulenko, Izvestiya Akademii Nauk SSSR. Metally, No. 5: 159 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Рауба, Г. В. Бычков, Литейное производство, № 7: 33 (1985).",
+				"tr":  "A. A. Rauba and G. V. Bychkov, Liteynoe Proizvodstvo, No. 7: 33 (1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "R. J. Dawson, Abrasion Resistant Machinable White Cast Iron, Patent of USA No. 4395284, C22C 3856 (Published July 26, 1983).",
+				"tr":  "R. J. Dawson, Abrasion Resistant Machinable White Cast Iron, Patent of USA No. 4395284, C22C 3856 (Published July 26, 1983)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.455-456.290",
+				"or":  "P. Amorim, H. Santos, and J. Santos, Materials Science Forum, 455–456: 290 (2004).",
+				"tr":  "P. Amorim, H. Santos, and J. Santos, Materials Science Forum, 455–456: 290 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Г. Чабак, Строительство, материаловедение, машиностроение, вып. 65: 188 (2013).",
+				"tr":  "Yu. G. Chabak, Stroitel'stvo, Materialovedenie, Mashinostroenie, Iss. 65: 188 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. С. Радченко, М. М. Ямшинський, Г. Є. Федоров, Є. О. Платонов, Вісник Донбаської державної машинобудівної академії, 32, № 1: 218 (2014).",
+				"tr":  "K. S. Radchenko, M. M. Yamshyns'kyy, H. Ye. Fedorov, and Ye. O. Platonov, Visnyk Donbas'koyi Derzhavnoyi Mashynobudivnoyi Akademiyi, 32, No. 1: 218 (2014) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1007/s11661-013-1890-9",
+				"or":  "V. G. Efremenko, K. Shimizu, and Yu. G. Chabak, Metallurgical and Materials Transactions A, 44: 5434 (2013).",
+				"tr":  "V. G. Efremenko, K. Shimizu, and Yu. G. Chabak, Metallurgical and Materials Transactions A, 44: 5434 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Ефременко, К. Шимидзу, Ю. Г. Чабак, А. В. Джеренова, Б. В. Ефременко, Наука та прогрес транспорту. Вісник Дніпропетровського національного університету залізничного транспорту, 50, № 2: 103 (2014).",
+				"tr":  "V. G. Efremenko, K. Shymydzu, Yu. G. Chabak, A. V. Dzherenova, and B. V. Efremenko, Nauka ta Progres Transportu. Visnyk Dnipropetrovs'kogo Natsional'nogo Universytetu Zaliznychnogo Transportu, 50, No. 2: 103 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.1179/1743133612Y.0000000009",
+				"or":  "S. Inthidech, P. Sricharoenchai, and Y. Matsubara, International Journal of Cast Metals Research, 25, No. 5: 257 (2012).",
+				"tr":  "S. Inthidech, P. Sricharoenchai, and Y. Matsubara, International Journal of Cast Metals Research, 25, No. 5: 257 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Ю. Куцов, М. А. Ковзель, Металознавство та обробка металів, № 1: 59 (2003).",
+				"tr":  "A. Yu. Kutsov and M. A. Kovzel', Metaloznavstvo ta Obrobka Metaliv, No. 1: 59 (2003) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1007/s12613-014-1014-6",
+				"or":  "V. G. Efremenko, K. Shimizu, A. P. Cheiliakh, T. V. Kozarevskaya, K. Kusumoto, and K. Yamamoto, Int. J. Miner. Metall. Mater., 21: 1096 (2014).",
+				"tr":  "V. G. Efremenko, K. Shimizu, A. P. Cheiliakh, T. V. Kozarevskaya, K. Kusumoto, and K. Yamamoto, Int. J. Miner. Metall. Mater., 21: 1096 (2014)."
+			},
+			{
+				"doi": "10.1007/BF02656520",
+				"or":  "G. Laird and G. L. F. Powell, Metallurgical and Materials Transactions A, 24, No. 4: 981 (1993).",
+				"tr":  "G. Laird and G. L. F. Powell, Metallurgical and Materials Transactions A, 24, No. 4: 981 (1993)."
+			},
+			{
+				"doi": "10.1007/s11665-008-9285-6",
+				"or":  "A. E. Karantzalis, A. Lekatou, and H. Mavros, J. Materials Engineering and Perfomance, 2, No. 18: 174 (2009).",
+				"tr":  "A. E. Karantzalis, A. Lekatou, and H. Mavros, J. Materials Engineering and Performance, 2, No. 18: 174 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Е. Долженков, И. И. Долженков, Сфероидизация карбидов в стали (Москва: Металлургия: 1985).",
+				"tr":  "I. E. Dolzhenkov and I. I. Dolzhenkov, Sferoidizatsiya Karbidov v Stali (Moscow: Metallurgiya: 1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. П. Бунин, Я. Н. Малиночка, Ю. Н. Таран, Основы металлографии чугуна (Москва: Металлургия: 1969).",
+				"tr":  "K. P. Bunin, Ya. N. Malinochka, and Yu. N. Taran, Osnovy Metallografii Chuguna (Moscow: Metallurgiya: 1969) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. W. Batchelor L. N. Lam, and M. Chandrasekaran, Materials Degradation and Its Control by Surface Engineering (London: Imperial College Press: 2011).",
+				"tr":  "A. W. Batchelor L. N. Lam, and M. Chandrasekaran, Materials Degradation and Its Control by Surface Engineering (London: Imperial College Press: 2011)."
+			}
+		]
+	}
+}

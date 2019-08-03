@@ -1,0 +1,49 @@
+{
+	"_id":    "MFiNT.37.0115",
+	"year":   2015,
+	"volume": 37,
+	"issue":  1,
+	"pages":  [115,120],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["03.06.2014","14.08.2014"],
+	"PACS":   "61.72.sd, 64.75.Lm, 68.47.Gh, 81.05.Je, 81.65.Mq, 82.30.Lp, 82.80.Ej",
+	"title":  {
+		"ua": "Термодинамічне моделювання процесів відновлення оксидів при отриманні металів життя",
+		"en": "Thermodynamic Modelling of Oxide Conversion Processes for Metals of Life",
+		"ru": "Термодинамическое моделирование процессов восстановления оксидов при получении металлов жизни"
+	},
+	"abstract": {
+		"ua": "У запропонованій роботі розглянуто екологічно безпечні процеси одержання чистих металів шляхом їх відновлення з відповідних оксидів у атмосфері з ультранизьким окиснювальним потенціялом ($P_{O_{2}} = 10^{16} — 10^{26}$атм.). Ми пропонуємо створення такого середовища інжекцією етилового спирту в замкнений контур реактора внаслідок взаємодії пари спирту з киснем. Такі умови сприяють дисоціяції оксидів майже будь-якого виду. Цією методою одержано так звані «метали життя»: Cu, Fe, Ni и Co, які використовуються в медицині як поживні нутрієнти. У випадку конверсії оксиду хрому процес завершується синтезою карбідних фаз. Одержання чистого Cr можливе застосуванням подібної методології за допомогою кисневої помпи. Ідентифікація продуктів конверсії відбувається рентґенофазовою структурною аналізою, а їхня чистота контролюється спектрохемічною методою. Експериментальні дані добре узгоджуються з термодинамічними обчисленнями оптимальних температур конверсійних реакцій і молярних часток початкових інґредієнтів.",
+		"en": "In the presented work, the environmentally friendly production processes of pure metals via reduction from the respective oxides in the atmosphere of ultra-low oxidation potential ($P_{O_{2}} = 10^{16} — 10^{26}$ atm) are offered. We propose the formation of such an environment by injection of ethyl alcohol in the reactor and interaction of its vapour with oxygen. Such conditions promote dissociation of oxides of almost any kind. Using this method, the pure, so-called ‘metals of life’ are obtained: Cu, Fe, Ni, and Co, which are used in medicine as the essential nutrients. In the case of chromium conversion, this process is completed with the synthesis of carbide phases. Production of pure Cr is possible by using the similar methodology with the help of oxygen pump. For identification of the reduced products, an X-ray phase analysis is used. The purity of the converted products is characterized by spectrochemical analysis. The experimental data are in a good conformity with the thermodynamic calculations of optimal temperature ranges of conversion reactions and the ratio of the initial ingredients.",
+		"ru": "В предложенной работе рассмотрены экологически безопасные процессы получения чистых металлов путём их восстановления из соответствующих оксидов в атмосфере с ультранизким окислительным потенциалом ($P_{O_{2}} = 10^{16} — 10^{26}$ атм.). Мы предлагаем создание такой среды инжекцией этилового спирта в замкнутый контур реактора в результате взаимодействия паров спирта с кислородом. Такие условия способствуют диссоциации оксидов почти любого вида. Этим методом получены так называемые «металлы жизни»: Cu, Fe, Ni и Co, применяемые в медицине как питательные нутриенты. В случае конверсии оксида хрома процесс завершается синтезом карбидных фаз. Получение чистого Cr возможно применением подобной методологии с помощью кислородного насоса. Идентификация продуктов конверсии происходит рентгенофазовым структурным анализом, а их чистота контролируется спектрохимическим методом. Экспериментальные данные находятся в хорошем согласии с термодинамическими вычислениями оптимальных температур конверсионных реакций и молярных долей начальных ингредиентов."
+	},
+	"keywords": {
+		"ua": "метали життя, оксиди, етиловий спирт, перетворення",
+		"en": "metals of life, oxides, ethyl alcohol, conversion",
+		"ru": "металлы жизни, оксиды, этиловый спирт, преобразование"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. І. Мікадзе", "en": "O. I. Mikadze", "ru": "О. И. Микадзе"},
+			"OID": [422]
+		},
+		{
+			"AID": {"ua": "Дж. І. Багдавадзе", "en": "J. I. Bagdavadze", "ru": "Дж. И. Багдавадзе"},
+			"OID": [423]
+		},
+		{
+			"AID": {"ua": "Т. А. Дзіграшвілі", "en": "T. A. Dzigrashvili", "ru": "Т. А. Дзиграшвили"},
+			"OID": [422]
+		},
+		{
+			"AID": {"ua": "Н. І. Майсурадзе", "en": "N. I. Maisuradze", "ru": "Н. И. Майсурадзе"},
+			"OID": [422]
+		}
+	],
+	"references": {
+		"count": 5,
+		"list":  []
+	}
+}

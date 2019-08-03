@@ -1,0 +1,157 @@
+{
+	"year":   2014,
+	"volume": 36,
+	"issue":  10,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [1287,1302],
+			"title": {
+				"ua": "Багаточастинкова взаємодія протонів у металічному водні",
+				"en": "Many-Particle Interaction of Protons in Metallic Hydrogen",
+				"ru": "Многочастичное взаимодействие протонов в металлическом водороде"
+			},
+			"autors": {
+				"ua": "В. Т. Швець",
+				"en": "V. Т. Shvets",
+				"ru": "В. Т. Швец"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1303,1312],
+			"title": {
+				"ua": "Аномалії зворотного магнетопластичного ефекту в магнійтермічному берилійовому конденсаті",
+				"en": "Anomalies of Inverse Magnetoplastic Effect in a Magnesium-Thermal Beryllium Condensate",
+				"ru": "Аномалии обратного магнитопластического эффекта в магнийтермическом бериллиевом конденсате"
+			},
+			"autors": {
+				"ua": "Є. І. Курек, І. Г. Курек, А. В. Олійнич-Лисюк, М. Д. Раранський",
+				"en": "E. I. Kurek, I. G. Kurek, A. V. Oleynich-Lysyuk, and M. D. Rarans’ky",
+				"ru": "Е. И. Курек, И. Г. Курек, А. В. Олейнич-Лысюк, Н. Д. Раранский"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1313,1326],
+			"title": {
+				"ua": "З’єднуваність зварюванням армованих мікрочастинками композитних матеріалів на основі Alumix 231, виготовлених за технологією порошкової металургії",
+				"en": "Joinability of Particulate Reinforced Alumix 231 Based Composite Materials Produced by Powder Metallurgy Route",
+				"ru": "Соединяемость сваркой армированных микрочастицами композитных материалов на основе Alumix 231, изготовленных по технологии порошковой металлургии"
+			},
+			"autors": {
+				"ua": "Х. Атес, Ю. Гокмен, Х. Кінікі, А. Узун, Х. Каракоц, М. Тюркер",
+				"en": "H. Ates, U. Gokmen, H. Cinici, A. Uzun, H. Karakoc, and M. Turker",
+				"ru": "Х. Атес, Ю. Гокмен, Х. Киники, А. Узун, Х. Каракоц, М. Тюркер"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1327,1342],
+			"title": {
+				"ua": "Дослідження структури та розподілу хімічних елементів в литих високоентропійних стопах системи Al$_{x}$FeNiCoCuCr",
+				"en": "Study of Structure and Distribution of Chemical Elements in Cast High-Entropy Alloys of Al$_{x}$FeNiCoCuCr System",
+				"ru": "Исследования структуры и распределения химических элементов в литых высокоэнтропийных сплавах системы Al$_{x}$FeNiCoCuCr"
+			},
+			"autors": {
+				"ua": "В. М. Надутов, С. Ю. Макаренко, П. Ю. Волосевич, В. П. Залуцький",
+				"en": "V. M. Nadutov, S. Yu. Makarenko, P. Yu. Volosevych, and V. P. Zalutskii",
+				"ru": "В. М. Надутов, С. Ю. Макаренко, П. Ю. Волосевич, В. П. Залуцкий"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [1343,1358],
+			"title": {
+				"ua": "Дефекти пластинчастих фаз евтектик Bi$_{2}$Те$_{3}$—Te",
+				"en": "Defects in Lamellar Phases of the Bi$_{2}$Те$_{3}$—Te Eutectics",
+				"ru": "Дефекты пластинчатых фаз эвтектик Bi$_{2}$Те$_{3}$—Te"
+			},
+			"autors": {
+				"ua": "М. А. Рамазанов, Ф. К. Алескеров, К. Ш. Кахраманов, С. А. Набієва",
+				"en": "M. A. Ramazanov, F. K. Aleskerov, K. Sh. Kahramanov, and S. A. Nabiyeva",
+				"ru": "М. А. Рамазанов, Ф. К. Алескеров, К. Ш. Кахраманов, С. А. Набиева"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [1359,1370],
+			"title": {
+				"ua": "Дифузійне фазоутворення в нанорозмірних шаруватих плівкових композиціях Pt(15 нм)/Fe(15 нм) і [Pt(7,5 нм)/Fe(7,5 нм)]$_{2}$ на підкладках SiO$_{2}$(100 нм)/Si(001)",
+				"en": "Diffusive Phase Formation in the Nanosize Layer-by-Layer Film Compositions of Pt(15 nm)/Fe(15 nm) and [Pt(7.5 nm)/Fe(7.5 nm)]$_{2}$ on a SiO$_{2}$(100 nm)/Si(001) Substrate",
+				"ru": "Диффузионное фазообразование в наноразмерных слоистых плёночных композициях Pt(15 нм)/Fe(15 нм) и [Pt(7,5 нм)/Fe(7,5 нм)]$_{2}$ на подложке SiO$_{2}$(100 нм)/Si(001)"
+			},
+			"autors": {
+				"ua": "Ю. М. Макогон, О. П. Павлова, С. І. Сидоренко, Т. І. Вербицька, І. А. Владимирський, О. В. Фігурна, І. О. Круглов",
+				"en": "Iu. M. Makogon, O. P. Pavlova, S. I. Sidorenko, T. I. Verbytska, I. A. Vladymyrskyi, O. V. Figurna, and I. O. Kruglov",
+				"ru": "Ю. Н. Макогон, Е. П. Павлова, С. И. Сидоренко, Т. И. Вербицкая, И. А. Владимирский, О. В. Фигурная, И. О. Круглов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  2,
+			"pages":  [1371,1384],
+			"title": {
+				"ua": "Ґенерація дефектів поверхні Al(111) під впливом йонів Ar$^{+}$ низької енергії",
+				"en": "Generation of the Al(111) Surface Defects under Influence of Low-Energy Ar$^{+}$ Ions",
+				"ru": "Генерация дефектов поверхности Al(111) под воздействием ионов Ar$^{+}$ низкой энергии"
+			},
+			"autors": {
+				"ua": "М. О. Васильєв, І. М. Макеєва, В. О. Тіньков, С. М. Волошко",
+				"en": "M. O. Vasylyev, I. M. Makeyeva, V. O. Tinkov, and S. M. Voloshko",
+				"ru": "М. А. Васильев, И. Н. Макеева, В. А. Тиньков, С. М. Волошко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [1385,1398],
+			"title": {
+				"ua": "Нерівноважний термодинамічний аналіз процесу утворення карбідів в хромистій сталі при відпусканні",
+				"en": "The Nonequilibrium Thermodynamic Analysis of Process of Formation of Carbides in Chromium Steel During Tempering",
+				"ru": "Неравновесный термодинамический анализ процесса образования карбидов в хромистой стали при отпуске"
+			},
+			"autors": {
+				"ua": "С. В. Бобирь",
+				"en": "S. V. Bobyr",
+				"ru": "С. В. Бобырь"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [1399,1410],
+			"title": {
+				"ua": "Зерномежева дифузія атомів водню в $\\alpha$-залізі",
+				"en": "Grain-Boundary Diffusion of Hydrogen Atoms in the $\\alpha$-Iron",
+				"ru": "Зернограничная диффузия атомов водорода в $\\alpha$-железе"
+			},
+			"autors": {
+				"ua": "С. М. Теус, В. Г. Гаврилюк",
+				"en": "S. M. Teus and V. G. Gavriljuk",
+				"ru": "С. М. Теус, В. Г. Гаврилюк"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  1,
+			"pages":  [1411,1425],
+			"title": {
+				"ua": "Кінетика кристалізації стопу Cu$_{47}$Ni$_{8}$Ti$_{34}$Zr$_{11}$, що об’ємно аморфізується, в умовах кокільного виливання",
+				"en": "Kinetics of Crystallization of a Bulk-Amorphized Cu$_{47}$Ni$_{8}$Ti$_{34}$Zr$_{11}$ Alloy in Conditions of Chill Casting",
+				"ru": "Кинетика кристаллизации объёмно-аморфизирующегося сплава Cu$_{47}$Ni$_{8}$Ti$_{34}$Zr$_{11}$ в условиях кокильного литья"
+			},
+			"autors": {
+				"ua": "О. Б. Лисенко, О. Л. Косинська, С. В. Губарєв, Т. В. Калініна",
+				"en": "O. B. Lysenko, O. L. Kosynska, S. V. Gubarev, and T. V. Kalinina",
+				"ru": "А. Б. Лысенко, О. Л. Косинская, С. В. Губарев, Т. В. Калинина"
+			}
+		}
+	]
+}

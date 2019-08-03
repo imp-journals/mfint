@@ -1,0 +1,100 @@
+{
+	"_id":    "MFiNT.40.03.0281",
+	"year":   2018,
+	"volume": 40,
+	"issue":  3,
+	"pages":  [281,289],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["15.08.2017","21.01.2018"],
+	"PACS":   "72.15.Gd, 72.15.Jf, 72.15.Lh, 72.15.Nj, 72.20.-i, 73.21.Hb, 73.63.Nm",
+	"title":   {
+		"ua": "Дисипативні струми в квантовому дроті у поперечному магнетному полі",
+		"en": "Dissipative Currents in a Quantum Wire in a Transverse Magnetic Field",
+		"ru": "Диссипативные токи в квантовой проволоке в поперечном магнитном поле"
+	},
+	"abstract": {
+		"ua": "У статті наведено результати розрахунку діягональних дисипативних тензорів ґальваномагнетних і термомагнетних коефіцієнтів на основі виразу для густини струму в квантовому дроті довільного виродження. Розглянуто два випадки розташування магнетного поля та напрямку струму: струм уздовж дроту та струм, спрямований перпендикулярно осі дроту. Показано, що в першому випадку можна обмежитися наближенням часу релаксації та застосовувати кінетичне рівняння, а в другому — використовувати рівняння руху для матриці густини. Із використанням Гамільтоніяна електронного газу в квантовому дроті для розсіяння на акустичних фононах і пружнього розсіяння при високих температурах знайдено вирази для виродженого випадку. Одержані вирази уможливлюють обчислювати всі поперечні ґальваномагнетні та термомагнетні ефекти в квантових дротах.",
+		"en": "Based on the expression for the current density in the arbitrary degenerated quantum wire, calculation results for the diagonal dissipative components of the galvanomagnetic and thermomagnetic coefficients are given. Two different cases related to the mutual current and magnetic-field directions, namely, ‘current along a wire’ and ‘current directed perpendicularly to the wire axis’, are considered. As shown, for the first case, it is sufficient to apply the relaxation-time approximation and the kinetic equation, whereas for other case, it is possible to use an equation of motion for the density matrix. Using the electron-gas Hamiltonian for the quantum wire and taking into account the scattering on acoustic phonons and the elastic scattering at high temperatures, expressions for the degeneration case are obtained. These expressions allow calculating all the transverse galvanomagnetic and thermomagnetic effects in quantum wires.",
+		"ru": "В статье приведены результаты расчёта диагональных диссипативных тензоров гальваномагнитных и термомагнитных коэффициентов на основе выражения для плотности тока в квантовой проволоке произвольного вырождения. Рассмотрены два случая расположения магнитного поля и направления тока: ток вдоль проволоки и ток, направленный перпендикулярно оси проволоки. Показано, что в первом случае можно ограничиться приближением времени релаксации и применять кинетическое уравнение, а во втором — использовать уравнение движения для матрицы плотности. С использованием гамильтониана электронного газа в квантовой проволоке для рассеяния на акустических фононах и упругого рассеяния при высоких температурах найдены выражения для вырожденного случая. Полученные выражения позволяют вычислять все поперечные гальваномагнитные и термомагнитные эффекты в квантовых проволоках."
+	},
+	"keywords": {
+		"ua": "дисипативні струми, квантовий дріт, магнетне поле, параболічний потенціял, ґальваномагнетні та термомагнетні ефекти, кінетичне рівняння",
+		"en": "dissipative currents, quantum wire, magnetic field, parabolic potential, galvanomagnetic and thermomagnetic effects, kinetic equation",
+		"ru": "диссипативные токи, квантовая проволока, магнитное поле, параболический потенциал, гальваномагнитные и термомагнитные эффекты, кинетическое уравнение"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. І. Аббасов", "en": "I. I. Abbasov", "ru": "И. И. Аббасов"},
+			"OID": [531]
+		},
+		{
+			"AID": {"ua": "Х. А. Гасанов", "en": "Kh. A. Hasanov", "ru": "Х. А. Гасанов"},
+			"OID": [522]
+		},
+		{
+			"AID": {"ua": "Дж. І. Гусейнов", "en": "J. I. Huseynov", "ru": "Дж. И. Гусейнов"},
+			"OID": [522]
+		},
+		{
+			"AID": {"ua": "А. О. Дашдемиров", "en": "A. O. Dashdemirov", "ru": "А. О. Дашдемиров"},
+			"OID": [522]
+		}
+	],
+	"references": {
+		"count": 10,
+		"list":  [
+			{
+				"doi": "10.1038/npjquantmats.2016.28",
+				"or":  "J. Mao, Z. Liu, and Z. Ren, Quantum Materials, 1: 16028 (2016).",
+				"tr":  "J. Mao, Z. Liu, and Z. Ren, Quantum Materials, 1: 16028 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. М. Аскеров, Электронные явления переноса в полупроводниках (Москва: Наука: 1985).",
+				"tr":  "B. M. Askerov, Elektronnye Yavleniya Perenosa v Poluprovodnikakh (Moscow: Nauka: 1985) (in Russian)."
+			},
+			{
+				"doi": "10.1080/15567265.2012.667514",
+				"or":  "L. Shi, Nanoscale and Microscale Thermophysical Engineering, 16: 79 (2012).",
+				"tr":  "L. Shi, Nanoscale and Microscale Thermophysical Engineering, 16: 79 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. П. Синявский, В. Г. Соловенко, ФТТ, 56, вып. 11: 2197 (2014).",
+				"tr":  "E. P. Sinyavskii and V. G. Solovenko, Fizika Tverdogo Tela, 56, Iss. 11: 2197 (2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Д. Блох, ФТТ, 17, вып. 3: 896 (1975).",
+				"tr":  "M. D. Blokh, Fizika Tverdogo Tela, 17: 896 (1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. М. Аскеров, Кинетические эффекты в полупроводниках (Ленинград: Наука: 1970).",
+				"tr":  "B. M. Askerov, Kineticheskie Effekty v Poluprovodnikakh (Leningrad: Nauka: 1970) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Р. Айзин, В. А. Волков, ЖЭТФ, 87, вып. 4 (10): 1469 (1984).",
+				"tr":  "G. R. Ajzin and V. A. Volkov, ZhETF, 87, Iss. 4 (10): 1469 (1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. П. Синявский, Р. А. Хамидуллин, ФТП, 40, вып. 11: 1368 (2006).",
+				"tr":  "E. P. Sinyavskii and R. A. Khamidullin, Fizika i Tekhnika Poluprovodnikov, 40, Iss. 11: 1368 (2006) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0022-3697(59)90002-2",
+				"or":  "E. N. Adams and T. D. Holstein, J. Phys. Chem. Solids, 10: 254 (1959).",
+				"tr":  "E. N. Adams and T. D. Holstein, J. Phys. Chem. Solids, 10: 254 (1959)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Ансельм, Б. М. Аскеров, ФТТ, вып. 4: 1573 (1962).",
+				"tr":  "A. I. Anselm and B. M. Askerov, Fizika Tverdogo Tela, Iss. 4: 1573 (1962) (in Russian)."
+			}
+		]
+	}
+}

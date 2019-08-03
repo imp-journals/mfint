@@ -1,0 +1,173 @@
+{
+	"_id":    "MFiNT.37.10.1395",
+	"year":   2015,
+	"volume": 37,
+	"issue":  10,
+	"pages":  [1395,1404],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["25.06.2015","17.08.2015"],
+	"PACS":   "61.66.Fn, 71.30.+h, 75.47.Gk, 75.47.Lx, 81.20.Fw, 81.40.Rs",
+	"title":  {
+			"ua": "Структурні, електричні та магнеторезистивні властивості заміщених стронцієм манганітів лантану",
+			"en": "Structural, Electrical and Magnetoresistive Properties of Strontium-Substituted Lanthanum Manganites",
+			"ru": "Структурные, электрические и магниторезистивные свойства замещённых стронцием манганитов лантана"
+		},
+	"abstract": {
+		"ua": "Досліджено структурні, електричні та магнеторезистивні властивості зразків La$_{1-x}$Sr$_{x}$MnO$_{3}$ ($х = 0,15—0,60$), виготовлених золь—ґель-методою. Кристалографічні параметри визначалися за допомогою рентґенівської дифракції. Вимірювання електричних властивостей виконувалися в температурному інтервалі 77—380 К як у магнетному полі, так і без нього. Проаналізовано температурні залежності електричних та магнеторезистивних властивостей сполуки при різних концентраціях Sr. Встановлено концентраційну залежність температури Кюрі $Т_{С}$ для сполуки La$_{1-x}$Sr$_{x}$MnO$_{3}$.",
+		"en": "Structural, electrical, and magnetoresistive properties of La$_{1-x}$Sr$_{x}$MnO$_{3}$ ($х = 0,15—0,60$) samples fabricated by sol—gel method are studied. Crystallographic parameters are measured by X-ray diffraction technique. The measurements of electrical properties are carried out in the temperature range 77—380 K both in external magnetic field and without it. Temperature dependences of the electrical and magnetoresistive properties of compounds are analysed for different Sr concentrations. Concentration dependence of the Curie temperature $Т_{С}$ of La$_{1-x}$Sr$_{x}$MnO$_{3}$ are determined.",
+		"ru": "Исследованы структурные, электрические и магниторезистивные свойства образцов La$_{1-x}$Sr$_{x}$MnO$_{3}$ ($х = 0,15—0,60$), изготовленных золь—гель-методом. Кристаллографические параметры определялись с помощью рентгеновской дифракции. Измерения электрических свойств выполнялись в температурном интервале 77—380 К как в магнитном поле, так и без него. Проанализированы температурные зависимости электрических и магниторезистивных свойств соединения с разными концентрациями Sr. Установлена концентрационная зависимость температуры Кюри $Т_{С}$ для соединения La$_{1-x}$Sr$_{x}$MnO$_{3}$."
+	},
+	"keywords": {
+		"ua": "заміщений манганіт, золь—ґель-метода, перехід метал—діелектрик, магнетоопір",
+		"en": "substituted manganite, sol—gel method, metal—dielectric transition, magnetoresistance",
+		"ru": "замещённый манганит, золь—гель-метод, переход металл—диэлектрик, магнитосопротивление"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Т. І. Полек", "en": "T. I. Polek", "ru": "Т. И. Полек"},
+			"OID": [7]
+		},
+		{
+			"AID": {"ua": "О. І. Товстолиткін", "en": "A. I. Tovstolytkin", "ru": "А. И. Товстолыткин"},
+			"OID": [7]
+		},
+		{
+			"AID": {"ua": "С. О. Солопан", "en": "S. O. Solopan", "ru": "С. А. Солопан"},
+			"OID": [18]
+		},
+		{
+			"AID": {"ua": "А. Г. Білоус", "en": "A. G. Belous", "ru": "А. Г. Белоус"},
+			"OID": [18]
+		},
+		{
+			"AID": {"ua": "С. В. Недух", "en": "S. V. Nedukh", "ru": "С. В. Недух"},
+			"OID": [13]
+		},
+		{
+			"AID": {"ua": "С. І. Тарапов", "en": "S. I. Tarapov", "ru": "С. И. Тарапов"},
+			"OID": [13]
+		}
+	],
+	"references": {
+		"count": 23,
+		"list":  [
+			{
+				"doi": "10.1016/S0370-1573(00)00121-6",
+				"or":  "E. Dagotto, T. Hotta, and A. Moreo, Phys. Rep., 344, No. 1: 1 (2001).",
+				"tr":  "E. Dagotto, T. Hotta, and A. Moreo, Phys. Rep., 344, No. 1: 1 (2001)."
+			},
+			{
+				"doi": "10.1063/1.593890",
+				"or":  "V. M. Loktev and Yu. G. Pogorelov, Low Temperature Physics, 26, No. 3: 171 (2000).",
+				"tr":  "V. M. Loktev and Yu. G. Pogorelov, Low Temperature Physics, 26, No. 3: 171 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "A. I. Tovstolytkin, A. N. Pogorily, S. V. Cherepov, G. V. Bondarkova, and V. I. Silantiev, Metallofiz. Noveishie Tekhnol., 22, No. 11: 23 (2000).",
+				"tr":  "A. I. Tovstolytkin, A. N. Pogorily, S. V. Cherepov, G. V. Bondarkova, and V. I. Silantiev, Metallofiz. Noveishie Tekhnol., 22, No. 11: 23 (2000)."
+			},
+			{
+				"doi": "10.1038/nmat3463",
+				"or":  "X. Moya, L. E. Hueso, F. Maccherozzi, A. I. Tovstolytkin, D. I. Podyalovskii, C. Ducati, L. C. Phillips, M. Ghidini, O. Hovorka, A. Berger, M. E. Vickers, E. Defay, S. S. Dhesi, and N. D. Mathur, Nature Materials, 12, No. 1: 52 (2013).",
+				"tr":  "X. Moya, L. E. Hueso, F. Maccherozzi, A. I. Tovstolytkin, D. I. Podyalovskii, C. Ducati, L. C. Phillips, M. Ghidini, O. Hovorka, A. Berger, M. E. Vickers, E. Defay, S. S. Dhesi, and N. D. Mathur, Nature Materials, 12, No. 1: 52 (2013)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.73.583",
+				"or":  "M. B. Salamon and J. Marcelo, Rev. Mod. Phys., 73, No. 3: 583 (2001).",
+				"tr":  "M. B. Salamon and J. Marcelo, Rev. Mod. Phys., 73, No. 3: 583 (2001)."
+			},
+			{
+				"doi": "10.1088/0022-3727/39/7/R01",
+				"or":  "K. Dörr, J. Phys. D: Appl. Phys., 39, No. 7: 125 (2006).",
+				"tr":  "K. Dörr, J. Phys. D: Appl. Phys., 39, No. 7: 125 (2006)."
+			},
+			{
+				"doi": "10.1088/0953-8984/20/43/434221",
+				"or":  "H. Béa, M. Gajek, M. Bibes, and A. J. Barthélémy, J. Phys. Condens. Matter, 20, No. 43: 434221 (2008).",
+				"tr":  "H. Béa, M. Gajek, M. Bibes, and A. J. Barthélémy, J. Phys. Condens. Matter, 20, No. 43: 434221 (2008)."
+			},
+			{
+				"doi": "10.1016/S0304-8853(99)00352-2",
+				"or":  "Y. Tokura and Y. Tomioka, J. Magn. Magn. Mater., 200, No. 1: 1 (1999).",
+				"tr":  "Y. Tokura and Y. Tomioka, J. Magn. Magn. Mater., 200, No. 1: 1 (1999)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.51.14103",
+				"or":  "A. Urushibara,Y. Moritomo, T. Arima, A. Asamitsu, G. Kido, and Y. Tokura, Phys. Rev. B, 51, No. 20: 14103 (1995).",
+				"tr":  "A. Urushibara,Y. Moritomo, T. Arima, A. Asamitsu, G. Kido, and Y. Tokura, Phys. Rev. B, 51, No. 20: 14103 (1995)."
+			},
+			{
+				"doi": "10.1088/0953-8984/7/35/008",
+				"or":  "A. Anane, C. Dupas, K. Le Dang, J. P. Renard, P. Veillet, A. M. Guevara, F. Millo, L. Pinsard, and A. Revcolevschi, J. Phys.: Condens. Matter, 7, No. 35: 7015 (1995).",
+				"tr":  "A. Anane, C. Dupas, K. Le Dang, J. P. Renard, P. Veillet, A. M. Guevara, F. Millo, L. Pinsard, and A. Revcolevschi, J. Phys.: Condens. Matter, 7, No. 35: 7015 (1995)."
+			},
+			{
+				"doi": "10.1063/1.358118",
+				"or":  "R. Helmolt, J. Wecker, K. Samwer, L. Haupt, and K. Bärner, J. Appl. Phys., 76, No. 10: 6925 (1994).",
+				"tr":  "R. Helmolt, J. Wecker, K. Samwer, L. Haupt, and K. Bärner, J. Appl. Phys., 76, No. 10: 6925 (1994)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.62.6825",
+				"or":  "A. Caneiro, L. Morales, F. Prado, D. G. Lamas, R. D. Sanchez, and A. Serquis, Phys. Rev. B, 62, No. 10: 6825 (2000).",
+				"tr":  "A. Caneiro, L. Morales, F. Prado, D. G. Lamas, R. D. Sanchez, and A. Serquis, Phys. Rev. B, 62, No. 10: 6825 (2000)."
+			},
+			{
+				"doi": "10.1143/JPSJ.67.1799",
+				"or":  "H. Fujishiro, M. Ikebe, and Y. Konno, J. Phys. Soc. Jpn., 67, No. 5: 1799 (1998).",
+				"tr":  "H. Fujishiro, M. Ikebe, and Y. Konno, J. Phys. Soc. Jpn., 67, No. 5: 1799 (1998)."
+			},
+			{
+				"doi": "10.1063/1.4918758",
+				"or":  "T. V. Kalmykova, S. V. Nedukh, S. Y. Polevoy, A. A. Kharchenko, S. I. Tarapov, D. P. Belozorov, A. N. Pogorily, T. I. Polek, V. A. Pashchenko, and O. M. Bludov, Low Temperature Physics, 41, No. 4: 273 (2015).",
+				"tr":  "T. V. Kalmykova, S. V. Nedukh, S. Y. Polevoy, A. A. Kharchenko, S. I. Tarapov, D. P. Belozorov, A. N. Pogorily, T. I. Polek, V. A. Pashchenko, and O. M. Bludov, Low Temperature Physics, 41, No. 4: 273 (2015)."
+			},
+			{
+				"doi": "10.1023/A:1022198613723",
+				"or":  "A. G. Belous, O. I. V’yunov, E. V. Pashkova, O. Z. Yanchevskii, A. I. Tovstolytkin, and A. N. Pogorily, Inorg. Mater., 39, No. 2:161 (2003).",
+				"tr":  "A. G. Belous, O. I. V'yunov, E. V. Pashkova, O. Z. Yanchevskii, A. I. Tovstolytkin, and A. N. Pogorily, Inorg. Mater., 39, No. 2:161 (2003)."
+			},
+			{
+				"doi": "10.1016/j.solidstatesciences.2012.01.030",
+				"or":  "S. O. Solopan, O. I. V’yunov, A. G. Belous, T. I. Polek, and A. I. Tovstolytkin, Solid State Sciences, 14, No. 4: 501 (2012).",
+				"tr":  "S. O. Solopan, O. I. V'yunov, A. G. Belous, T. I. Polek, and A. I. Tovstolytkin, Solid State Sciences, 14, No. 4: 501 (2012)."
+			},
+			{
+				"doi": "10.1107/S0021889869006558",
+				"or":  "H. M. Rietveld, J. Appl. Crystallogr., 2, No. 2: 65 (1969).",
+				"tr":  "H. M. Rietveld, J. Appl. Crystallogr., 2, No. 2: 65 (1969)."
+			},
+			{
+				"doi": "",
+				"or":  "The International Centre for Diffraction Database PDF – 2 cart number 89-0682.",
+				"tr":  "The International Centre for Diffraction Database PDF – 2 cart number 89-0682."
+			},
+			{
+				"doi": "",
+				"or":  "The International Centre for Diffraction Database PDF – 2 cart number 84-1612.",
+				"tr":  "The International Centre for Diffraction Database PDF – 2 cart number 84-1612."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.75.3336",
+				"or":  "P. Shiffer, A. P. Ramirez, W. Vao, and S.-W. Cheong, Phys. Rev. Lett., 75, No. 18: 3336 (1995).",
+				"tr":  "P. Shiffer, A. P. Ramirez, W. Vao, and S.-W. Cheong, Phys. Rev. Lett., 75, No. 18: 3336 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "A. I. Tovstolytkin, A. N. Pogorilyi, E. V. Shypil, and D. I. Podyalovski, Phys. Met. Metallogr., 91, No. 1: S214 (2001).",
+				"tr":  "A. I. Tovstolytkin, A. N. Pogorilyi, E. V. Shypil, and D. I. Podyalovski, Phys. Met. Metallogr., 91, No. 1: S214 (2001)."
+			},
+			{
+				"doi": "10.1126/science.270.5238.961",
+				"or":  "H. Kuwahara, Y. Tomioka, A. Asamitsu, Y. Moritomo, and Y. Tokura, Science, 270, No. 5238: 961 (1995).",
+				"tr":  "H. Kuwahara, Y. Tomioka, A. Asamitsu, Y. Moritomo, and Y. Tokura, Science, 270, No. 5238: 961 (1995)."
+			},
+			{
+				"doi": "10.1143/JPSJ.67.2582",
+				"or":  "H. Fujishiro, F. Tetsuo, and M. Ikebe, J. Phys. Soc. Jpn., 67, No. 8: 2582 (1998).",
+				"tr":  "H. Fujishiro, F. Tetsuo, and M. Ikebe, J. Phys. Soc. Jpn., 67, No. 8: 2582 (1998)."
+			}
+		]
+	}
+}

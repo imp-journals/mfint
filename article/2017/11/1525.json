@@ -1,0 +1,149 @@
+{
+	"_id":    "MFiNT.39.11.1525",
+	"year":   2017,
+	"volume": 39,
+	"issue":  11,
+	"pages":  [1525,1545],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["22.03.2017","20.10.2017"],
+	"PACS":   "64.75.Nx, 68.35.Dv, 68.37.Hk, 68.55.Nq, 68.70.+w, 81.05.Bx, 81.15.Rs",
+	"title":   {
+		"ua": "Структура йонно-плазмових покриттів з високоентропійного стопу AlFeNiCoCuCr",
+		"en": "Structure of Ion-Plasma Sprayed Coatings Made of a High-Entropy AlFeNiCoCuCr Alloy",
+		"ru": "Структура ионно-плазменных покрытий из высокоэнтропийного сплава AlFeNiCoCuCr"
+	},
+	"abstract": {
+		"ua": "В роботі розглянуто вплив швидкостей нагріву й охолодження матеріялів підкладинки з міді та неіржавійної сталі на структуру йонно-плазмових покриттів, одержаних методою КІБ — осадження продуктів дугового розпорошення катоди, виготовленої механічним способом зі зливка високоентропійного стопу AlCuCoFeNiCr еквіатомового складу. Структуру матеріялу катоди та покриттів досліджували за допомогою оптичної й електронної мікроскопій, а також рентґенівської дифрактометрії. Встановлено, що одержані покриття, на відміну від структури катоди не містять дендритів, а представлені зернами різної дисперсности, що є результатом не тільки різних температур нагрівання підкладинок, але й швидкостей охолодження конденсованих на них продуктів. Показано, що покриття, нанесене на неіржавійну сталь, складається із зон міжкрапельного простору, що мають нанорозмірну структуру (2,5–15 нм) з ОЦК-кристалічною ґратницею, і ділянок падіння крапель, де зерна мають розміри в інтервалі 15–50 нм і містять численні фази різного ступеня досконалости. У покриттях на міді виявлено більші зерна (150–350 нм) і значно меншу кількість стабільних фаз з більш досконалою структурою.",
+		"en": "The influence of the substrates’ material from copper and stainless steel on the structure of ion-plasma coatings (IPCs) obtained by CIB-method—deposition of cathode arc-spraying products fabricated mechanically from the ingot of high-entropy alloy (HEA) AlCuCoFeNiCr with equiatomic composition is considered. The structures of the cathode material and the coatings are investigated by means of the optical and electron microscopies as well as x-ray diffractometry. As determined, the obtained coatings, in contrast to the structure of the cathode, do not contain dendrites, and their structure is represented by grains of different dispersity, which results from not only of different temperatures of substrate heating, but also of the cooling rate of condensed products. As shown, the coating deposited to stainless steel consists of both interdrop zones having a nanoscale structure (2.5–15 nm) with a b.c.c. crystal lattice and zones within the droplets where the grains have dimensions in the range of 15–50 nm and contain multiple phases of varying perfection degrees. In coatings on copper, the larger grains (150–350 nm) and a significantly smaller number of stable phases with a more perfect structure are revealed.",
+		"ru": "В работе рассмотрено влияние скоростей нагрева и охлаждения материалов подложек из меди и нержавеющей стали на структуру ионно-плазменных покрытий, полученных методом КИБ — осаждения продуктов дугового распыления катода, изготовленного механическим способом из слитка высокоэнтропийного сплава AlCuCoFeNiCr эквиатомного состава. Структуру материала катода и покрытий исследовали с помощью оптической и электронной микроскопий, а также рентгеновской дифрактометрии. Установлено, что полученные покрытия, в отличие от структуры катода, не содержат дендритов, а представлены зёрнами различной дисперсности, что является результатом не только отличающихся температур нагрева подложек, но и скоростей охлаждения конденсированных на них продуктов. Показано, что покрытие, нанесённое на нержавеющую сталь, состоит из зон межкапельных пространств, имеющих наноразмерную структуру (2,5–15 нм) с ОЦК-кристаллической решёткой, и участков падения капель, имеющих зёренную структуру с размерами 15–50 нм, содержащую многочисленные дисперсные фазы различной степени совершенства. В покрытиях на меди обнаружены более крупные зёрна (150–350 нм) и значительно меньшее количество стабильных фаз с более совершенной структурой."
+	},
+	"keywords": {
+		"ua": "високоентропійний стоп, йонно-плазмове покриття, електронна мікроскопія",
+		"en": "high-entropy alloy, ion-plasma coating, electron microscopy",
+		"ru": "высокоэнтропийный сплав, ионно-плазменное покрытие, электронная микроскопия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. М. Надутов", "en": "V. M. Nadutov", "ru": "В. М. Надутов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "П. Ю. Волосевич", "en": "P. Yu. Volosevich", "ru": "П. Ю. Волосевич"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. В. Прошак", "en": "A. V. Proshak", "ru": "А. В. Прошак"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. Є. Панарін", "en": "V. E. Panarin", "ru": "В. Е. Панарин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. Є. Свавільний", "en": "M. E. Svavil’nyy", "ru": "Н. Е. Свавильный"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 19,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "S. Ranganathan, Current Science, 85, Iss. 10: 1404 (2003).",
+				"tr":  "S. Ranganathan, Current Science, 85, Iss. 10: 1404 (2003)."
+			},
+			{
+				"doi": "10.1002/adem.200300567",
+				"or":  "J.-W. Yeh, S. K. Chen, S. J. Lin, J. Y. Gan, T. S. Chin, T. T. Shun, C. H. Tsau, and S. Y. Chang, Adv. Eng. Mater., 6: 299 (2004).",
+				"tr":  "J.-W. Yeh, S. K. Chen, S. J. Lin, J. Y. Gan, T. S. Chin, T. T. Shun, C. H. Tsau, and S. Y. Chang, Adv. Eng. Mater., 6: 299 (2004)."
+			},
+			{
+				"doi": "10.1016/j.matlet.2006.03.140",
+				"or":  "Ch.-Ch. Tung, J.-W. Yeh, T.-T. Shun, S.-K. Chen, Yu.-Sh. Huang, and H.-Ch. Chen, Materials Letters, 61: 1 (2007).",
+				"tr":  "Ch.-Ch. Tung, J.-W. Yeh, T.-T. Shun, S.-K. Chen, Yu.-Sh. Huang, and H.-Ch. Chen, Materials Letters, 61: 1 (2007)."
+			},
+			{
+				"doi": "10.1007/s11661-005-0283-0",
+				"or":  "Ch.-J. Tong, Yu-L. Chen, J.-W. Yeh, S.-J. Lin, S.-K. Chen, T.-T. Shun, Ch.-H. Tsau, and Sh.-Yu Chang, Metallurgical and Materials Transactions A, 36: 881 (2005).",
+				"tr":  "Ch.-J. Tong, Yu-L. Chen, J.-W. Yeh, S.-J. Lin, S.-K. Chen, T.-T. Shun, Ch.-H. Tsau, and Sh.-Yu Chang, Metallurgical and Materials Transactions A, 36: 881 (2005)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2010.09.023",
+				"or":  "S. Singh, N. Wanderka, B. S. Murty, U. Glatzel, and J. Banhart, Acta Materialia, 59: 182 (2011).",
+				"tr":  "S. Singh, N. Wanderka, B. S. Murty, U. Glatzel, and J. Banhart, Acta Materialia, 59: 182 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "M. V. Ivchenko, V. G. Pushin, and N. Wanderka, Technical Physics, 84: 57 (2014) (in Russian).",
+				"tr":  "M. V. Ivchenko, V. G. Pushin, and N. Wanderka, Technical Physics, 84: 57 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.7868/S0015323013060053",
+				"or":  "M. V. Ivchenko, V. G. Pushin, A. N. Uksusnikov, and N. Wanderka, Fiz. Met. Metalloved., 114, No. 6: 549 (2013) (in Russian).",
+				"tr":  "M. V. Ivchenko, V. G. Pushin, A. N. Uksusnikov, and N. Wanderka, Fiz. Met. Metalloved., 114, No. 6: 549 (2013) (in Russian)."
+			},
+			{
+				"doi": "10.1007/s11661-005-0218-9",
+				"or":  "Ch.-J. Tong, Yu-L. Chen, S.-K. Chen, J.-W. Yeh, T.-T. Shun, Ch.-H. Tsau, Su-J. Lin, and Sh.-Yu Chang, Metallurgical and Materials Transactions A, 36: 1263 (2005).",
+				"tr":  "Ch.-J. Tong, Yu-L. Chen, S.-K. Chen, J.-W. Yeh, T.-T. Shun, Ch.-H. Tsau, Su-J. Lin, and Sh.-Yu Chang, Metallurgical and Materials Transactions A, 36: 1263 (2005)."
+			},
+			{
+				"doi": "10.1016/j.wear.2005.12.008",
+				"or":  "J.-M. Wu, Su-J. Lin, J.-W. Yeh, S.-K. Chen, Yu.-Sh. Huang, and H.-Ch. Chen, Wear, 261: 513 (2006).",
+				"tr":  "J.-M. Wu, Su-J. Lin, J.-W. Yeh, S.-K. Chen, Yu.-Sh. Huang, and H.-Ch. Chen, Wear, 261: 513 (2006)."
+			},
+			{
+				"doi": "10.1002/adem.200900057",
+				"or":  "Y. P. Wang, B. S. Li, and H. Z. Fu, Adv. Eng. Mater., 11, No. 8: 641 (2009).",
+				"tr":  "Y. P. Wang, B. S. Li, and H. Z. Fu, Adv. Eng. Mater., 11, No. 8: 641 (2009)."
+			},
+			{
+				"doi": "10.7868/S0015323013060065",
+				"or":  "M. V. Ivchenko, V. G. Pushin, A. N. Uksusnikov, and N. Wanderka, Fiz. Met. Metalloved., 114, No. 6: 561 (2013) (in Russian).",
+				"tr":  "M. V. Ivchenko, V. G. Pushin, A. N. Uksusnikov, and N. Wanderka, Fiz. Met. Metalloved., 114, No. 6: 561 (2013) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.36.10.1327",
+				"or":  "V. M. Nadutov, S. Yu. Makarenko, P. Yu. Volosevych, and V. P. Zalutskii, Metallofiz. Noveishie Tekhnol., 36, No. 10: 1327 (2014) (in Russian).",
+				"tr":  "V. M. Nadutov, S. Yu. Makarenko, P. Yu. Volosevych, and V. P. Zalutskii, Metallofiz. Noveishie Tekhnol., 36, No. 10: 1327 (2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Surinphong, Electromechanical Technician, 18: 197 (1998) (in Thai).",
+				"tr":  "S. Surinphong, Electromechanical Technician, 18: 197 (1998) (in Thai)."
+			},
+			{
+				"doi": "",
+				"or":  "G. F. Ivanovsky and V. I. Petrov, Ion-Plasma Treatment of Materials (Moscow: Radio i Svyaz’: 1986) (in Russian).",
+				"tr":  "G. F. Ivanovsky and V. I. Petrov, Ion-Plasma Treatment of Materials (Moscow: Radio i Svyaz': 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "R. A. Young, The Rietveld Method (Oxford: Oxford University Press: 1993).",
+				"tr":  "R. A. Young, The Rietveld Method (Oxford: Oxford University Press: 1993)."
+			},
+			{
+				"doi": "",
+				"or":  "JCPDS-International Centre for Diffraction data 1997 (Al7Cu4Ni-280016; Cu9Al4-240003; Cr–Ni–Fe-180388, 351375; Al-040778; Cu-040836; Co-150806; Fe-060696; Ni-040850; Cr-060694; Al5Co2-031080; NiAl-441188; AlFe-330020).",
+				"tr":  "JCPDS-International Centre for Diffraction data 1997 (Al7Cu4Ni-280016; Cu9Al4-240003; Cr–Ni–Fe-180388, 351375; Al-040778; Cu-040836; Co-150806; Fe-060696; Ni-040850; Cr-060694; Al5Co2-031080; NiAl-441188; AlFe-330020)."
+			},
+			{
+				"doi": "10.7868/S0015323015030092",
+				"or":  "V. M. Nadutov, S. Yu. Makarenko, and P. Yu. Volosevich, Fiz. Met. Metalloved., 116, No. 5: 467 (2015) (in Russian).",
+				"tr":  "V. M. Nadutov, S. Yu. Makarenko, and P. Yu. Volosevich, Fiz. Met. Metalloved., 116, No. 5: 467 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. M. Nadutov, A. V. Proshak, S. Y. Makarenko, V. Y. Panarin, and M. Y. Svavil’nyj, Mater. Sci. Eng. Technol., 47, Iss. 2–3: 272 (2016).",
+				"tr":  "V. M. Nadutov, A. V. Proshak, S. Y. Makarenko, V. Y. Panarin, and M. Y. Svavil'nyj, Mater. Sci. Eng. Technol., 47, Iss. 2–3: 272 (2016)."
+			},
+			{
+				"doi": "10.1007/978-3-319-27013-5",
+				"or":  "High-Entropy Alloys: Fundamentals and Applications (Eds. M. C. Gao, J.-W. Yeh, P. K. Liaw, and Y. Zhang) (Switzerland: Springer International Publishing: 2016).",
+				"tr":  "High-Entropy Alloys: Fundamentals and Applications (Eds. M. C. Gao, J.-W. Yeh, P. K. Liaw, and Y. Zhang) (Switzerland: Springer International Publishing: 2016)."
+			}
+		]
+	}
+}

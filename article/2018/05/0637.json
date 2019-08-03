@@ -1,0 +1,116 @@
+{
+	"_id":    "MFiNT.40.05.0637",
+	"year":   2018,
+	"volume": 40,
+	"issue":  5,
+	"pages":  [637,648],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["18.03.2018"],
+	"PACS":   "61.05.cp, 81.05.Je, 81.07.Bc, 81.07.De, 81.07.Wx, 81.20.Ev",
+	"title":   {
+		"ua": "Синтеза карбідів WC та Mo$_2$C механічним стопленням металевого порошку та вуглецевих нанотрубок",
+		"en": "Synthesis of the WC and Mo$_2$C Carbides by Mechanical Alloying of Metal Powder and Carbon Nanotubes",
+		"ru": "Синтез карбидов WC и Mo$_2$C механическим сплавлением металлического порошка и углеродных нанотрубок"
+	},
+	"abstract": {
+		"ua": "Механохемічною методою у високоенергетичному планетарному кульовому млині з порошків металів (розмір частинок — близько 40 мкм, чистота не нижче 99,6% мас.) і вуглецевих нанотрубок (ВНТ, середній діяметер — 10–20 нм) вперше синтезовано нанорозмірні карбіди WC та Mo$_2$C. Дослідження характеру взаємодії компонентів шихти в процесі її оброблення в млині проведено на тестових зразках (відбір продуктів синтези — через кожні 1–2 години) з використанням комплексу рентґенівських методик, а саме: повнопрофільної аналізи для первинного оброблення дифрактограм, одержаних на апараті ДРОН-3М; якісної та кількісної фазової аналізи для визначення фазового складу продуктів синтези; рентґеноструктурної аналізи для перевірки й уточнення структурних моделів; методики Вільямсона–Голла для визначення розмірів зерен синтезованих карбідів і мікроспотворень їхньої кристалічної ґратниці. В результаті показано, що вже після чотирьох годин оброблення шихти продуктами синтези є високотемпературні карбіди W$_2$C і Mo$_2$C, кристалічна структура яких належить до структурного типу $\\zeta$-Fe$_2$N із вакансіями в підґратниці металу. Подальше розмелювання суміші W–ВНТ (до 10 годин) супроводжується перетворенням W$_2$C + ВНТ $\\to$ WC, а розмелювання суміші Mo–ВНТ приводить до її дисперґування. Середній розмір зерна WC на кінцевій стадії оброблення складає $\\approx$ 4 нм, а Mo$_2$C — близько 12 нм, що свідчить про нанорозмірність синтезованих карбідів. Розглянуто вплив ВНТ на характер взаємодії компонентів шихти та показано, що механохемічна синтеза W/Mo–ВНТ є високоефективною методою одержання карбідів WC і Mo$_2$C, які завдяки їх унікальним механічним характеристикам (високій твердості, зносостійкості та міцності) є основними леґувальними компонентами металевих стопів, що широко використовуються в металообробленні та інших галузях промисловости.",
+		"en": "Nanoscale WC and Mo$_2$C carbides are synthesized from the elemental metal powder (with particle size of about 40 $\\mu$m; purity is not less than 99.6% wt.) and the carbon nanotubes (CNTs, with average diameter of 10–20 nm) by mechanical alloying in a high-energy planetary ball mill for the first time. Nature of interaction of the charge components at processing in a ball mill is studied on test samples (selected at each 1–2 hours of synthesis) using a complex of x-ray techniques. These techniques include: a full-profile analysis for the primary processing of diffractograms obtained with DRON-3M apparatus; qualitative and quantitative phase analysis for determining the phase composition of the products of synthesis; x-ray structural analysis to verify and refine the structural models; Williamson–Hall method for determining the grain sizes of synthesized carbides and microdistortions of their crystal lattice. Four hours of charge processing result in a formation of the high-temperature W$_2$C and Mo$_2$C carbides, the crystal structure of which is related to the $\\zeta$-Fe$_2$N structure type with vacancies within the metal sublattice. Further milling of W–CNT mixture (up to 10 hours) is accompanied by the W$_2$C + CNT $\\to$ WC transformation, while processing of the Mo–CNT mixture leads to its dispersion. The effect of CNTs on mechanochemical synthesis of the WC and Mo$_2$C carbides is considered. As shown, the mechanical alloying of W/Mo–CNT is a highly effective method for the fabrication of the WC and Mo$_2$C carbides. Due to their unique mechanical characteristics (high hardness, wear resistance, and strength), these materials are widely used in making materials for the abrasive and metal cutting tools.",
+		"ru": "Механохимическим методом в высокоэнергетической планетарной шаровой мельнице из порошков металлов (размер частиц — около 40 мкм, чистота не ниже 99,6% вес.) и углеродных нанотрубок (УНТ, средний диаметр — 10–20 нм) впервые синтезированы наноразмерные карбиды WC и Mo$_2$C. Исследование характера взаимодействия компонентов шихты в процессе её обработки в мельнице проведено на тестовых образцах (отбор продуктов синтеза — через каждые 1–2 часа) с использованием комплекса рентгеновских методик, а именно: полнопрофильного анализа для первичной обработки дифрактограмм, полученных на аппарате ДРОН-3М; качественного и количественного фазового анализа для определения фазового состава продуктов синтеза; рентгеноструктурного анализа для проверки и уточнения структурных моделей; методики Вильямсона–Холла для определения размеров зёрен синтезированных карбидов и микроискажений их кристаллической решётки. В результате показано, что уже после четырёх часов обработки шихты продуктами синтеза являются высокотемпературные карбиды W$_2$C и Mo$_2$C, кристаллическая структура которых отнесена к структурному типу $\\zeta$-Fe$_2$N с вакансиями в подрешётке металла. Дальнейший размол смеси W–УНТ (до 10 часов) сопровождается превращением W$_2$C + УНТ $\\to$ WC, а размол смеси Mo–УНТ приводит к её диспергированию. Средний размер зерна WC на конечной стадии обработки составляет $\\approx$ 4 нм, а Mo$_2$C — около 12 нм, что свидетельствует о наноразмерности синтезированных карбидов. Рассмотрено влияние УНТ на характер взаимодействия компонентов шихты и показано, что механохимический синтез W/Mo–УНТ является высокоэффективным методом получения карбидов WC и Mo$_2$C, которые благодаря их уникальным механическим характеристикам (высокой твёрдости, износостойкости и прочности) являются основными легирующими компонентами металлических сплавов, широко используемых в металлообработке и других областях промышленности."
+	},
+	"keywords": {
+		"ua": "вуглецева нанотрубка, нанокомпозит, механохемічна синтеза, рентґенівська дифракція",
+		"en": "carbon nanotube, nanocomposite, mechanical alloying, x-ray diffraction",
+		"ru": "углеродная нанотрубка, нанокомпозит, механохимический синтез, рентгеновская дифракция"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. І. Наконечна", "en": "O. Nakonechna", "ru": "О. И. Наконечная"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "М. М. Дашевський", "en": "M. Dashevskyi", "ru": "Н. Н. Дашевский"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "Н. М. Білявина", "en": "N. Belyavina", "ru": "Н. Н. Белявина"},
+			"OID": [201]
+		}
+	],
+	"references": {
+		"count": 14,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Transition Metal Carbides and Nitrides (Ed. L. E. Toth) (New York: Academic Press: 1971).",
+				"tr":  "Transition Metal Carbides and Nitrides (Ed. L. E. Toth) (New York: Academic Press: 1971)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Sherif El-Eskandarany, Mechanical Alloying: Nanotechnology, Materials Science and Powder Metallurgy (Oxford: William Andrew: 2015).",
+				"tr":  "M. Sherif El-Eskandarany, Mechanical Alloying: Nanotechnology, Materials Science and Powder Metallurgy (Oxford: William Andrew: 2015)."
+			},
+			{
+				"doi": "10.1016/S0079-6425(99)00010-9",
+				"or":  "C. Suryanarayana, Progr. Mater. Sci., 46, No. 1: 1 (2001).",
+				"tr":  "C. Suryanarayana, Progr. Mater. Sci., 46, No. 1: 1 (2001)."
+			},
+			{
+				"doi": "10.1016/j.pmatsci.2012.10.001",
+				"or":  "C. Suryanarayana and N. Al-Aqeeli, Progr. Mater. Sci., 58: 383 (2013).",
+				"tr":  "C. Suryanarayana and N. Al-Aqeeli, Progr. Mater. Sci., 58: 383 (2013)."
+			},
+			{
+				"doi": "10.1023/A:1018501916988",
+				"or":  "G. M. Wang, S. J. Campbell, A. Calka, and W. A. Kaczmarek, J. Materials Sci., 32, No. 6: 1461 (1997).",
+				"tr":  "G. M. Wang, S. J. Campbell, A. Calka, and W. A. Kaczmarek, J. Materials Sci., 32, No. 6: 1461 (1997)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(00)01155-5",
+				"or":  "M. Sherif El-Eskandarany, A. A. Mahday, H. A. Ahmed, and A. H. Amer, J. Alloys Compd., 312, Nos. 1–2: 315 (2000).",
+				"tr":  "M. Sherif El-Eskandarany, A. A. Mahday, H. A. Ahmed, and A. H. Amer, J. Alloys Compd., 312, Nos. 1–2: 315 (2000)."
+			},
+			{
+				"doi": "10.1016/j.apt.2016.12.026",
+				"or":  "O. Boshko, O. Nakonechna, N. Belyavina, M. Dashevskyi, and S. Revo, Adv. Powder Technol., 28, No. 3: 964 (2017).",
+				"tr":  "O. Boshko, O. Nakonechna, N. Belyavina, M. Dashevskyi, and S. Revo, Adv. Powder Technol., 28, No. 3: 964 (2017)."
+			},
+			{
+				"doi": "",
+				"or":  "V. K. Pecharsky and P. Y. Zavalij, Fundamentals of Powder Diffraction and Structural Characterization of Materials (New York: Springer: 2009).",
+				"tr":  "V. K. Pecharsky and P. Y. Zavalij, Fundamentals of Powder Diffraction and Structural Characterization of Materials (New York: Springer: 2009)."
+			},
+			{
+				"doi": "10.15407/mfint.39.04.0541",
+				"or":  "M. Dashevskyi, O. Boshko, O. Nakonechna, and N. Belyavina, Metallofiz. Noveishie Tekhnol., 39, No. 4: 541 (2017) (in Ukrainian).",
+				"tr":  "M. Dashevskyi, O. Boshko, O. Nakonechna, and N. Belyavina, Metallofiz. Noveishie Tekhnol., 39, No. 4: 541 (2017) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/0001-6160(53)90006-6",
+				"or":  "G. K. Williamson and W. H. Hall, Acta Metallurgica, 1, No. 1: 22 (1953).",
+				"tr":  "G. K. Williamson and W. H. Hall, Acta Metallurgica, 1, No. 1: 22 (1953)."
+			},
+			{
+				"doi": "10.1007/s11669-008-9396-7",
+				"or":  "H. Okamoto, J. Phase Equilibria and Diffusion, 29, No. 6: 543 (2008).",
+				"tr":  "H. Okamoto, J. Phase Equilibria and Diffusion, 29, No. 6: 543 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "Binary Alloy Phase Diagrams (Ed. T. B. Massalski) (Materials Park, Ohio: ASM International: 1990), vol. 1, p. 861.",
+				"tr":  "Binary Alloy Phase Diagrams (Ed. T. B. Massalski) (Materials Park, Ohio: ASM International: 1990), vol. 1, p. 861."
+			},
+			{
+				"doi": "",
+				"or":  "N. P. Lyakishev, Fazovye Diagrammy Binarnykh Metallicheskikh Sistem [Phase Diagrams of Binary Metallic Systems] (Moscow: Mashinostroenie: 1996), vol. 1, p. 992 (in Russian).",
+				"tr":  "N. P. Lyakishev, Fazovye Diagrammy Binarnykh Metallicheskikh Sistem [Phase Diagrams of Binary Metallic Systems] (Moscow: Mashinostroenie: 1996), vol. 1, p. 992 (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0008-6223(98)00218-8",
+				"or":  "Y. B. Li, B. Q. Wei, J. Liang, Q. Yu, and D. H. Wu, Carbon, 37: 493 (1999).",
+				"tr":  "Y. B. Li, B. Q. Wei, J. Liang, Q. Yu, and D. H. Wu, Carbon, 37: 493 (1999)."
+			}
+		]
+	}
+}

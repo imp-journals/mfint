@@ -1,0 +1,177 @@
+{
+	"_id":    "MFiNT.39.04.0525",
+	"year":   2017,
+	"volume": 39,
+	"issue":  4,
+	"pages":  [525,539],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["29.12.2016"],
+	"PACS":   "43.35.+d, 61.43.Gt, 68.55.Nq, 75.50.Tt, 81.07.Wx, 81.20.Ev, 81.40.Rs",
+	"title":   {
+		"ua": "Структура та магнетні властивості нанопорошків Cu–Co і Cu–Fe, одержаних в ультразвуковому млині",
+		"en": "Structure and Magnetic Properties of the Cu–Co and Cu–Fe Nanopowders Obtained in Ultrasonic Ball Mill",
+		"ru": "Структура и магнитные свойства нанопорошков Cu–Co и Cu–Fe, полученных в ультразвуковой мельнице"
+	},
+	"abstract": {
+		"ua": "Методами рентґеноструктурної аналізи, електронної мікроскопії, Мессбаверової спектроскопії та магнетометрії досліджено структуру, фазовий склад, дисперсність та магнетні властивості нанопорошків міді із залізом та кобальтом, одержаних методою механоактиваційного оброблення (МАО) в кульовому ультразвуковому млині з накладанням магнетного поля. Показано, що в процесі МАО в порошковій суміші (ПС) Cu + Co формується одна кристалічна ГЦК-фаза — пересичений твердий розчин мідь–залізо, а в ПС Cu + Fe — дві кристалічні фази: ГЦК-пересичений твердий розчин заліза в міді та ОЦК-пересичений твердий розчин міді в залізі. МАО в ультразвуковому млині спричиняє значне подрібнення структури до нанометрового розміру (до 40 нм) та підвищення густини дислокацій до рівня 10$^{12}$–10$^{13}$ см$^{-2}$. Збільшення тривалости оброблення більше 20 годин приводить до насичення нанопорошків киснем та утворення значної кількости оксидів, що сприяє подрібненню структури, але знижує втричі намагнетованість насичення нанопорошку системи Cu–Fe, хоча практично не впливає на намагнетованість насичення нанопорошку системи Cu–Co.",
+		"en": "The structure, phase composition, dispersion and magnetic properties of nanopowders containing blends of copper with iron and cobalt obtained by mechanical milling in ultrasonic ball mill (ultrasonic milling) under applied magnetic field are studied by means of the x-ray analysis, electron microscopy, Mössbauer spectroscopy methods and magnetometry. As shown, during ultrasonic milling, the next phases are appeared: one crystalline f.c.c. phase is formed in the Cu + Co powder blends (PB)—the oversaturated copper–cobalt solid solution; two crystalline f.c.c. and b.c.c. phases in the Cu + Fe PB are formed, $i.e.$ oversaturated solid solutions of iron in copper or of copper in iron. Ball milling in ultrasonic ball mill leads to essential structure refinement up to nanometres’ sizes (up to 40 nm) and to increasing in dislocation density up to the level of 10$^{12}$–10$^{13}$ cm$^{-2}$. Increasing of the treatment time over 20 hours leads to saturation of PB with oxygen and to formation of considerable quantity of oxides that makes for structure dispersion but decreases threefold the saturation magnetization of Cu–Fe nanopowders, while in essence, does not impact on the magnetization of Cu–Co nanopowders.",
+		"ru": "Методами рентгеноструктурного анализа, электронной микроскопии, мёссбауэровской спектроскопии и магнитометрии исследованы структура, фазовый состав, дисперсность и магнитные свойства нанопорошков меди с железом и кобальтом, полученных методом механоактивационной обработки (МАО) в шаровой ультразвуковой мельнице с наложением магнитного поля. Показано, что в процессе МАО в порошковой смеси (ПС) Cu + Co формируется одна кристаллическая ГЦК-фаза — пересыщенный твёрдый раствор медь–кобальт, а в ПС Cu + Fe — две кристаллические фазы: ГЦК-пересыщенный твёрдый раствор железа в меди и ОЦК-пересыщенный твёрдый раствор меди в железе. МАО в ультразвуковой мельнице приводит к значительному измельчению структуры до нанометрового размера (до 40 нм) и повышению плотности дислокаций до уровня 10$^{12}$–10$^{13}$ см$^{-2}$. Увеличение длительности обработки свыше 20 часов приводит к насыщению нанопорошков кислородом и образованию значительного количества оксидов, что способствует измельчению структуры, однако снижает в три раза намагниченность насыщения нанопорошка системы Cu–Fe, хотя практически не влияет на намагниченность нанопорошка Cu–Co."
+	},
+	"keywords": {
+		"ua": "ультразвукове розмелювання, нанодисперсні порошки Cu–Co і Cu–Fe, оксиди металів, структура, намагнетованість, Мессбаверова спектроскопія",
+		"en": "ultrasonic milling, nanodispersed Cu–Co and Cu–Fe powders, metal oxides, structure, magnetisation, Mössbauer spectroscopy",
+		"ru": "ультразвуковое размалывание, нанодисперсные порошки Cu–Co и Cu–Fe, оксиды металлов, структура, намагниченность, мёссбауэровская спектроскопия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. М. Надутов", "en": "V. M. Nadutov", "ru": "В. М. Надутов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. О. Перекос", "en": "A. Ye. Perekos", "ru": "А. Е. Перекос"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Б. М. Мордюк", "en": "B. N. Mordyuk", "ru": "Б. Н. Мордюк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. З. Войнаш", "en": "V. Z. Voynash", "ru": "В. З. Войнаш"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. П. Залуцький", "en": "V. P. Zalutskyi", "ru": "В. П. Залуцкий"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Н. О. Піскун", "en": "N. A. Piskun", "ru": "Н. А. Пискун"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Т. Г. Кабанцев", "en": "T. G. Kabantsev", "ru": "Т. Г. Кабанцев"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 23,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "K. Uenishi, K. F. Kabayashi, S. Nasu, H. Hatano, K. N. Ishihara, and P. H. Shingu, Z. Metallkd., 83, 2: 132 (1992).",
+				"tr":  "K. Uenishi, K. F. Kabayashi, S. Nasu, H. Hatano, K. N. Ishihara, and P. H. Shingu, Z. Metallkd., 83, 2: 132 (1992)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.68.2235",
+				"or":  "A. R. Yavari, P. J. Desre, and T. Benameur, Phys. Rev. Lett., 68, No. 14: 2235 (1992).",
+				"tr":  "A. R. Yavari, P. J. Desre, and T. Benameur, Phys. Rev. Lett., 68, No. 14: 2235 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Г. Чернышев, В. П. Пилюгин, А. М. Пацелов, В. В. Сериков, Н. М. Клейнерман, ФММ, 92, № 2: 80 (2001).",
+				"tr":  "E. G. Chernishev, V. P. Pilyugin, A. M. Patselov, V. V. Serikov, and N. M. Kleinerman, Fiz. Met. Metalloved., 92, No. 2: 80 (2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Чердынцев, С. Д. Калошкин, В.Н. Сердюков, И. А. Томилин, Е. В. Шелехов, Ю. В. Балдохин, ФММ, 95, № 4: 33 (2003).",
+				"tr":  "V. V. Cherdintsev, S. D. Kaloshkin, V. N. Serdyukov, I. A. Tomilin, E. V. Shelekhov, and Yu. V. Baldokhin, Fiz. Met. Metalloved., 95, No. 4: 33 (2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. С. Исхаков, Л. А. Кузовникова, С. В. Комогорцев, Е. А. Денисова, А. Д. Балаев, В. К. Мальцев, Г. Н. Бондаренко, Письма в ЖТФ, 30, № 2: 43 (2004).",
+				"tr":  "R. S. Iskhakov, L. A. Kuzovnikova, S. V. Komogortsev, E. A. Denisova, A. D. Balaev, V. K. Maltsev, and G. N. Bondarenko, Pisma v ZhTF, 30, No. 2: 43 (2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. С. Исхаков, Л. А. Кузовникова, С. В. Комогорцев, Е. А. Денисова, В. К. Мальцев, Г. Н. Бондаренко, Химия в интересах устойчивого развития, 13: 209 (2005).",
+				"tr":  "R. S. Iskhakov, L. A. Kuzovnikova, S. V. Komogortsev et al., Khimiya v Interesakh Ustoychivogo Razvitiya, 13: 209 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Д. Калошкин, И. А. Томилин, Е. В. Шелехов, В. В. Чердынцев, Г. А. Андрианов, Ю. В. Балдохин, ФММ, 84, № 3: 68 (1997).",
+				"tr":  "S. D. Kaloshkin, I. A. Tomilin, E. V. Shelekhov, V. V. Cherdintsev, G. A. Andrianov, and Yu. V. Baldokhin, Fiz. Met. Metalloved., 84, No. 3: 68 (1997) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. С. Исхаков, Л. А. Кузовникова, Е. А. Денисова, С. В. Комогорцев, А. Д. Балаев, ФММ, 107, № 5: 513 (2009).",
+				"tr":  "R. S. Iskhakov, L. A. Kuzovnikova, E. A. Denisova, S. V. Komogortsev, and A. D. Balaev, Fiz. Met. Metalloved., 107, No. 5: 513 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Барабаш, Ю. Н. Коваль, Кристаллическая структура металлов и сплавов (Киев: Наукова думка: 1986).",
+				"tr":  "O. M. Barabash and Yu. N. Koval, Kristallicheskaya Struktura Metallov i Splavov [Crystalline Structure of Metals and Alloys] (Kiev: Naukova Dumka:1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. И. Прокопенко, А. Е. Перекос, Б. Н. Мордюк, Т. В. Ружицкая, Т. В. Ефимова, Н. А. Пискун, Т. Л. Сизова, Металлофиз. новейшие технол., 28, № 10: 1359 (2006).",
+				"tr":  "G. I. Prokopenko, A. O. Perekos, B. M. Mordyuk, T. V. Ruzhytska, T. V. Yefimova, N. O. Piskun, and T. L. Sizova, Metallofiz. Noveishie Tekhnol., 28, No. 10: 1359 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. И. Прокопенко, К. В. Чуистов, А. В. Козлов, А. Е. Перекос, Б. Н. Мордюк, Т. В. Ефимова, В. П. Залуцкий, Н. А. Пискун, Т. В. Ружицкая, Металлофиз. новейшие технол., 25, № 2: 171 (2003).",
+				"tr":  "G. I. Prokopenko, K. V. Chuistov, O. V. Kozlov, A. Ye. Perekos, B. M. Mordyuk, T. V. Efimova, V. P. Zalutskii, N. A. Piskun, and T. V. Ruzhitska, Metallofiz. Noveishie Tekhnol., 25, No. 2: 171 (2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Е. Перекос, Б. Н. Мордюк, Г. И. Прокопенко, Т. В. Ружицкая, Т. В. Ефимова, В. П. Залуцкий, Я. Д. Король, Металлофиз. новейшие технол., 30, № 10: 1413 (2008).",
+				"tr":  "A. O. Perekos, B. M. Mordyuk, G. I. Prokopenko, T. V. Ruzhyts'ka, T. V. Efimova, V. P. Zaluts'ky, and Ya. D. Korol', Metallofiz. Noveishie Tekhnol., 30, No. 10: 1413 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Е. Перекос, Б. Н. Мордюк, Г. И. Прокопенко, Т. В. Ружицкая, Т. В. Ефимова, В. П. Залуцкий, Н. Д. Рудь, Металлофиз. новейшие технол., 30, № 12: 1619 (2008).",
+				"tr":  "A. O. Perekos, G. I. Prokopenko, B. N. Mordyuk, T. V. Ruzhitska, T. V. Efimova, V. P. Zalutskyi, and N. D. Rud', Metallofiz. Noveishie Technol., 30, No. 12: 1619 (2008) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.ultras.2004.01.002",
+				"or":  "V. M. Nadutov, B. N. Mordyuk, G. I. Prokopenko, and I. S. Gavrilenko, Ultrasonics, 42: 47 (2004).",
+				"tr":  "V. M. Nadutov, B. N. Mordyuk, G. I. Prokopenko, and I. S. Gavrilenko, Ultrasonics, 42: 47 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Иверонова, Г. П. Ревкевич, Теория рассеяния рентгеновских лучей (Москва: Изд-во МГУ: 1972).",
+				"tr":  "V. I. Iveronova and G. P. Revkevich, Teoriya Rasseyaniya Rentgenovskikh Luchey [Theory of X-Rays Scattering] (Moscow: MGU Publishing: 1972) (in Russian)."
+			},
+			{
+				"doi": "10.1080/01418639708241131",
+				"or":  "F. Delogu, M. Pintoref, S. Enzott, F. Cardellini, V. Contini, A. Montone, and V. Rosato, Philos. Mag. B, 76, No. 4: 651 (1997).",
+				"tr":  "F. Delogu, M. Pintoref, S. Enzott, F. Cardellini, V. Contini, A. Montone, and V. Rosato, Philos. Mag. B, 76, No. 4: 651 (1997)."
+			},
+			{
+				"doi": "10.1016/S0921-4526(97)00889-2",
+				"or":  "I. W. Modder, E. Schoonderwaldt, G. F. Zhou, and H. Bakker, Physica B, 245: 363 (1998).",
+				"tr":  "I. W. Modder, E. Schoonderwaldt, G. F. Zhou, and H. Bakker, Physica B, 245: 363 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Azabou, L. Escoda, J. J. Sunol, and M. Khitouni, EPJ Web of Conferences, 29: 00048 (2012).",
+				"tr":  "M. Azabou, L. Escoda, J. J. Sunol, and M. Khitouni, EPJ Web of Conferences, 29: 00048 (2012)."
+			},
+			{
+				"doi": "10.1063/1.353055",
+				"or":  "J. Eckert, J. C. Holzer, C. E. Krill III, and W. L. Johnson, J. Appl. Phys., 73 (6): 2794 (1993).",
+				"tr":  "J. Eckert, J. C. Holzer, C. E. Krill III, and W. L. Johnson, J. Appl. Phys., 73, No. 6: 2794 (1993)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(00)00674-2",
+				"or":  "E. Ma, H. W. Sheng, J. H. He, and P. H. Schilling, Mater. Sci. Eng. A, 286: 48 (2000).",
+				"tr":  "E. Ma, H. W. Sheng, J. H. He, and P. H. Schilling, Mater. Sci. Eng. A, 286: 48 (2000)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2003.08.017",
+				"or":  "M. K. Roy and H. C. Verma, J. Magn. Magn. Mater., 270: 186 (2004).",
+				"tr":  "M. K. Roy and H. C. Verma, J. Magn. Magn. Mater., 270: 186 (2004)."
+			},
+			{
+				"doi": "10.1016/j.electacta.2007.04.054",
+				"or":  "A. Krause, J. Koza, A. Ispas, M. Uhlemann, A. Gebert, and A. Bund, Electrochim. Acta, 52: 6338 (2007).",
+				"tr":  "A. Krause, J. Koza, A. Ispas, M. Uhlemann, A. Gebert, and A. Bund, Electrochim. Acta, 52: 6338 (2007)."
+			},
+			{
+				"doi": "10.1016/0965-9773(95)00088-7",
+				"or":  "F. W. Gayle and F. S. Biancaniello, Nanostruct. Mater., 6: 429 (1995).",
+				"tr":  "F. W. Gayle and F. S. Biancaniello, Nanostruct. Mater., 6: 429 (1995)."
+			}
+		]
+	}
+}

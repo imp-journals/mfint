@@ -1,0 +1,203 @@
+{
+	"_id":    "MFiNT.41.04.0529",
+	"year":   2019,
+	"volume": 41,
+	"issue":  4,
+	"pages":  [529,548],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["11.10.2018"],
+	"PACS":   "68.37.Rt, 68.55.-a, 75.60.Ch, 75.70.Kw, 76.80.+y, 77.80.Dj",
+	"title":   {
+		"ua": "Магнітна мікроструктура епітаксійних плівок LaGa-заміщеного залізо-ітрієвого ґранату",
+		"en": "Magnetic Microstructure of Epitaxial Films of LaGa-Substituted Yttrium Iron Garnet",
+		"ru": "Магнитная микроструктура эпитаксиальных плёнок LaGa-замещённого железо-иттриевого граната"
+	},
+	"abstract": {
+		"ua": "Здійснено аналіз впливу умов росту на магнітну мікроструктуру та параметри напруженого стану епітаксійних плівок LaGa-заміщеного залізо-ітрієвого ґранату (ЗІҐ). Для незаміщеної плівки ЗІҐ/ҐҐҐ доведено наявність двох магнітонееквівалентних тетракоординованих позицій іонів Fe$^{3+}$ з різними значеннями та орієнтаціями ефективних магнітних полів на ядрах, поява яких зумовлена порушенням стехіометрії аніонної підґратниці та входженням в структуру кристалу домішкових атомів з розчину-розплаву в процесі росту. Експериментально отримано кількісні характеристики диполь–дипольної взаємодії між ядрами $^{57}$Fe в структурі ґранату за умови появи в їх ближньому оточенні іонів Ga$^{3+}$ та простежено зміну орієнтації результуючого вектору намагніченості в залежності від величини діамагнітного заміщення. Виявлено, що порівняно вищі значення періоду смугової доменної структури характерні для плівок з відносно вищими значеннями компоненти тензора деформації $\\epsilon_{zz}$ за умови домінування напружень стиску. Встановлено, що ріст періоду доменної структури спостерігається для зразків, вирощених при значеннях ступеня переохолодження $\\Delta T$ = 23–24 К. Запропоновано феноменологічну модель взаємозв’язку напруженого стану плівок та параметрів їх доменної структури.",
+		"en": "The influence of growth conditions to the magnetic microstructure and the parameters of the stress state of LaGa-substituted yttrium iron garnet epitaxial films is analysed. As proved, there are two magnetically non-equivalent tetra-coordinated positions of Fe$^{3+}$ ions with different values and orientations of effective magnetic fields on nuclei for an unsubstituted YIG/GGG film. The appearance of these fields is due to a violation of the anion sublattice stoichiometry and an introduction of impurity atoms into the crystal structure from a melt solution during the growth process. The quantitative characteristics of the dipole-dipole interaction between the $^{57}$Fe nuclei in the garnet structure are obtained experimentally if the Ga$^{3+}$ ions appear in their immediate surroundings. In addition, the change in the orientation of the resulting magnetization vector depending on the magnitude of the diamagnetic substitution is observed. As found, the relatively higher values of period of a stripe domain structure are typical for films with relatively higher values of the component $\\epsilon_{zz}$ of the strain tensor when the compression stresses prevails. As established, the increasing of the domain structure period is observed for samples grown at values of the degree of supercooling of $\\Delta T$ = 23–24 K. The phenomenological model of the interconnection of the stress state of films and the parameters of its domain structure is proposed.",
+		"ru": "Осуществлён анализ влияния условий роста на магнитную микроструктуру и параметры напряжённого состояния эпитаксиальных плёнок LaGa-замещённого железо-иттриевого граната (ЖИГ). Для незамещённой плёнки ЖИГ/ГГГ доказано наличие двух магнитонеэквивалентных тетракоординированных позиций ионов Fe$^{3+}$ с различными значениями и ориентациями эффективных магнитных полей на ядрах, появление которых обусловлено нарушением стехиометрии анионной подрешётки и вхождением в структуру кристалла примесных атомов из раствора-расплава в процессе роста. Экспериментально получены количественные характеристики диполь–дипольного взаимодействия между ядрами $^{57}$Fe в структуре граната при условии появления в их ближнем окружении ионов Ga$^{3+}$ и прослежено изменение ориентации результирующего вектора намагниченности в зависимости от величины диамагнитного замещения. Обнаружено, что сравнительно высокие значения периода полосовой доменной структуры характерны для плёнок с относительно высокими значениями компоненты тензора деформации $\\epsilon_{zz}$ при доминировании напряжений сжатия. Установлено, что рост периода доменной структуры наблюдается для образцов, выращенных при значениях степени переохлаждения $\\Delta T$ = 23–24 К. Предложено феноменологическую модель взаимосвязи напряжённого состояния плёнок и параметров её доменной структуры."
+	},
+	"keywords": {
+		"ua": "епітаксійні плівки, залізо-ітрієвий ґранат, мессбауерівська спектроскопія, магнітно-силова мікроскопія, доменна структура",
+		"en": "epitaxial film, yttrium iron garnet, Mössbauer spectroscopy, magnetic field microscopy, magnetic domain",
+		"ru": "эпитаксиальные плёнки, железо-иттриевый гранат, мёссбауэровская спектроскопия, магнитно-силовая микроскопия, доменная структура"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. О. Коцюбинський", "en": "A. O. Kotsyubynsky", "ru": "А. О. Коцюбинский"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "В. В. Мокляк", "en": "V. V. Moklyak", "ru": "В. В. Мокляк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "І. М. Фодчук", "en": "I. M. Fodchuk", "ru": "И. М. Фодчук"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "В. О. Коцюбинський", "en": "V. O. Kotsyubynsky", "ru": "В. О. Коцюбинский"},
+			"OID": [209]
+		},
+		{
+			"AID": {"ua": "П. М. Литвин", "en": "P. M. Lytvyn", "ru": "П. М. Литвин"},
+			"OID": [20]
+		},
+		{
+			"AID": {"ua": "А. Б. Груб’як", "en": "A. B. Grubyak", "ru": "А. Б. Грубьяк"},
+			"OID": [209]
+		}
+	],
+	"references": {
+		"count": 29,
+		"list":  [
+			{
+				"doi": "10.1002/crat.200310071",
+				"or":  "T. Aichele, A. Lorenz, R. Hergt, and P. Görnert, Cryst. Res. Technol., 38, Nos. 7–8: 575 (2003).",
+				"tr":  "T. Aichele, A. Lorenz, R. Hergt, and P. Görnert, Cryst. Res. Technol., 38, Nos. 7-8: 575 (2003)."
+			},
+			{
+				"doi": "10.1038/nature08876",
+				"or":  "Y. Kajiwara, K. Harii, S. Takahashi, J. Ohe, K. Uchida, M. Mizuguchi, H. Umezawa, H. Kawai, K. Ando, K. Takanashi, S. Maekawa, and E. Saitoh, Nature, 464: 262 (2010).",
+				"tr":  "Y. Kajiwara, K. Harii, S. Takahashi, J. Ohe, K. Uchida, M. Mizuguchi, H. Umezawa, H. Kawai, K. Ando, K. Takanashi, S. Maekawa, and E. Saitoh, Nature, 464: 262 (2010)."
+			},
+			{
+				"doi": "10.1063/1.4926475",
+				"or":  "A. I. Stognij, L. V. Lutsev, V. E. Bursian, and N. N. Novitskii, J. Appl. Phys., 118, No. 2: 023905 (2015).",
+				"tr":  "A. I. Stognij, L. V. Lutsev, V. E. Bursian, and N. N. Novitskii, J. Appl. Phys., 118, No. 2: 023905 (2015)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.89.134404",
+				"or":  "H. Wang, C. Du, P. C. Hammel, and F. Yang, Phys. Rev. B, 89, No. 13: 134404 (2014).",
+				"tr":  "H. Wang, C. Du, P. C. Hammel, and F. Yang, Phys. Rev. B, 89, Iss. 13: 134404 (2014)."
+			},
+			{
+				"doi": "10.1007/BF01600074",
+				"or":  "M. Shone, Circuits, Systems, and Signal Processing, 4, No. 1: 89 (1985).",
+				"tr":  "M. Shone, Circuits, Systems, and Signal Processing, 4, Iss. 1-2: 89 (1985)."
+			},
+			{
+				"doi": "10.1364/AO.55.00B144",
+				"or":  "I. M. Fodchuk, I. I. Gutsuliak, V. V. Dovganiuk, A. O. Kotsyubynskiy, U. Pietsch, N. V. Pashniak, O. Yu. Bonchyk, I. M. Syvorotka, and P. M. Lytvyn, Applied Optics, 55, Iss. 12: B144 (2016).",
+				"tr":  "I. M. Fodchuk, I. I. Gutsuliak, V. V. Dovganiuk, A. O. Kotsyubynskiy, U. Pietsch, N. V. Pashniak, O. Yu. Bonchyk, I. M. Syvorotka, and P. M. Lytvyn, Applied Optics, 55, Iss. 12: B144 (2016)."
+			},
+			{
+				"doi": "10.1016/0022-0248(72)90261-8",
+				"or":  "S. L. Blank and J. W. Nielsen, J. Crystal Growth, 17: 302 (1972).",
+				"tr":  "S. L. Blank and J. W. Nielsen, J. Crystal Growth, 17: 302 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "B. Strocka, P. Holst, and W. Tolksdorf, Philips J. Res., 33, Nos. 3/4: 166 (1978).",
+				"tr":  "B. Strocka, P. Holst, and W. Tolksdorf, Philips J. Res., 33, Nos. 3/4: 166 (1978)."
+			},
+			{
+				"doi": "10.15407/spqeo16.03.246",
+				"or":  "I. M. Fodchuk, I. I. Gutsuliak, R. A. Zaplitniy, S. V. Balovsyak, I. P. Yaremiy, O. Yu. Bonchyk, G. V. Savitskiy, I. M. Syvorotka, and P. M. Lytvyn, Semiconductor Physics, Quantum Electronics and Optoelectronics, 16, No. 3: 246 (2013).",
+				"tr":  "I. M. Fodchuk, I. I. Gutsuliak, R. A. Zaplitniy, S. V. Balovsyak, I. P. Yaremiy, O. Yu. Bonchyk, G. V. Savitskiy, I. M. Syvorotka, and P. M. Lytvyn, Semiconductor Physics, Quantum Electronics and Optoelectronics, 16, No. 3: 246 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Вашковский, Э. Г. Локк, В. И. Щеглов, Физика твёрдого тела, 41, № 11: 2034 (1999).",
+				"tr":  "A. V. Vashkovskiy, E. G. Lokk, and V. I. Shcheglov, Fizika Tverdogo Tela, 41, No. 11: 2034 (1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. К. Остафийчук, В. Д. Федорив, В. О. Коцюбинский, В. М. Пылыпив, В. В. Мокляк, В. В. Каспрук, Металлофиз. новейшие технол., 27, № 6: 765 (2005).",
+				"tr":  "B. K. Ostafijchuk, V. D. Fedoriv, V. O. Kotsyubyns'ky, V. M. Pylypiv, V. V. Moklyak, and V. V Kaspruk, Metallofiz. Noveishie Tekhnol., 27, No. 6: 765 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. K. Wertheim, Mössbauer Effect: Principles and Applications (New York and London: Academic Press: 2013).",
+				"tr":  "G. K. Wertheim, Mössbauer Effect: Principles and Applications (New York and London: Academic Press: 2013)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Гольданский, Химические применения мёссбауэровской спектрос-копии (Москва: Мир: 1970).",
+				"tr":  "V. I. Gol'danskiy, Khimicheskie Primeneniya Messbauerovskoy Spektroskopii [Chemical Applications of Mössbauer Spectroscopy] (Moscow: Mir: 1970) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0168-583X(84)90481-6",
+				"or":  "F. Salvat and J. Parellada, Nucl. Instrum. Meth. Phys. Res. B, 1: 70 (1984).",
+				"tr":  "F. Salvat and J. Parellada, Nucl. Instrum. Meth. Phys. Res. B, 1: 70 (1984)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2009.11.001",
+				"or":  "M. Niyaifar, A. Beitollahi, N. Shiri, M. Mozaffari, and J. Amighian, J. Magnetism and Magnetic Materials, 322, No. 7: 777 (2010).",
+				"tr":  "M. Niyaifar, A. Beitollahi, N. Shiri, M. Mozaffari, and J. Amighian, J. Magnetism and Magnetic Materials, 322, No. 7: 777 (2010)."
+			},
+			{
+				"doi": "10.1016/S1574-9304(05)80102-6",
+				"or":  "M. A. Gilleo, Ferromagnetic Insulators: Garnets (New Jersey: Nort-Holland Publishing Company: 1980).",
+				"tr":  "M. A. Gilleo, Ferromagnetic Insulators: Garnets (New Jersey: Nort-Holland Publishing Company: 1980)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Вонсовский, Магнетизм (Москва: Наука: 1971).",
+				"tr":  "S. V. Vonsovskiy, Magnetizm [Magnetism] (Moscow: Nauka: 1971) (in Russian)."
+			},
+			{
+				"doi": "10.1109/TMAG.1984.1063268",
+				"or":  "G. Balestrino, S. Lagomarsino, B. Maturi, and A. Tucciarone, IEEE Transactions on Magnetics, 20, No. 5: 1864 (1984).",
+				"tr":  "G. Balestrino, S. Lagomarsino, B. Maturi, and A. Tucciarone, IEEE Transactions on Magnetics, 20, No. 5: 1864 (1984)."
+			},
+			{
+				"doi": "10.1063/1.1728675",
+				"or":  "R. F. Pearson, J. Appl. Phys., 33, No. 3: 1236 (1962).",
+				"tr":  "R. F. Pearson, J. Appl. Phys., 33, No. 3: 1236 (1962)."
+			},
+			{
+				"doi": "10.1063/1.1663657",
+				"or":  "P. Hansen, P. Röschmann, and W. Tolksdorf, J J. Appl. Phys., 45, No. 6: 2728 (1974).",
+				"tr":  "P. Hansen, P. Röschmann, and W. Tolksdorf, J. Appl. Phys., 45, No. 6: 2728 (1974)."
+			},
+			{
+				"doi": "10.2478/s11534-011-0096-2",
+				"or":  "D. Nečas and P. Klapetek, Open Physics, 10, No. 1: 181 (2012).",
+				"tr":  "D. Nečas and P. Klapetek, Open Physics, 10, No. 1: 181 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Л. Хвалин, Антенны, № 11: 51 (2011).",
+				"tr":  "A. L. Khvalin, Antenny, No. 11: 51 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Л. Хвалин, Вестник Тихоокеанского государственного университета, 1: 28 (2013).",
+				"tr":  "A. L. Khvalin, Vestnik Tikhookeanskogo Gosudarstvennogo Universiteta, 1: 28 (2013) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S1076-5670(05)41003-4",
+				"or":  "W. Szmaja, Advances in Imaging and Electron Physics, 141: 175 (2006).",
+				"tr":  "W. Szmaja, Advances in Imaging and Electron Physics, 141: 175 (2006)."
+			},
+			{
+				"doi": "10.15407/mfint.36.08.1049",
+				"or":  "В. О. Коцюбинський, В. М. Пилипів, Б. К. Остафійчук, І. П. Яремій, О. З. Гарпуль, О. С. Скакунова, В. Б. Молодкін, С. Й. Оліховський, Металлофиз. новейшие технол., 36, № 8: 1049 (2014).",
+				"tr":  "V. O. Kotsyubynskyy, V. M. Pylypiv, B. K. Ostafiychuk, I. P. Yaremiy, O. Z. Garpul', E. S. Skakunova, V. B. Molodkin, and S. I. Olikhovskyy, Metallofiz. Noveishie Tekhnol., 36, No. 8: 1049 (2014) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. П. Хапачев, Ф. Н. Чуховский, Кристаллография, 34, № 3: 776 (1989).",
+				"tr":  "Yu. P. Khapachev and F. N. Chukhovskiy, Kristallografiya, 34, No. 3: 776 (1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Н. Евтихеева, Б. Н. Наумова, Элементы и устройства на ЦМД. Справочник (Москва: Радио и связь: 1987).",
+				"tr":  "N. N. Evtikheeva and B. N. Naumova, Elementy i Ustroystva na TsMD. Spravochnik [Elements and Devices on CMD. Handbook] (Moscow: Radio i Svyaz': 1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. М. Летюк, В. Г. Андреев, А. В. Гончар, И. И. Канева, В. Г. Костишин, Д. Г. Крутогин, Известия высших учебных заведений. Материалы электронной техники, 3: 59 (2005).",
+				"tr":  "L. M. Letyuk, V. G. Andreev, A. V. Gonchar, I. I. Kaneva, V. G. Kostishin, and D. G. Krutogin, Izvestiya Vysshikh Uchebnykh Zavedeniy. Materialy Elektronnoy Tekhniki, 3: 59 (2005) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.337419",
+				"or":  "V. J. Fratello, S. E. G. Slusky, C. D. Brandle, and M. P. Norelli, J. Appl. Phys., 60, No. 2: 718 (1986).",
+				"tr":  "V. J. Fratello, S. E. G. Slusky, C. D. Brandle, and M. P. Norelli, J. Appl. Phys., 60, No. 2: 718 (1986)."
+			}
+		]
+	}
+}

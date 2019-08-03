@@ -1,0 +1,161 @@
+{
+	"_id":    "MFiNT.36.04.0445",
+	"year":   2014,
+	"volume": 36,
+	"issue":  4,
+	"pages":  [445,459],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["06.05.2012", "27.03.2014"],
+	"PACS":   "02.30.Jr, 61.72.jd, 61.72.Nn, 66.30.Lw, 83.10.Bb, 83.50.Ha, 83.60.Wc",
+	"title":   {
+		"ua": "Можливий механізм утворення зародків каналів гідродинамічної пластичної течії в кристалах",
+		"en": "Possible Mechanism of Formation of Nuclei of Hydrodynamic Plastic Flow Channels in Crystals",
+		"ru": "Возможный механизм образования зародышей каналов гидродинамического пластического течения в кристаллах"
+	},
+	"abstract": {
+		"ua": "У даній роботі вдосконалено систему рівнянь, які описують процеси зародження та аґломерації точкових дефектів у пластично деформованих металах. Декількома способами показано можливість утворення зародків гідродинамічних каналів з аґломератів. Показано, що при наднизьких температурах, навіть при невеликих навантаженнях, можлива поява дуже великих концентрацій вакансій в металі, що може призвести до його руйнування.",
+		"en": "In a given work, the set of equations describing the processes of the origin and agglomeration of point defects in plastically deformed metals is improved. Using several methods, the possibility of nucleation of hydrodynamical channels from agglomerates is shown. As shown, the appearance of very high concentration of vacancies in metal is possible at ultralow temperatures and even under light loads that can leads to the destruction of metal.",
+		"ru": "В данной работе усовершенствована система уравнений, описывающих процессы зарождения и агломерации точечных дефектов в пластически деформируемых металлах. Несколькими способами показана возможность образования зародышей гидродинамических каналов из агломератов. Показано, что при сверхнизких температурах, даже при небольших нагрузках, возможно появление очень больших концентраций вакансий в металле, что может привести к его разрушению."
+	},
+	"keywords": {
+		"ua": "вакансії, аґломерати вакансій, швидкість генерації вакансій, дифузія, стаціонарний стан, стійкість, гідродинамічні канали, наднизькі температури",
+		"en": "vacancies, vacancy agglomerates, vacancies’ generation rate, diffusion, stationary state, stability, hydrodynamic channels, ultralow temperature",
+		"ru": "вакансии, агломераты вакансий, скорость генерации вакансий, диффузия, стационарное состояние, устойчивость, гидродинамические каналы, сверхнизкие температуры"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. І. Засимчук", "en": "V. I. Zasimchuk", "ru": "В. И. Засимчук"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. Е. Засимчук", "en": "O. Eh. Zasimchuk", "ru": "Е. Э. Засимчук"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Ю. Г. Гордієнко", "en": "Yu. G. Gordienko", "ru": "Ю. Г. Гордиенко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 23,
+		"list":  [
+			{
+				"doi": "10.1016/0921-5093(90)90186-7",
+				"or":  "E. E. Zasimchuk and L. I. Markashova, Mater. Sci. Eng. A, 127: 33 (1990).",
+				"tr":  "E. E. Zasimchuk and L. I. Markashova, Mater. Sci. Eng. A, 127: 33 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Н. Белякова, Е. Э. Засимчук, Ю. Г. Гордиенко, Металлофиз. новейшие технол., 21, № 4: 59 (1999).",
+				"tr":  "M. N. Belyakova, E. Eh. Zasimchuk, and Yu. G. Gordienko, Metallofiz. Noveishie Tekhnol., 21, No. 4: 59 (1999) (in Russian)."
+			},
+			{
+				"doi": "10.1080/01418619408242540",
+				"or":  "Yu. Gordienko and E. Zasimchuk, Philos. Mag. A, 70, No. 1: 99 (1994).",
+				"tr":  "Yu. Gordienko and E. Zasimchuk, Philos. Mag. A, 70, No. 1: 99 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "M. von Smoluchowsky, Phys. Z., 17: 557 (1916).",
+				"tr":  "M. von Smoluchowsky, Phys. Z., 17: 557 (1916)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Hirth and J. Lote, Theory of Dislocations (New York: McGraw-Hill: 1968).",
+				"tr":  "J. Hirth and J. Lote, Theory of Dislocations (New York: McGraw-Hill: 1968)."
+			},
+			{
+				"doi": "10.1080/095008399176616",
+				"or":  "M. Kiritani, Y. Satoh, Y. Kizuka, K. Arakawa, Y. Ogasawara, S. Arai, and Y. Shimomura, Philos. Mag. Lett., 79, No. 10: 797 (1999).",
+				"tr":  "M. Kiritani, Y. Satoh, Y. Kizuka, K. Arakawa, Y. Ogasawara, S. Arai, and Y. Shimomura, Philos. Mag. Lett., 79, No. 10: 797 (1999)."
+			},
+			{
+				"doi": "10.1063/1.2794416",
+				"or":  "X. L. Wu, B. Li, and E. Ma, Appl. Phys. Lett., 91, No. 14: 141908 (2007).",
+				"tr":  "X. L. Wu, B. Li, and E. Ma, Appl. Phys. Lett., 91, No. 14: 141908 (2007)."
+			},
+			{
+				"doi": "10.1002/pssa.2210110220",
+				"or":  "J. Piqueras, J. C. Grosskreutz, and W. Frank, physica status solidi (a), 11, No. 2: 567 (1972).",
+				"tr":  "J. Piqueras, J. C. Grosskreutz, and W. Frank, physica status solidi (a), 11, No. 2: 567 (1972)."
+			},
+			{
+				"doi": "10.1080/14786437608223793",
+				"or":  "J. G. Antonopoulos, L. M. Brown, and A. T. Winter, Philos. Mag., 34, No. 4: 549 (1976).",
+				"tr":  "J. G. Antonopoulos, L. M. Brown, and A. T. Winter, Philos. Mag., 34, No. 4: 549 (1976)."
+			},
+			{
+				"doi": "10.1002/pssa.2210600109",
+				"or":  "W. Kleinert and W. Schmidt, physica status solidi (a), 60 (1): 69 (1980).",
+				"tr":  "W. Kleinert and W. Schmidt, physica status solidi (a), 60, No. 1: 69 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "A. C. Damask and G. J. Dienes, Point Defects in Metals (New York: Gordon and Breach: 1963).",
+				"tr":  "A. C. Damask and G. J. Dienes, Point Defects in Metals (New York: Gordon and Breach: 1963)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Шень, Математическая индукция (Москва: МЦНМО: 2004).",
+				"tr":  "A. Shen', Matematicheskaya Induktsiya (Moscow: MCNMO: 2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Лариков, В. И. Исайчев, Структура и свойства металлов и сплавов. Диффузия в металлах и сплавах: Справочник (Киев: Наукова думка: 1987).",
+				"tr":  "L. N. Larikov and V. I. Isaychev, Struktura i Svoystva Metallov i Splavov. Diffuziya v Metallakh i Splavakh: Spravochnik (Kiev: Naukova Dumka: 1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Корн, Т. Корн, Справочник по математике для научных работников и инженеров (Москва: Наука: 1978).",
+				"tr":  "G. Korn and T. Korn, Spravochnik po Matematike dlya Nauchnykh Rabotnikov i Inzhenerov (Mocow: Nauka: 1978) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. Хаяси, Нелинейные колебания в физических системах (Москва: Мир: 1968).",
+				"tr":  "Ch. Hayashi, Nelineynye Kolebaniya v Fizicheskikh Sistemakh (Nonlinear Oscillations in Physical Systems) (Moscow: Mir: 1968) (Russian translation)."
+			},
+			{
+				"doi": "10.1002/adem.200600138",
+				"or":  "Yu. G. Gordienko, R. G. Gontareva, J. S. Schreiber, E. E. Zasimchuk, and I. K. Zasimchuk, Adv. Eng. Mater., 8, No. 10: 957 (2006).",
+				"tr":  "Yu. G. Gordienko, R. G. Gontareva, J. S. Schreiber, E. E. Zasimchuk, and I. K. Zasimchuk, Adv. Eng. Mater., 8, No. 10: 957 (2006)."
+			},
+			{
+				"doi": "10.1361/105994903770343501",
+				"or":  "E. E. Zasimchuk, Yu. G. Gordienko, R. G. Gontareva, and I. K. Zasimchuk, J. Mater. Eng. Perf., 12, No. 1: 68 (2003).",
+				"tr":  "E. E. Zasimchuk, Yu. G. Gordienko, R. G. Gontareva, and I. K. Zasimchuk, J. Mater. Eng. Perf., 12, No. 1: 68 (2003)."
+			},
+			{
+				"doi": "10.1023/A:1022274615129",
+				"or":  "Yu. G. Gordienko, E. E. Zasimchuk, and R. G. Gontareva, J. Mater. Sci. Lett., 22, No. 3: 241 (2003).",
+				"tr":  "Yu. G. Gordienko, E. E. Zasimchuk, and R. G. Gontareva, J. Mater. Sci. Lett., 22, No. 3: 241 (2003)."
+			},
+			{
+				"doi": "10.1142/S0217979212500105",
+				"or":  "Y. Gordienko, Int. J. Mod. Phys. B, 26, No. 1: 1250010 (2012).",
+				"tr":  "Y. Gordienko, Int. J. Mod. Phys. B, 26, No. 1: 1250010 (2012)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.66.050102",
+				"or":  "J. Ke and Z. Lin, Phys. Rev. E, 66: 050102(R) (2002).",
+				"tr":  "J. Ke and Z. Lin, Phys. Rev. E, 66: 050102(R) (2002)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.67.031103",
+				"or":  "Z. Lin and J. Ke, Phys. Rev. E, 67: 031103 (2003).",
+				"tr":  "Z. Lin and J. Ke, Phys. Rev. E, 67: 031103 (2003)."
+			},
+			{
+				"doi": "10.1088/0253-6102/43/5/016",
+				"or":  "Z. Lin, J. Ke, and G. Ye, Commun. Theor. Phys., 43: 837 (2005).",
+				"tr":  "Z. Lin, J. Ke, and G. Ye, Commun. Theor. Phys., 43: 837 (2005)."
+			},
+			{
+				"doi": "10.1126/science.1148336",
+				"or":  "Y. Matsukawa and S. J. Zinkle, Science, 318, No. 5852: 959 (2007).",
+				"tr":  "Y. Matsukawa and S. J. Zinkle, Science, 318, No. 5852: 959 (2007)."
+			}
+		]
+	}
+}

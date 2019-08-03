@@ -1,0 +1,148 @@
+{
+	"_id":    "MFiNT.37.06.0763",
+	"year":   2015,
+	"volume": 37,
+	"issue":  6,
+	"pages":  [763,773],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["12.03.2015","06.04.2015"],
+	"PACS":   "68.35.bd, 68.37.Ef, 68.47.De, 68.55.jd, 68.55.jm, 68.60.Dv, 81.15.Cd",
+	"title":  {
+		"ua": "Отримання та фізичні властивості моно- і багатошарових наноструктур срібла",
+		"en": "Fabrication and Physical Properties of Mono- and Multilayer Silver Nanostructures",
+		"ru": "Получение и физические свойства моно- и многослойных наноструктур серебра"
+	},
+	"abstract": {
+		"ua": "Методою високороздільчої тунельної мікроскопії досліджено наноутворення срібла на поверхні Si(111), яких одержано за допомогою термічного осадження у вакуумі. Встановлено, що срібло на поверхні кремнію може утворювати наноструктури, які складаються з атомарних площин. Металеві наноутворення можуть мати вигляд правильних шестикутників. Для даних структур мінімальна висота росту сходинки складає до 0,23 нм. Досліджено особливості трансформації нанорельєфу при зміні температури зразка. Показано, що при збільшенні температури кількість відкритих шарів зменшується за рахунок поверхневого дрейфу, внаслідок якого відбувається горизонтальне зміщення. Представлено можливість консервації структури поверхні Si(111) 7$\\times$7.",
+		"en": "The silver nanostructures obtained by thermal vacuum deposition on the Si(111) surface are investigated by high-resolution tunnelling microscopy. As revealed, the silver on the silicon surface can form nanostructures consisting of atomic planes. Metallic nanoformations can take the shape of regular hexagons. For these structures, minimum height of the step growth varies up to 0.23 nm. Specific peculiarities of the nanorelief transformation with the sample-temperature increasing are detected as a result of horizontal displacement due to surface drift. The possibility of preserving of the Si(111) 7$\\times$7 structure is presented.",
+		"ru": "Методом высокоразрешающей туннельной микроскопии исследованы нанообразования серебра на поверхности Si(111), полученные термическим осаждением в вакууме. Установлено, что серебро на поверхности кремния может образовывать наноструктуры, состоящие из атомарных плоскостей. Металлические нанообразования могут иметь вид правильных шестиугольников. Для данных структур минимальная высота роста ступени составляет до 0,23 нм. Исследованы особенности трансформации нанорельефа при повышении температуры образца в результате горизонтального смещения за счёт поверхностного дрейфа. Представлена возможность консервации структуры поверхности Si(111) 7$\\times$7."
+	},
+	"keywords": {
+		"ua": "нанорельєф поверхні, наношерсткість, моношар металу (Ag), поверхня Si, термічне напорошення",
+		"en": "surface nanorelief, nanoroughness, metal monolayer, thermal spraying",
+		"ru": "нанорельеф поверхности, наношероховатость, монослой металла (Ag), поверхность Si, термическое напыление"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Х. Касіяненко", "en": "V. Kh. Kasiyanenko", "ru": "В. Х. Касияненко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. А. Артемюк", "en": "V. A. Artemyuk", "ru": "В. А. Артемюк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. Л. Карбівський", "en": "V. L. Karbіvskyy", "ru": "В. Л. Карбовский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. Г. Когут", "en": "M. Т. Kogut", "ru": "М. Т. Когут"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Л. І. Карбівська", "en": "L. І. Karbіvska", "ru": "Л. И. Карбовская"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Є. А. Бородянський", "en": "I. A. Borodyanskyi", "ru": "Е. А. Бородянский"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 18,
+		"list":  [
+			{
+				"doi": "10.1016/j.susc.2007.11.019",
+				"or":  "Y. Zhou, Q.-H. Wu, C. Zhou, H. Zhang, H. Zhan, and J. Kang, Surf. Sci., 602: 638 (2008).",
+				"tr":  "Y. Zhou, Q.-H. Wu, C. Zhou, H. Zhang, H. Zhan, and J. Kang, Surf. Sci., 602: 638 (2008)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2007.03.027",
+				"or":  "G. Yang, Y. Zhou, H. Long, Y. Li, and Y. Yang, Thin Solid Films, 515, Iss. 20—21: 7926 (2007).",
+				"tr":  "G. Yang, Y. Zhou, H. Long, Y. Li, and Y. Yang, Thin Solid Films, 515, Iss. 20—21: 7926 (2007)."
+			},
+			{
+				"doi": "10.1016/j.biotechadv.2008.09.002",
+				"or":  "M. Rai, A. Yadav, and A. Gade, Biotechnology Advances, 27, Iss. 1: 76 (2009).",
+				"tr":  "M. Rai, A. Yadav, and A. Gade, Biotechnology Advances, 27, Iss. 1: 76 (2009)."
+			},
+			{
+				"doi": "10.1007/s00339-006-3604-2",
+				"or":  "R. M. Tilaki, A. Irajizad, and S. M. Mahdavi, Appl. Phys. A, 84, Iss. 1—2: 215 (2006).",
+				"tr":  "R. M. Tilaki, A. Irajizad, and S. M. Mahdavi, Appl. Phys. A, 84, Iss. 1—2: 215 (2006)."
+			},
+			{
+				"doi": "10.1016/j.optmat.2003.11.002",
+				"or":  "G. Yang, D. Guan, W. Wang, W. Wu, and Z. Chen, Optical Materials, 25, Iss. 4: 439 (2004).",
+				"tr":  "G. Yang, D. Guan, W. Wang, W. Wu, and Z. Chen, Optical Materials, 25, Iss. 4: 439 (2004)."
+			},
+			{
+				"doi": "10.1023/A:1023736416361",
+				"or":  "H.-J. Lee, S.-Y. Yeo, and S.-H. Jeong, J. Mat. Sci. 38, Iss. 10: 2199 (2003).",
+				"tr":  "H.-J. Lee, S.-Y. Yeo, and S.-H. Jeong, J. Mat. Sci. 38, Iss. 10: 2199 (2003)."
+			},
+			{
+				"doi": "10.1002/chem.200400927",
+				"or":  "B. Wiley, Y. Sun, B. Mayers, and Y. Xia, Chemistry—A European Journal, 11, Iss. 2: 454 (2005).",
+				"tr":  "B. Wiley, Y. Sun, B. Mayers, and Y. Xia, Chemistry—A European Journal, 11, Iss. 2: 454 (2005)."
+			},
+			{
+				"doi": "10.1166/jamr.2011.1083",
+				"or":  "V. L. Karbivskyy, V. V. Vishniak, and V. H. Kasiyanenko, J. Adv. Microscopy Res., 6, No. 4: 278 (2011).",
+				"tr":  "V. L. Karbivskyy, V. V. Vishniak, and V. H. Kasiyanenko, J. Adv. Microscopy Res., 6, No. 4: 278 (2011)."
+			},
+			{
+				"doi": "10.1016/j.susc.2004.06.133",
+				"or":  "P. Kocán, P. Sobotík, I. Ošt’ádal, and M. Kotrla, Surf. Sci., 566—568, Part 1: 216 (2004).",
+				"tr":  "P. Kocán, P. Sobotík, I. Ošt'ádal, and M. Kotrla, Surf. Sci., 566—568, Part 1: 216 (2004)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2011.09.060",
+				"or":  "A. Roy, K. Bhattacharjee, J. Ghatak, and B. N. Dev, Appl. Surf. Sci., 258, Iss. 7: 2255 (2012).",
+				"tr":  "A. Roy, K. Bhattacharjee, J. Ghatak, and B. N. Dev, Appl. Surf. Sci., 258, Iss. 7: 2255 (2012)."
+			},
+			{
+				"doi": "10.1016/0039-6028(91)91061-2",
+				"or":  "G. Pötschke, J. Schröder, C. Günther, R. Q. Hwang, and R. J. Behm, Surf. Sci., 251—252: 592 (1991).",
+				"tr":  "G. Pötschke, J. Schröder, C. Günther, R. Q. Hwang, and R. J. Behm, Surf. Sci., 251—252: 592 (1991)."
+			},
+			{
+				"doi": "10.1016/S0167-5729(01)00012-7",
+				"or":  "B. Voigtländer, Surf. Sci. Rept., 43, Iss. 5—8: 127 (2001).",
+				"tr":  "B. Voigtländer, Surf. Sci. Rept., 43, Iss. 5—8: 127 (2001)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.72.3570",
+				"or":  "J. Tersoff and F. K. LeGoues, Phys. Rev. Lett., 72: 3570 (1994).",
+				"tr":  "J. Tersoff and F. K. LeGoues, Phys. Rev. Lett., 72: 3570 (1994)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.62.13136",
+				"or":  "S. Nakanishi, K. Umezawa, M. Yoshimura, and K. Ueda, Phys. Rev. B, 62: 13136 (2000).",
+				"tr":  "S. Nakanishi, K. Umezawa, M. Yoshimura, and K. Ueda, Phys. Rev. B, 62: 13136 (2000)."
+			},
+			{
+				"doi": "10.1016/0039-6028(95)00325-8",
+				"or":  "G. Meyer and K. H. Rieder, Surf. Sci., 331—333, Part A: 600 (1995).",
+				"tr":  "G. Meyer and K. H. Rieder, Surf. Sci., 331—333, Part A: 600 (1995)."
+			},
+			{
+				"doi": "10.1016/j.susc.2007.10.028",
+				"or":  "M. Miyazaki and H. Hirayama, Surf. Sci., 602, Iss. 1: 276 (2008).",
+				"tr":  "M. Miyazaki and H. Hirayama, Surf. Sci., 602, Iss. 1: 276 (2008)."
+			},
+			{
+				"doi": "10.1016/j.susc.2008.09.057",
+				"or":  "H. Hirayama, Surf. Sci., 603, Iss. 10—12: 1492 (2009).",
+				"tr":  "H. Hirayama, Surf. Sci., 603, Iss. 10—12: 1492 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "D. A. Fokin, S. I. Bozhko, V. Dubost, F. Debontridder, A. M. Ionov, T. Cren, and D. Roditchev, Nanosistemi, Nanomateriali, Nanotehnologii, 9, No. 2: 333 (2011) (in Russian).",
+				"tr":  "D. A. Fokin, S. I. Bozhko, V. Dubost, F. Debontridder, A. M. Ionov, T. Cren, and D. Roditchev, Nanosistemi, Nanomateriali, Nanotehnologii, 9, No. 2: 333 (2011) (in Russian)."
+			}
+		]
+	}
+}

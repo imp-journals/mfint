@@ -1,0 +1,144 @@
+{
+	"_id":    "MFiNT.38.10.1379",
+	"year":   2016,
+	"volume": 38,
+	"issue":  10,
+	"pages":  [1379,1393],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["12.09.2016"],
+	"PACS":   " 03.50.De, 41.20.Gz, 75.10.-b, 75.30.Gw, 75.60.Ch, 75.70.Kw, 81.65.Cf",
+	"title":   {
+		"ua": "Періодичні модуляції магнетостатичного поля у феромагнетному циліндрі та їх вплив на формування фіґур щавлення у розчинах кислот",
+		"en": "Periodic Modulations of Magnetostatic Field in Ferromagnetic Cylinder and Their Influence on Etching Figure Formation in Acid Solutions",
+		"ru": "Периодические модуляции магнитостатического поля в ферромагнитном цилиндре и их влияние на формирование фигур травления в растворах кислот"
+	},
+	"abstract": {
+		"ua": "Досліджено циліндричні зразки з легковісною анізотропією, перпендикулярною до осі циліндру. Показано, що в таких зразках можна створювати і спостерігати неоднорідні довгохвильові магнетні конфіґурації гармонічного типу. Було розвинуто лінійну теорію, яка зводить систему рівнянь Ландау—Ліфшиця та Максвеллових, що описують магнетний стан системи, до одного загального рівняння для магнетостатичного потенціялу. В ході розв’язання крайової задачі для магнетостатичного потенціялу визначено діяпазон магнетних полів і власних параметрів системи, за яких ймовірним є утворення неоднорідної періодичної конфіґурації. Визначено залежність періоду хвилі намагнетованости від амплітуди магнетного поля, константи анізотропії та діяметра циліндру. Запропонована теорія дає якісне пояснення експерименту, коли при застосуванні Біттерової методи порошкових фіґур можливе спостереження квазиперіодичних розподілів магнетостатичних полів, що утворені при прикладанні зовнішнього магнетного поля порядку 1 кЕ вздовж осі сталевого циліндру, тоді як без прикладання зовнішнього магнетного поля магнетостатичні поля відсутні. Наведено приклад практичного застосування довгохвильових магнетних структур для керування морфологією поверхні при хемічному щавленні феромагнетних металів у розчинах кислот. При цьому квазиперіодична структура поверхні кородованого феромагнетного циліндра відповідає періоду його довгомасштабної магнетної структури.",
+		"en": "Ordinary cylindrical specimens with easy-axis anisotropy perpendicular to the axis of a cylinder are studied. As shown, the inhomogeneous long-wave magnetic configurations of harmonic type can be created and observed in such samples. A linear theory is developed to simplify the set of Landau— Lifshitz and Maxwell’s equations to one general equation for a magnetostatic potential. The ranges of magnetic fields and the self-parameters responsible for the inhomogeneous periodic configuration formation are determined when solving a boundary value problem for a magnetostatic potential. Dependence of the period of magnetization wave on a magnetic field value, the constant of anisotropy and diameter of a cylinder is determined. The proposed theory gives qualitative explanation of the experiment when, using the Bitter’s powder-like figures’ method, quasi-periodic distributions of the magnetostatic fields can be observed in samples. These fields arise under external magnetic field of about 1 kOe directed along the axis of a steel cylinder and are absent without external magnetic field. An example of practical application of long-wave magnetic structures for a surface morphology control during chemical etching of ferromagnetic metals in acid solutions is given. The quasi-periodic structure of a corrosion surface of ferromagnetic cylinder corresponds to the period of a long-range magnetic structure.",
+		"ru": "Исследованы цилиндрические образцы с легкоосной анизотропией, перпендикулярной оси цилиндра. Показано, что в таких образцах можно создать и наблюдать неоднородные длинноволновые магнитные конфигурации гармонического типа. Развита линейная теория, которая сводит систему уравнений Ландау—Лифшица и Максвелла, описывающих магнитное состояние системы, к одному общему уравнению для магнитостатического потенциала. В ходе решения краевой задачи для магнитостатического потенциала определён диапазон магнитных полей и собственных параметров системы, при которых вероятным является образование неоднородной периодической конфигурации. Определена зависимость периода волны намагниченности от амплитуды магнитного поля, константы анизотропии и диаметра цилиндра. Предложенная теория даёт качественное объяснение эксперимента, когда при применении метода порошковых фигур Биттера возможно наблюдение квазипериодических распределений магнитостатических полей, образованных при воздействии внешнего магнитного поля порядка 1 кЕ вдоль оси стального цилиндра, в то время как без приложения внешнего магнитного поля магнитостатические поля отсутствуют. Приведён пример практического использования длинноволновых магнитных структур для управления морфологией поверхности при химическом травлении ферромагнитных материалов в растворах кислот. При этом квазипериодическая структура поверхности корродированного ферромагнитного цилиндра соответствует периоду его длинномасштабной структуры."
+	},
+	"keywords": {
+		"ua": "феромагнетики, доменна структура, магнетостатичне поле, щавлення",
+		"en": "ferromagnets, domain structure, magnetostatic field, etching",
+		"ru": "ферромагнетики, доменная структура, магнитостатическое поле, травление"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. І. Джежеря", "en": "Yu. I. Dzhezherya", "ru": "Ю. И. Джежеря"},
+			"OID": [7]
+		},
+		{
+			"AID": {"ua": "О. Ю. Горобець", "en": "O. Yu. Gorobets", "ru": "О. Ю. Горобец"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "О. П. Кузь", "en": "O. P. Kuz", "ru": "А. П. Кузь"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "О. С. Климук", "en": "O. S. Klymuk", "ru": "Е. С. Климук"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "Ю. І. Горобець", "en": "Yu. I. Gorobets", "ru": "Ю. И. Горобец"},
+			"OID": [7]
+		}
+	],
+	"references": {
+		"count": 18,
+		"list":  [
+			{
+				"doi": "10.1103/PhysRev.70.965",
+				"or":  "C. Kittel, Phys. Rev., 70, 965 (1946).",
+				"tr":  "C. Kittel, Phys. Rev., 70, 965 (1946)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Thiele, Bell System Techn. J., 48: 3287 (1969).",
+				"tr":  "A. A. Thiele, Bell System Techn. J., 48: 3287 (1969)."
+			},
+			{
+				"doi": "",
+				"or":  "A. H. Bobeck and E. Della Torre, Magnetic Bubbles (Amsterdam: North-Holland Publishing Co.: 1975).",
+				"tr":  "A. H. Bobeck and E. Della Torre, Magnetic Bubbles (Amsterdam: North-Holland Publishing Co.: 1975)."
+			},
+			{
+				"doi": "",
+				"or":  "A. P. Malozemoff and J. C. Slonczewski, Magnetic Domain Walls in Bubble Materials (New York: Academic Press: 1979).",
+				"tr":  "A. P. Malozemoff and J. C. Slonczewski, Magnetic Domain Walls in Bubble Materials (New York: Academic Press: 1979)."
+			},
+			{
+				"doi": "",
+				"or":  "A. N. Eschenfelder, Physics and Technology of Cylindrical Magnetic Domains (New York: Wiley: 1983).",
+				"tr":  "A. N. Eschenfelder, Physics and Technology of Cylindrical Magnetic Domains (New York: Wiley: 1983)."
+			},
+			{
+				"doi": "10.1063/1.1660007",
+				"or":  "J. A. Cape and G. W. Lehman, J. Appl. Phys., 42: 5732 (1971).",
+				"tr":  "J. A. Cape and G. W. Lehman, J. Appl. Phys., 42: 5732 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. І. Dzhezherya, M. V. Sorokіn, and O. O. Bubuk, Naukovі Visti NTUU ‘KPI’, 4: 51 (2006) (in Ukrainian).",
+				"tr":  "Yu. I. Dzhezherya, M. V. Sorokin, and O. O. Bubuk, Naukovi Visti NTUU 'KPI', 4: 51 (2006) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. I. Dzhezherya, M. V. Sorokin, and E. A. Bubuk, ZhETF, 133: 844 (2007).",
+				"tr":  "Yu. I. Dzhezherya, M. V. Sorokin, and E. A. Bubuk, ZhETF, 133: 844 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. I. Dzhezherya and K. O. Demіshev, Metallofiz. Noveishie Tekhnol., 34, No. 4: 429 (2012) (in Ukrainian).",
+				"tr":  "Yu. I. Dzhezherya and K. O. Demishev, Metallofiz. Noveishie Tekhnol., 34, No. 4: 429 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. Kabanov, A. Zukov, V. Zukova, and J. Gonzalez, International Conference ‘Functional Materials’ (Ukraine, Crimea, Partenit, 2005), p 66.",
+				"tr":  "Yu. Kabanov, A. Zukov, V. Zukova, and J. Gonzalez, International Conference 'Functional Materials' (Ukraine, Crimea, Partenit, 2005), p 66."
+			},
+			{
+				"doi": "",
+				"or":  "M. Yu. Ilchenko, S. V. Gorobets, O. Yu. Gorobets, and O. K. Dvoynenko, International Conference ‘Functional Matetials’ ICFM-2011 (Ukraine, Crimea, Partenit, October 3–8, 2011), p. 393.",
+				"tr":  "M. Yu. Ilchenko, S. V. Gorobets, O. Yu. Gorobets, and O. K. Dvoynenko, International Conference 'Functional Matetials' ICFM-2011 (Ukraine, Crimea, Partenit, October 3–8, 2011), p. 393."
+			},
+			{
+				"doi": "10.1021/jp0762572",
+				"or":  "O. Yu. Gorobets, S. V. Gorobets, D. O. Derecha, and O. M. Brukva, J. Phys. Chem. C, 112: 3373 (2008).",
+				"tr":  "O. Yu. Gorobets, S. V. Gorobets, D. O. Derecha, and O. M. Brukva, J. Phys. Chem. C, 112: 3373 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "O. Yu. Gorobets and D. O. Derecha, Mater. Sci., 24: 1017 (2007).",
+				"tr":  "O. Yu. Gorobets and D. O. Derecha, Mater. Sci., 24: 1017 (2007)."
+			},
+			{
+				"doi": "10.1134/S0031918X12020044",
+				"or":  "S. V. Gorobets, O. Yu. Gorobets, O. K. Dvoinenko, and G. L. Lebeda, Phys. Metals Metallogr., 113: 129 (2012).",
+				"tr":  "S. V. Gorobets, O. Yu. Gorobets, O. K. Dvoinenko, and G. L. Lebeda, Phys. Metals Metallogr., 113: 129 (2012)."
+			},
+			{
+				"doi": "10.1002/pssc.200405561",
+				"or":  "S. V. Gorobets, O. Yu. Gorobets, S. P. Mazur, and A. A. Slusar, physica status solidi (c), 1: 3686 (2004).",
+				"tr":  "S. V. Gorobets, O. Yu. Gorobets, S. P. Mazur, and A. A. Slusar, physica status solidi (c), 1: 3686 (2004)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2005.01.024",
+				"or":  "S. V. Gorobets, O. Yu. Gorobets, and O. M. Brukva, Appl. Surf. Sci., 252/2: 448 (2005).",
+				"tr":  "S. V. Gorobets, O. Yu. Gorobets, and O. M. Brukva, Appl. Surf. Sci., 252/2: 448 (2005)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2012.10.015",
+				"or":  "O. Yu. Gorobets, Yu. I. Gorobets, I. A. Bondar, and Yu. A. Legenkiy, J. Magn. Magn. Mater., 330: 76 (2013).",
+				"tr":  "O. Yu. Gorobets, Yu. I. Gorobets, I. A. Bondar, and Yu. A. Legenkiy, J. Magn. Magn. Mater., 330: 76 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "О. Yu. Gorobets, Yu. I. Gorobets, and V. P. Rospotnyuk, Metallofiz. Noveishie Tekhnol., 34, No. 7: 895 (2012) (in Ukrainian).",
+				"tr":  "O. Yu. Gorobets, Yu. I. Gorobets, and V. P. Rospotnyuk, Metallofiz. Noveishie Tekhnol., 34, No. 7: 895 (2012) (in Ukrainian)."
+			}
+		]
+	}
+}

@@ -1,0 +1,176 @@
+{
+	"_id":    "MFiNT.37.12.1619",
+	"year":   2015,
+	"volume": 37,
+	"issue":  12,
+	"pages":  [1619,1632],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["26.08.2015"],
+	"PACS":   "61.72.Bb, 64.70.kd, 64.75.Jk, 64.75.Nx, 66.30.-h, 68.35.-p, 81.30.Mh",
+	"title":  {
+		"ua": "Розрахунок впливу сегрегаційних ефектів на рух міжфазних меж за коміркового розпаду",
+		"en": "Determination of Segregation Influence on the Motion of the Interphase Boundaries During Cellular Precipitation",
+		"ru": "Расчёт влияния сегрегационных эффектов на движение межфазных границ при ячеистом распаде"
+	},
+	"abstract": {
+		"ua": "У роботі методу Мієдеми використано для опису термодинамічних параметрів бінарних стопів та енергій сеґреґації компонентів на міжфазних межах. Розроблений термодинамічний підхід використано для розвитку моделю, що описує процес гальмування руху міжфазної межі в бінарних полікристалічних стопах. Створений кінетичний модель використано для опису особливостей руху межі зерна в ході коміркового розпаду. На основі розробленого моделю виконано розрахунки концентраційних профілів через межу зерна, коефіцієнта сеґреґації, швидкости дисипації енергії всередині міжфазної межі залежно від швидкости її руху. Модельні розрахунки виконано для системи Pb—Sn.",
+		"en": "The Miedema’s method is used for the description of both the thermodynamic parameters of binary alloys and the segregation energy of components at the interphase boundaries. The thermodynamic approach developed in this paper is applied within the model, which describes the solute drag of the moving interphase boundary in the binary alloys with a polycrystalline structure. This kinetic model allows both the explanation of peculiarities of the interphase boundary motion at a cellular decomposition and the determination of the concentration profiles across the interphase boundaries, segregation coefficient, and energy dissipation rate in dependence on the interphase boundary velocity. The suggested model is applied for the Pb—Sn system.",
+		"ru": "В работе метод Миедемы использован для описания термодинамических параметров бинарных сплавов и энергий сегрегации компонентов на межфазных границах. Разработанный термодинамический подход использован для развития модели, описывающей процесс торможения движения межфазной границы в бинарных поликристаллических сплавах. Созданная кинетическая модель использована для описания особенностей движения границы зерна в процессе ячеистого распада. На основе разработанной модели выполнены расчёты концентрационных профилей через границу зерна, коэффициента сегрегации, скорости диссипации энергии внутри межфазной границы в зависимости от скорости её движения. Модельные расчёты выполнены для системы Pb—Sn."
+	},
+	"keywords": {
+		"ua": "дифузія, міґрація меж зерен, притягання домішок, комірковий розпад, розсіяння енергії",
+		"en": "diffusion, grain boundary migration, solute drag, cellular precipitation, energy dissipation",
+		"ru": "диффузия, миграция границ зёрен, притяжение примеёсей, ячеистый распад, рассеяние энергии"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. О. Ляшенко", "en": "Yu. O. Lyashenko", "ru": "Ю. А. Ляшенко"},
+			"OID": [214]
+		},
+		{
+			"AID": {"ua": "С. І. Дерев'янко", "en": "S. I. Derevyanko", "ru": "С. И. Деревянко"},
+			"OID": [214]
+		},
+		{
+			"AID": {"ua": "О. А. Шматко", "en": "O. A. Shmatko", "ru": "О. А. Шматко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 26,
+		"list":  [
+			{
+				"doi": "10.1016/0001-6160(62)90092-5",
+				"or":  "J. W. Cahn, Acta Metall., 10, No. 9: 789 (1962).",
+				"tr":  "J. W. Cahn, Acta Metall., 10, No. 9: 789 (1962)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Hillert, Acta Metall., 47, No. 18: 4481 (1999).",
+				"tr":  "M. Hillert, Acta Metall., 47, No. 18: 4481 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. О. Ляшенко, Л. І. Гладка, І. О. Шматко, О. А. Шматко, Металлофиз. новейшие технол., 34, № 12: 1693 (2012).",
+				"tr":  "Yu. O. Lyashenko, L. I. Gladka, I. O. Shmatko, and O. A. Shmatko, Metallofiz. Noveishie Tekhnol., 34, No. 12: 1693 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Каур, В. Густ, Диффузия по границам зёрен и фаз (Москва: Машиностроение: 1991).",
+				"tr":  "I. Kaur and V. Gust, Diffuziya po Granitsam Zeren i Faz (Moscow: Mashinostroenie: 1991) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Лариков, О. А. Шматко, Ячеистый распад пересыщенных твёрдых растворов (Киев: Наукова думка: 1976).",
+				"tr":  "L. N. Larikov and O. A. Shmatko, Yacheistyy Raspad Peresyshchennykh Tverdykh Rastvorov (Kiev: Naukova Dumka: 1976) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0001-6160(59)90164-6",
+				"or":  "J. W. Cahn, Acta Metall., 7: 18 (1959).",
+				"tr":  "J. W. Cahn, Acta Metall., 7: 18 (1959)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. О. Ляшенко, А. М. Гусак, О. А. Шматко, Металлофиз. новейшие технол., 27, № 7: 873 (2005).",
+				"tr":  "Yu. O. Lyashenko, A. M. Gusak, and O. A. Shmatko, Metallofiz. Noveishie Tekhnol., 27, No. 7: 873 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. A. Lyashenko, N. V. Zaitzeva, and O. A. Shmatko, Defect and Diffusion Forum, 261: 61 (2007).",
+				"tr":  "Yu. A. Lyashenko, N. V. Zaitzeva, and O. A. Shmatko, Defect and Diffusion Forum, 261: 61 (2007)."
+			},
+			{
+				"doi": "10.1002/9783527631025",
+				"or":  "A. M. Gusak, T. V. Zaporozhets, Yu. O. Lyashenko, S. V. Kornienko, M. O. Pasichnyy, and A. S. Shirinyan, Diffusion-Controlled Solid State Reactions: in Alloys, Thin-Films and Nanosystems (Berlin: Wiley-VCH: 2010).",
+				"tr":  "A. M. Gusak, T. V. Zaporozhets, Yu. O. Lyashenko, S. V. Kornienko, M. O. Pasichnyy, and A. S. Shirinyan, Diffusion-Controlled Solid State Reactions: in Alloys, Thin-Films and Nanosystems (Berlin: Wiley-VCH: 2010)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Bakker, Enthalpies in Alloys Miedema’s Semi-Empirical Model (Switzerland: Trans Tech Publications Ltd.: 1998).",
+				"tr":  "H. Bakker, Enthalpies in Alloys Miedema's Semi-Empirical Model (Switzerland: Trans Tech Publications Ltd.: 1998)."
+			},
+			{
+				"doi": "10.1016/0022-5088(76)90180-6",
+				"or":  "A. R. Miedema, Less Common Metals, 46: 67 (1976).",
+				"tr":  "A. R. Miedema, Less Common Metals, 46: 67 (1976)."
+			},
+			{
+				"doi": "10.1063/1.1744102",
+				"or":  "J. W. Cahn and J. E. Hilliard, J. Chem. Phys., 28: 258 (1958).",
+				"tr":  "J. W. Cahn and J. E. Hilliard, J. Chem. Phys., 28: 258 (1958)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2007.10.021",
+				"or":  "H. Wang, F. Liu, W. Yang, Z. Chen, G. Yang, and Y. Zhou, Acta Mater., 56: 746 (2008).",
+				"tr":  "H. Wang, F. Liu, W. Yang, Z. Chen, G. Yang, and Y. Zhou, Acta Mater., 56: 746 (2008)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2010.01.041",
+				"or":  "Sh. Li, J. Zhang, and P. Wu, Scr. Mater., 62, No. 9: 716 (2010).",
+				"tr":  "Sh. Li, J. Zhang, and P. Wu, Scr. Mater., 62, No. 9: 716 (2010)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2008.04.007",
+				"or":  "S. G. Kim and Y. B. Park, Acta Mater., 56: 3739 (2008).",
+				"tr":  "S. G. Kim and Y. B. Park, Acta Mater., 56: 3739 (2008)."
+			},
+			{
+				"doi": "10.1016/j.commatsci.2008.03.030",
+				"or":  "H. Strandlund, J. Odqvist, and J. Agren, Comput. Mater. Sci., 44: 265 (2008).",
+				"tr":  "H. Strandlund, J. Odqvist, and J. Agren, Comput. Mater. Sci., 44: 265 (2008)."
+			},
+			{
+				"doi": "10.1016/0036-9748(83)90105-9",
+				"or":  "M. Hillert, Scr. Metallica, 17: 237 (1983).",
+				"tr":  "M. Hillert, Scr. Metallica, 17: 237 (1983)."
+			},
+			{
+				"doi": "10.1016/0956-716X(90)90554-T",
+				"or":  "Y. J. M. Brechet and G. R. Purdy, Scr. Metall. Mater., 24: 1831 (1990).",
+				"tr":  "Y. J. M. Brechet and G. R. Purdy, Scr. Metall. Mater., 24: 1831 (1990)."
+			},
+			{
+				"doi": "10.1103/PhysRevA.43.3161",
+				"or":  "A. R. Denton and N. W. Ashcroft, Phys. Rev., 43: 3161 (1991).",
+				"tr":  "A. R. Denton and N. W. Ashcroft, Phys. Rev., 43: 3161 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "D. McLean, Grain Boundaries in Metals (London: Oxford University Press: 1957).",
+				"tr":  "D. McLean, Grain Boundaries in Metals (London: Oxford University Press: 1957)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Murdoch, Design of a Stable Nanocrystalline Alloy (Cambridge: Massachusetts Institute of Technology Press: 2013).",
+				"tr":  "A. Murdoch, Design of a Stable Nanocrystalline Alloy (Cambridge: Massachusetts Institute of Technology Press: 2013)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Т. Борисов, В. M. Голиков, Г. В. Щербединский, Физ. мет. металловед., 17, № 6: 881 (1964).",
+				"tr":  "V. T. Borisov, V. M. Golikov, and G. V. Scherbedinskiy, Fiz. Met. Metalloved., 17, No. 6: 881 (1964) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Gupta, K. Vieregge, and W. Gust, Acta Mater., 47, No. 5: 5 (1999).",
+				"tr":  "D. Gupta, K. Vieregge, and W. Gust, Acta Mater., 47, No. 5: 5 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. М. Коваль, А. М. Безуглий, М. І. Дідик, Н. В. Зайцева, О. А. Шматко, Доповіді НАНУ, 2: 102 (2004).",
+				"tr":  "Yu. M. Koval, A. M. Bezugliy, M. I. Didik, N. V. Zaytseva, O. A. Shmatko, Dopovidi N.A.N. Ukrayiny, 2: 102 (2004) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. О. Бондаренко, Н. Ф. Вороніна, Ю. О. Ляшенко, О. А. Шматко, Науковий вісник Ужгородського університету, 21: 17 (2007).",
+				"tr":  "Yu. O. Bondarenko, N. F. Voronina, Yu. O. Lyashenko, and O. A. Shmatko, Naukovyy Visnyk Uzhgorodskogo Universitetu, 21: 17 (2007) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. B. Shubin and K. Yu. Shunyaev, Proc. of Symp. ‘Fifth International Conference on Mathematical Modelling and Computer Simulation of Material Technologies-2008’ (Ariel, Israel: MMT: 2008), vol. 1, p. 1172.",
+				"tr":  "B. Shubin and K. Yu. Shunyaev, Proc. of Symp. 'Fifth International Conference on Mathematical Modelling and Computer Simulation of Material Technologies-2008' (Ariel, Israel: MMT: 2008), vol. 1, p. 1172."
+			}
+		]
+	}
+}

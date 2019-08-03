@@ -1,0 +1,215 @@
+{
+	"_id":    "MFiNT.40.07.0931",
+	"year":   2018,
+	"volume": 40,
+	"issue":  7,
+	"pages":  [931,953],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["25.05.2018"],
+	"PACS":   "64.60.ah, 73.50.Gr, 73.61.At, 73.63.Bd, 78.20.Ci, 78.66.Bz, 81.15.Kk",
+	"title":   {
+		"ua": "Вплив підшарів ґерманію на оптичну провідність тонких плівок золота",
+		"en": "Influence of Sublayers of Germanium on Optical Conductivity of Thin Films of Gold",
+		"ru": "Влияние подслоёв германия на оптическую проводимость тонких плёнок золота"
+	},
+	"abstract": {
+		"ua": "Експериментально досліджено особливості оптичного поглинання та перколяції у тонких плівках золота різної товщини (2–20 нм) і впливу на них підшарів ґерманію масовою товщиною у 0,5 нм у видимому та близькому інфрачервоному діяпазонах довжин хвиль (300–2500 нм). Оптична й електрична перколяції у тонких плівках золота пов’язані з механізмом росту та режимом формування плівки золота на аморфній скляній підкладинці. Показано, що підшари ґерманію, попередньо нанесені на скляну підкладинку, зменшують порогову товщину оптичного перколяційного переходу у плівках золота на $\\Delta d$ = 2,4 нм і збільшують їхню поглинальну здатність у порівнянні з аналогічними плівками, осадженими на чисту скляну поверхню. Збільшення поглинальної здатности зумовлено більш дрібнокристалічною структурою плівки металу та, відповідно, збільшенням кількости ізольованих металевих острівців на одиниці площі поверхні аморфної підкладинки.",
+		"en": "Features of the optical absorption and percolation inside the thin Au films of different thicknesses (2–20 nm) and influence of 0.5 nm thickness Ge sublayers on them in the visible and near infrared regions are experimentally investigated. The structural properties of metal films have main impact on their optical and electrical percolations. As shown, 0.5 nm Ge sublayers shift optical percolation of Au films into the region of lower thicknesses to $\\Delta d$ = 2.4 nm. Such samples have higher optical absorption, in the contrary to Au films deposited on bare glass substrate, because of more fine polycrystalline structure of Au films and higher concentration of isolated metal islands on the unit surface of glass substrate.",
+		"ru": "Экспериментально исследованы особенности оптического поглощения и перколяции в тонких плёнках золота различной толщины (2–20 нм) и влияния на них подслоёв германия массовой толщиной 0,5 нм, предварительно нанесённых на стеклянную подложку, в видимом и ближнем инфракрасном диапазонах длин волн (300–2500 нм). Оптическая и электрическая перколяции в тонких плёнках золота связаны с механизмом роста и режимом формирования плёнки золота на аморфной стеклянной подложке. Показано, что подслои германия уменьшают пороговую толщину оптического перколяционного перехода в плёнках золота на $\\Delta d$ = 2,4 нм, а также увеличивают способность плёнки поглощать свет, что обусловлено более мелкокристаллической структурой плёнки металла и, соответственно, увеличением количества изолированных металлических островков на единице площади поверхности стеклянной подложки."
+	},
+	"keywords": {
+		"ua": "тонкі металеві плівки, підшари субатомової товщини, оптична й електрична перколяції",
+		"en": "thin metal films, sublayers of subatomic thickness, optical and electrical percolations",
+		"ru": "тонкие металлические плёнки, подслои субатомной толщины, оптическая и электрическая перколяции"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Р. І. Бігун", "en": "R. I. Bihun", "ru": "Р. И. Бигун"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "З. В. Стасюк", "en": "Z. V. Stasyuk", "ru": "З. В. Стасюк"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "О. В. Строганов", "en": "O. V. Stroganov", "ru": "О. В. Строганов"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "Д. С. Леонов", "en": "D. S. Leonov", "ru": "Д. С. Леонов"},
+			"OID": [16]
+		}
+	],
+	"references": {
+		"count": 33,
+		"list":  [
+			{
+				"doi": "10.1016/j.phpro.2012.03.510",
+				"or":  "A. Axelevitch, B. Gorenstein, and G. Golan, Physics Procedia, 32: 1 (2012).",
+				"tr":  "A. Axelevitch, B. Gorenstein, and G. Golan, Physics Procedia, 32: 1 (2012)."
+			},
+			{
+				"doi": "10.1080/00107519108213805",
+				"or":  "P. Smilauer, Contemporary Physics, 32, No. 2: 89 (1991).",
+				"tr":  "P. Smilauer, Contemporary Physics, 32, No. 2: 89 (1991)."
+			},
+			{
+				"doi": "10.1364/OE.14.001541",
+				"or":  "S. Ding, X. Wang, D. J. Chen, and Q. Q. Wang, Optics Express, 14, No. 4: 1541 (2006).",
+				"tr":  "S. Ding, X. Wang, D. J. Chen, and Q. Q. Wang, Optics Express, 14, No. 4: 1541 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. І. Бігун, З. В. Стасюк, О. В. Строганов, В. М. Гаврилюх, Д. С. Леонов, Наносистеми, наноматеріали, нанотехнології, 13, вип. 3: 459 (2015).",
+				"tr":  "R. I. Bihun, Z. V. Stasyuk, O. V. Stroganov, V. M. Gavrylyukh, and D. S. Leonov, Nanosistemi, Nanomateriali, Nanotehnologii, 13, No. 3: 459 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/mfint.39.06.0743",
+				"or":  "Р. І. Бігун, З. В. Стасюк, О. В. Строганов, Д.С. Леонов, Металлофиз. новейшие технол., 39, № 6: 743 (2017).",
+				"tr":  "R. I. Bihun, Z. V. Stasyuk, O. V. Stroganov, and D. S. Leonov, Metallofiz. Noveishie Tekhnol., 39, No. 6: 743 (2017) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. V. Dukarov, S. I. Petrushenko, V. N. Sukhov, and I. G. Churilov, Problems Atomic Sci. Technol., 89, No. 1: 110 (2014).",
+				"tr":  "S. V. Dukarov, S. I. Petrushenko, V. N. Sukhov, and I. G. Churilov, Problems Atomic Sci. Technol., 89, No. 1: 110 (2014)."
+			},
+			{
+				"doi": "10.1364/AO.41.003053",
+				"or":  "N. Kaiser, Appl. Optics, 41, No. 16: 3053 (2002).",
+				"tr":  "N. Kaiser, Appl. Optics, 41, No. 16: 3053 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "N. T. Gladkikh, S. V. Dukarov, and V. N. Sukhov, Физика металлов и металловедение, 78, № 3: 87 (1994).",
+				"tr":  "N. T. Gladkikh, S. V. Dukarov, and V. N. Sukhov, Fizika Metallov i Metallovedenie, 78, No. 3: 87 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Петрушенко, С. В. Дукаров, В. Н. Сухов, И. Г. Чурилов, Журнал нано- та електронної фізики, 7, № 2: 02033(6) (2015).",
+				"tr":  "S. I. Petrushenko, S. V. Dukarov, V. N. Sukhov, and I. G. Churilov, Journal of Nano- and Electronic Physics, 7, No. 2: 02033(6) (2015) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.37.03.0317",
+				"or":  "Р. І. Бігун, В. М. Гаврилюх, З. В. Стасюк, Д. С. Леонов, Металлофиз. новейшие технол., 37, № 3: 317 (2015).",
+				"tr":  "R. I. Bigun, V. M. Gavrylyukh, Z. V. Stasyuk, and D. S. Leonov, Metallofiz. Noveishie Tekhnol., 37, No. 3: 317 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1088/2040-8978/14/10/105701",
+				"or":  "M. Cesaria, A. P. Caricato, and M. Martino, J. Opt., 14: 105701 (2012).",
+				"tr":  "M. Cesaria, A. P. Caricato, and M. Martino, J. Opt., 14: 105701 (2012)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2007.02.017",
+				"or":  "X. Sun, R. Hong, H. Hon, Zh. Fan, and J. Shao, Thin Solid Films, 515: 6962 (2007).",
+				"tr":  "X. Sun, R. Hong, H. Hon, Zh. Fan, and J. Shao, Thin Solid Films, 515: 6962 (2007)."
+			},
+			{
+				"doi": "10.12693/APhysPolA.118.637",
+				"or":  "N. A. Hegab and H. M. El-Mallah, Acta Physica Polonica A, 118, No. 4: 637 (2010).",
+				"tr":  "N. A. Hegab and H. M. El-Mallah, Acta Physica Polonica A, 118, No. 4: 637 (2010)."
+			},
+			{
+				"doi": "10.1088/0022-3727/16/4/010",
+				"or":  "R. T. Phillips, J. Phys. D: Appl. Phys., 16: 489 (1983).",
+				"tr":  "R. T. Phillips, J. Phys. D: Appl. Phys., 16: 489 (1983)."
+			},
+			{
+				"doi": "10.1088/0022-3727/5/4/329",
+				"or":  "R. E. Denton, R. D. Campbell, and S. G. Tomlin, J. Phys. D: Appl. Phys., 5: 852 (1972).",
+				"tr":  "R. E. Denton, R. D. Campbell, and S. G. Tomlin, J. Phys. D: Appl. Phys., 5: 852 (1972)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.6.4370",
+				"or":  "P. B. Johnson and R. W. Christy, Phys. Rev. B, 6, No. 12: 4370 (1972).",
+				"tr":  "P. B. Johnson and R. W. Christy, Phys. Rev. B, 6, No. 12: 4370 (1972)."
+			},
+			{
+				"doi": "10.12693/APhysPolA.86.375",
+				"or":  "N. El-Kadry, Acta Physica Polonica A, 86: 375 (1994).",
+				"tr":  "N. El-Kadry, Acta Physica Polonica A, 86: 375 (1994)."
+			},
+			{
+				"doi": "10.1021/ja041017a",
+				"or":  "CRC Handbook of Chemistry and Physics: A Ready-Reference of Chemical and Physical Data. 85th Ed. (Ed. D. R. Line) (Boca Raton, FL: CRC Press LLC: 2004), J. Am. Chem. Soc., 127, No. 12: 4542 (2005).",
+				"tr":  "CRC Handbook of Chemistry and Physics: A Ready-Reference of Chemical and Physical Data. 85th Ed. (Ed. D. R. Line) (Boca Raton, FL: CRC Press LLC: 2004), J. Am. Chem. Soc., 127, No. 12: 4542 (2005)."
+			},
+			{
+				"doi": "10.1364/AO.24.004493",
+				"or":  "M. A. Ordal, R. J. Bell, R. W. Alexander, L. L. Long, and M. R. Querry, Applied Optics, 24, No. 24: 4493 (1985).",
+				"tr":  "M. A. Ordal, R. J. Bell, R. W. Alexander, L. L. Long, and M. R. Querry, Applied Optics, 24, No. 24: 4493 (1985)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2005.03.035",
+				"or":  "A. I. Maaroof and G.B. Smith, Thin Solid Films, 485: 198 (2005).",
+				"tr":  "A. I. Maaroof and G.B. Smith, Thin Solid Films, 485: 198 (2005)."
+			},
+			{
+				"doi": "10.1063/1.4972471",
+				"or":  "Y. Jiang, S. Pillai, and M. A. Green, J. Appl. Phys., 120: 233109 (2016).",
+				"tr":  "Y. Jiang, S. Pillai, and M. A. Green, J. Appl. Phys., 120: 233109 (2016)."
+			},
+			{
+				"doi": "10.1063/1.1652680",
+				"or":  "A. F. Mayadas, M. Shatzkes, and J. F. Janak, Appl. Phys. Lett., 14, Iss. 11: 345 (1969).",
+				"tr":  "A. F. Mayadas, M. Shatzkes, and J. F. Janak, Appl. Phys. Lett., 14, Iss. 11: 345 (1969)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.1.1382",
+				"or":  "A. F. Mayadas and M. Shatzkes, Phys. Rev. B: Solid State, B4: 1382 (1970).",
+				"tr":  "A. F. Mayadas and M. Shatzkes, Phys. Rev. B: Solid State, B4: 1382 (1970)."
+			},
+			{
+				"doi": "10.1016/0040-6090(76)90091-2",
+				"or":  "C. R. Tellier and A. J. Tosser, Thin Solid Films, 33: L19 (1976).",
+				"tr":  "C. R. Tellier and A. J. Tosser, Thin Solid Films, 33: L19 (1976)."
+			},
+			{
+				"doi": "10.1016/0040-6090(77)90448-5",
+				"or":  "C. R. Tellier and A. J. Tosser, Thin Solid Films, 44: 141 (1977).",
+				"tr":  "C. R. Tellier and A. J. Tosser, Thin Solid Films, 44: 141 (1977)."
+			},
+			{
+				"doi": "10.1016/0040-6090(77)90455-2",
+				"or":  "C. R. Tellier, A. J. Tosser, and C. Boutrit, Thin Solid Films, 44: 201 (1977).",
+				"tr":  "C. R. Tellier, A. J. Tosser, and C. Boutrit, Thin Solid Films, 44: 201 (1977)."
+			},
+			{
+				"doi": "10.1016/0040-6090(78)90293-6",
+				"or":  "C. R. Tellier, Thin Solid Films, 51, No. 3: 311 (1978).",
+				"tr":  "C. R. Tellier, Thin Solid Films, 51, No. 3: 311 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "C. R. Tellier and A. J. Tosser, Size Effects in Thin Solid Films (Amsterdam: Elsevier: 1982).",
+				"tr":  "C. R. Tellier and A. J. Tosser, Size Effects in Thin Solid Films (Amsterdam: Elsevier: 1982)."
+			},
+			{
+				"doi": "10.1016/0040-6090(79)90305-5",
+				"or":  "C. R. Pichard, C. R. Tellier, and A. J. Tosser, Thin Solid Films, 62, No. 2: 189 (1979).",
+				"tr":  "C. R. Pichard, C. R. Tellier, and A. J. Tosser, Thin Solid Films, 62, No. 2: 189 (1979)."
+			},
+			{
+				"doi": "10.1088/0305-4608/10/3/002",
+				"or":  "C. R. Pichard, C. R. Tellier, and A. J. Tosser, J. Phys. F: Metal. Phys., 10: L101 (1980).",
+				"tr":  "C. R. Pichard, C. R. Tellier, and A. J. Tosser, J. Phys. F: Metal. Phys., 10: L101 (1980)."
+			},
+			{
+				"doi": "10.1007/BF00553280",
+				"or":  "M. Bedda, C. R. Pichard, and A. J. Tosser, J. Mat. Sci., 21: 1405 (1986).",
+				"tr":  "M. Bedda, C. R. Pichard, and A. J. Tosser, J. Mat. Sci., 21: 1405 (1986)."
+			},
+			{
+				"doi": "10.1007/BF01174068",
+				"or":  "H. Tijani, S. Messaadi, C. R. Pichard, and A. J. Tosser. J. Mat. Sci., 23, No. 1: 293 (1988).",
+				"tr":  "H. Tijani, S. Messaadi, C. R. Pichard, and A. J. Tosser. J. Mat. Sci., 23, No. 1: 293 (1988)."
+			},
+			{
+				"doi": "10.1007/BF00720039",
+				"or":  "A. J. Tosser, C. R. Pichard, M. Lahrichi, and M. Bedda, J. Mat. Sci. Lett., 4, No. 5: 585 (1985).",
+				"tr":  "A. J. Tosser, C. R. Pichard, M. Lahrichi, and M. Bedda, J. Mat. Sci. Lett., 4, No. 5: 585 (1985)."
+			}
+		]
+	}
+}

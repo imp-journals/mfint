@@ -1,0 +1,116 @@
+{
+	"_id":    "MFiNT.38.12.1563",
+	"year":   2016,
+	"volume": 38,
+	"issue":  12,
+	"pages":  [1563,1576],
+	"rubric": 2,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["27.10.2016"],
+	"PACS":   "02.70.Dh, 41.20.Jb, 42.25.Bs, 42.25.Fx, 42.25.Gy, 73.20.Mf, 78.67.Bf",
+	"title":   {
+		"ua": "Дифракція пласкої хвилі на золотому наноциліндрі скінченних розмірів",
+		"en": "Diffraction of Plane Wave on a Gold Nanocylinder of Finite Sizes",
+		"ru": "Дифракция плоской волны на золотом наноцилиндре конечных размеров"
+	},
+	"abstract": {
+		"ua": "Виконано розрахунок розсіяння пласких електромагнетних хвиль в оптичному діяпазоні на золотому наноциліндрі з використанням скінченно-елементного підходу для тривимірного векторного Гельмгольцового рівняння. Показано, що в резонансному режимі випромінювання активної енергії (потужности) індукованого в наноциліндрі електричного диполя в основному реалізується через його бічні сторони. Просторовий розподіл реактивної енергії електричного диполя має явно виражений локальний характер – ця енергія, в основному, розподіляється біля поверхні наноциліндра і в декілька разів більше за його активну енергію. При цьому протягом одного періоду коливань падної пласкої хвилі двічі реалізується обмін електромагнетною енергією між індукованим електричним диполем і пласкою хвилею. У ближній зоні розсіяння домінує не хвильовий, а коливний процес й інша фізична природа перевипромінювання енергії – не активна, а реактивна. Інтенсивність потоку Пойнтинґового вектора у ближній зоні в резонансному режимі на порядок перевищує інтенсивність даного потоку в нерезонансному режимі.",
+		"en": "The scattering of plane electromagnetic waves by a gold nanocylinder in the optical range is calculated using the finite-element method to solve 3D vector Helmholtz equation. As shown for the resonant mode, (i) the active energy (power) of the dipole induced within the nanocylinder is mainly produced through its side surfaces; (ii) the spatial distribution of the reactive energy of the dipole has explicit local character–it is distributed near the surface of the nanocylinder in the near-field zone, and the level of the reactive energy is more than three times bigger compared with the active energy in this zone; (iii) the electromagnetic-energy exchange between the incident plane wave and the dipole induced in the nanocylinder takes place (it occurs two times during the period of this wave). The oscillation process is dominant in the near-field zone compared with the wave process in this zone (the physical nature of the energy reemitting in the near-field zone is not active, but it is reactive). The intensity of flow of Poynting vector in the near-field zone exceeds by a factor of ten the intensity of flow in the non-resonant mode.",
+		"ru": "Выполнен расчёт рассеяния плоских электромагнитных волн в оптическом диапазоне на золотом наноцилиндре с использованием конечно-элементного подхода для решения трёхмерного векторного уравнения Гельмгольца. Показано, что в резонансном режиме излучение активной энергии (мощности) индуцированного электрического диполя в наноцилиндре в основном осуществляется через его боковые поверхности. Пространственное распределение реактивной энергии электрического диполя носит явно выраженный локальный характер – эта энергия, в основном, распределена в области поверхности наноцилиндра и в несколько раз больше его активной энергии. При этом в течение одного периода колебаний падающей плоской волны дважды осуществляется обмен электромагнитной энергией между индуцированным электрическим диполем и плоской волной. В ближней зоне доминирует не волновой, а колебательный характер и другая физическая природа переиспускания энергии – не активная, а реактивная. Интенсивность потока вектора Пойнтинга в ближней зоне в резонансном режиме на порядок превышает интенсивность рассматриваемого потока в нерезонансном режиме."
+	},
+	"keywords": {
+		"ua": "поверхневий плазмонний резонанс, розсіяння пласких електромагнетних хвиль, тривимірне векторне Гельмгольцове рівняння",
+		"en": "surface plasmon resonance, scattering of plane electromagnetic waves, 3D vector Helmholtz equation",
+		"ru": "поверхностный плазмонный резонанс, рассеяние плоских электромагнитных волн, трёхмерное векторное уравнение Гельмгольца"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. І. Каневський", "en": "V. I. Kanevskii", "ru": "В. И. Каневский"},
+			"OID": [21]
+		},
+		{
+			"AID": {"ua": "В. І. Григорук", "en": "V. I. Grigoruk", "ru": "В. И. Григорук"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "В. С. Сидоренко", "en": "V. S. Sidorenko", "ru": "В. С. Сидоренко"},
+			"OID": [201]
+		}
+	],
+	"references": {
+		"count": 14,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "S. A. Maier, Plasmonics: Fundamentals and Applications (New York: Springer Science + Business Media LLC: 2007).",
+				"tr":  "S. A. Maier, Plasmonics: Fundamentals and Applications (New York: Springer Science + Business Media LLC: 2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.24.649",
+				"or":  "B. J. Messinger, K. U. Vonraben, R. K. Chang, and P. W. Barber, Phys. Rev. B, 24: 649 (1981).",
+				"tr":  "B. J. Messinger, K. U. Vonraben, R. K. Chang, and P. W. Barber, Phys. Rev. B, 24: 649 (1981)."
+			},
+			{
+				"doi": "10.1016/j.jqsrt.2003.12.022",
+				"or":  "H. Xu, J. Quantitative Spectroscopy and Radiative Transfer, 87: 53 (2004).",
+				"tr":  "H. Xu, J. Quantitative Spectroscopy and Radiative Transfer, 87: 53 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.6.4370",
+				"or":  "P. B. Johnson and R. W. Christy, Phys. Rev. B, 6, No. 12: 4370 (1972).",
+				"tr":  "P. B. Johnson and R. W. Christy, Phys. Rev. B, 6, No. 12: 4370 (1972)."
+			},
+			{
+				"doi": "10.1021/jp057170o",
+				"or":  "P. K. Jain, K. S. Lee, I. H. El-Sayed, and M. A. El-Sayed, J. Phys. Chem. B, 110, No. 14: 7238 (2006).",
+				"tr":  "P. K. Jain, K. S. Lee, I. H. El-Sayed, and M. A. El-Sayed, J. Phys. Chem. B, 110, No. 14: 7238 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "C. F. Bohren and D. R. Huffman, Adsorption and Scattering of Light by Small Particles (New York: John Willey and Sons: 1983).",
+				"tr":  "C. F. Bohren and D. R. Huffman, Adsorption and Scattering of Light by Small Particles (New York: John Willey and Sons: 1983)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Климов, Наноплазмоника (Москва: Физматлит: 2009).",
+				"tr":  "V. V. Klimov, Nanoplazmonika [Nanoplasmonics] (Moscow: Fizmatlit: 2009) (in Russian)."
+			},
+			{
+				"doi": "10.7868/S0030403414080157",
+				"or":  "В. И. Каневский, В. М. Розенбаум, Оптика и спектроскопия, 117, № 2: 158 (2014).",
+				"tr":  "V. I. Kanevskii and V. M. Rozenbaum, Optika i Spektroskopiya, 117, No. 2: 158 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.1109/9780470544655",
+				"or":  "J. L. Volakis, A. Chatterjee, and L. C. Kempel, Finite Element Method for Electromagnetics (New York: IEEE Press: 1998).",
+				"tr":  "J. L. Volakis, A. Chatterjee, and L. C. Kempel, Finite Element Method for Electromagnetics (New York: IEEE Press: 1998)."
+			},
+			{
+				"doi": "",
+				"or":  "J. M. Jin, The Finite Element Method in Electromagnetics (New York: John Willey and Sons: 2002).",
+				"tr":  "J. M. Jin, The Finite Element Method in Electromagnetics (New York: John Willey and Sons: 2002)."
+			},
+			{
+				"doi": "10.1002/mop.4650071304",
+				"or":  "W. C. Chew and W. H. Weedon, Microwave Opt. Tech. Lett., 7: 599 (1994).",
+				"tr":  "W. C. Chew and W. H. Weedon, Microwave Opt. Tech. Lett., 7: 599 (1994)."
+			},
+			{
+				"doi": "10.1109/8.477075",
+				"or":  "Z. S. Sacks, D. M. Kingsland, R. Lee, and J. F. Lee, IEEE Trans. Antennas Propagat., 43, No. 12: 1460 (1995).",
+				"tr":  "Z. S. Sacks, D. M. Kingsland, R. Lee, and J. F. Lee, IEEE Trans. Antennas Propagat., 43, No. 12: 1460 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Ф. Венгер, А. В. Гончаренко, М. Л. Дмитрук, Оптика малих частинок і дисперсних середовищ (Київ: Наукова думка: 1999).",
+				"tr":  "E. F. Venger, A. V. Goncharenko, and M. L. Dmitruk, Optika Malykh Chastynok i Dyspersnykh Seredovyshch [Optics of Small Particles and Disperse Media] (Kyiv: Naukova Dumka: 1999) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. В. Короленко, Соросовский образовательный журнал, № 6: 93 (1998).",
+				"tr":  "P. V. Korolenko, Sorosovskiy Obrazovatelnyy Zhurnal, No. 6: 93 (1998) (in Russian)."
+			}
+		]
+	}
+}

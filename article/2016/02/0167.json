@@ -1,0 +1,93 @@
+{
+	"_id":    "MFiNT.38.02.0167",
+	"year":   2016,
+	"volume": 38,
+	"issue":  2,
+	"pages":  [167,174],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["20.05.2015","19.09.2015"],
+	"PACS":   "61.05.cp, 61.66.Dk, 68.43.Mn, 68.43.Nr, 81.20.-n, 84.60.Ve, 88.30.rd",
+	"title":   {
+		"ua": "Водневосорбційні властивості композиту (Ti—Zr—Mn—V)—Mg",
+		"en": "Hydrogen-Sorption Properties of a Composite (Ti—Zr—Mn—V)—Mg",
+		"ru": "Водородсорбционные свойства композита (Ti—Zr—Mn—V)—Mg"
+	},
+	"abstract": {
+		"ua": "Досліджено воднесорбційні властивості композиту, що складається зі зливку Ti$_{47,5}$Zr$_{30}$Mn$_{17,5}$V$_{5}$ та порошку Mg. Встановлено, що присутність порошку магнію не впливає на кінетику сорбції—десорбції водню монолітним гетерофазним стопом Ti$_{47,5}$Zr$_{30}$Mn$_{17,5}$V$_{5}$. Показано, що монолітний стоп Ti$_{47,5}$Zr$_{30}$Mn$_{17,5}$V$_{5}$ у процесі сорбції водню дисперґується в порошок гідридів, присутність якого спричиняє часткове гідрування порошкового магнію при температурі у 340—420°C і тиску водню у 0,018 МПа.",
+		"en": "The hydrogen-sorption properties of the composite consisted of Ti$_{47.5}$Zr$_{30}$Mn$_{17.5}$V$_{5}$ ingot and Mg powder is investigated. As found, the presence of magnesium powder does not affect the hydrogen sorption—desorption kinetics of bulk heterophase Ti$_{47.5}$Zr$_{30}$Mn$_{17.5}$V$_{5}$ alloy. As shown, the bulk Ti$_{47.5}$Zr$_{30}$Mn$_{17.5}$V$_{5}$ alloy is crushed into hydrides’ powder upon hydrogen sorption. The presence of the obtained hydrides’ powder led to partial hydrogenation of magnesium powder at a temperature of 340—420°C and a hydrogen pressure of 0.018 MPa.",
+		"ru": "Исследованы водородсорбционные свойства композита, состоящего из слитка Ti$_{47,5}$Zr$_{30}$Mn$_{17,5}$V$_{5}$ и порошка Mg. Установлено, что присутствие порошка магния не влияет на кинетику сорбции—десорбции водорода монолитным гетерофазным сплавом Ti$_{47,5}$Zr$_{30}$Mn$_{17,5}$V$_{5}$. Показано, что монолитный сплав Ti$_{47,5}$Zr$_{30}$Mn$_{17,5}$V$_{5}$ в процессе сорбции водорода диспергируется в порошок гидридов, присутствие которого вызывает частичное гидрирование порошкового магния при температуре 340—420°C и давлении водорода 0,018 МПа."
+	},
+	"keywords": {
+		"ua": "порошок магнію, гетерофазний стоп, гідрування, дегідрування, воднева місткість",
+		"en": "magnesium powder, heterophase alloy, hydrogenation, dehydrogenation, hydrogen capacity",
+		"ru": "порошок магния, гетерофазный сплав, гидрирование, дегидрирование, водородная ёмкость"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. А. Дехтяренко", "en": "V. A. Dekhtyarenko", "ru": "В. А. Дехтяренко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 11,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "﻿В. А. Легасов, Н. Н. Пономарев-Степной, А. Н. Проценко, Атомно-водородная энергетика и технология, 1: 11 (1978)",
+				"tr":  "V. A. Legasov, N. N. Ponomarev-Stepnoy, and A. N. Protsenko, Atomno-Vodorodnaya Energetika i Tekhnologiya, 1: 11 (1978) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Березин, С. Д. Варфоломеев, П. П. Титов, Атомно-водородная энергетика и технология, 2: 48 (1979)",
+				"tr":  "I. V. Berezin, S. D. Varfolomeev, and P. P. Titov, Atomno-Vodorodnaya Energetika i Tekhnologiya, 2: 48 (1979) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "М. М. Антонова, А. Б. Сапожникова, В. В. Скороход, Д. М. Карпинос, Л. Р. Вишняков, И. М. Шаля, Порошковая металлургия, № 6: 63 (1986)",
+				"tr":  "M. M. Antonova, A. B. Sapozhnikova, V. V. Skorokhod, D. M. Karpinos, L. R. Vishnyakov, and I. M. Shalya, Poroshkovaya Metallurgiya, No. 6: 63 (1986) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "М. М. Антонова, А. Б. Сапожникова, В. В. Скороход, Д. М. Карпинос, Л. Л. Рохлин, В. Н. Вербецкий, Л. Р. Вишняков, Н. И. Никитина, С. Н. Клямкин, И. М. Шаля, Порошковая металлургия, № 5: 61 (1987)",
+				"tr":  "M. M. Antonova, A. B. Sapozhnikova, V. V. Skorokhod, D. M. Karpinos, L. L. Rokhlin, V. N. Verbetsky, L. R. Vishnyakov, N. I. Nikitina, S. N. Klyamkin, and I. M. Shalya, Poroshkovaya Metallurgiya, No. 5: 61 (1987) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "К. Н. Семененко, В. Н. Вербецкий, А. В. Кочуков, А. Н. Сытников, Вестник МГУ. Сер. 2. Химия, 24, № 1: 16 (1983)",
+				"tr":  "K. N. Semenenko, V. N. Verbetskiy, A. V. Kochukov, and A. N. Sitnikov, Vestnik MGU. Ser. 2. Khimiya, 24, No. 1: 16 (1983) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "А. Д. Рудь, А. М. Лахник, В. Г. Иванченко, В. Н. Уваров, А. А. Школа, В. А. Дехтяренко, В. П. Мельниченко, Л. И. Иващук, Н. Н. Кускова, Металлофиз. новейшие технол., 29, № 11: 1467 (2007)",
+				"tr":  "O. D. Rud', A. M. Lakhnik, V. G. Ivanchenko, V. M. Uvarov, A. A. Shkola, V. A. Dekhtyarenko, V. P. Melnichenko, L. I. Ivashchuk, and N. I. Kuskova, Metallofiz. Noveishie Tekhnol., 29, No. 11: 1467 (2007) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Вербецкий, С. В. Митрохин, Материаловедение, 1: 48 (2009)",
+				"tr":  "V. N. Verbetskiy and S. V. Mitrokhin, Materialovedenie, 1: 48 (2009) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Вербецкий, Синтез и свойства многокомпонентных гидридов металлов (Автореферат дис. д-ра хим. наук) (Москва: Московский государственный университет им. М. В. Ломоносова: 1998)",
+				"tr":  "V. N. Verbetskiy, Sintez i Svoystva Mnogokomponentnykh Gidridov Metallov (Thesis of Disser. for … Dr. Chem. Sci.) (Moscow: M. V. Lomonosov Moscow State University: 1998) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Іванченко, Т. В. Прядко, В. А. Дехтяренко, Д. Г. Саввакін, Сплав для зберігання водню, Патент України на винахід № 108340 (Опубл. 10 квітня 2015 р.), бюл. № 7",
+				"tr":  "V. H. Ivanchenko, T. V. Pryadko, V. A. Dekhtyarenko, and D. H. Savvakin, Splav dlya Zberigannya Vodnyu, Patent of Ukraine No. 108340 (Publ. April 10, 2015), Bull. No. 7 (in Ukrainian)"
+			},
+			{
+				"doi": "10.15407/mfint.36.06.0803",
+				"or":  "В. Г. Иванченко, В. А. Дехтяренко, Т. В. Прядко, В. И. Ничипоренко, Металлофиз. новейшие технол., 36, № 6: 803 (2014)",
+				"tr":  "V. G. Ivanchenko, V. A. Dekhtyarenko, T. V. Pryadko, and V. I. Nychyporenko, Metallofiz. Noveishie Tekhnol., 36, No. 6: 803 (2014) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "Г. Ф. Кобзенко, А. А. Школа, Завод. лаборатория, 7: 41 (1990)",
+				"tr":  "G. F. Kobzenko and A. A. Shkola, Zavod. Laboratoriya, 7: 41 (1990) (in Russian)"
+			}
+		]
+	}
+}

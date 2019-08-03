@@ -1,0 +1,142 @@
+{
+	"year":   2018,
+	"volume": 40,
+	"issue":  8,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [993,1004],
+			"title": {
+				"ua": "Зміцнення поверхні сталі 45 йонним азотуванням у геліконному розряді",
+				"en": "Hardening of a Surface of Steel 45 by the Ion Nitridation in a Helicon Discharge",
+				"ru": "Упрочнение поверхности стали 45 ионным азотированием в геликонном разряде"
+			},
+			"autors": {
+				"ua": "Е. М. Руденко, В. Є. Панарін, П. О. Киричок, М. Є. Свавільний, І. В. Короташ, Д. Ю. Полоцький, Р. Л. Тріщук",
+				"en": "E. M. Rudenko, V. Ye. Panarin, P. O. Kyrychok, M. Ye. Svavilnyi, I. V. Korotash, D. Yu. Polotskyi, and R. L. Trishchuk",
+				"ru": "Э. М. Руденко, В. Е. Панарин, П. А. Киричок, Н. Е. Свавильный, И. В. Короташ, Д. Ю. Полоцкий, Р. Л. Трищук"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [1005,1027],
+			"title": {
+				"ua": "Вплив мастильно-охолодних рідин з активними хемічними елементами на підвищення довговічности сталевих деталів при фрикційному зміцненні робочих поверхонь",
+				"en": "Influence of Lubricoolants with Active Chemical Elements on Increase of Durability of Steel Parts After Frictional Hardening Working Surfaces",
+				"ru": "Влияние смазочно-охлаждающих жидкостей с активными химическими элементами на повышение долговечности стальных деталей при фрикционном упрочнении рабочих поверхностей"
+			},
+			"autors": {
+				"ua": "В. В. Тихонович",
+				"en": "V. V. Tykhonovych",
+				"ru": "В. В. Тихонович"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [1029,1049],
+			"title": {
+				"ua": "Механічні властивості, фазовий і хемічний склади поверхні стопу ВТ6 після УЗУО в хемічно активних і нейтральному середовищах",
+				"en": "Mechanical Properties, Phase and Chemical Compositions of a Surface of the Ti–6Al–4V Alloy After Ultrasonic Impact Treatment in Chemically Active and Neutral Mediums",
+				"ru": "Механические свойства, фазовый и химический составы поверхности сплава ВТ6 после УЗУО в химически активных и нейтральной средах"
+			},
+			"autors": {
+				"ua": "М. О. Васильєв, Б. М. Мордюк, Г. І. Прокопенко, С. М. Волошко, Л. Ф. Яценко, Н. І. Хріпта",
+				"en": "M. O. Vasylyev, B. M. Mordyuk, G. I. Prokopenko, S. М. Voloshko, L. F. Yatsenko, and N. I. Khripta",
+				"ru": "М. А. Васильев, Б. Н. Мордюк, Г. И. Прокопенко, С. М. Волошко, Л. Ф. Яценко, Н. И. Хрипта"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1051,1067],
+			"title": {
+				"ua": "Фізико-механічні властивості нових стопів 54,6Ni–11Fe–30Cr–3,5Nb–0,5Ti–0,4C та 58Ni–11Fe–30Cr–0,5Nb–0,5Ti при низьких температурах",
+				"en": "Physical-Mechanical Properties of the 54.6Ni–11Fe–30Cr–3.5Nb–0.5Ti–0.4C and 58Ni–11Fe–30Cr–0.5Nb–0.5Ti Alloys in the Low-Temperature Region",
+				"ru": "Физико-механические свойства сплавов 54,6Ni–11Fe–30Cr–3,5Nb–0,5Ti–0,4C и 58Ni–11Fe–30Cr–0,5Nb–0,5Ti в области низких температур"
+			},
+			"autors": {
+				"ua": "Ю. О. Семеренко, К. А. Ющенко, О. Д. Табачнікова, Л. В. Скибіна, В. С. Савченко, М. А. Тихоновський, О. М. Бовда, О. С. Тортика",
+				"en": "Yu. O. Semerenko, K. A. Yushchenko, O. D. Tabachnikova, L. V. Skybina, V. S. Savchenko, М. А. Tikhonovsky, O. М. Bovda, and O. S. Tortyka",
+				"ru": "Ю. А. Семеренко, К. А. Ющенко, Е. Д. Табачникова, Л. В. Скибина, В. С. Савченко, М. А. Тихоновский, А. М. Бовда, А. С. Тортика"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [1069,1079],
+			"title": {
+				"ua": "Формування впорядкованої фази $L1_0$-FePt у плівках Fe$_{50}$Pt$_{50}$/Au/Fe$_{50}$Pt$_{50}$ при відпалі у водні",
+				"en": "Formation of the Ordered $L1_0$-FePt Phase in Fe$_{50}$Pt$_{50}$/Au/Fe$_{50}$Pt$_{50}$ Films at Annealing in Hydrogen",
+				"ru": "Формирование упорядоченной фазы $L1_0$-FePt в плёнках Fe$_{50}$Pt$_{50}$/Au/Fe$_{50}$Pt$_{50}$ при отжиге в водороде"
+			},
+			"autors": {
+				"ua": "М. Ю. Вербицька, М. Н. Шаміс, П. В. Макушко, Я. A. Бeрезняк, К. О. Грайворонська, Т. І. Вербицька, Ю. М. Макогон, Ю. В. Кудрявцев",
+				"en": "M. Yu. Verbytska, M. N. Shamis, P. V. Makushko, Ya. A. Berezniak, K. O. Grayvoronska, T. I. Verbytska, Yu. M. Makogon, and Yu. V. Kudryavtsev",
+				"ru": "М. Ю. Вербицкая, М. Н. Шамис, П. В. Макушко, Я. A. Бeрезняк, К. А. Грайворонская, Т. И. Вербицкая, Ю. Н. Макогон, Ю. В. Кудрявцев"
+			}
+		},		
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [1081,1091],
+			"title": {
+				"ua": "Особливості формування структури та фазового складу в процесі реакційного спікання кубічного нітриду бору зі сполуками Ti, Cr, V",
+				"en": "Features of Formation of Structure and Phase Composition During a Reactive Sintering of Cubic Boron Nitride with Compounds of Ti, Cr, V",
+				"ru": "Особенности формирования структуры и фазового состава в процессе реакционного спекания кубического нитрида бора с соединениями Ti, Cr, V"
+			},
+			"autors": {
+				"ua": "К. В. Сліпченко, І. А. Петруша, В. З. Туркевич, В. М. Бушля, Я.-Е. Штоль",
+				"en": "K. V. Slipchenko, I. A. Petrusha, V. Z. Turkevich, V. M. Bushlya, and J.-E. Stahl",
+				"ru": "Е. В. Слипченко, И. А. Петруша, В. З. Туркевич, В. М. Бушля, Я.-Е. Штоль"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [1093,1111],
+			"title": {
+				"ua": "Дослідження процесу розчиноутворення та формування інтерметалевих сполук при механоактивації та відпалі крупнозернистих порошкових сумішей міді з алюмінієм та марганцем",
+				"en": "Study of Process of Formation of Solid Solutions and Intermetallic Compounds at Mechanical Activation and Annealing of Coarse-Grained Powder Blends of Copper with Aluminum and Manganese",
+				"ru": "Исследование процесса растворообразования и формирования интерметаллических соединений при механоактивации и отжиге крупнозернистых порошковых смесей меди с алюминием и марганцем"
+			},
+			"autors": {
+				"ua": "В. М. Надутов, А. О. Перекос, Б. М. Мордюк, В. З. Войнаш, Т. В. Єфімова, В. П. Залуцький, Т. Г. Кабанцев, Н. О. Піскун",
+				"en": "V. M. Nadutov, A. O. Perekos, B. M. Mordyuk, V. Z. Voinash, T. V. Efimova, V. P. Zalutskiy, T. G. Kabantsev, and N. O. Piskun",
+				"ru": "В. М. Надутов, А. Е. Перекос, Б. Н. Мордюк, В. З. Войнаш, Т. В. Ефимова, В. П. Залуцкий, Т. Г. Кабанцев, Н. А. Пискун"
+			}
+		},		
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [1113,1121],
+			"title": {
+				"ua": "Першопринципне моделювання електронної структури та механічних властивостей субстехіометричного TiC$_x$",
+				"en": "Ab initio Modelling of Electronic Structure and Mechanical Properties of Substoichiometric TiC$_x$",
+				"ru": "Первопринципное моделирование электронной структуры и механических свойств субстехиометрического TiC$_x$"
+			},
+			"autors": {
+				"ua": "І. В. Плющай, Т. Л. Цареградська, О. І. Плющай",
+				"en": "I. V. Plyushchay, T. L. Tsaregradska, and O. I. Plyushchay",
+				"ru": "И. В. Плющай, Т. Л. Цареградская, А. И. Плющай"
+			}
+		},		
+		{
+			"type":    1,
+			"rubric":  18,
+			"pages":  [1123,1131],
+			"title": {
+				"ua": "Аномальна чутливість до мікродефектів деформаційної залежності повної інтегральної інтенсивності динамічної дифракції в монокристалах",
+				"en": "Anomalous Sensitivity of Deformation Dependence of Total Integrated Intensity of Dynamical Diffraction to Microdefects in Single Crystals",
+				"ru": "Аномальная чувствительность к микродефектам деформационной зависимости полной интегральной интенсивности динамической дифракции в монокристаллах"
+			},
+			"autors": {
+				"ua": "В. Б. Молодкін, Г. І. Низкова, В. В. Лізунов, В. В. Молодкін, Є. М. Кисловський, Я. В. Василик, О. В. Решетник, Т. П. Владімірова, А. О. Білоцька, Н. В. Барвінок",
+				"en": "V. B. Molodkin, A. I. Nizkova, V. V. Lizunov, V. V. Molodkin, Ye. M. Kyslovskyi, Ya. V. Vasylyk, O. V. Reshetnyk, T. P. Vladimirova, A. O. Belotska, and N. V. Barvinok",
+				"ru": "В. Б. Молодкин, А. И. Низкова, В. В. Лизунов, В. В. Молодкин, Е. Н. Кисловский, Я. В. Василик, О. В. Решетник, Т. П. Владимирова, А. А. Белоцкая, Н. В. Барвинок"
+			}
+		}		
+	]
+}

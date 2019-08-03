@@ -1,0 +1,157 @@
+{
+	"year":   2016,
+	"volume": 38,
+	"issue":  12,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  2,
+			"pages":  [1563,1576],
+			"title": {
+				"ua": "Дифракція пласкої хвилі на золотому наноциліндрі скінченних розмірів",
+				"en": "Diffraction of Plane Wave on a Gold Nanocylinder of Finite Sizes",
+				"ru": "Дифракция плоской волны на золотом наноцилиндре конечных размеров"
+			},
+			"autors": {
+				"ua": "В. І. Каневський, В. І. Григорук, В. С. Сидоренко",
+				"en": "V. I. Kanevskii, V. I. Grigoruk, and V. S. Sidorenko",
+				"ru": "В. И. Каневский, В. И. Григорук, В. С. Сидоренко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [1577,1586],
+			"title": {
+				"ua": "Синтез і транспортні характеристики плівок діоксиду хрому",
+				"en": "Synthesis and Transport Properties of the Chromium Dioxide Films",
+				"ru": "Синтез и транспортные характеристики плёнок диоксида хрома"
+			},
+			"autors": {
+				"ua": "В. В. Невдача, А. М. Погорілий, Б. М. Мицюк, Д. І. Під’яловський, В. В. Кононенко, Д. О. Федюк, В. Ю. Таренков, В. М. Криворучко",
+				"en": "V. V. Nevdacha, A. M. Pogorilyi, B. M. Mitsyuk, D. I. Podyalovskyi, V. V. Kononenko, D. O. Fedyuk, V. Yu. Tarenkov, and V. M. Krivoruchko",
+				"ru": "В. В. Невдача, А. Н. Погорелый, Б. М. Мицюк, Д. И. Подьяловский, В. В. Кононенко, Д. О. Федюк, В. Ю. Таренков, В. Н. Криворучко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [1587,1598],
+			"title": {
+				"ua": "Вплив товщин окремих шарів та роздільчих меж на фазовий склад і магнетні властивості багатошарових плівкових композицій Pt/Fe",
+				"en": "Influence of Separate-Layers’ Thicknesses and Interfaces on the Phase Composition and Magnetic Properties of Multilayer Pt/Fe Film Compositions",
+				"ru": "Влияние толщин отдельных слоёв и границ раздела на фазовый состав и магнитные свойства многослойных плёночных композиций Pt/Fe"
+			},
+			"autors": {
+				"ua": "М. Ю. Вербицька, Е. А. Холіна, Т. І. Вербицька, Ю. М. Макогон",
+				"en": "M. Yu. Verbytska, Ye. A. Kholina, T. I. Verbytska, and Iu. M. Makogon",
+				"ru": "М. Ю. Вербицкая, Е. А. Холина, Т. И. Вербицкая, Ю. Н. Макогон"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [1599,1609],
+			"title": {
+				"ua": "Вплив проміжних шарів Ag і Cu на температурні інтервали фазових перетворень у плівкових композиціях Pt/Fe",
+				"en": "Influence of the Ag and Cu Intermediate Layers on the Temperature Ranges of Phase Transformations in Pt/Fe Film Compositions",
+				"ru": "Влияние промежуточных слоёв Ag и Cu на температурные интервалы фазовых превращений в плёночных композициях Pt/Fe"
+			},
+			"autors": {
+				"ua": "О. С. Небога, М. О. Перваков, С. І. Сидоренко, І. А. Владимирський",
+				"en": "O. S. Neboga, M. O. Pervakov, S. I. Sydorenko, and I. A. Vladymyrskyy",
+				"ru": "О. С. Небога, Н. А. Перваков, С. И. Сидоренко, И. А. Владимирский"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [1611,1633],
+			"title": {
+				"ua": "Дослідження закономірностей процесів формування поверхневих шарів при електроерозійному леґуванні. Частина 1",
+				"en": "Investigation of Regularities of the Processes of Formation of Surface Layers with Electroerosive Alloying. Part I",
+				"ru": "Исследование закономерностей процессов формирования поверхностных слоёв при электроэрозионном легировании. Часть 1"
+			},
+			"autors": {
+				"ua": "В. Б. Тарельник, О. П. Гапонова, Є. В. Коноплянченко, М. Я. Довжик",
+				"en": "V. B. Tarel’nyk, O. P. Gaponova, Ye. V. Konoplyanchenko, and M. Ya. Dovzhyk",
+				"ru": "В. Б. Тарельник, О. П. Гапонова, Е. В. Коноплянченко, М. Я. Довжик"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [1635,1654],
+			"title": {
+				"ua": "Натурні випробування в реальному часі напружень через циндру у суперстопі методою скручувального моменту для зразка, вирізаного за Архімедовою кривою",
+				"en": "Real Time Test in situ of Superalloy Oxide Scale Stress by Archimedes Curve Slice Moment Technique",
+				"ru": "Натурные испытания в режиме реального времени напряжений из-за окалины в суперсплаве методом скручивающего момента для образца, вырезанного по кривой Архимеда"
+			},
+			"autors": {
+				"ua": "Хай-тао Ванг, Шао-мей Женг, Хуа-шун Ю",
+				"en": "Hai-tao Wang, Shao-mei Zheng, and Hua-shun Yu",
+				"ru": "Хай-тао Ванг, Шао-мей Женг, Хуа-шун Ю"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1655,1668],
+			"title": {
+				"ua": "Вплив механічних властивостей матеріялу на динаміку прихоплених бурильних труб",
+				"en": "Influence of Mechanical Properties of a Material on Dynamics of the Stuck Drilling Pipes",
+				"ru": "Влияние механических свойств материала на динамику прихваченных бурильных труб "
+			},
+			"autors": {
+				"ua": "К. Г. Левчук, В. М. Мойсишин, І. В. Цідило",
+				"en": "K. G. Levchuk, V. M. Moisyshyn, and I. V. Tsidylo",
+				"ru": "Е. Г. Левчук, В. М. Мойсишин, И. В. Цидыло"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1669,1680],
+			"title": {
+				"ua": "Концепція інтелектуального електрогідравлічного преса для імпульсного листового штампування",
+				"en": "Concept of Smart Electrohydraulic Press for Impulse Sheet Forming",
+				"ru": "Концепция интеллектуального электрогидравлического пресса для импульсной листовой штамповки"
+			},
+			"autors": {
+				"ua": "М. К. Князєв, Ш. Беєрвальд",
+				"en": "M. K. Knyazyev and Ch. Beerwald",
+				"ru": "М. К. Князев, Ш. Беервальд"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [1681,1696],
+			"title": {
+				"ua": "Вплив вібрації на морфологію фронту при спрямованому твердінні",
+				"en": "Influence of Vibration on Morphology of Front During the Directional Solidification",
+				"ru": "Влияние вибрации на морфологию фронта при направленном затвердевании"
+			},
+			"autors": {
+				"ua": "О. П. Федоров, В. Ф. Демченко, Є. Л. Живолуб",
+				"en": "O. P. Fedorov, V. F. Demchenko, and E. L. Zhivolub",
+				"ru": "О. П. Фёдоров, В. Ф. Демченко, Е. Л. Живолуб"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  10,
+			"pages":  [1697,1702],
+			"title": {
+				"ua": "До 70-річчя академіка НАН України О. М. Івасишина",
+				"en": "On the Occasion of the 70th Anniversary of Birthday of O. M. Ivasishin, Member of the N.A.S. of Ukraine",
+				"ru": "К 70-летию академика НАН Украины О. М. Ивасишина"
+			},
+			"autors": {
+				"ua": "В. А. Татаренко, Т. М. Радченко, В. М. Надутов, Є. Г. Лень, Є. В. Кочелаб",
+				"en": "V. A. Tatarenko, T. M. Radchenko, V. M. Nadutov, E. G. Len, and Ye. V. Kochelab",
+				"ru": "В. А. Татаренко, Т. М. Радченко, В. М. Надутов, Е. Г. Лень, Е. В. Кочелаб"
+			}
+		}
+	]
+}

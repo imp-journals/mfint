@@ -1,0 +1,162 @@
+{
+	"_id":    "MFiNT.39.03.0309",
+	"year":   2017,
+	"volume": 39,
+	"issue":  3,
+	"pages":  [309,321],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["02.02.2017"],
+	"PACS":   "61.50.Lt, 71.15.Ap, 71.15.Mb, 71.30.+h, 75.10.Lp, 75.25.-j, 85.75.-d",
+	"title":   {
+		"ua": "Розподіл атомів за кристалографічними позиціями у Гойслерових стопах $M$MnSb ($M$ = Co, Ni, Cu) та їх електронна будова",
+		"en": "Distribution of Atoms on Crystallographic Positions in Heusler Alloys $M$MnSb ($M$ = Co, Ni, Cu) and Their Electronic Structure",
+		"ru": "Распределение атомов по кристаллографическим позициям в сплавах Гейслера $M$MnSb ($M$ = Co, Ni, Cu) и их электронное строение"
+	},
+	"abstract": {
+		"ua": "За допомогою зонних розрахунків у моделю FLAPW (full-potential linearized augmented-plane-waves) з’ясовано роль взаємних атомових заміщень у формуванні енергетичних, зарядових і спінових характеристик стопів $M$MnSb ($M$ = Co, Ni, Cu). Виявлено, що їхній основний стан (з найбільшим значенням когезійної енергії) реалізується в разі розташування атомів $М$ у кристалографічних позиціях з тетраедричним атомовим оточенням, а заміна їх Манґаном або Стибієм сприяє виникненню енергетично високозбуджених метастабільних фаз. Обмін атомами між позиціями, які формують підґратницю типу NaCl, не приводить до змін в енергетичних характеристиках і в електронній будові стопів. Стопи з Кобальтом і Ніклем в основному енергетичному стані є напівметалами (semimetals), тоді як з стопи з Купрумом і фази в метастабільному стані — металами. Для всіх стопів найбільший магнетний момент зосереджено на атомах Манґану.",
+		"en": "By means of band calculations within the FLAPW (full-potential linearized augmented-plane-waves) model, the role of mutual atomic substitutions in the formation of energy, charge, and spin characteristics of $M$MnSb alloys ($M$ = Co, Ni, Cu) is clarified. As found, their ground state (with the largest cohesive energy) is realized in the case of the arrangement of $M$ atoms at the crystallographic positions with tetrahedral atomic environment, and their substitution by the manganese or antimony atoms leads to the appearance of metastable phases with high energy-excited state. The exchange of atoms between the positions, which forms the NaCl-type sublattice, does not lead to changes in the energy characteristics and electronic structure of alloys. The nickel- and cobalt-containing alloys in the ground state are semimetals, while the alloys with copper and alloys in a metastable state are metals. For all the alloys, the largest magnetic moment is localized on the manganese atoms.",
+		"ru": "С помощью зонных расчётов в модели FLAPW (full-potential linearized augmented-plane-waves) выяснена роль взаимных атомных замещений в формировании энергетических, зарядовых и спиновых характеристик сплавов $M$MnSb ($M$ = Co, Ni, Cu). Обнаружено, что их основное состояние (с наибольшим значением когезионной энергии) реализуется в случае расположения атомов $М$ в кристаллографических позициях с тетраэдрическим атомным окружением, а их замена марганцем или сурьмой способствует возникновению энергетически высоковозбуждённых метастабильных фаз. Обмен атомами между позициями, формирующими подрешётку типа NaCl, не приводит к изменениям в энергетических характеристиках и в электронном строении сплавов. Сплавы с кобальтом и никелем в основном энергетическом состоянии являются полуметаллами (semimetals), тогда как сплавы с медью и фазы в метастабильном состоянии — металлами. Во всех сплавах наибольший магнитный момент сосредоточен на атомах марганца."
+	},
+	"keywords": {
+		"ua": "зонні розрахунки, Гойслерові стопи, електронна будова, магнетні моменти, поляризовані електронні стани, спінтроніка",
+		"en": "band structure calculations, Heusler alloys, electronic structure, magnetic moments, polarized electron states, spintronics",
+		"ru": "зонные расчёты, сплавы Гейслера, электронное строение, магнитные моменты, поляризованные электронные состояния, спинтроника"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. М. Уваров", "en": "V. N. Uvarov", "ru": "В. Н. Уваров"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. В. Уваров", "en": "N. V. Uvarov", "ru": "Н. В. Уваров"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 24,
+		"list":  [
+			{
+				"doi": "10.1016/j.progsolidstchem.2011.02.001",
+				"or":  "T. Graf, C. Felser, and S. S. P. Parkin, Progress in Solid State Chemistry, 39, Iss. 1: 1 (2011).",
+				"tr":  "T. Graf, C. Felser, and S. S. P. Parkin, Progress in Solid State Chemistry, 39, Iss. 1: 1 (2011)."
+			},
+			{
+				"doi": "10.1002/anie.200601815",
+				"or":  "C. Felser, G. H. Fecher, and B. Balke, Angew. Chem. Int. Ed., 46, Iss. 5: 668 (2007).",
+				"tr":  "C. Felser, G. H. Fecher, and B. Balke, Angew. Chem. Int. Ed., 46, Iss. 5: 668 (2007)."
+			},
+			{
+				"doi": "10.15407/mfint.38.03.0305",
+				"or":  "V. N. Uvarov, N. V. Uvarov, and S. A. Bespalov, Metallofiz. Noveishie Tekhnol., 38, No. 3: 305 (2016) (in Russian).",
+				"tr":  "V. N. Uvarov, N. V. Uvarov, and S. A. Bespalov, Metallofiz. Noveishie Tekhnol., 38, No. 3: 305 (2016) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0921-4526(97)00401-8",
+				"or":  "S. Ishida, T. Masaki, S. Fujii, and S. Asano, Physica B, 239, Iss. 1–2: 163 (1997).",
+				"tr":  "S. Ishida, T. Masaki, S. Fujii, and S. Asano, Physica B, 239, Iss. 1–2: 163 (1997)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2004.04.041",
+				"or":  "J. Tobola, L. Jodin, P. Pecheur, and G. Venturini, J. Alloys Compd., 383, Iss. 1–2: 328 (2004).",
+				"tr":  "J. Tobola, L. Jodin, P. Pecheur, and G. Venturini, J. Alloys Compd., 383, Iss. 1–2: 328 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.62.12754",
+				"or":  "P. Larson, S. D. Mahanti, and M. G. Kanatzidis, Phys. Rev. B, 62: 12754 (2000).",
+				"tr":  "P. Larson, S. D. Mahanti, and M. G. Kanatzidis, Phys. Rev. B, 62: 12754 (2000)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2004.11.017",
+				"or":  "T. Sekimoto, K. Kurosaki, H. Muta, and S. Yamanaka, J. Alloys Compd., 394, Iss. 1–2: 122 (2005).",
+				"tr":  "T. Sekimoto, K. Kurosaki, H. Muta, and S. Yamanaka, J. Alloys Compd., 394, Iss. 1–2: 122 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.60.13237",
+				"or":  "D. Orgassa, H. Fujiwara, T. C. Schulthess, and W. H. Butler, Phys. Rev. B, 60: 13237 (1999).",
+				"tr":  "D. Orgassa, H. Fujiwara, T. C. Schulthess, and W. H. Butler, Phys. Rev. B, 60: 13237 (1999)."
+			},
+			{
+				"doi": "10.1016/0304-8853(84)90075-1",
+				"or":  "R. B. Helmholdt, R. A. de Groot, F. M. Mueller, P. G. van Engen, and K. H. J. Buschow, J. Magn. Magn. Mat., 43, Iss. 3: 249 (1984).",
+				"tr":  "R. B. Helmholdt, R. A. de Groot, F. M. Mueller, P. G. van Engen, and K. H. J. Buschow, J. Magn. Magn. Mat., 43, Iss. 3: 249 (1984)."
+			},
+			{
+				"doi": "10.1088/0953-8984/1/13/007",
+				"or":  "M. J. Otto, R. A. M. van Woerden, P. J. van der Valk, J. Wijngaard, C. F. van Bruggen, C. Haas, and K. H. J. Buschow, J. Phys.: Condens. Matter, 1, No. 13: 2341 (1989).",
+				"tr":  "M. J. Otto, R. A. M. van Woerden, P. J. van der Valk, J. Wijngaard, C. F. van Bruggen, C. Haas, and K. H. J. Buschow, J. Phys.: Condens. Matter, 1, No. 13: 2341 (1989)."
+			},
+			{
+				"doi": "10.12693/APhysPolA.111.475",
+				"or":  "A. Szytula, B. Penc, L. Gondek, Acta Physica Polonica A, 111, No. 4: 475 (2007).",
+				"tr":  "A. Szytula, B. Penc, L. Gondek, Acta Physica Polonica A, 111, No. 4: 475 (2007)."
+			},
+			{
+				"doi": "10.1016/0304-8853(83)90097-5",
+				"or":  "K. H. J. Buschow, P. G. van Engen, and R. Jongebreur, J. Magn. Magn. Mat., 38: Iss. 1: 1 (1983).",
+				"tr":  "K. H. J. Buschow, P. G. van Engen, and R. Jongebreur, J. Magn. Magn. Mat., 38: Iss. 1: 1 (1983)."
+			},
+			{
+				"doi": "10.1007/978-1-4757-2312-0",
+				"or":  "D. J. Singh and L. Nordstrom, Plane Waves, Pseudopotentials and LAPW Method (Boston: Kluwer Academic: 1994).",
+				"tr":  "D. J. Singh and L. Nordstrom, Plane Waves, Pseudopotentials and LAPW Method (Boston: Kluwer Academic: 1994)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.77.3865",
+				"or":  "J. P. Perdew, S. Burke, and M. Ernzerhof, Phys. Rev. Lett., 77: 3865 (1996).",
+				"tr":  "J. P. Perdew, S. Burke, and M. Ernzerhof, Phys. Rev. Lett., 77: 3865 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Blaha, K. Schwarz, G. K. H. Madsen, D. Kvasnicka, and J. Luitz, An Augmented Plane Wave  Local Orbitals Program for Calculating Crystal Properties (Wien: Techn. Universitat Wien: 2001).",
+				"tr":  "P. Blaha, K. Schwarz, G. K. H. Madsen, D. Kvasnicka, and J. Luitz, An Augmented Plane Wave + Local Orbitals Program for Calculating Crystal Properties (Wien: Techn. Universitat Wien: 2001)."
+			},
+			{
+				"doi": "",
+				"or":  "http://www.wien2k.at/reg_user/faq/.",
+				"tr":  "http://www.wien2k.at/reg_user/faq/."
+			},
+			{
+				"doi": "10.1088/0953-8984/15/43/014",
+				"or":  "B. R. K. Nanda and I. Dasgupta, J. Phys.: Condens. Matter, 15, No. 43: 7307 (2003).",
+				"tr":  "B. R. K. Nanda and I. Dasgupta, J. Phys.: Condens. Matter, 15, No. 43: 7307 (2003)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.50.2024",
+				"or":  "R. A. de Groot, F. M. Mueller, P. G. van Engen, and K. H. J. Buschow, Phys. Rev. Lett., 50: 2024 (1983).",
+				"tr":  "R. A. de Groot, F. M. Mueller, P. G. van Engen, and K. H. J. Buschow, Phys. Rev. Lett., 50: 2024 (1983)."
+			},
+			{
+				"doi": "10.1016/S0166-1280(00)00483-8",
+				"or":  "D. Jung, H.-J. Koo, and M.-H. Whangbo, J. Mol. Structure (Theochem), 527, Iss. 1–3: 113 (2000).",
+				"tr":  "D. Jung, H.-J. Koo, and M.-H. Whangbo, J. Mol. Structure (Theochem), 527, Iss. 1–3: 113 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "I. Galanakis and P. H. Dederichs, Lect. Notes Phys., 676 (2005).",
+				"tr":  "I. Galanakis and P. H. Dederichs, Lect. Notes Phys., 676 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Jeong, R. Weht, and W. E. Pickett, arXiv:cond-mat/0505624v1 (2005).",
+				"tr":  "T. Jeong, R. Weht, and W. E. Pickett, arXiv:cond-mat/0505624v1 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.28.1745",
+				"or":  "J. Kübler, A. R. William, and C. B. Sommers, Phys. Rev. B, 28: 1745 (1983).",
+				"tr":  "J. Kübler, A. R. William, and C. B. Sommers, Phys. Rev. B, 28: 1745 (1983)."
+			},
+			{
+				"doi": "10.1063/1.93849",
+				"or":  "P. G. van Engen, K. H. J. Buschow, R. Jongebreur, and M. Erman, Appl. Phys. Lett., 42, Iss. 2: 202 (1983).",
+				"tr":  "P. G. van Engen, K. H. J. Buschow, R. Jongebreur, and M. Erman, Appl. Phys. Lett., 42, Iss. 2: 202 (1983)."
+			},
+			{
+				"doi": "10.1016/0022-3697(68)90147-9",
+				"or":  "H. Forster, G. B. Johnston, and D. A. Wheeler, J. Phys. Chem. Solids, 29, Iss. 5: 855 (1968).",
+				"tr":  "H. Forster, G. B. Johnston, and D. A. Wheeler, J. Phys. Chem. Solids, 29, Iss. 5: 855 (1968)."
+			}
+		]
+	}
+}

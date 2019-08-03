@@ -1,0 +1,137 @@
+{
+	"_id":    "MFiNT.36.01.0103",
+	"year":   2014,
+	"volume": 36,
+	"issue":  1,
+	"pages":  [103,125],
+	"rubric": 1,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["12.11.2013"],
+	"PACS":   "63.50.Lm, 71.10.-w, 71.23.An, 72.10.Di, 72.15.Cz, 75.30.Mb, 75.50.Kj",
+	"title":   {
+		"ua": "Кластерна модель рідкого або аморфного металу. Квантово-статистична теорія. Аморфний метал",
+		"en": "Cluster Model of Liquid or Amorphous Metal. Quantum-Statistical Theory. Amorphous Metal",
+		"ru": "Кластерная модель жидкого или аморфного металла. Квантово-статистическая теория. Аморфный металл"
+	},
+	"abstract": {
+		"ua": "Квантово-статистична теорія аморфного металу (АМ) будується на прикладі Fe—B. Вважаємо, що кластери близького порядку $K_{j}$ високоспінових (ВС) йонів Fe розділено порожнинами $h_{ij}$ низькоспінових (НС) йонів Fe, ковалентно зв’язаних з катіонами B$^{+}$. Амплітуди хвильових функцій НС йонів Fe ($\\xi_{1}$) і йонних станів B$^{+}$ ($\\xi_{+}$) розраховано в представленні багатоелектронних операторних спінорів (БЕОС) $D_{r}^{1}$ і $P_{R}$. Варіаційний принцип пов’язує величини $\\xi_{1}(T)$ і $\\xi_{+}(T)$, які зменшуються при зростанні температури $T < T_{min}$. Руйнування АМ-фази (кристалізація при $T \\rightarrow T_{min} - 0$) зумовлено ентропією B$^{0}$-атомів і пов’язаною з нею підвищеною тепломісткістю $C_{V}(T)$. Стійкість АМ підтримується ентропією флуктуацій хімічних зв’язків (ФХЗ) катіонів і зонних електронів. Частина електроопору (ЕО) створюється механізмами захоплення носіїв току ковалентними станами і ФХЗ. Вона зменшується при зростанні $T$. Розсіяння на «домішкових» фононах дає зростаючу лінійно з ростом $T$ частину ЕО. Комбінація цих ефектів дає можливість одержати матеріали зі сталим (при зміні $T$) ЕО для $T < T_{min}$.",
+		"en": "The quantum-statistical theory of amorphous metal (AM) is developed by an example of Fe—B. As supposed, the short-range order clusters ($K_{j}$) of high-spin (HS) Fe ions are separated by holes ($h_{ij}$) of low-spin (LS) Fe ions covalently bonded with B$^{+}$ cations. Wave-functions’ amplitudes of LS Fe ions ($\\xi_{1}$) and B$^{+}$ ionic states ($\\xi_{+}$) are calculated within the many-electron operator spinors (MEOS) representation, $D_{r}^{1}$ and $P_{R}$. The variation principle links values $\\xi_{1}(T)$ and $\\xi_{+}(T)$ decreasing with the increase of temperature $T < T_{min}$. The AM-phase destruction (crystallization at $T \\rightarrow T_{min} - 0$) is caused by B$^{0}$-atoms’ entropy and high heat capacity $C_{V}(T)$ caused by it. The chemical-bond fluctuations (CBF) entropy of cations and band electrons supports the AM stability. One part of electrical resistance (ER) is created by capture mechanisms of electrical-current carriers by covalent states and CBF. It is decreasing with the $T$ increasing. Scattering on ‘impurity’ phonons gives ER part, which increases linearly with the $T$ increasing. Combination of these effects allows to obtain materials with constant ER (when T changes) for $T < T_{min}$.",
+		"ru": "Квантово-статистическая теория аморфного металла (АМ) строится на примере Fe—B. Полагаем, что кластеры ближнего порядка $K_{j}$ высокоспиновых (ВС) ионов Fe разделены полостями $h_{ij}$ низкоспиновых (НС) ионов Fe, ковалентно связанных с катионами B$^{+}$. Амплитуды волновых функций НС ионов Fe ($\\xi_{1}$) и ионных состояний B$^{+}$ ($\\xi_{+}$) рассчитаны в представлении многоэлектронных операторных спиноров (МЭОС) $D_{r}^{1}$ и $P_{R}$. Вариационный принцип связывает величины $\\xi_{1}(T)$ и $\\xi_{+}(T)$, спадающие с ростом температуры $T < T_{min}$. Разрушение АМ-фазы (кристаллизация при $T \\rightarrow T_{min} - 0$) обусловлено энтропией B$^{0}$-атомов и связанной с ней теплоёмкостью $C_{V}(T)$. Устойчивость АМ поддерживается энтропией флуктуаций химических связей (ФХС) катионов и зонных электронов. Часть электросопротивления (ЭС) создаётся механизмами захвата носителей тока ковалентными состояниями и ФХС. Она падает с ростом $T$. Рассеяние на «примесных» фононах даёт растущую линейно с ростом $T$ часть ЭС. Сочетание этих эффектов позволяет получить материал с постоянным (при изменении $T$) ЭС для $T < T_{min}$."
+	},
+	"keywords": {
+		"ua": "кластери високоспінових йонів Fe, порожнини низькоспінових (НС) йонів Fe та домішкових B$^{+}$-йонів, «домішкові» флуктуації хімічних зв’язків (ФХС) і фонони, теплоємність, електроопір",
+		"en": "clusters of high-spin Fe ions, holes of low-spin (LS) Fe ions and B$^{+}$ impurity ions, ‘impurity’ chemical-bond fluctuations (CBF) and phonons, heat capacity, electrical resistivity",
+		"ru": "кластеры высокоспиновых ионов Fe, полости низкоспиновых (НС) ионов Fe и примесных B$^{+}$-ионов, «примесные» флуктуации химических связей (ФХС) и фононы, теплоёмкость, электросопротивление"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. І. Міцек", "en": "O. I. Mitsek", "ru": "А. И. Мицек"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. М. Пушкар", "en": "V. M. Pushkar", "ru": "В. Н. Пушкарь"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 19,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "﻿В. С. Покатилов, Физика твердого тела, 54, № 3: 1880 (2012).",
+				"tr":  "V. S. Pokatilov, Fiz. Tverd. Tela, 54, No. 3: 1880 (2012) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.36.11.1473",
+				"or":  "А. И. Мицек, В. Н. Пушкарь, Металлофиз. новейшие технол. (в печати).",
+				"tr":  "A. I. Mitsek, V. N. Pushkar', Metallofiz. Noveishie Tekhnol. (to be pub-lished) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Вонсовский, Магнетизм (Москва: Наука: 1971).",
+				"tr":  "S. V. Vonsovskiy, Magnetism (Moscow: Nauka: 1971) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.13.04.345",
+				"or":  "А. И. Мицек, Успехи физики металлов, 13, № 4: 345 (2013).",
+				"tr":  "A. I. Mitsek, Uspekhi Fiziki Metallov, 13, No. 4: 345 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Мицек, В. Н. Пушкарь, Металлофиз. новейшие технол., 33, № 5: 591 (2011); ibidem, 34, № 1: 1 (2012); ibidem, 34, № 3: 309 (2012); ibidem, 34, № 6: 721 (2012).",
+				"tr":  "A. I. Mitsek, V. N. Pushkar', Metallofiz. Noveishie Tekhnol., 33, No. 5: 591 (2011); ibidem, 34, No. 1: 1 (2012); ibidem, 34, No. 3: 309 (2012); ibidem, 34, No. 6: 721 (2012) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.108.245504",
+				"or":  "Y. Saito, M. Dufay, and O. Pierre-Lanis, Phys. Rev. Lett., 108, No. 24: 245504 (2012).",
+				"tr":  "Y. Saito, M. Dufay, and O. Pierre-Lanis, Phys. Rev. Lett., 108, No. 24: 245504 (2012)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.109.120603",
+				"or":  "B. D. Goddard, A. Nold, N. Sawa et al., Phys. Rev. Lett., 109, No. 12: 120603 (2012).",
+				"tr":  "B. D. Goddard, A. Nold, N. Sawa et al., Phys. Rev. Lett., 109, No. 12: 120603 (2012)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.109.125501",
+				"or":  "G. Le, Y. Y. Wang, P. K. Liaw et al., Phys. Rev. Lett., 109, No. 12: 125501 (2012).",
+				"tr":  "G. Le, Y. Y. Wang, P. K. Liaw et al., Phys. Rev. Lett., 109, No. 12: 125501 (2012)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.108.175501",
+				"or":  "P. F. Guan, T. Fujita, A. Hirota et al., Phys. Rev. Lett., 109, No. 17: 175501 (2012).",
+				"tr":  "P. F. Guan, T. Fujita, A. Hirota et al., Phys. Rev. Lett., 109, No. 17: 175501 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "М. И. Захаренко, Т. В. Калныш, М. П. Семенько, Физика металлов и металловедение, 113, № 8: 804 (2012).",
+				"tr":  "M. I. Zakharenko, T. V. Kalnysh, M. P. Semen'ko, Fiz. Met. Metalloved., 113, No. 8: 804 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Сеньковский, Физика твердого тела, 54, № 6: 1441 (2012).",
+				"tr":  "V. V. Sen'kovskiy, Fiz. Tverd. Tela, 54, No. 6: 1441 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, А. Г. Ильинский, О. Н. Слуховский и др., Металлофиз. новейшие технол., 34, № 6: 751 (2012).",
+				"tr":  "A. P. Shpak, A. G. Il'inskiy, O. N. Slukhovskiy et al., Metallofiz. Noveishie Tekhnol., 34, No. 6: 751 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Е. Теплых, Ю. Г. Чукалкин, С. Г. Богданов и др., Физика металлов и металловедение, 113, № 6: 597 (2012).",
+				"tr":  "A. E. Teplykh, Yu. G. Chukalkin, S. G. Bogdanov et al., Fiz. Met. Metalloved., 113, No. 6: 597 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. А. Шишкин, Физика металлов и металловедение, 113, № 5: 485 (2012).",
+				"tr":  "D. A. Shishkin, Fiz. Met. Metalloved., 113, No. 5: 485 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "B. N. Filippov, Functional Mater., 19, No. 1: 27 (2012).",
+				"tr":  "B. N. Filippov, Functional Mater., 19, No. 1: 27 (2012)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.106.215505",
+				"or":  "O. Wang, Phys. Rev. Lett., 106, No. 21: 215505 (2011).",
+				"tr":  "O. Wang, Phys. Rev. Lett., 106, No. 21: 215505 (2011)."
+			},
+			{
+				"doi": "10.3367/UFNr.0181.201112b.1265",
+				"or":  "Г. Е. Абросимова, Успехи физических наук, 181, № 12: 1265 (2011).",
+				"tr":  "G. E. Abrosimova, Uspekhi Fizicheskikh Nauk, 181, No. 12: 1265 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Носенко, М. Г. Бабич, М. П. Семенько, Металлофиз. новейшие технол., 32, № 9: 1183 (2010).",
+				"tr":  "A. V. Nosenko, M. G. Babich, M. P. Semen'ko, Metallofiz. Noveishie Tekhnol., 32, No. 9: 1183 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Покатилов, Н. Б. Дьяконова, Е. Г. Дмитриева и др., Наноматериалы и наноструктуры, 4, № 1: 29 (2013).",
+				"tr":  "V. S. Pokatilov, N. B. D'yakonova, E. G. Dmitrieva et al., Nanomaterialy i Nanostruktury, 4, No. 1: 29 (2013) (in Russian)."
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"_id":    "MFiNT.37.12.1583",
+	"year":   2015,
+	"volume": 37,
+	"issue":  12,
+	"pages":  [1583,1593],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["25.09.2015"],
+	"PACS":   "61.72.Bb, 61.72.Cc, 64.60.De, 64.60.Q-, 64.75.-g, 66.30.Dn, 81.30.-t",
+	"title":  {
+		"ua": "Узагальнення кінетичного середньопольового методу на вакансійний механізм і його застосування до опису спінодального розпаду",
+		"en": "Generalization of the Kinetic Mean-Field Method for Vacancy Diffusion Mechanism and Application of It to Spinodal Decomposition",
+		"ru": "Обобщение кинетического среднеполевого метода на вакансионный механизм и его применение к описанию спинодального распада"
+	},
+	"abstract": {
+		"ua": "У роботі представлено узагальнення кінетичної середньопольової методи Мартана—Ердеї—Беке на вакансійний механізм дифузії із використанням наближення квазистаціонарности вакансій. Проведено моделювання узагальненою методою процесу спинодального розпаду для двовимірного та тривимірного випадків. Представлено залежність параметрів спинодального розпаду (характерної довжини неоднорідности системи та девіяції концентрації) від рухливостей компонентів системи і значення коефіцієнта асиметрії. Показано, що швидкість експоненційного наростання девіяції визначається повільнішим компонентом і практично не залежить від початкового шуму в системі.",
+		"en": "The paper presents a generalization of the Martin—Erdélyi—Beke kinetic mean-field method for vacancy diffusion mechanism within the quasistationary approximation of vacancies. The simulation of spinodal decomposition with using the generalized method for the two-dimensional and three-dimensional cases is made. The dependences of the spinodal decomposition parameters (characteristic inhomogeneity and deviation of concentration) on the mobilities of components and on the asymmetry coefficient are presented. The exponential-growth rate of the deviation is determined by the slow component and is practically independent on the initial noise in the system.",
+		"ru": "В работе представлено обобщение кинетического метода среднего поля Мартана—Эрдейи—Беке на вакансионный механизм диффузии с использованием приближения квазистационарности вакансий. Проведено моделирование указанным обобщённым методом процесса спинодального распада для двумерного и трёхмерного случаев. Представлены зависимости параметров спинодального распада (характерной длины неоднородности системы и девиации концентрации) от подвижностей компонентов системы и значения коэффициента асимметрии. Показано, что скорость экспоненциального нарастания девиации определяется медленным компонентом и практически не зависит от начального шума в системе."
+	},
+	"keywords": {
+		"ua": "дифузія, спинодальний розпад, середньопольова метода, вакансії, моделювання",
+		"en": "diffusion, spinodal decomposition, mean-field method, vacancies, modelling",
+		"ru": "диффузия, спинодальный распад, метод среднего поля, вакансии, моделирование"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. М. Безпальчук", "en": "V. M. Bezpalchuk", "ru": "В. Н. Безпальчук"},
+			"OID": [214]
+		},
+		{
+			"AID": {"ua": "А. М. Гусак", "en": "A. M. Gusak", "ru": "А. Н. Гусак"},
+			"OID": [214]
+		}
+	],
+	"references": {
+		"count": 9,
+		"list":  [
+			{
+				"doi": "10.1103/PhysRevB.41.2279",
+				"or":  "G. Martin, Phys. Rev. B, 41: 2279 (1990).",
+				"tr":  "G. Martin, Phys. Rev. B, 41: 2279 (1990)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.69.113407",
+				"or":  "Z. Erdélyi, G. L. Katona, and D. L. Beke, Phys. Rev. B, 69: 113407 (2004).",
+				"tr":  "Z. Erdélyi, G. L. Katona, and D. L. Beke, Phys. Rev. B, 69: 113407 (2004)."
+			},
+			{
+				"doi": "10.1126/science.1104400",
+				"or":  "Z. Erdélyi, M. Sladecek, Lorenz-M. Stadler, I. Zizak, G. A. Langer, M. Kis-Varga, D. L. Beke, and B. Sepiol, Science, 306: 1913 (2004).",
+				"tr":  "Z. Erdélyi, M. Sladecek, Lorenz-M. Stadler, I. Zizak, G. A. Langer, M. Kis-Varga, D. L. Beke, and B. Sepiol, Science, 306: 1913 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.89.165901",
+				"or":  "Z. Erdélyi, I. A. Szabó, and D. Beke, Phys. Rev. Lett., 89: 165901 (2002).",
+				"tr":  "Z. Erdélyi, I. A. Szabó, and D. Beke, Phys. Rev. Lett., 89: 165901 (2002)."
+			},
+			{
+				"doi": "10.1063/1.2905334",
+				"or":  "Z. Erdélyi, D. Beke, and A. Taranovskyy, Appl. Phys. Lett., 92: 133110 (2008).",
+				"tr":  "Z. Erdélyi, D. Beke, and A. Taranovskyy, Appl. Phys. Lett., 92: 133110 (2008)."
+			},
+			{
+				"doi": "10.1080/14786435.2012.746793",
+				"or":  "N. Storozhuk, K. Sopiga, and A. Gusak, Philosophical Magazine, 93: 1999 (2013).",
+				"tr":  "N. Storozhuk, K. Sopiga, and A. Gusak, Philosophical Magazine, 93: 1999 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "A. G. Khachaturyan, Theory of Structural Transformations in Solids (Newburyport: Dover Publications: 2013).",
+				"tr":  "A. G. Khachaturyan, Theory of Structural Transformations in Solids (Newburyport: Dover Publications: 2013)."
+			},
+			{
+				"doi": "",
+				"or":  "Z. Erdélyi, H. Bakker, and D. L. Beke, Acta Univ. Deb., 34–35: 321 (2002).",
+				"tr":  "Z. Erdélyi, H. Bakker, and D. L. Beke, Acta Univ. Deb., 34–35: 321 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "N. V. Tyutyunnyk and A. M. Gusak, Ukrayins’kyy Fizychnyy Zhurnal, 57: 628 (2012).",
+				"tr":  "N. V. Tyutyunnyk and A. M. Gusak, Ukrayins'kyy Fizychnyy Zhurnal, 57: 628 (2012)."
+			}
+		]
+	}
+}

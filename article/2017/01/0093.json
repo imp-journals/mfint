@@ -1,0 +1,106 @@
+{
+	"_id":    "MFiNT.39.01.0093",
+	"year":   2017,
+	"volume": 39,
+	"issue":  1,
+	"pages":  [93,104],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["14.03.2016","15.08.2016"],
+	"PACS":   "62.20.Qp, 68.37.Hk, 68.55.Nq, 81.05.uj, 81.15.Pq, 81.40.Pq, 81.65.Lp",
+	"title":  {
+		"ua": "Структура та властивості композиційних ніклевих покриттів, одержаних за допомогою програмованого імпульсного току",
+		"en": "Structure and Properties of the Composite Nickel Coatings Obtained by the Programmable Pulse Current",
+		"ru": "Структура и свойства композиционных никелевых покрытий, полученных с помощью программируемого импульсного тока"
+	},
+	"abstract": {
+		"ua": "Розроблено спосіб одержання за допомогою програмованого імпульсного струму композиційних ніклевих покриттів зі змінною від шару до шару концентрацією частинок нанодіямантів у металевій матриці. Показано, що відповідна програма електроосадження уможливлює пошарово наносити покриття з найменшою концентрацією нанодіямантів у перших шарах і зростаючою — в наступних шарах, що поліпшує адгезійні властивості, підвищує зносостійкість покриття і понижує витрати дисперсних частинок нанодіямантів.",
+		"en": "A method of fabrication of the composite nickel coatings with concentration of nanodiamonds’ particles in the metallic matrix changed from one layer to another is developed by means of the programmable pulse current. As shown, the corresponding program of electrodeposition allows the layer-by-layer deposition of coatings with the lowest concentration of nanodiamonds in the external layers, and concentration of them is increasing in subsequent layers. That improves adhesive properties, increases wear resistance and reduces the amount of dispersed particles of nanodiamonds.",
+		"ru": "Разработан способ получения с помощью программируемого импульсного тока композиционных никелевых покрытий с изменяющейся от слоя к слою концентрацией частиц наноалмазов в металлической матрице. Показано, что соответствующая программа электроосаждения позволяет послойно наносить покрытия с наименьшей концентрацией наноалмазов в первых слоях и возрастающей — в последующих слоях, что улучшает адгезионные свойства, повышает износостойкость покрытия и снижает расход дисперсных частиц наноалмазов."
+	},
+	"keywords": {
+		"ua": "частинки нанодіямантів, композиційні ніклеві покриття, програмований імпульсний струм, структура та механічні властивості",
+		"en": "nanodiamonds’ particles, composite nickel coating, programmable pulse current, structure and mechanical properties",
+		"ru": "частицы наноалмазов, композиционные никелевые покрытия, программируемый импульсный ток, структура и механические свойства"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. А. Заблудовський", "en": "V. O. Zabludovsky", "ru": "В. А. Заблудовский"},
+			"OID": [226]
+		},
+		{
+			"AID": {"ua": "В. В. Титаренко", "en": "V. V. Tytarenko", "ru": "В. В. Титаренко"},
+			"OID": [226]
+		},
+		{
+			"AID": {"ua": "Е. Ф. Штапенко", "en": "E. F. Shtapenko", "ru": "Э. Ф. Штапенко"},
+			"OID": [226]
+		}
+		],
+	"references": {
+		"count": 12,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "В. Ю. Долматов, Г. К. Буркат, Сверхтвёрдые материалы, № 1: 84 (2000).",
+				"tr":  "V. Yu. Dolmatov and G.K. Burkat, Sverkhtverdye Materialy, No. 1: 84 (2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ю. Долматов, Ультрадисперсные алмазы детонационного синтеза (Санкт-Петербург: Изд. СПбГПУ: 2003).",
+				"tr":  "V. Yu. Dolmatov, Ultradispersnye Almazy Detonatsionnogo Sinteza (St. Petersburg: Izd. SPbGPU: 2003) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(02)00903-9",
+				"or":  "S. Zhang, D. Sun, Yo. Fu, and H. Du, Surf. Coat. Technol., 167: 113 (2003).",
+				"tr":  "S. Zhang, D. Sun, Yo. Fu, and H. Du, Surf. Coat. Technol., 167: 113 (2003)."
+			},
+			{
+				"doi": "10.1016/j.diamond.2005.08.004",
+				"or":  "G. K. Burkat, T. Fujimura, V. Yu. Dolmatov, E. A. Orlova, and M. V. Veretennikova, Diamond and Related Materials, 14, No. 8: 1761 (2005).",
+				"tr":  "G. K. Burkat, T. Fujimura, V. Yu. Dolmatov, E. A. Orlova, and M. V. Veretennikova, Diamond and Related Materials, 14, No. 8: 1761 (2005)."
+			},
+			{
+				"doi": "10.1016/j.msea.2004.08.033",
+				"or":  "L. Wang, Ya. Gao, Q. Xue, H. Liu, and T. Xu, Mater. Sci. Eng. A, 390: 313 (2005).",
+				"tr":  "L. Wang, Ya. Gao, Q. Xue, H. Liu, and T. Xu, Mater. Sci. Eng. A, 390: 313 (2005)."
+			},
+			{
+				"doi": "10.1016/j.electacta.2006.09.043",
+				"or":  "H. Matsubara, Yo. Abe, Yo. Chiba, H. Nishiyama, N. Saito, K. Hodouchi, and Ya. Inoue, Electrochimica Acta, 52: 3047 (2007).",
+				"tr":  "H. Matsubara, Yo. Abe, Yo. Chiba, H. Nishiyama, N. Saito, K. Hodouchi, and Ya. Inoue, Electrochimica Acta, 52: 3047 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. К. Буркат, В. Ю. Долматов, E. Osawa, Е. А. Орлова, Сверхтвёрдые материалы, № 2: 43 (2010).",
+				"tr":  "G. K. Burkat, V. Yu. Dolmatov, E. Osawa, and Ye. A. Orlova, Sverkhtverdye Materialy, No. 2: 43 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. С. Горелик, Ю. А. Скаков, Л. Н. Расторгуев, Рентгенографический и электронно-оптический анализ (Москва: МИСиС: 1994).",
+				"tr":  "S. S. Gorelik, Yu. A. Skakov, and L. N. Rastorguev, Rentgenograficheskiy i Elektronno-Opticheskiy Analiz (Moscow: MISiS: 1994) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.37.05.0713",
+				"or":  "В. В. Дудкина, В. А. Заблудовский, Э. Ф. Штапенко, Металлофиз. новейшие технол., 37, № 5: 713 (2015).",
+				"tr":  "V. V. Dudkina, V. A. Zabludovskiy, and E. F. Shtapenko, Metallofiz. Noveishie Tekhnol., 37, No. 5: 713 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. О. Заблудовський, Е. П. Штапенко, В. В. Дудкіна, О. С. Терещенко, Спосіб отримання нікелевих гальванічних покриттів, модифікованих наноалмазами, Патент України № 87842, C25D15/00 (Опубл. 25.02.2014, бюл. № 4).",
+				"tr":  "V. O. Zabludovsky, E. F. Shtapenko, V. V. Dudkina, and O. S. Tereshchenko, Sposib Otrymannya Nikelevykh Gal'vanichnykh Pokryttiv, Modyfikovanykh Nanoalmazamy, Patent of Ukraine No. 87842, C25D15/00 (Publ. February 25, 2014, Bull. No. 4) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. О. Заблудовський, Е. П. Штапенко, В. В. Дудкіна, Спосіб осадження композиційних електролітичних покриттів, Патент України №101121, C25D15/00, B82B1/00 (Опубл. 25.08.2015, бюл. № 16).",
+				"tr":  "V. O. Zabludovsky, E. F. Shtapenko, and V. V. Dudkina, Sposib Osadzhennya Kompozytsiynykh Elektrolitychnykh Pokryttiv, Patent of Ukraine No. 101121, C25D15/00, B82B1/00 (Publ. August 25, 2015, Bull. No. 16) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. О. Заблудовський, В. В. Титаренко, Матеріали ІV Міжнародної наукової конференції «Сучасні проблеми фізики конденсованого стану» (7–10 жовтня, 2015, Київ), с. 64.",
+				"tr":  "V. O. Zabludovsky and V. V. Tytarenko, Proc. IV Mizhnarodnoyi Naukovoyi Konferentsii 'Suchasni Problemy Fizyky Kondensovanogo Stanu' (October 7–10, 2015, Kyiv), p. 64 (in Ukrainian)."
+			}
+		]
+	}
+}

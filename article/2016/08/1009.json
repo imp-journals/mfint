@@ -1,0 +1,93 @@
+{
+	"_id":    "MFiNT.38.08.1009",
+	"year":   2016,
+	"volume": 38,
+	"issue":  8,
+	"pages":  [1009,1018],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["04.08.2015","25.08.2016"],
+	"PACS":   "73.50.Td, 74.25.fc, 74.45.+c, 74.55.+v, 74.78.Fk, 85.25.Cp, 85.40.Qx",
+	"title":   {
+		"ua": "Фотон-індукований електронний транспорт: шумові характеристики тунельного контакту на основі надпровідника за низьких температур",
+		"en": "Photon-Assisted Electronic Transport: Noise Performances of Tunnel Junction on the Base of a Superconductor at Low Temperatures",
+		"ru": "Фотон-индуцированный электронный транспорт: шумовые характеристики туннельного контакта на основе сверхпроводника при низких температурах"
+	},
+	"abstract": {
+		"ua": "У даній статті виконано чисельні розрахунки потужности фотон-індукованого дробового шуму та фактора Фано для мезоскопічних структур нормальний метал—ізолятор—надпровідник. Досліджено вплив температури на величину фотон-індукованих флюктуацій струму в тунельному контакті. Моделювання нерівноважних струмових флюктуацій демонструє збільшення спектральної густини шуму із зростанням частоти змінного сиґналу. Показано, що фактор Фано в суперпуассоновому режимі фотон-індукованого електронного транспорту має різкий пік в області енергетичної щілини надпровідника.",
+		"en": "In the paper, numerical calculations of both the photon-assisted shot-noise power and the Fano factor for the mesoscopic normal metal—insulator— superconductor structures are performed. The temperature effect on the value of photon-assisted current fluctuations in a tunnel junction is studied. Modelling of the nonequilibrium current fluctuations demonstrates an enhancement of the noise spectral density with increasing the ac signal frequency. As shown, the Fano factor in the super-Poissonian regime of the photon-assisted electronic transport has a sharp peak in the region of the energy gap of the superconductor.",
+		"ru": "В данной статье выполнены численные расчёты мощности фотон-индуцированного дробового шума и фактора Фано для мезоскопических структур нормальный металл—изолятор—сверхпроводник. Исследовано влияние температуры на величину фотон-индуцированных токовых флуктуаций в туннельном контакте. Моделирование неравновесных токовых флуктуаций демонстрирует увеличение спектральной плотности шума с ростом частоты переменного сигнала. Показано, что фактор Фано в суперпуассоновском режиме фотон-индуцированного электронного транспорта имеет резкий пик в области энергетической щели сверхпроводника."
+	},
+	"keywords": {
+		"ua": "фотон-індукований електронний транспорт, дробовий шум, фактор Фано, тунельний контакт, надпровідники",
+		"en": "photon-assisted electronic transport, shot noise, Fano factor, tunnel junction, superconductors",
+		"ru": "фотон-индуцированный электронный транспорт, дробовой шум, фактор Фано, туннельный контакт, сверхпроводники"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. В. Бойло", "en": "I. V. Boylo", "ru": "И. В. Бойло"},
+			"OID": [9]
+		}
+	],
+	"references": {
+		"count": 11,
+		"list":  [
+			{
+				"doi": "10.1080/14786437008238472",
+				"or":  "R. Landauer, Philos. Mag., 21, No. 172: 863 (1970).",
+				"tr":  "R. Landauer, Philos. Mag., 21, No. 172: 863 (1970)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.46.12485",
+				"or":  "M. Büttiker, Phys. Rev. B, 46, No. 19: 12485 (1992).",
+				"tr":  "M. Büttiker, Phys. Rev. B, 46, No. 19: 12485 (1992)."
+			},
+			{
+				"doi": "10.1016/S0370-1573(99)00123-4",
+				"or":  "Ya. M. Blanter and M. Büttiker, Physics Reports, 336, No. 1–2: 1 (2000).",
+				"tr":  "Ya. M. Blanter and M. Büttiker, Physics Reports, 336, No. 1–2: 1 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Москалец, Метод матрицы рассеяния в теории квантового транспорта (Учебное пособие) (Харьков: ХПИ: 2010).",
+				"tr":  "M. V. Moskalets, Metod Matritsi Rasseyaniya v Teorii Kvantovogo Transporta (Uchebnoe Posobie) [Scattering Matrix Approach to Non-Stationary Quantum Transport (Schoolbook)] (Kharkov: KPI: 2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Thalakulam, W. W. Xue, F. Pan, Z. Ji, J. Stettenheim, L. Pfeiffer, K. W. West, and A. J. Rimberg, arXiv:0708.0861v1 [cond-mat.mes-hall]).",
+				"tr":  "M. Thalakulam, W. W. Xue, F. Pan, Z. Ji, J. Stettenheim, L. Pfeiffer, K. W. West, and A. J. Rimberg, arXiv:0708.0861v1 [cond-mat.mes-hall])."
+			},
+			{
+				"doi": "10.1063/1.2721408",
+				"or":  "M. Gamero-Castaño, Review of Scientific Instruments, 78, No. 4: 043301 (2007).",
+				"tr":  "M. Gamero-Casta-o, Review of Scientific Instruments, 78, No. 4: 043301 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.84.3398",
+				"or":  "A. A. Kozhevnikov, R. J. Schoelkopf, and D. E. Prober, Phys. Rev. Lett., 84, No. 15: 3398 (2000).",
+				"tr":  "A. A. Kozhevnikov, R. J. Schoelkopf, and D. E. Prober, Phys. Rev. Lett., 84, No. 15: 3398 (2000)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.84.085419",
+				"or":  "J. Hammer and W. Belzig, Phys. Rev. B, 84, No. 8: 085419 (2011).",
+				"tr":  "J. Hammer and W. Belzig, Phys. Rev. B, 84, No. 8: 085419 (2011)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.91.165302",
+				"or":  "T. J. Suzuki and T. Kato, Phys. Rev. B, 91, No. 16: 165302 (2014).",
+				"tr":  "T. J. Suzuki and T. Kato, Phys. Rev. B, 91, No. 16: 165302 (2014)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.67.100503",
+				"or":  "M. Belogolovskii, Phys. Rev. B, 67, No. 10: 100503 (2003).",
+				"tr":  "M. Belogolovskii, Phys. Rev. B, 67, No. 10: 100503 (2003)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.58.12993",
+				"or":  "M. H. Pedersen and M. Büttiker, Phys. Rev. B, 58, No. 19: 12993 (1998).",
+				"tr":  "M. H. Pedersen and M. Büttiker, Phys. Rev. B, 58, No. 19: 12993 (1998)."
+			}
+		]
+	}
+}

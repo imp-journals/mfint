@@ -1,0 +1,112 @@
+{
+	"_id":    "MFiNT.38.04.0509",
+	"year":   2016,
+	"volume": 38,
+	"issue":  4,
+	"pages":  [509,517],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["26.09.2014"],
+	"PACS":   "61.05.cp, 64.70.kd, 75.50.Cc, 75.50.Tt, 75.50.Vv, 81.30.Mh, 88.30.rd",
+	"title":   {
+		"ua": "Залежність фазового складу диспропорціонованого стопу на основі SmCo$_{5}$ від температури та тривалості рекомбінування",
+		"en": "The Dependence of Phase Composition of Previously Disproportionated SmCo$_{5}$-Based Alloy on Temperature and Duration of Recombination",
+		"ru": "Зависимость фазового состава диспропорционированного сплава на основе SmCo$_{5}$ от температуры и продолжительности рекомбинации"
+	},
+	"abstract": {
+		"ua": "Методами диференційного термічного та Рентґенового фазового аналізів досліджено вплив параметрів рекомбінування на фазовий склад попередньо диспропорціонованого промислового феромагнетного стопу КС37 (на основі SmCo$_{5}$). Встановлено послідовність фазових перетворень, які передують відновленню вихідного фазового складу стопу, під час рекомбінування шляхом нагрівання до температур в діяпазоні 550—950°C з витримкою до 5 год. Показано, що нагрів продуктів диспропорціонування у вакуумі до 550°C супроводжується частковим розпадом гідриду самарію та утворенням фази Sm$_{2}$Co$_{7}$. В температурному інтервалі 600—680°C утворюються дві інтерметалідні фази – Sm$_{2}$Co$_{7}$ та Sm$_{2}$Co$_{17}$. З підвищенням температури рекомбінування та збільшенням тривалости витримки змінюється кількісне співвідношення між фазами. Виявлено, що відновлення фази SmCo$_{5}$ починається за температури 700°C, а її кількість у стопі поступово збільшується з підвищенням температури.",
+		"en": "The influence of recombination parameters on phase composition of previously disproportionated commercial ferromagnetic alloy KC37 (based on SmCo$_{5}$) is investigated by means of the differential thermal and X-ray diffraction analyses. The sequence of phase transitions, which precede recovery of initial phase composition, is established during recombination by heating to 550—950°C with exposure to 5 h. As shown, the heating of disproportionated products in vacuum to 550°C is accompanied by a partial disintegration of samarium hydride and formation of Sm$_{2}$Co$_{7}$ phase. Intermetallic Sm$_{2}$Co$_{7}$ and Sm$_{2}$Co$_{17}$ phases appear after vacuum treatment in the temperature range of 600—680°C. The proportion between these phases changes with increasing recombination temperature and exposure duration. As found, the recovery of SmCo$_{5}$ phase begins at 700°C, and its amount in the alloy gradually increases with temperature increasing.",
+		"ru": "Методами дифференциального термического и рентгенофазового анализов исследовано влияние параметров рекомбинации на фазовый состав предварительно диспропорционированного промышленного ферромагнитного сплава КС37 (на основе SmCo$_{5}$). Установлена последовательность фазовых превращений, которые предшествуют восстановлению исходного фазового состава сплава, во время рекомбинации путём нагрева до температур в диапазоне 550—950°C с выдержкой до 5 ч. Показано, что нагрев продуктов диспропорционирования в вакууме до 550°C сопровождается частичным распадом гидрида самария и образованием фазы Sm$_{2}$Co$_{7}$. В температурном интервале 600—680°C образуются две интерметаллидные фазы – Sm$_{2}$Co$_{7}$ и Sm$_{2}$Co$_{17}$. С повышением температуры рекомбинации и увеличением длительности выдержки изменяется количественное соотношение между фазами. Установлено, что восстановление фазы SmCo$_{5}$ начинается при температуре 700°C, а её количество в сплаве постепенно увеличивается с повышением температуры."
+	},
+	"keywords": {
+		"ua": "феромагнетні стопи, SmCo$_{5}$, ініційовані воднем фазові перетворення, рекомбінування, водневі технології",
+		"en": "ferromagnetic alloys, SmCo$_{5}$, hydrogen-initiated phase transformations, recombination, hydrogen technology",
+		"ru": "ферромагнитные сплавы, SmCo$_{5}$, инициированные водородом фазовые превращения, рекомбинация, водородные технологии"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. І. Булик", "en": "I. I. Bulyk", "ru": "И. И. Булык"},
+			"OID": [6]
+		},
+		{
+			"AID": {"ua": "А. М. Тростянчин", "en": "А. М. Trostianchyn", "ru": "А. М. Тростянчин"},
+			"OID": [6]
+		}
+	],
+	"references": {
+		"count": 14,
+		"list":  [
+			{
+				"doi": "10.1109/20.102931",
+				"or":  "E. F. Kneller and R. Hawig, IEEE Trans. Magn., 27: 3588 (1991).",
+				"tr":  "E. F. Kneller and R. Hawig, IEEE Trans. Magn., 27: 3588(1991)."
+			},
+			{
+				"doi": "10.1007/s001140050755",
+				"or":  "D. Goll and H. Kronmuller, Naturwissenschaften, 87: 423 (2000).",
+				"tr":  "D. Goll and H. Kronmuller, Naturwissenschaften, 87: 423 (2000)."
+			},
+			{
+				"doi": "10.1016/0304-8853(93)90060-F",
+				"or":  "J. Ding, P. G. McCormick, and R. Street, J. Magn. Magn. Mater., 124: 1 (1993).",
+				"tr":  "J. Ding, P. G. McCormick, and R. Street, J. Magn. Magn. Mater., 124: 1 (1993)."
+			},
+			{
+				"doi": "10.1063/1.358029",
+				"or":  "O. Donnell, C. Kuhrt, and J. M. D. Coey, J. Appl. Phys., 76: 7068 (1994).",
+				"tr":  "O. Donnell, C. Kuhrt, and J. M. D. Coey, J. Appl. Phys., 76: 7068 (1994)."
+			},
+			{
+				"doi": "10.1109/TMAG.2003.815749",
+				"or":  "O. Gutfleisch, K. Khlopkov, A. Teresiak, K.-H. Müller, G. Drazic, C. Mishima, and Y. Honkura, IEEE Trans. Magn., 39: 2926 (2003).",
+				"tr":  "O. Gutfleisch, K. Khlopkov, A. Teresiak, K.-H. Müller, G. Drazic, C. Mishima, and Y. Honkura, IEEE Trans. Magn., 39: 2926 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "І. І. Булик, В. В. Панасюк, А. М. Тростянчин, Патент України № 96810 (2011).",
+				"tr":  "I. I. Bulyk, V. V. Panasyuk, and A. M. Trostianchyn, Patent of Ukraine No. 96810 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1063/1.369834",
+				"or":  "M. Kubis, A. Handstein, B. Gebel, O. Gutfleisch, K.-H. Müller, and L. Schultz, J. Appl. Phys., 85: 5666 (1999).",
+				"tr":  "M. Kubis, A. Handstein, B. Gebel, O. Gutfleisch, K.-H. Müller, and L. Schultz, J. Appl. Phys., 85: 5666 (1999)."
+			},
+			{
+				"doi": "10.1016/S0304-8853(98)00379-5",
+				"or":  "A. Handstein, M. Kubis, O. Gutfleisch, B. Gebel, and K.-H. Müller, J. Magn. Magn. Mater., 192: 73 (1999).",
+				"tr":  "A. Handstein, M. Kubis, O. Gutfleisch, B. Gebel, and K.-H. Müller, J. Magn. Magn. Mater., 192: 73 (1999)."
+			},
+			{
+				"doi": "10.1007/s11003-007-0011-6",
+				"or":  "І. І. Булик, А. М. Тростянчин, В. І. Маркович, Фіз.-хім. механіка матеріалів, № 1: 94 (2007).",
+				"tr":  "I. I. Bulyk, A. M. Trostianchyn, and V. I. Markovych, Materials Science, 43, No. 1: 102 (2007)."
+			},
+			{
+				"doi": "10.1007/s11003-009-9103-9",
+				"or":  "І. І. Булик, В. І. Маркович, А. М. Тростянчин, Фіз.-хім. механіка матеріалів, № 4: 121 (2008).",
+				"tr":  "I. I. Bulyk, V. I. Markovych, and A. M. Trostianchyn, Materials Science, 44, No. 4: 602 (2008)."
+			},
+			{
+				"doi": "10.1007/s11003-012-9508-8",
+				"or":  "І. І. Булик, А. М. Тростянчин, П. Я. Лютий, Фіз.-хім. механіка матеріалів, № 3: 53 (2012).",
+				"tr":  "I. I. Bulyk, A. M. Trostianchyn, and P. Ya. Lyutyy, Materials Science, 48, No. 3: 316 (2012)."
+			},
+			{
+				"doi": "10.1023/A:1013230718369",
+				"or":  "І. І. Булик, Р. В. Денис, В. В. Панасюк та ін., Фіз.-хім. механіка матеріалів, № 4: 15 (2001).",
+				"tr":  "I. I. Bulyk, R. V. Denys, V. V. Panasyuk, Y. H. Putilov, and A. M. Trostyanchyn, Materials Science, 37, No. 4: 544 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "http://www.ccp14.ac.uk",
+				"tr":  "http://www.ccp14.ac.uk"
+			},
+			{
+				"doi": "",
+				"or":  "http://www.ill.eu/sites/fullprof",
+				"tr":  "http://www.ill.eu/sites/fullprof"
+			}
+		]
+	}
+}

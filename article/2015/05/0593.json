@@ -1,0 +1,185 @@
+{
+	"_id":    "MFiNT.37.05.0593",
+	"year":   2015,
+	"volume": 37,
+	"issue":  5,
+	"pages":  [593,604],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["08.01.2015"],
+	"PACS":   "71.15.Ap, 71.15.Mb, 71.15.Nc, 71.20.Eh, 71.70.Gm, 75.50.Ee, 88.30.rd",
+	"title":  {
+		"ua": "Електронна стуктура рідкоземельного дигідрида GdH$_{2}$",
+		"en": "Electronic Structure of the Rare-Earth Dihydride GdH$_{2}$",
+		"ru": "Электронная стуктура редкоземельного дигидрида GdH$_{2}$"
+	},
+	"abstract": {
+		"ua": "З використанням пакету для моделювання WIEN2k виконано ab initio розрахунки електронних властивостей для кубічного стехіометричного рідкісноземельного дигідриду GdH$_{2}$ (в структурі кубічного флюориту) із застосуванням повнопотенціяльної методи лінеаризованих приєднаних пласких хвиль в межах теорії функціоналу густини в наближенні узагальненого ґрадієнту (застосованих до обмінно-кореляційного потенціялу). Визначено сталу кристалічної ґратниці, модуль об’ємної пружности, його похідну за тиском, густину станів та структури енергетичних зон. Енергія Фермі E$_{F}$ розташовується поблизу рівня, де більшість станів є провідними $5d$-станами рідкісноземельного елементу. Одержано інформацію щодо нехтовно малої ролі внеску стану H1$_{s}$ поблизу E$_{F}$.",
+		"en": "With the WIEN2k simulation code, the ab initio calculations of electronic properties for the cubic stoichiometric rare-earth dihydride GdH$_{2}$ (in the cubic fluorite structure) are performed using the full-potential linearized augmented plane wave (FP-LAPW) method approach within the density functional theory (DFT) in the generalized gradient approximation (GGA) (used for the exchange—correlation potential). The lattice parameter, the bulk modulus, its pressure derivative, the density of states, and the energy band structures are determined. Two low-lying hydrogen—metal bands of GdH$_{2}$ are observed. The Fermi energy E$_{F}$ falls at a level where most of the states are rare-earth $5d$ conduction states. Information on the negligible role of the H1$_{s}$ state contribution near E$_{F}$ is obtained.",
+		"ru": "С использованием пакета для моделирования WIEN2k проведены ab initio расчёты электронных свойств для кубического стехиометрического редкоземельного дигидрида GdH$_{2}$ (в структуре кубического флюорита) с применением полнопотенциального метода линеаризованных присоединённых плоских волн в рамках теории функционала плотности в приближении обобщённого градиента (применённых к обменно-корреляционному потенциалу). Определены постоянная кристаллической решётки, модуль объёмной упругости, его производная по давлению, плотность состояний и структуры энергетических зон. Энергия Ферми E$_{F}$ располагается вблизи уровня, где большинство состояний являются проводящими $5d$-состояниями редкоземельного элемента. Получена информация о пренебрежимо малой роли вклада состояния H1$_{s}$ вблизи E$_{F}$."
+	},
+	"keywords": {
+		"ua": "рідкісноземельні дігідріди, GdH$_{2}$, теорія функціонала густини, ab initio розрахунки, WIEN2k",
+		"en": "rare-earth dihydrides, GdH$_{2}$, density functional theory, ab initio calculations, WIEN2k",
+		"ru": "редкоземельные дигидриды, GdH$_{2}$, теория функционала плотности, ab initio расчёты, WIEN2k"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "З. Аят", "en": "Z. Ayat", "ru": "З. Аят"},
+			"OID": [417]
+		},
+		{
+			"AID": {"ua": "Б. Даоуді", "en": "B. Daoudi", "ru": "Б. Даоуди"},
+			"OID": [417]
+		},
+		{
+			"AID": {"ua": "А. Оуахаб", "en": "A. Ouahab", "ru": "А. Оуахаб"},
+			"OID": [418]
+		},
+		{
+			"AID": {"ua": "А. Боукраа", "en": "A. Boukraa", "ru": "А. Боукраа"},
+			"OID": [417]
+		}
+	],
+	"references": {
+		"count": 27,
+		"list":  [
+			{
+				"doi": "10.1103/PhysRevB.22.6074",
+				"or":  "M. Gupta and J. P. Burger, Phys. Rev. B, 22: 6074 (1980).",
+				"tr":  "M. Gupta and J. P. Burger, Phys. Rev. B, 22: 6074 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "Y. Fukai, The Metal–Hydrogen System (New York: Springer-Verlag: 1993).",
+				"tr":  "Y. Fukai, The Metal–Hydrogen System (New York: Springer-Verlag: 1993)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Kokalj, Comp. Mater. Sci., 28: 155 (2003). Code available from http://www.xcrysden.org",
+				"tr":  "A. Kokalj, Comp. Mater. Sci., 28: 155 (2003). Code available from http://www.xcrysden.org"
+			},
+			{
+				"doi": "",
+				"or":  "P. Vajda, Handbook on the Physics and Chemistry of Rare Earths (Eds. K. A.  Gschneidner, Jr. and L. Eyring), vol. 20, ch. 137, p. 207 (1995).",
+				"tr":  "P. Vajda, Handbook on the Physics and Chemistry of Rare Earths (Eds. K. A. Gschneidner, Jr. and L. Eyring), vol. 20, ch. 137, p. 207 (1995)."
+			},
+			{
+				"doi": "10.1016/0038-1098(78)91571-5",
+				"or":  "M. Gupta, Solid State Commun., 27: 1355 (1978).",
+				"tr":  "M. Gupta, Solid State Commun., 27: 1355 (1978)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.20.5301",
+				"or":  "J. Weaver, D. Peterson, and R. Benbow, Phys. Rev. B, 20: 5301 (1979).",
+				"tr":  "J. Weaver, D. Peterson, and R. Benbow, Phys. Rev. B, 20: 5301 (1979)."
+			},
+			{
+				"doi": "10.1016/0022-5088(82)90236-3",
+				"or":  "L. Schlapbach, J. Osterwalder, and H. Siegmann, J. Less-Common Met., 88: 291 (1982).",
+				"tr":  "L. Schlapbach, J. Osterwalder, and H. Siegmann, J. Less-Common Met., 88: 291 (1982)."
+			},
+			{
+				"doi": "10.1002/qua.560050854",
+				"or":  "A. C. Switendick, Int. J. Quantum Chem., 5: 459 (1971).",
+				"tr":  "A. C. Switendick, Int. J. Quantum Chem., 5: 459 (1971)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.26.5634",
+				"or":  "D. K. Misemer and B. N Harmon, Phys. Rev. B, 26: 5634 (1982).",
+				"tr":  "D. K. Misemer and B. N Harmon, Phys. Rev. B, 26: 5634 (1982)."
+			},
+			{
+				"doi": "10.1063/1.330925",
+				"or":  "R. R. Arons and J. Schweizer, J. Appl. Phys., 52: 2645 (1982).",
+				"tr":  "R. R. Arons and J. Schweizer, J. Appl. Phys., 52: 2645 (1982)."
+			},
+			{
+				"doi": "10.1016/0022-5088(91)90457-F",
+				"or":  "P. Vajda, J. N. Daou, and J. P. Burger, J. Less-Common Met., 172–174: 271 (1991).",
+				"tr":  "P. Vajda, J. N. Daou, and J. P. Burger, J. Less-Common Met., 172–174: 271 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Schöllhammer, F. Karsai, and P. Herzig, Properties of Fluorite Structure Materials (Eds. P. Vajda and J.-M. Costantini) (Hauppauge, NY, U.S.A.: Nova Science Pub., Inc.: 2013), ch. 1, p. 1.",
+				"tr":  "G. Schöllhammer, F. Karsai, and P. Herzig, Properties of Fluorite Structure Materials (Eds. P. Vajda and J.-M. Costantini) (Hauppauge, NY, U.S.A.: Nova Science Pub., Inc.: 2013), ch. 1, p. 1."
+			},
+			{
+				"doi": "",
+				"or":  "P. Vajda, Properties of Fluorite Structure Materials (Eds. P. Vajda and J.-M. Costantini) (Hauppauge, NY, U.S.A.: Nova Science Pub., Inc.: 2013), ch. 2, p. 31.",
+				"tr":  "P. Vajda, Properties of Fluorite Structure Materials (Eds. P. Vajda and J.-M. Costantini) (Hauppauge, NY, U.S.A.: Nova Science Pub., Inc.: 2013), ch. 2, p. 31."
+			},
+			{
+				"doi": "10.1103/PhysRev.136.B864",
+				"or":  "P. Hohenberg and W. Kohn, Phys. Rev. B, 136: 864 (1964).",
+				"tr":  "P. Hohenberg and W. Kohn, Phys. Rev. B, 136: 864 (1964)."
+			},
+			{
+				"doi": "10.1103/PhysRev.140.B1131",
+				"or":  "W. Kohn and L. J. Sham, Phys. Rev. A, 140: 1131 (1965).",
+				"tr":  "W. Kohn and L. J. Sham, Phys. Rev. A, 140: 1131 (1965)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Blaha, K. Schwarz, G. Madsen, D. Kvasnicka, and J. Luitz, Wien2k, an Augmented Plane Wave Plus Local Orbitals Program for Calculating Crystal Properties (Vienna: Techn. Universität: 2001).",
+				"tr":  "P. Blaha, K. Schwarz, G. Madsen, D. Kvasnicka, and J. Luitz, Wien2k, an Augmented Plane Wave Plus Local Orbitals Program for Calculating Crystal Properties (Vienna: Techn. Universität: 2001)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.77.3865",
+				"or":  "J. P. Perdew, S. Burke, and M. Ernzerhof, Phys. Rev. Lett., 77: 3865 (1996).",
+				"tr":  "J. P. Perdew, S. Burke, and M. Ernzerhof, Phys. Rev. Lett., 77: 3865 (1996)."
+			},
+			{
+				"doi": "10.1524/zpch.1993.179.Part_1_2.255",
+				"or":  "M. Chiheb, J. N. Daou, and P. Vajda, Z. Phys. Chem., 179: 271 (1993).",
+				"tr":  "M. Chiheb, J. N. Daou, and P. Vajda, Z. Phys. Chem., 179: 271 (1993)."
+			},
+			{
+				"doi": "10.1073/pnas.30.9.244",
+				"or":  "F. D. Murnaghan, Proc. Nat. Acad. Sci. USA, 30: 244 (1944).",
+				"tr":  "F. D. Murnaghan, Proc. Nat. Acad. Sci. USA, 30: 244 (1944)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.70.165114",
+				"or":  "C. Koitzsch, J. Hayoz, M. Bovet, F. Clerc, L. Despont, C. Ambrosch-Draxl, and P. Aebi, Phys. Rev. B, 70: 165114 (2004).",
+				"tr":  "C. Koitzsch, J. Hayoz, M. Bovet, F. Clerc, L. Despont, C. Ambrosch-Draxl, and P. Aebi, Phys. Rev. B, 70: 165114 (2004)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(98)00681-1",
+				"or":  "M. Ellner, H. Reule, and E. J. Mittemeijer, J. of Alloys and Compounds, 279: 179 (1998).",
+				"tr":  "M. Ellner, H. Reule, and E. J. Mittemeijer, J. of Alloys and Compounds, 279: 179 (1998)."
+			},
+			{
+				"doi": "10.1016/j.jpcs.2013.04.012",
+				"or":  "B. Kong, L. Zhang, X.-R. Chen, M.-S. Deng, L.-C. Cai, and R.-F. Ling-Hu, J. of Physics and Chemistry of Solids, 74: 1322 (2013).",
+				"tr":  "B. Kong, L. Zhang, X.-R. Chen, M.-S. Deng, L.-C. Cai, and R.-F. Ling-Hu, J. of Physics and Chemistry of Solids, 74: 1322 (2013)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.66.195103",
+				"or":  "S. Jalali Asadabad, S. Cottenier, H. Akbarzadeh, R. Saki, and M. Rots, Phys. Rev. B, 66: 195103 (2002).",
+				"tr":  "S. Jalali Asadabad, S. Cottenier, H. Akbarzadeh, R. Saki, and M. Rots, Phys. Rev. B, 66: 195103 (2002)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.65.075101",
+				"or":  "P. Vajeeston, R. Vidya, P. Ravindran, H. Fjellvåg, A. Kjekshus, and A. Skjecltorp, Phys. Rev. B, 65: 075101 (2003).",
+				"tr":  "P. Vajeeston, R. Vidya, P. Ravindran, H. Fjellvåg, A. Kjekshus, and A. Skjecltorp, Phys. Rev. B, 65: 075101 (2003)."
+			},
+			{
+				"doi": "10.1016/0038-1098(82)90532-4",
+				"or":  "A. Fujimori and N. Tsuda, Solid State Commun., 41: 491 (1982).",
+				"tr":  "A. Fujimori and N. Tsuda, Solid State Commun., 41: 491 (1982)."
+			},
+			{
+				"doi": "10.1016/0038-1098(70)90720-9",
+				"or":  "A. C. Switendick, Solid State Commun., 8: 1463 (1970).",
+				"tr":  "A. C. Switendick, Solid State Commun., 8: 1463 (1970)."
+			},
+			{
+				"doi": "",
+				"or":  "J. H. Weaver, Bull. Amer. Phys. Soc., 23: 295 (1978).",
+				"tr":  "J. H. Weaver, Bull. Amer. Phys. Soc., 23: 295 (1978)."
+			}
+		]
+	}
+}

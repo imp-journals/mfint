@@ -1,0 +1,103 @@
+{
+	"_id":    "MFiNT.37.06.0789",
+	"year":   2015,
+	"volume": 37,
+	"issue":  6,
+	"pages":  [789,801],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["17.03.2015"],
+	"PACS":   "07.79.Cz, 61.05.jh, 68.35.bg, 68.37.Ef, 68.47.Fg, 71.20.Nr, 73.20.At",
+	"title":  {
+		"ua": "Дослідження методами сканівної тунельної мікроскопії/спектроскопії і дифракції повільних електронів поверхонь сколів шаруватих кристалів GaTe",
+		"en": "Scanning Tunneling Microscopy/Spectroscopy and Low-Energy Electron Diffraction Investigations of GaTe Layered Crystal Cleavage Surface",
+		"ru": "Исследование методами сканирующей туннельной микроскопии/спектроскопии и дифракции медленных электронов поверхностей сколов слоистых кристаллов GaTe"
+	},
+	"abstract": {
+		"ua": "За допомогою комплексу метод сканівної тунельної мікроскопії та спектроскопії (СТМ/СТС) і дифракції повільних електронів (ДПЕ) досліджено структуру поверхонь сколювання кристалів GaTe. Встановлено існування двох різних структур на поверхні сколювання кристалу: гексагональної в макромасштабі і моноклінної, яка є випадковим чином розподіленою на поверхні в наномасштабі. Параметри гексагональної ґратниці $a = b \\cong 4,08 Å$, $c \\cong 16 Å$, яких одержано за допомогою СТМ, добре узгоджуються з даними для об’єму кристалу, а також із параметрами $a$, $b$ для поверхні кристалу, одержаними з використанням ДПЕ. Параметри моноклінної ґратниці $a \\cong 24 Å$, $b \\cong 4 Å$, $c \\cong 10 Å$ є такими ж, як і для однієї з відомих моноклінних структурних модифікацій. Відповідно до результатів, одержаних за допомогою ДПЕ і СТС, встановлено, що поверхня GaTe не є пласкою і характеризується наявністю добре розвиненої східчастої структури, яка утворюється внаслідок сколювання кристалу. Зроблено висновок про те, що можливість локальної в наномасштабі реконструкції базової гексагональної структури в моноклінну пов’язана з кількістю поверхневих дефектів, таких, як довільно розміщені сходинки з висотою, що дорівнює товщині одного пакета Te—Ga—Ga—Te.",
+		"en": "Scanning tunnelling microscopy and spectroscopy (STM/STS) and low-energy electron diffraction (LEED) techniques are used in combination to study the surface structure of GaTe cleavages. Two different structures, hexagonal one on macroscale and monoclinic one randomly distributed on nanoscale, are identified on the crystal cleavage surface. The hexagonal unit cell parameters, $a = b \\cong 4.08 Å$, $c \\cong 16 Å$, determined by STM are in a good agreement with the bulk ones and, besides, with planar parameters $a$, $b$ obtained using LEED. The monoclinic unit cell parameters, $a \\cong 24 Å$, $b \\cong 4 Å$, $c \\cong 10 Å$, are consistent with ones of the known monoclinic modifications. LEED and STS data indicate that the GaTe surface is not flat, but is characterized by a well-developed staircase structure formed by cleavage. As concluded, the possibility of partial on nanoscale reconstruction of base hexagonal structure to the monoclinic one is directly related to the number of surface defects such as loosely arranged steps of one single Te—Ga—Ga—Te packet height.",
+		"ru": "С помощью комплекса методов сканирующей туннельной микроскопии и спектроскопии (СТМ/СТС), а также дифракции медленных электронов (ДМЭ) исследована структура поверхностей скалывания кристаллов GaTe. Установлено существование двух различных структур на поверхности скалывания кристалла: гексагональной в макромасштабе и моноклинной, которая случайным образом распределена по поверхности в наномасштабе. Параметры гексагональной решётки $a = b \\cong 4,08 Å$, $c \\cong 16 Å$, полученные с помощью СТМ, хорошо согласуются с данными для объёма кристалла, а также с параметрами $a$, $b$ для поверхности кристалла, полученными с использованием ДМЭ. Параметры моноклинной решётки $a \\cong 24 Å$, $b \\cong 4 Å$, $c \\cong 10 Å$ – такие же, как и в одной из известных моноклинных структурных модификаций. Согласно результатам, полученным с помощью ДМЭ и СТС, установлено, что поверхность GaTe не является плоской и характеризуется наличием хорошо развитой ступенчатой структуры, которая образуется в результате скалывания кристалла. Сделано заключение о том, что возможность локальной в наномасштабе реконструкции базовой гексагональной структуры в моноклинную связана с количеством поверхностных дефектов, таких, как случайно расположенные ступеньки с высотой, которая равняется толщине одного пакета Te—Ga—Ga—Te."
+	},
+	"keywords": {
+		"ua": "телурид галію, шаруватий кристал, сканівна тунельна мікроскопія, сканівна тунельна спектроскопія, дифракція повільних електронів",
+		"en": "gallium telluride, layered crystal, scanning tunnelling microscopy, scanning tunnelling spectroscopy, low-energy electron diffraction",
+		"ru": "теллурид галия, слоистый кристалл, сканирующая туннельная микроскопия, сканирующая туннельная спектроскопия, дифракция медленных электронов"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "П. В. Галій", "en": "P. Galiy", "ru": "П. В. Галиий"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "Т. М. Ненчук", "en": "T. Nenchuk", "ru": "Т. Н. Ненчук"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "А. Ціжевський", "en": "A. Ciszewski", "ru": "А. Цижевский"},
+			"OID": [412]
+		},
+		{
+			"AID": {"ua": "П. Мазур", "en": "P. Mazur", "ru": "П. Мазур"},
+			"OID": [412]
+		},
+		{
+			"AID": {"ua": "С. Зубер", "en": "S. Zuber", "ru": "С. Зубер"},
+			"OID": [412]
+		},
+		{
+			"AID": {"ua": "І. Р. Яровець", "en": "I. Yarovets’", "ru": "И. Р. Яровец"},
+			"OID": [412]
+		}
+	],
+	"references": {
+		"count": 9,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "S. A. Semiletov and V. A. Vlasov, Sov. Phys. Crystallogr., 8: 704 (1964).",
+				"tr":  "S. A. Semiletov and V. A. Vlasov, Sov. Phys. Crystallogr., 8: 704 (1964)."
+			},
+			{
+				"doi": "10.1021/cm9703886",
+				"or":  "E. G. Gillan and A. R. Barron, Chem. Mater., 9: 3037 (1997).",
+				"tr":  "E. G. Gillan and A. R. Barron, Chem. Mater., 9: 3037 (1997)."
+			},
+			{
+				"doi": "10.1016/j.jcrysgro.2012.11.038",
+				"or":  "N. N. Kolesnikov, E. B. Borisenko, D. N. Borisenko, and A. V. Timonina, J. Cryst. Growth, 365: 59 (2013).",
+				"tr":  "N. N. Kolesnikov, E. B. Borisenko, D. N. Borisenko, and A. V. Timonina, J. Cryst. Growth, 365: 59 (2013)."
+			},
+			{
+				"doi": "10.1007/978-94-009-4542-5_2",
+				"or":  "V. Grasso and G. Mondio, Electronic Structure and Electronic Transitions in Layered Materials (Ed. V. Grasso) (Dordrecht: D. Reidel Publishing Company: 1986), p. 173.",
+				"tr":  "V. Grasso and G. Mondio, Electronic Structure and Electronic Transitions in Layered Materials (Ed. V. Grasso) (Dordrecht: D. Reidel Publishing Company: 1986), p. 173."
+			},
+			{
+				"doi": "10.1107/S0567740879010803",
+				"or":  "M. Julien-Pouzol, S. Jaulmes, M. Guittard, and F. Alparini, Acta Crystallogr. B, 35: 2848 (1979).",
+				"tr":  "M. Julien-Pouzol, S. Jaulmes, M. Guittard, and F. Alparini, Acta Crystallogr. B, 35: 2848 (1979)."
+			},
+			{
+				"doi": "10.1016/j.physleta.2008.01.051",
+				"or":  "O. A. Balitskii, B. Jaeckel, and W. Jaegermann, Phys. Lett. A, 372: 3303 (2008).",
+				"tr":  "O. A. Balitskii, B. Jaeckel, and W. Jaegermann, Phys. Lett. A, 372: 3303 (2008)."
+			},
+			{
+				"doi": "10.1063/1.2432410",
+				"or":  "I. Horcas, R. Fernandez, J. M. Gomez-Rodríguez, J. Colchero, J. Gomez-Herrero, and A. M. Baro, Rev. Sci. Instrum., 78: 013705 (2007).",
+				"tr":  "I. Horcas, R. Fernandez, J. M. Gomez-Rodríguez, J. Colchero, J. Gomez-Herrero, and A. M. Baro, Rev. Sci. Instrum., 78: 013705 (2007)."
+			},
+			{
+				"doi": "10.1002/crat.200290006",
+				"or":  "A. Aydinli, N. M. Gasanly, A. Uka, and H. Efeoglu, Cryst. Res. Technol., 37: 1303 (2002).",
+				"tr":  "A. Aydinli, N. M. Gasanly, A. Uka, and H. Efeoglu, Cryst. Res. Technol., 37: 1303 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "P. M. Reshmi, A. G. Kunjomana, K. A. Chandrasekharan, M. Meena, and C. K. Mahadevan, Int. J. Soft. Comput. Eng., 1, No. 5: 228 (2011).",
+				"tr":  "P. M. Reshmi, A. G. Kunjomana, K. A. Chandrasekharan, M. Meena, and C. K. Mahadevan, Int. J. Soft. Comput. Eng., 1, No. 5: 228 (2011)."
+			}
+		]
+	}
+}

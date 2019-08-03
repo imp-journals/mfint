@@ -1,0 +1,76 @@
+{
+	"_id":    "MFiNT.37.12.1633",
+	"year":   2015,
+	"volume": 37,
+	"issue":  12,
+	"pages":  [1633,1642],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["26.08.2015"],
+	"PACS":   "62.20.fq, 62.20.Hg, 62.40.+i, 81.40.Cd, 81.40.Jj, 81.40.Lm, 83.10.Tv",
+	"title":  {
+		"ua": "Структурно-фазова релаксація у надпластичному евтектичному сплаві Sn—38% вес. Pb",
+		"en": "Structural and Phase Relaxation in Superplastic Eutectic Alloy Sn—38% wt. Pb",
+		"ru": "Структурно-фазовая релаксация в сверхпластичном эвтектическом сплаве Sn—38% вес. Pb"
+	},
+	"abstract": {
+		"ua": "Виконано дослідження процесів релаксації внутрішніх напружень у надпластичному евтектичному стопі Sn—38% мас. Pb у процесі витримки за кімнатної температури. На основі даних про зміну лінійних розмірів зразків зроблено висновок про те, що величина цих напружень, як мінімум, перевищує границю плинности матеріялу за кімнатної температури, і ці напруження зберігаються в матеріялі протягом достатньо тривалого часу. Як одна з головних причин наявности внутрішніх напружень, розглядається метастабільність фазового стану стопу. Встановлено, що оптимальне для виявлення ефекту надпластичности напруження та спостережуване при цьому видовження до зруйнування істотно змінюються упродовж природнього старіння стопу і в результаті попереднього відпалу за температури $\\cong$ 70°C. Це свідчить про залежність надпластичних властивостей, зокрема, від рівня внутрішніх напружень у матеріялі.",
+		"en": "The investigation of processes of internal-stress relaxation in superplastic eutectic alloy Sn-38wt.% Pb during ageing at room temperature is performed. The conclusion that the stress level is, at least, higher than yield stress of the material at room temperature is made on the ground of data of linear-sizes’ changes. These internal stresses remain in the material during sufficiently long term. The metastability of phase state of the alloy is considered as one of the main reason of internal-stress presence in the system. As found, both the optimal stress for superplasticity effect revealing and the observed elongation to failure are changing significantly during natural aging process of the alloy and because of preliminary annealing at $\\cong$ 70°C. This is the evidence of dependence of superplastic properties, in particular, on the internal-stress level in the material.",
+		"ru": "Выполнены исследования процессов релаксации внутренних напряжений в сверхпластичном эвтектическом сплаве Sn—38% вес. Pb в процессе выдержки при комнатной температуре. На основании данных об изменении линейных размеров образцов сделан вывод о том, что величина этих напряжений, как минимум, превосходит предел текучести материала при комнатной температуре, и эти напряжения сохраняются в материале в течение достаточно продолжительного времени. В качестве одной из главных причин наличия внутренних напряжений рассматривается метастабильность фазового состояния сплава. Установлено, что оптимальное для проявления эффекта сверхпластичности напряжение и наблюдающееся при этом удлинение до разрушения существенно изменяются в процессе естественного старения сплава и в результате предварительного отжига при температуре $\\cong$ 70°C. Это свидетельствует о зависимости сверхпластических свойств, в частности, от уровня внутренних напряжений в материале."
+	},
+	"keywords": {
+		"ua": "внутрішні напруження, релаксація, евтектичний стоп, надпластичність, плазучість, нерівноважність фазового стану",
+		"en": "internal stress, relaxation, eutectic alloy, superplasticity, creep, phase state nonequilibrium",
+		"ru": "внутренние напряжения, релаксация, эвтектический сплав, сверхпластичность, ползучесть, неравновесность фазового состояния"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Ф. Коршак", "en": "V. F. Korshak", "ru": "В. Ф. Коршак"},
+			"OID": [206]
+		},
+		{
+			"AID": {"ua": "Ю. О. Шаповалов", "en": "Yu. A. Shapovalov", "ru": "Ю. А. Шаповалов"},
+			"OID": [217]
+		},
+		{
+			"AID": {"ua": "М. М. Васеленко", "en": "N. N. Vaselenko", "ru": "Н. Н. Васеленко"},
+			"OID": [206]
+		}
+	],
+	"references": {
+		"count": 6,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "М. В. Грабский, Структурная сверхпластичность металлов (Москва: Металлургия: 1975).",
+				"tr":  "M. V. Grabskiy, Strukturnaya Sverkhplastichnost' Metallov [Structural Superplasticity of Metals] (Moscow: Metallurgiya: 1975) (in Russian)."
+			},
+			{
+				"doi": "10.1134/S0031918X1202007X",
+				"or":  "В. Ф. Коршак, Ю. А. Шаповалов, А. Л. Самсоник, П. В. Матейченко, Физ. мет. металловед., 113, № 2: 201 (2012).",
+				"tr":  "V. F. Korshak, Yu. A. Shapovalov, A. L. Samsonik, and P. V. Mateichenko, Phys. Met. Metalloved., 113, No. 2: 190 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Коршак, Ю. А. Шаповалов, П. В. Матейченко, И. А. Данилина, Металлофиз. новейшие технол., 30, № 3: 385 (2008).",
+				"tr":  "V. F. Korshak, Yu. O. Shapovalov, P. V. Mateychenko, and I. A. Danilina Metallofiz. Noveishie Tekhnol., 30, No. 3: 385 (2008) (in Russian)."
+			},
+			{
+				"doi": "10.1134/S0031918X09040103",
+				"or":  "В. Ф. Коршак, Ю. А. Шаповалов, Физ. мет. металловед., 107, № 4: 422 (2009).",
+				"tr":  "V. F. Korshak and Yu. A. Shapovalov, Phys. Met. Metalloved., 107, No. 4: 394 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Коршак, Пористость мелкозернистых сверхпластичных сплавов (Автореф. дисс. … канд. физ.-мат. наук) (Харьков: Харьковский государственный университет им. А. М. Горького: 1986).",
+				"tr":  "V. F. Korshak, Poristost' Melkozernistykh Sverhplastichnykh Splavov [Porousity of Fine-Grained Superplastic Alloys] (Autoref. Dis. … Cand. Phys.-Math. Sci.) (Kharkov: A. M. Gorky Kharkov State University: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Van Bueren and Hendrick Gerard, Imperfections in Crystals (Amsterdam: North-Holland Publishing Company: 1960).",
+				"tr":  "Van Bueren and Hendrick Gerard, Imperfections in Crystals (North-Holland Publishing Company: 1960)."
+			}
+		]
+	}
+}

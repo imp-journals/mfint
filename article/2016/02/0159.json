@@ -1,0 +1,96 @@
+{
+	"_id":    "MFiNT.38.02.0159",
+	"year":   2016,
+	"volume": 38,
+	"issue":  2,
+	"pages":  [159,166],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["20.11.2015"],
+	"PACS":   "62.20.fg, 64.70.kd, 64.75.Op, 81.05.Bx, 81.30.Bx, 81.30.Kf, 81.40.Cd, 81.40.Ef",
+	"title":   {
+		"ua": "Оптимізація термообробки потрійних і багатокомпонентних сплавів з ЕПФ на основі системи Cu—Al—Мn",
+		"en": "Optimization of Heat Treatment of Ternary and Multicomponent Alloys with a Shape-Memory Effect on the Base of Cu—Al—Mn System",
+		"ru": "Оптимизация термообработки тройных и многокомпонентных сплавов с ЭПФ на основе системы Cu—Al—Мn"
+	},
+	"abstract": {
+		"ua": "Проведено оптимізацію термооброблення, що сприяє підвищенню довговічности виробів зі стопів на основі системи Cu—Al—Мn з ефектом пам’яті форми. Повторне загартування від 900 К відновлює характеристики мартенситного перетворення та фазовий склад стопів, що розпалися.",
+		"en": "The heat-treatment optimization for alloys based on the Cu—Al—Мn system with the shape-memory effect is carried out. It promotes the increase of endurance of corresponding hardware. The repeated quenching from 900 K restores characteristics of martensitic transformation and phase composition of decomposed alloys.",
+		"ru": "Проведена оптимизация термообработки, способствующей повышению долговечности изделий из сплавов на основе системы Cu—Al—Мn с эффектом памяти формы. Повторная закалка от 900 К восстанавливает характеристики мартенситного превращения и фазовый состав распавшихся сплавов."
+	},
+	"keywords": {
+		"ua": "термооброблення, загартування, довговічність виробів, характеристики мартенситного перетворення, ефект пам’яті форми",
+		"en": "heat treatment, quenching, endurance of hardware, characteristics of martensitic transformation, shape-memory effect",
+		"ru": "термообработка, закалка, долговечность изделий, характеристики мартенситного превращения, эффект памяти формы"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. Р. Бублей", "en": "I. R. Bubley", "ru": "И. Р. Бублей"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Ю. М. Коваль", "en": "Yu. M. Koval", "ru": "Ю. Н. Коваль"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Т. Г. Сич", "en": "T. G. Sych", "ru": "Т. Г. Сыч"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 10,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "﻿H. Warlimont and L. Delaey, Martensitic Transformation in Copper-, Silver- and Gold-Based Alloys (Oxford: Pergamon Press: 1974)",
+				"tr":  "H. Warlimont and L. Delaey, Martensitic Transformation in Copper-, Silver- and Gold-Based Alloys (Oxford: Pergamon Press: 1974)"
+			},
+			{
+				"doi": "10.15407/mfint.36.12.1679",
+				"or":  "В. М. Надутов, А. Е. Перекос, В. В. Кокорин, С. М. Коноплюк, Т. В. Ефимова, В. П. Залуцкий, Металлофиз. новейшие технол., 36, № 12: 1679 (2014)",
+				"tr":  "V. M. Nadutov, A. O. Perekos, V. V. Kokorin, S. M. Konoplyuk, T. V. Yefimova, and V. P. Zalutskiy, Metallofiz. Noveishie Tekhnol., 36, No. 12: 1679 (2014) (in Russian)"
+			},
+			{
+				"doi": "10.1016/S0921-5093(99)00301-9",
+				"or":  "Y. Sutou, R. Kainuma, and K. Ishida, Mater. Sci. Eng. A, 273–275: 375 (1999)",
+				"tr":  "Y. Sutou, R. Kainuma, and K. Ishida, Mater. Sci. Eng. A, 273—275: 375 (1999)"
+			},
+			{
+				"doi": "10.1016/j.actamat.2005.05.013",
+				"or":  "Y. Sutou, T. Omori, K. Yamauchi, N. Ono, R. Kainuma, and K. Ishida, Acta Ma-ter., 53: 4121 (2005)",
+				"tr":  "Y. Sutou, T. Omori, K. Yamauchi, N. Ono, R. Kainuma, and K. Ishida, Acta Mater., 53: 4121 (2005)"
+			},
+			{
+				"doi": "10.1002/jbm.b.10079",
+				"or":  "Y. Sutou, T. Omori, A. Furukawa, Y. Takahashi, R. Kainuma, K. Yamauchi, S. Yamashita, and K. Ishida, J. Biomed., Mater. Res. Part B: Appl. Biomater., 69B: 64 (2004)",
+				"tr":  "Y. Sutou, T. Omori, A. Furukawa, Y. Takahashi, R. Kainuma, K. Yamauchi, S. Yamashita, and K. Ishida, J. Biomed., Mater. Res. Part B: Appl. Biomater., 69B: 64 (2004)"
+			},
+			{
+				"doi": "10.15407/mfint.36.12.1671",
+				"or":  "Л. Е. Козлова, А. Е. Перекос, В. П. Залуцкий, С. М. Коноплюк, В. В. Кокорин, Д. М. Трояновский, Металлофиз. новейшие технол., 36, № 12: 1671 (2014)",
+				"tr":  "L. E. Kozlova, A. O. Perekos, V. P. Zalutskiy, S. M. Konoplyuk, V. V. Kokorin, and D. M. Troyanovskiy, Metallofiz. Noveishie Tekhnol., 36, No. 12: 1671 (2014) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "И. Р. Бублей, Ю. Н. Коваль, П. В. Титов, Металлофиз. новейшие технол., 18, № 4: 20 (1996)",
+				"tr":  "I. R. Bubley, Yu. N. Koval, and P. V. Titov, Metallofiz. Noveishie Tekhnol., 18, No. 4: 20 (1996) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Арбузова, В. В. Мартынов, П. В. Титов, Л. Г. Хандрос, Металлофизика, 62: 54 (1975)",
+				"tr":  "I. A. Arbuzova, V. V. Martynov, P. V. Titov, and L. G. Handros, Metallofizika, 62: 54 (1975) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Арбузова, П. В. Титов, Л. Хандрос, Металлофизика, 69: 83 (1977)",
+				"tr":  "I. A. Arbuzova, P. V. Titov, and L. G. Handros, Metallofizika, 69: 83 (1977) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "W. Koster und T. Godeke, Zeitschrift für Metallkunde, 57, No. 2: 882 (1966)",
+				"tr":  "W. Koster und T. Godeke, Zeitschrift für Metallkunde, 57, No. 2: 882 (1966)"
+			}
+		]
+	}
+}

@@ -1,0 +1,157 @@
+{
+	"year":   2017,
+	"volume": 39,
+	"issue":  11,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [1445,1454],
+			"title": {
+				"ua": "Релаксація енергії зв’язку електронів з фононами в металах",
+				"en": "Relaxation of a Coupling Energy of Electrons with Phonons in Metals",
+				"ru": "Релаксация энергии связи электронов с фононами в металлах"
+			},
+			"autors": {
+				"ua": "М. І. Григорчук",
+				"en": "M. I. Grygorchuk",
+				"ru": "Н. И. Григорчук"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [1455,1467],
+			"title": {
+				"ua": "Вплив постійного струму на макро- та мікроструктуру манґановмісних сталей",
+				"en": "Influence of a Direct Current on Macrostructure and Microstructure of Manganese-Containing Steels",
+				"ru": "Влияние постоянного тока на макро- и микроструктуру марганецсодержащих сталей"
+			},
+			"autors": {
+				"ua": "О. М. Жбанова, Л. Н. Саітгареєв, І. Е. Скідін",
+				"en": "O. M. Zhbanova, L. N. Saitgareyev, and I. E. Skidin",
+				"ru": "А. Н. Жбанова, Л. Н. Саитгареев, И. Е. Скидин"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [1469,1479],
+			"title": {
+				"ua": "Закономірності фазових і структурних перетворень при рідкофазному спіканні порошкової швидкорізальної сталі",
+				"en": "Regularities of Phase and Structural Transformations During Liquid-Phase Sintering of Powder High-Speed Steel",
+				"ru": "Закономерности фазовых и структурных превращений при жидкофазном спекании порошковой быстрорежущей стали"
+			},
+			"autors": {
+				"ua": "О. В. Мовчан, К. О. Черноіваненко",
+				"en": "O. V. Movchan and K. O. Chernoivanenko",
+				"ru": "А. В. Мовчан, Е. А. Черноиваненко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  1,
+			"pages":  [1481,1495],
+			"title": {
+				"ua": "Моделювання структури рідкого стопу Al–0,2% Ti",
+				"en": "Modelling of Structure of a Liquid Al–0.2% Ti Alloy",
+				"ru": "Моделирование структуры жидкого сплава Al–0,2% Ti"
+			},
+			"autors": {
+				"ua": "Д. С. Каніболоцький, О. А. Щерецький, М. В. Афанасієв, А. М. Верховлюк",
+				"en": "D. S. Kanibolotsky, O. A. Shcheretskyi, M. V. Afanasiev, and A. M. Verkhovliuk",
+				"ru": "Д. С. Каниболоцкий, А. А. Щерецкий, М. В. Афанасиев, А. М. Верховлюк"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1497,1510],
+			"title": {
+				"ua": "Виготовлення композитів з металевою матрицею на основі алюмінійового стопу AA7075, зміцнених цинком, та аналіза поведінки їхнього зношування",
+				"en": "Fabrication of Aluminium AA7075 Reinforced by Zinc Metal Matrix Composites and Their Wear Behaviour Analysis",
+				"ru": "Изготовление композитов с металлической матрицей на основе алюминиевого сплава AA7075, упрочнённых цинком, и анализ поведения их изнашивания"
+			},
+			"autors": {
+				"ua": "М. Дінеш, Р. Равіндран",
+				"en": "M. Dinesh and R. Ravindran",
+				"ru": "М. Динеш, Р. Равиндран"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1511,1523],
+			"title": {
+				"ua": "Вплив металевих волокон і порошкової бури на характеристики тертя та зношування гальмових накладок на органічній основі",
+				"en": "The Effect of Metal Fibres and Borax Powders on the Wear and Friction Performances of the Organic Based Brake Pads",
+				"ru": "Влияние металлических волокон и порошков буры на характеристики трения и износа тормозных накладок на органической основе"
+			},
+			"autors": {
+				"ua": "Ирем Бурджу Алґан, Адем Курт",
+				"en": "İrem Burcu Algan and Adem Kurt",
+				"ru": "Ырэм Бурджу Алган, Адэм Курт"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [1525,1545],
+			"title": {
+				"ua": "Структура йонно-плазмових покриттів з високоентропійного стопу AlFeNiCoCuCr",
+				"en": "Structure of Ion-Plasma Sprayed Coatings Made of a High-Entropy AlFeNiCoCuCr Alloy",
+				"ru": "Структура ионно-плазменных покрытий из высокоэнтропийного сплава AlFeNiCoCuCr"
+			},
+			"autors": {
+				"ua": "В. М. Надутов, П. Ю. Волосевич, А. В. Прошак, В. Є. Панарін, М. Є. Свавільний",
+				"en": "V. M. Nadutov, P. Yu. Volosevich, A. V. Proshak, V. E. Panarin, and M. E. Svavil’nyy",
+				"ru": "В. М. Надутов, П. Ю. Волосевич, А. В. Прошак, В. Е. Панарин, Н. Е. Свавильный"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [1547,1556],
+			"title": {
+				"ua": "Структурна та мікроструктурна аналіза шарів стопу Zn–Mo, електроосаджених з водного розчину цитрату",
+				"en": "Structural and Microstructural Analysis of Zn–Mo Alloy Layers Electrodeposited from Aqueous Citrate Solution",
+				"ru": "Структурный и микроструктурный анализ слоёв сплава Zn–Mo, электроосаждённых из водного раствора цитрата"
+			},
+			"autors": {
+				"ua": "З. Швьонтек, Х. Кажімєрчак, П. Озґа, О. Бончик, Г. Савицький",
+				"en": "Z. Świątek, H. Kazimierczak, P. Ozga, O. Bonchyk, and H. Savytskyy",
+				"ru": "З. Швёнтэк, Х. Кажимерчак, П. Озга, О. Бончик, Г. Савицкий"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [1557,1571],
+			"title": {
+				"ua": "Вплив домішок Si, Fe, Ti на температуру та кінетику дисоціяції MgH$_2$, одержаного реактивним механічним стопленням",
+				"en": "Influence of Admixtures of Si, Fe, Ti on Temperature and Kinetics of Dissociation of MgH$_2$ Obtained by Reactive Mechanical Alloyage",
+				"ru": "Влияние добавок Si, Fe, Ti на температуру и кинетику диссоциации MgH$_2$, полученного реактивным механическим сплавлением"
+			},
+			"autors": {
+				"ua": "О. Г. Єршова, В. Д. Добровольський, Ю. М. Солонін, О. Ю. Коваль",
+				"en": "O. G. Ershova, V. D. Dobrovolsky, Yu. M. Solonin, and O. Yu. Koval",
+				"ru": "О. Г. Ершова, В. Д. Добровольский, Ю. М. Солонин, A. Ю. Коваль"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [1573,1587],
+			"title": {
+				"ua": "Хемічний склад і морфологія поверхні йонотронних наноструктур, сформованих на основі 2$D$-шаруватих кристалів InSe і йонної солі RbNO$_3$",
+				"en": "Chemical Composition and Morphology of a Surface of Ionotron Nanostructures Fabricated on the Base of 2$D$ Layered Crystals of InSe and Ionic RbNO$_3$ Salt",
+				"ru": "Химический состав и морфология поверхности ионотронных наноструктур, сформированных на основе 2$D$-слоистых кристаллов InSe и ионной соли RbNO$_3$"
+			},
+			"autors": {
+				"ua": "А. П. Бахтінов, В. М. Водоп’янов, В. І. Іванов, В. Л. Карбівський, З. Д. Ковалюк, В. В. Нетяга, О. С. Литвин",
+				"en": "A. P. Bakhtinov, V. M. Vodopyanov, V. I. Ivanov, V. L. Karbivskyi, Z. D. Kovalyuk, V. V. Netyaga, and O. S. Lytvyn",
+				"ru": "А. П. Бахтинов, В. Н. Водопьянов, В. И. Иванов, В. Л. Карбовский, З. Д. Ковалюк, В. В. Нетяга, О. С. Литвин"
+			}
+		}
+	]
+}

@@ -1,0 +1,97 @@
+{
+	"_id":    "MFiNT.37.12.1725",
+	"year":   2015,
+	"volume": 37,
+	"issue":  12,
+	"pages":  [1725,1731],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["08.09.2015","26.10.2015"],
+	"PACS":   "03.65.Pm, 72.80.Vp, 73.23.-b, 73.25.+i, 73.50.Bk, 73.50.Gr",
+	"title":  {
+		"ua": "Мінімальна провідність графену, обумовлена ефективним загасанням носіїв заряду внаслідок ефекту «дрижання» Шредінгера",
+		"en": "The Minimal Conductivity of Graphene Caused by the Effective Attenuation of Charge Carriers Due to the Schrödinger’s ‘Zitterbewegung’ Effect",
+		"ru": "Минимальная проводимость графена, обусловленная эффективным затуханием носителей заряда вследствие эффекта «дрожания» Шредингера"
+	},
+	"abstract": {
+		"ua": "Визначено мінімальну провідність графенового моношару на основі кінетичного рівняння з ефективним згасанням, зумовленим релятивістським квантовим ефектом «Zitterbewegung». Розглянуто специфічний вид міжзонного електронного переходу з утворенням віртуальних електронно-діркових пар, який відбувається при звичайних внутрішньозонних переходах. Знайдений результат для мінімальної провідности підтверджується експериментально і збігається з виразом $4e^{2}/\\pi\\hbar$, одержаним теоретично іншою методою (у Ландауеровому формулюванні).",
+		"en": "Based on the kinetic equation with effective attenuation caused by the relativistic quantum effect of ‘Zitterbewegung’, the minimal conductivity in graphene monolayer is determined. The relativistic quantum effect considered as a peculiar type of interband electronic transition with the formation of virtual electron—hole pair, which occurs under the usual intraband transition, is investigated. The result for the minimal conductivity is confirmed by the experimental data and coincides with the expression $4e^{2}/\\pi\\hbar$ obtained theoretically by another method (within the Landauer’s formulation).",
+		"ru": "Определена минимальная проводимость монослоя графена на основе кинетического уравнения с эффективным затуханием, обусловленным релятивистским квантовым эффектом «Zitterbewegung». Рассмотрен специфический вид межзонного перехода с образованием виртуальной электронно-дырочной пары, который происходит при обычных внутризонных переходах. Найденный результат для минимальной проводимости подтверждается экспериментально и совпадает с выражением $4e^{2}/\\pi\\hbar$, полученным теоретически другим методом (в формулировке Ландауэра)"
+	},
+	"keywords": {
+		"ua": "моношар графену, мінімальна провідність, ефект «Zitterbewegung»",
+		"en": "graphene monolayer, minimal conductivity, Schrödinger’s ‘Zitterbewegung’ effect",
+		"ru": "монослой графена, минимальная проводимость, эффект «Zitterbewegung»"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. А. Рувінський", "en": "M. A. Ruvinskii", "ru": "М. А. Рувинский"},
+			"OID": [209]
+		},
+		{
+			"AID": {"ua": "О. Б. Костюк", "en": "O. B. Kostyuk", "ru": "О. Б. Костюк"},
+			"OID": [209]
+		}
+	],
+	"references": {
+		"count": 11,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Э. Шредингер, Избранные труды по квантовой механике (Москва: Наука: 1976).",
+				"tr":  "E. Shrödinger, Izbrannye Trudy po Kvantovoy Mekhanike [Selected Papers on Wave Mechanics] (Moscow: Nauka: 1976) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "А. С. Давыдов, Квантовая механика (Москва: Наука: 1973).",
+				"tr":  "A. S. Davydov, Kvantovaya Mekhanika [Quantum Mechanics] (Moscow: Nauka: 1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Берестецкий, E. M. Лифшиц, Л. П. Питаевский, Квантовая электродинамика (Москва: Наука: 1980).",
+				"tr":  "V. B. Berestetskii, E. M. Lifshitz, and L. P. Pitaevskii, Kvantovaya Elektrodinamika [Quantum Electrodynamics] (Moscow: Nauka: 1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. И. Ахиезер, В. Б. Берестецкий, Квантовая электродинамика (Москва: Наука: 1981).",
+				"tr":  "A. I. Akhiezer and V. B. Berestetskii, Kvantovaya Elektrodinamika [Quantum Eelectrodynamics] (Moscow: Nauka: 1981) (in Russian)."
+			},
+			{
+				"doi": "10.1140/epjb/e2006-00203-1",
+				"or":  "M. I. Katsnelson, Eur. Phys. J., B51: 157 (2006).",
+				"tr":  "M. I. Katsnelson, Eur. Phys. J., B51: 157 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "Й. Имри, Введение в мезоскопическую физику (Москва: Физматлит: 2002).",
+				"tr":  "Y. Imri, Vvedenie v Mezoskopicheskuyu Fiziku [Introduction to Mesoscopic Physics] (Moscow: Fizmatlit: 2002) (Russian translation)."
+			},
+			{
+				"doi": "10.1017/CBO9781139031080",
+				"or":  "M. I. Katsnelson, Graphene. Carbon in Two Dimensions (New York: Cambridge University Press: 2012).",
+				"tr":  "M. I. Katsnelson, Graphene. Carbon in Two Dimensions (New York: Cambridge University Press: 2012)."
+			},
+			{
+				"doi": "10.1088/1367-2630/11/9/095013",
+				"or":  "V. P. Gusynin, S. G. Sharapov, and J. P. Carbone, New Journal of Physics, 11: 095013 (2009).",
+				"tr":  "V. P. Gusynin, S. G. Sharapov, and J. P. Carbone, New Journal of Physics, 11: 095013 (2009)."
+			},
+			{
+				"doi": "10.3367/UFNr.0182.201211i.1223",
+				"or":  "L. A. Falkovsky, JETP, 106: 575 (2008); Л. А. Фальковский, УФН, 182: 1223 (2012).",
+				"tr":  "L. A. Falkovsky, JETP, 106, 575 (2008); L. A. Falkovsky, Uspekhi Fizicheskikh Nauk, 182: 1223 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "B. M. Ruvinskii and M. A. Ruvinskii, Mesoscale and Nanoscale Physics, arXiv: 1308. 2854, 1 (2013); B. M. Ruvinskii and M. A. Ruvinskii,  Physics and Chemistry of Solid State, 14, No. 4: 703, (2013).",
+				"tr":  "B. M. Ruvinskii and M. A. Ruvinskii, Mesoscale and Nanoscale Physics, arXiv: 1308.2854, 1 (2013); B. M. Ruvinskii and M. A. Ruvinskii, Physics and Chemistry of Solid State, 14, No. 4: 703, (2013)."
+			},
+			{
+				"doi": "10.1126/science.1144359",
+				"or":  "F. Miao, S. Wijerate, Y. Zlang, U. C. Coskun, W. Bao, and C. N. Lau, Science, 317: 1530 (2007).",
+				"tr":  "F. Miao, S. Wijerate, Y. Zlang, U. C. Coskun, W. Bao, and C. N. Lau, Science, 317: 1530 (2007)."
+			}
+		]
+	}
+}

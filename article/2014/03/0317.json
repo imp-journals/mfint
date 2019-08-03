@@ -1,0 +1,145 @@
+{
+	"_id":    "MFiNT.36.03.0317",
+	"year":   2014,
+	"volume": 36,
+	"issue":  3,
+	"pages":  [317,327],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["03.10.2013"],
+	"PACS":   "52.77.Fv, 61.66.Dk, 62.20.Qp, 81.20.Vj, 81.40.Pq",
+	"title":   {
+		"ua": "Режим спрацювання цапф колінчастих валів, оброблених дуговим зварюванням під флюсом",
+		"en": "Wear Behaviour of Crankshaft Journals Filled by Submerged Arc Welding",
+		"ru": "Режим износа цапф коленчатых валов, обработанных дуговой сваркой под флюсом"
+	},
+	"abstract": {
+		"ua": "В роботі досліджено режим спрацювання цапф колінчастого валу, оброблених дуговим зварюванням під флюсом з різними зварювальними дротами і порошками. Досліджено варіації твердості та мікроструктури при дуговому зварюванні під флюсом. Крім цього, було виміряно величину втрати ваги в зразках, підданих стиранню в сухих і змащувальних середовищах при навантаженнях у 40 Н. Спостерігалося зменшення величини стирання зі збільшенням твердості до певної границі. Було забезпечено використання тонкого дроту для кращого опору стиранню, а стирання зменшувалося при змащуванні.",
+		"en": "In this study, wear behaviour of crankshaft journals filled by a submerged arc welding with different welding wires and powders is investigated. Hardness and microstructure variations in the submerged arc welding are examined. In addition, the amount of weight loss in abrasion samples of filling dry and lubrication ambience is measured under 40 N loads. It is observed that the amount of abrasion decreased with the increase of hardness at a certain point. Thin wire structure is provided for better abrasion resistance, and abrasion decreases with lubrication.",
+		"ru": "В работе исследован режим износа цапф коленчатого вала, обработанных дуговой сваркой под флюсом с различными сварочными проволоками и порошками. Изучены вариации твёрдости и микроструктуры при дуговой сварке под флюсом. Кроме того, была измерена величина потери веса в образцах, подвергнутых истиранию в сухих и смазочных средах при нагрузках в 40 Н. Наблюдалось уменьшение величины истирания с увеличением твёрдости до определённого предела. Было обеспечено использование тонкой проволоки для лучшего сопротивления истиранию, а истирание уменьшалось при смазке."
+	},
+	"keywords": {
+		"ua": "колінчастий вал, зварювання під флюсом, заповнення, знос",
+		"en": "crankshaft journal, submerged arc welding, filling, wear",
+		"ru": "коленчатый вал, сварка под флюсом, заполнение, износ"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. А. Йозтюрк", "en": "A. A. Öztürk", "ru": "А. А. Ёзтюрк"},
+			"OID": [467]
+		},
+		{
+			"AID": {"ua": "Б. Гюленч", "en": "B. Gülenç", "ru": "Б. Гюленч"},
+			"OID": [467]
+		},
+		{
+			"AID": {"ua": "А. Дургутлу", "en": "A. Durgutlu", "ru": "А. Дургутлу"},
+			"OID": [467]
+		},
+		{
+			"AID": {"ua": "Н. Кахраман", "en": "N. Kahraman", "ru": "Н. Кахраман"},
+			"OID": [468]
+		}
+	],
+	"references": {
+		"count": 19,
+		"list":  [
+			{
+				"doi": "10.1016/j.jmatprotec.2004.11.001",
+				"or":  "X. H. Wang, Z. D. Zou, S. Y. Qu, and S. L. Song, J. Mater. Process. Technol., 168: 89 (2005).",
+				"tr":  "X. H. Wang, Z. D. Zou, S. Y. Qu, and S. L. Song, J. Mater. Process. Technol., 168: 89 (2005)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(01)01850-0",
+				"or":  "C. K. Kim, S. Lee, J. Y. Jung, and S. Ahn, Mater. Sci. Eng. A, 349: 1 (2003).",
+				"tr":  "C. K. Kim, S. Lee, J. Y. Jung, and S. Ahn, Mater. Sci. Eng. A, 349: 1 (2003)."
+			},
+			{
+				"doi": "10.1016/S0043-1648(03)00101-7",
+				"or":  "J. S. Chatter and T. K. Pal, Wear, 255: 417 (2003).",
+				"tr":  "J. S. Chatter and T. K. Pal, Wear, 255: 417 (2003)."
+			},
+			{
+				"doi": "10.1016/j.jmatprotec.2005.02.269",
+				"or":  "A. S. C. M. D’Oliveira, R. S. C. Paredes, and R. L. C. Santos, J. Mater. Process. Technol., 171: 167 (2006).",
+				"tr":  "A. S. C. M. D'Oliveira, R. S. C. Paredes, and R. L. C. Santos, J. Mater. Process. Technol., 171: 167 (2006)."
+			},
+			{
+				"doi": "10.1016/j.wear.2005.03.002",
+				"or":  "M. F. Buchely, J. C. Gutierrez, L. M. León, and A. Toro, Wear, 259: 52 (2005).",
+				"tr":  "M. F. Buchely, J. C. Gutierrez, L. M. León, and A. Toro, Wear, 259: 52 (2005)."
+			},
+			{
+				"doi": "10.1016/j.jmatprotec.2003.12.016",
+				"or":  "S-P. Lu, O.-Y. Kwon, T.-B. Kim, and K.-H. Kim, J. Mater. Process. Technol., 147: 191 (2004).",
+				"tr":  "S-P. Lu, O.-Y. Kwon, T.-B. Kim, and K.-H. Kim, J. Mater. Process. Technol., 147: 191 (2004)."
+			},
+			{
+				"doi": "10.1016/S0169-4332(02)01427-7",
+				"or":  "J. Grum and J. M. Slabe, Appl. Surf. Sci., 208–209: 424 (2003).",
+				"tr":  "J. Grum and J. M. Slabe, Appl. Surf. Sci., 208–209: 424 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Ferjutz and J. R. Davis, ASM Handbook: Welding, Brazing and Soldering (ASM International: 2000), vol. 6, p. 202.",
+				"tr":  "K. Ferjutz and J. R. Davis, ASM Handbook: Welding, Brazing and Soldering (ASM International: 2000), vol. 6, p. 202."
+			},
+			{
+				"doi": "10.1016/S0924-0136(02)00235-2",
+				"or":  "J. Tusek and M. Suban, J. Mater. Process. Technol., 133: 207 (2003).",
+				"tr":  "J. Tusek and M. Suban, J. Mater. Process. Technol., 133: 207 (2003)."
+			},
+			{
+				"doi": "10.1016/S0261-3069(03)00082-7",
+				"or":  "B. Gülenç and N. Kahraman, Materials and Design, 24: 537 (2003).",
+				"tr":  "B. Gülenç and N. Kahraman, Materials and Design, 24: 537 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Galvery and F. Marlow, Welding Essentials (New York: Industrial Press INC: 2001), p. 212.",
+				"tr":  "W. Galvery and F. Marlow, Welding Essentials (New York: Industrial Press INC: 2001), p. 212."
+			},
+			{
+				"doi": "",
+				"or":  "J. R. Madsen, Welding Fundamentals (New York: American Technical Publishers Inc.: 1999), p. 242.",
+				"tr":  "J. R. Madsen, Welding Fundamentals (New York: American Technical Publishers Inc.: 1999), p. 242."
+			},
+			{
+				"doi": "",
+				"or":  "W. M. Robert, Principles of Welding (New York: John Wiley & Sons, Inc.: 1999), p. 68.",
+				"tr":  "W. M. Robert, Principles of Welding (New York: John Wiley & Sons, Inc.: 1999), p. 68."
+			},
+			{
+				"doi": "10.1016/S0924-0136(99)00296-4",
+				"or":  "V. Gunaraj and N. Murugan, J. Mater. Process. Technol., 95: 246 (1999).",
+				"tr":  "V. Gunaraj and N. Murugan, J. Mater. Process. Technol., 95: 246 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "G. A. Kennedy, Welding Technology (2 Edition) (California: A Division of Macmillan Publishing Company: 1982), p. 386.",
+				"tr":  "G. A. Kennedy, Welding Technology (2 Edition) (California: A Division of Macmillan Publishing Company: 1982), p. 386."
+			},
+			{
+				"doi": "",
+				"or":  "A. D. Althouse, C. H. Turnquist, W. A. Bowditch, and K. E. Bowditch, Modern Welding (Tinley Park: The Goodheart-Willcox Company, Inc.: 1993), p. 459.",
+				"tr":  "A. D. Althouse, C. H. Turnquist, W. A. Bowditch, and K. E. Bowditch, Modern Welding (Tinley Park: The Goodheart-Willcox Company, Inc.: 1993), p. 459."
+			},
+			{
+				"doi": "",
+				"or":  "A. Durgutlu, N. Kahraman, and B. Gülenç, The Journal of the Industrial Arts Education Faculty of Gazi University, 10, Iss. 11: 1 (2002) (in Turkish).",
+				"tr":  "A. Durgutlu, N. Kahraman, and B. Gülenç, The Journal of the Industrial Arts Education Faculty of Gazi University, 10, Iss. 11: 1 (2002) (in Turkish)."
+			},
+			{
+				"doi": "10.1108/00368790510601707",
+				"or":  "N. Kiratli, Industrial Lubrication and Tribology, 57, Iss. 4: 150 (2005).",
+				"tr":  "N. Kiratli, Industrial Lubrication and Tribology, 57, Iss. 4: 150 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Çetinkaya, The Determination and Possibility of Improvement of Wear Resistance of Plow Iron (Thesis of Disser. for PhD) (Ankara: Gazi University, Institute of Science and Technology: 1994).",
+				"tr":  "C. Çetinkaya, The Determination and Possibility of Improvement of Wear Resistance of Plow Iron (Thesis of Disser. for PhD) (Ankara: Gazi University, Institute of Science and Technology: 1994)."
+			}
+		]
+	}
+}

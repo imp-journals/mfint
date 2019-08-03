@@ -1,0 +1,163 @@
+{
+	"_id":    "MFiNT.38.02.0229",
+	"year":   2016,
+	"volume": 38,
+	"issue":  2,
+	"pages":  [229,246],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["02.07.2015"],
+	"PACS":   "61.05.Qr, 61.43.Dq, 65.60.+a, 68.37.Lp, 68.55.Nq, 75.50.Tt, 81.16.Mk",
+	"title":   {
+		"ua": "Фазовий склад та структура нанодисперсних плівок на основі заліза",
+		"en": "Phase Composition and Structure of Nanodisperse Films Based on Iron",
+		"ru": "Фазовый состав и дисперсных плёнок на основе железа"
+	},
+	"abstract": {
+		"ua": "Досліджено нанодисперсні плівки заліза, одержані методою імпульсного лазерного напорошення (ІЛН) у вакуумі в інтервалі тисків $P = 10^{-3}-10^{-5}$ Па за кімнатної температури підложжя. Вивчено структуру та фазовий склад плівок методами просвітлювальної електронної мікроскопії й електронографії, Мессбауерової спектроскопії конверсійних електронів (МСКЕ), а також селективної за глибиною МСКЕ. Показано, що плівки знаходяться в аморфному стані. Вивчено їх термічну та товщинну стійкість. Запропоновано модель утворення аморфного стану та діяграму структурних станів для плівок, одержаних методою ІЛН.",
+		"en": "The nanodisperse iron films obtained by the method of pulse-laser evaporation in a vacuum are investigated. The pressure range of vacuum comprises the interval of $P = 10^{-3}-10^{-5}$ Pa. The substrate temperature is ambient. Structure and phase composition are studied by the methods of transmission electron microscopy and diffraction, conversion electron Mössbauer spectroscopy (CEMS). The CEMS selective on depth is used too. The model of amorphous state and the structure state diagram are proposed for the films obtained by the pulse-laser evaporation method.",
+		"ru": "Исследованы нанодисперсные плёнки железа, полученные методом импульсного лазерного напыления (ИЛН) в вакууме в интервале давлений $P = 10^{-3}-10^{-5}$ Па при комнатной температуре подложки. Изучена структура и фазовый состав плёнок методами просвечивающей электронной микроскопии и электронографии, мёссбауэровской спектроскопии конверсионных электронов (МСКЭ), а также селективной по глубине МСКЭ. Показано, что плёнки находятся в аморфном состоянии. Изучена их термическая и толщинная устойчивость. Предложена модель образования аморфного состояния и диаграмма структурных состояний для плёнок, полученных методом ИЛН."
+	},
+	"keywords": {
+		"ua": "аморфні феро- та суперпарамагнетні нанодисперсні плівки, імпульсне лазерне напорошення, просвітлювальна електронна мікроскопія, Мессбауерова спектроскопія конверсійних електронів",
+		"en": "amorphous ferro- and superparamagnetic nanodisperse films, pulse-laser evaporation, transmission electron microscopy, conversion electron Mössbauer spectroscopy",
+		"ru": "аморфные ферро- и суперпарамагнитные нанодисперсные плёнки, импульсное лазерное напыление, просвечивающая электронная микроскопия, мёссбауэровская спектроскопия конверсионных электронов"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Г. П. Ніколайчук", "en": "G. P. Nikolaychuk", "ru": "Г. П. Николайчук"},
+			"OID": [216]
+		}
+	],
+	"references": {
+		"count": 25,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "﻿A. E. Barg, N. V. Dubovickay, D. A. Dudko, and L. N. Larikov, Metallofizika, 9, No. 4: 118 (1987) (in Russian)",
+				"tr":  "A. E. Barg, N. V. Dubovickay, D. A. Dudko, and L. N. Larikov, Metallofizika, 9, No. 4: 118 (1987) (in Russian)"
+			},
+			{
+				"doi": "10.1016/0378-5963(85)90194-1",
+				"or":  "C. Kaito, Y. Nakata, K. Saito, and K. Fugita, Appl. Surf. Sci., 22/23, No. 2: 621 (1985)",
+				"tr":  "C. Kaito, Y. Nakata, K. Saito, and K. Fugita, Appl. Surf. Sci., 22/23, No. 2: 621 (1985)"
+			},
+			{
+				"doi": "",
+				"or":  "D. K. Belashchenko, Structure of Liquid and Amorphous Metals (Moscow: Metallurgy: 1985) (in Russian)",
+				"tr":  "D. K. Belashchenko, Structure of Liquid and Amorphous Metals (Moscow: Metallurgy: 1985) (in Russian)"
+			},
+			{
+				"doi": "10.1002/pssa.2210190237",
+				"or":  "T. Ichikawa, phys. status solidi (a), 19, No. 2: 707 (1973)",
+				"tr":  "T. Ichikawa, phys. status solidi (a), 19, No. 2: 707 (1973)"
+			},
+			{
+				"doi": "10.1080/14786437408207253",
+				"or":  "F. K. Leung and J. G. Wright, Philos. Mag., 30, No. 1: 995 (1974)",
+				"tr":  "F. K. Leung and J. G. Wright, Philos. Mag., 30, No. 1: 995 (1974)"
+			},
+			{
+				"doi": "10.1002/pssa.2210130114",
+				"or":  "M. R. Bennett and J. G. Wright, phys. status solidi (a), 13, No. 1: 135 (1972)",
+				"tr":  "M. R. Bennett and J. G. Wright, phys. status solidi (a), 13, No. 1: 135 (1972)"
+			},
+			{
+				"doi": "10.1002/pssa.2210390240",
+				"or":  "R. Wang and M. D. Merz, phys. status solidi (a), 39, No. 2: 697 (1977)",
+				"tr":  "R. Wang and M. D. Merz, phys. status solidi (a), 39, No. 2: 697 (1977)"
+			},
+			{
+				"doi": "",
+				"or":  "A. G. Bagmut, V. M. Kosevich, and G. P. Nikolaychuk, Fizika i Khimiya Obrabotki Materialov, No. 3: 74 (1988) (in Russian)",
+				"tr":  "A. G. Bagmut, V. M. Kosevich, and G. P. Nikolaychuk, Fizika i Khimiya Obrabotki Materialov, No. 3: 74 (1988) (in Russian)"
+			},
+			{
+				"doi": "10.1016/0168-583X(90)90629-9",
+				"or":  "V. Yu. Ryzhykh, M. I. Babenkov, B. V. Bobykin, V. S. Zhdanov, and A. K. Zhetbaev, Nucl. Instr. and Meth. B, 47, No. 4: 470 (1990)",
+				"tr":  "V. Yu. Ryzhykh, M. I. Babenkov, B. V. Bobykin, V. S. Zhdanov, and A. K. Zhetbaev, Nucl. Instr. and Meth. B, 47, No. 4: 470 (1990)"
+			},
+			{
+				"doi": "",
+				"or":  "Yu. A. Bykovskiy, V. G. Degtyarev, and N. N. Degtyarenko, Zhurn. Tekhn. Fiz., 43, No. 3: 658 (1972) (in Russian)",
+				"tr":  "Yu. A. Bykovskiy, V. G. Degtyarev, and N. N. Degtyarenko, Zhurn. Tekhn. Fiz., 43, No. 3: 658 (1972) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "A. D. Akhsakhalyan, Yu. A. Bityurin, and S. V. Gaponov, Zhurn. Tekhn. Fiz., 52, No. 8: 1584 (1982) (in Russian)",
+				"tr":  "A. D. Akhsakhalyan, Yu. A. Bityurin, and S. V. Gaponov, Zhurn. Tekhn. Fiz., 52, No. 8: 1584 (1982) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "Yu. A. Bykovskiy, L. I. Litinskaya, S. M. Sil’nov, and E. A. Sotnichenko, Fizika i Khimiya Obrabotki Materialov, No. 4: 44 (1988) (in Russian)",
+				"tr":  "Yu. A. Bykovskiy, L. I. Litinskaya, S. M. Sil'nov, and E. A. Sotnichenko, Fizika i Khimiya Obrabotki Materialov, No. 4: 44 (1988) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "Yu. A. Bykovskiy, A. G. Dudoladov, and L. K. Kovalev, Poverkhnost. Fizika, Khimiya, Mekhanika, No. 8: 74 (1985) (in Russian)",
+				"tr":  "Yu. A. Bykovskiy, A. G. Dudoladov, and L. K. Kovalev, Poverkhnost. Fizika, Khimiya, Mekhanika, No. 8: 74 (1985) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "A. G. Bagmut, V. M. Kosevich, and G. P. Nikolaychuk, Vopr. Atom. Nauki i Tekhn. Ser.: Yaderno-Fizicheskie Issledovaniya (Teoriya i Eksperiment), No. 4 (12): 59 (1990) (in Russian)",
+				"tr":  "A. G. Bagmut, V. M. Kosevich, and G. P. Nikolaychuk, Vopr. Atom. Nauki i Tekhn. Ser.: Yaderno-Fizicheskie Issledovaniya (Teoriya i Eksperiment), No. 4 (12): 59 (1990) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "A. F. Skryshevskiy, Strukturnyy Analiz Zhidkostey i Amorfnykh Tel [Structural Analysis of Liquids and Amorphous Solids] (Moscow: Vysshaya Shkola: 1980) (in Russian)",
+				"tr":  "A. F. Skryshevskiy, Strukturnyy Analiz Zhidkostey i Amorfnykh Tel [Structural Analysis of Liquids and Amorphous Solids] (Moscow: Vysshaya Shkola: 1980) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "V. F. Kolosov and A. L. Tolstikhina, Rasplavy, No. 2: 20 (1989) (in Russian)",
+				"tr":  "V. F. Kolosov and A. L. Tolstikhina, Rasplavy, No. 2: 20 (1989) (in Russian)"
+			},
+			{
+				"doi": "10.1007/BF02147406",
+				"or":  "T. Tyliszchak, J. A. Sawicki, and W. Wilk, Hyperfine Interactions, 16, No. 1–4: 1001 (1983)",
+				"tr":  "T. Tyliszchak, J. A. Sawicki, and W. Wilk, Hyperfine Interactions, 16, No. 1–4: 1001 (1983)"
+			},
+			{
+				"doi": "",
+				"or":  "H. B. Lourens, Mössbauer Effect Reference and Date J., 2, No. 3: 76 (1979)",
+				"tr":  "H. B. Lourens, Mössbauer Effect Reference and Date J., 2, No. 3: 76 (1979)"
+			},
+			{
+				"doi": "",
+				"or":  "S. V. Vonsovsky, Magnetism (Moscow: Nauka: 1971) (in Russian)",
+				"tr":  "S. V. Vonsovsky, Magnetism (Moscow: Nauka: 1971) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "I. P. Suzdalev, Nanotekhnologiya: Fiziko-Khimiya Nanoklasterov, Nanostruktur i Nanomaterialov (Moscow: KomKniga: 2006) (in Russian)",
+				"tr":  "I. P. Suzdalev, Nanotekhnologiya: Fiziko-Khimiya Nanoklasterov, Nanostruktur i Nanomaterialov (Moscow: KomKniga: 2006) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "J. Itoh, T. Toriyama, K. Saneyoshi, and K. Hisatake, Nucl. Instr. and Meth., No. 205: 279 (1983)",
+				"tr":  "J. Itoh, T. Toriyama, K. Saneyoshi, and K. Hisatake, Nucl. Instr. and Meth., No. 205: 279 (1983)"
+			},
+			{
+				"doi": "",
+				"or":  "V. M. Kuz’menko, B. G. Lazarev, V. I. Mel’nikov, and A. I. Sudovtsov, Ukr. Fiz. Zhurn., 21, No. 6: 883 (1976)",
+				"tr":  "V. M. Kuz'menko, B. G. Lazarev, V. I. Mel'nikov, and A. I. Sudovtsov, Ukr. Fiz. Zhurn., 21, No. 6: 883 (1976)"
+			},
+			{
+				"doi": "",
+				"or":  "J. Wolny and W. Zajac, Zesz. Nauk. AGH. Mat.-Fiz.-Chem., Z. 60: 55 (1983)",
+				"tr":  "J. Wolny and W. Zajac, Zesz. Nauk. AGH. Mat.-Fiz.-Chem., Z. 60: 55 (1983)"
+			},
+			{
+				"doi": "",
+				"or":  "K. Sudzuki, H. Fudzimori, and K. Khasimoto, Amorfnye Metally [Amorphous Metals] (Moscow: Metallurgy: 1987) (Russian translation)",
+				"tr":  "K. Sudzuki, H. Fudzimori, and K. Khasimoto, Amorfnye Metally [Amorphous Metals] (Moscow: Metallurgy: 1987) (Russian translation)"
+			},
+			{
+				"doi": "",
+				"or":  "L. S. Palatnik and I. I. Fal’ko, Zhurnal Fizicheskoi Khimii, 57, No. 10: 2398 (1983) (in Russian)",
+				"tr":  "L. S. Palatnik and I. I. Fal'ko, Zhurnal Fizicheskoi Khimii, 57, No. 10: 2398 (1983) (in Russian)"
+			}
+		]
+	}
+}

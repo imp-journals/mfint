@@ -1,0 +1,189 @@
+{
+	"_id":    "MFiNT.37.06.0775",
+	"year":   2015,
+	"volume": 37,
+	"issue":  6,
+	"pages":  [775,788],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["24.03.2015"],
+	"PACS":   "61.80.Jh, 61.82.Fk, 68.37.Lp, 68.47.Gh, 68.55.Nq, 81.40.Wx, 81.65.Cf",
+	"title":  {
+		"ua": "Фізичні механізми розпорошення мішеней із SiO$_{2}$ прискореними йонами фулерена C$_{60}$",
+		"en": "Physical Mechanisms of SiO$_{2}$ Target Sputtering with Accelerated Ions of C$_{60}$",
+		"ru": "Физические механизмы распыления мишеней из SiO$_{2}$ ускоренными ионами фуллерена C$_{60}$"
+	},
+	"abstract": {
+		"ua": "Досліджено фізичні закономірності та механізми росту вуглецевих плівок та ерозії поверхні при опроміненні мішеней з кварцу (SiO$_{2}$) пучком прискорених йонів C$_{60}$ з енергією в інтервалі 2,5—10 кеВ за температури мішені у 373 К. Встановлено, що ріст вуглецевих плівок на поверхні мішеней з SiO$_{2}$, які опромінюються йонами C$_{60}$, спостерігається в інтервалі енергій йонів 2,5—3,75 кеВ. При цьому швидкість осадження вуглецю лімітується процесом ерозії поверхні росту, інтенсивність якого залежить від енергії йонів. При енергії йонів вище верхніх значень зазначених інтервалів плівка на поверхні не формується, і спостерігається ерозія матеріялу мішені. Показано можливість видалення аморфного оксиду з поверхні кремнієвого підложжя і формування на ній епітаксійного карбіду кремнію.",
+		"en": "Growth of carbon films and surface erosion during irradiation of quartz (SiO$_{2}$) by accelerated C$_{60}$-ion beams with energies in the range of 2.5—10 keV at a target temperature of 373 K are investigated. As found, the growth of carbon films on the surface of the irradiated targets of SiO$_{2}$ is observed in the range of ion energies of 2.5—3.75 keV. In this case, carbon deposition rate is limited by the process of erosion of the growth surface, the intensity of which depends on the energy of the ions. When the ion energy is higher than the upper values of these intervals, the film is not formed on the surface, and erosion of the target material takes place. The possibility of both removing of the amorphous oxide from the surface of Si substrate and forming of an epitaxial silicon carbide thereon is shown.",
+		"ru": "Исследованы физические закономерности и механизмы роста углеродных плёнок и эрозии поверхности при облучении мишеней из кварца (SiO$_{2}$) пучком ускоренных ионов C$_{60}$ с энергией в интервале 2,5—10 кэВ при температуре мишени 373 К. Установлено, что рост углеродных плёнок на поверхности облучаемых мишеней из SiO$_{2}$ наблюдается в интервале энергий ионов 2,5—3,75 кэВ. При этом скорость осаждения углерода лимитируется процессом эрозии поверхности роста, интенсивность которого зависит от энергии ионов. При энергии ионов выше верхних значений указанных интервалов плёнка на поверхности не формируется, и наблюдается эрозия материала мишени. Показана возможность удаления аморфного оксида с поверхности кремниевой подложки и формирование на ней эпитаксиального карбида кремния."
+	},
+	"keywords": {
+		"ua": "структура плівок, розпорошення поверхні, енергія йонів, кварц, фулерен",
+		"en": "structure of films, sputtering of surface, energy of ion, quartz, fullerene",
+		"ru": "структура плёнок, распыление поверхности, энергия ионов, кварц, фуллерен"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. В. Малєєв", "en": "M. V. Maleyev", "ru": "М. В. Малеев"},
+			"OID": [216]
+		},
+		{
+			"AID": {"ua": "Є. М. Зубарєв", "en": "E. M. Zubarev", "ru": "Е. Н. Зубарев"},
+			"OID": [216]
+		},
+		{
+			"AID": {"ua": "В. Є. Пуха", "en": "V. E. Pukha", "ru": "В. Е. Пуха"},
+			"OID": [216]
+		},
+		{
+			"AID": {"ua": "А. М. Дроздов", "en": "A. M. Drozdov", "ru": "А. Н. Дроздов"},
+			"OID": [216]
+		},
+		{
+			"AID": {"ua": "О. С. Вус", "en": "O. S. Vus", "ru": "А. С. Вус"},
+			"OID": [216]
+		}
+	],
+	"references": {
+		"count": 27,
+		"list":  [
+			{
+				"doi": "10.1002/sia.4913",
+				"or":  "N. Winograd, Surf. Interface Anal., 45, No. 1: 3 (2013).",
+				"tr":  "N. Winograd, Surf. Interface Anal., 45, No. 1: 3 (2013)."
+			},
+			{
+				"doi": "10.1021/ac053355f",
+				"or":  "N. Winograd, Anal. Chem., 77, No. 7: 142 (2005).",
+				"tr":  "N. Winograd, Anal. Chem., 77, No. 7: 142 (2005)."
+			},
+			{
+				"doi": "10.1007/s13361-014-0978-9",
+				"or":  "E. J. Lanni, S. J. Dunham, P. Nemes, S. S. Rubakhin, and J. V. Sweedler, J. Am. Soc. Mass Spectrom., 25, No. 11: 1897 (2014).",
+				"tr":  "E. J. Lanni, S. J. Dunham, P. Nemes, S. S. Rubakhin, and J. V. Sweedler, J. Am. Soc. Mass Spectrom., 25, No. 11: 1897 (2014)."
+			},
+			{
+				"doi": "10.1002/sia.5056",
+				"or":  "D. Kobayashi, Y. Yamamoto, and T. Isemura, Surf. Interface Anal., 45, No. 1: 113 (2013).",
+				"tr":  "D. Kobayashi, Y. Yamamoto, and T. Isemura, Surf. Interface Anal., 45, No. 1: 113 (2013)."
+			},
+			{
+				"doi": "10.1021/ac701899a",
+				"or":  "Y. Y. Chen, B.Y. Yu, W. B. Wang, M. F. Hsu, W. C. Lin, Y. C. Lin, J. H. Jou, and J. J. Shyue, Anal. Chem., 80, No. 2: 501 (2008).",
+				"tr":  "Y. Y. Chen, B.Y. Yu, W. B. Wang, M. F. Hsu, W. C. Lin, Y. C. Lin, J. H. Jou, and J. J. Shyue, Anal. Chem., 80, No. 2: 501 (2008)."
+			},
+			{
+				"doi": "10.1002/sia.1680",
+				"or":  "N. Sanada, A. Yamamoto, R. Oiwa, and Y. Ohashi, Surf. Interface Anal., 36, No. 3: 280 (2004).",
+				"tr":  "N. Sanada, A. Yamamoto, R. Oiwa, and Y. Ohashi, Surf. Interface Anal., 36, No. 3: 280 (2004)."
+			},
+			{
+				"doi": "10.1088/0022-3727/45/33/335302",
+				"or":  "V. E. Pukha, E. N. Zubarev, A. N. Drozdov, A. T. Pugachov, S. H. Jeong, and S. C. Nam, J. Phys. D: Appl. Phys., 45, No. 33: 335302 (2012).",
+				"tr":  "V. E. Pukha, E. N. Zubarev, A. N. Drozdov, A. T. Pugachov, S. H. Jeong, and S. C. Nam, J. Phys. D: Appl. Phys., 45, No. 33: 335302 (2012)."
+			},
+			{
+				"doi": "10.1166/jnn.2012.4925",
+				"or":  "V. E. Pukha, A. T. Pugachov, N. P. Churakova, E. N. Zubarev, V. E. Vinogradov, and S. C. Nam, J. Nanosci. Nanotechnol., 12, No. 6: 4762 (2012).",
+				"tr":  "V. E. Pukha, A. T. Pugachov, N. P. Churakova, E. N. Zubarev, V. E. Vinogradov, and S. C. Nam, J. Nanosci. Nanotechnol., 12, No. 6: 4762 (2012)."
+			},
+			{
+				"doi": "10.1016/j.triboint.2012.11.011",
+				"or":  "O. V. Penkov, V. E. Pukha, E. N. Zubarev, S. S. Yoo, and D. E. Kim, Tribology International, 60: 127 (2013).",
+				"tr":  "O. V. Penkov, V. E. Pukha, E. N. Zubarev, S. S. Yoo, and D. E. Kim, Tribology International, 60: 127 (2013)."
+			},
+			{
+				"doi": "10.1021/jp808095m",
+				"or":  "K. D. Krantzman and B. J. Garrison, J. Phys. Chem. C, 113, No. 8: 3239 (2009).",
+				"tr":  "K. D. Krantzman and B. J. Garrison, J. Phys. Chem. C, 113, No. 8: 3239 (2009)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2006.02.234",
+				"or":  "G. Gillen, J. Batteas, C. A. Michaels, P. Chi, J. Small, E. Windsor, A. Fahey, J. Verkouteren, and K. J. Kim, Appl. Surf. Sci., 252, No. 19: 6521 (2006).",
+				"tr":  "G. Gillen, J. Batteas, C. A. Michaels, P. Chi, J. Small, E. Windsor, A. Fahey, J. Verkouteren, and K. J. Kim, Appl. Surf. Sci., 252, No. 19: 6521 (2006)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2008.05.259",
+				"or":  "J. Kozole and N. Winograd, Appl. Surf. Sci., 255, No. 8: 886 (2008).",
+				"tr":  "J. Kozole and N. Winograd, Appl. Surf. Sci., 255, No. 8: 886 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "K. D. Krantzman, D. B. Kingsbury, and B. J. Garrison, Nucl. Instrum. Methods Phys. Res., Sect. B, 255, No. 1: 238 (2007).",
+				"tr":  "K. D. Krantzman, D. B. Kingsbury, and B. J. Garrison, Nucl. Instrum. Methods Phys. Res., Sect. B, 255, No. 1: 238 (2007)."
+			},
+			{
+				"doi": "10.1016/j.carbon.2014.08.093",
+				"or":  "M. Khadem, O. V. Penkov, V. E. Pukha, M. V. Maleyev, and D. E. Kim, Carbon, 80: 534 (2014).",
+				"tr":  "M. Khadem, O. V. Penkov, V. E. Pukha, M. V. Maleyev, and D. E. Kim, Carbon, 80: 534 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "N. I. Ionov, Zh. Tekh. Fiz., 34: 769 (1964); idem, Soviet Physics–Technical Physics, 9: 591 (1964).",
+				"tr":  "N. I. Ionov, Zh. Tekh. Fiz., 34: 769 (1964); idem, Soviet Physics–Technical Physics, 9: 591 (1964)."
+			},
+			{
+				"doi": "10.1063/1.168689",
+				"or":  "D. L. Windt, Comp. Phys., 12, No. 4: 360 (1998).",
+				"tr":  "D. L. Windt, Comp. Phys., 12, No. 4: 360 (1998)."
+			},
+			{
+				"doi": "10.1063/1.368098",
+				"or":  "D. G. Stearns, D. P. Gaines, D.-W. Sweeney, and E. M. Gullikson, J. Appl. Phys., 84, No. 2: 1003 (1998).",
+				"tr":  "D. G. Stearns, D. P. Gaines, D.-W. Sweeney, and E. M. Gullikson, J. Appl. Phys., 84, No. 2: 1003 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "M. V. Maleyev, E. N. Zubarev, V. E. Pukha, A. N. Drozdov, A. S. Vus, and A. Yu. Devizenko, Fizicheskaya Inzheneriya Poverkhnosti, 13, No. 1: 91 (2015) (in Russian).",
+				"tr":  "M. V. Maleyev, E. N. Zubarev, V. E. Pukha, A. N. Drozdov, A. S. Vus, and A. Yu. Devizenko, Fizicheskaya Inzheneriya Poverkhnosti, 13, No. 1: 91 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Raspylenie Tvyordykh Tel Ionnoy Bombardirovkoy. Fizicheskoe Raspylenie Odnoelementnykh Tvyordykh Tel (Ed. R. Berish) (Moscow: Mir: 1984), Iss. 1 (Russian translation).",
+				"tr":  "Raspylenie Tvyordykh Tel Ionnoy Bombardirovkoy. Fizicheskoe Raspylenie Odnoelementnykh Tvyordykh Tel (Ed. R. Berish) (Moscow: Mir: 1984), Iss. 1 (Russian translation)."
+			},
+			{
+				"doi": "10.1016/j.jasms.2005.06.009",
+				"or":  "S. Sun, C. Szakal, N. Winograd, and A. Wucher, J. Am. Soc. Mass Spectrom., 16, No. 10: 1677 (2005).",
+				"tr":  "S. Sun, C. Szakal, N. Winograd, and A. Wucher, J. Am. Soc. Mass Spectrom., 16, No. 10: 1677 (2005)."
+			},
+			{
+				"doi": "10.1021/jp049936a",
+				"or":  "Z. Postawa, B. Czerwinski, M. Szewczyk, E. J. Smiley, N. Winograd, and B. J. Garrison, J. Phys. Chem. B, 108, No. 23: 7831 (2004).",
+				"tr":  "Z. Postawa, B. Czerwinski, M. Szewczyk, E. J. Smiley, N. Winograd, and B. J. Garrison, J. Phys. Chem. B, 108, No. 23: 7831 (2004)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2012.06.003",
+				"or":  "P. Sigmund, Thin Solid Films, 520, No. 19: 6031 (2012).",
+				"tr":  "P. Sigmund, Thin Solid Films, 520, No. 19: 6031 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "Tekhnologiya Tonkikh Plyonok: Spravochnik [Handbook of Thin Film Technology] (Eds. L. I. Maissel and R. Glang) (Moscow: Sovetskoe Radio: 1977), vol. 1 (Russian translation).",
+				"tr":  "Tekhnologiya Tonkikh Plyonok: Spravochnik [Handbook of Thin Film Technology] (Eds. L. I. Maissel and R. Glang) (Moscow: Sovetskoe Radio: 1977), vol. 1 (Russian translation)."
+			},
+			{
+				"doi": "10.1021/jp4108624",
+				"or":  "K. D. Krantzman, C. A. Briner, and B. J. Garrison, J. Phys. Chem. A, 118, No. 31: 8081 (2014).",
+				"tr":  "K. D. Krantzman, C. A. Briner, and B. J. Garrison, J. Phys. Chem. A, 118, No. 31: 8081 (2014)."
+			},
+			{
+				"doi": "10.1166/jnn.2007.458",
+				"or":  "V. E. Pukha, A. N. Stetsenko, S. N. Dub, and J. K. Lee, J. Nanosci. Nanotechnol., 7, Nos. 4—5: 1370 (2007).",
+				"tr":  "V. E. Pukha, A. N. Stetsenko, S. N. Dub, and J. K. Lee, J. Nanosci. Nanotechnol., 7, Nos. 4—5: 1370 (2007)."
+			},
+			{
+				"doi": "10.1021/ja307804v",
+				"or":  "R. Verucchi, L. Aversa, M. V. Nardi, S. Taioli, S. Beccara, D. Alfè, L. Nasi, F. Rossi, G., Salviati, and S. Iannotta, J. Am. Chem. Soc., 134, No. 42: 17400 (2012).",
+				"tr":  "R. Verucchi, L. Aversa, M. V. Nardi, S. Taioli, S. Beccara, D. Alfè, L. Nasi, F. Rossi, G., Salviati, and S. Iannotta, J. Am. Chem. Soc., 134, No. 42: 17400 (2012)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2008.04.059",
+				"or":  "M. Zhong, C. Zhang, and J. Luo, Appl. Surf. Sci., 254, No. 21: 6742 (2008).",
+				"tr":  "M. Zhong, C. Zhang, and J. Luo, Appl. Surf. Sci., 254, No. 21: 6742 (2008)."
+			}
+		]
+	}
+}

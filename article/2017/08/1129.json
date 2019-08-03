@@ -1,0 +1,178 @@
+{
+	"_id":    "MFiNT.39.08.1129",
+	"year":   2017,
+	"volume": 39,
+	"issue":  8,
+	"pages":  [1129,1148],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["14.11.2016","13.08.2017"],
+	"PACS":   "05.65.+b, 62.20.de, 68.35.Dv, 68.35.Gy, 68.35.Md, 68.55.J-, 81.40.Jj",
+	"title":   {
+		"ua": "Деформаційно-індукована міжфазова взаємодія в еластично-пластично деформованих монокристалах Cd$_x$Hg$_{1-x}$Te",
+		"en": "Deformation-Induced Interfacial Interaction in Elastically-Plastically Deformed Single Crystals of Cd$_x$Hg$_{1-x}$Te",
+		"ru": "Деформационно-индуцированное межфазное взаимодействие в эластично-пластически деформированных монокристаллах Cd$_x$Hg$_{1-x}$Te"
+	},
+	"abstract": {
+		"ua": "У праці з’ясовано закономірності формування деформаційно-індукованої міжфазової взаємодії в одновісно навантажених кристалах і внесок цього механізму у формування напружено-пластичного стану. Встановлено, що одновісно деформований кристал є складною структурою, яка включає наступні міжфазово взаємодійні елементи: 1) «debris»-шар, сформований на попередній псевдопружній стадії деформації у приповерхневих областях кристалу, та об’єм кристалу; 2) локально фраґментовані комірки у межах об’єму кристалу, дезорієнтовані одна відносно одної на певні кути та з різними модулями Юнґа $Е_1$,…, $Е_n$. Поведінка діяграми навантаження визначається міжфазовою взаємодією двох типів: між «debris»-шаром, який має найвищий модуль Юнґа, та об’ємом деформованого кристалу, а також безпосередньо між локальними комірками фраґментованої структури в об’ємі кристалу. В деформованих кристалах Cd$_x$Hg$_{1-x}$Te виявлено нові типи дисипативних структур. Проведено оцінювання енергетичних параметрів міжфазової взаємодії, зумовленої механічною несумісністю сусідніх областей, та їх кореляції з коефіцієнтом деформаційного зміцнення $\\theta$ на стадії деформаційного зміцнення L$_2$.",
+		"en": "In this paper, features of deformation-induced interfacial interaction in uniaxial loaded crystals and its contribution to the formation of a stressedly plastic state are analysed. As found, the uniaxial deformed crystal is a complex structure including the following interphase-interacting elements: 1) the ‘debris’-layer, which is formed in the previous stage of pseudo-elastic deformation in the crystal surface region, and the bulk of a crystal; 2) the locally fragmented cells within the bulk of a crystal, which are disoriented at certain angles relatively to each other and characterized by different Young’s moduli $Е_1$,…, $Е_n$. The behaviour of loading diagram is determined by interaction of the two types: between the ‘debris’-layer, which has the highest Young’s modulus, and the bulk of deformed crystal as well as directly between the local cells in the bulk of fragmented structure of a crystal. In deformed Cdx$_x$Hg$_{1-x}$Te crystals, new types of dissipative structures are revealed. The energy parameters of interfacial interactions caused by mechanical incompatibility of adjoining regions and their correlation with the rate of strain hardening $\\theta$ at its stage L$_2$ are estimated.",
+		"ru": "В работе установлены закономерности формирования деформационно-индуцированного взаимодействия в одноосно нагружённых кристаллах и вклад этого механизма в формирование напряжённо-пластического состояния. Установлено, что одноосно деформируемый кристалл является сложной структурой, включающей следующие межфазно взаимодействующие элементы: 1) «debris»-слой, сформированный на предыдущей псевдоупругой стадии деформирования в приповерхностных областях кристалла, и объём кристалла; 2) локально фрагментированные ячейки в пределах объёма кристалла, разориентированные одна относительно другой на определённые углы и обладающие различными модулями Юнга $Е_1$,…, $Е_n$. Поведение диаграммы нагружения определяется межфазным взаимодействием двух типов: между «debris»-слоем, обладающим наивысшим модулем Юнга, и объёмом деформированного кристалла, а также непосредственно между локальными ячейками фрагментированной структуры в объёме кристалла. В деформированных кристаллах Cd$_x$Hg$_{1-x}$Te обнаружены новые типы диссипативных структур. Проведена оценка энергетических параметров межфазного взаимодействия, обусловленного механической несовместимостью соседних областей, и их корреляции с коэффициентом деформационного упрочнения $\\theta$ на стадии деформационного упрочнения L$_2$."
+	},
+	"keywords": {
+		"ua": "міжфазова взаємодія, деформація, деформаційні фраґменти, модуль Юнґа, дисипація",
+		"en": "interfacial interaction, deformation, deformation fragments, Young’s modulus, dissipation",
+		"ru": "межфазное взаимодействие, деформация, деформационные фрагменты, модуль Юнга, диссипация"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Б. П. Коман", "en": "B. P. Koman", "ru": "Б. П. Коман"},
+			"OID": [203]
+		}
+	],
+	"references": {
+		"count": 28,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "V. P. Alekhin, Physics of Strength and Plasticity of Surface Layer Materials (Moscow: Nauka: 1983 ) (inRussian).",
+				"tr":  "V. P. Alekhin, Physics of Strength and Plasticity of Surface Layer Materials (Moscow: Nauka: 1983 ) (inRussian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. E. Panin, Yu. Grinyaev, and V. I. Danilov, Structural Levels of Plasticity Deformation and Fracture (Novosibirsk: Nauka: 1990) (in Russian).",
+				"tr":  "V. E. Panin, Yu. Grinyaev, and V. I. Danilov, Structural Levels of Plasticity Deformation and Fracture (Novosibirsk: Nauka: 1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. E. Egorushkin, V. E. Panin, and A. V. Panin, Physical Mesomechanics, 17, No. 2: 19 (2014) (in Russian).",
+				"tr":  "V. E. Egorushkin, V. E. Panin, and A. V. Panin, Physical Mesomechanics, 17, No. 2: 19 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0167-8442(99)00048-8",
+				"or":  "P. V. Makarov, Theor. Appl. Fracture Mech., 33, No. 1: 23 (2000).",
+				"tr":  "P. V. Makarov, Theor. Appl. Fracture Mech., 33, No. 1: 23 (2000)."
+			},
+			{
+				"doi": "10.1016/S0921-4526(01)00628-7",
+				"or":  "L. L. Meisner, V. P. Sivokha, A. I. Lotkov, and L. A. Derevyagina, Physica B, 1–4, No. 307: 251 (2001).",
+				"tr":  "L. L. Meisner, V. P. Sivokha, A. I. Lotkov, and L. A. Derevyagina, Physica B, 1–4, No. 307: 251 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "Physical Mesomechanics of Heterogeneous Media and Computer-Aided Design of Materials (Ed. V. E. Panin) (Cambridge: Cambridge Interscience Publishing: 1998).",
+				"tr":  "Physical Mesomechanics of Heterogeneous Media and Computer-Aided Design of Materials (Ed. V. E. Panin) (Cambridge: Cambridge Interscience Publishing: 1998)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Neverov and P. P. Zhitnikov, Phys. Met. Metallogr., 43, No. 1: 143 (1990) (in Russian).",
+				"tr":  "V. V. Neverov and P. P. Zhitnikov, Phys. Met. Metallogr., 43, No. 1: 143 (1990) (in Russian)."
+			},
+			{
+				"doi": "10.3221%2FIGF-ESIS.27.10",
+				"or":  "T. V. Tretyakova and V. E. Widemann, Fract. Struct. Integr., 27: 83 (2014).",
+				"tr":  "T. V. Tretyakova and V. E. Widemann, Fract. Struct. Integr., 27: 83 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "N. A. Koneva, D. V. Lychanin, and S. P. Zhukovsky, Phys. Met. Metallogr., 60, No. 1:171 (1985) (in Russian).",
+				"tr":  "N. A. Koneva, D. V. Lychanin, and S. P. Zhukovsky, Phys. Met. Metallogr., 60, No. 1:171 (1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Nikolis and I. Prigogine, Self-Organization in Non-Equilibrium Systems (Moscow: Mir: 1979) (Russian translation).",
+				"tr":  "G. Nikolis and I. Prigogine, Self-Organization in Non-Equilibrium Systems (Moscow: Mir: 1979) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "B. P. Koman, Physics and Chemistry of Solid State, 12: 1018 (2011) (in Ukrainian).",
+				"tr":  "B. P. Koman, Physics and Chemistry of Solid State, 12: 1018 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Trefilov and Yu. V. Milman, Dokl. AN SSSR, 153, No. 4: 824 (1963) (in Russian).",
+				"tr":  "V. I. Trefilov and Yu. V. Milman, Dokl. AN SSSR, 153, No. 4: 824 (1963) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Trefilov and Yu. V. Milman, Problems of the Physics of Metals and Metal. Coll.: Scientific Works of the Institute for Metal Physics, Academy of Sciences of the Ukrainian S.S.R.), 17: 32 (1963) (in Russian).",
+				"tr":  "V. I. Trefilov and Yu. V. Milman, Problems of the Physics of Metals and Metal. Coll.: Scientific Works of the Institute for Metal Physics, Academy of Sciences of the Ukrainian S.S.R.), 17: 32 (1963) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Ivens and R. Rowling, Thermally Activated Processes in Crystals (Moscow: Mir: 1973), p. 172 (Russian translation).",
+				"tr":  "A. Ivens and R. Rowling, Thermally Activated Processes in Crystals (Moscow: Mir: 1973), p. 172 (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "F. R. N. Nabarro, Z. S. Basinski, and D. Holt, Plasticity of Pure Single Crystals (Moscow: Metallurgy: 1967) (Russian translation).",
+				"tr":  "F. R. N. Nabarro, Z. S. Basinski, and D. Holt, Plasticity of Pure Single Crystals (Moscow: Metallurgy: 1967) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "B. I. Smirnov, Dislocation Structure and Hardening of Crystals (Moscow: Nauka: 1981) (in Russian).",
+				"tr":  "B. I. Smirnov, Dislocation Structure and Hardening of Crystals (Moscow: Nauka: 1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "U. F. Koks, A. S. Argon, and M. F. Ashby, Thermodynamics and Kinetics of Slip (New York: Pergamon Press: 1975).",
+				"tr":  "U. F. Koks, A. S. Argon, and M. F. Ashby, Thermodynamics and Kinetics of Slip (New York: Pergamon Press: 1975)."
+			},
+			{
+				"doi": "",
+				"or":  "S. J. Basinski and Z. S. Basinski, Dislocation in Solids (Amsterdam: North-Holland: 1979), vol. 4.",
+				"tr":  "S. J. Basinski and Z. S. Basinski, Dislocation in Solids (Amsterdam: North-Holland: 1979), vol. 4."
+			},
+			{
+				"doi": "",
+				"or":  "G. A. Maligin, Phys. Solid State, 35, No. 6: 1609 (1993).",
+				"tr":  "G. A. Maligin, Phys. Solid State, 35, No. 6: 1609 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "I. V. Kurilo and I. S. Osypyshyn, Vistn. Lviv Polytechn. Institute Electron. Technics and Appliances, 32: 89 (1979) (in Ukrainian).",
+				"tr":  "I. V. Kurilo and I. S. Osypyshyn, Vistn. Lviv Polytechn. Institute Electron. Technics and Appliances, 32: 89 (1979) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. A. Volosyuk, Relaxation of Mechanical Stresses in Crystalline Solids with F.C.C. Lattice (Cu, NaCl, KCl) Near Stress Concentrators (Thesis of Disser. for Cand. Phys.-Math. Sci.) (Kharkiv: 2014) (in Ukrainian).",
+				"tr":  "M. A. Volosyuk, Relaxation of Mechanical Stresses in Crystalline Solids with F.C.C. Lattice (Cu, NaCl, KCl) Near Stress Concentrators (Thesis of Disser. for Cand. Phys.-Math. Sci.) (Kharkiv: 2014) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. F. Sarafanov, Fundamentals of the Kinetic Theory of the Formation of Structures Disoriented During Plastic Deformation of Metals (Nizhniy Novgorod: N-NSU: 2011) (in Russian).",
+				"tr":  "G. F. Sarafanov, Fundamentals of the Kinetic Theory of the Formation of Structures Disoriented During Plastic Deformation of Metals (Nizhniy Novgorod: N-NSU: 2011) (in Russian)."
+			},
+			{
+				"doi": "10.1134/S106378421106003X",
+				"or":  "I. A. Ditenberg, A. N. Tyummentsev, K. V. Grynyaev, V. M. Chernov, M. M. Khotapenko, and A. V. Korznikov, Technical Physics, 56, No. 6: 815 (2011) (in Russian).",
+				"tr":  "I. A. Ditenberg, A. N. Tyummentsev, K. V. Grynyaev, V. M. Chernov, M. M. Khotapenko, and A. V. Korznikov, Technical Physics, 56, No. 6: 815 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Myssol and W. Missol, Surface Energy of the Phase Separation in Metals (Moscow: Metallurgy: 1978) (in Russian).",
+				"tr":  "V. Myssol and W. Missol, Surface Energy of the Phase Separation in Metals (Moscow: Metallurgy: 1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "P. M. Soprunjuk and V. M. Yuzevych, Diagnostics of Materials and Environments. Energetic Characteristics of Surface Layers (Lviv: Spolom: 2005) (in Ukrainian).",
+				"tr":  "P. M. Soprunjuk and V. M. Yuzevych, Diagnostics of Materials and Environments. Energetic Characteristics of Surface Layers (Lviv: Spolom: 2005) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "B. P. Koman and V. M. Yuzevych, Fizika Tverdogo Tela, 54, No. 7: 1335 (2012).",
+				"tr":  "B. P. Koman and V. M. Yuzevych, Fizika Tverdogo Tela, 54, No. 7: 1335 (2012)."
+			},
+			{
+				"doi": "10.15407/mfint.36.08.1113",
+				"or":  "B. P. Koman and V. M. Yuzevych, Metallofiz. Noveishie Tekhnol., 36, No. 8: 1113 (2014) (in Ukrainian).",
+				"tr":  "B. P. Koman and V. M. Yuzevych, Metallofiz. Noveishie Tekhnol., 36, No. 8: 1113 (2014) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. M. Yuzevych and B. P. Koman, Metallofiz. Noveishie Tekhnol., 25, No. 6: 747 (2003) (in Ukrainian).",
+				"tr":  "V. M. Yuzevych and B. P. Koman, Metallofiz. Noveishie Tekhnol., 25, No. 6: 747 (2003) (in Ukrainian)."
+			}
+		]
+	}
+}

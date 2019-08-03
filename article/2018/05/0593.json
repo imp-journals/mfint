@@ -1,0 +1,137 @@
+{
+	"_id":    "MFiNT.40.05.0593",
+	"year":   2018,
+	"volume": 40,
+	"issue":  5,
+	"pages":  [593,599],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["22.02.2018"],
+	"PACS":   "74.20.Mn, 74.20.Pq, 74.25.Jb, 74.70.Xa, 74.78.-w, 75.25.Dk, 81.05.Zx",
+	"title":   {
+		"ua": "Пригнічення перескоку електронів по найближчих сусідах у надпровідниках на основі FeSe",
+		"en": "Suppression of Nearest Neighbour Electron Hopping in FeSe-Based Superconductors",
+		"ru": "Подавление перескоков электронов по ближайшим соседям в сверхпроводниках на основе FeSe"
+	},
+	"abstract": {
+		"ua": "У статті оцінено параметри моделю перескоків для апроксимації $d_{xy}$- та $d_{xz}$-зон у $\\Gamma$–M-перерізі для різних надпровідників на основі FeSe. Порівняння значень цих параметрів для експериментально одержаних і розрахованих методою ТФГ електронних дисперсій показує зменшення ймовірности перескоку між найближчими сусідами. Такі зміни можуть бути пояснені появою певного виду впорядкування.",
+		"en": "In this paper, we evaluate the fitting parameters for the hopping model for the $d_{xy}$ and $d_{xz}$ bands within the $\\Gamma$–M cut for different FeSe-based superconductors. Comparison of these parameters for DFT calculations and for experimentally obtained data reveals a dramatic change of hopping probability between the nearest neighbours. This change is much bigger than the expected band renormalization and can be explained by the appearance of an antiferromagnetic-like ordering.",
+		"ru": "В статье оценены параметры модели перескоков для аппроксимации $d_{xy}$- и $d_{xz}$-зон в $\\Gamma$–M-сечении для разных сверхпроводников на основе FeSe. Сравнение значений параметров для экспериментально полученных электронных дисперсий и рассчитанных с помощью метода ТФП показало снижение вероятности перескоков между ближайшими соседями. Такие изменения можно объяснить возникновением некоторого упорядочения."
+	},
+	"keywords": {
+		"ua": "FeSe, електронна структура, залізні надпровідники, інтеркальовані системи, плівки FeSe",
+		"en": "FeSe, electronic structure, iron-based superconductors, intercalated systems, FeSe films",
+		"ru": "FeSe, электронная структура, железные сверхпроводники, интеркалированные системы, плёнки FeSe"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. В. Пустовіт", "en": "Yu. V. Pustovit", "ru": "Ю. В. Пустовит"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. А. Кордюк", "en": "O. A. Kordyuk", "ru": "А. А. Кордюк"},
+			"OID": [1, 40]
+		}
+	],
+	"references": {
+		"count": 19,
+		"list":  [
+			{
+				"doi": "10.1070/PU2008v051n12ABEH006820",
+				"or":  "M. V. Sadovskii, Phys. Uspekhi, 51: 1201 (2008).",
+				"tr":  "M. V. Sadovskii, Phys. Uspekhi, 51: 1201 (2008)."
+			},
+			{
+				"doi": "10.1070/PU2008v051n12ABEH006703",
+				"or":  "A. L. Ivanovskii, Phys. Uspekhi, 51: 1229 (2008).",
+				"tr":  "A. L. Ivanovskii, Phys. Uspekhi, 51: 1229 (2008)."
+			},
+			{
+				"doi": "10.1063/1.4752092",
+				"or":  "A. A. Kordyuk, Low Temp. Phys., 38: 888 (2012).",
+				"tr":  "A. A. Kordyuk, Low Temp. Phys., 38: 888 (2012)."
+			},
+			{
+				"doi": "10.1063/1.4969896",
+				"or":  "Yu. V. Pustovit and A. A. Kordyuk, Low Temp. Phys., 42: 995 (2016).",
+				"tr":  "Yu. V. Pustovit and A. A. Kordyuk, Low Temp. Phys., 42: 995 (2016)."
+			},
+			{
+				"doi": "10.15407/ufm.18.01.001",
+				"or":  "Yu. V. Pustovit and O. A. Kordyuk, Usp. Fiz. Met., 18, No. 1: 1 (2017) (in Ukrainian).",
+				"tr":  "Yu. V. Pustovit and O. A. Kordyuk, Usp. Fiz. Met., 18, No. 1: 1 (2017) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.85.094505",
+				"or":  "J. Ferber, K. Foyevtsova, R. Valentí, and H. O. Jeschke, Phys.Rev. B, 85, Iss. 9: 094505 (2012).",
+				"tr":  "J. Ferber, K. Foyevtsova, R. Valentí, and H. O. Jeschke, Phys.Rev. B, 85, Iss. 9: 094505 (2012)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.82.064504",
+				"or":  "M. Aichhorn, S. Biermann, T. Miyake, A. Georges, and M.Imada, Phys. Rev. B, 82, Iss. 6: 064504 (2010).",
+				"tr":  "M. Aichhorn, S. Biermann, T. Miyake, A. Georges, and M.Imada, Phys. Rev. B, 82, Iss. 6: 064504 (2010)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.89.220506",
+				"or":  "J. Maletz, V. B. Zabolotnyy, D. V. Evtushinsky, S. Thirupathaiah, A. U. B. Wolter, L. Harnagea, A. N. Yaresko, A. N. Vasiliev, D. A. Chareev, A. E. Böhmer, F. Hardy, T. Wolf, C. Meingast, E. D. L. Rienks, B. Büchner, and S. V. Borisenko, Phys. Rev. B, 89: 220506(R) (2014).",
+				"tr":  "J. Maletz, V. B. Zabolotnyy, D. V. Evtushinsky, S. Thirupathaiah, A. U. B. Wolter, L. Harnagea, A. N. Yaresko, A. N. Vasiliev, D. A. Chareev, A. E. Böhmer, F. Hardy, T. Wolf, C. Meingast, E. D. L. Rienks, B. Büchner, and S. V. Borisenko, Phys. Rev. B, 89: 220506(R) (2014)."
+			},
+			{
+				"doi": "10.1038/srep36834",
+				"or":  "A. Fedorov, A. Yaresko, T. K. Kim, Y. Kushnirenko, E. Haubold, T. Wolf, M. Hoesch, A. Grüneis, B. Büchner, and S. V. Borisenko, Sci. Rep., 6: 36834 (2016).",
+				"tr":  "A. Fedorov, A. Yaresko, T. K. Kim, Y. Kushnirenko, E. Haubold, T. Wolf, M. Hoesch, A. Grüneis, B. Büchner, and S. V. Borisenko, Sci. Rep., 6: 36834 (2016)."
+			},
+			{
+				"doi": "10.1007/s10948-013-2210-8",
+				"or":  "A. A. Kordyuk, V. B. Zabolotnyy, D. V. Evtushinsky, A. N. Yaresko, B. Büechner, and S. V. Borisenko, J. Supercond. Nov. Magn., 26: 2837 (2013).",
+				"tr":  "A. A. Kordyuk, V. B. Zabolotnyy, D. V. Evtushinsky, A. N. Yaresko, B. Büechner, and S. V. Borisenko, J. Supercond. Nov. Magn., 26: 2837 (2013)."
+			},
+			{
+				"doi": "10.1103/PhysRevX.6.041045",
+				"or":  "A. V. Chubukov, M. Khodas, and R. M. Fernandes, Phys. Rev. X, 6, Iss. 4: 041045 (2016).",
+				"tr":  "A. V. Chubukov, M. Khodas, and R. M. Fernandes, Phys. Rev. X, 6, Iss. 4: 041045 (2016)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.94.155138",
+				"or":  "L. Fanfarillo, J. Mansart, P. Toulemonde, H. Cercellier, P. Le Fèvre, F. Bertran, B. Valenzuela, L. Benfatto, and V. Brouet, Phys. Rev. B, 94, Iss. 15: 155138 (2016).",
+				"tr":  "L. Fanfarillo, J. Mansart, P. Toulemonde, H. Cercellier, P. Le Fèvre, F. Bertran, B. Valenzuela, L. Benfatto, and V. Brouet, Phys. Rev. B, 94, Iss. 15: 155138 (2016)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.103.046404",
+				"or":  "L. Ortenzi, E. Cappelluti, L. Benfatto, and L. Pietronero, Phys. Rev. Lett., 103, Iss. 4: 046404 (2009).",
+				"tr":  "L. Ortenzi, E. Cappelluti, L. Benfatto, and L. Pietronero, Phys. Rev. Lett., 103, Iss. 4: 046404 (2009)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.83.104516",
+				"or":  "L. Benfatto and E. Cappelluti , Phys. Rev. B, 83, Iss. 10: 104516 (2011).",
+				"tr":  "L. Benfatto and E. Cappelluti, Phys. Rev. B, 83, Iss. 10: 104516 (2011)."
+			},
+			{
+				"doi": "10.1016/0022-3697(95)00269-3",
+				"or":  "O. K. Andersen, A. I. Liechtenstein, O. Jepsen, and F. Paulsen, J. Phys. Chem. Solids, 56, Iss. 12: 1573 (1995).",
+				"tr":  "O. K. Andersen, A. I. Liechtenstein, O. Jepsen, and F. Paulsen, J. Phys. Chem. Solids, 56, Iss. 12: 1573 (1995)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.67.064504",
+				"or":  "A. A. Kordyuk, S. V. Borisenko, M. Knupfer, and J. Fink, Phys.Rev. B, 67, Iss. 6: 064504 (2003).",
+				"tr":  "A. A. Kordyuk, S. V. Borisenko, M. Knupfer, and J. Fink, Phys.Rev. B, 67, Iss. 6: 064504 (2003)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.81.014526",
+				"or":  "F. Chen, B. Zhou, Y. Zhang, J. Wei, H.-W. Ou, J.-F. Zhao, C. He, Q.-Q. Ge, M. Arita, K. Shimada, H. Namatame, M. Taniguchi, Z.-Y. Lu, J. Hu, X.-Y. Cui, and D. L. Feng, Phys. Rev. B, 81, Iss. 1: 014526 (2010).",
+				"tr":  "F. Chen, B. Zhou, Y. Zhang, J. Wei, H.-W. Ou, J.-F. Zhao, C. He, Q.-Q. Ge, M. Arita, K. Shimada, H. Namatame, M. Taniguchi, Z.-Y. Lu, J. Hu, X.-Y. Cui, and D. L. Feng, Phys. Rev. B, 81, Iss. 1: 014526 (2010)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.104.097002",
+				"or":  "A. Tamai, A. Y. Ganin, E. Rozbicki, J. Bacsa,W. Meevasana, P. D. C. King, M. Caffio, R. Schaub, S. Margadonna, K. Prassides, M. J. Rosseinsky, and F. Baumberger, Phys. Rev. Lett., 104, Iss. 9: 097002 (2010).",
+				"tr":  "A. Tamai, A. Y. Ganin, E. Rozbicki, J. Bacsa,W. Meevasana, P. D. C. King, M. Caffio, R. Schaub, S. Margadonna, K. Prassides, M. J. Rosseinsky, and F. Baumberger, Phys. Rev. Lett., 104, Iss. 9: 097002 (2010)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.103.037002",
+				"or":  "Y. Xia, D. Qian, L. Wray, D. Hsieh, G. F. Chen, J. L. Luo, N. L. Wang, and M. Z. Hasan, Phys. Rev. Lett., 103, Iss. 3: 037002 (2009).",
+				"tr":  "Y. Xia, D. Qian, L. Wray, D. Hsieh, G. F. Chen, J. L. Luo, N. L. Wang, and M. Z. Hasan, Phys. Rev. Lett., 103, Iss. 3: 037002 (2009)."
+			}
+		]
+	}
+}

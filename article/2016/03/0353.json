@@ -1,0 +1,149 @@
+{
+	"_id":    "MFiNT.38.03.0353",
+	"year":   2016,
+	"volume": 38,
+	"issue":  3,
+	"pages":  [353,365],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["29.12.2015","21.01.2016"],
+	"PACS":   " 68.37.Hk, 68.43.Mn, 68.43.Nr, 73.63.Bd, 81.07.Bc, 81.15.Jj, 88.30.rd",
+	"title":   {
+		"ua": "Вплив газових молекул з атмосфери на абсорбцію водню нанокристалічними пористими (V, 10 ат.% Ti)N$_{x}$ плівками",
+		"en": "Influence of Gas Molecules From an Atmosphere on Absorption of Hydrogen by Nanocrystalline Porous (V, 10 at.% Ti)N$_{x}$ Films",
+		"ru": "Влияние газовых молекул из атмосферы на абсорбцию водорода нанокристаллическими пористыми (V, 10 ат.% Ti)N$_{x}$ плёнками"
+	},
+	"abstract": {
+		"ua": "У роботі на прикладі нанокристалічного тонкоплівкового нітриду ванадію (V, 10 ат.% Ti)N$_{x}$ досліджено закономірності впливу газових молекул із залишкової атмосфери усередині вакуумної камери на термодинамічні та гравіметричні характеристики пористих абсорбентів водню. Показано, що відкрита пориста структура нанокристалічних тонких плівок активно абсорбує не тільки молекули водню, але й більш великі молекули. Насичення воднем за 20°C призводить до того, що досить велика доля газових молекул із залишкової атмосфери виявляється заблокованою усередині пор. Внаслідок цього зменшується абсорбційна місткість матеріалу (не більше 3 ваг.%) і збільшується температура десорбції водню (500°C). Високотемпературна активація нанопористої структури та насичення воднем за температури 250°C сприяють зниженню температури десорбції до 275°C і збільшенню гравіметричної місткості до 7 ваг.%.",
+		"en": "The patterns of influence of gas molecules from the residual atmosphere in the vacuum chamber on the thermodynamic and gravimetric characteristics of porous absorbents of hydrogen are investigated by example of vanadium nitride (V, 10 at.% Ti)N$_{x}$ nanocrystalline thin films. As shown, the open pore structure of nanocrystalline thin films actively absorbs not only hydrogen molecules, but also larger molecules. Hydrogen saturation at 20°C leads to the fact that quite large part of the gas molecules from the residual atmosphere is blocked inside the pores. Thereby, the absorption capacity of the material is reduced (no more than 3 wt.%), and the temperature of hydrogen desorption is increased (500°C). High-temperature activation and hydrogen saturation at temperature of 250°C of nanoporous structure facilitate the reducing of desorption temperature to 275°C and the increasing of gravimetric capacitance to 7 wt.%.",
+		"ru": "В работе на примере нанокристаллического тонкоплёночного нитрида ванадия (V, 10 ат.% Ti)N$_{x}$ исследованы закономерности влияния газовых молекул из остаточной атмосферы внутри вакуумной камеры на термодинамические и гравиметрические характеристики пористых абсорбентов водорода. Показано, что открытая пористая структура нанокристаллических тонких плёнок активно абсорбирует не только молекулы водорода, но и более крупные молекулы. Насыщение водородом при 20°C приводит к тому, что достаточно большая доля газовых молекул из остаточной атмосферы оказывается заблокированной внутри пор. Вследствие этого уменьшается абсорбционная ёмкость материала (не более 3 вес.%) и повышается температура десорбции водорода (500°C). Высокотемпературная активация нанопористой структуры и насыщение водородом при температуре 250°C способствуют понижению температуры десорбции до 275°C и увеличению гравиметрической ёмкости до 7 вес.%."
+	},
+	"keywords": {
+		"ua": "нанокристалічна структура, тонкі плівки, йонно-стимульоване осадження, водень, абсорбція, накопичення",
+		"en": "nanocrystalline structures, thin films, ion beam-assisted deposition, hydrogen, absorption, storage",
+		"ru": "нанокристаллическая структура, тонкие плёнки, ионно-стимулированное осаждение, водород, абсорбция, накопление"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. В. Власов", "en": "V. V. Vlasov", "ru": "В. В. Власов"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "О. Г. Гугля", "en": "A. G. Guglya", "ru": "А. Г. Гугля"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "Ю. О. Марченко", "en": "Yu. A. Marchenko", "ru": "Ю. А. Марченко"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "О. С. Солопіхіна", "en": "E. S. Solopikhina", "ru": "Е. С. Солопихина"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "Є. Н. Зубарєв", "en": "E. N. Zubarev", "ru": "Е. Н. Зубарев"},
+			"OID": [216]
+		}
+	],
+	"references": {
+		"count": 19,
+		"list":  [
+			{
+				"doi": "10.1080/10420150.2010.538928",
+				"or":  "V. Bryk, A. Guglya, M. Litvinenko, I. Marchenko, E. Melnikova, I. Sassa, and R. Vasilenko, Radiat. Eff. Defects S, 166, Iss. 4: 282 (2011).",
+				"tr":  "V. Bryk, A. Guglya, M. Litvinenko, I. Marchenko, E. Melnikova, I. Sassa, and R. Vasilenko, Radiat. Eff. Defects S, 166, Iss. 4: 282 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Брык, Р. Василенко, А. Гончаров, Т. Григорова, А. Гугля, В. Колобродов, М. Литвиненко, И. Марченко, Е. Мельникова, И. Сасса, Поверхность. Рентгеновские, синхронные и нейтронные исследования, № 6: 66 (2011).",
+				"tr":  "V. Bryk, R. Vasilenko, A. Goncharov, T. Grigorova, A. Guglya, V. Kolobrodov, M. Guglya, I. Marchenko, E. Melnikova, and I. Sassa, Poverkhnost. Rentgenovskie Sinkhrotronnye i Neytronnye Issledovaniya, No. 6: 66 (2011) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.ijhydene.2012.08.142",
+				"or":  "A. Goncharov, A. Guglya, and E. Melnikova, Int. J. Hydrogen Energy, 37: 18061 (2012).",
+				"tr":  "A. Goncharov, A. Guglya, and E. Melnikova, Int. J. Hydrogen Energy, 37: 18061 (2012)."
+			},
+			{
+				"doi": "10.1116/1.1317802",
+				"or":  "L. Johnson, M. Dresser, and E. Donaldson, J. Vac. Sci. Technol., 9: 857 (1972).",
+				"tr":  "L. Johnson, M. Dresser, and E. Donaldson, J. Vac. Sci. Technol., 9: 857 (1972)."
+			},
+			{
+				"doi": "10.1016/0039-6028(75)90201-0",
+				"or":  "S. Ko and L. Schmidt, Surf. Sci., 47: 557 (1975).",
+				"tr":  "S. Ko and L. Schmidt, Surf. Sci., 47: 557 (1975)."
+			},
+			{
+				"doi": "10.1039/tf9696502758",
+				"or":  "A. Pryde and C. Titcomb, Trans. Faradey Soc., 65: 2758 (1969).",
+				"tr":  "A. Pryde and C. Titcomb, Trans. Faradey Soc., 65: 2758 (1969)."
+			},
+			{
+				"doi": "10.1016/0022-5088(79)90197-8",
+				"or":  "E. Fromm and H. Uchida, J. Less-Common Met., 66: 77 (1979).",
+				"tr":  "E. Fromm and H. Uchida, J. Less-Common Met., 66: 77 (1979)."
+			},
+			{
+				"doi": "10.1016/0022-5088(83)90360-0",
+				"or":  "H. Wenzl, K. Klatt, P. Meuffets, and K. Papathanassopoulos, J. Less-Common Met., 89, Iss. 2: 489 (1983).",
+				"tr":  "H. Wenzl, K. Klatt, P. Meuffets, and K. Papathanassopoulos, J. Less-Common Met., 89, Iss. 2: 489 (1983)."
+			},
+			{
+				"doi": "10.1088/0305-4608/12/7/009",
+				"or":  "K. Papathanassopoulos and H. Wenzl, J. Phys. F. Met. Phys., 12: 1369 (1982).",
+				"tr":  "K. Papathanassopoulos and H. Wenzl, J. Phys. F. Met. Phys., 12: 1369 (1982)."
+			},
+			{
+				"doi": "10.1016/0022-5088(83)90393-4",
+				"or":  "H. Uchida and E. Fromm, J. Less-Common Met., 95: 139 (1983).",
+				"tr":  "H. Uchida and E. Fromm, J. Less-Common Met., 95: 139 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Барабаш и Ю. Н. Коваль, Структура и свойства металлов и сплавов (Киев: Наукова думка: 1986).",
+				"tr":  "O. M. Barabash and Yu. N. Koval, Struktura i Svoystva Metallov i Splavov [Structure and Properties of Metals and Alloys] (Kiev: Naukova Dumka: 1986) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.ijhydene.2010.04.051",
+				"or":  "E. Lee, J. M. Lee, J. H. Koo, W. Lee, and T. Lee, Int. J. Hydrogen Energy, 35: 6984 (2010).",
+				"tr":  "E. Lee, J. M. Lee, J. H. Koo, W. Lee, and T. Lee, Int. J. Hydrogen Energy, 35: 6984 (2010)."
+			},
+			{
+				"doi": "10.1016/0360-3199(95)00075-5",
+				"or":  "M. Singh, Int. J. Hydrogen Energy, 21: 223 (1996).",
+				"tr":  "M. Singh, Int. J. Hydrogen Energy, 21: 223 (1996)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.53.4974",
+				"or":  "G. Reisfeld, N. Jisrawi, M. Ruckman, and M. Strongin, Phys. Rev. B, 53: 4974 (1996).",
+				"tr":  "G. Reisfeld, N. Jisrawi, M. Ruckman, and M. Strongin, Phys. Rev. B, 53: 4974 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Палатник, П. Черемской, М. Фукс, Поры в плёнках (Москва: Энергоиздат: 1982).",
+				"tr":  "L. S. Palatnik, P. G. Cheremskoj, and M. Y. Fuks, Pory v Plenkakh [Pores in Films] (Moscow: Energoizdat: 1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Одолевский, ЖТФ, 21, № 6: 667 (1951).",
+				"tr":  "V. I. Odolevskiy, ZhTF, 21, No. 6: 667 (1951) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.1728531",
+				"or":  "C. A. Neugebauer and M. B. Webb, J. Appl. Phys., 33: 74 (1962).",
+				"tr":  "C. A. Neugebauer and M. B. Webb, J. Appl. Phys., 33: 74 (1962)."
+			},
+			{
+				"doi": "10.1016/j.elecom.2009.08.049",
+				"or":  "A. Gringoz, N. Glandut, and S. Valette, Electrochem. Commun., 11: 2044 (2009).",
+				"tr":  "A. Gringoz, N. Glandut, and S. Valette, Electrochem. Commun., 11: 2044 (2009)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2012.10.067",
+				"or":  "H. Ding, X. Fan, C. Li, X. Liu, D. Jiang, and Ch. Wang, J. Alloys Compd., 551: 67 (2013).",
+				"tr":  "H. Ding, X. Fan, C. Li, X. Liu, D. Jiang, and Ch. Wang, J. Alloys Compd., 551: 67 (2013)."
+			}
+		]
+	}
+}

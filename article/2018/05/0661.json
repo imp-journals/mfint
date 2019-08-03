@@ -1,0 +1,231 @@
+{
+	"_id":    "MFiNT.40.05.0661",
+	"year":   2018,
+	"volume": 40,
+	"issue":  5,
+	"pages":  [661,681],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["12.12.2017"],
+	"PACS":   "61.50.Ks, 61.72.Mm, 64.70.D-, 68.08.De, 68.70.+w, 81.10.Aj, 81.30.Fb",
+	"title":   {
+		"ua": "Нестаціонарний ріст кристалів упродовж напрямленого твердіння для різних кристалографічних орієнтацій",
+		"en": "Non-Steady-State Growth During Directional Solidification of Various Crystallographic Orientations",
+		"ru": "Нестационарный рост кристаллов в течение направленного затвердевания для различных кристаллографических ориентаций"
+	},
+	"abstract": {
+		"ua": "Досліджено структури росту в тонких і масивних зразках різних кристалографічних орієнтацій шляхом прямого спостереження інтерфейсу тверде тіло–рідина у прозорих речовинах і мікроструктурі монокристалів Al–Si. Вивчалась еволюція реґулярних нахилених комірок і розщеплених структур «морські водорості» в тонких зразках для різних орієнтацій і темпів росту. Пряме спостереження об’ємних зразків показало, що витягнуті комірки з’являються лише для орієнтацій <110>, тоді як для орієнтацій <100> спостерігалися лише рівновісні комірки. Цей ефект пов’язаний з одночасним розвитком реґулярної коміркової та нереґулярної «водоростевої» структур у монокристалах з орієнтацією росту, відмінною від <100>. Безперервна еволюція зразка внаслідок ефекту накопичення розчину приводить до нестаціонарного розповсюдження інтерфейсу та перетворення витягнутих комірок у рівновісні.",
+		"en": "The growth pattern in the thin and bulk samples of various crystallographic orientations is studied using direct observation of solid–liquid interface in transparent substances and microstructure of Al–Si single crystals. The evolution of regular tilted cells and split seaweed structures is observed in thin samples for different growth orientations and growth rates. During direct study in bulk samples, elongated cells appeared only for <110> orientations, whereas, for <100> orientations, only equiaxed cells appeared. This effect is associated with simultaneous development of the regular cell and irregular seaweed structures in single crystals with growth orientation different from <100>. Continuous pattern evolution due to the effect of solute accumulation results in non-steady-state interface propagation and transformation of elongated cells eventually into equiaxed ones.",
+		"ru": "Исследованы структуры роста в тонких и массивных образцах разных кристаллографических ориентаций путём прямого наблюдения интерфейса твёрдое тело–жидкость в прозрачных веществах и микроструктуре монокристаллов Al–Si. Изучалась эволюция регулярных наклонных ячеек и расщеплённых структур «морские водоросли» в тонких образцах для разных ориентаций и темпов роста. Прямое изучение объёмных образцов показало, что вытянутые ячейки появлялись только для ориентаций <110>, тогда как для ориентаций <100> наблюдались только равноосные ячейки. Этот эффект связан з одновременным развитием регулярной ячеечной и нерегулярной «водорослевой» структур в монокристаллах с ориентацией роста, отличной от <100>. Непрерывная эволюция образца вследствие эффекта накопления раствора приводит к нестационарному распространению интерфейса и трансформации вытянутых ячеек в равноосные."
+	},
+	"keywords": {
+		"ua": "затвердіння мікроструктури, кристалографічна орієнтація, інтерфейс тверде тіло/рідина, комірка та дендрит, тепло- і масоперенесення",
+		"en": "solidification microstructures, crystallographic orientation, solid/liquid interface, cell and dendrite, heat and mass transfer",
+		"ru": "затвердевание микроструктуры, кристаллографическая ориентация, интерфейс твёрдое тело/жидкость, ячейка и дендрит, тепло- и массоперенос"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. П. Федоров", "en": "O. P. Fedorov", "ru": "О. П. Федоров"},
+			"OID": [19, 1]
+		},
+		{
+			"AID": {"ua": "В. Ф. Демченко", "en": "V. F. Demchenko", "ru": "В. Ф. Демченко"},
+			"OID": [10]
+		},
+		{
+			"AID": {"ua": "Є. Л. Живолуб", "en": "E. L. Zhivolub", "ru": "Е. Л. Живолуб"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 37,
+		"list":  [
+			{
+				"doi": "10.1063/1.1713333",
+				"or":  "W. W. Mullins and R. F. Sekerka, J. Appl. Phys., 35, No. 2: 444 (1964).",
+				"tr":  "W. W. Mullins and R. F. Sekerka, J. Appl. Phys., 35, No. 2: 444 (1964)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.47.4937",
+				"or":  "J. T. C. Lee and R. A. Brown, Phys. Rev. B, 47, No. 9: 4937 (1993).",
+				"tr":  "J. T. C. Lee and R. A. Brown, Phys. Rev. B, 47, No. 9: 4937 (1993)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.63.573",
+				"or":  "G. J. Merchant and S. H. Davis, Phys. Rev. Lett., 63, No. 5: 573 (1989).",
+				"tr":  "G. J. Merchant and S. H. Davis, Phys. Rev. Lett., 63, No. 5: 573 (1989)."
+			},
+			{
+				"doi": "",
+				"or":  "S. de Cheveigne and C. Guthmann, J. Phys. I France, 2: 193 (1992).",
+				"tr":  "S. de Cheveigne and C. Guthmann, J. Phys. I France, 2: 193 (1992)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.47.4313",
+				"or":  "H. Jamgotchian, R. Trivedi, and B. Billia, Phys. Rev. E, 47: 4313 (1993).",
+				"tr":  "H. Jamgotchian, R. Trivedi, and B. Billia, Phys. Rev. E, 47: 4313 (1993)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.58.7492",
+				"or":  "W. Losert, D. A. Stilman, H. Z. Cummins, P. Kopczyński, W.-J. Rappel, and A. Karma, Phys. Rev. E, 58, No. 6: 7492 (1998).",
+				"tr":  "W. Losert, D. A. Stilman, H. Z. Cummins, P. Kopczyński, W.-J. Rappel, and A. Karma, Phys. Rev. E, 58, No. 6: 7492 (1998)."
+			},
+			{
+				"doi": "10.1016/j.jcrysgro.2016.03.031",
+				"or":  "M. Glicksman, J. Cryst. Growth, 450: 119 (2016).",
+				"tr":  "M. Glicksman, J. Cryst. Growth, 450: 119 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "D. E. Ovsienko, A. M. Ovrutskii, and O. P. Fedorov, ZhETF, 73, No. 3: 518 (1991).",
+				"tr":  "D. E. Ovsienko, A. M. Ovrutskii, and O. P. Fedorov, ZhETF, 73, No. 3: 518 (1991)."
+			},
+			{
+				"doi": "10.1016/0022-0248(91)90324-X",
+				"or":  "A. G. Borisov, O. P. Fedorov, and V. V. Maslov, J. Cryst. Growth, 112, Nos. 2–3: 463 (1991).",
+				"tr":  "A. G. Borisov, O. P. Fedorov, and V. V. Maslov, J. Cryst. Growth, 112, Nos. 2–3: 463 (1991)."
+			},
+			{
+				"doi": "10.1209/epl/i2006-10247-9",
+				"or":  "J. Dechamps, M. Georgelin, and A. Pocheau, Europhys. Lett., 76, No. 2: 291 (2006).",
+				"tr":  "J. Dechamps, M. Georgelin, and A. Pocheau, Europhys. Lett., 76, No. 2: 291 (2006)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.78.011605",
+				"or":  "J. Dechamps, M. Georgelin, and A. Pocheau, Phys. Rev. E, 78, No. 1: 011605 (2008).",
+				"tr":  "J. Dechamps, M. Georgelin, and A. Pocheau, Phys. Rev. E, 78, No. 1: 011605 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.81.051608",
+				"or":  "A. Pocheau, J. Dechamps, and M. Georgelin, Phys. Rev. E, 81, No. 5: 051608 (2010).",
+				"tr":  "A. Pocheau, J. Dechamps, and M. Georgelin, Phys. Rev. E, 81, No. 5: 051608 (2010)."
+			},
+			{
+				"doi": "10.1016/j.ijheatmasstransfer.2015.07.029",
+				"or":  "H. Xing, X. L. Dong, C. L. Chen, J. Y. Wang, L. F. Du, and K. X. Jin, International J. Heat and Mass Transfer, 90: 911 (2015).",
+				"tr":  "H. Xing, X. L. Dong, C. L. Chen, J. Y. Wang, L. F. Du, and K. X. Jin, International J. Heat and Mass Transfer, 90: 911 (2015)."
+			},
+			{
+				"doi": "10.1016/j.ijheatmasstransfer.2016.08.096",
+				"or":  "H. Xing, L. Zhang, K. Song, H. Chen, and K. Jin, International J. Heat and Mass Transfer, 104: 607 (2017).",
+				"tr":  "H. Xing, L. Zhang, K. Song, H. Chen, and K. Jin, International J. Heat and Mass Transfer, 104: 607 (2017)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.51.4751",
+				"or":  "S. Akamatsu, G. Faivre, and T. Ihle, Phys. Rev. E, 51, No. 5: 4751 (1995).",
+				"tr":  "S. Akamatsu, G. Faivre, and T. Ihle, Phys. Rev. E, 51, No. 5: 4751 (1995)."
+			},
+			{
+				"doi": "10.1209/0295-5075/17/6/010",
+				"or":  "E. Brener, H. Müller-Krumbhaar, and D. Temkin, Europhysics Lett., 17, No. 6: 535 (1992).",
+				"tr":  "E. Brener, H. Müller-Krumbhaar, and D. Temkin, Europhysics Lett., 17, No. 6: 535 (1992)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.54.2714",
+				"or":  "E. Brener, H. Müller-Krumbhaar, and D. Temkin, Phys. Rev. E, 54, No. 3: 2714 (1996).",
+				"tr":  "E. Brener, H. Müller-Krumbhaar, and D. Temkin, Phys. Rev. E, 54, No. 3: 2714 (1996)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.70.3083",
+				"or":  "T. Ihle and H. Müller-Krumbhaar, Phys. Rev. Lett., 70, No. 20: 3083 (1993).",
+				"tr":  "T. Ihle and H. Müller-Krumbhaar, Phys. Rev. Lett., 70, No. 20: 3083 (1993)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.66.051604",
+				"or":  "B. Utter and E. Bodenschatz, Phys. Rev. E, 66, No. 5: 051604 (2002).",
+				"tr":  "B. Utter and E. Bodenschatz, Phys. Rev. E, 66, No. 5: 051604 (2002)."
+			},
+			{
+				"doi": "10.1007/s11837-007-0093-5",
+				"or":  "A. Pocheau, J. Deschamps, and M. Georgelin, JOM, 59, No. 7: 71 (2007).",
+				"tr":  "A. Pocheau, J. Deschamps, and M. Georgelin, JOM, 59, No. 7: 71 (2007)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2013.11.069",
+				"or":  "Y. Chen, B. Billia, D. Zhjng Li, H. Nguen-Thi, N. Min Xiao, and A.-A. Bongo, Acta Mater., 66: 219 (2014).",
+				"tr":  "Y. Chen, B. Billia, D. Zhjng Li, H. Nguen-Thi, N. Min Xiao, and A.-A. Bongo, Acta Mater., 66: 219 (2014)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2011.10.006",
+				"or":  "M. Anoorezaei, S. Gurevich, and N. Provatas, Acta Mater., 60: 657 (2012).",
+				"tr":  "M. Anoorezaei, S. Gurevich, and N. Provatas, Acta Mater., 60: 657 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Flemings, Solidification Processing (New York: McGrow-Hill Book Company: 1974).",
+				"tr":  "M. Flemings, Solidification Processing (New York: McGrow-Hill Book Company: 1974)."
+			},
+			{
+				"doi": "10.1016/0022-0248(69)90038-4",
+				"or":  "L. R. Morris and W. C. Winegard, J. Crystal Growth, 5: 361 (1969).",
+				"tr":  "L. R. Morris and W. C. Winegard, J. Crystal Growth, 5: 361 (1969)."
+			},
+			{
+				"doi": "10.1016/S0022-0248(98)00543-0",
+				"or":  "B. Kauerauf, G. Zimmermann, L. Murmann, and S. Rex, J. Cryst. Growth, 193: 701 (1998).",
+				"tr":  "B. Kauerauf, G. Zimmermann, L. Murmann, and S. Rex, J. Cryst. Growth, 193: 701 (1998)."
+			},
+			{
+				"doi": "10.1007/978-3-642-81835-6",
+				"or":  "A. A. Chernov, Modern Crystallography III. Crystal Growth (Ed. B. K. Vainshtein) (Berlin: Springer-Verlag: 1984).",
+				"tr":  "A. A. Chernov, Modern Crystallography III. Crystal Growth (Ed. B. K. Vainshtein) (Berlin: Springer-Verlag: 1984)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.47.2702",
+				"or":  "I. A. Warren and J. S. Langer, Phys. Rev. E, 47: 2702 (1993).",
+				"tr":  "I. A. Warren and J. S. Langer, Phys. Rev. E, 47: 2702 (1993)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2014.11.024",
+				"or":  "F. L. Mota, N. Bergeon, D. Tourret, A. Karma, R. Trivedi, and B. Billia, Acta Mater., 85: 363 (2015).",
+				"tr":  "F. L. Mota, N. Bergeon, D. Tourret, A. Karma, R. Trivedi, and B. Billia, Acta Mater., 85: 363 (2015)."
+			},
+			{
+				"doi": "10.1016/0022-0248(89)90142-5",
+				"or":  "M. E. Glicksman and N. B. Singh, J. Cryst. Growth, 98, No. 3: 277 (1989).",
+				"tr":  "M. E. Glicksman and N. B. Singh, J. Cryst. Growth, 98, No. 3: 277 (1989)."
+			},
+			{
+				"doi": "10.1016/0025-5416(84)90199-X",
+				"or":  "J. Lipton, M. E. Glicksman, and W. Kurz, Mater. Sci. Eng., 65, No. 1: 57 (1984).",
+				"tr":  "J. Lipton, M. E. Glicksman, and W. Kurz, Mater. Sci. Eng., 65, No. 1: 57 (1984)."
+			},
+			{
+				"doi": "10.1016/0001-6160(85)90199-3",
+				"or":  "R. Trivedi and K. Somboonsuk, Acta Met., 33, No. 6: 1061 (1985).",
+				"tr":  "R. Trivedi and K. Somboonsuk, Acta Met., 33, No. 6: 1061 (1985)."
+			},
+			{
+				"doi": "10.1046/j.1365-2818.2001.00900.x",
+				"or":  "H. Jamgotchian, N. Bergeon, D. Binelli, P. Voge, and B. Billia, J. Microscopy, 203, Iss. 1: 119 (2001).",
+				"tr":  "H. Jamgotchian, N. Bergeon, D. Binelli, P. Voge, and B. Billia, J. Microscopy, 203, Iss. 1: 119 (2001)."
+			},
+			{
+				"doi": "10.1016/0022-0248(95)00292-8",
+				"or":  "O. P. Fedorov, J. Cryst. Growth, 156: 473 (1995).",
+				"tr":  "O. P. Fedorov, J. Cryst. Growth, 156: 473 (1995)."
+			},
+			{
+				"doi": "10.1007/BF02642797",
+				"or":  "R. J. Schaefer and M. E. Glicksman, Met. Trans., 1: 1973 (1970).",
+				"tr":  "R. J. Schaefer and M. E. Glicksman, Met. Trans., 1: 1973 (1970)."
+			},
+			{
+				"doi": "10.1016/S0022-0248(97)00882-8",
+				"or":  "N. Noel, H. Jamgotchian, and B. Billia, J. Cryst. Growth, 187: 516 (1998).",
+				"tr":  "N. Noel, H. Jamgotchian, and B. Billia, J. Cryst. Growth, 187: 516 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "E. L. Zhivolub and O. P. Fedorov, Crystallogr. Rep., 43: 139 (1998).",
+				"tr":  "E. L. Zhivolub and O. P. Fedorov, Crystallogr. Rep., 43: 139 (1998)."
+			},
+			{
+				"doi": "10.1016/0022-0248(67)90003-6",
+				"or":  "K. A. Jackson, D. R. Uhlmann, and J. D. Hunt, J. Cryst. Growth, 1, No. 1: 1 (1967).",
+				"tr":  "K. A. Jackson, D. R. Uhlmann, and J. D. Hunt, J. Cryst. Growth, 1, No. 1: 1 (1967)."
+			}
+		]
+	}
+}

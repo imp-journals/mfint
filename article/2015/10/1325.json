@@ -1,0 +1,142 @@
+{
+	"_id":    "MFiNT.37.10.1325",
+	"year":   2015,
+	"volume": 37,
+	"issue":  10,
+	"pages":  [1325,1338],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["15.07.2015"],
+	"PACS":   "06.60.Vz, 61.72.Hh, 62.20.F-, 81.20.Vj, 81.40.Lm, 81.70.Bt, 83.50.Uv",
+	"title":  {
+			"ua": "Дослідження та оцінка залишкових напружень в попередньо напружених сталевих двотаврових балках, виготовлених з використанням методи зварювання",
+			"en": "Investigation and Characterization of Residual Stress on Prestressed Steel I-Beams Manufactured by Welding",
+			"ru": "Исследование и оценка остаточного напряжения в предварительно напряжённых стальных двутавровых балках, изготовленных свариванием"
+		},
+	"abstract": {
+		"ua": "Мета цієї роботи – визначити тип та величину залишкових напружень, які виникають у сталевих двотаврових балках, виготовлених з використанням методи зварювання з попереднім напруженням. Для досягнення цієї мети було виготовлено сталеві двотаврові балки з попереднім напруженням у 50, 100, 150, 200 і 272 МПа. Залишкові напруження в цих балках визначалися методою свердління отворів. Було встановлено, що поздовжнє залишкове розтягувальне напруження зростає зі збільшенням попереднього напруження аж до 200 МПа. Було також виявлено, що виникає залишкове розтягувальне напруження аж до 92 МПа на поперечному перерізі в центрі поверхні нижнього фланця, і воно перетворюється в залишкове напруження стискання через краї нижнього фланця. Крім цього, залишкове напруження стискання визначалося біля стінки балки. Це напруження перетворювалося в розтягувальне напруження на нижньому фланці, й така варіябельність типу напруження створює напруження зсуву на зварному шві.",
+		"en": "The purpose of this study is to determine type and magnitude of residual stresses occurring on steel I-beams, which are manufactured by using prestressing with welding method. In order to achieve this purpose, 50, 100, 150, 200 and 272 MPa prestressed steel I-beams (PSIB) are manufactured. Residual stresses on these beams are determined with the hole-drilling method. As determined, the longitudinal residual tensile stress increases with increasing prestressing stress up to 200 MPa. As also detected, the residual tensile stress up to 92 MPa on crosscut in surface centre of lower flange occurs, and it converts to residual compressive stress through edges of lower flange. Moreover, residual compressive stress is determined at web of beam. This stress converts to tensile stress on lower flange, and this variability on stress type creates shearing stress on welding seam.",
+		"ru": "Цель данной работы – определить тип и величину остаточных напряжений, возникающих в стальных двутавровых балках, изготовленных с использованием метода сварки с предварительным напряжением. Для достижения этой цели были изготовлены стальные двутавровые балки с предварительным напряжением 50, 100, 150, 200 и 272 МПа. Остаточные напряжения в этих балках определялись методом сверления отверстий. Было установлено, что продольное остаточное растягивающее напряжение возрастает с возрастанием предварительного напряжения вплоть до 200 МПа. Было также обнаружено, что возникает остаточное растягивающее напряжение вплоть до 92 МПа на поперечном разрезе в центре поверхности нижнего фланца, и оно преобразовывается в остаточное напряжение сжатия через края нижнего фланца. Кроме того, остаточное напряжение сжатия определялось у полки балки. Это напряжение преобразовывалось в растягивающее напряжение на нижнем фланце, и такая вариабельность типа напряжения создаёт напряжение сдвига на сварном шве."
+	},
+	"keywords": {
+		"ua": "зварювання, попередньо напружена сталева балка, залишкова напруга, метода свердління отворів",
+		"en": "welding, prestressed steel beam, residual stress, hole-drilling method",
+		"ru": "сварка, предварительно напряжённая стальная балка, остаточное напряжение, метод сверления отверстий"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. Озаш", "en": "A. Özer", "ru": "А. Озаш"},
+			"OID": [415]
+		},
+		{
+			"AID": {"ua": "Ю. Йозчаталбаш", "en": "Yu. Özçatalbaş", "ru": "Ю. Ёзчаталбаш"},
+			"OID": [416]
+		}
+	],
+	"references": {
+		"count": 20,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "J. M. Park, Prestressed Steel Beam, Korean Patent No. KR2002071611 (2002).",
+				"tr":  "J. M. Park, Prestressed Steel Beam, Korean Patent No. KR2002071611 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Zhaobo, Prestressed Large-Span Solid Portal Steel Frame and its Construction Process, Patent No. CN1335439 (2002).",
+				"tr":  "H. Zhaobo, Prestressed Large-Span Solid Portal Steel Frame and its Construction Process, Patent No. CN1335439 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Tomoyasu, Prestressed Steel Framed Beam, Patent No. JP7145655 (1995).",
+				"tr":  "K. Tomoyasu, Prestressed Steel Framed Beam, Patent No. JP7145655 (1995)."
+			},
+			{
+				"doi": "10.1016/j.matdes.2006.04.007",
+				"or":  "Y. Özçatalbaş and A. Özer, Materials and Design, No. 28, Iss. 6: 1988 (2007).",
+				"tr":  "Y. Özçatalbaş and A. Özer, Materials and Design, No. 28, Iss. 6: 1988 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Chapeau, Manufacture of Prestressed Steel Beam, Patent No. GB2190611 (1987).",
+				"tr":  "W. Chapeau, Manufacture of Prestressed Steel Beam, Patent No. GB2190611 (1987)."
+			},
+			{
+				"doi": "10.1016/j.jcsr.2009.03.004",
+				"or":  "S.-H. Kim, J.-H. Ahn, C.-Y. Jung, and J.-H. Kim, J. Constructional Steel Research, 65, No. 7: 1464 (2009).",
+				"tr":  "S.-H. Kim, J.-H. Ahn, C.-Y. Jung, and J.-H. Kim, J. Constructional Steel Research, 65, No. 7: 1464 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Björklund and J. Höglind, Strengthening of Steel Structures with Bonded Prestressed Laminantes (Thesis of Disser. for MSc) (Göteborg: Chalmers University of Technology: 2007).",
+				"tr":  "A. Björklund and J. Höglind, Strengthening of Steel Structures with Bonded Prestressed Laminantes (Thesis of Disser. for MSc) (Göteborg: Chalmers University of Technology: 2007)."
+			},
+			{
+				"doi": "10.1016/j.simpat.2010.08.012",
+				"or":  "K. Narmashiri and M. Z. Jumaat, Simulation Modelling Practice and Theory, 19, Iss. 1: 564 (2011).",
+				"tr":  "K. Narmashiri and M. Z. Jumaat, Simulation Modelling Practice and Theory, 19, Iss. 1: 564 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "Y. Özçatalbaş and A. Özer, Manufactured Internal Prestressed Steel I-Beam, Patent No. TR200400366 (2004).",
+				"tr":  "Y. Özçatalbaş and A. Özer, Manufactured Internal Prestressed Steel I-Beam, Patent No. TR200400366 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Vishay Micro-Measurement Tech-Note, Document No: 11304 (2011).",
+				"tr":  "Vishay Micro-Measurement Tech-Note, Document No: 11304 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Özer and Y. Özçatalbaş, J. Fac. Eng. Arch. Gazi Univ, No. 26: 3 (2011).",
+				"tr":  "A. Özer and Y. Özçatalbaş, J. Fac. Eng. Arch. Gazi Univ, No. 26: 3 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "N. Özden, Heat Treatment of Welding (Istanbul: Nurettin Uycan Inc.: 1985) (in Turkish).",
+				"tr":  "N. Özden, Heat Treatment of Welding (Istanbul: Nurettin Uycan Inc.: 1985) (in Turkish)."
+			},
+			{
+				"doi": "",
+				"or":  "Handbook of Aluminum. Residual Stress and Distortion (Eds. E. G. Totten and D. S. S. Mackenzie) (New York: Marcel Dekker, Inc.: 2003), vol. 1, p. 305.",
+				"tr":  "Handbook of Aluminum. Residual Stress and Distortion (Eds. E. G. Totten and D. S. S. Mackenzie) (New York: Marcel Dekker, Inc.: 2003), vol. 1, p. 305."
+			},
+			{
+				"doi": "10.1002/9783527617487",
+				"or":  "R. W. Messler, Principles of Welding (New York: John Wiley and Sons Inc.: 1999), p. 206.",
+				"tr":  "R. W. Messler, Principles of Welding (New York: John Wiley and Sons Inc.: 1999), p. 206."
+			},
+			{
+				"doi": "",
+				"or":  "Handbook of Residual Stress and Deformation of Steel, Material Factors (Eds. G. Totten, M. Howes, and T. Inoue) (Materials Park, Ohio: ASM International: 2002).",
+				"tr":  "Handbook of Residual Stress and Deformation of Steel, Material Factors (Eds. G. Totten, M. Howes, and T. Inoue) (Materials Park, Ohio: ASM International: 2002)."
+			},
+			{
+				"doi": "10.1016/S0308-0161(01)00074-6",
+				"or":  "T. L. Teng, C. P. Fung, P. H. Chang, and W. C. Yang, Int. J. Pressure Vessels and Piping, 78, Iss. 8: 523 (2001).",
+				"tr":  "T. L. Teng, C. P. Fung, P. H. Chang, and W. C. Yang, Int. J. Pressure Vessels and Piping, 78, Iss. 8: 523 (2001)."
+			},
+			{
+				"doi": "10.1016/j.engfracmech.2006.03.005",
+				"or":  "H.-Y. Lee, F. R. Biglari, R. Wimpory, and K. M. Nikbin, Engineering Fracture Mechanics, 73, Iss. 13: 1755 (2006).",
+				"tr":  "H.-Y. Lee, F. R. Biglari, R. Wimpory, and K. M. Nikbin, Engineering Fracture Mechanics, 73, Iss. 13: 1755 (2006)."
+			},
+			{
+				"doi": "10.1016/j.engfailanal.2009.03.018",
+				"or":  "Z. Barsoum and A. Lundback, Engineering Failure Analysis, 16, Iss. 7: 2281 (2009).",
+				"tr":  "Z. Barsoum and A. Lundback, Engineering Failure Analysis, 16, Iss. 7: 2281 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Çalık, Elektron Işın Kaynağı İle Birleştirilmiş İki Farklı Çelik Malzemenin Kaynak Bölgesinin İncelenmesi [Investigation of Welding Zone of Dissimilar Steel Materials Joined Electron Beam Welding] (Thesis of Disser. for Dr. Materials Sci.) (Isparta: Süleyman Demirel Universty: 2004) (in Turkish).",
+				"tr":  "A. Çalık, Elektron Işın Kaynağı İle Birleştirilmiş İki Farklı Çelik Malzemenin Kaynak Bölgesinin İncelenmesi [Investigation of Welding Zone of Dissimilar Steel Materials Joined Electron Beam Welding] (Thesis of Disser. for Dr. Materials Sci.) (Isparta: Süleyman Demirel Universty: 2004) (in Turkish)."
+			},
+			{
+				"doi": "",
+				"or":  "Metals Handbook. Welding, Brazing and Soldering (Eds. D. V. Olson, T. A. Siewert, S. Liu, and G. R. Edwards) (Ohio: American Society of Metals: 1983), vol. 6.",
+				"tr":  "Metals Handbook. Welding, Brazing and Soldering (Eds. D. V. Olson, T. A. Siewert, S. Liu, and G. R. Edwards) (Ohio: American Society of Metals: 1983), vol. 6."
+			}
+		]
+	}
+}

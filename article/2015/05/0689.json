@@ -1,0 +1,125 @@
+{
+	"_id":    "MFiNT.37.05.0689",
+	"year":   2015,
+	"volume": 37,
+	"issue":  5,
+	"pages":  [689,702],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["07.04.2015"],
+	"PACS":   "61.25.Mv, 61.43.Dq, 64.70.dg, 81.05.Kf, 81.07.Bc, 81.10.Fq, 81.30.Fb",
+	"title":  {
+		"ua": "Вплив ізотермічного гартування з рідкого стану на мікроструктуру сплаву Cu$_{47}$Ni$_{8}$Ti$_{34}$Zr$_{11}$",
+		"en": "Effect of Isothermal Quenching from the Liquid State on the Microstructure of Cu$_{47}$Ni$_{8}$Ti$_{34}$Zr$_{11}$",
+		"ru": "Влияние изотермической закалки из жидкого состояния на микроструктуру сплава Cu$_{47}$Ni$_{8}$Ti$_{34}$Zr$_{11}$"
+	},
+	"abstract": {
+		"ua": "Методою узгодженого чисельного розв’язку рівнянь теплопровідности і кінетики кристалізації виконано розрахунковий аналіз впливу технологічних змінних на температурний режим твердіння і мікроструктуру виливків зі стопу Vit 101, одержаних литтям у гарячу мідну виливницю. Для виливків товщиною у 1 мм визначено інтервал значень початкової температури виливниці, який забезпечує ізотермічні умови кристалізації розтопу при температурах, вищих на 6—77 К за точку склування, і одержання повністю закристалізованих структур із розмірами зерен у $\\cong$ 79—93нм за прийнятні для практичної реалізації проміжки часу у $\\cong$ 0,5—5,0 год.",
+		"en": "By method of numerical solution of the heat-transfer and crystallization-kinetics equations, calculating analysis of the process-variables’ effect on the temperature conditions of solidification and microstructure of the Vit 101 alloy castings obtained by casting in a hot copper mould are made. For castings with thickness of 1 mm, the interval of the initial temperature values of mould is determined, which provides both the isothermal melt crystallization conditions at temperatures exceeding the glass transition point by 6—77 K and the obtaining of fully crystalline structure with grain sizes of $\\cong$ 79—93 nm for acceptable practical realization time intervals of $\\cong$ 0.5—5.0 h.",
+		"ru": "Методом согласованного численного решения уравнений теплопроводности и кинетики кристаллизации выполнен расчётный анализ влияния технологических переменных на температурный режим затвердевания и микроструктуру отливок из сплава Vit 101, полученных литьём в горячую медную изложницу. Для отливок толщиной 1 мм определён интервал значений начальной температуры изложницы, который обеспечивает изотермические условия кристаллизации расплава при температурах, превышающих на 6—77 К точку стеклования, и получение полностью закристаллизованных структур с размерами зёрен $\\cong$ 79—93 нм за приемлемые для практической реализации промежутки времени $\\cong$ 0,5—5,0 ч."
+	},
+	"keywords": {
+		"ua": "кінетика кристалізації, мікроструктура виливків, термічні режими, сплав Cu$_{47}$Ni$_{8}$Ti$_{34}$Zr$_{11}$, кокільне лиття",
+		"en": "crystallization kinetics, microstructure of casting, thermal condition, Cu$_{47}$Ni$_{8}$Ti$_{34}$Zr$_{11}$ alloy, chill casting",
+		"ru": "кинетика кристаллизации, микроструктура отливок, термические режимы, сплав Cu$_{47}$Ni$_{8}$Ti$_{34}$Zr$_{11}$, кокильное литьё"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. Б. Лисенко", "en": "O. B. Lysenko", "ru": "А. Б. Лысенко"},
+			"OID": [229]
+		},
+		{
+			"AID": {"ua": "О. Л. Косинська", "en": "O. L. Kosynska", "ru": "О. Л. Косинская"},
+			"OID": [229]
+		},
+		{
+			"AID": {"ua": "О. О. Лисенко", "en": "O. O. Lysenko", "ru": "А. А. Лысенко"},
+			"OID": [229]
+		},
+		{
+			"AID": {"ua": "Т. В. Калініна", "en": "T. V. Kalinina", "ru": "Т. В. Калинина"},
+			"OID": [229]
+		}
+	],
+	"references": {
+		"count": 15,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "И. С. Мирошниченко, Закалка из жидкого состояния (Москва: Металлургия: 1982).",
+				"tr":  "I. S. Miroshnichenko, Zakalka iz Zhidkogo Sostoyaniya [Quenching from a Liquid State] (Moscow: Metallurgiya: 1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Маслов, Д. Ю. Падерно, Получение аморфных металлических сплавов (Киев: Наукова думка: 1987), с. 52.",
+				"tr":  "V. V. Maslov and D. Yu. Paderno, Poluchenie Amorfnykh Metallicheskikh Splavov [Preparation of Amorphous Metal Alloys] (Kiev: Naukova Dumka: 1987), p. 52 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Р. Филонов, Ю. А. Аникин, Ю. Б. Левин, Теоретические основы производства аморфных и нанокристаллических сплавов методом сверхбыстрой закалки (Москва: МИСиС: 2006).",
+				"tr":  "M. R. Filonov, Yu. A. Anikin, and Yu. B. Levin, Teoreticheskie Osnovy Proizvodstva Amorphnykh i Nanokristallicheskikh Splavov Metodom Sverkhbystroy Zakalki [The Theoretical Fundamentals of the Production of Amorphous and Nanocrystalline Alloys by Super-Fast Quenching] (Moscow: MISiS: 2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Б. Лысенко, О. Л. Кравец, А. А. Лысенко, Металлофиз. новейшие технол., 30, № 3: 415 (2008).",
+				"tr":  "O. B. Lysenko, O. L. Kravets, and O. O. Lysenko, Metallofiz. Noveishie Tekhnol., 30, No. 3: 415 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Б. Лысенко, О. Л. Кравец, Г. В. Борисова, Физико-химические основы формирования и модификации микро- и наноструктур (Харьков: НФТЦ МОН и НАН Украины: 2009), т. 2, с. 367.",
+				"tr":  "A. B. Lysenko, O. L. Kravets, and G. V. Borisova, Fiziko-Khimicheskie Osnovy Formirovaniya i Modifikatsii Mikro- i Nanostruktur [Physical and Chemical Fundamentals of Formation and Modification of Micro- and Nanostructures] (Kharkov: NFTTs MON i NAN Ukrainy: 2009), vol. 2, p. 367 (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.36.10.1411",
+				"or":  "А. Б. Лысенко, О. Л. Косинская, С. В. Губарев, Т. В. Калинина, Металлофиз. новейшие технол., 36, № 10: 1411 (2014).",
+				"tr":  "O. B. Lysenko, O. L. Kosynska, S. V. Gubarev, and T. V. Kalinina, Metallofiz. Noveishie Tekhnol., 36, No. 10: 1411 (2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. Б. Лисенко, О. Л. Кравець, О. Л. Косинська, О. О. Лисенко, С. В. Губарєв, Т. В. Калініна, Спосіб виготовлення об’ємних нанокристалічних сплавів, Патент України № 64872 (Опубліковано 25 листопада 2011).",
+				"tr":  "O. B. Lysenko, O. L. Kravets, O. L. Kosinskaya,O. O. Lysenko, S. V. Gubarev, and T. V. Kalinina, Sposib Vygotovlennya Ob'yemnykh Nanokrystalichnykh Splaviv [Method for Producing of Bulk Nanocrystalline Alloys], Patent of Ukraine No. 64872 (Publ. November 25, 2011) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Б. Лысенко, О. Л. Кравец, Г. В. Борисова, А. Л. Кравец, Физико-химические основы формирования и модификации микро- и наноструктур (Харьков: НФТЦ МОН и НАН Украины: 2010), т. 2, с. 513.",
+				"tr":  "A. B. Lysenko, O. L. Kravets, G. V. Borisova, and A. L. Kravets, Fiziko-Khimicheskie Osnovy Formirovaniya i Modifikatsii Mikro- i Nanostruktur [Physical and Chemical Fundamentals of Formation and Modification of Micro- and Nanostructures] (Kharkov: NFTTs MON i NAN Ukrainy: 2010), vol. 2, p. 513 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Б. Лысенко, Г. В. Борисова, О. Л. Кравец, Физика и техника высоких давлений, 14, № 1: 44 (2004).",
+				"tr":  "A. B. Lysenko, G. V. Borisova, and O. L. Kravets, Fizika i Tekhnika Vysokikh Davleniy, 14, No. 1: 44 (2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Баскаков, Б. В. Берг, О. К. Витт и др., Теплотехника (Москва: Энергоатомиздат: 1991).",
+				"tr":  "A. P. Baskakov, B. V. Berg, O. K. Vitt et al., Teplotekhnika [Thermotechnics] (Moscow: Energoatomizdat: 1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Б. Лысенко, О. Л. Косинская, С. В. Губарев, Д. В. Соловков, Математичне моделювання, 30, № 1: 58 (2014).",
+				"tr":  "A. B. Lysenko, O. L. Kosinskaya, S. V. Gubarev, and D. V. Solovkov, Matematychne Modelyuvannya, 30, No. 1: 58 (2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "У. Кестер, У. Герольд, Металлические стекла: ионная структура, электронный перенос и кристаллизация (Москва: Мир: 1983), с. 325.",
+				"tr":  "U. Kӧster and U. Herold, Metallicheskie Stekla: Ionnaya Struktura, Elektronnyy Perenos i Kristallizatsiya [Metallic Glasses: Ion Structure, Electron Transfer and Crystallization] (Moscow: Mir: 1983), p. 325 (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Б. Лысенко, Вестник Днепропетровского университета. Физика. Радиоэлектроника, 19, № 2: 3 (2011).",
+				"tr":  "A. B. Lysenko, Vestnik Dnepropetrovskogo Universiteta. Fizika. Radioelektronika, 19, No. 2: 3 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Б. Лысенко, О. Л. Кравец, Г. В. Борисова, Физика и техника высоких давлений, 17, № 3: 52 (2007).",
+				"tr":  "A. B. Lysenko, G. V. Borisova, and O. L. Kravets, Fizika i Tekhnika Vysokikh Davleniy, 17, No. 3: 52 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Самарский, Введение в численные методы (Москва: Наука: 1987).",
+				"tr":  "A. A. Samarskiy, Vvedenie v Chislennye Metody [Introduction to Numerical Methods] (Moscow: Nauka: 1987) (in Russian)."
+			}
+		]
+	}
+}

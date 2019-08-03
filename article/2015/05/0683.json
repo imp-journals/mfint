@@ -1,0 +1,93 @@
+{
+	"_id":    "MFiNT.37.05.0683",
+	"year":   2015,
+	"volume": 37,
+	"issue":  5,
+	"pages":  [683,688],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["02.03.2015"],
+	"PACS":   "61.66.Dk, 61.72.Ff, 61.72.Yx, 66.30.jp, 68.43.Mn, 68.43.Nr, 88.30.rd",
+	"title":  {
+		"ua": "Структура і водневосорбційні властивості сплаву (Ti$_{0,34}$Zr$_{0,66}$)Mn$_{1,1}$V$_{0,1}$",
+		"en": "Structure and Hydrogen Sorption Properties of (Ti$_{0.34}$Zr$_{0.66}$)Mn$_{1.1}$V$_{0.1}$ Alloy",
+		"ru": "Структура и водородсорбционные свойства сплава (Ti$_{0,34}$Zr$_{0,66}$)Mn$_{1,1}$V$_{0,1}$"
+	},
+	"abstract": {
+		"ua": "Методами оптичної мікроскопії та рентґенівського фазового аналізу вивчено мікроструктуру і фазовий склад стопу (Ti$_{0,34}$Zr$_{0,66}$)Mn$_{1,1}$V$_{0,1}$ у литому стані, а також фазовий склад продуктів гідрування. Встановлено, що введення ванадію не впливає на процес сорбції водню. Показано, що збільшення водневої місткости стопу та термічної стабільности одержаного гідриду пов’язане з перерозподілом атомів по тетраедричних порах.",
+		"en": "The microstructure and phase composition of cast (Ti$_{0.34}$Zr$_{0.66}$)Mn$_{1.1}$V$_{0.1}$ alloy as well as its phase composition in hydrogenated conditions are studied by optical microscopy and X-ray phase analysis. As found, the vanadium addition does not affect the hydrogen sorption kinetics. As shown, the increasing of both the hydrogen capacity of the alloy and the thermal stability of the resulting hydride is associated with the redistribution of atoms in tetrahedral pores.",
+		"ru": "Методами оптической микроскопии и рентгеновского фазового анализа изучены микроструктура и фазовый состав сплава (Ti$_{0,34}$Zr$_{0,66}$)Mn$_{1,1}$V$_{0,1}$ в литом состоянии, а также фазовый состав продуктов гидрирования. Установлено, что введение ванадия не влияет на процесс сорбции водорода. Показано, что увеличение водородной ёмкости сплава и термической стабильности полученного гидрида связано с перераспределением атомов в тетраэдрических порах."
+	},
+	"keywords": {
+		"ua": "фаза Лавеса, тетраедричні порожнини, гідрування, дегідрування, воднева ємність",
+		"en": "Laves phase, tetrahedral pores, hydrogenation, dehydrogenation, hydrogen capacity",
+		"ru": "фаза Лавеса, тетраэдрические пустоты, гидрирование, дегидрирование, водородная ёмкость"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. А. Дехтяренко", "en": "V. A. Dekhtyarenko", "ru": "В. А. Дехтяренко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 11,
+		"list":  [
+			{
+				"doi": "10.1016/S0360-3199(99)00101-9",
+				"or":  "J. L. Bobet and B. Darriet, Int. J. Hydrogen Energy, 25, No 8: 767 (2000).",
+				"tr":  "J. L. Bobet and B. Darriet, Int. J. Hydrogen Energy, 25, No. 8: 767 (2000)."
+			},
+			{
+				"doi": "10.1016/S0966-9795(99)00092-8",
+				"or":  "J. L. Bobet, B. Chevalier, and Т. B. Darrie, Intermetallics, 8: 359 (2000).",
+				"tr":  "J. L. Bobet, B. Chevalier, and T. B. Darrie, Intermetallics, 8: 359 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Іванченко, В. А. Дехтяренко, Т. В. Прядко, Порошковая металлургия, № 5/6: 129 (2013).",
+				"tr":  "V. G. Ivanchenko, V. A. Dekhtyarenko, and T. V. Pryadko, Poroshkovaya Metallurgiya, Nos. 5/6: 129 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(01)01469-4",
+				"or":  "S. V. Mitrokhin, T. N. Bezuglaya, and V. N. Verbetsky, J. Alloys Compd., 330–332: 146 (2002).",
+				"tr":  "S. V. Mitrokhin, T. N. Bezuglaya, and V. N. Verbetsky, J. Alloys Compd., 330–332: 146 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Ф. Кобзенко, А. А. Школа, Заводская лаборатория, 7: 41 (1990).",
+				"tr":  "G. F. Kobzenko and A. A. Shkola, Zavodskaya Laboratoriya, 7: 41 (1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Ивасишин, В. Т. Черепин, В. Н. Колесник, М. М. Гуменюк, Приборы и техника эксперимента, 3: 147 (2010).",
+				"tr":  "O. M. Ivasishin, V. T. Cherepin, V. N. Kolesnik, and M. M. Gumenyuk, Pribory i Tekhnika Eksperimenta, 3: 147 (2010) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(02)01125-8",
+				"or":  "S. Samboshi, N. Masahashi, and S. Hanada, J. Alloys Compd., 352: 210 (2003).",
+				"tr":  "S. Samboshi, N. Masahashi, and S. Hanada, J. Alloys Compd., 352: 210 (2003)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(03)00257-3",
+				"or":  "S. V. Mitrokhin, T. N. Smirnova, V. A. Somenkov, V. P. Glazkov, and V. N. Verbetsky, J. Alloys Compd., 356–357: 80 (2003).",
+				"tr":  "S. V. Mitrokhin, T. N. Smirnova, V. A. Somenkov, V. P. Glazkov, and V. N. Verbetsky, J. Alloys Compd., 356–357: 80 (2003)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2005.02.078",
+				"or":  "S. V. Mitrokhin, J. Alloys Compd., 404–406: 384 (2005).",
+				"tr":  "S. V. Mitrokhin, J. Alloys Compd., 404–406: 384 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Вербецкий, С. В. Митрохин, Материаловедение, 1: 48 (2009).",
+				"tr":  "V. N. Verbetsky and S. V. Mitrokhin, Materialovedenie, 1: 48 (2009) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.ijhydene.2010.06.085",
+				"or":  "E. A. Anikina and V. N. Verbetsky, Int. J. Hydrogen Energy, 36: 1344 (2011).",
+				"tr":  "E. A. Anikina and V. N. Verbetsky, Int. J. Hydrogen Energy, 36: 1344 (2011)."
+			}
+		]
+	}
+}

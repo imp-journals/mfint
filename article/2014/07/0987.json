@@ -1,0 +1,115 @@
+{
+	"_id":    "MFiNT.36.07.0987",
+	"year":   2014,
+	"volume": 36,
+	"issue":  7,
+	"pages":  [987,997],
+	"rubric": 1,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["10.12.2013","11.04.2014"],
+	"PACS":   "61.05.cp, 61.25.Mv, 61.43.Dq, 61.46.Hk, 81.40.Ef",
+	"title":   {
+		"ua": "Проблеми визначення розмірів кластерів в аморфних металевих матеріалах",
+		"en": "Problems of Determination of the Clusters’ Sizes in Amorphous Metal Materials",
+		"ru": "Проблемы определения размеров кластеров в аморфных металлических материалах"
+	},
+	"abstract": {
+		"ua": "У роботі проаналізовано проблеми, пов’язані з визначенням розмірів кластерів у неупорядкованих (аморфних, рідких та нанокристалічних) матеріялах. Описано способи визначення розмірів кластерів за даними дифракційного експерименту. Показано, що дотепер точного методу визначення цього параметра немає. Більш точно визначити розмір кластерів уможливлює нова дифракційна функція $f(r)$, оскільки вона більш чутлива щодо нього в порівнянні з іншими дифракційними функціями інтенсивності.",
+		"en": "The problems concerning determination of the clusters’ sizes in disordered (amorphous, liquid and nanocrystalline) materials are analysed. Based on the diffraction data, ways of determination of the sizes of clusters are described. As shown, until now, there is not the method of determination of such parameter. The new diffraction function $f(r)$ allows determining the clusters’ size more precisely, because it is more size-sensitive in comparison with other diffraction-intensity functions.",
+		"ru": "В работе проанализированы проблемы, связанные с определением размеров кластеров в неупорядоченных (аморфных, жидких и нанокристаллических) материалах. Описаны способы определения размеров кластеров по данным дифракционного эксперимента. Показано, что на данный момент точного метода определения этого параметра пока не существует. Наиболее точно определить размер кластеров позволяет новая дифракционная функция $f(r)$, поскольку она более чувствительна к нему по сравнению с другими дифракционными функциями интенсивности."
+	},
+	"keywords": {
+		"ua": "розміри кластерів, атомна структура, аморфний стан",
+		"en": "clusters’ sizes, atomic structure, amorphous state",
+		"ru": "размеры кластеров, атомная структура, аморфное состояние"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. В. Лєпєєва", "en": "Yu. V. Lepeeva", "ru": "Ю. В. Лепеева"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Г. М. Зелінська", "en": "G. M. Zelinska", "ru": "Г. М. Зелинская"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. І. Слуховський", "en": "O. I. Slukhovskyi", "ru": "О. И. Слуховский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. В. Маруняк", "en": "O. V. Marunyak", "ru": "А. В. Маруняк"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 13,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Ю. Д. Ягодкин, С. В. Добаткин, Заводская лаборатория. Диагностика материалов, 73, № 1: 38 (2007).",
+				"tr":  "Yu. D. Yagodkin and S. V. Dobatkin, Zavodskaya Laboratoriya. Diagnostika Materialov, 73, No. 1: 38 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. В. Конюхов, В. В. Левина, Э. Л. Дзидзигурин, Д. В. Кузнецов, Е. Н. Хрустов, Физика и химия обработки материалов, № 4: 77 (2005).",
+				"tr":  "Yu. V. Konyukhov, V. V. Levina, E. L. Dzidzigurin, D. V. Kuznetsov, and E. N. Khrustov, Fizika i Khimiya Obrabotki Materialov, No. 4: 77 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. С. Уманский, Ю. А. Скаков, А. Н. Иванов, Л. Н. Расторгуев, Кристаллография, рентгенография и электронная микроскопия (Москва: Металлургия: 1982).",
+				"tr":  "Ya. S. Umanskiy, Yu. A. Skakov, A. N. Ivanov, and L. N. Rastorguev, Kristallografiya, Rentgenografiya i Elektronnaya Mikroskopiya (Moscow: Metallurgiya: 1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Маслов, А. Г. Ильинский, В. К. Носенко, А. П. Бровко, И. К. Евлаш, Металлофиз. новейшие технол., 22, № 3: 43 (2000).",
+				"tr":  "V. V. Maslov, A. G. Il'insky, V. K. Nosenko, A. P. Brovko, and I. K. Evlash, Metallofiz. Noveishie Tekhnol., 22, No. 3: 43 (2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Ильинский, А. П. Шпак, В. Л. Карбовский, Ю. В. Лепеева, Наносистеми, наноматеріали, нанотехнології, 8, № 3: 483 (2010).",
+				"tr":  "A. G. Il'inskii, A. P. Shpak, V. L. Karbovskiy, and Yu. V. Lepeeva, Nanosistemi, Nanomateriali, Nanotehnologii, 8, No. 3: 483 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Алексеев, А. Г. Ильинский, И. Г. Кабан, Ю. В. Лепеева, Г. С. Могильный, Г. М. Зелинская, Е. В. Ульянова, А. П. Шпак, Физика и техника высоких давлений, 18, № 3: 35 (2008).",
+				"tr":  "A. G. Alekseev, A. G. Il'inskii, I. G. Kaban, Yu. V. Lepeeva, G. S. Mogilny, G. M. Zelinskaya, E. V. Ul'yanova, and A. P. Shpak, Fizika i Tekhnika Vysokikh Davleniy, 18, No. 3: 35 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "J. I. Langford, A. J Wilson, and C. Scherrer, J. Appl. Cryst., 11: 102 (1978).",
+				"tr":  "J. I. Langford, A. J. Wilson, and C. Scherrer, J. Appl. Cryst., 11: 102 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Займан, Принципы теории твердого тела (Москва: Мир: 1966).",
+				"tr":  "J. Ziman, Printsipy Teorii Tverdogo Tela (Principles of the Theory of Solids) (Moscow: Mir: 1966) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. К. Вайнштейн, Дифракция рентгеновских лучей на цепных молекулах (Москва: АН СССР: 1963).",
+				"tr":  "B. K. Vainshtein, Difraktsiya Rentgenovskikh Luchey na Tsepnykh Molekulakh (Moscow: AN SSSR: 1963) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Хорунов, Г. М. Зелинская, С. В. Максимова, Металлофиз. новейшие технол., 30, № 8: 1139 (2008).",
+				"tr":  "V. M. Khorunov, G. M. Zelinskaya, and S. V. Maksimova, Metallofiz. Noveishie Tekhnol., 30, No. 8: 1139 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. С. Лашко, О. И. Слуховский, Український фізичний журнал, 19, № 1: 97 (1974).",
+				"tr":  "A. S. Lashko and O. I. Slukhovskiy, Ukr. Fiz. Zhurn., 19, No. 1: 97 (1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Ф. Скрышевский, Рентгенография жидкостей (Киев: КГУ им. Т. Г. Шевченко: 1966).",
+				"tr":  "A. F. Skryshevskiy, Rentgenografiya Zhidkostey (Kiev: KGU im. T. G. Shevchenko: 1966) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.jnoncrysol.2004.09.006",
+				"or":  "A. Il’inskii, I. Kaban, W. Hoyer, A. Shpak, and L. Taranenko, J. Non-Crystalline Solids, 347, Nos. 1–3: 39 (2004).",
+				"tr":  "A. Il'inskii, I. Kaban, W. Hoyer, A. Shpak, and L. Taranenko, J. Non-Crystalline Solids, 347, Nos. 1–3: 39 (2004)."
+			}
+		]
+	}
+}

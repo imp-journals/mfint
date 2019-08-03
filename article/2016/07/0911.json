@@ -1,0 +1,100 @@
+{
+	"_id":    "MFiNT.38.07.0911",
+	"year":   2016,
+	"volume": 38,
+	"issue":  7,
+	"pages":  [911,921],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["16.05.2016"],
+	"PACS":   "07.85.Fv, 61.05.cm, 61.05.cp, 68.35.Ct, 68.55.J-, 68.60.Dv, 68.65.Ac",
+	"title":   {
+		"ua": "Зміни у структурі багатошарових плівкових нанокомпозицій Sb/B$_{4}$C при нагріві до 360°C",
+		"en": "Changes in the Structure of the Multilayer Film Sb/B$_{4}$C Nanocomposition under Heating up to 360°C",
+		"ru": "Изменения в структуре многослойных плёночных нанокомпозиций Sb/B$_{4}$C при нагреве до 360°C"
+	},
+	"abstract": {
+		"ua": "Виготовлено та досліджено багатошарову періодичну композицію Sb/B$_{4}$C з аморфними шарами сурми товщиною у 2,59 нм і шарами B$_{4}$C товщиною у 1,81 нм, яка є перспективним покриттям для рентґенівської оптики. За допомогою рентґенівської дифрактометрії та електронної мікроскопії вивчено зміни у структурі цієї композиції при нагріванні до 360°C. Встановлено, що тонкі шари Sb у багатошаровій композиції Sb/B$_{4}$C залишаються в аморфному стані до 250°C. За температури 290°C відбувається кристалізація шарів сурми. Це приводить до збільшення густини шарів сурми і зменшення періоду багатошарової композиції на 13,8%. Кристалізація сурми супроводжується утворенням сурм’яних лінз, які викривлюють і руйнують багатошарове покриття.",
+		"en": "Periodic multilayer Sb/B$_{4}$C composition with amorphous 2.59 nm-thick antimony layers and 1.81 nm-thick B$_{4}$C layers, which is a promising coating for X-ray optics, is made and characterized. Structure changes of the composition under heating up to 360°C are investigated using X-ray diffractometry and electron microscopy. As found, the thin Sb layers remain in the amorphous state in the multilayer Sb/B$_{4}$C composition up to 250°C. At a temperature of 290C, the antimony layers are crystallized. This leads to increasing of density of the antimony layers and to reduction of multilayer composition period by 13.8%. The antimony crystallization is accompanied by the formation of antimony lenses, which distort and destroy the multilayer coating.",
+		"ru": "Изготовлена и исследована многослойная периодическая композиция Sb/B$_{4}$C с аморфными слоями сурьмы толщиной 2,59 нм и слоями B$_{4}$C толщиной 1,81 нм, которая является перспективным покрытием для рентгеновской оптики. С помощью рентгеновской дифрактометрии и электронной микроскопии изучены изменения в структуре этой композиции при нагревании до 360°C. Установлено, что тонкие слои Sb в многослойной композиции Sb/B$_{4}$C остаются в аморфном состоянии до 250°C. При температуре 290°C происходит кристаллизация слоёв сурьмы. Это приводит к увеличению плотности слоёв сурьмы и уменьшению периода многослойной композиции на 13,8%. Кристаллизация сурьмы сопровождается образованием сурьмяных линз, которые искажают и разрушают многослойное покрытие."
+	},
+	"keywords": {
+		"ua": "сурма, карбід бору, аморфний стан, багатошарова композиція, наношари, рентґенівська дифракція",
+		"en": "antimony, boron carbide, amorphous state, multilayer composition, nanoscale layers, X-ray diffraction",
+		"ru": "сурьма, карбид бора, аморфное состояние, многослойная композиция, нанослои, рентгеновская дифракция"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. А. Копилець", "en": "I. A. Kopylets", "ru": "И. А. Копылец"},
+			"OID": [243]
+		},
+		{
+			"AID": {"ua": "Є. М. Зубарєв", "en": "E. M. Zubarev", "ru": "Е. Н. Зубарев"},
+			"OID": [243]
+		},
+		{
+			"AID": {"ua": "В. В. Кондратенко", "en": "V. V. Kondratenko", "ru": "В. В. Кондратенко"},
+			"OID": [243]
+		},
+		{
+			"AID": {"ua": "В. А. Севрюкова", "en": "V. A. Sevryukova", "ru": "В. А. Севрюкова"},
+			"OID": [243]
+		}
+	],
+	"references": {
+		"count": 10,
+		"list":  [
+			{
+				"doi": "10.1070/QE2011v041n01ABEH014383",
+				"or":  "Е. А. Вишняков, М. С. Лугинин, А. С. Пирожков, Е. Н. Рагозин, С. А. Старцев, Квантовая электроника, 41, № 1: 75 (2011).",
+				"tr":  "E. A. Vishnyakov, M. S. Luginin, A. S. Pirozhkov, E. N. Ragozin, and S. A. Startsev, Quantum Electronics, 41, No. 1: 75 (2011)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2014.04.038",
+				"or":  "I. A. Kopylets, V. V. Kondratenko, E. N. Zubarev, D. L. Voronov, E. M. Gullikson, E. A. Vishnyakov, and E. N. Ragozin, Appl. Surf. Sci., 307: 360 (2014).",
+				"tr":  "I. A. Kopylets, V. V. Kondratenko, E. N. Zubarev, D. L. Voronov, E. M. Gullikson, E. A. Vishnyakov, and E. N. Ragozin, Appl. Surf. Sci., 307: 360 (2014)."
+			},
+			{
+				"doi": "10.1364/AO.50.001610",
+				"or":  "M. Barthelmess and S. Bajt, Appl. Opt., 50: 1610 (2011).",
+				"tr":  "M. Barthelmess and S. Bajt, Appl. Opt., 50: 1610 (2011)."
+			},
+			{
+				"doi": "10.1117/12.889519",
+				"or":  "Y. Platonov, J. Rodriguez, M. Kriese, E. Gullikson, T. Harada, T. Watanabe, and H. Kinoshita, Proc. SPIE, 8076: 80760N (2011).",
+				"tr":  "Y. Platonov, J. Rodriguez, M. Kriese, E. Gullikson, T. Harada, T. Watanabe, and H. Kinoshita, Proc. SPIE, 8076: 80760N (2011)."
+			},
+			{
+				"doi": "10.1070/QE2013v043n07ABEH015128",
+				"or":  "Е. А. Вишняков, Д. Л. Воронов, E. M. Gullikson, В. В. Кондратенко, И. А. Копылец, М. С. Лугинин, А. С. Пирожков, Е. Н. Рагозин, А. Н. Шатохин, Квантовая электроника, 43, № 7: 666 (2013).",
+				"tr":  "E. A. Vishnyakov, D. L. Voronov, E. M. Gullikson, V. V. Kondratenko, I. A. Kopylets, M. S. Luginin, A. S. Pirozhkov, E. N. Ragozin, and A. N. Shatokhin, Quantum Electronics, 43, No. 7: 666 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "Source: http://sci-progs.com/",
+				"tr":  "Source: http://sci-progs.com/"
+			},
+			{
+				"doi": "",
+				"or":  "Van Nostrand’s Scientific Encyclopedia. 10th ed. (Ed. Glenn D. Considine) (New York: John Wiley & Sons: 2008), vol. 1.",
+				"tr":  "Van Nostrand's Scientific Encyclopedia. 10th ed. (Ed. Glenn D. Considine) (New York: John Wiley & Sons: 2008), vol. 1."
+			},
+			{
+				"doi": "10.1007/BF02649935",
+				"or":  "H. Okamoto, J. Phase Equilibria, 12, No. 3: 391 (1991).",
+				"tr":  "H. Okamoto, J. Phase Equilibria, 12, No. 3: 391 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "Диаграммы состояния двойных металлических систем: Справочник (Ред. Н. П. Лякишев) (Москва: Машиностроение: 1996), т. 1.",
+				"tr":  "Diagrammy Sostoyaniya Dvoynykh Metallicheskikh Sistem: Spravochnik [Diagrams of Binary Metallic Systems: Handbook] (Ed. N. P. Lyakishev) (Moscow: Mashinostroenie: 1996), vol. 1 (in Russian)."
+			},
+			{
+				"doi": "10.1007/BF02883278",
+				"or":  "R. Wang, Bulletin of Alloy Phase Diagrams, 1, Iss. 1: 23 (1980).",
+				"tr":  "R. Wang, Bulletin of Alloy Phase Diagrams, 1, Iss. 1: 23 (1980)."
+			}
+		]
+	}
+}

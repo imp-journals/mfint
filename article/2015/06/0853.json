@@ -1,0 +1,91 @@
+{
+	"_id":    "MFiNT.37.06.0853",
+	"year":   2015,
+	"volume": 37,
+	"issue":  6,
+	"pages":  [853,860],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["22.09.2014","31.03.2015"],
+	"PACS":   "46.50.+a, 62.20.fk, 62.20.mj, 62.20.mm, 81.40.Np, 81.70.Bt, 83.60.La",
+	"title":  {
+		"ua": "Кореляційний зв'язок між рівнем крихкої міцности та границею плинности конструкційних сталей",
+		"en": "Correlation Between the Level of Brittle Strength and Yield Strength of Structural Steel",
+		"ru": "Корреляционная связь между уровнем хрупкой прочности и пределом текучести конструкционных сталей"
+	},
+	"abstract": {
+		"ua": "Встановлено кореляційну залежність між величиною мінімального напруження крихкого руйнування в інтервалі температур в’язко-крихкого переходу (крихкою міцністю $R_{MC}$) та величиною границі плинности в широкому діяпазоні значень міцности конструкційних сталей. Показано, що характеристики цієї залежности змінюються при переході від ферито-перлітних до мартенситних структур, тобто є структурно-чутливими. Дано фізичну інтерпретацію одержаних результатів. Одержані результати уможливлюють прогнозувати крихку міцність сталі без виконання дорогих і трудомістких низькотемпературних механічних випробувань.",
+		"en": "For structural steels, correlation between the value of minimal brittle fracture stress within the ductile-to-brittle-transition temperature range (brittle strength $R_{MC}$) and yield strength is ascertained over the wide range of strength variation. As shown, the characteristics of this correlation are changed at transition from ferrite—pearlite structure to the structure of tempered martensite, i.e., they are structurally sensitive. Physical interpretation of these results is presented. The obtained results enable to predict the brittle strength of steel without the need for expensive and time-consuming low-temperature mechanical tests.",
+		"ru": "Для конструкционных сталей в широком диапазоне изменения значений прочности установлена корреляционная связь между величиной минимального напряжения хрупкого разрушения в интервале температур вязко-хрупкого перехода (хрупкой прочностью $R_{MC}$) и значением предела текучести. Показано, что характеристики этой связи изменяются при переходе от феррито-перлитной структуры к структуре отпущенного мартенсита, т.е. являются структурно-чувствительными. Дана физическая интерпретация полученных результатов. Полученные результаты позволяют прогнозировать хрупкую прочность стали без выполнения дорогостоящих и трудоёмких низкотемпературных механических испытаний."
+	},
+	"keywords": {
+		"ua": "структура, міцність, крихка міцність, в’язко-крихкий перехід, конструкційні сталі",
+		"en": "structure, strength, brittle strength, ductile-to-brittle transition, structural steel",
+		"ru": "структура, прочность, хрупкая прочность, вязко-хрупкий переход, конструкционные стали"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. О. Котречко", "en": "S. O. Kotrechko", "ru": "С. А. Котречко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Ю. О. Полушкін", "en": "Yu. O. Polushkin", "ru": "Ю. А. Полушкин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. М. Грищенко", "en": "V. M. Grishchenko", "ru": "В. Н. Грищенко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 9,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Ю. Я. Мешков, Физические основы разрушения стальных конструкций (Киев: Наукова думка: 1981).",
+				"tr":  "Yu. Ya. Meshkov, Fizicheskie Osnovy Razrusheniya Stal'nykh Konstruktsiy [Physical Foundations of Steel Structures Fracture] (Kiev: Naukova Dumka: 1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Я. Мешков, Г. А. Пахаренко, Структура металла и хрупкость стальных изделий (Киев: Наукова думка: 1985).",
+				"tr":  "Yu. Ya. Meshkov and G. A. Pakharenko, Struktura Metalla i Khrupkost' Stal'nykh Izdeliy [Structure of Metals and Brittleness of Steel Constructions] (Kiev: Naukova Dumka: 1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Котречко, Ю. А. Полушкин, В. Н. Грищенко, С. А. Мамедов, Металлофиз. новейшие технол., 35, № 11: 1517 (2013).",
+				"tr":  "S. O. Kotrechko, Yu. O. Polushkin, V. M. Gryshchenko, and S. O. Mamedov, Metallofiz. Noveishie Tekhnol., 35, No. 11: 1517 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Котречко, Ю. Я. Мешков, Предельная прочность. Кристаллы, металлы, конструкции (Киев: Наукова думка: 2008).",
+				"tr":  "S. A. Kotrechko and Yu. Ya. Meshkov, Predel'naya Prochnost'. Kristally, Metally, Konstruktsii [Ultimate Strength. Crystals, Metals, Constructions] (Kiev: Naukova Dumka: 2008) (in Russian)."
+			},
+			{
+				"doi": "10.1007/BF02663302",
+				"or":  "F. M. Beremin, A. Pineau, and F. Mudry, Met. Trans., 14, Iss. 11: 2277 (1983).",
+				"tr":  "F. M. Beremin, A. Pineau, and F. Mudry, Met. Trans., 14, Iss. 11: 2277 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "C. S. Wiesner, The ‘Local Approach’ to Cleavage Fracture–Concepts and Applications (Cambridge: Abington Publishing: 1996).",
+				"tr":  "C. S. Wiesner, The 'Local Approach' to Cleavage Fracture–Concepts and Applications (Cambridge: Abington Publishing: 1996)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Di Fant, V. Le Cog, O. Cleizergues, G. Carollo, F. Mudry, L. Bauvineau, H. Burlet, A. Pineau, B. Marini, M. Koundy, C. Sainte Catherine, and C. Eripret, Journal de Physique, 4, No. 3: 503 (1996).",
+				"tr":  "M. Di Fant, V. Le Cog, O. Cleizergues, G. Carollo, F. Mudry, L. Bauvineau, H. Burlet, A. Pineau, B. Marini, M. Koundy, C. Sainte Catherine, and C. Eripret, Journal de Physique, 4, No. 3: 503 (1996)."
+			},
+			{
+				"doi": "10.1016/0308-0161(93)90047-W",
+				"or":  "K. Wallin, International Journal Pressure Vessels Piping, 55, No. 1: 61 (1993).",
+				"tr":  "K. Wallin, International Journal Pressure Vessels Piping, 55, No. 1: 61 (1993)."
+			},
+			{
+				"doi": "10.1016/S0308-0161(98)00083-0",
+				"or":  "B. Z. Margolin, A. G. Gulenko, and V. A. Shvetsova, International Journal Pressure Vessels Piping, 75, No. 4: 843 (1998).",
+				"tr":  "B. Z. Margolin, A. G. Gulenko, and V. A. Shvetsova, International Journal Pressure Vessels Piping, 75, No. 4: 843 (1998)."
+			}
+		]
+	}
+}

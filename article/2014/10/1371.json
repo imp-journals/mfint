@@ -1,0 +1,210 @@
+{
+	"_id":    "MFiNT.36.10.1371",
+	"year":   2014,
+	"volume": 36,
+	"issue":  10,
+	"pages":  [1371,1384],
+	"rubric": 2,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["20.06.2014"],
+	"PACS":   "61.05.jh, 61.72.Cc, 61.72.Dd, 61.80.Jh, 61.82.Bg, 81.40.Ef, 81.40.Wx",
+	"title":   {
+		"ua": "Ґенерація дефектів поверхні Al(111) під впливом йонів Ar$^{+}$ низької енергії",
+		"en": "Generation of the Al(111) Surface Defects under Influence of Low-Energy Ar$^{+}$ Ions",
+		"ru": "Генерация дефектов поверхности Al(111) под воздействием ионов Ar$^{+}$ низкой энергии"
+	},
+	"abstract": {
+		"ua": "У роботі детально вивчено дозову залежність ґенерації та відпалу точкових дефектів, індукованих бомбуванням поверхні монокристалу Al(111) йонами Ar$^{+}$ з енергією 600 еВ у надвисокому вакуумі за допомогою методи дифракції повільних електронів. Показано можливість аналізи зміни інтенсивности дифракційних рефлексів повільних електронів безпосередньо в процесі йонного бомбування, що виключає ефект відпалу при подальшій витримці за кімнатної температури. На основі аналізи дифракційних рефлексів одержано значення енергії активації точкових дефектів.",
+		"en": "Dose dependence of generation and annealing of point defects induced by the bombardment of Al(111) single-crystal surface by Ar$^{+}$ ions with energy of 600 eV in extra-high vacuum is studied in detail using the method of low-energy electron diffraction. Possibility of analysis of changes in intensity of diffraction reflexes of slow electrons directly during ion bombardment that excludes annealing effect at subsequent holding at room temperature is shown. Based on analysis of diffraction reflexes, values of activation energy of point defects are obtained.",
+		"ru": "В работе детально изучена дозовая зависимость генерации и отжига точечных дефектов, индуцированных бомбардировкой поверхности монокристалла Al(111) ионами Ar$^{+}$ с энергией 600 эВ в сверхвысоком вакууме с помощью метода дифракции медленных электронов. Показана возможность анализа изменения интенсивности дифракционных рефлексов медленных электронов непосредственно в процессе ионной бомбардировки, что исключает эффект отжига при последующей выдержке при комнатной температуре. На основе анализа дифракционных рефлексов получены значения энергии активации точечных дефектов."
+	},
+	"keywords": {
+		"ua": "точкові дефекти, поверхня, монокристал, йонне бомбування, дифракція повільних електронів",
+		"en": "point defects, surface, single-crystal, ion bombardment, low-energy electron diffraction",
+		"ru": "точеные дефекты, поверхность, монокристалл, ионная бомбардировка, дифракция медленных электронов"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. О. Васильєв", "en": "M. O. Vasylyev", "ru": "М. А. Васильев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "І. М. Макеєва", "en": "I. M. Makeyeva", "ru": "И. Н. Макеева"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. О. Тіньков", "en": "V. O. Tinkov", "ru": "В. А. Тиньков"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. М. Волошко", "en": "S. M. Voloshko", "ru": "С. М. Волошко"},
+			"OID": [202]
+		}
+	],
+	"references": {
+		"count": 32,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "G. Carter, J. S. Colligon, W. A. Grant, and J. L. Whitton, Radiat. Res. Rev., 3: 1 (1997).",
+				"tr":  "G. Carter, J. S. Colligon, W. A. Grant, and J. L. Whitton, Radiat. Res. Rev., 3: 1 (1997)."
+			},
+			{
+				"doi": "10.1088/0022-3727/30/22/002",
+				"or":  "M. A. Vasiliev, J. Phys. D, 30: 3037 (1997).",
+				"tr":  "M. A. Vasiliev, J. Phys. D, 30: 3037 (1997)."
+			},
+			{
+				"doi": "10.1002/sia.740120202",
+				"or":  "N. Lam, Surf. Interface Anal., 12: 65 (1998).",
+				"tr":  "N. Lam, Surf. Interface Anal., 12: 65 (1998)."
+			},
+			{
+				"doi": "10.1002/sia.740120107",
+				"or":  "M. Hill, Surf. Interface Anal., 12: 21 (1998).",
+				"tr":  "M. Hill, Surf. Interface Anal., 12: 21 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "П. І. Мельник, С. П. Новосядлий, В. М. Бережанський, В. М. Вівчарук, Фізика і хімія твердого тіла, 8, № 4: 791 (2007).",
+				"tr":  "P. I. Mel'nyk, S. P. Novosyadlyy, V. M. Berezhans'kyy, and V. M. Vivcharuk, Fizyka i Khimiya Tverdoho Tila, 8, No. 4: 791 (2007) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/S0168-583X(97)00899-9",
+				"or":  "H. Carstanjen, Nucl. Instrum. Methods B, 136–138: 1183 (1998).",
+				"tr":  "H. Carstanjen, Nucl. Instrum. Methods B, 136–138: 1183 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "D. O’Connor, B. King, R. J. MacDonald, Y. Shen, and X. Chen, J. Phys., 43: 601 (1990).",
+				"tr":  "D. O'Connor, B. King, R. J. MacDonald, Y. Shen, and X. Chen, J. Phys., 43: 601 (1990)."
+			},
+			{
+				"doi": "10.1002/sia.740120506",
+				"or":  "A. Webb and J. Smith, Surf. Interface Anal., 12: 303 (1998).",
+				"tr":  "A. Webb and J. Smith, Surf. Interface Anal., 12: 303 (1998)."
+			},
+			{
+				"doi": "10.1016/S0168-583X(97)00791-X",
+				"or":  "B. Svensson, M. Linnarsson, J. Cardenas, and M. Petravic, Nucl. Instrum. Methods B, 136–138: 1034 (1998).",
+				"tr":  "B. Svensson, M. Linnarsson, J. Cardenas, and M. Petravic, Nucl. Instrum. Methods B, 136–138: 1034 (1998)."
+			},
+			{
+				"doi": "10.1088/0957-4484/7/3/013",
+				"or":  "S. Matsui and Y. Ochiai, Nanotechnology, 7: 247 (1996).",
+				"tr":  "S. Matsui and Y. Ochiai, Nanotechnology, 7: 247 (1996)."
+			},
+			{
+				"doi": "10.1016/0039-6028(76)90498-2",
+				"or":  "V. T. Cherepin, A. A. Kosyachkov, and M. A. Vasiliev, Surf. Sci., 58: 609 (1976).",
+				"tr":  "V. T. Cherepin, A. A. Kosyachkov, and M. A. Vasiliev, Surf. Sci., 58: 609 (1976)."
+			},
+			{
+				"doi": "10.1016/0042-207X(84)90227-6",
+				"or":  "R. Miranda and J. Rojo, Vacuum, 34: 1069 (1984).",
+				"tr":  "R. Miranda and J. Rojo, Vacuum, 34: 1069 (1984)."
+			},
+			{
+				"doi": "10.1016/0042-207X(86)90332-5",
+				"or":  "S. P. Chenakin, Vacuum, 36: 635 (1986).",
+				"tr":  "S. P. Chenakin, Vacuum, 36: 635 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Treglio, A. Perry, and R. Stinner, Adv. Mater. Proc., 5: 29 (1995).",
+				"tr":  "J. Treglio, A. Perry, and R. Stinner, Adv. Mater. Proc., 5: 29 (1995)."
+			},
+			{
+				"doi": "10.1016/0042-207X(94)90335-2",
+				"or":  "X. Wang and B. Chen, Vacuum, 45: 23 (1994).",
+				"tr":  "X. Wang and B. Chen, Vacuum, 45: 23 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Аксенов, Вакуумная дуга. Источники плазмы, осаждение покрытий, поверхностное модифицирование (Киев: Наукова думка: 2012).",
+				"tr":  "I. I. Aksenov, Vakuumnaya Duga. Istochniki Plazmy, Osazhdenie Pokrytiy, Poverhnostnoe Modifitsirovanie (Vacuum Arch. Plasma Sources, Coatings Deposition, Surface Modifying) (Kiev: Naukova Dumka: 2012) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.1714559",
+				"or":  "R. Jacobson and K. G. Wehner, J. Appl. Phys., 36: 2674 (1965).",
+				"tr":  "R. Jacobson and K. G. Wehner, J. Appl. Phys., 36: 2674 (1965)."
+			},
+			{
+				"doi": "10.1007/BF00553772",
+				"or":  "S. J. Davidson, Mater. Sci., 7: 473 (1972).",
+				"tr":  "S. J. Davidson, Mater. Sci., 7: 473 (1972)."
+			},
+			{
+				"doi": "10.1063/1.1707829",
+				"or":  "R. J. Park, Appl. Phys., 37: 295 (1966).",
+				"tr":  "R. J. Park, Appl. Phys., 37: 295 (1966)."
+			},
+			{
+				"doi": "10.1016/0039-6028(67)90072-6",
+				"or":  "H. Farnsworth and K. Hayek, Surf. Sci., 8: 35 (1967).",
+				"tr":  "H. Farnsworth and K. Hayek, Surf. Sci., 8: 35 (1967)."
+			},
+			{
+				"doi": "10.1116/1.1317734",
+				"or":  "J. Bellina and H. J. Farnsworth, Vacuum Sci. Technol., 9: 616 (1972).",
+				"tr":  "J. Bellina and H. J. Farnsworth, Vacuum Sci. Technol., 9: 616 (1972)."
+			},
+			{
+				"doi": "10.1080/00337577308232207",
+				"or":  "W. Heiland and E. Taglauer, Radiat. Effects, 19: 1 (1973).",
+				"tr":  "W. Heiland and E. Taglauer, Radiat. Effects, 19: 1 (1973)."
+			},
+			{
+				"doi": "10.1016/0039-6028(82)90713-0",
+				"or":  "L. K. Verheij, Surf. Sci., 114: 667 (1982).",
+				"tr":  "L. K. Verheij, Surf. Sci., 114: 667 (1982)."
+			},
+			{
+				"doi": "10.1016/0039-6028(82)90075-9",
+				"or":  "L. K. Verheij, J. A. Van den Berg, and D. G. Armour, Surf. Sci., 122: 216 (1982).",
+				"tr":  "L. K. Verheij, J. A. Van den Berg, and D. G. Armour, Surf. Sci., 122: 216 (1982)."
+			},
+			{
+				"doi": "10.1088/0022-3727/17/4/025",
+				"or":  "D. S. Karpuzov and D. G. Armour, J. Phys. D, 17: 853 (1984).",
+				"tr":  "D. S. Karpuzov and D. G. Armour, J. Phys. D, 17: 853 (1984)."
+			},
+			{
+				"doi": "10.1134/1.1340181",
+				"or":  "G. V. Kornich, G. Betz, and A. I. Bazhin, Phys. Solid State, 43: 29 (2001).",
+				"tr":  "G. V. Kornich, G. Betz, and A. I. Bazhin, Phys. Solid State, 43: 29 (2001)."
+			},
+			{
+				"doi": "10.1088/0953-8984/25/48/484008",
+				"or":  "O. Rodriguez de la Fuente, M. A. Gonzalez-Barrio, V. Navarro, B. M. Pabon, I. Palacio, and A. Mascaraque, J. Phys.: Condens. Matter, 25, No. 48: 134 (2013).",
+				"tr":  "O. Rodriguez de la Fuente, M. A. Gonzalez-Barrio, V. Navarro, B. M. Pabon, I. Palacio, and A. Mascaraque, J. Phys.: Condens. Matter, 25, No. 48: 134 (2013)."
+			},
+			{
+				"doi": "10.1016/0378-5963(82)90092-7",
+				"or":  "M. Henzler, Appl. Surf. Sci., 11–12: 450 (1982).",
+				"tr":  "M. Henzler, Appl. Surf. Sci., 11–12: 450 (1982)."
+			},
+			{
+				"doi": "10.1016/0042-207X(87)90261-2",
+				"or":  "M. A. Vasiliev and S. D. Gorodetsky, Vacuum, 37: 723 (1987).",
+				"tr":  "M. A. Vasiliev and S. D. Gorodetsky, Vacuum, 37: 723 (1987)."
+			},
+			{
+				"doi": "10.1016/0039-6028(68)90117-9",
+				"or":  "P. Wynblatt and N. A. Gjostein, Surf. Sci., 12: 109 (1968).",
+				"tr":  "P. Wynblatt and N. A. Gjostein, Surf. Sci., 12: 109 (1968)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Томпсон, Дефекты и радиационные повреждения в металлах (Москва: Мир: 1971).",
+				"tr":  "M. Tompson, Defekty i Radiatsionnye Povrezhdeniya v Metallakh (Defects and Radiation Damages in Metals) (Moscow: Mir: 1971) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0001-6160(76)90055-9",
+				"or":  "M. Doyama and J. S. Koehle, Acta Met., 24: 871 (1976).",
+				"tr":  "M. Doyama and J. S. Koehle, Acta Met., 24: 871 (1976)."
+			}
+		]
+	}
+}

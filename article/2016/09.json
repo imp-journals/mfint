@@ -1,0 +1,142 @@
+{
+	"year":   2016,
+	"volume": 38,
+	"issue":  9,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [1135,1144],
+			"title": {
+				"ua": "Застосування стохастичного кінетичного середньопольового (SKMF) методу до впорядкування атомів заміщення в макро- та нанорозмірних ГЦК-ґратницях",
+				"en": "Application of a Stochastic Kinetic Mean Field (SKMF) Method to Ordering Substitutional Atoms in Macro- and Nanosize F.C.C. Lattices",
+				"ru": "Применение стохастического кинетического среднеполевого (SKMF) метода к упорядочению атомов замещения в макро- и наноразмерных ГЦК-решётках"
+			},
+			"autors": {
+				"ua": "В. М. Безпальчук, М. О. Пасічний, А. М. Гусак",
+				"en": "V. M. Bezpalchuk, M. O. Pasichnyy and A. M. Gusak",
+				"ru": "В. Н. Безпальчук, Н. А. Пасичный, А. М. Гусак"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [1145,1166],
+			"title": {
+				"ua": "Структурні особливості формовних покриттів і плівок тяжкотопких сполук",
+				"en": "Structural Features of Formed Coatings and Films of Refractory Compounds",
+				"ru": "Структурные особенности формируемых покрытий и плёнок тугоплавких соединений"
+			},
+			"autors": {
+				"ua": "О. Д. Погребняк, О. О. Гончаров",
+				"en": "O. D. Pogrebnjak and O. O. Goncharov",
+				"ru": "А. Д. Погребняк, А. А. Гончаров"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [1167,1177],
+			"title": {
+				"ua": "Вплив підшарів ґерманію на перенесення заряду в плівках хрому нанометрової товщини",
+				"en": "Influence of Sublayers of Germanium on Charge Transfer in Films of Chromium of Nanometre Thickness",
+				"ru": "Влияние подслоёв германия на перенос заряда в плёнках хрома нанометровой толщины"
+			},
+			"autors": {
+				"ua": "Р. І. Бігун, В. М. Гаврилюх, Б. П. Коман, Я. А. Пастирський, З. В. Стасюк, Д. С. Леонов",
+				"en": "R. I. Bihun, V. M. Gavrylyukh, B. P. Koman, Ya. A. Pastyrskyy, Z. V. Stasyuk, and D. S. Leonov",
+				"ru": "Р. И. Бигун, В. М. Гаврилюх, Б. П. Коман, Я. А. Пастырский, З. В. Стасюк, Д. С. Леонов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [1179,1194],
+			"title": {
+				"ua": "Вплив відпалу на структуру поверхні плівок Ni$_{2}$MnGa",
+				"en": "Influence of Annealing on Structure of a Surface of Films of Ni$_{2}$MnGa",
+				"ru": "Влияние отжига на структуру поверхности плёнок Ni$_{2}$MnGa"
+			},
+			"autors": {
+				"ua": "Ю. Б. Скирта",
+				"en": "Yu. B. Skirta",
+				"ru": "Ю. Б. Скирта"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [1195,1212],
+			"title": {
+				"ua": "Вивчення в атомовому масштабі структурних та електронних властивостей $\\alpha$-цирконію з одиничними вакансіями та вакансійними кластерами",
+				"en": "An Atomic Scale Study of Structural and Electronic Properties for $\\alpha$-Zirconium with Single Vacancies and Vacancy Clusters",
+				"ru": "Изучение в атомном масштабе структурных и электронных свойств $\\alpha$-циркония с одиночными вакансиями и вакансионными кластерами"
+			},
+			"autors": {
+				"ua": "В. О. Харченко, Д. О. Харченко, С. Ву, Б. Вен, Л. Ву, В. Жанг",
+				"en": "V. O. Kharchenko, D. O. Kharchenko, X. Wu, B. Wen, L. Wu, and W. Zhang",
+				"ru": "В. О. Харченко, Д. О. Харченко, С. Ву, Б. Вэн, Л. Ву, В. Жанг"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [1213,1231],
+			"title": {
+				"ua": "Фізико-технологічна аналіза наводнення титану у різних станах",
+				"en": "The Physicotechnological Analysis of Hydrogen Saturation of the Titanium Metal in Different States",
+				"ru": "Физико-технологический анализ наводораживания титана в различных состояниях"
+			},
+			"autors": {
+				"ua": "А. А. Школа",
+				"en": "A. A. Shkola",
+				"ru": "А. А. Школа"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [1233,1247],
+			"title": {
+				"ua": "Теоретична аналіза процесів фазоутворення в аморфних стопах системи Fe—Zr",
+				"en": "The Theoretical Analysis of Phase-Formation Processes in Amorphous Alloys of Fe—Zr System",
+				"ru": "Теоретический анализ процессов фазообразования в аморфных сплавах системы Fe—Zr"
+			},
+			"autors": {
+				"ua": "І. В. Плющай, Т. Л. Цареградська, О. О. Каленик, О. І. Плющай",
+				"en": "I. V. Plyushchay, T. L. Tsaregrads’ka, O. O. Kalenyk, and O. I. Plyushchay",
+				"ru": "И. В. Плющай, Т. Л. Цареградская, А. А. Каленик, А. И. Плющай"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1249,1263],
+			"title": {
+				"ua": "Напружено-деформований стан фазових складових керамічного композиту LaB$_{6}$—TiВ$_{2}$",
+				"en": "Mode of Deformation of Phase Components of a Ceramic Composite LaB$_{6}$—TiВ$_{2}$",
+				"ru": "Напряжённо-деформированное состояние фазовых составляющих керамического композита LaB$_{6}$—TiВ$_{2}$"
+			},
+			"autors": {
+				"ua": "П. І. Лобода., О. П. Карасевська, Т. О. Соловйова",
+				"en": "P. I. Loboda, О. P. Karasevska, and T. O. Soloviova",
+				"ru": "П. И. Лобода, О. П. Карасевская, Т. А. Соловьева"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1265,1278],
+			"title": {
+				"ua": "Формування структури та властивості композиційних покриттів TiB$_{2}$—TiC—сталь, одержаних суміщенням електродугового натоплювання та СВС",
+				"en": "Formation of Structure and Properties of Composite Coatings TiB$_{2}$—TiC—Steel Obtained by Overlapping of Electric-Arc Surfacing and Self-Propagating High-Temperature Synthesis",
+				"ru": "Формирование структуры и свойства композиционных покрытий TiB$_{2}$—TiC—сталь, полученных совмещением электродуговой наплавки и СВС"
+			},
+			"autors": {
+				"ua": "Д. Л. Луцак, П. М. Присяжнюк, М. О. Карпаш, В. М. Пилипів, В. О. Коцюбинський",
+				"en": "D. L. Lutsak, P. M. Prysyazhnyuk, M. O. Karpash, V. M. Pylypiv, and V. O. Kotsyubynsky",
+				"ru": "Д. Л. Луцак, П. М. Присяжнюк, М. О. Карпаш, В. М. Пылыпив, В. О. Коцюбинський"
+			}
+		}
+	]
+}

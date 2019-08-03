@@ -1,0 +1,144 @@
+{
+	"_id":    "MFiNT.41.04.0549",
+	"year":   2019,
+	"volume": 41,
+	"issue":  4,
+	"pages":  [549,564],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["09.08.2018","13.02.2019"],
+	"PACS":   "47.55.D-, 61.20.Mv, 61.25.Mv, 62.20.-x, 81.20.Vj, 89.20.Bb",
+	"title":   {
+		"ua": "Дослідження управління якістю з’єднання сталевих деталей через керування процесами електродугового зварювання",
+		"en": "Investigation of the Quality Management of Steel Details Connection due to Control of Arc Welding Processes",
+		"ru": "Исследование управления качеством соединения стальных деталей путём контроля процессов электродуговой сварки"
+	},
+	"abstract": {
+		"ua": "У статті на підставі аналізу сил, що діють на краплю рідкого металу електроду під час механізованого зварювання, показано, що сила тяжіння, а також електродинамічна сила можуть бути використані для прискорення відриву краплі від торця електрода, тим самим забезпечуючи перехід до дрібнокрапельного переносу рідкого металу. За результатами аналізу визначено перспективний напрям керування переносом електродного металу в процесі механізованого зварювання модульованим струмом та наведено результати експериментальних досліджень, які підтвердили можливість і доцільність зварювання самозахисним порошковим дротом з його переривчастою подачею та отримання якісного шару наплавленого металу, а також зменшення температурного впливу на основний метал.",
+		"en": "Based on the analysis of the forces acting on the drop of a liquid metal of an electrode during mechanized welding, this article shows that gravity and electrodynamic forces can be used to accelerate the drop detachment from the tip of electrode. This provides a transition to the transfer of micron scale liquid metal droplets. According to the results of analysis, the perspective direction of the electrode metal transfer management during the process of mechanized welding with modulated current is determined. The results of experimental studies are presented. They confirm the possibility and suitability of the facing by self-protecting powder wire with its intermittent feed and the obtainment of a high-quality layer of weld metal as well as the decrease of the temperature influence on a base metal.",
+		"ru": "В статье на основании анализа сил, действующих на каплю жидкого металла электрода при механизированной сварке, показано, что сила тяжести, а также электродинамическая сила могут быть использованы для ускорения отрыва капли от торца электрода, тем самым обеспечивая переход к мелкокапельному переносу жидкого металла. По результатам анализа определено перспективное направление управления переносом электродного металла в процессе механизированной сварки модулированным током и приведены результаты экспериментальных исследований, которые подтвердили возможность и целесообразность наплавки самозащитной порошковой проволокой с её прерывистой подачей и получения качественного слоя наплавленного металла, а также уменьшения температурного воздействия на основной метал."
+	},
+	"keywords": {
+		"ua": "механізовані зварювання та наплавлення, електродний метал, перенесення електродного металу, електродугові процеси",
+		"en": "mechanized welding and facing, electrode metal, electrode metal transfer, electric arc processes",
+		"ru": "механизированная сварка и наплавка, электродный метал, перенос электродного металла, электродуговые процессы"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. В. Гуляєв", "en": "A. V. Hulyayev", "ru": "А. В. Гуляев"},
+			"OID": [274]
+		},
+		{
+			"AID": {"ua": "І. П. Даценко", "en": "I. P. Datsenko", "ru": "И. П. Даценко"},
+			"OID": [275]
+		},
+		{
+			"AID": {"ua": "Д. В. Смерницький", "en": "D. V. Smernyts’kyy", "ru": "Д. В. Смерницкий"},
+			"OID": [274]
+		},
+		{
+			"AID": {"ua": "М. П. Будзинський", "en": "M. P. Budzyns’kyy", "ru": "Н. П. Будзинский"},
+			"OID": [274]
+		},
+		{
+			"AID": {"ua": "О. В. Диких", "en": "O. V. Dykykh", "ru": "А. В. Диких"},
+			"OID": [274]
+		}
+	],
+	"references": {
+		"count": 18,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "В. Т. Федько, О. Г. Брунов, П. Д. Соколов, Сварочное производство, № 7: 6 (2006).",
+				"tr":  "V. T. Fed'ko, O. G. Brunov, and P. D. Sokolov, Svarochnoe Proizvodstvo, No. 7: 6 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. М. Воропай, Автоматическая сварка, № 10: 3 (1996).",
+				"tr":  "N. M. Voropay, Avtomaticheskaya Svarka, No. 10: 3 (1996) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Е. Патон, В. А. Лебедев, Сварочное производство, № 2: 24 (2002).",
+				"tr":  "B. E. Paton and V. A. Lebedev, Svarochnoe Proizvodstvo, No. 2: 24 (2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Лебедев, Автоматическая сварка, № 4: 19 (2007).",
+				"tr":  "V. A. Lebedev, Avtomaticheskaya Svarka, No. 4: 19 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Лебедев, В. Г. Пичак, Автоматическая сварка, № 5: 31 (2001).",
+				"tr":  "V. A. Lebedev and V. G. Pichak, Avtomaticheskaya Svarka, No. 5: 31 (2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Лебедев, Автоматическая сварка, № 10: 45 (2010).",
+				"tr":  "V. A. Lebedev, Avtomaticheskaya Svarka, No. 10: 45 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Лебедев, И. С. Кузьмин, Сварочное производство, № 5: 6 (2002).",
+				"tr":  "V. A. Lebedev and I. S. Kuz'min, Svarochnoe Proizvodstvo, No. 5: 6 (2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Мозок, В. А. Лебедев, Сварочное производство, № 2: 34 (2010).",
+				"tr":  "V. M. Mozok and V. A. Lebedev, Svarochnoe Proizvodstvo, No. 2: 34 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Е. Патон, Технология электрической сварки металлов и сплавов плавле-нием (Москва: Машиностроение: 1974).",
+				"tr":  "B. E. Paton, Tekhnologiya Elektricheskoy Svarki Metallov i Splavov Plavleniem [The Technology of Electric Welding of Metals and Alloys by Melting] (Moscow: Mashinostroenie: 1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Металлургия дуговой сварки: Процессы в дуге и плавление электродов (Ред. И. К. Походня) (Киев: Наукова думка: 1990).",
+				"tr":  "Metallurgiya Dugovoy Svarki: Protsessy v Duge i Plavlenie Elektrodov [Arc Welding Metallurgy: Arc Processes and Electrode Melting] (Ed. I. K. Pokhodnya) (Kyiv: Naukova Dumka: 1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Е. Патон, П. П. Шейко, Автоматическая сварка, № 5: 1 (1965).",
+				"tr":  "B. E. Paton and P. P. Sheyko, Avtomaticheskaya Svarka, No. 5: 1 (1965) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. В. Багрянский, З. В. Добротина, К. К. Хренов, Теория сварочных процес-сов (Киев: Вища Школа: 1976).",
+				"tr":  "K. V. Bagryanskiy, Z. V. Dobrotina, and K. K. Khrenov, Teoriya Svarochnykh Protsessov [Theory of Welding Processes] (Kyiv: Vyshcha Shkola: 1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Дятлов, Элементы теории переноса электродного металла при элек-тродуговой сварке (Киев: Техника: 1964).",
+				"tr":  "V. I. Dyatlov, Elementy Teorii Perenosa Elektrodnogo Metalla pri Elektrodugovoy Svarke [Elements of the Theory of Electrode Metal Transfer during Arc Welding] (Kyiv: Tekhnika: 1964) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. В. Лаврова, Вісник Донбаської державної машинобудівної академії, 204, № 1: 32 (2014).",
+				"tr":  "E. V. Lavrova, Visnyk Donbas'koyi Derzhavnoyi Mashynobudivnoyi Akademi-yi, 204, No. 1: 32 (2014) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Потапьевский, Сварка в защитных газах плавящимся электродом (Москва: Машиностроение: 1974).",
+				"tr":  "A. G. Potap'evskiy, Svarka v Zashchitnykh Gazakh Plavyashchimsya Elektrodom [Welding in Shielded Gas with a Consumable Electrode] (Moscow: Mashinostroenie: 1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Э. Фриш, А. В. Тиморева, Курс общей физики (Москва: Физматгиз: 1962).",
+				"tr":  "S. E. Frish and A. V. Timoreva, Kurs Obshchey Fiziki [Course of General Physics] (Moscow: Fizmatgiz: 1962) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Г. Дюргеров, Д. X. Сагиров, Сварочное производство, № 4: 14 (2004).",
+				"tr":  "N. G. Dyurgerov and D. X. Sagirov, Svarochnoe Proizvodstvo, No. 4: 14 (2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Крюков, Н. В. Павлов, А. А. Зеленковский, Сварочное производство, № 5: 37 (2013).",
+				"tr":  "A. V. Kryukov, N. V. Pavlov, and A. A. Zelenkovskiy, Svarochnoe Proizvodstvo, No. 5: 37 (2013) (in Russian)."
+			}
+		]
+	}
+}

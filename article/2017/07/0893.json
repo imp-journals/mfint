@@ -1,0 +1,120 @@
+{
+	"_id":    "MFiNT.39.07.0893",
+	"year":   2017,
+	"volume": 39,
+	"issue":  7,
+	"pages":  [893,903],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["30.06.2017"],
+	"PACS":   "66.30.Pa, 68.55.-a, 75.50.Ss, 75.50.Vv, 75.70.Ak, 81.40.Ef, 81.40.Rs",
+	"title":   {
+		"ua": "Вплив додаткового шару Ag на формування впорядкованої фази $L1_0$-FePt у плівках Ag (0; 7,5 нм)/Fe$_{50}$Pt$_{50}$ (15 нм)/SiO$_2$ (100 нм)/Si(001)",
+		"en": "Effect of an Additional Ag Layer on Formation of the Ordered $L1_0$-FePt Phase in Ag (0; 7.5 nm)/Fe$_{50}$Pt$_{50}$ (15 nm)/SiO$_2$ (100 nm)/Si(001) Films",
+		"ru": "Влияние дополнительного слоя Ag на формирование упорядоченной фазы $L1_0$-FePt в плёнках Ag (0; 7,5 нм)/Fe$_{50}$Pt$_{50}$ (15 нм)/SiO$_2$ (100 нм)/Si(001)"
+	},
+	"abstract": {
+		"ua": "Методами фізичного матеріялознавства вивчено вплив додаткового (верхнього) шару Ag з низькою поверхневою енергією ($\\cong$ 1,83 Дж/м$^{2}$) в плівках Ag (0; 7,5 нм)/Fe$_{50}$Pt$_{50}$ (15 нм) на підкладинках SiO$_2$ (100 нм)/Si(001) на процеси дифузійного формування фази $L1_0$, її структурні та магнетні властивості при відпалах у вакуумі у 1,3$\\cdot$10$^{3}$ Па в температурному інтервалі 300–900°С тривалістю 30 с. Плівкові композиції одержано методом магнетронного осаджування на термічно окиснену підкладинку монокристалічного Si(001). Встановлено, що у плівках після осадження формується невпорядкована фаза $A$1-FePt. Формування впорядкованої фази $L1_0$-FePt у плівці Fe$_{50}$Pt$_{50}$ (15 нм) відбувається в процесі відпалу за температури у 700°C і супроводжується різким збільшенням коерцитивної сили, яка продовжує зростати й після наступних високотемпературних відпалів. У плівці з верхнім шаром Ag температура формування фази $L1_0$-FePt підвищується до 800°C, але зростає текстура за напрямком [001], перпендикулярним до підкладинки, у порівнянні з плівкою Fe$_{50}$Pt$_{50}$.",
+		"en": "The influence of an additional Ag top layer with low surface energy ($\\cong$ 1.83 J/m$^{2}$) in films Ag (0; 7.5 nm)/Fe$_{50}$Pt$_{50}$0 (15 nm) on SiO$_2$ (100 nm)/Si(001) substrates on diffusion processes of the $L1_0$-phase formation, its structural and magnetic properties after annealing in vacuum 1.3$\\cdot$10$^{3}$ Pa at 300–900°C for 30 s is studied by physical materials science methods. Film compositions are obtained by magnetron deposition on substrate of monocrystalline Si(001) with thermally oxidized layer. As determined, the disordered $A$1-FePt phase is formed in as-deposited films. The ordered $L1_0$-FePt phase formation in Fe$_{50}$Pt$_{50}$ (15 nm) film occurs during annealing at 700°C and is accompanied by a sharp increase of coercivity, which continues to rise after further high-temperature annealing. In film with Ag top layer, temperature of the $L1_0$-FePt phase formation increases to 800°C, but, compared to the Fe$_{50}$Pt$_{50}$ film, the (001) texture increases with direction perpendicularly to substrate.",
+		"ru": "Методами физического материаловедения изучено влияние дополнительного (верхнего) слоя Ag с низкой поверхностной энергией ($\\cong$ 1,83 Дж/м$^{2}$) в плёнках Ag (0; 7,5 нм)/Fe5$_{50}$Pt$_{50}$ (15 нм) на подложках SiO$_2$ (100 нм)/Si(001) на процессы диффузионного формирования фазы $L1_0$, её структурные и магнитные свойства при отжигах в вакууме 1,3$\\cdot$10$^{3}$ Па в температурном интервале 300–900°C длительностью 30 с. Плёночные композиции получены методом магнетронного осаждения на термически окислённую подложку монокристаллического Si(001). Установлено, что в плёнках после осаждения формируется неупорядоченная фаза $A$1-FePt. Формирование упорядоченной фазы $L1_0$-FePt в плёнке Fe$_{50}$Pt$_{50}$ (15 нм) происходит в процессе отжига при температуре 700°C и сопровождается резким увеличением коэрцитивной силы, которая возрастает и после последующих высокотемпературных отжигов. В плёнке с верхним слоем Ag температура формирования фазы $L1_0$-FePt повышается до 800°C, но возрастает текстура (001) в направлении, перпендикулярном к подложке, по сравнению с плёнкой Fe$_{50}$Pt$_{50}$."
+	},
+	"keywords": {
+		"ua": "нанорозмірна плівка, додатковий шар Ag, впорядкована фаза $L1_0$-FePt, коерцитивна сила, відпал",
+		"en": "nanoscale film, additional Ag layer, ordered $L1_0$-FePt phase, coercivity, annealing",
+		"ru": "наноразмерная плёнка, дополнительный слой Ag, упорядоченная фаза $L1_0$-FePt, коэрцитивная сила, отжиг"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. Н. Шаміс", "en": "M. N. Shamis", "ru": "М. Н. Шамис"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "О. В. Фігурна", "en": "O. V. Fihurna", "ru": "Е. В. Фигурная"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "Т. І. Вербицька", "en": "T. I. Verbytska", "ru": "Т. И. Вербицкая"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "Ю. М. Макогон", "en": "Iu. M. Makogon", "ru": "Ю. Н. Макогон"},
+			"OID": [202]
+		}
+	],
+	"references": {
+		"count": 14,
+		"list":  [
+			{
+				"doi": "10.1116/1.4965980",
+				"or":  "D. Weller , G. Parker , O. Mosendz , A. Lyberatos , D. Mitin , N. Y. Safonova, and M. Albrecht, J. Vac. Sci. Technol., 34, Iss. 13: 060801 (2016).",
+				"tr":  "D. Weller, G. Parker, O. Mosendz, A. Lyberatos, D. Mitin, N. Y. Safonova, and M. Albrecht, J. Vac. Sci. Technol., 34, Iss. 13: 060801 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Coughlin, 100 TB HDDs and A New Spin on Storage, Forbes. Link: http://www.forbes.com/sites/tomcoughlin/2014/11/22/100-tb-hdds-and-a-new-spin-on-storage/#573a08504c82",
+				"tr":  "T. Coughlin, 100 TB HDDs and A New Spin on Storage, Forbes. Link: http://www.forbes.com/sites/tomcoughlin/2014/11/22/100-tb-hdds-and-a-new-spin-on-storage/#573a08504c82"
+			},
+			{
+				"doi": "10.1063/1.4827202",
+				"or":  "I. A. Vladymyrskyi, M. V. Karpets, F. Ganss, G. L. Katona, D. L. Beke, S. I. Sidorenko, T. Nagata, T. Nabatame, T. Chikyow, G. Beddies, M. Albrecht, and Iu. M. Makogon, J. Appl. Phys., 114, Iss. 16: 164314 (2013).",
+				"tr":  "I. A. Vladymyrskyi, M. V. Karpets, F. Ganss, G. L. Katona, D. L. Beke, S. I. Sidorenko, T. Nagata, T. Nabatame, T. Chikyow, G. Beddies, M. Albrecht, and Iu. M. Makogon, J. Appl. Phys., 114, Iss. 16: 164314 (2013)."
+			},
+			{
+				"doi": "10.1088/0022-3727/49/3/035003",
+				"or":  "I. A. Vladymyrskyi, A. E. Gafarov, A. P. Burmak, S. I. Sidorenko, G. L. Katona, N. Y. Safonova, F. Ganss, G. Beddies, M. Albrecht, Yu. N. Makogon, and D. L. Beke, J. Phys. D, 49, No. 3: 035003 (2016).",
+				"tr":  "I. A. Vladymyrskyi, A. E. Gafarov, A. P. Burmak, S. I. Sidorenko, G. L. Katona, N. Y. Safonova, F. Ganss, G. Beddies, M. Albrecht, Yu. N. Makogon, and D. L. Beke, J. Phys. D, 49, No. 3: 035003 (2016)."
+			},
+			{
+				"doi": "10.1063/1.4891477",
+				"or":  "I. A. Vladymyrskyi, M. V. Karpets, G. L. Katona, D. L. Beke, S. I. Sidorenko, T. Nagata, T. Nabatame, T. Chikyow, F. Ganss, G. Beddies, M. Albrecht, and I. M. Makogon, J. Appl. Phys., 116, Iss. 4: 044310 (2014).",
+				"tr":  "I. A. Vladymyrskyi, M. V. Karpets, G. L. Katona, D. L. Beke, S. I. Sidorenko, T. Nagata, T. Nabatame, T. Chikyow, F. Ganss, G. Beddies, M. Albrecht, and I. M. Makogon, J. Appl. Phys., 116, Iss. 4: 044310 (2014)."
+			},
+			{
+				"doi": "10.1016/j.vacuum.2013.07.018",
+				"or":  "I. A. Vladymyrskyi, O. P. Pavlova, T. I. Verbitska, S. I. Sidorenko, G. L. Katona, D. L. Beke, and Iu. M. Makogon, Vacuum, 101: 33 (2014).",
+				"tr":  "I. A. Vladymyrskyi, O. P. Pavlova, T. I. Verbitska, S. I. Sidorenko, G. L. Katona, D. L. Beke, and Iu. M. Makogon, Vacuum, 101: 33 (2014)."
+			},
+			{
+				"doi": "10.15407/mfint.37.04.0487",
+				"or":  "Yu. M. Makogon, O. P. Pavlova, S. I. Sidorenko, T. I. Verbytska, M. Yu. Verbytska, and O. V. Fihurna, Metallofiz. Noveishie Tekhnol., 37, No. 4: 487 (2015).",
+				"tr":  "Yu. M. Makogon, O. P. Pavlova, S. I. Sidorenko, T. I. Verbytska, M. Yu. Verbytska, and O. V. Fihurna, Metallofiz. Noveishie Tekhnol., 37, No. 4: 487 (2015)."
+			},
+			{
+				"doi": "10.1007/s11106-016-9785-0",
+				"or":  "T. I. Verbitskaya, E. V. Figurnaya, M. Yu. Verbitskaya, I. A. Vladymyrskyi, S. I. Sidorenko, E. P. Pavlova, and Yu. N. Makogon, Powder Metall. Met. Ceram., 55, Nos. 1-2: 109 (2016).",
+				"tr":  "T. I. Verbitskaya, E. V. Figurnaya, M. Yu. Verbitskaya, I. A. Vladymyrskyi, S. I. Sidorenko, E. P. Pavlova, and Yu. N. Makogon, Powder Metall. Met. Ceram., 55, Nos. 1-2: 109 (2016)."
+			},
+			{
+				"doi": "10.7566/JPSJ.86.024706",
+				"or":  "M. Lee, R. Takechi, and N. Hosoito, J. Phys. Soc. Jpn., 86: 024706 (2017).",
+				"tr":  "M. Lee, R. Takechi, and N. Hosoito, J. Phys. Soc. Jpn., 86: 024706 (2017)."
+			},
+			{
+				"doi": "10.1063/1.1924889",
+				"or":  "P. Rasmussen, X. Rui, and J. E. Shield, Appl. Phys. Lett., 86, Iss. 19: 191915 (2005).",
+				"tr":  "P. Rasmussen, X. Rui, and J. E. Shield, Appl. Phys. Lett., 86, Iss. 19: 191915 (2005)."
+			},
+			{
+				"doi": "10.1063/1.3153513",
+				"or":  "S. N. Hsiao, F. T. Yuan, H. W. Chang, H. W. Huang, S. K. Chen, and H. Y. Lee, Appl. Phys. Lett., 94, Iss. 23: 232505 (2009).",
+				"tr":  "S. N. Hsiao, F. T. Yuan, H. W. Chang, H. W. Huang, S. K. Chen, and H. Y. Lee, Appl. Phys. Lett., 94, Iss. 23: 232505 (2009)."
+			},
+			{
+				"doi": "10.1109/TMAG.2011.2173660",
+				"or":  "F. T. Yuan, S. H. Liu, W. M. Liao, S. N. Hsiao, S. K. Chen, and H. Y. Lee, IEEE Trans. Magn., 48, Iss. 3: 1139 (2012).",
+				"tr":  "F. T. Yuan, S. H. Liu, W. M. Liao, S. N. Hsiao, S. K. Chen, and H. Y. Lee, IEEE Trans. Magn., 48, Iss. 3: 1139 (2012)."
+			},
+			{
+				"doi": "10.1063/1.3670515",
+				"or":  "S. N. Hsiao, S. H. Liu, S. K. Chen, F. T. Yuan, and H. Y. Lee, J. Appl. Phys., 111, Iss. 7: 07A702 (2012).",
+				"tr":  "S. N. Hsiao, S. H. Liu, S. K. Chen, F. T. Yuan, and H. Y. Lee, J. Appl. Phys., 111, Iss. 7: 07A702 (2012)."
+			},
+			{
+				"doi": "10.1063/1.1819985",
+				"or":  "Ch.-H. Lai, Ch.-H. Yang, C. C. Chiang, T. Balaji, and T. K. Tseng, Appl. Phys. Lett., 85, Iss. 19: 4430 (2004).",
+				"tr":  "Ch.-H. Lai, Ch.-H. Yang, C. C. Chiang, T. Balaji, and T. K. Tseng, Appl. Phys. Lett., 85, Iss. 19: 4430 (2004)."
+			}
+		]
+	}
+}

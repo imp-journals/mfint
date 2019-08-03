@@ -1,0 +1,170 @@
+{
+	"_id":    "MFiNT.39.11.1481",
+	"year":   2017,
+	"volume": 39,
+	"issue":  11,
+	"pages":  [1481,1495],
+	"rubric": 1,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["04.10.2017"],
+	"PACS":   "02.70.Ns, 47.11.Mn, 61.20.Ja, 61.25.Mv, 65.20.Jk, 66.10.cg, 83.10.Rs",
+	"title":   {
+		"ua": "Моделювання структури рідкого стопу Al–0,2% Ti",
+		"en": "Modelling of Structure of a Liquid Al–0.2% Ti Alloy",
+		"ru": "Моделирование структуры жидкого сплава Al–0,2% Ti"
+	},
+	"abstract": {
+		"ua": "Методою молекулярної динаміки побудовано динамічний модель перегрітого твердого та рідкого стопів Al–0,2% мас. Ti за температур від 950 до 1673 К у часовому інтервалі 2$\\cdot$10$^{-9}$ с. Розраховано густину, ентальпію, потенціяльну та повну енергії системи, радіяльні функції розподілу, об’єм і кількість граней многогранників Вороного, координаційні числа та коефіцієнти самодифузії компонентів. Одержані дані зіставлено з літературними. Показано, що у розтопі формуються кластери з центральним атомом Титану. З підвищенням температури стійкість кластерів понижується.",
+		"en": "Molecular dynamics simulation of the overheated solid and liquid Al–0.2 wt.% Ti alloys is carried out within the time interval of 2$\\cdot$10$^{-9}$ s for temperatures from 950 to 1673 K. Density, enthalpy, potential and total energies of the system, radial distribution function, volume and number of faces of the Voronoi polyhedra, coordination numbers, and self-diffusion coefficients of the components are calculated. Our data are compared with literature ones. As shown, the atomic clusters with central Ti atom are formed in the melt. These clusters become less stable with temperature rising.",
+		"ru": "Методом молекулярной динамики построены динамические модели перегретого твёрдого и жидкого сплавов Al–0,2% масс. Ti при температурах от 950 до 1673 К во временном интервале 2$\\cdot$10$^{-9}$ с. Рассчитаны плотность, энтальпия, потенциальная и полная энергии системы, радиальные функции распределения, объём и количество граней многогранников Вороного, координационные числа и коэффициенты самодиффузии компонентов. Полученные данные сопоставлены с литературными. Показано, что в расплаве формируются кластеры с центральным атомом титана. С увеличением температуры устойчивость кластеров снижается."
+	},
+	"keywords": {
+		"ua": "моделювання, молекулярна динаміка, розтоп Al–Ti, структура рідини",
+		"en": "modelling, molecular dynamics, Al–Ti melt, structure of liquid",
+		"ru": "моделирование, молекулярная динамика, расплав Al–Ti, структура жидкости"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Д. С. Каніболоцький", "en": "D. S. Kanibolotsky", "ru": "Д. С. Каниболоцкий"},
+			"OID": [15]
+		},
+		{
+			"AID": {"ua": "О. А. Щерецький", "en": "O. A. Shcheretskyi", "ru": "А. А. Щерецкий"},
+			"OID": [15]
+		},
+		{
+			"AID": {"ua": "М. В. Афанасієв", "en": "M. V. Afanasiev", "ru": "М. В. Афанасиев"},
+			"OID": [15]
+		},
+		{
+			"AID": {"ua": "А. М. Верховлюк", "en": "A. M. Verkhovliuk", "ru": "А. М. Верховлюк"},
+			"OID": [15]
+		}
+	],
+	"references": {
+		"count": 24,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "И. Г. Бродова, П. С. Попель, Н. М. Барбин, Н. А. Ватолин, Расплавы как основа формирования структуры и свойств алюминиевых сплавов (Екатеринбург: УрО РАН: 2005).",
+				"tr":  "I. G. Brodova, P. S. Popel, N. M. Barbin, and N. A. Vatolin, Rasplavy kak Osnova Formirovaniya Struktury i Svoystv Aluminievykh Splavov [Melts as a Base of Aluminium Alloys Structure and Properties Formation] (Yekaterinburg: UrO RAN: 2005) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0370-1573(95)00083-6",
+				"or":  "T. P. Martin, Phys. Rep., 273, Iss. 4: 199 (1996).",
+				"tr":  "T. P. Martin, Phys. Rep., 273, Iss. 4: 199 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Г. Бродова, И. В. Поленц, В. О. Есин, Е. М. Лобов, Физ. мет. металловед., 73, № 1: 84 (1992).",
+				"tr":  "I. G. Brodova, I. V. Polents, V. O. Esin, and E. M. Lobov, Fiz. Met. Metalloved., 73, No. 1: 84 (1992) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Поленц, И. Г. Бродова, Д. В. Башлыков, А. Г. Гудов, Т. И. Яблонских, Расплавы, № 6: 23 (1995).",
+				"tr":  "I. V. Polents, I. G. Brodova, D. V. Bashlykov, A. G. Gudov, and T. I. Yablonskikh, Rasplavy, No. 6: 23 (1995) (in Russian)."
+			},
+			{
+				"doi": "10.1006/jcph.1995.1039",
+				"or":  "S. Plimpton, J. Comput. Phys., 117, Iss. 1: 1 (1995).",
+				"tr":  "S. Plimpton, J. Comput. Phys., 117, Iss. 1: 1 (1995)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.68.024102",
+				"or":  "R. R. Zope and Y. Mishin, Phys. Rev. B, 68, Iss. 2: 024102-1 (2003).",
+				"tr":  "R. R. Zope and Y. Mishin, Phys. Rev. B, 68, Iss. 2: 024102-1 (2003)."
+			},
+			{
+				"doi": "10.1088/1674-1056/22/8/083101",
+				"or":  "Yuan-Yuan Ju, Qing-Ming Zhang, Zi-Zheng Gong, and Guang-Fu Ji, Chin. Phys. B, 22, No. 8: 083101-1 (2013).",
+				"tr":  "Yuan-Yuan Ju, Qing-Ming Zhang, Zi-Zheng Gong, and Guang-Fu Ji, Chin. Phys. B, 22, No. 8: 083101-1 (2013)."
+			},
+			{
+				"doi": "10.1063/1.2149380",
+				"or":  "M. J. Assael, K. Kakosimos, R. M. Banish, J. Brillo, I. Egry, R. Brooks, P. N. Quested, K. C. Mills, A. Nagashima, Y. Sato, and W. A. Wakeham, J. Phys. Chem. Ref. Data, 35, Iss. 1: 285 (2006).",
+				"tr":  "M. J. Assael, K. Kakosimos, R. M. Banish, J. Brillo, I. Egry, R. Brooks, P. N. Quested, K. C. Mills, A. Nagashima, Y. Sato, and W. A. Wakeham, J. Phys. Chem. Ref. Data, 35, Iss. 1: 285 (2006)."
+			},
+			{
+				"doi": "10.1023/A:1022466319501",
+				"or":  "V. Sarou-Kanian, F. Millot, and J. C. Rifflet, Int. J. Thermophys., 24, Iss. 1: 277 (2003).",
+				"tr":  "V. Sarou-Kanian, F. Millot, and J. C. Rifflet, Int. J. Thermophys., 24, Iss. 1: 277 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "NIST-JANAF Thermochemical Tables, http://kinetics.nist.gov/janaf",
+				"tr":  "NIST-JANAF Thermochemical Tables, http://kinetics.nist.gov/janaf"
+			},
+			{
+				"doi": "10.1088/1742-6596/340/1/012077",
+				"or":  "F. Kargl, H. Weis, T. Unruh, and A. Meyer, J. Phys.: Conf. Ser., 340: 012077-1 (2012).",
+				"tr":  "F. Kargl, H. Weis, T. Unruh, and A. Meyer, J. Phys.: Conf. Ser., 340: 012077-1 (2012)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.84.014307",
+				"or":  "F. Demmel, D. Szubrin, W.-C. Pilgrim, and C. Morkel, Phys. Rev. B, 84, Iss. 1: 014307-1 (2011).",
+				"tr":  "F. Demmel, D. Szubrin, W.-C. Pilgrim, and C. Morkel, Phys. Rev. B, 84, Iss. 1: 014307-1 (2011)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.81.5161",
+				"or":  "D. Alfè and M. J. Gillan, Phys. Rev. Lett., 81, Iss. 23: 5161 (1998).",
+				"tr":  "D. Alfè and M. J. Gillan, Phys. Rev. Lett., 81, Iss. 23: 5161 (1998)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.65.184201",
+				"or":  "D. J. González, L. E. González, and J. M. López, Phys. Rev. B, 65, Iss. 18: 184201-1 (2002).",
+				"tr":  "D. J. González, L. E. González, and J. M. López, Phys. Rev. B, 65, Iss. 18: 184201-1 (2002)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(03)00624-5",
+				"or":  "Y. Du, Y. A. Chang, B. Huang, W. Gong, Z. Jin, H. Xu, Z. Yuan, Y. Liu, Y. He, and F.-Y. Xie, Mater. Sci. Eng. A, 363, Iss. 1–2: 140 (2003).",
+				"tr":  "Y. Du, Y. A. Chang, B. Huang, W. Gong, Z. Jin, H. Xu, Z. Yuan, Y. Liu, Y. He, and F.-Y. Xie, Mater. Sci. Eng. A, 363, Iss. 1–2: 140 (2003)."
+			},
+			{
+				"doi": "10.2464/jilm.25.134",
+				"or":  "T. Takahashi, A. Kamio, and A. T. Nguyen, J. Jpn. Inst. Light Met., 25, No. 4: 134 (1975).",
+				"tr":  "T. Takahashi, A. Kamio, and A. T. Nguyen, J. Jpn. Inst. Light Met., 25, No. 4: 134 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "Diffusion and Defect Data (Ed. F. H. Wöhlbier) (Aedermannsdorf, Switzerland: Trans. Tech. Pub.: 1981), Vol. 25, p. 111.",
+				"tr":  "Diffusion and Defect Data (Ed. F. H. Wöhlbier) (Aedermannsdorf, Switzerland: Trans. Tech. Pub.: 1981), Vol. 25, p. 111."
+			},
+			{
+				"doi": "",
+				"or":  "Г. И. Баринов, П. М. Шурыгин, Вакуумные процессы в цветной металлургии (Алма-Ата: Наука Казахской ССР: 1971), с. 156.",
+				"tr":  "G. I. Barinov and P. M. Shurygin, Vakuumnye Protsessy v Tsvetnoy Metallurgii [Vacuum Processes in Nonferrous Metallurgy] (Alma-Ata: Nauka Kazakhskoy SSR: 1971), p. 156 (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2011.11.080",
+				"or":  "R. Novakovic, D. Giuranno, E. Ricci, A. Tuissi, R. Wunderlich, H.-J. Fecht, and I. Egry, Appl. Surf. Sci., 258, Iss. 7: 3269 (2012).",
+				"tr":  "R. Novakovic, D. Giuranno, E. Ricci, A. Tuissi, R. Wunderlich, H.-J. Fecht, and I. Egry, Appl. Surf. Sci., 258, Iss. 7: 3269 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "IAMP Database of SCM-LIQ. Tohoku University, Japan, http://res.tagen.tohoku.ac.jp/~waseda/scm/LIQ/periodic_table.html",
+				"tr":  "IAMP Database of SCM-LIQ. Tohoku University, Japan, http://res.tagen.tohoku.ac.jp/~waseda/scm/LIQ/periodic_table.html"
+			},
+			{
+				"doi": "10.1103/PhysRev.150.34",
+				"or":  "R. R. Fessler, R. Kaplow, and B. L. Averbach, Phys. Rev., 150, Iss. 1: 34 (1966).",
+				"tr":  "R. R. Fessler, R. Kaplow, and B. L. Averbach, Phys. Rev., 150, Iss. 1: 34 (1966)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Hoehler und S. Steeb, Z. Naturforsch. A, 30a: 771 (1975).",
+				"tr":  "J. Hoehler und S. Steeb, Z. Naturforsch. A, 30a: 771 (1975) (in German)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Li, X.-F. Bian, and W.-M. Wang, J. At. Mol. Phys., 17, No. 1: 123 (2000).",
+				"tr":  "H. Li, X.-F. Bian, and W.-M. Wang, J. At. Mol. Phys., 17, No. 1: 123 (2000) (in Chinese)."
+			},
+			{
+				"doi": "10.1063/1.3609925",
+				"or":  "N. A. Mauro, J. C. Bendert, A. J. Vogt, J. M. Gewin, and K. F. Kelton, J. Chem. Phys., 135, Iss. 4: 044502-1 (2011).",
+				"tr":  "N. A. Mauro, J. C. Bendert, A. J. Vogt, J. M. Gewin, and K. F. Kelton, J. Chem. Phys., 135, Iss. 4: 044502-1 (2011)."
+			}
+		]
+	}
+}

@@ -1,0 +1,53 @@
+{
+	"_id":    "MFiNT.39.01.0141",
+	"year":   2017,
+	"volume": 39,
+	"issue":  1,
+	"pages":  [141,141],
+	"rubric": 8,
+	"type":   2,
+	"lang":   "en",
+	"date":   ["?"],
+	"PACS":   "81.15.Kk, 81.15.Dj, 81.15.-z, 81.15.Rs, 81.65.Lp",
+	"title":  {
+		"ua": "Список помилок: Вплив MoZrN-покриття на сталь XC100 [Металлофиз. новейшиетехнол.,38, № 7: 903–909 (2016), DOI: 10.15407/mfint.38.07.0903]",
+		"en": "Erratum: Effect of MoZrN Coating on a Steel XC100 [Metallofiz. Noveishie Tekhnol., 38, No. 7: 903–909 (2016), DOI: 10.15407/mfint.38.07.0903]",
+		"ru": "Список опечаток: Влияние MoZrN-покрытия на сталь XC100 [Металлофиз. новейшиетехнол.,38, № 7: 903–909 (2016), DOI: 10.15407/mfint.38.07.0903]"
+	},
+	"abstract": {
+		"ua": "The title of paper should be changed on: Effect of ZrN Coating on a Steel XC100.",
+		"en": "The title of paper should be changed on: Effect of ZrN Coating on a Steel XC100.",
+		"ru": "The title of paper should be changed on: Effect of ZrN Coating on a Steel XC100."
+	},
+	"keywords": {
+		"ua": "",
+		"en": "",
+		"ru": ""
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. Аббуді", "en": "A. Abboudi", "ru": "А. Аббуди"},
+			"OID": [486]
+		},
+		{
+			"AID": {"ua": "Б. Меддур", "en": "B. Meddour", "ru": "Б. Меддур"},
+			"OID": [487]
+		},
+		{
+			"AID": {"ua": "Б. Черміме", "en": "B. Chermime", "ru": "Б. Чермиме"},
+			"OID": [486]
+		},
+		{
+			"AID": {"ua": "Х. Джебаілі", "en": "H. Djebaili", "ru": "Х. Джебаили"},
+			"OID": [487]
+		},
+		{
+			"AID": {"ua": "М. Бріуа", "en": "M. Brioua", "ru": "М. Бриуа"},
+			"OID": [486]
+		}
+		],
+	"references": {
+		"count": 0,
+		"list":  []
+	}
+}

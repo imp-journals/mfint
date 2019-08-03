@@ -1,0 +1,117 @@
+{
+	"_id":    "MFiNT.40.06.0713",
+	"year":   2018,
+	"volume": 40,
+	"issue":  6,
+	"pages":  [713,728],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["20.11.2017"],
+	"PACS":   "71.10.Fd, 71.20.Eh, 72.10.Bg, 72.15.Eb, 75.10.-b, 75.30.Mb, 75.85.+t",
+	"title":   {
+		"ua": "Електромагнетизм РЗМ. Квантова теорія",
+		"en": "Electromagnetism of REM. Quantum Theory",
+		"ru": "Электромагнетизм РЗМ. Квантовая теория"
+	},
+	"abstract": {
+		"ua": "Магнетоелектричні ефекти в рідкісноземельних металах (РЗМ) виявляються «гігантськими» завдяки великим спіновим ($\\textbf{S}_{\\textbf{r}}$), орбітальним ($\\textbf{L}_{\\textbf{r}}$) і кутовим ($\\textbf{J}_{\\textbf{r}}$) моментам рідкісноземельних йонів (РЗЙ) у вузлах $\\textbf{r}$. Їх унітарний опис є можливим у відображенні багатоелектронних операторних спінорів (БЕОС). Взаємодія зонних (струмових) ферміонів (ЗФ) з флюктуаціями хемічних зв’язків (ФХЗ) домінує у процесах релаксації ЗФ і створює анізотропію спектру ЗФ і поверхонь Фермі. Ґрінові функції для ФХЗ, як Фур’є-образи БЕОС, що розраховані методою вторинного квантування, дають кінцеві вирази часу релаксації $\\tau_k(T, \\textbf{J})$ та ефективних мас $m^*(T, \\textbf{J})$ для ЗФ за температури $T$. Лінійні залежності електроопору (ЕО) $R_{jj}(T)$ і аномального Голлового ефекту $R_{ij}(T)$ від температури $T$ та їхні квадратичні залежності від середнього спіну РЗЙ $S_t(T)$ інтерпретують експерименти для РЗМ. Дається критика напівкласичних і одноелектронних моделів магнетоелектричних ефектів.",
+		"en": "Magnetoelectric effects in rare-earth metals (REM) are ‘giant’ due to large spin ($\\textbf{S}_{\\textbf{r}}$), orbital ($\\textbf{L}_{\\textbf{r}}$), and angle ($\\textbf{J}_{\\textbf{r}}$) moments of rare-earth ions (REI) in sites $\\textbf{r}$. Unitary description of them is possible within the many-electron operator spinors’ (MEOS) representation. The interaction of band (current) fermions (BF) with chemical-bonds’ fluctuations (CBF) prevails in processes of BF relaxation and creates anisotropy of both BF spectra and Fermi surfaces. The Green functions for CBF (as the MEOS Fourier images) calculated by the secondary quantization lead to final expressions for relaxation time $\\tau_k(T, \\textbf{J})$ and effective mass $m^*(T, \\textbf{J})$ of BF at temperature $T$. Linear dependences of electrical resistance $R_{jj}(T)$ and anomalous Hall effect $R_{ij}(T)$ on temperature $T$ and their quadratic dependences on the mean REI-spin $S_t(T)$ interpret experiments for REM. The criticism of semi-classical and one-electron magnetoelectric effects’ models is given.",
+		"ru": "Магнитоэлектрические эффекты в редкоземельных металлах (РЗМ) оказываются «гигантскими» благодаря большим спиновым ($\\textbf{S}_{\\textbf{r}}$), орбитальным ($\\textbf{L}_{\\textbf{r}}$) и угловым ($\\textbf{J}_{\\textbf{r}}$) моментам редкоземельных ионов (РЗИ) в узлах r. Их унитарное описание возможно в представлении многоэлектронных операторных спиноров (МЭОС). Взаимодействие зонных (токовых) фермионов (ЗФ) с флуктуациями химических связей (ФХС) доминирует в процессах релаксации ЗФ и создаёт анизотропию спектра ЗФ и поверхностей Ферми. Функции Грина для ФХС (как фурье-образы МЭОС), рассчитанные методом вторичного квантования, приводят к конечным выражениям времени релаксации $\\tau_k(T, \\textbf{J})$ и эффективных масс $m^*(T, \\textbf{J})$ для ЗФ при температуре $T$. Линейные зависимости электросопротивления (ЭС) $R_{jj}(T)$ и аномального эффекта Холла $R_{ij}(T)$ от температуры $T$ и их квадратичные зависимости от среднего спина РЗИ $S_t(T)$ интерпретируют эксперименты для РЗМ. Даётся критика полуклассических и одноэлектронных моделей магнитоэлектрических эффектов."
+	},
+	"keywords": {
+		"ua": "теорія магнетоелектричних ефектів рідкісноземельних металів (РЗМ), флюктуації хемічних зв’язків (ФХЗ) і розсіяння на них струмових (зонних) ферміонів (ЗФ), анізотропія релаксації та ефективної маси ЗФ",
+		"en": "theory of magnetoelectric effects in rare-earth metals (REM), chemical-bonds’ fluctuations (CBF) and current (band) fermions’ scattering by them, anisotropy of BF relaxation and effective mass",
+		"ru": "теория магнитоэлектрических эффектов редкоземельных металлов (РЗМ), флуктуации химических связей (ФХС) и рассеяние на них токовых (зонных) фермионов (ЗФ), анизотропия релаксации и эффективной массы ЗФ"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. І. Міцек", "en": "O. I. Mitsek", "ru": "А. И. Мицек"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. М. Пушкар", "en": "V. M. Pushkar", "ru": "В. Н. Пушкарь"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 15,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "С. В. Вонсовский, Магнетизм (Москва: Наука: 1984).",
+				"tr":  "S. V. Vonsovsky, Magnetism (Moscow: Nauka: 1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Мицек, Металлофиз. новейшие технол., 23, № 9: 1149 (2001).",
+				"tr":  "A. I. Mitsek, Metallofiz. Noveishie Tekhnol., 23, No. 9: 1149 (2001) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.37.04.0433",
+				"or":  "А. И. Мицек, В. Н. Пушкарь, Металлофиз. новейшие технол., 37, № 4: 433 (2015).",
+				"tr":  "A. I. Mitsek and V. N. Pushkar, Metallofiz. Noveishie Tekhnol., 37, No. 4: 433 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Мицек, В. Н. Пушкарь, Реальные кристаллы с магнитным порядком (Киев: Наукова думка: 1978).",
+				"tr":  "A. I. Mitsek and V. N. Pushkar, Realnye Kristally s Magnitnym Poryadkom [Real Crystals with Magnetic Order] (Kiev: Naukova Dumka: 1978) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.39.04.0425",
+				"or":  "А. И. Мицек, В. Н. Пушкарь, Металлофиз. новейшие технол., 39, № 4: 425 (2017).",
+				"tr":  "A. I. Mitsek and V. N. Pushkar, Metallofiz. Noveishie Tekhnol., 39, No. 4: 425 (2017) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "B. Coqblin, The Electronic Structure of Rare-Earth Metals and Alloys: the Magnetic Heavy Rare-Earths (London–New York–San Francisco: Academic Press: 1977).",
+				"tr":  "B. Coqblin, The Electronic Structure of Rare-Earth Metals and Alloys: The Magnetic Heavy Rare-Earths (London–New York–San Francisco: Academic Press: 1977)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Мицек, Фазовые переходы в кристаллах с магнитной структурой (Киев: Наукова думка: 1989).",
+				"tr":  "A. I. Mitsek, Fazovye Perekhody v Krystallakh s Magnitnoy Strukturoy [Phase Transitions in Crystals with Magnetic Order] (Kiev: Naukova Dumka: 1989) (in Russian)."
+			},
+			{
+				"doi": "10.1002/pssa.2210700253",
+				"or":  "A. V. Andreev, A.V. Deryagin, and S. M. Zadvorkin, phys. status solidi (a), 70, Iss. 2: K113 (1982).",
+				"tr":  "A. V. Andreev, A.V. Deryagin, and S. M. Zadvorkin, phys. status solidi (a), 70, Iss. 2: K113 (1982)."
+			},
+			{
+				"doi": "10.15407/ufm.18.01.001",
+				"or":  "Ю. В. Пустовіт, О. А. Кордюк, Успехи физ. мет., 18, № 1: 1 (2017).",
+				"tr":  "Yu. V. Pustovit and O. A. Korduk, Uspehi Fiz. Met., 18, No. 1: 1 (2017) (in Ukrainian)."
+			},
+			{
+				"doi": "10.3367/UFNr.0120.197611c.0393",
+				"or":  "А. В. Дерягин, УФН, 120, № 11: 393 (1976).",
+				"tr":  "A. V. Deryagin, UFN, 120, No. 11: 393 (1976) (in Russian)."
+			},
+			{
+				"doi": "10.1002/pssa.2210230268",
+				"or":  "A. Deryagin, A. Ulyanov, E. Barabanova, and Y. Bashkov, phys. status solidi (a), 23, Iss. 2: K199 (1974).",
+				"tr":  "A. Deryagin, A. Ulyanov, E. Barabanova, and Y. Bashkov, phys. status solidi (a), 23, Iss. 2: K199 (1974)."
+			},
+			{
+				"doi": "10.1002/pssa.2210230143",
+				"or":  "A. Deryagin, A. Ulyanov, N. Kudrevatykh, E. Barabanova, Y. Bashkov, A. Andreev, and E. Tarasov, phys. status solidi (a), 23, Iss. 1: K15 (1974).",
+				"tr":  "A. Deryagin, A. Ulyanov, N. Kudrevatykh, E. Barabanova, Y. Bashkov, A. Andreev, and E. Tarasov, phys. status solidi (a), 23, Iss. 1: K15 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Дерягин, В. В. Баранов, В. А. Реймер, ЖЭТФ, 73, Вып. 4: 1389 (1977).",
+				"tr":  "A. V. Deryagin, V. V. Baranov, and V. A. Reimer, ZhETF, 73, No. 4: 1389 (1977) (in Russian)."
+			},
+			{
+				"doi": "10.1002/pssa.2210310206",
+				"or":  "A. V. Deryagin, E. A. Barabanova, and A. I. Ulyanov, phys. status solidi (a), 31, Iss. 2, 391 (1975).",
+				"tr":  "A. V. Deryagin, E. A. Barabanova, and A. I. Ulyanov, phys. status solidi (a), 31, Iss. 2: 391 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Дерягин, А. В. Андреев, ЖЭТФ, 71, вып. 3: 1166 (1976).",
+				"tr":  "A. V. Deryagin and A. V. Andreev, ZhETF, 71, No. 3: 1166 (1976) (in Russian)."
+			}
+		]
+	}
+}

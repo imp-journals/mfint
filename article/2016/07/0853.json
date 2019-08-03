@@ -1,0 +1,112 @@
+{
+	"_id":    "MFiNT.38.07.0853",
+	"year":   2016,
+	"volume": 38,
+	"issue":  7,
+	"pages":  [853,866],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["05.04.2016"],
+	"PACS":   "61.50.Ks, 62.20.fg, 64.60.Cn, 71.20.Eh, 75.10.Dg, 75.30.Kz, 75.30.Mb",
+	"title":   {
+		"ua": "Симетрія РЗМ. Парадокс Ce і його стопів. Квантова теорія. 3. Сплави Ce—Al, Fe, Si",
+		"en": "Symmetry of Rare-Earth Metals. Paradox of Cerium and Its Alloys. A Quantum Theory. 3. Ce—Al, Fe, Si Alloys",
+		"ru": "Симметрия РЗМ. Парадокс Ce и его сплавов. Квантовая теория. 3. Сплавы Ce—Al, Fe, Si"
+	},
+	"abstract": {
+		"ua": "Квантова теорія стопів Ce будується в зображенні багатоелектронних операторних спінорів (БЕОС). Стопи Ce$_{1-c}$Al$_{c}$ проявляють ефект пам’яті форми (ЕПФ) як перехід атомного упорядкування (АП). Гістереза ЕПФ розраховується введенням домен АП і стінок (w) між ними.",
+		"en": "The quantum theory of Ce alloys is constructed by the method of the many-electron operator spinors (MEOS). Ce$_{1-c}$Al$_{c}$ alloys show the shape memory effect (SME) as an atomic ordering (AO) transition. AO hysteresis is calculated by introduction of AO domains and their walls (w).",
+		"ru": "Квантовая теория сплавов Ce строится в представлении многоэлектронных операторных спиноров (МЭОС). Сплавы Ce$_{1-c}$Al$_{c}$ проявляют эффект памяти формы (ЭПФ) как переход атомного упорядочения (АП). Гистерезис ЭПФ рассчитывается введением доменов АП и стенок (w) между ними."
+	},
+	"keywords": {
+		"ua": "домени, доменні стінки, ефект пам’яті форми Ce—Al, стабілізація і релаксація доменних стінок, феро-, антиферо- і метамагнетизм стопів Ce—Fe",
+		"en": "domains, domains’ walls, shape memory effect of Ce—Al, stabilization and relaxation of domains’ walls, ferro-, antiferro- and metamag- netism of Ce—Fe alloys",
+		"ru": "домены, доменные стенки, эффект памяти формы Ce—Al, стабилизация и релаксация доменных стенок, ферро-, антиферро- и метамагнетизм сплавов Ce—Fe"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. І. Міцек", "en": "O. I. Mitsek", "ru": "А. И. Мицек"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. М. Пушкар", "en": "V. M. Pushkar", "ru": "В. Н. Пушкарь"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 14,
+		"list":  [
+			{
+				"doi": "10.15407/mfint.37.04.0433",
+				"or":  "А. И. Мицек, В. Н. Пушкарь, Металлофиз. новейшие технол., 37, № 4: 433 (2015).",
+				"tr":  "A. I. Mitsek and V. N. Pushkar, Metallofiz. Noveishie Tekhnol., 37, No. 4: 433 (2015) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.38.03.0285",
+				"or":  "А. И. Мицек, В. Н. Пушкарь, Металлофиз. новейшие технол., 38, № 3: 285 (2016).",
+				"tr":  "A. I. Mitsek and V. N. Pushkar, Metallofiz. Noveishie Tekhnol., 38, No. 3: 285 (2016) (in Russian)."
+			},
+			{
+				"doi": "10.3367/UFNr.0185.201504d.0393",
+				"or":  "В. В. Лидер, Успехи физических наук, 185, № 4: 337 (2015).",
+				"tr":  "V. V. Lider, Uspekhi Fizicheskikh Nauk, 185, No. 4: 337 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Мицек, В. Н. Пушкарь, Металлофиз. новейшие технол., 32, № 11: 1517 (2010).",
+				"tr":  "A. I. Mitsek and V. N. Pushkar, Metallofiz. Noveishie Tekhnol., 32, No. 11: 1517 (2010) (in Russian)."
+			},
+			{
+				"doi": "10.7868/S0015323014120092",
+				"or":  "А. В. Вершинин, В. В. Сериков, Н. М. Клейнерман, Н. В. Мушников, Е. Г. Герасимов, В. С. Гавико, А. В. Прошкин, Физ. мет. металловед., 115, № 12: 1276 (2014).",
+				"tr":  "A. V. Vershinin, V. V. Serikov, N. M. Kleynerman, N. V. Mushnikov, E. G. Gerasimov, V. S. Gaviko, and A. V. Proshkin, Fiz. Met. Metalloved., 115, No. 12: 1276 (2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Вонсовский, Магнетизм (Москва: Наука: 1971).",
+				"tr":  "S. V. Vonsovsky, Magnetizm [Magnetism] (Moscow: Nauka: 1971) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Коваль, С. А. Пономарева, Металлофиз. новейшие технол., 34, № 3: 359 (2012).",
+				"tr":  "Yu. N. Koval' and S. A. Ponomareva, Metallofiz. Noveishie Tekhnol., 34, No. 3: 359 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. П. Ирхин, В. Ю. Ирхин, Электронное строение и физические свойства переходных металлов (Свердловск: Уральский государственный университет: 1989).",
+				"tr":  "Yu. P. Irkhin and V. Yu. Irkhin, Elektronnoe Stroenie i Fizicheskie Svojstva Perekhodnykh Metallov [Electronic Structure and Physical Properties of Transition Metals] (Sverdlovsk: Ural'skiy Gosudarstvennyy Universitet: 1989) (in Russian)."
+			},
+			{
+				"doi": "10.3367/UFNr.0182.201207b.0701",
+				"or":  "А. В. Николаев, А. В. Иващенко, Успехи физических наук, 182, № 7: 701 (2012).",
+				"tr":  "A. V. Nikolaev and A. V. Ivashchenko, Uspekhi Fizicheskikh Nauk, 182, No. 7: 701 (2012) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.16.01.023",
+				"or":  "А. А. Лихачев, Ю. Н. Коваль, Успехи физики металлов, 16, № 1: 23 (2015).",
+				"tr":  "A. A. Likhachev and Yu. N. Koval', Uspekhi Fiziki Metallov, 16, No. 1: 23 (2015) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.109.195705",
+				"or":  "M. J. Lipp, Phys. Rev. Lett., 109, No. 19: 195705 (2012).",
+				"tr":  "M. J. Lipp, Phys. Rev. Lett., 109, No. 19: 195705 (2012)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.109.125501",
+				"or":  "G. Li, Y. Y. Wang, P. K. Liaw, Y. C. Li, and R. P. Liu, Phys. Rev. Lett., 109, No. 12: 125501 (2012).",
+				"tr":  "G. Li, Y. Y. Wang, P. K. Liaw, Y. C. Li, and R. P. Liu, Phys. Rev. Lett., 109, No. 12: 125501 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. М. Рахматуллин, В. В. Павлов, В. В. Семашко, С. Л. Кораблева, ЖЭТФ, 148, № 2: 315 (2015).",
+				"tr":  "R. M. Rakhmatullin, V. V. Pavlov, V. V. Semashko, and S. L. Korableva, ZhETF, 148, No. 2: 315 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Мицек, В. Н. Пушкарь, Реальные кристаллы с магнитным порядком (Киев: Наукова думка: 1978).",
+				"tr":  "A. I. Mitsek and V. N. Pushkar, Real'nye Kristally s Magnitnym Poryadkom [Real Crystal with Magnetic Order] (Kyiv: Naukova Dumka: 1978) (in Russian)."
+			}
+		]
+	}
+}

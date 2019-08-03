@@ -1,0 +1,152 @@
+{
+	"_id":    "MFiNT.36.06.0723",
+	"year":   2014,
+	"volume": 36,
+	"issue":  6,
+	"pages":  [723,734],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["07.04.2014"],
+	"PACS":   "72.10.Fk, 72.15.Eb, 73.25.+i, 73.50.Bk, 73.61.At, 85.40.Xx",
+	"title":   {
+		"ua": "Вплив неоднорідностей поверхні на умови перенесення заряду в ультратонких плівках металів",
+		"en": "Impact of Surface Inhomogeneities on Conditions for Charge Transfer in Ultrathin Films of Metals",
+		"ru": "Влияние неоднородностей поверхности на условия переноса заряда в ультратонких плёнках металлов"
+	},
+	"abstract": {
+		"ua": "У межах Больцманнової моделі розвинуто модель провідності ультратонких плівок металів у режимі квантового перенесення заряду. Флуктуації межі плівки металу радикально змінюють енергетичний спектр електронів у тонкій плівці металу та, відповідно, умови розсіювання носіїв струму в режимі квантового перенесення заряду. У межах розвинутої моделі розраховано розмірну залежність питомої провідності. Підтверджено придатність одержаних виразів для пояснення експериментальних даних. Зокрема, для суцільнометалевих плівок CoSi$_{2}$ результати розрахунку дозволяють кількісно описати експериментальну розмірну залежність питомої провідності та оцінити середню квадратичну амплітуду поверхневих неоднорідностей. У межах перколяційної моделі встановлено мінімальну товщину прояву металевого характеру провідності в ультратонких плівках CoSi$_{2}$, яка становить 2 нм.",
+		"en": "The quantum electronic-transport model of ultrathin-metal-film conductivity is developed within the scope of the Boltzmann theory. The fluctuations of metal-film boundary drastically change electron energy spectrum in thin metal film. These changes determine the conditions of electron scattering in the mode of quantum charge transfer. Size dependence of metal-film conductivity is calculated within the framework of the developed model. Within the scope of our theoretical approach, we can estimate the average amplitude of surface fluctuations in continuous metal films, which has a good agreement with STM surface investigation. The minimum thickness for manifestation of metallic conductivity in CoSi$_{2}$ films is calculated within the framework of the percolation model.",
+		"ru": "В рамках модели Больцмана развита модель проводимости ультратонких плёнок металлов в режиме квантового переноса заряда. Малые изменения границы плёнки металла радикально меняют энергетический спектр электронов в тонкой плёнке металла и, соответственно, условия рассеяния носителей тока в режиме квантового переноса заряда. В рамках развитой модели получена размерная зависимость удельной проводимости металлической плёнки. Установлена пригодность полученных выражений для объяснения экспериментальных данных. В частности, для сплошных металлических плёнок CoSi$_{2}$ результаты расчёта позволяют количественно описать экспериментальную размерную зависимость удельной проводимости и оценить среднюю квадратичную амплитуду поверхностных неоднородностей. В рамках перколяционной модели рассчитана минимальная толщина проявления металлического характера проводимости в ультратонких плёнках CoSi$_{2}$, которая составляет 2 нм."
+	},
+	"keywords": {
+		"ua": "тонкі металеві плівки, поверхневе та зерномежове розсіяння",
+		"en": "thin metal films, surface and grain boundary scattering",
+		"ru": "тонкие металлические плёнки, поверхностное и зернограничное рассеяние"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Р. І. Бігун", "en": "R. I. Bihun", "ru": "Р. И. Бигун"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "З. В. Стасюк", "en": "Z. V. Stasyuk", "ru": "З. В. Стасюк"},
+			"OID": [203]
+		}
+	],
+	"references": {
+		"count": 22,
+		"list":  [
+			{
+				"doi": "10.1088/0953-8984/15/10/101",
+				"or":  "R. Munoz, C. Arenas, G. Kremer, and L. Moraga, J. Phys.: Condens. Matter, 15, No. 3: L177 (2003).",
+				"tr":  "R. Munoz, C. Arenas, G. Kremer, and L. Moraga, J. Phys.: Condens. Matter, 15, No. 3: L177 (2003)."
+			},
+			{
+				"doi": "10.1080/00036810701461238",
+				"or":  "Y. Amirat, G. Chechkin, and R. Gadyl’shin, Applicable Analysis, 86, No. 7: 873 (2007).",
+				"tr":  "Y. Amirat, G. Chechkin, and R. Gadyl'shin, Applicable Analysis, 86, No. 7: 873 (2007)."
+			},
+			{
+				"doi": "10.1006/jmaa.1998.6226",
+				"or":  "G. A. Chechkin, A. Friedman, and A. L. Piatnitski, J. Math. Anal. Appl., 231: 213 (1999).",
+				"tr":  "G. A. Chechkin, A. Friedman, and A. L. Piatnitski, J. Math. Anal. Appl., 231: 213 (1999)."
+			},
+			{
+				"doi": "10.1007/BF02557321",
+				"or":  "D. I. Borisov and R. R. Gadyl’shin, Theor. Math. Phys., 118, No. 3: 272 (1999).",
+				"tr":  "D. I. Borisov and R. R. Gadyl'shin, Theor. Math. Phys., 118, No. 3: 272 (1999)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.54.1840",
+				"or":  "R. T. Tung, J. M. Poate, and F. C. Unterwald, Phys. Rev. Lett., 54, No. 16: 1840 (1985).",
+				"tr":  "R. T. Tung, J. M. Poate, and F. C. Unterwald, Phys. Rev. Lett., 54, No. 16: 1840 (1985)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Д. Бучковська, Р. І. Бігун, З. В. Стасюк, Д. С. Леонов, Металлофиз. новейшие технол., 35, № 12: 1659 (2013).",
+				"tr":  "M. D. Buchkovs'ka, R. I. Bihun, Z. V. Stasyuk, and D. S. Leonov, Metallofiz. Noveishie Tekhnol., 35, No. 12: 1659 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.57.2760",
+				"or":  "Z. Tesanovic, M. Jaric, and S. Maekawa, Phys. Rev. Lett., 57, No. 21: 2760 (1986).",
+				"tr":  "Z. Tesanovic, M. Jaric, and S. Maekawa, Phys. Rev. Lett., 57, No. 21: 2760 (1986)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.38.12298",
+				"or":  "Z. Tesanovic, Solid State Phys., 20, No. 6: L829 (1987); N. Trivedi and N. W. Ashcroft, Phys. Rev. B, 4, No. 17: 12298 (1988).",
+				"tr":  "Z. Tesanovic, Solid State Phys., 20, No. 6: L829 (1987); N. Trivedi and N. W. Ashcroft, Phys. Rev. B, 4, No. 17: 12298 (1988)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.43.11581",
+				"or":  "G. Fishman and D. Calecki, Phys. Rev. Lett., 62, No. 11: 1302 (1989); idem, Phys. Rev. B, 43, No. 14: 11581 (1991).",
+				"tr":  "G. Fishman and D. Calecki, Phys. Rev. Lett., 62, No. 11: 1302 (1989); idem, Phys. Rev. B, 43, No. 14: 11581 (1991)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.51.7325",
+				"or":  "L. Sheng, D. Y. Xing, and Z. D. Wang, Phys. Rev. B, 51, No. 11: 7325 (1995).",
+				"tr":  "L. Sheng, D. Y. Xing, and Z. D. Wang, Phys. Rev. B, 51, No. 11: 7325 (1995)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.61.4514",
+				"or":  "R. Munoz, G. Vida, G. Kremer, L. Moraga, and C. Arenas, J. Phys.: Condens. Matter, 11: 299 (1999); R. Munoz, A. Concha, F. Mora, and R. Espejo, Phys. Rev. B, 61, No. 7: 4514 (2000).",
+				"tr":  "R. Munoz, G. Vida, G. Kremer, L. Moraga, and C. Arenas, J. Phys.: Condens. Matter, 11: 299 (1999); R. Munoz, A. Concha, F. Mora, and R. Espejo, Phys. Rev. B, 61, No. 7: 4514 (2000)."
+			},
+			{
+				"doi": "10.1007/BF01305827",
+				"or":  "G. Fisher and H. Hoffman, Z. Phys. B: Condens. Matter, 39, No. 4: 287 (1980).",
+				"tr":  "G. Fisher and H. Hoffman, Z. Phys. B: Condens. Matter, 39, No. 4: 287 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ф. Огрин, В. Н. Луцкий, М. У. Арифова, В. И. Ковалев, ЖЭТФ, 53, № 4: 1218 (1967).",
+				"tr":  "Yu. F. Ogrin, V. N. Lutskij, M. U. Arifova, and V. I. Kovalev, Zhurn. Eks. Teor. Fiz., 53, No. 4: 1218 (1967) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Сандомирский, ЖЭТФ, 52, № 1: 158 (1967).",
+				"tr":  "V. B. Sandomirskij, Zhurn. Eks. Teor. Fiz., 52, No. 1: 158 (1967) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.38.5272",
+				"or":  "M. Jalochowski and E. Bauer, Phys. Rev. B, 38, No. 8: 5272 (1988); M. Jalochowski and E. Bauer, Phys. Rev. B, 37: 8622 (1988).",
+				"tr":  "M. Jalochowski and E. Bauer, Phys. Rev. B, 38, No. 8: 5272 (1988); M. Jalochowski and E. Bauer, Phys. Rev. B, 37: 8622 (1988)."
+			},
+			{
+				"doi": "10.1088/0953-8984/14/17/302",
+				"or":  "A. Meyerovich and S. Stepaniants, J. Phys. Condens. Matter, 14: 4287 (2002).",
+				"tr":  "A. Meyerovich and S. Stepaniants, J. Phys. Condens. Matter, 14: 4287 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "R. I. Bigun, Yu. A. Kunitsky, and Z. V. Stasyuk, Nanosistemi, Nanomateriali, Nanotehnologii, 8, No. 1: 129 (2010).",
+				"tr":  "R. I. Bigun, Yu. A. Kunitsky, and Z. V. Stasyuk, Nanosistemi, Nanomateriali, Nanotehnologii, 8, No. 1: 129 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "Z. Stasyuk, M. Kozak, B. Penyukh, and R. Bihun, J. Phys. Studies, 7, No. 2: 207 (2003).",
+				"tr":  "Z. Stasyuk, M. Kozak, B. Penyukh, and R. Bihun, J. Phys. Studies, 7, No. 2: 207 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. І. Бігун, З. В. Стасюк, Металлофиз. новейшие технол., 30, № 6: 795 (2008).",
+				"tr":  "R. I. Bigun and Z. V. Stasyuk, Metallofiz. Noveishie Tekhnol., 30, No. 6: 795 (2008) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.76.125408",
+				"or":  "M. Walther, D. Cooke, C. Sherstan, M. Hajar, M. Freeman, and F. Hegmann, Phys. Rev. B, 76: 125408-1–9 (2007).",
+				"tr":  "M. Walther, D. Cooke, C. Sherstan, M. Hajar, M. Freeman, and F. Hegmann, Phys. Rev. B, 76: 125408-1–9 (2007)."
+			},
+			{
+				"doi": "10.1016/0921-4526(90)90349-Y",
+				"or":  "K. H. Han, Z. S. Lim, and Sung-Ik Lee, Physica B, 167: 185 (1990).",
+				"tr":  "K. H. Han, Z. S. Lim, and Sung-Ik Lee, Physica B, 167: 185 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. І. Бігун, М. Д. Бучковська, Н. С. Колтун, З. В. Стасюк, Д. С. Леонов, Металлофиз. новейшие технол., 35, № 1: 85 (2013).",
+				"tr":  "R. I. Bigun, M. D. Buchkovs'ka, N. S. Koltun, Z. V. Stasyuk, and D. S. Leonov, Metallofiz. Noveishie Tekhnol., 35, No. 1: 85 (2013) (in Ukrainian)."
+			}
+		]
+	}
+}

@@ -1,0 +1,157 @@
+{
+	"year":   2016,
+	"volume": 38,
+	"issue":  7,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [853,866],
+			"title": {
+				"ua": "Симетрія РЗМ. Парадокс Ce і його стопів. Квантова теорія. 3. Сплави Ce—Al, Fe, Si",
+				"en": "Symmetry of Rare-Earth Metals. Paradox of Cerium and Its Alloys. A Quantum Theory. 3. Ce—Al, Fe, Si Alloys",
+				"ru": "Симметрия РЗМ. Парадокс Ce и его сплавов. Квантовая теория. 3. Сплавы Ce—Al, Fe, Si"
+			},
+			"autors": {
+				"ua": "О. І. Міцек, В. М. Пушкар",
+				"en": "O. I. Mitsek and V. M. Pushkar",
+				"ru": "А. И. Мицек, В. Н. Пушкарь"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [867,888],
+			"title": {
+				"ua": "Вплив активних хемічних елементів мастильно-охолоджуючих рідин на властивості поверхневих шарів деформованого заліза. II. Електронна структура і характер міжатомових зв’язків примежових областей зерен та їх фраґментів",
+				"en": "Effect of the Active Chemical Elements of Metal-Working Lubricants on Properties of Surface Layers of the Deformed Iron. II. Electronic Structure and Character of Interatomic Bonds of Near-Boundary Areas of Grains and Their Fragments",
+				"ru": "Влияние активных химических элементов смазочно-охлаждающих жидкостей на свойства поверхностных слоёв деформированного железа. II. Электронная структура и характер межатомных связей приграничных областей зёрен и их фрагментов"
+			},
+			"autors": {
+				"ua": "В. В. Тихонович",
+				"en": "V. V. Tykhonovych",
+				"ru": "В. В. Тихонович"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [889,902],
+			"title": {
+				"ua": "Дія змінного магнетного поля на формування поверхневих захисних шарів Fe—Si—B-електродів у аґресивних водних розчинах",
+				"en": "Effect of Alternating Magnetic Field on Formation of Surface Protective Layers on Fe—Si—B-Electrodes in Aggressive Aqueous Solutions",
+				"ru": "Действие переменного магнитного поля на формирование поверхностных защитных слоёв Fe—Si—B-электродов в агрессивных водных растворах"
+			},
+			"autors": {
+				"ua": "О. М. Герцик, Т. Г. Переверзєва, М. О. Ковбуз, Л. М. Бойчишин, В. К. Носенко, О. Ю. Руденко",
+				"en": "O. M. Hertsyk, T. G. Pereverzeva, M. O. Kovbuz, L. M. Boichyshyn, V. K. Nosenko, and O. Yu. Rudenko",
+				"ru": "О. М. Герцик, Т. Г. Переверзева, М. А. Ковбуз, Л. М. Бойчишин, В. К. Носенко, А. Ю. Руденко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [903,909],
+			"title": {
+				"ua": "Вплив MoZrN-покриття на сталь XC100",
+				"en": "Effect of MoZrN Coating on a Steel XC100",
+				"ru": "Влияние MoZrN-покрытия на сталь XC100"
+			},
+			"autors": {
+				"ua": "А. Аббуді, Б. Меддур, Б. Черміме, Х. Джебаілі, М. Бріуа",
+				"en": "A. Abboudi, B. Meddour, B. Chermime, H. Djebaili, and M. Brioua",
+				"ru": "А. Аббуди, Б. Меддур, Б. Чермиме, Х. Джебаили, М. Бриуа"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [911,921],
+			"title": {
+				"ua": "Зміни у структурі багатошарових плівкових нанокомпозицій Sb/B$_{4}$C при нагріві до 360°C",
+				"en": "Changes in the Structure of the Multilayer Film Sb/B$_{4}$C Nanocomposition under Heating up to 360°C",
+				"ru": "Изменения в структуре многослойных плёночных нанокомпозиций Sb/B$_{4}$C при нагреве до 360°C"
+			},
+			"autors": {
+				"ua": "І. А. Копилець, Є. М. Зубарєв, В. В. Кондратенко, В. А. Севрюкова",
+				"en": "I. A. Kopylets, E. M. Zubarev, V. V. Kondratenko, and V. A. Sevryukova",
+				"ru": "И. А. Копылец, Е. Н. Зубарев, В. В. Кондратенко, В. А. Севрюкова"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [923,934],
+			"title": {
+				"ua": "Вплив типу ауксетичности на пружні та непружні характеристики берилію",
+				"en": "Influence of the Type of Auxetic Effect on the Elastic and Inelastic Properties of Beryllium",
+				"ru": "Влияние типа ауксетичности на упругие и неупругие свойства бериллия"
+			},
+			"autors": {
+				"ua": "М. Д. Раранський, А. В. Олійнич-Лисюк, О. Ю. Тащук, Є. І. Курек",
+				"en": "M. D. Rarans’ky, A. V. Oleynich-Lysyuk, O. Yu. Tashchuk, and Ye. I. Kurek",
+				"ru": "Н. Д. Раранский, А. В. Олейнич-Лысюк, А. Ю. Тащук, Е. И. Курек"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [935,952],
+			"title": {
+				"ua": "Вплив фазового складу та мікроструктури на механічну поведінку метастабільних титанових $\\beta$-сплавів Ti—3Al—4,5Fe—7,2Cr і ВT22 при розтягу з різними швидкостями",
+				"en": "Influence of Phase Composition and Microstructure on Mechanical Behaviour of the Metastable Ti—3Al—4.5Fe—7.2Cr and VT22 Titanium $\\beta$-Alloys under Tension with Different Rates",
+				"ru": "Влияние фазового состава и микроструктуры на механическое поведение метастабильных титановых $\\beta$-сплавов Ti—3Al—4,5Fe—7,2Cr и ВT22 при растяжении с различными скоростями"
+			},
+			"autors": {
+				"ua": "П. Є. Марковський, В. І. Бондарчук, О. В. Шепотинник, І. М. Гавриш",
+				"en": "P. E. Markovsky, V. I. Bondarchuk, O. V. Shepotinnyk, and I. M. Gavrysh",
+				"ru": "П. Е. Марковский, В. И. Бондарчук, О. В. Шепотинник, И. М. Гавриш"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [953,967],
+			"title": {
+				"ua": "Параболічна стадійність кривих деформування ОЦК-металів на стиск",
+				"en": "The Parabolic Staging of B.C.C. Metals’ Deformation Curves under Compression",
+				"ru": "Параболическая стадийность кривых деформирования ОЦК-металлов на сжатие"
+			},
+			"autors": {
+				"ua": "Д. Г. Вербило, О. В. Дроздов",
+				"en": "D. G. Verbylo and O. V. Drozdov",
+				"ru": "Д. Г. Вербило, А. В. Дроздов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [969,980],
+			"title": {
+				"ua": "Формування структури кермету на основі карбіду хрому з мідно—ніклево—марґановою зв’язкою",
+				"en": "Structure Formation of the Chromium Carbide-Based Cermet with Copper—Nickel—Manganese Binder",
+				"ru": "Формирование структуры кермета на основе карбида хрома с медно-никелево-марганцевой связкой"
+			},
+			"autors": {
+				"ua": "Л. С. Шлапак, Т. Шіхаб, П. М. Присяжнюк, І. П. Яремій",
+				"en": "L. S. Shlapak, Th. Shihab, P. M. Prysyazhnyuk, and I. P. Yaremiy",
+				"ru": "Л. С. Шлапак, Т. Шихаб, П. Н. Присяжнюк, И. П. Яремий"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [981,993],
+			"title": {
+				"ua": "Аналіз стаціонарного евтектоїдного перетворення у вуглецевій сталі на основі положень нерівноважної термодинаміки",
+				"en": "Analysis of the Stationary Eutectoid Transformation in Carbon Steel on the Basis of Non-Equilibrium Thermodynamics",
+				"ru": "Анализ стационарного эвтектоидного превращения в углеродистой стали на основе положений неравновесной термодинамики"
+			},
+			"autors": {
+				"ua": "С. В. Бобир, В. І. Большаков",
+				"en": "S. V. Bobyr and V. I. Bolshakov",
+				"ru": "С. В. Бобырь, В. И. Большаков"
+			}
+		}
+	]
+}

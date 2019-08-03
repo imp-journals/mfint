@@ -1,0 +1,127 @@
+{
+	"_id":    "MFiNT.40.05.0585",
+	"year":   2018,
+	"volume": 40,
+	"issue":  5,
+	"pages":  [585,592],
+	"rubric": 2,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["05.02.2018"],
+	"PACS":   "32.30.Rj, 32.80.Zb, 34.80.Dp, 78.70.En, 79.20.Ap, 79.20.Kz",
+	"title":   {
+		"ua": "$K_{\\alpha}L^1$-, $K_{\\alpha}L^2$- та $K_{\\alpha}L^3$-рентґенівська емісія алюмінію при електронному ударі",
+		"en": "The $K_{\\alpha}L^1$, $K_{\\alpha}L^2$, and $K_{\\alpha}L^3$ X-Ray Emission of Aluminium under Electron Impact",
+		"ru": "$K_{\\alpha}L^1$-, $K_{\\alpha}L^2$- и $K_{\\alpha}L^3$-рентгеновская эмиссия алюминия при электронном ударе"
+	},
+	"abstract": {
+		"ua": "Відносні інтенсивності $\\gamma = I(K_{\\alpha}L^1)/I(K_{\\alpha_{1,2}})$, $\\eta = I(K_{\\alpha}L^2)/I(K_{\\alpha}L^1)$ та $\\chi = I(K_{\\alpha}L^3)/I(K_{\\alpha}L^1)$ груп рентґенівських емісійних ліній $K_{\\alpha_{1,2}}$, $K_{\\alpha}L^1$, $K_{\\alpha}L^2$ та $K_{\\alpha}L^3$ алюмінію експериментально досліджено при електронному бомбуванні у діяпазоні прискорювальних напруг $U =$ 4,5–100 кВ. Запропоновано модель рентґенівської $K_{\\alpha}$-емісії, яка враховує основні канали розпаду кратно йонізованих $KL^n_{2,3}$-станів. Встановлено, що ймовірності створення станів $KL_{2,3}$-конфіґурації ($P_1$), $KL^2_{2,3}$-конфіґурації ($P_2$) та $KL^3_{2,3}$-конфіґурації ($P_3$) монотонно зменшуються в області енергій бомбівних електронів $E$ > 20 кеВ. Зменшення величин $P_1$, $P_2$ та $P_3$, яке спостерігається експериментально, може бути зумовленим зменшенням середньої енергії, що передається атому при електрон-атомному зіткненні. Ймовірності $P_2$ та $P_3$ значно перевищують (від 1,6 до 2,5 разів) відповідні значення, визначені у наближенні миттєвого незалежного вильоту двох і трьох $2p$-електронів, що свідчить про істотну роль $2p–2p$-електронних кореляцій у процесах $KL^n_{2,3}$-йонізації. Показано, що відношення $P_{21} = P_{2}/P_{1}$ та $P_{31} = P_{3}/P_{1}$ зберігаються практично сталими в усьому діяпазоні прискорювальних напруг і є параметрами, що характеризують величину $2p–2p$-електронних кореляцій.",
+		"en": "The relative intensities, $\\gamma = I(K_{\\alpha}L^1)/I(K_{\\alpha_{1,2}})$, $\\eta = I(K_{\\alpha}L^2)/I(K_{\\alpha}L^1)$ and $\\chi = I(K_{\\alpha}L^3)/I(K_{\\alpha}L^1)$, of x-ray emission $K_{\\alpha_{1,2}}$, $K_{\\alpha}L^1$, $K_{\\alpha}L^2$, and $K_{\\alpha}L^3$ lines’ groups of aluminium are experimentally studied under the excitation by electron impact in the range of accelerating voltages $U =$ 4.5–100 kV. The model of $K_{\\alpha}$ x-ray emission has been proposed and takes into account the main channels of multiply ionized $KL^n_{2,3}$ states’ decay. As found, the probabilities of creation of $KL_{2,3}$ configuration ($P_1$), $KL^2_{2,3}$ configuration ($P_2$) and $KL^3_{2,3}$ configuration ($P_3$) monotonically decrease when bombarding-electron energy $E$ > 20 keV. The observed decrease of the $P_1$, $P_2$ and $P_3$ values can be explained by decreasing of the average energy transferred to the atom in electron–atom collision. The $P_2$ and $P_3$ probabilities significantly exceed (by 1.6 to 2.5 times) their values predicted within the shake-off approximation of simultaneous independent ejecting of two and three $2p$ electrons that indicates a significant role of the $2p–2p$ electron correlations in $KL^n_{2,3}$ ionization processes. As shown, the $P_{21} = P_{2}/P_{1}$ and $P_{31} = P_{3}/P_{1}$ ratios are practically constant in the whole range of accelerating voltages and are the parameters characterizing the values of $2p–2p$ electron correlations.",
+		"ru": "Относительные интенсивности $\\gamma = I(K_{\\alpha}L^1)/I(K_{\\alpha_{1,2}})$, $\\eta = I(K_{\\alpha}L^2)/I(K_{\\alpha}L^1)$ и $\\chi = I(K_{\\alpha}L^3)/I(K_{\\alpha}L^1)$ групп рентгеновских эмиссионных линий $K_{\\alpha_{1,2}}$, $K_{\\alpha}L^1$, $K_{\\alpha}L^2$ и $K_{\\alpha}L^3$ алюминия экспериментально исследованы при электронной бомбардировке в диапазоне ускоряющих напряжений $U =$ 4,5–100 кВ. Предложена модель рентгеновской $K_{\\alpha}$-эмиссии, которая учитывает основные каналы распада кратно ионизированных $KL^n_{2,3}$-состояний. Установлено, что вероятности создания состояний $KL_{2,3}$-конфигурации ($P_1$), $KL^2_{2,3}$-конфигурации ($P_2$) и $KL^3_{2,3}$-конфигурации ($P_3$) монотонно уменьшаются в области энергий бомбардирующих электронов $E$ > 20 кэВ. Уменьшение величин $P_1$, $P_2$ и $P_3$, наблюдаемое экспериментально, может быть обусловлено уменьшением средней энергии, которая передаётся атому при электрон-атомном столкновении. Вероятности $P_2$ и $P_3$ значительно превышают (от 1,6 до 2,5 раза) соответствующие значения, определённые в приближении мгновенного независимого вылета двух и трёх $2p$-электронов, что свидетельствует о существенной роли $2p–2p$-электронных корреляций в процессах $KL^n_{2,3}$-ионизации. Показано, что отношения $P_{21} = P_{2}/P_{1}$ и $P_{31} = P_{3}/P_{1}$ сохраняются практически постоянными во всем диапазоне ускоряющих напряжений и являются параметрами, которые характеризуют величину $2p–2p$-электронных корреляций."
+	},
+	"keywords": {
+		"ua": "$K_{\\alpha}$ рентґенівська емісія, кратно йонізовані $KL^n_{2,3}$-стани, $2p–2p$-електронні кореляції",
+		"en": "$K_{\\alpha}$ x-ray emission, multiply ionized $KL^n_{2,3}$ states, $2p–2p$ electron correlations",
+		"ru": "$K_{\\alpha}$-рентгеновская эмиссия, кратно ионизированные $KL^n_{2,3}$-состояния, $2p–2p$-электронные корреляции"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. А. М. Аль-Омарі", "en": "M. A. M. Al-Omari", "ru": "М. А. М. Аль-Омари"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "М. О. Боровий", "en": "M. O. Borovyi", "ru": "Н. А. Боровой"},
+			"OID": [201]
+		}
+	],
+	"references": {
+		"count": 17,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "V. P. Sachenko and V. F. Demekhin, ZhETF, 3, No. 49: 765 (1965) (in Russian).",
+				"tr":  "V. P. Sachenko and V. F. Demekhin, ZhETF, 3, No. 49: 765 (1965) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0168-583X(02)01278-8",
+				"or":  "M. Kavčič, M. Budnar, and J. L. Campbell, Nucl. Instrum. Meth. B, 196, Nos. 1–2: 16 (2002).",
+				"tr":  "M. Kavčič, M. Budnar, and J. L. Campbell, Nucl. Instrum. Meth. B, 196, Nos. 1–2: 16 (2002)."
+			},
+			{
+				"doi": "10.1103/PhysRevA.74.022718",
+				"or":  "V. Horvat, R. L. Watson, and Yong Peng, Phys. Rev. A, 74, No. 2: 022718 (2006).",
+				"tr":  "V. Horvat, R. L. Watson, and Yong Peng, Phys. Rev. A, 74, No. 2: 022718 (2006)."
+			},
+			{
+				"doi": "10.1016/0168-9002(96)00262-8",
+				"or":  "J. Hoszovska, J.-Cl. Dousse, J. Kern, and Ch. Rheme, Nucl. Instrum. Meth. A, 376: 129 (1996).",
+				"tr":  "J. Hoszovska, J.-Cl. Dousse, J. Kern, and Ch. Rheme, Nucl. Instrum. Meth. A, 376: 129 (1996)."
+			},
+			{
+				"doi": "10.1103/PhysRevA.36.693",
+				"or":  "T. Mukoyama and K. Taniguchi, Phys. Rev. A, 36, No. 2: 693 (1987).",
+				"tr":  "T. Mukoyama and K. Taniguchi, Phys. Rev. A, 36, No. 2: 693 (1987)."
+			},
+			{
+				"doi": "10.1088/0953-4075/35/2/315",
+				"or":  "A. G. Kochur and V. A. Popov, J. Phys. B, 35: 395 (2002).",
+				"tr":  "A. G. Kochur and V. A. Popov, J. Phys. B, 35: 395 (2002)."
+			},
+			{
+				"doi": "10.1134/S0030400X0605002X",
+				"or":  "A. G. Kochur, A. I. Dudenko, and D. Petrini, Optics and Spectroscopy, 100, No. 5: 645 (2006).",
+				"tr":  "A. G. Kochur, A. I. Dudenko, and D. Petrini, Optics and Spectroscopy, 100, No. 5: 645 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "N. A. Borovoy, V.V. Ivanov, and V. I. Shiyanovskii, Optics and Spectroscopy, 86, No. 1: 11 (1999).",
+				"tr":  "N. A. Borovoy, V.V. Ivanov, and V. I. Shiyanovskii, Optics and Spectroscopy, 86, No. 1: 11 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "N. A. Borovoy, V. V. Ivanov, V. F. Surzhko, and V. I. Shiyanovskii, Ukr. Journ. Phys., 46, No. 1: 70 (2001).",
+				"tr":  "N. A. Borovoy, V. V. Ivanov, V. F. Surzhko, and V. I. Shiyanovskii, Ukr. Journ. Phys., 46, No. 1: 70 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Y. Amusia, Protsessy v Mnogoelectronnykh Atomakh [Processes in Multielectron Atoms] (St. Petersburg: Nauka: 2006) (in Russian).",
+				"tr":  "M. Y. Amusia, Protsessy v Mnogoelectronnykh Atomakh [Processes in Multielectron Atoms] (St. Petersburg: Nauka: 2006) (in Russian)."
+			},
+			{
+				"doi": "10.1088/0031-8949/28/2/008",
+				"or":  "E. Mikkola and O. Keski-Rahkonen, Phys. Scr., 28: 188 (1983).",
+				"tr":  "E. Mikkola and O. Keski-Rahkonen, Phys. Scr., 28: 188 (1983)."
+			},
+			{
+				"doi": "10.1088/0031-8949/28/2/007",
+				"or":  "O. Keski-Rahkonen, K. Reinikainen, and E. Mikkola, Phys. Scr., 28: 179 (1983).",
+				"tr":  "O. Keski-Rahkonen, K. Reinikainen, and E. Mikkola, Phys. Scr., 28: 179 (1983)."
+			},
+			{
+				"doi": "10.1134/1.1130101",
+				"or":  "N. A. Borovoi and Yu. P. Gololobov, Phys. Sol. State, 39, No. 9: 1474 (1997).",
+				"tr":  "N. A. Borovoi and Yu. P. Gololobov, Phys. Sol. State, 39, No. 9: 1474 (1997)."
+			},
+			{
+				"doi": "10.1080/00150193.2015.1059716",
+				"or":  "A. Salnik, Yu. P. Gololobov, and N. A. Borovoy, Ferroelectrics, 484: 62 (2015).",
+				"tr":  "A. Salnik, Yu. P. Gololobov, and N. A. Borovoy, Ferroelectrics, 484: 62 (2015)."
+			},
+			{
+				"doi": "10.1063/1.555595",
+				"or":  "M. O. Krause and J. H. Oliver, J. Phys. Chem. Ref. Data, 8, No. 2: 329 (1979).",
+				"tr":  "M. O. Krause and J. H. Oliver, J. Phys. Chem. Ref. Data, 8, No. 2: 329 (1979)."
+			},
+			{
+				"doi": "10.1063/1.555594",
+				"or":  "M. O. Krause, J. Phys. Chem. Ref. Data, 8, No. 2: 307 (1979).",
+				"tr":  "M. O. Krause, J. Phys. Chem. Ref. Data, 8, No. 2: 307 (1979)."
+			},
+			{
+				"doi": "10.1016/0092-640X(79)90037-8",
+				"or":  "M. H. Chen and B. Crasemann, Atom. Data Nucl. Data Tabl., 8: 13 (1979).",
+				"tr":  "M. H. Chen and B. Crasemann, Atom. Data Nucl. Data Tabl., 8: 13 (1979)."
+			}
+		]
+	}
+}

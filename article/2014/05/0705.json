@@ -1,0 +1,63 @@
+{
+	"_id":    "MFiNT.36.05.0705",
+	"year":   2014,
+	"volume": 36,
+	"issue":  5,
+	"pages":  [705,711],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["08.04.2014"],
+	"PACS":   "81.30.Mh, 83.10.Tv, 87.15.Vv, 87.17.-d, 87.17.Ee",
+	"title":   {
+		"ua": "Кінетика зародкування за комірчастого розпаду твердих розчинів в стопах системи мідь—титан",
+		"en": "The Kinetics of Nucleation During Cellular Decomposition of Solid Solutions in Copper—Titanium Alloys",
+		"ru": "Кинетика образования зародышей при ячеистом распаде твёрдых растворов в сплавах системы медь—титан"
+	},
+	"abstract": {
+		"ua": "В температурному інтервалі 848—973 К досліджено кінетику зародкування під час комірчастого розпаду в стопах міді з 3,68—6,00 ат.% титану. Методом кількісної статистичної металографії одержано величини кількості комірок $N$ на одиницю об’єму за різного часу старіння. В комплексі основних параметрів кінетики утворення комірок визначено: кількість ймовірних потенційних місць $\\bar{N}$ утворення комірок в одиницю часу, частоту $v_{S}$ актів утворення комірок в одиницю часу та період нестаціонарності даного процесу. Разом з тим визначено швидкості утворення комірок $\\dot{N}$ за різних температур старіння та побудовано їхні часові залежності, за допомогою яких показано нестаціонарний характер даної величини.",
+		"en": "Kinetics of cells’ nucleation at cellular decomposition of solid solutions in copper alloys with 3.68—6.00 at.% of titanium is investigated within the temperature range of 848—973 К. Values of cells number per unit volume, $N$, at various times of ageing are obtained, using numerical statistical metallography. Among main parameters of kinetics of cells’ nucleation, namely, a number of probable potential places of cells’ nucleation per time unit, $\\bar{N}$, frequency of acts of cells’ formation per time unit, $v_{S}$, and period of instability of this process are determined. The cells’ formation rates, $\\dot{N}$, at various ageing temperatures are determined, and their temperature dependences are plotted. These dependences demonstrate nonstationary nature of this value.",
+		"ru": "В температурном интервале 848—973 К изучена кинетика зарождения при ячеистом распаде твёрдых растворов в сплавах меди с 3,68—6,00 ат.% титана. Методом количественной статистической металлографии получены величины количества ячеек $N$ на единицу объёма при разном времени старения. В комплексе основных параметров кинетики образования ячеек определены: количество вероятных потенциальных мест $\\bar{S}$ зарождения ячеек в единицу времени, частота $v_{S}$ актов образования ячеек в единицу времени и период нестационарности данного процесса. Вместе с тем определены скорости образования ячеек $\\dot{N}$ при разных температурах старения и построены их временные зависимости, с помощью которых показан нестационарный характер данной величины."
+	},
+	"keywords": {
+		"ua": "зародкування, швидкість утворення комірок, період нестаціонарності, комірчастий розпад, відпал",
+		"en": "nucleation, cells’ formation rate, cellular decomposition, period of instability, annealing",
+		"ru": "зародышеобразование, скорость образования ячеек, период нестационарности, ячеистый распад, отжиг"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Т. С. Гаценко", "en": "T. S. Gatsenko", "ru": "Т. С. Гаценко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 5,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "К. В. Чуистов, Республиканский межведомственный сборник «Металлофизика» (Киев: Наукова думка: 1970), вып. 32, с. 38.",
+				"tr":  "K. V. Chuistov, Respublikanskiy Mezhvedomstvennyy Sbornik 'Metallofizika' (Kiev: Naukova Dumka: 1970), Iss. 32, p. 38 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Лариков, О. А. Шматко, Ячеистый распад пересыщенных твёрдых растворов (Киев: Наукова думка: 1976).",
+				"tr":  "L. N. Larikov and O. A. Shmatko, Yacheistyy Raspad Peresyshchennykh Tvyordykh Rastvorov (Cellular Precipitation of the Supersaturated Solid Solutions) (Kiev: Naukova Dumka: 1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Turnbull and H. N. Treaftis, Trans. Met. Soc. AIME, 212, Nо. 1: 33 (1958).",
+				"tr":  "D. Turnbull and H. N. Treaftis, Trans. Met. Soc. AIME, 212, No. 1: 33 (1958)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. Б. Зельдович, ЖЭТФ, 12, № 11–12: 525 (1942).",
+				"tr":  "Ya. B. Zeldovich, Zh. Ehksp. Teor. Fiz., 12, Nos. 11–12: 525 (1942) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0001-6160(56)90041-4",
+				"or":  "J. W. Cahn, Acta Met., 4, Nо. 5: 449 (1956).",
+				"tr":  "J. W. Cahn, Acta Met., 4, No. 5: 449 (1956)."
+			}
+		]
+	}
+}

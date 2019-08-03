@@ -1,0 +1,100 @@
+{
+	"_id":    "MFiNT.40.10.1273",
+	"year":   2018,
+	"volume": 40,
+	"issue":  10,
+	"pages":  [1273,1282],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["17.06.2018"],
+	"PACS":   "74.25.fc, 74.25.Uv, 74.78.Fk, 74.81.Fa, 85.25.Am, 85.25.Cp",
+	"title":   {
+		"ua": "Нелінійна динаміка квантових вихорів у довгих Джозефсонових переходах",
+		"en": "Nonlinear Dynamics of Quantum Vortices in Long Josephson Junctions",
+		"ru": "Нелинейная динамика квантовых вихрей в длинных джозефсоновских переходах"
+	},
+	"abstract": {
+		"ua": "Проаналізовано ефективність двох метод контролю нелінійної динаміки квантових топологічних структур (вихорів) у довгому Джозефсоновому контакті: (а) за допомогою крайової струмової інжекції та (б) за наявности стопки з двох довгих Джозефсонових переходів. В першому випадку розроблено та реалізовано нову, більш стійку й добре відтворювану методику одержання відповідних гетероструктур із додатковою плівкою надпровідного стопу молібдену з ренієм і більш якісним діелектричним прошарком з оксиду олова. Експериментально показано, що при зростанні струмової інжекції на вольт-амперній характеристиці з’являється ділянка від’ємного диференційного опору. В другому випадку теоретично продемонстровано появу на вольт-амперній кривій ділянки «зворотнього вигину» та перехід у резистивний стан з напругою, близькою до щілинної, через виникнення в сусідньому переході пари флюксон–антифлюксон.",
+		"en": "The effectiveness of two methods for controlling the nonlinear dynamics of quantum topological vortex structures in a long Josephson junction is analysed: (a) by means of edge current injection and (b) with a stack of two long Josephson junctions. In the first case, a new, more stable and well reproducible technique for obtaining corresponding heterostructures with an additional layer of a superconducting molybdenum–rhenium alloy and a higher-quality dielectric tin-oxide layer is developed and implemented. As experimentally shown, a negative-differential-resistance region on the current– voltage characteristic arises with increasing the current injection. In the second case, the appearance of a ‘back bend’ region on a current–voltage characteristic and the transition to a resistive state with a voltage close to the gap one due to the emergence of a flux–antifluxon pair in the adjacent junction is demonstrated theoretically.",
+		"ru": "Проанализирована эффективность двух методов управления нелинейной динамикой квантовых топологических структур (вихрей) в длинном джозефсоновском контакте: (а) с помощью краевой токовой инжекции и (б) при наличии стопки из двух длинных джозефсоновских переходов. В первом случае разработана и реализована новая, более стойкая и хорошо воспроизводимая методика получения соответствующих гетероструктур с дополнительной плёнкой сверхпроводящего сплава молибдена с рением и более качественной диэлектрической прослойкой из оксида олова. Экспериментально показано, что с ростом токовой инжекции на вольт-амперной характеристике появляется участок отрицательного дифференциального сопротивления. Во втором случае теоретически продемонстрировано появление на вольт-амперной кривой участка «обратного изгиба» и перехода в резистивное состояние с напряжением, близким к щелевому, из-за возникновения в соседнем переходе пары флюксон–антифлюксон."
+	},
+	"keywords": {
+		"ua": "довгий Джозефсонів перехід, квантові вихори, нелінійна динаміка, крайова струмова інжекція",
+		"en": "long Josephson junction, quantum vortices, nonlinear dynamics, edge current injection",
+		"ru": "длинный джозефсоновский переход, квантовые вихри, нелинейная динамика, краевая токовая инжекция"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Е. М. Руденко", "en": "E. M. Rudenko", "ru": "Э. М. Руденко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "І. В. Короташ", "en": "I. V. Korotash", "ru": "И. В. Короташ"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. О. Краковний", "en": "A. O. Krakovnyy", "ru": "А. А. Краковный"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. О. Білоголовський", "en": "M. O. Bilogolovskyy", "ru": "М. А. Белоголовский"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 10,
+		"list":  [
+			{
+				"doi": "10.1007/978-3-319-48433-4",
+				"or":  "I. Askerzade, A. Bozbey, and M. Cantürk, Modern Aspects of Josephson Dynamics and Superconductivity Electronics (Berlin: Springer: 2017).",
+				"tr":  "I. Askerzade, A. Bozbey, and M. Cantürk, Modern Aspects of Josephson Dynamics and Superconductivity Electronics (Berlin: Springer: 2017)."
+			},
+			{
+				"doi": "10.1063/1.353095",
+				"or":  "S. Sakai, P. Bodin, and N. F. Pederse, J. Appl. Phys., 73, No. 5: 2411 (1993).",
+				"tr":  "S. Sakai, P. Bodin, and N. F. Pederse, J. Appl. Phys., 73, No. 5: 2411 (1993)."
+			},
+			{
+				"doi": "10.1063/1.363671",
+				"or":  "A. Wallraff, E. Goldobin, and A. V. Ustinov, J. Appl. Phys., 80, No. 11: 6523 (1996).",
+				"tr":  "A. Wallraff, E. Goldobin, and A. V. Ustinov, J. Appl. Phys., 80, No. 11: 6523 (1996)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.42.3976",
+				"or":  "N. Grønbech-Jensen, M. R. Samuelsen, P. S. Lomdahl, and J. A. Blackburn, Phys. Rev. B, 42, No. 7: 3976 (1990).",
+				"tr":  "N. Grønbech-Jensen, M. R. Samuelsen, P. S. Lomdahl, and J. A. Blackburn, Phys. Rev. B, 42, No. 7: 3976 (1990)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.56.5572",
+				"or":  "V. P. Koshelets, S. V. Shitov, A. V. Shchukin, L. V. Filippenko, J. Mygind, and A. V. Ustinov, Phys. Rev. B, 56, No. 9: 5572 (1997).",
+				"tr":  "V. P. Koshelets, S. V. Shitov, A. V. Shchukin, L. V. Filippenko, J. Mygind, and A. V. Ustinov, Phys. Rev. B, 56, No. 9: 5572 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. М. Руденко, И. П. Невирковец, А. В. Устинов, Физика низких температур, 14, № 11: 1134 (1988).",
+				"tr":  "E. M. Rudenko, I. P. Nevirkovets, and A. V. Ustinov, Fizika Nizkikh Temperatur, 14, No. 11: 1134 (1988) (in Russian)."
+			},
+			{
+				"doi": "10.1007/BF00681709",
+				"or":  "J. Talvacchio, M. A. Janocko, and J. Greggi, J. Low Temp. Phys., 64, Nos. 5/6: 395 (1986).",
+				"tr":  "J. Talvacchio, M. A. Janocko, and J. Greggi, J. Low Temp. Phys., 64, Nos. 5/6: 395 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "K. K. Likharev, Dynamics of Josephson Junctions and Circuits (London: Taylor and Francis: 1992).",
+				"tr":  "K. K. Likharev, Dynamics of Josephson Junctions and Circuits (London: Taylor and Francis: 1992)."
+			},
+			{
+				"doi": "10.1007/BF00683460",
+				"or":  "S. Pace and U. Gambardella, J. Low Temp. Phys., 62, Nos. 3/4: 197 (1986).",
+				"tr":  "S. Pace and U. Gambardella, J. Low Temp. Phys., 62, Nos. 3/4: 197 (1986)."
+			},
+			{
+				"doi": "10.1109/TASC.2016.2535141",
+				"or":  "V. Lacquaniti, C. Cassiago, N. De Leo, M. Fretto, A. Sosso, P. Febvre, M. Belogolovskii, and P. Seidel, IEEE Trans. Appl. Supercond., 26, No. 3: 1100505 (2016).",
+				"tr":  "V. Lacquaniti, C. Cassiago, N. De Leo, M. Fretto, A. Sosso, P. Febvre, M. Belogolovskii, and P. Seidel, IEEE Trans. Appl. Supercond., 26, No. 3: 1100505 (2016)."
+			}
+		]
+	}
+}

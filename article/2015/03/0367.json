@@ -1,0 +1,49 @@
+{
+	"_id":    "MFiNT.37.0367",
+	"year":   2015,
+	"volume": 37,
+	"issue":  3,
+	"pages":  [367,378],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["06.10.2014","15.02.2015"],
+	"PACS":   "61.25.Mv, 61.66.Dk, 68.70.+w, 81.10.Fq, 81.30.Fb, 81.40.Ef",
+	"title":  {
+		"ua": "Модифікування заевтектичних силумінів обробкою розплаву імпульсним електричним струмом",
+		"en": "Modifying of Hypereutectic Silumins by Melt Treatment with Pulse Electric Current",
+		"ru": "Модифицирование заэвтектических силуминов обработкой расплава импульсным электрическим током"
+	},
+	"abstract": {
+		"ua": "Розроблено спосіб модифікування заевтектичних силумінів оброблянням розтопу однополярним імпульсним електричним струмом з періодичною (циклічною) зміною частоти. Внаслідок такого впливу при твердінні розтопу, що охолоджується зі швидкістю 0,3 К/с, придушується виділення первинних кристалів кремнію. Крихкий алюмінійовий стоп із вмістом кремнію у 15—18% мас. набуває пластичних властивостей на рівні алюмінію марки А0.",
+		"en": "The method for modifying of hypereutectic silumins by the melt treatment with unipolar-pulsed electric current with the periodic (cyclic) frequency variation is designed. As a result of such exposure, the development of primary silicon crystals is suppressed during the melt solidification process with a cooling rate of 0.3 K/s. Fragile aluminium alloy with a silicon content of 15—18 wt.% acquires such plastic properties as A0 aluminium.",
+		"ru": "Разработан способ модифицирования заэвтектических силуминов обработкой расплава однополярным импульсным электрическим током с периодическим (циклическим) изменением частоты. В результате такого воздействия при затвердевании расплава, охлаждающегося со скоростью 0,3 К/с, подавляется выделение первичных кристаллов кремния. Хрупкий алюминиевый сплав с содержанием кремния 15—18% масс. приобретает пластические свойства на уровне алюминия марки А0."
+	},
+	"keywords": {
+		"ua": "морфологія фаз, наноструктура, заевтектичний силумін, імпульсний електричний струм",
+		"en": "morphology of phases, nanostructure, hypereutectic silumin, pulsed electric current",
+		"ru": "морфология фаз, наноструктура, заэвтектический силумин, импульсный электрический ток"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. С. Петров", "en": "S. S. Petrov", "ru": "С. С. Петров"},
+			"OID": [223]
+		},
+		{
+			"AID": {"ua": "А. Г. Пригунова", "en": "A. G. Prigunova", "ru": "А. Г. Пригунова"},
+			"OID": [15]
+		},
+		{
+			"AID": {"ua": "С. В. Пригунов", "en": "S. V. Prigunov", "ru": "С. В. Пригунов"},
+			"OID": [223]
+		},
+		{
+			"AID": {"ua": "Д. М. Ключник", "en": "D. N. Klyuchnik", "ru": "Д. Н. Ключник"},
+			"OID": [223]
+		}
+	],
+	"references": {
+		"count": 21,
+		"list":  []
+	}
+}

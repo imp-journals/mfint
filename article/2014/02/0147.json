@@ -1,0 +1,399 @@
+{
+	"_id":    "MFiNT.36.02.0147",
+	"year":   2014,
+	"volume": 36,
+	"issue":  2,
+	"pages":  [147,174],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["02.10.2013", "14.01.2014"],
+	"PACS":   "61.72.sd, 64.70.kd, 64.75.Bc, 88.30.rd",
+	"title":   {
+		"ua": "Термічне поетапне дегідрування аланату кальцію Ca(AlH$_{4}$)$_{2}$. Фазовий склад системи в процесі дегідрування",
+		"en": "Thermal Gradual Dehydrogenation of Calcium Alanate Ca(AlH$_{4}$)$_{2}$. The System Phase Composition During the Process of Dehydrogenation",
+		"ru": "Термическое поэтапное дегидрирование аланата кальция Ca(AlH$_{4}$)$_{2}$. Фазовый состав системы в процессе дегидрирования"
+	},
+	"abstract": {
+		"ua": "Розроблено статистичну теорію термічного поетапного розпаду аланату кальцію з виділенням водню. Розраховано вільні енергії усіх складових фаз хімічних реакцій залежно від температури, концентрації атомів водню, їх активності і значень енергетичних параметрів системи. Одержано умови термодинамічної рівноваги всіх фаз, що визначають температурну залежність концентрації водню. З використанням літературних експериментальних даних оцінено чисельні значення енергетичних констант. Побудовано графіки температурної залежності розчинності водню у фазах, на яких проявляються злами або вигини в точках фазових переходів. Одержано графік температурної залежності виділення водню в системі із зростанням температури. Проведено порівняння чисельних значень вільних енергій фаз в точках фазових перетворень, що підтверджує експериментально виявлений фазовий склад системи, тобто можливість реалізації кожної фази у певних температурних і концентраційних за воднем інтервалах.",
+		"en": "The statistical theory of thermal stage-by-stage decomposition of calcium alanate with the release of hydrogen is developed. The calculation of free energies of all constituent phases of chemical reactions is performed on the basis of molecular-kinetic theory. Their dependences on temperature, hydrogen-atoms’ concentration and activity, values of energy parameters of the system are determined. The conditions of thermodynamic equilibrium of all phases determining the temperature dependence of hydrogen concentration are found. The numerical values of energy constants are evaluated, using the literature experimental data. The plots of temperature dependence of hydrogen solubility in the studied phases are constructed with the curve breaks and bends at the points of transitions between phases. The plot of temperature dependence of hydrogen extraction from the system with the temperature rise is obtained. The comparison of numerical values of free energies of phases in the points of phase transformations is performed that confirms the experimentally revealed phase composition of the system, i.e. the possibility of each phase realization in the certain temperature and hydrogen-concentration ranges.",
+		"ru": "Разработана статистическая теория термического поэтапного распада аланата кальция с выделением водорода. Рассчитаны свободные энергии всех составляющих фаз химических реакций в зависимости от температуры, концентрации атомов водорода, их активности и значений энергетических параметров системы. Получены условия термодинамического равновесия всех фаз, определяющие температурную зависимость концентрации водорода. С использованием литературных экспериментальных данных оценены численные значения энергетических констант. Построены графики температурной зависимости растворимости водорода в фазах, на которых проявляются изломы или изгибы в точках фазовых переходов. Получен график температурной зависимости выделения водорода в системе с ростом температуры. Проведено сравнение численных значений свободных энергий фаз в точках фазовых превращений, подтверждающее экспериментально проявляющийся фазовый состав системы, т.е. возможность реализации каждой фазы в определённых температурных и концентрационных по водороду интервалах."
+	},
+	"keywords": {
+		"ua": "статистична теорія, фазові переходи, Ca—Al—H, термічний розпад, виділення водню",
+		"en": "statistical theory, phase transitions, Ca—Al—H, thermal decomposition, hydrogen release",
+		"ru": "статистическая теория, фазовые переходы, Ca—Al—H, термический распад, выделение водорода"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. Ю. Загінайченко", "en": "S. Yu. Zaginaichenko", "ru": "С. Ю. Загинайченко"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "Д. В. Щур", "en": "D. V. Schur", "ru": "Д. В. Щур"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "З. А. Матисіна", "en": "Z. A. Matysina", "ru": "З. А. Матысина"},
+			"OID": [222]
+		},
+		{
+			"AID": {"ua": "Д. А. Заріцький", "en": "D. A. Zaritsky", "ru": "Д. А. Зарицкий"},
+			"OID": [222]
+		},
+		{
+			"AID": {"ua": "Є. А. Каменецька", "en": "E. A. Kamenetskaya", "ru": "Е. А. Каменецкая"},
+			"OID": [2]
+		}
+	],
+	"references": {
+		"count": 69,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "H. H. Мальцева, А. И. Голованова, Т. Н. Дымова, Д. П. Александров, Журнал неорганической химии, 46, № 12: 1965 (2001).",
+				"tr":  "H. H. Mal'tseva, A. I. Golovanova, T. N. Dymova, and D. P. Aleksandrov, Zhurnal Neorganicheskoy Khimii, 46, No. 12: 1965 (2001) (in Russian)."
+			},
+			{
+				"doi": "10.1021/ic048291q",
+				"or":  "M. Fichtner, C. Frommen, and O. Fuhr, Inorg. Chem., 44, No. 10: 3479 (2005).",
+				"tr":  "M. Fichtner, C. Frommen, and O. Fuhr, Inorg. Chem., 44, No. 10: 3479 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Felderhoff, B. Bogdanovic, and F. Schüth, Abstracts of H-Workshop on Hydrogen Storage with Novel Nanomaterials (October 23–27, 2005, Bad Honnef), p. 32.",
+				"tr":  "M. Felderhoff, B. Bogdanovic, and F. Schüth, Abstracts of H-Workshop on Hydrogen Storage with Novel Nanomaterials (October 23–27, 2005, Bad Honnef), p. 32."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2004.12.171",
+				"or":  "M. Schwarz, A. Haiduc, H. Stil, P. Paulus, and H. Geerlings, J. Alloys Compd., 404–406: 762 (2005).",
+				"tr":  "M. Schwarz, A. Haiduc, H. Stil, P. Paulus, and H. Geerlings, J. Alloys Compd., 404–406: 762 (2005)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/AMR.26-28.869",
+				"or":  "N. Morisaku, K. Komiya, L. Yuzhan, H. Yukawa, M. Morinaga, K. Ikeda, and S. Orimo, Adv. Mater. Res., 26–28: 869 (2007).",
+				"tr":  "N. Morisaku, K. Komiya, L. Yuzhan, H. Yukawa, M. Morinaga, K. Ikeda, and S. Orimo, Adv. Mater. Res., 26–28: 869 (2007)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2007.01.119",
+				"or":  "K. Komiya, N. Morisaku, Y. Shinzato, K. Ikeda, S. Orimo, Y. Ohki, K. Tatsumi, H. Yukawa, and M. Morinaga, J. Alloys Compd., 446–447: 237 (2007).",
+				"tr":  "K. Komiya, N. Morisaku, Y. Shinzato, K. Ikeda, S. Orimo, Y. Ohki, K. Tatsumi, H. Yukawa, and M. Morinaga, J. Alloys Compd., 446–447: 237 (2007)."
+			},
+			{
+				"doi": "10.1016/j.pmatsci.2012.07.001",
+				"or":  "J. Huot, D. B. Ravnsbæk, J. Zhang, F. Cuevas, M. Latroche, and T. R. Jensen, Progress in Materials Science, 58, No. 1: 30 (2013).",
+				"tr":  "J. Huot, D. B. Ravnsbæk, J. Zhang, F. Cuevas, M. Latroche, and T. R. Jensen, Progress in Materials Science, 58, No. 1: 30 (2013)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2005.06.069",
+				"or":  "M. Mamatha, B. Bogdanovic, A. Pommerin, M. Felderhoff, and F. Schuth, J. Alloys Compd., 407, No. 1–2: 78 (2006).",
+				"tr":  "M. Mamatha, B. Bogdanovic, A. Pommerin, M. Felderhoff, and F. Schuth, J. Alloys Compd., 407, No. 1–2: 78 (2006)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2005.09.004",
+				"or":  "M. Mamatha, C. Weidenthaler, M. Pommerin, and F. Schuth, J. Alloys Compd., 416, No. 1–2: 303 (2006).",
+				"tr":  "M. Mamatha, C. Weidenthaler, M. Pommerin, and F. Schuth, J. Alloys Compd., 416, No. 1–2: 303 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "O. M. Løvvik and P. N. Molin, Proceedings of AIP Conf. on Hydrogen in Matter (June 13–17, 2005) (Uppsala: 2006), p. 85.",
+				"tr":  "O. M. Løvvik and P. N. Molin, Proceedings of AIP Conf. on Hydrogen in Matter (June 13–17, 2005) (Uppsala: 2006), p. 85."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2006.12.050",
+				"or":  "H. Kabbour, Ch. C. Ahn, S.-J. Hwang, R. C. Bowman, and J. Graetz, J. Alloys Comp., 446–447: 264 (2007).",
+				"tr":  "H. Kabbour, Ch. C. Ahn, S.-J. Hwang, R. C. Bowman, and J. Graetz, J. Alloys Comp., 446–447: 264 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Felderhoff, Hydrogen Technology. Mobile and Portable Applications (Ed. A. Leon) (Berlin: Springer: 2008), p. 455.",
+				"tr":  "M. Felderhoff, Hydrogen Technology. Mobile and Portable Applications (Ed. A. Leon) (Berlin: Springer: 2008), p. 455."
+			},
+			{
+				"doi": "10.1088/0953-8984/20/6/064228",
+				"or":  "C. Wolverton, D. J. Siegel, A. R. Akbarzadeh, and V. Ozoliņš, J. Phys.: Condens. Matter, 20: 064228 (2008).",
+				"tr":  "C. Wolverton, D. J. Siegel, A. R. Akbarzadeh, and V. Ozoliņš, J. Phys.: Condens. Matter, 20: 064228 (2008)."
+			},
+			{
+				"doi": "10.1063/1.2937917",
+				"or":  "A. Marashdeh and T. J. Frankcombe, J. Chem. Phys., 128, No. 23: 234505 (2008).",
+				"tr":  "A. Marashdeh and T. J. Frankcombe, J. Chem. Phys., 128, No. 23: 234505 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Marashdeh, A Cluster Density Functional Theory Study of the Interaction of Hydrogen Storage System NaAlH4 with Transition Metal Catalysts (Thesis of Disser. for PhD) (Leiden: Leiden University: 2008).",
+				"tr":  "A. A. Marashdeh, A Cluster Density Functional Theory Study of the Interaction of Hydrogen Storage System NaAlH4 with Transition Metal Catalysts (Thesis of Disser. for PhD) (Leiden: Leiden University: 2008)."
+			},
+			{
+				"doi": "",
+				"or":  "B. Bogdanovic, M. Felderhoff, and G. Streukens, J. Serb. Chem. Soc., 74, No. 2: 183 (2009).",
+				"tr":  "B. Bogdanovic, M. Felderhoff, and G. Streukens, J. Serb. Chem. Soc., 74, No. 2: 183 (2009)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2008.09.112",
+				"or":  "S. Sartori, A. Leon, O. Zabara, J. Muller, M. Fichtner, and B. C. Hauback, J. Alloys Compd., 476, No. 1–2: 639 (2009).",
+				"tr":  "S. Sartori, A. Leon, O. Zabara, J. Muller, M. Fichtner, and B. C. Hauback, J. Alloys Compd., 476, No. 1–2: 639 (2009)."
+			},
+			{
+				"doi": "10.1134/S0036023612130049",
+				"or":  "N. N. Mal’tseva, N. B. Generalova, A. Yu. Masanov, K. Yu. Zhizhin, and N. T. Kuznetsov, Russ. J. Inorg. Chem., 57, No. 13: 1631 (2012).",
+				"tr":  "N. N. Mal'tseva, N. B. Generalova, A. Yu. Masanov, K. Yu. Zhizhin, and N. T. Kuznetsov, Russ. J. Inorg. Chem., 57, No. 13: 1631 (2012)."
+			},
+			{
+				"doi": "10.1557/mrs.2013.107",
+				"or":  "J. Graetz and B. C. Hauback, MRS Bulletin, 38, No. 6: 473 (2013).",
+				"tr":  "J. Graetz and B. C. Hauback, MRS Bulletin, 38, No. 6: 473 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Kabbour, C. C. Ahn, R. C. Bowman, and S.-J. Hwang, Abstracts of MH-2006 Int. Symposium on Metal-Hydrogen Systems. Fundamental and Applications (October 1–6, 2006, Lahaina), p. 42.",
+				"tr":  "H. Kabbour, C. C. Ahn, R. C. Bowman, and S.-J. Hwang, Abstracts of MH-2006 Int. Symposium on Metal-Hydrogen Systems. Fundamental and Applications (October 1–6, 2006, Lahaina), p. 42."
+			},
+			{
+				"doi": "",
+				"or":  "X. Ke, C. Chen, and O. M. Løvvik, Bulletin of American Phys. Society, 52, No. 1: Abstract R1.00134 (2007).",
+				"tr":  "X. Ke, C. Chen, and O. M. Løvvik, Bulletin of American Phys. Society, 52, No. 1: Abstract R1.00134 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "S. A. Orefuwa, Effect of Dopants on the Hydrogen Storage Properties of Calcium Alanate and Infra-Red Study of Some Selected Alanates (Thesis of Disser. for PhD) (Dover: 2008).",
+				"tr":  "S. A. Orefuwa, Effect of Dopants on the Hydrogen Storage Properties of Calcium Alanate and Infra-Red Study of Some Selected Alanates (Thesis of Disser. for PhD) (Dover: 2008)."
+			},
+			{
+				"doi": "10.1021/jp074534z",
+				"or":  "N. Hanada, W. Lohstroh, and M. Fichtner, J. Phys. Chem. C, 112, No. 1: 131 (2008).",
+				"tr":  "N. Hanada, W. Lohstroh, and M. Fichtner, J. Phys. Chem. C, 112, No. 1: 131 (2008)."
+			},
+			{
+				"doi": "10.1016/j.ijhydene.2010.03.078",
+				"or":  "L. George and S. K. Saxena, Int. J. Hydrogen Energy, 35, No. 11: 5454 (2010).",
+				"tr":  "L. George and S. K. Saxena, Int. J. Hydrogen Energy, 35, No. 11: 5454 (2010)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.110.135502",
+				"or":  "T. D. Huan, M. Amsler, M. A. L. Marques, S. Botti, A. Willand, and S. Goedecker, Phys. Rev. Lett., 110, No. 13: 135502 (2013).",
+				"tr":  "T. D. Huan, M. Amsler, M. A. L. Marques, S. Botti, A. Willand, and S. Goedecker, Phys. Rev. Lett., 110, No. 13: 135502 (2013)."
+			},
+			{
+				"doi": "10.2320/matertrans.MER2008251",
+				"or":  "T. Sato, K. Ikeda, H.-W. Li, H. Yukawa, M. Morinaga, and S. Orimo, Materials Transactions, 50, No. 1: 182 (2009).",
+				"tr":  "T. Sato, K. Ikeda, H.-W. Li, H. Yukawa, M. Morinaga, and S. Orimo, Materials Transactions, 50, No. 1: 182 (2009)."
+			},
+			{
+				"doi": "10.1016/j.ijhydene.2008.11.013",
+				"or":  "V. Iosub, Т. Matsunaga, K. Tange, and M. Ishikiriyama, Int. J. Hydrogen Energy, 34, No. 2: 906 (2009).",
+				"tr":  "V. Iosub, T. Matsunaga, K. Tange, and M. Ishikiriyama, Int. J. Hydrogen Energy, 34, No. 2: 906 (2009)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2010.11.044",
+				"or":  "X. Xiao, C. Li, L. Chen, X. Fan, H. Kou, and Q. Wang, J. Alloys Comp., 509, No. 2: S743 (2011).",
+				"tr":  "X. Xiao, C. Li, L. Chen, X. Fan, H. Kou, and Q. Wang, J. Alloys Comp., 509, No. 2: S743 (2011)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2010.04.250",
+				"or":  "I. P. Jain, P. Jain, and A. Jain, J. Alloys Compd., 503, No. 2: 303 (2010).",
+				"tr":  "I. P. Jain, P. Jain, and A. Jain, J. Alloys Compd., 503, No. 2: 303 (2010)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2010.11.044",
+				"or":  "C. Li, X. Xiao, L. Chen, K. Jiang, S. Li, and Q. Wang, J. Alloys Comp., 509, No. 3: 590 (2011).",
+				"tr":  "C. Li, X. Xiao, L. Chen, K. Jiang, S. Li, and Q. Wang, J. Alloys Comp., 509, No. 3: 590 (2011)."
+			},
+			{
+				"doi": "10.1016/j.ijhydene.2011.03.151",
+				"or":  "C. Li, X. Xiao, P. Ge, J. Xue, S. Li, H. Ge, and L. Chen, Int. J. Hydrogen Energy, 37, No. 1: 936 (2012).",
+				"tr":  "C. Li, X. Xiao, P. Ge, J. Xue, S. Li, H. Ge, and L. Chen, Int. J. Hydrogen Energy, 37, No. 1: 936 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Graetz, ISRN Mater. Sci., ID 863025 (2012).",
+				"tr":  "J. Graetz, ISRN Mater. Sci., ID 863025 (2012)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.71.144111",
+				"or":  "O. M. Løvvik, Phys. Rev. B, 71, No. 14: 144111-1 (2005).",
+				"tr":  "O. M. Løvvik, Phys. Rev. B, 71, No. 14: 144111 (2005)."
+			},
+			{
+				"doi": "10.1021/ic0602042",
+				"or":  "C. Weidenthaler, T. J. Frankcombe, and M. Feilderhoff, Inorg. Chem., 45, No. 10: 3849 (2006).",
+				"tr":  "C. Weidenthaler, T. J. Frankcombe, and M. Feilderhoff, Inorg. Chem., 45, No. 10: 3849 (2006)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.75.064101",
+				"or":  "C. Wolverton and V. Ozolinš, Phys. Rev. B, 75, No. 6: 064228 (2007).",
+				"tr":  "C. Wolverton and V. Ozolinš, Phys. Rev. B, 75, No. 6: 064228 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Klaveness, P. Vajeeston, P. Ravindran, H. Fjellvåg, and A. Kjekshus, J. Alloys Comp., 433, Nos. 1–2: 225 (2007).",
+				"tr":  "A. Klaveness, P. Vajeeston, P. Ravindran, H. Fjellvåg, and A. Kjekshus, J. Alloys Comp., 433, No. 1–2: 225 (2007)."
+			},
+			{
+				"doi": "10.1088/0953-8984/20/6/064228",
+				"or":  "C. Wolverton, D. J. Siegel, A. R. Akbarzadeh, and V. Ozolinš, J. Phys.: Condens. Matter, 20: 064228 (2008).",
+				"tr":  "C. Wolverton, D. J. Siegel, A. R. Akbarzadeh, and V. Ozolinš, J. Phys.: Condens. Matter, 20: 064228 (2008)."
+			},
+			{
+				"doi": "10.1524/zkri.2008.1020",
+				"or":  "B. C. Hauback, Z. Kristallogr., 223, No. 10: 636 (2008).",
+				"tr":  "B. C. Hauback, Z. Kristallogr., 223, No. 10: 636 (2008)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2009.07.164",
+				"or":  "T. Sato, M. H. Sørby, K. Ikeda, S. Sato, B.C. Hauback, and S. Orimo, J. Alloys Comp., 487, Nos. 1–2: 472 (2009).",
+				"tr":  "T. Sato, M. H. Sørby, K. Ikeda, S. Sato, B.C. Hauback, and S. Orimo, J. Alloys Comp., 487, Nos. 1–2: 472 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Sato, M. H. Sørby, A. J. Ramirez-Cuesta, K. Ikeda, B. C. Hauback, S. Orimo, and K. Yamada, Abstracts of WPI–AIMR Annual Workshop (March 25–27, 2010, Sendai).",
+				"tr":  "T. Sato, M. H. Sørby, A. J. Ramirez-Cuesta, K. Ikeda, B. C. Hauback, S. Orimo, and K. Yamada, Abstracts of WPI–AIMR Annual Workshop (March 25–27, 2010, Sendai)."
+			},
+			{
+				"doi": "10.1021/ic200231f",
+				"or":  "T. Sato, A. J. Ramirez-Cuesta, K. Ikeda, S. Orimo, and K. Yamada, Inorg. Chem., 50, No. 17: 8007 (2011).",
+				"tr":  "T. Sato, A. J. Ramirez-Cuesta, K. Ikeda, S. Orimo, and K. Yamada, Inorg. Chem., 50, No. 17: 8007 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "З. А. Матысина, Д. В. Щур, Водород и твердофазные превращения в металлах, сплавах и фуллеритах (Днепропетровск: Наука и образование: 2006).",
+				"tr":  "Z. A. Matysina and D. V. Schur, Vodorod i Tverdofaznye Prevrashcheniya v Metallakh, Splavakh i Fulleritakh (Dnepropetrovsk: Nauka i Obrazovanie: 2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "З. А. Матысина, С. Ю. Загинайченко, Д. В. Щур, Растворимость примесей в металлах, сплавах, интерметаллидах, фуллеритах (Днепропетровск: Наука и образование: 2006).",
+				"tr":  "Z. A. Matysina, S. Yu. Zaginaichenko, and D. V. Schur, Rastvorimost' Primesey v Metallakh, Splavakh, Intermetallidakh, Fulleritakh (Dnepropetrovsk: Nauka i Obrazovanie: 2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "З. А. Матысина, Д. В. Щур, С. Ю. Загинайченко, Атомные, фуллереновые и другие молекулярные фазы внедрения (Днепропетровск: Издательство «Маковецкий»: 2012).",
+				"tr":  "Z. A. Matysina, D. V. Schur, and S. Yu. Zaginaichenko, Atomnye, Fullerenovye i Drugie Molekulyarnye Fazy Vnedreniya (Dnepropetrovsk: Izdatel'stvo 'Ma-kovetskiy': 2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Sichla and H. Jacobs, Eur. J. Solid State Inorg. Chem., 33: 453 (1996).",
+				"tr":  "T. Sichla and H. Jacobs, Eur. J. Solid State Inorg. Chem., 33: 453 (1996)."
+			},
+			{
+				"doi": "10.1016/S0166-1280(00)00512-1",
+				"or":  "А. E. Gridani and М. E. Mouhtadi, J. Mol. Struct. Theochem, 532: 183 (2000).",
+				"tr":  "A. E. Gridani and M. E. Mouhtadi, J. Mol. Struct. Theochem, 532: 183 (2000)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(03)00631-5",
+				"or":  "P. Morris, D. K. Ross, S. Ivanov, D. R. Weaver, and O. Serot, J. Alloys Compd., 363, Nos. 1–2: 88 (2004).",
+				"tr":  "P. Morris, D. K. Ross, S. Ivanov, D. R. Weaver, and O. Serot, J. Alloys Compd., 363, Nos. 1–2: 88 (2004)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2006.07.042",
+				"or":  "H. Wu, W. Zhou, T. J. Udovic, J. J. Rush, and T. Yildirim, J. Alloys Comp., 436, No. 1: 51 (2007).",
+				"tr":  "H. Wu, W. Zhou, T. J. Udovic, J. J. Rush, and T. Yildirim, J. Alloys Comp., 436, Nos. 1–2: 51 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.76.014121",
+				"or":  "L. G. Hector, J. F. Herbst, W. Wolf, P. Saxe, and G. Kresse, Phys. Rev. B, 76, No. 1: 014121 (2007).",
+				"tr":  "L. G. Hector, J. F. Herbst, W. Wolf, P. Saxe, and G. Kresse, Phys. Rev. B, 76, No. 1: 014121 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.75.134108",
+				"or":  "J. S. Tse, D. D. Klug, S. Desgreniers, J. S. Smith, R. Flacau, Z. Liu, J. Hu, N. Chen, and D. T. Jiang, Phys. Rev. B, 75, No. 13: 134108 (2007).",
+				"tr":  "J. S. Tse, D. D. Klug, S. Desgreniers, J. S. Smith, R. Flacau, Z. Liu, J. Hu, N. Chen, and D. T. Jiang, Phys. Rev. B, 75, No. 13: 134108 (2007)."
+			},
+			{
+				"doi": "10.1088/0953-8984/20/04/045211",
+				"or":  "Y. Li, В. Li, Т. Cui, Ya. Li, L. Zhang, Y. Ma, and G. Zou, J. Phys: Condens. Matter., 20, No. 4: 045211 (2008).",
+				"tr":  "Y. Li, B. Li, T. Cui, Ya. Li, L. Zhang, Y. Ma, and G. Zou, J. Phys: Condens. Matter., 20, No. 4: 045211 (2008)."
+			},
+			{
+				"doi": "10.1021/jp101704m",
+				"or":  "M. Gonzalez-Silveira, R. Gremaud, H. Schreuders, M. J. Setten, E. Batyrev, A. Rougier, L. Dupont, E. G. Bardaji, W. Lohstroh, and B. Dam, J. Phys. Chem. С, 114, No. 32: 13895 (2010).",
+				"tr":  "M. Gonzalez-Silveira, R. Gremaud, H. Schreuders, M. J. Setten, E. Batyrev, A. Rougier, L. Dupont, E. G. Bardaji, W. Lohstroh, and B. Dam, J. Phys. Chem. C, 114, No. 32: 13895 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "J. A. Alonso, M. Retuerto, J. Sanchez-Benitez, and M. T. Fernandez-Diaz, Z. Kristallogr., 225, No. 6: 225 (2010).",
+				"tr":  "J. A. Alonso, M. Retuerto, J. Sanchez-Benitez, and M. T. Fernandez-Diaz, Z. Kristallogr., 225, No. 6: 225 (2010)."
+			},
+			{
+				"doi": "10.1016/j.ijhydene.2010.03.078",
+				"or":  "L. George and S. K. Saxena, Int. J. Hydrogen Energy, 35, No. 11: 5454 (2010).",
+				"tr":  "L. George and S. K. Saxena, Int. J. Hydrogen Energy, 35, No. 11: 5454 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Corno, E. Pinatel, P. Ugliengo, and M. Baricco, Proceedings of 5th Hydrogen & Energy Int. Symp. (January 24–29, 2011, Stoos, Switzerland), p. 17.",
+				"tr":  "M. Corno, E. Pinatel, P. Ugliengo, and M. Baricco, Proceedings of 5th Hydrogen & Energy Int. Symp. (January 24–29, 2011) (Switzerland: Stoos: 2011), p. 17."
+			},
+			{
+				"doi": "",
+				"or":  "R. C. Ropp, Encyclopaedia of the Alkaline-Earth Compounds (Oxford: Elsevier Science & Tech.: 2013), p. 1250.",
+				"tr":  "R. C. Ropp, Encyclopedia of the Alkaline-Earth Compounds (Oxford: Elsevier Science & Tech.: 2013), p. 1250."
+			},
+			{
+				"doi": "10.1016/0022-5088(81)90098-9",
+				"or":  "E. Veleckis, J. Less Common Met., 80, No. 2: 241 (1981).",
+				"tr":  "E. Veleckis, J. Less Common Met., 80, No. 2: 241 (1981)."
+			},
+			{
+				"doi": "10.1007/BF02883160",
+				"or":  "V. P. Itkin, С. В. Alcock, P. J. Ekeren, and H. A. Oonk, Bulletin of Alloy Phase Diagrams, 9, No. 6: 652 (1988).",
+				"tr":  "V. P. Itkin, C. B. Alcock, P. J. Ekeren, and H. A. Oonk, Bulletin of Alloy Phase Diagrams, 9, No. 6: 652 (1988)."
+			},
+			{
+				"doi": "10.1021/ja00062a045",
+				"or":  "G. J. Miller, F. Li, and H. F. Franzen, J. Am. Chem. Soc., 115, No. 9: 3739 (1993).",
+				"tr":  "G. J. Miller, F. Li, and H. F. Franzen, J. Am. Chem. Soc., 115, No. 9: 3739 (1993)."
+			},
+			{
+				"doi": "10.1016/S1003-6326(07)60080-6",
+				"or":  "D. Zhou, J. Liu, J. Zhang, and P. Peng, Transactions of Nonferrous Metals Society of China, 17, No. 2: 250 (2007).",
+				"tr":  "D. Zhou, J. Liu, J. Zhang, and P. Peng, Transactions of Nonferrous Metals Society of China, 17, No. 2: 250 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Tanaka, H. Miyamura, N. Kuriyama, Т. Sakai, and I. Uehara, Calcium–Aluminium System Hydrogen Absorbing Alloy, U.S. Patent No. 5803995 (Published September 8, 1998).",
+				"tr":  "H. Tanaka, H. Miyamura, N. Kuriyama, T. Sakai, and I. Uehara, Calcium–Aluminium System Hydrogen Absorbing Alloy, U.S. Patent No. 5803995 (Published September 8, 1998)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Tanaka, H. Takeshita, N. Kuriyama, Т. Sakai, I. Uehara, D. Noréus, A. Züttel, L. Schlapbach, and S. Suda, IEA Task 12: Metal Hydrides and Carbon for Hydrogen Storage (2001), p. 23.",
+				"tr":  "H. Tanaka, H. Takeshita, N. Kuriyama, T. Sakai, I. Uehara, D. Noréus, A. Züttel, L. Schlapbach, and S. Suda, IEA Task 12: Metal Hydrides and Carbon for Hydrogen Storage (2001), p. 23."
+			},
+			{
+				"doi": "",
+				"or":  "D. Kevorkov and R. Schmid-Fetzer, Z. Mettallkd., 92, No. 8: 946 (2001).",
+				"tr":  "D. Kevorkov and R. Schmid-Fetzer, Z. Mettallkd., 92, No. 8: 946 (2001)."
+			},
+			{
+				"doi": "10.1016/S0254-0584(02)00312-7",
+				"or":  "X. G. Min, Y. S. Sun, F. Xue, W. W. Du, and D. Y. Wu, Mater. Chem. Phys., 78, No. 1: 88 (2003).",
+				"tr":  "X. G. Min, Y. S. Sun, F. Xue, W. W. Du, and D. Y. Wu, Mater. Chem. Phys., 78, No. 1: 88 (2003)."
+			},
+			{
+				"doi": "10.1361/105497103772084750",
+				"or":  "H. Okamoto, J. Phase Equilibria, 24, No. 6: 580 (2003).",
+				"tr":  "H. Okamoto, J. Phase Equilibria, 24, No. 6: 580 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "M. A. Parvez, X. Wang, E. Essadiqi, and M. Medraj, Magnesium Technology (Eds. N. Neelameggham, H. I. Kaplan, and B. R. Powell) (Warrendale: TSM: 2005), p. 179.",
+				"tr":  "M. A. Parvez, X. Wang, E. Essadiqi, and M. Medraj, Magnesium Technology (Eds. N. Neelameggham, H. I. Kaplan, and B. R. Powell) (Warrendale: TSM: 2005), p. 179."
+			},
+			{
+				"doi": "10.1016/j.solidstatesciences.2009.04.017",
+				"or":  "W. Y. Yu, N. Wang, X. B. Xiao, B. Y. Tang, L. M. Peng, and W. J. Ding, Solid State Sciences, 11, No. 8: 1400 (2009).",
+				"tr":  "W. Y. Yu, N. Wang, X. B. Xiao, B. Y. Tang, L. M. Peng, and W. J. Ding, Solid State Sciences, 11, No. 8: 1400 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Shapiro, D. Fuks, and A. Kiv, Information Technologies and Computer Modelling, 13, No. 1: 7 (2010).",
+				"tr":  "D. Shapiro, D. Fuks, and A. Kiv, Information Technologies and Computer Modelling, 13, No. 1: 7 (2010)."
+			},
+			{
+				"doi": "10.1016/j.commatsci.2012.10.006",
+				"or":  "E. Deligoz, K. Colakoglu, H. Ozisik, and Y. O. Cifti, Computational Materials Science, 68: 27 (2013).",
+				"tr":  "E. Deligoz, K. Colakoglu, H. Ozisik, and Y. O. Cifti, Computational Materials Science, 68: 27 (2013)."
+			}
+		]
+	}
+}

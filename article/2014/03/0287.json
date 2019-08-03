@@ -1,0 +1,83 @@
+{
+	"_id":    "MFiNT.36.03.0287",
+	"year":   2014,
+	"volume": 36,
+	"issue":  3,
+	"pages":  [287,315],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["20.12.2013"],
+	"PACS":   "61.66.Fn, 61.72.Mm, 64.70.K-, 81.05.Bx, 81.40.Ef, 81.40.Gh",
+	"title":   {
+		"ua": "Можливості трансформації неметалевих включень і міжфазних границь включення—матриця при високоенергетичних обробках сталей",
+		"en": "Possibilities of Transformation of Non-Metallic Inclusions and Inclusion—Matrix Interphase Boundaries at High-Energy Treatments of Steels",
+		"ru": "Возможности трансформации неметаллических включений и межфазных границ включение—матрица при высокоэнергетических обработках сталей"
+	},
+	"abstract": {
+		"ua": "Узагальнено результати дослідження поведінки неметалевих включень і трансформації міжфазних меж включення—матриця при високоенергетичних обробляннях сталей (гаряча деформація, лазерне обробляння, високотемпературний відпал). Вивчено закономірності проковзування уздовж меж включення—матриця при різних режимах гарячої деформації. Обговорюється пластична поведінка цих меж для різних типів неметалевих включень. Досліджено особливості взаємодії неметалевих включень із стальною матрицею в процесі трансформації меж включення—матриця і формування ґрадієнтних та композитних структур поблизу цих меж при лазерному оброблянні. Показано вплив режиму лазерного обробляння і типу неметалевого включення на локальне зміцнення сталей. Вивчено особливості трансформації меж включення—матриця в процесі розчинення неметалевих включень при високотемпературному відпалі. Досліджено особливості формування ґрадієнтних і композитних структур поблизу цих меж у процесі високотемпературного відпалу. Показано можливості впливу на структуру, ширину і ступінь зміцнення міжфазних меж включення—матриця, а також на розміри, склад і розподіл неметалевих включень у сталях, що уможливить підвищити ефективність високоенергетичних обробок.",
+		"en": "Results of investigation of non-metallic-inclusions’ behaviour and transformation of interphase inclusion—matrix boundaries under high-energy treatments (hot deformation, laser treatment, high-temperature annealing) are summarized. Principles of inclusion—matrix-boundaries’ slip under different regimes of hot deformation are studied. Plastic behaviour of these boundaries for the different types of non-metallic inclusions is discussed. Features of interaction of non-metallic inclusions and steel matrix during the process of inclusion—matrix-boundaries’ transformation and formation of gradient and composite structures near these boundaries under laser treatment are investigated. The influence of laser-treatment regime on the local hardening of steels is shown. Features of inclusion—matrix-boundaries’ transformation in process of dissolution of non-metallic inclusions under high-temperature annealing are studied. Features of formation of gradient and composite structures near these boundaries under high-temperature annealing are investigated. Possibilities of high-energy treatments influence on structure, width and degree of hardening of interphase inclusion—matrix boundaries and on sizes, composition and distribution of non-metallic inclusions in steels are shown. It makes possible the increase of such treatments’ efficiency.",
+		"ru": "Обобщены результаты исследования поведения неметаллических включений и трансформации межфазных границ включение—матрица при высокоэнергетических обработках сталей (горячая деформация, лазерная обработка, высокотемпературный отжиг). Изучены закономерности проскальзывания вдоль границ включение—матрица при различных режимах горячей деформации. Обсуждается пластическое поведение этих границ для разных типов неметаллических включений. Исследованы особенности взаимодействия неметаллических включений и стальной матрицы в процессе трансформации границ включение—матрица и формирования градиентных и композитных структур вблизи этих границ при лазерной обработке. Показано влияние режима лазерной обработки и типа неметаллического включения на локальное упрочнение сталей. Изучены особенности трансформации границ включение—матрица в процессе растворения неметаллических включений при высокотемпературном отжиге. Исследованы особенности формирования градиентных и композитных структур вблизи этих границ в процессе высокотемпературного отжига. Показаны возможности влияния на структуру, ширину и степень упрочнения межфазных границ включение—матрица, а также на размеры, состав и распределение неметаллических включений в сталях, что позволит повысить эффективность высокоэнергетических обработок."
+	},
+	"keywords": {
+		"ua": "сталь, неметалеве включення, межа включення—матриця, гаряча деформація, лазерне обробляння, високотемпературний відпал",
+		"en": "steel, non-metallic inclusion, inclusion—matrix boundary, hot deformation, laser treatment, high-temperature annealing",
+		"ru": "сталь, неметаллическое включение, граница включение—матрица, горячая деформация, лазерная обработка, высокотемпературный отжиг"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. І. Губенко", "en": "S. I. Gubenko", "ru": "С. И. Губенко"},
+			"OID": [223]
+		}
+	],
+	"references": {
+		"count": 9,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "S. I. Gubenko, V. V. Parusov, and I. V. Derevianchenko, Nemetallicheskie Vklucheniya v Stali (Dnepropetrovsk: ART-PRESS: 2005) (in Russian).",
+				"tr":  "S. I. Gubenko, V. V. Parusov, and I. V. Derevianchenko, Nemetallicheskie Vklucheniya v Stali (Non-Metallic Inclusions in Steel) (Dnepropetrovsk: ART-PRESS: 2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. I. Gubenko, Transformatsiya Nemetallicheskikh Vklucheniy v Stali (Moscow: Metallurgiya: 1991) (in Russian).",
+				"tr":  "S. I. Gubenko, Transformatsiya Nemetallicheskikh Vklucheniy v Stali (Transformation of Non-Metallic Inclusions in Steel) (Moscow: Metallurgiya: 1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Перевезенцев, В. В. Рыбин, В. Н. Чувильдеев, Поверхность, № 10: 108 (1983).",
+				"tr":  "V. N. Perevezenstev, V. V. Rybin, and B. N. Chuvildeev, Poverkhnost', No. 10: 108 (1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. V. Samsonov, I. F. Pryadko, and L. F. Pryadko, Konfiguratsionnaya Model Veschestva (Kiev: Naukova Dumka: 1971) (in Russian).",
+				"tr":  "G. V. Samsonov, I. F. Pryadko, and L. F. Pryadko, Konfiguratsionnaya Model Veschestva (Configurational Model of Substance) (Kiev: Naukova Dumka: 1971) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ван Бюрен, Дефекты в кристаллах (Москва: Издательство иностранной литературы: 1962).",
+				"tr":  "H. G. Van Bueren, Imperfections in Crystals (Amsterdam: North-Holland Publishing Company: 1960)."
+			},
+			{
+				"doi": "",
+				"or":  "С. І. Губенко, Фізико-хімічна механіка матеріалів, 46, № 3: 73 (2010).",
+				"tr":  "S. I. Gubenko, Physicochemical Mechanics of Materials, 46, No. 3: 73 (2010) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Губенко, Фізико-хімічна механіка матеріалів, 46, № 4: 21 (2010).",
+				"tr":  "S. I. Gubenko, Physicochemical Mechanics of Materials, 46, No. 4: 21 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. I. Gubenko, Proc. of Congress ‘Machines, Technologies, Materials’ (Sept. 19–21, 2012, Varna, Bulgaria), vol. 1, p. 19.",
+				"tr":  "S. I. Gubenko, Proc. of Congress 'Machines, Technologies, Materials' (Sept. 19–21, 2012, Varna, Bulgaria), vol. 1, p. 19."
+			},
+			{
+				"doi": "",
+				"or":  "Ya. E. Geguzin and M. A. Krivoglaz, Dvizhenie Makroscopicheskikh Vklucheniy v Tverdykh Telakh (Moscow: Metallurgiya: 1971) (in Russian).",
+				"tr":  "Ya. E. Geguzin and M. A. Krivoglaz, Dvizhenie Makroscopicheskikh Vklucheniy v Tverdykh Telakh (Movement of Macroscopic Inclusions in Solids) (Moscow: Metallurgiya: 1971) (in Russian)."
+			}
+		]
+	}
+}

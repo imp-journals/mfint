@@ -1,0 +1,172 @@
+{
+	"year":   2014,
+	"volume": 36,
+	"issue":  1,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [1,15],
+			"title": {
+				"ua": "Кінетика розпаду та термічна стабілізація литого стопу системи Mg—Al—Ca—Mn—Ti",
+				"en": "Kinetics of Decomposition and Thermal Stabilization of Mg—Al—Ca—Mn—Ti Cast Alloy",
+				"ru": "Кинетика распада и термическая стабилизация литого сплава системы Mg—Al—Ca—Mn—Ti"
+			},
+			"autors": {
+				"ua": "І. М. Максимчук, В. Г. Ткаченко, О. С. Вовчок, Н. П. Медалович, О. С. Макаренко",
+				"en": "I. M. Maksymchuk, V. G. Tkachenko, O. S. Vovchok, N. P. Medalovych, and O. S. Makarenko",
+				"ru": "И. Н. Максимчук, В. Г. Ткаченко, А. С. Вовчок, Н. П. Медалович, Е. С. Макаренко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [17,29],
+			"title": {
+				"ua": "Ударне ущільнення порошку вольфраму в широкому діапазоні температур. I. Щільність і структура",
+				"en": "Impact Consolidation of the Tungsten Powder in the Wide Range of Temperatures. I. Density and Structure",
+				"ru": "Ударное уплотнение порошка вольфрама в широком диапазоне температур. I. Плотность и структура"
+			},
+			"autors": {
+				"ua": "О. І. Толочин, А. В. Лаптєв, І. Ю. Окунь, Я. І. Євич",
+				"en": "O. I. Tolochyn, A. V. Laptev, I. Yu. Okun’, and Ya. I. Evich",
+				"ru": "А. И. Толочин, А. В. Лаптев, И. Ю. Окунь, Я. И. Евич"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [31,38],
+			"title": {
+				"ua": "In situ ПЕМ-дослідження кінетики гомогенізації полікристалічної плівкової системи Ag—Pd",
+				"en": "In Situ TEM Investigation of Homogenization Kinetics of Polycrystalline Ag—Pd Film System",
+				"ru": "In situ ПЭМ-исследование кинетики гомогенизации поликристаллической плёночной системы Ag—Pd"
+			},
+			"autors": {
+				"ua": "О. П. Кришталь, С. І. Богатиренко, Р. В. Сухов, О. О. Міненков, А. І. Таліашвілі",
+				"en": "O. P. Kryshtal’, S. I. Bogatyrenko, R. V. Sukhov, O. O. Minenkov, and A. I. Taliashvili",
+				"ru": "А. П. Крышталь, С. И. Богатыренко, Р. В. Сухов, А. А. Миненков, А. И. Талиашвили"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [39,48],
+			"title": {
+				"ua": "Утворення перехідного дифузійного шару «покриття—підложжя» при електрокристалізації",
+				"en": "Formation of the ‘Coating—Substrate’ Transient Diffusion Layer at Electrocrystallization",
+				"ru": "Образование переходного диффузионного слоя «покрытие—подложка» при электрокристаллизации"
+			},
+			"autors": {
+				"ua": "Е. Ф. Штапенко, В. О. Заблудовський, В. В. Дудкіна",
+				"en": "Eh. F. Shtapenko, V. O. Zabludovskiy, and V. V. Dudkina",
+				"ru": "Э. Ф. Штапенко, В. А. Заблудовский, В. В. Дудкина"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [49,62],
+			"title": {
+				"ua": "Вплив складу квазибінарного перерізу системи Ti-W-C на фазоутворення, структуру і субструктуру отриманих на її основі йонно-плазмових наноструктурних покриттів",
+				"en": "Influence of Composition of Quasi-Binary Section of Ti—W—C System on Phase Formation, Structure, and Substructure of the Ion—Plasma Nanostructured Coatings Fabricated on Its Base",
+				"ru": "Влияние состава квазибинарного сечения системы Ti—W—C на фазообразование, структуру и субструктуру полученных на её основе ионно-плазменных наноструктурных покрытий"
+			},
+			"autors": {
+				"ua": "О. В. Соболь, О. А. Шовкопляс",
+				"en": "O. V. Sobol’ and O. A. Shovkoplyas",
+				"ru": "О. В. Соболь, О. А. Шовкопляс"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [63,76],
+			"title": {
+				"ua": "Вплив індукованих підкладкою напружень на електричні та магнітні властивості ультратонких плівок La$_{0,6}$Sr$_{0,2}$Mn$_{1,2}$O$_{3}$/LaAlO$_{3}$",
+				"en": "Effect of Substrate-Induced Stresses on the Electrical and Magnetic Properties of Ultrathin La$_{0.6}$Sr$_{0.2}$Mn$_{1.2}$O$_{3}$/LaAlO$_{3}$ Films",
+				"ru": "Влияние индуцированных подложкой напряжений на электрические и магнитные свойства ультратонких плёнок La$_{0,6}$Sr$_{0,2}$Mn$_{1,2}$O$_{3}$/LaAlO$_{3}$"
+			},
+			"autors": {
+				"ua": "Т. І. Полек, Д. й. Под’яловський, О. І. Товстолиткін, А. М. Погорілий, О. В. Пащенко",
+				"en": "T. I. Polek, D. I. Podyalovskii, O. I. Tovstolytkin, A. M. Pogorilyy, and O. V. Pashchenko",
+				"ru": "Т. И. Полек, Д. И. Подъяловский, А. И. Товстолыткин, А. Н. Погорелый, А. В. Пащенко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [77,88],
+			"title": {
+				"ua": "Рентґенові та Мессбауерові дослідження залізовмісної літій-манганової шпінелі",
+				"en": "X-Ray and Mössbauer Studies of Iron-Containing Lithium—Manganese Spinel",
+				"ru": "Рентгеновские и мёссбауэровские исследования железосодержащей литий-марганцевой шпинели"
+			},
+			"autors": {
+				"ua": "І. М. Гасюк, А. М. Бойчук, В. В. Угорчук, Л. С. Кайкан, В. А. Цап, Т. Я. Бойчук",
+				"en": "I. M. Gasyuk, A. M. Boychuk, V. V. Uhorchuk, L. S. Kaykan, V. A. Tsap, and T. Ya. Boychuk",
+				"ru": "И. М. Гасюк, А. М. Бойчук, В. В. Угорчук, Л. С. Кайкан, В. А. Цап, Т. Я. Бойчук"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [89,102],
+			"title": {
+				"ua": "Температурно-частотні залежності діелектричних констант магній-заміщеного літієвого фериту",
+				"en": "Temperature—Frequency Dependences of Dielectric Constants of Magnesium-Substituted Lithium Ferrite",
+				"ru": "Температурно-частотные зависимости диэлектрических констант магний-замещённого литиевого феррита"
+			},
+			"autors": {
+				"ua": "Б. К. Остафійчук, І. М. Гасюк, Л. С. Кайкан, В. В. Угорчук, П. П. Якубовський, В. А. Цап, Ю. С. Кайкан",
+				"en": "B. K. Ostafiychuk, I. M. Gasyuk, L. S. Kaykan, V. V. Uhorchuk, P. P. Yakubovskiy, V. A. Tsap, and Yu. S. Kaykan",
+				"ru": "Б. К. Остафийчук, И. М. Гасюк, Л. С. Кайкан, В. В. Угорчук, П. П. Якубовский, В. А. Цап, Ю. С. Кайкан"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  1,
+			"pages":  [103,125],
+			"title": {
+				"ua": "Кластерна модель рідкого або аморфного металу. Квантово-статистична теорія. Аморфний метал",
+				"en": "Cluster Model of Liquid or Amorphous Metal. Quantum-Statistical Theory. Amorphous Metal",
+				"ru": "Кластерная модель жидкого или аморфного металла. Квантово-статистическая теория. Аморфный металл"
+			},
+			"autors": {
+				"ua": "О. І. Міцек, В. М. Пушкар",
+				"en": "O. I. Mitsek and V. M. Pushkar",
+				"ru": "А. И. Мицек, В. Н. Пушкарь"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  1,
+			"pages":  [127,137],
+			"title": {
+				"ua": "Дослідження впливу перемішування розтопу на формування макро- і мікроструктур",
+				"en": "Investigation of the Influence of Melt Stirring on the Formation of Macro- and Microstructures",
+				"ru": "Исследование влияния перемешивания расплава на формирование макро- и микроструктур"
+			},
+			"autors": {
+				"ua": "А. Г. Борисов",
+				"en": "A. G. Borisov",
+				"ru": "А. Г. Борисов"
+			}
+		},
+		{
+			"type":    2,
+			"rubric":  10,
+			"pages":  [139,140],
+			"title": {
+				"ua": "Пам'яті Ганса Бернса (15.01.1935—02.12.2013)",
+				"en": "On the Memory of Hans Berns (I/15/1935—XII/02/2013)",
+				"ru": "Памяти Ганса Бернса (15.01.1935—02.12.2013)"
+			},
+			"autors": {
+				"ua": "Редакційна колегія",
+				"en": "Editorial Board",
+				"ru": "Редакционная коллегия"
+			}
+		}
+	]
+}

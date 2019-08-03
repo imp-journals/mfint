@@ -1,0 +1,118 @@
+{
+	"_id":    "MFiNT.37.06.0817",
+	"year":   2015,
+	"volume": 37,
+	"issue":  6,
+	"pages":  [817,837],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["18.08.2014","15.04.2015"],
+	"PACS":   "06.60.Vz, 62.20.Qp, 68.35.Ct, 81.07.Bc, 81.16.Rf, 81.40.Pq, 82.80.Pv",
+	"title":  {
+		"ua": "Вплив активних елементів мастильно-охолоджувальних рідин на формування і властивості зносостійких ультрадисперсних і наноструктурних шарів тертя сталей",
+		"en": "Effect of Active Chemical Elements of Lubricating Fluids on Forming and Characteristics of Wear-Resistant Superdispersed and Nanostructured Surface Friction Layers of Steels",
+		"ru": "Влияние активных элементов смазочно-охлаждающих жидкостей на формирование и свойства износостойких ультрадисперсных и наноструктурных слоёв трения сталей"
+	},
+	"abstract": {
+		"ua": "Встановлено, що зносостійкі поверхневі наддрібнозернисті шари тертя є продуктом багаторазового нашарування на контактувальні поверхні прилеглих до плям контакту мікрооб’ємів металу. Інтенсивна пластична деформація металу, що нашаровується, спричиняє значну фраґментацію його структури, розчинення наявної у вихідних металах карбідної фази та насичення металу Оксиґеном при терті у водному середовищі. Введення у воду концентратів мастильно-охолоджувальних рідин (МОР) спричиняє додаткове насичення металу, що нашаровується, атомами Карбону, Фосфору, Сульфуру та Хлору. Це приводить до того, що введення у воду концентратів МОР «Аквол-15П» и «Синтал-2» збільшує товщину поверхневих шарів тертя у 6—8 разів і скорочує час, необхідний для переходу пар тертя в стаціонарний режим роботи з мінімальними зносом і коефіцієнтом тертя, в 1,5—2 рази. Насичення зносостійких поверхневих шарів тертя атомами Фосфору та Сульфуру при застосуванні МОР з активними антизадирними та протизносними присадками на основі цих елементів, знижує їхню стійкість до руйнування в умовах багаторазово повторюваних термомеханічних ударних навантажень. Насичення поверхневих шарів тертя атомами Хлору при застосуванні МОР з активним хлорвмісною присадкою не знижує тріщиностійкість цих шарів.",
+		"en": "Wear-resistant surface layers of friction are the product of multiple layers on the contacting surfaces adjacent to the contact-patch microvolumes of the metal. Severe plastic deformation of the layering metal leads to fragmentation of its structure, dissolution of carbide phase existing in the initial metal, and saturation of metal with oxygen from the water-working environment. Introduction of concentrates of lubrication-cooling liquids to water leads to an additional saturation of layering metal with carbon, phosphorus, sulphur, and chlorine atoms. This leads to the effect of introduction of the ‘Aquol-15P’ and ‘Sintal-2’ lubrication-cooling liquid concentrates to water that increases the thickness of the wear-resistant surface layers of friction by 6—8 times and reduces the time required for transition of friction pairs into stationary mode with minimum wear and coefficient of friction by 1.5—2 times. Saturation of friction wear-resistant surface layers with sulphur and phosphorus atoms decreases their resistance to destruction under thermomechanical impact loads. Saturation of friction wear-resistant surface layers with chlorine atoms does not decrease their fracture toughness.",
+		"ru": "Показано, что износостойкие поверхностные сверхмелкозернистые слои трения являются продуктом многоразового наслоения на контактирующие поверхности прилегающих к пятнам контакта микрообъёмов металла. Интенсивная пластическая деформация наслаивающегося металла приводит к значительной фрагментации его структуры, растворению имеющейся в исходных металлах карбидной фазы и насыщению металла кислородом при трении в водной среде. Введение в воду концентратов смазочно-охлаждающих жидкостей (СОЖ) вызывает дополнительное насыщение наслаивающегося металла атомами углерода, фосфора, серы и хлора. Это приводит к тому, что введение в воду концентратов СОЖ «Аквол15П» и «Синтал-2» увеличивает толщину поверхностных слоёв трения в 6—8 раз и сокращает время, необходимое для перехода пар трения в стационарный режим работы с минимальными износом и коэффициентом трения, в 1,5—2 раза. Насыщение износостойких поверхностных слоёв трения атомами фосфора и серы при использовании СОЖ с активными антизадирными и противоизносными присадками на основе этих элементов снижает их стойкость к разрушению в условиях многократно повторяющихся термомеханических ударных нагрузок. Насыщение поверхностных слоёв трения атомами хлора при использовании СОЖ с активной хлорсодержащей присадкой не снижает трещиностойкость этих слоёв."
+	},
+	"keywords": {
+		"ua": "тертя, наноструктура, ультрадисперсна структура, імпульсні термомеханічні впливи, мастильно-охолоджувальні рідини",
+		"en": "friction, nanostructure, superdispersed structure, pulsed thermomechanical effects, lubrication-cooling liquids",
+		"ru": "трение, наноструктура, ультрадисперсная структура, импульсные термомеханические воздействия, смазочно-охлаждающие жидкости"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. В. Тихонович", "en": "V. V. Tykhonovych", "ru": "В. В. Тихонович"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 16,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "В. В. Тихонович, Металлофиз. новейшие технол., 33, № 12: 1671 (2011).",
+				"tr":  "V. V. Tykhonovych, Metallofiz. Noveishie Tekhnol., 33, No. 12: 1671 (2011) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.12.02.209",
+				"or":  "В. В. Тихонович, В. Н. Уваров, Успехи физики металлов, 12, № 2: 209 (2011).",
+				"tr":  "V. V. Tykhonovych and V. M. Uvarov, Uspehi Fiziki Metallov, 12, No. 2: 209 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. М. Виноградов, Трение и износ модифицированных металлов (Москва: Наука: 1972).",
+				"tr":  "Yu. M. Vinogradov, Trenie i Iznos Modifitsirovannykh Metallov (Moscow: Nauka: 1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Гуреев, П. П. Заскалько, И. Э. Виноградова и др., Химия и технология топлив и масел, № 7: 61 (1980).",
+				"tr":  "A. A. Gureev, P. P. Zaskal'ko, I. E. Vinogradova et al., Khimiya i Tekhnologiya Topliv i Masel, No. 7: 61 (1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. М. Маивиевский, Д. К. Шульце, И. А. Буняковский, Исследование смазочных материалов при трении. О связи между термической стабильностью химически активных присадок к смазочным маслам и их триботехническими свойствами при трении (Москва: Наука: 1981).",
+				"tr":  "R. M. Maivievskiy, D. K. Shul'tse, and I. A. Bunyakovskiy, Issledovanie Smazochnykh Materialov pri Trenii. O Svyazi Mezhdu Termicheskoy Stabil'nost'yu Khimicheski Aktivnykh Prisadok k Smazochnym Maslam i Ikh Tribotekhnicheskimi Svoystvami pri Trenii (Moscow: Nauka: 1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. М. Роев, Л. М. Артюховская, В. Я. Скляр и др., Украинский химический журнал, 44, № 12: 1290 (1978).",
+				"tr":  "L. M. Roev, L. M. Artyukhovskaya, V. Ya. Sklyar et al., Ukrainskiy Khimicheskiy Zhurnal, 44, No. 12: 1290 (1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Гаврилюк, В. И. Тихонович, И. А. Шалевская, Ю. И. Гутько, Абразивостойкие высокохромистые чугуны (Луганск: Ноулидж: 2010).",
+				"tr":  "V. P. Gavrilyuk, V. I. Tikhonovich, I. A. Shalevskaya, and Yu. I. Gut'ko, Abrazivostoykie Vysokokhromistye Chuguny (Luhansk: Knowledge: 2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Немошкаленко, В. В. Горский, В. В. Тихонович и др., Металлофизика, 6, № 6: 93 (1984).",
+				"tr":  "V. V. Nemoshkalenko, V. V. Gorskiy, V. V. Tikhonovich et al., Metallofizika, 6, No. 6: 93 (1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Галанов, О. Н. Григорьев, Ю. В. Мильман и др., Проблемы прочности, 11: 93 (1983).",
+				"tr":  "V. A. Galanov, O. N. Grigor'ev, Yu. V. Mil'man et al., Problemy Prochnosti, 11: 93 (1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Булычев, В. П. Алехин, А. П. Терновский, Физика и химия обработки материалов, 2: 58 (1976).",
+				"tr":  "S. I. Bulychev, V. P. Alekhin, and A. P. Ternovskiy, Fizika i Khimiya Obrabotki Materialov, 2: 58 (1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Булычев, В. П. Алехин, М. Х. Шоршоров, Физика и химия обработки материалов, 5: 69 (1979).",
+				"tr":  "S. I. Bulychev, V. P. Alekhin, and M. Kh. Shorshorov, Fizika i Khimiya Obrabotki Materialov, 5: 69 (1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Немошкаленко, В. В. Тихонович, В. В. Горский и др., Металлофизика, 15, № 4: 45 (1993).",
+				"tr":  "V. V. Nemoshkalenko, V. V. Tikhonovich, V. V. Gorskiy et al., Metallofizika, 15, No. 4: 45 (1993) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Горский, В. В. Тихонович, Ю. Я. Мешков и др., Металлофизика, 12, № 2: 53 (1990).",
+				"tr":  "V. V. Gorskiy, V. V. Tikhonovich, Yu. Ya. Meshkov et al., Metallofizika, 12, No. 2: 53 (1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Горский, В. В. Тихонович, О. Д. Смиян и др., Металлофизика, 12, № 3: 89 (1990).",
+				"tr":  "V. V. Gorskiy, V. V. Tikhonovich, O. D. Smiyan et al., Metallofizika, 12, No. 3: 89 (1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Тихонович, Л. М. Шеледченко, В. В. Горский, Фізико-хімічна механіка матеріалів, 26, № 5: 61 (1990).",
+				"tr":  "V. V. Tikhonovich, L. M. Sheledchenko, and V. V. Gorskiy, Physicochemical Mechanics of Materials, 26, No. 5: 61 (1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. М. Шеледченко, В. В. Тихонович, В. В. Горский и др., Металлофизика, 14, № 4: 75 (1992).",
+				"tr":  "L. M. Sheledchenko, V. V. Tikhonovich, V. V. Gorskiy et al., Metallofizika, 14, No. 4: 75 (1992) (in Russian)."
+			}
+		]
+	}
+}

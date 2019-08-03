@@ -1,0 +1,37 @@
+{
+	"_id":    "MFiNT.37.0509",
+	"year":   2015,
+	"volume": 37,
+	"issue":  4,
+	"pages":  [509,519],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["14.01.2015"],
+	"PACS":   "52.40.Hf, 61.05.cp, 68.35.Dv, 68.37.Ps, 68.55.Nq, 81.07.Bc, 81.15.Gh",
+	"title":  {
+		"ua": "Газофазний синтез плівкових структур системи Ni—N",
+		"en": "Gas-Phase Synthesis of Film Structures of Ni—N System",
+		"ru": "Газофазный синтез плёночных структур системы Ni—N"
+	},
+	"abstract": {
+		"ua": "Показано, що магнетронне розпорошення є ефективним для синтези різноманітних наноструктурних фаз нітриду ніклю (твердий розчин Нітроґену у ніклі, Ni$_{4}$N, Ni$_{3}$N та Ni$_{2}$N). Визначено закономірності утворення наноколонарних або ґлобулярних плівкових структур системи Ni—N залежно від концентрації азоту у буферному газі.",
+		"en": "As shown, the magnetron sputtering is effective for the synthesis of various nanostructured phases of nickel nitride (solid solution of nitrogen in nickel, Ni$_{4}$N, Ni$_{3}$N, and Ni$_{2}$N). The regularities of formation of globular or nanocolumnar film structures are determined, depending on the concentration of nitrogen in the buffer gas.",
+		"ru": "Показано, что магнетронное распыление эффективно для синтеза различных наноструктурных фаз нитрида никеля (твёрдый раствор азота в никеле, Ni$_{4}$N, Ni$_{3}$N и Ni$_{2}$N). Определены закономерности образования наноколонарных или глобулярных плёночных структур системы Ni—N в зависимости от концентрации азота в буферном газе."
+	},
+	"keywords": {
+		"ua": "нітрид ніклю, наноколонарні структури, глобулярні структури, магнетронне розпорошення, атомно-силова мікроскопія",
+		"en": "nickel nitride, nanocolumnars, globules, magnetron sputtering, atomic force microscopy",
+		"ru": "нитрид никеля, наноколонарные структуры, глобулярные структуры, магнетронное распыление, атомно-силовая микроскопия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Р. В. Шалаєв", "en": "R. V. Shalaev", "ru": "Р. В. Шалаев"},
+			"OID": [8]
+		}
+	],
+	"references": {
+		"count": 12,
+		"list":  []
+	}
+}

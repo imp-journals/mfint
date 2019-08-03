@@ -1,0 +1,125 @@
+{
+	"_id":    "MFiNT.40.11.1489",
+	"year":   2018,
+	"volume": 40,
+	"issue":  11,
+	"pages":  [1489,1508],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["05.07.2018"],
+	"PACS":   "61.72.Ff, 62.20.F-, 62.20.M-, 81.20.Hy, 81.40.Ef, 81.40.Lm, 83.50.Uv",
+	"title":   {
+		"ua": "Поліпшення структури та механічних характеристик гарячевальцьованої евтектоїдної сталі швидкісним термічним обробленням",
+		"en": "Improvement of Structure and Mechanical Characteristics of Hot-Rolled Eutectoid Steel by Means of High-Speed Heat Treatment",
+		"ru": "Улучшение структуры и механических характеристик горячекатаной эвтектоидной стали скоростной термической обработкой"
+	},
+	"abstract": {
+		"ua": "Досліджено зміни структури та механічних властивостей гарячевальцьованої евтектоїдної сталі (0,76% С, 0,79% Mn, 0,32% Si) після додаткового швидкісного електротермічного оброблення — нормалізації або гартування з високотемпературним відпуском. Сталь після швидкісного нагрівання до 820°C охолоджували з різними швидкостями для одержання структур перліту чи суміші верхнього і нижнього бейніту та відпущеного мартенситу. Таке додаткове термічне оброблення поліпшує комплекс механічних властивостей гарячевальцьованої сталі, найефективніше після формування бейнітної структури. Встановлено, що руйнування високовідпущеної сталі за випробування на ударне вигинання та статичну тріщиностійкість супроводжується розшаруванням з поширенням тріщини у площині, паралельній площині вальцювання. Це зумовлює анізотропію ударної в’язкости. Статична тріщиностійкість $K_{1\\textrm{c}}$ сталі слабо змінюється, залежно від орієнтації площини руйнування зразків стосовно площини вальцювання, а її значення зберігаються на достатньо високому рівні.",
+		"en": "The changes in structure and mechanical properties of hot-rolled eutectoid steel (0.76% C, 0.79% Mn, 0.32% Si) are studied after additional high-speed electrothermal treatment—normalization or quenching with high-temperature tempering. Steel after high-speed heating to 820°C was cooled at different rates to obtain pearlite structures or a mixture of the upper and lower bainites and tempered martensite. Such additional heat treatment improves the complex of mechanical properties of hot-rolled steel, most effectively after the formation of the bainitic structure. As found, the destruction of high-released steel after impact tests and static fracture toughness is accompanied by delamination with the propagation of a crack in a plane parallel to the rolling plane. This leads to anisotropy of the toughness. The static fracture toughness $K_{1\\textrm{c}}$ of steel is slightly changing, depending on the orientation of the plane of fracture of the samples relative to the rolling plane, and its values remain at a sufficiently high level.",
+		"ru": "Исследованы изменение структуры и механических свойств горячекатаной эвтектоидной стали (0,76% C, 0,79% Mn, 0,32% Si) после дополнительной скоростной электротермической обработки — нормализации или закалки с высокотемпературным отпуском. Сталь после скоростного нагрева до 820°C охлаждали с различными скоростями для получения структур перлита или смеси верхнего и нижнего бейнита и отпущенного мартенсита. Такая дополнительная термическая обработка улучшает комплекс механических свойств горячекатаной стали, наиболее эффективно после формирования бейнитной структуры. Установлено, что разрушение высокоотпущенной стали после испытаний на ударный изгиб и статическую трещиностойкость сопровождается расслоением с распространением трещины в плоскости, параллельной плоскости прокатки. Это приводит к анизотропии ударной вязкости. Статическая трещиностойкость $K_{1\\textrm{c}}$ стали слабо меняется в зависимости от ориентации плоскости разрушения образцов относительно плоскости прокатки, а её значения сохраняются на достаточно высоком уровне."
+	},
+	"keywords": {
+		"ua": "евтектоїдна сталь, швидкісне електротермічне оброблення, механічні характеристики за розтягу, ударна в’язкість, статична тріщиностійкість, анізотропія",
+		"en": "eutectoid steel, high-speed electrothermal treatment, mechanical characteristics under tension, impact strength, static crack resistance, anisotropy",
+		"ru": "эвтектоидная сталь, скоростная электротермическая обработка, механические характеристики при растяжении, ударная вязкость, статическая трещиностойкость, анизотропия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Р. В. Тельович", "en": "R. V. Teliovich", "ru": "Р. В. Телевич"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Ю. А. Гарасим", "en": "J. A. Garasym", "ru": "Ю. А. Гарасим"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Г. В. Кречковська", "en": "H. V. Krechkovska", "ru": "Г. В. Кречковская"},
+			"OID": [6]
+		},
+		{
+			"AID": {"ua": "Н. О. Бондаревська", "en": "N. O. Bondarevska", "ru": "Н. А. Бондаревская"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 15,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "В. Н. Гриднев, Ю. Я. Мешков, С. П. Ошкадеров, В. И. Трефилов, Физические основы электротермического упрочнения стали (Киев: Наукова думка: 1973).",
+				"tr":  "V. N. Gridnev, Yu. Ya. Meshkov, S. P. Oshkaderov, and V. I. Trefilov, Fizicheskie Osnovy Elektrotermicheskogo Uprochneniya Stali (Kiev: Naukova Dumka: 1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "R. V. Teliovich, O. M. Ivasishin, Ye. I. Yakushechkin, and D. I. Nikonenko, (Ed. P. J. Winkler) (Wienheim: Wiley-VCH: 1999), p. 352.",
+				"tr":  "R. V. Teliovich, O. M. Ivasishin, Ye. I. Yakushechkin, and D. I. Nikonenko, (Ed. P. J. Winkler) (Wienheim: Wiley-VCH: 1999), p. 352."
+			},
+			{
+				"doi": "10.1007/BF02663328",
+				"or":  "R. A. Grande, Metallurgical Transactions, 2: 417 (1971).",
+				"tr":  "R. A. Grande, Metallurgical Transactions, 2: 417 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Гриднев, А. Д. Евпрев, Ю. Я. Мешков, С. П. Ошкадеров, Р. В. Телевич, Приборы для исследования физических свойств материалов (Киев: Наукова думка: 1974).",
+				"tr":  "V. N. Gridnev, A. D. Evprev, Yu. Ya. Meshkov, S. P. Oshkaderov, and R. V. Teliovich, Pribory dlya Issledovaniya Fizicheskykh Svoistv Materialov (Kiev: Naukova Dumka: 1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Расчеты и испытания на прочность. Методы механических испытаний металлов. Определение характеристик вязкости разрушения (трещиностойкости) при статическом нагружении: ГОСТ 25.506-85 (Москва: Изд-во стандартов: 1985).",
+				"tr":  "Raschyoty i Ispytaniya na Prochnost. Metody Mekhanicheskikh Ispytaniy Metallov. Opredelenie Kharakteristik Vyazkosti Razrusheniya (Treshchynostoikosti) pri Staticheskom Nagruzhenii: GOST 25.506-85 (Moscow: Izd-vo Standartov: 1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Standard Test Method for J-Integral Characterization of Fracture Toughness. ASTM. E 813 (Annual Book of ASTM Standards), vol. 03.01, p. 713.",
+				"tr":  "Standard Test Method for J-Integral Characterization of Fracture Toughness. ASTM. E 813 (Annual Book of ASTM Standards), vol. 03.01, p. 713."
+			},
+			{
+				"doi": "10.1007/s11003-016-9872-x",
+				"or":  "L. E. Kharchenko, O. E. Kunt, O. I. Zvirko, R. S. Savula, and Z. A. Duryahina, Mater. Sci., 51, No. 4: 530 (2016).",
+				"tr":  "L. E. Kharchenko, O. E. Kunt, O. I. Zvirko, R. S. Savula, and Z. A. Duryahina, Mater. Sci., 51, No. 4: 530 (2016)."
+			},
+			{
+				"doi": "10.1016/j.engfailanal.2017.07.015",
+				"or":  "H. Nykyforchyn, O. Zvirko, O. Tsyrulnyk, and N. Kret, Engineering Failure Analysis, 82: 364 (2017).",
+				"tr":  "H. Nykyforchyn, O. Zvirko, O. Tsyrulnyk, and N. Kret, Engineering Failure Analysis, 82: 364 (2017)."
+			},
+			{
+				"doi": "10.1007/BF01390293",
+				"or":  "Yu. Ya. Meshkov, I. S. Statsenko, and V. D. Bezbakh, Metal Sci. Heat Treatment, 36, Iss. 2: 84 (1994).",
+				"tr":  "Yu. Ya. Meshkov, I. S. Statsenko, and V. D. Bezbakh, Metal Sci. Heat Treatment, 36, Iss. 2: 84 (1994)."
+			},
+			{
+				"doi": "10.1007/BF02643841",
+				"or":  "B. I. Bramfitt and A. R. Marder, Met. Trans. A, 8A, August: 1263 (1977).",
+				"tr":  "B. I. Bramfitt and A. R. Marder, Met. Trans. A, 8A, August: 1263 (1977)."
+			},
+			{
+				"doi": "10.1007/s11661-009-0068-y",
+				"or":  "Wei Yan, Wei Sha, Lin Zhu, Wei Wang, Yi-Yin Shan, and Ke Yang, Metallurgical and Materials Transactions A, 41A, Iss. 1: 159 (2010).",
+				"tr":  "Wei Yan, Wei Sha, Lin Zhu, Wei Wang, Yi-Yin Shan, and Ke Yang, Metallurgical and Materials Transactions A, 41A, Iss. 1: 159 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "N. F. Tankoua, J. Crepin, P. Thibaux et al., Proc. 21eme Congrès Français de Mécanique (Aug. 26–30, 2013, Bordeaux).",
+				"tr":  "N. F. Tankoua, J. Crepin, P. Thibaux et al., Proc. 21eme Congrès Français de Mécanique (Aug. 26–30, 2013, Bordeaux)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Иванов, Н. А. Челышев, В. И. Воротищев, В. Н. Цвигун и др., Изв. ВУЗов. Черная металлургия, № 2: 60 (1990).",
+				"tr":  "A. V. Ivanov, N. A. Chelyshev, V. I. Vorotishchev, V. N. Tsvigun et al., Izv. VUZov. Chernaya Metallurgiya, No. 2: 60 (1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. Н. Романив, Е. А. Шур, А. И. Ткач, Т. Н. Киселева, В. Н. Синькович, Физико-химическая механика материалов, № 4: 42 (1982).",
+				"tr":  "O. N. Romaniv, E. A. Shur, A. I. Tkach, T. N. Kiseleva, and V. N. Sin'kovich, Fiziko-Khimicheskaya Mekhanika Materialov, No. 4: 42 (1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. Н. Романив, Е. А. Шур, В. Н. Синькович, А. И. Ткач, Т. Н. Киселев, Физико-химическая механика материалов, № 2: 37 (1983).",
+				"tr":  "O. N. Romaniv, E. A. Shur, V. N. Sin'kovich, A. I. Tkach, and T. N. Kiselev, Fiziko-Khimicheskaya Mekhanika Materialov, No. 2: 37 (1983) (in Russian)."
+			}
+		]
+	}
+}

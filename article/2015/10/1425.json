@@ -1,0 +1,198 @@
+{
+	"_id":    "MFiNT.37.10.1425",
+	"year":   2015,
+	"volume": 37,
+	"issue":  10,
+	"pages":  [1425,1442],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["23.06.2015","08.09.2015"],
+	"PACS":   "61.25.Bi, 61.25.Mv, 64.10.+h, 65.20.De, 71.15.Dx, 71.15.Nc, 96.30.Kf",
+	"title":  {
+			"ua": "Термодинамічні та кінетичні властивості одновалентного металічного гелію",
+			"en": "The Thermodynamic and Kinetic Properties of One-Valent Metallic Helium",
+			"ru": "Термодинамические и кинетические свойства одновалентного металлического гелия"
+		},
+	"abstract": {
+		"ua": "Ефективна парна міжйонна взаємодія, вільна енергія, тиск та електричний опір рідкого металічного гелію обчислено в широкому діяпазоні густин і температур. Для цього використано теорію збурень за псевдопотенціялом електрон-йонної взаємодії. В усіх випадках розрахунки велись із врахуванням членів третього порядку теорії збурень, що на сьогодні є максимально можливою точністю обчислень. Як псевдопотенціял взято модельний однопараметричний псевдопотенціял. Для електронів провідности використано наближення випадкових фаз. їх обмінна взаємодія і кореляції враховано в наближенні локального поля. Для йонної підсистеми використано модель твердих сфер. їхній діяметер вважається одним з підгінних параметрів теорії. Цей діяметер та густина, за якої відбувається перехід металічного гелію з одновалентного в двовалентний стан, одержуються з аналізи парної ефективної міжйонної взаємодії. Детально аналізується випадок одновалентного металічного гелію. В усіх розглянутих випадках роль членів третього порядку виявилася істотною. Значення електроопору металічного гелію відповідає величинам, характерним для простих одновалентних металів. Такою ж виявилась і поведінка тиску як функції густини і температури. Досліджений діяпазон густин і температур відповідає умовам, спостережуваним у центральній частині планет газових гігантів. Аналіза одержаних результатів свідчить про можливість існування гелію в металічному стані в надрах планет Юпітерової групи.",
+		"en": "Pair effective ion—ion interactions, free energy, pressure, and electrical resistance of liquid metallic helium are calculated in a wide range of densities and temperatures. For this problem, a perturbation theory by the pseudopotential of the electron—ion interaction is used. In all cases, calculations are carried out with regard to terms of the third-order perturbation theory, which is the maximum possible accuracy of calculations today. As pseudopotential, the one-parameter model pseudopotential is taken into account. For conduction electrons, the random phase approximation is used. Their exchange interaction and correlation are taken into account in local field approximation. For ionic subsystem, the model of hard spheres is used. Their diameter is one of the fitting parameters of a theory. This diameter and density, at which the transition from one-valent metallic helium to the divalent state takes place, are obtained from the analysis of the effective pair ion—ion interaction. The case of the one-valent metal helium is considered in detail. In all the above cases, the role of the third-order terms is significant. The value of electrical resistivity of metallic helium corresponds to the characteristic value of elementary one-valent metals. The behaviour of pressure as a function of density and temperature has the same peculiarity. The investigated ranges of densities and temperatures correspond to conditions observed in the central part of the gas-giants. Analysis of the results indicates the possible existence of the helium in a metallic state in the central parts of the Jovian-group planets.",
+		"ru": "Эффективное парное межионное взаимодействие, свободная энергия, давление и электрическое сопротивление жидкого металлического гелия вычислены в широком диапазоне плотностей и температур. Для этого использована теория возмущений по псевдопотенциалу электрон-ионного взаимодействия. Во всех случаях расчёты велись с учётом членов третьего порядка теории возмущений, что на сегодня является максимально возможной точностью вычислений. В качестве псевдопотенциала взят модельный однопараметрический псевдопотенциал. Для электронов проводимости использовано приближение случайных фаз. Их обменное взаимодействие и корреляции учтены в приближении локального поля. Для ионной подсистемы использована модель твёрдых сфер. Их диаметр считается одним из подгоночных параметров теории. Этот диаметр и плотность, при которой происходит переход металлического гелия из одновалентного в двухвалентное состояние, получены из анализа эффективного парного межионного взаимодействия. Подробно рассмотрен случай одновалентного металлического гелия. Во всех рассмотренных случаях роль членов третьего порядка оказалась существенной. Значение электросопротивления металлического гелия соответствует величинам, характерным для простых одновалентных металлов. Таким же оказалось и поведение давления как функции плотности и температуры. Исследованный диапазон плотностей и температур соответствует условиям, наблюдаемым в центральной части планет газовых гигантов. Анализ полученных результатов свидетельствует о возможности существования гелия в металлическом состоянии в недрах планет группы Юпитера."
+	},
+	"keywords": {
+		"ua": "рівняння стану, термодинаміка, електричний опір, металічний гелій",
+		"en": "equation of state, thermodynamics, electrical resistance, metal helium",
+		"ru": "уравнение состояния, термодинамика, электрическое сопротивление, металлический гелий"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Т. Швець", "en": "V. T. Shvets", "ru": "В. Т. Швец"},
+			"OID": [231]
+		}
+	],
+	"references": {
+		"count": 32,
+		"list":  [
+			{
+				"doi": "10.1070/PU1999v042n11ABEH000666",
+				"or":  "E. G. Maksimov and Yu. T. Shilov, Physics-Uspekhi, 42, No. 11: 1121 (1999).",
+				"tr":  "E. G. Maksimov and Yu. T. Shilov, Physics-Uspekhi, 42, No. 11: 1121 (1999)."
+			},
+			{
+				"doi": "10.1070/PU2007v050n04ABEH006234",
+				"or":  "V. E. Fortov, Physics-Uspekhi, 50, No. 4: 333 (2007).",
+				"tr":  "V. E. Fortov, Physics-Uspekhi, 50, No. 4: 333 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.76.1860",
+				"or":  "S. T. Weir, A. C. Mitchell, and W. J. Nellis, Phys. Rev. Lett., 76: 1860 (1996).",
+				"tr":  "S. T. Weir, A. C. Mitchell, and W. J. Nellis, Phys. Rev. Lett., 76: 1860 (1996)."
+			},
+			{
+				"doi": "10.1134/1.568114",
+				"or":  "V. E. Fortov, V. Ya. Ternovoi, S. V. Kvitov, V. B. Mintsev, D. N. Nikolaev, A. A. Pyalling, and A. S. Filimonov, JETP Lett., 69, No. 12: 926 (1999).",
+				"tr":  "V. E. Fortov, V. Ya. Ternovoi, S. V. Kvitov, V. B. Mintsev, D. N. Nikolaev, A. A. Pyalling, and A. S. Filimonov, JETP Lett., 69, No. 12: 926 (1999)."
+			},
+			{
+				"doi": "10.1016/S0921-4526(98)01303-9",
+				"or":  "V. Ya. Ternovoi, A. S. Filimonov, V. E. Fortov, S. V. Kvitov, D. N. Nikolaev, and A. A. Pyaling, Physica B (Amsterdam), 265: 6 (1999).",
+				"tr":  "V. Ya. Ternovoi, A. S. Filimonov, V. E. Fortov, S. V. Kvitov, D. N. Nikolaev, and A. A. Pyaling, Physica B (Amsterdam), 265: 6 (1999)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.86.3108",
+				"or":  "M. Bastea, A. C. Mitchell, and W. J. Nellis, Phys. Rev. Lett., 86: 3108 (2001).",
+				"tr":  "M. Bastea, A. C. Mitchell, and W. J. Nellis, Phys. Rev. Lett., 86: 3108 (2001)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.90.245501",
+				"or":  "R. Chau, A. C. Mitchell, R. W. Minich, and W. J. Nellis, Phys. Rev. Lett., 90: 245501 (2003).",
+				"tr":  "R. Chau, A. C. Mitchell, R. W. Minich, and W. J. Nellis, Phys. Rev. Lett., 90: 245501 (2003)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.24.5119",
+				"or":  "D. A. Young, A. K. McMahan, and M. Ross, Phys. Rev. B: Condens. Matter, 24: 5119 (1981).",
+				"tr":  "D. A. Young, A. K. McMahan, and M. Ross, Phys. Rev. B: Condens. Matter, 24: 5119 (1981)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.98.190602",
+				"or":  "A. Kietzmann, B. Holst, R. Redmer, M. P. Desjarfais, and T. R. Mattsson, Phys. Rev. Lett., 98: 190602 (2007).",
+				"tr":  "A. Kietzmann, B. Holst, R. Redmer, M. P. Desjarfais, and T. R. Mattsson, Phys. Rev. Lett., 98: 190602 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.101.106407",
+				"or":  "S. A. Kharallah and B. Militzer, Phys. Rev. Lett., 101: 106407 (2008).",
+				"tr":  "S. A. Kharallah and B. Militzer, Phys. Rev. Lett., 101: 106407 (2008)."
+			},
+			{
+				"doi": "10.1073/pnas.0804609105",
+				"or":  "L. Stixrude and R. Jeanloz, Proc. Natl. Acad. Sci. USA, 105: 11071 (2008).",
+				"tr":  "L. Stixrude and R. Jeanloz, Proc. Natl. Acad. Sci. USA, 105: 11071 (2008)."
+			},
+			{
+				"doi": "10.1134/S1063776113010159",
+				"or":  "V. T. Shvets, JETP, 143, No. 1: 159 (2013).",
+				"tr":  "V. T. Shvets, JETP, 143, No. 1: 159 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "E. G. Brovman, Yu. M. Kagan, and A. Holas, JETP, 34: 1300 (1971).",
+				"tr":  "E. G. Brovman, Yu. M. Kagan, and A. Holas, JETP, 34: 1300 (1971)."
+			},
+			{
+				"doi": "10.1103/PhysRevA.9.782",
+				"or":  "D. J. Stevenson and N. W. Ashcroft, Phys. Rev. A: At., Mol., Opt. Phys., 9: 782 (1974).",
+				"tr":  "D. J. Stevenson and N. W. Ashcroft, Phys. Rev. A: At., Mol., Opt. Phys., 9: 782 (1974)."
+			},
+			{
+				"doi": "10.1134/S1063776107040164",
+				"or":  "V. T. Shvets, JETP, 104, No. 4: 655 (2007).",
+				"tr":  "V. T. Shvets, JETP, 104, No. 4: 655 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "W. A. Harrison, Pseudopotentials in the Theory of Metals (New York: WA Benjamin: 1966).",
+				"tr":  "W. A. Harrison, Pseudopotentials in the Theory of Metals (New York: WA Benjamin: 1966)."
+			},
+			{
+				"doi": "",
+				"or":  "V. T. Shvets, Method of Green’s Functions in the Theory of Metals (Odesa: Latstar: 2002) (in Ukrainian).",
+				"tr":  "V. T. Shvets, Method of Green's Functions in the Theory of Metals (Odesa: Latstar: 2002) (in Ukrainian)."
+			},
+			{
+				"doi": "10.12693/APhysPolA.96.741",
+				"or":  "V. T. Shvets and E. V. Belov, Acta Physica Polonica A, 96, No. 6: 403 (1999).",
+				"tr":  "V. T. Shvets and E. V. Belov, Acta Physica Polonica A, 96, No. 6: 403 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "I. A. Vakarchuk, Introduction to the Many-Body Problem (Lviv: Lviv University: 1999) (in Ukrainian).",
+				"tr":  "I. A. Vakarchuk, Introduction to the Many-Body Problem (Lviv: Lviv University: 1999) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.31.3715",
+				"or":  "W. H. Shih and D. Stroud, Phys. Rev. B: Condens. Matter, 31: 3715 (1985).",
+				"tr":  "W. H. Shih and D. Stroud, Phys. Rev. B: Condens. Matter, 31: 3715 (1985)."
+			},
+			{
+				"doi": "10.1088/0022-3719/1/6/319",
+				"or":  "P. Lloyd and C. A. Shall, J. Phys. C: Solid State Phys., 1: 1620 (1968).",
+				"tr":  "P. Lloyd and C. A. Shall, J. Phys. C: Solid State Phys., 1: 1620 (1968)."
+			},
+			{
+				"doi": "",
+				"or":  "E. G. Brovman and Yu. Kagan, JETP, 36, No. 5: 1025 (1972).",
+				"tr":  "E. G. Brovman and Yu. Kagan, JETP, 36, No. 5: 1025 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "E. G. Brovman and A. Holas, JETP, 39: 924 (1974).",
+				"tr":  "E. G. Brovman and A. Holas, JETP, 39: 924 (1974)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.9.409",
+				"or":  "J. Hammerberg and N. W. Ashcroft, Phys. Rev. B: Solid State, 9: 3999 (1974).",
+				"tr":  "J. Hammerberg and N. W. Ashcroft, Phys. Rev. B: Solid State, 9: 3999 (1974)."
+			},
+			{
+				"doi": "10.1080/14786436408211874",
+				"or":  "L. Ballentine and V. Heine, Philos. Mag., 9: 617 (1964).",
+				"tr":  "L. Ballentine and V. Heine, Philos. Mag., 9: 617 (1964)."
+			},
+			{
+				"doi": "10.1139/p66-174",
+				"or":  "D. J. M. Geldart and S. H. Vosko, Can. J. Phys., 44: 2137 (1966).",
+				"tr":  "D. J. M. Geldart and S. H. Vosko, Can. J. Phys., 44: 2137 (1966)."
+			},
+			{
+				"doi": "",
+				"or":  "V. T. Shvets, Phys. Met. Metallogr., 89, No. 3: 211 (2000).",
+				"tr":  "V. T. Shvets, Phys. Met. Metallogr., 89, No. 3: 211 (2000)."
+			},
+			{
+				"doi": "10.5488/CMP.9.1.127",
+				"or":  "V. T. Shvets, S. V. Savenko, and Ye. K. Malinovskiy, Condens. Matter Phys., 9: 1 (2006).",
+				"tr":  "V. T. Shvets, S. V. Savenko, and Ye. K. Malinovskiy, Condens. Matter Phys., 9: 1 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "S. D. Kaim, N. P. Kovalenko, and E. V. Vasiliu, J. Phys. Studies, 1: 589 (1997).",
+				"tr":  "S. D. Kaim, N. P. Kovalenko, and E. V. Vasiliu, J. Phys. Studies, 1: 589 (1997)."
+			},
+			{
+				"doi": "10.1134/S0021364012010109",
+				"or":  "V. T. Shvets, JETP Lett., 95, No. 1: 29 (2012).",
+				"tr":  "V. T. Shvets, JETP Lett., 95, No. 1: 29 (2012)."
+			},
+			{
+				"doi": "10.1134/S0031918X12100122",
+				"or":  "V. T. Shvets, Phys. Met. Metallogr., 113, No. 10: 977 (2012).",
+				"tr":  "V. T. Shvets, Phys. Met. Metallogr., 113, No. 10: 977 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "V. T. Shvets, T. V. Shvets, and Ya. Ye. Rachynskiy, Ukr. J. Phys., 55: 251 (2010).",
+				"tr":  "V. T. Shvets, T. V. Shvets, and Ya. Ye. Rachynskiy, Ukr. J. Phys., 55: 251 (2010)."
+			}
+		]
+	}
+}

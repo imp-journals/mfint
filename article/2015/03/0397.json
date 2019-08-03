@@ -1,0 +1,53 @@
+{
+	"_id":    "MFiNT.37.0397",
+	"year":   2015,
+	"volume": 37,
+	"issue":  3,
+	"pages":  [397,407],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["10.11.2014"],
+	"PACS":   "52.80.Mg, 52.80.Qj, 52.80.Wq, 62.50.Ef, 81.05.Bx, 81.40.Pq, 83.80.Nb",
+	"title":  {
+		"ua": "Дослідження зносу металевої частини електродної системи електрогідравлічного бура",
+		"en": "Investigation of the Wear of the Metallic Part of Electrode System of Electrohydraulic Drill",
+		"ru": "Исследование износа металлической части электродной системы электрогидравлического бура"
+	},
+	"abstract": {
+		"ua": "У статті розглядаються основні переваги електрогідравлічного способу свердління, при якому відбувається знос металевої частини електрод свердла. У ході дослідження одержано залежності швидкости зносу електроди від енергетичних параметрів та кількости електрогідравлічних імпульсів. За результатами аналізи експериментальних даних встановлено оптимальні значення електрофізичних параметрів, що забезпечуються металевою електродною системою, за яких відбувається інтенсивне руйнування твердих гірських порід. На основі мікроскопічних знімків досліджено розтоплені ділянки поверхні електрод під дією підводного іскрового розряду. Запропоноване електрогідравлічне свердло дає можливість більш ефективно руйнувати та подрібнювати тверде каміння електрогідравлічним розрядом при свердлінні свердловин.",
+		"en": "The article presents the main advantages of electric hydraulic drilling method. During the drilling, the wear of the metal parts of the drill electrodes takes place. In the course of the investigation, the authors determined the dependences of the electrode wear rate on both the energy parameters and the number of electro-hydraulic pulses. Using the analysis of the experimental data, the optimal values of electrophysical parameters provided by the metal electrode system, for which an intensive destruction of solid rock takes place, are determined. Based on microscopic images, the areas of the electrode surface melted under the underwater spark discharge are investigated. The proposed electric hydraulic drill makes it possible to destroy and crush hard stones more efficiently by means of the electro-hydraulic discharge during well drilling.",
+		"ru": "В статье рассматриваются основные преимущества электрогидравлического способа бурения, при котором происходит износ металлической части электродов бура. В процессе исследования получены зависимости скорости изнашивания электрода от энергетических параметров и количества электрогидравлических импульсов. В результате анализа экспериментальных данных установлены оптимальные значения электрофизических параметров, обеспечиваемые металлической электродной системой, при которых происходит интенсивное разрушение твёрдых горных пород. На основании микроскопических снимков исследованы расплавленные участки поверхности электродов под воздействием подводного искрового разряда. Предлагаемый электрогидравлический бур позволяет более эффективно разрушать и измельчать твёрдые камни электрогидравлическим разрядом при бурении скважин."
+	},
+	"keywords": {
+		"ua": "знос металу електродів, електричний розряд, металева електродна система, електрогідравлічний бур",
+		"en": "wear of electrodes' metal, electric discharge, metal electrode system, electric hydraulic drill",
+		"ru": "износ металла электродов, электрический разряд, металлическая электродная система, электрогидравлический бур"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "К. Кусаіинов", "en": "K. Kusaiynov", "ru": "К. Кусаиынов"},
+			"OID": [425]
+		},
+		{
+			"AID": {"ua": "Б. Р. Нусупбеков", "en": "B. R. Nusupbekov", "ru": "Б. Р. Нусупбеков"},
+			"OID": [425]
+		},
+		{
+			"AID": {"ua": "С. Є. Сакіпова", "en": "S. E. Sakipova", "ru": "С. Е. Сакипова"},
+			"OID": [425]
+		},
+		{
+			"AID": {"ua": "Н. Н. Шуюшбаєва", "en": "N. N. Shuyushbayeva", "ru": "Н. Н. Шуюшбаева"},
+			"OID": [425]
+		},
+		{
+			"AID": {"ua": "А. К. Хасенов", "en": "А. K. Khasenov", "ru": "А. К. Хасенов"},
+			"OID": [425]
+		}
+	],
+	"references": {
+		"count": 10,
+		"list":  []
+	}
+}

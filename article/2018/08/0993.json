@@ -1,0 +1,122 @@
+{
+	"_id":    "MFiNT.40.08.0993",
+	"year":   2018,
+	"volume": 40,
+	"issue":  8,
+	"pages":  [993,1004],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["17.05.2018"],
+	"PACS":   "51.50.+v, 52.80.-s, 62.20.Qp, 81.05.Bx, 81.15.Hi, 81.65.Lp, 81.70.Bt",
+	"title":   {
+		"ua": "Зміцнення поверхні сталі 45 йонним азотуванням у геліконному розряді",
+		"en": "Hardening of a Surface of Steel 45 by the Ion Nitridation in a Helicon Discharge",
+		"ru": "Упрочнение поверхности стали 45 ионным азотированием в геликонном разряде"
+	},
+	"abstract": {
+		"ua": "Проведено аналізу досліджень зі зміцнення металевих поверхонь шляхом формування дифузійних покриттів, виділено найбільш перспективні технології для підвищення зносостійкости деталів тертя. Наведено загальний вигляд установки для йонного азотування у геліконному розряді та принципові схеми основних її вузлів, описано принципи їх роботи. Експериментально досліджено зміцнення сталевих зразків методою йонного азотування у геліконному розряді. Доведено перспективність впровадження цієї методи зміцнення шляхом порівняння одержаних результатів із результатами сучасних традиційних метод азотування.",
+		"en": "The analysis of research of the metal surface hardening by means of the forming of diffusion coatings is made. The most promising technologies for the increase of wear resistance of friction parts are highlighted. The general view of the device for ion nitridation in a helicon discharge, the principal scheme of its main nodes, and the principles of their operation are described. Hardening of the steel samples by the method of ion nitridation in a helicon discharge is experimentally investigated. The prospect of introducing this method of hardening is proved by the comparison of the obtained results with the results of state-of-the-art traditional methods of nitridation.",
+		"ru": "Проведён анализ исследований по упрочнению металлических поверхностей путём формирования диффузионных покрытий, выделены наиболее перспективные технологии для повышения износостойкости деталей трения. Приведены общий вид установки для ионного азотирования в геликонном разряде и принципиальные схемы основных её узлов, описаны принципы их работы. Экспериментально исследовано упрочнение стальных образцов методом ионного азотирования в геликонном разряде. Доказана перспективность внедрения этого метода упрочнения путём сравнения полученных результатов с результатами современных традиционных методов азотирования."
+	},
+	"keywords": {
+		"ua": "азотування, зміцнення, йонне азотування, геліконний розряд, дифузійні покриття, підвищення зносостійкости",
+		"en": "nitridation, hardening, ion nitridation, helicon discharge, diffusion coatings, increase of wear resistance",
+		"ru": "азотирование, упрочнение, ионное азотирование, геликонный разряд, диффузионные покрытия, повышение износостойкости"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Е. М. Руденко", "en": "E. M. Rudenko", "ru": "Э. М. Руденко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. Є. Панарін", "en": "V. Ye. Panarin", "ru": "В. Е. Панарин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "П. О. Киричок", "en": "P. O. Kyrychok", "ru": "П. А. Киричок"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "М. Є. Свавільний", "en": "M. Ye. Svavilnyi", "ru": "Н. Е. Свавильный"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "І. В. Короташ", "en": "I. V. Korotash", "ru": "И. В. Короташ"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Д. Ю. Полоцький", "en": "D. Yu. Polotskyi", "ru": "Д. Ю. Полоцкий"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Р. Л. Тріщук", "en": "R. L. Trishchuk", "ru": "Р. Л. Трищук"},
+			"OID": [202]
+		}
+	],
+	"references": {
+		"count": 12,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Ю. М. Лахтин, Я. Д. Коган, Азотирование стали (Москва: Машиностроение: 1976).",
+				"tr":  "Yu. M. Lakhtyn and Ya. D. Kokhan, Azotirovanie Stali (Moscow: Mashinostroenie: 1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Н. Арзамасов, А. Г. Братухин, Ю. С. Елисеев, Т. А. Панайоти, Ионная химико-термическая обработка сплавов (Москва: Изд-во МГТУ им. Н.  Э. Баумана: 1999).",
+				"tr":  "B. N. Arzamasov, A. H. Bratukhyn, Yu. S. Elyseev, and T. A. Panayoti, Ionnaya Khimiko-Termicheskaya Obrabotka Splavov (Moscow: Izd-vo MGTU im. N. E. Baumana: 1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Каплун, П. В. Каплун, Ионное азотирование в безводородных средах (Хмельницкий: ХНУ: 2015).",
+				"tr":  "V. G. Kaplun and P. V. Kaplun, Ionnoe Azotirovanie v Bezvodorodnykh Sredakh (Khmelnitskyi: KhNU: 2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. О. Костик, В. О. Костик, Вісник Національного технічного університету «ХПІ». Серія: Нові рішення в сучасних технологіях, № 48: 21 (2014).",
+				"tr":  "K. O. Kostyk and V. O. Kostyk, Visnyk Natsionalnogo Tekhnichnogo Universytetu 'KhPI'. Seriya: Novi Rishennya v Suchasnykh Tekhnologiyakh, No. 48: 21 (2014) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Каплун, Физическая инженерия поверхности, 1, № 2: 141 (2003).",
+				"tr":  "V. G. Kaplun, Fizicheskaya Inzheneriya Poverkhnosti, 1, No. 2: 141 (2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. Ю. Рудик, Вісник Національного технічного університету. Серія: Механіко-технологічні системи та комплекси, № 19: 22 (2017).",
+				"tr":  "O. Yu. Rudyk, Visnyk Natsionalnogo Tekhnichnogo Universytetu. Seriya: Mekhaniko-Tekhnologichni Systemy ta Kompleksy, No. 19: 22 (2017) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. В. Каплун, В. А. Гончар, Б. І. Тютюник, П. В. Матвіїшин, Проблеми трибології, № 2: 16 (2017).",
+				"tr":  "P. V. Kaplun, V. A. Gonchar, B. I. Tiutiunyk, and P. V. Matviyishyn, Problemy Trybologii, No. 2: 16 (2017) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. М. Пастух, Г. Н. Соколова, Н. В. Лукьянюк, Проблеми трибології, № 3: 18 (2013).",
+				"tr":  "I. M. Pastukh, G. N. Sokolova, and N. V. Lukianyuk, Problemy Trybologii No. 3: 18 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. В. Радько, О. Ю. Кумуржи, В. В. Жигінас, О. І. Кремешний, Збірник наукових праць Харківського університету повітряних сил, вип. 1: 156 (2013).",
+				"tr":  "O. V. Radko, O. Yu. Kumurzhy, V. V. Zhyginas, and O. I. Kremeshnyi, Zbirnyk Naukovykh Prats Kharkivskogo Universytetu Povitryanykh Syl, Iss. 1: 156 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15587/1729-4061.2016.63659",
+				"or":  "О. В. Соболь, А. А. Андреев, В. А. Столбовой, С. А. Князев, А. Е. Бармин, Н. А. Кривобок, Восточно-Европейский журнал передовых технологий, 2, № 5 (80): 63 (2016).",
+				"tr":  "O. V. Sobol, A. A. Andreev, V. A. Stolbovoy, S. A. Knyazev, A. E. Barmin, and N. A. Krivobok, Eastern-European Journal of Enterprise Technologies, 2, No. 5 (80): 63 (2016) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Андреев, В. М. Шулаев, Л. П. Саблев, Физическая инженерия поверхности, 4, № 3–4: 191 (2006).",
+				"tr":  "A. A. Andreev, V. M. Shulaev, and L. P. Sablev, Fizicheskaya Inzheneriya Poverkhnosti, 4, Nos. 3–4: 191 (2006) (in Russian)."
+			},
+			{
+				"doi": "10.15407/scin5.05.005",
+				"or":  "Е. М. Руденко, І. В. Короташ, В. Ф. Семенюк, К. П. Шамрай, Наука та інновації, 5, № 5: 5 (2009).",
+				"tr":  "E. M. Rudenko, I. V. Korotash, V. F. Semeniuk, and K. P. Shamrai, Nauka Innov., 5, No. 5: 5 (2009) (in Ukrainian)."
+			}
+		]
+	}
+}

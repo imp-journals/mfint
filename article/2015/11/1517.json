@@ -1,0 +1,100 @@
+{
+	"_id":    "MFiNT.37.11.1517",
+	"year":   2015,
+	"volume": 37,
+	"issue":  11,
+	"pages":  [1517,1525],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["26.08.2015"],
+	"PACS":   "61.72.Hh, 62.20.de, 62.40.+i, 75.20.En, 75.60.Lr, 75.80.+q, 83.60.Np",
+	"title":  {
+			"ua": "Вплив слабких магнетних полів на механічні властивості берилію",
+			"en": "The Influence of Weak Magnetic Fields on the Mechanical Properties of Beryllium",
+			"ru": "Влияние слабых магнитных полей на механические свойства бериллия"
+		},
+	"abstract": {
+		"ua": "Досліджено поведінку пружніх та непружніх властивостей магнійтермічного берилійового конденсату до, під час та після дії на нього слабких постійних магнетних полів. Проаналізовано амплітудні, температурні та часові залежності ефективного модуля зсуву, низькочастотного внутрішнього тертя та відношення швидкостей руху дислокацій. Виявлено прямий та зворотній магнетопластичний ефекти й ефекти «магнетної пам’яті». Природу виявлених ефектів проаналізовано з позицій зміни руху дислокацій з гістерезисного на в’язкий, перебіг структурно-фазових перетворень мартенситного типу з утворенням неспівмірних фаз і появи та заліковування мікротріщин на стадії пружньої деформації берилію.",
+		"en": "The behaviour of elastic and inelastic properties of magnesium-thermal beryllium condensate (MTC) before, during, and after the action of weak permanent magnetic fields on this condensate is investigated. The amplitude, temperature, and time dependences of the effective shear modulus, low-frequency internal friction, and the ratios of motion rates of dislocations are analysed. The direct and reverse magnetoplastic effects and ‘magnetic memory’ effects are revealed. The nature of these effects is analysed from the positions of changing of the type of dislocations motion from hysteresis motion to viscous motion, occurrence of structural and phase transformations of the martensitic type with the formation of incommensurate phases and appearance and healing of microcracks at the stage of elastic deformation of beryllium.",
+		"ru": "Исследовано поведение упругих и неупругих свойств магнийтермического бериллиевого конденсата до, во время и после воздействия на него слабых постоянных магнитных полей. Проанализированы амплитудные, температурные и временные зависимости эффективного модуля сдвига, низкочастотного внутреннего трения и отношения скоростей движения дислокаций. Обнаружены прямой и обратный магнитопластический эффекты и эффект «магнитной памяти». Природа обнаруженных эффектов проанализирована с позиций изменения движения дислокаций с гистерезисного на вязкое, протекания структурно-фазовых превращений мартенситного типа с образованием несоразмерных фаз и появления и залечивания микротрещин на стадии упругой деформации бериллия."
+	},
+	"keywords": {
+		"ua": "берилій, прямий та зворотній магнетопластичні ефекти, «магнетна пам’ять», відношення швидкостей руху дислокацій, фазові перетворення мартенситного типу, неспівмірна фаза, мікротріщини",
+		"en": "beryllium, direct and reverse magnetoplastic effects, ‘magnetic memory’, ratios of motion rates of dislocations, martensitic phase transformations, incommensurate phase, microcracks",
+		"ru": "бериллий, прямой и обратный магнитопластический эффекты, «магнитная память», отношение скоростей движения дислокаций, фазовые превращения мартенситного типа, несоразмерная фаза, микротрещины"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Є. І. Курек", "en": "E. I. Kurek", "ru": "Е. И. Курек"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "І. Г. Курек", "en": "I. G. Kurek", "ru": "И. Г. Курек"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "А. В. Олійнич-Лисюк", "en": "A. V. Oliynych-Lysyuk", "ru": "А. В. Олийнич-Лысюк"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "М. Д. Раранський", "en": "M. D. Rarans’ky", "ru": "Н. Д. Раранский"},
+			"OID": [215]
+		}
+	],
+	"references": {
+		"count": 10,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Е. И. Курек, И. Г. Курек, А. В. Олейнич-Лысюк, Н. Д. Раранский, Физ. тверд. тела, 55, № 10: 1897 (2013).",
+				"tr":  "E. I. Kurek, I. G. Kurek, A. V. Oleinich-Lysyuk, and N. D. Raranskiy, Fizika Tverdogo Tela, 55, No. 10: 1897 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. И. Курек, И. Г. Курек, А. В. Олейнич-Лысюк, Н. Д. Раранский, Физ. тверд. тела, 56, № 8: 1546 (2014).",
+				"tr":  "E. I. Kurek, I. G. Kurek, A. V. Oleinich-Lysyuk, and N. D. Raranskiy, Fizika Tverdogo Tela, 56, No. 8: 1546 (2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Б. Моргунов, А. Л. Бучаченко, ЖЭТФ, 136, № 3 (9): 505 (2009).",
+				"tr":  "R. B. Morgunov and A. L. Buchachenko, ZhETF, 136, No. 3 (9): 505 (2009) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.36.10.1303",
+				"or":  "Є. І. Курек, І. Г. Курек, А. В. Олійнич-Лисюк, М. Д. Раранський, Металлофиз. новейшие технол., 36, № 10: 1303 (2014).",
+				"tr":  "E. I. Kurek, I. G. Kurek, A. V. Oleynich-Lysyuk, and M. D. Rarans'ky, Metallofiz. Noveishie Tekhnol., 36, No. 10: 1303 (2014) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Головин, А. Пушкар, Д. М. Левин, Упругие и демпфирующие свойства конструкционных металлических материалов (Москва: Металлургия: 1987).",
+				"tr":  "S. A. Golovin, A. Pushkar, and D. M. Levin, Uprugie i Dempfiruyushchie Svoistva Konstruktsionnykh Materialov [The Elastic and Damping Properties of Structural Metallic Materials] (Moscow: Metallurgiya: 1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Олейнич-Лысюк, Н. Д. Раранский, Физ. тверд. тела, 54 (3): 417 (2012).",
+				"tr":  "A. V. Oleynich-Lysyuk and N. D. Raranskiy, Fizika Tverdogo Tela, 54, No. 3: 417 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Олійнич-Лисюк, М. Д. Раранський, Металлофиз. новейшие технол., 28, № 12: 1661 (2006).",
+				"tr":  "A. V. Olijnych-Lysyuk and M. D. Rarans'ky, Metallofiz. Noveishie Tekhnol., 28, No. 12: 1661 (2006) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Гриднев, Природа, 8: 52 (2013).",
+				"tr":  "S. A. Grignev, Priroda, 8: 52 (2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. И. Курек, А. В. Олейнич-Лысюк, Н. Д. Раранский, Письма в ЖТФ, 37, № 24: 1 (2011).",
+				"tr":  "E. I. Kurek, A. V. Oleynich-Lysyuk, and N. D. Raranskiy, Pisma v Zhurnal Tekhnicheskoy Fiziki, 37, No. 24: 1 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Є. І. Курек, І. Г. Курек, А. В. Олійнич-Лисюк, М. Д. Раранський, 5 Міжнародна конференція «Механіка руйнування матеріалів і міцність конструкцій» (24–27 червня 2014, Львів), с. 267.",
+				"tr":  "E. I. Kurek, I. G. Kurek, A. V. Oliynych-Lysyuk, and M. D. Rarans'ky, Abstr. Int. Conf. Fracture Mechanics of Materials and Structural Integrity (June 24–27, 2014, Lviv, Ukraine), p. 267 (in Ukrainian)."
+			}
+		]
+	}
+}

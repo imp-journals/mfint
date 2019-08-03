@@ -1,0 +1,172 @@
+{
+	"year":   2017,
+	"volume": 39,
+	"issue":  6,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [709,718],
+			"title": {
+				"ua": "Температурна залежність електронної структури FeSe",
+				"en": "Temperature Dependence of the Electronic Structure of FeSe",
+				"ru": "Температурная зависимость электронной структуры FeSe"
+			},
+			"autors": {
+				"ua": "Ю. В. Пустовіт, В. В. Безгуба, О. А. Кордюк",
+				"en": "Yu. V. Pustovit, V. V. Bezguba, and A. A. Kordyuk",
+				"ru": "Ю. В. Пустовит, В. В. Безгуба, А. А. Кордюк"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [719,731],
+			"title": {
+				"ua": "Реакція критичної температури надпровідного переходу й енергетичних щілин MgB$_2$ на гідростатичне стиснення",
+				"en": "Response of Critical Temperature of the Superconducting Transition and Energy Gaps of MgB$_2$ to the Hydrostatic Compression",
+				"ru": "Реакция критической температуры сверхпроводящего перехода и энергетических щелей MgB$_2$ на гидростатическое сжатие"
+			},
+			"autors": {
+				"ua": "О. І. Дьяченко, В. Ю. Таренков, В. В. Кононенко",
+				"en": "O. I. D’yachenko, V. Yu. Tarenkov, and V. V. Kononenko",
+				"ru": "А. И. Дьяченко, В. Ю. Таренков, В. В. Кононенко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [733,742],
+			"title": {
+				"ua": "Частотні характеристики мемристорних структур на основі складних оксидів перехідних металів",
+				"en": "Frequency Characteristics of Memristor Structures Based on the Complex Transition-Metal Oxides",
+				"ru": "Частотные характеристики мемристорных структур на основе сложных оксидов переходных металлов"
+			},
+			"autors": {
+				"ua": "В. В. Шамаєв, О. С. Житлухіна",
+				"en": "V. V. Shamaev and E. S. Zhitlukhina",
+				"ru": "В. В. Шамаев, Е. С. Житлухина"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [743,752],
+			"title": {
+				"ua": "Перколяційний перехід та оптичні властивості тонких плівок золота",
+				"en": "Percolation Transition and Optical Properties of Thin Films of Gold",
+				"ru": "Перколяционный переход и оптические свойства тонких плёнок золота"
+			},
+			"autors": {
+				"ua": "Р. І. Бігун, З. В. Стасюк, О. В. Строганов, Д. С. Леонов",
+				"en": "R. I. Bihun, Z. V. Stasyuk, O. V. Stroganov, and D. S. Leonov",
+				"ru": "Р. И. Бигун, З. В. Стасюк, О. В. Строганов, Д. С. Леонов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  2,
+			"pages":  [753,765],
+			"title": {
+				"ua": "Фізична природа та методичні основи діягностики з використанням ефекту асиметрії азимутальної залежности повної інтеґральної інтенсивности динамічної дифракції Рентґенових променів у кристалах з порушеним поверхневим шаром",
+				"en": "The Physical Nature and Methodological Grounds of Diagnostics with Use of Effect of Asymmetry of Azimuthal Dependence of the Total Integrated Intensity of a Dynamical X-Ray Diffraction in Crystals with the Disturbed Surface Layer",
+				"ru": "Физическая природа и методические основы диагностики с использованием эффекта асимметрии азимутальной зависимости полной интегральной интенсивности динамической дифракции рентгеновских лучей в кристаллах с нарушенным поверхностным слоем"
+			},
+			"autors": {
+				"ua": "В. Б. Молодкін, Г. І. Низкова, Є. І. Богданов, В. В. Лізунов, М. Г. Толмачев, С. В. Дмітрієв, Я. В. Василик, С. В. Лізунова, А. Г. Карпов, О. Г. Войток, В. П. Почекуєв",
+				"en": "V. B. Molodkin, A. I. Nizkova, E. I. Bogdanov, V. V. Lizunov, N. G. Tolmachev, S. V. Dmitriev, Y. V. Vasylyk, S. V. Lizunova, A. G. Karpov, O. G. Voitok, and V. P. Pochekuev",
+				"ru": "В. Б. Молодкин, А. И. Низкова, Е. И. Богданов, В. В. Лизунов, Н. Г. Толмачев, С. В. Дмитриев, Я. В. Василик, С. В. Лизунова, А. Г. Карпов, О. Г. Войток, В. П. Почекуев"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  2,
+			"pages":  [767,778],
+			"title": {
+				"ua": "Зміни структури багатошарових рентґенівських дзеркал Zr/Mg із ростом товщини нанорозмірних шарів маґнію",
+				"en": "Changes of Structure of Zr/Mg Multilayer X-Ray Mirrors with Growth of Thickness of Nanosize Layers of Magnesium",
+				"ru": "Изменения структуры многослойных рентгеновских зеркал Zr/Mg с ростом толщины наноразмерных слоёв магния"
+			},
+			"autors": {
+				"ua": "Л. Є. Конотопсьский, І. Ф. Михайлов, І. А. Копилець, В. В. Мамон, В. В. Кондратенко",
+				"en": "L. E. Konotopsky, I. F. Mikhailov, I. A. Kopylets, V. V. Mamon, and V. V. Kondratenko",
+				"ru": "Л. Е. Конотопский, И. Ф. Михайлов, И. А. Копылец, В. В. Мамон, В. В. Кондратенко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [779,793],
+			"title": {
+				"ua": "Механічні та структурні дослідження трикомпонентних шарів Mo–Zr–N, нанесених на підложжя фізичним осадженням парів",
+				"en": "Mechanical and Structural Studies of Ternary Mo–Zr–N Layers Deposited on Substrate by PVD",
+				"ru": "Механические и структурные исследования трёхкомпонентных слоёв Mo–Zr–N, нанесённых на подложку физическим осаждением паров"
+			},
+			"autors": {
+				"ua": "Абдельазіз Аббуді, Брагім Шармім, Хамид Джебейлі, Мурад Бріуа",
+				"en": "Abdelaziz Abboudi, Brahim Chermime, Hamid Djebaili, and Mourad Brioua",
+				"ru": "Абдельазиз Аббуди, Брахим Шармим, Хамид Джебейли, Мурад Бриуа"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [795,813],
+			"title": {
+				"ua": "Вплив зсувної компоненти навантаження при терті на структурно-фазовий стан і зношування поверхневого шару сталі 45",
+				"en": "Influence of Shear Component of Load Under the Friction on a Structure–Phase State and Wear of Surface Layer of Steel 1045",
+				"ru": "Влияние сдвиговой компоненты нагрузки при трении на структурно-фазовое состояние и износ поверхностного слоя стали 45"
+			},
+			"autors": {
+				"ua": "Б. М. Мордюк, О. О. Мікосянчик",
+				"en": "B. M. Mordyuk and O. O. Mikosyanchyk",
+				"ru": "Б. Н. Мордюк, О. А. Микосянчик"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [815,821],
+			"title": {
+				"ua": "Фарадеїв ефект у тонких плівках металів Fe, Co, Ni на підложжях з поліетилентерефталату",
+				"en": "Faraday Effect in Thin Films of Metals (Fe, Co, Ni) on Polyethyleneterephthalate Substrates",
+				"ru": "Эффект Фарадея в тонких плёнках металлов Fe, Co, Ni на подложках из полиэтилентерефталата"
+			},
+			"autors": {
+				"ua": "К. О. Шаповал, А. М. Касумов, Г. В. Лашкарьов",
+				"en": "K. O. Shapoval, A. M. Kasumov, and G. V. Lashkarev",
+				"ru": "К. О. Шаповал, А. М. Касумов, Г. В. Лашкарёв"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [823,837],
+			"title": {
+				"ua": "Дослідження структури загартованих литих біосумісних стопів Ti–18Nb–$х$Si",
+				"en": "Investigation of Structure of the Quenched Cast Biocompatible Ti–18Nb–$х$Si Alloys",
+				"ru": "Исследование структуры закалённых литых биосовместимых сплавов Ti–18Nb–$х$Si"
+			},
+			"autors": {
+				"ua": "О. М. Шевченко, Л. Д. Кулак, М. М. Кузьменко, А. В. Котко, С. О. Фірстов",
+				"en": "О. М. Shevchenko, L. D. Kulak, M. M. Kuzmenkо, A. V. Kotko, and S. O. Firstov",
+				"ru": "О. М. Шевченко, Л. Д. Кулак, Н. Н. Кузьменко, А. В. Котко, С. А. Фирстов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [839,854],
+			"title": {
+				"ua": "Фазові напруження як причина гальмування розпаду метастабільного стану в надпластичних евтектичних стопах",
+				"en": "Phase Stresses as the Cause of Inhibiting Action for the Decomposition of a Metastable State in Superplastic Eutectic Alloys",
+				"ru": "Фазовые напряжения как причина торможения распада метастабильного состояния в сверхпластичных эвтектических сплавах"
+			},
+			"autors": {
+				"ua": "В. Ф. Коршак",
+				"en": "V. F. Korshak",
+				"ru": "В. Ф. Коршак"
+			}
+		}
+	]
+}

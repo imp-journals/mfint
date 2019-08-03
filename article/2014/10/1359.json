@@ -1,0 +1,177 @@
+{
+	"_id":    "MFiNT.36.10.1359",
+	"year":   2014,
+	"volume": 36,
+	"issue":  10,
+	"pages":  [1359,1370],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["25.02.2014"],
+	"PACS":   "66.30.Pa, 64.70.Nd, 68.55.jm, 75.50.Vv, 75.70.Ak, 81.40.Ef, 81.40.Rs",
+	"title":   {
+		"ua": "Дифузійне фазоутворення в нанорозмірних шаруватих плівкових композиціях Pt(15 нм)/Fe(15 нм) і [Pt(7,5 нм)/Fe(7,5 нм)]$_{2}$ на підкладках SiO$_{2}$(100 нм)/Si(001)",
+		"en": "Diffusive Phase Formation in the Nanosize Layer-by-Layer Film Compositions of Pt(15 nm)/Fe(15 nm) and [Pt(7.5 nm)/Fe(7.5 nm)]$_{2}$ on a SiO$_{2}$(100 nm)/Si(001) Substrate",
+		"ru": "Диффузионное фазообразование в наноразмерных слоистых плёночных композициях Pt(15 нм)/Fe(15 нм) и [Pt(7,5 нм)/Fe(7,5 нм)]$_{2}$ на подложке SiO$_{2}$(100 нм)/Si(001)"
+	},
+	"abstract": {
+		"ua": "Методами фізичного матеріялознавства (рентґеноструктурною фазовою аналізою, атомно-силовою і магнетно-силовою мікроскопіями, Резерфордовим зворотнім розсіянням, методою міряння магнетних властивостей за допомогою SQUID-магнетометра, резистометрії) досліджено вплив додаткових меж поділу у нанорозмірній шаруватій плівці Pt/Fe на підложжі SiO$_{2}$(100нм)/Si(001), при збереженні початкової товщини плівки (30 нм), на процеси дифузійного фазоутворення – перехід хімічно невпорядкованої магнетом’якої фази А1(FePt) у хімічно впорядковану магнетотверду фазу L1$_{0}$(FePt) при відпалі у вакуумі. Встановлено, що після осадження плівки Pt(15 нм)/Fe(15 нм) і [Pt(7,5 нм)/Fe(7,5 нм)]$_{2}$ демонструють дво- і чотирошарову структури відповідно. Відпал у вакуумі в інтервалі температур 600°C—900°C з витримкою у 30 с супроводжується фазовим переходом. Введення додаткових меж поділу покращує кінетику впорядкування, що проявляється в зниженні на 100°C температури початку формування фази L1$_{0}$(FePt) з текстурою (111) в багатошаровій плівці [Pt(7,5 нм)/Fe(7,5 нм)]$_{2}$ в порівнянні з плівкою Pt(15 нм)/Fe(15 нм), в якій фазове перетворення А1(FePt) → L1$_{0}$(FePt) відбувається в процесі відпалу за температури 700°C. Коерцитивна сила досліджуваних плівок росте з температурою відпалу.",
+		"en": "Influence of the additional interfaces in nanoscale layered Pt/Fe film on the SiO$_{2}$(100 nm)/Si substrate, with the retention of initial film thickness (of 30 nm), on the diffusive phase-formation processes–transformation of soft-magnetic chemically disordered A1(FePt) phase into hard-magnetic chemically ordered L1$_{0}$(FePt) phase at annealing in vacuum is investigated by methods of physical materials science: X-ray diffraction, atomic force microscopy and magnetic force microscopy, Rutherford backscattering, SQUID magnetometry, and electrical resistance measurements. As revealed after deposition, these films have bi- and four-layer structures, respectively. Annealing in vacuum in the temperature range of 600—900°C with annealing time of 30 s is accompanied by phase transformation. Introduction of additional interfaces improves the ordering kinetics. These facts are illustrated with decrease of formation onset temperature for the ordered L1$_{0}$(FePt) phase with (111) texture in [Pt(7.5 nm)/Fe(7.5 nm)]$_{2}$ multi-layered films by 100°C as compared with Pt(15 nm)/Fe(15 nm) films, in which the A1(FePt) → L1$_{0}$(FePt) phase transformation occurs during annealing at 700°C. Coercive force of films increases with increasing the annealing temperature.",
+		"ru": "Методами физического материаловедения (рентгеноструктурным фазовым анализом, атомно-силовой и магнитно-силовой микроскопиями, резерфордовским обратным рассеянием, методом измерения магнитных свойств с помощью SQUID-магнитометра, резистометрии) исследовано влияние дополнительных границ раздела в слоистой наноразмерной плёнке Pt/Fe на подложке SiO$_{2}$(100 нм)/Si(001), при сохранении первоначальной толщины плёнки (30 нм), на процессы диффузионного фазообразования – переход химически неупорядоченной магнитомягкой фазы А1(FePt) в химически упорядоченную магнитотвёрдую фазу L1$_{0}$(FePt) при отжигах в вакууме. Установлено, что после осаждения плёнки Pt(15нм)/Fe(15нм) и [Pt(7,5 нм)/Fe(7,5 нм)]$_{2}$ демонстрируют двух- и четырёхслойную структуры соответственно. Отжиги в вакууме в интервале температур 600°C—900°C с выдержкой в 30 с сопровождаются фазовым переходом. Введение дополнительных границ раздела улучшает кинетику упорядочения, что проявляется в снижении на 100°C температуры начала формирования фазы L1$_{0}$(FePt) с текстурой (111) в многослойной плёнке [Pt(7,5 нм)/Fe(7,5 нм)]$_{2}$ по сравнению с плёнкой Pt(15нм)/Fe(15нм), в которой фазовое превращение А1(FePt) → L1$_{0}$(FePt) происходит в процессе отжига при температуре 700°C. Коэрцитивная сила исследуемых плёнок растёт с температурой отжига."
+	},
+	"keywords": {
+		"ua": "хімічно впорядкована фаза L1$_{0}$(FePt), коерцитивна сила, межа поділу, нанорозмірна плівка",
+		"en": "chemically ordered L1$_{0}$(FePt) phase, сoercive force, interface, nanosize film",
+		"ru": "химически упорядоченная фаза L1$_{0}$(FePt), коэрцитивная сила, граница раздела, наноразмерная плёнка"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. М. Макогон", "en": "Iu. M. Makogon", "ru": "Ю. Н. Макогон"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "О. П. Павлова", "en": "O. P. Pavlova", "ru": "Е. П. Павлова"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "С. І. Сидоренко", "en": "S. I. Sidorenko", "ru": "С. И. Сидоренко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "Т. І. Вербицька", "en": "T. I. Verbytska", "ru": "Т. И. Вербицкая"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "І. А. Владимирський", "en": "I. A. Vladymyrskyi", "ru": "И. А. Владимирский"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "О. В. Фігурна", "en": "O. V. Figurna", "ru": "О. В. Фигурная"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "І. О. Круглов", "en": "I. O. Kruglov", "ru": "И. О. Круглов"},
+			"OID": [202]
+		}
+	],
+	"references": {
+		"count": 23,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "J. Lyubina, B. Rellinghaus, O. Gutfleisch, and M. Albrecht, Handbook of Magnetic Materials (Ed. K. H. J. Buschow), vol. 19, p. 291 (2011).",
+				"tr":  "J. Lyubina, B. Rellinghaus, O. Gutfleisch, and M. Albrecht, Handbook of Magnetic Materials (Ed. K. H. J. Buschow), vol. 19, p. 291 (2011)."
+			},
+			{
+				"doi": "10.1146/annurev.matsci.30.1.611",
+				"or":  "D. Weller and M. F. Doerner, An. Rev. Mater. Sci, 30: 611 (2000).",
+				"tr":  "D. Weller and M. F. Doerner, An. Rev. Mater. Sci, 30: 611 (2000)."
+			},
+			{
+				"doi": "10.1063/1.2750414",
+				"or":  "S. N. Piramanayagam, J. Appl. Phys., 102: 011301-1 (2007).",
+				"tr":  "S. N. Piramanayagam, J. Appl. Phys., 102: 011301-1 (2007)."
+			},
+			{
+				"doi": "10.1063/1.3073842",
+				"or":  "Bo Yao and K. R. Coffey, J. Appl. Phys., 105: 07A726-1 (2009).",
+				"tr":  "Bo Yao and K. R. Coffey, J. Appl. Phys., 105: 07A726-1 (2009)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2010.04.003",
+				"or":  "L. Zhang, Y. K. Takahashi, A. Perumal, and K. Hono, J. Magn. Magn. Mater., 322: 2658 (2010).",
+				"tr":  "L. Zhang, Y. K. Takahashi, A. Perumal, and K. Hono, J. Magn. Magn. Mater., 322: 2658 (2010)."
+			},
+			{
+				"doi": "10.1088/0957-4484/22/31/315301",
+				"or":  "T. Bublat and D. Goll, Nanotechnology, 22: 315301 (2011).",
+				"tr":  "T. Bublat and D. Goll, Nanotechnology, 22: 315301 (2011)."
+			},
+			{
+				"doi": "10.1109/TMAG.2011.2164547",
+				"or":  "E. Yang, D. E. Laughlin, and J.-G. Zhu, IEEE Trans. Magn., 48, No. 1: 7 (2012).",
+				"tr":  "E. Yang, D. E. Laughlin, and J.-G. Zhu, IEEE Trans. Magn., 48, No. 1: 7 (2012)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2012.11.102",
+				"or":  "O. P. Pavlova, T. I. Verbitska, I. A. Vladymyrskyi, S. I. Sidorenko, G. L. Katona, D. L. Beke, G. Beddies, M. Albrecht, and I. M. Makogon, Appl. Surf. Sci, 266: 100 (2013).",
+				"tr":  "O. P. Pavlova, T. I. Verbitska, I. A. Vladymyrskyi, S. I. Sidorenko, G. L. Katona, D. L. Beke, G. Beddies, M. Albrecht, and I. M. Makogon, Appl. Surf. Sci, 266: 100 (2013)."
+			},
+			{
+				"doi": "10.1109/TMAG.2012.2196990",
+				"or":  "Y. N. Han, F. T. Yuan, Y. H. Lin, Jen-Hwa Hsu, and J. K. Mei, IEEE Trans. Magn., 48, No. 11: 3158 (2012).",
+				"tr":  "Y. N. Han, F. T. Yuan, Y. H. Lin, Jen-Hwa Hsu, and J. K. Mei, IEEE Trans. Magn., 48, No. 11: 3158 (2012)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2012.04.149",
+				"or":  "W. Dinga, S. Ishiguroa, R. Ogatsua, and D. Jua, Appl. Surf. Sci., 258: 7976 (2012)",
+				"tr":  "W. Dinga, S. Ishiguroa, R. Ogatsua, and D. Jua, Appl. Surf. Sci., 258: 7976 (2012)"
+			},
+			{
+				"doi": "10.1063/1.2828032",
+				"or":  "T. O. Seki, Y. K. Takahashi, and K. Hono, J. Appl. Phys., 103: 023910 1 (2008).",
+				"tr":  "T. O. Seki, Y. K. Takahashi, and K. Hono, J. Appl. Phys., 103: 023910 1 (2008)."
+			},
+			{
+				"doi": "10.1063/1.3153513",
+				"or":  "S. N. Hsiao, F. T. Yuan, H. W. Chang, H. W. Huang, S. K. Chen, and H. Y. Lee, Appl. Phys. Lett., 94, 232505-1 (2009).",
+				"tr":  "S. N. Hsiao, F. T. Yuan, H. W. Chang, H. W. Huang, S. K. Chen, and H. Y. Lee, Appl. Phys. Lett., 94, 232505-1 (2009)."
+			},
+			{
+				"doi": "10.1063/1.2364051",
+				"or":  "J.-S. Kim and Y.-M. Koo, J. Appl. Phys., 100: 093909-1 (2006).",
+				"tr":  "J.-S. Kim and Y.-M. Koo, J. Appl. Phys., 100: 093909-1 (2006)."
+			},
+			{
+				"doi": "10.1109/TMAG.2011.2147291",
+				"or":  "S. N. Hsiao, S. K. Chen, S. H. Liu, C. J. Liao, F. T. Yuan, and H. Y. Lee, IEEE Trans. Magn., 47, No. 10: 3637 (2011).",
+				"tr":  "S. N. Hsiao, S. K. Chen, S. H. Liu, C. J. Liao, F. T. Yuan, and H. Y. Lee, IEEE Trans. Magn., 47, No. 10: 3637 (2011)."
+			},
+			{
+				"doi": "10.1063/1.3670515",
+				"or":  "S. N. Hsiao, S. H. Liu, S. K. Chen, F. T. Yuan, and H. Y. Lee, J. Appl. Phys., 111: 07A702-3 (2012).",
+				"tr":  "S. N. Hsiao, S. H. Liu, S. K. Chen, F. T. Yuan, and H. Y. Lee, J. Appl. Phys., 111: 07A702-3 (2012)."
+			},
+			{
+				"doi": "10.1063/1.1432446",
+				"or":  "T. Smima, T. Moriguchi, S. Mitani, and K. Takahashi, Appl. Phys. Lett., 80: 288 (2002).",
+				"tr":  "T. Smima, T. Moriguchi, S. Mitani, and K. Takahashi, Appl. Phys. Lett., 80: 288 (2002)."
+			},
+			{
+				"doi": "10.1063/1.1357150",
+				"or":  "Y. Endo, N. Kikuchi, O. Kitakami, and Y. Shimada, J. Appl. Phys., 89: 7065 (2001).",
+				"tr":  "Y. Endo, N. Kikuchi, O. Kitakami, and Y. Shimada, J. Appl. Phys., 89: 7065 (2001)."
+			},
+			{
+				"doi": "10.1063/1.2828148",
+				"or":  "C. Feng, B. H. Li, Y. Liu, J. Teng, M. H. Li, Y. Jiang, and G. H. Yu, J. Appl. Phys., 103: 023916-1 (2008).",
+				"tr":  "C. Feng, B. H. Li, Y. Liu, J. Teng, M. H. Li, Y. Jiang, and G. H. Yu, J. Appl. Phys., 103: 023916-1 (2008)."
+			},
+			{
+				"doi": "10.1063/1.1687535",
+				"or":  "S. C. Chou, C. C. Yu, Y. Liou, Y. D. Yao, D. H. Wei, T. S. Chin, and M. F. Tai, J. Appl. Phys., 95: 7276 (2004).",
+				"tr":  "S. C. Chou, C. C. Yu, Y. Liou, Y. D. Yao, D. H. Wei, T. S. Chin, and M. F. Tai, J. Appl. Phys., 95: 7276 (2004)."
+			},
+			{
+				"doi": "10.1063/1.1870110",
+				"or":  "S. K. Chen, F. T. Yuan, and T. S. Chin, J. Appl. Phys., 97: 073902 (2005).",
+				"tr":  "S. K. Chen, F. T. Yuan, and T. S. Chin, J. Appl. Phys., 97: 073902 (2005)."
+			},
+			{
+				"doi": "10.1063/1.1622997",
+				"or":  "Y. Endo, K. Oikawa, T. Miyazaki, O. Kitakami, and Y. Shimada, J. Appl. Phys., 94: 7222 (2003).",
+				"tr":  "Y. Endo, K. Oikawa, T. Miyazaki, O. Kitakami, and Y. Shimada, J. Appl. Phys., 94: 7222 (2003)."
+			},
+			{
+				"doi": "10.1063/1.1556257",
+				"or":  "M. L. Yan, N. Powers, D. J. Sellmyer, J. Appl. Phys., 93, No. 10: 8292 (2003).",
+				"tr":  "M. L. Yan, N. Powers, D. J. Sellmyer, J. Appl. Phys., 93, No. 10: 8292 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "S. S. Gorelik, L. N. Rastorguev, and Yu. A. Skakov, Rentgenostrukturnyy i Electronnoopticheskiy Analiz (X-Ray Structural and Electron-Optical Analysis (Moscow: Metallurgiya: 1970) (in Russian).",
+				"tr":  "S. S. Gorelik, L. N. Rastorguev, and Yu. A. Skakov, Rentgenostrukturnyy i Electronnoopticheskiy Analiz (X-Ray Structural and Electron-Optical Analysis (Moscow: Metallurgiya: 1970) (in Russian)."
+			}
+		]
+	}
+}

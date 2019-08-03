@@ -1,0 +1,122 @@
+{
+	"_id":    "MFiNT.39.06.0733",
+	"year":   2017,
+	"volume": 39,
+	"issue":  6,
+	"pages":  [733,742],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["05.04.2017"],
+	"PACS":   "61.72.jd, 62.23.St, 68.47.Gh, 73.40.Ns, 84.32.Dd, 84.32.Ff, 85.25.Hv",
+	"title":   {
+		"ua": "Частотні характеристики мемристорних структур на основі складних оксидів перехідних металів",
+		"en": "Frequency Characteristics of Memristor Structures Based on the Complex Transition-Metal Oxides",
+		"ru": "Частотные характеристики мемристорных структур на основе сложных оксидов переходных металлов"
+	},
+	"abstract": {
+		"ua": "Проаналізовано частотну залежність двозначних вольт-амперних характеристик мемристорних структур, утворених металевим інжектором і плівкою складного оксиду перехідних металів. Запропонований теоретичний модель ґрунтується на припущенні про дифузію Оксиґенових вакансій, локальна концентрація яких повністю визначає електричні характеристики металооксидної сполуки. Показано, що зі збільшенням частоти змінного струму, що пропускається через даний контакт, відношення його максимального опору до мінімального падає, в той час як вплив процесу релаксації вакансійної підсистеми до вихідного стану не є істотним у випадку, коли характерний час релаксації помітно перевершує період змінного струму.",
+		"en": "The frequency dependence of double-valued current–voltage characteristics of memristor structures formed by a metal counter-electrode and a complex transition-metal oxide film is analysed. The proposed theoretical model is based on the assumption of the diffusion of oxygen vacancies, the local concentration of which completely determines electrical characteristics of the metal-oxide compound. As shown, the increasing of frequency of the alternating current passed through a given contact decreases the ratio of its maximum resistance to the minimum value, while the influence of the vacancy-subsystem relaxation to the initial state is not significant in the case when the characteristic relaxation time substantially exceeds the period of the alternating current.",
+		"ru": "Проанализирована частотная зависимость двузначных вольт-амперных характеристик мемристорных структур, образованных металлическим инжектором и плёнкой сложного оксида переходных металлов. Предложенная теоретическая модель основана на предположении о диффузии кислородных вакансий, локальная концентрация которых полностью определяет электрические характеристики металлооксидного соединения. Показано, что с увеличением частоты переменного тока, пропускаемого через данный контакт, отношение его максимального сопротивления к минимальному падает, в то время как влияние процесса релаксации вакансионной подсистемы к исходному состоянию не является существенным в случае, когда характерное время релаксации заметно превосходит период переменного тока."
+	},
+	"keywords": {
+		"ua": "мемристор, Оксиґенові вакансії, гістереза, частотний ефект, вплив релаксації",
+		"en": "memristor, oxygen vacancies, hysteresis, frequency effect, relaxation impact",
+		"ru": "мемристор, кислородные вакансии, гистерезис, частотный эффект, влияние релаксации"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. В. Шамаєв", "en": "V. V. Shamaev", "ru": "В. В. Шамаев"},
+			"OID": [213]
+		},
+		{
+			"AID": {"ua": "О. С. Житлухіна", "en": "E. S. Zhitlukhina", "ru": "Е. С. Житлухина"},
+			"OID": [246, 9]
+		}
+	],
+	"references": {
+		"count": 16,
+		"list":  [
+			{
+				"doi": "10.1080/00018732.2010.544961",
+				"or":  "Y. V. Pershin and M. Di Ventra, Adv. Phys., 60, No. 2: 145 (2011).",
+				"tr":  "Y. V. Pershin and M. Di Ventra, Adv. Phys., 60, No. 2: 145 (2011)."
+			},
+			{
+				"doi": "10.1109/TCT.1971.1083337",
+				"or":  "L. O. Chua, IEEE Trans. Circuit Theory, 18, No. 5: 507 (1971).",
+				"tr":  "L. O. Chua, IEEE Trans. Circuit Theory, 18, No. 5: 507 (1971)."
+			},
+			{
+				"doi": "10.1038/nature06932",
+				"or":  "D. B. Strukov, G. S. Snider, D. R. Stewart, and R. S. Williams, Nature, 453, No. 7191: 80 (2008).",
+				"tr":  "D. B. Strukov, G. S. Snider, D. R. Stewart, and R. S. Williams, Nature, 453, No. 7191: 80 (2008)."
+			},
+			{
+				"doi": "10.1038/nphys2566",
+				"or":  "M. Di Ventra and Y. V. Pershin, Nature Physics, 9, No. 4: 200 (2013).",
+				"tr":  "M. Di Ventra and Y. V. Pershin, Nature Physics, 9, No. 4: 200 (2013)."
+			},
+			{
+				"doi": "10.1088/0034-4885/67/11/R01",
+				"or":  "J. B. Goodenough, Rep. Prog. Phys., 67, No. 11: 1915 (2004).",
+				"tr":  "J. B. Goodenough, Rep. Prog. Phys., 67, No. 11: 1915 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. С. Житлухина, К. В. Ламонова, С. М. Орел, Ю. Г. Пашкевич, Физика низких температур, 31, № 11: 1266 (2005).",
+				"tr":  "E. S. Zhitlukhina, K. V. Lamonova, S. M. Orel, and Yu. G. Pashkevich, Fizika Nizkikh Temperatur, 31, No. 11: 1266 (2005) (in Russian)."
+			},
+			{
+				"doi": "10.1088/0953-8984/22/24/245504",
+				"or":  "V. A. Shapovalov, E. S. Zhitlukhina, K. V. Lamonova, V. V. Shapovalov, M. Rafailovich, S. A. Schwarz, R. Jahoda, V. J. Reidy, S. M. Orel, and Yu. G. Pashkevich, J. Phys.: Condens. Matter, 22, No. 24: 245504 (2010).",
+				"tr":  "V. A. Shapovalov, E. S. Zhitlukhina, K. V. Lamonova, V. V. Shapovalov, M. Rafailovich, S. A. Schwarz, R. Jahoda, V. J. Reidy, S. M. Orel, and Yu. G. Pashkevich, J. Phys.: Condens. Matter, 22, No. 24: 245504 (2010)."
+			},
+			{
+				"doi": "10.3367/UFNr.0163.199302c.0061",
+				"or":  "В. М. Свистунов, М. А. Белоголовский, А. И. Хачатуров, Успехи физических наук, 163, № 2: 61 (1993).",
+				"tr":  "V. M. Svistunov, M. A. Belogolovskiy, and A. I. Khachaturov, Uspekhi Fizicheskikh Nauk, 163, No. 2: 61 (1993) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.38.08.0995",
+				"or":  "Э. М. Руденко, М. А. Белоголовский, И. В. Короташ, Д. Ю. Полоцкий, А. А. Краковный, Е. С. Житлухина, Металлофиз. новейшие технол., 38, № 8: 995 (2016).",
+				"tr":  "E. M. Rudenko, M. A. Belogolovskiy, I. V. Korotash, D. Yu. Polotskiy, A. A. Krakovnyy, and E. S. Zhitlukhina, Metallofiz. Noveishie Tekhnol., 38, No. 8: 995 (2016) (in Russian)."
+			},
+			{
+				"doi": "10.1038/329423a0",
+				"or":  "R. J. Cava, B. Batlogg, C. H. Chen, E. A. Rietman, S. M. Zahurak, and D. Werder, Nature, 329, No. 6138: 423 (1987).",
+				"tr":  "R. J. Cava, B. Batlogg, C. H. Chen, E. A. Rietman, S. M. Zahurak, and D. Werder, Nature, 329, No. 6138: 423 (1987)."
+			},
+			{
+				"doi": "10.1063/1.347612",
+				"or":  "K. Yamamoto, B. M. Lairson, J. C. Bravman, and T. H. Geballe, J. Appl. Phys., 69, No. 10: 7189 (1991).",
+				"tr":  "K. Yamamoto, B. M. Lairson, J. C. Bravman, and T. H. Geballe, J. Appl. Phys., 69, No. 10: 7189 (1991)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2010.03.018",
+				"or":  "A. Plecenik, M. Tomasek, T. Plecenik, M. Truchly, J. Noskovic, M. Zahoran, T. Roch, M. Belogolovskii, M. Spankova, S. Chromik, and P. Kus, Appl. Surf. Sci., 256, No. 18: 5684 (2010).",
+				"tr":  "A. Plecenik, M. Tomasek, T. Plecenik, M. Truchly, J. Noskovic, M. Zahoran, T. Roch, M. Belogolovskii, M. Spankova, S. Chromik, and P. Kus, Appl. Surf. Sci., 256, No. 18: 5684 (2010)."
+			},
+			{
+				"doi": "10.1063/1.3691598",
+				"or":  "T. Plecenik, M. Tomášek, M. Belogolovskii, M. Truchly, M. Gregor, J. Noskovič, M. Zahoran, T. Roch, I. Boylo, M. Špankova, Š. Chromik, P. Kúš, and A. Plecenik, J. Appl. Phys., 111, No. 5: 056106 (2012).",
+				"tr":  "T. Plecenik, M. Tomášek, M. Belogolovskii, M. Truchly, M. Gregor, J. Noskovič, M. Zahoran, T. Roch, I. Boylo, M. Špankova, Š. Chromik, P. Kúš, and A. Plecenik, J. Appl. Phys., 111, No. 5: 056106 (2012)."
+			},
+			{
+				"doi": "10.1063/1.4967392",
+				"or":  "M. Truchly, T. Plecenik, E. Zhitlukhina, M. Belogolovskii, M. Dvoranova, P. Kus, and A. Plecenik, J. Appl. Phys., 120, No. 18: 185302 (2016).",
+				"tr":  "M. Truchly, T. Plecenik, E. Zhitlukhina, M. Belogolovskii, M. Dvoranova, P. Kus, and A. Plecenik, J. Appl. Phys., 120, No. 18: 185302 (2016)."
+			},
+			{
+				"doi": "10.2478/s11534-009-0012-1",
+				"or":  "M. A. Belogolovskii, Centr. Eur. J. Phys., 7, Iss. 2: 304 (2009).",
+				"tr":  "M. A. Belogolovskii, Centr. Eur. J. Phys., 7, Iss. 2: 304 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "X.-F. Wu, L. Yuan, K.-K. Huang, and S.-H. Feng, Chin. J. Inorg. Chem., 31, No. 9: 1726 (2015).",
+				"tr":  "X.-F. Wu, L. Yuan, K.-K. Huang, and S.-H. Feng, Chin. J. Inorg. Chem., 31, No. 9: 1726 (2015)."
+			}
+		]
+	}
+}

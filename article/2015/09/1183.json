@@ -1,0 +1,271 @@
+{
+	"_id":    "MFiNT.37.09.1183",
+	"year":   2015,
+	"volume": 37,
+	"issue":  9,
+	"pages":  [1183,1201],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["20.04.2015"],
+	"PACS":   "65.40.gh,68.35.B-,68.35.Dv,68.47.De,68.49.Jk,68.65.Pq,73.22.Pr,81.05.ue",
+	"title":  {
+		"ua": "Відбивання повільних електронів від графену на поверхні (110)Mo",
+		"en": "Reflection of Slow Electrons from Graphene on (110)Mo",
+		"ru": "Отражение медленных электронов от графена на грани (110)Mo"
+	},
+	"abstract": {
+		"ua": "Вивчено вплив сеґреґації вуглецю на нагрітій у надвисокому вакуумі атомово-чистій поверхні Mo(110) на відбивання повільних (0—50 еВ) електронів методою спектроскопії повного струму (СПС) і роботу виходу $\\varphi$ методою контактної ріжниці потенціялів (КРП). У ході відпалу при $Т_{відп}$ = 1400—2000 К величина $\\varphi$ плавно знижується на $\\Delta \\varphi$ = 0,18 еВ (до 4,82 $\\pm$ 0,02 еВ), що супроводжується монотонним зсувом двох основних мінімумів у СПС назустріч один одному на $\\Delta E$ = 1,2 еВ до значень $Е$ = 4,8 и 12,5 еВ, характерних для збудження у графені плазмонів у $\\pi$-зоні провідности та ($\\pi + \\sigma$)-валентній зоні відповідно. Мінімуми свідчать про емісію електронів у зворотньому напрямку; їхні зсуви спричинено зміщенням енергії $\\pi$-зони провідности вгору, а $\\sigma$-валентної зони – вниз. Відпал при $Т_{відп}$ = 2200—2700 К не змінює значення $\\varphi$ і всі параметри СПС, а стан такої поверхні стає термодинамічно стабільним для графену на Мо(110). Останній збільшує кількість піків відбивання електронів від трьох до п’ятьох і понижує в декілька разів коефіцієнт їхнього відбивання, який спадає практично до нуля з підвищенням $Е$.",
+		"en": "The effect of segregation of carbon on atomically clean surface of Mo(110) heated in ultrahigh vacuum on both the reflection of slow (0—50 eV) electrons by total current spectroscopy (TCS) and the work function $\\varphi$ by the contact potential difference are studied. During the annealing at $Т_{anneal}$ = 1400—2000 K, the $\\varphi$ value gradually decreases by $\\Delta \\varphi$ = 0.18 eV (up to 4.82 $\\pm$ 0.02 eV), and it is accompanied by a monotonic shift of the two major minima in TCS to meet each other on $\\Delta E$ = 1.2 eV to the values of $E$ = 4.8 and 12.5 eV, which are typical for the plasmon excitation in graphene in $\\pi$-conduction band and ($\\pi + \\sigma$)-valence band, respectively. Minima indicate the electrons’ emission in the opposite direction, and their shifts are caused by energy shift of the conduction $\\pi$-band upward and $\\sigma$-valence band downwards. Annealing at $Т_{anneal}$ = 2200—2700 K does not change the $\\varphi$ value and all parameters of the TCS, and the status of such a surface becomes thermodynamically stable for graphene on Mo(110). Graphene increases the number of peaks of electrons’ reflection from three to five, and reduces by several times the reflection coefficient, which drops almost to zero with $E$ increasing.",
+		"ru": "Изучено влияние сегрегации углерода на нагретой в сверхвысоком вакууме атомно-чистой поверхности Мо(110) на отражение медленных (0—50 эВ) электронов методом спектроскопии полного тока (СПТ) и работу выхода $\\varphi$ методом контактной разности потенциалов. В процессе отжига при $Т_{отж}$ = 1400—2000 К величина $\\varphi$ плавно снижается на $\\Delta \\varphi$ = 0,18 эВ (до 4,82 $\\pm$ 0,02 эВ), что сопровождается монотонным сдвигом двух основных минимумов в СПТ навстречу друг другу на $\\Delta E$ = 1,2 эВ до значений $Е$ = 4,8 и 12,5 эВ, характерных для возбуждения в графене плазмонов в $\\pi$-зоне проводимости и ($\\pi + \\sigma$)-валентной зоне соответственно. Минимумы свидетельствуют об эмиссии электронов в обратном направлении; их сдвиги вызваны смещением энергии $\\pi$-зоны проводимости вверх, а $\\sigma$-валентной зоны – вниз. Отжиг при $Т_{отж}$ = 2200—2700 К не изменяет значение $\\varphi$ и все параметры СПТ, а состояние такой поверхности становится термодинамически стабильным для графена на Мо(110). Последний увеличивает число пиков отражения электронов от трёх до пяти и снижает в несколько раз коэффициент их отражения, который спадает практически до нуля при повышении $Е$."
+	},
+	"keywords": {
+		"ua": "графен, робота виходу, коефіцієнт відбиття електронів, спектроскопія повного струму",
+		"en": "graphene, work function, electron reflection coefficient, total current spectroscopy",
+		"ru": "графен, работа выхода, коэффициент отражения электронов, спектроскопия полного тока"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. М. Нищенко", "en": "M. M. Nishchenko", "ru": "М. М. Нищенко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. В. Смольник", "en": "S. V. Smolnyk", "ru": "С. В. Смольник"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. Я. Шевченко", "en": "M. Ya. Shevchenko", "ru": "Н. А. Шевченко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 45,
+		"list":  [
+			{
+				"doi": "10.1126/science.1158877",
+				"or":  "A. K. Geim, Science, 324, No. 5934: 1530 (2009).",
+				"tr":  "A. K. Geim, Science, 324, No. 5934: 1530 (2009)."
+			},
+			{
+				"doi": "10.1038/nature04233",
+				"or":  "K. S. Novoselov, A. K. Geim, S. V. Morozov, D. Jiang, M. I. Katsnelson, I. V. Grigorieva, S. V. Dubonos, and A. A. Firsov, Nature, 438: 197 (2005).",
+				"tr":  "K. S. Novoselov, A. K. Geim, S. V. Morozov, D. Jiang, M. I. Katsnelson, I. V. Grigorieva, S. V. Dubonos, and A. A. Firsov, Nature, 438: 197 (2005)."
+			},
+			{
+				"doi": "10.1038/nature04235",
+				"or":  "Y. Zhang, Y. W. Tan, H. L. Stormer, and P. Kim, Nature, 438: 201 (2005).",
+				"tr":  "Y. Zhang, Y. W. Tan, H. L. Stormer, and P. Kim, Nature, 438: 201 (2005)."
+			},
+			{
+				"doi": "10.1038/nmat1849",
+				"or":  "A. K. Geim and K. S. Novoselov, Nature Mater., 6: 183 (2007).",
+				"tr":  "A. K. Geim and K. S. Novoselov, Nature Mater., 6: 183 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.101.026803",
+				"or":  "G. Giovannetti, P. A. Khomyakov, G. Brocks, V. M. Karpan, J. Van den Brink, and P. J. Kelli, Phys. Rev. Lett., 101: 026803 (2008).",
+				"tr":  "G. Giovannetti, P. A. Khomyakov, G. Brocks, V. M. Karpan, J. Van den Brink, and P. J. Kelli, Phys. Rev. Lett., 101: 026803 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Ю. Давыдов, Физика и техника полупроводников, 45: 1102 (2011).",
+				"tr":  "S. Yu. Davydov, Fizika i Tekhnika Poluprovodnikov, 45: 1102 (2011) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.15.491",
+				"or":  "S. Hagstrom, H. B. Lyon, and G. A. Somorjai, Phys. Rev. Lett., 15: 491 (1965).",
+				"tr":  "S. Hagstrom, H. B. Lyon, and G. A. Somorjai, Phys. Rev. Lett., 15: 491 (1965)."
+			},
+			{
+				"doi": "10.1063/1.1841082",
+				"or":  "H. B. Lyon and G. A. Somorjai, J. Chem. Phys., 46: 2539 (1967).",
+				"tr":  "H. B. Lyon and G. A. Somorjai, J. Chem. Phys., 46: 2539 (1967)."
+			},
+			{
+				"doi": "10.1016/0039-6028(68)90089-7",
+				"or":  "A. E. Morgan and G. A. Somorjai, Surf. Sci., 12: 405 (1968).",
+				"tr":  "A. E. Morgan and G. A. Somorjai, Surf. Sci., 12: 405 (1968)."
+			},
+			{
+				"doi": "10.1016/0039-6028(69)90227-1",
+				"or":  "J. W. May, Surf. Sci., 17: 267 (1969).",
+				"tr":  "J. W. May, Surf. Sci., 17: 267 (1969)."
+			},
+			{
+				"doi": "10.1016/0039-6028(70)90064-6",
+				"or":  "J. T. Grant and T. W. Haas, Surf. Sci., 21: 76 (1970).",
+				"tr":  "J. T. Grant and T. W. Haas, Surf. Sci., 21: 76 (1970)."
+			},
+			{
+				"doi": "10.1038/nmat2003",
+				"or":  "S. Y. Zhou, G. H. Gweon, A. V. Fedorov, P. N. First, W. A. de Heer, D. H. Lee, F. Guinea, A. H. Castro Neto, and A. Lanzara, Nature Mater., 6: 770 (2007).",
+				"tr":  "S. Y. Zhou, G. H. Gweon, A. V. Fedorov, P. N. First, W. A. de Heer, D. H. Lee, F. Guinea, A. H. Castro Neto, and A. Lanzara, Nature Mater., 6: 770 (2007)."
+			},
+			{
+				"doi": "10.1021/nl801827v",
+				"or":  "A. Reina, X. Jia, J. Ho, D. Nezich, H. Son, V. Bulovic, M. S. Dresselhaus, and J. Kong, Nano Lett., 9: 30 (2009).",
+				"tr":  "A. Reina, X. Jia, J. Ho, D. Nezich, H. Son, V. Bulovic, M. S. Dresselhaus, and J. Kong, Nano Lett., 9: 30 (2009)."
+			},
+			{
+				"doi": "10.1063/1.3309018",
+				"or":  "H. Cao, Q. Yu, D. Pandey, R. Colby, D. Pandley, C. S. Park, J. Lian, D. Zemlianov, I. Childres, V. Drachev, E. A. Stach, M. Hussian, H. Li, S. S. Pei, and Y. P. Chen, J. Appl. Phys., 107: 044310 (2010).",
+				"tr":  "H. Cao, Q. Yu, D. Pandey, R. Colby, D. Pandley, C. S. Park, J. Lian, D. Zemlianov, I. Childres, V. Drachev, E. A. Stach, M. Hussian, H. Li, S. S. Pei, and Y. P. Chen, J. Appl. Phys., 107: 044310 (2010)."
+			},
+			{
+				"doi": "10.1016/0039-6028(74)90272-6",
+				"or":  "C. Shelton, H. R. Patil, and J. M. Blakely, Surf. Sci., 43: 493 (1974).",
+				"tr":  "C. Shelton, H. R. Patil, and J. M. Blakely, Surf. Sci., 43: 493 (1974)."
+			},
+			{
+				"doi": "10.1016/0039-6028(79)90330-3",
+				"or":  "M. Eizenberg and J. M. Blakely, Surf. Sci., 82: 228 (1979).",
+				"tr":  "M. Eizenberg and J. M. Blakely, Surf. Sci., 82: 228 (1979)."
+			},
+			{
+				"doi": "10.1016/0039-6028(80)90080-1",
+				"or":  "J. C. Hamilton and J. M. Blakely, Surf. Sci., 91: 199 (1980).",
+				"tr":  "J. C. Hamilton and J. M. Blakely, Surf. Sci., 91: 199 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Р. Галль, Н. П. Лавровская, Е. В. Рутьков, А. Я. Тонтегоде, ЖТФ, 74, № 2: 105 (2004).",
+				"tr":  "N. R. Gall, N. P. Lavrovskaya, E. V. Rutkov, and A. Ya. Tontegode, Zhurn. Tekhn. Fiz., 74, No. 2: 105 (2004) (in Russian)."
+			},
+			{
+				"doi": "10.1126/science.1102896",
+				"or":  "K. S. Novoselov, A. K. Geim, S. V. Morozov, D. Jang, Y. Zhang, S. V. Dubonos, I. V. Grigorieva, and A. A. Firsov, Science, 306: 666 (2004).",
+				"tr":  "K. S. Novoselov, A. K. Geim, S. V. Morozov, D. Jang, Y. Zhang, S. V. Dubonos, I. V. Grigorieva, and A. A. Firsov, Science, 306: 666 (2004)."
+			},
+			{
+				"doi": "10.1016/j.matlet.2012.11.088",
+				"or":  "B. Wang, Ya. Zhang, Zh. Chen, Y. Wu, Zh. Jin, Xi Liu, Li. Hu, and G. Yu, Mat. Lett., 93:165 (2013).",
+				"tr":  "B. Wang, Ya. Zhang, Zh. Chen, Y. Wu, Zh. Jin, Xi Liu, Li. Hu, and G. Yu, Mat. Lett., 93: 165 (2013)."
+			},
+			{
+				"doi": "10.1016/j.susc.2008.08.037",
+				"or":  "J. Wintterlin and M. L. Bocquet, Surf. Sci., 603: 1841 (2009).",
+				"tr":  "J. Wintterlin and M. L. Bocquet, Surf. Sci., 603: 1841 (2009)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.50.17487",
+				"or":  "A. Nagashima, N. Tejima, and C. Oshima, Phys. Rev. B, 50: 17487 (1994).",
+				"tr":  "A. Nagashima, N. Tejima, and C. Oshima, Phys. Rev. B, 50: 17487 (1994)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.77.193401",
+				"or":  "A. Gruneis and D. V. Vyalikh, Phys. Rev. B, 77: 193401 (2008).",
+				"tr":  "A. Gruneis and D. V. Vyalikh, Phys. Rev. B, 77: 193401 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.100.107602",
+				"or":  "Y. S. Dedkov, M. Fonin, U. Rudiger, and C. Laubschat, Phys. Rev. Lett., 100: 107602 (2008).",
+				"tr":  "Y. S. Dedkov, M. Fonin, U. Rudiger, and C. Laubschat, Phys. Rev. Lett., 100: 107602 (2008)."
+			},
+			{
+				"doi": "10.1016/j.susc.2006.01.102",
+				"or":  "T. Seyller, K. V. Emtsev, K. Gao, F. Speck, L. Ley, A. Tadich, L. Broekman, J. D. Riley, R. C. G. Leckey, O. Rader, A. Varykhalov, and A. M. Shikin, Surf. Sci., 600: 3906 (2006).",
+				"tr":  "T. Seyller, K. V. Emtsev, K. Gao, F. Speck, L. Ley, A. Tadich, L. Broekman, J. D. Riley, R. C. G. Leckey, O. Rader, A. Varykhalov, and A. M. Shikin, Surf. Sci., 600: 3906 (2006)."
+			},
+			{
+				"doi": "10.1038/nphys149",
+				"or":  "S. Sahoo, T. Kontos, J. Fuber, C. Hoffmann, M. Graeber, A. Cottet, and C. Schoenenberger, Nature Phys., 1: 99 (2005).",
+				"tr":  "S. Sahoo, T. Kontos, J. Fuber, C. Hoffmann, M. Graeber, A. Cottet, and C. Schoenenberger, Nature Phys., 1: 99 (2005)."
+			},
+			{
+				"doi": "10.1038/nature06037",
+				"or":  "N. Tombros, C. Jozsa, M. Popincluc, H. T. Jonkman, and B. J. Wees, Nature, 448: 571 (2007).",
+				"tr":  "N. Tombros, C. Jozsa, M. Popincluc, H. T. Jonkman, and B. J. Wees, Nature, 448: 571 (2007)."
+			},
+			{
+				"doi": "10.1126/science.1125925",
+				"or":  "C. Berger, Z. Song, X. Li, X. Wu, N. Brown, C. Naud, D. Mayou, T. Li, J. Hass, A. Marchenkov, E. Conrad, P. N. First, and W. A. Heer, Science, 312: 1191 (2006).",
+				"tr":  "C. Berger, Z. Song, X. Li, X. Wu, N. Brown, C. Naud, D. Mayou, T. Li, J. Hass, A. Marchenkov, E. Conrad, P. N. First, and W. A. Heer, Science, 312: 1191 (2006)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.102.056808",
+				"or":  "I. Pletikosic, M. Kralj, P. Pervan, R. Brako, J. Coraux, A. T. N’Diaye, C. Busse, and T. Michely, Phys. Rev. Lett., 102: 056808 (2009).",
+				"tr":  "I. Pletikosic, M. Kralj, P. Pervan, R. Brako, J. Coraux, A. T. N'Diaye, C. Busse, and T. Michely, Phys. Rev. Lett., 102: 056808 (2009)."
+			},
+			{
+				"doi": "10.1038/nmat2166",
+				"or":  "P. W. Sutter, J.-I. Flege, and E. A. Sutter, Nature Mater., 7: 406 (2008).",
+				"tr":  "P. W. Sutter, J.-I. Flege, and E. A. Sutter, Nature Mater., 7: 406 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. В. Рутьков, Н. Р. Галль, ФТТ, 51, № 8: 1639 (2009).",
+				"tr":  "E. V. Rutkov and N. R. Gall, Fiz. Tverd. Tela, 51, No. 8: 1639 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Силантьев, Н. А. Шевченко, Высокочистые вещества, 4: 197 (1988).",
+				"tr":  "V. I. Silantiev and N. A. Shevchenko, Vysokochistye Veshchestva, 4: 197 (1988) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.37.01.0067",
+				"or":  "М. М. Нищенко, С. В. Смольник, Н. А. Шевченко, Металлофиз. новейшие технол., 37, № 1: 67 (2015).",
+				"tr":  "M. M. Nishchenko, S. V. Smolnik, and N. A. Shevchenko, Metallofiz. Noveishie Tekhnol., 37, No. 1: 67 (2015) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0039-6028(71)90073-2",
+				"or":  "R. L. Gerlach, Surf. Sci., 28, No. 2: 648 (1971).",
+				"tr":  "R. L. Gerlach, Surf. Sci., 28, No. 2: 648 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Я. Меламед, В. И. Силантьев, Н. А. Шевченко, Физические методы исследования металлов (Киев: Наукова думка: 1981).",
+				"tr":  "B. Ya. Melamed, V. I. Silantiev, and N. A. Shevchenko, Fizicheskie Metody Issledovaniya Metallov [Physical Methods of Metals Studying] (Kiev: Naukova Dumka: 1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Я. Дехтяр, Б. Я. Меламед, В. И. Силантьев, Н. А. Шевченко, Поверхность, 8: 55 (1982).",
+				"tr":  "I. Ya. Dehtyar, B. Ya. Melamed, V. I. Silantiev, and N. A. Shevchenko, Poverkhnost, 8: 55 (1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Комолов, Интегральная вторично-электронная спектроскопия поверхности (Ленинград: Изд. Ленинградского университета: 1986).",
+				"tr":  "S. A. Komolov, Integralnaya Vtorichno-Elektronnaya Spektroskopiya Poverkhnosti [Integral Secondary-Electron Spectroscopy of Surface] (Leningrad: Izd. Leningradskogo Universiteta: 1986) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.10.4889",
+				"or":  "D. D. Koelling, F. M. Mueller, A. J. Arko, and J. B. Ketterson, Phys. Rev. B, 10: 4889 (1974).",
+				"tr":  "D. D. Koelling, F. M. Mueller, A. J. Arko, and J. B. Ketterson, Phys. Rev. B, 10: 4889 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Борисенко, А. И. Воробьёва, Е. А. Уткина, Наноэлектроника (Москва: БИНОМ: 2009).",
+				"tr":  "V. E. Borisenko, A. I. Vorobieva, and E. A. Utkina, Nanoelektronika [Nanoelectronics] (Moscow: BINOM: 2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Драгунов, И. Г. Неизвестный, В. А. Гридчин, Основы наноэлектроники (Москва: Лотос: 2006).",
+				"tr":  "V. P. Dragunov, I. G. Neizvestniy, and V. A. Gridchin, Osnovy Nanoelektroniki [Fundamentals of Nanoelectronics] (Moscow: Lotos: 2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. М. Бронштейн, Б. С. Фрайман, Вторичная электронная эмиссия (Москва: Наука: 1969).",
+				"tr":  "I. M. Bronshtein and B. S. Fraiman, Vtorichnaya Elektronnaya Emissiya [Secondary Electron Emission] (Moscow: Nauka: 1969) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Пайнс, Успехи физических наук, 62: 4 (1957).",
+				"tr":  "D. Pains, Uspekhi Fizicheskikh Nauk, 62: 4 (1957)."
+			},
+			{
+				"doi": "",
+				"or":  "M. M. Brzhezinskaya and E. M. Baitinger, Trends in Carbon Nanotube Research (New York: Nova Science Publishers, Inc.: 2005).",
+				"tr":  "M. M. Brzhezinskaya and E. M. Baitinger, Trends in Carbon Nanotube Research (New York: Nova Science Publishers, Inc.: 2005)."
+			},
+			{
+				"doi": "10.1038/nnano.2008.280",
+				"or":  "M. H. Gass, U. Bangert, A. L. Bleloch, P. Wang, R. R. Nair, and A. K. Geim, Nature Nanotechnology, 3: 676 (2008).",
+				"tr":  "M. H. Gass, M. H., U. Bangert, A. L. Bleloch, P. Wang, R. R. Nair, and A. K. Geim, Nature Nanotechnology, 3: 676 (2008)."
+			},
+			{
+				"doi": "10.1007/BF01312703",
+				"or":  "Yu. M. Shul’ga, V. I. Rubtsov, and A. S. Lobach, Z. Phys. B. Condensed Matter, 93, No. 3: 327 (1994).",
+				"tr":  "Yu. M. Shul'ga, V. I. Rubtsov, and A. S. Lobach, Z. Phys. B. Condensed Matter, 93, No. 3: 327 (1994)."
+			}
+		]
+	}
+}

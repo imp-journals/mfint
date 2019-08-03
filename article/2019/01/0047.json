@@ -1,0 +1,203 @@
+{
+	"_id":    "MFiNT.41.01.0047",
+	"year":   2019,
+	"volume": 41,
+	"issue":  1,
+	"pages":  [47,69],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["11.11.2018"],
+	"PACS":   "62.20.Qp, 68.35.Ct, 68.35.Gy, 68.55.J-, 68.55.Ln, 81.15.Rs, 81.65.Lp, 81.40.Pq",
+	"title":   {
+		"ua": "Підвищення якости поверхневих електроерозійно-леґованих шарів комбінованими покриттями та поверхневим пластичним деформуванням. I. Особливості формування комбінованих електроерозійних покриттів на спеціяльних сталях і стопах",
+		"en": "Improvement of Quality of the Surface Electroerosive Alloyed Layers by the Combined Coatings and the Surface Plastic Deformation. I. Features of Formation of the Combined Electroerosive Coatings on Special Steels and Alloys",
+		"ru": "Повышение качества поверхностных электроэрозионно-легированных слоёв комбинированными покрытиями и поверхностным пластическим деформированием. I. Особенности формирования комбинированных электроэрозионных покрытий на специальных сталях и сплавах"
+	},
+	"abstract": {
+		"ua": "У роботі представлено аналізу особливостей формування комбінованих ерозійних покриттів (КЕП) на конструкційних, інструментальних сталях і ніклевих стопах. Запропоновано новий спосіб формування КЕП, що полягає в нанесенні проміжного шару з міді між основним металом і покриттям зі зносостійких стопів. Високими показниками якости характеризуються квазибагатошарові покриття, сформовані методою електроерозійного леґування (ЕЕЛ) в послідовності ВК8 → Cu → ВК8 для сталевих підкладинок, ВК8 → ВК8 → Сu і ВК8 → ВК8 → Ni — для ніклевого стопу ХН58МБЮД. Високі результати за мікротвердістю (14200 МПа) одержано на сталях 45 і Р6М5 при ЕЕЛ композиційним електроерозійним матеріялом 90% ВК6 + 10% 1М.",
+		"en": "The analysis of peculiarities of formation of the combined erosion coatings (CECs) on the structural and tool steels as well as nickel alloys is presented in this paper. New method of the CECs formation is proposed. It consists in applying an intermediate layer of copper between the base metal and the coating from wear-resistant alloys. Quasi-multilayer coatings formed by electroerosive alloying (EEA) in the sequences VK8 → Cu → VK8 on steels, VK8 → VK8 → Cu and VK8 → VK8 → Ni on nickel alloy KhN58MBUD are characterized by high quality factors. High microhardness (14200 MPa) is obtained on steel 45 and R6M5 by means of the EEA with composite electroerosive material 90% VK6 + 10% 1M.",
+		"ru": "В работе представлен анализ особенностей формирования комбинированных эрозионных покрытий (КЭП) на конструкционных, инструментальных сталях и никелевых сплавах. Предложен новый способ формирования КЭП, заключающийся в нанесении промежуточного слоя из меди между основным металлом и покрытием из износостойких сплавов. Высокими показателями качества характеризуются квазимногослойные покрытия, сформированные методом электроэрозионного легирования (ЭЭЛ) в последовательности ВК8 → Cu → ВК8 для стальных подложек, ВК8 → ВК8 → Cu и ВК8 → ВК8 → Ni — для никелевого сплава ХН58МБЮД. Высокие результаты по микротвёрдости (14200 МПа) получены при ЭЭЛ стали 45 и Р6М5 композиционным электроэрозионным материалом 90% ВК6 + 10% 1М."
+	},
+	"keywords": {
+		"ua": "електроерозійне леґування, електроди, комбіноване покриття, пластична деформація, структура, мікротвердість",
+		"en": "electroerosive alloying, electrodes, combined coating, plastic deformation, structure, microhardness",
+		"ru": "электроэрозионное легирование, электроды, комбинированное покрытие, пластическая деформация, структура, микротвёрдость"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Б. Тарельник", "en": "V. B. Tarelnyk", "ru": "В. Б. Тарельник"},
+			"OID": [247]
+		},
+		{
+			"AID": {"ua": "О. П. Гапонова", "en": "O. P. Gaponova", "ru": "О. П. Гапонова"},
+			"OID": [208]
+		},
+		{
+			"AID": {"ua": "Є. В. Коноплянченко", "en": "Ye. V. Konoplianchenko", "ru": "Е. В. Коноплянченко"},
+			"OID": [247]
+		},
+		{
+			"AID": {"ua": "В. С. Марцинковський", "en": "V. S. Martsynkovskyy", "ru": "В. С. Марцинковский"},
+			"OID": [247]
+		},
+		{
+			"AID": {"ua": "Н. В. Тарельник", "en": "N. V. Tarelnyk", "ru": "Н. В. Тарельник"},
+			"OID": [247]
+		},
+		{
+			"AID": {"ua": "О. О. Василенко", "en": "O. O. Vasylenko", "ru": "О. А. Василенко"},
+			"OID": [247]
+		}
+	],
+	"references": {
+		"count": 29,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Н. В. Чаругин, Г. Н. Мещеряков, Способ формирования покрытий, Авт. св. СССР № 1313610 (Опубл. 30.05.87).",
+				"tr":  "N. V. Charugin and G. N. Meshcheryakov, Sposob Formirovaniya Pokrytiy: Authors' Certificate 1313610 SSSR (Publ. 30.05.87) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Аникаев, А. И. Уршанский, В. К. Рыбаков, В. П. Ашихмин, Б. П. Кузнецов, Н. К. Махнев, А. В. Бородин, Способ электроэрозионного легирования, Авт. св. СССР № 1212722 (Опубл. 23.02.86).",
+				"tr":  "V. A. Anikayev, A. I. Urshanskiy, V. K. Rybakov, V. P. Ashikhmin, B. P. Kuznetsov, N. K. Makhnev, and A. V. Borodin, Sposob Elektroerozionnogo Legirovaniya: Authors' Certificate 1212722 SSSR (Publ. 23.02.86) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Тарельник, Зміцнення поверхневих шарів інструмента та важконавантажених деталей електроерозійним легуванням з наступною пластичною деформацією (Автореф. дис. к.т.н.) (Луганськ: ВНУ ім. В. Даля: 1994).",
+				"tr":  "V. B. Tarelnyk, Zmitsnennya Poverkhnevykh Shariv Instrumenta ta Vazhkonavantazhenykh Detalej Elektroeroziynym Leguvannyam z Nastupnoyu Plastychnoyu Deformatsieyu (Thesis of Disser. for Ph.D.) (Luhans'k: VNU im. V. Dalya: 1994) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Тарельник, Л. А. Иванов, В. Г. Марченко, Способ электроэрозионного легирования, Авт. св. СССР № 1734968 (Опубл. 23.05.92).",
+				"tr":  "V. B. Tarelnyk, L. A. Ivanov, and V. G. Marchenko, Sposob Elektroerozionnogo Legirovaniya: Authors' Certificate 1734968 SSSR (Publ. 23.05.92) (in Russian)."
+			},
+			{
+				"doi": "10.1007/s11106-017-9843-2",
+				"or":  "V. B. Tarelnyk, A. V. Paustovskii, Yu. G. Tkachenko, E. V. Konoplianchenko, V. S. Martsynkovskyi, and B. Antoszewski, Powder Metall. Met. Ceram., 55: 9 (2017).",
+				"tr":  "V. B. Tarelnyk, A. V. Paustovskii, Yu. G. Tkachenko, E. V. Konoplianchenko, V. S. Martsynkovskyi, and B. Antoszewski, Powder Metall. Met. Ceram., 55: 9 (2017)."
+			},
+			{
+				"doi": "10.1007/s10556-017-0333-7",
+				"or":  "V. B. Tarel’nik, V. S. Martsinkovskii, and A. N. Zhukov, Chem. Petrol. Eng., 53: 266 (2017).",
+				"tr":  "V. B. Tarel'nik, V. S. Martsinkovskii, and A. N. Zhukov, Chem. Petrol. Eng., 53: 266 (2017)."
+			},
+			{
+				"doi": "10.1007/s10556-017-0351-5",
+				"or":  "V. B. Tarel’nik, V. S. Martsinkovskii, and A. N. Zhukov, Chem. Petrol. Eng., 53: 385 (2017).",
+				"tr":  "V. B. Tarel'nik, V. S. Martsinkovskii, and A. N. Zhukov, Chem. Petrol. Eng., 53: 385 (2017)."
+			},
+			{
+				"doi": "10.1007/s10556-017-0305-y",
+				"or":  "V. B. Tarel’nik, V. S. Martsinkovskii, and A. N. Zhukov, Chem. Petrol. Eng., 53: 114 (2017).",
+				"tr":  "V. B. Tarel'nik, V. S. Martsinkovskii, and A. N. Zhukov, Chem. Petrol. Eng., 53: 114 (2017)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Д. Папшев, Отделочно-упрочняющая обработка поверхностным деформированием (Москва: 1978).",
+				"tr":  "D. D. Papshev, Otdelochno-Uprochnyayushchaya Obrabotka Poverkhnostnym Deformirovaniem (Moscow: 1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Кудрявцев, Вопросы прочности крупных деталей машин: Труды ЦНИИТМАШ. Кн. 112 (Москва: Машиностроение: 1976), с. 190.",
+				"tr":  "I. V. Kudryavtsev, Voprosy Prochnosti Krupnykh Detaley Mashin: Trudy TsNIITMASH (Moscow: 1976) (in Russian), p. 190."
+			},
+			{
+				"doi": "",
+				"or":  "Л. А. Хворостухин, В. Н. Машков, В. А. Торпачев, Обработка металлопокрытий выглаживанием (Москва: Машиностроение: 1980).",
+				"tr":  "L. A. Khvorostukhin, V. N. Mashkov, and V. A. Torpachev, Obrabotka Metallopokrytiy Vyglazhivaniem (Moscow: Mashinostroenie: 1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Балтер, М. Л. Туровский, Р. А. Новик, Вестник машиностроения, № 9: (1969).",
+				"tr":  "M. A. Balter, M. L. Turovskiy, and R. A. Novik, Vestnik Mashinostroeniya, No. 9 (1969) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Балтер, Упрочнение деталей машин (Москва: Машиностроение: 1978).",
+				"tr":  "M. A. Balter, Uprochnenie Detaley Mashin (Moscow: Mashinostroenie: 1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Л. Туровский, Р. А. Новик, Вестник машиностроения, № 1: 39 (1970).",
+				"tr":  "M. L. Turovskiy and R. A. Novik, Vestnik Mashinostroyeniya, No. 1: 39 (1970) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Akaoka, Proc. Inst. Mechan. Engrs., No. 23 (1974).",
+				"tr":  "J. Akaoka, Proc. Inst. Mechan. Engrs., No. 23 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. Б. Рыжов, Б. В. Бурыкин, Проблемы повышения качества, надёжности и долговечности машин, № 3: 10 (1989).",
+				"tr":  "E. B. Ryzhov and B. V. Burykin, Problemy Povysheniya Kachestva, Nadezhnosti i Dolgovechnosti Mashin, No. 3: 10 (1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. К. Яценко, В. Ф. Притченко, И. Н. Комарчук, А. Г. Сахно, Проблемы прочности, № 5: 119 (1987).",
+				"tr":  "V. K. Yatsenko, V. F. Pritchenko, I. N. Komarchuk, and A. G. Sakhno, Problemy Prochnosti, No. 5: 119 (1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Гузенков, А. Н. Поляков, Г. И. Логинов, Проблемы прочности, № 11 (1988).",
+				"tr":  "A. A. Guzenkov, A. N. Polyakov, and G. I. Loginov, Problemy Prochnosti, No. 11 (1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Михайлюк, Л. С. Рапопорт, А. Е. Гитлевич, Электронная обработка материалов, № 1 (1991).",
+				"tr":  "A. I. Mikhaylyuk, L. S. Rapoport, and A. Ye. Gitlevich, Elektronnaya Obrabotka Materialov, No. 1 (1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Михайлюк, Л. С. Рапопорт, А. Е. Гитлевич, Электронная обработка материалов, № 2: 17 (1991).",
+				"tr":  "A. I. Mikhaylyuk, L. S. Rapoport, and A. Ye. Gitlevich, Elektronnaya Obrabotka Materialov, No. 2: 17 (1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Д. Брондз, Вестник машиностроения, № 11 (1977).",
+				"tr":  "L. D. Brondz, Vestnik Mashinostroyeniya, No. 11 (1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. А. Хворостухин, Повышение надежности и долговечности алмазным выглаживанием (Москва: 1975).",
+				"tr":  "L. A. Khvorostukhin, Povyshenie Nadezhnosti i Dolgovechnosti Almaznym Vyglazhivaniem (Moscow: 1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. К. Яценко, Г. З. Зайцев, В. Ф. Притченко, Повышение несущей способности деталей машин алмазным выглаживанием (Москва: Машиностроение: 1985).",
+				"tr":  "V. K. Yatsenko, G. Z. Zaytsev, and V. F. Pritchenko, Povyshenie Nesushchey Sposobnosti Detaley Mashin Almaznym Vyglazhivaniem (Moscow: Mashinostroenie: 1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. С. Дрозд, М. М. Матлин, Ю. И. Сидяков, Инженерные расчёты упруго-пластической контактной деформации (Москва: Машиностроение: 1986).",
+				"tr":  "M. S. Drozd, M. M. Matlin, and Yu. I. Sidyakov, Inzhenernye Raschety Uprugo-Plasticheskoy Kontaktnoy Deformatsii (Moscow: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Михайлюк, А. Н. Иванов, Л. М. Капушкина, А. Е. Гитлевич, Электронная обработка материалов, № 1 (1995).",
+				"tr":  "A. I. Mikhaylyuk, A. N. Ivanov, L. M. Kapushkina, and A. Ye. Gitlevich, Elektronnaya Obrabotka Materialov, No. 1 (1995) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Тарельник, Комбинированные технологии электроэрозионного легирования (Київ: Техніка: 1997).",
+				"tr":  "V. B. Tarelnyk, Kombinirovannye Tekhnologii Elektroerozionnogo Legirovaniya (Kyiv: Tekhnika: 1997) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.38.12.1611",
+				"or":  "В. Б. Тарельник, О. П. Гапонова, Е. В. Коноплянченко, М. Я. Довжик, Металофиз. новейшие технол., 38, № 12: 1611 (2016).",
+				"tr":  "V. B. Tarel'nyk, O. P. Gaponova, Ye. V. Konoplyanchenko, and M. Ya. Dovzhyk, Metallofiz. Noveishie Tekhnol., 38, No. 12: 1611 (2016) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Марцинковский, В. Б. Тарельник, Способ электроэрозионного легирования поверхностей стальных деталей: Патент РФ № 2524471 (Опубл. 27.07.14).",
+				"tr":  "V. S. Martsinkovskiy and V. B. Tarelnyk, Sposob Elektroerozionnogo Legirovaniya Poverkhnostey Stalnykh Detaley: Patent 2524471 RF (Publ. 27.07.14) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. С. Марцинковский, В. Б. Тарельник, Способ нанесения износостойкого композиционного покрытия на изнашиваемые поверхности стальных изделий: Патент РФ № 2598738 (Опубл. 27.09.16).",
+				"tr":  "V. S. Martsinkovskiy and V. B. Tarelnyk, Sposob Naneseniya Iznosostoykogo Kompozitsionnogo Pokrytiya na Iznashivayemye Poverkhnosti Stalnykh Izdeliy: Patent 2598738 RF (Publ. 27.09.16) (in Russian)."
+			}
+		]
+	}
+}

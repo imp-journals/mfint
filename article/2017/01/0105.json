@@ -1,0 +1,134 @@
+{
+	"_id":    "MFiNT.39.01.0105",
+	"year":   2017,
+	"volume": 39,
+	"issue":  1,
+	"pages":  [105,115],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["27.07.2016"],
+	"PACS":   "61.72.Hh, 68.35.Ct, 68.37.-d, 68.55.-a, 75.50.Ss, 75.50.Vv, 75.70.Ak, 81.40.Ef",
+	"title":  {
+		"ua": "Вплив напруженого стану на формування фази $L1_{0}$-FePt в плівці Fe$_{52}$Pt$_{48}$ на підкладинці Al$_{2}$O$_{3}$",
+		"en": "Influence of the Stress State on $L1_{0}$-FePt Phase Formation within the Fe$_{52}$Pt$_{48}$ Film on Al$_{2}$O$_{3}$ Substrate",
+		"ru": "Влияние напряжённого состояния на формирование фазы $L1_{0}$-FePt в плёнке Fe$_{52}$Pt$_{48}$ на подложке Al$_{2}$O$_{3}$"
+	},
+	"abstract": {
+		"ua": "Методами фізичного матеріялознавства вивчено вплив напруженого стану на процеси термічно активованого формування впорядкованої фази $L1_{0}$-FePt при відпалах і магнетні властивості плівки Fe$_{52}$Pt$_{48}$(15 нм). Плівку було одержано методою магнетронного осадження на підкладинку монокристалічного сапфіру Al$_{2}$O$_{3}$ ($10\\bar{1}0$). Швидкий термічний відпал в атмосфері азоту проводився зі швидкістю нагріву у 400°C/c в температурному інтервалі 500–800°C тривалістю у 30 с. Встановлено, що при осадженні плівки формується невпорядкована фаза $A1$-FePt і присутні розтягувальні залишкові механічні напруження. При нагріві до 500°C знак напружень змінюється, і вони стають стискальними. Фазове перетворення $A1$-FePt $\\rightarrow$ $L1_{0}$-FePt, яке починається при відпалі за температури у 600°C, супроводжується зменшенням об’єму елементарної комірки, релаксацією напружень і викликає зміну магнетних властивостей. Подальше підвищення температури відпалу до 800°C приводить до збільшення кількості магнетотвердої впорядкованої фази $L1_{0}$-FePt і росту коерцитивної сили в перпендикулярно прикладеному до плівки магнетному полі до 14 кЕ. При цьому зберігається ізотропія магнетокристалічної енергії.",
+		"en": "The effect of stress state on the thermally activated processes of $L1_{0}$-FePt-ordered phase formation at annealing as well as the magnetic properties of Fe$_{52}$Pt$_{48}$(15 nm) film are studied by the physical materials science methods. The film is fabricated by magnetron sputtering technique on monocrystalline Al$_{2}$O$_{3}$ ($10\\bar{1}0$) sapphire substrate. Rapid thermal annealing in nitrogen atmosphere carried out with heat rate of 400°C/s in temperature range of 500–800°C for 30 s. As determined, the disordered $A1$-FePt phase is formed in as-deposited film, and tensile residual mechanical stresses are presented. At the heating up to 500°C, the sign of stresses is changed, and the last ones become compressive. The $A1$-FePt $\\rightarrow$ $L1_{0}$-FePt phase transformation starting at annealing temperature of 600°C is accompanied with both the lattice cell volume decreasing and the stress relaxation, and induces the change of magnetic properties. Further annealing temperature growth up to 800°C leads to increasing of both the amount of hard magnetic $L1_{0}$-FePt-ordered phase and the coercivity in applied magnetic field up to 14 kOe, which is perpendicular to film surface. Meanwhile, isotropy of magnetocrystalline energy is maintained.",
+		"ru": "Методами физического материаловедения изучено влияние напряжённого состояния на процессы термически активируемого формирования упорядоченной фазы $L1_{0}$-FePt при отжигах и магнитные свойства плёнки Fe$_{52}$Pt$_{48}$(15 нм). Плёнка получена методом магнетронного осаждения на подложку монокристаллического сапфира Al$_{2}$O$_{3}$ ($10\\bar{1}0$). Быстрый термический отжиг в атмосфере азота проводился со скоростью нагрева 400°C/c в температурном интервале 500–800°C длительностью 30 с. Установлено, что при осаждении плёнок формируется неупорядоченная фаза $A1$-FePt и присутствуют растягивающие остаточные механические напряжения. При нагреве до 500°C знак напряжений изменяется, и они становятся сжимающими. Фазовое превращение $A1$-FePt $\\rightarrow$ $L1_{0}$-FePt, которое начинается при отжиге при температуре 600°C, сопровождается уменьшением объёма элементарной ячейки, релаксацией напряжений и вызывает изменение магнитных свойств. Дальнейшее повышение температуры отжига до 800°C приводит к увеличению количества магнитотвёрдой упорядоченной фазы $L1_{0}$-FePt и росту коэрцитивной силы в перпендикулярно приложенном к плёнке магнитном поле до 14 кЭ. При этом сохраняется изотропия магнитокристаллической энергии."
+	},
+	"keywords": {
+		"ua": "нанорозмірна плівка, впорядкована фаза $L1_{0}$-FePt, напружений стан, коерцитивна сила, відпал",
+		"en": "nanosize film, $L1_{0}$-FePt-ordered phase, stress state, coercivity, annealing",
+		"ru": "наноразмерная плёнка, упорядоченная фаза $L1_{0}$-FePt, напряжённое состояние, коэрцитивная сила, отжиг"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. Ю. Вербицька", "en": "M. Yu. Verbytska", "ru": "М. Ю. Вербицкая"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "М. Н. Шаміс", "en": "M. N. Shamis", "ru": "М. Н. Шамис"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "К. В. Сліпченко", "en": "K. V. Slipchenko", "ru": "К. В. Слипченко"},
+			"OID": [12]
+		},
+		{
+			"AID": {"ua": "Т. І. Вербицька", "en": "T. I. Verbytska", "ru": "Т. И. Вербицкая"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "Ю. М. Макогон", "en": "Iu. M. Makogon", "ru": "Ю. Н. Макогон"},
+			"OID": [202]
+		}
+		],
+	"references": {
+		"count": 16,
+		"list":  [
+			{
+				"doi": "10.1109/TMAG.2010.2042039",
+				"or":  "B. Wang, K. Barmak, and T. J. Klemmer, IEEE Transactions on Magnetics, 46: 1773 (2010).",
+				"tr":  "B. Wang, K. Barmak, and T. J. Klemmer, IEEE Transactions on Magnetics, 46: 1773 (2010)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.102.247203",
+				"or":  "M. Tsujikawa and T. Oda, Phys. Rev. Letters, 102, No. 24: 247203 (2009).",
+				"tr":  "M. Tsujikawa and T. Oda, Phys. Rev. Letters, 102, No. 24: 247203 (2009)."
+			},
+			{
+				"doi": "10.1016/j.apsusc.2012.11.102",
+				"or":  "O. P. Pavlova, T. I. Verbitska, I. A. Vladymyrskyi, S. I. Sidorenko, G. L. Katona, D. L. Beke, G. Beddies, M. Albrecht, and I. M. Makogon, Appl. Surf. Sci., 266: 100 (2013).",
+				"tr":  "O. P. Pavlova, T. I. Verbitska, I. A. Vladymyrskyi, S. I. Sidorenko, G. L. Katona, D. L. Beke, G. Beddies, M. Albrecht, and I. M. Makogon, Appl. Surf. Sci., 266: 100 (2013)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2005.09.092",
+				"or":  "G. Safran, T. Suzuki, K. Ouchi, P. B. Barna, and G. Radnóczi, Thin Solid Films, 496: 580 (2005).",
+				"tr":  "G. Safran, T. Suzuki, K. Ouchi, P. B. Barna, and G. Radnóczi, Thin Solid Films, 496: 580 (2005)."
+			},
+			{
+				"doi": "10.1109/TMAG.2005.855271",
+				"or":  "A. K. Singh, J. Yin, and T. Suzuki, IEEE Transactions on Magnetics, 41: 3205 (2005).",
+				"tr":  "A. K. Singh, J. Yin, and T. Suzuki, IEEE Transactions on Magnetics, 41: 3205 (2005)."
+			},
+			{
+				"doi": "10.1063/1.4827202",
+				"or":  "I. A. Vladymyrskyi, M. V. Karpets, F. Ganss, G. L. Katona, D. L. Beke, S. I. Sidorenko, T. Nagata, T. Nabatame, T. Chikyow, G. Beddies, M. Albrecht, and Iu. M. Makogon, J. Appl.Phys., 114: 164314 (2013).",
+				"tr":  "I. A. Vladymyrskyi, M. V. Karpets, F. Ganss, G. L. Katona, D. L. Beke, S. I. Sidorenko, T. Nagata, T. Nabatame, T. Chikyow, G. Beddies, M. Albrecht, and Iu. M. Makogon, J. Appl.Phys., 114: 164314 (2013)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2004.10.028",
+				"or":  "T. Keitoku, J. Ariake, and N. Honda, J. Magn. Magn. Mater., 287: 172 (2004).",
+				"tr":  "T. Keitoku, J. Ariake, and N. Honda, J. Magn. Magn. Mater., 287: 172 (2004)."
+			},
+			{
+				"doi": "10.1109/TMAG.2005.855269",
+				"or":  "Y.-C. Wu, C.-H. Lai, C.-C. Chiang, and R. T. Huang, IEEE Transactions on Magnetics, 41: 3199 (2005).",
+				"tr":  "Y.-C. Wu, C.-H. Lai, C.-C. Chiang, and R. T. Huang, IEEE Transactions on Magnetics, 41: 3199 (2005)."
+			},
+			{
+				"doi": "10.1109/TMAG.2004.838073",
+				"or":  "T. Suzuki, Z. Zhang, A. K. Singh, J. Yin, A. Perumal, and H. Osawa, IEEE Transactions on Magnetics, 41: 555 (2005).",
+				"tr":  "T. Suzuki, Z. Zhang, A. K. Singh, J. Yin, A. Perumal, and H. Osawa, IEEE Transactions on Magnetics, 41: 555 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.107.265501",
+				"or":  "W. Gruber, S. Chakravarty, C. Baehtz, W. Leitenberger, M. Bruns, A. Kobler, C. Kübel, and H. Schmidt, Phys. Rev. Lett., 107: 265501 (2011).",
+				"tr":  "W. Gruber, S. Chakravarty, C. Baehtz, W. Leitenberger, M. Bruns, A. Kobler, C. Kübel, and H. Schmidt, Phys. Rev. Lett., 107: 265501 (2011)."
+			},
+			{
+				"doi": "10.1063/1.4730963",
+				"or":  "S. N. Hsiao, S. H. Liu, S. K. Chen, T. S. Chin, and H. Y. Lee, Appl. Phys. Lett., 100: 261909 (2012).",
+				"tr":  "S. N. Hsiao, S. H. Liu, S. K. Chen, T. S. Chin, and H. Y. Lee, Appl. Phys. Lett., 100: 261909 (2012)."
+			},
+			{
+				"doi": "10.1063/1.3670515",
+				"or":  "S. N. Hsiao, S. H. Liu, S. K. Chen, F. T. Yuan, and H. Y. Lee, J. Appl. Phys., 111: 07A702 (2012).",
+				"tr":  "S. N. Hsiao, S. H. Liu, S. K. Chen, F. T. Yuan, and H. Y. Lee, J. Appl. Phys., 111: 07A702 (2012)."
+			},
+			{
+				"doi": "10.1109/TMAG.2011.2147291",
+				"or":  "S. N. Hsiao, S. K. Chen, S. H. Liu, C. J. Liao, F. T. Yuan, and H. Y. Lee, IEEE Transactions on Magnetics, 47: 3637 (2011).",
+				"tr":  "S. N. Hsiao, S. K. Chen, S. H. Liu, C. J. Liao, F. T. Yuan, and H. Y. Lee, IEEE Transactions on Magnetics, 47: 3637 (2011)."
+			},
+			{
+				"doi": "10.1109/TMAG.2011.2173660",
+				"or":  "F. T. Yuan, S. H. Liu, W. M. Liao, S. N. Hsiao, S. K. Chen, and H. Y. Lee, IEEE Transactions on Magnetics, 48: 1139 (2012).",
+				"tr":  "F. T. Yuan, S. H. Liu, W. M. Liao, S. N. Hsiao, S. K. Chen, and H. Y. Lee, IEEE Transactions on Magnetics, 48: 1139 (2012)."
+			},
+			{
+				"doi": "10.1063/1.3309417",
+				"or":  "D. Makarov, J. Lee, C. Brombacher, C. Schubert, M. Fuger, D. Suess, J. Fidler, and M. Albrecht, Appl. Phys. Lett., 96: 062501 (2010).",
+				"tr":  "D. Makarov, J. Lee, C. Brombacher, C. Schubert, M. Fuger, D. Suess, J. Fidler, and M. Albrecht, Appl. Phys. Lett., 96: 062501 (2010)."
+			},
+			{
+				"doi": "10.1063/1.2164428",
+				"or":  "M. L. Yan, Y. F. Xu, and D. J. Sellmyer, J. Appl. Phys., 99: 08G903 (2006).",
+				"tr":  "M. L. Yan, Y. F. Xu, and D. J. Sellmyer, J. Appl. Phys., 99: 08G903 (2006)."
+			}
+		]
+	}
+}

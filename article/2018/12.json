@@ -1,0 +1,157 @@
+{
+	"year":   2018,
+	"volume": 40,
+	"issue":  12,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [1559,1571],
+			"title": {
+				"ua": "Складові квазичастинкової ренормалізації надпровідників на основі заліза",
+				"en": "Components of a Quasi-Particle Renormalization of the Iron-Based Superconductors",
+				"ru": "Составляющие квазичастичной ренормализации сверхпроводников на основе железа"
+			},
+			"autors": {
+				"ua": "К. О. Кухельний, О. А. Кордюк",
+				"en": "K. O. Kukhelnyi and O. A. Kordyuk",
+				"ru": "К. A. Кухельный, А. А. Кордюк"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [1573,1587],
+			"title": {
+				"ua": "Мініятюрні мікросмужкові резонатори, що мають форми меандру та фрактала",
+				"en": "Miniature Meander- and Fractal-Shaped Microstrip Resonators",
+				"ru": "Миниатюрные микрополосковые резонаторы, имеющие формы меандра и фрактала"
+			},
+			"autors": {
+				"ua": "О. А. Каленюк, С. І. Футимський",
+				"en": "A. A. Kalenyuk and S. I. Futimsky",
+				"ru": "А. А. Каленюк, С. И. Футымский"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  1,
+			"pages":  [1589,1602],
+			"title": {
+				"ua": "Дослідження електричних властивостей та структури аморфних стопів системи Fe–B–P–Nb–Cr",
+				"en": "Investigation of Electrical Properties and Structure of Amorphous Alloys of Fe–B–P–Nb–Cr System",
+				"ru": "Исследование электрических свойств и структуры аморфных сплавов системы Fe–B–P–Nb–Cr"
+			},
+			"autors": {
+				"ua": "Є. І. Ярмощук, Т. М. Міка, Г. М. Зелінська, В. К. Носенко, М. П. Семенько",
+				"en": "Ye. I. Yarmoshchuk, T. M. Mika, H. M. Zelinska, V. K. Nosenko, and M. P. Semen’ko",
+				"ru": "Е. И. Ярмощук, Т. М. Мика, Г. М. Зелинская, В. К. Носенко, М. П. Семенько"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [1603,1624],
+			"title": {
+				"ua": "Формування гетерофазної структури в низьколеґованій сталі застосуванням інноваційної технології термічного оброблення «Quenching and Partitioning»",
+				"en": "Formation of a Heterophase Structure in Low-Alloyed Steel by Means of Application of Innovative Technology of Heat Treatment by ‘Quenching and Partitioning’",
+				"ru": "Формирование гетерофазной структуры в низколегированной стали применением инновационной технологии термической обработки «Quenching and Partitioning»"
+			},
+			"autors": {
+				"ua": "В. І. Зурнаджи, В. Г. Єфременко, В. Г. Гаврилова, Р. О. Кусса, А. В. Єфременко, В. В. Кудін, М. В. Помазков",
+				"en": "V. І. Zurnadzhy, V. G. Efremenko, V. G. Gavrilova, R. O. Kussa, А. V. Efremenko, V. V. Kudin, and M. V. Pomazkov",
+				"ru": "В. И. Зурнаджи, В. Г. Ефременко, В. Г. Гаврилова, Р. А. Кусса, А. В. Ефременко, В. В. Кудин, М. В. Помазков"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [1625,1635],
+			"title": {
+				"ua": "Про непружнє двійникування, ауксетизм і структурні перетворення в Be",
+				"en": "On Inelastic Twinning, Auxetism and Structural Transformations in Beryllium",
+				"ru": "О неупругом двойниковании, ауксетизме и структурных превращениях в Be"
+			},
+			"autors": {
+				"ua": "В. О. Корпан, А. В. Олійнич-Лисюк, М. Д. Раранський, О. Ю. Тащук",
+				"en": "V. O. Korpan, A. V. Oliynich-Lysyuk, M. D. Raransky, and O. Yu. Tashchuk",
+				"ru": "В. О. Корпан, А. В. Олийнич-Лысюк, М. Д. Раранский, О. Ю. Тащук"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [1637,1647],
+			"title": {
+				"ua": "Дослідження впливу на модифікацію берилію в стопі Al–Si",
+				"en": "Research of the Influence on the Modification of Beryllium in Al–Si Alloy",
+				"ru": "Исследование влияния на модификацию бериллия в сплаве Al–Si"
+			},
+			"autors": {
+				"ua": "Ірина Грень, Штефан Міхна, Людмила Дроздик, Яромир Цайз, Ленка Міхнова, Ярослава Свободова, Любомир Годінар",
+				"en": "Iryna Hren, Štefan Michna, Liudmyla Drozdyk, Jaromír Cais, Lenka Michnová, Jaroslava Svobodova, and Lubomír Hodinář",
+				"ru": "Ирина Грень, Штефан Михна, Людмила Дроздык, Яромир Цаис, Ленка Михнова, Ярослава Свободова, Любомир Годинар"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [1649,1673],
+			"title": {
+				"ua": "Вплив попереднього оброблення міді на фазо- та пороутворення у твердофазних реакціях міді з циною",
+				"en": "Influence of Copper Pretreatment on the Phase and Pore Formations in the Solid Phase Reactions of Copper with Tin",
+				"ru": "Влияние предварительной обработки меди на фазо- и порообразование в твёрдофазных реакциях меди с оловом"
+			},
+			"autors": {
+				"ua": "В. В. Морозович, А. Р. Гонда, Ю. О. Ляшенко, Я. Д. Король, О. Ю. Ляшенко, Ч. Чергаті, А. М. Гусак",
+				"en": "V. V. Morozovych, A. R. Honda, Yu. O. Lyashenko, Ya. D. Korol, O. Yu. Liashenko, С. Cserháti, and A. M. Gusak",
+				"ru": "В. В. Морозович, А. Р. Гонда, Ю. А. Ляшенко, Я. Д. Король, А. Ю. Ляшенко, Ч. Чергати, А. М. Гусак"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [1675,1687],
+			"title": {
+				"ua": "Оцінювання стабільности та зростання ГЦК-нанокластера заліза, що містить атоми домішки",
+				"en": "The Estimation of Stability and Growth of F.C.C. Iron Nanocluster Containing the Impurity Atoms",
+				"ru": "Оценивание стабильности и роста ГЦК-нанокластера железа, содержащего атомы примеси"
+			},
+			"autors": {
+				"ua": "Н. В. Бондаренко, А. В. Недоля",
+				"en": "N. V. Bondarenko and A. V. Nedolya",
+				"ru": "Н. В. Бондаренко, А. В. Недоля"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1689,1697],
+			"title": {
+				"ua": "Моделювання твердости тонких плівок, міряної сферичним індентором",
+				"en": "Modelling of Thin Films Hardness Measured by a Spherical Indenter",
+				"ru": "Моделирование твёрдости тонких плёнок, измеренной сферическим индентором"
+			},
+			"autors": {
+				"ua": "А. Будільмі, К. Лусіф",
+				"en": "A. Boudilmi and K. Loucif",
+				"ru": "А. Будильми, К. Лусиф"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1699,1707],
+			"title": {
+				"ua": "Вплив параметра швидкости обертання на механічні властивості подібних сталі AISI 1040 деталів, з’єднаних зварюванням тертям",
+				"en": "Effect of Rotation Speed Parameter on Mechanical Properties of Similar AISI 1040 Parts Joined by Friction Welding",
+				"ru": "Влияние параметра скорости вращения на механические свойства подобных стали AISI 1040 деталей, соединённых сваркой трением"
+			},
+			"autors": {
+				"ua": "Зулкуф Балалан, Омер Екінжи",
+				"en": "Zulkuf Balalan and Omer Ekinci",
+				"ru": "Зулкуф Балалан, Омер Экинжи"
+			}
+		}
+	]
+}

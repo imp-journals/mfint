@@ -1,0 +1,116 @@
+{
+	"_id":    "MFiNT.38.12.1635",
+	"year":   2016,
+	"volume": 38,
+	"issue":  12,
+	"pages":  [1635,1654],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["06.06.2016"],
+	"PACS":   "68.35.Gy, 68.47.Gh, 68.55.J-, 68.55.Nq, 68.60.Dv, 81.65.Kn, 81.65.Mq",
+	"title":   {
+		"ua": "Натурні випробування в реальному часі напружень через циндру у суперстопі методою скручувального моменту для зразка, вирізаного за Архімедовою кривою",
+		"en": "Real Time Test in situ of Superalloy Oxide Scale Stress by Archimedes Curve Slice Moment Technique",
+		"ru": "Натурные испытания в режиме реального времени напряжений из-за окалины в суперсплаве методом скручивающего момента для образца, вырезанного по кривой Архимеда"
+	},
+	"abstract": {
+		"ua": "Напруження є безпосередньою причиною відшарування приповерхневої циндри, що призводить до руйнування захисту матриці стопу. Отже, вивчення механічної поведінки циндри є ключем до вивчення стійкости стопів до окиснення. В даній роботі розглянуто нову експериментальну методу міряння скручувального моменту для тонкого шару матеріялу, що був вирізаний за Архімедовою кривою, яка слугує для in situ дослідження в режимі реального часу напружень, що виникають через циндру у суперстопі на основі заліза K273 впродовж усього високотемпературного окиснення. Згідно з одержаним виразом, для точного розрахунку у режимі реального часу напружень $\\sigma$, що виникають завдяки циндрі, достатньо лише спостереження за полярним радіюсом OC$^{'}$ зразка, вирізаного за Архімедовою кривою. При дослідженні процесу окиснення протягом 5 годин за температури у 800°C залежність напружень через циндру від часу окиснення було зведено до рівняння параболи. По мірі росту оксиду та формування нових внутрішніх його шарів, які тиснуть один на одного, ґенеруються напруження за рахунок циндри. Аналіза, проведена методами СЕМ, ЕРС та РДА, показала, що циндра ущільнюється у композитну структуру, яка складається з Cr$_{2}$O$_{3}$ та шпінелі (Fe, Ni, Mn)Cr$_{2}$O$_{4}$. Зменшення напружень, що виникають за рахунок циндри, приводить до більш низької швидкости окиснення та підвищення стійкости до окиснення. Поліпшену використанням вакуумної системи методику in situ міряння скручувального моменту для зразків, вирізаних за Архімедовою кривою, якісно та кількісно перевірено шляхом дослідження зростання циндри та термічних напружень впродовж усього часу високотемпературного окиснення.",
+		"en": "Stress is the direct cause of surface oxide scale exfoliation to ruin the protection for alloy matrix. Therefore, it is the key to study oxide scale mechanical behaviour for discovering the oxidation resistance of alloys. In this paper, a new kind of experimental method ‘Archimedes curve slice moment technique’ is studied to test in situ the real time oxide scale stress of ferro-based superalloy K273 during all the high-temperature oxidation. By the derived formula, the oxide scale stress $\\sigma$ can be calculated precisely only by observing Archimedes curve slice real-time polar radius OC$^{'}$. Having been oxidated for 5 hours at 800°C, the oxide scale stress versus oxidation time is regressed to follow parabola equation strictly. As the oxides grow and the inner new oxides form in scales to press each other, the oxide scale stress is generated. Analysed by SEM, EDS and XRD, the oxide scale is compact composite structure made up of Cr$_{2}$O$_{3}$ and spinel (Fe, Ni, Mn)Cr$_{2}$O$_{4}$. The less oxide scale stress increment brings about the lower oxidation weight gain rate and the better oxidation resistance. Improved by the use of vacuum system, the Archimedes curve slice moment technique is going to test the oxide scale growing and thermal stresses qualitatively and quantitatively in situ all the time at high temperature.",
+		"ru": "Напряжения являются непосредственной причиной отслоения приповерхностной окалины, что приводит к разрушению защиты матрицы сплава. Следовательно, изучение механического поведения окалины является ключом к выяснению стойкости сплавов к окислению. В данной работе рассматривается новая экспериментальная методика измерения скручивающего момента для тонкого слоя материала, вырезанного по кривой Архимеда, служащая для in situ изучения в режиме реального времени напряжений, возникающих за счёт окалины, в суперсплаве на основе железа K273 в течение всего высокотемпературного окисления. Согласно полученному выражению, для точного расчёта в режиме реального времени напряжений $\\sigma$, возникающих из-за окалины, достаточно лишь наблюдения за полярным радиусом OC$^{'}$ образца, вырезанного по кривой Архимеда. При исследовании процесса окисления на протяжении 5 часов при температуре 800°C зависимость напряжений из-за окалины от времени окисления была сведена к уравнению параболы. По мере роста оксида и формирования новых внутренних его слоёв, давящих друг на друга, генерируются напряжения за счёт окалины. Анализ, проведённый методами СЭМ, ЭРС и РДА, показал, что окалина уплотняется в композитную структуру, состоящую из Cr$_{2}$O$_{3}$ и шпинели (Fe, Ni, Mn)Cr$_{2}$O$_{4}$. Уменьшение напряжений, возникающих за счёт окалины, приводит к более низкой скорости окисления и повышению стойкости к окислению. Улучшенная использованием вакуумной системы методика in situ измерения скручивающего момента для образцов, вырезанных по кривой Архимеда, качественно и количественно проверена путём исследования роста окалины и термических напряжений на протяжении всего времени высокотемпературного окисления."
+	},
+	"keywords": {
+		"ua": "суперстоп на основі заліза, напруження, що виникають через циндру, стійкість до окиснення, Архімедова крива",
+		"en": "ferro-based superalloy, oxide scale stress, oxidation resistance, Archimedes curve",
+		"ru": "суперсплав на основе железа, напряжения, возникающие за счёт окалины, стойкость к окислению, кривая Архимеда"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Хай-тао Ванг", "en": "Hai-tao Wang", "ru": "Хай-тао Ванг"},
+			"OID": [495]
+		},
+		{
+			"AID": {"ua": "Шао-мей Женг", "en": "Shao-mei Zheng", "ru": "Шао-мей Женг"},
+			"OID": [495]
+		},
+		{
+			"AID": {"ua": "Хуа-шун Ю", "en": "Hua-shun Yu", "ru": "Хуа-шун Ю"},
+			"OID": [496]
+		}
+	],
+	"references": {
+		"count": 14,
+		"list":  [
+			{
+				"doi": "10.1002/srin.195702178",
+				"or":  "H. J. Engell und F. K. Peter, Archiv für das Eisenhüttenwesen, 28: 567 (1957) (in German).",
+				"tr":  "H. J. Engell und F. K. Peter, Archiv für das Eisenhüttenwesen, 28: 567 (1957) (in German)."
+			},
+			{
+				"doi": "10.1088/0022-3727/4/8/320",
+				"or":  "K. Kendall, J. Phys. D: Appl. Phys., 4: 1186 (1971).",
+				"tr":  "K. Kendall, J. Phys. D: Appl. Phys., 4: 1186 (1971)."
+			},
+			{
+				"doi": "10.1179/mst.1988.4.5.407",
+				"or":  "M. Schutze, Mater. Sci. Technol., 4: 407 (1988).",
+				"tr":  "M. Schutze, Mater. Sci. Technol., 4: 407 (1988)."
+			},
+			{
+				"doi": "10.1007/BF00667421",
+				"or":  "A. M. Huntz, J. L. Lebru, and A. Boumaza, Oxid. Metals, 33: 321 (1990).",
+				"tr":  "A. M. Huntz, J. L. Lebru, and A. Boumaza, Oxid. Metals, 33: 321 (1990)."
+			},
+			{
+				"doi": "10.1007/s11085-009-9166-x",
+				"or":  "C. Juricic, H. Pinto, D.Cardinali, M. Klaus, Ch. Genzel, and A. R. Pyzalla, Oxid. Metals, 73: 115 (2010).",
+				"tr":  "C. Juricic, H. Pinto, D.Cardinali, M. Klaus, Ch. Genzel, and A. R. Pyzalla, Oxid. Metals, 73: 115 (2010)."
+			},
+			{
+				"doi": "10.1007/s00707-012-0739-4",
+				"or":  "J. L. Ruan, Y. M. Pei, and D. N. Fang, Acta Mechanica, 223: 2597 (2012).",
+				"tr":  "J. L. Ruan, Y. M. Pei, and D. N. Fang, Acta Mechanica, 223: 2597 (2012)."
+			},
+			{
+				"doi": "10.1016/0010-938X(92)90014-T",
+				"or":  "J. Birnie, C. Craggs, D. J. Gardiner, and P. R. Graves, Corrosion Sci., 33: 1 (1992).",
+				"tr":  "J. Birnie, C. Craggs, D. J. Gardiner, and P. R. Graves, Corrosion Sci., 33: 1 (1992)."
+			},
+			{
+				"doi": "10.1007/s11085-011-9235-9",
+				"or":  "P. Y. Hou, J. Ager, J. Mougin, and A. Galerie, Oxid. Metals, 75: 229 (2011).",
+				"tr":  "P. Y. Hou, J. Ager, J. Mougin, and A. Galerie, Oxid. Metals, 75: 229 (2011)."
+			},
+			{
+				"doi": "10.1007/s11085-013-9433-8",
+				"or":  "F. Yang, X. F. Zhao, and P. Xiao, Oxid. Metals, 81: 331 (2014).",
+				"tr":  "F. Yang, X. F. Zhao, and P. Xiao, Oxid. Metals, 81: 331 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "Hai-tao Wang, Hua-shun Yu, Yu-qing Wang, Jing Zhang, Zhen-ya Zhang, and Zhi-fu Wang, Metallofiz. Noveishie Tekhnol., 31, No. 5: 701 (2009).",
+				"tr":  "Hai-tao Wang, Hua-shun Yu, Yu-qing Wang, Jing Zhang, Zhen-ya Zhang, and Zhi-fu Wang, Metallofiz. Noveishie Tekhnol., 31, No. 5: 701 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "Hai-tao Wang, Ji-wen Tan, Chang-song Liu, and Hua-shun Yu, Metallofiz. Noveishie Tekhnol., 33, No. 6: 757 (2011).",
+				"tr":  "Hai-tao Wang, Ji-wen Tan, Chang-song Liu, and Hua-shun Yu, Metallofiz. Noveishie Tekhnol., 33, No. 6: 757 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Tammann, Z. Anorg. Chem., 111: 78 (1920).",
+				"tr":  "G. Tammann, Z. Anorg. Chem., 111: 78 (1920)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Wagner, Z. Physik. Chem., B21: 25 (1933).",
+				"tr":  "C. Wagner, Z. Physik. Chem., B21: 25 (1933)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Wagner, Z. Physik. Chem., B32: 447 (1936).",
+				"tr":  "C. Wagner, Z. Physik. Chem., B32: 447 (1936)."
+			}
+		]
+	}
+}

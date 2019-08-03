@@ -1,0 +1,229 @@
+{
+	"_id":    "MFiNT.36.09.1207",
+	"year":   2014,
+	"volume": 36,
+	"issue":  9,
+	"pages":  [1207,1224],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["06.08.2013","28.08.2014"],
+	"PACS":   "61.43.Bn, 61.72.Bb, 61.72.J-, 62.20.Fq, 62.25.Mn, 81.40.Lm, 83.50.Ha",
+	"title":   {
+		"ua": "Комп’ютерне моделювання механізму виникнення локалізованих синергетичних дефектних субструктур при пластичній деформації нанокристалів металів",
+		"en": "Computer Modelling of Mechanism of Formation of Localized Synergetic Defect Substructures under Plastic Deformation of Metal Nanocrystals",
+		"ru": "Компьютерное моделирование механизма возникновения локализованных синергетических дефектных субструктур при пластической деформации нанокристаллов металлов"
+	},
+	"abstract": {
+		"ua": "Комп’ютерне моделювання процесів пластичної деформації для нанокристалів металів із ГЦК-ґратницею (Al, Cu, Pt) виконано методою молекулярної динаміки із використанням нових методик інтенсивних обчислень на основі технологій «наукового шлюзу» (Science Gateway) і WS-PGRADE/gUSE, ґрід-інфраструктур «сервісний ґрід» (Service Grid) і «настільний ґрід» (Desktop Grid). Знайдено нові риси еволюції невпорядкованого розташування атомів (так званих атом-вакансійних станів), які виникають у процесі одновісного монотонного навантаження ідеальних нанокристалів кубічної орієнтації. Показано, що колективна перебудова розташування атом-вакансійних станів призводить до значних змін усереднених значень напружень. Внаслідок еволюції атом-вакансійних станів утворюються колективні самоорганізовані зони локалізації напружень, які мають вигляд квазиперіодичних смуг із різними кількісними параметрами для різних металів (товщина, період, момент утворення), проте із однаковими якісними ознаками (некристалографічний напрямок, еволюція, нахил, наскрізне розташування в об’ємі, вихід на поверхню). Модельовані смуги неоднорідного розподілу напружень трактуються як провісники утворення смуг корельованого переміщення груп атом-вакансійних (або сильно збуджених) станів, тобто каналів неоднорідної локалізованої (гідродинамічної) пластичної течії на найнижчому (нанометровому) масштабному рівні. При подальшій еволюції такі смуги можуть ставати носіями гідродинамічних мод деформації на мікроскопічному та макроскопічному рівнях, що спостерігалося в експериментах різних наукових груп. Моделюванням результатів рентґенографічної аналізи показано, що зі збільшенням ступеня деформації відбувається зменшення інтенсивности дифракційних піків та їх зсув, що свідчить про присутність дефектів точкового типу. Таким чином, в якісному сенсі можна зробити висновок щодо правильности трактування невпорядкованих положень атомів у даній роботі, а саме, як точкових дефектів із властивостями атом-вакансійних станів. На основі викладених результатів та їх обговорення робиться висновок, що пластична деформація нанокристалів ГЦК-металів в умовах, коли дислокаційне ковзання неможливе, здійснюється шляхом локалізованої гідродинамічної течії речовини по каналах з нещільною некристалічною (рідиноподібною) структурою за механізмом утворення метастабільних точкових дефектів атом-вакансійного типу, їх еволюції і самоорганізації в смуги локалізації на більших масштабних рівнях.",
+		"en": "Computer modeling of plastic deformation of f.c.c.-metal (Al, Cu, Pt) nanocrystals is performed by the molecular dynamics method using the new techniques for high-performance computing on the basis of ‘scientific gateway’ (Science Gateway) and WS-PGRADE/gUSE technologies, ‘service grid’ and ‘desktop grid’ infrastructures. The new features of evolution are revealed for irregular atomic arrangements (i.e. so-called atom—vacancy states), which arise in process of monotonic uniaxial load of nanocrystals in cubic orientation. As shown, the collective restructuring in the ensemble of atom—vacancy states leads to significant changes of the average stress values. As a result of the evolution, the collective self-organized zones of strain localization appear as quasi-periodic bands with various quantitative parameters for different metals (thickness, period, time of formation), but with the same qualitative characteristics (non-crystallographic orientation, evolution, slope, through-bulk arrangement, outcropping). The simulated bands with nonuniform stress distribution are treated as precursors of the correlated movement of groups of atom—vacancy (or highly excited) states, i.e., precursors of inhomogeneous localized (hydrodynamic) plastic flow in channels at low (nanometre) scale level. With the further evolution, these bands may be the carriers of the hydrodynamic deformation modes at the micro- and macroscale levels, which have been observed in the experiments by various research groups. The simulation of results of X-ray analysis shows that the diffraction peaks decrease and shift with increase of plastic strain that indicates the presence of point defects. Thus, in a qualitative sense, we can conclude that the interpretation of the irregular atomic arrangements in this work as the point defects with the properties of the atom—vacancy states is correct. On the basis of these results and their discussion, it is concluded that plastic deformation of nanocrystals of f.c.c. metals under conditions, when dislocation slip is impossible, is realized by the localized hydrodynamic flow of matter in channels with loosely packed noncrystalline (liquid-like) structure by means of generation of metastable point defects of atom—vacancy type, their evolution and self-organization in the localized bands at the larger scales.",
+		"ru": "Компьютерное моделирование процессов пластической деформации для нанокристаллов металлов с ГЦК-решёткой (Al, Cu, Pt) выполнено методами молекулярной динамики с использованием новых методик интенсивных вычислений на основе технологий «научного шлюза» (Science Gateway) и WS-PGRADE/gUSE, грид-инфраструктур «сервисный грид» (Service Grid) и «настольный грид» (Desktop Grid). Найдены новые черты эволюции неупорядоченного расположения атомов (так называемых атом-вакансионных состояний), которые возникают в процессе одноосного монотонного нагружения идеальных нанокристаллов кубической ориентации. Показано, что коллективная перестройка расположения атом-вакансионных состояний приводит к значительным изменениям усреднённых значений напряжений. В результате эволюции атом-вакансионных состояний образуются коллективные самоорганизующиеся зоны локализации напряжений, которые имеют вид квазипериодических полос с различными количественными параметрами для разных металлов (толщина, период, момент образования), однако с одинаковыми качественными признаками (некристаллографическое направление, эволюция, наклон, сквозное расположение в объёме, выход на поверхность). Моделируемые полосы неоднородного распределения напряжений трактуются как предвестники образования полос коррелированного перемещения групп атом-вакансионных (или сильно возбуждённых) состояний, т.е. каналов неоднородного локализованного (гидродинамического) пластического течения на низком (нанометровом) масштабном уровне. При дальнейшей эволюции такие полосы могут стать носителями гидродинамических мод деформации на микроскопическом и макроскопическом уровнях, что наблюдалось в экспериментах различных научных групп. Моделированием результатов рентгенографического анализа показано, что с увеличением степени деформации происходит уменьшение интенсивности дифракционных пиков и их смещение, что свидетельствует о присутствии дефектов точечного типа. Таким образом, в качественном смысле можно сделать вывод о правильности трактовки неупорядоченных положений атомов в данной работе, а именно, как точечных дефектов со свойствами атом-вакансионных состояний. На основе изложенных результатов и их обсуждения делается вывод, что пластическая деформация нанокристаллов ГЦК-металлов в условиях, когда дислокационное скольжение невозможно, осуществляется путём локализованного гидродинамического течения вещества по каналам с неплотной некристаллической (жидкостнообразной) структурой по механизму образования метастабильных точечных дефектов атом-вакансионного типа, их эволюции и самоорганизации в полосы локализации на больших масштабных уровнях."
+	},
+	"keywords": {
+		"ua": "пластична деформація, масоперенесення, дефектні субструктури, нанокристали, синергетика, комп’ютерне моделювання, рентґенографічна аналіза",
+		"en": "plastic deformation, mass transfer, defect substructures, nanocrystals, Synergetics, computer modeling, X-ray analysis",
+		"ru": "пластическая деформация, массоперенос, дефектные субструктуры, нанокристаллы, синергетика, компьютерное моделирование, рентгенографический анализ"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. С. Гаценко", "en": "O. S. Gatsenko", "ru": "А. С. Гаценко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. Е. Засимчук", "en": "O. E. Zasymchuk", "ru": "Е. Э. Засимчук"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "П. О. Теселько", "en": "P. O. Tesel’ko", "ru": "П. О. Теселько"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "С. Г. Стіренко", "en": "S. G. Stirenko", "ru": "С. Г. Стиренко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "Ю. Г. Гордієнко", "en": "Yu. G. Gordienko", "ru": "Ю. Г. Гордиенко"},
+			"OID": [202]
+		}
+	],
+	"references": {
+		"count": 35,
+		"list":  [
+			{
+				"doi": "10.1016/0921-5093(90)90186-7",
+				"or":  "E. E. Zasimchuk and L. I. Markashova, Mater. Sci. Eng. A, 127, No. 1: 33 (1990).",
+				"tr":  "E. E. Zasimchuk and L. I. Markashova, Mater. Sci. Eng. A, 127, No. 1: 33 (1990)."
+			},
+			{
+				"doi": "10.1002/adem.200600138",
+				"or":  "Yu. G. Gordienko, R. G. Gontareva, J. S. Schreiber, E. E. Zasimchuk, and I. K. Zasimchuk, Adv. Eng. Mater., 8, No. 10: 957 (2006).",
+				"tr":  "Yu. G. Gordienko, R. G. Gontareva, J. S. Schreiber, E. E. Zasimchuk, and I. K. Zasimchuk, Adv. Eng. Mater., 8, No. 10: 957 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "E. E. Zasimchuk, Yu. G. Gordienko, R. G. Gontareva, and I. K. Zasimchuk, J. Mater. Eng. Perf., 12, Iss. 10: 69 (2003).",
+				"tr":  "E. E. Zasimchuk, Yu. G. Gordienko, R. G. Gontareva, and I. K. Zasimchuk, J. Mater. Eng. Perf., 12, Iss. 10: 69 (2003)."
+			},
+			{
+				"doi": "10.1023/A:1022274615129",
+				"or":  "Yu. G. Gordienko, E. E. Zasimchuk, and R. G. Gontareva, J. Mater. Sci. Lett., 22, No.3: 241 (2003).",
+				"tr":  "Yu. G. Gordienko, E. E. Zasimchuk, and R. G. Gontareva, J. Mater. Sci. Lett., 22, No.3: 241 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. G. Gordienko, E. E. Zasimchuk, R. Gontareva, and V. Alexandrov, Int. J. Eng. Simul., 1, No. 3: 2 (2000).",
+				"tr":  "Yu. G. Gordienko, E. E. Zasimchuk, R. Gontareva, and V. Alexandrov, Int. J. Eng. Simul., 1, No. 3: 2 (2000)."
+			},
+			{
+				"doi": "10.1016/j.physme.2009.03.011",
+				"or":  "P. V. Kuznetsov, I. V. Petrakova, Y. G. Gordienko, E. E. Zasimchuk, and V. L. Karbovskii, Phys. Mesomech., 12, No. 1: 85 (2009).",
+				"tr":  "P. V. Kuznetsov, I. V. Petrakova, Y. G. Gordienko, E. E. Zasimchuk, and V. L. Karbovskii, Phys. Mesomech., 12, No. 1: 85 (2009)."
+			},
+			{
+				"doi": "10.1007/s11665-008-9327-0",
+				"or":  "E. E. Zasimchuk, Yu. G. Gordienko, L. Markashova, and T. Turchak, J. Mater. Eng. Perf., 18, Iss. 7: 947 (2009).",
+				"tr":  "E. E. Zasimchuk, Yu. G. Gordienko, L. Markashova, and T. Turchak, J. Mater. Eng. Perf., 18, Iss. 7: 947 (2009)."
+			},
+			{
+				"doi": "10.1007/s11665-013-0630-z",
+				"or":  "E. Zasimchuk, L. Markashova, O. Baskova, T. Turchak, N. Chausov, V. Hutsaylyuk, and V. Berezin, J. Mater. Eng. Perf., 22, Iss. 11: 3421 (2013).",
+				"tr":  "E. Zasimchuk, L. Markashova, O. Baskova, T. Turchak, N. Chausov, V. Hutsaylyuk, and V. Berezin, J. Mater. Eng. Perf., 22, Iss. 11: 3421 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Э. Засимчук, Л. И. Маркашова, Т. В. Турчак, Н. Г. Чаусов и др., Физическая мезомеханика, 12, № 2: 77 (2009).",
+				"tr":  "E. E. Zasimchuk, L. I. Markashova, T. V. Turchak, N. G. Chausov et al., Fizicheskaya Mezomekhanika, 12, No. 2: 77 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Чаусов, Е. Засимчук, Л. Маркашова, В. Вильдеман и др., Техническая диагностика и неразрушающий контроль, 4: 54 (2008).",
+				"tr":  "N. Chausov, E. Zasimchuk, L. Markashova, V. Vil'deman et al., Tekhnicheskaya Diagnostika i Nerazrushayushchiy Kontrol', 4: 54 (2008) (in Russian)."
+			},
+			{
+				"doi": "10.1007/s11665-008-9327-0",
+				"or":  "E. Zasimchuk, Yu. Gordienko, L. Markashova, and T. Turchak, J. Mater. Eng. Perf., 18, Iss. 7: 947 (2009).",
+				"tr":  "E. Zasimchuk, Yu. Gordienko, L. Markashova, and T. Turchak, J. Mater. Eng. Perf., 18, Iss. 7: 947 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Э. Засимчук, Ю. Г. Гордиенко, В. И. Прудникова, Т. В. Турчак, Металлофиз. новейшие технол., 27, № 5: 595 (2005).",
+				"tr":  "E. Eh. Zasimchuk, Yu. G. Gordienko, V. I. Prudnikova, and T. V. Turchak, Metallofiz. Noveishie Tekhnol., 27, No. 5: 595 (2005) (in Russian)."
+			},
+			{
+				"doi": "10.1080/01418619408242540",
+				"or":  "Yu. G. Gordienko and E. E. Zasimchuk, Philos. Mag. A, 70, No. 1: 99 (1994).",
+				"tr":  "Yu. G. Gordienko and E. E. Zasimchuk, Philos. Mag. A, 70, No. 1: 99 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Панин, В. Е. Егорушкин, Ю. А. Хон, Т. Ф. Елсукова, Изв. вузов. Физика, 24, № 12: 5 (1982).",
+				"tr":  "V. E. Panin, V. E. Egorushkin, Yu. A. Khon, and T. F. Elsukova, Izv. Vuzov. Fizika, 24, No. 12: 5 (1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Егорушкин, В. Е. Панин, Е. В. Савушкин, Ю. А. Хон, Изв. вузов. Физика, 30, № 1: 9 (1987).",
+				"tr":  "V. E. Egorushkin, V. E. Panin, E. V. Savushkin, and Yu. A. Khon, Izv. Vuzov. Fizika, 30, No. 1: 9 (1987) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.physrep.2008.05.002",
+				"or":  "S. Flach and A. V. Gorbach, Phys. Reports, 467: 1 (2008).",
+				"tr":  "S. Flach and A. V. Gorbach, Phys. Reports, 467: 1 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.83.041124",
+				"or":  "V. I. Dubinko, P. A. Selyshchev, and J. F. R. Archilla, Phys. Rev. E, 83, No. 4: 041124 (2011).",
+				"tr":  "V. I. Dubinko, P. A. Selyshchev, and J. F. R. Archilla, Phys. Rev. E, 83, No. 4: 041124 (2011)."
+			},
+			{
+				"doi": "10.7494/csci.2013.14.1.27",
+				"or":  "O. Gatsenko, L. Bekenev, E. Pavlov, and Yu. G. Gordienko, Comp. Sci., 14, No. 1: 27 (2013).",
+				"tr":  "O. Gatsenko, L. Bekenev, E. Pavlov, and Yu. G. Gordienko, Comp. Sci., 14, No. 1: 27 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Kacsuk, Z. Farkas, M. Kozlovszky, G. Hermann, A. Balasko, K. Karoczkai, and I. Marton, J. Grid Comp., 9, No. 4: 479 (2012).",
+				"tr":  "P. Kacsuk, Z. Farkas, M. Kozlovszky, G. Hermann, A. Balasko, K. Karoczkai, and I. Marton, J. Grid Comp., 9, No. 4: 479 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "O. Baskova, O. Gatsenko, and Yu. G. Gordienko, Proc. Cracow Grid Workshop’10 (2011, Cracow, Poland), p. 234.",
+				"tr":  "O. Baskova, O. Gatsenko, and Yu. G. Gordienko, Proc. Cracow Grid Workshop'10 (2011, Cracow, Poland), p. 234."
+			},
+			{
+				"doi": "",
+				"or":  "Y. Gordienko, L. Bekenev, O. Baskova, O. Gatsenko, E. Zasimchuk, and S. Stirenko, Proc. of 6th International Workshop on Science Gateways ‘IWSG-2014’ (2014, Dublin, Ireland), arXiv preprint arXiv:1404.5611.",
+				"tr":  "Y. Gordienko, L. Bekenev, O. Baskova, O. Gatsenko, E. Zasimchuk, and S. Stirenko, Proc. of 6th International Workshop on Science Gateways 'IWSG-2014' (2014, Dublin, Ireland), arXiv preprint arXiv:1404.5611."
+			},
+			{
+				"doi": "",
+				"or":  "S. Stirenko, O. Zinenko, and D. Gribenko, Proc. Third Int. Conf. ‘High Performance Computing HPC-UA 2013’ (2013, Kyiv, Ukraine), p. 380.",
+				"tr":  "S. Stirenko, O. Zinenko, and D. Gribenko, Proc. Third Int. Conf. 'High Performance Computing HPC-UA 2013' (2013, Kyiv, Ukraine), p. 380."
+			},
+			{
+				"doi": "10.1103/PhysRevB.33.7983",
+				"or":  "S. M. Foiles, M. I. Baskes, and M. S. Daw, Phys. Rev. B, 33, No. 12: 7983 (1986).",
+				"tr":  "S. M. Foiles, M. I. Baskes, and M. S. Daw, Phys. Rev. B, 33, No. 12: 7983 (1986)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.35.7423",
+				"or":  "K. W. Jacobsen, J. K. Norskov, and M. J. Puska, Phys. Rev. B, 35, No. 14: 7423 (1987).",
+				"tr":  "K. W. Jacobsen, J. K. Norskov, and M. J. Puska, Phys. Rev. B, 35, No. 14: 7423 (1987)."
+			},
+			{
+				"doi": "10.1006/jcph.1995.1039",
+				"or":  "S. Plimpton, J. Comp. Phys., 117: 1 (1995).",
+				"tr":  "S. Plimpton, J. Comp. Phys., 117: 1 (1995)."
+			},
+			{
+				"doi": "10.1016/0263-7855(96)00018-5",
+				"or":  "W. Humphrey, A. Dalke, and K. Schulten, J. Mol. Graph., 14, No. 1: 33 (1996).",
+				"tr":  "W. Humphrey, A. Dalke, and K. Schulten, J. Mol. Graph., 14, No. 1: 33 (1996)."
+			},
+			{
+				"doi": "10.1088/0965-0393/18/1/015012",
+				"or":  "A. Stukowski, Mod. Sim. Mater. Sci. Eng., 18, No. 1: 015012 (2010).",
+				"tr":  "A. Stukowski, Mod. Sim. Mater. Sci. Eng., 18, No. 1: 015012 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Г. Гордієнко, Металлофиз. новейшие технол., 33, № 9: 1217 (2011).",
+				"tr":  "Yu. G. Gordienko, Metallofiz. Noveishie Tekhnol., 33, No. 9: 1217 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/j.cpc.2007.05.018",
+				"or":  "H. Tsuzuki, P. Branicio, and J. Rino, Comp. Phys. Comm., 177: 518 (2007).",
+				"tr":  "H. Tsuzuki, P. Branicio, and J. Rino, Comp. Phys. Comm., 177: 518 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "E. E. Zasimchuk, Yu. G. Gordienko, J. Schreiber, R. Gontareva, P. Kuznetsov, and V. Karbovsky, Mater. Sci. Forum, 567: 421 (2008).",
+				"tr":  "E. E. Zasimchuk, Yu. G. Gordienko, J. Schreiber, R. Gontareva, P. Kuznetsov, and V. Karbovsky, Mater. Sci. Forum, 567: 421 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Э. Засимчук, И. Т. Ярматов, Физическая мезомеханика, 12, № 3: 55 (2009).",
+				"tr":  "E. E. Zasimchuk and I. T. Yarmatov, Fizicheskaya Mezomekhanika, 12, No. 3: 55 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Э. Засимчук, Ю. Г. Гордиенко, А. С. Гаценко, А. И. Баскова, И. Т. Ярматов, Физическая мезомеханика, 13, № 2: 61 (2010).",
+				"tr":  "E. E. Zasimchuk, Yu. G. Gordienko, A. S. Gatsenko, A. I. Baskova, and I. T. Yarmatov, Fizicheskaya Mezomekhanika, 13, No. 2: 61 (2010) (in Russian)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/KEM.465.306",
+				"or":  "O. Gatsenko, O. Baskova, O. Lodygensky, G. Fedak, and Yu. G. Gordienko, Key Eng. Mater., 465: 306 (2011).",
+				"tr":  "O. Gatsenko, O. Baskova, O. Lodygensky, G. Fedak, and Yu. G. Gordienko, Key Eng. Mater., 465: 306 (2011)."
+			},
+			{
+				"doi": "10.1524/zksu.2007.2007.suppl_26.255",
+				"or":  "M. Wojdyr, Y. Mo, E. Grzanka, S. Stelmakh, S. Gierlotka, T. Proffen, and I. Szlufarska, Z. Kristallogr., 26, Suppl.: 255 (2007).",
+				"tr":  "M. Wojdyr, Y. Mo, E. Grzanka, S. Stelmakh, S. Gierlotka, T. Proffen, and I. Szlufarska, Z. Kristallogr., 26, Suppl.: 255 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Кривоглаз, Дифракция рентгеновских лучей и нейтронов в неидеальных кристаллах (Киев: Наукова думка: 1988).",
+				"tr":  "M. A. Krivoglaz, Difraktsiya Rentgenovskikh Luchey i Neytronov v Neideal'nykh Kristallakh (Kiev: Naukova Dumka: 1988) (in Russian)."
+			}
+		]
+	}
+}

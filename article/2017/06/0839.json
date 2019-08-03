@@ -1,0 +1,233 @@
+{
+	"_id":    "MFiNT.39.06.0839",
+	"year":   2017,
+	"volume": 39,
+	"issue":  6,
+	"pages":  [839,854],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["19.04.2017"],
+	"PACS":   "62.20.fq, 64.60.Ej, 64.60.My, 64.70.kd, 64.75.Nx, 81.30.Mh, 81.40.Ef",
+	"title":   {
+		"ua": "Фазові напруження як причина гальмування розпаду метастабільного стану в надпластичних евтектичних стопах",
+		"en": "Phase Stresses as the Cause of Inhibiting Action for the Decomposition of a Metastable State in Superplastic Eutectic Alloys",
+		"ru": "Фазовые напряжения как причина торможения распада метастабильного состояния в сверхпластичных эвтектических сплавах"
+	},
+	"abstract": {
+		"ua": "У роботі обговорюються особливості фазового стану вилитих двофазних евтектичних стопів, що виявляють ефект надпластичности. Вперше висловлено фізичну ідею про те, що наявність другої фази в структурі стопів, одержаних загартуванням від високих температур і таких, що містять пересичені тверді розчини, може бути причиною виникнення внутрішніх пружніх напружень, які визначаються фізичними властивостями і розподілом цієї фази й істотно впливають на кінетику розпаду таких розчинів. Стверджується, що однією з причин виникнення внутрішніх напружень у типових надпластичних евтектичних стопах може бути ріжниця об’ємного ефекту перетворення — розпаду пересиченого твердого розчину, що перебігає при зниженні температури в кожній із фаз. На прикладі стопу Sn–38% мас. Pb показано, що зазначені пружні напруження можуть бути причиною гальмування розпаду метастабільного фазового стану, який формується в умовах нерівноважної кристалізації та наступного швидкого охолодження стопу, що спостерігається в експерименті.",
+		"en": "The peculiarities of the phase state of the molten two-phase eutectic alloys exhibiting a superplasticity effect are discussed in this paper. For the first time, the physical idea is expressed that the presence of the second phase in the structure of alloys obtained by quenching from high temperatures and containing the supersaturated solid solutions can be the cause of internal elastic stresses, which are determined by the physical properties and distribution of this phase and which have a significant effect on the kinetics of decomposition of such solutions. It is stated that one of the causes of internal stresses in the typical superplastic eutectic alloys can be the difference of volume effect of transformation, i.e. the decomposition of the supersaturated solid solution, which occurs upon the lowering of the temperature in each phase. Using the example of the Sn–38% wt. Pb alloy, it is shown that these elastic stresses can cause the decomposition deceleration of the metastable phase state formed under conditions of non-equilibrium crystallization and subsequent rapid cooling of the alloy, which is observed in the experiment.",
+		"ru": "В работе обсуждаются особенности фазового состояния литых двухфазных эвтектических сплавов, проявляющих эффект сверхпластичности. Впервые высказана физическая идея о том, что наличие второй фазы в структуре сплавов, полученных закалкой от высоких температур и содержащих пересыщенные твёрдые растворы, может быть причиной возникновения внутренних упругих напряжений, которые определяются физическими свойствами и распределением этой фазы и оказывают существенное влияние на кинетику распада таких растворов. Утверждается, что одной из причин возникновения внутренних напряжений в типичных сверхпластичных эвтектических сплавах может быть различие объёмного эффекта превращения — распада пересыщенного твёрдого раствора, протекающего при понижении температуры в каждой из фаз. На примере сплава Sn–38% вес. Pb показано, что указанные упругие напряжения могут быть причиной торможения распада метастабильного фазового состояния, формирующегося в условиях неравновесной кристаллизации и последующего быстрого охлаждения сплава, что наблюдается в эксперименте."
+	},
+	"keywords": {
+		"ua": "евтектичні стопи, метастабільний фазовий стан, розпад пересичених твердих розчинів, надпластичність, внутрішні напруження",
+		"en": "eutectic alloys, metastable phase state, decomposition of supersaturated solid solutions, superplasticity, internal stresses",
+		"ru": "эвтектические сплавы, метастабильное фазовое состояние, распад пересыщенных твёрдых растворов, сверхпластичность, внутренние напряжения"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Ф. Коршак", "en": "V. F. Korshak", "ru": "В. Ф. Коршак"},
+			"OID": [206]
+		}
+	],
+	"references": {
+		"count": 39,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "А. А. Пресняков, Р. К. Аубакирова, Сверхпластичность металлических материалов (Алма-Ата: Наука: 1982).",
+				"tr":  "A. A. Presnyakov and R. K. Aubakirova, Sverkhplastichnost' Metallicheskikh Materialov [Superplasticity of Metallic Materials] (Alma-Ata: Nauka: 1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Грабский, Структурная сверхпластичность металлов (Москва: Металлургия: 1975).",
+				"tr":  "M. V. Grabskiy, Strukturnaya Sverkhplastichnost' Metallov [Structural Superplasticity of Metals] (Moscow: Metallurgiya: 1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Н. Буйнов, Р. Р. Захарова, Распад металлических пересыщенных твёрдых растворов (Москва: Металлургия: 1964).",
+				"tr":  "N. N. Buynov and R. R. Zakharova, Raspad Metallicheskikh Peresyshchennykh Tverdykh Rastvorov [Decomposition of Supersaturated Metallic Solid Solutions] (Moscow: Metallurgiya: 1964) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Лариков, О. А. Шматко, Ячеистый распад пересыщенных твёрдых растворов (Киев: Наукова думка: 1976).",
+				"tr":  "L. N. Larikov and O. A. Shmatko, Yacheistyy Raspad Peresyshchennykh Tverdykh Rastvorov [Cellular Precipitation of Supersaturated Solid Solutions] (Kiev: Naukova Dumka: 1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. В. Чуистов, Старение металлических сплавов (Киев: Наукова думка: 1985).",
+				"tr":  "K. V. Chuistov, Starenie Metallicheskikh Splavov [Ageing of Metallic Alloys] (Kiev: Naukova Dumka: 1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Л. Ройтбурд, Проблемы металловедения и физики металлов, 36: 235 (1964).",
+				"tr":  "A. L. Roytburd, Problemy Metallovedeniya i Fiziki Metallov, 36: 235 (1964) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Кондратьев, Р. Р. Романова, Ю. М. Устюгов, В. Г. Пушин, Физика металлов и металловедение, 54, № 1: 33 (1982).",
+				"tr":  "V. V. Kondrat'ev, R. R. Romanova, Yu. M. Ustyugov, and V. G. Pushin, Fizika Metallov i Metallovedenie, 54, No. 1: 33 (1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Кондратьев, Ю. М. Устюгов, Физика металлов и металловедение, 69/70, № 9: 43 (1990).",
+				"tr":  "V. V. Kondrat'ev and Yu. M. Ustyugov, Fizika Metallov i Metallovedenie, 69/70, No. 9: 43 (1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. М. Устюгов, В. В. Кондратьев, Физика металлов и металловедение, 93, № 2: 38 (2002).",
+				"tr":  "Yu. M. Ustyugov and V. V. Kondrat'ev, Fizika Metallov i Metallovedenie, 93, No. 2: 38 (2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Семененко, А. А. Касилов, Т. А. Коваленко, Вісник Харківського національного університету імені В. Н. Каразіна. Серія: фізична «Ядра, частинки, поля», 991, вип. 1 (53): 90 (2012).",
+				"tr":  "V. E. Semenenko, A. A. Kasilov, and T. A. Kovalenko, Journal of Kharkiv National University. Physical Series ‘Nuclei, Particles, Fields’, 991, Iss. 1 (53): 90 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Таран, Ю. С. Мирошниченко, Рост и дефекты металлических кристаллов (Киев: Наукова думка: 1972), c. 339.",
+				"tr":  "Yu. N. Taran and Yu. S. Miroshnichenko, Rost i Defekty Metallicheskikh Kristallov [Growth and Defects of Metallic Crystals] (Kiev: Naukova Dumka: 1972), p. 339 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. И. Кузнецова, О. А. Кайбышев, Доклады АН СССР, 257, № 4: 863 (1981).",
+				"tr":  "R. I. Kuznetsova and O. A. Kaybyshev, Doklady AN SSSR, 257, No. 4: 863 (1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. Е. Гегузин, Диффузионная зона (Москва: Наука: 1979).",
+				"tr":  "Ya. E. Geguzin, Diffuzionnaya Zona [Diffusion Zone] (Moscow: Nauka: 1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Н. Парицкая, Структурно-чувствительные эффекты в диффузионной зоне (Дис. ... д-ра физ.-мат. наук) (Харьков: 1985).",
+				"tr":  "L. N. Paritskaya, Strukturno-Chuvstvitel’nye Effekty v Diffuzionnoy Zone [Structure-Sensitive Effects in the Diffusion Zone] (Thesis of Disser. ... for the Degree of Dr. Phys.-Math. Sci.) (Kharkov: 1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Я. Пинес, Я. Е. Гегузин, Журнал технической физики, 23: 1559 (1953).",
+				"tr":  "B. Ya. Pines and Ya. E. Geguzin, Zhurnal Tekhnicheskoy Fiziki, 23: 1559 (1953) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Коршак, В. М. Артавитин, А. Л. Самсоник, П. В. Матейченко, Известия РАН. Серия физическая, 69, № 9: 1374 (2005).",
+				"tr":  "V. F. Korshak, V. M. Artavitin, A. L. Samsonik, and P. V. Mateychenko, Izvestiya RAN. Seriya Fizicheskaya, 69, No. 9: 1374 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Коршак, А. П. Крышталь, П. В. Матейченко, А. Ф. Сиренко, Известия РАН. Серия физическая, 71, № 12: 1723 (2007).",
+				"tr":  "V. F. Korshak, A. P. Kryshtal', P. V. Mateychenko, and A. F. Sirenko, Izvestiya RAN. Seriya Fizicheskaya, 71, No. 12: 1723 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Коршак, Р. А. Чушкина, Ю. А. Шаповалов, П. В. Матейченко, Физика металлов и металловедение, 112, № 1: 75 (2011).",
+				"tr":  "V. F. Korshak, R. A. Chushkina, Yu. A. Shapovalov, and P. V. Mateychenko, Fizika Metallov i Metallovedenie, 112, No. 1: 75 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Коршак, Ю. А. Шаповалов, А. Л. Самсоник, П. В. Матейченко, Физика металлов и металловедение, 113, № 2: 201 (2012).",
+				"tr":  "V. F. Korshak, Yu. A. Shapovalov, A. L. Samsonik, and P. V. Mateychenko, Fizika Metallov i Metallovedenie, 113, No. 2: 201 (2012) (in Russian)."
+			},
+			{
+				"doi": "10.7868/S0015323014120043",
+				"or":  "В. Ф. Коршак, П. В. Матейченко, Ю. А. Шаповалов, Физика металлов и металловедение, 115, № 12: 1318 (2014).",
+				"tr":  "V. F. Korshak, P. V. Mateychenko, and Yu. A. Shapovalov, Fizika Metallov i Metallovedenie, 115, No. 12: 1318 (2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Сомов, М. А. Тихоновский, Эвтектические композиции (Москва: Металлургия: 1975).",
+				"tr":  "A. I. Somov and M. A. Tikhonovskiy, Evtekticheskie Kompozitsii [Eutectic Compositions] (Moscow: Metallurgiya: 1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. С. Мирошниченко, Закалка из жидкого состояния (Москва: Металлургия: 1982).",
+				"tr":  "I. S. Miroshnichenko, Zakalka iz Zhidkogo Sostoyaniya [Quenching from Liquid State] (Moscow: Metallurgiya: 1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. Ю. Береза, Фізичні основи парного росту фаз сплавів за нерівноважних перетворень (Дис. ... д-ра фіз.-мат. наук) (Дніпропетровськ: 2007).",
+				"tr":  "O. Yu. Bereza, Fizichni Osnovy Parnogo Rostu Faz Splaviv za Nerivnovazhnykh Peretvoren' [Physical Basis of Pair Growth of Phases of Alloys at Nonequilibrium Transformations] (Thesis of Disser. ... for the Degree of Dr. Phys.-Math. Sci.) (Dnipropetrovsk: 2007) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Гладков, В. М. Березин, Н. Б. Жеханова, Вестник Челябинского государственного университета. Физика, № 31 (285), вып. 15: 34 (2012).",
+				"tr":  "V. E. Gladkov, V. M. Berezin, and N. B. Zhekhanova, Vestnik Chelyabinskogo Gosudarstvennogo Universiteta. Fizika, No. 31 (285), Iss. 15: 34 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Коршак, Ю. А. Шаповалов, П. В. Матейченко, И. А. Данилина, Металлофиз. новейшие технол., 30, № 3: 385 (2008).",
+				"tr":  "V. F. Korshak, Yu. O. Shapovalov, P. V. Mateychenko, and I. A. Danilina, Metallofiz. Noveishie Tekhnol., 30, No. 3: 385 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Коршак, Ю. А. Шаповалов, Физика металлов и металловедение, 107, № 4: 422 (2009).",
+				"tr":  "V. F. Korshak and Yu. A. Shapovalov, Fizika Metallov i Metallovedenie, 107, No. 4: 422 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Хансен, К. Андерко, Структуры двойных сплавов (Ред. И. И. Новиков, И. Л. Рогельберг) (Москва: Металлургиздат: 1962), т. II (пер. с англ.).",
+				"tr":  "M. Hansen and K. Anderko, Struktury Dvoynykh Splavov [Structure of Binary Alloys] (Eds. I. I. Novikov and I. L. Rogel’berg) (Moscow: Metallurgizdat: 1962), vol. II (Russian translation)."
+			},
+			{
+				"doi": "10.1107/S0365110X54001600",
+				"or":  "C. Tyzack and G. V. Raynor, Acta Crystal., 7, Nos. 6–7: 505 (1954).",
+				"tr":  "C. Tyzack and G. V. Raynor, Acta Crystal., 7, Nos. 6–7: 505 (1954)."
+			},
+			{
+				"doi": "10.1088/0370-1301/67/10/301",
+				"or":  "J. A. Lee and G. V. Raynor, Proc. Phys. Soc. B, 67, No. 10: 737 (1954).",
+				"tr":  "J. A. Lee and G. V. Raynor, Proc. Phys. Soc. B, 67, No. 10: 737 (1954)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Е. Вол, Строение и свойства двойных металлических систем (Москва: Физматгиз: 1959).",
+				"tr":  "A. E. Vol, Stroenie i Svoystva Dvoynykh Metallicheskikh Sistem [Structure and Properties of Binary Metal Systems] (Moscow: Fizmatgiz: 1959) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Кривоглаз, Диффузное рассеяние рентгеновских лучей и нейтронов на флуктуационных неоднородностях в неидеальных кристаллах (Киев: Наукова думка: 1984).",
+				"tr":  "M. A. Krivoglaz, Diffuznoe Rasseyanie Rentgenovskikh luchey i Neytronov na Fluktuatsionnykh Neodnorodnostyakh v Neideal'nykh Kristalakh [Diffuse Scattering of X-Rays and Neutrons at Fluctuation Inhomogeneities in Non-Ideal Crystals] (Kiev: Naukova Dumka: 1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Кристиан, Теория превращений в металлах и сплавах (Москва: Мир: 1978) (пер. с англ.).",
+				"tr":  "J. W. Christian, Teoriya Prevrashcheniy v Metalakh i Splavakh [The Theory of Transformations in Metals and Alloys] (Moscow: Mir: 1978) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Иверонова, Г. П. Ревкевич, Теория рассеяния рентгеновских лучей (Москва: Изд-во Моск. ун-та: 1978).",
+				"tr":  "V. I. Iveronova and G. P. Revkevich, Teoriya Rasseyaniya Rentgenovskikh Luchey [The Theory of X-Rays Scattering] (Moscow: Moscow State University: 1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Гинье, Рентгенография кристаллов (Москва: Физматгиз: 1961) (пер. с франц.).",
+				"tr":  "A. Guinier, Rentgenografiya Kristallov [Crystal Radiography] (Moscow: Fizmatgiz: 1961) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Е. Уоррен, Б. Л. Авербах, Современные физические методы исследований в металловедении (Москва: ГОНТИ: 1958), c. 109 (пер. с англ.).",
+				"tr":  "B. E. Warren and B. L. Averbach, Sovremennye Fizicheskie Metody Issledovaniy v Metallovedenii [Modern Research Techniques in Physical Metallurgy] (Moscow: GONTI: 1958), p. 109 (Russian translation)."
+			},
+			{
+				"doi": "10.15407/mfint.37.12.1633",
+				"or":  "В. Ф. Коршак, Ю. А. Шаповалов, Н. Н. Васеленко, Металлофиз. новейшие технол., 37, № 12: 1633 (2015).",
+				"tr":  "V. F. Korshak, Yu. A. Shapovalov, and N. N. Vaselenko, Metallofiz. Noveishie Tekhnol., 37, No. 12: 1633 (2015) (in Russian)."
+			},
+			{
+				"doi": "10.7868/S0015323015060030",
+				"or":  "В. Ф. Коршак, Ю. А. Шаповалов, О. Примак, А. П. Крышталь, Р. Л. Василенко, Физика металлов и металловедение, 116, № 8: 874 (2015).",
+				"tr":  "V. F. Korshak, Yu. A. Shapovalov, O. Primak, A. P. Kryshtal', and R. L. Vasilenko, Fizika Metallov i Metallovedenie, 116, No. 8: 874 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Новиков, Теория термической обработки металлов (Москва: Металлургия: 1978).",
+				"tr":  "I. I. Novikov, Teoriya Termicheskoy Obrabotki Metallov [The Theory of Heat Treatment of Metals] (Moscow: Metallurgiya: 1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "З. З. Зиман, А. Ф. Сіренко, Основи фізичного матеріалознавства: Навчальний посібник (Харків: ХНУ ім. В. Н. Каразіна: 2005).",
+				"tr":  "Z. Z. Zyman and A. F. Sirenko, Osnovy Fizichnogo Materialoznavstva: Navchal’nyy Posibnyk [Fundamentals of Physical Materials Science: Tutorial] (Kharkiv: V. N. Karazin KhNU: 2005) (in Ukrainian)."
+			}
+		]
+	}
+}

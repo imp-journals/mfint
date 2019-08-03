@@ -1,0 +1,122 @@
+{
+	"_id":    "MFiNT.40.03.0327",
+	"year":   2018,
+	"volume": 40,
+	"issue":  3,
+	"pages":  [327,338],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["18.01.2018"],
+	"PACS":   "61.43.Gt, 61.72.Dd, 68.37.Hk, 75.50.Tt, 81.07.Wx, 81.20.Ev, 81.40.Rs",
+	"title":   {
+		"ua": "Вплив режимів електроіскряного оброблення на формування твердих розчинів у стопах міді з залізом і кобальтом",
+		"en": "Influence of Modes of Electrospark Treatment on Formation of Solid Solutions in Alloys of Copper with Iron and Cobalt",
+		"ru": "Влияние режимов электроискровой обработки на формирование твёрдых растворов в сплавах меди с железом и кобальтом"
+	},
+	"abstract": {
+		"ua": "Методами рентґеноструктурної аналізи, електронної мікроскопії та магнетометрії досліджено структуру, фазовий склад, дисперсність і магнетні властивості високодисперсних порошків стопів міді з залізом і кобальтом, одержаних методою електроіскряного оброблення у дистильованій воді, етиловому спирті та гасі. Показано, що у процесі електроіскряного оброблення в порошках формуються пересичені тверді розчини між міддю, залізом і кобальтом та їхні оксиди CoO, Cu$_2$O, FeO й карбіди Co$_3$C, Fe$_2$C, Fe$_3$C, кількість яких істотно залежить від типу робочої рідини. Крім того, показано, що електроіскряне оброблення приводить до значного подрібнення структури; при цьому форма частинок порошків близька до сферичної, а їхні розміри знаходяться в інтервалі від 0,1 до 10 мкм. Концентрація металів у твердих розчинах після електроіскряного оброблення набагато (на 2–3 порядки) перевищує рівноважні значення концентрації для цих систем у масивних зразках. Магнетні властивості порошків стопів Cu–Co і Cu–Fe визначаються їхніми фазовим складом і дисперсністю, які залежать від робочої рідини.",
+		"en": "The structure, phase composition, dispersion, and magnetic properties of fine powders of copper with iron and cobalt obtained by electrospark method in distilled water, ethanol, and kerosene are investigated by X-ray analysis, electron microscopy and magnetometry methods. As shown, oversaturated solid solutions of copper with iron and cobalt as well as their oxides (CoO, Cu$_2$O, FeO) and carbides (Co$_3$C, Fe$_2$C, Fe$_3$C) are formed in powder blends during electrospark treatment. The quantities of oxides and carbides essentially depend on the type of working liquid. As shown, electrospark treatment leads to considerable structure changes, particle shape becomes near spherical, and their sizes are within the range from 1 to 10 $\\mu$m. Concentrations of metals in solid solutions after electrospark treatment exceed much (by 2–3 orders of magnitude) the equilibrium values of concentrations for these systems in bulk specimens. Magnetic properties of fine powders of the Cu–Co and Cu–Fe alloys are determined by their phase composition and dispersity, which depend on the working liquid.",
+		"ru": "Методами рентгеноструктурного анализа, электронной микроскопии и магнитометрии исследованы структура, фазовый состав, дисперсность и магнитные свойства высокодисперсных порошков меди с железом и кобальтом, полученных методом электроискровой обработки в дистиллированной воде, этиловом спирте и керосине. Показано, что в процессе электроискровой обработки в порошках формируются пересыщенные твёрдые растворы между медью, железом и кобальтом, а также их оксиды CoO, Cu$_2$O, FeO и карбиды Co$_3$C, Fe$_2$C, Fe$_3$C, количество которых существенно зависит от типа рабочей жидкости. Кроме того, показано, что электроискровая обработка приводит к значительному измельчению структуры. При этом форма частиц порошков близка к сферической, а их размеры находятся в интервале от 0,1 до 10 мкм. Концентрация металлов в твёрдых растворах после электроискровой обработки намного (на 2–3 порядка) превышает равновесные значения концентрации для этих систем в массивных образцах. Магнитные свойства порошков сплавов Cu–Co и Cu–Fe определяются их фазовым составом и дисперсностью, которые зависят от рабочей жидкости."
+	},
+	"keywords": {
+		"ua": "високодисперсні порошки, магнетні властивості, рентґеноструктурна аналіза, електронна мікроскопія, магнетометрія",
+		"en": "finely dispersed powders, magnetic properties, X-ray structural analysis, electron microscopy, magnetic measurements",
+		"ru": "высокодисперсные порошки, магнитные свойства, рентгеноструктурный анализ, электронная микроскопия, магнитометрия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. М. Надутов", "en": "V. M. Nadutov", "ru": "В. М. Надутов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. О. Перекос", "en": "A. O. Perekos", "ru": "А. Е. Перекос"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Б. М. Мордюк", "en": "B. M. Mordyuk", "ru": "Б. Н. Мордюк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. З. Войнаш", "en": "V. Z. Voynash", "ru": "В. З. Войнаш"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Т. В. Єфімова", "en": "T. V. Efimova", "ru": "Т. В. Ефимова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. П. Залуцький", "en": "V. P. Zalutsky", "ru": "В. П. Залуцкий"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Т. Г. Кабанцев", "en": "T. G. Kabantsev", "ru": "Т. Г. Кабанцев"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 12,
+		"list":  [
+			{
+				"doi": "10.15407/ufm.04.04.235",
+				"or":  "К. В. Чуистов, А. П. Шпак, А. Е. Перекос, О. Д. Рудь, В. М. Уваров, Успехи физики металлов, 4, вып. 4: 235 (2003).",
+				"tr":  "K. V. Chuistov, A. P. Shpak, A. E. Perekos, O. D. Rud, and V. M. Uvarov, Uspehi Fiziki Metallov, 4, Iss. 4: 235 (2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Иверонова, Г. П. Ревкевич, Теория рассеяния рентгеновских лучей (Москва: Изд. МГУ: 1972).",
+				"tr":  "V. I. Iveronova and G. P. Revkevich, Teoriya Rasseiniya Rentgenovskikh Luchey [Theory of X-Rays Scattering] (Moscow: MGU Publishing: 1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. С. Горелик, Ю. А. Скаков, Л. Н. Расторгуев, Рентгенографический и электронно-оптический анализ ( Москва: МИСиС: 1994).",
+				"tr":  "S. S. Gorelik, Yu. A. Skakov, and L. N. Rastorguev, Rentgenographicheskiy i Elektronnoopticheskiy Analiz [X-Ray and Electrooptical Analysis) (Moscow: MISiS: 1994) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. С. Уманский, Ю. А. Скаков, Физика металлов (Москва: Атомиздат: 1978).",
+				"tr":  "Ya. S. Umansky and Yu. A. Skakov, Fizika Metallov [Physics of Metals] (Moscow: Atomizdat: 1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Барабаш, Ю. Н. Коваль, Кристаллическая структура металлов и сплавов (Киев: Наукова думка: 1986).",
+				"tr":  "O. M. Barabash and Yu. N. Koval, Crystalline Structure of Metals and Alloys (Kiev: Naukova Dumka: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Бозорт, Ферромагнетизм (Москва: Иностр. лит.: 1956) (пер. з англ.).",
+				"tr":  "R. M. Bozorth, Ferromagnetism (Moscow: Inostr. Lit.: 1956) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Вонсовский, Магнетизм (Москва: Наука: 1971).",
+				"tr":  "S. V. Vonsovsky, Magnetism (Moscow: Nauka: 1971)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ломер, В. Маршалл, Теория ферромагнетизма металлов и сплавов: Сборник (Москва: Иностр. лит.: 1963), с. 56 (пер. з англ.).",
+				"tr":  "W. M. Lomer and W. Marshall, Teoriya Ferromagnetizma Metallov i Splavov: Sbornik Statey [Theory of Ferromagnetism of Metals and Alloys: Collected Articles] (Moscow: Inostr. Lit.: 1963) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Голдман, А. Арротт, Семинар по магнитным свойствам металлов и сплавов (25–26 октября 1958 г., Кливленд): Сборник докладов (Москва: Иностр. лит.: 1961) (пер. з англ.).",
+				"tr":  "J. E. Goldman and A. Arrott, Seminar po Magnitnym Svoistvam Metallov i Splavov (25–26 Oktyabrya 1958, Cleveland): Sbornik Dokladov [Workshop on Magnetic Properties of Metals and Alloys (25–26 October, 1958, Cleveland): Collected Articles] (Moscow: Inostr. Lit.: 1961) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. И. Френкель, Введение в теорию металлов (Ленинград: Наука: 1972).",
+				"tr":  "Ya. I. Frenkel, Vvedenie v Teoriyu Metallov [Introduction to Theory of Metals] (Leningrad: Nauka: 1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Г. Лившиц, В. С. Крапошин, Я. Л. Линецкий, Физические свойства металлов и сплавов (Москва: Металлургия: 1980).",
+				"tr":  "B. G. Livshits, V. S. Kraposhin, and Ya. L. Linetskiy, Fizicheskie Svoistva Metallov i Splavov [Physical Properties of Metals and Alloys] (Moscow: Metallurgiya: 1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, Ю. А. Куницкий, В. Л. Карбовский, Кластерные и наноструктурные материалы (Киев: Академпериодика: 2001).",
+				"tr":  "A. P. Shpak, Yu. A. Kunitskiy, and V. L. Karbovskiy, Klasternye i Nanostrukturnye Materialy [Clustered and Nanostructural Materials] (Kiev: Akademperiodyka: 2001) (in Russian)."
+			}
+		]
+	}
+}

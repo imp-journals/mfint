@@ -1,0 +1,95 @@
+{
+	"_id":    "MFiNT.38.07.0923",
+	"year":   2016,
+	"volume": 38,
+	"issue":  7,
+	"pages":  [923,934],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["02.07.2015", "28.06.2016"],
+	"PACS":   "61.72.Hh, 61.72.Lk, 62.20.de, 62.20.dj, 62.40.+i, 81.40.Gh, 81.40.Jj",
+	"title":   {
+		"ua": "Вплив типу ауксетичности на пружні та непружні характеристики берилію",
+		"en": "Influence of the Type of Auxetic Effect on the Elastic and Inelastic Properties of Beryllium",
+		"ru": "Влияние типа ауксетичности на упругие и неупругие свойства бериллия"
+	},
+	"abstract": {
+		"ua": "В роботі досліджено особливості поведінки пружніх (пружньої податливости й ефективного модуля зсуву) та непружніх (низькочастотного внутрішнього тертя (Q$^{-1}$)) характеристик магнійтермічного берилійового конденсату в областях температур з різним типом ауксетичности. В рамках дислокаційно-дисклінаційного моделю оцінено вплив величини і знаку Пуассонових коефіцієнтів на температурні залежності швидкостей руху дислокацій при мікропластичній деформації в берилії. Показано, що зміну характеру руху дефектів при циклічній деформації цього металу з ростом температури можна успішно описати врахуванням адитивного внеску двійників, крайових і ґвинтових дислокацій, які рухаються в полі зовнішніх напруг, та напруг, створених як точковими дефектами, так і дислокаціями лісу.",
+		"en": "In this article, the features of the behaviour of the elastic (elastic compliance and effective shear modulus) and inelastic (low-frequency internal friction (Q$^{-1}$)) characteristics of magnesium-thermal beryllium condensate (MTC Be) in the temperature ranges with different types of auxetic effect are investigated. The influence of both the value and the sign of the Poisson’s ratios on the temperature dependences of the rate of dislocations at microplastic deformation in beryllium are calculated within the scope of the dislocation-disclination model. As shown, the changing nature of the motion of defects under cyclic deformation of this metal with increasing temperature can be successfully described taking into account both the additive contribution of twins, edge and screw dislocations moving in the field of external stresses and strains, which create by both point defects and forest dislocations.",
+		"ru": "В работе исследованы особенности поведения упругих (упругой податливости и эффективного модуля сдвига) и неупругих (низкочастотного внутреннего трения (Q$^{-1}$)) характеристик магнийтермического бериллиевого конденсата в областях температур с разным типом ауксетичности. В рамках дислокационно-дисклинационной модели оценено влияние величины и знака коэффициентов Пуассона на температурные зависимости скоростей движения дислокаций при микропластической деформации в бериллии. Показано, что изменение характера движения дефектов при циклической деформации этого металла с ростом температуры можно успешно описать учётом аддитивного вклада двойников, краевых и винтовых дислокаций, движущихся в поле внешних напряжений, и напряжений, созданных как точечными дефектами, так и дислокациями леса."
+	},
+	"keywords": {
+		"ua": "внутрішнє тертя, пружня податливість, швидкість руху дислокацій, типи ауксетичности, Пуассонові коефіцієнти, берилій",
+		"en": "internal friction, elastic compliance, rate of dislocations, type of auxetic effect, Poisson’s ratios, beryllium",
+		"ru": "внутреннее трение, упругая податливость, скорость движения дислокаций, типы ауксетичности, коэффициенты Пуассона, бериллий"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. Д. Раранський", "en": "M. D. Rarans’ky", "ru": "Н. Д. Раранский"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "А. В. Олійнич-Лисюк", "en": "A. V. Oleynich-Lysyuk", "ru": "А. В. Олейнич-Лысюк"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "О. Ю. Тащук", "en": "O. Yu. Tashchuk", "ru": "А. Ю. Тащук"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "Є. І. Курек", "en": "Ye. I. Kurek", "ru": "Е. И. Курек"},
+			"OID": [215]
+		}
+	],
+	"references": {
+		"count": 9,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "М. Д. Раранський, В. Н. Балазюк, М. М. Гунько, Фізика і хімия твердого тіла, 16, № 1: 34 (2015).",
+				"tr":  "N. D. Rarans'ky, V. N. Balazyuk, and M. M. Gun'ko, Fizyka i Khimiya Tverdogo Tila, 16, No. 1: 34 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Папиров, Г. Ф. Тихинский, Физическое металловедение бериллия (Москва: Атомиздат: 1968).",
+				"tr":  "I. I. Papirov and G. F. Tikhinskiy, Fizicheskoe Metallovedenie Berilliya [Physical Metallography of Beryllium] (Moscow: Atomizdat: 1968) (in Russian)."
+			},
+			{
+				"doi": "10.1088/0305-4608/2/2/011",
+				"or":  "W. D. Rowland and J. S. White, J. Phys. F: Metal Phys., 2, No. 2: 231 (1972).",
+				"tr":  "W. D. Rowland and J. S. White, J. Phys. F: Metal Phys., 2, No. 2: 231 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. В. Гольдштейн, В. А. Городцов, Д. С. Лисовенко, Письма о материалах, 3, № 1: 7 (2011).",
+				"tr":  "R. V. Gol'dshteyn, V. A. Gorodtsov, and D. S. Lisovenko, Pis'ma o Materialakh, 3, No. 1: 7 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Классен-Неклюдова, Механическое двойникование кристаллов (Москва: АН СССР: 1960).",
+				"tr":  "M. V. Klassen-Neklyudova, Mekhanicheskoe Dvoynikovanie Kristallov [Mechanical Twinning of Crystals] (Moscow: AN SSSR: 1960) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Папиров, Г. Ф. Тихинский, Пластическая деформация бериллия (Москва: Атомиздат: 1973).",
+				"tr":  "I. I. Papirov and G. F. Tikhinskiy, Plasticheskaya Deformatsiya Berilliya [Plastic Deformation of Beryllium] (Moscow: Atomizdat: 1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Н. Новиков, Структура и структурно-чувствительные свойства реальных кристаллов (Киев: Вища школа: 1983).",
+				"tr":  "N. N. Novikov, Struktura i Strukturno-Chuvstvitel'nye Svoystva Real'nykh Kristallov [The Structure and Structure-Sensitive Properties of Real Crystals] (Kiev: Vishcha Shkola: 1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Башмаков, Т. С. Чикова, Пластификация и упрочнение металлических кристаллов при механическом двойниковании (Минск: УП «Технопринт»: 2001).",
+				"tr":  "V. I. Bashmakov and T. S. Chikova, Plastifikatsiya i Uprochnenie Metallicheskikh Kristallov pri Mekhanicheskom Dvoynikovanii [Plasticization and Hardening of Metallic Crystals during Mechanical Twinning] (Minsk: UP 'Tekhnoprint': 2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Олейнич-Лысюк, Н. Д. Раранский, Физика твёрдого тела, 54, вып. 3: 417 (2012).",
+				"tr":  "A. V. Oleynich-Lysyuk and N. D. Rarans'ky, Fizika Tverdogo Tela, 54, Iss. 3: 417 (2012) (in Russian)."
+			}
+		]
+	}
+}

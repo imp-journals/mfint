@@ -1,0 +1,219 @@
+	{
+	"_id":    "MFiNT.38.02.0189",
+	"year":   2016,
+	"volume": 38,
+	"issue":  2,
+	"pages":  [189,203],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["07.12.2015"],
+	"PACS":   "62.20.fg, 62.20.me, 62.25.Fg, 62.25.Mn, 81.40.Jj, 81.40.Np, 81.70.Cv",
+	"title":   {
+		"ua": "Вплив високочастотних вібрацій на механічні властивості нанокристалічного титану",
+		"en": "High Frequency Vibrations Impact on Mechanical Properties of Nanocrystalline Titanium",
+		"ru": "Воздействие высокочастотных вибраций на механические свойства нанокристаллического титана"
+	},
+	"abstract": {
+		"ua": "Для з’ясування питання про вплив високочастотних вібрацій на механічні властивості нанокристалів виконано дослідження механічних властивостей нанокристалічного титану при однорідному тривісному стисканні під дією ультразвукових коливань із частотою у 20 кГц. Використаний в експериментах нанокристалічний титан промислової чистоти ВТ1-0 одержано методом кріогенної фраґментації зерен. Цей матеріял має широкий розподіл зерен за розмірами (20—80 нм) із середнім розміром біля 40 нм. Амплітуда циклічних напружень сягала 275 МПа. Встановлено, що високочастотні вібрації знижують поріг пластичности й ініціюють утворення катастрофічних смуг зсуву. За швидкости деформації у 10$^{-4}$ с$^{-1}$ поріг пластичности під дією вібрацій знижується в 2,5 рази, а катастрофічна смуга зсуву утворюється при деформації 0,11, яка є у 5,7 разів нижчою, ніж істинна деформація до моменту утворення катастрофічної смуги зсуву без дії вібрацій. При збільшенні швидкости деформації до 10$^{-3}$ с$^{-1}$ ефекти дії високочастотних вібрацій істотно послаблюються.",
+		"en": "Mechanical properties of nanocrystalline titanium are studied under uniform confined compression with ultrasound oscillations of 20 kHz to clarify the way of high-frequency vibrations’ effect on mechanical properties of nanocrystals. The nanocrystalline VT1-0 titanium of commercial purity used in the experiments is fabricated employing cryogenic grain-fragmentation technique. This material has a broad distribution in grain size (20—80 nm) with the average size amounting to 40 nm. The amplitude of cyclic stress approaches 275 МРа. The high-frequency vibrations are found to lower the yield stress and to initiate the formation of shear bands. With the deformation rate of 10$^{-4}$ s$^{-1}$, the yield stress becomes 2.5 times lower, and the major shear band forms under the deformation of 0.11 that is 5.7 times lower than the true deformation before the major shear band formation without action of the vibrations. On increasing the deformation rate up to 10$^{-3}$ s$^{-1}$, the consequences of high-frequency vibrations’ impact are weaken substantially.",
+		"ru": "Для выяснения вопроса о влиянии высокочастотных вибраций на механические свойства нанокристаллов выполнены исследования механических свойств нанокристаллического титана при однородном трёхосном сжатии под действием ультразвуковых колебаний с частотой 20 кГц. Использованный в экспериментах нанокристаллический титан промышленной чистоты ВТ1-0 получен методом криогенной фрагментации зёрен. Этот материал имеет широкое распределение зёрен по размерам (20—80 нм) со средним размером, равным 40 нм. Амплитуда циклических напряжений достигала 275 МПа. Установлено, что высокочастотные вибрации снижают порог пластичности и инициируют образование катастрофических полос сдвига. При скорости деформации 10$^{-4}$ с$^{-1}$ порог пластичности под действием вибраций снижается в 2,5 раза, а катастрофическая полоса сдвига образуется при деформации 0,11, которая в 5,7 раза ниже, чем истинная деформация до момента образования катастрофической полосы сдвига без воздействия вибраций. При увеличении скорости деформации до 10$^{-3}$ с$^{-1}$ эффекты воздействия высокочастотных вибраций существенно ослабляются."
+	},
+	"keywords": {
+		"ua": "наномасштабний титан, механічні властивості, міцність, пластичність, високочастотна вібрація",
+		"en": "nanoscale titanium, mechanical properties, strength, ductility, high-frequency vibrations",
+		"ru": "наномасштабный титан, механические свойства, прочность, пластичность, высокочастотная вибрация"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. О. Бакай", "en": "S. А. Bakai", "ru": "С. А. Бакай"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "Р. В. Смолянец", "en": "R. V. Smolianets", "ru": "Р. В. Смолянец"},
+			"OID": [4]
+		},
+		{
+			"AID": {"ua": "К. В. Ковтун", "en": "K. V. Kovtun", "ru": "К. В. Ковтун"},
+			"OID": [3]
+		},
+		{
+			"AID": {"ua": "В. А. Москаленко", "en": "V. А. Moskalenko", "ru": "В. А. Москаленко"},
+			"OID": [4]
+		},
+		{
+			"AID": {"ua": "О. С. Бакай", "en": "A. S. Bakai", "ru": "А. С. Бакай"},
+			"OID": [3]
+		}
+	],
+	"references": {
+		"count": 33,
+		"list":  [
+			{
+				"doi": "10.1017/CBO9780511618840",
+				"or":  "﻿C. C. Koch, I. A. Ovid’ko, S. Seal, and S. Veprek, Structural Nanocrystalline Materials: Fundamentals and Applications (Cambridge: Cambridge University Press: 2007)",
+				"tr":  "C. C. Koch, I. A. Ovid'ko, S. Seal, and S. Veprek, Structural Nanocrystalline Materials: Fundamentals and Applications (Cambridge: Cambridge University Press: 2007)"
+			},
+			{
+				"doi": "10.1016/S1359-6454(02)00303-8",
+				"or":  "K. S. Kumar, S. Suresh, M. F. Chisholm, J. A. Horton, and P. Wang, Acta Mater., 51: 87 (2003)",
+				"tr":  "K. S. Kumar, S. Suresh, M. F. Chisholm, J. A. Horton, and P. Wang, Acta Mater., 51: 87 (2003)"
+			},
+			{
+				"doi": "10.1016/j.actamat.2003.08.032",
+				"or":  "K. S. Kumar, H. Van Swygenhoven, and S. Suresh, Acta Mater., 51: 5743 (2003)",
+				"tr":  "K. S. Kumar, H. Van Swygenhoven, and S. Suresh, Acta Mater., 51: 5743 (2003)"
+			},
+			{
+				"doi": "10.1007/s10853-006-0697-0",
+				"or":  "A. V. Sergueeva, N. A. Mara, and A. K. Mukherjee, J. Mater. Sci., 42: 1433 (2007)",
+				"tr":  "A. V. Sergueeva, N. A. Mara, and A. K. Mukherjee, J. Mater. Sci., 42: 1433 (2007)"
+			},
+			{
+				"doi": "10.1016/j.actamat.2012.10.038",
+				"or":  "Y. Estrin and A. Vinogradov, Acta Mater., 61: 782 (2013)",
+				"tr":  "Y. Estrin and A. Vinogradov, Acta Mater., 61: 782 (2013)"
+			},
+			{
+				"doi": "10.1016/j.actamat.2007.01.038",
+				"or":  "M. Dao, L. Lu, R. Asaro, J. Dehosson, and E. Ma, Acta Mater., 55: 4041 (2007)",
+				"tr":  "M. Dao, L. Lu, R. Asaro, J. Dehosson, and E. Ma, Acta Mater., 55: 4041 (2007)"
+			},
+			{
+				"doi": "10.1016/j.pmatsci.2005.08.003",
+				"or":  "M. A Meyers, A. Mishra, and D. J. Benson, Prog. Mater. Sci., 51: 427 (2006)",
+				"tr":  "M. A Meyers, A. Mishra, and D. J. Benson, Prog. Mater. Sci., 51: 427 (2006)"
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.503-504.267",
+				"or":  "A. Vinogradov, Mater. Sci. Forum, 503–504: 267 (2006)",
+				"tr":  "A. Vinogradov, Mater. Sci. Forum, 503–504: 267 (2006)"
+			},
+			{
+				"doi": "10.1007/s11340-009-9301-2",
+				"or":  "H. A. Padilla and B. L. Boyce, Exp. Mech., 50: 5 (2010)",
+				"tr":  "H. A. Padilla and B. L. Boyce, Exp. Mech., 50: 5 (2010)"
+			},
+			{
+				"doi": "10.1016/j.actamat.2010.10.047",
+				"or":  "R. A. Meirom, D. H. Alsem, A. L Romasco, T. Clark, R. G. Polcawich, J. S. Pulskamp, M. Dubey, R. O. Ritchie, and C. L. Muhlstein, Acta Mater., 59: 1141 (2011)",
+				"tr":  "R. A. Meirom, D. H. Alsem, A. L Romasco, T. Clark, R. G. Polcawich, J. S. Pulskamp, M. Dubey, R. O. Ritchie, and C. L. Muhlstein, Acta Mater., 59: 1141 (2011)"
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Filippenko, E. K. Sevidova, N. V. Dedukh, S. V. Malyshkina, A. A. Simonova, I. B. Timchenko, and V. A. Moskalenko, Ortopediya, Travmotologiya i Protezirovanie, 3: 69 (2011) (in Russian)",
+				"tr":  "V. A. Filippenko, E. K. Sevidova, N. V. Dedukh, S. V. Malyshkina, A. A. Simonova, I. B. Timchenko, and V. A. Moskalenko, Ortopediya, Travmotologiya i Protezirovanie, 3: 69 (2011) (in Russian)"
+			},
+			{
+				"doi": "10.1016/S1359-6462(01)01089-2",
+				"or":  "A. V. Sergueeva, V. V. Stolyarov, R. Z. Valiev, and A. K. Mukherjee, Scr. Mater., 45: 747 (2001)",
+				"tr":  "A. V. Sergueeva, V. V. Stolyarov, R. Z. Valiev, and A. K. Mukherjee, Scr. Mater., 45: 747 (2001)"
+			},
+			{
+				"doi": "10.1063/1.1384000",
+				"or":  "D. Jia, Y. M. Wang, K. T. Ramesh, E. Ma, Y. T. Zhu, and R. Z. Valiev, Appl. Phys. Lett., 79: 611 (2001)",
+				"tr":  "D. Jia, Y. M. Wang, K. T. Ramesh, E. Ma, Y. T. Zhu, and R. Z. Valiev, Appl. Phys. Lett., 79: 611 (2001)"
+			},
+			{
+				"doi": "10.2320/matertrans.42.74",
+				"or":  "A. Vinogradov and S. Hashimoto, Materials Transactions, 42: 74 (2001)",
+				"tr":  "A. Vinogradov and S. Hashimoto, Materials Transactions, 42: 74 (2001)"
+			},
+			{
+				"doi": "10.1016/S1359-6462(03)00395-6",
+				"or":  "R. Z. Valiev, A.V. Sergueeva, and A. K. Mukherjee, Scr. Mater., 49: 669 (2003)",
+				"tr":  "R. Z. Valiev, A.V. Sergueeva, and A. K. Mukherjee, Scr. Mater., 49: 669 (2003)"
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Moskalenko, A. R. Smirnov, and R. V. Smolyanets, Fizika Nizkikh Temperatur, 40: 837 (2001) (in Russian)",
+				"tr":  "V. A. Moskalenko, A. R. Smirnov, and R. V. Smolyanets, Fizika Nizkikh Temperatur, 40: 837 (2001) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "A. V. Rusakova, S. V. Lubenets, L. S. Fomenko, and V. A. Moskalenko, Fizika Nizkikh Temperatur, 38: 980 (2012) (in Russian)",
+				"tr":  "A. V. Rusakova, S. V. Lubenets, L. S. Fomenko, and V. A. Moskalenko, Fizika Nizkikh Temperatur, 38: 980 (2012) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Moskalenko, V. I. Betekhtin, B. K. Kardashev, A. G.Kadomtsev, A. R. Smirnov, R. V. Smolyanets, and M. V. Narykova, Fizika Tverdogo Tela, 56: 1590 (2014) (in Russian)",
+				"tr":  "V. A. Moskalenko, V. I. Betekhtin, B. K. Kardashev, A. G.Kadomtsev, A. R. Smirnov, R. V. Smolyanets, and M. V. Narykova, Fizika Tverdogo Tela, 56: 1590 (2014) (in Russian)"
+			},
+			{
+				"doi": "10.1016/S0142-1123(00)00057-8",
+				"or":  "M. Papakyriacoua, H. Mayer, C. Pypen, H. Plenk Jr., and S. Stanzl-Tschegg, International Journal of Fatigue, 22: 873 (2000)",
+				"tr":  "M. Papakyriacoua, H. Mayer, C. Pypen, H. Plenk Jr., and S. Stanzl-Tschegg, International Journal of Fatigue, 22: 873 (2000)"
+			},
+			{
+				"doi": "10.1016/S0921-5093(00)01978-X",
+				"or":  "M. Papakyriacoua, H. Mayer, C. Pypen, H. Plenk Jr., and S. Stanzl-Tschegg, Mater. Sci. Eng. A, 308: 143 (2001)",
+				"tr":  "M. Papakyriacoua, H. Mayer, C. Pypen, H. Plenk Jr., and S. Stanzl-Tschegg, Mater. Sci. Eng. A, 308: 143 (2001)"
+			},
+			{
+				"doi": "10.1016/j.actamat.2013.10.074",
+				"or":  "A. Khalajhedayati and T. J. Rupert, Acta Mater., 65: 326 (2014)",
+				"tr":  "A. Khalajhedayati and T. J. Rupert, Acta Mater., 65: 326 (2014)"
+			},
+			{
+				"doi": "10.1103/PhysRevB.60.11971",
+				"or":  "J. Schiøtz, T. Vegge, F. Di Tolla, and K. Jacobsen, Phys. Rev. B, 60: 11971(1999)",
+				"tr":  "J. Schiøtz, T. Vegge, F. Di Tolla, and K. Jacobsen, Phys. Rev. B, 60: 11971(1999)"
+			},
+			{
+				"doi": "10.1007/BFb0109245",
+				"or":  "A. S. Bakai, Topics in Applied Physics, 72: 208 (1994)",
+				"tr":  "A. S. Bakai, Topics in Applied Physics, 72: 208 (1994)"
+			},
+			{
+				"doi": "",
+				"or":  "A. S. Bakai, Poliklasternye Amorfnye Tela (Kharkov: Synteks: 2013) (in Russian)",
+				"tr":  "A. S. Bakai, Poliklasternye Amorfnye Tela (Kharkov: Synteks: 2013) (in Russian)"
+			},
+			{
+				"doi": "10.1515/jmbm-2013-0017",
+				"or":  "N. P. Lazarev and A. S. Bakai, J. Mech. Behav. Materials, 22: 119 (2013)",
+				"tr":  "N. P. Lazarev and A. S. Bakai, J. Mech. Behav. Materials, 22: 119 (2013)"
+			},
+			{
+				"doi": "10.1016/j.jallcom.2011.01.205",
+				"or":  "Yu. Petrusenko, A. Bakai, I. Neklyudov, S. Bakai, V. Borysenko, G. Wang, P. K. Liaw, L. Huang, and T. Zhang, J. Alloys Compd., 509: 123 (2011)",
+				"tr":  "Yu. Petrusenko, A. Bakai, I. Neklyudov, S. Bakai, V. Borysenko, G. Wang, P. K. Liaw, L. Huang, and T. Zhang, J. Alloys Compd., 509: 123 (2011)"
+			},
+			{
+				"doi": "",
+				"or":  "A. S. Bakai, S. A. Bakai, V. M. Gorbatenko, M. B. Lazarev, Yu. A. Petrusenko, and A. A. Scheretsky, Nanorozmirni Systemy: Struktura, Vlastyvosti, Tekhnologiya. Doslidzhennya v Ukrayini [Nanoscale Systems: Structure, Properties, Technology. Investigations in Ukraine] (Ed. A. G. Naumovets) (Kiev: Akademperiodika: 2014) (in Russian)",
+				"tr":  "A. S. Bakai, S. A. Bakai, V. M. Gorbatenko, M. B. Lazarev, Yu. A. Petrusenko, and A. A. Scheretsky, Nanorozmirni Systemy: Struktura, Vlastyvosti, Tekhnologiya. Doslidzhennya v Ukrayini [Nanoscale Systems: Structure, Properties, Technology. Investigations in Ukraine] (Ed. A. G. Naumovets) (Kiev: Akademperiodika: 2014) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "A. S. Bakai, S. A. Bakai, G. N. Malik, V. M. Gorbatenko, V. M. Netesov, V. A. Emlyaninov, Problemy Atomnoy Nauki i Tekhniki. Seriya Radiatsionnaya Fizika i Radiatsionnoe Materialovedenie, Iss. 4 (87): 104 (2005) (in Russian)",
+				"tr":  "A. S. Bakai, S. A. Bakai, G. N. Malik, V. M. Gorbatenko, V. M. Netesov, V. A. Emlyaninov, Problemy Atomnoy Nauki i Tekhniki. Seriya Radiatsionnaya Fizika i Radiatsionnoe Materialovedenie, Iss. 4 (87): 104 (2005) (in Russian)"
+			},
+			{
+				"doi": "10.1016/0022-3093(94)00506-0",
+				"or":  "A. S. Bakai, V. V. Kul’ko, I. M. Mikhailovskij, V. B. Rabukhin, and O. A. Velikodnaja, J. Non-Cryst. Solids, 182: 315 (1995)",
+				"tr":  "A. S. Bakai, V. V. Kul'ko, I. M. Mikhailovskij, V. B. Rabukhin, and O. A. Velikodnaja, J. Non-Cryst. Solids, 182: 315 (1995)"
+			},
+			{
+				"doi": "10.3390/met2040441",
+				"or":  "A. S. Bakai, E. V. Sadanov, V. A. Ksenofontov, S. A. Bakai, J. A. Gordienko, and I. M. Mikhailovskij, Metals, 2: 441 (2012)",
+				"tr":  "A. S. Bakai, E. V. Sadanov, V. A. Ksenofontov, S. A. Bakai, J. A. Gordienko, and I. M. Mikhailovskij, Metals, 2: 441 (2012)"
+			},
+			{
+				"doi": "",
+				"or":  "I. M. Lifshitz, ZhETF, 17: 909 (1963) (in Russian)",
+				"tr":  "I. M. Lifshitz, ZhETF, 17: 909 (1963) (in Russian)"
+			},
+			{
+				"doi": "10.1016/j.mser.2013.04.001",
+				"or":  "L. A. Greer, Y. Q. Cheng, and E. Ma, Mater. Sci., Eng. R, 74: 71 (2013)",
+				"tr":  "L. A. Greer, Y. Q. Cheng, and E. Ma, Mater. Sci., Eng. R, 74: 71 (2013)"
+			},
+			{
+				"doi": "10.1007/978-3-319-20875-6_5",
+				"or":  "O. Bakai, Physics of Liquid Matter: Modern Problems. Springer Proceedings in Physics (Eds. L. Bulavin and N. Lebovka), vol. 171, Ch. 5, p. 103 (2015)",
+				"tr":  "O. Bakai, Physics of Liquid Matter: Modern Problems. Springer Proceedings in Physics (Eds. L. Bulavin and N. Lebovka), vol. 171, Ch. 5, p. 103 (2015)"
+			}
+		]
+	}
+}

@@ -1,0 +1,143 @@
+{
+	"_id":    "MFiNT.39.12.1669",
+	"year":   2017,
+	"volume": 39,
+	"issue":  12,
+	"pages":  [1669,1691],
+	"rubric": 2,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["04.09.2017"],
+	"PACS":   "",
+	"title":   {
+		"ua": "Статистична теоретична модель динамічної Бреґґової дифракції в двошаровій кристалічній системі з аморфним поверхневим шаром",
+		"en": "Statistical Theoretical Model of Dynamical Bragg Diffraction in a Two-Layer Crystalline System with an Amorphous Surface Layer",
+		"ru": "Статистическая теоретическая модель динамической дифракции Брэгга в двухслойной кристаллической системе с аморфным поверхностным слоем"
+	},
+	"abstract": {
+		"ua": "З метою створення статистичної динамічної теорії розсіяння випромінення у багатошарових системах з різними за недосконалостями структури та складом кристалічними й аморфними шарами в якості найбільш загального та головного елементу такої теорії побудовано узагальнену теоретичну модель когерентного розсіяння в двошаровій кристалічній системі з аморфним поверхневим шаром і статистично розподіленими дефектами Кулонового типу в кожному шарі. Одержано вирази для когерентної складової відбивної здатности вказаної системи з використанням двох методів: методу підсумовування амплітуд і методу крайових умов, що уможливило встановити й описати механізм формування інтенсивности за рахунок ефектів багаторазовости розсіяння. Проведено аналіз одержаних результатів та їх адаптацію до деяких практично важливих випадків.",
+		"en": "For the goal of the creating of statistical dynamical theory of x-ray scattering in multilayer systems of crystalline and amorphous layers with differences in both the structure imperfections and the composition, as a main element of such a theory, the generalized theoretical model of coherent scattering in two-layer crystalline system with amorphous subsurface layer and statistically distributed Coulomb-type defects in each layer is developed. The expressions for coherent component of mentioned-system reflectivity are obtained using two methods: the method of amplitudes’ summation and the method of boundary conditions. That allows revealing and describing the mechanism of intensity formation due to effects of multiple scattering.",
+		"ru": "С целью создания статистической динамической теории рассеяния излучения в многослойных системах с различными по несовершенствам структуры и составу кристаллическими и аморфными слоями в качестве наиболее общего и главного элемента такой теории построена обобщённая теоретическая модель когерентного рассеяния в двухслойной кристаллической системе с аморфным поверхностным слоем и статистически распределёнными дефектами кулоновского типа в каждом слое. Получены выражения для когерентной составляющей отражательной способности указанной системы с использованием двух методов: метода суммирования амплитуд и метода граничных условий, что позволило выявить и описать механизм формирования интенсивности за счёт эффектов многократности рассеяния."
+	},
+	"keywords": {
+		"ua": "динамічна дифракція, багаторазовість розсіяння, аморфний поверхневий шар",
+		"en": "dynamical diffraction, multiple scattering, amorphous surface layer",
+		"ru": "динамическая дифракция, многократность диффузного рассеяния, аморфный поверхностный слой"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. В. Дмітрієв", "en": "S. V. Dmitriev", "ru": "С. В. Дмитриев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. В. Лізунова", "en": "S. V. Lizunova", "ru": "С. В. Лизунова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. Г. Толмачов", "en": "M. G. Tolmachev", "ru": "Н. Г. Толмачов"},
+			"OID": [192]
+		},
+		{
+			"AID": {"ua": "Б. В. Шелудченко", "en": "B. V. Sheludchenko", "ru": "Б. В. Шелудченко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. С. Скакунова", "en": "O. S. Skakunova", "ru": "Е. С. Скакунова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. Б. Молодкін", "en": "V. B. Molodkin", "ru": "В. Б. Молодкин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. В. Лізунов", "en": "V. V. Lizunov", "ru": "В. В. Лизунов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "І. Е. Голентус", "en": "I. E. Golentus", "ru": "И. Е. Голентус"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. Г. Карпов", "en": "A. G. Karpov", "ru": "А. Г. Карпов"},
+			"OID": [192]
+		},
+		{
+			"AID": {"ua": "О. Г. Войток", "en": "O. G. Voitok", "ru": "О. Г. Войток"},
+			"OID": [192]
+		},
+		{
+			"AID": {"ua": "В. П. Почекуєв", "en": "V. P. Pochekuev", "ru": "В. П. Почекуев"},
+			"OID": [192]
+		},
+		{
+			"AID": {"ua": "С. П. Репецький", "en": "S. P. Repetsky", "ru": "С. П. Репецкий"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "І. Г. Вишивана", "en": "I. G. Vyshyvana", "ru": "И. Г. Вышивана"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "Л. М. Скапа", "en": "L. M. Skapa", "ru": "Л. Н. Скапа"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. В. Барабаш", "en": "O. V. Barabash", "ru": "О. В. Барабаш"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "Г. О. Веліховський", "en": "G. O. Velikhovskii", "ru": "Г. О. Велиховский"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 9,
+		"list":  [
+			{
+				"doi": "10.1088/0034-4885/59/11/001",
+				"or":  "P. F. Fewster, Rep. Prog. Phys., 59: 1339 (1996).",
+				"tr":  "P. F. Fewster, Rep. Prog. Phys., 59: 1339 (1996)."
+			},
+			{
+				"doi": "10.1007/978-1-4757-4050-9",
+				"or":  "U. Pietsch, V. Holy, and T. Baumbach, High-Resolution X-Ray Scattering. From Thin Films to Lateral Nanostructures (New York: Springer-Verlag: 2004).",
+				"tr":  "U. Pietsch, V. Holy, and T. Baumbach, High-Resolution X-Ray Scattering. From Thin Films to Lateral Nanostructures (New York: Springer-Verlag: 2004)."
+			},
+			{
+				"doi": "10.1002/pssa.2210420148",
+				"or":  "A. M. Afanasev, M. V. Kovalchuk. E. K. Kovev, and V. G. Kohn, phys. status solidi (a), 42: 415 (1977).",
+				"tr":  "A. M. Afanasev, M. V. Kovalchuk. E. K. Kovev, and V. G. Kohn, phys. status solidi (a), 42: 415 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, М. В. Ковальчук, И. М. Карнаухов, В. Ф. Мачулин, В. Е. Сторижко, Э. Х. Мухамеджанов, А. И. Низкова, С. В. Лизунова, Е. Н. Кисловский, С. И. Олиховский, Б. В. Шелудченко, С. В. Дмитриев, Е. С. Скакунова, В. В. Молодкин, В. А. Бушуев, Р. Н. Кютт, Б. С. Карамурзов, Т. И. Оранова, Ю. П. Хапачев, Основы динамической высокоразрешающей дифрактометрии функциональных материалов (Нальчик: Кабардино-Балкарский университет: 2013).",
+				"tr":  "V. B. Molodkin, M. V. Koval'chuk, I. M. Karnaukhov, V. F. Machulin, V. E. Storizhko, E. Kh. Mukhamedzhanov, A. I. Nizkova, S. V. Lizunova, E. N. Kislovskiy, S. I. Olikhovskiy, B. V. Sheludchenko, S. V. Dmitriev, E. S. Skakunova, V. V. Molodkin, V. V. Lizunov, V. A. Bushuev, R. N. Kyutt, B. S. Karamurzov, A. A. Dyshekov, T. I. Oranova, and Yu. P. Khapachev, Osnovy Dinamicheskoy Vysokorazreshayushchey Difraktometrii Funktsional'nykh Materialov [Fundamentals of Dynamical High-Resolution Diffractometry of Functional Materials] (Nal'chik: Kabardino-Balkarskiy Universitet: 2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, М. В. Ковальчук, И. М. Карнаухов, В. Е. Сторижко, С. В. Лизунова, С. В. Дмитриев, А. И. Низкова, Е. Н. Кисловский, В. В. Молодкин, Е. В. Первак, А. А. Катасонов, Е. С. Скакунова, Б. С. Карамурзов, А. А. Дышеков, А. Н. Багов, Т. И. Оранова, Ю. П. Хапачев, Основы интегральной многопараметрической диффузнодинамической дифрактометрии (Нальчик: Кабардино-Балкарский университет: 2013).",
+				"tr":  "V. B. Molodkin, M. V. Koval'chuk, I. M. Karnaukhov, V. E. Storizhko, S. V. Lizunova, S. V. Dmitriev, A. I. Nizkova, E. N. Kislovskii, V. V. Molodkin, E. V. Pervak, A. A. Katasonov, V. V. Lizunov, E. S. Skakunova, B. S. Karamurzov, A. A. Dyshekov, A. N. Bagov, T. I. Oranova, and Yu. P. Khapachev, Osnovy Integral'noy Mnogoparametricheskoy Diffuznodinamicheskoy Difraktometrii [Fundamentals of Integrated Multiparametric Diffuse-Dynamical Diffractometry] (Nal'chik: Kabardino-Balkarskiy Universitet: 2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "З. Г. Пинскер, Рентгеновская кристаллооптика (Москва: Наука: 1982).",
+				"tr":  "Z. G. Pinsker, Rentgenovskaya Kristallooptika [X-ray Crystal Optics] (Moscow: Nauka: 1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Даценко, В. Б. Молодкин, М. Е. Осиновский, Динамическое рассеяние рентгеновских лучей реальными кристаллами (Киев: Наукова думка: 1988).",
+				"tr":  "L. I. Datsenko, V. B. Molodkin, and M. E. Osinovskiy, Dinamicheskoe Rasseyanie Rentgenovskikh Luchey Real'nymi Kristallami [Dynamical X-Ray Scattering by Real Crystals] (Kiev: Naukova Dumka: 1988) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.37.09.1169",
+				"or":  "С. В. Дмитриев, Р. В. Лехняк, В. Б. Молодкин, В. В. Лизунов, Л. Н. Скапа, Е. С. Скакунова, С. В. Лизунова, С. И. Олиховский, Е. Г. Лень, Н. Г. Толмачёв, Б. В. Шелудченко, Е. В. Фузик, Г. О. Велиховский, Металлофиз. новейшие технол., 37, № 9: 1169 (2015).",
+				"tr":  "S. V. Dmitriev, R. V. Lekhnyak, V. B. Molodkin, V. V. Lizunov, L. M. Skapa, O. S. Skakunova, S. V. Lizunova, S. I. Olikhovskii, E. G. Len, M. G. Tolmachyov, B. V. Sheludchenko, K. V. Fuzik, and G. O. Velikhovskii, Metallofiz. Noveishie Tekhnol., 37, No. 9: 1169 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Vreeland, A. Dommann. C.-J. Tsai, and M.-A. Nicolet, Mat. Res. Soc. Symp. Proc., 130: 1989 (2011).",
+				"tr":  "T. Vreeland, A. Dommann. C.-J. Tsai, and M.-A. Nicolet, Mat. Res. Soc. Symp. Proc., 130: 1989 (2011)."
+			}
+		]
+	}
+}

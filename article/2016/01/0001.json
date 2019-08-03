@@ -1,0 +1,49 @@
+{
+	"_id":    "MFiNT.38.01.0001",
+	"year":   2016,
+	"volume": 38,
+	"issue":  1,
+	"pages":  [1,18],
+	"rubric": 12,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["15.11.2015"],
+	"PACS":   "01.30.Rr, 01.30.Ww, 01.65.+g, 01.75.+m",
+	"title":  {
+		"ua": "Етапи розвитку та напрями досліджень в Інституті металофізики ім. Г. В. Курдюмова НАН України",
+		"en": "Stages and Trends of Researches at the G. V. Kurdyumov Institute for Metal Physics of the NAS of Ukraine",
+		"ru": "Этапы развития и направления исследований в Институте металлофизики им. Г. В. Курдюмова НАН Украины"
+	},
+	"abstract": {
+		"ua": "Дано короткий історичний нарис створення та основних етапів розвитку Інституту металофізики ім. Г. В. Курдюмова НАН України, якому у 2015 році виповнилося 70 років. Стисло викладено основні наукові напрями та досягнення вчених-металофізиків Інституту за останні десятиліття та зазначено перспективні напрями металофізичних досліджень в Україні.",
+		"en": "A short historical review of stages of formation of the G. V. Kurdyumov Institute for Metal Physics (at the NAS of Ukraine) in connection with its seventieth anniversary is presented. (According to both the decree of the Council of Peoples Commissars of the Ukrainian SSR of 15 November, 1945 and the decision of Presidium of the Academy of Sciences of the Ukrainian SSR of 21 December, 1945, Laboratory of Metal Physics (at the Academy of Sciences of the Ukrainian SSR) began to work since 1 January, 1946.) The basic achievements of metal physicists of the Institute along the past decades are briefly identified, and promising trends of metal physics research in Ukraine are outlined.",
+		"ru": "Дан краткий исторический очерк образования и основных этапов развития Института металлофизики им. Г. В. Курдюмова НАН Украины, которому в 2015 году исполнилось 70 лет. Кратко изложены основные достижения учёных-металлофизиков Института за последние десятилетия и указаны перспективные направления металлофизических исследований в Украине."
+	},
+	"keywords": {
+		"ua": "фізика металів, металофізика, металографія, металознавство, перспективні напрями металофізичних досліджень, історія науки",
+		"en": "physics of metals, metal physics, metallography, physical metallurgy, promising trends of metal physics research, history of science",
+		"ru": "физика металлов, металлофизика, металлография, металловедение, перспективные направления металлофизических исследований, история науки"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. М. Івасишин", "en": "O. M. Ivasishin", "ru": "О. М. Ивасишин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Є. Г. Лень", "en": "E. G. Len", "ru": "Е. Г. Лень"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. М. Надутов", "en": "V. M. Nadutov", "ru": "В. М. Надутов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. А. Татаренко", "en": "V. A. Tatarenko", "ru": "В. А. Татаренко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 0,
+		"list":  []
+	}
+}

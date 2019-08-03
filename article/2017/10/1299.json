@@ -1,0 +1,101 @@
+{
+	"_id":    "MFiNT.39.10.1299",
+	"year":   2017,
+	"volume": 39,
+	"issue":  10,
+	"pages":  [1299,1306],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["12.01.2017","26.09.2017"],
+	"PACS":   "61.05.cp, 61.66.Dk, 68.37.Hk, 72.15.Eb, 73.61.At, 81.15.Ef, 81.40.Rs",
+	"title":   {
+		"ua": "Електроопір твердих розчинів Y(Ga,Al)$_2$, Y(Ga,Si)$_2$ та Y(Ga,Ge)$_2$ зі структурою типу AlB$_2$",
+		"en": "Electrical Resistivity of the Y(Ga,Al)$_2$, Y(Ga,Si)$_2$ and Y(Ga,Ge)$_2$ Solid Solutions with Structure of AlB$_2$ Type",
+		"ru": "Электросопротивление твёрдых растворов Y(Ga,Al)$_2$, Y(Ga,Si)$_2$ и Y(Ga,Ge)$_2$ со структурой типа AlB$_2$"
+	},
+	"abstract": {
+		"ua": "Електричні властивості (електроопір і температурний коефіцієнт електроопору) твердих розчинів Y(Ga,Al)$_2$, Y(Ga,Si)$_2$ та Y(Ga,Ge)$_2$ досліджено з використанням модельних покриттів відповідних стопів на слюді. Аналіза температурних залежностей електроопору показала, що як сполука YGa$_2$, так і тверді розчини на її основі мають металічну провідність. Заміщення певної частини атомів Ґалію в сполуці YGa$_2$, що належить до структури типу AlB$_2$, на атоми Ґерманію, Силіцію або Алюмінію приводить до зменшення електроопору в ряду Ga $\\to$ Ge $\\to$ Si $\\to$ Al, що може бути зумовлено як природою самих атомів, так і технологічними особливостями одержання покриттів (перш за все, їх гомогенністю).",
+		"en": "Electrical properties (resistivity and temperature coefficient of resistivity) of the Y(Ga,Al)$_2$, Y(Ga,Si)$_2$ and Y(Ga,Ge)$_2$ solid solutions are studied using the model coatings deposited on mica substrate. Analysis of temperature dependences of the resistivity reveals that YGa$_2$ compound as well as the solid solutions on its base possess a metallic conductivity. Substitution of a certain part of the gallium atoms in YGa$_2$ compound belonging to AlB$_2$-type structure with germanium, silicon or aluminium atoms leads to decrease of resistivity in the Ga $\\to$ Ge $\\to$ Si $\\to$ Al series that may be caused by both the nature of atoms themselves and technological parameters of coatings’ preparation (primarily, by their homogeneity).",
+		"ru": "Электрические свойства (электросопротивление и температурный коэффициент электросопротивления) твёрдых растворов Y(Ga,Al)$_2$, Y(Ga,Si)$_2$ и Y(Ga,Ge)$_2$ исследованы с использованием модельных покрытий соответствующих сплавов на слюде. Анализ температурных зависимостей электросопротивления показал, что как соединению YGa$_2$, так и твёрдым растворам на его основе присущ металлический тип проводимости. Замещение определённой части атомов галлия в соединении YGa$_2$, которое относится к типу AlB$_2$, атомами германия, кремния или алюминия приводит к уменьшению электросопротивления в ряду Ga $\\to$ Ge $\\to$ Si $\\to$ Al, что может быть обусловлено как природой самих атомов, так и технологическими особенностями изготовления покрытий (прежде всего, их гомогенностью)."
+	},
+	"keywords": {
+		"ua": "інтерметаліди, електричні властивості, кристалічна структура, рентґеноструктурна аналіза",
+		"en": "intermetallics, electrical properties, crystal structure, x-ray diffraction",
+		"ru": "интерметаллиды, электрические свойства, кристаллическая структура, рентгеноструктурный анализ"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. П. Семенько", "en": "M. P. Semen’ko", "ru": "М. П. Семенько"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "Н. М. Білявина", "en": "N. M. Bilyavina", "ru": "Н. Н. Белявина"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "О. І. Наконечна", "en": "O. I. Nakonechna", "ru": "О. И. Наконечная"},
+			"OID": [201]
+		}
+	],
+	"references": {
+		"count": 11,
+		"list":  [
+			{
+				"doi": "10.1016/0022-5088(79)90170-X",
+				"or":  "S. P. Yatsenko, A. A. Semyannikov, B. G. Semenov, and K. A. Chuntonov, J. Less-Common Met., 64: 185 (1979).",
+				"tr":  "S. P. Yatsenko, A. A. Semyannikov, B. G. Semenov, and K. A. Chuntonov, J. Less-Common Met., 64: 185 (1979)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(00)01132-4",
+				"or":  "R. Babu, K. Nagarajan, and V. Venugopal, J. Alloys Compd., 311: 200 (2000).",
+				"tr":  "R. Babu, K. Nagarajan, and V. Venugopal, J. Alloys Compd., 311: 200 (2000)."
+			},
+			{
+				"doi": "10.1016/j.jssc.2015.01.030",
+				"or":  "M. Sekar, N. V. Chandra Shekar, R. Babu, P. Ch. Sahu, A. K. Sinha, A. Upadhyay, M. N. Singh, K. Ramesh Babu, S. Appalakondaiah, G. Vaitheeswaran, and V. Kanchana, J. Solid State Chemistry, 226: 11 (2015).",
+				"tr":  "M. Sekar, N. V. Chandra Shekar, R. Babu, P. Ch. Sahu, A. K. Sinha, A. Upadhyay, M. N. Singh, K. Ramesh Babu, S. Appalakondaiah, G. Vaitheeswaran, and V. Kanchana, J. Solid State Chemistry, 226: 11 (2015)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(02)00800-9",
+				"or":  "M. V. Speka, V. Ya. Markiv, M. I. Zakharenko, and N. M. Belyavina, J. Alloys Compd., 348: 138 (2003).",
+				"tr":  "M. V. Speka, V. Ya. Markiv, M. I. Zakharenko, and N. M. Belyavina, J. Alloys Compd., 348: 138 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "M. V. Speka, V. Ya. Markiv, M. I. Zakharenko, and N. M. Belyavina, Doklady Academii Nauk USSR, No. 10: 89 (2002) (in Russian).",
+				"tr":  "M. V. Speka, V. Ya. Markiv, M. I. Zakharenko, and N. M. Belyavina, Doklady Academii Nauk USSR, No. 10: 89 (2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. V. Speka, N. M. Belyavina, and V. Ya. Markiv, Vestnik Kievskogo Universiteta. Fiz.-Mat. Nauki, No. 2: 455 (1998) (in Russian).",
+				"tr":  "M. V. Speka, N. M. Belyavina, and V. Ya. Markiv, Vestnik Kievskogo Universiteta. Fiz.-Mat. Nauki, No. 2: 455 (1998) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(98)00858-5",
+				"or":  "N. M. Belyavina, V. Ya. Markiv, and M. V. Speka, J. Alloys Compd., 283: 162 (1999).",
+				"tr":  "N. M. Belyavina, V. Ya. Markiv, and M. V. Speka, J. Alloys Compd., 283: 162 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Markiv and N. Belyavina, Proc. of the Second International Scientific Conference ‘Engineering and Functional Materials’ (Oct. 14–16, 1997) (Lviv: Naukove Tovarystvo im. Shevchenka: 1997), p. 260 (in Russian).",
+				"tr":  "V. Markiv and N. Belyavina, Proc. of the Second International Scientific Conference 'Engineering and Functional Materials' (Oct. 14–16, 1997) (Lviv: Naukove Tovarystvo im. Shevchenka: 1997), p. 260 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. M. Dubyna, O. A. Bieloborodova, T. M. Zinevich, and N. V. Kotova, Coll. 6th International School-Conference ‘Phase Diagrams in Materials Science’ (Oct. 14–20, 2001) (Kyiv: PDMS VI: 2001), p. 89.",
+				"tr":  "V. M. Dubyna, O. A. Bieloborodova, T. M. Zinevich, and N. V. Kotova, Coll. 6th International School-Conference 'Phase Diagrams in Materials Science' (Oct. 14–20, 2001) (Kyiv: PDMS VI: 2001), p. 89."
+			},
+			{
+				"doi": "",
+				"or":  "M. I. Zakharenko, M. V. Speka, N. M. Belyavina, M. G. Babych, and V. Ya. Markiv, Metallofiz. Noveishie Tekhnol., 28, No. 3: 397 (2006) (in Russian).",
+				"tr":  "M. I. Zakharenko, M. V. Speka, N. M. Belyavina, M. G. Babych, and V. Ya. Markiv, Metallofiz. Noveishie Tekhnol., 28, No. 3: 397 (2006) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(02)01209-4",
+				"or":  "M. V. Speka, M. I. Zakharenko, M. G. Babich, N. M. Belyavina, and V. Ya. Markiv, J. Alloys Compd., 353: 17 (2003).",
+				"tr":  "M. V. Speka, M. I. Zakharenko, M. G. Babich, N. M. Belyavina, and V. Ya. Markiv, J. Alloys Compd., 353: 17 (2003)."
+			}
+		]
+	}
+}

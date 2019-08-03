@@ -1,0 +1,145 @@
+{
+	"_id":    "MFiNT.36.06.0803",
+	"year":   2014,
+	"volume": 36,
+	"issue":  6,
+	"pages":  [803,813],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["20.02.2014"],
+	"PACS":   "61.66.Dk, 61.72.S-, 81.30.Bx, 81.40.Ef, 81.70.Jb, 81.70.Pg, 88.30.rd",
+	"title":   {
+		"ua": "Вплив V на структуру і фазовий склад евтектичного стопу Ti$_{0,475}$Zr$_{0,3}$Mn$_{0,225}$",
+		"en": "Influence of V on the Structure and Phase Composition of Eutectic Ti$_{0.475}$Zr$_{0.3}$Mn$_{0.225}$ Alloy",
+		"ru": "Влияние V на структуру и фазовый состав эвтектического сплава Ti$_{0,475}$Zr$_{0,3}$Mn$_{0,225}$"
+	},
+	"abstract": {
+		"ua": "Методами оптичної та сканівної електронної мікроскопії з використанням енергодисперсійного аналізу EDAX, Рентґенового фазового та диференційного термічного аналізів вивчено вплив часткової заміни ванадієм компонентів евтектичного стопу 47,5 Ti—30 Zr—22,5 Mn на його структуру, фазовий і хімічний склад. Встановлено, що леґування призводить до підвищення температури топлення евтектичної складової, до збільшення об’ємної частки $\\beta$-фази, до пониження вмісту Mn у $\\lambda$-фазі, а також зсуває межу області гомогенності інтерметаліду (Ti,Zr)(Mn,V)$_{2}$ у бік титану.",
+		"en": "The influence of partial substitution of components of the 47.5 Ti—30 Zr—22.5 Mn eutectic alloy with vanadium on the alloy structure, phase and chemical composition is studied by means of the optical and scanning electron microscopy with using energy-dispersive EDAX analysis, X-ray phase and differential thermal analyses. As revealed, the alloying with vanadium leads to increase of the temperature of the eutectic melting, increase of the $\\beta$-phase volume fraction, and decrease of the Mn content in $\\lambda$-phase, and also shifts the boundary of a homogeneity region of the intermetallic (Ti,Zr)(Mn,V)$_{2}$ compound towards titanium.",
+		"ru": "Методами оптической и сканирующей электронной микроскопии с использованием энергодисперсионного анализа EDAX, рентгеновского фазового и дифференциального термического анализов изучено влияние частичной замены ванадием компонентов эвтектического сплава 47,5 Ti—30 Zr—22,5 Mn на его структуру, фазовый и химический состав. Установлено, что легирование приводит к повышению температуры плавления эвтектической составляющей, к увеличению объёмной доли $\\beta$-фазы, к снижению содержания Mn в $\\lambda$-фазе, а также сдвигает границу области гомогенности интерметаллида (Ti,Zr)(Mn,V)$_{2}$ в сторону титана."
+	},
+	"keywords": {
+		"ua": "евтектичні стопи, інтерметалід, твердий розчин, термічне оброблення",
+		"en": "eutectic alloys, intermetallic compound, solid solution, heat treatment",
+		"ru": "эвтектические сплавы, интерметаллид, твёрдый раствор, термическая обработка"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Г. Іванченко", "en": "V. G. Ivanchenko", "ru": "В. Г. Иванченко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. А. Дехтяренко", "en": "V. A. Dekhtyarenko", "ru": "В. А. Дехтяренко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Т. В. Прядко", "en": "T. V. Pryadko", "ru": "Т. В. Прядко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. І. Ничипоренко", "en": "V. I. Nychyporenko", "ru": "В. И. Ничипоренко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 19,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "V. Ivanchenko, T. Pryadko, and V. Dekhtyarenko, Chem. Metals and Alloys, 1, No. 2: 133 (2008).",
+				"tr":  "V. Ivanchenko, T. Pryadko, and V. Dekhtyarenko, Chem. of Metals and Alloys, 1, No. 2: 133 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Іванченко, В. А. Дехтяренко, Т. В. Прядко, Металлофиз. новейшие технол., 33, № 11: 479 (2011).",
+				"tr":  "V. G. Ivanchenko, V. A. Dekhtyarenko, and T. V. Pryadko, Metallofiz. Noveishie Tekhnol., 33, No. 11: 479 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(02)01125-8",
+				"or":  "S. Semboshi, N. Masahashi, and S. Hanada, J. Alloys Compd., 352: 210 (2003).",
+				"tr":  "S. Semboshi, N. Masahashi, and S. Hanada, J. Alloys Compd., 352: 210 (2003)."
+			},
+			{
+				"doi": "10.1016/j.intermet.2003.08.005",
+				"or":  "H. Taizhong, W. Zhu, Y. Xuebin, C. Jinshou, X. Baojia, H. Tiesheng, and X. Naixin, Intermetallics, 12: 91 (2004).",
+				"tr":  "H. Taizhong, W. Zhu, Y. Xuebin, C. Jinshou, X. Baojia, H. Tiesheng, and X. Naixin, Intermetallics, 12: 91 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Ivanchenko, T. Pryadko, V. Gavrylenko, and V. Pogorelaya, Chem. Metals and Alloys, 1, No. 1: 67 (2008).",
+				"tr":  "V. Ivanchenko, T. Pryadko, V. Gavrylenko, and V. Pogorelaya, Chem. Metals and Alloys, 1, No. 1: 67 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Іванченко, В. А. Дехтяренко, Т. В. Прядко, Т. О. Косорукова, Металознавство та обробка металів, № 1: 9 (2011).",
+				"tr":  "V. G. Ivanchenko, V. A. Dekhtyarenko, T. V. Pryadko, and T. O. Kosorukova, Metaloznavstvo ta Obrobka Metaliv, No. 1: 9 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Иванченко, В. А. Дехтяренко, Т. В. Прядко, Металлофиз. новейшие технол., 35, № 11: 1465 (2013).",
+				"tr":  "V. G. Ivanchenko, V. A. Dekhtyarenko, and T. V. Pryadko, Metallofiz. Noveishie Tekhnol., 35, No. 11: 1465 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Іванченко, В. А. Дехтяренко, Т. В. Прядко, Металознавство та обробка металів, № 1: 4 (2010).",
+				"tr":  "V. G. Ivanchenko, V. A. Dekhtyarenko, and T. V. Pryadko, Metaloznavstvo ta Obrobka Metaliv, No. 1: 4 (2010) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Іванченко, В. А. Дехтяренко, Т. В. Прядко, Порошковая металлургия, № 5/6: 129 (2013).",
+				"tr":  "V. G. Ivanchenko, V. A. Dekhtyarenko, and T. V. Pryadko, Poroshkova Metalurgiya, No. 5/6: 129 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Ливанов, А. Л. Буханова, Б. А. Колачев, Водород в титане (Москва: ГНТИ черной и цветной металлургии: 1962).",
+				"tr":  "V. A. Livanov, A. L. Bukhanova, and B. A. Kolachev, Vodorod v Titane (Moscow: GNTI Chernoy i Tsvetnoy Metallurgii: 1962) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Иванченко, Г. Ф. Кобзенко, Т. В. Прядко, Металлофиз. новейшие технол., 25, № 2: 235 (2003).",
+				"tr":  "V. G. Ivanchenko, G. F. Kobzenko, and T. V. Pryadko, Metallofiz. Noveishie Tekhnol., 25, No. 2: 235 (2003) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.ijhydene.2010.06.085",
+				"or":  "E. A. Anikina and V. N. Verbetsky, Int. J. Hydrogen Energy, 36: 1344 (2011).",
+				"tr":  "E. A. Anikina and V. N. Verbetsky, Int. J. Hydrogen Energy, 36: 1344 (2011)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(01)01469-4",
+				"or":  "V. Mitrokhin, T. N. Bezuglaya, and V. N. Verbetsky, J. Alloys Compd., 330–332: 146 (2002).",
+				"tr":  "V. Mitrokhin, T. N. Bezuglaya, and V. N. Verbetsky, J. Alloys Compd., 330–332: 146 (2002)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(03)00365-7",
+				"or":  "Y. Shudo, T. Ebisawa, and H. Itoh, J. Alloys Compd., 356–357: 497 (2003).",
+				"tr":  "Y. Shudo, T. Ebisawa, and H. Itoh, J. Alloys Compd., 356–357: 497 (2003)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2005.04.007",
+				"or":  "Z. Dehouche, M. Savard, F. Laurencelle, and J. Goyette, J. Alloys Compd., 400: 276 (2005).",
+				"tr":  "Z. Dehouche, M. Savard, F. Laurencelle, and J. Goyette, J. Alloys Compd., 400: 276 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Иванченко, В. И. Ничипоренко, Т. В. Прядко, Металлофиз. новейшие технол., 28, № 7: 977 (2006).",
+				"tr":  "V. G. Ivanchenko, V. I. Nichiporenko, and T. V. Pryadko, Metallofiz. Noveishie Tekhnol., 28, No. 7: 977 (2006) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0022-3697(70)90089-2",
+				"or":  "C. Korn and D. Zamir, J. Phys. Solids, 31: 489 (1970).",
+				"tr":  "C. Korn and D. Zamir, J. Phys. Solids, 31: 489 (1970)."
+			},
+			{
+				"doi": "",
+				"or":  "http://www.ing.unitn.it/~maud/",
+				"tr":  "http://www.ing.unitn.it/~maud/"
+			},
+			{
+				"doi": "10.1107/S0021889887086199",
+				"or":  "R. J. Hill and C. J. Howard, J. Appl. Crystallogr., No. 20: 467 (1987).",
+				"tr":  "R. J. Hill and C. J. Howard, J. Appl. Crystallogr., No. 20: 467 (1987)."
+			}
+		]
+	}
+}

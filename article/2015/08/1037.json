@@ -1,0 +1,118 @@
+{
+	"_id":    "MFiNT.37.08.1037",
+	"year":   2015,
+	"volume": 37,
+	"issue":  8,
+	"pages":  [1037,1048],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["14.05.2015"],
+	"PACS":   "06.60.Vz, 61.72.Ff, 61.80.Ba, 62.20.Qp, 81.20.Vj, 81.40.Pq, 81.40.Wx",
+	"title":  {
+		"ua": "Обробка за допомогою Nd:YAG лазера зношеності на стопі Ti—6Al—4V: вплив розміру плями у лазерного променя і морфологія шва",
+		"en": "The Wear Treatment by Nd:YAG Laser on Ti—6Al—4V Alloy: Effect of the Spot Size on Laser Beam and Seam Morphology",
+		"ru": "Обработка при помощи Nd:YAG лазера изношенности на сплаве Ti—6Al—4V: влияние размера пятна у лазерного луча и морфология шва"
+	},
+	"abstract": {
+		"ua": "Завдяки відмінній корозійній стійкості, високому відношенню міцности до ваги та високій робочій температурі титан і титанові стопи знаходять успішне застосування в різних галузях, включаючи медичну й аерокосмічну промисловості. Серед надійних методик оброблення лазерне зварювання може забезпечити істотну перевагу для титанових стопів через його точність, можливість швидкого оброблення та контроль параметрів. Параметри Nd:YAG-лазера, такі як діяметер та форма зварної плями, енергія та тривалість імпульсу, швидкість подавання, пікова потужність і частота повторення, безпосередньо або синергетично впливають на якість швів імпульсного зварювання та їх морфологію. В цьому дослідженні поверхня листа титанового стопу Ti6Al4V завтовшки у 1,5 мм оброблювалась імпульсним Nd:YAG-лазером типу SigmaLaser®300. Досліджено вплив діяметра зварної плями на морфологію шва та впливи на поверхню. Якість шва і поверхні описано в термінах морфології зварного шва та мікротвердости.",
+		"en": "Due to the excellent corrosion resistance, high strength to weight ratio and high operating temperature, titanium and titanium alloys lead to successful application in various fields including the medical and aerospace industries. Among the reliable treatments techniques, laser weld can provide a significant benefit for the titanium alloys because of its precision, rapid processing capability and controlling the parameters with their effects. The Nd:YAG laser parameters, such as spot size and shape, pulse energy and duration, travel speed, peak power and frequency of repetition, influence directly or synergistically the quality of pulsed seam welds and their morphology. In this study, 1.5 mm thick titanium Ti6Al4V alloy sheet surfaces are treated by SigmaLaser®300 type Nd:YAG pulsed laser. The influence of spot size on seam morphology and effects to the surface are investigated. The seam and surface quality is characterized in terms of weld morphology and microhardness.",
+		"ru": "Благодаря отличной коррозионной стойкости, высокому отношению прочности к весу и высокой рабочей температуре титан и титановые сплавы находят успешное применение в различных областях, включая медицинскую и аэрокосмическую промышленности. Среди надёжных методик обработки лазерная сварка может обеспечить существенное преимущество для титановых сплавов из-за её точности, возможности быстрой обработки и контроля параметров. Параметры Nd:YAG-лазера, такие как диаметр и форма сварного пятна, энергия и длительность импульса, скорость подачи, пиковая мощность и частота повторения, непосредственно или синергетически влияют на качество швов импульсной сварки и их морфологию. В данном исследовании поверхность листа титанового сплава Ti6Al4V толщиной 1,5 мм обрабатывалась импульсным Nd:YAG-лазером типа SigmaLaser®300. Были исследованы влияние диаметра сварного пятна на морфологию шва и воздействия на поверхность. Качество шва и поверхности описаны в терминах морфологии сварного шва и микротвёрдости."
+	},
+	"keywords": {
+		"ua": "зварювання Nd:YAG лазером, розмір плями, обробка поверхні, стоп Ti—6Al—4V",
+		"en": "Nd:YAG laser welding, spot size, surface treatment, Ti—6Al—4V alloy",
+		"ru": "сварка Nd:YAG лазером, размер пятна, обработка поверхности, сплав Ti—6Al—4V"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. Гурсел", "en": "A. Gursel", "ru": "А. Гурсел"},
+			"OID": [410,411]
+		}
+	],
+	"references": {
+		"count": 16,
+		"list":  [
+			{
+				"doi": "10.1016/S0167-577X(02)01074-1",
+				"or":  "S. H. Wang, M. D. Wei, and L. W. Tsay, Mater. Lett., 57: 1815 (2003).",
+				"tr":  "S. H. Wang, M. D. Wei, and L. W. Tsay, Mater. Lett., 57: 1815 (2003)."
+			},
+			{
+				"doi": "10.1016/j.jmatprotec.2005.05.031",
+				"or":  "G. Casalino, F. Curcio, F. Memola, and C. Minutolo, J. Mater. Process. Technol., 167: 422 (2005).",
+				"tr":  "G. Casalino, F. Curcio, F. Memola, and C. Minutolo, J. Mater. Process. Technol., 167: 422 (2005)."
+			},
+			{
+				"doi": "10.1016/j.optlastec.2013.12.009",
+				"or":  "M. Akbari, S. Saedodin, D. Toghraie, R. S. Razavi, and F. Kowsari, Optics Laser Technol., 59: 52 (2014).",
+				"tr":  "M. Akbari, S. Saedodin, D. Toghraie, R. S. Razavi, and F. Kowsari, Optics Laser Technol., 59: 52 (2014)."
+			},
+			{
+				"doi": "10.1016/j.jmbbm.2013.12.001",
+				"or":  "V. K. Balla, J. Soderlind, S. Bose, and A. Bandyopadhyay, J. Mechanical Behaviour of Biomedical Materials, 32: 335 (2014).",
+				"tr":  "V. K. Balla, J. Soderlind, S. Bose, and A. Bandyopadhyay, J. Mechanical Behaviour of Biomedical Materials, 32: 335 (2014)."
+			},
+			{
+				"doi": "10.1016/j.jmatprotec.2008.08.026",
+				"or":  "E. Akman, A. Demir, T. Canel, and T. Sınmazçelik, J. Mater. Process. Technol., 209: 3705 (2009).",
+				"tr":  "E. Akman, A. Demir, T. Canel, and T. Sınmazçelik, J. Mater. Process. Technol., 209: 3705 (2009)."
+			},
+			{
+				"doi": "10.1179/136217110X12731414739718",
+				"or":  "J. E. Blackburn, C. M. Allen, P. A. Hilton, L. Li, M. I. Hoque, and K. H. Khan, Sci. Technol. Weld Joining, 15: 433 (2010).",
+				"tr":  "J. E. Blackburn, C. M. Allen, P. A. Hilton, L. Li, M. I. Hoque, and K. H. Khan, Sci. Technol. Weld Joining, 15: 433 (2010)."
+			},
+			{
+				"doi": "10.1016/j.jmatprotec.2012.02.014",
+				"or":  "S. Zhao, G. Yu, H. Xiuli, and H. Yaowu, J. Mater. Process. Technol., 212: 1520 (2012).",
+				"tr":  "S. Zhao, G. Yu, H. Xiuli, and H. Yaowu, J. Mater. Process. Technol., 212: 1520 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Gursel, Düzce University J. Sci. Technol., 3: 210 (2015).",
+				"tr":  "A. Gursel, Düzce University J. Sci. Technol., 3: 210 (2015)."
+			},
+			{
+				"doi": "10.1007/PL00013126",
+				"or":  "Y. F. Tzeng, Int. J. Adv. Manuf. Technol., 16: 10 (2000).",
+				"tr":  "Y. F. Tzeng, Int. J. Adv. Manuf. Technol., 16: 10 (2000)."
+			},
+			{
+				"doi": "10.1016/S0924-0136(00)00447-7",
+				"or":  "Y. F. Tzeng, J. Mater. Process. Technol., 102: 40 (2000).",
+				"tr":  "Y. F. Tzeng, J. Mater. Process. Technol., 102: 40 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Weldingh and J. K. Kristensen, Proc. of 8th NOLAMP Conference (Copenhagen, Denmark, 13–15 August 2001).",
+				"tr":  "J. Weldingh and J. K. Kristensen, Proc. of 8th NOLAMP Conference (Copenhagen, Denmark, 13–15 August 2001)."
+			},
+			{
+				"doi": "10.1088/0022-3727/38/5/009",
+				"or":  "T. Y. Kuo and S. L. Jeng, J. Phys. D: Appl. Phys., 38: 722 (2005).",
+				"tr":  "T. Y. Kuo and S. L. Jeng, J. Phys. D: Appl. Phys., 38: 722 (2005)."
+			},
+			{
+				"doi": "10.1179/136217199101537699",
+				"or":  "S. Sundaresan and R. G. D. Janaki, Sci. Technol. Weld. Join., 4: 151 (1999).",
+				"tr":  "S. Sundaresan and R. G. D. Janaki, Sci. Technol. Weld. Join., 4: 151 (1999)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(99)00662-0",
+				"or":  "Q. Yunlian, D. Ju, H. Quan, and Z. Liying, Mater. Sci. Eng. A, 280: 177 (2000).",
+				"tr":  "Q. Yunlian, D. Ju, H. Quan, and Z. Liying, Mater. Sci. Eng. A, 280: 177 (2000)."
+			},
+			{
+				"doi": "10.1080/10426910500471425",
+				"or":  "P. Wanjara, M. Brochu, and M. Jahazi, Mater. Manuf. Proc., 21: 439 (2006).",
+				"tr":  "P. Wanjara, M. Brochu, and M. Jahazi, Mater. Manuf. Proc., 21: 439 (2006)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2006.06.035",
+				"or":  "V. C. Kumar, Surf. Coat. Technol., 201: 3174 (2006).",
+				"tr":  "V. C. Kumar, Surf. Coat. Technol., 201: 3174 (2006)."
+			}
+		]
+	}
+}

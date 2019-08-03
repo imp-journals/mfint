@@ -1,0 +1,134 @@
+{
+	"_id":    "MFiNT.40.06.0749",
+	"year":   2018,
+	"volume": 40,
+	"issue":  6,
+	"pages":  [749,758],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["02.02.2018"],
+	"PACS":   "61.48.De, 62.23.Pq, 72.80.Tm, 72.80.Vp, 73.63.Rt, 81.07.Oj, 81.40.Vw",
+	"title":   {
+		"ua": "Особливості електропровідности масиву метал/вуглецеві нанотрубки",
+		"en": "Peculiarities of Electrical Conductivity of Metal/Carbon Nanotubes Array",
+		"ru": "Особенности электропроводности массива металл/углеродные нанотрубки"
+	},
+	"abstract": {
+		"ua": "Досліджено електропровідність механічної суміші вуглецевих нанотрубок (ВНТ) (робота виходу $\\cong$ 4,7 еВ) і металевих мікрочастинок Cu та Al (з меншими роботами виходу: 4,2 та 4,0 еВ відповідно) в процесі деформації стисканням. Показано, що електрична провідність порошків Al та Cu істотно збільшується за рахунок додавання ВНТ (до 30% ваг.). Залежність електропровідности від густини порошкової суміші Al з ВНТ характеризується глибоким мінімумом, що спостерігається на одержаній кривій за концентрації вуглецевих нанотрубок у 9,6% ваг. Ця особливість є результатом локалізації електронів у плівці Al$_2$O$_3$, що утворюється на поверхні зразків. Різке зменшення електропровідности композиції Al + ВНТ, на відміну від композиції на основі Cu, пояснюється низкою чинників, зокрема, зміщенням рівня Фермі ВНТ глибоко у валентну зону.",
+		"en": "A study of the electrical conductivity of mechanical mixture of both the carbon nanotubes (CNTs) (with work function of $\\cong$ 4.7 eV) and the Cu and Al metal microparticles (with lower work functions of 4.2 and 4.0 eV, respectively) under compression is provided. As shown, the electrical conductivity of the Al and Cu powders is essentially increased with addition of the CNTs (up to 30 wt.%). The electrical conductivity dependence on the density of a powder mixture of Al with CNTs is characterized by a deep minimum observed at the concentration of 9.6 wt.% CNTs. This feature is a result of the electrons’ localization in the Al$_2$O$_3$ film formed on a sample surface. A number of factors, in particular, a shift of the Fermi level of the CNTs deep into the valence band, explain the sharp decrease in the electrical conductivity of the Al + CNTs composite, unlike the Cu-based composite.",
+		"ru": "Исследована электропроводность механической смеси углеродных нанотрубок (УНТ) (работа выхода $\\cong$ 4,7 эВ) и металлических микрочастиц Cu и Al (с меньшими работами выхода: 4,2 и 4,0 эВ соответственно) в процессе деформации сжатием. Показано, что электрическая проводимость порошков Al и Cu существенно увеличивается за счёт увеличения количества нанотрубок в смеси (до 30% вес.). Зависимость электропроводности от плотности порошковой смеси Al с УНТ характеризуется глубоким минимумом, наблюдающимся на полученной кривой при концентрации углеродных нанотрубок 9,6% вес. Эта особенность является результатом локализации электронов в плёнке Al$_2$O$_3$, образующейся на поверхности образцов. Резкое уменьшение электропроводности композиции Al + УНТ, в отличие от композиции на основе Cu, объясняется рядом факторов, в частности, смещением уровня Ферми УНТ глубоко в валентную зону."
+	},
+	"keywords": {
+		"ua": "вуглецева нанотрубка, нанокомпозит, електрична провідність",
+		"en": "carbon nanotube, nanocomposite, electrical conductivity",
+		"ru": "углеродная нанотрубка, нанокомпозит, электрическая проводимость"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. М. Нищенко", "en": "M. M. Nishchenko", "ru": "М. М. Нищенко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Г. Ю. Михайлова", "en": "H. Yu. Mykhailova", "ru": "Г. Ю. Михайлова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Г. П. Приходько", "en": "G. P. Prikhodko", "ru": "Г. П. Приходько"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. М. Дашевський", "en": "M. M. Dashevskyi", "ru": "Н. Н. Дашевский"},
+			"OID": [201]
+		},
+		{
+			"AID": {"ua": "О. І. Наконечна", "en": "O. I. Nakonechna", "ru": "О. И. Наконечная"},
+			"OID": [201]
+		}
+	],
+	"references": {
+		"count": 16,
+		"list":  [
+			{
+				"doi": "10.1038/354056a0",
+				"or":  "S. Iijima, Nature, 354: 56 (1991).",
+				"tr":  "S. Iijima, Nature, 354: 56 (1991)."
+			},
+			{
+				"doi": "10.1016/S0266-3538(01)00094-X",
+				"or":  "E. T. Thostenson, Z. Ren, and T.-W. Chou, Compos. Sci. Technol., 61, Iss. 13: 1899 (2001).",
+				"tr":  "E. T. Thostenson, Z. Ren, and T.-W. Chou, Compos. Sci. Technol., 61, Iss. 13: 1899 (2001)."
+			},
+			{
+				"doi": "10.1126/science.1060928",
+				"or":  "R. H. Baughman, A. A. Zakhidov, and W. A. de Heer, Science, 297, Iss. 5582: 787 (2002).",
+				"tr":  "R. H. Baughman, A. A. Zakhidov, and W. A. de Heer, Science, 297, Iss. 5582: 787 (2002)."
+			},
+			{
+				"doi": "10.1070/PU2002v045n04ABEH001033",
+				"or":  "A. V. Eletskii, Phys. Uspekhi, 45: 369 (2002).",
+				"tr":  "A. V. Eletskii, Phys. Uspekhi, 45: 369 (2002)."
+			},
+			{
+				"doi": "10.1116/1.589329",
+				"or":  "Yu. V. Gulyaev, N. I. Sinitsyn, G. V. Torgashov, Sh. T. Mevlyut, A. I. Zhbanov, Yu. F. Zakharchenko, Z. Ya. Kosakovskaya, L. A. Chernozatonskii, O. E. Glukhova, and I. G. Torgashov, J. Vac. Sci. Technol. B, 15: 422 (1997).",
+				"tr":  "Yu. V. Gulyaev, N. I. Sinitsyn, G. V. Torgashov, Sh. T. Mevlyut, A. I. Zhbanov, Yu. F. Zakharchenko, Z. Ya. Kosakovskaya, L. A. Chernozatonskii, O. E. Glukhova, and I. G. Torgashov, J. Vac. Sci. Technol. B, 15: 422 (1997)."
+			},
+			{
+				"doi": "10.1109/APEDE.2012.6478023",
+				"or":  "E. A. Tarasov, G. V. Torgashov, Yu. A. Grigoriev, N. I. Sinitsyn, N. P. Aban’shin, and B. I. Gorfinkel, Int. Conf. Actual Problems Electron Devices Eng. (Sept. 19–20, 2012, Saratov, Russia), p. 83.",
+				"tr":  "E. A. Tarasov, G. V. Torgashov, Yu. A. Grigoriev, N. I. Sinitsyn, N. P. Aban'shin, and B. I. Gorfinkel, Int. Conf. Actual Problems Electron Devices Eng. (Sept. 19–20, 2012, Saratov, Russia), p. 83."
+			},
+			{
+				"doi": "10.1098/rsta.2004.1438",
+				"or":  "N. de Jonge and J.-M. Bonard, Phil. Trans. R. Soc. London A, 362: 2239 (2004).",
+				"tr":  "N. de Jonge and J.-M. Bonard, Phil. Trans. R. Soc. London A, 362: 2239 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.102.175505",
+				"or":  "Y. Hayamizu, R. C. Davis, T. Yamada, D. N. Futaba, S. Yasuda, M. Yumura, and K. Hata, Phys. Rev. Lett., 102, Iss. 17: 175505 (2009).",
+				"tr":  "Y. Hayamizu, R. C. Davis, T. Yamada, D. N. Futaba, S. Yasuda, M. Yumura, and K. Hata, Phys. Rev. Lett., 102, Iss. 17: 175505 (2009)."
+			},
+			{
+				"doi": "10.1016/S1748-0132(06)70113-X",
+				"or":  "P. V. Kamat, Nano Today, 1, Iss. 4: 20 (2006).",
+				"tr":  "P. V. Kamat, Nano Today, 1, Iss. 4: 20 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "E. L. Corral, M. L. Shofner, and E. V. Barrera, Carbon Nanotubes: Science and Applications (Ed. M. Meyyappan) (CRC Press: 2004).",
+				"tr":  "E. L. Corral, M. L. Shofner, and E. V. Barrera, Carbon Nanotubes: Science and Applications (Ed. M. Meyyappan) (CRC Press: 2004)."
+			},
+			{
+				"doi": "10.1016/j.snb.2005.06.033",
+				"or":  "M. Lucci, P. Regoliosi, A. Reale, A. Di Carlo, S. Orlanducci, E. Tamburri, M. L. Terranova, P. Lugli, C. Di Natale, A. D’Amico, and R. Paolesse, Sensors and Actuators B: Chemical, 111–112: 181 (2005).",
+				"tr":  "M. Lucci, P. Regoliosi, A. Reale, A. Di Carlo, S. Orlanducci, E. Tamburri, M. L. Terranova, P. Lugli, C. Di Natale, A. D'Amico, and R. Paolesse, Sensors and Actuators B: Chemical, 111–112: 181 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.60.13824",
+				"or":  "A. Rochefort, Ph. Avouris, F. Lesage, and D. R. Salahub, Phys. Rev. B, 60: 13824 (1999).",
+				"tr":  "A. Rochefort, Ph. Avouris, F. Lesage, and D. R. Salahub, Phys. Rev. B, 60: 13824 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Blythe and D. Bloor, Electrical Properties of Polymers (Cambridge: University Press: 2005).",
+				"tr":  "T. Blythe and D. Bloor, Electrical Properties of Polymers (Cambridge: University Press: 2005)."
+			},
+			{
+				"doi": "10.1134/S2075113316020040",
+				"or":  "V. V. Anikeyev, B. V. Kovalchuk, V. M. Lazorenko, G. Yu. Mikhaylova, M. M. Nishchenko, V. N. Pimenov, G. P. Prikhodko, S. I. O. Sadykhov, and V. I. Tovtin, Inorganic Materials: Applied Research, 7, Iss. 2: 204 (2016).",
+				"tr":  "V. V. Anikeyev, B. V. Kovalchuk, V. M. Lazorenko, G. Yu. Mikhaylova, M. M. Nishchenko, V. N. Pimenov, G. P. Prikhodko, S. I. O. Sadykhov, and V. I. Tovtin, Inorganic Materials: Applied Research, 7, Iss. 2: 204 (2016)."
+			},
+			{
+				"doi": "10.1134/S2075113314020051",
+				"or":  "V. V. Anikeev, B. V. Koval’chuk V. M. Lazorenko, G. Yu. Mikhaylova, M. M. Nishchenko, V. N. Pimenov, I. M. Sidorchenko, Yu. F. Suskaya, and V. I. Tovtin, Inorganic Materials: Applied Research, 5, Iss. 2: 138 (2014).",
+				"tr":  "V. V. Anikeev, B. V. Koval'chuk V. M. Lazorenko, G. Yu. Mikhaylova, M. M. Nishchenko, V. N. Pimenov, I. M. Sidorchenko, Yu. F. Suskaya, and V. I. Tovtin, Inorganic Materials: Applied Research, 5, Iss. 2: 138 (2014)."
+			},
+			{
+				"doi": "10.1016/j.apt.2016.03.019",
+				"or":  "O. Boshko, O. Nakonechna, M. Dashevskyi, K. Ivanenko, N. Belyavina, and S. Revo, Advanced Powder Technology, 27, Iss. 4: 1101 (2016).",
+				"tr":  "O. Boshko, O. Nakonechna, M. Dashevskyi, K. Ivanenko, N. Belyavina, and S. Revo, Advanced Powder Technology, 27, Iss. 4: 1101 (2016)."
+			}
+		]
+	}
+}

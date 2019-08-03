@@ -1,0 +1,209 @@
+{
+	"_id":    "MFiNT.36.12.1609",
+	"year":   2014,
+	"volume": 36,
+	"issue":  12,
+	"pages":  [1609,1620],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["17.07.2014"],
+	"PACS":   "61.05.cp, 66.30.Pa, 68.35.Fx, 68.37.Lp, 68.37.Ps, 81.10.Jt, 82.80.Ms",
+	"title":   {
+		"ua": "Низькотемпературна взаємна дифузія та утворення упорядкованих фаз в нанокристалічних тонких плівках Au/Cu в різних атмосферах",
+		"en": "Low-Temperature Interdiffusion and Ordered Phase Formation in Au/Cu Nanocrystalline Thin Films at the Different Atmospheres",
+		"ru": "Низкотемпературная взаимная диффузия и образование упорядоченных фаз в нанокристаллических тонких плёнках Au/Cu в разных атмосферах"
+	},
+	"abstract": {
+		"ua": "Досліджено процеси взаємної дифузії в тонких полікристалічних плівках Au (30 нм)/Cu (40 нм) під час відпалу за температур у 100—200°C впродовж 15 і 30 хв. у вакуумі при різних тисках залишкової атмосфери у 10$^{-2}$ і 10$^{-6}$ Па та в середовищі водню при значенні тиску у 5$\\cdot$10$^{2}$ Па. Застосовано методу мас-спектрометрії вторинних нейтральних частинок, доповнену трансмісійною електронною мікроскопією, Рентґеновою дифракцією й атомно-силовою мікроскопією. Перемішування двох шарів спостерігалося при температурах, за яких повністю виключається дифузія за об’ємним механізмом. Одержані для шару Au профілі Cu та їх еволюція з часом були типовими профілями $C$-кінетичного режиму зерномежової дифузії. Внаслідок значно вищої зерномежової дифузійної рухливости в збагаченому шарі Au насичення меж зерен золота досягається за дуже короткий час. Високий рівень концентрації Cu в шарі Au можна пояснити, припускаючи наявність рухливих меж, які залишають поза собою області з високою концентрацією Cu, близькою до стехіометричного складу. Фазоутворення відбувається всередині та навколо меж зерен шляхом переміщення компонента, що дифундує, вздовж рухомих меж зерен.",
+		"en": "Interdiffusion processes in the polycrystalline Au (30 nm)/Cu (40 nm) thin films during annealing at 100—200C for 15 and 30 min in a vacuum with different residual-atmosphere pressures of 10$^{-2}$ and 10$^{-6}$ Pa and in an environment of hydrogen at a pressure of 5$\\cdot$10$^{2}$ Pa are investigated. Secondary neutral mass spectrometry complemented with transmission electron microscopy, X-ray diffraction, and atomic force microscopy is used. The intermixing of two layers is observed at the temperatures, at which the bulk diffusion can be safely ruled out. Within the Au layer, the detected Cu profiles and their time evolution are typical $C$-kinetic regime grain boundary profiles. Due to the much higher grain boundary diffusivity, the saturation of Au grain boundaries at the Au-rich side is hit in a very short time. The high Cu concentration level in the Au-side could be interpreted by supposing existing boundaries, which are moving and leaving behind themselves the areas with high Cu concentration close to the stoichiometric compositions. Phase formation takes place in and around grain boundaries due to diffusing component transport along moving grain boundaries.",
+		"ru": "Исследованы процессы взаимной диффузии в тонких поликристаллических плёнках Au (30 нм)/Cu (40 нм) во время отжига при температурах 100—200°C в течение 15 и 30 мин в вакууме при различных давлениях остаточной атмосферы 10$^{-2}$ и 10$^{-6}$ Па и в среде водорода при давлении 5$\\cdot$10$^{2}$ Па. Использован метод масс-спектрометрии вторичных нейтральных частиц, дополненный трансмиссионной электронной микроскопией, рентгеновской дифракцией и атомно-силовой микроскопией. Перемешивание двух слоёв наблюдалось при температурах, при которых объёмная диффузия полностью исключается. Измеряемые для слоя Au профили Cu и их развитие с течением времени были типичными профилями зернограничной диффузии с кинетикой $C$-типа. Из-за гораздо более высокой зернограничной диффузионной подвижности в обогащённом слое Au насыщение границ зёрен золота достигается за очень короткое время. Высокий уровень концентрации Cu в слое Au можно объяснить, предполагая наличие подвижных границ, которые оставляют позади себя области с высокой концентрацией Cu, близкой к стехиометрическому составу. Фазообразование происходит внутри и вокруг границ зёрен посредством перемещения диффундирующего компонента вдоль движущихся границ зёрен."
+	},
+	"keywords": {
+		"ua": "зерномежова дифузія, упорядкована фаза, AuCu, тонка плівка, мас-спектрометрія вторинних нейтральних частинок",
+		"en": "grain boundary diffusion, ordered phase, AuCu, thin film, Secondary Neutral Mass Spectrometry",
+		"ru": "зернограничная диффузия, упорядоченная фаза, AuCu, тонкая плёнка, масс-спектрометрия вторичных нейтральных частиц"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. А. Тінькова", "en": "A. A. Tynkova", "ru": "А. А. Тинькова"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "С. І. Сидоренко", "en": "S. I. Sidorenko", "ru": "С. И. Сидоренко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "І. Є. Котенко", "en": "I. E. Kotenko", "ru": "И. Е. Котенко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "В. Л. Свєчніков", "en": "V. L. Svetchnikov", "ru": "В. Л. Свечников"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. М. Волошко", "en": "S. M. Voloshko", "ru": "С. М. Волошко"},
+			"OID": [202]
+		}
+	],
+	"references": {
+		"count": 31,
+		"list":  [
+			{
+				"doi": "10.1088/0034-4885/57/10/001",
+				"or":  "U. Bardi, Rep. Prog. Phys., 57: 939 (1994).",
+				"tr":  "U. Bardi, Rep. Prog. Phys., 57: 939 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "J. H. Sinfelt, Bimetallic Catalysts: Discoveries, Concepts and Applications (New York: Wiley: 1983).",
+				"tr":  "J. H. Sinfelt, Bimetallic Catalysts: Discoveries, Concepts and Applications (New York: Wiley: 1983)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Ohring, The Materials Science of Thin Films (New York: Academic Press: 1992).",
+				"tr":  "M. Ohring, The Materials Science of Thin Films (New York: Academic Press: 1992)."
+			},
+			{
+				"doi": "10.1016/j.mseb.2006.08.044",
+				"or":  "F. Cacho, G. Cailletaud, C. Rivero, P. Gergaud, O. Thomas, and H. Jaouen, Mater. Sci. Eng. B, 135: 95 (2006).",
+				"tr":  "F. Cacho, G. Cailletaud, C. Rivero, P. Gergaud, O. Thomas, and H. Jaouen, Mater. Sci. Eng. B, 135: 95 (2006)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.49.2030",
+				"or":  "K. N. Tu, Phys. Rev. B, 49: 2030 (1994).",
+				"tr":  "K. N. Tu, Phys. Rev. B, 49: 2030 (1994)."
+			},
+			{
+				"doi": "10.1109/TEPM.2005.847443",
+				"or":  "G. T. Galyon and L. Palmer, IEEE Trans. Electron. Packag. Manuf., 28: 17 (2005).",
+				"tr":  "G. T. Galyon and L. Palmer, IEEE Trans. Electron. Packag. Manuf., 28: 17 (2005)."
+			},
+			{
+				"doi": "10.1039/tf9615701191",
+				"or":  "L. G. Harrison, Trans. Faraday Soc., 57: 1191 (1961).",
+				"tr":  "L. G. Harrison, Trans. Faraday Soc., 57: 1191 (1961)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2009.07.187",
+				"or":  "W. E. Martinez, G. Gregori, and T. Mates, Thin Solid Films, 518: 2585 (2010).",
+				"tr":  "W. E. Martinez, G. Gregori, and T. Mates, Thin Solid Films, 518: 2585 (2010)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2010.05.011",
+				"or":  "G. Schmitz, D. Baither, M. Kasparzak, T. H. Kim, and B. Krause, Scr. Mater., 63: 484 (2010).",
+				"tr":  "G. Schmitz, D. Baither, M. Kasparzak, T. H. Kim, and B. Krause, Scr. Mater., 63: 484 (2010)."
+			},
+			{
+				"doi": "doi:10.1007/BF00215172",
+				"or":  "V. M. Koshevich, A. N. Gladkikh, M. V. Karpovskyi, and V. N. Klimenko, Interface Sci., 2: 261 (1994).",
+				"tr":  "V. M. Koshevich, A. N. Gladkikh, M. V. Karpovskyi, and V. N. Klimenko, Interface Sci., 2: 261 (1994)."
+			},
+			{
+				"doi": "10.1063/1.331028",
+				"or":  "U. Gösele and K. N. Tu, J. Appl. Phys., 53: 3252 (1982).",
+				"tr":  "U. Gösele and K. N. Tu, J. Appl. Phys., 53: 3252 (1982)."
+			},
+			{
+				"doi": "10.1557/JMR.1988.0167",
+				"or":  "F. M. d’Heurle, J. Mater. Res., 3: 167 (1988).",
+				"tr":  "F. M. d'Heurle, J. Mater. Res., 3: 167 (1988)."
+			},
+			{
+				"doi": "10.1080/10408430390261955",
+				"or":  "T. Laurila and J. Molarius, Crit. Rev. Solid State Mater. Sci., 28: 185 (2003).",
+				"tr":  "T. Laurila and J. Molarius, Crit. Rev. Solid State Mater. Sci., 28: 185 (2003)."
+			},
+			{
+				"doi": "10.1016/j.vacuum.2013.04.015",
+				"or":  "G. Molnár, G. Erdélyi, G. A. Langer, D. L. Beke, A. Csik, M. Kis-Varga, and A. Dudás, Vacuum, 98: 70 (2013).",
+				"tr":  "G. Molnár, G. Erdélyi, G. A. Langer, D. L. Beke, A. Csik, M. Kis-Varga, and A. Dudás, Vacuum, 98: 70 (2013)."
+			},
+			{
+				"doi": "10.1016/S1359-6462(98)00135-3",
+				"or":  "F. Hartung, J. C. Ewert, J. Dzick, and G. Schmitz, Scr. Mater., 39, No. 1: 79 (1998).",
+				"tr":  "F. Hartung, J. C. Ewert, J. Dzick, and G. Schmitz, Scr. Mater., 39, No. 1: 79 (1998)."
+			},
+			{
+				"doi": "10.1016/0040-6090(79)90379-1",
+				"or":  "G. Feinstein and J. B. Bindell, Thin Solid Films, 62: 37 (1979).",
+				"tr":  "G. Feinstein and J. B. Bindell, Thin Solid Films, 62: 37 (1979)."
+			},
+			{
+				"doi": "10.1016/0169-4332(93)90437-G",
+				"or":  "H. Oechsner, Appl. Surf. Sci., 70: 250 (1993).",
+				"tr":  "H. Oechsner, Appl. Surf. Sci., 70: 250 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Péter, G. L. Katona, Z. Berényi, K. Vad, G. A. Langer, E. Tyth-Kádar, J. Pádár, L. Pogány, and I. Bakonyi, Electrochim. Acta, 53: 837 (2007).",
+				"tr":  "L. Péter, G. L. Katona, Z. Berényi, K. Vad, G. A. Langer, E. Tyth-Kádar, J. Pádár, L. Pogány, and I. Bakonyi, Electrochim. Acta, 53: 837 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "A. N. Aleshin, V. K. Egorov, B. S. Bokstein, and P. V. Kurkin, Thin Sol. Films, 51: 223 (1993).",
+				"tr":  "A. N. Aleshin, V. K. Egorov, B. S. Bokstein, and P. V. Kurkin, Thin Sol. Films, 51: 223 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "L. A. Girifalco, Atomic Migration in Crystals (Tokyo, Japan: Kyōritsu Shuppan: 1980).",
+				"tr":  "L. A. Girifalco, Atomic Migration in Crystals (Tokyo, Japan: Kyōritsu Shuppan: 1980)."
+			},
+			{
+				"doi": "10.1002/pssa.2210440220",
+				"or":  "K. Maier, phys. status solidi (a), 44: 567 (1977).",
+				"tr":  "K. Maier, phys. status solidi (a), 44: 567 (1977)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2011.11.013",
+				"or":  "A. Makovec, G. Erdélyi, and D. L. Beke, Thin Sol. Films, 520: 2362 (2012).",
+				"tr":  "A. Makovec, G. Erdélyi, and D. L. Beke, Thin Sol. Films, 520: 2362 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "B. D. Cullity, Elements of X-Ray Diffraction (Reading, MA: Addison-Wesley: 1979).",
+				"tr":  "B. D. Cullity, Elements of X-Ray Diffraction (Reading, MA: Addison-Wesley: 1979)."
+			},
+			{
+				"doi": "10.1007/s10853-010-5087-y",
+				"or":  "S. Inomata and M. O .M. Kajihara, J. Mater. Sci., 46: 2410 (2011).",
+				"tr":  "S. Inomata and M. O. M. Kajihara, J. Mater. Sci., 46: 2410 (2011)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2004.05.004",
+				"or":  "O. Penrose, Acta Mater., 52: 3901 (2004).",
+				"tr":  "O. Penrose, Acta Mater., 52: 3901 (2004)."
+			},
+			{
+				"doi": "10.1016/0956-7151(95)00011-J",
+				"or":  "C. Y. Ma, E. Rabkin, W. Gust, and S. E. Hsu, Acta Metall. Mater., 43: 3113 (1995).",
+				"tr":  "C. Y. Ma, E. Rabkin, W. Gust, and S. E. Hsu, Acta Metall. Mater., 43: 3113 (1995)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.64.245418",
+				"or":  "F. Hartung and G. Schmitz, Phys. Rev. B, 64: 245418 (2001).",
+				"tr":  "F. Hartung and G. Schmitz, Phys. Rev. B, 64: 245418 (2001)."
+			},
+			{
+				"doi": "10.1063/1.2938079",
+				"or":  "J. Chakraborty, U. Welzer, and E. J. Mittemeijer, J. Appl. Phys., 103: 113512 (2008).",
+				"tr":  "J. Chakraborty, U. Welzer, and E. J. Mittemeijer, J. Appl. Phys., 103: 113512 (2008)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2009.08.026",
+				"or":  "J. Chakraborty, U. Welzer, and E. J. Mittemeijer, Thin Solid Films, 518: 2010 (2010).",
+				"tr":  "J. Chakraborty, U. Welzer, and E. J. Mittemeijer, Thin Solid Films, 518: 2010 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "Ya. Ye. Geguzin, Yu. S. Kaganovskiy, and L. N. Paritskaya, Phys. Met. Metall., 54: 120 (1982).",
+				"tr":  "Ya. Ye. Geguzin, Yu. S. Kaganovskiy, and L. N. Paritskaya, Phys. Met. Metall., 54: 120 (1982)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. Kaganovskii and L. N. Paritskaya, Encyclopaedia of Nanoscience and Nanotechnology (Ed. H. S. Nalwa) (American Scientific Publishers: 2004), p. 1.",
+				"tr":  "Yu. Kaganovskii and L. N. Paritskaya, Encyclopaedia of Nanoscience and Nanotechnology (Ed. H. S. Nalwa) (American Scientific Publishers: 2004), p. 1."
+			}
+		]
+	}
+}

@@ -1,0 +1,103 @@
+{
+	"_id":    "MFiNT.36.03.0383",
+	"year":   2014,
+	"volume": 36,
+	"issue":  3,
+	"pages":  [383,389],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["14.06.2013"],
+	"PACS":   "61.72.Bb, 61.72.Lk, 61.80.Ba, 62.20.fq, 62.50.Ef, 72.15.Eb, 81.40.Wx",
+	"title":   {
+		"ua": "Явища переносу в кристалі, викликані імпульсом енергії",
+		"en": "Transport Phenomena Induced by the Energy Pulse in a Crystal",
+		"ru": "Явления переноса в кристалле, вызванные импульсом энергии"
+	},
+	"abstract": {
+		"ua": "Швидкісна деформація металів у твердій фазі призводить до ґенерації і перенесення дефектів кристалічної ґратниці на значні віддалі. В таких умовах атоми проникають на глибини, які істотно перевищують глибину дифузії в умовах стаціонарного відпалу за такі ж самі терміни часу. Прискорене перенесення атомів може також супроводжуватися й іншими явищами перенесення (електро- і теплоперенесення) в металі за умов дії енергетичного імпульсу на кристал. Найкращим джерелом такого імпульсу є легкокероване лазерне опромінення. В даній роботі встановлено природу та взаємозв’язок між транспортними явищами в металах, збуджених енергетичним імпульсом.",
+		"en": "The phenomenon of rapid mass-transfer in solid state observed in metals after pulsed action is characterized by transfer of atoms within the short periods of action time to the depths significantly exceeding the diffusion depth under the conditions of stationary annealing. The features of other transport phenomena (mass-transfer, heat-transfer, etc.) arising in metal at pulsed energy action on a crystal are also discussed. The best instrument to study transformations in the matter under pulsed action is an easily controlled laser pulse. In a given work, the nature and correlations between transport phenomena in metals excited by the energy pulse are studied.",
+		"ru": "Скоростная деформация металлов в твёрдой фазе приводит к генерации и переносу дефектов кристаллической решётки на значительные расстояния. В этих условиях атомы проникают на глубины, существенно превышающие глубину диффузии в условиях стационарного отжига за сопоставимые времена. Ускоренный перенос атомов может также сопровождаться и другими явлениями переноса (электро- и теплоперенос) в металле при воздействии энергетического импульса на кристалл. Наилучшим источником такого импульса является легкоуправляемое лазерное излучение. В данной работе установлены природа и взаимосвязь между транспортными явлениями в металлах, возбуждённых энергетическим импульсом."
+	},
+	"keywords": {
+		"ua": "масоперенесення, теплоперенесення, імпульсне лазерне опромінення",
+		"en": "mass transfer, heat transfer, laser pulse irradiation",
+		"ru": "массоперенос, теплоперенос, импульсное лазерное облучение"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. Є. Погорелов", "en": "A. E. Pogorelov", "ru": "А. Е. Погорелов"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 13,
+		"list":  [
+			{
+				"doi": "10.4028/www.scientific.net/DDF.194-199.1247",
+				"or":  "A. Pogorelov and A. Zhuravlev, Defect and Diffusion Forum, 194–199: 1247 (2001).",
+				"tr":  "A. Pogorelov and A. Zhuravlev, Defect and Diffusion Forum, 194–199: 1247 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Yu. Volosevich and A. E. Pogorelov, Poverhnost’ (Fizika, Khimiya, Mekhanika), 9: 126 (1986) (in Russian).",
+				"tr":  "P. Yu. Volosevich and A. E. Pogorelov, Poverhnost' (Fizika, Khimiya, Mekhanika), 9: 126 (1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. N. Larikov, E. A. Maksimenko, and A. E. Pogorelov, Metallofiz. Noveishie Tekhnol., 7, No. 2: 116 (1985) (in Russian).",
+				"tr":  "L. N. Larikov, E. A. Maksimenko, and A. E. Pogorelov, Metallofiz. Noveishie Tekhnol., 7, No. 2: 116 (1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. E. Pogorelov, Napravlennyj Massoperenos v Fe i Al pri Impul’snom Lazernom Obluchenii (Thesis of Disser. for PhD) (Kiev: Institute for Metal Physics, Ukr.A.S.: 1985) (in Russian).",
+				"tr":  "A. E. Pogorelov, Napravlennyj Massoperenos v Fe i Al pri Impul'snom Lazernom Obluchenii (Thesis of Disser. for PhD) (Kiev: Institute for Metal Physics, Ukr.A.S.: 1985) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.1512972",
+				"or":  "A. E. Pogorelov, K. P. Ryaboshapka, and A. F. Zhuravlev, J. Appl. Phys., 92: 5766 (2002).",
+				"tr":  "A. E. Pogorelov, K. P. Ryaboshapka, and A. F. Zhuravlev, J. Appl. Phys., 92: 5766 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "V. P. Bevz, V. F. Mazanko, A. V. Filatov, and S. P. Vorona, Metallofiz. Noveishie Tekhnol., 28: 271 (2006) (in Russian).",
+				"tr":  "V. P. Bevz, V. F. Mazanko, A. V. Filatov, and S. P. Vorona, Metallofiz. Noveishie Tekhnol., 28: 271 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. E. Pogorelov, Proc. of the 1-st International Conference on Nanomaterials: Applications and Properties NAP-2011 (September 27–30, 2011), vol. 2, p. 414.",
+				"tr":  "A. E. Pogorelov, Proc. of the 1-st International Conference on Nanomaterials: Applications and Properties NAP-2011 (September 27–30, 2011), vol. 2, p. 414."
+			},
+			{
+				"doi": "",
+				"or":  "A. Pogorelov, Proc. of International Conference NANO-2010 (October 19–22, 2010) (Kyiv: 2010), p. 162.",
+				"tr":  "A. Pogorelov, Proc. of International Conference NANO-2010 (October 19–22, 2010) (Kyiv: 2010), p. 162."
+			},
+			{
+				"doi": "",
+				"or":  "M. E. Gurevich and A. E. Pogorelov, Fizicheskie Metody Issledovania Metallov (Physical Methods of Metals Investigation) (Kiev: Naukova Dumka: 1981) (in Russian).",
+				"tr":  "M. E. Gurevich and A. E. Pogorelov, Fizicheskie Metody Issledovania Metallov (Physical Methods of Metals Investigation) (Kiev: Naukova Dumka: 1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. S. Oskotskii and I. A. Smirnov, Defekty v Kristallakh i Teploprovodnost’ (Defects in Crystals and Heat Transfer) (Leningrad: Nauka: 1972) (in Russian).",
+				"tr":  "V. S. Oskotskii and I. A. Smirnov, Defekty v Kristallakh i Teploprovodnost' (Defects in Crystals and Heat Transfer) (Leningrad: Nauka: 1972) (in Russian)."
+			},
+			{
+				"doi": "10.1134/1.1562229",
+				"or":  "N. V. Lugueva, S. M. Luguev, and A. A. Dunaev, Phys. Solid State, 45: 449 (2003).",
+				"tr":  "N. V. Lugueva, S. M. Luguev, and A. A. Dunaev, Phys. Solid State, 45: 449 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Gurevich, J. Phys., 9: 477 (1945); ibid., 10: 67 (1946).",
+				"tr":  "L. Gurevich, J. Phys., 9: 477 (1945); ibid., 10: 67 (1946)."
+			},
+			{
+				"doi": "10.1103/PhysRev.99.1140",
+				"or":  "J. Bardeen and D. Pines, Phys. Rev., 99: 1140 (1955).",
+				"tr":  "J. Bardeen and D. Pines, Phys. Rev., 99: 1140 (1955)."
+			}
+		]
+	}
+}

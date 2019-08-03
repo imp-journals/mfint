@@ -1,0 +1,83 @@
+{
+	"_id":    "MFiNT.38.07.0867",
+	"year":   2016,
+	"volume": 38,
+	"issue":  7,
+	"pages":  [867,888],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["14.05.2016","01.06.2016"],
+	"PACS":   "62.20.Qp, 68.35.Dv, 71.15.Ap, 73.20.At, 81.07.Bc, 81.40.Lm, 81.40.Pq",
+	"title":   {
+		"ua": "Вплив активних хемічних елементів мастильно-охолоджуючих рідин на властивості поверхневих шарів деформованого заліза. II. Електронна структура і характер міжатомових зв’язків примежових областей зерен та їх фраґментів",
+		"en": "Effect of the Active Chemical Elements of Metal-Working Lubricants on Properties of Surface Layers of the Deformed Iron. II. Electronic Structure and Character of Interatomic Bonds of Near-Boundary Areas of Grains and Their Fragments",
+		"ru": "Влияние активных химических элементов смазочно-охлаждающих жидкостей на свойства поверхностных слоёв деформированного железа. II. Электронная структура и характер межатомных связей приграничных областей зёрен и их фрагментов"
+	},
+	"abstract": {
+		"ua": "За допомогою спін-поляризованих зонних розрахунків у методі LAPW з ґрадієнтною апроксимацією електронної густини (GGA–generalized gradient approximation) проаналізовано вплив активних хемічних елементів робочого середовища на електронну структуру та характер міжатомових зв’язків у примежових областях зерен та їх фраґментів. Насичення примежових областей зерен та їх фраґментів атомами Карбону, які знаходяться в октапорах ОЦК-заліза, приводить до утворення міцних ковалентних зв’язків між атомами Карбону і атомами Феруму. Найслабші міжатомові зв’язки в об’ємі металу утворюються в місцях скупчення в примежових областях зерен та їх фраґментів атомів Фосфору, Сульфуру і Хлору, які проникають у поверхневі шари заліза з мастильно-охолоджувальних рідин. Ці ділянки є найбільш схильними до локальної пластичної деформації металу. Найменший опір зсуву атомів виявляють місця скупчення атомів Хлору, найбільший – місця скупчення атомів Фосфору. Інтенсивна локальна пластична деформація металу в місцях скупчення атомів Хлору може привести до утворення метастабільних атомових кластерів Fe—C—O. Ці кластери і атоми Феруму, що оточують їх, розділяють ділянки зі зниженою електронною густиною, що призводить до обмеженої участі валентних електронів у формуванні зв’язків між ними та відносно легкому зсуву структурних фраґментів уздовж меж, утворених цими кластерами. Тому скупчення атомових кластерів Fe—O—C в примежових областях зерен та їх фраґментів може сприяти виникненню приповерхневих ділянок зі збільшеною пластичністю матеріялу.",
+		"en": "The effect of active chemical elements of metal-working lubricants on both the electronic structure and the character of the interatomic bonds of near boundary areas of grains and their fragments is studied using spin-polarized band structure calculations within the LAPW method with the generalized gradient approximation (GGA) of the electron density. The weakest interatomic bonds within the metal bulk are formed in accumulation places of phosphorus, sulphur and chlorine atoms in the boundary areas of grains and their fragments, which penetrate into the surface layers of iron from the metal-working lubricants. These areas are the most predisposed to local plastic deformation of the metal. The lowest shear resistance of atoms occurs in the accumulation places of chlorine atoms, the greatest one–in the accumulation places of phosphorus atoms. The intense local plastic deformation of the metal in the places of accumulation of chlorine atoms can result in formation of the metastable atomic clusters Fe—C—O. These clusters and neigh bouring iron atoms are separated by areas with the low electron density. This leads to a limited participation of valence electrons in the formation of bonds between them and to a relatively easy shift of the structural fragments along the boundaries formed by these clusters. Therefore, the concentration of atomic clusters Fe—O—C in the boundaries of grains and their fragments may contribute to forming the near-surface areas of increased ductility of the material.",
+		"ru": "С помощью спин-поляризованных зонных расчётов в методе LAPW с градиентной аппроксимацией электронной плотности (GGA–generalized gradient approximation) проанализировано влияние активных химических элементов рабочей среды на электронную структуру и характер межатомных связей в приграничных областях зёрен и их фрагментов. Насыщение приграничных областей зёрен и их фрагментов атомами углерода, которые находятся в октапорах ОЦК-железа, приводит к образованию прочных ковалентных связей между атомами углерода и атомами железа. Самые слабые межатомные связи в объёме металла образуются в местах скопления в приграничных областях зёрен и их фрагментов атомов фосфора, серы и хлора, которые проникают в поверхностные слои железа из смазочно-охлаждающих жидкостей. Эти участки являются наиболее предрасположенными к локальной пластической деформации металла. Наименьшее сопротивление сдвигу атомов оказывают места скопления атомов хлора, наибольшее – места скопления атомов фосфора. Интенсивная локальная пластическая деформация металла в местах скопления атомов хлора может приводить к образованию метастабильных атомных кластеров Fe—C—O. Эти кластеры и окружающие их атомы железа разделяют участки с пониженной электронной плотностью, что приводит к ограниченному участию валентных электронов в формировании связей между ними и относительно лёгкому смещению структурных фрагментов вдоль границ, образованных этими кластерами. Поэтому скопление атомных кластеров Fe—O—C в приграничных областях зёрен и их фрагментов может способствовать возникновению приповерхностных участков с увеличенной пластичностью материала."
+	},
+	"keywords": {
+		"ua": "пластична деформація, домішкові атоми, індивідуальне атомове оточення, атомові кластери, просторовий розподіл електронної густини, міжатомові зв’язки",
+		"en": "plastic deformation, impurity atoms, individual atomic environment, atomic clusters, spatial distribution of electron density, interatomic bonds",
+		"ru": "пластическая деформация, примесные атомы, индивидуальное атомное окружение, атомные кластеры, пространственное распределение электронной плотности, межатомные связи"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. В. Тихонович", "en": "V. V. Tykhonovych", "ru": "В. В. Тихонович"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 9,
+		"list":  [
+			{
+				"doi": "10.1007/978-1-4757-2312-0",
+				"or":  "D. Singh, Plane Waves, Pseudopotentials and LAPW Method (Boston: Kluwer Academic: 1994).",
+				"tr":  "D. Singh, Plane Waves, Pseudopotentials and LAPW Method (Boston: Kluwer Academic: 1994)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.77.3865",
+				"or":  "J. P. Perdew, S. Burke, and M. Ernzerhof, Phys. Rev. Let., 77: 3865 (1996).",
+				"tr":  "J. P. Perdew, S. Burke, and M. Ernzerhof, Phys. Rev. Let., 77: 3865 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Blaha, K. Schwarz, G. K. Madsen, D. Kvasnicka and J. Luits, WIEN2k: An Augmented Plane Wave Plus Local Orbitals Program for Calculation Crystal Properties (Vienna: Vienna University of Technology: 2001).",
+				"tr":  "P. Blaha, K. Schwarz, G. K. Madsen, D. Kvasnicka and J. Luits, WIEN2k: An Augmented Plane Wave Plus Local Orbitals Program for Calculation Crystal Properties (Vienna: Vienna University of Technology: 2001)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Ковалёв, Г. В. Щербединский, Современные методы исследования поверхности металлов и сплавов (Москва: Металлургия: 1989).",
+				"tr":  "A. I. Kovalev and G. V. Shcherbedinskiy, Sovremennye Metody Issledovaniya Poverkhnosti Metallov i Splavov [Modern Methods of Investigation of Surface of Metals and Alloys] (Moscow: Metallurgiya: 1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Ковалев, В. П. Мишина, Г. В. Щербединский, Металлофизика, 9, № 3: 112 (1987).",
+				"tr":  "A. I. Kovalev, V. P. Mishina, and G. V. Shcherbedinskiy, Metallofizika, 9, No. 3: 112 (1987) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.12.02.209",
+				"or":  "В. В. Тихонович, В. Н. Уваров, Успехи физики металлов, 12, № 2: 209 (2011).",
+				"tr":  "V. V. Tykhonovych and V. M. Uvarov, Uspehi Fiziki Metallov, 12, No. 2: 209 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "R. S .Knox and A. Gold, Symmetry in the Solid State (New York: W. A. Benjamin Inc.: 1964).",
+				"tr":  "R. S. Knox and A. Gold, Symmetry in the Solid State (New York: W. A. Benjamin Inc.: 1964)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Горский, В. В. Тихонович, Ю. Я. Мешков, В. П. Темненко, Б. С. Шаповал, Л. М. Шелудченко, А. В. Шевченко, Металлофизика, 12, № 2: 53 (1990).",
+				"tr":  "V. V. Gorskiy, V. V. Tykhonovych, Yu. Ya. Meshkov, V. P. Temnenko, B. S. Shapoval, L. M. Sheludchenko, and A. V. Shevchenko, Metallofizika, 12, No. 2: 53 (1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. М. Шелудченко, В. В. Тихонович, В. В. Горский, О. Д. Смиян, С. О. Антонов, А. Д. Драчинская, Металлофизика, 14, № 4: 75 (1992).",
+				"tr":  "L. M. Sheludchenko, V. V. Tykhonovych, V. V. Gorskiy, O. D. Smiyan, S. O. Antonov, and A. D. Drachinskaya, Metallofizika, 14, No. 4: 75 (1992) (in Russian)."
+			}
+		]
+	}
+}

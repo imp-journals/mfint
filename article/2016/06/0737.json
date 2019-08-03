@@ -1,0 +1,253 @@
+{
+	"_id":    "MFiNT.38.06.0737",
+	"year":   2016,
+	"volume": 38,
+	"issue":  6,
+	"pages":  [737,750],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["23.03.2016"],
+	"PACS":   "61.50.Lt, 61.72.Dd, 64.75.Nx, 71.15.Mb, 71.15.Nc, 81.30.Mh, 82.60.Lf",
+	"title":   {
+		"ua": "Реакції осадження в нікель—водневої системи: першопринципні дослідження",
+		"en": "Precipitation Reactions in Nickel—Hydrogen System: ab initio Study",
+		"ru": "Реакции выделения в системе никель—водород: изучение из первых принципов"
+	},
+	"abstract": {
+		"ua": "Тип реакцій виділення в системі нікель—водень досліджено за допомогою розрахунків із перших принципів. Розраховано концентраційну залежність ентальпії розчинення, а також показано, що її друга похідна є від’ємною в діяпазоні відношень водень—метал, H/Ni, від 0,03 до 0,75. Це означає, що має місце спинодальний розпад твердого розчину із формуванням збагаченої та збідненої воднем фаз. Одержані значення концентрацій водню в цих спряжених фазах узгоджуються з експериментальними даними. Вплив концентрації водню на електронну структуру, а також кореляція з термодинамічною стабільністю фаз підтверджують, що спинодальний розпад у системі нікель—водень має електронну природу. Одержані результати знаходяться у протиріччі з широко розповсюдженою концепцією гідриду ніклю.",
+		"en": "A type of precipitation reactions in the nickel—hydrogen system is studied by means of first-principle atomic calculations. The concentration dependence of solution enthalpy is calculated, and its second derivative is shown to be negative within the hydrogen-to-nickel ratios, H/Ni, of 0.03—0.75. This result suggests that a spinodal decomposition of the solid solution occurs resulting in formation of the hydrogen-rich and hydrogen-depleted phases. The obtained hydrogen concentrations in these conjugated phases are in consistency with the available experimental data. The effects of hydrogen concentration on the electronic structure and its correlation with thermodynamic stability of phases confirm that spinodal decomposition in the nickel— hydrogen system has the electronic origin. The obtained results are at variance with the widely accepted concept of the nickel hydride.",
+		"ru": "Тип реакций выделения в системе никель—водород изучен при помощи расчётов из первых принципов. Рассчитана концентрационная зависимость энтальпии растворения, а также показано, что её вторая производная является отрицательной в диапазоне отношений водород—металл, H/Ni, от 0,03 до 0,75. Это свидетельствует о том, что имеет место спинодальный распад твёрдого раствора с формированием обогащённой и обеднённой водородом фаз. Полученные значения концентраций водорода в этих сопряжённых фазах находятся в согласии с экспериментальными данными. Влияние концентрации водорода на электронную структуру и корреляция с термодинамической стабильностью фаз подтверждают, что спинодальный распад в системе никель—водород имеет электронную природу. Полученные результаты находятся в противоречии с широко распространённой концепцией гидрида никеля."
+	},
+	"keywords": {
+		"ua": "спинодальний розпад, система нікель—водень, гідрид, розрахунки із перших принципів",
+		"en": "spinodal decomposition, nickel—hydrogen system, hydride, ab initio calculations",
+		"ru": "спинодальный распад, система никель—водород, гидрид, расчёты из первых принципов"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. М. Теус", "en": "S. M. Teus", "ru": "С. М. Теус"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 43,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "B. Baranowski, Z. Szklarska-Smialowska, and M. Smialowski, Bull. Acad. Pol. Sci., 6: 179 (1958).",
+				"tr":  "B. Baranowski, Z. Szklarska-Smialowska, and M. Smialowski, Bull. Acad. Pol. Sci., 6: 179 (1958)."
+			},
+			{
+				"doi": "",
+				"or":  "B. Baranowski, Bull. Acad. Pol. Sci., 7: 907 (1959).",
+				"tr":  "B. Baranowski, Bull. Acad. Pol. Sci., 7: 907 (1959)."
+			},
+			{
+				"doi": "",
+				"or":  "B. Baranowski, Bull. Acad. Pol. Sci., 7: 891 (1959).",
+				"tr":  "B. Baranowski, Bull. Acad. Pol. Sci., 7: 891 (1959)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Janko, Bull. Acad. Pol. Sci., 8: 131 (1960).",
+				"tr":  "A. Janko, Bull. Acad. Pol. Sci., 8: 131 (1960)."
+			},
+			{
+				"doi": "10.1016/0376-4583(82)90110-8",
+				"or":  "St. Rashkov, M. Monev, and I. Tomov, Surf. Technol., 16: 203 (1982).",
+				"tr":  "St. Rashkov, M. Monev, and I. Tomov, Surf. Technol., 16: 203 (1982)."
+			},
+			{
+				"doi": "10.1007/BF01093015",
+				"or":  "I. Tomov, M. Monev, M. Mikhailov, and S. Rashkov, J. Appl. Electrochem., 22: 82 (1992).",
+				"tr":  "I. Tomov, M. Monev, M. Mikhailov, and S. Rashkov, J. Appl. Electrochem., 22: 82 (1992)."
+			},
+			{
+				"doi": "10.1016/S0013-4686(64)80001-3",
+				"or":  "B. Baranowski and Z. Szklarska-Smialowska, Electrochimica Acta, 9: 1497 (1964).",
+				"tr":  "B. Baranowski and Z. Szklarska-Smialowska, Electrochimica Acta, 9: 1497 (1964)."
+			},
+			{
+				"doi": "",
+				"or":  "B. Baranowski, Bull. Akad. Pol. Sci., 7: 897 (1959).",
+				"tr":  "B. Baranowski, Bull. Akad. Pol. Sci., 7: 897 (1959)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Janko and P. Michel, Compt. Rend., 251: 1001 (1960).",
+				"tr":  "A. Janko and P. Michel, Compt. Rend., 251: 1001 (1960)."
+			},
+			{
+				"doi": "10.1016/0021-9517(62)90020-9",
+				"or":  "H. Jarmolowicz and M. Smialowski, J. Catalysis, 1: 165 (1962).",
+				"tr":  "H. Jarmolowicz and M. Smialowski, J. Catalysis, 1: 165 (1962)."
+			},
+			{
+				"doi": "10.1007/BF01679797",
+				"or":  "H. J. Bauer and E. Schmidbauer, Z. Phys., 164: 367 (1961).",
+				"tr":  "H. J. Bauer and E. Schmidbauer, Z. Phys., 164: 367 (1961)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(01)01532-8",
+				"or":  "V. E. Antonov, J. Alloys Compd., 330–332: 110 (2002).",
+				"tr":  "V. E. Antonov, J. Alloys Compd., 330–332: 110 (2002)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2003.09.134",
+				"or":  "Y. Fukai, S. Yamatomo, S. Harada, and M. Kanazawa, J. Alloys. Compd., 372: L4 (2004).",
+				"tr":  "Y. Fukai, S. Yamatomo, S. Harada, and M. Kanazawa, J. Alloys. Compd., 372: L4 (2004)."
+			},
+			{
+				"doi": "10.1007/BF00602757",
+				"or":  "A. Janko, Naturwissenschaften, 47: 225 (1960).",
+				"tr":  "A. Janko, Naturwissenschaften, 47: 225 (1960)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2005.02.102",
+				"or":  "B. Baranowski and S. M. Filipek, J. Alloys. Compd., 404–406: 2 (2005).",
+				"tr":  "B. Baranowski and S. M. Filipek, J. Alloys. Compd., 404–406: 2 (2005)."
+			},
+			{
+				"doi": "10.1016/0036-9748(86)90455-2",
+				"or":  "A. Bourret, A. Lasalmonie, and S. Naka, Scr. Metal., 20: 861 (1986).",
+				"tr":  "A. Bourret, A. Lasalmonie, and S. Naka, Scr. Metal., 20: 861 (1986)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.73.104416",
+				"or":  "P. Olsson, I. A. Abrikosov, and J. Wallenius, Phys. Rev. B, 73: 104416 (2006).",
+				"tr":  "P. Olsson, I. A. Abrikosov, and J. Wallenius, Phys. Rev. B, 73: 104416 (2006)."
+			},
+			{
+				"doi": "10.1103/PhysRev.136.B864",
+				"or":  "P. Hohenberg and W. Kohn, Phys. Rev., 136: B864 (1964).",
+				"tr":  "P. Hohenberg and W. Kohn, Phys. Rev., 136: B864 (1964)."
+			},
+			{
+				"doi": "10.1103/PhysRev.140.A1133",
+				"or":  "W. Kohn and L. J. Sham, Phys. Rev., 140: A1133 (1965).",
+				"tr":  "W. Kohn and L. J. Sham, Phys. Rev., 140: A1133 (1965)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Blaha, K. Schwarz, G. K. H. Madsen, D. Kvasnicka, and J. Luitz, WIEN2k, An Augmented Plane Wave + Local Orbitals Program for Calculating Crystal Properties (Austria: Techn. Universität Wien: 2001).",
+				"tr":  "P. Blaha, K. Schwarz, G. K. H. Madsen, D. Kvasnicka, and J. Luitz, WIEN2k, An Augmented Plane Wave + Local Orbitals Program for Calculating Crystal Properties (Austria: Techn. Universität Wien: 2001)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.77.3865",
+				"or":  "J. P. Perdew, S. Burke, and M. Ernzernhoff, Phys. Rev. Lett., 77: 3865 (1996).",
+				"tr":  "J. P. Perdew, S. Burke, and M. Ernzernhoff, Phys. Rev. Lett., 77: 3865 (1996)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.13.5188",
+				"or":  "H. J. Monkhorst and J. D. Pack, Phys. Rev. B, 13: 5188 (1976).",
+				"tr":  "H. J. Monkhorst and J. D. Pack, Phys. Rev. B, 13: 5188 (1976)."
+			},
+			{
+				"doi": "10.1073/pnas.30.9.244",
+				"or":  "F. D. Murnaghan, Proc. Natl. Acad. Sci., 30: 244 (1944).",
+				"tr":  "F. D. Murnaghan, Proc. Natl. Acad. Sci., 30: 244 (1944)."
+			},
+			{
+				"doi": "10.1007/978-1-4757-0961-2",
+				"or":  "K. P. Huber and G. Hertzberg, Molecular Spectra and Molecular Structure IV: Constants of Diatomic Molecules (New York: Van Norstrand Reinhold: 1979).",
+				"tr":  "K. P. Huber and G. Hertzberg, Molecular Spectra and Molecular Structure IV: Constants of Diatomic Molecules (New York: Van Norstrand Reinhold: 1979)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Parlinski, Software Phonon (Cracow: 2010).",
+				"tr":  "K. Parlinski, Software Phonon (Cracow: 2010)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.78.4063",
+				"or":  "K. Parlinski, Z. Q. Li, and Y. Kawazoe, Phys. Rev. Lett., 78: 4063 (1997).",
+				"tr":  "K. Parlinski, Z. Q. Li, and Y. Kawazoe, Phys. Rev. Lett., 78: 4063 (1997)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.48.406",
+				"or":  "K. Kunc and R. M. Martin, Phys. Rev. Lett., 48: 406 (1982).",
+				"tr":  "K. Kunc and R. M. Martin, Phys. Rev. Lett., 48: 406 (1982)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.26.3259",
+				"or":  "M. T. Yin and M. L. Cohen, Phys. Rev. B, 26: 3259 (1982).",
+				"tr":  "M. T. Yin and M. L. Cohen, Phys. Rev. B, 26: 3259 (1982)."
+			},
+			{
+				"doi": "10.1016/0022-3697(63)90028-3",
+				"or":  "E. O. Wollan, J. W. Cable, and W. C. Koehler, J. Phys. Chem. Solids, 24: 1141 (1963).",
+				"tr":  "E. O. Wollan, J. W. Cable, and W. C. Koehler, J. Phys. Chem. Solids, 24: 1141 (1963)."
+			},
+			{
+				"doi": "10.1051/jphys:01964002505046000",
+				"or":  "J. W. Cable, E. O. Wollan, and W. C. Koehler, J. Phys., 25: 460 (1964).",
+				"tr":  "J. W. Cable, E. O. Wollan, and W. C. Koehler, J. Phys., 25: 460 (1964)."
+			},
+			{
+				"doi": "10.1088/0305-4608/13/11/010",
+				"or":  "C. Papastaikoudis, B. Lengeler, and W. Jager, J. Phys. F: Met. Phys., 13: 2257 (1983).",
+				"tr":  "C. Papastaikoudis, B. Lengeler, and W. Jager, J. Phys. F: Met. Phys., 13: 2257 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "W. R. Robertson, Z. Metallkd., 64: 436 (1973).",
+				"tr":  "W. R. Robertson, Z. Metallkd., 64: 436 (1973)."
+			},
+			{
+				"doi": "10.1143/JJAP.16.1747",
+				"or":  "K. Yamakawa and F. E. Fujita, Jpn. J. Appl. Phys., 16: 1747 (1977).",
+				"tr":  "K. Yamakawa and F. E. Fujita, Jpn. J. Appl. Phys., 16: 1747 (1977)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(98)00857-3",
+				"or":  "K. Zeng, T. Klassen, W. Oelerich, and R. Bormann, J. Alloys. Compd,. 283: 151 (1999).",
+				"tr":  "K. Zeng, T. Klassen, W. Oelerich, and R. Bormann, J. Alloys. Compd, 283: 151 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "R. D. Doherty, Physical Metallurgy (Amsterdam: Elsevier Science BV: 1996), p. 1365.",
+				"tr":  "R. D. Doherty, Physical Metallurgy (Amsterdam: Elsevier Science BV: 1996), p. 1365."
+			},
+			{
+				"doi": "10.1016/S0013-4686(97)00304-6",
+				"or":  "R. Juskenas, A. Selskis, and V. Kadziauskiene, Electrochim. Acta, 43: 1903 (1998).",
+				"tr":  "R. Juskenas, A. Selskis, and V. Kadziauskiene, Electrochim. Acta, 43: 1903 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "D. N. Movchan, S. M. Teus, G. S. Mogilny, and V. G. Gavriljuk, Metallofiz. Noveishie Tekhnol., 35, No. 6: 821 (2013).",
+				"tr":  "D. N. Movchan, S. M. Teus, G. S. Mogilny, and V. G. Gavriljuk, Metallofiz. Noveishie Tekhnol., 35, No. 6: 821 (2013)."
+			},
+			{
+				"doi": "10.1016/j.ijhydene.2006.05.008",
+				"or":  "C. San Marchi, B. P. Somerday, and S. L. Robinson, Int. J. Hydrogen Energy, 32: 100 (2007).",
+				"tr":  "C. San Marchi, B. P. Somerday, and S. L. Robinson, Int. J. Hydrogen Energy, 32: 100 (2007)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2008.08.027",
+				"or":  "B. Alling, A. Karimi, and I. A. Abrikosov, Surf. Coat. Technol., 203: 883 (2008).",
+				"tr":  "B. Alling, A. Karimi, and I. A. Abrikosov, Surf. Coat. Technol., 203: 883 (2008)."
+			},
+			{
+				"doi": "10.1051/jphysrad:019620023010063700",
+				"or":  "H. Jones, J. Phys. Radium, 23: 637 (1962).",
+				"tr":  "H. Jones, J. Phys. Radium, 23: 637 (1962)."
+			},
+			{
+				"doi": "10.1098/rspa.1934.0044",
+				"or":  "H. Jones, Proc. R. Soc. Lond. A, 144: 225 (1934).",
+				"tr":  "H. Jones, Proc. R. Soc. Lond. A, 144: 225 (1934)."
+			},
+			{
+				"doi": "10.1134/1.1129921",
+				"or":  "P. A. Korzhavyi, E. A. Smirnova, I. E. Eibel`man, I. A. Abrikosova, A. V. Ruban, and Yu. Kh. Vekilov, Phys. Solid. State, 39: 515 (1997).",
+				"tr":  "P. A. Korzhavyi, E. A. Smirnova, I. E. Eibel`man, I. A. Abrikosova, A. V. Ruban, and Yu. Kh. Vekilov, Phys. Solid. State, 39: 515 (1997)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.64.020101",
+				"or":  "E. A. Smirnova, P. A. Korzhavyi, Yu. Kh. Vekilov, B. Johansson, and I. A. Abrikosov, Phys. Rev. B, 64: 020101(R) (2001).",
+				"tr":  "E. A. Smirnova, P. A. Korzhavyi, Yu. Kh. Vekilov, B. Johansson, and I. A. Abrikosov, Phys. Rev. B, 64: 020101(R) (2001)."
+			}
+		]
+	}
+}

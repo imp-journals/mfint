@@ -1,0 +1,155 @@
+{
+	"_id":    "MFiNT.38.08.1077",
+	"year":   2016,
+	"volume": 38,
+	"issue":  8,
+	"pages":  [1077,1102],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["20.07.2016"],
+	"PACS":   "07.60.Hv, 68.35.Ct, 68.37.Hk, 78.20.Ci, 81.10.Jt, 81.40.Tv, 81.70.Fy",
+	"title":   {
+		"ua": "Роль рекристалізації вольфраму в формуванні шерсткости його поверхні під впливом послідовної дії нейтронів і розпорошення",
+		"en": "Role of Recrystallization of Tungsten in Formation of a Roughness of Its Surface Under Influence of Successive Action of Neutrons and Sputtering",
+		"ru": "Роль рекристаллизации вольфрама в формировании шероховатости его поверхности под влиянием последовательного воздействия нейтронов и распыления"
+	},
+	"abstract": {
+		"ua": "Експериментально досліджено модифікування структури поверхні та зміну оптичних властивостей двох типів вольфраму (W-IG і W-rc) під впливом чинників, що імітують умови роботи в Міжнародному експериментальному термоядерному реакторі (ІТЕР): послідовний вплив нейтронів та атомів перезарядки (розпорошення). Вперше доведено, що рекристалізація W-IG приводить до стабілізації структури його поверхні та, як наслідок, оптичних характеристик. Проведено комплексні дослідження радіяційних перетворень поверхні, що уможливили з’ясувати фізичні механізми її ерозії під впливом чинників ІТЕР і побудувати моделі шерсткости поверхні. Вперше обґрунтовано модель співіснування двох типів шерсткости на поверхні W-IG та її модифікування при рекристалізації.",
+		"en": "The paper presents experimental study of surface-structure modification and optical-properties’ change of two types of tungsten (W-IG and W-rc) under impact of factors imitating operating conditions in International Thermonuclear Experimental Reactor (ITER): successive impact of neutrons and recharge atoms (sputtering). For the first time, the fact is determined that the W-IG recrystallization leads to stabilization of both surface structure and, as a result, optical properties. The comprehensive study of radiation-induced transformations of the surface reveals physical mechanisms of its erosion under the ITER factors and results in creation of the roughness model. For the first time, a model of coexistence of two types of roughness on the W-IG surface and its transformations under recrystallization is grounded.",
+		"ru": "Экспериментально изучена модификация структуры поверхности и изменение оптических свойств двух типов вольфрама (W-IG и W-rc) при воздействии факторов, имитирующих условия работы в Международном экспериментальном термоядерном реакторе (ИТЭР): последовательное воздействие нейтронов и атомов перезарядки (распыление). Впервые доказано, что рекристаллизация W-IG приводит к стабилизации структуры его поверхности и, как следствие, оптических характеристик. Проведённые комплексные исследования радиационных превращений поверхности позволили выяснить физические механизмы её эрозии под влиянием факторов ИТЭР и построить модели шероховатой поверхности. Впервые обоснована модель сосуществования двух типов шероховатости на поверхности W-IG и её модификации при рекристаллизации."
+	},
+	"keywords": {
+		"ua": "вольфрам, W-rc, W-IG, ІТЕР, рекристалізація, нейтрони, атоми перезарядки, розпорошення, поверхня",
+		"en": "tungsten, W-rc, W-IG, ITER, recrystallization, neutrons, recharge atoms (sputtering), surface",
+		"ru": "вольфрам, W-rc, W-IG, ИТЭР, рекристаллизация, нейтроны, атомы перезарядки, распыление, поверхность"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. І. Беляєва", "en": "A. I. Belyaeva", "ru": "А. И. Беляева"},
+			"OID": [243]
+		},
+		{
+			"AID": {"ua": "О. А. Галуза", "en": "O. A. Galuza", "ru": "А. А. Галуза"},
+			"OID": [243,34]
+		},
+		{
+			"AID": {"ua": "І. В. Koленов", "en": "I. V. Kolenov", "ru": "И. В. Koленов"},
+			"OID": [34,13]
+		},
+		{
+			"AID": {"ua": "А. О. Савченко", "en": "A. O. Savchenko", "ru": "А. А. Савченко"},
+			"OID": [243]
+		}
+	],
+	"references": {
+		"count": 21,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "A. I. Belyaeva, A. A. Galuza, I. V. Kolenov, V. G. Konovalov, A. A. Savchenko, and O. A. Skoryk, Phys. Met. Metallogr., 114, No. 8: 703 (2013).",
+				"tr":  "A. I. Belyaeva, A. A. Galuza, I. V. Kolenov, V. G. Konovalov, A. A. Savchenko, and O. A. Skoryk, Phys. Met. Metallogr., 114, No. 8: 703 (2013)."
+			},
+			{
+				"doi": "10.1063/1.4890594",
+				"or":  "A. I. Belyaeva, A. A. Savchenko, A. A. Galuza, and I. V. Kolenov, AIP Adv., 4, No. 7: 077121 (2014).",
+				"tr":  "A. I. Belyaeva, A. A. Savchenko, A. A. Galuza, and I. V. Kolenov, AIP Adv., 4, No. 7: 077121 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "O. M. Wirtz, Thermal Shock Behaviour of Different Tungsten Grades under Varying Conditions (Thesis of Disser.) (Aachen: Techn. Hochsch. Forschungszentrum Jülich: 2012).",
+				"tr":  "O. M. Wirtz, Thermal Shock Behaviour of Different Tungsten Grades under Varying Conditions (Thesis of Disser.) (Aachen: Techn. Hochsch. Forschungszentrum Jülich: 2012)."
+			},
+			{
+				"doi": "10.1016/j.jnucmat.2011.10.025",
+				"or":  "V. Kh. Alimov, B. Tyburska-Püschel, Y. Hatano, J. Roth, K. Isobe, M. Matsuyama, and T. Yamanishi, J. Nucl. Mater., 420, Nos. 1–3: 370 (2012).",
+				"tr":  "V. Kh. Alimov, B. Tyburska-Püschel, Y. Hatano, J. Roth, K. Isobe, M. Matsuyama, and T. Yamanishi, J. Nucl. Mater., 420, Nos. 1–3: 370 (2012)."
+			},
+			{
+				"doi": "10.1585/pfr.7.1405105",
+				"or":  "A. Rusinov, M. Sakamoto, H. Zushi, R. Ohyama, K. Honda, I. Takagi, T. Tanabe, and N. Yoshida, Plasma Fusion Res., 7: 1405105 (2012).",
+				"tr":  "A. Rusinov, M. Sakamoto, H. Zushi, R. Ohyama, K. Honda, I. Takagi, T. Tanabe, and N. Yoshida, Plasma Fusion Res., 7: 1405105 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "T. H. Courtney, Mechanical Behavior of Materials (Long Grove: Waveland Press: 2000).",
+				"tr":  "T. H. Courtney, Mechanical Behavior of Materials (Long Grove: Waveland Press: 2000)."
+			},
+			{
+				"doi": "10.1134/S0031918X16090027",
+				"or":  "A. I. Belyaeva, A. A. Galuza, P. A. Khaimovich, I. V. Kolenov, A. A. Savchenko, S. I. Solodovchenko, and N. A. Shulgin, Phys. Met. Metallogr., 117, No. 11: 1215 (2016).",
+				"tr":  "A. I. Belyaeva, A. A. Galuza, P. A. Khaimovich, I. V. Kolenov, A. A. Savchenko, S. I. Solodovchenko, and N. A. Shulgin, Phys. Met. Metallogr., 117, No. 11: 1215 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "O. A. Galuza, A. I. Belyaeva, and A. D. Kudlenko, Metallofiz. Noveishie Tekhnol., 31, No. 6: 791 (2009) (in Russian).",
+				"tr":  "O. A. Galuza, A. I. Belyaeva, and A. D. Kudlenko, Metallofiz. Noveishie Tekhnol., 31, No. 6: 791 (2009) (in Russian)."
+			},
+			{
+				"doi": "10.1023/A:1025121813267",
+				"or":  "A. A. Galuza, A. D. Kudlenko, K. A. Slatin, A. I. Belyaeva, and M. M. Smirnov, Instrum. Exper. Techn., 46, No. 4: 477 (2003).",
+				"tr":  "A. A. Galuza, A. D. Kudlenko, K. A. Slatin, A. I. Belyaeva, and M. M. Smirnov, Instrum. Exper. Techn., 46, No. 4: 477 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "A. I. Belyaeva, A. A. Galuza, I. V. Kolenov, and A. A. Savchenko, Probl. Atomic Sci. Technol., No. 2 (90): 174 (2014).",
+				"tr":  "A. I. Belyaeva, A. A. Galuza, I. V. Kolenov, and A. A. Savchenko, Probl. Atomic Sci. Technol., No. 2 (90): 174 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "A. I. Belyaeva, A. A. Galuza, V. F. Klepikov, V. V. Litvinenko, A. G. Ponomarev, M. A. Sagaidachnii, V. V. Uvarov, and V. T. Uvarov, Probl. Atomic Sci. Technol., No. 2 (93): 191 (2009).",
+				"tr":  "A. I. Belyaeva, A. A. Galuza, V. F. Klepikov, V. V. Litvinenko, A. G. Ponomarev, M. A. Sagaidachnii, V. V. Uvarov, and V. T. Uvarov, Probl. Atomic Sci. Technol., No. 2 (93): 191 (2009)."
+			},
+			{
+				"doi": "10.1016/j.jnucmat.2004.04.240",
+				"or":  "M. Balden, A. F. Bardamid, A. I. Belyaeva, K. A. Slatin, J. W. Davis, A. A. Haasz, M. Poon, V. G. Konovalov, I. V. Ryzhkov, A. N. Shapoval, and V. S. Voitsenya, J. Nucl. Mater., 329–333: 1515 (2004).",
+				"tr":  "M. Balden, A. F. Bardamid, A. I. Belyaeva, K. A. Slatin, J. W. Davis, A. A. Haasz, M. Poon, V. G. Konovalov, I. V. Ryzhkov, A. N. Shapoval, and V. S. Voitsenya, J. Nucl. Mater., 329–333: 1515 (2004)."
+			},
+			{
+				"doi": "10.1002/andp.19354160705",
+				"or":  "D. A. G. Bruggeman, Ann. Phys. Lpz., 24, No. 5: 636 (1935).",
+				"tr":  "D. A. G. Bruggeman, Ann. Phys. Lpz., 24, No. 5: 636 (1935)."
+			},
+			{
+				"doi": "10.1080/10519990701688025",
+				"or":  "V. S. Voitsenya, A. F. Bardamid, A. I. Belyaeva, V. N. Bondarenko, G. De Temmerman, V. G. Konovalov, M. Lipa, A. Litnovsky, I. V. Ryzhkov, and B. Schunke, Plasma Devices Oper., 16, No. 1: 1 (2008).",
+				"tr":  "V. S. Voitsenya, A. F. Bardamid, A. I. Belyaeva, V. N. Bondarenko, G. De Temmerman, V. G. Konovalov, M. Lipa, A. Litnovsky, I. V. Ryzhkov, and B. Schunke, Plasma Devices Oper., 16, No. 1: 1 (2008)."
+			},
+			{
+				"doi": "10.1016/j.jnucmat.2009.07.003",
+				"or":  "A. F. Bardamid, A. I. Belyaeva, J. W. Davis, M. V. Dobrotvorskaya, A. A. Galuza, L. M. Kapitоnchuk, V. G. Konovalov, I. V. Ryzhkov, A. F. Shtan’, K. A. Slatin, S. I. Solodovchenko, and V. S. Voitsenya, J. Nucl. Mater., 393, No. 3: 473 (2009).",
+				"tr":  "A. F. Bardamid, A. I. Belyaeva, J. W. Davis, M. V. Dobrotvorskaya, A. A. Galuza, L. M. Kapitonchuk, V. G. Konovalov, I. V. Ryzhkov, A. F. Shtan', K. A. Slatin, S. I. Solodovchenko, and V. S. Voitsenya, J. Nucl. Mater., 393, No. 3: 473 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "E. D. Palik, Handbook of Optical Constants of Solids (San Diego, California: Academic Press: 1997).",
+				"tr":  "E. D. Palik, Handbook of Optical Constants of Solids (San Diego, California: Academic Press: 1997)."
+			},
+			{
+				"doi": "10.1002/9780470060193",
+				"or":  "H. Fujiwara, Spectroscopic Ellipsometry: Principles and Applications (Chichester: John Wiley and Sons Ltd: 2007).",
+				"tr":  "H. Fujiwara, Spectroscopic Ellipsometry: Principles and Applications (Chichester: John Wiley and Sons Ltd: 2007)."
+			},
+			{
+				"doi": "10.1016/j.jnucmat.2005.04.066",
+				"or":  "A. I. Belyaeva, A. F. Bardamid, J. W. Davis, A. A. Haasz, V. G. Konovalov, A. D. Kudlenko, M. Poon, K. A. Slatin, and V. S. Voitsenya, J. Nucl. Mater., 345, Nos. 2–3: 101 (2005).",
+				"tr":  "A. I. Belyaeva, A. F. Bardamid, J. W. Davis, A. A. Haasz, V. G. Konovalov, A. D. Kudlenko, M. Poon, K. A. Slatin, and V. S. Voitsenya, J. Nucl. Mater., 345, Nos. 2–3: 101 (2005)."
+			},
+			{
+				"doi": "10.1080/10519990902903595",
+				"or":  "V. S. Voitsenya, A. F. Bardamid, A. I. Belyaeva, V. N. Bondarenko, A. A. Galuza, V. G. Konovalov, I. V. Ryzhkov, A. A. Savchenko, A. N. Shapoval, A. F. Shtan’, S. I. Solodovchenko, and K. I. Yakimov, Plasma Devices Oper., 17, No. 2: 144 (2009).",
+				"tr":  "V. S. Voitsenya, A. F. Bardamid, A. I. Belyaeva, V. N. Bondarenko, A. A. Galuza, V. G. Konovalov, I. V. Ryzhkov, A. A. Savchenko, A. N. Shapoval, A. F. Shtan', S. I. Solodovchenko, and K. I. Yakimov, Plasma Devices Oper., 17, No. 2: 144 (2009)."
+			},
+			{
+				"doi": "10.1007/978-1-4615-4907-9",
+				"or":  "E. Lassner and W.-D. Schubert, Tungsten: Properties, Chemistry, Technology of the Element, Alloys and Chemical Compounds (New York, US: Springer-Verlag: 1999).",
+				"tr":  "E. Lassner and W.-D. Schubert, Tungsten: Properties, Chemistry, Technology of the Element, Alloys and Chemical Compounds (New York, US: Springer-Verlag: 1999)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Missol, Poverkhnostnaya Energiya Razdela Faz v Metallakh [The Surface Energy of the Phase Interface in Metals] (Moscow: Metallurgiya: 1978) (in Russian).",
+				"tr":  "V. Missol, Poverkhnostnaya Energiya Razdela Faz v Metallakh [The Surface Energy of the Phase Interface in Metals] (Moscow: Metallurgiya: 1978) (in Russian)."
+			}
+		]
+	}
+}

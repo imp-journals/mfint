@@ -1,0 +1,182 @@
+{
+	"_id":    "MFiNT.39.10.1377",
+	"year":   2017,
+	"volume": 39,
+	"issue":  10,
+	"pages":  [1377,1393],
+	"rubric": 18,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["09.09.2017"],
+	"PACS":   "07.10.-h, 46.40.-f, 46.70.Hg, 46.80.+j, 62.20.F-, 62.20.Hg, 62.30.+d, 81.70.-q",
+	"title":   {
+		"ua": "Спосіб визначення зміни пластичних властивостей металевої платви за частотами мод натягнутої над нею струни",
+		"en": "Method of Determination of Changes of Plastic Properties of a Metal Plate by Means of Frequencies of Modes of the String Stretched above It",
+		"ru": "Способ определения изменений пластических свойств металлической пластины по частотам мод натянутой над ней струны"
+	},
+	"abstract": {
+		"ua": "Запропоновано спосіб дослідження деформаційної плазучости та релаксації сталі за їхнім впливом на моди коливань струни, яку натягнуто між двома опорами, цупко закріпленими на досліджуваній платві. Розроблено пристрій для підтримання коливань натягнутої металевої струни. Запропоновано алґоритм розрахунку безрозмірного коефіцієнта, який описує ступінь впливу пластичних властивостей металу на частоти мод натягнутої струни. Вказаний коефіцієнт дає можливість оцінювати зміни пластичних властивостей металу без використання еталонних досліджень. Проведено експериментальні дослідження впливу пластично деформованої ділянки сталевих зразків на частоти коливань мод натягнутої струни і встановлено, що пластичні деформації приводять до зростання коефіцієнта відношення частот, причому структурні зміни в сталі марки Ст3 оцінюються більшим значенням коефіцієнта, ніж зміни в трубній сталі 09Г2ФБ.",
+		"en": "The method is proposed to study deformation creep and relaxation of a metal by their influence on the vibrational modes of string stretched between two points rigidly fixed on the investigated plate. A device for supporting the vibrations of the stretched metal string is developed. An algorithm is proposed for calculating a dimensionless coefficient, which describes the degree of influence of plasticity properties of a metal on the modes’ frequencies of a strained string. The mentioned coefficient makes it possible to evaluate changes in the plasticity properties of the metal without usage of etalon studies. The practical investigations of the influence of the plastically deformed area of steel samples on the frequencies of the vibrational modes of the strained string are carried out. As determined, the structural changes in the St3 steel are estimated by the higher value of proposed coefficient than the changes in the pipe 09G2FB steel.",
+		"ru": "Предложен способ исследования деформационной текучести и релаксации стали по их влиянию на моды колебаний струны, натянутой между двумя опорами, жёстко закреплёнными на исследуемой пластине. Разработано устройство для поддержания колебаний натянутой металлической струны. Предложен алгоритм расчёта безразмерного коэффициента, который описывает степень влияния пластических свойств металла на частоты мод натянутой струны. Указанный коэффициент позволяет оценивать изменения пластических свойств металла без использования эталонных исследований. Проведены экспериментальные исследования влияния пластически деформированного участка стальных образцов на частоты колебаний мод натянутой струны и установлено, что пластические деформации приводят к росту коэффициента отношения частот, причём структурные изменения в стали марки Ст3 оцениваются большим значением коэффициента, чем изменения в трубной стали 09Г2ФБ."
+	},
+	"keywords": {
+		"ua": "коливання натягнутої струни, моди струни, пружньо-пластична деформація, деформація плазучости металу, релаксація деформації металу",
+		"en": "vibrations of the strained string, vibrating modes of string, viscoelastic deformation, creep deformation of a metal, deformation relaxation of a metal",
+		"ru": "колебания напряжённой струны, моды струны, упругопластическая деформация, деформация ползучести металла, деформационная релаксация металла"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. Й. Стрілецький", "en": "Yu. Yo. Striletskyy", "ru": "Ю. И. Стрилецкий"},
+			"OID": [245]
+		},
+		{
+			"AID": {"ua": "В. А. Ровінський", "en": "V. A. Rovinskyy", "ru": "В. А. Ровинский"},
+			"OID": [209]
+		}
+	],
+	"references": {
+		"count": 28,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "И. П. Шацкий, В. В. Перепичка, Прикл. механика техн. физика, 54, № 6: 175 (2013).",
+				"tr":  "I. Shatskii and V. Perepichka, Prikl. Mekhanika Tekhn. Fizika, 54, No. 6: 175 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "I. Shatskyi and V. Perepichka, Proc. 22nd Int. Sci. Conf. ‘Mechanika 2017’ (May 19, 2017) (Kaunas, Lithuania: 2017), p. 348.",
+				"tr":  "I. Shatskyi and V. Perepichka, Proc. 22nd Int. Sci. Conf. 'Mechanika 2017' (May 19, 2017) (Kaunas, Lithuania: 2017), p. 348."
+			},
+			{
+				"doi": "10.1007/s11223-016-9786-8",
+				"or":  "I. P. Shats’kyi, O. M. Lyskanych, and V. A. Kornuta, Strength Mater., 48, No. 3: 469 (2016).",
+				"tr":  "I. P. Shats'kyi, O. M. Lyskanych, and V. A. Kornuta, Strength Mater., 48, No. 3: 469 (2016)."
+			},
+			{
+				"doi": "10.1007/s10556-011-9370-9",
+				"or":  "A. S. Velichkovich, I. I. Popadyuk, and V. M. Shopa, Chem. Pet. Eng., 46, Iss. 9–10: 518 (2011).",
+				"tr":  "A. S. Velichkovich, I. I. Popadyuk, and V. M. Shopa, Chem. Pet. Eng., 46, Iss. 9–10: 518 (2011)."
+			},
+			{
+				"doi": "10.1007/s10556-015-0022-3",
+				"or":  "A. S. Velichkovich and T. M. Dalyak, Chem. Pet. Eng., 51, Iss. 3–4: 188 (2015).",
+				"tr":  "A. S. Velichkovich and T. M. Dalyak, Chem. Pet. Eng., 51, Iss. 3–4: 188 (2015)."
+			},
+			{
+				"doi": "10.15587/1729-4061.2017.65718",
+				"or":  "O. Vlasiy, V. Mazurenko, L. Ropyak, and O. Rogal, Eastern-Eur. J. Enterprise Technol., 1, No. 1(85): 25 (2017).",
+				"tr":  "O. Vlasiy, V. Mazurenko, L. Ropyak, and O. Rogal, Eastern-Eur. J. Enterprise Technol., 1, No. 1(85): 25 (2017)."
+			},
+			{
+				"doi": "10.15587/1729-4061.2016.66193",
+				"or":  "I. Steliga, J. Grydzhuk, and A. Dzhus, Eastern-Eur. J. Enterprise Technol., 2, No. 7 (80): 20 (2016).",
+				"tr":  "I. Steliga, J. Grydzhuk, and A. Dzhus, Eastern-Eur. J. Enterprise Technol., 2, No. 7 (80): 20 (2016)."
+			},
+			{
+				"doi": "10.15407/mfint.38.12.1655",
+				"or":  "К. Г. Левчук, В. М. Мойсишин, І. В. Цідило, Металлофиз. новейшие технол., 38, № 12: 1655 (2016).",
+				"tr":  "K. G. Levchuk, V. M. Moisyshyn, I. V. Tsidylo, Metallofiz. Noveishie Tekhnol., 38, No. 12: 1655 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "10.2516/ogst/2017024",
+				"or":  "V. Moisyshyn and K. Levchuk, Oil Gas Sci. Technol., 72, No. 5: 27-1 (2017).",
+				"tr":  "V. Moisyshyn and K. Levchuk, Oil Gas Sci. Technol., 72, No. 5: 27-1 (2017)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. С. Саакиян, А. П. Ефремов, Л. Я. Ропяк, А. В. Горбатский, Физ.-хим. механика матер., 23, № 3: 40 (1987).",
+				"tr":  "L. S. Saakiyan, A. P. Efremov, L. Ya. Ropyak, and A. V. Horbatskyi, Fiz.-Khim. Mekhanika Mater., 23, No. 3: 40 (1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. С. Саакиян, А. П. Ефремов, Л. Я. Ропяк, Защита металлов, 25, № 2: 233 (1989).",
+				"tr":  "L. S. Saakiyan, A. P. Efremov, and L. Ya. Ropyak, Zashchita Metallov, 25, No. 2: 233 (1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Л. Бернштейн, В. А. Займовский, Структура и механические свойства металлов (Москва: Металлургия: 1970).",
+				"tr":  "M. L. Bernshtein and V. A. Zaimovskiy, Structura i Mekhanicheskie Svoystva Metallov (Moscow: Metallurgiya: 1970) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. А. Коллинз, Повреждение материалов в конструкциях. Анализ, предсказание, предотвращение (Москва: Мир: 1984).",
+				"tr":  "D. A. Collins, Povrezhdenie Materialov v Konstruktsiyakh. Analiz, Predskazanie, Predotvrashchenie (Moscow: Mir: 1984) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Lakes, Viscoelasticity Notes Adapted from Viscoelastic Materials, http://silver.neep.wisc.edu/~lakes/VEnotes.html",
+				"tr":  "R. Lakes, Viscoelasticity Notes Adapted from Viscoelastic Materials, http://silver.neep.wisc.edu/~lakes/VEnotes.html"
+			},
+			{
+				"doi": "10.1243/03093247JSA602",
+				"or":  "O. Scott-Emuakpor, T. George, C. Cross, and M.-H.H. Shen, J. Strain Anal. Eng. Des., 45, Iss. 4: 275 (2010).",
+				"tr":  "O. Scott-Emuakpor, T. George, C. Cross, and M.-H. H. Shen, J. Strain Anal. Eng. Des., 45, Iss. 4: 275 (2010)."
+			},
+			{
+				"doi": "10.1016/j.ijfatigue.2015.06.003",
+				"or":  "S. K. Paul, N. Stanford, A. Taylor, and T. Hilditch, Int. J. Fatigue, 80: 341 (2015).",
+				"tr":  "S. K. Paul, N. Stanford, A. Taylor, and T. Hilditch, Int. J. Fatigue, 80: 341 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "Прочность. Устойчивость. Колебания: Справочник (Ред. И. А. Биргер, Я. Г. Пановко) (Москва: Машиностроение: 1968), т. 3.",
+				"tr":  "Prochnost. Ustoychivost. Kolebaniya: Spravochnik (Eds. I. A. Birger and Ya. G. Panovko) (Moscow: Mashinostroenie: 1968), vol. 3 (in Russian)."
+			},
+			{
+				"doi": "10.5510/OGP20170200312",
+				"or":  "К. Г. Левчук, SOCAR Proc., Iss. 2: 23 (2017).",
+				"tr":  "K. G. Levchuk, SOCAR Proc., Iss. 2: 23 (2017) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Й. Стрілецький, Методи та прилади контролю якості, № 37: 79 (2016).",
+				"tr":  "Yu. Yo. Striletskyy, Metody ta Prylady Kontrolyu Yakosti, No. 37: 79 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Панасюк, Механіка руйнування і міцність матеріалів (Львів: Фіз.-механ. інститут ім. Г. В. Карпенка НАН України: 2001), т. 5.",
+				"tr":  "V. V. Panasyuk, Mekhanika Ruynuvannya i Mitsnist Materialiv (Lviv: Fiz.-Mekhan. Instytut im. G. V. Karpenka NAN Ukrayiny: 2001), vol. 5 (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Лэмб, Динамическая теория звука (Москва: Гос. изд. физ.-мат. лит.: 1960).",
+				"tr":  "H. Lamb, Dinamicheskaya Teoriya Zvuka [The Dynamical Theory of Sound] (Moscow: Gos. Izd. Fiz.-Mat. Lit.: 1960) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Ф. Крауфорд, Волны (Москва: Наука: 1984).",
+				"tr":  "F. S. Crawford, Jr., Volny [Waves] (Moscow: Nauka: 1984) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. Г. Пановко, Введение в теорию механических колебаний (Москва: Наука: 1991).",
+				"tr":  "Ya. G. Panovko, Vvedenie v Teoriyu Mekhanicheskikh Kolebaniy (Moscow: Nauka: 1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Мейз, Теория и задачи механики сплошных сред (Москва: Мир: 1974).",
+				"tr":  "G. E. Mase, Teoriya i Zadachi Mekhaniki Sploshnykh Sred [Theory and Problems of Continuum Mechanics] (Moscow: Mir: 1974) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Mobility analogy, http://www.wikiwand.com/en/Mobility_analogy",
+				"tr":  "Mobility Analogy, http://www.wikiwand.com/en/Mobility_analogy"
+			},
+			{
+				"doi": "10.1088/0960-1317/6/3/009",
+				"or":  "H. A. C. Tilmans, J. Micromech. Microeng., 6, No. 3: 359 (1996).",
+				"tr":  "H. A. C. Tilmans, J. Micromech. Microeng., 6, No. 3: 359 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "И. С. Гоноровский, Радиотехнические цепи и сигналы (Москва: Радио и связь: 1986).",
+				"tr":  "I. S. Gonorovskiy, Radiotechnicheskie Tsepi i Signaly (Moscow: Radio i Svyaz: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "ГОСТ 1497-84. Металлы. Методы испытаний на растяжение (Москва: ИПК стандартов: 1986).",
+				"tr":  "GOST 1497-84. Metally. Metody Ispytaniy na Rastyazhenie (Moscow: IPK Standartov: 1986) (in Russian)."
+			}
+		]
+	}
+}

@@ -1,0 +1,1188 @@
+{
+	"_id":    "MFiNT.40.01.0045",
+	"year":   2018,
+	"volume": 40,
+	"issue":  1,
+	"pages":  [45,137],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["15.09.2017"],
+	"PACS":   "02.60.Cb, 45.20.dc, 62.20.Qp, 62.25.-g, 81.05.Bx, 89.20.Bb, 89.20.Kk",
+	"title":   {
+		"ua": "Технічні засоби та технології вивільнення прихопленої металевої бурильної колони",
+		"en": "Engineering Tools and Technologies of Freeing of the Stuck Metal Drilling String",
+		"ru": "Технические средства и технологии освобождения прихваченной металлической бурильной колонны"
+	},
+	"abstract": {
+		"ua": "З метою залучення більш широкого кола металофізиків до пошуку нових та удосконалення наявних матеріялів у сфері нафтогазовидобування проведено огляд наявних технічних засобів і конструкцій механізмів, що використовуються при ліквідації прихоплень металевого бурильного інструменту. Виконано бібліографічний огляд сучасних технологій вивільнення прихопленої бурильної колони механічними способами, а також наявних математичних моделів процесів ліквідації прихоплень бурильного інструменту. Розглянуто фізичні та математичні динамічні моделі бурової установки та технічних засобів боротьби з ускладненнями й аваріями. Проведено аналізу наявних метод і математичних моделів для вивчення динаміки роботи металевої бурильної колони при геологорозвідувальних роботах і бурінні.",
+		"en": "In order to increase the involvement of metallophysicists in the search for new materials and improving used ones in the field of oil-and-gas production, in the presented article, the review of available engineering tools and designs of gears, which are used for releasing of the stuck metal drilling tools, is given. A bibliographic reviewing of both state-of-the-art technologies of freeing of the stuck drilling string by means of the machine-driven methods and available mathematical models of processes of releasing of the stuck drilling tools is carried out. The physical and mathematical dynamical models of both drilling rig and engineering tools for effort to bring down problems and accidents are considered. An analysis of available methods and mathematical models for studying the operating dynamics of the metal drilling string during geological exploration work and well drilling is made.",
+		"ru": "С целью привлечения более широкого круга металлофизиков к поиску новых и усовершенствованию используемых материалов в сфере нефтегазодобычи проведён обзор имеющихся технических средств и конструкций механизмов, используемых для ликвидации прихватов металлического бурильного инструмента. Выполнен библиографический обзор современных технологий освобождения прихваченной бурильной колонны механическими способами, а также имеющихся математических моделей процессов ликвидации прихватов бурильного инструмента. Рассмотрены физические и математические динамические модели буровой установки и технических средств борьбы с осложнениями и авариями. Проведён анализ имеющихся методов и математических моделей для изучения динамики работы металлической бурильной колонны при геологоразведке и бурении."
+	},
+	"keywords": {
+		"ua": "буріння, прихоплення, буровий розчин, удар, вібрація, бурильний інструмент, металева бурильна колона",
+		"en": "drilling, stuck, drilling liquor, impact, vibration, drilling tool, metal drill string",
+		"ru": "бурение, прихват, буровой раствор, удар, вибрация, бурильный инструмент, металлическая бурильная колона"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "К. Г. Левчук", "en": "K. G. Levchuk", "ru": "Е. Г. Левчук"},
+			"OID": [245]
+		}
+	],
+	"references": {
+		"count": 230,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Справочник инженера по бурению (Ред. В. И. Мищевич, К. А. Сидоров) (Москва: Недра: 1984), т. 1.",
+				"tr":  "Spravochnik Inzhenera po Bureniyu (Eds. V. I. Mishchevich and K. A. Sidorov) (Moscow: Nedra: 1984), vol. 1 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Бурение нефтяных и газовых скважин: Справочник (Ред. В. Г. Ясов, Г. Н. Семенцов) (Ужгород: Карпаты: 1983).",
+				"tr":  "Burenie Neftyanykh i Gazovykh Skvazhin: Spravochnik (Eds. V. G. Yasov and G. N. Sementsov) (Uzhhorod: Karpaty: 1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Mitchell, Rig Math (Drilbert Engineering Inc.: Technical Training for the Drilling Industry: 2003).",
+				"tr":  "J. Mitchell, Rig Math (Drilbert Engineering Inc.: Technical Training for the Drilling Industry: 2003)."
+			},
+			{
+				"doi": "",
+				"or":  "Newbuild Report: A Flurry of New Rig Orders Worldwide Shows Faith in a Strong Market for Several Years to Com, World Oil, December 2006.",
+				"tr":  "Newbuild Report: A Flurry of New Rig Orders Worldwide Shows Faith in a Strong Market for Several Years to Com, World Oil, December 2006."
+			},
+			{
+				"doi": "",
+				"or":  "Н. В. Степанов. Моделирование и прогноз осложнений при бурении скважин (Москва: Недра: 1989).",
+				"tr":  "N. V. Stepanov. Modelirovanie i Prognoz Oslozhneniy pri Burenii Skvazhin (Moscow: Nedra: 1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. К. Самотой, И. А. Серенко. Исследование причин возникновения прихватов, совершенствование способов их предупреждения и ликвидации. Тематические научно-технические обзоры (Москва: ВНИИОЭНГ: 1979).",
+				"tr":  "A. K. Samotoy and I. A. Serenko. Issledovanie Prichin Vozniknoveniya Prikhvatov, Sovershenstvovanie Sposobov Ih Preduprezhdeniya i Likvidatsii. Tematicheskie Nauchno-Tekhnicheskie Obzory (Moscow: VNIIOENG: 1979) (in Russian)."
+			},
+			{
+				"doi": "10.2118/99181-MS",
+				"or":  "P. Jogi, J. D. MacPherson, M. Neubertet, H. Reckmann, and G. Heisig, IADC/SPE Drilling Conference (Febr. 21-23, 2006, Miami, Florida, USA).",
+				"tr":  "P. Jogi, J. D. MacPherson, M. Neubertet, H. Reckmann, and G. Heisig, IADC/SPE Drilling Conference (Febr. 21-23, 2006, Miami, Florida, USA)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Абатуров, Бурение в сложных геологических условиях. Часть 1. Аварии, их предупреждение и ликвидация: курс лекций (Тюмень: ТюмГНГУ: 1995).",
+				"tr":  "V. G. Abaturov, Burenie v Slozhnykh Geologicheskikh Usloviyakh. Chast 1. Avarii, Ih Preduprezhdenie i Likvidatsiya: Kurs Lektsiy (Tyumen: TyumGNGU: 1995) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Правила безопасности в нефтяной и газовой промышленности (Москва: Госгортехнадзор России: 1993).",
+				"tr":  "Pravila Bezopasnosti v Neftyanoy i Gazovoy Promyshlennosti (Moscow: Gosgortekhnadzor Rossii: 1993) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Ясов, А. В. Аниськовцев, Е. П. Жуйков, А. Г. Казаков, Применение жидкостных ванн при ликвидации прихватов бурильной колонны (Москва: ВНИИОЭНГ: 1989).",
+				"tr":  "V. G. Yasov, A. V. Aniskovtsev, E. P. Zhuykov, and A. G. Kazakov, Primenenie Zhidkostnykh Vann pri Likvidatsii Prikhvatov Burilnoy Kolonny (Moscow: VNIIOEG: 1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Ясов, Осложнения и аварии при бурении нефтяных и газовых скважин: Учебн. пособие (Ивано-Франковск: ИФДТУНГ: 1999).",
+				"tr":  "V. G. Yasov, Oslozhneniya i Avarii pri Burenii Neftyanykh i Gazovykh Skvazhin: Uchebn. Posobie (Ivano-Frankovsk: IFDTUNH: 1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. Алликвандер, Современное глубокое бурение (Москва: Недра: 1969).",
+				"tr":  "E. Allikvander, Sovremennoe Glubokoe Burenie (Moscow: Nedra: 1969) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Бражников, А. А. Фурнэ, Информационное обеспечение оптимального управления бурением скважин (Москва: Недра: 1989).",
+				"tr":  "V. A. Brazhnikov and A. A. Furne, Informatsionnoe Obespechenie Optimalnogo Upravleniya Bureniem Skvazhin (Moscow: Nedra: 1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Є. І. Крижанівський, В. М. Мойсишин, М. М. Яворський, Розвідка та розробка нафтових і газових родовищ, 14, № 1: 5 (2005).",
+				"tr":  "Ye. I. Kryzhanivsky, V. M. Moisyshyn, and M. M. Yavorsky, Rozvidka ta Rozrobka Naftovykh i Gazovykh Rodovyshch, 14, № 1: 5 (2005) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. М. Мардонов, А. Б. Бараев, Н. М. Ахметов, Прикладные задачи механики бурения нефтегазовых скважин (Шымкент: 2013).",
+				"tr":  "B. M. Mardonov, A. B. Baraev, and N. M. Akhmetov, Prikladnye Zadachi Mekhaniki Bureniya Neftegazovykh Skvazhin (Shymkent: 2013) (in Russian)."
+			},
+			{
+				"doi": "10.2516/ogst:2004025",
+				"or":  "O. Vincké and C. Mabile, Oil & Gas Science and Technology, 59, No. 4: 343 (2004).",
+				"tr":  "O. Vincké and C. Mabile, Oil & Gas Science and Technology, 59, No. 4: 343 (2004)."
+			},
+			{
+				"doi": "10.2118/14785-PA",
+				"or":  "D. A. Smalling and R. L. Myers II, SPE Drilling Engineering, 3, Iss. 2: 141 (1988).",
+				"tr":  "D. A. Smalling and R. L. Myers II, SPE Drilling Engineering, 3, Iss. 2: 141 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "M. E. Cobern and M. E. Wassell, Drilling Vibration Monitoring & Control System (APS Technology: Inc. 800 Corporate Row Cromwell: CT 06416: USA).",
+				"tr":  "M. E. Cobern and M. E. Wassell. Drilling Vibration Monitoring & Control System (APS Technology: Inc. 800 Corporate Row Cromwell: CT 06416: USA)."
+			},
+			{
+				"doi": "",
+				"or":  "Ш. М. Айталиев, Б. М. Мардонов, И. И. Джанзаков, Изв. Министерства науки Академии наук РК. Сер. физ.-мат. науки, № 5: 81 (1998).",
+				"tr":  "Sh. M. Aytaliev, B. M. Mardonov, and I. I. Dzhanzakov, Izv. Ministerstva Nauki Akademii Nauk RK. Ser. Fiz.-Mat. Nauki, No. 5: 81 (1998) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. К. Аладинская, Изв. вузов. Геология и разведка, № 10: 147 (1975).",
+				"tr":  "G. K. Aladinskaya, Izv. Vuzov. Geologiya i Razvedka, No. 10: 147 (1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. В. Иогансен, Спутник буровика: Справочник (Москва: Недра: 1990).",
+				"tr":  "K. V. Iogansen, Sputnik Burovika: Spravochnik (Moscow: Nedra: 1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. М. Курочкин, Техника и технология ликвидации осложнений при бурении и капитальном ремонте скважин (Москва: ОАО «ВНИИОЭНГ»: 2008).",
+				"tr":  "B. M. Kurochkin, Tekhnika i Tekhnologiya Likvidatsii Oslozhneniy pri Burenii i Kapitalnom Remonte Skvazhin (Moscow: OAO 'VNIIOENG': 2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Молдавцев, В. І. Векерик, Динаміка шарошкового долота і бурильного інструменту в процесі буріння (Івано-Франківськ: Факел: 2006).",
+				"tr":  "S. A. Moldavtsev and V. I. Vekeryk, Dynamika Sharoshkovogo Dolota i Burylnogo Instrumentu v Protsesi Burinnya (Ivano-Frankivsk: Fakel: 2006) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Москвин, Научные проблемы Волго-Уральского региона. Технические и естественные аспекты: Сб. науч. тр. (Уфа: УГНТУ: 2000), т. 2, с. 102.",
+				"tr":  "S. A. Moskvin, Nauchnye Problemy Volgo-Uralskogo Regiona. Tekhnicheskie i Estestvennye Aspekty: Sb. Nauch. Tr. (Ufa: UGNTU: 2000), Vol. 2, p. 102 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Мэнли, Анализ и обработка записей колебаний (Москва: 1972).",
+				"tr":  "R. Menli, Analiz i Obrabotka Zapisey Kolebaniy (Moscow: 1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. И. Огородников, Управление углублением забоя скважины на базе изучения динамических процессов в бурильной колонне (Дис. … д-ра техн. наук) (Москва: ГАНГ им. Губкина: 1991).",
+				"tr":  "P. I. Ogorodnikov, Upravlenie Uglubleniem Zaboya Skvazhiny na Baze Izucheniya Dinamicheskikh Protsessov v Burilnoy Kolonne (Disser. ... for Dr. Tech. Sci.) (Moscow: Gubkin Russian State Univ. Oil Gas: 1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. К. Самотой, Прихваты колонн при бурении скважин (Москва: Недра: 1984).",
+				"tr":  "A. K. Samotoy, Prikhvaty Kolonn pri Burenii Skvazhin (Moscow: Nedra: 1984) (in Russian)."
+			},
+			{
+				"doi": "10.2118/98107-MS",
+				"or":  "R. K. Hodgson and P. Hassard, IADC/SPE Drilling Conference (21–23 February, 2006) (Miami: Florida: USA).",
+				"tr":  "R. K. Hodgson and P. Hassard, IADC/SPE Drilling Conference (21–23 February, 2006) (Miami: Florida: USA)."
+			},
+			{
+				"doi": "",
+				"or":  "G. W. Massie, J. Castle-Smith, J. W. Lee, and M. S. Ramsey, Pet. Eng. Int., 67, Iss. 1: 48 (1995).",
+				"tr":  "G. W. Massie, J. Castle-Smith, J. W. Lee, and M. S. Ramsey, Pet. Eng. Int., 67, Iss. 1: 48 (1995)."
+			},
+			{
+				"doi": "10.1016/j.jsv.2007.06.037",
+				"or":  "E. M. Navarro-López and D. Cortés, J. Sound Vib., 307, Iss. 1-2: 152 (2007).",
+				"tr":  "E. M. Navarro-López and D. Cortés, J. Sound Vib., 307, Iss. 1-2: 152 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Р. Рабинович, Инженерные задачи механики сплошной среды в бурении (Москва: Недра: 1989).",
+				"tr":  "N. R. Rabinovich, Inzhenernye Zadachi Mekhaniki Sploshnoy Sredy v Burenii (Moscow: Nedra: 1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. А. Андресон, Р. Г. Абдрахманов, А. У. Шарипов, Г. П. Бочкарёв, Экологически чистые смазочные добавки для приготовления буровых растворов (Москва: ВНИИОЭНГ: 1991).",
+				"tr":  "B. A. Andreson, R. G. Abdrakhmanov, A. U. Sharipov, and G. P. Bochkaryov, Ekologicheski Chistye Smazochnye Dobavki dlya Prigotovleniya Burovykh Rastvorov (Moscow: VNIIOENG: 1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. П. Пустовойтенко, Предупреждение и ликвидация аварий в бурении (Москва: Недра: 1988).",
+				"tr":  "I. P. Pustovoytenko, Preduprezhdenie i Likvidatsiya Avariy v Burenii (Moscow: Nedra: 1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. К. Самотой, Предупреждение и ликвидация прихватов труб при бурении скважин (Москва: Недра: 1979).",
+				"tr":  "A. K. Samotoy, Preduprezhdenie i Likvidatsiya Prikhvatov Trub pri Burenii Skvazhin (Moscow: Nedra: 1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Инструкция по борьбе с прихватами колонн труб при бурении скважин (Москва: Недра: 1976).",
+				"tr":  "Instruktsiya po Borbe s Prikhvatami Kolonn Trub pri Burenii Skvazhin (Moscow: Nedra: 1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. К. Сеид-Рза, Н. М. Шерстнев, А. О. Бабаев, А. А. Григорян, А. А. Хачатуров, Причины прихватов бурильного инструмента, способы их предупреждения и ликвидации (Баку: Азернешр: 1975).",
+				"tr":  "M. K. Seid-Rza, N. M. Sherstnyov, A. O. Babaev, A. A. Grigoryan, and A. A. Khachaturov, Prichiny Prikhvatov Burilnogo Instrumenta, Sposoby Ih Preduprezhdeniya i Likvidatsii (Baku: Azerneshr: 1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Булатов, А. Г. Аветисов, Справочник инженера по буре нию, т. 1, т. 2 (Москва: Недра: 1985).",
+				"tr":  "A. I. Bulatov and A. G. Avetisov, Spravochnik Inzhenera po Bureniyu (Moscow: Nedra: 1985), vol. 1 and 2 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Мойсишин, Б. Д. Борисевич, Р. Б. Щербій, А. І. Бандура, І. Р. Михайлюк, Розвідка та розробка нафтових і газових родовищ, 46, № 1: 66 (2013).",
+				"tr":  "V. M. Moisyshyn, B. D. Borysevych, R. B. Shcherbiy, A. I. Bandura, and I. R. Mykhaylyuk, Rozvidka ta Rozrobka Naftovykh i Gazovykh Rodovyshch, 46, No. 1: 66 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Булатов, Ю. М. Проселков, В. И. Рябченко, Технология промывки скважин (Москва: Недра: 1981).",
+				"tr":  "A. I. Bulatov, Yu. M. Proselkov, and V. I. Ryabchenko, Tekhnologiya Promyvki Skvazhin (Moscow: Nedra: 1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Мойсишин, Е. М. Барановський, С. В. Гошовський, Закономірність зміни напруженого стану масиву гірських порід, що знаходиться у гранично напруженому стані, при бурінні глибоких свердловин: Наукове відкриття (Диплом №395: 27.04.2010).",
+				"tr":  "V. M. Moisyshyn, E. M. Baranovskyi, and S. V. Hoshovskyi, Zakonomirnist Zminy Napruzhenogo Stanu Masyvu Girskykh Porid, shcho Znakhodytsya u Granychno Napruzhenomu Stani, pry Burinni Glybokykh Sverdlovyn: Naukove Vidkryttya (Diploma No. 395: 27.04.2010) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Шавранський, Наук. вісн. Івано-Франківського нац. техн. ун-ту нафти і газу, 1, № 1: 87 (2001).",
+				"tr":  "M. V. Shavransky, Nauk. Visn. Ivano-Frankivsk Nat. Tech. Univ. Oil Gas, 1, No. 1: 87 (2001) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Лягов, Нефт. хоз-во, № 6: 68 (2004).",
+				"tr":  "A. V. Lyagov, Neft. Khoz-vo, No. 6: 68 (2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. М. Бабаков, Теория колебаний (Москва: Наука: 1968).",
+				"tr":  "I. M. Babakov, Teoriya Kolebaniy (Moscow: Nauka: 1968) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. Хуань, Д. В. Деринг, Тр. АОИМ: Конструирование и технология машиностроения, №2: 62 (1966).",
+				"tr":  "T. Huan, D. V. Dering, Tr. AOIM: Konstruirovanie i Tekhnologiya Mashinostroeniya, No. 2: 62 (1966) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "John Mitchell. Trouble-Free Drilling: Stuck Pipe Prevention (Drillbert Engineering Inc.: Technical Training for the Drilling Industry: 2001).",
+				"tr":  "John Mitchell. Trouble-Free Drilling: Stuck Pipe Prevention (Drillbert Engineering Inc.: Technical Training for the Drilling Industry: 2001)."
+			},
+			{
+				"doi": "",
+				"or":  "W. B. Bradley, D. Jarman, R. A. Auflick, R.S. Plott, R. D. Wood, T. R. Schofield, and D. Cocking, Oil Gas J., 101: 84 (1991).",
+				"tr":  "W. B. Bradley, D. Jarman, R. A. Auflick, R.S. Plott, R. D. Wood, T. R. Schofield, and D. Cocking, Oil Gas J., 101: 84 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Крылов, В. В. Крецул, C. B. Меденцев, В. А. Куксов, Нефт. хоз-во, № 11: 56 (2004).",
+				"tr":  "V. I. Krylov, V. V. Kretsul, S. V. Medentsev, and V. A. Kuksov, Neft. Khoz-vo, No. 11: 56 (2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. І. Оринчак, О. С. Бейзик, А. Р. Юрич, В. В. Гриців, Ускладнення та аварії в бурінні. Практикум (Івано-Франківськ: ІФНТУНГ: 2015).",
+				"tr":  "M. I. Orynchak, O. S. Beyzyk, A. R. Yurych, and V. V. Hrytsiv, Uskladnennya ta Avariyi v Burinni. Praktykum (Ivano-Frankivsk: IFNTUNH: 2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. О. Слабий, Прикарпат. вісн. НТШ. Число, 21, № 1: 256 (2013).",
+				"tr":  "O. O. Slaby, Prykarpat. Visn. NTSh. Chyslo, 21, No. 1: 256 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Барабашкин, Я. В. Кунцяк, Г. Ф. Перлов, Науч. тр. ВНИИБТ: Машины и нефтяное оборудование, вып. 8: 5 (1980).",
+				"tr":  "I. I. Barabashkin, Ya. V. Kuntsyak, and G. F. Perlov, Nauch. Tr. VNIIBT: Mashiny i Neftyanoe Oborudovanie, Iss. 8: 5 (1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. М. Барановський, В. М. Мойсишин, Нафтогазова енергетика, 4, № 3: 21 (2007).",
+				"tr":  "E. M. Baranovsky and V. M. Moisyshyn, Naftogazova Energetyka, 4, No. 3: 21 (2007) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. М. Барановський, В. М. Мойсишин, Розвідка та розробка нафтових і газових родовищ, 19, № 2: 37 (2006).",
+				"tr":  "E. M. Baranovsky and V. M. Moisyshyn, Rozvidka ta Rozrobka Naftovykh i Gazovykh Rodovyshch, 19, № 2: 37 (2006) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. И. Барон, Характеристики трения горных пород (Москва: Наука: 1967).",
+				"tr":  "L. I. Baron, Kharakteristiki Treniya Gornykh Porod (Moscow: Nauka: 1967) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Джанзаков, Ш. И. Умедов, Нефть и газ, № 4: 23 (1998).",
+				"tr":  "I. I. Dzhanzakov and Sh. I. Umedov, Neft i Gaz, No. 4: 23 (1998) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. М. Барановський, В. М. Мойсишин, Розвідка та розробка нафтових і газових родовищ, 22, № 1: 103 (2007).",
+				"tr":  "E. M. Baranovsky and V. M. Moisyshyn, Rozvidka ta Rozrobka Naftovykh i Gazovykh Rodovyshch, 22, No. 1: 103 (2007) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. К Белан, В. Я. Симкин, РНТС: Машины и нефтяное оборудование, № 2: 17 (1973).",
+				"tr":  "V. K Belan and V. Ya. Simkin, RNTS: Mashiny i Neftyanoe Oborudovanie, No. 2: 17 (1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Колесников, Н. Я. Мелентьев, Искривление скважин (Москва: Недра: 1981).",
+				"tr":  "N. A. Kolesnikov and N. Ya. Melentev, Iskrivlenie Skvazhin (Moscow: Nedra: 1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. К. Майоров, Нефт. хоз-во, № 4: 28 (1966).",
+				"tr":  "I. K. Mayorov, Neft. Khoz-vo, No. 4: 28 (1966) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Мойсишин, Розвідка та розробка нафтових і газових родовищ, 35, Вип. 2: 15 (1998).",
+				"tr":  "V. M. Moisyshyn, Rozvidka ta Rozrobka Naftovykh i Gazovykh Rodovyshch, 35, No. 2: 15 (1998) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Мойсишин, В. І. Векерик, Прикарпат. вісн. НТШ. Число, 13, № 1: 56 (2011).",
+				"tr":  "V. M. Moisyshyn and V. I. Vekeryk, Prykarpat. Visn. NTSh. Chyslo, 13, No. 1: 56 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Галинов, А. К. Самотой, Гидродинамические способы ликвидации прихватов бурильных колонн (Москва: ВНИИОЭНГ: 1981).",
+				"tr":  "A. I. Galinov and A. K. Samotoy, Gidrodinamicheskie Sposoby Likvidatsii Prikhvatov Burilnykh Kolonn (Moscow: VNIIOEHG: 1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. К. Самотой, Анализ эффективности способов ликвидации прихватов. Обзор, информ. (Москва: ВНИИОЭНГ: 1983).",
+				"tr":  "A. K. Samotoy, Analiz Effektivnosti Sposobov Likvidatsii Prikhvatov. Obzor, Inform. (Moscow: VNIIOEHG: 1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "З. А. Сахаров, Ликвидация прихватов при бурении скважин (Москва: Недра: 1976).",
+				"tr":  "Z. A. Sakharov, Likvidatsiya Prikhvatov pri Burenii Skvazhin (Moscow: Nedra: 1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Борецкий, В. И. Векерик, С. В. Ненашев, Б. Д. Борисевич, Б. М. Романчук, Нефтяная промышленность, Вып. 2: 31 (1985).",
+				"tr":  "V. G. Boretskiy, V. I. Vekerik, S. V. Nenashev, B. D. Borisevich, and B. M. Romanchuk, Neftyanaya Promyshlennost, Iss. 2: 31 (1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Д. Борисевич, В. М. Мойсишин, Р. Б. Щербій, Б. В. Долішній, Розвідка та розробка нафтових і газових родовищ, 32, № 3: 23 (2009).",
+				"tr":  "B. D. Borysevych, V. M. Moisyshyn, R. B. Shcherbiy, and B. V. Dolishniy, Rozvidka ta Rozrobka Naftovykh i Gazovykh Rodovyshch, 32, No. 3: 23 (2009) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Д. Борисевич, В. М. Мойсишин, Р. Б. Щербій, Б. В. Долішній, Розвідка та розробка нафтових і газових родовищ, 33, № 4: 18 (2009).",
+				"tr":  "B. D. Borysevych, V. M. Moisyshyn, R. B. Shcherbiy, and B. V. Dolishniy, Rozvidka ta Rozrobka Naftovykh i Gazovykh Rodovyshch, 33, No. 4: 18 (2009) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Ясoв, М. А. Мыслюк, Осложнения в бурении: Справочное пособие (Москва: Недра: 1991).",
+				"tr":  "V. G. Yasov and M. A. Myslyuk, Oslozhneniya v Burenii: Spravochnoe Posobie (Moscow: Nedra: 1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Н. Гулизаде, К. Б. Шахбазбеков, Д. С. Йорданов, Изв. вузов. Нефть и газ, № 8: 13 (1965).",
+				"tr":  "M. N. Gulizade, K. B. Shakhbazbekov, and D. S. Yordanov, Izv. Vuzov. Neft i Gaz, No. 8: 13 (1965) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Руководство по технологиям буровых растворов компании «Baroid».",
+				"tr":  "Rukovodstvo po Tekhnologiyam Burovykh Rastvorov Kompanii 'Baroid' (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. С. Коцкулич, О. В. Тищенко, Закінчування свердловин (Київ: Інтерпрес ЛТД: 2004).",
+				"tr":  "Ya. S. Kotskulych and O. V. Tyshchenko, Zakinchuvannya Sverdlovyn (Kyiv: Interpres LTD: 2004) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Симонов, Б. А. Творогов, Тр. ЗапСибНИГНИ, вып. 14: 44 (1979).",
+				"tr":  "V. I. Simonov and B. A. Tvorogov, Tr. ZapSibNIGNI, Iss. 14: 44 (1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Security Introduces the ‘Very Good’ Drilling Absorber, World Oil, January: 116 (1977).",
+				"tr":  "Security Introduces the 'Very Good' Drilling Absorber, World Oil, January: 116 (1977)."
+			},
+			{
+				"doi": "10.2118/5267-PA",
+				"or":  "N. Woodall-Mason and J. R. Tilbe, J. Petr. Techn., 28, Iss. 8 (1976).",
+				"tr":  "N. Woodall-Mason and J. R. Tilbe, J. Petr. Techn., 28, Iss. 8 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "Инструкция по освобождению прихваченного бурильного инструмента торпедированием (Ленинград: Недра: 1970).",
+				"tr":  "Instruktsiya po Osvobozhdeniyu Prikhvachennogo Burilnogo Instrumenta Torpedirovaniem (Leningrad: Nedra: 1970) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ф. А. Ангоба, Тр. АОИМ: Конструирование и технология машиностроения, № 2: 8 (1965).",
+				"tr":  "F. A. Angoba, Tr. AOIM: Konstruirovanie i Tekhnologiya Mashinostroeniya, No. 2: 8 (1965) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ф. Г. Бевзюк, Тр. УкрГИПРОНИИнефть, Вып. 97: 57 (1976).",
+				"tr":  "F. G. Bevzyuk, Tr. UkrGIPRONIIneft, Iss. 97: 57 (1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. С. Васильев, Э. П. Кайданов, В. А. Кильдебеков, Тр. ВНИИБТ, № 41: 156 (1978).",
+				"tr":  "Ya. S. Vasilev, E. P. Kaidanov, and V. A. Kildebekov, Tr. VNIIBT, No. 41: 156 (1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Джанзаков, М. Н. Абишев, Вест. МАНЭБ, 13, № 5: 90 (2008).",
+				"tr":  "I. I. Dzhanzakov and M. N. Abishev, Vest. MANEB, 13, No. 5: 90 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Вибрации в технике (Ред. Ф. М. Диментберг, К. С. Колесников) (Москва: Машиностроение: 1980), т. 3.",
+				"tr":  "Vibratsii v Tekhnike (Eds. F. M. Dimentberg and K. S. Kolesnikov) (Moscow: Mashinostroenie: 1980), vol. 3 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Инструкция по освобождению прихваченных труб в скважинах взрывом (Москва: Недра: Всесоюзный НИИ геоф. методов разв.: 1982).",
+				"tr":  "Instruktsiya po Osvobozhdeniyu Prikhvachennykh Trub v Skvazhinakh Vzryvom (Moscow: Nedra: Vsesoyuzny NII Geof. Metodov Razv.: 1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "З. Г. Керимов, М. А. Садыхов, Изв. вузов. Нефть и газ, № 5: 29 (1975).",
+				"tr":  "Z. G. Kerimov and M. A. Sadykhov, Izv. Vuzov. Neft i Gaz, No. 5: 29 (1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Копылов, Проблемы нефти и газа Тюмени, № 42: 35 (1979).",
+				"tr":  "V. E. Kopylov, Problemy Nefti i Gaza Tyumeni, No. 42: 35 (1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Копылов, В. Г. Бойко, ИНТС: Бурение, Вып. 24: 6 (1967).",
+				"tr":  "V. E. Kopylov and V. G. Boiko, INTS: Burenie, Iss. 24: 6 (1967) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Вибрации в технике (Ред. Э. Э. Лавенделла) (Москва: Машиностроение: 1981), т. 4.",
+				"tr":  "Vibratsii v Tekhnike (Ed. E. E. Lavendella) (Moscow: Mashinostroenie: 1981), vol. 4 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. М. Мирсалимов, Т. А. Гасанов, Р. Э. Атаев, К. И. Фатуллаев, Изв. вузов. Нефть и газ, № 4: 72 (1978).",
+				"tr":  "R. M. Mirsalimov, T. A. Gasanov, R. E. Ataev, and K. I. Fatullaev, Izv. Vuzov. Neft i Gaz, No. 4: 72 (1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. І. Огородніков, В. М. Світлицький, Інтегровані технології та енергозбереження, № 3: 23 (2009).",
+				"tr":  "P. I. Ohorodnikov and V. M. Svitlytsky, Integrovani Tekhnologiyi ta Energozberezhennya, No. 3: 23 (2009) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. І. Огородніков, В. М. Світлицький, Б. М. Малярчук, Нафтова та газова промисловість, № 5: 19 (2010).",
+				"tr":  "P. I. Ohorodnikov, V. M. Svitlytsky, and B. M. Malyarchuk, Naftova ta Gazova Promyslovist, No. 5: 19 (2010) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. С. Тимофеев, М. И. Ворожбитов, В. П. Шумилов, РНТС: Машины и нефтяное оборудование, № 2: 13 (1975).",
+				"tr":  "N. S. Tymofeev, M. I. Vorozhbitov, and V. P. Shumilov, RNTS: Mashiny i Neftyanoe Oborudovanie, No. 2: 13 (1975) (in Russian)."
+			},
+			{
+				"doi": "10.1115/1.3663020",
+				"or":  "I. Finnie and J. J. Bailey, J. Eng. Ind., 82, Iss. 2: 129 (1960).",
+				"tr":  "I. Finnie and J. J. Bailey, J. Eng. Ind., 82, Iss. 2: 129 (1960)."
+			},
+			{
+				"doi": "10.2118/112650-MS",
+				"or":  "J. R. Bailey, E. Biediger, V. Gupta, D. Ertas, W. C. Elks, and F. E. Dupriest, IADC/SPE Drilling Conference (March 4-6, 2008, Orlando, Florida, USA).",
+				"tr":  "J. R. Bailey, E. Biediger, V. Gupta, D. Ertas, W. C. Elks, and F. E. Dupriest, IADC/SPE Drilling Conference (March 4-6, 2008, Orlando, Florida, USA)."
+			},
+			{
+				"doi": "10.2118/23889-PA",
+				"or":  "A. K. Booer and R. J. Meehan, SPE Drilling Completion, 8, Iss. 2: 93 (1993).",
+				"tr":  "A. K. Booer and R. J. Meehan, SPE Drilling Completion, 8, Iss. 2: 93 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "K. K. Botros, J. O’Blenes, and E. Yajure, J. Petr. Gas Eng., 5, Iss. 5: 70 (2014).",
+				"tr":  "K. K. Botros, J. O'Blenes, and E. Yajure, J. Petr. Gas Eng., 5, Iss. 5: 70 (2014)."
+			},
+			{
+				"doi": "10.2478/v10267-012-0038-x",
+				"or":  "V. Moisyshyn, V. Yacyshyn, and O. Vytyaz, Archives Min. Sci., 57, Iss. 3: 601 (2012).",
+				"tr":  "V. Moisyshyn, V. Yacyshyn, and O. Vytyaz, Archives Min. Sci., 57, Iss. 3: 601 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Каракозов, Разработка и исследование ударных механизмов для ликвидации прихватов в скважине (Автореф. дисс. … канд. техн. наук) (Донецк: Донец. полит. ин-т: 1993).",
+				"tr":  "A. A. Karakozov, Razrabotka i Issledovanie Udarnykh Mekhanizmov dlya Likvidatsii Prikhvatov v Skvazhine (Thesis of Disser. … for Dr. Tech. Sci.) (Donetsk: Donetsk. Polytech. Inst.: 1993) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "З. Г. Керимов, С. А. Багиров, Автоматизированное проектирование конструкций (Москва: Машиностроение: 1985).",
+				"tr":  "Z. G. Kerimov and S. A. Bagirov, Avtomatizirovannoe Proektirovanie Konstruktsiy (Moscow: Mashinostroenie: 1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Мойсишин, З. В. Кулинин, Розвідка і розробка нафтових і газових родовищ, 33: 207 (1996).",
+				"tr":  "V. M. Moisyshyn and Z. V. Kulinin, Rozvidka ta Rozrobka Naftovykh i Gazovykh Rodovyshch, 33: 207 (1996) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Мойсишин, З. В. Кулинин, Розвідка та розробка нафтових і газових родовищ, 9, № 4: 10 (2003).",
+				"tr":  "V. M. Moisyshyn and Z. V. Kulinin, Rozvidka ta Rozrobka Naftovykh i Gazovykh Rodovyshch, 9, No. 4: 10 (2003) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Мойсишин, З. В. Кулинин, Розвідка та розробка нафтових і газових родовищ, 10, № 1: 12 (2004).",
+				"tr":  "V. M. Moisyshyn and Z. V. Kulinin, Rozvidka ta Rozrobka Naftovykh i Gazovykh Rodovyshch, 10, No. 1: 12 (2004) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Мойсишин, З. В. Кулинин, Нафтогазова енергетика, 1, № 1: 28 (2006).",
+				"tr":  "V. M. Moisyshyn and Z. V. Kulinin, Naftogazova Energetyka, 1, No. 1: 28 (2006) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Вибрации в технике (Ред. К. В.Фролова) (Москва: Машиностроение: 1981), т. 6.",
+				"tr":  "Vibratsii v Tekhnike (Ed. K. V.Frolova) (Moscow: Mashinostroenie: 1981), vol. 6 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "D. W. Dareing and E. I. Radzimovsky, SPE J., 5, Iss. 4 (1965).",
+				"tr":  "D. W. Dareing and E. I. Radzimovsky, SPE J., 5, Iss. 4 (1965)."
+			},
+			{
+				"doi": "10.2516/ogst/2017024",
+				"or":  "V. Moisyshyn and K. Levchuk, Oil Gas Sci. Technol., 72, No. 5: 27(8) (2017).",
+				"tr":  "V. Moisyshyn and K. Levchuk, Oil Gas Sci. Technol., 72, No. 5: 27(8) (2017)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Марутов, С. А. Павловский, Гидроцилиндри (Москва: Машиностроение: 1966).",
+				"tr":  "V. A. Marutov and S. A. Pavlovskiy, Gidrotsilindry (Moscow: Mashinostroenie: 1966) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. И. Миттельман, Справочник по гидравлическим расчетам в бурении (Москва: Гостоптехиздат: 1963).",
+				"tr":  "B. I. Mittelman, Spravochnik po Gidravlicheskim Raschetam v Burenii (Moscow: Gostoptekhizdat: 1963) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Ф. Эпштейн, В. Г. Ясов, Бурение скважин гидроударниками (Москва: Недра: 1967).",
+				"tr":  "E. F. Epshtein and V. G. Yasov, Burenie Skvazhin Gidroudarnikami (Moscow: Nedra: 1967) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Bodine Albert. Torsional Sonic Oscillator Employing Universal Joints and Tandem Arranged Oscillator Rotors: Patent 4096762 USA, F26 H33/00, 74/61 (Published June 27, 1978).",
+				"tr":  "Bodine Albert. Torsional Sonic Oscillator Employing Universal Joints and Tandem Arranged Oscillator Rotors: Patent 4096762 USA, F26 H33/00, 74/61 (Published June 27, 1978)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Grinis and V. Haslavsky, Int. J. Mechan., Aerospace, Industrial, Mechatronic and Manufacturing, 7, No. 7: 1592 (2013).",
+				"tr":  "L. Grinis and V. Haslavsky, Int. J. Mechan., Aerospace, Industrial, Mechatronic and Manufacturing, 7, No. 7: 1592 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "Modelling of Hydraulic Systems. Hydraulics Library Manual and Tutorial (Modelon AB, Sweden: Maplesoft, Canada: 2013).",
+				"tr":  "Modelling of Hydraulic Systems. Hydraulics Library Manual and Tutorial (Modelon AB, Sweden: Maplesoft, Canada: 2013)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Балицкий, РНТС: Машины и нефтяное оборудование, № 11: 9 (1979).",
+				"tr":  "V. P. Balitskiy, RNTS: Mashiny i Neftyanoe Oborudovanie, No. 11: 9 (1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Бейли, Д. Фини, Тр. АОИМ: Конструирование и технология машиностроения, № 2: 8 (1963).",
+				"tr":  "D. Beili and D. Fini, Tr. AOIM: Konstruirovanie i Tekhnologiya Mashinostroeniya, No. 2: 8 (1963) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. И. Ворожбитов, РНТС: Нефт. хоз-во, № 4: 29 (1972).",
+				"tr":  "M. I. Vorozhbitov, RNTS: Neft. Khoz-vo, No. 4: 29 (1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Ф. Митчел, М. Б. Аллен, Нефть, газ и нефтехимия за рубежом, № 4: 30 (1985).",
+				"tr":  "R. F. Mitchel and M. B. Allen, Neft, Gaz i Neftekhimiya za Rubezhom, No. 4: 30 (1985) (in Russian)."
+			},
+			{
+				"doi": "10.2118/107903-PA",
+				"or":  "G. Akinniranye, A. Megat, H. Elsweisy, J. Palacio, B. Poedjono, and R. B. Goobie, SPE Drilling & Completion, 24, Iss. 2 (2009).",
+				"tr":  "G. Akinniranye, A. Megat, H. Elsweisy, J. Palacio, B. Poedjono, and R. B. Goobie, SPE Drilling & Completion, 24, Iss. 2 (2009)."
+			},
+			{
+				"doi": "10.1115/1.3231153",
+				"or":  "D. W. Dareing, J. Energy Res. Technol., 107, Iss. 1: 138 (1985).",
+				"tr":  "D. W. Dareing, J. Energy Res. Technol., 107, Iss. 1: 138 (1985)."
+			},
+			{
+				"doi": "10.2118/163420-PA",
+				"or":  "D. Ertaş, J. R. Bailey, Lei Wang, and P. E. Pastusek, SPE Drilling & Completion, 29, Iss. 4: 405 (2014).",
+				"tr":  "D. Ertaş, J. R. Bailey, Lei Wang, and P. E. Pastusek, SPE Drilling & Completion, 29, Iss. 4: 405 (2014)."
+			},
+			{
+				"doi": "10.1177/0954406212455126",
+				"or":  "A. Ghasemloonia, D. G. Rideout, S. D. Butt, J. Mech. Eng. Sci., 227, Iss. 5: 946 (2013).",
+				"tr":  "A. Ghasemloonia, D. G. Rideout, S. D. Butt, J. Mech. Eng. Sci., 227, Iss. 5: 946 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Н. Васюк, С. В. Гошовский, Породоразрушающий и металлообрабатывающий инструмент — техника и технология его изготовления и применения, вып. 14: 93 (2011).",
+				"tr":  "B. N. Vasyuk and S. V. Goshovskiy, Porodorazrushayushchiy i Metalloobrabatyvayushchiy Instrument — Tekhnika i Tekhnologiya Ego Izgotovleniya i Primeneniya, Iss. 14: 93 (2011) (in Russian)."
+			},
+			{
+				"doi": "10.2118/1919-PA",
+				"or":  "M. A. Childers, J. Petr. Tech., 20, Iss. 7: 751 (1968).",
+				"tr":  "M. A. Childers, J. Petr. Tech., 20, Iss. 7: 751 (1968)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Кемп, Ловильные работы в нефтяных скважинах. Техника и технология (Москва: Недра: 1990).",
+				"tr":  "G. Kemp, Lovilnye Raboty v Neftyanykh Skvazhinakh. Tekhnika i Tekhnologiya (Moscow: Nedra: 1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. К. Масленников, Буровой инструмент (Москва: Недра: 1989).",
+				"tr":  "I. K. Maslennikov, Burovoy Instrument (Moscow: Nedra: 1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Романенко, Повышение эффективности процесса бурения скважин на основе исследования динамического режима работы низа бурильного инструмента для условий Западной Сибири (Дисс. … канд. техн. наук) (Ивано-Франковск: ИФГТУНГ: 1985).",
+				"tr":  "V. V. Romanenko, Povyshenie Effektivnosti Protsessa Bureniya Skvazhin na Osnove Issledovaniya Dinamicheskogo Rezhima Raboty Niza Burilnogo Instrumenta dlya Usloviy Zapadnoy Sibiri (Thesis of Disser. … for Dr. Tech. Sci.) (Ivano-Frankovsk: IFGTUNG: 1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. С. Галеев, С. А. Москвин, Научные проблемы Волго-Уральского региона. Технические и естественные аспекты: Сб. науч. тр., т. 1, с. 4 (2000).",
+				"tr":  "A. S. Galeev and S. A. Moskvin, Nauchnye Problemy Volgo-Uralskogo Regiona. Tekhnicheskie i Estestvennye Aspekty: Sb. Nauch. Tr., vol. 1, p. 4 (2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Григулецкий, Изв. вузов. Нефть и газ, № 3: 27 (1978).",
+				"tr":  "V. G. Griguletskiy, Izv. Vuzov. Neft i Gaz, No. 3: 27 (1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. З. Султанов, Е. И. Ишемгужин, И. Х. Шаммасов, В. Н. Сорокин, Работа бурильной колонны в скважине (Уфа: УНИ: 1973).",
+				"tr":  "B. Z. Sultanov, E. I. Ishemguzhin, I. Kh. Shammasov and V. N. Sorokin, Rabota Burilnoy Kolonny v Skvazhine (Ufa: UNI: 1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Е. Сароян, Бурильные колонны в глубоком бурении (Москва: Недра: 1979).",
+				"tr":  "A. E. Saroyan, Burilnye Kolonny v Glubokom Burenii (Moscow: Nedra: 1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Симонов, Е. К. Юнин, Волновые процессы в бурильной колонне (Москва: МИНХ: 1979).",
+				"tr":  "V. V. Simonov and E. K. Yunin, Volnovye Protsessy v Burilnoy Kolonne (Moscow: MINH: 1979) (in Russian)."
+			},
+			{
+				"doi": "10.1115/1.3667618",
+				"or":  "R. E. Bradbury, J. C. Wilhoit, J. Eng. Ind., 85, Iss. 2: 156 (1963).",
+				"tr":  "R. E. Bradbury and J. C. Wilhoit, J. Eng. Ind., 85, Iss. 2: 156 (1963)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. В. Деринг, Б. Дж. Ливсей, Тр. АОИМ: Конструирование и технология машиностроения, № 4: 163 (1968).",
+				"tr":  "D. V. Dering and B. Dzh. Livsey, Tr. AOIM: Konstruirovanie i Tekhnologiya Mashinostroeniya, No. 4: 163 (1968) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "З. Г. Керимов, Динамические расчеты бурильной колонны (Москва: Недра: 1970).",
+				"tr":  "Z. G. Kerimov, Dinamicheskie Raschety Burilnoy Kolonny (Moscow: Nedra: 1970) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Х. Мирзаджанзаде, З. Г. Керимов, М. Г. Копейкис, Теория колебаний в нефтепромысловом деле (Москва-Ижевск: Ин-т комп. исслед.: 2005).",
+				"tr":  "A. Kh. Mirzadzhanzade, Z. G. Kerimov, and M. G. Kopeykis, Teoriya Kolebaniy v Neftepromyslovom Dele (Moscow-Izhevsk: Inst. Komp. Issled.: 2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Е. Сароян, Теория и практика работы бурильной колонны (Москва: Недра: 1990).",
+				"tr":  "A. E. Saroyan, Teoriya i Praktika Raboty Burilnoy Kolonny (Moscow: Nedra: 1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. В. Харченко, Динамические процессы буровых установок (Львов: Свит: 1991).",
+				"tr":  "E. V. Harchenko, Dinamicheskie Protsessy Burovykh Ustanovok (Lvov: Svit: 1991) (in Russian)."
+			},
+			{
+				"doi": "10.1155/2016/6281264",
+				"or":  "J. Tian, Wu. Chunming, L. Yang, Z. Yang, G. Liu, and C. Yuan, Soc. Petr. Eng. J., 19, Iss. 4 (2016).",
+				"tr":  "J. Tian, Wu. Chunming, L. Yang, Z. Yang, G. Liu, and C. Yuan, Soc. Petr. Eng. J., 19, Iss. 4 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Симонов, Е. К. Юнин, Влияние колебательных процессов на работу бурильного инструмента (Москва: Недра: 1977).",
+				"tr":  "V. V. Simonov and E. K. Yunin, Vliyanie Kolebatelnykh Protsessov na Rabotu Burilnogo Instrumenta (Moscow: Nedra: 1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Балицкий, РНТС: Машины и нефтяное оборудование, № 12: 15 (1976).",
+				"tr":  "V. P. Balitskiy, RNTS: Mashiny i Neftyanoe Oborudovanie, No. 12: 15 (1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Григулецкий, Оптимальное управление при бурении скважин (Москва: Недра: 1988).",
+				"tr":  "V. G. Griguletskiy, Optimalnoe Upravlenie pri Burenii Skvazhin (Moscow: Nedra: 1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. К. Юнин, Введение в динамику глубокого бурения (Москва: Либроком: 2009).",
+				"tr":  "E. K. Yunin, Vvedenie v Dinamiku Glubokogo Bureniya (Moscow: Librokom: 2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "F. H. Deily, W. H. Dareing, and G. H. Paf, Oil Gas J., 66, Iss. 2: 55 (1968).",
+				"tr":  "F. H. Deily, W. H. Dareing, and G. H. Paf, Oil Gas J., 66, Iss. 2: 55 (1968)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Е. Симонянц, Разрушение горных пород и рациональная характеристика двигателей для бурения (Москва: Недра: 1966).",
+				"tr":  "L. E. Simonyants, Razrushenie Gornykh Porod i Ratsionalnaya Harakteristika Dvigateley dlya Bureniya (Moscow: Nedra: 1966) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Алексеев, Разведка и охрана недр, № 10: 31 (1973).",
+				"tr":  "V. N. Alekseev, Razvedka i Okhrana Nedr, No. 10: 31 (1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Алфутов, Основы расчета на устойчивость упругих систем (Москва: Машиностроение: 1978).",
+				"tr":  "N. A. Alfutov, Osnovy Rascheta na Ustoychivost Uprugikh Sistem (Moscow: Mashinostroenie: 1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Бажин, Ю. Беренгард, М. Гайцгори, С. Ермаков, Т. Клапцова, А. Кудинов, В. Чкалов, Автоматизированное проектирование машиностроительного гидропривода (Ред. С. А. Ермаков) (Москва: Машиностроение: 1988).",
+				"tr":  "I. Bazhin, Yu. Berengard, M. Gaytsgori, S. Ermakov, T. Klaptsova, A. Kudinov, and V. Chkalov, Avtomatizirovannoe Proektirovanie Mashinostroitelnogo Gidroprivoda (Ed. S. A. Ermakov) (Moscow: Mashinostroenie: 1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Балицкий, Автоматизация и телемеханизация нефтяной промышленности, № 1: 3 (1977).",
+				"tr":  "V. P. Balitskiy, Avtomatizatsiya i Telemekhanizatsiya Neftyanoy Promyshlennosti, No. 1: 3 (1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Вибрации в технике (Ред. И. И. Блехман) (Москва: Машиностроение: 1979), т. 2.",
+				"tr":  "Vibratsii v Tekhnike (Ed. I. I. Blekhman) (Moscow: Mashinostroenie: 1979), vol. 2 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Вибрации в технике (Ред. В. В. Болотин) (Москва: Машиностроение: 1978), т. 1.",
+				"tr":  "Vibratsii v Tekhnike (Ed. V. V. Bolotin) (Moscow: Mashinostroenie: 1978), vol. 1 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "З. Г. Керимов, М. А. Садыхов, Ф. К. Алиев, Т. К. Кулиев, Изв. вузов. Нефть и газ, № 3: 26 (1992).",
+				"tr":  "Z. G. Kerimov, M. A. Sadykhov, F. K. Aliev, and T. K. Kuliev, Izv. Vuzov. Neft i Gaz, No. 3: 26 (1992) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "З. Г. Керимов, Матер. I Всесоюз. конф. по динамике и прочности нефтепромыслового оборудования (1974), с. 3.",
+				"tr":  "Z. G. Kerimov, Mater. I Vsesoyuz. Konf. po Dinamike i Prochnosti Neftepromyslovogo Oborudovaniya (1974), p. 3 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Lubinski, Drilling and Production Practice (New York: 1950).",
+				"tr":  "A. Lubinski, Drilling and Production Practice (New York: 1950)."
+			},
+			{
+				"doi": "",
+				"or":  "В. І. Векерик, Нафтова і газова промисловість, № 2: 31 (1992).",
+				"tr":  "V. I. Vekeryk, Naftova i Gazova Promyslovist, No. 2: 31 (1992) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. В. Воинов, Тр. ВНИИБТ, вып. 58: 3 (1983).",
+				"tr":  "O. V. Voinov, Tr. VNIIBT, Iss. 58: 3 (1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. М. Эйгелес, Р. В. Стрекалова, Расчет и оптимизация процессов бурения скважин (Москва: Недра: 1977).",
+				"tr":  "R. M. Eygeles and R. V. Strekalova, Raschet i Optimizatsiya Protsessov Bureniya Skvazhin (Moscow: Nedra: 1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Г. Эскин, Л. Е. Исаченко, РНТС: Нефт. хоз-во, № 6: 15 (1971).",
+				"tr":  "M. G. Eskin and L. E. Isachenko, RNTS: Neft. Khoz-vo, No. 6: 15 (1971) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. С. Сурнин, Повышение эффективности применения амортизаторов на базе исследования волновых процессов в бурильной колонне (Дис. … канд. техн. наук) (Ивано-Франковск: ИФГТУНГ: 1986).",
+				"tr":  "L. S. Surnin, Povyshenie Effektivnosti Primeneniya Amortizatorov na Baze Issledovaniya Volnovykh Protsessov v Burilnoy Kolonne (Disser. … for Dr. Tech. Sci.) (Ivano-Frankivsk: IFGTUNG: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Тарасевич, Бурение нефтяных и газовых скважин: Тр. Куйбышевского политехн. ин-та (1969), с. 16.",
+				"tr":  "V. I. Tarasevich, Burenie Neftyanykh i Gazovykh Skvazhin: Tr. Kuybyshevskogo Politekhn. Inst. (1969), p. 16 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Г. Юрташев, Динамика буровых установок (Москва: Недра: 1987).",
+				"tr":  "Yu. G. Yurtashev, Dinamika Burovykh Ustanovok (Moscow: Nedra: 1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Векерик, Совершенствование технологий углубления скважин изменением динамики работы бурильного инструмента (Дис. … д-ра техн. наук) (Ивано-Франковск: ИФГТУНГ: 1991).",
+				"tr":  "V. I. Vekerik, Sovershenstvovanie Tekhnologiy Uglubleniya Skvazhin Izmeneniem Dinamiki Raboty Burilnogo Instrumenta (Disser. … for Dr. Tech. Sci.) (Ivano-Frankovsk: IFGNTUNG: 1991) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.proeng.2011.11.2381",
+				"or":  "H. Dongying, S. Peiming, Z. Guoqiang, L. Zifeng, L. Xujia, and W. Lianjin, Procedia Engineering, 26: 1891 (2011).",
+				"tr":  "H. Dongying, S. Peiming, Z. Guoqiang, L. Zifeng, L. Xujia, and W. Lianjin, Procedia Engineering, 26: 1891 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Ljuština, J. Parunov, and I. Senjanović, SORTA 2004: 16th Symposium on Theory and Practice of Shipbuilding (Oct. 21-23, 2004) (Plitvice, Croatia, University of Zagreb).",
+				"tr":  "A. M. Ljuština, J. Parunov, and I. Senjanović, SORTA 2004: 16th Symposium on Theory and Practice of Shipbuilding (Oct. 21-23, 2004) (Plitvice, Croatia, University of Zagreb)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Д. Малько, М. М. Лях, Изв. вузов. Нефть и газ, № 2: 19 (1988).",
+				"tr":  "B. D. Malko and M. M. Lyakh, Izv. Vuzov. Neft i Gaz, No. 2: 19 (1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Г. Калинин, Динамика подъемной системы буровых установок (Львів: Вища шк.: 1975).",
+				"tr":  "S. G. Kalinin, Dinamika Pod'emnoy Sistemy Burovykh Ustanovok (Lvov: Vyshcha shk.: 1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Калинин, Искривление скважин (Москва: Недра: 1974).",
+				"tr":  "A. G. Kalinin, Iskrivlenie Skvazhin (Moscow: Nedra: 1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Г. Калинин, Е. В. Харченко, Динамика несущих конструкций буровых установок (Львов: Вища школа: 1988).",
+				"tr":  "S. G. Kalinin and E. V. Kharchenko, Dinamika Nesushchikh Konstruktsiy Burovykh Ustanovok (Lvov: Vyshcha Shkola: 1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Є. Харченко, І. Гілета, О. Квашенко, Технічні вісті, № 1-2 (35): 105 (2006).",
+				"tr":  "Ye. Kharchenko, I. Hileta, and O. Kvashenko, Tekhnichni Visti, Nos. 1-2 (35): 105 (2006) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. З. Султанов, Управление устойчивостью и динамикой бурильной колонны (Москва: Недра: 1991).",
+				"tr":  "B. Z. Sultanov, Upravlenie Ustoychivostyu i Dinamikoy Burilnoy Kolonny (Moscow: Nedra: 1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. І. Огородніков, Нафтова і газова промисловість, № 2: 25 (1982).",
+				"tr":  "P. I. Ohorodnikov, Naftova i Gazova Promyslovist, No. 2: 25 (1982) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Е. Сароян, Проектирование бурильных колонн (Москва: Недра: 1971).",
+				"tr":  "A. E. Saroyan, Proektirovanie Burilnykh Kolonn (Moscow: Nedra: 1971) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Е. Сароян, Теория и практика работы бурильной колонны (Москва: Недра: 1990).",
+				"tr":  "A. E. Saroyan, Teoriya i Praktika Raboty Burilnoy Kolonny (Moscow: Nedra: 1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Мойсишин, Б. Д. Борисевич, Ю. Л. Гаврилів, С. А. Зінченко, Стійкість і коливання бурильної колони (Івано-Франківськ: Лілея-НВ: 2013).",
+				"tr":  "V. M. Moisyshyn, B. D. Borysevych, Yu. L. Havryliv and S. A. Zinchenko, Stiykist i Kolyvannya Burylnoyi Kolony (Ivano-Frankivsk: Lileya-NV: 2013) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Григулецкий, В. Т. Лукьянов, Проектирование компоновок нижней части бурильной колонны (Москва: Недра: 1990).",
+				"tr":  "V. G. Griguletskiy and V. T. Lukyanov, Proektirovanie Komponovok Nizhney Chasti Burilnoy Kolonny (Moscow: Nedra: 1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. Хуань, Д. В. Дэринг, ASME по нефтяному машиностроению, сосудам давления и трубопроводам (Далас, Техас: Мир: 1968), № 4: 99.",
+				"tr":  "T. Huan and D. V. Dering, ASME po Neftyanomu Mashinostroeniyu, Sosudam Davleniya i Truboprovodam (Dallas, Texas: Mir: 1968), No. 4: 99 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Х. Санников, М. Р. Мавлютов, Изв. вузов. Нефть и газ, № 10: 36 (1971).",
+				"tr":  "R. H. Sannikov and M. R. Mavlyutov, Izv. Vuzov. Neft i Gaz, No. 10: 36 (1971) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Х. Мирзаджанзаде, С. А. Ширинзаде, Повышение эффективности и качества глубоких скважин (Москва: Недра: 1986).",
+				"tr":  "A. Kh. Mirzadzhanzade and S. A. Shyrinzade, Povyshenie Effektivnosti i Kachestva Glubokikh Skvazhin (Moscow: Nedra: 1986) (in Russian)."
+			},
+			{
+				"doi": "10.1115/ESDA2006-95059",
+				"or":  "V. S. Tikhonov, A. I. Safronov, and M. Ya. Gelfgat, ASME 8th Biennial Conference on Engineering Systems Design and Analysis (July 4–7, January 2006) (Torino: Italy), p. 25.",
+				"tr":  "V. S. Tikhonov, A. I. Safronov, and M. Ya. Gelfgat, ASME 8th Biennial Conference on Engineering Systems Design and Analysis (July 4–7, January 2006) (Torino: Italy), p. 25."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Сесюнин, Некоторые задачи стеснённого пространственного изгиба упругих стержней (Москва: Московский госуд. открытый ун-т.: 1997).",
+				"tr":  "N. A. Sesyunin, Nekotorye Zadachi Stesnennogo Prostranstvennogo Izgiba Uprugikh Sterzhney (Moscow: Moskovskiy Gosud. Otkrytyy Univ.: 1997) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Богданов, Г. А. Кулябин, Проблемы нефти и газа Тюмени, вып. 19: 20 (1973).",
+				"tr":  "V. I. Bogdanov and G. A. Kulyabin, Problemy Nefti i Gaza Tyumeni, Iss. 19: 20 (1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Мойсишин, Основи механіки бурильної колони при поглибленні свердловин роторним способом (Дис. … д-ра техн. наук) (Івано-Франківськ: ІФДТУНГ: 1996).",
+				"tr":  "V. M. Moisyshyn, Osnovy Mekhaniky Burylnoyi Kolony pry Poglyblenni Sverdlovyn Rotornym Sposobom (Disser. … for Dr. Tech. Sci.) (Ivano-Frankivsk: IFDTUNH: 1996) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Rashed, R. Ghajar, and S. J. Hashemi, 14th International Congress of Sound and Vibration (Cairns: Australia), 1: 361 (2007).",
+				"tr":  "G. Rashed, R. Ghajar, and S. J. Hashemi, 14th International Congress of Sound and Vibration (Cairns: Australia), vol. 1, p. 361 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Светлицкий, Механика трубопроводов и шлангов (Москва: Машиностроение: 1982).",
+				"tr":  "V. A. Svetlitskiy, Mekhanika Truboprovodov i Shlangov (Moscow: Mashinostroenie: 1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "B. Schmalhorst, E. Brommundt, A. Baumgart, and U. Richter, IADC/SPE Drilling Conference (New Orleans, Louisiana, USA: 2000).",
+				"tr":  "B. Schmalhorst, E. Brommundt, A. Baumgart, and U. Richter, IADC/SPE Drilling Conference (New Orleans, Louisiana, USA: 2000)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Ф. Эпштейн, В. И. Мацейчик, И. И. Ивахнин, А. Ш. Асатурян, Расчёт бурильных труб в геологоразведочном бурении (Москва: Недра: 1979).",
+				"tr":  "E. F. Epshtein, V. I. Matseychik, I. I. Ivakhnin and A. Sh. Asaturyan, Raschet Burilnykh Trub v Geologorazvedochnom Burenii (Moscow: Nedra: 1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "H. D. Outmans, Soc. Pet. Eng., 213: 265 (1958).",
+				"tr":  "H. D. Outmans, Soc. Pet. Eng., 213: 265 (1958)."
+			},
+			{
+				"doi": "",
+				"or":  "М. М. Александров, Силы сопротивления при движении труб в скважине (Москва: Недра: 1978).",
+				"tr":  "M. M. Aleksandrov, Sily Soprotivleniya pri Dvizhenii Trub v Skvazhine (Moscow: Nedra: 1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Головин, В. Ф. Оловянишников, С. М. Рябихина, РНТС: Машины и нефтяное оборудование, № 3: 22 (1978).",
+				"tr":  "A. A. Golovin, V. F. Olovyanishnikov and S. M. Ryabikhina, RNTS: Mashiny i Neftyanoe Oborudovanie, No. 3: 22 (1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Конесев, А. И. Спивак, М. Р. Мавлютов, Тр. Уфимского нефт. ин-та, вып. VII: 42 (1969).",
+				"tr":  "G. V. Konesev, A. I. Spivak, M. R. Mavlyutov, Tr. Ufimskogo Neft. Inst., Iss. VII: 42 (1969) (in Russian)."
+			},
+			{
+				"doi": "10.2118/151-PA",
+				"or":  "M. R. Annis and P. H. Monaghan, J. Pet. Technol., 14, Iss. 5: 537 (1962).",
+				"tr":  "M. R. Annis and P. H. Monaghan, J. Pet. Technol., 14, Iss. 5: 537 (1962)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Алексеев, П. Е. Товстик, Прикладная механика, № 9: 31 (1975).",
+				"tr":  "V. N. Alekseev and P. E. Tovstik, Prikladnaya Mekhanika, No. 9: 31 (1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. В. Балицкий, Взаимодействие бурильной колонны с забоем скважины (Москва: Недра: 1975).",
+				"tr":  "P. V. Balitskiy, Vzaimodeystvie Burilnoy Kolonny s Zaboem Skvazhiny (Moscow: Nedra: 1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ф. Дейли, У. Дэринг, Г. Пафф, Труды АОИМ: Конструирование и технология машиностроения, № 2: 112 (1968).",
+				"tr":  "F. Deyli, U. Dering and G. Paff, Trudy AOIM: Konsruirovanie i Tekhnologiya Mashinostroeniya, No. 2: 112 (1968) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. М. Аметов, С. А. Ширинзаде, Азерб. нефт. хоз-во, № 8: 18 (1978).",
+				"tr":  "I. M. Ametov and S. A. Shyrinzade, Azerb. Neft. Khoz-vo, No. 8: 18 (1978) (in Russian)."
+			},
+			{
+				"doi": "10.2118/18558-PA",
+				"or":  "Eric E. Maidla and Andrew K. Wojtanowicz, SPE Drilling Eng., 5, Iss. 3: 247 (1990).",
+				"tr":  "Eric E. Maidla and Andrew K. Wojtanowicz, SPE Drilling Eng., 5, Iss. 3: 247 (1990)."
+			},
+			{
+				"doi": "",
+				"or":  "А. С. Галеев, Б. З. Султанов, М. С. Габдрахимов, Изв. вузов. Нефть и газ, № 1: 22 (1986).",
+				"tr":  "A. S. Galeev, B. Z. Sultanov and M. S. Gabdrakhimov, Izv. Vuzov. Neft i Gaz, No. 1: 22 (1986) (in Russian)."
+			},
+			{
+				"doi": "10.1007/978-3-540-27027-0",
+				"or":  "L. A. Sosnovskiy, Tribo-Fatigue: Wear-Fatigue Damage and Its Prediction (Springer: 2005).",
+				"tr":  "L. A. Sosnovskiy, Tribo-Fatigue: Wear-Fatigue Damage and Its Prediction (Springer: 2005)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Крагельский, Трение и износ (Москва: Машиностроение: 1968).",
+				"tr":  "I. V. Kragelskiy, Trenie i Iznos (Moscow: Mashinostroenie: 1968) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Лисканич, Б. Д. Борисевич, Розвідка і розробка нафтових і газових родовищ, вип. 34: 58 (1997).",
+				"tr":  "M. V. Lyskanych, B. D. Borysevych, Rozvidka i Rozrobka Naftovykh i Gazovykh Rodovyshch, Iss. 34: 58 (1997) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. J. Jellison, G. Plessis, A. Glowacz, and J. M. Pasnak, IADC World Drilling 2005, Conference and Exhibition Heldin Rome (June 9-10, 2005, Rome, Italy).",
+				"tr":  "M. J. Jellison, G. Plessis, A. Glowacz, and J. M. Pasnak, IADC World Drilling 2005, Conference and Exhibition Heldin Rome (June 9-10, 2005, Rome, Italy)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Я. Симкин, РНТС: Машины и нефтяное оборудование, № 5: 14 (1971).",
+				"tr":  "V. Ya. Simkin, RNTS: Mashiny i Neftyanoe Oborudovanie, No. 5: 14 (1971) (in Russian)."
+			},
+			{
+				"doi": "10.2118/67722-MS",
+				"or":  "J. E. Smith, R. B. Chandler, and P. L. Boster, SPE/IADC Drilling Conference (27 February–1 March, 2001, Amsterdam, Netherlands).",
+				"tr":  "J. E. Smith, R. B. Chandler, and P. L. Boster, SPE/IADC Drilling Conference (27 February–1 March, 2001, Amsterdam, Netherlands)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Спивак, А. Н. Попов, Разрушение горных пород при бурении скважин (Москва: Недра: 1979).",
+				"tr":  "A. I. Spivak and A. N. Popov, Razrushenie Gornykh Porod pri Burenii Skvazhin (Moscow: Nedra: 1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Yousif E. A. Bagadi, Abdelwahab M. Fadol, and Gao Deli, Int. J. Res. Reviews in Appl. Sci., 11, Iss. 1: 121 (2012).",
+				"tr":  "Yousif E. A. Bagadi, Abdelwahab M. Fadol, and Gao Deli, Int. J. Res. Reviews in Appl. Sci., 11, Iss. 1: 121 (2012)."
+			},
+			{
+				"doi": "10.2516/ogst:2001044",
+				"or":  "J.-M. Leroy and P. Estrier, Oil Gas Sci. Technol., 56, 6: 545 (2001).",
+				"tr":  "J.-M. Leroy and P. Estrier, Oil Gas Sci. Technol., 56, 6: 545 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. З. Султанов, А. Ш. Янтурин, Нефт. хоз-во, № 8: 27 (1974).",
+				"tr":  "B. Z. Sultanov and A. Sh. Yanturin, Neft. Khoz-vo, No. 8: 27 (1974) (in Russian)."
+			},
+			{
+				"doi": "10.2118/104827-MS",
+				"or":  "M. J. Jellison, R. B. Chandler, M. Payne, and J. S. Shepard, SPE Middle East Oil and Gas Show and Conference (March, 11–14, 2007, Manama, Bahrain).",
+				"tr":  "M. J. Jellison, R. B. Chandler, M. Payne, and J. S. Shepard, SPE Middle East Oil and Gas Show and Conference (March, 11–14, 2007, Manama, Bahrain)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Штамбург, Г. М. Файн, С. М. Данелянц, А. А. Шеина, Бурильные трубы из алюминиевых сплавов (Москва: Недра: 1980).",
+				"tr":  "V. F. Shtamburg, G. M. Fayn, S. M. Danelyants, and A. A. Sheina, Burilnye Truby iz Aluminievykh Splavov (Moscow: Nedra: 1980) (in Russian)."
+			},
+			{
+				"doi": "10.2523/IPTC-16798-MS",
+				"or":  "W. Scaruffi, E. Cristofanelli, S. Yu, A. Trocchia, C. Molaschi, and A. Merlo, Intern. Petroleum Technology Conference (March 26-28, 2013, Beijing, China).",
+				"tr":  "W. Scaruffi, E. Cristofanelli, S. Yu, A. Trocchia, C. Molaschi, and A. Merlo, Intern. Petroleum Technology Conference (March 26-28, 2013, Beijing, China)."
+			},
+			{
+				"doi": "10.1134/S0021894413060163",
+				"or":  "I. P. Shatskii and V. V. Perepichka, J. Appl. Mech. Technol. Phys., 54, Iss. 6: 1016 (2013).",
+				"tr":  "I. P. Shatskii and V. V. Perepichka, J. Appl. Mech. Technol. Phys., 54, Iss. 6: 1016 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Я. Веремейкин, РНТС: Машины и нефтяное оборудование, № 7: 19 (1975).",
+				"tr":  "B. Ya. Veremeykin, RNTS: Mashiny i Neftyanoe Oborudovanie, No. 7: 19 (1975) (in Russian)."
+			},
+			{
+				"doi": "10.2118/59140-MS",
+				"or":  "J. E. Smith, R. W. Schutz, and E. I. Bailey, IADC/SPE Drilling Conference (Febr. 23–25, 2000, New Orleans, Louisiana, USA).",
+				"tr":  "J. E. Smith, R. W. Schutz, and E. I. Bailey, IADC/SPE Drilling Conference (Febr. 23–25, 2000, New Orleans, Louisiana, USA)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Копылов, В. Г. Бойко, Изв. вузов. Нефть и газ, № 7: 60 (1967).",
+				"tr":  "V. E. Kopylov and V. G. Boyko, Izv. Vuzov. Neft i Gaz, No. 7: 60 (1967) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. А. Песляк, Расчёт напряжений в колоннах труб нефтяных скважин (Москва: Недра: 1973).",
+				"tr":  "Yu. A. Peslyak, Raschet Napryazheniy v Kolonnakh Trub Neftyanykh Skvazhin (Moscow: Nedra: 1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Н. Попов, А. И. Спивак, Изв. вузов. Нефть и газ, № 3: 14 (1967).",
+				"tr":  "A. N. Popov and A. I. Spivak, Izv. Vuzov. Neft i Gaz, No. 3: 14 (1967) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Бурение нефтяных и газовых скважин: Справочник (Ред. В. Г. Ясов, Г. Н. Семенцов) (Ужгород: Карпаты: 1983).",
+				"tr":  "Burenie Neftyanykh i Gazovykh Skvazhin: Spravochnik (Eds. V. G. Yasov and G. N. Sementsov) (Uzhgorod: Karpaty: 1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. И. Джанзаков, Механика бурильных колонн в условиях прихвата (Атырау: 2006).",
+				"tr":  "I. I. Dzhanzakov, Mekhanika Burilnykh Kolonn v Usloviyakh Prikhvata (Atyrau: 2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. М. Мардонов, А. Б. Бараев, Н. М. Ахметов, Прикладные задачи механики бурения нефтегазовых скважин (Шымкент: 2013).",
+				"tr":  "B. M. Mardonov, A. B. Baraev and N. M. Akhmetov, Prikladnye Zadachi Mekhaniki Bureniya Neftegazovykh Skvazhin (Shymkent: 2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Moisyshyn and Z. Kulynyn, The International Conference of the Carpathian Euro-Region Specialists in Industrial Systems (May 19–20, 2006) (Scientific Bulletin North University of Baia Mare, XX, Sec. C: 249, 2006).",
+				"tr":  "V. Moisyshyn and Z. Kulynyn, The International Conference of the Carpathian Euro-Region Specialists in Industrial Systems (May 19–20, 2006) (Scientific Bulletin North University of Baia Mare, XX, Sec. C: 249, 2006)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Векерик, В. М. Мойсишин. Уравнения равновесия участков бурильной колонны в скважине произвольно ориентированной в пространстве (Ивано-Франковск: Факел: 2007).",
+				"tr":  "V. I. Vekerik and V. M. Moisishyn. Uravneniya Ravnovesiya Uchastkov Burilnoy Kolonny v Skvazhine Proizvolno Orientirovannoy v Prostranstve (Ivano-Frankovsk: Fakel: 2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Мойсишин, Прикарпат. вісн. НТШ. Число, 1, № 1: 43 (2008).",
+				"tr":  "V. M. Moisyshyn, Prykarp. Visn. NTSh. Chyslo, 1, No. 1: 43 (2008) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Н. Семенцов, М. И. Горбийчук, А. Г. Бестелесный, Изв. вузов. Нефть и газ, № 11: 23 (1975).",
+				"tr":  "G. N. Sementsov, M. I. Gorbiychuk, and A. G. Bestelesny, Izv. Vuzov. Neft i Gaz, No. 11: 23 (1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Мислюк, Ю. О. Зарубін, Моделювання явищ та процесів у нафтопромисловій справі (Івано-Франківськ: Екор: 1999).",
+				"tr":  "M. A. Myslyuk, and Yu. O. Zarubin, Modelyuvannya Yavyshch ta Protsesiv u Naftopromysloviy Spravi (Ivano-Frankivsk: Ekor: 1999) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Мойсишин, Р. С. Яремійчук, І. М. Гураль, Я. С. Яремійчук, Розвідка та розробка нафтових і газових родовищ, 6, № 1: 30 (2003).",
+				"tr":  "V. M. Moisyshyn, R. S. Yaremiychuk, I. M. Hural, and Ya. S. Yaremiychuk, Rozvidka ta Rozrobka Naftovykh i Gazovykh Rodovyshch, 6, No. 1: 30 (2003) (in Ukrainian)."
+			},
+			{
+				"doi": "10.2118/98965-MS",
+				"or":  "S. Menand, H. Sellami, M. Tijani, O. Stab, D. Dupuis, and C. Simon, IADC/SPE Drilling Conference (Febr. 21–23, 2006, Miami, Florida, USA).",
+				"tr":  "S. Menand, H. Sellami, M. Tijani, O. Stab, D. Dupuis, and C. Simon, IADC/SPE Drilling Conference (Febr. 21–23, 2006, Miami, Florida, USA)."
+			},
+			{
+				"doi": "10.1201/b16354-66",
+				"or":  "V. Moisyshyn, B. Borysevych, and R. Shcherbiy, Multifactorial Mathematical Model of Mechanical Drilling Speed. Mining of Mineral Deposits (Eds. G. Pivnyak, V. Bondarenko, I. Kovalevs’ka, and M. Illiashov) (London: Taylor & Francis Group: 2013), p. 359.",
+				"tr":  "V. Moisyshyn, B. Borysevych, and R. Shcherbiy, Multifactorial Mathematical Model of Mechanical Drilling Speed. Mining of Mineral Deposits (Eds. G. Pivnyak, V. Bondarenko, I. Kovalevs'ka, and M. Illiashov) (London: Taylor & Francis Group: 2013), p. 359."
+			},
+			{
+				"doi": "",
+				"or":  "А. Д. Сепиашвили, Г. М. Диланов, Изв. вузов. Нефть и газ, № 6: 41 (1967).",
+				"tr":  "A. D. Sepiashvili, and G. M. Dilanov, Izv. Vuzov. Neft i Gaz, No. 6: 41 (1967) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Копылов, Изв. вузов. Нефть и газ, № 6: 63 (1997).",
+				"tr":  "V. E. Kopylov, Izv. Vuzov. Neft i Gaz, No. 6: 63 (1997) (in Russian)."
+			},
+			{
+				"doi": "10.1098/rspa.1999.0434",
+				"or":  "J. Wolfram, Proc. R. Soc. London, Sec. A, 455, Iss. 1988: 2957 (1999).",
+				"tr":  "J. Wolfram, Proc. R. Soc. London, Sec. A, 455, Iss. 1988: 2957 (1999)."
+			},
+			{
+				"doi": "10.1016/j.finel.2005.02.003",
+				"or":  "Y. A. Khulief and H. Al-Naser, Finite Elements in Analysis and Design, 41, Iss. 13: 1270 (2005).",
+				"tr":  "Y. A. Khulief and H. Al-Naser, Finite Elements in Analysis and Design, 41, Iss. 13: 1270 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "C. O. Housseine, C. Monroy, and. F. Bigot, 30th International Workshop on Water Waves and Floating Bodies (April 12–15, 2015, Bristol, UK).",
+				"tr":  "C. O. Housseine, C. Monroy, and. F. Bigot, 30th International Workshop on Water Waves and Floating Bodies (April 12–15, 2015, Bristol, UK)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Х. Мирзаджанзаде, Г. С. Степанова, Математическая теория эксперимента в добыче нефти и газа (Москва: Недра: 1977).",
+				"tr":  "A. Kh. Mirzadzhanzade and G. S. Stepanova, Matematicheskaya Teoriya Eksperimenta v Dobyche Nefti i Gaza (Moscow: Nedra: 1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Борецкий, В. И. Векерик, С. В. Ненашев, Б. Д. Борисевич, Б. М. Романчук, Нефтяная промышленность. Серия: Нефтегазовая геология, геофизика и бурение, вып. 2: 31 (1985).",
+				"tr":  "V. G. Boretskiy, V. I. Vekerik, S. V. Nenashev, B. D. Borisevich, and B. M. Romanchuk, Neftyanaya Promyshlennost. Seriya: Neftegazovaya Geologiya, Geofizika i Burenie, Iss. 2: 31 (1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Трубы нефтяного сортамента: Справочник (Ред. А. Е. Сароян) (Москва: Недра: 1987).",
+				"tr":  "Truby Neftyanogo Sortamenta: Spravochnik (Ed. A. E. Saroyan) (Moscow: Nedra: 1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Д. Борисевич, М. В. Лисканич, Розвідка і розробка нафтових і газових родовищ, 4, вип. 36: 103 (1999).",
+				"tr":  "B. D. Borysevych and M. V. Lyskanych, Rozvidka i Rozrobka Naftovykh i Gazovykh Rodovyshch, 4, Iss. 36: 103 (1999) (in Ukrainian)."
+			}
+		]
+	}
+}

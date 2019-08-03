@@ -1,0 +1,159 @@
+{
+	"_id":    "MFiNT.38.08.1057",
+	"year":   2016,
+	"volume": 38,
+	"issue":  8,
+	"pages":  [1057,1076],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["16.06.2016"],
+	"PACS":   "61.72.-y, 62.20.Qp, 81.10.Jt, 81.20.Hy, 81.40.Lm, 81.70.Bt, 83.50.Uv",
+	"title":   {
+		"ua": "Вплив типу і ступеня інтенсивної пластичної деформації на структуру та властивості литих Al—Sc-стопів",
+		"en": "Influence of Type and Degree of a Severe Plastic Deformation on Structure and Properties of Cast Al—Sc Alloys",
+		"ru": "Влияние типа и степени интенсивной пластической деформации на структуру и свойства литых Al—Sc-сплавов"
+	},
+	"abstract": {
+		"ua": "У стопах Al—Sc, Al—Sc—Ti, Al—Sc—Ta при інтенсивній пластичній деформації методами гідроекструзії та рівноканальної кутової гідроекструзії за кімнатної температури утворюються домени з періодичною структурою, в яких чергуються області деформованої та недеформованої матриці з періодом модуляції у 0,4—0,7 мкм. Таку структуру зумовлено тим, що в процесі накопичення деформації при рівноканальній кутовій гідроекструзії динамічне повернення у стопах замінюється процесами динамічної рекристалізації з утворенням великокутових меж зерен розміром у 0,3—0,8 мкм, сумірним з періодом модуляції.",
+		"en": "The effect of monotonous and non-monotonous severe plastic deformations (SPD) on the structure and properties of aluminium alloys is studied. A conventional hydrostatic extrusion (HE) with a constant deformation direction and an equal-channel angular hydroextrusion (ECAH) with an abrupt change in the deformation direction are chosen for the cases of monotonous and nonmonotonous SPD, respectively. Model cast hypoeutectic Al—0.3% Sc alloys and hypereutectic Al—0.6% Sc alloys alloyed with Ta and Ti are chosen in the study. As demonstrated, the SPD of these alloys result in the segregation of the material in active and inactive zones, which form a banded structure. The active zones are shown to be bands of localized plastic deformation. The distance between zones is found to be independent on the degree of accumulated strain and is in the range of 0.6—1 $\\mu$m. A dynamic recrystallization in the active zones is observed using TEM and is accompanied by the formation of disclinations, deformation bands, low-angle and high-angle boundaries, i.e. rotational deformation modes are developed. A dynamic recrystallization occurs more intensively during the non-monotonous deformation as compared with the monotonous one that is confirmed by the reduction of both stress and texture degree in materials after ECAH.",
+		"ru": "В сплавах Al—Sc, Al—Sc—Ti, Al—Sc—Ta при интенсивной пластической деформации методами гидроэкструзии и равноканальной угловой гидроэкструзии при комнатной температуре образуются домены с периодической структурой, в которых чередуются области деформированной и недеформированной матрицы с периодом модуляции 0,4—0,7 мкм. Такая структура обусловлена тем, что в процессе накопления деформации при равноканальной угловой гидроэкструзии динамический возврат в сплавах заменяется процессами динамической рекристаллизации с образованием большеугловых границ зёрен размером 0,3—0,8 мкм, соизмеримым с периодом модуляции."
+	},
+	"keywords": {
+		"ua": "стопи Al—Sc, інтенсивна пластична деформація, гідроекструзія, рівноканальна кутова гідроекструзія, динамічна рекристалізація, дисклінації, смуги скидання, малокутові та великокутові межі, розпад пересиченого твердого розчину",
+		"en": "alloyed Al—Sc alloys, severe plastic deformation, hydrostatic extrusion, equal-channel angular hydroextrusion, dynamic recrystallization, disclinations, deformation bands, low-angle and high-angle boundaries, ageing, supersaturated solid solution",
+		"ru": "сплавы Al—Sc, интенсивная пластическая деформация, гидроэкструзия, равноканальная угловая гидроэкструзия, динамическая рекристаллизация, дисклинации, полосы сброса, малоугловые и большеугловые границы, распад пересыщенного твёрдого раствора"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. Л. Березіна", "en": "A. L. Berezina", "ru": "А. Л. Березина"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Т. О. Монастирська", "en": "T. O. Monastyrska", "ru": "Т. А. Монастырская"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. А. Давиденко", "en": "О. A. Davydenko", "ru": "А. А. Давиденко"},
+			"OID": [9]
+		},
+		{
+			"AID": {"ua": "О. А. Молебний", "en": "O. A. Molebny", "ru": "О. А. Молебный"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. С. Поліщук", "en": "S. S. Polishchuk", "ru": "С. С. Полищук"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 21,
+		"list":  [
+			{
+				"doi": "10.15407/ufm.16.01.035",
+				"or":  "Л. Б. Зуев, Успехи физ. мет., 16: 35 (2015).",
+				"tr":  "L. B. Zuev, Uspehi Fiziki Metallov, 16: 35 (2015) (in Russian)."
+			},
+			{
+				"doi": "10.1002/andp.200610233",
+				"or":  "L. B. Zuev, Ann. Phys., 16, No. 4: 286 (2007).",
+				"tr":  "L. B. Zuev, Ann. Phys., 16, No. 4: 286 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Б. Зуев, В. И. Данилов, С. А. Баранникова, Физика макролокализации пластического течения (Новосибирск: Наука: 2008).",
+				"tr":  "L. B. Zuev, V. I. Danilov, and S. A. Barannikova, Fizika Makrolokalizatsii Plastitcheskogo Techeniya (Novosibirsk: Nauka: 2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Рыбин, Большие пластические деформации и разрушение металлов (Москва: Металлургия: 1986).",
+				"tr":  "V. V. Rybin, Bol'shie Plasticheskie Deformatsii i Razrushenie Metallov (Moscow: Metallurgiya: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Лихачев, В. Е. Панин, Е. Э. Засимчук и др., Кооперативные деформационные процессы и локализация деформации (Киев: Наукова думка: 1989).",
+				"tr":  "V. A. Likhachev, V. E. Panin, E. Eh. Zasimchuk et al., Kooperativnye Deformatsionnye Protsessy i Lokalizatsiya Deformatsii (Kiev: Naukova Dumka: 1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Е. Панин, Ю. В. Гриняев, В. И. Данилов и др., Структурные уровни пластической деформации и разрушения (Новосибирск: Наука: 1990).",
+				"tr":  "V. E. Panin, Yu. V. Grin'aev, V. I. Danilov et al., Strukturnye Urovni Plasticheskoy Deformatsii i Razrusheniya (Novosibirsk: Nauka: 1990) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.msea.2006.02.473",
+				"or":  "T. G. Langdon, Mater. Sci. Eng. A, 462: 3 (2007).",
+				"tr":  "T. G. Langdon, Mater. Sci. Eng. A, 462: 3 (2007)."
+			},
+			{
+				"doi": "10.1016/j.pmatsci.2006.02.003",
+				"or":  "A. P. Zhilyaev and T. G. Langdon, Prog. Mater. Sci., 51: 881 (2006).",
+				"tr":  "A. P. Zhilyaev and T. G. Langdon, Prog. Mater. Sci., 51: 881 (2006)."
+			},
+			{
+				"doi": "10.1016/j.pmatsci.2008.03.002",
+				"or":  "R. Z. Valiev and T. G. Langdon, Prog. Mater. Sci., 53: 893 (2008).",
+				"tr":  "R. Z. Valiev and T. G. Langdon, Prog. Mater. Sci., 53: 893 (2008)."
+			},
+			{
+				"doi": "10.1016/j.jmatprotec.2010.06.001",
+				"or":  "V. Spuskanyuk, O. Davydenko, A. Berezina, O. Gangalo, L. Sennikova, and M. Tikhonovsky, D. Spiridonov, J. Mater. Process. Technol., 210: 1709 (2010).",
+				"tr":  "V. Spuskanyuk, O. Davydenko, A. Berezina, O. Gangalo, L. Sennikova, and M. Tikhonovsky, D. Spiridonov, J. Mater. Process. Technol., 210: 1709 (2010)."
+			},
+			{
+				"doi": "10.1107/S0021889808030112",
+				"or":  "R. Hielscher and H. Schaeben, J. Appl. Crystallogr., 41: 1024 (2008).",
+				"tr":  "R. Hielscher and H. Schaeben, J. Appl. Crystallogr., 41: 1024 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Balzar, Defect and Microstructure Analysis from Diffraction (International Union of Crystallography Monographs on Crystallography, No. 10) (Eds. R. L. Snyder, H. J. Bunge, and J. Fiala) (New York: Oxford University Press: 1999), p. 94.",
+				"tr":  "D. Balzar, Defect and Microstructure Analysis from Diffraction (International Union of Crystallography Monographs on Crystallography, No. 10) (Eds. R. L. Snyder, H. J. Bunge, and J. Fiala) (New York: Oxford University Press: 1999), p. 94."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2013.05.182",
+				"or":  "M. H. Shaeri, M. T. Salehi, S. H. Seyyedein, M. R. Abutalebi, and J. K. Park, J. Alloys Compd., 576: 350 (2013).",
+				"tr":  "M. H. Shaeri, M. T. Salehi, S. H. Seyyedein, M. R. Abutalebi, and J. K. Park, J. Alloys Compd., 576: 350 (2013)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(02)00055-1",
+				"or":  "A. Gholinia, P. Bate, and P. B. Prangnell, Acta Mater., 50: 2121 (2002).",
+				"tr":  "A. Gholinia, P. Bate, and P. B. Prangnell, Acta Mater., 50: 2121 (2002)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2012.08.084",
+				"or":  "C. M. Cepeda-Jiminez, J. M. Garcia-Infanta, O. A. Ruano, and F. Carreno, J. Alloys Compd., 546: 253 (2013).",
+				"tr":  "C. M. Cepeda-Jiminez, J. M. Garcia-Infanta, O. A. Ruano, and F. Carreno, J. Alloys Compd., 546: 253 (2013)."
+			},
+			{
+				"doi": "10.1016/j.msea.2007.05.052",
+				"or":  "S. G. Chowdhurry, C. Xu, and T. G. Langdon, Mater. Sci. Eng. A, 473: 219 (2008).",
+				"tr":  "S. G. Chowdhurry, C. Xu, and T. G. Langdon, Mater. Sci. Eng. A, 473: 219 (2008)."
+			},
+			{
+				"doi": "10.1016/S1003-6326(15)63735-9",
+				"or":  "M. H. Shaeri, M. T. Salehi, S. H. Seyyedein, M. R. Abutalebi, and J. K. Park, Trans. Nonferrous Met. Soc. China, 25: 1367 (2015).",
+				"tr":  "M. H. Shaeri, M. T. Salehi, S. H. Seyyedein, M. R. Abutalebi, and J. K. Park, Trans. Nonferrous Met. Soc. China, 25: 1367 (2015)."
+			},
+			{
+				"doi": "10.1016/j.msea.2004.11.032",
+				"or":  "S. Li, I. Beyerlein and M. A. M. Bourke, Mater. Sci. Eng. A, 394: 66 (2005).",
+				"tr":  "S. Li, I. Beyerlein and M. A. M. Bourke, Mater. Sci. Eng. A, 394: 66 (2005)."
+			},
+			{
+				"doi": "10.1002/adem.200310084",
+				"or":  "L. S. Toth, Adv. Eng. Mater., 5: 308 (2003).",
+				"tr":  "L. S. Toth, Adv. Eng. Mater., 5: 308 (2003)."
+			},
+			{
+				"doi": "10.3139/146.031189",
+				"or":  "S. K. Baik, Y. Estrin, R. J. Hellmig, H. T. Jeong, H.-G. Brokmeier, and H. S. Kim, Z. Metallkd., 94: 1189 (2003).",
+				"tr":  "S. K. Baik, Y. Estrin, R. J. Hellmig, H. T. Jeong, H.-G. Brokmeier, and H. S. Kim, Z. Metallkd., 94: 1189 (2003)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(00)01881-5",
+				"or":  "W. H. Huang, L. Chang, P. K. Kao, and C. P. Chang, Mater. Sci. Eng. A, 307: 113 (2001).",
+				"tr":  "W. H. Huang, L. Chang, P. K. Kao, and C. P. Chang, Mater. Sci. Eng. A, 307: 113 (2001)."
+			}
+		]
+	}
+}

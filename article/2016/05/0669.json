@@ -1,0 +1,144 @@
+{
+	"_id":    "MFiNT.38.05.0669",
+	"year":   2016,
+	"volume": 38,
+	"issue":  5,
+	"pages":  [669,682],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["19.04.2016"],
+	"PACS":   "61.05.cp,64.70.Nd,64.75.St,68.55.J-,68.55.Ln,68.55.Nq,68.60.Dv,68.65.Ac",
+	"title":   {
+		"ua": "Ефект «дифузійного насосу» в нанорозмірних металевих композиціях",
+		"en": "Effect of the ‘Diffusion Pump’ in Nanosize Metal Compositions",
+		"ru": "Эффект «диффузионного насоса» в наноразмерных металлических композициях"
+	},
+	"abstract": {
+		"ua": "Проаналізовано процеси структурно-фазових перетворень в об’ємі та приповерхневих шарах нанорозмірної композиції Pd(30нм)/Ho(20нм)/SiO$_{2}$ при термічному впливі в рамках багатостадійного моделю дифузії як сукупності процесів масоперенесення за різними механізмами, розділеними за часом. Розглянуто ефект «дифузійного насосу», який полягає у тому, що при термічному обробленні в кисне- та водневмісних атмосферах фізико-хемічні процеси на зовнішній поверхні нанорозмірних металевих композицій термодинамічно визначають дифузійне фазоутворення в об’ємі.",
+		"en": "The processes of the structural phase transformations in the bulk and subsurface layers of the nanosize Pd(30 nm)/Ho(20 nm)/SiO$_{2}$ composition during thermal influence is analysed within the scope of the multistage model of diffusion as a complex of mass-transfer processes via the different mechanisms distributed in time. Effect of the ‘diffusion pump’ is considered and is as follows: during the heat treatment in the oxygen- and hydrogen-containing atmospheres, the physical-chemical processes on the external surface of the nanosize metal compositions thermodynamically determine the diffusion phase formation in the bulk.",
+		"ru": "Проанализированы процессы структурно-фазовых превращений в объёме и приповерхностных слоях наноразмерной композиции Pd(30 нм)/Ho(20 нм)/SiO$_{2}$ при термическом воздействии в рамках многостадийной модели диффузии как совокупности процессов массопереноса по различным механизмам, разделённым по времени. Рассмотрен эффект «диффузионного насоса», заключающийся в том, что при термической обработке в кислород- и водородсодержащих атмосферах физико-химические процессы на внешней поверхности наноразмерных металлических композиций термодинамически обуславливают диффузионное фазообразование в объёме."
+	},
+	"keywords": {
+		"ua": "масоперенесення, межі зерен, зовнішня поверхня, фазові перетворення, оксидоутворення, гідридоутворення",
+		"en": "mass transfer, grain boundaries, external surface, phase transformations, oxide formation, hydride formation",
+		"ru": "массоперенос, границы зёрен, внешняя поверхность, фазовые превращения, оксидообразование, гидридообразование"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. І. Олешкевич", "en": "A. I. Oleshkevych", "ru": "А. И. Олешкевич"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "О. В. Науменко", "en": "O. V. Naumenko", "ru": "О. В. Науменко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "І. А. Владимирський", "en": "I. A. Vladymyrskyi", "ru": "И. А. Владимирский"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "С. М. Волошко", "en": "S. M. Voloshko", "ru": "С. М. Волошко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "С. І. Сидоренко", "en": "S. I. Sidorenko", "ru": "С. И. Сидоренко"},
+			"OID": [202]
+		}
+	],
+	"references": {
+		"count": 18,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "S. I. Sidorenko, M. O. Vasyl’yev, and S. M. Voloshko, Dyfuziya v Metalevykh Plivkakh z Mikro- ta Nanorozmirnoyu Strukturoyu [Diffusion in Metal Films with Micro- and Nanoscale Structures] (Kyiv: Naukova Dumka: 2011) (in Ukrainian).",
+				"tr":  "S. I. Sidorenko, M. O. Vasyl'yev, and S. M. Voloshko, Dyfuziya v Metalevykh Plivkakh z Mikro- ta Nanorozmirnoyu Strukturoyu [Diffusion in Metal Films with Micro- and Nanoscale Structures] (Kyiv: Naukova Dumka: 2011) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2012.04.037",
+				"or":  "A. I. Oleshkevych, A. Zamani, I. E. Kotenko, S. M. Voloshko, S. I. Sidorenko, and A. R. Rennie, J. Alloys Compd., 535: 108 (2012).",
+				"tr":  "A. I. Oleshkevych, A. Zamani, I. E. Kotenko, S. M. Voloshko, S. I. Sidorenko, and A. R. Rennie, J. Alloys Compd., 535: 108 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "A. R. Rennie, S. I. Sidorenko, I. E. Kotenko, S. M. Voloshko, and А. I. Oleshkevych, Defect Diffusion Forum, 309: 167 (2011).",
+				"tr":  "A. R. Rennie, S. I. Sidorenko, I. E. Kotenko, S. M. Voloshko, and A. I. Oleshkevych, Defect Diffusion Forum, 309: 167 (2011)."
+			},
+			{
+				"doi": "10.1016/j.tsf.2013.10.143",
+				"or":  "A. I. Oleshkevych, S. M. Voloshko, S. I. Sidorenko, G. A. Langer, D. L. Beke, and A. R. Rennie, Thin Solid Films, 550: 723 (2014).",
+				"tr":  "A. I. Oleshkevych, S. M. Voloshko, S. I. Sidorenko, G. A. Langer, D. L. Beke, and A. R. Rennie, Thin Solid Films, 550: 723 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "А. I. Oleshkevych, А. M. Gusak, S. I. Sidorenko, and S. М. Voloshko, Ukrayins’kyy Fizychnyy Zhurnal, 55, No. 9: 1004 (2010) (in Ukrainian).",
+				"tr":  "A. I. Oleshkevych, A. M. Gusak, S. I. Sidorenko, and S. M. Voloshko, Ukrayins'kyy Fizychnyy Zhurnal, 55, No. 9: 1004 (2010) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. I. Sidorenko, Yu. N. Makogon, and S. M. Voloshko, Aktual’nye Problemy Tonkoplеnochnogo Materialovedeniya [Actual Problems of Thin Film Materials Science] (Kiev: Naukova Dumka: 2009) (in Russian).",
+				"tr":  "S. I. Sidorenko, Yu. N. Makogon, and S. M. Voloshko, Aktual'nye Problemy Tonkoplonochnogo Materialovedeniya [Actual Problems of Thin Film Materials Science] (Kiev: Naukova Dumka: 2009) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0925-8388(95)02035-7",
+				"or":  "Q. Guo and O. J. Kleppa, J. Alloys Compd., 234: 280 (1996).",
+				"tr":  "Q. Guo and O. J. Kleppa, J. Alloys Compd., 234: 280 (1996)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.89.054406",
+				"or":  "V. V. Tarnavich, D. Lott, S. Mattauch, A. I. Oleshkevych, V. Kapaklis, and S. V. Grigoriev, Phys. Rev. B, 89: 054406 (2014).",
+				"tr":  "V. V. Tarnavich, D. Lott, S. Mattauch, A. I. Oleshkevych, V. Kapaklis, and S. V. Grigoriev, Phys. Rev. B, 89: 054406 (2014)."
+			},
+			{
+				"doi": "10.1016/0022-5088(64)90056-6",
+				"or":  "W. L. Phillips, J. Less Common Met., 7: 139 (1964).",
+				"tr":  "W. L. Phillips, J. Less Common Met., 7: 139 (1964)."
+			},
+			{
+				"doi": "",
+				"or":  "K. S. Vorres, D. L. Eyring, and E. V. Kleber, Rare Earth Research (New York: Macmillan: 1961).",
+				"tr":  "K. S. Vorres, D. L. Eyring, and E. V. Kleber, Rare Earth Research (New York: Macmillan: 1961)."
+			},
+			{
+				"doi": "10.1016/0025-5416(69)90008-1",
+				"or":  "S. R. Pollack, Mater. Sci. Eng., 3: 249 (1968).",
+				"tr":  "S. R. Pollack, Mater. Sci. Eng., 3: 249 (1969)."
+			},
+			{
+				"doi": "10.1016/0025-5416(70)90004-2",
+				"or":  "J. Kumar, B. M. S. Bist, and O. N. Srivastava, Mater. Sci. Eng., 6: 371 (1970).",
+				"tr":  "J. Kumar, B. M. S. Bist, and O. N. Srivastava, Mater. Sci. Eng., 6: 371 (1970)."
+			},
+			{
+				"doi": "10.1016/0022-5088(88)90205-6",
+				"or":  "P. Singh, A. B. Mandale, and S. Badrinarayanan, J. Less Common Met., 141: 1 (1988).",
+				"tr":  "P. Singh, A. B. Mandale, and S. Badrinarayanan, J. Less Common Met., 141: 1 (1988)."
+			},
+			{
+				"doi": "10.1081/SPM-120006115",
+				"or":  "S. N. Paglieri and J. D. Way, Sep. Purif. Rev., 31, No. 1: 169 (2002).",
+				"tr":  "S. N. Paglieri and J. D. Way, Sep. Purif. Rev., 31, No. 1: 169 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "N. B. Morozova, A. V. Vvedenskiy, A. A. Maksimenko, and A. I. Dontsov, Kondensirovannye Sredy i Mezhfaznye Granitsy, 17, No. 4: 459 (2015) (in Russian).",
+				"tr":  "N. B. Morozova, A. V. Vvedenskiy, A. A. Maksimenko, and A. I. Dontsov, Kondensirovannye Sredy i Mezhfaznye Granitsy, 17, No. 4: 459 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. V. Gapontsev and V. V. Kondrat’ev, Uspekhi Fizicheskikh Nauk, 173, No. 10: 1107 (2003) (in Russian).",
+				"tr":  "A. V. Gapontsev and V. V. Kondrat'ev, Uspekhi Fizicheskikh Nauk, 173, No. 10: 1107 (2003) (in Russian)."
+			},
+			{
+				"doi": "10.3762/bjnano.5.162",
+				"or":  "A. Tynkova, G. L. Katona, G. A. Langer, S. I. Sidorenko, S. M. Voloshko, and D. L. Beke, Beilstein J. Nanotechnol., 5: 1491 (2014).",
+				"tr":  "A. Tynkova, G. L. Katona, G. A. Langer, S. I. Sidorenko, S. M. Voloshko, and D. L. Beke, Beilstein J. Nanotechnol., 5: 1491 (2014)."
+			},
+			{
+				"doi": "10.1063/1.1699825",
+				"or":  "J. C. Fisher, J. App. Phys., 22, No. 1: 74 (1951).",
+				"tr":  "J. C. Fisher, J. App. Phys., 22, No. 1: 74 (1951)."
+			}
+		]
+	}
+}

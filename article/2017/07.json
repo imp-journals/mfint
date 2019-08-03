@@ -1,0 +1,157 @@
+{
+	"year":   2017,
+	"volume": 39,
+	"issue":  7,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  2,
+			"pages":  [855,863],
+			"title": {
+				"ua": "Новий підхід до аналізи Х-променевих дифрактограм на основі вейвлет-перетворів",
+				"en": "The New Approach to the Analysis of X-Ray Diffractograms Based on the Wavelet Transformations",
+				"ru": "Новый подход к анализу рентгеновских дифрактограмм на основе вейвлет-преобразований"
+			},
+			"autors": {
+				"ua": "І. М. Фодчук, Ю. Т. Роман, С. В. Баловсяк",
+				"en": "I. M. Fodchuk, Yu. T. Roman, and S. V. Balovsyak",
+				"ru": "И. М. Фодчук, Ю. Т. Роман, С. В. Баловсяк"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [865,879],
+			"title": {
+				"ua": "Вплив проміжного нанопрошарку на кінетику фазоутворення та впорядкування в тонких плівках — моделювання середньопольовою кінетичною методою",
+				"en": "Influence of the Intermediate Nanointerlayer on a Kinetics of Phase Formation and Ordering in Thin Films—Mean-Field Kinetic Simulation",
+				"ru": "Влияние промежуточной нанопрослойки на кинетику фазообразования и упорядочения в тонких плёнках — моделирование среднеполевым кинетическим методом"
+			},
+			"autors": {
+				"ua": "В. М. Безпальчук, Д. С. Русенко, А. М. Гусак",
+				"en": "V. M. Bezpalchuk, D. S. Rusenko, and A. M. Gusak",
+				"ru": "В. Н. Безпальчук, Д. С. Русенко, А. М. Гусак"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [881,892],
+			"title": {
+				"ua": "Кінетика дисперґування при відпалі у вакуумі цирконійових наноплівок, нанесених на неметалеві матеріяли",
+				"en": "Kinetics of a Dispersion of the Zirconium Nanofilms Deposited on Nonmetallic Materials During Annealing in Vacuum",
+				"ru": "Кинетика диспергирования при отжиге в вакууме циркониевых наноплёнок, нанесённых на неметаллические материалы"
+			},
+			"autors": {
+				"ua": "Ю. В. Найдіч, І. І. Габ, Т. В. Стецюк, Б. Д. Костюк",
+				"en": "Yu. V. Naidich, І. І. Gab, Т. V. Stetsyuk, and B. D. Kоstyuk",
+				"ru": "Ю. В. Найдич, И. И. Габ, Т. В. Стецюк, Б. Д. Костюк"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [893,903],
+			"title": {
+				"ua": "Вплив додаткового шару Ag на формування впорядкованої фази $L1_0$-FePt у плівках Ag (0; 7,5 нм)/Fe$_{50}$Pt$_{50}$ (15 нм)/SiO$_2$ (100 нм)/Si(001)",
+				"en": "Effect of an Additional Ag Layer on Formation of the Ordered $L1_0$-FePt Phase in Ag (0; 7.5 nm)/Fe$_{50}$Pt$_{50}$ (15 nm)/SiO$_2$ (100 nm)/Si(001) Films",
+				"ru": "Влияние дополнительного слоя Ag на формирование упорядоченной фазы $L1_0$-FePt в плёнках Ag (0; 7,5 нм)/Fe$_{50}$Pt$_{50}$ (15 нм)/SiO$_2$ (100 нм)/Si(001)"
+			},
+			"autors": {
+				"ua": "М. Н. Шаміс, О. В. Фігурна, Т. І. Вербицька, Ю. М. Макогон",
+				"en": "M. N. Shamis, O. V. Fihurna, T. I. Verbytska, and Iu. M. Makogon",
+				"ru": "М. Н. Шамис, Е. В. Фигурная, Т. И. Вербицкая, Ю. Н. Макогон"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [905,928],
+			"title": {
+				"ua": "Еволюція структурно-фазового стану та мікротвердості поверхні неіржавійної сталі 12Х18Н10Т за умов ультразвукового ударного оброблення в різних середовищах",
+				"en": "Evolution of a Structure–Phase State and Microhardness of a Surface of Stainless Steel 12Cr18Ni10Ti in the Conditions of Ultrasonic Impact Treatment in Various Mediums",
+				"ru": "Эволюция структурно-фазового состояния и микротвёрдости поверхности нержавеющей стали 12Х18Н10Т в условиях ультразвуковой ударной обработки в различных средах"
+			},
+			"autors": {
+				"ua": "М. О. Васильєв, Б. М. Мордюк, С. І. Сидоренко, С. М. Волошко, А. П. Бурмак, Н. В. Франчік",
+				"en": "M. O. Vasylyev, B. M. Mordyuk, S. I. Sydorenko, S. M. Voloshko, A. P. Burmak, and N. V. Franchik",
+				"ru": "М. А. Васильев, Б. Н. Мордюк, С. И. Сидоренко, С. М. Волошко, А. П. Бурмак, Н. В. Франчик"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [929,947],
+			"title": {
+				"ua": "Підвищення експлуатаційної надійности поверхонь нагріву блоків надкритичного тиску за рахунок застосування субструктурно зміцнених труб",
+				"en": "Increase of Operational Reliability of Heating Surfaces of Blocks of the Supercritical Pressure Due to Application of the Substructurally Hardened Pipes",
+				"ru": "Повышение эксплуатационной надёжности поверхностей нагрева блоков сверхкритического давления за счёт применения субструктурно упрочнённых труб"
+			},
+			"autors": {
+				"ua": "А. В. Грузевич",
+				"en": "A. V. Gruzevych",
+				"ru": "А. В. Грузевич"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [949,957],
+			"title": {
+				"ua": "До застосування фрактального формалізму при ранжуванні критеріїв якости багатопараметричних технологій",
+				"en": "On the Application of Fractal Formalism for Ranging Criteria of Quality of Multiparametric Technologies",
+				"ru": "К применению фрактального формализма при ранжировании критериев качества многопараметрических технологий"
+			},
+			"autors": {
+				"ua": "В. М. Волчук",
+				"en": "V. M. Volchuk",
+				"ru": "В. Н. Волчук"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [959,981],
+			"title": {
+				"ua": "Оцінювання усадки литих стопів Al–Si шляхом моделювання процесу",
+				"en": "Shrinkage Estimation of Cast Al–Si Alloys through Process Simulation",
+				"ru": "Оценка усадки литых сплавов Al–Si путём моделирования процесса"
+			},
+			"autors": {
+				"ua": "Самаведам Санті, Срінівасан Сандарраджан",
+				"en": "Samavedam Santhi and Srinivasan Sundarrajan",
+				"ru": "Самаведам Санти, Сринивасан Сандарраджан"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [983,993],
+			"title": {
+				"ua": "Особливості фазо- та структуроутворення при реакційному гарячому пресуванні композитів системи ZrB$_2$–SiC",
+				"en": "Features of Formation of Phases and Structures During Reactive Hot Pressing Composites of the ZrB$_2$–SiC System",
+				"ru": "Особенности фазо- и структурообразования при реакционном горячем прессовании композитов системы ZrB$_2$–SiC"
+			},
+			"autors": {
+				"ua": "С. В. Чорнобук, А. О. Гончаренко, О. Ю. Попов, В. А. Макара",
+				"en": "S. V. Chornobuk, A. O. Goncharenko, O. U. Popov, and V. A. Makara",
+				"ru": "С. В. Чорнобук, А. А. Гончаренко, А. Ю. Попов, В. А. Макара"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [995,1004],
+			"title": {
+				"ua": "Дослідження наногетеросистем метал–напівпровідник Ni$_x$InSe (0001)",
+				"en": "Ni$_x$InSe (0001) Metal–Semiconductor Heteronanosystem Study",
+				"ru": "Исследование гетеронаносистем металл–полупроводник Ni$_x$InSe (0001)"
+			},
+			"autors": {
+				"ua": "П. В. Галій, Т. М. Ненчук, А. Ціжевський, П. Мазур, І. Р. Яровець, О. Р. Дверій",
+				"en": "P. V. Galiy, T. M. Nenchuk, A. Ciszewski, P. Mazur, I. R. Yarovets’, and O. R. Dveriy",
+				"ru": "П. В. Галий, Т. М. Ненчук, А. Цижевский, П. Мазур, И. Р. Яровец, О. Р. Дверий"
+			}
+		}
+	]
+}

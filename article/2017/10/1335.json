@@ -1,0 +1,113 @@
+{
+	"_id":    "MFiNT.39.10.1335",
+	"year":   2017,
+	"volume": 39,
+	"issue":  10,
+	"pages":  [1335,1343],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["18.08.2017"],
+	"PACS":   "62.20.mm, 62.20.mt, 68.37.Hk, 81.05.Bx, 81.40.Lm, 81.40.Np, 83.60.Uv",
+	"title":   {
+		"ua": "Аналіза взаємозв’язку між кінетикою поширення пластичної деформації та зародженням в’язкого руйнування",
+		"en": "The Analysis of Interrelation between Kinetics of Propagation of Plastic Deformation and Initiation of Ductile Fracture",
+		"ru": "Анализ взаимосвязи между кинетикой распространения пластической деформации и зарождением вязкого разрушения"
+	},
+	"abstract": {
+		"ua": "У роботі проаналізовано характер взаємозв’язку між кінетикою поширення пластичної деформації та зародженням в’язкого руйнування для низьковуглецевої мікролеґованої сталі 06Х1. Для досягнення поставленої в роботі мети було здійснено експеримент, який включав розтягання серії зразків з гальмуванням деформації по досягненні певного рівня навантаження. Дослідження відповідних зразків показали, що на стадії зародження тріщини її зростання здійснюється шляхом блокування поширення пластичної деформації поверхнями поділу як загального, так і спеціяльного типу. Разом з цим встановлено, що друга стадія (зростання мікротріщин) відбувається за рахунок одночасної дії двох механізмів: дислокаційного накопичення (модель Коттрелла) й об’єднання кількох мікротріщин в одну.",
+		"en": "The work analyses a nature of interrelation between kinetics of propagation of plastic deformation and initiation of ductile fracture for low-carbon microalloyed steel 06Kh1. To reach the purpose of the work, the experiment is carried out. It includes stretching of a series of samples with deformation deceleration after reaching a certain level of loading. The study of the corresponding samples shows that the stage of crack origination is made through blocking the propagation of spreading the plastic deformation by the separation surfaces of the general and special types. At the same time, it is determined that the second stage (growth of microcracks) develops due to the simultaneous action of two mechanisms: accumulation of dislocations (the Cottrell model) and aggregation of several microcracks into single one.",
+		"ru": "В работе проанализирован характер взаимосвязи между кинетикой распространения пластической деформации и зарождением вязкого разрушения для низкоуглеродистой микролегированной стали 06Х1. Для достижения поставленной в работе цели был осуществлён эксперимент, который включал растяжение серии образцов с торможением деформации при достижении определённого уровня нагрузки. Исследование соответствующих образцов показали, что на стадии зарождения трещины её рост осуществляется путём блокирования распространения пластической деформации поверхностями раздела как общего, так и специального типа. Вместе с этим установлено, что вторая стадия (рост микротрещин) происходит за счёт одновременного действия двух механизмов: дислокационного накопления (модель Коттрелла) и объединения нескольких микротрещин в одну."
+	},
+	"keywords": {
+		"ua": "феритоперлітна структура, в’язке руйнування, кінетика поширення тріщини, блокування дислокацій, механізми зародження тріщини, механізм зростання тріщини",
+		"en": "hypopearlitic structure, ductile fracture, kinetics of crack propagation, blocking of dislocations, mechanisms of crack origination, mechanism of crack growth",
+		"ru": "ферритоперлитная структура, вязкое разрушение, кинетика распространения трещины, блокировка дислокаций, механизмы зарождения трещины, механизм роста трещины"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Д. В. Лаухін", "en": "D. V. Laukhin", "ru": "Д. В. Лаухин"},
+			"OID": [225]
+		},
+		{
+			"AID": {"ua": "О. В. Бекетов", "en": "O. V. Beketov", "ru": "А. В. Бекетов"},
+			"OID": [225]
+		},
+		{
+			"AID": {"ua": "Н. О. Ротт", "en": "N. O. Rott", "ru": "Н. А. Ротт"},
+			"OID": [225]
+		},
+		{
+			"AID": {"ua": "І. А. Тютерев", "en": "I. A. Tyuterev", "ru": "И. А. Тютерев"},
+			"OID": [225]
+		},
+		{
+			"AID": {"ua": "С. В. Іванцов", "en": "S. V. Ivantsov", "ru": "С. В. Иванцов"},
+			"OID": [225]
+		},
+		{
+			"AID": {"ua": "В. Д. Лаухін", "en": "V. D. Laukhin", "ru": "В. Д. Лаухин"},
+			"OID": [225]
+		}
+	],
+	"references": {
+		"count": 11,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Kh. A. Rakhmatullin, E. I. Shemyakin, Yu. A. Dem’yanov, and A. V. Zvyagin, Prochnost’ i Razrushenie pri Kratkovremennykh Nagruzkakh [Strength and Fracture under Short-Term Loads] (Moscow: Universitetskaya Kniga ‘Logos’: 2008) (in Russian).",
+				"tr":  "Kh. A. Rakhmatullin, E. I. Shemyakin, Yu. A. Dem'yanov, and A. V. Zvyagin, Prochnost' i Razrushenie pri Kratkovremennykh Nagruzkakh [Strength and Fracture under Short-Term Loads] (Moscow: Universitetskaya Kniga 'Logos': 2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "O. V. Beketov, S. V. Ivantsov, I. A. Tyuterev, N. O. Rott, and E. O. Babenko, Stroitel’stvo, Materialovedenie, Mashinostroenie, Iss. 95: 26 (2017) (in Ukrainian).",
+				"tr":  "O. V. Beketov, S. V. Ivantsov, I. A. Tyuterev, N. O. Rott, and E. O. Babenko, Stroitel'stvo, Materialovedenie, Mashinostroenie, Iss. 95: 26 (2017) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. F. Sarafanov and V. N. Perevezentsev, Zakonomernosti Deformatsionnogo Izmel’cheniya Struktury Metallov i Splavov [Regularities of Deformation Grinding of the Structure of Metals and Alloys] (Nizhniy Novgorod: 2007) (in Russian).",
+				"tr":  "G. F. Sarafanov and V. N. Perevezentsev, Zakonomernosti Deformatsionnogo Izmel'cheniya Struktury Metallov i Splavov [Regularities of Deformation Grinding of the Structure of Metals and Alloys] (Nizhniy Novgorod: 2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. N. Orlov, V. N. Perevezentsev, and V. V. Rybin, Granitsy Zeren v Metallakh [Boundaries of Grains in Metals] (Moscow: Metallurgiya: 1980) (in Russian).",
+				"tr":  "A. N. Orlov, V. N. Perevezentsev, and V. V. Rybin, Granitsy Zeren v Metallakh [Boundaries of Grains in Metals] (Moscow: Metallurgiya: 1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Nadai, Plastichnost i Razrushenie Tverdykh Tel [Plasticity and Destruction of Solids] (Moscow: Izd. Inostrannoy Literatury: 1954) (in Russian).",
+				"tr":  "A. Nadai, Plastichnost i Razrushenie Tverdykh Tel [Plasticity and Destruction of Solids] (Moscow: Izd. Inostrannoy Literatury: 1954) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "J. F. Nott, Osnovy Mekhaniki Razrusheniya [Fundamentals of Fracture Mechanics] (Moscow: Metallurgiya: 1978) (Russian translation).",
+				"tr":  "J. F. Nott, Osnovy Mekhaniki Razrusheniya [Fundamentals of Fracture Mechanics] (Moscow: Metallurgiya: 1978) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Kh. Vashul’, Prakticheskaya Metallografiya. Metody Izgotovleniya Obraztsov [Practical Metallography. Methods for Samples Fabrication] (Moscow: Metallurgiya: 1988) (in Russian).",
+				"tr":  "Kh. Vashul', Prakticheskaya Metallografiya. Metody Izgotovleniya Obraztsov [Practical Metallography. Methods for Samples Fabrication] (Moscow: Metallurgiya: 1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Goldstein, Prakticheskaya Rastrovaya Elektronnaya Mikroskopiya [Practical Scanning Electron Microscopy] (Moscow: Mir: 1978) (Russian translation).",
+				"tr":  "J. Goldstein, Prakticheskaya Rastrovaya Elektronnaya Mikroskopiya [Practical Scanning Electron Microscopy] (Moscow: Mir: 1978) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Bol’shakov, G. D. Sukhomlin, and D. V. Laukhin, Atlas Metallov i Splavov: Uchebnoe Posobie [Atlas of Metals and Alloys: Tutorial] (Dnipro: GVUZ ‘Pridneprovskaya Gosudarstvennaya Akademiya Stroitel’stva i Arkhitektury’: 2010) (in Russian).",
+				"tr":  "V. I. Bol'shakov, G. D. Sukhomlin, and D. V. Laukhin, Atlas Metallov i Splavov: Uchebnoe Posobie [Atlas of Metals and Alloys: Tutorial] (Dnipro: GVUZ 'Pridneprovskaya Gosudarstvennaya Akademiya Stroitel'stva i Arkhitektury': 2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. M. Finkel’, Fizika Razrusheniya [Fracture Physics] (Moscow: Metallurgiya: 1970) (in Russian).",
+				"tr":  "V. M. Finkel', Fizika Razrusheniya [Fracture Physics] (Moscow: Metallurgiya: 1970) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Z. Parton and V. G. Barkovskiy, Dinamika Khrupkogo Razrusheniya [Dynamics of Brittle Fracture] (Moscow: Mashinostroenie: 1988) (in Russian).",
+				"tr":  "V. Z. Parton and V. G. Barkovskiy, Dinamika Khrupkogo Razrusheniya [Dynamics of Brittle Fracture] (Moscow: Mashinostroenie: 1988) (in Russian)."
+			}
+		]
+	}
+}

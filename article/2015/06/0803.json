@@ -1,0 +1,106 @@
+{
+	"_id":    "MFiNT.37.06.0803",
+	"year":   2015,
+	"volume": 37,
+	"issue":  6,
+	"pages":  [803,816],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["26.03.2015","23.04.2015"],
+	"PACS":   "61.66.Dk, 61.72.Ff, 61.72.S-, 62.20.Qp, 81.05.Bx, 81.30.Fb, 81.70.Pg",
+	"title":  {
+		"ua": "Вплив депресанта – Ґерманія – на структуру та інтервали топлення паладієвих стопів",
+		"en": "Influence of Germanium as a Depressant on the Structure and Intervals of Melting of Palladium Alloys",
+		"ru": "Влияние депрессанта – германия – на структуру и интервалы плавления палладиевых сплавов"
+	},
+	"abstract": {
+		"ua": "Вивчено стопи системи Pd—Ni—Cr, в яких, як депресант, використовували Ґерманій. На основі результатів високотемпературного диференційного термічного аналізу показано, що збільшення концентрації Ґерманію приводить до зниження температур солідусу та ліквідусу базового стопу. Із застосуванням мікрорентґеноспектрального аналізу і металографічних досліджень виявлено морфологічні особливості структуроутворення стопів. Показано, що при вмісті 1,15 и 2,66% мас. Ґерманію по межах твердого розчину спостерігаються виділення одиничних дисперсних частинок, які утворені двома фазами. Диференціювати їхній хімічний склад не є можливим через малий розмір і недостатню локальність вимірювань спектрометра (1 мкм). При збільшенні вмісту Ґерманію в стопі до 10,43% мас. збільшується кількість і розмір частинок. Визначено, що вони утворені твердим розчином і фазою Ge$_{y}$(Pd,Ni,Cr)$_{x}$, яка містить 23—24% мас. Ґерманію. Встановлено, що це нормальна щільникова евтектика з практично постійним вмістом Ґерманію. Зі збільшенням концентрації Ґерманію в стопі спостерігається значне збільшення його вмісту в твердому розчині, що приводить до підвищення мікротвердости і, таким чином, до зміцнення.",
+		"en": "Alloys of Pd—Ni—Cr system, where germanium is used as a depressant, are studied. As shown with the results obtained by high-temperature differential thermal analysis, the increase of germanium concentration leads to the decrease in solidus and liquidus temperatures of a base alloy. Using X-ray spectral microanalysis and metallographic examinations, the morphological features of structure formation of alloy at issue are revealed. As shown, at content of 1.15 and 2.66% wt. of germanium, the precipitation of single dispersed particles formed by two phases is observed along the boundaries of solid solution, but it is not possible to differentiate their chemical composition because of small size and insufficient locality of spectrometer measurements (1 m). With increase of germanium content in alloy up to 10.43% wt., number and size of the particles are increased. As determined, they consist of solid solution and Ge$_{y}$(Pd,Ni,Cr)$_{x}$ phase containing 23—24% wt. of germanium. As found, this is normal cellular eutectics with almost constant germanium content. With increase of germanium concentration in alloy, the significant increase of its content in solid solution is observed thus leading to the increase of microhardness and, hereby, to hardening.",
+		"ru": "Изучены сплавы системы Pd—Ni—Cr, в которых в качестве депрессанта использовали германий. На основе результатов высокотемпературного дифференциального термического анализа показано, что увеличение концентрации германия приводит к понижению температур солидуса и ликвидуса базового сплава. С помощью микрорентгеноспектрального анализа и металлографических исследований выявлены морфологические особенности структурообразования рассматриваемых сплавов. Показано, что при содержании 1,15 и 2,66% вес. германия по границам твёрдого раствора наблюдаются выделения единичных дисперсных частиц, образованных двумя фазами, дифференцировать химический состав которых не представляется возможным из-за малого размера и недостаточной локальности измерений спектрометра (1 мкм). При увеличении содержания германия в сплаве до 10,43% вес. увеличивается количество и размер частиц. Определено, что состоят они из твёрдого раствора и фазы Ge$_{y}$(Pd,Ni,Cr)$_{x}$, содержащей 23—24% вес. германия. Установлено, что это нормальная сотовая эвтектика с практически постоянным содержанием германия. С увеличением концентрации германия в сплаве наблюдается значительное увеличение его содержания в твёрдом растворе, что приводит к повышению микротвёрдости и, таким образом, к упрочнению."
+	},
+	"keywords": {
+		"ua": "мікроструктура, хімічна неоднорідність, мікротвердість, паладієві стопи, Ґерманій",
+		"en": "microstructure, chemical inhomogeneity, microhardness, palladium alloys, germanium",
+		"ru": "микроструктура, химическая неоднородность, микротвёрдость, палладиевые сплавы, германий"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. В. Максимова", "en": "S. V. Maksymova", "ru": "С. В. Максимова"},
+			"OID": [5]
+		},
+		{
+			"AID": {"ua": "В. Ф. Хорунов", "en": "V. F. Khorunov", "ru": "В. Ф. Хорунов"},
+			"OID": [5]
+		},
+		{
+			"AID": {"ua": "В. В. Мясоєд", "en": "V. V. Myasoed", "ru": "В. В. Мясоед"},
+			"OID": [5]
+		}
+	],
+	"references": {
+		"count": 12,
+		"list":  [
+			{
+				"doi": "10.1016/j.msea.2010.09.065",
+				"or":  "S. Neumeier, M. Dinkel, and M. Goken, Mater. Sci. Eng. A, 528: 815 (2011).",
+				"tr":  "S. Neumeier, M. Dinkel, and M. Goken, Mater. Sci. Eng. A, 528: 815 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Максимова, Адгезия расплавов и пайка материалов, № 40: 70 (2007).",
+				"tr":  "S. V. Maksymova, Adheziya Rasplavov i Payka Materialov, No. 40: 70 (2007) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. F. Khorunov and S. V. Maksymova, Advanced in Brazing. Science, Technology and Applications (Cambridge: Woodhead Publishing Limited: 2013), p. 85.",
+				"tr":  "V. F. Khorunov and S. V. Maksymova, Advanced in Brazing. Science, Technology and Applications (Cambridge: Woodhead Publishing Limited: 2013), p. 85."
+			},
+			{
+				"doi": "",
+				"or":  "E. Theisen and W. Coughlan, Proc. of Intern. Conf. ’Brazing, Soldering and Special Joining Technologies’ (June 9—13, 2014, Beijing).",
+				"tr":  "E. Theisen and W. Coughlan, Proc. of Intern. Conf. 'Brazing, Soldering and Special Joining Technologies' (June 9—13, 2014, Beijing)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Rabinkin, E. Wenski, and A. Ribaudo, Welding J., 77, No. 2: 66 (1998).",
+				"tr":  "A. Rabinkin, E. Wenski, and A. Ribaudo, Welding J., 77, No. 2: 66 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Rabinkin, Advanced in Brazing. Science, Technology and Applications (Cambridge: Woodhead Publishing Limited: 2013), p. 121.",
+				"tr":  "A. Rabinkin, Advanced in Brazing. Science, Technology and Applications (Cambridge: Woodhead Publishing Limited: 2013), p. 121."
+			},
+			{
+				"doi": "",
+				"or":  "T. B. Massalski, Binary Alloy Phase Diagrams (Materials Park, OH: ASM International: 1990).",
+				"tr":  "T. B. Massalski, Binary Alloy Phase Diagrams (Materials Park, OH: ASM International: 1990)."
+			},
+			{
+				"doi": "",
+				"or":  "Справочник по пайке (Ред. И. Е. Петрунин) (Москва: Машиностроение: 2003).",
+				"tr":  "Spravochnik po Payke [Brazing Manual] (Ed. I. E. Petrunin) (Moscow: Mashinostroenie: 2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Практическая растровая электронная микроскопия (Ред. Дж. Гоулдстейн, Х. Яковиц) (Москва: Мир: 1978) (пер. с англ.).",
+				"tr":  "Prakticheskaya Rastrovaya Elektronnaya Mikroskopiya [Practical Scanning Electron Microscopy] (Eds. J. I. Goldstein and H. Yakowitz) (Moscow: Mir: 1978) (Russian translation)."
+			},
+			{
+				"doi": "10.1007/BF02736570",
+				"or":  "Narayana Garimella, Yongho Sohn, and M. P. Brady, J. Phase Equilib. Diffusion, 27, No. 6: 665 (2006).",
+				"tr":  "Narayana Garimella, Yongho Sohn, and M. P. Brady, J. Phase Equilib. Diffusion, 27, No. 6: 665 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Радзиевский, Г. Г. Ткаченко, Высокотемпературная вакуумная пайка в компрессоростроении (Киев: Экотехнология: 2009).",
+				"tr":  "V. N. Radzievskiy and G. G. Tkachenko, Vysokotemperaturnaya Vakuumnaya Payka v Kompressorostroenii [High-Temperature Vacuum Brazing in Compressor Manufacture] (Kiev: Ekotekhnologiya: 2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Таран, В. И. Мазур, Структура эвтектических сплавов (Москва: Металлургия: 1978).",
+				"tr":  "Yu. N. Taran and V. I. Mazur, Struktura Evtekticheskikh Splavov [Structure of Eutectic Alloys] (Moscow: Metallurgiya: 1978) (in Russian)."
+			}
+		]
+	}
+}

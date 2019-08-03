@@ -1,0 +1,130 @@
+{
+	"_id":    "MFiNT.38.05.0617",
+	"year":   2016,
+	"volume": 38,
+	"issue":  5,
+	"pages":  [617,633],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["01.03.2016", "30.03.2016"],
+	"PACS":   "61.05.cp, 61.50.Ks, 61.72.Ff, 81.05.Bx, 81.20.Wk, 81.40.Ef, 81.40.Vw",
+	"title":   {
+		"ua": "Особливості формування кристалографічної текстури та залишкових напружень у титановому стопі ВТ22 після комплексної дії інтенсивної термомеханічної обробки та швидкісного нагрівання",
+		"en": "Features of Crystallographic Texture and Residual-Stresses’ Formation in Titanium VT22 Alloy under Combined Action of Intensive Thermomechanical Processing and Rapid Heating",
+		"ru": "Особенности формирования кристаллографической текстуры и остаточных напряжений в титановом сплаве ВТ22 после комплексного воздействия интенсивной термомеханической обработки и скоростного нагрева"
+	},
+	"abstract": {
+		"ua": "Методами рентґенівської дифракційної аналізи проведено вивчення процесів формування кристалографічної текстури, залишкових макро- і мікронапружень у титановому стопі ВТ22 при інтенсивній пластичній деформації куванням—прокатуванням, наступному швидкісному нагріванні і формуванні головки болта. Встановлено, що в різних шарах виникають різні, як за величиною, так і знаком, залишкові напруження. При цьому в $\\beta$-фазі деформація проходить головним чином по площинах {110}, а в $\\alpha$-фазі, яка виділяється всередині $\\beta$-зерен безпосередньо в процесі інтенсивної деформації, пластична течія проходить по всіх системах ковзання. В результаті в $\\beta$-фазі формується гостра кристалографічна текстура, яка поєднує текстури, характерні для двох різних типів деформації – кування та прокатування. При наступному швидкісному нагріванні та деформації для формування головки болта тип і характер кристалографічної текстури залишаються незмінними, проте її гострота в $\\beta$-фазі зменшується, а в $\\alpha$-фазі зростає, що можна пояснити збільшенням частки $\\alpha$-фази в об’ємі стопу та її більшим залученням у пластичну деформацію.",
+		"en": "Formation of crystallographic texture, residual macro- and microstresses during intensive hot deformation with forging—rolling of titanium VT22 alloy followed by rapid heating and forming of bolt head is studied using X-ray diffraction analysis. As established, the residual stresses of different signs and magnitudes appear in different layers depending on distance from the surface. Plastic deformation in $\\beta$-phase takes place mainly in {110} planes, while, in $\\alpha$-phase precipitated during intensive deformation, plastic flow is coming through all slip systems. As a result, sharp crystallographic texture of $\\beta$-phase is formed and combines two types of texture produced by two different kinds of deformation forging and rolling. Subsequent rapid heating followed by forming of bolt head and deformation does not change type of crystallographic texture, but its sharpness is decreased in $\\beta$-phase and increased in $\\alpha$-phase. The last one can be associated with increase of the $\\alpha$-phase volume fracture and, conformably, its wider involvement into deformation process.",
+		"ru": "Методами рентгеновского дифракционного анализа проведено исследование процессов формирования кристаллографической текстуры, остаточных макро- и микронапряжений в титановом сплаве ВТ22 при интенсивной пластической деформации ковкой—прокаткой, последующем скоростном нагреве и формировании головки болта. Установлено, что в разных слоях возникают различные, как по величине, так и по знаку, остаточные напряжения. При этом в $\\beta$-фазе деформация происходит главным образом по плоскостям {110}, а в $\\alpha$-фазе, которая выделяется внутри $\\beta$-зёрен непосредственно в процессе интенсивной деформации, в пластическое течение вовлекаются все системы скольжения. В результате в $\\beta$-фазе образуется острая кристаллографическая текстура, в которой объединяются текстуры, характерные для двух разных типов деформации – ковки и прокатки. При последующем скоростном нагреве и деформации для формирования головки болта тип и характер кристаллографической текстуры остаются неизменными, но её острота в $\\beta$-фазе уменьшается, а в $\\alpha$-фазе возрастает, что можно объяснить увеличением доли $\\alpha$-фазы в объёме сплава и её большим вовлечением в пластическую деформацию."
+	},
+	"keywords": {
+		"ua": "кристалографічна текстура, залишкові напруження, мікроструктура, титанові стопи, деформація, швидкісне термічне оброблення, кріпильні деталі",
+		"en": "crystallographic texture, residual stresses, microstructure, titanium alloys, deformation, rapid heat treatment, fasteners",
+		"ru": "кристаллографическая текстура, остаточные напряжения, микроструктура, титановые сплавы, деформация, скоростная термическая обработка, крепёж"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. П. Карасевська", "en": "O. P. Karasevska", "ru": "О. П. Карасевская"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "П. Є. Марковський", "en": "P. E. Markovsky", "ru": "П. Е. Марковский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. Л. Антонюк", "en": "S. L. Antonyuk", "ru": "С. Л. Антонюк"},
+			"OID": [183]
+		},
+		{
+			"AID": {"ua": "І. М. Гавриш", "en": "I. M. Havrysh", "ru": "И. М. Гавриш"},
+			"OID": [183]
+		}
+	],
+	"references": {
+		"count": 16,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "С. Г. Глазунов, В. Н. Моисеев, Конструкционные титановые сплавы (Москва: Металлургия: 1969).",
+				"tr":  "S. G. Glazunov and V. N. Moiseev, Konstruktsionnye Titanovye Splavy (Moscow: Metallurgiya: 1969) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. А. Борисова, Г. А. Бочвар, М. Я. Брун, С. Г. Глазунов, Б. А. Колачев, В. Н. Моисеев, Металлография титановых сплавов (Москва: Металлургия: 1980).",
+				"tr":  "E. A. Borisova, G. A. Bochvar, M. Ya. Brun, S. G. Glazunov, B. A. Kolachev, and V. N. Moiseev, Metallografiya Titanovykh Splavov (Moscow: Metallurgiya: 1980) (in Russian)."
+			},
+			{
+				"doi": "10.1007/s11661-003-0216-8",
+				"or":  "O. M. Ivasishin, P. E. Markovsky, Yu. V. Matviychuk, and S. L. Semiatin, Metall. Mater. Trans., 34A: 147 (2003).",
+				"tr":  "O. M. Ivasishin, P. E. Markovsky, Yu. V. Matviychuk, and S. L. Semiatin, Metall. Mater. Trans., 34A: 147 (2003)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2007.03.070",
+				"or":  "O. M. Ivasishin, P. E. Markovsky, Yu. V. Matviychuk, S. L. Semiatin, C. H. Ward, and S. Fox, J. Alloys Compd., 457: 296 (2008).",
+				"tr":  "O. M. Ivasishin, P. E. Markovsky, Yu. V. Matviychuk, S. L. Semiatin, C. H. Ward, and S. Fox, J. Alloys Compd., 457: 296 (2008)."
+			},
+			{
+				"doi": "10.1007/s11003-014-9692-9",
+				"or":  "O. M. Ivasyshyn, P. E. Markovs'kyi, I. M. Havrysh, and O. P. Karasevs'ka, Mater. Sci., 50: 62 (2014).",
+				"tr":  "O. M. Ivasyshyn, P. E. Markovs'kyi, I. M. Havrysh, and O. P. Karasevs'ka, Mater. Sci., 50: 62 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Івасишин, П. Є. Марковський, О. Г. Моляр, Цільова комплексна програма НАН України «Проблеми ресурсу і безпеки експлуатації конструкцій, споруд і машин» (Київ: ІЕЗ ім. Є. О. Патона НАН України: 2012), с. 542.",
+				"tr":  "O. M. Ivasishin, P. E. Markovsky, and O. G. Molyar, Tsilyova Kompleksna Programa NAN Ukrayiny 'Problemy Resursu i Bezpeky Ekspluatatsiyi Konstruktsiy, Sporud i Mashyn' (Kyiv: E. O. Paton IEW of the N.A.S. of Ukraine: 2012), p. 542 (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Е. Марковский, Металлофиз. новейшие технол., 31, № 4: 511 (2009).",
+				"tr":  "P. E. Markovsky, Metallofiz. Noveishie Tekhnol., 31, No. 4: 511 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Выдрин, О. И. Тищенко, Е. Н. Березин, В. Г. Дремин, Г. И. Коваль, Теория и технология прокатки. Челябинский политехнический институт, № 230: 77 (1979).",
+				"tr":  "V. N. Vydrin, O. I. Tyshchenko, E. N. Berezin, V. G. Dremin, and G. I. Koval, Teoriya i Tekhnologiya Prokatki. Chelyabinskiy Politekhnicheskiy Institut, No. 230: 77 (1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Выдрин, Е. Н. Березин, В. Г. Дремин, Г. И. Коваль, Теория и технология прокатки. Челябинский политехнический институт, 209: 106 (1978).",
+				"tr":  "V. N. Vydrin, O. I. Tyshchenko, V. G. Dremin, and G. I. Koval, Teoriya i Tekhnologiya Prokatki. Chelyabinskiy Politekhnicheskiy Institut, No. 209: 106 (1978) (in Russian)."
+			},
+			{
+				"doi": "10.1017/S1431927613010878",
+				"or":  "O. M. Ivasishin, P. E. Markovsky, M. Pozuelo, and S. Prikhodko, Microscopy and Microanalysis, 19: 1776 (2013).",
+				"tr":  "O. M. Ivasishin, P. E. Markovsky, M. Pozuelo, and S. Prikhodko, Microscopy and Microanalysis, 19: 1776 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "O. M. Ivasishin, P. E. Markovsky, M. Pozuelo, and S. Prikhodko, Proc. of IMECE13—2013 ASME International Mechanical Engineering Congress and Exposition (Nov. 15–21, 2013, San Diego, California, USA), p. 624.",
+				"tr":  "O. M. Ivasishin, P. E. Markovsky, M. Pozuelo, and S. Prikhodko, Proc. of IMECE13—2013 ASME International Mechanical Engineering Congress and Exposition (Nov. 15–21, 2013, San Diego, California, USA), p. 624."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Ивасишин, П. Е. Марковский, В. И. Бондарчук, Титан, № 2: 42 (2005).",
+				"tr":  "O. M. Ivasishin, P. E. Markovsky, and V. I. Bondarchuk, Titan, No. 2: 42 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Ивасишин, П. Е. Марковский, А. Г. Моляр, О. В. Мушегян, X Международная конференция «Ti–2012 в СНГ» (22–25 апреля 2012 г., Казань, Россия) (Киев: ИМФ им. Г. В. Курдюмова НАН Украины: 2012), с. 102.",
+				"tr":  "O. M. Ivasishin, P. E. Markovsky, O. G. Molyar, and V. O. Mushegyan, X Mezhdunarodnaya Konferentsiya 'Ti–2012 v SNG' (April 22–25, 2012, Kazan, Russia): (Kiev: G. V. Kurdyumov Institute for Metal Physics, N.A.S. of Ukraine: 2012), p. 102 (in Russian)."
+			},
+			{
+				"doi": "10.1007/s11003-015-9850-8",
+				"or":  "О. М. Івасишин, Є. Т. Василевський, П. Є. Марковський, С. Л. Антонюк, В. В. Величко, І. М. Гавриш, Фізико-хімічна механіка матеріалів, 51, № 3: 62 (2015).",
+				"tr":  "O. M. Ivasishin, E. T. Vasilevs'kyi, S. L. Antonyuk, V. V. Velychko, P. E. Markovs'ky, and I. M. Havrysh, Mater. Sci., 51, No. 3: 366 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "С. С. Горелик, Ю. А. Скаков, Л. Н. Расторгуев, Рентгенографический и электронно-оптический анализ (Москва: МИСиС: 1994).",
+				"tr":  "S. S. Gorelik, Yu. A. Skakov, and L. N. Rastorguev, Rentgenograficheskiy i Elektronno-Opticheskiy Analiz (Moscow: MISiS: 1994) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Кривоглаз, Дифракция рентгеновских лучей и нейтронов в неидеальных кристаллах (Киев: Наукова думка: 1983).",
+				"tr":  "M. A. Krivoglaz, Diffuse Scattering of X-Rays and Neutrons by Fluctuations (Berlin–Heidelberg: Springer: 1996)."
+			}
+		]
+	}
+}

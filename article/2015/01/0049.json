@@ -1,0 +1,61 @@
+{
+	"_id":    "MFiNT.37.0049",
+	"year":   2015,
+	"volume": 37,
+	"issue":  1,
+	"pages":  [49,65],
+	"rubric": 1,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["22.07.2014"],
+	"PACS":   "61.43.Dq, 61.46.Hk, 62.20.Qp, 62.23.Pq, 68.60.Dv, 81.40.Ef, 81.70.Pg",
+	"title":  {
+		"ua": "Вплив заміни нікеля кобальтом на термічну стійкість і мікротвердість сплавів Al$_{86}$Ni$_{8}$Gd$_{6}$ і Al$_{86}$Ni$_{8}$Y$_{6}$ з аморфною і нанокомпозитною структурою",
+		"en": "Influence of Substitution of Nickel by Cobalt on Thermal Stability and Microhardness of Al$_{86}$Ni$_{8}$Gd$_{6}$ and Al$_{86}$Ni$_{8}$Y$_{6}$ Alloys with Amorphous and Nanocomposite Structure",
+		"ru": "Влияние замены никеля кобальтом на термическую устойчивость и микротвёрдость сплавов Al$_{86}$Ni$_{8}$Gd$_{6}$ и Al$_{86}$Ni$_{8}$Y$_{6}$ с аморфной и нанокомпозитной структурой"
+	},
+	"abstract": {
+		"ua": "Методами Рентґенівської дифрактометрії, диференційної сканувальної калориметрії та міряння мікротвердости досліджено вплив часткової й повної заміни Ніклю Кобальтом в аморфних стопах Al$_{86}$Ni$_{8-x}$Co$_{x}$Y$_{6}$ і Al$_{86}$Ni$_{8-x}$Co$_{x}$Gd$_{6}$ ($x = 0, 2, 4, 6, 8$) на структуру, термічну стійкість, характер першої стадії кристалізації і на мікротвердість в аморфному та нанокомпозитному станах. Встановлено, що підвищення концентрації Кобальту приводить до підвищення температур початку кристалізації та мікротвердости аморфних фаз від 477 до 573 К і від 2,97 до 3,11 ГПа в стопах Al$_{86}$Ni$_{8-x}$Co$_{x}$Y$_{6}$, від 496 до 577 К і від 3,23 до 3,4 ГПа в стопах Al$_{86}$Ni$_{8-x}$Co$_{x}$Gd$_{6}$ відповідно та зміни механізму першої стадії кристалізації від однофазного до двофазного. Показано, що формування аморфно-нанокристалічних структур на першій стадії кристалізації приводить до істотного підвищення твердости до 5,98 $\\pm$ 0,07 ГПа в стопах Al$_{86}$Ni$_{8-x}$Co$_{x}$Y$_{6}$ і 5,0 $\\pm$ 0,03 ГПа в стопах Al$_{86}$Ni$_{8-x}$Co$_{x}$Gd$_{6}$. Висловлено припущення про те, що зміни термічної стабільности і мікротвердости досліджуваних аморфних стопів зумовлені відмінностями електронної будови атомів перехідних і рідкісноземельних леґувальних елементів.",
+		"en": "The effect of partial and full substitution of Ni by Co in the amorphous Al$_{86}$Ni$_{8-x}$Co$_{x}$Y$_{6}$ and Al$_{86}$Ni$_{8-x}$Co$_{x}$Gd$_{6}$ ($x = 0, 2, 4, 6, 8$) alloys on structure, thermal stability, mechanism of first stage of crystallization and on microhardness in both amorphous state and nanocomposite one is studied by X-ray diffractometry, differential scanning calorimetry, and microhardness measurement methods. As determined, the increase in the Co content leads to increasing of the onset crystallization temperatures and microhardness of amorphous phases from 477 to 573 K and from 2.97 to 3.11 GPa in Al$_{86}$Ni$_{8-x}$Co$_{x}$Y$_{6}$ alloys, from 496 to 577 K and from 3.23 to 3.4 GPa in Al$_{86}$Ni$_{8-x}$Co$_{x}$Gd$_{6}$ alloys, respectively, and to changing of first stage of crystallization mechanism from one-phase mechanism to two-phase one. As shown, the formation of amorphous—nanocrystalline structures at the first stage of crystallization results in an essential increase of microhardness up to 5.98 $\\pm$ 0.07 GPa in Al$_{86}$Ni$_{8-x}$Co$_{x}$Y$_{6}$ alloys and up to 5.0 $\\pm$ 0.03 GPa in Al$_{86}$Ni$_{8-x}$Co$_{x}$Gd$_{6}$ alloys. As suggested, the observed changes in thermal stability and microhardness of the amorphous alloys may be caused by the differences in the electronic structure of the alloying rare-earth elements.",
+		"ru": "Методами рентгеновской дифрактометрии, дифференциальной сканирующей калориметрии и измерения микротвёрдости исследовано влияние частичной и полной замены никеля кобальтом в аморфных сплавах Al$_{86}$Ni$_{8-x}$Co$_{x}$Y$_{6}$ и Al$_{86}$Ni$_{8-x}$Co$_{x}$Gd$_{6}$ ($x = 0, 2, 4, 6, 8$) на структуру, термическую устойчивость, характер первой стадии кристаллизации и на микротвёрдость в аморфном и нанокомпозитном состояниях. Установлено, что повышение концентрации кобальта приводит к повышению температур начала кристаллизации и микротвёрдости аморфных фаз от 477 до 573 К и от 2,97 до 3,11 ГПа в сплавах Al$_{86}$Ni$_{8-x}$Co$_{x}$Y$_{6}$, от 496 до 577 К и от 3,23 до 3,4 ГПа в сплавах Al$_{86}$Ni$_{8-x}$Co$_{x}$Gd$_{6}$ соответственно и изменению механизма первой стадии кристаллизации от однофазного к двухфазному. Показано, что формирование аморфно-нанокристаллических структур на первой стадии кристаллизации приводит к существенному повышению твёрдости до 5,98 $\\pm$ 0,07 ГПа в сплавах Al$_{86}$Ni$_{8-x}$Co$_{x}$Y$_{6}$ и 5,0 $\\pm$ 0,03 ГПа в сплавах Al$_{86}$Ni$_{8-x}$Co$_{x}$Gd$_{6}$. Высказано предположение о том, что изменения термической устойчивости и микротвёрдости исследованных аморфных сплавов обусловлены различиями электронного строения атомов переходных и редкоземельных легирующих элементов."
+	},
+	"keywords": {
+		"ua": "механізм кристалізації, мікротвердість, термічна стійкість, легування, нанокристали, аморфні сплави на основі Al",
+		"en": "crystallization mechanism, microhardness, thermal stability, alloying, nanocrystals, amorphous Al-based alloys",
+		"ru": "механизм кристаллизации, микротвёрдость, термическая устойчивость, легирование, нанокристаллы, аморфные сплавы на основе Al"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. К. Носенко", "en": "V. K. Nosenko", "ru": "В. К. Носенко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. О. Сегіда", "en": "O. O. Segida", "ru": "Е. А. Сегида"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Г. О. Назаренко", "en": "A. A. Nazarenko", "ru": "А. А. Назаренко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Т. М. Моісеєва", "en": "T. N. Moiseeva", "ru": "Т. Н. Моисеева"},
+			"OID": [8]
+		},
+		{
+			"AID": {"ua": "С. О. Костиря", "en": "S. A. Kostyrya", "ru": "С. А. Костыря"},
+			"OID": [8]
+		},
+		{
+			"AID": {"ua": "К. А. Свірідова", "en": "E. A. Svirdova", "ru": "Е. А. Свирдова"},
+			"OID": [8,212]
+		},
+		{
+			"AID": {"ua": "В. І. Ткач", "en": "V. I. Tkach", "ru": "В. И. Ткач"},
+			"OID": [8]
+		}
+	],
+	"references": {
+		"count": 31,
+		"list":  []
+	}
+}

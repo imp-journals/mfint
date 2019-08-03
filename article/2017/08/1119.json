@@ -1,0 +1,142 @@
+{
+	"_id":    "MFiNT.39.08.1119",
+	"year":   2017,
+	"volume": 39,
+	"issue":  8,
+	"pages":  [1119,1128],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["21.06.2017"],
+	"PACS":   "62.20.Hg, 62.20.M-, 64.75.Op, 81.30.Mh, 81.40.Cd, 81.40.Lm, 81.40.Np",
+	"title":   {
+		"ua": "Металографічні та механічні дослідження литого жароміцного стопу",
+		"en": "Metallographic and Mechanical Studies of a Cast Heat-Resisting Alloy",
+		"ru": "Металлографические и механические исследования литого жаропрочного сплава"
+	},
+	"abstract": {
+		"ua": "Для встановлення механізму руйнування було вивчено виготовлену з модифікованої жароміцної сталі НР40 трубу з аміячного заводу, що вийшла з ладу після короткотермінового використання. Вивчення деґрадації матеріялу було проведено за допомогою оптичної та сканівної електронної мікроскопій у комбінації з енергодисперсійною спектроскопічною аналізою, рентґенодифракційними дослідженнями та механічними випробуваннями. Встановлено, що виділення насичених Хромом карбідів викликає коалесценцію меж зерен. Також встановлено істотне зростання та розріджений розподіл у матриці вторинних карбідів, що приводить до зниження пластичности матеріялу навіть після короткотермінового використання. Основною причиною виходу труб з ладу є пошкоджений каталізатор. Ця проблема може спричинити підвищення температури, що призводить до локального перегріву в нижній частині труби. Саме перегрівання, перш за все, є відповідальним за значні деґрадацію мікроструктури, погіршення межі плазучости та механічних властивостей труб.",
+		"en": "A heat-resistant steel tube from an ammonia plant made of modified HP40 steel that failed after short-term service is studied for damage mechanism. The assessment of material degradation is carried out using optical microscopy, scanning electron microscopy in combination with energy dispersive spectroscopy analysis, x-ray diffraction analysis, and mechanical tests. Results show that precipitation of the chromium-rich carbides induces the coalescence of grain boundaries. Significant growth and poor distribution of secondary carbides are also noticed through the matrix, which lead to a reduction of material ductility even after a short-term service. The main cause of failure appears to be damaged catalyst. Such a problem can cause a rise in temperature leading to localized overheating in the lower part of the tube. Overheating is primarily responsible for significant degradation in microstructure, creep strength, and mechanical properties of the tube.",
+		"ru": "Для установления механизма разрушения была изучена изготовленная из модифицированной жаропрочной стали НР40 труба с аммиачного завода, вышедшая из строя после кратковременного использования. Изучение деградации материала было проведено с помощью оптической и сканирующей электронной микроскопий в комбинации с энергодисперсионным спектроскопическим анализом, рентгенодифракционными исследованиями и механическими испытаниями. Установлено, что выделение насыщенных хромом карбидов вызывает коалесценцию границ зёрен. Также установлено существенное увеличение и разрежённое распределение вторичных карбидов в матрице, что приводит к снижению пластичности материала даже после кратковременного использования. Основной причиной выхода труб из строя является повреждённый катализатор. Эта проблема может вызвать повышение температуры, что приводит к локальному перегреву в нижней части трубы. Именно перегрев, в первую очередь, ответственен за существенные деградацию микроструктуры, ухудшение границы ползучести и механических свойств трубки."
+	},
+	"keywords": {
+		"ua": "жароміцна сталь, карбід, механізм пошкодження, перегрів, плазучість",
+		"en": "heat-resistant steel, carbide, damage mechanism, overheating, creep",
+		"ru": "жаропрочная сталь, карбид, механизм повреждения, перегрев, ползучесть"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. Ешауі", "en": "M. Aichaoui", "ru": "М. Эшауи"},
+			"OID": [520]
+		},
+		{
+			"AID": {"ua": "А. Хаджі", "en": "A. Hadji", "ru": "А. Хаджи"},
+			"OID": [520]
+		}
+	],
+	"references": {
+		"count": 20,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "C. E. Jaske, The Annual Conference ‘CORROSION 2005’ (April 3–7, 2005, Houston) (Houston: 2005), p. 05419.",
+				"tr":  "C. E. Jaske, The Annual Conference 'CORROSION 2005' (April 3–7, 2005, Houston) (Houston: 2005), p. 05419."
+			},
+			{
+				"doi": "",
+				"or":  "Standard Specification for Castings, Austenitic, for Pressure-Containing Parts, No. A351/A351M-91.",
+				"tr":  "Standard Specification for Castings, Austenitic, for Pressure-Containing Parts, No. A351/A351M-91."
+			},
+			{
+				"doi": "10.1016/S0921-5093(00)00984-9",
+				"or":  "X. Q. Wu, H. M. Jing, Y. G. Zheng, Z. M. Yao, W. Ke, and Z. Q. Hu, Mater. Sci. Eng. A, 293, Iss. 1–2: 252 (2000).",
+				"tr":  "X. Q. Wu, H. M. Jing, Y. G. Zheng, Z. M. Yao, W. Ke, and Z. Q. Hu, Mater. Sci. Eng. A, 293, Iss. 1–2: 252 (2000)."
+			},
+			{
+				"doi": "10.1016/S1044-5803(00)00047-4",
+				"or":  "J. Rodriguez, S. Haro, A. Velasco, and R. Colas, Material Characterization, 45: 25 (2000).",
+				"tr":  "J. Rodriguez, S. Haro, A. Velasco, and R. Colas, Material Characterization, 45: 25 (2000)."
+			},
+			{
+				"doi": "10.1179/msc.1982.16.4.184",
+				"or":  "T. Thorvaldsson and G. L. Dunlop, Metal Science, 16: 184 (1982).",
+				"tr":  "T. Thorvaldsson and G. L. Dunlop, Metal Science, 16: 184 (1982)."
+			},
+			{
+				"doi": "10.1016/1044-5803(91)90053-7",
+				"or":  "G. D. Barbabela, L. H. de Almeida, T. L. da Silveira, and I. Le May, Material Characterization, 26: 193 (1991).",
+				"tr":  "G. D. Barbabela, L. H. de Almeida, T. L. da Silveira, and I. Le May, Material Characterization, 26: 193 (1991)."
+			},
+			{
+				"doi": "10.1016/j.engfailanal.2007.02.004",
+				"or":  "J. Swaminathan, K. Guguloth, M. Gunjan, P. Ray, and R. Ghosh, Engineering Failure Analysis, 15: 311 (2008).",
+				"tr":  "J. Swaminathan, K. Guguloth, M. Gunjan, P. Ray, and R. Ghosh, Engineering Failure Analysis, 15: 311 (2008)."
+			},
+			{
+				"doi": "10.1016/j.engfailanal.2013.09.020",
+				"or":  "L. Bonaccorsi, E. Guglielmino, R. Pino, C. Servetto, and A. Sili, Engineering Failure Analysis, 36: 65 (2014).",
+				"tr":  "L. Bonaccorsi, E. Guglielmino, R. Pino, C. Servetto, and A. Sili, Engineering Failure Analysis, 36: 65 (2014)."
+			},
+			{
+				"doi": "10.1016/j.matdes.2011.03.008",
+				"or":  "W. Z. Wang, F. Z. Xuan, Z. D. Wang, B. Wang, and C. J. Liu, Materials and Design, 32: 4010 (2011).",
+				"tr":  "W. Z. Wang, F. Z. Xuan, Z. D. Wang, B. Wang, and C. J. Liu, Materials and Design, 32: 4010 (2011)."
+			},
+			{
+				"doi": "10.1016/j.engfailanal.2005.04.003",
+				"or":  "A. U. Hamid, H. M. Tawancy, A. I. Mohammed, and N. M. Abbas, Engineering Failure Analysis, 13: 1005 (2006).",
+				"tr":  "A. U. Hamid, H. M. Tawancy, A. I. Mohammed, and N. M. Abbas, Engineering Failure Analysis, 13: 1005 (2006)."
+			},
+			{
+				"doi": "10.1016/j.engfailanal.2004.03.012",
+				"or":  "K. Guan, H. Xu, and Zh. Wang, Engineering Failure Analysis, 12: 420 (2005).",
+				"tr":  "K. Guan, H. Xu, and Zh. Wang, Engineering Failure Analysis, 12: 420 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "T. L. da Silveira and I. Le May, Arabian Journal for Science and Engineering, 31, No. 2C: 99 (2006).",
+				"tr":  "T. L. da Silveira and I. Le May, Arabian Journal for Science and Engineering, 31, No. 2C: 99 (2006)."
+			},
+			{
+				"doi": "10.1016/j.msea.2005.08.223",
+				"or":  "Azmi Abdul Wahab and K. V. Milo, Mater. Sci. Eng. A, 412, Iss. 1–2: 222 (2005).",
+				"tr":  "Azmi Abdul Wahab and K. V. Milo, Mater. Sci. Eng. A, 412, Iss. 1–2: 222 (2005)."
+			},
+			{
+				"doi": "10.1016/1044-5803(92)90045-J",
+				"or":  "G. D. A. Soares, L. H. de Almeida, T. L. da Selveira, and I. Le May. Material Characterization, 29: 387 (1992).",
+				"tr":  "G. D. A. Soares, L. H. de Almeida, T. L. da Selveira, and I. Le May. Material Characterization, 29: 387 (1992)."
+			},
+			{
+				"doi": "",
+				"or":  "T. L. Shinoda, M. B. Zaghloul, Y. Kondo, and R. Tanaka, Transactions of the Iron and Steel Institute of Japan, 18: 139 (1998).",
+				"tr":  "T. L. Shinoda, M. B. Zaghloul, Y. Kondo, and R. Tanaka, Transactions of the Iron and Steel Institute of Japan, 18: 139 (1998)."
+			},
+			{
+				"doi": "10.1016/S1044-5803(01)00166-8",
+				"or":  "B. Piekarski, Material Characterization, 47: 181 (2001).",
+				"tr":  "B. Piekarski, Material Characterization, 47: 181 (2001)."
+			},
+			{
+				"doi": "10.1016/j.matchar.2008.01.013",
+				"or":  "R. Dehmolaei, M. Shamanian, and A. Kermanpur, Material Characterization, 59: 1447 (2008).",
+				"tr":  "R. Dehmolaei, M. Shamanian, and A. Kermanpur, Material Characterization, 59: 1447 (2008)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2015.08.056",
+				"or":  "S. Yu. Kondrat’ev, V. S. Kraposhin, G. P. Anastasiadi, and A. L. Talis, Acta Mater., 100: 275 (2015).",
+				"tr":  "S. Yu. Kondrat'ev, V. S. Kraposhin, G. P. Anastasiadi, and A. L. Talis, Acta Mater., 100: 275 (2015)."
+			},
+			{
+				"doi": "10.1016/S1359-6462(03)00238-0",
+				"or":  "E. A. Kenik, P. J. Maziasz, R. W. Swindeman, J. Cervenka, and D. May, Scr. Mater., 49: 117 (2003).",
+				"tr":  "E. A. Kenik, P. J. Maziasz, R. W. Swindeman, J. Cervenka, and D. May, Scr. Mater., 49: 117 (2003)."
+			},
+			{
+				"doi": "10.1016/0001-6160(88)90105-8",
+				"or":  "D. J. Powell, R. Pilkington, and D. A. Miller, Acta Metall., 36, Iss. 3: 713 (1988).",
+				"tr":  "D. J. Powell, R. Pilkington, and D. A. Miller, Acta Metall., 36, Iss. 3: 713 (1988)."
+			}
+		]
+	}
+}

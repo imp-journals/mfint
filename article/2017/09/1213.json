@@ -1,0 +1,108 @@
+{
+	"_id":    "MFiNT.39.09.1213",
+	"year":   2017,
+	"volume": 39,
+	"issue":  9,
+	"pages":  [1213,1225],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["07.04.2015","08.08.2017"],
+	"PACS":   "61.72.Lk, 61.72.Mm, 61.72.S-, 62.20.fk, 81.20.Hy, 81.40.Ef, 83.50.Uv",
+	"title":   {
+		"ua": "Структурна схильність до пластичного деформування листових феритних корозійностійких сталей",
+		"en": "Structural Liability of Sheet-Rolled Corrosion-Resistant Ferritic Steels to a Plastic Deforming",
+		"ru": "Структурная склонность к пластическому деформированию листовых ферритных коррозионностойких сталей"
+	},
+	"abstract": {
+		"ua": "В роботі проаналізовано вплив термодеформаційних режимів оброблення корозійностійкої феритної сталі марки 08Х18Т1 на її механічні властивості. Встановлено, що при проведенні додаткового термічного оброблення гарячекатаного підкату по завершенні технологічного циклу виготовлення холоднокатаного листового металопрокату формується структура з різною (за розміром кристалітів) зеренною будовою та кількістю вторинної зміцнювальної фази. За результатами дослідження мікроструктури та механічних властивостей розроблено термодеформаційні режими виготовлення холоднокатаного листового прокату феритних корозійностійких сталей з урахуванням характеру напружено-деформованого стану, який формується в заготовці при конкретних операціях формозміни.",
+		"en": "The effect of thermal-deformation treatment modes of corrosion-resistant ferritic steel of 08Kh18T1 grade on its mechanical properties is analysed. As found, the structure of crystallites with different grain sizes and various amount of secondary strengthening phase is formed due to carrying out an additional heat treatment after completing technological processes of producing a cold-rolled sheet. Thermal-deformation modes of manufacturing cold-rolled sheet materials from corrosion-resistant ferritic steels are developed according to the results of the microstructure and mechanical properties’ studies. The nature of the stress–strain state formed in the workpiece during specific forming processes is also taken into account.",
+		"ru": "В работе проанализировано влияние термодеформационных режимов обработки коррозионностойкой ферритной стали марки 08Х18Т1 на её механические свойства. Установлено, что в результате проведения дополнительной термической обработки по окончании технологического цикла получения холоднокатаного листа формируется структура с различным (по размеру кристаллитов) зёренным строением и количеством вторичной упрочняющей фазы. По результатам исследования микроструктуры и механических свойств разработаны термодеформационные режимы изготовления холоднокатаного листового проката ферритных коррозионностойких сталей с учётом характера напряжённо-деформированного состояния, которое формируется в заготовке при конкретных операциях формоизменения."
+	},
+	"keywords": {
+		"ua": "високохромистий ферит, холодна прокатка, термічне оброблення, механічні властивості, формозміна",
+		"en": "high-chromium ferrite, cold rolling, heat treatment, mechanical properties, forming",
+		"ru": "высокохромистый феррит, холодная прокатка, термическая обработка, механические свойства, формоизменение"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Л. Грешта", "en": "V. L. Greshta", "ru": "В. Л. Грешта"},
+			"OID": [220]
+		}
+	],
+	"references": {
+		"count": 14,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "И. А. Томилин, В. И. Саррак, Н. А. Горохова, С. О. Суворова, Л. Л. Жуков, Физ. мет. металловед., 56, вып. 3: 501 (1983).",
+				"tr":  "I. A. Tomilin, V. I. Sarrak, N. A. Gorokhova, S. O. Suvorova, and L. L. Zhukov, Fiz. Met. Metalloved., 56, Iss. 3: 501 (1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Л. Бондаренко, Металлофизика, 7: (1978).",
+				"tr":  "A. L. Bondarenko, Metallofizika, 7: (1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Л. Бондаренко, А. В. Климов, В. Л. Грешта, Совершенствование процессов и оборудования обработки давлением в металлургии и машиностроении (Краматорск: ДГМА: 1998), с. 175.",
+				"tr":  "A. L. Bondarenko, A. V. Klimov, and V. L. Greshta, Sovershenstvovanie Protsessov i Oborudovaniya Obrabotki Davleniem v Metallurgii i Mashinostroenii [Improving Processes and Equipment Forming in Metallurgy and Mechanical Engineering] (Kramatorsk: DGMA: 1998), p. 175 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ю. Ольшанецький, В. Л. Грешта, А. Л. Бондаренко, Нові матеріали і технології в металургії та машинобудуванні, № 2: 78 (2002).",
+				"tr":  "V. Yu. Ol'shanets'kyy, V. L. Greshta, and A. L. Bondarenko, Novi Materialy i Tekhnologiyi v Metalurgiyi ta Mashynobuduvanni, No. 2: 78 (2002) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Л. Грешта, Вісник Приазовського державного технічного університету, 29: 90 (2014).",
+				"tr":  "V. L. Greshta, Visnyk Pryazovs'kogo Derzhavnogo Tekhnichnoho Universytetu, 29: 90 (2014) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Л. Бондаренко, В. Л. Грешта, Л. П. Степанова, Нові матеріали і технології в металургії та машинобудуванні, № 2: 33 (2000).",
+				"tr":  "A. L. Bondarenko, V. L. Greshta, and L. P. Stepanova, Novi Materialy i Tekhnologiyi v Metalurgiyi ta Mashynobuduvanni, No. 2: 33 (2000) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Н. Христенко, Металлы, № 5: 139 (1985).",
+				"tr":  "I. N. Khristenko, Metally, No. 5: 139 (1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Л. Бондаренко, В. С. Виниченко, Ю. Т. Рыбаченко, Новые конструкционные материалы и эффективные методы их получения и обработки (Киев: УМВК ВО: 1988), с. 32.",
+				"tr":  "A. L. Bondarenko, V. S. Vinichenko, and Yu. T. Rybachenko, Novye Konstruktsionnye Materialy i Effektivnye Metody Ikh Polucheniya i Obrabotki [New Construction Materials and Efficient Methods for Their Preparation and Treatment] (Kyiv: UMVK VO: 1988), p. 32 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "F. B. Pickering, Symp. Climax Molybdenum Co. (Kyoto: 1971), vol. 9, p. 255.",
+				"tr":  "F. B. Pickering, Symp. Climax Molybdenum Co. (Kyoto: 1971), vol. 9, p. 255."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Трефилов, И. Д. Горная, В. Ф. Моисеев, Э. П. Печковский, Докл. АН УССР. Сер. А, № 5: 83 (1980).",
+				"tr":  "V. I. Trefilov, I. D. Gornaya, V. F. Moiseev, and E. P. Pechkovskiy, Dokl. AN Ukr.SSR. Ser. A, No. 5: 83 (1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Л. Бондаренко, В. Л. Грешта, Г. А. Бялік, Т. П. Семенюк, Нові конструкційні сталі та стопи і методи їх обробки для підвищення надійності та довговічності виробів (Запоріжжя: ЗНТУ: 2003), с. 59.",
+				"tr":  "A. L. Bondarenko, V. L. Greshta, H. A. Byalik, and T. P. Semenyuk, Novi Konstruktsiyni Stali ta Stopy i Metody Yikh Obrobky dlya Pidvyshchennya Nadiynosti ta Dovgovichnosti Vyrobiv [New Structural Steels and Alloys and Methods of Their Treatment to Improve the Reliability and Durability of Products] (Zaporizhzhya: ZNTU: 2003), p. 59 (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. F. Ashby, Proc. Second Bolton Landing Conference on Oxide Dispersion Strengthening (New York: Gordon and Breach: 1968), p. 143.",
+				"tr":  "M. F. Ashby, Proc. Second Bolton Landing Conference on Oxide Dispersion Strengthening (New York: Gordon and Breach: 1968), p. 143."
+			},
+			{
+				"doi": "",
+				"or":  "J. C. Wright, Sheet Metal Industries, 38, No. 415: 813 (1961).",
+				"tr":  "J. C. Wright, Sheet Metal Industries, 38, No. 415: 813 (1961)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(98)00006-8",
+				"or":  "M. Tang, L. P. Kubin, and G. R. Ganova, Acta Mater., 46, Iss. 9: 3221 (1998).",
+				"tr":  "M. Tang, L. P. Kubin, and G. R. Ganova, Acta Mater., 46, Iss. 9: 3221 (1998)."
+			}
+		]
+	}
+}

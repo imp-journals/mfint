@@ -1,0 +1,76 @@
+{
+	"_id":    "MFiNT.36.04.0551",
+	"year":   2014,
+	"volume": 36,
+	"issue":  4,
+	"pages":  [551,557],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["25.11.2013"],
+	"PACS":   "75.50.Gg, 75.60.Jk, 75.75.Jn, 75.78.Jp, 78.20.Ls, 78.47.J-, 85.75.-d",
+	"title":   {
+		"ua": "Лазерно-індукована післядія в тунельних магнетних наноструктурах",
+		"en": "Laser-Induced After-Effect in Tunnel Magnetic Nanostructures",
+		"ru": "Лазерно-индуцированное последействие в туннельных магнитных наноструктурах"
+	},
+	"abstract": {
+		"ua": "Досліджено лазерно-індуковані ефекти післядії в магнетних наноструктурах, які полягають в перемагнетуванні у полі ультракоротких циркулярно поляризованих лазерних імпульсів. З використанням магнетооптичної методи накачування—зондування, що ґрунтується на Керровому та Фарадейовому ефектах, встановлено особливості перемагнетування у феримагнетних наноструктурах під дією фемтосекундних лазерних імпульсів. Показано, що механізми такого лазерно-індукованого впливу є комплексними процесами лазерно-індукованого теплового розмагнетовування феримагнетних підґратниць з подальшим підмагнетовуванням внутрішніми ефективними полями різної природи. Залежно від тривалости й інтенсивности лазерних імпульсів, це можуть бути поля лазерного випромінення або внутрішні поля, пов’язані з відмінністю швидкостей теплового розмагнетовування підґратниць. Розглянуто особливості лазерно-індукованого тунельного магнеторезистивного ефекту в феримагнетних переходах.",
+		"en": "The laser-induced magnetic after-effects in magnetic nanostructures consisting in magnet reversal under ultra-short circularly polarized laser pulses are studied. Using the magneto-optical method and a pump—probe technique based on the Kerr and Faraday effects, features and conditions of magnetic reversal in ferrimagnetic-based nanostructures under femtosecond circularly polarized laser pulses are established. As shown, the mechanisms of such laser-induced impact are a complex process of laser-induced thermal demagnetization of magnetic sublattices with a subsequent magnetic biasing by internal magnetic fields of different nature. Depending on the laser-pulse duration and intensity, they can be effective magnetic fields of laser irradiation or internal magnetic fields conditioned by different rates of the thermal demagnetization of ferrimagnetic sublattices. Features of the laser-induced tunnel magnetoresistance effect in ferrimagnetic junctions are considered.",
+		"ru": "Исследованы лазерно-индуцированные эффекты последействия в магнитных наноструктурах, состоящие в перемагничивании в поле ультракоротких циркулярно поляризованных лазерных импульсов. С использованием магнитооптического метода накачки—зондирования, основанного на эффектах Керра и Фарадея, установлены особенности перемагничивания в ферримагнитных наноструктурах под действием фемтосекундных лазерных импульсов. Показано, что механизмы такого лазерно-индуцированного воздействия являются комплексными процессами лазерно-индуцированного теплового размагничивания магнитных подрешёток с последующим подмагничиванием эффективными внутренними полями различной природы. В зависимости от длительности и интенсивности лазерных импульсов это могут быть поля лазерного излучения или внутренние поля, связанные с различием скоростей теплового размагничивания подрешёток. Рассмотрены особенности лазерно-индуцированного туннельного магниторезистивного эффекта в ферримагнитных переходах."
+	},
+	"keywords": {
+		"ua": "динаміка намагнетовування, перемагнетування, магнетооптичні ефекти, тунельний магнеторезистивний ефект, феримагнетні наноструктури, імпульсне лазерне випромінення",
+		"en": "magnetization dynamics, magnetic reversal, magneto-optical effects, tunnel magnetoresistance effect, ferrimagnetic nanostructures, pulsed laser radiation",
+		"ru": "динамика намагничивания, перемагничивание, магнитооптические эффекты, туннельный магнитооптический эффект, ферримагнитные наноструктуры, импульсное лазерное излучение"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. М. Крупа", "en": "M. M. Krupa", "ru": "М. М. Крупа"},
+			"OID": [7]
+		},
+		{
+			"AID": {"ua": "В. Г. Костишин", "en": "V. G. Kostishin", "ru": "В. Г. Костишин"},
+			"OID": [448]
+		},
+		{
+			"AID": {"ua": "А. М. Коростиль", "en": "A. M. Korostil", "ru": "А. М. Коростиль"},
+			"OID": [7]
+		}
+	],
+	"references": {
+		"count": 6,
+		"list":  [
+			{
+				"doi": "10.1103/RevModPhys.76.323",
+				"or":  "I. Zutic, J. Fabian, and S. Das Sarma, Rev. Mod. Phys., 76, No. 2: 323 (2004).",
+				"tr":  "I. Zutic, J. Fabian, and S. Das Sarma, Rev. Mod. Phys., 76, No. 2: 323 (2004)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.82.2731",
+				"or":  "A. Kirilyuk, A. V. Kimel, and T. Rasing, Rev. Mod. Phys., 82, No. 3: 2731 (2010).",
+				"tr":  "A. Kirilyuk, A. V. Kimel, and T. Rasing, Rev. Mod. Phys., 82, No. 3: 2731 (2010)."
+			},
+			{
+				"doi": "10.1038/nature09901",
+				"or":  "I. Radu, K. Vahaplar, C. Stamm, T. Kachel, N. Pontius, H. A. Dürr, T. A. Ostler, J. Barker, R. F. L. Evans, R. W. Chantrell, A. Tsukamoto, A. Itoh, A. Kirilyuk, Th. Rasing, and A. V. Kimel, Nature, 472, Iss. 7342: 205 (2011).",
+				"tr":  "I. Radu, K. Vahaplar, C. Stamm, T. Kachel, N. Pontius, H. A. Dürr, T. A. Ostler, J. Barker, R. F. L. Evans, R. W. Chantrell, A. Tsukamoto, A. Itoh, A. Kirilyuk, Th. Rasing, and A. V. Kimel, Nature, 472, Iss. 7342: 205 (2011)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.110.107205",
+				"or":  "A. R. Khorsand, M. Savoini, A. Kirilyuk, A. V. Kimel, A. Tsukamoto, A. Itoh, and Th. Rasing, Phys. Rev. Lett., 110, No. 10: 107205-1 (2013).",
+				"tr":  "A. R. Khorsand, M. Savoini, A. Kirilyuk, A. V. Kimel, A. Tsukamoto, A. Itoh, and Th. Rasing, Phys. Rev. Lett., 110, No. 10: 107205-1 (2013)."
+			},
+			{
+				"doi": "10.1038/ncomms1666",
+				"or":  "T. A. Ostler, J. Barker, R. F. L. Evans, R.W. Chantrell, U. Atxitia, O. Chubykalo-Fesenko, S. El Moussaoui, L. Le Guyader, E. Mengotti, L. J. Heyderman, F. Nolting, A. Tsukamoto, A. Itoh, D. Afanasiev, B. A. Ivanov, A. M. Kalashnikova, K. Vahaplar, J. Mentink, A. Kirilyuk, Th. Rasing, and A. V. Kimel, Nature Communications, 3, No. 666: 1 (2012).",
+				"tr":  "T. A. Ostler, J. Barker, R. F. L. Evans, R.W. Chantrell, U. Atxitia, O. Chubykalo-Fesenko, S. El Moussaoui, L. Le Guyader, E. Mengotti, L. J. Heyderman, F. Nolting, A. Tsukamoto, A. Itoh, D. Afanasiev, B. A. Ivanov, A. M. Kalashnikova, K. Vahaplar, J. Mentink, A. Kirilyuk, Th. Rasing, and A. V. Kimel, Nature Communications, 3, No. 666: 1 (2012)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.53.11388",
+				"or":  "V. M. Shalaev, C. Douketis, J. T. Stuckless, and M. Moskovits, Phys. Rev. B, 53, No. 17: 11388 (1996).",
+				"tr":  "V. M. Shalaev, C. Douketis, J. T. Stuckless, and M. Moskovits, Phys. Rev. B, 53, No. 17: 11388 (1996)."
+			}
+		]
+	}
+}

@@ -1,0 +1,158 @@
+{
+	"_id":    "MFiNT.39.11.1445",
+	"year":   2017,
+	"volume": 39,
+	"issue":  11,
+	"pages":  [1445,1454],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["20.10.2017"],
+	"PACS":   "03.50.De, 63.20.kd, 71.10.Ca, 71.45.Gm, 72.15.Lh, 73.20.Mf, 78.20.Bh, 78.67.Bf",
+	"title":   {
+		"ua": "Релаксація енергії зв’язку електронів з фононами в металах",
+		"en": "Relaxation of a Coupling Energy of Electrons with Phonons in Metals",
+		"ru": "Релаксация энергии связи электронов с фононами в металлах"
+	},
+	"abstract": {
+		"ua": "Досліджується релаксація енергії електронів на коливаннях ґратниці у металах. Розподіл енергії по станах вважається рівноважним, що можна описати функціями Фермі та Бозе. Одержано аналітичну формулу для втрати електронної енергії за одиницю часу, необхідної для запуску акустичних коливань ґратниці. Показано, що величина поглинутої ґратницею потужности визначається співвідношеннями температур Дебайової та ґратниці, а також температур ґратниці й електронів.",
+		"en": "The relaxation of electron energy by means of the lattice vibrations in a metal is investigated. The energy distribution between the states is considered as equilibrium one that can be described by the Fermi and Bose functions. An analytical formula is obtained for the electron-energy loss per unit time that is necessary to trigger the lattice acoustic vibrations. As shown, the value of power absorbed by lattice is defined by both relations of the Debye temperature to the lattice temperature and the lattice temperature to the electrons’ temperature.",
+		"ru": "Исследуется релаксация энергии электронов на колебаниях решётки в металлах. Распределение энергии по состояниям считается равновесным, таким, что можно описать функциями Ферми и Бозе. Получена аналитическая формула для потери электронной энергии в единицу времени, необходимой для запуска акустических колебаний решётки. Показано, что величина поглощённой решёткой мощности определяется соотношениями температур Дебая и решётки, а также температур решётки и электронов."
+	},
+	"keywords": {
+		"ua": "метали, електрон-фононний зв’язок, температура електронів",
+		"en": "metals, electron–phonon coupling, electrons’ temperature",
+		"ru": "металлы, электрон-фононная связь, температура электронов"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. І. Григорчук", "en": "M. I. Grygorchuk", "ru": "Н. И. Григорчук"},
+			"OID": [28]
+		}
+	],
+	"references": {
+		"count": 24,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "J. M. Ziman, Electrons and Phonons (Oxford: Clarendon Press: 1960).",
+				"tr":  "J. M. Ziman, Electrons and Phonons (Oxford: Clarendon Press: 1960)."
+			},
+			{
+				"doi": "",
+				"or":  "V. L. Ginzburg and V. P. Shabanski, Sov. Doklady AN SSSR, 100: 445 (1955).",
+				"tr":  "V. L. Ginzburg and V. P. Shabanski, Sov. Doklady AN SSSR, 100: 445 (1955)."
+			},
+			{
+				"doi": "10.1103/PhysRev.108.1175",
+				"or":  "J. Bardin, L. N. Cooper, and J. R. Schriffer, Phys. Rev., 106: 162 (1957); ibidem, 108: 1175 (1957).",
+				"tr":  "J. Bardin, L. N. Cooper, and J. R. Schriffer, Phys. Rev., 106: 162 (1957); ibidem, 108: 1175 (1957)."
+			},
+			{
+				"doi": "10.1016/0003-4916(64)90008-9",
+				"or":  "T. Holstein, Annals of Physics, 29: 410 (1964).",
+				"tr":  "T. Holstein, Annals of Physics, 29: 410 (1964)."
+			},
+			{
+				"doi": "10.1063/1.3068476",
+				"or":  "P. E. Hopkins, J. L. Kassebaum, and P. M. Norris, J. Appl. Phys., 105: 023710 (2009).",
+				"tr":  "P. E. Hopkins, J. L. Kassebaum, and P. M. Norris, J. Appl. Phys., 105: 023710 (2009)."
+			},
+			{
+				"doi": "10.1023/B:IJOT.0000028478.11341.89",
+				"or":  "A. N. Smith and J. P. Calame, Int. J. Thermophys., 25: 409 (2004).",
+				"tr":  "A. N. Smith and J. P. Calame, Int. J. Thermophys., 25: 409 (2004)."
+			},
+			{
+				"doi": "10.2351/1.1848522",
+				"or":  "J. K. Chen, W. P. Latham, and J. E. Beraun, J. Laser. Appl., 17: 63 (2005).",
+				"tr":  "J. K. Chen, W. P. Latham, and J. E. Beraun, J. Laser. Appl., 17: 63 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "M. I. Kaganov, I. M. Lifshitz, and L. V. Tanatarov, Sov. Phys. JETP, 4: 173 (1957).",
+				"tr":  "M. I. Kaganov, I. M. Lifshitz, and L. V. Tanatarov, Sov. Phys. JETP, 4: 173 (1957)."
+			},
+			{
+				"doi": "",
+				"or":  "S. I. Anisimov, B. L. Kapeliovich, and T. L. Perelman, Sov. Phys. JETP, 39: 375 (1974).",
+				"tr":  "S. I. Anisimov, B. L. Kapeliovich, and T. L. Perelman, Sov. Phys. JETP, 39: 375 (1974)."
+			},
+			{
+				"doi": "10.1115/1.2911377",
+				"or":  "T. Q. Qui and C. L. Tien, Trans. ASME J. Heat Transf., 115: 835 (1993).",
+				"tr":  "T. Q. Qui and C. L. Tien, Trans. ASME J. Heat Transf., 115: 835 (1993)."
+			},
+			{
+				"doi": "10.1016/S0370-1573(99)00094-0",
+				"or":  "R. D. Fedorovich, A. G. Naumovets, and P. M. Tomchuk, Phys. Rep., 328: 73 (2000).",
+				"tr":  "R. D. Fedorovich, A. G. Naumovets, and P. M. Tomchuk, Phys. Rep., 328: 73 (2000)."
+			},
+			{
+				"doi": "10.1016/j.susc.2009.09.012",
+				"or":  "Y. Bilitsky, N. I. Grigorchuk, and P. M. Tomchuk, Surf. Sci., 603: 3267 (2009).",
+				"tr":  "Y. Bilitsky, N. I. Grigorchuk, and P. M. Tomchuk, Surf. Sci., 603: 3267 (2009)."
+			},
+			{
+				"doi": "10.5488/CMP.16.33706",
+				"or":  "N. I. Grigorchuk, Condens. Matter Phys., 16: 33706 (2013).",
+				"tr":  "N. I. Grigorchuk, Condens. Matter Phys., 16: 33706 (2013)."
+			},
+			{
+				"doi": "10.1039/c3cs60367a",
+				"or":  "A. Crut, P. Maioli, N. Del Fatti, and F. Vallèe, Chem. Soc. Rev., 43: 3921 (2014).",
+				"tr":  "A. Crut, P. Maioli, N. Del Fatti, and F. Vallèe, Chem. Soc. Rev., 43: 3921 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "П. М. Томчук, М. І. Григорчук, Металлофиз. новейшие технол., 29, № 5: 623 (2007).",
+				"tr":  "P. M. Tomchuk and M. I. Grigorchuk, Metallofiz. Noveishie Tekhnol., 29, No. 5: 623 (2007) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.86.075463",
+				"or":  "V. G. Karpov, M. Nardone, and N. I. Grigorchuk, Phys. Rev. B, 86: 075463 (2012).",
+				"tr":  "V. G. Karpov, M. Nardone, and N. I. Grigorchuk, Phys. Rev. B, 86: 075463 (2012)."
+			},
+			{
+				"doi": "10.1063/1.4942216",
+				"or":  "D. Gall, J. Appl. Phys., 119: 085101 (2016).",
+				"tr":  "D. Gall, J. Appl. Phys., 119: 085101 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "Ч. Киттель, Введение в физику твёрдого тела (Москва: Наука: 1978).",
+				"tr":  "Ch. Kittel, Introduction to Solid State Physics (New York: Wiley: 1995)."
+			},
+			{
+				"doi": "",
+				"or":  "Ф. Зейтц, Современная теория твёрдого тела (Москва–Ленинград: Гос. изд. технико-теоретической лит.: 1949).",
+				"tr":  "F. Zeitz, The Modern Theory of Solids (New York: McGraw-Hill Book: 1940)."
+			},
+			{
+				"doi": "10.1063/1.1587686",
+				"or":  "E. A. Coronado and G. C. Schatz, J. Chem. Phys., 119: 3926 (2003).",
+				"tr":  "E. A. Coronado and G. C. Schatz, J. Chem. Phys., 119: 3926 (2003)."
+			},
+			{
+				"doi": "10.1021/jp3067074",
+				"or":  "N. I. Grigorchuk, J. Phys. Chem. C, 116: 23704 (2012).",
+				"tr":  "N. I. Grigorchuk, J. Phys. Chem. C, 116: 23704 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Л. Королюк, Основи статистичної фізики та термодинаміки (Чернівці: Книги-XXI: 2004).",
+				"tr":  "S. L. Koroljuk, Osnovy Statystychnoi Fizyky ta Termodynamiky (Chernivtsi: Knygy-XXI: 2004) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "W. A. Harrison, Solid State Theory (New York–London–Toronto: McGraw-Hill: 1970).",
+				"tr":  "W. A. Harrison, Solid State Theory (New York–London–Toronto: McGraw-Hill: 1970)."
+			},
+			{
+				"doi": "",
+				"or":  "Handbook of Mathematical Functions (New York: Dover Publ.: 1972).",
+				"tr":  "Handbook of Mathematical Functions (New York: Dover Publ.: 1972)."
+			}
+		]
+	}
+}

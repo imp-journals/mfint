@@ -1,0 +1,61 @@
+{
+	"_id":    "MFiNT.37.0499",
+	"year":   2015,
+	"volume": 37,
+	"issue":  4,
+	"pages":  [499,508],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["19.12.2014"],
+	"PACS":   "52.50.Dg, 52.50.Qt, 61.46.Bc, 68.35.Ct, 68.35.Dv, 81.16.Rf, 82.33.Xj",
+	"title":  {
+		"ua": "Формування наноструктурованого рельєфу гетероструктур TiN—Fe в гібридному гелікон-дуговому плазмовому реакторі",
+		"en": "Formation of Nanostructured Relief of TiN—Fe Heterostructures in Hybrid Helicon-Arc Plasma Reactor",
+		"ru": "Формирование наноструктурированного рельефа гетероструктур TiN—Fe в гибридном геликон-дуговом плазменном реакторе"
+	},
+	"abstract": {
+		"ua": "Вивчено особливості фізичних механізмів керованого йонно-плазмового формування нових функціональних наноматеріялів. Відпрацьовано технологічні режими формування функціональних наноструктурованих матеріялів за спільної роботи кількох джерел плазми; вивчено структурні та електрофізичні особливості одержаних плівок TiN. Структури плівок досліджено на сканівному тунельному мікроскопі JSPM-4500/4610, зблокованому з атомним силовим мікроскопом. Встановлено, що оптимізований гелікон-дуговий реактор демонструє унікальні властивості і забезпечує кероване низькотемпературне формування щільних упорядкованих наноструктур TiN з розмірами від одиниць до десятків нанометрів.",
+		"en": "The features of the physical mechanisms of controlled ion-plasma formation of the new functional nanomaterials are investigated. The technological regimes of formation of functional nanostructured materials under combined impact of several plasma sources are investigated; the structural and electrical properties of the obtained TiN films are studied. The structures of films are studied with scanning tunnelling microscope JSPM-4500/4610 interlocked with an atomic force microscope. As shown, the optimized helicon-arc reactor demonstrates the unique properties and provides controlled low-temperature formation of the dense regular TiN nanostructures with the sizes from a few to tens of nanometres.",
+		"ru": "Изучены особенности физических механизмов управляемого ионно-плазменного формирования новых функциональных наноматериалов. Отработаны технологические режимы формирования функциональных наноструктурированных материалов при совместной работе нескольких источников плазмы; изучены структурные и электрофизические особенности полученных плёнок TiN. Структуры плёнок исследованы на сканирующем туннельном микроскопе JSPM-4500/4610, сблокированном с атомным силовым микроскопом. Установлено, что оптимизированный геликонно-дуговой реактор демонстрирует уникальные свойства и обеспечивает управляемое низкотемпературное формирование плотных упорядоченных наноструктур TiN с размерами от единиц до десятков нанометров."
+	},
+	"keywords": {
+		"ua": "плівки TiN, плазма, наноструктури, гелікон-дуговий реактор",
+		"en": "TiN films, plasma, nanostructures, helicon-arc reactor",
+		"ru": "плёнки TiN, плазма, наноструктуры, геликон-дуговой реактор"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Е. М. Руденко", "en": "E. M. Rudenko", "ru": "Э. М. Руденко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "І. В. Короташ", "en": "I. V. Korotash", "ru": "И. В. Короташ"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Д. Ю. Полоцький", "en": "D. Y. Polotskiy", "ru": "Д. Ю. Полоцкий"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Л. С. Осіпов", "en": "L. S. Osipov", "ru": "Л. С. Осипов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. В. Дякін", "en": "M. V. Dyakin", "ru": "М. В. Дякин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Т. О. Пріхна", "en": "T. A. Prikhna", "ru": "Т. А. Прихна"},
+			"OID": [12]
+		},
+		{
+			"AID": {"ua": "А. П. Шаповалов", "en": "A. P. Shapovalov", "ru": "А. П. Шаповалов"},
+			"OID": [12]
+		}
+	],
+	"references": {
+		"count": 8,
+		"list":  []
+	}
+}

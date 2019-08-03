@@ -1,0 +1,135 @@
+{
+	"_id":    "MFiNT.37.06.0741",
+	"year":   2015,
+	"volume": 37,
+	"issue":  6,
+	"pages":  [741,750],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["24.03.2015"],
+	"PACS":   "52.40.Hf, 61.05.cp, 61.46.Bc, 68.37.Hk, 68.37.Ps, 81.07.Pr, 81.15.Cd",
+	"title":  {
+		"ua": "Низькотемпературний синтез і структура гібридних наноматеріалов Ni@C, отриманих методом реактивного магнетронного розпорошення",
+		"en": "Low-Temperature Synthesis and Structure of Hybrid Ni@C Nanomaterials Fabricated by Method of Reactive Magnetron Sputtering",
+		"ru": "Низкотемпературный синтез и структура гибридных наноматериалов Ni@C, полученных методом реактивного магнетронного распыления"
+	},
+	"abstract": {
+		"ua": "Методою магнетронного розпорошення одержано гібридні наноплівки, які складаються з частинок ніклю, інкапсульованих у вуглецеву оболонку (Ni@C). Завдяки певним умовам напорошення (низька температура, високий тиск) досягнуто кластерний характер формування плівок. Досліджено дві групи зразків із різними концентраційними співвідношеннями C:Ni. Встановлено, що кластери I-ої групи зразків (C:Ni = 60:40) є аморфними і лише за певної критичної температури формують кристалічну структуру, тоді як кластери II-ої групи зразків (C:Ni = 30:70) утворюють кристалічну структуру вже у плазмі. Розглянуто характер формування нанокомпозитних плівок за різних концентрацій вуглецю і температур підложжя.",
+		"en": "Hybrid nanofilms (Ni@C) consisting of nickel particles encapsulated in a carbon shell are grown by the method of magnetron sputtering. Clustered nature of film formation is reached due to the specific conditions of deposition (low temperature, high pressure). Two groups of samples with different concentration ratios C:Ni are investigated. As determined, the clusters of the Ist group of samples (C:Ni = 60:40) are amorphous and form a crystal structure only at certain critical temperature, while the clusters of the IInd group (C:Ni = 30:70) form a crystal structure within the plasma. The nature of formation of nanocomposite films with different concentrations of carbon and substrate temperatures is considered.",
+		"ru": "Методом магнетронного распыления получены гибридные наноплёнки, состоящие из частиц никеля, инкапсулированных в углеродную оболочку (Ni@C). Благодаря определённым условиям напыления (низкая температура, высокое давление) достигнут кластерный характер формирования плёнок. Исследованы две группы образцов с различными концентрационными соотношениями C:Ni. Определено, что кластеры I-ой группы образцов (C:Ni = 60:40) являются аморфными и только при определённой критической температуре формируют кристаллическую структуру, тогда как кластеры II-ой группы образцов (C:Ni = 30:70) образуют кристаллическую структуру уже в плазме. Рассмотрен характер формирования нанокомпозитных плёнок при различных концентрациях углерода и температурах подложки."
+	},
+	"keywords": {
+		"ua": "нанокластери, карбід ніклю, гібридні наноматеріали, магнетронне розпорошення",
+		"en": "nanoclusters, nickel carbide, hybrid nanomaterials, magnetron sputtering",
+		"ru": "нанокластеры, карбид никеля, гибридные наноматериалы, магнетронное распыление"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. І. Мохненко", "en": "М. І. Mokhnenko", "ru": "М. И. Мохненко"},
+			"OID": [9]
+		},
+		{
+			"AID": {"ua": "В. М. Варюхін", "en": "V. M. Varyukhin", "ru": "В. Н. Варюхин"},
+			"OID": [9]
+		},
+		{
+			"AID": {"ua": "А. М. Прудніков", "en": "A. М. Prudnikov", "ru": "А. М. Прудников"},
+			"OID": [9]
+		},
+		{
+			"AID": {"ua": "Р. В. Шалаєв", "en": "R. V. Shalayev", "ru": "Р. В. Шалаев"},
+			"OID": [9]
+		}
+	],
+	"references": {
+		"count": 17,
+		"list":  [
+			{
+				"doi": "10.1063/1.4902435",
+				"or":  "S. Asahina, M. Suga, H. Takahashi, H. Yo. Jeong, C. Galeano, F. Schüth, and O. Terasaki, Appl. Mater., 2: 113317-7 (2014).",
+				"tr":  "S. Asahina, M. Suga, H. Takahashi, H. Yo. Jeong, C. Galeano, F. Schüth, and O. Terasaki, Appl. Mater., 2: 113317-7 (2014)."
+			},
+			{
+				"doi": "10.1021/jp312520v",
+				"or":  "D. A. Gуmez-Gualdrуn, J. M. Beetge, and P. B. Balbuena, J. Phys. Chem. C, 117, No. 23: 12061 (2013).",
+				"tr":  "D. A. Gymez-Gualdryn, J. M. Beetge, and P. B. Balbuena, J. Phys. Chem. C, 117, No. 23: 12061 (2013)."
+			},
+			{
+				"doi": "10.1021/jp063842e",
+				"or":  "D. S. Jacob, I. Genish, L. Klein, and A. Gedanken, J. Phys. Chem. B, 110, No. 36: 17711 (2006).",
+				"tr":  "D. S. Jacob, I. Genish, L. Klein, and A. Gedanken, J. Phys. Chem. B, 110, No. 36: 17711 (2006)."
+			},
+			{
+				"doi": "10.1088/0953-8984/19/35/356217",
+				"or":  "D. Cheng, W. Wang, and S. Huang, J. Phys.: Condens. Matter, 19: 356217 (2007).",
+				"tr":  "D. Cheng, W. Wang, and S. Huang, J. Phys.: Condens. Matter, 19: 356217 (2007)."
+			},
+			{
+				"doi": "10.1016/j.carbon.2010.01.006",
+				"or":  "V. Sunny, D. S. Kumar, Ya. Yoshida, M. Makarewicz, W. Tabis, and M. R. Anantharaman, Carbon, 48: 1643 (2010).",
+				"tr":  "V. Sunny, D. S. Kumar, Ya. Yoshida, M. Makarewicz, W. Tabis, and M. R. Anantharaman, Carbon, 48: 1643 (2010)."
+			},
+			{
+				"doi": "10.1016/j.carbon.2011.06.001",
+				"or":  "A. A. El Mel, E. Gautron, B. Angleraud, A. Granier, and P. Y. Tessier, Carbon, 49: 4595 (2011).",
+				"tr":  "A. A. El Mel, E. Gautron, B. Angleraud, A. Granier, and P. Y. Tessier, Carbon, 49: 4595 (2011)."
+			},
+			{
+				"doi": "10.1063/1.1857591",
+				"or":  "V. Melechko, V. I. Merkulov, T. E. McKnight, M. A. Guillorn, K. L. Klein, D. H. Lowndes, and M. L. Simpson, J. Appl. Phys., 97: 041301-39 (2005).",
+				"tr":  "V. Melechko, V. I. Merkulov, T. E. McKnight, M. A. Guillorn, K. L. Klein, D. H. Lowndes, and M. L. Simpson, J. Appl. Phys., 97: 041301-39 (2005)."
+			},
+			{
+				"doi": "10.1088/0964-1726/11/5/311",
+				"or":  "R. Vajtai, B. Wei, Z. Zhang, Y. Jung, G. Ramanath, and P. Ajayan, Smart Mater. Struct., 11, No. 5: 691 (2002).",
+				"tr":  "R. Vajtai, B. Wei, Z. Zhang, Y. Jung, G. Ramanath, and P. Ajayan, Smart Mater. Struct., 11, No. 5: 691 (2002)."
+			},
+			{
+				"doi": "10.1021/ja301344n",
+				"or":  "S. Sacanna, L. Rossi, and D. J. Pine, J. Am. Chem. Soc., 134: 6112 (2012).",
+				"tr":  "S. Sacanna, L. Rossi, and D. J. Pine, J. Am. Chem. Soc., 134: 6112 (2012)."
+			},
+			{
+				"doi": "10.1063/1.2001746",
+				"or":  "Gy. J. Kovács, A. Koós, G. Bertoni, G. Sáfrán, O. Geszti, V. Serin, C. Colliex, and G. Radnуczi, J. Appl. Phys., 98: 034313 (2005).",
+				"tr":  "Gy. J. Kovács, A. Koós, G. Bertoni, G. Sáfrán, O. Geszti, V. Serin, C. Colliex, and G. Radnyczi, J. Appl. Phys., 98: 034313 (2005)."
+			},
+			{
+				"doi": "10.1063/1.1433905",
+				"or":  "V. I. Merkulov, A. V. Melechko, M. A. Guillorn, D. H. Lowndes, and M. L. Simpson, Appl. Phys. Lett., 80: 476 (2002).",
+				"tr":  "V. I. Merkulov, A. V. Melechko, M. A. Guillorn, D. H. Lowndes, and M. L. Simpson, Appl. Phys. Lett., 80: 476 (2002)."
+			},
+			{
+				"doi": "10.1063/1.2737373",
+				"or":  "D. Navas, M. Hernandez-Velez, M. Vazquez, W. Lee, and K. Nielsch, Appl. Phys. Lett., 90: 192501 (2007).",
+				"tr":  "D. Navas, M. Hernandez-Velez, M. Vazquez, W. Lee, and K. Nielsch, Appl. Phys. Lett., 90: 192501 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.93.105503",
+				"or":  "G. Rossi, A. Rapallo, C. Mottet, A. Fortunelli, F. Baletto, and R. Ferrando, Phys. Rev. Lett., 3, No. 10: 105503-4 (2004).",
+				"tr":  "G. Rossi, A. Rapallo, C. Mottet, A. Fortunelli, F. Baletto, and R. Ferrando, Phys. Rev. Lett., 3, No. 10: 105503-4 (2004)."
+			},
+			{
+				"doi": "10.1016/j.msea.2003.08.054",
+				"or":  "E. P. Yelsukov, G. A. Dorofeev, A. V. Zagainov, N. F. Vildanov, and A. N. Maratkanova, Mater. Sci. Eng. A, 369: 16 (2004).",
+				"tr":  "E. P. Yelsukov, G. A. Dorofeev, A. V. Zagainov, N. F. Vildanov, and A. N. Maratkanova, Mater. Sci. Eng. A, 369: 16 (2004)."
+			},
+			{
+				"doi": "10.1007/s003390050828",
+				"or":  "N. Grobert, M. Terrones, O. J. Osborne, H. Terrones, W. K. Hsu, S. Trasobares, Y. Q. Zhu, J. P. Hare, H. W. Kroto, and D. R. M. Walton, Appl. Phys. A, 67: 595 (1998).",
+				"tr":  "N. Grobert, M. Terrones, O. J. Osborne, H. Terrones, W. K. Hsu, S. Trasobares, Y. Q. Zhu, J. P. Hare, H. W. Kroto, and D. R. M. Walton, Appl. Phys. A, 67: 595 (1998)."
+			},
+			{
+				"doi": "10.1070/PU2007v050n05ABEH006138",
+				"or":  "P. Kashtanov, B. Smirnov, and R. Hippler, Phys. Usp., 50: 455 (2007).",
+				"tr":  "P. Kashtanov, B. Smirnov, and R. Hippler, Phys. Usp., 50: 455 (2007)."
+			},
+			{
+				"doi": "10.1134/S1063785012060090",
+				"or":  "A. I. Linnik, A. M. Prudnikov, R. V. Shalaev, V. N. Varyukhin, S. A. Kostyrya, and V. V. Burkhovetski, Techn. Phys. Lett., 38: 499 (2012).",
+				"tr":  "A. I. Linnik, A. M. Prudnikov, R. V. Shalaev, V. N. Varyukhin, S. A. Kostyrya, and V. V. Burkhovetski, Techn. Phys. Lett., 38: 499 (2012)."
+			}
+		]
+	}
+}

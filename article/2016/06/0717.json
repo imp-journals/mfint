@@ -1,0 +1,213 @@
+{
+	"_id":    "MFiNT.38.06.0717",
+	"year":   2016,
+	"volume": 38,
+	"issue":  6,
+	"pages":  [717,735],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["27.04.2016"],
+	"PACS":   "52.25.Mq, 68.49.Jk, 71.45.Gm, 73.20.Mf, 73.23.-b, 78.67.Bf",
+	"title":   {
+		"ua": "Поведінка лінії поверхневого плазмонного резонансу в металевих наночастинках",
+		"en": "Behaviour of a Line of the Surface Plasmon Resonance in Metal Nanoparticles",
+		"ru": "Поведение линии поверхностного плазмонного резонанса в металлических наночастицах"
+	},
+	"abstract": {
+		"ua": "Передбачаються осциляції ширини лінії поверхневого плазмона та спектральної добротности в металевих наночастинках зі зміною діелектричної сталої середовища, в якому вони розміщені. Обчислення проводилися на основі методу кінетичних рівнянь, який уможливлює врахувати ефекти розсіяння електронів на внутрішній поверхні частинки у випадку, коли середня довжина вільного пробігу електрона перевищує розмір частинки. Головну увагу приділено внеску поверхневого розсіяння у згасання плазмона. Всі обчислення ширини лінії та її добротности проілюстровано на прикладі наночастинок Au і Na різних радіусів.",
+		"en": "We predict both the surface plasmon line width and the figure of merit oscillations in metal nanoparticles with varying the dielectric constant of an embedding medium. The calculations are based on the kinetic equation approach, which allows one to account for the effects of electrons’ collisions with the nanoparticle surface in the case when the electron mean free path is much greater than the particle size. Main attention is paid to the electron-surface scattering contribution to the plasmon decay. All calculations of both the line width and the figure of merit are illustrated by the example of the Au and Na nanoparticles with different radii.",
+		"ru": "Предвидятся осцилляции ширины линии поверхностного плазмона и спектральной добротности в металлических наночастицах при изменении диэлектрической постоянной среды, в которой они размещены. Вычисления выполнялись на основе метода кинетических уравнений, который позволяет учесть эффекты рассеяния электронов на внутренней поверхности частицы в случае, когда средняя длина свободного пробега электрона превышает размер частицы. Главное внимание уделено вкладу поверхностного рассеяния в затухание плазмона. Все расчёты ширины линии и её добротности проиллюстрированы на примере наночастиц Au и Na разных радиусов."
+	},
+	"keywords": {
+		"ua": "плазмонні коливання, поверхневий плазмонний резонанс, ширина спектральної лінії, металеві наночастинки, діелектричне середовище.",
+		"en": "plasmon vibrations, surface plasmon resonance (SPR), spectral linewidth, metal nanoparticles, dielectric environment",
+		"ru": "плазмонные колебания, поверхностный плазмонный резонанс, ширина спектральной линии, металлические наночастицы, диэлектрическая среда"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. І. Григорчук", "en": "N. I. Grygorchuk", "ru": "М. И. Григорчук"},
+			"OID": [28]
+		}
+	],
+	"references": {
+		"count": 35,
+		"list":  [
+			{
+				"doi": "10.1021/jp0361327",
+				"or":  "A. J. Haes, S. Zou, G. C. Schatz, and R. P. Van Duyne, J. Phys. Chem., 108: 109 (2003).",
+				"tr":  "A. J. Haes, S. Zou, G. C. Schatz, and R. P. Van Duyne, J. Phys. Chem., 108: 109 (2003)."
+			},
+			{
+				"doi": "10.1007/s11468-010-9130-2",
+				"or":  "J. Becker, A. Trügler, A. Jakab, U. Hohenester, and C. Sönnichsen, Plasmonics, 5: 161 (2010).",
+				"tr":  "J. Becker, A. Trügler, A. Jakab, U. Hohenester, and C. Sönnichsen, Plasmonics, 5: 161 (2010)."
+			},
+			{
+				"doi": "10.1021/cr100313v",
+				"or":  "K. M. Mayer and J. H. Hafner, Chem. Rev., 111: 3828 (2011).",
+				"tr":  "K. M. Mayer and J. H. Hafner, Chem. Rev., 111: 3828 (2011)."
+			},
+			{
+				"doi": "10.3390/ma6114879",
+				"or":  "A. Alabastri, S. Tuccio, A. Giugni, A. Toma, C. Liberale, G. Das, F. De Angelis, E. Di Fabrizio, and R. P. Zaccaria, Materials, 6: 4879 (2013).",
+				"tr":  "A. Alabastri, S. Tuccio, A. Giugni, A. Toma, C. Liberale, G. Das, F. De Angelis, E. Di Fabrizio, and R. P. Zaccaria, Materials, 6: 4879 (2013)."
+			},
+			{
+				"doi": "10.1021/jp066539m",
+				"or":  "C. Noguez, J. Phys. Chem. C, 111: 3806 (2007).",
+				"tr":  "C. Noguez, J. Phys. Chem. C, 111: 3806 (2007)."
+			},
+			{
+				"doi": "10.1088/1464-4258/8/4/S26",
+				"or":  "M. M. Miller and A. A. Lazarides, J. Opt. A: Pure Appl. Opt., 8: S239 (2006).",
+				"tr":  "M. M. Miller and A. A. Lazarides, J. Opt. A: Pure Appl. Opt., 8: S239 (2006)."
+			},
+			{
+				"doi": "10.1364/OL.31.001528",
+				"or":  "K. A. Tetz, L. Pang, and Y. Fainman, Opt. Lett., 31: 1528 (2006).",
+				"tr":  "K. A. Tetz, L. Pang, and Y. Fainman, Opt. Lett., 31: 1528 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Борен, Д. Хафмен, Поглощение и рассеяние света малыми частицами (Москва: Мир: 1986).",
+				"tr":  "C. F. Bohren and D. R. Huffman, Pogloshchenie i Rasseyanie Sveta Malymi Chastitsami [Absorption and Scattering of Light by Small Particles] (Moscow: Mir: 1986) (Russian translation)."
+			},
+			{
+				"doi": "10.1007/978-3-662-09109-8",
+				"or":  "U. Kreibig and M. Vollmer, Optical Properties of Metal Clusters (Berlin: Springer-Verlag: 1995).",
+				"tr":  "U. Kreibig and M. Vollmer, Optical Properties of Metal Clusters (Berlin: Springer-Verlag: 1995)."
+			},
+			{
+				"doi": "",
+				"or":  "H. C. van de Hulst, Light Scattering by Small Particles (New York: Dover Publication: 2000).",
+				"tr":  "H. C. van de Hulst, Light Scattering by Small Particles (New York: Dover Publication: 2000)."
+			},
+			{
+				"doi": "10.1002/adma.200902557",
+				"or":  "T. K. Sau, A. L. Rogach, F. Jäckel, T. A. Klar, and J. Feldmann, Adv. Mater., 22: 1805 (2010).",
+				"tr":  "T. K. Sau, A. L. Rogach, F. Jäckel, T. A. Klar, and J. Feldmann, Adv. Mater., 22: 1805 (2010)."
+			},
+			{
+				"doi": "10.1146/annurev.physchem.58.032806.104607",
+				"or":  "K. A. Willets and R. P. Van Duyne, Ann. Rev. Phys. Chem., 58: 267 (2007).",
+				"tr":  "K. A. Willets and R. P. Van Duyne, Ann. Rev. Phys. Chem., 58: 267 (2007)."
+			},
+			{
+				"doi": "10.1016/j.bios.2006.03.021",
+				"or":  "C.-D. Chen, S.-F. Cheng, L.-K. Chau, and C. R. C. Wang, Biosens. Bioelectron., 22: 926 (2007).",
+				"tr":  "C.-D. Chen, S.-F. Cheng, L.-K. Chau, and C. R. C. Wang, Biosens. Bioelectron., 22: 926 (2007)."
+			},
+			{
+				"doi": "10.1126/science.275.5303.1102",
+				"or":  "S. Nie and S. R. Emory, Science, 275: 1102 (1997).",
+				"tr":  "S. Nie and S. R. Emory, Science, 275: 1102 (1997)."
+			},
+			{
+				"doi": "10.1038/nmat1245",
+				"or":  "D. Li and Y. Xia, Nat. Mater., 3: 753 (2004).",
+				"tr":  "D. Li and Y. Xia, Nat. Mater., 3: 753 (2004)."
+			},
+			{
+				"doi": "10.1021/nl049573q",
+				"or":  "W. Srituravanich, N. Fang, C. Sun, Q. Luo, and X. Zhang, Nano Lett., 4: 1085 (2004).",
+				"tr":  "W. Srituravanich, N. Fang, C. Sun, Q. Luo, and X. Zhang, Nano Lett., 4: 1085 (2004)."
+			},
+			{
+				"doi": "10.1038/nphoton.2007.223",
+				"or":  "S. Lal, S. Link, and N. J. Halas, Nature Fotonics, 1: 641 (2007).",
+				"tr":  "S. Lal, S. Link, and N. J. Halas, Nature Fotonics, 1: 641 (2007)."
+			},
+			{
+				"doi": "10.1021/jp991889c",
+				"or":  "A. C. Templeton, J. J. Pietron, R. W. Murray, and P. Mulvaney, J. Phys. Chem. B, 104: 564 (2000).",
+				"tr":  "A. C. Templeton, J. J. Pietron, R. W. Murray, and P. Mulvaney, J. Phys. Chem. B, 104: 564 (2000)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.72.115410",
+				"or":  "G. Weick, R. A. Molina, D. Weinmann, and R. A. Jalabert, Phys. Rev. B, 72: 115410 (2005).",
+				"tr":  "G. Weick, R. A. Molina, D. Weinmann, and R. A. Jalabert, Phys. Rev. B, 72: 115410 (2005)."
+			},
+			{
+				"doi": "10.1007/s13538-015-0301-7",
+				"or":  "V. M. Lenart, R. F. Turchiello, G. F. Goya, and S. L. Gómez, Braz. J. Phys., 45: 213 (2015).",
+				"tr":  "V. M. Lenart, R. F. Turchiello, G. F. Goya, and S. L. Gómez, Braz. J. Phys., 45: 213 (2015)."
+			},
+			{
+				"doi": "10.1063/1.4928725",
+				"or":  "C. Minnai and P. Milani, Appl. Phys. Lett., 107: 073106 (2015).",
+				"tr":  "C. Minnai and P. Milani, Appl. Phys. Lett., 107: 073106 (2015)."
+			},
+			{
+				"doi": "10.1039/c3cs60367a",
+				"or":  "A. Crut, P. Maioli, N. Del Fatti, and F. Vallèe, Chem. Soc. Rev., 43: 3921 (2014).",
+				"tr":  "A. Crut, P. Maioli, N. Del Fatti, and F. Vallèe, Chem. Soc. Rev., 43: 3921 (2014)."
+			},
+			{
+				"doi": "10.1063/1.4916257",
+				"or":  "A. Monti, A. Alù, A. Toscano, and F. Bilotti, J. Appl. Phys., 117: 123103 (2015).",
+				"tr":  "A. Monti, A. Alù, A. Toscano, and F. Bilotti, J. Appl. Phys., 117: 123103 (2015)."
+			},
+			{
+				"doi": "10.1021/jp504467j",
+				"or":  "C. A. Thibodeaux, V. Kulkarni, W.-S. Chang, O. Neumann, Y. Cao, B. Brinson, C. Ayala-Orozco, C.-W. Chen, E. Morosan, S. Link, P. Nordlander, and N. J. Halas, J. Phys. Chem. B, 118: 14056 (2014).",
+				"tr":  "C. A. Thibodeaux, V. Kulkarni, W.-S. Chang, O. Neumann, Y. Cao, B. Brinson, C. Ayala-Orozco, C.-W. Chen, E. Morosan, S. Link, P. Nordlander, and N. J. Halas, J. Phys. Chem. B, 118: 14056 (2014)."
+			},
+			{
+				"doi": "10.1039/b714759g",
+				"or":  "M. Hu, C. Novo, A. Funston, H. Wang, H. Staleva, S. Zou, P. Mulvaney, Y. Xia, and G. V. Hartland, J. Mater. Chem., 18: 1949 (2008).",
+				"tr":  "M. Hu, C. Novo, A. Funston, H. Wang, H. Staleva, S. Zou, P. Mulvaney, Y. Xia, and G. V. Hartland, J. Mater. Chem., 18: 1949 (2008)."
+			},
+			{
+				"doi": "10.1016/j.ijleo.2015.10.069",
+				"or":  "P. Tuersun, Optik, 127: 250 (2016).",
+				"tr":  "P. Tuersun, Optik, 127: 250 (2016)."
+			},
+			{
+				"doi": "10.1143/JPSJ.21.1765",
+				"or":  "A. Kawabata and R. Kubo, J. Phys. Soc. Jpn., 21: 1765 (1966).",
+				"tr":  "A. Kawabata and R. Kubo, J. Phys. Soc. Jpn., 21: 1765 (1966)."
+			},
+			{
+				"doi": "10.1007/s11801-015-5030-1",
+				"or":  "Y.-H. Tian, H.-Y. Gao, Z.-W. Wu, and M. Li, Optoelectronics. Lett., 11: 0191 (2015).",
+				"tr":  "Y.-H. Tian, H.-Y. Gao, Z.-W. Wu, and M. Li, Optoelectronics. Lett., 11: 0191 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "П. М. Томчук, М. І. Григорчук, Металлофиз. новейшие технол., 29, № 5: 623 (2007).",
+				"tr":  "P. M. Tomchuk and M. I. Grigorchuk, Metallofiz. Noveishie Tekhnol., 29, No. 5: 623 (2007) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/0039-6028(93)90865-H",
+				"or":  "B. N. J. Persson, Surf. Sci., 281: 153 (1993).",
+				"tr":  "B. N. J. Persson, Surf. Sci., 281: 153 (1993)."
+			},
+			{
+				"doi": "10.1063/1.1587686",
+				"or":  "E. A. Coronado and G. C. Schatz, J. Chem. Phys., 119: 3926 (2003).",
+				"tr":  "E. A. Coronado and G. C. Schatz, J. Chem. Phys., 119: 3926 (2003)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.84.085448",
+				"or":  "N. I. Grigorchuk and P. M. Tomchuk, Phys. Rev. B, 84: 085448 (2011).",
+				"tr":  "N. I. Grigorchuk and P. M. Tomchuk, Phys. Rev. B, 84: 085448 (2011)."
+			},
+			{
+				"doi": "10.1209/0295-5075/97/45001",
+				"or":  "N. I. Grigorchuk, Eur. Phys. Lett., 97: 45001 (2012).",
+				"tr":  "N. I. Grigorchuk, Eur. Phys. Lett., 97: 45001 (2012)."
+			},
+			{
+				"doi": "10.1103/PhysRev.67.351",
+				"or":  "J. A. Osborn, Phys. Rev., 67: 351 (1945).",
+				"tr":  "J. A. Osborn, Phys. Rev., 67: 351 (1945)."
+			},
+			{
+				"doi": "",
+				"or":  "Ч. Киттель, Введение в физику твёрдого тела (Москва: Наука: 1978).",
+				"tr":  "Ch. Kittel, Vvedenie v Fiziku Tverdogo Tela [Introduction to Solid State Physics] (Moscow: Nauka: 1978) (Russian translation)."
+			}
+		]
+	}
+}

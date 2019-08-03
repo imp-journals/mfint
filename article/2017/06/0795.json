@@ -1,0 +1,232 @@
+{
+	"_id":    "MFiNT.39.06.0795",
+	"year":   2017,
+	"volume": 39,
+	"issue":  6,
+	"pages":  [795,813],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["03.05.2017","30.05.2017"],
+	"PACS":   "62.20.Qp, 68.35.bd, 68.35.Dv, 68.35.Fx, 68.35.Gy, 68.35.Rh, 81.40.Pq",
+	"title":   {
+		"ua": "Вплив зсувної компоненти навантаження при терті на структурно-фазовий стан і зношування поверхневого шару сталі 45",
+		"en": "Influence of Shear Component of Load Under the Friction on a Structure–Phase State and Wear of Surface Layer of Steel 1045",
+		"ru": "Влияние сдвиговой компоненты нагрузки при трении на структурно-фазовое состояние и износ поверхностного слоя стали 45"
+	},
+	"abstract": {
+		"ua": "Досліджено вплив величини зсувного навантаження при терті на структурно-фазовий стан поверхневих шарів сталі 45. За допомогою рентґенівської аналізи встановлено, що зростання величини зсувної компоненти навантаження $Р_{SH}$ приводить до зменшення розмірів областей когерентного розсіяння (20–50 нм) та зміни величини мікроспотворень кристалічної ґратниці фериту, а також до формування залишкових макронапружень стиснення (300–700 МПа). Результатом зростання величини зсувної складової навантаження (3%–40% від нормальної складової) є також істотне підвищення мікротвердости поверхневого шару товщиною $h$ = 100–250 мкм. Величина зношування залежить не лише від розмірів зерен і твердости, але й від фазового складу поверхневих шарів, утворених в результаті механохемічних реакцій на контактних поверхнях при терті.",
+		"en": "The influence of load shear component under the friction on both the microstructure and the phase state of the surface layers of 1045 steel is studied. As established by x-ray analysis, the increase in shear-stress component $Р_{SH}$ results in reduction of size of coherent scattering areas (20–50 nm) and in changes of the lattice microstrains of ferrite, and in the formation of residual compressive macrostresses (300–700 MPa). The growth in $Р_{SH}$ (from 3% to 40% of the normal component) results in significant increase of microhardness of the surface layer of 100–250 $\\mu$m thickness. The wear magnitude depends not only on the grain size and hardness, but also on the phase composition of the surface layers formed by mechanochemical reactions on the contact surfaces during the friction process.",
+		"ru": "Исследовано влияние величины сдвигового нагружения при трении на структурно-фазовое состояние поверхностных слоёв стали 45. С помощью рентгеновского анализа установлено, что рост величины сдвиговой компоненты нагружения $Р_{SH}$ приводит к уменьшению размеров областей когерентного рассеяния (20–50 нм) и изменению величины микроискажений кристаллической решётки феррита, а также к формированию остаточных сжимающих макронапряжений (300–700 МПа). Результатом роста величины $Р_{SH}$ (3%–40% от нормальной составляющей) также является существенное повышение микротвёрдости поверхностного слоя толщиной $h$ = 100–250 мкм. Величина износа зависит не только от размеров зёрен и твёрдости, но и от фазового состава поверхностных слоёв, образованных в результате механохимических реакций на контактных поверхностях при трении."
+	},
+	"keywords": {
+		"ua": "зсувна компонента навантаження, поверхневий шар, мікроструктура, мікротвердість, зношування, сталь 45",
+		"en": "shear-stress component, surface layer, microstructure, microhardness, wear, steel 1045",
+		"ru": "сдвиговая компонента нагружения, поверхностный слой, микроструктура, микротвёрдость, износ, сталь 45"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Б. М. Мордюк", "en": "B. M. Mordyuk", "ru": "Б. Н. Мордюк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. О. Мікосянчик", "en": "O. O. Mikosyanchyk", "ru": "О. А. Микосянчик"},
+			"OID": [205]
+		}
+	],
+	"references": {
+		"count": 38,
+		"list":  [
+			{
+				"doi": "10.1016/j.actamat.2012.10.038",
+				"or":  "Y. Estrin and A. Vinogradov, Acta Mater., 61: 782 (2013).",
+				"tr":  "Y. Estrin and A. Vinogradov, Acta Mater., 61: 782 (2013)."
+			},
+			{
+				"doi": "10.1016/j.pmatsci.2008.03.002",
+				"or":  "A. P. Zhilyaev and T. G. Langdon, Prog. Mater. Sci., 53: 893 (2008).",
+				"tr":  "A. P. Zhilyaev and T. G. Langdon, Prog. Mater. Sci., 53: 893 (2008)."
+			},
+			{
+				"doi": "10.1016/S0079-6425(99)00007-9",
+				"or":  "R. Z. Valiev, R. K. Islamgaliev, and I. V. Alexandrov, Prog. Mater. Sci., 45: 103 (2000).",
+				"tr":  "R. Z. Valiev, R. K. Islamgaliev, and I. V. Alexandrov, Prog. Mater. Sci., 45: 103 (2000)."
+			},
+			{
+				"doi": "10.1016/j.pmatsci.2006.02.003",
+				"or":  "R. Z. Valiev and T. G. Langdon, Prog. Mater. Sci., 51: 881 (2006).",
+				"tr":  "R. Z. Valiev and T. G. Langdon, Prog. Mater. Sci., 51: 881 (2006)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2009.10.015",
+				"or":  "A. L. Ortiz, J.-W. Tian, L. L. Shaw, and P. K. Liaw, Scr. Mater., 62: 129 (2010).",
+				"tr":  "A. L. Ortiz, J.-W. Tian, L. L. Shaw, and P. K. Liaw, Scr. Mater., 62: 129 (2010)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2007.09.003",
+				"or":  "L. Zhou, G. Liu, X. L. Ma, and K. Lu, Acta Mater., 56: 78 (2008).",
+				"tr":  "L. Zhou, G. Liu, X. L. Ma, and K. Lu, Acta Mater., 56: 78 (2008)."
+			},
+			{
+				"doi": "10.1016/j.msea.2006.07.119",
+				"or":  "B. N. Mordyuk and G. I. Prokopenko, Mater. Sci. Eng. A, 437: 396 (2006).",
+				"tr":  "B. N. Mordyuk and G. I. Prokopenko, Mater. Sci. Eng. A, 437: 396 (2006)."
+			},
+			{
+				"doi": "10.1016/j.jsv.2007.03.054",
+				"or":  "B. N. Mordyuk and G. I. Prokopenko, J. Sound Vib., 308: 855 (2007).",
+				"tr":  "B. N. Mordyuk and G. I. Prokopenko, J. Sound Vib., 308: 855 (2007)."
+			},
+			{
+				"doi": "10.1002/9783527674947.ch17",
+				"or":  "B. N. Mordyuk and G. I. Prokopenko, Handbook of Mechanical Nanostructuring (Weinheim: Wiley-VCH: 2015), p. 417.",
+				"tr":  "B. N. Mordyuk and G. I. Prokopenko, Handbook of Mechanical Nanostructuring (Weinheim: Wiley-VCH: 2015), p. 417."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2012.08.063",
+				"or":  "B. N. Mordyuk, O. P. Karasevskaya, G. I. Prokopenko, and N. I. Khripta, Surf. Coat. Technol., 210: 54 (2012).",
+				"tr":  "B. N. Mordyuk, O. P. Karasevskaya, G. I. Prokopenko, and N. I. Khripta, Surf. Coat. Technol., 210: 54 (2012)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2015.06.027",
+				"or":  "J. Moering, X. Ma, G. Chen, P. Miao, G. Li, G. Qian, S. Mathaudhu, and Y. Zhu, Scr. Mater., 108: 100 (2015).",
+				"tr":  "J. Moering, X. Ma, G. Chen, P. Miao, G. Li, G. Qian, S. Mathaudhu, and Y. Zhu, Scr. Mater., 108: 100 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. И. Костецкий, И. Г. Носовский, А. К. Караулов, Поверхностная прочность материалов при трении (Киев: Техника: 1976).",
+				"tr":  "B. I. Kosteckiy, I. G. Nosovskiy, and A. K. Karaulov, Poverkhnostnaya Prochnost Materialov pri Trenii (Kiev: Tekhnika: 1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Elalem, D. Y. Li, M. J. Anderson, and S. Chiovelli, ASTM STP, 1339: 90 (2001).",
+				"tr":  "K. Elalem, D. Y. Li, M. J. Anderson, and S. Chiovelli, ASTM STP, 1339: 90 (2001)."
+			},
+			{
+				"doi": "10.1016/j.wear.2004.12.025",
+				"or":  "Q. Chen and D. Y. Li, Wear, 259: 1382 (2005).",
+				"tr":  "Q. Chen and D. Y. Li, Wear, 259: 1382 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Л. Солодова, Структурные превращения при трении и износостойкость закаленных углеродистых сталей (Автореферат дисс. … канд. техн. наук) (Екатеринбург: 2006).",
+				"tr":  "I. L. Solodova, Strukturnye Prevrashcheniya pri Trenii i Iznosostoykost Zakalennykh Uglerodistykh Staley (Thesis of Disser. … for the Degree of Cand. Techn. Sci.) (Ekaterinburg: 2006) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0043-1648(81)90363-X",
+				"or":  "V. A. Balakin, Wear, 72: 133 (1981).",
+				"tr":  "V. A. Balakin, Wear, 72: 133 (1981)."
+			},
+			{
+				"doi": "10.1016/j.wear.2008.04.039",
+				"or":  "K. E. Nurnberg, G. Nurnberg, M. Golle, and H. Hoffmann, Wear, 265: 1801 (2008).",
+				"tr":  "K. E. Nurnberg, G. Nurnberg, M. Golle, and H. Hoffmann, Wear, 265: 1801 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "О. О. Мікосянчик, О. І. Запорожець, Р. Г. Мнацаканов, Проблеми трибології, № 4: 42 (2015).",
+				"tr":  "O. O. Mikosyanchyk, O. I. Zaporozhets, and R. H. Mnatsakanov, Problemy Trybologii, No. 4: 42 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15587/1729-4061.2016.75857",
+				"or":  "O. Mikosyanchyk, R. Mnatsakanov, А. Zaporozhets, and R. Kostynik, Eastern-European Journal of Enterprise Technol., No. 4/1 (82): 24 (2016).",
+				"tr":  "O. Mikosyanchyk, R. Mnatsakanov, A. Zaporozhets, and R. Kostynik, Eastern-European Journal of Enterprise Technol., No. 4/1 (82): 24 (2016)."
+			},
+			{
+				"doi": "10.5539/mer.v6n2p48",
+				"or":  "T. M. A. Al-quraan, O. O. Mikosyanchik, and R. G. Mnatsakanov, Mech. Eng. Research, 6, No. 2: 48 (2016).",
+				"tr":  "T. M. A. Al-quraan, O. O. Mikosyanchik, and R. G. Mnatsakanov, Mech. Eng. Research, 6, No. 2: 48 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "О. О. Мікосянчик, Пристрій для оцінки триботехнічних характеристик трибоелементів, Патент України № 88748, МПК G01 N 3/56 (Бюл. № 6, 25.03.14).",
+				"tr":  "O. O. Mikosyanchik, Device for Evaluation of Tribotechnical Characteristics of the Triboelements, UA Patent No. 88748 (Bul. No. 6, 25.03.14) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/0043-1648(94)90184-8",
+				"or":  "S. M. Hsu, M. C. Shen, E. E. Klaus, H. S. Cheng, and P. I. Lacey, Wear, 175: 209 (1994).",
+				"tr":  "S. M. Hsu, M. C. Shen, E. E. Klaus, H. S. Cheng, and P. I. Lacey, Wear, 175: 209 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Э. Гурский, А. В. Чичинадзе, Трение и износ, № 4 (28): 418 (2007).",
+				"tr":  "B. E. Gurskii and A. V. Chichinadze, Trenie i Iznos, 28: 395 (2007) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0079-6425(99)00010-9",
+				"or":  "C. Suryanarayana, Prog. Mater. Sci., 46: 1 (2001).",
+				"tr":  "C. Suryanarayana, Prog. Mater. Sci., 46: 1 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "С. С. Горелик, Л. Н. Расторгуев, Ю. А. Скаков, Рентгеновский и электронно-оптический анализ (Москва: Металлургия: 1970).",
+				"tr":  "S. S. Gorelik, L. N. Rastorguev, and Yu. A. Skakov, Rentgenovskiy i Electronnoopticheskiy Analiz (Moscow: Metallurgiya: 1970) (in Russian)."
+			},
+			{
+				"doi": "10.1007/BF00716894",
+				"or":  "Y. I. Babei, Mater. Sci., 11: 129 (1975).",
+				"tr":  "Y. I. Babei, Mater. Sci., 11: 129 (1975)."
+			},
+			{
+				"doi": "10.1186/s11671-017-1917-z",
+				"or":  "H. Nykyforchyn, V. Kyryliv, and O. Maksymiv, Nanoscale Research Lett., 12: 150 (2017).",
+				"tr":  "H. Nykyforchyn, V. Kyryliv, and O. Maksymiv, Nanoscale Research Lett., 12: 150 (2017)."
+			},
+			{
+				"doi": "10.1007/BF02359467",
+				"or":  "В. І. Кирилів, ФХММ, 35, № 6: 88 (1999).",
+				"tr":  "V. I. Kyryliv, Mater. Sci., 35: 853 (1999)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2015.10.041",
+				"or":  "M. A. Vasylyev, S. P. Chenakin, and L. F. Yatsenko, Acta Mater., 103: 761 (2016).",
+				"tr":  "M. A. Vasylyev, S. P. Chenakin, and L. F. Yatsenko, Acta Mater., 103: 761 (2016)."
+			},
+			{
+				"doi": "10.15407/mfint.37.09.1269",
+				"or":  "М. О. Васильєв, Б. М. Мордюк, С. І. Сидоренко, С. М. Волошко, А. П. Бурмак, Металлофиз. новейшие технол., 37, № 7: 1269 (2015).",
+				"tr":  "M. O. Vasyliev, B. M. Mordyuk, S. I. Sidorenko, S. M. Voloshko, and A. P. Burmak, Metallofiz. Noveishie Tekhnol., 37, No. 9: 1269 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. М. Любарский, Трение и износ, 1, № 2: 280 (1980).",
+				"tr":  "I. M. Lyubarskyi, Trenie i Iznos, 1, No. 2: 280 (1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. А. Микосянчик, Проблеми тертя та зношування, № 74 (1): 65 (2017).",
+				"tr":  "O. O. Mikosyanchik, Problemy Tertya ta Znoshuvannya, No. 1: 65 (2017) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.msea.2012.08.125",
+				"or":  "B. N. Mordyuk, O. P. Karasevskaya, and G. I. Prokopenko, Mater. Sci. Eng. A, 559: 453 (2013).",
+				"tr":  "B. N. Mordyuk, O. P. Karasevskaya, and G. I. Prokopenko, Mater. Sci. Eng. A, 559: 453 (2013)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2011.06.013",
+				"or":  "Z. Pu, S. Yang, G.-L. Song, O. W. Dillon Jr., D. A. Puleo, and I. S. Jawahir, Scr. Mater., 65: 520 (2011).",
+				"tr":  "Z. Pu, S. Yang, G.-L. Song, O. W. Dillon Jr., D. A. Puleo, and I. S. Jawahir, Scr. Mater., 65: 520 (2011)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2007.10.034",
+				"or":  "L. Zhou, G. Liu, Z. Han, and K. Lu, Scr. Mater., 58: 445 (2008).",
+				"tr":  "L. Zhou, G. Liu, Z. Han, and K. Lu, Scr. Mater., 58: 445 (2008)."
+			},
+			{
+				"doi": "10.1016/j.wear.2014.07.011",
+				"or":  "B. N. Mordyuk, G. I. Prokopenko, Yu. V. Milman, M. O. Iefimov, K. E. Grinkevych, A. V. Sameljuk, and I. V. Tkachenko, Wear, 319: 84 (2014).",
+				"tr":  "B. N. Mordyuk, G. I. Prokopenko, Yu. V. Milman, M. O. Iefimov, K. E. Grinkevych, A. V. Sameljuk, and I. V. Tkachenko, Wear, 319: 84 (2014)."
+			},
+			{
+				"doi": "10.1016/j.matchar.2010.07.007",
+				"or":  "B. N. Mordyuk, V. V. Silbershmidt, G. I. Prokopenko, Yu. V. Nesterenko, and M. O. Iefimov, Mater. Characterizations, 61: 1126 (2010).",
+				"tr":  "B. N. Mordyuk, V. V. Silbershmidt, G. I. Prokopenko, Yu. V. Nesterenko, and M. O. Iefimov, Mater. Characterizations, 61: 1126 (2010)."
+			},
+			{
+				"doi": "10.1016/j.wear.2004.02.017",
+				"or":  "Yu. V. Milman, K. E. Grinkevych, S. I. Chugunova, W. Lojkowski, M. Djahanbakhsh, and H. J. Fecht, Wear, 258: 77 (2005).",
+				"tr":  "Yu. V. Milman, K. E. Grinkevych, S. I. Chugunova, W. Lojkowski, M. Djahanbakhsh, and H. J. Fecht, Wear, 258: 77 (2005)."
+			}
+		]
+	}
+}

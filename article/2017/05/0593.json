@@ -1,0 +1,268 @@
+{
+	"_id":    "MFiNT.39.05.0593",
+	"year":   2017,
+	"volume": 39,
+	"issue":  5,
+	"pages":  [593,606],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["25.04.2017"],
+	"PACS":   "61.72.Hh, 61.72.S-, 61.72.Yx, 62.20.M-, 62.25.-g, 62.40.+i, 66.30.jp, 68.35.Dv",
+	"title":   {
+		"ua": "Рухливість Гідроґену та його взаємодія з дислокаціями в стопі на основі ніклю Inconel 718",
+		"en": "Hydrogen Mobility and Its Interaction with Dislocations in Nickel-Based Inconel 718 Alloy",
+		"ru": "Подвижность водорода и его взаимодействие с дислокациями в сплаве на основе никеля Inconel 718"
+	},
+	"abstract": {
+		"ua": "Вплив водню на стоп на основі ніклю Inconel 718 досліджено із використанням методи механічної спектроскопії та механічних випробувань. Визначено ентальпію міґрації атомів Гідроґену, ентальпію зв’язку Гідроґену з дислокаціями, а також температуру конденсації Гідроґенових атмосфер навколо дислокацій. Зроблено висновок про те, що взаємодія атомів Гідроґену з дислокаціями відповідає за водневу крихкість.",
+		"en": "The hydrogen effects in the nickel-based alloy Inconel 718 are studied using the mechanical spectroscopy and mechanical tests. The enthalpies of hydrogen-atoms’ migration and hydrogen–dislocations binding as well as the condensation temperature for the hydrogen clouds at the dislocations are determined. It is concluded that interaction of hydrogen atoms with dislocations is responsible for hydrogen embrittlement.",
+		"ru": "Влияние водорода на сплав на основе никеля Inconel 718 изучено при помощи метода механической спектроскопии и механических испытаний. Определены энтальпия миграции атомов водорода, энтальпия связи водорода с дислокациями, а также температура конденсации водородных атмосфер около дислокаций. Сделан вывод о том, что взаимодействие атомов водорода с дислокациями ответственно за водородную хрупкость."
+	},
+	"keywords": {
+		"ua": "стоп на основі ніклю, міґрація Гідроґену, воднева крихкість, дислокації, механічна спектроскопія",
+		"en": "nickel-based alloy, hydrogen migration, hydrogen embrittlement, dislocations, mechanical spectroscopy",
+		"ru": "сплав на основе никеля, миграция водорода, водородная хрупкость, дислокации, механическая спектроскопия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. М. Теус", "en": "S. M. Teus", "ru": "С. М. Теус"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 46,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "E. E. Brown and D. R. Muzyka, Nickel–Iron Alloys (Eds. C. T. Sims and N. S. Stoloff) (New York: Wiley: 1987), p. 165.",
+				"tr":  "E. E. Brown and D. R. Muzyka, Nickel–Iron Alloys (Eds. C. T. Sims and N. S. Stoloff) (New York: Wiley: 1987), p. 165."
+			},
+			{
+				"doi": "",
+				"or":  "K. M. Chang and A. H. Nahm, Rene 220: 100 F Improvement Over Alloy 718 (Eds. E. A. Loria). Superalloy 718 – Metallurgy and Applications (Warrendale, PA: Minerals, Metals & Materials Society: 1989), p. 631.",
+				"tr":  "K. M. Chang and A. H. Nahm, Rene 220: 100 F Improvement Over Alloy 718 (Eds. E. A. Loria). Superalloy 718 – Metallurgy and Applications (Warrendale, PA: Minerals, Metals & Materials Society: 1989), p. 631."
+			},
+			{
+				"doi": "",
+				"or":  "I. Kirman and D. H. Warrington, J. Inst. Met., 99: 197 (1971).",
+				"tr":  "I. Kirman and D. H. Warrington, J. Inst. Met., 99: 197 (1971)."
+			},
+			{
+				"doi": "10.1179/030634582790427118",
+				"or":  "Y. F. Han, P. Deb, and M. C. Chaturvedi, Met. Sci., 16: 825 (1982).",
+				"tr":  "Y. F. Han, P. Deb, and M. C. Chaturvedi, Met. Sci., 16: 825 (1982)."
+			},
+			{
+				"doi": "10.1007/BF02649604",
+				"or":  "R. Cozar and A. Pineau, Metall. Trans., 4: 47 (1973).",
+				"tr":  "R. Cozar and A. Pineau, Metall. Trans. A, 4: 47 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "J. M. Oblak, D. F. Paulonis, and D. S. Duvall, Metall. Mater. Trans., 62: 611 (1969).",
+				"tr":  "J. M. Oblak, D. F. Paulonis, and D. S. Duvall, Metall. Mater. Trans., 62: 611 (1969)."
+			},
+			{
+				"doi": "",
+				"or":  "J. W. Brooks and P. J. Bridges, Metallurgical Stability of Inconel Alloy 718. Superalloys (Eds. T. M. Pollock, R. D. Kissinger, R. R. Bowman, K. A. Green, M. McLean, S. L. Olson, and J. J. Schirra) (Warrendale, PA: Minerals, Metals & Materials Society: 1988), p. 33.",
+				"tr":  "J. W. Brooks and P. J. Bridges, Metallurgical Stability of Inconel Alloy 718. Superalloys (Eds. T. M. Pollock, R. D. Kissinger, R. R. Bowman, K. A. Green, M. McLean, S. L. Olson, and J. J. Schirra) (Warrendale, PA: Minerals, Metals & Materials Society: 1988), p. 33."
+			},
+			{
+				"doi": "10.1149/1.2097067",
+				"or":  "I. S. Hwang, R. G. Ballinger, K. Hosoya, and J. W. Prybylowski, J. Electrochem. Soc., 136, No. 6: 1874 (1989).",
+				"tr":  "I. S. Hwang, R. G. Ballinger, K. Hosoya, and J. W. Prybylowski, J. Electrochem. Soc., 136, No. 6: 1874 (1989)."
+			},
+			{
+				"doi": "10.2320/matertrans1989.35.689",
+				"or":  "J. He, S. Fukuyama, K. Yokogawa, and A. Kimura, Mater. Trans. JIM, 35: 689 (1994).",
+				"tr":  "J. He, S. Fukuyama, K. Yokogawa, and A. Kimura, Mater. Trans. JIM, 35: 689 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "R. J. Walter and W. T. Chandler, Proc. of an International Conference on the Effects of Hydrogen on Materials Properties and Selection and Structural Design (Champion, USA, 1973) (Eds. I. M. Bernstein and A. W. Thompson), p. 515.",
+				"tr":  "R. J. Walter and W. T. Chandler, Proc. of an International Conference on the Effects of Hydrogen on Materials Properties and Selection and Structural Design (Champion, USA, 1973) (Eds. I. M. Bernstein and A. W. Thompson), p. 515."
+			},
+			{
+				"doi": "10.1007/BF02782416",
+				"or":  "P. D. Hicks and C. J. Altstetter, Metall. Trans. A, 21: 365 (1990).",
+				"tr":  "P. D. Hicks and C. J. Altstetter, Metall. Trans. A, 21: 365 (1990)."
+			},
+			{
+				"doi": "10.1007/BF02660868",
+				"or":  "P. D. Hicks and C. J. Altstetter, Metall. Trans. A, 23: 237 (1992).",
+				"tr":  "P. D. Hicks and C. J. Altstetter, Metall. Trans. A, 23: 237 (1992)."
+			},
+			{
+				"doi": "10.1016/j.matchar.2004.07.004",
+				"or":  "S. Azadian, L. Y. Wei, and R. Warren, Materials Characterization, 53: 7 (2004).",
+				"tr":  "S. Azadian, L. Y. Wei, and R. Warren, Materials Characterization, 53: 7 (2004)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(99)00235-X",
+				"or":  "M. K. Miller, S. S. Babu, and M. G. Burke, Mater. Sci. Eng. A, 270: 14 (1999).",
+				"tr":  "M. K. Miller, S. S. Babu, and M. G. Burke, Mater. Sci. Eng. A, 270: 14 (1999)."
+			},
+			{
+				"doi": "10.1007/BF02644051",
+				"or":  "J. A. Donovan, Met. Trans. A, 7: 145 (1976).",
+				"tr":  "J. A. Donovan, Met. Trans. A, 7: 145 (1976)."
+			},
+			{
+				"doi": "10.1007/BF02644079",
+				"or":  "J. K. Tien, A. W. Thompson, I. M. Bernstein, and R. J. Richards, Met. Trans. A, 7: 821 (1976).",
+				"tr":  "J. K. Tien, A. W. Thompson, I. M. Bernstein, and R. J. Richards, Met. Trans. A, 7: 821 (1976)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(98)01006-5",
+				"or":  "F. Lecoester, J. Chene, and D. Noel, Mater. Sci. Eng. A, 262: 173 (1999).",
+				"tr":  "F. Lecoester, J. Chene, and D. Noel, Mater. Sci. Eng. A, 262: 173 (1999)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(99)00167-7",
+				"or":  "L. Fournier, D. Delafosse, and T. Magnin, Mater. Sci. Eng. A, 269: 111 (1999).",
+				"tr":  "L. Fournier, D. Delafosse, and T. Magnin, Mater. Sci. Eng. A, 269: 111 (1999)."
+			},
+			{
+				"doi": "10.1007/BF02669816",
+				"or":  "C. L. Baker, J. Chene, I. M. Bernstein, and J. C. Williams, Metall. Trans. A, 19: 73 (1988).",
+				"tr":  "C. L. Baker, J. Chene, I. M. Bernstein, and J. C. Williams, Metall. Trans. A, 19: 73 (1988)."
+			},
+			{
+				"doi": "",
+				"or":  "Computed with the Use of the Ni-Data Database, a Thermodynamic Database for Calculation of Phase Equilibria in Multicomponent Alloys (UK: ThermoTech Ltd.).",
+				"tr":  "Computed with the Use of the Ni-Data Database, a Thermodynamic Database for Calculation of Phase Equilibria in Multicomponent Alloys (UK: ThermoTech Ltd.)."
+			},
+			{
+				"doi": "10.1016/0001-6160(64)90141-5",
+				"or":  "G. Schoeck, E. Bisogni, and J. Shyne, Acta. Metall., 12, No. 6: 1466 (1964).",
+				"tr":  "G. Schoeck, E. Bisogni, and J. Shyne, Acta. Metall., 12, No. 6: 1466 (1964)."
+			},
+			{
+				"doi": "10.1007/BF02722508",
+				"or":  "A. Riviere, V. Amirault, and J. Woirgard, Nuovo Cimento, 33: 398 (1976).",
+				"tr":  "A. Riviere, V. Amirault, and J. Woirgard, Nuovo Cimento, 33: 398 (1976)."
+			},
+			{
+				"doi": "10.1063/1.1722436",
+				"or":  "V. Granato and K. Luecke, J. Appl. Phys., 27, No. 6: 583 (1956).",
+				"tr":  "V. Granato and K. Luecke, J. Appl. Phys., 27, No. 6: 583 (1956)."
+			},
+			{
+				"doi": "10.1063/1.328687",
+				"or":  "V. Granato and K. Luecke, J. Appl. Phys., 52, No. 12: 7136 (1981).",
+				"tr":  "V. Granato and K. Luecke, J. Appl. Phys., 52, No. 12: 7136 (1981)."
+			},
+			{
+				"doi": "",
+				"or":  "A. S. Keh, Relation Between Structural and Mechanical Properties of Metals (London: H. M. Stationery Office: 1963), p. 436.",
+				"tr":  "A. S. Keh, Relation Between Structural and Mechanical Properties of Metals (London: H. M. Stationery Office: 1963), p. 436."
+			},
+			{
+				"doi": "",
+				"or":  "J. D. Baird, Iron Steel, 36: 450 (1963).",
+				"tr":  "J. D. Baird, Iron Steel, 36: 450 (1963)."
+			},
+			{
+				"doi": "",
+				"or":  "J. P. Hirth and J. Lothe, Theory of Dislocations (New York: McGraw-Hill Co.: 1968).",
+				"tr":  "J. P. Hirth and J. Lothe, Theory of Dislocations (New York: McGraw-Hill Co.: 1968)."
+			},
+			{
+				"doi": "10.1080/01418619808239969",
+				"or":  "P. Aaltonen, Yu. Jagodzinski, A. Tarasenko, S. Smouk, and H. Hanninen, Philos. Mag., 78, No. 4: 979 (1998).",
+				"tr":  "P. Aaltonen, Yu. Jagodzinski, A. Tarasenko, S. Smouk, and H. Hanninen, Philos. Mag., 78, No. 4: 979 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "A. S. Nowick and B. S. Berry, Anelastic Relaxation in Crystalline Solids (New York: Academic Press: 1972).",
+				"tr":  "A. S. Nowick and B. S. Berry, Anelastic Relaxation in Crystalline Solids (New York: Academic Press: 1972)."
+			},
+			{
+				"doi": "",
+				"or":  "E. Adler, Metallk., 56: 249 (1965).",
+				"tr":  "E. Adler, Metallk., 56: 249 (1965)."
+			},
+			{
+				"doi": "",
+				"or":  "E. Adler and C. Radeloff, Z. Angew. Phys., 18: 482 (1965).",
+				"tr":  "E. Adler and C. Radeloff, Z. Angew. Phys., 18: 482 (1965)."
+			},
+			{
+				"doi": "10.1080/01418618208236193",
+				"or":  "B. Hohler and H. Kronmuller, Philos. Mag., 45, No. 6: 607 (1982).",
+				"tr":  "B. Hohler and H. Kronmuller, Philos. Mag., 45, No. 6: 607 (1982)."
+			},
+			{
+				"doi": "10.1103/RevModPhys.64.559",
+				"or":  "S. M. Myers, M. I. Baskes, H. K. Birnbaum, J. W. Corbett, G. G. DeLeo, S. K. Estreicher, E. E. Haller, P. Jena, N. M. Johnson, R. Kirchheim, S. J. Pearton, and M. J. Stavola, Rev. Mod. Phys., 64: 559 (1992).",
+				"tr":  "S. M. Myers, M. I. Baskes, H. K. Birnbaum, J. W. Corbett, G. G. DeLeo, S. K. Estreicher, E. E. Haller, P. Jena, N. M. Johnson, R. Kirchheim, S. J. Pearton, and M. J. Stavola, Rev. Mod. Phys., 64: 559 (1992)."
+			},
+			{
+				"doi": "10.1016/0956-7151(94)00272-J",
+				"or":  "V. G. Gavriljuk, H. Hanninen, A. V. Tarasenko, A. S. Tereshchenko, and K. Ullakko, Acta Metall. Mater., 43, No. 6: 559 (1995).",
+				"tr":  "V. G. Gavriljuk, H. Hanninen, A. V. Tarasenko, A. S. Tereshchenko, and K. Ullakko, Acta Metall. Mater., 43, No. 6: 559 (1995)."
+			},
+			{
+				"doi": "10.1007/BF02646873",
+				"or":  "W.M. Robertson, Metall. Trans., 8: 1709 (1977).",
+				"tr":  "W.M. Robertson, Metall. Trans., 8: 1709 (1977)."
+			},
+			{
+				"doi": "10.1007/BF02651595",
+				"or":  "J. Xu, X. K. Sun, Q. Q. Liu, and W. X. Chen, Metall. Mater. Trans. A, 25: 539 (1994).",
+				"tr":  "J. Xu, X. K. Sun, Q. Q. Liu, and W. X. Chen, Metall. Mater. Trans. A, 25: 539 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "ASTM G148-97. Standard Practice for Evaluation of Hydrogen Uptake, Permeation, Transport in Metals by an Electrochemical Technique (2011).",
+				"tr":  "ASTM G148-97. Standard Practice for Evaluation of Hydrogen Uptake, Permeation, Transport in Metals by an Electrochemical Technique (2011)."
+			},
+			{
+				"doi": "10.1007/BF02647316",
+				"or":  "D. W. Worthem, I. M. Robertson, F. A. Leckie, D. F. Socie, and C. J. Altstetter, Metall. Trans. A, 21: 3215 (1990).",
+				"tr":  "D. W. Worthem, I. M. Robertson, F. A. Leckie, D. F. Socie, and C. J. Altstetter, Metall. Trans. A, 21: 3215 (1990)."
+			},
+			{
+				"doi": "10.1016/S1359-6462(97)00332-1",
+				"or":  "A. E. Pontini and J. D. Hermida, Scr. Mater., 17: 1831 (1997).",
+				"tr":  "A. E. Pontini and J. D. Hermida, Scr. Mater., 17: 1831 (1997)."
+			},
+			{
+				"doi": "10.1016/S1359-6462(98)00285-1",
+				"or":  "J. D. Hermida and A. Roviglione, Scr. Mater., 39: 1145 (1998).",
+				"tr":  "J. D. Hermida and A. Roviglione, Scr. Mater., 39: 1145 (1998)."
+			},
+			{
+				"doi": "10.1016/0022-5096(89)90002-1",
+				"or":  "P. Sofronis and R. M. McMeeking, J. Mech. Phys. Solids, 37, No. 3: 317 (1989).",
+				"tr":  "P. Sofronis and R. M. McMeeking, J. Mech. Phys. Solids, 37, No. 3: 317 (1989)."
+			},
+			{
+				"doi": "10.1002/pssa.200723249",
+				"or":  "S. M. Teus, V. N. Shivanyuk, B. D. Shanina, and V. G. Gavriljuk, phys. status solidi (a), 204, No. 12: 4249 (2007).",
+				"tr":  "S. M. Teus, V. N. Shivanyuk, B. D. Shanina, and V. G. Gavriljuk, phys. status solidi (a), 204, No. 12: 4249 (2007)."
+			},
+			{
+				"doi": "10.1016/j.ijhydene.2016.09.212",
+				"or":  "S. M. Teus, D. G. Savvakin, O. M. Ivasishin, and V. G. Gavriljuk, Int. J. Hydr. Energy, 42: 2424 (2017).",
+				"tr":  "S. M. Teus, D. G. Savvakin, O. M. Ivasishin, and V. G. Gavriljuk, Int. J. Hydr. Energy, 42: 2424 (2017)."
+			},
+			{
+				"doi": "10.1007/978-1-4615-9065-1_2",
+				"or":  "A. W. Thompson and I. M. Bernstein, Advances in Corrosion Science and Technology (Eds. M. G. Fontana and R. F. Staehle) (New York: Plenum Press: 1980), p. 53.",
+				"tr":  "A. W. Thompson and I. M. Bernstein, Advances in Corrosion Science and Technology (Eds. M. G. Fontana and R. F. Staehle) (New York: Plenum Press: 1980), p. 53."
+			},
+			{
+				"doi": "10.1007/BF02654700",
+				"or":  "J. P. Hirth, Metall. Trans. A, 11: 861 (1980).",
+				"tr":  "J. P. Hirth, Metall. Trans. A, 11: 861 (1980)."
+			},
+			{
+				"doi": "10.1016/j.msea.2015.09.015",
+				"or":  "G. S. Mogilny, S. M. Teus, V. N. Shyvanyuk, and V. G. Gavriljuk, Mater. Sci. Eng. A, 648: 260 (2015).",
+				"tr":  "G. S. Mogilny, S. M. Teus, V. N. Shyvanyuk, and V. G. Gavriljuk, Mater. Sci. Eng. A, 648: 260 (2015)."
+			}
+		]
+	}
+}

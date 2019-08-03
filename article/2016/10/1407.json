@@ -1,0 +1,238 @@
+{
+	"_id":    "MFiNT.38.10.1407",
+	"year":   2016,
+	"volume": 38,
+	"issue":  10,
+	"pages":  [1407,1422],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["27.07.2016"],
+	"PACS":   "61.66.Dk, 62.20.Qp, 81.05.Bx, 81.05.Ni, 81.30.Bx, 81.40.Gh, 81.40.Pq",
+	"title":   {
+		"ua": "Роль діяграм фазових рівноваг у створенні евтектичних стопів для машинобудування",
+		"en": "Role of Diagrams of Phase Equilibria in Fabrication of Eutectic Alloys for Mechanical Engineering",
+		"ru": "Роль диаграмм фазовых равновесий в создании эвтектических сплавов для машиностроения"
+	},
+	"abstract": {
+		"ua": "Стаття показує, що дослідження фазових рівноваг, будови та властивостей стопів на основі металів Cr, Mo, W, Fe, Ni, Co з карбідами металів IV— V(A) груп TiC, ZrC, HfC, VC, NbС мають бути основою створення нових стопів для машинобудування.",
+		"en": "The article contains examples of how the study of phase-equilibria diagrams, structure and properties of metals (Cr, Mo, W, Fe, Ni, Co) with carbides of refractory metals of IV—V(A) groups (TiC, ZrC, HfC, VC, NbC) is the basis of design and fabrication of alloys for mechanical engineering.",
+		"ru": "Статья содержит примеры того, что построение диаграмм фазовых равновесий и исследование строения и свойств эвтектических сплавов на основе металлов Cr, Mo, W, Fe, Ni, Co c карбидами тугоплавких металлов IV— V(A) групп TiC, ZrC, HfC, VC, NbC является основой разработки сплавов для машиностроения."
+	},
+	"keywords": {
+		"ua": "діяграма фазових рівноваг, евтектика, метал, карбід, стоп",
+		"en": "phase-equilibrium diagram, eutectic, metal, carbide, alloy",
+		"ru": "диаграмма фазовых равновесий, эвтектика, металл, карбид, сплав"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Г. П. Дмитрієва", "en": "G. P. Dmitrieva", "ru": "Г. П. Дмитриева"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 40,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "A. K. Shurin and G. P. Dmitrieva, Metallofizika, 53: 91 (1974) (in Russian).",
+				"tr":  "A. K. Shurin and G. P. Dmitrieva, Metallofizika, 53: 91 (1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. K. Shurin, O. M. Barabash, G. P. Dmitrieva, V. E. Panarin, and  T. N. Legkaya, Metally, No. 6: 183 (1974) (in Russian).",
+				"tr":  "A. K. Shurin, O. M. Barabash, G. P. Dmitrieva, V. E. Panarin, and T. N. Legkaya, Metally, No. 6: 183 (1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. K. Shurin and G. P. Dmitrieva, Diagrammy Sostoyaniya Karbid- i Nitridsoderzhashchikh Sistem [State Diagrams of Carbide- and  Nitride-Containing Systems] (Kiev: Izd. IPM: 1974) (in Russian).",
+				"tr":  "A. K. Shurin and G. P. Dmitrieva, Diagrammy Sostoyaniya Karbid- i Nitridsoderzhashchikh Sistem [State Diagrams of Carbide- and Nitride-Containing Systems] (Kiev: Izd. IPM: 1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. K. Shurin and G. P. Dmitrieva, Metallofizika, 51: 105 (1974) (in Russian).",
+				"tr":  "A. K. Shurin and G. P. Dmitrieva, Metallofizika, 51: 105 (1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. P. Dmitrieva, A. N. Rakitskiy, and A. K. Shurin, Konstruktsionnye Splavy Khroma [Chrome Structural Alloys] (Kiev: Naukova Dumka: 1986) (in Russian).",
+				"tr":  "G. P. Dmitrieva, A. N. Rakitskiy, and A. K. Shurin, Konstruktsionnye Splavy Khroma [Chrome Structural Alloys] (Kiev: Naukova Dumka: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "R. A. Alfintseva, V. N. Gridnev, G. P. Dmitrieva, A. N. Rakitskiy,  V. I. Trefilov, and A. K. Shurin, Splav na Osnove Khroma [An Alloy Based on Chromium]: Authors’ Certificate 749116 SSSR (Publ. March 21, 1980)  (in Russian).",
+				"tr":  "R. A. Alfintseva, V. N. Gridnev, G. P. Dmitrieva, A. N. Rakitskiy, V. I. Trefilov, and A. K. Shurin, Splav na Osnove Khroma [An Alloy Based on Chromium]: Authors' Certificate 749116 SSSR (Publ. March 21, 1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. F. Burlakov, G. P. Dmitrieva, V. A. Lizunov, V. N. Minakov, L. N. Postnov, V. I. Trefilov, A. P. Tribulkin, and A. K. Shurin, Splav na Osnove Molibdena [An Alloy Based on Molybdenum]: Authors’ Certificate No. 518976 SSSR  (Publ. February 27, 1976) (in Russian).",
+				"tr":  "S. F. Burlakov, G. P. Dmitrieva, V. A. Lizunov, V. N. Minakov, L. N. Postnov, V. I. Trefilov, A. P. Tribulkin, and A. K. Shurin, Splav na Osnove Molibdena [An Alloy Based on Molybdenum]: Authors' Certificate No. 518976 SSSR (Publ. February 27, 1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. F. Burlakov, G. P. Dmitrieva, V. A. Lizunov, V. N. Minakov, L. N. Postnov, A. P. Tribulkin, V. I. Trefilov, and A. K. Shurin, Splav na Osnove Molibdena [An Alloy Based on Molybdenum]: Authors’ Certificate No. 535876 SSSR (Publ. July 22, 1976) (in Russian).",
+				"tr":  "S. F. Burlakov, G. P. Dmitrieva, V. A. Lizunov, V. N. Minakov, L. N. Postnov, A. P. Tribulkin, V. I. Trefilov, and A. K. Shurin, Splav na Osnove Molibdena [An Alloy Based on Molybdenum]: Authors' Certificate No. 535876 SSSR (Publ. July 22, 1976) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Balashov, G. P. Dmitrieva, G. G. Kurdyumova, Yu. V. Mil’man, V. M. Postnov, V. I. Trefilov, I. M. Shumilova, and A. K. Shurin, Splav na Osnove Vol’frama [An Alloy Based on Tungsten]: Authors’ Certificate No. 666901 SSSR (Publ. February 15, 1979) (in Russian).",
+				"tr":  "V. A. Balashov, G. P. Dmitrieva, G. G. Kurdyumova, Yu. V. Mil'man, V. M. Postnov, V. I. Trefilov, I. M. Shumilova, and A. K. Shurin, Splav na Osnove Vol'frama [An Alloy Based on Tungsten]: Authors' Certificate No. 666901 SSSR (Publ. February 15, 1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. P. Dmitrieva, A. N. Drachinsky, and A. K. Shurin, Metallofizika, 5, No. 3: 72 (1983) (in Russian).",
+				"tr":  "G. P. Dmitrieva, A. N. Drachinsky, and A. K. Shurin, Metallofizika, 5, No. 3: 72 (1983) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. P. Dmitrieva and A. K. Shurin, Poroshkovaya Metallurgiya, No. 10: 48 (1980) (in Russian).",
+				"tr":  "G. P. Dmitrieva and A. K. Shurin, Poroshkovaya Metallurgiya, No. 10: 48 (1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. P. Dmitrieva, A. K. Shurin, V. V. Polotnyuk, and S. V. Zolkina, Metallofizika, 3, No. 6: 58 (1981) (in Russian).",
+				"tr":  "G. P. Dmitrieva, A. K. Shurin, V. V. Polotnyuk, and S. V. Zolkina, Metallofizika, 3, No. 6: 58 (1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. K. Shurin and G. P. Dmitrieva, MiTOM, No. 8: 27 (1974) (in Russian).",
+				"tr":  "A. K. Shurin and G. P. Dmitrieva, MiTOM, No. 8: 27 (1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. P. Dmitrieva, A. K. Shurin, and A. D. Vasil’ev, MiTOM, No. 4: 64 (1978) (in Russian).",
+				"tr":  "G. P. Dmitrieva, A. K. Shurin, and A. D. Vasil'ev, MiTOM, No. 4: 64 (1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. K. Shurin, G. P. Dmitrieva, N. A. Razumova, and E. L. Khandros, Metally, No. 1: 206 (1986) (in Russian).",
+				"tr":  "A. K. Shurin, G. P. Dmitrieva, N. A. Razumova, and E. L. Khandros, Metally, No. 1: 206 (1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. P. Dmitrieva, N. A. Razumova, and A. K. Shurin, Poroshkovaya Metallurgiya, No. 9: 66 (1984) (in Russian).",
+				"tr":  "G. P. Dmitrieva, N. A. Razumova, and A. K. Shurin, Poroshkovaya Metallurgiya, No. 9: 66 (1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. K. Shurin, G. P. Dmitrieva, N. A. Razumova, and E. L. Khandros, Poroshkovaya Metallurgiya, No. 8: 76 (1987) (in Russian).",
+				"tr":  "A. K. Shurin, G. P. Dmitrieva, N. A. Razumova, and E. L. Khandros, Poroshkovaya Metallurgiya, No. 8: 76 (1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. K. Shurin, G. P. Dmitrieva, and N. A. Razumova, Metally, No. 6: 67 (1988) (in Russian).",
+				"tr":  "A. K. Shurin, G. P. Dmitrieva, and N. A. Razumova, Metally, No. 6: 67 (1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. P. Dmitrieva and T. S. Cherepova, Metaloznavstvo ta Obrobka Metaliv, No. 3: 34 (2014) (in Ukrainian).",
+				"tr":  "G. P. Dmitrieva and T. S. Cherepova, Metaloznavstvo ta Obrobka Metaliv, No. 3: 34 (2014) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. P. Dmitrieva and T. S. Cherepova, Metaloznavstvo ta Obrobka Metaliv, No. 1: 44 (2016) (in Ukrainian).",
+				"tr":  "G. P. Dmitrieva and T. S. Cherepova, Metaloznavstvo ta Obrobka Metaliv, No. 1: 44 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. P. Dmitrieva and T. S. Cherepova, Lyvarnyy Splav na Osnovi Nikelyu [Casting Alloy Based on Nickel]: Ukrainian Patent No. 102213 (Publ. June 10, 2013) (in Ukrainian).",
+				"tr":  "G. P. Dmitrieva and T. S. Cherepova, Lyvarnyy Splav na Osnovi Nikelyu [Casting Alloy Based on Nickel]: Ukrainian Patent No. 102213 (Publ. June 10, 2013) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "K. I. Portnoy, B. N. Babich, and I. L. Svetlov, Kompozitsionnye Materialy na Nikelevoy Osnove [Composite Materials Based on Nickel] (Moscow: Metallurgiya: 1979) (in Russian).",
+				"tr":  "K. I. Portnoy, B. N. Babich, and I. L. Svetlov, Kompozitsionnye Materialy na Nikelevoy Osnove [Composite Materials Based on Nickel] (Moscow: Metallurgiya: 1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. K. Shurin, G. P. Dmitrieva, I. L. Svetlov, and E. A. Kuleshova, Metallofizika, 8, No. 2: 83 (1986) (in Russian).",
+				"tr":  "A. K. Shurin, G. P. Dmitrieva, I. L. Svetlov, and E. A. Kuleshova, Metallofizika, 8, No. 2: 83 (1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. K. Shurin, O. M. Barabash, T. N. Legkaya, and G. P. Dmitrieva, Novye Zharoprochnye i Zharostoykie Metallicheskie Materialy [New Heat-Resistant and Thermal-Resistant Metallic Materials] (Moscow: IMET: 1988) (in Russian).",
+				"tr":  "A. K. Shurin, O. M. Barabash, T. N. Legkaya, and G. P. Dmitrieva, Novye Zharoprochnye i Zharostoykie Metallicheskie Materialy [New Heat-Resistant and Thermal-Resistant Metallic Materials] (Moscow: IMET: 1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Supersplavy II. Zharoprochnye Metally dlya Aerokosmicheskikh i Promyshlennykh Ustanovok [Superalloys II. Heat-Resistant Metals for the Aerospace and Industrial Plants] (Ed. Ch. T. Sins) (Moscow: Metallurgiya: 1995) (in Russian).",
+				"tr":  "Supersplavy II. Zharoprochnye Metally dlya Aerokosmicheskikh i Promyshlennykh Ustanovok [Superalloys II. Heat-Resistant Metals for the Aerospace and Industrial Plants] (Ed. Ch. T. Sins) (Moscow: Metallurgiya: 1995) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. P. Dmitrieva, Z. V. Krasnokutskaya, N. N. Belyavina, and A. K. Shurin, Poroshkovaya Metallurgiya, No. 3: 80 (1989) (in Russian).",
+				"tr":  "G. P. Dmitrieva, Z. V. Krasnokutskaya, N. N. Belyavina, and A. K. Shurin, Poroshkovaya Metallurgiya, No. 3: 80 (1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. P. Dmitrieva, T. S. Cherepova, and A. K. Shurin, Poroshkovaya Metallurgiya, No. 4: 78 (1992) (in Russian).",
+				"tr":  "G. P. Dmitrieva, T. S. Cherepova, and A. K. Shurin, Poroshkovaya Metallurgiya, No. 4: 78 (1992) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. P. Dmitrieva, T. S. Cherepova, and A. K. Shurin, Diagrammy Sostoyaniya v Materialovedenii [State Diagrams in Materials Science] (Kiev: IPM: 1991) (in Russian).",
+				"tr":  "G. P. Dmitrieva, T. S. Cherepova, and A. K. Shurin, Diagrammy Sostoyaniya v Materialovedenii [State Diagrams in Materials Science] (Kiev: IPM: 1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. P. Dmitrieva, T. S. Cherepova, and A. K. Shurin, Poroshkovaya Metallurgiya, Nos. 11–12: 44 (1996) (in Russian).",
+				"tr":  "G. P. Dmitrieva, T. S. Cherepova, and A. K. Shurin, Poroshkovaya Metallurgiya, Nos. 11–12: 44 (1996) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. P. Dmitrieva, T. S. Cherepova, and A. K. Shurin, Poroshkovaya Metallurgiya, Nos. 3–4: 86 (1997) (in Russian).",
+				"tr":  "G. P. Dmitrieva, T. S. Cherepova, and A. K. Shurin, Poroshkovaya Metallurgiya, Nos. 3–4: 86 (1997) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. P. Dmitrieva and T. S. Cherepova, Metallofiz. Noveishie Tekhnol., 35, No. 10: 1383 (2013) (in Russian).",
+				"tr":  "G. P. Dmitrieva and T. S. Cherepova, Metallofiz. Noveishie Tekhnol., 35, No. 10: 1383 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. K. Shurin, G. P. Dmitrieva, T. S. Cherepova, N. V. Andreichenko, and  L. I. Ivshenko, Splav na Osnove Kobal’ta [An Alloy Based on Cobalt]: Ukrainian Patent No. 8240 (Publ. March 29, 1996) (in Ukrainian).",
+				"tr":  "A. K. Shurin, G. P. Dmitrieva, T. S. Cherepova, N. V. Andreichenko, and L. I. Ivshenko, Splav na Osnove Kobal'ta [An Alloy Based on Cobalt]: Ukrainian Patent No. 8240 (Publ. March 29, 1996) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. P. Dmitrieva, A. K. Shurin, and T. S. Cherepova, Tekhnicheskie Usloviya [Specifications], TUU 88.061.007 (1998) (in Russian).",
+				"tr":  "G. P. Dmitrieva, A. K. Shurin, and T. S. Cherepova, Tekhnicheskie Usloviya [Specifications], TUU 88.061.007 (1998) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. E. Panarin, M. V. Kindrachuk, P. I. Loboda, V. A. Titov, L. I. Ivshenko, V. M. Merkulov, V. Yu. Kotsuba, G. P. Dmitrieva, T. S. Cherepova, and E. V. Kondratuk (Kyiv: TOV. KVTS: 2015) (in Ukrainian).",
+				"tr":  "V. E. Panarin, M. V. Kindrachuk, P. I. Loboda, V. A. Titov, L. I. Ivshenko, V. M. Merkulov, V. Yu. Kotsuba, G. P. Dmitrieva, T. S. Cherepova, and E. V. Kondratuk (Kyiv: TOV. KVTS: 2015) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/mfint.37.07.0973",
+				"or":  "G. P. Dmitrieva, T. S. Cherepova, T. O. Kosorukova, and V. I. Nichiporenko, Metallofiz. Noveishie Tekhnol., 37, No. 7: 973 (2015) (in Russian).",
+				"tr":  "G. P. Dmitrieva, T. S. Cherepova, T. O. Kosorukova, and V. I. Nichiporenko, Metallofiz. Noveishie Tekhnol., 37, No. 7: 973 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. P. Dmitrieva, T. S. Cherepova, and A. K. Shurin, Metaloznavstvo ta Obrobka Metaliv, Nos. 4–5: 3 (2005) (in Ukrainian).",
+				"tr":  "G. P. Dmitrieva, T. S. Cherepova, and A. K. Shurin, Metaloznavstvo ta Obrobka Metaliv, Nos. 4–5: 3 (2005) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. P. Dmitrieva, T. S. Cherepova, and A. K. Shurin, Metaloznavstvo ta Obrobka Metaliv, No. 2: 22 (2006) (in Ukrainian).",
+				"tr":  "G. P. Dmitrieva, T. S. Cherepova, and A. K. Shurin, Metaloznavstvo ta Obrobka Metaliv, No. 2: 22 (2006) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Dmitrieva, V. Vasilenko, and I. Melnik, Chemistry of Metals and Alloys, No. 1: 338 (2008).",
+				"tr":  "G. Dmitrieva, V. Vasilenko, and I. Melnik, Chemistry of Metals and Alloys, No. 1: 338 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "A. K. Shurin, T. S. Cherepova, N. V. Andreychenko, and V. S. Zamkovoy, Splav na Osnove Kobal’ta [An Alloy Based on Cobalt]: Ukrainian Patent No. 39450 (Publ. February 25, 2009) (in Ukrainian).",
+				"tr":  "A. K. Shurin, T. S. Cherepova, N. V. Andreychenko, and V. S. Zamkovoy, Splav na Osnove Kobal'ta [An Alloy Based on Cobalt]: Ukrainian Patent No. 39450 (Publ. February 25, 2009) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/scine10.04.020",
+				"or":  "T. S. Cherepova, G. P. Dmitrieva, A. V. Nosenko, and O. M. Semirga, Science and Innovation, 10, No. 4: 22 (2014) (in Ukrainian).",
+				"tr":  "T. S. Cherepova, G. P. Dmitrieva, A. V. Nosenko, and O. M. Semirga, Science and Innovation, 10, No. 4: 22 (2014) (in Ukrainian)."
+			}
+		]
+	}
+}

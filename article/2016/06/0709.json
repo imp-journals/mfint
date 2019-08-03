@@ -1,0 +1,71 @@
+{
+	"_id":    "MFiNT.38.06.0709",
+	"year":   2016,
+	"volume": 38,
+	"issue":  6,
+	"pages":  [709,715],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["05.11.2014","29.06.2016"],
+	"PACS":   "74.20.Fg, 74.25.Kc, 74.40.Gh, 74.45.+c, 74.50.+r, 74.78.Fk",
+	"title":   {
+		"ua": "Блокування тунельного струму в низькоомних структурах нормальний метал—ізолятор—надпровідник",
+		"en": "Blocking of a Tunnel Current in Low-Resistance Normal Metal—Insulator—Superconductor Structures",
+		"ru": "Блокировка туннельного тока в низкоомных структурах нормальный металл—изолятор—сверхпроводник"
+	},
+	"abstract": {
+		"ua": "На прикладі низькоомних тунельних контактів, сформованих нормальним металом і надпровідним оливом, обговорюється ефект блокування тунельного струму надлишковими нерівноважними квазичастинками. Показано, що пригамовування тунельного струму визначається відношенням часу рекомбінації квазичастинок до часу тунелювання і залежить від прикладеної до контакту напруги.",
+		"en": "Effect of the tunnel-current blocking by excess nonequilibrium quasi-particles is discussed, as an example, for the low-resistance tunnel junctions formed by normal metal and superconducting lead. As shown, the tunnel current suppression is determined by the ratio of a recombination time of quasi-particles to the tunnelling time and depends on the voltage applied to the junction.",
+		"ru": "На примере низкоомных туннельных контактов, образованных нормальным металлом и сверхпроводящим свинцом, обсуждается эффект блокировки туннельного тока избыточными неравновесными квазичастицами. Показано, что подавление туннельного тока определяется отношением времени рекомбинации квазичастиц ко времени туннелирования и зависит от приложенного к контакту напряжения."
+	},
+	"keywords": {
+		"ua": "нерівноважна надпровідність, фонони, тунельний контакт, надпровідники, гетероструктури",
+		"en": "nonequilibrium superconductivity, phonons, tunnel junction, superconductors, heterostructures",
+		"ru": "неравновесная сверхпроводимость, фононы, туннельный контакт, сверхпроводники, гетероструктуры"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Е. М. Руденко", "en": "E. M. Rudenko", "ru": "Э. М. Руденко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Д. О. Соломаха", "en": "D. A. Solomakha", "ru": "Д. А. Соломаха"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. О. Краковний", "en": "A. A. Krakovnij", "ru": "А. А. Краковный"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 5,
+		"list":  [
+			{
+				"doi": "10.1007/s10909-012-0812-3",
+				"or":  "E. M. Rudenko, I. V. Korotash, A. A. Krakovny, D. S. Dubyna, D. A. Solomakha, and D. S. Shchyptsov, J. Low Temp. Phys., 171, No. 5–6: 779 (2013).",
+				"tr":  "E. M. Rudenko, I. V. Korotash, A. A. Krakovny, D. S. Dubyna, D. A. Solomakha, and D. S. Shchyptsov, J. Low Temp. Phys., 171, No. 5–6: 779 (2013)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.5.461",
+				"or":  "J. Nicol, S. Shapiro, and P. H. Smith, Phys. Rev. Lett., 5: 461 (1960).",
+				"tr":  "J. Nicol, S. Shapiro, P. H. Smith, Phys. Rev. Lett., 5: 461. (1960)."
+			},
+			{
+				"doi": "",
+				"or":  "К. В. Мицен, Труды ФИАН, 174: 124.",
+				"tr":  "K. V. Mitsen, Trudy FIAN, 174: 124 (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.14.4854",
+				"or":  "S. B. Kaplan, C. C. Chi, D. N. Langenberg, J. J. Chang, S. Jafarey, and D. J. Scalapino, Phys. Rev. B, 14, 11: 4854 (1976).",
+				"tr":  "S. B. Kaplan, C. C. Chi, D. N. Langenberg, J. J. Chang, S. Jafarey, and D. J. Scalapino, Phys. Rev. B, 14, 11: 4854 (1976)."
+			},
+			{
+				"doi": "10.1051/jp4:1994644",
+				"or":  "A. A. Golubov, E. P. Houwman, V. M. Krasnov, G. J. Gijsbertsen, J. Flokstra, H. Rogalla, J. B. le Grand, and P. A. J. de Korte, Journal de Physique IV, 4: C6-273 (1994).",
+				"tr":  "A. A. Golubov, E. P. Houwman, V. M. Krasnov, G. J. Gijsbertsen, J. Flokstra, H. Rogalla, J. B. le Grand, and P. A. J. de Korte, Journal de Physique IV, 4: C6-273 (1994)."
+			}
+		]
+	}
+}

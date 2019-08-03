@@ -1,0 +1,163 @@
+{
+	"_id":    "MFiNT.36.10.1287",
+	"year":   2014,
+	"volume": 36,
+	"issue":  10,
+	"pages":  [1287,1302],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["14.03.2014"],
+	"PACS":   "61.20.Gy, 67.63.Gh, 71.10.Ca, 71.15.Dx, 71.15.Nc, 71.22.+i, 71.30.+h",
+	"title":   {
+		"ua": "Багаточастинкова взаємодія протонів у металічному водні",
+		"en": "Many-Particle Interaction of Protons in Metallic Hydrogen",
+		"ru": "Многочастичное взаимодействие протонов в металлическом водороде"
+	},
+	"abstract": {
+		"ua": "Вперше детально досліджено тричастинкову взаємодію протонів у металічному водні. За неї відповідає член третього порядку теорії збурень за потенціялом електрон-протонної взаємодії для енергії електронів провідности в полі протонів. Показано, що тричастинкова взаємодія протонів для більшости конфіґурацій протонів є малою порівняно з ефективною парною взаємодією, але для деяких конфіґурацій вона значно перевищує останню. Показано, що тричастинкова взаємодія прагне стиснути водень до більших густин, ніж це спроможна зробити парна ефективна двочастинкова взаємодія. Найбільша глибина потенціяльної ями для тричастинкової взаємодії протонів відповідає розташуванню протонів на одній прямій, що можна інтерпретувати як тенденцію до створення кубічної ґратниці для водню в металічному стані. Кристалічний стан металічного водню має бути стійким при температурах, що значно перевищують кімнатну. Тричастинкова взаємодія сприяє переходу водню в атомарний стан як проміжний при переході водню з молекулярної фази в металічну.",
+		"en": "For the first time, three-particle interaction of protons in metallic hydrogen is studied in detail. This interaction is conditioned by the third-order member of perturbation theory for the potential of the electron—proton interaction for the energy of conduction electrons in the field of protons. As shown, the three-particle interaction of protons for the majority of protons’ configurations is small as compared with the effective pair interaction, but, for some configurations, it is much stronger than the last one. As shown, the three-particle interaction tends to compress hydrogen to higher densities than effective two-particle interaction is able to do. The maximal depth of the potential well for the three-particle interactions of protons corresponds to the location of protons in a straight line that can be interpreted as a tendency to form a cubic lattice of hydrogen in the metallic state. The crystalline state of metallic hydrogen should be stable at temperatures much higher than room one. Three-particle interaction promotes the transition of hydrogen in monoatomic state as intermediate state during the transition from molecular phase to metallic one.",
+		"ru": "Впервые детально исследовано трёхчастичное взаимодействие между протонами в металлическом водороде. За него отвечает член третьего порядка теории возмущений по потенциалу электрон-протонного взаимодействия для энергии электронов проводимости в поле протонов. Показано, что трёхчастичное взаимодействие для большинства конфигураций протонов является малым по сравнению с эффективным парным взаимодействием, но для некоторых конфигураций оно значительно превышает последнее. Показано, что трёхчастичное взаимодействие стремится сжать водород до больших плотностей, чем это в состоянии сделать парное эффективное взаимодействие. Наибольшая глубина потенциальной ямы для трёхчастичного взаимодействия протонов соответствует размещению протонов на одной прямой, что можно интерпретировать как тенденцию к образованию кубической решётки для водорода в металлическом состоянии. Кристаллическое состояние водорода может быть устойчивым при температурах, которые значительно превышают комнатную. Трёхчастичное взаимодействие способствует переходу водорода в атомарное состояние как промежуточное при переходе водорода из молекулярной фазы в металлическую."
+	},
+	"keywords": {
+		"ua": "металічний водень, тричастинкова взаємодія",
+		"en": "metallic hydrogen, three-particle interaction",
+		"ru": "металлический водород, трёхчастичное взаимодействие"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Т. Швець", "en": "V. Т. Shvets", "ru": "В. Т. Швец"},
+			"OID": [231]
+		}
+	],
+	"references": {
+		"count": 25,
+		"list":  [
+			{
+				"doi": "10.3367/UFNe.0179.200906h.0653",
+				"or":  "В. Е. Фортов, УФН, 179, № 6: 653 (2009).",
+				"tr":  "V. E. Fortov, Physics-Uspekhi, 52: 615 (2009)."
+			},
+			{
+				"doi": "10.1070/PU2007v050n04ABEH006234",
+				"or":  "В. Е. Фортов, УФН, 177, № 4: 347 (2007).",
+				"tr":  "V. E. Fortov, Physics-Uspekhi, 50: 333 (2007)."
+			},
+			{
+				"doi": "10.1070/PU1999v042n11ABEH000666",
+				"or":  "Е. Г. Максимов, Ю. Т. Шилов, УФН, 169, № 11: 1223 (1999).",
+				"tr":  "E. G. Maksimov and Yu. I. Shilov, Physics-Uspekhi, 42: 1121 (1999)."
+			},
+			{
+				"doi": "10.1088/0034-4885/69/5/R05",
+				"or":  "W. J. Nellis, Rep. Prog. Phys., 69: 479 (2006).",
+				"tr":  "W. J. Nellis, Rep. Prog. Phys., 69: 479 (2006)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.76.1860",
+				"or":  "S. T. Weir, A. C. Mitchell, and W. J. Nellis, Phys. Rev. Lett., 76, Iss. 11: 1860 (1996).",
+				"tr":  "S. T. Weir, A. C. Mitchell, and W. J. Nellis, Phys. Rev. Lett., 76, Iss. 11: 1860 (1996)."
+			},
+			{
+				"doi": "10.1134/1.568114",
+				"or":  "В. Е. Фортов, В. Я. Терновой, С. В. Квитов, В. Б. Минцев, Д. Н. Николаев, А. А. Пяллинг, А. С. Филимонов, Письма в ЖЭТФ, 69, № 12: 874 (1999).",
+				"tr":  "V. E. Fortov, V. Ya. Ternovoi, S. V. Kvitov, V. B. Mintsev, D. N. Nikolaev, A. A. Pyalling, A. S. Filimonov, JETP Letters, 69, Iss. 12: 926 (1999)."
+			},
+			{
+				"doi": "10.1016/S0921-4526(98)01303-9",
+				"or":  "V. Ya. Ternovoi, A. S. Filimonov, V. E. Fortov, S. V. Kvitov, D. N. Nikolaev, A. A. Pyalling, Physica B, 265, Issues 1–4: 6 (1999).",
+				"tr":  "V. Ya. Ternovoi, A. S. Filimonov, V. E. Fortov, S. V. Kvitov, D. N. Nikolaev, A. A. Pyalling, Physica B, 265, Issues 1–4: 6 (1999)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.86.3108",
+				"or":  "M. Bastea, A. C. Mitchell, and W. J. Nellis, Phys. Rev. Lett., 86: 3108 (2001).",
+				"tr":  "M. Bastea, A. C. Mitchell, and W. J. Nellis, Phys. Rev. Lett., 86: 3108 (2001)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.90.245501",
+				"or":  "R. Chau, A. C. Mitchell, R. W. Minich, and W. J. Nellis, Phys. Rev. Lett., 90: 245501 (2003).",
+				"tr":  "R. Chau, A. C. Mitchell, R. W. Minich, and W. J. Nellis, Phys. Rev. Lett., 90: 245501 (2003)."
+			},
+			{
+				"doi": "10.1134/S1063776112080134",
+				"or":  "М. А. Мочалов, Р. И. Илькаев, В. Е. Фортов, А. Л. Михайлов, Ю. М. Макаров, В. А. Аринин, А. О. Бликов, А. Ю. Баурин, В. А. Комраков, В. А. Огородников, А. В. Рыжков, Е. А. Пронин, А. А. Юхимчук, ЖЭТФ, 142, № 4 (10): 696 (2012).",
+				"tr":  "M. A. Mochalov, R. I. Il'kaev, V. E. Fortov, A. L. Mikhailov, Yu. M. Makarov, V. A. Arinin, A. O. Blikov, A. Yu. Baurin, V. A. Komrakov, V. A. Ogorodnikov, A. V. Ryzhkov, E. A. Pronin, A. A. Yukhimchuk, JETP, 115, Iss. 4: 614 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Т. Швець, С. В. Дацько, Є. К. Малиновський, Український фізичний журнал, 58, № 1: 72 (2007).",
+				"tr":  "V. T. Shvets, S. V. Datsko, Ye. K. Malynovskij, Ukr. J. Phys., 52, No. 1: 70 (2007)."
+			},
+			{
+				"doi": "10.1134/S0031918X07040023",
+				"or":  "В. Т. Швец, Физ. мет. металловед., 103, № 4: 346 (2007).",
+				"tr":  "V. T. Shvets, The Phys. Met. Metallogr., 103, Iss. 4: 330 (2007)."
+			},
+			{
+				"doi": "10.1134/S1063776107040164",
+				"or":  "В. Т. Швец, ЖЭТФ, 131, № 4: 743 (2007).",
+				"tr":  "V. T. Shvets, JETP, 104, Iss. 4: 655 (2007)."
+			},
+			{
+				"doi": "10.1134/S002136400720012X",
+				"or":  "В. Т. Швец, А. С. Власенко, А. Д. Буханенко, Письма в ЖЭТФ, 86, № 8: 625 (2007).",
+				"tr":  "V. T. Shvets, A. S. Vlasenko, A. D. Bukhanenko, JETP Letters, 86, Iss. 8: 552 (2007)."
+			},
+			{
+				"doi": "10.1134/s10740-008-2006-x",
+				"or":  "В. Т. Швец, Теплофизика высоких температур, 46, вып. 2: 219 (2008).",
+				"tr":  "V. T. Shvets, High Temperature, 46, Iss. 2: 194 (2008)."
+			},
+			{
+				"doi": "10.12693/APhysPolA.114.851",
+				"or":  "V. T. Shvets, Acta Phys. Pol. A, 114, No. 4: 851 (2008).",
+				"tr":  "V. T. Shvets, Acta Phys. Pol. A, 114, No. 4: 851 (2008)."
+			},
+			{
+				"doi": "10.1088/0305-4608/6/5/010",
+				"or":  "M. Hasegawa, J. Phys. F: Metal Physics, 6, No. 5: 649 (1976).",
+				"tr":  "M. Hasegawa, J. Phys. F: Metal Physics, 6, No. 5: 649 (1976)."
+			},
+			{
+				"doi": "",
+				"or":  "S. D. Kaim, N. P. Kovalenko, and E. V. Vasiliu, J. Phys. Studies, 1, No. 4: 589 (1997).",
+				"tr":  "S. D. Kaim, N. P. Kovalenko, and E. V. Vasiliu, J. Phys. Studies, 1, No. 4: 589 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Т. Швець, С. В. Козицький, Металлофиз. новейшие технол., 33, № 9: 1199 (2011).",
+				"tr":  "V. T. Shvets and S. V. Kozytskyy, Metallofiz. Noveishie Tekhnol., 33, No. 9: 1199 (2011) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1134/S0021364012010109",
+				"or":  "В. Т. Швец, Письма в ЖЭТФ, 95, № 1: 33 (2012).",
+				"tr":  "V. T. Shvets, JETP Letters, 95, Iss. 1: 29 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Г. Бровман, Ю. М. Каган, А. Холас, ЖЭТФ, 61, № 6 (12): 2429 (1971).",
+				"tr":  "E. G. Brovman, Yu. Kagan, and A. Kholas, Soviet Physics JETP, 34, No. 6: 1300 (1972)."
+			},
+			{
+				"doi": "10.1070/PU1974v017n02ABEH004329",
+				"or":  "Е. Г. Бровман, Ю. М. Каган, УФН, 112, № 3: 369 (1974).",
+				"tr":  "Ye. G. Brovman and Yu. M. Kagan, Physics-Uspekhi, 17: 125 (1974)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Т. Швець, Фізика невпорядкованих металів (Одеса: Маяк: 2007).",
+				"tr":  "V. T. Shvets, Fizyka Nevporyadkovanykh Metaliv (Physics of Disordered Metals) (Odesa: Mayak: 2007) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Т. Швець, С. В. Козицький, Металізація водню і гелію (Одеса: ОНМА: 2013).",
+				"tr":  "V. T. Shvets and S. V. Kozytskyy, Metalizatsiya Vodnyu i Geliyu (Hydrogen and Helium Metallization) (Odesa: ONMA: 2013) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1134/1.1675919",
+				"or":  "B. B. Кечин, Письма в ЖЭТФ, 79, № 1: 46 (2004).",
+				"tr":  "V. V. Kechin, JETP Letters, 79, Iss. 1: 40 (2004)."
+			}
+		]
+	}
+}

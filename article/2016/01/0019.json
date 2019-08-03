@@ -1,0 +1,157 @@
+{
+	"_id":    "MFiNT.38.01.0019",
+	"year":   2016,
+	"volume": 38,
+	"issue":  1,
+	"pages":  [19,51],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["01.07.2015"],
+	"PACS":   "03.65.Nk, 03.65.Ta, 03.65.Xp, 72.25.Mk, 73.21.Ac, 75.76.+j",
+	"title":  {
+		"ua": "Залежне від часу розсіяння асиметричним прямокутним потенціалом у наноструктурах",
+		"en": "Time-Dependent Scattering by an Asymmetric Spin-Dependent Rectangular Potential in Nanostructures",
+		"ru": "Зависящее от времени рассеяние асимметричным прямоугольным потенциалом в наноструктурах"
+	},
+	"abstract": {
+		"ua": "Одержано точний, залежний від часу розв’язок для хвильової функції частинки $\\psi(r, t)$, що рухається в присутності асиметричного прямокутнього потенціялу (бар’єру чи ями), який змінюється в одному вимірі. Використано новий для цієї проблеми підхід, що ґрунтується на теорії багаторазового розсіяння (ТБР), для обчислення просторово-часового пропаґатора. Цей підхід, що ґрунтується на знайдених ефективних потенціялах, які локалізовані на стрибках потенціялу та відповідальні за відбивання від потенціялу й проходження крізь нього, уможливлює розгляд цих процесів, скоріше з точки зору динаміки частинки, аніж хвилі. Знайдений розв’язок описує дані квантові процеси як функцію часу і пов’язаний із фундаментальними проблемами квантової механіки (такими як міряння часу) та з кінетичною теорією наноструктур. Останнє обумовлено тим, що розглянутий потенціял може моделювати спін-залежний потенціяльний профіль у магнетних багатошарових структурах, які використовуються в приладах спінтроніки. Розв’язок представлено у вигляді інтеґралів від елементарних функцій і являє собою суму компонент хвильового пакету, що рухаються вперед і в зворотньому напрямку. Розглянуто і чисельно візуалізовано відносний внесок цих компонент та їх інтерференції, а також асиметричности потенціялу в густину ймовірности $|\\psi(r, t)|^{2}$ і час життя частинки в області потенціялу у випадках вузького та широкого за енергією (імпульсом) розподілу початкового Ґауссового хвильового пакета. Показано, що у випадку широкого початкового хвильового пакета квантово-механічний парадоксальний (і що часто залишається поза увагою) ефект впливу компонент пакета, що рухаються у зворотньому напрямку, на розглянуті властивості стає істотним. Вплив асиметрії потенціялу в цьому випадку також може бути більш вираженим.",
+		"en": "An exact time-dependent solution for the wave function $\\psi(r, t)$ of a particle moving in the presence of an asymmetric rectangular well/barrier potential varying in one dimension is obtained by applying a novel for this problem approach using multiple scattering theory (MST) for the calculation of the space—time propagator. This approach, based on the found effective potentials localized at the potential jumps and responsible for transmission through and reflection from the considered rectangular potential, enables considering these processes from standpoint of a particle (rather than a wave). The solution describes these quantum phenomena as time dependent and is related to both the fundamental issues (such as time measurement) of quantum mechanics and the kinetic theory of nanostructures due to the fact that the considered potential can model the spin-dependent potential profile of the magnetic multilayers used in spintronics devices. It is presented in terms of integrals of elementary functions and is a sum of the forward- and backward-moving components of the wave packet. The relative contribution of these components and their interference as well as of the potential asymmetry to both the probability density $|\\psi(r, t)|^{2}$ and the particle dwell time is considered and numerically visualized for the narrow and broad energy (momentum) distributions of the initial Gaussian wave packet. As shown, in the case of a broad initial wave packet, the quantum-mechanical counterintuitive effect of the influence of the backward-moving components on the considered quantities becomes significant (that is often disregarded). The influence of the potential asymmetry in this case can also be more pronounced.",
+		"ru": "Получено точное, зависящее от времени решение для волновой функции частицы $\\psi(r, t)$, движущейся в присутствии асимметричного прямоугольного потенциала (барьера или ямы), изменяющегося в одном измерении. Использован новый для этой проблемы подход, основанный на теории многократного рассеяния (ТМР), для вычисления пространственно-временного пропагатора. Этот подход, базирующийся на найденных эффективных потенциалах, локализованных на скачках потенциала и ответственных за отражение от потенциала и прохождение через него, позволяет рассмотреть эти процессы, скорее с точки зрения динамики частицы, чем волны. Полученное решение описывает данные квантовые процессы как функцию времени и связано с фундаментальными проблемами квантовой механики (такими как измерение времени) и с кинетической теорией наноструктур. Последнее обусловлено тем, что рассмотренный потенциал может моделировать спин-зависящий потенциальный профиль в магнитных многослойных структурах, используемых в устройствах спинтроники. Решение представлено в виде интегралов от элементарных функций и представляет собой сумму вперёд и обратно движущихся компонент волнового пакета. Рассмотрен и численно визуализирован относительный вклад этих компонент и их интерференции, а также асимметричности потенциала в плотность вероятности $|\\psi(r, t)|^{2}$ и во время жизни частицы в области потенциала в случаях узкого и широкого по энергии (импульсу) распределения начального гауссовского волнового пакета. Показано, что в случае широкого начального волнового пакета квантово-механический парадоксальный (и часто не принимаемый во внимание) эффект влияния обратно движущихся компонент пакета на рассмотренные свойства становится существенным. Влияние асимметрии потенциала в этом случае также может быть более выраженным."
+	},
+	"keywords": {
+		"ua": "теорія багаторазового розсіяння, залежне від часу рівняння Шрединґера, прямокутній асиметричний потенціял ями/бар’єру, зворотньо поширювана хвиля, час загаяння, магнетні наноструктури",
+		"en": "multiple-scattering theory, time-dependent Schrödinger equation, rectangular asymmetric well/barrier potential, backward-moving wave, dwell time, magnetic nanostructures",
+		"ru": "теория многократного рассеяния, зависящее от времени уравнение Шредингера, прямоугольный асимметричный потенциал ямы/барьера, обратно распространяющаяся волна, время задержки, магнитные наноструктуры"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Ф. Лось", "en": "V. F. Los", "ru": "В. Ф. Лось"},
+			"OID": [7]
+		},
+		{
+			"AID": {"ua": "Н. В. Лось", "en": "N. V. Los", "ru": "Н. В. Лось"},
+			"OID": [181]
+		}
+	],
+	"references": {
+		"count": 23,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Time in Quantum Mechanics (Eds. J. G. Muga, R. Sala Mayato, and I. L. Egusquiza), vol. 1 (Lecture Notes in Physics, vol. 734) (Berlin: Springer: 2008); Time in Quantum Mechanics (Eds. J. G. Muga, A. Ruschhaup, and A. del Campo), vol. 2 (Lecture Notes in Physics, vol. 789) (Berlin: Springer: 2009)",
+				"tr":  "Time in Quantum Mechanics (Eds. J. G. Muga, R. Sala Mayato, and I. L. Egusquiza), vol. 1 (Lecture Notes in Physics, vol. 734) (Berlin: Springer: 2008); Time in Quantum Mechanics (Eds. J. G. Muga, A. Ruschhaup, and A. del Campo), vol. 2 (Lecture Notes in Physics, vol. 789) (Berlin: Springer: 2009)"
+			},
+			{
+				"doi": "10.1103/RevModPhys.61.917",
+				"or":  "E. H. Hauge and J. A. Stovneng, Rev. Mod. Phys., 61, No. 4: 917 (1989)",
+				"tr":  "E. H. Hauge and J. A. Stovneng, Rev. Mod. Phys., 61, No. 4: 917 (1989)"
+			},
+			{
+				"doi": "10.1088/0305-4470/34/20/303",
+				"or":  "A. D. Baute, I. L. Egusquiza, and J. G. Muga, J. Phys. A: Math. Theor., 34, No. 20: 4289 (2001)",
+				"tr":  "A. D. Baute, I. L. Egusquiza, and J. G. Muga, J. Phys. A: Math. Theor., 34, No. 20: 4289 (2001)"
+			},
+			{
+				"doi": "",
+				"or":  "A. D. Baute, I. L. Egusquiza, and J. G. Muga, Int. J. Theor. Physics., Group. Theory, Nonlinear Optics, 8, No. 1: 1 (2002)",
+				"tr":  "A. D. Baute, I. L. Egusquiza, and J. G. Muga, Int. J. Theor. Physics., Group. Theory, Nonlinear Optics, 8, No. 1: 1 (2002)"
+			},
+			{
+				"doi": "10.1103/PhysRevLett.61.2472",
+				"or":  "M. N. Baibich, J. M. Broto, A. Fert, F. Nguyen Van Dau, F. Petroff, P. Etienne, G. Creuzet, A. Friederich, and J. Chazelas, Phys. Rev. Lett., 61, No. 21: 2472 (1988)",
+				"tr":  "M. N. Baibich, J. M. Broto, A. Fert, F. Nguyen Van Dau, F. Petroff, P. Etienne, G. Creuzet, A. Friederich, and J. Chazelas, Phys. Rev. Lett., 61, No. 21: 2472 (1988)"
+			},
+			{
+				"doi": "10.1016/0375-9601(75)90174-7",
+				"or":  "R. Julliere, Phys. Lett. A, 54, No. 53: 225 (1975); P. LeClair, J. S. Moodera, and R. Meservay, J. Appl. Phys., 76, No. 10: 6546 (1994)",
+				"tr":  "R. Julliere, Phys. Lett. A, 54, No. 53: 225 (1975);"
+			},
+			{
+				"doi": "10.1103/PhysRevA.38.5906",
+				"or":  "A. O. Barut and I. H. Duru, Phys. Rev. A, 38, No. 11: 5906 (1988)",
+				"tr":  "A. O. Barut and I. H. Duru, Phys. Rev. A, 38, No. 11: 5906 (1988)"
+			},
+			{
+				"doi": "10.1103/PhysRevLett.49.599",
+				"or":  "L. S. Schulman, Phys. Rev. Lett., 49, No. 9: 599 (1982)",
+				"tr":  "L. S. Schulman, Phys. Rev. Lett., 49, No. 9: 599 (1982)"
+			},
+			{
+				"doi": "10.1103/PhysRevA.47.2562",
+				"or":  "T. O. de Carvalho, Phys. Rev. A, 47, No. 4: 2562 (1993)",
+				"tr":  "T. O. de Carvalho, Phys. Rev. A, 47, No. 4: 2562 (1993)"
+			},
+			{
+				"doi": "10.1088/1751-8113/41/28/285301",
+				"or":  "J. M. Yearsley, J. Phys. A: Math. Theor., 41, No. 28: 285301 (2008)",
+				"tr":  "J. M. Yearsley, J. Phys. A: Math. Theor., 41, No. 28: 285301 (2008)"
+			},
+			{
+				"doi": "10.1088/1751-8113/43/5/055304",
+				"or":  "V. F. Los and A. V. Los, J. Phys. A: Math. Theor., 43, No. 5: 055304 (2010)",
+				"tr":  "V. F. Los and A. V. Los, J. Phys. A: Math. Theor., 43, No. 5: 055304 (2010)"
+			},
+			{
+				"doi": "10.1103/PhysRevB.68.014433",
+				"or":  "D. A. Stewart, W. H. Butler, X.-G. Zhang, and V. F. Los, Phys. Rev. B, 68, No. 1: 014433 (2003)",
+				"tr":  "D. A. Stewart, W. H. Butler, X.-G. Zhang, and V. F. Los, Phys. Rev. B, 68, No. 1: 014433 (2003)"
+			},
+			{
+				"doi": "10.1103/PhysRevB.72.115441",
+				"or":  "V. F. Los, Phys. Rev. B, 72, No. 11: 115441 (2005)",
+				"tr":  "V. F. Los, Phys. Rev. B, 72, No. 11: 115441 (2005)"
+			},
+			{
+				"doi": "10.1103/PhysRevB.77.024410",
+				"or":  "V. F. Los and A. V. Los, Phys. Rev. B, 77, No. 2: 024410 (2008)",
+				"tr":  "V. F. Los and A. V. Los, Phys. Rev. B, 77, No. 2: 024410 (2008)"
+			},
+			{
+				"doi": "10.1088/1751-8113/41/15/155402",
+				"or":  "K. A. Milton and J. Wagner, J. Phys. A: Math. Theor., 41, No. 15: 155402 (2008)",
+				"tr":  "K. A. Milton and J. Wagner, J. Phys. A: Math. Theor., 41, No. 15: 155402 (2008)"
+			},
+			{
+				"doi": "10.1088/1751-8113/44/21/215301",
+				"or":  "V. F. Los and A. V. Los, J. Phys. A: Math., Theor., 44, No. 21: 215301 (2011)",
+				"tr":  "V. F. Los and A. V. Los, J. Phys. A: Math., Theor., 44, No. 21: 215301 (2011)"
+			},
+			{
+				"doi": "10.1088/1751-8113/45/9/095302",
+				"or":  "V. F. Los and M. V. Los, J. Phys. A: Math. Theor., 45, No. 9: 095302 (2012)",
+				"tr":  "V. F. Los and M. V. Los, J. Phys. A: Math. Theor., 45, No. 9: 095302 (2012)"
+			},
+			{
+				"doi": "10.1007/s11232-013-0128-8",
+				"or":  "V. F. Los and N. V. Los, Theor. Math. Phys., 177, No. 3: 1706 (2013)",
+				"tr":  "V. F. Los and N. V. Los, Theor. Math. Phys., 177, No. 3: 1706 (2013)"
+			},
+			{
+				"doi": "",
+				"or":  "R. P. Feynman and A. R. Hibbs, Quantum Mechanics and Path Integrals (New York: MacGraw-Hill: 1965)",
+				"tr":  "R. P. Feynman and A. R. Hibbs, Quantum Mechanics and Path Integrals (New York: MacGraw-Hill: 1965)"
+			},
+			{
+				"doi": "10.1007/978-3-662-11900-6",
+				"or":  "E. N. Economou, Green’s Functions in Quantum Physics (Berlin–Heidelberg–New York: Springer: 1979)",
+				"tr":  "E. N. Economou, Green's Functions in Quantum Physics (Berlin–Heidelberg–New York: Springer: 1979)"
+			},
+			{
+				"doi": "10.1103/PhysRevA.46.6075",
+				"or":  "J. G. Muga, S. Brouard, and R. F. Snider, Phys. Rev. A, 46, No. 9: 6075 (1992)",
+				"tr":  "J. G. Muga, S. Brouard, and R. F. Snider, Phys. Rev. A, 46, No. 9: 6075 (1992)"
+			},
+			{
+				"doi": "10.1088/1751-8113/43/18/185301",
+				"or":  "S. Cordero and G. Garcia-Calderón, J. Phys. A: Math. Theor., 43, No. 18: 185301 (2010)",
+				"tr":  "S. Cordero and G. Garcia-Calderón, J. Phys. A: Math. Theor., 43, No. 18: 185301 (2010)"
+			},
+			{
+				"doi": "10.1103/PhysRevB.27.6178",
+				"or":  "M. Buttiker, Phys. Rev. B, 27, No. 10: 6178 (1983)",
+				"tr":  "M. Buttiker, Phys. Rev. B, 27, No. 10: 6178 (1983)"
+			}
+		]
+	}
+}

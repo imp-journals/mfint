@@ -1,0 +1,149 @@
+{
+	"_id":    "MFiNT.36.01.0001",
+	"year":   2014,
+	"volume": 36,
+	"issue":  1,
+	"pages":  [1,15],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["15.04.2013"],
+	"PACS":   "61.72.Cc, 61.72.Hh, 61.72.J-, 62.50.Ef, 81.40.-z",
+	"title":   {
+		"ua": "Кінетика розпаду та термічна стабілізація литого стопу системи Mg—Al—Ca—Mn—Ti",
+		"en": "Kinetics of Decomposition and Thermal Stabilization of Mg—Al—Ca—Mn—Ti Cast Alloy",
+		"ru": "Кинетика распада и термическая стабилизация литого сплава системы Mg—Al—Ca—Mn—Ti"
+	},
+	"abstract": {
+		"ua": "Для підвищення термічної стабільности нового експериментального литого стопу Mg—10,5Al—0,4Ca—0,3Mn—0,2Ti досліджено кінетику розпаду його твердого розчину (у вихідному литому і пересиченому станах) з активаційним аналізом загартованих станів в інтервалі температур 293— 673К. У цьому випадку кінетика розпаду багатокомпонентного стопу підпорядковується закону Коттрелла—Білбі, а процес термічної стабілізації контролюється активацією дислокаційних механізмів Коттрелла—Білбі й Аврамі—Харпера, які пов’язують далекосяжну дифузію більш тугоплавких леґувальних елементів до незакріплених дислокацій з близькосяжним насиченням Коттреллових атмосфер і утворенням нанорозмірних фаз на дислокаціях. Додаткове електрогідроімпульсне оброблення (ЕГІО) рідкого стопу змінює кінетику розпаду, пригнічує близьке розшарування твердого розчину на основі $\\alpha$-Mg, а також стимулює утворення в ньому кластеризованих областей, термічно стабільних до 693 К. За даними електроопору і Рентґенової дифрактометрії встановлено, що після ЕГІО термічна стабілізація первинного твердого розчину на основі $\\alpha$-Mg досягається внаслідок кластеризації його структури за вакансійним механізмом з утворенням парних дефектів – первинних кластерів Al—Ti. Внаслідок комплексного оброблення термостійкість стопу збільшується до 523 К. При цьому збільшення об’ємної частки $\\beta$-Mg$_{17}$(Al, Х)$_{12}$ посилює корисний ефект його дисперсійного твердіння.",
+		"en": "To enhance the thermal stability of new experimental cast Mg—10.5Al—0.4Ca—0.3Mn—0.2Ti alloy, the kinetics of decomposition of its solid solution (in the as cast and supersaturated states) is investigated with an activation analysis of quenched states in the temperature range of 673—293 K. The decomposition kinetics of the multicomponent alloy obeys the Cottrell—Bilby law, and the thermal stabilization process is controlled by the activation of Cottrell—Bilby and Avrami—Harper dislocation mechanisms, which connect long-range diffusion of the refractory alloying elements to unpinned dislocations with short-range saturation of the Cottrell atmospheres and formation of nanosized phases at dislocations. Additional electrohydropulse processing (EHPP) of the liquid alloy changes the kinetics of decomposition, inhibits short-range separation of the $\\alpha$-Mg solid solution, and it stimulates the formation of clustered regions, which are thermally stable up to 693 K. According to the resistivity and X-ray diffractometry, it is revealed that, after EHPP, thermal stabilization of the primary $\\alpha$-Mg solid solution is achieved through clustering of its structure to form pair defects, i.e., primary clusters of Al—Ti. Because of the complex heat treatment, the thermal stability of the alloy is increased to 523 K. The increase in the volume of $\\beta$-Mg$_{17}$(Al, Х)$_{12}$ fraction enhances the beneficial effect of its dispersion hardening.",
+		"ru": "Для повышения термической стабильности нового экспериментального литого сплава Mg—10,5Al—0,4Ca—0,3Mn—0,2Ti исследована кинетика распада его твёрдого раствора (в исходном литом и пересыщенном состояниях) с активационным анализом закалённых состояний в интервале температур 293—673 К. В этом случае кинетика распада многокомпонентного сплава подчиняется закону Коттрелла—Билби, а процесс термической стабилизации контролируется активацией дислокационных механизмов Коттрелла—Билби и Аврами—Харпера, которые связывают дальнодействующую диффузию более тугоплавких легирующих элементов к незакреплённым дислокациям с близкодействующим насыщением атмосфер Коттрелла и образованием наноразмерных фаз на дислокациях. Дополнительная электрогидроимпульсная обработка (ЭГИО) жидкого сплава изменяет кинетику распада, подавляет ближнее расслоение твёрдого раствора на основе $\\alpha$-Mg, а также стимулирует образование в нём кластеризованных областей, термически стабильных до 693 К. По данным электросопротивления и рентгеновской дифрактометрии установлено, что после ЭГИО термическая стабилизация первичного твёрдого раствора на основе $\\alpha$-Mg достигается в результате кластеризации его структуры по вакансионному механизму с образованием парных дефектов – первичных кластеров Al—Ti. В результате комплексной обработки термостойкость сплава увеличивается до 523 К. При этом увеличение объёмной доли $\\beta$-Mg$_{17}$(Al, Х)$_{12}$ усиливает полезный эффект его дисперсионного твердения."
+	},
+	"keywords": {
+		"ua": "магнієвий стоп, електрогідроімпульсне оброблення, термічна стабілізація",
+		"en": "magnesium alloy, electrohydropulse processing, thermal stabilization",
+		"ru": "магниевый сплав, электрогидроимпульсная обработка, термическая стабилизация"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. М. Максимчук", "en": "I. M. Maksymchuk", "ru": "И. Н. Максимчук"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "В. Г. Ткаченко", "en": "V. G. Tkachenko", "ru": "В. Г. Ткаченко"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "О. С. Вовчок", "en": "O. S. Vovchok", "ru": "А. С. Вовчок"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "Н. П. Медалович", "en": "N. P. Medalovych", "ru": "Н. П. Медалович"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "О. С. Макаренко", "en": "O. S. Makarenko", "ru": "Е. С. Макаренко"},
+			"OID": [2]
+		}
+	],
+	"references": {
+		"count": 19,
+		"list":  [
+			{
+				"doi": "10.1016/S0921-5093(00)01351-4",
+				"or":  "﻿B. L. Mordike and T. Ebert, J. Mat. Sci. Eng., 302A: 37 (2001).",
+				"tr":  "B. L. Mordike and T. Ebert, J. Mat. Sci. Eng., 302A: 37 (2001)."
+			},
+			{
+				"doi": "10.1002/3527602046",
+				"or":  "K. U. Kainer and F. Von Buch, Magnesium Alloys and Technologies (Weinheim: WILEY-VCH Verlag GmbH: 2003).",
+				"tr":  "K. U. Kainer and F. Von Buch, Magnesium Alloys and Technologies (Weinheim: WILEY-VCH Verlag GmbH: 2003)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2005.03.001",
+				"or":  "A. Suzuki, N. D. Saddock, J. W. Jones, and T. M. Pollock, J. Acta Mater., 53: 2823 (2005).",
+				"tr":  "A. Suzuki, N. D. Saddock, J. W. Jones, and T. M. Pollock, J. Acta Mater., 53: 2823 (2005)."
+			},
+			{
+				"doi": "10.2320/matertrans.MC200756",
+				"or":  "S. Liang, Y. Ma, R. Chen, and E. Han, Mater. Trans., 49, No. 5: 986 (2008).",
+				"tr":  "S. Liang, Y. Ma, R. Chen, and E. Han, Mater. Trans., 49, No. 5: 986 (2008)."
+			},
+			{
+				"doi": "10.1016/j.msea.2008.05.019",
+				"or":  "I. A. Yakubtsov, B. J. Diaka, C. A. Sager et al., J. Mat. Sci. Eng. A, 496: 247 (2008).",
+				"tr":  "I. A. Yakubtsov, B. J. Diaka, C. A. Sager et al., J. Mat. Sci. Eng. A, 496: 247 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "L. A. Dobrzański, T. Tański, L. Čížek, and J. Madejski, Archives Mat. Sci. Eng., 36: 48 (2009).",
+				"tr":  "L. A. Dobrzański, T. Tański, L. Čížek, and J. Madejski, Archives Mat. Sci. Eng., 36: 48 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Kiełbus, J. Adamiec, J. Cwajna, and J. Paśko, J. Arch. Mat. Sci. Manuf. Eng., 20: 131 (2007).",
+				"tr":  "A. Kiełbus, J. Adamiec, J. Cwajna, and J. Paśko, J. Arch. Mat. Sci. Manuf. Eng., 20: 131 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Popescu, P. Moldovan, D. Bojin, and W. H. Sillekens, U.P.B. Sci. Bull., Series B, 71, No. 2: 85 (2009).",
+				"tr":  "G. Popescu, P. Moldovan, D. Bojin, and W. H. Sillekens, U.P.B. Sci. Bull., Series B, 71, No. 2: 85 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "L. A. Dobrzański, T. Tański, L. Čižek, and J. Madejski, J. Arch. Mat. Sci. Manuf. Eng., 32: 203 (2009).",
+				"tr":  "L. A. Dobrzański, T. Tański, L. Čižek, and J. Madejski, J. Arch. Mat. Sci. Manuf. Eng., 32: 203 (2009)."
+			},
+			{
+				"doi": "10.1016/j.corsci.2009.11.030",
+				"or":  "W. Zhou, T. Shen, and N. N. Aung, Corros. Sci., 52, No. 3: 1035 (2010).",
+				"tr":  "W. Zhou, T. Shen, and N. N. Aung, Corros. Sci., 52, No. 3: 1035 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Rzychoń, J. Michalska, and A. Kiełbus, J. Arch. Mat. Sci. Manuf. Eng., 20: 191 (2007).",
+				"tr":  "T. Rzychoń, J. Michalska, and A. Kiełbus, J. Arch. Mat. Sci. Manuf. Eng., 20: 191 (2007)."
+			},
+			{
+				"doi": "10.1016/S1003-6326(11)60776-0",
+				"or":  "C. Xian-Hua, H. Xiao-Wang, P. Fu-Sheng et al., Trans. Nonferrous Met. Soc. China, 21: 754 (2011).",
+				"tr":  "C. Xian-Hua, H. Xiao-Wang, P. Fu-Sheng et al., Trans. Nonferrous Met. Soc. China, 21: 754 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Цуркин, В. М. Грабовый, А. В. Синчук, Электронная обработка материалов, № 5: 55 (2006).",
+				"tr":  "V. N. Tsurkin, V. M. Grabovyy, and A. V. Sinchuk, Ehlektronnaya Obrabotka Materialov, No. 5: 55 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Ткаченко, И. Н. Максимчук, О. М. Малка и др. Металлофиз. новейшие технол., 31, № 8: 1073 (2009).",
+				"tr":  "V. G. Tkachenko, I. N. Maksimchuk, O. M. Malka et al., Metallofiz. Noveishie Tekhnol., 31, No. 8: 1073 (2009) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.11.02.249",
+				"or":  "В. Г. Ткаченко, К. Ч. Ким, Б. Г. Мун и др., Успехи физики металлов, 11, № 2: 249 (2010).",
+				"tr":  "V. G. Tkachenko, K. Ch. Kim, B. G. Mun et al., Uspehi Fiziki Metallov, 11, No. 2: 249 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "І. М. Максимчук, А. О. Хрипливий, В. Г. Ткаченко, В. В. Фрізель, Металознавство та обробка металів, № 4: 10 (2012).",
+				"tr":  "I. M. Maksymchuk, A. O. Khryplyvyy, V. H. Tkachenko, and V. V. Frizel', Metaloznavstvo ta Obrobka Metaliv, No. 4: 10 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Н. Колмогоров, Изв. Академии наук СССР, 1, № 3: 355 (1937).",
+				"tr":  "A. N. Kolmogorov, Izv. Akademii Nauk SSSR, 1, No. 3: 355 (1937)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Кристиан, Теория превращений в металлах и сплавах. Часть 1. Термодинамика и общая кинетическая теория (Москва: Мир: 1978).",
+				"tr":  "J. Christian, Teoriya Prevrashcheniy v Metallakh i Splavakh. Chast' 1. Termodinamika i Obshchaya Kineticheskaya Teoriya (Moscow: Mir: 1978) (in Russian) [translation of J. W. Christian, The Theory of Transformations in Metals and Alloys, Part I (Oxford, U.K.: Pergamon Press: 1975)]."
+			},
+			{
+				"doi": "",
+				"or":  "К. В. Чуистов, Старение металлических сплавов (Киев: Академпериодика: 2003).",
+				"tr":  "K. V. Chuistov, Starenie Metallicheskikh Splavov (Kiev: Akademperiodika: 2003) (in Russian)."
+			}
+		]
+	}
+}

@@ -1,0 +1,244 @@
+{
+	"_id":    "MFiNT.36.07.0917",
+	"year":   2014,
+	"volume": 36,
+	"issue":  7,
+	"pages":  [917,933],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["08.04.2014"],
+	"PACS":   "43.35.+d, 68.37.Lp, 81.07.-b, 81.65.Kn, 81.65.Ps, 81.65.Rv",
+	"title":   {
+		"ua": "Структурна залежність корозійних властивостей стопу Zr—1,0% Nb у соляному розчині",
+		"en": "Structural Dependence of Corrosion Properties of Zr—1.0% Nb Alloy in Saline Solution",
+		"ru": "Структурная зависимость коррозионных свойств сплава Zr—1,0% Nb в соляном растворе"
+	},
+	"abstract": {
+		"ua": "Вивчено корозійну поведінку стопу Zr—1,0% Nb після ультразвукового ударного оброблення (УЗУО). Рентґенівський та електронно-мікроскопічний аналізи показали, що відбувається істотне подрібнення зеренної структури (до $\\cong$ 100—150 нм), посилення базисної текстури і формування залишкових напружень стиснення (до 550 МПа) в поверхневому шарі зі зростанням ступеня деформації при УЗУО. Зазначені структурні чинники ведуть до зростання мікротвердости поверхневого шару до 2,9 ГПа. За допомогою рентґеноспектрального аналізу з’ясовано, що ступінь насичення поверхневого шару киснем при УЗУО і міцність оксидних плівок, які формуються в розчині NaCl, залежать від середовища, що використовується при УЗУО (повітря чи арґон). Насичення киснем поверхневого шару в процесі УЗУО на повітрі сприяє утворенню товстих оксидних плівок ZrO$_{2}$ на поверхні зразка. Корозійні випробування в 3,5%-водному розчині NaCl з використанням вимірювань потенціялів відкритого ланцюга і динамічно змінюваних потенціялів показали визначальну роль оксидних пасиваційних плівок у підвищенні корозійної стійкости стопу Zr—1,0% Nb.",
+		"en": "The corrosion behaviour of Zr—1% Nb is studied after ultrasonic impact treatment (UIT). As shown using X-ray diffraction analysis and transmission electron microscopy, the significant refinement of a grain structure (up to $\\cong$ 100—150 nm) and the reinforcement in the basal texture occur in the surface layer with increasing deformation during the UIT process. Compressive residual stresses (up to 550 MPa) are also registered in the surface layer at UIT. These structural factors lead to an increase in the microhardness of the surface layer up to 2.9 GPa. As shown using energy dispersive X-ray analysis, the degree of oxygen saturation into the surface layer at UIT and strength of oxide films formed in the NaCl solution depend on the environment used at the UIT processing (air or argon). Higher oxygen saturation into the surface layer at the air UIT process promotes formation of thicker ZrO$_{2}$ oxide films on the specimen surface. Corrosion tests in 3.5% NaCl water solution with using open circuit potential and dynamically changed potential schemes show a determining role of the oxide passivation film in the enhanced corrosion resistance of Zr—1% Nb alloy.",
+		"ru": "Изучено коррозионное поведение сплава Zr—1,0% Nb после ультразвуковой ударной обработки (УЗУО). С помощью рентгеновского и электронно-микроскопического анализов показано, что с ростом степени деформации при УЗУО в поверхностном слое происходит существенное измельчение зёренной структуры (до $\\cong$ 100—150нм), усиление базисной текстуры и формирование сжимающих остаточных напряжений (до 550 МПа). Указанные структурные факторы ведут к возрастанию микротвёрдости поверхностного слоя до 2,9 ГПа. С помощью рентгеноспектрального анализа установлено, что степень насыщения поверхностного слоя кислородом при УЗУО и прочность оксидных плёнок, формирующихся в растворе NaCl, зависят от среды, используемой при УЗУО (воздух или аргон). Насыщение кислородом поверхностного слоя в процессе УЗУО на воздухе способствует образованию толстых оксидных плёнок ZrO$_{2}$ на поверхности образца. Коррозионные испытания в 3,5%-водном растворе NaCl с использованием измерений потенциалов открытой цепи и динамически изменяющихся потенциалов показали определяющую роль оксидных пассивационных плёнок в повышении коррозионной стойкости сплава Zr—1,0% Nb."
+	},
+	"keywords": {
+		"ua": "ультрадисперсна зеренна структура, текстура, корозійна стійкість, цирконій-ніобієві стопи, ультразвукове ударне оброблення",
+		"en": "ultradispersed grain structure, texture, corrosion resistance, zirconium-niobium alloys, ultrasonic impact treatment",
+		"ru": "ультрадисперсная зёренная структура, текстура, коррозионная стойкость, цирконий-ниобиевые сплавы, ультразвуковая ударная обработка"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Б. М. Мордюк", "en": "B. M. Mordyuk", "ru": "Б. Н. Мордюк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. П. Карасевська", "en": "O. P. Karasevska", "ru": "О. П. Карасевская"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Н. І. Хріпта", "en": "N. I. Khripta", "ru": "Н. И. Хрипта"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Г. І. Прокопенко", "en": "G. I. Prokopenko", "ru": "Г. И. Прокопенко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. О. Васильєв", "en": "M. O. Vasylyev", "ru": "М. А. Васильев"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 38,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Д. Дуглас, Металловедение циркония (Москва: Атомиздат: 1975).",
+				"tr":  "D. L. Douglas, Metallovedenie Tsirkoniya (The Metallurgy of Zirconium) (Moscow: Atomizdat: 1975) (Russian translation)."
+			},
+			{
+				"doi": "10.1016/j.progsurf.2005.07.001",
+				"or":  "N. Stojilovic, E. T. Bender, and R. D. Ramsier, Prog. Surf. Sci., 78: 101 (2005).",
+				"tr":  "N. Stojilovic, E. T. Bender, and R. D. Ramsier, Prog. Surf. Sci., 78: 101 (2005)."
+			},
+			{
+				"doi": "10.1016/j.biomaterials.2007.06.015",
+				"or":  "L. Saldaña, A. Méndez-Vilas, L. Jiang et al., Biomaterials, 28: 4343 (2007).",
+				"tr":  "L. Salda-a, A. Méndez-Vilas, L. Jiang et al., Biomaterials, 28: 4343 (2007)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(97)00808-3",
+				"or":  "D. Kuroda, M. Niinomi, M. Morinaga, Y. Kato, and T. Yashiro, Mater. Sci. Eng. A, 243: 244 (1998).",
+				"tr":  "D. Kuroda, M. Niinomi, M. Morinaga, Y. Kato, and T. Yashiro, Mater. Sci. Eng. A, 243: 244 (1998)."
+			},
+			{
+				"doi": "10.1016/j.jnucmat.2003.08.031",
+				"or":  "Y. H. Jeong, H. G. Kim, D. J. Kim et al., J. Nucl. Mater., 323: 72 (2003).",
+				"tr":  "Y. H. Jeong, H. G. Kim, D. J. Kim et al., J. Nucl. Mater., 323: 72 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Фирстов, Т. Г. Рогуль, В. Л. Свечников и др., Металлофиз. новейшие технол., 25, № 9: 1153 (2003).",
+				"tr":  "S. A. Firstov, T. G. Rogul', V. L. Svechnikov et al., Metallofiz. Noveishie Tekhnol., 25, No. 9: 1153 (2003) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.msea.2006.07.119",
+				"or":  "B. N. Mordyuk and G. I. Prokopenko, Mater. Sci. Eng. A, 437: 396 (2006).",
+				"tr":  "B. N. Mordyuk and G. I. Prokopenko, Mater. Sci. Eng. A, 437: 396 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Васильев, В. А. Тиньков, С. М. Волошко и др., Металлофиз. новейшие технол., 34, № 5: 687 (2012).",
+				"tr":  "M. A. Vasiliev, V. A. Tin'kov, S. M. Voloshko et al., Metallofiz. Noveishie Tekhnol., 34, No. 5: 687 (2012) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S1359-6462(98)00077-3",
+				"or":  "G. Palumbo, K. T. Aust, E. M. Lehockey et al., Scr. Mater., 38: 1685 (1998).",
+				"tr":  "G. Palumbo, K. T. Aust, E. M. Lehockey et al., Scr. Mater., 38: 1685 (1998)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2005.04.046",
+				"or":  "T. Wang, J. Yu, and B. Dong, Surf. Coat. Technol., 200: 4777 (2006).",
+				"tr":  "T. Wang, J. Yu, and B. Dong, Surf. Coat. Technol., 200: 4777 (2006)."
+			},
+			{
+				"doi": "10.1016/j.msea.2006.12.049",
+				"or":  "B. N. Mordyuk, G. I. Prokopenko, М. А. Vasiliev, and N. A. Iefimov, Mater. Sci. Eng. A, 458: 253 (2007).",
+				"tr":  "B. N. Mordyuk, G. I. Prokopenko, M. A. Vasiliev, and N. A. Iefimov, Mater. Sci. Eng. A, 458: 253 (2007)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2004.04.011",
+				"or":  "A. Balyanov, J. Kutnyakova, N. A. Amirkhanova et al., Scr. Mater., 51: 225 (2004).",
+				"tr":  "A. Balyanov, J. Kutnyakova, N. A. Amirkhanova et al., Scr. Mater., 51: 225 (2004)."
+			},
+			{
+				"doi": "10.1016/j.msea.2006.10.029",
+				"or":  "X. Y. Zhang, M. H. Shi, C. Li et al., Mater. Sci. Eng. A, 448: 259 (2007).",
+				"tr":  "X. Y. Zhang, M. H. Shi, C. Li et al., Mater. Sci. Eng. A, 448: 259 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. И. Хрипта, Б. Н. Мордюк, О. П. Карасевская и др., Металлофиз. новейшие технол., 30, спец. вып.: 369 (2008).",
+				"tr":  "N. I. Khripta, B. N. Mordyuk, O. P. Karasevskaya et al., Metallofiz. Noveishie Tekhnol., 30, Spec. Iss.: 369 (2008) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2012.08.063",
+				"or":  "B. N. Mordyuk, O. P. Karasevskaya, G. I. Prokopenko, and N. I. Khripta, Surf. Coat. Technol., 210: 54 (2012).",
+				"tr":  "B. N. Mordyuk, O. P. Karasevskaya, G. I. Prokopenko, and N. I. Khripta, Surf. Coat. Technol., 210: 54 (2012)."
+			},
+			{
+				"doi": "10.1016/j.msea.2012.08.125",
+				"or":  "B. N. Mordyuk, O. P. Karasevskaya, and G. I. Prokopenko, Mater. Sci. Eng. A, 559: 453 (2013).",
+				"tr":  "B. N. Mordyuk, O. P. Karasevskaya, and G. I. Prokopenko, Mater. Sci. Eng. A, 559: 453 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. И. Прокопенко, Д. С. Герцрикен, Массоперенос и подвижность дефектов в металлах при ультразвуковой ударной обработке (Киев: 1989) (Препр./Институт металлофизики АН УССР. № 1, 1989).",
+				"tr":  "G. I. Prokopenko and D. S. Gertsriken, Massoperenos i Podvizhnost' Defektov v Metallakh pri Ul'trazvukovoy Udarnoy Obrabotke (Masstransfer and Mobility of Defects in Metals at Ultrasonic Impact Treatment) (Kiev: 1989) (Prepr./A.S. of Ukraine. Inst. for Metal Physics. No. 1, 1989) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.jnucmat.2008.10.006",
+				"or":  "V. D. Hiwarkar, S. K. Sahoo, I. Samajdar et al., J. Nucl. Mater., 384: 30 (2009).",
+				"tr":  "V. D. Hiwarkar, S. K. Sahoo, I. Samajdar et al., J. Nucl. Mater., 384: 30 (2009)."
+			},
+			{
+				"doi": "10.1016/j.jsv.2007.03.054",
+				"or":  "B. N. Morduyk and G. I. Prokopenko, J. Sound Vibr., 308: 855 (2007).",
+				"tr":  "B. N. Morduyk and G. I. Prokopenko, J. Sound Vibr., 308: 855 (2007)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2008.04.080",
+				"or":  "B. N. Mordyuk, Yu. V. Milman, M. O. Iefimov et al., Surf. Coat. Technol., 202: 4875 (2008).",
+				"tr":  "B. N. Mordyuk, Yu. V. Milman, M. O. Iefimov et al., Surf. Coat. Technol., 202: 4875 (2008)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(01)00982-0",
+				"or":  "J. O. Peters and R. O. Ritchie, Mater. Sci. Eng. A, 319–321: 597 (2001).",
+				"tr":  "J. O. Peters and R. O. Ritchie, Mater. Sci. Eng. A, 319–321: 597 (2001)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2006.03.053",
+				"or":  "B. K. Kad, J.-M. Gebert, M. T. Perez-Prado et al., Acta Mater., 54: 4111 (2006).",
+				"tr":  "B. K. Kad, J.-M. Gebert, M. T. Perez-Prado et al., Acta Mater., 54: 4111 (2006)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2008.09.031",
+				"or":  "F. Gerspach, N. Bozzolo, and F. Wagner, Scr. Mater., 60: 203 (2009).",
+				"tr":  "F. Gerspach, N. Bozzolo, and F. Wagner, Scr. Mater., 60: 203 (2009)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2004.05.023",
+				"or":  "K. Y. Zhu, A. Vassel, F. Brisset, K. Lu, and J. Lu, Acta Mater., 52: 4101 (2004).",
+				"tr":  "K. Y. Zhu, A. Vassel, F. Brisset, K. Lu, and J. Lu, Acta Mater., 52: 4101 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. И. Хрипта, Г. И. Прокопенко, Б. Н. Мордюк и др., Металлофиз. новейшие технол., 30: № 8: 1065 (2008).",
+				"tr":  "N. I. Khripta, G. I. Prokopenko, B. N. Mordyuk et al., Metallofiz. Noveishie Tekhnol., 30, No. 8: 1065 (2008) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(01)00380-9",
+				"or":  "D. Gloaguen, M. Francois, R. Guillen, and J. Royer, Acta Mater., 50: 871 (2002).",
+				"tr":  "D. Gloaguen, M. Francois, R. Guillen, and J. Royer, Acta Mater., 50: 871 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "О. Шут, Закономірності зміцнення полікристалів при переході від мікро до наноструктурного стану (Дис. ... канд. фіз.-мат. наук) (Київ: Інститут проблем матеріалознавства ім. І. М. Францевича НАН України: 2013).",
+				"tr":  "O. Shut, Zakonomirnosti Zmitsnennya Polikrystaliv pry Perekhodi vid Mikro do Nanostrukturnoho Stanu (Regularities of Hardening of Polycrystals at Transition from Micro- to Nanostructural State) (Diss. ... Cand. Phys.-Math. Sci.) (Kyyiv: I. M. Frantsevich Institute for Problems of Materials Science, N.A.S. of Ukraine: 2013) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1007/s11661-008-9597-z",
+				"or":  "R. Singh, S. G. Chowdhury, and I. Chattoraj, Metall. Mater. Trans. A, 39, No. 10: 2504 (2008).",
+				"tr":  "R. Singh, S. G. Chowdhury, and I. Chattoraj, Metall. Mater. Trans. A, 39, No. 10: 2504 (2008)."
+			},
+			{
+				"doi": "10.1016/j.corsci.2012.03.019",
+				"or":  "U. Trdan and J. Grum, Corrosion Sci., 59: 324 (2012).",
+				"tr":  "U. Trdan and J. Grum, Corrosion Sci., 59: 324 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "М. О. Васильєв, М. М. Нищенко, В. О. Тіньков, В. С. Філатова, Л. Ф. Яценко, Металлофиз. новейшие технол., 34, № 2: 255 (2012).",
+				"tr":  "M. O. Vasiliev, M. M. Nishchenko, V. O. Tin'kov, V. S. Filatova, and L. F. Yatsenko, Metallofiz. Noveishie Tekhnol., 34, No. 2: 255 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Binary Alloy Phase Diagram (Ed. T. Massalsky) (Metals Park, OH: American Society of Metals International: 1990).",
+				"tr":  "Binary Alloy Phase Diagram (Ed. T. Massalsky) (Metals Park, OH: American Society of Metals International: 1990)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Т. Пичугин, О. Г. Лукьяненко, В. М. Ажажа, Фізико-хімічна механіка матеріалів, № 5: 43 (2000).",
+				"tr":  "A. T. Pichuhin, O. H. Lukianenko, and V. M. Azhazha, Physicochemical Mechanics of Materials, No. 5: 43 (2000) (in Ukrainian."
+			},
+			{
+				"doi": "10.1080/01418619908210380",
+				"or":  "V. Y. Gertsman, Y. P. Lin, A. P. Zhilyaev, and J. A. Szpunar, Philos. Mag. A, 79: 1567 (1999).",
+				"tr":  "V. Y. Gertsman, Y. P. Lin, A. P. Zhilyaev, and J. A. Szpunar, Philos. Mag. A, 79: 1567 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Hunter, S. C. Jani, and V. Pawar, US Patent No. 7,896,926 (2011).",
+				"tr":  "G. Hunter, S. C. Jani, and V. Pawar, US Patent No. 7,896,926 (2011)."
+			},
+			{
+				"doi": "10.1016/j.corsci.2009.08.017",
+				"or":  "M. Hoseini, A. Shahryari, S. Omanovic, and J. A. Szpunar, Corrosion Sci., 51: 3064 (2009).",
+				"tr":  "M. Hoseini, A. Shahryari, S. Omanovic, and J. A. Szpunar, Corrosion Sci., 51: 3064 (2009)."
+			},
+			{
+				"doi": "10.1016/j.physb.2006.05.352",
+				"or":  "Y. Choi, E. J. Shin, and H. Inoue, Physica B, 385–386: 529 (2006).",
+				"tr":  "Y. Choi, E. J. Shin, and H. Inoue, Physica B, 385–386: 529 (2006)."
+			},
+			{
+				"doi": "10.1016/j.msea.2006.04.024",
+				"or":  "X. P. Jiang, X. Y. Wang, J. X. Li et al., Mater. Sci. Eng. A, 429: 30 (2006).",
+				"tr":  "X. P. Jiang, X. Y. Wang, J. X. Li et al., Mater. Sci. Eng. A, 429: 30 (2006)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2007.06.059",
+				"or":  "P. Jiang, Q. Wei, Y. S. Hong et al., Surf. Coat. Technol., 202: 583 (2007).",
+				"tr":  "P. Jiang, Q. Wei, Y. S. Hong et al., Surf. Coat. Technol., 202: 583 (2007)."
+			}
+		]
+	}
+}

@@ -1,0 +1,71 @@
+{
+	"_id":    "MFiNT.39.06.0815",
+	"year":   2017,
+	"volume": 39,
+	"issue":  6,
+	"pages":  [815,821],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["29.05.2017"],
+	"PACS":   "75.50.Bb, 75.50.Cc, 78.20.Ls, 78.66.Bz, 78.66.Qn, 81.07.Pr, 83.60.Np",
+	"title":   {
+		"ua": "Фарадеїв ефект у тонких плівках металів Fe, Co, Ni на підложжях з поліетилентерефталату",
+		"en": "Faraday Effect in Thin Films of Metals (Fe, Co, Ni) on Polyethyleneterephthalate Substrates",
+		"ru": "Эффект Фарадея в тонких плёнках металлов Fe, Co, Ni на подложках из полиэтилентерефталата"
+	},
+	"abstract": {
+		"ua": "Досліджено структури з тонких плівок феромагнетних металів на підложжях з поліетилентерефталату — Fe, Co, Ni/ПЕТ на предмет прояву в них магнетооптичного Фарадейового ефекту. Виявлено вплив підложжя та матеріялу плівок, яких було осаджено на полімері, на Фарадеїв ефект у цих структурах. Також було підтверджено наявність магнетної взаємодії між діямагнетним підложжям і магнетоактивними плівками на ньому.",
+		"en": "The structures composed of thin films of ferromagnetic metals on polyethyleneterephtalate substrates, namely, Fe, Co, Ni/PET, are studied for the manifestation of the magnetooptical Faraday effect within them. Influence of both substrate and material of thin films deposited on the polymer to Faraday effect in these structures is detected. In addition, magnetic interaction between the diamagnetic substrate and the magnetoactive films on it is confirmed.",
+		"ru": "Исследованы структуры из тонких плёнок ферромагнитных металлов на подложках из полиэтилентерефталата — Fe, Co, Ni/ПЭТ на предмет проявления в них магнитооптического эффекта Фарадея. Обнаружено влияние подложки и материала плёнок, которые были осаждены на полимере, на эффект Фарадея в этих структурах. Также было подтверждено магнитное взаимодействие между диамагнитной подложкой и магнитоактивными плёнками на ней."
+	},
+	"keywords": {
+		"ua": "осадження, тонка плівка, полімер, Фарадеїв ефект, намагнетованість",
+		"en": "deposition, thin film, polymer, Faraday effect, magnetization",
+		"ru": "осаждение, тонкая плёнка, полимер, эффект Фарадея, намагниченность"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "К. О. Шаповал", "en": "K. O. Shapoval", "ru": "К. О. Шаповал"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "А. М. Касумов", "en": "A. M. Kasumov", "ru": "А. М. Касумов"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "Г. В. Лашкарьов", "en": "G. V. Lashkarev", "ru": "Г. В. Лашкарёв"},
+			"OID": [2]
+		}
+	],
+	"references": {
+		"count": 5,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "U. W. Pohl, Epitaxy of Semiconductors: Introduction to Physical Principles (Berlin–London: Springer: 2013).",
+				"tr":  "U. W. Pohl, Epitaxy of Semiconductors: Introduction to Physical Principles (Berlin–London: Springer: 2013)."
+			},
+			{
+				"doi": "",
+				"or":  "http://www.phoenixtechnologies.net/why-rpet/",
+				"tr":  "http://www.phoenixtechnologies.net/why-rpet/"
+			},
+			{
+				"doi": "",
+				"or":  "А. К. Звездин, В. А. Котов, Магнитооптика тонких плёнок (Москва: Наука: 1988), с. 26.",
+				"tr":  "A. K. Zvezdyn and V. A. Kotov, Magnitooptika Tonkikh Plenok (Moscow: Nauka: 1988), p. 26 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "D. W. van Krevelen and K. te Nijenhuis, Properties of Polymers (Amsterdam: Elsevier Science: 2009).",
+				"tr":  "D. W. van Krevelen and K. te Nijenhuis, Properties of Polymers (Amsterdam: Elsevier Science: 2009)."
+			},
+			{
+				"doi": "",
+				"or":  "K. O. Shapoval, A. M. Kasumov, and G. V. Lashkarev, International Conference on the Physics and Technology of Thin Films and Nanosystems—ICPTTFN-XVI (15–20 травня 2017, Яремче) (Прикарпатський національний університет імені Василя Стефаника: 2017), с. 246.",
+				"tr":  "K. O. Shapoval, A. M. Kasumov, and G. V. Lashkarev, International Conference on the Physics and Technology of Thin Films and Nanosystems—ICPTTFN-XVI (May 15–20, 2017, Yaremche) (Vasyl Stefanyk Precarpathian National University: 2017), p. 246."
+			}
+		]
+	}
+}

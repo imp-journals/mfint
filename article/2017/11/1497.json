@@ -1,0 +1,157 @@
+{
+	"_id":    "MFiNT.39.11.1497",
+	"year":   2017,
+	"volume": 39,
+	"issue":  11,
+	"pages":  [1497,1510],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["10.03.2017","25.05.2017"],
+	"PACS":   "61.72.Ff, 61.72.S-, 62.20.Qp, 62.23.Pq, 68.37.Hk, 68.55.jm, 81.05.Ni, 81.40.Pq",
+	"title":   {
+		"ua": "Виготовлення композитів з металевою матрицею на основі алюмінійового стопу AA7075, зміцнених цинком, та аналіза поведінки їхнього зношування",
+		"en": "Fabrication of Aluminium AA7075 Reinforced by Zinc Metal Matrix Composites and Their Wear Behaviour Analysis",
+		"ru": "Изготовление композитов с металлической матрицей на основе алюминиевого сплава AA7075, упрочнённых цинком, и анализ поведения их изнашивания"
+	},
+	"abstract": {
+		"ua": "Дана робота стосується дослідження впливу цинку на литий алюміній 7075 при використанні методи лиття з перемішуванням. Об’ємну частку композитів підготовлено методою ущільнення. Перемішані литі композити виготовлено за різних рівнів об’ємної частки допанту. Мікроструктурну аналізу стопів і нанокомпозитів виконано за допомогою СЕМ. Зношування сухого ковзання для стопів і нанокомпозитних матеріялів визначали на штифт-диск-апараті за різних умов випробувань. Результати досліджень свідчать, що опір зношуванню зростає при збільшені мас.% зміцнювальних наночастинок цинку. Спостерігалася різна об’ємна частка виготовлених композитів, що приводило до зменшення коефіцієнту зношування з 40% до 60%. Розміри наночастинок, мікроструктура і швидкість зношування узгоджуються з даними високороздільчої дифракційної аналізи.",
+		"en": "In this study, we report effects of zinc on casted aluminium 7075 by using of stir casted method. The volume fraction of composites is prepared by density method. Stir casted composites are fabricated in different volume-fraction levels. Microstructure analysis of alloy and nanocomposites are performed by using SEM. Dry sliding wear is measured on pin-on-disc testing apparatus at various testing conditions for alloy and nanocomposite materials. As shown with the obtained results, the wear resistance increases with increasing the wt.% of reinforcing zinc nanoparticles. The different volume fractions of fabricated composites are shown, which leads to decreasing the wear rate from 40% to 60%. The nanoparticles’ sizes, microstructure, and wear rate are approximated from high-resolution diffraction analysis.",
+		"ru": "Данная работа посвящена исследованию влияния цинка на литой алюминий 7075 при использовании метода литья с перемешиванием. Объёмная доля композитов подготовлена методом уплотнения. Перемешанные литые композиты изготовлены при различных уровнях объёмной доли допанта. Микроструктурный анализ сплавов и нанокомпозитов выполнен с помощью СЭМ. Износ из-за сухого скольжения для сплавов и нанокомпозитных материалов определяли на штифт-диск-аппарате при различных условиях испытаний. Результаты исследований свидетельствуют, что сопротивление износу растёт при увеличении масс.% упрочняющих наночастиц цинка. Наблюдалась различная объёмная доля изготовленных композитов, что приводило к уменьшению коэффициента износа с 40% до 60%. Размеры наночастиц, микроструктура и скорость износа согласуются с данными высокоразрешающего дифракционного анализа."
+	},
+	"keywords": {
+		"ua": "алюмінійовий стоп АА7075-Т6, зміцнювальні наночастинки цинку, лиття з перемішуванням, швидкість зношування, СЕМ",
+		"en": "AA7075-T6 aluminium alloy, reinforcing zinc nanoparticles, stir casting, wear rate, SEM",
+		"ru": "алюминиевый сплав АА7075-Т6, упрочняющие наночастицы цинка, литьё с перемешиванием, скорость износа, СЭМ"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. Дінеш", "en": "M. Dinesh", "ru": "М. Динеш"},
+			"OID": [523]
+		},
+		{
+			"AID": {"ua": "Р. Равіндран", "en": "R. Ravindran", "ru": "Р. Равиндран"},
+			"OID": [524]
+		}
+	],
+	"references": {
+		"count": 23,
+		"list":  [
+			{
+				"doi": "10.3923/jas.2011.1668.1672",
+				"or":  "A. Mouangue Nanimina, A. M. Abdul-Rani, F. Ahmad, A. Zainuddin, and S. H. Jason Lo, J. Appl. Sci., 11, Iss. 9: 1668 (2011).",
+				"tr":  "A. Mouangue Nanimina, A. M. Abdul-Rani, F. Ahmad, A. Zainuddin, and S. H. Jason Lo, J. Appl. Sci., 11, Iss. 9: 1668 (2011)."
+			},
+			{
+				"doi": "10.1016/j.matpr.2016.11.021",
+				"or":  "S. Divagar, M. Vigneshwar, and S. T. Selvamani, Mater. Today: Proc., 3, Iss. 10, Part B: 3734 (2016).",
+				"tr":  "S. Divagar, M. Vigneshwar, and S. T. Selvamani, Mater. Today: Proc., 3, Iss. 10, Part B: 3734 (2016)."
+			},
+			{
+				"doi": "10.1016/j.proeng.2011.04.516",
+				"or":  "T. J. Harrison, B. R. Crawford , M. Janardhana, and G. Clark, Procedia Eng., 10: 3117 (2011).",
+				"tr":  "T. J. Harrison, B. R. Crawford, M. Janardhana, and G. Clark, Procedia Eng., 10: 3117 (2011)."
+			},
+			{
+				"doi": "10.1016/j.mspro.2015.11.116",
+				"or":  "M. Chegini, A. Fallahi, and M. H. Shaen, Proc. Mater. Sci., 11: 95 (2015).",
+				"tr":  "M. Chegini, A. Fallahi, and M. H. Shaen, Proc. Mater. Sci., 11: 95 (2015)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2013.04.065",
+				"or":  "Y. Bao, D. T. Gawne, J. Gao, T. Zhang, B. D. Cuencac, and A. Alberdi, Surf. Coat. Technol., 232: 150 (2013).",
+				"tr":  "Y. Bao, D. T. Gawne, J. Gao, T. Zhang, B. D. Cuencac, and A. Alberdi, Surf. Coat. Technol., 232: 150 (2013)."
+			},
+			{
+				"doi": "10.1080/01418619708214031",
+				"or":  "M. J. Starink and A.-M. Zahra, Philos. Mag. A, 76, Iss. 3: 701 (1997).",
+				"tr":  "M. J. Starink and A.-M. Zahra, Philos. Mag. A, 76, Iss. 3: 701 (1997)."
+			},
+			{
+				"doi": "10.1016/S0924-0136(96)02643-X",
+				"or":  "M. K. Surappa, J. Mater. Proc. Technol., 63, Iss. 1–3: 325 (1997).",
+				"tr":  "M. K. Surappa, J. Mater. Proc. Technol., 63, Iss. 1–3: 325 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Taya and R. J. Arsenault, Metal Matrix Composites: Thermomechanical Behavior (Oxford–New York: Pergamon Press: 1989).",
+				"tr":  "M. Taya and R. J. Arsenault, Metal Matrix Composites: Thermomechanical Behavior (Oxford–New York: Pergamon Press: 1989)."
+			},
+			{
+				"doi": "10.1361/105994999770346855",
+				"or":  "S. C. Sharma, B. M. Girish, R. Kamath, and B. M. Satish, J. Mater. Eng. Perform., 8, Iss. 3: 309 (1999).",
+				"tr":  "S. C. Sharma, B. M. Girish, R. Kamath, and B. M. Satish, J. Mater. Eng. Perform., 8, Iss. 3: 309 (1999)."
+			},
+			{
+				"doi": "10.1016/S0924-0136(99)00118-1",
+				"or":  "J. Hashim, L. Looney, and M. S. J. Hashmi, J. Mater. Proc. Technol., 92–93: 1 (1999).",
+				"tr":  "J. Hashim, L. Looney, and M. S. J. Hashmi, J. Mater. Proc. Technol., 92–93: 1 (1999)."
+			},
+			{
+				"doi": "10.4236/jmmce.2012.118063",
+				"or":  "V. C. Uvaraja and N. Natarajan, J. Minerals Mater. Characterization Eng., 11, No. 8: 757 (2012).",
+				"tr":  "V. C. Uvaraja and N. Natarajan, J. Minerals Mater. Characterization Eng., 11, No. 8: 757 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Umanath, S. T. Selvamani, and K. Palanikumar, Int. J. Eng. Sci. Technol., 3, No. 7: 5441 (2011).",
+				"tr":  "K. Umanath, S. T. Selvamani, and K. Palanikumar, Int. J. Eng. Sci. Technol., 3, No. 7: 5441 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "P. J. Ross, Taguchi Techniques for Quality Engineering (New York, USA: McGraw-Hill Professional: 1996), p. 23.",
+				"tr":  "P. J. Ross, Taguchi Techniques for Quality Engineering (New York, USA: McGraw-Hill Professional: 1996), p. 23."
+			},
+			{
+				"doi": "10.1007/BF01151519",
+				"or":  "Z. F. Zhang, L. C. Zhang, and Y.-W. Mai, J. Mater. Sci., 30, Iss. 23: 5999 (1995).",
+				"tr":  "Z. F. Zhang, L. C. Zhang, and Y.-W. Mai, J. Mater. Sci., 30, Iss. 23: 5999 (1995)."
+			},
+			{
+				"doi": "10.1007/BF00353019",
+				"or":  "Z. F. Zhang, L. C. Zhang, and Y.-W. Mai, J. Mater. Sci., 30, Iss. 8: 1967 (1995).",
+				"tr":  "Z. F. Zhang, L. C. Zhang, and Y.-W. Mai, J. Mater. Sci., 30, Iss. 8: 1967 (1995)."
+			},
+			{
+				"doi": "10.1016/j.matdes.2006.04.010",
+				"or":  "A. Türk, C. Kurnaz, and H. Şevik, Mater. Design, 28, Iss. 6: 1889 (2007).",
+				"tr":  "A. Türk, C. Kurnaz, and H. Şevik, Mater. Design, 28, Iss. 6: 1889 (2007)."
+			},
+			{
+				"doi": "10.1016/j.compscitech.2007.12.008",
+				"or":  "A. Pramanik, L. C. Zhang, and J. A. Arsecularatne, Composites Sci. Technol., 68, Iss. 6: 1304 (2008).",
+				"tr":  "A. Pramanik, L. C. Zhang, and J. A. Arsecularatne, Composites Sci. Technol., 68, Iss. 6: 1304 (2008)."
+			},
+			{
+				"doi": "10.1016/S1006-706X(16)30165-0",
+				"or":  "H. I. Kurt, M. Oduncuoglu, and R. Asmatulu, J. Iron Steel Res. Int., 23, Iss. 10: 1119 (2016).",
+				"tr":  "H. I. Kurt, M. Oduncuoglu, and R. Asmatulu, J. Iron Steel Res. Int., 23, Iss. 10: 1119 (2016)."
+			},
+			{
+				"doi": "10.1007/978-1-4614-9548-2",
+				"or":  "N. Chawla and K. K. Chawla, Metal Matrix Composites (New York: Springer: 2013).",
+				"tr":  "N. Chawla and K. K. Chawla, Metal Matrix Composites (New York: Springer: 2013)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(04)00876-7",
+				"or":  "F. Akhlaghi and S. A. Pelaseyyed, Mater. Sci. Eng. A, 385, Iss. 1–2: 258 (2004).",
+				"tr":  "F. Akhlaghi and S. A. Pelaseyyed, Mater. Sci. Eng. A, 385, Iss. 1–2: 258 (2004)."
+			},
+			{
+				"doi": "10.1016/j.wear.2008.05.013",
+				"or":  "F. Akhlaghi and A. Zare-Bidaki, Wear, 266, Iss. 1–2: 37 (2009).",
+				"tr":  "F. Akhlaghi and A. Zare-Bidaki, Wear, 266, Iss. 1–2: 37 (2009)."
+			},
+			{
+				"doi": "10.1016/B978-0-444-89079-5.50012-X",
+				"or":  "P. K. Rohatgi, Y. Liu, and S. C. Lim, Advances in Composites Tribology, Composite Materials Series (Ed. K. Friedrich) (Elsevier Science Ltd: 1993), vol. 8, p. 291.",
+				"tr":  "P. K. Rohatgi, Y. Liu, and S. C. Lim, Advances in Composites Tribology, Composite Materials Series (Ed. K. Friedrich) (Elsevier Science Ltd: 1993), vol. 8, p. 291."
+			},
+			{
+				"doi": "10.1016/S0266-3538(00)00067-1",
+				"or":  "J. P. Tu and Y. Z. Yang, Composite Sci. Technol., 60, Iss. 9: 1801 (2000).",
+				"tr":  "J. P. Tu and Y. Z. Yang, Composite Sci. Technol., 60, Iss. 9: 1801 (2000)."
+			}
+		]
+	}
+}

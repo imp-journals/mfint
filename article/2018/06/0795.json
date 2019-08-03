@@ -1,0 +1,69 @@
+{
+	"_id":    "MFiNT.40.06.0795",
+	"year":   2018,
+	"volume": 40,
+	"issue":  6,
+	"pages":  [795,815],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["06.11.2017"],
+	"PACS":   "06.06.Vz, 62.20.Qp, 68.35.Gy, 68.55.J-, 68.55.Ln, 81.15.Rs, 81.65.Lp",
+	"title":   {
+		"ua": "Аналіза структурного стану поверхневого шару після електроерозійного леґування. II. Особливості формування електроерозійних покриттів на спеціяльних сталях і стопах твердими зносостійкими та м’якими антифрикційними матеріялами",
+		"en": "The Analysis of a Structural State of Surface Layer after Electroerosive Alloying. II. Features of Formation of Electroerosive Coatings on Special Steels and Alloys by Hard Wear-Resistant and Soft Antifriction Materials",
+		"ru": "Анализ структурного состояния поверхностного слоя после электроэрозионного легирования. II. Особенности формирования электроэрозионных покрытий на специальных сталях и сплавах твёрдыми износостойкими и мягкими антифрикционными материалами"
+	},
+	"abstract": {
+		"ua": "У роботі представлено результати металографічних досліджень електроерозійних покриттів на спеціяльних сталях і стопах (сталі Р6М5, 12Х18Н10Т, 07Х16Н6, стоп ХН58МБЮД і бронза БрБ2) твердими зносостійкими (стопи ВК8, Т15К6, СТИМ-3В та W, Mo, Cr), м’якими антифрикційними (Cu, Ni, бронза БрБ2, Sn) матеріялами, а також електроерозійним леґуванням (ЕЕЛ) графітом. Показано, що для всіх досліджених матеріялів підкладинок можливе зміцнення їхніх поверхневих шарів; при цьому є найбільш доцільні режими їх одержання та матеріяли леґувальних електрод. З метою зміцнення поверхневого шару ніклевого стопу ХН58МБЮД рекомендується застосовувати електроду з твердого стопу ВК8, а для берилійової бронзи БрБ2 — хрому. Найбільш раціональнішим є режим, що відповідає потужності розряду у 144,3 Вт. Для пониження твердости поверхневого шару стопу ХН58МБЮД запропоновано застосовувати електроди з міді та ніклю. Мікротвердість при цьому становить відповідно 3500 і 3710 МПа при мікротвердості основи у 5300 МПа. У роботі показано, що забезпечити низьку поверхневу твердість і високу якість покриття можливо при електроерозійному леґуванні на малих потужностях розряду порядку 15–50 Вт. На основі експериментальних досліджень запропоновано математичний модель (рівняння прогнозування мікротвердости поверхневого шару), який уможливлює за енергетичними параметрами пристрою ЕЕЛ визначати мікротвердість сформованого шару. Визначено константи запропонованого рівняння. Розроблено алґоритм, що уможливлює прогнозувати енергетичні параметри ЕЕЛ для одержання леґованого шару з потрібною мікротвердістю поверхневого шару.",
+		"en": "The paper presents the results of metallographic studies of electroerosive coatings on special steels and alloys (R6M5, 12Kh18N10T and 07Kh16N6, alloy KhN58MBYuD and bronze BrB2) obtained with use of hard wear-resistant (alloys VK8, T15K6, STIM-3V, and W, Mo, Cr), soft antifriction materials (Cu, Ni, bronze BrB2, Sn), and electroerosive alloying (EEA) with graphite. As shown, for all the materials of studied substrates, it is possible to harden their surface layers, and there are the most expedient materials of the alloying electrodes and fabrication regimes. For hardening the surface layer of the nickel alloy KhN58MBYuD, it is recommended to use an electrode from hard alloy VK8, and for beryllium bronze BrB2—from chromium. The most rational is the regime corresponding to a discharge power of 144.3 W. For reducing the hardness of the surface layer of the alloy KhN58MBYuD, it is proposed to use electrodes from copper and nickel. The microhardness in this case is of 3500 and 3710 MPa, respectively, with microhardness of the base metal of 5300 MPa. As shown, it is possible to provide low surface hardness and high coating quality in the case of electroerosive alloying at low discharge powers of the orders of 15–50 W. Based on experimental studies, the mathematical model is proposed (an equation for predicting of the surface-coating microhardness) and allows to determine the microhardness of formed coating from the energy parameters of the EEA equipment. The constants of the proposed equation are determined. The developed algorithm allows predicting the energy parameters of the EEA to fabricate alloying layer with the desired microhardness of the surface coating.",
+		"ru": "В работе представлены результаты металлографических исследований электроэрозионных покрытий на специальных сталях и сплавах (стали Р6М5, 12Х18Н10Т, 07Х16Н6, сплав ХН58МБЮД и бронза БрБ2) твёрдыми износостойкими (сплавы ВК8, Т15К6, СТИМ-3В и W, Mo, Cr), мягкими антифрикционными (Cu, Ni, бронза БрБ2, Sn) материалами, а также электроэрозионным легированием (ЭЭЛ) графитом. Показано, что для всех исследованных материалов подложек возможно упрочнение их поверхностных слоёв; при этом существуют наиболее целесообразные режимы их получения и материалы легирующих электродов. С целью упрочнения поверхностного слоя никелевого сплава ХН58МБЮД рекомендуется применять электрод из твёрдого сплава ВК8, а для бериллиевой бронзы БрБ2 — хрома. Наиболее рациональным является режим, соответствующий мощности разряда 144,3 Вт. Для снижения твёрдости поверхностного слоя сплава ХН58МБЮД предложено применять электроды из меди и никеля. Микротвёрдость при этом составляет соответственно 3500 и 3710 МПа при микротвёрдости основы 5300 МПа. В работе показано, что обеспечить низкую поверхностную твёрдость и высокое качество покрытия возможно при электроэрозионном легировании на малых мощностях разряда порядка 15–50 Вт. На основании экспериментальных исследований предложена математическая модель (уравнение прогнозирования микротвёрдости поверхностного слоя), позволяющая по энергетическим параметрам установки ЭЭЛ определять микротвёрдость сформированного слоя. Определены константы предложенного уравнения. Разработан алгоритм, позволяющий прогнозировать энергетические параметры ЭЭЛ для получения легированного слоя с требуемой микротвёрдостью поверхностного слоя."
+	},
+	"keywords": {
+		"ua": "електроерозійне леґування, анода, катода, покриття, поверхневий шар, структура, мікротвердість",
+		"en": "electroerosive alloying, anode, cathode, coating, surface layer, structure, microhardness",
+		"ru": "электроэрозионное легирование, анод, катод, покрытие, поверхностный слой, структура, микротвёрдость"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Б. Тарельник", "en": "V. B. Tarelnyk", "ru": "В. Б. Тарельник"},
+			"OID": [247]
+		},
+		{
+			"AID": {"ua": "О. П. Гапонова", "en": "O. P. Gaponova", "ru": "О. П. Гапонова"},
+			"OID": [208]
+		},
+		{
+			"AID": {"ua": "Є. В. Коноплянченко", "en": "Ye. V. Konoplyanchenko", "ru": "Е. В. Коноплянченко"},
+			"OID": [247]
+		},
+		{
+			"AID": {"ua": "Н. С. Євтушенко", "en": "N. S. Yevtushenko", "ru": "Н. С. Евтушенко"},
+			"OID": [216]
+		},
+		{
+			"AID": {"ua": "В. О. Герасименко", "en": "V. O. Herasymenko", "ru": "В. О. Герасименко"},
+			"OID": [247]
+		}
+	],
+	"references": {
+		"count": 3,
+		"list":  [
+			{
+				"doi": "10.15407/mfint.40.02.0235",
+				"or":  "В. Б. Тарельник, О. П. Гапонова, Е. В. Коноплянченко, Н. С. Евтушенко, В. О. Герасименко, Металлофиз. новейшие технол., 40, № 2: 235 (2018).",
+				"tr":  "V. B. Tarelnyk, O. P. Gaponova, I. V. Konoplianchenko, V. A. Herasymenko, and N. S. Evtushenko, Metallofiz. Noveishie Tekhnol., 40, No. 2: 235 (2018) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Тарельник, П. Е. Жаров, Вестник Харьковского гос. политехн. университета, 60: 85 (1999).",
+				"tr":  "V. B. Tarelnyk and P. Ye. Zharkov, Vestnik Kharkiv. Gos. Politekhn. Universiteta, 60: 85 (1999) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.39.03.0363",
+				"or":  "В. Б. Тарельник, О. П. Гапонова, Е. В. Коноплянченко, М. Я. Довжик, Металлофиз. новейшие технол., 39, № 3: 363 (2017).",
+				"tr":  "V. B. Tarelnyk, O. P. Gaponova, I. V. Konoplianchenko, and M. Ya. Dovzhyk, Metallofiz. Noveishie Tekhnol., 39, No. 3: 363 (2017) (in Russian)."
+			}
+		]
+	}
+}

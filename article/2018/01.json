@@ -1,0 +1,67 @@
+{
+	"year":   2018,
+	"volume": 40,
+	"issue":  1,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  1,
+			"pages":  [1,21],
+			"title": {
+				"ua": "Умови аморфізації металевих розтопів",
+				"en": "Conditions of Amorphization of Metal Melts",
+				"ru": "Условия аморфизации металлических расплавов"
+			},
+			"autors": {
+				"ua": "О. Б. Лисенко, І. В. Загорулько, Т. В. Калініна, Н. О. Кугай",
+				"en": "O. B. Lysenko, I. V. Zagorulko, T. V. Kalinina, and N. O. Kugai",
+				"ru": "А. Б. Лысенко, И. В. Загорулько, Т. В. Калинина, Н. А. Кугай"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [23,35],
+			"title": {
+				"ua": "Методика побудови розрахункових рівноважних діяграм стану та термокінетичних перетворень титанових стопів системи Ti–Al",
+				"en": "Design Technique for Assumption Equilibrium State Diagrams and Thermokinetic Transformations of Titanium Alloys of a Ti–Al System",
+				"ru": "Методика построения расчётных равновесных диаграмм состояния и термокинетических превращений титановых сплавов системы Ti–Al"
+			},
+			"autors": {
+				"ua": "Г. М. Григоренко, В. А. Костін, С. Г. Григоренко",
+				"en": "G. M. Gryhorenko, V. A. Kostin, and S. G. Gryhorenko",
+				"ru": "Г. М. Григоренко, В. А. Костин, С. Г. Григоренко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  15,
+			"pages":  [37,43],
+			"title": {
+				"ua": "Вплив добавок Бору на акустичні характеристики матеріялів для обчислення швидкостей поверхневих акустичних хвиль у стопах Ti64",
+				"en": "Influence of Boron Adding on the Acoustic Materials Signature Curves for Computing of Surface Acoustic Wave Velocities of Ti64 Alloys",
+				"ru": "Влияние добавок бора на акустические характеристики материалов для вычисления скоростей поверхностных акустических волн в сплавах Ti64"
+			},
+			"autors": {
+				"ua": "Й. Аль-Саяд, З. Хаджоб, А. Догман",
+				"en": "Y. Al-Sayad, Z. Hadjoub, and A. Doghmane",
+				"ru": "И. Аль-Саяд, З. Хаджоб, А. Догман"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [45,137],
+			"title": {
+				"ua": "Технічні засоби та технології вивільнення прихопленої металевої бурильної колони",
+				"en": "Engineering Tools and Technologies of Freeing of the Stuck Metal Drilling String",
+				"ru": "Технические средства и технологии освобождения прихваченной металлической бурильной колонны"
+			},
+			"autors": {
+				"ua": "К. Г. Левчук",
+				"en": "K. G. Levchuk",
+				"ru": "Е. Г. Левчук"
+			}
+		}
+	]
+}

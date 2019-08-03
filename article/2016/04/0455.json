@@ -1,0 +1,389 @@
+{
+	"_id":    "MFiNT.38.04.0455",
+	"year":   2016,
+	"volume": 38,
+	"issue":  4,
+	"pages":  [455,475],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["10.02.2016"],
+	"PACS":   "61.05.cp, 61.72.Hh, 62.20.fq, 64.70.kd, 81.30.Hd, 81.30.Kf, 81.40.Lm",
+	"title":   {
+		"ua": "Розподіл вуглецю в низькотемпературному мартенситі на основі заліза та його тетрагональність",
+		"en": "Carbon Distribution in Low-Temperature Isothermal Iron-Based Martensite and Its Tetragonality",
+		"ru": "Распределение углерода в низкотемпературном мартенсите на основе железа и его тетрагональность"
+	},
+	"abstract": {
+		"ua": "Розподіл вуглецю у свіжозагартованому Fe—C-мартенситі, одержаному в процесі охолодження до 4,5 К, досліджено методом Мессбауерівської спектроскопії. Встановлено розташування атомів Карбону в одній із трьох підґратниць октаедричних міжвузлів і не підтверджено часткову зайнятість ними інших підґратниць або тетраедричних міжвузлів. Розпад свіжозагартованого ізотермічного мартенситу починається при нагріванні вище -50°C і приводить до зникнення поодиноких атомів вуглецю в $\\alpha$-твердому розчині та утворення їх кластерів. У порівнянні з мартенситом, одержаним гартуванням за кімнатної температури, свіжозагартований низькотемпературний ізотермічний мартенсит характеризується зменшеною тетрагональністю, яка частково відновлюється при наступному нагріванні вище -50°C. Ґрунтуючись на оцінках густини дислокацій в одержаному низькотемпературному мартенситі та відсутності виділень $\\varepsilon$-карбіду при наступному відпусканні, зроблено висновок, що, внаслідок низької міцности утвореного незастареного мартенситу, ізотермічне мартенситне перетворення супроводжується пластичною деформацією. В результаті запропоновано нову інтерпретацію аномально низької тетрагональности низькотемпературного мартенситу, суть якої полягає у захопленні та транспортуванні дислокаціями ковзання нерухомих атомів Карбону з видаленням їх із твердого розчину і утворенням Карбонових атмосфер в полі напружень дислокацій. Наведено її співставлення з наявними гіпотезами. Проаналізовано дві можливі причини часткового відновлення тетрагональности при старінні низькотемпературного мартенситу: (i) розморожування атмосфер Снука, утворених дислокаціями ковзання за низьких температур, і (ii) когерентні напруження на межах переміжних областей, збагачених та збіднених Карбоном у модульованій структурі застареного мартенситу.",
+		"en": "Carbon distribution in the as-quenched Fe—C martensite obtained after cooling down to 4.5 K is studied using Mössbauer spectroscopy. The location of carbon atoms in the one of three available sublattices of octahedral interstitial sites is established, whereas the partial occupation by carbon atoms of tetrahedral sites or octahedral sites in other sublattices is not confirmed. The ageing of virgin isothermal martensite starts during heating at temperatures above -50°C and leads to disappearance of single carbon atoms and their clustering in the $\\alpha$ solid solution. In comparison with martensite obtained at room temperature, a decreased tetragonality of the low-temperature isothermal martensite and its partial recovery during ageing is observed. Based on the estimation of dislocation density and the absence of $\\varepsilon$-carbide precipitation during subsequent tempering, a conclusion is made that plastic deformation occurs in the course of isothermal martensitic transformation because of the softness of the virgin martensite. Finally, a new interpretation of the abnormally low tetragonality is proposed, of which the essence is the capture and transport of immobile carbon atoms by gliding dislocations. As a result, a part of carbon is removed from the  solid solution and forms carbon atmospheres around the dislocations. The comparison of this hypothesis with available other ones is presented. Two possible reasons for partial recovery of tetragonality during ageing of virgin martensite are discussed: (i) the unfreezing of Snoek atmospheres created by gliding dislocations crossing the immobile carbon atoms at low temperatures and (ii) coherent stresses at the boundaries of the intermittent carbon-rich and carbon-depleted domains in the modulated structure of the aged martensite.",
+		"ru": "Распределение углерода в свежезакалённом Fe—C-мартенсите, полученном в процессе охлаждения до 4,5 К, исследовано методом мёссбауэровской спектроскопии. Установлено размещение атомов углерода в одной из трёх подрешёток октаэдрических междоузлий и не подтверждена частичная занятость ими других подрешёток или тетраэдрических междоузлий. Распад свежезакалённого изотермического мартенсита начинается при нагреве выше -50°C и приводит к исчезновению одиночных атомов углерода в $\\alpha$-твёрдом растворе и образованию их кластеров. В сравнении с мартенситом, полученным закалкой при комнатной температуре, свежезакалённый низкотемпературный изотермический мартенсит характеризуется пониженной тетрагональностью, которая частично восстанавливается при последующем нагреве выше -50°C. Основываясь на оценках плотности дислокаций в полученном мартенсите и отсутствии выделения $\\varepsilon$-карбида при последующем отпуске, сделан вывод, что, вследствие низкой прочности образованного несостаренного мартенсита, изотермическое мартенситное превращение сопровождается пластической деформацией. В результате предложена новая интерпретация аномально низкой тетрагональности низкотемпературного мартенсита, суть которой заключается в захвате и транспорте дислокациями скольжения неподвижных атомов углерода с удалением их из твёрдого раствора и образованием углеродных атмосфер в поле напряжений дислокаций. Приведено её сопоставление с существующими гипотезами. Обсуждены две возможные причины частичного восстановления тетрагональности при старении низкотемпературного мартенсита: (i) размораживание атмосфер Снука, созданных движущимися дислокациями при низких температурах, и (ii) когерентные напряжения на границах чередующихся областей, обогащённых и обеднённых углеродом в модулированной структуре состаренного мартенсита."
+	},
+	"keywords": {
+		"ua": "ізотермічне мартенситне перетворення, пластична деформація, близький атомовий порядок, дислокації, тетрагональність",
+		"en": "isothermal martensitic transformation, plastic deformation, short-range atomic order, dislocations, tetragonality",
+		"ru": "изотермическое мартенситное превращение, пластическая деформация, ближний атомный порядок, дислокации, тетрагональность"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Г. Гаврилюк", "en": "V. G. Gavriljuk", "ru": "В. Г. Гаврилюк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. О. Фірстов", "en": "S. O. Firstov", "ru": "С. А. Фирстов"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "В. О. Сірош", "en": "V. A. Sirosh", "ru": "В. А. Сирош"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. І. Тищенко", "en": "A. I. Tyshchenko", "ru": "А. И. Тищенко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Г. С. Могильний", "en": "G. S. Mogilny", "ru": "Г. С. Могильный"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 67,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "G. V. Kurdyumov and O. P. Maximova, Reports of AS USSR, 61: 83 (1948).",
+				"tr":  "G. V. Kurdyumov and O. P. Maximova, Reports of AS USSR, 61: 83 (1948)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Benedics, J. Iron Steel Inst., 77: 233 (1908).",
+				"tr":  "C. Benedics, J. Iron Steel Inst., 77: 233 (1908)."
+			},
+			{
+				"doi": "",
+				"or":  "E. C. Bain, Chem. Met. Eng., 26: 543 (1922).",
+				"tr":  "E. C. Bain, Chem. Met. Eng., 26: 543 (1922)."
+			},
+			{
+				"doi": "",
+				"or":  "S. S. Steinberg, Metallurg., 4: 68 (1930) (in Russian).",
+				"tr":  "S. S. Steinberg, Metallurg., 4: 68 (1930) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. D. Sadovsky and I. V. Shtishevskaya, Proc. UFAS USSR, 9: 45 (1937) (in Russian).",
+				"tr":  "V. D. Sadovsky and I. V. Shtishevskaya, Proc. UFAS USSR, 9: 45 (1937) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Lobodyuk and E. I. Estrin, Uspekhi Fizicheskikh Nauk, 175, No. 7: 745 (2005) (in Russian).",
+				"tr":  "V. A. Lobodyuk and E. I. Estrin, Uspekhi Fizicheskikh Nauk, 175, No. 7: 745 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Lobodyuk and E. I. Estrin, Martensitic Transformations (Cambridge: Cambridge International Science Publishing: 2015).",
+				"tr":  "V. A. Lobodyuk and E. I. Estrin, Martensitic Transformations (Cambridge: Cambridge International Science Publishing: 2015)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Pietikainen, J. Iron Steel Inst., 206: 74 (1968).",
+				"tr":  "J. Pietikainen, J. Iron Steel Inst., 206: 74 (1968)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Pietikainen, Trans. Iron and Steel Inst. of Japan, 25, No. 4: 340 (1985).",
+				"tr":  "J. Pietikainen, Trans. Iron and Steel Inst. of Japan, 25, No. 4: 340 (1985)."
+			},
+			{
+				"doi": "10.1007/BF02670438",
+				"or":  "G. T. Eldis and M. Cohen, Metall. Trans. A, 14, Iss. 6: 1007 (1983).",
+				"tr":  "G. T. Eldis and M. Cohen, Metall. Trans. A, 14, Iss. 6: 1007 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "V. N. Gridnev, V. G. Gavriljuk, V. V. Nemoshkalenko, Yu. A. Polushkin, and O. N. Razumov, Fiz. Met. Metalloved., 43, No. 3: 582 (1977) (in Russian).",
+				"tr":  "V. N. Gridnev, V. G. Gavriljuk, V. V. Nemoshkalenko, Yu. A. Polushkin, and O. N. Razumov, Fiz. Met. Metalloved., 43, No. 3: 582 (1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. I. Lysak and Ya. N. Vovk, Fiz. Met. Metalloved., 20, No. 4: 540 (1965) (in Russian).",
+				"tr":  "L. I. Lysak and Ya. N. Vovk, Fiz. Met. Metalloved., 20, No. 4: 540 (1965) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. I. Lysak and V. Ye. Danilchenko, Fiz. Met. Metalloved., 32, No. 3: 639 (1971) (in Russian).",
+				"tr":  "L. I. Lysak and V. Ye. Danilchenko, Fiz. Met. Metalloved., 32, No. 3: 639 (1971) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. I. Lysak and L. O. Andrushchik, Fiz. Met. Metalloved., 26, No. 2: 380 (1968) (in Russian).",
+				"tr":  "L. I. Lysak and L. O. Andrushchik, Fiz. Met. Metalloved., 26, No. 2: 380 (1968) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. I. Lysak and S. P. Kondratiev, Fiz. Met. Metalloved., 30, No. 5: 973 (1970) (in Russian).",
+				"tr":  "L. I. Lysak and S. P. Kondratiev, Fiz. Met. Metalloved., 30, No. 5: 973 (1970) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. I. Lysak and B. I. Nikolin, Fiz. Met. Metalloved., 22, No. 5: 730 (1966) (in Russian).",
+				"tr":  "L. I. Lysak and B. I. Nikolin, Fiz. Met. Metalloved., 22, No. 5: 730 (1966) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. L. Roytburd and A. G. Khachaturyan, Fiz. Met. Metalloved., 30, No. 6: 1189 (1970) (in Russian).",
+				"tr":  "A. L. Roytburd and A. G. Khachaturyan, Fiz. Met. Metalloved., 30, No. 6: 1189 (1970) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "D. A. Mirzayev, S. V. Rushits, A. I. Ustinov, and Yu. H. Goykhenberg, Metallofizika, 4, No. 4: 43 (1982) (in Russian).",
+				"tr":  "D. A. Mirzayev, S. V. Rushits, A. I. Ustinov, and Yu. H. Goykhenberg, Metallofizika, 4, No. 4: 43 (1982) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0036-9748(71)90040-8",
+				"or":  "M. Watanabe and C. M. Wayman, Scr. Metall., 5, Iss. 2: 109 (1971).",
+				"tr":  "M. Watanabe and C. M. Wayman, Scr. Metall., 5, Iss. 2: 109 (1971)."
+			},
+			{
+				"doi": "",
+				"or":  "L. I. Lysak, A. G. Drachinskaya, and N. A. Storchak, Fiz. Met. Metalloved., 34, No. 1: 84 (1972) (in Russian).",
+				"tr":  "L. I. Lysak, A. G. Drachinskaya, and N. A. Storchak, Fiz. Met. Metalloved., 34, No. 1: 84 (1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. I. Lysak, S. A. Artemyuk, and Yu. M. Polyshchuk, Fiz. Met. Metalloved., 35, No. 5: 1098 (1973) (in Russian).",
+				"tr":  "L. I. Lysak, S. A. Artemyuk, and Yu. M. Polyshchuk, Fiz. Met. Metalloved., 35, No. 5: 1098 (1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. K. Mykhaylova, Reports of AS USSR, 216, No. 4: 778 (1974).",
+				"tr":  "L. K. Mykhaylova, Reports of AS USSR, 216, No. 4: 778 (1974)."
+			},
+			{
+				"doi": "10.1016/0001-6160(75)90112-1",
+				"or":  "G. V. Kurdyumov and A. G. Khachaturyan, Acta Metall., 23, Iss. 9: 1077 (1975).",
+				"tr":  "G. V. Kurdyumov and A. G. Khachaturyan, Acta Metall., 23, Iss. 9: 1077 (1975)."
+			},
+			{
+				"doi": "",
+				"or":  "J. R. Entin, V. A. Somenkov, and S. Sh. Shylstein, Dokl. Akad. Nauk USSR, 206: 1096 (1972) (in Russian).",
+				"tr":  "J. R. Entin, V. A. Somenkov, and S. Sh. Shylstein, Dokl. Akad. Nauk USSR, 206: 1096 (1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. G. Gavriljuk, V. N. Gridnev, V. V. Nemoshkalenko, O. N. Razumov, and Yu. A. Polushkin, Fiz. Met. Metalloved., 43, No. 3: 582 (1977) (in Russian).",
+				"tr":  "V. G. Gavriljuk, V. N. Gridnev, V. V. Nemoshkalenko, O. N. Razumov, and Yu. A. Polushkin, Fiz. Met. Metalloved., 43, No. 3: 582 (1977) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0001-6160(82)90039-6",
+				"or":  "H. Ino, T. Ito, S. Nasu, and U. A. Gonser, Acta Metall., 30: 9 (1982).",
+				"tr":  "H. Ino, T. Ito, S. Nasu, and U. A. Gonser, Acta Metall., 30: 9 (1982)."
+			},
+			{
+				"doi": "10.1007/BF02646651",
+				"or":  "J.-M. Genin, Metall. Trans. A, 18: 1371 (1987).",
+				"tr":  "J.-M. Genin, Metall. Trans. A, 18: 1371 (1987)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2012.11.045",
+				"or":  "V. G. Gavriljuk, W. Theisen, V. V. Sirosh, E. V. Polshin, A. Kortmann, G. S. Mogilny, Yu. N. Petrov, and Ye. V. Tarusin, Acta Mater., 61: 1705 (2013).",
+				"tr":  "V. G. Gavriljuk, W. Theisen, V. V. Sirosh, E. V. Polshin, A. Kortmann, G. S. Mogilny, Yu. N. Petrov, and Ye. V. Tarusin, Acta Mater., 61: 1705 (2013)."
+			},
+			{
+				"doi": "10.1016/j.msea.2006.02.182",
+				"or":  "D. E. Kaputkin, Mat. Sci. Eng. A, 438–440: 207 (2006).",
+				"tr":  "D. E. Kaputkin, Mat. Sci. Eng. A, 438–440: 207 (2006)."
+			},
+			{
+				"doi": "10.1016/0001-6160(67)90155-1",
+				"or":  "P. M. Gielen and R. Kaplow, Acta Metall., 15: 49 (1967).",
+				"tr":  "P. M. Gielen and R. Kaplow, Acta Metall., 15: 49 (1967)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Moriya, H. Ino, and F. E. Fujita, J. Phys. Soc. Japan, 24: 60 (1968).",
+				"tr":  "T. Moriya, H. Ino, and F. E. Fujita, J. Phys. Soc. Japan, 24: 60 (1968)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Lesoille and P. M. Gielen, Metall. Trans., 3: 2681 (1972).",
+				"tr":  "M. Lesoille and P. M. Gielen, Metall. Trans., 3: 2681 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "R. I. Entin, V. A. Somenkov, and S. S. Shilstein, Reports of AS USSR, 5: 1096 (1972) (in Russian).",
+				"tr":  "R. I. Entin, V. A. Somenkov, and S. S. Shilstein, Reports of AS USSR, 5: 1096 (1972) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0001-6160(73)90036-9",
+				"or":  "W. K. Choo and R. W. Kaplow, Acta Metall., 21: 725 (1973).",
+				"tr":  "W. K. Choo and R. W. Kaplow, Acta Metall., 21: 725 (1973)."
+			},
+			{
+				"doi": "10.1007/BF02677261",
+				"or":  "N. de Cristopharo and R. Kaplow, Metall. Trans. A, 8: 35 (1977).",
+				"tr":  "N. de Cristopharo and R. Kaplow, Metall. Trans. A, 8: 35 (1977)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(96)00138-3",
+				"or":  "A. L. Sozinov, A. G. Balanyuk, and V. G. Gavriljuk, Acta Mater., 45: 225 (1997).",
+				"tr":  "A. L. Sozinov, A. G. Balanyuk, and V. G. Gavriljuk, Acta Mater., 45: 225 (1997)."
+			},
+			{
+				"doi": "10.1007/BF02663839",
+				"or":  "O. N. C. Uwakweh, J. Ph. Bauer, and J.-M. R. Genin, Metall. Trans. A, 21: 589 (1990).",
+				"tr":  "O. N. C. Uwakweh, J. Ph. Bauer, and J.-M. R. Genin, Metall. Trans. A, 21: 589 (1990)."
+			},
+			{
+				"doi": "10.1051/jphyscol:19792225",
+				"or":  "J. Foct, J. P. Senateur, J. M. Dubois, and G. le Caer, J. Phys. Colloques, 40: C2-647 (1979).",
+				"tr":  "J. Foct, J. P. Senateur, J. M. Dubois, and G. le Caer, J. Phys. Colloques, 40: C2-647 (1979)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Foct, G. Le Caer. J. M. Dubois, and R. Faivri, Veglici, Borki, Azotki w Stalakh (Poznan: Politecn. Poznan: 1978), p. 225.",
+				"tr":  "J. Foct, G. Le Caer. J. M. Dubois, and R. Faivri, Veglici, Borki, Azotki w Stalakh (Poznan: Politecn. Poznan: 1978), p. 225."
+			},
+			{
+				"doi": "10.1103/PhysRev.133.A787",
+				"or":  "R. Ingalls, Phys. Rev., 133, Iss. 3A: 787 (1964).",
+				"tr":  "R. Ingalls, Phys. Rev., 133, Iss. 3A: 787 (1964)."
+			},
+			{
+				"doi": "10.1103/PhysRev.140.A375",
+				"or":  "R. E. Watson, A. C. Gossard, and J. Jafet, Phys. Rev., 140, Iss. 1A: 375 (1965).",
+				"tr":  "R. E. Watson, A. C. Gossard, and J. Jafet, Phys. Rev., 140, Iss. 1A: 375 (1965)."
+			},
+			{
+				"doi": "10.1016/S0081-1947(08)60105-8",
+				"or":  "M. H. Cohen and F. Reif, Solid. Phys., 5: 321 (1957).",
+				"tr":  "M. H. Cohen and F. Reif, Solid. Phys., 5: 321 (1957)."
+			},
+			{
+				"doi": "10.1007/BF02670166",
+				"or":  "R. A. Taylor, L. Chang, G. B. Olson, G. D. W. Smith, M. Cohen, and J. B. Wander Sande, Metall. Trans. A, 20: 2717 (1989).",
+				"tr":  "R. A. Taylor, L. Chang, G. B. Olson, G. D. W. Smith, M. Cohen, and J. B. Wander Sande, Metall. Trans. A, 20: 2717 (1989)."
+			},
+			{
+				"doi": "10.1007/BF02658989",
+				"or":  "O. N. C. Uwakweh, J.-M. R. Genin, and J.-F. Silvain, Metall. Trans. A, 22, Iss. 4: 797 (1991).",
+				"tr":  "O. N. C. Uwakweh, J.-M. R. Genin, and J.-F. Silvain, Metall. Trans. A, 22, Iss. 4: 797 (1991)."
+			},
+			{
+				"doi": "10.15407/mfint.38.04.0455",
+				"or":  "V. O. Sirosh, A. I. Tyshchenko, G. S. Mogilnyi, Yu. M. Petrov, E. V. Polshin, and V. G. Gavriljuk, Metallofiz. Noveishie Tekhnol., 36, No. 7: 871 (2014) (in Russian).",
+				"tr":  "V. O. Sirosh, A. I. Tyshchenko, G. S. Mogilnyi, Yu. M. Petrov, E. V. Polshin, and V. G. Gavriljuk, Metallofiz. Noveishie Tekhnol., 36, No. 7: 871 (2014) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0001-6160(57)90041-X",
+				"or":  "D. V. Wilson, Acta Metall., 5: 293 (1957).",
+				"tr":  "D. V. Wilson, Acta Metall., 5: 293 (1957)."
+			},
+			{
+				"doi": "10.1007/BF02644079",
+				"or":  "J. K. Tien, A. W. Thompson, I. M. Bernstein, and R. J. Richards, Metall. Trans. A, 7, Iss. 6: 821 (1976).",
+				"tr":  "J. K. Tien, A. W. Thompson, I. M. Bernstein, and R. J. Richards, Metall. Trans. A, 7, Iss. 6: 821 (1976)."
+			},
+			{
+				"doi": "10.1007/BF02811700",
+				"or":  "A. J. West and M. R. Louthan, Metall. Trans. A, 10, Iss. 11: 1675 (1979).",
+				"tr":  "A. J. West and M. R. Louthan, Metall. Trans. A, 10, Iss. 11: 1675 (1979)."
+			},
+			{
+				"doi": "10.1007/BF02643862",
+				"or":  "G. S. Frankel and R. M. Lataqnision, Metall. Trans. A, 17, Iss. 5: 861 (1986).",
+				"tr":  "G. S. Frankel and R. M. Lataqnision, Metall. Trans. A, 17, Iss. 5: 861 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "M. A. Matosyan and V. M. Golikov, Protective Coatings on Metals (Kiev: Naukova Dumka: 1970), vol. 3, p. 57 (in Russian).",
+				"tr":  "M. A. Matosyan and V. M. Golikov, Protective Coatings on Metals (Kiev: Naukova Dumka: 1970), vol. 3, p. 57 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "T. N. Lipchin, L. G. Chernuka, A. U. Pavlova, and V. I. Suntsev, Metal Science and Heat Treatment of Metals, Iss. 2: 66 (1973) (in Russian).",
+				"tr":  "T. N. Lipchin, L. G. Chernuka, A. U. Pavlova, and V. I. Suntsev, Metal Science and Heat Treatment of Metals, Iss. 2: 66 (1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. N. Larikov, V. F. Mazanko, V. M. Falchenko et al., Reports of Academy of Sciences of Ukrainian SSR, Iss. 7: 636 (1975) (in Russian).",
+				"tr":  "L. N. Larikov, V. F. Mazanko, V. M. Falchenko et al., Reports of Academy of Sciences of Ukrainian SSR, Iss. 7: 636 (1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "I. M. Karnaukhov, O. Ye. Pogorelov, and M. S. Chernolevs’ky, Metallofiz. Noveishie Tekhnol., 28, No. 6: 827 (2006) (in Russian).",
+				"tr":  "I. M. Karnaukhov, O. Ye. Pogorelov, and M. S. Chernolevs'ky, Metallofiz. Noveishie Tekhnol., 28, No. 6: 827 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. V. Belous and V. T. Cherepin, Fiz. Met. Metalloved., 12, No. 5: 685 (1961) (in Russian).",
+				"tr":  "M. V. Belous and V. T. Cherepin, Fiz. Met. Metalloved., 12, No. 5: 685 (1961) (in Russian)."
+			},
+			{
+				"doi": "10.1002/pssa.2210140238",
+				"or":  "V. N. Gridnev, V. G. Gavriljuk, I. Ya. Dekhtyar, Yu. Ya. Meshkov, V. G. Prokopenko, and P. S. Nizin, phys. status solidi (a), 14, Iss. 2: 689 (1972).",
+				"tr":  "V. N. Gridnev, V. G. Gavriljuk, I. Ya. Dekhtyar, Yu. Ya. Meshkov, V. G. Prokopenko, and P. S. Nizin, phys. status solidi (a), 14, Iss. 2: 689 (1972)."
+			},
+			{
+				"doi": "",
+				"or":  "V. G. Gavriljuk, Fiz. Met. Metalloved., 45, No. 5: 969 (1978) (in Russian).",
+				"tr":  "V. G. Gavriljuk, Fiz. Met. Metalloved., 45, No. 5: 969 (1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. N. Gridnev and V. G. Gavriljuk, Physics of Metals (USSR), 4, No. 3: 531 (1982).",
+				"tr":  "V. N. Gridnev and V. G. Gavriljuk, Physics of Metals (USSR), 4, No. 3: 531 (1982)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(02)00358-1",
+				"or":  "V. G. Gavriljuk, Mat. Sci. Eng. A, 345: 81 (2003).",
+				"tr":  "V. G. Gavriljuk, Mat. Sci. Eng. A, 345: 81 (2003)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(03)00419-1",
+				"or":  "Yu. Ivanisenko, W. Lojkowski, R. Z. Valiev, and H.-J. Fecht, Acta Mater., 51: 5555 (2003).",
+				"tr":  "Yu. Ivanisenko, W. Lojkowski, R. Z. Valiev, and H.-J. Fecht, Acta Mater., 51: 5555 (2003)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2011.03.022",
+				"or":  "Y. J. Li, P. Choi, C. Borchers, S. Westerkamp, S. Goto, D. Raabe, and R. Kirchheim, Acta Mater., 59: 3965 (2011).",
+				"tr":  "Y. J. Li, P. Choi, C. Borchers, S. Westerkamp, S. Goto, D. Raabe, and R. Kirchheim, Acta Mater., 59: 3965 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "A. H. Cottrell and B. A. Bilby, Proc. Phys. Soc. A, 62: 49 (1949).",
+				"tr":  "A. H. Cottrell and B. A. Bilby, Proc. Phys. Soc. A, 62: 49 (1949)."
+			},
+			{
+				"doi": "",
+				"or":  "M. A. Shtremel, B. Winderlich, and F. F. Sagdarova, Fiz. Met. Metalloved., 47, No. 4: 754 (1979) (in Russian).",
+				"tr":  "M. A. Shtremel, B. Winderlich, and F. F. Sagdarova, Fiz. Met. Metalloved., 47, No. 4: 754 (1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Inoue, T. Ogura, and T. Masumoto, J. Jap. Inst. Metals, 37, No. 8: 875 (1973).",
+				"tr":  "A. Inoue, T. Ogura, and T. Masumoto, J. Jap. Inst. Metals, 37, No. 8: 875 (1973)."
+			},
+			{
+				"doi": "10.1007/BF02646871",
+				"or":  "A. Inoue, T. Ogura, and T. Masumoto, Metall. Trans. A, 8, Iss. 11: 1689 (1977).",
+				"tr":  "A. Inoue, T. Ogura, and T. Masumoto, Metall. Trans. A, 8, Iss. 11: 1689 (1977)."
+			},
+			{
+				"doi": "",
+				"or":  "F. A. Garner and J. M. McCarthy, Physical Metallurgy of Controlled Expansion Invar-Type Alloys (Eds. K. C. Russel and D. F. Smith) (Warendale, PA: TMS–AIME: 1990), p. 187.",
+				"tr":  "F. A. Garner and J. M. McCarthy, Physical Metallurgy of Controlled Expansion Invar-Type Alloys (Eds. K. C. Russel and D. F. Smith) (Warendale, PA: TMS–AIME: 1990), p. 187."
+			},
+			{
+				"doi": "10.1002/pssa.200925548",
+				"or":  "D. N. Movchan, V. N. Shyvanyuk, B. D. Shanina, and V. G. Gavriljuk, phys. status solidi (a), 207, Iss. 8: 1796 (2010).",
+				"tr":  "D. N. Movchan, V. N. Shyvanyuk, B. D. Shanina, and V. G. Gavriljuk, phys. status solidi (a), 207, Iss. 8: 1796 (2010)."
+			},
+			{
+				"doi": "10.1016/0956-7151(92)90316-7",
+				"or":  "K. Ullakko and V. G. Gavriljuk, Acta Metallurgica et Materialia, 40, Iss. 10: 2471 (1992).",
+				"tr":  "K. Ullakko and V. G. Gavriljuk, Acta Metallurgica et Materialia, 40, Iss. 10: 2471 (1992)."
+			}
+		]
+	}
+}

@@ -1,0 +1,90 @@
+{
+	"_id":    "MFiNT.36.08.1101",
+	"year":   2014,
+	"volume": 36,
+	"issue":  8,
+	"pages":  [1101,1112],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["28.02.2014"],
+	"PACS":   "34.35.+a, 62.20.Qp, 79.20.Rf, 81.15.Cd, 81.65.Cf, 81.65.Kn, 81.65.Lp",
+	"title":   {
+		"ua": "Структура і властивості вакуумно-дугового TiN-покриття на поверхні стопу Д16",
+		"en": "Structure and Properties of Vacuum-Arc TiN Coating on the D16 Alloy Surface",
+		"ru": "Структура и свойства вакуумно-дугового TiN-покрытия на поверхности сплава Д16"
+	},
+	"abstract": {
+		"ua": "Високоміцні нанокристалічні покриття TiN було нанесено на поліровану поверхню дископодібних зразків з промислового алюмінійового стопу Д16 (після природного старіння) у вакуумно-дуговій установці «Булат-6». Для очищення й активації поверхні підложжя розроблено широкоапертурне плазмове джерело йонів Ar$^{+}$ з розрядною коміркою Пеннінґового типу. Вивчено залежності структури, мікротвердости, триботехнічних характеристик та швидкости корозії від основних параметрів осадження.",
+		"en": "High-strength nanocrystalline TiN coatings are deposited on the polished surface of the disc-shaped industrial aluminium D16 alloy samples (after natural ageing) in ‘Bulat-6’ vacuum-arc installation. For cleaning and activation of the substrate surface, the wide-aperture Ar$^{+}$-ions’ plasma source with the Penning-type discharge cell is designed. The dependences of the structure, microhardness, tribotechnical characteristics, and the corrosion rate on the main deposition parameters are investigated.",
+		"ru": "Высокопрочные нанокристаллические покрытия TiN были нанесены на полированную поверхность дископодобных образцов из промышленного алюминиевого сплава Д16 (после естественного старения) в вакуумно-дуговой установке «Булат-6». Для очистки и активации поверхности подложки разработан широкоапертурный плазменный источник ионов Ar$^{+}$ с разрядной ячейкой типа Пеннинга. Изучены зависимости структуры, микротвёрдости, триботехнических характеристик и скорости коррозии от основных параметров осаждения."
+	},
+	"keywords": {
+		"ua": "нанокристалічні TiN-покриття, катодно-дугове вакуумне осадження, бомбування низькоенергетичними йонами інертного газу, стопи на основі алюмінію, йонне джерело Пеннінґового типу",
+		"en": "nanocrystalline TiN-coating, cathodic vacuum-arc deposition, low-energy inert gas ion bombardment, Al-based alloys, Penning-type ion source",
+		"ru": "нанокристаллические TiN-покрытия, катодно-дуговое вакуумное осаждение, бомбардировка низкоэнергетическими ионами инертного газа, сплавы на основе алюминия, ионный источник типа Пеннинга"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. О. Васильєв", "en": "M. O. Vasylyev", "ru": "М. А. Васильев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. Є. Панарін", "en": "V. E. Panarin", "ru": "В. Е. Панарин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "І. М. Макеєва", "en": "I. M. Makeyeva", "ru": "И. Н. Макеева"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. М. Волошко", "en": "S. M. Voloshko", "ru": "С. М. Волошко"},
+			"OID": [202]
+		}
+	],
+	"references": {
+		"count": 8,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "A. A. Urgenson, Metallovedenie i Termicheskaya Obrabotka, No. 3: 50 (1956) (in Russian).",
+				"tr":  "A. A. Urgenson, Metallovedenie i Termicheskaya Obrabotka, No. 3: 50 (1956) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "I. I. Aksenov, V. G. Bren, V. G. Padalka, and V. M. Khoroshikh, Sov. J. Techn. Phys., 48, No. 6: 1165 (1978) (in Russian).",
+				"tr":  "I. I. Aksenov, V. G. Bren, V. G. Padalka, and V. M. Khoroshikh, Sov. J. Techn. Phys., 48, No. 6: 1165 (1978) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0257-8972(87)90157-5",
+				"or":  "H. Randhawa and P. C. Johnson, Surf. Coat. Technol., 31: 303 (1987).",
+				"tr":  "H. Randhawa and P. C. Johnson, Surf. Coat. Technol., 31: 303 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Andreev, V. P. Sablev, V. M. Shulaev, and S. N. Grigoriev, Vakuumno-Dugovye Ustroystva i Pokrytiya (Kharkov: NSC ‘KhPhTI’: 2005) (in Russian).",
+				"tr":  "A. A. Andreev, V. P. Sablev, V. M. Shulaev, and S. N. Grigoriev, Vakuumno-Dugovye Ustroystva i Pokrytiya (Kharkov: NSC 'KhPhTI': 2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. S. Umanskiy, Yu. S. Skakov, A. S. Ivanov, and L. N. Rastorguev, Kristallografiya, Rentgenografiya i Elektronnaya Mikroskopiya (Moscow: Metallurgiya: 1982) (in Russian).",
+				"tr":  "L. S. Umanskiy, Yu. S. Skakov, A. S. Ivanov, and L. N. Rastorguev, Kristallografiya, Rentgenografiya i Elektronnaya Mikroskopiya (Moscow: Metallurgiya: 1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "B. U. Asanov and V. P. Makarov, Vestnik Kyrgyzsko-Rossiyskogo Slavyanskogo Universiteta, No. 2: 45 (2002) (in Russian).",
+				"tr":  "B. U. Asanov and V. P. Makarov, Vestnik Kyrgyzsko-Rossiyskogo Slavyanskogo Universiteta, No. 2: 45 (2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. V. Samsonov, Nitridy (Kiev: Naukova Dumka: 1969) (in Russian).",
+				"tr":  "G. V. Samsonov, Nitridy (Kiev: Naukova Dumka: 1969) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "I. I. Aksenov, A. A. Andreev, V. F. Belous, V. E. Strelnitskiy, and V. M. Khoroshikh, Vakuumnaya Duga: Istochniki Plazmy, Osazhdenie Pokrytiy, Poverkhnostnoe Modifitsirovanie (Kiev: Naukova Dumka: 2012) (in Russian).",
+				"tr":  "I. I. Aksenov, A. A. Andreev, V. F. Belous, V. E. Strelnitskiy, and V. M. Khoroshikh, Vakuumnaya Duga: Istochniki Plazmy, Osazhdenie Pokrytiy, Poverkhnostnoe Modifitsirovanie (Kiev: Naukova Dumka: 2012) (in Russian)."
+			}
+		]
+	}
+}

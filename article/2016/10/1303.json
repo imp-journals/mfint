@@ -1,0 +1,252 @@
+{
+	"_id":    "MFiNT.38.10.1303",
+	"year":   2016,
+	"volume": 38,
+	"issue":  10,
+	"pages":  [1303,1320],
+	"rubric": 2,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["25.05.2016"],
+	"PACS":   "31.15.xv, 34.20.-b, 61.72.Bb, 61.72.Cc, 61.72.jd, 61.72.jj, 61.80.Az, 61.85.+p",
+	"title":   {
+		"ua": "Дослідження атомових зміщень, створюваних у каскадах у опромінюваному $\\alpha$-Zr, з використанням методів молекулярно-динамічного моделювання",
+		"en": "A Study of Atomic Displacements Produced in Cascades in Irradiated $\\alpha$-Zr by Using Molecular Dynamics Simulations",
+		"ru": "Исследование атомных смещений, производимых в каскадах в облучаемом $\\alpha$-Zr, с применением методов молекулярно-динамического моделирования"
+	},
+	"abstract": {
+		"ua": "У даній роботі досліджуються процеси формування каскадів, їх проходження та відпал у чистих кристалах цирконію за різних умов опромінювання. Вивчаються статистичні та геометричні властивості каскадів за різних температур, енергій первинно вибитих атомів і напрямків їх направленого руху. Показано можливість каналювання при еволюції каскадів, що приводить до утворення краудіонів. Досліджено статистичні особливості проходження каскадів і характерний час відпалу. Проведено аналізу процесів формування структур точкових дефектів.",
+		"en": "We study the cascades’ formation, development and annealing in pure zirconium crystals irradiated in different irradiation conditions. Statistical and geometric properties of cascades are studied in details by varying sample temperature, energy of primary knocked atoms, and direction of their motion. A possibility of channelling at cascades development is shown; it results in formation of crowdions. A change in statistical properties of the crystal during cascades’ development and a relaxation time of cascades are studied. A possibility of formation of different-type defects after cascades’ annealing is discussed.",
+		"ru": "В данной работе исследуются процессы формирования каскадов, их прохождение и отжиг в чистых кристаллах циркония при различных условиях облучения. Изучаются статистические и геометрические свойства каскадов при различных температурах, энергиях первично выбитых атомов и направлениях их движения. Показана возможность каналирования при прохождении каскадов, что приводит к образованию краудионов. Исследованы статистические особенности прохождения каскадов и характерное время отжига. Проведён анализ процессов формирования структур точечных дефектов."
+	},
+	"keywords": {
+		"ua": "молекулярна динаміка, метода зануреного атому, каскад, точкові дефекти",
+		"en": "molecular dynamics, embedded atom method, cascade, point defects",
+		"ru": "молекулярная динамика, метод погруженного атома, каскад, точечные дефекты"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. М. Овчаренко", "en": "Yu. M. Ovcharenko", "ru": "Ю. М. Овчаренко"},
+			"OID": [17]
+		},
+		{
+			"AID": {"ua": "С. В. Кохан", "en": "S. V. Kokhan", "ru": "С. В. Кохан"},
+			"OID": [17]
+		},
+		{
+			"AID": {"ua": "Д. О. Харченко", "en": "D. O. Kharchenko", "ru": "Д. О. Харченко"},
+			"OID": [17]
+		},
+		{
+			"AID": {"ua": "С. Ву", "en": "X. Wu", "ru": "С. Ву"},
+			"OID": [489]
+		},
+		{
+			"AID": {"ua": "Б. Вен", "en": "B. Wen", "ru": "Б. Вен"},
+			"OID": [489]
+		},
+		{
+			"AID": {"ua": "Л. Ву", "en": "L. Wu", "ru": "Л. Ву"},
+			"OID": [489]
+		},
+		{
+			"AID": {"ua": "В. Жанг", "en": "W. Zhang", "ru": "В. Жанг"},
+			"OID": [489]
+		}
+	],
+	"references": {
+		"count": 38,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "G. S. Was, Fundamentals of Radiation Materials Science (Berlin–Heidelberg: Springer-Verlag: 2007).",
+				"tr":  "G. S. Was, Fundamentals of Radiation Materials Science (Berlin–Heidelberg: Springer-Verlag: 2007)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Walgraef, Spatio-Temporal Pattern Formation (New York–Berlin–Heidelberg: Springer-Verlag: 1996).",
+				"tr":  "D. Walgraef, Spatio-Temporal Pattern Formation (New York–Berlin–Heidelberg: Springer-Verlag: 1996)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Jager, P. Ehrhart, and W. Shchilling, Nonlinear Phenomena in Materials Science (Eds. G. Marten and I. P. Kubin) (Aedermannsorrf, Switzerland: Trans. Tech. Publications: 1988).",
+				"tr":  "W. Jager, P. Ehrhart, and W. Shchilling, Nonlinear Phenomena in Materials Science (Eds. G. Marten and I. P. Kubin) (Aedermannsorrf, Switzerland: Trans. Tech. Publications: 1988)."
+			},
+			{
+				"doi": "10.1038/229403a0",
+				"or":  "J. H. Evans, Nature, 229: 403 (1971).",
+				"tr":  "J. H. Evans, Nature, 229: 403 (1971)."
+			},
+			{
+				"doi": "10.1080/00337577208234696",
+				"or":  "A. Jostobns and K. Farrel, Rad. Effects, 15: 217 (1972).",
+				"tr":  "A. Jostobns and K. Farrel, Rad. Effects, 15: 217 (1972)."
+			},
+			{
+				"doi": "10.1016/0036-9748(74)90015-5",
+				"or":  "J. O. Steigler and K. Farrel, Scr. Metall., 8: 651 (1974).",
+				"tr":  "J. O. Steigler and K. Farrel, Scr. Metall., 8: 651 (1974)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.53.14782",
+				"or":  "D. Walgraef, J. Lauzeral, and N. M. Ghoniem, Phys. Rev. B, 53: 14782 (1996).",
+				"tr":  "D. Walgraef, J. Lauzeral, and N. M. Ghoniem, Phys. Rev. B, 53: 14782 (1996)."
+			},
+			{
+				"doi": "10.1070/PU1996v039n01ABEH000125",
+				"or":  "F. Kh. Mirzoev, V. Ya. Panchenko, and L. A. Shelepin, Physics-Uspekhi, 39: 1 (1996).",
+				"tr":  "F. Kh. Mirzoev, V. Ya. Panchenko, and L. A. Shelepin, Physics-Uspekhi, 39: 1 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "E. Weinan, Principles of Multiscale Modeling (Cambridge: Cambridge University Press: 2011).",
+				"tr":  "E. Weinan, Principles of Multiscale Modeling (Cambridge: Cambridge University Press: 2011)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2014.06.012",
+				"or":  "C. Varvenne, O. Mackain, and E. Clouet, Acta Mater., 78: 65 (2014).",
+				"tr":  "C. Varvenne, O. Mackain, and E. Clouet, Acta Mater., 78: 65 (2014)."
+			},
+			{
+				"doi": "10.5488/CMP.16.13801",
+				"or":  "V. O. Kharchenko and D. O. Kharchenko, Cond. Matter Phys., 16, No. 1: 13801 (2013).",
+				"tr":  "V. O. Kharchenko and D. O. Kharchenko, Cond. Matter Phys., 16, No. 1: 13801 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "V. O. Kharchenko and S. V. Kokhan, J. Nano- Electron. Phys., 7, No. 2: 012014 (2015).",
+				"tr":  "V. O. Kharchenko and S. V. Kokhan, J. Nano- Electron. Phys., 7, No. 2: 012014 (2015)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.88.245701",
+				"or":  "K. R. Elder, M. Katakowski, M. Haataja, and M. Grant, Phys. Rev. Lett., 88: 245701 (2002).",
+				"tr":  "K. R. Elder, M. Katakowski, M. Haataja, and M. Grant, Phys. Rev. Lett., 88: 245701 (2002)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.80.031602",
+				"or":  "A. Jaatinen, C. V. Achim, K. R. Elder, and T. Ala-Nissila, Phys. Rev. E, 80: 031602 (2009).",
+				"tr":  "A. Jaatinen, C. V. Achim, K. R. Elder, and T. Ala-Nissila, Phys. Rev. E, 80: 031602 (2009)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.73.031609",
+				"or":  "J. Berry, M. Garnt, and K. R. Elder, Phys. Rev. E, 73: 031609 (2006).",
+				"tr":  "J. Berry, M. Garnt, and K. R. Elder, Phys. Rev. E, 73: 031609 (2006)."
+			},
+			{
+				"doi": "10.1016/j.physa.2010.04.027",
+				"or":  "D. Kharchenko, V. Kharchenko, and I. Lysenko, Physica A, 389: 3356 (2010).",
+				"tr":  "D. Kharchenko, V. Kharchenko, and I. Lysenko, Physica A, 389: 3356 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Kharchenko, V. Kharchenko, and I. Lysenko, Cent. Eur. J. Phys., 9, No. 3: 698 (2011).",
+				"tr":  "D. Kharchenko, V. Kharchenko, and I. Lysenko, Cent. Eur. J. Phys., 9, No. 3: 698 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "D. O. Kharchenko, V. O. Kharchenko, S. V. Kokhan, and I. O. Lysenko, Ukr. Fiz. Zhurn., 57, No. 10: 1069 (2012).",
+				"tr":  "D. O. Kharchenko, V. O. Kharchenko, S. V. Kokhan, and I. O. Lysenko, Ukr. Fiz. Zhurn., 57, No. 10: 1069 (2012)."
+			},
+			{
+				"doi": "10.1017/CBO9780511534874",
+				"or":  "A. Onuki, Phase Transition Dynamics (Cambridge: Cambridge University Press: 2002).",
+				"tr":  "A. Onuki, Phase Transition Dynamics (Cambridge: Cambridge University Press: 2002)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.70.184114",
+				"or":  "A. Minami and A. Onuki, Phys. Rev. B, 70: 184114 (2004).",
+				"tr":  "A. Minami and A. Onuki, Phys. Rev. B, 70: 184114 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.68.061502",
+				"or":  "A. Onuki, Phys. Rev. E, 68: 061502 (2003).",
+				"tr":  "A. Onuki, Phys. Rev. E, 68: 061502 (2003)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.72.100101",
+				"or":  "A. Minami and A. Onuki, Phys. Rev. B, 72: 100101 (2005).",
+				"tr":  "A. Minami and A. Onuki, Phys. Rev. B, 72: 100101 (2005)."
+			},
+			{
+				"doi": "10.1080/10420150.2015.1063058",
+				"or":  "D. O. Kharchenko, O. M. Shchokotova, I. O. Lysenko, and V. O. Kharchenko, Rad. Eff. Def. Sol., 170, Nos. 7–8: 584 (2015).",
+				"tr":  "D. O. Kharchenko, O. M. Shchokotova, I. O. Lysenko, and V. O. Kharchenko, Rad. Eff. Def. Sol., 170, Nos. 7–8: 584 (2015)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.65.165414",
+				"or":  "M. Haataja, J. Muller, A. D. Rutenberg, and M. Grant, Phys. Rev. B, 65: 165414 (2002).",
+				"tr":  "M. Haataja, J. Muller, A. D. Rutenberg, and M. Grant, Phys. Rev. B, 65: 165414 (2002)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.69.081201",
+				"or":  "M. Haataja and F. Leonard, Phys. Rev. B, 69: 081201 (2004).",
+				"tr":  "M. Haataja and F. Leonard, Phys. Rev. B, 69: 081201 (2004)."
+			},
+			{
+				"doi": "10.1063/1.2147732",
+				"or":  "M. Haataja, J. Mahon, N. Provatas, and F. Leonard, Appl. Phys. Lett., 87: 251901 (2005).",
+				"tr":  "M. Haataja, J. Mahon, N. Provatas, and F. Leonard, Appl. Phys. Lett., 87: 251901 (2005)."
+			},
+			{
+				"doi": "10.5488/CMP.18.23003",
+				"or":  "D. O. Kharchenko, O. M. Schokotova, A. I. Bashtova, and I. O. Lysenko, Cond. Matter Phys., 18, No. 2: 23003 (2015).",
+				"tr":  "D. O. Kharchenko, O. M. Schokotova, A. I. Bashtova, and I. O. Lysenko, Cond. Matter Phys., 18, No. 2: 23003 (2015)."
+			},
+			{
+				"doi": "10.1103/PhysRevE.82.061108",
+				"or":  "D. O. Kharchenko, V. O. Kharchenko, I. O. Lysenko, and S. V. Kokhan, Phys. Rev. E, 82: 061108 (2010).",
+				"tr":  "D. O. Kharchenko, V. O. Kharchenko, I. O. Lysenko, and S. V. Kokhan, Phys. Rev. E, 82: 061108 (2010)."
+			},
+			{
+				"doi": "10.5488/CMP.14.23602",
+				"or":  "V. O. Kharchenko and D. O. Kharchenko, Cond. Matter Phys., 14, No. 2: 23602 (2011).",
+				"tr":  "V. O. Kharchenko and D. O. Kharchenko, Cond. Matter Phys., 14, No. 2: 23602 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "http://lammps.sandia.gov/",
+				"tr":  "http://lammps.sandia.gov/"
+			},
+			{
+				"doi": "10.1080/09500830701191393",
+				"or":  "M. I. Mendelev and G. J. Ackland, Philos. Mag. Lett., 87: 349 (2007).",
+				"tr":  "M. I. Mendelev and G. J. Ackland, Philos. Mag. Lett., 87: 349 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.29.6443",
+				"or":  "M. S. Daw and M. I. Baskes, Phys. Rev. B, 29: 6443 (1984).",
+				"tr":  "M. S. Daw and M. I. Baskes, Phys. Rev. B, 29: 6443 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "Ch. Kittel, Introduction to Solid State Physics (New York: Wiley: 2004).",
+				"tr":  "Ch. Kittel, Introduction to Solid State Physics (New York: Wiley: 2004)."
+			},
+			{
+				"doi": "10.1021/j100303a014",
+				"or":  "J. D. Honeycutt and H. C. Andersen, J. Phys. Chem., 91, No. 19: 4950 (1987).",
+				"tr":  "J. D. Honeycutt and H. C. Andersen, J. Phys. Chem., 91, No. 19: 4950 (1987)."
+			},
+			{
+				"doi": "10.1016/0927-0256(94)90109-0",
+				"or":  "D. Faken and H. Jonsson, Comput. Mater. Sci., 2, No. 2: 279 (1994).",
+				"tr":  "D. Faken and H. Jonsson, Comput. Mater. Sci., 2, No. 2: 279 (1994)."
+			},
+			{
+				"doi": "10.1088/0965-0393/20/4/045021",
+				"or":  "A. Stukowski, Modelling Simul. Mater. Sci. Eng., 20: 045021 (2012).",
+				"tr":  "A. Stukowski, Modelling Simul. Mater. Sci. Eng., 20: 045021 (2012)."
+			},
+			{
+				"doi": "10.1016/j.physrep.2007.09.004",
+				"or":  "J. H. Li, X. D. Dai, S. H. Liang, K. P. Tai, Y. Kong, and B. X. Liu, Physics Reports, 455: 1 (2008).",
+				"tr":  "J. H. Li, X. D. Dai, S. H. Liang, K. P. Tai, Y. Kong, and B. X. Liu, Physics Reports, 455: 1 (2008)."
+			},
+			{
+				"doi": "10.1038/srep05735",
+				"or":  "P. Qing, J. Wei, L. Jie, C. Xiao-Jia, H. Hanchen, G. Fei, and D. Suvranu, Scientific Reports, 4: 5735 (2014).",
+				"tr":  "P. Qing, J. Wei, L. Jie, C. Xiao-Jia, H. Hanchen, G. Fei, and D. Suvranu, Scientific Reports, 4: 5735 (2014)."
+			}
+		]
+	}
+}

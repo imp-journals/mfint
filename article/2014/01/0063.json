@@ -1,0 +1,219 @@
+{
+	"_id":    "MFiNT.36.01.0063",
+	"year":   2014,
+	"volume": 36,
+	"issue":  1,
+	"pages":  [63,76],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["29.11.2013"],
+	"PACS":   "71.30.+h, 73.50.Jt, 75.47.Gk, 75.47.Lx, 76.30.-v",
+	"title":   {
+		"ua": "Вплив індукованих підкладкою напружень на електричні та магнітні властивості ультратонких плівок La$_{0,6}$Sr$_{0,2}$Mn$_{1,2}$O$_{3}$/LaAlO$_{3}$",
+		"en": "Effect of Substrate-Induced Stresses on the Electrical and Magnetic Properties of Ultrathin La$_{0.6}$Sr$_{0.2}$Mn$_{1.2}$O$_{3}$/LaAlO$_{3}$ Films",
+		"ru": "Влияние индуцированных подложкой напряжений на электрические и магнитные свойства ультратонких плёнок La$_{0,6}$Sr$_{0,2}$Mn$_{1,2}$O$_{3}$/LaAlO$_{3}$"
+	},
+	"abstract": {
+		"ua": "Досліджено магніторезистивні та резонансні властивості ультратонких плівок (2—12 нм) лантан-стронцієвих манганітів з надлишком мангану La$_{0,6}$Sr$_{0,2}$Mn$_{1,2}$O$_{3}$, виготовлених методом магнетронного напорошення на монокристалічній підкладці LaAlO$_{3}$. Вивчено товщинну еволюцію магнітних властивостей плівок. Методом електронного спінового резонансу показано, що плівки є феромагнітними аж до товщини 4 нм; при цьому зберігається досить висока температура Кюрі $Т_{С}$. На основі аналізу магніторезистивних та резонансних даних зроблено висновок про високий ступінь неоднорідності плівок, товщина яких є меншою або дорівнює 4 нм.",
+		"en": "Magnetoresistive and resonance properties of ultrathin films (2—12 nm) of lanthanum-strontium La$_{0.6}$Sr$_{0.2}$Mn$_{1.2}$O$_{3}$ manganites are studied. The films were deposited on LaAlO$_{3}$ single-crystalline substrate by magnetron sputtering. Characteristic features of the evolution of magnetic properties with the decrease of film thickness are specified. The electron-spin resonance studies show that the films are ferromagnetic down to a film thickness of 4 nm and retain a relatively high Curie temperature, $Т_{С}$. Based on the analysis of magnetoresistive and resonance data, it is concluded that the films with the thickness of 4 nm and less display high degree of inhomogeneity.",
+		"ru": "Исследованы магниторезистивные и резонансные свойства ультратонких плёнок (2—12 нм) лантан-стронциевых манганитов с избытком марганца La$_{0,6}$Sr$_{0,2}$Mn$_{1,2}$O$_{3}$, изготовленных методом магнетронного напыления на монокристаллическую подложку LaAlO$_{3}$. Изучена толщинная эволюция магнитных свойств плёнок. Методом электронного спинового резонанса показано, что плёнки ферромагнитны вплоть до толщины 4 нм; при этом сохраняется достаточно высокая температура Кюри $Т_{С}$. На основе анализа магниторезистивных и резонансных данных сделан вывод о высокой степени неоднородности плёнок, толщина которых меньше или равна 4 нм."
+	},
+	"keywords": {
+		"ua": "заміщені манганіти, перехід метал—діелектрик, електронний спіновий резонанс, магнітоопір",
+		"en": "doped manganites, metal—insulator transition, electron spin resonance, magnetoresistance",
+		"ru": "замещённые манганиты, переход металл—диэлектрик, электронный спиновой резонанс, магнетосопротивление"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Т. І. Полек", "en": "T. I. Polek", "ru": "Т. И. Полек"},
+			"OID": [7]
+		},
+		{
+			"AID": {"ua": "Д. й. Под’яловський", "en": "D. I. Podyalovskii", "ru": "Д. И. Подъяловский"},
+			"OID": [7]
+		},
+		{
+			"AID": {"ua": "О. І. Товстолиткін", "en": "O. I. Tovstolytkin", "ru": "А. И. Товстолыткин"},
+			"OID": [7]
+		},
+		{
+			"AID": {"ua": "А. М. Погорілий", "en": "A. M. Pogorilyy", "ru": "А. Н. Погорелый"},
+			"OID": [7]
+		},
+		{
+			"AID": {"ua": "О. В. Пащенко", "en": "O. V. Pashchenko", "ru": "А. В. Пащенко"},
+			"OID": [8]
+		}
+	],
+	"references": {
+		"count": 33,
+		"list":  [
+			{
+				"doi": "10.1088/0022-3727/39/7/R01",
+				"or":  "﻿K. Dörr, J. Phys. D, 39, No. 7: R125 (2006).",
+				"tr":  "K. Dörr, J. Phys. D, 39, No. 7: R125 (2006)."
+			},
+			{
+				"doi": "10.1016/S0370-1573(00)00121-6",
+				"or":  "E. Dagotto, T. Hotta, and A. Moreo, Phys. Rep., 344, No. 1: 1 (2001).",
+				"tr":  "E. Dagotto, T. Hotta, and A. Moreo, Phys. Rep., 344, No. 1: 1 (2001)."
+			},
+			{
+				"doi": "10.1063/1.3204004",
+				"or":  "M. K. Khodzitsky, T. V. Kalmykova, S. I. Tarapov, D. P. Belozorov, A. M. Pogorily, A. I. Tovstolytkin, A. G. Belous, and S. A. Solopan, Appl. Phys. Lett., 95, No. 8: 082903 (2009).",
+				"tr":  "M. K. Khodzitsky, T. V. Kalmykova, S. I. Tarapov, D. P. Belozorov, A. M. Pogorily, A. I. Tovstolytkin, A. G. Belous, and S. A. Solopan, Appl. Phys. Lett., 95, No. 8: 082903 (2009)."
+			},
+			{
+				"doi": "10.1038/nmat3463",
+				"or":  "X. Moya, L. E. Hueso, F. Maccherozzi, A. I. Tovstolytkin, D. I. Podyalovskii, C. Ducati, L. Phillips, M. Ghidini, O. Hovorka, A. Berger, M. E. Vickers, E. Defaÿ, S. S. Dhesi, and N. D. Mathur, Nature Mater., 12, No. 1: 52 (2013).",
+				"tr":  "X. Moya, L. E. Hueso, F. Maccherozzi, A. I. Tovstolytkin, D. I. Podyalovskii, C. Ducati, L. Phillips, M. Ghidini, O. Hovorka, A. Berger, M. E. Vickers, E. Defaÿ, S. S. Dhesi, and N. D. Mathur, Nature Mater., 12, No. 1: 52 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "В. М. Локтев, Ю. Г. Погорелов, Физика низких температур, 26, № 1: 231 (2000).",
+				"tr":  "V. V. Loktev and Yu. G. Pogorelov, Fizika Nizkikh Temperatur, 26, No. 1: 231 (2000) (in Russian)."
+			},
+			{
+				"doi": "10.1126/science.264.5157.413",
+				"or":  "S. Jin, T. H. Tiefel, M. McCormack, R. A. Fastnacht, R. Ramesh, and L. H. Chen, Science, 264, No. 5157: 413 (1994).",
+				"tr":  "S. Jin, T. H. Tiefel, M. McCormack, R. A. Fastnacht, R. Ramesh, and L. H. Chen, Science, 264, No. 5157: 413 (1994)."
+			},
+			{
+				"doi": "10.1063/1.1999835",
+				"or":  "A. I. Tovstolytkin, A. N. Pogorily, A. I. Matviyenko, A. Ya. Vovk, and Zh. Wang, J. Appl. Phys., 98, No. 4: 043902 (2005).",
+				"tr":  "A. I. Tovstolytkin, A. N. Pogorily, A. I. Matviyenko, A. Ya. Vovk, and Zh. Wang, J. Appl. Phys., 98, No. 4: 043902 (2005)."
+			},
+			{
+				"doi": "10.1063/1.124050",
+				"or":  "J. Z. Sun, D. W. Abraham, R. A. Rao, and C. B. Eom, J. Appl. Phys. Lett., 74, No. 20: 3017 (1999).",
+				"tr":  "J. Z. Sun, D. W. Abraham, R. A. Rao, and C. B. Eom, J. Appl. Phys. Lett., 74, No. 20: 3017 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Dvorak, Y. U. Idzerda, S. B. Ogale, S. Shinde, T. Wu, T. Venkatesan, and R. Ramesh, J. Appl. Phys., 97, No. 10: 10C102 (2005).",
+				"tr":  "J. Dvorak, Y. U. Idzerda, S. B. Ogale, S. Shinde, T. Wu, T. Venkatesan, and R. Ramesh, J. Appl. Phys., 97, No. 10: 10C102 (2005)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.60.10259",
+				"or":  "H. W. Zandbergen, S. Freisem, T. Nojima, and J. Aarts, Phys. Rev. B, 60, No. 14: 10259 (1999).",
+				"tr":  "H. W. Zandbergen, S. Freisem, T. Nojima, and J. Aarts, Phys. Rev. B, 60, No. 14: 10259 (1999)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.63.184424",
+				"or":  "A. Biswas, M. Rajeswari, R. C. Srivastava, T. Venkatesan, R. L. Greene, Q. Lu, and A. J. Millis, Phys. Rev. B, 63, No. 18: 184424 (2001).",
+				"tr":  "A. Biswas, M. Rajeswari, R. C. Srivastava, T. Venkatesan, R. L. Greene, Q. Lu, and A. J. Millis, Phys. Rev. B, 63, No. 18: 184424 (2001)."
+			},
+			{
+				"doi": "10.1063/1.1757030",
+				"or":  "Yu. A. Boikov, R. Gunnarsson, and T. Claeson, J. Appl. Phys., 96: 435 (2004).",
+				"tr":  "Yu. A. Boikov, R. Gunnarsson, and T. Claeson, J. Appl. Phys., 96, 435 (2004)."
+			},
+			{
+				"doi": "10.1063/1.1331658",
+				"or":  "R. P. Borges,W. Guichard, J. G. Lunney, J. M. D. Coey, and F. Ott, J. Appl. Phys, 89, No. 7: 3868 (2001).",
+				"tr":  "R. P. Borges,W. Guichard, J. G. Lunney, J. M. D. Coey, and F. Ott, J. Appl. Phys, 89, No. 7: 3868 (2001)."
+			},
+			{
+				"doi": "10.1063/1.1812599",
+				"or":  "M. Angeloni, G. Balestrino, N. G. Boggio, P. G. Medaglia, P. Orgiani, and A. Tebano, J. Appl. Phys., 96, No. 11: 6387 (2004).",
+				"tr":  "M. Angeloni, G. Balestrino, N. G. Boggio, P. G. Medaglia, P. Orgiani, and A. Tebano, J. Appl. Phys., 96, No. 11: 6387 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.78.094413",
+				"or":  "M. Huijben, L. W. Martin, Y.-H. Chu, M. B. Holcomb, P. Yu, G. Rijnders, D. H. A. Blank, and R. Ramesh, Phys. Rev. B, 78, No. 9: 094413 (2008).",
+				"tr":  "M. Huijben, L. W. Martin, Y.-H. Chu, M. B. Holcomb, P. Yu, G. Rijnders, D. H. A. Blank, and R. Ramesh, Phys. Rev. B, 78, No. 9: 094413 (2008)."
+			},
+			{
+				"doi": "10.1063/1.367310",
+				"or":  "A. J. Millis, T. Darling, and A. Migliori, J. Appl. Phys., 83, No. 3: 1588 (1998).",
+				"tr":  "A. J. Millis, T. Darling, and A. Migliori, J. Appl. Phys., 83, No. 3: 1588 (1998)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.75.104423",
+				"or":  "L. Bray, Phys. Rev. B, 75, No. 10: 104423 (2007).",
+				"tr":  "L. Bray, Phys. Rev. B, 75, No. 10: 104423 (2007)."
+			},
+			{
+				"doi": "10.1063/1.1594838",
+				"or":  "A. de Andres, J. Rubio, G. Casto, S. Taboada, J. L. Martines, and J. M. Colino, Appl. Phys. Lett., 83, No. 4: 713 (2003).",
+				"tr":  "A. de Andres, J. Rubio, G. Casto, S. Taboada, J. L. Martines, and J. M. Colino, Appl. Phys. Lett., 83, No. 4: 713 (2003)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.76.224415",
+				"or":  "I. C. Infante, F. Sánchez, J. Fontcuberta, M. Wojcik, E. Jedryka, S. Estradé, and J. P. Espinós, Phys. Rev. B, 76, No. 22: 224415 (2007).",
+				"tr":  "I. C. Infante, F. Sánchez, J. Fontcuberta, M. Wojcik, E. Jedryka, S. Estradé, and J. P. Espinós, Phys. Rev. B, 76, No. 22: 224415 (2007)."
+			},
+			{
+				"doi": "10.1109/TMAG.2008.2001523",
+				"or":  "N. M. Nemes, M. Garcia-Hernandez, Z. Szatmari, T. Feher, F. Simon, C. Visani, and J. Santamaria, IEEE Trans. Magn., 44, No. 11: 2926 (2008).",
+				"tr":  "N. M. Nemes, M. Garcia-Hernandez, Z. Szatmari, T. Feher, F. Simon, C. Visani, and J. Santamaria, IEEE Trans. Magn., 44, No. 11: 2926 (2008)."
+			},
+			{
+				"doi": "10.1002/mawe.201100748",
+				"or":  "A. I. Tovstolytkin, A. I. Matviyenko, V. M. Tsmots, L. I. Pankiv, and I. S. Pankiv, Materialwissenschaft und Werkstofftechnik, 42, No. 2: 151 (2011).",
+				"tr":  "A. I. Tovstolytkin, A. I. Matviyenko, V. M. Tsmots, L. I. Pankiv, and I. S. Pankiv, Materialwissenschaft und Werkstofftechnik, 42, No. 2: 151 (2011)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.83.184404",
+				"or":  "A. I. Tovstolytkin, V. V. Dzyublyuk, D. I. Podyalovskii, X. Moya, C. Israel, D. Sánchez, and N. D. Mathur, Phys. Rev. B, 83, No. 18: 184404 (2011).",
+				"tr":  "A. I. Tovstolytkin, V. V. Dzyublyuk, D. I. Podyalovskii, X. Moya, C. Israel, D. Sánchez, and N. D. Mathur, Phys. Rev. B, 83, No. 18: 184404 (2011)."
+			},
+			{
+				"doi": "10.1088/0953-8984/21/38/386003",
+				"or":  "A. I. Tovstolytkin, A. M. Pogorily, Y. I. Dzhezherya, V. V. Dzyublyuk, and D. J. Mapps, J. Phys.: Condens. Matter, 21, No. 38: 386003 (2009).",
+				"tr":  "A. I. Tovstolytkin, A. M. Pogorily, Y. I. Dzhezherya, V. V. Dzyublyuk, and D. J. Mapps, J. Phys.: Condens. Matter, 21, No. 38: 386003 (2009)."
+			},
+			{
+				"doi": "10.1134/S1063776109010075",
+				"or":  "G. A. Ovsyannikov, A. M. Petrzhik, I. V. Borisenko, A. A. Klimov, Y. A. Ignatov, V. V. Demidov, and S. A. Nikitov, J. Exp. Theor. Phys., 108, No. 1: 48 (2009).",
+				"tr":  "G. A. Ovsyannikov, A. M. Petrzhik, I. V. Borisenko, A. A. Klimov, Y. A. Ignatov, V. V. Demidov, and S. A. Nikitov, J. Exp. Theor. Phys., 108, No. 1: 48 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Т. Довгий, А. И. Линник, В. П. Пащенко, В. Н. Деркаченко, В. К. Прокопенко, В. А. Турченко, Н. В. Давыдейко, Физика низких температур, 29, № 4: 380 (2003).",
+				"tr":  "V. T. Dovhiy, A. I. Linnik, V. P. Pashchenko, V. N. Derkachenko, V. K. Prokopenko, V. A. Turchenko, and N. V. Davydeyko, Fizika Nizkikh Temperatur, 29, No. 4: 380 (2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Пащенко, А. А. Шемяков, И. В. Жихарев и др., Металлофиз. новейшие технол., 27, № 12: 1567 (2005).",
+				"tr":  "V. P. Pashchenko, A. A. Shemyakov, I. V. Zhikharev et al., Metallofiz. Noveishie Tekhnol., 27, No. 12: 1567 (2005) (in Russian)."
+			},
+			{
+				"doi": "10.1023/A:1022198613723",
+				"or":  "А. Г. Белоус, О. И. Вьюнов, Е. В. Пашкова, О. З. Янчевский, А. И. Товстолыткин, А. Н. Погорелый, Неорг. матер., 39, № 2: 212 (2003).",
+				"tr":  "A. G. Belous, O. I. V'yunov, E. V. Pashkova, O. Z. Yanchevskiy, A. I. Tovstolytkin, and A. N. Pogorelyy, Inorg. Mater., 39, No. 2: 161 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "A. I. Tovstolytkin, A. N. Pogorily, S. V. Cherepov, G. V. Bondarkova, and V. I. Silantiev, Металлофиз. новейшие технол., 22, № 11: 23 (2000).",
+				"tr":  "A. I. Tovstolytkin, A. N. Pogorily, S. V. Cherepov, G. V. Bondarkova, and V. I. Silantiev, Metallofiz. Noveishie Tekhnol., 22, No. 11: 23 (2000)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/SSP.200.239",
+				"or":  "A. I. Tovstolytkin, T. I. Polek, A. I. Matviyenko, M. I. Zakharenko, M. P. Semen’ko, and A. V. Pashchenko, Solid State Phenom., 200: 239 (2013).",
+				"tr":  "A. I. Tovstolytkin, T. I. Polek, A. I. Matviyenko, M. I. Zakharenko, M. P. Semen'ko, and A. V. Pashchenko, Solid State Phenom., 200: 239 (2013)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.75.3336",
+				"or":  "P. Schiffer, A. P. Ramirez, W. Bao, and S.-W. Cheong, Phys. Rev. Lett., 75, No. 18: 3336 (1995).",
+				"tr":  "P. Schiffer, A. P. Ramirez, W. Bao, and S.-W. Cheong, Phys. Rev. Lett., 75, No. 18: 3336 (1995)."
+			},
+			{
+				"doi": "10.1063/1.3355890",
+				"or":  "V. O. Golub, V. V. Dzyublyuk, A. I. Tovstolytkin, S. K. Arora, R. Ramos, R. G. Sofin, and I. V. Shvets, J. Appl. Phys., 107, No. 9: 09B108 (2010).",
+				"tr":  "V. O. Golub, V. V. Dzyublyuk, A. I. Tovstolytkin, S. K. Arora, R. Ramos, R. G. Sofin, and I. V. Shvets, J. Appl. Phys., 107, No. 9: 09B108 (2010)."
+			},
+			{
+				"doi": "10.1103/PhysRev.73.155",
+				"or":  "C. Kittel, Phys. Rev., 73, No. 2: 155 (1948).",
+				"tr":  "C. Kittel, Phys. Rev., 73, No. 2: 155 (1948)."
+			},
+			{
+				"doi": "10.1063/1.1478787",
+				"or":  "M. Ziese, H. C. Semmelhack, K. H. Han, S. P. Sena, and H. J. Blythe, J. Appl. Phys., 91, No. 12: 9930 (2002).",
+				"tr":  "M. Ziese, H. C. Semmelhack, K. H. Han, S. P. Sena, and H. J. Blythe, J. Appl. Phys., 91, No. 12: 9930 (2002)."
+			}
+		]
+	}
+}

@@ -1,0 +1,101 @@
+{
+	"_id":    "MFiNT.36.12.1661",
+	"year":   2014,
+	"volume": 36,
+	"issue":  12,
+	"pages":  [1661,1670],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["27.03.2014"],
+	"PACS":   "62.20.fg, 64.70.kd, 64.75.Op, 75.60.Ej, 81.30.Kf, 81.40.Cd, 81.40.Rs",
+	"title":   {
+		"ua": "Особливості гістерезису мартенситного перетворення в стопах Cu—Al—Mn",
+		"en": "Features of Hysteresis of Martensitic Transformations in Cu—Al—Mn Alloys",
+		"ru": "Особенности гистерезиса мартенситного превращения в сплавах Cu—Al—Mn"
+	},
+	"abstract": {
+		"ua": "Досліджено зв’язок між частковим розпадом аустеніту та характеристиками термопружнього мартенситного перетворення у стопах, що містять 12—13% ваг. Al та 6—10% ваг. Mn. Зменшення гістерези мартенситного перетворення $\\Delta T$ на ранніх стадіях старіння може бути пов’язано зі зростанням кількости частинок фази Cu$_{2}$MnAl, які є малими та пружньо деформованими. У частинках індукуються внутрішні напруги, що протидіють зсуву.",
+		"en": "In Cu—Al—Mn alloys containing 12—13% wt. Al and 6—10% wt. Mn, the correlation between the incomplete decomposition of austenite and the characteristics of thermoelastic martensitic transformation is revealed. The decreasing of hysteresis, $\\Delta T$, is caused by the increase of the Cu$_{2}$MnAl phase amount, when the particles of the indicated phase are small and elastically deformed. In particles, internal stresses are induced and resist to a shift.",
+		"ru": "Исследована связь между частичным распадом аустенита и характеристиками термоупругого мартенситного превращения в сплавах, содержащих 12—13% масс. Al и 6—10% масс. Mn. Уменьшение гистерезиса мартенситного превращения $\\Delta T$ на ранних стадиях старения может быть связано с увеличением количества частиц фазы Cu$_{2}$MnAl, которые малы и упруго деформированы. В частицах индуцируются внутренние напряжения, противодействующие сдвигу."
+	},
+	"keywords": {
+		"ua": "мартенситне перетворення, термопружність, гістерезис",
+		"en": "martensitic transformation, thermoelasticity, hysteresis",
+		"ru": "мартенситное превращение, термоупругость, гистерезис"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. Р. Бублей", "en": "I. R. Bubley", "ru": "И. Р. Бублей"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Ю. М. Коваль", "en": "Yu. N. Koval’", "ru": "Ю. Н. Коваль"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "П. В. Тітов", "en": "P. V. Titov", "ru": "П. В. Титов"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 11,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "H. Warlimont and L. Delaey, Martensitic Transformation in Copper-, Silver- and Gold-Based Alloys (Oxford: Pergamon Press: 1974).",
+				"tr":  "H. Warlimont and L. Delaey, Martensitic Transformation in Copper-, Silver- and Gold-based Alloys (Oxford: Pergamon Press: 1974)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Koster and T. Godeke, Zeitschrift für Metallkunde, 57, Nо. 2: 882 (1966).",
+				"tr":  "W. Koster and T. Godeke, Zeitschrift für Metallkunde, 57, No. 2: 882 (1966)."
+			},
+			{
+				"doi": "10.1016/0001-6160(75)90159-5",
+				"or":  "M. Bouchard and G. Thomas, Acta Met., 23, Nо. 12: 1485 (1975).",
+				"tr":  "M. Bouchard and G. Thomas, Acta Met., 23, No. 12: 1485 (1975)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.58.14245",
+				"or":  "E. Orgado, С. Frontera, L. Manosa, and A. Planes, Phys. Rev. B, 58, Nо. 21: 14245 (1998).",
+				"tr":  "E. Orgado, C. Frontera, L. Manosa, and A. Planes, Phys. Rev. B, 58, No. 21: 14245 (1998)."
+			},
+			{
+				"doi": "10.1016/S1359-6462(99)00140-2",
+				"or":  "I. R. Bubley, Yu. N. Koval, and P. V. Titov, Scripta Materialia, 41, Nо. 6: 637 (1999).",
+				"tr":  "I. R. Bubley, Yu. N. Koval, and P. V. Titov, Scripta Materialia, 41, No. 6: 637 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "R. M. Bozorth, Ferromagnetism (Toronto: David Van Nostrand Company Inc.: 1951).",
+				"tr":  "R. M. Bozorth, Ferromagnetism (Toronto: David Van Nostrand Company Inc.: 1951)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Курдюмов, Л. Г. Хандрос, ДАН СССР, 66: 211 (1949).",
+				"tr":  "G. V. Kurdyumov and L. G. Khandros, Dokl. AN SSSR, 66: 211 (1949) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Kaufman and М. Cohen, Progress in Metal Physics. Vol. 7 (Eds. B. Chalmers and R. King) (London: Pergamon Press: 1958), p. 165.",
+				"tr":  "L. Kaufman and M. Cohen, Progress in Metal Physics. Vol. 7 (Eds. B. Chalmers and R. King) (London: Pergamon Press: 1958), p. 165."
+			},
+			{
+				"doi": "10.1016/0001-6160(65)90066-0",
+				"or":  "A. G. Goldman and W. D. Robertson, Acta Met., Nо. 13: 391 (1965).",
+				"tr":  "A. G. Goldman and W. D. Robertson, Acta Met., No. 13: 391 (1965)."
+			},
+			{
+				"doi": "10.1016/S1359-6462(98)00368-6",
+				"or":  "Yu. N. Koval’ and P. V. Titov, Scripta Materialia, 39, Iss. 12: 1693 (1998).",
+				"tr":  "Yu. N. Koval' and P. V. Titov, Scripta Materialia, 39, Iss. 12: 1693 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. Любов, А. Ройтбурд, ДАН СССР, 120: 1011 (1958).",
+				"tr":  "B. Lyubov and A. Roytburd, Dokl. AN SSSR, 120: 1011 (1958) (in Russian)."
+			}
+		]
+	}
+}

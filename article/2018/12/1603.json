@@ -1,0 +1,277 @@
+{
+	"_id":    "MFiNT.40.12.1603",
+	"year":   2018,
+	"volume": 40,
+	"issue":  12,
+	"pages":  [1603,1624],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["18.04.2018","17.10.2018"],
+	"PACS":   "61.72.Ff, 62.20.M-, 62.20.Qp, 64.75.Nx, 81.05.Bx, 81.30.Kf, 81.40.Gh",
+	"title":   {
+		"ua": "Формування гетерофазної структури в низьколеґованій сталі застосуванням інноваційної технології термічного оброблення «Quenching and Partitioning»",
+		"en": "Formation of a Heterophase Structure in Low-Alloyed Steel by Means of Application of Innovative Technology of Heat Treatment by ‘Quenching and Partitioning’",
+		"ru": "Формирование гетерофазной структуры в низколегированной стали применением инновационной технологии термической обработки «Quenching and Partitioning»"
+	},
+	"abstract": {
+		"ua": "У статті описано фазово-структурний склад і механічні властивості низьколеґованої сталі 60С2ХФА, підданої обробленню «Quenching and Partitioning» (Q-n-P). Режим оброблення включав: а) аустенітизацію при 880°C; б) гартувальне охолодження до температури «Quenching» (240, 200, 160°C) у ванні з розтопом Вудового стопу; в) витримку за температури «Partitioning» (270, 300°C) у ванні з розтопом ПОС-61 впродовж 300–3600 с для перерозподілу вуглецю з мартенситу в аустеніт; г) остаточне охолодження на спокійному повітрі. Встановлено, що Q-n-P-оброблення приводить до формування мультифазної структури, що складається з мартенситу відпускання, безкарбідного нижнього бейніту та залишкового аустеніту. Оптимальне поєднання властивостей досягається при загартуванні до 160–200°C з формуванням 50–70% мартенситу та подальшій витримці при 300°C протягом часу, потрібного для завершення бейнітного перетворення (300 с). У цьому випадку концентрація вуглецю в аустеніті підвищується до 0,95–1,05%, що супроводжується зростанням об’ємної частки залишкового аустеніту до 19%. Після такого оброблення досягається висока міцність (межа міцности — 2000–2100 МПа, твердість — 52–54 HRC) за підвищених пластичности ($\\delta$ = 4–6%, $\\psi$ = 4–19%) й ударної в’язкости (KСU$_{20}$ = 59–67 Дж/см$^2$). Руйнування Q-n-P-обробленої сталі при динамічному навантаженні відбувається за переважно в’язким механізмом, що поєднує квазисколення з утворенням ямок в’язкого відриву. Збільшення часу витримки на стадії «Partitioning» призводить до пониження рівня комплексу механічних властивостей, що пов’язане зі зменшенням вмісту залишкового аустеніту до 11–12%, ймовірно, за рахунок перетворення збагаченого аустеніту за бейнітною реакцією. Це супроводжується додатковим підвищенням вмісту вуглецю в залишковому аустеніті до 1,28–1,32%.",
+		"en": "The article contains a description of the phase–structural composition and mechanical properties of low-alloyed steel 60Si2CrVА (0.53% С; 1.46% Si; 0.44% Mn; 0.95% Cr; 0.10% V; 0.016% S; 0.013% P) subjected to ‘Quenching and Partitioning’ (Q-n-P) heat treatment. This treatment is known for notable improving the complex of mechanical properties in low-alloyed steels that is beneficial for steel cost reducing. Treatment mode included: a) austenitization at 880°C; b) quenching to the temperature ‘Q’ (240, 200, 160°C) in the bath of Wood’s alloy melt; c) holding at ‘Partitioning’ temperature (270, 300°C) in a bath with a Pb–Sn alloy melt for 300–3600 s to partition the carbon from fresh martensite to austenite; d) final cooling in a quiescent air. The present work is carried out using SEM microscopy (Ultra-55, Carl Zeiss), TEM microscopy (JEM-100-C-XII, Jeol), x-ray diffraction (Pro-IV, Rigaku), mechanical testing (tensile testing, fracture toughness, hardness measurements). The volume fraction of quenched martensite is calculated according to Koistinen–Marburger equation. As established, the Q-n-P treatment results in the formation of multiphase structure consisting of the tempered martensite, carbide-free lower bainite, retained austenite, and dispersed vanadium carbides. The best combination of mechanical properties is achieved by quenching to 160–200°C with the formation of 50–70% of martensite and subsequent holding at 300°C for a time required to complete the bainite transformation ($\\cong$ 300 s). In this case, the carbon concentration in the austenite rises to 0.95–1.05% that is accompanied by an increase in the volume fraction of retained austenite to 19%. According the data of TEM observations, the retained austenite is revealed as blocky or elongated areas adjacent to martensite as well as films of 20–60 nm width lying between the bainitic ferrite laths of 100–470 nm width. No sign of carbides (transition ones or cementite) is found on the TEM images. This is because of presence of 1.46% Si, which effectively inhibits the carbide precipitation from austenite and from martensite. The mentioned above treatment allows to achieve high strength (ultimate tensile strength of 2000–2100 MPa) and bulk hardness of 52–54 HRC combined with the increased ductility (elongation of 4–6%, reduction of 4–19%) and impact toughness (KCU$_{20}$ = 59–67 J/cm$^2$) with PSE values of 10.6–12 GPa. The fracture of Q-n-P-treated steel under dynamic loading occurs through the predominantly ductile mechanism that combines the quasi-cleavage fracture with the void coalescence and dimples formation. The quenching at 240°C results in the lower content of quenched martensite (18%) that leads to decrease of the retained-austenite volume fraction after partitioning. The increase in the soaking time at the ‘Partitioning’ stage up to 1800–3600 s leads to degradation of mechanical properties, which is ascribed to a decrease in the content of retained austenite down to 11–12%, presumably, because of prolonged transformation of the enriched austenite into the bainite via bainitic reaction. This is accompanied by an increase in the carbon content in the retained austenite up to 1.28–1.32%. The presumable scenarios of structure transformations under Q-n-P heat treatment are discussed.",
+		"ru": "В статье описаны фазово-структурный состав и механические свойства низколегированной стали 60С2ХФА, подвергнутой обработке «Quenching and Partitioning» (Q-n-P). Режим обработки включал: а) аустенитизацию при 880°C; б) закалочное охлаждение до температуры «Quenching» (240, 200, 160°C) в ванне с расплавом сплава Вуда; в) выдержку при температуре «Partitioning» (270, 300°C) в ванне с расплавом ПОС-61 в течение 300–3600 с для перераспределения углерода из мартенсита в аустенит; г) окончательное охлаждение на спокойном воздухе. Установлено, что Q-n-P-обработка приводит к формированию мультифазной структуры, состоящей из мартенсита отпуска, бескарбидного нижнего бейнита и остаточного аустенита. Лучшее сочетание свойств достигается при закалке до 160–200°C с формированием 50–70% мартенсита и последующей выдержке при 300°C в течение времени, необходимого для завершения бейнитного превращения (300 с). В этом случае концентрация углерода в аустените повышается до 0,95–1,05%, что сопровождается ростом объёмной доли остаточного аустенита до 19%. После такой обработки достигается высокая прочность (предел прочности — 2000–2100 МПа, твёрдость — 52–54 HRC) при повышенных пластичности ($\\delta$ = 4–6%, $\\psi$ = 4–19%) и ударной вязкости (KСU$_{20}$ = 59–67 Дж/см$^2$). Разрушение Q-n-P-обработанной стали при динамическом нагружении происходит по преимущественно вязкому механизму, сочетающему квазискол с образованием ямок вязкого отрыва. Увеличение времени выдержки на стадии «Partitioning» приводит к снижению уровня комплекса механических свойств, что связано с уменьшением содержания остаточного аустенита до 11–12%, предположительно, за счёт превращения обогащённого аустенита по бейнитной реакции. Это сопровождается дополнительным повышением содержания углерода в остаточном аустените до 1,28–1,32%."
+	},
+	"keywords": {
+		"ua": "Q-n-P-оброблення, міцність, пластичність, мартенсит, аустеніт, безкарбідний бейніт",
+		"en": "Q-n-P treatment, strength, ductility, martensite, austenite, carbide-free bainite",
+		"ru": "Q-n-P-обработка, прочность, пластичность, мартенсит, аустенит, бескарбидный бейнит"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. І. Зурнаджи", "en": "V. І. Zurnadzhy", "ru": "В. И. Зурнаджи"},
+			"OID": [228]
+		},
+		{
+			"AID": {"ua": "В. Г. Єфременко", "en": "V. G. Efremenko", "ru": "В. Г. Ефременко"},
+			"OID": [228]
+		},
+		{
+			"AID": {"ua": "В. Г. Гаврилова", "en": "V. G. Gavrilova", "ru": "В. Г. Гаврилова"},
+			"OID": [228]
+		},
+		{
+			"AID": {"ua": "Р. О. Кусса", "en": "R. O. Kussa", "ru": "Р. А. Кусса"},
+			"OID": [228]
+		},
+		{
+			"AID": {"ua": "А. В. Єфременко", "en": "А. V. Efremenko", "ru": "А. В. Ефременко"},
+			"OID": [228]
+		},
+		{
+			"AID": {"ua": "В. В. Кудін", "en": "V. V. Kudin", "ru": "В. В. Кудин"},
+			"OID": [220]
+		},
+		{
+			"AID": {"ua": "М. В. Помазков", "en": "M. V. Pomazkov", "ru": "М. В. Помазков"},
+			"OID": [228]
+		}
+	],
+	"references": {
+		"count": 43,
+		"list":  [
+			{
+				"doi": "10.1179/1743284713Y.0000000428",
+				"or":  "C. Garcia-Mateo, T. Sourmail, F. G. Caballero, V. Smanio, M. Kuntz, C. Ziegler, A. Leiro, E. Vuorinen, R. Elvira, and T. Teeri, Mater. Sci. Technol., 30: 1071 (2014).",
+				"tr":  "C. Garcia-Mateo, T. Sourmail, F. G. Caballero, V. Smanio, M. Kuntz, C. Ziegler, A. Leiro, E. Vuorinen, R. Elvira, and T. Teeri, Mater. Sci. Technol., 30: 1071 (2014)."
+			},
+			{
+				"doi": "10.1016/j.cossms.2004.09.003",
+				"or":  "J. G. Speer, D. V. Edmonds, F. C. Rizzo, and D. K. Matlock, Current Opinion in Solid State Mater. Sci., 8: 219 (2004).",
+				"tr":  "J. G. Speer, D. V. Edmonds, F. C. Rizzo, and D. K. Matlock, Current Opinion in Solid State Mater. Sci., 8: 219 (2004)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/SSP.284.408",
+				"or":  "V. V. Kukhar, A. V. Grushko, and I. V. Vishtak, Solid State Phenom., 284: 408 (2018).",
+				"tr":  "V. V. Kukhar, A. V. Grushko, and I. V. Vishtak, Solid State Phenom., 284: 408 (2018)."
+			},
+			{
+				"doi": "10.1016/j.msea.2016.03.042",
+				"or":  "Q. Li, X. Huang and W. Huang, Mater. Sci. Eng. A, 662: 129 (2016).",
+				"tr":  "Q. Li, X. Huang and W. Huang, Mater. Sci. Eng. A, 662: 129 (2016)."
+			},
+			{
+				"doi": "10.1016/j.msea.2008.11.014",
+				"or":  "N. Zhong, X. D. Wang, L. Wang, and Y. H. Rong, Mater. Sci. Eng. A, 506: 111 (2009).",
+				"tr":  "N. Zhong, X. D. Wang, L. Wang, and Y. H. Rong, Mater. Sci. Eng. A, 506: 111 (2009)."
+			},
+			{
+				"doi": "10.1016/j.msea.2016.12.026",
+				"or":  "S. Yan, X. Liu, W. J. Liu, T. Liang, B. Zhang, L. Liu, and Y. Zhao, Mater. Sci. Eng. A, 684: 261 (2017).",
+				"tr":  "S. Yan, X. Liu, W. J. Liu, T. Liang, B. Zhang, L. Liu, and Y. Zhao, Mater. Sci. Eng. A, 684: 261 (2017)."
+			},
+			{
+				"doi": "10.1590/S1516-14392005000400010",
+				"or":  "J. G. Speer, F. C. Rizzo, D. K. Matlock, and D. V. Edmonds, Mat. Res., 8: 417 (2005).",
+				"tr":  "J. G. Speer, F. C. Rizzo, D. K. Matlock, and D. V. Edmonds, Mat. Res., 8: 417 (2005)."
+			},
+			{
+				"doi": "10.1007/s11003-017-0045-3",
+				"or":  "V. G. Efremenko, V. I. Zurnadzhi, Yu. G. Chabak, O. V. Tsvetkova, and A. V. Dzherenova, Mater. Sci., 53, No. 1: 67 (2017).",
+				"tr":  "V. G. Efremenko, V. I. Zurnadzhi, Yu. G. Chabak, O. V. Tsvetkova, and A. V. Dzherenova, Mater. Sci., 53, No. 1: 67 (2017)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2007.08.051",
+				"or":  "A. J. Clarke, J. G. Speer, M. K. Miller, R. E. Hackenberg, D. V. Edmonds, D. K. Matlock, and E. De Moor, Acta Mater., 56: 16 (2008).",
+				"tr":  "A. J. Clarke, J. G. Speer, M. K. Miller, R. E. Hackenberg, D. V. Edmonds, D. K. Matlock, and E. De Moor, Acta Mater., 56: 16 (2008)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2011.06.014",
+				"or":  "M. J. Santofimia, L. Zhao, R. Petrov, C. Kwakernaak, W. G. Sloof, and J. Sietsma, Acta Mater., 59: 6059 (2011).",
+				"tr":  "M. J. Santofimia, L. Zhao, R. Petrov, C. Kwakernaak, W. G. Sloof, and J. Sietsma, Acta Mater., 59: 6059 (2011)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2014.11.049",
+				"or":  "Y. Toji, G. Miyamoto, and D. Raabe, Acta Materialia, 86: 137 (2015).",
+				"tr":  "Y. Toji, G. Miyamoto, and D. Raabe, Acta Materialia, 86: 137 (2015)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2013.12.028",
+				"or":  "H. Jirkova, B. Masek, M. F.-X. Wagner, D. Langmajerova, L. Kucerova, R. Treml, and D. Kiener, J. Alloys Compd., 615: 163 (2014).",
+				"tr":  "H. Jirkova, B. Masek, M. F.-X. Wagner, D. Langmajerova, L. Kucerova, R. Treml, and D. Kiener, J. Alloys Compd., 615: 163 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "O. Hesse, J. Merker, M. Brykov, and V. Efremenko, Tribol. Schmierungstech., 60, No. 6: 37 (2013) (in German).",
+				"tr":  "O. Hesse, J. Merker, M. Brykov, and V. Efremenko, Tribol. Schmierungstech., 60, No. 6: 37 (2013) (in German)."
+			},
+			{
+				"doi": "",
+				"or":  "L. S. Malinov, Russian Metallurgy (Metally), 6: 81 (1999).",
+				"tr":  "L. S. Malinov, Russian Metallurgy (Metally), 6: 81 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "M. F. Gallagher, J. G. Speer, D. K. Matlock, and N. M. Fonstein, Proc. of Symp. ‘Zinc-Coated Steels’ (Sept., 2002) (Warrendale, PA: ISS-AIME: 2002), p. 153.",
+				"tr":  "M. F. Gallagher, J. G. Speer, D. K. Matlock, and N. M. Fonstein, Proc. of Symp. 'Zinc-Coated Steels' (Sept., 2002) (Warrendale, PA: ISS-AIME: 2002), p. 153."
+			},
+			{
+				"doi": "10.1016/j.msea.2012.04.031",
+				"or":  "C. Garcia-Mateo, F. G. Caballero, T. Sourmail, M. Kuntz, J. Cornide, V. Smanio, and R. Elvira, Mater. Sci. Eng. A, 549: 185 (2012).",
+				"tr":  "C. Garcia-Mateo, F. G. Caballero, T. Sourmail, M. Kuntz, J. Cornide, V. Smanio, and R. Elvira, Mater. Sci. Eng. A, 549: 185 (2012)."
+			},
+			{
+				"doi": "10.1016/j.msea.2013.12.054",
+				"or":  "J. Sun, H. Yu, S. Wang, and Y. Fan, Mater. Sci. Eng. A, 596: 89 (2014).",
+				"tr":  "J. Sun, H. Yu, S. Wang, and Y. Fan, Mater. Sci. Eng. A, 596: 89 (2014)."
+			},
+			{
+				"doi": "10.1016/j.msea.2013.07.046",
+				"or":  "J. Zhang, H. Ding, C. Wang, J. Zhao, and T. Ding, Mater. Sci. Eng. A, 585: 132 (2013).",
+				"tr":  "J. Zhang, H. Ding, C. Wang, J. Zhao, and T. Ding, Mater. Sci. Eng. A, 585: 132 (2013)."
+			},
+			{
+				"doi": "10.5604/01.3001.0010.4885",
+				"or":  "O. P. Ostash, V. V. Kulyk, V. D. Poznyakov, O. A. Haivorons’kyi, L. I. Markashova, V. V. Vira, Z. A. Duriagina, and T. L. Tepla, Arch. Mater. Sci. Eng., 86, No. 2: 49 (2017).",
+				"tr":  "O. P. Ostash, V. V. Kulyk, V. D. Poznyakov, O. A. Haivorons'kyi, L. I. Markashova, V. V. Vira, Z. A. Duriagina, and T. L. Tepla, Arch. Mater. Sci. Eng., 86, No. 2: 49 (2017)."
+			},
+			{
+				"doi": "10.1016/j.msea.2013.08.021",
+				"or":  "J. Sun and H. Yu, Mater. Sci. Eng. A, 586: 100 (2013).",
+				"tr":  "J. Sun and H. Yu, Mater. Sci. Eng. A, 586: 100 (2013)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2005.08.017",
+				"or":  "N. H. Van Dijk, A. M. Butt, and L. Zhao, Acta Mater., 53, No. 20: 5439 (2005).",
+				"tr":  "N. H. Van Dijk, A. M. Butt, and L. Zhao, Acta Mater., 53, No. 20: 5439 (2005)."
+			},
+			{
+				"doi": "10.1007/s12666-016-0941-5",
+				"or":  "M. Zhou, G. Xu, and L. Wang, Trans. Indian Inst. Met., 70, No 6: 1447 (2017).",
+				"tr":  "M. Zhou, G. Xu, and L. Wang, Trans. Indian Inst. Met., 70, No 6: 1447 (2017)."
+			},
+			{
+				"doi": "10.1016/j.msea.2011.07.008",
+				"or":  "S. Zhou, K. Zhang, Y. Wang, J. F. Gu, and Y. H. Rong, Mater. Sci. Eng. A, 528: 8006 (2011).",
+				"tr":  "S. Zhou, K. Zhang, Y. Wang, J. F. Gu, and Y. H. Rong, Mater. Sci. Eng. A, 528: 8006 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "М. И. Гольдштейн, С. В. Грачев, Ю. Г. Векслер, Специальные стали (Москва: Металлургия: 1985).",
+				"tr":  "M. I. Gol'dshtein, S. V. Grachev, and Yu. G. Veksler, Special'nye Stali [Alloyed Steels] (Moscow: Metallurgiya: 1985) (in Russian)."
+			},
+			{
+				"doi": "10.1007/BF02467631",
+				"or":  "L. N. Belyakov, A. F. Petrakov, N. G. Pokrovskaya, and A. B. Shal’kevich, Met. Sci. Heat Treat., 39, No. 8: 334 (1998).",
+				"tr":  "L. N. Belyakov, A. F. Petrakov, N. G. Pokrovskaya, and A. B. Shal'kevich, Met. Sci. Heat Treat., 39, No. 8: 334 (1998)."
+			},
+			{
+				"doi": "10.3103/S1068366612020079",
+				"or":  "A. D. Koval, V. G. Efremenko, M. N. Brykov, M. I. Andrushchenko, R. A. Kulikovskii, and A. V. Efremenko, J. Friction Wear, 33, No. 2: 153 (2012).",
+				"tr":  "A. D. Koval, V. G. Efremenko, M. N. Brykov, M. I. Andrushchenko, R. A. Kulikovskii, and A. V. Efremenko, J. Friction Wear, 33, No. 2: 153 (2012)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2014.05.055",
+				"or":  "G. Gao, H. Zhang, X. Gui, P. Luo, Z. Tan, and B. Bai, Acta Mater., 76: 425 (2014).",
+				"tr":  "G. Gao, H. Zhang, X. Gui, P. Luo, Z. Tan, and B. Bai, Acta Mater., 76: 425 (2014)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2015.11.032",
+				"or":  "F. H. Akbary, J. Sietsma, G. Miyamoto, T. Furuhara, and M. J. Santofimia, Acta Mater., 104: 72 (2016).",
+				"tr":  "F. H. Akbary, J. Sietsma, G. Miyamoto, T. Furuhara, and M. J. Santofimia, Acta Mater., 104: 72 (2016)."
+			},
+			{
+				"doi": "10.1016/j.msea.2016.09.087",
+				"or":  "F. H. Akbary, J. Sietsma, G. Miyamoto, N. Kamikawa, R. H. Petrov, T. Furuhara, and M. J. Santofimia, Mater. Sci. Eng. A, 677: 505 (2016).",
+				"tr":  "F. H. Akbary, J. Sietsma, G. Miyamoto, N. Kamikawa, R. H. Petrov, T. Furuhara, and M. J. Santofimia, Mater. Sci. Eng. A, 677: 505 (2016)."
+			},
+			{
+				"doi": "10.1007/s11661-010-0184-8",
+				"or":  "H. Y. Li, X. W. Lu, W. J. Li, and X. J. Jin, Metall. Mater. Trans. A, 41: 1284 (2010).",
+				"tr":  "H. Y. Li, X. W. Lu, W. J. Li, and X. J. Jin, Metall. Mater. Trans. A, 41: 1284 (2010)."
+			},
+			{
+				"doi": "10.1016/j.msea.2006.02.133",
+				"or":  "D. V. Edmonds, K. He, F. C. Rizzo, B. C. De Cooman, D. K. Matlock, and J. G. Speer, Mater. Sci. Eng. A, 438–440: 25 (2006).",
+				"tr":  "D. V. Edmonds, K. He, F. C. Rizzo, B. C. De Cooman, D. K. Matlock, and J. G. Speer, Mater. Sci. Eng. A, 438–440: 25 (2006)."
+			},
+			{
+				"doi": "10.1007/s11661-015-3285-6",
+				"or":  "A. Navarro-Lopez, J. Sietsma, and M. J. Santofimia, Metall. Mater. Trans., 47: 1028 (2016).",
+				"tr":  "A. Navarro-Lopez, J. Sietsma, and M. J. Santofimia, Metall. Mater. Trans., 47: 1028 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "O. Hesse, J. Liefeith, M. Kunert, A. Kapustyan, M. Brykov, and V. Efremenko, Tribol. Schmierungstech., 63, No. 2: 5 (2015) (in German).",
+				"tr":  "O. Hesse, J. Liefeith, M. Kunert, A. Kapustyan, M. Brykov, and V. Efremenko, Tribol. Schmierungstech., 63, No. 2: 5 (2015) (in German)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2014.11.029",
+				"or":  "W. Gong, Y. Tomota, S. Harjoa, Y. H. Sua, and K. Aizawa, Acta Mater., 85, No. 15: 243 (2015).",
+				"tr":  "W. Gong, Y. Tomota, S. Harjoa, Y. H. Sua, and K. Aizawa, Acta Mater., 85, No. 15: 243 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Зурнаджи, В. Г. Ефременко, М. Н. Брыков, А. В. Джеренова, Нові матеріали і технології в металургії та машинобудуванні, № 2: 23 (2017).",
+				"tr":  "V. I. Zurnadzhy, V. G. Efremenko, M. N. Brykov, and A. V. Dzherenova, Novi Materially i Tekhnologii v Metallurgii ta Mashinobuduvanni, No. 2: 23 (2017) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Курдюмов, Л. М. Утевский, Р. И. Энтин, Превращения в железе и стали (Москва: Наука: 1977).",
+				"tr":  "G. V. Kurdyumov, L. M. Utevskii, and R. I. Entin, Prevrashcheniya v Zheleze i Stali [Transformations in Iron and Steels] (Moscow: Nauka: 1977) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. О. Кузьмин, В. Г. Ефременко, Ю. Г. Чабак, Е. В. Цветкова, Металлофиз. новейшие технол., 35, No 9: 1271 (2013).",
+				"tr":  "S. O. Kuz'min, V. G. Efremenko, Yu. G. Chabak, and E. V. Tsvetkova, Metallofiz. Noveishie Tekhnol., 35, No. 9: 1271 (2013) (in Russian)."
+			},
+			{
+				"doi": "10.3390/ma10080874",
+				"or":  "J. Zhao, J. Li, H. Ji, and T. Wang, Materials (Basel), 10, No. 8: 874 (2017).",
+				"tr":  "J. Zhao, J. Li, H. Ji, and T. Wang, Materials (Basel), 10, No. 8: 874 (2017)."
+			},
+			{
+				"doi": "10.2355/isijinternational.45.1736",
+				"or":  "C. Garcia-Mateo and F. G. Caballero, ISIJ Int., 11: 1736 (2005).",
+				"tr":  "C. Garcia-Mateo and F. G. Caballero, ISIJ Int., 11: 1736 (2005)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2016.01.059",
+				"or":  "E. J. Seo, L. Cho, and B.C. De Cooman, Acta Mater., 107: 354 (2016).",
+				"tr":  "E. J. Seo, L. Cho, and B.C. De Cooman, Acta Mater., 107: 354 (2016)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2017.09.048",
+				"or":  "A. S. Nishikawa, M. J. Santofimia, J. Sietsma, and H. Goldenstein, Acta Mater., 142: 142 (2018).",
+				"tr":  "A. S. Nishikawa, M. J. Santofimia, J. Sietsma, and H. Goldenstein, Acta Mater., 142: 142 (2018)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Жуков, В. И. Савуляк, Т. Ф. Архипова, Металлофиз. новейшие технол., 21, No. 2: 93 (1999).",
+				"tr":  "A. A. Zhukov, V. I. Savuliak, and T. F. Arkhipova, Metallofiz. Noveishie Tekhnol., 21, No. 2: 93 (1999) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0001-6160(59)90170-1",
+				"or":  "D. P. Koistinen and R. E. Marburger, Acta Metall., 7, No. 1: 59 (1959).",
+				"tr":  "D. P. Koistinen and R. E. Marburger, Acta Metall., 7, No. 1: 59 (1959)."
+			}
+		]
+	}
+}

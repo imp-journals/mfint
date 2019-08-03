@@ -1,0 +1,144 @@
+{
+	"_id":    "MFiNT.39.02.0245",
+	"year":   2017,
+	"volume": 39,
+	"issue":  2,
+	"pages":  [245,263],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["24.12.2016"],
+	"PACS":   "62.20.de, 62.20.dj, 62.20.dq, 62.40.+i, 62.65.+k, 81.40.Gh, 81.40.Jj",
+	"title":   {
+		"ua": "Аномальні деформаційні властивості та ауксетичність монокристалів тригональної сингонії",
+		"en": "Abnormal Deformation Properties and Auxeticity of Single Crystals of Trigonal System",
+		"ru": "Аномальные деформационные свойства и ауксетичность монокристаллов тригональной сингонии"
+	},
+	"abstract": {
+		"ua": "З використанням експериментальних значень модулів пружности $C_{ij}$ та податности $S_{ij}$ побудовано характеристичні поверхні модулів Юнґа $E_{i}$, залежності Пуассонових коефіцієнтів $\\mu_{ij}$($\\varphi$, $\theta$, $\\psi$) для деяких монокристалів тригональної сингонії. Вперше побудовано вказівні поверхні ауксетичности монокристалів NaAl$_{2}$O$_{3}$, Sb, Bi, CaCO$_{3}$, SbAs (25% As), Te, Se, $\\alpha$-SiO$_{2}$, BaB$_{2}$O$_{4}$, As та NaNO$_{3}$. Виявлено критерії виникнення аксіяльної та неаксіяльної ауксетичности. На основі аналізи аномальних деформацій монокристалу SiO$_{2}$ в інтервалі температур 0–851 К встановлено механізми виникнення та трансформації ауксетичности. Встановлено, що при T = 844 К $\\alpha$-SiO$_{2}$ є абсолютним ауксетиком (ступінь ауксетичности $S_{\textrm{a}}$ = 1).",
+		"en": "Using experimental values of moduli of elasticity $C_{ij}$ and compliance moduli $S_{ij}$, the characteristic surfaces of Young’s moduli $E_{i}$ and dependences of the Poisson ratios $\\mu_{ij}$($\\varphi$, $\theta$, $\\psi$) for some single crystals of trigonal system are plotted. For the first time, the index auxeticity surfaces for NaAl$_{2}$O$_{3}$, Sb, Bi, CaCO$_{3}$, SbAs (25% As), Te, Se, $\\alpha$-SiO$_{2}$, BaB$_{2}$O$_{4}$, As, and NaNO$_{3}$ single crystals are constructed. The criteria of appearance of the axial and non-axial auxeticity are found. Based on the analysis of the abnormal deformations of SiO$_{2}$ single crystal in the temperature range of 0–851 K, the mechanisms of origin and transformation of auxeticity are determined. As established, the $\\alpha$-SiO$_{2}$ at T = 844 K is an absolute auxetic (the degree of auxeticity—$S_{\textrm{a}}$ = 1).",
+		"ru": "Используя экспериментальные значения модулей упругости $C_{ij}$ и податливости $S_{ij}$, построены характеристические поверхности модулей Юнга $E_{i}$, зависимости коэффициентов Пуассона $\\mu_{ij}$($\\varphi$, $\theta$, $\\psi$) для некоторых монокристаллов тригональной сингонии. Впервые построены указательные поверхности ауксетичности монокристаллов NaAl$_{2}$O$_{3}$, Sb, Bi, CaCO$_{3}$, SbAs (25% As), Te, Se, $\\alpha$-SiO$_{2}$, BaB$_{2}$O$_{4}$, As и NaNO$_{3}$. Выявлены критерии возникновения аксиальной и неаксиальной ауксетичности. На основе анализа аномальных деформаций монокристалла SiO$_{2}$ в интервале температур 0–851 К установлены механизмы возникновения и трансформации ауксетичности. Установлено, что при T = 844 К $\\alpha$-SiO$_{2}$ является абсолютным ауксетиком (степень ауксетичности $S_{\textrm{a}}$ = 1)."
+	},
+	"keywords": {
+		"ua": "швидкість ультразвукових хвиль, модулі пружности, Пуассонові коефіцієнти, аксіяльна ауксетичність, неаксіяльна ауксетичність, вказівні поверхні ауксетичности",
+		"en": "velocity of ultrasonic waves, moduli of elasticity, Poisson’s ratio, axial auxeticity, non-axial auxeticity, index auxeticity surfaces",
+		"ru": "скорость ультразвуковых волн, модули упругости, коэффициенты Пуассона, аксиальная ауксетичность, неаксиальная ауксетичность, указательные поверхности ауксетичности"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. Д. Раранський", "en": "M. D. Raransky", "ru": "Н. Д. Раранский"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "В. Н. Балазюк", "en": "V. N. Balazyuk", "ru": "В. Н. Балазюк"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "М. М. Гунько", "en": "M. M. Gunko", "ru": "М. Н. Гунько"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "А. Я. Струк", "en": "A. Ya. Struk", "ru": "А. Я. Струк"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "В. Б. Гевик", "en": "V. B. Gevyk", "ru": "В. Б. Гевик"},
+			"OID": [245]
+		}
+	],
+	"references": {
+		"count": 18,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "В. Н. Беломестных, Е. П. Теслева, Известия Томского политехнического университета, 306, № 5: 8 (2003).",
+				"tr":  "V. N. Belomestnykh and E. P. Tesleva, Izvestiya Tomskogo Politekhnicheskogo Universiteta, 306, No. 5: 8 (2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. А. Конёк, К. В. Войцеховский, Ю. М. Пласкачевский, С. В. Шилько, Механика композиционных материалов и конструкций, 10, № 1: 35 (2004).",
+				"tr":  "D. A. Konek, K. V. Voytsekhovskiy, Yu. M. Plaskachevskiy, and S. V. Shil'ko, Mekhanika Kompozitsionnykh Materialov i Konstruktsiy, 10, No. 1: 35 (2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Д. Раранський, В. Н. Балазюк, М. М. Гунько, А. Я. Струк, Східно-Європейський журнал передових технологій, 5, № 5: 18 (2015).",
+				"tr":  "M. D. Raranskyi, V. N. Balazyuk, M. M. Gunko, and A. Ya. Struk, Skhidno-Evropeys'kyy Zhurnal Peredovykh Tekhnologiy, 5, No. 5: 18 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/mfint.37.03.0379",
+				"or":  "М. Д. Раранський, В. Н. Балазюк, М. М. Гунько, Металлофиз. новейшие технол., 37, № 3: 379 (2015).",
+				"tr":  "M. D. Raransky, V. N. Balazyuk, and M. M. Gunko, Metallofiz. Noveishie Tekhnol., 37, No. 3: 379 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. В. Гольдштейн, В. А. Городцов, Д. С. Лисовенко, Письма о материалах, 1: 127 (2011).",
+				"tr":  "R. V. Gol'dshtein, V. A. Gorodtsov, and D. S. Lisovenko, Pis'ma o Materialakh, 1: 127 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. С. Лисовенко, В. А. Городцов, Вестник Нижегородского университета им. Н. И. Лобачевского, № 4, часть 2: 488 (2011).",
+				"tr":  "D. S. Lisovenko and V. A. Gorodtsov, Vestnik Nizhegorodskogo Universiteta im. N. I. Lobachevskogo, No. 4, part 2: 488 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Landolt-Börnstein, Group III: Condensed Matter (Berlin–Heidelberg: Springer: 1992), vol. 29a, p. 11.",
+				"tr":  "Landolt-Börnstein, Group III: Condensed Matter (Berlin–Heidelberg: Springer: 1992), vol. 29a, p. 11."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Труэлл, Ч. Эльбаум, Б. Чик, Ультразвуковые методы в физике твердого тела (Москва: Мир: 1972).",
+				"tr":  "R. Truell, Ch. Elbaum, and B. Chik, Ul'trazvukovye Metody v Fizike Tverdogo Tela [Ultrasonic Methods in Solid State Physics] (Moscow: Mir: 1972) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. И. Сиротин, М. П. Шаскольская, Основы кристаллофизики (Москва: Наука: 1979).",
+				"tr":  "Yu. I. Sirotin and M. P. Shaskol'skaya, Osnovy Kristallofiziki [Fundamentals of Crystal Physics] (Moscow: Nauka: 1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Д. Раранський, В. Н. Балазюк, М. М. Гунько, Явище ауксетичності в твердих тілах (Чернівці: Друк Арт: 2016).",
+				"tr":  "M. D. Raransky, V. N. Balazyuk, and M. M. Gunko, Yavyshche Auksetychnosti v Tverdykh Tilakh [Auxetic Phenomenon in Solids] (Chernivtsi: Druk Art: 2016) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. В. Гольдштейн, В. А. Городцов, Д. С. Лисовенко, Механика твердого тела, № 4: 43 (2010).",
+				"tr":  "R. V. Gol'dshtein, V. A. Gorodtsov, and D. S. Lisovenko, Mekhanika Tverdogo Tela, No. 4: 43 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Зубов, М. М. Фирсова, Кристаллография, 7, № 9: 469 (1962).",
+				"tr":  "V. G. Zubov and M. M. Firsova, Kristallografiya, 7, No. 9: 469 (1962) (in Russian)."
+			},
+			{
+				"doi": "10.1126/science.257.5070.650",
+				"or":  "A. Yeganeh-Haeri, D. J. Weidner, and J. B. Parise, Science, 257: 650 (1992).",
+				"tr":  "A. Yeganeh-Haeri, D. J. Weidner, and J. B. Parise, Science, 257: 650 (1992)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.48.16227",
+				"or":  "N. R. Keskar and J. R. Chelikowsky, Phys. Rev. B, 48, No. 22: 16227 (1993).",
+				"tr":  "N. R. Keskar and J. R. Chelikowsky, Phys. Rev. B, 48, No. 22: 16227 (1993)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.84.5548",
+				"or":  "H. Kimizuka and H. Kaburaki, Phys. Rev. Let., 84, No. 24: 5551 (2000).",
+				"tr":  "H. Kimizuka and H. Kaburaki, Phys. Rev. Let., 84, No. 24: 5551 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "Акустические кристаллы (Ред. М. П. Шаскольская) (Москва: Наука: 1982).",
+				"tr":  "Akusticheskie Kristally [Acoustic Crystals] (Ed. M. P. Shaskol'skaya) (Moscow: Nauka: 1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Д. Раранський, В. Н. Балазюк, М. М. Гунько, Фізика і хімія твердого тіла, 16, № 1: 34 (2015).",
+				"tr":  "M. D. Raransky, V. N. Balazyuk, and M. M. Gunko, Fizyka i Khimiya Tverdogo Tila, 16, No. 1: 34 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Д. Раранский, Маятниковые и муаровые полосы в реальных монокристаллах (Дис.  доктора физ.-мат. наук) (Черновцы: Черновицкий государственный университет: 1987).",
+				"tr":  "N. D. Raranskii, Mayatnikovye i Muarovye Polosy v Real'nykh Monokristallakh [Pendular and Moiré Patterns in Real Single Crystals] (Thesis of Disser. … for the Degree of Dr. Phys.-Math. Sci.) (Chernivtsi: Chernivtsi State University: 1987) (in Russian)."
+			}
+		]
+	}
+}

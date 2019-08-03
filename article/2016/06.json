@@ -1,0 +1,157 @@
+{
+	"year":   2016,
+	"volume": 38,
+	"issue":  6,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [709,715],
+			"title": {
+				"ua": "Блокування тунельного струму в низькоомних структурах нормальний метал—ізолятор—надпровідник",
+				"en": "Blocking of a Tunnel Current in Low-Resistance Normal Metal—Insulator—Superconductor Structures",
+				"ru": "Блокировка туннельного тока в низкоомных структурах нормальный металл—изолятор—сверхпроводник"
+			},
+			"autors": {
+				"ua": "Е. М. Руденко, Д. О. Соломаха, А. О. Краковний",
+				"en": "E. M. Rudenko, D. A. Solomakha, and A. A. Krakovnij",
+				"ru": "Э. М. Руденко, Д. А. Соломаха, А. А. Краковный"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [717,735],
+			"title": {
+				"ua": "Поведінка лінії поверхневого плазмонного резонансу в металевих наночастинках",
+				"en": "Behaviour of a Line of the Surface Plasmon Resonance in Metal Nanoparticles",
+				"ru": "Поведение линии поверхностного плазмонного резонанса в металлических наночастицах"
+			},
+			"autors": {
+				"ua": "М. І. Григорчук",
+				"en": "N. I. Grygorchuk",
+				"ru": "М. И. Григорчук"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [737,750],
+			"title": {
+				"ua": "Реакції осадження в нікель—водневої системи: першопринципні дослідження",
+				"en": "Precipitation Reactions in Nickel—Hydrogen System: ab initio Study",
+				"ru": "Реакции выделения в системе никель—водород: изучение из первых принципов"
+			},
+			"autors": {
+				"ua": "С. М. Теус",
+				"en": "S. M. Teus",
+				"ru": "С. М. Теус"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [751,762],
+			"title": {
+				"ua": "Синтеза магнетних кальцієвмісних гексагональних феритів барію",
+				"en": "Synthesis of Magnetic Calcium-Containing Hexagonal Ferrites of Barium",
+				"ru": "Синтез магнитных кальцийсодержащих гексагональных ферритов бария"
+			},
+			"autors": {
+				"ua": "І. М. Іваненко, Т. А. Донцова, І. М. Астрелін, А. О. Перекос",
+				"en": "I. M. Ivanenko, T. A. Dontsova, I. M. Astrelin, and A. O. Perekos",
+				"ru": "И. Н. Иваненко, Т. А. Донцова, И. М. Астрелин, А. Е. Перекос"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [763,781],
+			"title": {
+				"ua": "Вплив активних хімічних елементів мастильно-охолоджуючих рідин на властивості поверхневих шарів деформованого заліза. I. Локальний розподіл домішкових атомів та їх найближче атомне оточення",
+				"en": "Effect of the Active Chemical Elements of Metal-Working Lubricants on Properties of Surface Layers of the Deformed Iron. I. Local Distribution of the Impurity Atoms and Their Nearest Atomic Environment",
+				"ru": "Влияние активных химических элементов смазочно-охлаждающих жидкостей на свойства поверхностных слоёв деформированного железа. I. Локальное распределение примесных атомов и их ближайшее атомное окружение"
+			},
+			"autors": {
+				"ua": "В. В. Тихонович",
+				"en": "V. V. Tykhonovych",
+				"ru": "В. В. Тихонович"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [783,793],
+			"title": {
+				"ua": "Вплив навантаження під час обкочування на структуру та зносотривкість титанового стопу ВТ22",
+				"en": "Load Influence at Rolling on Structure and Wear Resistance of a Titanium Alloy VT22",
+				"ru": "Влияние нагрузки при обкатывании на структуру и износостойкость титанового сплава ВТ22"
+			},
+			"autors": {
+				"ua": "І. М. Погрелюк, С. М. Лаврись",
+				"en": "I. M. Pohrelyuk and S. M. Lavrys",
+				"ru": "И. Н. Погрелюк, С. М. Лаврись"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [795,813],
+			"title": {
+				"ua": "Акустичні та пружні властивості складових стінки корпусу реактора ВВЕР-440",
+				"en": "Acoustic and Elastic Properties of Components of a Wall of the VVER-440 Vessel",
+				"ru": "Акустические и упругие свойства составляющих стенки корпуса реактора ВВЭР-440"
+			},
+			"autors": {
+				"ua": "О. І. Запорожець, М. О. Дордієнко, В. А. Михайловський",
+				"en": "O. I. Zaporozhets, N. A. Dordienko, and V. A. Mykhailovsky",
+				"ru": "О. И. Запорожец, Н. А. Дордиенко, В. А. Михайловский"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  2,
+			"pages":  [815,823],
+			"title": {
+				"ua": "Визначення товщини шарів багатошарових періодичних покриттів методом резерфордівського зворотного розсіювання",
+				"en": "Determination of a Thickness of Layers of Multilayer Periodic Coatings by a Method of the Rutherford Backscattering",
+				"ru": "Определение толщины слоёв многослойных периодических покрытий методом резерфордовского обратного рассеяния"
+			},
+			"autors": {
+				"ua": "В. М. Коломієць, І. М. Кононенко, С. М. Кравченко, М. І. Захарець, В. Ю. Сторіжко, В. І. Возний, О. М. Бугай, О. Ю. Девізенко",
+				"en": "V. N. Kolomiyets, I. N. Kononenko, S. N. Kravchenko, M. I. Zakharets, V. Yu. Storizhko, V. I. Vozny, A. N. Buhay, and A. Yu. Devizenko",
+				"ru": "В. Н. Коломиец, И. Н. Кононенко, С. Н. Кравченко, М. И. Захарец, В. Е. Сторижко, В. И. Возный, А. Н. Бугай, А. Ю. Девизенко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  2,
+			"pages":  [825,838],
+			"title": {
+				"ua": "Еволюція структури багатошарових рентґенівських дзеркал Si/Mg$_{2}$Si під термічним впливом",
+				"en": "Evolution of Structure of Multilayer Si/Mg$_{2}$Si X-Ray Mirrors at Thermal Influence",
+				"ru": "Эволюция структуры многослойных рентгеновских зеркал Si/Mg$_{2}$Si при термическом воздействии"
+			},
+			"autors": {
+				"ua": "Л. Є. Конотопський, І. А. Копилець, В. А. Севрюкова, Є. М. Зубарєв, В. В. Кондратенко",
+				"en": "L. E. Konotopskyi, I. A. Kopylets, V. A. Sevrykova, E. N. Zubarev, and V. V. Kondratenko",
+				"ru": "Л. Е. Конотопский, И. А. Копылец, В. А. Севрюкова, Е. Н. Зубарев, В. В. Кондратенко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [839,851],
+			"title": {
+				"ua": "Вплив поверхневих оксидів на механізм зчеплення покриття при плазмовому напиленні",
+				"en": "Influence of Surface Oxides on the Mechanism of Adhesion of a Coating at Plasma Spraying",
+				"ru": "Влияние поверхностных оксидов на механизм сцепления покрытия при плазменном напылении"
+			},
+			"autors": {
+				"ua": "С. В. Лоскутов, А. В. Єршов, О. А. Зеленіна",
+				"en": "S. V. Loskutov, A. V. Yershov, and E. A. Zeleninа",
+				"ru": "С. В. Лоскутов, А. В. Ершов, Е. А. Зеленина"
+			}
+		}
+	]
+}

@@ -1,0 +1,107 @@
+{
+	"_id":    "MFiNT.40.09.1221",
+	"year":   2018,
+	"volume": 40,
+	"issue":  9,
+	"pages":  [1221,1230],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["17.06.2018"],
+	"PACS":   "61.50.Ks, 62.20.fg, 64.70.K-, 75.80.+q, 81.40.Jj, 82.35.Np, 83.60.Np",
+	"title":   {
+		"ua": "Магнетомеханічні ефекти у пружніх полімерних композитах з феромагнетними порошковими частинками",
+		"en": "Magnetomechanical Effects in the Elastic Polymer Composites Containing Ferromagnetic Powder Particles",
+		"ru": "Магнитомеханические эффекты в упругих полимерных композитах с ферромагнитными порошковыми частицами"
+	},
+	"abstract": {
+		"ua": "В даній роботі дається детальна термодинамічна аналіза магнетної вільної енергії композитного матеріялу, що складається з феромагнетних порошкових частинок, втілених у пружню полімерну матрицю. Ми даємо оцінку їхньої енергії магнетної взаємодії та її залежність від мікроскопічного розподілу намагнетованости та магнетного поля всередині композитного матеріялу. Ми також визначаємо гідростатичну компоненту механічних напружень, що розвиваються у композиті, та ефект зміни об’єму, зумовлений магнетостатичною взаємодією порошкових частинок у таких композитах.",
+		"en": "In the present work, a detailed thermodynamic consideration for the magnetic free energy of the composite material consisting of the ferromagnetic powder particles embedded into a polymer matrix is given. We estimate their magnetostatic interaction energy and its dependence on the microscopic distribution of the magnetization and the magnetic field in the composite material. We also define the hydrostatic component of the mechanical force developed in a composite and the volume change effect caused by the magnetostatic interactions in such composites.",
+		"ru": "В данной работе даётся детальный термодинамический анализ магнитной свободной энергии композитного материала, который состоит из ферромагнитных порошковых частиц, внедрённых в упругую полимерную матрицу. Мы даём оценку их энергии магнитного взаимодействия и её зависимости от микроскопического распределения намагниченности и магнитного поля внутри композитного материала. Мы также определяем гидростатическую компоненту механических напряжений, которые развиваются в композите, и эффект изменения объёма, обусловленный магнитостатическими взаимодействиями порошковых частиц в таких композитах."
+	},
+	"keywords": {
+		"ua": "магнетомеханічний ефект, магнетострикція, пружні полімери, феромагнетні порошки, композитні матеріяли",
+		"en": "magnetomechanical effect, magnetostriction, elastic polymer, ferromagnetic powder, composite material",
+		"ru": "магнитомеханический эффект, магнитострикция, упругие полимеры, ферромагнитные порошки, композитные материалы"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. А. Ліхачов", "en": "A. A. Likhachev", "ru": "А. А. Лихачёв"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Ю. М. Коваль", "en": "Yu. N. Koval", "ru": "Ю. Н. Коваль"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 13,
+		"list":  [
+			{
+				"doi": "10.1016/S0304-8853(02)01062-4",
+				"or":  "A. A. Novakova, V. Yu. Lanchinskaya, A. V. Volkov, T. S. Gendler, T. Yu. Kiseleva, M. A. Moskvina, and S. B. Zezin, J. Magn. Magn. Mater., 258–259: 354 (2003).",
+				"tr":  "A. A. Novakova, V. Yu. Lanchinskaya, A. V. Volkov, T. S. Gendler, T. Yu. Kiseleva, M. A. Moskvina, and S. B. Zezin, J. Magn. Magn. Mater., 258–259: 354 (2003)."
+			},
+			{
+				"doi": "10.1016/S0167-6636(02)00178-3",
+				"or":  "H. M. Yin, L. Z. Sun, and J. S. Chen, Mech. Mater., 34: 505 (2002).",
+				"tr":  "H. M. Yin, L. Z. Sun, and J. S. Chen, Mech. Mater., 34: 505 (2002)."
+			},
+			{
+				"doi": "10.1007/s00339-002-1939-x",
+				"or":  "L. Lanotte, G. Ausanio, V. Iannotti, and C. Luponio, J. Appl. Phys. A, 77: 953 (2003).",
+				"tr":  "L. Lanotte, G. Ausanio, V. Iannotti, and C. Luponio, J. Appl. Phys. A, 77: 953 (2003)."
+			},
+			{
+				"doi": "10.1016/S0924-4247(03)00133-X",
+				"or":  "L. Lanotte, G. Ausanio, C. Hison, V. Iannotti, and C. Luponio, Sensors and Actuators A, 106: 56 (2003).",
+				"tr":  "L. Lanotte, G. Ausanio, C. Hison, V. Iannotti, and C. Luponio, Sensors and Actuators A, 106: 56 (2003)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2003.12.1170",
+				"or":  "G. Ausanio, C. Hison, V. Iannotti, C. Luponio, and L. Lanotte, J. Magn. Magn. Mater., 272–276: 2069 (2004).",
+				"tr":  "G. Ausanio, C. Hison, V. Iannotti, C. Luponio, and L. Lanotte, J. Magn. Magn. Mater., 272–276: 2069 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Iannotti, C. Hison, L. Lanotte, C. Luponio, G. Ausanio, C. Luponio, A. D’Agostino, and R. Germano, Int. J. Appl. Electromagn. Mech., 19: 395 (2004).",
+				"tr":  "V. Iannotti, C. Hison, L. Lanotte, C. Luponio, G. Ausanio, C. Luponio, A. D'Agostino, and R. Germano, Int. J. Appl. Electromagn. Mech., 19: 395 (2004)."
+			},
+			{
+				"doi": "10.1063/1.373133",
+				"or":  "T. A. Duenas and G. P. Carman, J. Appl. Phys., 87: 4696 (2000).",
+				"tr":  "T. A. Duenas and G. P. Carman, J. Appl. Phys., 87: 4696 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Bednarek, Chinese Journal of Physics, 38: 169 (2000).",
+				"tr":  "S. Bednarek, Chinese Journal of Physics, 38: 169 (2000)."
+			},
+			{
+				"doi": "10.1016/S0142-9418(02)00043-0",
+				"or":  "M. Lokander and B. Stenberg, Polymer Testing, 22: 245 (2003).",
+				"tr":  "M. Lokander and B. Stenberg, Polymer Testing, 22: 245 (2003)."
+			},
+			{
+				"doi": "10.1016/S0921-5107(00)00482-7",
+				"or":  "S. Bednarek, Mat. Sci. Eng. B, 77: 120 (2000).",
+				"tr":  "S. Bednarek, Mat. Sci. Eng. B, 77: 120 (2000)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.63.054438",
+				"or":  "L. Lanotte, G. Ausanio,V. Iannotti, G. Pepe, G. Carotenuto, P. Netti, and L. Nicolais, Phys. Rev. B, 63: 054438 (2001).",
+				"tr":  "L. Lanotte, G. Ausanio,V. Iannotti, G. Pepe, G. Carotenuto, P. Netti, and L. Nicolais, Phys. Rev. B, 63: 054438 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Iannotti, C. Hison, L. Lanotte, G. Ausanio, C. Luponio, A. D’Agostino, and R. Germano, Proceeding ISEM2003 (2003), p. 246.",
+				"tr":  "V. Iannotti, C. Hison, L. Lanotte, G. Ausanio, C. Luponio, A. D'Agostino, and R. Germano, Proceeding ISEM2003 (2003), p. 246."
+			},
+			{
+				"doi": "",
+				"or":  "R. Zallen, The Physics of Amorphous Solids (New York: Wiley: 1983), Ch. 5, p. 223.",
+				"tr":  "R. Zallen, The Physics of Amorphous Solids (New York: Wiley: 1983), Ch. 5, p. 223."
+			}
+		]
+	}
+}

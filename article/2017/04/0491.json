@@ -1,0 +1,203 @@
+{
+	"_id":    "MFiNT.39.04.0491",
+	"year":   2017,
+	"volume": 39,
+	"issue":  4,
+	"pages":  [491,505],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["22.03.2017"],
+	"PACS":   "61.72.Qq, 62.20.Qp, 81.15.Jj, 81.30.Mh, 81.40.Cd, 81.40.Gh, 87.64.Ee",
+	"title":   {
+		"ua": "Особливості формування мікроструктури, елементного та фазового складів і властивостей сталі 170Х14Г3С3Н1ФР1 в умовах лиття й імпульсно-плазмового напорошення",
+		"en": "Features of Formation of Microstructure, Elemental and Phase Compositions, and Properties of the 1.7%C–14%Cr–3%Mn–3%Si–1%Ni–0.6%V–1.2%B Steel under Casting and Pulsed Plasma Deposition",
+		"ru": "Особенности формирования микроструктуры, элементного и фазового составов и свойств стали 170Х14Г3С3Н1ФР1 в условиях литья и импульсно-плазменного напыления"
+	},
+	"abstract": {
+		"ua": "У статті описано мікроструктуру, мікротвердість і фазовий хемічний склад ледебуритної сталі 170Х14Г3С3Н1ФР1, одержаної імпульсно-плазмовим напорошенням, у порівнянні з традиційним способом виливання у піщану форму. Як джерело плазми при напорошенні використано електротермічний аксіяльний плазмовий пришвидшувач. Параметри оброблення: напруга — 4,0 кВ, амплітуда струму розряду — до 18 кА, робоче середовище — повітря, тиск — атмосферний, катода — лита сталь 170Х14Г3С3Н1ФР1. У роботі використано оптичну й електронну мікроскопії, енергодисперсійну спектроскопію, рентґенівську дифрактометрію, міряння мікротвердости. Встановлено, що після лиття у піщану форму в структурі сталі присутні великі (10–40 мкм у перерізі) первинні карбід (Fe$_{3,8}$Cr$_{2,9}$Mn$_{0,3}$)$_7$C$_3$ і карбобориди (Fe$_{1,4}$Cr$_{0,6}$Mn$_{0,1}$)$_{2}$(С,B) й (Fe$_{3,3}$Cr$_{1,5}$Mn$_{0,2}$)$_5$(С,B$_2$)$_3$, а також евтектики «аустеніт + М$_7$С$_3$» і «аустеніт + М$_7$С$_3$ + М$_х$(С,B)$_y$». Об’ємна частка карбідної та карбоборидної фаз становить 44,4%. Імпульсно-плазмове напорошення сталі приводить до формування покриття, що складається з пересиченого твердого розчину із мікротвердістю у 643–932 $HV$. Постплазмове термічне оброблення (гартування від 900°C забезпечує перебіг твердофазної реакції виділення карбідної (М$_7$С$_3$) та карбоборидних (М$_2$(С,B) і М$_5$(С,B)$_3$) фаз з пересиченого твердого розчину у вигляді дисперсних включень середнім розміром у 0,7 мкм, що в десятки разів менше включень у литій сталі. Плазмове напорошення супроводжується насиченням сталі вуглецем за рахунок розкладення діелектричних стінок розрядної камери (бакеліто-паперовий композит) при високострумовому розряді. Це приводить до зростання об’ємної долі карбідів і карбоборидів на 10,5% відносно литого стану. Мікротвердість плазмово-напорошеної сталі після гартування складає 885–1100 $HV$.",
+		"en": "This article describes the microstructure features, microhardness, and elemental phase distribution in ledeburitic 1.7%C–14%Cr–3%Mn–3%Si–1%Ni–0.6%V–1.2%B steel fabricated by pulsed plasma deposition in comparison with conventional sand casting. An electrothermal axial plasma accelerator is used as plasma source with following processing parameters: voltage is of 4.0 kV, the discharge current amplitude is up to 18 kA, the working environment is air, the working pressure is atmospheric, the cathode is the 1.7%C–14%Cr–3%Mn–3%Si–1%Ni–0.6%V–1.2%B steel. The work is carried out using the optical and scanning microscopies, EDS, XRD, and microhardness measurements. As found after sand casting, the steel contains in the structure large (10–40 $\\mu$m) primary (Fe$_{3.8}$Cr$_{2.9}$Mn$_{0.3}$)$_7$C$_3$ carbide, (Fe$_{1.4}$Cr$_{0.6}$Mn$_{0.1}$)$_{2}$(С,B) and (Fe$_{3.3}$Cr$_{1.5}$Mn$_{0.2}$)$_5$(С,B$_2$)$_3$ carboborides as well as ‘austenite + М$_7$С$_3$’ and ‘austenite + М$_7$С$_3$ + М$_х$(С,B)$_y$’ eutectics. The volume fraction of carbides and carboborides is of 44%. Pulsed plasma treatment leads to formation of steel coating of oversaturated solid solution with the microhardness of 643–932 $HV$. Post-plasma heat treatment (quenching from 900°C) results in solid-state reaction of the (М$_7$С$_3$) carbide and (М$_2$(С,B), М$_5$(С,B)$_3$) carboborides’ precipitation from the solid solution. This one leads to formation of large amount of dispersed precipitates of mean size of 0.7 $\\mu$m reflecting substantial (ten folds) refinement of carbide and carboborides in comparison with the sand cast steel. Pulsed plasma deposition is accompanied with the saturation of steel by carbon due to the erosion of dielectric chamber walls (bakelite–paper composite) under high-current discharge. This one causes the increase of the carbides and carboborides volume fraction by 10.5% relative to convention casting. Post-plasma heat treatment provides the increase of microhardness up to 885–1100 $HV$.",
+		"ru": "В статье описаны микроструктура, микротвёрдость и фазовый химический состав ледебуритной стали 170Х14Г3С3Н1ФР1, полученной импульсно-плазменным напылением, в сравнении с традиционным способом отливки в песчаную форму. В качестве источника плазмы при напылении использован электротермический аксиальный плазменный ускоритель. Параметры обработки: напряжение — 4,0 кВ, амплитуда тока разряда — до 18 кА, рабочая среда — воздух, давление — атмосферное, катод — литая сталь 170Х14Г3С3Н1ФР1. В работе использованы оптическая и электронная микроскопии, энергодисперсионная спектроскопия, рентгеновская дифрактометрия, измерение микротвёрдости. Установлено, что после литья в песчаную форму в структуре стали присутствуют крупные (10–40 мкм в сечении) первичные карбид (Fe$_{3,8}$Cr$_{2,9}$Mn$_{0,3}$)$_7$C$_3$ и карбобориды (Fe$_{1,4}$Cr$_{0,6}$Mn$_{0,1}$)$_{2}$(С,B) и (Fe$_{3,3}$Cr$_{1,5}$Mn$_{0,2}$)$_5$(С,B$_2$)$_3$, а также эвтектики «аустенит + М$_7$С$_3$» и «аустенит + М$_7$С$_3$ + М$_х$(С,B)$_y$». Объёмная доля карбидной и карбоборидной фаз составляет 44,4%. Импульсно-плазменное напыление стали на чугунную подложку приводит к формированию покрытия, состоящего из пересыщенного твёрдого раствора с микротвёрдостью 643–932 $HV$. Постплазменная термическая обработка (закалка от 900°C) обеспечивает протекание твёрдофазной реакции выделения карбидной (М$_7$С$_3$) и карбоборидных (М$_2$(С,B) и М$_5$(С,B)$_3$) фаз из пересыщенного твёрдого раствора в виде дисперсных включений средним размером 0,7 мкм, что в десятки раз меньше включений в литой стали. Плазменное напыление сопровождается насыщением стали углеродом за счёт разложения диэлектрических стенок разрядной камеры (бакелито-бумажный композит) при высокотоковом разряде. Это приводит к росту объёмной доли карбидов и карбоборидов на 10,5% относительно равновесного литого состояния. Микротвёрдость плазменно-напылённой стали после закалки составляет 885–1100 $HV$."
+	},
+	"keywords": {
+		"ua": "імпульсно-плазмове напорошення, мікроструктура, карбіди, карбобориди, мікротвердість",
+		"en": "pulsed plasma deposition, microstructure, carbides, carboborides, microhardness",
+		"ru": "импульсно-плазменное напыление, микроструктура, карбиды, карбобориды, микротвёрдость"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. Г. Чабак", "en": "Yu. G. Chabak", "ru": "Ю. Г. Чабак"},
+			"OID": [228]
+		},
+		{
+			"AID": {"ua": "Т. В. Пастухова", "en": "T. V. Pastukhova", "ru": "Т. В. Пастухова"},
+			"OID": [228]
+		},
+		{
+			"AID": {"ua": "В. Г. Єфременко", "en": "V. G. Efremenko", "ru": "В. Г. Ефременко"},
+			"OID": [228]
+		},
+		{
+			"AID": {"ua": "К. Шимідзу", "en": "K. Shimizu", "ru": "К. Шимидзу"},
+			"OID": [504]
+		},
+		{
+			"AID": {"ua": "О. П. Чейлях", "en": "A. P. Cheiliakh", "ru": "А. П. Чейлях"},
+			"OID": [228]
+		},
+		{
+			"AID": {"ua": "В. І. Зурнаджі", "en": "V. I. Zurnadzhi", "ru": "В. И. Зурнаджи"},
+			"OID": [228]
+		}
+	],
+	"references": {
+		"count": 29,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "И. И. Цыпин, Белые износостойкие чугуны (Москва: Металлургия: 1983).",
+				"tr":  "I. I. Tsypin, Belye Iznosostoykie Chuguny (Moscow: Metallurgiya: 1983) (in Russian)."
+			},
+			{
+				"doi": "10.1007/s12613-016-1277-1",
+				"or":  "V. G. Efremenko, K. Shimizu, A. P. Cheiliakh, T. V. Pastukhova, Yu. G. Chabak, and K. Kusumoto, Int. J. Miner. Metall. Mater., 23, Iss. 6: 645 (2016).",
+				"tr":  "V. G. Efremenko, K. Shimizu, A. P. Cheiliakh, T. V. Pastukhova, Yu. G. Chabak, and K. Kusumoto, Int. J. Miner. Metall. Mater., 23, Iss. 6: 645 (2016)."
+			},
+			{
+				"doi": "10.2478/amm-2014-0119",
+				"or":  "D. Kopyciński, E. Guzik, and A. Szczęsny, Arch. Metall. Mater., 59, Iss. 2: 723 (2014).",
+				"tr":  "D. Kopyciński, E. Guzik, and A. Szczęsny, Arch. Metall. Mater., 59, Iss. 2: 723 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Youping, L. Xiulan, L. Yugao, Z. Shuyi, and D. Xiaoming, China Foundry, 9, Iss. 2: 148 (2012).",
+				"tr":  "M. Youping, L. Xiulan, L. Yugao, Z. Shuyi, and D. Xiaoming, China Foundry, 9, Iss. 2: 148 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Reda, A. Nofal, Kh. Ibrahim, and A. Hussien, China Foundry, 7, Iss. 4: 438 (2010).",
+				"tr":  "R. Reda, A. Nofal, Kh. Ibrahim, and A. Hussien, China Foundry, 7, Iss. 4: 438 (2010)."
+			},
+			{
+				"doi": "10.1080/13640461.2016.1142236",
+				"or":  "A. Bedolla-Jacuinde, F. V. Guerra, I. Mejía, J. Zuno-Silva, and C. Maldonado, Int. J. Cast Met. Res., 29, Iss. 1–2: 55 (2016).",
+				"tr":  "A. Bedolla-Jacuinde, F. V. Guerra, I. Mejía, J. Zuno-Silva, and C. Maldonado, Int. J. Cast Met. Res., 29, Iss. 1–2: 55 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Kukhar and O. V. Vasylevskyi, Metallurgical & Mining Industry, 3: 71 (2014).",
+				"tr":  "V. V. Kukhar and O. V. Vasylevskyi, Metallurgical & Mining Industry, 3: 71 (2014)."
+			},
+			{
+				"doi": "10.1002/srin.201500234",
+				"or":  "J. Xu, X. Gao, Zh. Jiang, and D. Wei, Steel Res. Int., 87, No. 6: 780 (2016).",
+				"tr":  "J. Xu, X. Gao, Zh. Jiang, and D. Wei, Steel Res. Int., 87, No. 6: 780 (2016)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/AMR.690-693.147",
+				"or":  "H. Chen, Z. Ling, and W. S. Ming, Adv. Mater. Res., 690–693: 147 (2013).",
+				"tr":  "H. Chen, Z. Ling, and W. S. Ming, Adv. Mater. Res., 690–693: 147 (2013)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.416-418.419",
+				"or":  "A. H. Kasama, R. D. Cava, A. Mourisco, C. S. Kiminami, and C. Bolfarini, Mater. Sci. Forum, 416–418: 419 (2003).",
+				"tr":  "A. H. Kasama, R. D. Cava, A. Mourisco, C. S. Kiminami, and C. Bolfarini, Mater. Sci. Forum, 416–418: 419 (2003)."
+			},
+			{
+				"doi": "10.1016/j.wear.2005.01.021",
+				"or":  "T. T. Matsuo, C. S. Kiminami, W. J. Botta Fo, and C. Bolfarini, Wear, 259, Iss. 1–6: 445 (2005).",
+				"tr":  "T. T. Matsuo, C. S. Kiminami, W. J. Botta Fo, and C. Bolfarini, Wear, 259, Iss. 1–6: 445 (2005)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(01)01434-4",
+				"or":  "M. L. Ted Guo, C.-H. Chiang, and C. Y. A. Tsao, J. Mater. Sci. Eng. A, 326, Iss. 1: 1 (2002).",
+				"tr":  "M. L. Ted Guo, C.-H. Chiang, and C. Y. A. Tsao, J. Mater. Sci. Eng. A, 326, Iss. 1: 1 (2002)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(98)00826-3",
+				"or":  "Yu. N. Tyurin and A. D. Pogrebnjak, Surf. Coat. Tech., 111, Iss. 2–3: 269 (1999).",
+				"tr":  "Yu. N. Tyurin and A. D. Pogrebnjak, Surf. Coat. Tech., 111, Iss. 2–3: 269 (1999)."
+			},
+			{
+				"doi": "10.1070/PU2005v048n05ABEH002055",
+				"or":  "A. D. Pogrebnyak and Yu. N. Tyurin, Physics Uspekhi, 48, No. 5: 487 (2005).",
+				"tr":  "A. D. Pogrebnyak and Yu. N. Tyurin, Physics Uspekhi, 48, No. 5: 487 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "O. M. Ivasishin, A. D. Pogrebnjak, and S. N. Bratushka, Nanostructured Layers, and Coatings Formed by Ion-Plasma Fluxes in Titanium Alloys and Steels (Kyiv: Akademperiodyka: 2011).",
+				"tr":  "O. M. Ivasishin, A. D. Pogrebnjak, and S. N. Bratushka, Nanostructured Layers, and Coatings Formed by Ion-Plasma Fluxes in Titanium Alloys and Steels (Kyiv: Akademperiodyka: 2011)."
+			},
+			{
+				"doi": "10.1016/S0927-0256(01)00143-4",
+				"or":  "Y. P. Lei, H. Murakawa, Y. W. Shi, and X. Y. Li, Comput. Mater. Sci., 21, Iss. 3: 276 (2001).",
+				"tr":  "Y. P. Lei, H. Murakawa, Y. W. Shi, and X. Y. Li, Comput. Mater. Sci., 21, Iss. 3: 276 (2001)."
+			},
+			{
+				"doi": "10.1515/msp-2015-0077",
+				"or":  "K. Nowakowska-Langer, R. Chodun, and K. Zdunek, Mater. Sci.-Pol., 33, No. 4: 841 (2015).",
+				"tr":  "K. Nowakowska-Langer, R. Chodun, and K. Zdunek, Mater. Sci.-Pol., 33, No. 4: 841 (2015)."
+			},
+			{
+				"doi": "10.1016/j.wear.2010.12.008",
+				"or":  "N. Espallargas and S. Mischler, Wear, 270, Iss. 7–8: 464 (2011).",
+				"tr":  "N. Espallargas and S. Mischler, Wear, 270, Iss. 7–8: 464 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. E. Kolyada and V. I. Fedun, Probl. Atomic Science and Technol., 4 (98): 325 (2015).",
+				"tr":  "Yu. E. Kolyada and V. I. Fedun, Probl. Atomic Science and Technol., 4 (98): 325 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. E. Kolyada, A. A. Bizyukov, O. N. Bulanchuk, and V. I. Fedun, Probl. Atomic Science and Technol., 4 (98): 319 (2015).",
+				"tr":  "Yu. E. Kolyada, A. A. Bizyukov, O. N. Bulanchuk, and V. I. Fedun, Probl. Atomic Science and Technol., 4 (98): 319 (2015)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2016.07.016",
+				"or":  "V. G. Efremenko, Yu. G. Chabak, A. Lekatou, A. E. Karantzalis, K. Shimizu, V. I. Fedun, A. Yu. Azarkhov, and A. V. Efremenko, Surf. Coat. Technol., 304: 293 (2016).",
+				"tr":  "V. G. Efremenko, Yu. G. Chabak, A. Lekatou, A. E. Karantzalis, K. Shimizu, V. I. Fedun, A. Yu. Azarkhov, and A. V. Efremenko, Surf. Coat. Technol., 304: 293 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Е. Коляда, В. И. Федун, Вопросы атомной науки и техники, 4 (98): 260 (2008).",
+				"tr":  "Yu. E. Kolyada and V. I. Fedun, Voprosy Atomnoy Nauki i Tekhniki, 4 (98): 260 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. С. Горелик, Л. Н. Расторгуев, Ю. А. Скаков, Рентгенографический и электроннооптический анализ (Москва: МИСиС: 1994).",
+				"tr":  "S. S. Gorelik, L. N. Rastorguiev, and Yu. A. Skakov, Rentgenograficheskiy i Electronnoopticheskiy Analiz [X-Ray and Electron-Optical Analysis] (Moscow: MISiS: 1994) (in Russian)."
+			},
+			{
+				"doi": "10.1361/105994903770343411",
+				"or":  "V. Kumar, J. Mater. Eng. Perform., 12, Iss. 1: 14 (2003).",
+				"tr":  "V. Kumar, J. Mater. Eng. Perform., 12, Iss. 1: 14 (2003)."
+			},
+			{
+				"doi": "10.1007/s10853-012-6998-6",
+				"or":  "M. Fenech, B. Mallia, M. Grech, and J. C. Betts, J. Mater. Sci., 48, Iss. 5: 2224 (2013).",
+				"tr":  "M. Fenech, B. Mallia, M. Grech, and J. C. Betts, J. Mater. Sci., 48, Iss. 5: 2224 (2013)."
+			},
+			{
+				"doi": "10.1007/s10853-010-5229-2",
+				"or":  "I. Hemmati, V. Ocelík, and J. Th. M. De Hosson, J. Mater. Sci., 46, Iss. 10: 3405 (2011).",
+				"tr":  "I. Hemmati, V. Ocelík, and J. Th. M. De Hosson, J. Mater. Sci., 46, Iss. 10: 3405 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "ASM Handbook: Alloy Phase Diagram (Eds. H. Okamoto, M. E. Schlesinger, and E. M. Mueller) (Materials Park, Ohio: 2016), vol. 3.",
+				"tr":  "ASM Handbook: Alloy Phase Diagram (Eds. H. Okamoto, M. E. Schlesinger, and E. M. Mueller) (Materials Park, Ohio: 2016), vol. 3."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Г. Чабак, В. Г. Ефременко, Металлофиз. новейшие технол., 34, № 9: 1205 (2012).",
+				"tr":  "Yu. G. Chabak and V. G. Efremenko, Metallofiz. Noveishie Tekhnol., 34, No. 9: 1205 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. G. Chabak, V. I. Fedun, K. Shimizu, V. I. Zurnadgy, and V. G. Efremenko, Probl. Atomic Science and Technol., 104, No. 4: 100 (2016).",
+				"tr":  "Yu. G. Chabak, V. I. Fedun, K. Shimizu, V. I. Zurnadgy, and V. G. Efremenko, Probl. Atomic Science and Technol., 104, No. 4: 100 (2016)."
+			}
+		]
+	}
+}

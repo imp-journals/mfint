@@ -1,0 +1,49 @@
+{
+	"_id":    "MFiNT.37.0121",
+	"year":   2015,
+	"volume": 37,
+	"issue":  1,
+	"pages":  [121,134],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["16.05.2014"],
+	"PACS":   "43.35.+d, 62.20.Qp, 68.35.Gy, 68.55.J-, 68.55.Nq, 81.20.Hy, 81.65.Lp",
+	"title":  {
+		"ua": "Ультразвукова ударна обробка поверхневого шару титану ВТ1-0 в субмікрокристалічному стані",
+		"en": "Ultrasonic Impact Processing of Surface Layer of the BT1-0 Titanium in a Submicrocrystalline State",
+		"ru": "Ультразвуковая ударная обработка поверхностного слоя титана ВТ1-0 в субмикрокристаллическом состоянии"
+	},
+	"abstract": {
+		"ua": "У роботі досліджено вплив ультразвукового ударного оброблення на структуру та властивості поверхневого шару титану ВТ1-0 у субмікрокристалічному стані. Показано, що, поєднуючи методи об’ємної (ґвинтова екструзія) і поверхневої (ультразвукове ударне оброблення) інтенсивної пластичної деформації, можна забезпечити підвищену міцність, зносостійкість і корозійну стійкість поверхневих шарів титанових стопів. Встановлено, що після ґвинтової екструзії в титані ВТ1-0 формується структура з розміром зерен близько 200—250 нм. Методою Оже-електронної спектроскопії встановлено зміни хемічного стану поверхні титану ВТ1-0 після ґвинтової екструзії і наступного ультразвукового ударного оброблення в арґоні й у рідкому азоті. Ультразвукове ударне оброблення титану ВТ1-0 в середовищі арґону приводить до насичення поверхневого шару киснем (до 40 ат.%), а при обробленні в рідкому азоті відбувається насичення атомами N (до 21 ат.%) і O (до 24 ат.%), що свідчить про механохемічну синтезу нітридів і оксинітридів титану. Мікротвердість поверхневого шару ВТ1-0 після ультразвукового ударного оброблення в арґоні зростає в 3 рази, а в рідкому азоті – в 3,5 рази.",
+		"en": "The influence of the ultrasonic impact treatment on the structure and properties of the surface layer of $\\alpha$-titanium in a submicrocrystalline state is investigated. As shown, combining the methods of bulk (twist extrusion) and superficial (ultrasonic impact treatment) severe plastic deformation, it is possible to provide increased strength, wear and corrosion resistance of the surface layers of titanium alloys. As determined, after twist extrusion, the structure with a size of grains of about 200—250 nm is formed in $\\alpha$-Ti. By means of the Auger electron spectroscopy, the changes of chemical state of the $\\alpha$-Ti surface are revealed after the twist extrusion followed by ultrasonic impact treatment in argon atmosphere and in liquid nitrogen. Ultrasonic impact treatment of the $\\alpha$-Ti in argon leads to saturation of the surface layer with atoms of oxygen (to 40 at.%), and the processing in liquid nitrogen leads to saturation with atoms of N (to 21 at.%) and O (to 24 at.%), indicating that the mechanochemical synthesis of titanium nitride and oxynitride takes place. The microhardness of the $\\alpha$-Ti surface layer after ultrasonic impact treatment in argon is increased by three times, and in liquid nitrogen–by 3.5 times.",
+		"ru": "В работе исследовано влияние ультразвуковой ударной обработки на структуру и свойства поверхностного слоя титана ВТ1-0 в субмикрокристаллическом состоянии. Показано, что, сочетая методы объёмной (винтовая экструзия) и поверхностной (ультразвуковая ударная обработка) интенсивной пластической деформации, можно обеспечить повышенную прочность, износостойкость и коррозионную стойкость поверхностных слоёв титановых сплавов. Установлено, что после винтовой экструзии в титане ВТ1-0 формируется структура с размером зёрен порядка 200—250 нм. Методом оже-электронной спектроскопии установлены изменения химического состояния поверхности титана ВТ1-0 после винтовой экструзии и последующей ультразвуковой ударной обработки в аргоне и в жидком азоте. Ультразвуковая ударная обработка титана ВТ1-0 в среде аргона ведёт к насыщению поверхностного слоя кислородом (до 40 ат.%), а при обработке в жидком азоте происходит насыщение атомами N (до 21 ат.%) и O (до 24 ат.%), что свидетельствует о механохимическом синтезе нитридов и оксинитридов титана. Микротвёрдость поверхностного слоя ВТ1-0 после ультразвуковой ударной обработки в аргоне возрастает в 3 раза, а в жидком азоте – в 3,5 раза."
+	},
+	"keywords": {
+		"ua": "титан ВТ1-0, поверхневий шар, інтенсивна пластична деформація, ґвинтова екструзія, ультразвукова ударна обробка",
+		"en": "BT1-0 titanium, surface layer, severe plastic deformation, twist extrusion, ultrasonic impact treatment",
+		"ru": "титан ВТ1-0, поверхностный слой, интенсивная пластическая деформация, винтовая экструзия, ультразвуковая ударная обработка"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. О. Васильєв", "en": "M. O. Vasylyev", "ru": "М. А. Васильев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Б. М. Мордюк", "en": "B. M. Mordyuk", "ru": "Б. Н. Мордюк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Д. В. Павленко", "en": "D. V. Pavlenko", "ru": "Д. В. Павленко"},
+			"OID": [220]
+		},
+		{
+			"AID": {"ua": "Л. Ф. Яценко", "en": "L. F. Yatsenko", "ru": "Л. Ф. Яценко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 23,
+		"list":  []
+	}
+}

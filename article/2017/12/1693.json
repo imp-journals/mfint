@@ -1,0 +1,96 @@
+{
+	"_id":    "MFiNT.39.12.1693",
+	"year":   2017,
+	"volume": 39,
+	"issue":  12,
+	"pages":  [1693,1706],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["11.10.2017"],
+	"PACS":   "33.60.+q, 71.20.Ps, 71.55.Ht, 71.70.Ch, 78.70.Dm, 82.80.Pv, 87.64.ks",
+	"title":   {
+		"ua": "Заміщення йонів Кальцію йонами 3$d$-металів та Mg в структурі апатиту",
+		"en": "Substitution of Calcium Ions by Ions of 3$d$-Metals and Mg in the Structure of Apatite",
+		"ru": "Замещение ионов кальция ионами 3$d$-металлов и Mg в структуре апатита"
+	},
+	"abstract": {
+		"ua": "Шляхом комбінування різних спектральних метод і квантово-механічних розрахунків проведено дослідження зміни будови валентної смуги апатиту кальцію при ізоморфних заміщеннях йонів Кальцію йонами 3$d$-металів і Магнієм. Встановлено закономірності формування електронно-енергетичної структури та характеру хемічних зв’язків у досліджуваній серії апатитоподібних сполук. Визначено ефекти в еволюції структури валентних смуг і зарядових станів атомів, залежно від типу та ступеня допування 3$d$-металами і Магнієм. Кореляція положень і форми ліній розрахункових і експериментальних даних свідчить про переважне втілення 3$d$-металів у Са$_{(2)}$-позиції структури апатиту.",
+		"en": "Changes in the structure of the valence band of calcium apatite because of isomorphous substitutions of calcium ions by 3$d$-metal ions and magnesium are investigated using combination of various spectral methods and quantum-mechanical calculations. The regularities in the formation of the electron-energy structure and the nature of chemical bonds in the series of apatite-like compounds are established. Effects in the evolution of the structure of valence bands and charge states of atoms are determined depending on the type and degree of doping with 3$d$-metals and magnesium. Correlation of the lines’ positions and shape for the calculated and experimental data indicates the preferable introduction of 3$d$-metals into the Ca$_{(2)}$-position of the apatite structure.",
+		"ru": "Путём комбинирования различных спектральных методов и квантово-механических расчётов проведено исследование изменения строения валентной полосы апатита кальция при изоморфных замещениях ионов кальция ионами 3$d$-металлов и магнием. Установлены закономерности формирования электронно-энергетической структуры и характера химических связей в исследуемой серии апатитоподобных соединений. Определены эффекты в эволюции структуры валентных полос и зарядовых состояний атомов в зависимости от типа и степени допирования 3$d$-металлами и магнием. Корреляция положений и формы линий расчётных и экспериментальных данных свидетельствует о предпочтительном вхождении 3$d$-металлов в Са$_{(2)}$-позиции структуры апатита."
+	},
+	"keywords": {
+		"ua": "апатит, електронна будова, 3$d$-метали, ізоморфне заміщення",
+		"en": "apatite, electronic structure, 3$d$-metals, isomorphic substitution",
+		"ru": "апатит, электронное строение, 3$d$-металлы, изоморфное замещение"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Н. А. Курган", "en": "N. A. Kurgan", "ru": "Н. А. Курган"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Л. И. Карбівська", "en": "L. I. Karbіvska", "ru": "Л. И. Карбовская"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. Л. Карбівський", "en": "V. L. Karbivskyy", "ru": "В. Л. Карбовский"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 10,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "В. Л. Карбовский, А. П. Шпак, Апатиты и апатитоподобные соединения. Электронная структура и свойства (Киев: Наукова думка: 2010).",
+				"tr":  "V. L. Karbivskyy and A. P. Shpak, Apatity i Apatitopodobnye Soedineniya. Elektronnye Struktura i Svoystva (Kiev: Naukova Dumka: 2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "J. M. Hughes, M. Cameron, and K. D. Crowley, Am. Mineralogist, 76, Nos. 11–12: 1857 (1991).",
+				"tr":  "J. M. Hughes, M. Cameron, and K. D. Crowley, Am. Mineralogist, 76, Nos. 11–12: 1857 (1991)."
+			},
+			{
+				"doi": "10.2138/am-2000-1012",
+				"or":  "M. E. Fleet, X. Liu, and Y. Pan, Am. Mineralogist, 85, No. 10: 1437 (2000).",
+				"tr":  "M. E. Fleet, X. Liu, and Y. Pan, Am. Mineralogist, 85, No. 10: 1437 (2000)."
+			},
+			{
+				"doi": "10.1021/ic1015127",
+				"or":  "L. I. Ardanova, E. I. Get’man, S. N. Loboda,V. V. Prisedsky, T. V. Tkachenko, V. I. Marchenko, V. P. Antonovich, N. A. Chivireva, K. A. Chebishev, and A. S. Lyashenko, Inorganic Chemistry, 49, No. 22: 10687 (2010).",
+				"tr":  "L. I. Ardanova, E. I. Get'man, S. N. Loboda,V. V. Prisedsky, T. V. Tkachenko, V. I. Marchenko, V. P. Antonovich, N. A. Chivireva, K. A. Chebishev, and A. S. Lyashenko, Inorganic Chemistry, 49, No. 22: 10687 (2010)."
+			},
+			{
+				"doi": "10.15407/mfint.37.08.1077",
+				"or":  "В. Х. Касияненко, В. Л. Карбовский, Н. А. Курган, Л. И. Карбовская, Е. И. Гетьман, Металлофиз. новейшие технол., 37, No. 8: 1077 (2015).",
+				"tr":  "V. Kh. Kasiyanenko, V. L. Karbivskyy, N. A. Kurgan, L. I. Karbovska, and E. I. Getman, Metallofiz. Noveishie Tekhnol., 37, No. 8: 1077 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, В. Л. Карбовский, Л. П. Клюенко, М. В. Шапочкин, Компьютерная обработка, разложение, выделение аппаратурного уширения и визуализация рентгеновских спектров (Киев: НАН Украины–НТУУ «КПИ»: 2001).",
+				"tr":  "A. P. Shpak, V. L. Karbivskyy, L. P. Klyuenko, and M. V. Shapochkin, Kompyuternaya Obrabotka, Razlozhenie, Vydelenie Apparaturnogo Ushireniya i Vizualizatsiya Rentgenovskikh Spektrov (Kiev: N.A.S. of Ukraine–NTUU 'KPI': 2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Уваров, А. Н. Тимошевский, А. В. Поденейко, Программа обработки рентгеновских $K\\beta_{2,5}$-спектрограмм (Киев: Институт металлофизики АН Укр. ССР: 1986), № 1.",
+				"tr":  "V. N. Uvarov, A. N. Timoshevskiy, and A. V. Podeneyko, Programma Obrabotki Rentgenovskikh $K\\beta_{2.5}$-Spectrogramm (Kiev: Inst. for Metal Physics, A.S. of Ukr. SSR: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Шпак, В. Л. Карбовский, В. В. Трачевский, Апатиты (Киев: Академпериодика: 2002).",
+				"tr":  "A. P. Shpak, V. L. Karbivskyy, and V. V. Trachevskyy, Apatity [Apatites] (Kiev: Akademperiodika: 2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Handbook of X-Ray Photoelectron Spectroscopy (Eds. N. Ikeo, Y. Iijima, N. Niimura et al.) (Tokyo, Japan: JEOL Ltd: 1991).",
+				"tr":  "Handbook of X-Ray Photoelectron Spectroscopy (Eds. N. Ikeo, Y. Iijima, N. Niimura et al.) (Tokyo, Japan: JEOL Ltd: 1991)."
+			},
+			{
+				"doi": "",
+				"or":  "Handbook of Monochromatic XPS Spectra, the Elements and Native Oxides (Ed. B. V. Crist) (USA: XPS International. Inc.: 1999).",
+				"tr":  "Handbook of Monochromatic XPS Spectra, the Elements and Native Oxides (Ed. B. V. Crist) (USA: XPS International. Inc.: 1999)."
+			}
+		]
+	}
+}

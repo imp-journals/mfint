@@ -1,0 +1,165 @@
+{
+	"_id":    "MFiNT.39.11.1557",
+	"year":   2017,
+	"volume": 39,
+	"issue":  11,
+	"pages":  [1557,1571],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["28.08.2017"],
+	"PACS":   "61.72.Ff, 61.72.S-, 68.43.Mn, 68.43.Nr, 81.07.Bc, 81.20.Ev, 81.20.Wk, 88.30.rd",
+	"title":   {
+		"ua": "Вплив домішок Si, Fe, Ti на температуру та кінетику дисоціяції MgH$_2$, одержаного реактивним механічним стопленням",
+		"en": "Influence of Admixtures of Si, Fe, Ti on Temperature and Kinetics of Dissociation of MgH$_2$ Obtained by Reactive Mechanical Alloyage",
+		"ru": "Влияние добавок Si, Fe, Ti на температуру и кинетику диссоциации MgH$_2$, полученного реактивным механическим сплавлением"
+	},
+	"abstract": {
+		"ua": "Синтезовано механічний стоп-композит МС (Mg + 5% ваг. Si + 5% вaг. Fe + 2% вaг. Ti) методою реактивного механічного стоплення (РМС). При тиску водню у 0,1 МПа із застосуванням термодесорбційної спектроскопії досліджено водневу місткість, термічну стійкість, кінетику десорбції водню з гідридної фази MgH$_2$, одержаної МС. Встановлено, що додавання до маґнію Si, Ti, Fe приводить до істотного поліпшення кінетики десорбції водню з одержаної РМС гідридної фази MgH$_2$. Не встановлено пониження термодинамічної стабільности MgH$_2$ за рахунок вказаного леґування. Після реактивного помелу протягом 20 год. воднева місткість механічного стопу виявилася рівною 5,6% ваг., а після перших циклів сорбції–десорбції водню — 5,1% ваг.",
+		"en": "The mechanical alloy MА (Mg + 5% wt. Si + 5% wt. Fe + 2% wt. Ti) is synthesized by the method of reactive mechanical alloyage (RMA). At hydrogen pressure of 0.1 MPa, the hydrogen capacity, thermal stability, and kinetics of hydrogen desorption from the MgH$_2$ hydride phase obtained by means of the MA are studied with the use of thermal desorption spectroscopy. As determined, the addition of Si, Ti, and Fe to magnesium leads to a significant improvement in the kinetics of hydrogen desorption from the MgH$_2$ hydride phase obtained by RMA. Due to this alloying, the decrease in the thermodynamical stability of MgH$_2$ is not revealed. Hydrogen capacity of MА after reactive grinding for 20 hours is found to be equal to 5.6% wt. and after the first cycles of hydrogen sorption–desorption—to 5.1% wt.",
+		"ru": "Методом реактивного механического сплавления (РМС) синтезирован механический сплав-композит МС (Mg + 5% вес. Si + 5% вес. Fe + 2% вес. Ti). При давлении водорода 0,1 МПа с применением термодесорбционной спектроскопии исследована водородная ёмкость, термическая стойкость, кинетика десорбции водорода из гидридной фазы MgH$_2$, полученной МС. Установлено, что добавление к магнию Si, Ti, Fe приводит к существенному улучшению кинетики десорбции водорода из полученной РМС гидридной фазы MgH$_2$. Не установлено снижение термодинамической стабильности MgH$_2$ за счёт указанного легирования. После реактивного помола в течение 20 ч водородная ёмкость механического сплава оказалась равной 5,6% вес., после первых циклов сорбции–десорбции — 5,1% вес."
+	},
+	"keywords": {
+		"ua": "кінетика сорбції–десорбції, воднесорбційні властивості, механічний стоп, термічна стійкість, термодесорбційна спектроскопія",
+		"en": "sorption–desorption kinetics, hydrogen-sorption properties, mechanical alloy, thermal stability, thermodesorption spectroscopy",
+		"ru": "кинетика сорбции–десорбции, водородсорбционные свойства, механический сплав, термическая стойкость, термодесорбционная спектроскопия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. Г. Єршова", "en": "O. G. Ershova", "ru": "О. Г. Ершова"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "В. Д. Добровольський", "en": "V. D. Dobrovolsky", "ru": "В. Д. Добровольский"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "Ю. М. Солонін", "en": "Yu. M. Solonin", "ru": "Ю. М. Солонин"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "О. Ю. Коваль", "en": "O. Yu. Koval", "ru": "A. Ю. Коваль"},
+			"OID": [2]
+		}
+	],
+	"references": {
+		"count": 23,
+		"list":  [
+			{
+				"doi": "10.1007/s003390100772",
+				"or":  "J. Huot, G. Liang, and R.Schulz, Appl. Phys., A, 72:187 (2001).",
+				"tr":  "J. Huot, G. Liang, and R.Schulz, Appl. Phys., A, 72:187 (2001)."
+			},
+			{
+				"doi": "10.1016/S0360-3199(03)00045-4",
+				"or":  "C. Shang, M. Bououdina, and Y. Song, Int. J. Hydrogen Energy, 29: 73 (2004).",
+				"tr":  "C. Shang, M. Bououdina, and Y. Song, Int. J. Hydrogen Energy, 29: 73 (2004)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2007.10.125",
+				"or":  "V. D. Dobrovolsky, O. G. Ershova, Yu. M. Solonin, O. Y, Khyzhun, and V. Paul-Boncour, J. Alloys Compd., 465: 177 (2008).",
+				"tr":  "V. D. Dobrovolsky, O. G. Ershova, Yu. M. Solonin, O. Y, Khyzhun, and V. Paul-Boncour, J. Alloys Compd., 465: 177 (2008)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2005.02.082",
+				"or":  "S. Doppi, T. Spassov, G. Barkhordarian, M. Dorngeim, T. Klassen, S. Surinach, and M. Baro, J. Alloys Compd., 404–406: 27 (2005).",
+				"tr":  "S. Doppi, T. Spassov, G. Barkhordarian, M. Dorngeim, T. Klassen, S. Surinach, and M. Baro, J. Alloys Compd., 404–406: 27 (2005)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2007.10.064",
+				"or":  "O. G. Ershova, V. D. Dobrovolsky, Yu. M. Solonin, O. Y. Khyzhun, and A. Yu. Koval, J. Alloys Compd., 464: 212 (2008).",
+				"tr":  "O. G. Ershova, V. D. Dobrovolsky, Yu. M. Solonin, O. Y. Khyzhun, and A. Yu. Koval, J. Alloys Compd., 464: 212 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "O. G. Ershova, V. D. Dobrovolsky, and Yu. M. Solonin, Carbon Nanomaterials in Clean Energy Hydrogen Systems (NATO Science for Peace and Security Programme) (Dordrecht: Springer: 2008), p. 429.",
+				"tr":  "O. G. Ershova, V. D. Dobrovolsky, and Yu. M. Solonin, Carbon Nanomaterials in Clean Energy Hydrogen Systems (NATO Science for Peace and Security Programme) (Dordrecht: Springer: 2008), p. 429."
+			},
+			{
+				"doi": "10.1007/s11003-016-9862-z",
+				"or":  "O. G. Ershova, V. D. Dobrovolsky, and Yu. M. Solonin, J. Mater. Sci., 51, No. 4: 457 (2016).",
+				"tr":  "O. G. Ershova, V. D. Dobrovolsky, and Yu. M. Solonin, J. Mater. Sci., 51, No. 4: 457 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "O. G. Ershova, V. D. Dobrovolsky, Yu. M. Solonin, and A. Yu. Koval, Vidnovlyuvana Energetika, 3: 5 (2015) (in Ukrainian).",
+				"tr":  "O. G. Ershova, V. D. Dobrovolsky, Yu. M. Solonin, and A. Yu. Koval, Vidnovlyuvana Energetika, 3: 5 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/j.matchemphys.2015.06.007",
+				"or":  "O. G. Ershova, V. D. Dobrovolsky, Yu. M. Solonin, O. Y. Khyzhun, and A. Yu. Koval, Materials Chemistry and Physics, 162: 408 (2015).",
+				"tr":  "O. G. Ershova, V. D. Dobrovolsky, Yu. M. Solonin, O. Y. Khyzhun, and A. Yu. Koval, Materials Chemistry and Physics, 162: 408 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "V. D. Dobrovolsky, O. G. Ershova, and Yu. M. Solonin, Hydrogen in the Alternative Power Industry and Novel Technologies, 1: 136 (2015) (in Ukrainian).",
+				"tr":  "V. D. Dobrovolsky, O. G. Ershova, and Yu. M. Solonin, Hydrogen in the Alternative Power Industry and Novel Technologies, 1: 136 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1007/s11106-016-9830-z",
+				"or":  "V. D. Dobrovolsky, O. G. Ershova, Yu. M. Solonin, and O. Y, Khyzhun, Powder Metallurgy & Metal Ceramics, 55, No. 7: 477 (2016).",
+				"tr":  "V. D. Dobrovolsky, O. G. Ershova, Yu. M. Solonin, and O. Y, Khyzhun, Powder Metallurgy & Metal Ceramics, 55, No. 7: 477 (2016)."
+			},
+			{
+				"doi": "10.1016/j.ijhydene.2009.06.002",
+				"or":  "M. Polanski and J. Bystrzycki, Int. J. Hydrogen Energy, 34: 7692 (2009).",
+				"tr":  "M. Polanski and J. Bystrzycki, Int. J. Hydrogen Energy, 34: 7692 (2009)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2014.10.086",
+				"or":  "A-L. Chaudhary, M. Paskevicius, D. Sheppard, and C. Buckley, J. Alloys Compd., 623:109 (2015).",
+				"tr":  "A-L. Chaudhary, M. Paskevicius, D. Sheppard, and C. Buckley, J. Alloys Compd., 623:109 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Shimada, H. Tamaki, E. Higuchi, and H. Inoue, J. Mater. Chemical Eng., 2, No. 3: 64 (2014).",
+				"tr":  "M. Shimada, H. Tamaki, E. Higuchi, and H. Inoue, J. Mater. Chemical Eng., 2, No. 3: 64 (2014)."
+			},
+			{
+				"doi": "10.1016/j.ijhydene.2010.01.109",
+				"or":  "M. Tanniru, D. Slattery, and F. Ebrahimi, Int. J. Hydrogen Energy, 35: 3555 (2010).",
+				"tr":  "M. Tanniru, D. Slattery, and F. Ebrahimi, Int. J. Hydrogen Energy, 35: 3555 (2010)."
+			},
+			{
+				"doi": "10.1021/jp501306w",
+				"or":  "C. Zhou, Zh. Z.  Fang, J. Lu, X. Luo, Ch. Ren, P. Fan, Ya. Ren, and X. Zhang, J. Phys. Chem. C, 118: 11526 (2014).",
+				"tr":  "C. Zhou, Zh. Z.  Fang, J. Lu, X. Luo, Ch. Ren, P. Fan, Ya. Ren, and X. Zhang, J. Phys. Chem. C, 118: 11526 (2014)."
+			},
+			{
+				"doi": "10.1016/j.ijhydene.2013.03.007",
+				"or":  "F. Luo, H. Wang, L. Ouyang, M. Zeng, J. Liu, and M. Zhu, Int. J. Hydrogen Energy, 38: 10912 (2013).",
+				"tr":  "F. Luo, H. Wang, L. Ouyang, M. Zeng, J. Liu, and M. Zhu, Int. J. Hydrogen Energy, 38: 10912 (2013)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2013.10.029",
+				"or":  "L. Ouyang, Z. Cao, H. Wang, J. Liu, D. Sun, Q. Zhang, and M. Zhu, J. Alloys Compd., 586: 113 (2014).",
+				"tr":  "L. Ouyang, Z. Cao, H. Wang, J. Liu, D. Sun, Q. Zhang, and M. Zhu, J. Alloys Compd., 586: 113 (2014)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2014.10.200",
+				"or":  "Z. Cao, L. Ouyang, Y. Wu, H. Wang, J. Liu, F. Fang, D. Sun, Q. Zhang, and M. Zhu, J. Alloys Compd., 623: 354 (2015).",
+				"tr":  "Z. Cao, L. Ouyang, Y. Wu, H. Wang, J. Liu, F. Fang, D. Sun, Q. Zhang, and M. Zhu, J. Alloys Compd., 623: 354 (2015)."
+			},
+			{
+				"doi": "10.3390/ma6104654",
+				"or":  "Z. Min, L. Yanshan, L. Ouyang, and H. Wang, Materials, 6: 4654 (2013).",
+				"tr":  "Z. Min, L. Yanshan, L. Ouyang, and H. Wang, Materials, 6: 4654 (2013)."
+			},
+			{
+				"doi": "10.2174/1877946803666131213232050",
+				"or":  "V. D. Dobrovolsky, O. G. Ershova, O. Y. Khyzhun, and Yu. M. Solonin, J. Current Physical Chemistry, 4, No. 1: 106 (2014).",
+				"tr":  "V. D. Dobrovolsky, O. G. Ershova, O. Y. Khyzhun, and Yu. M. Solonin, J. Current Physical Chemistry, 4, No. 1: 106 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "V. D. Dobrovolsky, O. G. Ershova, and Yu. M. Solonin, Vidnovlyuvana Energetika, No. 1: 14 (2015) (in Ukrainian).",
+				"tr":  "V. D. Dobrovolsky, O. G. Ershova, and Yu. M. Solonin, Vidnovlyuvana Energetika, No. 1: 14 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/j.elspec.2017.01.001",
+				"or":  "V. D. Dobrovolsky, O. Y. Khyzhun, A. K. Sinelnichenko, O. G. Ershova, and Yu. M. Solonin, J. of Electron Spectroscopy and Related Phenomena, 215: 28 (2017).",
+				"tr":  "V. D. Dobrovolsky, O. Y. Khyzhun, A. K. Sinelnichenko, O. G. Ershova, and Yu. M. Solonin, J. of Electron Spectroscopy and Related Phenomena, 215: 28 (2017)."
+			}
+		]
+	}
+}

@@ -1,0 +1,103 @@
+{
+	"_id":    "MFiNT.39.07.0995",
+	"year":   2017,
+	"volume": 39,
+	"issue":  7,
+	"pages":  [995,1004],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["18.06.2017"],
+	"PACS":   "68.37.Ef, 68.47.De, 68.47.Fg, 68.65.Ac, 71.20.Tx, 73.20.At, 75.70.Cn, 81.16.Dn",
+	"title":   {
+		"ua": "Дослідження наногетеросистем метал–напівпровідник Ni$_x$InSe (0001)",
+		"en": "Ni$_x$InSe (0001) Metal–Semiconductor Heteronanosystem Study",
+		"ru": "Исследование гетеронаносистем металл–полупроводник Ni$_x$InSe (0001)"
+	},
+	"abstract": {
+		"ua": "За допомогою метод сканувальної тунельної мікроскопії та спектроскопії (СТМ/СТС) встановлено, що шаруватий кристал InSe, інтеркальований ніклем, представляє собою гетеронаносистему — шар-пакет InSe, який чергується з ніклем, що знаходиться у дрібнодисперсній фазі у міжшаровій щілині. Для аналізи ступеня «металічности» поверхні сколення використано масив даних СТС, одержаних у режимі CITS (current imaging tunnelling spectroscopy). За істотно різною поведінкою вольт-амперних кривих для металу та напівпровідника в локальних точках аналізи на поверхні відколу, одержаних у діяпазоні напруг зміщення, які відповідають забороненій зоні напівпровідника, запропоновано методу обрахунку відносних концентрацій металу на поверхні сколення. Проаналізовано обмеження такої методи оцінювання відносних концентрацій. Встановлено, що величина відносної концентрації ніклю у міжшаровій щілині для систем Ni$_x$InSe може досягати близько 2%, враховуючи особливості одержання поверхонь сколення для шаруватого кристалу. Для встановлення структурних характеристик ніклю використано СТМ-аналізу з високою просторовою роздільчою здатністю з наступною 2$D$-FFT-фільтрацією і висотним профілюванням одержаних зображень. Аналіза відповідних періодичностей уможливила виявити формування двовимірної квадратної ґратниці ніклю на окремих наномасштабних ділянках поверхні.",
+		"en": "Scanning tunnelling microscopy/spectroscopy (STM/STS) data show that InSe layered crystal intercalated with nickel is a heteronanosystem—InSe layer-packet that alternates with nickel at fine dispersed phase in the interlayer gap. For analysis of the degree of metallicity of cleavage surfaces, an array of STS data obtained in the current imaging tunnelling spectroscopy (CITS) mode is used. By significantly different behaviour of current–voltage curves for metal and semiconductor at localized points of surface analysis on the cleavage within the bias voltages that correspond to the band gap of the semiconductor, the method for the calculation of the relative metal concentration on the cleavage surface is proposed. The constraints for this method of the relative concentration estimates are analysed. As determined, the value of the nickel relative concentration in the interlayer gap for the Ni$_x$InSe systems can be up to 2%, taking into account features of obtaining of the cleavage surfaces in the layered crystals. To establish the structural characteristics of the nickel, the STM analysis with high spatial resolution is used followed by the 2$D$ FFT filtration and height profiling of image data. The analysis of corresponding revealed periodicities allows revealing formation of the two-dimensional square lattice of nickel on certain nanoscale areas of surface.",
+		"ru": "С помощью методов сканирующей туннельной микроскопии и спектроскопии (СТМ/СТС) установлено, что слоистый кристалл InSe, интеркалированный никелем, является гетеронаносистемой — слой-пакетом InSe, который чередуется с никелем, находящимся в мелкодисперсной фазе в междуслоевой щели. С целью анализа степени «металличности» поверхности скалывания использован массив данных СТС, полученных в режиме CITS (current imaging tunnelling spectroscopy). По существенно различному поведению вольт-амперных кривых для металла и полупроводника в локальных точках анализа на поверхности скалывания, полученных в диапазоне напряжений смещения, которые соответствуют запрещённой зоне полупроводника, предложен метод расчёта относительных концентраций металла на поверхности скалывания. Проанализированы ограничения такого метода оценки относительных концентраций. Установлено, что величина относительной концентрации никеля в междуслоевой щели для систем Ni$_x$InSe может достигать около 2%, учитывая особенности получения поверхностей скалывания для слоистого кристалла. С целью установления структурных характеристик никеля использован СТМ-анализ с высоким пространственным разрешением с последующей 2$D$-FFT-фильтрацией и высотным профилированием полученных изображений. Анализ соответствующих периодичностей позволил установить формирование двухмерной квадратной решётки в отдельных наномасштабных областях поверхности."
+	},
+	"keywords": {
+		"ua": "сканувальна тунельна мікроскопія, сканувальна тунельна спектроскопія, локальна густина станів, шаруватий кристал, інтеркаляція металу, гетеронаноструктури",
+		"en": "scanning tunnelling microscopy and spectroscopy, current imaging tunnelling spectroscopy, local density of states, layered crystals, metal intercalation, heteronanostructures",
+		"ru": "сканирующая туннельная микроскопия, сканирующая туннельная спектроскопия, локальная плотность состояний, слоистый кристалл, интеркаляция металла, гетеронаноструктуры"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "П. В. Галій", "en": "P. V. Galiy", "ru": "П. В. Галий"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "Т. М. Ненчук", "en": "T. M. Nenchuk", "ru": "Т. М. Ненчук"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "А. Ціжевський", "en": "A. Ciszewski", "ru": "А. Цижевский"},
+			"OID": [412]
+		},
+		{
+			"AID": {"ua": "П. Мазур", "en": "P. Mazur", "ru": "П. Мазур"},
+			"OID": [412]
+		},
+		{
+			"AID": {"ua": "І. Р. Яровець", "en": "I. R. Yarovets’", "ru": "И. Р. Яровец"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "О. Р. Дверій", "en": "O. R. Dveriy", "ru": "О. Р. Дверий"},
+			"OID": [254]
+		}
+	],
+	"references": {
+		"count": 9,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "P. V. Galiy, P. Mazur, A. Ciszewski, I. R. Yarovets, T. M. Nenchuk, F. Simon, Ya. M. Buzhuk, and Ya. L. Fomenko, J. Nano- Electron. Phys., 8, No. 1: 01012 (2016) (in Ukrainian).",
+				"tr":  "P. V. Galiy, P. Mazur, A. Ciszewski, I. R. Yarovets, T. M. Nenchuk, F. Simon, Ya. M. Buzhuk, and Ya. L. Fomenko, J. Nano- Electron. Phys., 8, No. 1: 01012 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1038/srep14808",
+				"or":  "S. Yoshida, Yu. Kobayashi, R. Sakurada, S. Mori, Y. Miyata, H. Mogi, T. Koyama, O. Takeuchi, and H. Shigekawa, Sci. Rep., 5: 14808 (2015).",
+				"tr":  "S. Yoshida, Yu. Kobayashi, R. Sakurada, S. Mori, Y. Miyata, H. Mogi, T. Koyama, O. Takeuchi, and H. Shigekawa, Sci. Rep., 5: 14808 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "J. M. Stakhira, N. K. Tovstjuk, V. L. Fomenko, V. M. Tsmots, and A. N. Shchupljak, Fiz. Tekh. Poluprovodn., 45, No. 10: 1308 (2011) (in Russian).",
+				"tr":  "J. M. Stakhira, N. K. Tovstjuk, V. L. Fomenko, V. M. Tsmots, and A. N. Shchupljak, Fiz. Tekh. Poluprovodn., 45, No. 10: 1308 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ya. M. Buzhuk, L. S. Demkiv, J. M. Stakhira, N. K. Tovstyuk, and V. L. Fomenko, Novi Tekhnologii, 2, No. 28: 68 (2010) (in Ukrainian).",
+				"tr":  "Ya. M. Buzhuk, L. S. Demkiv, J. M. Stakhira, N. K. Tovstyuk, and V. L. Fomenko, Novi Tekhnologii, 2, No. 28: 68 (2010) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1063/1.2432410",
+				"or":  "I. Horcas, R. Fernandez, J. M. Gomez-Rodríguez, J. Colchero, J. Gomez-Herrero, and A. M. Baro, Rev. Sci. Instrum., 78: 013705 (2007).",
+				"tr":  "I. Horcas, R. Fernandez, J. M. Gomez-Rodríguez, J. Colchero, J. Gomez-Herrero, and A. M. Baro, Rev. Sci. Instrum., 78: 013705 (2007)."
+			},
+			{
+				"doi": "10.1021/acsami.6b08847",
+				"or":  "R. Addou and R. M. Wallace, ACS Appl. Mater. Interfaces, 8, No. 39: 26400 (2016).",
+				"tr":  "R. Addou and R. M. Wallace, ACS Appl. Mater. Interfaces, 8, No. 39: 26400 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Asano, H. Fujitani, and M. Tsukada, Theoretical Approaches to Metal–Semiconductor Interfaces. Metal–Semiconductor Interfaces (Ed. A. Hiraki) (Ohmsha, Japan: IOS Press: 1995), p. 1.",
+				"tr":  "S. Asano, H. Fujitani, and M. Tsukada, Theoretical Approaches to Metal–Semiconductor Interfaces. Metal–Semiconductor Interfaces (Ed. A. Hiraki) (Ohmsha, Japan: IOS Press: 1995), p. 1."
+			},
+			{
+				"doi": "10.5772/50307",
+				"or":  "Y. Zhirko, V. Trachevsky, and Z. Kovalyuk, On the Possibility of Layered Crystals Application for Solid State Hydrogen Storages—InSe and GaSe Crystals. Hydrogen Storage (Ed. J. Liu) (InTech: 2012), Ch. 9.",
+				"tr":  "Y. Zhirko, V. Trachevsky, and Z. Kovalyuk, On the Possibility of Layered Crystals Application for Solid State Hydrogen Storages—InSe and GaSe Crystals. Hydrogen Storage (Ed. J. Liu) (InTech: 2012), Ch. 9."
+			},
+			{
+				"doi": "",
+				"or":  "J. Taylor, Inst. Metals, 77: 585 (1950).",
+				"tr":  "J. Taylor, Inst. Metals, 77: 585 (1950)."
+			}
+		]
+	}
+}

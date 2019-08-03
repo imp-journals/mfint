@@ -1,0 +1,108 @@
+{
+	"_id":    "MFiNT.40.10.1349",
+	"year":   2018,
+	"volume": 40,
+	"issue":  10,
+	"pages":  [1349,1358],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["12.04.2018"],
+	"PACS":   "68.37.Ef,68.47.De,68.47.Fg,73.20.At,73.21.Hb,73.63.Nm,81.16.Dn,81.16.Rf",
+	"title":   {
+		"ua": "Структурний аспект формування наносистеми In/In$_{4}$Se$_{3}$ (100)",
+		"en": "Structural Aspect of Formation of a Nanosystem of In/In$_{4}$Se$_{3}$ (100)",
+		"ru": "Структурный аспект формирования наносистемы In/In$_{4}$Se$_{3}$ (100)"
+	},
+	"abstract": {
+		"ua": "",
+		"en": "Self-assembled indium deposition-induced nanostructures are obtained on the UHV cleaved (100) surface of In4Se3 layered semiconductor crystals. The small indium-deposition rates and short deposition times are chosen to study growth orientation and origin of nanostructures observed by scanning tunnelling microscopy (STM) on the (100) surface of In4Se3 after indium deposition. The shape of these nanostructures strictly depends on the overstoichiometric indium concentration level in the melt during the crystal growth varying from 3D islands for low concentration to elongated shapes, i.e., nanowires, in the case of highly-indium-doped crystals. High-resolution STM study determines the self-assembled quasi-periodical nanowires’ growth along c-axis of (100)In4Se3 substrate. The spatially resolved scanning tunnelling spectroscopy (STS) study revealed metallic nature of the surface of nanostructures grown on the semiconductor substrate. The growth mechanism of indium-deposited nanostructures is considered to be powered by anisotropic striated lattice structure of In4Se3 (100) surface with indium nucleiin concentration depending on the degree of overstoichiometric crystal-growth indium subsequently intercalated into the interlayer gap.",
+		"ru": ""
+	},
+	"keywords": {
+		"ua": "",
+		"en": "layered trichalcogenides, self-assembling nanostructures, nanowires, scanning tunnelling microscopy, scanning tunnelling spectroscopy",
+		"ru": ""
+	},
+	"autors": [
+		{
+			"AID": {"ua": "П. В. Галій", "en": "P. V. Galiy", "ru": "П. В. Галий"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "П. Мазур", "en": "P. Mazur", "ru": "П. Мазур"},
+			"OID": [412]
+		},
+		{
+			"AID": {"ua": "А. Ціжевський", "en": "A. Ciszewski", "ru": "А. Цижевський"},
+			"OID": [412]
+		},
+		{
+			"AID": {"ua": "Т. М. Ненчук", "en": "T. M. Nenchuk", "ru": "Т. М. Ненчук"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "І. Р. Яровець", "en": "I. R. Yarovets’", "ru": "І. Р. Яровец"},
+			"OID": [203]
+		},
+		{
+			"AID": {"ua": "О. Р. Дверій", "en": "O. R. Dveriy", "ru": "О. Р. Дверий"},
+			"OID": [254]
+		}
+	],
+	"references": {
+		"count": 10,
+		"list":  [
+			{
+				"doi": "10.1007/978-1-4615-7461-3_4",
+				"or":  "W. R. McKinnon and R. R. Haering, Physical Mechanisms of Intercalation. Modern Aspects in Electrochemistry. Ch. 5 (Eds. R. E. White, J. O’M. Bockris, and B. E. Conway) (New York: Plenum Press: 1983), p. 235.",
+				"tr":  "W. R. McKinnon and R. R. Haering, Physical Mechanisms of Intercalation. Modern Aspects in Electrochemistry. Ch. 5 (Eds. R. E. White, J. O'M. Bockris, and B. E. Conway) (New York: Plenum Press: 1983), p. 235."
+			},
+			{
+				"doi": "10.1016/j.physe.2006.06.003",
+				"or":  "P. V. Galiy, A. V. Musyanovych, and Ya. M. Fiyala, Physica E: Low-Dimensional Systems and Nanostructures, 35, Iss. 1: 88 (2006).",
+				"tr":  "P. V. Galiy, A. V. Musyanovych, and Ya. M. Fiyala, Physica E: Low-Dimensional Systems and Nanostructures, 35, Iss. 1: 88 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "G. M. Whitesides, J. K. Kriebel, and B. T. Mayers, Self-Assembly and Nanostructured Materials. Nanoscale Assembly. Nanostructure Science and Technology (Ed. W. T. S. Huck) (Boston, MA: Springer: 2005), p. 217.",
+				"tr":  "G. M. Whitesides, J. K. Kriebel, and B. T. Mayers, Self-Assembly and Nanostructured Materials. Nanoscale Assembly. Nanostructure Science and Technology (Ed. W. T. S. Huck) (Boston, MA: Springer: 2005), p. 217."
+			},
+			{
+				"doi": "10.1063/1.2432410",
+				"or":  "I. Horcas, R. Fernandez, J. M. Gomez-Rodríguez, J. Colchero, J. Gomez-Herrero, and A. M. Baro, Rev. Sci. Instrum., 78: 013705 (2007).",
+				"tr":  "I. Horcas, R. Fernandez, J. M. Gomez-Rodríguez, J. Colchero, J. Gomez-Herrero, and A. M. Baro, Rev. Sci. Instrum., 78: 013705 (2007)."
+			},
+			{
+				"doi": "10.1524/zkri.1995.210.5.342",
+				"or":  "U. Schwarz, H. Hillebrecht, H. J. Deiseroth, und R. Walter, Zeitschrift für Kristallogr.: 210, No. 5: 342 (1995) (in German).",
+				"tr":  "U. Schwarz, H. Hillebrecht, H. J. Deiseroth, und R. Walter, Zeitschrift für Kristallogr.: 210, No. 5: 342 (1995) (in German)."
+			},
+			{
+				"doi": "10.1016/j.physe.2008.09.011",
+				"or":  "P. V. Galiy, T. M. Nenchuk, O. R. Dveriy, A. Ciszewski, P. Mazur, and S. Zuber, Physica E: Low-Dimensional Systems and Nanostructures: 41, No. 3: 465 (2009).",
+				"tr":  "P. V. Galiy, T. M. Nenchuk, O. R. Dveriy, A. Ciszewski, P. Mazur, and S. Zuber, Physica E: Low-Dimensional Systems and Nanostructures: 41, No. 3: 465 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "P. V. Galiy, T. M. Nenchuk, O. R. Dveriy, A. Ciszewski, P. Mazur, and S. Zuber, Chemistry of Metals and Alloys, 4, Iss. 1/2: 1 (2011).",
+				"tr":  "P. V. Galiy, T. M. Nenchuk, O. R. Dveriy, A. Ciszewski, P. Mazur, and S. Zuber, Chemistry of Metals and Alloys, 4, Iss. 1/2: 1 (2011)."
+			},
+			{
+				"doi": "10.1002/pssb.200541176",
+				"or":  "M. Sznajder, K. Z. Rushchanskii, L. Yu. Kharkhalis, and D. M. Bercha, phys. status solidi (b), 243, Iss. 5: 592 (2006).",
+				"tr":  "M. Sznajder, K. Z. Rushchanskii, L. Yu. Kharkhalis, and D. M. Bercha, phys. status solidi (b), 243, Iss. 5: 592 (2006)."
+			},
+			{
+				"doi": "10.12693/APhysPolA.119.720",
+				"or":  "D. M. Bercha, K. E. Glukhov, and M. Sznajder, Acta Physica Polonica A, 119, No. 5: 720 (2011).",
+				"tr":  "D. M. Bercha, K. E. Glukhov, and M. Sznajder, Acta Physica Polonica A, 119, No. 5: 720 (2011)."
+			},
+			{
+				"doi": "10.1007/978-3-642-39660-1",
+				"or":  "V. G. Dubrovskii, Nucleation Theory and Growth of Nanostructures (Berlin–Heidelberg: Springer-Verlag: 2014).",
+				"tr":  "V. G. Dubrovskii, Nucleation Theory and Growth of Nanostructures (Berlin–Heidelberg: Springer-Verlag: 2014)."
+			}
+		]
+	}
+}

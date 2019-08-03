@@ -1,0 +1,127 @@
+{
+	"_id":    "MFiNT.36.08.1023",
+	"year":   2014,
+	"volume": 36,
+	"issue":  8,
+	"pages":  [1023,1033],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["07.07.2014"],
+	"PACS":   "62.23.St, 75.30.Ds, 75.40.Gb, 75.50.Tt, 75.75.Jn, 75.90.+w",
+	"title":   {
+		"ua": "Спінові коливання у феромагнетній нанооболонці типу «нанорис»",
+		"en": "Spin Excitations in ‘Nanorice’-Type Ferromagnetic Nanoshell",
+		"ru": "Спиновые колебания в ферромагнитной нанооболочке типа «нанорис»"
+	},
+	"abstract": {
+		"ua": "Теоретично досліджуються дипольно-обмінні спінові коливання в композитній наночастинці типу «нанорис» (витягнутий еліпсоїд обертання). Розглядається нанорис з немагнетним ядром та оболонкою з одноосьового феромагнетику, що має локальний тип «легка вісь». Спінова динаміка в такій системі описується лінеаризованим рівнянням Ландау—Ліфшиця (у магнетостатичному наближенні) з доданками, що враховують магнетну диполь-дипольну взаємодію, обмінну взаємодію та ефекти анізотропії. Після виключення намагнетованости з рівняння Ландау—Ліфшиця одержано рівняння для магнетного потенціялу описаних вище спінових коливань. Для випадку тонкої оболонки з відношенням півосей еліпсоїда, близьким до одиниці, одержано також дисперсійне співвідношення для таких спінових коливань.",
+		"en": "Dipole—exchange spin excitations in composite ‘nanorice’-type nanoparticle (as oblate spheroid) are theoretically investigated. A nanorice with a nonmagnetic core and a shell composed of a uniaxial ferromagnet with the local ‘easy axis’ type is considered; dissipation effects are neglected. Spin dynamics in the above-mentioned nanosystem is described by the linearized Landau—Lifshitz equation (within the magnetostatic approximation) with the addends, which allow for the magnetic dipole—dipole interaction, the exchange interaction, and the anisotropy effects. Considering the system symmetry, a prolate spheroidal co-ordinate system is used. After using one of the Maxwell equations, magnetization in the Landau—Lifshitz equation is eliminated, and an equation for the magnetic potential of the above-mentioned spin excitations is obtained. A solution for the above-mentioned equation is proposed in the form of a combination of the generalized spheroidal functions; this combination cannot be considered as the solution of the equation in general case, however, it can be considered as an approximate solution for the case of a thin shell with the internal ellipsoid semi-axes ratio close to one. For the above-described case, a dispersion relation for such spin excitations is also found.",
+		"ru": "Теоретически исследуются дипольно-обменные спиновые колебания в композитной наночастице типа «нанорис» (вытянутый эллипсоид вращения). Рассматривается нанорис с немагнитным ядром и оболочкой из одноосного ферромагнетика, имеющего локальный тип «лёгкая ось». Спиновая динамика в такой системе описывается линеаризованным уравнением Ландау—Лифшица (в магнитостатическом приближении) со слагаемыми, учитывающими магнитное диполь-дипольное взаимодействие, обменное взаимодействие и эффекты анизотропии. После исключения намагниченности из уравнения Ландау—Лифшица получено уравнение для магнитного потенциала описанных выше спиновых колебаний. Для случая тонкой оболочки с отношением полуосей эллипсоида, близким к единице, получено также дисперсионное соотношение для таких спиновых колебаний."
+	},
+	"keywords": {
+		"ua": "композитна наноструктура, нанорис, спінове збудження, дипольно-обмінна теорія",
+		"en": "composite nanostructure, nanorice, spin excitation, dipole-exchange theory",
+		"ru": "композитная наноструктура, нанорис, спиновое возбуждение, дипольно-обменная теория"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. І. Горобець", "en": "Yu. I. Gorobets", "ru": "Ю. И. Горобец"},
+			"OID": [7]
+		},
+		{
+			"AID": {"ua": "В. В. Куліш", "en": "V. V. Kulish", "ru": "В. В. Кулиш"},
+			"OID": [202]
+		}
+	],
+	"references": {
+		"count": 17,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "А. И. Ахиезер, В. Г. Барьяхтар, С. В. Пелетминский, Спиновые волны (Москва: Наука: 1967).",
+				"tr":  "A. I. Akhiezer, V. G. Bar'yakhtar, and S. V. Peletminskiy, Spinovye Volny (Spin Waves) (Moscow: Nauka: 1967) (in Russian)."
+			},
+			{
+				"doi": "10.1088/0022-3727/43/26/264001",
+				"or":  "V. V. Kruglyak, S. O. Demokritov, and D. Grundler, J. Phys. D: Appl. Phys., 43, No. 26: 264001 (2010).",
+				"tr":  "V. V. Kruglyak, S. O. Demokritov, and D. Grundler, J. Phys. D: Appl. Phys., 43, No. 26: 264001 (2010)."
+			},
+			{
+				"doi": "10.1146/annurev-conmatphys-070909-104123",
+				"or":  "S. D. Bader and S. S. P. Parkin, Ann. Rev. Condens. Matter Phys., 1: 71 (2010).",
+				"tr":  "S. D. Bader and S. S. P. Parkin, Ann. Rev. Condens. Matter Phys., 1: 71 (2010)."
+			},
+			{
+				"doi": "10.1002/adma.200900809",
+				"or":  "S. Neusser and D. Grundler, Adv. Mater., 21, No. 28: 2927 (2009).",
+				"tr":  "S. Neusser and D. Grundler, Adv. Mater., 21, No. 28: 2927 (2009)."
+			},
+			{
+				"doi": "10.1063/1.2834714",
+				"or":  "T. Schneider, A. A. Serga, B. Leven, B. Hillebrands, R. L. Stamps, and M. P. Kostylev, Appl. Phys. Lett., 92, No. 2: 022505 (2008).",
+				"tr":  "T. Schneider, A. A. Serga, B. Leven, B. Hillebrands, R. L. Stamps, and M. P. Kostylev, Appl. Phys. Lett., 92, No. 2: 022505 (2008)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.81.3769",
+				"or":  "M. Bauer, O. Büttner, S. O. Demokritov, B. Hillebrands, V. Grimalsky, Yu. Rapoport, and A. N. Slavin, Phys. Rev. Lett., 81, No. 17: 3769 (1998).",
+				"tr":  "M. Bauer, O. Büttner, S. O. Demokritov, B. Hillebrands, V. Grimalsky, Yu. Rapoport, and A. N. Slavin, Phys. Rev. Lett., 81, No. 17: 3769 (1998)."
+			},
+			{
+				"doi": "10.1063/1.372698",
+				"or":  "K. Yu. Guslienko and A. N. Slavin, J. Appl. Phys., 87, No. 9: 6337 (2000).",
+				"tr":  "K. Yu. Guslienko and A. N. Slavin, J. Appl. Phys., 87, No. 9: 6337 (2000)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.79.174433",
+				"or":  "F. G. Aliev, J. F. Sierra, A. A. Awad, G. N. Kakazei, D.-S. Han, S.-K. Kim, V. Metlushko, B. Ilic, and K. Yu. Guslienko, Phys. Rev. B, 79, No. 17: 174433 (2009).",
+				"tr":  "F. G. Aliev, J. F. Sierra, A. A. Awad, G. N. Kakazei, D.-S. Han, S.-K. Kim, V. Metlushko, B. Ilic, and K. Yu. Guslienko, Phys. Rev. B, 79, No. 17: 174433 (2009)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.60.15194",
+				"or":  "J. Jorzick, S. O. Demokritov, C. Mathieu, B. Hillebrands, B. Bartenlian, C. Chappert, F. Rousseaux, and A. N. Slavin, Phys. Rev. B, 60, No. 22: 15194 (1999).",
+				"tr":  "J. Jorzick, S. O. Demokritov, C. Mathieu, B. Hillebrands, B. Bartenlian, C. Chappert, F. Rousseaux, and A. N. Slavin, Phys. Rev. B, 60, No. 22: 15194 (1999)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.63.134439",
+				"or":  "R. Arias and D. L. Mills, Phys. Rev. B, 63, No. 13: 134439 (2001).",
+				"tr":  "R. Arias and D. L. Mills, Phys. Rev. B, 63, No. 13: 134439 (2001)."
+			},
+			{
+				"doi": "10.1063/1.1558691",
+				"or":  "R. Skomski, M. Chipara, and D. J. Sellmyer, J. Appl. Phys., 93, No. 10: 7604 (2003).",
+				"tr":  "R. Skomski, M. Chipara, and D. J. Sellmyer, J. Appl. Phys., 93, No. 10: 7604 (2003)."
+			},
+			{
+				"doi": "10.1016/S0304-8853(00)00581-3",
+				"or":  "S. M. Chérif, Y. Roussigné, C. Dugautier, and P. Moch, J. Magn. Magn. Mater., 222, No. 3: 337 (2000).",
+				"tr":  "S. M. Chérif, Y. Roussigné, C. Dugautier, and P. Moch, J. Magn. Magn. Mater., 222, No. 3: 337 (2000)."
+			},
+			{
+				"doi": "10.1021/nl060209w",
+				"or":  "H. Wang, D. W. Brandl, F. Le, P. Nordlander, and N. J. Halas, Nano Lett., 6, No. 4: 827 (2006).",
+				"tr":  "H. Wang, D. W. Brandl, F. Le, P. Nordlander, and N. J. Halas, Nano Lett., 6, No. 4: 827 (2006)."
+			},
+			{
+				"doi": "10.1557/JMR.2005.0267",
+				"or":  "S. I. Cha, C. B. Mo, K. T. Kim, and S. H. Hong, J. Mater. Res., 20, No. 8: 2148 (2005).",
+				"tr":  "S. I. Cha, C. B. Mo, K. T. Kim, and S. H. Hong, J. Mater. Res., 20, No. 8: 2148 (2005)."
+			},
+			{
+				"doi": "10.1002/ejic.201100840",
+				"or":  "R. Rajendran, R. Muralidharan, R. S. Gopalakrishnan, M. Chellamuthu, S. U. Ponnusamy, and E. Manikandan, Eur. J. Inorganic Chem., 2011, No. 35: 5384 (2011).",
+				"tr":  "R. Rajendran, R. Muralidharan, R. S. Gopalakrishnan, M. Chellamuthu, S. U. Ponnusamy, and E. Manikandan, Eur. J. Inorganic Chem., 2011, No. 35: 5384 (2011)."
+			},
+			{
+				"doi": "10.1039/c2jm15444g",
+				"or":  "H. Chen, D. C. Colvin, B. Qi, T. Moore, J. He, O. T. Mefford, F. Alexis, J. C. Goreb, and J. N. Anker, J. Mater. Chem., 22, No. 25: 12802 (2012).",
+				"tr":  "H. Chen, D. C. Colvin, B. Qi, T. Moore, J. He, O. T. Mefford, F. Alexis, J. C. Goreb, and J. N. Anker, J. Mater. Chem., 22, No. 25: 12802 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Комаров, Л. И. Пономарев, С. Ю. Славянов, Сфероидальные и кулоновские сфероидальные функции (Ред. В. С. Булдырев) (Москва: Наука: 1976).",
+				"tr":  "I. V. Komarov, L. I. Ponomarev, and S. Yu. Slavyanov, Sferoidal'nye i Kulonovskie Sferoidal'nye Funktsii (Spheroidal and Coulomb Spheroidal Functions) (Ed. V. S. Buldyrev) (Moscow: Nauka: 1976) (in Russian)."
+			}
+		]
+	}
+}

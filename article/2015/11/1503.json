@@ -1,0 +1,213 @@
+{
+	"_id":    "MFiNT.37.11.1503",
+	"year":   2015,
+	"volume": 37,
+	"issue":  11,
+	"pages":  [1503,1516],
+	"rubric": 9,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["02.06.2015"],
+	"PACS":   "68.55.J-, 71.30.+h, 75.47.Gk, 75.47.Lx, 76.30.-v, 76.50.+g",
+	"title":  {
+			"ua": "Електронний спіновий резонанс у керамічних зразках лантан-бісмутового манганіту La$_{0,925}$Bi$_{0,075}$MnO$_{3}$",
+			"en": "Electron Spin Resonance in Ceramic Samples of Lanthanum—Bismuth Manganite La$_{0.925}$Bi$_{0.075}$MnO$_{3}$",
+			"ru": "Электронный спиновый резонанс в керамических образцах лантан-висмутового манганита La$_{0,925}$Bi$_{0,075}$MnO$_{3}$"
+		},
+	"abstract": {
+		"ua": "Досліджено електричні та резонансні властивості зразків La$_{0,925}$Bi$_{0,075}$MnO$_{3}$, виготовлених золь—ґель-методою. Виміри виконували в області температур 110—395 К. Проаналізовано температурні залежності параметрів електронного спінового резонансу: резонансного поля, ширини резонансної лінії, інтенсивности сиґналу. На основі одержаних даних зроблено висновок про співіснування нижче 185 К феромагнетної та парамагнетної фаз. Виявлено сильний вплив феромагнетної фази на резонансні умови парамагнетної фази, що проявляється в залежності параметрів лінії парамагнетного резонансу від параметрів феромагнетної фази.",
+		"en": "Electrical and resonance properties of La$_{0.925}$Bi$_{0.075}$MnO$_{3}$ samples fabricated by sol—gel method are studied in the work. The measurements are carried out in the temperature range of 110—395 K. Temperature dependences of the parameters of electron spin resonance spectra, including resonance field, width of resonance line, and signal intensity are analysed. Based on the obtained results, it is concluded that ferromagnetic and paramagnetic phases coexist below 185 K. Strong influence of ferromagnetic phase on the resonance conditions of paramagnetic phase is revealed. It manifests itself by the dependence of the resonance parameters of paramagnetic phase on the parameters of ferromagnetic phase.",
+		"ru": "Исследованы электрические и резонансные свойства изготовленных золь—гель-методом образцов La$_{0,925}$Bi$_{0,075}$MnO$_{3}$. Измерения выполняли в области температур 110—395 К. Выполнен анализ температурных зависимостей параметров электронного спинового резонанса: резонансного поля, ширины резонансной линии, интенсивности сигнала. На основании полученных результатов сделан вывод о сосуществовании ниже 185К ферромагнитной и парамагнитной фаз. Обнаружено сильное влияние ферромагнитной фазы на резонансные условия парамагнитной фазы, которое проявляется в зависимости параметров линии парамагнитного резонанса от параметров ферромагнитной фазы."
+	},
+	"keywords": {
+		"ua": "заміщені манганіти, перехід метал—діелектрик, електронний спіновий резонанс, магнетоопір",
+		"en": "substituted manganites, metal—dielectric transition, electron spin resonance, magnetoresistance",
+		"ru": "замещённые манганиты, переход металл—диэлектрик, электронный спиновый резонанс, магнитосопротивление"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. І. Товстолиткін", "en": "O. I. Tovstolytkin", "ru": "А. И. Товстолыткин"},
+			"OID": [7]
+		},
+		{
+			"AID": {"ua": "Т. І. Полек", "en": "T. I. Polek", "ru": "Т. И. Полек"},
+			"OID": [7]
+		},
+		{
+			"AID": {"ua": "Д. Й. Под’яловський", "en": "D. J. Pod’yalovskii", "ru": "Д. И. Подъяловский"},
+			"OID": [7]
+		},
+		{
+			"AID": {"ua": "Т. М. Тарасенко", "en": "T. M. Tarasenko", "ru": "Т. Н. Тарасенко"},
+			"OID": [9]
+		},
+		{
+			"AID": {"ua": "З. Ф. Кравченко", "en": "Z. F. Kravchenko", "ru": "З. Ф. Кравченко"},
+			"OID": [9]
+		},
+		{
+			"AID": {"ua": "В. В. Бурховецький", "en": "V. V. Burkhovetskyi", "ru": "В. В. Бурховецкий"},
+			"OID": [9]
+		}
+	],
+	"references": {
+		"count": 31,
+		"list":  [
+			{
+				"doi": "10.1063/1.593890",
+				"or":  "V. M. Loktev and Yu. G. Pogorelov, Low Temperature Physics, 26, No. 3: 171 (2000).",
+				"tr":  "V. M. Loktev and Yu. G. Pogorelov, Low Temperature Physics, 26, No. 3: 171 (2000)."
+			},
+			{
+				"doi": "10.1016/S0370-1573(00)00121-6",
+				"or":  "E. Dagotto, T. Hotta, and A. Moreo, Phys. Rep., 344, No. 1: 1 (2001).",
+				"tr":  "E. Dagotto, T. Hotta, and A. Moreo, Phys. Rep., 344, No. 1: 1 (2001)."
+			},
+			{
+				"doi": "10.1126/science.264.5157.413",
+				"or":  "S. Jin, T. H. Tiefel, M. McCormack, R. A. Fastnacht, R. Ramesh, and L. H. Chen, Science, 264, No. 5157: 413 (1994).",
+				"tr":  "S. Jin, T. H. Tiefel, M. McCormack, R. A. Fastnacht, R. Ramesh, and L. H. Chen, Science, 264, No. 5157: 413 (1994)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.51.14103",
+				"or":  "A. Urushibara,Y. Moritomo, T. Arima, A. Asamitsu, G. Kido, and Y. Tokura, Phys. Rev. B, 51, No. 20: 14103 (1995).",
+				"tr":  "A. Urushibara,Y. Moritomo, T. Arima, A. Asamitsu, G. Kido, and Y. Tokura, Phys. Rev. B, 51, No. 20: 14103 (1995)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.67.180401",
+				"or":  "T. Kimura, S. Kawamoto, I. Yamada, M. Azuma, M. Takano, and Y. Tokura, Phys. Rev. B, 67, No. 18: 180401 (2003).",
+				"tr":  "T. Kimura, S. Kawamoto, I. Yamada, M. Azuma, M. Takano, and Y. Tokura, Phys. Rev. B, 67, No. 18: 180401 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Khomchenko, I. O. Troyanchuk, O. S. Mantytskaya, M. Tovar, and H. Szymczak, ZhETF, 103, No. 1: 54 (2006).",
+				"tr":  "V. A. Khomchenko, I. O. Troyanchuk, O. S. Mantytskaya, M. Tovar, and H. Szymczak, ZhETF, 103, No. 1: 54 (2006)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2004.11.293",
+				"or":  "T. Ogawa, A. Sandhu, M. Chiba, H. Takeuchi, and Y. Koizumi, J. Magn. Magn. Mater., 290–291, Part 2: 933 (2005).",
+				"tr":  "T. Ogawa, A. Sandhu, M. Chiba, H. Takeuchi, and Y. Koizumi, J. Magn. Magn. Mater., 290–291, Part 2: 933 (2005)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2004.06.024",
+				"or":  "Y. D. Zhao, Jonghyurk Park, R.-J. Jung, H.-J. Noh, and S. J. Oh, J. Magn. Magn. Mater., 280, Iss. 2–3: 404 (2004).",
+				"tr":  "Y. D. Zhao, Jonghyurk Park, R.-J. Jung, H.-J. Noh, and S. J. Oh, J. Magn. Magn. Mater., 280, Iss. 2–3: 404 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "T. N. Tarasenko, Z. F. Kravchenko, A. S. Mazur, V. I. Kamenev, N. E. Pismenova, O. F. Demidenko, O. V. Ignatenko, G. I. Makovetskii, A. M. Panasevich, K. I. Yanushkevich, A. I. Tovstolytkin, A. N. Pogorily, and T. I. Polek, High-Pressure Physics and Technology, 23, No. 4: 48 (2013) (in Russian).",
+				"tr":  "T. N. Tarasenko, Z. F. Kravchenko, A. S. Mazur, V. I. Kamenev, N. E. Pismenova, O. F. Demidenko, O. V. Ignatenko, G. I. Makovetskii, A. M. Panasevich, K. I. Yanushkevich, A. I. Tovstolytkin, A. N. Pogorily, and T. I. Polek, High-Pressure Physics and Technology, 23, No. 4: 48 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. I. Tovstolytkin, A. N. Pogorelyi, D. I. Pod’yalovskiy, T. I. Polek, T. N. Tarasenko, V. I. Kamenev, O. F. Demidenko, G. I. Makovetskiy, and K. I. Yanushkevich, Nanosistemi, Nanomateriali, Nanotehnologii, 9, No. 1: 115 (2011) (in Russian).",
+				"tr":  "A. I. Tovstolytkin, A. N. Pogorelyi, D. I. Pod'yalovskiy, T. I. Polek, T. N. Tarasenko, V. I. Kamenev, O. F. Demidenko, G. I. Makovetskiy, and K. I. Yanushkevich, Nanosistemi, Nanomateriali, Nanotehnologii, 9, No. 1: 115 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "I. O. Troyanchuk, N. V. Kasper, O. S. Mantytskaya, and S. N. Pastushonok, ZhETF, 78, No. 2: 212 (1994).",
+				"tr":  "I. O. Troyanchuk, N. V. Kasper, O. S. Mantytskaya, and S. N. Pastushonok, ZhETF, 78, No. 2: 212 (1994)."
+			},
+			{
+				"doi": "10.1016/j.physb.2003.08.073",
+				"or":  "J. M. Barandiaran, J. Gutierrez, M. Amboage, and L. Righi, Physica B: Condens. Matter, 343, No. 1: 379 (2004).",
+				"tr":  "J. M. Barandiaran, J. Gutierrez, M. Amboage, and L. Righi, Physica B: Condens. Matter, 343, No. 1: 379 (2004)."
+			},
+			{
+				"doi": "10.1038/nmat1860",
+				"or":  "M. Gajek, M. Bibes, S. Fusil, K. Bouzehouane, J. Fontcuberta, A. Barthélémy, and A. Fert, Nature Materials, 6, No. 4: 296 (2007).",
+				"tr":  "M. Gajek, M. Bibes, S. Fusil, K. Bouzehouane, J. Fontcuberta, A. Barthélémy, and A. Fert, Nature Materials, 6, No. 4: 296 (2007)."
+			},
+			{
+				"doi": "10.1088/0953-8984/20/43/434221",
+				"or":  "H. Béa, M. Gajek, and A. Barthélémy, J. Phys.: Condens. Matter, 20, No. 43: 434221 (2008).",
+				"tr":  "H. Béa, M. Gajek, and A. Barthélémy, J. Phys.: Condens. Matter, 20, No. 43: 434221 (2008)."
+			},
+			{
+				"doi": "10.1063/1.1645181",
+				"or":  "O. S. Mantytskaya, I. O. Troyanchuk, A. N. Chobot, and H. Szymczak, Low Temp. Phys., 30, No. 3: 218 (2004).",
+				"tr":  "O. S. Mantytskaya, I. O. Troyanchuk, A. N. Chobot, and H. Szymczak, Low Temp. Phys., 30, No. 3: 218 (2004)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2014.02.082",
+				"or":  "V. Dayal and V. P. Kumar, J. Magn. Magn. Mater., 361: 212 (2014).",
+				"tr":  "V. Dayal and V. P. Kumar, J. Magn. Magn. Mater., 361: 212 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "V. K. Jha, M. M. Seikh, R. Chatterjee, and A. K. Kundu, Sci. Lett. J., 2: 31 (2013).",
+				"tr":  "V. K. Jha, M. M. Seikh, R. Chatterjee, and A. K. Kundu, Sci. Lett. J., 2: 31 (2013)."
+			},
+			{
+				"doi": "10.1063/1.1496669",
+				"or":  "I. O. Troyanchuk, O. S. Mantytskaja, H. Szymczak, and M. Y. Shvedun, Low Temp. Phys., 28, No. 7: 569 (2002).",
+				"tr":  "I. O. Troyanchuk, O. S. Mantytskaja, H. Szymczak, and M. Y. Shvedun, Low Temp. Phys., 28, No. 7: 569 (2002)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2014.07.037",
+				"or":  "T. Izgi, V. S. Kolat, N. Bayri, H. Gencer, and S. Atalay, J. Magn. Magn. Mater., 372: 112 (2014).",
+				"tr":  "T. Izgi, V. S. Kolat, N. Bayri, H. Gencer, and S. Atalay, J. Magn. Magn. Mater., 372: 112 (2014)."
+			},
+			{
+				"doi": "10.1007/s11661-015-2839-y",
+				"or":  "V. S. Kolat, S. Atalay, T. Izgi, H. Gencer, and N. Bayri, Metall. Mater. Trans. A, 46, No. 6: 2591 (2015).",
+				"tr":  "V. S. Kolat, S. Atalay, T. Izgi, H. Gencer, and N. Bayri, Metall. Mater. Trans. A, 46, No. 6: 2591 (2015)."
+			},
+			{
+				"doi": "10.1063/1.4876222",
+				"or":  "A. M. Ahmed, H. F. Mohamed, and M. Šoka, Low Temp. Phys., 40, No. 5: 418 (2014).",
+				"tr":  "A. M. Ahmed, H. F. Mohamed, and M. Šoka, Low Temp. Phys., 40, No. 5: 418 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "A. G. Gurevich and G. A. Melkov, Magnetization Oscillations and Waves (Boca Raton, FL: CRC Press: 1996).",
+				"tr":  "A. G. Gurevich and G. A. Melkov, Magnetization Oscillations and Waves (Boca Raton, FL: CRC Press: 1996)."
+			},
+			{
+				"doi": "10.1063/1.1426241",
+				"or":  "F. Rivadulla, M. F. Alvite, and L. Quintela, J. Appl. Phys., 91, No. 2: 785 (2002).",
+				"tr":  "F. Rivadulla, M. F. Alvite, and L. Quintela, J. Appl. Phys., 91, No. 2: 785 (2002)."
+			},
+			{
+				"doi": "10.1088/0953-8984/15/24/310",
+				"or":  "K. W. Joh, C. H. Lee, and C. E. Lee, J. Phys.: Condens. Matter, 15, No. 24: 4161 (2003).",
+				"tr":  "K. W. Joh, C. H. Lee, and C. E. Lee, J. Phys.: Condens. Matter, 15, No. 24: 4161 (2003)."
+			},
+			{
+				"doi": "10.1088/0953-8984/21/38/386003",
+				"or":  "A. I. Tovstolytkin, A. M. Pogorily, Yu. I. Dzhezherya, V. V. Dzyublyuk, and D. J. Mapps, J. Phys.: Condens. Matter, 21, No. 38: 386003 (2009).",
+				"tr":  "A. I. Tovstolytkin, A. M. Pogorily, Yu. I. Dzhezherya, V. V. Dzyublyuk, and D. J. Mapps, J. Phys.: Condens. Matter, 21, No. 38: 386003 (2009)."
+			},
+			{
+				"doi": "10.1088/0953-8984/19/24/246212",
+				"or":  "Yu. I. Dzhezherya and A. I. Tovstolytkin, J. Phys.: Condens. Matter, 19, No. 24: 246212 (2007).",
+				"tr":  "Yu. I. Dzhezherya and A. I. Tovstolytkin, J. Phys.: Condens. Matter, 19, No. 24: 246212 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.68.174402",
+				"or":  "A. I. Shames, E. Rozenberg, G. Gorodetsky, and Y. M. Mukovskii, Phys. Rev. B, 68, No. 17: 174402 (2003).",
+				"tr":  "A. I. Shames, E. Rozenberg, G. Gorodetsky, and Y. M. Mukovskii, Phys. Rev. B, 68, No. 17: 174402 (2003)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2013.05.001",
+				"or":  "R. Thaljaoui, K. Pękała, M. Pękała, W. Boujelben, J. Szydłowska, J.-F. Fagnard, P. Vanderbemden, and A. Cheikhrouhou, J. Alloys Compd., 580: 137 (2013).",
+				"tr":  "R. Thaljaoui, K. Pękała, M. Pękała, W. Boujelben, J. Szydłowska, J.-F. Fagnard, P. Vanderbemden, and A. Cheikhrouhou, J. Alloys Compd., 580: 137 (2013)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2012.08.017",
+				"or":  "S. I. Andronenko, A. A. Rodionov, A. V. Fedorova, and S. K. Misra, J. Magn. Magn. Mater., 326: 151 (2013).",
+				"tr":  "S. I. Andronenko, A. A. Rodionov, A. V. Fedorova, and S. K. Misra, J. Magn. Magn. Mater., 326: 151 (2013)."
+			},
+			{
+				"doi": "10.1063/1.3007993",
+				"or":  "V. D. Doroshev, V. A. Borodin, V. I. Kamenev, A. S. Mazur, T. N. Tarasenko, A. I. Tovstolytkin, and S. V. Trukhanov, J. Appl. Phys., 104, No. 9: 093909 (2008).",
+				"tr":  "V. D. Doroshev, V. A. Borodin, V. I. Kamenev, A. S. Mazur, T. N. Tarasenko, A. I. Tovstolytkin, and S. V. Trukhanov, J. Appl. Phys., 104, No. 9: 093909 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "Eh. L. Nagaev, Physics-Uspekhi, 41, No. 8: 831 (1998).",
+				"tr":  "Eh. L. Nagaev, Physics-Uspekhi, 41, No. 8: 831 (1998)."
+			}
+		]
+	}
+}

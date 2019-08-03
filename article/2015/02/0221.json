@@ -1,0 +1,45 @@
+{
+	"_id":    "MFiNT.37.0221",
+	"year":   2015,
+	"volume": 37,
+	"issue":  2,
+	"pages":  [221,231],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["16.09.2014"],
+	"PACS":   "47.35.Lf, 47.40.Nm, 47.40.Rs, 47.55.dr, 62.50.Ef, 81.40.Vw",
+	"title":  {
+		"ua": "Визначення сил при гідровибусі в обмеженому об’ємі. I. Розрахунок сил від дії ударних хвиль",
+		"en": "Determination of Forces under Hydroexplosion in a Restricted Environment. Part 1. Calculation of Forces Caused by the Action of Shock Waves",
+		"ru": "Определение сил при гидровзрыве в ограниченном объёме. I. Расчёт сил от действия ударных волн"
+	},
+	"abstract": {
+		"ua": "Розглянуто формування зовнішнього навантаження від вибуху бризантної вибухової речовини в стаціонарному басейні, що викликане дією ударних хвиль та хвиль розвантаження, а також його вплив на дно басейну. Враховано хвилі розвантаження від газового пузиря. Уточнено часові характеристики початку дії цих хвиль.",
+		"en": "The formation of the external load (that was exerted by the shock and unloading waves) caused by the explosion of high (blasting) explosive in stationary pool is considered. The effect of the above-mentioned load on pool bottom is also studied. The unloading waves caused by the gas bubble are taken into consideration. Time characteristics of the beginning of the action of these waves are determined more precisely.",
+		"ru": "Рассмотрено формирование внешней нагрузки от взрыва бризантного взрывчатого вещества в стационарном бассейне, вызванной действием ударных волн и волн разгрузки, а также её воздействие на дно бассейна. Учтены волны разгрузки от газового пузыря. Уточнены временные характеристики начала действия этих волн."
+	},
+	"keywords": {
+		"ua": "навантаження, хвильові взаємодії, ударна хвиля, відбита хвиля, хвиля розвантаження, газовий міхур, стаціонарний басейн, гідровибух",
+		"en": "load, wave interaction, shock wave, reflected wave, unloading wave, gas bubble, stationary pool, hydroexplosion",
+		"ru": "нагрузка, волновые взаимодействия, ударная волна, отражённая волна, волна разгрузки, газовый пузырь, стационарный бассейн, гидровзрыв"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Ю. О. Невешкін", "en": "Yu. O. Neveshkin", "ru": "Ю. А. Невешкин"},
+			"OID": [207]
+		},
+		{
+			"AID": {"ua": "В. В. Остапчук", "en": "V. V. Ostapchuk", "ru": "В. В. Остапчук"},
+			"OID": [207]
+		},
+		{
+			"AID": {"ua": "О. У. Соломяний", "en": "O. U. Solomianyi", "ru": "А. У. Соломяный"},
+			"OID": [207]
+		}
+	],
+	"references": {
+		"count": 12,
+		"list":  []
+	}
+}

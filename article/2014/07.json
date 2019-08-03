@@ -1,0 +1,157 @@
+{
+	"year":   2014,
+	"volume": 36,
+	"issue":  7,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  2,
+			"pages":  [857,870],
+			"title": {
+				"ua": "Явище посилення на порядки величини прояву дефектів в картині багаторазового розсіяння і його дисперсійна природа",
+				"en": "The Phenomenon of Intensification (by Several Orders of Magnitude) Defects’ Manifestation in the Multiple-Scattering Pattern and Its Dispersive Nature",
+				"ru": "Явление усиления на порядки величины проявления дефектов в картине многократного рассеяния и его дисперсионная природа"
+			},
+			"autors": {
+				"ua": "В. В. Лізунов, В. Б. Молодкін, С. В. Лізунова, М. Г. Толмачьов, О. С. Скакунова, С. В. Дмитрієв, Б. В. Шелудченко, С. М. Бровчук, Л. М. Скапа, Р. В. Лехняк, К. В. Фузик",
+				"en": "V. V. Lizunov, V. B. Molodkin, S. V. Lizunova, M. G. Tolmachyov, O. S. Skakunova, S. V. Dmitriev, B. V. Sheludchenko, S. M. Brovchuk, L. M. Skapa, R. V. Lekhnyak, and K. V. Fuzik",
+				"ru": "В. В. Лизунов, В. Б. Молодкин, С. В. Лизунова, Н. Г. Толмачёв, Е. С. Скакунова, С. В. Дмитриев, Б. В. Шелудченко, С. М. Бровчук, Л. Н. Скапа, Р. В. Лехняк, Е. В. Фузик"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [871,902],
+			"title": {
+				"ua": "Ізотермічне мартенситне перетворення в інструментальній сталі та його вплив на карбідоутворення за відпускання",
+				"en": "Isothermal Martensitic Transformation in a Tool Steel and Its Effect on Carbide Formation under Tempering",
+				"ru": "Изотермическое мартенситное превращение в инструментальной стали и его влияние на карбидообразование при отпуске"
+			},
+			"autors": {
+				"ua": "В. О. Сірош, А. І. Тищенко, Г. С. Могильний, Ю. М. Петров, Е. В. Польшин, В. Г. Гаврилюк",
+				"en": "V. O. Sirosh, A. I. Tyshchenko, G. S. Mogilnyi, Yu. M. Petrov, E. V. Polshin, and V. G. Gavriljuk",
+				"ru": "В. А. Сирош, А. И. Тищенко, Г. С. Могильный, Ю. Н. Петров, Э. В. Польшин, В. Г. Гаврилюк"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [903,916],
+			"title": {
+				"ua": "Особливості ГДДР за низьких тисків водню в стопах системи Nd—Fe—B",
+				"en": "Peculiarities of the HDDR Processes at Low Hydrogen Pressures in Nd—Fe—B System Alloys",
+				"ru": "Особенности ГДДР при низких давлениях водорода в сплавах системы Nd—Fe—B"
+			},
+			"autors": {
+				"ua": "І. І. Булик, А. М. Тростянчин, В. В. Бурховецький, В. Ю. Таренков",
+				"en": "I. I. Bulyk, А. M. Trostianchyn, V. V. Burkhovetskyi, and V. Yu. Tarenkov",
+				"ru": "И. И. Булык, А. Н. Тростянчин, В. В. Бурховецкий, В. Ю. Таренков"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [917,933],
+			"title": {
+				"ua": "Структурна залежність корозійних властивостей стопу Zr—1,0% Nb у соляному розчині",
+				"en": "Structural Dependence of Corrosion Properties of Zr—1.0% Nb Alloy in Saline Solution",
+				"ru": "Структурная зависимость коррозионных свойств сплава Zr—1,0% Nb в соляном растворе"
+			},
+			"autors": {
+				"ua": "Б. М. Мордюк, О. П. Карасевська, Н. І. Хріпта, Г. І. Прокопенко, М. О. Васильєв",
+				"en": "B. M. Mordyuk, O. P. Karasevska, N. I. Khripta, G. I. Prokopenko, and M. O. Vasylyev",
+				"ru": "Б. Н. Мордюк, О. П. Карасевская, Н. И. Хрипта, Г. И. Прокопенко, М. А. Васильев"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [935,946],
+			"title": {
+				"ua": "До питання про теплотривкість деформованих стопів цирконію технічного та медичного призначення",
+				"en": "On Thermal Stability of Deformed Zirconium Alloys of Technical and Medicine Purposes",
+				"ru": "К вопросу о теплоустойчивости деформированных сплавов циркония технического и медицинского назначения"
+			},
+			"autors": {
+				"ua": "В. Н. Воєводін, С. Д. Лавриненко, С. П. Ошкадьоров, О. А. Стребкова",
+				"en": "V. N. Voevodin, S. D. Lavrinenko, S. P. Oshkaderov, and O. A. Strebkova",
+				"ru": "В. Н. Воеводин, С. Д. Лавриненко, С. П. Ошкадёров, О. А. Стребкова"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [947,957],
+			"title": {
+				"ua": "Структура та властивості фуллеренів C$_{58}$ та C$_{62}$",
+				"en": "Structure and Properties of the C$_{58}$ and C$_{62}$ Fullerenes",
+				"ru": "Структура и свойства фуллеренов C$_{58}$ и C$_{62}$"
+			},
+			"autors": {
+				"ua": "О. М. Пастушенко, А. І. Момот",
+				"en": "O. M. Pastushenko and A. I. Momot",
+				"ru": "О. Н. Пастушенко, А. И. Момот"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [959,966],
+			"title": {
+				"ua": "Структурні та електронні властивості нанодротів літію",
+				"en": "Structural and Electronic Properties of Lithium Nanowires",
+				"ru": "Структурные и электронные свойства нанопроводов лития"
+			},
+			"autors": {
+				"ua": "В. Г. Бутько, А. А. Гусєв, Т. Н. Шевцова, Ю. Г. Пашкевич",
+				"en": "V. G. Boutko, А. А. Gusev, T. N. Shevtsova, and Yu. G. Pashkevich",
+				"ru": "В. Г. Бутько, А. А. Гусев, Т. Н. Шевцова, Ю. Г. Пашкевич"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [967,976],
+			"title": {
+				"ua": "Структура та магнетні властивості стопу Fe$_{2}$MnGa",
+				"en": "Structure and Magnetic Properties of Fe$_{2}$MnGa",
+				"ru": "Структура и магнитные свойства сплава Fe$_{2}$MnGa"
+			},
+			"autors": {
+				"ua": "Ю. В. Кудрявцев, А. О. Перекос, В. М. Єрмоленко, J. Dubowik, І. М. Главацький, Л. Є. Козлова, Ю. Б. Скирта",
+				"en": "Yu. V. Kudryavtsev, A. O. Perekos, V. M. Iermolenko, J. Dubowik, I. M. Glavatskyi, L. E. Kozlova, and Yu. B. Skirta",
+				"ru": "Ю. В. Кудрявцев, А. Е. Перекос, В. Н. Ермоленко, J. Dubowik, И. Н. Главацкий, Л. Е. Козлова, Ю. Б. Скирта"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [977,986],
+			"title": {
+				"ua": "Електронна будова аморфного металевого сплаву Fe$_{77}$Si$_{8}$B$_{15}$",
+				"en": "Electronic Structure of Amorphous Metal Alloy Fe$_{77}$Si$_{8}$B$_{15}$",
+				"ru": "Электронное строение аморфного металлического сплава Fe$_{77}$Si$_{8}$B$_{15}$"
+			},
+			"autors": {
+				"ua": "В. Л. Карбівський, О. Г. Ільїнський, В. Х. Касіяненко, О. І. Слуховський, Ю. В. Лєпєєва, Л. І. Карбівська, А. І. Соболєв",
+				"en": "V. L. Karbovskii, O. G. Ilinskyi, V. Kh. Kasiyanenko, O. I. Slukhovskyi, Yu. V. Lepeeva, L. I. Karbovska, and A. I. Sobolev",
+				"ru": "В. Л. Карбовский, А. Г. Ильинский, В. Х. Касияненко, О. И. Слуховский, Ю. В. Лепеева, Л. И. Карбовская, А. И. Соболев"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  1,
+			"pages":  [987,997],
+			"title": {
+				"ua": "Проблеми визначення розмірів кластерів в аморфних металевих матеріалах",
+				"en": "Problems of Determination of the Clusters’ Sizes in Amorphous Metal Materials",
+				"ru": "Проблемы определения размеров кластеров в аморфных металлических материалах"
+			},
+			"autors": {
+				"ua": "Ю. В. Лєпєєва, Г. М. Зелінська, О. І. Слуховський, О. В. Маруняк",
+				"en": "Yu. V. Lepeeva, G. M. Zelinska, O. I. Slukhovskyi, and O. V. Marunyak",
+				"ru": "Ю. В. Лепеева, Г. М. Зелинская, О. И. Слуховский, А. В. Маруняк"
+			}
+		}
+	]
+}

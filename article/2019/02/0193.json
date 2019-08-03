@@ -1,0 +1,96 @@
+{
+	"_id":    "MFiNT.41.02.0193",
+	"year":   2019,
+	"volume": 41,
+	"issue":  2,
+	"pages":  [193,201],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["06.06.2018"],
+	"PACS":   "05.70.Ln, 46.35.+z, 62.20.F-,62.20.fq, 62.30.+d, 81.40.Lm, 83.10.Gr",
+	"title":   {
+		"ua": "Пружньопластичний інваріянт як універсальна закономірність деформації",
+		"en": "Elastoplastic Invariant as a Universal Regularity of Deformation",
+		"ru": "Упругопластический инвариант как универсальная закономерность деформации"
+	},
+	"abstract": {
+		"ua": "Методами статистичної аналізи результатів експериментів, проведених на металах, лужно-галоїдних кристалах і гірських породах, показано, що дані про величину пружньопластичного інваріянту деформації, — величини, яка об’єднує характеристики пружньої деформації та пластичної течії твердих тіл різної природи, — підкоряються нормальному розподілу і не мають тенденції до зміни, залежно від будь-яких матеріяльних характеристик.",
+		"en": "The data on the magnitude of the elastoplastic invariant of deformation as a quantity, which unites the characteristics of elastic deformation and plastic flow of solids of various natures, obey a normal distribution and do not have the tendency to change depending on any material characteristics. These results are obtained by methods of statistical analysis of the data of experiments carried out on metals, alkali-halide crystals, and rocks.",
+		"ru": "Методами статистического анализа результатов экспериментов, проведённых на металлах, щелочно-галоидных кристаллах и горных породах, показано, что данные о величине упругопластического инварианта деформации — величины, объединяющей характеристики упругой деформации и пластического течения твёрдых тел различной природы, — подчиняются нормальному распределению и не имеют тенденции к изменению в зависимости от каких-либо материальных характеристик."
+	},
+	"keywords": {
+		"ua": "локалізація пластичної деформації, пружньопластичний інваріянт деформації, автохвилі, самоорганізація, спекл-фотографія",
+		"en": "localization of plastic deformation, elastoplastic invariant, autowaves, self-organization, speckle photography",
+		"ru": "локализация пластической деформации, упругопластический инвариант, автоволны, самоорганизация, спекл-фотография"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Л. Б. Зуєв", "en": "L. B. Zuev", "ru": "Л. Б. Зуев"},
+			"OID": [405]
+		},
+		{
+			"AID": {"ua": "С. А. Бараннікова", "en": "S. A. Barannikova", "ru": "С. А. Баранникова"},
+			"OID": [405]
+		},
+		{
+			"AID": {"ua": "Ю. В. Лі", "en": "Yu. V. Li", "ru": "Ю. В. Ли"},
+			"OID": [405]
+		}
+	],
+	"references": {
+		"count": 10,
+		"list":  [
+			{
+				"doi": "10.1007/PL00021098",
+				"or":  "L. B. Zuev, V. I. Danilov, S. A. Barannikova, and I. Y. Zykov, Appl. Phys. A, 71: 91 (2000).",
+				"tr":  "L. B. Zuev, V. I. Danilov, S. A. Barannikova, and I. Y. Zykov, Appl. Phys. A, 71: 91 (2000)."
+			},
+			{
+				"doi": "10.1016/j.ssc.2012.01.044",
+				"or":  "S. A. Barannikova, A. V. Ponomareva, L. B. Zuev, Yu. Kh. Vekilov, and I. A. Abrikosov, Solid State Commun., 152: 784 (2012).",
+				"tr":  "S. A. Barannikova, A. V. Ponomareva, L. B. Zuev, Yu. Kh. Vekilov, and I. A. Abrikosov, Solid State Commun., 152: 784 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Хакен, Информация и самоорганизация. Макроскопический подход к сложным системам (Москва: Мир: 2014).",
+				"tr":  "H. Haken, Informatsiya i Samoorganizatsiya. Makroskopicheskiy Podkhod k Slozhnym Sistemam [Information and Self-Organization: A Macroscopic Approach to Complex Systems] (Moscow: Mir: 2014) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Seeger and W. Frank, Non-Linear Phenomena in Materials Science (New York: Trans. Tech. Publ.: 1987).",
+				"tr":  "A. Seeger and W. Frank, Non-Linear Phenomena in Materials Science (New York: Trans. Tech. Publ.: 1987)."
+			},
+			{
+				"doi": "10.3103/S1062873814100256",
+				"or":  "Л. Б. Зуев, Известия РАН. Сер. физич., 78: 1206 (2014).",
+				"tr":  "L. B. Zuev, Bull. Russ. Acad. Sci. Phys., 78: 957 (2014)."
+			},
+			{
+				"doi": "10.1016/j.triboint.2009.06.010",
+				"or":  "E. Kayahan, H. Oktem, F. Hacizade, H. Nasibov, and O. Gundoglu, Tribology Int., 43: 307 (2010).",
+				"tr":  "E. Kayahan, H. Oktem, F. Hacizade, H. Nasibov, and O. Gundoglu, Tribology Int., 43: 307 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. Судзуки, Х. Ёсинага, С. Такеути, Динамика дислокаций и пластичность (Москва: Мир: 1989) (пер. с япон.).",
+				"tr":  "T. Suzuki, H. Yoshinaga, and S. Takeuchi, Dinamika Dislokatsiy i Plastichnost' [Dislocation Dynamics and Plasticity] (Moscow: Mir: 1989) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Н. Степнов, Вероятностные методы оценки характеристик механических свойств материалов (Новосибирск: Наука: 2005).",
+				"tr":  "M. N. Stepnov, Veroyatnostnye Metody Otsenki Kharakteristik Mekhanicheskikh Svoystv Materialov [Probabilistic Methods for Evaluating the Characteristics of the Mechanical Properties of Materials] (Novosibirsk: Nauka: 2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "R. E. Newnham, Properties of Materials (Oxford: University Press: 2005).",
+				"tr":  "R. E. Newnham, Properties of Materials (Oxford: University Press: 2005)."
+			},
+			{
+				"doi": "10.7868/S0015323017060110",
+				"or":  "Л. Б. Зуев, Физ. мет. металловед., 118: 851 (2017).",
+				"tr":  "L. B. Zuev, Phys. Metals Metallogr., 118: 810 (2017)."
+			}
+		]
+	}
+}

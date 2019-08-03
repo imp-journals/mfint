@@ -1,0 +1,113 @@
+{
+	"_id":    "MFiNT.38.02.0267",
+	"year":   2016,
+	"volume": 38,
+	"issue":  2,
+	"pages":  [267,275],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["17.09.2015","27.10.2015"],
+	"PACS":   "42.79.Vb, 68.35.Gy, 68.35.Np, 68.37.Ps, 78.66.Bz, 81.15.Ef, 89.20.Ff",
+	"title":   {
+		"ua": "Оптичний диск для довготривалого зберігання даних на основі плівки хрому",
+		"en": "Optical Disc for Long-Term Data Storage Based on Chromium Film",
+		"ru": "Оптический диск для длительного хранения данных на основе плёнки хрома"
+	},
+	"abstract": {
+		"ua": "Досліджено можливість використання плівок Ag, Au, Al и Cr в якості відбивального шару оптичних дисків для довготермінового зберігання інформації. Тонкі металеві плівки були одержані на поверхні скляного підложжя методою вакуумного термічного розпорошення; було досліджено їхні адгезійні властивості. Показано, що найкращу адгезію до скляного підложжя серед обраних плівок мають плівки хрому. Запропоновано оптичний диск для довготермінового зберігання даних, інформацію в якому записано безпосередньо на відбивальній металевій плівці у форматі стандартного оптичного диску. В шарі позитивного фоторезисту на станції лазерного запису в форматі CD були записані дані. Таким чином було одержано маску для наступного хемічного щавлення плівки хрому. Аналіза морфології записаних пітів показала їх відповідність стандарту. Створений хромовий диск для довготермінового зберігання інформації було успішно відтворено на стандартному програвачі DVD-дисків.",
+		"en": "The applicability of the Ag, Au, Al, and Cr films as the reflective layer of optical discs for long-term data storage is investigated. Thin metal films are obtained on glass substrate by the method of vacuum thermal deposition. Their adhesive properties are revealed. As shown, a chromium film is characterized by the best adhesion to the glass substrate among all investigated ones. Optical disc for long-term storage is proposed. The information on disk is recorded directly on the reflective metal film. The information on the positive photoresist layer is recorded according to already existed CD standard using laser-burning station. Then, the mask for following chemical etching of chromium film is created. Analysis of morphology of recorded pits proves suitability of the long-term data storage disc to existing standards. Chromium optical disc created in this way is successfully read in a standard DVD player.",
+		"ru": "Исследована возможность применения плёнок Ag, Au, Al и Cr в качестве отражающего слоя оптических дисков для долговременного хранения информации. Тонкие металлические плёнки были получены на поверхности стеклянной подложки методом вакуумного термического напыления; изучены их адгезионные свойства. Показано, что наилучшей адгезией к стеклянной подложке среди исследуемых плёнок обладает плёнка хрома. Предложен оптический диск для долговременного хранения данных, информация в котором записана непосредственно на отражающей металлической плёнке в формате стандартных оптических дисков. В слое позитивного фоторезиста на станции лазерной записи в формате CD были записаны данные. Таким образом, была получена маска для последующего химического травления плёнки хрома. Анализ морфологии записанных питов показал их соответствие стандарту. Созданный хромовый диск для долговременного хранения информации был успешно воспроизведён на стандартном проигрывателе DVD-дисков."
+	},
+	"keywords": {
+		"ua": "довготермінове зберігання інформації, оптичний диск, WORM, металева плівка, адгезія",
+		"en": "long-term data storage, optical disc, WORM, chromium film, adhesion",
+		"ru": "долговременное хранение информации, оптический диск, WORM, металлическая плёнка, адгезия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. В. Горбов", "en": "I. V. Gorbov", "ru": "И. В. Горбов"},
+			"OID": [23]
+		},
+		{
+			"AID": {"ua": "Д. Ю. Манько", "en": "D. Yu. Manko", "ru": "Д. Ю. Манько"},
+			"OID": [23]
+		},
+		{
+			"AID": {"ua": "А. А. Крючин", "en": "A. A. Kryuchyn", "ru": "А. А. Крючин"},
+			"OID": [23]
+		},
+		{
+			"AID": {"ua": "Ле Зічун", "en": "Zichun Le", "ru": "Ле Зичун"},
+			"OID": [441]
+		},
+		{
+			"AID": {"ua": "Фу Мінглей", "en": "Minglei Fu", "ru": "Фу Минглей"},
+			"OID": [442]
+		},
+		{
+			"AID": {"ua": "А. В. Панкратова", "en": "A. V. Pankratova", "ru": "А. В. Панкратова"},
+			"OID": [23]
+		}
+	],
+	"references": {
+		"count": 11,
+		"list":  [
+			{
+				"doi": "10.1117/12.900745",
+				"or":  "﻿V. Petrov, A. Kryuchyn, and I. Gorbov, Proc. SPIE, 8011: 80112J (2011)",
+				"tr":  "V. Petrov, A. Kryuchyn, and I. Gorbov, Proc. SPIE, 8011: 80112J (2011)"
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Petrov, V. M. Puzikov, A. A. Kryuchyn, and I. V. Gorbov, Nanosistemi, Nanomateriali, Nanotehnologii, 7, No. 3: 825 (2009) (in Russian)",
+				"tr":  "V. V. Petrov, V. M. Puzikov, A. A. Kryuchyn, and I. V. Gorbov, Nanosistemi, Nanomateriali, Nanotehnologii, 7, No. 3: 825 (2009) (in Russian)"
+			},
+			{
+				"doi": "",
+				"or":  "R. Harvey, Preserving Digital Materials (Hawthorne: Walter de Gruyter: 2012)",
+				"tr":  "R. Harvey, Preserving Digital Materials (Hawthorne: Walter de Gruyter: 2012)"
+			},
+			{
+				"doi": "",
+				"or":  "I. V. Gorbov and V. O. Belyakovsky, Data Recording, Storage and Processing, 9, No. 3: 73 (2007) (in Ukrainian)",
+				"tr":  "I. V. Gorbov and V. O. Belyakovsky, Data Recording, Storage and Processing, 9, No. 3: 73 (2007) (in Ukrainian)"
+			},
+			{
+				"doi": "10.1103/PhysRevLett.112.033901",
+				"or":  "J. Zhang, M. Gecevičius, M. Beresna, and P. G. Kazansky, Phys. Rev. Lett., 112, No. 3: 033901 (2014)",
+				"tr":  "J. Zhang, M. Gecevičius, M. Beresna, and P. G. Kazansky, Phys. Rev. Lett., 112, No. 3: 033901 (2014)"
+			},
+			{
+				"doi": "10.15407/spqeo16.04.362",
+				"or":  "A. A. Kryuchyn, V. V. Petrov, S. O. Kostyukevych, K. V. Kostyukevych, A. A. Kudryavtsev, and N. L. Moskalenko, Semiconductor Physics, Quantum Electronics and Optoelectronics, 16, No. 4: 362 (2013)",
+				"tr":  "A. A. Kryuchyn, V. V. Petrov, S. O. Kostyukevych, K. V. Kostyukevych, A. A. Kudryavtsev, and N. L. Moskalenko, Semiconductor Physics, Quantum Electronics and Optoelectronics, 16, No. 4: 362 (2013)"
+			},
+			{
+				"doi": "10.1016/j.jnoncrysol.2005.11.060",
+				"or":  "Y. Shimotsuma, K. Hirao, J. Qiu, and K. Miura, J. Non-Crystalline Solids, 352: 646 (2006)",
+				"tr":  "Y. Shimotsuma, K. Hirao, J. Qiu, and K. Miura, J. Non-Crystalline Solids, 352: 646 (2006)"
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Petrov, A. A. Kryuchyn, I. V. Gorbov, I. O. Kossko, and S. O. Kostyukevych, Semiconductor Physics, Quantum Electronics and Optoelectronics, 12, No. 4: 399 (2009)",
+				"tr":  "V. V. Petrov, A. A. Kryuchyn, I. V. Gorbov, I. O. Kossko, and S. O. Kostyukevych, Semiconductor Physics, Quantum Electronics and Optoelectronics, 12, No. 4: 399 (2009)"
+			},
+			{
+				"doi": "",
+				"or":  "A. A. Uglov, L. M. Anishenko, and S. E. Kuznetsov, Adgezionnaya Sposobnost Plenok [Adhesive Ability of Films] (Moscow: Radio i Svyaz: 1987) (in Russian)",
+				"tr":  "A. A. Uglov, L. M. Anishenko, and S. E. Kuznetsov, Adgezionnaya Sposobnost Plenok [Adhesive Ability of Films] (Moscow: Radio i Svyaz: 1987) (in Russian)"
+			},
+			{
+				"doi": "10.1051/jphysrad:01950001107035500",
+				"or":  "O. S. Heavens, J. Phys. Radium, 11, No. 7: 355 (1950)",
+				"tr":  "O. S. Heavens, J. Phys. Radium, 11, No. 7: 355 (1950)"
+			},
+			{
+				"doi": "10.1007/s10812-010-9321-9",
+				"or":  "V. G. Kravets, L. V. Poperenko, and D. Yu. Manko, J. Appl. Spectr., 77, No. 2: 242 (2010)",
+				"tr":  "V. G. Kravets, L. V. Poperenko, and D. Yu. Manko, J. Appl. Spectr., 77, No. 2: 242 (2010)"
+			}
+		]
+	}
+}

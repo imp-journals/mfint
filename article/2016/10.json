@@ -1,0 +1,157 @@
+{
+	"year":   2016,
+	"volume": 38,
+	"issue":  10,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [1279,1292],
+			"title": {
+				"ua": "Конкуренція пороутворення і Кіркендаллового зміщення під час росту сполуки при реакційній дифузії: альтернативні моделі",
+				"en": "Competition of Voiding and Kirkendall Shift during Compound Growth in Reactive Diffusion–Alternative Models",
+				"ru": "Конкуренция порообразования и киркендалловского смещения во время роста соединения при реакционной диффузии: альтернативные модели"
+			},
+			"autors": {
+				"ua": "Т. В. Запорожець, Н. В. Сторожук, А. М. Гусак",
+				"en": "T. V. Zaporozhets, N. V. Storozhuk, and A. M. Gusak",
+				"ru": "Т. В. Запорожец, Н. В. Сторожук, А. М. Гусак"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [1293,1302],
+			"title": {
+				"ua": "Вплив електроміґрації на кінетику реакційної дифузії в системі Cu—Sn",
+				"en": "Influence of Electromigration on Kinetics of Reaction Diffusion in the Cu—Sn System",
+				"ru": "Влияние электромиграции на кинетику реакционной диффузии в системе Cu—Sn"
+			},
+			"autors": {
+				"ua": "С. В. Корнієнко, Д. О. Зраєв",
+				"en": "S. V. Kornienko and D. O. Zraev",
+				"ru": "С. В. Корниенко, Д. А. Зраев"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  2,
+			"pages":  [1303,1320],
+			"title": {
+				"ua": "Дослідження атомових зміщень, створюваних у каскадах у опромінюваному $\\alpha$-Zr, з використанням методів молекулярно-динамічного моделювання",
+				"en": "A Study of Atomic Displacements Produced in Cascades in Irradiated $\\alpha$-Zr by Using Molecular Dynamics Simulations",
+				"ru": "Исследование атомных смещений, производимых в каскадах в облучаемом $\\alpha$-Zr, с применением методов молекулярно-динамического моделирования"
+			},
+			"autors": {
+				"ua": "Ю. М. Овчаренко, С. В. Кохан, Д. О. Харченко, С. Ву, Б. Вен, Л. Ву, В. Жанг",
+				"en": "Yu. M. Ovcharenko, S. V. Kokhan, D. O. Kharchenko, X. Wu, B. Wen, L. Wu, and W. Zhang",
+				"ru": "Ю. М. Овчаренко, С. В. Кохан, Д. О. Харченко, С. Ву, Б. Вен, Л. Ву, В. Жанг"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  2,
+			"pages":  [1321,1333],
+			"title": {
+				"ua": "Розподіл локальних деформацій поблизу тріщин у зварному шві Ni—Cr—Fe за даними дифракції зворотньо розсіяних електронів",
+				"en": "Distribution of Local Strains in a Neighbourhood of Cracks in a Welded Seam of Ni—Cr—Fe According to Diffraction Data of Back Scattered Electrons",
+				"ru": "Распределение локальных деформаций в окрестности трещин в сварном шве Ni—Cr—Fe по данным дифракции обратно рассеянных электронов"
+			},
+			"autors": {
+				"ua": "І. М. Фодчук, М. Д. Борча, В. Ю. Хоменко, В. М. Ткач, О. О. Стаценко, К. А. Ющенко, А. В. Звягинцева, Н. О. Червяков",
+				"en": "I. M. Fodchuk, M. D. Borcha, V. Yu. Khomenko, V. M. Tkach, O. O. Statsenko, K. A. Yushchenko, A. V. Zviagintsevа, and N. O. Chervyakov",
+				"ru": "И. М. Фодчук, М. Д. Борча, В. Ю. Хоменко, В. М. Ткач, О. О. Стаценко, К. А. Ющенко, А. В. Звягинцева, Н. О. Червяков"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1335,1349],
+			"title": {
+				"ua": "Закономірності локалізованої пластичної течії як наслідки пружньо-пластичного інваріянту деформації",
+				"en": "Regularities of the Localized Plastic Flow Viewed as Consequences of Elastoplastic Invariant of Strain",
+				"ru": "Закономерности локализованного пластического течения как следствия упругопластического инварианта деформации"
+			},
+			"autors": {
+				"ua": "Л. Б. Зуєв",
+				"en": "L. B. Zuev",
+				"ru": "Л. Б. Зуев"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [1351,1366],
+			"title": {
+				"ua": "Зростання наскрізних пор і термічне дисперґування суцільних полікристалічних плівок міді",
+				"en": "Growth of Through Pores and Thermal Dispersion of Continuous Polycrystalline Films of Copper",
+				"ru": "Рост сквозных пор и термическое диспергирование сплошных поликристаллических плёнок меди"
+			},
+			"autors": {
+				"ua": "С. І. Петрушенко, С. В. Дукаров, В. М. Сухов",
+				"en": "S. I. Petrushenko, S. V. Dukarov, and V. N. Sukhov",
+				"ru": "С. И. Петрушенко, С. В. Дукаров, В. Н. Сухов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [1367,1378],
+			"title": {
+				"ua": "Теплофізичні властивості склокристалічних ізоляційних шарів для пласких нагрівних елементів",
+				"en": "Thermal Properties of Insulating Glass-Ceramic Layers for Flat Heating Elements",
+				"ru": "Теплофизические свойства стеклокристаллических изоляционных слоёв для плоских нагревательных элементов"
+			},
+			"autors": {
+				"ua": "З. А. Дурягіна, Т. М. Ковбасюк, M. Zagula-Yavorska, С. А. Беспалов",
+				"en": "Z. А. Duriagina, Т. М. Kovbasyuk, M. Zagula-Yavorska, and S. A. Bespalov",
+				"ru": "З. А. Дурягина, Т. М. Ковбасюк, M. Zagula-Yavorska, С. А. Беспалов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [1379,1393],
+			"title": {
+				"ua": "Періодичні модуляції магнетостатичного поля у феромагнетному циліндрі та їх вплив на формування фіґур щавлення у розчинах кислот",
+				"en": "Periodic Modulations of Magnetostatic Field in Ferromagnetic Cylinder and Their Influence on Etching Figure Formation in Acid Solutions",
+				"ru": "Периодические модуляции магнитостатического поля в ферромагнитном цилиндре и их влияние на формирование фигур травления в растворах кислот"
+			},
+			"autors": {
+				"ua": "Ю. І. Джежеря, О. Ю. Горобець, О. П. Кузь, О. С. Климук, Ю. І. Горобець",
+				"en": "Yu. I. Dzhezherya, O. Yu. Gorobets, O. P. Kuz, O. S. Klymuk, and Yu. I. Gorobets",
+				"ru": "Ю. И. Джежеря, О. Ю. Горобец, А. П. Кузь, Е. С. Климук, Ю. И. Горобец"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [1395,1405],
+			"title": {
+				"ua": "Прогнозування стабільної композиції для високоентропійних тяжкотопких стопів",
+				"en": "Prediction of Stable Composition for High-Entropy Refractory Alloys",
+				"ru": "Прогнозирование стабильной композиции для высокоэнтропийных тугоплавких сплавов"
+			},
+			"autors": {
+				"ua": "О. Б. Мельник, В. К. Сульженко",
+				"en": "A. B. Melnick and V. K. Soolshenko",
+				"ru": "А. Б. Мельник, В. К. Сульженко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [1407,1422],
+			"title": {
+				"ua": "Роль діяграм фазових рівноваг у створенні евтектичних стопів для машинобудування",
+				"en": "Role of Diagrams of Phase Equilibria in Fabrication of Eutectic Alloys for Mechanical Engineering",
+				"ru": "Роль диаграмм фазовых равновесий в создании эвтектических сплавов для машиностроения"
+			},
+			"autors": {
+				"ua": "Г. П. Дмитрієва",
+				"en": "G. P. Dmitrieva",
+				"ru": "Г. П. Дмитриева"
+			}
+		}
+	]
+}

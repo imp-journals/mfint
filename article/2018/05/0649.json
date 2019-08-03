@@ -1,0 +1,202 @@
+{
+	"_id":    "MFiNT.40.05.0649",
+	"year":   2018,
+	"volume": 40,
+	"issue":  5,
+	"pages":  [649,660],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["08.12.2017"],
+	"PACS":   "61.66.Dk, 68.43.Mn, 68.43.Nr, 81.05.Je, 82.30.Rs, 82.80.Ms, 88.30.rd",
+	"title":   {
+		"ua": "Вплив часткової заміни манґану хромом на структуру та кінетику гідрування стопу на основі інтерметаліду (Ti, Zr)(V, Mn)$_{2-x}$",
+		"en": "Influence of Partial Substitution of Manganese with Chromium on Structure and Kinetics of Hydrogenation of an Alloy Based on the (Ti, Zr)(V, Mn)$_{2-x}$ Intermetallide",
+		"ru": "Влияние частичной замены марганца хромом на структуру и кинетику гидрирования сплава на основе интерметаллида (Ti, Zr)(V, Mn)$_{2-x}$"
+	},
+	"abstract": {
+		"ua": "Методами оптичної мікроскопії та рентґенівської фазової аналізи вивчено мікроструктуру та фазовий склад литого стопу на основі інтерметаліду (Ti, Zr)(V, Cr, Mn)$_{2-x}$, а також фазовий склад продукту гідрування. Встановлено, що часткова заміна манґану хромом не приводить до зміни структури та фазового складу стопу, що дає можливість синтезувати гідрид із водневою місткістю у 2,08% мас. за кімнатної температури і тиску в 0,21 МПа. Також встановлено, що хром зменшує термічну стабільність одержаного гідриду, розпад якого розпочинається за кімнатної температури, а максимальна реверсна місткість досягається при 300°C.",
+		"en": "The microstructure and phase composition of the cast alloy based on the (Ti, Zr)(V, Cr, Mn)$_{2-x}$ intermetallide as well as the phase composition of the hydrogenation product are studied by optical microscopy and x-ray phase analysis. As found, the partial substitution of manganese with chromium does not lead to a change in the structure and phase composition of the alloy that makes it possible to synthesize a hydride with a hydrogen capacity of 2.08% wt. at room temperature and a pressure of 0.21 MPa. As also revealed, the chromium reduces the thermal stability of the resulting hydride, the decomposition of which begins at room temperature, and the maximum reversible capacity is reached at 300°C.",
+		"ru": "Методами оптической микроскопии и рентгеновского фазового анализа изучены микроструктура и фазовый состав литого сплава на основе интерметаллида (Ti, Zr)(V, Cr, Mn)$_{2-x}$, а также фазовый состав продукта гидрирования. Установлено, что частичная замена марганца хромом не приводит к изменению структуры и фазового состава сплава, что даёт возможность синтезировать гидрид с водородной ёмкостью 2,08% масс. при комнатной температуре и давлении 0,21 МПа. Также установлено, что хром уменьшает термическую стабильность полученного гидрида, распад которого начинается при комнатной температуре, а максимальная реверсивная ёмкость достигается при 300°C."
+	},
+	"keywords": {
+		"ua": "Лавесова фаза, гідрування, дегідрування, воднева місткість",
+		"en": "Laves phase, hydrogenation, dehydrogenation, hydrogen capacity",
+		"ru": "фаза Лавеса, гидрирование, дегидрирование, водородная ёмкость"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Т. В. Прядко", "en": "T. V. Pryadko", "ru": "Т. В. Прядко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. А. Дехтяренко", "en": "V. A. Dekhtyarenko", "ru": "В. А. Дехтяренко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 32,
+		"list":  [
+			{
+				"doi": "10.1016/0025-5408(78)90031-4",
+				"or":  "H. Oesterreicher and H. Bittner, Mat. Res. Bull., 13: 83 (1978).",
+				"tr":  "H. Oesterreicher and H. Bittner, Mat. Res. Bull., 13: 83 (1978)."
+			},
+			{
+				"doi": "10.1016/S0966-9795(99)00092-8",
+				"or":  "J. L. Bobet, B. Chevalier, and T. B. Darrie, Intermetallics, 8, No. 4: 359 (2000).",
+				"tr":  "J. L. Bobet, B. Chevalier, and T. B. Darrie, Intermetallics, 8, No. 4: 359 (2000)."
+			},
+			{
+				"doi": "10.1016/j.intermet.2003.08.005",
+				"or":  "H. Taizhong, W. Zhu, Y. Xuebin, C. Jinzhou, X. BaoJia, H. Tiesheng, and X. Naixin, Intermetallics, 12, No. 1: 91 (2004).",
+				"tr":  "H. Taizhong, W. Zhu, Y. Xuebin, C. Jinzhou, X. BaoJia, H. Tiesheng, and X. Naixin, Intermetallics, 12, No. 1: 91 (2004)."
+			},
+			{
+				"doi": "10.1016/0022-5088(79)90271-6",
+				"or":  "D. P. Shoemaker and C. B. Shoemaker, J. Less-Common Metals, 68, No. 1: 43 (1979).",
+				"tr":  "D. P. Shoemaker and C. B. Shoemaker, J. Less-Common Metals, 68, No. 1: 43 (1979)."
+			},
+			{
+				"doi": "10.1016/S0022-5088(06)80008-1",
+				"or":  "Y. Moriwaki, T. Gamo, and T. Iwata, J. Less-Common Metals, 172–174, No. 3: 1028 (1991).",
+				"tr":  "Y. Moriwaki, T. Gamo, and T. Iwata, J. Less-Common Metals, 172–174, No. 3: 1028 (1991)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(96)03056-3",
+				"or":  "Y. Morita, T. Gamo, and S. Kuranaka, J. Alloys Compd., 253–254: 29 (1997).",
+				"tr":  "Y. Morita, T. Gamo, and S. Kuranaka, J. Alloys Compd., 253–254: 29 (1997)."
+			},
+			{
+				"doi": "10.1016/j.msea.2004.02.008",
+				"or":  "X. Yu, B. Xia, Z. Wu, and N. Xu, Mater. Sci. Eng. A, 373, Nos. 1–2: 303 (2004).",
+				"tr":  "X. Yu, B. Xia, Z. Wu, and N. Xu, Mater. Sci. Eng. A, 373, Nos. 1–2: 303 (2004)."
+			},
+			{
+				"doi": "10.1016/S0360-3199(99)00101-9",
+				"or":  "J. L. Bobet and B. Darriet, Int. J. Hydrogen Energy, 25, No. 8: 767 (2000).",
+				"tr":  "J. L. Bobet and B. Darriet, Int. J. Hydrogen Energy, 25, No. 8: 767 (2000)."
+			},
+			{
+				"doi": "10.1016/j.ijhydene.2014.06.085",
+				"or":  "M. Kazemipour, H. Salimijazi, A. Saidi, A. Saatchi, and A. Arefarjmand, Int. J. Hydrogen Energy, 39, No. 24: 12784 (2014).",
+				"tr":  "M. Kazemipour, H. Salimijazi, A. Saidi, A. Saatchi, and A. Arefarjmand, Int. J. Hydrogen Energy, 39, No. 24: 12784 (2014)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2016.10.021",
+				"or":  "Y. Zhang, J. Li, T. Zhang, T. Wu, H. Kou, and X. Xue, J. Alloys Compd., 694: 300 (2017).",
+				"tr":  "Y. Zhang, J. Li, T. Zhang, T. Wu, H. Kou, and X. Xue, J. Alloys Compd., 694: 300 (2017)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2006.04.068",
+				"or":  "S.-W. Cho, G. Shim, G.-S. Choi, C.-N. Park, J.-H. Yoo, and J. Choi, J. Alloys Compd., 430, Nos. 1–2: 136 (2007).",
+				"tr":  "S.-W. Cho, G. Shim, G.-S. Choi, C.-N. Park, J.-H. Yoo, and J. Choi, J. Alloys Compd., 430, Nos. 1–2: 136 (2007)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2015.09.010",
+				"or":  "K. Young, T. Ouchi, J. Nei, and L. Wang, J. Alloys Compd., 654: 216 (2016).",
+				"tr":  "K. Young, T. Ouchi, J. Nei, and L. Wang, J. Alloys Compd., 654: 216 (2016)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(99)00162-0",
+				"or":  "S.-W. Cho, C.-S. Han, C.-N. Park, and E. Akiba, J. Alloys Compd., 289, Nos. 1–2: 244 (1999).",
+				"tr":  "S.-W. Cho, C.-S. Han, C.-N. Park, and E. Akiba, J. Alloys Compd., 289, Nos. 1–2: 244 (1999)."
+			},
+			{
+				"doi": "10.1016/j.msea.2004.02.008",
+				"or":  "X. Yu, B. Xia, Z. Wu, and N. Xu, Mater. Sci. Eng. A, 373, Nos. 1–2: 303 (2004).",
+				"tr":  "X. Yu, B. Xia, Z. Wu, and N. Xu, Mater. Sci. Eng. A, 373, Nos. 1–2: 303 (2004)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2003.09.153",
+				"or":  "X. B. Yu, Z. Wu, B. J. Xia, and N. X. Xu, J. Alloys Compd., 372, Nos. 1–2: 272 (2004).",
+				"tr":  "X. B. Yu, Z. Wu, B. J. Xia, and N. X. Xu, J. Alloys Compd., 372, Nos. 1–2: 272 (2004)."
+			},
+			{
+				"doi": "10.1016/0925-8388(95)01518-3",
+				"or":  "M. Yoshida and E. Akiba, J. Alloys Compd., 224, No. 1: 121 (1995).",
+				"tr":  "M. Yoshida and E. Akiba, J. Alloys Compd., 224, No. 1: 121 (1995)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(03)00077-X",
+				"or":  "M. J. Choi, H. S. Hong, and K. S. Lee, J. Alloys Compd., 358, Nos. 1–2: 306 (2003).",
+				"tr":  "M. J. Choi, H. S. Hong, and K. S. Lee, J. Alloys Compd., 358, Nos. 1–2: 306 (2003)."
+			},
+			{
+				"doi": "10.1016/S0360-3199(99)00080-4",
+				"or":  "X. Y. Song, Y. Chen, and Z. Zhang, Int. J. Hydrogen Energy, 25, No. 7: 649 (2000).",
+				"tr":  "X. Y. Song, Y. Chen, and Z. Zhang, Int. J. Hydrogen Energy, 25, No. 7: 649 (2000)."
+			},
+			{
+				"doi": "10.1016/S0921-5093(01)01598-2",
+				"or":  "J. G. Park, H. Y. Jang, and S. C. Han, Mater. Sci. Eng. A, 329–331: 351 (2002).",
+				"tr":  "J. G. Park, H. Y. Jang, and S. C. Han, Mater. Sci. Eng. A, 329–331: 351 (2002)."
+			},
+			{
+				"doi": "10.1016/0022-5088(80)90331-8",
+				"or":  "I. Jacob, A. Stern, and A. Moran, J. Less-Common Metals, 73, No. 2: 369 (1980).",
+				"tr":  "I. Jacob, A. Stern, and A. Moran, J. Less-Common Metals, 73, No. 2: 369 (1980)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Іванченко, В. А. Дехтяренко, Т. В. Прядко, Порошковая металлургия, № 5/6: 129 (2013).",
+				"tr":  "V. G. Ivanchenko, V. A. Dekhtyarenko, and T. V. Pryadko, Poroshkovaya Metallurgiya, Nos. 5/6: 129 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/mfint.37.05.0683",
+				"or":  "В. А. Дехтяренко, Металлофиз. новейшие технол., 37, № 5: 683 (2015).",
+				"tr":  "V. A. Dekhtyarenko, Metallofiz. Noveishie Tekhnol., 37, No. 5: 683 (2015) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.jpowsour.2015.01.170",
+				"or":  "K. Young, T. Ouchi, J. Nei, and T. Meng, J. Power Sources, 281: 164 (2015).",
+				"tr":  "K. Young, T. Ouchi, J. Nei, and T. Meng, J. Power Sources, 281: 164 (2015)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2014.11.006",
+				"or":  "K. Young, D. F. Wong, and L. Wang, J. Alloys Compd., 622: 885 (2015).",
+				"tr":  "K. Young, D. F. Wong, and L. Wang, J. Alloys Compd., 622: 885 (2015)."
+			},
+			{
+				"doi": "10.1016/j.ijhydene.2004.01.015",
+				"or":  "X. B. Yu, J. Z. Chen, Z. Wu, B. J. Xia, and N. X. Xu, Int. J. Hydrogen Energy, 29, No. 13: 1377 (2004).",
+				"tr":  "X. B. Yu, J. Z. Chen, Z. Wu, B. J. Xia, and N. X. Xu, Int. J. Hydrogen Energy, 29, No. 13: 1377 (2004)."
+			},
+			{
+				"doi": "10.1080/02533839.2011.577595",
+				"or":  "R.-R. Jeng, C.-Y. Chou, S.-L. Lee, Y.-C. Wu, and H.-Y. Bor, J. Chinese Institute of Engineers, 34, No. 5: 601 (2011).",
+				"tr":  "R.-R. Jeng, C.-Y. Chou, S.-L. Lee, Y.-C. Wu, and H.-Y. Bor, J. Chinese Institute of Engineers, 34, No. 5: 601 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Ф. Кобзенко, А. А. Школа, Заводская лаборатория, 7: 41 (1990).",
+				"tr":  "G. F. Kobzenko and A. A. Shkola, Zavodskaya Laboratoriya, 7: 41 (1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Ивасишин, В. Т. Черепин, В. Н. Колесник, М. М. Гуменюк, Приборы и техника эксперимента, 3: 147 (2010).",
+				"tr":  "O. M. Ivasishin, V. T. Cherepin, V. N. Kolesnik, and M. M. Gumenyuk, Pribory i Tekhnika Eksperimenta, 3: 147 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Диаграммы состояния двойных металлических систем: Справочник (Ред. Н. П. Лякишев) (Москва: Машиностроение: 2001).",
+				"tr":  "Diagrammy Sostoyaniya Dvoynykh Metallicheskikh Sistem: Spravochnik (Ed. N. P. Lyakishev) (Moscow: Mashinostroenie: 2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. В. Мануйлов, В. И. Родионов, Основы химии (Москва: Изд-во Центрполиграф: 2016).",
+				"tr":  "A. V. Manuilov and V. I. Rodionov, Osnovy Khimii (Moscow: Izd-vo Tsentrpoligraf: 2016) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2005.02.078",
+				"or":  "S. V. Mitrokhin, J. Alloys Compd., 404–406: 384 (2005).",
+				"tr":  "S. V. Mitrokhin, J. Alloys Compd., 404–406: 384 (2005)."
+			},
+			{
+				"doi": "10.1016/S0360-3199(98)00041-X",
+				"or":  "S. N. Klyamkin, A. Yu. Kovriga, and V. N. Verbetsky, Int. J. Hydrogen Energy, 24, Nos. 2–3: 149 (1999).",
+				"tr":  "S. N. Klyamkin, A. Yu. Kovriga, and V. N. Verbetsky, Int. J. Hydrogen Energy, 24, Nos. 2–3: 149 (1999)."
+			}
+		]
+	}
+}

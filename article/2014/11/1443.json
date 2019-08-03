@@ -1,0 +1,112 @@
+{
+	"_id":    "MFiNT.36.11.1443",
+	"year":   2014,
+	"volume": 36,
+	"issue":  11,
+	"pages":  [1443,1452],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["04.03.2014","29.10.2014"],
+	"PACS":   "71.15.Ap, 71.15.Mb, 71.15.Nc, 71.20.Be, 71.55.Ak, 75.50.Bb",
+	"title":   {
+		"ua": "Вплив нестехіометричності карбідної фази системи Fe—Al—C на її електронну структуру та магнетні властивості",
+		"en": "Influence of Nonstoichiometry of a Carbide Phase of Fe—Al—C System on Its Electronic Structure and Magnetic Properties",
+		"ru": "Влияние нестехиометричности карбидной фазы системы Fe—Al—C на её электронную структуру и магнитные свойства"
+	},
+	"abstract": {
+		"ua": "Виконано дослідження впливу параметрів кристалічної ґратниці карбідної фази в системі Fe—Al—C на електронну структуру, магнетні моменти та ентальпію утворення. На основі розрахованих електронних густин розглянуто структуру зв’язків Fe—C і Fe—Al у сполуці Fe$_{3}$AlC$_{0,66}$ і її зміну при зміні об’єму елементарної комірки.",
+		"en": "Investigation of influence of unit cell parameters on electronic structure, magnetic moments and enthalpy of formation of carbide phase in Fe—Al—C system is carried out. Structures of Fe—C and Fe—Al bonds in Fe$_{3}$AlC$_{0.66}$ compound and their change caused by the unit cell volume change are considered on the basis of calculated electron densities of states.",
+		"ru": "Выполнено исследование влияния параметров кристаллической решётки карбидной фазы в системе Fe—Al—C на электронную структуру, магнитные моменты и энтальпию образования. На основе рассчитанных электронных плотностей рассмотрены структура связей Fe—C и Fe—Al в соединении Fe$_{3}$AlC$_{0,66}$ и её изменение с изменением объёма элементарной ячейки."
+	},
+	"keywords": {
+		"ua": "електронна структура, ентальпія, $K$-фаза, карбідна фаза, нестехіометричність",
+		"en": "electronic structure, enthalpy, $K$-phase, carbide phase, nonstoichiometry",
+		"ru": "электронная структура, энтальпия, $K$-фаза, карбидная фаза, нестехиометричность"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. А. Мехед", "en": "O. A. Mekhed", "ru": "А. А. Мехед"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. А. Андрющенко", "en": "V. A. Andryushchenko", "ru": "В. А. Андрющенко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 14,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "В. А. Андрющенко, А. В. Бавол, Т. Л. Блинохватов, А. Г. Гаран, Е. Н. Дзевин, Г. С. Могильный, Металлофиз. новейшие технол., 31, № 9: 1257 (2009).",
+				"tr":  "V. A. Andryushchenko, O. V. Bavol, T. L. Blinokhvatov, A. G. Garan, E. M. Dzevin, and G. S. Mogil'nyy, Metallofiz. Noveishie Tekhnol., 31, No. 9: 1257 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Андрющенко, В. Г. Гаврилюк, В. М. Надутов, Физ. мет. металловед., 60, № 4: 683 (1985).",
+				"tr":  "V. A. Andryushchenko, V. G. Gavriljuk, and V. M. Nadutov, Fiz. Met. Metalloved., 60, No. 4: 683 (1985) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0966-9795(95)00003-H",
+				"or":  "M. Palm and G. Inden, Intermetallics, 3, No. 6: 443 (1995).",
+				"tr":  "M. Palm and G. Inden, Intermetallics, 3, No. 6: 443 (1995)."
+			},
+			{
+				"doi": "10.1016/j.msea.2004.03.095",
+				"or":  "J. Yang, P. La, W. Liu, and Y. Hao, Mater. Sci. Eng. A, 382, Nos. 1–2: 8 (2004).",
+				"tr":  "J. Yang, P. La, W. Liu, and Y. Hao, Mater. Sci. Eng. A, 382, Nos. 1–2: 8 (2004)."
+			},
+			{
+				"doi": "10.2355/isijinternational.44.1738",
+				"or":  "H. Ohtani, M. Yamano, and M. Hasebe, ISIJ International, 44, No. 10: 1738 (2004).",
+				"tr":  "H. Ohtani, M. Yamano, and M. Hasebe, ISIJ International, 44, No. 10: 1738 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.78.014204",
+				"or":  "R. Besson, A. Legris, D. Connétable, and P. Maugis, Phys. Rev. B, 78, No. 1: 014204–1 (2008).",
+				"tr":  "R. Besson, A. Legris, D. Connétable, and P. Maugis, Phys. Rev. B, 78, No. 1: 014204-1 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "О. В. Бавол, Вплив термобаричної обробки на структурно-фазовий стан високовуглецевих Fe–Al-сплавів (Автореф. канд. дисертації) (Київ: Інститут металофізики ім. Г. В. Курдюмова НАН України: 2012).",
+				"tr":  "O. V. Bavol, Vplyv Termobarychnoyi Obrobky na Strukturno-Fazovyy Stan Vysokovugletsevykh Fe–Al-Splaviv (Influence of Thermobaric Treatment on Structural and Phase State of High-Carbon Fe–Al-Alloys) (Thesis of Disser. ... for the Degree of Cand. Techn. Sci.) (Kyiv: G. V. Kurdyumov Institute for Metal Physics, N.A.S.U.: 2012) (in Ukrainian)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/SSP.203-204.402",
+				"or":  "A. A. Mekhed and V. A. Andrushenko, Solid State Phenomena, 203–204: 402 (2013).",
+				"tr":  "A. A. Mekhed and V. A. Andrushenko, Solid State Phenomena, 203–204: 402 (2013)."
+			},
+			{
+				"doi": "10.1016/S0010-4655(02)00206-0",
+				"or":  "K. Schwarz, P. Blaha, and G. K. H. Madsen, Comp. Phys. Communications, 147: 71 (2002).",
+				"tr":  "K. Schwarz, P. Blaha, and G. K. H. Madsen, Comp. Phys. Communications, 147: 71 (2002)."
+			},
+			{
+				"doi": "10.1088/1742-6596/217/1/012009",
+				"or":  "P. Blaha, J. Phys.: Conference Series, 217, No. 1: 012009 (2010).",
+				"tr":  "P. Blaha, J. Phys.: Conference Series, 217, No. 1: 012009 (2010)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.76.155118",
+				"or":  "U. D. Wdowik and K. Ruebenbauer, Phys. Rev. B, 76, No. 15: 155118 (2007).",
+				"tr":  "U. D. Wdowik and K. Ruebenbauer, Phys. Rev. B, 76, No. 15: 155118 (2007)."
+			},
+			{
+				"doi": "10.2320/jinstmet1952.59.7_686",
+				"or":  "H. Fujimura and H. Ino, J. Jpn. Inst. Met., 59, No. 7: 686 (1995).",
+				"tr":  "H. Fujimura and H. Ino, J. Jpn. Inst. Met., 59, No. 7: 686 (1995)."
+			},
+			{
+				"doi": "10.1016/j.msea.2004.03.095",
+				"or":  "J. Yang, P. La, W. Liu, and Y. Hao, Mater. Sci. Eng. A, 382, Nos. 1–2: 8 (2004).",
+				"tr":  "J. Yang, P. La, W. Liu, and Y. Hao, Mater. Sci. Eng. A, 382, Nos. 1–2: 8 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "В. А. Андрющенко, В. Н. Антонов, Л. В. Бекенёв, Физика и химия твёрдого тела, 4, № 3: 498 (2003).",
+				"tr":  "V. A. Andryushchenko, V. N. Antonov, L. V. Bekenyov, Fizika i Khimiya Tverdogo Tela, 4, No. 3: 498 (2003) (in Russian)."
+			}
+		]
+	}
+}

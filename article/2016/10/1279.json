@@ -1,0 +1,131 @@
+{
+	"_id":    "MFiNT.38.10.1279",
+	"year":   2016,
+	"volume": 38,
+	"issue":  10,
+	"pages":  [1279,1292],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["29.07.2016"],
+	"PACS":   "61.72.Bb, 61.72.jd, 61.72.Qq, 64.75.Op, 66.30.Ny, 68.35.Dv, 68.35.Fx",
+	"title":   {
+		"ua": "Конкуренція пороутворення і Кіркендаллового зміщення під час росту сполуки при реакційній дифузії: альтернативні моделі",
+		"en": "Competition of Voiding and Kirkendall Shift during Compound Growth in Reactive Diffusion–Alternative Models",
+		"ru": "Конкуренция порообразования и киркендалловского смещения во время роста соединения при реакционной диффузии: альтернативные модели"
+	},
+	"abstract": {
+		"ua": "Описано одночасний ріст товщини прошарку фази та розмірів пор у процесі формування інтерметалевої сполуки у системі з відмінними рухливостями компонентів і з вузьким концентраційним інтервалом гомогенности. При цьому враховано конкуренцію зайвих вакансій між дислокаційними сходинками та міжфазними інтерфейсами (K-стоками, які приводять до Кіркендаллового зміщення) і порами (F-стоками, які забезпечують Френкелеве пороутворення). Запропоновано і порівняно три альтернативні моделі для трьох альтернативних місць переважного зародження пор. Обговорюються можливості контролю конкуренції Кіркендаллового зміщення і Френкелевого пороутворення.",
+		"en": "The simultaneous growth of both the phase-layer thickness and the void sizes during the intermetallic-compound formation with different mobilities of components and with a narrow concentration-range of homogeneity is described. This is done with account of competition for extra vacancies between dislocation steps and interfaces (K-sinks leading to Kirkendall shift) and voids (F-sinks providing Frenkel voiding). Three alternative models for three alternative places of preferential voids’ formation are formulated and compared. Possibilities of control over Kirkendall shift versus Frenkel voiding competition are discussed.",
+		"ru": "Описан одновременный рост толщины слоя фазы и размеров пор в процессе формирования интерметаллического соединения в системе с различными подвижностями компонентов и с узким концентрационным интервалом гомогенности. При этом учтена конкуренция избыточных вакансий между дислокационными ступеньками и межфазными интерфейсами (K-стоками, которые приводят к киркендалловскому смещению) и порами (F-стоками, обеспечивающими порообразование по Френкелю). Проведён сравнительный анализ трёх альтернативных моделей для трёх альтернативных мест преимущественного зарождения пор. Обсуждаются возможности контроля конкуренции киркендалловского смещения и порообразования по Френкелю."
+	},
+	"keywords": {
+		"ua": "дифузія, реакції, закон росту фази, пори, інтерметалева сполука",
+		"en": "diffusion, reaction, phase-growth law, voids, intermetallic compounds",
+		"ru": "диффузия, реакции, закон роста фазы, поры, интерметаллические соединения"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Т. В. Запорожець", "en": "T. V. Zaporozhets", "ru": "Т. В. Запорожец"},
+			"OID": [214]
+		},
+		{
+			"AID": {"ua": "Н. В. Сторожук", "en": "N. V. Storozhuk", "ru": "Н. В. Сторожук"},
+			"OID": [214]
+		},
+		{
+			"AID": {"ua": "А. М. Гусак", "en": "A. M. Gusak", "ru": "А. М. Гусак"},
+			"OID": [214]
+		}
+	],
+	"references": {
+		"count": 17,
+		"list":  [
+			{
+				"doi": "10.1126/science.1096566",
+				"or":  "Y. Yin, R. M. Rioux, C. K. Erdonmez, S. Hughes, G. A. Somorjai, and A. P. Alivisatos, Science, 304: 711 (2004).",
+				"tr":  "Y. Yin, R. M. Rioux, C. K. Erdonmez, S. Hughes, G. A. Somorjai, and A. P. Alivisatos, Science, 304: 711 (2004)."
+			},
+			{
+				"doi": "10.1080/14786430500311741",
+				"or":  "A. M. Gusak, T. V. Zaporozhets, K. N. Tu, and U. Gösele, Philos. Magazine, 85, No. 36: 4445 (2005).",
+				"tr":  "A. M. Gusak, T. V. Zaporozhets, K. N. Tu, and U. Gösele, Philos. Magazine, 85, No. 36: 4445 (2005)."
+			},
+			{
+				"doi": "10.1002/smll.200700382",
+				"or":  "H. J. Fan, U. Gösele, and M. Zacharias, Small, 3, No. 10: 1660 (2007).",
+				"tr":  "H. J. Fan, U. Gösele, and M. Zacharias, Small, 3, No. 10: 1660 (2007)."
+			},
+			{
+				"doi": "10.1088/0953-8984/21/41/415303",
+				"or":  "A. M. Gusak and T. V. Zaporozhets, J. Physics: Condensed Matter, 21, No. 41: 415303 (2009).",
+				"tr":  "A. M. Gusak and T. V. Zaporozhets, J. Physics: Condensed Matter, 21, No. 41: 415303 (2009)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2009.03.043",
+				"or":  "A. M. Gusak and K. N. Tu, Acta Mater., 57, No. 11: 3367 (2009).",
+				"tr":  "A. M. Gusak and K. N. Tu, Acta Mater., 57, No. 11: 3367 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "K. N. Tu, Solder Joint Technology (New York: Springer: 2007).",
+				"tr":  "K. N. Tu, Solder Joint Technology (New York: Springer: 2007)."
+			},
+			{
+				"doi": "10.1016/0001-6160(73)90190-9",
+				"or":  "K. N. Tu, Acta Metallurgica, 21, No. 4: 347 (1973).",
+				"tr":  "K. N. Tu, Acta Metallurgica, 21, No. 4: 347 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "Ya. E. Geguzin, Diffuzionnaya Zona [The Diffusion Zone] (Moscow: Nauka: 1979) (in Russian).",
+				"tr":  "Ya. E. Geguzin, Diffuzionnaya Zona [The Diffusion Zone] (Moscow: Nauka: 1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ya. E. Geguzin, Y. S. Kaganovskiy, L. M. Paritskaya, and V. I. Solunskiy, Fiz. Met. Metalloved., 47, No. 4: 127 (1979) (in Russian).",
+				"tr":  "Ya. E. Geguzin, Y. S. Kaganovskiy, L. M. Paritskaya, and V. I. Solunskiy, Fiz. Met. Metalloved., 47, No. 4: 127 (1979) (in Russian)."
+			},
+			{
+				"doi": "10.1134/S0031918X13030071",
+				"or":  "A. M. Gusak and N. V. Storozhuk, Phys. Met. Metallogr., 114, No. 3: 197 (2013).",
+				"tr":  "A. M. Gusak and N. V. Storozhuk, Phys. Met. Metallogr., 114, No. 3: 197 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "N. V. Storozhuk and A. M. Gusak, Metallofiz. Noveishie Tekhnol., 35, No. 6: 807 (2013) (in Ukrainian).",
+				"tr":  "N. V. Storozhuk and A. M. Gusak, Metallofiz. Noveishie Tekhnol., 35, No. 6: 807 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1557/jmr.2010.47",
+				"or":  "L. Yina and P. Borgesen, J. Mater. Res., 26, No. 3: 455 (2010).",
+				"tr":  "L. Yina and P. Borgesen, J. Mater. Res., 26, No. 3: 455 (2010)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2016.03.193",
+				"or":  "G. Ross, V. Vuorinen, and M. Paulasto-Kröckel, J. Alloys Compd., 677: 127 (2016).",
+				"tr":  "G. Ross, V. Vuorinen, and M. Paulasto-Kröckel, J. Alloys Compd., 677: 127 (2016)."
+			},
+			{
+				"doi": "10.1002/9783527631025",
+				"or":  "A. M. Gusak, T. V. Zaporozhets, Y. O. Lyashenko, S. V. Kornienko, M. O. Pasichnyy, and A. S. Shirinyan, Diffusion-Controlled Solid State Reactions: in Alloys, Thin-Films, and Nanosystems (New York: John Wiley and Sons: 2010).",
+				"tr":  "A. M. Gusak, T. V. Zaporozhets, Y. O. Lyashenko, S. V. Kornienko, M. O. Pasichnyy, and A. S. Shirinyan, Diffusion-Controlled Solid State Reactions: in Alloys, Thin-Films, and Nanosystems (New York: John Wiley and Sons: 2010)."
+			},
+			{
+				"doi": "10.1063/1.353805",
+				"or":  "A. M. Gusak and M. V. Yarmolenko, J. Appl. Phys., 73, No. 10: 4881 (1993).",
+				"tr":  "A. M. Gusak and M. V. Yarmolenko, J. Appl. Phys., 73, No. 10: 4881 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "A. V. Nazarov and K. P. Gurov, Fiz. Met. Metalloved., 37, No. 3: 41 (1974) (in Russian).",
+				"tr":  "A. V. Nazarov and K. P. Gurov, Fiz. Met. Metalloved., 37, No. 3: 41 (1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Gusak, Metallofizika, 14, No. 9: 3 (1992).",
+				"tr":  "A. M. Gusak, Metallofizika, 14, No. 9: 3 (1992)."
+			}
+		]
+	}
+}

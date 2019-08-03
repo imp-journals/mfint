@@ -1,0 +1,112 @@
+{
+	"_id":    "MFiNT.39.09.1267",
+	"year":   2017,
+	"volume": 39,
+	"issue":  9,
+	"pages":  [1267,1279],
+	"rubric": 1,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["15.01.2017"],
+	"PACS":   "61.72.Qq, 61.72.sd, 62.20.Qp, 64.70.dg, 81.05.Bx, 81.30.Fb, 81.40.-z",
+	"title":   {
+		"ua": "Металурґія сірого чавуну для деталей автомобілів",
+		"en": "Metallurgy of the Grey Cast Iron for the Automotive Parts",
+		"ru": "Металлургия серого чугуна для деталей автомобилей"
+	},
+	"abstract": {
+		"ua": "Розтоплений метал є комплексним розчином для виробництва високоякісного сірого чавуну, який може містити ряд небажаних елементів. У розтопленому чавуні є області, збагачені вуглецем, велика кількість кремнію в окремих ділянках, манган, сірка та фосфор. Ці елементи можуть мати неґативний вплив на властивості чавуну, який використовується в автомобільній промисловості. Вивчено активність кисню, твердість, міцність на розтягнення, в’язкість, хемічний склад, а також інші фізичні та механічні властивості чавуну.",
+		"en": "The melt metal is a complex solution, which may contain for the production of high-quality grey iron a number of unsuitable elements. The molten cast iron contains areas enriched with carbon, higher amount of silicon in local areas, manganese, sulphur, and phosphorus. These elements can adversely affect the properties of the produced iron for the automotive industry. The oxygen activity, hardness, tensile strength, viscosity, chemical composition, and other physical and mechanical properties of cast iron are studied.",
+		"ru": "Расплавленный металл представляет собой комплексный раствор для производства высококачественного серого чугуна, который может содержать ряд нежелательных элементов. В расплавленном чугуне находятся области, обогащённые углеродом, большое количество кремния в отдельных участках, марганец, сера и фосфор. Эти элементы могут отрицательно влиять на свойства чугуна, используемого в автомобильной промышленности. Изучены активность кислорода, твёрдость, прочность на растяжение, вязкость, химический состав, а также другие физические и механические свойства чугуна."
+	},
+	"keywords": {
+		"ua": "чавун, вуглець, твердість, киснева активність, металурґія, топильні пристрої, гальмівний диск",
+		"en": "cast iron, carbon, hardness, oxygen activity, metallurgy, melting devices, brake disc",
+		"ru": "чугун, углерод, твёрдость, кислородная активность, металлургия, плавильные устройства, тормозной диск"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Йіржи Махута", "en": "Jiří Machuta", "ru": "Йиржи Махута"},
+			"OID": [424]
+		},
+		{
+			"AID": {"ua": "Іва Нова", "en": "Iva Nová", "ru": "Ива Нова"},
+			"OID": [424]
+		}
+	],
+	"references": {
+		"count": 14,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "B. M. Turovskiy and A. P. Lyubimov, Izvestiya Vysshikh Uchebnykh Zavedeniy. Chernaya Metallurgiya, No. 1: 24 (1960) (in Russian).",
+				"tr":  "B. M. Turovskiy and A. P. Lyubimov, Izvestiya Vysshikh Uchebnykh Zavedeniy. Chernaya Metallurgiya, No. 1: 24 (1960) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "B. M. Turovskiy and A. P. Lyubimov, Izvestiya Vysshikh Uchebnykh Zavedeniy. Chernaya Metallurgiya, No. 2: 12 (1965) (in Russian).",
+				"tr":  "B. M. Turovskiy and A. P. Lyubimov, Izvestiya Vysshikh Uchebnykh Zavedeniy. Chernaya Metallurgiya, No. 2: 12 (1965) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Z. Bůžek, Hutnické Actuality, 20, Nos. 1–2: 3 (1979) (in Czech).",
+				"tr":  "Z. Bůžek, Hutnické Actuality, 20, Nos. 1–2: 3 (1979) (in Czech)."
+			},
+			{
+				"doi": "",
+				"or":  "K. Kochesian, Gisserei Forschung, No. 1: 3 (1972) (in German).",
+				"tr":  "K. Kochesian, Gisserei Forschung, No. 1: 3 (1972) (in German)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Benecke, T. Tuan, G. Kahr, W. Schubert, and B. Lux, Slévárenství, 74, Nos. 10–11: 5 (1987) (in Czech).",
+				"tr":  "T. Benecke, T. Tuan, G. Kahr, W. Schubert, and B. Lux, Slévárenství, 74, Nos. 10–11: 5 (1987) (in Czech)."
+			},
+			{
+				"doi": "",
+				"or":  "Z. Bůžek, Základní Termodynamické Výpočty, Hutnické Aktuality, Informetal, 29, VÚHŽ (1988) (in Czech).",
+				"tr":  "Z. Bůžek, Základní Termodynamické Výpočty, Hutnické Aktuality, Informetal, 29, VÚHŽ (1988) (in Czech)."
+			},
+			{
+				"doi": "",
+				"or":  "L. Konečný, J. Exner, and I. Nová, Aktivita Kyslíku u Grafitických Litin (Final Report of the Grant Project GAČR 106/95/171) (Technical University of Liberec: 1998) (in Czech).",
+				"tr":  "L. Konečný, J. Exner, and I. Nová, Aktivita Kyslíku u Grafitických Litin (Final Report of the Grant Project GAČR 106/95/171) (Technical University of Liberec: 1998) (in Czech)."
+			},
+			{
+				"doi": "",
+				"or":  "F. Mampey, D. Habets, and F. Seatens, Giessereiforschung, 60, No. 1: 2 (2008) (in German).",
+				"tr":  "F. Mampey, D. Habets, and F. Seatens, Giessereiforschung, 60, No. 1: 2 (2008) (in German)."
+			},
+			{
+				"doi": "",
+				"or":  "I. Nová and P. Kosek, Slévárenství, LVI, Nos. 11/12: 492 (2008) (in Czech).",
+				"tr":  "I. Nová and P. Kosek, Slévárenství, LVI, Nos. 11/12: 492 (2008) (in Czech)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Elbel and J. Hampl, Metalurgija (Hrvatsko Metalurško Društvo), 48, No. 4: 243 (2009).",
+				"tr":  "T. Elbel and J. Hampl, Metalurgija (Hrvatsko Metalurško Društvo), 48, No. 4: 243 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "Z. Andršová and B. Skrbek, Manufacturing Technology, 12, No. 13: 93 (2012).",
+				"tr":  "Z. Andršová and B. Skrbek, Manufacturing Technology, 12, No. 13: 93 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Vaško, Manufacturing Technology, 13, No. 1: 115 (2013).",
+				"tr":  "A. Vaško, Manufacturing Technology, 13, No. 1: 115 (2013)."
+			},
+			{
+				"doi": "10.15407/mfint.37.02.0209",
+				"or":  "I. Nová and J. Machuta, Metallofiz. Noveishie Tekhnol., 37, No. 2, 209 (2015).",
+				"tr":  "I. Nová and J. Machuta, Metallofiz. Noveishie Tekhnol., 37, No. 2, 209 (2015)."
+			},
+			{
+				"doi": "10.15407/mfint.36.02.0175",
+				"or":  "I. Nová and J. Machuta, Metallofiz. Noveishie Tekhnol., 36, No. 2, 175 (2014).",
+				"tr":  "I. Nová and J. Machuta, Metallofiz. Noveishie Tekhnol., 36, No. 2, 175 (2014)."
+			}
+		]
+	}
+}

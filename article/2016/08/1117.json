@@ -1,0 +1,92 @@
+{
+	"_id":    "MFiNT.38.08.1117",
+	"year":   2016,
+	"volume": 38,
+	"issue":  8,
+	"pages":  [1117,1134],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["07.11.2014","20.02.2016"],
+	"PACS":   "62.20.Qp, 81.10.Fq, 81.20.Vj, 81.30.-Fb, 81.30.Kf, 81.40.Pq, 81.65.Lp, 81.70.Jb",
+	"title":   {
+		"ua": "Особливості процесу формування складу, структури та властивостей пошарово натопленого метастабільного Fe—Cr—Mn-металу",
+		"en": "Features of Process of Formation of Composition, Structure and Properties of Layer-by-Layer Deposited Metastable Fe—Cr—Mn Metal",
+		"ru": "Особенности процесса формирования состава, структуры и свойств послойно наплавленного метастабильного Fe—Cr—Mn-металла"
+	},
+	"abstract": {
+		"ua": "Запропоновано модель формування хемічного та фазового складів і структури зносостійкого натопленого Fe—Cr—Mn-металу з оцінюванням його метастабільности залежно від натоплювально-технологічних параметрів натоплення. Встановлено пошарово-ступінчастий механізм формування хемічного та фазового складів натопленого металу, реґульований ступенем протоплення шарів, що забезпечує диференційовану метастабільність аустеніту.",
+		"en": "The model of formation of the chemical and phase compositions as well as the structure of wear-resistant deposited Fe—Cr—Mn metal with evaluation of its metastability, depending upon surface deposition and technological parameters of facing, is proposed. The layer-by-layer mechanism of formation of the chemical and phase compositions of the deposited metal is discover; it provides different metastability of austenite and could be quite efficiently modified by the degree of layers’ melting.",
+		"ru": "Предложена модель формирования химического, фазового составов и структуры износостойкого наплавленного Fe—Cr—Mn-металла с оценкой его метастабильности в зависимости от наплавочно-технологических параметров наплавки. Установлен послойно-ступенчатый механизм формирования химического и фазового составов наплавленного металла, регулируемый степенью проплавления слоёв, обеспечивающий дифференцированную метастабильность аустенита."
+	},
+	"keywords": {
+		"ua": "натоплений метал, частка основного металу в натопленому, аустеніт, мартенсит, метастабільність",
+		"en": "deposited metal, degree of melting, part of base metal in deposited one, austenite, martensite, metastability",
+		"ru": "наплавленный металл, доля основного металла в наплавленном, аустенит, мартенсит, метастабильность"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Я. О. Чейлях", "en": "Ya. O. Cheiliakh", "ru": "Я. А. Чейлях"},
+			"OID": [228]
+		},
+		{
+			"AID": {"ua": "О. П. Чейлях", "en": "O. P. Cheiliakh", "ru": "А. П. Чейлях"},
+			"OID": [228]
+		}
+	],
+	"references": {
+		"count": 10,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "С. Я. Шехтер, А. М. Резницкий, Наплавка металлов (Москва: Машиностроение: 1982).",
+				"tr":  "S. Ya. Shekhter and A. M. Reznitskiy, Naplavka Metallov (Moscow: Mashinostroenie: 1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Рябцев, Наплавка деталей машин и механизмов (Киев: Екотехнологія: 2004).",
+				"tr":  "I. A. Ryabtsev, Naplavka Detaley Mashyn i Mekhanizmov (Kiev: Elektrotekhnologiya: 2004) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. И. Разиков, Б. А. Кулишенко, Сварочное производство, 12, № 7: 10 (1967).",
+				"tr":  "M. I. Razikov and B. A. Kulishenko, Svarochnoe Proizvodstvo, 12, No. 7: 10 (1967) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Чейлях, Экономнолегированные метастабильные сплавы и упрочняющие технологии (Харьков: ННЦ ХФТИ: 2003).",
+				"tr":  "A. P. Cheiliakh, Ekonomnolegirovannye Metastabil'nye Splavy i Uprochnyayushchie Tekhnologii (Kharkiv: NNTS KhFTI: 2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. С. Малинов, В. Л. Малинов, Ресурсосберегающие экономнолегированные сплавы и упрочняющие технологии, обеспечивающие эффект самозакалки (Мариуполь: Изд-во «Рената»: 2009).",
+				"tr":  "L. S. Malinov and V. L. Malinov, Resursosberegayushchie Ekonomnolegirovannye Splavy i Uprochnyayushchie Tekhnologii, Obespechivayushchie Effekt Samozakalki (Mariupol: Izd. 'Renata': 2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Думов, Технология электрической сварки плавлением (Ленинград: Машиностроение: 1970).",
+				"tr":  "S. I. Dumov, Tekhnologiya Elektricheskoy Svarki Plavleniem (Leningrad: Mashinostroenie: 1970) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ya. A. Cheiliakh and V. V. Chigarev, The Paton Welding Journal, 8: 17 (2011).",
+				"tr":  "Ya. A. Cheiliakh and V. V. Chigarev, The Paton Welding Journal, 8: 17 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "Я. А. Чейлях, О. В. Кривенко, Г. В. Шейченко, Вісник Приазовського державного технічного університету. Збірник наукових праць. Сер. Технічні науки, вип. 27: 82 (2013).",
+				"tr":  "Ya. A. Cheiliakh, O. V. Krivenko, and G. V. Sheichenko, Visnyk Pryazovskogo Derzhavnogo Tekhnichnogo Universitetu. Sb. Nauk. Prats'. Ser. Tekhnichni Nauky, Iss. 27: 82 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1002/srin.193400093",
+				"or":  "W. Köster, Arch. Eisenhüttenwesen, 7: 687 (1934).",
+				"tr":  "W. Köster, Arch. Eisenhüttenwesen, 7: 687 (1934)."
+			},
+			{
+				"doi": "10.1002/srin.193600528",
+				"or":  "F. Brühl, Arch. Eisenhüttenwesen, 10: 243 (1936).",
+				"tr":  "F. Brühl, Arch. Eisenhüttenwesen, 10: 243 (1936)."
+			}
+		]
+	}
+}

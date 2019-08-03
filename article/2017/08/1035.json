@@ -1,0 +1,126 @@
+{
+	"_id":    "MFiNT.39.08.1035",
+	"year":   2017,
+	"volume": 39,
+	"issue":  8,
+	"pages":  [1035,1049],
+	"rubric": 18,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["07.06.2017"],
+	"PACS":   "07.05.Kf, 42.25.Gy, 42.30.Va, 81.70.Ex, 81.70.Jb, 84.40.Xb",
+	"title":   {
+		"ua": "Дистанційна вихорострумова аналіза складу металевих об’єктів",
+		"en": "The Remote Eddy-Current Analysis of a Composition of Metal Objects",
+		"ru": "Дистанционный вихретоковый анализ состава металлических объектов"
+	},
+	"abstract": {
+		"ua": "Для дистанційного визначення складу металевого об’єкту використовується вихорострумова метода зондування, яка ґрунтується на взаємодії електромагнетного випромінення з металевими об’єктами, що містяться в діелектричному середовищі та за своїми електричними чи то магнетними властивостями відрізняються від властивостей цього середовища. Традиційні вихорострумові методи уможливлюють, як правило, знайти металевий об’єкт і провести його дихотомічну (чорний/кольоровий метал) ідентифікацію, але не уможливлюють розрізнити тип металу в підгрупах кольорових або чорних металів. Тип металу можна визначити лише в лабораторних умовах на спеціяльних металоаналізаторах. В даній роботі пропонується використовувати спеціяльно розроблений цифровий пристрій локації близьких об’єктів (аналізатор металу), побудований на вихорострумовій методі виявлення металевих об’єктів, разом з ориґінальною методикою оброблення відбитого від об’єкту сиґналу. Оброблення сиґналу може проводитися двома способами — амплітудним і методою графічних образів, які засновані на порівнянні сиґналу, одержаного від об’єкту, що досліджується, з еталонними. Запропонована метода уможливлює дистанційно визначити тип металу в підгрупах кольорових або чорних металів.",
+		"en": "For the remote determination of a metal-object composition, the eddy-current method of sensing is used. It is based on the interaction of electromagnetic radiation with metal objects contained in a dielectric medium where their electrical or magnetic properties differ from the properties of this medium. Traditional eddy-current methods usually allow the identification of a metal object and its dichotomous (black/non-ferrous) metal, but do not allow distinguishing the type of metal in the subgroups of ferrous and non-ferrous metals. The type of metal can be determined only in laboratory conditions on special metal detectors. In this paper, it is suggested to use a specially designed digital device for objects’ near-locating (metal analyser), built on the eddy-current method of detecting the metal objects, coupled with the original method of processing the signal reflected from object. Processing of the signal can be done in two ways—amplitude one and graphic-images’ method, which are based on comparison of the signal obtained from the investigated object with etalon ones. The proposed method allows determining remotely the type of metal in the subgroups of ferrous and non-ferrous metals.",
+		"ru": "Для дистанционного определения состава металлического объекта используется вихретоковый метод зондирования, основанный на взаимодействии электромагнитного излучения с металлическими объектами, которые находятся в диэлектрической среде и по своим электрическим или магнитным свойствам отличаются от свойств этой среды. Традиционные вихретоковые методы позволяют, как правило, найти металлический объект и провести дихотомическую (чёрный/цветной металл) идентификацию, но не позволяют различить тип металла в подгруппах цветных и чёрных металлов. Тип металла можно определить только в лабораторных условиях на специальных металлоанализаторах. В данной работе предлагается использовать специально разработанное цифровое устройство ближней локации (анализатор металла), построенное на вихретоковом методе обнаружения металлических объектов, вместе с оригинальной методикой обработки отражённого от объекта сигнала. Обработка сигнала может проводиться двумя способами — амплитудным и методом графических образов, основанными на сравнении сигнала, полученного от исследуемого объекта, с эталонными. Предложенный метод позволяет дистанционно определить тип металла в подгруппах цветных и чёрных металлов."
+	},
+	"keywords": {
+		"ua": "електромагнетні властивості металів, вихорострумовий перетворювач, пристрої локації, дистанційна хемічна аналіза",
+		"en": "electromagnetic properties of metals, eddy-current converter, location devices, remote chemical analysis",
+		"ru": "электромагнитные свойства металлов, вихретоковый преобразователь, устройства локации, дистанционный химический анализ"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. О. Абрамович", "en": "A. O. Abramovych", "ru": "А. А. Абрамович"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "І. С. Каширський", "en": "I. S. Kashirsky", "ru": "И. С. Каширский"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "В. О. Піддубний", "en": "V. O. Piddubniy", "ru": "В. А. Поддубный"},
+			"OID": [202]
+		}
+	],
+	"references": {
+		"count": 16,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Промышленная группа «Лаборант». Анализаторы металлов и руд (http://www.laborant.net/catalog).",
+				"tr":  "Promyshlennaya Gruppa 'Laborant'. Analizatory Metallov i Rud [Industrial Group 'Laborant'. Analyzers of Metals and Ores] (http://www.laborant.net/catalog) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Н. Щербаков, Радиотехника, № 12: 42 (2005).",
+				"tr":  "G. N. Shcherbakov, Radiotekhnika, No. 12: 42 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Н. Щербаков, Радиотехника, № 3: 77 (2005).",
+				"tr":  "G. N. Shcherbakov, Radiotekhnika, No. 3: 77 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. H. Jol, Ground Penetrating Radar: Theory and Applications (Oxford: Elsevier: 2009).",
+				"tr":  "M. H. Jol, Ground Penetrating Radar: Theory and Applications (Oxford: Elsevier: 2009)."
+			},
+			{
+				"doi": "",
+				"or":  "В. І. Правда, О. Д. Мрачковський, А. О. Абрамович, Вісник національного університету «Львівська політехніка». Серія Радіоелектроніка та телекомунікації, № 818: 49 (2015).",
+				"tr":  "V. I. Pravda, O. D. Mrachkovskiy, and A. O. Abramovych, Visnyk Natsionalnogo Universytetu 'Lvivska Politekhnika'. Seriya Radioelektronika ta Telekomunikatsiyi, No. 818: 49 (2015) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Хабаров, Радиотехника, № 3: 80 (2005).",
+				"tr":  "V. B. Khabarov, Radiotekhnika, No. 3: 80 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. М. Махонин, Радиотехника, № 2: 90 (2006).",
+				"tr":  "G. M. Makhonin, Radiotekhnika, No. 2: 90 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. О. Абрамович, Вісник національного технічного університету України «Київський політехнічний інститут». Серія Радіотехніка. Радіоапаратобудування, № 57: 77 (2014).",
+				"tr":  "A. O. Abramovych, Visnyk Natsionalnokho Tekhnichnokho Universytetu Ukrainy 'Kyivskyy Politekhnichnyy Instytut'. Seriya Radiotekhnika. Radioaparatobuduvannya, No. 57: 77 (2014) (in Ukrainian)."
+			},
+			{
+				"doi": "10.3923/jeasci.2010.56.63",
+				"or":  "A. M. O. Obiazi, F. I. Anyasi, O. Jacdonmi, P.A. Otubu, and I. Abhulimen, J. Eng. Appl. Sci., 5, Iss. 2: 56 (2010).",
+				"tr":  "A. M. O. Obiazi, F. I. Anyasi, O. Jacdonmi, P.A. Otubu, and I. Abhulimen, J. Eng. Appl. Sci., 5, Iss. 2: 56 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "D. J. Daniels, Ground Penetrating Radar (London: Institution of Electrical Engineers: 2004).",
+				"tr":  "D. J. Daniels, Ground Penetrating Radar (London: Institution of Electrical Engineers: 2004)."
+			},
+			{
+				"doi": "",
+				"or":  "И. С. Березин, Н. П. Жидков, Методы вычислений (Москва: Наука: 1966).",
+				"tr":  "I. S. Berezin and N. P. Zhidkov, Metody Vychisleniy [Computational Methods] (Moscow: Nauka: 1966) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. С. Кунц, Численный анализ (Киев: Техника: 1964).",
+				"tr":  "K. S. Kunts, Chislennyy Analiz [Numerical Analysis] (Kiev: Tekhnika: 1964) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ф. Р. Гантмахер, Теория матриц (Москва: Наука: 1967).",
+				"tr":  "F. R. Gantmakher, Teoriya Matrits [Matrix Theory] (Moscow: Nauka: 1967) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "D. R. Lide, CRS Handbook of Chemistry and Physics (Boca Raton, Florida: CRC Press: 2007).",
+				"tr":  "D. R. Lide, CRS Handbook of Chemistry and Physics (Boca Raton, Florida: CRC Press: 2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. С. Сайфуллин, А. Р. Сайфуллин, Химия и жизнь, № 12: 14 (2003).",
+				"tr":  "R. S. Sayfullin and A. R. Sayfullin, Khimiya i Zhizn', No. 12: 14 (2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. Айфичер, Б. Джервис, Цифровая обработка сигналов. Практический подход (Москва: Вильямс: 2004) (пер. с анг.).",
+				"tr":  "E. C. Ifeachor and B. W. Jervis, Tsifrovaya Obrabotka Signalov. Prakticheskiy Podkhod [Digital Signal Processing: A Practical Approach] (Moscow: Williams Publishing House: 2004) (Russian translation)."
+			}
+		]
+	}
+}

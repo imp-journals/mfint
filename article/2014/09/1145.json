@@ -1,0 +1,168 @@
+{
+	"_id":    "MFiNT.36.09.1145",
+	"year":   2014,
+	"volume": 36,
+	"issue":  9,
+	"pages":  [1145,1151],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["23.08.2014"],
+	"PACS":   "75.30.Cr, 75.40.Gb, 75.60.-d, 75.78.Jp, 76.20.+q",
+	"title":   {
+		"ua": "Релаксація сильно подавленого модуля намагнетованости після надшвидкого знемагнетування",
+		"en": "Relaxation of Strongly Suppressed Modulus of Magnetization Following Ultrafast Demagnetization",
+		"ru": "Релаксация сильно подавленного модуля намагниченности после сверхбыстрого размагничивания"
+	},
+	"abstract": {
+		"ua": "Розглянуто поздовжню нелінійну релаксацію намагнетованости після надшвидкого знемагнетування. Найшвидший режим релаксації реалізується за малих відхилів намагнетованости від свого рівноважного стану. Однак характерний час релаксації сильно знемагнетованої системи істотно збільшується за рахунок нелінійности магнетної системи.",
+		"en": "A longitudinal nonlinear relaxation of magnetization following the ultrafast demagnetization is considered. As demonstrated, the fastest regime occurs for a small deviation of the magnetization from the equilibrium value. However, the relaxation time of strongly suppressed magnetization is substantially increased due to a nonlinearity of magnetic system.",
+		"ru": "Рассмотрена продольная нелинейная релаксация намагниченности после сверхбыстрого размагничивания. Наиболее быстрый режим релаксации реализуется при небольших отклонениях намагниченности от своего равновесного состояния. Однако характерное время релаксации сильно размагниченной системы существенно увеличивается за счёт нелинейности магнитной системы."
+	},
+	"keywords": {
+		"ua": "феромагнетики, фемтосекундний лазерний імпульс, надшвидке знемагнетування, релаксаційні ефекти",
+		"en": "ferromagnets, femtosecond laser pulse, ultrafast demagnetization, relaxation effects",
+		"ru": "ферромагнетики, фемтосекундный лазерный импульс, сверхбыстрое размагничивание, релаксационные эффекты"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. А. Ястремський", "en": "I. A. Yastremsky", "ru": "И. А. Ястремский"},
+			"OID": [201]
+		}
+	],
+	"references": {
+		"count": 26,
+		"list":  [
+			{
+				"doi": "10.1103/RevModPhys.82.2731",
+				"or":  "A. Kirilyuk, A. V. Kimel, and Th. Rasing, Rev. Mod. Phys., 82: 2731 (2010).",
+				"tr":  "A. Kirilyuk, A. V. Kimel, and Th. Rasing, Rev. Mod. Phys., 82: 2731 (2010)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.76.4250",
+				"or":  "E. Beaurepaire, J.-C. Merle, A. Daunois, and J.-Y. Bigot, Phys. Rev. Lett., 76: 4250 (1996).",
+				"tr":  "E. Beaurepaire, J.-C. Merle, A. Daunois, and J.-Y. Bigot, Phys. Rev. Lett., 76: 4250 (1996)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.103.117201",
+				"or":  "K. Vahaplar, A. M. Kalashnikova, A. V. Kimel, D. Hinzke, U. Nowak, R. Chantrell, A. Tsukamoto, A. Itoh, A. Kirilyuk, and Th. Rasing, Phys. Rev. Lett., 103: 117201 (2009).",
+				"tr":  "K. Vahaplar, A. M. Kalashnikova, A. V. Kimel, D. Hinzke, U. Nowak, R. Chantrell, A. Tsukamoto, A. Itoh, A. Kirilyuk, and Th. Rasing, Phys. Rev. Lett., 103: 117201 (2009)."
+			},
+			{
+				"doi": "10.1038/nature02659",
+				"or":  "A. V. Kimel, A. Kirilyuk, A. Tsvetkov, R. V. Pisarev, and T. Rasing, Nature, 429: 850 (2004).",
+				"tr":  "A. V. Kimel, A. Kirilyuk, A. Tsvetkov, R. V. Pisarev, and T. Rasing, Nature, 429: 850 (2004)."
+			},
+			{
+				"doi": "10.1038/nature09901",
+				"or":  "I. Radu, K. Vahaplar, C. Stamm, T. Kachel, N. Pontius, H. A. Durr, T. A. Ostler, J. Barker, R. F. L. Evans, R. W. Chantrell, A. Tsukamoto, A. Itoh, A. Kirilyuk, Th. Rasing, and A. V. Kimel, Nature, 472: 205 (2011).",
+				"tr":  "I. Radu, K. Vahaplar, C. Stamm, T. Kachel, N. Pontius, H. A. Durr, T. A. Ostler, J. Barker, R. F. L. Evans, R. W. Chantrell, A. Tsukamoto, A. Itoh, A. Kirilyuk, Th. Rasing, and A. V. Kimel, Nature, 472: 205 (2011)."
+			},
+			{
+				"doi": "10.1038/ncomms1666",
+				"or":  "T. A. Ostler, J. Barker, R. F. L. Evans, R. W. Chantrell, U. Atxitia, O. Chubykalo-Fesenko, S. El Moussaoui, L. Le Guyader, E. Mengotti, L. J. Heyderman, F. Nolting, A.Tsukamoto, A. Itoh, D. Afanasiev, B. A. Ivanov, A. M. Kalashnikova, K. Vahaplar, J. Mentink, A. Kirilyuk, Th. Rasing, and A. V. Kimel, Nature Commun., 3: 666 (2012).",
+				"tr":  "T. A. Ostler, J. Barker, R. F. L. Evans, R. W. Chantrell, U. Atxitia, O. Chubykalo-Fesenko, S. El Moussaoui, L. Le Guyader, E. Mengotti, L. J. Heyderman, F. Nolting, A.Tsukamoto, A. Itoh, D. Afanasiev, B. A. Ivanov, A. M. Kalashnikova, K. Vahaplar, J. Mentink, A. Kirilyuk, Th. Rasing, and A. V. Kimel, Nature Commun., 3: 666 (2012)."
+			},
+			{
+				"doi": "10.1038/nmat3864",
+				"or":  "S. Mangin, M. Gottwald, C.-H. Lambert, D. Steil, V. Uhlir, L. Pang, M. Hehn, S. Alebrand, M. Cinchetti, G. Malinowski, Y. Fainman, M. Aeschlimann, and E. E. Fullerton, Nature Mater., 13, 286 (2014).",
+				"tr":  "S. Mangin, M. Gottwald, C.-H. Lambert, D. Steil, V. Uhlir, L. Pang, M. Hehn, S. Alebrand, M. Cinchetti, G. Malinowski, Y. Fainman, M. Aeschlimann, and E. E. Fullerton, Nature Mater., 13, 286 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "V. G. Bar’yakhtar, Zh. Eksp. Theor. Fiz., 87: 1501 (1984) (in Russian); idem, Sov. Phys. JETP, 60: 863 (1984).",
+				"tr":  "V. G. Bar'yakhtar, Zh. Eksp. Theor. Fiz., 87: 1501 (1984) (in Russian); idem, Sov. Phys. JETP, 60: 863 (1984)."
+			},
+			{
+				"doi": "",
+				"or":  "V. G. Bar’yakhtar, Fizika Tverdogo Tela, 29: 1317 (1987) (in Russian); idem, Sov. Phys. Solid State, 29: 754 (1987).",
+				"tr":  "V. G. Bar'yakhtar, Fizika Tverdogo Tela, 29: 1317 (1987) (in Russian); idem, Sov. Phys. Solid State, 29: 754 (1987)."
+			},
+			{
+				"doi": "10.1016/S0921-4526(89)80047-X",
+				"or":  "V. G. Bar’yakhtar, Physica B, 159: 20 (1989).",
+				"tr":  "V. G. Bar'yakhtar, Physica B, 159: 20 (1989)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.88.054427",
+				"or":  "M. Dvornik, A. Vansteenkiste, and B. Van Waeyenberge, Phys. Rev. B, 88: 054427 (2013).",
+				"tr":  "M. Dvornik, A. Vansteenkiste, and B. Van Waeyenberge, Phys. Rev. B, 88: 054427 (2013)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.110.097201",
+				"or":  "Y. Au, M. Dvornik, T. Davison, E. Ahmad, P. S. Keatley, A. Vansteenkiste, B. Van Waeyenberge, and V. V. Kruglyak, Phys. Rev. Lett., 110: 097201 (2013).",
+				"tr":  "Y. Au, M. Dvornik, T. Davison, E. Ahmad, P. S. Keatley, A. Vansteenkiste, B. Van Waeyenberge, and V. V. Kruglyak, Phys. Rev. Lett., 110: 097201 (2013)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.90.024409",
+				"or":  "I. A. Yastremsky, P. M. Oppeneer, and B. A. Ivanov, Phys. Rev. B, 90: 022409 (2014).",
+				"tr":  "I. A. Yastremsky, P. M. Oppeneer, and B. A. Ivanov, Phys. Rev. B, 90: 022409 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "V. G. Bar’yakhtar, B. A. Ivanov, T. K. Soboleva, and A. L. Sukstansky, Zh. Eksp. Teor. Fiz., 91, No. 4: 1454 (1986) (in Russian); idem, Sov. Phys. JETP, 64, No. 4: 857 (1986).",
+				"tr":  "V. G. Bar'yakhtar, B. A. Ivanov, T. K. Soboleva, and A. L. Sukstansky, Zh. Eksp. Teor. Fiz., 91, No. 4: 1454 (1986) (in Russian); idem, Sov. Phys. JETP, 64, No. 4: 857 (1986)."
+			},
+			{
+				"doi": "10.1016/0038-1098(89)90257-3",
+				"or":  "V. G. Bar’yakhtar, B. A. Ivanov, and K. A. Safaryan, Solid State Commun., 72: 1117 (1989).",
+				"tr":  "V. G. Bar'yakhtar, B. A. Ivanov, and K. A. Safaryan, Solid State Commun., 72: 1117 (1989)."
+			},
+			{
+				"doi": "10.1016/0304-8853(93)90441-4",
+				"or":  "E. G. Galkina, B. A. Ivanov, and V. A. Stephanovich, J. Magn. Magn. Mater., 118(3): 373 (1993).",
+				"tr":  "E. G. Galkina, B. A. Ivanov, and V. A. Stephanovich, J. Magn. Magn. Mater., 118(3): 373 (1993)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.108.057202",
+				"or":  "J. H. Mentink, J. Hellsvik, D. V. Afanasiev, B. A. Ivanov, A. Kirilyuk, A. V. Kimel, O. Eriksson, M. I. Katsnelson, and Th. Rasing, Phys. Rev. Lett., 108: 057202 (2012).",
+				"tr":  "J. H. Mentink, J. Hellsvik, D. V. Afanasiev, B. A. Ivanov, A. Kirilyuk, A. V. Kimel, O. Eriksson, M. I. Katsnelson, and Th. Rasing, Phys. Rev. Lett., 108: 057202 (2012)."
+			},
+			{
+				"doi": "10.1134/S0021364013180057",
+				"or":  "V. G. Bar’yakhtar, V. I. Butrim, and B. A. Ivanov, JETP Letters, 98, No. 5: 289 (2013).",
+				"tr":  "V. G. Bar'yakhtar, V. I. Butrim, and B. A. Ivanov, JETP Letters, 98, No. 5: 289 (2013)."
+			},
+			{
+				"doi": "10.1038/ncomms2029",
+				"or":  "D. Rudolf, C. La-O-Vorakiat, M. Battiato, R. Adam, J. M. Shaw, E. Turgut, P. Maldonado, S. Mathias, P. Grychtol, H. T. Nembach, T. J. Silva, M. Aeschlimann, H. C. Kapteyn, M. M. Murnane, C. M. Schneider, and P. M. Oppeneer, Nature Commun., 3: 1037 (2012).",
+				"tr":  "D. Rudolf, C. La-O-Vorakiat, M. Battiato, R. Adam, J. M. Shaw, E. Turgut, P. Maldonado, S. Mathias, P. Grychtol, H. T. Nembach, T. J. Silva, M. Aeschlimann, H. C. Kapteyn, M. M. Murnane, C. M. Schneider, and P. M. Oppeneer, Nature Commun., 3: 1037 (2012)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.105.027203",
+				"or":  "M. Battiato, K. Carva, and P. M. Oppeneer, Phys. Rev. Lett., 105: 027203 (2010).",
+				"tr":  "M. Battiato, K. Carva, and P. M. Oppeneer, Phys. Rev. Lett., 105: 027203 (2010)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.86.024404",
+				"or":  "M. Battiato, K. Carva, and P. M. Oppeneer, Phys. Rev. B, 86: 024404 (2012).",
+				"tr":  "M. Battiato, K. Carva, and P. M. Oppeneer, Phys. Rev. B, 86: 024404 (2012)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.55.3050",
+				"or":  "D. A. Garanin, Phys. Rev. B, 55: 3050 (1997).",
+				"tr":  "D. A. Garanin, Phys. Rev. B, 55: 3050 (1997)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.70.212409",
+				"or":  "D. A. Garanin and O. Chubykalo-Fesenko, Phys. Rev. B, 70: 212409 (2004).",
+				"tr":  "D. A. Garanin and O. Chubykalo-Fesenko, Phys. Rev. B, 70: 212409 (2004)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.85.014433",
+				"or":  "R. F. L. Evans, D. Hinzke, U. Atxitia, U. Nowak, R. W. Chantrell, and O. Chubykalo-Fesenko, Phys. Rev. B, 85: 014433 (2012).",
+				"tr":  "R. F. L. Evans, D. Hinzke, U. Atxitia, U. Nowak, R. W. Chantrell, and O. Chubykalo-Fesenko, Phys. Rev. B, 85: 014433 (2012)."
+			},
+			{
+				"doi": "10.1134/S1063783414060390",
+				"or":  "I. A. Yastremsky, Fizika Tverdogo Tela, 56: 1076 (2014) (in Russian); idem, Phys. Solid State, 56, Iss. 6: 1118 (2014).",
+				"tr":  "I. A. Yastremsky, Fizika Tverdogo Tela, 56: 1076 (2014) (in Russian); idem, Phys. Solid State, 56, Iss. 6: 1118 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "A. I. Akhiezer, V. G. Bar’yakhtar, and S. V. Peletminskii, Spin Waves (Amsterdam: North-Holland: 1968).",
+				"tr":  "A. I. Akhiezer, V. G. Bar'yakhtar, and S. V. Peletminskii, Spin Waves (Amsterdam: North-Holland: 1968)."
+			}
+		]
+	}
+}

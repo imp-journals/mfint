@@ -1,0 +1,74 @@
+{
+	"_id":    "MFiNT.39.01.0069",
+	"year":   2017,
+	"volume": 39,
+	"issue":  1,
+	"pages":  [69,81],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["29.10.2015","18.07.2016"],
+	"PACS":   "46.50.+a, 46.55.+d, 62.20.Qp, 68.35.bd, 68.35.Ct, 81.15.Pq, 81.40.Pq",
+	"title":  {
+		"ua": "Продовження ресурсу деталей силових установок авіаційної наземної техніки в умовах експлуатації",
+		"en": "Extension of Resource of Power-Plants’ Parts of Aviation Ground Equipment under Operating Conditions",
+		"ru": "Продление ресурса деталей силовых установок авиационной наземной техники в условиях эксплуатации"
+	},
+	"abstract": {
+		"ua": "Розглянуто питання продовження ресурсу та відновлення деталей циліндропоршневої групи двигунів внутрішнього згоряння. Розроблено методику моделювання умов роботи пари «канавка–кільце» двигунів і проведено дослідження зносостійкості алюмінієвого стопу Ал-25 з електроіскровими покриттями різного складу в парі з леґованою хромом сталлю в умовах високотемпературного фретинґ-процесу. Визначено оптимальні режими зміцнювального оброблення канавок для поршневих кілець поршнів двигунів внутрішнього згоряння.",
+		"en": "The problems of resource extension and recovery of the piston–cylinder parts of internal combustion engines are considered. A method for modelling working conditions of pair ‘groove–ring’ of motors is developed, and durability of aluminium Al-25 alloy with electrospark coatings of different composition paired with a chromium alloyed steel under high-temperature fretting process is carried out. Optimum modes of hardening treatment for piston ring grooves of pistons of internal combustion engines are determined.",
+		"ru": "Рассмотрены вопросы продления ресурса и восстановления деталей цилиндропоршневой группы двигателей внутреннего сгорания. Разработана методика моделирования условий работы пары «канавка–кольцо» двигателей и проведено исследование износостойкости алюминиевого сплава Ал-25 с электроискровыми покрытиями различного состава в паре с легированной хромом сталью в условиях высокотемпературного фреттинг-процесса. Определены оптимальные режимы упрочняющей обработки канавок для поршневых колец поршней двигателей внутреннего сгорания."
+	},
+	"keywords": {
+		"ua": "авіаційна наземна техніка, двигун внутрішнього згоряння, циліндропоршнева група, зносостійкість, електроіскрове леґування, фретинґ-корозія",
+		"en": "aviation ground equipment, internal combustion engine, piston–cylinder group, wear resistance, electrospark doping, fretting corrosion",
+		"ru": "авиационная наземная техника, двигатель внутреннего сгорания, цилиндропоршневая группа, износостойкость, электроискровое легирование, фреттинг-коррозия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. Ф. Дмитриченко", "en": "M. F. Dmitrichenko", "ru": "Н. Ф. Дмитриченко"},
+			"OID": [251]
+		},
+		{
+			"AID": {"ua": "В. В. Варюхно", "en": "V. V. Varyuhno", "ru": "В. В. Варюхно"},
+			"OID": [251]
+		},
+		{
+			"AID": {"ua": "А. В. Кулініч", "en": "A. V. Kulinich", "ru": "А. В. Кулинич"},
+			"OID": [251]
+		},
+		{
+			"AID": {"ua": "А. Г. Довгаль", "en": "A. G. Dovgal", "ru": "А. Г. Довгаль"},
+			"OID": [251]
+		},
+		{
+			"AID": {"ua": "В. П. Коба", "en": "V. P. Koba", "ru": "В. П. Коба"},
+			"OID": [205]
+		}
+		],
+	"references": {
+		"count": 4,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "А. Г. Довгаль, Л. В. Бурдюженко, І. В. Ткаченко, Сучасні процеси механічної обробки інструментами з НТМ та якість поверхні деталей машин (Київ: Інститут надтвердих матеріалів ім. В. М. Бакуля НАН України: 2003), с. 313.",
+				"tr":  "A. G. Dovgal', L. V. Burdyuzhenko, and I. V. Tkachenko, Suchasni Protsesy Mekhanichnoyi Obrobky Instrumentamy z NTM ta Yakist' Poverkhni Detaley Mashyn [Modern Processes of Mechanical Treatment by Tools with NTM and Quality of the Surface of Machines Parts] (Kyiv: V. Bakul Institute for Superhard Materials, N.A.S. of Ukraine: 2003), p. 313 (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. F. Acar, F. Ozturk, and M. Bayrak, Mater. Technol., 44, No. 6: 391 (2010).",
+				"tr":  "A. F. Acar, F. Ozturk, and M. Bayrak, Mater. Technol., 44, No. 6: 391 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "О. Г. Гасангусенов, Вестник АГТУ. Серия: Морская техника и технология, № 1: 111 (2013).",
+				"tr":  "O. G. Gasangusenov, Vestnik AGTU. Seriya: Morskaya Tekhnika i Tekhnologiya, No. 1: 111 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Ю. Дударева, Вестник УГАТУ, 14, № 3: 111 (2010).",
+				"tr":  "N. Yu. Dudareva, Vestnik UGATU, 14, No. 3: 111 (2010) (in Russian)."
+			}
+		]
+	}
+}

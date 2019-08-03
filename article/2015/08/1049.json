@@ -1,0 +1,154 @@
+{
+	"_id":    "MFiNT.37.08.1049",
+	"year":   2015,
+	"volume": 37,
+	"issue":  8,
+	"pages":  [1049,1062],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["23.03.2015", "22.04.2015"],
+	"PACS":   "68.55.Nq, 73.50.Jt, 75.30.Gw, 75.47.Np, 75.50.Cc, 75.60.Ej, 75.70.Ak",
+	"title":  {
+		"ua": "Магнетні та магнеторезистивні властивості плівок феромагнетних металів",
+		"en": "Magnetic and Magnetoresistance Properties of Films of the Ferromagnetic Metals",
+		"ru": "Магнитные и магниторезистивные свойства плёнок ферромагнитных металлов"
+	},
+	"abstract": {
+		"ua": "Роботу присвячено вивченню магнетних і магнеторезистивних властивостей одношарових плівок феромагнетних металів та встановленню впливу на них структурно-фазового стану. Показано, що загальна намагнетованість плівок Co, Fe і Ni зростає зі збільшенням їхньої товщини. Після термооброблення значення загальної намагнетованости для плівок Со і Ni зростає, а для плівок Fe – зменшується. Після термооброблення для плівок всіх металів відбувається збільшення коерцитивної сили, в той час як у невідпаленому стані в плівках Co і Fe не спостерігається яскраво виражена розмірна залежність. У плівках Co, Fe і Ni до і після термооброблення виявляється анізотропний характер залежности магнетоопору від прикладеного зовнішнього магнетного поля.",
+		"en": "The paper is concerned with the study of magnetic and magnetoresistive properties of ferromagnetic-metal monolayer films as well as the ascertainment of structure—phase effects within them. As shown, the total magnetization of Co, Fe, and Ni films increases with increasing their thickness. After the heat treatment, the total value of magnetization increases for Co and Ni films, while decreases for Fe films. After the heat treatment, the coercivity increases for all metal films, while pronounced size dependence for Co and Fe films in the unannealed state is not observed. For Co, Fe, and Ni films before and after the heat treatment, an anisotropic magnetoresistance dependence on the applied external magnetic field takes place.",
+		"ru": "Работа посвящена изучению магнитных и магниторезистивных свойств однослойных плёнок ферромагнитных металлов и установлению влияния на них структурно-фазового состояния. Показано, что общая намагниченность плёнок Co, Fe и Ni растёт с увеличением их толщины. После термообработки значение общей намагниченности для плёнок Co и Ni увеличивается, а для плёнок Fe – уменьшается. После термообработки для плёнок всех металлов происходит увеличение коэрцитивной силы, в то время как в неотожжённом состоянии в плёнках Co и Fe не наблюдается ярко выраженная размерная зависимость. В плёнках Co, Fe и Ni до и после термообработки проявляется анизотропный характер зависимости магнитосопротивления от приложенного внешнего магнитного поля."
+	},
+	"keywords": {
+		"ua": "тонкі плівки, феромагнетні метали, магнетні властивості, магнетоопір, коерцитивна сила, загальна намагнетованість",
+		"en": "thin films, ferromagnetic metals, magnetic properties, magnetoresistance, coercive force, total magnetization",
+		"ru": "тонкие плёнки, ферромагнитные металлы, магнитные свойства, магнитосопротивление, коэрцитивная сила, общая намагниченность"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. І. Воробйов", "en": "S. I. Vorobiov", "ru": "С. И. Воробьёв"},
+			"OID": [208]
+		},
+		{
+			"AID": {"ua": "Я. М. Литвиненко", "en": "Ia. M. Lytvynenko", "ru": "Я. Н. Литвиненко"},
+			"OID": [208]
+		},
+		{
+			"AID": {"ua": "І. О. Шпетний", "en": "I. O. Shpetnyi", "ru": "И. А. Шпетный"},
+			"OID": [208,7]
+		},
+		{
+			"AID": {"ua": "О. В. Шутилєва", "en": "O. V. Shutyleva", "ru": "О. В. Шутылева"},
+			"OID": [208]
+		},
+		{
+			"AID": {"ua": "А. М. Чорноус", "en": "A. M. Chornous", "ru": "А. Н. Чорноус"},
+			"OID": [208]
+		}
+	],
+	"references": {
+		"count": 20,
+		"list":  [
+			{
+				"doi": "10.1016/S0927-0256(01)00234-8",
+				"or":  "H. Huang and G. H. Gilmer, Comp. Mater. Sci., 23: 190 (2002).",
+				"tr":  "H. Huang and G. H. Gilmer, Comp. Mater. Sci., 23: 190 (2002)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2006.10.608",
+				"or":  "J. O. Song and S. R. Lee, J. Magn. Magn. Mater., 310: 1923 (2007).",
+				"tr":  "J. O. Song and S. R. Lee, J. Magn. Magn. Mater., 310: 1923 (2007)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.79.224113",
+				"or":  "C.-W. Pao, S. M. Foiles, E. B. Webb, D. J. Srolovitz, and J. A. Floro, Phys. Rev. B, 79: 224113 (2009).",
+				"tr":  "C.-W. Pao, S. M. Foiles, E. B. Webb, D. J. Srolovitz, and J. A. Floro, Phys. Rev. B, 79: 224113 (2009)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2011.01.047",
+				"or":  "Yu. L. Yaropolov, A. S. Andreenko, S. A. Nikitin, S. S. Agafonov, V. P. Glazkov, and V. N. Verbetsky, J. Alloys Compd., 509, Supplement 2: S830 (2011).",
+				"tr":  "Yu. L. Yaropolov, A. S. Andreenko, S. A. Nikitin, S. S. Agafonov, V. P. Glazkov, and V. N. Verbetsky, J. Alloys Compd., 509, Supplement 2: S830 (2011)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2013.03.002",
+				"or":  "S. Bouhou, A. Zaim, A. Ainane, M. Kerouad, and R. Ahuja, J. Magn. Magn. Mater., 339: 127 (2013).",
+				"tr":  "S. Bouhou, A. Zaim, A. Ainane, M. Kerouad, and R. Ahuja, J. Magn. Magn. Mater., 339: 127 (2013)."
+			},
+			{
+				"doi": "10.1016/j.jmmm.2014.09.014",
+				"or":  "Ch. Luo, Y. Fu, D. Zhang, S. Yuan, Y. Zhai, S. Dong, and H. Zhai, J. Magn. Magn. Mater., 374: 711 (2015).",
+				"tr":  "Ch. Luo, Y. Fu, D. Zhang, S. Yuan, Y. Zhai, S. Dong, and H. Zhai, J. Magn. Magn. Mater., 374: 711 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "V. G. Samsonov, Fiziko-Khimicheskie Svoystva Elementov: Spravochnik [The Physicochemical Properties of the Elements: The Handbook] (Kiev: Naukova Dumka: 1965) (in Russian).",
+				"tr":  "V. G. Samsonov, Fiziko-Khimicheskie Svoystva Elementov: Spravochnik [The Physicochemical Properties of the Elements: The Handbook] (Kiev: Naukova Dumka: 1965) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. I. Vorobiov, L. V. Odnodvorets, O. V. Pylypenko, and A. M. Chornous, Nanosistemi, Nanomateriali, Nanotehnologii, 10, No. 4: 829 (2012) (in Ukrainian).",
+				"tr":  "S. I. Vorobiov, L. V. Odnodvorets, O. V. Pylypenko, and A. M. Chornous, Nanosistemi, Nanomateriali, Nanotehnologii, 10, No. 4: 829 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. I. Vorobiov, O. V. Shutylieva, I. О. Shpetnyi, and А. М. Chornous, J. Nano- and Electron. Phys., 4, No. 4: 04026 (2012).",
+				"tr":  "S. I. Vorobiov, O. V. Shutylieva, I. O. Shpetnyi, and A. M. Chornous, J. Nano- and Electron. Phys., 4, No. 4: 04026 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "S. I. Vorobiov, I. V. Cheshko, A. M. Chornous, and I. О. Shpetnyi, Metallofiz. Noveishie Tekhnol., 35, No. 12: 1645 (2013) (in Ukrainian).",
+				"tr":  "S. I. Vorobiov, I. V. Cheshko, A. M. Chornous, and I. O. Shpetnyi, Metallofiz. Noveishie Tekhnol., 35, No. 12: 1645 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. I. Vorobiov, I. V. Cheshko, A. M. Chornous, H. Shirzadfar, and O. V. Shutylieva, J. Nano- and Electron. Phys., 6, No. 2: 02022 (2014) (in Ukrainian).",
+				"tr":  "S. I. Vorobiov, I. V. Cheshko, A. M. Chornous, H. Shirzadfar, and O. V. Shutylieva, J. Nano- and Electron. Phys., 6, No. 2: 02022 (2014) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "I. Yu. Protsenko, V. V. Tokman’, A. M. Chornous, and I. О. Shpetny, Metallofiz. Noveishie Tekhnol., 25, No. 3: 319 (2003) (in Ukrainian).",
+				"tr":  "I. Yu. Protsenko, V. V. Tokman', A. M. Chornous, and I. O. Shpetny, Metallofiz. Noveishie Tekhnol., 25, No. 3: 319 (2003) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1002/crat.200510605",
+				"or":  "T. Hovorun and A. Chornous, Cryst. Res. Technol., 41, No. 5: 458 (2006).",
+				"tr":  "T. Hovorun and A. Chornous, Cryst. Res. Technol., 41, No. 5: 458 (2006)."
+			},
+			{
+				"doi": "10.1088/0022-3727/40/2/006",
+				"or":  "H. M. Lu, W. T. Zheng, and Q. Jiang, J. Phys. D: Appl. Phys., 40: 320 (2007).",
+				"tr":  "H. M. Lu, W. T. Zheng, and Q. Jiang, J. Phys. D: Appl. Phys., 40: 320 (2007)."
+			},
+			{
+				"doi": "10.1063/1.1656256",
+				"or":  "A. E. Berkowitz, W. J. Shuele, and P. J. Flanders, J. Appl. Phys., 39: 1261 (1968).",
+				"tr":  "A. E. Berkowitz, W. J. Shuele, and P. J. Flanders, J. Appl. Phys., 39: 1261 (1968)."
+			},
+			{
+				"doi": "10.1016/S0925-8388(01)01225-7",
+				"or":  "R. N. Panda, N. S. Gajbhiye, and G. Balaji, J. Alloys Compd., 326: 50 (2001).",
+				"tr":  "R. N. Panda, N. S. Gajbhiye, and G. Balaji, J. Alloys Compd., 326: 50 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "Magnetizm Nanosistem na Osnove Redkozemel’nykh i 3-d Perekhodnykh Metallov [The Magnetism of Nanosystems Based on Rare Earth and 3-d Transition Metals] (Ed. V. A. Vas’kovskiy) (Yekaterinburg : Izdatel’stvo Ural’skogo Universiteta: 2008) (in Russian).",
+				"tr":  "Magnetizm Nanosistem na Osnove Redkozemel'nykh i 3-d Perekhodnykh Metallov [The Magnetism of Nanosystems Based on Rare Earth and 3-d Transition Metals] (Ed. V. A. Vas'kovskiy) (Yekaterinburg : Izdatel'stvo Ural'skogo Universiteta: 2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. S. Kandaurova, Sorosovskiy Obrazovatel’nyy Zhurnal, 1: 100 (1997) (in Russian).",
+				"tr":  "G. S. Kandaurova, Sorosovskiy Obrazovatel'nyy Zhurnal, 1: 100 (1997) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. I. Kuz’menko, T. A. Prokof’eva, I. E. Protsenko, V. G. Shamonya, and L. A. Yaremenko, Izv. AN SSSR. Ser. Fiz., 50, No. 8: 1590 (1986) (in Russian).",
+				"tr":  "A. I. Kuz'menko, T. A. Prokof'eva, I. E. Protsenko, V. G. Shamonya, and L. A. Yaremenko, Izv. AN SSSR. Ser. Fiz., 50, No. 8: 1590 (1986) (in Russian)."
+			},
+			{
+				"doi": "10.1007/s11051-013-1603-8",
+				"or":  "S. A. Nepijko, A. Petrov, D. Kondrakhova, I. Yu. Protsenko, H. J. Elmers, and G. Schönhense, J. Nanopart. Res., 15: 1603 (2013).",
+				"tr":  "S. A. Nepijko, A. Petrov, D. Kondrakhova, I. Yu. Protsenko, H. J. Elmers, and G. Schönhense, J. Nanopart. Res., 15: 1603 (2013)."
+			}
+		]
+	}
+}

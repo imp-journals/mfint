@@ -1,0 +1,141 @@
+{
+	"_id":    "MFiNT.36.03.0399",
+	"year":   2014,
+	"volume": 36,
+	"issue":  3,
+	"pages":  [399,418],
+	"rubric": 2,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["16.05.2013", "24.03.2014"],
+	"PACS":   "61.05.cc, 61.05.cp, 61.72.Dd, 61.72.J-, 68.49.Uv",
+	"title":   {
+		"ua": "Динамічна теорія ковзного дифузного розсіяння рентґенівських променів в кристалі з приповерхневими дефектами",
+		"en": "Dynamical Theory of Grazing Diffuse Scattering of X-Rays by a Crystal with Subsurface Defect",
+		"ru": "Динамическая теория скользящего диффузного рассеяния рентгеновских лучей в кристалле с приповерхностными дефектами"
+	},
+	"abstract": {
+		"ua": "Ковзна дифракція (grazing incidence diffraction–GID) Рентґенових променів, що падають під малими кутами (порівнянними з кутом повного зовнішнього відбивання), є потужним інструментом діагностики дефектів у приповерхневих шарах і в тонких плівках. У даній статті розроблено динамічну модель дифузного розсіяння Рентґенового випромінення у кристалі з приповерхневими дефектами типу центрів дилатації. Основна інформація про викривлення кристалічної ґратниці поблизу поверхні міститься в дифузних компонентах розсіяння, зосереджених навколо когерентних піків дзеркально відбитої і дзеркально дифрагованої хвиль. Для обчислення амплітуд дифузного розсіяння запропоновано новий підхід, пов’язаний з наближенням спотвореної хвилі (distorted wave Born approximation–DWBA). Фур’є-компоненти атомних зміщень виражено за допомогою точних формул континуального наближення, яких одержано з урахуванням сил зображення, обумовлених межею поділу. Розраховано карти розподілу інтенсивности ковзного дифузного розсіяння на приповерхневих дефектах, хаотично розташованих у пласкому шарі. Для різних схем сканування визначено умови реєстрації переважно дифузної складової в ковзній дифракції.",
+		"en": "Diffraction of X-rays in conditions of total external reflection (grazing-incidence diffraction–GID) is a powerful method for defects’ diagnostics in subsurface layers and thin films. In a given paper, the dynamical model of diffuse X-ray scattering in crystals, which contain subsurface dilatation-centre-type defects, is developed. Diffuse scattering near the specular reflected and specular diffracted coherent peaks provides the main information about subsurface lattice distortions. New approach developed for calculation of the diffuse scattering amplitude is based on the distorted wave Born approximation (DWBA). Fourier components of lattice distortions are expressed by exact formulas within the scope of the continuous approximation, which takes into account the image forces caused by surface boundary. The intensity maps calculated for diffuse grazing waves scattered by subsurface defects randomly distributed in a flat layer are presented. For different scanning schemes, the conditions of predominantly diffuse component registration in grazing diffraction are defined.",
+		"ru": "Скользящая дифракция (grazing incidence diffraction–GID) рентгеновских лучей, падающих под малыми углами (сравнимых с углом полного внешнего отражения), является мощным инструментом диагностики дефектов в приповерхностных слоях и в тонких плёнках. В данной статье разработана динамическая модель диффузного рассеяния рентгеновского излучения в кристалле с приповерхностными дефектами типа центров дилатации. Основная информация об искажениях кристаллической решётки вблизи поверхности заключена в диффузных компонентах рассеяния, сосредоточенных в окрестности когерентных пиков зеркально отражённой и зеркально дифрагированной волн. Для вычисления амплитуд диффузного рассеяния предложен новый подход, связанный с приближением искажённой волны (distorted wave Born approximation–DWBA). Фурье-компоненты атомных смещений выражены с помощью точных формул континуального приближения, которые получены с учётом сил изображения, обусловленных влиянием границы раздела. Рассчитаны карты интенсивности скользящего диффузного рассеяния на приповерхностных дефектах, хаотически расположенных в плоском слое. Для разных схем сканирования определены условия регистрации преимущественно диффузной составляющей в скользящей дифракции."
+	},
+	"keywords": {
+		"ua": "рентґенівські промені, ковзна дифракція, динамічна теорія, когерентне і дифузне розсіяння, наближення спотвореної хвилі, центри дилатації, сили зображення",
+		"en": "X-rays, grazing incidence diffraction, dynamical theory, coherent and diffuse scattering, distorted wave Born approximation, dilatation centers, image forces",
+		"ru": "рентгеновские лучи, скользящая дифракция, динамическая теория, когерентное и диффузное рассеяние, приближение искажённой волны, центры дилатации, силы изображения"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. Ю. Гаєвський", "en": "O. Yu. Gaevskii", "ru": "А. Ю. Гаевский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "І. Е. Голентус", "en": "I. E. Golentus", "ru": "И. Э. Голентус"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. Б. Молодкін", "en": "V. B. Molodkin", "ru": "В. Б. Молодкин"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 19,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "M. A. Krivoglaz, Difraktsiya Rentgenovskih Luchej i Neytronov v Neideal’nykh Kristallakh (X-Ray and Neutron Diffraction in Nonideal Crystals) (Kiev: Naukova Dumka: 1983) (in Russian).",
+				"tr":  "M. A. Krivoglaz, Difraktsiya Rentgenovskih Luchej i Neytronov v Neideal'nykh Kristallakh (X-Ray and Neutron Diffraction in Nonideal Crystals) (Kiev: Naukova Dumka: 1983) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.4.1041",
+				"or":  "P. H. Dederichs, Phys. Rev. B, 4: 1041 (1971).",
+				"tr":  "P. H. Dederichs, Phys. Rev. B, 4: 1041 (1971)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.43.8282",
+				"or":  "M. F. Thorpe, I. S. Chung, and Y. Cai, Phys. Rev. B, 43: 8282 (1991).",
+				"tr":  "M. F. Thorpe, I. S. Chung, and Y. Cai, Phys. Rev. B, 43: 8282 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Yu. Gaevskiy, M. A. Ivanov, and V. B. Molodkin, Metallofiz. Noveishie Tekhnol., 31, No. 5: 633 (2009) (in Russian).",
+				"tr":  "A. Yu. Gaevskiy, M. A. Ivanov, and V. B. Molodkin, Metallofiz. Noveishie Tekhnol., 31, No. 5: 633 (2009) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. B. Molodkin, S. I. Olikhovskiy, and M. E. Osinovskiy, Metallofiz. Noveishie Tekhnol., 5, No. 5: 3 (1983) (in Russian).",
+				"tr":  "V. B. Molodkin, S. I. Olikhovskiy, and M. E. Osinovskiy, Metallofiz. Noveishie Tekhnol., 5, No. 5: 3 (1983) (in Russian)."
+			},
+			{
+				"doi": "10.1107/S0108767383000471",
+				"or":  "A. M. Afanas’ev and M. K. Melkonyan, Acta Crystallogr. A, 39: 207 (1983).",
+				"tr":  "A. M. Afanas'ev and M. K. Melkonyan, Acta Crystallogr. A, 39: 207 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "A. M. Afanas’ev, P. A. Alexandrov, and R. M. Imamov, Rentgenodifraktsionnaya Diagnostika Submikronnykh Sloev (X-Ray Diffraction Diagnostics of Submicron Layers) (Moscow: Nauka: 1989) (in Russian).",
+				"tr":  "A. M. Afanas'ev, P. A. Alexandrov, and R. M. Imamov, Rentgenodifraktsionnaya Diagnostika Submikronnykh Sloev (X-Ray Diffraction Diagnostics of Submicron Layers) (Moscow: Nauka: 1989) (in Russian)."
+			},
+			{
+				"doi": "10.1007/978-1-4757-4050-9",
+				"or":  "U. Pietsch, V. Holy, and T. Baumbach, High-Resolution X-Ray Scattering from Thin Films and Multilayers (New York: Springer-Verlag: 2004).",
+				"tr":  "U. Pietsch, V. Holy, and T. Baumbach, High-Resolution X-Ray Scattering from Thin Films and Multilayers (New York: Springer-Verlag: 2004)."
+			},
+			{
+				"doi": "",
+				"or":  "U. Pietsch, Current Sci., 78: 25 (2000).",
+				"tr":  "U. Pietsch, Current Sci., 78: 25 (2000)."
+			},
+			{
+				"doi": "10.1063/1.363838",
+				"or":  "E. A. Kondrashkina, S. A. Stepanov, M. Schmidbauer, R. Opitz, and R. Koehler, J. Appl. Phys., 81: 175 (1997).",
+				"tr":  "E. A. Kondrashkina, S. A. Stepanov, M. Schmidbauer, R. Opitz, and R. Koehler, J. Appl. Phys., 81: 175 (1997)."
+			},
+			{
+				"doi": "10.1088/0022-3727/28/12/020",
+				"or":  "A. P. Ulyanenkov, S. A. Stepanov, U. Pietsch, and R. Kohler, J. Phys. D: Appl. Phys., 28: 2522 (1995).",
+				"tr":  "A. P. Ulyanenkov, S. A. Stepanov, U. Pietsch, and R. Kohler, J. Phys. D: Appl. Phys., 28: 2522 (1995)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Yu. Gaevskiy, Metallofiz. Noveishie Tekhnol., 31, No. 10: 1317 (2009) (in Russian).",
+				"tr":  "A. Yu. Gaevskiy, Metallofiz. Noveishie Tekhnol., 31, No. 10: 1317 (2009) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.1745385",
+				"or":  "R. D. Mindlin, Physics, 7: 195 (1936).",
+				"tr":  "R. D. Mindlin, Physics, 7: 195 (1936)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Daillant, S. Mora, and A. Sentenacm, Diffuse Scattering Lect. Notes Phys., 770: 133 (2009).",
+				"tr":  "J. Daillant, S. Mora, and A. Sentenacm, Diffuse Scattering Lect. Notes Phys., 770: 133 (2009)."
+			},
+			{
+				"doi": "10.1063/1.463741",
+				"or":  "J. Daillant and O. Belorgey, J. Chem. Phys., 97: 5824 (1992).",
+				"tr":  "J. Daillant and O. Belorgey, J. Chem. Phys., 97: 5824 (1992)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.38.2297",
+				"or":  "S. K. Sinha, E. B. Sirota, S. Garoff, and H. B. Stanley, Phys. Rev. B, 38: 2297 (1988).",
+				"tr":  "S. K. Sinha, E. B. Sirota, S. Garoff, and H. B. Stanley, Phys. Rev. B, 38: 2297 (1988)."
+			},
+			{
+				"doi": "10.1143/JPSJ.13.278",
+				"or":  "S. Takagi, J. Phys. Soc. Jap., 13, No. 2: 278 (1958).",
+				"tr":  "S. Takagi, J. Phys. Soc. Jap., 13, No. 2: 278 (1958)."
+			},
+			{
+				"doi": "10.1107/S0108767388010657",
+				"or":  "S. M. Durbin and T. Gog, Acta Cryst. A, 45: 132 (1989).",
+				"tr":  "S. M. Durbin and T. Gog, Acta Cryst. A, 45: 132 (1989)."
+			},
+			{
+				"doi": "10.1007/978-3-642-65462-6",
+				"or":  "F. Oberhettinger, Tables of Bessel Transforms (New York: Springer-Verlag: 1972).",
+				"tr":  "F. Oberhettinger, Tables of Bessel Transforms (New York: Springer-Verlag: 1972)."
+			}
+		]
+	}
+}

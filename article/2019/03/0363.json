@@ -1,0 +1,130 @@
+{
+	"_id":    "MFiNT.41.03.0363",
+	"year":   2019,
+	"volume": 41,
+	"issue":  3,
+	"pages":  [363,374],
+	"rubric": 15,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["25.10.2018"],
+	"PACS":   "64.75.Nx, 81.30.Kf, 81.30.Mh, 81.40.Cd, 81.40.Ef, 87.85.jj",
+	"title":   {
+		"ua": "Формування структури литих біосумісних стопів системи Ti–Nb–Si",
+		"en": "Structure Formation of as Cast Biocompatible Alloys of the Ti–Nb–Si System",
+		"ru": "Формирование структуры литых биосовместимых сплавов системы Ti–Nb–Si"
+	},
+	"abstract": {
+		"ua": "Проведено дослідження литих стопів системи Ti–Nb–Si з вмістом ніобію 18% ваг. і кремнію від 0,6 до 1,2% ваг. Вивчався вплив легуючих елементів на структуру та твердість. Показано, що у стопах даного складу при кристалізації не відбувається розпаду з виділенням первинних силіцидів, а при охолодженні проходять процеси гартування і виділення вторинних силіцидів (Ti, Nb)$_3$Si. Вплив ніобію проявляється у посиленні виділення силіцидів. Встановлено, що максимальний рівень механічних властивостей у стопах системи Ti–18Nb–$x$Si можна одержати при вмісті кремнію 1% ваг. за рахунок твердорозчинного та дисперсійного зміцнення.",
+		"en": "The investigation of as cast alloys of the Ti–Nb–Si system with niobium content 18% wt. and silicon content from 0.6 to 1.2% wt. is carried out. The influence of alloying elements at the structure and hardness is studied. As shown, in the alloys of these compositions, during crystallization, there is no eutectic decomposition with the release of primary silicides, while cooling processes the quenching and secondary silicide (Ti, Nb)$_3$Si separation undergo. The influence of niobium shows up in the enhancement of the release of silicides. As determined, the maximum level of mechanical properties in the alloys of Ti–18Nb–$x$Si system can be obtained at 1% wt. Si content by solid solution strengthening and dispersion hardening.",
+		"ru": "Проведено исследование литых сплавов системы Ti–Nb–Si с содержанием ниобия 18% вес. и кремния от 0,6 до 1,2% вес. Изучалось влияние легирующих элементов на структуру и твёрдость. Показано, что в сплавах данных составов при кристаллизации не происходит эвтектический распад с выделением первичных силицидов, а при охлаждении проходят процессы закалки и выделения вторичных силицидов (Ti, Nb)$_3$Si. Влияние ниобия проявляется в усилении выделения силицидов. Установлено, что максимальный уровень механических свойств в сплавах системы Ti–Nb–Si можно получить при содержании кремния 1% вес. за счёт твёрдорастворного и дисперсионного упрочнения."
+	},
+	"keywords": {
+		"ua": "стопи Ti–Nb–Si, структура, розпад, зміцнення, силіциди",
+		"en": "Ti–Nb–Si alloys, structure, decomposition, strengthening, silicides",
+		"ru": "сплавы Ti–Nb–Si, структура, распад, упрочнение, силициды"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. М. Шевченко", "en": "О. М. Shevchenko", "ru": "О. М. Шевченко"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "Л. Д. Кулак", "en": "L. D. Kulak", "ru": "Л. Д. Кулак"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "М. М. Кузьменко", "en": "M. M. Kuzmenkо", "ru": "Н. Н. Кузьменко"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "С. О. Фірстов", "en": "S. O. Firstov", "ru": "С. А. Фирстов"},
+			"OID": [2]
+		}
+	],
+	"references": {
+		"count": 16,
+		"list":  [
+			{
+				"doi": "10.1007/BF02387731",
+				"or":  "R. L. Saha, T. K. Nandy, and R. D. Mistra, J. Mater. Sci., 26: 2637 (1991).",
+				"tr":  "R. L. Saha, T. K. Nandy, and R. D. Mistra, J. Mater. Sci., 26: 2637 (1991)."
+			},
+			{
+				"doi": "10.1023/A:1008992109670",
+				"or":  "K. Anselme, B. Noël, and P. Hardouin, J. Mater. Sci.: Mater. Med., 10, No. 12: 815 (1999).",
+				"tr":  "K. Anselme, B. Noël, and P. Hardouin, J. Mater. Sci.: Mater. Med., 10, No. 12: 815 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "С. О. Фірстов, Нове покоління матеріалів на базі титану. Механіка руйнування матеріалів і міцність конструкцій (Ред. В. В. Панасюк) (Львів: ФМІ НАН України: 2004).",
+				"tr":  "S. O. Firstov, Nove Pokolinnya Materialiv na Bazi Tytanu. Mekhanika Ruynuvannya Materialiv i Mitsnist' Konstruktsiy [A New Generation of Materials on the Titanium Base. Fracture Mechanics of Materials and Strength of Constructions] (Ed. V. V. Panasiuk) (Lviv: FMI NAS of Ukraine: 2004) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Фирстов, С. В. Ткаченко, Н. Н. Кузьменко, Металловедение и термическая обработка металлов, № 1: 14 (2009).",
+				"tr":  "S. A. Firstov, S. V. Tkachenko, and N. N. Kuz'menko, Metallovedenie i Termicheskaya Obrabotka Metallov, No. 1: 14 (2009) (in Russian)."
+			},
+			{
+				"doi": "10.1007/s11003-008-9042-x",
+				"or":  "M. M. Kuz’menko, Materials Science, 44, No. 1: 49 (2008).",
+				"tr":  "M. M. Kuz'menko, Materials Science, 44, No. 1: 49 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "М. М. Кузьменко, Современные проблемы физического материаловедения, 16: 118 (2007).",
+				"tr":  "M. M. Kuz'menko, Sovremennye Problemy Fizicheskogo Materialovedeniya, 16: 118 (2007) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2005.11.001",
+				"or":  "Han-Sol Kim, Won-Yong Kim, and Sung-Hwan Lim, Scripta Materialia, 54, No. 5: 887 (2006).",
+				"tr":  "Han-Sol Kim, Won-Yong Kim, and Sung-Hwan Lim, Scripta Materialia, 54, No. 5: 887 (2006)."
+			},
+			{
+				"doi": "10.15407/dopovidi2016.02.062",
+				"or":  "О. М. Шевченко, Л. Д. Кулак, О. В. Дацкевич, М. М. Кузьменко, Г. Є. Хоменко, С. О. Фірстов, Доповіді Національної академії наук України, № 2: 63 (2016).",
+				"tr":  "O. M. Shevchenko, L. D. Kulak, O. V. Datskevich, N. N. Kuzmenko, G. E. Khomenko, and S. O. Firstov, Dopov. Nac. Akad. Nauk Ukr., No. 2: 63 (2016) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/mfint.39.06.0823",
+				"or":  "О. М. Шевченко, Л. Д. Кулак, М. М. Кузьменко, А. В. Котко, С. О. Фірстов, Металлофиз. новейшие технол., 39, № 6: 823 (2017).",
+				"tr":  "O. M. Shevchenko, L. D. Kulak, M. M. Kuzmenko, A. V. Kotko, and S. O. Firstov, Metallofiz. Noveishie Tekhnol., 39, No. 6: 823 (2017) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1007/BF02647850",
+				"or":  "B. P. Bewlay and M. R. Jackson, J. Phase Equilib., 18, No. 3: 264 (1997).",
+				"tr":  "B. P. Bewlay and M. R. Jackson, J. Phase Equilib., 18, No. 3: 264 (1997)."
+			},
+			{
+				"doi": "10.1361/105497198770341789",
+				"or":  "B. P. Bewlay, M. R. Jackson, and R. R. Bishop, J. Phase Equilib., 19, No. 6: 577 (1998).",
+				"tr":  "B. P. Bewlay, M. R. Jackson, and R. R. Bishop, J. Phase Equilib., 19, No. 6: 577 (1998)."
+			},
+			{
+				"doi": "10.1016/j.msea.2003.08.008",
+				"or":  "J.-C. Zhao, M. R. Jackson, and L. A. Peluso, Mater. Sci. Eng. A, 372, Nos. 1–2: 21 (2004).",
+				"tr":  "J.-C. Zhao, M. R. Jackson, and L. A. Peluso, Mater. Sci. Eng. A, 372, Nos. 1-2: 21 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "Титановые сплавы. Металлография титановых сплавов (Ред. Н. Ф. Аношкин) (Москва: Металлургия: 1980).",
+				"tr":  "Titanovye Splavy. Metallografiya Titanovykh Splavov [Titanium Alloys. Metallography of Titanium Alloys] (Ed. N. F. Anoshkin) (Moscow: Metallurgiya: 1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. И. Носова, Фазовые превращения в сплавах титана (Москва: Металлургия: 1968).",
+				"tr":  "G. I. Nosova, Fazovye Prevrashcheniya v Splavakh Titana [Phase Transformations in Titanium Alloys] (Moscow: Metallurgiya: 1968) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.msea.2006.02.329",
+				"or":  "H. S. Kim, S. H. Lim, I. D. Yeo, and W. Y. Kim, Mater. Sci. Eng. A, 449–451: 322 (2007).",
+				"tr":  "H. S. Kim, S. H. Lim, I. D. Yeo, and W. Y. Kim, Mater. Sci. Eng. A, 449-451: 322 (2007)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.546-549.2151",
+				"or":  "W. Y. Kim, Mater. Sci. Forum, 546–549, No. 4: 2151 (2007).",
+				"tr":  "W. Y. Kim, Mater. Sci. Forum, 546-549, No. 4: 2151 (2007)."
+			}
+		]
+	}
+}

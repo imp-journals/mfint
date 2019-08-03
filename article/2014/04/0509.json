@@ -1,0 +1,128 @@
+{
+	"_id":    "MFiNT.36.04.0509",
+	"year":   2014,
+	"volume": 36,
+	"issue":  4,
+	"pages":  [509,517],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["509"],
+	"PACS":   "52.80.-s, 62.50.Ef, 81.07.Wx, 81.16.Be, 81.20.Ka, 81.40.Rs, 82.45.Aa",
+	"title":   {
+		"ua": "Коментарі до статті «Імпульсний плазмохімічний синтез нанодисперсних порошків на основі заліза, їх фазовий склад і магнітні властивості», Металлофизика и новейшие технологии, т. 35, № 4: 569 (2013)",
+		"en": "Comments on the Article ‘Pulse Plasma-Chemical Synthesis of Nanodispersed Iron-Based Powders, Their Phase Composition, and Magnetic Properties’, Metallofiz. Noveishie Tekhnol., vol. 35, No. 4: 569 (2013)",
+		"ru": "Комментарии к статье «Импульсный плазмохимический синтез нанодисперсных порошков на основе железа, их фазовый состав и магнитные свойства», Металлофизика и новейшие технологии, т. 35, № 4: 569 (2013)"
+	},
+	"abstract": {
+		"ua": "Показано, що використання явища електровибуху, викликаного розрядом конденсаторної батареї в суміші порошків заліза і графіту, взятих у різних пропорціях, не може бути віднесено до жодного з методів плазмохімічного синтезу і не може розглядатися як спосіб одержання частинок нанорозмірної величини. Показано причини помилкових суджень, висловлених авторами, і зроблених висновків у роботі.",
+		"en": "As shown, the use of electroblasting phenomena induced by discharging of capacitors battery in a mixture of iron and graphite powders taken in different proportions cannot be referred to any of the methods of plasma chemical synthesis and cannot be considered as a way to obtain particles of nanoscale size. The reasons for the errors in consideration and conclusions made by the authors are shown.",
+		"ru": "Показано, что использование явления электровзрыва, вызванного методом разрядки конденсаторной батареи в смеси порошков железа и графита, взятых в разных пропорциях, не может быть отнесено ни к одному из методов плазмохимического синтеза и не может рассматриваться как способ получения частиц наноразмерной величины. Показаны причины ошибочных суждений, высказанных авторами, и сделанных ими выводов по работе."
+	},
+	"keywords": {
+		"ua": "нанодисперсні порошки, пінч-ефект, електровибух, плазмохімічний синтез",
+		"en": "nanodispersed powders, pinch effect, electroblasting phenomena, plasma chemical synthesis",
+		"ru": "нанодисперсные порошки, пинч-эффект, электровзрыв, плазмохимический синтез"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. П. Ошкадьоров", "en": "S. P. Oshkadyorov", "ru": "С. П. Ошкадёров"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 18,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "С. А. Кропивина, Плазмохимические технологические процессы (Ленинград: Химия: 1981).",
+				"tr":  "S. A. Kropivina, Plazmokhimicheskie Tekhnologicheskie Protsessy (Leningrad: Khimiya: 1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Уварова, Плазменные и плазмохимические технологии. Неорганическое материаловедение. Материалы и технологии (Киев: Наукова думка: 2008), т. 2, кн. 2, с. 49.",
+				"tr":  "I. V. Uvarova, Plazmennye i Plazmokhimicheskie Tekhnologii. Neorganicheskoe Materialovedenie. Materialy i Tekhnologii (Kiev: Naukova Dumka: 2008), vol. 2, book. 2, p. 49 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Райченко, Основы процесса спекания порошков пропусканием электрического тока (Москва: Металлургия: 1987).",
+				"tr":  "A. I. Raychenko, Osnovy Protsessa Spekaniya Poroshkov Propuskaniem Elektricheskogo Toka (Moscow: Metallurgiya: 1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. Е. Белявин, В. В. Лиозюк, Д. В. Минька, В. К. Шелег, Теория и практика электроимпульсного спекания пористых порошковых материалов (Минск: 1997).",
+				"tr":  "K. E. Belyavin, V. V. Liozyuk, D. V. Min'ka, and V. K. Sheleg, Teoriya i Praktika Elektroimpul'snogo Spekaniya Poristykh Poroshkovykh Materialov (Minsk: 1997) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. О. Андрущик, Ю. В. Корнюшин, С. П. Ошкадеров, Спекание металлических порошков электрическим током (Киев: ИПМ АН УССР: 1984), с. 225.",
+				"tr":  "L. O. Andrushchik, Yu. V. Kornyushin, and S. P. Oshkadyorov, Spekanie Metallicheskikh Poroshkov Elektricheskim Tokom (Kiev: IPM AN USSR: 1984), p. 225 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. О. Андрущик, О. Н. Балакшина, Ю. В. Корнюшин, С. П. Ошкадеров, В. А. Швитай, Металлофизика, 9, № 2: 32 (1987).",
+				"tr":  "L. O. Andrushchik, O. N. Balakshina, Yu. V. Kornyushin, S. P. Oshkadyorov, and V. A. Shvitay, Metallofizika, 9, No. 2: 32 (1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. О. Андрущик, Ю. В. Корнюшин, С. П. Ошкадеров, Вестник АН УССР, № 3: 21 (1988).",
+				"tr":  "L. O. Andrushchik, Yu. V. Kornyushin, and S. P. Oshkadyorov, Vestnik AN USSR, No. 3: 21 (1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. О. Андрущик, Э. Дудрова, М. Кобатова, С. П. Ошкадеров, Порошковая металлургия, № 1: 33 (1993).",
+				"tr":  "L. O. Andrushchik, Eh. Dudrova, M. Kobatova, and S. P. Oshkadyorov, Poroshkovaya Metallurgiya, No. 1: 33 (1993) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Малюшевский, Основы разрядно-импульсной технологии (Киев: Наукова думка: 1983).",
+				"tr":  "P. P. Malyushevskiy, Osnovy Razryadno-Impul'snoy Tekhnologii (Kiev: Naukova Dumka: 1983)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. А. Гулый, Научные основы разрядно-импульсных технологий (Киев: Наукова думка: 1990).",
+				"tr":  "G. A. Gulyy, Nauchnye Osnovy Razryadno-Impul'snykh Tekhnologiy (Kiev: Naukova Dumka: 1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. А. Бовкун, Электроразрядные технологии в материаловедении. Неорганическое материаловедение. Материалы и технологии (Киев: Наукова думка: 2008), т. 2, кн.2, с. 762.",
+				"tr":  "G. A. Bovkun, Elektrozaryadnye Tekhnologii v Materialovedenii. Neorganicheskoe Materialovedenie. Materialy i Tekhnologii (Kiev: Naukova Dumka: 2008), vol. 2, book 2, p. 762 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Г. Сердюк, Т. М. Павлыго, Прессование и формирование порошков. Неорганическое материаловедение. Материалы и технологии (Киев: Наукова думка: 2008), т. 2, кн. 2, с. 124.",
+				"tr":  "G. G. Serdyuk and T. M. Pavlygo, Pressovanie i Formirovanie Poroshkov. Neorganicheskoe Materialovedenie. Materialy i Tekhnologii (Kiev: Naukova Dumka: 2008), vol. 2, book 2, p. 124 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Кривцун, Гибридные лазер-плазменные процессы обработки материалов и интегрированные плазмотроны для их реализации. Актуальные проблемы современного материаловедения (Киев: Академпериодика: 2008), т. 1, с. 248.",
+				"tr":  "I. V. Krivtsun, Gibridnye Lazer-Plazmennye Protsessy Obrabotki Materialov i Integrirovanye Plazmotrony dlya Ih Realizatsii. Aktual'nye Problemy Sovremennogo Materialovedeniya (Kiev: Akademperiodika: 2008), vol. 1, p. 248 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Б. А. Трубников, Плазма. Физический энциклопедический словарь (Москва: Советская энциклопедия: 1983), с. 536.",
+				"tr":  "B. A. Trubnikov, Plazma. Fizicheskiy Ehntsiklopedicheskiy Slovar' (Moscow: Sovetskaya Ehntsiklopediya: 1983), p. 536 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Tokika, Second Scientific Workshop ‘Advanced Technologies of Electromagnetic Field Assisted Consolidation of Materials’ (May 20–23, 2013, Moscow) (Moscow: 2013), p. 8.",
+				"tr":  "M. Tokika, Second Scientific Workshop Advanced Technologies of Electromagnetic Field Assisted Consolidation of Materials (May 20–23, 2013, Moscow) (Moscow: 2013), p. 8."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Чувилдеев, 2-й Научный семинар «Перспективные технологии консолидации материалов с применением электромагнитных полей (20–23 мая, 2013) (Москва: МИФИ: 2013), с. 20.",
+				"tr":  "V. N. Chuvildeev, 2-nd Nauchnyy Seminar 'Perspektivnye Tekhnologii Konsolidatsii Materialov s Primeneniem Elektromagnitnykh Poley (May 20–23, 2013) (Moscow: MIFI: 2013), p. 20 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "E. A. Olevsky, Second Scientific Workshop ‘Advanced Technologies of Electromagnetic Field Assisted Consolidation of Materials’ (May 20–23, 2013, Moscow) (Moscow: 2013), p. 17.",
+				"tr":  "E. A. Olevsky, Second Scientific Workshop Advanced Technologies of Electromagnetic Field Assisted Consolidation of Materials (May 20–23, 2013, Moscow) (Moscow: 2013), p. 17."
+			},
+			{
+				"doi": "",
+				"or":  "Физический энциклопедический словарь (Москва: ГНИ «Советская энциклопедия»: 1963), т. 3, с. 279.",
+				"tr":  "Fizicheskiy Ehntsiklopedicheskiy Slovar' (Moscow: GNI 'Sovetskaya Ehntsiklopediya': 1963), vol. 3, p. 279 (in Russian)."
+			}
+		]
+	}
+}

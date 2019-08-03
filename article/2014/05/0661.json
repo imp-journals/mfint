@@ -1,0 +1,232 @@
+{
+	"_id":    "MFiNT.36.05.0661",
+	"year":   2014,
+	"volume": 36,
+	"issue":  5,
+	"pages":  [661,688],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["11.02.2014"],
+	"PACS":   "61.72.Ff, 61.72.Mm, 61.72.Qq, 62.20.M-, 64.75.Op, 81.20.Vj, 81.40.Np",
+	"title":   {
+		"ua": "Про фізичну природу виникнення дефектів типу «матові плями» при контактному зварюванні маґістральних трубопроводів з ферито-перлітних сталей",
+		"en": "On the Physical Nature of Formation of the ‘Dead Spots’ Type Defects in the Case of Contact Welding of Main Pipelines from Hypopearlitic Steels",
+		"ru": "О физической природе возникновения дефектов типа «матовые пятна» при контактной сварке магистральных трубопроводов из феррито-перлитных сталей"
+	},
+	"abstract": {
+		"ua": "Виникнення дефектів типу «матові плями» при контактному зварюванні конструкційних сталей ферито-перлітового класу при будівництві маґістральних трубопроводів пояснюється особливостями зміни морфології вихідного металу за умов перетворень, далеких від рівноважних, ускладнених стискальними навантаженнями під час нагріву та розтяжними при охолодженні в областях зони термічного впливу за високих температурних ґрадієнтів з урахуванням зерномежових сеґреґацій та виду неметалевих вкраплень. Розглянуто загальні ознаки та оптимальні характеристики фазових і структурних перетворень при контактному зварюванні без оплавлення та контактному зварюванні з оплавленням крайок.",
+		"en": "Formation of the defects such as ‘dead spots’ in the case of contact welding of main pipelines based on hypopearlitic steels is explained by the features of changes in morphology of virgin metal under nonequilibrium transformations compounded with compressive loads during heating and tensile loads during cooling in the areas of heat-effected zones at high-temperature gradients with regards for effect of grain-boundary segregations and kind of non-metallic inclusions. General criteria and optimal characteristics of the phase and structural transformations at contact welding without washing edges and contact welding with washing edges are considered.",
+		"ru": "Возникновение дефектов типа «матовые пятна» при контактной сварке конструкционных сталей феррито-перлитного класса при строительстве магистральных трубопроводов объясняется особенностями изменения морфологии исходного металла в условиях превращений, далёких от равновесных, осложнённых сжимающими нагрузками во время нагрева и растягивающими при охлаждении в областях зоны термического влияния при высоких температурных градиентах с учётом влияния зернограничных сегрегаций и вида неметаллических включений. Рассмотрены общие признаки и оптимальные характеристики фазовых и структурных превращений при контактной сварке без оплавления и контактной сварке с оплавлением кромок."
+	},
+	"keywords": {
+		"ua": "ферито-перлітні сталі, контактне зварювання, зерномежова сеґреґація",
+		"en": "hypopearlitic steels, contact welding, grain-boundary segregation",
+		"ru": "феррито-перлитные стали, контактная сварка, зернограничная сегрегация"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. І. Губенко", "en": "S. I. Gubenko", "ru": "С. И. Губенко"},
+			"OID": [223]
+		},
+		{
+			"AID": {"ua": "С. І. Журавльов", "en": "S. I. Zhuravlyov", "ru": "С. И. Журавлёв"},
+			"OID": [465]
+		},
+		{
+			"AID": {"ua": "Н. А. Коновалов", "en": "N. A. Konovalov", "ru": "Н. А. Коновалов"},
+			"OID": [465]
+		},
+		{
+			"AID": {"ua": "Д. А. Лобус", "en": "D. A. Lobus", "ru": "Д. А. Лобус"},
+			"OID": [465]
+		},
+		{
+			"AID": {"ua": "С. П. Ошкадьоров", "en": "S. P. Oshkadyorov", "ru": "С. П. Ошкадёров"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. І. Полосков", "en": "S. I. Poloskov", "ru": "С. И. Полосков"},
+			"OID": [466]
+		},
+		{
+			"AID": {"ua": "А. Н. Теренін", "en": "A. N. Terenin", "ru": "А. Н. Теренин"},
+			"OID": [223]
+		}
+	],
+	"references": {
+		"count": 34,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "С. И. Кучук-Яценко, Контактная стыковая сварка оплавлением (Киев: Наукова думка: 1992).",
+				"tr":  "S. I. Kuchuk-Yatsenko, Kontaktnaya Stykovaya Svarka Oplavleniem (Kiev: Naukova Dumka: 1992) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Журавлев, Известия высших учебных заведений, № 8: 64 (2013).",
+				"tr":  "S. I. Zhuravlev, Izvestiya Vysshykh Uchebnykh Zavedeniy, No. 8: 64 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. В. Чучкалов, Р. М. Аскаров, Р. Ф. Хафизов, Р. Г. Шарафиев, Проблемы сбора, подготовки и транспорта нефти и нефтепродуктов, № 2: 86 (2008).",
+				"tr":  "M. V. Chuchkalov, R. M. Askarov, R. F. Khafizov, and R. G. Sharafiev, Problemy Sbora, Podgotovki i Transporta Nefti i Nefteproduktov, No. 2: 86 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Д. Седых, Л. Г. Белозеров, В. М. Гурьянов и др., Сварка и диагностика, № 5: 38 (2010).",
+				"tr":  "A. D. Sedykh, L. G. Belozerov, V. M. Gur'yanov et al., Svarka i Diagnostika, No. 5: 38 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Кучук-Яценко, В. К. Лебедев, Контактная сварка непрерывным оплавлением (Киев: Наукова думка: 1965).",
+				"tr":  "S. I. Kuchuk-Yatsenko and V. K. Lebedev, Kontaktnaya Svarka Nepreryvnym Oplavleniem (Kiev: Naukova Dumka: 1965) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Кучук-Яценко, Контактная стыковая сварка трубопроводов (Киев: Наукова думка: 1986).",
+				"tr":  "S. I. Kuchuk-Yatsenko, Kontaktnaya Stykovaya Svarka Truboprovodov (Kiev: Naukova Dumka: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Кучук-Яценко, С. П. Ошкадеров, Металлофиз. новейшие технол., 30, № 5: 655 (2010).",
+				"tr":  "S. I. Kuchuk-Yatsenko and S. P. Oshkaderov, Metallofiz. Noveishie Tekhnol., 30, No. 5: 655 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. П. Ошкадеров, Физика металлов и металловедение, 110, № 6: 583 (2010).",
+				"tr":  "S. P. Oshkaderov, Fizika Metallov i Metallovedenie, 110, No. 6: 583 (2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Кучук-Яценко, Б. И. Казымов, В. Ф. Загадарчук, Автоматическая сварка, № 11: 23 (1984).",
+				"tr":  "S. I. Kuchuk-Yatsenko, B. I. Kazymov, and V. F. Zagadarchuk, Avtomaticheskaya Svarka, No. 11: 23 (1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Курдюмов, Р. И. Энтин, Отпускная хрупкость конструкционных сталей (Москва: Металлургиздат: 1945).",
+				"tr":  "G. V. Kurdyumov and R. I. Ehntin, Otpusknaya Khrupkost' Konstruktsionnykh Staley (Moscow: Metallurgizdat: 1945) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Д. Садовский, МиТОМ, № 6: 24 (1957).",
+				"tr":  "V. D. Sadovskiy, MiTOM, No. 6: 24 (1957) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. И. Устинщиков, О. Н. Банных, Природа отпускной хрупкости сталей (Москва: Наука: 1984).",
+				"tr":  "Yu. I. Ustinshchikov and O. N. Bannykh, Priroda Otpusknoy Khrupkosti Staley (Moscow: Nauka: 1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. М. Утевский, Е. Э. Гликман, Г. С. Кларк, Обратимая отпускная хрупкость сталей и сплавов железа (Москва: Металлургиздат: 1987).",
+				"tr":  "L. M. Utevskiy, E. Eh. Glikman, and G. S. Klark, Obratimaya Otpusknaya Khrupkost' Staley i Splavov Zheleza (Moscow: Metallurgizdat: 1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Забильский, МиТОМ, № 1: 24 (1987).",
+				"tr":  "V. V. Zabil'skiy, MiTOM, No. 1: 24 (1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. М. Леринман, В. Д. Садовский, Сталь, № 5: 456 (1948).",
+				"tr":  "R. M. Lerinman and V. D. Sadovskiy, Stal', No. 5: 456 (1948) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Технология термической обработки профильного проката из низколегированных и легированных сталей (Минчермет СССР, ВПО «Союзспецсталь», УкрНИИспецсталь АН УССР 10.08.1981 г.).",
+				"tr":  "Tekhnologiya Termicheskoy Obrabotki Profil'nogo Prokata iz Nizkolegirovannykh i Legirovannykh Staley (Minchermet SSSR, VPO \"Soyuzspetsstal'\", UkrNIIspetsstal' AN USSR, 10.08. 1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Махненко, С. И. Кучук-Яценко, В. М. Шекера, С. А. Солодовников, Л. А. Егорова, Б. И. Казымов, Автоматическая сварка, № 4: 33 (1974).",
+				"tr":  "V. I. Makhnenko, S. I. Kuchuk-Yatsenko, V. M. Shekera, S. A. Solodovnikov, L. A. Egorova, and B. I. Kazymov, Avtomaticheskaya Svarka, No. 4: 33 (1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Журавлев, В. А. Ерофеев, С. И. Полосков, Сварка и диагностика, № 4: 24 (2013).",
+				"tr":  "S. I. Zhuravlev, V. A. Erofeev, and S. I. Poloskov, Svarka i Diagnostika, No. 4: 24 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Труфяков, В. Г. Мазур, Г. В. Жемчужников, Б. И. Казымов, Автоматическая сварка, № 2: 7 (1987).",
+				"tr":  "V. I. Trufyakov, V. G. Mazur, G. V. Zhemchuzhnikov, and B. I. Kazymov, Avtomaticheskaya Svarka, No. 2: 7 (1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Кучук-Яценко, Г. В. Жемчужников, Б. И. Казымов, Автоматическая сварка, № 2: 1 (1980).",
+				"tr":  "S. I. Kuchuk-Yatsenko, G. V. Zhemchuzhnikov, and B. I. Kazymov, Avtomaticheskaya Svarka, No. 2: 1 (1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Кучук-Яценко, Б. И. Казымов, В. Ф. Загадарчук, В. Ф. Грабин, А. В. Денисенко, Автоматическая сварка, № 11: 23 (1984).",
+				"tr":  "S. I. Kuchuk-Yatsenko, B. I. Kazymov, V. F. Zagadarchuk, V. F. Garbin, and A. V. Denisenko, Avtomaticheskaya Svarka, No. 11: 23 (1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Гриднев, Ю. Я. Мешков, С. П. Ошкадеров, В. И. Трефилов, Физические основы электротермического упрочнения стали (Киев: Наукова думка: 1973).",
+				"tr":  "V. N. Gridnev, Yu. Ya. Meshkov, S. P. Oshkaderov, and V. I. Trefilov, Fizicheskie Osnovy Elektrotermicheskogo Uprochneniya Stali (Kiev: Naukova Dumka: 1973) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Рыш, Ф. Габровец, И. Шкарек, В. Н. Гриднев, Ю. А. Гарасим, С. П. Ошкадеров, Металлофизика, 4, № 4: 84 (1982).",
+				"tr":  "P. Rysh, F. Gabrovets, I. Shkarek, V. N. Gridnev, Yu. A. Garasim, and S. P. Oshkaderov, Metallofizika, 4, No. 4: 84 (1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. Рыш, И. Шкарек, В. Н. Гриднев, В. Д. Безбах, Ю. А. Гарасим, С. П. Ошкадеров, Металлофизика, 7, № 2: 34 (1985).",
+				"tr":  "P. Rysh, I. Shkarek, V. N. Gridnev, V. D. Bezbakh, Yu. A. Garasim, and S. P. Oshkaderov, Metallofizika, 7, No. 2: 34 (1985) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.12.02.269",
+				"or":  "С. П. Ошкадеров, Успехи физики металлов, 12: 269 (2011).",
+				"tr":  "S. P. Oshkaderov, Uspehi Fiziki Metallov, 12: 269 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Гриднев, Я. Н. Вовк, С. П. Ошкадеров, Р. В. Телевич, Физика металлов и металловедение, 49, вып. 3: 668 (1980).",
+				"tr":  "V. N. Gridnev, Ya. N. Vovk, S. P. Oshkaderov, and R. V. Televich, Fizika Metallov i Metallovedenie, 49, Iss. 3: 668 (1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. П. Ошкадеров, С. В. Приходько, Р. В. Телевич, Е. И. Якушечкин, Металлофизика, 13, № 2: 37 (1991).",
+				"tr":  "S. P. Oshkaderov, S. V. Prikhod'ko, R. V. Televich, and E. I. Yakushechkin, Metallofizika, 13, No. 2: 37 (1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Г. Сорокин, М. А. Гервасьев и др., Стали и сплавы, марочник: Справочное издание (Москва: Интернет инжиниринг: 2001).",
+				"tr":  "V. G. Sorokin, M. A. Gervas'ev et al., Stali i Splavy, Marochnik. Spravochnoe Izdanie (Moscow: Internet Inzhiniring: 2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Э. Гудремон, Специальные стали (Москва: Металургиздат: 1959).",
+				"tr":  "Eh. Gudermon, Spetsial'nye Stali (Moscow: Metallurgizdat: 1959) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Губенко, Трансформация неметаллических включений в стали (Москва: Металлургия: 1991).",
+				"tr":  "S. I. Gubenko, Transformatsiya Nemetallicheskikh Vklyucheniy v Stali (Moscow: Metallurgiya: 1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Г. Григоренко, Структурная неоднородность соединений малоуглеродистых низколегированных трубных сталей, выполненных сваркой с нагревом (Автореферат диссертации канд. техн. н.) (Киев: ФТИМС НАН Украины: 2002).",
+				"tr":  "G. G. Grigorenko, Strukturnaya Neodnorodnost' Soedineniy Malouglerodistykh Nizkolegirovannykh Trubnykh Staley, Vypolnennykh Svarkoy s Nagrevom (Avtoreferat Disser. kand. tekhn. nauk) (Kiev: FTIMS NAN Ukrainy: 2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. Кисслинг, Н. Ланче, Неметаллические включения в стали (Москва: Металлургия: 1968).",
+				"tr":  "R. Kissling and N. Lanche, Nemetallicheskie Vklyucheniya v Stali (Moscow: Metallurgiya: 1968) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. С. Штейберг, МТФ, 5, вып. 2: 36 (1935).",
+				"tr":  "S. S. Shteyberg, MTF, 5, Iss. 2: 36 (1935) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Курдюмов, Е. Г. Нестеренко, Физика металлов и металловедение, 11, вып. 4: 833 (1961).",
+				"tr":  "G. V. Kurdyumov and E. G. Nesterenko, Fizika Metallov i Metallovedenie, 11, Iss. 4: 833 (1961) (in Russian)."
+			}
+		]
+	}
+}

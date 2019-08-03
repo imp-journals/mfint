@@ -1,0 +1,61 @@
+{
+	"_id":    "MFiNT.36.11.1533",
+	"year":   2014,
+	"volume": 36,
+	"issue":  11,
+	"pages":  [1533,1546],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["08.04.2014","19.08.2014"],
+	"PACS":   "47.55.Kf, 47.70.Pq, 47.80.Jk, 47.85.mb, 81.15.Gh, 81.15.Rs, 82.33.Vx",
+	"title":   {
+		"ua": "Моделювання розподілу частинок у двофазному потоці детонаційно-плазмової устави",
+		"en": "Modelling of Distribution of Particles in a Two-Phase Flow of Detonation—Plasma Device",
+		"ru": "Моделирование распределения частиц в двухфазном потоке детонационно-плазменной установки"
+	},
+	"abstract": {
+		"ua": "У статті розглянуто моделювання розподілу частинок у двофазному потоці з подальшою аналізою поведінки частинок у стовбурі детонаційно-плазмової устави та за зрізом стовбура аж до підложжя. Одержані результати уможливлюють в подальшому вдосконалювати обладнання і розробляти технологічні процеси нанесення захисних покриттів на навантажені деталі авіяційних двигунів з оптимальними параметрами глибини завантаження та фракції порошку.",
+		"en": "This paper presents modelling of particle behaviour in two-phase flow. The analysis of particle behaviour inside the barrel of detonation-gun—plasma unit and outside its cut up to the substrate is performed. The obtained results could be used for further improvement of the experimental equipment and development of protective-coatings’ deposition technologies for loaded aircraft-engines’ parts, providing optimal parameters of powder injection point and fraction of the powder.",
+		"ru": "В статье рассмотрено моделирование распределения частиц в двухфазном потоке с последующим анализом поведения частиц в стволе детонационно-плазменной установки и за срезом ствола вплоть до подложки. Полученные результаты позволяют в дальнейшем совершенствовать оборудование и разрабатывать технологические процессы нанесения защитных покрытий на нагруженные детали авиационных двигателей с оптимальными параметрами глубины загрузки и фракции порошка."
+	},
+	"keywords": {
+		"ua": "двофазний потік, детонація, плазма, моделювання, глибина завантаження, розподіл",
+		"en": "two-phase flow, detonation, plasma, modeling, powder injection point, distribution",
+		"ru": "двухфазное течение, детонация, плазма, моделирование, глубина загрузки, распределение"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "А. І. Долматов", "en": "A. I. Dolmatov", "ru": "А. И. Долматов"},
+			"OID": [207]
+		},
+		{
+			"AID": {"ua": "К. А. Данько", "en": "K. A. Dan’ko", "ru": "К. А. Данько"},
+			"OID": [207]
+		},
+		{
+			"AID": {"ua": "Ю. О. Невешкін", "en": "Yu. A. Neveshkin", "ru": "Ю. А. Невешкин"},
+			"OID": [207]
+		}
+	],
+	"references": {
+		"count": 3,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "А. И. Долматов, С. В. Сергеев, Теоретические основы создания защитных нанокомпозитных покрытий на высоконагруженных элементах конструкций авиационных двигателей (Отчёт НИР: Г204-8/2012) (Харьков: Национальный аэрокосмический университет им. Н. Е. Жуковского «ХАИ»: 2013), с. 135.",
+				"tr":  "A. I. Dolmatov and S. V. Sergeev, Teoreticheskie Osnovy Sozdaniya Zashchitnykh Nanokompozitnykh Pokrytiy na Vysokonagruzhennykh Elementakh Konstrukciy Aviatsionnykh Dvigateley (Report SRW: G204-8/2012) (National Aerospace University 'KhAI') (Kharkiv: 2013), p. 135 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G .Karypis and V. Kumar, METIS—A Software Package for Partitioning Unstructured Graphs, Partitioning Meshes, and Computing Fill-Reducing Orderings of Sparse Matrices. Version 3.0. Manual (University of Minnesota and Army HPC Research Center: 1997).",
+				"tr":  "G. Karypis and V. Kumar, METIS—A Software Package for Partitioning Unstructured Graphs, Partitioning Meshes, and Computing Fill-Reducing Orderings of Sparse Matrices. Version 3.0. Manual (University of Minnesota and Army HPC Research Center: 1997)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Сергеев, К. А. Данько, Авиационно-космическая техника и технология, № 7: 33 (2011).",
+				"tr":  "S. V. Sergeev and K. A. Dan'ko, Aviatsionno-Kosmicheskaya Tekhnika i Tekhnologiya, No. 7: 33 (2011) (in Russian)."
+			}
+		]
+	}
+}

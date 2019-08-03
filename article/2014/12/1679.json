@@ -1,0 +1,168 @@
+{
+	"_id":    "MFiNT.36.12.1679",
+	"year":   2014,
+	"volume": 36,
+	"issue":  12,
+	"pages":  [1679,1694],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["15.05.2014"],
+	"PACS":   "61.05.cp, 72.15.Gd, 75.47.Np, 75.50.Tt, 75.60.Ej, 81.07.Wx, 81.40.Rs",
+	"title":   {
+		"ua": "Вплив електроіскрового дисперґування на магнетні та електротранспортні властивості Гойслерового стопу Cu—Mn—Al",
+		"en": "Effect of Electric-Spark Dispergation on Magnetic and Electrical-Transport Properties of Heusler Cu—Mn—Al Alloy",
+		"ru": "Влияние электроискрового диспергирования на магнитные и электротранспортные свойства сплава Гейслера Cu—Mn—Al"
+	},
+	"abstract": {
+		"ua": "Досліджено високодисперсні порошки (ВДП) Гойслерового стопу Cu—13,1 Mn—12,6 Al (% мас.) після електроіскрового дисперґування в різних рідинах (воді, гасі й етанолі) та компактовані зразки. Виявлено більш дрібну структуру і зміни фазового складу ВДП та їх вплив на магнетні й транспортні властивості. Рентґеновою методою виявлено впорядковану фазу Cu$_{2}$MnAl у вихідних і спресованих порошках у кількості, меншій, ніж у литому стопі, що в декілька разів знизило їх питому намагнетованість насичення. Магнетні міряння показали, що частинки впорядкованої фази знаходяться в суперпарамагнетному стані. Виявлено зміну типу електричної провідности спресованих порошків стопу з металічного на напівпровідниковий, що зумовлено окисненням металевих частинок при компактуванні порошків і наступному їх спіканні.",
+		"en": "The ultrafine powders (UFP) of the Heusler Cu—13.1 Mn—12.6 Al (% wt.) alloy after electrospark dispergation in various liquids (distilled water, kerosene, and ethanol) and compacted samples are studied. The finer structure as well as the changes of the UFP phase composition and their influence on magnetic and transport properties are revealed. The XRD measurements show that amount of the ordered Cu$_{2}$MnAl phase in the initial and compacted powders is lower than that in the cast material. Because of this fact, the saturation magnetization is decreased by several times. The magnetic measurements show that the particles of the ordered phase are in the superparamagnetic state. The change of the type of electrical conduction of the compacted powders from metallic to semiconducting one is caused by the oxidation of the metal particles during compacting and subsequent sintering.",
+		"ru": "Исследованы высокодисперсные порошки (ВДП) сплава Гейслера Cu—13,1 Mn—12,6 Al (% мас.) после электроискрового диспергирования в разных жидкостях (воде, керосине и этаноле) и компактированные образцы. Обнаружены более мелкая структура и изменения фазового состава ВДП по сравнению с литым сплавом и их влияние на магнитные и транспортные свойства. Рентгеновским методом выявлена упорядоченная фаза Cu$_{2}$MnAl в исходных и спрессованных порошках в количествах, меньших, чем в литом сплаве, что в несколько раз снизило их удельную намагниченность насыщения. Магнитные измерения показали, что частицы упорядоченной фазы находятся в суперпарамагнитном состоянии. Обнаружена смена типа электрической проводимости спрессованных порошков сплава с металлического на полупроводниковый, что обусловлено окислением металлических частиц при компактировании порошков и последующем их спекании."
+	},
+	"keywords": {
+		"ua": "structure, electrical resistivity, magnetization, ultrafine powders, Heusler alloy, electric-spark dispergation",
+		"en": "структура, електроопір, намагнетованість, високодисперсні порошки, Гойслеровий стоп, електроіскрове дисперґування",
+		"ru": "структура, электросопротивление, намагниченность, высокодисперсные порошки, сплав Гейслера, электроискровое диспергирование"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. М. Надутов", "en": "V. M. Nadutov", "ru": "В. М. Надутов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. О. Перекос", "en": "A. O. Perekos", "ru": "А. Е. Перекос"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. В. Кокорін", "en": "V. V. Kokorin", "ru": "В. В. Кокорин"},
+			"OID": [7]
+		},
+		{
+			"AID": {"ua": "С. М. Коноплюк", "en": "S. M. Konoplyuk", "ru": "С. М. Коноплюк"},
+			"OID": [7]
+		},
+		{
+			"AID": {"ua": "Т. В. Єфімова", "en": "T. V. Yefimova", "ru": "Т. В. Ефимова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. П. Залуцький", "en": "V. P. Zalutskiy", "ru": "В. П. Залуцкий"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 22,
+		"list":  [
+			{
+				"doi": "10.3367/UFNr.0178.200812f.1336",
+				"or":  "А. Ферт, Успехи физических наук, 178, № 12: 1336 (2008).",
+				"tr":  "A. Fert, Uspekhi Fizicheskikh Nauk, 178, No. 12: 1336 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Двойные и многокомпонентные системы на основе меди (Ред. С. В. Шухарин) (Москва: Наука: 1979).",
+				"tr":  "Dvoynye i Mnogokomponentnye Sistemy na Osnove Medi (Ed. S. V. Shukharin) (Moscow: Nauka: 1979) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "S. M. Konoplyuk, V. V. Kokorin, A. O. Perekos, V. M. Nadutov, and L. E. Kozlova, Металлофиз. новейшие технол., 32, № 5: 571 (2010).",
+				"tr":  "S. M. Konoplyuk, V. V. Kokorin, A. O. Perekos, V. M. Nadutov, and L. E. Kozlova, Metallofiz. Noveishie Tekhnol., 32, No. 5: 571 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Немошкаленко, А. В. Романова, А. Г. Ильинский и др., Аморфные металлические сплавы (Киев: Наукова думка: 1987).",
+				"tr":  "V. V. Nemoshkalenko, A. V. Romanova, A. G. Il'inskiy et al., Amorfnye Metallicheskie Splavy (Kiev: Naukova Dumka: 1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. В. Чуистов, А. П. Шпак, А. Е. Перекос, А. Д. Рудь, В. Н. Уваров, Успехи физики металлов, 4, № 4: 235 (2003).",
+				"tr":  "K. V. Chuistov, A. P. Shpak, A. E. Perekos, A. D. Rud', and V. N. Uvarov, Uspekhi Fiziki Metallov, 4, No. 4: 235 (2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Smith et al., International Center for Diffraction Data Crant-in-Aid (University Park, Pennsylvania, USA: Penn. State University: 1973).",
+				"tr":  "D. Smith et al., International Center for Diffraction Data Crant-in-Aid (University Park, Pennsylvania, USA: Penn. State University: 1973)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Shinohara and T. Sato, Science Reports of the Research Institutes, Tohoku University. Ser. A. Physics, Chemistry and Metallurg., 36, No. 2: 316 (1992).",
+				"tr":  "T. Shinohara and T. Sato, Science Reports of the Research Institutes, Tohoku University. Ser. A. Physics, Chemistry and Metallurg., 36, No. 2: 316 (1992)."
+			},
+			{
+				"doi": "10.1016/0001-6160(75)90159-5",
+				"or":  "M. Bouchard and G. Thomas, Acta Metall., 23, No. 12: 1485 (1975).",
+				"tr":  "M. Bouchard and G. Thomas, Acta Metall., 23, No. 12: 1485 (1975)."
+			},
+			{
+				"doi": "10.1016/0304-8853(83)90097-5",
+				"or":  "K. H. J. Buschow, P. G. van Engen, and R. Jongebreur, J. Magn. Magn. Mater., 38, No. 1: 101 (1983).",
+				"tr":  "K. H. J. Buschow, P. G. van Engen, and R. Jongebreur, J. Magn. Magn. Mater., 38, No. 1: 101 (1983)."
+			},
+			{
+				"doi": "",
+				"or":  "К. В. Чуистов, А. Е. Перекос, Металлофиз. новейшие технол., 19, № 1: 36 (1997).",
+				"tr":  "K. V. Chuistov and A. E. Perekos, Metallofiz. Noveishie Tekhnol., 19, No. 1: 36 (1997) (in Russian)."
+			},
+			{
+				"doi": "10.1002/pssa.2210170217",
+				"or":  "J. H. Mooij, physica status solidi (a), 17, No. 2: 521 (1973).",
+				"tr":  "J. H. Mooij, physica status solidi (a), 17, No. 2: 521 (1973)."
+			},
+			{
+				"doi": "10.1016/0038-1098(82)90535-X",
+				"or":  "R. C. Taylor and C. C. Tsuei, Solid State Commun., 41, No. 6: 503 (1982).",
+				"tr":  "R. C. Taylor and C. C. Tsuei, Solid State Commun., 41, No. 6: 503 (1982)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.27.562",
+				"or":  "I. Krusin-Elbaum, A. P. Alozemoff, and R. C. Taylor, Phys. Rev. B, 27, No. 1: 562 (1983).",
+				"tr":  "I. Krusin-Elbaum, A. P. Alozemoff, and R. C. Taylor, Phys. Rev. B, 27, No. 1: 562 (1983)."
+			},
+			{
+				"doi": "10.1063/1.1921327",
+				"or":  "Y. V. Kudryavtsev, V. A. Oksenenko, N. N. Lee, Y. P. Lee, J. Y. Rhee, and J. Dubowik, J. Appl. Phys., 97, No. 11: 113903 (2005).",
+				"tr":  "Y. V. Kudryavtsev, V. A. Oksenenko, N. N. Lee, Y. P. Lee, J. Y. Rhee, and J. Dubowik, J. Appl. Phys., 97, No. 11: 113903 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Щерба, В. В. Кокорин, А. Е. Перекос, Л. А. Олиховская, О. Ф. Бойцов, С. Н. Захарченко, Металлофиз. новейшие технол., 29, № 2: 201 (2007).",
+				"tr":  "A. A. Shcherba, V. V. Kokorin, A. O. Perekos, L. O. Olikhovska, O. F. Boytsov, and S. M. Zakharchenko, Metallofiz. Noveishie Tekhnol., 29, No. 2: 201 (2007) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.4764017",
+				"or":  "A. E. Perekos, V. A. Chernenko, S. A. Bunaev, V. P. Zalutskiy, T. V. Ruzhitskaya, O. F. Boitsov, and G. N. Kakazei, J. Appl. Phys., 112, No. 9: 093909 (2012).",
+				"tr":  "A. E. Perekos, V. A. Chernenko, S. A. Bunaev, V. P. Zalutskiy, T. V. Ruzhitskaya, O. F. Boitsov, and G. N. Kakazei, J. Appl. Phys., 112, No. 9: 093909 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Кокорин, Мартенситные превращения в неоднородных твёрдых растворах (Киев: Наукова думка: 1987).",
+				"tr":  "V. V. Kokorin, Martensitnye Prevrashcheniya v Neodnorodnykh Tverdykh Rastvorakh (Kiev: Naukova Dumka: 1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "К. В. Чуистов, Старение металлических сплавов (Киев: Наукова думка: 1985).",
+				"tr":  "K. V. Chuistov, Starenie Metallicheskikh Splavov (Kiev: Naukova Dumka: 1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. И. Петров, Физика малых частиц (Москва: Наука: 1982).",
+				"tr":  "Yu. I. Petrov, Fizika Malykh Chastits (Moscow: Nauka: 1982) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Непийко, Физические свойства малых металлических частиц (Киев: Наукова думка: 1985).",
+				"tr":  "S. A. Nepiyko, Fizicheskie Svoystva Malykh Metallicheskikh Chastits (Kiev: Naukova Dumka: 1985) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Вонсовский, Магнетизм (Москва: Наука: 1971).",
+				"tr":  "S. V. Vonsovsky, Magnetism (Moscow: Nauka: 1971) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.68.3749",
+				"or":  "J. Q. Yiao, J. S. Jang, and C. L. Chien, Phys. Rev., 68: 3749 (1992).",
+				"tr":  "J. Q. Yiao, J. S. Jang, and C. L. Chien, Phys. Rev., 68: 3749 (1992)."
+			}
+		]
+	}
+}

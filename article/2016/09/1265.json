@@ -1,0 +1,179 @@
+{
+	"_id":    "MFiNT.38.09.1265",
+	"year":   2016,
+	"volume": 38,
+	"issue":  9,
+	"pages":  [1265,1278],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["06.06.2016"],
+	"PACS":   "62.20.Qp, 68.55.-a, 81.05.Mh, 81.05.Ni, 81.20.Vj, 81.40.Pq, 81.65.Lp, 81.70.Jb",
+	"title":   {
+		"ua": "Формування структури та властивості композиційних покриттів TiB$_{2}$—TiC—сталь, одержаних суміщенням електродугового натоплювання та СВС",
+		"en": "Formation of Structure and Properties of Composite Coatings TiB$_{2}$—TiC—Steel Obtained by Overlapping of Electric-Arc Surfacing and Self-Propagating High-Temperature Synthesis",
+		"ru": "Формирование структуры и свойства композиционных покрытий TiB$_{2}$—TiC—сталь, полученных совмещением электродуговой наплавки и СВС"
+	},
+	"abstract": {
+		"ua": "Досліджено особливості формування структури, фазовий склад і зносостійкість композиційних покриттів, одержаних суміщенням електродугового натоплювання та самопоширюваної високотемпературної синтези (СВС) з використанням порошкової електроди, що містить суміш Ti та B$_{4}$C. Покриття складаються зі сталевої матриці, евтектики Fe + TiC і рівномірно розташованих армувальних частинок TiB$_{2}$ та TiC, які істотно відрізняються за розмірами та формою. Висока твердість (84—85 HRA) та зносостійкість покриттів в умовах тертя ковзання по монолітному абразиву зумовлені підвищеним вмістом ($\\cong$ 50% об.) зміцнювальних фаз та особливостями їх морфології.",
+		"en": "The features of structure formation, phase constitution, and wear resistance of composite coatings obtained by combining of arc surfacing with self-propagating high-temperature synthesis (SHS) with using powder electrode containing a mixture of Ti and B$_{4}$C are investigated. The coatings consist of a steel matrix, eutectic Fe + TiC, and uniform distributed reinforcing particles of TiB$_{2}$ and TiC, which vary significantly in size and form. High hardness (of 84—85 HRA) and high wear resistance of coatings in sliding friction over monolithic abrasive are caused by high content (of $\\cong$ 50% vol.) of strengthening phases and features of its morphology.",
+		"ru": "Исследованы особенности формирования структуры, фазовый состав и износостойкость композиционных покрытий, полученных совмещением электродуговой наплавки и самораспространяющегося высокотемпературного синтеза (СВС) с использованием порошкового электрода, содержащего смесь Ti и B$_{4}$C. Покрытия состоят из стальной матрицы, эвтектики Fe + TiC и равномерно распределённых армирующих частиц TiB$_{2}$ и TiC, которые существенно различаются размерами и формой. Высокая твёрдость (84—85HRA) и износостойкость покрытий в условиях трения скольжения по монолитному абразиву обусловлены повышенным содержанием ($\\cong$ 50% об.) упрочняющих фаз и особенностями их морфологии."
+	},
+	"keywords": {
+		"ua": "самопоширювана високотемпературна синтеза, натоплювання, порошкова електрода, TiB$_{2}$—TiC-покриття, композити, абразивна зносостійкість",
+		"en": "self-propagating high-temperature synthesis, surfacing, powder electrode, TiB$_{2}$—TiC-coatings, composites, abrasive wear resistance",
+		"ru": "самораспространяющийся высокотемпературный синтез, наплавка, порошковый электрод, TiB$_{2}$—TiC-покрытия, композиты, абразивная износостойкость."
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Д. Л. Луцак", "en": "D. L. Lutsak", "ru": "Д. Л. Луцак"},
+			"OID": [245]
+		},
+		{
+			"AID": {"ua": "П. М. Присяжнюк", "en": "P. M. Prysyazhnyuk", "ru": "П. М. Присяжнюк"},
+			"OID": [245]
+		},
+		{
+			"AID": {"ua": "М. О. Карпаш", "en": "M. O. Karpash", "ru": "М. О. Карпаш"},
+			"OID": [245]
+		},
+		{
+			"AID": {"ua": "В. М. Пилипів", "en": "V. M. Pylypiv", "ru": "В. М. Пылыпив"},
+			"OID": [209]
+		},
+		{
+			"AID": {"ua": "В. О. Коцюбинський", "en": "V. O. Kotsyubynsky", "ru": "В. О. Коцюбинський"},
+			"OID": [245]
+		}
+	],
+	"references": {
+		"count": 25,
+		"list":  [
+			{
+				"doi": "10.1007/978-3-7091-0101-8",
+				"or":  "M. Roy, Surface Engineering for Enhanced Performance Against Wear (Wien: Springer: 2013).",
+				"tr":  "M. Roy, Surface Engineering for Enhanced Performance Against Wear (Wien: Springer: 2013)."
+			},
+			{
+				"doi": "10.1016/j.matdes.2014.02.032",
+				"or":  "N. Yüksel and S. Şahin, Materials and Design, 58: 491 (2014).",
+				"tr":  "N. Yüksel and S. Şahin, Materials and Design, 58: 491 (2014)."
+			},
+			{
+				"doi": "10.2320/matertrans.MB200716",
+				"or":  "C. W. Kuo, C. Fan, S. H. Wu, and W. Wu, Materials Transactions, 48, No. 9: 2324 (2007).",
+				"tr":  "C. W. Kuo, C. Fan, S. H. Wu, and W. Wu, Materials Transactions, 48, No. 9: 2324 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. В. Суховая, Сверхтвёрдые материалы, № 5: 29 (2013).",
+				"tr":  "E. V. Sukhovaya, Sverkhtverdye Materialy, No. 5: 29 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Chotěborský, P. Hrabě, M. Müller, J. Savková, M. Jirka, and M. Navrátilová, Research in Agricultural Engineering, 55, No. 3: 101 (2009).",
+				"tr":  "R. Chotěborský, P. Hrabě, M. Müller, J. Savková, M. Jirka, and M. Navrátilová, Research in Agricultural Engineering, 55, No. 3: 101 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Самсонов, И. М. Винницкий, Тугоплавкие соединения: Справочник (Москва: Металлургия: 1976).",
+				"tr":  "G. V. Samsonov and I. M. Vinnitskiy, Tugoplavkie Soedineniya: Spravochnik [High-Melting Compounds: Handbook] (Moscow: Metallurgiya: 1976) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.matchemphys.2014.06.026",
+				"or":  "F. Ye, M. Hojamberdiev, Y. Xu, L. Zhong, H. Yan, and Z. Chen, Materials Chemistry and Physics, 147, No. 3: 823 (2014).",
+				"tr":  "F. Ye, M. Hojamberdiev, Y. Xu, L. Zhong, H. Yan, and Z. Chen, Materials Chemistry and Physics, 147, No. 3: 823 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Л. Борисова, Совместимость тугоплавких соединений с металлами и графитом: Справочник (Киев: Наукова думка: 1985).",
+				"tr":  "A. L. Borisova, Sovmestimost' Tugoplavkikh Soedineniy s Metallami i Grafitom: Spravochnik [Compatibility of High-Melting Compounds with Metals and Graphite: Handbook] (Kiev: Naukova Dumka: 1985) (in Russian)."
+			},
+			{
+				"doi": "10.1007/s11106-013-9466-1",
+				"or":  "D. A. Goncharuk and G. A.Baglyuk, Powder Metallurgy and Metal Ceramics, 51, Nos. 9–10: 547 (2013).",
+				"tr":  "D. A. Goncharuk and G. A.Baglyuk, Powder Metallurgy and Metal Ceramics, 51, Nos. 9–10: 547 (2013)."
+			},
+			{
+				"doi": "10.1016/S1003-6326(08)60144-2",
+				"or":  "Z. T. Wang, X. H. Zhou, and G. G. Zhao, Transactions of Nonferrous Metals Society of China, 18, No. 4: 831 (2008).",
+				"tr":  "Z. T. Wang, X. H. Zhou, and G. G. Zhao, Transactions of Nonferrous Metals Society of China, 18, No. 4: 831 (2008)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2004.08.210",
+				"or":  "W. Xibao, W. Xiaofeng, and S. Zhongquan, Surf. Coat. Technol., 192, No. 2: 257 (2005).",
+				"tr":  "W. Xibao, W. Xiaofeng, and S. Zhongquan, Surf. Coat. Technol., 192, No. 2: 257 (2005)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/AMM.341-342.162",
+				"or":  "F. Zhou, H. Y. Yang, and L. H. He, Applied Mechanics and Materials, 341: 162 (2013).",
+				"tr":  "F. Zhou, H. Y. Yang, and L. H. He, Applied Mechanics and Materials, 341: 162 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "D. L. Lutsak, P. M. Prysyazhnyuk, and M. O. Karpash, Metallurgical and Mining Industry, No. 2: 126 (2016).",
+				"tr":  "D. L. Lutsak, P. M. Prysyazhnyuk, and M. O. Karpash, Metallurgical and Mining Industry, No. 2: 126 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Л. Борисова, Ю. С. Борисов, Л. К. Шведова, Ю. А. Кочержинский, В. И. Нечипоренко, Порошковая металлургия, № 9: 47 (1980).",
+				"tr":  "A. L. Borisova, Yu. S. Borisov, L. K. Shvedova, Yu. A. Kocherzhinskiy, and V. I. Nechiporenko, Poroshkovaya Metallurgiya, No. 9: 47 (1980) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2005.01.028",
+				"or":  "S. J. Lee and Y. K. Lee, Scr. Mater., 52, No. 10: 973 (2005).",
+				"tr":  "S. J. Lee and Y. K. Lee, Scr. Mater., 52, No. 10: 973 (2005)."
+			},
+			{
+				"doi": "10.6028/jres.105.057",
+				"or":  "R. G. Munro, J. Research of the National Institute of Standards and Technology, 105, No. 5: 709 (2000).",
+				"tr":  "R. G. Munro, J. Research of the National Institute of Standards and Technology, 105, No. 5: 709 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Самсонов, Г. Ш. Упадхая, В. С. Нешпор, Физическое материаловедение карбидов (Киев: Наукова думка: 1974).",
+				"tr":  "G. V. Samsonov, G. Sh. Upadkhaya, and V. S. Neshpor, Fizicheskoe Materialovedenie Karbidov [Physical Materials Science of Carbides] (Kiev: Naukova Dumka: 1974) (in Russian)."
+			},
+			{
+				"doi": "10.1111/j.1551-2916.2008.02749.x",
+				"or":  "Y. F. Yang, H. Y. Wang, J. G. Wang, and Q. C. Jiang, J. American Ceramic Society, 91, No. 11: 3813 (2008).",
+				"tr":  "Y. F. Yang, H. Y. Wang, J. G. Wang, and Q. C. Jiang, J. American Ceramic Society, 91, No. 11: 3813 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Chaudhary, S. Khaple, V. S. Prasad, A. S. Rao, and R. G. Baligidad, J. American Ceramic Society, 68, No. 5: 809 (2015).",
+				"tr":  "S. Chaudhary, S. Khaple, V. S. Prasad, A. S. Rao, and R. G. Baligidad, J. American Ceramic Society, 68, No. 5: 809 (2015)."
+			},
+			{
+				"doi": "10.3103/S1063457611010059",
+				"or":  "V. V. Ivzhenko, O. N. Kaidash, G. F. Sarnavskaya, S. N. Dub, V. A. Popov, L. M. Bologova, and S. A. Lisovenko, J. Superhard Materials, 33, No. 1: 34 (2011).",
+				"tr":  "V. V. Ivzhenko, O. N. Kaidash, G. F. Sarnavskaya, S. N. Dub, V. A. Popov, L. M. Bologova, and S. A. Lisovenko, J. Superhard Materials, 33, No. 1: 34 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "С. А. Салтыков, Стереометрическая металлография (Москва: Металлургия: 1976).",
+				"tr":  "S. A. Saltykov, Stereometricheskaya Metallografiya [Stereometric Metallography] (Moscow: Metallurgiya: 1976) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.jcrysgro.2007.02.018",
+				"or":  "B. Cochepin, V. Gauthier, D. Vrel, and S. Dubois, J. Crystal Growth, 304, No. 2: 481 (2007).",
+				"tr":  "B. Cochepin, V. Gauthier, D. Vrel, and S. Dubois, J. Crystal Growth, 304, No. 2: 481 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Ф. Лисовский, Формирование структуры композиционных материалов при обработке металлическими расплавами (Киев: Наукова думка: 2008).",
+				"tr":  "A. F. Lisovskiy, Formirovanie Struktury Kompozitsionnykh Materialov pri Obrabotke Metallicheskimi Rasplavami [Structure Formation of Composite Materials under Processing of Metal Melts] (Kyiv: Naukova Dumka: 2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Белый, Автоматическая сварка, № 12: 20 (2010).",
+				"tr":  "A. I. Belyy, Avtomaticheskaya Svarka, No. 12: 20 (2010) (in Russian)."
+			},
+			{
+				"doi": "10.3103/S1063457613050043",
+				"or":  "Y. A. Kryl and P. M. Prysyazhnyuk, J. Superhard Materials, 35, No. 5: 292 (2013).",
+				"tr":  "Y. A. Kryl and P. M. Prysyazhnyuk, J. Superhard Materials, 35, No. 5: 292 (2013)."
+			}
+		]
+	}
+}

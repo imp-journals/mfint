@@ -1,0 +1,108 @@
+{
+	"_id":    "MFiNT.38.07.0889",
+	"year":   2016,
+	"volume": 38,
+	"issue":  7,
+	"pages":  [889,902],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["25.05.2016","08.06.2016"],
+	"PACS":   "75.50.Bb, 75.50.Kj, 81.65.Kn, 81.65.Mq, 82.45.Bb, 82.45.Fk, 82.80.Fk",
+	"title":   {
+		"ua": "Дія змінного магнетного поля на формування поверхневих захисних шарів Fe—Si—B-електродів у аґресивних водних розчинах",
+		"en": "Effect of Alternating Magnetic Field on Formation of Surface Protective Layers on Fe—Si—B-Electrodes in Aggressive Aqueous Solutions",
+		"ru": "Действие переменного магнитного поля на формирование поверхностных защитных слоёв Fe—Si—B-электродов в агрессивных водных растворах"
+	},
+	"abstract": {
+		"ua": "Експериментально визначено залежність тривкости захисних шарів поверхні Fe—Si—B-електродів від 0,5—3,0-годинної попередньої експозиції у змінному магнетному полі частотою у 50 Гц і напруженістю у 470 мТл. Оцінка стійкости поверхні електродів проводилася хронопотенціометрично і вольт-амперометрично у 0,5 М-водних розчинах NaCl, HCl i NaOH. Виявлено, що у всіх трьох аґресивних розчинах електрохемічна стійкість поверхні змінюється нелінійно залежно від тривалости попередньої дії змінного магнетного поля.",
+		"en": "The dependence of the Fe—Si—B-electrodes’ protective surface layer resistance on the 0.5—3.0 hour pre-exposition in an alternating magnetic field with frequency of 50 Hz and intensity of 470 mT is experimentally determined. Estimation of the electrode surface stability in 0.5 M aqueous solutions of NaCl, HCl, and NaOH is carried out by means of the chronopotentiometry and voltammetry methods. As found, the electrochemical surface resistance in all aggressive solutions varies nonlinearly depending on the duration of pre-exposition in an alternating magnetic field. Practically, contact surface of the electrode is activated after one hour holding in an alternating magnetic field, and external surface–after two hours. Results of the electrochemical investigations show a decreasing of the surfaces activity after 3 hours exposition in an alternating magnetic field because of compaction of surface oxide—hydroxide layers.",
+		"ru": "Экспериментально установлена зависимость стойкости защитных слоёв поверхности Fe—Si—B-электродов от 0,5—3,0-часовой предварительной экспозиции в переменном магнитном поле частотой 50 Гц и напряжённостью 470мТл. Оценка стойкости поверхности электродов проводилась хронопотенциометрически и вольт-амперометрически в 0,5 М-водных растворах NaCl, HCl и NaOH. Установлено, что во всех трёх агрессивных растворах электрохимическая стойкость поверхности изменяется нелинейно в зависимости от продолжительности предварительного действия переменного магнитного поля."
+	},
+	"keywords": {
+		"ua": "аморфні стопи, змінне магнетне поле, аґресивне середовище, хронопотеціометрія, вольт-амперометрія, оксидно-гідроксидні шари",
+		"en": "amorphous alloys, alternating magnetic field, aggressive environment, chronopotentiometry, voltammetry, oxide—hydroxide layers",
+		"ru": "аморфные сплавы, переменное магнитное поле, агрессивная середа, хронопотенциометрия, вольт-амперометрия, оксидно-гидроксидные слои"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. М. Герцик", "en": "O. M. Hertsyk", "ru": "О. М. Герцик"},
+			"OID": [204]
+		},
+		{
+			"AID": {"ua": "Т. Г. Переверзєва", "en": "T. G. Pereverzeva", "ru": "Т. Г. Переверзева"},
+			"OID": [204]
+		},
+		{
+			"AID": {"ua": "М. О. Ковбуз", "en": "M. O. Kovbuz", "ru": "М. А. Ковбуз"},
+			"OID": [204]
+		},
+		{
+			"AID": {"ua": "Л. М. Бойчишин", "en": "L. M. Boichyshyn", "ru": "Л. М. Бойчишин"},
+			"OID": [204]
+		},
+		{
+			"AID": {"ua": "В. К. Носенко", "en": "V. K. Nosenko", "ru": "В. К. Носенко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. Ю. Руденко", "en": "O. Yu. Rudenko", "ru": "А. Ю. Руденко"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 10,
+		"list":  [
+			{
+				"doi": "10.1139/p66-010",
+				"or":  "W. V. Youdelis and R. C. Dorward, Can. J. Phys., 44: 139 (1966).",
+				"tr":  "W. V. Youdelis and R. C. Dorward, Can. J. Phys., 44: 139 (1966)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Г. Галстян, Структурно-композиційні ефекти, індуковані зовнішніми діями в поверхневих шарах магнітом’яких аморфних сплавів (Автореф. дис.  канд. фіз.-мат. наук) (Київ: Інститут металофізики ім. Г. В. Курдюмова НАН України: 2010).",
+				"tr":  "G. G. Galstian, Strukturno-Kompozytsiyni Efekty, Indukovani Zovnishnimy Diyamy v Poverkhnevykh Sharakh Magnitom'yakykh Amorfnykh Splaviv [Stuctural-Composite Effects Induced by External Actions in Surface Layers of Soft Magnetic Amorphous Alloys] (Thesis of Disser. … for the Degree of Cand. Phys.-Math. Sci.) (Kyiv: G. V. Kurdyumov Institute for Metal Physics, N.A.S. of Ukraine: 2010) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/0025-5408(78)90178-2",
+				"or":  "T. Egami, Mater. Res. Bull., 13: 557 (1978).",
+				"tr":  "T. Egami, Mater. Res. Bull., 13: 557 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Мазанко, А. В. Покоев, В. М. Миронов, Диффузионные процессы в металлах под действием магнитных полей и импульсных деформаций (Москва: Машиностроение-1: 2006).",
+				"tr":  "V. F. Mazanko, A. V. Pokoev, and V. M. Mironov, Diffuzionnye Protsessy v Metallakh pod Deystviem Magnitnykh Poley i Impul’snykh Deformatsiy [Diffusion Processes in Metals under the Influence of Magnetic Fields and Pulsing Deformation] (Moscow: Mashinostroenie-1: 2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Шатинский, А. И. Нестеренко, Защитные диффузионные покрытия (Киев: Наукова думка: 1988).",
+				"tr":  "V. F. Shatinskiy and A. I. Nesterenko, Zashchitnye Diffuzionnye Pokrytiya [The Protective Diffusion Coatings] (Kiev: Naukova Dumka: 1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Самсонов, Физико-химические свойства окисей (Москва: Металлургия: 1969).",
+				"tr":  "G. V. Samsonov, Fiziko-Khimicheskie Svoystva Okisey [Physico-Chemical Properties of Oxides] (Moscow: Metallurgiya: 1969) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Білик, Кінетика електрохімічних реакцій з участю кисневих сполук на аморфних металевих поверхнях (Автореферат дис.  канд. хім. наук) (Львів: Львівський національний університет імені Івана Франка: 1995).",
+				"tr":  "O. M. Bilyk, Kinetyka Elektrokhimichnykh Reaktsiy z Uchastyu Kysnevykh Spoluk na Amorfnykh Metalevykh Poverkhnyakh [Kinetics of the Electrochemical Reactions Involving Oxygen Compounds on the Amorphous Metallic Surfaces] (Thesis of Disser. … for the Degree of Cand. Chem. Sci.) (Lviv: Ivan Franko National University of Lviv: 1995) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. П. Кузьменко, Диффузионные процессы в металлах (Киев: Наукова думка: 1968).",
+				"tr":  "P. P. Kuz'menko, Diffuzionnye Protsessy v Metallakh [Diffusion Processes in Metals] (Kiev: Naukova Dumka: 1968) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Е. Абросимова, А. С. Аронин, Физика твердого тела, 32, вып. 6: 1742 (1990).",
+				"tr":  "G. E. Abrosimova and A. S. Aronin, Fizika Tverdogo Tela, 32, Iss. 6: 1742 (1990) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Є. П. Ковальчук, О. В. Решетняк, Фізична хімія (Львів: Видавничий центр ЛНУ імені Івана Франка: 2007).",
+				"tr":  "Ye. P. Koval'chuk and O. V. Reshetnyak, Fizychna Khimiya [Physical Chemistry] (Lviv: Vydavnychyy Tsentr of Ivan Franko National University of Lviv: 2007) (in Ukrainian)."
+			}
+		]
+	}
+}

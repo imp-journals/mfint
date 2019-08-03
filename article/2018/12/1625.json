@@ -1,0 +1,75 @@
+{
+	"_id":    "MFiNT.40.12.1625",
+	"year":   2018,
+	"volume": 40,
+	"issue":  12,
+	"pages":  [1625,1635],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["17.06.2018"],
+	"PACS":   "61.72.Hh, 61.72.Lk, 62.20.de, 62.20.dj, 62.20.F-, 62.40.+i, 81.40.Jj",
+	"title":   {
+		"ua": "Про непружнє двійникування, ауксетизм і структурні перетворення в Be",
+		"en": "On Inelastic Twinning, Auxetism and Structural Transformations in Beryllium",
+		"ru": "О неупругом двойниковании, ауксетизме и структурных превращениях в Be"
+	},
+	"abstract": {
+		"ua": "В роботі шляхом моделювання на мезоскопічному рівні непружніх клиновидних двійників у Ве в ауксетичному та неауксетичному станах показано, що зміна величин і знаків коефіцієнтів Пуассона з ростом температури приводить до інверсії локалізованих полів напружень поблизу вершини та країв двійника й істотного (у кілька разів) зменшення величини напружень навколо нього, поблизу дислокацій та їх комплексів, що супроводжується спочатку розм’якшуванням пружніх модулів з подальшим гальмуванням процесів пластичної деформації та зміцненням Ве при переході у стан повного ауксетика вище 575 К.",
+		"en": "By modelling of inelastic wedge-shaped crystal twins in Be of the auxetic and non-auxetic states on the mesoscopic level, it is shown that the change in the Poisson coefficients’ magnitudes and signs with a temperature increasing leads to inversion of the localized stress fields near the tip and edges of the twin and to significant (by several times) decrease in the magnitude of stresses around it, near dislocations and their complexes. This effect is accompanied initially by softening of elastic modules and followed by inhibition of processes of plastic deformation and strengthening of Be during the transition to a complete auxetic state above 575 K.",
+		"ru": "В работе путём моделирования на мезоскопическом уровне неупругих клиновидных двойников в Ве в ауксетическом и неауксетическом состояниях показано, что изменение величин и знаков коэффициентов Пуассона с ростом температуры приводит к инверсии локализованных полей напряжений вблизи вершины и краёв двойника и существенному (в несколько раз) уменьшению величины напряжений вокруг него, вблизи дислокаций и их комплексов, что сопровождается сначала размягчением упругих модулей с последующим торможением процессов пластической деформации и упрочнением Be при переходе в состояние полного ауксетика выше 575 К."
+	},
+	"keywords": {
+		"ua": "клиновидний двійник, коефіцієнти Пуассона, поле напружень, розм’якшування модулів, зміцнення ауксетичного Ве",
+		"en": "wedge-shaped twin, Poisson coefficients, stress field, softening of modulus, strengthening in auxetic Be",
+		"ru": "клиноподобный двойник, коэффициенты Пуассона, поле напряжений, размягчение модулей, упрочнение ауксетического Ве"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. О. Корпан", "en": "V. O. Korpan", "ru": "В. О. Корпан"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "А. В. Олійнич-Лисюк", "en": "A. V. Oliynich-Lysyuk", "ru": "А. В. Олийнич-Лысюк"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "М. Д. Раранський", "en": "M. D. Raransky", "ru": "М. Д. Раранский"},
+			"OID": [215]
+		},
+		{
+			"AID": {"ua": "О. Ю. Тащук", "en": "O. Yu. Tashchuk", "ru": "О. Ю. Тащук"},
+			"OID": [215]
+		}
+	],
+	"references": {
+		"count": 5,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "О. Ю. Тащук, Особливості деформації термодинамічно нестабільного Ве на різних структурних рівнях (Автореферат дис. ... канд. фіз.-мат. наук) (Чернівці: 2017)",
+				"tr":  "O. Yu. Tashchuk, Osoblyvosti Deformatsiyi Termodynamichno Nestabil'noho Be na Riznykh Strukturnykh Rivnyakh [Features of Deformation of Thermodynamically Unstable Be at Different Structural Levels] (Thesis of Disser. for ... Dr. Phys.-Mat. Sci.) (Chernivtsi: 2017) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Башмаков, Т. С. Чикова, Пластификация и упрочнение металлических кристаллов при механическом двойниковании (Минск: Технопринт: 2001).",
+				"tr":  "V. I. Bashmakov and T. S. Chikova, Plastifikatsiya i Uprochnenie Metallicheskikh Kristallov pri Mekhanicheskom Dvoynikovanii [Plasticization and Hardening of Metallic Crystals during Mechanical Twinning] (Minsk: Tekhnoprint: 2001) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. O. Korpan, O. V. Lysyuk, A. V. Oliynich-Lysyuk, M. D. Raransky, and O. Yu. Taschuk, Abstr. Int. Summer School and Int. Conf. ‘Nanotechnology and Nanomaterials (NANO-2017)’ (August, 23–27, 2017, Chernivtsi) (Kyiv: 2017), p. 759.",
+				"tr":  "V. O. Korpan, O. V. Lysyuk, A. V. Oliynich-Lysyuk, M. D. Raransky, and O. Yu. Taschuk, Abstr. Int. Summer School and Int. Conf. 'Nanotechnology and Nanomaterials (NANO-2017)' (August, 23–27, 2017, Chernivtsi) (Kyiv: 2017), p. 759."
+			},
+			{
+				"doi": "",
+				"or":  "О. М. Остриков, Механика двойникования твердых тел (Гомель: ГГТУ им. П. О. Сухого: 2008).",
+				"tr":  "O. M. Ostrikov, Mekhanika Dvoynikovaniya Tverdykh Tel [Mechanics of Solids Twinning] (Gomel': GGTU im. P. O. Sukhogo: 2008) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.37.12.1595",
+				"or":  "О. Ю. Тащук, М. К. Мишилюк, А. В. Олійнич-Лисюк, М. Д. Раранський, Металлофиз. новейшие технол., 37, № 12: 1595 (2015).",
+				"tr":  "O. Yu. Tashchuk, M. K. Myshylyuk, A. V. Oliynich-Lysyuk, M. D. Rarans'ky, Metallofiz. Noveishie Tekhnol., 37, No. 12: 1595 (2015) (in Ukrainian)."
+			}
+		]
+	}
+}

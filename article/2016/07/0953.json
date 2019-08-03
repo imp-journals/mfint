@@ -1,0 +1,122 @@
+{
+	"_id":    "MFiNT.38.07.0953",
+	"year":   2016,
+	"volume": 38,
+	"issue":  7,
+	"pages":  [953,967],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["28.09.2015", "27.04.2016"],
+	"PACS":   "46.50.+a, 62.20.de, 62.20.F-, 62.20.mm, 81.40.Jj, 81.40.Lm, 83.10.-y",
+	"title":   {
+		"ua": "Параболічна стадійність кривих деформування ОЦК-металів на стиск",
+		"en": "The Parabolic Staging of B.C.C. Metals’ Deformation Curves under Compression",
+		"ru": "Параболическая стадийность кривых деформирования ОЦК-металлов на сжатие"
+	},
+	"abstract": {
+		"ua": "Систематизовано уявлення про параболічну стадійність кривих деформаційного зміцнення, представлених різними способами. Запропоновано новий метод визначення параболічних стадій деформаційного зміцнення, заснований на застосуванні сітки квадратичних парабол.",
+		"en": "Conceptions of parabolic staging of strain-hardening curves presented in different ways are systematized. A new method for determining the parabolic stages of strain hardening based on the quadratic-parabolas’ mesh is offered.",
+		"ru": "Систематизированы представления разными способами о параболической стадийности кривых деформационного упрочнения. Предложен новый метод определения параболических стадий деформационного упрочнения, основанный на применении сетки квадратичных парабол."
+	},
+	"keywords": {
+		"ua": "істинне напруження, деформація, аналітичне описання кривих деформування, розтяг, стиск, тензорезистор",
+		"en": "true stress, deformation, analytical description of the deformation curves, tensile, compression, strain gage",
+		"ru": "истинное напряжение, деформация, аналитическое описание кривых деформирования, растяжение, сжатие, тензорезистор"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Д. Г. Вербило", "en": "D. G. Verbylo", "ru": "Д. Г. Вербило"},
+			"OID": [2]
+		},
+		{
+			"AID": {"ua": "О. В. Дроздов", "en": "O. V. Drozdov", "ru": "А. В. Дроздов"},
+			"OID": [33]
+		}
+	],
+	"references": {
+		"count": 16,
+		"list":  [
+			{
+				"doi": "10.1007/978-3-662-40293-1",
+				"or":  "P. Ludwik, Elements der Technologischen Mechanik (Berlin: Springer: 1909).",
+				"tr":  "P. Ludwik, Elements der Technologischen Mechanik (Berlin: Springer: 1909)."
+			},
+			{
+				"doi": "",
+				"or":  "J. H. Hollomon, Trans. AIME, 162: 268 (1945).",
+				"tr":  "J. H. Hollomon, Trans. AIME, 162: 268 (1945)."
+			},
+			{
+				"doi": "10.1016/0022-5096(52)90002-1",
+				"or":  "H. W. Swift, J. Mech. Phys. Solids, 1: 1 (1952).",
+				"tr":  "H. W. Swift, J. Mech. Phys. Solids, 1: 1 (1952)."
+			},
+			{
+				"doi": "",
+				"or":  "Дж. Ф. Белл, Экспериментальные основы механики деформируемых твёрдых тел. Часть II. Конечные деформации (Москва: Наука: 1984).",
+				"tr":  "J. F. Bell, Eksperimentalnye Osnovy Mekhaniki Deformiruemykh Tverdykh Tel. Part II. Konechnye Deformatsii [Experimental Bases of Mechanics of Deformed Solids. Part 2. Finite Strains] (Moscow: Nauka: 1984) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. А. Шапошников, Механические испытания металлов (Москва–Ленинград: Машгиз: 1954).",
+				"tr":  "N. A. Shaposhnikov, Mekhanicheskie Ispytaniya Metallov [Mechanical Testing of Metals] (Moscow–Leningrad: Mashgiz: 1954) (in Russian)."
+			},
+			{
+				"doi": "10.1098/rspa.1934.0106",
+				"or":  "G. I. Taylor, Proc. Roy. Soc. Ser. A, 145: 362 (1934).",
+				"tr":  "G. I. Taylor, Proc. Roy. Soc. Ser. A, 145: 362 (1934)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Трефилов, В. Ф. Моисеев, Э. П. Печковский и др., Деформационное упрочнение и разрушение поликристаллических металлов (Ред. В. И. Трефилов) (Киев: Наукова думка: 1989).",
+				"tr":  "V. I. Trefilov, V. F. Moiseev, E. P. Pechkovskiy et al., Deformatsionnoe Uprochnenie i Razrushenie Polikristallicheskikh Metallov [Work Hardening and Fracture of Polycrystalline Metals] (Ed. V. I. Trefilov) (Kiev: Naukova Dumka: 1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. Н. Христенко, Ю. С. Томенко, Проблемы прочности, № 10: 51 (1981).",
+				"tr":  "I. N. Khristenko and Yu. S. Tomenko, Problemy Prochnosti [Problems of Strength], No. 10: 51 (1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Расчёты и испытания на прочность. Метод испытания на сжатие. ГОСТ 25.503-97 (принят Межгосударственным Советом по стандартизации, метрологии и сертификации 21.11.1997, Минск).",
+				"tr":  "Raschety i Ispytaniya na Prochnost. Metod Ispytaniya na Szhatie. GOST 25.503-97 (accepted by Mezhgosudarstvennyy Sovet po standartizatsii, metrologii i sertifikatsii 21.11.1997, Minsk) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. Ф. Дударев, Микропластическая деформация и предел текучести поликристаллов (Томск: Изд-во Томского ун-та: 1988).",
+				"tr":  "E. F. Dudarev, Mikroplasticheskaya Deformatsiya i Predel Tekuchesti Polikristallov [Microplastic Strain and Yield Strength of Polycrystals] (Tomsk: Tomsk Univ.: 1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "http://www.sdtb.kiev.ua/sdtb_ceram1_ru.htm",
+				"tr":  "http://www.sdtb.kiev.ua/sdtb_ceram1_ru.htm (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Моисеев, Металлофиз. новейшие технол., 23, № 3: 387 (2001).",
+				"tr":  "V. F. Moiseev, Metallofiz. Noveishie Tekhnol., 23, No. 3: 387 (2001) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0079-6425(02)00003-8",
+				"or":  "U. F. Kocks and H. Mecking, Prog. Mater. Sci., 48: 171 (2003).",
+				"tr":  "U. F. Kocks and H. Mecking, Prog. Mater. Sci., 48: 171 (2003)."
+			},
+			{
+				"doi": "10.1007/978-94-011-4062-1_11",
+				"or":  "M. J. Zehetbauer, Investigation and Applications of Severe Plastic Deformation (Eds. T. C. Love and R. Z. Valiev) (Dordrecht, Netherlands: Kluwer Academic Publishers: 2000), p. 81.",
+				"tr":  "M. J. Zehetbauer, Investigation and Applications of Severe Plastic Deformation (Eds. T. C. Love and R. Z. Valiev) (Dordrecht, Netherlands: Kluwer Academic Publishers: 2000), p. 81."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Г. Вербило, Электронная микроскопия и прочность материалов. Серия «Физическое материаловедение, структура и свойства материалов», вып. 18: 104 (2012).",
+				"tr":  "D. G. Verbylo, Elektronnaya Mikroskopiya i Prochnost Materialov. Seriya 'Fizicheskoe Materialovedenie, Struktura i Svoystva Materialov', 18: 104 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "E. Voce, J. Inst. Metals, 74, No. 7: 537 (1948).",
+				"tr":  "E. Voce, J. Inst. Metals, 74, No. 7: 537 (1948)."
+			}
+		]
+	}
+}

@@ -1,0 +1,281 @@
+{
+	"_id":    "MFiNT.38.02.0205",
+	"year":   2016,
+	"volume": 38,
+	"issue":  2,
+	"pages":  [205,227],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["20.10.2015"],
+	"PACS":   "05.40.-a, 65.80.-g, 68.43.-h, 81.16.Rf, 82.40.Ck, 82.40.Np, 89.75.Kd",
+	"title":   {
+		"ua": "Формування нанорозмірних структур адсорбату в процесах конденсації з газової фази з урахуванням температурних ефектів",
+		"en": "Formation of Nanosize Structures of Adsorbate in Processes of Condensation of a Gas Phase with Due Regard for Temperature Effects",
+		"ru": "Формирование наноразмерных структур адсорбата в процессах конденсации из газовой фазы с учётом температурных эффектов"
+	},
+	"abstract": {
+		"ua": "Вивчається вплив теплопровідности поверхні на процес формування островів адсорбату при конденсації з газової фази в реакційно-дифузійних системах. Враховуються нерівноважні хемічні реакції, відповідальні за формування стійких димерів, та вважається, що температура поверхні може локально змінюватися при перебігу процесів адсорбції/десорбції. Для однорідної системи одержано умови реалізації фазових переходів першого роду типу газ—тверде тіло. В межах лінійної аналізи на стійкість розраховано фазову діяграму, що ілюструє область, де можливі просторові нестійкості. За допомогою числового моделювання показано, що теплопровідність впливає на перехідні процеси формування структур адсорбату. Встановлено, що середній розмір островів адсорбату зростає з часом за степеневим законом, і показник росту збільшується з коефіцієнтом теплопровідности. Встановлено розподіл островів адсорбату за розмірами в стаціонарному режимі та виявлено, що збільшення теплопровідности поверхні приводить до трансформації розподілу від логнормального до Ґауссового. Показано, що середній розмір стаціонарних структур адсорбату характеризується нанометровим масштабом.",
+		"en": "An influence of thermal conductivity of a surface on adsorbate-islands’ formation at vapour deposition in the reaction—diffusion systems is studied. Non-equilibrium chemical reactions, which are responsible for stable-dimmers’ formation, are taken into account with assumption that the surface temperature can be changed locally due to adsorption/desorption processes. For homogeneous system, the conditions for first-order phase transitions of the gas—solid type are found. Within the framework of the linear stability analysis, the phase diagram illustrating a region with spatial instabilities is calculated. The numerical simulations show that thermal conductivity governs transient dynamics of adsorbate-structures’ formation. The mean size of adsorbate islands evolves in time according to power law, and the growth power exponentially increases with thermal conductivity. The distributions of adsorbate islands over sizes are calculated in stationary limit, and it is found that an increase in thermal conductivity of the surface leads to transformation of distribution from Lognormal form to Gaussian one. As shown, the mean size of stationary adsorbate islands is characterized by nanometre scale.",
+		"ru": "Изучается влияние теплопроводности поверхности на процесс формирования островов адсорбата при конденсации из газовой фазы в реакционно-диффузионных системах. Учитываются неравновесные химические реакции, отвечающие за формирование устойчивых димеров, и считается, что температура поверхности может локально изменяться при протекании процессов адсорбции/десорбции. Для однородной системы получены условия реализации фазовых переходов первого рода типа газ—твёрдое тело. В рамках линейного анализа на устойчивость получена фазовая диаграмма, иллюстрирующая область, где возможны пространственные неустойчивости. При помощи численного моделирования показано, что теплопроводность влияет на переходные процессы формирования структур адсорбата. Установлено, что средний размер островов адсорбата растёт со временем по степенному закону, и показатель роста увеличивается с коэффициентом теплопроводности. Установлено распределение островов адсорбата по размерам в стационарном режиме и показано, что увеличение теплопроводности поверхности приводит к трансформации распределения от логнормального к гауссовскому. Показано, что средний размер стационарных структур адсорбата характеризуется нанометровым масштабом."
+	},
+	"keywords": {
+		"ua": "конденсація, наноструктури адсорбату, реакційно-дифузійні системи, температурні ефекти",
+		"en": "vapour deposition, nanosize adsorbate structures, reaction-diffusion systems, thermal effects",
+		"ru": "конденсация, наноструктуры адсорбата, реакционно-диффузионные системы, температурные эффекты"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. О. Харченко", "en": "V. O. Kharchenko", "ru": "В. О. Харченко"},
+			"OID": [17]
+		},
+		{
+			"AID": {"ua": "В. В. Яновський", "en": "V. V. Yanovsky", "ru": "В. В. Яновский"},
+			"OID": [22]
+		},
+		{
+			"AID": {"ua": "А. В. Дворниченко", "en": "A. V. Dvornichenko", "ru": "А. В. Дворниченко"},
+			"OID": [208]
+		}
+	],
+	"references": {
+		"count": 47,
+		"list":  [
+			{
+				"doi": "10.1007/978-3-662-04777-4",
+				"or":  "﻿E. Hirota, H. Sakakima, and K. Inomata, Giant Magneto-Resistance Devices (Berlin–Heidelberg–New York–Barcelona–Hong Kong–London–Milan–Paris–Tokyo: Springer: 2002)",
+				"tr":  "E. Hirota, H. Sakakima, and K. Inomata, Giant Magneto-Resistance Devices (Berlin–Heidelberg–New York–Barcelona–Hong Kong–London–Milan–Paris–Tokyo: Springer: 2002)"
+			},
+			{
+				"doi": "10.1038/35016030",
+				"or":  "R. J. Warburton, C. Schaflein, D. Haft et al., Nature, 405: 926 (2000)",
+				"tr":  "R. J. Warburton, C. Schaflein, D. Haft et al., Nature, 405: 926 (2000)"
+			},
+			{
+				"doi": "10.1126/science.285.5428.692",
+				"or":  "A. Shah, P. Torres, R. Tscharner et al., Science, 285: 692 (1999)",
+				"tr":  "A. Shah, P. Torres, R. Tscharner et al., Science, 285: 692 (1999)"
+			},
+			{
+				"doi": "10.1038/nature13184",
+				"or":  "Li-Dong Zhao, Shih-Han Lo, Yongsheng Zhang et al., Nature, 508: 373 (2014)",
+				"tr":  "Li-Dong Zhao, Shih-Han Lo, Yongsheng Zhang et al., Nature, 508: 373 (2014)"
+			},
+			{
+				"doi": "10.1038/16667",
+				"or":  "K. Pohl, M. C. Bartelt, J. de la Figuera et al., Nature, 397: 238 (1999)",
+				"tr":  "K. Pohl, M. C. Bartelt, J. de la Figuera et al., Nature, 397: 238 (1999)"
+			},
+			{
+				"doi": "10.1103/PhysRevLett.63.2393",
+				"or":  "Y. W. Mo, B. S. Swartzentruber, R. Kariotis et al., Phys. Rev. Lett., 63: 2393 (1989)",
+				"tr":  "Y. W. Mo, B. S. Swartzentruber, R. Kariotis et al., Phys. Rev. Lett., 63: 2393 (1989)"
+			},
+			{
+				"doi": "10.1134/1.1521233",
+				"or":  "G. E. Cirlin, V. A. Egorov, L. V. Sokolov, and P. Werner, Semiconductors, 36, No. 11: 1294 (2002)",
+				"tr":  "G. E. Cirlin, V. A. Egorov, L. V. Sokolov, and P. Werner, Semiconductors, 36, No. 11: 1294 (2002)"
+			},
+			{
+				"doi": "10.1209/0295-5075/27/6/011",
+				"or":  "J. P. Bucher, E. Hahn, P. Fernandez et al., Europhys. Lett., 27: 473 (1994)",
+				"tr":  "J. P. Bucher, E. Hahn, P. Fernandez et al., Europhys. Lett., 27: 473 (1994)"
+			},
+			{
+				"doi": "http://dx.doi.org/10.1016/S1571-0785(97)80009-0",
+				"or":  "F. Besenbacher, L. Pleth Nielsen, and P. T. Sprunger, The Chemical Physics of Solid Surfaces (Eds. D. A. King and D. P. Woodruff) (Heidelberg: Elsevier: 1997), vol. 8, p. 207",
+				"tr":  "F. Besenbacher, L. Pleth Nielsen, and P. T. Sprunger, The Chemical Physics of Solid Surfaces (Eds. D. A. King and D. P. Woodruff) (Heidelberg: Elsevier: 1997), vol. 8, p. 207"
+			},
+			{
+				"doi": "10.1016/S0079-6425(00)00009-8",
+				"or":  "H. N. G. Wadley, X. Zhou, R. A. Johnson et al., Progress in Materials Science, 46: 329 (2001)",
+				"tr":  "H. N. G. Wadley, X. Zhou, R. A. Johnson et al., Progress in Materials Science, 46: 329 (2001)"
+			},
+			{
+				"doi": "",
+				"or":  "K. S. Sree Harsha, Principles of Physical Vapour Deposition of Thin Films (Amsterdam–Boston–London: Elesevier: 2006)",
+				"tr":  "K. S. Sree Harsha, Principles of Physical Vapour Deposition of Thin Films (Amsterdam–Boston–London: Elesevier: 2006)"
+			},
+			{
+				"doi": "10.1016/j.nimb.2010.05.091",
+				"or":  "G. Perotto, V. Bello, T. Cesca et al., Nucl. Instr. Meth. Phys. Res. B, 268: 3211 (2010)",
+				"tr":  "G. Perotto, V. Bello, T. Cesca et al., Nucl. Instr. Meth. Phys. Res. B, 268: 3211 (2010)"
+			},
+			{
+				"doi": "10.1016/j.nimb.2010.05.081",
+				"or":  "H. Bernas, Nucl. Instr. Meth. Phys. Res. B, 268: 3171 (2010)",
+				"tr":  "H. Bernas, Nucl. Instr. Meth. Phys. Res. B, 268: 3171 (2010)"
+			},
+			{
+				"doi": "10.1116/1.575561",
+				"or":  "R. M. Bradley and J. M. E. Harper, J. Vac. Sci. Technol. A, 6, No.4: 2390 (1988)",
+				"tr":  "R. M. Bradley and J. M. E. Harper, J. Vac. Sci. Technol. A, 6, No.4: 2390 (1988)"
+			},
+			{
+				"doi": "",
+				"or":  "P. Karmakar, Nanofabrication by Ion-Beam Sputtering: Fundamentals and Applications (Eds. T. Som and D. Kanjilal) (Boca Raton, FL: Taylor & Francis Group, LLC: 2013)",
+				"tr":  "P. Karmakar, Nanofabrication by Ion-Beam Sputtering: Fundamentals and Applications (Eds. T. Som and D. Kanjilal) (Boca Raton, FL: Taylor & Francis Group, LLC: 2013)"
+			},
+			{
+				"doi": "10.1063/1.2181203",
+				"or":  "J. Lian, W. Zhou, Q. M. Wei et al., Appl. Phys. Lett., 88: 093112 (2006)",
+				"tr":  "J. Lian, W. Zhou, Q. M. Wei et al., Appl. Phys. Lett., 88: 093112 (2006)"
+			},
+			{
+				"doi": "10.1103/PhysRevE.82.061108",
+				"or":  "D. O. Kharchenko, V. O. Kharchenko, I. O. Lysenko et al., Phys. Rev. E, 82: 061108 (2010)",
+				"tr":  "D. O. Kharchenko, V. O. Kharchenko, I. O. Lysenko et al., Phys. Rev. E, 82: 061108 (2010)"
+			},
+			{
+				"doi": "10.5488/CMP.14.23602",
+				"or":  "V. O. Kharchenko and D. O. Kharchenko, Cond. Mat. Phys., 14, No. 2: 23602 (2011)",
+				"tr":  "V. O. Kharchenko and D. O. Kharchenko, Cond. Mat. Phys., 14, No. 2: 23602 (2011)"
+			},
+			{
+				"doi": "",
+				"or":  "V. O. Kharchenko, D. O. Kharchenko, and I. O. Lysenko, Nanotechnology: Synthesis and Characterization (Ed. J. N. Govil) (Houston: Studium Press LLC: 2013), vol. 2, p.367",
+				"tr":  "V. O. Kharchenko, D. O. Kharchenko, and I. O. Lysenko, Nanotechnology: Synthesis and Characterization (Ed. J. N. Govil) (Houston: Studium Press LLC: 2013), vol. 2, p.367"
+			},
+			{
+				"doi": "10.1143/APEX.4.055202",
+				"or":  "Yu. Yoshida, N. Sakaguchi, S. Watanabe, and T. Kato, Appl. Phys. Express, 4, No. 5: 055202 (2011)",
+				"tr":  "Yu. Yoshida, N. Sakaguchi, S. Watanabe, and T. Kato, Appl. Phys. Express, 4, No. 5: 055202 (2011)"
+			},
+			{
+				"doi": "10.1063/1.1448882",
+				"or":  "S. M. Huang, M. H. Hong, Y. F. Lu et al., J. Appl. Phys., 91, No. 5: 3268 (2002)",
+				"tr":  "S. M. Huang, M. H. Hong, Y. F. Lu et al., J. Appl. Phys., 91, No. 5: 3268 (2002)"
+			},
+			{
+				"doi": "10.1088/0957-4484/14/5/305",
+				"or":  "Y. Lu and S. C. Chen, Nanotechnology, 14: 505 (2003)",
+				"tr":  "Y. Lu and S. C. Chen, Nanotechnology, 14: 505 (2003)"
+			},
+			{
+				"doi": "10.1088/0034-4885/47/4/002",
+				"or":  "J. A. Venables, G. D. T. Spiller, and M. Hanbucken, Rep. Prog. Phys., 47: 399 (1984)",
+				"tr":  "J. A. Venables, G. D. T. Spiller, and M. Hanbucken, Rep. Prog. Phys., 47: 399 (1984)"
+			},
+			{
+				"doi": "10.1017/CBO9780511622526",
+				"or":  "A. Pimpinelli and J. Villian, Phys. Cryst. Growth (Cambridge: Cambridge University Press: 1998)",
+				"tr":  "A. Pimpinelli and J. Villian, Phys. Cryst. Growth (Cambridge: Cambridge University Press: 1998)"
+			},
+			{
+				"doi": "",
+				"or":  "R. E. Caflisch, Proc. of the International Congress of Mathematicians (Madrid, 2006), p. 1419",
+				"tr":  "R. E. Caflisch, Proc. of the International Congress of Mathematicians (Madrid, 2006), p. 1419"
+			},
+			{
+				"doi": "10.1088/0031-8949/83/04/045802",
+				"or":  "D. O. Kharchenko, V. O. Kharchenko, and I. O. Lysenko, Phys. Scr., 83: 045802 (2011)",
+				"tr":  "D. O. Kharchenko, V. O. Kharchenko, and I. O. Lysenko, Phys. Scr., 83: 045802 (2011)"
+			},
+			{
+				"doi": "10.1140/epjb/e2013-31053-1",
+				"or":  "D. O. Kharchenko, V. O. Kharchenko, T. I. Zhylenko et al., Eur. Phys. J. B, 86: 175 (2013)",
+				"tr":  "D. O. Kharchenko, V. O. Kharchenko, T. I. Zhylenko et al., Eur. Phys. J. B, 86: 175 (2013)"
+			},
+			{
+				"doi": "10.5488/CMP.17.33004",
+				"or":  "D. O. Kharchenko, V. O. Kharchenko, and S. V. Kokhan, Cond. Mat. Phys., 17: 33004 (2014)",
+				"tr":  "D. O. Kharchenko, V. O. Kharchenko, and S. V. Kokhan, Cond. Mat. Phys., 17: 33004 (2014)"
+			},
+			{
+				"doi": "10.1140/epjb/e2014-50327-6",
+				"or":  "V. O. Kharchenko, D. O. Kharchenko, and A. V. Dvornichenko, Eur. Phys. J. B, 88: 3 (2015)",
+				"tr":  "V. O. Kharchenko, D. O. Kharchenko, and A. V. Dvornichenko, Eur. Phys. J. B, 88: 3 (2015)"
+			},
+			{
+				"doi": "",
+				"or":  "K. Binder and P. Haasen, Material Science and Technology: Phase Transformations in Materials (Weinham: Wiley-VCH: 1990), vol. 5, p. 405",
+				"tr":  "K. Binder and P. Haasen, Material Science and Technology: Phase Transformations in Materials (Weinham: Wiley-VCH: 1990), vol. 5, p. 405"
+			},
+			{
+				"doi": "10.1103/PhysRevLett.76.1162",
+				"or":  "Q. Tran-Cong and A. Harada, Phys. Rev. Lett., 76: 1162 (1996)",
+				"tr":  "Q. Tran-Cong and A. Harada, Phys. Rev. Lett., 76: 1162 (1996)"
+			},
+			{
+				"doi": "10.1016/0009-2614(95)00386-X",
+				"or":  "A. Mikhailov and G. Ertl, Chem. Phys. Lett., 238: 104 (1994)",
+				"tr":  "A. Mikhailov and G. Ertl, Chem. Phys. Lett., 238: 104 (1994)"
+			},
+			{
+				"doi": "10.1021/jp961668w",
+				"or":  "M. Hildebrand and A. S. Mikhailov, J. Phys. Chem., 100: 19089 (1996)",
+				"tr":  "M. Hildebrand and A. S. Mikhailov, J. Phys. Chem., 100: 19089 (1996)"
+			},
+			{
+				"doi": "10.1016/S0370-1573(97)00036-7",
+				"or":  "D. Batogkh, M. Hildebrant, F. Krischer, and A. Mikhailov, Phys. Rep., 288: 435 (1997)",
+				"tr":  "D. Batogkh, M. Hildebrant, F. Krischer, and A. Mikhailov, Phys. Rep., 288: 435 (1997)"
+			},
+			{
+				"doi": "10.1103/PhysRevLett.81.2602",
+				"or":  "M. Hildebrand, A. S. Mikhailov, and G. Ertl, Phys. Rev. Lett., 81, No. 4: 2602 (1998)",
+				"tr":  "M. Hildebrand, A. S. Mikhailov, and G. Ertl, Phys. Rev. Lett., 81, No. 4: 2602 (1998)"
+			},
+			{
+				"doi": "10.1103/PhysRevE.58.5483",
+				"or":  "M. Hildebrand, A. S.Mikhailov, and G. Ertl, Phys. Rev. E, 58, No. 11: 5483 (1998)",
+				"tr":  "M. Hildebrand, A. S.Mikhailov, and G. Ertl, Phys. Rev. E, 58, No. 11: 5483 (1998)"
+			},
+			{
+				"doi": "10.1016/S0167-5729(99)80001-6",
+				"or":  "H. Brune, Surf. Sci. Reports, 31: 121 (1998)",
+				"tr":  "H. Brune, Surf. Sci. Reports, 31: 121 (1998)"
+			},
+			{
+				"doi": "10.1103/PhysRevE.59.6879",
+				"or":  "R. E. Caflisch, M. F. Gyure et al., Phys. Rev. E, 59: 6879 (1999)",
+				"tr":  "R. E. Caflisch, M. F. Gyure et al., Phys. Rev. E, 59: 6879 (1999)"
+			},
+			{
+				"doi": "10.1088/0031-8949/86/05/055401",
+				"or":  "V. O. Kharchenko, D. O. Kharchenko, S. V. Kokhan et al., Phys. Scr., 86: 055401 (2012)",
+				"tr":  "V. O. Kharchenko, D. O. Kharchenko, S. V. Kokhan et al., Phys. Scr., 86: 055401 (2012)"
+			},
+			{
+				"doi": "10.1103/PhysRevE.86.041143",
+				"or":  "V. O. Kharchenko and D. O. Kharchenko, Phys. Rev. E, 86: 041143 (2012)",
+				"tr":  "V. O. Kharchenko and D. O. Kharchenko, Phys. Rev. E, 86: 041143 (2012)"
+			},
+			{
+				"doi": "10.1088/0953-8984/23/23/235101",
+				"or":  "I. Santamaria-Holek, A. Gadomski, and J. M. Rubi, J. Phys. Condens. Matter, 23: 235101 (2011)",
+				"tr":  "I. Santamaria-Holek, A. Gadomski, and J. M. Rubi, J. Phys. Condens. Matter, 23: 235101 (2011)"
+			},
+			{
+				"doi": "10.1103/PhysRevE.71.056203",
+				"or":  "S. E. Mangioni and H. S. Wio, Phys. Rev. E, 71: 056203 (2005)",
+				"tr":  "S. E. Mangioni and H. S. Wio, Phys. Rev. E, 71: 056203 (2005)"
+			},
+			{
+				"doi": "10.1016/j.physa.2010.01.011",
+				"or":  "S. E. Mangioni, Physica A, 389: 1799 (2010)",
+				"tr":  "S. E. Mangioni, Physica A, 389: 1799 (2010)"
+			},
+			{
+				"doi": "10.1016/S0378-4371(02)00828-2",
+				"or":  "S. B. Casal, H. S. Wio, and S. Mangioni, Physica A, 311: 443 (2002)",
+				"tr":  "S. B. Casal, H. S. Wio, and S. Mangioni, Physica A, 311: 443 (2002)"
+			},
+			{
+				"doi": "10.1016/j.susc.2014.08.008",
+				"or":  "V. O. Kharchenko, D. O. Kharchenko, and A. V. Dvornichenko, Surf. Sci., 630: 158 (2014)",
+				"tr":  "V. O. Kharchenko, D. O. Kharchenko, and A. V. Dvornichenko, Surf. Sci., 630: 158 (2014)"
+			},
+			{
+				"doi": "10.1103/PhysRevA.15.319",
+				"or":  "J. Swift and P. C. Hohenberg, Phys. Rev. A, 15: 319 (1977)",
+				"tr":  "J. Swift and P. C. Hohenberg, Phys. Rev. A, 15: 319 (1977)"
+			},
+			{
+				"doi": "",
+				"or":  "V. I. Arnold, Ordinary Differential Equations (Cambridge: MIT Press: 1973)",
+				"tr":  "V. I. Arnold, Ordinary Differential Equations (Cambridge: MIT Press: 1973)"
+			}
+		]
+	}
+}

@@ -1,0 +1,92 @@
+{
+	"_id":    "MFiNT.39.03.0387",
+	"year":   2017,
+	"volume": 39,
+	"issue":  3,
+	"pages":  [387,399],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["31.08.2016"],
+	"PACS":   "02.70.Dh, 46.50.+a, 62.20.D-, 62.20.mm, 81.40Jj, 81.40.Np",
+	"title":   {
+		"ua": "Дослідження впливу фактора анізотропії на закономірність зміни об’єму в елементах мікроструктури",
+		"en": "Investigation of Influence of the Factor of Anisotropy on Regularity of Change of Volume in Microstructure Elements",
+		"ru": "Исследование влияния фактора анизотропии на закономерность изменения объёма в элементах микроструктуры"
+	},
+	"abstract": {
+		"ua": "Досліджено закономірності флюктуацій кульових тензорів напружень у кристалах з кубічною ґратницею в залежності від їх орієнтації в однофазних полікристалічних матеріялах. Показано, що взаємодії між кристалами в конгломераті полікристалу приводять до виникнення локальних об’ємних напружень/деформацій навіть при чистому макроскопічному зсуві. Інтервал зміни кульових тензорів напружень/деформацій є співставним із макроскопічним модулем девіятора тензора напружень/де¬формацій і залежить від коефіцієнта анізотропії кристалів. На основі встановлених закономірностей можна пояснити ряд експериментально виявлених термомеханічних ефектів, наприклад, розсіяння енергії, яке пов’язують з поняттям внутрішнього тертя. В рамках цього моделю можна описати з єдиних позицій умови руйнування полікристалічних матеріялів при загального вигляду навантаженні, використовуючи на локальному рівні найпростіші критерії міцности — найбільші нормальне напруження/деформацію.",
+		"en": "The regularities of fluctuations of spherical stress tensors in cubic-lattice crystals are investigated depending on their orientation in polycrystalline single-phase materials. As shown, the interactions between the crystals in conglomerate of polycrystals lead to local bulk stresses/strains appearance even at pure macroscopic shear. The interval of changing spherical stress/strain tensors is comparable with macroscopic module of deviator of stresses/strains tensor and depends on anisotropy coefficient of crystals. Based on established laws, it is possible to explain some experimental thermomechanical effects, for example, energy dissipation, which is connected with concept of internal friction. According to this model, the conditions of destructions of polycrystalline materials can be described for general load using, at local level, simple strength criteria—maximal normal stress/strain.",
+		"ru": "Исследованы закономерности флуктуаций шаровых тензоров напряжений в кристаллах с кубической решёткой в зависимости от их ориентации в однофазных поликристаллических материалах. Показано, что взаимодействия между кристаллами в конгломерате поликристалла приводят к возникновению локальных объёмных напряжений/деформаций даже при чистом макроскопическом сдвиге. Интервал изменения шаровых тензоров напряжений/деформаций сопоставим с макроскопическим модулем девиатора тензора напряжений/деформаций и зависит от коэффициента анизотропии кристаллов. На основе установленных закономерностей можно объяснить ряд экспериментально обнаруженных термомеханических эффектов, например, рассеяние энергии, которое связывают с понятием внутреннего трения. В рамках этой модели можно описать с единых позиций условия разрушения поликристаллических материалов при общего вида нагружении, используя на локальном уровне простейшие критерии прочности — наибольшие нормальное напряжение/деформацию."
+	},
+	"keywords": {
+		"ua": "структура, тензор напружень, деформація, анізотропія, монокристал, полікристал",
+		"en": "structure, stress tensor, deformation, anisotropy, single crystal, polycrystals",
+		"ru": "структура, тензор напряжений, деформация, анизотропия, монокристалл, поликристалл"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Ю. Марина", "en": "V. Iu. Marina", "ru": "В. Ю. Марина"},
+			"OID": [497]
+		},
+		{
+			"AID": {"ua": "В. І. Марина", "en": "V. I. Marina", "ru": "В. И. Марина"},
+			"OID": [498]
+		}
+	],
+	"references": {
+		"count": 10,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "﻿1. W. Voight, Lehrbuch der Kristallphysik (Berlin: Teubner: 1928).",
+				"tr":  "W. Voight, Lehrbuch der Kristallphysik (Berlin: Teubner: 1928)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Reuss, Z. Angev. Math. und Mech., 9, No. 1: 49 (1929).",
+				"tr":  "A. Reuss, Z. Angev. Math. und Mech., 9, No. 1: 49 (1929)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Новожилов, Ю. И. Кадашевич, Микронапряжения в конструкционных материалах (Ленинград: Машиностроение: 1990).",
+				"tr":  "V. V. Novozhilov and Yu. I. Kadashevich, Mikronapryazheniya v Konstruktsionnykh Materialakh [Microstresses in Constructional Materials] (Leningrad: Mashinostroenie: 1990) (in Russian)."
+			},
+			{
+				"doi": "10.1007/BF01337948",
+				"or":  "E. Kroner, Zeitschrift für Physik, 151: 504 (1958).",
+				"tr":  "E. Kroner, Zeitschrift für Physik, 151: 504 (1958)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ю. Марина, Многоэлементная модель среды, описывающая переменные сложные неизотермические процессы нагружения (Автореферат дисс. ... д-ра физ.-мат. наук) (Киев: Институт механики АН Украины: 1991).",
+				"tr":  "V. I. Marina, Mnogoelementnaya Model' Sredy, Opisyvayushchaya Peremennye Slozhnye Neizotermicheskie Protsessy Nagruzheniya [A Multi-Element Model of the Medium Described Variable Complex Non-Isothermal Loading Processes] (Thesis of Disser. … for Dr. Phys.-Math. Sci.) (Kyiv: Institute of Mechanics, N.A.S. of Ukraine: 1991) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ю. Марина, Прикладная механика, № 6: 9 (1997).",
+				"tr":  "V. I. Marina, Prikladnaya Mekhanika, No. 6: 9 (1997) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Marina, Metallurgy and New Materials Researches, 11, No. 3: 50 (1994).",
+				"tr":  "V. Marina, Metallurgy and New Materials Researches, 11, No. 3: 50 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "З. Хилл, Прикладная математика и механика, 35, вып. 1: 31 (1971).",
+				"tr":  "Z. Khill, Prikladnaya Matematika i Mekhanika, 35, Iss. 1: 31 (1971) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ю. Марина, Известия Академии наук Республики Молдова. Математика, № 2: 16 (1998).",
+				"tr":  "V. I. Marina, Izvestiya Akademii Nauk Respubliki Moldova. Matematika, No. 2: 16 (1998) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Онами, С. Ивасимудзу, К. Гэнка, Введение в микромеханику (Москва: Металлургия: 1987).",
+				"tr":  "M. Onami, S. Ivasimudzu, and K. Genka, Vvedenie v Mikromekhaniku [Introduction to Micromechanics] (Moscow: Metallurgiya: 1987) (in Russian)."
+			}
+		]
+	}
+}

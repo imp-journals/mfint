@@ -1,0 +1,145 @@
+{
+	"_id":    "MFiNT.38.05.0647",
+	"year":   2016,
+	"volume": 38,
+	"issue":  5,
+	"pages":  [647,656],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["02.02.2016"],
+	"PACS":   "72.80.Tm, 77.22.Ch, 77.84.Lf, 81.07.Bc, 81.07.Pr, 81.40.Tv, 82.35.Np",
+	"title":   {
+		"ua": "Вплив дисперсности частинок йодиду міді на електрофізичні властивості композитів на основі поліхлортрифторетилену",
+		"en": "Effect of Dispersion of Copper-Iodide Particles on the Electrical Properties of Composites Based on Polychlortrifluoroethylene",
+		"ru": "Влияние дисперсности частиц йодида меди на электрофизические свойства композитов на основе полихлортрифторэтилена"
+	},
+	"abstract": {
+		"ua": "Досліджено електрофізичні властивості в надвисокочастотному діяпазоні та на низьких частотах за кімнатної температури композитів CuI—поліхлортрифторетилен (ПХТФЕ). Виявлено, що полімерні композити, які містять нанорозмірний йодид міді, мають майже в два рази вищі значення комплексної діелектричної проникности та електропровідности в порівнянні з системою, яка містить мікронний CuI.",
+		"en": "The electrophysical properties of the CuI—polychlorotrifluoroethylene nanocomposites are studied in the microwave and low-frequency ranges at a temperature of 295 K. As shown, the polymer composites containing nanosize copper iodide have higher values of the complex permittivity and conductivity twice as high in comparison with a system containing micron CuI.",
+		"ru": "Исследованы электрофизические свойства в сверхвысокочастотном диапазоне и на низких частотах при комнатной температуре нанокомпозитов CuI—полихлортрифторэтилен (ПХТФЭ). Обнаружено, что полимерные композиты, которые содержат наноразмерный йодид меди, имеют почти в два раза более высокие значения комплексной диэлектрической проницаемости и электропроводности по сравнению с системой, которая содержит микронный CuI."
+	},
+	"keywords": {
+		"ua": "композитні матеріяли, дисперсні наповнювачі, міжфазна взаємодія, нанорозмірний йодид міді",
+		"en": "composite materials, disperse filler, interfacial interaction, nanoscale copper iodide",
+		"ru": "композитные материалы, дисперсные наполнители, межфазное взаимодействие, наноразмерный йодид меди"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Р. В. Мазуренко", "en": "R. V. Mazurenko", "ru": "Р. В. Мазуренко"},
+			"OID": [21]
+		},
+		{
+			"AID": {"ua": "С. Н. Махно", "en": "S. M. Makhno", "ru": "С. Н. Махно"},
+			"OID": [21]
+		},
+		{
+			"AID": {"ua": "Г. М. Гуня", "en": "G. M. Gunya", "ru": "Г. М. Гуня"},
+			"OID": [21]
+		},
+		{
+			"AID": {"ua": "П. П. Горбик", "en": "P. P. Gorbyk", "ru": "П. П. Горбик"},
+			"OID": [21]
+		}
+	],
+	"references": {
+		"count": 19,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "А. И. Гусев, Наноматериалы, наноструктуры, нанотехнологии (Москва: Физматлит: 2005).",
+				"tr":  "A. I. Gusev, Nanomaterialy, Nanostruktury, Nanotekhnologii [Nanomaterials, Nanostructures, Nanotechnologies] (Moscow: Fizmatlit: 2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. П. Суздалев, Нанотехнология: физико-химия нанокластеров, наноструктур и наноматериалов (Москва: КомКнига: 2006).",
+				"tr":  "I. P. Suzdalev, Nanotekhnologiya: Fiziko-Khimiya Nanoklasterov, Nanostruktur i Nanomaterialov [Nanotechnology: Physics and Chemistry of Nanoclusters, Nanostructures and Nanomaterials] (Moscow: KomKniga: 2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. Г. Рамбиди, А. В. Берёзкин, Физические и химические основы нанотехнологий (Москва: Физматлит: 2008).",
+				"tr":  "N. G. Rambidi and A. V. Berezkin, Fizicheskie i Khimicheskie Osnovy Nanotekhnologiy [Physical and Chemical Bases of Nanotechnologies] (Moscow: Fizmatlit: 2008) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.envpol.2007.06.006",
+				"or":  "B. Nowack and T. D. Bucheli, Environmental Pollution, 150, No. 1: 5 (2007).",
+				"tr":  "B. Nowack and T. D. Bucheli, Environmental Pollution, 150, No. 1: 5 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Маргулис, Основы звукохимии. Химические реакции в акустических полях (Москва: Высшая школа: 1984).",
+				"tr":  "M. A. Margulis, Osnovy Zvukokhimii [Fundamentals of Sonochemistry] (Moscow: Vysshaya Shkola: 1984) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.ultsonch.2013.01.005",
+				"or":  "A. Ziarati, J. Safaei-Ghomi, and S. Rohani, Ultrasonics Sonochemistry, 20, No. 4: 1069 (2013).",
+				"tr":  "A. Ziarati, J. Safaei-Ghomi, and S. Rohani, Ultrasonics Sonochemistry, 20, No. 4: 1069 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Н. Грузинцев, В. Н. Загороднев, Физика и техника полупроводников, 46, вып. 8: 975 (2012).",
+				"tr":  "A. N. Gruzintsev and V. N. Zagorodnev, Fizika i Tekhnika Poluprovodnikov, 46, No. 8: 975 (2012) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.jare.2012.09.007",
+				"or":  "M. H. Makled, E. Sheha, T. S. Shanap, and M. K. El-Mansy, J. Adv. Res., 4, No. 6: 531 (2013).",
+				"tr":  "M. H. Makled, E. Sheha, T. S. Shanap, and M. K. El-Mansy, J. Adv. Res., 4, No. 6: 531 (2013)."
+			},
+			{
+				"doi": "10.1016/j.matlet.2013.02.082",
+				"or":  "Yo. Ma, M. Gu, Sh. Huang, X. Liu, B. Liu, and Ch. Ni, Materials Letters, 100: 166 (2013).",
+				"tr":  "Yo. Ma, M. Gu, Sh. Huang, X. Liu, B. Liu, and Ch. Ni, Materials Letters, 100: 166 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "A. R. Zainun, M. H. Mamat, U. M. Noor, and M. Rusop, Journal of Nanomaterials, 2012: 637637 (2012).",
+				"tr":  "A. R. Zainun, M. H. Mamat, U. M. Noor, and M. Rusop, Journal of Nanomaterials, 2012: 637637 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "Руководство по неорганическому синтезу (Ред. Г. Брауэр) (Москва: Мир: 1985).",
+				"tr":  "Rukovodstvo po Neorganicheskomu Sintezu (Ed. G. Brauer) (Moscow: Mir: 1985) (in Russian)."
+			},
+			{
+				"doi": "10.7508/jns.2012.01.010",
+				"or":  "J. Safaei-Ghomi, S. Rohani, and A. Ziarati, J. Nanostructures, 2: 79 (2012).",
+				"tr":  "J. Safaei-Ghomi, S. Rohani, and A. Ziarati, J. Nanostructures, 2: 79 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. М. Ганюк, В. Д. Ігнатков, С. М. Махно, П. М. Сорока, УФЖ, 40, № 6: 627 (1995).",
+				"tr":  "L. N. Ganjuk, V. D. Ignatkov, S. M. Mahno, and P. M. Soroka, Ukr. Fiz. Zhurn., 40, No. 6: 627 (1995) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. П. Павлов, Методы определения параметров полупроводниковых материалов (Москва: Высшая школа: 1987).",
+				"tr":  "L. P. Pavlov, Metody Opredeleniya Parametrov Poluprovodnikovykh Materialov [Methods for Measuring the Parameters of Semiconductor Materials] (Moscow: Vysshaya Shkola: 1987) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Гинье, Рентгенография кристаллов (Москва: Гос. изд-во физ.-мат. литературы: 1995).",
+				"tr":  "A. Guinier, Rentgenografiya Kristallov (Moscow: Gos. Izd-vo Fiz.-Mat. Lit.: 1995) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Г. Баннов, С. М. Шиловская, 17 Междунар. науч.-практ. конф. студентов, аспирантов и молодых ученых «Современные техника и технологии» (18–22 апреля, 2011, Томск).",
+				"tr":  "A. G. Bannov and S. M. Shilovskaya, 17 Mezhdunarodnaya Nauchno-Prakticheskaya Konferentsiya Studentov, Aspirantov i Molodykh Uchenykh 'Sovremennye Tekhnika i Tekhnologii' (18–22 April, 2011, Tomsk) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Ю. Тарасевич, Перколяция: теория, приложения, алгоритмы (Москва: Едиториал УРСС: 2002).",
+				"tr":  "Yu. Yu. Tarasevich, Perkolyatsiya: Teoriya, Prilozheniya, Algoritmy [Percolation: Theory, Application, Algorithms] (Moscow: Editorial URSS: 2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. А. Лущейкин Методы исследования электрических свойств полимеров (Москва: Химия: 1988).",
+				"tr":  "G. A. Lushcheykin, Metody Issledovaniya Elektricheskikh Svoystv Polimerov [Methods for Studying the Electrical Properties of Polymers] (Moscow: Khimiya: 1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Магеррамов, М. А. Нуриев, И. А. Велиев, С. И. Сафарова, Электронная обработка материалов, 46, № 2: 92 (2010).",
+				"tr":  "A. M. Magerramov, M. A. Nuriev, I. A. Veliev, and S. I. Safarova, Elektronnaya Obrabotka Materialov [Electronic Processing of Materials], 46, No. 2: 92 (2010) (in Russian)."
+			}
+		]
+	}
+}

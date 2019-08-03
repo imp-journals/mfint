@@ -1,0 +1,105 @@
+{
+	"_id":    "MFiNT.36.10.1327",
+	"year":   2014,
+	"volume": 36,
+	"issue":  10,
+	"pages":  [1327,1342],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["10.04.2014"],
+	"PACS":   "61.05.cp, 62.20.Qp, 64.70.kd, 64.75.Nx, 68.35.Dv, 68.37.Hk, 68.70.+w",
+	"title":   {
+		"ua": "Дослідження структури та розподілу хімічних елементів в литих високоентропійних стопах системи Al$_{x}$FeNiCoCuCr",
+		"en": "Study of Structure and Distribution of Chemical Elements in Cast High-Entropy Alloys of Al$_{x}$FeNiCoCuCr System",
+		"ru": "Исследования структуры и распределения химических элементов в литых высокоэнтропийных сплавах системы Al$_{x}$FeNiCoCuCr"
+	},
+	"abstract": {
+		"ua": "Представлено результати досліджень структури і розподілу хімічних елементів у високоентропійних стопах (ВЕС) системи Al$_{x}$FeNiCoCuCr (х = 1, 1,5, 1,8) в литому стані. Дослідження виконано методами рентґеноструктурного, металографічного й електронно-мікроскопічного аналізів з використанням можливостей енергодисперсійного аналізу елементів. Механічні властивості визначали мірянням твердости та мікротвердости. Встановлено, що ВЕС складаються з ОЦК- і ГЦК-фаз, причому стоп з еквіатомовим складом містить дві ГЦК-фази з підвищеним вмістом міді, що відрізняються параметром кристалічної ґратниці. Виявлено неоднорідний розподіл Cu між дендритами та іншими фазами при відносно однорідному розподілі інших хімічних елементів. Показано, що формування структури в різних зонах по перетину зливка і її перехід від зеренної до дендритної залежать від швидкости його охолодження, яка визначається ступенем віддалення від поверхні, що контактує з подиною. Виявлено, що у ВЕС дисперсність структурних елементів збільшується зі зростанням вмісту алюмінію. Показано, що в збідненому за міддю твердому розчині (всередині зерен і дендритів) при охолодженні відбувається розпад з утворенням упорядкованих дисперсних виділень пластинчастої форми.",
+		"en": "The results of the study of the structure and distribution of chemical elements in high-entropy alloys (HEA) of Al$_{x}$FeNiCoCuCr system (x = 1, 1.5, 1.8) are presented. Investigations are carried out by X-ray, metallographic, and electron microscopy analyses using capabilities of the energy dispersive analysis. Mechanical properties are determined by the hardness and microhardness measurements. As found, the HEA consist of b.c.c. and f.c.c. phases. Furthermore, the alloy with equiatomic composition contains two f.c.c. phases with high copper content and different lattice parameters. Inhomogeneous distribution of Cu is found between dendrites and other phases at a relatively homogeneous distribution of other chemical elements. As shown, both the formation of structure in different areas of ingot section and the transition from grain structure to dendritic one depend on the cooling rate determined by the distance from contact surface of a hearth. As revealed, the dispersion of structural elements of the HEA increases with aluminium content growing. As shown, at the cooling, the decomposition of copper-depleted solid solution (inside the grains and dendrites) is accompanied by formation of ordered disperse precipitates of lamellar shape.",
+		"ru": "Приведены результаты изучения структуры и распределения химических элементов в высокоэнтропийных сплавах (ВЭС) системы Al$_{x}$FeNiCoCuCr (х = 1, 1,5, 1,8) в литом состоянии. Исследования выполнены методами рентгеноструктурного, металлографического и электронно-микроскопического анализов с использованием энергодисперсионного анализа элементов. Механические свойства определяли измерением твёрдости и микротвёрдости. Установлено, что ВЭС содержат ОЦК- и ГЦК-фазы, причём сплав с эквиатомным составом содержит две ГЦК-фазы с повышенным содержанием меди, отличающиеся параметром кристаллической решётки. Обнаружено неоднородное распределение атомов Cu между дендритами и остальными фазами при относительно однородном распределении других химических элементов. Показано, что формирование структуры в разных зонах по сечению слитка и её переход от зёренной к дендритной зависят от скорости охлаждения слитка, определяемой степенью удаления от контактирующей с подиной поверхности. Выявлено, что в ВЭС дисперсность структурных элементов увеличивается с ростом содержания алюминия. Показано, что в обеднённом по меди твёрдом растворе (внутри зёрен и дендритов) при охлаждении происходит распад с образованием упорядоченных дисперсных выделений пластинчатой формы."
+	},
+	"keywords": {
+		"ua": "структура, твердість, дендрити, високоентропійний стоп, електронна мікроскопія",
+		"en": "structure, hardness, dendrite, high-entropy alloy, electron microscopy",
+		"ru": "структура, твёрдость, дендриты, высокоэнтропийный сплав, электронная микроскопия"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. М. Надутов", "en": "V. M. Nadutov", "ru": "В. М. Надутов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. Ю. Макаренко", "en": "S. Yu. Makarenko", "ru": "С. Ю. Макаренко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "П. Ю. Волосевич", "en": "P. Yu. Volosevych", "ru": "П. Ю. Волосевич"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. П. Залуцький", "en": "V. P. Zalutskii", "ru": "В. П. Залуцкий"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 11,
+		"list":  [
+			{
+				"doi": "10.1002/adem.200300567",
+				"or":  "J.-W. Yeh, S.-K. Chen, S.-J. Lin, J.-Y. Gan, T.-S. Chin, T.-T. Shun, C.-H. Tsau, and S.-Y. Chang, Adv. Eng. Mater., 6: 299 (2004).",
+				"tr":  "J.-W. Yeh, S.-K. Chen, S.-J. Lin, J.-Y. Gan, T.-S. Chin, T.-T. Shun, C.-H. Tsau, and S.-Y. Chang, Adv. Eng. Mater., 6: 299 (2004)."
+			},
+			{
+				"doi": "10.1007/s11661-005-0283-0",
+				"or":  "Ch.-J. Tong, Yu-L. Chen, S.-K. Chen, J. W. Yeh, T.-T. Shun, Ch.-H. Tsau, S.-J.Lin, and Sh.-Yu Chang, Metall. Mater. Trans. A, 36: 881 (2005).",
+				"tr":  "Ch.-J. Tong, Yu-L. Chen, S.-K. Chen, J. W. Yeh, T.-T. Shun, Ch.-H. Tsau, S.-J.Lin, and Sh.-Yu Chang, Metall. Mater. Trans. A, 36: 881 (2005)."
+			},
+			{
+				"doi": "10.1016/j.matlet.2006.03.140",
+				"or":  "Ch.-Ch. Tung, J.-W. Yeh, T.-Т. Shun, S.-K. Chen, Yu.-Sh. Huang, and H.-Ch. Chen, Mater. Lett., 61: 1 (2007).",
+				"tr":  "Ch.-Ch. Tung, J.-W. Yeh, T.-T. Shun, S.-K. Chen, Yu.-Sh. Huang, and H.-Ch. Chen, Mater. Lett., 61: 1 (2007)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2010.09.023",
+				"or":  "S. Singh, N. Wanderka, B. S. Murty, U. Glatzel, and J. Banhart, Acta Mater., 59: 182 (2011).",
+				"tr":  "S. Singh, N. Wanderka, B. S. Murty, U. Glatzel, and J. Banhart, Acta Mater., 59: 182 (2011)."
+			},
+			{
+				"doi": "10.7868/S0015323013060065",
+				"or":  "М. В. Ивченко, В. Г. Пушин, А. Н. Уксусников, N. Wanderka, Физ. мет. металловед., 114, № 6: 561 (2013).",
+				"tr":  "M. V. Ivchenko, V. G. Pushin, A. N. Uksusnikov, and N. Wanderka, Fiz. Met. Metalloved., 114, No. 6: 561 (2013) (in Russian)."
+			},
+			{
+				"doi": "10.7868/S0015323013060053",
+				"or":  "М. В. Ивченко, В. Г. Пушин, А. Н. Уксусников, N. Wanderka, Н. И. Коуров, Физ. мет. металловед., 114, № 6: 549 (2013).",
+				"tr":  "M. V. Ivchenko, V. G. Pushin, A. N. Uksusnikov, N. Wanderka, and N. I. Kourov, Fiz. Met. Metalloved., 114, No. 6: 549 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Измерение микротвёрдости вдавливанием алмазными наконечниками: ГОСТ 9450-76 (Москва: Издательство стандартов: 1993).",
+				"tr":  "Izmerenie Mikrotverdosti Vdavlivaniem Almaznymi Nakonechnikami (Measurement of Microhardness by Diamond Indentors' Indentation): GOST 9450-76 (Moscow: Izdatel'stvo Standartov: 1993) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Е. Вол, Строение и свойства двойных металлических систем (Москва: Государственное издательство физико-математической литературы: 1959), т. 1.",
+				"tr":  "A. E. Vol, Stroenie i Svoystva Dvoynykh Metallicheskikh Sistem (Structure and Properties of Binary Metal Systems) (Moscow: Gosudarstvennoe Izdatel'stvo Fiziko-Matematicheskoy Literatury: 1959), vol. 1 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. Е. Дриц, Н. Р. Бочвар, Л. С. Гузей, Двойные и многокомпонентные системы на основе меди: Справочник (Москва: Наука: 1979).",
+				"tr":  "M. E. Drits, N. R. Bochvar, and L. S. Guzey, Dvoynye i Mnogokomponentnye Sistemy na Osnove Medi: Spravochnik (Binary and Multicomponent Systems Based on Copper: Reference Book) (Moscow: Nauka: 1979) (in Russian)."
+			},
+			{
+				"doi": "10.1007/s11661-005-0218-9",
+				"or":  "Ch.-J. Tong, Yu-L. Chen, S.-K. Chen, J.-W. Yeh, T.-T. Shun, Ch.-H. Tsau, Su-J. Lin, and Sh.-Yu Chang, Metall. Mater. Trans. A, 36: 1263 (2005).",
+				"tr":  "Ch.-J. Tong, Yu-L. Chen, S.-K. Chen, J.-W. Yeh, T.-T. Shun, Ch.-H. Tsau, Su-J. Lin, and Sh.-Yu Chang, Metall. Mater. Trans. A, 36: 1263 (2005)."
+			},
+			{
+				"doi": "10.1016/j.wear.2005.12.008",
+				"or":  "J.-M. Wu, Su-J. Lin, J.-W. Yeh, S.-K. Chen, Yu.-Sh. Huang, and H.-Ch. Chen, Wear, 261: 513 (2006).",
+				"tr":  "J.-M. Wu, Su-J. Lin, J.-W. Yeh, S.-K. Chen, Yu.-Sh. Huang, and H.-Ch. Chen, Wear, 261: 513 (2006)."
+			}
+		]
+	}
+}

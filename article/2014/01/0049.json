@@ -1,0 +1,107 @@
+{
+	"_id":    "MFiNT.36.01.0049",
+	"year":   2014,
+	"volume": 36,
+	"issue":  1,
+	"pages":  [49,62],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["23.10.2013"],
+	"PACS":   "61.05.cp, 64.60.My, 64.70.Nd, 68.55.jm, 81.07.Bc, 81.15.Cd",
+	"title":   {
+		"ua": "Вплив складу квазибінарного перерізу системи Ti-W-C на фазоутворення, структуру і субструктуру отриманих на її основі йонно-плазмових наноструктурних покриттів",
+		"en": "Influence of Composition of Quasi-Binary Section of Ti—W—C System on Phase Formation, Structure, and Substructure of the Ion—Plasma Nanostructured Coatings Fabricated on Its Base",
+		"ru": "Влияние состава квазибинарного сечения системы Ti—W—C на фазообразование, структуру и субструктуру полученных на её основе ионно-плазменных наноструктурных покрытий"
+	},
+	"abstract": {
+		"ua": "Вивчено закономірності формування фазового складу, структури й субструктури в покриттях квазибінарного перерізу системи Ti—W—C, одержаних у нерівноважних умовах з йонно-плазмових потоків. Показано, що використання в якості складових квазибінарної системи фаз з різною теплотою утворення (TiC з відносно великою теплотою утворення 183,8 кДж/моль та WC з відносно низькою теплотою утворення 37,7 кДж/моль) уможливлює змінювати фазовий склад від монокарбіду, стабільного до високих температур, до багатофазного стану з фаз нижчих карбідів. Збільшення температури підложжя при осаджуванні призводить до анізотропного росту кристалітів з переважним ростом у напрямку падіння частинок. З підвищенням вмісту TiC-складової з високою енергією зв’язку середній розмір кристалітів збільшується. В той же час великий вміст WC-складової уможливлює перевести структурний стан матеріялу на нанорівень з розміром кристалітів у 4—20 нм.",
+		"en": "Regularities of phase composition, structure, and substructure in coatings of quasi-binary Ti—W—C system fabricated in non-equilibrium conditions from ion and plasma flows are studied. As shown, if phases with different warmth of formation (TiC with rather high warmth of formation 183.8 kJ/mol and WC with rather low warmth of formation of 37.7 kJ/mol) are used as components of quasi-binary system, then it makes possible to change phase structure from monocarbide stable to high temperatures to a multiphase state, which consists of phases of the lowest carbides. The increase of substrate temperature during deposition leads to the anisotropic growth of crystallites with prior growth along the direction of particles falling. With increase of TiC content with high binding energy, the average size of crystallites increases. At the same time, the high WC content allows to transfer a structural condition of a material to a nanolevel with a size of crystallites of 4—20 nanometers.",
+		"ru": "Изучены закономерности формирования фазового состава, структуры и субструктуры в покрытиях квазибинарного сечения системы Ti—W—C, полученных в неравновесных условиях из ионно-плазменных потоков. Показано, что использование в качестве составляющих квазибинарной системы фаз с разной теплотой образования (TiC с относительно большой теплотой образования 183,8 кДж/моль и WC со сравнительно низкой теплотой образования 37,7 кДж/моль) позволяет изменять фазовый состав от монокарбида, стабильного до высоких температур, до многофазного состояния из фаз низших карбидов. Увеличение температуры подложки при осаждении приводит к анизотропному росту кристаллитов с преимущественным ростом в направлении падения частиц. С повышением содержания TiC-составляющей с высокой энергией связи средний размер кристаллитов увеличивается. В то же время большое содержание WC-составляющей позволяет перевести структурное состояние материала на наноуровень с размером кристаллитов 4—20 нм."
+	},
+	"keywords": {
+		"ua": "йонно-плазмові покриття, нанокристалічні матеріали, рентгеноструктурний аналіз, квазибінарний перетин, система Ti—W—C, метастабільні фази, текстура",
+		"en": "ion-plasma coatings, nanocrystalline materials, X-ray analysis, qvasi-binary section, Ti—W—C system, metastable phases, texture",
+		"ru": "ионно-плазменные покрытия, нанокристаллические материалы, рентгеноструктурный анализ, квазибинарное сечение, система Ti—W—C, метастабильные фазы, текстура"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. В. Соболь", "en": "O. V. Sobol’", "ru": "О. В. Соболь"},
+			"OID": [216]
+		},
+		{
+			"AID": {"ua": "О. А. Шовкопляс", "en": "O. A. Shovkoplyas", "ru": "О. А. Шовкопляс"},
+			"OID": [208]
+		}
+	],
+	"references": {
+		"count": 13,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "﻿Г. В. Самсонов, Г. Ш. Упадхая, В. С. Нешпор, Физическое материаловедение карбидов (Киев: Наукова думка: 1974).",
+				"tr":  "G. V. Samsonov, G. Sh. Upadkhaya, and V. S. Neshpor, Fizicheskoe Materialovedenie Karbidov (Kiev: Naukova Dumka: 1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "І. Ф. Михайлов, О. М. Григор’єв, Ю. Г. Гогоці, А. Т. Пугачов, О. В. Соболь, З. І. Колупаева, Фундаментальні орієнтири науки (ФОН): Хімія та наукові основи перспективних технологій (Київ: Академперіодика: 2005), с. 327.",
+				"tr":  "I. F. Mykhaylov, O. M. Hryhor'yev, Yu. H. Hohotsi, A. T. Puhachov, O. V. Sobol', Z. I. Kolupaeva, Fundamental'ni Oriyentyry Nauky (FON): Khimiya ta Naukovi Osnovy Perspektyvnykh Tekhnolohiy (Kyiv: Akademperiodyka: 2005), p. 327 (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. С. Палатник, М. Я. Фукс, В. М. Косевич, Механизм образования и субструктура конденсированных пленок (Москва: Наука: 1972).",
+				"tr":  "L. S. Palatnik, M. Ya. Fuks, and V. M. Kosevich, Mekhanizm Obrazovaniya i Substruktura Kondensirovannykh Plenok (Moscow: Nauka: 1972) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.matlet.2004.04.036",
+				"or":  "J. E. Krzanowski and J. L. Endrino, Mater. Lett., 58, No. 5: 3437 (2004).",
+				"tr":  "J. E. Krzanowski and J. L. Endrino, Mater. Lett., 58, No. 5: 3437 (2004)."
+			},
+			{
+				"doi": "",
+				"or":  "L. I. Gladkikh, O. V. Sobol’, E. A. Sobol’, and A. A. Podteleznikov, Abstracts of Materials Research Society 2001 Fall Meeting (April 16–20, 2001) (San Francisco: MRS: 2001), р. 274.",
+				"tr":  "L. I. Gladkikh, O. V. Sobol', E. A. Sobol', and A. A. Podteleznikov, Abstracts of Materials Research Society 2001 Fall Meeting (April 16–20, 2001) (San Francisco: MRS: 2001), p. 274."
+			},
+			{
+				"doi": "10.1016/S0040-6090(99)00732-4",
+				"or":  "H. Romanus, V. Cimalla, J. A. Schaefer et al., Thin Solid Films, 359: 146 (2000).",
+				"tr":  "H. Romanus, V. Cimalla, J. A. Schaefer et al., Thin Solid Films, 359: 146 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "O. V. Sobol, E. A. Sobol, L. I. Gladkikh, and A. N. Gladkikh, Functional Materials, 9, No. 3: 486 (2002).",
+				"tr":  "O. V. Sobol, E. A. Sobol, L. I. Gladkikh, and A. N. Gladkikh, Functional Materials, 9, No. 3: 486 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. Б. Горбачева, Рентгенография твердых сплавов (Москва: Металлургия: 1986).",
+				"tr":  "T. B. Gorbacheva, Rentgenografiya Tvyordykh Splavov (Moscow: Metallurgiya: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. В. Самсонов, И. Ф. Прядко, Л. Ф. Прядко, Конфигурационная модель вещества (Киев: Наукова думка: 1971).",
+				"tr":  "G. V. Samsonov, I. F. Pryadko, L. F. Pryadko, Konfiguratsionnaya Model' Veshchestva (Kiev: Naukova Dumka: 1971) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "O. V. Sobol’, Functional Materials, 14, No. 4: 436 (2007).",
+				"tr":  "O. V. Sobol', Functional Materials, 14, No. 4: 436 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "O. V. Sobol’, E. A. Sobol’, A. A. Podtelezhnikov, and S. T. Roshchenko, Functional Materials, 7, No. 2: 305 (2000).",
+				"tr":  "O. V. Sobol', E. A. Sobol', A. A. Podtelezhnikov, and S. T. Roshchenko, Functional Materials, 7, No. 2: 305 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "О. В. Соболь, А. А. Андреев, С. Н. Григорьев и др., Металлофиз. новейшие технол., 35, № 4: 943 (2013).",
+				"tr":  "O. V. Sobol', A. A. Andreev, S. N. Grigor'ev et al., Metallofiz. Noveishie Tekhnol., 35, No. 4: 943 (2013) (in Russian)."
+			},
+			{
+				"doi": "10.1134/S1063785013060126",
+				"or":  "O. V. Sobol’ and O. A. Shovkoplyas, Tech. Phys. Lett., 39, No. 6: 536 (2013).",
+				"tr":  "O. V. Sobol' and O. A. Shovkoplyas, Tech. Phys. Lett., 39, No. 6: 536 (2013)."
+			}
+		]
+	}
+}

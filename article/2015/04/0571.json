@@ -1,0 +1,53 @@
+{
+	"_id":    "MFiNT.37.0571",
+	"year":   2015,
+	"volume": 37,
+	"issue":  4,
+	"pages":  [571,579],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["09.11.2014","08.12.2014"],
+	"PACS":   "61.72.Ff, 61.72.Hh, 61.72.Mm, 62.20.F-, 62.23.St, 81.20.Hy, 83.50.Uv",
+	"title":  {
+		"ua": "Структурна модифікація алюмінієвого сплаву АД-1 методом холодної прокатки з зсувом",
+		"en": "Structural Modification of AD-1 Aluminium Alloy by the Method of Cold Rolling with Shift",
+		"ru": "Структурная модификация алюминиевого сплава АД-1 методом холодной прокатки со сдвигом"
+	},
+	"abstract": {
+		"ua": "Розвинуто методу вальцювання зі зсувом у калібрах з гребінчастою поверхнею для смуги, що уможливлює створити умови інтенсивної деформації в оброблюваному алюмінійовому стопі АД-1. Метода забезпечує формування структурного стану з реґульованою часткою наноструктури. Показано, що вальцювання зі зсувом спричиняє інтенсивну фраґментацію структури і зниження анізотропії властивостей матеріялу в різних перетинах заготівки в порівнянні з прокаткою за стандартною технологією.",
+		"en": "The method of rolling with shift in comb-shaped calibres for a bar is developed in order to create the conditions of severe deformation in the processed AD-1 aluminium alloy. The method provides formation of a structural state with the controlled fraction of nanostructure. As shown, the rolling with shift results in intensive fragmentation of the structure and reduction of the anisotropy of the material properties in different sections of the billet, as compared to the conventional rolling.",
+		"ru": "Развит метод прокатки со сдвигом в калибрах с гребенчатой поверхностью для полосы, что позволяет создать условия интенсивной деформации в обрабатываемом алюминиевом сплаве АД-1. Метод обеспечивает формирование структурного состояния с регулируемой долей наноструктуры. Показано, что прокатка со сдвигом приводит к интенсивной фрагментации структуры и снижению анизотропии свойств материала в разных сечениях заготовки в сравнении с прокаткой по стандартной технологии."
+	},
+	"keywords": {
+		"ua": "структура, анізотропія, інтенсивна пластична деформація, прокатка, ДВЕ-аналіз, алюмінієвий сплав",
+		"en": "structure, anisotropy, severe plastic deformation, rolling, EBSD-analysis, aluminium alloy",
+		"ru": "структура, анизотропия, интенсивная пластическая деформация, прокатка, ДОЭ-анализ, алюминиевый сплав"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. М. Варюхін", "en": "V. M. Varyukhin", "ru": "В. Н. Варюхин"},
+			"OID": [8]
+		},
+		{
+			"AID": {"ua": "О. Г. Пашинська", "en": "O. G. Pashinska", "ru": "Е. Г. Пашинская"},
+			"OID": [8]
+		},
+		{
+			"AID": {"ua": "В. М. Ткаченко", "en": "V. M. Tkachenko", "ru": "В. М. Ткаченко"},
+			"OID": [8]
+		},
+		{
+			"AID": {"ua": "В. В. Бурховецький", "en": "V. V. Burkhovetskii", "ru": "В. В. Бурховецкий"},
+			"OID": [8]
+		},
+		{
+			"AID": {"ua": "А. В. Завдовєєв", "en": "A. V. Zavdoveev", "ru": "А. В. Завдовеев"},
+			"OID": [8]
+		}
+	],
+	"references": {
+		"count": 21,
+		"list":  []
+	}
+}

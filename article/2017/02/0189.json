@@ -1,0 +1,173 @@
+{
+	"_id":    "MFiNT.39.02.0189",
+	"year":   2017,
+	"volume": 39,
+	"issue":  2,
+	"pages":  [189,208],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["06.07.2016", "24.01.2017"],
+	"PACS":   "43.35.+d, 61.05.C-, 62.20.M-, 62.20.Qp, 62.65.+k, 68.37.Lp, 81.40.Np",
+	"title":   {
+		"ua": "Структура і властивості сталі 20ГЛ після електроіскрового леґування ніклем і молібденом та ультразвукового ударного оброблення",
+		"en": "Structure and Properties of the 20GL Steel After Electric-Spark Alloying with Nickel and Molybdenum and Ultrasonic Impact Treatment",
+		"ru": "Структура и свойства стали 20ГЛ после электроискрового легирования никелем и молибденом и ультразвуковой ударной обработки"
+	},
+	"abstract": {
+		"ua": "Показано можливість підвищення механічних властивостей сталі 20ГЛ за рахунок електроіскрового леґування (ЕІЛ) ніклевою або молібденовою електродами її поверхні та багаточинникового позитивного впливу фінішного ультразвукового ударного оброблення (УЗУО). Показано, що окремо застосоване УЗУО веде до зростання мікротвердости та підвищення втомної міцности сталі 20ГЛ на базі 10$^{6}$ циклів за умов амплітудних циклічних навантажень у межах 360–400 МПа. Поверхневий шар після ЕІЛ молібденом демонструє вдвічі вищу мікротвердість, ніж вихідний і леґований ніклем зразки сталі 20ГЛ, що пов’язано з твердорозчинним зміцненням і багатофазністю модифікованого молібденом шару. Фінішне УЗУО модифікованих ЕІЛ шарів підвищує втомну довговічність сталі 20ГЛ, насамперед, за рахунок зниження шерсткости, формування залишкових макронапружень стиснення та створення дрібних дислокаційних комірчастих структур. При цьому збільшення числа мікроструктурних концентраторів і зменшення їхньої потужности знижує ймовірність локалізації деформації та раннього зародження втомних тріщин.",
+		"en": "The possibility for increasing the mechanical properties of the 20 GL steel by electric-spark alloying (ESA) using nickel or molybdenum electrodes and by the multifactor positive influence of surface finishing by means of ultrasonic impact treatment (UIT) is demonstrated. The separately applied UIT leads to increase in microhardness and fatigue strength of the 20 GL steel on the base of 10$^{6}$ cycles under amplitude of cyclic loads ranged within 360–400 MPa. The surface layer after ESA with molybdenum shows twice-higher microhardness than those of the original and nickel-alloyed steel samples that is due to the solid-solution hardening and multiphase state of the molybdenum-modified layer. The finishing UIT applied to the ESA-modified layers increases the fatigue durability of the 20 GL steel because of the roughness reduction (lowering the superficial stress raisers), the formation of residual compressive macrostresses, and the creation of dislocation-cell structures (increasing the number of microstructural stress raisers). Both factors lead to the reduction in probability of both the strain localization and the early nucleation of fatigue cracks.",
+		"ru": "Показана возможность повышения механических свойств стали 20ГЛ за счёт электроискрового легирования (ЭИЛ) никелевым или молибденовым электродами её поверхности и многофакторного положительного влияния финишной ультразвуковой ударной обработки (УЗУО). Показано, что отдельно применённая УЗУО ведёт к росту микротвёрдости и повышению усталостной прочности стали 20ГЛ на базе 10$^{6}$ циклов в условиях амплитудных циклических нагрузок в пределах 360–400 МПа. Поверхностный слой после ЭИЛ молибденом демонстрирует микротвёрдость вдвое выше, чем исходный и легированный никелем образцы стали 20ГЛ, что связано с твёрдорастворным упрочнением и многофазностью модифицированного молибденом слоя. Финишная УЗУО модифицированных ЭИЛ слоёв повышает усталостную долговечность стали 20ГЛ, прежде всего, за счёт снижения шероховатости, формирования остаточных макронапряжений сжатия и создания мелких дислокационных ячеистых структур. При этом увеличение числа микроструктурных концентраторов и уменьшение их мощности снижает вероятность локализации деформации и раннего зарождения усталостных трещин."
+	},
+	"keywords": {
+		"ua": "ультразвукове ударне оброблення, електроіскрове леґування, комірчаста структура, утворення фаз, мікротвердість, втомна довговічність",
+		"en": "ultrasonic impact treatment, electro-spark alloying, dislocation-cell structure, fatigue durability",
+		"ru": "ультразвуковая ударная обработка, электроискровое легирование, ячеистая структура, образование фаз, микротвёрдость, усталостная долговечность"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Г. І. Прокопенко", "en": "G. I. Prokopenko", "ru": "Г. И. Прокопенко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Б. М. Мордюк", "en": "B. M. Mordyuk", "ru": "Б. Н. Мордюк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "П. Ю. Волосевич", "en": "P. Yu. Volosevych", "ru": "П. Ю. Волосевич"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. П. Ворона", "en": "S. P. Vorona", "ru": "С. П. Ворона"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Т. В. Попова", "en": "T. V. Popova", "ru": "Т. В. Попова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Н. О. Піскун", "en": "N. O. Piskun", "ru": "Н. А. Пискун"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 23,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "М. А. Балтер, Упрочнение деталей машин (Москва: Машиностроение: 1978).",
+				"tr":  "M. A. Balter, Uprochnenie Detaley Mashin [Strengthening of Machine Details] (Moscow: Mashinostroenie: 1978) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.jsv.2007.03.054",
+				"or":  "B. N. Mordyuk and G. I. Prokopenko, J. Sound Vibrations, 308: 855 (2007).",
+				"tr":  "B. N. Mordyuk and G. I. Prokopenko, J. Sound Vibrations, 308: 855 (2007)."
+			},
+			{
+				"doi": "10.1002/9783527674947.ch17",
+				"or":  "B. N. Mordyuk and G. I. Prokopenko, Ultrasonic Impact Treatment—an Effective Method for Nanostructuring the Surface Layers of Metallic Materials. In: Handbook of Mechanical Nanostructuring (Weinheim: Wiley-VCH: 2015), p. 417.",
+				"tr":  "B. N. Mordyuk and G. I. Prokopenko, Ultrasonic Impact Treatment—an Effective Method for Nanostructuring the Surface Layers of Metallic Materials. In: Handbook of Mechanical Nanostructuring (Weinheim: Wiley-VCH: 2015), p. 417."
+			},
+			{
+				"doi": "10.1007/s11003-012-9434-9",
+				"or":  "І. М. Андрейко, В. В. Кулик, О. П. Осташ, Фіз.-хім. механіка матеріалів, 47, № 5: 35 (2011).",
+				"tr":  "I. M. Andreiko, V. V. Kulyk, and O. P. Ostash, Mater. Sci., 47: 608 (2012)."
+			},
+			{
+				"doi": "10.1016/S0040-6090(99)00672-0",
+				"or":  "G. Contreras, C. Fajardo, J. A. Berríos, A. Pertuz, J. Chitty, H. Hintermann, and E. S. Puchi, Thin Solid Films, 355–356: 480 (1999).",
+				"tr":  "G. Contreras, C. Fajardo, J. A. Berríos, A. Pertuz, J. Chitty, H. Hintermann, and E. S. Puchi, Thin Solid Films, 355–356: 480 (1999)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2014.10.049",
+				"or":  "N. Michailidis, F. Stergioudi, G. Maliaris, and A. Tsouknidas, Surf. Coat. Technol., 259: 456 (2014).",
+				"tr":  "N. Michailidis, F. Stergioudi, G. Maliaris, and A. Tsouknidas, Surf. Coat. Technol., 259: 456 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "Т. Ю. Яковлева, Локальная пластическая деформация и усталость металлов (Киев: Наукова думка: 2003).",
+				"tr":  "T. Yu. Yakovleva, Lokal'naya Plasticheskaya Deformatsiya i Ustalost' Metallov [Local Plastic Deformation and Fatigue of Metals] (Kiev: Naukova Dumka: 2003) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.ijfatigue.2012.09.018",
+				"or":  "M. El May, T. Palin-Luc, N. Saintier, and O. Devos, Int. J. Fatigue, 47: 330 (2013).",
+				"tr":  "M. El May, T. Palin-Luc, N. Saintier, and O. Devos, Int. J. Fatigue, 47: 330 (2013)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2008.12.022",
+				"or":  "M. Korzynski, A. Pacana, and J. Cwanek, Surf. Coat. Technol., 203: 1670 (2009).",
+				"tr":  "M. Korzynski, A. Pacana, and J. Cwanek, Surf. Coat. Technol., 203: 1670 (2009)."
+			},
+			{
+				"doi": "10.1016/j.proeng.2010.03.174",
+				"or":  "R. G. Bonora, H. J. C. Voorwald, M. O. H. Cioffi, G. S. Junior, and L. F. V. Santos, Procedia Eng., 2: 1617 (2010).",
+				"tr":  "R. G. Bonora, H. J. C. Voorwald, M. O. H. Cioffi, G. S. Junior, and L. F. V. Santos, Procedia Eng., 2: 1617 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Б. Лурье, Я. И. Штейнберг, Упрочняюще-отделочная обработка рабочих поверхностей деталей машин поверхностным пластическим деформированием (Москва: Машиностроение: 1971).",
+				"tr":  "G. B. Lurie and Ya. I. Shteinberg, Uprochnyayushche-Otdelochnaya Obrabotka Rabochikh Poverkhnostey Detaley Mashin Poverkhnostnym Plasticheskim Deformirovaniem (Moscow: Mashinostroenie: 1971) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.msea.2006.07.119",
+				"or":  "B. N. Mordyuk and G. I. Prokopenko, Mater. Sci. Eng. A, 437: 396 (2006).",
+				"tr":  "B. N. Mordyuk and G. I. Prokopenko, Mater. Sci. Eng. A, 437: 396 (2006)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2015.07.049",
+				"or":  "D. A. Lesyk, S. Martinez, V. V. Dzhemelinskiy, А. Lamikiz, B. N. Mordyuk, and G. I. Prokopenko, Surf. Coat. Technol., 278: 108 (2015).",
+				"tr":  "D. A. Lesyk, S. Martinez, V. V. Dzhemelinskiy, A. Lamikiz, B. N. Mordyuk, and G. I. Prokopenko, Surf. Coat. Technol., 278: 108 (2015)."
+			},
+			{
+				"doi": "10.1016/j.msea.2016.02.036",
+				"or":  "B. N. Mordyuk, G. I. Prokopenko, P. Yu. Volosevich, L. E. Matokhnyuk, A. V. Byalonovich, and T. V. Popova, Mater. Sci. Eng. A, 659: 119 (2016).",
+				"tr":  "B. N. Mordyuk, G. I. Prokopenko, P. Yu. Volosevich, L. E. Matokhnyuk, A. V. Byalonovich, and T. V. Popova, Mater. Sci. Eng. A, 659: 119 (2016)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. В. Тихонов, В. А. Кононенко, Г. И. Прокопенко, В. А. Рафаловский, Механические свойства металлов и сплавов: Справочник (Киев: Наукова думка: 1986).",
+				"tr":  "L. V. Tikhonov, V. A. Kononenko, G. I. Prokopenko, and V. A. Rafalovsky, Mekhanicheskie Svoystva Metallov i Splavov: Spravochnik [Mechanical Properties of Metals and Alloys: Handbook] (Kiev: Naukova Dumka: 1986) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Binary Alloy Phase Diagrams (Eds. T. B. Massalski, H. Okamoto, P. R. Subramanian, and L. Kacprzak) (Materials Park, OH: ASM International: 1990).",
+				"tr":  "Binary Alloy Phase Diagrams (Eds. T. B. Massalski, H. Okamoto, P. R. Subramanian, and L. Kacprzak) (Materials Park, OH: ASM International: 1990)."
+			},
+			{
+				"doi": "10.1007/s11106-010-9206-8",
+				"or":  "T. A. Velikanova, M. V. Karpets, V. V. Kuprin, and M. A. Turchanin, Powder Metallurgy and Metal Ceramics, 49, Nos. 1–2: 86 (2010).",
+				"tr":  "T. A. Velikanova, M. V. Karpets, V. V. Kuprin, and M. A. Turchanin, Powder Metallurgy and Metal Ceramics, 49, Nos. 1–2: 86 (2010)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2014.05.030",
+				"or":  "V. B. Rajkumar and K. C. Hari Kumar, J. Alloys Compd., 611: 303 (2014).",
+				"tr":  "V. B. Rajkumar and K. C. Hari Kumar, J. Alloys Compd., 611: 303 (2014)."
+			},
+			{
+				"doi": "10.1016/j.intermet.2011.10.019",
+				"or":  "P. Galimberti, S. Lay, and A. Antoni-Zdziobek, Intermetallics, 22: 33 (2012).",
+				"tr":  "P. Galimberti, S. Lay, and A. Antoni-Zdziobek, Intermetallics, 22: 33 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. И. Прокопенко, Б. Н. Мордюк, В. В. Кныш, С. А. Соловей, Т. В. Попова, Техническая диагностика и неразрушающий контроль, № 3: 34 (2014).",
+				"tr":  "G. I. Prokopenko, B. N. Mordyuk, V. V. Knysh, S. A. Solovey, and T. V. Popova, Tekhnicheskaya Diagnostika i Nerazrushayushchiy Kontrol, No. 3: 34 (2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Ф. Терентьев, Усталость металлических материалов (Москва: Наука: 2003).",
+				"tr":  "V. F. Terentiev, Ustalost' Metallicheskikh Materialov [Fatigue of Metallic Materials] (Moscow: Nauka: 2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Г. Прокопенко, Б. Мордюк, В. Мазанко, О. Карасевська, Т. Попова, Вісник Тернопільського національного технічного університету, № 3 (71): 170 (2013).",
+				"tr":  "G. Prokopenko, B. Mordyuk, V. Mazanko, O. Karasevska, and T. Popova, Visnyk Ternopil'skogo Natsional'nogo Tekhnichnogo Universytetu, No. 3: 170 (2013) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/ufm.12.03.367",
+				"or":  "П. Ю. Волосевич, Успехи физики металлов, 12: 367 (2011).",
+				"tr":  "P. Yu. Volosevych, Uspehi Fiziki Metallov, 12: 367 (2011) (in Russian)."
+			}
+		]
+	}
+}

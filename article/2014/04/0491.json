@@ -1,0 +1,143 @@
+{
+	"_id":    "MFiNT.36.04.0491",
+	"year":   2014,
+	"volume": 36,
+	"issue":  4,
+	"pages":  [491,508],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["21.11.2013", "28.11.2013"],
+	"PACS":   "33.20.Fb, 61.05.cp, 61.20.Qg, 68.37.-d, 81.05.Je, 82.45.Hk",
+	"title":   {
+		"ua": "Електрохімічний синтез композиційних матеріалів на основі нанорозмірних порошків карбідів вольфраму з сольових розтопів",
+		"en": "Electrochemical Synthesis of Composite Materials Based on the Nanoscale Powders of Tungsten Carbides in Salt Melt",
+		"ru": "Электрохимический синтез композиционных материалов на основе наноразмерных порошков карбидов вольфрама из солевых расплавов"
+	},
+	"abstract": {
+		"ua": "Методом циклічної вольтамперометрії досліджено особливості парціального та сукупного електровиділення вольфраму і вуглецю на платиновому та скловуглецевому катодах у хлоридно-оксидному розтопі NaCl—KCl—Na$_{2}$WO$_{4}$—NaPO$_{3}$—CO$_{2}$. Визначено області потенціалів, густини струму і співвідношення компонентів ванни для високотемпературного електрохімічного синтезу композиційних порошкових сумішей на основі карбідів вольфраму WC і W$_{2}$C з вуглецевими наноматеріалами (ВНМ), однофазних порошків моно- і напівкарбідів вольфраму. Вивчено склад та фізико-хімічні властивості, структурні і морфологічні особливості карбідних продуктів методами хімічного, БЕТ- та РФ-аналізів, СЕМ, ПЕМ, КРС-, РФ- та Оже-спектроскопії. Дослідження показали, що електролітичним методом можливо одержувати композиційні суміші нанорозмірних порошків карбідів вольфраму WC і W$_{2}$C з ВНМ різного складу, нановолокна та нанострижні гексагонального $\\alpha$-WC (діаметр 25—200 нм, довжина до 10 мкм) з питомою поверхнею до 40 м$^{2}$/г. Вони можуть бути використані як електродний матеріал для різних задач електрокаталізу.",
+		"en": "The features of the partial and joint electrodeposition of tungsten and carbon are studied at the platinum and glassy-carbon cathodes in NaCl—KCl—Na$_{2}$WO$_{4}$—NaPO$_{3}$—CO$_{2}$ chloride—oxide melt by the method of cyclic voltammetry. The fields of potentials, current densities and ratio of bath components are determined for the high-temperature electrochemical synthesis of composite powder mixtures on the base of tungsten carbides (WC and W$_{2}$C) with carbon nanomaterials (CNM), and single-phase powders of WC and W$_{2}$C. Physical and chemical properties, structural and morphological features of carbide products are studied by the methods of chemical analysis, XRD, SEM, TEM, BET, and Raman spectroscopy. Investigations show that it is possible to produce by the electrolytic method the composition mixtures of nanosize powders of tungsten carbides (WC and W$_{2}$C) with CNM of different composition, of hexagonal $\\alpha$-WC nanofibres and nanorods (of 25—200 nm in diameter and about 10 $\\mu$m in length) with the specific surface of about 40 m$^{2}$/g, which can be used as electrode materials for the different purposes of electrocatalysis.",
+		"ru": "Методом циклической вольтамперометрии исследованы особенности парциального и совместного электровыделения вольфрама и углерода на платиновом и стеклоуглеродном катодах в хлоридно-оксидном расплаве NaCl—KCl—Na$_{2}$WO$_{4}$—NaPO$_{3}$—CO$_{2}$. Определены области потенциалов, плотностей тока и соотношения компонентов ванны для высокотемпературного электрохимического синтеза композиционных порошковых смесей на основе карбидов вольфрама WC и W$_{2}$C с углеродными наноматериалами (УНМ) и однофазных порошков моно- и полукарбидов вольфрама. Изучены составы и физико-химические свойства, структурные и морфологические особенности карбидных продуктов методами химического, БЭТ- и РФ- анализов, СЭМ, ПЭМ, КРС-, РФ- и Оже-спектроскопии. Исследования показали, что электролитическим методом можно получать композиционные смеси карбидов вольфрама WC и W$_{2}$C с УНМ разного состава, нановолокна и наностержни гексагонального $\\alpha$-WC (диаметр 25—200нм, длина до 10 мкм) с удельной поверхностью до 40 м$^{2}$/г. Они могут быть использованы как электродный материал для разных задач электрокатализа."
+	},
+	"keywords": {
+		"ua": "нанорозмірні порошки, вуглецеві наноматеріали, карбід вольфраму, сольові розтопи, електрохімічний синтез",
+		"en": "nanoscale powders, carbon nanomaterials, tungsten carbide, salt melts, electrochemical synthesis",
+		"ru": "наноразмерные порошки, углеродные наноматериалы, карбид вольфрама, солевые расплавы, электрохимический синтез"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. А. Новосьолова", "en": "I. A. Novoselova", "ru": "И. А. Новосёлова"},
+			"OID": [18]
+		},
+		{
+			"AID": {"ua": "Е. П. Наконешна", "en": "E. P. Nakoneshnaja", "ru": "Е. П. Наконешная"},
+			"OID": [18]
+		},
+		{
+			"AID": {"ua": "Н. А. Карпушин", "en": "N. A. Karpushin", "ru": "Н. А. Карпушин"},
+			"OID": [32]
+		},
+		{
+			"AID": {"ua": "В. Н. Биков", "en": "V. N. Bykov", "ru": "В. Н. Быков"},
+			"OID": [25]
+		},
+		{
+			"AID": {"ua": "Г. І. Довбешко", "en": "G. I. Dovbeshko", "ru": "Г. И. Довбешко"},
+			"OID": [25]
+		},
+		{
+			"AID": {"ua": "А. Д. Риндер", "en": "A. D. Rynder", "ru": "А. Д. Рындер"},
+			"OID": [25]
+		}
+	],
+	"references": {
+		"count": 17,
+		"list":  [
+			{
+				"doi": "10.1070/RC1995v064n02ABEH000140",
+				"or":  "В. И. Шаповал, В. В. Малышев, И. А. Новоселова, Х. Б. Кушхов, Успехи химии, 64, № 2: 133 (1995).",
+				"tr":  "V. I. Shapoval, V. V. Malyshev, I. A. Novoselova, and Kh. B. Kushkhov, Russ. Chem. Rev., 64, No. 2: 125 (1995) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Новоселова, В. В. Малышев, В. И. Шаповал, Х. Б. Кушхов, С. В. Девяткин, Теоретические основы химических технологий, 31, № 3: 286 (1997).",
+				"tr":  "I. A. Novoselova, V. V. Malyshev, V. I. Shapoval, Kh. B. Kushkov, and S. V. Devyatkin, Theoretical Foundations of Chemical Engineering, 31, No. 3: 286 (1997) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "I. A. Novoselova, S. V. Volkov, N. F. Oliinyk, and V. I. Shapoval, J. Mining and Metallurgy B, 39, Nos. 1–2: 281 (2003).",
+				"tr":  "I. A. Novoselova, S. V. Volkov, N. F. Oliinyk, and V. I. Shapoval, J. Mining and Metallurgy B, 39, No. 1–2: 281 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "I. L. Andrieux and G. Weiss, Bull. Soc. Chim. France, 15, No. 5: 598 (1948).",
+				"tr":  "I. L. Andrieux and G. Weiss, Bull. Soc. Chim. France, 15, No. 5: 598 (1948)."
+			},
+			{
+				"doi": "",
+				"or":  "J. Gomes and D. Barker, Method of Electrolytic Preparation of Tungsten Carbide, Patent USA No. 3589987 (JC3 B01 k1/00) (Published June 29, 1971).",
+				"tr":  "J. Gomes and D. Barker, Method of Electrolytic Preparation of Tungsten Carbide, Patent USA No. 3589987 (JC3 B01 k1/00) (Published June 29, 1971)."
+			},
+			{
+				"doi": "",
+				"or":  "K. H. Stern, Electrodeposition of Refractory Metal Carbides, Patent USA No. 4430170 (MKU4 C25 D 3/66) (Published February 07, 1984).",
+				"tr":  "K. H. Stern, Electrodeposition of Refractory Metal Carbides, Patent USA No. 4430170 (MKU4 C25 D 3/66) (Published February 07, 1984)."
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Новоселова, Высокотемпературный электрохимический синтез карбидов молибдена и вольфрама под избыточным давлением углекислого газа (Автореферат дис.  канд. хим. наук) (Киев: Институт общей и неорганической химии им. В. И. Вернадского НАН Украины: 1988).",
+				"tr":  "I. A. Novoselova, Vysokotemperaturnyy Elektrokhimicheskiy Sintez Karbidov Molibdena i Wol'frama pod Izbytochnym Davleniem Uglekislogo Gaza (High Temperature Electrochemical Synthesis of Molybdenum and Tungsten Carbides under Excessive Carbon Dioxide Pressure) (Thesis of Disser. for Candidate Chem. Sci.) (Kiev: V. I. Vernadsky Institute of General and Inorganic Chemistry, N.A.S.U.: 1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Тищенко, Высокотемпературный электрохимический синтез тугоплавких соединений на основе вольфрама с углеродом и бором (Автореферат дис.  канд. хим. наук) (Киев: Институт общей и неорганической химии им. В. И. Вернадского НАН Украины: 1992).",
+				"tr":  "A. A. Tishchenko, Vysokotemperaturnyy Elektrokhimicheskiy Sintez Tugoplavkikh Soedineniy na Osnove Vol'frama s Uglerodom i Borom (High Temperature Electrochemical Synthesis of the Refractory Compounds Based on Tungsten with Carbon and Boron), (Thesis of Disser. for Candidate Chem. Sci.) (Kyiv: V. I. Vernadsky Institute of General and Inorganic Chemistry N.A.S.U.: 1992) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Х. Б. Кушхов, М. Н. Адамокова, В. А. Квашин, Способ получения нанодисперсного порошка карбида вольфрама, Патент России С25С5/04 В82И3/00 С01В31/34 (Опубликован 21 июля 2008).",
+				"tr":  "Kh. B. Kushkhov, M. N. Adamokova, and V. A. Kvashin, Sposob Polucheniya Nanodispersnogo Poroshka Karbida Vol'frama (Method of Production of Nanodisperse Powders of Tungsten Carbide), Patent Russia S25S5/04 V82I3/00 S01V31/34 (Published July 21, 2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Вольфрам. Методы анализа, ГОСТ 14339.082, ГОСТ 14339.5-082.",
+				"tr":  "Vol'fram. Metody Analiza (Tungsten. Methods of Analysis), GOST USSR 14339.082, GOST USSR 14339.5-082 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. П. Самойлов, Методы анализа тугоплавких соединений (Москва: Наука: 1974).",
+				"tr":  "V. P. Samoylov, Metody Analiza Tugoplavkikh Soedineniy (Methods of Analysis of Refractory Compounds) (Moscow: Nauka: 1974) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Шаповал, Кинетика электродных процессов с сопряженными кислотно-основными реакциями в расплавленных солях (Автореферат дис.  д-ра хим. наук) (Киев: Институт общей и неорганической химии им. В. И. Вернадского НАН Украины: 1975).",
+				"tr":  "V. I. Shapoval, Kinetika Elektrodnykh Protsessov s Sopryazhennymi Kislotno-osnovnymi Reaktsiyami v Rasplavlennykh Solyakh (Kinetics of Electrode Processes with Conjugate Reactions of Acid-Alkaline Type in Molten Salts) (Thesis of Disser. for Doctor of Chemical Sciences) (Kyiv: V. I. Vernadsky Institute of General and Inorganic Chemistry, N.A.S.U.: 1975) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Новоселова, В. В. Малышев, А. Е. Финадорин, В. И. Шаповал, Журнал неорганической химии, 40, № 9: 1438 (1995).",
+				"tr":  "I. A. Novoselova, V. V. Malyshev, A. E. Finadorin, and V. I. Shapoval, Zhurnal Neorganicheskoi Khimii, 40, No. 9: 1438 (1995) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. А. Новоселова, Н. Ф. Олийнык, С. В. Волков, Наносистеми, наноматеріали, нанотехнологіі, 3, № 3: 465 (2005).",
+				"tr":  "I. A. Novoselova, N. F. Oliynyk, and S. V. Volkov, Nanosystems, Nanomaterials, Nanotechnologies, 3, No. 3: 465 (2005) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. Н. Барабошкин, Электрокристаллизация металлов в расплавленных солях (Москва: Наука: 1976).",
+				"tr":  "A. N. Baraboshkin, Elektrokristallizatsiya Metallov v Rasplavlennykh Solyakh (Electrocrystallization of Metals in Molten Salts) (Moscow: Nauka: 1976) (in Russian)."
+			},
+			{
+				"doi": "10.1063/1.3481667",
+				"or":  "K. D. Litasov, A. Shatskiy, Y. Fei, A. Suzuki, E. Ohtani, and K. Funakoshi, J. Appl. Phys., 108, No. 5: 053513 (2010).",
+				"tr":  "K. D. Litasov, A. Shatskiy, Y. Fei, A. Suzuki, E. Ohtani, and K. Funakoshi, J. Appl. Phys., 108, No. 5: 053513 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Kromka, J. Janik, A. Satka, and J. Pavlov, Acta Physica Slovaca, 51, No. 6: 359 (2001).",
+				"tr":  "A. Kromka, J. Janik, A. Satka, and J. Pavlov, Acta Physica Slovaca, 51, No. 6: 359 (2001)."
+			}
+		]
+	}
+}

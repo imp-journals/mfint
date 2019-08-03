@@ -1,0 +1,157 @@
+{
+	"_id":    "MFiNT.40.05.0615",
+	"year":   2018,
+	"volume": 40,
+	"issue":  5,
+	"pages":  [615,623],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["18.01.2018"],
+	"PACS":   "61.43.Hv, 68.37.Hk, 68.55.J-, 82.45.Qr, 82.45.Hk, 82.45.Yz, 83.60.Np",
+	"title":   {
+		"ua": "Вплив магнетного поля на електроосадження нанорозмірних структур",
+		"en": "Effect of Magnetic Field on Electrodeposition of Nanosize Structures",
+		"ru": "Влияние магнитного поля на электроосаждение наноразмерных структур"
+	},
+	"abstract": {
+		"ua": "Потенціостатичною методою досліджено вплив зовнішнього сталого магнетного поля на морфологію нанорозмірних кластерів, одержаних магнетоелектролізою водного розчину CuSO$_4$ в зовнішньому магнетному полі величиною до 0,31 T. Встановлено, що морфологія одержаних осадів істотно змінюється накладеним магнетним полем. В нульовому полі кластери, що осаджуються, не мають виділених напрямків зростання, в той час як в ненульовому магнетному полі з’являється переважні напрямки зростання як при магнетному полі, зорієнтованому перпендикулярно до електричних токових ліній, так і при їх паралельній орієнтації. Розгалужені структури осадів, що спостерігалися, мають фрактальну структуру, фрактальна розмірність якої залежить від величини й орієнтації магнетного поля. Спостережені ефекти можна пояснити магнетогідродинамічною (МГД) конвекцією, яку викликано дією Лорентцової сили, яка впливає на природню конвекцію, що спричинена ґрадієнтом концентрації в електроліті в прикатодному шарі як вздовж, так і поперек поверхні електроди. Таким чином, нанорозмірні об’єкти різноманітної структури (яка визначається магнетним полем) та розміру (який визначається часом електролізи) можуть бути одержані контрольованим чином. Ще одне явище, спостережене в даній роботі, а саме, зміна знаку ріжниці потенціялів між верхнім і нижнім зондами при зростанні магнетного поля, свідчить про супутню зміну знаку ґрадієнту концентрації вздовж поверхні катоди. Це уможливлює пояснити вплив магнетного поля у випадку паралельної орієнтації (де не діють Лорентцові сили) взаємним впливом МГД-ефектів і дифузії вздовж поверхні катоди.",
+		"en": "The impact of an external magnetic field on the morphology of nanosize clusters obtained by magnetoelectrolysis of CuSO$_4$ aqueous solution within the applied magnetic field up to 0.31 T is investigated by the controlled potential method. As found, the morphology of obtained electrodeposits is significantly changed by the applied magnetic field. In a zero magnetic field, one has an isotropic growth of deposited aggregates, whereas for nonzero fields, there appear preferred directions of growth for the field oriented either perpendicular or parallel to the electric current lines. The observed ramified electrodeposits have the fractal structure, with the fractal dimension being dependent on the magnetic field strength and orientation. The features observed can be explained taking into account the magnetohydrodynamic (MHD) convection induced by the Lorentz force, which affects the natural convection due to concentration gradient in electrolyte near the cathode surface both along the plane of the electrode and perpendicular to it. In this way, nanoobjects of various structures (magnetic-field-driven) and different size (electrolysis-time-dependent) can be fabricated in a controlled way. Additional feature observed in the present work, viz., change of the sign of the potential difference between the lower and upper probes with increase of the magnetic field, evidences the corresponding change of sign of the concentration gradient along the cathode surface. This feature allows us to explain the impact of magnetic field in the parallel orientation (where no Lorentz forces act) by interplay of the MHD effects and the diffusion over the cathode plane.",
+		"ru": "Потенциостатическим методом исследовано влияние внешнего постоянного магнитного поля на морфологию наноразмерных кластеров, полученных магнитоэлектролизом водного раствора CuSO$_4$ во внешнем магнитном поле величиной до 0,31 T. Установлено, что морфология полученных осадков существенно изменяется приложенным магнитным полем. В нулевом поле осаждённые кластеры не имеют выделенных направлений роста, в то время как в ненулевом магнитном поле появляется преимущественное направление роста как при магнитном поле, ориентированном перпендикулярно электрическим токовым линиям, так и при их параллельной ориентации. Наблюдаемые разветвлённые структуры осадков имеют фрактальную структуру, фрактальная размеренность которой зависит от величины и ориентации магнитного поля. Наблюдаемые эффекты могут быть объяснены магнитогидродинамической (МГД) конвекцией, вызванной действием силы Лоренца, которая влияет на естественную конвекцию, вызванную градиентом концентрации в электролите в околокатодном пространстве как вдоль, так и поперёк поверхности электрода. Таким образом, наноразмерные объекты различной структуры (определяемой магнитным полем) и размера (определяемого временем электролиза) могут быть получены контролируемым образом. Ещё одно явление, обнаруженное в данной работе, а именно, изменение знака разности потенциалов между верхним и нижним зондами при увеличении магнитного поля, свидетельствует о сопутствующем изменении знака градиента концентрации вдоль поверхности катода. Это позволяет объяснить влияние магнитного поля в случае параллельной ориентации (где не действуют силы Лоренца) взаимным влиянием МГД-эффектов и диффузии вдоль поверхности электрода."
+	},
+	"keywords": {
+		"ua": "фрактальна структура, магнетне поле, Лорентцова сила, ґрадієнт концентрації",
+		"en": "fractal structure, magnetic field, Lorentz force, concentration gradient",
+		"ru": "фрактальная структура, магнитное поле, сила Лоренца, градиент концентрации"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Є. А. Бондар", "en": "E. A. Bondar", "ru": "Е. А. Бондарь"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Д. А. Лужбін", "en": "D. A. Luzhbin", "ru": "Д. А. Лужбин"},
+			"OID": [533]
+		}
+	],
+	"references": {
+		"count": 23,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "A. I. Levin, Elektrokhimiya Tsvetnykh Metallov (Moscow: Metallurgiya: 1982) (in Russian).",
+				"tr":  "A. I. Levin, Elektrokhimiya Tsvetnykh Metallov (Moscow: Metallurgiya: 1982) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0013-4686(98)00033-4",
+				"or":  "R. Winand, Electrochim. Acta, 43: 2925 (1998).",
+				"tr":  "R. Winand, Electrochim. Acta, 43: 2925 (1998)."
+			},
+			{
+				"doi": "10.1016/0013-4686(91)85023-Z",
+				"or":  "S. Trasatti, Electrochim. Acta, 36: 1659 (1991).",
+				"tr":  "S. Trasatti, Electrochim. Acta, 36: 1659 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Wang and S. Chen, J. Serb. Chem. Soc., 66: 477 (2001).",
+				"tr":  "C. Wang and S. Chen, J. Serb. Chem. Soc., 66: 477 (2001)."
+			},
+			{
+				"doi": "10.1063/1.367734",
+				"or":  "G. Hinds, J. M. D. Coey, and M. E. G. Lyons, J. Appl. Phys., 83: 6447 (1998).",
+				"tr":  "G. Hinds, J. M. D. Coey, and M. E. G. Lyons, J. Appl. Phys., 83: 6447 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "E. Z. Gak, E. H. Rokhinson, and N. F. Bondarenko, Elektrokhimiya, 9: 528 (1975) (in Russian).",
+				"tr":  "E. Z. Gak, E. H. Rokhinson, and N. F. Bondarenko, Elektrokhimiya, 9: 528 (1975) (in Russian)."
+			},
+			{
+				"doi": "10.1016/0022-0248(95)00537-4",
+				"or":  "I. Mogi and M. Kamiko, J. Crystal Growth, 166: 276 (1996).",
+				"tr":  "I. Mogi and M. Kamiko, J. Crystal Growth, 166: 276 (1996)."
+			},
+			{
+				"doi": "10.1016/S0079-6816(01)00006-5",
+				"or":  "T. Z. Fahidy, Prog. Surf. Sci., 68: 155 (2001).",
+				"tr":  "T. Z. Fahidy, Prog. Surf. Sci., 68: 155 (2001)."
+			},
+			{
+				"doi": "10.1051/epn:2003615",
+				"or":  "J. M. D. Coey, Europhysics News, 34, No. 6: 15 (2003).",
+				"tr":  "J. M. D. Coey, Europhysics News, 34, No. 6: 15 (2003)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/MSF.373-376.1",
+				"or":  "J. M. D. Coey, G. Hinds, C. O’Reily et al., Mater. Sci. Forum, 373–376: 1 (2001).",
+				"tr":  "J. M. D. Coey, G. Hinds, C. O'Reily et al., Mater. Sci. Forum, 373–376: 1 (2001)."
+			},
+			{
+				"doi": "10.1016/0013-4686(87)80003-8",
+				"or":  "R. N. O’Brien and K. S. V. Santhanam, Electrochim. Acta, 32: 1679 (1987).",
+				"tr":  "R. N. O'Brien and K. S. V. Santhanam, Electrochim. Acta, 32: 1679 (1987)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Hill, Materials World, 6: 221 (1998).",
+				"tr":  "S. Hill, Materials World, 6: 221 (1998)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.52.1344",
+				"or":  "R. P. Devaty and A. J. Sievers, Phys. Rev. Lett., 52: 1344 (1984).",
+				"tr":  "R. P. Devaty and A. J. Sievers, Phys. Rev. Lett., 52: 1344 (1984)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.56.256",
+				"or":  "G. A. Niklasson and C. G. Granqvist, Phys. Rev. Lett., 56: 256 (1986).",
+				"tr":  "G. A. Niklasson and C. G. Granqvist, Phys. Rev. Lett., 56: 256 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "B. M. Smirnov, Fizika Fraktalnykh Klasterov (Moscow: Nauka: 1991) (in Russian).",
+				"tr":  "B. M. Smirnov, Fizika Fraktalnykh Klasterov (Moscow: Nauka: 1991) (in Russian)."
+			},
+			{
+				"doi": "10.1201/NOE0824758080",
+				"or":  "F. Romm, Microporous Media: Synthesis, Properties and Modeling (New York: Marcel Dekkel Ltd.: 2004).",
+				"tr":  "F. Romm, Microporous Media: Synthesis, Properties and Modeling (New York: Marcel Dekkel Ltd.: 2004)."
+			},
+			{
+				"doi": "10.1016/j.electacta.2003.04.009",
+				"or":  "A. Bund, S. Koehler, H. H. Kuehlein, and W. Plieth, Electrochim. Acta, 49: 147 (2003).",
+				"tr":  "A. Bund, S. Koehler, H. H. Kuehlein, and W. Plieth, Electrochim. Acta, 49: 147 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "V. G. Levich, Fiziko-Khimicheskaya Gidrodinamika (Moscow: GIFML: 1959) (in Russian).",
+				"tr":  "V. G. Levich, Fiziko-Khimicheskaya Gidrodinamika (Moscow: GIFML: 1959) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Skorchelleti, Teoreticheskaya Elektrokhimiya (Leningrad: Khimiya: 1974) (in Russian).",
+				"tr":  "V. V. Skorchelleti, Teoreticheskaya Elektrokhimiya (Leningrad: Khimiya: 1974) (in Russian)."
+			},
+			{
+				"doi": "10.1023/A:1016584914107",
+				"or":  "T. Z. Fahidy, J. Appl. Electrochem., 32: 551 (2002).",
+				"tr":  "T. Z. Fahidy, J. Appl. Electrochem., 32: 551 (2002)."
+			},
+			{
+				"doi": "10.1007/PL00013295",
+				"or":  "B. K. Jha, Heat and Mass Transfer., 37: 329 (2001).",
+				"tr":  "B. K. Jha, Heat and Mass Transfer., 37: 329 (2001)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.47.1400",
+				"or":  "T. A. Witten and L. M. Sander, Phys. Rev. Lett., 47: 1400 (1981).",
+				"tr":  "T. A. Witten and L. M. Sander, Phys. Rev. Lett., 47: 1400 (1981)."
+			},
+			{
+				"doi": "10.1016/j.physa.2004.11.009",
+				"or":  "J. C. Mansur Filho, A. G. Silva, A. T. G. Carvalho, and M. L. Martins, Physica A, 350: 393 (2005).",
+				"tr":  "J. C. Mansur Filho, A. G. Silva, A. T. G. Carvalho, and M. L. Martins, Physica A, 350: 393 (2005)."
+			}
+		]
+	}
+}

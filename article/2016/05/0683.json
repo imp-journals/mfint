@@ -1,0 +1,130 @@
+{
+	"_id":    "MFiNT.38.05.0683",
+	"year":   2016,
+	"volume": 38,
+	"issue":  5,
+	"pages":  [683,695],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["09.03.2016"],
+	"PACS":   "68.35.bd, 68.35.Ct, 68.35.Dv, 81.40.Lm, 81.65.-b, 83.50.Uv, 87.85.jj",
+	"title":   {
+		"ua": "Фізико-хемічний стан поверхні стопу ВТ6 після піскоструминного оброблення у рідкому азоті",
+		"en": "Physicochemical State of the Ti6Al4V Surface after Sand Blasting in Liquid Nitrogen",
+		"ru": "Физико-химическое состояние поверхности сплава ВТ6 после пескоструйной обработки в жидком азоте"
+	},
+	"abstract": {
+		"ua": "Вперше піскоструминне оброблення (ПО) поверхні титанового стопу ВТ6 проведено за температури рідкого азоту (-196°C). Для порівняння використано також стандартну схему ПО на повітрі за аналогічних параметрів та тривалости. Показано, що основні відмінності стосуються змін мікротвердости, шерсткости, характеру морфології, кількости залишкових частинок абразиву Al$_{2}$O$_{3}$ на поверхні. Докладно досліджено хемічний склад у різних локальних ділянках поверхні стопу після ПО за кімнатної та кріогенної температур, а також ступінь їх окиснення.",
+		"en": "Firstly, the sand blasting (SB) of the titanium alloy Ti6Al4V surface at the temperature of liquid nitrogen (-196°C) is performed. For comparison, a standard treatment is used as the SB in the air under the same parameters and duration. As shown, the major differences concern microhardness changes, roughness, character of morphology, and amount of the residual abrasive particles of Al$_{2}$O$_{3}$ on the surface. The chemical composition in the different local areas of the alloy surface after the SB at room and cryogenic temperatures is studied in detail as well as a degree of surface oxidation. It is planned to obtain experimental evidence regarding the fact that the low-temperature SB improves the wear resistance of dental implants in chewing loads, the corrosion resistance, and the adhesion strength of biocompatible coatings applied to titanium substrate after the SB in liquid nitrogen, and thus, contributes significantly longer service life.",
+		"ru": "Впервые пескоструйная обработка (ПО) поверхности титанового сплава ВТ6 проведена при температуре жидкого азота (-196°C). Для сравнения использована также стандартная схема ПО на воздухе при аналогичных параметрах и продолжительности. Показано, что основные различия касаются изменений микротвёрдости, шероховатости, характера морфологии, количества остаточных частиц абразива Al$_{2}$O$_{3}$ на поверхности. Подробно исследованы химический состав в различных локальных участках поверхности сплава после ПО при комнатной и криогенной температурах, а также степень их окисления."
+	},
+	"keywords": {
+		"ua": "піскоструминне оброблення, імплантат, поверхня, кріодеформація, стоп ВТ6",
+		"en": "sand blasting, implant, surface, cryodeformation, Ti$_{6}$Al$_{4}$V alloy",
+		"ru": "пескоструйная обработка, имплантат, поверхность, криодеформация, сплав ВТ6"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "М. О. Васильєв", "en": "M. O. Vasylyev", "ru": "М. А. Васильев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Л. Ф. Яценко", "en": "L. F. Yatsenko", "ru": "Л. Ф. Яценко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. М. Волошко", "en": "S. M. Voloshko", "ru": "С. М. Волошко"},
+			"OID": [202]
+		},
+		{
+			"AID": {"ua": "П. О. Гурин", "en": "P. O. Gurin", "ru": "П. А. Гурин"},
+			"OID": [184]
+		}
+	],
+	"references": {
+		"count": 16,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "М. А. Васильев, В. И. Беда, П. А. Гурин, Физиологический отклик на состояние поверхности металлических дентальных имплантатов (Львов: ГалДент: 2010).",
+				"tr":  "M. A. Vasylyev, V. I. Beda, and P. A. Gurin, Fiziologicheskiy Otklik na Sostoyanie Poverkhnosti Metallicheskikh Dental’nykh Implantatov (Lviv: GalDent: 2010) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Р. З. Валиев, Наноструктурные материалы, полученные интенсивной пластической деформацией (Москва: Логос: 2000).",
+				"tr":  "R. Z. Valiev, Nanostrukturnye Materialy, Poluchennye Intensivnoy Plasticheskoy Deformatsiey (Moscow: Logos: 2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. А. Васильев, С. М. Волошко, Л. Ф. Яценко, Успехи физики металлов, 13: 303 (2012).",
+				"tr":  "M. A. Vasylyev, S. M. Voloshko, and L. F. Yatsenko, Uspehi Fiziki Metallov, 13: 303 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "П. А. Хаймович, Вопросы атомной науки и техники, № 4: 89 (2006).",
+				"tr":  "P. A. Khaymovich, Voprosy Atomnoy Nauki i Tekhniki, No. 4: 89 (2006) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Y. M. Wang and E. Ma, Acta Mater., 521: 1699 (2004).",
+				"tr":  "Y. M. Wang and E. Ma, Acta Mater., 521: 1699 (2004)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2004.02.037",
+				"or":  "Y. B. Lee, D. H. Shin, K. T. Park, and W. J. Nam, Scr. Mater., 51: 355 (2004).",
+				"tr":  "Y. B. Lee, D. H. Shin, K. T. Park, and W. J. Nam, Scripta Mater., 51: 355 (2004)."
+			},
+			{
+				"doi": "10.1016/j.matdes.2008.09.022",
+				"or":  "S. Panigrahi, R. Jayaganthan, and V. Pancholi, Materials and Design, 30: 6 (2009).",
+				"tr":  "S. Panigrahi, R. Jayaganthan, and V. Pancholi, Materials and Design, 30: 6 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "М. О. Васильєв, В. С. Філатова, Л. Ф. Яценко, Д. В. Козирєв, Металлофиз. новейшие технол., 34: 821 (2012).",
+				"tr":  "M. O. Vasyliev, V. S. Filatova, L. F. Yatsenko, and D. V. Kozyrev, Metallofiz. Noveishie Tekhnol., 34, No. 6: 821 (2012) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1016/j.actamat.2012.08.006",
+				"or":  "M. A. Vasylyev, S. P. Chenakin, and L. F. Yatsenko, Аcta Materialia, 60: 6223 (2012).",
+				"tr":  "M. A. Vasylyev, S. P. Chenakin, and L. F. Yatsenko, Acta Materialia, 60: 6223 (2012)."
+			},
+			{
+				"doi": "10.1016/S0257-8972(02)00894-0",
+				"or":  "L. Wang and D. Y. Li, Surf. Coat. Technol., 167: 188 (2003).",
+				"tr":  "L. Wang and D. Y. Li, Surf. Coat. Technol., 167: 188 (2003)."
+			},
+			{
+				"doi": "10.1063/1.3674268",
+				"or":  "И. С. Брауде, Н. Н. Гальцов, В. А. Москаленко, А. Р. Смирнов, Физика низких температур, 37: 1307 (2011).",
+				"tr":  "I. S. Braude, N. N. Gal’tsov, V. A. Moskalenko, and A. R. Smirnov, Fizika Nizkikh Temperatur, 37: 1307 (2011) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.surfcoat.2009.02.003",
+				"or":  "M. Multigner, E. Frutos, C. L. Mera, J. Chao, and J. L. González-Carrasco, Surf. Coat. Technol., 203: 2036 (2009).",
+				"tr":  "M. Multigner, E. Frutos, C. L. Mera, J. Chao, and J. L. González-Carrasco, Surf. Coat. Technol., 203: 2036 (2009)."
+			},
+			{
+				"doi": "10.1016/j.electacta.2006.12.031",
+				"or":  "V. Barranco, M. L. Escudero, and M. C. Garćıa-Alonso, Electrochimica Acta, 52: 4374 (2007).",
+				"tr":  "V. Barranco, M. L. Escudero, and M. C. Garćıa-Alonso, Electrochimica Acta, 52: 4374 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Родионов, Известия вузов. Химия и химическая технология, 46: 61 (2003).",
+				"tr":  "I. V. Rodionov, Izvestiya Vuzov. Khimiya i Khimicheskaya Tekhnologiya, 46: 61 (2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. М. Никулин, А. А. Сметкин, Н. Б. Асташина, Вестник ПНИПУ. Машиностроение, материаловедение, 17: 89 (2015).",
+				"tr":  "S. M. Nikulin, A. A. Smetkin, and N. B. Astashina, Vestnik PNIPU. Mashinostroenie, Materialovedenie, 17: 89 (2015) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Дуддек, Ш. Иранпур, М. А. Дерман, Й. Нейгебауер, Д. Е. Зёллер, Дентальная имплантология и хирургия, № 3 (12): 45 (2012).",
+				"tr":  "D. Duddek, Sh. Iranpur, M. A. Derman, Y. Neygebauer, and D. E. Zeller, Dental’naya Implantologiya i Khirurgiya, No. 3 (12): 45 (2012) (in Russian)."
+			}
+		]
+	}
+}

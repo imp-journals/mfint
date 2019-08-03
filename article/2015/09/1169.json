@@ -1,0 +1,111 @@
+{
+	"_id":    "MFiNT.37.09.1169",
+	"year":   2015,
+	"volume": 37,
+	"issue":  9,
+	"pages":  [1169,1181],
+	"rubric": 3,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["15.07.2015"],
+	"PACS":   "61.05.cc, 61.05.cf, 61.05.cp, 61.72.Bb, 61.72.Dd, 61.72.Lk, 61.72.Qq",
+	"title":  {
+		"ua": "Теорія динамічного фактору Кривоглаза—Дебая—Валлера",
+		"en": "The Theory of the Dynamical Krivoglaz—Debye—Waller Factor",
+		"ru": "Теория динамического фактора Кривоглаза—Дебая—Валлера"
+	},
+	"abstract": {
+		"ua": "Одержано вирази для динамічного фактору Кривоглаза—Дебая—Валлера з врахуванням дисперсійного механізму прояву дефектів у картині багатократного розсіяння. Показано істотну відмінність динамічного і кінематичного факторів, що важливо враховувати при побудові самоузгодженої динамічної теорії розсіяння. Встановлено залежність динамічного фактора від умов дифракції. Така залежність обумовлює додатковий вплив умов дифракції на характер залежности картини розсіяння від характеристик і типу дефектів у кристалі, а його врахування вперше уможливить кількісно адекватно розділяти їхній внесок в інтенсивність і істотно підвищувати інформативність і надійність діягностики.",
+		"en": "Expressions for the dynamical Krivoglaz—Debye—Waller factor with taking into account the dispersion mechanism of defects’ influence on the multiple-scattering pattern are obtained. An essential distinction between the dynamical and kinematical factors is shown that is important to take into account for construction of self-consistent dynamical scattering theory. Dependence of the dynamical factor on diffraction conditions is ascertained. This dependence causes additional influence of diffraction conditions on the character of the scattering-pattern dependence on defect types in a crystal. An account of this influence allows to separate quantitatively and adequately the defects’ contribution to the intensity and, correspondingly, substantially improve the informativity and reliability of diagnostics.",
+		"ru": "Получены выражения для динамического фактора Кривоглаза—Дебая— Валлера с учётом дисперсионного механизма проявления дефектов в картине многократного рассеяния. Показано существенное отличие динамического и кинематического факторов, что важно учитывать при построении самосогласованной динамической теории рассеяния. Установлена зависимость динамического фактора от условий дифракции. Такая зависимость обуславливает дополнительное влияние условий дифракции на характер зависимости картины рассеяния от характеристик и типа дефектов в кристалле, и его учёт впервые позволит количественно адекватно разделять их вклад в интенсивность и существенно повышать информативность и надёжность диагностики."
+	},
+	"keywords": {
+		"ua": "фактор Кривоглаза–Дебая–Валлера, дисперсійний механізм, динамічна дифракція",
+		"en": "Krivoglaz–Debye–Waller factor, dispersion mechanism, dynamical diffraction",
+		"ru": "фактор Кривоглаза—Дебая—Валлера, дисперсионный механизм, динамическая дифракция"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "С. В. Дмітрієв", "en": "S. V. Dmitriev", "ru": "С. В. Дмитриев"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Р. В. Лехняк", "en": "R. V. Lekhnyak", "ru": "Р. В. Лехняк"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. Б. Молодкін", "en": "V. B. Molodkin", "ru": "В. Б. Молодкин"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. В. Лізунов", "en": "V. V. Lizunov", "ru": "В. В. Лизунов"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Л. М. Скапа", "en": "L. M. Skapa", "ru": "Л. Н. Скапа"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "О. С. Скакунова", "en": "O. S. Skakunova", "ru": "Е. С. Скакунова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. В. Лізунова", "en": "S. V. Lizunova", "ru": "С. В. Лизунова"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "С. Й. Оліховський", "en": "S. I. Olikhovskii", "ru": "С. И. Олиховский"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Є. Г. Лень", "en": "E. G. Len", "ru": "Е. Г. Лень"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "М. Г. Толмачов", "en": "M. G. Tolmachyov", "ru": "Н. Г. Толмачёв"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Б. В. Шелудченко", "en": "B. V. Sheludchenko", "ru": "Б. В. Шелудченко"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "К. В. Фузік", "en": "K. V. Fuzik", "ru": "Е. В. Фузик"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "Г. О. Веліховський", "en": "G. O. Velikhovskii", "ru": "Г. О. Велиховский"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 5,
+		"list":  [
+			{
+				"doi": "10.1007/978-3-642-74291-0",
+				"or":  "M. A. Krivoglaz, X-Ray and Neutron Diffraction in Nonideal Crystals (Berlin: Springer: 1996).",
+				"tr":  "M. A. Krivoglaz, X-Ray and Neutron Diffraction in Nonideal Crystals (Berlin: Springer: 1996)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Б. Молодкин, Е. А. Тихонова, Физ. мет. металловед., 24, № 3: 385 (1967).",
+				"tr":  "V. B. Molodkin and E. A. Tikhonova, Fiz. Met. Metalloved., 24, No. 3: 385 (1967) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.1.1306",
+				"or":  "P. H. Dederichs, Phys. Rev. B, 1, No. 4: 1306 (1970).",
+				"tr":  "P. H. Dederichs, Phys. Rev. B, 1, No. 4: 1306 (1970)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Й. Оліховський, Є. М. Кисловський, В. Б. Молодкін, Є. Г. Лень, Т. П. Владімірова, О. В. Решетник, Металлофиз. новейшие технол., 22, № 6: 3 (2000).",
+				"tr":  "S. J. Olikhovs'ky, Ye. M. Kislovs'ky, V. B. Molodkin, Ye. G. Len', T. P. Vladimirova, and O. V. Reshetnyk, Metallofiz. Noveishie Tekhnol., 22, No. 6: 3 (2000) (in Ukrainian)."
+			},
+			{
+				"doi": "10.15407/ufm.15.02.055",
+				"or":  "В. В. Лизунов, В. Б. Молодкин, С. В. Лизунова, Н. Г. Толмачев, Е. С. Скакунова, С. В. Дмитриев, Б. В. Шелудченко, С. М. Бровчук, Л. Н. Скапа, Р. В. Лехняк, В. В. Молодкин, Е. В. Фузик, Успехи физики металлов, 15, № 2: 55 (2014).",
+				"tr":  "V. V. Lizunov, V. B. Molodkin, S. V. Lizunova, N. G. Tolmachev, O. S. Skakunova, S. V. Dmitriev, B. V. Sheludchenko, S. M. Brovchuk, L. M. Skapa, R. V. Lekhnyak, V. V. Molodkin, and K. V. Fuzik, Uspehi Fiziki Metallov, 15, No. 2: 55 (2014) (in Russian)."
+			}
+		]
+	}
+}

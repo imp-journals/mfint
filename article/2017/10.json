@@ -1,0 +1,172 @@
+{
+	"year":   2017,
+	"volume": 39,
+	"issue":  10,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [1299,1306],
+			"title": {
+				"ua": "Електроопір твердих розчинів Y(Ga,Al)$_2$, Y(Ga,Si)$_2$ та Y(Ga,Ge)$_2$ зі структурою типу AlB$_2$",
+				"en": "Electrical Resistivity of the Y(Ga,Al)$_2$, Y(Ga,Si)$_2$ and Y(Ga,Ge)$_2$ Solid Solutions with Structure of AlB$_2$ Type",
+				"ru": "Электросопротивление твёрдых растворов Y(Ga,Al)$_2$, Y(Ga,Si)$_2$ и Y(Ga,Ge)$_2$ со структурой типа AlB$_2$"
+			},
+			"autors": {
+				"ua": "М. П. Семенько, Н. М. Білявина, О. І. Наконечна",
+				"en": "M. P. Semen’ko, N. M. Bilyavina, and O. I. Nakonechna",
+				"ru": "М. П. Семенько, Н. Н. Белявина, О. И. Наконечная"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  4,
+			"pages":  [1307,1319],
+			"title": {
+				"ua": "Вплив атмосферного кисню на склад і кінетичні властивості тонких плівок вісмуту",
+				"en": "Influence of Atmospheric Oxygen on Composition and Kinetic Properties of Thin Films of Bismuth",
+				"ru": "Влияние атмосферного кислорода на состав и кинетические свойства тонких плёнок висмута"
+			},
+			"autors": {
+				"ua": "М. В. Добротворська, Д. С. Орлова, О. І. Рогачова, О. Г. Федоров",
+				"en": "M. V. Dobrotvorska, D. S. Orlova, O. I. Rogachova, and O. G. Fedorov",
+				"ru": "М. В. Добротворская, Д. С. Орлова, Е. И. Рогачева, А. Г. Федоров"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1321,1334],
+			"title": {
+				"ua": "Опір мікроплазучости та тривала міцність стопів на основі цирконію з нанофазним зміцненням",
+				"en": "Microcreep-Resistance and Long-Term Strength of the Zirconium-Based Alloys with Nanophase Strengthening",
+				"ru": "Сопротивление микроползучести и длительная прочность сплавов на основе циркония с нанофазным упрочнением"
+			},
+			"autors": {
+				"ua": "В. Г. Ткаченко, О. І. Кондрашев, О. М. Малка, П. М. Романко, О. І. Дехтяр, В. І. Бондарчук",
+				"en": "V. G. Tkachenko, O. I. Kondrashev, O. M. Malka, P. M. Romanko, O. I. Dekhtyar, and V. I. Bondarchuk",
+				"ru": "В. Г. Ткаченко, А. И. Кондрашев, А. Н. Малка, П. М. Романко, А. И. Дехтяр, В. И. Бондарчук"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1335,1343],
+			"title": {
+				"ua": "Аналіза взаємозв’язку між кінетикою поширення пластичної деформації та зародженням в’язкого руйнування",
+				"en": "The Analysis of Interrelation between Kinetics of Propagation of Plastic Deformation and Initiation of Ductile Fracture",
+				"ru": "Анализ взаимосвязи между кинетикой распространения пластической деформации и зарождением вязкого разрушения"
+			},
+			"autors": {
+				"ua": "Д. В. Лаухін, О. В. Бекетов, Н. О. Ротт, І. А. Тютерев, С. В. Іванцов, В. Д. Лаухін",
+				"en": "D. V. Laukhin, O. V. Beketov, N. O. Rott, I. A. Tyuterev, S. V. Ivantsov, and V. D. Laukhin",
+				"ru": "Д. В. Лаухин, А. В. Бекетов, Н. А. Ротт, И. А. Тютерев, С. В. Иванцов, В. Д. Лаухин"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1345,1362],
+			"title": {
+				"ua": "Вплив розміру зерна і структурного стану меж зерен на параметри надпластичности алюмінійового стопу Al–Zn–Mg–Cu–Zr",
+				"en": "Influence of the Size of Grain and Structural State of Boundaries of Grains on Parameters of Superplasticity of an Aluminium Alloy Al–Zn–Mg–Cu–Zr",
+				"ru": "Влияние размера зерна и структурного состояния границ зёрен на параметры сверхпластичности алюминиевого сплава Al–Zn–Mg–Cu–Zr"
+			},
+			"autors": {
+				"ua": "А. В. Пойда, В. П. Пойда, В. В. Брюховецький, Д. Є. Мила, А. В. Завдовєєв",
+				"en": "A. V. Poyda, V. P. Poyda, V. V. Bryukhovetskyy, D. E. Myla, and A. V. Zavdoveev",
+				"ru": "А. В. Пойда, В. П. Пойда, В. В. Брюховецкий, Д. Е. Милая, А. В. Завдовеев"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [1363,1375],
+			"title": {
+				"ua": "Механічна поведінка поруватого та спіненого алюмінію в умовах стиснення: визначення ключових механічних характеристик",
+				"en": "Mechanical Behaviour of the Porous and Foam Aluminium in Conditions of Compression: Determination of Key Mechanical Characteristics",
+				"ru": "Механическое поведение пористого и вспененного алюминия в условиях сжатия: определение ключевых механических характеристик"
+			},
+			"autors": {
+				"ua": "О. В. Бякова, А. О. Власов, М. В. Семенов, О. В. Зацарна, С. В. Гнилоскуренко",
+				"en": "O. V. Byakova, A. O. Vlasov, M. V. Semenov, O. V. Zatsarna, and S. V. Gnyloskurenko",
+				"ru": "А. В. Бякова, А. А. Власов, Н. В. Семенов, А. В. Зацарная, С. В. Гнилоскуренко"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  18,
+			"pages":  [1377,1393],
+			"title": {
+				"ua": "Спосіб визначення зміни пластичних властивостей металевої платви за частотами мод натягнутої над нею струни",
+				"en": "Method of Determination of Changes of Plastic Properties of a Metal Plate by Means of Frequencies of Modes of the String Stretched above It",
+				"ru": "Способ определения изменений пластических свойств металлической пластины по частотам мод натянутой над ней струны"
+			},
+			"autors": {
+				"ua": "Ю. Й. Стрілецький, В. А. Ровінський",
+				"en": "Yu. Yo. Striletskyy and V. A. Rovinskyy",
+				"ru": "Ю. И. Стрилецкий, В. А. Ровинский"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [1395,1409],
+			"title": {
+				"ua": "Фізико-хемічні основи СВС-процесу одержання стопів на основі рідкісноземельних металів",
+				"en": "Physicochemical Fundamentals of a Self-Propagating High-Temperature Synthesis Process of Fabrication of Alloys Based on Rare-Earth Metals",
+				"ru": "Физико-химические основы СВС-процесса получения сплавов на основе редкоземельных металлов"
+			},
+			"autors": {
+				"ua": "А. П. Мухачев, О. А. Харитонова",
+				"en": "A. P. Mukhachev and O. А. Kharytonova",
+				"ru": "А. П. Мухачев, Е. А. Харитонова"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [1411,1422],
+			"title": {
+				"ua": "Дослідження можливости формування у стопах Al розщепної морфології дендритів в умовах великих концентраційних ґрадієнтів",
+				"en": "Study of a Possibility of Formation of a Splitting Morphology of Dendrites in Alloys of Al in Conditions of High Concentration Gradients",
+				"ru": "Исследование возможности формирования в сплавах Al расщепляющейся морфологии дендритов в условиях больших концентрационных градиентов"
+			},
+			"autors": {
+				"ua": "А. Г. Борисов, В. Ю. Шейгам",
+				"en": "A. G. Borysov and V. Yu. Sheigam",
+				"ru": "А. Г. Борисов, В. Ю. Шейгам"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  19,
+			"pages":  [1423,1433],
+			"title": {
+				"ua": "Про природу тетрагональности мартенситу вуглецевої сталі",
+				"en": "On the Nature of Tetragonality of a Martensite of Carbon Steel",
+				"ru": "О природе тетрагональности мартенсита углеродистой стали"
+			},
+			"autors": {
+				"ua": "Ю. Я. Мєшков, В. А. Лободюк",
+				"en": "Yu. Ya. Meshkov and V. A. Lobodyuk",
+				"ru": "Ю. Я. Мешков, В. А. Лободюк"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  19,
+			"pages":  [1435,1443],
+			"title": {
+				"ua": "Самоорганізація у в’язких рідинах",
+				"en": "Self-Organization in Viscous Liquids",
+				"ru": "Самоорганизация в вязких жидкостях"
+			},
+			"autors": {
+				"ua": "В. I. Засимчук, О. Е. Засимчук, О. С. Гаценко",
+				"en": "V. I. Zasimchuk, O. E. Zasimchuk, and O. S. Gatsenko",
+				"ru": "В. И. Засимчук, Е. Э. Засимчук, А. С. Гаценко"
+			}
+		}
+	]
+}

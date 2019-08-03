@@ -1,0 +1,102 @@
+{
+	"_id":    "MFiNT.36.02.0247",
+	"year":   2014,
+	"volume": 36,
+	"issue":  2,
+	"pages":  [247,258],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["06.06.2013", "29.01.2014"],
+	"PACS":   "46.70.De, 61.72.jj, 61.72.S-, 61.72.up, 66.30.jp, 68.35.Fx, 68.35.Gy",
+	"title":   {
+		"ua": "Формозміна паладієвої пластини, індукована малими однобічними водневими впливами",
+		"en": "The Form Changing of Palladium Plate Induced by Small One-Side Hydrogen Impacts",
+		"ru": "Формоизменение палладиевой пластины, индуцированное малыми односторонними водородными воздействиями"
+	},
+	"abstract": {
+		"ua": "Експериментально досліджено формозмінення паладієвої пластини при її однобічному насиченні воднем при температурі 320°C в широкому інтервалі тисків $P_{H_{2}}$ = 0,01—0,3 МПа. Підтверджено, що формозмінення пластини розвивається в два етапи: на першому етапі пластина досить швидко досягає максимального вигину, а на другому, більш тривалому етапі, відбувається практично повне розпрямлення пластини. Встановлено нелінійну залежність від тиску максимальної стріли вигину пластини в області малого тиску водню, що відповідає утворенню ідеальних, псевдоідеальних розчинів водню в паладії. Обговорено фізичну природу встановлених експериментальних залежностей і підтверджено працездатність розвиненої раніше феноменологічної моделі.",
+		"en": "The palladium plate form changing during its one-side saturation with hydrogen at temperatures 320°C in a wide range of pressures, $P_{H_{2}}$ = 0.01—0.3 MPa, is experimentally studied. There is confirmed that the form changing of the plate is developed in two stages. At the first stage, the plate quickly reaches its maximum bending. At the second one, much longer than first, the plate straightens. This straightening is almost completely reversible. As revealed, the maximum deflection of the plate depends nonlinearly on the hydrogen pressure in those cases when hydrogen pressures are low. This dependence corresponds to the formation of the ideal and pseudo-ideal solutions of hydrogen in palladium. The physical nature of the discovered experimental dependences is discussed. Efficiency of the previously developed phenomenological model is confirmed.",
+		"ru": "Экспериментально исследовано формоизменение палладиевой пластины при её одностороннем насыщении водородом при температуре 320°C в широком интервале давлений $P_{H_{2}}$ = 0,01—0,3 МПа. Подтверждено, что формоизменение пластины развивается в два этапа: на первом этапе пластина весьма быстро достигает максимального изгиба, а на втором, существенно более длительном этапе, пластина распрямляется практически полностью обратимо. Установлена нелинейная зависимость от давления максимальной стрелы прогиба пластины в области малых давлений водорода, соответствующих образованию идеальных и псевдоидеальных растворов водорода в палладии. Обсуждена физическая природа установленных экспериментальных закономерностей и подтверждена работоспособность разработанной ранее феноменологической модели."
+	},
+	"keywords": {
+		"ua": "формозміна, паладієва пластинка, розчини Pd—H",
+		"en": "form changing, Palladium plate, Pd—H solution",
+		"ru": "формоизменение, палладиевая пластинка, растворы Pd—H"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Є. Н. Любименко", "en": "E. N. Lyubimenko", "ru": "Е. Н. Любименко"},
+			"OID": [239]
+		},
+		{
+			"AID": {"ua": "М. В. Гольцова", "en": "M. V. Goltsova", "ru": "М. В. Гольцова"},
+			"OID": [239]
+		}
+	],
+	"references": {
+		"count": 12,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "M. V. Goltsova and E. N. Lyubimenko, Fizika Metallov i Metallovedenie, 112, No. 4: 393 (2011) (in Russian).",
+				"tr":  "M. V. Goltsova and E. N. Lyubimenko, Fizika Metallov i Metallovedenie, 112, No. 4: 393 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. V. Goltsova and E. N. Lyubimenko, Fizika Metallov i Metallovedenie, 113, No. 2: 162 (2012) (in Russian).",
+				"tr":  "M. V. Goltsova and E. N. Lyubimenko, Fizika Metallov i Metallovedenie, 113, No. 2: 162 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "E. N. Lyubimenko and M. V. Goltsova, Metallofiz. Noveishie Tekhnol., 33, No. 6: 819 (2011) (in Russian).",
+				"tr":  "E. N. Lyubimenko and M. V. Goltsova, Metallofiz. Noveishie Tekhnol., 33, No. 6: 819 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "M. V. Goltsova and E. N. Lyubimenko, Fizika Metallov i Metallovedenie, 113, No. 11: 1073 (2012) (in Russian).",
+				"tr":  "M. V. Goltsova and E. N. Lyubimenko, Fizika Metallov i Metallovedenie, 113, No. 11: 1073 (2012) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "E. Wicke and H. Brodowsky, Vodorod v Metallakh (Moscow: Mir: 1981) (Russian translation).",
+				"tr":  "E. Wicke and H. Brodowsky, Vodorod v Metallakh (Moscow: Mir: 1981) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Goltsov, Progress in Hydrogen Treatment of Materials (Donetsk: Kassiopeaya Ltd.: 2001).",
+				"tr":  "V. A. Goltsov, Progress in Hydrogen Treatment of Materials (Donetsk: Kassiopeaya Ltd.: 2001)."
+			},
+			{
+				"doi": "",
+				"or":  "E. N. Lyubimenko and M. V. Goltsova, Naukovi Pratsi DonNTU. Metalurhiya, 177, No. 12 (2010) (in Russian).",
+				"tr":  "E. N. Lyubimenko and M. V. Goltsova, Naukovi Pratsi DonNTU. Metalurhiya, 177, No. 12 (2010) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.29.4765",
+				"or":  "R. Lässer, Phys. Rev. B, 29, No. 8: 4765 (1984).",
+				"tr":  "R. Lässer, Phys. Rev. B, 29, No. 8: 4765 (1984)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.34.578",
+				"or":  "R. Lässer and G. L. Powell, Phys. Rev. B, 34, No. 2: 578 (1986).",
+				"tr":  "R. Lässer and G. L. Powell, Phys. Rev. B, 34, No. 2: 578 (1986)."
+			},
+			{
+				"doi": "",
+				"or":  "V. A. Goltsov, A. L. Redko, and Zh. L. Glukhova, Fizika Metallov i Metallovedenie, 95, No. 1: 21 (2003) (in Russian).",
+				"tr":  "V. A. Goltsov, A. L. Redko, and Zh. L. Glukhova, Fizika Metallov i Metallovedenie, 95, No. 1: 21 (2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "A. I. Raychenko, Matematicheskaya Teoriya Diffuzii v Prilozheniyakh (Kiev: Naukova Dumka: 1981) (in Russian).",
+				"tr":  "A. I. Raychenko, Matematicheskaya Teoriya Diffuzii v Prilozheniyakh (Kiev: Naukova Dumka: 1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "P. V. Geld and R. A. Ryabov, Vodorod v Metallakh i Splavakh (Moscow: Metallurgizdat: 1974) (in Russian).",
+				"tr":  "P. V. Geld and R. A. Ryabov, Vodorod v Metallakh i Splavakh (Moscow: Metallurgizdat: 1974) (in Russian)."
+			}
+		]
+	}
+}

@@ -1,0 +1,154 @@
+{
+	"_id":    "MFiNT.37.09.1239",
+	"year":   2015,
+	"volume": 37,
+	"issue":  9,
+	"pages":  [1239,1251],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["06.07.2015"],
+	"PACS":   "06.20.Dk, 06.60.Mr, 06.60.Vz, 62.20.mm, 62.20.Qp, 62.23.Pq, 68.35.Ct",
+	"title":  {
+		"ua": "Експериментальне дослідження композитного матеріалу на основі алюмінію 6061, армованого частинками B$_{4}$C, при обробці на електроерозійному дротово-вирізному верстаті",
+		"en": "Experimental Investigation of B$_{4}$C Particulate Reinforced Aluminium 6061 Based Composite Material in Wire-Cut EDM",
+		"ru": "Экспериментальное исследование композитного материала на основе алюминия 6061, армированного частицами B$_{4}$C, при обработке на электроэрозионном проволочно-вырезном станке"
+	},
+	"abstract": {
+		"ua": "В цій роботі досліджено вплив параметрів різання на шерсткість поверхні при обробленні на електроерозійному вирізному станку (ЕЕВС) композита алюмінійового стопу AA6061, армованого частинками. Композити вироблялися з використанням 15% вагової фракції B$_{4}$C методою порошкової металургії. Експерименти виконувалися на базі Taguchi L18 ($2^{1} \\times 3^{2}$) зі змішаним ортогональним масивом; параметри ЕЕВС-оброблення різанням оптимізувалися, щоб одержати найкращу якість поверхні. Результати досліджень оцінювалися за графіками поверхні відгуку та головного ефекту. Оброблена поверхня композитної металевої матриці досліджувалася з використанням мікрознімків сканівної електронної мікроскопії (СЕМ). Вплив ЕЕВС-оброблення визначався за допомогою дисперсійної аналізи (ДА). Аналіза результатів показала, що найбільш істотним параметром різання для шерсткости поверхні є піковий струм. СЕМ та оптичні мікрознімки показали, що армувальні частинки B$_{4}$C розподілені в структурі матриці рівномірно. З використанням реґресійної аналізи були також зґенеровані математичні моделі для поверхневої шерсткости. Випробування на відповідність технічним умовам були виконані з метою попередньої оцінки математичних моделів, і поверхневу шерсткість було спрогнозовано з припустимою середньоквадратичною похибкою.",
+		"en": "In the present paper, the influences of cutting parameters on surface roughness in wire electric-discharge machining of (WEDM) process of particle-reinforced aluminium AA6061 alloy composite are investigated. The composites are produced using 15% wt. B$_{4}$C fraction using powder metallurgy. Experimental trials are performed based on Taguchi L18 ($2^{1} \\times 3^{2}$) with a mixed orthogonal array, and the WEDM cutting parameters are optimized for the best surface quality. The investigation results are evaluated by response surface plots and main effect graphs. The machined surface of the metal matrix composite is investigated using scanning electron microscopy (SEM) micrographs. The effect of WEDM machining variables are determined using analysis of variance (ANOVA). The analysis result shows that the most significant cutting parameter is peak current for surface roughness. The SEM and optical micrographs indicate that the reinforced B$_{4}$C particles are homogeneously distributed in the matrix structure. Mathematical models are also generated using regression analysis for the surface roughness. Confirmation tests are carried out to determine the prediction performance of the mathematical models, and the surface roughness is predicted with an acceptable mean squared error.",
+		"ru": "В данной работе исследовано влияние параметров резания на шероховатость поверхности при обработке на электроэрозионном вырезном станке (ЭЭВС) композита алюминиевого сплава AA6061, армированного частицами. Композиты производились с использованием 15% весовой фракции B$_{4}$C методом порошковой металлургии. Эксперименты производились на базе Taguchi L18 ($2^{1} \\times 3^{2}$) со смешанным ортогональным массивом; параметры ЭЭВС-обработки резанием оптимизировались с целью получения наилучшего качества поверхности. Результаты исследований оценивались по графикам поверхности отклика и главного эффекта. Обработанная поверхность композитной металлической матрицы исследовалась с использованием микроснимков сканирующей электронной микроскопии (СЭМ). Влияние ЭЭВС-обработки определялось при помощи дисперсионного анализа (ДА). Анализ результатов показал, что наиболее существенным параметром резания для шероховатости поверхности является пиковый ток. СЭМ и оптические микроснимки показали, что армирующие частицы B$_{4}$C распределены в структуре матрицы равномерно. С использованием регрессионного анализа были также сгенерированы математические модели для поверхностной шероховатости. Испытания на соответствие техническим условиям были проведены с целью предварительной оценки математических моделей, и поверхностная шероховатость была спрогнозирована с приемлемой среднеквадратичной погрешностью."
+	},
+	"keywords": {
+		"ua": "дротово-вирізна електроерозійна обробка, шерсткість поверхні, метод Тагучі, методологія поверхні відгуку",
+		"en": "wire electric discharge machining, surface roughness, Taguchi method, response surface methodology",
+		"ru": "проволочно-вырезная электроэрозионная обработка, шероховатость поверхности, метод Тагучи, методология поверхности отклика"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Щ. Карабулут", "en": "Ş. Karabulut", "ru": "Щ. Карабулут"},
+			"OID": [438]
+		},
+		{
+			"AID": {"ua": "У. Гьокмен", "en": "U. Gökmen", "ru": "У. Гёкмен"},
+			"OID": [415]
+		},
+		{
+			"AID": {"ua": "Х. Каракоч", "en": "H. Karakoç", "ru": "Х. Каракоч"},
+			"OID": [438]
+		},
+		{
+			"AID": {"ua": "О. К. Калкан", "en": "Ö. K. Kalkan", "ru": "О. К. Калкан"},
+			"OID": [438]
+		},
+		{
+			"AID": {"ua": "Р. Читак", "en": "R. Çitak", "ru": "Р. Читак"},
+			"OID": [416]
+		}
+	],
+	"references": {
+		"count": 20,
+		"list":  [
+			{
+				"doi": "10.1016/j.matchar.2004.12.004",
+				"or":  "H. Mindivan, M. Baydogan, E. S. Kayali, and H. T. Cimenoglu, Materials Characterization, 54: 263 (2005).",
+				"tr":  "H. Mindivan, M. Baydogan, E. S. Kayali, and H. T. Cimenoglu, Materials Characterization, 54: 263 (2005)."
+			},
+			{
+				"doi": "10.1007/978-0-85729-938-3_2",
+				"or":  "A. B. Sadat, Machining of Metal Matrix Composites (Ed. P. J. Davim) (London: Springer: 2012), p. 51.",
+				"tr":  "A. B. Sadat, Machining of Metal Matrix Composites (Ed. P. J. Davim) (London: Springer: 2012), p. 51."
+			},
+			{
+				"doi": "10.1016/j.ceramint.2013.12.003",
+				"or":  "J. Wang, W. Lin, Z. Jiang, L. Duan, and G. Yang, Ceramics International, 40: 6793 (2014).",
+				"tr":  "J. Wang, W. Lin, Z. Jiang, L. Duan, and G. Yang, Ceramics International, 40: 6793 (2014)."
+			},
+			{
+				"doi": "10.1016/S0924-0136(03)00905-1",
+				"or":  "A. Manna and B. Bhattacharayya, J. Materials Processing Technology, 140: 711 (2003).",
+				"tr":  "A. Manna and B. Bhattacharayya, J. Materials Processing Technology, 140: 711 (2003)."
+			},
+			{
+				"doi": "10.1177/0021998311410510",
+				"or":  "U. Soy, F. Ficici, and A. Demir, J. Composite Materials, 46: 851 (2011).",
+				"tr":  "U. Soy, F. Ficici, and A. Demir, J. Composite Materials, 46: 851 (2011)."
+			},
+			{
+				"doi": "10.1016/S0924-0136(98)00054-5",
+				"or":  "M. El-Gallab and M. Sklad, J. Materials Processing Technology, 83: 151 (1998).",
+				"tr":  "M. El-Gallab and M. Sklad, J. Materials Processing Technology, 83: 151 (1998)."
+			},
+			{
+				"doi": "10.1016/j.measurement.2015.01.027",
+				"or":  "Ş. Karabulut, Measurement, 66: 139 (2015).",
+				"tr":  "Ş. Karabulut, Measurement, 66: 139 (2015)."
+			},
+			{
+				"doi": "10.1016/j.ceramint.2012.07.047",
+				"or":  "A. Thuault, S. Marinel, E. Savary, R. Heuguet, D. Goeuriot, and D. Agrawal, Ceramics International, 39: 1215 (2013).",
+				"tr":  "A. Thuault, S. Marinel, E. Savary, R. Heuguet, D. Goeuriot, and D. Agrawal, Ceramics International, 39: 1215 (2013)."
+			},
+			{
+				"doi": "10.1016/j.measurement.2013.06.001",
+				"or":  "A. K. Sahoo and S. Pradhan, Measurement, 46: 3064 (2013).",
+				"tr":  "A. K. Sahoo and S. Pradhan, Measurement, 46: 3064 (2013)."
+			},
+			{
+				"doi": "10.1016/j.ceramint.2013.12.003",
+				"or":  "J. Wang, W. Lin, Z. Jiang, L. Duan, and G. Yang, Ceramics International, 40: 6793 (2013).",
+				"tr":  "J. Wang, W. Lin, Z. Jiang, L. Duan, and G. Yang, Ceramics International, 40: 6793 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "G. Amitesh and K. Jatinder, International Journal of Advanced Engineering Technology, 3: 170 (2012).",
+				"tr":  "G. Amitesh and K. Jatinder, International Journal of Advanced Engineering Technology, 3: 170 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "A. R. Motorcu, E. Ekici, and A. Kuş, Science and Engineering of Composite Materials, doi:10.1515/secm-2014 (2015).",
+				"tr":  "A. R. Motorcu, E. Ekici, and A. Kuş, Science and Engineering of Composite Materials, doi:10.1515/secm-2014 (2015)."
+			},
+			{
+				"doi": "10.1016/j.ijmachtools.2004.08.015",
+				"or":  "B. H. Yan, H. C. Tsai, F. Y. Huang, and L. C. Lee, International Journal of Machine Tools and Manufacture, 45, Iss. 3: 251 (2005).",
+				"tr":  "B. H. Yan, H. C. Tsai, F. Y. Huang, and L. C. Lee, International Journal of Machine Tools and Manufacture, 45, Iss. 3: 251 (2005)."
+			},
+			{
+				"doi": "10.1016/j.proeng.2013.09.152",
+				"or":  "P. Shandilya, P. K. Jain, and N. K. Jain, Procedia Engineering, 64: 767 (2013).",
+				"tr":  "P. Shandilya, P. K. Jain, and N. K. Jain, Procedia Engineering, 64: 767 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Goswami and J. Kumar, Engineering Science and Technology, an International Journal, 17, Iss. 4: 236 (2014).",
+				"tr":  "A. Goswami and J. Kumar, Engineering Science and Technology, an International Journal, 17, Iss. 4: 236 (2014)."
+			},
+			{
+				"doi": "10.1007/s00170-011-3242-5",
+				"or":  "D. Satishkumar, M. Kanthababu, V. Vajjiravelu, R. Anburaj, N. T. Sunda-Rajan, and H. Arul, Int. J. Adv. Manuf. Tech., 56: 975 (2011).",
+				"tr":  "D. Satishkumar, M. Kanthababu, V. Vajjiravelu, R. Anburaj, N. T. Sunda-Rajan, and H. Arul, Int. J. Adv. Manuf. Tech., 56: 975 (2011)."
+			},
+			{
+				"doi": "10.1016/j.jmatprotec.2006.05.008",
+				"or":  "K. Chiang and F. Chang, J. Mater. Process. Technol., 180: 96 (2006).",
+				"tr":  "K. Chiang and F. Chang, J. Mater. Process. Technol., 180: 96 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "R. K. Fard, R. A. Afza, and R. Teimouri, J. Mater. Process, 15: 483 (2013).",
+				"tr":  "R. K. Fard, R. A. Afza, and R. Teimouri, J. Mater. Process, 15: 483 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "R. K. Roy, Society of Manufacturing Engineers (Dearborn, Michigan: 1990).",
+				"tr":  "R. K. Roy, Society of Manufacturing Engineers (Dearborn, Michigan: 1990)."
+			},
+			{
+				"doi": "10.1016/j.procir.2013.01.003",
+				"or":  "F. Nourbakhsh, K. P. Rajurkar, A. P. Malshe, and J. Cao, Procedia CIRP, 5: 13 (2013).",
+				"tr":  "F. Nourbakhsh, K. P. Rajurkar, A. P. Malshe, and J. Cao, Procedia CIRP, 5: 13 (2013)."
+			}
+		]
+	}
+}

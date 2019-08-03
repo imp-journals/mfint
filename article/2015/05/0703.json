@@ -1,0 +1,101 @@
+{
+	"_id":    "MFiNT.37.05.0703",
+	"year":   2015,
+	"volume": 37,
+	"issue":  5,
+	"pages":  [703,712],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["26.01.2015","26.03.2015"],
+	"PACS":   "61.44.Br, 61.82.Bg, 62.20.Qp, 68.55.Nq, 81.16.Mk, 81.30.Bx, 81.40.Wx",
+	"title":  {
+		"ua": "Структура поверхневих шарів доевтектичного силуміну після лазерного легування сумішшю порошків міді та кобальту",
+		"en": "Surface-Layers’ Structure of Hypoeutectic Silumin after Laser Alloying by Mixture of the Copper and Cobalt Powders",
+		"ru": "Структура поверхностных слоёв доэвтектического силумина после лазерного легирования смесью порошков меди и кобальта"
+	},
+	"abstract": {
+		"ua": "Методами рентґенівського фазового та металографічного аналізів досліджено структуру поверхневих шарів доевтектичного силуміну після лазерного леґування сумішшю порошків міді та кобальту. Показано можливість впливу на фазовий склад обробленого шару та його дисперсність шляхом зміни режимів лазерного випромінювання і співвідношення між леґувальними компонентами в суміші.",
+		"en": "The structure of surface layers of the hypoeutectic silumin after laser doping by mixture of the copper and cobalt powders are studied using methods of X-ray phase and metallographic analyses. The possibility of the influence on the phase composition of the treated layer and its dispersivity by changing the conditions of laser radiation and ratio between the alloying species in the mixture are demonstrated",
+		"ru": "Методами рентгеновского фазового и металлографического анализов исследована структура поверхностных слоёв доэвтектического силумина после лазерного легирования смесью порошков меди и кобальта. Показана возможность влияния на фазовый состав обработанного слоя и его дисперсность путём изменения режимов лазерного излучения и соотношения между легирующими компонентами в смеси."
+	},
+	"keywords": {
+		"ua": "квазікристалічна фаза, діаграма фазових рівноваг, лазерне легування, густина потужності випромінювання",
+		"en": "quasicrystalline phase, phase equilibrium diagram, laser alloying, density of irradiation power",
+		"ru": "квазикристаллическая фаза, диаграмма фазовых равновесий, лазерное легирование, плотность мощности излучения"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. В. Гіржон", "en": "V. V. Girzhon", "ru": "В. В. Гиржон"},
+			"OID": [221]
+		},
+		{
+			"AID": {"ua": "В. М. Ковальова", "en": "V. M. Kovalyova", "ru": "В. Н. Ковалёва"},
+			"OID": [221]
+		},
+		{
+			"AID": {"ua": "О. В. Смоляков", "en": "O. V. Smolyakov", "ru": "А. В. Смоляков"},
+			"OID": [221]
+		}
+	],
+	"references": {
+		"count": 11,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "Л. І. Адєєва, А. Л. Борисова, Physics and Chemistry of Solid State, 3: 3 (2002).",
+				"tr":  "L. I. Adeyeva and A. L. Borysova, Physics and Chemistry of Solid State, 3: 3 (2002) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1007/s11669-012-0010-7",
+				"or":  "V. Raghavan, J. Phase Equilib., 33: 135 (2012).",
+				"tr":  "V. Raghavan, J. Phase Equilib., 33: 135 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Гиржон, В. Н. Ковалёва, А. В. Смоляков, Металлофиз. новейшие технол., 35, № 8: 1095 (2013).",
+				"tr":  "V. V. Girzhon, V. M. Kovalyova, and O. V. Smolyakov, Metallofiz. Noveishie Tekhnol., 35, No. 8: 1095 (2013) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "V. V. Girzhon, A. V. Smolyakov, and I. V. Tantsyura, Fiz. Met. Metalloved., 106: 1 (2008) (in Russian).",
+				"tr":  "V. V. Girzhon, A. V. Smolyakov, and I. V. Tantsyura, Fiz. Met. Metalloved., 106: 1 (2008) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Гайворонский, В. В. Гиржон, А. В. Смоляков, Металлофиз. новейшие технол., 34, № 5: 697 (2012).",
+				"tr":  "I. V. Gayvoronskyy, V. V. Girzhon, and O. V. Smolyakov, Metallofiz. Noveishie Tekhnol., 34, No. 5: 697 (2012) (in Russian)."
+			},
+			{
+				"doi": "10.1007/978-3-642-19831-1",
+				"or":  "G. G. Gladush and I. Smurov, Physics of Laser Materials Processing: Theory and Experiment (Berlin: Springer-Verlag: 2011).",
+				"tr":  "G. G. Gladush and I. Smurov, Physics of Laser Materials Processing: Theory and Experiment (Berlin: Springer-Verlag: 2011)."
+			},
+			{
+				"doi": "10.1016/j.jnoncrysol.2011.09.017",
+				"or":  "V. V. Girzhon, V. M. Kovalyova, O. V. Smolyakov, and M. I. Zakharenko, J. Non-Cryst. Solids, 358, Iss. 2: 137 (2012).",
+				"tr":  "V. V. Girzhon, V. M. Kovalyova, O. V. Smolyakov, and M. I. Zakharenko, J. Non-Cryst. Solids, 358, Iss. 2: 137 (2012)."
+			},
+			{
+				"doi": "10.1007/s11669-008-9298-8",
+				"or":  "V. Raghavan, J. Phase Equilib., 29: 267 (2008).",
+				"tr":  "V. Raghavan, J. Phase Equilib., 29: 267 (2008)."
+			},
+			{
+				"doi": "",
+				"or":  "R. Kh. Zeytounian, Adv. Phys. Sci., 168: 259 (1998).",
+				"tr":  "R. Kh. Zeytounian, Adv. Phys. Sci., 168: 259 (1998)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Ф. Мондольфо, Структура и свойства алюминиевых сплавов (Москва: Металлургия: 1979).",
+				"tr":  "L. F. Mondolfo, Struktura i Svoystva Alyuminievykh Splavov [Aluminum Alloys: Structure and Properties] (Moscow: Metallurgiya: 1979) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Р. Абрамович, Сварка плавлением меди и сплавов на медной основе (Ленинград: Машиностроение: 1988).",
+				"tr":  "V. R. Abramovich, Svarka Plavleniem Medi i Splavov na Mednoy Osnove [Fuse Welding of Copper and Alloys on a Copper Base] (Leningrad: Mashinostroenie: 1988) (in Russian)."
+			}
+		]
+	}
+}

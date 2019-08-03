@@ -1,0 +1,45 @@
+{
+	"_id":    "MFiNT.37.0169",
+	"year":   2015,
+	"volume": 37,
+	"issue":  2,
+	"pages":  [169,184],
+	"rubric": 6,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["14.10.2013"],
+	"PACS":   "61.05.cp, 61.66.Dk, 61.72.Ff, 64.60.Ej, 75.50.Tt, 81.07.Wx, 81.70.Pg",
+	"title":  {
+		"ua": "Зміна фазово-структурного стану сплаву на основі SmCo$_{5}$ в ході солід-ГДДР при низькому тиску водню",
+		"en": "Change of the Phase-Structural State of SmCo$_{5}$-Based Alloy During Solid-HDDR under Low Hydrogen Pressure",
+		"ru": "Изменение фазово-структурного состояния сплава на основе SmCo$_{5}$ в ходе солид-ГДДР при низком давлении водорода"
+	},
+	"abstract": {
+		"ua": "Методами диференційної термічної й рентґенофазової аналіз та електронної сканівної мікроскопії досліджено зміну фазово-структурного стану стопу на основі SmCo$_{5}$ у ході гідрування, диспропорционування, десорбування, рекомбінування (ГДДР) за тисків водню у 0,5 МПа та 1,0 МПа в діяпазоні температур 20—850°C з витримкою до 5 год. Встановлено, що за умов солід-ГДДР фазовий склад залежить від температури рекомбінування. Виявлено, що реакція диспропорціонування розпочинається на межах зерен SmCo$_{5}$. Вперше показано можливість формування високодисперсної структури шляхом ГДДР після часткового диспропорціонування. Встановлено, що за певних умов диспропорціонування залишки основної фази розподіляються у всьому об’ємі стопу.",
+		"en": "The change in phase-structural state of SmCo$_{5}$-based alloy during the hydrogenation, disproportionation, desorption, and recombination (HDDR) under hydrogen pressures of 0.5 MPa and 1.0 MPa in the temperature range 20—850°C with holding up to 5 h is investigated by means of the differential thermal and X-ray diffraction analyses and scanning electron microscopy methods. The dependence of phase composition on recombination temperature under solid-HDDR conditions is revealed. As found, the disproportionation reaction starts at the grain boundaries of SmCo$_{5}$ phase. For the first time, the possibility of finely dispersed structure formation by means of the HDDR in the case of partial disproportionation is established. As revealed under certain disproportionation conditions, the main phase residue is distributed throughout the bulk of alloy.",
+		"ru": "Методами дифференциального термического и рентгенофазового анализов и электронной сканирующей микроскопии исследовано изменение фазово-структурного состояния сплава на основе SmCo$_{5}$ в ходе гидрирования, диспропорционирования, десорбции, рекомбинации (ГДДР) при давлении водорода 0,5 МПа и 1,0 МПа в диапазоне температур 20—850°C с выдержкой до 5 часов. Установлено, что при солид-ГДДР фазовый состав зависит от температуры рекомбинации. Обнаружено, что реакция диспропорционирования начинается на границах зёрен фазы SmCo$_{5}$. Впервые показана возможность формирования высокодисперсной структуры путём ГДДР после частичного диспропорционирования. Установлено, что при определённых условиях диспропорционирования остатки основной фазы распределяются по всему объёму сплава."
+	},
+	"keywords": {
+		"ua": "феромагнітні стопи, SmCo$_{5}$, магнетна анізотропія, ініційовані воднем фазові перетворення, водневі технології",
+		"en": "ferromagnetic alloy, SmCo$_{5}$, magnetic anisotropy, phase transformations initiated by hydrogen, hydrogen technologies",
+		"ru": "ферромагнитные сплавы, SmCo$_{5}$, магнитная анизотропия, инициированные водородом фазовые превращения, водородные технологии"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. І. Булик", "en": "I. I. Bulyk", "ru": "И. И. Булык"},
+			"OID": [6]
+		},
+		{
+			"AID": {"ua": "В. В. Бурховецький", "en": "V. V. Burkhovetskyi", "ru": "В. В. Бурховецкий"},
+			"OID": [8]
+		},
+		{
+			"AID": {"ua": "А. М. Тростянчин", "en": "А. M. Trostianchyn", "ru": "А. Н. Тростянчин"},
+			"OID": [6]
+		}
+	],
+	"references": {
+		"count": 15,
+		"list":  []
+	}
+}

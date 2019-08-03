@@ -1,0 +1,104 @@
+{
+	"_id":    "MFiNT.36.01.0031",
+	"year":   2014,
+	"volume": 36,
+	"issue":  1,
+	"pages":  [31,38],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["12.08.2013"],
+	"PACS":   "61.46.-w, 64.75.+g, 66.30.-h,",
+	"title":   {
+		"ua": "In situ ПЕМ-дослідження кінетики гомогенізації полікристалічної плівкової системи Ag—Pd",
+		"en": "In Situ TEM Investigation of Homogenization Kinetics of Polycrystalline Ag—Pd Film System",
+		"ru": "In situ ПЭМ-исследование кинетики гомогенизации поликристаллической плёночной системы Ag—Pd"
+	},
+	"abstract": {
+		"ua": "Наведено результати in situ електронно-мікроскопічних досліджень швидкости дифузійного перемішування в шаруватій плівковій системі Ag—Pd. Показано, що ефективний коефіцієнт дифузії в системі Ag—Pd з характерним розміром зерна у 4—7 нм складає $D \\approx 10^{-17}-10^{-18}$ м$^{2}$/с при 280°C, що на 4 порядки перевищує значення для макроскопічних зразків.",
+		"en": "The rate of diffusion mixing in layered film Ag—Pd system is studied using in situ electron microscopy. The effective diffusion coefficient in Ag—Pd system with a typical grain size of 4—7 nm is determined as $D \\approx 10^{-17}-10^{-18}$ m$^{2}$/s at 280°C. This value is four orders of magnitude higher than that of the bulk one.",
+		"ru": "Приводятся результаты in situ электронно-микроскопических исследований скорости диффузионного перемешивания в слоистой плёночной системе Ag—Pd. Показано, что эффективный коэффициент диффузии в системе Ag—Pd с характерным размером зерна 4—7 нм составляет $D \\approx 10^{-17}-10^{-18}$ м$^{2}$/с при 280°C, что на 4 порядка превышает значения для макроскопических образцов."
+	},
+	"keywords": {
+		"ua": "тонкі плівки, система Ag—Pd, in situ нагрів в ПЕМ, гомогенізація, коефіцієнт дифузії",
+		"en": "thin films, Ag—Pd system, in situ TEM heating, homogenization, diffusion coefficient",
+		"ru": "тонкие плёнки, система Ag—Pd, in situ нагрев в ПЭМ, гомогенизация, коэффициент диффузии"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. П. Кришталь", "en": "O. P. Kryshtal’", "ru": "А. П. Крышталь"},
+			"OID": [206]
+		},
+		{
+			"AID": {"ua": "С. І. Богатиренко", "en": "S. I. Bogatyrenko", "ru": "С. И. Богатыренко"},
+			"OID": [206]
+		},
+		{
+			"AID": {"ua": "Р. В. Сухов", "en": "R. V. Sukhov", "ru": "Р. В. Сухов"},
+			"OID": [206]
+		},
+		{
+			"AID": {"ua": "О. О. Міненков", "en": "O. O. Minenkov", "ru": "А. А. Миненков"},
+			"OID": [206]
+		},
+		{
+			"AID": {"ua": "А. І. Таліашвілі", "en": "A. I. Taliashvili", "ru": "А. И. Талиашвили"},
+			"OID": [206]
+		}
+	],
+	"references": {
+		"count": 10,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "﻿Я. Е. Гегузин, Физика спекания (Москва: Наука: 1967).",
+				"tr":  "Ya. E. Geguzin, Fizika Spekaniya (Moscow: Nauka: 1967) (in Russian)."
+			},
+			{
+				"doi": "10.1007/BF00215171",
+				"or":  "V. M. Kosevich, A. N. Gladkikh, M. V. Karpovskyit, and V. N. Klimenko, Interface Sci., 2, Iss. 3: 247 (1995).",
+				"tr":  "V. M. Kosevich, A. N. Gladkikh, M. V. Karpovskyit, and V. N. Klimenko, Interface Sci., 2, Iss. 3: 247 (1995)."
+			},
+			{
+				"doi": "10.1080/00018736500101071",
+				"or":  "D. W. Pashley, Adv. Phys., 14, No. 55: 327 (1965).",
+				"tr":  "D. W. Pashley, Adv. Phys., 14, No. 55: 327 (1965)."
+			},
+			{
+				"doi": "10.1016/0039-6028(92)90827-S",
+				"or":  "M. Miki-Yoshida, S. Tehuacanero, and M. Jose-Yacaman, Surf. Sci. Lett., 274: L569 (1992).",
+				"tr":  "M. Miki-Yoshida, S. Tehuacanero, and M. Jose-Yacaman, Surf. Sci. Lett., 274: L569 (1992)."
+			},
+			{
+				"doi": "10.1080/09500839108205987",
+				"or":  "H. Mori, M. Komatsu, K. Takeda et al., Philos. Mag. Lett., 63, No. 3: 173 (1991).",
+				"tr":  "H. Mori, M. Komatsu, K. Takeda et al., Philos. Mag. Lett., 63, No. 3: 173 (1991)."
+			},
+			{
+				"doi": "",
+				"or":  "С. И. Богатыренко, Н. Т. Гладких, А. П. Крышталь, А. Л. Самсоник, В. Н. Сухов, Физика металлов и металловедение, 109, № 3: 276 (2010).",
+				"tr":  "S. I. Bogatyrenko, N. T. Gladkikh, A. P. Kryshtal', A. L. Samsonik, and V. N. Sukhov, Fizika Metallov i Metallovedenie, 109, No. 3: 276 (2010) (in Russian)."
+			},
+			{
+				"doi": "10.1016/S0169-4332(00)00029-5",
+				"or":  "A. D. Vasilyev and A. N. Bekrenev, Appl. Surf. Sci., 161: 14 (2000).",
+				"tr":  "A. D. Vasilyev and A. N. Bekrenev, Appl. Surf. Sci., 161: 14 (2000)."
+			},
+			{
+				"doi": "",
+				"or":  "Е. М. Савицкий, Н. Л. Правоверов, Журнал неорганической химии, 6, № 2: 499 (1961).",
+				"tr":  "E. M. Savitskiy and N. L. Pravoverov, Zhurnal Neorganicheskoy Khimii, 6, No. 2: 499 (1961) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. П. Крышталь, С. И. Богатыренко, Р. В. Сухов, А. А. Миненков, Физическая инженерия поверхности, 11, № 4: 351 (2013).",
+				"tr":  "A. P. Kryshtal', S. I. Bogatyrenko, R. V. Sukhov, and A. A. Minenkov, Fizicheskaya Inzheneriya Poverkhnosti, 11, No. 4: 351 (2013) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.micron.2012.03.002",
+				"or":  "C. E. Carlton and P. J. Ferreira, Micron, 43: 1134 (2012).",
+				"tr":  "C. E. Carlton and P. J. Ferreira, Micron, 43: 1134 (2012)."
+			}
+		]
+	}
+}

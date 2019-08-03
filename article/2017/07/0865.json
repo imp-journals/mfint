@@ -1,0 +1,166 @@
+{
+	"_id":    "MFiNT.39.07.0865",
+	"year":   2017,
+	"volume": 39,
+	"issue":  7,
+	"pages":  [865,879],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ua",
+	"date":   ["25.06.2017"],
+	"PACS":   "64.60.De, 64.60.Ej, 66.30.Ny, 66.30.Pa, 68.35.bd, 81.30.Hd",
+	"title":   {
+		"ua": "Вплив проміжного нанопрошарку на кінетику фазоутворення та впорядкування в тонких плівках — моделювання середньопольовою кінетичною методою",
+		"en": "Influence of the Intermediate Nanointerlayer on a Kinetics of Phase Formation and Ordering in Thin Films—Mean-Field Kinetic Simulation",
+		"ru": "Влияние промежуточной нанопрослойки на кинетику фазообразования и упорядочения в тонких плёнках — моделирование среднеполевым кинетическим методом"
+	},
+	"abstract": {
+		"ua": "Розглядається спрощений середньопольовий кінетичний модель можливого впливу проміжного прошарку на швидкість перемішування та впорядкування у тонкоплівковій дифузійній парі типу Fe–Pt. Показано, що є широка область параметрів, за яких додавання проміжного прошарку підвищує ефективність перемішування та впорядкування.",
+		"en": "Simplified mean-field kinetic model is applied to check the possible influence of the intermediate layer on the mixing and ordering rates in the Fe–Pt-type thin film system. This idea seems to work within the wide range of the parameters.",
+		"ru": "Рассматривается упрощённая среднеполевая кинетическая модель возможного влияния промежуточной прослойки на скорость перемешивания и упорядочения в тонкоплёночной диффузионной паре типа Fe–Pt. Показано, что существует широкая область параметров, при которых введение промежуточной прослойки повышает эффективность перемешивания и упорядочения."
+	},
+	"keywords": {
+		"ua": "наносистема, тонкі плівки FePt, дифузія, впорядкування, середньопольова метода, моделювання",
+		"en": "nanosystem, FePt thin films, diffusion, ordering, mean-field method, modelling",
+		"ru": "наносистема, тонкие плёнки FePt, диффузия, упорядочение, метод среднего поля, моделирование"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. М. Безпальчук", "en": "V. M. Bezpalchuk", "ru": "В. Н. Безпальчук"},
+			"OID": [214]
+		},
+		{
+			"AID": {"ua": "Д. С. Русенко", "en": "D. S. Rusenko", "ru": "Д. С. Русенко"},
+			"OID": [214]
+		},
+		{
+			"AID": {"ua": "А. М. Гусак", "en": "A. M. Gusak", "ru": "А. М. Гусак"},
+			"OID": [214]
+		}
+	],
+	"references": {
+		"count": 24,
+		"list":  [
+			{
+				"doi": "10.1016/j.jmmm.2009.12.027",
+				"or":  "Y. S. Yu, Hai-Bo Li, W. L. Li, Mei Liu, Yu-Mei Zhang, and W. D. Fei, J. Magn. Magn. Mater., 322, Iss. 13: 1770 (2010).",
+				"tr":  "Y. S. Yu, Hai-Bo Li, W. L. Li, Mei Liu, Yu-Mei Zhang, and W. D. Fei, J. Magn. Magn. Mater., 322, Iss. 13: 1770 (2010)."
+			},
+			{
+				"doi": "10.1063/1.1463213",
+				"or":  "T. Maeda, T. Kai, A. Kikitsu, T. Nagase, and Jun-ichi Akiyama, Appl. Phys. Lett., 80, Iss. 12: 2147 (2002).",
+				"tr":  "T. Maeda, T. Kai, A. Kikitsu, T. Nagase, and Jun-ichi Akiyama, Appl. Phys. Lett., 80, Iss. 12: 2147 (2002)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.86.024204",
+				"or":  "M. Maret, C. Brombacher, P. Matthes, D. Makarov, N. Boudet, and M. Albrecht, Phys. Rev. B, 86, Iss. 2: 024204 (2012).",
+				"tr":  "M. Maret, C. Brombacher, P. Matthes, D. Makarov, N. Boudet, and M. Albrecht, Phys. Rev. B, 86, Iss. 2: 024204 (2012)."
+			},
+			{
+				"doi": "10.1063/1.4757038",
+				"or":  "C. Brombacher, H. Schletter, M. Daniel, P. Matthes, N. Jöhrmann, M. Maret, D. Makarov, M. Hietschold, and M. Albrecht, J. Appl. Phys., 112, Iss. 7: 073912 (2012).",
+				"tr":  "C. Brombacher, H. Schletter, M. Daniel, P. Matthes, N. Jöhrmann, M. Maret, D. Makarov, M. Hietschold, and M. Albrecht, J. Appl. Phys., 112, Iss. 7: 073912 (2012)."
+			},
+			{
+				"doi": "10.1063/1.4799651",
+				"or":  "D. A. Gilbert, L.-W. Wang, T. J. Klemmer, J.-U. Thiele, C.-H. Lai, and K. Liu, Appl. Phys. Lett., 102, Iss. 13: 132406 (2013).",
+				"tr":  "D. A. Gilbert, L.-W. Wang, T. J. Klemmer, J.-U. Thiele, C.-H. Lai, and K. Liu, Appl. Phys. Lett., 102, Iss. 13: 132406 (2013)."
+			},
+			{
+				"doi": "10.1063/1.1516870",
+				"or":  "C. L. Platt, K. W. Wierman, E. B. Svedberg, R. van de Veerdonk, J. K. Howard, A. G. Roy, and D. E. Laughlin, J. Appl. Phys., 92, Iss. 10: 6104 (2002).",
+				"tr":  "C. L. Platt, K. W. Wierman, E. B. Svedberg, R. van de Veerdonk, J. K. Howard, A. G. Roy, and D. E. Laughlin, J. Appl. Phys., 92, Iss. 10: 6104 (2002)."
+			},
+			{
+				"doi": "10.1063/1.3001801",
+				"or":  "C. Feng, Q. Zhan, B. Li, J. Teng, M. Li, Y. Jiang, and G. Yu, Appl. Phys. Lett., 93, Iss. 15: 152513 (2008).",
+				"tr":  "C. Feng, Q. Zhan, B. Li, J. Teng, M. Li, Y. Jiang, and G. Yu, Appl. Phys. Lett., 93, Iss. 15: 152513 (2008)."
+			},
+			{
+				"doi": "10.1063/1.2335600",
+				"or":  "C. Y. You, Y. K. Takahashi, and K. Hono, J. Appl. Phys., 100, Iss. 5: 056105 (2006).",
+				"tr":  "C. Y. You, Y. K. Takahashi, and K. Hono, J. Appl. Phys., 100, Iss. 5: 056105 (2006)."
+			},
+			{
+				"doi": "10.1063/1.4864251",
+				"or":  "Y. Tokuoka, Y. Seto, T. Kato, and S. Iwata, J. Appl. Phys., 115, Iss. 17: 17B716 (2014).",
+				"tr":  "Y. Tokuoka, Y. Seto, T. Kato, and S. Iwata, J. Appl. Phys., 115, Iss. 17: 17B716 (2014)."
+			},
+			{
+				"doi": "10.1063/1.2829022",
+				"or":  "D. H. Wei, F. T. Yuan, H. W. Chang, K. L. You, Y. Liou, Y. D. Yao, and J. K. Wu, J. Appl. Phys., 103, Iss. 7: 07E116 (2008).",
+				"tr":  "D. H. Wei, F. T. Yuan, H. W. Chang, K. L. You, Y. Liou, Y. D. Yao, and J. K. Wu, J. Appl. Phys., 103, Iss. 7: 07E116 (2008)."
+			},
+			{
+				"doi": "10.1063/1.3536794",
+				"or":  "L. Zhang, Y. K. Takahashi, K. Hono, B. C. Stipe, J.-Y. Juang, and M. Grobis, J. Appl. Phys., 109, Iss. 7: 07B703 (2011).",
+				"tr":  "L. Zhang, Y. K. Takahashi, K. Hono, B. C. Stipe, J.-Y. Juang, and M. Grobis, J. Appl. Phys., 109, Iss. 7: 07B703 (2011)."
+			},
+			{
+				"doi": "10.1088/0022-3727/48/17/175001",
+				"or":  "G. L. Katona, N. Y. Safonova, F. Ganss, D. Mitin, I. A. Vladymyrskyi, S. I. Sidorenko, Iu. N. Makogon, G. Beddies, M. Albrecht, and D. L. Beke, J. Phys. D: Appl. Phys., 48, No. 17: 175001 (2015).",
+				"tr":  "G. L. Katona, N. Y. Safonova, F. Ganss, D. Mitin, I. A. Vladymyrskyi, S. I. Sidorenko, Iu. N. Makogon, G. Beddies, M. Albrecht, and D. L. Beke, J. Phys. D: Appl. Phys., 48, No. 17: 175001 (2015)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.41.2279",
+				"or":  "G. Martin, Phys. Rev. B, 41, Iss. 4: 2279 (1990).",
+				"tr":  "G. Martin, Phys. Rev. B, 41, Iss. 4: 2279 (1990)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.89.165901",
+				"or":  "Z. Erdélyi, I. A. Szabó, and D. L. Beke, Phys. Rev. Lett., 89, Iss. 16: 165901 (2002).",
+				"tr":  "Z. Erdélyi, I. A. Szabó, and D. L. Beke, Phys. Rev. Lett., 89, Iss. 16: 165901 (2002)."
+			},
+			{
+				"doi": "10.1126/science.1104400",
+				"or":  "Z. Erdélyi, M. Sladecek, L.-M. Stadler, I. Zizak, G. A. Langer, M. Kis-Varga, D. L. Beke, and B. Sepiol, Science, 306, Iss. 5703: 1913 (2004).",
+				"tr":  "Z. Erdélyi, M. Sladecek, L.-M. Stadler, I. Zizak, G. A. Langer, M. Kis-Varga, D. L. Beke, and B. Sepiol, Science, 306, Iss. 5703: 1913 (2004)."
+			},
+			{
+				"doi": "10.1063/1.2905334",
+				"or":  "Z. Erdélyi, D. L. Beke, and A. Taranovskyy, Applied Physics Letters, 92, Iss. 13: 133110 (2008).",
+				"tr":  "Z. Erdélyi, D. L. Beke, and A. Taranovskyy, Applied Physics Letters, 92, Iss. 13: 133110 (2008."
+			},
+			{
+				"doi": "10.1080/14786435.2012.746793",
+				"or":  "N. V. Storozhuk, K. V. Sopiga, and A. M. Gusak, Philos. Mag., 93, Iss. 16: 1999 (2013).",
+				"tr":  "N. V. Storozhuk, K. V. Sopiga, and A. M. Gusak, Philos. Mag., 93, Iss. 16: 1999 (2013."
+			},
+			{
+				"doi": "10.1016/j.cpc.2016.03.003",
+				"or":  "Z. Erdélyi, M. Pasichnyy, V. Bezpalchuk, J. J. Tomán, B. Gajdics, and A. M. Gusak, Comput. Phys. Commun., 204: 31 (2016).",
+				"tr":  "Z. Erdélyi, M. Pasichnyy, V. Bezpalchuk, J. J. Tomán, B. Gajdics, and A. M. Gusak, Comput. Phys. Commun., 204: 31 (2016)."
+			},
+			{
+				"doi": "10.15407/mfint.37.12.1583",
+				"or":  "В. M. Безпальчук, M. O. Пасічний, A. M. Гусак, Металлофиз. новейшие технол., 37, №12: 1583 (2015).",
+				"tr":  "V. M. Bezpalchuk and A. M. Gusak, Metallofiz. Noveishie Tekhnol., 37, No. 12: 1583 (2015) (in Ukrainian."
+			},
+			{
+				"doi": "10.15407/mfint.38.09.1135",
+				"or":  "В. M. Безпальчук, M. O. Пасічний, A. M. Гусак, Металлофиз. новейшие технол., 38, №9: 1135 (2016).",
+				"tr":  "V. M. Bezpalchuk, M. O. Pasichnyy, and A. M. Gusak, Metallofiz. Noveishie Tekhnol., 38, No. 9: 1135 (2016) (in Ukrainian."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Смирнов, Физика металлов (Москва: Наука: 1971).",
+				"tr":  "A. A. Smirnov, Fizika Metallov [The Physics of Metals] (Moscow: Nauka: 1971) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Смирнов, Молекулярно-кинетическая теория металлов (Москва: Наука: 1966).",
+				"tr":  "A. A. Smirnov, Molekulyarno-Kineticheskaya Teoriya Metallov [The Molecular-Kinetic Theory of Metals) (Moscow: Nauka: 1966) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. М. Гусак, А. А. Ковальчук, Металлофиз. новейшие технол., 19, №7: 39 (1997).",
+				"tr":  "A. M. Gusak, A. A. Kovalchuk, Metallofiz. Noveishie Tekhnol., 19, No. 7: 39 (1997) (in Ukrainian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.58.2551",
+				"or":  "A. M. Gusak and A. O. Kovalchuk, Phys. Rev. B, 58, Iss. 5: 2551 (1998).",
+				"tr":  "A. M. Gusak and A. O. Kovalchuk, Phys. Rev. B, 58, Iss. 5: 2551 (1998)."
+			}
+		]
+	}
+}

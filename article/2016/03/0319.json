@@ -1,0 +1,155 @@
+{
+	"_id":    "MFiNT.38.03.0319",
+	"year":   2016,
+	"volume": 38,
+	"issue":  3,
+	"pages":  [319,328],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["21.01.2016"],
+	"PACS":   "73.23.-b, 73.40.Gk, 73.40.Ns, 74.50.+r, 74.70.Ad, 85.25.Am, 85.25.Cp, 85.25.Dq",
+	"title":   {
+		"ua": "Переходи Джозефсона з підвищеним значенням характеристичної напруги",
+		"en": "Josephson Junctions with the Increased Value of a Characteristic Voltage",
+		"ru": "Переходы Джозефсона с повышенным значением характеристического напряжения"
+	},
+	"abstract": {
+		"ua": "З використанням маскової технології шляхом вакуумного осадження було створено та досліджено Джозефсонові близькісні MgB$_{2}$—Al—Al$_{2}$O$_{3}$—MoRe переходи та резонансно-перколяційні MgB$_{2}$—Si(W)—MoRe переходи на основі тонких плівок дибориду магнію MgB$_{2}$. Підвищені значення характеристичної напруги I$_{C}$R$_{N}$ = 30—38 мВ створених Джозефсонових переходів MgB$_{2}$—Si(W)—MoRe уможливлюють поліпшити чутливість двоконтактних НКВІДів у декілька разів за рахунок збільшення коефіцієнта перетворення магнітний потік—напруга.",
+		"en": "By using vacuum deposition and shadow-masks’ technique, there are fabricated and investigated Josephson proximity MgB$_{2}$—Al—Al$_{2}$O$_{3}$—MoRe junctions and Josephson resonance-percolation MgB$_{2}$—Si(W)—MoRe junctions based on the magnesium diboride (MgB$_{2}$) thin films. The increased values of the characteristic voltage I$_{C}$R$_{N}$ = 30—38 mV of fabricated MgB$_{2}$—Si(W)—MoRe junctions give a possibility to increase DC SQUID sensitivity by several times as a result of the increasing of their flux-to-voltage transfer coefficient.",
+		"ru": "С использованием масочной технологии путём вакуумного осаждения были созданы и исследованы близостные MgB$_{2}$—Al—Al$_{2}$O$_{3}$—MoRe переходы и резонансно-перколяционные MgB$_{2}$—Si(W)—MoRe переходы Джозефсона на основе тонких плёнок диборида магния MgB$_{2}$. Повышенные значения характеристического напряжения I$_{C}$R$_{N}$ = 30—38 мВ созданных переходов Джозефсона MgB$_{2}$—Si(W)—MoRe позволяют улучшить чувствительность двухконтактных СКВИДов в несколько раз за счёт увеличения коэффициента преобразования магнитный поток—напряжение."
+	},
+	"keywords": {
+		"ua": "надпровідність, диборид магнію, Джозефсонів перехід, двоконтактний НКВІД, тонкі плівки, коефіцієнт перетворення магнітний потік—напруга",
+		"en": "superconductivity, magnesium diboride, Josephson junctions, DC SQUID, thin films, flux-to-voltage transfer coefficient",
+		"ru": "сверхпроводимость, диборид магния, переход Джозефсона, двухконтактный СКВИД, тонкие плёнки, коэффициент преобразования магнитный поток—напряжение"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. Є. Шатерник", "en": "V. E. Shaternik", "ru": "В. Е. Шатерник"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "А. П. Шаповалов", "en": "A. P. Shapovalov", "ru": "А. П. Шаповалов"},
+			"OID": [12]
+		},
+		{
+			"AID": {"ua": "А. В. Шатерник", "en": "A. V. Shaternik", "ru": "А. В. Шатерник"},
+			"OID": [12]
+		},
+		{
+			"AID": {"ua": "Т. А. Пріхна", "en": "T. A. Prikhna", "ru": "Т. А. Прихна"},
+			"OID": [12]
+		}
+	],
+	"references": {
+		"count": 21,
+		"list":  [
+			{
+				"doi": "10.1063/1.3695159",
+				"or":  "K. Chen, D. Cunnane, Y. Shen, X. X. Xi, A. Kleinsasser, and J. Rowell, Appl. Phys. Lett., 100, No. 12: 122601 (2012).",
+				"tr":  "K. Chen, D. Cunnane, Y. Shen, X. X. Xi, A. Kleinsasser, and J. Rowell, Appl. Phys. Lett., 100, No. 12: 122601 (2012)."
+			},
+			{
+				"doi": "10.1063/1.3029726",
+				"or":  "H. Shimakage and Z. Wang, J. Appl. Phys., 105, No. 1: 013918 (2009).",
+				"tr":  "H. Shimakage and Z. Wang, J. Appl. Phys., 105, No. 1: 013918 (2009)."
+			},
+			{
+				"doi": "10.1063/1.1868871",
+				"or":  "H. Shimakage, K. Tsujimoto, Z. Wang, and M. Tonouchi, Appl. Phys. Lett., 86, No. 7: 072512 (2005).",
+				"tr":  "H. Shimakage, K. Tsujimoto, Z. Wang, and M. Tonouchi, Appl. Phys. Lett., 86, No. 7: 072512 (2005)."
+			},
+			{
+				"doi": "10.1063/1.1920411",
+				"or":  "K. Ueda, S. Saito, K. Semba, T. Makimoto, and M. Naito, Appl. Phys. Lett., 86, No. 17: 172502 (2005).",
+				"tr":  "K. Ueda, S. Saito, K. Semba, T. Makimoto, and M. Naito, Appl. Phys. Lett., 86, No. 17: 172502 (2005)."
+			},
+			{
+				"doi": "10.1063/1.2742909",
+				"or":  "H. Shim, K. Yoon, J. Moodera, and J. Hong, Appl. Phys. Lett., 90, No. 21: 212509 (2007).",
+				"tr":  "H. Shim, K. Yoon, J. Moodera, and J. Hong, Appl. Phys. Lett., 90, No. 21: 212509 (2007)."
+			},
+			{
+				"doi": "10.1063/1.2390622",
+				"or":  "T. Kim and J. Moodera, J. Appl. Phys., 100, No. 11: 113904 (2006).",
+				"tr":  "T. Kim and J. Moodera, J. Appl. Phys., 100, No. 11: 113904 (2006)."
+			},
+			{
+				"doi": "10.1063/1.3332575",
+				"or":  "M. Costache and J. Moodera , Appl. Phys. Lett., 96, No. 8: 082508 (2010).",
+				"tr":  "M. Costache and J. Moodera, Appl. Phys. Lett., 96, No. 8: 082508 (2010)."
+			},
+			{
+				"doi": "10.1039/c1ra00076d",
+				"or":  "K. Elsabawy, RSC Advances, 1, No. 6: 964 (2011).",
+				"tr":  "K. Elsabawy, RSC Advances, 1, No. 6: 964 (2011)."
+			},
+			{
+				"doi": "10.1063/1.2226546",
+				"or":  "R. Singh, R. Gandikota, J. Kim, N. Newman, and J. Rowell, Appl. Phys. Lett., 89, No. 4: 042512 (2006).",
+				"tr":  "R. Singh, R. Gandikota, J. Kim, N. Newman, and J. Rowell, Appl. Phys. Lett., 89, No. 4: 042512 (2006)."
+			},
+			{
+				"doi": "10.1088/0953-2048/27/6/065015",
+				"or":  "E. Galan, D. Cunnane, X. X. Xi, and K. Chen, Supercond. Sci. Technol., 27, No. 6: 065015 (2014).",
+				"tr":  "E. Galan, D. Cunnane, X. X. Xi, and K. Chen, Supercond. Sci. Technol., 27, No. 6: 065015 (2014)."
+			},
+			{
+				"doi": "10.1109/TASC.2014.2366076",
+				"or":  "T. Melbourne, D. Cunnane, E. Galan, X. X. Xi, and K. Chen, IEEE Transactions, Applied Superconductivity, 25, No. 3: 1 (2014).",
+				"tr":  "T. Melbourne, D. Cunnane, E. Galan, X. X. Xi, and K. Chen, IEEE Transactions, Applied Superconductivity, 25, No. 3: 1 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "The SQUID Handbook (Eds. J. Clarke and A. I. Braginski) (Weinheim: WILEY-VCH Verlag GmbH & Co. KGaA: 2004), vol. I.",
+				"tr":  "The SQUID Handbook (Eds. J. Clarke and A. I. Braginski) (Weinheim: WILEY-VCH Verlag GmbH & Co. KGaA: 2004), vol. I."
+			},
+			{
+				"doi": "",
+				"or":  "Superconductors—Properties, Technology, and Applications (Ed. Y. Grigorashvili) (ISBN 978-953-51-0545-9, Published: April 20, 2012 under CC BY 3.0 license).",
+				"tr":  "Superconductors—Properties, Technology, and Applications (Ed. Y. Grigorashvili) (ISBN 978-953-51-0545-9, Published: April 20, 2012 under CC BY 3.0 license)."
+			},
+			{
+				"doi": "10.1063/1.4833022",
+				"or":  "D. Cunnane, E. Galan, K. Chen, and X. X. Xi, Appl. Phys. Lett. , 103, No. 21: 212603 (2013).",
+				"tr":  "D. Cunnane, E. Galan, K. Chen, and X. X. Xi, Appl. Phys. Lett., 103, No. 21: 212603 (2013)."
+			},
+			{
+				"doi": "10.1063/1.4876129",
+				"or":  "S. Cybart, T. Wong, E. Cho, J. Beeman, C. Yung, B. Moeckly, and R. Dynes, Appl. Phys. Lett., 104, No. 18: 182604 (2014).",
+				"tr":  "S. Cybart, T. Wong, E. Cho, J. Beeman, C. Yung, B. Moeckly, and R. Dynes, Appl. Phys. Lett., 104, No. 18: 182604 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "D. Cunnane, N. Acharya, M. Wolak, X. X. Xi, and B. Karasik, Proc. of the 26th International Symposium on Space Terahertz Technology (ISSTT 2015) (March 16–18, 2015) (Cambridge, MA, USA: ISSTT Conf. Publ.: 2015), p. M2–2.",
+				"tr":  "D. Cunnane, N. Acharya, M. Wolak, X. X. Xi, and B. Karasik, Proc. of the 26th International Symposium on Space Terahertz Technology (ISSTT 2015) (March 16–18, 2015) (Cambridge, MA, USA: ISSTT Conf. Publ.: 2015), p. M2–2."
+			},
+			{
+				"doi": "10.1016/j.phpro.2012.06.052",
+				"or":  "V. Shaternik, M. Belogolovskii, T. Prikhna, A. Shapovalov, O. Prokopenko, D. Jabko, O. Kudrja, O. Suvorov, and V. Noskov, Physics Procedia, 36: 94 (2012).",
+				"tr":  "V. Shaternik, M. Belogolovskii, T. Prikhna, A. Shapovalov, O. Prokopenko, D. Jabko, O. Kudrja, O. Suvorov, and V. Noskov, Physics Procedia, 36: 94 (2012)."
+			},
+			{
+				"doi": "10.1088/2053-1591/1/2/026001",
+				"or":  "V. Shaternik, A. Shapovalov, M. Belogolovskii, O. Suvorov, S. Döring, S. Schmidt, and P. Seidel, Material Research Express, 1, No. 2: 026001 (2014).",
+				"tr":  "V. Shaternik, A. Shapovalov, M. Belogolovskii, O. Suvorov, S. Döring, S. Schmidt, and P. Seidel, Material Research Express, 1, No. 2: 026001 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Shaternik, A. Shapovalov, A. Suvorov, S. Doring, S. Schmidt, and P. Seidel, Proc. of 8th International Kharkov Symposium on Physics and Engineering of Microwaves, Millimeter and Submillimeter Waves (MSMW 2013) (June 23–28, 2013) (Kharkov: IEEE Conf. Publ.: 2013), p. 655.",
+				"tr":  "V. Shaternik, A. Shapovalov, A. Suvorov, S. Doring, S. Schmidt, and P. Seidel, Proc. of 8th International Kharkov Symposium on Physics and Engineering of Microwaves, Millimeter and Submillimeter Waves (MSMW 2013) (June 23–28, 2013) (Kharkov: IEEE Conf. Publ.: 2013), p. 655."
+			},
+			{
+				"doi": "",
+				"or":  "I. M. Lifshitz and V. Ya. Kirpichenkov, ZhETF, 77, No. 3: 989 (1979) (in Russian).",
+				"tr":  "I. M. Lifshitz and V. Ya. Kirpichenkov, ZhETF, 77, No. 3: 989 (1979) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.25.4515",
+				"or":  "G. E. Blonder, M. Tinkham, and T. M. Klapwijk, Phys. Rev. B, 25, No. 7: 4515 (1982).",
+				"tr":  "G. E. Blonder, M. Tinkham, and T. M. Klapwijk, Phys. Rev. B, 25, No. 7: 4515 (1982)."
+			}
+		]
+	}
+}

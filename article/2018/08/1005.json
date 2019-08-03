@@ -1,0 +1,178 @@
+{
+	"_id":    "MFiNT.40.08.1005",
+	"year":   2018,
+	"volume": 40,
+	"issue":  8,
+	"pages":  [1005,1027],
+	"rubric": 4,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["06.03.2018"],
+	"PACS":   "06.60.Vz, 62.20.Qp, 71.20.Be, 81.40.Np, 81.40.Pq, 81.65.-b, 82.80.Pv",
+	"title":   {
+		"ua": "Вплив мастильно-охолодних рідин з активними хемічними елементами на підвищення довговічности сталевих деталів при фрикційному зміцненні робочих поверхонь",
+		"en": "Influence of Lubricoolants with Active Chemical Elements on Increase of Durability of Steel Parts After Frictional Hardening Working Surfaces",
+		"ru": "Влияние смазочно-охлаждающих жидкостей с активными химическими элементами на повышение долговечности стальных деталей при фрикционном упрочнении рабочих поверхностей"
+	},
+	"abstract": {
+		"ua": "Встановлено, що підвищення втомної тріщиностійкости деталів машин і механізмів при фрикційному зміцненні їхніх робочих поверхонь істотно залежить від вибору технологічного середовища. Проведено комплексне локальне дослідження впливу різних робочих середовищ на фазовий і хемічний склади, мікроструктуру та напружений стан фрикційно-зміцненої сталі 45. Показано, що насичення фрикційно-зміцненого металу активними хемічними елементами мастильно-охолодних рідин впливає на втомну тріщиностійкість виробів. Ці хемічні елементи переважно знаходяться у примежових областях зерен, не утворюють будь-яких хемічних сполук з атомами вихідного металу й істотно змінюють електронну структуру та характер хемічних зв’язків між атомами. Насичення фрикційно-зміцненого металу атомами Карбону понижує втомну тріщиностійкість матеріялу через малу рухливість атомів у примежових областях зерен внаслідок утворення міцних ковалентних зв’язків між атомами Карбону й атомами металу, що оточують їх.",
+		"en": "As determined, an increase in the fatigue crack resistance of machine parts at frictional hardening of their working surfaces essentially depends on the choice of the technological environment. A complex local study of the influence of different working media on the phase and chemical compositions, microstructure, and stress state of friction-hardened steel 45 is carried out. As shown, a saturation of friction-hardened metal with active chemical elements from lubricoolants influences on the fatigue crack resistance of articles. These chemical elements are predominantly located in the near-boundary regions of grains. They do not form any chemical compounds with the atoms of the parent metal and significantly change both the electronic structure and the nature of chemical bonds between the atoms. Saturation of friction-hardened metal with carbon atoms reduces the fatigue crack resistance of the material because of low atoms’ mobility in the near-boundary regions of the grains because of formation of strong covalent bonds between the carbon atoms and the surrounding metal atoms.",
+		"ru": "Установлено, что повышение усталостной трещиностойкости деталей машин и механизмов при фрикционном упрочнении их рабочих поверхностей существенно зависит от выбора технологической среды. Проведено комплексное локальное исследование влияния разных рабочих сред на фазовый и химический составы, микроструктуру и напряжённое состояние фрикционно-упрочнённой стали 45. Показано, что насыщение фрикционно-упрочнённого металла активными химическими элементами смазочно-охлаждающих жидкостей влияет на усталостную трещиностойкость изделий. Эти химические элементы преимущественно находятся в приграничных областях зёрен, не образуют каких-либо химических соединений с атомами исходного металла и существенно изменяют электронную структуру и характер химических связей между атомами. Насыщение фрикционно-упрочнённого металла атомами углерода снижает усталостную трещиностойкость материала из-за малой подвижности атомов в приграничных областях зёрен в результате образования прочных ковалентных связей между атомами углерода и окружающими их атомами металла."
+	},
+	"keywords": {
+		"ua": "тертя, мастильно-охолодні рідини, втомна тріщиностійкість, пластична деформація, домішкові атоми, електронна структура, міжатомові зв’язки",
+		"en": "friction, lubricoolants, fatigue crack resistance, plastic deformation, impurity atoms, electronic structure, interatomic bonds",
+		"ru": "смазочно-охлаждающие жидкости, усталостная трещиностойкость, пластическая деформация, примесные атомы, электронная структура, межатомные связи"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "В. В. Тихонович", "en": "V. V. Tykhonovych", "ru": "В. В. Тихонович"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 28,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "В. М. Смелянский, Механика упрочнения деталей поверхностным пластическим деформированием (Москва: Машиностроение: 2002).",
+				"tr":  "V. M. Smelyanskiy, Mekhanika Uprochneniya Detaley Poverkhnostnym Plasticheskim Deformirovaniem (Moscow: Mashinostroenie: 2002) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "І. В. Гурей, Вісник Тернопільського державного технічного університету, 4, № 4: 11 (1999).",
+				"tr":  "I. V. Gurey, Visnyk Ternopil's'kogo Derzhavnogo Tekhnichnogo Universytetu, 4, No. 4: 11 (1999) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "І. В. Гурей, Вісник Тернопільського державного технічного університету, 3, № 4: 124 (1998).",
+				"tr":  "I. V. Gurey, Visnyk Ternopil's'kogo Derzhavnogo Tekhnichnogo Universytetu, 3, No. 4: 124 (1998) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "І. В. Гурей, Вісник Тернопільського державного технічного університету, 4, № 3: 91 (1999).",
+				"tr":  "I. V. Gurey, Visnyk Ternopil's'kogo Derzhavnogo Tekhnichnogo Universytetu, 4, No. 3: 91 (1999) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "І. В. Гурей, Т. А. Гурей, В. В. Тихонович, Физ.-хим. механика материалов, 35, № 1: 122 (1999).",
+				"tr":  "I. V. Gurey, T. A. Gurey, and V. V. Tykhonovych, Fiziko-Khimicheskaya Mekhanika Materialov, 35, No. 1: 122 (1999) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "И. В. Гурей, М. И. Пашечко, Трение и износ, 21, № 2: 192 (2000).",
+				"tr":  "I. V. Gurey, and M. I. Pashenko, Trenie i Iznos, 21, No. 2: 192 (2000) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "М. І. Пашечко, І. В. Гурей, Металознавство та обробка металів, № 4: 19 (1999).",
+				"tr":  "M. I. Pashenko and I. V. Gurey, Metaloznavstvo ta Obrobka Metaliv, No. 4: 19 (1999) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "І. В. Гурей, Машинознавство, № 11/12: 30 (1998).",
+				"tr":  "I. V. Gurey, Mashynoznavstvo, Nos. 11/12: 30 (1998) (in Ukrainian)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. И. Бабей, Физические основы импульсного упрочнения стали и чугуна (Киев: Наукова думка: 1988).",
+				"tr":  "Yu. I. Babey, Fizicheskie Osnovy Impul'snogo Uprochneniya Stali i Chuguna (Kiev: Naukova Dumka: 1988) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Я. Ярема, Физ.-хим. механика материалов, 17, № 4: 100 (1981).",
+				"tr":  "S. Ya. Yarema, Fiziko-Khimicheskaya Mekhanika Materialov, 17, No. 4: 100 (1981) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. Я. Ярема, Рост усталостных трещин: методические аспекты исследований. Методы и средства оценки трещиностойкости конструкционных материалов (Киев: Наукова думка: 1980), с. 177.",
+				"tr":  "S. Ya. Yarema, Rost Ustalostnykh Treshchin: Metodicheskie Aspekty Issledovaniy. Metody i Sredstva Otsenki Treshchinostoykosti Konstruktsionnykh Materialov (Kiev: Naukova Dumka: 1980), p. 177 (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "С. С. Горелик, Л. Н. Расторгуев, Ю. А. Скаков, Рентгенографический и электронно-оптический анализ (Москва: Металлургия: 1970).",
+				"tr":  "S. S. Gorelik, L. N. Rastorguev, and Yu. A. Skakov, Rentgenograficheskiy i Elektronno-Opticheskiy Analiz (Moscow: Metalurgiya: 1970) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Н. И. Комяк, Ю. Г. Мясников, Рентгеновские методы и аппаратура для определения напряжений (Ленинград: Наука: 1972).",
+				"tr":  "N. I. Komyak and Yu. G. Myasnikov, Rentgenovskie Metody i Apparatura dlya Opredeleniya Napryazheniy (Leningrad: Nauka: 1972) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Немошкаленко, В. В. Горский, В. В. Тихонович и др., Металлофизика, 6, № 6: 93 (1984).",
+				"tr":  "V. V. Nemoshkalenko, V. V. Gorskiy, V. V. Tikhonovich et al., Metallofizika, 6, No. 6: 93 (1984) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Ковалев, Г. В. Щербединский, Современные методы исследования поверхности металлов и сплавов (Москва: Металлургия: 1989).",
+				"tr":  "A. I. Kovalyov and G. V. Shcherbedinskiy, Sovremennye Metody Issledovaniya Poverkhnosti Metallov i Splavov (Moscow: Metalurgiya: 1989) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Ковалев, В. П. Мишина, Г. В. Щербединский, Металлофизика, 9, № 3: 112 (1987).",
+				"tr":  "A. I. Kovalyov, V. P. Mishina, and G. V. Shcherbedinskiy, Metallofizika, 9, No. 3: 112 (1987) (in Russian)."
+			},
+			{
+				"doi": "10.1007/978-1-4757-2312-0",
+				"or":  "D. Singh, Plane Waves, Psevdopotentials and LAPW Method (Dordrecht: Kluwer Academic: 1994).",
+				"tr":  "D. Singh, Plane Waves, Psevdopotentials and LAPW Method (Dordrecht: Kluwer Academic: 1994)."
+			},
+			{
+				"doi": "10.1103/PhysRevLett.77.3865",
+				"or":  "J. P. Perdew, S. Burke, and M. Ernzerhof, Phys. Rev. Let., 77: 3865 (1996).",
+				"tr":  "J. P. Perdew, S. Burke, and M. Ernzerhof, Phys. Rev. Let., 77: 3865 (1996)."
+			},
+			{
+				"doi": "",
+				"or":  "P. Blaha, K. Schwarz, G. K. Madsen, D. Kvasnicka, and J. Luits, WIEN2k, An Augmented Plane Wave  Local Orbitals Program for Calculation Crystal Properties (Wien: Techn. Universität Wien: ISBN 3-9501031-1-2: 2001).",
+				"tr":  "P. Blaha, K. Schwarz, G. K. Madsen, D. Kvasnicka, and J. Luits, WIEN2k, An Augmented Plane Wave + Local Orbitals Program for Calculation Crystal Properties (Wien: Techn. Universität Wien: ISBN 3-9501031-1-2: 2001)."
+			},
+			{
+				"doi": "",
+				"or":  "Л. Р. Ботвина, Кинетика разрушения конструкционных материалов (Москва: Машиностроение: 1989).",
+				"tr":  "L. R. Botvina, Kinetika Razrusheniya Konstruktsionnykh Materialov (Moscow: Mashinostroenie: 1989) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.37.06.0817",
+				"or":  "В. В. Тихонович, Металлофиз. новейшие технол., 37, № 6: 817 (2015).",
+				"tr":  "V. V. Tykhonovych, Metallofiz. Noveishie Tekhnol., 37, No. 6: 817 (2015) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.12.02.209",
+				"or":  "В. В. Тихонович, В. Н. Уваров, Успехи физ. мет., 12, № 2: 209 (2011).",
+				"tr":  "V. V. Tykhonovych and V. M. Uvarov, Uspehi Fiziki Metallov, 12, No.2: 209 (2011) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "В. В. Тихонович, Металлофиз. новейшие технол., 33, № 12: 1671 (2011).",
+				"tr":  "V. V. Tykhonovych, Metallofiz. Noveishie Tekhnol., 33, No. 12: 1671 (2011) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.04.04.271",
+				"or":  "В. В. Горский, А. Н. Грипачевский, В. В. Тихонович, В. Н. Уваров, Успехи физ. мет., 4, № 4: 271 (2003).",
+				"tr":  "V. V. Gors'kiy, O. M. Grypachevs'ky, V. V. Tykhonovych, and V. M. Uvarov, Uspehi Fiziki Metallov, 4, No. 4: 271 (2003) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.38.06.0763",
+				"or":  "В. В. Тихонович, Металлофиз. новейшие технол., 38, № 6: 763 (2016).",
+				"tr":  "V. V. Tykhonovych, Metallofiz. Noveishie Tekhnol., 38, No. 6: 763 (2016) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "Д. Бриггс, М. П. Сих, Анализ поверхности методами оже- и рентгеновской фотоэлектронной спектроскопии (Москва: Мир: 1987) (пер. с англ.).",
+				"tr":  "D. Briggs and M. P. Sikh, Analiz Poverkhnosti Metodami Auger- i Rentgenovskoy Fotoelektronnoy Spektroskopii (Moscow: Mir: 1987) (Russian translation)."
+			},
+			{
+				"doi": "",
+				"or":  "В. И. Архаров, Окисление железа (Москва: Металлургиздат: 1945).",
+				"tr":  "V. I. Arkharov, Okislenie Zheleza (Moscow: Metallurgizdat: 1945) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "R. L. Blake, R. E. Nessevick, T. Zoltai, and L. W. Finger, American Mineralogist, 51: 123 (1966).",
+				"tr":  "R. L. Blake, R. E. Nessevick, T. Zoltai, and L. W. Finger, American Mineralogist, 51: 123 (1966)."
+			}
+		]
+	}
+}

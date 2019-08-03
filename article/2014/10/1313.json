@@ -1,0 +1,183 @@
+{
+	"_id":    "MFiNT.36.10.1313",
+	"year":   2014,
+	"volume": 36,
+	"issue":  10,
+	"pages":  [1313,1326],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["12.03.2014"],
+	"PACS":   "06.60.Vz, 62.20.Qp, 68.37.Hk, 81.20.Ev, 81.20.Vj, 82.80.Ej",
+	"title":   {
+		"ua": "З’єднуваність зварюванням армованих мікрочастинками композитних матеріалів на основі Alumix 231, виготовлених за технологією порошкової металургії",
+		"en": "Joinability of Particulate Reinforced Alumix 231 Based Composite Materials Produced by Powder Metallurgy Route",
+		"ru": "Соединяемость сваркой армированных микрочастицами композитных материалов на основе Alumix 231, изготовленных по технологии порошковой металлургии"
+	},
+	"abstract": {
+		"ua": "Досліджується зварюваність вироблених методою порошкової металургії композитних матеріялів на основі Alumix 231, армованих Al$_{2}$O$_{3}$ і B$_{4}$C. Різні кількості (0, 5, 10 і 15 мас.% ) порошків Al$_{2}$O$_{3}$ і B$_{4}$C окремо додавалися у попередньо стоплені порошки Alumix 231 (Al—2,5% Cu—0,5% Mg—14% Si), а потім перемішувалися в тривимірному міксері впродовж 45 хвилин. Потім порошки пресувалися та спікалися в атмосфері арґону при 640°C впродовж 4 годин. Одержані блоки зварювалися вольфрамовим зваренням в атмосфері інертного газу при 25 В, 197 А та потоці інертного газу у 14 л/хв. в атмосфері технічно чистого арґону. Було виконано макро- та мікродослідження деяких механічних властивостей зварної зони. їх результати показали, що, хоча виявилася велика кількість частинок зі зниженою густиною, ці композитні матеріяли можуть бути успішно зварені методою вольфрамового зварювання в атмосфері інертного газу.",
+		"en": "In the present study, weldability of Alumix 231 based composite materials reinforced with Al$_{2}$O$_{3}$ and B$_{4}$C and produced by powder metallurgy route is investigated. Various amounts of (0, 5, 10, and 15% wt.) Al$_{2}$O$_{3}$ and B$_{4}$C powders are added to the pre-alloyed Alumix 231 (Al—2.5% Cu—0.5% Mg—14% Si) powders separately and then mixed in a three-dimensional mixer for 45 min. Powders are compacted and sintered in an argon atmosphere at 640°C for 4 h. Produced blocks are welded by the Tungsten Inert Gas (TIG) welding at 25 V, 197 A and 14 l/min shielded gas flow in commercially pure argon atmosphere. Macro- and microexamination together with some mechanical properties of the welded area are studied. The results show that, although high amount of particles resulted in a decrease in the density, these composite materials can still be welded by the TIG welding method successfully.",
+		"ru": "Исследуется свариваемость произведённых методом порошковой металлургии композитных материалов на основе Alumix 231, армированных Al$_{2}$O$_{3}$ и B$_{4}$C. Различные количества (0, 5, 10 и 15 масс.%) порошков Al$_{2}$O$_{3}$ и B$_{4}$C по отдельности добавлялись в предварительно сплавленные порошки Alumix 231 (Al—2,5% Cu—0,5% Mg—14% Si), а затем перемешивались в трёхмерном миксере в течение 45 минут. Затем порошки прессовались и спекались в атмосфере аргона при 640°C в течение 4 часов. Полученные блоки сваривались вольфрамовой сваркой в атмосфере инертного газа при 25 В, 197 А и потоке инертного газа в 14 л/мин в атмосфере технически чистого аргона. Были проведены макро- и микроисследования некоторых механических свойств сварной зоны. Их результаты показали, что, хотя оказалось большое количество частиц с пониженной плотностью, эти композитные материалы могут быть успешно сварены методом вольфрамовой сварки в атмосфере инертного газа."
+	},
+	"keywords": {
+		"ua": "мікроструктура, твердість, Alumix, композити, Al$_{2}$O$_{3}$, B$_{4}$C, порошкова металургія, зварювання вольфрамовим електродом в інертному газі",
+		"en": "microstructure, hardness, Alumix, composites, Al$_{2}$O$_{3}$, B$_{4}$C, powder metallurgy, Tungsten Inert Gas welding",
+		"ru": "микроструктура, твёрдость, Alumix, композиты, Al$_{2}$O$_{3}$, B$_{4}$C, порошковая металлургия, сварка вольфрамовым электродом в инертном газе"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Х. Атес", "en": "H. Ates", "ru": "Х. Атес"},
+			"OID": [416]
+		},
+		{
+			"AID": {"ua": "Ю. Гокмен", "en": "U. Gokmen", "ru": "Ю. Гокмен"},
+			"OID": [416]
+		},
+		{
+			"AID": {"ua": "Х. Кінікі", "en": "H. Cinici", "ru": "Х. Киники"},
+			"OID": [416]
+		},
+		{
+			"AID": {"ua": "А. Узун", "en": "A. Uzun", "ru": "А. Узун"},
+			"OID": [416]
+		},
+		{
+			"AID": {"ua": "Х. Каракоц", "en": "H. Karakoc", "ru": "Х. Каракоц"},
+			"OID": [416]
+		},
+		{
+			"AID": {"ua": "М. Тюркер", "en": "M. Turker", "ru": "М. Тюркер"},
+			"OID": [416]
+		}
+	],
+	"references": {
+		"count": 25,
+		"list":  [
+			{
+				"doi": "10.1016/S1471-5317(03)00004-X",
+				"or":  "F. Tang, I. E. Anderson, and S. B. Biner, J. Light Metals, 2: 201 (2002).",
+				"tr":  "F. Tang, I. E. Anderson, and S. B. Biner, J. Light Metals, 2: 201 (2002)."
+			},
+			{
+				"doi": "",
+				"or":  "E. Candan, Turkish J. Eng. Env. Sci., 26: 1 (2002).",
+				"tr":  "E. Candan, Turkish J. Eng. Env. Sci., 26: 1 (2002)."
+			},
+			{
+				"doi": "10.4236/jmmce.2011.101005",
+				"or":  "G. B. Veeresh Kumar, C. S. P. Rao, and N. Selvaraj, J. Minerals and Materials Characterization and Engineering, 10, No. 1: 59 (2011).",
+				"tr":  "G. B. Veeresh Kumar, C. S. P. Rao, and N. Selvaraj, J. Minerals and Materials Characterization and Engineering, 10, No. 1: 59 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "Z. M. Gasem and A. M. Al-Qutubl, The 6th Saudi Engineering Conference (October 21–23, 2002) (Dhahran: KFUPM: 2002), vol. 5, p. 271.",
+				"tr":  "Z. M. Gasem and A. M. Al-Qutubl, The 6th Saudi Engineering Conference (October 21–23, 2002) (Dhahran: KFUPM: 2002), vol. 5, p. 271."
+			},
+			{
+				"doi": "",
+				"or":  "S. Aksoz, A. T. Ozdemir, and B. Bostan, J. Fac. Eng. Arch. Gazi Univ., 27, No. 1: 109 (2012).",
+				"tr":  "S. Aksoz, A. T. Ozdemir, and B. Bostan, J. Fac. Eng. Arch. Gazi Univ., 27, No. 1: 109 (2012)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Singh, S. N. Jit, and A. K. Tyagi, J. Eng. Res. and Studies, II, Iss. IV: 72 (2011).",
+				"tr":  "H. Singh, S. N. Jit, and A. K. Tyagi, J. Eng. Res. and Studies, II, Iss. IV: 72 (2011)."
+			},
+			{
+				"doi": "10.1016/j.matdes.2005.01.024",
+				"or":  "H. Arik, Y. Ozcatalbas, and M. Turker, Materials and Design, 27: 799 (2006).",
+				"tr":  "H. Arik, Y. Ozcatalbas, and M. Turker, Materials and Design, 27: 799 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Karabulut and R. Çitak, 6th Int. Advanced Technologies Symposium (May 16–18, 2011) (Elaziğ: Firat University: 2011), p. 527.",
+				"tr":  "H. Karabulut and R. Çitak, 6th Int. Advanced Technologies Symposium (May 16–18, 2011) (Elaziğ: Firat University: 2011), p. 527."
+			},
+			{
+				"doi": "",
+				"or":  "H. Karabulut and R. Çitak, 6th Int. Advanced Technologies Symposium (May 16–18, 2011) (Elaziğ: Firat University: 2011), p. 503.",
+				"tr":  "H. Karabulut and R. Çitak, 6th Int. Advanced Technologies Symposium (May 16–18, 2011) (Elaziğ: Firat University: 2011), p. 503."
+			},
+			{
+				"doi": "10.1016/S1359-6462(01)00658-3",
+				"or":  "A. R .Kennedy and B. Brampton, Scr. Mater., 44: 1077 (2001).",
+				"tr":  "A. R. Kennedy and B. Brampton, Scr. Mater., 44: 1077 (2001)."
+			},
+			{
+				"doi": "10.1016/S0266-3538(01)00131-2",
+				"or":  "O. Yilmaz and S. Buytoz, Compos. Sci. Technol., 61: 2381 (2001).",
+				"tr":  "O. Yilmaz and S. Buytoz, Compos. Sci. Technol., 61: 2381 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "V. Kevorkijan, Symposium on Deformation and Structure of Metals and Alloys (June 26–27, 2002) (Belgrade: 2002).",
+				"tr":  "V. Kevorkijan, Symposium on Deformation and Structure of Metals and Alloys (June 26–27, 2002) (Belgrade: 2002)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2009.04.117",
+				"or":  "A. Ansary Yara, M. Montazerianb, H. Abdizadehb, and H. R. Baharvandic, J. Alloys Compd., 484: 400 (2009).",
+				"tr":  "A. Ansary Yara, M. Montazerianb, H. Abdizadehb, and H. R. Baharvandic, J. Alloys Compd., 484: 400 (2009)."
+			},
+			{
+				"doi": "10.1016/S1359-6454(98)00282-1",
+				"or":  "H. G. Jeong, K. Kiraga, and M. Mabuchi, Acta Mater., 46: 6009 (1998).",
+				"tr":  "H. G. Jeong, K. Kiraga, and M. Mabuchi, Acta Mater., 46: 6009 (1998)."
+			},
+			{
+				"doi": "10.1016/S0924-0136(03)00815-X",
+				"or":  "K. M. Shorowordi, T. Laoui, A. S. M. A. Haseeb, J. P. Celis, and L. Froyen, J. Mater. Proces. Technol., 142: 738 (2003).",
+				"tr":  "K. M. Shorowordi, T. Laoui, A. S. M. A. Haseeb, J. P. Celis, and L. Froyen, J. Mater. Proces. Technol., 142: 738 (2003)."
+			},
+			{
+				"doi": "10.4028/www.scientific.net/AMR.23.315",
+				"or":  "A. Kurt and H. Ates, Adv. Mater. Res., 23: 315 (2007).",
+				"tr":  "A. Kurt and H. Ates, Adv. Mater. Res., 23: 315 (2007)."
+			},
+			{
+				"doi": "10.1016/j.msea.2008.07.037",
+				"or":  "X. Wang, J. Niu, S. Guan, L. Wang, and D. Cheng, Mater. Sci. Eng. A, 499: 106 (2009).",
+				"tr":  "X. Wang, J. Niu, S. Guan, L. Wang, and D. Cheng, Mater. Sci. Eng. A, 499: 106 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "R. M. German, Toz Metalürjisi ve Parçalıklı Malzemeler İşlemleri (Ankara: TTMD: 2007) (in Turkish).",
+				"tr":  "R. M. German, Toz Metalürjisi ve Parçalıklı Malzemeler İşlemleri (Ankara: TTMD: 2007) (in Turkish)."
+			},
+			{
+				"doi": "10.1016/j.msea.2011.10.001",
+				"or":  "P. Gudlur, A. Forness, J. Lentz, M. Radovic, and A. Muliana, Mater. Sci. Eng. A, 531: 18 (2012).",
+				"tr":  "P. Gudlur, A. Forness, J. Lentz, M. Radovic, and A. Muliana, Mater. Sci. Eng. A, 531: 18 (2012)."
+			},
+			{
+				"doi": "10.1016/j.msea.2009.09.034",
+				"or":  "M. Rahimian, N. Parvin, and N. Ehsani, Mater. Sci. Eng. A, 527: 1031 (2010).",
+				"tr":  "M. Rahimian, N. Parvin, and N. Ehsani, Mater. Sci. Eng. A, 527: 1031 (2010)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Kurt, H. Ates, A. Durgutlu, and K. Karacif, Welding Journal, 83: 34 (2004).",
+				"tr":  "A. Kurt, H. Ates, A. Durgutlu, and K. Karacif, Welding Journal, 83: 34 (2004)."
+			},
+			{
+				"doi": "10.1016/j.jmatprotec.2008.09.008",
+				"or":  "E. O. Correa, S. C. Costa, and J. N. Santos, J. Mat. Proc. Tech., 209, Iss. 8: 3937 (2009).",
+				"tr":  "E. O. Correa, S. C. Costa, and J. N. Santos, J. Mat. Proc. Tech., 209, Iss. 8: 3937 (2009)."
+			},
+			{
+				"doi": "",
+				"or":  "C. Z. Xia, Y. J. Li, J. Wang, U. A. Puchkov, and Y. N. Jiang, Metallic Materials, 48, Iss. 4: 257 (2010).",
+				"tr":  "C. Z. Xia, Y. J. Li, J. Wang, U. A. Puchkov, and Y. N. Jiang, Metallic Materials, 48, Iss. 4: 257 (2010)."
+			},
+			{
+				"doi": "10.1016/j.jallcom.2005.03.070",
+				"or":  "K. H. Min, S. P. Kang, D. Kim, and Y. D. Kim, J. Alloys Compd., 400: 150 (2005).",
+				"tr":  "K. H. Min, S. P. Kang, D. Kim, and Y. D. Kim, J. Alloys Compd., 400: 150 (2005)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Cakir, A. Kurt, and H. Ates, Mühendis ve Makine, 49: 3 (2008) (in Turkish).",
+				"tr":  "M. Cakir, A. Kurt, and H. Ates, Mühendis ve Makine, 49: 3 (2008) (in Turkish)."
+			}
+		]
+	}
+}

@@ -1,0 +1,108 @@
+{
+	"_id":    "MFiNT.38.11.1423",
+	"year":   2016,
+	"volume": 38,
+	"issue":  11,
+	"pages":  [1423,1446],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["10.10.2016"],
+	"PACS":   "71.10.Fd, 71.10.Hf, 71.20.Be, 71.27.+a, 71.30.+h, 72.15.Eb, 72.60.+g",
+	"title":   {
+		"ua": "Ефективне поле та фазовий перехід метал—діелектрик у Габбардовому моделю",
+		"en": "Effective Field and Metal—Insulator Phase Transition in the Hubbard Model",
+		"ru": "Эффективное поле и фазовый переход металл—диэлектрик в модели Хаббарда"
+	},
+	"abstract": {
+		"ua": "В рамках Габбардового моделю з ефективним самоузгодженим полем представлено можливий механізм стрибкоподібного фазового переходу метал–діелектрик для напівзаповненої зони. Діяграмною методою проведено детальне дослідження відомого наближення Габбард-I, а також враховано кореляційні поправки із мінімальним числом параметрів самоузгодження. Встановлено характерні параметри порядку, властиві тільки металевому стану або діелектричному. На основі аналізи електронної спектральної густини визначено положення рівня хемічного потенціялу та критичне значення величини енергії Кулонового відштовхування $\\tilde{U}$ в одиницях ширини зони, коли відбувається фазовий перехід метал–діелектрик. Оцінки величин внутрішньої енергії у випадку напівзаповненої зони показали, що для $\\tilde{U} < 2,1$ більш стійким є стан металу, тоді як при $\\tilde{U} > 2,1$ стійким є стан діелектрика, але тільки при граничному переході по електронному допуванню. Тому рівень хемпотенціялу для діелектрика лежить на нижньому краї верхньої Габбардової зони, де спектральна густина дорівнює нулю. Це дає нульову провідність. Скінченне електронне допування або діркове зумовлює металевий стан з рівнем Фермі всередині верхньої зони або допований діелектричний стан з рівнем Фермі всередині нижньої зони відповідно. Це приводить до стрибкоподібного росту провідности при фазовому переході метал–діелектрик.",
+		"en": "In the framework of the Hubbard model with an effective self-consistent field, a possible mechanism of the stepwise metal–insulator phase transition for a half-filled band is presented. A detailed investigation of the well-known Hubbard-I approximation is carried out. In addition, the correlation corrections are accounted with a minimal number of self-consistency parameters. As determined, the typical order parameters are unique for a metal state or a dielectric one. Based on analysis of the electron spectral density, the position of the chemical-potential level and the critical value of Coulomb repulsion energy in bandwidth units at the metal–insulator phase transition are determined. The estimations of the internal-energy value for a half-filled band show a stable metal state at $\\tilde{U} < 2.1$. A dielectric state is stable for $\\tilde{U} >2.1$ and only in the limit of the extremely small electron doping. That is why the chemical-potential level underlies by lower edge of the upper Hubbard band where the spectral density is equal to zero. It gives zero conductivity. The finite electron or hole dopings cause the metal state with Fermi level inside the upper band or the doped dielectric state with Fermi level inside the lower band, respectively. It results in a stepwise increasing of conductivity at the metal–insulator phase transition.",
+		"ru": "В рамках модели Хаббарда с эффективным самосогласованным полем представлен возможный механизм скачкообразного фазового перехода металл–диэлектрик для полузаполненной зоны. Диаграммным методом проведено детальное исследование известного приближения Хаббард-I, а также учтены корреляционные поправки при минимальном числе параметров самосогласования. Установлены характерные параметры порядка, свойственные только металлическому состоянию или диэлектрическому. На основе анализа электронной спектральной плотности определены положения уровня химического потенциала и критическое значение величины энергии кулоновского отталкивания $\\tilde{U}$ в единицах ширины зоны, когда происходит фазовый переход металл–диэлектрик. Оценки величин внутренней энергии в случае полузаполненной зоны показали, что для $\\tilde{U} < 2,1$ более устойчивым является состояние металла, тогда как при $\\tilde{U} > 2,1$ устойчиво состояние диэлектрика, но только при предельном переходе по электронному допированию. Поэтому уровень химпотенциала для диэлектрика лежит у нижнего края верхней хаббардовской зоны, где спектральная плотность равна нулю. Это даёт нулевую проводимость. Конечное электронное допирование или дырочное обусловливает металлическое состояние с уровнем Ферми внутри верхней зоны или допированное диэлектрическое состояние с уровнем Ферми внутри нижней зоны соответственно. Это приводит к скачкообразному росту проводимости при фазовом переходе металл–диэлектрик."
+	},
+	"keywords": {
+		"ua": "метал, діелектрик, фазовий перехід, провідність, хемічний потенціял",
+		"en": "metal, insulator, phase transition, conductivity, chemical potential",
+		"ru": "металл, диэлектрик, фазовый переход, проводимость, химический потенциал"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Е. Є. Зубов", "en": "E. E. Zubov", "ru": "Э. Е. Зубов"},
+			"OID": [1,246]
+		}
+	],
+	"references": {
+		"count": 14,
+		"list":  [
+			{
+				"doi": "10.1098/rspa.1963.0204",
+				"or":  "J. Hubbard, Proc. Roy. Soc. Lond. A, 276: 238 (1963).",
+				"tr":  "J. Hubbard, Proc. Roy. Soc. Lond. A, 276: 238 (1963)."
+			},
+			{
+				"doi": "10.1098/rspa.1964.0190",
+				"or":  "J. Hubbard, Proc. Roy. Soc. Lond. A, 281: 401 (1964).",
+				"tr":  "J. Hubbard, Proc. Roy. Soc. Lond. A, 281: 401 (1964)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. А. Yzyumov, Uspekhi Fizicheskikh Nauk, 167, No. 5: 465 (1997) (in Russian).",
+				"tr":  "Yu. A. Yzyumov, Uspekhi Fizicheskikh Nauk, 167, No. 5: 465 (1997) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.49.10181",
+				"or":  "M. J. Rozenberg, G. Kotliar, and X. Y. Zhang, Phys. Rev. B, 49, No.15: 10181 (1994).",
+				"tr":  "M. J. Rozenberg, G. Kotliar, and X. Y. Zhang, Phys. Rev. B, 49, No.15: 10181 (1994)."
+			},
+			{
+				"doi": "",
+				"or":  "N. F. Mott, Metal-Insulator Transitions (London: Taylor&Francis: 1990).",
+				"tr":  "N. F. Mott, Metal-Insulator Transitions (London: Taylor&Francis: 1990)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.7.1508",
+				"or":  "W. F. Brinkman and T. M. Rice, Phys. Rev. B, 7, No. 4: 1508 (1973).",
+				"tr":  "W. F. Brinkman and T. M. Rice, Phys. Rev. B, 7, No. 4: 1508 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "R. O. Zaitsev, Sov. Phys. JETP, 48, No.6: 1193 (1978).",
+				"tr":  "R. O. Zaitsev, Sov. Phys. JETP, 48, No.6: 1193 (1978)."
+			},
+			{
+				"doi": "",
+				"or":  "Yu. A. Izyumov and Yu. N. Skryabin, Statisticheskaya Mekhanika Magnitouporyadochennikh System [Statistical Mechanics of the Magnetically Ordered Systems] (Moscow: Nauka: 1987) (in Russian).",
+				"tr":  "Yu. A. Izyumov and Yu. N. Skryabin, Statisticheskaya Mekhanika Magnitouporyadochennikh System [Statistical Mechanics of the Magnetically Ordered Systems] (Moscow: Nauka: 1987) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.physc.2013.11.005",
+				"or":  "E. E. Zubov, Physica C, 497: 67 (2014).",
+				"tr":  "E. E. Zubov, Physica C, 497: 67 (2014)."
+			},
+			{
+				"doi": "10.1063/1.1665693",
+				"or":  "T. Morita and T. Horiguchi, J. Math. Phys., 12, No. 6: 986 (1971).",
+				"tr":  "T. Morita and T. Horiguchi, J. Math. Phys., 12, No. 6: 986 (1971)."
+			},
+			{
+				"doi": "10.1098/rsta.1973.0018",
+				"or":  "G. S. Joyce Phil. Trans. R. Soc. Lond. A, 273: 583 (1973).",
+				"tr":  "G. S. Joyce Phil. Trans. R. Soc. Lond. A, 273: 583 (1973)."
+			},
+			{
+				"doi": "10.1007/BF01402565",
+				"or":  "T. Morita and T. Horiguchi, Numer. Math., 20: 425 (1973).",
+				"tr":  "T. Morita and T. Horiguchi, Numer. Math., 20: 425 (1973)."
+			},
+			{
+				"doi": "",
+				"or":  "O. K. Kalashnikov and E. S. Fradkin, Teoreticheskaya i Matematicheskaya Fizika, 5, No. 3: 417 (1970) (in Russian).",
+				"tr":  "O. K. Kalashnikov and E. S. Fradkin, Teoreticheskaya i Matematicheskaya Fizika, 5, No. 3: 417 (1970) (in Russian)."
+			},
+			{
+				"doi": "10.1088/0953-8984/11/13/014",
+				"or":  "D. M. Edwards, A. C. M. Green, and K. Kubo, J. Phys.: Condens. Matter., 11: 2791 (1999).",
+				"tr":  "D. M. Edwards, A. C. M. Green, and K. Kubo, J. Phys.: Condens. Matter., 11: 2791 (1999)."
+			}
+		]
+	}
+}

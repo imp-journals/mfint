@@ -1,0 +1,134 @@
+{
+	"_id":    "MFiNT.36.11.1561",
+	"year":   2014,
+	"volume": 36,
+	"issue":  11,
+	"pages":  [1561,1569],
+	"rubric": 7,
+	"type":   1,
+	"lang":   "en",
+	"date":   ["12.03.2014","01.04.2014"],
+	"PACS":   "06.60.Vz, 62.20.fg, 62.20.Qp, 81.20.Vj, 81.40.Jj, 81.40.Np, 81.70.Bt",
+	"title":   {
+		"ua": "Дослідження змін механічних властивостей та мікроструктур зварюваного шва м’якої маловуглецевої сталі водневокисневим зварюванням",
+		"en": "Investigation of Changes in Mechanical Properties and Microstructures of Mild Steel Joint by Oxy-Hydrogen Welding",
+		"ru": "Исследование изменений механических свойств и микроструктур сварного шва мягкой низкоуглеродистой стали водородно-кислородной сваркой"
+	},
+	"abstract": {
+		"ua": "З метою з’ясування якости зварюваного шва на маловуглецевій сталі, виробленого водневокисневим зварюванням, виконано дослідження змін механічних властивостей і мікроструктури даного типу сталі. Зразки товщиною у 1,5 мм та довжиною у 125 мм зварювалися як водневокисневим, так і ацетиленокисневим зварюванням. Виконано мікроструктурну аналізу поперечного перерізу зони зварювання з метою порівняння змін у металі шва та зоні термічного впливу в залежності від зварювального газу. Експериментальні результати стосовно границі міцности при розтягу та мікротвердости, одержані під час механічних випробувань, показали, що зразки, зварені ацетиленокисневим зварюванням, мають міцність при розтягу, на 10% вищу, ніж зварені водневокисневою газовою сумішшю. Однак водневокисневе зварювання може бути використано як альтернатива ацетиленокисневому зварюванню завдяки його перевазі за чистотою та економічністю.",
+		"en": "In this paper, in order to see weldability behaviour of mild steels joint by the oxy-hydrogen welding technique, an investigation of changes in mechanical properties and microstructures of mild steel is carried out. The specimens with 1.5 mm thickness and 125 mm length are welded by using both the oxyhydrogen and oxy-acetylene gases. Microstructural analysis is carried out on the cross sectional area of the welding zone in order to compare the changes in weld metals and the heat affected zones in terms of the welding gases. Experimental results of the tensile strength and microhardness obtained with mechanical tests show that samples welded with oxy-acetylene exhibited 10% higher yield strength than that of the samples welded with oxy-hydrogen. However, the oxy-hydrogen welding technique can be used as an alternative to the oxy-acetylene welding, since it has advantageous of being clean and economic.",
+		"ru": "С целью выяснения качества сварного шва на малоуглеродистой стали, полученного водород-кислородной сваркой, проведено исследование изменений механических свойств и микроструктуры данного типа стали. Образцы толщиной 1,5 мм и длиной 125 мм сваривались как водород-кислородной, так и ацетиленокислородной сваркой. Был проведён микроструктурный анализ поперечного сечения зоны сварки с целью сравнения изменений в металле шва и зоне термического влияния в зависимости от сварочного газа. Экспериментальные результаты по пределу прочности при растяжении и микротвёрдости, полученные при механических испытаниях, показали, что образцы, сваренные ацетиленокислородной сваркой, имеют прочность при растяжении на 10% выше, чем водород-кислородной. Однако водород-кислородная сварка может быть использована как альтернатива ацетиленокислородной сварке, так как она имеет преимущества по чистоте и экономичности."
+	},
+	"keywords": {
+		"ua": "мікроструктура, міцність на розрив, мікротвердість, маловуглецева сталь, водневокисневе зварювання",
+		"en": "microstructure, tensile strength, microhardness, mild steel, oxy-hydrogen",
+		"ru": "микроструктура, прочность на разрыв, микротвёрдость, низкоуглеродистая сталь, водородно-кислородная сварка"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Х. Атес", "en": "H. Ates", "ru": "Х. Атес"},
+			"OID": [416]
+		},
+		{
+			"AID": {"ua": "М. Е. Цакір", "en": "M. E. Cakir", "ru": "М. Е. Цакир"},
+			"OID": [480]
+		},
+		{
+			"AID": {"ua": "А. Курт", "en": "A. Kurt", "ru": "А. Курт"},
+			"OID": [416]
+		},
+		{
+			"AID": {"ua": "І. Уйгур", "en": "I. Uygur", "ru": "И. Уйгур"},
+			"OID": [411]
+		},
+		{
+			"AID": {"ua": "М. Тюркер", "en": "M. Turker", "ru": "М. Тюркер"},
+			"OID": [416]
+		}
+	],
+	"references": {
+		"count": 16,
+		"list":  [
+			{
+				"doi": "10.1016/j.conbuildmat.2013.08.033",
+				"or":  "H. Gerengi, Y. Kocak, A. Jazdzewska, M. Kurtay, and H. Durgun, Construction and Building Materials, 49: 471 (2013).",
+				"tr":  "H. Gerengi, Y. Kocak, A. Jazdzewska, M. Kurtay, and H. Durgun, Construction and Building Materials, 49: 471 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Ates and N. Kaya, Metallofiz. Noveishie Tekhnol., 35, No. 2: 241 (2013).",
+				"tr":  "H. Ates and N. Kaya, Metallofiz. Noveishie Tekhnol., 35, No. 2: 241 (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Ates, Metallofiz. Noveishie Tekhnol., 30, No. 7: 1009 (2008).",
+				"tr":  "H. Ates, Metallofiz. Noveishie Tekhnol., 30, No. 7: 1009 (2008)."
+			},
+			{
+				"doi": "10.1533/wint.2003.3135",
+				"or":  "V. I. Yurhey, Welding International, 17, Iss. 5: 407 (2003).",
+				"tr":  "V. I. Yurhey, Welding International, 17, Iss. 5: 407 (2003)."
+			},
+			{
+				"doi": "",
+				"or":  "E. Tezcan, VI National Congress Welding Technology TMMOB (Ankara: 2007), p. 11.",
+				"tr":  "E. Tezcan, VI National Congress Welding Technology TMMOB (Ankara: 2007), p. 11."
+			},
+			{
+				"doi": "",
+				"or":  "S. Anık, Welding Technique (Istanbul: ITU Faculty of Machine: 1980) (in Turkish).",
+				"tr":  "S. Anık, Welding Technique (Istanbul: ITU Faculty of Machine: 1980) (in Turkish)."
+			},
+			{
+				"doi": "10.1080/09507116.2012.753226",
+				"or":  "H. Ates, M. E. Cakır, A. Kurt, M. Turker, and I. Uygur, Welding International, 28, Iss. 10: 762 (2014).",
+				"tr":  "H. Ates, M. E. Cakır, A. Kurt, M. Turker, and I. Uygur, Welding International, 28, Iss. 10: 762 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "H. Ates, M. E. Cakır, A. Kurt, M. Turker, I. Uygur, and M. Koc, II European Conference and Workshop on Renewable Energy Systems (September 20–30, 2013) (Antalya: 2013).",
+				"tr":  "H. Ates, M. E. Cakır, A. Kurt, M. Turker, I. Uygur, and M. Koc, II European Conference and Workshop on Renewable Energy Systems (September 20–30, 2013) (Antalya: 2013)."
+			},
+			{
+				"doi": "",
+				"or":  "S. Anık, Handbook of Welding Techniques (Istanbul: Welding Technology Edu. Res. and Test Ins. Gedik Edu. Foundation: 1991).",
+				"tr":  "S. Anık, Handbook of Welding Techniques (Istanbul: Welding Technology Edu. Res. and Test Ins. Gedik Edu. Foundation: 1991)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Kurt, H. Ates, I. Uygur, and M. Koc, Int. Conference on Investment Casting ICIC (India: 2010).",
+				"tr":  "A. Kurt, H. Ates, I. Uygur, and M. Koc, Int. Conference on Investment Casting ICIC (India: 2010)."
+			},
+			{
+				"doi": "",
+				"or":  "www.hidrojenerator.com (2013).",
+				"tr":  "www.hidrojenerator.com (2013)."
+			},
+			{
+				"doi": "",
+				"or":  "M. Dieter and D. Bacon, Mechanical Metallurgy (London: McGraw-Hill Book Company: 1988).",
+				"tr":  "M. Dieter and D. Bacon, Mechanical Metallurgy (London: McGraw-Hill Book Company: 1988)."
+			},
+			{
+				"doi": "10.1016/S1872-5805(07)60008-0",
+				"or":  "S.-M. Lei, T.-C. Kuang, X.-L. Cheng, S.-H. Yin, and H.-M. Zhu, New Carbon Materials, 22, Iss. 1: 70 (2007).",
+				"tr":  "S.-M. Lei, T.-C. Kuang, X.-L. Cheng, S.-H. Yin, and H.-M. Zhu, New Carbon Materials, 22, Iss. 1: 70 (2007)."
+			},
+			{
+				"doi": "",
+				"or":  "I. Uygur and B. Gulenc, Metalurgija, 43, No. 1: 35 (2004).",
+				"tr":  "I. Uygur and B. Gulenc, Metalurgija, 43, No. 1: 35 (2004)."
+			},
+			{
+				"doi": "10.1108/00368790610691383",
+				"or":  "I. Uygur, Industrial Lubrication and Tribology, 58, Iss. 6: 303 (2006).",
+				"tr":  "I. Uygur, Industrial Lubrication and Tribology, 58, Iss. 6: 303 (2006)."
+			},
+			{
+				"doi": "",
+				"or":  "A. Roshanghias, A. H. Kokabi, M. Barzegari, and H. R. M. Hosseini, 1st Int. Conference on Welding Technologies (June 11–13, 2009, Ankara) (Ankara: 2009).",
+				"tr":  "A. Roshanghias, A. H. Kokabi, M. Barzegari, and H. R. M. Hosseini, 1st Int. Conference on Welding Technologies (June 11–13, 2009, Ankara) (Ankara: 2009)."
+			}
+		]
+	}
+}

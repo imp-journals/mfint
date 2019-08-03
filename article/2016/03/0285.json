@@ -1,0 +1,137 @@
+{
+	"_id":    "MFiNT.38.03.0285",
+	"year":   2016,
+	"volume": 38,
+	"issue":  3,
+	"pages":  [285,303],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["27.11.2015"],
+	"PACS":   "61.50.Ks, 62.20.fg, 64.60.Cn, 71.20.Eh, 75.10.Dg, 75.30.Kz, 75.30.Mb",
+	"title":   {
+		"ua": "Симетрія РЗМ. Парадокс Се і його сплавів. Квантова теорія. 2. Пам’ять форми та інші властивості сплавів Се",
+		"en": "Symmetry of Rare-Earth Metals. Paradox of Cerium and Its Alloys. A Quantum Theory. 2. Memory of the Shape and Other Properties of Alloys of Cerium",
+		"ru": "Симметрия РЗМ. Парадокс Се и его сплавов. Квантовая теория. 2. Память формы и другие свойства сплавов Се"
+	},
+	"abstract": {
+		"ua": "Методою багатоелектронних операторних спінорів (БЕОС) розраховується об’ємне та лінійне упорядкування сплаву A$_{1-c}$B$_{c}$ ($c << 1$). Номінальна величина параметра порядку $P(c)$ обмежується конкуренцією ковалентних A—B- і A—A-зв’язків $\\Gamma$ і відштовхуванням Хаббарда $U$.",
+		"en": "The bulk and linear ordering of A$_{1-c}$B$_{c}$ alloy ($c << 1$) is calculated by the method of the many-electron operator spinors (MEOS). Nominal value of order parameter $P(c)$ is limited by competition of covalent A—B and A—A bonds $\\Gamma$ and the Hubbard repulsion $U$.",
+		"ru": "Методом многоэлектронных операторных спиноров (МЭОС) рассчитывается объёмное и линейное упорядочение сплава A$_{1-c}$B$_{c}$ ($c << 1$). Номинальная величина параметра порядка $P(c)$ ограничивается конкуренцией ковалентных A—B- и A—A-связей $\\Gamma$ и отталкиванием Хаббарда $U$."
+	},
+	"keywords": {
+		"ua": "атомне упорядкування сплаву типу Py, об’ємний і лінійний параметри порядку, домени лінійного упорядкування, термомеханічний гістерезис переходу першого роду для лінійного упорядкування, «ефект пам’яті форми»",
+		"en": "atomic ordering of Py type alloy, bulk and linear order parameters, linear ordering domains, thermomechanical hysteresis of the first kind transition for linear ordering, shape-memory effect",
+		"ru": "атомное упорядочение сплава типа Py, объёмный и линейный параметры порядка, домены линейного упорядочения, термомеханический гистерезис перехода первого рода для линейного упорядочения, «эффект памяти формы»"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "О. І. Міцек", "en": "O. I. Mitsek", "ru": "А. И. Мицек"},
+			"OID": [1]
+		},
+		{
+			"AID": {"ua": "В. М. Пушкар", "en": "V. M. Pushkar", "ru": "В. Н. Пушкарь"},
+			"OID": [1]
+		}
+	],
+	"references": {
+		"count": 19,
+		"list":  [
+			{
+				"doi": "",
+				"or":  "К. Тейлор, М. Дарби, Физика редкоземельных соединений (Москва: Мир: 1974).",
+				"tr":  "K. N. R. Taylor and M. I. Darby, Physics of Rare Earth Solids (London: Chapman and Hall LTD: 1972)."
+			},
+			{
+				"doi": "",
+				"or":  "С. В. Вонсовский, Магнетизм (Москва: Наука: 1971).",
+				"tr":  "S. V. Vonsovskiy, Magnetism (Moscow: Nauka: 1971) (in Russian)."
+			},
+			{
+				"doi": "10.15407/ufm.16.01.023",
+				"or":  "А. А. Лихачев, Ю. Н. Коваль, Успехи физики металлов, 16, № 1: 23 (2015).",
+				"tr":  "A. A. Lihachev and Yu. N. Koval, Uspehi Fiziki Metallov, 16, No. 1: 23 (2015) (in Russian)."
+			},
+			{
+				"doi": "10.15407/mfint.37.04.0433",
+				"or":  "А. И. Мицек, В. Н. Пушкарь, Металлофиз. новейшие технол., 37, № 4: 433 (2015).",
+				"tr":  "O. I. Mitsek and V. M. Pushkar, Metallofiz. Noveishie Tekhnol., 37, No. 4: 433 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "А. А. Смирнов, Теория сплавов внедрения (Москва: Наука: 1979).",
+				"tr":  "A. A. Smirnov, Teoriya Splavov Vnedreniya [The Theory of Interstitial Alloys] (Moscow: Nauka: 1979) (in Russian)."
+			},
+			{
+				"doi": "10.1016/j.scriptamat.2003.09.010",
+				"or":  "G. S. Firstov, J. Van Humbeek, and Yu. N. Koval, Scr. Mater., 50, No. 2: 243 (2004).",
+				"tr":  "G. S. Firstov, J. Van Humbeek, and Yu. N. Koval, Scr. Mater., 50, No. 2: 243 (2004)."
+			},
+			{
+				"doi": "10.1016/j.msea.2007.03.127",
+				"or":  "G. S. Firstov, Yu. N. Koval, J. Van Humbeek, and P. Ochin, Mater. Sci. Eng. A, 481–482: 590 (2008).",
+				"tr":  "G. S. Firstov, Yu. N. Koval, J. Van Humbeek, and P. Ochin, Mater. Sci. Eng. A, 481–482: 590 (2008)."
+			},
+			{
+				"doi": "10.1016/j.msea.2006.02.203",
+				"or":  "G. S. Firstov, Yu. N. Koval, J. Van Humbeek et al., Mater. Sci. Eng. A, 438–440: 816 (2006).",
+				"tr":  "G. S. Firstov, Yu. N. Koval, J. Van Humbeek et al., Mater. Sci. Eng. A, 438–440: 816 (2006)."
+			},
+			{
+				"doi": "10.1016/j.msea.2003.10.324",
+				"or":  "G. S. Firstov, Yu. N. Koval, and J. Van Humbeek, Mater. Sci. Eng. A, 378: 2 (2004).",
+				"tr":  "G. S. Firstov, Yu. N. Koval, and J. Van Humbeek, Mater. Sci. Eng. A, 378: 2 (2004)."
+			},
+			{
+				"doi": "10.1016/S0142-9612(02)00244-2",
+				"or":  "G. S. Firstov, R. G. Vitchev, H. Kumar et al., Biomaterials, 23: 4863 (2002).",
+				"tr":  "G. S. Firstov, R. G. Vitchev, H. Kumar et al., Biomaterials, 23: 4863 (2002)."
+			},
+			{
+				"doi": "10.1051/jp4:20031068",
+				"or":  "G. S. Firstov, Yu. N. Koval, J. Van Humbeek, and R. G. Vitchev, J. Phys. IV France, 112: 1075 (2003).",
+				"tr":  "G. S. Firstov, Yu. N. Koval, J. Van Humbeek, and R. G. Vitchev, J. Phys. IV France, 112: 1075 (2003)."
+			},
+			{
+				"doi": "10.1051/jp4:2001880",
+				"or":  "G. S. Firstov, J. Van Humbeek, and Yu. N. Koval, J. Phys. IV France, 11: 481 (2001).",
+				"tr":  "G. S. Firstov, J. Van Humbeek, and Yu. N. Koval, J. Phys. IV France, 11: 481 (2001)."
+			},
+			{
+				"doi": "",
+				"or":  "Ю. Н. Коваль, Г. С. Фирстов, Металлофиз. новейшие технол., 29, № 6: 815 (2007).",
+				"tr":  "Yu. M. Koval' and G. S. Firstov, Metallofiz. Noveishie Tekhnol., 29, No. 6: 815 (2007) (in Russian)."
+			},
+			{
+				"doi": "10.1002/1521-3951(199702)199:2<549::AID-PSSB549>3.0.CO;2-E",
+				"or":  "A. I. Mitsek and V. A. Mitsek, phys. status solidi (b), 199, No. 2: 549 (1997).",
+				"tr":  "A. I. Mitsek and V. A. Mitsek, phys. status solidi (b), 199, No. 2: 549 (1997)."
+			},
+			{
+				"doi": "",
+				"or":  "В. Н. Пушкарь, А. И. Мицек, С. И. Кузьмина, ФММ, 50, № 5: 1002 (1980).",
+				"tr":  "V. N. Pushkar, A. I. Mitsek, and S. I. Kuzmina, Fiz. Met. Metalloved., 50, No. 5: 1002 (1980) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Мицек, В. Н. Пушкарь, Реальные кристаллы с магнитным порядком (Киев: Наукова думка: 1978).",
+				"tr":  "A. I.Mitsek and V. N. Pushkar, Realnye Kristally s Magnitnym Poryadkom [Real Crystals with Magnetic Order] (Kiev: Naukova Dumka: 1978) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Мицек, Металлофиз. новейшие технол., 25, № 1: 7 (2003).",
+				"tr":  "O. I. Mitsek, Metallofiz. Noveishie Tekhnol., 25, No. 1: 7 (2003) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "А. И. Мицек, В. Н. Пушкарь, Металлофиз. новейшие технол., 32, № 11: 1517 (2010).",
+				"tr":  "O. I. Mitsek and V. M. Pushkar, Metallofiz. Noveishie Tekhnol., 32, No. 11: 1517 (2010) (in Russian)."
+			},
+			{
+				"doi": "10.7868/S0015323014120092",
+				"or":  "А. В. Верещагин, В. В. Сериков, Н. М. Клейнерман и др., ФММ, 115, № 12: 1276 (2014).",
+				"tr":  "A. V. Vereshchagin, V. V. Serikov, N. M. Kleinerman et al., Fiz. Met. Metalloved., 115, No. 12: 1276 (2014) (in Russian)."
+			}
+		]
+	}
+}

@@ -1,0 +1,172 @@
+{
+	"year":   2018,
+	"volume": 40,
+	"issue":  5,
+	"toc": [
+		{
+			"type":    1,
+			"rubric":  2,
+			"pages":  [561,583],
+			"title": {
+				"ua": "Прикладні можливості рентґенівської топографії кристалів у косоасиметричній схемі дифракції на відбивання",
+				"en": "Applied Capabilities of X-Ray Topography of Crystals in the Skew-Asymmetric Bragg Diffraction",
+				"ru": "Прикладные возможности рентгеновской топографии кристаллов в косоасимметричной схеме дифракции на отражение"
+			},
+			"autors": {
+				"ua": "І. М. Фодчук, Р. А. Заплітний, Ю. Т. Роман, В. Б. Молодкін, Т. П. Владимирова, З. Свянтек",
+				"en": "I. M. Fodchuk, R. A. Zaplitnyy, Yu. T. Roman, V. B. Molodkin, T. P. Vladimirova, and Z. Świątek",
+				"ru": "И. М. Фодчук, Р. А. Заплитный, Ю. Т. Роман, В. Б. Молодкин, Т. П. Владимирова, З. Свянтек"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  2,
+			"pages":  [585,592],
+			"title": {
+				"ua": "$K_{\\alpha}L^1$-, $K_{\\alpha}L^2$- та $K_{\\alpha}L^3$-рентґенівська емісія алюмінію при електронному ударі",
+				"en": "The $K_{\\alpha}L^1$, $K_{\\alpha}L^2$, and $K_{\\alpha}L^3$ X-Ray Emission of Aluminium under Electron Impact",
+				"ru": "$K_{\\alpha}L^1$-, $K_{\\alpha}L^2$- и $K_{\\alpha}L^3$-рентгеновская эмиссия алюминия при электронном ударе"
+			},
+			"autors": {
+				"ua": "М. А. М. Аль-Омарі, М. О. Боровий",
+				"en": "M. A. M. Al-Omari and M. O. Borovyi",
+				"ru": "М. А. М. Аль-Омари, Н. А. Боровой"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  8,
+			"pages":  [593,599],
+			"title": {
+				"ua": "Пригнічення перескоку електронів по найближчих сусідах у надпровідниках на основі FeSe",
+				"en": "Suppression of Nearest Neighbour Electron Hopping in FeSe-Based Superconductors",
+				"ru": "Подавление перескоков электронов по ближайшим соседям в сверхпроводниках на основе FeSe"
+			},
+			"autors": {
+				"ua": "Ю. В. Пустовіт, О. А. Кордюк",
+				"en": "Yu. V. Pustovit and O. A. Kordyuk",
+				"ru": "Ю. В. Пустовит, А. А. Кордюк"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [601,613],
+			"title": {
+				"ua": "Вплив підшарів ґерманію на структуру, електропровідність та оптичні властивості нанорозмірних плівок срібла",
+				"en": "Influence of Germanium Sublayers on Structure, Electrical Conductivity, and Optical Properties of Nanosize Films of Silver",
+				"ru": "Влияние подслоёв германия на структуру, электропроводность и оптические свойства наноразмерных плёнок серебра"
+			},
+			"autors": {
+				"ua": "Р. І. Бігун, З. В. Стасюк, О. В. Строганов, М. Д. Бучковська, Д. С. Леонов",
+				"en": "R. I. Bihun, Z. V. Stasyuk, O. V. Stroganov, M. D. Buchkovska, and D. S. Leonov",
+				"ru": "Р. И. Бигун, З. В. Стасюк, О. В. Строганов, М. Д. Бучковская, Д. С. Леонов"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [615,623],
+			"title": {
+				"ua": "Вплив магнетного поля на електроосадження нанорозмірних структур",
+				"en": "Effect of Magnetic Field on Electrodeposition of Nanosize Structures",
+				"ru": "Влияние магнитного поля на электроосаждение наноразмерных структур"
+			},
+			"autors": {
+				"ua": "Є. А. Бондар, Д. А. Лужбін",
+				"en": "E. A. Bondar and D. A. Luzhbin",
+				"ru": "Е. А. Бондарь, Д. А. Лужбин"
+			}
+		},		
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [625,635],
+			"title": {
+				"ua": "Синтеза та магнетні характеристики нанокомпозитів N–Co",
+				"en": "Synthesis and Magnetic Characteristics of N–Co Nanocomposites",
+				"ru": "Синтез и магнитные характеристики нанокомпозитов N–Co"
+			},
+			"autors": {
+				"ua": "О. М. Лісова, М. В. Абрамов, С. М. Махно, П. П. Горбик",
+				"en": "O. M. Lisova, M. V. Abramov, S. M. Makhno, and P. P. Gorbyk",
+				"ru": "О. М. Лисова, Н. В. Абрамов, С. Н. Махно, П. П. Горбик"
+			}
+		},
+		{
+			"type":    1,
+			"rubric":  5,
+			"pages":  [637,648],
+			"title": {
+				"ua": "Синтеза карбідів WC та Mo$_2$C механічним стопленням металевого порошку та вуглецевих нанотрубок",
+				"en": "Synthesis of the WC and Mo$_2$C Carbides by Mechanical Alloying of Metal Powder and Carbon Nanotubes",
+				"ru": "Синтез карбидов WC и Mo$_2$C механическим сплавлением металлического порошка и углеродных нанотрубок"
+			},
+			"autors": {
+				"ua": "О. І. Наконечна, М. М. Дашевський, Н. М. Білявина",
+				"en": "O. Nakonechna, M. Dashevskyi, and N. Belyavina",
+				"ru": "О. И. Наконечная, Н. Н. Дашевский, Н. Н. Белявина"
+			}
+		},		
+		{
+			"type":    1,
+			"rubric":  3,
+			"pages":  [649,660],
+			"title": {
+				"ua": "Вплив часткової заміни манґану хромом на структуру та кінетику гідрування стопу на основі інтерметаліду (Ti, Zr)(V, Mn)$_{2-x}$",
+				"en": "Influence of Partial Substitution of Manganese with Chromium on Structure and Kinetics of Hydrogenation of an Alloy Based on the (Ti, Zr)(V, Mn)$_{2-x}$ Intermetallide",
+				"ru": "Влияние частичной замены марганца хромом на структуру и кинетику гидрирования сплава на основе интерметаллида (Ti, Zr)(V, Mn)$_{2-x}$"
+			},
+			"autors": {
+				"ua": "Т. В. Прядко, В. А. Дехтяренко",
+				"en": "T. V. Pryadko and V. A. Dekhtyarenko",
+				"ru": "Т. В. Прядко, В. А. Дехтяренко"
+			}
+		},		
+		{
+			"type":    1,
+			"rubric":  6,
+			"pages":  [661,681],
+			"title": {
+				"ua": "Нестаціонарний ріст кристалів упродовж напрямленого твердіння для різних кристалографічних орієнтацій",
+				"en": "Non-Steady-State Growth During Directional Solidification of Various Crystallographic Orientations",
+				"ru": "Нестационарный рост кристаллов в течение направленного затвердевания для различных кристаллографических ориентаций"
+			},
+			"autors": {
+				"ua": "О. П. Федоров, В. Ф. Демченко, Є. Л. Живолуб",
+				"en": "O. P. Fedorov, V. F. Demchenko, and E. L. Zhivolub",
+				"ru": "О. П. Федоров, В. Ф. Демченко, Е. Л. Живолуб"
+			}
+		},		
+		{
+			"type":    1,
+			"rubric":  7,
+			"pages":  [683,700],
+			"title": {
+				"ua": "Плазучість зварних з’єднань паропроводів",
+				"en": "Creeping of Welded Joints of Steam Pipelines",
+				"ru": "Ползучесть сварных соединений паропроводов"
+			},
+			"autors": {
+				"ua": "А. В. Глушко, В. В. Дмитрик, Т. А. Сиренко",
+				"en": "A. V. Glushko, V. V. Dmytryk, and T. A. Syrenko",
+				"ru": "А. В. Глушко, В. В. Дмитрик, Т. А. Сыренко"
+			}
+		},		
+		{
+			"type":    1,
+			"rubric":  18,
+			"pages":  [701,712],
+			"title": {
+				"ua": "Діягностування прихоплень металевих бурильних труб за їхнім напружено-деформованим станом у похило-скерованій свердловині",
+				"en": "Diagnosing of a Freeze-In of Metal Drill Pipes by Their Stressedly-Deformed State in the Controlled Directional Bore Hole",
+				"ru": "Диагностирование прихватов металлических бурильных труб по их напряжённо-деформированному состоянию в наклонно-направленной буровой скважине"
+			},
+			"autors": {
+				"ua": "К. Г. Левчук",
+				"en": "K. G. Levchuk",
+				"ru": "Е. Г. Левчук"
+			}
+		}		
+	]
+}

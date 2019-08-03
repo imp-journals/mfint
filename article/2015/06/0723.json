@@ -1,0 +1,63 @@
+{
+	"_id":    "MFiNT.37.06.0723",
+	"year":   2015,
+	"volume": 37,
+	"issue":  6,
+	"pages":  [723,730],
+	"rubric": 8,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["31.10.2014","11.12.2014"],
+	"PACS":   "07.50.Hp, 72.70.+m, 73.23.-b, 73.40.Rw, 74.25.fc, 74.45.+c, 74.78.Fk",
+	"title":  {
+		"ua": "Електричний шум у мезоскопічних структурах нормальний метал–ізолятор–надпровідник",
+		"en": "Electrical Noise in Mesoscopic Normal Metal—Insulator—Superconductor Structures",
+		"ru": "Электрический шум в мезоскопических структурах нормальный металл—изолятор—сверхпроводник"
+	},
+	"abstract": {
+		"ua": "У даній статті виконано чисельні розрахунки потужності електричного шуму в мезоскопічних структурах нормальний метал—ізолятор—надпровідник. Досліджено вплив температури на величину флюктуацій струму в тунельному контакті. Показано, що залежність спектральної густини шуму від напруги для низькочастотної границі має два максимуми. Перший відповідає енергетичній щілині надпровідника і відображає поведінку провідности тунельного контакту, а другий з’являється при більш високих напругах внаслідок накладання теплового та дробового шумів.",
+		"en": "Numerical calculations of the electrical-noise power in mesoscopic normal metal—insulator—superconductor structures are performed. The influence of temperature on the value of current fluctuations in a tunnel junction is studied. As shown, the voltage dependence of the noise spectral density in the low-frequency limit has two maxima. The first one corresponds to the energy gap of the superconductor and reflects the behaviour of the tunnel-junction conductance, whereas the second one appears at higher voltages as a result of superposition of the thermal and shot noises.",
+		"ru": "В данной статье выполнены численные расчёты мощности электрического шума в мезоскопических структурах нормальный металл—изолятор— сверхпроводник. Изучено влияние температуры на величину токовых флуктуаций в туннельном контакте. Показано, что зависимость спектральной плотности шума от напряжения в низкочастотном пределе имеет два максимума. Первый соответствует энергетической щели сверхпроводника и отражает поведение проводимости туннельного контакта, а второй появляется при более высоких напряжениях в результате наложения теплового и дробового шумов."
+	},
+	"keywords": {
+		"ua": "тепловий і дробовий шуми, спектральна густина шуму, тунельний контакт, надпровідники",
+		"en": "thermal and shot noise, spectral density of noise, tunnel contact, superconductors",
+		"ru": "тепловой и дробовой шумы, спектральная плотность шума, туннельный контакт, сверхпроводники"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "І. В. Бойло", "en": "I. V. Boylo", "ru": "И. В. Бойло"},
+			"OID": [9]
+		}
+	],
+	"references": {
+		"count": 5,
+		"list":  [
+			{
+				"doi": "10.1016/j.physc.2010.07.005",
+				"or":  "S. Anders, M. G. Blamire, F.-Im. Buchholz, D.-G. Crété, R. Cristiano, P. Febvre, L. Fritzsch, A. Herr, E. Il’ichev, J. Kohlmann, J. Kunert, H.-G. Meyer, J. Niemeyer, T. Ortlepp, H. Rogalla, T. Schurig, M. Siegel, R. Stolz, E. Tarte, H. J. M. ter Brake, H. Toepfer, J.-C. Villegier, A. M. Zagoskin, and A. B. Zorin, Physica C: Superconductivity, 470, Nos. 23–24: 2079 (2010).",
+				"tr":  "S. Anders, M. G. Blamire, F.-Im. Buchholz, D.-G. Crété, R. Cristiano, P. Febvre, L. Fritzsch, A. Herr, E. Il'ichev, J. Kohlmann, J. Kunert, H.-G. Meyer, J. Niemeyer, T. Ortlepp, H. Rogalla, T. Schurig, M. Siegel, R. Stolz, E. Tarte, H. J. M. ter Brake, H. Toepfer, J.-C. Villegier, A. M. Zagoskin, and A. B. Zorin, Physica C: Superconductivity, 470, Nos. 23–24: 2079 (2010)."
+			},
+			{
+				"doi": "10.1016/S0370-1573(99)00123-4",
+				"or":  "Ya. M. Blanter and M. Buttiker, Physics Reports, 336, Nos. 1–2: 1 (2000).",
+				"tr":  "Ya. M. Blanter and M. Buttiker, Physics Reports, 336, Nos. 1–2: 1 (2000)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.59.9617",
+				"or":  "M. Belogolovskii, M. Grajcar, P. Kúš, A. Plecenik, Š. Beňačka, and P. Seidel, Phys. Rev. B, 59, No. 14: 9617 (1999).",
+				"tr":  "M. Belogolovskii, M. Grajcar, P. Kúš, A. Plecenik, Š. Beňačka, and P. Seidel, Phys. Rev. B, 59, No. 14: 9617 (1999)."
+			},
+			{
+				"doi": "",
+				"or":  "R. P. Feynman and A. R. Hibbs, Kvantovaya Mekhanika i Integraly po Traektoriyam Quantum Mechanics and PathIntegrals] (Moscow: Mir: 1968) (Russian translation).",
+				"tr":  "R. P. Feynman and A. R. Hibbs, Kvantovaya Mekhanika i Integraly po Traektoriyam Quantum Mechanics and PathIntegrals] (Moscow: Mir: 1968) (Russian translation)."
+			},
+			{
+				"doi": "10.1023/A:1021885617107",
+				"or":  "H. Courtois, P. Charlat, Ph. Gandit, D. Mailly, and B. Pannetier, J. Low Temp. Phys., 116, Nos. 3/4: 187 (1999).",
+				"tr":  "H. Courtois, P. Charlat, Ph. Gandit, D. Mailly,and B. Pannetier, J. Low Temp. Phys., 116, Nos. 3/4: 187 (1999)."
+			}
+		]
+	}
+}

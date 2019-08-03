@@ -1,0 +1,192 @@
+{
+	"_id":    "MFiNT.39.02.0163",
+	"year":   2017,
+	"volume": 39,
+	"issue":  2,
+	"pages":  [163,175],
+	"rubric": 5,
+	"type":   1,
+	"lang":   "ru",
+	"date":   ["14.07.2016"],
+	"PACS":   "34.20.-b, 36.40.Mr, 36.40.Qv, 61.46.Bc, 61.80.Az, 61.82.Bg, 68.49.Sf",
+	"title":   {
+		"ua": "Моделювання зіштовхувальної стадії еволюції дводольних біметалевих кластерів під дією димерів Арґону низьких енергій",
+		"en": "Simulation of Collision Stage of Evolution of Bipartite Bimetal Clusters under Impact of Low-Energy Argon Dimers",
+		"ru": "Моделирование столкновительной стадии эволюции двудольных биметаллических кластеров под действием димеров аргона низких энергий"
+	},
+	"abstract": {
+		"ua": "Виконано молекулярно-динамічне моделювання бомбування біметалевих кластерів Cu–Au і Ni–Al, що складаються з 390 атомів, частинками Ar і Ar$_{2}$ з початковими енергіями від 1 еВ до 1,4 кеВ. Для формування вихідних дводольних кластерів були використані по два однокомпонентних кластера відповідних елементів, що складаються зі 195 атомів. Для кожної початкової енергії було виконано по 2000 комп’ютерних експериментів з часом моделювання у 5 пс і різними початковими координатами частинок Арґону. Моделювання проводилося в рамках класичної молекулярної динаміки з використанням Акландового потенціялу для опису взаємодії між атомами металу, потенціялу ZBL — для взаємодії типу метал–Арґон, HFD-B3 — для взаємодії Арґон–Арґон. Досліджувалися зміни потенціяльної енергії та температура біметалевих кластерів. Одержано якісно іншу форму кривих залежностей потенціяльної енергії та температури біметалевого кластера від енергії налітної частинки при бомбардуванні димером Арґону в порівнянні з поодинокими атомами Арґону в області низьких енергій. Обчислено виходи розпорошення та їхні склади, а також число переміщень атомів через роздільчу межу між монокомпонентними частинами кластера в результаті ініційованих бомбівними частинками процесів зіткнень. Показано значне збільшення виходів розпорошення, в тому числі й у складі багатоатомових структур, всіх компонентів цілі зі збільшенням розміру налітної частинки.",
+		"en": "The molecular dynamics simulation of the bombardment of bimetal Cu–Au and Ni–Al clusters consisting of 390 atoms by Ar and Ar$_{2}$ particles with initial energies from 1 eV to 1.4 keV is performed. To form the initial bipartite clusters, two monocomponent clusters of relevant elements consisting of 195 atoms are used. 2000 computer experiments during 5 ps of simulation time with different initial coordinates of argon particles are carried out for each value of the initial energy. The simulation is performed within the framework of the classical molecular dynamics using Ackland potential to describe the interaction between the metal atoms, ZBL potential—for the metal–argon-type interaction, and HFD-B3 potential—for the argon–argon-type interaction. The change of the potential energy and the temperature of the bimetal clusters are investigated. In the case of bombardment with argon dimers, in comparison with bombardment by single argon atoms with low energies, the qualitative difference in form of the dependences of potential energy and temperature of the bimetal clusters on the energy of the incident particle is shown. The sputtering yields and their compositions as well as the number of displacements of atoms across the interface between monocomponent parts of the cluster initiated by bombarding particle collision processes are calculated. The significant increase in sputtering yields and in the number of sputtered polyatomic structures with the increase of the incident-ions’ size is shown.",
+		"ru": "Выполнено молекулярно-динамическое моделирование бомбардировки биметаллических кластеров Cu–Au и Ni–Al, состоящих из 390 атомов, частицами Ar и Ar$_{2}$ с начальными энергиями от 1 эВ до 1,4 кэВ. Для формирования исходных двудольных кластеров были использованы по два однокомпонентных кластера соответствующих элементов, состоящих из 195 атомов. Для каждой начальной энергии было выполнено по 2000 компьютерных экспериментов со временем моделирования 5 пс и различными начальными координатами частиц аргона. Моделирование проводилось в рамках классической молекулярной динамики с использованием потенциала Акланда для описания взаимодействия между атомами металла, потенциала ZBL — для взаимодействия типа металл–аргон, HFD-B3 — для взаимодействия аргон–аргон. Исследовались изменения потенциальной энергии и температура биметаллических кластеров. Получена качественно иная форма кривых зависимостей потенциальной энергии и температуры биметаллического кластера от энергии налетающей частицы при бомбардировке димером аргона по сравнению с единичными атомами аргона в области низких энергий. Вычислены выходы распыления и их составы, а также число перемещений атомов через границу раздела между монокомпонентными долями кластера в результате инициируемых бомбардирующими частицами столкновительных процессов. Показано значительное увеличение выходов распыления, в том числе и в составе многоатомных структур, всех компонентов мишени с увеличением размера налетающей частицы."
+	},
+	"keywords": {
+		"ua": "молекулярна динаміка, Акландів потенціял, теплота перемішування, атомовий кластер, йонне бомбування",
+		"en": "molecular dynamics, Ackland potential, heat of mixing, atomic clusters, ion bombardment",
+		"ru": "молекулярная динамика, потенциал Акланда, теплота перемешивания, атомный кластер, ионная бомбардировка"
+	},
+	"autors": [
+		{
+			"AID": {"ua": "Д. В. Широкорад", "en": "D. V. Shyrokorad", "ru": "Д. В. Широкорад"},
+			"OID": [220]
+		},
+		{
+			"AID": {"ua": "Г. В. Корніч", "en": "G. V. Kornich", "ru": "Г. В. Корнич"},
+			"OID": [220]
+		}
+	],
+	"references": {
+		"count": 30,
+		"list":  [
+			{
+				"doi": "10.1016/j.nantod.2014.02.010",
+				"or":  "L. Zhang and E. Wang, Nano Today, 9, No. 1: 132 (2014).",
+				"tr":  "L. Zhang and E. Wang, Nano Today, 9, No. 1: 132 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "T. Tsukuda and H. Hakkinen, Protected Metal Clusters: From Fundamentals to Applications (Amsterdam: Elsevier: 2015).",
+				"tr":  "T. Tsukuda and H. Hakkinen, Protected Metal Clusters: From Fundamentals to Applications (Amsterdam: Elsevier: 2015)."
+			},
+			{
+				"doi": "",
+				"or":  "Metal Clusters at Surfaces. Structure, Quantum Properties, Physical Chemistry (Ed. K.-H. Meiwes-Broer) (Berlin–Heidelberg: Springer-Verlag: 2000).",
+				"tr":  "Metal Clusters at Surfaces. Structure, Quantum Properties, Physical Chemistry (Ed. K.-H. Meiwes-Broer) (Berlin–Heidelberg: Springer-Verlag: 2000)."
+			},
+			{
+				"doi": "10.1016/j.nantod.2011.04.007",
+				"or":  "S. Guo and E. Wang, Nano Today, 6, No. 3: 240 (2011).",
+				"tr":  "S. Guo and E. Wang, Nano Today, 6, No. 3: 240 (2011)."
+			},
+			{
+				"doi": "10.1002/ppsc.201400033",
+				"or":  "A. Mathew and T. Pradeep, Part. Part. Syst. Charact., 31, No. 10: 1017 (2014).",
+				"tr":  "A. Mathew and T. Pradeep, Part. Part. Syst. Charact., 31, No. 10: 1017 (2014)."
+			},
+			{
+				"doi": "",
+				"or":  "Physics and Chemistry of Metal Cluster Compounds (Ed. L. J. De Jongh) (Dordrecht: Springer: 1994).",
+				"tr":  "Physics and Chemistry of Metal Cluster Compounds (Ed. L. J. De Jongh) (Dordrecht: Springer: 1994)."
+			},
+			{
+				"doi": "10.1021/jp050424l",
+				"or":  "V. Biju, Y. Makita, A. Sonoda, H. Yokoyama, Y. Baba, and M. Ishikawa, J. Phys. Chem. B, 109, No. 29: 13899 (2005).",
+				"tr":  "V. Biju, Y. Makita, A. Sonoda, H. Yokoyama, Y. Baba, and M. Ishikawa, J. Phys. Chem. B, 109, No. 29: 13899 (2005)."
+			},
+			{
+				"doi": "10.1016/S0927-0248(99)00100-2",
+				"or":  "M. Westphalen, U. Kreibig, J. Rostalski, H. Luth, and D. Meissner, Sol. Energy Mater. Sol. Cells, 61, No. 1: 97 (2000).",
+				"tr":  "M. Westphalen, U. Kreibig, J. Rostalski, H. Luth, and D. Meissner, Sol. Energy Mater. Sol. Cells, 61, No. 1: 97 (2000)."
+			},
+			{
+				"doi": "10.1021/ja505903r",
+				"or":  "Z. A. Qiao, P. Zhang, S. H. Chai, M. Chi, G. M. Veith, N. C. Gallego, M. Kidder, and S. Dai, J. Am. Chem. Soc., 136, No. 32: 11260 (2014).",
+				"tr":  "Z. A. Qiao, P. Zhang, S. H. Chai, M. Chi, G. M. Veith, N. C. Gallego, M. Kidder, and S. Dai, J. Am. Chem. Soc., 136, No. 32: 11260 (2014)."
+			},
+			{
+				"doi": "10.1021/jz502637b",
+				"or":  "S. Malola, M. J. Hartmann, and H. Häkkinen, J. Phys. Chem. Lett., 6, No. 3: 515 (2015).",
+				"tr":  "S. Malola, M. J. Hartmann, and H. Häkkinen, J. Phys. Chem. Lett., 6, No. 3: 515 (2015)."
+			},
+			{
+				"doi": "10.1007/s11051-009-9654-6",
+				"or":  "M. D. Deshpande, R. Pandey, M. A. Blanco, and A. Khalkar, J. Nanoparticle Res., 12, No. 4: 1129 (2010).",
+				"tr":  "M. D. Deshpande, R. Pandey, M. A. Blanco, and A. Khalkar, J. Nanoparticle Res., 12, No. 4: 1129 (2010)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.55.15531",
+				"or":  "A. N. Mansour, A. Dmitrienko, A. V. Soldatov, and T. Ni, Phys. Rev. B, 55, No. 23: 15531 (1997).",
+				"tr":  "A. N. Mansour, A. Dmitrienko, A. V. Soldatov, and T. Ni, Phys. Rev. B, 55, No. 23: 15531 (1997)."
+			},
+			{
+				"doi": "10.1021/cr040090g",
+				"or":  "R. Ferrando, J. Jellinek, and R. L. Johnston, Chem. Rev., 108, No. 3: 845 (2008).",
+				"tr":  "R. Ferrando, J. Jellinek, and R. L. Johnston, Chem. Rev., 108, No. 3: 845 (2008)."
+			},
+			{
+				"doi": "10.1039/C5CP05034K",
+				"or":  "S. K. Mudedla, E. R. Azhagiya Singam, K. Balamurugan, and V. Subramanian, Phys. Chem. Chem. Phys., 17, No. 45: 30307 (2015).",
+				"tr":  "S. K. Mudedla, E. R. Azhagiya Singam, K. Balamurugan, and V. Subramanian, Phys. Chem. Chem. Phys., 17, No. 45: 30307 (2015)."
+			},
+			{
+				"doi": "10.1039/C5CP01294E",
+				"or":  "H. Akbarzadeh, M. Abbaspour, S. Salemi, and M. Abroodi, Phys. Chem. Chem. Phys., 17, No. 19: 12747 (2015).",
+				"tr":  "H. Akbarzadeh, M. Abbaspour, S. Salemi, and M. Abroodi, Phys. Chem. Chem. Phys., 17, No. 19: 12747 (2015)."
+			},
+			{
+				"doi": "10.1016/S0168-583X(01)00431-1",
+				"or":  "R. Kissel and H. M. Urbassek, Nucl. Instruments Methods Phys. Res. Sect. B: Beam Interact. Mater. Atoms, 180, Nos. 1–4: 293 (2001).",
+				"tr":  "R. Kissel and H. M. Urbassek, Nucl. Instruments Methods Phys. Res. Sect. B: Beam Interact. Mater. Atoms, 180, Nos. 1–4: 293 (2001)."
+			},
+			{
+				"doi": "10.1209/0295-5075/82/26002",
+				"or":  "T. T. Järvi, J. A. Pakarinen, A. Kuronen, and K. Nordlund, Europhys. Lett., 82, No. 2: 26002 (2008).",
+				"tr":  "T. T. Järvi, J. A. Pakarinen, A. Kuronen, and K. Nordlund, Europhys. Lett., 82, No. 2: 26002 (2008)."
+			},
+			{
+				"doi": "10.1186/s11671-015-1009-x",
+				"or":  "L. Sandoval and H. M. Urbassek, Nanoscale Res. Lett., 10, No. 1: 314 (2015).",
+				"tr":  "L. Sandoval and H. M. Urbassek, Nanoscale Res. Lett., 10, No. 1: 314 (2015)."
+			},
+			{
+				"doi": "",
+				"or":  "D. V. Shyrokorad, G. V. Kornich, and S. G. Buga, Fiz. Tverd. Tela, 58, No. 2: 377 (2016) (in Russian).",
+				"tr":  "D. V. Shyrokorad, G. V. Kornich, and S. G. Buga, Fiz. Tverd. Tela, 58, No. 2: 377 (2016) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "D. V. Shyrokorad and G. V. Kornich, Fiz. Tverd. Tela, 56, No. 12: 2475 (2014) (in Russian).",
+				"tr":  "D. V. Shyrokorad and G. V. Kornich, Fiz. Tverd. Tela, 56, No. 12: 2475 (2014) (in Russian)."
+			},
+			{
+				"doi": "",
+				"or":  "G. E. Norman and V. V. Stegaylov, Visnyk Kharkivs’kogo Natsional’nogo Universytetu, 870, No. 17 (40): 11 (2009) (in Russian).",
+				"tr":  "G. E. Norman and V. V. Stegaylov, Visnyk Kharkivs'kogo Natsional'nogo Universytetu, 870, No. 17 (40): 11 (2009) (in Russian)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.41.10324",
+				"or":  "G. J. Ackland and V. Vitek, Phys. Rev. B, 41, No. 15: 10324 (1990).",
+				"tr":  "G. J. Ackland and V. Vitek, Phys. Rev. B, 41, No. 15: 10324 (1990)."
+			},
+			{
+				"doi": "10.1103/PhysRevB.47.5571",
+				"or":  "M. Yan, M. Šob, D. Luzzi, V. Vitek, G. J. Ackland, M. Methfessel, and C. Rodriguez, Phys. Rev. B, 47, No. 10: 5571 (1993).",
+				"tr":  "M. Yan, M. Šob, D. Luzzi, V. Vitek, G. J. Ackland, M. Methfessel, and C. Rodriguez, Phys. Rev. B, 47, No. 10: 5571 (1993)."
+			},
+			{
+				"doi": "",
+				"or":  "W. Eckstein, Computer Simulation of Ion–Solid Interactions (Berlin–Heidelberg: Springer: 2011).",
+				"tr":  "W. Eckstein, Computer Simulation of Ion–Solid Interactions (Berlin–Heidelberg: Springer: 2011)."
+			},
+			{
+				"doi": "10.1063/1.458165",
+				"or":  "R. A. Aziz and M. J. Slaman, J. Chem. Phys., 92, No. 2: 1030 (1990).",
+				"tr":  "R. A. Aziz and M. J. Slaman, J. Chem. Phys., 92, No. 2: 1030 (1990)."
+			},
+			{
+				"doi": "10.1016/j.nimb.2010.02.091",
+				"or":  "J. F. Ziegler, M. D. Ziegler, and J. P. Biersack, Nucl. Instruments Methods Phys. Res. Sect. B: Beam Interact. Mater. Atoms, 268, Nos. 11–12: 1818 (2010).",
+				"tr":  "J. F. Ziegler, M. D. Ziegler, and J. P. Biersack, Nucl. Instruments Methods Phys. Res. Sect. B: Beam Interact. Mater. Atoms, 268, Nos. 11–12: 1818 (2010)."
+			},
+			{
+				"doi": "10.1016/j.nimb.2010.11.088",
+				"or":  "G. V. Kornich, G. Betz, V. G. Kornich, V. I. Shulga, and O. A. Yermolenko, Nucl. Instr. Meth. Phys. Res. Sect. B: Beam Interact. Mater. Atoms, 269, No. 14: 1600 (2011).",
+				"tr":  "G. V. Kornich, G. Betz, V. G. Kornich, V. I. Shulga, and O. A. Yermolenko, Nucl. Instr. Meth. Phys. Res. Sect. B: Beam Interact. Mater. Atoms, 269, No. 14: 1600 (2011)."
+			},
+			{
+				"doi": "",
+				"or":  "Sputtering by Particle Bombardment (Eds. R. Behrisch and W. Eckstein) (Berlin–Heidelberg: Springer: 2007).",
+				"tr":  "Sputtering by Particle Bombardment (Eds. R. Behrisch and W. Eckstein) (Berlin–Heidelberg: Springer: 2007)."
+			},
+			{
+				"doi": "10.1016/S0168-583X(98)00410-8",
+				"or":  "G. V. Kornich and G. Betz, Nucl. Instruments Methods Phys. Res. Sect. B: Beam Interact. Mater. Atoms, 143, No. 4: 455 (1998).",
+				"tr":  "G. V. Kornich and G. Betz, Nucl. Instruments Methods Phys. Res. Sect. B: Beam Interact. Mater. Atoms, 143, No. 4: 455 (1998)."
+			},
+			{
+				"doi": "10.1103/PhysRev.184.383",
+				"or":  "P. Sigmund, Phys. Rev., 184, No. 2: 383 (1969).",
+				"tr":  "P. Sigmund, Phys. Rev., 184, No. 2: 383 (1969)."
+			}
+		]
+	}
+}
